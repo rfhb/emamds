@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-28 15:55:32
-document_pages: 37
+document_datetime: 2026-07-15 12:00:34
+document_pages: 44
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/erbitux-epar-product-information_en.pdf
 document_name: erbitux-epar-product-information_en.pdf
 version: success
-processing_time: 10.9875707
-conversion_datetime: 2026-01-29 12:23:56.099189
+processing_time: 16.0157852
+conversion_datetime: 2026-07-16 13:36:49.529247
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -54,6 +54,13 @@ Erbitux is indicated for the treatment of patients with epidermal growth factor 
 
 For details, see section 5.1.
 
+Erbitux is indicated for the treatment of adult patients with BRAF V600E mutant metastatic colorectal cancer
+
+- in combination with encorafenib and FOLFOX for the first line treatment.
+- in combination with encorafenib in patients who have received prior systemic therapy.
+
+For details, see section 5.1, for biomarker-based patient selection, see section 4.2.
+
 Erbitux is indicated for the treatment of patients with squamous cell cancer of the head and neck
 
 - in combination with radiation therapy for locally advanced disease,
@@ -63,27 +70,39 @@ Erbitux is indicated for the treatment of patients with squamous cell cancer of 
 
 Erbitux must be administered under the supervision of a physician experienced in the use of antineoplastic medicinal products. Close monitoring is required during the infusion and for at least 1 hour after the end of the infusion. Availability of resuscitation equipment must be ensured.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Posology
 
 Prior to the first infusion, patients must receive premedication with an antihistamine and a corticosteroid at least 1 hour prior to administration of cetuximab. This premedication is recommended prior to all subsequent infusions.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Colorectal cancer
 
-In patients with metastatic colorectal cancer, cetuximab is used in combination with chemotherapy or as a single agent (see section 5.1). Evidence of wild-type RAS (KRAS and NRAS) status is required before initiating treatment with Erbitux. Mutational status should be determined by an experienced laboratory using validated test methods for detection of KRAS and NRAS (exons 2, 3, and 4) mutations (see section 4.4 and 5.1).
+## RAS wild-type metastatic colorectal cancer
+
+In patients with RAS wild-type metastatic colorectal cancer, cetuximab is used in combination with chemotherapy or as a single agent (see section 5.1). Evidence of wild-type RAS (KRAS and NRAS) status is required before initiating treatment with Erbitux. Mutational status should be determined by an experienced laboratory using validated test methods for detection of KRAS and NRAS (exons 2, 3, and 4) mutations (see section 4.4 and 5.1).
 
 Erbitux may be administered in a weekly or every other week dose regimen.
 
 ## Weekly dose regimen
 
-Erbitux is administered once a week. The initial dose is 400 mg cetuximab per m 2 body surface area (BSA). All subsequent weekly doses are 250 mg/m 2  each.
+Erbitux is administered once a week. The initial dose is 400 mg cetuximab per m 2 body surface area (BSA). All subsequent weekly doses are 250 mg/m 2 each.
 
 ## Biweekly dose regimen
 
 Erbitux is administered once every other week. Each dose is 500 mg cetuximab per m 2 body surface area.
 
-For the dosage or recommended dose modifications of concomitantly used chemotherapeutic agents, refer to the product information for these medicinal products. They must not be administered earlier than 1 hour after the end of the cetuximab infusion.
+## BRAF V600E mutant metastatic colorectal cancer
+
+In patients with BRAF V600E mutant metastatic colorectal cancer, cetuximab is used in combination with encorafenib and FOLFOX or encorafenib (see section 5.1). Evidence of BRAF V600E mutation status is required before initiating treatment with Erbitux. Mutational status should be assessed by a CE marked IVD with the corresponding intended purpose. If the CE-marked IVD is not available, an alternative validated test should be used.
+
+In combination with encorafenib in patients who received prior systemic therapy Erbitux is administered once a week. The very first dose is 400 mg cetuximab per m 2 body surface area (BSA). All subsequent weekly doses are 250 mg/m 2 each.
+
+## In combination with encorafenib and FOLFOX
+
+Erbitux is administered once every other week. Each dose is 500 mg cetuximab per m 2 body surface area.
+
+For the dosage or recommended dose modifications of concomitantly used chemotherapeutic agents and encorafenib, refer to the product information for these medicinal products. Chemotherapeutic agents must not be administered earlier than 1 hour after the end of the cetuximab infusion. Encorafenib should be administered before starting cetuximab infusion.
 
 It is recommended that cetuximab treatment be continued until progression of the underlying disease.
 
@@ -93,7 +112,9 @@ It is recommended that cetuximab treatment be continued until progression of the
 
 In patients with locally advanced squamous cell cancer of the head and neck, cetuximab is used concomitantly with radiation therapy. It is recommended to start cetuximab therapy one week before radiation therapy and to continue cetuximab therapy until the end of the radiation therapy period.
 
-Erbitux is administered once a week. The initial dose is 400 mg cetuximab per m 2 body surface area (BSA). All subsequent weekly doses are 250 mg/m 2  each.
+<div style=\"page-break-after: always\"></div>
+
+Erbitux is administered once a week. The initial dose is 400 mg cetuximab per m 2 body surface area (BSA). All subsequent weekly doses are 250 mg/m 2 each.
 
 ## In combination with platinum-based chemotherapy
 
@@ -103,7 +124,7 @@ Erbitux may be administered in a weekly or every other week dose regimen.
 
 ## Weekly dose regimen
 
-Erbitux is administered once a week. The initial dose is 400 mg cetuximab per m 2 body surface area (BSA). All subsequent weekly doses are 250 mg/m 2  each.
+Erbitux is administered once a week. The initial dose is 400 mg cetuximab per m 2 body surface area (BSA). All subsequent weekly doses are 250 mg/m 2 each.
 
 ## Biweekly dose regimen
 
@@ -111,13 +132,11 @@ Erbitux is administered once every other week. Each dose is 500 mg cetuximab per
 
 ## Special populations
 
-Only patients with adequate renal and hepatic function have been investigated to date (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
-
 Cetuximab has not been studied in patients with pre-existing haematological disorders (see section 4.4).
 
 No dose adjustment is required in older people, but the experience is limited in patients 75 years of age and above.
+
+Patients with mild (CRCL ≥60 and &lt;90 mL/min) and moderate (CRCL ≥30 and &lt;60 mL/min) renal impairment, as well as mild hepatic impairment according to National Cancer Institute Organ Dysfunction Working Group (NCI-ODWG) criteria, have been investigated to date. The effect of moderate or severe hepatic impairment, as defined by NCI-ODWG criteria, on cetuximab pharmacokinetics has not been assessed. The pharmacokinetics of cetuximab in patients with severe (CRCL ≥15 and &lt;30 mL/min) renal impairment or end -stage renal disease have not been evaluated. See section 5.2.
 
 ## Paediatric population
 
@@ -127,11 +146,13 @@ There is no relevant use of cetuximab in the paediatric population for the grant
 
 Erbitux 5 mg/mL is administered intravenously with an infusion pump, gravity drip or a syringe pump (for handling instructions, see section 6.6).
 
-The initial dose should be given slowly to minimize risk of infusion related reactions (see section 4.4). The recommended infusion period is 120 minutes. For subsequent cetuximab administration the infusion rate must not exceed 10 mg/min. If initial infusion is well tolerated the recommended infusion period for weekly dose regimen of 250 mg/m 2 is 60 minutes and recommended infusion period for biweekly dose regimen of 500 mg/m 2  is 120 minutes.
+The initial dose should be given slowly to minimize risk of infusion related reactions (see section 4.4). The recommended infusion period is 120 minutes. For subsequent cetuximab administration the infusion rate must not exceed 10 mg/min. If initial infusion is well tolerated the recommended infusion period for weekly dose regimen of 250 mg/m 2 is 60 minutes and recommended infusion period for biweekly dose regimen of 500 mg/m 2 is 120 minutes.
 
 ## 4.3 Contraindications
 
 Erbitux is contraindicated in patients with known severe (grade 3 or 4) hypersensitivity reactions to cetuximab.
+
+<div style=\"page-break-after: always\"></div>
 
 The combination of Erbitux with oxaliplatin-containing chemotherapy is contraindicated for patients with mutant RAS metastatic colorectal cancer (mCRC) or for whom RAS mCRC status is unknown (see also section 4.4).
 
@@ -147,11 +168,7 @@ In order to improve the traceability of biological medicinal products, the name 
 
 Severe infusion-related reactions, including anaphylactic reactions, may commonly occur, in some cases with fatal outcome. Occurrence of a severe infusion-related reaction requires immediate and permanent discontinuation of cetuximab therapy and may necessitate emergency treatment. Some of these reactions may be anaphylactic or anaphylactoid in nature or represent a cytokine release syndrome (CRS). Symptoms may occur during the first infusion and for up to several hours afterwards or with subsequent infusions. It is recommended to warn patients of the possibility of such a late onset and instruct them to contact their physician if symptoms or signs of an infusion-related reaction occur. Symptoms may include bronchospasm, urticaria, increase or decrease in blood pressure, loss of consciousness or shock. In rare cases, angina pectoris, myocardial infarction or cardiac arrest have been observed.
 
-Anaphylactic reactions may occur as early as within a few minutes of the first infusion e.g. due to preformed IgE antibodies cross-reacting with cetuximab. These reactions are commonly associated with bronchospasm and urticaria. They can occur despite the use of premedication.
-
-<div style=\"page-break-after: always\"></div>
-
-The risk for anaphylactic reactions is much increased in patients with a history of allergy to red meat or tick bites or positive results of tests for IgE antibodies against cetuximab (α-1-3-galactose). In these patients cetuximab should be administered only after a careful assessment of benefit/risk, including alternative treatments, and only under close supervision of well trained personnel with resuscitation equipment ready.
+Anaphylactic reactions may occur as early as within a few minutes of the first infusion e.g. due to preformed IgE antibodies cross-reacting with cetuximab. These reactions are commonly associated with bronchospasm and urticaria. They can occur despite the use of premedication. The risk for anaphylactic reactions is much increased in patients with a history of allergy to red meat or tick bites or positive results of tests for IgE antibodies against cetuximab (α -1-3-galactose). In these patients cetuximab should be administered only after a careful assessment of benefit/risk, including alternative treatments, and only under close supervision of well trained personnel with resuscitation equipment ready.
 
 The first dose should be administered slowly whilst all vital signs are closely monitored for at least two hours. If during the first infusion, an infusion-related reaction occurs within the first 15 minutes, the infusion should be stopped. A careful benefit/risk assessment should be undertaken including consideration whether the patient may have preformed IgE antibodies before a subsequent infusion is given.
 
@@ -171,6 +188,8 @@ stop infusion immediately, treat symptoms vigorously and contraindicate further 
 
 A cytokine release syndrome (CRS) typically occurs within one hour after infusion and is less commonly associated with bronchospasm and urticaria. CRS is normally most severe in relation to the first infusion.
 
+<div style=\"page-break-after: always\"></div>
+
 Mild or moderate infusion-related reactions are very common comprising symptoms such as fever, chills, dizziness, or dyspnoea that occur in a close temporal relationship mainly to the first cetuximab infusion. If the patient experiences a mild or moderate infusion-related reaction, the infusion rate may be decreased. It is recommended to maintain this lower infusion rate in all subsequent infusions.
 
 A close monitoring of patients, particularly during the first administration, is required. Special attention is recommended for patients with reduced performance status and pre-existing cardiopulmonary disease.
@@ -187,11 +206,9 @@ If interstitial lung disease is diagnosed, cetuximab must be discontinued and th
 
 Main adverse reactions of cetuximab are skin reactions which may become severe, especially in combination with chemotherapy. The risk for secondary infections (mainly bacterial) is increased and cases of staphylococcal scalded skin syndrome, necrotising fasciitis and sepsis, in some cases with fatal outcome, have been reported (see section 4.8).
 
-<div style=\"page-break-after: always\"></div>
-
 Skin reactions are very common and treatment interruption or discontinuation may be required. According to clinical practice guidelines prophylactic use of oral tetracyclines (6 - 8 weeks) and topical application of 1% hydrocortisone cream with moisturiser should be considered. Medium to high-potency topical corticosteroids or oral tetracyclines have been used for the treatment of skin reactions.
 
-If a patient experiences an intolerable or severe skin reaction (  grade 3; Common Terminology Criteria for Adverse Events, CTCAE), cetuximab therapy must be interrupted. Treatment may only be resumed if the reaction has resolved to grade 2.
+If a patient experiences an intolerable or severe skin reaction ( ≥ grade 3; Common Terminology Criteria for Adverse Events, CTCAE), cetuximab therapy must be interrupted. Treatment may only be resumed if the reaction has resolved to grade 2.
 
 If the severe skin reaction occurred for the first time, treatment may be resumed without any change in dose level.
 
@@ -205,6 +222,8 @@ If severe skin reactions occur a fourth time or do not resolve to grade 2 during
 
 Progressively decreasing serum magnesium levels occur frequently and may lead to severe hypomagnesaemia. Hypomagnesaemia is reversible following discontinuation of cetuximab. In addition, hypokalaemia may develop as a consequence of diarrhoea. Hypocalcaemia may also occur; in particular in combination with platinum-based chemotherapy the frequency of severe hypocalcaemia may be increased.
 
+<div style=\"page-break-after: always\"></div>
+
 Determination of serum electrolyte levels is recommended prior to and periodically during cetuximab treatment. Electrolyte repletion is recommended, as appropriate.
 
 ## Neutropenia and related infectious complications
@@ -213,13 +232,11 @@ Patients who receive cetuximab in combination with platinum-based chemotherapy a
 
 ## Cardiovascular disorders
 
-An increased frequency of severe and sometimes fatal cardiovascular events and treatment emergent deaths has been observed in the treatment of non-small cell lung cancer, squamous cell carcinoma of the head and neck and colorectal carcinoma. In some studies association with age ≥ 65 years or performance status has been observed. When prescribing cetuximab, the cardiovascular and performance status of the patients and concomitant administration of cardiotoxic compounds such as fluoropyrimidines should be taken into account.
+An increased frequency of severe and sometimes fatal cardiovascular events and treatment emergent deaths has been observed in the treatment of non-small cell lung cancer, squamous cell carcinoma of the head and neck and colorectal carcinoma . In some studies association with age ≥ 65 years or performance status has been observed. When prescribing cetuximab, the cardiovascular and performance status of the patients and concomitant administration of cardiotoxic compounds such as fluoropyrimidines should be taken into account.
 
 ## Eye disorders
 
 Patients presenting with signs and symptoms suggestive of keratitis such as acute or worsening: eye inflammation, lacrimation, light sensitivity, blurred vision, eye pain and/or red eye should be referred promptly to an ophthalmology specialist.
-
-<div style=\"page-break-after: always\"></div>
 
 If a diagnosis of ulcerative keratitis is confirmed, treatment with cetuximab should be interrupted or discontinued. If keratitis is diagnosed, the benefits and risks of continuing treatment should be carefully considered.
 
@@ -233,8 +250,6 @@ Similar findings were also reported when cetuximab was given as add-on to XELOX 
 
 ## Special populations
 
-Only patients with adequate renal and hepatic function have been investigated to date (serum creatinine  1.5fold, transaminases  5fold and bilirubin  1.5fold the upper limit of normal).
-
 Cetuximab has not been studied in patients presenting with one or more of the following laboratory parameters:
 
 - haemoglobin &lt; 9 g/dL
@@ -243,6 +258,10 @@ Cetuximab has not been studied in patients presenting with one or more of the fo
 - platelet count &lt; 100 000/mm³
 
 There is limited experience in the use of cetuximab in combination with radiation therapy in colorectal cancer.
+
+<div style=\"page-break-after: always\"></div>
+
+Patients with mild (CRCL ≥60 and &lt;90 mL/min) and moderate (CRCL ≥30 and &lt;60 mL/min) renal impairment, as well as mild hepatic impairment according to NCI-ODWG criteria, have been investigated to date. The effect of moderate or severe hepatic impairment, as defined by NCI-ODWG criteria, on cetuximab pharmacokinetics has not been assessed. The pharmacokinetics of cetuximab in patients with severe (CRCL ≥15 and &lt;30 mL/min) renal impairment or end -stage renal disease have not been evaluated. See section 5.2.
 
 ## Paediatric population
 
@@ -257,8 +276,6 @@ In combination with fluoropyrimidines, the frequency of cardiac ischaemia includ
 In combination with capecitabine and oxaliplatin (XELOX) the frequency of severe diarrhoea may be increased.
 
 A formal interaction study showed that the pharmacokinetic characteristics of cetuximab remain unaltered after co-administration of a single dose of irinotecan (350 mg/m 2 body surface area). Similarly, the pharmacokinetics of irinotecan were unchanged when cetuximab was co-administered.
-
-<div style=\"page-break-after: always\"></div>
 
 No other formal interaction studies with cetuximab have been performed in humans.
 
@@ -278,6 +295,8 @@ It is recommended that women do not breast-feed during treatment with Erbitux an
 
 There are no data on the effect of cetuximab on human fertility. Effects on male and female fertility have not been evaluated within formal animal studies (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 No studies on the effects on the ability to drive and use machines have been performed. If patients experience treatment-related symptoms affecting their ability to concentrate and react, it is recommended that they do not drive or use machines until the effect subsides.
@@ -286,95 +305,99 @@ No studies on the effects on the ability to drive and use machines have been per
 
 The main undesirable effects of cetuximab are skin reactions, which occur in more than 80% of patients, hypomagnesaemia which occurs in more than 10% of patients and infusion-related reactions, which occur with mild to moderate symptoms in more than 10% of patients and with severe symptoms in more than 1% of patients.
 
+The safety of cetuximab in combination with encorafenib (300 mg orally once daily) (dosed as per its SmPC) was evaluated in 216 patients with BRAF V600E-mutant metastatic colorectal cancer, based on the phase III study ARRAY-818-302. The most common ADRs (&gt;25%) reported in this population were: fatigue, nausea, diarrhoea, dermatitis acneiform, abdominal pain, arthralgia/musculoskeletal pain, decreased appetite, rash and vomiting.
+
+The rate of all study drug discontinuation due to any adverse reaction was 1.9 % in patients treated with cetuximab in combination with encorafenib.
+
+The safety of cetuximab in combination with encorafenib (300 mg orally once daily) and FOLFOX was evaluated in 259 patients with BRAF V600E -mutant metastatic colorectal cancer, based on the study C4221015 - BREAKWATER (hereafter referred to as the pooled EC+FOLFOX population, i.e all patients who received encorafenib and cetuximab (EC)+FOLFOX in the different portions of the study). The most common ADRs (&gt;25%) reported in this population were: neuropathy peripheral, neutropenia, nausea, fatigue, anaemia, diarrhoea, vomiting, decreased appetite, rash, thrombocytopenia, abdominal pain, haemorrhage, arthralgia/musculoskeletal pain, pyrexia, constipation, mucosal inflammation and infection.
+
+The rate of all study drug discontinuation due to any adverse reaction was 3.5 % in patients treated with cetuximab in combination with encorafenib and FOLFOX.
+
 The following definitions apply to the frequency terminology used hereafter:
 
-Very common (  1/10) Common (  1/100 to &lt; 1/10) Uncommon (  1/1 000 to &lt; 1/100) Rare (  1/10 000 to &lt; 1/1 000) Very rare (&lt; 1/10 000) Frequency not known (cannot be estimated from the available data)
+Very common ( ≥ 1/10) Common ( ≥ 1/100 to &lt; 1/10) Uncommon ( ≥ 1/1 000 to &lt; 1/100) Rare ( ≥ 1/10 000 to &lt; 1/1 000) Very rare (&lt; 1/10 000) Frequency not known (cannot be estimated from the available data)
 
-An asterisk (*) indicates that additional information on the respective undesirable effect is provided below the table.
+Table:
 
-## Metabolism and nutrition disorders
-
-Very common:
-
-Hypomagnesaemia (see section 4.4). Dehydration, in particular secondary to diarrhoea or mucositis; hypocalcaemia
-
-Common:
-
-(see section 4.4); anorexia which may lead to weight decrease.
+Adverse reactions
 
 <div style=\"page-break-after: always\"></div>
 
-## Nervous system disorders
+|                                                      | Cetuximab                                                                                                                      | Cetuximab in combination with Encorafenib (n = 216)     | Cetuximab in combination with Encorafenib and FOLFOX (n = 259)                 |
+|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------------------------------|
+| Blood and lymphatic system disorders                 | Blood and lymphatic system disorders                                                                                           | Blood and lymphatic system disorders                    | Blood and lymphatic system disorders                                           |
+| Very common                                          |                                                                                                                                |                                                         | Neutropenia* Anaemia* Thrombocytopenia* Leukopenia*                            |
+| Cardiac disorders                                    | Cardiac disorders                                                                                                              | Cardiac disorders                                       | Cardiac disorders                                                              |
+| Common                                               |                                                                                                                                | Supraventricular tachycardia a                          | Supraventricular tachycardia a                                                 |
+| Eye Disorders                                        | Eye Disorders                                                                                                                  | Eye Disorders                                           | Eye Disorders                                                                  |
+| Common                                               | Conjunctivitis                                                                                                                 |                                                         |                                                                                |
+| Uncommon                                             | Blepharitis Keratitis.                                                                                                         |                                                         |                                                                                |
+| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                     | Gastrointestinal disorders                              | Gastrointestinal disorders                                                     |
+| Very common                                          |                                                                                                                                | Nausea Vomiting* Constipation Abdominal pain* Diarrhoea | Nausea Diarrhoea* Vomiting* Abdominal pain* Constipation Mucosal inflammation* |
+| Common                                               | Diarrhoea Nausea Vomiting                                                                                                      |                                                         |                                                                                |
+| Uncommon                                             |                                                                                                                                | Pancreatitis*                                           | Pancreatitis*                                                                  |
+| General disorders and administration site conditions | General disorders and administration site conditions                                                                           | General disorders and administration site conditions    | General disorders and administration site conditions                           |
+| Very common                                          | Mild or moderate infusion-related reactions (see section 4.4) Mucositis, in some cases severe. Mucositis may lead to epistaxis | Fatigue* Pyrexia*                                       | Fatigue* Pyrexia*                                                              |
+| Common                                               | Severe infusion-related reactions, in some cases with fatal outcome (see section 4.4) Fatigue                                  |                                                         |                                                                                |
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                        | Hepatobiliary disorders                                 | Hepatobiliary disorders                                                        |
+| Very common                                          | Increase in liver enzyme levels (ASAT, ALAT, AP)                                                                               |                                                         |                                                                                |
+| Immune system disorders                              | Immune system disorders                                                                                                        | Immune system disorders                                 | Immune system disorders                                                        |
+| Common                                               |                                                                                                                                | Hypersensitivity b                                      |                                                                                |
+| Very common                                          |                                                                                                                                |                                                         | Hypersensitivity b                                                             |
+| Infections and infestations                          | Infections and infestations                                                                                                    | Infections and infestations                             | Infections and infestations                                                    |
+| Very common                                          |                                                                                                                                |                                                         | Infections c                                                                   |
+| Common                                               |                                                                                                                                |                                                         | Upper respiratory tract infection* Sepsis*                                     |
 
-Common:
+<div style=\"page-break-after: always\"></div>
 
-Headache.
+|                                                 | Cetuximab                                                                                                                                 | Cetuximab in combination with Encorafenib (n = 216)                                        | Cetuximab in combination with Encorafenib and FOLFOX (n = 259)            |
+|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Investigations                                  | Investigations                                                                                                                            | Investigations                                                                             | Investigations                                                            |
+| Very common                                     |                                                                                                                                           |                                                                                            | Lipase increased* Weight decreased Transaminase increased*                |
+| Common                                          |                                                                                                                                           | Blood creatinine increased* Transaminase increased*                                        | Blood creatinine increased* Amylase increased*                            |
+| Uncommon                                        |                                                                                                                                           | Amylase increased Lipase increased                                                         |                                                                           |
+| Metabolism and Nutrition disorders              | Metabolism and Nutrition disorders                                                                                                        | Metabolism and Nutrition disorders                                                         | Metabolism and Nutrition disorders                                        |
+| Very common                                     | Hypomagnesaemia (see section 4.4).                                                                                                        | Decreased appetite                                                                         | Decreased appetite Hypokalaemia Hypomagnesaemia Hypoalbuminaemia*         |
+| Common                                          | Dehydration, in particular secondary to diarrhoea or mucositis Hypocalcaemia (see section 4.4) Anorexia which may lead to weight decrease |                                                                                            |                                                                           |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                                                                           | Musculoskeletal and connective tissue disorders                                            | Musculoskeletal and connective tissue disorders                           |
+| Very common                                     |                                                                                                                                           | Arthralgia/Musculoskelet al pain* Myopathy/ Muscular disorder* Pain in extremity Back pain | Arthralgia/Musculoskeletal pain* Myopathy/ Muscular disorder d Back pain* |
+| Common                                          |                                                                                                                                           |                                                                                            | Pain in extremity*                                                        |
+| Neoplasms benign, malignant and unspecified     | Neoplasms benign, malignant and unspecified                                                                                               | Neoplasms benign, malignant and unspecified                                                | Neoplasms benign, malignant and unspecified                               |
+| Very common                                     |                                                                                                                                           | Melanocytic naevus                                                                         |                                                                           |
+| Common                                          |                                                                                                                                           | cuSCC e Skin papilloma* New Primary Melanoma*                                              | Melanocytic naevus Skin papilloma* Basal cell carcinoma cuSCC e           |
+| Uncommon                                        |                                                                                                                                           | Basal cell carcinoma*                                                                      | New Primary Melanoma*                                                     |
+| Nervous system disorders                        | Nervous system disorders                                                                                                                  | Nervous system disorders                                                                   | Nervous system disorders                                                  |
+| Very common                                     |                                                                                                                                           | Neuropathy peripheral* Headache*                                                           | Neuropathy peripheral f Dysgeusia* Headache*                              |
+| Common                                          | Headache                                                                                                                                  | Dizziness*                                                                                 | Dizziness*                                                                |
+| Unknown                                         | Aseptic meningitis                                                                                                                        | Dysgeusia                                                                                  |                                                                           |
+| Psychiatric disorders                           | Psychiatric disorders                                                                                                                     | Psychiatric disorders                                                                      | Psychiatric disorders                                                     |
+| Very common                                     | Very common                                                                                                                               | Insomnia                                                                                   | Insomnia*                                                                 |
+| Renal and urinary disorders                     | Renal and urinary disorders                                                                                                               | Renal and urinary disorders                                                                | Renal and urinary disorders                                               |
+| Common                                          | Common                                                                                                                                    | Renal failure*                                                                             | Renal failure*                                                            |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                           | Respiratory, thoracic and mediastinal disorders                                            | Respiratory, thoracic and mediastinal disorders                           |
+| Uncommon                                        | Pulmonary embolism Interstitial lung disease, which may be fatal (see section 4.4)                                                        |                                                                                            |                                                                           |
 
-Frequency not known: Aseptic meningitis.
+<div style=\"page-break-after: always\"></div>
 
-## Eye disorders
+|                                        | Cetuximab                                            | Cetuximab in combination with Encorafenib (n = 216)             | Cetuximab in combination with Encorafenib and FOLFOX (n = 259)                       |
+|----------------------------------------|------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Skin and subcutaneous tissue disorders | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                          | Skin and subcutaneous tissue disorders                                               |
+| Very common                            | Skin reactions*                                      | Dermatitis acneiform* Rash* Dry skin* Pruritus*                 | Rash* Skin hyperpigmentation* Dermatitis acneiform* Dry skin* Alopecia PPES Pruritus |
+| Common                                 |                                                      | Skin hyperpigmentation PPES Hyperkeratosis* Alopecia Erythema g | Erythema Hyperkeratosis* Skin exfoliation                                            |
+| Uncommon                               |                                                      | Skin exfoliation h                                              |                                                                                      |
+| Very rare                              | Stevens-Johnson syndrome/toxic epidermal necrolysis. |                                                                 |                                                                                      |
+| Unknown                                | Superinfection of skin lesions                       |                                                                 |                                                                                      |
+| Vascular disorders                     | Vascular disorders                                   | Vascular disorders                                              | Vascular disorders                                                                   |
+| Uncommon                               | Deep vein thrombosis                                 |                                                                 |                                                                                      |
+| Very common                            |                                                      | Haemorrhage i                                                   | Haemorrhage i                                                                        |
 
-Common:
-
-Conjunctivitis.
-
-Uncommon:
-
-Blepharitis; keratitis.
-
-## Vascular disorders
-
-Uncommon:
-
-Deep vein thrombosis.
-
-## Respiratory, thoracic and mediastinal disorders
-
-Uncommon:
-
-Pulmonary embolism; interstitial lung disease, which may be fatal (see section 4.4).
-
-## Gastrointestinal disorders
-
-Common:
-
-Diarrhoea; nausea; vomiting.
-
-## Hepatobiliary disorders
-
-Very common:
-
-Increase in liver enzyme levels (ASAT, ALAT, AP).
-
-## Skin and subcutaneous tissue disorders
-
-Very common:
-
-Skin reactions*.
-
-Very rare:
-
-Stevens-Johnson syndrome/toxic epidermal necrolysis.
-
-Frequency not known:  Superinfection of skin lesions*.
-
-## General disorders and administration site conditions
-
-Very common:
-
-Mild or moderate infusion-related reactions (see section 4.4); mucositis, in some cases severe. Mucositis may lead to epistaxis.
-
-Common:
-
-Severe infusion-related reactions, in some cases with fatal outcome (see section 4.4); fatigue.
-
-## Additional information
-
-Overall, no clinically relevant difference between genders was observed.
+## Description of selected adverse reactions
 
 ## Skin reactions
 
 Skin reactions may develop in more than 80% of patients and mainly present as acne-like rash and/or, less frequently, as pruritus, dry skin, desquamation, hypertrichosis, or nail disorders (e.g. paronychia). Approximately 15% of the skin reactions are severe, including single cases of skin necrosis. The majority of skin reactions develop within the first three weeks of therapy. They generally resolve, without sequelae, over time following cessation of treatment if the recommended adjustments in dose regimen are followed (see section 4.4).
+
+## Superinfection of skin lesions
 
 Skin lesions induced by cetuximab may predispose patients to superinfections (e.g. with S. aureus ), which may lead to subsequent complications, e.g. cellulitis, erysipelas, or, potentially with fatal outcome, staphylococcal scalded skin syndrome, necrotising fasciitis or sepsis.
 
@@ -387,6 +410,8 @@ When cetuximab is used in combination with chemotherapeutic agents, also refer t
 In combination with platinum-based chemotherapy, the frequency of severe leukopenia or severe neutropenia may be increased, and thus may lead to a higher rate of infectious complications such as febrile neutropenia, pneumonia and sepsis compared to platinum-based chemotherapy alone (see section 4.4).
 
 In combination with fluoropyrimidines, the frequency of cardiac ischaemia including myocardial infarction and congestive heart failure as well as the frequency of hand-foot syndrome (palmar-plantar erythrodysaesthesia) were increased compared to that with fluoropyrimidines.
+
+In combination with encorafenib and FOLFOX or encorafenib, no new adverse reactions other than those currently known to occur with cetuximab, encorafenib or FOLFOX were identified. There was no meaningful increase in frequency or severity of known adverse reactions. Please refer to the product information of encorafenib and individual product components of FOLFOX.
 
 In combination with local radiation therapy of the head and neck area, additional undesirable effects were those typical of radiation therapy (such as mucositis, radiation dermatitis, dysphagia or leukopenia, mainly presenting as lymphocytopenia). In a randomised controlled clinical study with 424 patients, reporting rates of severe acute radiation dermatitis and mucositis as well as of late radiation-therapy-related events were slightly higher in patients receiving radiation therapy in combination with cetuximab than in those receiving radiation therapy alone.
 
@@ -410,11 +435,11 @@ Cetuximab is a chimeric monoclonal IgG1 antibody that is specifically directed a
 
 EGFR signalling pathways are involved in the control of cell survival, cell cycle progression, angiogenesis, cell migration and cellular invasion/metastasis.
 
+<div style=\"page-break-after: always\"></div>
+
 Cetuximab binds to the EGFR with an affinity that is approximately 5- to 10-fold higher than that of endogenous ligands. Cetuximab blocks binding of endogenous EGFR ligands resulting in inhibition of the function of the receptor. It further induces the internalisation of EGFR, which can lead to downregulation of EGFR. Cetuximab also targets cytotoxic immune effector cells towards EGFRexpressing tumour cells (antibody dependent cell-mediated cytotoxicity, ADCC).
 
 Cetuximab does not bind to other receptors belonging to the HER family.
-
-<div style=\"page-break-after: always\"></div>
 
 The protein product of the proto-oncogene RAS (rat sarcoma) is a central down-stream signaltransducer of EGFR. In tumours, activation of RAS by EGFR contributes to EGFR-mediated increased proliferation, survival and the production of pro-angiogenic factors.
 
@@ -424,11 +449,15 @@ RAS is one of the most frequently activated family of oncogenes in human cancers
 
 In both in vitro and in vivo assays, cetuximab inhibits the proliferation and induces apoptosis of human tumour cells that express EGFR. In vitro cetuximab inhibits the production of angiogenic factors by tumour cells and blocks endothelial cell migration. In vivo cetuximab inhibits expression of angiogenic factors by tumour cells and causes a reduction in tumour neo-vascularisation and metastasis.
 
+In the setting of BRAF-mutant CRC, induction of EGFR-mediated MAPK pathway activation has been identified as a mechanism of resistance to BRAF inhibitors. Combinations of a BRAF inhibitor and agents targeting EGFR have been shown to improve anti-tumour efficacy in non-clinical models.
+
 ## Immunogenicity
 
-The development of human anti-chimeric antibodies (HACA) is a class effect of monoclonal chimeric antibodies. Current data on the development of HACAs is limited. Overall, measurable HACA titres were noted in 3.4% of the patients studied, with incidences ranging from 0% to 9.6% in the target indication studies. No conclusive data on the neutralising effect of HACAs on cetuximab is available to date. The appearance of HACA did not correlate with the occurrence of hypersensitivity reactions or any other undesirable effect to cetuximab.
+The development of human anti-chimeric antibodies (HACA) is a class effect of monoclonal chimeric antibodies. Current data on the development of HACAs is limited. Overall, measurable HACA titres were noted in 3.4% of the patients studied, with incidences r anging from 0% to 9.6% in the target indication studies. No conclusive data on the neutralising effect of HACAs on cetuximab is available to date. The appearance of HACA did not correlate with the occurrence of hypersensitivity reactions or any other undesirable effect to cetuximab.
 
 ## Colorectal cancer
+
+## RAS wild-type metastatic colorectal cancer
 
 A diagnostic assay (EGFR pharmDx) was used for immunohistochemical detection of EGFR expression in tumour material. A tumour was considered to be EGFR-expressing, if one stained cell could be identified. Approximately 75% of the patients with metastatic colorectal cancer screened for clinical studies had an EGFR-expressing tumour and were therefore considered eligible for cetuximab treatment. The efficacy and safety of cetuximab have not been documented in patients with tumours where EGFR was not detected.
 
@@ -436,17 +465,17 @@ Study data demonstrate that patients with metastatic colorectal cancer and activ
 
 Cetuximab as a single agent or in combination with chemotherapy was investigated in 5 randomised controlled clinical studies and several supportive studies. The 5 randomised studies investigated a total of 3734 patients with metastatic colorectal cancer, in whom EGFR expression was detectable and who had an ECOG performance status of ≤ 2. The majority of patients included had an ECOG performance status of ≤ 1. In all studies, cetuximab was administered as described in section 4.2.
 
+<div style=\"page-break-after: always\"></div>
+
 The KRAS exon 2 status was recognised as predictive factor for the treatment with cetuximab in 4 of the randomised controlled studies (EMR 62 202-013, EMR 62 202-047, CA225006, and CA225025). KRAS mutational status was available for 2072 patients. Further post-hoc analyses were performed for studies EMR 62 202-013 and EMR 62 202-047, where also mutations on RAS genes (NRAS and KRAS) other than KRAS exon 2 have been determined. Only in study EMR 62 202-007, a post-hoc analysis was not possible.
 
 In addition, cetuximab was investigated in combination with chemotherapy in an investigator-initiated randomised controlled phase-III study (COIN, COntinuous chemotherapy plus cetuximab or INtermittent chemotherapy). In this study EGFR expression was not an inclusion criterion. Tumour samples from approximately 81% of patients were analysed retrospectively for KRAS expression.
-
-<div style=\"page-break-after: always\"></div>
 
 FIRE-3, an investigator-sponsored clinical phase-III study, compared the treatment of FOLFIRI in combination with either cetuximab or bevacizumab in the first-line treatment of patients with KRAS exon 2 wild-type mCRC. Further post-hoc analyses on mutations on RAS genes other than KRAS exon 2 have been evaluated.
 
 ## Cetuximab in combination with chemotherapy
 
-- EMR 62 202-013: This randomised study in patients with metastatic colorectal cancer who had not received prior treatment for metastatic disease compared the combination of cetuximab and irinotecan plus infusional 5-fluorouracil/folinic acid (FOLFIRI) (599 patients) to the same chemotherapy alone (599 patients). The proportion of patients with KRAS wild-type tumours from the patient population evaluable for KRAS status comprised 63%. For the assessment of the RAS status, mutations other than those on exon 2 of the KRAS gene were determined from all evaluable tumour samples within the KRAS exon 2 wild-type population (65%). The RAS mutant population consists of patients with known KRAS exon 2 mutations as well as additionally identified RAS mutations.
+- EMR 62 202-013: This randomised study in patients with metastatic colorectal cancer who had not received prior treatment for metastatic disease compared the combination of cetuximab and irinotecan plus infusional 5fluorouracil/folinic acid (FOLFIRI) (599 patients) to the same chemotherapy alone (599 patients). The proportion of patients with KRAS wild-type tumours from the patient population evaluable for KRAS status comprised 63%. For the assessment of the RAS status, mutations other than those on exon 2 of the KRAS gene were determined from all evaluable tumour samples within the KRAS exon 2 wild-type population (65%). The RAS mutant population consists of patients with known KRAS exon 2 mutations as well as additionally identified RAS mutations.
 
 The efficacy data generated in this study are summarised in the table below:
 
@@ -456,25 +485,25 @@ The efficacy data generated in this study are summarised in the table below:
 |                       | (N=178)                    | (N=189)                    | (N=246)                 | (N=214)                 |
 | OS                    |                            |                            |                         |                         |
 | months, median        | 28.4                       | 20.2                       | 16.4                    | 17.7                    |
-| (95% CI)              | (24.7, 31.6)               | (17.0, 24.5)               | (14.9, 18.4)            | (15.4, 19.6)            |
-| Hazard Ratio (95% CI) | 0.69 (0.54, 0.88)          | 0.69 (0.54, 0.88)          | 1.05 (0.86, 1.28)       | 1.05 (0.86, 1.28)       |
+| (95% CI)              | (24.7, 31.6)               | (17.0, 24.5)               | (14.9, 18.4)            | (15.4, 19.6 )           |
+| Hazard Ratio (95% CI) | 0.69 (0.54, 0.8 8)         | 0.69 (0.54, 0.8 8)         | 1.05 (0.86, 1.28)       | 1.05 (0.86, 1.28)       |
 | p-value               | 0.0024                     | 0.0024                     | 0.6355                  | 0.6355                  |
 | PFS                   |                            |                            |                         |                         |
 | months, median        | 11.4                       | 8.4                        | 7.4                     | 7.5                     |
-| (95% CI)              | (10.0, 14.6)               | (7.4, 9.4)                 | (6.4, 8.0)              | (7.2, 8.5)              |
+| (95% CI)              | (10.0, 14.6)               | (7.4, 9.4 )                | (6.4, 8.0)              | (7.2, 8.5)              |
 | Hazard Ratio (95% CI) | 0.56 (0.41, 0.76)          | 0.56 (0.41, 0.76)          | 1.10 (0.85, 1.42)       | 1.10 (0.85, 1.42)       |
 | p-value               | 0.0002                     | 0.0002                     | 0.4696                  | 0.4696                  |
 | ORR                   |                            |                            |                         |                         |
 | %                     | 66.3                       | 38.6                       | 31.7                    | 36.0                    |
-| (95% CI)              | (58.8, 73.2)               | (31.7, 46.0)               | (25.9, 37.9)            | (29.6, 42.8)            |
-| Odds Ratio (95% CI)   | 3.1145 (2.0279, 4.7835)    | 3.1145 (2.0279, 4.7835)    | 0.8478 (0.5767, 1.2462) | 0.8478 (0.5767, 1.2462) |
-| p-value               | <0.0001                    | <0.0001                    | 0.3970                  | 0.3970                  |
+| (95% CI)              | (58.8, 73.2)               | (31.7, 46.0)               | ( 25.9 , 37.9 )         | ( 29.6 , 42.8)          |
+| Odds Ratio (95% CI)   | 3.1145 (2.0 279 , 4.7835)  | 3.1145 (2.0 279 , 4.7835)  | 0.8478 (0.5767, 1.2462) | 0.8478 (0.5767, 1.2462) |
+| p-value               | <0.0001                    | <0.0001                    | 0.397 0                 | 0.397 0                 |
 
 CI = confidence interval, FOLFIRI = irinotecan plus infusional 5-FU/FA, ORR = objective response rate (patients with complete response or partial response), OS = overall survival time, PFS = progression-free survival time
 
-- EMR 62 202-047: This randomised study in patients with metastatic colorectal cancer who had not received prior treatment for metastatic disease compared the combination of cetuximab and oxaliplatin plus continuous infusional 5-fluorouracil/folinic acid (FOLFOX4) (169 patients) to the same chemotherapy alone (168 patients). The proportion of patients with KRAS wild-type tumours from the patient population evaluable for KRAS status comprised 57%. For the assessment of the RAS status, mutations other than those on exon 2 of the KRAS gene were determined from all evaluable tumour samples within the KRAS exon 2 wild-type population. The RAS mutant population consists of patients with known KRAS exon 2 mutations as well as additionally identified RAS mutations.
-
 <div style=\"page-break-after: always\"></div>
+
+- EMR 62 202-047: This randomised study in patients with metastatic colorectal cancer who had not received prior treatment for metastatic disease compared the combination of cetuximab and oxaliplatin plus continuous infusional 5-fluorouracil/folinic acid (FO LFOX4) (169 patients) to the same chemotherapy alone (168 patients). The proportion of patients with KRAS wild-type tumours from the patient population evaluable for KRAS status comprised 57%. For the assessment of the RAS status, mutations other than those on exon 2 of the KRAS gene were determined from all evaluable tumour samples within the KRAS exon 2 wild-type population. The RAS mutant population consists of patients with known KRAS exon 2 mutations as well as additionally identified RAS mutations.
 
 The efficacy data generated in this study are summarised in the table below:
 
@@ -484,17 +513,17 @@ The efficacy data generated in this study are summarised in the table below:
 |                       | (N=38)                     | (N=49)                     | (N=92)                  | (N=75)                  |
 | OS                    |                            |                            |                         |                         |
 | months, median        | 19.8                       | 17.8                       | 13.5                    | 17.8                    |
-| (95% CI)              | (16.6, 25.4)               | (13.8, 23.9)               | (12.1, 17.7)            | (15.9, 23.6)            |
-| Hazard Ratio (95% CI) | 0.94 (0.56, 1.56)          | 0.94 (0.56, 1.56)          | 1.29 (0.91, 1.84)       | 1.29 (0.91, 1.84)       |
+| (95% CI)              | (16.6, 25.4)               | (13.8, 23.9 )              | (12.1, 17.7)            | ( 15.9 , 23.6)          |
+| Hazard Ratio (95% CI) | 0.9 4 (0.56, 1.56)         | 0.9 4 (0.56, 1.56)         | 1.29 (0.9 1, 1.84)      | 1.29 (0.9 1, 1.84)      |
 | p-value               | 0.8002                     | 0.8002                     | 0.1573                  | 0.1573                  |
 | PFS                   |                            |                            |                         |                         |
 | months, median        | 12.0                       | 5.8                        | 5.6                     | 7.8                     |
-| (95% CI)              | (5.8, NE)                  | (4.7, 7.9)                 | (4.4, 7.5)              | (6.7, 9.3)              |
-| Hazard Ratio (95% CI) | 0.53 (0.27, 1.04)          | 0.53 (0.27, 1.04)          | 1.54 (1.04, 2.29)       | 1.54 (1.04, 2.29)       |
+| (95% CI)              | (5.8, NE)                  | (4.7, 7.9 )                | (4.4, 7.5)              | (6.7 , 9. 3)            |
+| Hazard Ratio (95% CI) | 0.53 (0.27, 1.04)          | 0.53 (0.27, 1.04)          | 1.54 (1.04, 2.2 9 )     | 1.54 (1.04, 2.2 9 )     |
 | p-value               | 0.0615                     | 0.0615                     | 0.0309                  | 0.0309                  |
 | ORR                   |                            |                            |                         |                         |
 | %                     | 57.9                       | 28.6                       | 37.0                    | 50.7                    |
-| (95% CI)              | (40.8, 73.7)               | (16.6, 43.3)               | (27.1, 47.7)            | (38.9, 62.4)            |
+| (95% CI)              | (40.8, 73.7)               | (16.6, 43.3)               | (27.1, 47.7)            | ( 38.9 , 62.4)          |
 | Odds Ratio (95% CI)   | 3.3302 (1.375, 8.172)      | 3.3302 (1.375, 8.172)      | 0.580 (0.311, 1.080)    | 0.580 (0.311, 1.080)    |
 | p-value               | 0.0084                     | 0.0084                     | 0.0865                  | 0.0865                  |
 
@@ -538,7 +567,7 @@ In time related endpoints no trends indicating clinical benefit could be shown f
 
 There were significant dose reductions and delays of capecitabine or oxaliplatin administration mainly due to higher frequency of diarrhoea in the cetuximab containing arm. In addition, significantly fewer patients treated with cetuximab received second-line therapy.
 
-FIRE-3 (First-line combination of cetuximab with FOLFIRI): The FIRE-3 study was a multicentre randomised phase-III study investigating head-to-head 5-FU, folinic acid and irinotecan (FOLFIRI) combined with either cetuximab or bevacizumab in patients with KRAS exon 2 wild-type metastatic colorectal cancer (mCRC). RAS status was evaluable in tumour samples of 407 KRAS exon 2 wild-type patients reflecting 69% of the overall KRAS exon 2 wild-type patient population (592 patients). Of these, 342 patients had RAS wild-type tumours while RAS mutations were identified in 65 patients. The RAS mutant population comprises these 65 patients together with 113 patients with KRAS exon 2 mutant tumours treated before study enrolment was restricted to patients with KRAS exon 2 wild-type mCRC.
+FIRE-3 (First-line combination of cetuximab with FOLFIRI): The FIRE-3 study was a multicentre randomised phase-III study investigating head-to-head 5-FU, folinic acid and irinotecan (FOLFIRI) combined with either cetuximab or bevacizumab in patients with KRAS exon 2 wild-type metastatic colorectal cancer (mCRC). RAS status was evaluable in tumour samples of 407 KRAS exon 2 wildtype patients reflecting 69% of the overall KRAS exon 2 wildtype patient population (592 patients). Of these, 342 patients had RAS wild-type tumours while RAS mutations were identified in 65 patients. The RAS mutant population comprises these 65 patients together with 113 patients with KRAS exon 2 mutant tumours treated before study enrolment was restricted to patients with KRAS exon 2 wild-type mCRC.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -549,17 +578,17 @@ The efficacy data generated in this study are summarised in the table below:
 | Variable/ statistic   | Cetuximab plus FOLFIRI (N=171) | Bevacizumab plus FOLFIRI (N=171) | Cetuximab plus FOLFIRI (N=92) | Bevacizumab plus FOLFIRI (N=86) |
 | OS                    |                                |                                  |                               |                                 |
 | months, median        | 33.1                           | 25.6                             | 20.3                          | 20.6                            |
-| (95% CI)              | (24.5, 39.4)                   | (22.7, 28.6)                     | (16.4,23.4)                   | (17.0, 26.7)                    |
+| (95% CI)              | (24.5, 39.4 )                  | (22.7, 28.6)                     | (16.4,23.4)                   | (17.0, 26.7)                    |
 | Hazard Ratio (95% CI) | 0.70 (0.53, 0.92)              | 0.70 (0.53, 0.92)                | 1.09 (0.78, 1.52)             | 1.09 (0.78, 1.52)               |
 | p-value               | 0.011                          | 0.011                            | 0.60                          | 0.60                            |
 | PFS                   |                                |                                  |                               |                                 |
 | months, median        | 10.4                           | 10.2                             | 7.5                           | 10.1                            |
-| (95% CI)              | (9.5, 12.2)                    | (9.3, 11.5)                      | (6.1, 9.0)                    | (8.9, 12.2)                     |
-| Hazard Ratio (95% CI) | 0.93 (0.74, 1.17)              | 0.93 (0.74, 1.17)                | 1.31 (0.96, 1.78)             | 1.31 (0.96, 1.78)               |
+| (95% CI)              | ( 9.5, 12.2 )                  | ( 9.3 , 11.5)                    | (6.1, 9.0 )                   | ( 8.9 , 12.2)                   |
+| Hazard Ratio (95% CI) | 0.93 (0.74, 1.17)              | 0.93 (0.74, 1.17)                | 1.31 (0.9 6, 1.78)            | 1.31 (0.9 6, 1.78)              |
 | p-value               | 0.54                           | 0.54                             | 0.085                         | 0.085                           |
 | ORR                   |                                |                                  |                               |                                 |
 | %                     | 65.5                           | 59.6                             | 38.0                          | 51.2                            |
-| (95% CI)              | (57.9, 72.6)                   | (51.9, 67.1)                     | (28.1, 48.8)                  | (40.1, 62.1)                    |
+| (95% CI)              | ( 57.9 , 72.6)                 | ( 51.9 , 67.1)                   | (28.1, 48.8)                  | (40.1, 62.1)                    |
 | Odds Ratio (95% CI)   | 1.28 (0.83, 1.99)              | 1.28 (0.83, 1.99)                | 0.59 (0.32, 1.06)             | 0.59 (0.32, 1.06)               |
 | p-value               | 0.32                           | 0.32                             | 0. 097                        | 0. 097                          |
 
@@ -569,9 +598,9 @@ In the KRAS wild-type population of the CALGB/SWOG 80405 study (n=1137), superio
 
 - CA225006: This randomised study in patients with metastatic colorectal cancer who had received initial combination treatment with oxaliplatin plus fluoropyrimidine for metastatic disease compared the combination of cetuximab and irinotecan (648 patients) with irinotecan alone (650 patients). Following disease progression, treatment with EGFR-targeting agents was initiated in 50% of patients in the irinotecan-alone arm.
 
-In the overall population, irrespective of KRAS status, the results reported for cetuximab plus irinotecan (648 patients) vs. irinotecan alone (650 patients) were: median overall survival time (OS) 10.71 vs. 9.99 months (HR 0.98), median progression free survival time (PFS) 4.0 vs. 2.6 months (HR 0.69), and objective response rate (ORR) 16.4% vs. 4.2%.
+In the overall population, irrespective of KRAS status, the results reported for cetuximab plus irinotecan (648 patients) vs. irinotecan alone (650 patients) were: median overall survival time (OS) 10.71 vs. 9.99 months (HR 0.98), median progression free s urvival time (PFS) 4.0 vs. 2.6 months (HR 0.69), and objective response rate (ORR) 16.4% vs. 4.2%.
 
-With respect to the KRAS status, tumour samples were only available from 23% of the patients (300 of 1298). From the KRAS evaluated population 64% of the patients (192) had KRAS wildtype tumours and 108 patients KRAS mutations. On the basis of this data and since no independent review of imaging data was conducted, results in relation to mutation status are considered non-interpretable.
+With respect to the KRAS status, tumour samples were only available from 23% of the patients (300 of 1298). From the KRAS evaluated population 64% of the patients (192) had KRAS wild -type tumours and 108 patients KRAS mutations. On the basis of this data and since no independent review of imaging data was conducted, results in relation to mutation status are considered non-interpretable.
 
 - EMR 62 202-007: This randomised study in patients with metastatic colorectal cancer after failure of irinotecan-based treatment for metastatic disease as the last treatment before study entry compared the combination of cetuximab and irinotecan (218 patients) with cetuximab monotherapy (111 patients).
 
@@ -606,6 +635,116 @@ The efficacy data generated in this study are summarised in the table below:
 
 BSC = best supportive care, CI = confidence interval, ORR = objective response rate (patients with complete response or partial response), OS = overall survival time, PFS = progression-free survival time
 
+## BRAF V600E mutant metastatic colorectal cancer
+
+## Cetuximab in combination with encorafenib - Study ARRAY-818-302 (BEACON)
+
+Cetuximab in combination with encorafenib was evaluated in a randomised, active-controlled, openlabel, multicentre trial (ARRAY 818-302 BEACON CRC). Eligible patients were required to have BRAF V600E mutant metastatic colorectal cancer that had progressed after 1 or 2 prior regimens. Enrolled patients were eligible to receive cetuximab per locally approved label with regards to tumour RAS status. Prior use of RAF inhibitors, MEK inhibitors or EGFR inhibitors was prohibited. Randomisation was stratified by Eastern Cooperative Oncology Group (ECOG) performance status, prior use of irinotecan and cetuximab formulation.
+
+A total of 665 patients were randomised (1:1:1) to receive cetuximab in combination with encorafenib 300 mg orally daily (n=220), or cetuximab in combination with encorafenib 300 mg orally daily and binimetinib 45 mg orally twice daily (n=224) or Control (cetuximab with irinotecan or cetuximab with irinotecan/5-fluorouracil/folinic acid (FOLFIRI), n= 221). Treatment continued until disease progression or unacceptable toxicity.
+
+The efficacy outcome measures were overall survival (OS) and objective response rate (ORR) as assessed by a blinded independent central review committee (BIRC), comparing cetuximab in combination with encorafenib 300 mg versus Control. Other efficacy measures are summarised in the table below.
+
+The median age of patients was 61 years (range 2691), 47 % were male and 83% were white. 51% of patients had baseline ECOG performance status of 0, and 51% received prior irinotecan. 46.8% of patients had at least 3 organs with tumour involvement at baseline.
+
+<div style=\"page-break-after: always\"></div>
+
+The median duration of exposure was 3.2 months in patients treated with cetuximab in combination with encorafenib 300 mg, and 1.4 months in patients treated with cetuximab/irinotecan or cetuximab/FOLFIRI (Control arm). In patients treated with the combination of cetuximab and encorafenib 300 mg, the median relative dose intensity (RDI) was 98% for encorafenib and 93.5% for cetuximab. In the control arm, the median RDI was 85.4% for cetuximab, 75.7% for irinotecan and in the subset of patients who received Folinic acid and 5-FU, the median RDI was 75.2% and 75% respectively.
+
+Cetuximab in combination with encorafenib 300 mg demonstrated a statistically significant improvement in OS, ORR and PFS compared to Control. Efficacy results are summarised in the table and figures below.
+
+Study ARRAY-818-302 BEACON CRC: Efficacy Data
+
+|                                                   | Cetuximab with encorafenib                        | cetuximab with irinotecan or cetuximab with FOLFIRI (Control)   |
+|---------------------------------------------------|---------------------------------------------------|-----------------------------------------------------------------|
+| Cut-off date: 11 February 2019 (Primary analysis) | Cut-off date: 11 February 2019 (Primary analysis) | Cut-off date: 11 February 2019 (Primary analysis)               |
+| ORR (per BIRC)                                    |                                                   |                                                                 |
+| Number of patients e                              | 113                                               | 107                                                             |
+| ORR n (%) (95% CI) f                              | 23 (20.4) (13.4, 29.0)                            | 2 (1.9) (0.2, 6.6)                                              |
+| P-value b,d,g                                     | <0.0001                                           |                                                                 |
+| PFS (per BIRC)                                    |                                                   |                                                                 |
+| Number of patients a                              | 220                                               | 221                                                             |
+| Number of events (%)                              | 133 (60.5)                                        | 128 (57.9)                                                      |
+| Median PFS, months (95% CI)                       | 4.2 (3.7, 5.4)                                    | 1.5 (1.5, 1.7)                                                  |
+| HR (95% CI) b,c P-value b,d                       | 0.40 (0.30, 0.55 < 0.0001                         |                                                                 |
+| Updated analysis, cut-off date: 15 August 2019    | Updated analysis, cut-off date: 15 August 2019    |                                                                 |
+| OS                                                |                                                   |                                                                 |
+| Number of patients a                              | 220                                               | 221                                                             |
+| Number of events (%)                              | 128 (58.2)                                        | 157 (71.0)                                                      |
+| Median, months (95% CI)                           | 9.3 (8.0, 11.3)                                   | 5.9 (5.1, 7.1)                                                  |
+| HR (95% CI) b (vs Control) p-value b,d,h          | 0.61 (0.48, 0.77) < 0.0001                        |                                                                 |
+| Median duration of follow-up, months (95% CI)     | 12.3 (11.1, 14.1)                                 | 12.9 (10.9, 14.6)                                               |
+
+<div style=\"page-break-after: always\"></div>
+
+Study ARRAY-818-302 BEACON CRC: Kaplan-Meier plot of Overall Survival (cut-off date: 15 August 2019)
+
+<!-- image -->
+
+## Cetuximab in combination with encorafenib and FOLFOX - Study C4221015 (BREAKWATER)
+
+Cetuximab in combination with encorafenib and mFOLFOX6 was evaluated in a randomized, activecontrolled, open-label, multicenter trial (BREAKWATER). Eligible patients were required to have MSS/pMMR (except if patients with dMMR or MSI-H status confirmed are unable to receive immune checkpoint inhibitor), RAS wildtype, BRAF V600E mutant metastatic colorectal cancer that was previously untreated. Other key eligibility criteria included no prior systemic treatment in the metastatic setting, absence of prior treatment with any selective BRAF inhibitor or EGFR inhibitor, tumor that is not microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) unless the patient is ineligible to receive immune checkpoint inhibitors, tumor that is not RAS-mutated or for which RAS mutation status is unknown, and Eastern Cooperative Oncology Group (ECOG) performance status 0-1. Randomization was stratified by ECOG performance status (0 versus 1) and region (US/Canada versus Europe versus Rest of World).
+
+Enrolled patients confirmed to be RAS wild-type were eligible to receive cetuximab and mFOLFOX6. Prior use of BRAF inhibitors or EGFR inhibitors was prohibited. Randomisation was stratified by Eastern Cooperative Oncology Group (ECOG) performance status and region.
+
+Patients were initially randomized 1:1:1 to one of the following treatment arms, and then 1:1 after discontinuation of enrolment of the cetuximab+ encorafenib arm (158 patients):
+
+- cetuximab 500 mg/m 2  IV infusion every 2 weeks in combination with encorafenib 300 mg orally once daily (cetuximab+encorafenib arm)
+- cetuximab 500 mg/m 2  IV infusion every 2 weeks in combination with encorafenib 300 mg orally once daily and mFOLFOX6 every 2 weeks (cetuximab+ encorafenib+mFOLFOX6 arm)
+- mFOLFOX6 (every 2 weeks), or FOLFOXIRI (every 2 weeks), or CAPOX (every 3 weeks), each with or without bevacizumab (administered per prescribing instructions)
+
+<div style=\"page-break-after: always\"></div>
+
+mFOLFOX6 consisted of oxaliplatin 85 mg/m 2 , leucovorin 400 mg/m 2 , 5-FU 400 mg/m 2 IV bolus, then 5-FU 2400 mg/m 2  continuous IV infusion over 46-48 hours; CAPOX consisted of oxaliplatin 130 mg/m 2  IV infusion and capecitabine 1000 mg/m 2 oral tablet twice daily on Days 1-14; FOLFOXIRI consisted of irinotecan 165 mg/m 2 , oxaliplatin 85 mg/m 2 , leucovorin 400 mg/m 2 , 5-FU 2400 or 3200 mg/m 2  (per local standard of care) continuous IV infusion over 46-48 hours.
+
+Treatment continued until disease progression, unacceptable toxicity, withdrawal of consent, lost to follow-up, or death. Only the results of the approved regimen (cetuximab in combination with encorafenib and mFOLFOX6) are described below.
+
+The primary efficacy endpoints were PFS and ORR as assessed by BICR. Additional efficacy outcome measures included OS and duration of response (DoR) as assessed by BICR. OS and PFS were assessed in all randomized patients. ORR and DoR were assessed in the subset of the first 110 patients randomized in each arm.
+
+A total of 236 patients were randomized to the cetuximab+ encorafenib+mFOLFOX6 arm and 243 to the control arm. Of these patients, the median age was 61 years, 50% were female, 60% were White, 37% were Asian, 0.4% were Multiracial, 0.2% were Black or African American, and 2.5% were not reported. Twelve percent (12%) were Hispanic or Latino, 81% were not Hispanic or Latino, and 7% were not reported. Fifty-four percent (54%) had baseline ECOG performance status of 0.
+
+Cetuximab in combination with encorafenib and mFOLFOX6 demonstrated a statistically significant improvement in PFS, ORR, and OS compared to the active comparator. Efficacy results are summarized in the table and figures below.
+
+## Study C4221015: Efficacy Results
+
+|                                                       | Cetuximab with encorafenib and mFOLFOX6               | mFOLFOX6, FOLFOXIRI, or CAPOX each with or without bevacizumab (Control)   |
+|-------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------|
+| Cut-off date: 22 December 2023 (ORR Primary analysis) | Cut-off date: 22 December 2023 (ORR Primary analysis) | Cut-off date: 22 December 2023 (ORR Primary analysis)                      |
+| ORR (per BIRC)                                        | ORR (per BIRC)                                        | ORR (per BIRC)                                                             |
+| Number of patients a                                  | 110                                                   | 110                                                                        |
+| ORR n (%) (95% CI)                                    | 67 (60.9) (51.6, 69.5)                                | 44 (40.0) (31.3, 49.3)                                                     |
+| P-value b,c,d                                         | 0.0008                                                |                                                                            |
+| Cut-off date: 06 January 2025 (PFS Primary analysis)  | Cut-off date: 06 January 2025 (PFS Primary analysis)  | Cut-off date: 06 January 2025 (PFS Primary analysis)                       |
+| PFS (per BIRC)                                        | PFS (per BIRC)                                        | PFS (per BIRC)                                                             |
+| Number of patients e                                  | 236                                                   | 243                                                                        |
+| Number of events (%)                                  | 122 (51.7)                                            | 132 (54.3)                                                                 |
+| Median PFS, months (95% CI)                           | 12.8 (11.2, 15.9)                                     | 7.1 (6.8, 8.5)                                                             |
+| HR (95% CI) c,d, f, g P-value d,e                     | 0.53 (0.41, 0.68) <0.0001                             |                                                                            |
+| OS                                                    |                                                       |                                                                            |
+| Number of patients e                                  | 236                                                   | 243                                                                        |
+| Number of events (%)                                  | 94 (39.8)                                             | 148 (60.9)                                                                 |
+| Median OS, months (95% CI)                            | 30.3 (21.7, NE)                                       | 15.1 (13.7, 17.7)                                                          |
+| HR (95% CI) c,d, f, g p-value d,e                     | 0.49 (0.38, 0.63) <0.0001                             |                                                                            |
+| Median duration of follow-up, months (95% CI)         | 21.8 (20.4, 23.4)                                     | 22.2 (18.9, 23.5)                                                          |
+
+<div style=\"page-break-after: always\"></div>
+
+- c Stratified by ECOG PS by Randomization and Geographic Region by Randomization
+
+d  1-sided
+
+e Randomised Phase 3, Full Analysis Set
+
+f Hazard ratio based on Cox proportional hazards model; under proportional hazards, hazard ratio &lt; 1 indicates a reduction in hazard rate in favor of EC+mFOLFOX6 compared to Control
+
+g p-value from the log-rank test
+
+- BIRC = Blinded independent central review committee; CI = Confidence interval; CR = Complete response; HR = Hazard ratio; NE = Not Estimable; ORR = Objective response rate; OS = Overall survival; PFS = Progression free survival; PR = Partial response; SD = Stable disease
+
+Study C4221015: Kaplan-Meier plot of Overall Survival (cut-off date: 06 January 2025)
+
+<!-- image -->
+
 ## Squamous cell cancer of the head and neck
 
 Immunohistochemical detection of EGFR expression was not performed since more than 90% of patients with squamous cell cancer of the head and neck have tumours that express EGFR.
@@ -618,22 +757,22 @@ Immunohistochemical detection of EGFR expression was not performed since more th
 
 The efficacy data generated in this study are summarised in the table below:
 
+CI = confidence interval, OS = overall survival time, a '+' denotes that the upper bound limit had not been reached at cut-off
+
 | Variable/ statistic           | Radiation therapy + cetuximab (N=211)   | Radiation therapy + cetuximab (N=211)   | Radiation therapy alone (N=213)   |
 |-------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------|
 | Locoregional control          |                                         |                                         |                                   |
 | months, median (95% CI)       | 24.4                                    | (15.7, 45.1)                            | 14.9 (11.8, 19.9)                 |
 | Hazard Ratio (95% CI) p-value | 0.68 (0.52, 0.89) 0.005                 | 0.68 (0.52, 0.89) 0.005                 | 0.68 (0.52, 0.89) 0.005           |
 | OS                            |                                         |                                         |                                   |
-| months , median (95% CI)      | 49.0                                    | (32.8, 69.5+)                           | (20.6, 41.4)                      |
-| Hazard Ratio (95% CI)         | 29.3 0.73 (0.56, 0.95)                  | 29.3 0.73 (0.56, 0.95)                  | 29.3 0.73 (0.56, 0.95)            |
-| median follow-up,             | 0.018                                   | 0.018                                   | 0.018                             |
+| months , median (95% CI)      | 49.0                                    | (32.8, 6 9.5 +)                         | (20.6, 41.4)                      |
+| Hazard Ratio (95% CI)         | 29.3 0.73 (0.56, 0.9 5)                 | 29.3 0.73 (0.56, 0.9 5)                 | 29.3 0.73 (0.56, 0.9 5)           |
+| median follow-up,             |                                         |                                         |                                   |
 | months                        | 60.0                                    | 60.1                                    | 60.1                              |
-| 1-year OS rate, %(95% CI)     | 77.6 (71.4, 82.7)                       | 73.8 (67.3, 79.2)                       | 73.8 (67.3, 79.2)                 |
-| 2-year OS rate, %(95% CI)     | 62.2 (55.2, 68.4)                       | 55.2 (48.2, 61.7)                       | 55.2 (48.2, 61.7)                 |
-| 3-year OS rate, %(95% CI)     | 54.7 (47.7, 61.2)                       | 45.2 (38.3, 51.9)                       | 45.2 (38.3, 51.9)                 |
-| 5-year OS rate, %(95% CI)     | 45.6 (38.5, 52.4)                       | 36.4 (29.7, 43.1)                       | 36.4 (29.7, 43.1)                 |
-
-CI = confidence interval, OS = overall survival time, a '+' denotes that the upper bound limit had not been reached at cut-off
+| 1-year OS rate, % (95% CI)    | 77.6 (71.4, 82.7)                       | 73.8 (67.3, 79.2)                       | 73.8 (67.3, 79.2)                 |
+| 2- year OS rate, % (95% CI)   | 62.2 (55.2, 68.4)                       | 55.2 (48.2, 61.7)                       | 55.2 (48.2, 61.7)                 |
+| 3- year OS rate, % (95% CI)   | 54.7 (47.7, 61.2)                       | 45.2 (38.3, 51.9)                       | 45.2 (38.3, 51.9)                 |
+| 5- year OS rate, % (95% CI)   | 45.6 (38.5, 52.4)                       | 36.4 (29.7, 43.1)                       | 36.4 (29.7, 43.1)                 |
 
 Patients with a good prognosis as indicated by tumour stage, Karnofsky performance status (KPS) and age had a more pronounced benefit, when cetuximab was added to radiation therapy. No clinical benefit could be demonstrated in patients with KPS ≤ 80 who were 65 years of age or older.
 
@@ -647,19 +786,15 @@ The efficacy data generated in this study are summarised in the table below:
 
 CI = confidence interval, CTX = platinum-based chemotherapy, ORR = objective response rate, OS = overall survival time, PFS = progression-free survival time
 
-| Variable/ statistic     | Cetuximab + CTX (N=222)   | CTX (N=220)       |
-|-------------------------|---------------------------|-------------------|
-| OS                      |                           |                   |
-| months, median (95% CI) | 10.1 (8.6, 11.2)          | 7.4 (6.4, 8.3)    |
-| Hazard Ratio (95% CI)   | 0.797 (0.644, 0.986)      |                   |
-| p-value                 | 0.0362                    |                   |
-| PFS                     |                           |                   |
-| months, median (95% CI) | 5.6 (5.0, 6.0)            | 3.3 (2.9, 4.3)    |
-| Hazard Ratio (95% CI)   | 0.538 (0.431,             | 0.672)            |
-| p-value                 | <0.0001                   |                   |
-| ORR                     |                           |                   |
-| %(95% CI)               | 35.6 (29.3, 42.3)         | 19.5 (14.5, 25.4) |
-| p-value                 |                           | 0.0001            |
+| Variable/ statistic                          | Cetuximab + CTX (N=222)                                 | CTX (N=220)       |
+|----------------------------------------------|---------------------------------------------------------|-------------------|
+| OS                                           |                                                         |                   |
+| months, median (95% CI)                      | 10.1 (8.6, 11.2)                                        | 7.4 (6.4, 8.3)    |
+| Hazard Ratio (95% CI)                        | 0.797 (0.644, 0.986)                                    |                   |
+| p-value months, median (95% CI)              | 0.0362                                                  | 3.3 (2.9, 4.3)    |
+| PFS                                          |                                                         |                   |
+| Hazard Ratio (95% CI) p-value ORR % (95% CI) | 5.6 (5.0, 6.0) 0.538 (0.431, 0.672) 35.6 ( 29.3, 42.3 ) | 19.5 (14.5, 25.4) |
+| p-value                                      | <0.0001 0.0001                                          |                   |
 
 Patients with a good prognosis as indicated by tumour stage, Karnofsky performance status (KPS) and age had a more pronounced benefit, when cetuximab was added to platinum-based chemotherapy. In contrast to progression free survival time, no benefit in overall survival time could be demonstrated in patients with KPS ≤ 80 who were 65 years of age or older.
 
@@ -673,7 +808,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 Cetuximab pharmacokinetics were studied when cetuximab was administered as monotherapy or in combination with concomitant chemotherapy or radiation therapy in clinical studies. Intravenous infusions of cetuximab exhibited dose-dependent pharmacokinetics at weekly doses ranging from 5 to 500 mg/m 2 body surface area.
 
-When cetuximab was administered at an initial dose of 400 mg/m 2 body surface area, the mean volume of distribution was approximately equivalent to the vascular space (2.9 L/m 2 with a range of 1.5 to 6.2 L/m 2 ). The mean Cmax (  standard deviation) was 185  55 microgram per mL. The mean clearance was 0.022 L/h per m² body surface area. Cetuximab has a long elimination half-life with values ranging from 70 to 100 hours.
+When cetuximab was administered at an initial dose of 400 mg/m 2 body surface area, the mean volume of distribution was approximately equivalent to the vascular space (2.9 L/m 2 with a range of 1.5 to 6.2 L/m 2 ). The mean Cmax ( ± standard deviation) was 185 ± 55 microgram per mL. The mean clearance was 0.022 L/h per m² body surface area. Cetuximab has a long elimination half-life with values ranging from 70 to 100 hours.
 
 When cetuximab was administered in a weekly dose regimen (400 mg/m² loading dose followed by 250 mg/m² weekly dose), cetuximab serum concentrations reached stable levels after three weeks of cetuximab monotherapy. Mean peak cetuximab concentrations were 155.8 microgram per mL in week 3 and 151.6 microgram per mL in week 8, whereas the corresponding mean trough concentrations were 41.3 and 55.4 microgram per mL, respectively. In a study of cetuximab administered in combination with irinotecan, the mean cetuximab trough levels were 50.0 microgram per mL in week 12 and 49.4 microgram per mL in week 36.
 
@@ -683,9 +818,13 @@ Several pathways have been described that may contribute to the metabolism of an
 
 ## Pharmacokinetics in special populations
 
-An integrated analysis across all clinical studies showed that the pharmacokinetic characteristics of cetuximab are not influenced by race, age, gender, renal or hepatic status.
+Population pharmacokinetic analyses showed that there were no clinically relevant effects of race, age, sex, renal or hepatic status on the pharmacokinetic characteristics of cetuximab. A relationship was observed between gender and drug exposure, with higher exposure in females, this was however not considered clinically relevant.
 
-Only patients with adequate renal and hepatic function have been investigated to date (serum creatinine  1.5fold, transaminases  5fold and bilirubin  1.5fold the upper limit of normal).
+Based on a population pharmacokinetic analysis, mild (CRCL ≥60 and &lt;90 mL/min) and moderate (CRCL ≥30 and &lt;60 mL/min) renal impairment had no clinically meaningful effect on cetuximab pharmacokinetics compared to subjects with normal (CRCL ≥90 mL/min) rena l function. No dose adjustment is recommended for patients with mild or moderate renal impairment. The pharmacokinetics of cetuximab in patients with severe (CRCL ≥15 and &lt;30 mL/min) renal impairment or end-stage renal disease have not been evaluated.
+
+Based on a population pharmacokinetic analysis, mild hepatic impairment, as defined by NCI-ODWG, had no clinically meaningful effect on cetuximab pharmacokinetics compared to subjects with normal hepatic function. No dose adjustment is recommended for patients with mild hepatic impairment. The effect of moderate or severe hepatic impairment, as defined by NCI-ODWG criteria, on cetuximab pharmacokinetics has not been assessed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -694,8 +833,6 @@ In a phase-I study in paediatric patients (1-18 years) with refractory solid tum
 ## 5.3 Preclinical safety data
 
 Dose-dependent skin alterations, starting at dose levels equivalent to those used in humans, were the major findings observed in toxicity studies with Cynomolgus monkeys (a chronic repeat-dose toxicity study and an embryo-foetal development study).
-
-<div style=\"page-break-after: always\"></div>
 
 An embryo-foetal toxicity study in Cynomolgus monkeys revealed no signs of teratogenicity. However, dependent on the dose, an increased incidence of abortion was observed.
 
@@ -725,19 +862,17 @@ Chemical and physical in-use stability of Erbitux 5 mg/mL has been demonstrated 
 
 Erbitux does not contain any antimicrobial preservative or bacteriostatic agent. From a microbiological point of view, the product shall be used immediately after opening. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 to 8ºC, unless opening has taken place in controlled and validated aseptic conditions.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2  C - 8  C).
+Store in a refrigerator (2 ° C - 8 ° C).
 
 For storage conditions after opening, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
-20 mL or 100 mL of solution in a vial (Type I glass) with a stopper (halobutyl rubber) and a seal (aluminium/polypropylen).
-
-Pack size of 1 vial.
-
-<div style=\"page-break-after: always\"></div>
+20 mL or 100 mL of solution in a vial (Type I glass) with a stopper (halobutyl rubber) and a seal (aluminium/polypropylen). Pack size of 1 vial.
 
 Not all vial sizes may be marketed.
 
@@ -759,21 +894,25 @@ Erbitux 5 mg/mL must be prepared as follows:
 - For administration with infusion pump or gravity drip (undiluted): Calculate the required volume of Erbitux. Take an appropriate sterile syringe (minimum 50 mL) and attach a suitable needle. Draw up the required volume of Erbitux from a vial. Transfer the Erbitux into a sterile evacuated container or bag. Repeat this procedure until the calculated volume has been reached. Connect the infusion line and prime it with Erbitux before starting the infusion. Set and control the rate as explained in section 4.2.
 - For administration with a syringe pump: Calculate the required volume of Erbitux. Take an appropriate sterile syringe and attach a suitable needle. Draw up the required volume of Erbitux from a vial. Remove the needle and put the syringe into the syringe pump. Connect the infusion line to the syringe, set and control the rate as explained in section 4.2 and start the infusion after priming the line with Erbitux or sterile sodium chloride 9 mg/mL (0.9%) solution. If necessary, repeat this procedure until the calculated volume has been infused.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/04/281/003 EU/1/04/281/005
+EU/1/04/281/003
 
-<div style=\"page-break-after: always\"></div>
+EU/1/04/281/005
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 29/06/2004
 
-Date of latest renewal: 17/06/2009
+Date of latest renewal: 17
+
+/06/2009
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -887,7 +1026,7 @@ Store in a refrigerator.
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -917,7 +1056,9 @@ Justification for not including Braille accepted
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC: SN:
+PC:
+
+SN:
 
 NN:
 
@@ -959,9 +1100,7 @@ Merck Europe B.V. 1082 MA Amsterdam The Netherlands
 
 <div style=\"page-break-after: always\"></div>
 
-## Erbitux 5 mg/mL solution for infusion
-
-## cetuximab
+## Erbitux 5 mg/mL solution for infusion cetuximab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -993,13 +1132,19 @@ Erbitux is used to treat two different types of cancer:
 
 ## 2. What you need to know before you use Erbitux
 
+Before starting treatment for metastatic cancer of the large intestine, your doctor will test your cancer cells if they contain the normal (wild-type) or mutant form of RAS.
+
+Before starting treatment, your doctor will also check for BRAF mutation.
+
+If Erbitux is to be used in combination with encorafenib or in combination with encorafenib and chemotherapy to treat large intestine cancer, read the leaflet of all these medicines carefully as well as this leaflet.
+
+<div style=\"page-break-after: always\"></div>
+
 ## Do not use Erbitux
 
 Do not use Erbitux if you have ever had a severe hypersensitivity (allergic) reaction to cetuximab.
 
-Before starting treatment for metastatic cancer of the large intestine your doctor will test your cancer cells if they contain the normal (wild-type) or mutant form of RAS. You must not receive Erbitux in combination with other anticancer treatment containing oxaliplatin if your cancer cells contain the mutant form of RAS.
-
-<div style=\"page-break-after: always\"></div>
+You must not receive Erbitux in combination with other anticancer treatment containing oxaliplatin if your cancer cells contain the mutant form of RAS.
 
 ## Warnings and precautions
 
@@ -1029,11 +1174,11 @@ Tell your doctor if you are taking, have recently taken or might take any other 
 
 Tell your doctor if you are pregnant or if you are not using reliable contraception (speak to your doctor if you are not sure). Your doctor will then discuss with you the risks and benefits of using Erbitux in these situations.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Breast-feeding
 
 Do not breast-feed your baby during the period over which you are being treated with Erbitux and for two months after the last dose.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Driving and using machines
 
@@ -1051,23 +1196,25 @@ Before the first dose, you will receive an antiallergic medicine in order to red
 
 Erbitux is usually infused into a vein (given as a drip). Your doctor will calculate the correct dose of Erbitux for you. The dose of Erbitux depends on your body surface area and it depends on if you receive Erbitux either once a week or every two weeks.
 
-## Weekly infusion for treatment of squamous cell cancer of the head and neck and metastatic cancer of the large intestine:
+Weekly infusion for treatment of squamous cell cancer of the head and neck and metastatic cancer of the large intestine if used as a single agent or in combination with chemotherapy or encorafenib: The first dose (400 mg/m² body surface area) is infused over a period of approximately 2 hours. Each subsequent dose (250 mg/m² body surface area) is infused in approximately 1 hour.
 
-The first dose (400 mg/m² body surface area) is infused over a period of approximately 2 hours Each subsequent dose (250 mg/m² body surface area) is infused in approximately 1 hour.
-
-Every two weeks infusion for treatment of squamous cell cancer of the head and neck if used in combination with other anticancer medicines and metastatic cancer of the large intestine: The dose of Erbitux (500 mg/m² body surface area) is infused in approximately 2 hours.
+Every two weeks infusion for treatment of squamous cell cancer of the head and neck if used in combination with other anticancer medicines and metastatic cancer of the large intestine if used as a single agent or in combination with chemotherapy or chemotherapy and encorafenib: The dose of Erbitux (500 mg/m² body surface area) is infused in approximately 2 hours.
 
 Detailed instructions for your doctor or your nurse on how to prepare the Erbitux infusion are included at the end of this package leaflet (see 'Handling instructions').
 
 ## Duration of treatment
 
-Erbitux is usually infused once a week. The duration of treatment may vary depending on your disease as well as from person to person and your doctor will therefore discuss with you how long you will receive Erbitux.
+The duration of treatment may vary depending on your disease as well as from person to person and your doctor will therefore discuss with you how long you will receive Erbitux.
 
 ## Combination with other anticancer treatments
 
 If you receive Erbitux in combination with other anticancer medicines, these medicines must be administered at least 1 hour after the end of the Erbitux infusion.
 
+If you receive Erbitux in combination with encorafenib, encorafenib should be administered before starting cetuximab infusion.
+
 If you receive Erbitux in combination with radiation therapy, treatment with Erbitux is usually started one week before radiation therapy.
+
+<div style=\"page-break-after: always\"></div>
 
 If you have any further questions on the use of this medicine, ask your doctor.
 
@@ -1076,8 +1223,6 @@ If you have any further questions on the use of this medicine, ask your doctor.
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
 The main side effects of Erbitux are infusion-related side effects and side effects concerning the skin:
-
-<div style=\"page-break-after: always\"></div>
 
 ## Infusion-related side effects
 
@@ -1118,9 +1263,9 @@ In very rare cases (may affect up to 1 in 10 000 people) patients may experience
 
 If you notice other extensive skin alterations, please inform your doctor as soon as possible because the Erbitux dose or the time between infusions may need to be changed. Your doctor will decide whether treatment has to be stopped if skin reactions reappear after several dose reductions.
 
-If you notice that already affected areas of your skin get worse , speak to a doctor immediately, especially if you also experience general signs of infection such as fever and tiredness. These signs may indicate a skin infection, which may have serious consequences including life-threatening conditions.
-
 <div style=\"page-break-after: always\"></div>
+
+If you notice that already affected areas of your skin get worse , speak to a doctor immediately, especially if you also experience general signs of infection such as fever and tiredness. These signs may indicate a skin infection, which may have serious consequences including life-threatening conditions.
 
 ## Side effects concerning the lungs
 
@@ -1164,14 +1309,14 @@ If you receive Erbitux in combination with other anticancer medicines, some of t
 
 If you receive Erbitux in combination with anticancer medicines including platinum, it is more likely that your white blood cell count may be reduced. This may lead to infectious complications including life-threatening conditions, especially if you experience skin reactions, inflammation of the lining of the intestine and mouth or diarrhoea. Therefore, if you experience general signs of infection such as fever and tiredness, please speak to a doctor immediately.
 
+<div style=\"page-break-after: always\"></div>
+
 If you receive Erbitux in combination with an anticancer medicine containing fluoropyrimidines, it is more likely that you experience the following side effects of this other medicine:
 
 - chest pain
 - heart attack
 - heart failure
 - redness and swelling of the palms of the hands or the soles of the feet which may cause the skin to peel (hand-foot syndrome)
-
-<div style=\"page-break-after: always\"></div>
 
 If you receive Erbitux with radiation therapy, some of the side effects you may experience can also be related to this combination, such as:
 
@@ -1190,12 +1335,13 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and the carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2  C - 8  C). Once opened, Erbitux is intended for immediate use.
+Store in a refrigerator (2 ° C - 8 ° C). Once opened, Erbitux is intended for immediate use.
 
 ## 6. Contents of the pack and other information
 
 ## What Erbitux contains
 
+- ·
 - The active substance is cetuximab. Each mL of the solution for infusion contains 5 mg cetuximab. Each vial of 20 mL contains 100 mg cetuximab. Each vial of 100 mL contains 500 mg cetuximab.
 - The other ingredients are sodium chloride, glycine, polysorbate 80, citric acid monohydrate, sodium hydroxide and water for injections.
 
@@ -1209,11 +1355,11 @@ Not all vial sizes may be marketed.
 
 Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
 
+<div style=\"page-break-after: always\"></div>
+
 ## Manufacturer
 
 Merck Healthcare KGaA Frankfurter Straße 250 64293 Darmstadt Germany
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in MM/YYYY.
 
@@ -1229,7 +1375,7 @@ The following information is intended for medical or healthcare professionals on
 
 Erbitux may be administered via a gravity drip, an infusion pump or a syringe pump. Since Erbitux is only compatible with sterile sodium chloride 9 mg/mL (0.9%) solution for injection, it must not be mixed with other intravenously applied medicinal products. A separate infusion line must be used for the infusion, and the line must be flushed with sterile sodium chloride 9 mg/mL (0.9%) solution for injection at the end of infusion.
 
-Erbitux 5 mg/mL is compatible
+## Erbitux 5 mg/mL is compatible
 
 - with polyethylene (PE), ethyl vinyl acetate (EVA) or polyvinyl chloride (PVC) bags,
 - with polyethylene (PE), polyurethane (PUR), ethyl vinyl acetate (EVA), polyolefine thermoplastic (TP) or polyvinyl chloride (PVC) infusion sets,
@@ -1237,21 +1383,21 @@ Erbitux 5 mg/mL is compatible
 
 Erbitux 5 mg/mL is chemically and physically stable for up to 48 hours at 25°C, if the solution is prepared as described hereafter. However, since it does not contain any antimicrobial preservative or bacteriostatic agent, it is intended for immediate use. Care must be taken to ensure aseptic handling when preparing the infusion. Erbitux 5 mg/mL must be prepared as follows:
 
-- For administration with infusion pump or gravity drip (diluted with sterile sodium chloride 9 mg/mL (0.9%) solution): Take an infusion bag of adequate size of sterile sodium chloride 9 mg/mL (0.9%) solution. Calculate the required volume of Erbitux. Remove an adequate volume of the sodium chloride solution from the infusion bag, using an appropriate sterile syringe with a suitable needle. Take an appropriate sterile syringe and attach a suitable needle. Draw up the required volume of Erbitux from a vial. Transfer the Erbitux into the prepared infusion bag. Repeat this procedure until the calculated volume has been reached. Connect the infusion line and prime it with the diluted Erbitux before starting the infusion. Use a gravity drip or an infusion pump for administration.
+- For administration with infusion pump or gravity drip (diluted with sterile sodium chloride 9 mg/mL (0.9%) solution) : Take an infusion bag of adequate size of sterile sodium chloride 9 mg/mL (0.9%) solution. Calculate the required volume of Erbitux. Remove an adequate volume of the sodium chloride solution from the infusion bag, using an appropriate sterile syringe with a suitable needle. Take an appropriate sterile syringe and attach a suitable needle. Draw up the required volume of Erbitux from a vial. Transfer the Erbitux into the prepared infusion bag. Repeat this procedure until the calculated volume has been reached. Connect the infusion line and prime it with the diluted Erbitux before starting the infusion. Use a gravity drip or an infusion pump for administration.
 
-Weekly infusion for treatment of squamous cell cancer of the head and neck and metastatic cancer of the large intestine:
+Weekly infusion for treatment of squamous cell cancer of the head and neck and metastatic cancer of the large intestine if used as a single agent or in combination with chemotherapy or encorafenib:
 
 The first dose (400 mg/m² body surface area) is infused over a period of approximately 2 hours. Each subsequent dose (250 mg/m² body surface area) is infused over a period of approximately 1 hour with an infusion rate not faster than 10 mg/min.
 
-Every two weeks infusion for treatment of squamous cell cancer of the head and neck if used in combination with other anticancer medicines and metastatic cancer of the large intestine: Initial and subsequent doses (500 mg/m² body surface area) is infused over a period of approximately 2 hours with an infusion rate not faster than 10 mg/min.
-
 <div style=\"page-break-after: always\"></div>
+
+Every two weeks infusion for treatment of squamous cell cancer of the head and neck if used in combination with other anticancer medicines and metastatic cancer of the large intestine if used as a single agent or in combination with chemotherapy or chemotherapy and encorafenib: Initial and subsequent doses (500 mg/m² body surface area) is infused over a period of approximately 2 hours with an infusion rate not faster than 10 mg/min.
 
 - For administration with infusion pump or gravity drip (undiluted): Calculate the required volume of Erbitux. Take an appropriate sterile syringe (minimum 50 mL) and attach a suitable needle. Draw up the required volume of Erbitux from a vial. Transfer the Erbitux into a sterile evacuated container or bag. Repeat this procedure until the calculated volume has been reached. Connect the infusion line and prime it with Erbitux before starting the infusion.
 
 ## Weekly infusion for treatment of squamous cell cancer of the head and neck and metastatic cancer of the large intestine:
 
-The first dose (400 mg/m² body surface area) is infused over a period of approximately 2 hours. Each subsequent dose (250 mg/m² body surface area) is infused over a period of  approximately 1 hour with an infusion rate not faster than 10 mg/min.
+The first dose (400 mg/m² body surface area) is infused over a period of approximately 2 hours. Each subsequent dose (250 mg/m² body surface area) is infused over a period of approximately 1 hour with an infusion rate not faster than 10 mg/min.
 
 Every two weeks infusion for treatment of squamous cell cancer of the head and neck if used in combination with other anticancer medicines and metastatic cancer of the large intestine: Initial and subsequent doses (500 mg/m² body surface area) is infused over a period of approximately 2 hours with an infusion rate not faster than 10 mg/min.
 

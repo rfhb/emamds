@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-24 12:01:56
+document_datetime: 2026-07-14 12:02:04
 document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/qaialdo-epar-product-information_en.pdf
 document_name: qaialdo-epar-product-information_en.pdf
 version: success
-processing_time: 8.2216715
-conversion_datetime: 2026-03-25 12:44:50.509609
+processing_time: 6.3637446
+conversion_datetime: 2026-07-16 13:30:02.633968
 docling_version:
-  docling-serve: 1.15.0
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.1
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -32,7 +32,7 @@ Each ml of suspension contains 10 mg spironolactone. Each bottle of 150 ml conta
 
 ## Excipients with known effect
 
-This medicine contains 0.75 mg sodium benzoate and 400 mg sucrose in each ml.
+This medicine contains 0.75 mg sodium benzoate, 400 mg sucrose and 1.86 mg propylene glycol in each ml.
 
 For the full list of excipients, see section 6.1.
 
@@ -52,7 +52,7 @@ Neonates, children and adolescents should only be treated under guidance of a pa
 
 ## 4.2 Posology and method of administration
 
-Posology
+## Posology
 
 ## Adults
 
@@ -226,17 +226,21 @@ This medicinal product contains less than 1 mmol (23 mg) sodium within the recom
 
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine. As this medicinal product contains 400 mg sucrose per ml, this has to be taken into consideration in terms of daily intake. This should be taken into account in patients with diabetes mellitus. Qaialdo 10 mg/ml may be harmful to the teeth.
 
+## Propylene glycol
+
+This medicinal product contains 1.86 mg propylene glycol in each ml which is equivalent to 279 mg/150 ml.
+
+Co-administration with any substrate for alcohol dehydrogenase such as ethanol may induce serious adverse effects in neonates.
+
+<div style=\"page-break-after: always\"></div>
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 ## Interactions affecting the use of this medicinal product
 
 ## Interactions affecting the potassium homeostasis
 
-Concomitant use of medicinal products known to cause hyperkalaemia (such as lisinopril, valsartan, indometacin) with spironolactone may result in severe hyperkalaemia.
-
-In addition, concomitant use of trimethoprim/sulfamethoxazole (co-trimoxazole) with spironolactone may result in clinically relevant hyperkalaemia.
-
-<div style=\"page-break-after: always\"></div>
+Concomitant use of medicinal products known to cause hyperkalaemia (such as lisinopril, valsartan, indometacin) with spironolactone may result in severe hyperkalaemia. In addition, concomitant use of trimethoprim/sulfamethoxazole (co-trimoxazole) with spironolactone may result in clinically relevant hyperkalaemia.
 
 Since ACE inhibitors decrease aldosterone production, they should not routinely be used with spironolactone, particularly in patients with marked renal impairment.
 
@@ -268,6 +272,8 @@ In fluorimetric assays, spironolactone may interfere with the estimation of comp
 
 Spironolactone may reduce mitotane plasma levels in adrenocortical carcinoma patients treated with mitotane and should not be used concomitantly with mitotane.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Pregnancy
@@ -275,8 +281,6 @@ Spironolactone may reduce mitotane plasma levels in adrenocortical carcinoma pat
 There are no studies of spironolactone in pregnant women.
 
 Studies in animals have shown reproductive toxicity (see section 5.3). Qaialdo is not recommended during pregnancy and in women of childbearing potential not using contraception.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Breast-feeding
 
@@ -408,7 +412,9 @@ Spironolactone was devoid of teratogenic effects in mice. Rabbits receiving spir
 
 ## 6.1 List of excipients
 
-Sodium benzoate (E 211) Sucrose Sodium citrate (E 331) Citric acid monohydrate (E 330) Strawberry flavour liquid Masking flavour Polysorbate 80 (E 433) Simeticone emulsion 30% Xanthan gum (E 415) Purified water
+Sodium benzoate (E 211) Sucrose Sodium citrate (E 331) Citric acid monohydrate (E 330) Strawberry flavour liquid Masking flavour [contains propylene glycol (E 1520)] Polysorbate 80 (E 433) Simeticone emulsion 30% Xanthan gum (E 415)
+
+Purified water
 
 ## 6.2 Incompatibilities
 
@@ -520,7 +526,7 @@ Each ml of suspension contains 10 mg spironolactone.
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains sodium benzoate and sucrose. See package leaflet for further information.
+Also contains sodium benzoate, sucrose and propylene glycol. See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -612,7 +618,7 @@ Each ml of suspension contains 10 mg spironolactone.
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains sodium benzoate and sucrose. See package leaflet for further information.
+Also contains sodium benzoate, sucrose and propylene glycol. See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -644,46 +650,25 @@ Discard 12 weeks after first opening.
 
 Open date:
 
-## 9. SPECIAL STORAGE CONDITIONS
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
-After first opening, keep the bottle tightly closed and store below 25°C.
-
-<div style=\"page-break-after: always\"></div>
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
-
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
-
-Lipomed GmbH Hegenheimer Strasse 2 79576 Weil am Rhein Germany
-
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
-
-EU/1/23/1731/001
-
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
-
-Lot
-
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
-
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
-
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 9.                                                                        | SPECIAL STORAGE CONDITIONS                                                                                                            |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| After first opening, keep the bottle tightly closed and store below 25°C. | After first opening, keep the bottle tightly closed and store below 25°C.                                                             |
+| 10.                                                                       | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
+| 11.                                                                       | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER                                                                                |
+| Lipomed GmbH Hegenheimer Strasse 2 79576 Weil am Rhein Germany            | Lipomed GmbH Hegenheimer Strasse 2 79576 Weil am Rhein Germany                                                                        |
+| 12.                                                                       | MARKETING AUTHORISATION NUMBER(S)                                                                                                     |
+| EU/1/23/1731/001                                                          | EU/1/23/1731/001                                                                                                                      |
+| 13.                                                                       | BATCH NUMBER                                                                                                                          |
+| Lot                                                                       | Lot                                                                                                                                   |
+| 14.                                                                       | GENERAL CLASSIFICATION FOR SUPPLY                                                                                                     |
+| 15.                                                                       | INSTRUCTIONS ON USE                                                                                                                   |
+| 16.                                                                       | INFORMATION IN BRAILLE                                                                                                                |
+| 17.                                                                       | UNIQUE IDENTIFIER - 2D BARCODE                                                                                                        |
+| 18.                                                                       | UNIQUE IDENTIFIER - HUMAN READABLE DATA                                                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -811,7 +796,7 @@ Qaialdo should not be used if you are breast-feeding. You should discuss the use
 
 Take care if you drive or operate machinery. Drowsiness and dizziness have been associated with spironolactone treatment and this may affect your ability to drive or operate machinery safely.
 
-## Qaialdo contains sodium benzoate (E211)
+## Qaialdo contains sodium benzoate (E 211)
 
 This medicine contains 0.75 mg sodium benzoate in each ml. Sodium benzoate may increase jaundice (yellowing of the skin and eyes) in newborn babies (up to 4 weeks old).
 
@@ -828,6 +813,10 @@ As Qaialdo 10 mg/ml contains 400 mg sucrose per ml, this has to be taken into co
 <div style=\"page-break-after: always\"></div>
 
 Qaialdo may be harmful to the teeth.
+
+## Qaialdo contains propylene glycol (E 1520)
+
+This medicine contains 1.86 mg propylene glycol in each ml. If your baby is less than 4 weeks old, talk to your doctor or pharmacist before giving them this medicine, in particular if the baby is given other medicines that contain propylene glycol or alcohol.
 
 ## 3. How to take Qaialdo
 
@@ -865,33 +854,31 @@ The larger syringe (5 ml) is used to take doses of more than 10 mg. It has lines
 
 For doses more than 10 mg (1 ml) that need to be measured in 0.1 ml step ups (for example 1.5 ml), you should use both syringes:
 
+<div style=\"page-break-after: always\"></div>
+
 1. Use the larger 5 ml syringe to measure up to the nearest 0.2 ml line (for example, 1.4 ml).
 2. Then use the smaller 1 ml syringe to measure the remaining dose (for example, 0.1 ml).
 3. Take each dose one after the other.
-
-<div style=\"page-break-after: always\"></div>
 
 It is important to use the correct dosing syringe for your medicine. Your doctor or pharmacist will tell you which syringe to use depending on the dose prescribed for you.
 
 |   Dose (mg) |   Volume of Qaialdo to draw up (ml) | Which syringe to use?                                  |
 |-------------|-------------------------------------|--------------------------------------------------------|
 |           5 |                                 0.5 | Small 1 ml                                             |
-|          10 |                                 1   | Small 1 ml                                             |
+|          10 |                                 1.0 | Small 1 ml                                             |
 |          15 |                                 1.5 | Both syringes: 1.4 ml (Large 5 ml) 0.1 ml (Small 1 ml) |
-|          20 |                                 2   | Large 5 ml                                             |
+|          20 |                                 2.0 | Large 5 ml                                             |
 |          21 |                                 2.1 | Both syringes: 2.0 ml (Large 5 ml) 0.1 ml (Small 1 ml) |
 |          25 |                                 2.5 | Large 5 ml                                             |
-|          50 |                                 5   | Large 5 ml                                             |
-|         100 |                                10   | Large 5 ml                                             |
-|         200 |                                20   | Large 5 ml                                             |
+|          50 |                                 5.0 | Large 5 ml                                             |
+|         100 |                                10.0 | Large 5 ml                                             |
+|         200 |                                20.0 | Large 5 ml                                             |
 
 If you are taking or giving the medicine to a child or somebody else, wash your hands before and after.
 
 When you use the medicine follow the instructions below:
 
 <!-- image -->
-
-Figure 1                   Figure 2                 Figure 3                  Figure 4                 Figure 5
 
 1. Shake the bottle thoroughly before use (to ensure the medicine is well mixed) (figure 1) .
 2.  Remove the bottle cap (figure 2) and push the adaptor firmly into the top of the bottle and leave in place for future doses (figure 3) .
@@ -906,10 +893,10 @@ Figure 1                   Figure 2                 Figure 3                  Fi
 8.  Slowly and gently push the plunger down to gently squirt the medicine into the inside of your cheek and swallow it. DO NOT forcefully push down the plunger, or squirt the medicine to the back of your mouth or throat, as you may choke.
 9.  Remove the syringe from your mouth.
 10. Swallow the dose of oral suspension then drink some water, making sure no medicine is left in your mouth.
-11. Put the cap back on the bottle with the adaptor left in place. Ensure that the cap is tightly closed.
 
 <div style=\"page-break-after: always\"></div>
 
+11. Put the cap back on the bottle with the adaptor left in place. Ensure that the cap is tightly closed.
 12. Wash the syringe with warm water and rinse well. Hold the syringe under water and move the plunger up and down several times to make sure the inside of the syringe is clean. Let the syringe air dry completely before you use that syringe again for dosing. Do not wipe dry. Store the syringe in a hygienic place with the medicine.
 
 Repeat the above for each dose as instructed by your doctor or pharmacist.
@@ -926,11 +913,13 @@ Changes in your blood sodium and potassium levels may leave you feeling weak and
 
 ## If you forget to take Qaialdo
 
-Do not take a double dose to make up for a forgotten dose. If you forget to take your dose, take it as soon as you remember, unless it is within 8 hours of the  next dose.
+Do not take a double dose to make up for a forgotten dose. If you forget to take your dose, take it as soon as you remember, unless it is within 8 hours of the next dose.
 
 ## If you stop taking Qaialdo
 
-It is important to keep taking Qaialdo until your doctor tells you to stop, even if you start to feel better. If you stop taking Qaialdo too soon, your condition may get worse.
+It is important to keep taking Qaialdo until your doctor tells you to stop, even if you start to feel better.
+
+If you stop taking Qaialdo too soon, your condition may get worse.
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
@@ -946,6 +935,8 @@ Tell your doctor immediately if you experience any of the following symptoms aft
 - -Yellow skin and eyes (spironolactone can cause impairment of liver function)
 - -Irregular heartbeat that can be fatal, tingling sensation, paralysis (loss of muscle function) or difficulty in breathing; which may be symptoms of raised potassium levels in your blood. Your doctor will conduct regular blood tests to monitor potassium and other electrolyte levels. He or she may stop your treatment if necessary.
 
+<div style=\"page-break-after: always\"></div>
+
 ## List of other side effects of Qaialdo by frequency:
 
 Very common:
@@ -954,31 +945,18 @@ may affect more than 1 in 10 people
 
 - Hyperkalaemia (high blood potassium levels)
 
-Common:
+## Common: may affect up to 1 in 10 people
 
-may affect up to 1 in 10 people
-
-- Confusion
-
-- Dizziness
-
-- Nausea (Feeling sick)
-
-- Pruritus (Itching)
-
-- Rash
-
-- Muscle or leg spasms
-
-- Sudden kidney failure
-
-- Gynaecomastia (Breast enlargement in men)
-
-- Breast pain (in men)
-
-- Malaise (Feeling generally unwell)
-
-<div style=\"page-break-after: always\"></div>
+- -Confusion
+- -Dizziness
+- -Nausea (Feeling sick)
+- -Pruritus (Itching)
+- -Rash
+- -Muscle or leg spasms
+- -Sudden kidney failure
+- -Gynaecomastia (Breast enlargement in men)
+- -Breast pain (in men)
+- -Malaise (Feeling generally unwell)
 
 ## Uncommon: may affect up to 1 in 100 people
 
@@ -994,7 +972,9 @@ may affect up to 1 in 10 people
 
 - Breast pain (in women)
 
-## Not known: frequency cannot be estimated from the available data
+Not known:
+
+frequency cannot be estimated from the available data
 
 - -Leucopenia (low levels of white blood cells)
 - -Agranulocytosis (very low level of a type of white blood cell called granulocytes, which are important for fighting off infection)
@@ -1036,14 +1016,15 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Qaialdo contains
 
-- -The active substance is spironolactone. Each ml of suspension contains 10 mg spironolactone.
-- -The other ingredients are sodium benzoate (E 211), sucrose, sodium citrate (E 331), citric acid monohydrate (E 330), strawberry flavour liquid, masking flavour, polysorbate 80 (E 433), simeticone emulsion 30%, xanthan gum (E 415) and purified water.
+- -The active substance is spironolactone. Each ml of suspension contains 10 mg spironolactone. -The other ingredients are sodium benzoate (E 211), sucrose, sodium citrate (E 331), citric acid monohydrate (E 330), strawberry flavour liquid, masking flavour [contains propylene glycol (E 1520)], polysorbate 80 (E 433), simeticone emulsion 30%, xanthan gum (E 415) and purified water.
 
-See section 2 'Qaialdo contains sodium benzoate', 'Qaialdo contains sodium' and 'Qaialdo contains sucrose'.
+See section 2 'Qaialdo contains sodium benzoate', 'Qaialdo contains sodium', 'Qaialdo contains sucrose' and 'Qaialdo contains propylene glycol'.
 
 ## What Qaialdo looks like and contents of the pack
 
-Qaialdo is a white to off white viscous oral suspension. It comes in glass bottles of 150 ml capped with a child-resistant closure.
+Qaialdo is a white to off white viscous oral suspension.
+
+It comes in glass bottles of 150 ml capped with a child-resistant closure.
 
 Each pack contains one bottle, a bottle adaptor and two dosing syringes (a syringe graduated to 1 ml and a syringe graduated to 5 ml).
 

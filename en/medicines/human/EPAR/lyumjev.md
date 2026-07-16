@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-26 18:18:34
+document_datetime: 2026-07-13 11:33:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lyumjev.html
 document_name: lyumjev.html
 version: success
-processing_time: 0.1213034
-conversion_datetime: 2026-01-26 20:24:23.208454
+processing_time: 0.1495765
+conversion_datetime: 2026-07-16 13:17:26.972164
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.70.0
-  docling-core: 2.60.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Lyumjev (previously Liumjev)
 
 [RSS](/en/individual-human-medicine.xml/67286)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-insulin lispro Medicine Human Authorised
+insulin lispro
+
+Medicine Human Authorised
 
 Page contents
 
@@ -37,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Lyumjev (previously Liumjev)](#news-on)
 - [More information on Lyumjev (previously Liumjev)](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -51,7 +52,7 @@ Expand section
 
 Collapse section
 
-## How is Lyumjev used?
+### How is Lyumjev used?
 
 Lyumjev can only be obtained with a prescription. It is given as an injection under the skin of the upper arm, thigh, buttock or belly. It can also be given with an insulin pump. A healthcare professional should explain to the patient how to use the medicine properly.
 
@@ -61,13 +62,13 @@ In some circumstances, such as when blood acid levels are dangerously high (keto
 
 For more information about using Lyumjev, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Lyumjev work?
+### How does Lyumjev work?
 
 In diabetes, patients have high levels of blood glucose either because the body does not produce enough insulin, or the body is unable to use insulin effectively.
 
 The active substance in Lyumjev is a form of insulin that acts faster than regular human insulin or standard insulin lispro medicines because it is absorbed more quickly by the body. It helps control blood glucose levels, thereby alleviating symptoms and reducing the risk of complications of diabetes.
 
-## What benefits of Lyumjev have been shown in studies
+### What benefits of Lyumjev have been shown in studies
 
 Lyumjev has been shown to be as good at controlling blood glucose as another insulin lispro medicine, Humalog, in four main studies.
 
@@ -77,7 +78,7 @@ The third, smaller, study involved 49 adults whose diabetes was managed with an 
 
 A fourth study involving 716 children aged 3 years and above with type 1 diabetes also showed that Lyumjev was at least as effective as Humalog in maintaining control of blood sugar.
 
-## What are the risks associated with Lyumjev?
+### What are the risks associated with Lyumjev?
 
 The most common side effect with Lyumjev (which may affect more than 1 in 10 people) is hypoglycaemia (low blood glucose).
 
@@ -85,7 +86,7 @@ Lyumjev must not be given to people whose blood glucose level is already low. Do
 
 For the full list of side effects and restrictions of Lyumjev, see the package leaflet.
 
-## Why is Lyumjev authorised in the EU?
+### Why is Lyumjev authorised in the EU?
 
 Lyumjev has been shown to be effective in controlling blood sugar, and because its action begins faster than existing insulin lispro medicines it was particularly useful in reducing the rise in blood glucose after a meal, although side effects such as low blood sugar might also develop more quickly.
 
@@ -93,13 +94,13 @@ The main studies looked at adults with type 1 and type 2 diabetes as well as chi
 
 The Agency therefore decided that Lyumjev's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Lyumjev?
+### What measures are being taken to ensure the safe and effective use of Lyumjev?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Lyumjev have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Lyumjev are continuously monitored. Side effects reported with Lyumjev are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Lyumjev
+### Other information about Lyumjev
 
 Liumjev received a marketing authorisation valid throughout the EU on 24 March 2020.
 
@@ -111,275 +112,141 @@ Reference Number: EMA/855882/2022
 
 English (EN) (133.53 KB - PDF)
 
-**First published:** 16/04/2020
-
-**Last updated:** 25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/en/documents/overview/lyumjev-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-272)
+[Other languages (22)](#file-language-dropdown-851)
 
 български (BG) (147.27 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/bg/documents/overview/lyumjev-epar-medicine-overview_bg.pdf)
 
 español (ES) (122.18 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/es/documents/overview/lyumjev-epar-medicine-overview_es.pdf)
 
 čeština (CS) (143.84 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/cs/documents/overview/lyumjev-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (120.3 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/da/documents/overview/lyumjev-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (124.73 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/de/documents/overview/lyumjev-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (110.38 KB - PDF)
+eesti (ET) (110.38 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/et/documents/overview/lyumjev-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (146.59 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/el/documents/overview/lyumjev-epar-medicine-overview_el.pdf)
 
 français (FR) (122.79 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/fr/documents/overview/lyumjev-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (144.12 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/hr/documents/overview/lyumjev-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (121.5 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/it/documents/overview/lyumjev-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (160.87 KB - PDF)
+latviešu (LV) (160.87 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/lv/documents/overview/lyumjev-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (144.54 KB - PDF)
+lietuvių (LT) (144.54 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/lt/documents/overview/lyumjev-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (143.12 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/hu/documents/overview/lyumjev-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (147.28 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/mt/documents/overview/lyumjev-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (121.83 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/nl/documents/overview/lyumjev-epar-medicine-overview_nl.pdf)
 
 polski (PL) (146.34 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/pl/documents/overview/lyumjev-epar-medicine-overview_pl.pdf)
 
 português (PT) (123.4 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/pt/documents/overview/lyumjev-epar-medicine-overview_pt.pdf)
 
 română (RO) (142.91 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/ro/documents/overview/lyumjev-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (143.68 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/sk/documents/overview/lyumjev-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (143.16 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/sl/documents/overview/lyumjev-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (119.75 KB - PDF)
+suomi (FI) (119.75 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/fi/documents/overview/lyumjev-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (120.7 KB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
+**First published:** 16/04/2020 **Last updated:** 25/04/2023
 
 [View](/sv/documents/overview/lyumjev-epar-medicine-overview_sv.pdf)
 
@@ -395,311 +262,168 @@ English (EN) (36.74 KB - PDF)
 
 Lyumjev : EPAR - Product information
 
-English (EN) (2.42 MB - PDF)
+English (EN) (2.22 MB - PDF)
 
-**First published:** 16/04/2020
-
-**Last updated:** 21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/en/documents/product-information/lyumjev-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-139)
+[Other languages (24)](#file-language-dropdown-590)
 
-български (BG) (2.94 MB - PDF)
+български (BG) (2.62 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/bg/documents/product-information/lyumjev-epar-product-information_bg.pdf)
 
-español (ES) (3.33 MB - PDF)
+español (ES) (2.97 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/es/documents/product-information/lyumjev-epar-product-information_es.pdf)
 
-čeština (CS) (2.57 MB - PDF)
+čeština (CS) (2.27 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/cs/documents/product-information/lyumjev-epar-product-information_cs.pdf)
 
-dansk (DA) (2.69 MB - PDF)
+dansk (DA) (2.41 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/da/documents/product-information/lyumjev-epar-product-information_da.pdf)
 
-Deutsch (DE) (3 MB - PDF)
+Deutsch (DE) (2.57 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/de/documents/product-information/lyumjev-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.56 MB - PDF)
+eesti (ET) (2.32 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/et/documents/product-information/lyumjev-epar-product-information_et.pdf)
 
-ελληνικά (EL) (3.25 MB - PDF)
+ελληνικά (EL) (2.97 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/el/documents/product-information/lyumjev-epar-product-information_el.pdf)
 
-français (FR) (2.21 MB - PDF)
+français (FR) (2.73 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/fr/documents/product-information/lyumjev-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.76 MB - PDF)
+hrvatski (HR) (2.49 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/hr/documents/product-information/lyumjev-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.76 MB - PDF)
+italiano (IT) (1.88 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
-
-[View](/is/documents/product-information/lyumjev-epar-product-information_is.pdf)
-
-italiano (IT) (2.92 MB - PDF)
-
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/it/documents/product-information/lyumjev-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.94 MB - PDF)
+latviešu (LV) (2.62 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/lv/documents/product-information/lyumjev-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (3.18 MB - PDF)
+lietuvių (LT) (2.89 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/lt/documents/product-information/lyumjev-epar-product-information_lt.pdf)
 
-magyar (HU) (2.84 MB - PDF)
+magyar (HU) (2.57 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/hu/documents/product-information/lyumjev-epar-product-information_hu.pdf)
 
-Malti (MT) (2.86 MB - PDF)
+Malti (MT) (2.59 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/mt/documents/product-information/lyumjev-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.51 MB - PDF)
+Nederlands (NL) (2.11 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/nl/documents/product-information/lyumjev-epar-product-information_nl.pdf)
 
-norsk (NO) (2.45 MB - PDF)
+polski (PL) (2.17 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
-
-[View](/no/documents/product-information/lyumjev-epar-product-information_no.pdf)
-
-polski (PL) (2.42 MB - PDF)
-
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/pl/documents/product-information/lyumjev-epar-product-information_pl.pdf)
 
-português (PT) (2.9 MB - PDF)
+português (PT) (2.66 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/pt/documents/product-information/lyumjev-epar-product-information_pt.pdf)
 
-română (RO) (2.6 MB - PDF)
+română (RO) (2.09 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/ro/documents/product-information/lyumjev-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.97 MB - PDF)
+slovenčina (SK) (2.64 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/sk/documents/product-information/lyumjev-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.92 MB - PDF)
+slovenščina (SL) (2.65 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/sl/documents/product-information/lyumjev-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.95 MB - PDF)
+suomi (FI) (2.52 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/fi/documents/product-information/lyumjev-epar-product-information_fi.pdf)
 
-svenska (SV) (2.51 MB - PDF)
+svenska (SV) (2.17 MB - PDF)
 
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-21/01/2026
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
 [View](/sv/documents/product-information/lyumjev-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000315488 21/01/2026
+Íslenska (IS) (2.48 MB - PDF)
+
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
+
+[View](/is/documents/product-information/lyumjev-epar-product-information_is.pdf)
+
+norsk (NO) (2.48 MB - PDF)
+
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
+
+[View](/no/documents/product-information/lyumjev-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000349546
+
+09/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -709,309 +433,172 @@ Product information documents contain:
 - labelling (annex IIIA);
 - package leaflet (annex IIIB).
 
-Lyumjev (previously Liumjev) : EPAR - All authorised presentations
+Lyumjev : EPAR - All authorised presentations
 
-English (EN) (60.01 KB - PDF)
+English (EN) (76.15 KB - PDF)
 
-**First published:** 16/04/2020
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-**Last updated:** 25/04/2023
+[View](/en/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_en.pdf)
 
-[View](/en/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_en.pdf)
+[Other languages (24)](#file-language-dropdown-180)
 
-[Other languages (24)](#file-language-dropdown-639)
+български (BG) (90.9 KB - PDF)
 
-български (BG) (147.16 KB - PDF)
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-**First published:**
+[View](/bg/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_bg.pdf)
 
-16/04/2020
+español (ES) (79.5 KB - PDF)
 
-**Last updated:**
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-25/04/2023
+[View](/es/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_es.pdf)
 
-[View](/bg/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_bg.pdf)
+čeština (CS) (90.19 KB - PDF)
 
-español (ES) (94.05 KB - PDF)
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-**First published:**
+[View](/cs/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_cs.pdf)
 
-16/04/2020
+dansk (DA) (76.65 KB - PDF)
 
-**Last updated:**
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-25/04/2023
+[View](/da/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_da.pdf)
 
-[View](/es/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_es.pdf)
+Deutsch (DE) (93.65 KB - PDF)
 
-čeština (CS) (105.21 KB - PDF)
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-**First published:**
+[View](/de/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_de.pdf)
 
-16/04/2020
+eesti (ET) (77.16 KB - PDF)
 
-**Last updated:**
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-25/04/2023
+[View](/et/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_et.pdf)
 
-[View](/cs/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_cs.pdf)
+ελληνικά (EL) (87.3 KB - PDF)
 
-dansk (DA) (142.09 KB - PDF)
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-**First published:**
+[View](/el/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_el.pdf)
 
-16/04/2020
+français (FR) (81.49 KB - PDF)
 
-**Last updated:**
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-25/04/2023
+[View](/fr/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_fr.pdf)
 
-[View](/da/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_da.pdf)
+hrvatski (HR) (101.01 KB - PDF)
 
-Deutsch (DE) (95.13 KB - PDF)
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-**First published:**
+[View](/hr/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_hr.pdf)
 
-16/04/2020
+italiano (IT) (87.97 KB - PDF)
 
-**Last updated:**
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-25/04/2023
+[View](/it/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_it.pdf)
 
-[View](/de/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_de.pdf)
+latviešu (LV) (101.29 KB - PDF)
 
-eesti keel (ET) (92.91 KB - PDF)
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-**First published:**
+[View](/lv/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_lv.pdf)
 
-16/04/2020
+lietuvių (LT) (100.72 KB - PDF)
 
-**Last updated:**
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-25/04/2023
+[View](/lt/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_lt.pdf)
 
-[View](/et/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_et.pdf)
+magyar (HU) (95.68 KB - PDF)
 
-ελληνικά (EL) (107.6 KB - PDF)
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-**First published:**
+[View](/hu/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_hu.pdf)
 
-16/04/2020
+Malti (MT) (69.21 KB - PDF)
 
-**Last updated:**
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-25/04/2023
+[View](/mt/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_mt.pdf)
 
-[View](/el/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_el.pdf)
+Nederlands (NL) (78.92 KB - PDF)
 
-français (FR) (106.35 KB - PDF)
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-**First published:**
+[View](/nl/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_nl.pdf)
 
-16/04/2020
+polski (PL) (92.79 KB - PDF)
 
-**Last updated:**
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-25/04/2023
+[View](/pl/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_pl.pdf)
 
-[View](/fr/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_fr.pdf)
+português (PT) (77.29 KB - PDF)
 
-hrvatski (HR) (113.6 KB - PDF)
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-**First published:**
+[View](/pt/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_pt.pdf)
 
-16/04/2020
+română (RO) (78.96 KB - PDF)
 
-**Last updated:**
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-25/04/2023
+[View](/ro/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_ro.pdf)
 
-[View](/hr/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_hr.pdf)
+slovenčina (SK) (93.2 KB - PDF)
 
-íslenska (IS) (82.5 KB - PDF)
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-**First published:**
+[View](/sk/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_sk.pdf)
 
-16/04/2020
+slovenščina (SL) (102.46 KB - PDF)
 
-**Last updated:**
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-25/04/2023
+[View](/sl/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_sl.pdf)
 
-[View](/is/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_is.pdf)
+suomi (FI) (75.4 KB - PDF)
 
-italiano (IT) (107.28 KB - PDF)
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-**First published:**
+[View](/fi/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_fi.pdf)
 
-16/04/2020
+svenska (SV) (87.89 KB - PDF)
 
-**Last updated:**
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-25/04/2023
+[View](/sv/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_sv.pdf)
 
-[View](/it/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_it.pdf)
+Íslenska (IS) (77.25 KB - PDF)
 
-latviešu valoda (LV) (116.81 KB - PDF)
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-**First published:**
+[View](/is/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_is.pdf)
 
-16/04/2020
+norsk (NO) (80 KB - PDF)
 
-**Last updated:**
+**First published:** 16/04/2020 **Last updated:** 13/07/2026
 
-25/04/2023
-
-[View](/lv/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_lv.pdf)
-
-lietuvių kalba (LT) (124.24 KB - PDF)
-
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
-
-[View](/lt/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_lt.pdf)
-
-magyar (HU) (101.84 KB - PDF)
-
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
-
-[View](/hu/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_hu.pdf)
-
-Malti (MT) (82.58 KB - PDF)
-
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
-
-[View](/mt/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_mt.pdf)
-
-Nederlands (NL) (123.69 KB - PDF)
-
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
-
-[View](/nl/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (111.41 KB - PDF)
-
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
-
-[View](/no/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_no.pdf)
-
-polski (PL) (121.09 KB - PDF)
-
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
-
-[View](/pl/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_pl.pdf)
-
-português (PT) (61.64 KB - PDF)
-
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
-
-[View](/pt/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_pt.pdf)
-
-română (RO) (73.98 KB - PDF)
-
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
-
-[View](/ro/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_ro.pdf)
-
-slovenčina (SK) (109.1 KB - PDF)
-
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
-
-[View](/sk/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_sk.pdf)
-
-slovenščina (SL) (114.53 KB - PDF)
-
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
-
-[View](/sl/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_sl.pdf)
-
-Suomi (FI) (89.99 KB - PDF)
-
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
-
-[View](/fi/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_fi.pdf)
-
-svenska (SV) (174.86 KB - PDF)
-
-**First published:**
-
-16/04/2020
-
-**Last updated:**
-
-25/04/2023
-
-[View](/sv/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_sv.pdf)
+[View](/no/documents/all-authorised-presentations/lyumjev-epar-all-authorised-presentations_no.pdf)
 
 ## Product details
 
-Name of medicine Lyumjev (previously Liumjev) Active substance insulin lispro International non-proprietary name (INN) or common name insulin lispro Therapeutic area (MeSH) Diabetes Mellitus Anatomical therapeutic chemical (ATC) code A10AB04
+- **Name of medicine**
+    - Lyumjev (previously Liumjev)
+- **Active substance**
+    - insulin lispro
+- **International non-proprietary name (INN) or common name**
+    - insulin lispro
+- **Therapeutic area (MeSH)**
+    - Diabetes Mellitus
+- **Anatomical therapeutic chemical (ATC) code**
+    - A10AB04
 
 ### Pharmacotherapeutic group
 
@@ -1021,23 +608,18 @@ Drugs used in diabetes
 
 Treatment of diabetes mellitus in adults, adolescents and children aged 1 year and above.
 
-Treatment of diabetes mellitus in adults.
-
 ## Authorisation details
 
-EMA product number EMEA/H/C/005037
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Eli Lilly Nederland B.V.
-
-Orteliuslaan 1000 3528 BD Utrecht Netherlands
-
-Opinion adopted 30/01/2020 Marketing authorisation issued 24/03/2020 Revision 8
+- **EMA product number**
+    - EMEA/H/C/005037
+- **Marketing authorisation holder**
+    - Eli Lilly Nederland B.V. Orteliuslaan 1000  3528 BD Utrecht  Netherlands
+- **Opinion adopted**
+    - 30/01/2020
+- **Marketing authorisation issued**
+    - 24/03/2020
+- **Revision**
+    - 9
 
 ## Assessment history
 
@@ -1045,13 +627,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Lyumjev : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (228.87 KB - PDF)
+English (EN) (148.47 KB - PDF)
 
-**First published:** 21/01/2026
+**First published:** 21/01/2026 **Last updated:** 13/07/2026
 
 [View](/en/documents/procedural-steps-after/lyumjev-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1059,17 +641,13 @@ Lyumjev : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (170.7 KB - PDF)
 
-**First published:** 27/07/2020
-
-**Last updated:** 21/01/2026
+**First published:** 27/07/2020 **Last updated:** 21/01/2026
 
 [View](/en/documents/procedural-steps-after/lyumjev-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Lyumjev-H-C-005037-II-0014 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/914290/2022
+Adopted Reference Number: EMA/914290/2022
 
 English (EN) (7.41 MB - PDF)
 
@@ -1079,9 +657,7 @@ English (EN) (7.41 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Lyumjev (II-14)
 
-Adopted
-
-Reference Number: EMA/CHMP/805193/2022
+Adopted Reference Number: EMA/CHMP/805193/2022
 
 English (EN) (89.39 KB - PDF)
 
@@ -1089,13 +665,11 @@ English (EN) (89.39 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-lyumjev-ii-14_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Liumjev : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/86760/2020
+Adopted Reference Number: EMA/86760/2020
 
 English (EN) (7.6 MB - PDF)
 
@@ -1105,9 +679,7 @@ English (EN) (7.6 MB - PDF)
 
 CHMP summary of positive opinion for Liumjev
 
-Adopted
-
-Reference Number: EMA/CHMP/15190/2020
+Adopted Reference Number: EMA/CHMP/15190/2020
 
 English (EN) (120.3 KB - PDF)
 
@@ -1115,22 +687,22 @@ English (EN) (120.3 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-liumjev_en.pdf)
 
-#### News on Lyumjev (previously Liumjev)
+## News on Lyumjev (previously Liumjev)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 October 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-october-2022) 14/10/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 October 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-october-2022)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2020) 31/01/2020
+14/10/2022
 
-#### More information on Lyumjev (previously Liumjev)
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27-30 January 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-january-2020)
+
+31/01/2020
+
+## More information on Lyumjev (previously Liumjev)
 
 - [A cohort study to investigate the risk of severe hypoglycemia among diabetic patients treated with Lyumjev® using the Medical Data Vision (MDV) database in Japan (I8B-JE-B003) - post-authorisation study](https://catalogues.ema.europa.eu/study/104509)
 
-#### Topics
+**This page was last updated on**
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
-**This page was last updated on** 21/01/2026
+13/07/2026
 
 ## Share this page
-
-[Back to top](#main-content)

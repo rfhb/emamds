@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-05 10:22:55
+document_datetime: 2026-07-13 16:15:14
 document_pages: 122
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/idacio-epar-product-information_en.pdf
 document_name: idacio-epar-product-information_en.pdf
 version: success
-processing_time: 66.591589
-conversion_datetime: 2026-06-07 12:11:27.184472
+processing_time: 41.9781273
+conversion_datetime: 2026-07-16 13:34:52.78782
 docling_version:
-  docling-serve: 1.21.0
-  docling-jobkit: 1.20.1
-  docling: 2.97.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -804,22 +804,22 @@ The percent of adalimumab-treated patients achieving ACR 20, 50 and 70 responses
 
 Table 8 ACR responses in placebo-controlled trials (percent of patients)
 
-| Response   | RA study I a **    | RA study I a **           | RA study II a **   | RA study II a **   | RA study III a **    | RA study III a **          |
-|------------|--------------------|---------------------------|--------------------|--------------------|----------------------|----------------------------|
-| Response   | Placebo/MTX c n=60 | Adalimumab b / MTX c n=63 | Placebo n=110      | Adalimumab b n=113 | Placebo/ MTX c n=200 | Adalimumab b / MTX c n=207 |
-| ACR 20     |                    |                           |                    |                    |                      |                            |
-| 6 months   | 13.3%              | 65.1%                     | 19.1%              | 46.0%              | 29.5%                | 63.3%                      |
-| 12 months  | NA                 | NA                        | NA                 | NA                 | 24.0%                | 58.9%                      |
-| 6 months   | 6.7%               | 52.4%                     | 8.2%               | 22.1%              | 9.5%                 | 39.1%                      |
-| 12 months  | NA                 | NA                        | NA                 | NA                 | 9.5%                 | 41.5%                      |
-| 6 months   | 3.3%               | 23.8%                     | 1.8%               | 12.4%              | 2.5%                 | 20.8%                      |
-| 12 months  | NA                 | NA                        | NA                 | NA                 | 4.5%                 | 23.2%                      |
+| Response   | RA study I a **     | RA study I a **           | RA study II a **   | RA study II a **   | RA study III a **      | RA study III a **          |
+|------------|---------------------|---------------------------|--------------------|--------------------|------------------------|----------------------------|
+| Response   | Placebo/ MTX c n=60 | Adalimumab b / MTX c n=63 | Placebo n=110      | Adalimumab n=113   | b Placebo/ MTX c n=200 | Adalimumab b / MTX c n=207 |
+| ACR 20     |                     |                           |                    |                    |                        |                            |
+| 6 months   | 13.3%               | 65.1%                     | 19.1%              | 46.0%              | 29.5%                  | 63.3%                      |
+| 12 months  | NA                  | NA                        | NA                 | NA                 | 24.0%                  | 58.9%                      |
+| 6 months   | 6.7%                | 52.4%                     | 8.2%               | 22.1%              | 9.5%                   | 39.1%                      |
+| 12 months  | NA                  | NA                        | NA                 | NA                 | 9.5%                   | 41.5%                      |
+| 6 months   | 3.3%                | 23.8%                     | 1.8%               | 12.4%              | 2.5%                   | 20.8%                      |
+| 12 months  | NA                  | NA                        | NA                 | NA                 | 4.5%                   | 23.2%                      |
 
 a RA study I at 24 weeks, RA study II at 26 weeks , and RA study III at 24 and 52 weeks
 
-b  40 mg adalimumab administered every other week
+b 40 mg adalimumab administered every other week
 
-c  MTX = methotrexate
+c MTX = methotrexate
 
 **p &lt; 0.01, adalimumab versus placebo
 
@@ -869,11 +869,11 @@ In the open-label extension of RA study III, the reduction in rate of progressio
 
 Table 10 Radiographic mean changes over 12 months in RA study III
 
-|                   |   Placebo/MTX a |   Adalimumab/MTX 40 mg every other week | Placebo/MTX- Adalimumab/MTX (95% confidence interval b )   | p-value   |
-|-------------------|-----------------|-----------------------------------------|------------------------------------------------------------|-----------|
-| Total sharp score |             2.7 |                                     0.1 | 2.6 (1.4, 3.8)                                             | < 0.001 c |
-| Erosion score     |             1.6 |                                     0.0 | 1.6 (0.9, 2.2)                                             | < 0.001   |
-| JSN d score       |             1.0 |                                     0.1 | 0.9 (0.3, 1.4)                                             | 0.002     |
+|                   |   Placebo/ MTX a |   Adalimumab/MTX 40 mg every other week | Placebo/MTX- Adalimumab/MTX (95% confidence interval b )   | p-value   |
+|-------------------|------------------|-----------------------------------------|------------------------------------------------------------|-----------|
+| Total sharp score |              2.7 |                                     0.1 | 2.6 (1.4, 3.8)                                             | < 0.001 c |
+| Erosion score     |              1.6 |                                     0.0 | 1.6 (0.9, 2.2)                                             | < 0.001   |
+| JSN d score       |              1.0 |                                     0.1 | 0.9 (0.3, 1.4)                                             | 0.002     |
 
 a methotrexate
 
@@ -893,9 +893,9 @@ Table 11 Radiographic mean changes at week 52 in RA study V
 | Erosion score     | 3.7 (2.7-4.7)                         | 1.7 (1.0-2.4)                                | 0.8 (0.4-1.2)                                    | < 0.001     |      0.0082 | < 0.001     |
 | JSN score         | 2.0 (1.2-2.8)                         | 1.3 (0.5-2.1)                                | 0.5 (0-1.0)                                      | < 0.001     |      0.0037 | 0.151       |
 
-a p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test.
+a p-value is from the pairwise comparison of methotrexate monotherapy and
 
-b p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
+adalimumab/methotrexate combination therapy using the Mann-Whitney U test. b p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
 
 c p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
 
@@ -946,7 +946,7 @@ Table 12 Efficacy responses in placebo-controlled AS Study - Study I reduction o
 
 ***,** Statistically significant at p &lt; 0.001, &lt; 0.01 for all comparisons between adalimumab and placebo at weeks 2, 12 and 24
 
-a Assessments in Ankylosing Spondylitis
+- a Assessments in Ankylosing Spondylitis
 
 b Bath Ankylosing Spondylitis Disease Activity Index
 
@@ -1005,7 +1005,9 @@ Figure 1: Kaplan-Meier curves summarizing time to flare in
 
 <!-- image -->
 
-Treatment Placebo Adalimumab ∆ Censored
+Treatment Placebo Adalimumab
+
+∆ Censored
 
 Note: P = Placebo (number at risk (flared)); A = Adalimumab (number at risk (flared)).
 
@@ -1090,19 +1092,23 @@ In Psoriasis Studies I and II, a primary endpoint was the proportion of patients
 
 Table 16 Ps Study I (REVEAL) efficacy results at 16 weeks
 
-|                    | Placebo N=398 n (%)   | Adalimumab 40mg eow N=814 n (%)   |
-|--------------------|-----------------------|-----------------------------------|
-| ≥ PASI 75 a        | 26 (6.5)              | 578 (70.9) b                      |
-| PASI 100           | 3 (0.8)               | 163 (20.0) b                      |
-| PGA: Clear/minimal | 17 (4.3)              | 506 (62.2) b                      |
+|                    | Placebo N=398 n (%)   | Adalimumab 40 mg eow N=814 n (%)   |
+|--------------------|-----------------------|------------------------------------|
+| ≥ PASI 75 a        | 26 (6.5)              | 578 (70.9) b                       |
+| PASI 100           | 3 (0.8)               | 163 (20.0) b                       |
+| PGA: Clear/minimal | 17 (4.3)              | 506 (62.2) b                       |
+
+a Percent of patients achieving PASI75 response was calculated as centeradjusted rate
+
+b p&lt;0.001, adalimumab vs. placebo
 
 Table 17 Ps Study II (CHAMPION) efficacy results at 16 weeks
 
-|                    | Placebo N=53 n (%)   | MTX N=110 n (%)   | Adalimumab 40mg eow N=108 n (%)   |
-|--------------------|----------------------|-------------------|-----------------------------------|
-| ≥ PASI 75          | 10 (18.9)            | 39 (35.5)         | 86 (79.6) a,b                     |
-| PASI 100           | 1 (1.9)              | 8 (7.3)           | 18 (16.7) c,d                     |
-| PGA: Clear/minimal | 6 (11.3)             | 33 (30.0)         | 79 (73.1) a,b                     |
+|                    | Placebo N=53 n (%)   | MTX N=110 n (%)   | Adalimumab 40 mg eow N=108 n (%)   |
+|--------------------|----------------------|-------------------|------------------------------------|
+| ≥ PASI 75          | 10 (18.9)            | 39 (35.5)         | 86 (79.6) a, b                     |
+| PASI 100           | 1 (1.9)              | 8 (7.3)           | 18 (16.7) c, d                     |
+| PGA: Clear/minimal | 6 (11.3)             | 33 (30.0)         | 79 (73.1) a, b                     |
 
 a p&lt;0.001 adalimumab vs. placebo
 
@@ -1163,12 +1169,12 @@ At week 12, a significantly higher proportion of patients treated with adalimuma
 
 Table 19: Efficacy results at 12 weeks, HS Studies I and II
 
-|                               | HS Study I         | HS Study I              | HS Study II      | HS Study II             |
-|-------------------------------|--------------------|-------------------------|------------------|-------------------------|
-|                               | Placebo            | Adalimumab 40 mg weekly | Placebo          | Adalimumab 40 mg weekly |
-| Hidradenitis suppurativa      | N = 154            | N = 153 *               | N=163 45         | N=163                   |
-| clinical response (HiSCR) a   | 40 (26.0%)         | 64 (41.8%)              | (27.6%)          | 96 (58.9%) ***          |
-| ≥30% Reduction in skin pain b | N = 109 27 (24.8%) | N = 122 34 (27.9%)      | N=111 23 (20.7%) | N=105 48 (45.7%) ***    |
+|                                                    | HS Study I         | HS Study I              | HS Study II      | HS Study II             |
+|----------------------------------------------------|--------------------|-------------------------|------------------|-------------------------|
+|                                                    | Placebo            | Adalimumab 40 mg weekly | Placebo          | Adalimumab 40 mg weekly |
+| Hidradenitis suppurativa clinical response (HiSCR) | N = 154            | N = 153 *               | N=163 45 (27.6%) | N=163                   |
+| a                                                  | 40 (26.0%)         | 64 (41.8%)              |                  | 96 (58.9%) ***          |
+| ≥30% Reduction in skin pain b                      | N = 109 27 (24.8%) | N = 122 34 (27.9%)      | N=111 23 (20.7%) | N=105 48 (45.7%) ***    |
 
 * P &lt; 0.05, *** P &lt; 0.001, adalimumab versus placebo
 
@@ -1354,6 +1360,74 @@ c NE = not estimable. Fewer than half of at-risk subjects had an event.
 
 Figure 2: Kaplan-Meier curves summarizing time to treatment failure on or after week 6 (study UV I) or week 2 (study UV II)
 
+TREATMENT FAILURE RATE (%)
+
+80
+
+60
+
+40
+
+20
+
+0
+
+0
+
+P#0/107
+
+2
+
+35/67
+
+A#0/110
+
+16/82
+
+Study UV I
+
+6
+
+76/19
+
+48/42
+
+10
+
+8
+
+12
+
+80/14
+
+83/8
+
+82/11
+
+54/35
+
+57/29
+
+60/20
+
+TIME (MONTHS)
+
+Treatment Placebo
+
+16
+
+83/5
+
+18
+
+60/15
+
+84/4
+
+60/12
+
+Adalimumab
+
 <!-- image -->
 
 Note: P# = Placebo (Number of Events/Number at Risk); A# = Adalimumab (Number of Events/Number at Risk).
@@ -1362,9 +1436,29 @@ In study UV I statistically significant differences in favour of adalimumab vers
 
 Of the 424 subjects included in the uncontrolled long-term extension of studies UV I and UV II, 60 subjects were regarded ineligible (e.g. due to deviations or due to complications secondary to diabetic retinopathy, due to cataract surgery or vitrectomy) and were excluded from the primary analysis of efficacy. Of the 364 remaining patients, 269 evaluable patients (74%) reached 78 weeks of open-label adalimumab treatment.
 
-Based on the observed data approach, 216 (80.3%) were in quiescence (no active inflammatory lesions, AC cell grade ≤ 0.5+, VH grade ≤ 0.5+) with a concomitant steroid dose ≤ 7.5 mg per day, and 178 (66.2 %) were in steroid-free quiescence. BCVA was either improved or maintained (&lt; 5 letters deterioration) in 88.6% of the eyes at week 78. Data beyond Week 78 were generally consistent with these results but the number of enrolled subjects declined after this time. Overall, among the patients who discontinued the study, 18% discontinued due to adverse events, and 8% due to insufficient response to adalimumab treatment.
+Based on the observed data approach, 216 (80.3%) were in quiescence (no active inflammatory lesions, AC cell grade ≤ 0.5+, VH grade ≤ 0.5+) with a concomitant steroid dose ≤ 7.5 mg per day, and 178 (66.2 %) were in steroid-free quiescence. BCVA was either improved or maintained (&lt; 5 letters deterioration) in 88.6% of the eyes at week 78. Data beyond Week 78 were generally consistent
+
+4
+
+63/35
+
+40/54
+
+14
+
+83/7
+
+60/17
+
+20
+
+84/0
+
+60/0
 
 <div style=\"page-break-after: always\"></div>
+
+with these results but the number of enrolled subjects declined after this time. Overall, among the patients who discontinued the study, 18% discontinued due to adverse events, and 8% due to insufficient response to adalimumab treatment.
 
 ## Quality of Life
 
@@ -1384,11 +1478,9 @@ The safety and efficacy of adalimumab was assessed in two studies (pJIA I and II
 
 ## pJIA I
 
-The safety and efficacy of adalimumab were assessed in a multicentre, randomised, double-blind, parallel - group study in 171 children (4 -17 years old) with polyarticular JIA. In the open-label lead in phase (OL LI) patients were stratified into two groups, MTX (methotrexate)-treated or non-MTXtreated. Patients who were in the non-MTX stratum were either naïve to or had been withdrawn from MTX at least two weeks prior to study drug administration. Patients remained on stable doses of NSAIDs and or prednisone (≤ 0.2 mg /kg/day or 10 mg/day maximum). In the OL LI phase all patients received 24 mg/m 2  up to a maximum of 40 mg adalimumab every other week for 16 weeks. The distribution of patients by age and minimum, median and maximum dose received during the OL LI phase is presented in Table 25.
+The safety and efficacy of adalimumab were assessed in a multicentre, randomised, double-blind, parallel - group study in 171 children (4 -17 years old) with polyarticular JIA. In the open-label lead in phase (OL LI) patients were stratified into two groups, MTX (methotrexate)-treated or non-MTXtreated. Patients who were in the non-MTX stratum were either naïve to or had been withdrawn from MTX at least two weeks prior to study drug administration. Patients remained on stable doses of NSAIDs and or prednisone (≤ 0.2 mg /kg/day or 10 mg/day maximum). In the OL LI phase all patients received 24 mg/m 2 up to a maximum of 40 mg adalimumab every other week for 16 weeks. The distribution of patients by age and minimum, median and maximum dose received during the OL LI phase is presented in Table 25.
 
-Table 25
-
-## Distribution of patients by age and adalimumab dose received during the OL LI phase
+Table 25 Distribution of patients by age and adalimumab dose received during the OL LI phase
 
 | Age group      | Number of patients at baseline n (%)   | Minimum, median and maximum dose   |
 |----------------|----------------------------------------|------------------------------------|
@@ -1412,9 +1504,9 @@ Table 26 Ped ACR 30 responses in the JIA study
 | Disease flares at the end of 32 weeks a (n/N) | 36.8% (14/38)            | 64.9% (24/37) b       | 43.3% (13/30)       | 71.4% (20/28) c  |
 | Median time to disease flare                  | > 32 weeks               | 20 weeks              | > 32 weeks          | 14 weeks         |
 
-a Ped ACR 30/50/70 responses week 48 significantly greater than those of placebo treated patients
+a Ped ACR 30/50/70 responses week 48 significantly greater than those of placebo treated patients b
 
-b p = 0.015
+p = 0.015
 
 c p = 0.031
 
@@ -1424,7 +1516,7 @@ Overall responses were generally better and, fewer patients developed antibodies
 
 ## pJIA II
 
-The safety and efficacy of adalimumab was assessed in an open-label, multicenter study in 32 children (2 - &lt; 4 years old or aged 4 and above weighing &lt; 15 kg) with moderately to severely active polyarticular JIA. The patients received 24 mg/m 2  BSA of adalimumab up to a maximum of 20 mg every other week as a single dose via SC injection for at least 24 weeks. During the study, most subjects used concomitant MTX, with fewer reporting use of corticosteroids or NSAIDs.
+The safety and efficacy of adalimumab was assessed in an open-label, multicenter study in 32 children (2 - &lt; 4 years old or aged 4 and above weighing &lt; 15 kg) with moderately to severely active polyarticular JIA. The patients received 24 mg/m 2 BSA of adalimumab up to a maximum of 20 mg every other week as a single dose via SC injection for at least 24 weeks. During the study, most subjects used concomitant MTX, with fewer reporting use of corticosteroids or NSAIDs.
 
 At week 12 and week 24, PedACR30 response was 93.5% and 90.0%, respectively, using the observed data approach. The proportions of subjects with PedACR50/70/90 at week 12 and week 24 were 90.3%/61.3%/38.7% and 83.3%/73.3%/36.7%, respectively. Amongst those who responded (Pediatric ACR 30) at week 24 (n=27 out of 30 patients), the Pediatric ACR 30 responses were maintained for up to 60 weeks in the OLE phase in patients who received adalimumab throughout this time period. Overall, 20 subjects were treated for 60 weeks or longer.
 
@@ -1449,11 +1541,11 @@ Table 27: Paediatric plaque psoriasis efficacy results at 16 weeks
 | PASI 75 b            | 12 (32.4%)   | 22 (57.9%)                      |
 | PGA: Clear/minimal c | 15 (40.5%)   | 23 (60.5%)                      |
 
-a  MTX = methotrexate
+a MTX = methotrexate
 
-b  P=0.027, adalimumab 0.8 mg/kg versus MTX
+b P=0.027, adalimumab 0.8 mg/kg versus MTX
 
-c  P=0.083, adalimumab 0.8 mg/kg versus MTX
+c P=0.083, adalimumab 0.8 mg/kg versus MTX
 
 Patients who achieved PASI 75 and PGA clear or minimal were withdrawn from treatment for up to 36 weeks and monitored for loss of disease control (i.e. a worsening of PGA by at least 2 grades). Patients were then re-treated with adalimumab 0.8 mg/kg eow for an additional 16 weeks and response rates observed during retreatment were similar to the previous double-blind period: PASI 75 response of 78.9% (15 of 19 subjects) and PGA clear or minimal of 52.6% (10 of 19 subjects).
 
@@ -1486,7 +1578,9 @@ The primary endpoint of the study was clinical remission at week 26, defined as 
 
 Clinical remission and clinical response (defined as reduction in PCDAI score of at least 15 points from Baseline) rates are presented in Table 29. Rates of discontinuation of corticosteroids or immunomodulators are presented in Table 30.
 
-Table 29 Paediatric CD study
+Table 29
+
+Paediatric CD study
 
 ## PCDAI clinical remission and response
 
@@ -1556,11 +1650,11 @@ Table 31: Clinical remission per PMS at 8 weeks
 |--------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------|
 | Clinical remission | 13/30 (43.3%)                                                         | 28/47 (59.6%)                                                   |
 
-a  Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0, placebo at Week 1, and adalimumab 1.2 mg/kg (maximum of 80 mg) at Week 2
+a Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0, placebo at Week 1, and adalimumab 1.2 mg/kg (maximum of 80 mg) at Week 2
 
-b  Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
+b Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
 
-c  Not including open-label Induction dose of Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
+c Not including open-label Induction dose of Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
 
 Note 1: Both induction groups received 0.6 mg/kg (maximum of 40 mg) at Week 4 and Week 6
 
@@ -1595,8 +1689,6 @@ Table 33: Exploratory endoints results by PUCAI
 |                                                       | Adalimumab d Maximum of 40 mg eow N=31                              | Adalimumab e Maximum of 40 mg ew N=31                        |
 | Clinical remission per PUCAI in Week 8 PMS responders | 14/31 (45.2%)                                                       | 18/31 (58.1%)                                                |
 | Clinical response per PUCAI in Week 8 PMS responders  | 18/31 (58.1%)                                                       | 16/31 (51.6%)                                                |
-
-Note 1: Both induction groups received 0.6 mg/kg (maximum of 40 mg) at Week 4 and Week 6
 
 Note 2: Patients with missing values at Week 8 were considered as not having met the endpoints Note 3: Patients with missing values at Week 52 or who were randomized to receive reinduction or maintenance treatment were considered non-responders for Week 52 endpoints Of the adalimumab-treated patients who received re-induction treatment during the maintenance period, 2/6 (33%) achieved clinical response per FMS at Week 52.
 
@@ -1702,7 +1794,7 @@ An embryo-foetal developmental toxicity/perinatal developmental study has been p
 
 ## 6.1 List of excipients
 
-Glacial acetic acid Trehalose dihydrate Sodium chloride Polysorbate 80 (E433) Sodium hydroxide (for pH adjustment) Water for injections
+Glacial acetic acid Trehalose dihydrate Sodium chloride Polysorbate 80 (E433) Sodium hydroxide and/or acetic acid (for pH adjustment) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -1735,7 +1827,13 @@ Pack sizes of:
 
 Idacio 40 mg solution for injection in pre-filled pen
 
-0.8 ml solution in pre-filled Physioject TM  pen containing a pre-filled syringe (type I glass) with a 29G Thin-Wall, ½ inch needle with latex-free needle cap and a plunger stopper (synthetic rubber). The pen is a single use, disposable, handheld, mechanical injection device.
+TM  pen containing a pre-filled syringe (type I glass) with a 29G
+
+0.8 ml solution in pre-filled Physioject
+
+Thin-Wall, ½ inch needle with latex-free needle cap and a plunger stopper (synthetic rubber). The pen
+
+is a single use, disposable, handheld, mechanical injection device.
 
 Pack sizes of:
 
@@ -1793,13 +1891,13 @@ Name and address of the manufacturer(s) of the biological active substance(s)
 
 Merck Serono S.A. Succursale de Corsier-sur-Vevey Chemin du Fenil Zone Industrielle B 1804 Corsier-sur-Vevey Switzerland
 
-Gh Genhelix S.A. Edificio Genhelix Parque Tecnologico De Julia Morros Armunia 24009 Leon Spain
+Edificio Genhelix Parque Tecnologico De Julia Morros Armunia
+
+Gh Genhelix S.A. 24009 Leon Spain
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Fresenius Kabi Austria GmbH Hafnerstraße 36, 8055 Graz
-
-Austria
+Fresenius Kabi Austria GmbH Hafnerstraße 36, 8055 Graz Austria
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1859,11 +1957,11 @@ One 0.8 ml pre-filled syringe contains 40 mg adalimumab
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: glacial acetic acid, trehalose dihydrate, sodium chloride, polysorbate 80 (E433), sodium hydroxide and water for injections.
+Excipients: glacial acetic acid, trehalose dihydrate, sodium chloride, polysorbate 80 (E433), sodium hydroxide and/or acetic acid and water for injections.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 2 pre-filled syringes
 
@@ -1907,7 +2005,13 @@ Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Fresenius Kabi Deutschland GmbH Else-Kröner-Straße 1 61352 Bad Homburg v.d.Höhe Germany
+Fresenius Kabi Deutschland GmbH
+
+Else-Kröner-Straße 1
+
+61352 Bad Homburg v.d.Höhe
+
+Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1941,17 +2045,17 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE/LABEL                                                    |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
+|--------------------------------------------------------------|
+| SYRINGE/LABEL                                                |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Idacio 40 mg injection adalimumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1963,8 +2067,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.8 ml
 
@@ -1987,11 +2091,11 @@ One 0.8 ml pre-filled pen contains 40 mg adalimumab
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: glacial acetic acid, trehalose dihydrate, sodium chloride, polysorbate 80 (E433), sodium hydroxide and water for injections.
+Excipients: glacial acetic acid, trehalose dihydrate, sodium chloride, polysorbate 80 (E433), sodium hydroxide and/or acetic acid and water for injections.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 2 pre-filled pens
 
@@ -2075,17 +2179,17 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PEN LABEL                                                        |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PEN LABEL                                                          |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Idacio 40 mg injection adalimumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2097,8 +2201,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.8 ml
 
@@ -2647,7 +2751,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 <div style=\"page-break-after: always\"></div>
 
 - -The active substance is adalimumab. Each pre-filled syringe contains 40 mg of adalimumab in 0.8 ml of solution.
-- -The other ingredients are glacial acetic acid, trehalose dihydrate, sodium chloride, polysorbate 80 (E433), sodium hydroxide and water for injections.
+- -The other ingredients are glacial acetic acid, trehalose dihydrate, sodium chloride, polysorbate 80 (E433), sodium hydroxide and/or acetic acid (for pH adjustment)and water for injections.
 
 ## What Idacio looks like and contents of the pack
 
@@ -2751,13 +2855,12 @@ Figure C
 
 <!-- image -->
 
-1.6 Place the remaining syringe(s) in its (their) original box back in the refrigerator (Figure D). Refer to Storage information for -how to store your unused syringe(s).
+- 1.6 Place the remaining syringe(s) in its (their) original box back in the refrigerator (Figure D). Refer to Storage information for -how to store your unused syringe(s).
+- 1.7 Leave the syringe at room temperature for 30 minutes to allow the medicine to warm up. Injecting cold medicine can be painful (Figure E).
 
 Figure D
 
 <!-- image -->
-
-- 1.7 Leave the syringe at room temperature for 30 minutes to allow the medicine to warm up. Injecting cold medicine can be painful (Figure E).
 
 Figure E
 
@@ -2781,7 +2884,7 @@ Figure F
 
 ## Step 3 Check the Pre-filled Syringe
 
-3.1 Check the syringe to make sure that:
+## 3.1 Check the syringe to make sure that:
 
 - The syringe, the clear needle guard, and the needle cap are not cracked or damaged (Figure G).
 - The needle cap is securely attached (Figure H).
@@ -2826,7 +2929,7 @@ Figure K
 
 <!-- image -->
 
-## Warning: Do not use the syringe if:
+Warning: Do not use the syringe if:
 
 If so, throw away the syringe in a sharps disposal container and contact your healthcare professional or pharmacist.
 
@@ -3507,7 +3610,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Idacio contains
 
 - -The active substance is adalimumab. Each pre-filled pen contains 40 mg of adalimumab in 0.8 ml of solution.
-- -The other ingredients are sglacial acetic acid, trehalose dihydrate, sodium chloride, polysorbate 80 (E433), sodium hydroxide and water for injections.
+- -The other ingredients are glacial acetic acid, trehalose dihydrate, sodium chloride, polysorbate 80 (E433), sodium hydroxide and/or acetic acid (for pH adjustment) and water for injections.
 
 ## What Idacio looks like and contents of the pack
 
@@ -3566,11 +3669,9 @@ Note : images for illustration purposes only
 
 ## Get Familiar with your Idacio Pre-filled pen
 
-<!-- image -->
-
-extended
-
 Step 1 Prepare for your injection
+
+<!-- image -->
 
 Each box of Idacio pre-filled pen comes with two or six pre-filled pens.
 
@@ -3756,8 +3857,7 @@ Figure O
 
 ## 6.3 Administer the Injection
 
-- Push the injection button (Figure P).
-- You will hear a loud click, which means the injection has started.
+- Push the injection button (Figure P). You will hear a loud click, which means the injection has started.
 - Continue to HOLD the pre-filled pen firmly.
 - WATCH the syringe plunger to make sure it moves all the way down to the bottom (Figure P).
 

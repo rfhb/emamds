@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 11:21:54
+document_datetime: 2026-07-14 15:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ekterly.html
 document_name: ekterly.html
 version: success
-processing_time: 0.3689401
-conversion_datetime: 2025-12-30 03:35:29.908231
+processing_time: 0.1362545
+conversion_datetime: 2026-07-16 13:19:33.061355
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Ekterly
 
 [RSS](/en/individual-human-medicine.xml/263495)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-sebetralstat Medicine Human Authorised
+sebetralstat
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -48,7 +48,7 @@ Page contents
 
 Ekterly is a medicine used to treat symptoms of hereditary angioedema (swelling) attacks in people aged 12 years and older. People with hereditary angioedema have attacks of rapid swelling that can occur anywhere in the body such as the face, throat, arms, legs or around the gut. These attacks can be life threatening.
 
-Hereditary angioedema is rare, and Ekterly was designated an 'orphan medicine' (a medicine used in rare diseases) on 21 June 2022. Further information on the orphan designation can be found on the EMA [website](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-22-2625) .
+Hereditary angioedema is rare, and Ekterly was designated an 'orphan medicine' (a medicine used in rare diseases) on 21 June 2022.
 
 Ekterly contains the active substance sebetralstat.
 
@@ -56,7 +56,7 @@ Expand section
 
 Collapse section
 
-## How is Ekterly used?
+### How is Ekterly used?
 
 Ekterly can only be obtained with a prescription and treatment should be prescribed by a doctor experienced in treating people with hereditary angioedema.
 
@@ -64,11 +64,11 @@ The medicine is available as tablets to be taken by mouth. One tablet should be 
 
 For more information about using Ekterly, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Ekterly work?
+### How does Ekterly work?
 
 The active substance in Ekterly, sebetralstat, works by blocking the activity of a protein called kallikrein. In people with hereditary angioedema, kallikrein is overactive and leads to increased levels of another protein called bradykinin. Bradykinin causes blood vessels to widen and become leaky, allowing fluid to build up in the surrounding tissues, which causes angioedema attacks. By blocking kallikrein, Ekterly reduces the amount of bradykinin made during an attack, which prevents it from getting worse.
 
-## What benefits of Ekterly have been shown in studies?
+### What benefits of Ekterly have been shown in studies?
 
 A main study showed that Ekterly can lead to faster improvement of symptoms during hereditary angioedema attacks compared with placebo (a dummy treatment).
 
@@ -76,13 +76,13 @@ The main study involved 110 people aged 12 years and older with hereditary angio
 
 On average, symptoms started improving 1.6 hours after taking the treatment in people given Ekterly, compared with 6.7 hours for those given placebo.
 
-## What are the risks associated with Ekterly?
+### What are the risks associated with Ekterly?
 
 For the full list of side effects and restrictions with Ekterly, see the package leaflet.
 
 The most common side effects with Ekterly (which may affect up to 1 in 10 people) include headache.
 
-## Why is Ekterly authorised in the EU?
+### Why is Ekterly authorised in the EU?
 
 A main study showed that Ekterly is more effective than placebo at relieving symptoms of hereditary angioedema attacks.
 
@@ -92,13 +92,13 @@ The safety of Ekterly was evaluated in a small number of patients. Episodes of h
 
 The European Medicines Agency therefore decided that Ekterly's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Ekterly?
+### What measures are being taken to ensure the safe and effective use of Ekterly?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Ekterly have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Ekterly are continuously monitored. Suspected side effects reported with Ekterly are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Ekterly
+### Other information about Ekterly
 
 Ekterly received a marketing authorisation valid throughout the EU on 17 September 2025.
 
@@ -112,181 +112,137 @@ English (EN) (121.34 KB - PDF)
 
 [View](/en/documents/overview/ekterly-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-789)
+[Other languages (22)](#file-language-dropdown-394)
 
 български (BG) (143.86 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/bg/documents/overview/ekterly-epar-medicine-overview_bg.pdf)
 
 español (ES) (120.36 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/es/documents/overview/ekterly-epar-medicine-overview_es.pdf)
 
 čeština (CS) (142.25 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/cs/documents/overview/ekterly-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (120.23 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/da/documents/overview/ekterly-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (124.16 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/de/documents/overview/ekterly-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (116.98 KB - PDF)
+eesti (ET) (116.98 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/et/documents/overview/ekterly-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (154.26 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/el/documents/overview/ekterly-epar-medicine-overview_el.pdf)
 
 français (FR) (122.2 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/fr/documents/overview/ekterly-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (143.76 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/hr/documents/overview/ekterly-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (119.53 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/it/documents/overview/ekterly-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (149.54 KB - PDF)
+latviešu (LV) (149.54 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/lv/documents/overview/ekterly-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (140.87 KB - PDF)
+lietuvių (LT) (140.87 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/lt/documents/overview/ekterly-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (140.79 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/hu/documents/overview/ekterly-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (143.61 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/mt/documents/overview/ekterly-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (121.66 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/nl/documents/overview/ekterly-epar-medicine-overview_nl.pdf)
 
 polski (PL) (144.86 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/pl/documents/overview/ekterly-epar-medicine-overview_pl.pdf)
 
 português (PT) (120.79 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/pt/documents/overview/ekterly-epar-medicine-overview_pt.pdf)
 
 română (RO) (139.08 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/ro/documents/overview/ekterly-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (141.87 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/sk/documents/overview/ekterly-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (140.1 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/sl/documents/overview/ekterly-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (118.03 KB - PDF)
+suomi (FI) (118.03 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/fi/documents/overview/ekterly-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (118.45 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/sv/documents/overview/ekterly-epar-medicine-overview_sv.pdf)
 
@@ -302,211 +258,168 @@ English (EN) (1.47 MB - PDF)
 
 Ekterly : EPAR - Product information
 
-English (EN) (378.84 KB - PDF)
+English (EN) (382.82 KB - PDF)
 
-**First published:** 08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/en/documents/product-information/ekterly-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-109)
+[Other languages (24)](#file-language-dropdown-26)
 
-български (BG) (1.11 MB - PDF)
+български (BG) (471.99 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/bg/documents/product-information/ekterly-epar-product-information_bg.pdf)
 
-español (ES) (1.05 MB - PDF)
+español (ES) (407.06 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/es/documents/product-information/ekterly-epar-product-information_es.pdf)
 
-čeština (CS) (1.1 MB - PDF)
+čeština (CS) (457.28 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/cs/documents/product-information/ekterly-epar-product-information_cs.pdf)
 
-dansk (DA) (415.58 KB - PDF)
+dansk (DA) (391.5 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/da/documents/product-information/ekterly-epar-product-information_da.pdf)
 
-Deutsch (DE) (433.2 KB - PDF)
+Deutsch (DE) (403.75 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/de/documents/product-information/ekterly-epar-product-information_de.pdf)
 
-eesti keel (ET) (985.63 KB - PDF)
+eesti (ET) (410.66 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/et/documents/product-information/ekterly-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.06 MB - PDF)
+ελληνικά (EL) (514.32 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/el/documents/product-information/ekterly-epar-product-information_el.pdf)
 
-français (FR) (397 KB - PDF)
+français (FR) (374.84 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/fr/documents/product-information/ekterly-epar-product-information_fr.pdf)
 
-hrvatski (HR) (479.88 KB - PDF)
+hrvatski (HR) (460.95 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/hr/documents/product-information/ekterly-epar-product-information_hr.pdf)
 
-íslenska (IS) (977.61 KB - PDF)
+italiano (IT) (410.62 KB - PDF)
 
-**First published:**
-
-08/10/2025
-
-[View](/is/documents/product-information/ekterly-epar-product-information_is.pdf)
-
-italiano (IT) (431.39 KB - PDF)
-
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/it/documents/product-information/ekterly-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (496.53 KB - PDF)
+latviešu (LV) (471.63 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/lv/documents/product-information/ekterly-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (485.98 KB - PDF)
+lietuvių (LT) (460.47 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/lt/documents/product-information/ekterly-epar-product-information_lt.pdf)
 
-magyar (HU) (484.39 KB - PDF)
+magyar (HU) (464.22 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/hu/documents/product-information/ekterly-epar-product-information_hu.pdf)
 
-Malti (MT) (520.55 KB - PDF)
+Malti (MT) (498.46 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/mt/documents/product-information/ekterly-epar-product-information_mt.pdf)
 
-Nederlands (NL) (415.64 KB - PDF)
+Nederlands (NL) (396.02 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/nl/documents/product-information/ekterly-epar-product-information_nl.pdf)
 
-norsk (NO) (412.2 KB - PDF)
+polski (PL) (500.5 KB - PDF)
 
-**First published:**
-
-08/10/2025
-
-[View](/no/documents/product-information/ekterly-epar-product-information_no.pdf)
-
-polski (PL) (518.29 KB - PDF)
-
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/pl/documents/product-information/ekterly-epar-product-information_pl.pdf)
 
-português (PT) (449.3 KB - PDF)
+português (PT) (424.78 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/pt/documents/product-information/ekterly-epar-product-information_pt.pdf)
 
-română (RO) (499.17 KB - PDF)
+română (RO) (463.65 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/ro/documents/product-information/ekterly-epar-product-information_ro.pdf)
 
-slovenčina (SK) (518.39 KB - PDF)
+slovenčina (SK) (491.7 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/sk/documents/product-information/ekterly-epar-product-information_sk.pdf)
 
-slovenščina (SL) (500.81 KB - PDF)
+slovenščina (SL) (485.73 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/sl/documents/product-information/ekterly-epar-product-information_sl.pdf)
 
-Suomi (FI) (972.64 KB - PDF)
+suomi (FI) (392.49 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/fi/documents/product-information/ekterly-epar-product-information_fi.pdf)
 
-svenska (SV) (955.75 KB - PDF)
+svenska (SV) (389.22 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
 
 [View](/sv/documents/product-information/ekterly-epar-product-information_sv.pdf)
+
+Íslenska (IS) (399.84 KB - PDF)
+
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
+
+[View](/is/documents/product-information/ekterly-epar-product-information_is.pdf)
+
+norsk (NO) (389.79 KB - PDF)
+
+**First published:** 08/10/2025 **Last updated:** 14/07/2026
+
+[View](/no/documents/product-information/ekterly-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000358578
+
+13/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -524,203 +437,164 @@ English (EN) (61.74 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-954)
+[Other languages (24)](#file-language-dropdown-486)
 
 български (BG) (66.46 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/bg/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (57.78 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/es/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (56.84 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/cs/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (56.33 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/da/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (58.84 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/de/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (56.87 KB - PDF)
+eesti (ET) (56.87 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/et/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (73.98 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/el/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (56.14 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/fr/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (73.4 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/hr/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (57.86 KB - PDF)
-
-**First published:**
-
-08/10/2025
-
-[View](/is/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (55.81 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/it/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (73.56 KB - PDF)
+latviešu (LV) (73.56 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/lv/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (74.42 KB - PDF)
+lietuvių (LT) (74.42 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/lt/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (74.92 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/hu/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (74.92 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/mt/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (56.49 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/nl/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (56.1 KB - PDF)
-
-**First published:**
-
-08/10/2025
-
-[View](/no/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (65.72 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/pl/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (58.11 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/pt/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (74.49 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/ro/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (73.26 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/sk/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (73.13 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/sl/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (55.71 KB - PDF)
+suomi (FI) (55.71 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/fi/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (55.55 KB - PDF)
 
-**First published:**
-
-08/10/2025
+**First published:** 08/10/2025
 
 [View](/sv/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (57.86 KB - PDF)
+
+**First published:** 08/10/2025
+
+[View](/is/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (56.1 KB - PDF)
+
+**First published:** 08/10/2025
+
+[View](/no/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Ekterly Active substance sebetralstat International non-proprietary name (INN) or common name sebetralstat Therapeutic area (MeSH) Angioedemas, Hereditary Anatomical therapeutic chemical (ATC) code B06AC08
+- **Name of medicine**
+    - Ekterly
+- **Active substance**
+    - sebetralstat
+- **International non-proprietary name (INN) or common name**
+    - sebetralstat
+- **Therapeutic area (MeSH)**
+    - Angioedemas, Hereditary
+- **Anatomical therapeutic chemical (ATC) code**
+    - B06AC08
 
 ### Pharmacotherapeutic group
 
@@ -732,33 +606,42 @@ Ekterly is indicated for symptomatic treatment of acute attacks of hereditary an
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006211
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Kalvista Pharmaceuticals (Ireland) Limited
-
-10 Earlsfort Terrace Dublin 2 Co. Dublin D02 T380 IRELAND
-
-Opinion adopted 24/07/2025 Marketing authorisation issued 17/09/2025
+- **EMA product number**
+    - EMEA/H/C/006211
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - Kalvista Pharmaceuticals (Ireland) Limited Block C  Magennis Court  Magennis Place  Dublin 2  D02 FK76  IRELAND 
+- **Opinion adopted**
+    - 24/07/2025
+- **Marketing authorisation issued**
+    - 17/09/2025
+- **Revision**
+    - 1
 
 ## Assessment history
 
-## Initial marketing authorisation documents
+Expand section
+
+Collapse section
+
+### Changes since initial authorisation of medicine
+
+Ekterly : EPAR - Procedural steps taken and scientific information after the authorisation
+
+English (EN) (142.01 KB - PDF)
+
+**First published:** 14/07/2026
+
+[View](/en/documents/procedural-steps-after/ekterly-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+### Initial marketing authorisation documents
 
 Ekterly : Orphan maintenance assessment report (initial authorisation)
 
-Adopted
-
-Reference Number: EMADOC-1700519818-2331715
+Adopted Reference Number: EMADOC-1700519818-2331715
 
 English (EN) (1.24 MB - PDF)
 
@@ -768,9 +651,7 @@ English (EN) (1.24 MB - PDF)
 
 Ekterly : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/266036/2025
+Adopted Reference Number: EMA/266036/2025
 
 English (EN) (1.95 MB - PDF)
 
@@ -780,9 +661,7 @@ English (EN) (1.95 MB - PDF)
 
 CHMP summary of positive opinion for Ekterly
 
-Adopted
-
-Reference Number: EMA/CHMP/172918/2025
+Adopted Reference Number: EMA/CHMP/172918/2025
 
 English (EN) (133.46 KB - PDF)
 
@@ -790,16 +669,18 @@ English (EN) (133.46 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-ekterly_en.pdf)
 
-#### News on Ekterly
+## News on Ekterly
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025) 25/07/2025
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025)
 
-#### More information on Ekterly
+25/07/2025
+
+## More information on Ekterly
 
 - [EU/3/22/2625 - orphan designation for treatment of hereditary angioedema](/en/medicines/human/orphan-designations/eu-3-22-2625)
 
-**This page was last updated on** 08/10/2025
+**This page was last updated on**
+
+14/07/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-19 16:24:00
+document_datetime: 2026-07-13 16:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/libmyris.html
 document_name: libmyris.html
 version: success
-processing_time: 0.1315489
-conversion_datetime: 2026-03-25 12:39:23.350223
+processing_time: 0.149658
+conversion_datetime: 2026-07-16 13:17:42.275387
 docling_version:
-  docling-serve: 1.15.0
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.1
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Libmyris
 
@@ -38,8 +38,6 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Libmyris](#news-on)
-- [Product information - with tracked changes](#product-information-with-tracked-changes-84378)
-- [Related content](#related-content-945)
 
 - Application under evaluation
 - CHMP opinion
@@ -61,7 +59,7 @@ Libmyris is a medicine that acts on the immune system (the body's natural defenc
 
 Libmyris is mostly used in adults when their condition is severe, moderately severe or getting worse, or when patients cannot use other treatments. For more information on the use of Libmyris in all conditions, including when it can be used in children, see the package leaflet or contact your doctor or pharmacist.
 
-Libmyris is a 'biosimilar medicine'. This means that Libmyris is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Libmyris is Humira. For more information on biosimilar medicines, see [here](/en/biosimilar-medicines-overview) .
+Libmyris is a 'biosimilar medicine'. This means that Libmyris is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Libmyris is Humira.
 
 Libmyris contains the active substance adalimumab.
 
@@ -69,7 +67,7 @@ Expand section
 
 Collapse section
 
-## How is Libmyris used?
+### How is Libmyris used?
 
 Libmyris is available for injection under the skin in a pre-filled syringe or pen and is usually given every 2 weeks. The dose and frequency of injection depend on the condition to be treated and the dose for a child is usually calculated according to the child's weight; because Libmyris is only available in doses of 40 or 80 mg, it is not suitable for children who need less than a 40-mg dose. After training, patients or their carers may inject Libmyris if their doctor considers it appropriate.
 
@@ -77,11 +75,11 @@ Libmyris can only be obtained with a prescription and treatment must be started 
 
 For more information about using Libmyris, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Libmyris work?
+### How does Libmyris work?
 
 The active substance in Libymrys, adalimumab, is a monoclonal antibody (a type of protein) that has been designed to recognise and attach to a substance in the body called tumour necrosis factor (TNF). TNF is involved in causing inflammation and is found at high levels in patients with the diseases that Libmyris is used to treat. By attaching to TNF, adalimumab blocks its activity, thereby reducing inflammation and other symptoms of the diseases.
 
-## What benefits of Libmyris have been shown in studies?
+### What benefits of Libmyris have been shown in studies?
 
 Laboratory studies comparing Libmyris with Humira have shown that the active substance in Libmyris is highly similar to that in Humira in terms of structure, purity and biological activity. Studies have also shown that giving Libmyris produces similar levels of the active substance in the body to giving Humira.
 
@@ -89,7 +87,7 @@ In addition, a study involving 412 adult patients with plaque psoriasis has show
 
 Because Libmyris is a biosimilar medicine, the studies on effectiveness and safety of adalimumab carried out with Humira do not all need to be repeated for Libmyris.
 
-## What are the risks associated with Libmyris?
+### What are the risks associated with Libmyris?
 
 The safety of Libmyris has been evaluated, and on the basis of all the studies carried out the side effects of the medicine are considered to be comparable to those of the reference medicine Humira.
 
@@ -101,13 +99,13 @@ Libmyris must not be used in patients with active tuberculosis or other severe i
 
 For the full list of side effects and restrictions with Libmyris, see the package leaflet.
 
-## Why is Libmyris authorised in the EU?
+### Why is Libmyris authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Libmyris has a highly similar structure, purity and biological activity to Humira and is distributed in the body in the same way. In addition, studies in adults with plaque psoriasis have shown that the safety and effectiveness of Libmyris is equivalent to that of Humira in this group.
 
 All these data were considered sufficient to conclude that Libmyris will behave in the same way as Humira in terms of effectiveness and safety in its authorised uses. Therefore, the Agency's view was that, as for Humira, the benefits of Libmyris outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Libmyris?
+### What measures are being taken to ensure the safe and effective use of Libmyris?
 
 Patients treated with Libmyris must be given a reminder card with information on the safety of the medicine.
 
@@ -115,7 +113,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Libmyris are continuously monitored. Suspected side effects reported with Libmyris are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Libmyris
+### Other information about Libmyris
 
 Libmyris received a marketing authorisation valid throughout the EU on 12 November 2021.
 
@@ -129,7 +127,7 @@ English (EN) (137.53 KB - PDF)
 
 [View](/en/documents/overview/libmyris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-386)
+[Other languages (22)](#file-language-dropdown-777)
 
 български (BG) (171.43 KB - PDF)
 
@@ -161,7 +159,7 @@ Deutsch (DE) (150.14 KB - PDF)
 
 [View](/de/documents/overview/libmyris-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (144.04 KB - PDF)
+eesti (ET) (144.04 KB - PDF)
 
 **First published:** 18/01/2022
 
@@ -191,13 +189,13 @@ italiano (IT) (144.26 KB - PDF)
 
 [View](/it/documents/overview/libmyris-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (176.47 KB - PDF)
+latviešu (LV) (176.47 KB - PDF)
 
 **First published:** 18/01/2022
 
 [View](/lv/documents/overview/libmyris-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (168.58 KB - PDF)
+lietuvių (LT) (168.58 KB - PDF)
 
 **First published:** 18/01/2022
 
@@ -251,7 +249,7 @@ slovenščina (SL) (197.42 KB - PDF)
 
 [View](/sl/documents/overview/libmyris-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (142.87 KB - PDF)
+suomi (FI) (142.87 KB - PDF)
 
 **First published:** 18/01/2022
 
@@ -263,179 +261,180 @@ svenska (SV) (144.08 KB - PDF)
 
 [View](/sv/documents/overview/libmyris-epar-medicine-overview_sv.pdf)
 
-Libmyris : EPAR - Risk management plan summary
+Libmyris : EPAR - Risk management plan
 
-English (EN) (110.3 KB - PDF)
+English (EN) (656.58 KB - PDF)
 
-**First published:** 18/01/2022
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
-[View](/en/documents/rmp-summary/libmyris-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/libmyris-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
 Libmyris : EPAR - Product information
 
-English (EN) (2.14 MB - PDF)
+English (EN) (3.63 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/en/documents/product-information/libmyris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-166)
+[Other languages (24)](#file-language-dropdown-866)
 
-български (BG) (2.23 MB - PDF)
+български (BG) (3.75 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/bg/documents/product-information/libmyris-epar-product-information_bg.pdf)
 
-español (ES) (1.97 MB - PDF)
+español (ES) (3.51 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/es/documents/product-information/libmyris-epar-product-information_es.pdf)
 
-čeština (CS) (2.44 MB - PDF)
+čeština (CS) (3.95 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/cs/documents/product-information/libmyris-epar-product-information_cs.pdf)
 
-dansk (DA) (2.07 MB - PDF)
+dansk (DA) (3.58 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/da/documents/product-information/libmyris-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.11 MB - PDF)
+Deutsch (DE) (3.64 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/de/documents/product-information/libmyris-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.14 MB - PDF)
+eesti (ET) (3.65 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/et/documents/product-information/libmyris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (3.26 MB - PDF)
+ελληνικά (EL) (5.51 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/el/documents/product-information/libmyris-epar-product-information_el.pdf)
 
-français (FR) (2.18 MB - PDF)
+français (FR) (3.73 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/fr/documents/product-information/libmyris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.22 MB - PDF)
+hrvatski (HR) (3.76 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/hr/documents/product-information/libmyris-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.84 MB - PDF)
+italiano (IT) (3.61 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
-
-[View](/is/documents/product-information/libmyris-epar-product-information_is.pdf)
-
-italiano (IT) (2 MB - PDF)
-
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/it/documents/product-information/libmyris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.98 MB - PDF)
+latviešu (LV) (3.51 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/lv/documents/product-information/libmyris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.05 MB - PDF)
+lietuvių (LT) (3.59 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/lt/documents/product-information/libmyris-epar-product-information_lt.pdf)
 
-magyar (HU) (2.1 MB - PDF)
+magyar (HU) (3.69 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/hu/documents/product-information/libmyris-epar-product-information_hu.pdf)
 
-Malti (MT) (2.39 MB - PDF)
+Malti (MT) (3.98 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/mt/documents/product-information/libmyris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.84 MB - PDF)
+Nederlands (NL) (3.37 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/nl/documents/product-information/libmyris-epar-product-information_nl.pdf)
 
-norsk (NO) (1.85 MB - PDF)
+polski (PL) (3.8 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
-
-[View](/no/documents/product-information/libmyris-epar-product-information_no.pdf)
-
-polski (PL) (2.31 MB - PDF)
-
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/pl/documents/product-information/libmyris-epar-product-information_pl.pdf)
 
-português (PT) (2.18 MB - PDF)
+português (PT) (3.68 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/pt/documents/product-information/libmyris-epar-product-information_pt.pdf)
 
-română (RO) (2.26 MB - PDF)
+română (RO) (3.76 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/ro/documents/product-information/libmyris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.3 MB - PDF)
+slovenčina (SK) (3.82 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/sk/documents/product-information/libmyris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.04 MB - PDF)
+slovenščina (SL) (3.64 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/sl/documents/product-information/libmyris-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.91 MB - PDF)
+suomi (FI) (3.54 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/fi/documents/product-information/libmyris-epar-product-information_fi.pdf)
 
-svenska (SV) (1.85 MB - PDF)
+svenska (SV) (3.39 MB - PDF)
 
-**First published:** 18/01/2022 **Last updated:** 19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
 
 [View](/sv/documents/product-information/libmyris-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000335580
+Íslenska (IS) (3.47 MB - PDF)
 
-19/03/2026
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
+
+[View](/is/documents/product-information/libmyris-epar-product-information_is.pdf)
+
+norsk (NO) (3.44 MB - PDF)
+
+**First published:** 18/01/2022 **Last updated:** 13/07/2026
+
+[View](/no/documents/product-information/libmyris-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** R/0000326540
+
+03/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -453,7 +452,7 @@ English (EN) (64.29 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/libmyris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-996)
+[Other languages (24)](#file-language-dropdown-750)
 
 български (BG) (81.23 KB - PDF)
 
@@ -485,7 +484,7 @@ Deutsch (DE) (68.97 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/libmyris-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (66.07 KB - PDF)
+eesti (ET) (66.07 KB - PDF)
 
 **First published:** 18/01/2022 **Last updated:** 31/07/2025
 
@@ -509,25 +508,19 @@ hrvatski (HR) (74.84 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/libmyris-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (68.86 KB - PDF)
-
-**First published:** 18/01/2022 **Last updated:** 31/07/2025
-
-[View](/is/documents/all-authorised-presentations/libmyris-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (66.77 KB - PDF)
 
 **First published:** 18/01/2022 **Last updated:** 31/07/2025
 
 [View](/it/documents/all-authorised-presentations/libmyris-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (71.55 KB - PDF)
+latviešu (LV) (71.55 KB - PDF)
 
 **First published:** 18/01/2022 **Last updated:** 31/07/2025
 
 [View](/lv/documents/all-authorised-presentations/libmyris-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (75.47 KB - PDF)
+lietuvių (LT) (75.47 KB - PDF)
 
 **First published:** 18/01/2022 **Last updated:** 31/07/2025
 
@@ -550,12 +543,6 @@ Nederlands (NL) (65.52 KB - PDF)
 **First published:** 18/01/2022 **Last updated:** 31/07/2025
 
 [View](/nl/documents/all-authorised-presentations/libmyris-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (69.73 KB - PDF)
-
-**First published:** 18/01/2022 **Last updated:** 31/07/2025
-
-[View](/no/documents/all-authorised-presentations/libmyris-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (72.19 KB - PDF)
 
@@ -587,7 +574,7 @@ slovenščina (SL) (73.48 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/libmyris-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (64.39 KB - PDF)
+suomi (FI) (64.39 KB - PDF)
 
 **First published:** 18/01/2022 **Last updated:** 31/07/2025
 
@@ -599,35 +586,38 @@ svenska (SV) (68.36 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/libmyris-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (68.86 KB - PDF)
+
+**First published:** 18/01/2022 **Last updated:** 31/07/2025
+
+[View](/is/documents/all-authorised-presentations/libmyris-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (69.73 KB - PDF)
+
+**First published:** 18/01/2022 **Last updated:** 31/07/2025
+
+[View](/no/documents/all-authorised-presentations/libmyris-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Libmyris
-
-Active substance
-
-adalimumab
-
-International non-proprietary name (INN) or common name
-
-adalimumab
-
-Therapeutic area (MeSH)
-
-- Arthritis, Rheumatoid
-- Arthritis, Juvenile Rheumatoid
-- Spondylitis, Ankylosing
-- Arthritis, Psoriatic
-- Psoriasis
-- Hidradenitis Suppurativa
-- Crohn Disease
-- Colitis, Ulcerative
-- Uveitis
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AB04
+- **Name of medicine**
+    - Libmyris
+- **Active substance**
+    - adalimumab
+- **International non-proprietary name (INN) or common name**
+    - adalimumab
+- **Therapeutic area (MeSH)**
+        - Arthritis, Rheumatoid
+        - Arthritis, Juvenile Rheumatoid
+        - Spondylitis, Ankylosing
+        - Arthritis, Psoriatic
+        - Psoriasis
+        - Hidradenitis Suppurativa
+        - Crohn Disease
+        - Colitis, Ulcerative
+        - Uveitis
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AB04
 
 ### Pharmacotherapeutic group
 
@@ -635,36 +625,91 @@ Immunosuppressants
 
 ### Therapeutic indication
 
-| Rheumatoid arthritis  Libmyris can be given as monotherapy in case of intolerance to methotrexate or when continued treatment with methotrexate is inappropriate.  Adalimumab has been shown to reduce the rate of progression of joint damage as measured by X-ray and to improve physical function, when given in combination with methotrexate.  Juvenile idiopathic arthritis *Polyarticular juvenile idiopathic arthritis* Libmyris in combination with methotrexate is indicated for the treatment of active polyarticular juvenile idiopathic arthritis, in patients from the age of 2 years who have had an inadequate response to one or more DMARD. Libmyris can be given as monotherapy in case of intolerance to methotrexate or when continued treatment with methotrexate is inappropriate (for the efficacy in monotherapy see section 5.1). Adalimumab has not been studied in patients aged less than 2 years.  *Enthesitis-related arthritis* Libmyris is indicated for the treatment of active enthesitis-related arthritis in patients, 6 years of age and older, who have had an inadequate response to, or who are intolerant of, conventional therapy.  Axial spondyloarthritis *Ankylosing spondylitis (AS)* Libmyris is indicated for the treatment of adults with severe active AS who have had an inadequate response to conventional therapy.  *Axial spondyloarthritis without radiographic evidence of AS* Libmyris is indicated for the treatment of adults with severe axial spondyloarthritis without radiographic evidence of AS but with objective signs of inflammation by elevated CRP and/or MRI, who have had an inadequate response to, or are intolerant to nonsteroidal anti-inflammatory drugs (NSAIDs).  Psoriatic arthritis Libmyris is indicated for the treatment of active and progressive psoriatic arthritis in adults when the response to previous DMARD therapy has been inadequate. Adalimumab has been shown to reduce the rate of progression of peripheral joint damage as measured by X-ray in patients with polyarticular symmetrical subtypes of the disease and to improve physical function.  Psoriasis Libmyris is indicated for the treatment of moderate to severe chronic plaque psoriasis in adult patients who are candidates for systemic therapy.  Paediatric plaque psoriasis Libmyris is indicated for the treatment of severe chronic plaque psoriasis in children and adolescents from 4 years of age who have had an inadequate response to or are inappropriate candidates for topical therapy and phototherapies.  Hidradenitis suppurativa (HS) Libmyris is indicated for the treatment of active moderate to severe HS (acne inversa) in adults and adolescents from 12 years of age with an inadequate response to conventional systemic HS therapy (see sections 5.1 and 5.2).  Crohn's disease Libmyris is indicated for treatment of moderately to severely active Crohn's disease, in adult patients who have not responded despite a full and adequate course of therapy with a corticosteroid and/or an immunosuppressant; or who are intolerant to or have medical contraindications for such therapies.  Paediatric Crohn's disease Libmyris is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients (from 6 years of age) who have had an inadequate response to conventional therapy including primary nutrition therapy and a corticosteroid and/or an immunomodulator, or who are intolerant to or have contraindications for such therapies.  Ulcerative colitis Libmyris is indicated for treatment of moderately to severely active ulcerative colitis in adult patients who have had an inadequate response to conventional therapy including corticosteroids and 6-mercaptopurine (6-MP) or azathioprine (AZA), or who are intolerant to or have medical contraindications for such therapies.  Paediatric ulcerative colitis Libmyris is indicated for the treatment of moderately to severely active ulcerative colitis in paediatric patients (from 6 years of age) who have had an inadequate response to conventional therapy including corticosteroids and/or 6-mercaptopurine (6-MP) or azathioprine (AZA), or who are intolerant to or have medical contraindications for such therapies.  Uveitis Libmyris is indicated for the treatment of non-infectious intermediate, posterior and panuveitis in adult patients who have had an inadequate response to corticosteroids, in patients in need of corticosteroid-sparing, or in whom corticosteroid treatment is inappropriate.  Paediatric uveitis Libmyris is indicated for the treatment of paediatric chronic non-infectious anterior uveitis in patients from 2 years of age who have had an inadequate response to or are intolerant to conventional therapy, or in whom conventional therapy is inappropriate.   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+**Rheumatoid arthritis**
+
+Libmyris in combination with methotrexate, is indicated for:
+
+- the treatment of moderate to severe, active rheumatoid arthritis in adult patients when the response to disease-modifying anti-rheumatic drugs (DMARDs) including methotrexate has been inadequate.
+- the treatment of severe, active and progressive rheumatoid arthritis in adults not previously treated with methotrexate.
+
+Libmyris can be given as monotherapy in case of intolerance to methotrexate or when continued treatment with methotrexate is inappropriate.
+
+Adalimumab has been shown to reduce the rate of progression of joint damage as measured by X-ray and to improve physical function, when given in combination with methotrexate.
+
+**Juvenile idiopathic arthritis**
+
+*Polyarticular juvenile idiopathic arthritis*
+
+Libmyris in combination with methotrexate is indicated for the treatment of active polyarticular juvenile idiopathic arthritis, in patients from the age of 2 years who have had an inadequate response to one or more DMARD. Libmyris can be given as monotherapy in case of intolerance to methotrexate or when continued treatment with methotrexate is inappropriate (for the efficacy in monotherapy see section 5.1). Adalimumab has not been studied in patients aged less than 2 years.
+
+*Enthesitis-related arthritis*
+
+Libmyris is indicated for the treatment of active enthesitis-related arthritis in patients, 6 years of age and older, who have had an inadequate response to, or who are intolerant of, conventional therapy.
+
+**Axial spondyloarthritis**
+
+*Ankylosing spondylitis (AS)*
+
+Libmyris is indicated for the treatment of adults with severe active AS who have had an inadequate response to conventional therapy.
+
+*Axial spondyloarthritis without radiographic evidence of AS*
+
+Libmyris is indicated for the treatment of adults with severe axial spondyloarthritis without radiographic evidence of AS but with objective signs of inflammation by elevated CRP and/or MRI, who have had an inadequate response to, or are intolerant to nonsteroidal anti-inflammatory drugs (NSAIDs).
+
+**Psoriatic arthritis**
+
+Libmyris is indicated for the treatment of active and progressive psoriatic arthritis in adults when the response to previous DMARD therapy has been inadequate. Adalimumab has been shown to reduce the rate of progression of peripheral joint damage as measured by X-ray in patients with polyarticular symmetrical subtypes of the disease and to improve physical function.
+
+**Psoriasis**
+
+Libmyris is indicated for the treatment of moderate to severe chronic plaque psoriasis in adult patients who are candidates for systemic therapy.
+
+**Paediatric plaque psoriasis**
+
+Libmyris is indicated for the treatment of severe chronic plaque psoriasis in children and adolescents from 4 years of age who have had an inadequate response to or are inappropriate candidates for topical therapy and phototherapies.
+
+**Hidradenitis suppurativa (HS)**
+
+Libmyris is indicated for the treatment of active moderate to severe HS (acne inversa) in adults and adolescents from 12 years of age with an inadequate response to conventional systemic HS therapy (see sections 5.1 and 5.2).
+
+**Crohn's disease**
+
+Libmyris is indicated for treatment of moderately to severely active Crohn's disease, in adult patients who have not responded despite a full and adequate course of therapy with a corticosteroid and/or an immunosuppressant; or who are intolerant to or have medical contraindications for such therapies.
+
+**Paediatric Crohn's disease**
+
+Libmyris is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients (from 6 years of age) who have had an inadequate response to conventional therapy including primary nutrition therapy and a corticosteroid and/or an immunomodulator, or who are intolerant to or have contraindications for such therapies.
+
+**Ulcerative colitis**
+
+Libmyris is indicated for treatment of moderately to severely active ulcerative colitis in adult patients who have had an inadequate response to conventional therapy including corticosteroids and 6-mercaptopurine (6-MP) or azathioprine (AZA), or who are intolerant to or have medical contraindications for such therapies.
+
+**Paediatric ulcerative colitis**
+
+Libmyris is indicated for the treatment of moderately to severely active ulcerative colitis in paediatric patients (from 6 years of age) who have had an inadequate response to conventional therapy including corticosteroids and/or 6-mercaptopurine (6-MP) or azathioprine (AZA), or who are intolerant to or have medical contraindications for such therapies.
+
+**Uveitis**
+
+Libmyris is indicated for the treatment of non-infectious intermediate, posterior and panuveitis in adult patients who have had an inadequate response to corticosteroids, in patients in need of corticosteroid-sparing, or in whom corticosteroid treatment is inappropriate.
+
+**Paediatric uveitis**
+
+Libmyris is indicated for the treatment of paediatric chronic non-infectious anterior uveitis in patients from 2 years of age who have had an inadequate response to or are intolerant to conventional therapy, or in whom conventional therapy is inappropriate.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005947
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Stada Arzneimittel AG
-
-Stadastrasse 2-18 D-61118 Bad Vilbel Germany
-
-Opinion adopted
-
-16/09/2021
-
-Marketing authorisation issued
-
-12/11/2021
-
-Revision
-
-9
+- **EMA product number**
+    - EMEA/H/C/005947
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Stada Arzneimittel AG Stadastrasse 2-18  D-61118 Bad Vilbel  Germany
+- **Opinion adopted**
+    - 16/09/2021
+- **Marketing authorisation issued**
+    - 12/11/2021
+- **Revision**
+    - 10
 
 ## Assessment history
 
@@ -672,25 +717,25 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Libmyris : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (183.78 KB - PDF)
+English (EN) (183.75 KB - PDF)
 
-**First published:** 31/07/2025 **Last updated:** 19/03/2026
+**First published:** 31/07/2025 **Last updated:** 13/07/2026
 
 [View](/en/documents/procedural-steps-after/libmyris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Libmyris : EPAR - Procedural steps taken and scientific information after authorisation (archived)
 
-English (EN) (130.35 KB - PDF)
+English (EN) (172.65 KB - PDF)
 
-**First published:** 11/01/2023 **Last updated:** 16/10/2024
+**First published:** 11/01/2023 **Last updated:** 13/07/2026
 
 [View](/en/documents/procedural-steps-after/libmyris-epar-procedural-steps-taken-scientific-information-after-authorisation-archived_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Libmyris : EPAR - Public assessment report
 
@@ -718,170 +763,8 @@ English (EN) (191.23 KB - PDF)
 
 17/09/2021
 
-## Product information - with tracked changes
-
-The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
-
-Libmyris : EPAR - Product information - tracked changes
-
-English (EN) (3.53 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/en/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_en.docx)
-
-[Other languages (24)](#file-language-dropdown-216)
-
-български (BG) (4.25 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/bg/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_bg.docx)
-
-español (ES) (1.54 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/es/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_es.docx)
-
-čeština (CS) (4.16 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/cs/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_cs.docx)
-
-dansk (DA) (3.52 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/da/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_da.docx)
-
-Deutsch (DE) (1.67 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/de/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_de.docx)
-
-eesti keel (ET) (4.23 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/et/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_et.docx)
-
-ελληνικά (EL) (3.6 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/el/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_el.docx)
-
-français (FR) (1.69 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/fr/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_fr.docx)
-
-hrvatski (HR) (3.54 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/hr/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_hr.docx)
-
-íslenska (IS) (1.63 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/is/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_is.docx)
-
-italiano (IT) (2.11 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/it/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_it.docx)
-
-latviešu valoda (LV) (1.5 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/lv/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_lv.docx)
-
-lietuvių kalba (LT) (2.19 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/lt/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_lt.docx)
-
-magyar (HU) (2.16 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/hu/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_hu.docx)
-
-Malti (MT) (3.55 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/mt/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_mt.docx)
-
-Nederlands (NL) (1.42 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/nl/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (2.17 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/no/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_no.docx)
-
-polski (PL) (3.55 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/pl/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_pl.docx)
-
-português (PT) (2.29 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/pt/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_pt.docx)
-
-română (RO) (3.57 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/ro/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_ro.docx)
-
-slovenčina (SK) (3.45 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/sk/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_sk.docx)
-
-slovenščina (SL) (2.2 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/sl/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_sl.docx)
-
-Suomi (FI) (2.37 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/fi/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_fi.docx)
-
-svenska (SV) (2.21 MB - DOCX)
-
-**First published:** 19/03/2026
-
-[View](/sv/documents/product-information-tracked-changes/libmyris-epar-product-information-tracked-changes_sv.docx)
-
-## Related content
-
-- [Biosimilar medicines: Overview](/en/human-regulatory-overview/biosimilar-medicines-overview)
-
 **This page was last updated on**
 
-19/03/2026
+13/07/2026
 
 ## Share this page

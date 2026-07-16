@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-08 08:50:42
+document_datetime: 2026-07-14 15:21:32
 document_pages: 27
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ekterly-epar-product-information_en.pdf
 document_name: ekterly-epar-product-information_en.pdf
 version: success
-processing_time: 5.8282011
-conversion_datetime: 2025-12-30 01:30:29.835137
+processing_time: 5.6164319
+conversion_datetime: 2026-07-16 13:37:08.795591
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -66,11 +66,11 @@ Consideration should be given to discontinuing treatment in patients with normal
 
 No dose adjustment is required for patients above 65 years of age (see section 5.2).
 
-## Renal impairment
+Renal impairment
 
 No dose adjustment is required for patients with renal impairment (see section 5.2).
 
-## Hepatic impairment
+Hepatic impairment
 
 No dose adjustment is required for patients with mild or moderate hepatic impairment (Child-Pugh A or B).
 
@@ -295,11 +295,9 @@ There are no data available on the use of Ekterly in HAE patients with nC1-INH (
 
 ## Cardiac Electrophysiology
 
-In the clinical trial dedicated to the assessment of cardiac electrophysiology, a potential of sebetralstat to extend the QT interval was detected but only at high concentrations that are not expected to be reached with the recommended dose. The largest mean increase in QTc interval was 10.4 ms (upper confidence interval = 15.3 ms) after administration of Ekterly (5 times the maximum recommended
+In the clinical trial dedicated to the assessment of cardiac electrophysiology, a potential of sebetralstat to extend the QT interval was detected but only at high concentrations that are not expected to be reached with the recommended dose. The largest mean increase in QTc interval was 10.4 ms (upper confidence interval = 15.3 ms) after administration of Ekterly (5 times the maximum recommended dose) in healthy subjects. The increase in the QTc interval was concentration dependent (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-dose) in healthy subjects. The increase in the QTc interval was concentration dependent (see section 4.4).
 
 ## Paediatric population
 
@@ -383,7 +381,9 @@ Microcrystalline cellulose (E460) Croscarmellose sodium (E468) Povidone K30 (E12
 
 ## Film-coatings
 
-Macrogol poly(vinyl alcohol) grafted copolymer (E1209) Talc (E553b) Titanium dioxide (E171) Glycerol monocaprylocaprate (Type 1) (E471) Poly(vinyl alcohol) (E1203) Iron oxide yellow (E172) Iron oxide black (E172) Maltodextrin (E1400) Guar galactomannan (E412) Hypromellose (E464) Triglycerides, medium-chain
+Macrogol poly(vinyl alcohol) grafted copolymer (E1209)
+
+Talc (E553b) Titanium dioxide (E171) Glycerol monocaprylocaprate (Type 1) (E471) Poly(vinyl alcohol) (E1203) Iron oxide yellow (E172) Iron oxide black (E172) Maltodextrin (E1400) Guar galactomannan (E412) Hypromellose (E464) Triglycerides, medium-chain
 
 ## 6.2 Incompatibilities
 
@@ -391,7 +391,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-3 years.
+4 years.
 
 ## 6.4 Special precautions for storage
 
@@ -415,7 +415,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-KalVista Pharmaceuticals (Ireland) Ltd. Magennis Place, Block C, Dublin 2, D02 FK76, Ireland
+KalVista Pharmaceuticals (Ireland) Ltd. Magennis Place, Block C, Dublin 2, D02 FK76,
+
+Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -425,7 +427,7 @@ EU/1/25/1975/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 17 September 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -437,9 +439,7 @@ Detailed information on this medicinal product is available on the website of th
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -483,15 +483,15 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ekterly 300 mg film-coated tablets
-
-sebetralstat
+Ekterly 300 mg film-coated tablets sebetralstat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -504,8 +504,7 @@ Each film-coated tablet contains 300 mg sebetralstat.
 ## Film-coated tablet
 
 - 4 film-coated tablets
-
-6 film-coated tablets
+- 6 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -513,7 +512,7 @@ Read the package leaflet before use.
 
 Oral use.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -526,8 +525,6 @@ EXP
 ## 9. SPECIAL STORAGE CONDITIONS
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -587,13 +584,11 @@ NN
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
-## CHILD RESISTANT WALLET
+CHILD RESISTANT WALLET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ekterly 300 mg film-coated tablets
-
-sebetralstat
+Ekterly 300 mg film-coated tablets sebetralstat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -641,7 +636,9 @@ KalVista Pharmaceuticals [Logo]
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1975/001 4 film-coated tablets EU/1/25/1975/002 6 film-coated tablets
+EU/1/25/1975/001 4 film-coated tablets
+
+EU/1/25/1975/002 6 film-coated tablets
 
 ## 13. BATCH NUMBER
 
@@ -669,37 +666,40 @@ Not applicable.
 
 2
 
-3
-
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Ekterly 300 mg film-coated tablets sebetralstat
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 KalVista Pharmaceuticals [Logo]
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
 
 ## Package leaflet: Information for the patient
 
@@ -870,7 +870,7 @@ KalVista Pharmaceuticals (Ireland) Ltd., Magennis Place, Block C, Dublin 2, D02 
 
 Almac Pharma Services Limited Seagoe Industrial Estate Portadown Craigavon Northern Ireland BT63 5UA United Kingdom
 
-## This leaflet was last revised in
+## This leaflet was last revised in 09/2025
 
 ## Other sources of information
 

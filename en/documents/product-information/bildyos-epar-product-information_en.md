@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-06 15:53:20
-document_pages: 52
+document_datetime: 2026-07-14 09:35:28
+document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/bildyos-epar-product-information_en.pdf
 document_name: bildyos-epar-product-information_en.pdf
 version: success
-processing_time: 10.2641429
-conversion_datetime: 2026-02-09 22:13:53.259305
+processing_time: 9.9802536
+conversion_datetime: 2026-07-16 13:38:16.814405
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.1
-  docling: 2.72.0
-  docling-core: 2.63.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -60,11 +60,9 @@ Treatment of bone loss associated with long-term systemic glucocorticoid therapy
 
 ## 4.2 Posology and method of administration
 
-Posology
+Posology The recommended dose is 60 mg denosumab administered as a single subcutaneous injection once every 6 months into the thigh, abdomen or upper arm.
 
 <div style=\"page-break-after: always\"></div>
-
-The recommended dose is 60 mg denosumab administered as a single subcutaneous injection once every 6 months into the thigh, abdomen or upper arm.
 
 Patients must be adequately supplemented with calcium and vitamin D (see section 4.4).
 
@@ -339,12 +337,12 @@ Denosumab significantly reduced the risk of new vertebral fractures at 1, 2 and 
 
 Table 2 The effect of denosumab on the risk of new vertebral fractures
 
-|           | Proportion of women with fracture (%)   | Proportion of women with fracture (%)   | Absolute risk reduction (%)   | Relative risk reduction   |
-|-----------|-----------------------------------------|-----------------------------------------|-------------------------------|---------------------------|
-|           | Placebo n = 3 906                       | Denosumab n = 3 902                     | (95% CI)                      | (%) (95% CI)              |
-| 0-1 year  | 2.2                                     | 0.9                                     | 1.4 (0.8, 1.9)                | 61 (42, 74)**             |
-| 0-2 years | 5.0                                     | 1.4                                     | 3.5 (2.7, 4.3)                | 71 (61, 79)**             |
-| 0-3 years | 7.2                                     | 2.3                                     | 4.8 (3.9, 5.8)                | 68 (59, 74)*              |
+|           | Proportion of women with fracture (%)   | Proportion of women with fracture (%)   | Absolute risk reduction (%)   | Relative risk reduction (%)   |
+|-----------|-----------------------------------------|-----------------------------------------|-------------------------------|-------------------------------|
+|           | Placebo n = 3 906                       | Denosumab n = 3 902                     | (95% CI)                      | (95% CI)                      |
+| 0-1 year  | 2.2                                     | 0.9                                     | 1.4 (0.8, 1.9)                | 61 (42, 74)**                 |
+| 0-2 years | 5.0                                     | 1.4                                     | 3.5 (2.7, 4.3)                | 71 (61, 79)**                 |
+| 0-3 years | 7.2                                     | 2.3                                     | 4.8 (3.9, 5.8)                | 68 (59, 74)*                  |
 
 ## Effect on hip fractures
 
@@ -358,14 +356,14 @@ Denosumab significantly reduced fractures across all fracture types/groups (see 
 
 Table 3 The effect of denosumab on the risk of clinical fractures over 3 years
 
-|                                | Proportion of women with fracture (%) +   | Proportion of women with fracture (%) +   | Absolute risk reduction (%) (95% CI)   | Relative risk reduction (%)   |
-|--------------------------------|-------------------------------------------|-------------------------------------------|----------------------------------------|-------------------------------|
-|                                | Placebo n = 3 906                         | Denosumab n = 3 902                       |                                        | (95% CI)                      |
-| Any clinical fracture 1        | 10.2                                      | 7.2                                       | 2.9 (1.6, 4.2)                         | 30 (19, 41)***                |
-| Clinical vertebral fracture    | 2.6                                       | 0.8                                       | 1.8 (1.2, 2.4)                         | 69 (53, 80)***                |
-| Non-vertebral fracture 2       | 8.0                                       | 6.5                                       | 1.5 (0.3, 2.7)                         | 20 (5, 33)**                  |
-| Major non-vertebral fracture 3 | 6.4                                       | 5.2                                       | 1.2 (0.1, 2.2)                         | 20 (3, 34)*                   |
-| Major osteoporotic fracture 4  | 8.0                                       | 5.3                                       | 2.7 (1.6, 3.9)                         | 35 (22, 45)***                |
+|                                | Proportion of women with fracture (%) +   | Proportion of women with fracture (%) +   | Absolute risk reduction (%)   | Relative risk reduction (%)   |
+|--------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------|-------------------------------|
+|                                | Placebo n = 3 906                         | Denosumab n = 3 902                       | (95% CI)                      | (95% CI)                      |
+| Any clinical fracture 1        | 10.2                                      | 7.2                                       | 2.9 (1.6, 4.2)                | 30 (19, 41)***                |
+| Clinical vertebral fracture    | 2.6                                       | 0.8                                       | 1.8 (1.2, 2.4)                | 69 (53, 80)***                |
+| Non-vertebral fracture 2       | 8.0                                       | 6.5                                       | 1.5 (0.3, 2.7)                | 20 (5, 33)**                  |
+| Major non-vertebral fracture 3 | 6.4                                       | 5.2                                       | 1.2 (0.1, 2.2)                | 20 (3, 34)*                   |
+| Major osteoporotic fracture 4  | 8.0                                       | 5.3                                       | 2.7 (1.6, 3.9)                | 35 (22, 45)***                |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -399,7 +397,7 @@ The primary efficacy variable was percent change in lumbar spine BMD, fracture e
 
 ## Bone histology in postmenopausal women and men with osteoporosis
 
-Bone histology was evaluated in 62 postmenopausal women with osteoporosis or with low bone mass who were either naï ve to osteoporosis therapies or had transitioned from previous alendronate therapy following 1-3 years treatment with denosumab. Fifty-nine women participated in the bone biopsy substudy at month 24 (n = 41) and/or month 84 (n = 22) of the extension study in postmenopausal women with osteoporosis. Bone histology was also evaluated in 17 men with osteoporosis following 1 year treatment with denosumab. Bone biopsy results showed bone of normal architecture and quality with no evidence of mineralisation defects, woven bone or marrow fibrosis. Histomorphometry findings in the extension study in postmenopausal women with osteoporosis showed that the antiresorptive effects of denosumab, as measured by activation frequency and bone formation rates, were maintained over time.
+Bone histology was evaluated in 62 postmenopausal women with osteoporosis or with low bone mass who were either naïve to osteoporosis therapies or had transitioned from previous alendronate therapy following 1-3 years treatment with denosumab. Fifty-nine women participated in the bone biopsy substudy at month 24 (n = 41) and/or month 84 (n = 22) of the extension study in postmenopausal women with osteoporosis. Bone histology was also evaluated in 17 men with osteoporosis following 1 year treatment with denosumab. Bone biopsy results showed bone of normal architecture and quality with no evidence of mineralisation defects, woven bone or marrow fibrosis. Histomorphometry findings in the extension study in postmenopausal women with osteoporosis showed that the antiresorptive effects of denosumab, as measured by activation frequency and bone formation rates, were maintained over time.
 
 ## Clinical efficacy and safety in patients with bone loss associated with androgen deprivation
 
@@ -525,11 +523,11 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 24 months
 
-Once removed from the refrigerator, Bildyos may be stored at room temperature (up to 25° C) for up to 30 days in the original carton. It must be used within this 30-day period.
+Once removed from the refrigerator, Bildyos may be stored at room temperature (up to 25°C) for up to 30 days in the original carton. It must be used within this 30-day period.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2° C - 8° C).
+Store in a refrigerator (2°C - 8°C).
 
 Do not freeze.
 
@@ -555,14 +553,14 @@ Pack sizes of one vial.
 
 - Before administration, the Bildyos solution should be inspected visually. The solution may contain trace amounts of translucent to white proteinaceous particles. Do not inject the solution if it is cloudy or discoloured.
 - Do not shake.
-- To avoid discomfort at the site of injection, allow the pre-filled syringe to reach room temperature (up to 25° C) before injecting and inject slowly.
+- To avoid discomfort at the site of injection, allow the pre-filled syringe to reach room temperature (up to 25°C) before injecting and inject slowly.
 - Inject the entire contents of the pre-filled syringe.
 
 ## Bildyos 60 mg solution for injection
 
 - Before  administration,  the  Bildyos  solution  should  be  inspected  visually.  The  solution  may contain trace amounts of translucent to white proteinaceous particles. Do not inject the solution if it is cloudy or discoloured.
 - Do not shake.
-- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25° C) before injecting and inject slowly.
+- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25°C) before injecting and inject slowly.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -609,6 +607,8 @@ Shanghai Henlius Biologics Co., Ltd. Building 1, No. 182 Wenjun Road, Songjiang 
 
 Name and address of the manufacturer responsible for batch release
 
+SciencePharma Sp. z o.o. Chełmska 30/34 00-725 Warsaw Poland
+
 Cilatus Manufacturing Services Limited Pembroke House, 28-32 Pembroke Street Upper, Dublin 2, D02 EK84, Ireland
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
@@ -633,6 +633,8 @@ An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit-risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+
+<div style=\"page-break-after: always\"></div>
 
 ## · Additional risk minimisation measures
 
@@ -702,9 +704,7 @@ Keep the container in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-SciencePharma Sp. z o.o.
-
-Chełmska 30/34 00-725 Warsaw Poland
+SciencePharma Sp. z o.o. Chełmska 30/34 00-725 Warsaw Poland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -742,7 +742,9 @@ VIAL CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Bildyos 60 mg solution for injection denosumab
+Bildyos 60 mg solution for injection
+
+denosumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -788,9 +790,7 @@ Keep the vial in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-SciencePharma Sp. z o.o.
-
-Chełmska 30/34 00-725 Warsaw Poland
+SciencePharma Sp. z o.o. Chełmska 30/34 00-725 Warsaw Poland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -822,9 +822,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON BLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERED PRE-FILLED SYRINGE                        |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERED PRE-FILLED SYRINGE                          |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -841,8 +841,8 @@ SciencePharma Sp. z o.o.
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 LOT
 
@@ -855,7 +855,9 @@ SC
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL WITH NEEDLE GUARD (BLISTERED)
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL WITH NEEDLE GUARD (BLISTERED)             |
 
 1.
 
@@ -883,34 +885,36 @@ LOT
 
 ## REMINDER CARD TEXT (included in pack)
 
-Bildyos 60 mg denosumab For Subcutaneous Use Only. Once every 6 months Use Bildyos for as long as your doctor prescribes it for you. Next injection date:
+Use Bildyos for as long as your doctor prescribes it for you.
+
+Bildyos 60 mg denosumab For Subcutaneous Use Only. Once every 6 months Next injection date:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL                                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT ANDROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Bildyos 60 mg injection denosumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 LOT
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mL
 
@@ -921,9 +925,9 @@ LOT
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Bildyos 60
 
@@ -960,7 +964,7 @@ Surgery or medicines that stop the production of oestrogen or testosterone used 
 
 ## What Bildyos is used for
 
-## Bildyos is used to treat:
+Bildyos is used to treat:
 
 - osteoporosis in women after the menopause (postmenopausal) and men who have an increased risk of fracture (broken bones), reducing the risk of spinal, non-spinal, and hip fractures.
 - bone loss that results from a reduction in hormone (testosterone) level caused by surgery or treatment with medicines in patients with prostate cancer.
@@ -1126,9 +1130,13 @@ Do not use this medicine after the expiry date which is stated on the label and 
 
 <div style=\"page-break-after: always\"></div>
 
-Store in a refrigerator (2° C - 8° C). Do not freeze. Keep the container in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C).
 
-Your pre-filled syringe may be left outside the refrigerator to reach room temperature (up to 25° C) before injection. This will make the injection more comfortable. Once your syringe has been left to reach room temperature (up to 25° C), it must be used within 30 days.
+Do not freeze.
+
+Keep the container in the outer carton in order to protect from light.
+
+Your pre-filled syringe may be left outside the refrigerator to reach room temperature (up to 25°C) before injection. This will make the injection more comfortable. Once your syringe has been left to reach room temperature (up to 25°C), it must be used within 30 days.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
 
@@ -1145,7 +1153,7 @@ Bildyos is a clear to slightly opalescent, colourless to slightly yellow solutio
 
 Each pack contains one pre-filled syringe with a needle safety guard.
 
-## Marketing Authorisation Holder
+## Marketing Authorisation Holder and Manufacturer
 
 SciencePharma Sp. z o.o. Chełmska 30/34 00-725 Warsaw Poland
 
@@ -1155,81 +1163,73 @@ Cilatus Manufacturing Services Limited Pembroke House, 28-32 Pembroke Street Upp
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België /Belgique/Belgien
+## België/Belgique/Belgien
 
 SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-България SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+## България
+
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
 ## Lietuva
 
 SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Luxembourg/Luxemburg SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+## Luxembourg/Luxemburg
+
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Česká republika SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Danmark SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Deutschland Organon Healthcare GmbH Tel: 0800 3384 726 (+49 (0) 89 2040022 10)
 
 <div style=\"page-break-after: always\"></div>
 
-Česká republika SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+[dpoc.germany@organon.com](mailto:dpoc.germany@organon.com)
 
-Danmark SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+Eesti SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
 
-Deutschland Organon Healthcare GmbH Tel: 0800 3384 726 (+49 (0) 89 2040022 10)
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
-dpoc.germany@organon.com
+Ελλάδα SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
 
-Eesti SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
-Ελλάδα SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+España Organon Salud, S.L. Tel: +34 91 591 12 79
 
-Españ a Organon Salud, S.L. Tel: +34 91 591 12 79
+organon\\_info@organon.com
 
-dpoc.spain@organon.com
+France Organon France Tél: +33 (0) 1 57 77 32 00
 
-France Organon France Té l: +33 (0) 1 57 77 32 00
+Hrvatska SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
 
-Hrvatska SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
-Ireland SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+Ireland SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
 
-Magyarorszá g SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
-
-Malta SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
-
-Nederland SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
-
-Norge SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
-
-Österreich SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
-
-Polska SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
-
-Portugal SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
-
-Româ nia SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
-
-Slovenija SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+denosumabh@qbdgroup.com Magyarország SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Malta SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Nederland SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Norge SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Österreich SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Polska SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Portugal SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com România SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Slovenija SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
 <div style=\"page-break-after: always\"></div>
 
-## Í sland
+## Ísland
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Italia
 
 Organon Italia S.r.l. Tel: +39 06 90259059
 
-dpoc.italy@organon.com
+[dpoc.italy@organon.com](mailto:dpoc.italy@organon.com)
 
 ## Κύπρος
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
+
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## Latvija
 
-SciencePharma Sp. z o.o.
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw
 
-Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+[Poland denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
 ## This leaflet was last revised in
 
@@ -1237,7 +1237,7 @@ Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
 
-## Slovenská  republika
+## Slovenská republika
 
 SciencePharma Sp. z o.o.
 
@@ -1247,11 +1247,13 @@ Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
 SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Sverige SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+## Sverige
+
+SciencePharma Sp. z o.o.
+
+Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Instructions for use:
 
 <div style=\"page-break-after: always\"></div>
-
-Instructions for use:
 
 <!-- image -->
 
@@ -1263,8 +1265,8 @@ A
 
 ## Before you use a Bildyos pre-filled syringe with automatic needle guard, read this important information:
 
-- ⚫ It is important that you do not try to give yourself the injection unless you have received training from your doctor or healthcare provider.
-- ⚫ Bildyos is given as an injection into the tissue just under the skin (subcutaneous injection).
+-  It is important that you do not try to give yourself the injection unless you have received training from your doctor or healthcare provider.
+-  Bildyos is given as an injection into the tissue just under the skin (subcutaneous injection).
 -  Do not remove the black needle cap from the pre-filled syringe until you are ready to inject.
 -  Do not use the pre-filled syringe if it has been dropped on a hard surface. Use a new prefilled syringe and call your doctor or healthcare provider.
 -  Do not attempt to activate the pre-filled syringe prior to injection.
@@ -1283,7 +1285,7 @@ On a clean, well-lit work surface, place the new pre-filled syringe and the othe
 -  Do not try to warm the syringe by using a heat source such as hot water or microwave.
 -  Do not leave the pre-filled syringe exposed to direct sunlight.
 -  Do not shake the pre-filled syringe.
-- ⚫ Keep the pre-filled syringe out of the sight and reach of children.
+-  Keep the pre-filled syringe out of the sight and reach of children.
 - B Open the tray, peeling away the cover. Grab the pre-filled syringe safety guard to remove the pre-filled syringe from the tray.
 
 <!-- image -->
@@ -1302,12 +1304,12 @@ For safety reasons:
 <!-- image -->
 
 -  Do not use the pre-filled syringe if:
-- ⚫ The medicine is cloudy or discoloured. It must be a clear to slightly opalescent, colourless to slightly yellow solution.
-- ⚫ Any part appears cracked or broken.
-- ⚫ The black needle cap is missing or not securely attached.
-- ⚫ The expiry date printed on the label has passed the last day of the month shown. In all cases, call your doctor or healthcare provider.
+-  The medicine is cloudy or discoloured. It must be a clear to slightly opalescent, colourless to slightly yellow solution.
+-  Any part appears cracked or broken.
+-  The black needle cap is missing or not securely attached.
+-  The expiry date printed on the label has passed the last day of the month shown. In all cases, call your doctor or healthcare provider.
 
-## Step 2: Get ready
+Step 2: Get ready
 
 ## A Wash your hands thoroughly. Prepare and clean your injection site.
 
@@ -1315,15 +1317,13 @@ For safety reasons:
 
 ## You can use:
 
-- ⚫ Upper part of your thigh.
-- ⚫ Belly, except for a 5 cm (2-inch) area right around your belly button.
-- ⚫ Outer area of upper arm (only if someone else is giving you the injection).
+-  Upper part of your thigh.
+-  Belly, except for a 5 cm (2-inch) area right around your belly button.
+-  Outer area of upper arm (only if someone else is giving you the injection).
 
 Clean the injection site with an alcohol wipe. Let your skin dry.
 
 -  Do not touch the injection site before injecting.
-
-一
 
 Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid injecting into areas with scars or stretch marks.
 
@@ -1343,11 +1343,9 @@ Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid 
 
 <div style=\"page-break-after: always\"></div>
 
-A
-
 Step 4: Finish
 
-Discard the used pre-filled syringe and other supplies in a sharps disposal container.
+- A Discard the used pre-filled syringe and other supplies in a sharps disposal container.
 
 <!-- image -->
 
@@ -1403,7 +1401,7 @@ Surgery or medicines that stop the production of oestrogen or testosterone used 
 
 ## What Bildyos is used for
 
-## Bildyos is used to treat:
+Bildyos is used to treat:
 
 - osteoporosis in women after the menopause (postmenopausal) and men who have an increased risk of fracture (broken bones), reducing the risk of spinal, non-spinal, and hip fractures.
 - bone loss that results from a reduction in hormone (testosterone) level caused by surgery or treatment with medicines in patients with prostate cancer.
@@ -1445,11 +1443,9 @@ Before receiving treatment, tell your doctor or nurse (health care professional)
 - are taking medicines called corticosteroids (such as prednisolone or dexamethasone).
 - have cancer.
 
-Your doctor may ask you to undergo a dental examination before you start treatment with Bildyos. While being treated, you should maintain good oral hygiene and receive routine dental check-ups. If you wear dentures you should make sure these fit properly. If you are under dental treatment or will
+Your doctor may ask you to undergo a dental examination before you start treatment with Bildyos. While being treated, you should maintain good oral hygiene and receive routine dental check-ups. If you wear dentures you should make sure these fit properly. If you are under dental treatment or will undergo dental surgery (e.g. tooth extractions), inform your doctor about your dental treatment and tell your dentist that you are being treated with Bildyos.
 
 <div style=\"page-break-after: always\"></div>
-
-undergo dental surgery (e.g. tooth extractions), inform your doctor about your dental treatment and tell your dentist that you are being treated with Bildyos.
 
 Contact your doctor and dentist immediately if you experience any problems with your mouth or teeth such as loose teeth, pain or swelling, or non-healing of sores or discharge, as these could be signs of osteonecrosis of the jaw.
 
@@ -1567,13 +1563,13 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-## Store in a refrigerator (2° C-8° C).
+## Store in a refrigerator (2°C-8°C).
 
 ## Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-The vial may be left outside the refrigerator to reach room temperature (up to 25° C) before injection. This will make the injection more comfortable. Once the vial has been left to reach room temperature (up to 25° C), it must be used within 30 days.
+The vial may be left outside the refrigerator to reach room temperature (up to 25°C) before injection. This will make the injection more comfortable. Once the vial has been left to reach room temperature (up to 25°C), it must be used within 30 days.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1594,7 +1590,7 @@ Bildyos is a clear to slightly opalescent, colourless to slightly yellow solutio
 
 Each pack contains one single use vial.
 
-## Marketing Authorisation Holder
+## Marketing Authorisation Holder and Manufacturer
 
 SciencePharma Sp. z o.o. Chełmska 30/34 00-725 Warsaw Poland
 
@@ -1604,13 +1600,17 @@ Cilatus Manufacturing Services Limited Pembroke House, 28-32 Pembroke Street Upp
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België /Belgique/Belgien
+## België/Belgique/Belgien
 
 SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-България SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+## България
 
-Česká republika SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+
+Česká republika Chełmska 30/34, 00-725 Warsaw
+
+SciencePharma Sp. z o.o. Poland denosumabh@qbdgroup.com
 
 ## Lietuva
 
@@ -1620,59 +1620,41 @@ SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgro
 
 SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-Magyarorszá g SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+Magyarország SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Danmark SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Deutschland Organon Healthcare GmbH Tel: 0800 3384 726 (+49 (0) 89 2040022 10)
 
 <div style=\"page-break-after: always\"></div>
 
-Danmark SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+[dpoc.germany@organon.com](mailto:dpoc.germany@organon.com)
 
-Deutschland Organon Healthcare GmbH Tel: 0800 3384 726 (+49 (0) 89 2040022 10)
+Eesti SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
 
-dpoc.germany@organon.com
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
-Eesti SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+Ελλάδα SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
 
-Ελλάδα SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
-Españ a Organon Salud, S.L. Tel: +34 91 591 12 79
+España Organon Salud, S.L. Tel: +34 91 591 12 79
 
-dpoc.spain@organon.com
+organon\\_info@organon.com
 
-France Organon France Té l: +33 (0) 1 57 77 32 00
+France Organon France Tél: +33 (0) 1 57 77 32 00
 
-Hrvatska SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+Hrvatska SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
 
-Ireland SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
-Í sland SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+Ireland SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
 
-Malta SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+[denosumabh@qbdgroup.com](mailto:denosumabh@qbdgroup.com)
 
-Nederland SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+Ísland SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland
 
-Norge SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
-
-Österreich SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
-
-Polska SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
-
-Portugal SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
-
-Româ nia SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
-
-Slovenija SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
-
-Slovenská  republika SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
-
-51
-
-<div style=\"page-break-after: always\"></div>
-
-Italia
-
-Organon Italia S.r.l. Tel: +39 06 90259059
+denosumabh@qbdgroup.com Malta SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Nederland SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Norge SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Österreich SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Polska SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Portugal SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com România SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Slovenija SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Slovenská republika SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com Italia Organon Italia S.r.l. Tel: +39 06 90259059
 
 dpoc.italy@organon.com
+
+<div style=\"page-break-after: always\"></div>
 
 Κύπρος SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
@@ -1688,17 +1670,13 @@ Detailed information on this medicine is available on the European Medicines Age
 
 - Before administration, the Bildyos solution should be inspected visually. The solution may contain trace amounts of translucent to white proteinaceous particles. Do not inject the solution if it is cloudy or discolored.
 - Do not shake.
-- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25º C) before injecting and inject slowly.
+- To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25ºC) before injecting and inject slowly.
 - The entire contents of the vial should be injected.
 - A 27 gauge needle is recommended for the administration of denosumab.
 - The vial should not be re-entered.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## Suomi/Finland
+Suomi/Finland SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
-
-## Sverige
-
-SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+Sverige SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com

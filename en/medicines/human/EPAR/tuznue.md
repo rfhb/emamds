@@ -1,106 +1,32 @@
 ---
-document_datetime: 2026-02-06 15:52:00
+document_datetime: 2026-07-14 15:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tuznue.html
 document_name: tuznue.html
 version: success
-processing_time: 0.1141724
-conversion_datetime: 2026-02-09 22:16:44.575898
+processing_time: 0.158878
+conversion_datetime: 2026-07-16 13:14:49.990053
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.1
-  docling: 2.72.0
-  docling-core: 2.63.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [Glossaries](/en/about-us/glossaries)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Tuznue
-
 # Tuznue
 
 [RSS](/en/individual-human-medicine.xml/246316)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-trastuzumab Medicine Human Authorised
+trastuzumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -133,7 +59,7 @@ Expand section
 
 Collapse section
 
-## How is Tuznue used?
+### How is Tuznue used?
 
 Tuznue can only be obtained with a prescription and treatment should be started by a doctor who has experience in the use of cancer medicines.
 
@@ -143,11 +69,11 @@ The infusion may cause allergic reactions, so the patient should be monitored du
 
 For more information about using Tuznue, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Tuznue work?
+### How does Tuznue work?
 
 The active substance in Tuznue, trastuzumab, is a monoclonal antibody (a type of protein) designed to recognise and attach to the HER2 protein. By attaching to HER2, trastuzumab activates cells of the immune system, which then kill the tumour cells. Trastuzumab also stops HER2 from producing signals that cause the tumour cells to grow.
 
-## What benefits of Tuznue have been shown in studies?
+### What benefits of Tuznue have been shown in studies?
 
 Laboratory studies comparing Tuznue with Herceptin have shown that the active substance in Tuznue is highly similar to that in Herceptin in terms of structure, purity and biological activity. Studies have also shown that giving Tuznue produces similar levels of the active substance in the body to those seen with Herceptin.
 
@@ -155,7 +81,7 @@ In addition, a study involving 502 women with newly diagnosed early breast cance
 
 Because Tuznue is a biosimilar medicine, the studies on effectiveness of trastuzumab carried out with Herceptin do not all need to be repeated for Tuznue.
 
-## What are the risks associated with Tuznue?
+### What are the risks associated with Tuznue?
 
 The safety of Tuznue has been evaluated and, based on all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine, Herceptin.
 
@@ -167,19 +93,19 @@ Tuznue can cause cardiotoxicity (damage to the heart), including heart failure (
 
 Tuznue must not be used in people who are hypersensitive (allergic) to trastuzumab, mouse proteins or any of the other ingredients. It must not be used in people who have serious breathing problems when they are at rest because of advanced cancer, or who need oxygen therapy.
 
-## Why is Tuznue authorised in the EU?
+### Why is Tuznue authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Tuznue has a highly similar structure, purity and biological activity to Herceptin and is distributed in the body in the same way. In addition, studies in early breast cancer have shown that Tuznue and Herceptin are equivalent in terms of safety and effectiveness in treating this condition.
 
 All these data were considered sufficient to conclude that Tuznue will have the same effects as Herceptin in its authorised uses. Therefore, the Agency's view was that, as for Herceptin, the benefits of Tuznue outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Tuznue?
+### What measures are being taken to ensure the safe and effective use of Tuznue?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Tuznue have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Tuznue are continuously monitored. Suspected side effects reported with Tuznue are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Tuznue
+### Other information about Tuznue
 
 Tuznue received a marketing authorisation valid throughout the EU on 19 September 2024.
 
@@ -193,181 +119,137 @@ English (EN) (145.34 KB - PDF)
 
 [View](/en/documents/overview/tuznue-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-145)
+[Other languages (22)](#file-language-dropdown-116)
 
 български (BG) (170.82 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/bg/documents/overview/tuznue-epar-medicine-overview_bg.pdf)
 
 español (ES) (145.96 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/es/documents/overview/tuznue-epar-medicine-overview_es.pdf)
 
 čeština (CS) (169.3 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/cs/documents/overview/tuznue-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (145.25 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/da/documents/overview/tuznue-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (149.52 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/de/documents/overview/tuznue-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (143.82 KB - PDF)
+eesti (ET) (143.82 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/et/documents/overview/tuznue-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (168.55 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/el/documents/overview/tuznue-epar-medicine-overview_el.pdf)
 
 français (FR) (147.89 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/fr/documents/overview/tuznue-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (168.02 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/hr/documents/overview/tuznue-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (145.42 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/it/documents/overview/tuznue-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (175.67 KB - PDF)
+latviešu (LV) (175.67 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/lv/documents/overview/tuznue-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (167.01 KB - PDF)
+lietuvių (LT) (167.01 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/lt/documents/overview/tuznue-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (169.18 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/hu/documents/overview/tuznue-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (171.09 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/mt/documents/overview/tuznue-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (146.44 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/nl/documents/overview/tuznue-epar-medicine-overview_nl.pdf)
 
 polski (PL) (168.95 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/pl/documents/overview/tuznue-epar-medicine-overview_pl.pdf)
 
 português (PT) (147.07 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/pt/documents/overview/tuznue-epar-medicine-overview_pt.pdf)
 
 română (RO) (167.56 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/ro/documents/overview/tuznue-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (168.48 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/sk/documents/overview/tuznue-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (166.05 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/sl/documents/overview/tuznue-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (143.96 KB - PDF)
+suomi (FI) (143.96 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/fi/documents/overview/tuznue-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (144.81 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/sv/documents/overview/tuznue-epar-medicine-overview_sv.pdf)
 
@@ -383,311 +265,168 @@ English (EN) (26.78 MB - PDF)
 
 Tuznue : EPAR - Product information
 
-English (EN) (652.86 KB - PDF)
+English (EN) (630.83 KB - PDF)
 
-**First published:** 25/09/2024
-
-**Last updated:** 27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/en/documents/product-information/tuznue-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-579)
+[Other languages (24)](#file-language-dropdown-102)
 
-български (BG) (837.95 KB - PDF)
+български (BG) (819.46 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/bg/documents/product-information/tuznue-epar-product-information_bg.pdf)
 
-español (ES) (764.51 KB - PDF)
+español (ES) (750.8 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/es/documents/product-information/tuznue-epar-product-information_es.pdf)
 
-čeština (CS) (833.51 KB - PDF)
+čeština (CS) (813.72 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/cs/documents/product-information/tuznue-epar-product-information_cs.pdf)
 
-dansk (DA) (775.24 KB - PDF)
+dansk (DA) (758.83 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/da/documents/product-information/tuznue-epar-product-information_da.pdf)
 
-Deutsch (DE) (799.28 KB - PDF)
+Deutsch (DE) (780.74 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/de/documents/product-information/tuznue-epar-product-information_de.pdf)
 
-eesti keel (ET) (770.23 KB - PDF)
+eesti (ET) (752.7 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/et/documents/product-information/tuznue-epar-product-information_et.pdf)
 
-ελληνικά (EL) (830.71 KB - PDF)
+ελληνικά (EL) (821.71 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/el/documents/product-information/tuznue-epar-product-information_el.pdf)
 
-français (FR) (811.72 KB - PDF)
+français (FR) (798.96 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/fr/documents/product-information/tuznue-epar-product-information_fr.pdf)
 
-hrvatski (HR) (798.08 KB - PDF)
+hrvatski (HR) (782.27 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/hr/documents/product-information/tuznue-epar-product-information_hr.pdf)
 
-íslenska (IS) (768.59 KB - PDF)
+italiano (IT) (766.84 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
-
-[View](/is/documents/product-information/tuznue-epar-product-information_is.pdf)
-
-italiano (IT) (780.97 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/it/documents/product-information/tuznue-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (799.57 KB - PDF)
+latviešu (LV) (781.78 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/lv/documents/product-information/tuznue-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (849.38 KB - PDF)
+lietuvių (LT) (869.24 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/lt/documents/product-information/tuznue-epar-product-information_lt.pdf)
 
-magyar (HU) (832.18 KB - PDF)
+magyar (HU) (818.9 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/hu/documents/product-information/tuznue-epar-product-information_hu.pdf)
 
-Malti (MT) (865.69 KB - PDF)
+Malti (MT) (854.41 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/mt/documents/product-information/tuznue-epar-product-information_mt.pdf)
 
-Nederlands (NL) (783.09 KB - PDF)
+Nederlands (NL) (769.43 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/nl/documents/product-information/tuznue-epar-product-information_nl.pdf)
 
-norsk (NO) (766.89 KB - PDF)
+polski (PL) (801.43 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
-
-[View](/no/documents/product-information/tuznue-epar-product-information_no.pdf)
-
-polski (PL) (817.46 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/pl/documents/product-information/tuznue-epar-product-information_pl.pdf)
 
-português (PT) (784.86 KB - PDF)
+português (PT) (764.91 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/pt/documents/product-information/tuznue-epar-product-information_pt.pdf)
 
-română (RO) (823.6 KB - PDF)
+română (RO) (804.74 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/ro/documents/product-information/tuznue-epar-product-information_ro.pdf)
 
-slovenčina (SK) (808.09 KB - PDF)
+slovenčina (SK) (788.54 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/sk/documents/product-information/tuznue-epar-product-information_sk.pdf)
 
-slovenščina (SL) (810.66 KB - PDF)
+slovenščina (SL) (788.36 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/sl/documents/product-information/tuznue-epar-product-information_sl.pdf)
 
-Suomi (FI) (781.46 KB - PDF)
+suomi (FI) (761.6 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/fi/documents/product-information/tuznue-epar-product-information_fi.pdf)
 
-svenska (SV) (790.48 KB - PDF)
+svenska (SV) (770.69 KB - PDF)
 
-**First published:**
-
-25/09/2024
-
-**Last updated:**
-
-27/10/2025
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
 
 [View](/sv/documents/product-information/tuznue-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000301399 23/10/2025
+Íslenska (IS) (752.29 KB - PDF)
+
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
+
+[View](/is/documents/product-information/tuznue-epar-product-information_is.pdf)
+
+norsk (NO) (749.5 KB - PDF)
+
+**First published:** 25/09/2024 **Last updated:** 14/07/2026
+
+[View](/no/documents/product-information/tuznue-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000355520
+
+14/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -705,203 +444,164 @@ English (EN) (43.91 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-366)
+[Other languages (24)](#file-language-dropdown-6)
 
 български (BG) (64.91 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/bg/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (39.11 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/es/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (47.88 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/cs/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (41.12 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/da/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (41.2 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/de/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (39.02 KB - PDF)
+eesti (ET) (39.02 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/et/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (53.67 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/el/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (39.32 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/fr/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (76.56 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/hr/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (40.43 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/is/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (39.11 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/it/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (55.3 KB - PDF)
+latviešu (LV) (55.3 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/lv/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (55.35 KB - PDF)
+lietuvių (LT) (55.35 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/lt/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (47.78 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/hu/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (55.61 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/mt/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (39.31 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/nl/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (40.71 KB - PDF)
-
-**First published:**
-
-25/09/2024
-
-[View](/no/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (57.07 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/pl/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (40.26 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/pt/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (47.98 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/ro/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (56.15 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/sk/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (48.37 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/sl/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (39.19 KB - PDF)
+suomi (FI) (39.19 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/fi/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (39.08 KB - PDF)
 
-**First published:**
-
-25/09/2024
+**First published:** 25/09/2024
 
 [View](/sv/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (40.43 KB - PDF)
+
+**First published:** 25/09/2024
+
+[View](/is/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (40.71 KB - PDF)
+
+**First published:** 25/09/2024
+
+[View](/no/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Tuznue Active substance trastuzumab International non-proprietary name (INN) or common name trastuzumab Therapeutic area (MeSH) Breast Neoplasms Anatomical therapeutic chemical (ATC) code L01FD01
+- **Name of medicine**
+    - Tuznue
+- **Active substance**
+    - trastuzumab
+- **International non-proprietary name (INN) or common name**
+    - trastuzumab
+- **Therapeutic area (MeSH)**
+    - Breast Neoplasms
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01FD01
 
 ### Pharmacotherapeutic group
 
@@ -937,19 +637,18 @@ HD201 should only be used in patients with MGC whose tumours have HER2 overexpre
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006252
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Prestige Biopharma Belgium
-
-Terhulpensesteenweg 449
-
-Opinion adopted 25/07/2024 Marketing authorisation issued 19/09/2024 Revision 3
+- **EMA product number**
+    - EMEA/H/C/006252
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Prestige Biopharma Belgium Terhulpensesteenweg 449  3090 Overijse  Belgium
+- **Opinion adopted**
+    - 25/07/2024
+- **Marketing authorisation issued**
+    - 19/09/2024
+- **Revision**
+    - 4
 
 ## Assessment history
 
@@ -957,7 +656,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Tuznue : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
@@ -969,21 +668,17 @@ English (EN) (143.15 KB - PDF)
 
 Tuznue : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (155.14 KB - PDF)
+English (EN) (158.21 KB - PDF)
 
-**First published:** 20/02/2025
-
-**Last updated:** 23/10/2025
+**First published:** 20/02/2025 **Last updated:** 14/07/2026
 
 [View](/en/documents/procedural-steps-after/tuznue-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Tuznue : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/367870/2024
+Adopted Reference Number: EMA/CHMP/367870/2024
 
 English (EN) (10.67 MB - PDF)
 
@@ -993,9 +688,7 @@ English (EN) (10.67 MB - PDF)
 
 CHMP summary of positive opinion for Tuznue
 
-Adopted
-
-Reference Number: EMA/CHMP/340490/2024
+Adopted Reference Number: EMA/CHMP/340490/2024
 
 English (EN) (122.63 KB - PDF)
 
@@ -1003,7 +696,7 @@ English (EN) (122.63 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-tuznue_en.pdf)
 
-#### Product information - with tracked changes
+## Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
 
@@ -1015,202 +708,154 @@ English (EN) (163.96 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-820)
+[Other languages (24)](#file-language-dropdown-557)
 
 български (BG) (183.74 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/bg/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_bg.docx)
 
 español (ES) (168.32 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/es/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_es.docx)
 
 čeština (CS) (178.52 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/cs/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_cs.docx)
 
 dansk (DA) (161.74 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/da/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_da.docx)
 
 Deutsch (DE) (180.25 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/de/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (165.3 KB - DOCX)
+eesti (ET) (165.3 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/et/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_et.docx)
 
 ελληνικά (EL) (185.68 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/el/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_el.docx)
 
 français (FR) (173.12 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/fr/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_fr.docx)
 
 hrvatski (HR) (161.83 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/hr/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (166.91 KB - DOCX)
-
-**First published:**
-
-09/10/2025
-
-[View](/is/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (166.06 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/it/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (169.25 KB - DOCX)
+latviešu (LV) (169.25 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/lv/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (151 KB - DOCX)
+lietuvių (LT) (151 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/lt/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_lt.docx)
 
 magyar (HU) (175.62 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/hu/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_hu.docx)
 
 Malti (MT) (164.69 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/mt/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_mt.docx)
 
 Nederlands (NL) (165.99 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/nl/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_nl.docx)
 
-norsk (NO) (164.19 KB - DOCX)
-
-**First published:**
-
-09/10/2025
-
-[View](/no/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_no.docx)
-
 polski (PL) (170.72 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/pl/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_pl.docx)
 
 português (PT) (166.69 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/pt/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_pt.docx)
 
 română (RO) (169.81 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/ro/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (171.84 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/sk/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_sk.docx)
 
 slovenščina (SL) (171.31 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/sl/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (167.98 KB - DOCX)
+suomi (FI) (167.98 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/fi/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_fi.docx)
 
 svenska (SV) (168.78 KB - DOCX)
 
-**First published:**
-
-09/10/2025
+**First published:** 09/10/2025
 
 [View](/sv/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_sv.docx)
 
-**This page was last updated on** 06/02/2026
+Íslenska (IS) (166.91 KB - DOCX)
+
+**First published:** 09/10/2025
+
+[View](/is/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (164.19 KB - DOCX)
+
+**First published:** 09/10/2025
+
+[View](/no/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_no.docx)
+
+**This page was last updated on**
+
+14/07/2026
 
 ## Share this page
-
-[Back to top](#main-content)

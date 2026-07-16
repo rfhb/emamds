@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-21 16:30:00
+document_datetime: 2026-07-13 15:55:55
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/humalog.html
 document_name: humalog.html
 version: success
-processing_time: 0.1359755
-conversion_datetime: 2026-02-01 20:43:58.834347
+processing_time: 0.1888938
+conversion_datetime: 2026-07-16 13:18:28.821133
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Humalog
 
 [RSS](/en/individual-human-medicine.xml/65579)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-insulin lispro Medicine Human Authorised
+insulin lispro
+
+Medicine Human Authorised
 
 Page contents
 
@@ -35,8 +37,8 @@ Page contents
 - [Product details](#product-details)
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-87526)
 - [Preventing medication errors](#preventing-medication-errors-1016)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -57,7 +59,7 @@ Expand section
 
 Collapse section
 
-## How is Humalog used?
+### How is Humalog used?
 
 Humalog medicines are available as solutions or suspensions for injection in vials, cartridges or prefilled pens.
 
@@ -71,7 +73,7 @@ Patients can inject themselves with this medicine if they have been trained appr
 
 Humalog can only be obtained with a prescription. For more information about using Humalog, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Humalog work?
+### How does Humalog work?
 
 Diabetes is a disease in which the body does not produce enough insulin to control the level of glucose in the blood or when the body is unable to use insulin effectively. Humalog is a replacement insulin which is very similar to the insulin made by the body.
 
@@ -81,7 +83,7 @@ Insulin lispro has a small difference from human insulin that allows it to be ab
 
 Humalog works in the same way as naturally produced insulin and helps glucose from the blood to enter cells. By controlling the level of blood glucose, the symptoms and complications of diabetes are reduced.
 
-## What benefits of Humalog have been shown in studies?
+### What benefits of Humalog have been shown in studies?
 
 Humalog was originally studied in eight clinical trials including 2,951 patients with type 1 diabetes (when the body cannot produce insulin) or type 2 diabetes (when the body is unable to use insulin effectively). The effectiveness of Humalog was compared with that of Humulin R (a soluble recombinant DNA human insulin), when added to long-acting insulins given once or twice a day.
 
@@ -91,17 +93,17 @@ Studies also looked at the use of Humalog in 542 patients aged between two and 1
 
 Studies on the use of Humalog in combination with sulphonylureas showed that these medicines used together reduce HbA1c more than sulphonylureas used alone.
 
-## What are the risks associated with Humalog?
+### What are the risks associated with Humalog?
 
 Humalog may cause hypoglycaemia (low blood glucose levels) and must not be given to patients whose blood glucose is already low.
 
 For the full list of side effects and restrictions with Humalog, see the package leaflet.
 
-## Why is Humalog authorised in the EU?
+### Why is Humalog authorised in the EU?
 
 Humalog has been shown to effectively reduce glucose levels and is comparable to human insulin. The European Medicines Agency decided that Humalog's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Humalog?
+### What measures are being taken to ensure the safe and effective use of Humalog?
 
 When first marketing the high-strength Humalog (200 units/ml), the company provided information for patients and healthcare professionals to advise them of the 2 strengths and on how to use them safely to avoid medication errors.
 
@@ -109,7 +111,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Humalog are continuously monitored. Side effects reported with Humalog are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Humalog
+### Other information about Humalog
 
 Humalog received a marketing authorisation valid throughout the EU on 30 April 1996.
 
@@ -117,263 +119,135 @@ Humalog : EPAR - Medicine overview
 
 English (EN) (135.49 KB - PDF)
 
-**First published:** 12/09/2006
-
-**Last updated:** 18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/en/documents/overview/humalog-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-233)
+[Other languages (21)](#file-language-dropdown-222)
 
 български (BG) (159.92 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/bg/documents/overview/humalog-epar-medicine-overview_bg.pdf)
 
 español (ES) (135.22 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/es/documents/overview/humalog-epar-medicine-overview_es.pdf)
 
 čeština (CS) (157.88 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/cs/documents/overview/humalog-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (134.58 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/da/documents/overview/humalog-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (138.55 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/de/documents/overview/humalog-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (124.27 KB - PDF)
+eesti (ET) (124.27 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/et/documents/overview/humalog-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (158.35 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/el/documents/overview/humalog-epar-medicine-overview_el.pdf)
 
 français (FR) (135.84 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/fr/documents/overview/humalog-epar-medicine-overview_fr.pdf)
 
 italiano (IT) (134.84 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/it/documents/overview/humalog-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (174.5 KB - PDF)
+latviešu (LV) (174.5 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/lv/documents/overview/humalog-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (156.79 KB - PDF)
+lietuvių (LT) (156.79 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/lt/documents/overview/humalog-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (155.38 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/hu/documents/overview/humalog-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (159.66 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/mt/documents/overview/humalog-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (134.54 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/nl/documents/overview/humalog-epar-medicine-overview_nl.pdf)
 
 polski (PL) (159.99 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/pl/documents/overview/humalog-epar-medicine-overview_pl.pdf)
 
 português (PT) (135.9 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/pt/documents/overview/humalog-epar-medicine-overview_pt.pdf)
 
 română (RO) (155.16 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/ro/documents/overview/humalog-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (159.84 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/sk/documents/overview/humalog-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (155.59 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/sl/documents/overview/humalog-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (133.27 KB - PDF)
+suomi (FI) (133.27 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/fi/documents/overview/humalog-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (133.9 KB - PDF)
 
-**First published:**
-
-12/09/2006
-
-**Last updated:**
-
-18/03/2020
+**First published:** 12/09/2006 **Last updated:** 18/03/2020
 
 [View](/sv/documents/overview/humalog-epar-medicine-overview_sv.pdf)
 
@@ -389,311 +263,168 @@ English (EN) (611.11 KB - PDF)
 
 Humalog : EPAR - Product Information
 
-English (EN) (3.8 MB - PDF)
+English (EN) (3.27 MB - PDF)
 
-**First published:** 25/08/2009
-
-**Last updated:** 21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/en/documents/product-information/humalog-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-979)
+[Other languages (24)](#file-language-dropdown-269)
 
-български (BG) (4.88 MB - PDF)
+български (BG) (3.57 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/bg/documents/product-information/humalog-epar-product-information_bg.pdf)
 
-español (ES) (3.69 MB - PDF)
+español (ES) (3.33 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/es/documents/product-information/humalog-epar-product-information_es.pdf)
 
-čeština (CS) (4.16 MB - PDF)
+čeština (CS) (3.57 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/cs/documents/product-information/humalog-epar-product-information_cs.pdf)
 
-dansk (DA) (3.81 MB - PDF)
+dansk (DA) (3.17 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/da/documents/product-information/humalog-epar-product-information_da.pdf)
 
-Deutsch (DE) (3.68 MB - PDF)
+Deutsch (DE) (3.14 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/de/documents/product-information/humalog-epar-product-information_de.pdf)
 
-eesti keel (ET) (3.24 MB - PDF)
+eesti (ET) (2.33 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/et/documents/product-information/humalog-epar-product-information_et.pdf)
 
-ελληνικά (EL) (3.79 MB - PDF)
+ελληνικά (EL) (3.23 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/el/documents/product-information/humalog-epar-product-information_el.pdf)
 
-français (FR) (2.8 MB - PDF)
+français (FR) (2.4 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/fr/documents/product-information/humalog-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.81 MB - PDF)
+hrvatski (HR) (3.31 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/hr/documents/product-information/humalog-epar-product-information_hr.pdf)
 
-íslenska (IS) (3.65 MB - PDF)
+italiano (IT) (2.46 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
-
-[View](/is/documents/product-information/humalog-epar-product-information_is.pdf)
-
-italiano (IT) (3.76 MB - PDF)
-
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/it/documents/product-information/humalog-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (3.93 MB - PDF)
+latviešu (LV) (3.25 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/lv/documents/product-information/humalog-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (4.13 MB - PDF)
+lietuvių (LT) (3.41 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/lt/documents/product-information/humalog-epar-product-information_lt.pdf)
 
-magyar (HU) (4.09 MB - PDF)
+magyar (HU) (3.48 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/hu/documents/product-information/humalog-epar-product-information_hu.pdf)
 
-Malti (MT) (4.45 MB - PDF)
+Malti (MT) (3.8 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/mt/documents/product-information/humalog-epar-product-information_mt.pdf)
 
-Nederlands (NL) (3.76 MB - PDF)
+Nederlands (NL) (3.14 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/nl/documents/product-information/humalog-epar-product-information_nl.pdf)
 
-norsk (NO) (3.67 MB - PDF)
+polski (PL) (2.98 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
-
-[View](/no/documents/product-information/humalog-epar-product-information_no.pdf)
-
-polski (PL) (3.42 MB - PDF)
-
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/pl/documents/product-information/humalog-epar-product-information_pl.pdf)
 
-português (PT) (3.71 MB - PDF)
+português (PT) (3.29 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/pt/documents/product-information/humalog-epar-product-information_pt.pdf)
 
-română (RO) (3.27 MB - PDF)
+română (RO) (2.62 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/ro/documents/product-information/humalog-epar-product-information_ro.pdf)
 
-slovenčina (SK) (3.97 MB - PDF)
+slovenčina (SK) (3.36 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/sk/documents/product-information/humalog-epar-product-information_sk.pdf)
 
-slovenščina (SL) (3.53 MB - PDF)
+slovenščina (SL) (3.04 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/sl/documents/product-information/humalog-epar-product-information_sl.pdf)
 
-Suomi (FI) (3.59 MB - PDF)
+suomi (FI) (2.9 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/fi/documents/product-information/humalog-epar-product-information_fi.pdf)
 
-svenska (SV) (3.77 MB - PDF)
+svenska (SV) (3.24 MB - PDF)
 
-**First published:**
-
-25/08/2009
-
-**Last updated:**
-
-21/01/2026
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
 
 [View](/sv/documents/product-information/humalog-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000315488 21/01/2026
+Íslenska (IS) (3.18 MB - PDF)
+
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
+
+[View](/is/documents/product-information/humalog-epar-product-information_is.pdf)
+
+norsk (NO) (2.93 MB - PDF)
+
+**First published:** 25/08/2009 **Last updated:** 13/07/2026
+
+[View](/no/documents/product-information/humalog-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000349546
+
+09/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -705,310 +436,165 @@ Product information documents contain:
 
 Humalog : EPAR - All Authorised presentations
 
-English (EN) (36.74 KB - PDF)
+English (EN) (82.14 KB - PDF)
 
-**First published:** 25/02/2009
-
-**Last updated:** 23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/en/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-929)
+[Other languages (23)](#file-language-dropdown-819)
 
-български (BG) (85.53 KB - PDF)
+български (BG) (102.81 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/bg/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (65.72 KB - PDF)
+español (ES) (74.53 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/es/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (63.22 KB - PDF)
+čeština (CS) (94.43 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/cs/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (30.85 KB - PDF)
+dansk (DA) (95.1 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/da/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (30.6 KB - PDF)
+Deutsch (DE) (121.6 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/de/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (33.2 KB - PDF)
+eesti (ET) (92.91 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/et/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (59.73 KB - PDF)
+ελληνικά (EL) (81.72 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/el/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (54.23 KB - PDF)
+français (FR) (78.01 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/fr/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (53.33 KB - PDF)
+hrvatski (HR) (99.16 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/hr/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (28.82 KB - PDF)
+italiano (IT) (74.76 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
-
-[View](/is/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_is.pdf)
-
-italiano (IT) (54 KB - PDF)
-
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/it/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (90.32 KB - PDF)
+latviešu (LV) (94.88 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/lv/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (156.53 KB - PDF)
+lietuvių (LT) (115.64 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/lt/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (57.76 KB - PDF)
+Malti (MT) (97.28 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
-
-[View](/hu/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_hu.pdf)
-
-Malti (MT) (54.79 KB - PDF)
-
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/mt/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (42.63 KB - PDF)
+Nederlands (NL) (95.04 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/nl/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (93.97 KB - PDF)
+polski (PL) (92.54 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
-
-[View](/no/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_no.pdf)
-
-polski (PL) (69.77 KB - PDF)
-
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/pl/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (50.84 KB - PDF)
+português (PT) (72.84 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/pt/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (83.14 KB - PDF)
+română (RO) (80.42 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/ro/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (55.34 KB - PDF)
+slovenčina (SK) (107.89 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/sk/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (118.42 KB - PDF)
+slovenščina (SL) (160.96 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/sl/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (43.58 KB - PDF)
+suomi (FI) (92.57 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/fi/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (94.44 KB - PDF)
+svenska (SV) (73.06 KB - PDF)
 
-**First published:**
-
-25/02/2009
-
-**Last updated:**
-
-23/09/2020
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
 
 [View](/sv/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (71.98 KB - PDF)
+
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
+
+[View](/is/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (65.59 KB - PDF)
+
+**First published:** 25/02/2009 **Last updated:** 13/07/2026
+
+[View](/no/documents/all-authorised-presentations/humalog-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Humalog Active substance insulin lispro International non-proprietary name (INN) or common name insulin lispro Therapeutic area (MeSH) Diabetes Mellitus Anatomical therapeutic chemical (ATC) code
-
-- A10AB04
-- A10AD04
+- **Name of medicine**
+    - Humalog
+- **Active substance**
+    - insulin lispro
+- **International non-proprietary name (INN) or common name**
+    - insulin lispro
+- **Therapeutic area (MeSH)**
+    - Diabetes Mellitus
+- **Anatomical therapeutic chemical (ATC) code**
+        - A10AB04
+        - A10AD04
 
 ### Pharmacotherapeutic group
 
@@ -1020,13 +606,14 @@ For the treatment of adults and children with diabetes mellitus who require insu
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000088 Marketing authorisation holder
-
-Eli Lilly Nederland B.V.
-
-Orteliuslaan 1000 3528 BD Utrecht Netherlands
-
-Marketing authorisation issued 30/04/1996 Revision 36
+- **EMA product number**
+    - EMEA/H/C/000088
+- **Marketing authorisation holder**
+    - Eli Lilly Nederland B.V. Orteliuslaan 1000  3528 BD Utrecht  Netherlands
+- **Marketing authorisation issued**
+    - 30/04/1996
+- **Revision**
+    - 37
 
 ## Assessment history
 
@@ -1034,13 +621,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Humalog : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (533.33 KB - PDF)
+English (EN) (160.26 KB - PDF)
 
-**First published:** 21/01/2026
+**First published:** 21/01/2026 **Last updated:** 13/07/2026
 
 [View](/en/documents/procedural-steps-after/humalog-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1048,23 +635,17 @@ Humalog : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (415.14 KB - PDF)
 
-**First published:** 25/08/2009
-
-**Last updated:** 21/01/2026
+**First published:** 25/08/2009 **Last updated:** 21/01/2026
 
 [View](/en/documents/procedural-steps-after/humalog-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Humalog-H-C-88-X-0125 : EPAR - Assessment Report - Extension
 
-Adopted
-
-Reference Number: EMA/CHMP/416253/2014
+Adopted Reference Number: EMA/CHMP/416253/2014
 
 English (EN) (811.84 KB - PDF)
 
-**First published:** 28/10/2014
-
-**Last updated:** 28/10/2014
+**First published:** 28/10/2014 **Last updated:** 28/10/2014
 
 [View](/en/documents/variation-report/humalog-h-c-88-x-0125-epar-assessment-report-extension_en.pdf)
 
@@ -1072,25 +653,179 @@ Humalog : EPAR - Steps taken after authorisation when a cutoff date has been use
 
 English (EN) (116.44 KB - PDF)
 
-**First published:** 09/01/2006
-
-**Last updated:** 09/01/2006
+**First published:** 09/01/2006 **Last updated:** 09/01/2006
 
 [View](/en/documents/steps-after-cutoff/humalog-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Humalog : EPAR - Scientific Discussion
 
 English (EN) (177.88 KB - PDF)
 
-**First published:** 09/01/2006
-
-**Last updated:** 09/01/2006
+**First published:** 09/01/2006 **Last updated:** 09/01/2006
 
 [View](/en/documents/scientific-discussion/humalog-epar-scientific-discussion_en.pdf)
 
-#### Preventing medication errors
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Humalog : EPAR - Product Information - tracked changes
+
+English (EN) (2.9 MB - DOCX)
+
+**First published:** 13/07/2026
+
+[View](/en/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-134)
+
+български (BG) (3.06 MB - DOCX)
+
+**First published:** 13/07/2026
+
+[View](/bg/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (8.23 MB - DOC)
+
+**First published:** 13/07/2026
+
+[View](/es/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_es.doc)
+
+čeština (CS) (3 MB - DOCX)
+
+**First published:** 13/07/2026
+
+[View](/cs/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (2.81 MB - DOCX)
+
+**First published:** 13/07/2026
+
+[View](/da/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (7.92 MB - DOC)
+
+**First published:** 13/07/2026
+
+[View](/de/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_de.doc)
+
+eesti (ET) (2 MB - DOCX)
+
+**First published:** 13/07/2026
+
+[View](/et/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (3.06 MB - DOCX)
+
+**First published:** 13/07/2026
+
+[View](/el/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (8.06 MB - DOC)
+
+**First published:** 13/07/2026
+
+[View](/fr/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_fr.doc)
+
+hrvatski (HR) (2.9 MB - DOCX)
+
+**First published:** 13/07/2026
+
+[View](/hr/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_hr.docx)
+
+italiano (IT) (8.34 MB - DOC)
+
+**First published:** 13/07/2026
+
+[View](/it/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_it.doc)
+
+latviešu (LV) (5.73 MB - DOCX)
+
+**First published:** 13/07/2026
+
+[View](/lv/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių (LT) (2.91 MB - DOCX)
+
+**First published:** 13/07/2026
+
+[View](/lt/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (3.01 MB - DOCX)
+
+**First published:** 13/07/2026
+
+[View](/hu/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (2.95 MB - DOCX)
+
+**First published:** 13/07/2026
+
+[View](/mt/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (2.83 MB - DOCX)
+
+**First published:** 13/07/2026
+
+[View](/nl/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_nl.docx)
+
+polski (PL) (2.78 MB - DOCX)
+
+**First published:** 13/07/2026
+
+[View](/pl/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (2.89 MB - DOCX)
+
+**First published:** 13/07/2026
+
+[View](/pt/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (9.3 MB - DOC)
+
+**First published:** 13/07/2026
+
+[View](/ro/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_ro.doc)
+
+slovenčina (SK) (2.97 MB - DOCX)
+
+**First published:** 13/07/2026
+
+[View](/sk/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (2.85 MB - DOCX)
+
+**First published:** 13/07/2026
+
+[View](/sl/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_sl.docx)
+
+suomi (FI) (2.66 MB - DOCX)
+
+**First published:** 13/07/2026
+
+[View](/fi/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (2.7 MB - DOCX)
+
+**First published:** 13/07/2026
+
+[View](/sv/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (2.65 MB - DOCX)
+
+**First published:** 13/07/2026
+
+[View](/is/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (2.64 MB - DOCX)
+
+**First published:** 13/07/2026
+
+[View](/no/documents/product-information-tracked-changes/humalog-epar-product-information-tracked-changes_no.docx)
+
+## Preventing medication errors
 
 Insulins (high-strength): guidance on prevention of medication errors
 
@@ -1098,272 +833,140 @@ Reference Number: EMA/134145/2015
 
 English (EN) (81.81 KB - PDF)
 
-**First published:** 27/11/2015
-
-**Last updated:** 27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/en/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-753)
+[Other languages (21)](#file-language-dropdown-805)
 
 español (ES) (87.17 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/es/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_es.pdf)
 
 čeština (CS) (107.44 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/cs/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_cs.pdf)
 
 dansk (DA) (86.01 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/da/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_da.pdf)
 
 Deutsch (DE) (89.16 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/de/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_de.pdf)
 
-eesti keel (ET) (86.12 KB - PDF)
+eesti (ET) (86.12 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/et/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_et.pdf)
 
 ελληνικά (EL) (115.63 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/el/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_el.pdf)
 
 français (FR) (88.53 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/fr/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_fr.pdf)
 
 hrvatski (HR) (105.58 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/hr/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_hr.pdf)
 
 italiano (IT) (87.73 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/it/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_it.pdf)
 
-latviešu valoda (LV) (108.71 KB - PDF)
+latviešu (LV) (108.71 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/lv/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_lv.pdf)
 
-lietuvių kalba (LT) (108.79 KB - PDF)
+lietuvių (LT) (108.79 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/lt/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_lt.pdf)
 
 magyar (HU) (108.4 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/hu/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_hu.pdf)
 
 Malti (MT) (111.45 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/mt/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_mt.pdf)
 
 Nederlands (NL) (87.33 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/nl/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_nl.pdf)
 
 polski (PL) (109.39 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/pl/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_pl.pdf)
 
 português (PT) (87.88 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/pt/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_pt.pdf)
 
 română (RO) (109.94 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/ro/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_ro.pdf)
 
 slovenčina (SK) (107.89 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/sk/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_sk.pdf)
 
 slovenščina (SL) (104.26 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/sl/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_sl.pdf)
 
-Suomi (FI) (86.21 KB - PDF)
+suomi (FI) (86.21 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/fi/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_fi.pdf)
 
 svenska (SV) (87.24 KB - PDF)
 
-**First published:**
-
-27/11/2015
-
-**Last updated:**
-
-27/11/2015
+**First published:** 27/11/2015 **Last updated:** 27/11/2015
 
 [View](/sv/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_sv.pdf)
 
-#### Topics
+**This page was last updated on**
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
-**This page was last updated on** 21/01/2026
+13/07/2026
 
 ## Share this page
-
-[Back to top](#main-content)

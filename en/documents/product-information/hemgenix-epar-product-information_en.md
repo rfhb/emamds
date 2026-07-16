@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-04 10:48:24
+document_datetime: 2026-07-14 09:40:43
 document_pages: 47
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/hemgenix-epar-product-information_en.pdf
 document_name: hemgenix-epar-product-information_en.pdf
 version: success
-processing_time: 13.5607951
-conversion_datetime: 2026-03-05 11:39:34.015542
+processing_time: 11.0870134
+conversion_datetime: 2026-07-16 13:36:18.276356
 docling_version:
-  docling-serve: 1.14.1
-  docling-jobkit: 1.13.0
-  docling: 2.76.0
-  docling-core: 2.66.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.4.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.0.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -149,11 +149,9 @@ Prior to the treatment with Hemgenix patients should be assessed for the titre o
 
 Preexisting neutralising anti-AAV5 antibodies above a titre of 1:898, based on the neutralising antiAAV5 antibody assay with extended measuring range (equivalent to 1:678 titre based on the previous clinical study assay), may impede transgene expression at desired therapeutic levels and thus reduce the efficacy of Hemgenix therapy (see section 5.1).
 
-There is limited data in patients with neutralising anti-AAV5 antibodies above 1:898 (equivalent to the 1:678 titre based on the clinical study assay). In the clinical studies with etranacogene dezaparvovec, in 1 patient with a preexisting neutralising anti-AAV5 antibody titre of 1:3212 (tested using the clinical study assay, equivalent to 1:4417 titre based on the neutralising anti-AAV5 antibody assay with extended
+There is limited data in patients with neutralising anti-AAV5 antibodies above 1:898 (equivalent to the 1:678 titre based on the clinical study assay). In the clinical studies with etranacogene dezaparvovec, in 1 patient with a preexisting neutralising anti-AAV5 antibody titre of 1:3212 (tested using the clinical study assay, equivalent to 1:4417 titre based on the neutralising anti-AAV5 antibody assay with extended measuring range), no Factor IX expression was observed and restarting of exogenous Factor IX prophylaxis was needed (see section 5.1).
 
 <div style=\"page-break-after: always\"></div>
-
-measuring range), no Factor IX expression was observed and restarting of exogenous Factor IX prophylaxis was needed (see section 5.1).
 
 In the clinical studies with etranacogene dezaparvovec, for the patient sub-group with detectable preexisting neutralising anti-AAV5 antibodies up to a titre of 1:678 (tested using the clinical study assay, equivalent to 1:898 titre based on the neutralising anti-AAV5 antibody assay with extended measuring range), mean Factor IX activity levels were within the same range but numerically lower compared to those of the patient sub-group without detectable preexisting neutralising anti-AAV5 antibodies. However, both patient groups, with and without detectable preexisting neutralising anti-AAV5 antibodies, demonstrated an improved haemostatic protection compared to the standard of care Factor IX prophylaxis after etranacogene dezaparvovec administration (see section 5.1).
 
@@ -192,11 +190,9 @@ The safety of etranacogene dezaparvovec in patients with severe hepatic impairme
 
 ## Factor IX assays
 
-The results of Factor IX activity tests are lower if measured with chromogenic substrate assay (CSA)
+The results of Factor IX activity tests are lower if measured with chromogenic substrate assay (CSA) compared to one-stage clotting assay (OSA). In clinical studies, the post-dose Factor IX activity measured with CSA returned lower values with the
 
-compared to one-stage clotting assay (OSA).
-
-In clinical studies, the post-dose Factor IX activity measured with CSA returned lower values with the mean CSA to OSA Factor IX activity ratio ranging from 0.408 to 0.547 (see section 5.1).
+mean CSA to OSA Factor IX activity ratio ranging from 0.408 to 0.547 (see section 5.1).
 
 ## Hepatic function and Factor IX monitoring
 
@@ -313,11 +309,9 @@ The clinical relevance of individual integration events is not known to date, bu
 
 In the clinical studies, no malignancies were identified in relation to treatment with etranacogene dezaparvovec (see sections 5.1 and 5.3). In the event that a malignancy occurs, the marketing authorisation holder should be contacted by the treating healthcare professional to obtain instructions on collecting patient samples for potential vector integration examination and integration site analysis.
 
-It is recommended that patients with preexisting risk factors for hepatocellular carcinoma (such as hepatic fibrosis, hepatitis C or B disease, non-alcoholic fatty liver disease) undergo regular liver ultrasound
+It is recommended that patients with preexisting risk factors for hepatocellular carcinoma (such as hepatic fibrosis, hepatitis C or B disease, non-alcoholic fatty liver disease) undergo regular liver ultrasound screenings and are regularly monitored for alpha-fetoprotein (AFP) elevations (e.g. annually) for at least 5 years after Hemgenix administration (see also section 4.3).
 
 <div style=\"page-break-after: always\"></div>
-
-screenings and are regularly monitored for alpha-fetoprotein (AFP) elevations (e.g. annually) for at least 5 years after Hemgenix administration (see also section 4.3).
 
 ## Long-term follow up
 
@@ -416,17 +410,17 @@ Table 4 describes hepatic laboratory abnormalities following administration of H
 
 Table 4. Hepatic laboratory abnormalities in patients administered 2 x 10 13 gc/kg body weight etranacogene dezaparvovec in clinical studies
 
-| Laboratory Parameter Increases a   | Number of patients (%) N=57 f   |
-|------------------------------------|---------------------------------|
-| ALT increases > ULN b              | (40.4%)                         |
-| > ULN - 3.0 x ULN c                | 17 (29.8%)                      |
-| > 3.0 - 5.0 x ULN d                | 1 (1.8%)                        |
-| > 5.0 - 20.0 x ULN e               | 1 (1.8%)                        |
-| AST increases > ULN b              | (42.1%)                         |
-| > ULN - 3.0 x ULN c                | 19 (33.3%)                      |
-| > 3.0 - 5.0 x ULN d                | 4 (7.0%)                        |
-| Bilirubin increases > ULN b        | 14 (24.6%)                      |
-| >ULN- 1.5xULN c                    | 12 (21.1%)                      |
+| Laboratory Parameter Increases a   | Number of patients (%) N = 57 f   |
+|------------------------------------|-----------------------------------|
+| ALT increases > ULN b              | (40.4%)                           |
+| > ULN - 3.0 x ULN c                | 17 (29.8%)                        |
+| > 3.0 - 5.0 x ULN d                | 1 (1.8%)                          |
+| > 5.0 - 20.0 x ULN e               | 1 (1.8%)                          |
+| AST increases > ULN b              | (42.1%)                           |
+| > ULN - 3.0 x ULN c                | 19 (33.3%)                        |
+| > 3.0 - 5.0 x ULN d                | 4 (7.0%)                          |
+| Bilirubin increases > ULN b        | 14 (24.6%)                        |
+| > ULN - 1.5 x ULN c                | 12 (21.1%)                        |
 
 Abbreviations: ULN = Upper Limit of Normal; CTCAE = Common Terminology Criteria for Adverse Events
 
@@ -480,11 +474,9 @@ Pharmacotherapeutic group: Blood coagulation factors, ATC code: B02BD16
 
 ## Mechanism of action
 
-Etranacogene dezaparvovec is a gene therapy product designed to introduce a copy of the human Factor IX coding DNA sequence into hepatocytes to address the root cause of the Haemophilia B disease. Etranacogene dezaparvovec consists of a codon-optimised coding DNA sequence of the gain-of-function Padua variant of the human Factor IX (hFIXco-Padua), under control of the liver-specific LP1 promoter,
+Etranacogene dezaparvovec is a gene therapy product designed to introduce a copy of the human Factor IX coding DNA sequence into hepatocytes to address the root cause of the Haemophilia B disease. Etranacogene dezaparvovec consists of a codon-optimised coding DNA sequence of the gain-of-function Padua variant of the human Factor IX (hFIXco-Padua), under control of the liver-specific LP1 promoter, encapsulated in a non-replicating recombinant adeno-associated viral vector of serotype 5 (AAV5) (see section 2.1).
 
 <div style=\"page-break-after: always\"></div>
-
-encapsulated in a non-replicating recombinant adeno-associated viral vector of serotype 5 (AAV5) (see section 2.1).
 
 Following single intravenous infusion, etranacogene dezaparvovec preferentially targets liver cells, where the vector DNA resides almost exclusively in episomal form (see section 5.3 below). After transduction, etranacogene dezaparvovec directs long-term liver-specific expression of Factor IX-Padua protein. As a result, etranacogene dezaparvovec partially or completely ameliorates the deficiency of circulating Factor IX procoagulant activity in patients with Haemophilia B.
 
@@ -521,9 +513,7 @@ Table 5. Bleeding events and Annualised Bleeding Rates
 | Adjusted ABR for joint bleeds 1-sided p- value                                       | 2.35       | 0.51 p<0.0001           | 0.35 p<0.0001           | -  | -                       | -                       |
 | Adjusted ABR for traumatic bleeds 1-sided p- value                                   | 2.09       | 0.62 p<0.0001           | 0.43 p<0.0001           | -  | -                       | -                       |
 
-Abbreviations: ABR = annualised bleeding rate; FAS = Full Analysis Set including all 54 patients dosed;
-
-CI = confidence interval
+Abbreviations: ABR = annualised bleeding rate; FAS = Full Analysis Set including all 54 patients dosed; CI = confidence interval
 
 * Adjusted ABR: Adjusted ABR rate and comparison of ABR between lead-in and post-treatment period was estimated from a statistical modelling (i.e., from a repeated measures generalised estimating equations negative binomial regression model accounting for the paired design of the study with an offset parameter to account for the differential collection periods. Treatment period was included as a categorical covariate.)
 
@@ -551,7 +541,7 @@ Abbreviations: ABR = annualised bleeding rate; FAS = Full Analysis Set including
 
 * Adjusted ABR: Adjusted ABR rate and comparison of ABR between lead-in and post-treatment period was estimated from a statistical modelling (i.e., from a repeated measures generalised estimating equations negative binomial regression model accounting for the paired design of the study with an offset parameter to account for the differential collection periods. Treatment period was included as a categorical covariate.)
 
-** 1-sided pvalue ≤0.025 for post-treatment/leadin &lt;1 was regarded as statistically significant.
+** 1-sided pvalue ≤0.025 for post -treatment/leadin &lt;1 was regarded as statistically significant.
 
 i The population data includes all patients dosed except for 1 patient who died at month 15 due to an unrelated concomitant disease.
 
@@ -561,11 +551,11 @@ After single-dose of etranacogene dezaparvovec, clinically relevant increases in
 
 Table 7. Uncontaminated 2 Factor IX activity at 6, 12, 24, and 60 months (FAS; one-stage (aPTTbased) assay)
 
-|            | Base-line 1 (N=54) 2   | 6 months post-dose (N=51) 2   | 12 months post-dose (N=50) 2   | 24 months post-dose 5 (N=50) 2   | 60 months post-dose 5 (N=48) 2   |
-|------------|------------------------|-------------------------------|--------------------------------|----------------------------------|----------------------------------|
-| Mean %(SD) | 1.19 (0.39)            | 38.95 (18.72)                 | 41.48 (21.71)                  | 36.66 (18.96)                    | 36.09 (15.68)                    |
-| Median%    | 1.0                    | 37.30                         | 39.90                          | 33.85                            | 35.45                            |
-| (min, max) | (1.0, 2.0)             | (8.2, 97.1)                   | (5.9, 113.0)                   | (4.7, 99.2)                      | (5.5, 74.5)                      |
+|             | Base-line 1 (N=54) 2   | 6 months post-dose (N=51) 2   | 12 months post-dose (N=50) 2   | 24 months post-dose 5 (N=50) 2   | 60 months post-dose 5 (N=48) 2   |
+|-------------|------------------------|-------------------------------|--------------------------------|----------------------------------|----------------------------------|
+| Mean % (SD) | 1.19 (0.39)            | 38.95 (18.72)                 | 41.48 (21.71)                  | 36.66 (18.96)                    | 36.09 (15.68)                    |
+| Median %    | 1.0                    | 37.30                         | 39.90                          | 33.85                            | 35.45                            |
+| (min, max)  | (1.0, 2.0)             | (8.2, 97.1)                   | (5.9, 113.0)                   | (4.7, 99.2)                      | (5.5, 74.5)                      |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -576,7 +566,9 @@ Abbreviations: aPTT = activated Partial Thromboplastin Time; CI = confidence int
 
 1 Baseline: baseline Factor IX activity was imputed based on subject's historical Haemophilia B severity documented on the case report form. If the subject had documented severe Factor IX deficiency (Factor IX plasma level &lt;1%), their baseline Factor IX activity level was imputed as 1%. If the subject had documented moderately severe Factor IX deficiency (Factor IX plasma level ≥1% and ≤2%) their baseline Factor IX activity level was imputed as 2%.
 
-2 Uncontaminated: the blood samples collected within 5 half-lives of exogenous Factor IX use were excluded. Both the date and time of exogenous Factor IX use and blood sampling were considered in determining contamination. Patients with zero uncontaminated central laboratory post-treatment values had their change from baseline assigned to zero for this analysis, and had their post-baseline values set equal to their baseline value. Baseline Factor IX was imputed based on patients' historical Haemophilia B severity documented on the case report form. The FAS included 1 patient who received only 10% of the planned dose, 2 patients who died at month 15 and month 55 post-dose, respectively, due to an unrelated concomitant disease, 1 patient with titre 1:3212 of preexisting neutralising antiAAV5 antibodies (tested using the clinical study assay, equivalent to 1:4417 titre based on the neutralising anti-AAV5 antibody assay with extended measuring range) who did not respond to treatment, 1 patient who underwent a liver transplantation due to unrelated concomitant disease, and 2 patient with contamination with exogenous Factor IX. Accordingly, the population data included 54 to 47 patients with uncontaminated sampling.
+2 Uncontaminated: the blood samples collected within 5 half-lives of exogenous Factor IX use were excluded. Both the date and time of exogenous Factor IX use and blood sampling were considered in determining contamination. Patients with zero uncontaminated central laboratory post-treatment values had their change from baseline assigned to zero for this analysis, and had their post-baseline values set equal to their baseline value. Baseline Factor IX was imputed based on patients' historical Haemophilia B severity documented on the case report form. The FAS included 1 patient who received only 10% of the planned dose, 2 patients who died at month 15 and month 55 post-dose, respectively,
+
+due to an unrelated concomitant disease, 1 patient with titre 1:3212 of preexisting neutralising antiAAV5 antibodies (tested using the clinical study assay, equivalent to 1:4417 titre based on the neutralising anti-AAV5 antibody assay with extended measuring range) who did not respond to treatment, 1 patient who underwent a liver transplantation due to unrelated concomitant disease, and 2 patient with contamination with exogenous Factor IX. Accordingly, the population data included 54 to 47 patients with uncontaminated sampling.
 
 3 Least Squares Mean (SE): mean from repeated measures linear mixed model with visit as a categorical covariate.
 
@@ -667,7 +659,9 @@ The pharmacokinetics of shedding was characterised following etranacogene dezapa
 
 In the phase 3 study, detectable vector DNA with a maximum vector DNA concentrations post-dose was observed in blood (n = 53/54) and semen (n = 42/54) at a median time (Tmax) of 4 hours and 42 days, respectively. The mean peak concentrations were 2.2 × 10 10 copies/mL and 3.8 × 10 5 copies/mL in blood and semen, respectively. After reaching the maximum in a matrix, the transgene DNA concentration declines steadily. Shedding-negative status in patients was defined as having ≥ 3 consecutive samples at vector DNA concentration below the limit of detection (&lt;LOD). Using this definition, a total of 56% (30/54) of patients reached absence of vector DNA from blood and 69% (37/54) from semen by month 24. Several subjects did not return the required number of blood and semen samples to assess the shedding status as per the definition (n = 9, including 2 patients with no samples).
 
-Considering shedding results obtained from the final 2 available consecutive samples, while accounting for missing samples, a total of 40/54 (74%) and 47/54 (87%) patients were identified to have reached absence of vector DNA from blood and semen, respectively, at 24 months post-dose. At month 60, clearance of vector DNA, as per the definition and considering for missing samples, was confirmed in 90.7% (49/54) of patients in blood and in 83.3% (45/54) of patients in semen. The median time to absence of shedding was 52.6 weeks in blood and 43.7 weeks in semen at 60 months post-dose.
+Considering shedding results obtained from the final 2 available consecutive samples, while accounting for missing samples, a total of 40/54 (74%) and 47/54 (87%) patients were identified to have reached absence of vector DNA from blood and semen, respectively, at 24 months post-dose. At month 60, clearance of vector DNA, as per the definition and considering for missing samples, was confirmed in 90.7% (49/54) of patients in blood and in 83.3% (45/54) of patients in semen. The median time to absence of shedding was 52.6 weeks in blood and 43.7 weeks in semen at 60 months
+
+post-dose.
 
 ## Pharmacokinetics in special populations
 
@@ -687,13 +681,11 @@ Patients with severe liver impairment and advanced fibrosis were not studied (se
 
 ## General toxicity
 
-Preclinical studies were initiated with a gene therapy product employing the recombinant adenoassociated virus serotype 5 (rAAV5) expressing the wild type of the human coagulation Factor IX (rAAV5-hFIX). Etranacogene dezaparvovec (rAAV5-hFIX-Padua) was subsequently developed from
+Preclinical studies were initiated with a gene therapy product employing the recombinant adenoassociated virus serotype 5 (rAAV5) expressing the wild type of the human coagulation Factor IX (rAAV5-hFIX). Etranacogene dezaparvovec (rAAV5-hFIX-Padua) was subsequently developed from rAAV5-hFIX by introduction of a 2 nucleotide change in the transgene for human Factor IX, generating thereby the naturally occurring Padua variant of Factor IX, which exhibits significantly augmented activity (see section 5.1).
 
 <div style=\"page-break-after: always\"></div>
 
-rAAV5-hFIX by introduction of a 2 nucleotide change in the transgene for human Factor IX, generating thereby the naturally occurring Padua variant of Factor IX, which exhibits significantly augmented activity (see section 5.1).
-
-The No Observed-Adverse-Effect-Level (NOAEL) was observed at 9x10 13  gc/kg body weight in nonhuman primates, which is approximately 5-fold above the human etranacogene dezaparvovec dose of 2x10 13 gc/kg body weight.
+The No Observed-Adverse-Effect-Level (NOAEL) was observed at 9x10 13 gc/kg body weight in nonhuman primates, which is approximately 5-fold above the human etranacogene dezaparvovec dose of 2x10 13 gc/kg body weight.
 
 Biodistribution of etranacogene dezaparvovec and its predecessor, the gene therapy of human wild type Factor IX, was assessed in mice and non-human primates following intravenous administration. Dosedependent preferential distribution to the liver was confirmed for both vectors and their transgene expression.
 
@@ -723,7 +715,9 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## 6.3 Shelf life
 
-## 24 months
+## 36 months
+
+Hemgenix is supplied thawed and refrigerated (2 °C -  8 °C) (see section 6.4). The total 36-month shelf-life includes up to 34 months when stored frozen at the manufacturer and up to 2 months when stored refrigerated (2 °C -  8 °C) after thawing.
 
 ## After dilution
 
@@ -735,9 +729,9 @@ The stability after dilution was established for Polyethylene/Polypropylene (PE/
 
 Store in a refrigerator (2 °C - 8 °C).
 
-Do not freeze.
+## Do not freeze.
 
-Store in the original package in order to protect from light.
+Do not use Hemgenix after the expiry date printed on the outer carton after \"EXP\". Store in the original package in order to protect from light.
 
 Dilute before use.
 
@@ -768,11 +762,11 @@ Preparation of etranacogene dezaparvovec prior to administration
 
 Example calculation for 72 kg patient:
 
+<div style=\"page-break-after: always\"></div>
+
 | Patient body weight   | Etranacogene dezaparvovec dose (mL) = body weight × 2   |   Number of vials * needed = Etranacogene dezaparvovec dose (mL) divided by 10, then rounded up to the nearest whole number of vials |
 |-----------------------|---------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | 72 kg                 | 144 mL                                                  |                                                                                                                                   15 |
-
-<div style=\"page-break-after: always\"></div>
 
 * The total volume of the patient's etranacogene dezaparvovec dose to be diluted may be less than the total volume of vials needed.
 
@@ -805,12 +799,11 @@ For a patient weighing between 72.1 kg to 72.4 kg use 72 kg. For a patient weigh
 
 ## Administration
 
+<div style=\"page-break-after: always\"></div>
+
 14. Diluted etranacogene dezaparvovec should be visually inspected prior to administration. The diluted etranacogene dezaparvovec should be a clear, colourless solution. If particulates, cloudiness or discoloration are visible in the infusion bag, do not use etranacogene dezaparvovec.
 15. Use the product after dilution as soon as possible. You must not exceed the storage time of the diluted product beyond that provided section 6.3.
 16. Use an integrated (in-line) 0.2 µm filter made out of polyethersulfone (PES).
-
-<div style=\"page-break-after: always\"></div>
-
 17. The diluted etranacogene dezaparvovec solution must be administered into a peripheral vein by a separate intravenous infusion line through a peripheral venous catheter.
 18. Etranacogene dezaparvovec solution should be infused closely following the infusion rate(s) provided in section 4.2. The administration should be completed within ≤24 hours after the dose preparation (see section 4.2).
 19. After the entire content of the infusion bag(s) is infused, the infusion line must be flushed at the same infusion rate with sodium chloride 9 mg/mL (0.9%) solution for injection to ensure all etranacogene dezaparvovec is delivered.
@@ -842,13 +835,11 @@ CSL Behring GmbH D-35041 Marburg Germany
 
 EU/1/22/1715/001
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
-
-Date of first authorisation: 20 February 2023
-
-Date of latest renewal: 16 January 2026
-
 <div style=\"page-break-after: always\"></div>
+
+9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 20 February 2023 Date of latest renewal: 16 January 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -908,14 +899,14 @@ The MAH shall ensure that in each Member State where Hemgenix is marketed, all h
 - -Physician Educational Material
 - -Patient Information Pack.
 
-The Physician Educational Material consists of:
+## The Physician Educational Material consists of:
 
 - -Guide for Healthcare Professionals;
 - -The Summary of Product Characteristics;
 - -The Patient/Care-giver guide;
 - -The Patient Card.
 
-## The Patient Information Pack consists of:
+The Patient Information Pack consists of:
 
 - -The Patient/Care-giver guide;
 - -The Patient Card;
@@ -970,9 +961,9 @@ Patients should not donate blood, semen, or organs, tissues, and cells for trans
 
 The MAH shall complete, within the stated timeframe, the below measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                | Due date         |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
-| In order to further characterise the long-term efficacy and safety of etranacogene dezaparvovec in adult patients with severe and moderately severe Haemophilia B (congenital Factor IX deficiency) without a history of Factor IX inhibitors, the MAHshould submit the final analysis report of a study from a registry, according to an agreed protocol. | 31 December 2044 |
+| Description                                                                                                                                                                                                                                                                                                                                                 | Due date         |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| In order to further characterise the long-term efficacy and safety of etranacogene dezaparvovec in adult patients with severe and moderately severe Haemophilia B (congenital Factor IX deficiency) without a history of Factor IX inhibitors, the MAH should submit the final analysis report of a study from a registry, according to an agreed protocol. | 31 December 2044 |
 
 ## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE CONDITIONAL MARKETING AUTHORISATION
 
@@ -984,8 +975,8 @@ Due date
 
 <div style=\"page-break-after: always\"></div>
 
-| In order to confirm the efficacy and safety of etranacogene dezaparvovec in adult patients with severe and moderately severe Haemophilia B (congenital Factor IX deficiency) without a history of Factor IX inhibitors, irrespective of baseline anti-AAV5 neutralising antibody titre, theMAH should submit the 1-year follow-up interim analysis report after the first 50 subjects are enrolled in Study CSL222_4001.   | 31 December 2026   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| In order to confirm the efficacy and safety of etranacogene dezaparvovec in adult patients with severe and moderately severe Haemophilia B (congenital Factor IX deficiency) without a history of Factor IX inhibitors, irrespective of baseline anti-AAV5 neutralising antibody titre, the MAH should submit the 1-year follow-up interim analysis report after the first 50 subjects are enrolled in Study CSL222_4001.   | 31 December 2026   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1103,11 +1094,11 @@ Hemgenix 1 x 10 13 genome copies/mL sterile concentrate etranacogene dezaparvove
 
 EXP
 
-4. BATCH NUMBER
+## 4. BATCH NUMBER
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 10 mL
 
@@ -1394,7 +1385,11 @@ CSL Behring GmbH Emil-von-Behring-Strasse 76 D-35041 Marburg Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien CSL Behring NV Tél/Tel: +32 15 28 89 20
+België/Belgique/Belgien
+
+CSL Behring NV
+
+Tél/Tel: +32 15 28 89 20
 
 Luxembourg/Luxemburg
 
@@ -1468,15 +1463,11 @@ Tel: +385 1 5588297
 
 ## Ireland
 
-CSL Behring GmbH
-
-Tel: +49 6190 75 84700
+CSL Behring GmbH Tel: +49 6190 75 84700
 
 ## Ísland
 
-CSL Behring AB
-
-Sími: +46 8 544 966 70
+CSL Behring AB Sími: +46 8 544 966 70
 
 ## Italia
 
@@ -1520,9 +1511,7 @@ CSL Behring AB Tlf: +46 8 544 966 70
 
 ## Österreich
 
-CSL Behring GmbH
-
-Tel: +43 1 80101 1040
+CSL Behring GmbH Tel: +43 1 80101 1040
 
 ## Polska
 
@@ -1532,9 +1521,7 @@ Tel.: +48 22 213 22 65
 
 ## Portugal
 
-CSL Behring Lda
-
-Tel: +351 21 782 62 30
+CSL Behring Lda Tel: +351 21 782 62 30
 
 ## România
 
@@ -1544,23 +1531,15 @@ Tel: +40 21 322 01 71
 
 ## Slovenija
 
-Emmes Biopharma Global s.r.o. - podružnica v
-
-Sloveniji
-
-Tel: +386 41 42 0002
+Emmes Biopharma Global s.r.o. podružnica v Sloveniji Tel: +386 41 42 0002
 
 ## Slovenská republika
 
-CSL Behring Slovakia s.r.o.
-
-Tel: +421 911 653 862
+CSL Behring Slovakia s.r.o. Tel: +421 911 653 862
 
 ## Suomi/Finland
 
-CSL Behring AB
-
-Puh/Tel: +46 8 544 966 70
+CSL Behring AB Puh/Tel: +46 8 544 966 70
 
 ## Sverige
 

@@ -1,30 +1,26 @@
 ---
-document_datetime: 2026-01-06 10:47:19
+document_datetime: 2026-07-16 13:31:43
 document_pages: 43
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vaxneuvance-epar-product-information_en.pdf
 document_name: vaxneuvance-epar-product-information_en.pdf
 version: success
-processing_time: 19.2241884
-conversion_datetime: 2026-01-10 11:10:46.796983
+processing_time: 16.7947458
+conversion_datetime: 2026-07-19 12:26:54.288189
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.1.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identif ication of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -51,6 +47,8 @@ Vaxneuvance suspension for injection in pre-filled syringe Pneumococcal polysacc
 | Pneumococcal polysaccharide serotype 23F 1,2 | 2.0 micrograms   |
 | Pneumococcal polysaccharide serotype 33F 1,2 | 2.0 micrograms   |
 
+1 Conjugated to CRM197 carrier protein. CRM197 is a nontoxic mutant of diphtheria toxin (originating from Corynebacterium diphtheriae C7) expressed recombinantly in Pseudomonas fluorescens . 2 Adsorbed on aluminium phosphate adjuvant.
+
 1 dose (0.5 mL) contains 125 micrograms aluminium (Al 3+ ) and approximately 30 micrograms CRM197 carrier protein.
 
 ## Excipient(s) with known effect
@@ -61,11 +59,9 @@ For the full list of  excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Suspension for injection (injection).
+Suspension for injection (injection)
 
 The vaccine is an opalescent suspension.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4. CLINICAL PARTICULARS
 
@@ -73,7 +69,9 @@ The vaccine is an opalescent suspension.
 
 Vaxneuvance is indicated for active immunisation for the prevention of invasive disease, pneumonia and acute otitis media caused by Streptococcus pneumoniae in inf ants, children and adolescents f rom 6 weeks to less than 18 years of  age.
 
-Vaxneuvance is indicated for active immunisation for the prevention of invasive disease and pneumonia caused by Streptococcus pneumoniae in individuals 18 years of age and older.
+Vaxneuvance is indicated for active immunisation for the prevention of invasive disease and pneumonia caused by Streptococcus pneumoniae in individuals 18 years of  age and older.
+
+<div style=\"page-break-after: always\"></div>
 
 See sections 4.4 and 5.1 for information on protection against specific pneumococcal serotypes.
 
@@ -81,40 +79,40 @@ The use of Vaxneuvance should be in accordance with official recommendations.
 
 ## 4.2 Posology and method of administration
 
-Posology
+## Posology
 
-| Routine vaccination schedule in infants and children aged 6 weeks to less than 2 years       | Routine vaccination schedule in infants and children aged 6 weeks to less than 2 years                                                                                                                                                                                                                                                                                              |
-|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Two-dose primary series followed by a booster dose                                           | The recommended immunisation regimen consists of3 doses of Vaxneuvance, each of0.5 mL. The first dose is given as early as 6 weeks ofage, with a second dose administered 8 weeks later. The third (booster) dose is recommended between 11 through 15 months ofage.                                                                                                                |
-| Three-dose primary series followed by a booster dose                                         | An immunisation regimen consisting of4 doses ofVaxneuvance, each of0.5 mL, may be given. This primary series consists of 3 doses, with the first dose given as early as 6 weeks ofage, with an interval of4 to 8 weeks between doses in the primary series. The fourth (booster) dose is recommended between 11 through 15 months ofage and at least 2 months after the third dose. |
-| Preterm infants (<37 weeks gestation at birth)                                               | The recommended immunisation regimen consists ofa three-dose primary series ofVaxneuvance followed by a fourth (booster) dose, each of0.5 mL, as per three-dose primary series followed by a booster dose posology (see sections 4.4 and 5.1).                                                                                                                                      |
-| Prior vaccination with another pneumococcal conjugate vaccine                                | Infants and children who have begun immunisation with another pneumococcal conjugate vaccine may switch to Vaxneuvance at any point in the schedule (see section 5.1).                                                                                                                                                                                                              |
-| Catch-up vaccination schedule for children 7 months to less than 18 years ofage              | Catch-up vaccination schedule for children 7 months to less than 18 years ofage                                                                                                                                                                                                                                                                                                     |
-| Unvaccinated infants 7 to less than 12 months of age                                         | 3 doses, each of0.5 mL, with the first two doses given at least 4 weeks apart. Athird (booster) dose is recommended after 12 months ofage, separated from the second dose by at least 2 months.                                                                                                                                                                                     |
-| Unvaccinated children 12 months to less than 2 years of age                                  | 2 doses, each of0.5 mL, with an interval of2 months between doses.                                                                                                                                                                                                                                                                                                                  |
-| Unvaccinated or not fully vaccinated children and adolescents 2 to less than 18 years of age | 1 dose (0.5 mL). Ifa previous pneumococcal conjugate vaccine was administered, at least 2 months should elapse before administering Vaxneuvance.                                                                                                                                                                                                                                    |
-
-<div style=\"page-break-after: always\"></div>
-
-| Vaccination schedule for individuals 18 years ofage and older   | Vaccination schedule for individuals 18 years ofage and older                                              |
-|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| Individuals 18 years of age and older                           | 1 dose (0.5 mL). The need for revaccination with a subsequent dose ofVaxneuvance has not been established. |
+| Routine vaccination schedule in infants and children aged 6 weeks to less than 2 years       | Routine vaccination schedule in infants and children aged 6 weeks to less than 2 years                                                                                                                                                                                                                                                                                                    |
+|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Two-dose primary series followed by a booster dose                                           | The recommended immunisation regimen consists of 3 doses of Vaxneuvance, each of 0.5 mL. The first dose is given as early as 6 weeks of age, with a second dose administered 8 weeks later. The third (booster) dose is recommended between 11 through 15 months of age.                                                                                                                  |
+| Three-dose primary series followed by a booster dose                                         | An immunisation regimen consisting of 4 doses of Vaxneuvance, each of 0.5 mL, may be given. This primary series consists of 3 doses, with the first dose given as early as 6 weeks of age, with an interval of 4 to 8 weeks between doses in the primary series. The fourth (booster) dose is recommended between 11 through 15 months of age and at least 2 months after the third dose. |
+| Preterm infants (<37 weeks gestation at birth)                                               | The recommended immunisation regimen consists of a three-dose primary series of Vaxneuvance followed by a fourth (booster) dose, each of 0.5 mL, as per three-dose primary series followed by a booster dose posology (see sections 4.4 and 5.1).                                                                                                                                         |
+| Prior vaccination with another pneumococcal conjugate vaccine                                | Infants and children who have begun immunisation with another pneumococcal conjugate vaccine may switch to Vaxneuvance at any point in the schedule (see section 5.1).                                                                                                                                                                                                                    |
+| Catch-up vaccination schedule for children 7 months to less than 18 years of age             | Catch-up vaccination schedule for children 7 months to less than 18 years of age                                                                                                                                                                                                                                                                                                          |
+| Unvaccinated infants 7 to less than 12 months of age                                         | 3 doses, each of 0.5 mL, with the first two doses given at least 4 weeks apart. A third (booster) dose is recommended after 12 months of age, separated from the second dose by at least 2 months.                                                                                                                                                                                        |
+| Unvaccinated children 12 months to less than 2 years of age                                  | 2 doses, each of 0.5 mL, with an interval of 2 months between doses.                                                                                                                                                                                                                                                                                                                      |
+| Unvaccinated or not fully vaccinated children and adolescents 2 to less than 18 years of age | 1 dose (0.5 mL). If a previous pneumococcal conjugate vaccine was administered, at least 2 months should elapse before administering Vaxneuvance.                                                                                                                                                                                                                                         |
+| Vaccination schedule for individuals 18 years of age and older                               | Vaccination schedule for individuals 18 years of age and older                                                                                                                                                                                                                                                                                                                            |
+| Individuals 18 years of age and older                                                        | 1 dose (0.5 mL). The need for revaccination with a subsequent dose of Vaxneuvance has not been established.                                                                                                                                                                                                                                                                               |
 
 ## Special populations
 
-One or more doses of Vaxneuvance may be given to individuals who have one or more underlying conditions predisposing them to an increased risk of pneumococcal disease (such as individuals with sickle cell disease or living with human immunodeficiency virus (HIV) infection or recipients of haematopoietic stem cell transplant (HSCT) or immunocompetent individuals 18 to 49 years of age with risk factors f or pneumococcal disease; see section 5.1).
+One or more doses of Vaxneuvance may be given to individuals who have one or more underlying conditions predisposing them to an increased risk of pneumococcal disease (such as individuals with sickle cell disease or living with human immunodeficiency virus (HIV) infection or recipients of haematopoietic stem cell transplant (HSCT) or immunocompetent individuals 18 to 49 years of age with risk factors for pneumococcal disease; see section 5.1).
+
+<div style=\"page-break-after: always\"></div>
+
+## Paediatric population (infants less than 6 weeks)
+
+The safety and efficacy of Vaxneuvance in infants less than 6 weeks of age have not been established. No data are available.
 
 ## Method of administration
 
 The vaccine should be administered by intramuscular injection. The preferred site is the anterolateral aspect of the thigh in inf ants or the deltoid muscle of  the upper arm in children and adults.
 
-No data are available for administration via the intradermal route.
-
 For instructions on the handling of the vaccine before administration, see section 6.6.
 
 ## 4.3 Contraindications
 
-Hypersensitivity to the active substances, to any of the excipients listed in section 6.1, or to any diphtheria toxoid-containing vaccine.
+Hypersensitivity to the active substances, to any of  the excipients listed in section 6.1, or to any diphtheria toxoid-containing vaccine.
 
 ## 4.4 Special warnings and precautions for use
 
@@ -138,11 +136,11 @@ Vaccination should be postponed in individuals suffering from acute severe febri
 
 As with other intramuscular injections, the vaccine should be given with caution to individuals receiving anticoagulant therapy, or to those with thrombocytopenia or any coagulation disorder such as haemophilia. Bleeding or bruising may occur following an intramuscular administration in these individuals. Vaxneuvance may be given subcutaneously if the potential benefit clearly outweighs the risks (see section 5.1).
 
+## Apnoea in premature infants
+
+The potential risk of apnoea and the need for respiratory monitoring for 48-72 hours should be considered when administering the primary immunisation series to very premature infants (born ≤ 28 weeks of gestation) and particularly for those with a previous history of respiratory immaturity. As the benefit of vaccination is high in this group of inf ants, vaccination generally should not be withheld or delayed.
+
 <div style=\"page-break-after: always\"></div>
-
-## Apnoea in premature inf ants
-
-The potential risk of apnoea and the need for respiratory monitoring for 48-72 hours should be considered when administering the primary immunisation series to very premature inf ants (born ≤ 28 weeks of gestation) and particularly for those with a previous history of respiratory immaturity. As the benefit of vaccination is high in this group of  infants, vaccination generally should not be withheld or delayed.
 
 ## Immunocompromised individuals
 
@@ -158,7 +156,7 @@ As with any vaccine, vaccination with Vaxneuvance may not protect all vaccine re
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 milligrams) per dose, i.e., essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol sodium (23 milligrams) per dose, that is to say essentially 'sodium -free'.
 
 ## Polysorbate 20
 
@@ -174,35 +172,35 @@ Immunosuppressive therapies may reduce the immune responses to vaccines.
 
 Vaxneuvance can be given concomitantly with any of the following vaccine antigens, either as monovalent or combination vaccines: diphtheria, tetanus, pertussis, poliomyelitis (serotypes 1, 2 and 3), hepatitis A, hepatitis B, Haemophilus influenzae type b, measles, mumps, rubella, varicella and rotavirus vaccine.
 
-## Children and adolescents 2 to less than 18 years of  age
+## Children and adolescents 2 to less than 18 years of age
 
 There are no data on the concomitant administration of Vaxneuvance with other vaccines.
 
 Data from a post-marketing clinical study evaluating the impact of prophylactic use of antipyretics (ibuprofen and paracetamol) on the immune response to other pneumococcal vaccines suggest that administration of antipyretics concomitantly or within the same day of vaccination may reduce the immune response after the infant series. Responses to the booster dose administered at 12 months were unaffected. The clinical signif icance of this observation is unknown.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Adults
 
 Vaxneuvance can be administered concomitantly with seasonal quadrivalent influenza vaccine (split virion, inactivated). There are no data on the concomitant administration of Vaxneuvance with other vaccines.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy, and lactation
 
 ## Pregnancy
 
-There is limited experience with the use of  Vaxneuvance in pregnant women.
+There is limited experience with the use of Vaxneuvance in pregnant women.
 
-Animal studies do not indicate direct or indirect harmf ul effects with respect to pregnancy, embryo/foetal development, parturition or post-natal development (see section 5.3).
+Animal studies do not indicate direct or indirect harmf ul effects with respect to reproductive toxicity (see section 5.3).
 
-Administration of Vaxneuvance in pregnancy should only be considered when the potential benefits outweigh any potential risks for the mother and the foetus.
+Administration of Vaxneuvance in pregnancy should only be considered when the potential benefits outweigh any potential risks for the mother and the f oetus.
 
 ## Breast-feeding
 
-It is unknown whether Vaxneuvance is excreted in human milk.
+It is unknown whether Vaxneuvance is excreted in human milk. Human data are not available to assess the impact of Vaxneuvance on milk production, its presence in breast milk, or its ef fects on the breastfed child. The developmental and health benefits of breastf eeding should be considered along with the mother's cli nical need and any potential adverse ef fects on the breastfed child or from the underlying maternal condition. For preventive vaccines, the underlying condition is susceptibility to disease prevented by the vaccine.
 
 ## Fertility
 
-No human data on the effect of Vaxneuvance on fertility are available. Animal studies in female rats do not indicate harmful effects (see section 5.3).
+No human data on the effect of Vaxneuvance on fertility are available. Animal studies in female rats do not indicate harmf ul eff ects (see section 5.3).
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -212,110 +210,114 @@ Vaxneuvance has no or negligible influence on the ability to drive and use machi
 
 ## Summary of the safety profile
 
-## Paediatric population
+Infants and children aged 6 weeks to less than 2 years
 
-## Infants and children aged 6 weeks to less than 2 years
+The safety of Vaxneuvance in healthy infants, including preterm infants (from 6 weeks of age at f irst vaccination) and children (11 through 15 months of age) was assessed as a 3 dose or 4 dose regimen in 5 clinical studies with a total of  7 229 participants.
 
-The safety of Vaxneuvance in healthy infants, including preterm infants (f rom 6 weeks of age at f irst vaccination) and children (11 through 15 months of age) was assessed as a 3 dose or 4 dose regimen in 5 clinical studies with a total of 7,229 participants.
+All 5 studies evaluated the safety of Vaxneuvance when administered concomitantly with other routine paediatric vaccines.
 
-All 5 studies evaluated the safety of Vaxneuvance when administered concomitantly with other routine paediatric vaccines. In these studies, 4,286 participants received a complete regimen of Vaxneuvance, 2,405 participants received a complete regimen of the 13-valent pneumococcal conjugate vaccine (PCV) and 538 participants received Vaxneuvance when used to complete a regimen initiated with the 13-valent PCV (mixed dose regimen).
-
-The most frequent adverse reactions were pyrexia ≥38 °C (75.2%), irritability (74.5%), somnolence (55.0%), injection-site pain (44.4%), injection-site erythema (41.7%), decreased appetite (38.2%), injection-site induration (28.3%) and injection-site swelling (28.2%) based on results in 3,589 participants (Table 1), excluding participants who received a mixed dose regimen. The majority of solicited adverse reactions were mild to moderate (based on intensity or size) and of short duration (≤3 days). Severe reactions (defined as being extremely distressed or unable to do usual activities or
+The most frequent adverse reactions are pyrexia ≥38 °C (75%), irritability (75%), somnolence (55%), injection-site pain (44%), injection-site erythema (42%), decreased appetite (38%), injection-site induration (28%) and injection-site swelling (28%). The majority of adverse reactions were mild to moderate (based on i ntensity or size) and of   short duration (≤3 days). Severe reactions (def ined as being extremely distressed or unable to do usual activities or size of injection-site reaction &gt;8 cm) occurred in ≤ 4% of infants and children following any dose, with the exception of irritability which occurred in 11% of participants.
 
 <div style=\"page-break-after: always\"></div>
 
-size of injection site reaction &gt;7.6 cm) occurred in ≤ 3.5% of infants and children f ollowing any dose, with the exception of irritability which occurred in 11.4% of participants.
-
 ## Children and adolescents 2 to less than 18 years of age
 
-The safety of Vaxneuvance in healthy children and adolescents was assessed in a study that included 352 participants 2 to less than 18 years of age, of whom 177 received a single dose of Vaxneuvance. In this age cohort, 42.9% of  all participants had a history of previous vaccination with a lower valency pneumococcal conjugate vaccine.
+The safety of Vaxneuvance in healthy children and adolescents was assessed in a study that included 352 participants 2 to less than 18 years of age, of whom 177 received a single dose of Vaxneuvance. In this age cohort, 43% of all participants had a history of previous vaccination with a lower valency pneumococcal conjugate vaccine.
 
-The most frequent adverse reactions were injection-site pain (54.8%), myalgia (23.7%), injection-site swelling (20.9%), injection-site erythema (19.2%), fatigue (15.8%), headache (11.9%), injection-site induration (6.8%), and pyrexia ≥38 °C (5.6%) (Table 1). The majority of solicited adverse reactions were mild to moderate (based on intensity or size) and of  short duration (≤3 days); severe reactions (defined as being extremely distressed or unable to do usual activities or size of injection site reaction &gt;7.6 cm) occurred in ≤4.5% of children and adolescents.
+The most frequent adverse reactions are injection-site pain (55%), myalgia (24%), injection-site swelling (21%), injection-site erythema (19%), fatigue (16%), headache (12%), injection-site induration (7%), and pyrexia ≥ 38 C (6%). The majority of adverse reactions were mild to moderate (based on intensity or size) and of short duration ( ≤ 3 days); severe reactions (def ined as being extremely distressed or unable to do usual activities or size of injection-site reaction &gt;8 cm) occurred in ≤ 5% of children and adolescents.
 
 ## Adults 18 years of age and older
 
-The safety of Vaxneuvance in healthy and immunocompetent adults was assessed in 6 clinical studies in 7,136 adults ≥18 years of  age. An additional clinical study assessed 302 adults ≥18 years of age living with HIV. Vaxneuvance was administered to 5,630 adults; 1,241 were 18 to 49 years of age, 1,911 were 50 to 64 years of age, and 2,478 were 65 years of age and older. Of those who received Vaxneuvance, 1,134 were immunocompetent adults 18 to 49 years of age who had no (n=285), 1 (n=620) or ≥ 2 (n=229) risk factors for pneumococcal disease and 152 were adults ≥18 years of  age living with HIV. In addition, 5,253 adults were pneumococcal vaccine-naïve and 377 adults were previously vaccinated with 23-valent pneumococcal polysaccharide vaccine (PPV23) at least 1 year prior to enrollment.
+The safety of Vaxneuvance in healthy and immunocompetent adults was assessed in 6 clinical studies in 7 136 adults ≥18 years of  age. An additional clinical study assessed 302 adults ≥18 years of  age living with HIV. Vaxneuvance was administered to 5 630 adults; 1,241 were 18 to 49 years of age, 1 911 were 50 to 64 years of age, and 2 478 were 65 years of age and older. Of those who received Vaxneuvance, 1 134 were immunocompetent adults 18 to 49 years of age who had no (n=285), 1 (n=620) or ≥ 2 (n=229) risk factors for pneumococcal disease and 152 were adults ≥18 years of age living with HIV.
 
-The most frequently reported adverse reactions following vaccination with Vaxneuvance were solicited. In the pooled analysis of the 7 studies, the most f requent adverse reactions were injectionsite pain (64.6%), f atigue (23.4%), myalgia (20.7%), headache (17.3%), injection-site swelling (16.1%), injection-site erythema (11.3%) and arthralgia (7.9%) (Table 1). The majority of solicited adverse reactions were mild (based on intensity or size) and of  short duration (≤3 days); severe reactions (defined as an event that prevents normal daily activity or size of injection site reaction &gt;10 cm) occurred in ≤1.5% of adults across the clinical program.
-
-Older adults reported fewer adverse reactions than younger adults.
+The most frequent adverse reactions are injection-site pain (65%), fatigue (23 %), myalgia (21%), headache (17%), injection-site swelling (16%), injection-site erythema (11%) and arthralgia (8%). The majority of adverse reactions were mild (based on intensi ty or size) and of  short duration (≤3 days); severe reactions (defined as an event that prevents normal daily activity or size of  injection-site reaction &gt;10 cm) occurred in ≤ 2% of adults across the clinical program.
 
 ## Tabulated list of adverse reactions
 
-In clinical studies of adults, local and systemic adverse reactions were solicited daily after vaccination for 5 and 14 days, respectively and in infants, children and adolescents up to 14 days af ter vaccination. In all populations, unsolicited adverse reactions were reported for 14 days after vaccination.
+Adverse reactions associated with Vaxneuvance obtained from clinical studies, enrolling participants aged at least 6 weeks and older (N=10 996), and post-marketing surveillance are tabulated below.
 
 Adverse reactions reported for all age groups are listed in this section per system organ class, in decreasing order of frequency and seriousness. The frequency is defined as follows:
 
 - -Very common (≥1/10)
 - -Common (≥1/100 to &lt;1/10)
-- -Uncommon (≥1/1,000 to &lt;1/100)
-- -Rare (≥1/10,000 to &lt;1/1,000)
-- -Very rare (&lt;1/10,000)
+- -Uncommon (≥1/1 000 to &lt;1/100)
+- -Rare (≥1/10 000 to &lt;1/1 000)
+- -Very rare (&lt;1/10 000)
 - -Not known (cannot be estimated from the available data).
 
 <div style=\"page-break-after: always\"></div>
 
-Table 1: Tabulated list of adverse reactions
+## Table 1: Adverse reactions
 
-| System Organ Class                                   | Adverse Reactions                                                                 | Frequency                    | Frequency                    | Frequency   |
-|------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------|------------------------------|-------------|
-|                                                      |                                                                                   | Infants/Children/Adolescents | Infants/Children/Adolescents | Adults      |
-|                                                      |                                                                                   | 6Wto <2Y                     | 2 to <18Y §                  |             |
-| Metabolism and nutrition disorders                   | Decreased appetite                                                                | Very common                  | Common                       | -           |
-| Psychiatric disorders                                | Irritability                                                                      | Very common                  | Common                       | -           |
-| Immune system disorders                              | Hypersensitivity reaction including tongue oedema, flushing, and throat tightness | -                            | -                            | Rare        |
-| Nervous system disorders                             | Somnolence                                                                        | Very common                  | Common                       | -           |
-| Nervous system disorders                             | Headache                                                                          | -                            | Very common                  | Very common |
-| Nervous system disorders                             | Dizziness                                                                         | -                            | -                            | Uncommon †  |
-| Skin and subcutaneous tissue disorders               | Urticaria                                                                         | Common                       | Common                       | Rare        |
-| Skin and subcutaneous tissue disorders               | Rash                                                                              | Common                       | Not known ‡                  | Uncommon    |
-| Gastrointestinal disorders                           | Nausea                                                                            | -                            | Common                       | Uncommon †  |
-| Gastrointestinal disorders                           | Vomiting                                                                          | Common                       | Uncommon                     | Uncommon    |
-| Musculoskeletal and connective tissue disorders      | Myalgia                                                                           | -                            | Very common                  | Very common |
-| Musculoskeletal and connective tissue disorders      | Arthralgia                                                                        | -                            | -                            | Common*     |
-| General disorders and administration site conditions | Pyrexia ⸸                                                                         | Very common                  | Common                       | Uncommon †  |
-| General disorders and administration site conditions | ≥ 39°C                                                                            | Very common                  | -                            | -           |
-| General disorders and administration site conditions | ≥40 °C                                                                            | Common                       | -                            | -           |
-| General disorders and administration site conditions | Injection-site pain                                                               | Very common                  | Very common                  | Very common |
-| General disorders and administration site conditions | Injection-site erythema                                                           | Very common                  | Very common                  | Very common |
-| General disorders and administration site conditions | Injection-site swelling                                                           | Very common                  | Very common                  | Very common |
-| General disorders and administration site conditions | Injection-site induration                                                         | Very common                  | Common                       | -           |
-| General disorders and administration site conditions | Injection-site urticaria                                                          | Uncommon                     | -                            | -           |
-| General disorders and administration site conditions | Fatigue                                                                           | -                            | Very common                  | Very common |
-| General disorders and administration site conditions | Injection-site pruritus                                                           | -                            | -                            | Common      |
-| General disorders and administration site conditions | Injection-site warmth                                                             | -                            | -                            | Uncommon    |
-| General disorders and administration site conditions | Injection-site bruising/haematoma                                                 | Common                       | Common                       | Uncommon    |
-| General disorders and administration site conditions | Chills                                                                            | -                            | -                            | Uncommon †  |
+| System Organ Class                                               | Adverse reactions                                                                 | Frequency                      | Frequency                      | Frequency   |
+|------------------------------------------------------------------|-----------------------------------------------------------------------------------|--------------------------------|--------------------------------|-------------|
+| System Organ Class                                               | Adverse reactions                                                                 | Infants/Children/Adolescents ◊ | Infants/Children/Adolescents ◊ | Adults ¶    |
+| System Organ Class                                               | Adverse reactions                                                                 | 6W to <2Y ‖                    | 2 to <18Y §                    |             |
+| Immune system disorders                                          | Hypersensitivity reaction including tongue oedema, flushing, and throat tightness | -                              | -                              | Rare        |
+| Metabolism and nutrition disorders                               | Decreased appetite                                                                | Very common                    | Common                         | -           |
+| Psychiatric disorders                                            | Irritability                                                                      | Very common                    | Common                         | -           |
+| Nervous system disorders                                         | Somnolence                                                                        | Very common                    | Common                         | -           |
+| Nervous system disorders                                         | Headache                                                                          | -                              | Very common                    | Very common |
+| Nervous system disorders                                         | Dizziness                                                                         | -                              | -                              | Uncommon †  |
+| Gastrointestinal disorders                                       | Nausea                                                                            | -                              | Common                         | Uncommon †  |
+| Gastrointestinal disorders                                       | Vomiting                                                                          | Common                         | Uncommon                       | Uncommon    |
+| Skin and subcutaneous                                            | Urticaria                                                                         | Common                         | Common                         | Rare        |
+| Skin and subcutaneous                                            | Rash                                                                              | Common                         | Not known ‡                    | Uncommon    |
+| tissue disorders Musculoskeletal and connective tissue disorders | Myalgia                                                                           | -                              | Very common                    | Very common |
+| tissue disorders Musculoskeletal and connective tissue disorders | Arthralgia                                                                        | -                              | -                              | Common*     |
+| General disorders and administration site conditions             | Pyrexia ⸸                                                                         | Very common                    | Common                         | Uncommon †  |
+| General disorders and administration site conditions             | ≥39°C                                                                             | Very common                    | -                              | -           |
+| General disorders and administration site conditions             | ≥40 °C                                                                            | Common                         | -                              | -           |
+| General disorders and administration site conditions             | Injection-site pain                                                               | Very common                    | Very common                    | Very common |
+| General disorders and administration site conditions             | Injection-site erythema                                                           | Very common                    | Very common                    | Very common |
+| General disorders and administration site conditions             | Injection-site swelling                                                           | Very common                    | Very common                    | Very common |
+| General disorders and administration site conditions             | Injection-site induration                                                         | Very common                    | Common                         | -           |
+| General disorders and administration site conditions             | Injection-site urticaria                                                          | Uncommon                       | -                              | -           |
+| General disorders and administration site conditions             | Fatigue                                                                           | -                              | Very common                    | Very common |
+| General disorders and administration site conditions             | Injection-site pruritus                                                           | -                              | -                              | Common      |
+| General disorders and administration site conditions             | Injection-site warmth                                                             | -                              | -                              | Uncommon    |
+| General disorders and administration site conditions             | Injection-site bruising/haematoma                                                 | Common                         | Common                         | Uncommon    |
+| General disorders and administration site conditions             | Chills                                                                            | -                              | -                              | Uncommon †  |
 
-§ Different systemic adverse events were solicited for participants 2 to &lt;3 years of   age, than f or participants  ≥3  to  less  than  18  years of   age. For participants &lt;3 years of age (Vaxneuvance N=32, 13-valent PCV N=28), decreased appetite, irritability, somnolence and urticaria were solicited f rom Day 1 through Day 14 following vacc ination. For participants ≥3 to  less than 18 years  of   age, f atigue, headache,  myalgia,  and urticaria were solicited f rom Day 1 through Day 14 following vaccination.
+¶ In adults, local and systemic adverse reactions were solicited daily af ter vaccination f or 5 and 14 days, respectively.
 
-† common in adults 18 to 49 years of age
+◊ In inf ants, children and adolescents, local and systemic adverse reactions were solicited up to 14 days af ter vaccination.
 
-‡ In clinical trials, no events were observed f ollowing Vaxneuvance in healthy children and adolescents and two events were observed in special populations (sickle cell disease and HIV).
+§ Different systemic adverse reactions were solicited f or participants 2 to &lt;3 years of   age, than f or participants  ≥3  to  less  than  18 years  of   age. For participants &lt;3 years of age (Vaxneuvance N=32, 13-valent PCV N=28), decreased appetite, irritability, somnolence and urticaria were solicited f rom Day 1 through Day 14 f ollowing vaccination. For participants ≥3 to  less than 18 years of   age, f atigue, headach e, myalgia, and urticaria were solicited f rom Day 1 through Day 14 f ollowing vaccination.
 
-*very common in adults 18 to 49 years of age
+† common in adults 18 to 49 years of  age
 
-⸸ def ined as  temperature ≥38 °C
+‡ In clinical trials, no reactions were observed f ollowing Vaxneuvance in healthy children and adolescents and two reactions were observed in special populations (sickle cell disease and HIV).
+
+* very common in adults 18 to 49 years of age
+
+⸸ def ined  as  temperature ≥38 °C
+
+‖ based on results in 3 589 participants excluding participants who received a mixed dose regimen.
+
+<div style=\"page-break-after: always\"></div>
+
+## Description of selected adverse reactions.
+
+I n clinical studies older adults (≥50 years of  age) reported lower f requencies of   solicited local and systemic adverse reactions compared with younger adults (18 -49 years of age). This dif f erence was observed primarily for reactogenicity reactions, including injection-site reactions (pain, erythema and swelling) and systemic reactions such as fatigue, headache, myalgia, arthralgia and fever.
 
 ## Additional information for other dosing regimens, vaccination schedules and special populations
 
 ## Mixed dose regimen of different pneumococcal conjugate vaccines
 
-The safety profiles of  mixed 4-dose regimens of  Vaxneuvance and the 13-valent PCV in healthy infants and children were generally comparable to those of complete 4-dose regimens of either Vaxneuvance or the 13-valent PCV (see section 5.1).
+The safety profiles of  mixed 4-dose regimens of Vaxneuvance and the 13-valent PCV in healthy infants and children were generally comparable to those of complete 4-dose regimens of either Vaxneuvance or the 13-valent PCV (see section 5.1).
 
 ## Catch-up vaccination schedule
 
-Safety was also assessed as a catch-up vaccination schedule in 126 healthy infants and children f rom 7 months to less than 2 years of  age who received 2 or 3 doses of Vaxneuvance based on age at enrollment. The safety profile of the catch-up vaccination schedule was generally consistent with the safety profile of  the routine vaccination schedule initiated from 6 weeks of age (see section 5.1).
-
-<div style=\"page-break-after: always\"></div>
+Safety was also assessed as a catch-up vaccination schedule in 126 healthy inf ants and children from 7 months to less than 2 years of  age who received 2 or 3 doses of Vaxneuvance based on age at enrollment. The safety profile of the catch-up vaccination schedule was generally consistent with the safety prof ile of  the routine vaccination schedule initiated f rom 6 weeks of age (see section 5.1).
 
 ## Children and adolescents with sickle cell disease or living with HIV
 
-Safety was also assessed in 69 children and adolescents 5 to less than 18 years of age with sickle cell disease and in 203 children and adolescents 6 to less than 18 years of  age living with HIV, all of whom received a single dose of Vaxneuvance. The safety profile of Vaxneuvance in children with these conditions was generally consistent with the saf ety prof ile in healthy children (see section 5.1).
+Safety was also assessed in 69 children and adolescents 5 to less than 18 years of  age with sickle cell disease and in 203 children and adolescents 6 to less than 18 years of age living with HIV, all of whom received a single dose of Vaxneuvance. The safety profile of Vaxneuvance in children with these conditions was generally consistent with the saf ety prof ile in healthy children (see section 5.1).
 
-## Children and adults receiving Haematopoietic Stem Cell Transplant
+## Children and adults receiving haematopoietic stem cell transplant
 
-Safety was also assessed in 131 adults and 8 children ≥3 years of  age who had received an allogeneic haematopoietic stem cell transplant (allo-HSCT) 3 to 6 months prior to enrollment, all of  whom received between 1 and 4 doses of Vaxneuvance. The safety profile of Vaxneuvance in recipients of allo-HSCT was generally consistent with the safety profile in a healthy population.
+Safety was also assessed in 131 adults and 8 children ≥3 years of  age who had received an allogeneic haematopoietic stem cell transplant (allo-HSCT) 3 to 6 months prior to enrollment, all of whom received between 1 and 4 doses of Vaxneuvance. The safety profile of Vaxneuvance in recipients of allo-HSCT was generally consistent with the safety profile in a healthy population.
 
 ## Reporting of suspected adverse reactions
 
@@ -335,13 +337,13 @@ Pharmacotherapeutic group: vaccines, pneumococcal vaccines, ATC code: J07AL02
 
 Vaxneuvance contains 15 purified pneumococcal capsular polysaccharides from Streptococcus pneumoniae (1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, 23F, with the additional serotypes 22F and 33F), each conjugated to a carrier protein (CRM197). Vaxneuvance elicits a T-cell dependent immune response to induce antibodies that enhance opsonisation, phagocytosis, and killing of pneumococci to protect against pneumococcal disease.
 
+<div style=\"page-break-after: always\"></div>
+
 Immune responses following natural exposure to Streptococcus pneumoniae or f ollowing pneumococcal vaccination can be determined by measuring opsonophagocytic activity (OPA) and immunoglobulin G (IgG) responses. OPA represents functional antibodies and is considered an important immunologic surrogate measure of protection against pneumococcal disease in adults. In children, a serotypespecif ic IgG antibody level corresponding to ≥0.35 µg/mL using the WHO enzyme linked immunosorbent assay (ELISA) has been used as the threshold value for the clinical evaluation of pneumococcal conjugate vaccines.
 
 ## Clinical immunogenicity in healthy infants, children and adolescents
 
 Immunogenicity was assessed by serotype-specific IgG response rates (the proportion of participants meeting the serotypespecif ic IgG threshold value of  ≥0.35 µg/mL) and IgG geometric mean concentrations (GMCs) at 30 days following the primary series and/or following the toddler (booster) dose. In a subset of participants, OPA geometric mean titres (GMTs) were also measured at 30 days following the primary series and/or following the toddler dose.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Infants and children receiving a routine vaccination schedule
 
@@ -349,35 +351,41 @@ Immunogenicity was assessed by serotype-specific IgG response rates (the proport
 
 In the double-blind, active comparator-controlled study (Protocol 025), 1,184 participants were randomised to receive Vaxneuvance or the 13-valent PCV in a 3-dose regimen. The first two doses were administered to infants at 2 and 4 months of age (primary series) and the third dose was administered to children at 11 through 15 months of age (toddler dose). Participants also received other paediatric vaccines concomitantly, including Rotavirus vaccine (live) with the infant primary series and Diphtheria, Tetanus, Pertussis (acellular), Hepatitis B (rDNA), Poliomyelitis (inactivated), Haemophilus influenzae type b conjugate vaccine (adsorbed) with all 3 doses in the complete regimen.
 
-Vaxneuvance elicits immune responses, as assessed by IgG response rates, IgG GMCs and OPA GMTs, for all 15 serotypes contained in the vaccine. At 30 days following the two-dose primary series, serotype-specif ic IgG response rates and GMCs were generally comparable for the 13 shared serotypes and higher for the 2 additional serotypes (22F and 33F) in Vaxneuvance recipients, compared to the 13-valent PCV recipients (Table 2). At 30 days following the toddler dose, Vaxneuvance is noninferior to the 13-valent PCV for the 13 shared serotypes and superior for the 2 additional serotypes, as assessed by IgG response rate and IgG GMCs (Table 3).
+Vaxneuvance elicits immune responses, as assessed by IgG response rates, IgG GMCs and OPA GMTs, for all 15 serotypes contained in the vaccine. At 30 days following the two-dose primary series, serotype-specif ic IgG response rates and GMCs were generally comparable for the 13 shared serotypes and higher for the 2 additional serotypes (22F and 33F) in Vaxneuvance recipients, compared to the 13-valent PCV recipients (Table 2). At 30 days following the toddler dose, Vaxneuvance is non-inferior to the 13-valent PCV for the 13 shared serotypes and superior for the 2 additional serotypes, as assessed by IgG response rate and IgG GMCs (Table 3).
 
 <div style=\"page-break-after: always\"></div>
 
 Table 2: Serotype-specific IgG response rates and IgG GMCs at 30 days following the 2-dose primary series (3-dose regimen, Protocol 025)
 
-|                                         | IgG response rates ≥0.35 µg/mL          | IgG response rates ≥0.35 µg/mL          | IgG response rates ≥0.35 µg/mL                                       | IgGGMCs                                 | IgGGMCs                                 | IgGGMCs                                            |
-|-----------------------------------------|-----------------------------------------|-----------------------------------------|----------------------------------------------------------------------|-----------------------------------------|-----------------------------------------|----------------------------------------------------|
-| Pneumococcal Serotype                   | Vaxneuvance (n=497)                     | 13-valent PCV (n=468- 469) Observed     | Percentage Point Difference* (Vaxneuvance - 13-valent PCV) (95% CI)* | Vaxneuvance (n=497)                     | 13-valent PCV (n=468- 469)              | GMCRatio** (Vaxneuvance/ 13-valent PCV) (95% CI)** |
-| Pneumococcal Serotype                   | Observed Response Percentage            | Response Percentage                     |                                                                      | GMC                                     | GMC                                     |                                                    |
-| 13 Shared Serotypes †                   | 13 Shared Serotypes †                   | 13 Shared Serotypes †                   | 13 Shared Serotypes †                                                | 13 Shared Serotypes †                   | 13 Shared Serotypes †                   | 13 Shared Serotypes †                              |
-| 1                                       | 95.6                                    | 97.4                                    | -1.9 (-4.3, 0.5)                                                     | 1.30                                    | 1.60                                    | 0.81 (0.74, 0.89)                                  |
-| 3                                       | 93.2                                    | 66.1                                    | 27.1 (22.3, 31.9)                                                    | 0.87                                    | 0.45                                    | 1.91 (1.75, 2.08)                                  |
-| 4                                       | 93.8                                    | 96.8                                    | -3.0 (-5.9, -0.4)                                                    | 1.40                                    | 1.25                                    | 1.12 (1.01, 1.24)                                  |
-| 5                                       | 84.1                                    | 88.1                                    | -4.0 (-8.3, 0.4)                                                     | 0.88                                    | 1.03                                    | 0.86 (0.76, 0.97)                                  |
-| 6A                                      | 72.6                                    | 92.3                                    | -19.7 (-24.3, - 15.1)                                                | 0.64                                    | 1.39                                    | 0.46 (0.40, 0.53)                                  |
-| 6B                                      | 57.7                                    | 50.2                                    | 7.5 (1.2, 13.8)                                                      | 0.43                                    | 0.33                                    | 1.31 (1.11, 1.56)                                  |
-| 7F                                      | 97.8                                    | 98.9                                    | -1.1 (-3.0, 0.5)                                                     | 2.03                                    | 2.42                                    | 0.84 (0.76, 0.92)                                  |
-| 9V                                      | 88.3                                    | 95.3                                    | -7.0 (-10.5, -3.6)                                                   | 1.23                                    | 1.39                                    | 0.88 (0.78, 0.99)                                  |
-| 14                                      | 96.8                                    | 97.2                                    | -0.4 (-2.7, 1.8)                                                     | 3.81                                    | 4.88                                    | 0.78 (0.68, 0.90)                                  |
-| 18C                                     | 92.2                                    | 92.5                                    | -0.4 (-3.8, 3.0)                                                     | 1.16                                    | 1.30                                    | 0.89 (0.80, 0.99)                                  |
-| 19A                                     | 96.2                                    | 97.2                                    | -1.1 (-3.4, 1.3)                                                     | 1.68                                    | 2.09                                    | 0.81 (0.72, 0.90)                                  |
-| 19F                                     | 98.8                                    | 99.4                                    | -0.6 (-2.0, 0.8)                                                     | 2.63                                    | 3.35                                    | 0.79 (0.71, 0.87)                                  |
-| 23F                                     | 77.9                                    | 70.1                                    | 7.8 (2.3, 13.3)                                                      | 0.75                                    | 0.58                                    | 1.30 (1.14, 1.50)                                  |
-| 2 Additional Serotypes in Vaxneuvance ‡ | 2 Additional Serotypes in Vaxneuvance ‡ | 2 Additional Serotypes in Vaxneuvance ‡ | 2 Additional Serotypes in Vaxneuvance ‡                              | 2 Additional Serotypes in Vaxneuvance ‡ | 2 Additional Serotypes in Vaxneuvance ‡ | 2 Additional Serotypes in Vaxneuvance ‡            |
-| 22F                                     | 95.6                                    | 5.3                                     | 90.2 (87.1, 92.6)                                                    | 2.74                                    | 0.05                                    | 57.67 (50.95, 65.28)                               |
-| 33F                                     | 48.1                                    | 3.0                                     | 45.1 (40.4, 49.7)                                                    | 0.30                                    | 0.05                                    | 6.11 (5.32, 7.02)                                  |
+|                                         | IgG response rates ≥0.35 µg/mL          | IgG response rates ≥0.35 µg/mL          | IgG response rates ≥0.35 µg/mL                             | IgG GMCs                                | IgG GMCs                                | IgG GMCs                                            |
+|-----------------------------------------|-----------------------------------------|-----------------------------------------|------------------------------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------------------|
+| Pneumococcal Serotype                   | Vaxneuvance (n=497)                     | 13-valent PCV (n=468- 469) Observed     | Percentage Point Difference* (Vaxneuvance - 13-valent PCV) | Vaxneuvance (n=497)                     | 13-valent PCV (n=468- 469)              | GMC Ratio** (Vaxneuvance/ 13-valent PCV) (95% CI)** |
+| Pneumococcal Serotype                   | Observed Response Percentage            | Response Percentage                     | (95% CI)*                                                  | GMC                                     | GMC                                     |                                                     |
+| 13 Shared Serotypes †                   | 13 Shared Serotypes †                   | 13 Shared Serotypes †                   | 13 Shared Serotypes †                                      | 13 Shared Serotypes †                   | 13 Shared Serotypes †                   | 13 Shared Serotypes †                               |
+| 1                                       | 95.6                                    | 97.4                                    | -1.9 (-4.3, 0.5)                                           | 1.30                                    | 1.60                                    | 0.81 (0.74, 0.89)                                   |
+| 3                                       | 93.2                                    | 66.1                                    | 27.1 (22.3, 31.9)                                          | 0.87                                    | 0.45                                    | 1.91 (1.75, 2.08)                                   |
+| 4                                       | 93.8                                    | 96.8                                    | -3.0 (-5.9, -0.4)                                          | 1.40                                    | 1.25                                    | 1.12 (1.01, 1.24)                                   |
+| 5                                       | 84.1                                    | 88.1                                    | -4.0 (-8.3, 0.4)                                           | 0.88                                    | 1.03                                    | 0.86 (0.76, 0.97)                                   |
+| 6A                                      | 72.6                                    | 92.3                                    | -19.7 (-24.3, - 15.1)                                      | 0.64                                    | 1.39                                    | 0.46 (0.40, 0.53)                                   |
+| 6B                                      | 57.7                                    | 50.2                                    | 7.5 (1.2, 13.8)                                            | 0.43                                    | 0.33                                    | 1.31 (1.11, 1.56)                                   |
+| 7F                                      | 97.8                                    | 98.9                                    | -1.1 (-3.0, 0.5)                                           | 2.03                                    | 2.42                                    | 0.84 (0.76, 0.92)                                   |
+| 9V                                      | 88.3                                    | 95.3                                    | -7.0 (-10.5, -3.6)                                         | 1.23                                    | 1.39                                    | 0.88 (0.78, 0.99)                                   |
+| 14                                      | 96.8                                    | 97.2                                    | -0.4 (-2.7, 1.8)                                           | 3.81                                    | 4.88                                    | 0.78 (0.68, 0.90)                                   |
+| 18C                                     | 92.2                                    | 92.5                                    | -0.4 (-3.8, 3.0)                                           | 1.16                                    | 1.30                                    | 0.89 (0.80, 0.99)                                   |
+| 19A                                     | 96.2                                    | 97.2                                    | -1.1 (-3.4, 1.3)                                           | 1.68                                    | 2.09                                    | 0.81 (0.72, 0.90)                                   |
+| 19F                                     | 98.8                                    | 99.4                                    | -0.6 (-2.0, 0.8)                                           | 2.63                                    | 3.35                                    | 0.79 (0.71, 0.87)                                   |
+| 23F                                     | 77.9                                    | 70.1                                    | 7.8 (2.3, 13.3)                                            | 0.75                                    | 0.58                                    | 1.30 (1.14, 1.50)                                   |
+| 2 Additional Serotypes in Vaxneuvance ‡ | 2 Additional Serotypes in Vaxneuvance ‡ | 2 Additional Serotypes in Vaxneuvance ‡ | 2 Additional Serotypes in Vaxneuvance ‡                    | 2 Additional Serotypes in Vaxneuvance ‡ | 2 Additional Serotypes in Vaxneuvance ‡ | 2 Additional Serotypes in Vaxneuvance ‡             |
+| 22F                                     | 95.6                                    | 5.3                                     | 90.2 (87.1, 92.6)                                          | 2.74                                    | 0.05                                    | 57.67 (50.95, 65.28)                                |
+| 33F                                     | 48.1                                    | 3.0                                     | 45.1 (40.4, 49.7)                                          | 0.30                                    | 0.05                                    | 6.11 (5.32, 7.02)                                   |
 
-n=Number of participants randomised, vaccinated and contributing to the analysis.
+* Estimated difference and CI for the percentage point dif f erence are based on the Miettinen &amp; Nurminen method.
+
+** GMC ratio and CI are calculated using the t-distribution with the variance estimate f rom a serotype-specif ic linear model utilising the natural log-transf ormed antibody concentrations as the response and a single term for vaccination group.
+
+† A conclusion of non-inferiority f or the 13 shared serotypes is based on the lower bound of the 95% CI being &gt; -10 percentage points f or the diff erence in IgG response rates (Vaxneuvance -13-valent PCV) or &gt; 0.5 f or the IgG GMC ratio (Vaxneuvance/13-valent PCV).
+
+‡ A conclusion of superiority f or the 2 additional serotypes is based on the lower bound of the 95% CI being &gt; 10 percentage points f or the diff erence in IgG response rates (Vaxneuvance -13-valent PCV) or &gt; 2.0 f or the IgG GMC ratio (Vaxneuvance/13-valent PCV). n=Number of participants randomised, vaccinated and contributing to the analysis.
 
 CI=confidence interval; GMC=geometric mean concentration (µg/mL); IgG=immunoglobulin G.
 
@@ -385,57 +393,57 @@ CI=confidence interval; GMC=geometric mean concentration (µg/mL); IgG=immunoglo
 
 Table 3: Serotype-specific IgG response rates and IgG GMCs at 30 days following the toddler dose (3-dose regimen, Protocol 025)
 
-|                                         | IgG response rates ≥0.35 µg/mL          | IgG response rates ≥0.35 µg/mL               | IgG response rates ≥0.35 µg/mL                                       | IgGGMCs                                 | IgGGMCs                                 | IgGGMCs                                            |
-|-----------------------------------------|-----------------------------------------|----------------------------------------------|----------------------------------------------------------------------|-----------------------------------------|-----------------------------------------|----------------------------------------------------|
-| Pneumococcal Serotype                   | Vaxneuvance (n=510-511)                 | 13-valent PCV (n=504- 510) Observed Response | Percentage Point Difference* (Vaxneuvance - 13-valent PCV) (95% CI)* | Vaxneuvance (n=510-511)                 | 13-valent PCV (n=504- 510)              | GMCRatio** (Vaxneuvance/ 13-valent PCV) (95% CI)** |
-| Pneumococcal Serotype                   | Observed Response Percentage            | Percentage                                   |                                                                      | GMC                                     | GMC                                     |                                                    |
-| 13 Shared Serotypes †                   | 13 Shared Serotypes †                   | 13 Shared Serotypes †                        | 13 Shared Serotypes †                                                | 13 Shared Serotypes †                   | 13 Shared Serotypes †                   | 13 Shared Serotypes †                              |
-| 1                                       | 96.5                                    | 99.4                                         | -2.9 (-5.0, -1.3)                                                    | 1.28                                    | 2.05                                    | 0.62 (0.57, 0.68)                                  |
-| 3                                       | 91.8                                    | 83.7                                         | 8.1 (4.1, 12.1)                                                      | 0.84                                    | 0.66                                    | 1.29 (1.18, 1.41)                                  |
-| 4                                       | 95.7                                    | 97.8                                         | -2.1 (-4.5, 0.0)                                                     | 1.29                                    | 1.74                                    | 0.74 (0.67, 0.82)                                  |
-| 5                                       | 99.0                                    | 100.0                                        | -1.0 (-2.3, -0.2)                                                    | 1.98                                    | 3.01                                    | 0.66 (0.60, 0.72)                                  |
-| 6A                                      | 98.4                                    | 98.8                                         | -0.4 (-2.0, 1.2)                                                     | 3.09                                    | 4.53                                    | 0.68 (0.61, 0.76)                                  |
-| 6B                                      | 97.3                                    | 99.0                                         | -1.8 (-3.7, -0.1)                                                    | 4.15                                    | 4.33                                    | 0.96 (0.85, 1.08)                                  |
-| 7F                                      | 99.8                                    | 99.8                                         | 0.0 (-0.9, 0.9)                                                      | 3.08                                    | 3.89                                    | 0.79 (0.73, 0.86)                                  |
-| 9V                                      | 98.8                                    | 100.0                                        | -1.2 (-2.5, -0.4)                                                    | 2.14                                    | 2.97                                    | 0.72 (0.66, 0.78)                                  |
-| 14                                      | 99.8                                    | 100.0                                        | -0.2 (-1.1, 0.6)                                                     | 5.22                                    | 6.90                                    | 0.76 (0.68, 0.84)                                  |
-| 18C                                     | 98.8                                    | 99.2                                         | -0.4 (-1.8, 1.0)                                                     | 1.93                                    | 2.18                                    | 0.89 (0.81, 0.97)                                  |
-| 19A                                     | 99.0                                    | 100.0                                        | -1.0 (-2.3, -0.2)                                                    | 4.65                                    | 5.61                                    | 0.83 (0.75, 0.92)                                  |
-| 19F                                     | 99.6                                    | 100.0                                        | -0.4 (-1.4, 0.4)                                                     | 4.06                                    | 4.59                                    | 0.89 (0.81, 0.97)                                  |
-| 23F                                     | 96.9                                    | 97.2                                         | -0.4 (-2.6, 1.8)                                                     | 1.52                                    | 1.69                                    | 0.90 (0.81, 1.00)                                  |
-| 2 Additional Serotypes in Vaxneuvance ‡ | 2 Additional Serotypes in Vaxneuvance ‡ | 2 Additional Serotypes in Vaxneuvance ‡      | 2 Additional Serotypes in Vaxneuvance ‡                              | 2 Additional Serotypes in Vaxneuvance ‡ | 2 Additional Serotypes in Vaxneuvance ‡ | 2 Additional Serotypes in Vaxneuvance ‡            |
-| 22F                                     | 99.6                                    | 5.9                                          | 93.7 (91.2, 95.5)                                                    | 5.97                                    | 0.08                                    | 71.76 (64.88, 79.38)                               |
-| 33F                                     | 99.0                                    | 4.4                                          | 94.7 (92.3, 96.3)                                                    | 3.38                                    | 0.07                                    | 46.38 (41.85, 51.40)                               |
+|                                         | IgG response rates ≥0.35 µg/mL          | IgG response rates ≥0.35 µg/mL               | IgG response rates ≥0.35 µg/mL                                       | IgG GMCs                                | IgG GMCs                                | IgG GMCs                                            |
+|-----------------------------------------|-----------------------------------------|----------------------------------------------|----------------------------------------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------------------|
+| Pneumococcal Serotype                   | Vaxneuvance (n=510-511)                 | 13-valent PCV (n=504- 510) Observed Response | Percentage Point Difference* (Vaxneuvance - 13-valent PCV) (95% CI)* | Vaxneuvance (n=510-511)                 | 13-valent PCV (n=504- 510)              | GMC Ratio** (Vaxneuvance/ 13-valent PCV) (95% CI)** |
+| Pneumococcal Serotype                   | Observed Response Percentage            | Percentage                                   |                                                                      | GMC                                     | GMC                                     |                                                     |
+| 13 Shared Serotypes †                   | 13 Shared Serotypes †                   | 13 Shared Serotypes †                        | 13 Shared Serotypes †                                                | 13 Shared Serotypes †                   | 13 Shared Serotypes †                   | 13 Shared Serotypes †                               |
+| 1                                       | 96.5                                    | 99.4                                         | -2.9 (-5.0, -1.3)                                                    | 1.28                                    | 2.05                                    | 0.62 (0.57, 0.68)                                   |
+| 3                                       | 91.8                                    | 83.7                                         | 8.1 (4.1, 12.1)                                                      | 0.84                                    | 0.66                                    | 1.29 (1.18, 1.41)                                   |
+| 4                                       | 95.7                                    | 97.8                                         | -2.1 (-4.5, 0.0)                                                     | 1.29                                    | 1.74                                    | 0.74 (0.67, 0.82)                                   |
+| 5                                       | 99.0                                    | 100.0                                        | -1.0 (-2.3, -0.2)                                                    | 1.98                                    | 3.01                                    | 0.66 (0.60, 0.72)                                   |
+| 6A                                      | 98.4                                    | 98.8                                         | -0.4 (-2.0, 1.2)                                                     | 3.09                                    | 4.53                                    | 0.68 (0.61, 0.76)                                   |
+| 6B                                      | 97.3                                    | 99.0                                         | -1.8 (-3.7, -0.1)                                                    | 4.15                                    | 4.33                                    | 0.96 (0.85, 1.08)                                   |
+| 7F                                      | 99.8                                    | 99.8                                         | 0.0 (-0.9, 0.9)                                                      | 3.08                                    | 3.89                                    | 0.79 (0.73, 0.86)                                   |
+| 9V                                      | 98.8                                    | 100.0                                        | -1.2 (-2.5, -0.4)                                                    | 2.14                                    | 2.97                                    | 0.72 (0.66, 0.78)                                   |
+| 14                                      | 99.8                                    | 100.0                                        | -0.2 (-1.1, 0.6)                                                     | 5.22                                    | 6.90                                    | 0.76 (0.68, 0.84)                                   |
+| 18C                                     | 98.8                                    | 99.2                                         | -0.4 (-1.8, 1.0)                                                     | 1.93                                    | 2.18                                    | 0.89 (0.81, 0.97)                                   |
+| 19A                                     | 99.0                                    | 100.0                                        | -1.0 (-2.3, -0.2)                                                    | 4.65                                    | 5.61                                    | 0.83 (0.75, 0.92)                                   |
+| 19F                                     | 99.6                                    | 100.0                                        | -0.4 (-1.4, 0.4)                                                     | 4.06                                    | 4.59                                    | 0.89 (0.81, 0.97)                                   |
+| 23F                                     | 96.9                                    | 97.2                                         | -0.4 (-2.6, 1.8)                                                     | 1.52                                    | 1.69                                    | 0.90 (0.81, 1.00)                                   |
+| 2 Additional Serotypes in Vaxneuvance ‡ | 2 Additional Serotypes in Vaxneuvance ‡ | 2 Additional Serotypes in Vaxneuvance ‡      | 2 Additional Serotypes in Vaxneuvance ‡                              | 2 Additional Serotypes in Vaxneuvance ‡ | 2 Additional Serotypes in Vaxneuvance ‡ | 2 Additional Serotypes in Vaxneuvance ‡             |
+| 22F                                     | 99.6                                    | 5.9                                          | 93.7 (91.2, 95.5)                                                    | 5.97                                    | 0.08                                    | 71.76 (64.88, 79.38)                                |
+| 33F                                     | 99.0                                    | 4.4                                          | 94.7 (92.3, 96.3)                                                    | 3.38                                    | 0.07                                    | 46.38 (41.85, 51.40)                                |
 
-* Estimated difference and CI for the percentage point difference are based on the Miettinen &amp; Nurminen method.
+* Estimated difference and CI for the percentage point dif f erence are based on the Miettinen &amp; Nurminen method.
 
-** GMC ratio and CI are calculated using the t-distribution with the variance estimate from a serotype-specif ic linear model utilising the natural log-transf ormed antibody concentrations as the response and a single term for vaccination group.
+** GMC ratio and CI are calculated using the t-distribution with the variance estimate f rom a serotype-specif ic linear model utilising the natural log-transf ormed antibody concentrations as the response and a single term for vaccination group.
 
-† A conclusion of non-inferiority for the 13 shared serotypes is based on the lower bound of the 95% CI being &gt; -10 percentage points f or the difference in IgG response rates (Vaxneuvance -13-valent PCV) or &gt; 0.5 f or the IgG GMC ratio (Vaxneuvance/13-valent PCV).
+† A conclusion of non-inferiority f or the 13 shared serotypes is based on the lower bound of the 95% CI being &gt; -10 percentage points f or the diff erence in IgG response rates (Vaxneuvance -13-valent PCV) or &gt; 0.5 f or the IgG GMC ratio (Vaxneuvance/13-valent PCV).
 
-‡ A conclusion of superiority f or the 2 additional serotypes is based on the lower bound of the 95% CI being &gt; 10 percentage points f or the difference in IgG response rates (Vaxneuvance -13-valent PCV) or &gt; 2.0 f or the IgG GMC ratio (Vaxneuvance/13-valent PCV). n=Number of participants randomised, vaccinated and contributing to the analysis.
+‡ A conclusion of superiority f or the 2 additional serotypes is based on the lower bound of the 95% CI being &gt; 10 percentage points f or the diff erence in IgG response rates (Vaxneuvance -13-valent PCV) or &gt; 2.0 f or the IgG GMC ratio (Vaxneuvance/13-valent PCV).
+
+n=Number of participants randomised, vaccinated and contributing to the analysis.
 
 CI=confidence interval; GMC=geometric mean concentration (µg/mL); IgG=immunoglobulin G.
 
-Additionally, Vaxneuvance elicits functional antibodies, as assessed by serotype-specific OPA GMTs at 30 days following the toddler dose, that are generally comparable but slightly lower f or the 13 serotypes shared with 13-valent PCV. The clinical relevance of this slightly lower response is unknown. OPA GMTs for both 22F and 33F were higher in Vaxneuvance recipients compared to the 13-valent PCV recipients.
+Additionally, Vaxneuvance elicits functional antibodies, as assessed by serotype-specif ic OPA GMTs at 30 days following the toddler dose, that are generally comparable but slightly lower for the 13 serotypes shared with 13-valent PCV. The clinical relevance of this slightly lower response is unknown. OPA GMTs for both 22F and 33F were higher in Vaxneuvance recipients compared to the 13-valent PCV recipients.
 
-In another double-blind, active comparator-controlled study (Protocol 026), 1,191 participants were randomised to receive Vaxneuvance or the 13-valent PCV as a 3-dose regimen given concomitantly with other paediatric vaccines including Vaxelis with all three doses and M-M-RvaxPro and Varivax with the toddler dose. The primary series was administered to infants at 3 and 5 months of age followed by the toddler dose at 12 months of age.
+In another double-blind, active comparator-controlled study (Protocol 026), 1,191 participants were randomised to receive Vaxneuvance or the 13-valent PCV as a 3-dose regimen given concomitantly with other paediatric vaccines including Vaxelis with all three doses and M-M-RvaxPro and Varivax with the toddler dose. The primary series was administered to infants at 3 and 5 months of  age followed by the toddler dose at 12 months of age.
 
-Vaxneuvance elicits immune responses, as assessed by IgG response rates, IgG GMCs and OPA GMTs, for all 15 serotypes contained in the vaccine. At 30 days following the toddler dose, Vaxneuvance is non-inferior to the 13-valent PCV for the 13 shared serotypes and superior for the 2 additional serotypes, 22F and 33F, as assessed by IgG response rates. Similarly, Vaxneuvance is non-inferior to the 13-valent PCV for the 13 shared serotypes and superior to the 13-valent PCV for the 2 additional serotypes, as assessed by IgG GMCs. Following the toddler dose, Vaxneuvance
+Vaxneuvance elicits immune responses, as assessed by IgG response rates, IgG GMCs and OPA GMTs, for all 15 serotypes contained in the vaccine. At 30 days following the toddler dose, Vaxneuvance is non-inferior to the 13-valent PCV for the 13 shared serotypes and superior for the 2 additional serotypes, 22F and 33F, as assessed by IgG response rates. Similarly, Vaxneuvance is non-inferior to the 13-valent PCV for the 13 shared serotypes and superior to the 13-valent PCV for the 2 additional serotypes, as assessed by IgG GMCs. Following the toddler dose, Vaxneuvance generates functional antibodies (OPA GMTs) for all 15 serotypes that are generally comparable with the 13-valent PCV.
 
 <div style=\"page-break-after: always\"></div>
-
-generates functional antibodies (OPA GMTs) for all 15 serotypes that are generally comparable with the 13-valent PCV.
 
 ## 4-dose regimen (3-dose primary series + 1 toddler dose)
 
 A 4-dose regimen was evaluated in healthy infants in one phase 2 and three phase 3 studies. The primary series were administered to infants at 2, 4, and 6 months of age and the toddler dose was administered to children at 12 through 15 months of age.
 
-In a double-blind, active comparator-controlled study (Protocol 029), 1,720 participants were randomised to receive Vaxneuvance or the 13-valent PCV. Participants also received other paediatric vaccines concomitantly, including HBVaxPro (Hepatitis B Vaccine [Recombinant]), RotaTeq (Rotavirus Vaccine, Live, Oral, Pentavalent) and Diphtheria, Tetanus Toxoids, Acellular Pertussis Adsorbed, Poliomyelitis (inactivated), Haemophilus b Conjugate (Tetanus Toxoid Conjugate) Vaccine in the infant series. Haemophilus b Conjugate Vaccine (Tetanus Toxoid Conjugate), M-M-RvaxPro (Measles, Mumps, and Rubella Virus Vaccine Live), Varivax (Varicella Virus Vaccine Live) and Vaqta (Hepatitis A Vaccine, Inactivated) were administered concomitantly with the toddler dose of Vaxneuvance.
+In a double-blind, active comparator-controlled study (Protocol 029), 1,720 participants were randomised to receive Vaxneuvance or the 13-valent PCV. Participants also received other paediatric vaccines concomitantly, including HBVaxPro (Hepatitis B Vaccine [Recombinant]), RotaTeq (Rotavirus Vaccine, Live, Oral, Pentavalent) and Diphtheria, Tetanus Toxoids, Acellular Pertussis Adsorbed, Poliomyelitis (inactivated), Haemophilus b Conjugate (Tetanus Toxoid Conjugate) Vaccine in the inf ant series. Haemophilus b Conjugate Vaccine (Tetanus Toxoid Conjugate), M-M-RvaxPro (Measles, Mumps, and Rubella Virus Vaccine Live), Varivax (Varicella Virus Vaccine Live) and Vaqta (Hepatitis A Vaccine, Inactivated) were administered concomitantly with the toddler dose of Vaxneuvance.
 
-Vaxneuvance elicits immune responses, as assessed by IgG response rates, IgG GMCs and OPA GMTs for all 15 serotypes contained in the vaccine. At 30 days following the primary series, Vaxneuvance is noninferior to the 13-valent PCV for the 13 shared serotypes, as assessed by IgG response rates (Table 4). Vaxneuvance is noninferior f or the 2 additional serotypes, as assessed by the IgG response rates for serotypes 22F and 33F in recipients of Vaxneuvance compared with the response rate for serotype 23F in recipients of the 13-valent PCV (the lowest response rate for any of the shared serotypes, excluding serotype 3), with percentage point differences of 6.7% (95% CI: 4.6, 9.2) and -4.5% (95% CI: -7.8, -1.3), respectively.
+Vaxneuvance elicits immune responses, as assessed by IgG response rates, IgG GMCs and OPA GMTs for all 15 serotypes contained in the vaccine. At 30 days following the primary series, Vaxneuvance is non-inferior to the 13-valent PCV for the 13 shared serotypes, as assessed by IgG response rates (Table 4). Vaxneuvance is non-inferior for the 2 additional serotypes, as assessed by the IgG response rates for serotypes 22F and 33F in recipients of  Vaxneuvance compared with the response rate f or serotype 23F in recipients of the 13-valent PCV (the lowest response rate for any of the shared serotypes, excluding serotype 3), with percentage point differences of 6.7% (95% CI: 4.6, 9.2) and -4.5% (95% CI: -7.8, -1.3), respectively.
 
-At 30 days following the primary series, serotype-specific IgG GMCs are noninferior to the 13-valent PCV for 12 of the 13 shared serotypes. The IgG response to serotype 6A narrowly missed the prespecified noninferiority criteria by a small margin (0.48 versus &gt;0.5) (Table 4). Vaxneuvance is noninferior to the 13-valent PCV for the 2 additional serotypes, as assessed by serotype-specific IgG GMCs for serotypes 22F and 33F in recipients of Vaxneuvance compared with the IgG GMCs for serotype 4 in recipients of the 13-valent PCV (the lowest IgG GMC for any of the shared serotypes, excluding serotype 3) with a GMC ratio of 3.64 and 1.24, respectively.
+At 30 days following the primary series, serotype-specific IgG GMCs are non-inferior to the 13-valent PCV for 12 of the 13 shared serotypes. The IgG response to serotype 6A narrowly missed the prespecified non-inferiority criteria by a small margin (0.48 versus &gt;0.5) (Table 4). Vaxneuvance is non-inferior to the 13-valent PCV for the 2 additional serotypes, as assessed by serotype-specific IgG GMCs for serotypes 22F and 33F in recipients of Vaxneuvance compared with the IgG GMCs for serotype 4 in recipients of the 13-valent PCV (the lowest IgG GMC for any of the shared serotypes, excluding serotype 3) with a GMC ratio of 3.64 and 1.24, respectively.
 
 Additionally, Vaxneuvance induces immune responses to shared serotype 3 and the 2 additional serotypes, which were substantially higher compared to the immune response induced by the 13-valent PCV as assessed by IgG response rates and IgG GMCs at 30 days following the primary series (Table 4).
 
@@ -443,37 +451,37 @@ Additionally, Vaxneuvance induces immune responses to shared serotype 3 and the 
 
 Table 4: Serotype-specific IgG response rates and IgG GMCs at 30 days following the 3-dose primary series (4-dose regimen, Protocol 029)
 
-|                                       | IgG response rates ≥0.35 µg/mL        | IgG response rates ≥0.35 µg/mL        | IgG response rates ≥0.35 µg/mL                                       | IgGGMCs                               | IgGGMCs                               | IgGGMCs                                            |
-|---------------------------------------|---------------------------------------|---------------------------------------|----------------------------------------------------------------------|---------------------------------------|---------------------------------------|----------------------------------------------------|
-| Pneumococcal Serotype                 | Vaxneuvance (n=698-702)               | 13-valent PCV (n=660- 665) Observed   | Percentage Point Difference* (Vaxneuvance - 13-valent PCV) (95% CI)* | Vaxneuvance (n=698-702)               | 13-valent PCV (n=660- 665)            | GMCRatio** (Vaxneuvance/ 13-valent PCV) (95% CI)** |
-|                                       | Observed Response Percentage          | Response Percentage                   |                                                                      | GMC                                   | GMC                                   |                                                    |
-| 13 Shared Serotypes †                 | 13 Shared Serotypes †                 | 13 Shared Serotypes †                 | 13 Shared Serotypes †                                                | 13 Shared Serotypes †                 | 13 Shared Serotypes †                 | 13 Shared Serotypes †                              |
-| 1                                     | 95.7                                  | 99.1                                  | -3.4 (-5.2, -1.8)                                                    | 1.21                                  | 1.89                                  | 0.64 (0.59, 0.69)                                  |
-| 3                                     | 94.7                                  | 79.2                                  | 15.6 (12.1, 19.2)                                                    | 1.08                                  | 0.62                                  | 1.73 (1.61, 1.87)                                  |
-| 4                                     | 96.4                                  | 98.6                                  | -2.2 (-4.0, -0.6)                                                    | 1.29                                  | 1.35                                  | 0.95 (0.88, 1.03)                                  |
-| 5                                     | 95.3                                  | 97.4                                  | -2.1 (-4.2, -0.2)                                                    | 1.63                                  | 2.25                                  | 0.72 (0.66, 0.80)                                  |
-| 6A                                    | 93.7                                  | 98.6                                  | -4.9 (-7.1, -3.0)                                                    | 1.55                                  | 2.95                                  | 0.52 (0.48, 0.58)                                  |
-| 6B                                    | 88.6                                  | 92.0                                  | -3.4 (-6.6, -0.3)                                                    | 1.60                                  | 1.97                                  | 0.81 (0.71, 0.93)                                  |
-| 7F                                    | 99.0                                  | 99.8                                  | -0.8 (-1.9, -0.1)                                                    | 2.48                                  | 3.23                                  | 0.77 (0.71, 0.83)                                  |
-| 9V                                    | 97.1                                  | 98.2                                  | -1.0 (-2.8, 0.6)                                                     | 1.73                                  | 1.89                                  | 0.91 (0.84, 1.00)                                  |
-| 14                                    | 97.9                                  | 97.9                                  | -0.0 (-1.6, 1.6)                                                     | 4.78                                  | 6.80                                  | 0.70 (0.63, 0.78)                                  |
-| 18C                                   | 97.4                                  | 98.3                                  | -0.9 (-2.6, 0.7)                                                     | 1.53                                  | 2.00                                  | 0.76 (0.70, 0.83)                                  |
-| 19A                                   | 97.9                                  | 99.7                                  | -1.8 (-3.2, -0.8)                                                    | 1.63                                  | 2.29                                  | 0.71 (0.65, 0.77)                                  |
-| 19F                                   | 99.0                                  | 100.0                                 | -1.0 (-2.1, -0.4)                                                    | 2.01                                  | 2.72                                  | 0.74 (0.69, 0.79)                                  |
-| 23F                                   | 91.5                                  | 91.8                                  | -0.3 (-3.2, 2.7)                                                     | 1.31                                  | 1.47                                  | 0.89 (0.80, 0.99)                                  |
-| 2 Additional Serotypes in Vaxneuvance | 2 Additional Serotypes in Vaxneuvance | 2 Additional Serotypes in Vaxneuvance | 2 Additional Serotypes in Vaxneuvance                                | 2 Additional Serotypes in Vaxneuvance | 2 Additional Serotypes in Vaxneuvance | 2 Additional Serotypes in Vaxneuvance              |
-| 22F                                   | 98.6                                  | 3.5                                   | 95.1 (93.1, 96.5)                                                    | 4.91                                  | 0.05                                  | 92.03 (83.47, 101.47)                              |
-| 33F                                   | 87.3                                  | 2.1                                   | 85.2 (82.3, 87.7)                                                    | 1.67                                  | 0.06                                  | 29.50 (26.16, 33.26)                               |
+|                                       | IgG response rates ≥0.35 µg/mL        | IgG response rates ≥0.35 µg/mL        | IgG response rates ≥0.35 µg/mL                                       | IgG GMCs                              | IgG GMCs                              | IgG GMCs                                            |
+|---------------------------------------|---------------------------------------|---------------------------------------|----------------------------------------------------------------------|---------------------------------------|---------------------------------------|-----------------------------------------------------|
+| Pneumococcal Serotype                 | Vaxneuvance (n=698-702)               | 13-valent PCV (n=660- 665) Observed   | Percentage Point Difference* (Vaxneuvance - 13-valent PCV) (95% CI)* | Vaxneuvance (n=698-702)               | 13-valent PCV (n=660- 665)            | GMC Ratio** (Vaxneuvance/ 13-valent PCV) (95% CI)** |
+|                                       | Observed Response Percentage          | Response Percentage                   |                                                                      | GMC                                   | GMC                                   |                                                     |
+| 13 Shared Serotypes †                 | 13 Shared Serotypes †                 | 13 Shared Serotypes †                 | 13 Shared Serotypes †                                                | 13 Shared Serotypes †                 | 13 Shared Serotypes †                 | 13 Shared Serotypes †                               |
+| 1                                     | 95.7                                  | 99.1                                  | -3.4 (-5.2, -1.8)                                                    | 1.21                                  | 1.89                                  | 0.64 (0.59, 0.69)                                   |
+| 3                                     | 94.7                                  | 79.2                                  | 15.6 (12.1, 19.2)                                                    | 1.08                                  | 0.62                                  | 1.73 (1.61, 1.87)                                   |
+| 4                                     | 96.4                                  | 98.6                                  | -2.2 (-4.0, -0.6)                                                    | 1.29                                  | 1.35                                  | 0.95 (0.88, 1.03)                                   |
+| 5                                     | 95.3                                  | 97.4                                  | -2.1 (-4.2, -0.2)                                                    | 1.63                                  | 2.25                                  | 0.72 (0.66, 0.80)                                   |
+| 6A                                    | 93.7                                  | 98.6                                  | -4.9 (-7.1, -3.0)                                                    | 1.55                                  | 2.95                                  | 0.52 (0.48, 0.58)                                   |
+| 6B                                    | 88.6                                  | 92.0                                  | -3.4 (-6.6, -0.3)                                                    | 1.60                                  | 1.97                                  | 0.81 (0.71, 0.93)                                   |
+| 7F                                    | 99.0                                  | 99.8                                  | -0.8 (-1.9, -0.1)                                                    | 2.48                                  | 3.23                                  | 0.77 (0.71, 0.83)                                   |
+| 9V                                    | 97.1                                  | 98.2                                  | -1.0 (-2.8, 0.6)                                                     | 1.73                                  | 1.89                                  | 0.91 (0.84, 1.00)                                   |
+| 14                                    | 97.9                                  | 97.9                                  | -0.0 (-1.6, 1.6)                                                     | 4.78                                  | 6.80                                  | 0.70 (0.63, 0.78)                                   |
+| 18C                                   | 97.4                                  | 98.3                                  | -0.9 (-2.6, 0.7)                                                     | 1.53                                  | 2.00                                  | 0.76 (0.70, 0.83)                                   |
+| 19A                                   | 97.9                                  | 99.7                                  | -1.8 (-3.2, -0.8)                                                    | 1.63                                  | 2.29                                  | 0.71 (0.65, 0.77)                                   |
+| 19F                                   | 99.0                                  | 100.0                                 | -1.0 (-2.1, -0.4)                                                    | 2.01                                  | 2.72                                  | 0.74 (0.69, 0.79)                                   |
+| 23F                                   | 91.5                                  | 91.8                                  | -0.3 (-3.2, 2.7)                                                     | 1.31                                  | 1.47                                  | 0.89 (0.80, 0.99)                                   |
+| 2 Additional Serotypes in Vaxneuvance | 2 Additional Serotypes in Vaxneuvance | 2 Additional Serotypes in Vaxneuvance | 2 Additional Serotypes in Vaxneuvance                                | 2 Additional Serotypes in Vaxneuvance | 2 Additional Serotypes in Vaxneuvance | 2 Additional Serotypes in Vaxneuvance               |
+| 22F                                   | 98.6                                  | 3.5                                   | 95.1 (93.1, 96.5)                                                    | 4.91                                  | 0.05                                  | 92.03 (83.47, 101.47)                               |
+| 33F                                   | 87.3                                  | 2.1                                   | 85.2 (82.3, 87.7)                                                    | 1.67                                  | 0.06                                  | 29.50 (26.16, 33.26)                                |
 
-* Estimated difference and CI for the percentage point difference are based on the Miettinen &amp; Nurminen method.
+* Estimated difference and CI for the percentage point dif f erence are based on the Miettinen &amp; Nurminen method.
 
-** GMC ratio and CI are calculated using the t-distribution with the variance estimate from a serotype-specif ic linear model utilising the natural log-transf ormed antibody concentrations as the response and a single term for vaccination group.
+** GMC ratio and CI are calculated using the t-distribution with the variance estimate f rom a serotype-specif ic linear model utilising the natural log-transf ormed antibody concentrations as the response and a single term for vaccination group.
 
-† A conclusion of non-inferiority for the 13 shared serotypes is based on the lower bound of the 95% CI being &gt; -10 percentage points for the difference in IgG response rates (Vaxneuvance -13-valent PCV) or &gt; 0.5 f or the IgG GMC ratio (Vaxneuvance/13-valent PCV).n=Number of participants randomised, vaccinated and contributing to the analysis.
+† A conclusion of non-inferiority f or the 13 shared serotypes is based on the lower bound of the 95% CI being &gt; -10 percentage points f or the diff erence in IgG response rates (Vaxneuvance -13-valent PCV) or &gt; 0.5 f or the IgG GMC ratio (Vaxneuvance/13-valent PCV).n=Number of participants randomised, vaccinated and contributing to the analysis.
 
 CI=confidence interval; GMC=geometric mean concentration (µg/mL); IgG=immunoglobulin G.
 
-At 30 days following the toddler dose, serotype-specific IgG GMCs for Vaxneuvance are noninferior to the 13-valent PCV for all 13 shared serotypes and for the 2 additional serotypes as assessed by the IgG GMCs for serotypes 22F and 33F in Vaxneuvance recipients compared with the IgG GMC for serotype 4 in the 13-valent PCV recipients (the lowest IgG GMC for any of the shared serotypes, excluding serotype 3) with a GMC ratio of 4.69 and 2.59, respectively (Table 5).
+At 30 days following the toddler dose, serotype-specific IgG GMCs for Vaxneuvance are non-inferior to the 13-valent PCV for all 13 shared serotypes and f or the 2 additional serotypes as assessed by the IgG GMCs for serotypes 22F and 33F in Vaxneuvance recipients compared with the IgG GMC for serotype 4 in the 13-valent PCV recipients (the lowest IgG GMC for any of the shared serotypes, excluding serotype 3) with a GMC ratio of 4.69 and 2.59, respectively (Table 5).
 
 Vaxneuvance induces immune responses to shared serotype 3 and the 2 additional serotypes, which were substantially higher compared to the immune response induced by the 13-valent PCV, as assessed by IgG response rates and IgG GMCs at 30 days following the toddler dose (Table 5).
 
@@ -481,41 +489,41 @@ Vaxneuvance induces immune responses to shared serotype 3 and the 2 additional s
 
 Table 5: Serotype-specific IgG response rates and IgG GMCs at 30 days following the toddler dose (4-dose regimen, Protocol 029)
 
-|                                       | IgG response rates ≥0.35 µg/mL        | IgG response rates ≥0.35 µg/mL               | IgG response rates ≥0.35 µg/mL                             | IgGGMCs                               | IgGGMCs                               | IgGGMCs                                            |
-|---------------------------------------|---------------------------------------|----------------------------------------------|------------------------------------------------------------|---------------------------------------|---------------------------------------|----------------------------------------------------|
-| Pneumococcal Serotype                 | Vaxneuvance (n=712-716)               | 13-valent PCV (n=677- 686) Observed Response | Percentage Point Difference* (Vaxneuvance - 13-valent PCV) | Vaxneuvance (n=712-716)               | 13-valent PCV (n=677- 686)            | GMCRatio** (Vaxneuvance/ 13-valent PCV) (95% CI)** |
-| Pneumococcal Serotype                 | Observed Response Percentage          | Percentage                                   | (95% CI)*                                                  | GMC                                   | GMC                                   |                                                    |
-| 13 Shared Serotypes †                 | 13 Shared Serotypes †                 | 13 Shared Serotypes †                        | 13 Shared Serotypes †                                      | 13 Shared Serotypes †                 | 13 Shared Serotypes †                 | 13 Shared Serotypes †                              |
-| 1                                     | 96.6                                  | 99.4                                         | -2.8 (-4.4, -1.4)                                          | 1.35                                  | 2.03                                  | 0.66 (0.62, 0.72)                                  |
-| 3                                     | 94.0                                  | 86.9                                         | 7.1 (4.0, 10.2)                                            | 0.96                                  | 0.71                                  | 1.35 (1.25, 1.46)                                  |
-| 4                                     | 95.1                                  | 97.5                                         | -2.4 (-4.5, -0.4)                                          | 1.23                                  | 1.60                                  | 0.77 (0.71, 0.84)                                  |
-| 5                                     | 99.2                                  | 99.9                                         | -0.7 (-1.7, 0.1)                                           | 2.49                                  | 3.95                                  | 0.63 (0.58, 0.69)                                  |
-| 6A                                    | 98.7                                  | 99.3                                         | -0.5 (-1.7, 0.6)                                           | 3.70                                  | 6.21                                  | 0.60 (0.54, 0.65)                                  |
-| 6B                                    | 98.7                                  | 99.3                                         | -0.5 (-1.7, 0.6)                                           | 4.76                                  | 6.43                                  | 0.74 (0.67, 0.81)                                  |
-| 7F                                    | 99.6                                  | 99.9                                         | -0.3 (-1.1, 0.4)                                           | 3.42                                  | 4.85                                  | 0.70 (0.65, 0.77)                                  |
-| 9V                                    | 99.4                                  | 99.7                                         | -0.3 (-1.2, 0.6)                                           | 2.40                                  | 3.29                                  | 0.73 (0.67, 0.80)                                  |
-| 14                                    | 99.3                                  | 99.6                                         | -0.3 (-1.2, 0.7)                                           | 5.61                                  | 6.95                                  | 0.81 (0.73, 0.89)                                  |
-| 18C                                   | 99.7                                  | 99.6                                         | 0.2 (-0.6, 1.0)                                            | 2.62                                  | 3.08                                  | 0.85 (0.78, 0.93)                                  |
-| 19A                                   | 99.9                                  | 99.9                                         | 0.0 (-0.7, 0.7)                                            | 4.10                                  | 5.53                                  | 0.74 (0.68, 0.80)                                  |
-| 19F                                   | 99.7                                  | 99.7                                         | 0.0 (-0.8, 0.8)                                            | 3.55                                  | 4.47                                  | 0.79 (0.74, 0.86)                                  |
-| 23F                                   | 98.6                                  | 99.0                                         | -0.4 (-1.7, 0.9)                                           | 2.04                                  | 3.32                                  | 0.61 (0.56, 0.68)                                  |
-| 2 Additional Serotypes in Vaxneuvance | 2 Additional Serotypes in Vaxneuvance | 2 Additional Serotypes in Vaxneuvance        | 2 Additional Serotypes in Vaxneuvance                      | 2 Additional Serotypes in Vaxneuvance | 2 Additional Serotypes in Vaxneuvance | 2 Additional Serotypes in Vaxneuvance              |
-| 22F                                   | 99.6                                  | 7.2                                          | 92.4 (90.1, 94.2)                                          | 7.52                                  | 0.11                                  | 68.80 (63.10, 75.02)                               |
-| 33F                                   | 98.9                                  | 6.2                                          | 92.7 (90.4, 94.4)                                          | 4.15                                  | 0.09                                  | 44.91 (41.04, 49.14)                               |
+|                                       | IgG response rates ≥0.35 µg/mL        | IgG response rates ≥0.35 µg/mL               | IgG response rates ≥0.35 µg/mL                                       | IgG GMCs                              | IgG GMCs                              | IgG GMCs                                            |
+|---------------------------------------|---------------------------------------|----------------------------------------------|----------------------------------------------------------------------|---------------------------------------|---------------------------------------|-----------------------------------------------------|
+| Pneumococcal Serotype                 | Vaxneuvance (n=712-716)               | 13-valent PCV (n=677- 686) Observed Response | Percentage Point Difference* (Vaxneuvance - 13-valent PCV) (95% CI)* | Vaxneuvance (n=712-716)               | 13-valent PCV (n=677- 686)            | GMC Ratio** (Vaxneuvance/ 13-valent PCV) (95% CI)** |
+| Pneumococcal Serotype                 | Observed Response Percentage          | Percentage                                   |                                                                      | GMC                                   | GMC                                   |                                                     |
+| 13 Shared Serotypes †                 | 13 Shared Serotypes †                 | 13 Shared Serotypes †                        | 13 Shared Serotypes †                                                | 13 Shared Serotypes †                 | 13 Shared Serotypes †                 | 13 Shared Serotypes †                               |
+| 1                                     | 96.6                                  | 99.4                                         | -2.8 (-4.4, -1.4)                                                    | 1.35                                  | 2.03                                  | 0.66 (0.62, 0.72)                                   |
+| 3                                     | 94.0                                  | 86.9                                         | 7.1 (4.0, 10.2)                                                      | 0.96                                  | 0.71                                  | 1.35 (1.25, 1.46)                                   |
+| 4                                     | 95.1                                  | 97.5                                         | -2.4 (-4.5, -0.4)                                                    | 1.23                                  | 1.60                                  | 0.77 (0.71, 0.84)                                   |
+| 5                                     | 99.2                                  | 99.9                                         | -0.7 (-1.7, 0.1)                                                     | 2.49                                  | 3.95                                  | 0.63 (0.58, 0.69)                                   |
+| 6A                                    | 98.7                                  | 99.3                                         | -0.5 (-1.7, 0.6)                                                     | 3.70                                  | 6.21                                  | 0.60 (0.54, 0.65)                                   |
+| 6B                                    | 98.7                                  | 99.3                                         | -0.5 (-1.7, 0.6)                                                     | 4.76                                  | 6.43                                  | 0.74 (0.67, 0.81)                                   |
+| 7F                                    | 99.6                                  | 99.9                                         | -0.3 (-1.1, 0.4)                                                     | 3.42                                  | 4.85                                  | 0.70 (0.65, 0.77)                                   |
+| 9V                                    | 99.4                                  | 99.7                                         | -0.3 (-1.2, 0.6)                                                     | 2.40                                  | 3.29                                  | 0.73 (0.67, 0.80)                                   |
+| 14                                    | 99.3                                  | 99.6                                         | -0.3 (-1.2, 0.7)                                                     | 5.61                                  | 6.95                                  | 0.81 (0.73, 0.89)                                   |
+| 18C                                   | 99.7                                  | 99.6                                         | 0.2 (-0.6, 1.0)                                                      | 2.62                                  | 3.08                                  | 0.85 (0.78, 0.93)                                   |
+| 19A                                   | 99.9                                  | 99.9                                         | 0.0 (-0.7, 0.7)                                                      | 4.10                                  | 5.53                                  | 0.74 (0.68, 0.80)                                   |
+| 19F                                   | 99.7                                  | 99.7                                         | 0.0 (-0.8, 0.8)                                                      | 3.55                                  | 4.47                                  | 0.79 (0.74, 0.86)                                   |
+| 23F                                   | 98.6                                  | 99.0                                         | -0.4 (-1.7, 0.9)                                                     | 2.04                                  | 3.32                                  | 0.61 (0.56, 0.68)                                   |
+| 2 Additional Serotypes in Vaxneuvance | 2 Additional Serotypes in Vaxneuvance | 2 Additional Serotypes in Vaxneuvance        | 2 Additional Serotypes in Vaxneuvance                                | 2 Additional Serotypes in Vaxneuvance | 2 Additional Serotypes in Vaxneuvance | 2 Additional Serotypes in Vaxneuvance               |
+| 22F                                   | 99.6                                  | 7.2                                          | 92.4 (90.1, 94.2)                                                    | 7.52                                  | 0.11                                  | 68.80 (63.10, 75.02)                                |
+| 33F                                   | 98.9                                  | 6.2                                          | 92.7 (90.4, 94.4)                                                    | 4.15                                  | 0.09                                  | 44.91 (41.04, 49.14)                                |
 
-* Estimated difference and CI for the percentage point difference are based on the Miettinen &amp; Nurminen method.
+* Estimated difference and CI for the percentage point dif f erence are based on the Miettinen &amp; Nurminen method.
 
-** GMC ratio and CI are calculated using the t-distribution with the variance estimate from a serotype-specif ic linear model utilising the natural log-transf ormed antibody concentrations as the response and a single term for vaccination group.
+** GMC ratio and CI are calculated using the t-distribution with the variance estimate f rom a serotype-specif ic linear model utilising the natural log-transf ormed antibody concentrations as the response and a single term for vaccination group.
 
-† A conclusion of non-inferiority for the 13 shared serotypes is based on the lower bound of the 95% CI being &gt; 0.5 f or the IgG GMC ratio (Vaxneuvance/13-valent PCV).
+† A conclusion of non-inferiority f or the 13 shared serotypes is based on the lower bound of the 95% CI being &gt; 0.5 f or the IgG GMC ratio (Vaxneuvance/13-valent PCV).
 
 n=Number of participants randomised, vaccinated and contributing to the analysis.
 
 CI=confidence interval; GMC=geometric mean concentration (µg/mL); IgG=immunoglobulin G.
 
-Vaxneuvance elicits functional antibodies, as assessed by serotype-specif ic OPA GMTs at 30 days following the primary series and f ollowing the toddler dose, that are generally comparable but slightly lower for the 13 serotypes shared with 13-valent PCV. The clinical relevance of this slightly lower response is unknown. OPA GMTs for both 22F and 33F were higher in Vaxneuvance recipients compared to the 13-valent PCV recipients.
+Vaxneuvance elicits functional antibodies, as assessed by serotype-specif ic OPA GMTs at 30 days following the primary series and following the toddler dose, that are generally comparable but slightly lower for the 13 serotypes shared with 13-valent PCV. The clinical relevance of this slightly lower response is unknown. OPA GMTs for both 22F and 33F were higher in Vaxneuvance recipients compared to the 13-valent PCV recipients.
 
-Infants and children receiving a mixed dose regimen of different pneumococcal conjugate vaccines In a double-blind, active comparator-controlled, descriptive study (Protocol 027), 900 participants were randomised in a 1:1:1:1:1 ratio to one of five vaccination groups to receive a complete or mixed dosing regimen of pneumococcal conjugate vaccines. In two vaccination groups, participants received a 4-dose regimen of  either Vaxneuvance or the 13-valent PCV. In the three other vaccination groups, the vaccination series were initiated with the 13-valent PCV and changed to Vaxneuvance at Dose 2, Dose 3 or Dose 4. Participants also received other paediatric vaccines concomitantly, including HBVaxPro (Hepatitis B Vaccine [Recombinant]) and RotaTeq (Rotavirus Vaccine, Live, Oral, Pentavalent). Serotype-specific IgG GMCs at 30 days following the toddler dose were generally comparable for participants administered mixed regimens of Vaxneuvance and the 13-valent PCV and for participants administered a complete dosing regimen of the 13-valent PCV for the 13 shared serotypes, as assessed by IgG GMC ratios.
+Infants and children receiving a mixed dose regimen of different pneumococcal conjugate vaccines In a double-blind, active comparator-controlled, descriptive study (Protocol 027), 900 participants were randomised in a 1:1:1:1:1 ratio to one of five vaccination groups to receive a complete or mixed dosing regimen of pneumococcal conjugate vaccines. In two vaccination groups, participants received a 4-dose regimen of either Vaxneuvance or the 13-valent PCV. In the three other vaccination groups, the vaccination series were initiated with the 13-valent PCV and changed to Vaxneuvance at Dose 2, Dose 3 or Dose 4. Participants also received other paediatric vaccines concomitantly, including HBVaxPro (Hepatitis B Vaccine [Recombinant]) and RotaTeq (Rotavirus Vaccine, Live, Oral, Pentavalent). Serotype-specif ic IgG GMCs at 30 days following the toddler dose were generally comparable for participants administered mixed regimens of Vaxneuvance and the 13-valent PCV and for participants administered a complete dosing regimen of the 13-valent PCV for the 13 shared serotypes, as assessed by IgG GMC ratios.
 
 Higher antibodies to serotypes 22F and 33F were only observed when at least one dose of Vaxneuvance was administered during primary infant series and at the toddler age.
 
@@ -531,79 +539,75 @@ In a double-blind, active comparator-controlled, descriptive study (Protocol 024
 
 ## Immune responses after subcutaneous administration in infants and children
 
-In a double-blind, active comparator-controlled, descriptive study (Protocol 033), 694 healthy Japanese infants from 2 to 6 months of age were randomised to receive either Vaxneuvance or the 13valent PCV as a 4-dose regimen via a subcutaneous route of administration. The first dose was given at 2 to 6 months of age and second and third dose were given at an interval of  ≥27 days from the prior dose. The fourth dose was administered at 12 to 15 months of age. Vaxneuvance elicited serotypespecific immune responses (IgG and OPA) in healthy infants and toddlers that were generally comparable to the 13-valent PCV for the shared serotypes and higher in Vaxneuvance for the 2 additional serotypes.
+In a double-blind, active comparator-controlled, descriptive study (Protocol 033), 694 healthy Japanese infants from 2 to 6 months of age were randomised to receive either Vaxneuvance or the 13valent PCV as a 4-dose regimen via a subcutaneous route of administration. The first dose was given at 2 to 6 months of  age and second and third dose were given at an interval of  ≥27 days from the prior dose. The fourth dose was administered at 12 to 15 months of age. Vaxneuvance elicited serotypespecif ic immune responses (IgG and OPA) in healthy infants and toddlers that were generally comparable to the 13-valent PCV for the shared serotypes and higher in Vaxneuvance for the 2 additional serotypes.
 
 ## Clinical immunogenicity in immunocompetent adults ≥18 years of age
 
 Five clinical studies (Protocol 007, Protocol 016, Protocol 017, Protocol 019, and Protocol 021) conducted in the Americas, Europe and Asia Pacific evaluated the immunogenicity of Vaxneuvance in healthy and immunocompetent adults across different age groups including individuals with or without previous pneumococcal vaccination. Each clinical study included adults with stable underlying medical conditions (e.g., diabetes mellitus, renal disorders, chronic heart disease, chronic liver disease, chronic lung disease including asthma) and/or behavioural risk factors (e.g., current tobacco use, increased alcohol consumption) that are known to increase the risk of pneumococcal disease.
 
-In each study, immunogenicity was assessed by serotype-specific OPA and IgG responses at 30 days postvaccination. Study endpoints included OPA geometric mean titres (GMTs) and IgG geometric mean concentrations (GMCs). The pivotal study (Protocol 019) aimed to show noninferiority of the OPA GMTs for 12 of 13 serotypes that Vaxneuvance shares with the 13-valent pneumococcal polysaccharide conjugate vaccine, noninferiority and superiority for the shared serotype 3, and superiority f or serotypes 22F and 33F, additional to Vaxneuvance. Superiority assessment of Vaxneuvance to the 13-valent pneumococcal polysaccharide conjugate vaccine was based on the between-group comparisons of OPA GMTs and the proportions of  participants with a ≥4 -f old rise in serotype-specific OPA titres from prevaccination to 30 days postvaccination.
+In each study, immunogenicity was assessed by serotype-specif ic OPA and IgG responses at 30 days postvaccination. Study endpoints included OPA geometric mean titres (GMTs) and IgG geometric mean concentrations (GMCs). The pivotal study (Protocol 019) aimed to show non-inferiority of the OPA GMTs for 12 of 13 serotypes that Vaxneuvance shares with the 13-valent pneumococcal polysaccharide conjugate vaccine, non-inferiority and superiority f or the shared serotype 3, and superiority f or serotypes 22F and 33F, additional to Vaxneuvance. Superiority assessment of Vaxneuvance to the 13-valent pneumococcal polysaccharide conjugate vaccine was based on the between-group comparisons of OPA GMTs and the proportions of  participants with a ≥4 -fold rise in serotype-specif ic OPA titres from prevaccination to 30 days postvaccination.
 
 ## Pneumococcal vaccine-naïve adults
 
-In the pivotal, double-blind, active comparator-controlled study (Protocol 019), 1,205 immunocompetent pneumococcal vaccine-naïve subjects ≥50 years of age were randomised to receive Vaxneuvance or the 13-valent pneumococcal polysaccharide conjugate vaccine. The median age of participants was 66 years (range: 50 to 92 years), with approximately 69% over 65 years of age,
+In the pivotal, double-blind, active comparator-controlled study (Protocol 019), 1,205 immunocompetent pneumococcal vaccine-naïve subjects ≥50 years of age were randomised to receive Vaxneuvance or the 13-valent pneumococcal polysaccharide conjugate vaccine. The median age of participants was 66 years (range: 50 to 92 years), with approximately 69% over 65 years of age, and approximately 12% over 75 years of age. 57.3% were female and 87% reported history of at least one underlying medical condition.
 
 <div style=\"page-break-after: always\"></div>
 
-and approximately 12% over 75 years of age. 57.3% were female and 87% reported history of at least one underlying medical condition.
-
-The study demonstrated that Vaxneuvance is noninferior to the 13-valent pneumococcal polysaccharide conjugate vaccine for the 13 shared serotypes and superior for the 2 additional serotypes and for the shared serotype 3. Table 6 summarises the OPA GMTs at 30 days postvaccination. IgG GMCs were generally consistent with the results observed for the OPA GMTs.
+The study demonstrated that Vaxneuvance is non-inferior to the 13-valent pneumococcal polysaccharide conjugate vaccine for the 13 shared serotypes and superior for the 2 additional serotypes and for the shared serotype 3. Table 6 summarises the OPA GMTs at 30 days postvaccination. IgG GMCs were generally consistent with the results observed for the OPA GMTs.
 
 Table 6: Serotype-specific OPA GMTs at 30 days Postvaccination in Pneumococcal VaccineNaïve Adults ≥50 Years of age (Protocol 019)
 
-| Pneumococcal Serotype                   | Vaxneuvance (N = 602)                   | Vaxneuvance (N = 602)                   | 13-valentPCV (N = 600)                  | 13-valentPCV (N = 600)                  | GMTRatio* (Vaxneuvance/13-valent PCV)   |
-|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
-|                                         | n                                       | GMT*                                    | n                                       | GMT*                                    | (95% CI)*                               |
-| 13 Shared Serotypes †                   |                                         |                                         |                                         |                                         |                                         |
-| 1                                       | 598                                     | 256.3                                   | 598                                     | 322.6                                   | 0.79 (0.66, 0.96)                       |
-| 3 ‡                                     | 598                                     | 216.2                                   | 598                                     | 135.1                                   | 1.60 (1.38, 1.85)                       |
-| 4                                       | 598                                     | 1125.6                                  | 598                                     | 1661.6                                  | 0.68 (0.57, 0.80)                       |
-| 5                                       | 598                                     | 447.3                                   | 598                                     | 563.5                                   | 0.79 (0.64, 0.98)                       |
-| 6A                                      | 596                                     | 5407.2                                  | 598                                     | 5424.5                                  | 1.00 (0.84, 1.19)                       |
-| 6B                                      | 598                                     | 4011.7                                  | 598                                     | 3258.2                                  | 1.23 (1.02, 1.48)                       |
-| 7F                                      | 597                                     | 4617.3                                  | 598                                     | 5880.6                                  | 0.79 (0.68, 0.90)                       |
-| 9V                                      | 598                                     | 1817.3                                  | 597                                     | 2232.9                                  | 0.81 (0.70, 0.94)                       |
-| 14                                      | 598                                     | 1999.3                                  | 598                                     | 2656.7                                  | 0.75 (0.64, 0.89)                       |
-| 18C                                     | 598                                     | 2757.7                                  | 598                                     | 2583.7                                  | 1.07 (0.91, 1.26)                       |
-| 19A                                     | 598                                     | 3194.3                                  | 598                                     | 3979.8                                  | 0.80 (0.70, 0.93)                       |
-| 19F                                     | 598                                     | 1695.1                                  | 598                                     | 1917.8                                  | 0.88 (0.76, 1.02)                       |
-| 23F                                     | 598                                     | 2045.4                                  | 598                                     | 1740.4                                  | 1.18 (0.96, 1.44)                       |
-| 2 Serotypes Additional to Vaxneuvance § | 2 Serotypes Additional to Vaxneuvance § | 2 Serotypes Additional to Vaxneuvance § | 2 Serotypes Additional to Vaxneuvance § | 2 Serotypes Additional to Vaxneuvance § | 2 Serotypes Additional to Vaxneuvance § |
-| 22F                                     | 594                                     | 2375.2                                  | 586                                     | 74.6                                    | 31.83 (25.35, 39.97)                    |
-| 33F                                     | 598                                     | 7994.7                                  | 597                                     | 1124.9                                  | 7.11 (6.07, 8.32)                       |
+| Pneumococcal Serotype                   | Vaxneuvance (N = 602)                   | Vaxneuvance (N = 602)                   | 13-valent PCV (N = 600)                 | 13-valent PCV (N = 600)                 | GMT Ratio* (Vaxneuvance/13-valent PCV) (95% CI)*   |
+|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|----------------------------------------------------|
+|                                         | n                                       | GMT*                                    | n                                       | GMT*                                    | GMT Ratio* (Vaxneuvance/13-valent PCV) (95% CI)*   |
+| 13 Shared Serotypes †                   |                                         |                                         |                                         |                                         |                                                    |
+| 1                                       | 598                                     | 256.3                                   | 598                                     | 322.6                                   | 0.79 (0.66, 0.96)                                  |
+| 3 ‡                                     | 598                                     | 216.2                                   | 598                                     | 135.1                                   | 1.60 (1.38, 1.85)                                  |
+| 4                                       | 598                                     | 1 125.6                                 | 598                                     | 1 661.6                                 | 0.68 (0.57, 0.80)                                  |
+| 5                                       | 598                                     | 447.3                                   | 598                                     | 563.5                                   | 0.79 (0.64, 0.98)                                  |
+| 6A                                      | 596                                     | 5 407.2                                 | 598                                     | 5 424.5                                 | 1.00 (0.84, 1.19)                                  |
+| 6B                                      | 598                                     | 4 011.7                                 | 598                                     | 3 258.2                                 | 1.23 (1.02, 1.48)                                  |
+| 7F                                      | 597                                     | 4 617.3                                 | 598                                     | 5 880.6                                 | 0.79 (0.68, 0.90)                                  |
+| 9V                                      | 598                                     | 1 817.3                                 | 597                                     | 2 232.9                                 | 0.81 (0.70, 0.94)                                  |
+| 14                                      | 598                                     | 1 999.3                                 | 598                                     | 2 656.7                                 | 0.75 (0.64, 0.89)                                  |
+| 18C                                     | 598                                     | 2 757.7                                 | 598                                     | 2 583.7                                 | 1.07 (0.91, 1.26)                                  |
+| 19A                                     | 598                                     | 3 194.3                                 | 598                                     | 3 979.8                                 | 0.80 (0.70, 0.93)                                  |
+| 19F                                     | 598                                     | 1 695.1                                 | 598                                     | 1 917.8                                 | 0.88 (0.76, 1.02)                                  |
+| 23F                                     | 598                                     | 2 045.4                                 | 598                                     | 1 740.4                                 | 1.18 (0.96, 1.44)                                  |
+| 2 Serotypes Additional to Vaxneuvance § | 2 Serotypes Additional to Vaxneuvance § | 2 Serotypes Additional to Vaxneuvance § | 2 Serotypes Additional to Vaxneuvance § | 2 Serotypes Additional to Vaxneuvance § | 2 Serotypes Additional to Vaxneuvance §            |
+| 22F                                     | 594                                     | 2 375.2                                 | 586                                     | 74.6                                    | 31.83 (25.35, 39.97)                               |
+| 33F                                     | 598                                     | 7 994.7                                 | 597                                     | 1 124.9                                 | 7.11 (6.07, 8.32)                                  |
 
-In a double-blind, descriptive study (Protocol 017), 1,515 immunocompetent subjects 18 to 49 years of age with or without risk factors for pneumococcal disease were randomised 3:1 and received Vaxneuvance or the 13-valent pneumococcal polysaccharide conjugate vaccine, followed by PPV23 6 months later. Risk factors for pneumococcal disease included the following: diabetes mellitus, chronic heart disease including heart f ailure, chronic liver disease with compensated cirrhosis, chronic lung disease including persistent asthma and chronic obstructive pulmonary disease (COPD), current tobacco use, and increased alcohol consumption. Overall, of those who received Vaxneuvance, 285 (25.2%) had no risk factor, 620 (54.7%) had 1 risk factor, and 228 (20.1%) had 2 or more risk factors.
+In a double-blind, descriptive study (Protocol 017), 1 515 immunocompetent subjects 18 to 49 years of age with or without risk factors for pneumococcal disease were randomised 3:1 and received Vaxneuvance or the 13-valent pneumococcal polysaccharide conjugate vaccine, followed by PPV23 6 months later. Risk factors for pneumococcal disease included the following: diabetes mellitus, chronic heart disease including heart f ailure, chronic liver disease with compensated cirrhosis, chronic lung disease including persistent asthma and chronic obstructive pulmonary disease (COPD), current tobacco use, and increased alcohol consumption. Overall, of those who received Vaxneuvance, 285 (25.2%) had no risk factor, 620 (54.7%) had 1 risk factor, and 228 (20.1%) had 2 or more risk factors.
 
-Vaxneuvance elicited immune responses to all 15 serotypes contained in the vaccine as assessed by OPA GMTs (Table 7) and IgG GMCs. OPA GMTs and IgG GMCs were generally comparable between the two vaccination groups for the 13 shared serotypes and higher in the Vaxneuvance group
+Vaxneuvance elicited immune responses to all 15 serotypes contained in the vaccine as assessed by OPA GMTs (Table 7) and IgG GMCs. OPA GMTs and IgG GMCs were generally comparable between the two vaccination groups for the 13 shared serotypes and higher in the Vaxneuvance group for the 2 additional serotypes. Following vaccination with PPV23, OPA GMTs and IgG GMCs were generally comparable between the two vaccination groups for all 15 serotypes.
 
 <div style=\"page-break-after: always\"></div>
 
-for the 2 additional serotypes. Following vaccination with PPV23, OPA GMTs and IgG GMCs were generally comparable between the two vaccination groups for all 15 serotypes.
-
-In a subgroup analysis based on the number of reported risk factors, Vaxneuvance elicited immune responses to all 15 serotypes contained in the vaccine as assessed by OPA GMTs and IgG GMCs at 30 days postvaccination in adults with no, 1, or 2 or more risk factors. The results in each subgroup were generally consistent with those observed in the overall study population. Sequential administration of Vaxneuvance f ollowed 6 months later by PPV23 was also immunogenic for all 15 serotypes contained in Vaxneuvance.
+In a subgroup analysis based on the number of reported risk factors, Vaxneuvance elicited immune responses to all 15 serotypes contained in the vaccine as assessed by OPA GMTs and IgG GMCs at 30 days postvaccination in adults with no, 1, or 2 or more risk factors. The results in each subgroup were generally consistent with those observed in the overall study population. Sequential administration of Vaxneuvance followed 6 months later by PPV23 was also immunogenic for all 15 serotypes contained in this vaccine.
 
 Table 7: Serotype-specific OPA GMTs at 30 days Postvaccination in Pneumococcal Vaccine-Naïve Adults 18-49 Years of Age With or Without Risk Factors for Pneumococcal Disease (Protocol 017)
 
-| Pneumococcal Serotype                 | Vaxneuvance (N = 1,133)               | Vaxneuvance (N = 1,133)               | Vaxneuvance (N = 1,133)               | 13-valentPCV (N = 379)                | 13-valentPCV (N = 379)                | 13-valentPCV (N = 379)                |
+| Pneumococcal Serotype                 | Vaxneuvance (N = 1,133)               | Vaxneuvance (N = 1,133)               | Vaxneuvance (N = 1,133)               | 13-valent PCV (N = 379)               | 13-valent PCV (N = 379)               | 13-valent PCV (N = 379)               |
 |---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
-|                                       | n                                     | Observed GMT                          | 95% CI*                               | n                                     | Observed GMT                          | 95% CI*                               |
+| n                                     |                                       | Observed GMT                          | 95% CI*                               | n                                     | Observed GMT                          | 95% CI*                               |
 | 13 Shared Serotypes                   | 13 Shared Serotypes                   | 13 Shared Serotypes                   | 13 Shared Serotypes                   | 13 Shared Serotypes                   | 13 Shared Serotypes                   | 13 Shared Serotypes                   |
-| 1                                     | 1019                                  | 268.6                                 | (243.7, 296.0)                        | 341                                   | 267.2                                 | (220.4, 323.9)                        |
-| 3                                     | 1004                                  | 199.3                                 | (184.6, 215.2)                        | 340                                   | 150.6                                 | (130.6, 173.8)                        |
-| 4                                     | 1016                                  | 1416.0                                | (1308.9, 1531.8)                      | 342                                   | 2576.1                                | (2278.0, 2913.2)                      |
-| 5                                     | 1018                                  | 564.8                                 | (512.7, 622.2)                        | 343                                   | 731.1                                 | (613.6, 871.0)                        |
-| 6A                                    | 1006                                  | 12928.8                               | (11923.4, 14019.0)                    | 335                                   | 11282.4                               | (9718.8, 13097.5)                     |
-| 6B                                    | 1014                                  | 10336.9                               | (9649.4, 11073.4)                     | 342                                   | 6995.7                                | (6024.7, 8123.2)                      |
-| 7F                                    | 1019                                  | 5756.4                                | (5410.4, 6124.6)                      | 342                                   | 7588.9                                | (6775.3, 8500.2)                      |
-| 9V                                    | 1015                                  | 3355.1                                | (3135.4, 3590.1)                      | 343                                   | 3983.7                                | (3557.8, 4460.7)                      |
-| 14                                    | 1016                                  | 5228.9                                | (4847.6, 5640.2)                      | 343                                   | 5889.8                                | (5218.2, 6647.8)                      |
-| 18C                                   | 1014                                  | 5709.0                                | (5331.1, 6113.6)                      | 343                                   | 3063.2                                | (2699.8, 3475.5)                      |
-| 19A                                   | 1015                                  | 5369.9                                | (5017.7, 5746.8)                      | 343                                   | 5888.0                                | (5228.2, 6631.0)                      |
-| 19F                                   | 1018                                  | 3266.3                                | (3064.4, 3481.4)                      | 343                                   | 3272.7                                | (2948.2, 3632.9)                      |
-| 23F                                   | 1016                                  | 4853.5                                | (4469.8, 5270.2)                      | 340                                   | 3887.3                                | (3335.8, 4530.0)                      |
+| 1                                     | 1 019                                 | 268.6                                 | (243.7, 296.0)                        | 341                                   | 267.2                                 | (220.4, 323.9)                        |
+| 3                                     | 1 004                                 | 199.3                                 | (184.6, 215.2)                        | 340                                   | 150.6                                 | (130.6, 173.8)                        |
+| 4                                     | 1 016                                 | 1 416.0                               | (13 08.9, 1 531.8)                    | 342                                   | 2 576.1                               | (2 278.0, 2 913.2)                    |
+| 5                                     | 1 018                                 | 564.8                                 | (512.7, 622.2)                        | 343                                   | 731.1                                 | (613.6, 871.0)                        |
+| 6A                                    | 1 006                                 | 12 928.8                              | (11 923.4, 14 019.0)                  | 335                                   | 11 282.4                              | (9 718.8, 13 097.5)                   |
+| 6B                                    | 1 014                                 | 10 336.9                              | (9 649.4, 11 073.4)                   | 342                                   | 6 995.7                               | (6 024.7, 8 123.2)                    |
+| 7F                                    | 1 019                                 | 5 756.4                               | (5 410.4, 6 124.6)                    | 342                                   | 7 588.9                               | (6 775.3, 8 500.2)                    |
+| 9V                                    | 1 015                                 | 3 355.1                               | (3 135.4, 3 590.1)                    | 343                                   | 3 983.7                               | (3 557.8, 4 460.7)                    |
+| 14                                    | 1 016                                 | 5 228.9                               | (4 847.6, 5 640.2)                    | 343                                   | 5 889.8                               | (5 218.2, 6 647.8)                    |
+| 18C                                   | 1 014                                 | 5 709.0                               | (5 331.1, 6 113.6)                    | 343                                   | 3 063.2                               | (2 699.8, 3 475.5)                    |
+| 19A                                   | 1 015                                 | 5 369.9                               | (5 017.7, 5 746.8)                    | 343                                   | 5 888.0                               | (5 228.2, 6 631.0)                    |
+| 19F                                   | 1 018                                 | 3 266.3                               | (3 064.4, 3 481.4)                    | 343                                   | 3 272.7                               | (2 948.2, 3 632.9)                    |
+| 23F                                   | 1 016                                 | 4 853.5                               | (4 469.8, 5 270.2)                    | 340                                   | 3 887.3                               | (3 335.8, 4 530.0)                    |
 | 2 Serotypes Additional to Vaxneuvance | 2 Serotypes Additional to Vaxneuvance | 2 Serotypes Additional to Vaxneuvance | 2 Serotypes Additional to Vaxneuvance | 2 Serotypes Additional to Vaxneuvance | 2 Serotypes Additional to Vaxneuvance | 2 Serotypes Additional to Vaxneuvance |
-| 22F                                   | 1005                                  | 3926.5                                | (3645.9, 4228.7)                      | 320                                   | 291.6                                 | (221.8, 383.6)                        |
-| 33F                                   | 1014                                  | 11627.8                               | (10824.6, 12490.7)                    | 338                                   | 2180.6                                | (1828.7, 2600.2)                      |
+| 22F                                   | 1 005                                 | 3 926.5                               | (3 645.9, 4 228.7)                    | 320                                   | 291.6                                 | (221.8, 383.6)                        |
+| 33F                                   | 1 014                                 | 11 627.8                              | (10 824.6, 12 490.7)                  | 338                                   | 2 180.6                               | (1 828.7, 2 600.2)                    |
 
 *The within-group 95% CIs are obtained by exponentiating the CIs of the mean of the natural log values based on the t-distribution.
 
@@ -623,7 +627,7 @@ Immune responses elicited by Vaxneuvance persisted up to 12 months postvaccinati
 
 <div style=\"page-break-after: always\"></div>
 
-GMCs were generally comparable between the intervention groups at Month 12 for the 13 shared serotypes and higher for the 2 additional serotypes among recipients of Vaxneuvance.
+GMCs were generally comparable between the intervention groups at Month 12 for the 13 shared serotypes and higher for the 2 additional serotypes among recipients of  Vaxneuvance.
 
 ## Adults with prior pneumococcal vaccination
 
@@ -641,7 +645,7 @@ In a double-blind, descriptive study (Protocol 030), Vaxneuvance was evaluated i
 
 ## Adults living with HIV
 
-In a double-blind, descriptive study (Protocol 018), 302 pneumococcal vaccine-naïve subjects ≥ 18 years of age living with HIV with CD4+ Tcell count ≥50 cells/µL and plasma HIV ribonucleic acid (RNA) &lt;50,000 copies/mL were randomised to receive Vaxneuvance or the 13-valent pneumococcal polysaccharide conjugate vaccine, followed by PPV23 2 months later. The majority of participants had a CD4+ Tcell count ≥200 cells/µL; 4 (1.3%) had a CD4+ T-cell count ≥50 to &lt;200 cells/µL, 152 (50.3%) had a CD4+ Tcell count ≥200 to &lt; 500 cells/µL, and 146 (48.3%) had a CD4+ Tcell count ≥500 cells/µL.
+In a double-blind, descriptive study (Protocol 018), 302 pneumococcal vaccine-naïve subjects ≥ 18 years of age living with HIV with CD4+ Tcell count ≥50 cells/µL and plasma HIV ribonucleic acid (RNA) &lt;50 000 copies/mL were randomised to receive Vaxneuvance or the 13-valent pneumococcal polysaccharide conjugate vaccine, followed by PPV23 2 months later. The majority of participants had a CD4+ Tcell count ≥200 cells/µL; 4 (1.3%) had a CD4+ T-cell count ≥50 to &lt;200 cells/µL, 152 (50.3%) had a CD4+ Tcell count ≥200 to &lt;500 cells/µL, and 146 (48.3%) had a CD4+ Tcell count ≥500 cells/µL.
 
 Vaxneuvance elicited immune responses to all 15 serotypes contained in the vaccine as assessed by OPA GMTs and IgG GMCs at 30 days postvaccination. Immune responses seen in the HIV-infected participants were consistently lower compared to healthy participants but comparable for both vaccination groups, except for serotype 4. OPA GMT and IgG GMC for serotype 4 were lower for Vaxneuvance. After sequential administration with PPV23, OPA GMTs and IgG GMCs were generally comparable between the two vaccination groups for all 15 serotypes.
 
@@ -653,7 +657,7 @@ In a double-blind, descriptive study (Protocol 023), Vaxneuvance was evaluated i
 
 ## Children and adults receiving Haematopoietic Stem Cell Transplant
 
-In a double-blind, descriptive study (Protocol 022), Vaxneuvance was evaluated in adults and children ≥3 years of age who had received an allogeneic haematopoietic stem cell transplant (allo-HSCT) 3 to 6 months prior to enrollment. In this study, 277 participants were randomised to receive 3 doses of Vaxneuvance or the 13-valent PCV, administered one month apart. Twelve months after allo-HSCT, participants without chronic graft-versus-host disease (cGvHD) received a single dose of PPV23 and those with cGvHD received a fourth dose of either Vaxneuvance or the 13-valent PCV. Vaxneuvance was immunogenic in recipients of allo-HSCT, as assessed by IgG GMCs and OPA GMTs at 30 days following the third dose of Vaxneuvance for all 15 serotypes contained in the vaccine. Serotype-specific IgG GMCs and OPA GMTs were generally comparable between the two vaccination groups for the 13 shared serotypes and higher in Vaxneuvance for the two additional serotypes (22F and 33F). Similarly, in participants who received either Vaxneuvance or the 13-valent PCV twelve months after allo-HSCT, IgG GMCs and OPA GMTs at 30 days following vaccination were generally comparable between the two vaccination groups for the 13 shared serotypes and higher in Vaxneuvance for the two additional serotypes (22F and 33F). In participants who received PPV23 twelve months after allo-HSCT, IgG GMCs and OPA GMTs at 30 days following vaccination were generally comparable between the two vaccination groups for all 15 serotypes contained in Vaxneuvance.
+In a double-blind, descriptive study (Protocol 022), Vaxneuvance was evaluated in adults and children ≥3 years of  age who had received an allogeneic haematopoietic stem cell transplant (allo-HSCT) 3 to 6 months prior to enrollment. In this study, 277 participants were randomised to receive 3 doses of Vaxneuvance or the 13-valent PCV, administered one month apart. Twelve months after allo-HSCT, participants without chronic graft-versus-host disease (cGvHD) received a single dose of PPV23 and those with cGvHD received a fourth dose of either Vaxneuvance or the 13-valent PCV. Vaxneuvance was immunogenic in recipients of allo-HSCT, as assessed by IgG GMCs and OPA GMTs at 30 days following the third dose of Vaxneuvance for all 15 serotypes contained in the vaccine. Serotype-specif ic IgG GMCs and OPA GMTs were generally comparable between the two vaccination groups for the 13 shared serotypes and higher in Vaxneuvance for the two additional serotypes (22F and 33F). Similarly, in participants who received either Vaxneuvance or the 13-valent PCV twelve months after allo-HSCT, IgG GMCs and OPA GMTs at 30 days following vaccination were generally comparable between the two vaccination groups for the 13 shared serotypes and higher in Vaxneuvance for the two additional serotypes (22F and 33F). In participants who received PPV23 twelve months after allo-HSCT, IgG GMCs and OPA GMTs at 30 days following vaccination were generally comparable between the two vaccination groups for all 15 serotypes contained in Vaxneuvance.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -661,7 +665,7 @@ Not applicable.
 
 ## 5.3 Preclinical safety data
 
-Non-clinical study data revealed no hazard for humans based on conventional studies of repeated dose toxicity and toxicity to reproduction and development.
+Non-clinical data reveal no special hazard for humans based on conventional studies of repeated dose toxicity and toxicity to reproduction and development.
 
 Vaxneuvance administered to female rats had no effects on mating performance, fertility, embryonic/foetal development, or development of the offspring.
 
@@ -687,7 +691,7 @@ In the absence of compatibility studies, this vaccine must not be mixed with oth
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 /uniF0B0 C -8 /uniF0B0 C).
+Store in a refrigerator (2  C -8  C).
 
 Do not freeze.
 
@@ -695,15 +699,13 @@ Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 Vaxneuvance should be administered as soon as possible after being removed from the refrigerator.
 
-In the event of temporary temperature excursions, stability data indicate that Vaxneuvance is stable at temperatures up to 25 /uniF0B0 C for 48 hours.
+In the event of temporary temperature excursions, Vaxneuvance is stable at temperatures up to 25  C for a maximum of 48 hours. If this period is exceeded, the vaccine should be discarded.
 
 ## 6.5 Nature and contents of container
 
-0.5 mL suspension in pre-filled syringe (Type I glass) with a plunger stopper (latex-f ree bromobutyl rubber) and a tip cap (latex-f ree styrene-butadiene or latex-f ree isoprene-bromobutyl rubber).
+0.5 mL suspension in pre-filled syringe (Type I glass) with a plunger stopper (bromobutyl rubber) and a tip cap (styrene-butadiene or isoprene-bromobutyl rubber).
 
-Pack sizes of 1 or 10 pre-filled syringes, either without needles, with 1 separate needle, or with 2 separate needles.
-
-Multipacks containing 50 (5 packs of 10) pre-filled syringes without needles.
+Pack sizes of 1 or 10 pre-filled syringes, either without needles, with 1 needle, or with 2 needles. Multipacks containing 50 (5 packs of 10) pre-filled syringes without needles.
 
 Not all pack sizes may be marketed.
 
@@ -714,7 +716,7 @@ Not all pack sizes may be marketed.
 - Immediately before use and prior to attaching the needle and expelling air from the syringe, hold the pre-f illed syringe horizontally and shake vigorously to obtain an opalescent suspension. Multiple attempts may be required to achieve complete resuspension. Do not use the vaccine if it cannot be resuspended.
 - Inspect the suspension visually for particulate matter and discolouration prior to administration. Discard the vaccine if particulates are present after vigorous shaking and/or if it appears discoloured.
 - Attach a needle with Luer lock connection by twisting in a clockwise direction until the needle fits securely on the syringe.
-- Inject immediately using the intramuscular (IM) route, preferably in the anterolateral aspect of the thigh in infants or in the deltoid area of the upper arm in children and adults.
+- Inject immediately using the intramuscular route, preferably in the anterolateral aspect of the thigh in infants or in the deltoid area of  the upper arm in children and adults.
 - Exercise care to avoid harm from an accidental needle stick.
 
 <!-- image -->
@@ -733,13 +735,11 @@ EU/1/21/1591/001 EU/1/21/1591/002 EU/1/21/1591/003 EU/1/21/1591/004 EU/1/21/1591
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 13 December 2021
+Date of first authorisation: 13 December 2021 Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-&lt;{MM/YYYY}&gt;
-
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of  the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -776,8 +776,6 @@ In accordance with Article 114 of Directive 2001/83/EC, the official batch relea
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
-The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
-
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk management plan (RMP)
@@ -786,7 +784,7 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
+- At the request of  the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
@@ -795,9 +793,9 @@ An updated RMP should be submitted:
 
 The MAH shall complete, within the stated timeframe, the below measures:
 
-| Description                                                                                                                        | Due date                         |
-|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-| Study V114-032: To evaluate the efficacy ofV114 in preventing vaccine-type (VT) pneumococcal Acute Otitis Media (AOM) in children. | Final Study Report due by 2Q2027 |
+| Description                                                                                                                         | Due date                         |
+|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| Study V114-032: To evaluate the efficacy of V114 in preventing vaccine-type (VT) pneumococcal Acute Otitis Media (AOM) in children. | Final Study Report due by 2Q2027 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -807,7 +805,7 @@ The MAH shall complete, within the stated timeframe, the below measures:
 
 <div style=\"page-break-after: always\"></div>
 
-## A. LABELLING
+- A. LABELLING
 
 <div style=\"page-break-after: always\"></div>
 
@@ -817,9 +815,7 @@ OUTER CARTON -Pre-filled syringe
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vaxneuvance suspension for injection in pre-filled syringe
-
-Pneumococcal polysaccharide conjugate vaccine (15-valent, adsorbed)
+Vaxneuvance suspension for injection in pre-filled syringe pneumococcal polysaccharide conjugate vaccine (15-valent, adsorbed)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -833,17 +829,17 @@ Excipients: NaCl, L-histidine, polysorbate 20, water f or injections
 
 ## Suspension for injection
 
-1 pre-filled syringe (0.5 mL) without needle
+1 pre-f illed syringe (0.5 mL) without needle
 
 10 pre-filled syringes (0.5 mL) without needle
 
-1 pre-filled syringe (0.5 mL) + 1 separate needle
+1 pre-f illed syringe (0.5 mL) + 1 needle
 
-10 pre-filled syringes (0.5 mL) + 10 separate needles
+10 pre-filled syringes (0.5 mL) + 10 needles
 
-1 pre-filled syringe (0.5 mL) + 2 separate needles
+1 pre-f illed syringe (0.5 mL) + 2  needles
 
-10 pre-filled syringes (0.5 mL) + 20 separate needles
+10 pre-filled syringes (0.5 mL) + 20  needles
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -885,17 +881,9 @@ The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1591/001 - pack of 1 without needle
+EU/1/21/1591/001 - pack of 1 without needle EU/1/21/1591/002 - pack of 10 without needle EU/1/21/1591/003 - pack of 1 + 1 needle EU/1/21/1591/004 - pack of 10 + 10 needles EU/1/21/1591/005 - pack of 1 + 2 needles
 
-EU/1/21/1591/002 - pack of 10 without needle
-
-EU/1/21/1591/003 - pack of 1 + 1 separate needle
-
-EU/1/21/1591/004 - pack of 10 + 10 separate needles
-
-EU/1/21/1591/005 - pack of 1 + 2 separate needles
-
-EU/1/21/1591/006 - pack of 10 + 20 separate needles
+EU/1/21/1591/006 - pack of 10 + 20 needles
 
 ## 13. BATCH NUMBER
 
@@ -919,21 +907,17 @@ PC
 
 SN
 
-<!-- image -->
-
 NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## INNER CARTON WITHOUT BLUE BOX -Multipack
+## OUTER CARTON  FOR MULTIPACK (INCLUDING BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vaxneuvance suspension for injection in pre-filled syringe
-
-Pneumococcal polysaccharide conjugate vaccine (15-valent, adsorbed)
+Vaxneuvance suspension for injection in pre-filled syringe pneumococcal polysaccharide conjugate vaccine (15-valent, adsorbed)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -946,102 +930,6 @@ Excipients: NaCl, L-histidine, polysorbate 20, water f or injections
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 ## Suspension for injection
-
-10 pre-f illed syringes (0.5 mL) without needles. Component of a multipack, can't be sold separately.
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Shake vigorously immediately before use.
-
-Read the package leaflet before use.
-
-Intramuscular use
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Store in a refrigerator. Do not f reeze.
-
-Keep the syringe in the outer carton in order to protect from light.
-
-<div style=\"page-break-after: always\"></div>
-
-10.
-
-SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
-
-OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
-
-APPROPRIATE
-
-| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATIONHOLDER   |
-|-------|------------------------------------------------------|
-
-Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
-
-| 12.   | MARKETINGAUTHORISATION NUMBER(S)   |
-|-------|------------------------------------|
-
-EU/1/21/1591/007
-
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
-
-Lot
-
-| 14.   | GENERAL CLASSIFICATION FORSUPPLY   |
-|-------|------------------------------------|
-
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
-
-Justif ication f or not including Braille accepted.
-
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
-
-Not applicable.
-
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
-
-Not applicable.
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-OUTER CARTON WITH BLUE BOX -Multipack
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Vaxneuvance suspension for injection in pre-filled syringe
-
-Pneumococcal polysaccharide conjugate vaccine (15-valent, adsorbed)
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-One dose (0.5 mL) contains 2 µg of pneumococcal polysaccharide of serotypes 1, 3, 4, 5, 6A, 7F, 9V, 14, 18C, 19A, 19F, 22F, 23F, 33F and 4 µg for serotype 6B conjugated to CRM197 carrier protein, adsorbed on aluminium phosphate adjuvant. One dose contains 125 µg Al 3+ .
-
-## 3. LIST OF EXCIPIENTS
-
-Excipients: NaCl, L-histidine, polysorbate 20, water f or injections
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-Suspension for injection
 
 Multipack: 50 (5 packs of 10) pre-filled syringes (0.5 mL) without needles.
 
@@ -1069,21 +957,102 @@ Store in a refrigerator. Do not f reeze.
 
 Keep the syringe in the outer carton in order to protect from light.
 
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem
+
+The Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/21/1591/007 50 pre-filled syringes without needles (5 packs of 10)
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+Justif ication f or not including Braille accepted.
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN NN
+
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## INNER CARTON WITHOUT BLUE BOX -Multipack
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Vaxneuvance suspension for injection in pre-filled syringe pneumococcal polysaccharide conjugate vaccine (15-valent, adsorbed)
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+One dose (0.5 mL) contains 2 µg of pneumococcal polysaccharide of serotypes 1, 3, 4, 5, 6A, 7F, 9V, 14, 18C, 19A, 19F, 22F, 23F, 33F and 4 µg for serotype 6B conjugated to CRM197 carrier protein, adsorbed on aluminium phosphate adjuvant. One dose contains 125 µg Al 3+ .
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: NaCl, L-histidine, polysorbate 20, water f or injections
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Suspension for injection
+
+10 pre-filled syringes (0.5 mL) without needles. Component of a multipack, can't be sold separately.
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Shake vigorously immediately before use.
+
+Read the package leaflet before use.
+
+Intramuscular use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator. Do not f reeze.
+
+Keep the syringe in the outer carton in order to protect from light.
+
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
 
-| 12. MARKETINGAUTHORISATION NUMBER(S)   |
-|----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1591/007 50 pre-filled syringes without needles (5 packs of 10)
+EU/1/21/1591/007
 
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
+## 13. BATCH NUMBER
 
 Lot
 
@@ -1093,15 +1062,10 @@ Lot
 
 Justif ication f or not including Braille accepted.
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+17. UNIQUE IDENTIFIER -2D BARCODE
 
-2D barcode carrying the unique identifier included.
-
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
-
-PC SN NN
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
@@ -1111,9 +1075,9 @@ LABEL - Pre-filled syringe
 
 Vaxneuvance
 
-Pneumococcal polysaccharide conjugate vaccine (15-valent, adsorbed)
+pneumococcal polysaccharide conjugate vaccine (15-valent, adsorbed)
 
-IM Injection
+IM injection
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -1139,7 +1103,7 @@ MSD
 
 <div style=\"page-break-after: always\"></div>
 
-## B. PACKAGE LEAFLET
+- B. PACKAGE LEAFLET
 
 ## Package leaflet: Information for the user
 
@@ -1148,10 +1112,6 @@ MSD
 ## Vaxneuvance suspension for injection in pre-filled syringe
 
 Pneumococcal polysaccharide conjugate vaccine (15-valent, adsorbed)
-
-<!-- image -->
-
-This medicine is subject to additional monitoring. This will allow quick identif ication of new safety inf ormation. You can help by reporting any side effects you or your child may get. See the end of section 4 for how to report side ef fects.
 
 ## Read all of this leaflet carefully before you or your child is vaccinated because it contains important information for you.
 
@@ -1165,7 +1125,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 1. What Vaxneuvance is and what it is used for
 2. What you need to know before you or your child receives Vaxneuvance
 3. How Vaxneuvance is given
-4. Possible side effects
+4. Possible side ef f ects
 5. How to store Vaxneuvance
 6. Contents of the pack and other information
 
@@ -1184,17 +1144,17 @@ Vaxneuvance is a pneumococcal vaccine given to:
 
 ## Warnings and precautions
 
-Talk to your doctor, pharmacist, or nurse bef ore you or your child receives Vaxneuvance if :
+Talk to your doctor, pharmacist, or nurse bef ore you or your child receives Vaxneuvance if:
 
 - the immune system is weak (which means the body is less able to fight off infections) or if you or your child is taking certain medicines that may make the immune system weak (for example, immunosuppressants or steroids).
-- you or your child has a high fever or severe infection. In these cases, the vaccination may have to be postponed until you or your child has recovered. However, a mild fever or inf ection (f or example having a cold) itself is not a reason to delay vaccination.
+- you or your child has a high fever or severe infection. In these cases, the vaccination may have to be postponed until you or your child has recovered. However, a mild fever or infection (for example having a cold) itself is not a reason to delay vaccination.
 - you or your child has any bleeding problems, bruises easily, or is taking medicines to prevent blood clots.
 
-<div style=\"page-break-after: always\"></div>
-
-If your child is an infant, also tell your doctor if  your child was born prematurely (too early).
+If your child is an inf ant, also tell your doctor if  your child was born prematurely (too early).
 
 As with any vaccine, Vaxneuvance may not fully protect all persons who are vaccinated.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Other medicines/vaccines and Vaxneuvance
 
@@ -1213,7 +1173,7 @@ If you are pregnant or breast-feeding, think you may be pregnant or are planning
 
 ## Driving and using machines
 
-Vaxneuvance has no or negligible influence on the ability to drive and use machines. However, some of the effects mentioned under section 4 'Possible side ef f ects'  may temporarily af f ect the ability  to drive or use machines.
+Vaxneuvance has no or negligible influence on the ability to drive and use machines. However, some of the ef f ects mentioned under section 4 'Possible side ef f ects'  may temporarily af f ect the ability  to drive or use machines.
 
 ## Vaxneuvance contains sodium and polysorbate 20
 
@@ -1231,7 +1191,7 @@ Your doctor or nurse will give the vaccine into your arm muscle or into your chi
 
 Your child should receive an initial course of 2 injections of the vaccine followed by a booster dose.
 
-- The first injection may be given as early as 6 weeks of  age.
+- The first injection may be given as early as 6 weeks of age.
 - A second injection is administered 2 months later.
 - A third injection (booster) will be given between 11 through 15 months of age.
 
@@ -1247,13 +1207,13 @@ Your child should receive an initial course of 3 injections of the vaccine follo
 - The second and third injections are given thereafter with an interval of 4 to 8 weeks between doses.
 - A fourth injection (booster) will be given between 11 through 15 months of age.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Infants, children and adolescents starting the vaccination at 7 months of age or older
 
-Infants 7 to less than 12 months of age should receive a total of  3 injections. The f irst two injections will be given at least 1 month apart. The third injection (booster) will be given af ter 12 months of  age and at least 2 months after the second injection.
+Infants 7 to less than 12 months of age should receive a total of 3 injections. The f irst two injections will be given at least 1 month apart. The third injection (booster) will be given af ter 12 months of  age and at least 2 months after the second injection.
 
-Children 12 months to less than 2 years of age should receive a total of  2 injections. The two injections will be given at least 2 months apart.
+<div style=\"page-break-after: always\"></div>
+
+Children 12 months to less than 2 years of age should receive a total of 2 injections. The two injections will be given at least 2 months apart.
 
 Children and adolescents 2 to less than 18 years of age should receive 1 injection.
 
@@ -1271,6 +1231,8 @@ If you have any further questions on the use of Vaxneuvance, ask your doctor, ph
 
 Like all vaccines, Vaxneuvance can cause side effects, although not everybody gets them.
 
+## Serious side effects:
+
 Get medical care right away if you or your child has symptoms of an allergic reaction, which may include:
 
 - Wheezing or trouble breathing
@@ -1278,74 +1240,77 @@ Get medical care right away if you or your child has symptoms of an allergic rea
 - Hives
 - Rash
 
-The following side effects can be seen after the use of Vaxneuvance in inf ants, children and adolescents:
+## Other side effects:
+
+The following side effects can be seen after the use of Vaxneuvance in infants, children and adolescents:
 
 Very common (may affect more than 1 in 10 people):
 
-- Fever (temperature of 38 °C or higher in those 6 weeks to less than 2 years of age)
+- Decreased appetite (in those 6 weeks to less than 2 years of  age)
 - Irritability (in those 6 weeks to less than 2 years of  age)
-- Drowsiness (in those 6 weeks to less than 2 years of age)
-- Pain, redness or swelling at the injection site
-- Decreased appetite (in those 6 weeks to less than 2 years of age)
-- Hardness at the injection site (in those 6 weeks to less than 2 years of  age)
+- Drowsiness (in those 6 weeks to less than 2 years of  age)
+- Headache (in those 2 to less than 18 years of age)
 - Muscle aches (in those 2 to less than 18 years of  age)
-- Feeling tired (in those 2 to less than 18 years of  age)
-- Headache (in those 2 to less than 18 years of  age)
+- Fever (temperature of 38 °C or higher in those 6 weeks to less than 2 years of  age)
+- Pain, redness or swelling at the injection site
+- Hardness at the injection site (in those 6 weeks to less than 2 years of age)
+- Feeling tired (in those 2 to less than 18 years of age)
 
-## Common (may aff ect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
-- Hardness at the injection site (in those 2 to less than 18 years of  age)
-- Hives
-- Fever (temperature of 38 °C or higher in those 2 to less than 18 years of  age)
-- Vomiting (in those 6 weeks to less than 2 years of age)
-- Rash (in those 6 weeks to less than 2 years of age)
-- Irritability (in those 2 to less than 18 years of  age)
-- Drowsiness (in those 2 to less than 18 years of  age)
 - Decreased appetite (in those 2 to less than 18 years of  age)
+- Irritability (in those 2 to less than 18 years of age)
+- Drowsiness (in those 2 to less than 18 years of  age)
+- Nausea (in those 2 to less than 18 years of  age)
+- Vomiting (in those 6 weeks to less than 2 years of age)
+- Hives
+- Rash (in those 6 weeks to less than 2 years of  age)
+- Fever (temperature of 38 °C or higher in those 2 to less than 18 years of age)
+- Hardness at the injection site (in those 2 to less than 18 years of age)
 - Bruising at the injection site
-- Nausea (in those 2 to less than 18 years of age)
 
 <div style=\"page-break-after: always\"></div>
 
 Uncommon (may affect up to 1 in 100 people):
 
 - Vomiting (in those 2 to less than 18 years of age)
+- Hives at the injection site (in those 6 weeks to less than 2 years of  age)
 
 Not known (cannot be estimated from the available data):
 
-- Rash (in those 2 to less than 18 years of age)
+- Rash (in those 2 to less than 18 years of  age)
 
 The following side effects can be seen after the use of Vaxneuvance in adults:
 
 Very common (may affect more than 1 in 10 people):
 
+- Headaches
+- Muscle aches
+- Joint pain (in those 18 to 49 years of  age)
 - Pain, swelling, or redness at the injection site
 - Feeling tired
-- Muscle aches
-- Headaches
-- Joint pain (in those 18 to 49 years of  age)
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
-- Joint pain (in those 50 years of age and older)
-- Nausea (in those 18 to 49 years of age)
-- Fever (in those 18 to 49 years of age)
-- Itchiness at the injection site
 - Dizziness (in those 18 to 49 years of age)
-- Chills (in those 18 to 49 years of age)
+- Nausea (in those 18 to 49 years of age)
+- Joint pain (in those 50 years of age and older)
+- Fever (in those 18 to 49 years of  age)
+- Itchiness at the injection site
+- Chills (in those 18 to 49 years of  age)
 
-## Uncommon (may affect up to 1 in 100 people):
+Uncommon (may affect up to 1 in 100 people):
 
-- Fever (in those 50 years of age and older)
-- Warmth at the injection site
-- Bruising at the injection site
 - Dizziness (in those 50 years of age and older)
 - Nausea (in those 50 years of age and older)
 - Vomiting
-- Chills (in those 50 years of age and older)
 - Rash
+- Fever (in those 50 years of  age and older)
+- Warmth at the injection site
+- Bruising at the injection site
+- Chills (in those 50 years of  age and older)
 
-Rare (may affect up to 1 in 1,000 people):
+Rare (may affect up to 1 in 1 000 people):
 
 - Allergic reaction such as hives, tongue swelling, flushing, and throat tightness
 
@@ -1353,19 +1318,19 @@ These side effects are generally mild and last a short time.
 
 ## Reporting of side effects
 
-If  you or your child gets any side ef f ects, talk to your doctor, pharmacist, or nurse. This includes any possible side eff ects not listed in this leaf let. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you or your child gets any side ef fects, talk to your doctor, pharmacist, or nurse. This includes any possible side ef f ects not listed in this leaf let. You can also report side ef fects directly via the national reporting system listed in Appendix V. By reporting side ef fects you can help provide more information on the safety of  this medicine.
 
 ## 5. How to store Vaxneuvance
 
 Keep this vaccine out of the sight and reach of children.
 
-Do not use this vaccine after the expiry date which is stated on the carton and syringe label af ter EXP. The expiry date refers to the last day of that month.
+Do not use this vaccine after the expiry date which is stated on the carton and syringe label af ter EXP. The expiry date refers to the last day of  that month.
 
-Store in a refrigerator (2 /uniF0B0 C -8 /uniF0B0 C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect f rom light.
+Store in a refrigerator (2  C -8  C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect f rom light.
 
 <div style=\"page-break-after: always\"></div>
 
-Vaxneuvance should be administered as soon as possible after being removed from the refrigerator. However, in circumstances where Vaxneuvance is temporarily held outside of refrigeration, the vaccine is stable at temperatures up to 25 /uniF0B0 C for 48 hours.
+Vaxneuvance should be administered as soon as possible after being removed from the refrigerator. However, in circumstances where Vaxneuvance is temporarily held outside of refrigeration, the vaccine is stable at temperatures up to 25  C for 48 hours. If this period is exceeded, the vaccine should be discarded.
 
 ## 6. Contents of the pack and other information
 
@@ -1373,10 +1338,10 @@ Vaxneuvance should be administered as soon as possible after being removed from 
 
 The active substances are:
 
-- -bacterial sugars f rom pneumococcus types 1, 3, 4, 5, 6A, 7F, 9V, 14, 18C, 19A, 19F, 22F, 23F, and 33F (2.0 micrograms of each type);
+- -bacterial sugars from pneumococcus types 1, 3, 4, 5, 6A, 7F, 9V, 14, 18C, 19A, 19F, 22F, 23F, and 33F (2.0 micrograms of each type);
 - -bacterial sugar from pneumococcus type 6B (4.0 micrograms).
 
-Each bacterial sugar is linked to a carrier protein (CRM197 ). The bacterial sugars and the carrier protein are not alive and do not cause disease.
+Each bacterial sugar is linked to a carrier protein (CRM197). The bacterial sugars and the carrier protein are not alive and do not cause disease.
 
 One dose (0.5 mL) contains approximately 30 micrograms carrier protein, adsorbed on aluminium phosphate (125 micrograms aluminium [Al 3+ ]). Aluminium phosphate is included in the vaccine as an adjuvant. Adjuvants are included to improve the immune responses of vaccines.
 
@@ -1384,7 +1349,7 @@ The other ingredients are sodium chloride (NaCl), L-histidine, polysorbate 20, a
 
 ## What Vaxneuvance looks like and contents of the pack
 
-Vaxneuvance is an opalescent suspension for injection, provided in a single-dose, pre-filled syringe (0.5 mL). Vaxneuvance is available in pack sizes of 1 or 10, either without needles, with 1 separate needle, or with 2 separate needles.
+Vaxneuvance is an opalescent suspension for injection, provided in a single-dose, pre-filled syringe (0.5 mL). Vaxneuvance is available in pack sizes of 1 or 10, either without needles, with 1 needle, or with 2 needles.
 
 Vaxneuvance is also available in multipacks comprising 5 cartons, each containing 10 pre-filled syringes without needles.
 
@@ -1392,27 +1357,35 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
+Merck Sharp &amp; Dohme B.V.
+
+Waarderweg 39 2031 BN Haarlem The Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
+MSD Belgium
 
-## Lietuva
+Tél/Tel: +32(0)27766211
 
-UAB Merck Sharp &amp; Dohme Tel. +370 5 2780 247 dpoc\\_lithuania@msd.com
+dpoc\\_belux@msd.com
 
-## /Beъл/geа/erи/ia
+Lietuva UAB Merck Sharp &amp; Dohme
 
-Ме/er/ka  Ша/er/pecyril  и  /Deо/ucyril/em  /Beъл/geа/erи/ia  Е/Ocyril/Ocyril/De /teел.:  +359 2 819 3737 info-msdbg@msd.com
+Tel. +370 5 2780 247 dpoc\\_lithuania@msd.com
+
+## България
+
+Мерк Шарп и Доум България ЕООД
+
+тел.: +359 2 819 3737
+
+info-msdbg@msd.com
 
 ## Luxembourg/Luxemburg
 
-MSD Belgium Tél/Tel: +32(0)27766211
-
-dpoc\\_belux@msd.com
+MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
 
 ## Česká republika
 
@@ -1430,9 +1403,9 @@ MSD Pharma Hungary Kft. Tel.: +36 1 888 5300 hungary\\_msd@msd.com
 
 ## Danmark
 
-MSD Danmark ApS Tlf.: +45 4482 4000
+MSD Danmark ApS
 
-dkmail@msd.com
+Tlf.: +45 4482 4000 dkmail@msd.com
 
 ## Deutschland
 
@@ -1448,7 +1421,9 @@ MSD Α.Φ.Ε.Ε. Τηλ: +30 210 98 97 300 dpoc.greece@msd.com
 
 ## España
 
-Merck Sharp &amp; Dohme de España, S.A. Tel: +34 91 321 06 00 msd\\_info@msd.com
+Merck Sharp &amp; Dohme de España, S.A.
+
+Tel: +34 91 321 06 00 msd\\_info@msd.com
 
 ## France
 
@@ -1469,10 +1444,6 @@ Vistor ehf. Sími: +354 535 7000
 ## Italia
 
 MSD Italia S.r.l. Tel: 800 23 99 89 (+39 06 361911) dpoc.italy@msd.com
-
-## Κύπρος
-
-Merck Sharp &amp; Dohme Cyprus Limited Τηλ: 800 00 673 (+357 22866700) dpoccyprus@msd.com
 
 ## Malta
 
@@ -1496,37 +1467,47 @@ MSD Polska Sp. z o.o. Tel.: +48 22 549 51 00 msdpolska@msd.com
 
 ## Portugal
 
-Merck Sharp &amp; Dohme, Lda Tel.: +351 21 4465700 inform\\_pt@msd.com
+Merck Sharp &amp; Dohme, Lda
+
+Tel.: +351 21 4465700 inform\\_pt@msd.com
 
 ## România
 
-Merck Sharp &amp; Dohme Romania S.R.L. Tel.: +40 21 529 29 00 msdromania@msd.com
+Merck Sharp &amp; Dohme Romania S.R.L.
+
+Tel.: +40 21 529 29 00 msdromania@msd.com
 
 ## Slovenija
 
-Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386 1 520 4201 msd.slovenia@msd.com
+Merck Sharp &amp; Dohme, inovativna zdravila d.o.o.
+
+Tel: +386 1 520 4201 msd.slovenia@msd.com
 
 ## Slovenská republika
 
-Merck Sharp &amp; Dohme, s. r. o. Tel.: +421 2 58282010 dpoc\\_czechslovak@msd.com
+Merck Sharp &amp; Dohme, s. r. o.
+
+Tel.: +421 2 58282010 dpoc\\_czechslovak@msd.com
 
 ## Suomi/Finland
 
 MSD Finland Oy Puh/Tel: +358 (0)9 804 650 info@msd.fi
 
-## Sverige
-
-Merck Sharp &amp; Dohme (Sweden) AB Tel: +46 77 5700488 medicinskinfo@msd.com
-
 <div style=\"page-break-after: always\"></div>
 
-Latvija SIA Merck Sharp &amp; Dohme Latvija Tel.: +371 67025300 dpoc.latvia@msd.com
+## Κύπρος
 
-## This leaflet was last revised in { MM/YYYY }.
+Merck Sharp &amp; Dohme Cyprus Limited Τηλ: 800 00 673 (+357 22866700) dpoccyprus@msd.com
+
+## Latvija
+
+SIA Merck Sharp &amp; Dohme Latvija Tel.: +371 67025300 dpoc.latvia@msd.com
+
+## This leaflet was last revised in .
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 &lt;------------------------------------------------------------------------------------------------------------------------&gt;
 
@@ -1538,12 +1519,10 @@ Vaxneuvance must not be injected intravascularly.
 - Immediately before use and prior to attaching the needle and expelling air from the syringe, hold the pre-f illed syringe horizontally and shake vigorously to obtain an opalescent suspension. Multiple attempts may be required to achieve complete resuspension. Do not use the vaccine if it cannot be resuspended.
 - Inspect the suspension visually for particulate matter and discolouration prior to administration. Discard the vaccine if particulates are present after vigorous shaking and/or if it appears discoloured.
 - Attach a needle with Luer lock connection by twisting in a clockwise direction until the needle fits securely on the syringe.
-- Inject immediately using the intramuscular (IM) route, preferably in the anterolateral aspect of the thigh in infants or in the deltoid area of the upper arm in children and adults.
+- Inject immediately using the intramuscular route, preferably in the anterolateral aspect of the thigh in infants or in the deltoid area of  the upper arm in children and adults.
 - Exercise care to avoid harm from an accidental needle stick.
 
 <!-- image -->
-
-No data are available for administration via the intradermal route.
 
 Vaxneuvance must not be mixed with any other vaccines in the same syringe.
 
@@ -1553,14 +1532,18 @@ Vaxneuvance can be administered concomitantly with seasonal quadrivalent influen
 
 Different injectable vaccines should always be administered at diff erent injection sites.
 
-Store in a refrigerator (2 ℃-8 ℃ ). Do not f reeze.
+Store in a refrigerator (2 ℃-8 ℃ ). Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 Vaxneuvance should be administered as soon as possible after being removed from the refrigerator.
 
-In the event of temporary temperature excursions, stability data indicate that Vaxneuvance is stable at temperatures up to 25 ℃ f or 48 hours.
+Sverige Merck Sharp &amp; Dohme (Sweden) AB Tel: +46 77 5700488
+
+medicinskinfo@msd.com
 
 <div style=\"page-break-after: always\"></div>
+
+In the event of temporary temperature excursions, Vaxneuvance is stable at temperatures up to 25  C for a maximum of 48 hours. If this period is exceeded, the vaccine should be discarded.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

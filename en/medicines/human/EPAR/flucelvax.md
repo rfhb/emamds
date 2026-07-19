@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-30 15:44:00
+document_datetime: 2026-07-17 15:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/flucelvax.html
 document_name: flucelvax.html
 version: success
-processing_time: 0.115702
-conversion_datetime: 2026-04-01 12:26:48.693027
+processing_time: 0.1567551
+conversion_datetime: 2026-07-19 12:04:01.968687
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.26.0
+  docling-jobkit: 2.1.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Flucelvax
 
@@ -56,7 +56,7 @@ Expand section
 
 Collapse section
 
-## How is Flucelvax used?
+### How is Flucelvax used?
 
 The vaccine can only be obtained with a prescription and should be used according to official recommendations.
 
@@ -64,7 +64,7 @@ Flucelvax is available as an injection in a pre-filled syringe. The recommended 
 
 For more information about using Flucelvax see the package leaflet or contact your doctor or pharmacist.
 
-## How does Flucelvax work?
+### How does Flucelvax work?
 
 Flucelvax is a vaccine. Vaccines work by 'teaching' the immune system (the body's natural defences) how to defend itself against a disease. Flucelvax contains proteins from the surface of three different strains of the flu virus.
 
@@ -72,7 +72,7 @@ When a person is given the vaccine, the immune system will treat the virus prote
 
 Each year, the WHO makes recommendations on which flu strains should be included in vaccines for the upcoming flu season in the northern hemisphere. The composition of Flucelvax will be updated annually according to WHO and EU recommendations.
 
-## What benefits of Flucelvax have been shown in studies?
+### What benefits of Flucelvax have been shown in studies?
 
 The company provided data from studies carried out in previous flu seasons to support the marketing authorisation of equivalent or similar flu vaccines, Optaflu and Flucelvax Tetra. Optaflu included virus strains expected to cause flu during the 2007/2008 season, while Flucelvax Tetra includes the three virus strains of Flucelvax, as well as an additional type B strain.
 
@@ -84,7 +84,7 @@ In another study involving over 4,500 children aged from 2 to less than 18 years
 
 A study involving around 5,700 children aged from 6 months to less than 4 years of age compared Flucelvax Tetra (1 or 2 doses, depending on whether they had received a past flu vaccination) with a non-influenza vaccine. Flucelvax Tetra was found to reduce the risk of getting flu: around 3.6% (104 out of 2856) of children vaccinated with Flucelvax Tetra got flu from any type of flu virus compared with 6.1% (173 out of 2835) of those given the non-influenza vaccine. Around 1.5% (44 out of 2856) of children vaccinated with Flucelvax Tetra got flu caused from virus strains specifically targeted by the vaccine, compared with around 2.9% (82 out of 2835) of children vaccinated with the non-influenza vaccine.
 
-## What are the risks associated with Flucelvax?
+### What are the risks associated with Flucelvax?
 
 For the full list of side effects and restrictions with Flucelvax, see the package leaflet.
 
@@ -96,19 +96,19 @@ The most common side effects in children aged 6 months to less than 6 years of a
 
 Flucelvax must not be used in people who are allergic to the active substance, any of the other ingredients, or the following substances which may be present in the vaccine in trace amounts: beta-propiolactone, cetyltrimethylammonium bromide and polysorbate 80.
 
-## Why is Flucelvax authorised in the EU?
+### Why is Flucelvax authorised in the EU?
 
 Each year in Europe, seasonal flu causes up to 50 million cases of illness, and between 15,000 and 70,000 people die from flu-related causes. The effectiveness of Flucelvax in people aged 6 months of age and older is supported by studies for similar or equivalent vaccines used during previous flu seasons that have a similar composition and are made using the same process. These studies have shown that the vaccines trigger a strong immune response to protect against flu and are effective in preventing flu. The safety profile of Flucelvax is expected to be similar to these vaccines, with side effects that are generally mild to moderate and short lived.
 
 The European Medicines Agency therefore decided that Flucelvax's benefits are greater than its risks and that it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Flucelvax?
+### What measures are being taken to ensure the safe and effective use of Flucelvax?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Flucelvax have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Flucelvax are continuously monitored. Suspected side effects reported with Flucelvax are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Flucelvax
+### Other information about Flucelvax
 
 Flucelvax received a marketing authorisation valid throughout the EU on 15 November 2024.
 
@@ -122,7 +122,7 @@ English (EN) (139.63 KB - PDF)
 
 [View](/en/documents/overview/flucelvax-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-889)
+[Other languages (22)](#file-language-dropdown-408)
 
 български (BG) (151.91 KB - PDF)
 
@@ -154,7 +154,7 @@ Deutsch (DE) (132.86 KB - PDF)
 
 [View](/de/documents/overview/flucelvax-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (124.35 KB - PDF)
+eesti (ET) (124.35 KB - PDF)
 
 **First published:** 28/11/2024 **Last updated:** 16/05/2025
 
@@ -184,13 +184,13 @@ italiano (IT) (126.73 KB - PDF)
 
 [View](/it/documents/overview/flucelvax-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (164.9 KB - PDF)
+latviešu (LV) (164.9 KB - PDF)
 
 **First published:** 28/11/2024 **Last updated:** 16/05/2025
 
 [View](/lv/documents/overview/flucelvax-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (158.94 KB - PDF)
+lietuvių (LT) (158.94 KB - PDF)
 
 **First published:** 28/11/2024 **Last updated:** 16/05/2025
 
@@ -244,7 +244,7 @@ slovenščina (SL) (158.4 KB - PDF)
 
 [View](/sl/documents/overview/flucelvax-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (125.59 KB - PDF)
+suomi (FI) (125.59 KB - PDF)
 
 **First published:** 28/11/2024 **Last updated:** 16/05/2025
 
@@ -268,167 +268,168 @@ English (EN) (9.39 MB - PDF)
 
 Flucelvax : EPAR - Product information
 
-English (EN) (370.7 KB - PDF)
+English (EN) (383.21 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/en/documents/product-information/flucelvax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-82)
+[Other languages (24)](#file-language-dropdown-734)
 
-български (BG) (470.43 KB - PDF)
+български (BG) (427.38 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/bg/documents/product-information/flucelvax-epar-product-information_bg.pdf)
 
-español (ES) (624.97 KB - PDF)
+español (ES) (591.77 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/es/documents/product-information/flucelvax-epar-product-information_es.pdf)
 
-čeština (CS) (406.3 KB - PDF)
+čeština (CS) (407.8 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/cs/documents/product-information/flucelvax-epar-product-information_cs.pdf)
 
-dansk (DA) (389.54 KB - PDF)
+dansk (DA) (397.21 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/da/documents/product-information/flucelvax-epar-product-information_da.pdf)
 
-Deutsch (DE) (495.13 KB - PDF)
+Deutsch (DE) (502.22 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/de/documents/product-information/flucelvax-epar-product-information_de.pdf)
 
-eesti keel (ET) (519.44 KB - PDF)
+eesti (ET) (486.46 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/et/documents/product-information/flucelvax-epar-product-information_et.pdf)
 
-ελληνικά (EL) (519.49 KB - PDF)
+ελληνικά (EL) (490.42 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/el/documents/product-information/flucelvax-epar-product-information_el.pdf)
 
-français (FR) (448.72 KB - PDF)
+français (FR) (460.53 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/fr/documents/product-information/flucelvax-epar-product-information_fr.pdf)
 
-hrvatski (HR) (440.71 KB - PDF)
+hrvatski (HR) (445.59 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/hr/documents/product-information/flucelvax-epar-product-information_hr.pdf)
 
-íslenska (IS) (380.27 KB - PDF)
+italiano (IT) (377.63 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
-
-[View](/is/documents/product-information/flucelvax-epar-product-information_is.pdf)
-
-italiano (IT) (367.25 KB - PDF)
-
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/it/documents/product-information/flucelvax-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (464.66 KB - PDF)
+latviešu (LV) (439.31 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/lv/documents/product-information/flucelvax-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (460.44 KB - PDF)
+lietuvių (LT) (422.92 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/lt/documents/product-information/flucelvax-epar-product-information_lt.pdf)
 
-magyar (HU) (422.72 KB - PDF)
+magyar (HU) (426.16 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/hu/documents/product-information/flucelvax-epar-product-information_hu.pdf)
 
-Malti (MT) (428.49 KB - PDF)
+Malti (MT) (458.16 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/mt/documents/product-information/flucelvax-epar-product-information_mt.pdf)
 
-Nederlands (NL) (410.89 KB - PDF)
+Nederlands (NL) (520.84 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/nl/documents/product-information/flucelvax-epar-product-information_nl.pdf)
 
-norsk (NO) (392.39 KB - PDF)
+polski (PL) (487.3 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
-
-[View](/no/documents/product-information/flucelvax-epar-product-information_no.pdf)
-
-polski (PL) (518.2 KB - PDF)
-
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/pl/documents/product-information/flucelvax-epar-product-information_pl.pdf)
 
-português (PT) (438.64 KB - PDF)
+português (PT) (414.42 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/pt/documents/product-information/flucelvax-epar-product-information_pt.pdf)
 
-română (RO) (469.14 KB - PDF)
+română (RO) (439.65 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/ro/documents/product-information/flucelvax-epar-product-information_ro.pdf)
 
-slovenčina (SK) (485.25 KB - PDF)
+slovenčina (SK) (444.86 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/sk/documents/product-information/flucelvax-epar-product-information_sk.pdf)
 
-slovenščina (SL) (431.03 KB - PDF)
+slovenščina (SL) (434.87 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/sl/documents/product-information/flucelvax-epar-product-information_sl.pdf)
 
-Suomi (FI) (410.92 KB - PDF)
+suomi (FI) (420.89 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/fi/documents/product-information/flucelvax-epar-product-information_fi.pdf)
 
-svenska (SV) (378.5 KB - PDF)
+svenska (SV) (386.92 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 30/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/sv/documents/product-information/flucelvax-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000332852
+Íslenska (IS) (386.99 KB - PDF)
 
-26/03/2026
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
+
+[View](/is/documents/product-information/flucelvax-epar-product-information_is.pdf)
+
+norsk (NO) (408.46 KB - PDF)
+
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
+
+[View](/no/documents/product-information/flucelvax-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000349146
+
+15/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -440,179 +441,172 @@ Product information documents contain:
 
 Flucelvax : EPAR - All authorised presentations
 
-English (EN) (50.69 KB - PDF)
+English (EN) (20.07 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/en/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-883)
+[Other languages (24)](#file-language-dropdown-442)
 
-български (BG) (62.97 KB - PDF)
+български (BG) (50.42 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/bg/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (81.41 KB - PDF)
+español (ES) (45.02 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/es/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (69.1 KB - PDF)
+čeština (CS) (45.78 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/cs/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (48.22 KB - PDF)
+dansk (DA) (16.37 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/da/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (47.78 KB - PDF)
+Deutsch (DE) (18.98 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/de/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (45.69 KB - PDF)
+eesti (ET) (15.79 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/et/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (91.79 KB - PDF)
+ελληνικά (EL) (51.88 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/el/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (45.75 KB - PDF)
+français (FR) (19.26 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/fr/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (138.1 KB - PDF)
+hrvatski (HR) (45 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/hr/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (47.85 KB - PDF)
+italiano (IT) (19.38 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
-
-[View](/is/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_is.pdf)
-
-italiano (IT) (46.15 KB - PDF)
-
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/it/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (67.84 KB - PDF)
+latviešu (LV) (44.2 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/lv/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (80.28 KB - PDF)
+lietuvių (LT) (46.42 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/lt/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (71.74 KB - PDF)
+magyar (HU) (42.54 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/hu/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (71.16 KB - PDF)
+Malti (MT) (47.81 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/mt/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (56.72 KB - PDF)
+Nederlands (NL) (19.62 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/nl/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (47.48 KB - PDF)
+polski (PL) (43.27 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
-
-[View](/no/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_no.pdf)
-
-polski (PL) (72.14 KB - PDF)
-
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/pl/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (46.58 KB - PDF)
+português (PT) (16.38 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/pt/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (69.05 KB - PDF)
+română (RO) (43.87 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/ro/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (79.26 KB - PDF)
+slovenčina (SK) (42.83 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/sk/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (62.84 KB - PDF)
+slovenščina (SL) (36.21 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/sl/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (46.09 KB - PDF)
+suomi (FI) (19.08 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/fi/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (66.22 KB - PDF)
+svenska (SV) (16.29 KB - PDF)
 
-**First published:** 28/11/2024 **Last updated:** 14/07/2025
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
 
 [View](/sv/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (19.3 KB - PDF)
+
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
+
+[View](/is/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (16.37 KB - PDF)
+
+**First published:** 28/11/2024 **Last updated:** 17/07/2026
+
+[View](/no/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Flucelvax
-
-Active substance
-
-A/Wisconsin/67/2022 (H1N1)pdm09-like strain (A/Georgia/12/2022 CVR-167) / A/District of Columbia/27/2023 (H3N2)-like strain (A/Victoria/800/2024 CVR-289) / B/Austria/1359417/2021-like strain (B/Singapore/WUH4618/2021)
-
-International non-proprietary name (INN) or common name
-
-influenza vaccine (surface antigen, inactivated, prepared in cell cultures)
-
-Therapeutic area (MeSH)
-
-Influenza, Human
-
-Anatomical therapeutic chemical (ATC) code
-
-J07BB02
+- **Name of medicine**
+    - Flucelvax
+- **Active substance**
+        - A/Missouri/11/2025 (H1N1)pdm09-like strain (A/Tasmania/318/2025, CVR-351)
+        - A/Darwin/1415/2025 (H3N2)-like strain (A/Tasmania/787/2025, CVR-388)
+        - B/Pennsylvania/14/2025-like strain (B/Arizona/21/2025, wild type)
+- **International non-proprietary name (INN) or common name**
+    - influenza vaccine (surface antigen, inactivated, prepared in cell cultures)
+- **Therapeutic area (MeSH)**
+    - Influenza, Human
+- **Anatomical therapeutic chemical (ATC) code**
+    - J07BB02
 
 ### Pharmacotherapeutic group
 
@@ -626,27 +620,16 @@ Flucelvax should be used in accordance with official recommendations.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006532
-
-Marketing authorisation holder
-
-Seqirus Netherlands B.V.
-
-Paasheuvelweg 28
-
-Opinion adopted
-
-17/10/2024
-
-Marketing authorisation issued
-
-15/11/2024
-
-Revision
-
-3
+- **EMA product number**
+    - EMEA/H/C/006532
+- **Marketing authorisation holder**
+    - Seqirus Netherlands B.V. Paasheuvelweg 28  1105 BJ Amsterdam  The Netherlands
+- **Opinion adopted**
+    - 17/10/2024
+- **Marketing authorisation issued**
+    - 15/11/2024
+- **Revision**
+    - 4
 
 ## Assessment history
 
@@ -654,13 +637,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Flucelvax : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (180.98 KB - PDF)
+English (EN) (201.15 KB - PDF)
 
-**First published:** 14/07/2025 **Last updated:** 30/03/2026
+**First published:** 14/07/2025 **Last updated:** 17/07/2026
 
 [View](/en/documents/procedural-steps-after/flucelvax-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -682,7 +665,7 @@ English (EN) (1.04 MB - PDF)
 
 [View](/en/documents/variation-report/flucelvax-h-c-006532-ii-0001-epar-assessment-report-variation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Flucelvax : EPAR - Public assessment report
 
@@ -720,6 +703,6 @@ English (EN) (132.99 KB - PDF)
 
 **This page was last updated on**
 
-30/03/2026
+17/07/2026
 
 ## Share this page

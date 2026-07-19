@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-04-25 16:34:01
+document_datetime: 2026-07-16 12:50:04
 document_pages: 64
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/elocta-epar-product-information_en.pdf
 document_name: elocta-epar-product-information_en.pdf
 version: success
-processing_time: 12.7312436
-conversion_datetime: 2025-12-30 19:56:32.613345
+processing_time: 12.9122862
+conversion_datetime: 2026-07-19 12:35:33.75663
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.1.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -150,7 +150,7 @@ In some cases, especially in younger patients, shorter dosage intervals or highe
 
 ## Elderly
 
-There is limited experience in patients ≥65 years.
+There is limited experience in patients ≥ 65 years.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -361,7 +361,7 @@ Table 3: Pharmacokinetic parameters of ELOCTA using the one-stage clotting assay
 | MRT (h)                                | 25.2 (22.7-27.9)  |
 | V ss (mL/kg)                           | 49.1 (46.6-51.7)  |
 
-Abbreviations: CI = confidence interval; Cmax = maximum activity; AUC = area under the FVIII activity time curve; t½ = terminal half-life; CL = clearance; Vss = volume of distribution at steady-state; MRT = mean residence time.
+Abbreviations: CI = confidence interval; C max = maximum activity ; AUC = area under the FVIII activity time curve; t½ = terminal halflife; CL = clearance; V ss = volume of distribution at steadystate; MRT = mean residence time.
 
 Table 4: Pharmacokinetic parameters of ELOCTA using the chromogenic assay
 
@@ -375,7 +375,7 @@ Table 4: Pharmacokinetic parameters of ELOCTA using the chromogenic assay
 | MRT (h)                                | 25.0 (22.4-27.8)  |
 | V ss (mL/kg)                           | 52.6 (47.4-58.3)  |
 
-Abbreviations: CI = confidence interval; Cmax = maximum activity; AUC = area under the FVIII activity time curve; t½ = terminal half-life; CL = clearance; Vss = volume of distribution at steady-state; MRT = mean residence time.
+Abbreviations: CI = confidence interval; C max = maximum activity ; AUC = area under the FVIII activity time curve; t½ = terminal halflife; CL = clearance; V ss = volume of distribution at steadystate; MRT = mean residence time.
 
 The PK data demonstrate that ELOCTA has a prolonged circulating half-life.
 
@@ -413,7 +413,7 @@ Table 6: Pharmacokinetic parameters of ELOCTA for paediatrics using the chromoge
 | CL (mL/h/kg)                           | 3.86 (3.48-4.28) | 3.05 (2.62-3.55) | 2.45 (1.76-3.41) |
 | V ss (mL/kg)                           | 66.5 (59.8-73.9) | 63.1 (56.3-70.9) | 57.6 (50.2-65.9) |
 
-CL = clearance; MRT = mean residence time; Vss = volume of distribution at steady-state
+CL = clearance; MRT = mean residence time; V ss = volume of distribution at steady-state
 
 * Pharmacokinetic parameters in 12 to &lt;18 years included subjects from all the arms in Study I with different sampling schemes
 
@@ -610,11 +610,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturers of the biological active substance
 
-Biogen Inc 250 Binney Street Cambridge, MA 02142
+Biogen Inc 250 Binney Street Cambridge, MA 02142 USA
 
-USA
-
-Biogen Inc. 5000 Davis Drive Research Triangle Park, NC 27709 USA
+Biogen MA Inc. 5000 Davis Drive Morrisville, North Carolina 27560 USA
 
 Name and address of the manufacturer responsible for batch release
 
@@ -659,7 +657,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ELOCTA 250 IU powder and solvent for solution for injection efmoroctocog alfa
+ELOCTA 250 IU powder and solvent for solution for injection
+
+efmoroctocog alfa
 
 (recombinant coagulation factor VIII, Fc fusion protein)
 
@@ -685,7 +685,7 @@ Intravenous use, after reconstitution. Read the package leaflet before use.
 
 An instructional video on how to prepare and administer ELOCTA is available by scanning the QR code with a smartphone or via the website.
 
-QR code to be included+ http://www.elocta-instructions.com
+[QR code to be included+ http://www.elocta-instructions.com](http://www.eloct-instructions.com/)
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -743,8 +743,8 @@ ELOCTA 250
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -754,7 +754,9 @@ PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-ELOCTA 250 IU powder for injection efmoroctocog alfa recombinant coagulation factor VIII IV
+ELOCTA 250 IU powder for injection
+
+efmoroctocog alfa recombinant coagulation factor VIII IV
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -780,7 +782,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ELOCTA 500 IU powder and solvent for solution for injection efmoroctocog alfa
+ELOCTA 500 IU powder and solvent for solution for injection
+
+efmoroctocog alfa
 
 (recombinant coagulation factor VIII, Fc fusion protein)
 
@@ -806,7 +810,7 @@ Intravenous use, after reconstitution. Read the package leaflet before use.
 
 An instructional video on how to prepare and administer ELOCTA is available by scanning the QR code with a smartphone or via the website.
 
-QR code to be included+ http://www.elocta-instructions.com
+[QR code to be included+ http://www.elocta-instructions.com](http://www.eloct-instructions.com/)
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -864,8 +868,8 @@ ELOCTA 500
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -875,7 +879,9 @@ PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-ELOCTA 500 IU powder for injection efmoroctocog alfa recombinant coagulation factor VIII IV
+ELOCTA 500 IU powder for injection
+
+efmoroctocog alfa recombinant coagulation factor VIII IV
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -901,7 +907,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ELOCTA 750 IU powder and solvent for solution for injection efmoroctocog alfa
+ELOCTA 750 IU powder and solvent for solution for injection
+
+efmoroctocog alfa
 
 (recombinant coagulation factor VIII, Fc fusion protein)
 
@@ -927,7 +935,7 @@ Intravenous use, after reconstitution. Read the package leaflet before use.
 
 An instructional video on how to prepare and administer ELOCTA is available by scanning the QR code with a smartphone or via the website.
 
-QR code to be included+ http://www.elocta-instructions.com
+[QR code to be included+ http://www.elocta-instructions.com](http://www.eloct-instructions.com/)
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -985,8 +993,8 @@ ELOCTA 750
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -996,7 +1004,9 @@ PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-ELOCTA 750 IU powder for injection efmoroctocog alfa recombinant coagulation factor VIII IV
+ELOCTA 750 IU powder for injection
+
+efmoroctocog alfa recombinant coagulation factor VIII IV
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -1022,7 +1032,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ELOCTA 1000 IU powder and solvent for solution for injection efmoroctocog alfa
+ELOCTA 1000 IU powder and solvent for solution for injection
+
+efmoroctocog alfa
 
 (recombinant coagulation factor VIII, Fc fusion protein)
 
@@ -1048,7 +1060,7 @@ Intravenous use, after reconstitution. Read the package leaflet before use.
 
 An instructional video on how to prepare and administer ELOCTA is available by scanning the QR code with a smartphone or via the website.
 
-QR code to be included+ http://www.elocta-instructions.com
+[QR code to be included+ http://www.elocta-instructions.com](http://www.eloct-instructions.com/)
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1106,8 +1118,8 @@ ELOCTA 1000
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1117,7 +1129,9 @@ PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-ELOCTA 1000 IU powder for injection efmoroctocog alfa recombinant coagulation factor VIII IV
+ELOCTA 1000 IU powder for injection
+
+efmoroctocog alfa recombinant coagulation factor VIII IV
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -1143,7 +1157,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ELOCTA 1500 IU powder and solvent for solution for injection efmoroctocog alfa
+ELOCTA 1500 IU powder and solvent for solution for injection
+
+efmoroctocog alfa
 
 (recombinant coagulation factor VIII, Fc fusion protein)
 
@@ -1169,7 +1185,7 @@ Intravenous use, after reconstitution. Read the package leaflet before use.
 
 An instructional video on how to prepare and administer ELOCTA is available by scanning the QR code with a smartphone or via the website.
 
-QR code to be included+ http://www.elocta-instructions.com
+[QR code to be included+ http://www.elocta-instructions.com](http://www.eloct-instructions.com/)
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1207,7 +1223,7 @@ Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/15/1046/005
+## EU/1/15/1046/005
 
 ## 13. BATCH NUMBER
 
@@ -1227,8 +1243,8 @@ ELOCTA 1500
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1238,7 +1254,9 @@ PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-ELOCTA 1500 IU powder for injection efmoroctocog alfa recombinant coagulation factor VIII IV
+ELOCTA 1500 IU powder for injection
+
+efmoroctocog alfa recombinant coagulation factor VIII IV
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -1264,7 +1282,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ELOCTA 2000 IU powder and solvent for solution for injection efmoroctocog alfa
+ELOCTA 2000 IU powder and solvent for solution for injection
+
+efmoroctocog alfa
 
 (recombinant coagulation factor VIII, Fc fusion protein)
 
@@ -1290,7 +1310,7 @@ Intravenous use, after reconstitution. Read the package leaflet before use.
 
 An instructional video on how to prepare and administer ELOCTA is available by scanning the QR code with a smartphone or via the website.
 
-QR code to be included+ http://www.elocta-instructions.com
+[QR code to be included+ http://www.elocta-instructions.com](http://www.eloct-instructions.com/)
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1348,8 +1368,8 @@ ELOCTA 2000
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1359,7 +1379,9 @@ PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-ELOCTA 2000 IU powder for injection efmoroctocog alfa recombinant coagulation factor VIII IV
+ELOCTA 2000 IU powder for injection
+
+efmoroctocog alfa recombinant coagulation factor VIII IV
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -1385,7 +1407,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ELOCTA 3000 IU powder and solvent for solution for injection efmoroctocog alfa
+ELOCTA 3000 IU powder and solvent for solution for injection
+
+efmoroctocog alfa
 
 (recombinant coagulation factor VIII, Fc fusion protein)
 
@@ -1411,7 +1435,7 @@ Intravenous use, after reconstitution. Read the package leaflet before use.
 
 An instructional video on how to prepare and administer ELOCTA is available by scanning the QR code with a smartphone or via the website.
 
-QR code to be included+ http://www.elocta-instructions.com
+[QR code to be included+ http://www.elocta-instructions.com](http://www.eloct-instructions.com/)
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1469,8 +1493,8 @@ ELOCTA 3000
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1480,7 +1504,9 @@ PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-ELOCTA 3000 IU powder for injection efmoroctocog alfa recombinant coagulation factor VIII IV
+ELOCTA 3000 IU powder for injection
+
+efmoroctocog alfa recombinant coagulation factor VIII IV
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -1506,7 +1532,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ELOCTA 4000 IU powder and solvent for solution for injection efmoroctocog alfa
+ELOCTA 4000 IU powder and solvent for solution for injection
+
+efmoroctocog alfa
 
 (recombinant coagulation factor VIII, Fc fusion protein)
 
@@ -1528,11 +1556,13 @@ Content: 1 powder vial, 3 mL solvent in pre-filled syringe, 1 plunger rod, 1 via
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Intravenous use, after reconstitution. Read the package leaflet before use.
+Intravenous use, after reconstitution.
+
+Read the package leaflet before use.
 
 An instructional video on how to prepare and administer ELOCTA is available by scanning the QR code with a smartphone or via the website.
 
-QR code to be included+ http://www.elocta-instructions.com
+[QR code to be included+ http://www.elocta-instructions.com](http://www.eloct-instructions.com/)
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1558,7 +1588,7 @@ Keep the vial in the outer carton in order to protect from light.
 
 Can be stored at room temperature (up to 30°C) for a single period up to 6 months. Must not be returned to refrigerator after storage at room temperature. Date removed from refrigerator:
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1590,20 +1620,20 @@ ELOCTA 4000
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-## VIAL LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-ELOCTA 4000 IU powder for injection efmoroctocog alfa recombinant coagulation factor VIII IV
+ELOCTA 4000 IU powder for injection
+
+efmoroctocog alfa recombinant coagulation factor VIII IV
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -1623,17 +1653,17 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                         |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Solvent for ELOCTA water for injections
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1645,8 +1675,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 3 mL
 
@@ -1746,11 +1776,9 @@ This medicine contains 0.4 mg of polysorbate 20 in each vial. Polysorbates may c
 
 Treatment with ELOCTA will be started by a doctor who is experienced in the care of patients with haemophilia. Always use this medicine exactly as your doctor has told you (see Instructions for preparation and administration). Check with your doctor, pharmacist or nurse if you are not sure.
 
-ELOCTA is given as an injection into a vein. Your doctor will calculate the dose of ELOCTA (in International Units or 'IU') depending on your individual needs for factor VIII replacement therapy and on
+ELOCTA is given as an injection into a vein. Your doctor will calculate the dose of ELOCTA (in International Units or 'IU') depending on your individual needs for factor VIII replacement therapy and on whether it is used for prevention or treatment of bleeding. Talk to your doctor if you think that your bleeding is not being controlled with the dose you receive.
 
 <div style=\"page-break-after: always\"></div>
-
-whether it is used for prevention or treatment of bleeding. Talk to your doctor if you think that your bleeding is not being controlled with the dose you receive.
 
 How often you need an injection will depend on how well ELOCTA is working for you. Your doctor will perform appropriate laboratory tests to make sure that you have adequate factor VIII levels in your blood.
 
@@ -1786,7 +1814,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 If severe, sudden allergic reactions (anaphylactic reaction) occur, the injection must be stopped immediately. You must contact your doctor immediately if you experience any of the following symptoms of allergic reactions: swelling of the face, rash, generalised itching, hives, tightness of the chest, difficulty breathing, burning and stinging at the injection site, chills, flushing, headache, low blood pressure, general feeling of being unwell, nausea, restlessness and fast heartbeat, feeling dizzy or loss of consciousness.
 
-For children previously untreated with factor VIII medicines, inhibitor antibodies (see section 2) may form very commonly (more than 1 in 10 patients); however, patients who have received previous treatment with factor VIII (more than 150 days of treatment) the risk is uncommon (less than 1 in 100 patients). If this happens the medicines may stop working properly and you may experience persistent bleeding. If this happens, you should contact your doctor immediately.
+For children previously untreated with factor VIII medicines, inhibitor antibodies (see section 2) may form very commonly (more than 1 in 10 patients); however , patients who have received previous treatment with factor VIII (more than 150 days of treatment) the risk is uncommon (less than 1 in 100 patients). If this happens the medicines may stop working properly and you may experience persistent bleeding. If this happens, you should contact your doctor immediately.
 
 The following side effects may occur with this medicine.
 
@@ -1939,8 +1967,7 @@ ELOCTA should be administered using the infusion set (E) provided in this pack.
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+5. After completing the injection and removing the needle, you should fold over the needle protector and snap it over the needle.
+6. Please safely dispose of the used needle, any unused solution, the syringe and the empty vial in an appropriate medical waste container as these materials may hurt others if not disposed of properly. Do not reuse equipment.
 
-|   5. | After completing the injection and removing the needle, you should fold over the needle protector and snap it over the needle.                                                                                                  |
-|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    6 | Please safely dispose of the used needle, any unused solution, the syringe and the empty vial in an appropriate medical waste container as these materials may hurt others if not disposed of properly. Do not reuse equipment. |
+<!-- image -->

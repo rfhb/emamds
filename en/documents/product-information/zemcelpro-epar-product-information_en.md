@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-18 11:33:30
+document_datetime: 2026-07-16 13:24:07
 document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zemcelpro-epar-product-information_en.pdf
 document_name: zemcelpro-epar-product-information_en.pdf
 version: success
-processing_time: 18.26339
-conversion_datetime: 2026-02-21 13:02:28.621313
+processing_time: 14.4211914
+conversion_datetime: 2026-07-19 12:26:22.261417
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.1.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -255,7 +255,9 @@ This medicinal product contains potassium, less than 1.3 mmol (50 mg) per dose.
 
 ## Dimethyl sulfoxide (DMSO)
 
-This medicinal product contains 17.6 g DMSO per dose. For an adult of 70 kg, the DMSO infused represents 25% of daily maximal recommended dose of 1 g of DMSO/kg. This excipient is known to possibly cause anaphylactic reaction following parenteral administration.
+This medicinal product contains 17.6 g DMSO per dose. For an adult of 70 kg, the DMSO infused represents 25% of daily maximal recommended dose of 1 g of DMSO/kg.
+
+This excipient is known to possibly cause anaphylactic reaction following parenteral administration.
 
 All patients should be observed closely during the infusion period.
 
@@ -289,11 +291,9 @@ There is insufficient exposure data to provide a recommendation concerning durat
 
 ## Pregnancy
 
-There are no data from the use of dorocubicel in pregnant women. No animal studies have been conducted with dorocubicel to assess whether it can cause foetal harm when administered to a pregnant woman (see section 5.3). Zemcelpro should not be used during pregnancy or by women of
+There are no data from the use of dorocubicel in pregnant women. No animal studies have been conducted with dorocubicel to assess whether it can cause foetal harm when administered to a pregnant woman (see section 5.3). Zemcelpro should not be used during pregnancy or by women of childbearing potential not using contraception.
 
 <div style=\"page-break-after: always\"></div>
-
-childbearing potential not using contraception.
 
 ## Breast-feeding
 
@@ -329,68 +329,69 @@ Common Terminology Criteria for Adverse Events (CTCAE) Grade 3 or higher and unu
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                               | Leukopenia Febrile neutropenia                                                                                              |
-|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| Uncommon                                                                      | Autoimmune haemolytic anaemia Cytopenia Thrombotic microangiopathy                                                          |
-| Cardiac disorders                                                             | Cardiac disorders                                                                                                           |
-| Uncommon                                                                      | Angina pectoris Atrial fibrillation Atrial flutter Pericarditis Right ventricular dysfunction                               |
-| Congenital, familial and genetic disorders                                    | Congenital, familial and genetic disorders                                                                                  |
-| Uncommon                                                                      | Aplasia Cytogenetic abnormality                                                                                             |
-| Ear and labyrinth disorders                                                   | Ear and labyrinth disorders                                                                                                 |
-| Uncommon                                                                      | Hypoacusis                                                                                                                  |
-| Endocrine disorders                                                           | Endocrine disorders                                                                                                         |
-| Uncommon                                                                      | Adrenal insufficiency                                                                                                       |
-| Gastrointestinal disorders                                                    | Gastrointestinal disorders                                                                                                  |
-| Common                                                                        | Diarrhoea Nausea Stomatitis Abdominal pain                                                                                  |
-| Uncommon Common                                                               | Anal stenosis Colitis Enterocolitis Jejunal perforation Malabsorption                                                       |
-| Pneumatosis intestinalis General disorders and administration site conditions | Pneumatosis intestinalis General disorders and administration site conditions                                               |
-|                                                                               | Pyrexia Fatigue                                                                                                             |
-| Uncommon                                                                      | Generalised oedema Malaise Mucosal inflammation                                                                             |
-| Hepatobiliary disorders                                                       | Hepatobiliary disorders                                                                                                     |
-| Common                                                                        | Venoocclusive liver disease                                                                                                 |
-| Uncommon                                                                      | Hyperbilirubinaemia                                                                                                         |
-| Immune system disorders                                                       | Immune system disorders                                                                                                     |
-| Very common                                                                   | Acute GvHD (grade II-III) * Hypogammaglobulinaemia Engraftment syndrome Chronic GvHD **                                     |
-| Infections and infestations***                                                | Infections and infestations***                                                                                              |
-| Very common                                                                   | Bacterial infections (Including pneumonias) Viral infections                                                                |
-| Common                                                                        | Fungal infections Unspecified infections                                                                                    |
-| Injury, poisoning and procedural complications                                | Injury, poisoning and procedural complications                                                                              |
-| Common                                                                        | Graft failure                                                                                                               |
-| Investigations                                                                | Investigations                                                                                                              |
-| Common                                                                        | CD4 lymphocytes decreased Alanine aminotransferase increased Immunoglobulins decreased Aspartate aminotransferase increased |
+|                                                      | Leukopenia Febrile neutropenia                                                                                              |
+|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| Uncommon                                             | Autoimmune haemolytic anaemia Cytopenia Thrombotic microangiopathy                                                          |
+| Cardiac disorders                                    | Cardiac disorders                                                                                                           |
+| Uncommon                                             | Angina pectoris Atrial fibrillation Atrial flutter Pericarditis Right ventricular dysfunction                               |
+| Congenital, familial and genetic disorders           | Congenital, familial and genetic disorders                                                                                  |
+| Uncommon                                             | Aplasia Cytogenetic abnormality                                                                                             |
+| Ear and labyrinth disorders                          | Ear and labyrinth disorders                                                                                                 |
+| Uncommon                                             | Hypoacusis                                                                                                                  |
+| Endocrine disorders                                  | Endocrine disorders                                                                                                         |
+| Uncommon                                             | Adrenal insufficiency                                                                                                       |
+| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                  |
+| Common                                               | Diarrhoea Nausea Stomatitis Abdominal pain                                                                                  |
+| Pneumatosis intestinalis                             | Pneumatosis intestinalis                                                                                                    |
+| Uncommon                                             | Anal stenosis Colitis Enterocolitis Jejunal perforation Malabsorption                                                       |
+| General disorders and administration site conditions | General disorders and administration site conditions                                                                        |
+| Common                                               | Pyrexia Fatigue                                                                                                             |
+| Uncommon                                             | Generalised oedema Malaise Mucosal inflammation                                                                             |
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                     |
+| Common                                               | Venoocclusive liver disease                                                                                                 |
+| Uncommon                                             | Hyperbilirubinaemia                                                                                                         |
+| Immune system disorders                              | Immune system disorders                                                                                                     |
+| Very common                                          | Acute GvHD (grade II-III) * Hypogammaglobulinaemia Engraftment syndrome Chronic GvHD **                                     |
+| Infections and infestations***                       | Infections and infestations***                                                                                              |
+| Very common                                          | Bacterial infections (Including pneumonias) Viral infections                                                                |
+| Common                                               | Fungal infections Unspecified infections                                                                                    |
+| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                                                              |
+| Common                                               | Graft failure                                                                                                               |
+| Investigations                                       | Investigations                                                                                                              |
+| Common                                               | CD4 lymphocytes decreased Alanine aminotransferase increased Immunoglobulins decreased Aspartate aminotransferase increased |
 
 <div style=\"page-break-after: always\"></div>
 
-| Uncommon                                        | Blood bilirubin increased Blood bilirubin decreased Carbon monoxide diffusing capacity decreased CMVtest positive Electrocardiogram QT prolonged Haemoglobin decreased Neutrophil count decreased   |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                                                                                                                                  |
-| Common                                          | Decreased appetite Hypokalaemia Hyperglycaemia Hypophosphatemia                                                                                                                                     |
-| Uncommon                                        | Dehydration Hyponatraemia                                                                                                                                                                           |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                                                                                                                                     |
-| Common                                          | Bone pain Muscular weakness                                                                                                                                                                         |
-| Uncommon                                        | Soft tissue necrosis                                                                                                                                                                                |
-| Neoplasms benign, malignant and unspecified     | Neoplasms benign, malignant and unspecified                                                                                                                                                         |
-| Common                                          | Post transplant lymphoproliferative disorder                                                                                                                                                        |
-| Nervous system disorders                        | Nervous system disorders                                                                                                                                                                            |
-| Common                                          | Headache                                                                                                                                                                                            |
-| Uncommon                                        | Cerebro vascular accident Encephalopathy                                                                                                                                                            |
-| Psychiatric disorders                           | Psychiatric disorders                                                                                                                                                                               |
-| Uncommon                                        | Delirium Obsessive compulsive disorder                                                                                                                                                              |
-| Renal and urinary disorders                     | Renal and urinary disorders                                                                                                                                                                         |
-| Common                                          | Haemolytic uremic syndrome (HUS) Acute kidney injury Cystitis haemorrhagic                                                                                                                          |
-| Uncommon                                        | Renal limited thrombotic microangiopathy                                                                                                                                                            |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                                                                                     |
-| Common                                          | Cryptogenic Organizing Pneumonia Epistaxis PAH Pulmonary hypertension                                                                                                                               |
-| Uncommon                                        | Idiopathic pneumonia syndrome (pneumonitis) Lung infiltration Pneumothorax                                                                                                                          |
-| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                                                                                                                              |
-| Common                                          | Rash maculo-papular                                                                                                                                                                                 |
-| Uncommon                                        | Dermatitis acneiform Eczema Pruritus                                                                                                                                                                |
-| Surgical and medical procedures                 | Surgical and medical procedures                                                                                                                                                                     |
-| Uncommon                                        | Colectomy                                                                                                                                                                                           |
-| Vascular disorders                              | Vascular disorders                                                                                                                                                                                  |
-| Very common                                     | Hypertension                                                                                                                                                                                        |
-| Common                                          | Microangiopathy                                                                                                                                                                                     |
-| Uncommon                                        | Decreased and nonspecific blood pressure disorders Hematoma Hypotension Orthostatic hypotension                                                                                                     |
+| Uncommon                                        | Blood bilirubin increased Blood bilirubin decreased Carbon monoxide diffusing capacity decreased CMV test positive Electrocardiogram QT prolonged Haemoglobin decreased Neutrophil count decreased   |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                                                                                                                                                   |
+| Common                                          | Decreased appetite Hypokalaemia Hyperglycaemia Hypophosphatemia                                                                                                                                      |
+| Uncommon                                        | Dehydration Hyponatraemia                                                                                                                                                                            |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                                                                                                                                      |
+| Common                                          | Bone pain Muscular weakness                                                                                                                                                                          |
+| Uncommon                                        | Soft tissue necrosis                                                                                                                                                                                 |
+| Neoplasms benign, malignant and unspecified     | Neoplasms benign, malignant and unspecified                                                                                                                                                          |
+| Common                                          | Post transplant lymphoproliferative disorder                                                                                                                                                         |
+| Nervous system disorders                        | Nervous system disorders                                                                                                                                                                             |
+| Common                                          | Headache                                                                                                                                                                                             |
+| Uncommon                                        | Cerebro vascular accident Encephalopathy                                                                                                                                                             |
+| Psychiatric disorders                           | Psychiatric disorders                                                                                                                                                                                |
+| Uncommon                                        | Delirium Obsessive compulsive disorder                                                                                                                                                               |
+| Renal and urinary disorders                     | Renal and urinary disorders                                                                                                                                                                          |
+| Common                                          | Haemolytic uremic syndrome (HUS) Acute kidney injury Cystitis haemorrhagic                                                                                                                           |
+| Uncommon                                        | Renal limited thrombotic microangiopathy                                                                                                                                                             |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                                                                                      |
+| Common                                          | Cryptogenic Organizing Pneumonia Epistaxis PAH Pulmonary hypertension Pulmonary embolism                                                                                                             |
+| Uncommon                                        | Idiopathic pneumonia syndrome (pneumonitis) Lung infiltration Pneumothorax                                                                                                                           |
+| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                                                                                                                               |
+| Common                                          | Rash maculo-papular                                                                                                                                                                                  |
+| Uncommon                                        | Dermatitis acneiform Eczema Pruritus                                                                                                                                                                 |
+| Surgical and medical procedures                 | Surgical and medical procedures                                                                                                                                                                      |
+| Uncommon                                        | Colectomy                                                                                                                                                                                            |
+| Vascular disorders                              | Vascular disorders                                                                                                                                                                                   |
+| Very common                                     | Hypertension                                                                                                                                                                                         |
+| Common                                          | Microangiopathy                                                                                                                                                                                      |
+| Uncommon                                        | Decreased and nonspecific blood pressure disorders Hematoma Hypotension Orthostatic hypotension                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -468,11 +469,9 @@ Hematopoietic stem/progenitor cells from Zemcelpro migrate to the bone marrow wh
 
 ## Pharmacodynamic effects
 
-Transplantation of Zemcelpro resulted in haematological reconstitution, with full donor chimerism in
+Transplantation of Zemcelpro resulted in haematological reconstitution, with full donor chimerism in all hematopoietic stem cell lineages. T cell reconstitution was also prompt, with T-cell receptor (TCR) diversity at 6- and 12-months post-transplant.
 
 <div style=\"page-break-after: always\"></div>
-
-all hematopoietic stem cell lineages. T cell reconstitution was also prompt, with T-cell receptor (TCR) diversity at 6- and 12-months post-transplant.
 
 ## Clinical efficacy and safety
 
@@ -515,7 +514,7 @@ Table 2 Pooled demographics, and baseline disease characteristics for patients i
 
 Of the 25 patients enrolled in the pivotal population, 24 patients received infusion with Zemcelpro. Efficacy was assessed through the endpoints of neutrophil and platelet engraftment (Table 3). At data cut-off date, Studies 002 and 004 are still ongoing.
 
-Table 3 Efficacy results in adult patients with haematological malignancies treated with cryopreserved Zemcelpro   derived from small CBU (n=25), 13.3 months median followup
+Table 3 Efficacy results in adult patients with haematological malignancies treated with cryopreserved Zemcelpro derived from small CBU (n=25), 13.3 months median followup
 
 | Endpoints                                                                                                                    | Enrolled with Zemcelpro manufactured from small CBU and cryopreserved (Intent-to-treat, n=25 3 )   |
 |------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
@@ -529,11 +528,9 @@ Table 3 Efficacy results in adult patients with haematological malignancies trea
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Zemcelpro in one or more subsets of the paediatric population in HSCTs in patients with haematological malignancies (see section 4.2 for information on paediatric use).
 
-At time of approval in adults, paediatric data is limited to 9/12 subjects less than 18 years old transplanted with Zemcelpro for high-risk myeloid malignancies in 007 study (6 with AML, 3 with
+At time of approval in adults, paediatric data is limited to 9/12 subjects less than 18 years old transplanted with Zemcelpro for high-risk myeloid malignancies in 007 study (6 with AML, 3 with MDS). Zemcelpro resulted in 88.9% and 77.8% neutrophil and platelet engraftment, respectively at a median time of 21.5 and 48 days, respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-MDS). Zemcelpro resulted in 88.9% and 77.8% neutrophil and platelet engraftment, respectively at a median time of 21.5 and 48 days, respectively.
 
 This medicinal product has been authorised under a so-called 'conditional approval' scheme. This means that further evidence on this medicinal product is awaited.
 
@@ -709,7 +706,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance
 
-Centre C3i Inc. 5415 De L'Assomption Boulevard Montreal, Qc, H1T 2M4, Canada
+Centre C3i Inc. 5415 De L'Assomption Boulevard
+
+Montreal, Qc, H1T 2M4, Canada
 
 Name and address of the manufacturer responsible for batch release
 
@@ -746,13 +745,13 @@ An updated RMP should be submitted:
 
 This being a conditional marketing authorisation and pursuant to Article 14-a of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Due date         |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
-| In order to confirm the efficacy and safety of Zemcelpro in adult patients with haematological malignancies requiring an allogeneic HSCT following myeloablative conditioning for whom no other type of suitable donor cells is available, the MAHshall submit the final results from Study ECT-001-CB.002: A Phase II Open-label Study of ECT-001-expanded Cord Blood Transplantation in Patients with High Risk Acute Leukemia/myelodysplasia.                                                                                                                                                                                                                 | 28 February 2026 |
-| In order to confirm the efficacy and safety of Zemcelpro in adult patients with haematological malignancies requiring an allogeneic HSCT following myeloablative conditioning for whom no other type of suitable donor cells is available, the MAHshall submit the final results from Study ECT-001-CB.004: Phase II Open-Label Study of ECT-001-Expanded Cord Blood Transplantation in Patients with High and Very High-Risk Acute Leukemia/Myelodysplasia.                                                                                                                                                                                                     | 31 August 2026   |
-| In order to confirm the efficacy and safety of Zemcelpro in patients aged 18-21 years with haematological malignancies requiring an allogeneic HSCT following myeloablative conditioning for whom no other type of suitable donor cells is available, the MAHshall conduct and submit the results of the subgroup analysis of patients aged 18-21 years from study ECT-001-CB.010: A Prospective Randomized Phase II Trial of Allogeneic SCT with ECT-001-CB Expanded Cord Blood Transplant Without Serotherapy Versus Other Stem Cell Source in Pediatric Patients with High risk/refractory/relapsed Acute Myeloid Leukaemia, according to an agreed protocol. | 30 June 2030     |
-| In order to confirm the efficacy and safety of Zemcelpro, and to further evaluate the dose parameters used in adult patients with high-risk and very high-risk acute leukaemia/MDS, the MAHshall submit the results of study ECT-001-CB.011: A Multicenter, Prospective, Randomized, Open-Label Phase III Study of ECT-001- CB (ECT-001-Expanded Cord Blood) Transplantation versus Best Alternative Allogeneic Stem Cell Source Transplantation (Haplo, MMUD) in Patients with High-Risk Acute Leukemia/Myelodysplasia which is conducted according to an agreed protocol.                                                                                      | 30 June 2030     |
-| In order to confirm the efficacy and safety of Zemcelpro in adult patients with haematological malignancies requiring an allogeneic HSCT following myeloablative conditioning for whom no other type of suitable donor cells is available, the MAHshall conduct and submit the results of a prospective, non- interventional study based on data from a registry, and evaluate dose parameters collected for Zemcelpro lot manufactured for each patient enrolled in the study, according to an agreed protocol.                                                                                                                                                 | 30 June 2031     |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Due date        |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| In order to confirm the efficacy and safety of Zemcelpro in adult patients with haematological malignancies requiring an allogeneic HSCT following myeloablative conditioning for whom no other type of suitable donor cells is available, the MAH shall submit the final results from Study ECT-001-CB.002: A Phase II Open-label Study of ECT-001-expanded Cord Blood Transplantation in Patients with High Risk Acute Leukemia/myelodysplasia.                                                                                                                                                                                                                 | 31 October 2026 |
+| In order to confirm the efficacy and safety of Zemcelpro in adult patients with haematological malignancies requiring an allogeneic HSCT following myeloablative conditioning for whom no other type of suitable donor cells is available, the MAH shall submit the final results from Study ECT-001-CB.004: Phase II Open-Label Study of ECT-001-Expanded Cord Blood Transplantation in Patients with High and Very High-Risk Acute Leukemia/Myelodysplasia.                                                                                                                                                                                                     | 31 August 2026  |
+| In order to confirm the efficacy and safety of Zemcelpro in patients aged 18-21 years with haematological malignancies requiring an allogeneic HSCT following myeloablative conditioning for whom no other type of suitable donor cells is available, the MAH shall conduct and submit the results of the subgroup analysis of patients aged 18-21 years from study ECT-001-CB.010: A Prospective Randomized Phase II Trial of Allogeneic SCT with ECT-001-CB Expanded Cord Blood Transplant Without Serotherapy Versus Other Stem Cell Source in Pediatric Patients with High risk/refractory/relapsed Acute Myeloid Leukaemia, according to an agreed protocol. | 30 June 2030    |
+| In order to confirm the efficacy and safety of Zemcelpro, and to further evaluate the dose parameters used in adult patients with high-risk and very high-risk acute leukaemia/MDS, the MAH shall submit the results of study ECT-001-CB.011: A Multicenter, Prospective, Randomized, Open-Label Phase III Study of ECT-001- CB (ECT-001-Expanded Cord Blood) Transplantation versus Best Alternative Allogeneic Stem Cell Source Transplantation (Haplo, MMUD) in Patients with High-Risk Acute Leukemia/Myelodysplasia which is conducted according to an agreed protocol.                                                                                      | 30 June 2030    |
+| In order to confirm the efficacy and safety of Zemcelpro in adult patients with haematological malignancies requiring an allogeneic HSCT following myeloablative conditioning for whom no other type of suitable donor cells is available, the MAH shall conduct and submit the results of a prospective, non- interventional study based on data from a registry, and evaluate dose parameters collected for Zemcelpro lot manufactured for each patient enrolled in the study, according to an agreed protocol.                                                                                                                                                 | 30 June 2031    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -807,7 +806,7 @@ Confirm patient's identity matches the infusion bag before infusion.
 
 Read the package leaflet before use.
 
-Administer all bags of dorocubicel first
+## Administer all bags of dorocubicel first
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -861,7 +860,7 @@ Lot:
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -970,7 +969,8 @@ ABO/Rh:
 
 Lot:
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1049,11 +1049,7 @@ This medicine contains human blood cells. Unused medicine or waste material must
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Cordex Biologics International Limited
-
-5 th
-
-Floor, Block E, Iveagh Court
+Cordex Biologics International Limited 5 th Floor, Block E, Iveagh Court
 
 Harcourt Road, Dublin, Ireland
 
@@ -1065,13 +1061,23 @@ e-mail: info@cordexbio.com
 
 EU/1/25/1960/001
 
-## 13. BATCH NUMBER, DONATION AND PRODUCT CODES
-
 Recipient ID:
+
+DOB:
 
 CBU ID:
 
+ABO/Rh:
+
 Lot:
+
+Justification for not including Braille accepted .
+
+Not applicable
+
+Not applicable
+
+## 13. BATCH NUMBER, DONATION AND PRODUCT CODES
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
@@ -1079,19 +1085,9 @@ Lot:
 
 ## 16. INFORMATION IN BRAILLE
 
-Justification for not including Braille accepted .
-
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-Not applicable
-
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-Not applicable
-
-DOB:
-
-ABO/Rh:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1113,7 +1109,7 @@ Also contains: human albumin solution, dimethyl sulfoxide, sodium chloride, pota
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Dispersion for infusion
+## Dispersion for infusion
 
 Bag X/4 with unexpanded CD34- cells
 
@@ -1157,15 +1153,7 @@ This medicine contains human blood cells. Unused medicine or waste material must
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Cordex Biologics International Limited
-
-5 th
-
-Floor, Block E, Iveagh Court
-
-Harcourt Road, Dublin, Ireland
-
-Tel: 353 1 960 2797
+Cordex Biologics International Limited 5 th Floor, Block E, Iveagh Court Harcourt Road, Dublin, Ireland Tel: 353 1 960 2797
 
 e-mail: info@cordexbio.com
 
@@ -1223,9 +1211,7 @@ Also contains: human albumin solution, dimethyl sulfoxide, sodium chloride, pota
 
 ## Dispersion for infusion
 
-1 bag out of 4 bags dorocubicel
-
-20 mL
+1 bag out of 4 bags dorocubicel 20 mL
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1261,7 +1247,9 @@ This medicine contains human blood cells. Unused medicine or waste material must
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Cordex Biologics International Limited 5 th Floor, Block E, Iveagh Court
+Cordex Biologics International Limited
+
+5 th Floor, Block E, Iveagh Court
 
 Harcourt Road, Dublin, Ireland
 
@@ -1285,21 +1273,21 @@ Justification for not including Braille accepted .
 
 Not applicable
 
+Not applicable
+
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 ## 13. BATCH NUMBER, DONATION AND PRODUCT CODES
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 16. INFORMATION IN BRAILLE
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-Not applicable
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1403,56 +1391,53 @@ Not applicable
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-Not applicable
+Not applicable Dorocubicel (expanded CD34+ cells)
 
 <div style=\"page-break-after: always\"></div>
 
-| PARTICULARSTOAPPEARONIMMEDIATEPACKAGING                    |
-|------------------------------------------------------------|
-| INFUSIONBAG POUCHLABEL- DOROCUBICEL (EXPANDED CD34+ CELLS) |
+| PARTICULARS TO APPEAR ON IMMEDIATE PACKAGING                  |
+|---------------------------------------------------------------|
+| INFUSION BAG POUCH LABEL - DOROCUBICEL (EXPANDED CD34+ CELLS) |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCT   |
-|------|-----------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-| 2.   | STATEMENTOFACTIVE SUBSTANCE(S)   |
-|------|----------------------------------|
-
-Dorocubicel (expanded CD34+ cells)
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
 
 | 3.   | LIST OF EXCIPIENTS   |
 |------|----------------------|
 
-| 4.   | PHARMACEUTICALFORMANDCONTENTS   |
-|------|---------------------------------|
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
 
 Bag: X/4
 
-| 5.   | METHODANDROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------|
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
 
-| 6.   | SPECIALWARNINGTHATTHEMEDICINALPRODUCTMUSTBESTOREDOUT OF THE SIGHT AND REACH OF CHILDREN   |
-|------|-------------------------------------------------------------------------------------------|
+| 6.   | SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN   |
+|------|----------------------------------------------------------------------------------------------------|
 
-| 7.   | OTHERSPECIALWARNING(S), IF NECESSARY   |
-|------|----------------------------------------|
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-| 8.   | EXPIRYDATE   |
-|------|--------------|
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
-| 9.   | SPECIALSTORAGECONDITIONS   |
-|------|----------------------------|
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-| 10.   | SPECIALPRECAUTIONS FORDISPOSALOFUNUSEDMEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESSOFTHEMARKETINGAUTHORISATIONHOLDER   |
-|-------|---------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-| 12. MARKETINGAUTHORISATIONNUMBER(S)   |
-|---------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
-| 13. BATCHNUMBER,DONATIONANDPRODUCTCODES   |
-|-------------------------------------------|
+| 13. BATCH NUMBER, DONATION AND PRODUCT CODES   |
+|------------------------------------------------|
 
 Lot #:
 
@@ -1460,25 +1445,26 @@ Lot #:
 
 Recipient ID: Recipient DOB: CBU ID:
 
-| 14. GENERALCLASSIFICATIONFORSUPPLY   |
-|--------------------------------------|
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
-| 15.   | INSTRUCTIONSONUSE   |
-|-------|---------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-| Justification for not including Braille accepted .   |
-|------------------------------------------------------|
+Justification for not including Braille accepted
+
+.
 
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
 Not applicable
 
-| 18. UNIQUE IDENTIFIER-HUMANREADABLEDATA   |
-|-------------------------------------------|
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 Not applicable
 
@@ -1486,52 +1472,52 @@ Not applicable
 
 <div style=\"page-break-after: always\"></div>
 
-| PARTICULARSTOAPPEARONIMMEDIATEPACKAGING                |
-|--------------------------------------------------------|
-| INFUSIONBAG POUCHLABEL- UNEXPANDED CD34-CELLSCOMPONENT |
+| PARTICULARS TO APPEAR ON IMMEDIATE PACKAGING                |
+|-------------------------------------------------------------|
+| INFUSION BAG POUCH LABEL - UNEXPANDED CD34- CELLS COMPONENT |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCT   |
-|------|-----------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-| 2.   | STATEMENTOFACTIVE SUBSTANCE(S)   |
-|------|----------------------------------|
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
 
 Unexpanded CD34- cells
 
 | 3.   | LIST OF EXCIPIENTS   |
 |------|----------------------|
 
-| 4.   | PHARMACEUTICALFORMANDCONTENTS   |
-|------|---------------------------------|
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
 
 Bag:  X/4
 
-| 5.   | METHODANDROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------|
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
 
-| 6.   | SPECIALWARNINGTHATTHEMEDICINALPRODUCTMUSTBESTOREDOUT OF THE SIGHT AND REACH OF CHILDREN   |
-|------|-------------------------------------------------------------------------------------------|
+| 6.   | SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN   |
+|------|----------------------------------------------------------------------------------------------------|
 
-| 7.   | OTHERSPECIALWARNING(S), IF NECESSARY   |
-|------|----------------------------------------|
+| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
+|------|------------------------------------------|
 
-| 8.   | EXPIRYDATE   |
-|------|--------------|
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
-| 9.   | SPECIALSTORAGECONDITIONS   |
-|------|----------------------------|
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
-| 10.   | SPECIALPRECAUTIONS FORDISPOSALOFUNUSEDMEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESSOFTHEMARKETINGAUTHORISATIONHOLDER   |
-|-------|---------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-| 12. MARKETINGAUTHORISATIONNUMBER(S)   |
-|---------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
-| 13. BATCHNUMBER,DONATIONANDPRODUCTCODES   |
-|-------------------------------------------|
+| 13. BATCH NUMBER, DONATION AND PRODUCT CODES   |
+|------------------------------------------------|
 
 Lot #:
 
@@ -1539,11 +1525,11 @@ Lot #:
 
 Recipient ID: Recipient DOB: CBU ID:
 
-| 14. GENERALCLASSIFICATIONFORSUPPLY   |
-|--------------------------------------|
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
-| 15.   | INSTRUCTIONSONUSE   |
-|-------|---------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1555,8 +1541,8 @@ Justification for not including Braille accepted.
 
 Not applicable
 
-| 18. UNIQUE IDENTIFIER-HUMANREADABLEDATA   |
-|-------------------------------------------|
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 Not applicable
 
@@ -1570,7 +1556,7 @@ Not applicable
 
 ## Package leaflet: Information for the patient
 
-## Zemcelpro ≥ 0.23×10 6  viable CD34+ cells/mL / ≥ 0.53×10 6  viable CD3+ cells/mL dispersion for infusion
+## Zemcelpro ≥ 0.23×10 6 viable CD34+ cells/mL / ≥ 0.53×10 6 viable CD3+ cells/mL dispersion for infusion
 
 dorocubicel/ unexpanded CD34- cells
 
@@ -1834,9 +1820,9 @@ Zemcelpro is supplied as one individual treatment dose comprises up to eight (8)
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Cordex Biologics International Limited 5 th Floor, Block E, Iveagh Court Harcourt Road
+Cordex Biologics International Limited 5 th Floor, Block E, Iveagh Court Harcourt Road Dublin, Ireland
 
-Dublin, Ireland Tel: 353 1 960 2797
+Tel: 353 1 960 2797
 
 e-mail: info@cordexbio.com
 

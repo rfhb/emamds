@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-22 16:55:00
+document_datetime: 2026-07-16 16:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bimervax.html
 document_name: bimervax.html
 version: success
-processing_time: 0.1636328
-conversion_datetime: 2026-06-25 16:50:07.210807
+processing_time: 0.156994
+conversion_datetime: 2026-07-19 12:05:04.108873
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.1.0
+  docling: 2.113.0
+  docling-core: 2.87.1
   docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Bimervax
 
@@ -193,7 +193,7 @@ English (EN) (148.15 KB - PDF)
 
 [View](/en/documents/overview/bimervax-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-375)
+[Other languages (22)](#file-language-dropdown-952)
 
 български (BG) (186.97 KB - PDF)
 
@@ -345,7 +345,7 @@ English (EN) (979.93 KB - PDF)
 
 [View](/en/documents/product-information/bimervax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-482)
+[Other languages (24)](#file-language-dropdown-730)
 
 български (BG) (1.11 MB - PDF)
 
@@ -518,7 +518,7 @@ English (EN) (104.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-537)
+[Other languages (24)](#file-language-dropdown-180)
 
 български (BG) (125.84 KB - PDF)
 
@@ -700,7 +700,7 @@ Bimervax LP.8.1 is indicated for active immunisation to prevent COVID-19 caused 
 - **Marketing authorisation issued**
     - 30/03/2023
 - **Revision**
-    - 14
+    - 15
 
 ## Assessment history
 
@@ -725,6 +725,16 @@ English (EN) (196.98 KB - PDF)
 **First published:** 29/06/2023 **Last updated:** 30/04/2025
 
 [View](/en/documents/procedural-steps-after/bimervax-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Bimervax-PAM-0000331983 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3306580
+
+English (EN) (4.48 MB - PDF)
+
+**First published:** 16/07/2026
+
+[View](/en/documents/variation-report/bimervax-pam-0000331983-epar-assessment-report_en.pdf)
 
 Bimervax-VR-0000257408 : EPAR - Assessment report - Variation
 
@@ -828,6 +838,6 @@ English (EN) (3.95 MB - PDF)
 
 **This page was last updated on**
 
-22/06/2026
+16/07/2026
 
 ## Share this page

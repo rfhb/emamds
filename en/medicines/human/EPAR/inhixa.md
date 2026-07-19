@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-05 17:14:00
+document_datetime: 2026-07-16 16:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/inhixa.html
 document_name: inhixa.html
 version: success
-processing_time: 0.290451
-conversion_datetime: 2026-03-13 18:27:20.144481
+processing_time: 0.153046
+conversion_datetime: 2026-07-19 12:02:57.245835
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.79.0
-  docling-core: 2.69.0
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.1.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Inhixa
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-enoxaparin sodium Medicine Human Authorised
+enoxaparin sodium
+
+Medicine Human Authorised
 
 Page contents
 
@@ -57,7 +59,8 @@ Inhixa is an anticoagulant medicine (a medicine that prevents blood clots) used 
 
 • treating certain types of myocardial infarction (heart attack);
 
-• preventing clots forming when blood is circulated through a haemodialysis machine to remove toxic substances. In the treatment of unstable angina and heart attack Inhixa is given with aspirin (acetylsalicylic acid).
+• preventing clots forming when blood is circulated through a haemodialysis machine to remove toxic substances.
+In the treatment of unstable angina and heart attack Inhixa is given with aspirin (acetylsalicylic acid).
 
 Inhixa contains the active substance enoxaparin sodium and is a 'biosimilar medicine'. This means that Inhixa is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Inhixa is Clexane. For more information on biosimilar medicines, see here.
 
@@ -65,17 +68,17 @@ Expand section
 
 Collapse section
 
-## How is Inhixa used?
+### How is Inhixa used?
 
 Inhixa is usually given as an injection under the skin although in the treatment of a type of heart attack called acute ST-segment elevation myocardial infarction (STEMI) it is first given as an injection into a vein, and to prevent clots in haemodialysis machines it is injected directly into the tube carrying the blood. The dose and how long the medicine is given for, as well as whether it is given with other medicines, depend on the condition to be prevented or treated. Doses must be adjusted in patients with severely reduced kidney function.
 
 The medicine can only be obtained with a prescription. For more information about using Inhixa, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Inhixa work?
+### How does Inhixa work?
 
 When blood clots develop inside blood vessels they may restrict the blood flow to the organs, including the heart. The active substance in Inhixa, enoxaparin, is one of a group of anticoagulant medicines called low-molecular weight heparins. Enoxaparin increases the effect of antithrombin III, a natural substance that controls the blood's clotting factors and helps prevent blood from clotting inside the body. This helps to stop the formation of new blood clots and control existing ones.
 
-## What benefits of Inhixa have been shown in studies?
+### What benefits of Inhixa have been shown in studies?
 
 Laboratory studies comparing Inhixa with Clexane have shown that the active substance in Inhixa is highly similar to that in Clexane in terms of structure, purity and biological activity.
 
@@ -85,7 +88,7 @@ The company also provided information from published studies showing the benefit
 
 Because Inhixa is a biosimilar medicine, the studies on effectiveness and safety of enoxaparin carried out with Clexane do not all need to be repeated for Inhixa.
 
-## What are the risks associated with Inhixa?
+### What are the risks associated with Inhixa?
 
 The safety of Inhixa has been evaluated, and on the basis of all the studies carried out the side effects of the medicine are considered to be comparable to those of the reference medicine Clexane
 
@@ -95,19 +98,19 @@ For the full list of side effects reported with Inhixa, see the package leaflet.
 
 Inhixa must not be used in patients with existing major bleeding, severe disorders of blood clotting, or with conditions that increase the risk of, or from, bleeding, such as stomach ulcers or stroke. For the full list of restrictions, see the package leaflet.
 
-## Why is Inhixa authorised in the EU?
+### Why is Inhixa authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Inhixa has a highly similar structure, purity and biological activity to Clexane, and has the same effect on blood clotting factors. The safety profiles of the two medicines were also considered similar, based on laboratory testing.
 
 All these data were considered sufficient to conclude that Inhixa will behave in the same way as Clexane in terms of effectiveness and safety in its authorised uses. Therefore, the Agency's view was that, as for Clexane, the benefits of Inhixa outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Inhixa?
+### What measures are being taken to ensure the safe and effective use of Inhixa?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Inhixa have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Inhixa are continuously monitored. Suspected side effects reported with Inhixa are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Inhixa
+### Other information about Inhixa
 
 Inhixa received a marketing authorisation valid throughout the EU on 15 September 2016.
 
@@ -119,275 +122,141 @@ Reference Number: EMA/33241/2022
 
 English (EN) (142.71 KB - PDF)
 
-**First published:** 26/10/2016
-
-**Last updated:** 06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/en/documents/overview/inhixa-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-169)
+[Other languages (22)](#file-language-dropdown-583)
 
 български (BG) (166.72 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/bg/documents/overview/inhixa-epar-summary-public_bg.pdf)
 
 español (ES) (144.13 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/es/documents/overview/inhixa-epar-summary-public_es.pdf)
 
 čeština (CS) (165.94 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/cs/documents/overview/inhixa-epar-summary-public_cs.pdf)
 
 dansk (DA) (141.72 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/da/documents/overview/inhixa-epar-summary-public_da.pdf)
 
 Deutsch (DE) (146.11 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/de/documents/overview/inhixa-epar-summary-public_de.pdf)
 
-eesti keel (ET) (129.97 KB - PDF)
+eesti (ET) (129.97 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/et/documents/overview/inhixa-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (165.62 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/el/documents/overview/inhixa-epar-summary-public_el.pdf)
 
 français (FR) (144.37 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/fr/documents/overview/inhixa-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (157.51 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/hr/documents/overview/inhixa-epar-summary-public_hr.pdf)
 
 italiano (IT) (141.87 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/it/documents/overview/inhixa-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (178.85 KB - PDF)
+latviešu (LV) (178.85 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/lv/documents/overview/inhixa-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (165.62 KB - PDF)
+lietuvių (LT) (165.62 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/lt/documents/overview/inhixa-epar-summary-public_lt.pdf)
 
 magyar (HU) (159.75 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/hu/documents/overview/inhixa-epar-summary-public_hu.pdf)
 
 Malti (MT) (166.84 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/mt/documents/overview/inhixa-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (142.48 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/nl/documents/overview/inhixa-epar-summary-public_nl.pdf)
 
 polski (PL) (166.75 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/pl/documents/overview/inhixa-epar-summary-public_pl.pdf)
 
 português (PT) (143.89 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/pt/documents/overview/inhixa-epar-summary-public_pt.pdf)
 
 română (RO) (162.07 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/ro/documents/overview/inhixa-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (166.92 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/sk/documents/overview/inhixa-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (161.89 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/sl/documents/overview/inhixa-epar-summary-public_sl.pdf)
 
-Suomi (FI) (134.01 KB - PDF)
+suomi (FI) (134.01 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/fi/documents/overview/inhixa-epar-summary-public_fi.pdf)
 
 svenska (SV) (140.87 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-06/09/2022
+**First published:** 26/10/2016 **Last updated:** 06/09/2022
 
 [View](/sv/documents/overview/inhixa-epar-summary-public_sv.pdf)
 
@@ -403,311 +272,168 @@ English (EN) (205.53 KB - PDF)
 
 Inhixa : EPAR - Product information
 
-English (EN) (3.12 MB - PDF)
+English (EN) (2.57 MB - PDF)
 
-**First published:** 26/10/2016
-
-**Last updated:** 05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/en/documents/product-information/inhixa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-112)
+[Other languages (24)](#file-language-dropdown-68)
 
-български (BG) (3.68 MB - PDF)
+български (BG) (3.19 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/bg/documents/product-information/inhixa-epar-product-information_bg.pdf)
 
-español (ES) (3.35 MB - PDF)
+español (ES) (3.13 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/es/documents/product-information/inhixa-epar-product-information_es.pdf)
 
-čeština (CS) (3.62 MB - PDF)
+čeština (CS) (2.81 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/cs/documents/product-information/inhixa-epar-product-information_cs.pdf)
 
-dansk (DA) (3.42 MB - PDF)
+dansk (DA) (2.62 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/da/documents/product-information/inhixa-epar-product-information_da.pdf)
 
-Deutsch (DE) (3.72 MB - PDF)
+Deutsch (DE) (3.96 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/de/documents/product-information/inhixa-epar-product-information_de.pdf)
 
-eesti keel (ET) (3.17 MB - PDF)
+eesti (ET) (3.29 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/et/documents/product-information/inhixa-epar-product-information_et.pdf)
 
-ελληνικά (EL) (3.9 MB - PDF)
+ελληνικά (EL) (4.02 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/el/documents/product-information/inhixa-epar-product-information_el.pdf)
 
-français (FR) (5.87 MB - PDF)
+français (FR) (6.15 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/fr/documents/product-information/inhixa-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.53 MB - PDF)
+hrvatski (HR) (3.78 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/hr/documents/product-information/inhixa-epar-product-information_hr.pdf)
 
-íslenska (IS) (3.36 MB - PDF)
+italiano (IT) (5.8 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
-
-[View](/is/documents/product-information/inhixa-epar-product-information_is.pdf)
-
-italiano (IT) (5.56 MB - PDF)
-
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/it/documents/product-information/inhixa-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (3.56 MB - PDF)
+latviešu (LV) (3.8 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/lv/documents/product-information/inhixa-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (3.55 MB - PDF)
+lietuvių (LT) (3.72 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/lt/documents/product-information/inhixa-epar-product-information_lt.pdf)
 
-magyar (HU) (3.64 MB - PDF)
+magyar (HU) (3.93 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/hu/documents/product-information/inhixa-epar-product-information_hu.pdf)
 
-Malti (MT) (4.29 MB - PDF)
+Malti (MT) (4.41 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/mt/documents/product-information/inhixa-epar-product-information_mt.pdf)
 
-Nederlands (NL) (5.35 MB - PDF)
+Nederlands (NL) (5.39 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/nl/documents/product-information/inhixa-epar-product-information_nl.pdf)
 
-norsk (NO) (3.23 MB - PDF)
+polski (PL) (4 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
-
-[View](/no/documents/product-information/inhixa-epar-product-information_no.pdf)
-
-polski (PL) (3.35 MB - PDF)
-
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/pl/documents/product-information/inhixa-epar-product-information_pl.pdf)
 
-português (PT) (3.49 MB - PDF)
+português (PT) (3.52 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/pt/documents/product-information/inhixa-epar-product-information_pt.pdf)
 
-română (RO) (3.76 MB - PDF)
+română (RO) (3.85 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/ro/documents/product-information/inhixa-epar-product-information_ro.pdf)
 
-slovenčina (SK) (3.58 MB - PDF)
+slovenčina (SK) (3.83 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/sk/documents/product-information/inhixa-epar-product-information_sk.pdf)
 
-slovenščina (SL) (3.39 MB - PDF)
+slovenščina (SL) (3.44 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/sl/documents/product-information/inhixa-epar-product-information_sl.pdf)
 
-Suomi (FI) (3.63 MB - PDF)
+suomi (FI) (3.67 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/fi/documents/product-information/inhixa-epar-product-information_fi.pdf)
 
-svenska (SV) (3.47 MB - PDF)
+svenska (SV) (3.6 MB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-05/03/2026
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
 
 [View](/sv/documents/product-information/inhixa-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000332178 05/03/2026
+Íslenska (IS) (3.44 MB - PDF)
+
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
+
+[View](/is/documents/product-information/inhixa-epar-product-information_is.pdf)
+
+norsk (NO) (2.63 MB - PDF)
+
+**First published:** 26/10/2016 **Last updated:** 16/07/2026
+
+[View](/no/documents/product-information/inhixa-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000361384
+
+15/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -721,305 +447,168 @@ Inhixa : EPAR - All Authorised presentations
 
 English (EN) (269.43 KB - PDF)
 
-**First published:** 26/10/2016
-
-**Last updated:** 27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/en/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-186)
+[Other languages (24)](#file-language-dropdown-635)
 
 български (BG) (189.35 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/bg/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (192.13 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/es/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (212.77 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/cs/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (196.4 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/da/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (186.6 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/de/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (188.14 KB - PDF)
+eesti (ET) (188.14 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/et/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (203.17 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/el/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (194.17 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/fr/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (201.89 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/hr/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (182.35 KB - PDF)
-
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
-
-[View](/is/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (185.05 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/it/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (184.94 KB - PDF)
+latviešu (LV) (184.94 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/lv/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (190.63 KB - PDF)
+lietuvių (LT) (190.63 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/lt/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (190.08 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/hu/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (208.44 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/mt/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (182.28 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/nl/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (196.46 KB - PDF)
-
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
-
-[View](/no/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (203.16 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/pl/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (193.58 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/pt/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (197.75 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/ro/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (192.31 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/sk/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (187.24 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/sl/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (184.74 KB - PDF)
+suomi (FI) (184.74 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/fi/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (194.24 KB - PDF)
 
-**First published:**
-
-26/10/2016
-
-**Last updated:**
-
-27/06/2024
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
 
 [View](/sv/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (182.35 KB - PDF)
+
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
+
+[View](/is/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (196.46 KB - PDF)
+
+**First published:** 26/10/2016 **Last updated:** 27/06/2024
+
+[View](/no/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Inhixa Active substance enoxaparin sodium International non-proprietary name (INN) or common name enoxaparin sodium Therapeutic area (MeSH) Venous Thromboembolism Anatomical therapeutic chemical (ATC) code B01AB05
+- **Name of medicine**
+    - Inhixa
+- **Active substance**
+    - enoxaparin sodium
+- **International non-proprietary name (INN) or common name**
+    - enoxaparin sodium
+- **Therapeutic area (MeSH)**
+    - Venous Thromboembolism
+- **Anatomical therapeutic chemical (ATC) code**
+    - B01AB05
 
 ### Pharmacotherapeutic group
 
@@ -1038,19 +627,18 @@ Inhixa is indicated for adults for:
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004264
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Techdow Pharma Netherlands B.V.
-
-Zuidplein 28, Tower 1 Level 3 (Unit 5) 1077XV Amsterdam Netherlands
-
-Opinion adopted 21/07/2016 Marketing authorisation issued 15/09/2016 Revision 31
+- **EMA product number**
+    - EMEA/H/C/004264
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Techdow Pharma Netherlands B.V. Zuidplein 28, Tower 1  Level 3 (Unit 5)  1077XV Amsterdam  Netherlands
+- **Opinion adopted**
+    - 21/07/2016
+- **Marketing authorisation issued**
+    - 15/09/2016
+- **Revision**
+    - 32
 
 ## Assessment history
 
@@ -1058,15 +646,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Inhixa : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (144.39 KB - PDF)
+English (EN) (175.39 KB - PDF)
 
-**First published:** 23/05/2025
-
-**Last updated:** 05/03/2026
+**First published:** 23/05/2025 **Last updated:** 16/07/2026
 
 [View](/en/documents/procedural-steps-after/inhixa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1074,9 +660,7 @@ Inhixa : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (251.51 KB - PDF)
 
-**First published:** 08/02/2017
-
-**Last updated:** 23/05/2025
+**First published:** 08/02/2017 **Last updated:** 23/05/2025
 
 [View](/en/documents/procedural-steps-after/inhixa-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1088,41 +672,35 @@ English (EN) (129.35 KB - PDF)
 
 **First published:** 19/01/2022
 
-[View](/en/documents/scientific-conclusion/inhixa-h-c-psusa-00010833-202104-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/inhixa-h-c-psusa-00010833-202104-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Inhixa : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/536977/2016
+Adopted Reference Number: EMA/536977/2016
 
 English (EN) (998.65 KB - PDF)
 
-**First published:** 26/10/2016
-
-**Last updated:** 26/10/2016
+**First published:** 26/10/2016 **Last updated:** 26/10/2016
 
 [View](/en/documents/assessment-report/inhixa-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Inhixa
 
-Adopted
-
-Reference Number: EMA/CHMP/482423/2016
+Adopted Reference Number: EMA/CHMP/482423/2016
 
 English (EN) (70.05 KB - PDF)
 
-**First published:** 22/07/2016
-
-**Last updated:** 22/07/2016
+**First published:** 22/07/2016 **Last updated:** 22/07/2016
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-inhixa_en.pdf)
 
 ## News on Inhixa
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 July 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-july-2016) 22/07/2016
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 July 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-july-2016)
+
+22/07/2016
 
 ## Related content
 
@@ -1134,8 +712,8 @@ English (EN) (70.05 KB - PDF)
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 05/03/2026
+**This page was last updated on**
+
+16/07/2026
 
 ## Share this page
-
-[Back to top](#main-content)

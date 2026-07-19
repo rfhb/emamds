@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-07-06 16:50:00
+document_datetime: 2026-07-17 12:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/enhertu.html
 document_name: enhertu.html
 version: success
-processing_time: 0.1840242
-conversion_datetime: 2026-07-07 15:04:26.91384
+processing_time: 0.2034377
+conversion_datetime: 2026-07-19 12:04:32.80516
 docling_version:
   docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.110.0
-  docling-core: 2.86.0
+  docling-jobkit: 2.1.0
+  docling: 2.113.0
+  docling-core: 2.87.1
   docling-ibm-models: 3.13.3
-  docling-parse: 7.6.0
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
@@ -50,10 +50,16 @@ Page contents
 Enhertu is a medicine used for treating adults with:
 
 - HER2-positive breast cancer that is metastatic (has spread to other parts of the body) or cannot be removed by surgery. HER2-positive means that the cancer cells produce a protein called HER2 in large quantities on their surface, which makes the tumour cells grow more quickly. Enhertu is used on its own in patients who have received one or more HER2-targeted treatments;
-- HER2-low and HER2-ultralow breast cancer that is metastatic or cannot be removed by surgery. HER2-low and HER2-ultralow means that the cancer cells produce some HER2 on their surface, but less than HER2-positive cancer cells. It is used on its own in patients when the cancer cells have receptors for certain hormones on their surface (HR-positive). It is used in patients who have previously received at least one endocrine therapy (treatment which blocks the effect of oestrogens, a female sex hormone) for metastatic breast cancer and who are not considered for endocrine therapy for their next treatment;
+
+- HER2-low and HER2-ultralow breast cancer that is metastatic or cannot be removed by surgery. HER2-low and HER2-ultralow means that the cancer cells produce some HER2 on their surface, but less than HER2-positive cancer cells. Enhertu is used on its own in patients when the cancer cells have receptors for certain hormones on their surface (HR-positive). It is used in patients who have previously received at least one endocrine therapy (treatment which blocks the effect of oestrogens, a female sex hormone) for metastatic breast cancer and who are not considered for endocrine therapy for their next treatment;
+
 - HER2-low breast cancer in patients whose disease is metastatic or cannot be removed by surgery, and who have previously received chemotherapy after the disease had spread or whose disease came back during or within 6 months of treatment following surgery. Enhertu is used on its own;
+
 - advanced non-small cell lung cancer (NSCLC) whose cancer cells have a mutation (change) in the gene for the HER2 protein, called an activating HER2 mutation. It is used on its own in patients who had previously been treated with platinum-based chemotherapy with or without immunotherapy (treatment that boosts the immune system's ability to fight the cancer);
-- HER2-positive advanced gastric cancer (cancer of the stomach) or gastro-oesophageal junction cancer (cancer at the junction between the stomach and the oesophagus). It is used on its own in patients who have previously received trastuzumab, another HER2-targeted treatment.
+
+- HER2-positive advanced gastric cancer (cancer of the stomach) or gastro-oesophageal junction cancer (cancer at the junction between the stomach and the oesophagus). It is used on its own in patients who have previously received trastuzumab, another HER2-targeted treatment;
+
+- other types of solid tumours (growths or masses in the body) that are HER2-positive and cannot be removed by surgery or have spread to other parts of the body. It is used in adults who have already received previous treatment and have no other treatment options.
 
 Enhertu contains the active substance trastuzumab deruxtecan.
 
@@ -67,7 +73,7 @@ Enhertu can only be obtained with a prescription. It should be prescribed by a d
 
 It is given by infusion (drip) into a vein over 90 minutes once every three weeks. Patients who tolerate the first 90-minute infusion can receive subsequent infusions over 30 minutes. Treatment may be continued for as long as it remains effective.
 
-The infusion may cause allergic reactions, so the the patient should be monitored during and after the infusion for signs such as fever and chills. If the patient develops side effects, the doctor may reduce the dose or stop treatment temporarily or permanently.
+The infusion may cause allergic reactions, so the patient should be monitored during and after the infusion for signs such as fever and chills. If the patient develops side effects, the doctor may reduce the dose or stop treatment temporarily or permanently.
 
 For more information about using Enhertu, see the package leaflet or contact your doctor or pharmacist.
 
@@ -75,7 +81,8 @@ For more information about using Enhertu, see the package leaflet or contact you
 
 The active substance in Enhertu, trastuzumab deruxtecan, is made up of two active components which are linked together:
 
-- trastuzumab is a monoclonal antibody (a type of protein) that has been designed to attach to HER2. By attaching to HER2, trastuzumab activates cells of the immune system, which then kill the cancer cells. Trastuzumab also stops HER2 from stimulating the growth of cancer cells. HER2 is produced at high levels in about a fifth of gastric cancers and a quarter of breast cancers, and at lower levels in about half of the remaining breast cancers. In lung cancer with an activating HER2 mutation, HER2 is also produced at high levels;
+- trastuzumab is a monoclonal antibody (a type of protein) that has been designed to attach to HER2. By attaching to HER2, trastuzumab activates cells of the immune system, which then kill the cancer cells. Trastuzumab also stops HER2 from stimulating the growth of cancer cells. Different types of solid tumours can produce HER2 at different levels. HER2 is produced at high levels in about a fifth of gastric cancers and a quarter of breast cancers, and at lower levels in about half of the remaining breast cancers. In lung cancer with an activating HER2 mutation, HER2 is also produced at high levels;
+
 - deruxtecan becomes active once trastuzumab has attached to HER2 and enters the cancer cell. Deruxtecan kills the cancer cell by blocking an enzyme (protein) called topoisomerase I, which is involved in making new cancer cells.
 
 ### What benefits of Enhertu have been shown in studies?
@@ -91,6 +98,7 @@ A second main study involved 524 patients previously treated with a HER2-targete
 A third main study involved 557 patients with HR-positive or HR-negative breast cancer who were in either of the following situations:
 
 - their disease was metastatic or could not be removed by surgery and they had previously been treated with chemotherapy;
+
 - their disease came back during or within 6 months of treatment following surgery.
 
 The study found that patients who received Enhertu lived for an average of 9.9 months without their disease getting worse compared with 5.1 months for those who received another cancer medicine chosen by the doctor. Additionally, patients who received Enhertu lived for an average of 23.4 months compared with 16.8 months for those who received another cancer medicine chosen by the doctor.
@@ -98,43 +106,56 @@ The study found that patients who received Enhertu lived for an average of 9.9 m
 Another main study involved 866 adults with HR-positive, HER2-low or HER2-ultralow breast cancer that was metastatic or could not be removed by surgery. Patients were in either of the following situations:
 
 - their disease had progressed on at least two previous endocrine therapies;
+
 - they had received at least one previous endocrine therapy and the cancer progressed within 24 months after starting adjuvant treatment (treatment given after surgery to remove the cancer);
+
 - their disease had progressed within 6 months of starting their first treatment for metastatic breast cancer with endocrine therapy and CDK4/6 inhibitor (a type of cancer treatment).
 
 The study compared Enhertu with standard chemotherapy. Patients treated with Enhertu lived an average of 13.2 months without their disease getting worse, compared with 8.1 months for patients treated with chemotherapy. Additionally, patients given Enhertu lived for an average of 29 months compared with about 27 months for those given chemotherapy.
 
+**HER2-positive solid tumours**
+
+The benefits of Enhertu were evaluated in an ongoing study involving adults with previously treated HER2-positive solid tumours that could not be removed by surgery or have spread to other parts of the body and for whom there were no other treatment options. The study did not compare Enhertu with another medicine or placebo (a dummy treatment). The results showed that the overall response rate (the proportion of patients who have no sign of cancer or whose tumours shrank) was 52% (58 out of 111) in patients treated with Enhertu. Among patients who responded to treatment, the median duration of response was 21 months.
+
 **Non-small cell lung cancer (NSCLC)**
 
-A study looked at treatment with Enhertu in 152 patients with NSCLC that had activating HER2 mutations and had spread and whose cancer had come back or got worse after at least one previous treatment that included platinum-based chemotherapy. The results showed that the overall response rate (the proportion of patients who have no sign of cancer or whose tumours shrank) was 49% (50 out of 102) in patients treated with the intended dose of Enhertu, and the response lasted an average of 16.8 months. In this study, Enhertu was not compared with any other medicine or placebo (dummy treatment).
+A study looked at treatment with Enhertu in 152 patients with NSCLC that had activating HER2 mutations and had spread and whose cancer had come back or got worse after at least one previous treatment that included platinum-based chemotherapy. The results showed that the overall response rate was 49% (50 out of 102) in patients treated with the intended dose of Enhertu, and the response lasted an average of 16.8 months. In this study, Enhertu was not compared with any other medicine or placebo.
 
 **Gastric cancer and gastro-oesophageal junction cancer**
 
 The benefits of Enhertu in gastric and gastro-oesophageal cancer were investigated in one main study involving 79 patients whose cancer had worsened following HER2-targeted treatment with trastuzumab. The study did not compare Enhertu with any other medicines or placebo. In 42% (33 out of 79) of patients the cancer responded to treatment, as observed by shrinkage in the size of the cancer, which lasted on average for 8 months.
 
-### What are the risks associated with Enhertu?
+Studies carried out with Enhertu are described in more detail in the medicine's assessment reports.
+
+### What are the side effects and restrictions associated with Enhertu?
 
 For the full list of side effects and restrictions with Enhertu, see the package leaflet.
 
 The most common side effects with Enhertu (which may affect more than 1 in 10 people) include nausea (feeling sick), tiredness, vomiting, alopecia (hair loss), constipation, decreased appetite, anaemia (low levels of red blood cells), neutropenia (low levels of neutrophils, a type of white blood cell that fights infection), diarrhoea, muscle and bone pain, increased levels of certain liver enzymes (transaminases), thrombocytopenia (low levels of blood platelets which can lead to bleeding and bruising) and leucopenia (low levels of white blood cells).
 
-Severe cases of interstitial lung disease (a disorder causing scarring in the lungs) and pneumonitis (inflammation of the lungs) may occur in up to 1 in 10 people.The frequency and severity of side effects that can occur with Enhertu depend on the type of cancer being treated.
+Severe cases of interstitial lung disease (a disorder causing scarring in the lungs) and pneumonitis (inflammation of the lungs) may occur in up to 1 in 10 people.
+
+The frequency and severity of side effects that can occur with Enhertu depend on the type of cancer being treated.
 
 ### Why is Enhertu authorised in the EU?
 
-Enhertu is effective at treating patients with HER2-positive and HER2-low breast cancer in patients who had received previous treatment. Enhertu is also effective at treating patients with HR-positive, HER2-low or HER2-ultralow breast cancer that is metastatic or cannot be removed by surgery, after previous endocrine therapy, when patients are not considered for endocrine therapy as their next treatment. This addresses an unmet medical need in these patients who lack new treatment options to delay progression of the disease.
+Enhertu is effective at treating patients with HER2-positive and HER2-low breast cancer in patients who have received previous treatment. Enhertu is also effective at treating patients with HR-positive, HER2-low or HER2-ultralow breast cancer that is metastatic or cannot be removed by surgery, after previous endocrine therapy, when patients are not considered for endocrine therapy as their next treatment. This addresses an unmet medical need in these patients who lack new treatment options to delay progression of the disease.
 
-For gastric and gastro-oesophageal cancer, Enhertu showed benefits in patients who had previously received treatment including trastuzumab and had few treatment options. The medicine therefore addresses an unmet medical need in these patients. However, the main study did not compare Enhertu with another cancer medicine or placebo, and the company was requested to submit more comprehensive data.
+For gastric and gastro-oesophageal cancer, Enhertu showed benefits in patients who had previously received treatment including trastuzumab and had few treatment options. The medicine therefore addresses an unmet medical need in these patients. However, the main study did not compare Enhertu with another cancer medicine or placebo, and the company was therefore requested at the time to submit more comprehensive data.
 
 For advanced NSCLC with HER2 mutations, Enhertu showed benefits in patients who had previously received platinum-based therapy with or without immunotherapy. The medicine was considered to address an unmet medical need in these patients. The main study did not compare Enhertu with another cancer medicine or placebo, and the company was requested to submit more comprehensive data.
 
-In terms of safety, Enhertu has some important side effects including interstitial lung disease and pneumonitis but these are in general reversible and can be managed by changing the dose and closely monitoring the patient.
+Enhertu addressed an unmet medical need in adults with previously treated HER2-positive solid tumours for whom there are no other treatment options. However, the treatment effect varied across different types of solid tumours. The response rates ranged from clinically meaningful in some tumour types to no response observed in patients with HER2-positive pancreatic cancer. In addition, the small number of patients included in the study created uncertainty about the overall treatment effect. The company will submit more comprehensive data to address the current uncertainties.
 
-Enhertu has been given conditional authorisation. This means that it has been authorised on the basis of less comprehensive data than are normally required because it fulfils an unmet medical need. The European Medicines Agency considers that the benefit of having the medicine available earlier outweighs any risks associated with using it while awaiting further evidence.
+In terms of safety, Enhertu has some important side effects including interstitial lung disease and pneumonitis but these are in general reversible and can be managed by closely monitoring the patient and adjusting the dose.
+
+Enhertu has been given conditional authorisation. This means that it has been authorised based on less comprehensive data than normally required because it fulfils an unmet medical need. The European Medicines Agency considers that the benefit of having the medicine available earlier outweighs any risks associated with using it while awaiting further evidence.
 
 The company must provide further data on Enhertu. It must submit:
 
-- results from a study evaluating the safety and effectiveness of Enhertu in patients with gastric or gastro-oesophageal junction cancer that is metastatic or cannot be removed by surgery and has worsened following treatment including trastuzumab. The study will compare Enhertu with ramucirumab given in combination with paclitaxel;
-- results from a study evaluating the safety and effectiveness of Enhertu in patients with NSCLC whose cancer has an HER2 mutation and is advanced or metastatic or cannot be removed by surgery. The study will compare Enhertu with pembrolizumab given in combination with pemetrexed-platinum chemotherapy.
+- results from a study evaluating the safety and effectiveness of Enhertu in patients with NSCLC whose cancer has an HER2 mutation and is advanced or metastatic or cannot be removed by surgery. The study will compare Enhertu with pembrolizumab given in combination with pemetrexed-platinum chemotherapy;
+
+- results from a study evaluating the safety and effectiveness of Enhertu in adults with previously treated HER2-positive solid tumours that are metastatic or cannot be removed by surgery, and for whom there are no treatment options.
 
 Every year, the Agency will review any new information that becomes available.
 
@@ -143,6 +164,8 @@ Every year, the Agency will review any new information that becomes available.
 The company that markets Enhertu will provide educational materials to healthcare professionals to inform them that Enhertu can cause interstitial lung disease and pneumonitis, what symptoms to watch out for and the course of action when patients develop such symptoms. In addition, because of a potential risk of confusion between Enhertu and other trastuzumab-containing medicines, including Kadcyla, due to their similar sounding active substances (trastuzumab deruxtecan, trastuzumab emtansine and trastuzumab), the educational materials will include information to alert healthcare professionals not to use these medicines interchangeably and to inform them on how to avoid medication errors.
 
 A patient card will also be provided to patients who are prescribed Enhertu and will include information on interstitial lung disease and pneumonitis, how to recognise the symptoms and when to see their doctor.
+
+These materials may be made available by national competent authorities on their websites. A list of national repositories is available on the [EMA website](https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/pharmacovigilance-post-authorisation/risk-minimisation-measures-rmm#national-repositories-76380) .
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Enhertu have also been included in the summary of product characteristics and the package leaflet.
 
@@ -154,153 +177,153 @@ Enhertu received a conditional marketing authorisation valid throughout the EU o
 
 Enhertu : EPAR - Medicine overview
 
-Reference Number: EMA/80987/2025
+Reference Number: EMADOC-1829012207-55055
 
-English (EN) (167.64 KB - PDF)
+English (EN) (287.81 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 17/07/2026
 
 [View](/en/documents/overview/enhertu-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-221)
+[Other languages (22)](#file-language-dropdown-398)
 
-български (BG) (192.57 KB - PDF)
+български (BG) (220.66 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/bg/documents/overview/enhertu-epar-medicine-overview_bg.pdf)
 
-español (ES) (163.22 KB - PDF)
+español (ES) (197.61 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/es/documents/overview/enhertu-epar-medicine-overview_es.pdf)
 
-čeština (CS) (190.85 KB - PDF)
+čeština (CS) (217.41 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/cs/documents/overview/enhertu-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (161.04 KB - PDF)
+dansk (DA) (199.71 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/da/documents/overview/enhertu-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (167.67 KB - PDF)
+Deutsch (DE) (206.5 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/de/documents/overview/enhertu-epar-medicine-overview_de.pdf)
 
-eesti (ET) (158.88 KB - PDF)
+eesti (ET) (191.39 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/et/documents/overview/enhertu-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (189.9 KB - PDF)
+ελληνικά (EL) (217.54 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/el/documents/overview/enhertu-epar-medicine-overview_el.pdf)
 
-français (FR) (166.06 KB - PDF)
+français (FR) (200.9 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/fr/documents/overview/enhertu-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (190.91 KB - PDF)
+hrvatski (HR) (214.41 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/hr/documents/overview/enhertu-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (161.48 KB - PDF)
+italiano (IT) (195.9 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/it/documents/overview/enhertu-epar-medicine-overview_it.pdf)
 
-latviešu (LV) (205.15 KB - PDF)
+latviešu (LV) (227.13 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/lv/documents/overview/enhertu-epar-medicine-overview_lv.pdf)
 
-lietuvių (LT) (188.66 KB - PDF)
+lietuvių (LT) (211.7 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/lt/documents/overview/enhertu-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (193.88 KB - PDF)
+magyar (HU) (217.1 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/hu/documents/overview/enhertu-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (210.55 KB - PDF)
+Malti (MT) (196.01 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/mt/documents/overview/enhertu-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (162.39 KB - PDF)
+Nederlands (NL) (202.3 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/nl/documents/overview/enhertu-epar-medicine-overview_nl.pdf)
 
-polski (PL) (189.58 KB - PDF)
+polski (PL) (217.79 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/pl/documents/overview/enhertu-epar-medicine-overview_pl.pdf)
 
-português (PT) (165.23 KB - PDF)
+português (PT) (256.35 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/pt/documents/overview/enhertu-epar-medicine-overview_pt.pdf)
 
-română (RO) (189.43 KB - PDF)
+română (RO) (209.96 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/ro/documents/overview/enhertu-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (192.68 KB - PDF)
+slovenčina (SK) (217.5 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/sk/documents/overview/enhertu-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (188.68 KB - PDF)
+slovenščina (SL) (213.95 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/sl/documents/overview/enhertu-epar-medicine-overview_sl.pdf)
 
-suomi (FI) (160.7 KB - PDF)
+suomi (FI) (192.38 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/fi/documents/overview/enhertu-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (161.94 KB - PDF)
+svenska (SV) (196.04 KB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 28/05/2025
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/sv/documents/overview/enhertu-epar-medicine-overview_sv.pdf)
 
 Enhertu : EPAR - Risk management plan
 
-English (EN) (1.66 MB - PDF)
+English (EN) (2.61 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 03/12/2025
+**First published:** 08/02/2021 **Last updated:** 17/07/2026
 
 [View](/en/documents/rmp/enhertu-epar-risk-management-plan_en.pdf)
 
@@ -308,159 +331,159 @@ English (EN) (1.66 MB - PDF)
 
 Enhertu : EPAR - Product information
 
-English (EN) (1.68 MB - PDF)
+English (EN) (1.73 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 17/07/2026
 
 [View](/en/documents/product-information/enhertu-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-930)
+[Other languages (24)](#file-language-dropdown-416)
 
-български (BG) (1.44 MB - PDF)
+български (BG) (1.06 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/bg/documents/product-information/enhertu-epar-product-information_bg.pdf)
 
-español (ES) (1.35 MB - PDF)
+español (ES) (1.38 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/es/documents/product-information/enhertu-epar-product-information_es.pdf)
 
-čeština (CS) (1.33 MB - PDF)
+čeština (CS) (1.38 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/cs/documents/product-information/enhertu-epar-product-information_cs.pdf)
 
-dansk (DA) (1.36 MB - PDF)
+dansk (DA) (1.4 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/da/documents/product-information/enhertu-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.39 MB - PDF)
+Deutsch (DE) (1.45 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/de/documents/product-information/enhertu-epar-product-information_de.pdf)
 
-eesti (ET) (1.33 MB - PDF)
+eesti (ET) (1.38 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/et/documents/product-information/enhertu-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.48 MB - PDF)
+ελληνικά (EL) (1.54 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/el/documents/product-information/enhertu-epar-product-information_el.pdf)
 
-français (FR) (1.52 MB - PDF)
+français (FR) (1.58 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/fr/documents/product-information/enhertu-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.43 MB - PDF)
+hrvatski (HR) (1.45 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/hr/documents/product-information/enhertu-epar-product-information_hr.pdf)
 
-italiano (IT) (1.36 MB - PDF)
+italiano (IT) (1.41 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/it/documents/product-information/enhertu-epar-product-information_it.pdf)
 
-latviešu (LV) (1.41 MB - PDF)
+latviešu (LV) (1.45 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/lv/documents/product-information/enhertu-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.38 MB - PDF)
+lietuvių (LT) (1 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/lt/documents/product-information/enhertu-epar-product-information_lt.pdf)
 
-magyar (HU) (1.45 MB - PDF)
+magyar (HU) (1.1 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/hu/documents/product-information/enhertu-epar-product-information_hu.pdf)
 
-Malti (MT) (1.47 MB - PDF)
+Malti (MT) (1.2 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/mt/documents/product-information/enhertu-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.4 MB - PDF)
+Nederlands (NL) (1.47 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/nl/documents/product-information/enhertu-epar-product-information_nl.pdf)
 
-polski (PL) (1.53 MB - PDF)
+polski (PL) (1.56 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/pl/documents/product-information/enhertu-epar-product-information_pl.pdf)
 
-português (PT) (1.36 MB - PDF)
+português (PT) (1.37 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/pt/documents/product-information/enhertu-epar-product-information_pt.pdf)
 
-română (RO) (1.37 MB - PDF)
+română (RO) (1.44 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/ro/documents/product-information/enhertu-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.64 MB - PDF)
+slovenčina (SK) (1.7 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/sk/documents/product-information/enhertu-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.45 MB - PDF)
+slovenščina (SL) (1.49 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/sl/documents/product-information/enhertu-epar-product-information_sl.pdf)
 
-suomi (FI) (1.81 MB - PDF)
+suomi (FI) (1.87 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/fi/documents/product-information/enhertu-epar-product-information_fi.pdf)
 
-svenska (SV) (1.12 MB - PDF)
+svenska (SV) (1.52 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/sv/documents/product-information/enhertu-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.3 MB - PDF)
+Íslenska (IS) (1.14 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/is/documents/product-information/enhertu-epar-product-information_is.pdf)
 
-norsk (NO) (1.41 MB - PDF)
+norsk (NO) (1.47 MB - PDF)
 
-**First published:** 08/02/2021 **Last updated:** 06/07/2026
+**First published:** 08/02/2021 **Last updated:** 16/07/2026
 
 [View](/no/documents/product-information/enhertu-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000328212
+**Latest procedure affecting product information:** VR/0000293327
 
 25/06/2026
 
@@ -487,7 +510,7 @@ English (EN) (40.72 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/enhertu-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-885)
+[Other languages (24)](#file-language-dropdown-42)
 
 български (BG) (57.76 KB - PDF)
 
@@ -668,6 +691,9 @@ Enhertu as monotherapy is indicated for the treatment of adult patients with adv
 Gastric cancer
 Enhertu as monotherapy is indicated for the treatment of adult patients with advanced HER2-positive gastric or gastroesophageal junction (GEJ) adenocarcinoma who have received a prior trastuzumab-based regimen.
 
+Other unresectable or metastatic solid tumours
+Enhertu as monotherapy is indicated for the treatment of adult patients with unresectable or metastatic HER2-positive (IHC3+) solid tumours who have received prior treatment and who have no satisfactory treatment options (see sections 4.4 and 5.1; for biomarker-based patient selection, see section 4.2).
+
 ## Authorisation details
 
 - **EMA product number**
@@ -683,7 +709,7 @@ Enhertu as monotherapy is indicated for the treatment of adult patients with adv
 - **Marketing authorisation issued**
     - 18/01/2021
 - **Revision**
-    - 20
+    - 21
 
 ## Assessment history
 
@@ -695,9 +721,9 @@ Collapse section
 
 Enhertu : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (214.24 KB - PDF)
+English (EN) (200.28 KB - PDF)
 
-**First published:** 03/12/2025 **Last updated:** 06/07/2026
+**First published:** 03/12/2025 **Last updated:** 17/07/2026
 
 [View](/en/documents/procedural-steps-after/enhertu-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -708,6 +734,26 @@ English (EN) (237.73 KB - PDF)
 **First published:** 25/05/2021 **Last updated:** 03/12/2025
 
 [View](/en/documents/procedural-steps-after/enhertu-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Enhertu-VR-0000293327 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-3246710
+
+English (EN) (4.65 MB - PDF)
+
+**First published:** 17/07/2026
+
+[View](/en/documents/variation-report/enhertu-vr-0000293327-epar-assessment-report-variation_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Enhertu (VR-0000293327)
+
+Adopted Reference Number: EMADOC-1700519818-3166834
+
+English (EN) (161.65 KB - PDF)
+
+**First published:** 22/05/2026
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-enhertu-vr-0000293327_en.pdf)
 
 Enhertu-H-C-005124-II-0048 : EPAR - Assessment report - Variation
 
@@ -883,7 +929,7 @@ English (EN) (1.03 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/enhertu-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-865)
+[Other languages (24)](#file-language-dropdown-391)
 
 български (BG) (871.58 KB - DOCX)
 
@@ -1033,7 +1079,6 @@ norsk (NO) (888 KB - DOCX)
 
 - [EMEA-002978-PIP01-21 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002978-pip01-21)
 - [EMEA-002978-PIP02-24 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002978-pip02-24)
-- [Enhertu - opinion on variation to marketing authorisation](/en/medicines/human/variation/enhertu)
 - [Real life safety, effectiveness and quality of life of trastuzumab deruxtecan in patients with metastatic or unresectable HER2-positive breast cancer: a French ambispective multicentre 2 year-follow-up cohort study - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000341)
 - [A Prospective non-interventional study (NIS) of trastuzumab deRuxtecan (T-DXd) for adult patients with advanced HER2-pOsitive gaStric or gastroesoPhageal junction (GEJ) adEnocarcinoma who have Received a prIor Trastuzumab-based regimen, accompanied by a disease registrY of patients treated with conventional therapies in a real-world setting in Europe (PROSPERITY). - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000340)
 - [A prospective, non-interventional study (NIS) with trastuzumab deruxtecan for patients with HER2-low expressing unresectable and/or metastatic breast cancer accompanied by a disease registry of patients treated with conventional chemotherapy (DESTINY Breast Respond HER2-low Europe) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000277)
@@ -1041,6 +1086,6 @@ norsk (NO) (888 KB - DOCX)
 
 **This page was last updated on**
 
-06/07/2026
+17/07/2026
 
 ## Share this page

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-06-25 13:13:00
+document_datetime: 2026-07-17 16:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/inaqovi.html
 document_name: inaqovi.html
 version: success
-processing_time: 0.1355921
-conversion_datetime: 2026-07-04 13:08:03.190826
+processing_time: 0.1389695
+conversion_datetime: 2026-07-19 12:03:14.796161
 docling_version:
   docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
+  docling-jobkit: 2.1.0
+  docling: 2.113.0
+  docling-core: 2.87.1
   docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
   plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
@@ -115,7 +115,7 @@ English (EN) (130.2 KB - PDF)
 
 [View](/en/documents/overview/inaqovi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-846)
+[Other languages (22)](#file-language-dropdown-869)
 
 български (BG) (139 KB - PDF)
 
@@ -267,7 +267,7 @@ English (EN) (460.38 KB - PDF)
 
 [View](/en/documents/product-information/inaqovi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-643)
+[Other languages (24)](#file-language-dropdown-866)
 
 български (BG) (506.49 KB - PDF)
 
@@ -323,9 +323,9 @@ hrvatski (HR) (496.5 KB - PDF)
 
 [View](/hr/documents/product-information/inaqovi-epar-product-information_hr.pdf)
 
-italiano (IT) (447.21 KB - PDF)
+italiano (IT) (446.84 KB - PDF)
 
-**First published:** 30/11/2023 **Last updated:** 25/06/2026
+**First published:** 30/11/2023 **Last updated:** 17/07/2026
 
 [View](/it/documents/product-information/inaqovi-epar-product-information_it.pdf)
 
@@ -440,7 +440,7 @@ English (EN) (17.3 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/inaqovi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-411)
+[Other languages (24)](#file-language-dropdown-965)
 
 български (BG) (36.31 KB - PDF)
 
@@ -727,6 +727,6 @@ This product is no longer an orphan medicine. It was originally designated an or
 
 **This page was last updated on**
 
-25/06/2026
+17/07/2026
 
 ## Share this page

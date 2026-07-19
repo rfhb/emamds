@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-16 11:19:19
+document_datetime: 2026-07-17 12:37:52
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kefdensis-epar-product-information_en.pdf
 document_name: kefdensis-epar-product-information_en.pdf
 version: success
-processing_time: 9.1465291
-conversion_datetime: 2026-06-25 09:12:18.346563
+processing_time: 8.3648202
+conversion_datetime: 2026-07-19 12:28:45.825342
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
+  docling-serve: 1.26.0
+  docling-jobkit: 2.1.0
+  docling: 2.113.0
+  docling-core: 2.87.1
   docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -219,14 +219,14 @@ The following convention has been used for the classification of the adverse rea
 
 ## Table 1. Adverse reactions reported in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation
 
-| MedDRAsystem organ class    | Frequency category                       | Adverse reactions                                                                                     |
+| MedDRA system organ class   | Frequency category                       | Adverse reactions                                                                                     |
 |-----------------------------|------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | Infections and infestations | Common Common Uncommon Uncommon Uncommon | Urinary tract infection Upper respiratory tract infection Diverticulitis 1 Cellulitis 1 Ear infection |
 | Immune system disorders     | Rare                                     | Drug hypersensitivity 1                                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRAsystem organ class                        | Frequency category                          | Adverse reactions                                                                                                                       |
+| MedDRA system organ class                       | Frequency category                          | Adverse reactions                                                                                                                       |
 |-------------------------------------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 |                                                 | Rare                                        | Anaphylactic reaction 1                                                                                                                 |
 | Metabolism and nutrition disorders              | Rare                                        | Hypocalcaemia 1                                                                                                                         |
@@ -718,17 +718,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                        |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Kefdensis 60 mg injection denosumab SC
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -740,8 +740,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mL
 
@@ -932,7 +932,7 @@ Common side effects (may affect up to 1 in 10 people):
 - ear infection,
 - rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions).
 
-## Very rare side effects (may affect up to 1 in 10 000 people):
+Very rare side effects (may affect up to 1 in 10 000 people):
 
 - allergic reaction that can damage blood vessels mainly in the skin (e.g. purple or brownish-red spots, hives or skin sores) (hypersensitivity vasculitis).
 
@@ -1020,7 +1020,9 @@ UAB 'STADA Baltics' Tel: +372 53072153
 
 ## Ελλάδα
 
-STADA Arzneimittel AG Tel: +30 2106664667
+Faran S.A.
+
+Tel: +30 2106254175
 
 ## España
 
@@ -1068,11 +1070,15 @@ STADA Poland Sp. z o.o.
 
 Tel: +48 227377920
 
-<div style=\"page-break-after: always\"></div>
-
 ## France
 
 EG LABO - Laboratoires EuroGenerics Tél: +33 146948686
+
+## Portugal
+
+Stada, Lda.
+
+Tel: +351 211209870
 
 ## Hrvatska
 
@@ -1080,11 +1086,23 @@ STADA d.o.o.
 
 Tel: +385 13764111
 
+## România
+
+STADA M&amp;D SRL
+
+Tel: +40 213160640
+
 ## Ireland
 
 Clonmel Healthcare Ltd.
 
 Tel: +353 526177777
+
+## Slovenija
+
+Stada d.o.o.
+
+Tel: +386 15896710
 
 ## Ísland
 
@@ -1092,17 +1110,33 @@ STADA Arzneimittel AG
 
 Sími: +49 61016030
 
+## Slovenská republika
+
+STADA PHARMA Slovakia, s.r.o. Tel: +421 252621933
+
 ## Italia
 
 EG SpA Tel: +39 028310371
+
+## Suomi/Finland
+
+STADA Nordic ApS, Suomen sivuliike Puh/Tel: +358 207416888
 
 ## Κύπρος
 
 STADA Arzneimittel AG Τηλ: +30 2106664667
 
+## Sverige
+
+STADA Nordic ApS
+
+Tel: +45 44859999
+
 ## Latvija
 
 UAB 'STADA Baltics' Tel: +371 28016404
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -1113,38 +1147,6 @@ Detailed information on this medicine is available on the European Medicines Age
 Detailed information on this medicine, including a video on how to use the pre-filled syringe, is available by scanning the QR code included below or the outer carton with a smartphone. The same information is also available on the following URL: kefdensispatients.com
 
 ## QR code to be included
-
-## Portugal
-
-Stada, Lda.
-
-Tel: +351 211209870
-
-## România
-
-STADA M&amp;D SRL
-
-Tel: +40 213160640
-
-## Slovenija
-
-Stada d.o.o.
-
-Tel: +386 15896710
-
-## Slovenská republika
-
-STADA PHARMA Slovakia, s.r.o. Tel: +421 252621933
-
-## Suomi/Finland
-
-STADA Nordic ApS, Suomen sivuliike Puh/Tel: +358 207416888
-
-## Sverige
-
-STADA Nordic ApS
-
-Tel: +45 44859999
 
 <div style=\"page-break-after: always\"></div>
 

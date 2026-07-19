@@ -1,26 +1,28 @@
 ---
-document_datetime: 2025-08-21 15:45:38
-document_pages: 39
+document_datetime: 2026-07-16 12:24:09
+document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/trodelvy-epar-product-information_en.pdf
 document_name: trodelvy-epar-product-information_en.pdf
 version: success
-processing_time: 9.5406718
-conversion_datetime: 2025-12-22 12:47:55.172604
+processing_time: 12.289579
+conversion_datetime: 2026-07-19 12:27:22.044389
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.1.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
@@ -46,7 +48,14 @@ Powder for concentrate for solution for infusion Off-white to yellowish powder.
 
 ## 4.1 Therapeutic indications
 
-Trodelvy as monotherapy is indicated for the treatment of adult patients with unresectable or metastatic triple-negative breast cancer (mTNBC) who have received two or more prior systemic therapies, including at least one of them for advanced disease (see section 5.1).
+Triple-Negative Breast Cancer
+
+Trodelvy is indicated:
+
+- as monotherapy for the treatment of adult patients with unresectable locally advanced or metastatic triple-negative breast cancer (TNBC) who have not received prior systemic therapy for metastatic disease and who are not candidates for PD-1 or PD-L1 inhibitor therapy (see section 5.1).
+- as monotherapy for the treatment of adult patients with unresectable or metastatic TNBC who have received two or more prior systemic therapies, including at least one of them for advanced disease (see section 5.1)
+
+## HR-Positive, HER2-Negative Breast Cancer
 
 Trodelvy as monotherapy is indicated for the treatment of adult patients with unresectable or metastatic hormone receptor (HR)-positive, HER2-negative breast cancer who have received endocrine-based therapy, and at least two additional systemic therapies in the advanced setting (see section 5.1).
 
@@ -54,11 +63,11 @@ Trodelvy as monotherapy is indicated for the treatment of adult patients with un
 
 Trodelvy must only be prescribed and administered to patients by healthcare professionals experienced in the use of anti-cancer therapies and administered in an environment where full resuscitation facilities are available.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Posology
 
 The recommended dose of sacituzumab govitecan is 10 mg/kg body weight administered as an intravenous infusion once weekly on Day 1 and Day 8 of 21-day treatment cycles. Treatment should be continued until disease progression or unacceptable toxicity.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Prevention treatment
 
@@ -83,15 +92,18 @@ Table 1: Dosage Reduction Schedule
 
 Table 2: Recommended dose modifications for adverse reactions
 
-| Adverse reactions          | Severity                                                                                                                     | Dose Modification                                                                                                                                                                                                                                                                                                                                                                                       |
-|----------------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Neutropenia                | • Grade 3-4 neutropenia (ANC<1000/mm 3 ) • Grade 3-4 febrile neutropenia (ANC<1000/mm 3 )                                    | • Withhold treatment until resolved to ≤ Grade 1 (ANC ≥ 1500/mm3) for Day 1 dose or Grade 2 (ANC ≥ 1000/mm3) for Day 8 Dose (see section 4.4). • Administer G-CSF during treatment as clinically indicated. • For subsequent Grade 3-4 febrile neutropenia events or subsequent prolonged Grade 3-4 neutropenia events, reduce one dose level with each recurrence or discontinue according to Table 1. |
-| Nausea/Vomiting/ Diarrhoea | • Grade 3-4 nausea, vomiting or diarrhoea due to treatment that is not controlled with antiemetics and anti-diarrheal agents | • Withhold treatment until resolved to ≤ Grade 1 (see section 4.4). • Reduce one dose level with each occurrence or discontinue according to Table 1.                                                                                                                                                                                                                                                   |
-| Infusion-Related Reaction  | • Grade 1-3 infusion-related reactions                                                                                       | • Slow or interrupt the infusion rate of sacituzumab govitecan                                                                                                                                                                                                                                                                                                                                          |
-| Infusion-Related Reaction  | • Grade 4 infusion-related reactions                                                                                         | • Discontinue treatment                                                                                                                                                                                                                                                                                                                                                                                 |
-| Other Toxicities           | • Other Grade 3-4 toxicities of any duration despite optimal medical management                                              | • Withhold treatment until resolved to ≤ Grade 1. • Reduce one dose level with each occurrence or discontinue according to Table 1.                                                                                                                                                                                                                                                                     |
+| Adverse reactions          | Severity                                                                                                                      | Dose Modification                                                                                                                                                                                                                                                                                                                                                                                         |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Neutropenia                | • Grade 3-4 neutropenia (Absolute Neutrophil Count <1000/mm 3 ) • Grade 3-4 febrile neutropenia (ANC<1000/mm 3 )              | • Withhold treatment until resolved to ≤ Grade 1 (ANC ≥ 1500/mm3) for Day 1 dose or Grade 2 (ANC ≥ 1000/mm 3 ) for Day 8 dose (see section 4.4). • Administer G-CSF during treatment as clinically indicated. • For subsequent Grade 3-4 febrile neutropenia events or subsequent prolonged Grade 3-4 neutropenia events, reduce one dose level with each recurrence or discontinue according to Table 1. |
+| Nausea/Vomiting/ Diarrhoea | • Grade 3-4 nausea, vomiting or diarrhoea due to treatment that is not controlled with antiemetics and anti- diarrheal agents | • Withhold treatment until resolved to ≤ Grade 1 (see section 4.4). • Reduce one dose level with each occurrence or discontinue according to Table 1.                                                                                                                                                                                                                                                     |
+| Infusion-Related Reaction  | • Grade 1-3 infusion-related reactions                                                                                        | • Slow or interrupt the infusion rate of sacituzumab govitecan                                                                                                                                                                                                                                                                                                                                            |
 
 <div style=\"page-break-after: always\"></div>
+
+| Adverse reactions   | Severity                                                                        | Dose Modification                                                                                                                   |
+|---------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+|                     | • Grade 4 infusion-related reactions                                            | • Discontinue treatment                                                                                                             |
+| Other Toxicities    | • Other Grade 3-4 toxicities of any duration despite optimal medical management | • Withhold treatment until resolved to ≤ Grade 1. • Reduce one dose level with each occurrence or discontinue according to Table 1. |
 
 ## Special populations
 
@@ -131,6 +143,8 @@ For instructions on reconstitution and dilution of the medicinal product before 
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.4 Special warnings and precautions for use
 
 ## Traceability
@@ -139,13 +153,11 @@ In order to improve the traceability of biological medicinal products, the name 
 
 ## Neutropenia
 
-<div style=\"page-break-after: always\"></div>
-
 Sacituzumab govitecan can cause severe or life-threatening neutropenia (see section 4.8). Fatal infections in the setting of neutropenia have been observed in clinical studies with sacituzumab govitecan, primarily in the first two cycles of treatment.
 
-Primary prophylaxis with G-CSF should be considered starting in the first cycle of treatment in patients at increased risk of febrile neutropenia, e.g., older patients (in particular aged 65 years and older), patients with previous neutropenia, poor performance status, organ dysfunction (including renal, liver or cardiovascular dysfunction), or multiple comorbid conditions. Monitor absolute neutrophil count (ANC) during treatment.
+Primary prophylaxis with G-CSF should be considered starting in the first cycle of treatment in patients at increased risk of febrile neutropenia, e.g., older patients (in particular aged 65 years and older), patients with previous neutropenia, poor performance status, organ dysfunction (including renal, liver or cardiovascular dysfunction), or multiple comorbid conditions. Monitor ANC during treatment.
 
-Sacituzumab govitecan should not be administered if the ANC is below 1500/mm 3 on Day 1 of any cycle or if the neutrophil count is below 1000/mm 3 on Day 8 of any cycle. Sacituzumab govitecan should not be administered in case of neutropenic fever. Dose modifications may be required due to neutropenia or febrile neutropenia. Treat neutropenia with G-CSF and consider prophylaxis in subsequent cycles as clinically indicated (see sections 4.2 and 4.8).
+Sacituzumab govitecan should not be administered if the ANC is below 1500/mm 3  on Day 1 of any cycle or if the neutrophil count is below 1000/mm 3 on Day 8 of any cycle. Sacituzumab govitecan should not be administered in case of neutropenic fever. Dose modifications may be required due to neutropenia or febrile neutropenia. Treat neutropenia with G-CSF and consider prophylaxis in subsequent cycles as clinically indicated (see sections 4.2 and 4.8).
 
 ## Diarrhoea
 
@@ -159,19 +171,17 @@ Sacituzumab govitecan can cause severe and life-threatening hypersensitivity (se
 
 Pre-infusion treatment, including antipyretics, H1 and H2 blockers, or corticosteroids (e.g. 50 mg hydrocortisone or equivalent, orally or intravenously), for patients receiving sacituzumab govitecan is recommended . Patients should be closely observed for infusion-related reactions during each sacituzumab govitecan infusion and for at least 30 minutes after completion of each infusion. The infusion rate of sacituzumab govitecan should be slowed down or infusion interrupted if the patient develops an infusion-related reaction. Sacituzumab govitecan should be permanently discontinued if life-threatening infusion-related reactions occur (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Nausea and vomiting
 
 Sacituzumab govitecan is emetogenic (see section 4.8). Antiemetic preventive treatment with two or three medicinal products (e.g. dexamethasone with either a 5-hydroxytryptamine 3 [5-HT3] receptor antagonist or a Neurokinin-1 [NK-1] receptor antagonist as well as other medicinal products as indicated) is recommended for prevention of chemotherapy-induced nausea and vomiting (CINV).
 
-Sacituzumab govitecan should not be administered in case of Grade 3 nausea or Grade 3-4 vomiting at the time of scheduled treatment administration and treatment should only be continued with additional supportive measures when resolved to ≤ Grade 1 (see section 4.2) . Additional antiemetics and other
-
-<div style=\"page-break-after: always\"></div>
-
-supportive measures may also be employed as clinically indicated. All patients should be given takehome medicinal products with clear instructions for prevention and treatment of nausea and vomiting.
+Sacituzumab govitecan should not be administered in case of Grade 3 nausea or Grade 3-4 vomiting at the time of scheduled treatment administration and treatment should only be continued with additional supportive measures when resolved to ≤ Grade 1 (see section 4.2) . Additional antiemetics and other supportive measures may also be employed as clinically indicated. All patients should be given takehome medicinal products with clear instructions for prevention and treatment of nausea and vomiting.
 
 ## Use in patients with reduced UGT1A1 activity
 
-SN-38 (the small molecule moiety of sacituzumab govitecan) is metabolised via uridine diphosphate-glucuronosyl transferase (UGT1A1). Genetic variants of the UGT1A1 gene such as the UGT1A1*28 allele lead to reduced UGT1A1 enzyme activity. Individuals who are homozygous for UGT1A1*28 allele are at increased risk for neutropenia, febrile neutropenia, and anaemia and are at increased risk for other adverse reactions following initiation of sacituzumab govitecan treatment (see section 4.8). Approximately 20% of the Black population, 10% of the White population, and 2% of the East Asian population are homozygous for the UGT1A1*28 allele. Decreased function alleles other than UGT1A1*28 may be present in certain populations. Patients with known reduced UGT1A1 activity should be closely monitored for adverse reactions. When unknown, no testing of UGT1A1 status is required as the management of adverse reactions including the recommended dose modifications will be the same for all patients.
+SN-38 (the small molecule moiety of sacituzumab govitecan) is metabolised via uridine diphosphate-glucuronosyl transferase (UGT1A1). Genetic variants of the UGT1A1 gene such as the UGT1A1*28 allele lead to reduced UGT1A1 enzyme activity. Individuals who are homozygous for UGT1A1*28 allele are at increased risk for neutropenia, febrile neutropenia, and anaemia and are at increased risk for other adverse reactions following initiation of sacituzumab govitecan treatment (see section 4.8). A higher incidence of Grade 3-4 neutropenia, febrile neutropenia, and anaemia was observed in patients homozygous for the UGT1A1*28 allele and patients heterozygous for the UGT1A1*6 allele compared to patients homozygous for the wild-type allele. Approximately 20% of the Black population, 10% of the White population, and 2% of the East Asian population are homozygous for the UGT1A1*28 allele. Approximately 0.2% of the Black population, 0.3% of the White population, and 27% of the East Asian population are heterozygous for the UGT1A1*6 allele. Decreased function alleles other than UGT1A1*28 and *6 may be present in certain populations. Patients with known reduced UGT1A1 activity should be closely monitored for adverse reactions. When unknown, no testing of UGT1A1 status is required as the management of adverse reactions including the recommended dose modifications will be the same for all patients.
 
 ## Embryo-foetal toxicity
 
@@ -189,17 +199,17 @@ No interaction studies have been performed.
 
 Concomitant administration of sacituzumab govitecan with inhibitors of UGT1A1 may increase the incidence of adverse reactions due to potential increase in systemic exposure to SN-38. Sacituzumab govitecan should be used with caution in patients receiving UGT1A1 inhibitors (e.g. propofol, ketoconazole, EGFR tyrosine kinase inhibitors).
 
+<div style=\"page-break-after: always\"></div>
+
 ## UGT1A1 inducers
 
 Exposure to SN-38 may be reduced in patients concomitantly receiving UGT1A1 enzyme inducers. Sacituzumab govitecan should be used with caution in patients receiving UGT1A1 inducers (e.g. carbamazepine, phenytoin, rifampicin, ritonavir, tipranavir).
 
-Based on the limited data available from patients who received UGT1A1 inhibitors (n=16) or inducers (n=5) while being treated with sacituzumab govitecan, free SN-38 exposures in these patients were comparable to those in patients who did not receive UGT1A1 inhibitor or inducer.
+Based on the limited data available from patients who received UGT1A1 inhibitors (n=15) or inducers (n=7) while being treated with sacituzumab govitecan, free SN-38 exposures in these patients were comparable to those in patients who did not receive UGT1A1 inhibitor or inducer.
 
 ## 4.6 Fertility, pregnancy and lactation
 
-Women of childbearing potential/Contraception in males and females
-
-<div style=\"page-break-after: always\"></div>
+## Women of childbearing potential/Contraception in males and females
 
 Women of childbearing potential have to use effective contraception during treatment and for 6 months after the last dose.
 
@@ -231,17 +241,17 @@ Sacituzumab govitecan has minor influence on the ability to drive and use machin
 
 ## Summary of the safety profile
 
-The most common adverse reactions reported in patients treated with sacituzumab govitecan were: neutropenia (67.6%), nausea (62.6%), diarrhoea (62.5%), fatigue (61.5%), alopecia (45.6%), anaemia (40.7%), constipation (36.2%), vomiting (33.6%), decreased appetite (25.7%), dyspnoea (22.1%) and abdominal pain (20.2%).
-
-The most common grade 3 or higher adverse reactions were neutropenia (50.7%), leukopenia (10.5%), diarrhoea (10.3%), anaemia (9.3%), fatigue (6.8%), febrile neutropenia (6.1%), hypophosphataemia (4.2%), dyspnoea (3.1%), lymphopenia (2.9%), abdominal pain (2.8%), nausea (2.8%), vomiting (2.5%), hypokalaemia (2.5%), pneumonia (2.3%) and aspartate aminotransferase increased (2.2%).
-
-The most frequently reported serious adverse reactions in patients treated with sacituzumab govitecan were febrile neutropenia (4.8%), diarrhoea (3.9%), neutropenia (2.6%) and pneumonia (2%).
+The most common adverse reactions reported in patients treated with sacituzumab govitecan were: neutropenia (67.3%), nausea (62.1%), diarrhoea (59.9%), fatigue (57.4%), alopecia (48.3%), anaemia (40.1%), constipation (36.7%), vomiting (31.3%), and decreased appetite (23.3%).
 
 <div style=\"page-break-after: always\"></div>
 
+The most common grade 3 or higher adverse reactions were neutropenia (48.6%), diarrhoea (10.0%), leukopenia (9.6%), anaemia (7.7%), fatigue (5.8%), febrile neutropenia (5.6%), and lymphopenia (3.1%).
+
+The most frequently reported serious adverse reactions in patients treated with sacituzumab govitecan were febrile neutropenia (4.5%), diarrhoea (3.7%), neutropenia (2.9%) and pneumonia (2.1%).
+
 ## Tabulated list of adverse reactions
 
-The frequencies of adverse reactions are based on pooled data from three clinical studies involving 688 patients who received sacituzumab govitecan 10 mg/kg body weight for the treatment of metastatic TNBC and HR+/HER2- breast cancer. The median exposure to sacituzumab govitecan in this data set was 4.63 months.
+The frequencies of adverse reactions are based on pooled data from four clinical studies involving 963 patients who received sacituzumab govitecan 10 mg/kg body weight for the treatment of metastatic TNBC and HR+/HER2- breast cancer. The median exposure to sacituzumab govitecan in this data set was 5.29 months.
 
 The adverse reaction frequencies are based on all-cause adverse event frequencies, where a proportion of the events for an adverse reaction may have other causes than sacituzumab govitecan, such as the disease, other medicinal products or unrelated causes. The severity of adverse drug reactions was assessed based on the Common Terminology Criteria for Adverse Events (CTCAE), defining grade 1 = mild, grade 2 = moderate, grade 3 = severe, grade 4 = life threatening, and 5 = death.
 
@@ -251,108 +261,104 @@ Table 3: List of adverse reactions
 
 | System organ class (SOC)             | Frequency                            | Adverse reactions                                                           |
 |--------------------------------------|--------------------------------------|-----------------------------------------------------------------------------|
-| Infections and infestations          |                                      |                                                                             |
+| Infections and infestations          | Infections and infestations          | Infections and infestations                                                 |
 |                                      | Very common                          | Urinary tract infection Upper respiratory tract infection                   |
 |                                      | Common                               | Sepsis Pneumonia Influenza Bronchitis Nasopharyngitis Sinusitis Oral herpes |
-| Blood and lymphatic system disorders | Blood and lymphatic system disorders |                                                                             |
+| Blood and lymphatic system disorders | Blood and lymphatic system disorders | Blood and lymphatic system disorders                                        |
 |                                      | Very common                          | Neutropenia 1 Anaemia 2 Leukopenia 3 Lymphopenia 4                          |
 |                                      | Common                               | Febrile neutropenia Thrombocytopenia 5                                      |
-| Immune system disorders              |                                      |                                                                             |
+| Immune system disorders              | Immune system disorders              | Immune system disorders                                                     |
 |                                      | Very common                          | Hypersensitivity 6                                                          |
-| Metabolism and nutrition disorders   |                                      |                                                                             |
+| Metabolism and nutrition disorders   | Metabolism and nutrition disorders   | Metabolism and nutrition disorders                                          |
 |                                      | Very common                          | Decreased appetite Hypokalaemia Hypomagnesaemia                             |
 |                                      | Common                               | Dehydration Hyperglycaemia Hypophosphataemia Hypocalcaemia Hyponatraemia    |
-| Psychiatric disorders                |                                      |                                                                             |
-|                                      | Very common                          | Insomnia                                                                    |
-|                                      | Common                               | Anxiety                                                                     |
-| Nervous system disorders             |                                      |                                                                             |
-|                                      | Very common                          | Headache Dizziness                                                          |
-|                                      | Common                               | Dysgeusia                                                                   |
-| Vascular disorders                   |                                      |                                                                             |
-|                                      | Common                               | Hypotension                                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-| Respiratory, thoracic and mediastinal disorders           | Respiratory, thoracic and mediastinal disorders           | Respiratory, thoracic and mediastinal disorders                                                                                             |
-|-----------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                           | Very common                                               | Dyspnoea 7 Cough                                                                                                                            |
-|                                                           | Common                                                    | Epistaxis Productive cough Rhinorrhoea Nasal congestion Upper airway cough syndrome                                                         |
-| Gastrointestinal disorders                                | Gastrointestinal disorders                                | Gastrointestinal disorders                                                                                                                  |
-|                                                           | Very common                                               | Diarrhoea Vomiting Nausea Constipation Abdominal Pain                                                                                       |
-|                                                           | Common                                                    | Neutropenic colitis 8 Colitis Stomatitis Abdominal pain upper Dyspepsia Gastrooesophageal reflux disease Abdominal distension               |
-| Uncommon Enteritis Skin and subcutaneous tissue disorders | Uncommon Enteritis Skin and subcutaneous tissue disorders | Uncommon Enteritis Skin and subcutaneous tissue disorders                                                                                   |
-|                                                           | Very common                                               | Alopecia Rash Pruritus                                                                                                                      |
-|                                                           | Common                                                    | Rash maculopapular Skin hyperpigmentation Dermatitis acneiform Dry skin                                                                     |
-| Musculoskeletal and connective tissue disorders           | Musculoskeletal and connective tissue disorders           | Musculoskeletal and connective tissue disorders                                                                                             |
-|                                                           | Very common                                               | Back pain Arthralgia                                                                                                                        |
-|                                                           | Common                                                    | Musculoskeletal chest pain Muscle spasms                                                                                                    |
-| Renal and urinary disorders                               | Renal and urinary disorders                               | Renal and urinary disorders                                                                                                                 |
-|                                                           | Common                                                    | Haematuria Proteinuria Dysuria                                                                                                              |
-| General disorders and administration site conditions      | General disorders and administration site conditions      | General disorders and administration site conditions                                                                                        |
-|                                                           | Very common                                               | Fatigue 9                                                                                                                                   |
-|                                                           | Common                                                    | Pain Chills                                                                                                                                 |
-| Investigations                                            | Investigations                                            | Investigations                                                                                                                              |
-|                                                           | Common                                                    | Weight decreased Blood alkaline phosphatase increased Activated partial thromboplastin time prolonged Blood lactate dehydrogenase increased |
-| Injury, poisoning and procedural complications            | Injury, poisoning and procedural complications            | Injury, poisoning and procedural complications                                                                                              |
-|                                                           | Uncommon                                                  | Infusion related reaction                                                                                                                   |
-
-1: Includes the following preferred terms: neutropenia; neutrophil count decreased.
-
-2: Includes the following preferred terms: anaemia; haemoglobin decreased; red blood cell count decreased.
-
-3: Includes the following preferred terms: leukopenia; white blood cell count decreased.
-
-4: Includes the following preferred terms: lymphopenia; lymphocyte count decreased.
-
-5: Includes the following preferred terms: thrombocytopenia; platelet count decreased.
-
-6: Hypersensitivity events reported up to the end of the day after treatment was administered. Includes events coded to the following preferred terms: dyspnoea; hypotension; flushing; erythema; chest discomfort; rhinitis allergic; wheezing; oedema; urticaria; anaphylactic reaction; mouth ulceration ; skin exfoliation; swollen tongue; throat tightness
-
-7: Includes the following preferred terms: dyspnoea; dyspnoea exertional
-
-8: Includes the preferred term of neutropenic colitis and events reported as typhlitis
-
-9: Includes the following preferred terms: fatigue, asthenia
+| System organ class (SOC)                  | Frequency        | Adverse reactions                                                                                                  |
+|-------------------------------------------|------------------|--------------------------------------------------------------------------------------------------------------------|
+| Psychiatric disorders                     |                  |                                                                                                                    |
+|                                           | Common           | Insomnia Anxiety                                                                                                   |
+| Nervous system disorders                  |                  |                                                                                                                    |
+|                                           | Very common      | Headache Dizziness                                                                                                 |
+|                                           | Common           | Dysgeusia                                                                                                          |
+| Vascular disorders                        |                  |                                                                                                                    |
+| Respiratory, thoracic and mediastinal     | Common disorders | Hypotension                                                                                                        |
+|                                           | Very common      | Dyspnoea 7 Cough                                                                                                   |
+|                                           | Common           | Epistaxis Productive cough Rhinorrhoea Nasal congestion                                                            |
+| Gastrointestinal disorders                |                  |                                                                                                                    |
+|                                           | Very common      | Diarrhoea Vomiting Constipation Stomatitis Nausea Abdominal Pain                                                   |
+|                                           | Common           | Neutropenic colitis 8 Colitis Abdominal pain upper Dyspepsia Gastrooesophageal reflux disease Abdominal distension |
+|                                           | Uncommon         | Enteritis                                                                                                          |
+| Skin and subcutaneous tissue disorders    |                  |                                                                                                                    |
+|                                           | Very common      | Alopecia Rash Pruritus                                                                                             |
+|                                           | Common           | Rash maculopapular Skin hyperpigmentation Dermatitis acneiform Dry skin                                            |
+| Musculoskeletal and connective tissue     | disorders        |                                                                                                                    |
+|                                           | Very common      | Back pain Arthralgia                                                                                               |
+|                                           | Common           | Musculoskeletal chest pain Muscle spasms                                                                           |
+| Renal and urinary disorders               |                  |                                                                                                                    |
+|                                           | Common           | Haematuria Proteinuria Dysuria                                                                                     |
+| General disorders and administration site | conditions       |                                                                                                                    |
+|                                           | Very common      | Fatigue 9                                                                                                          |
+|                                           | Common           | Pain                                                                                                               |
 
 <div style=\"page-break-after: always\"></div>
+
+| System organ class (SOC)                       | Frequency                                      | Adverse reactions                                                                                      |
+|------------------------------------------------|------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Investigations                                 | Investigations                                 | Investigations                                                                                         |
+|                                                | Very common                                    | Blood alkaline phosphatase increased                                                                   |
+|                                                | Common                                         | Weight decreased Activated partial thromboplastin time prolonged Blood lactate dehydrogenase increased |
+| Injury, poisoning and procedural complications | Injury, poisoning and procedural complications | Injury, poisoning and procedural complications                                                         |
+|                                                | Common                                         | Infusion related reaction                                                                              |
+
+- 1: Includes the following preferred terms: neutropenia; neutrophil count decreased.
+- 2: Includes the following preferred terms: anaemia; haemoglobin decreased; red blood cell count decreased.
+- 3: Includes the following preferred terms: leukopenia; white blood cell count decreased.
+- 4: Includes the following preferred terms: lymphopenia; lymphocyte count decreased.
+- 5: Includes the following preferred terms: thrombocytopenia; platelet count decreased.
+- 6: Hypersensitivity events reported up to the end of the day after treatment was administered. Includes events coded to the following preferred terms: rash, infusion related reaction, hypersensitivity, periorbital oedema, catheter site dermatitis, contrast media reaction, dermatitis allergic, dermatitis contact, eczema, rash erythematous, urticaria, anaphylactic reaction, bronchospasm, conjunctivitis allergic, dermatitis, dermatitis acneiform, dermatitis exfoliative generalised, drug hypersensitivity, infusion related hypersensitivity reaction, rash macular, rash maculo-papular, rash papular, rash pustular, rhinitis allergic, swelling face, swelling of eyelid, swollen tongue, Type IV hypersensitivity reaction, cough with pruritus, cough with rash, dyspnoea with pruritus, dyspnoea with rash, dyspnoea with wheezing and rash, hypotension with dyspnoea
+- 7: Includes the following preferred terms: dyspnoea; dyspnoea exertional
+- 8: Includes the preferred term of neutropenic colitis and events reported as typhlitis
+- 9: Includes the following preferred terms: fatigue, asthenia
 
 ## Description of selected adverse reactions
 
 ## Neutropenia
 
-The median time to onset of neutropenia (including febrile neutropenia) following the start of the first treatment cycle was 16 days. The median duration of neutropenia was 8 days.
+The median time to onset of neutropenia (including febrile neutropenia) following the start of the first treatment cycle was 20 days. The median duration of neutropenia was 10 days.
 
-Neutropenia occurred in 67.6% (465/688) of patients treated with sacituzumab govitecan, including Grade 3-4 neutropenia in 50.7% of patients. Neutropenia was the reason for dose reduction in 12.4% of patients. Neutropenic colitis was observed in 1% (7/688) of patients.
+Neutropenia occurred in 67.3% of patients treated with sacituzumab govitecan, including Grade 3-4 neutropenia in 48.6% of patients. Neutropenia was the reason for dose reduction in 14.2% of patients. Neutropenic colitis was observed in 1.3% of patients. Fatal infections secondary to neutropenia (including neutropenic colitis) occurred in 0.6% of patients.
 
-Febrile neutropenia occurred in 6.1% (42/688) of patients treated with sacituzumab govitecan. Febrile neutropenia was the reason for dose reduction in 2.9% of patients.
+Febrile neutropenia occurred in 5.6% of patients treated with sacituzumab govitecan. Febrile neutropenia was the reason for dose reduction in 2.7% of patients.
 
 ## Use in patients with reduced UGT1A1 activity
 
-The incidence of Grade 3-4 neutropenia was 60.6% (43/71) in patients homozygous for the UGT1A1*28 allele, 52.9% (144/272) in patients heterozygous for the UGT1A1*28 allele, and 49.1% (140/285) in patients homozygous for the wild-type allele. The incidence of Grade 3-4 febrile neutropenia was 14.1% (10/71) in patients homozygous for the UGT1A1*28 allele, 5.9% (16/272) in patients heterozygous for the UGT1A1*28 allele, and 4.6% (13/285) in patients homozygous for the wild-type allele. The incidence of Grade 3-4 anaemia was 15.5% (11/71) in patients homozygous for the UGT1A1*28 allele, 7.4% (20/272) in patients heterozygous for the UGT1A1*28 allele, and 8.1% (23/285) in patients homozygous for the wild-type allele.
+The incidence of Grade 3-4 neutropenia was 59.6% in patients homozygous for the UGT1A1*28 allele, 50.7% in patients heterozygous for the UGT1A1*28 allele, and 44.9% in patients homozygous for the wild-type allele. The incidence of Grade 3-4 febrile neutropenia was 10.6%  in patients homozygous for the UGT1A1*28 allele, 5.9% in patients heterozygous for the UGT1A1*28 allele, and 4.3% in patients homozygous for the wild-type allele. The incidence of Grade 3-4 anaemia was 10.6% in patients homozygous for the UGT1A1*28 allele, 6.4% in patients heterozygous for the UGT1A1*28 allele, and 6.3% in patients homozygous for the wild-type allele. For patients heterozygous for the UGT1A1*6 allele, the incidences of Grade 3-4 neutropenia, febrile neutropenia, and anaemia were 53.8%, 7.7%, and 7.7%, respectively.
 
 Compared to patients homozygous for the wild-type allele, earlier median onset of neutropenia and anaemia was observed in patients homozygous for the UGT1A1*28 allele and in patients heterozygous for the UGT1A1*28 allele.
 
 ## Diarrhoea
 
-The median time to onset of diarrhoea following the start of the first treatment cycle was 13 days. The median duration of diarrhoea was 8 days.
+The median time to onset of diarrhoea following the start of the first treatment cycle was 13 days. The median duration of diarrhoea was 7 days.
 
-Diarrhoea occurred in 62.5% (430/688) of patients treated with sacituzumab govitecan. Grade 3 events occurred in 10.3% (71/688) of patients. Three of 688 patients (&lt; 1%) discontinued treatment because of diarrhoea.
+Diarrhoea occurred in 59.9% of patients treated with sacituzumab govitecan. Grade 3 events occurred in 10.0% of patients. Four of 963 patients (&lt; 1%) discontinued treatment because of diarrhoea.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hypersensitivity
 
-Hypersensitivity reactions reported up to the end of the day following dosing occurred in 33.0% (227/688) of patients treated with sacituzumab govitecan. Grade 3 and above hypersensitivity occurred in 1.7% (12/688) of patients treated with sacituzumab govitecan. The incidence of hypersensitivity reactions leading to permanent discontinuation of sacituzumab govitecan was 0.1% (1/688).
+Hypersensitivity reactions reported up to the end of the day following dosing occurred in 12.8% of patients treated with sacituzumab govitecan. Grade 3 and above hypersensitivity occurred in 0.5% of patients treated with sacituzumab govitecan. The incidence of hypersensitivity reactions leading to permanent discontinuation of sacituzumab govitecan was 0.2%.
 
 ## Immunogenicity
 
-Across clinical studies in patients treated with sacituzumab govitecan, 9 (1.1%) of 785 patients developed antibodies to sacituzumab govitecan; 6 of these patients (0.8% of all patients treated with sacituzumab govitecan) had neutralizing antibodies against sacituzumab govitecan.
+Across clinical studies in patients treated with sacituzumab govitecan, 13 (1.2%) of 1058 patients developed antibodies to sacituzumab govitecan following administration; 10 of these patients (0.9% of all patients treated with sacituzumab govitecan) had neutralizing antibodies against sacituzumab govitecan.
 
 ## Special Populations
 
-There was no difference in discontinuation rate due to adverse events in patients aged 65 years or older compared with younger patients with mTNBC. There was a higher discontinuation rate due to adverse reactions in patients aged 65 years or older (14%) compared with younger patients (3%) with HR+/HER2- metastatic breast cancer. There was a higher incidence rate of serious adverse events in patients aged 75 years or older (67%) compared to patients aged 65 years or older (43%) and patients younger than 65 years (24%) with HR+/HER2- metastatic breast cancer.
+There was a higher discontinuation rate due to adverse reactions in patients aged 65 years or older (8%) compared with younger patients (4%) with metastatic breast cancer. Higher incidence rates of febrile neutropenia and severe diarrhoea were observed in patients aged 65 years or older. A higher incidence rate of fatal infections was observed in patients aged 65 years or older. There was a higher incidence rate of serious adverse events in patients aged 75 years or older (52%) compared to patients aged 65 years or older (35%) and patients younger than 65 years (25%) with metastatic breast cancer.
 
 ## Reporting of suspected adverse reactions
-
-<div style=\"page-break-after: always\"></div>
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
@@ -366,35 +372,93 @@ In case of overdose, patients should be closely monitored for signs or symptoms 
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antineoplastic agents, monoclonal antibodies and antibody drug conjugates, other monoclonal antibodies, ATC code: L01FX17.
+Pharmacotherapeutic group: antineoplastic agents, monoclonal antibodies and antibody drug conjugates, other monoclonal antibodies, and antibody drug conjugates, ATC code: L01FX17.
 
 ## Mechanism of action
 
-Sacituzumab govitecan binds to Trop-2-expressing cancer cells and is internalised with the subsequent release of SN-38 from a hydrolysable linker. SN-38 interacts with topoisomerase I and prevents re-ligation of topoisomerase I-induced single strand breaks. The resulting DNA damage leads to apoptosis and cell death.
+Sacituzumab govitecan binds to Trop-2-expressing tumour cells and is internalised with the subsequent release of SN-38 from a hydrolysable linker. SN-38 interacts with topoisomerase I and prevents re-ligation of topoisomerase I-induced single strand breaks. The resulting DNA damage leads to apoptosis and cell death.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy and safety
+
+## Triple Negative Breast Cancer (TNBC)
+
+Previously Untreated, Unresectable Locally Advanced or Metastatic TNBC in patients who are not candidates for PD-1/PD-L1 inhibitor therapy (ASCENT-03)
+
+The efficacy of sacituzumab govitecan was evaluated in a multicentre, open-label, randomised study (ASCENT-03) conducted in 558 patients with unresectable locally advanced or metastatic triplenegative breast cancer (mTNBC) who had not received previous systemic therapy for advanced disease and who were not candidates for PD-1 or PD-L1 inhibitor therapy. The study enrolled patients with tumours that are PD-L1 negative (defined as having a tumour CPS &lt; 10 using the IHC 22C3 assay), and patients with tumours that are PD-L1 positive (defined as having a CPS ≥ 10 using the IHC 22C3 assay) if they received a PD-1 or PD-L1 inhibitor in the (neo)adjuvant setting or if they had a comorbidity precluding treatment with PD-1 or PD-L1 inhibitor therapy.
+
+Patients may have received chemotherapy with or without a PD-1 or PD-L1 inhibitor and/or radiotherapy in the early-stage of TNBC, however at least 6 months must have elapsed between the completion of systemic (neo) adjuvant breast cancer therapy or surgery, whichever occurred last, and first local or distant recurrence. No prior treatment with topoisomerase 1 inhibitors or antibody drug conjugates containing a topoisomerase inhibitor was allowed.
+
+Patients were randomised (1:1) to receive sacituzumab govitecan 10 mg/kg as an intravenous infusion on Days 1 and 8 of a 21-day cycle (n=279) or Treatment of Physician's Choice (TPC) (n=279). TPC was determined by the investigator before randomisation from one of the following regimens: gemcitabine and carboplatin, paclitaxel or nab-paclitaxel. Randomisation was stratified by de novo vs recurrent disease within 6 to 12 months from completion of treatment in the curative setting versus recurrent disease &gt; 12 months from completion of treatment in the curative setting, and by geographic region (United States, Canada, Western Europe vs. Rest of World).
+
+Patients were treated until BICR-verified disease progression, unacceptable toxicity, death, or consent withdrawal. Tumour imaging was obtained every 6 weeks for the first year followed by every 12 weeks thereafter. Following BICR-verified objective disease progression and study treatment discontinuation, patients who were randomised to TPC chemotherapy were able to receive SG supplied on trial in the crossover phase of this study if eligible.
+
+The primary efficacy outcome was progression-free survival (PFS) by BICR per RECIST v1.1. Additional efficacy outcomes measures included overall survival (OS) and objective response rate (ORR) by BICR.
+
+The median age of the study population was 55 years (range: 23-86 years), and 26% of patients were 65 years or over; 99.5% of patients were female. The majority of patients were White (64%); 23% were Asian, 3% were Black, and 4% were other race. Thirty-one percent (31%) of patients had de novo disease, 21% of patients had recurrent disease with a disease-free interval (DFI) 6 to 12 months and 48% of patients with DFI &gt; 12 months. Ninety-nine point five percent (99.5%) of patients enrolled had tumours that were PD-L1 negative and 0.5% of patients had tumours that were PD-L1 positive. At study entry, all patients had an ECOG performance status of 0 (66%) or 1 (34%). The majority of patients (97.8%) had metastatic disease at screening; brain metastases were observed in 5% of patients. BRCA 1/2 mutation status was known for 76% of participants, out of which 18% of tested study participants had positive BRCA mutations.
+
+Sacituzumab govitecan demonstrated a statistically significant improvement in PFS versus TPC by BICR. At the time of the first interim OS analysis, patients had a median follow-up of 17.7 months. Efficacy results are summarized in Table 4, Figure 1 and Figure 2.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 4. Efficacy endpoints (ASCENT-03)
+
+|                                     | TRODELVY N=279                      | TPC N=279                           |
+|-------------------------------------|-------------------------------------|-------------------------------------|
+| Progression-Free Survival by BICR 1 | Progression-Free Survival by BICR 1 | Progression-Free Survival by BICR 1 |
+| Number (%) of patients with events  | 161 (58%)                           | 188 (67%)                           |
+| Median PFS in months (95% CI)       | 9.7 (8.1, 11.1)                     | 6.9 (5.6, 8.2)                      |
+| Hazard ratio (95% CI) 2             | 0.62 (0.50, 0.77)                   | 0.62 (0.50, 0.77)                   |
+| p-value 3                           | < 0.0001                            | < 0.0001                            |
+| Objective Response Rate by BICR 1   | Objective Response Rate by BICR 1   | Objective Response Rate by BICR 1   |
+| ORR, (95% CI) 4                     | 48% (42%, 54%)                      | 46% (40%, 52%)                      |
+| Overall Survival 5                  | Overall Survival 5                  | Overall Survival 5                  |
+| Number (%) of patients with events  | 139 (50%)                           | 144 (52%)                           |
+| Median OS in months (95% CI)        | 21.5 (18.9, 26.5)                   | 21.3 (18.7, 25.2)                   |
+| Hazard ratio (95% CI) 2             | 0.95 (0.75, 1.20)                   | 0.95 (0.75, 1.20)                   |
+
+1. Based on PFS primary analysis (data cut-off 2 April 2025) with median follow-up time 13.2 months.
+2. Hazard ratio with 95% CIs based on the stratified Cox proportional hazards model adjusted for randomisation stratification factors: disease stratification (de novo vs recurrent disease within 6 to 12 months vs recurrent disease occurring &gt; 12 months from completion of treatment in the curative setting) and geographic region (US/Canada/Western Europe vs rest of the world).
+3. 2-sided p-value based on log-rank test adjusted for randomisation stratification factors: disease stratification (de novo vs recurrent disease within 6 to 12 months vs recurrent disease occurring &gt; 12 months from completion of treatment in the curative setting) and geographic region (US/Canada/Western Europe vs rest of the world)
+4. The 95% CI is based on the Clopper-Pearson exact method.
+5. Based on first interim OS analysis (data cut-off 27 October 2025) with median follow-up time 17.7 months
+
+BICR = Blinded Independent Central Review; CI = Confidence Interval
+
+TPC = gemcitabine and carboplatin, paclitaxel, or nab-paclitaxel
+
+Figure 1: Progression free survival by BICR in ASCENT-03 (data cut-off date 2 April 2025)
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 2: Overall survival in ASCENT-03 (data cut-off date 27 Oct 2025)
+
+<!-- image -->
 
 ## Unresectable or metastatic Triple Negative Breast Cancer (ASCENT)
 
 The efficacy and safety of sacituzumab govitecan was assessed in ASCENT (IMMU-132-05), an international Phase 3, multicentre, open-label, randomised study conducted in 529 patients with unresectable locally advanced or metastatic triple-negative breast cancer (mTNBC) who had relapsed after at least two prior chemotherapies (no upper limit) for breast cancer. Earlier adjuvant or neoadjuvant therapy for more limited disease qualified as one of the required prior regimens if the development of unresectable, locally advanced or metastatic disease occurred within a 12-month period of time after completion of chemotherapy. All patients received previous taxane treatment in either the adjuvant, neoadjuvant, or advanced stage unless they had a contraindication or were intolerant to taxanes. Poly-ADP ribose polymerase (PARP) inhibitors were allowed as one of the two prior chemotherapies for patients with a documented germline BRCA1/BRCA2 mutation.
 
-Patients were randomised (1:1) to receive sacituzumab govitecan 10 mg/kg as an intravenous infusion on Day 1 and Day 8 of a 21-day treatment cycle or Treatment of Physician's Choice (TPC) which was dosed based on body surface area and per the approved product information. TPC was determined by the investigator before randomisation from one of the following single-agent regimens: eribulin (n = 139), capecitabine (n = 33), gemcitabine (n = 38), or vinorelbine (except if patient had ≥ Grade 2 neuropathy, n = 52). Patients with stable brain metastases (pre-treated, non-progressive, without antiseizure medicinal products and on stable corticosteroid dose for at least 2 weeks) were eligible. Magnetic resonance imaging (MRI) to determine brain metastases was required only for patients with known or suspected brain metastases. Patients with known Gilbert's disease, bone-only disease, known history of unstable angina, myocardial infarction, or congestive heart failure, active chronic inflammatory bowel disease or gastrointestinal (GI) perforation, human immunodeficiency virus (HIV), active hepatitis B or C infection, live vaccine within 30 days, or who have previously received irinotecan were excluded.
+Patients were randomised (1:1) to receive sacituzumab govitecan 10 mg/kg as an intravenous infusion on Day 1 and Day 8 of a 21-day treatment cycle or TPC which was dosed based on body surface area and per the approved product information. TPC was determined by the investigator before randomisation from one of the following single-agent regimens: eribulin (n = 139), capecitabine (n = 33), gemcitabine (n = 38), or vinorelbine (except if patient had ≥ Grade 2 neuropathy, n = 52). Patients with stable brain metastases (pre-treated, non-progressive, without anti-seizure medicinal products and on stable corticosteroid dose for at least 2 weeks) were eligible. Magnetic resonance imaging (MRI) to determine brain metastases was required only for patients with known or suspected brain metastases. Patients with known Gilbert's disease , bone-only disease, known history of unstable angina, myocardial infarction, or congestive heart failure, active chronic inflammatory bowel disease or gastrointestinal (GI) perforation, human immunodeficiency virus (HIV), active hepatitis B or C infection, live vaccine within 30 days, or who have previously received irinotecan were excluded.
+
+Patients were treated until disease progression or unacceptable toxicity. The primary efficacy endpoint was PFS in patients without brain metastases at baseline (i.e. BMNeg) as measured by a BICR group of radiology experts using RECIST v1.1 criteria. Secondary efficacy endpoints included PFS by BICR for the overall population, including all patients with and without brain metastases, overall survival (OS), objective response rate (ORR) and duration of response (DOR).
 
 <div style=\"page-break-after: always\"></div>
-
-Patients were treated until disease progression or unacceptable toxicity. The primary efficacy endpoint was progression-free survival (PFS) in patients without brain metastases at baseline (i.e. BMNeg) as measured by a blinded, independent, centralised review (BICR) group of radiology experts using Response Evaluation Criteria in Solid Tumours (RECIST) v1.1 criteria. Secondary efficacy endpoints included PFS by BICR for the overall population, including all patients with and without brain metastases, overall survival (OS), objective response rate (ORR) and duration of response (DOR).
 
 The primary analysis included 235 BMNeg patients in the sacituzumab govitecan group and 233 BMNeg patients in the TPC group. The analysis of the overall population included 267 patients in the sacituzumab govitecan group and 262 patients in the TPC group.
 
-The demographics and baseline characteristics of the overall population (n = 529) were: median age of 54 years (range: 27-82 years) and 81% &lt; 65 years; 99.6% female; 79% White; 12% Black; median number of prior systemic therapies was 4; 69% had previously received 2 to 3 prior chemotherapies; 31% had previously received &gt; 3 prior chemotherapies; 42% had hepatic metastases; 12% had present or a history of brain metastases. 8% were BRCA1/BRCA2 mutational status positive; BRCA status was available for 339 patients. At study entry, all patients had an ECOG performance status of 0 (43%) or 1 (57%). The median time from diagnosis of Stage 4 to study entry was 16.2 months (range: -0.4 to 202.9 months). The most frequent prior chemotherapies were cyclophosphamide (83%), anthracycline (83%) including doxorubicin (53%), paclitaxel (78%), carboplatin (65%), capecitabine (67%), gemcitabine (36%), docetaxel (35%), and eribulin (33%). Overall, 29% of patients had received prior PD-1/PD-L1 therapy. Thirteen percent of patients in the sacituzumab govitecan group in the overall population received only 1 prior line of systemic therapy in the metastatic setting.
+The demographics and baseline characteristics of the overall population (n = 529) were: median age of 54 years (range: 27 -82 years) and 81% &lt; 65 years; 99.6% female; 79% White; 12% Black; median number of prior systemic therapies was 4; 69% had previously received 2 to 3 prior chemotherapies; 31% had previously received &gt; 3 prior chemotherapies; 42% had hepatic metastases; 12% had present or a history of brain metastases. 8% were BRCA1/BRCA2 mutational status positive; BRCA status was available for 339 patients. At study entry, all patients had an ECOG performance status of 0 (43%) or 1 (57%). The median time from diagnosis of Stage 4 to study entry was 16.2 months (range: -0.4 to 202.9 months). The most frequent prior chemotherapies were cyclophosphamide (83%), anthracycline (83%) including doxorubicin (53%), paclitaxel (78%), carboplatin (65%), capecitabine (67%), gemcitabine (36%), docetaxel (35%), and eribulin (33%). Overall, 29% of patients had received prior PD-1 or PD-L1 therapy. Thirteen percent of patients in the sacituzumab govitecan group in the overall population received only 1 prior line of systemic therapy in the metastatic setting.
 
-The efficacy results in the BMNeg population showed a statistical significant improvement of sacituzumab govitecan over TPC in PFS and OS with hazard ratios (HR) of 0.41 (n=468; 95% CI: 0.32, 0.52; p-value: &lt;0.0001) and 0.48 (n=468; 95% CI: 0.38, 0.59; p-value: &lt;0.0001), respectively. The median PFS was 5.6 months vs 1.7 months; the median OS was 12.1 months vs 6.7 months, in patients treated with sacituzumab govitecan and TPC, respectively.
+The efficacy results in the BMNeg population showed a statistically significant improvement of sacituzumab govitecan over TPC in PFS and OS with hazard ratios (HR) of 0.41 (n=468; 95% CI: 0.32, 0.52; p-value: &lt;0.0001) and 0.48 (n=468; 95% CI: 0.38, 0.59; p-value: &lt;0.0001), respectively. The median PFS was 5.6 months vs 1.7 months; the median OS was 12.1 months vs 6.7 months, in patients treated with sacituzumab govitecan and TPC, respectively.
 
-The efficacy results in the overall population were consistent with the BMNeg population in the prespecified final analysis (11 March 2020 cut-off date) and are summarised in Table 4.
+The efficacy results in the overall population were consistent with the BMNeg population in the prespecified final analysis (11 March 2020 cut-off date) and are summarised in Table 5.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 4: Efficacy endpoints (overall population) - Pre-specified Final Analysis
+Table 5: Efficacy endpoints (overall population) - Pre-specified Final Analysis (ASCENT)
 
 |                               | Pre-specified Final Analysis (11 March 2020 cut-off date)   | Pre-specified Final Analysis (11 March 2020 cut-off date)   |
 |-------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
@@ -426,23 +490,23 @@ Table 4: Efficacy endpoints (overall population) - Pre-specified Final Analysis
 
 CI = Confidence Interval
 
-In an updated efficacy analysis (final database lock 25 February 2021), results were consistent with the pre-specified final analysis. The median PFS by BICR was 4.8 months vs 1.7 months, in patients treated with sacituzumab govitecan and TPC, respectively (HR of 0.41; 95% CI: 0.33, 0.52). The median OS was 11.8 months vs 6.9 months, respectively (HR of 0.51; 95% CI: 0.42, 0.63). KaplanMeier curves for updated PFS by BICR and OS are presented in Figures 1 and 2.
+In an updated efficacy analysis (final database lock 25 February 2021), results were consistent with the pre-specified final analysis. The median PFS by BICR was 4.8 months vs 1.7 months, in patients treated with sacituzumab govitecan and TPC, respectively (HR of 0.41; 95% CI: 0.33, 0.52). The median OS was 11.8 months vs 6.9 months, respectively (HR of 0.51; 95% CI: 0.42, 0.63). KaplanMeier curves for updated PFS by BICR and OS are presented in Figures 3 and 4.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1: Progression free survival (overall population; final database lock 25 February 2021) by BICR
+Figure 3: Progression free survival (overall population; final database lock 25 February 2021) by BICR in ASCENT
 
 <!-- image -->
 
-Figure 2: Overall survival (overall population; final database lock 25 February 2021)
+Figure 4: Overall survival (overall population; final database lock 25 February 2021) in ASCENT
 
 <!-- image -->
+
+<div style=\"page-break-after: always\"></div>
 
 ## Sub-group analysis
 
 In subgroup analyses, improvements in PFS and OS in patients treated with sacituzumab govitecan compared to TPC were consistent across patient subgroups irrespective of age, race, BRCA status, prior number of systemic therapies overall (2 and &gt;2, 2-3 and &gt;3) and in the metastatic setting (1 and &gt;1), prior therapy with anthracycline or PDL1, and liver metastases.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Brain metastases
 
@@ -452,7 +516,9 @@ An exploratory analysis of PFS and OS in patients with previously treated, stabl
 
 Additional subgroup analyses were conducted to evaluate the efficacy by tumour Trop-2 expression levels and the results were consistent across the different scoring methods used. In patients with low Trop-2 levels using membrane H-score by quartiles, benefit of sacituzumab govitecan over TPC was shown for both PFS (HR 0.64; 95% CI: 0.37, 1.11) and OS (HR of 0.71; 95% CI: 0.42, 1.21).
 
-## Unresectable or metastatic hormone receptor (HR)-positive/human epidermal growth factor receptor 2 (HER2)-negative breast cancer (TROPiCS-02)
+## HR-Positive, HER2-Negative Breast Cancer
+
+## Unresectable or metastatic HR-positive/ HER2-negative breast cancer (TROPiCS-02)
 
 The efficacy of sacituzumab govitecan was evaluated in a multicentre, open-label, randomised study TROPiCS-02 (IMMU-132-09) conducted in 543 patients with unresectable locally advanced or metastatic HR-positive, HER2-negative (IHC 0, IHC 1+, or IHC 2+/ISH-) breast cancer whose disease has progressed after the following in any setting: a CDK 4/6 inhibitor, endocrine therapy, and a taxane; patients received at least two prior chemotherapies in the metastatic setting (one of which could be in the neoadjuvant or adjuvant setting if progression or recurrence occurred within 12 months of completion of the chemotherapy). Patients with bone-only disease, active chronic inflammatory bowel disease and known history of bowel obstruction, known history of unstable angina or myocardial infarction or congestive heart failure or active hepatitis B or C infection were excluded from the study.
 
@@ -462,47 +528,47 @@ Patients were treated until disease progression or unacceptable toxicity. The pr
 
 The median age of the study population was 56 years (range: 27-86 years), and 26% of patients were 65 years or over. Almost all patients were female (99%). The majority of patients were White (67%); 4% were Black, 3% were Asian, and 26% were of unknown race. Patients received a median of 7 (range: 3 to 17) prior systemic regimens in any setting and 3 (range: 0 to 8) prior systemic chemotherapy regimens in the metastatic setting. Approximately 42% of patients had 2 prior chemotherapy regimens for metastatic disease compared to 58% of patients who had 3 to 4 prior chemotherapy regimens. Most patients received endocrine therapy in the metastatic setting for ≥ 6 months (86%). Patients had an ECOG performance status of 0 (44%) or 1 (56%). Ninety-five percent of patients had visceral metastases; 4.6% of patients had stable, pre-treated brain metastases.
 
-Sacituzumab govitecan demonstrated a statistically significant improvement in PFS by BICR and OS versus TPC. The improvement in PFS by BICR and OS was generally consistent across pre-specified subgroups. Efficacy results are summarized in Table 5.
+Sacituzumab govitecan demonstrated a statistically significant improvement in PFS by BICR and OS versus TPC. The improvement in PFS by BICR and OS was generally consistent across pre-specified subgroups. Efficacy results are summarized in Table 6.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 5. Efficacy endpoints - Pre-specified Final Analysis
+Table 6. Efficacy endpoints -Pre-specified Final Analysis (TROPiCS-02)
 
-|                                     | Sacituzumab govitecan n=272         | TPC n=271                           |
-|-------------------------------------|-------------------------------------|-------------------------------------|
-| Progression-Free Survival by BICR 1 | Progression-Free Survival by BICR 1 | Progression-Free Survival by BICR 1 |
-| Number of events (%)                | 170 (62.5%)                         | 159 (58.7%)                         |
-| Median PFS in months (95% CI)       | 5.5 (4.2, 7.0)                      | 4.0 (3.1, 4.4)                      |
-| Hazard ratio (95% CI)               | 0.661 (0.529, 0.826)                | 0.661 (0.529, 0.826)                |
-| p-value 2                           | 0.0003                              | 0.0003                              |
-| PFS rate at 12 months, %(95% CI)    | 21.3 (15.2, 28.1)                   | 7.1 (2.8, 13.9)                     |
-| Overall Survival 3                  | Overall Survival 3                  | Overall Survival 3                  |
-| Number of events (%)                | 191 (70.2%)                         | 199 (73.4%)                         |
-| Median OS in months (95% CI)        | 14.4 (13.0, 15.7)                   | 11.2 (10.1, 12.7)                   |
-| Hazard ratio (95% CI)               | 0.789 (0.646, 0.964)                | 0.789 (0.646, 0.964)                |
-| p-value 2                           | 0.0200                              | 0.0200                              |
-| Objective Response Rate by BICR 3   | Objective Response Rate by BICR 3   | Objective Response Rate by BICR 3   |
-| Number of responders (%)            | 57 (21.0%)                          | 38 (14.0%)                          |
-| Odds ratio (95% CI)                 | 1.625 (1.034, 2.555)                | 1.625 (1.034, 2.555)                |
-| p-value                             | 0.0348                              | 0.0348                              |
+|                                     | Sacituzumab govitecan n=272   | TPC n=271            |
+|-------------------------------------|-------------------------------|----------------------|
+| Progression-Free Survival by BICR 1 |                               |                      |
+| Number of events (%)                | 170 (62.5%)                   | 159 (58.7%)          |
+| Median PFS in months (95% CI)       | 5.5 (4.2, 7.0)                | 4.0 (3.1, 4.4)       |
+| Hazard ratio (95% CI)               | 0.661 (0.529, 0.826)          | 0.661 (0.529, 0.826) |
+| p-value 2                           | 0.0003                        | 0.0003               |
+| PFS rate at 12 months, % (95% CI)   | 21.3 (15.2, 28.1)             | 7.1 (2.8, 13.9)      |
+| Overall Survival 3                  |                               |                      |
+| Number of events (%)                | 191 (70.2%)                   | 199 (73.4%)          |
+| Median OS in months (95% CI)        | 14.4 (13.0, 15.7)             | 11.2 (10.1, 12.7)    |
+| Hazard ratio (95% CI)               | 0.789 (0.646, 0.964)          | 0.789 (0.646, 0.964) |
+| p-value 2                           | 0.0200                        | 0.0200               |
+| Objective Response Rate by BICR 3   |                               |                      |
+| Number of responders (%)            | 57 (21.0%)                    | 38 (14.0%)           |
+| Odds ratio (95% CI)                 | 1.625 (1.034, 2.555)          | 1.625 (1.034, 2.555) |
+| p-value                             | 0.0348                        | 0.0348               |
 
 1 PFS is defined as the time from the date of randomisation to the date of the first radiological disease progression or death due to any cause, whichever comes first (data cut-off 3 January 2022).
 
 2 Stratified log-rank test adjusted for stratification factors: prior chemotherapy regimens for metastatic disease (2 vs. 3-4), visceral metastasis (yes vs. no), and endocrine therapy in the metastatic setting for at least 6 months (yes vs. no).
 
-3 Based on second interim OS analysis (data cut-off 1 July 2022).
+3  Based on second interim OS analysis (data cut-off 1 July 2022).
 
 BICR = Blinded Independent Central Review; CI = Confidence Interval
 
-In an updated efficacy analysis with a median duration of follow-up of 12.8 months (data cut-off 1 December 2022), results were consistent with the pre-specified final analysis. The median PFS by BICR was 5.5 months vs 4.0 months, in patients treated with sacituzumab govitecan and TPC, respectively (HR of 0.65; 95% CI: 0.53, 0.81). The median OS was 14.5 months vs 11.2 months, respectively (HR of 0.79; 95% CI: 0.65, 0.95). Kaplan-Meier curves for updated PFS by BICR and OS are presented in Figures 3 and 4.
+In an updated efficacy analysis with a median duration of follow-up of 12.8 months (data cut-off 1 December 2022), results were consistent with the pre-specified final analysis. The median PFS by BICR was 5.5 months vs 4.0 months, in patients treated with sacituzumab govitecan and TPC, respectively (HR of 0.65; 95% CI: 0.53, 0.81). The median OS was 14.5 months vs 11.2 months, respectively (HR of 0.79; 95% CI: 0.65, 0.95). Kaplan-Meier curves for updated PFS by BICR and OS are presented in Figures 5 and 6.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 3: Progression free survival by BICR (data cut-off 1 December 2022)
+Figure 5: Progression free survival by BICR (data cut-off 1 December 2022) in TROPiCS-02
 
 <!-- image -->
 
-Figure 4: Overall Survival (data cut-off 1 December 2022)
+Figure 6: Overall Survival (data cut-off 1 December 2022) in TROPiCS-02
 
 <!-- image -->
 
@@ -512,30 +578,28 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## 5.2 Pharmacokinetic properties
 
-The serum pharmacokinetics of sacituzumab govitecan and SN-38 were evaluated in the ASCENT study in a population of mTNBC patients who received sacituzumab govitecan as a single agent at a
+The serum pharmacokinetics of sacituzumab govitecan and SN-38 were evaluated in patients with metastatic breast cancer (mBC) who received sacituzumab govitecan as a single agent at a dose of
 
 <div style=\"page-break-after: always\"></div>
 
-dose of 10 mg/kg body weight. The pharmacokinetic parameters of sacituzumab govitecan and free SN-38 are presented in Table 6.
+10 mg/kg of body weight. The pharmacokinetic parameters of sacituzumab govitecan and free SN-38 are presented in Table 7.
 
-Table 6: Summary of mean PK parameters (CV%) of sacituzumab govitecan and free SN-38
+Table 7: Summary of mean PK parameters (CV%) of sacituzumab govitecan and free SN-38
 
-|                     | Sacituzumab govitecan   | Free SN-38   |
-|---------------------|-------------------------|--------------|
-| C max [ng/mL]       | 242 000 (22%)           | 91 (65%)     |
-| AUC 0-168 [ng*h/mL] | 5 560 000 (24%)         | 2 730 (41%)  |
+|                     | Sacituzumab govitecan   | Free SN-38     |
+|---------------------|-------------------------|----------------|
+| C max [ng/mL]       | 257107 (17.9%)          | 108.4 (39.4%)  |
+| AUC 0-168 [ng*h/mL] | 12049500 (18.5%)        | 3510.2 (62.6%) |
 
-Cmax: maximum serum concentration
-
-AUC0-168: area under serum concentration curve through 168 hours
+AUC0-168: area under serum concentration curve through 168 hours after the first dose
 
 ## Distribution
 
-Based on population pharmacokinetic analyses, the steady state volume of distribution of sacituzumab govitecan was 3.58 L.
+Based on population pharmacokinetic analyses, the steady state volume of distribution of sacituzumab govitecan was 4.62 L.
 
 ## Elimination
 
-The median elimination half-life (t1/2) of sacituzumab govitecan and free SN-38 in patients with metastatic triple negative breast cancer was 23.4 and 17.6 hours, respectively. Based on population pharmacokinetic analyses, the clearance of sacituzumab govitecan is 0.128 L/h.
+The median elimination half-life (t1/2) of sacituzumab govitecan and free SN-38, based on population pharmacokinetic analysis was 155 and 21.5 hours, respectively. The estimated mean (%CV) clearance of sacituzumab govitecan is 0.132 L/h (19.8%).
 
 ## Metabolism
 
@@ -543,7 +607,7 @@ No metabolism studies with sacituzumab govitecan have been conducted. SN-38 (the
 
 ## Special populations
 
-Pharmacokinetic analyses in patients treated with sacituzumab govitecan (n = 789) did not identify an effect of age, race, and mild or moderate renal impairment on the pharmacokinetics of sacituzumab govitecan.
+Pharmacokinetic analyses in patients treated with sacituzumab govitecan did not identify an effect of age, race, and mild or moderate renal impairment on the pharmacokinetics of sacituzumab govitecan.
 
 ## Renal impairment
 
@@ -551,9 +615,9 @@ Renal elimination is known to contribute minimally to the excretion of SN-38, th
 
 ## Hepatic Impairment
 
-The exposure of sacituzumab govitecan is similar in patients with mild hepatic impairment (bilirubin ≤ ULN and AST &gt; ULN, or bilirubin &gt; 1.0 to ≤ 1.5 ULN and AST of any level; n = 257) to patients with normal hepatic function (bilirubin and AST ≤ ULN; n = 526).
+The exposure of sacituzumab govitecan is similar in patients with mild hepatic impairment (bilirubin ≤ ULN and AST &gt; ULN, or bilirubin &gt; 1.0 to ≤ 1.5 ULN and AST of any level;) to patients with normal hepatic function (bilirubin and AST ≤ ULN;).
 
-Sacituzumab govitecan and free SN-38 exposures are unknown in patients with moderate or severe hepatic impairment.
+There is limited data on sacituzumab govitecan and free SN-38 exposures in patients with moderate or severe hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
@@ -639,8 +703,6 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Gilead Sciences Ireland UC Carrigtohill County Cork, T45 DP77 Ireland
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/21/1592/001
@@ -648,6 +710,8 @@ EU/1/21/1592/001
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 22 November 2021
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -749,8 +813,6 @@ Cytotoxic
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -763,7 +825,13 @@ Keep the vial in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Gilead Sciences Ireland UC Carrigtohill County Cork, T45 DP77 Ireland
+Gilead Sciences Ireland UC
+
+Carrigtohill
+
+County Cork, T45 DP77
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -773,9 +841,10 @@ EU/1/21/1592/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
@@ -784,11 +853,13 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
 SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -828,9 +899,9 @@ Cytotoxic
 
 ## Package leaflet: Information for the patient
 
-## Trodelvy 200 mg powder for concentrate for solution for infusion
+## Trodelvy 200 mg powder for concentrate for solution for infusion sacituzumab govitecan
 
-## sacituzumab govitecan
+<!-- image -->
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side affects you may get. See the end of section 4 for how to report side effects.
 
@@ -853,7 +924,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 Trodelvy is a cancer medicine that contains the active substance sacituzumab govitecan. One part of the medicine is a monoclonal antibody that attaches specifically to a protein on the surface of breast cancer cells called Trop-2. The other active part of Trodelvy is SN-38, a substance that can kill cancer cells. Once the medicine has attached to cancer cells, the SN-38 enters the cancer cells and kills them, thereby helping to fight your cancer.
 
-Trodelvy is used to treat a type of breast cancer in adults called triple-negative breast cancer (TNBC) . Trodelvy should only be used after patients have tried at least two other treatments for their cancer, including at least one of them for a locally advanced cancer or metastasised cancer.
+Trodelvy is used to treat a type of breast cancer in adults called triple-negative breast cancer (TNBC) . Trodelvy should only be used when the cancer has spread or cannot be taken out by surgery.
 
 Trodelvy is used to treat a type of breast cancer in adults called hormone receptor -positive (HR+), human epidermal growth factor receptor 2 -negative (HER2-) breast cancer. Trodelvy should only be used after patients have tried a treatment including a hormonal anticancer treatment and at least two additional other treatments for a locally advanced cancer or metastasised cancer.
 
@@ -924,7 +995,7 @@ Some patients are more likely to have certain side effects from the medicine due
 
 - have liver problems
 - have kidney problems
-- are a female of child-bearing age (see 'Pregnancy', 'Male and female Contraception' and 'Breast-feeding')
+- are a female of childbearing age (see 'Pregnancy' , ' Male and female Contraception ' and ' Breastfeeding')
 - are taking medicines to treat other conditions (see 'Other medicines and Trodelvy')
 - have experienced any problems after receiving any infusions in the past.
 
@@ -1066,13 +1137,14 @@ Other side effects are listed below. If any of these become severe or serious, t
 - low level of white blood cells (lymphocytes or leukocytes)
 - loss of appetite
 - low blood level of potassium or magnesium
-- trouble sleeping
 - feeling dizzy
 - shortness of breath
 - constipation; stomach pain
 - hair loss; rash; general itching
 - back pain; joint pain
 - tiredness
+- inflamed and sore mouth
+- increase in enzyme called alkaline phosphatase
 
 ## Common
 
@@ -1092,13 +1164,14 @@ Other side effects are listed below. If any of these become severe or serious, t
 - low blood pressure
 - nose bleeding; a cough reflex triggered by the drip down of mucus in the back of your throat
 - inflammation of the large bowel (colitis)
-- inflamed and sore mouth; pain in upper stomach area; reflux; bloated stomach
+- pain in upper stomach area; reflux; bloated stomach
 - darkening of the skin; acne-like skin problem; dry skin
 - muscle pain in the chest; muscle spasms
 - blood in urine; excess protein in urine
 - chills
 - weight loss
-- increase in enzymes called alkaline phosphatase or lactate dehydrogenase, abnormal blood tests related to coagulation
+- increase in enzyme called lactate dehydrogenase; abnormal blood tests related to coagulation
+- trouble sleeping
 
 ## Uncommon
 
@@ -1142,13 +1215,11 @@ Gilead Sciences Ireland UC Carrigtohill County Cork, T45 DP77 Ireland
 
 ## Manufacturer
 
-Gilead Sciences Ireland UC IDA Business and Technology Park Carrigtohill County Cork, T45 DP77 Ireland
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Gilead Sciences Ireland UC IDA Business and Technology Park Carrigtohill County Cork, T45 DP77 Ireland For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
-België/Belgique/Belgien
+## België/Belgique/Belgien
 
 Gilead Sciences Belgium SRL-BV Tél/Tel: + 32 (0) 24 01 35 50
 
@@ -1156,15 +1227,17 @@ Gilead Sciences Belgium SRL-BV Tél/Tel: + 32 (0) 24 01 35 50
 
 Gilead Sciences Ireland UC Тел.: + 353 (0) 1 686 1888
 
-Česká republika Gilead Sciences s.r.o.
+## Česká republika
 
-Tel: + 420 910 871 986
+Gilead Sciences s.r.o. Tel: + 420 910 871 986
 
-Danmark
+## Danmark
 
-Gilead Sciences Sweden AB Tlf: + 46 (0) 8 5057 1849
+Gilead Sciences Sweden AB Tlf.: + 46 (0) 8 5057 1849
 
-Deutschland Gilead Sciences GmbH Tel: + 49 (0) 89 899890-0
+## Deutschland
+
+Gilead Sciences GmbH Tel: + 49 (0) 89 899890-0
 
 ## Eesti
 
@@ -1182,9 +1255,13 @@ Gilead Sciences, S.L. Tel: + 34 91 378 98 30
 
 Gilead Sciences Tél: + 33 (0) 1 46 09 41 00
 
-Hrvatska Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
+## Hrvatska
 
-Ireland Gilead Sciences Ireland UC Tel: + 353 (0) 214 825 999
+Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
+
+## Ireland
+
+Gilead Sciences Ireland UC Tel: + 353 (0) 214 825 999
 
 ## Ísland
 
@@ -1194,13 +1271,11 @@ Gilead Sciences Sweden AB Sími: + 46 (0) 8 5057 1849
 
 Gilead Sciences S.r.l. Tel: + 39 02 439201
 
-Κύπρος Gilead Sciences Ελλάς Μ.ΕΠΕ. Τηλ: + 30 210 8930 100
-
 ## Lietuva
 
 Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
 
-Luxembourg/Luxemburg
+## Luxembourg/Luxemburg
 
 Gilead Sciences Belgium SRL-BV Tél/Tel: + 32 (0) 24 01 35 50
 
@@ -1212,7 +1287,9 @@ Gilead Sciences Ireland UC Tel.: + 353 (0) 1 686 1888
 
 Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
 
-Nederland Gilead Sciences Netherlands B.V. Tel: + 31 (0) 20 718 36 98
+## Nederland
+
+Gilead Sciences Netherlands B.V. Tel: + 31 (0) 20 718 36 98
 
 ## Norge
 
@@ -1226,15 +1303,19 @@ Gilead Sciences GesmbH Tel: + 43 1 260 830
 
 Gilead Sciences Poland Sp. z o.o. Tel.: + 48 22 262 8702
 
-Portugal Gilead Sciences, Lda. Tel: + 351 21 7928790
+## Portugal
 
-România Gilead Sciences (GSR) S.R.L. Tel: + 40 31 631 18 00
+Gilead Sciences, Lda. Tel: + 351 21 7928790
 
-Slovenija
+## România
+
+Gilead Sciences (GSR) S.R.L. Tel: + 40 31 631 18 00
+
+## Slovenija
 
 Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
 
-Slovenská republika
+## Slovenská republika
 
 Gilead Sciences Slovakia s.r.o. Tel: + 421 232 121 210
 
@@ -1242,13 +1323,21 @@ Gilead Sciences Slovakia s.r.o. Tel: + 421 232 121 210
 
 Gilead Sciences Sweden AB Puh/Tel: + 46 (0) 8 5057 1849
 
-## Sverige
-
-Gilead Sciences Sweden AB Tel: + 46 (0) 8 5057 1849
-
 <div style=\"page-break-after: always\"></div>
 
-Latvija Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
+.
+
+## Κύπρος
+
+Gilead Sciences Ελλάς Μ . ΕΠΕ
+
+Τηλ: + 30 210 8930 100
+
+## Latvija
+
+Gilead Sciences Ireland UC
+
+Tel: + 353 (0) 1 686 1888
 
 ## This leaflet was last revised in
 
@@ -1279,14 +1368,13 @@ This medicinal product must not be mixed with other medicinal products except th
 - If necessary, adjust the volume in the infusion bag as needed with sodium chloride 9 mg/mL (0.9%) solution for injection, to obtain a concentration of 1.1 mg/mL to 3.4 mg/mL. Only sodium chloride 9 mg/mL (0.9%) solution for injection should be used since the stability of the reconstituted product has not been determined with other infusion-based solutions.
 - If not used immediately, the infusion bag containing diluted solution can be stored refrigerated 2°C to 8°C for up to 24 hours protected from light. Do not freeze. After refrigeration, administer the diluted solution at room temperature up to 25°C within 8 hours (including infusion time).
 
-## Administration
-
-- Administer Trodelvy as an intravenous infusion. Protect the infusion bag from light.
-
-United Kingdom (Northern Ireland) Gilead Sciences Ireland UC Tel: + 44 (0) 8000 113 700
+Sverige Gilead Sciences Sweden AB Tel: + 46 (0) 8 5057 1849
 
 <div style=\"page-break-after: always\"></div>
 
+## Administration
+
+- Administer Trodelvy as an intravenous infusion. Protect the infusion bag from light.
 - The infusion bag should be covered during administration to the subject until dosing is complete. It is not necessary to cover the infusion tubing or to use light-protective tubing during the infusion.
 - An infusion pump may be used.
 - Do not mix Trodelvy, or administer as an infusion, with other medicinal products.

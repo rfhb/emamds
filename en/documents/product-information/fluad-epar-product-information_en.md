@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-14 14:15:43
+document_datetime: 2026-07-17 08:31:50
 document_pages: 26
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/fluad-epar-product-information_en.pdf
 document_name: fluad-epar-product-information_en.pdf
 version: success
-processing_time: 5.1689152
-conversion_datetime: 2025-12-27 16:36:43.648685
+processing_time: 5.2298807
+conversion_datetime: 2026-07-19 12:34:17.643609
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.1.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,15 +30,15 @@ Fluad suspension for injection in pre-filled syringe Influenza vaccine (surface 
 
 Influenza virus surface antigens (haemagglutinin and neuraminidase), inactivated, of the following strains*:
 
-|                                                                              | Per 0.5 ml dose     |
-|------------------------------------------------------------------------------|---------------------|
-| A/Victoria/4897/2022 (H1N1)pdm09-like strain (A/Victoria/4897/2022, IVR-238) | 15 micrograms HA ** |
-| A/Croatia/10136RV/2023 (H3N2)-like strain (A/Croatia/10136RV/2023, X-425A)   | 15 micrograms HA ** |
-| B/Austria/1359417/2021-like strain (B/Austria/1359417/2021, BVR-26)          | 15 micrograms HA ** |
+|                                                                          | Per 0.5 ml dose     |
+|--------------------------------------------------------------------------|---------------------|
+| A/Missouri/11/2025 (H1N1)pdm09-like strain (A/Missouri/11/2025, IVR-279) | 15 micrograms HA ** |
+| A/Darwin/1454/2025 (H3N2)-like strain (A/Michigan/105/2025, IVR-285)     | 15 micrograms HA ** |
+| B/Tokyo/EIS13-175/2025-like strain (B/Tokyo/EIS13-175/2025, wild type)   | 15 micrograms HA ** |
 
 Adjuvant MF59C.1 containing per 0.5 ml dose: squalene (9.75 mg), polysorbate 80 (1.175 mg), sorbitan trioleate (1.175 mg), sodium citrate (0.66 mg) and citric acid (0.04 mg).
 
-This vaccine complies with the World Health Organisation (WHO) recommendation (Northern Hemisphere) and EU recommendation for the 2025/2026 Season.
+This vaccine complies with the World Health Organisation (WHO) recommendation (Northern Hemisphere) and EU recommendation for the 2026/2027 Season.
 
 Fluad may contain traces of eggs such as ovalbumin or chicken proteins, kanamycin and neomycin sulphate, formaldehyde, hydrocortisone, cetyltrimethylammonium bromide (CTAB) which are used during the manufacturing process (see section 4.3).
 
@@ -104,11 +104,9 @@ As with all injectable vaccines, Fluad must be administered with caution to indi
 
 ## Anxiety-related reactions
 
-Syncope (fainting) can occur following, or even before, any vaccination as a psychogenic response to the needle injection. This can be accompanied by several neurological signs such as transient visual
+Syncope (fainting) can occur following, or even before, any vaccination as a psychogenic response to the needle injection. This can be accompanied by several neurological signs such as transient visual disturbance, paraesthesia and tonic-clonic limb movements during recovery. It is important that procedures are in place to avoid injury from faints.
 
 <div style=\"page-break-after: always\"></div>
-
-disturbance, paraesthesia and tonic-clonic limb movements during recovery. It is important that procedures are in place to avoid injury from faints.
 
 ## Immunocompromised patients
 
@@ -174,7 +172,7 @@ Table 1: Adverse reactions reported following vaccination in adult subjects 50 y
 
 | MedDRA System Organ class                            | Very common (≥ 1/10)                    | Common ( ≥ 1/100 to <1/10)                                                                | Frequency not known 4                                                                                                                |
 |------------------------------------------------------|-----------------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders                 |                                         |                                                                                           | Thrombocytopenia (some very rare cases were severe with platelet counts less than 5,000 permm 3 )                                    |
+| Blood and lymphatic system disorders                 |                                         |                                                                                           | Thrombocytopenia (some very rare cases were severe with platelet counts less than 5,000 per mm 3 )                                   |
 | Immune system disorders                              |                                         |                                                                                           | Allergic reactions including anaphylactic shock (in rare cases), anaphylaxis                                                         |
 | Metabolism and nutrition disorders                   |                                         | Loss of appetite                                                                          |                                                                                                                                      |
 | Nervous system disorders                             | Headache                                |                                                                                           | Encephalomyelitis, Guillain-Barré syndrome, convulsions, neuritis, neuralgia, paraesthesia, syncope, presyncope                      |
@@ -230,9 +228,9 @@ In addition, in a subset of subjects (n=1 649 subjects), Fluad was compared to t
 
 Table 2: Postvaccination GMTs and Vaccine Group Ratios - HI assay
 
-| Study                 | Antigen   | Fluad   | Fluad         | Non-adjuvanted Vaccine   | Non-adjuvanted Vaccine   |                              |
+| Study                 | Antigen   | Fluad   | Fluad         | Non-adjuvanted Vaccine   | Non-adjuvanted Vaccine   | Non-adjuvanted Vaccine       |
 |-----------------------|-----------|---------|---------------|--------------------------|--------------------------|------------------------------|
-|                       |           | N       | GMT(95% CI)   | N                        | GMT(95% CI)              | Vaccine Group Ratio (95% CI) |
+|                       |           | N       | GMT (95% CI)  | N                        | GMT (95% CI)             | Vaccine Group Ratio (95% CI) |
 | All subjects a        | H3N2      | 3225    | 272 (257-288) | 3256                     | 169 (159-179)            | 1.61 (1.52-1.7) §            |
 |                       | H1N1      | 3225    | 99 (93-106)   | 3257                     | 70 (66-75)               | 1.4 (1.32-1.49) §            |
 |                       | B         | 3227    | 28 (26-29)    | 3259                     | 24 (23-26)               | 1.15 (1.08-1.21) §           |
@@ -244,11 +242,9 @@ Immunogenicity of adjuvanted quadrivalent influenza vaccine in the adult populat
 
 Data for adjuvanted quadrivalent influenza vaccine are relevant to Fluad because both vaccines are manufactured using the same process and have overlapping compositions.
 
-Immunogenicity of adjuvanted quadrivalent influenza vaccine in adults 50 to less than 65 years of age was evaluated in Study V118\\_23. This was a randomised, observer-blind, controlled, multi-centre clinical study conducted in the US, Germany and Estonia, during the 2021-22 Northern Hemisphere season. In this study, adults 50 to less than 65 years of age who were healthy or had comorbidities that increased their risk of hospitalisation for influenza-associated complications, were enrolled to receive one dose of either adjuvanted quadrivalent influenza vaccine (N=1027) or a non-adjuvanted
+Immunogenicity of adjuvanted quadrivalent influenza vaccine in adults 50 to less than 65 years of age was evaluated in Study V118\\_23. This was a randomised, observer-blind, controlled, multi-centre clinical study conducted in the US, Germany and Estonia, during the 2021-22 Northern Hemisphere season. In this study, adults 50 to less than 65 years of age who were healthy or had comorbidities that increased their risk of hospitalisation for influenza-associated complications, were enrolled to receive one dose of either adjuvanted quadrivalent influenza vaccine (N=1027) or a non-adjuvanted quadrivalent comparator influenza vaccine (N=1017). The mean age of subjects enrolled in the adjuvanted quadrivalent influenza vaccine group was 57.8 years and females represented 62% of subjects.
 
 <div style=\"page-break-after: always\"></div>
-
-quadrivalent comparator influenza vaccine (N=1017). The mean age of subjects enrolled in the adjuvanted quadrivalent influenza vaccine group was 57.8 years and females represented 62% of subjects.
 
 The immunogenicity endpoints assessed 3 weeks after vaccination were HI GMT and HI seroconversion rate (pre-vaccination HI titre &lt;1:10 and postvaccination HI titre ≥ 1:40 or at least a 4-fold increase in HI from prevaccination HI titre ≥ 1:10).  As was seen in studies in older adults with aTIV (see above study V70\\_27), adjuvanted quadrivalent influenza vaccine elicited higher immune responses compared to a non-adjuvanted quadrivalent comparator influenza vaccine although superiority of adjuvanted quadrivalent influenza vaccine versus non-adjuvanted vaccine was not achieved for all four homologous strains. The HI GMT ratios (comparator/ adjuvanted quadrivalent influenza vaccine ) ranged from 0.80 to 0.99 with the highest limit of the 95% CI of 1.07 and differences in HI seroconversion rates (comparator - adjuvanted quadrivalent influenza vaccine) ranged from 4.5% to -1.8% with the highest limit of the 95% CI of 2.5%.
 
@@ -268,11 +264,9 @@ At 12 months post-vaccination, persistence of the immune response was higher in 
 
 ## Efficacy in the paediatric population
 
-Vaccine efficacy was assessed for the prevention of first-occurrence laboratory confirmed influenza associated with symptomatic influenza-like illness (ILI). Influenza-like illness was defined as fever of 37.8°C or above along with any of the following: cough, sore throat, nasal congestion, or runny nose occurring at ≥ 21 days and ≤ 180 days after the last vaccination or until the end of the influenza season, whichever was longer. Subjects with ILI had nasopharyngeal swabs collected and tested for influenza A (A/H1N1 and A/H3N2) and B (both lineages) by Reverse Transcription-Polymerase Chain Reaction (RT-PCR). A total of 508 cases of first-occurrence RT-PCR confirmed influenza occurred during the study; 10 during season one and 498 during season two. The maj ority of influenza cases were A/H3N2. Based on antigenic typing, more than ninety percent of A/H3N2 strains from
+Vaccine efficacy was assessed for the prevention of first-occurrence laboratory confirmed influenza associated with symptomatic influenza-like illness (ILI). Influenza-like illness was defined as fever of 37.8°C or above along with any of the following: cough, sore throat, nasal congestion, or runny nose occurring at ≥ 21 days and ≤ 180 days after the last vaccination or until the end of the influenza season, whichever was longer. Subjects with ILI had nasopharyngeal swabs collected and tested for influenza A (A/H1N1 and A/H3N2) and B (both lineages) by Reverse Transcription-Polymerase Chain Reaction (RT-PCR). A total of 508 cases of first-occurrence RT-PCR confirmed influenza occurred during the study; 10 during season one and 498 during season two. The maj ority of influenza cases were A/H3N2. Based on antigenic typing, more than ninety percent of A/H3N2 strains from season two were determined to be antigenically distinct from egg-propagated A/Texas/50/2012, the H3N2 vaccine strain.
 
 <div style=\"page-break-after: always\"></div>
-
-season two were determined to be antigenically distinct from egg-propagated A/Texas/50/2012, the H3N2 vaccine strain.
 
 Vaccine efficacy compared to the non-adjuvanted influenza comparator vaccine was assessed. The relative vaccine (rVE) efficacy between adjuvanted quadrivalent influenza vaccine and the comparator vaccine group in subjects ≥6 to &lt;72 months of age was -0.67 [95% CI: -19.81; 15.41]), which did not meet the primary objective of the study.
 
@@ -308,11 +302,9 @@ Store in a refrigerator (2 °C - 8 °C). Do not freeze. Discard if the vaccine h
 
 0.5 ml of suspension for injection in pre-filled syringe (type I glass) with a plunger stopper (bromobutyl rubber), presented with or without needle. Each pre-filled syringe contains one dose of 0.5 ml.
 
-Pack of 1 pre-filled syringe with needle Pack of 1 pre-filled syringe without needle Pack of 10 pre-filled syringes with needle Pack of 10 pre-filled syringes without needle
+Pack of 1 pre-filled syringe with needle Pack of 1 pre-filled syringe without needle Pack of 10 pre-filled syringes with needle Pack of 10 pre-filled syringes without needle Not all pack sizes may be marketed.
 
 <div style=\"page-break-after: always\"></div>
-
-Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -332,9 +324,7 @@ Seqirus Netherlands B.V. Paasheuvelweg 28 1105 BJ Amsterdam The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/24/1878/001 EU/1/24/1878/002 EU/1/24/1878/003
-
-EU/1/24/1878/004
+EU/1/24/1878/001 EU/1/24/1878/002 EU/1/24/1878/003 EU/1/24/1878/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -417,19 +407,19 @@ Fluad, suspension for injection in pre-filled syringe Influenza vaccine (surface
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-## 2025/2026 SEASON
+## 2026/2027 SEASON
 
 Influenza virus surface antigens (haemagglutinin and neuraminidase), inactivated, of the following strains per 0.5 ml dose:
 
-A/Victoria/4897/2022 (H1N1)pdm09-like strain
+A/Missouri/11/2025 (H1N1)pdm09-like strain
 
 15 micrograms HA*
 
-A/Croatia/10136RV/2023 (H3N2)-like strain
+A/Darwin/1454/2025 (H3N2)-like strain
 
 15 micrograms HA*
 
-B/Austria/1359417/2021-like strain
+B/Tokyo/EIS13-175/2025-like strain
 
 15 micrograms HA*
 
@@ -451,7 +441,7 @@ Excipients: sodium chloride, potassium chloride, potassium dihydrogen phosphate,
 
 10 pre-filled syringes (0.5 ml) with needle
 
-10 pre-filled syringes (0.5 ml) without needle
+- 10 pre-filled syringes (0.5 ml) without needle
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
@@ -503,8 +493,8 @@ Lot:
 
 <div style=\"page-break-after: always\"></div>
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 Gently shake before use
 
@@ -518,8 +508,8 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -527,13 +517,11 @@ PC SN NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-PRE-FILLED SYRINGE LABEL- pre-filled syringe (0.5 ml) with needle
-
-- pre-filled syringe (0.5 ml) without needle
+PRE-FILLED SYRINGE LABEL- pre-filled syringe (0.5 ml) with needle - pre-filled syringe (0.5 ml) without needle
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
-Fluad injection Influenza vaccine 2025/2026 Season
+Fluad injection Influenza vaccine 2026/2027 Season
 
 IM
 
@@ -590,7 +578,7 @@ When a person is given the vaccine, the immune system (the body's natural defenc
 
 Fluad is used to prevent flu in adults 50 years of age and older.
 
-The vaccine targets strains of influenza virus following the recommendations by the World Health Organisation for the 2025/2026 Season.
+The vaccine targets strains of influenza virus following the recommendations by the World Health Organisation for the 2026/2027 Season.
 
 ## 2. What you need to know before you receive Fluad
 
@@ -679,9 +667,7 @@ Common (may affect up to 1 in 10 people):
 - Bruising at injection site (ecchymosis)
 - Flu-like symptoms 2
 - Fever (≥ 38°C) 3
-
-2 reported in elderly subjects 65 years of age and older
-
+- 2 reported in elderly subjects 65 years of age and older
 - 3 reported as Uncommon in elderly subjects 65 years of age and older
 
 Uncommon (may affect up to 1 in 100 people):
@@ -727,13 +713,13 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - -The active substances are influenza virus surface antigens (haemagglutinin and neuraminidase), inactivated, of the following strains*:
 
-|                                                                              | per 0.5 ml dose     |
-|------------------------------------------------------------------------------|---------------------|
-| A/Victoria/4897/2022 (H1N1)pdm09-like strain (A/Victoria/4897/2022, IVR-238) | 15 micrograms HA ** |
-| A/Croatia/10136RV/2023 (H3N2)-like strain (A/Croatia/10136RV/2023, X-425A)   | 15 micrograms HA ** |
-| B/Austria/1359417/2021-like strain (B/Austria/1359417/2021, BVR-26)          | 15 micrograms HA ** |
+|                                                                          | per 0.5 ml dose     |
+|--------------------------------------------------------------------------|---------------------|
+| A/Missouri/11/2025 (H1N1)pdm09-like strain (A/Missouri/11/2025, IVR-279) | 15 micrograms HA ** |
+| A/Darwin/1454/2025 (H3N2)-like strain (A/Michigan/105/2025, IVR-285)     | 15 micrograms HA ** |
+| B/Tokyo/EIS13-175/2025-like strain (B/Tokyo/EIS13-175/2025, wild type)   | 15 micrograms HA ** |
 
-This vaccine complies with the World Health Organisation (WHO) recommendation (Northern Hemisphere) and EU recommendation for the 2025/2026 Season.
+This vaccine complies with the World Health Organisation (WHO) recommendation (Northern Hemisphere) and EU recommendation for the 2026/2027 Season.
 
 - -MF59C.1 is included in this vaccine as an adjuvant. Adjuvants are substances included in certain vaccines to accelerate, improve and/or prolong the protective effects of the vaccine. MF59C.1 is an adjuvant that contains per 0.5 ml dose: squalene (9.75 mg), polysorbate 80 (1.175 mg), sorbitan trioleate (1.175 mg), sodium citrate (0.66 mg) and citric acid (0.04 mg).
 - -The other ingredients are sodium chloride, potassium chloride, potassium dihydrogen phosphate, disodium phosphate dihydrate, magnesium chloride hexahydrate, calcium chloride dihydrate and water for injections.
@@ -754,7 +740,7 @@ For any information about this medicine, please contact the local representative
 
 Vifor Pharma België NV
 
-Tel. +32 3 218 20 70
+Tel. +32 15 91 44 12
 
 ## България
 
@@ -772,7 +758,9 @@ Tel: +31 (0) 20 204 6900
 
 ## Luxembourg/Luxemburg
 
-Vifor Pharma België NV Tel. +32 3 218 20 70
+Seqirus Netherlands B.V. Netherlands
+
+Tél/Tel: +31 (0) 20 204 6900
 
 <div style=\"page-break-after: always\"></div>
 
@@ -802,7 +790,7 @@ Seqirus Spain, S.L., Barcelona Tel: 937 817 884
 
 ## France
 
-Vifor France Tel: 0800 400 160
+Seqirus France Tel: 01 73 60 00 14
 
 ## Hrvatska
 

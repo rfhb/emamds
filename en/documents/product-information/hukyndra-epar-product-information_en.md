@@ -1,30 +1,26 @@
 ---
-document_datetime: 2026-01-28 15:22:23
-document_pages: 275
+document_datetime: 2026-07-17 09:20:57
+document_pages: 273
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/hukyndra-epar-product-information_en.pdf
 document_name: hukyndra-epar-product-information_en.pdf
 version: success
-processing_time: 100.3155565
-conversion_datetime: 2026-01-29 11:49:37.344314
+processing_time: 106.3945651
+conversion_datetime: 2026-07-19 12:33:26.045797
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.0
-  docling: 2.70.0
-  docling-core: 2.61.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.26.0
+  docling-jobkit: 2.1.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -52,7 +48,7 @@ Solution for injection (injection). Clear and colourless solution for injection.
 
 ## Juvenile idiopathic arthritis
 
-Polyarticular juvenile idiopathic arthritis
+## Polyarticular juvenile idiopathic arthritis
 
 Hukyndra in combination with methotrexate is indicated for the treatment of active polyarticular juvenile idiopathic arthritis, in patients from the age of 2 years who have had an inadequate response to one or more disease-modifying anti-rheumatic drugs (DMARDs). Hukyndra can be given as monotherapy in case of intolerance to methotrexate or when continued treatment with methotrexate is inappropriate (for the efficacy in monotherapy see section 5.1). Adalimumab has not been studied in patients aged less than 2 years.
 
@@ -64,11 +60,11 @@ Hukyndra is indicated for the treatment of active enthesitis-related arthritis i
 
 Hukyndra is indicated for the treatment of severe chronic plaque psoriasis in children and adolescents from 4 years of age who have had an inadequate response to or are inappropriate candidates for topical therapy and phototherapies.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Paediatric Crohn's disease
 
 Hukyndra is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients (from 6 years of age) who have had an inadequate response to conventional therapy including primary nutrition therapy and a corticosteroid and/or an immunomodulator, or who are intolerant to or have contraindications for such therapies.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric Uveitis
 
@@ -107,8 +103,6 @@ There is no relevant use of adalimumab in patients aged less than 2 years for th
 
 The recommended dose of Hukyndra for patients with enthesitis-related arthritis from 6 years of age is based on body weight (Table 2). Hukyndra is administered every other week via subcutaneous injection.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 2: Hukyndra dose for patients with enthesitis-related arthritis
 
 | Patient weight   | Dosing regimen         |
@@ -116,9 +110,11 @@ Table 2: Hukyndra dose for patients with enthesitis-related arthritis
 | 15 kg to < 30 kg | 20 mg every other week |
 | ≥ 30 kg          | 40 mg every other week |
 
+<div style=\"page-break-after: always\"></div>
+
 Adalimumab has not been studied in patients with enthesitis-related arthritis aged less than 6 years.
 
-Paediatric plaque psoriasis
+## Paediatric plaque psoriasis
 
 The recommended Hukyndra dose for patients with plaque psoriasis from 4 to 17 years of age is based on body weight (Table 3). Hukyndra is administered via subcutaneous injection.
 
@@ -137,25 +133,24 @@ The safety of adalimumab in paediatric patients with plaque psoriasis has been a
 
 There is no relevant use of adalimumab in children aged less than 4 years for this indication.
 
-Paediatric Crohn's disease
+## Paediatric Crohn's disease
 
 The recommended dose of Hukyndra for patients with Crohn's disease from 6 to 17 years of age is based on body weight (Table 4). Hukyndra is administered via subcutaneous injection.
 
 Table 4: Hukyndra dose for paediatric patients with Crohn's disease
 
-| Patient Weight   | Induction Dose                                                                                                                                                                                                                                                                    | Maintenance Dose Starting at Week 4   |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
-| < 40 kg          | • 40 mg at week 0 and 20 mg at week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 80 mg at week 0 and 40 mg at week 2 | 20 mg every other week                |
-
-<div style=\"page-break-after: always\"></div>
-
-| ≥ 40 kg   | • 80 mg at week 0 and 40 mg at week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 160 mg at week 0 and 80 mg at week 2   | 40 mg every other week   |
-|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| Patient Weight   | Induction Dose                                                                                                                                                                                                                                                                     | Maintenance Dose Starting at Week 4   |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+| < 40 kg          | • 40 mg at week 0 and 20 mg at week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 80 mg at week 0 and 40 mg at week 2  | 20 mg every other week                |
+| ≥ 40 kg          | • 80 mg at week 0 and 40 mg at week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 160 mg at week 0 and 80 mg at week 2 | 40 mg every other week                |
 
 Patients who experience insufficient response may benefit from an increase in dose:
 
 - &lt; 40 kg: 20 mg every week
-- ≥ 40 kg: 40 mg every week or 80 mg every other week
+
+<div style=\"page-break-after: always\"></div>
+
+## · ≥ 40 kg: 40 mg every week or 80 mg every other week
 
 Continued therapy should be carefully considered in a subject not responding by week 12. There is no relevant use of adalimumab in children aged less than 6 years for this indication.
 
@@ -190,8 +185,6 @@ Hukyndra is available in other strengths and presentations.
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
-<div style=\"page-break-after: always\"></div>
-
 Active tuberculosis or other severe infections such as sepsis and opportunistic infections (see section 4.4).
 
 Moderate to severe heart failure (NYHA class III/IV) (see section 4.4).
@@ -201,6 +194,8 @@ Moderate to severe heart failure (NYHA class III/IV) (see section 4.4).
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Infections
 
@@ -224,13 +219,13 @@ Before initiation of therapy with Hukyndra, all patients must be evaluated for b
 
 If active tuberculosis is diagnosed, Hukyndra therapy must not be initiated (see section 4.3).
 
-<div style=\"page-break-after: always\"></div>
-
 In all situations described below, the benefit/risk balance of therapy should be very carefully considered.
 
 If latent tuberculosis is suspected, a physician with expertise in the treatment of tuberculosis should be consulted.
 
 If latent tuberculosis is diagnosed, appropriate treatment must be started with anti-tuberculosis prophylaxis treatment before the initiation of Hukyndra and in accordance with local recommendations.
+
+<div style=\"page-break-after: always\"></div>
 
 Use of anti-tuberculosis prophylaxis treatment should also be considered before the initiation of Hukyndra in patients with several or significant risk factors for tuberculosis despite a negative test for tuberculosis and in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed.
 
@@ -254,11 +249,9 @@ Adequate data from treating patients who are carriers of HBV with anti-viral the
 
 ## Neurological events
 
-TNF-antagonists including adalimumab have been associated in rare instances with new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disease including multiple sclerosis and optic neuritis, and peripheral demyelinating
+TNF-antagonists including adalimumab have been associated in rare instances with new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disease including multiple sclerosis and optic neuritis, and peripheral demyelinating disease, including Guillain- Barré syndrome. Prescribers should exercise caution in considering the use of Hukyndra in patients with pre-existing or recent-onset central or peripheral nervous system demyelinating disorders; discontinuation of Hukyndra should be considered if any of these disorders develop. There is a known association between intermediate uveitis and central demyelinating disorders. Neurologic evaluation should be performed in patients with non-infectious intermediate uveitis prior to the initiation of Hukyndra therapy and regularly during treatment to assess for preexisting or developing central demyelinating disorders.
 
 <div style=\"page-break-after: always\"></div>
-
-disease, including Guillain- Barré syndrome. Prescribers should exercise caution in considering the use of Hukyndra in patients with pre-existing or recent-onset central or peripheral nervous system demyelinating disorders; discontinuation of Hukyndra should be considered if any of these disorders develop. There is a known association between intermediate uveitis and central demyelinating disorders. Neurologic evaluation should be performed in patients with non-infectious intermediate uveitis prior to the initiation of Hukyndra therapy and regularly during treatment to assess for preexisting or developing central demyelinating disorders.
 
 ## Allergic reactions
 
@@ -278,13 +271,11 @@ Rare postmarketing cases of hepatosplenic T-cell lymphoma have been identified i
 
 No studies have been conducted that include patients with a history of malignancy or in whom treatment with adalimumab is continued following development of malignancy. Thus, additional caution should be exercised in considering Hukyndra treatment of these patients (see section 4.8).
 
-All patients, and in particular patients with a medical history of extensive immunosuppressant therapy or psoriasis patients with a history of PUVA (Psoralen plus ultraviolet light A) treatment should be examined for the presence of non-melanoma skin cancer prior to and during treatment with Hukyndra.
-
-<div style=\"page-break-after: always\"></div>
-
-Melanoma and Merkel cell carcinoma have also been reported in patients treated with TNFantagonists including adalimumab (see section 4.8).
+All patients, and in particular patients with a medical history of extensive immunosuppressant therapy or psoriasis patients with a history of PUVA (Psoralen plus ultraviolet light A) treatment should be examined for the presence of non-melanoma skin cancer prior to and during treatment with Hukyndra. Melanoma and Merkel cell carcinoma have also been reported in patients treated with TNFantagonists including adalimumab (see section 4.8).
 
 In an exploratory clinical trial evaluating the use of another TNF-antagonist, infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients. All patients had a history of heavy smoking. Therefore, caution should be exercised when using any TNF-antagonist in COPD patients, as well as in patients with increased risk for malignancy due to heavy smoking.
+
+<div style=\"page-break-after: always\"></div>
 
 With current data it is not known if adalimumab treatment influences the risk for developing dysplasia or colon cancer. All patients with ulcerative colitis who are at increased risk for dysplasia or colon carcinoma (for example, patients with long-standing ulcerative colitis or primary sclerosing cholangitis), or who had a prior history of dysplasia or colon carcinoma should be screened for dysplasia at regular intervals before therapy and throughout their disease course. This evaluation should include colonoscopy and biopsies per local recommendations.
 
@@ -308,11 +299,11 @@ In a clinical trial with another TNF-antagonist worsening congestive heart failu
 
 Treatment with Hukyndra may result in the formation of autoimmune antibodies. The impact of longterm treatment with adalimumab on the development of autoimmune diseases is unknown. If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Hukyndra and is positive for antibodies against double-stranded DNA, further treatment with Hukyndra should not be given (see section 4.8).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Concurrent administration of biologic DMARDS or TNF-antagonists
 
 Serious infections were seen in clinical studies with concurrent use of anakinra and another TNFantagonist, etanercept, with no added clinical benefit compared to etanercept alone. Because of the nature of the adverse events seen with the combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNF-antagonists. Therefore, the combination of adalimumab and anakinra is not recommended. (See section 4.5).
+
+<div style=\"page-break-after: always\"></div>
 
 Concomitant administration of adalimumab with other biologic DMARDS (e.g, anakinra and abatacept) or other TNF-antagonists is not recommended based upon the possible increased risk for infections, including serious infections and other potential pharmacological interactions. (See section 4.5).
 
@@ -344,9 +335,9 @@ Adalimumab has been studied in rheumatoid arthritis, polyarticular juvenile idio
 
 The combination of adalimumab and anakinra is not recommended (see section 4.4 'Concurrent administration of biologic DMARDS or TNF-antagonists').
 
-<div style=\"page-break-after: always\"></div>
-
 The combination of adalimumab and abatacept is not recommended (see section 4.4 'Concurrent administration of biologic DMARDS or TNF-antagonists').
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -374,11 +365,11 @@ Limited information from the published literature indicates that adalimumab is e
 
 Preclinical data on fertility effects of adalimumab are not available.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.7 Effects on ability to drive and use machines
 
 Hukyndra may have a minor influence on the ability to drive and use machines. Vertigo and visual impairment may occur following administration of Hukyndra (see section 4.8).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -402,15 +393,18 @@ In general, the adverse events in paediatric patients were similar in frequency 
 
 The following list of adverse reactions is based on experience from clinical trials and on postmarketing experience and are displayed by system organ class and frequency in Table 6 below: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); and not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. The highest frequency seen among the various indications has been included. An asterisk (*) appears in the SOC column if further information is found elsewhere in sections 4.3, 4.4 and 4.8.
 
-<div style=\"page-break-after: always\"></div>
+## Table 6: Undesirable effects
 
-Table 6: Undesirable effects
+| System Organ Class           | Frequency   | Adverse Reaction                                                                                                                                                    |
+|------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations* | Very common | Respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral) |
+
+<div style=\"page-break-after: always\"></div>
 
 | System Organ Class                                                        | Frequency   | Adverse Reaction                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |---------------------------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations*                                              | Very common | Respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral)                                                                                                                                                                                                                                                                                                                                                 |
-| Infections and infestations*                                              | Common      | Systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), fungal infections, joint infections |
-| Infections and infestations*                                              | Uncommon    | Neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), bacterial infections, eye infections, diverticulitis 1)                                                                                                                                                                                                                                                                   |
+|                                                                           | Common      | Systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), fungal infections, joint infections |
+|                                                                           | Uncommon    | Neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), bacterial infections, eye infections, diverticulitis 1)                                                                                                                                                                                                                                                                   |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common      | Skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), benign neoplasm                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Uncommon    | Lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma**                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Rare        | Leukaemia 1)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -422,13 +416,13 @@ Table 6: Undesirable effects
 | Immune system disorders*                                                  | Common      | Hypersensitivity, allergies (including seasonal allergy)                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Immune system disorders*                                                  | Uncommon    | Sarcoidosis 1) , vasculitis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Immune system disorders*                                                  | Rare        | Anaphylaxis 1)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Immune system disorders*                                                  | Very common | Lipids increased                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Metabolism and nutrition disorders                                        | Very common | Lipids increased                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Metabolism and nutrition disorders                                        | Common      | Hypokalaemia, uric acid increased, blood sodium abnormal, hypocalcaemia, hyperglycaemia, hypophosphataemia, dehydration                                                                                                                                                                                                                                                                                                                                                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
 | System Organ Class                               | Frequency   | Adverse Reaction                                                                                                           |
 |--------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------|
-| Metabolism and nutrition disorders               | Common      | Hypokalaemia, uric acid increased, blood sodium abnormal, hypocalcaemia, hyperglycaemia, hypophosphataemia, dehydration    |
 | Psychiatric disorders                            | Common      | Mood alterations (including depression), anxiety, insomnia                                                                 |
 | Nervous system disorders*                        | Very common | Headache                                                                                                                   |
 | Nervous system disorders*                        | Common      | Paraesthesias (including hypoesthesia), migraine, nerve root compression                                                   |
@@ -454,12 +448,12 @@ Table 6: Undesirable effects
 | Hepatobiliary disorders*                         | Uncommon    | Cholecystitis and cholelithiasis, hepatic steatosis, bilirubin increased                                                   |
 | Hepatobiliary disorders*                         | Rare        | Hepatitis, reactivation of hepatitis B 1) , autoimmune hepatitis 1)                                                        |
 | Hepatobiliary disorders*                         | Not known   | Liver failure 1)                                                                                                           |
+| Hepatobiliary disorders*                         | Very Common | Rash (including exfoliative rash)                                                                                          |
 
 <div style=\"page-break-after: always\"></div>
 
 | System Organ Class                                    | Frequency   | Adverse Reaction                                                                                                                                                                                                 |
 |-------------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Skin and subcutaneous tissue disorders                | Very Common | Rash (including exfoliative rash)                                                                                                                                                                                |
 | Skin and subcutaneous tissue disorders                | Common      | Worsening or new onset of psoriasis (including palmoplantar pustular psoriasis) 1) , urticaria, bruising (including purpura), dermatitis (including eczema), onychoclasis, hyperhidrosis, alopecia 1) , pruritus |
 | Skin and subcutaneous tissue disorders                | Uncommon    | Night sweats, scar                                                                                                                                                                                               |
 | Skin and subcutaneous tissue disorders                | Rare        | Erythema multiforme 1) , Stevens-Johnson syndrome 1) , angioedema 1) , cutaneous vasculitis 1) lichenoid skin reaction 1)                                                                                        |
@@ -477,12 +471,6 @@ Table 6: Undesirable effects
 | Investigations*                                       | Common      | Coagulation and bleeding disorders (including activated partial thromboplastin time prolonged), autoantibody test positive (including double stranded DNA antibody), blood lactate dehydrogenase increased       |
 | Investigations*                                       | Not known   | Weight increased 2)                                                                                                                                                                                              |
 | Injury, poisoning and procedural complications        | Common      | Impaired healing                                                                                                                                                                                                 |
-
-* further information is found elsewhere in sections 4.3, 4.4 and 4.8
-
-** including open label extension studies
-
-1) including spontaneous reporting data
 
 2) The mean weight change from baseline for adalimumab ranged from 0.3 kg to 1.0 kg across adult indications compared to (minus) -0.4 kg to 0.4 kg for placebo over a treatment period of 46 months. Weight increase of 5-6 kg has also been observed in long-term extension studies with mean exposures of approximately 1-2 years without control group, particularly in patients with Crohn's disease and ulcerative colitis. The mechanism behind this effect is unclear but could be associated with the anti-inflammatory effect of adalimumab.
 
@@ -512,11 +500,9 @@ No malignancies were observed in 249 paediatric patients with an exposure of 655
 
 During the controlled portions of pivotal adalimumab trials in adults of at least 12 weeks in duration in patients with moderately to severely active rheumatoid arthritis, ankylosing spondylitis, axial spondyloarthritis without radiographic evidence of AS, psoriatic arthritis, psoriasis, hidradenitis suppurativa, Crohn's disease, ulcerative colitis and uveitis, malignancies, other than lymphoma and non-melanoma skin cancer, were observed at a rate (95% confidence interval) of 6.8 (4.4, 10.5) per 1,000 patient-years among 5,291 adalimumab treated patients versus a rate of 6.3 (3.4, 11.8) per 1,000 patient-years among 3,444 control patients (median duration of treatment was 4.0 months for adalimumab and 3.8 months for control-treated patients). The rate (95% confidence interval) of nonmelanoma skin cancers was 8.8 (6.0, 13.0) per 1,000 patient-years among adalimumab-treated patients and 3.2 (1.3, 7.6) per 1,000 patient-years among control patients. Of these skin cancers, squamous cell carcinomas occurred at rates (95% confidence interval) of 2.7 (1.4, 5.4) per 1,000 patient-years among adalimumab-treated patients and 0.6 (0.1, 4.5) per 1,000 patient- years among control patients. The rate (95% confidence interval) of lymphomas was 0.7 (0.2, 2.7) per 1,000 patient-years among adalimumab-treated patients and 0.6 (0.1, 4.5) per 1,000 patient-years among control patients.
 
-When combining controlled portions of these trials and ongoing and completed open label extension studies with a median duration of approximately 3.3 years including 6,427 patients and over 26,439 patient-years of therapy, the observed rate of malignancies, other than lymphoma and non-melanoma skin cancers is approximately 8.5 per 1,000 patient years. The observed rate of non-melanoma skin
+When combining controlled portions of these trials and ongoing and completed open label extension studies with a median duration of approximately 3.3 years including 6,427 patients and over 26,439 patient-years of therapy, the observed rate of malignancies, other than lymphoma and non-melanoma skin cancers is approximately 8.5 per 1,000 patient years. The observed rate of non-melanoma skin cancers is approximately 9.6 per 1,000 patient years, and the observed rate of lymphomas is approximately 1.3 per 1,000 patient years.
 
 <div style=\"page-break-after: always\"></div>
-
-cancers is approximately 9.6 per 1,000 patient years, and the observed rate of lymphomas is approximately 1.3 per 1,000 patient years.
 
 In post-marketing experience from January 2003 to December 2010, predominantly in patients with rheumatoid arthritis, the spontaneously reported rate of malignancies is approximately 2.7 per 1,000 patient treatment years. The spontaneously reported rates for non-melanoma skin cancers and lymphomas are approximately 0.2 and 0.3 per 1,000 patient treatment years, respectively (see section 4.4).
 
@@ -635,21 +621,23 @@ In RA study V with early rheumatoid arthritis patients who were methotrexate na�
 
 Table 8: ACR responses in RA study V (percent of patients)
 
-| Response   | MTX n=257   | Adalimumab n=274   | Adalimumab/MTX n=268   | p-value a   | p-value b   | p-value c   |
+| Response   | MTX n=257   | Adalimumab n=274   | Adalimumab/MTX n=268   | p-value a   | p-value b   |   p-value c |
 |------------|-------------|--------------------|------------------------|-------------|-------------|-------------|
 | ACR 20     |             |                    |                        |             |             |             |
-| Week 52    | 62.6%       | 54.4%              | 72.8%                  | 0.013       | < 0.001     | 0.043       |
-| Week 104   | 56.0%       | 49.3%              | 69.4%                  | 0.002       | < 0.001     | 0.140       |
+| Week 52    | 62.6%       | 54.4%              | 72.8%                  | 0.013       | < 0.001     |       0.043 |
+| Week 104   | 56.0%       | 49.3%              | 69.4%                  | 0.002       | < 0.001     |       0.140 |
 | ACR 50     |             |                    |                        |             |             |             |
-| Week 52    | 45.9%       | 41.2%              | 61.6%                  | < 0.001     | < 0.001     | 0.317       |
-| Week 104   | 42.8%       | 36.9%              | 59.0%                  | < 0.001     | < 0.001     | 0.162       |
+| Week 52    | 45.9%       | 41.2%              | 61.6%                  | < 0.001     | < 0.001     |       0.317 |
+| Week 104   | 42.8%       | 36.9%              | 59.0%                  | < 0.001     | < 0.001     |       0.162 |
 | ACR 70     |             |                    |                        |             |             |             |
-| Week 52    | 27.2%       | 25.9%              | 45.5%                  | < 0.001     | < 0.001     | 0.656       |
-| Week 104   | 28.4%       | 28.1%              | 46.6%                  | < 0.001     | < 0.001     | 0.864       |
+| Week 52    | 27.2%       | 25.9%              | 45.5%                  | < 0.001     | < 0.001     |       0.656 |
+| Week 104   | 28.4%       | 28.1%              | 46.6%                  | < 0.001     | < 0.001     |       0.864 |
 
 a. p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test.
 
-b. p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test c. p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
+b. p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
+
+c. p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
 
 In the open-label extension for RA study V, ACR response rates were maintained when followed for up to 10 years. Of 542 patients who were randomised to adalimumab 40 mg every other week, 170 patients continued on adalimumab 40 mg every other week for 10 years. Among those, 154 patients (90.6%) had ACR 20 responses; 127 patients (74.7%) had ACR 50 responses; and 102 patients (60.0%) had ACR 70 responses.
 
@@ -668,8 +656,8 @@ Table 9: Radiographic mean changes over 12 months in RA study III
 |                   |   Placebo/ MTX a |   Adalimumab/M TX 40 mg every other week | Placebo/MTX- Adalimumab/MTX (95% Confidence Interval b )   | p-value   |
 |-------------------|------------------|------------------------------------------|------------------------------------------------------------|-----------|
 | Total Sharp Score |              2.7 |                                      0.1 | 2.6 (1.4, 3.8)                                             | < 0.001 c |
-| Erosion score     |              1.6 |                                      0   | 1.6 (0.9, 2.2)                                             | < 0.001   |
-| JSN d score       |              1   |                                      0.1 | 0.9 (0.3, 1.4)                                             | 0.002     |
+| Erosion score     |              1.6 |                                      0.0 | 1.6 (0.9, 2.2)                                             | < 0.001   |
+| JSN d score       |              1.0 |                                      0.1 | 0.9 (0.3, 1.4)                                             | 0.002     |
 
 a methotrexate
 
@@ -685,7 +673,7 @@ Table 10: Radiographic mean changes at week 52 in RA study V
 
 |                   | MTX n=257 (95% confidence interval)   | Adalimum ab n=274 (95% confidence interval)   | Adalimumab/M TX n=268 (95% confidence interval)   | p-value a   |   p-value b | p-value c   |
 |-------------------|---------------------------------------|-----------------------------------------------|---------------------------------------------------|-------------|-------------|-------------|
-| Total Sharp Score | 5.7 (4.2-7.3)                         | 3.0 (1.7-4.3)                                 | 1.3 (0.5-2.1)                                     | < 0.001     |      0.002  | < 0.001     |
+| Total Sharp Score | 5.7 (4.2-7.3)                         | 3.0 (1.7-4.3)                                 | 1.3 (0.5-2.1)                                     | < 0.001     |      0.0020 | < 0.001     |
 | Erosion score     | 3.7 (2.7-4.7)                         | 1.7 (1.0-2.4)                                 | 0.8 (0.4-1.2)                                     | < 0.001     |      0.0082 | < 0.001     |
 | JSN score         | 2.0 (1.2-2.8)                         | 1.3 (0.5-2.1)                                 | 0.5 (0-1.0)                                       | < 0.001     |      0.0037 | 0.151       |
 
@@ -701,11 +689,9 @@ In the open-label extension of RA study V, the mean change from baseline at Year
 
 ## Quality of life and physical function
 
-Health-related quality of life and physical function were assessed using the disability index of the Health Assessment Questionnaire (HAQ) in the four original adequate and well-controlled trials, which was a pre-specified primary endpoint at Week 52 in RA study III. All doses/schedules of adalimumab in all four studies showed statistically significantly greater improvement in the disability index of the HAQ from baseline to Month 6 compared to placebo and in RA study III the same was seen at Week 52. Results from the Short Form Health Survey (SF 36) for all doses/schedules of
+Health-related quality of life and physical function were assessed using the disability index of the Health Assessment Questionnaire (HAQ) in the four original adequate and well-controlled trials, which was a pre-specified primary endpoint at Week 52 in RA study III. All doses/schedules of adalimumab in all four studies showed statistically significantly greater improvement in the disability index of the HAQ from baseline to Month 6 compared to placebo and in RA study III the same was seen at Week 52. Results from the Short Form Health Survey (SF 36) for all doses/schedules of adalimumab in all four studies support these findings, with statistically significant physical component summary (PCS) scores, as well as statistically significant pain and vitality domain scores for the 40 mg every other week dose. A statistically significant decrease in fatigue as measured by functional assessment of chronic illness therapy (FACIT) scores was seen in all three studies in which it was assessed (RA studies I, III, IV).
 
 <div style=\"page-break-after: always\"></div>
-
-adalimumab in all four studies support these findings, with statistically significant physical component summary (PCS) scores, as well as statistically significant pain and vitality domain scores for the 40 mg every other week dose. A statistically significant decrease in fatigue as measured by functional assessment of chronic illness therapy (FACIT) scores was seen in all three studies in which it was assessed (RA studies I, III, IV).
 
 In RA study III, most subjects who achieved improvement in physical function and continued treatment-maintained improvement through Week 520 (120 months) of open-label treatment. Improvement in quality of life was measured up to Week 156 (36 months) and improvement was maintained through that time.
 
@@ -735,12 +721,12 @@ Table 11: Ps study I (REVEAL) - efficacy results at 16 weeks
 
 Table 12: Ps study II (CHAMPION) efficacy results at 16 weeks
 
-|                                                                                                                                        | Placebo N=53 n (%)                                                                                                                     | MTXN=110 n (%)   | Adalimumab 40 mg eow N=108 n (%)   |
-|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|------------------|------------------------------------|
-| ≥ PASI 75                                                                                                                              | 10 (18.9)                                                                                                                              | 39 (35.5)        | 86 (79.6) a, b                     |
-| PASI 100                                                                                                                               | 1 (1.9)                                                                                                                                | 8 (7.3)          | 18 (16.7) c, d                     |
-| PGA: Clear/minimal                                                                                                                     | 6 (11.3)                                                                                                                               | 33 (30.0)        | 79 (73.1) a, b                     |
-| a p < 0.001 adalimumab vs. placebo b p < 0.001 adalimumab vs. methotrexate c p < 0.01 adalimumab vs. placebo d p < 0.05 adalimumab vs. | a p < 0.001 adalimumab vs. placebo b p < 0.001 adalimumab vs. methotrexate c p < 0.01 adalimumab vs. placebo d p < 0.05 adalimumab vs. | methotrexate     | methotrexate                       |
+|                                                                                                                                        | Placebo N=53 n (%)                                                                                                                     | MTX N=110 n (%)   | Adalimumab 40 mg eow N=108 n (%)   |
+|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|-------------------|------------------------------------|
+| ≥ PASI 75                                                                                                                              | 10 (18.9)                                                                                                                              | 39 (35.5)         | 86 (79.6) a, b                     |
+| PASI 100                                                                                                                               | 1 (1.9)                                                                                                                                | 8 (7.3)           | 18 (16.7) c, d                     |
+| PGA: Clear/minimal                                                                                                                     | 6 (11.3)                                                                                                                               | 33 (30.0)         | 79 (73.1) a, b                     |
+| a p < 0.001 adalimumab vs. placebo b p < 0.001 adalimumab vs. methotrexate c p < 0.01 adalimumab vs. placebo d p < 0.05 adalimumab vs. | a p < 0.001 adalimumab vs. placebo b p < 0.001 adalimumab vs. methotrexate c p < 0.01 adalimumab vs. placebo d p < 0.05 adalimumab vs. | methotrexate      | methotrexate                       |
 
 In Psoriasis Study I, 28% of patients who were PASI 75 responders and were re-randomised to placebo at Week 33 compared to 5% continuing on adalimumab, p &lt; 0.001, experienced 'loss of adequate response' (PASI score after Week 33 and on or before Week 52 that resulted in a &lt;PASI 50 response relative to baseline with a minimum of a 6-point increase in PASI score relative to Week 33). Of the patients who lost adequate response after re-randomisation to placebo who then enrolled into the open-label extension trial, 38% (25/66) and 55% (36/66) regained PASI 75 response after 12 and 24 weeks of re-treatment, respectively.
 
@@ -748,11 +734,9 @@ A total of 233 PASI 75 responders at Week 16 and Week 33 received continuous ada
 
 A total of 347 stable responders participated in a withdrawal and retreatment evaluation in an openlabel extension study. During the withdrawal period, symptoms of psoriasis returned over time with a median time to relapse (decline to PGA 'moderate' or worse) of approximately 5 months. None of these patients experienced rebound during the withdrawal period. A total of 76.5% (218/285) of patients who entered the retreatment period had a response of PGA 'clear' or 'minimal' after 16 weeks of retreatment, irrespective of whether they relapsed during withdrawal (69.1% [123/178] and 88.8% [95/107] for patients who relapsed and who did not relapse during the withdrawal period, respectively). A similar safety profile was observed during retreatment as before withdrawal.
 
-Significant improvements at Week 16 from baseline compared to placebo (Studies I and II) and MTX (Study II) were demonstrated in the DLQI (Dermatology Life Quality Index). In Study I,
+Significant improvements at Week 16 from baseline compared to placebo (Studies I and II) and MTX (Study II) were demonstrated in the DLQI (Dermatology Life Quality Index). In Study I, improvements in the physical and mental component summary scores of the SF-36 were also significant compared to placebo.
 
 <div style=\"page-break-after: always\"></div>
-
-improvements in the physical and mental component summary scores of the SF-36 were also significant compared to placebo.
 
 In an open-label extension study, for patients who dose escalated from 40 mg every other week to 40 mg weekly due to a PASI response below 50%, 26.4% (92/349) and 37.8% (132/349) of patients achieved PASI 75 response at Week 12 and 24, respectively.
 
@@ -776,11 +760,9 @@ Adalimumab treated patients showed statistically significant improvements at Wee
 
 The safety and efficacy of adalimumab were assessed in over 1,500 patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index (CDAI) ≥ 220 and ≤ 450) in randomised, double-blind, placebo-controlled studies. Concomitant stable doses of aminosalicylates, corticosteroids, and/or immunomodulatory agents were permitted and 80% of patients continued to receive at least one of these medications.
 
-Induction of clinical remission (defined as CDAI &lt; 150) was evaluated in two studies, CD Study I (CLASSIC I) and CD Study II (GAIN). In CD Study I, 299 TNF-antagonist naive patients were
+Induction of clinical remission (defined as CDAI &lt; 150) was evaluated in two studies, CD Study I (CLASSIC I) and CD Study II (GAIN). In CD Study I, 299 TNF-antagonist naive patients were randomised to one of four treatment groups: placebo at Weeks 0 and 2, 160 mg adalimumab at Week 0 and 80 mg at Week 2, 80 mg at Week 0 and 40 mg at Week 2, and 40 mg at Week 0 and 20 mg at Week 2. In CD Study II, 325 patients who had lost response or were intolerant to infliximab were randomised to receive either 160 mg adalimumab at Week 0 and 80 mg at Week 2 or placebo at Weeks 0 and 2. The primary non-responders were excluded from the studies and therefore these patients were not further evaluated.
 
 <div style=\"page-break-after: always\"></div>
-
-randomised to one of four treatment groups: placebo at Weeks 0 and 2, 160 mg adalimumab at Week 0 and 80 mg at Week 2, 80 mg at Week 0 and 40 mg at Week 2, and 40 mg at Week 0 and 20 mg at Week 2. In CD Study II, 325 patients who had lost response or were intolerant to infliximab were randomised to receive either 160 mg adalimumab at Week 0 and 80 mg at Week 2 or placebo at Weeks 0 and 2. The primary non-responders were excluded from the studies and therefore these patients were not further evaluated.
 
 Maintenance of clinical remission was evaluated in CD study III (CHARM). In CD Study III, 854 patients received open-label 80 mg at Week 0 and 40 mg at Week 2. At Week 4 patients were randomised to 40 mg every other week, 40 mg every week, or placebo with a total study duration of 56 weeks. Patients in clinical response (decrease in CDAI ≥ 70) at Week 4 were stratified and analysed separately from those not in clinical response at Week 4. Corticosteroid taper was permitted after Week 8.
 
@@ -824,7 +806,9 @@ Table 15: Maintenance of clinical remission and response (percent of patients)
 
 * p &lt; 0.001 for adalimumab versus placebo pairwise comparisons of proportions
 
-** p &lt; 0.02 for adalimumab versus placebo pairwise comparisons of proportions a Of those receiving corticosteroids at baseline
+** p &lt; 0.02 for adalimumab versus placebo pairwise comparisons of proportions
+
+a Of those receiving corticosteroids at baseline
 
 Among patients who were not in response at Week 4, 43% of adalimumab maintenance patients responded by Week 12 compared to 30% of placebo maintenance patients. These results suggest that some patients who have not responded by Week 4 benefit from continued maintenance therapy through Week 12. Therapy continued beyond 12 weeks did not result in significantly more responses (see section 4.2).
 
@@ -854,7 +838,7 @@ Results from both studies demonstrated statistically significant reduction of th
 
 Table 16: Time to treatment failure in studies UV I and UV II
 
-| Analysis Treatment                                                                 | N                                                                                  | Failure N (%)                                                                      | Median Time to Failure (months)                                                    | HR a                                                                               | CI 95% forHR a                                                                     | P Value b                                                                          |
+| Analysis Treatment                                                                 | N                                                                                  | Failure N (%)                                                                      | Median Time to Failure (months)                                                    | HR a                                                                               | CI 95% for HR a                                                                    | P Value b                                                                          |
 |------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | Time to Treatment Failure At or After Week 6 in Study UV I Primary analysis (ITT)  | Time to Treatment Failure At or After Week 6 in Study UV I Primary analysis (ITT)  | Time to Treatment Failure At or After Week 6 in Study UV I Primary analysis (ITT)  | Time to Treatment Failure At or After Week 6 in Study UV I Primary analysis (ITT)  | Time to Treatment Failure At or After Week 6 in Study UV I Primary analysis (ITT)  | Time to Treatment Failure At or After Week 6 in Study UV I Primary analysis (ITT)  | Time to Treatment Failure At or After Week 6 in Study UV I Primary analysis (ITT)  |
 | Placebo                                                                            | 107                                                                                | 84 (78.5)                                                                          | 3.0                                                                                | --                                                                                 | --                                                                                 | --                                                                                 |
@@ -919,15 +903,15 @@ Patients demonstrating a Paediatric ACR 30 response at Week 16 were eligible to 
 
 Table 18: Ped ACR 30 responses in the JIA study
 
-| Stratum                                       | MTX                      | MTX                   | WithoutMTX          | WithoutMTX       |
-|-----------------------------------------------|--------------------------|-----------------------|---------------------|------------------|
-| Phase                                         |                          |                       |                     |                  |
-| OL-LI 16 weeks                                |                          |                       |                     |                  |
-| Ped ACR 30 response (n/N)                     | 94.1% (80/85)            | 94.1% (80/85)         | 74.4% (64/86)       | 74.4% (64/86)    |
-| Efficacy Outcomes                             | Efficacy Outcomes        | Efficacy Outcomes     |                     |                  |
-| Double Blind 32 weeks                         | Adalimumab /MTX (N = 38) | Placebo /MTX (N = 37) | Adalimumab (N = 30) | Placebo (N = 28) |
-| Disease flares at the end of 32 weeks a (n/N) | 36.8% (14/38)            | 64.9% (24/37) b       | 43.3% (13/30)       | 71.4% (20/28) c  |
-| Median time to disease flare                  | > 32 weeks               | 20 weeks              | > 32 weeks          | 14 weeks         |
+| Stratum                                       | MTX                      | MTX                    | Without MTX         | Without MTX      |
+|-----------------------------------------------|--------------------------|------------------------|---------------------|------------------|
+| Phase                                         |                          |                        |                     |                  |
+| OL-LI 16 weeks                                |                          |                        |                     |                  |
+| Ped ACR 30 response (n/N)                     | 94.1% (80/85)            | 94.1% (80/85)          | 74.4% (64/86)       | 74.4% (64/86)    |
+| Efficacy Outcomes                             | Efficacy Outcomes        | Efficacy Outcomes      |                     |                  |
+| Double Blind 32 weeks                         | Adalimumab /MTX (N = 38) | Placebo / MTX (N = 37) | Adalimumab (N = 30) | Placebo (N = 28) |
+| Disease flares at the end of 32 weeks a (n/N) | 36.8% (14/38)            | 64.9% (24/37) b        | 43.3% (13/30)       | 71.4% (20/28) c  |
+| Median time to disease flare                  | > 32 weeks               | 20 weeks               | > 32 weeks          | 14 weeks         |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1153,15 +1137,13 @@ EU/1/21/1589/010
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 15 November 2021
+Date of first authorisation: 15 November 2021 Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
-
-▼This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1173,7 +1155,7 @@ Hukyndra 40 mg solution for injection in pre-filled syringe
 
 Each 0.4 ml single dose pre-filled syringe contains 40 mg adalimumab.
 
-Hukyndra 40 mg solution for injection in pre-filled pen
+## Hukyndra 40 mg solution for injection in pre-filled pen
 
 Each 0.4 ml single dose pre-filled pen contains 40 mg adalimumab.
 
@@ -1204,13 +1186,13 @@ Hukyndra can be given as monotherapy in case of intolerance to methotrexate or w
 
 Adalimumab has been shown to reduce the rate of progression of joint damage as measured by X-ray and to improve physical function, when given in combination with methotrexate.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Juvenile idiopathic arthritis
 
 ## Polyarticular juvenile idiopathic arthritis
 
 Hukyndra in combination with methotrexate is indicated for the treatment of active polyarticular juvenile idiopathic arthritis, in patients from the age of 2 years who have had an inadequate response to one or more DMARD. Hukyndra can be given as monotherapy in case of intolerance to methotrexate or when continued treatment with methotrexate is inappropriate (for the efficacy in monotherapy see section 5.1). Adalimumab has not been studied in patients aged less than 2 years.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Enthesitis-related arthritis
 
@@ -1246,11 +1228,11 @@ Hukyndra is indicated for the treatment of active moderate to severe HS (acne in
 
 Hukyndra is indicated for treatment of moderately to severely active Crohn's disease, in adult patients who have not responded despite a full and adequate course of therapy with a corticosteroid and/or an immunosuppressant; or who are intolerant to or have medical contraindications for such therapies.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Paediatric Crohn's disease
 
 Hukyndra is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients (from 6 years of age) who have had an inadequate response to conventional therapy including primary nutrition therapy and a corticosteroid and/or an immunomodulator, or who are intolerant to or have contraindications for such therapies.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Ulcerative colitis
 
@@ -1284,11 +1266,11 @@ The recommended dose of Hukyndra for adult patients with rheumatoid arthritis is
 
 Glucocorticoids, salicylates, nonsteroidal anti-inflammatory drugs, or analgesics can be continued during treatment with Hukyndra. Regarding combination with disease modifying anti-rheumatic drugs other than methotrexate see sections 4.4 and 5.1.
 
-<div style=\"page-break-after: always\"></div>
-
 In monotherapy, some patients who experience a decrease in their response to Hukyndra 40 mg every other week may benefit from an increase in dose to 40 mg adalimumab every week or 80 mg every other week.
 
 Available data suggest that the clinical response is usually achieved within 12 weeks of treatment. Continued therapy should be reconsidered in a patient not responding within this time period.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Dose interruption
 
@@ -1320,11 +1302,11 @@ Should treatment be interrupted, Hukyndra 40 mg every week or 80 mg every other 
 
 The benefit and risk of continued long-term treatment should be periodically evaluated (see section 5.1).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Crohn's disease
 
 The recommended Hukyndra induction dose regimen for adult patients with moderately to severely active Crohn's disease is 80 mg at Week 0 followed by 40 mg at Week 2. In case there is a need for a more rapid response to therapy, the regimen 160 mg at Week 0 (given as four 40 mg injections in one day or as two 40 mg injections per day for two consecutive days), followed by 80 mg at Week 2 (given as two 40 mg injections in one day), can be used with the awareness that the risk for adverse events is higher during induction.
+
+<div style=\"page-break-after: always\"></div>
 
 After induction treatment, the recommended dose is 40 mg every other week via subcutaneous injection. Alternatively, if a patient has stopped Hukyndra and signs and symptoms of disease recur, Hukyndra may be re-administered. There is little experience from re-administration after more than 8 weeks since the previous dose.
 
@@ -1356,11 +1338,11 @@ It is recommended that the benefit and risk of continued long-term treatment sho
 
 No dose adjustment is required.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Renal and/or hepatic impairment
 
 Adalimumab has not been studied in these patient populations. No dose recommendations can be made.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -1402,8 +1384,6 @@ There is no relevant use of adalimumab in the paediatric population for the indi
 
 The recommended Hukyndra dose for patients with plaque psoriasis from 4 to 17 years of age is based on body weight (Table 3). Hukyndra is administered via subcutaneous injection.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 3: Hukyndra dose for paediatric patients with plaque psoriasis
 
 | Patient weight   | Dosing regimen                                                                                           |
@@ -1412,6 +1392,8 @@ Table 3: Hukyndra dose for paediatric patients with plaque psoriasis
 | ≥ 30 kg          | Initial dose of 40 mg, followed by 40 mg given every other week starting one week after the initial dose |
 
 Continued therapy beyond 16 weeks should be carefully considered in a patient not responding within this time period.
+
+<div style=\"page-break-after: always\"></div>
 
 If retreatment with adalimumab is indicated, the above guidance on dose and treatment duration should be followed.
 
@@ -1441,14 +1423,16 @@ There is no relevant use of adalimumab in children aged less than 12 years in th
 
 The recommended dose of Hukyndra for patients with Crohn's disease from 6 to 17 years of age is based on body weight (Table 4). Hukyndra is administered via subcutaneous injection.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 4: Hukyndra dose for paediatric patients with Crohn's disease
 
-| Patient weight   | Induction dose                                                                                                                                                                                                                                                                     | Maintenance dose starting at Week 4   |
-|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
-| < 40 kg          | • 40 mg at Week 0 and 20 mg at Week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 80 mg at Week 0 and 40 mg at Week 2  | 20 mg every other week                |
-| ≥ 40 kg          | • 80 mg at Week 0 and 40 mg at Week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 160 mg at Week 0 and 80 mg at Week 2 | 40 mg every other week                |
+| Patient weight   | Induction dose                                                                                                                                                                                                                                                                    | Maintenance dose starting at Week 4   |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+| < 40 kg          | • 40 mg at Week 0 and 20 mg at Week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 80 mg at Week 0 and 40 mg at Week 2 | 20 mg every other week                |
+
+<div style=\"page-break-after: always\"></div>
+
+| ≥ 40 kg   | • 80 mg at Week 0 and 40 mg at Week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 160 mg at Week 0 and 80 mg at Week 2   | 40 mg every other week   |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
 
 Patients who experience insufficient response may benefit from an increase in dose:
 
@@ -1470,17 +1454,19 @@ Table 5: Hukyndra dose for paediatric patients with ulcerative colitis
 | < 40 kg          | • 80 mg at Week 0 (given as two 40 mg injections in one day) and • 40 mg at Week 2 (given as one 40 mg injection)                                                                        | • 40 mg every other week               |
 | ≥ 40 kg          | • 160 mg at Week 0 (given as four 40 mg injections in one day or two 40 mg injections per day for two consecutive days) and • 80 mg at Week 2 (given as two 40 mg injections in one day) | • 80 mg every other week               |
 
+* Paediatric patients who turn 18 years of age while on Hukyndra should continue their prescribed maintenance dose.
+
 Continued therapy beyond 8 weeks should be carefully considered in patients not showing signs of response within this time period.
 
 There is no relevant use of Hukyndra in children aged less than 6 years in this indication.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Paediatric uveitis
 
 The recommended dose of Hukyndra for paediatric patients with uveitis from 2 years of age is based on body weight (Table 6). Hukyndra is administered via subcutaneous injection.
 
 In paediatric uveitis, there is no experience in the treatment with adalimumab without concomitant treatment with methotrexate.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 6: Hukyndra dose for paediatric patients with uveitis
 
@@ -1517,13 +1503,11 @@ In order to improve the traceability of biological medicinal products, the name 
 
 Patients taking TNF-antagonists are more susceptible to serious infections. Impaired lung function may increase the risk for developing infections. Patients must therefore be monitored closely for infections, including tuberculosis, before, during and after treatment with Hukyndra. Because the elimination of adalimumab may take up to four months, monitoring should be continued throughout this period.
 
-Treatment with Hukyndra should not be initiated in patients with active infections including chronic or localised infections until infections are controlled. In patients who have been exposed to tuberculosis and patients who have travelled in areas of high risk of tuberculosis or endemic mycoses, such as
-
-<div style=\"page-break-after: always\"></div>
-
-histoplasmosis, coccidioidomycosis, or blastomycosis, the risk and benefits of treatment with Hukyndra should be considered prior to initiating therapy (see 'Other opportunistic infections').
+Treatment with Hukyndra should not be initiated in patients with active infections including chronic or localised infections until infections are controlled. In patients who have been exposed to tuberculosis and patients who have travelled in areas of high risk of tuberculosis or endemic mycoses, such as histoplasmosis, coccidioidomycosis, or blastomycosis, the risk and benefits of treatment with Hukyndra should be considered prior to initiating therapy (see 'Other opportunistic infections').
 
 Patients who develop a new infection while undergoing treatment with Hukyndra should be monitored closely and undergo a complete diagnostic evaluation. Administration of Hukyndra should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled. Physicians should exercise caution when considering the use of adalimumab in patients with a history of recurring infection or with underlying conditions which may predispose patients to infections, including the use of concomitant immunosuppressive medicinal products.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Serious infections
 
@@ -1551,11 +1535,11 @@ Despite prophylactic treatment for tuberculosis, cases of reactivated tuberculos
 
 Patients should be instructed to seek medical advice if signs/symptoms suggestive of a tuberculosis infection (e.g., persistent cough, wasting/weight loss, low grade fever, listlessness) occur during or after therapy with Hukyndra.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Other opportunistic infections
 
 Opportunistic infections, including invasive fungal infections have been observed in patients receiving adalimumab. These infections have not consistently been recognised in patients taking TNFantagonists and this has resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
+
+<div style=\"page-break-after: always\"></div>
 
 For patients who develop the signs and symptoms such as fever, malaise, weight loss, sweats, cough, dyspnoea, and/or pulmonary infiltrates or other serious systemic illness with or without concomitant shock an invasive fungal infection should be suspected and administration of Hukyndra should be promptly discontinued. Diagnosis and administration of empiric antifungal therapy in these patients should be made in consultation with a physician with expertise in the care of patients with invasive fungal infections.
 
@@ -1577,11 +1561,11 @@ Serious allergic reactions associated with adalimumab were rare during clinical 
 
 In a study of 64 patients with rheumatoid arthritis that were treated with adalimumab, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector T-, B-, NK-cells, monocyte / macrophages, and neutrophils.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Malignancies and lymphoproliferative disorders
 
 In the controlled portions of clinical trials of TNF-antagonists, more cases of malignancies including lymphoma have been observed among patients receiving a TNF-antagonist compared with control patients. However, the occurrence was rare. In the post-marketing setting, cases of leukaemia have been reported in patients treated with a TNF-antagonist. There is an increased background risk for lymphoma and leukaemia in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates the risk estimation. With the current knowledge, a possible risk for the development of lymphomas, leukaemia, and other malignancies in patients treated with a TNF-antagonist cannot be excluded.
+
+<div style=\"page-break-after: always\"></div>
 
 Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-antagonists (initiation of therapy ≤ 18 years of age), including adalimumab in the post-marketing setting. Approximately half the cases were lymphomas. The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression. A risk for the development of malignancies in children and adolescents treated with TNF-antagonists cannot be excluded.
 
@@ -1597,15 +1581,13 @@ With current data it is not known if adalimumab treatment influences the risk fo
 
 ## Haematologic reactions
 
-Rare reports of pancytopenia including aplastic anaemia have been reported with TNF-antagonists. Adverse events of the haematologic system, including medically significant cytopenia (e.g. thrombocytopenia, leukopenia) have been reported with adalimumab. All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias
-
-<div style=\"page-break-after: always\"></div>
-
-(e.g. persistent fever, bruising, bleeding, pallor) while on Hukyndra. Discontinuation of Hukyndra therapy should be considered in patients with confirmed significant haematologic abnormalities.
+Rare reports of pancytopenia including aplastic anaemia have been reported with TNF-antagonists. Adverse events of the haematologic system, including medically significant cytopenia (e.g. thrombocytopenia, leukopenia) have been reported with adalimumab. All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias (e.g. persistent fever, bruising, bleeding, pallor) while on Hukyndra. Discontinuation of Hukyndra therapy should be considered in patients with confirmed significant haematologic abnormalities.
 
 ## Vaccinations
 
 Similar antibody responses to the standard 23-valent pneumococcal vaccine and the influenza trivalent virus vaccination were observed in a study in 226 adult subjects with rheumatoid arthritis who were treated with adalimumab or placebo. No data are available on the secondary transmission of infection by live vaccines in patients receiving adalimumab.
+
+<div style=\"page-break-after: always\"></div>
 
 It is recommended that paediatric patients, if possible, be brought up to date with all immunisations in agreement with current immunisation guidelines prior to initiating Hukyndra therapy.
 
@@ -1629,13 +1611,13 @@ Concomitant administration of adalimumab with other biologic DMARDS (e.g., anaki
 
 There is limited safety experience of surgical procedures in patients treated with adalimumab. The long half-life of adalimumab should be taken into consideration if a surgical procedure is planned. A patient who requires surgery while on Hukyndra should be closely monitored for infections, and appropriate actions should be taken. There is limited safety experience in patients undergoing arthroplasty while receiving adalimumab.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Small bowel obstruction
 
 Failure to respond to treatment for Crohn's disease may indicate the presence of fixed fibrotic stricture that may require surgical treatment. Available data suggest that adalimumab does not worsen or cause strictures.
 
 ## Elderly
+
+<div style=\"page-break-after: always\"></div>
 
 The frequency of serious infections among adalimumab-treated subjects over 65 years of age (3.7%) was higher than for those under 65 years of age (1.5%). Some of those had a fatal outcome. Particular attention regarding the risk for infection should be paid when treating the elderly.
 
@@ -1673,9 +1655,11 @@ Women of childbearing potential should consider the use of adequate contraceptio
 
 A large number (approximately 2,100) of prospectively collected pregnancies exposed to adalimumab resulting in live birth with known outcomes, including more than 1,500 exposed during the first trimester, does not indicate an increase in the rate of malformation in the newborn.
 
+In a prospective cohort registry, 257 women with rheumatoid arthritis (RA) or Crohn's disease (CD) treated with adalimumab at least during the first trimester and 120 women with RA or CD not treated with adalimumab were enroled. The primary endpoint was the birth prevalence of major birth defects. The rate of pregnancies ending with at least one live born infant with a major birth defect was 6/69 (8.7%) in the adalimumab-treated women with RA and 5/74 (6.8%) in the untreated women with RA (unadjusted OR 1.31, 95% CI 0.38-4.52) and 16/152 (10.5%) in the adalimumab-treated women with CD and 3/32 (9.4%) in the untreated women with CD (unadjusted OR 1.14, 95% CI 0.31-4.16). The adjusted OR (accounting for baseline differences) was 1.10 (95% CI 0.45-2.73) with RA and CD
+
 <div style=\"page-break-after: always\"></div>
 
-In a prospective cohort registry, 257 women with rheumatoid arthritis (RA) or Crohn's disease (CD) treated with adalimumab at least during the first trimester and 120 women with RA or CD not treated with adalimumab were enroled. The primary endpoint was the birth prevalence of major birth defects. The rate of pregnancies ending with at least one live born infant with a major birth defect was 6/69 (8.7%) in the adalimumab-treated women with RA and 5/74 (6.8%) in the untreated women with RA (unadjusted OR 1.31, 95% CI 0.38-4.52) and 16/152 (10.5%) in the adalimumab-treated women with CD and 3/32 (9.4%) in the untreated women with CD (unadjusted OR 1.14, 95% CI 0.31-4.16). The adjusted OR (accounting for baseline differences) was 1.10 (95% CI 0.45-2.73) with RA and CD combined. There were no distinct differences between adalimumab-treated and untreated women for the secondary endpoints spontaneous abortions, minor birth defects, preterm delivery, birth size and serious or opportunistic infections and no stillbirths or malignancies were reported. The interpretation of data may be impacted due to methodological limitations of the study, including small sample size and non-randomised design.
+combined. There were no distinct differences between adalimumab-treated and untreated women for the secondary endpoints spontaneous abortions, minor birth defects, preterm delivery, birth size and serious or opportunistic infections and no stillbirths or malignancies were reported. The interpretation of data may be impacted due to methodological limitations of the study, including small sample size and non-randomised design.
 
 In a developmental toxicity study conducted in monkeys, there was no indication of maternal toxicity, embryotoxicity or teratogenicity. Preclinical data on postnatal toxicity of adalimumab are not available (see section 5.3).
 
@@ -1701,11 +1685,11 @@ Hukyndra may have a minor influence on the ability to drive and use machines. Ve
 
 Adalimumab was studied in 9,506 patients in pivotal controlled and open-label trials for up to 60 months or more. These trials included rheumatoid arthritis patients with short-term and long standing disease, juvenile idiopathic arthritis (polyarticular juvenile idiopathic arthritis and enthesitisrelated arthritis) as well as axial spondyloarthritis (AS and axial spondyloarthritis without radiographic evidence of AS), psoriatic arthritis, Crohn's disease, ulcerative colitis, psoriasis, HS and uveitis patients. The pivotal controlled studies involved 6,089 patients receiving adalimumab and 3,801 patients receiving placebo or active comparator during the controlled period.
 
-<div style=\"page-break-after: always\"></div>
-
 The proportion of patients who discontinued treatment due to adverse events during the double-blind, controlled portion of pivotal studies was 5.9% for patients taking adalimumab and 5.4% for control treated patients.
 
 The most commonly reported adverse reactions are infections (such as nasopharyngitis, upper respiratory tract infection and sinusitis), injection site reactions (erythema, itching, haemorrhage, pain or swelling), headache and musculoskeletal pain.
+
+<div style=\"page-break-after: always\"></div>
 
 Serious adverse reactions have been reported for adalimumab. TNF-antagonists, such as adalimumab affect the immune system and their use may affect the body's defence against infection and cancer. Fatal and life-threatening infections (including sepsis, opportunistic infections and TB), HBV reactivation and various malignancies (including leukaemia, lymphoma and HSTCL) have also been reported with use of adalimumab.
 
@@ -1725,60 +1709,60 @@ Table 7: Undesirable effects
 |------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Infections and infestations* | Very common | Respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral)                                                                                                                                                                                                                                                                                                                                                 |
 | Infections and infestations* | Common      | Systemic infections (including sepsis, candidiasis and influenza), Intestinal infections (including gastroenteritis viral), Skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), Ear infections, Oral infections (including herpes simplex, oral herpes and tooth infections), Reproductive tract infections (including vulvovaginal mycotic infection), Urinary tract infections (including pyelonephritis), Fungal infections, Joint infections |
+| Infections and infestations* | Uncommon    | Neurological infections (including viral meningitis), Opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), Bacterial infections, Eye infections, Diverticulitis 1)                                                                                                                                                                                                                                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                                                        | Frequency   | Adverse Reaction                                                                                                                                                                                                                                  |
-|---------------------------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                           | Uncommon    | Neurological infections (including viral meningitis), Opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), Bacterial infections, Eye infections, Diverticulitis 1) |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common      | Skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), Benign neoplasm                                                                                                                                      |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Uncommon    | Lymphoma**, Solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), Melanoma**                                                                                                                                        |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Rare        | Leukaemia 1)                                                                                                                                                                                                                                      |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Not known   | Hepatosplenic T-cell lymphoma 1) , Merkel cell carcinoma (neuroendocrine carcinoma of the skin) 1) , Kaposi's sarcoma                                                                                                                             |
-| Blood and the lymphatic system disorders*                                 | Very common | Leukopenia (including neutropenia and agranulocytosis), Anaemia                                                                                                                                                                                   |
-| Blood and the lymphatic system disorders*                                 | Common      | Leukocytosis, Thrombocytopenia                                                                                                                                                                                                                    |
-| Blood and the lymphatic system disorders*                                 | Uncommon    | Idiopathic thrombocytopenic purpura                                                                                                                                                                                                               |
-| Blood and the lymphatic system disorders*                                 | Rare        | Pancytopenia                                                                                                                                                                                                                                      |
-| Immune system disorders*                                                  | Common      | Hypersensitivity, Allergies (including seasonal allergy)                                                                                                                                                                                          |
-| Immune system disorders*                                                  | Uncommon    | Sarcoidosis 1) , Vasculitis                                                                                                                                                                                                                       |
-| Immune system disorders*                                                  | Rare        | Anaphylaxis 1)                                                                                                                                                                                                                                    |
-| Metabolism and nutrition disorders                                        | Very common | Lipids increased                                                                                                                                                                                                                                  |
-| Metabolism and nutrition disorders                                        | Common      | Hypokalaemia, Uric acid increased, Blood sodium abnormal, Hypocalcaemia, Hyperglycaemia, Hypophosphataemia, Dehydration                                                                                                                           |
-| Psychiatric disorders                                                     | Common      | Mood alterations (including depression), Anxiety, Insomnia                                                                                                                                                                                        |
-| Nervous system disorders*                                                 | Very common | Headache                                                                                                                                                                                                                                          |
-| Nervous system disorders*                                                 | Common      | Paraesthesias (including hypoesthesia), Migraine, Nerve root compression                                                                                                                                                                          |
+| System Organ Class                                                        | Frequency   | Adverse Reaction                                                                                                        |
+|---------------------------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------|
+| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common      | Skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), Benign neoplasm            |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Uncommon    | Lymphoma**, Solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), Melanoma**              |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Rare        | Leukaemia 1)                                                                                                            |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Not known   | Hepatosplenic T-cell lymphoma 1) , Merkel cell carcinoma (neuroendocrine carcinoma of the skin) 1) , Kaposi's sarcoma   |
+| Blood and the lymphatic system disorders*                                 | Very common | Leukopenia (including neutropenia and agranulocytosis), Anaemia                                                         |
+| Blood and the lymphatic system disorders*                                 | Common      | Leukocytosis, Thrombocytopenia                                                                                          |
+| Blood and the lymphatic system disorders*                                 | Uncommon    | Idiopathic thrombocytopenic purpura                                                                                     |
+| Blood and the lymphatic system disorders*                                 | Rare        | Pancytopenia                                                                                                            |
+| Immune system disorders*                                                  | Common      | Hypersensitivity, Allergies (including seasonal allergy)                                                                |
+| Immune system disorders*                                                  | Uncommon    | Sarcoidosis 1) , Vasculitis                                                                                             |
+| Immune system disorders*                                                  | Rare        | Anaphylaxis 1)                                                                                                          |
+| Metabolism and nutrition disorders                                        | Very common | Lipids increased                                                                                                        |
+| Metabolism and nutrition disorders                                        | Common      | Hypokalaemia, Uric acid increased, Blood sodium abnormal, Hypocalcaemia, Hyperglycaemia, Hypophosphataemia, Dehydration |
+| Psychiatric disorders                                                     | Common      | Mood alterations (including depression), Anxiety, Insomnia                                                              |
+| Nervous system disorders*                                                 | Very common | Headache                                                                                                                |
+| Nervous system disorders*                                                 | Common      | Paraesthesias (including hypoesthesia), Migraine, Nerve root compression                                                |
+| Nervous system disorders*                                                 | Uncommon    | Cerebrovascular accident 1) , Tremor, Neuropathy                                                                        |
+| Nervous system disorders*                                                 | Rare        | Multiple sclerosis, Demyelinating disorders (e.g. optic neuritis, Guillain- Barré syndrome) 1)                          |
 
 <div style=\"page-break-after: always\"></div>
 
 | System Organ Class                               | Frequency   | Adverse Reaction                                                                                                           |
 |--------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------|
-|                                                  | Uncommon    | Cerebrovascular accident 1) , Tremor, Neuropathy                                                                           |
-|                                                  | Rare        | Multiple sclerosis, Demyelinating disorders (e.g. optic neuritis, Guillain- Barré syndrome) 1)                             |
 | Eye disorders                                    | Common      | Visual impairment, Conjunctivitis, Blepharitis, Eye swelling                                                               |
-|                                                  | Uncommon    | Diplopia                                                                                                                   |
+| Eye disorders                                    | Uncommon    | Diplopia                                                                                                                   |
 | Ear and labyrinth disorders                      | Common      | Vertigo                                                                                                                    |
-|                                                  | Uncommon    | Deafness, Tinnitus                                                                                                         |
+| Ear and labyrinth disorders                      | Uncommon    | Deafness, Tinnitus                                                                                                         |
 | Cardiac disorders*                               | Common      | Tachycardia                                                                                                                |
-|                                                  | Uncommon    | Myocardial infarction 1) , Arrhythmia, Congestive heart failure                                                            |
-|                                                  | Rare        | Cardiac arrest                                                                                                             |
+| Cardiac disorders*                               | Uncommon    | Myocardial infarction 1) , Arrhythmia, Congestive heart failure                                                            |
+| Cardiac disorders*                               | Rare        | Cardiac arrest                                                                                                             |
 | Vascular disorders                               | Common      | Hypertension, Flushing, Haematoma                                                                                          |
-|                                                  | Uncommon    | Aortic aneurysm, Vascular arterial occlusion, Thrombophlebitis                                                             |
+| Vascular disorders                               | Uncommon    | Aortic aneurysm, Vascular arterial occlusion, Thrombophlebitis                                                             |
 | Respiratory, thoracic and mediastinal disorders* | Common      | Asthma, Dyspnoea, Cough                                                                                                    |
-|                                                  | Uncommon    | Pulmonary embolism 1) , Interstitial lung disease, Chronic obstructive pulmonary disease, Pneumonitis, Pleural effusion 1) |
-|                                                  | Rare        | Pulmonary fibrosis 1)                                                                                                      |
+| Respiratory, thoracic and mediastinal disorders* | Uncommon    | Pulmonary embolism 1) , Interstitial lung disease, Chronic obstructive pulmonary disease, Pneumonitis, Pleural effusion 1) |
+| Respiratory, thoracic and mediastinal disorders* | Rare        | Pulmonary fibrosis 1)                                                                                                      |
 | Gastrointestinal disorders                       | Very common | Abdominal pain, Nausea and vomiting                                                                                        |
-|                                                  | Common      | GI haemorrhage, Dyspepsia, Gastroesophageal reflux disease, Sicca syndrome                                                 |
-|                                                  | Uncommon    | Pancreatitis, Dysphagia, Face oedema                                                                                       |
-|                                                  | Rare        | Intestinal perforation 1)                                                                                                  |
+| Gastrointestinal disorders                       | Common      | GI haemorrhage, Dyspepsia, Gastroesophageal reflux disease, Sicca syndrome                                                 |
+| Gastrointestinal disorders                       | Uncommon    | Pancreatitis, Dysphagia, Face oedema                                                                                       |
+| Gastrointestinal disorders                       | Rare        | Intestinal perforation 1)                                                                                                  |
+| Hepatobiliary disorders*                         | Very common | Elevated liver enzymes                                                                                                     |
+| Hepatobiliary disorders*                         | Uncommon    | Cholecystitis and cholelithiasis, Hepatic steatosis, Bilirubin increased                                                   |
+| Hepatobiliary disorders*                         | Rare        | Hepatitis, Reactivation of hepatitis B 1) , Autoimmune hepatitis 1)                                                        |
+| Hepatobiliary disorders*                         | Not known   | Liver failure 1)                                                                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
 | System Organ Class                                    | Frequency   | Adverse Reaction                                                                                                                                                                                                 |
 |-------------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hepatobiliary disorders*                              | Very common | Elevated liver enzymes                                                                                                                                                                                           |
-| Hepatobiliary disorders*                              | Uncommon    | Cholecystitis and cholelithiasis, Hepatic steatosis, Bilirubin increased                                                                                                                                         |
-| Hepatobiliary disorders*                              | Rare        | Hepatitis, Reactivation of hepatitis B 1) , Autoimmune hepatitis 1)                                                                                                                                              |
-| Hepatobiliary disorders*                              | Not known   | Liver failure 1)                                                                                                                                                                                                 |
 | Skin and subcutaneous tissue disorders                | Very common | Rash (including exfoliative rash)                                                                                                                                                                                |
 | Skin and subcutaneous tissue disorders                | Common      | Worsening or new onset of psoriasis (including palmoplantar pustular psoriasis) 1) , Urticaria, Bruising (including purpura), Dermatitis (including eczema), Onychoclasis, Hyperhidrosis, Alopecia 1) , Pruritus |
 | Skin and subcutaneous tissue disorders                | Uncommon    | Night sweats, Scar                                                                                                                                                                                               |
@@ -1794,22 +1778,13 @@ Table 7: Undesirable effects
 | General disorders and administration site conditions* | Very common | Injection site reaction (including injection site erythema)                                                                                                                                                      |
 | General disorders and administration site conditions* | Common      | Chest pain, Oedema, Pyrexia 1)                                                                                                                                                                                   |
 | General disorders and administration site conditions* | Uncommon    | Inflammation                                                                                                                                                                                                     |
+| Investigations*                                       | Common      | Coagulation and bleeding disorders (including activated partial thromboplastin time prolonged), Autoantibody test positive (including double stranded DNA antibody), Blood lactate dehydrogenase increased       |
+| Investigations*                                       | Not known   | Weight increased 2)                                                                                                                                                                                              |
+| Injury, poisoning and procedural complications        | Common      | Impaired healing                                                                                                                                                                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                             | Frequency   | Adverse Reaction                                                                                                                                                                                           |
-|------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Investigations*                                | Common      | Coagulation and bleeding disorders (including activated partial thromboplastin time prolonged), Autoantibody test positive (including double stranded DNA antibody), Blood lactate dehydrogenase increased |
-| Investigations*                                | Not known   | Weight increased 2)                                                                                                                                                                                        |
-| Injury, poisoning and procedural complications | Common      | Impaired healing                                                                                                                                                                                           |
-
-* further information is found elsewhere in sections 4.3, 4.4 and 4.8
-
-** including open label extension studies
-
-1) including spontaneous reporting data
-
-2) The mean weight change from baseline for adalimumab ranged from 0.3 kg to 1.0 kg across adult indications compared to (minus) -0.4 kg to 0.4 kg for placebo over a treatment period of 46 months. Weight increase of 5-6 kg has also been observed in long-term extension studies with mean exposures of approximately 1-2 years without control group, particularly in patients with Crohn's disease and ulcerative colitis. The mechanism behind this effect is unclear but could be associated with the anti-inflammatory effect of adalimumab.
+- 2) The mean weight change from baseline for adalimumab ranged from 0.3 kg to 1.0 kg across adult indications compared to (minus) -0.4 kg to 0.4 kg for placebo over a treatment period of 46 months. Weight increase of 5-6 kg has also been observed in long-term extension studies with mean exposures of approximately 1-2 years without control group, particularly in patients with Crohn's disease and ulcerative colitis. The mechanism behind this effect is unclear but could be associated with the anti-inflammatory effect of adalimumab.
 
 ## Hidradenitis suppurativa
 
@@ -1833,13 +1808,15 @@ The incidence of serious infections was 0.04 per patient year in adalimumab trea
 
 In controlled and open label adult and paediatric studies with adalimumab, serious infections (including fatal infections, which occurred rarely) have been reported, which include reports of tuberculosis (including miliary and extra-pulmonary locations) and invasive opportunistic infections (e.g. disseminated or extrapulmonary histoplasmosis, blastomycosis, coccidioidomycosis, pneumocystis, candidiasis, aspergillosis and listeriosis). Most of the cases of tuberculosis occurred within the first eight months after initiation of therapy and may reflect recrudescence of latent disease.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Malignancies and lymphoproliferative disorders
 
 No malignancies were observed in 249 paediatric patients with an exposure of 655.6 patient years during adalimumab trials in patients with juvenile idiopathic arthritis (polyarticular juvenile idiopathic arthritis and enthesitis-related arthritis). In addition, no malignancies were observed in 192 paediatric patients with an exposure of 498.1 patient years during adalimumab trials in paediatric patients with Crohn's disease. No malignancies were observed in 77 paediatric patients with an exposure of 80.0 patient years during an adalimumab trial in paediatric patients with chronic plaque psoriasis. No malignancies were observed in 93 paediatric patients with an exposure of 65.3 patient years during an adalimumab trial in paediatric patients with ulcerative colitis. No malignancies were observed in 60 paediatric patients with an exposure of 58.4 patient years during an adalimumab trial in paediatric patients with uveitis.
 
-During the controlled portions of pivotal adalimumab trials in adults of at least 12 weeks in duration in patients with moderately to severely active rheumatoid arthritis, AS, axial spondyloarthritis without radiographic evidence of AS, psoriatic arthritis, psoriasis, HS, Crohn's disease, ulcerative colitis and uveitis, malignancies, other than lymphoma and non-melanoma skin cancer, were observed at a rate (95% confidence interval) of 6.8 (4.4, 10.5) per 1,000 patient-years among 5,291 adalimumab-treated patients versus a rate of 6.3 (3.4, 11.8) per 1,000 patient-years among 3,444 control patients (median duration of treatment was 4.0 months for adalimumab and 3.8 months for control-treated patients). The rate (95% confidence interval) of non-melanoma skin cancers was 8.8 (6.0, 13.0) per 1,000 patient-years among adalimumab-treated patients and 3.2 (1.3, 7.6) per 1,000 patient-years among control patients. Of these skin cancers, squamous cell carcinomas occurred at rates (95% confidence interval) of 2.7 (1.4, 5.4) per 1,000 patient-years among adalimumab-treated patients and 0.6 (0.1, 4.5) per 1,000 patient-years among control patients. The rate (95% confidence interval) of lymphomas was 0.7 (0.2, 2.7) per 1,000 patient-years among adalimumab-treated patients and 0.6 (0.1, 4.5) per 1,000 patient-years among control patients.
+During the controlled portions of pivotal adalimumab trials in adults of at least 12 weeks in duration in patients with moderately to severely active rheumatoid arthritis, AS, axial spondyloarthritis without radiographic evidence of AS, psoriatic arthritis, psoriasis, HS, Crohn's disease, ulcerative colitis and uveitis, malignancies, other than lymphoma and non-melanoma skin cancer, were observed at a rate
+
+<div style=\"page-break-after: always\"></div>
+
+(95% confidence interval) of 6.8 (4.4, 10.5) per 1,000 patient-years among 5,291 adalimumab-treated patients versus a rate of 6.3 (3.4, 11.8) per 1,000 patient-years among 3,444 control patients (median duration of treatment was 4.0 months for adalimumab and 3.8 months for control-treated patients). The rate (95% confidence interval) of non-melanoma skin cancers was 8.8 (6.0, 13.0) per 1,000 patient-years among adalimumab-treated patients and 3.2 (1.3, 7.6) per 1,000 patient-years among control patients. Of these skin cancers, squamous cell carcinomas occurred at rates (95% confidence interval) of 2.7 (1.4, 5.4) per 1,000 patient-years among adalimumab-treated patients and 0.6 (0.1, 4.5) per 1,000 patient-years among control patients. The rate (95% confidence interval) of lymphomas was 0.7 (0.2, 2.7) per 1,000 patient-years among adalimumab-treated patients and 0.6 (0.1, 4.5) per 1,000 patient-years among control patients.
 
 When combining controlled portions of these trials and ongoing and completed open label extension studies with a median duration of approximately 3.3 years including 6,427 patients and over 26,439 patient-years of therapy, the observed rate of malignancies, other than lymphoma and nonmelanoma skin cancers is approximately 8.5 per 1,000 patient years. The observed rate of nonmelanoma skin cancers is approximately 9.6 per 1,000 patient years, and the observed rate of lymphomas is approximately 1.3 per 1,000 patient years.
 
@@ -1855,13 +1832,13 @@ Patients had serum samples tested for autoantibodies at multiple time points in 
 
 In controlled Phase 3 trials of adalimumab in patients with rheumatoid arthritis and psoriatic arthritis with a control period duration ranging from 4 to 104 weeks, ALT elevations ≥ 3 x ULN occurred in 3.7% of adalimumab-treated patients and 1.6% of control-treated patients.
 
-<div style=\"page-break-after: always\"></div>
-
 In controlled Phase 3 trials of adalimumab in patients with polyarticular juvenile idiopathic arthritis who were 4 to 17 years and enthesitis-related arthritis who were 6 to 17 years, ALT elevations ≥ 3 x ULN occurred in 6.1% of adalimumab-treated patients and 1.3% of control-treated patients. Most ALT elevations occurred with concomitant methotrexate use. No ALT elevations ≥ 3 x ULN occurred in the Phase 3 trial of adalimumab in patients with polyarticular juvenile idiopathic arthritis who were 2 to &lt; 4 years.
 
 In controlled Phase 3 trials of adalimumab in patients with Crohn's disease and ulcerative colitis with a control period ranging from 4 to 52 weeks. ALT elevations ≥ 3 x ULN occurred in 0.9% of adalimumab-treated patients and 0.9% of controlled-treated patients.
 
 In the Phase 3 trial of adalimumab in patients with paediatric Crohn's disease which evaluated efficacy and safety of two body weight adjusted maintenance dose regimens following body weight adjusted induction therapy up to 52 weeks of treatment, ALT elevations ≥ 3 x ULN occurred in 2.6% (5/192) of patients of whom 4 were receiving concomitant immunosuppressants at baseline.
+
+<div style=\"page-break-after: always\"></div>
 
 In controlled Phase 3 trials of adalimumab in patients with plaque psoriasis with a control period duration ranging from 12 to 24 weeks, ALT elevations ≥ 3 x ULN occurred in 1.8% of adalimumabtreated patients and 1.8% of control-treated patients.
 
@@ -1881,11 +1858,7 @@ In adult Crohn's disease studies, higher incidences of malignant and serious inf
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
-
-<div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -1896,6 +1869,8 @@ No dose-limiting toxicity was observed during clinical trials. The highest dose 
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Immunosuppressants, Tumour necrosis factor alpha (TNF-α) inhibitors, ATC code: L04AB04
+
+<div style=\"page-break-after: always\"></div>
 
 Hukyndra is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -1917,15 +1892,13 @@ A rapid decrease in CRP levels was also observed in patients with polyarticular 
 
 Adalimumab was evaluated in over 3,000 patients in all rheumatoid arthritis clinical trials. The efficacy and safety of adalimumab were assessed in five randomised, double-blind and well-controlled studies. Some patients were treated for up to 120 months duration. Injection site pain of adalimumab 40 mg/0.4 ml was assessed in two randomised, active control, single-blind, two-period crossover studies.
 
-RA study I evaluated 271 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old, had failed therapy with at least one disease-modifying, anti-rheumatic drug and had insufficient efficacy with methotrexate at doses of 12.5 to 25 mg (10 mg if methotrexate-intolerant)
-
-<div style=\"page-break-after: always\"></div>
-
-every week and whose methotrexate dose remained constant at 10 to 25 mg every week. Doses of 20, 40 or 80 mg of adalimumab or placebo were given every other week for 24 weeks.
+RA study I evaluated 271 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old, had failed therapy with at least one disease-modifying, anti-rheumatic drug and had insufficient efficacy with methotrexate at doses of 12.5 to 25 mg (10 mg if methotrexate-intolerant) every week and whose methotrexate dose remained constant at 10 to 25 mg every week. Doses of 20, 40 or 80 mg of adalimumab or placebo were given every other week for 24 weeks.
 
 RA study II evaluated 544 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old and had failed therapy with at least one disease-modifying, anti-rheumatic drugs. Doses of 20 mg or 40 mg of adalimumab were given by subcutaneous injection every other week with placebo on alternative weeks or every week for 26 weeks; placebo was given every week for the same duration. No other disease-modifying anti-rheumatic drugs were allowed.
 
 RA study III evaluated 619 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old, and who had an ineffective response to methotrexate at doses of 12.5 to 25 mg or have been intolerant to 10 mg of methotrexate every week. There were three groups in this study. The first received placebo injections every week for 52 weeks. The second received 20 mg of adalimumab every week for 52 weeks. The third group received 40 mg of adalimumab every other week with placebo injections on alternate weeks. Upon completion of the first 52 weeks, 457 patients enroled in an open-label extension phase in which 40 mg of adalimumab/MTX was administered every other week up to 10 years.
+
+<div style=\"page-break-after: always\"></div>
 
 RA study IV primarily assessed safety in 636 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old. Patients were permitted to be either disease-modifying, antirheumatic drug-naïve or to remain on their pre-existing rheumatologic therapy provided that therapy was stable for a minimum of 28 days. These therapies include methotrexate, leflunomide, hydroxychloroquine, sulfasalazine and/or gold salts. Patients were randomised to 40 mg of adalimumab or placebo every other week for 24 weeks.
 
@@ -1939,8 +1912,6 @@ The primary end point in RA studies I, II and III and the secondary endpoint in 
 
 The percent of adalimumab-treated patients achieving ACR 20, 50 and 70 responses was consistent across RA studies I, II and III. The results for the 40 mg every other week dose are summarised in Table 8.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 8: ACR responses in placebo-controlled trials (percent of patients)
 
 | Response        | RA Study I a **     | RA Study I a **           | RA Study II a **   | RA Study II a **   | RA Study III a **    | RA Study III a **          |
@@ -1950,14 +1921,10 @@ Table 8: ACR responses in placebo-controlled trials (percent of patients)
 | 12 months       | NA                  | NA                        | NA                 | NA                 | 24.0%                | 58.9%                      |
 | ACR 50 6 months | 6.7%                | 52.4%                     | 8.2%               | 22.1%              | 9.5%                 | 39.1%                      |
 | 12 months       | NA                  | NA                        | NA                 | NA                 | 9.5%                 | 41.5%                      |
-| ACR 70 6 months | 3.3%                | 23.8%                     | 1.8%               | 12.4%              | 2.5%                 | 20.8%                      |
+| 6 months        | 3.3%                | 23.8%                     | 1.8%               | 12.4%              | 2.5%                 | 20.8%                      |
 | 12 months       | NA                  | NA                        | NA                 | NA                 | 4.5%                 | 23.2%                      |
 
-a RA study I at 24 weeks, RA study II at 26 weeks, and RA study III at 24 and 52 weeks b  40 mg adalimumab administered every other week
-
-c  MTX = methotrexate
-
-**p&lt;0.01, adalimumab versus placebo
+<div style=\"page-break-after: always\"></div>
 
 In RA studies I-IV, all individual components of the ACR response criteria (number of tender and swollen joints, physician and patient assessment of disease activity and pain, disability index (HAQ) scores and CRP (mg/dl) values) improved at 24 or 26 weeks compared to placebo. In RA study III, these improvements were maintained throughout 52 weeks.
 
@@ -1969,29 +1936,31 @@ In RA studies I-IV, adalimumab-treated patients achieved statistically significa
 
 In RA study V with early rheumatoid arthritis patients who were methotrexate naïve, combination therapy with adalimumab and methotrexate led to faster and significantly greater ACR responses than methotrexate monotherapy and adalimumab monotherapy at Week 52 and responses were sustained at Week 104 (see Table 9).
 
-<div style=\"page-break-after: always\"></div>
-
 Table 9: ACR responses in RA study V (percent of patients)
 
-| Response   | MTX n=257   | Adalimumab n=274   | Adalimumab/MTX n=268   | p-value a   | p-value b   | p-value c   |
+| Response   | MTX n=257   | Adalimumab n=274   | Adalimumab/MTX n=268   | p-value a   | p-value b   |   p-value c |
 |------------|-------------|--------------------|------------------------|-------------|-------------|-------------|
 | ACR 20     |             |                    |                        |             |             |             |
-| Week 52    | 62.6%       | 54.4%              | 72.8%                  | 0.013       | < 0.001     | 0.043       |
-| Week 104   | 56.0%       | 49.3%              | 69.4%                  | 0.002       | < 0.001     | 0.140       |
+| Week 52    | 62.6%       | 54.4%              | 72.8%                  | 0.013       | < 0.001     |       0.043 |
+| Week 104   | 56.0%       | 49.3%              | 69.4%                  | 0.002       | < 0.001     |       0.140 |
 | ACR 50     |             |                    |                        |             |             |             |
-| Week 52    | 45.9%       | 41.2%              | 61.6%                  | < 0.001     | < 0.001     | 0.317       |
-| Week 104   | 42.8%       | 36.9%              | 59.0%                  | < 0.001     | < 0.001     | 0.162       |
+| Week 52    | 45.9%       | 41.2%              | 61.6%                  | < 0.001     | < 0.001     |       0.317 |
+| Week 104   | 42.8%       | 36.9%              | 59.0%                  | < 0.001     | < 0.001     |       0.162 |
 | ACR 70     |             |                    |                        |             |             |             |
-| Week 52    | 27.2%       | 25.9%              | 45.5%                  | < 0.001     | < 0.001     | 0.656       |
-| Week 104   | 28.4%       | 28.1%              | 46.6%                  | < 0.001     | < 0.001     | 0.864       |
+| Week 52    | 27.2%       | 25.9%              | 45.5%                  | < 0.001     | < 0.001     |       0.656 |
+| Week 104   | 28.4%       | 28.1%              | 46.6%                  | < 0.001     | < 0.001     |       0.864 |
 
 a  p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test.
 
-b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test c  p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
+b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
+
+c  p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
 
 In the open-label extension for RA study V, ACR response rates were maintained when followed for up to 10 years. Of 542 patients who were randomised to adalimumab 40 mg every other week, 170 patients continued on adalimumab 40 mg every other week for 10 years. Among those, 154 patients (90.6%) had ACR 20 responses; 127 patients (74.7%) had ACR 50 responses; and 102 patients (60.0%) had ACR 70 responses.
 
 At Week 52, 42.9% of patients who received adalimumab/methotrexate combination therapy achieved clinical remission (DAS28 (CRP) &lt; 2.6) compared to 20.6% of patients receiving methotrexate monotherapy and 23.4% of patients receiving adalimumab monotherapy. Adalimumab/methotrexate combination therapy was clinically and statistically superior to methotrexate (p &lt; 0.001) and adalimumab monotherapy (p &lt; 0.001) in achieving a low disease state in patients with recently diagnosed moderate to severe rheumatoid arthritis. The response for the two monotherapy arms was similar (p = 0.447). Of 342 subjects originally randomised to adalimumab monotherapy or adalimumab/methotrexate combination therapy who entered the open-label extension study, 171 subjects completed 10 years of adalimumab treatment. Among those, 109 subjects (63.7%) were reported to be in remission at 10 years.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Radiographic response
 
@@ -1999,15 +1968,13 @@ In RA study III, where adalimumab-treated patients had a mean duration of rheuma
 
 In the open-label extension of RA Study III, the reduction in rate of progression of structural damage is maintained for 8 and 10 years in a subset of patients. At 8 years, 81 of 207 patients originally treated with 40 mg adalimumab every other week were evaluated radiographically. Among those, 48 patients showed no progression of structural damage defined by a change from baseline in the mTSS of 0.5 or less. At 10 years, 79 of 207 patients originally treated with 40 mg adalimumab every other week were evaluated radiographically. Among those, 40 patients showed no progression of structural damage defined by a change from baseline in the mTSS of 0.5 or less.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 10: Radiographic mean changes over 12 months in RA study III
 
 |                   |   Placebo/ MTX a |   Adalimumab/MTX 40 mg every other week | Placebo/MTX- Adalimumab/MTX (95% Confidence Interval b )   | p-value   |
 |-------------------|------------------|-----------------------------------------|------------------------------------------------------------|-----------|
 | Total Sharp Score |              2.7 |                                     0.1 | 2.6 (1.4, 3.8)                                             | < 0.001 c |
-| Erosion score     |              1.6 |                                     0   | 1.6 (0.9, 2.2)                                             | < 0.001   |
-| JSN d score       |              1   |                                     0.1 | 0.9 (0.3, 1.4)                                             | 0.002     |
+| Erosion score     |              1.6 |                                     0.0 | 1.6 (0.9, 2.2)                                             | < 0.001   |
+| JSN d score       |              1.0 |                                     0.1 | 0.9 (0.3, 1.4)                                             | 0.002     |
 
 In RA study V, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (see Table 11).
 
@@ -2015,25 +1982,19 @@ Table 11: Radiographic mean changes at Week 52 in RA study V
 
 |                   | MTX n=257 (95% confidence interval)   | Adalimumab n=274 (95% confidence interval)   | Adalimumab/MTX n=268 (95% confidence interval)   | p-value a   |   p-value b | p-value c   |
 |-------------------|---------------------------------------|----------------------------------------------|--------------------------------------------------|-------------|-------------|-------------|
-| Total Sharp Score | 5.7 (4.2-7.3)                         | 3.0 (1.7-4.3)                                | 1.3 (0.5-2.1)                                    | < 0.001     |      0.002  | < 0.001     |
+| Total Sharp Score | 5.7 (4.2-7.3)                         | 3.0 (1.7-4.3)                                | 1.3 (0.5-2.1)                                    | < 0.001     |      0.0020 | < 0.001     |
 | Erosion score     | 3.7 (2.7-4.7)                         | 1.7 (1.0-2.4)                                | 0.8 (0.4-1.2)                                    | < 0.001     |      0.0082 | < 0.001     |
 | JSN score         | 2.0 (1.2-2.8)                         | 1.3 (0.5-2.1)                                | 0.5 (0-1.0)                                      | < 0.001     |      0.0037 | 0.151       |
 
-a  p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test.
-
-b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test c  p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
-
 Following 52 weeks and 104 weeks of treatment, the percentage of patients without progression (change from baseline in modified Total Sharp Score ≤ 0.5) was significantly higher with adalimumab/methotrexate combination therapy (63.8% and 61.2% respectively) compared to methotrexate monotherapy (37.4% and 33.5% respectively, p &lt; 0.001) and adalimumab monotherapy (50.7%, p &lt; 0.002 and 44.5%, p &lt; 0.001 respectively).
+
+<div style=\"page-break-after: always\"></div>
 
 In the open-label extension of RA study V, the mean change from baseline at Year 10 in the modified Total Sharp Score was 10.8, 9.2 and 3.9 in patients originally randomised to methotrexate monotherapy, adalimumab monotherapy and adalimumab/methotrexate combination therapy, respectively. The corresponding proportions of patients with no radiographic progression were 31.3%, 23.7% and 36.7% respectively.
 
 ## Quality of life and physical function
 
-Health-related quality of life and physical function were assessed using the disability index of the Health Assessment Questionnaire (HAQ) in the four original adequate and well-controlled trials, which was a pre-specified primary endpoint at Week 52 in RA study III. All doses/schedules of adalimumab in all four studies showed statistically significantly greater improvement in the disability index of the HAQ from baseline to Month 6 compared to placebo and in RA study III the same was seen at Week 52. Results from the Short Form Health Survey (SF 36) for all doses/schedules of adalimumab in all four studies support these findings, with statistically significant physical component summary (PCS) scores, as well as statistically significant pain and vitality domain scores for the 40 mg every other week dose. A statistically significant decrease in fatigue as measured by functional
-
-<div style=\"page-break-after: always\"></div>
-
-assessment of chronic illness therapy (FACIT) scores was seen in all three studies in which it was assessed (RA studies I, III, IV).
+Health-related quality of life and physical function were assessed using the disability index of the Health Assessment Questionnaire (HAQ) in the four original adequate and well-controlled trials, which was a pre-specified primary endpoint at Week 52 in RA study III. All doses/schedules of adalimumab in all four studies showed statistically significantly greater improvement in the disability index of the HAQ from baseline to Month 6 compared to placebo and in RA study III the same was seen at Week 52. Results from the Short Form Health Survey (SF 36) for all doses/schedules of adalimumab in all four studies support these findings, with statistically significant physical component summary (PCS) scores, as well as statistically significant pain and vitality domain scores for the 40 mg every other week dose. A statistically significant decrease in fatigue as measured by functional assessment of chronic illness therapy (FACIT) scores was seen in all three studies in which it was assessed (RA studies I, III, IV).
 
 In RA study III, most subjects who achieved improvement in physical function and continued treatment maintained improvement through Week 520 (120 months) of open-label treatment. Improvement in quality of life was measured up to Week 156 (36 months) and improvement was maintained through that time.
 
@@ -2051,34 +2012,30 @@ Adalimumab 40 mg every other week was assessed in 393 patients in two randomised
 
 In the larger AS study I with 315 patients, results showed statistically significant improvement of the signs and symptoms of AS in patients treated with adalimumab compared to placebo. Significant response was first observed at Week 2 and maintained through 24 weeks (Table 12).
 
-Table 12: Efficacy responses in placebo-controlled AS study - Study I Reduction of signs and symptoms
-
-| Response   | Placebo N=107   | Adalimumab N=208   |
-|------------|-----------------|--------------------|
-| ASAS a 20  |                 |                    |
-| Week 2     | 16%             | 42%***             |
-| Week 12    | 21%             | 58%***             |
-| Week 24    | 19%             | 51%***             |
-| ASAS 50    |                 |                    |
-| Week 2     | 3%              | 16%***             |
-| Week 12    | 10%             | 38%***             |
-| Week 24    | 11%             | 35%***             |
-| ASAS 70    |                 |                    |
-| Week 2     | 0%              | 7%**               |
-| Week 12    | 5%              | 23%***             |
-| Week 24    | 8%              | 24%***             |
-
 <div style=\"page-break-after: always\"></div>
 
-| BASDAI b 50   |     |        |
-|---------------|-----|--------|
-| Week 2        | 4%  | 20%*** |
-| Week 12       | 16% | 45%*** |
-| Week 24       | 15% | 42%*** |
+Table 12: Efficacy responses in placebo-controlled AS study - Study I Reduction of signs and symptoms
 
-***,** Statistically significant at p &lt; 0.001, &lt; 0.01 for all comparisons between adalimumab and placebo at Weeks 2, 12 and 24
+| Response    | Placebo N=107   | Adalimumab N=208   |
+|-------------|-----------------|--------------------|
+| ASAS a 20   |                 |                    |
+| Week 2      | 16%             | 42%***             |
+| Week 12     | 21%             | 58%***             |
+| Week 24     | 19%             | 51%***             |
+| ASAS 50     |                 |                    |
+| Week 2      | 3%              | 16%***             |
+| Week 12     | 10%             | 38%***             |
+| Week 24     | 11%             | 35%***             |
+| ASAS 70     |                 |                    |
+| Week 2      | 0%              | 7%**               |
+| Week 12     | 5%              | 23%***             |
+| Week 24     | 8%              | 24%***             |
+| BASDAI b 50 |                 |                    |
+| Week 2      | 4%              | 20%***             |
+| Week 12     | 16%             | 45%***             |
+| Week 24     | 15%             | 42%***             |
 
-a  Assessments in AS
+- a  Assessments in AS
 
 b Bath Ankylosing Spondylitis Disease Activity Index
 
@@ -2096,6 +2053,8 @@ In Study nr-axSpA I, adalimumab 40 mg every other week was assessed in 185 patie
 
 Thirty-three (18%) patients were treated concomitantly with disease modifying anti-rheumatic drugs, and 146 (79%) patients with NSAIDs at baseline. The double-blind period was followed by an openlabel period during which patients receive adalimumab 40 mg every other week subcutaneously for up to an additional 144 weeks. Week 12 results showed statistically significant improvement of the signs and symptoms of active nr-axSpA in patients treated with adalimumab compared to placebo (Table 13).
 
+<div style=\"page-break-after: always\"></div>
+
 Table 13: Efficacy response in placebo-controlled study nr-axSpA I
 
 | Double-Blind Response at Week 12   | Placebo N=94   | Adalimumab N=91   |
@@ -2111,10 +2070,6 @@ Table 13: Efficacy response in placebo-controlled study nr-axSpA I
 | SPARCC h MRI Sacroiliac Joints d,i | -0.6           | -3.2**            |
 | SPARCC MRI Spine d,j               | -0.2           | -1.8**            |
 
-<div style=\"page-break-after: always\"></div>
-
-g  n=73 placebo and n=70 adalimumab h Spondyloarthritis Research Consortium of Canada i  n=84 placebo and adalimumab j  n=82 placebo and n=85 adalimumab ***, **, * Statistically significant at p &lt; 0.001, &lt; 0.01, and &lt; 0.05, respectively, for all comparisons between adalimumab and placebo.
-
 In the open-label extension, improvement in the signs and symptoms was maintained with adalimumab therapy through Week 156.
 
 ## Inhibition of inflammation
@@ -2129,11 +2084,13 @@ Health-related quality of life and physical function were assessed using the HAQ
 
 673 patients with active nr-axSpA (mean baseline disease activity [BASDAI] was 7.0) who had an inadequate response to ≥ 2 NSAIDs, or an intolerance to or a contraindication for NSAIDs enroled into the open-label period of Study nr-axSpA II during which they received 40 mg adalimumab every other week for 28 weeks.
 
-These patients also had objective evidence of inflammation in the sacroiliac joints or spine on MRI or elevated hs-CRP. Patients who achieved sustained remission for at least 12 weeks (N=305) (ASDAS &lt; 1.3 at Weeks 16, 20, 24, and 28) during the open-label period were then randomised to receive either continued treatment with 40 mg adalimumab every other week (N=152) or placebo (N=153) for an additional 40 weeks in a double-blind, placebo-controlled period (total study duration 68 weeks). Subjects who flared during the double-blind period were allowed 40 mg adalimumab every other week rescue therapy for at least 12 weeks.
-
-The primary efficacy endpoint was the proportion of patients with no flare by Week 68 of the study. Flare was defined as ASDAS ≥ 2.1 at two consecutive visits four weeks apart. A greater proportion of patients on adalimumab had no disease flare during the double-blind period, when compared with those on placebo (70.4% vs. 47.1%, p &lt; 0.001) (Figure 1).
+These patients also had objective evidence of inflammation in the sacroiliac joints or spine on MRI or elevated hs-CRP. Patients who achieved sustained remission for at least 12 weeks (N=305) (ASDAS &lt; 1.3 at Weeks 16, 20, 24, and 28) during the open-label period were then randomised to receive either continued treatment with 40 mg adalimumab every other week (N=152) or placebo (N=153) for an additional 40 weeks in a double-blind, placebo-controlled period (total study duration 68 weeks).
 
 <div style=\"page-break-after: always\"></div>
+
+Subjects who flared during the double-blind period were allowed 40 mg adalimumab every other week rescue therapy for at least 12 weeks.
+
+The primary efficacy endpoint was the proportion of patients with no flare by Week 68 of the study. Flare was defined as ASDAS ≥ 2.1 at two consecutive visits four weeks apart. A greater proportion of patients on adalimumab had no disease flare during the double-blind period, when compared with those on placebo (70.4% vs. 47.1%, p &lt; 0.001) (Figure 1).
 
 Figure 1: Kaplan-Meier curves summarising time to flare in study nr-axSpA II
 
@@ -2155,11 +2112,11 @@ Table 14: Efficacy response in placebo-controlled period for study nr-axSpA II
 | ASDAS c Inactive Disease           | 33.3%           | 57.2%***           |
 | Partial Flare d                    | 64.1%           | 40.8%***           |
 
+<div style=\"page-break-after: always\"></div>
+
 ## Psoriatic arthritis
 
 Adalimumab, 40 mg every other week, was studied in patients with moderately to severely active psoriatic arthritis in two placebo-controlled studies, PsA studies I and II. PsA study I with 24 week duration, treated 313 adult patients who had an inadequate response to non-steroidal anti-inflammatory drug therapy and of these, approximately 50% were taking methotrexate. PsA study II with 12-week duration, treated 100 patients who had an inadequate response to DMARD therapy. Upon completion of both studies, 383 patients enroled in an open-label extension study, in which 40 mg adalimumab was administered every other week.
-
-<div style=\"page-break-after: always\"></div>
 
 There is insufficient evidence of the efficacy of adalimumab in patients with AS-like psoriatic arthropathy due to the small number of patients studied.
 
@@ -2196,11 +2153,9 @@ In subjects treated with adalimumab with no radiographic progression from baseli
 
 The safety and efficacy of adalimumab were studied in adult patients with chronic plaque psoriasis (≥ 10% BSA involvement and Psoriasis Area and Severity Index (PASI) ≥ 12 or ≥ 10) who were candidates for systemic therapy or phototherapy in randomised, double-blind studies. 73% of patients enroled in Psoriasis Studies I and II had received prior systemic therapy or phototherapy. The safety and efficacy of adalimumab were also studied in adult patients with moderate to severe chronic plaque psoriasis with concomitant hand and/or foot psoriasis who were candidates for systemic therapy in a randomised double-blind study (Psoriasis Study III).
 
-Psoriasis Study I (REVEAL) evaluated 1,212 patients within three treatment periods. In period A, patients received placebo or adalimumab at an initial dose of 80 mg followed by 40 mg every other week starting one week after the initial dose. After 16 weeks of therapy, patients who achieved at least a PASI 75 response (PASI score improvement of at least 75% relative to baseline), entered period B and received open-label 40 mg adalimumab every other week. Patients who maintained ≥ PASI 75 response at Week 33 and were originally randomised to active therapy in Period A, were rerandomised in period C to receive 40 mg adalimumab every other week or placebo for an additional 19 weeks. Across all treatment groups, the mean baseline PASI score was 18.9 and the baseline
-
 <div style=\"page-break-after: always\"></div>
 
-Physician's Global Assessment (PGA) score ranged from 'moderate' (53% of subjects included) to 'severe' (41%) to 'very severe' (6%).
+Psoriasis Study I (REVEAL) evaluated 1,212 patients within three treatment periods. In period A, patients received placebo or adalimumab at an initial dose of 80 mg followed by 40 mg every other week starting one week after the initial dose. After 16 weeks of therapy, patients who achieved at least a PASI 75 response (PASI score improvement of at least 75% relative to baseline), entered period B and received open-label 40 mg adalimumab every other week. Patients who maintained ≥ PASI 75 response at Week 33 and were originally randomised to active therapy in Period A, were rerandomised in period C to receive 40 mg adalimumab every other week or placebo for an additional 19 weeks. Across all treatment groups, the mean baseline PASI score was 18.9 and the baseline Physician's Global Assessment (PGA) score ranged from 'moderate' (53% of subjects included) to 'severe' (41%) to 'very severe' (6%).
 
 Psoriasis Study II (CHAMPION) compared the efficacy and safety of adalimumab versus methotrexate and placebo in 271 patients. Patients received placebo, an initial dose of MTX 7.5 mg and thereafter dose increases up to Week 12, with a maximum dose of 25 mg or an initial dose of 80 mg adalimumab followed by 40 mg every other week (starting one week after the initial dose) for 16 weeks. There are no data available comparing adalimumab and MTX beyond 16 weeks of therapy. Patients receiving MTX who achieved a ≥ PASI 50 response at Week 8 and/or 12 did not receive further dose increases. Across all treatment groups, the mean baseline PASI score was 19.7 and the baseline PGA score ranged from 'mild' (&lt; 1%) to 'moderate' (48%) to 'severe' (46%) to 'very severe' (6%).
 
@@ -2210,11 +2165,12 @@ In Psoriasis Studies I and II, a primary endpoint was the proportion of patients
 
 Table 16: Ps study I (REVEAL) - Efficacy results at 16 weeks
 
-|                    | Placebo N=398 n (%)   | Adalimumab 40 mg eow N=814 n (%)   |
-|--------------------|-----------------------|------------------------------------|
-|  PASI 75 a        | 26 (6.5)              | 578 (70.9) b                       |
-| PASI 100           | 3 (0.8)               | 163 (20.0) b                       |
-| PGA: Clear/minimal | 17 (4.3)              | 506 (62.2) b                       |
+|                                                                                                                            | Placebo N=398 n (%)                                                                                                        | Adalimumab 40 mg eow N=814 n (%)                                                                                           |
+|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+|  PASI 75 a                                                                                                                | 26 (6.5)                                                                                                                   | 578 (70.9) b                                                                                                               |
+| PASI 100                                                                                                                   | 3 (0.8)                                                                                                                    | 163 (20.0) b                                                                                                               |
+| PGA: Clear/minimal                                                                                                         | 17 (4.3)                                                                                                                   | 506 (62.2) b                                                                                                               |
+| a Percent of patients achieving PASI75 response was calculated as centre-adjusted rate b p < 0.001, adalimumab vs. placebo | a Percent of patients achieving PASI75 response was calculated as centre-adjusted rate b p < 0.001, adalimumab vs. placebo | a Percent of patients achieving PASI75 response was calculated as centre-adjusted rate b p < 0.001, adalimumab vs. placebo |
 
 Table 17: Ps study II (CHAMPION) - Efficacy results at 16 weeks
 
@@ -2224,13 +2180,13 @@ Table 17: Ps study II (CHAMPION) - Efficacy results at 16 weeks
 | PASI 100           | 1 (1.9)              | 8 (7.3)           | 18 (16.7) c,d                      |
 | PGA: Clear/minimal | 6 (11.3)             | 33 (30.0)         | 79 (73.1) a,b                      |
 
-In Psoriasis Study I, 28% of patients who were PASI 75 responders and were re-randomised to placebo at Week 33 compared to 5% continuing on adalimumab, p &lt; 0.001, experienced 'loss of adequate response' (PASI score after Week 33 and on or before Week 52 that resulted in a &lt; PASI 50 response relative to baseline with a minimum of a 6-point increase in PASI score relative to Week 33). Of the patients who lost adequate response after re-randomisation to placebo who then enroled into the open-label extension trial, 38% (25/66) and 55% (36/66) regained PASI 75 response after 12 and 24 weeks of re-treatment, respectively.
-
-A total of 233 PASI 75 responders at Week 16 and Week 33 received continuous adalimumab therapy for 52 weeks in Psoriasis Study I, and continued adalimumab in the open-label extension trial. PASI 75 and PGA of clear or minimal response rates in these patients were 74.7% and 59.0%, respectively,
+In Psoriasis Study I, 28% of patients who were PASI 75 responders and were re-randomised to placebo at Week 33 compared to 5% continuing on adalimumab, p &lt; 0.001, experienced 'loss of adequate response' (PASI score after Week 33 and on or before Week 52 that resulted in a &lt; PASI 50
 
 <div style=\"page-break-after: always\"></div>
 
-after an additional 108 weeks of open-label therapy (total of 160 weeks). In an analysis in which all patients who dropped out of the study for adverse events or lack of efficacy, or who dose-escalated, were considered non-responders, PASI 75 and PGA of clear or minimal response rates in these patients were 69.6% and 55.7%, respectively, after an additional 108 weeks of open-label therapy (total of 160 weeks).
+response relative to baseline with a minimum of a 6-point increase in PASI score relative to Week 33). Of the patients who lost adequate response after re-randomisation to placebo who then enroled into the open-label extension trial, 38% (25/66) and 55% (36/66) regained PASI 75 response after 12 and 24 weeks of re-treatment, respectively.
+
+A total of 233 PASI 75 responders at Week 16 and Week 33 received continuous adalimumab therapy for 52 weeks in Psoriasis Study I, and continued adalimumab in the open-label extension trial. PASI 75 and PGA of clear or minimal response rates in these patients were 74.7% and 59.0%, respectively, after an additional 108 weeks of open-label therapy (total of 160 weeks). In an analysis in which all patients who dropped out of the study for adverse events or lack of efficacy, or who dose-escalated, were considered non-responders, PASI 75 and PGA of clear or minimal response rates in these patients were 69.6% and 55.7%, respectively, after an additional 108 weeks of open-label therapy (total of 160 weeks).
 
 A total of 347 stable responders participated in a withdrawal and retreatment evaluation in an openlabel extension study. During the withdrawal period, symptoms of psoriasis returned over time with a median time to relapse (decline to PGA 'moderate' or worse) of approximately 5 months. None of these patients experienced rebound during the withdrawal period. A total of 76.5% (218/285) of patients who entered the retreatment period had a response of PGA 'clear' or 'minimal' after 16 weeks of retreatment, irrespective of whether they relapsed during withdrawal (69.1%[123/178] and 88.8% [95/107] for patients who relapsed and who did not relapse during the withdrawal period, respectively). A similar safety profile was observed during retreatment as before withdrawal.
 
@@ -2242,18 +2198,19 @@ Psoriasis Study III (REACH) compared the efficacy and safety of adalimumab versu
 
 Psoriasis Study IV compared efficacy and safety of adalimumab versus placebo in 217 adult patients with moderate to severe nail psoriasis. Patients received an initial dose of 80 mg adalimumab followed by 40 mg every other week (starting one week after the initial dose) or placebo for 26 weeks followed by open-label adalimumab treatment for an additional 26 weeks. Nail psoriasis assessments included the Modified Nail Psoriasis Severity Index (mNAPSI), the Physician's Global Assessment of Fingernail Psoriasis (PGA-F) and the Nail Psoriasis Severity Index (NAPSI) (see Table 18). Adalimumab demonstrated a treatment benefit in nail psoriasis patients with different extents of skin involvement (BSA ≥ 10% (60% of patients) and BSA &lt; 10% and ≥ 5% (40% of patients)).
 
+<div style=\"page-break-after: always\"></div>
+
 Table 18: Ps study IV - Efficacy results at 16, 26 and 52 weeks
 
-| Endpoint                                          | Week 16 Placebo-Controlled   | Week 16 Placebo-Controlled   | Week 26 Placebo-Controlled   | Week 26 Placebo-Controlled   | Week 52 Open-label        |
-|---------------------------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|---------------------------|
-|                                                   | Placebo N=108                | Adalimumab 40 mg eow N=109   | Placebo N=108                | Adalimumab 40 mg eow N=109   | Adalimumab 40 mg eow N=80 |
-| ≥ mNAPSI 75 (%)                                   | 2.9                          | 26.0 a                       | 3.4                          | 46.6 a                       | 65.0                      |
-| PGA-F clear/minimal and ≥ 2-grade improvement (%) | 2.9                          | 29.7 a                       | 6.9                          | 48.9 a                       | 61.3                      |
-| Percent Change in Total Fingernail NAPSI (%)      | -7.8                         | -44.2 a                      | -11.5                        | -56.2 a                      | -72.2                     |
+| Endpoint                                          | Week 16 Placebo-Controlled          | Week 16 Placebo-Controlled          | Week 26 Placebo-Controlled          | Week 26 Placebo-Controlled          | Week 52 Open-label                  |
+|---------------------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
+|                                                   | Placebo N=108                       | Adalimumab 40 mg eow N=109          | Placebo N=108                       | Adalimumab 40 mg eow N=109          | Adalimumab 40 mg eow N=80           |
+| ≥ mNAPSI 75 (%)                                   | 2.9                                 | 26.0 a                              | 3.4                                 | 46.6 a                              | 65.0                                |
+| PGA-F clear/minimal and ≥ 2-grade improvement (%) | 2.9                                 | 29.7 a                              | 6.9                                 | 48.9 a                              | 61.3                                |
+| Percent Change in Total Fingernail NAPSI (%)      | -7.8                                | -44.2 a                             | -11.5                               | -56.2 a                             | -72.2                               |
+| a p < 0.001, adalimumab vs. placebo               | a p < 0.001, adalimumab vs. placebo | a p < 0.001, adalimumab vs. placebo | a p < 0.001, adalimumab vs. placebo | a p < 0.001, adalimumab vs. placebo | a p < 0.001, adalimumab vs. placebo |
 
 Adalimumab-treated patients showed statistically significant improvements at Week 26 compared with placebo in the DLQI.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Hidradenitis suppurativa
 
@@ -2271,6 +2228,8 @@ Reduction of inflammatory lesions and prevention of worsening of abscesses and d
 
 At Week 12, a significantly higher proportion of patients treated with adalimumab versus placebo achieved HiSCR. At Week 12, a significantly higher proportion of patients in Study HS-II experienced a clinically relevant decrease in HS-related skin pain (see Table 19). Patients treated with adalimumab had significantly reduced risk of disease flare during the initial 12 weeks of treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 19: Efficacy results at 12 weeks, HS studies I and II
 
 |                                                      | HS Study I         | HS Study I              | HS Study II      | HS Study II             |
@@ -2279,15 +2238,7 @@ Table 19: Efficacy results at 12 weeks, HS studies I and II
 | Hidradenitis Suppurativa Clinical Response (HiSCR) a | N = 154 40 (26.0%) | N = 153 64 (41.8%)*     | N=163 45 (27.6%) | N=163 96 (58.9%)***     |
 | ≥ 30% Reduction in Skin Pain b                       | N = 109 27 (24.8%) | N = 122 34 (27.9%)      | N=111 23 (20.7%) | N=105 48 (45.7%)***     |
 
-* p &lt; 0.05, ***p &lt; 0.001, adalimumab versus placebo a Among all randomised patients.
-
-b Among patients with baseline HS-related skin pain assessment ≥ 3, based on Numeric Rating Scale 0 - 10; 0 = no skin pain, 10 = skin pain as bad as you can imagine.
-
-Treatment with adalimumab 40 mg every week significantly reduced the risk of worsening of abscesses and draining fistulas. Approximately twice the proportion of patients in the placebo group in
-
-<div style=\"page-break-after: always\"></div>
-
-the first 12 weeks of Studies HS-I and HS-II, compared with those in the adalimumab group experienced worsening of abscesses (23.0% vs 11.4%, respectively) and draining fistulas (30.0% vs 13.9%, respectively).
+Treatment with adalimumab 40 mg every week significantly reduced the risk of worsening of abscesses and draining fistulas. Approximately twice the proportion of patients in the placebo group in the first 12 weeks of Studies HS-I and HS-II, compared with those in the adalimumab group experienced worsening of abscesses (23.0% vs 11.4%, respectively) and draining fistulas (30.0% vs 13.9%, respectively).
 
 Greater improvements at Week 12 from baseline compared to placebo were demonstrated in skinspecific health-related quality of life, as measured by the Dermatology Life Quality Index (DLQI; Studies HS-I and HS-II), patient global satisfaction with medicinal product treatment as measured by the Treatment Satisfaction Questionnaire - medicinal products (TSQM; Studies HS-I and HS-II), and physical health as measured by the physical component summary score of the SF-36 (Study HS-I).
 
@@ -2308,11 +2259,11 @@ Among patients whose adalimumab treatment was withdrawn at Week 12 in Studies HS
 
 The safety and efficacy of adalimumab were assessed in over 1,500 patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index (CDAI) ≥ 220 and ≤ 450) in randomised, double-blind, placebo-controlled studies. Concomitant stable doses of aminosalicylates, corticosteroids, and/or immunomodulatory agents were permitted and 80% of patients continued to receive at least one of these medicinal poroducts.
 
+<div style=\"page-break-after: always\"></div>
+
 Induction of clinical remission (defined as CDAI &lt; 150) was evaluated in two studies, CD Study I (CLASSIC I) and CD Study II (GAIN). In CD Study I, 299 TNF-antagonist naive patients were randomised to one of four treatment groups; placebo at Weeks 0 and 2, 160 mg adalimumab at Week 0 and 80 mg at Week 2, 80 mg at Week 0 and 40 mg at Week 2, and 40 mg at Week 0 and 20 mg at Week 2. In CD Study II, 325 patients who had lost response or were intolerant to infliximab were randomised to receive either 160 mg adalimumab at Week 0 and 80 mg at Week 2 or placebo at Weeks 0 and 2. The primary non-responders were excluded from the studies and therefore these patients were not further evaluated.
 
 Maintenance of clinical remission was evaluated in CD study III (CHARM). In CD Study III, 854 patients received open-label 80 mg at Week 0 and 40 mg at Week 2. At Week 4 patients were randomised to 40 mg every other week, 40 mg every week, or placebo with a total study duration of 56 weeks. Patients in clinical response (decrease in CDAI ≥ 70) at Week 4 were stratified and analysed separately from those not in clinical response at Week 4. Corticosteroid taper was permitted after Week 8.
-
-<div style=\"page-break-after: always\"></div>
 
 CD study I and CD study II induction of remission and response rates are presented in Table 21.
 
@@ -2339,20 +2290,22 @@ Disease-related hospitalisations and surgeries were statistically significantly 
 
 Table 22: Maintenance of clinical remission and response (percent of patients)
 
-|                                                    | Placebo   | Adalimumab 40 mg every other week   | Adalimumab 40 mg every week   |
-|----------------------------------------------------|-----------|-------------------------------------|-------------------------------|
-| Week 26                                            | N=170     | N=172                               | N=157                         |
-| Clinical remission                                 | 17%       | 40%*                                | 47%*                          |
-| Clinical response (CR-100)                         | 27%       | 52%*                                | 52%*                          |
-| Patients in steroid-free remission for ≥ 90 days a | 3% (2/66) | 19% (11/58)**                       | 15% (11/74)**                 |
-| Week 56                                            | N=170     | N=172                               | N=157                         |
-| Clinical remission                                 | 12%       | 36%*                                | 41%*                          |
-| Clinical response (CR-100)                         | 17%       | 41%*                                | 48%*                          |
-| Patients in steroid-free remission for ≥ 90 days a | 5% (3/66) | 29% (17/58)*                        | 20% (15/74)**                 |
-
-Among patients who were not in response at Week 4, 43% of adalimumab maintenance patients responded by Week 12 compared to 30% of placebo maintenance patients. These results suggest that some patients who have not responded by Week 4 benefit from continued maintenance therapy through Week 12. Therapy continued beyond 12 weeks did not result in significantly more responses (see section 4.2).
+|                            | Placebo   | Adalimumab 40 mg every other week   | Adalimumab 40 mg every week   |
+|----------------------------|-----------|-------------------------------------|-------------------------------|
+| Week 26                    | N=170     | N=172                               | N=157                         |
+| Clinical remission         | 17%       | 40%*                                | 47%*                          |
+| Clinical response (CR-100) | 27%       | 52%*                                | 52%*                          |
 
 <div style=\"page-break-after: always\"></div>
+
+| Patients in steroid-free remission for ≥ 90 days a   | 3% (2/66)   | 19% (11/58)**   | 15% (11/74)**   |
+|------------------------------------------------------|-------------|-----------------|-----------------|
+| Week 56                                              | N=170       | N=172           | N=157           |
+| Clinical remission                                   | 12%         | 36%*            | 41%*            |
+| Clinical response (CR-100)                           | 17%         | 41%*            | 48%*            |
+| Patients in steroid-free remission for ≥ 90 days a   | 5% (3/66)   | 29% (17/58)*    | 20% (15/74)**   |
+
+Among patients who were not in response at Week 4, 43% of adalimumab maintenance patients responded by Week 12 compared to 30% of placebo maintenance patients. These results suggest that some patients who have not responded by Week 4 benefit from continued maintenance therapy through Week 12. Therapy continued beyond 12 weeks did not result in significantly more responses (see section 4.2).
 
 117/276 patients from CD study I and 272/777 patients from CD studies II and III were followed through at least 3 years of open-label adalimumab therapy. 88 and 189 patients, respectively, continued to be in clinical remission. Clinical response (CR-100) was maintained in 102 and 233 patients, respectively.
 
@@ -2374,18 +2327,22 @@ Results from the overall UC-II study population are shown in Table 23.
 
 Table 23: Response, remission and mucosal healing in study UC-II (percent of patients)
 
-|                                        | Placebo   | Adalimumab 40 mg eow   |
-|----------------------------------------|-----------|------------------------|
-| Week 52                                | N=246     | N=248                  |
-| Clinical response                      | 18%       | 30% *                  |
-| Clinical remission                     | 9%        | 17% *                  |
-| Mucosal healing                        | 15%       | 25% *                  |
-| Steroid-free remission for ≥ 90 days a | 6%        | 13% *                  |
-|                                        | (N=140)   | (N=150)                |
-| Week 8 and 52                          |           |                        |
-| Sustained response                     | 12%       | 24% **                 |
-| Sustained remission                    | 4%        | 8% *                   |
-| Sustained mucosal healing              | 11%       | 19% *                  |
+|                   | Placebo   | Adalimumab 40 mg eow   |
+|-------------------|-----------|------------------------|
+| Week 52           | N=246     | N=248                  |
+| Clinical response | 18%       | 30% *                  |
+
+<div style=\"page-break-after: always\"></div>
+
+| Clinical remission                     | 9%      | 17% *   |
+|----------------------------------------|---------|---------|
+| Mucosal healing                        | 15%     | 25% *   |
+| Steroid-free remission for ≥ 90 days a | 6%      | 13% *   |
+|                                        | (N=140) | (N=150) |
+| Week 8 and 52                          |         |         |
+| Sustained response                     | 12%     | 24% **  |
+| Sustained remission                    | 4%      | 8% *    |
+| Sustained mucosal healing              | 11%     | 19% *   |
 
 Clinical remission is Mayo score ≤ 2 with no subscore &gt; 1;
 
@@ -2398,8 +2355,6 @@ Clinical response is decrease from baseline in Mayo score ≥ 3 points and ≥ 3
 a Of those receiving corticosteroids at baseline
 
 Of those patients who had a response at Week 8, 47% were in response, 29% were in remission, 41% had mucosal healing, and 20% were in steroid-free remission for ≥ 90 days at Week 52.
-
-<div style=\"page-break-after: always\"></div>
 
 Approximately 40% of patients in study UC-II had failed prior anti-TNF treatment with infliximab. The efficacy of adalimumab in those patients was reduced compared to that in anti-TNF naïve patients. Among patients who had failed prior anti-TNF treatment, Week 52 remission was achieved by 3% on placebo and 10% on adalimumab.
 
@@ -2423,17 +2378,17 @@ Study UV II evaluated 226 patients with inactive uveitis requiring chronic corti
 
 The primary efficacy endpoint in both studies was ´time to treatment failure´. Treatment failure was defined by a multi-component outcome based on inflammatory chorioretinal and/or inflammatory retinal vascular lesions, anterior chamber (AC) cell grade, vitreous haze (VH) grade and best corrected visual acuity (BCVA).
 
+<div style=\"page-break-after: always\"></div>
+
 Patients who completed Studies UV I and UV II were eligible to enrol in an uncontrolled long-term extension study with an originally planned duration of 78 weeks. Patients were allowed to continue on study medication beyond Week 78 until they had access to adalimumab.
 
 ## Clinical response
 
 Results from both studies demonstrated statistically significant reduction of the risk of treatment failure in patients treated with adalimumab versus patients receiving placebo (see Table 24). Both studies demonstrated an early and sustained effect of adalimumab on the treatment failure rate versus placebo (see Figure 2).
 
-<div style=\"page-break-after: always\"></div>
-
 Table 24: Time to treatment failure in studies UV I and UV II
 
-| Analysis Treatment                                          | N                                                           | Failure N (%)                                               | Median Time to Failure (months)                             | HR a                                                        | CI 95% forHR a                                              | p value b                                                   |
+| Analysis Treatment                                          | N                                                           | Failure N (%)                                               | Median Time to Failure (months)                             | HR a                                                        | CI 95% for HR a                                             | p value b                                                   |
 |-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
 | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  |
 | Primary analysis (ITT)                                      |                                                             |                                                             |                                                             |                                                             |                                                             |                                                             |
@@ -2446,7 +2401,7 @@ Table 24: Time to treatment failure in studies UV I and UV II
 
 Note: Treatment failure at or after Week 6 (Study UV I), or at or after Week 2 (Study UV II), was counted as event. Drop outs due to reasons other than treatment failure were censored at the time of dropping out.
 
-- a HR of adalimumab vs placebo from proportional hazards regression with treatment as factor.
+a HR of adalimumab vs placebo from proportional hazards regression with treatment as factor.
 
 b 2-sided p value from log rank test.
 
@@ -2456,11 +2411,11 @@ Figure 2: Kaplan-Meier curves summarising time to treatment failure on or after 
 
 <!-- image -->
 
-<!-- image -->
-
 <div style=\"page-break-after: always\"></div>
 
 Note: P# = Placebo (Number of Events/Number at Risk); A# = Adalimumab (Number of Events/Number at Risk).
+
+<!-- image -->
 
 In Study UV I statistically significant differences in favour of adalimumab versus placebo were observed for each component of treatment failure. In Study UV II, statistically significant differences were observed for visual acuity only, but the other components were numerically in favour of adalimumab.
 
@@ -2476,6 +2431,8 @@ Anti-adalimumab antibodies may develop during adalimumab treatment. Formation of
 
 ## Paediatric population
 
+<div style=\"page-break-after: always\"></div>
+
 Juvenile idiopathic arthritis (JIA)
 
 ## Polyarticular juvenile idiopathic arthritis (pJIA)
@@ -2485,8 +2442,6 @@ The safety and efficacy of adalimumab was assessed in two studies (pJIA I and II
 ## pJIA I
 
 The safety and efficacy of adalimumab were assessed in a multicentre, randomised, double-blind, parallel - group study in 171 children (4-17 years old) with polyarticular JIA. In the open-label lead in phase (OL LI) patients were stratified into two groups, MTX (methotrexate)-treated or non-MTXtreated. Patients who were in the non-MTX stratum were either naïve to or had been withdrawn from MTX at least two weeks prior to study treatment administration. Patients remained on stable doses of NSAIDs and or prednisone (≤ 0.2 mg/kg/day or 10 mg/day maximum). In the OL LI phase all patients received 24 mg/m 2  up to a maximum of 40 mg adalimumab every other week for 16 weeks. The distribution of patients by age and minimum, median and maximum dose received during the OL LI phase is presented in Table 25.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 25:  Distribution of patients by age and adalimumab dose received during the OL LI phase
 
@@ -2500,7 +2455,7 @@ Patients demonstrating a Paediatric ACR 30 response at Week 16 were eligible to 
 
 Table 26: Ped ACR 30 responses in the JIA study
 
-| Stratum                                       | MTX                      | MTX                  | WithoutMTX          | WithoutMTX        |
+| Stratum                                       | MTX                      | MTX                  | Without MTX         | Without MTX       |
 |-----------------------------------------------|--------------------------|----------------------|---------------------|-------------------|
 | Phase                                         |                          |                      |                     |                   |
 | OL-LI 16 weeks                                |                          |                      |                     |                   |
@@ -2510,6 +2465,8 @@ Table 26: Ped ACR 30 responses in the JIA study
 | Disease flares at the end of 32 weeks a (n/N) | 36.8% (14/38)            | 64.9% (24/37) b      | 43.3% (13/30)       | 71.4% (20/28) c   |
 | Median time to disease flare                  | > 32 weeks               | 20 weeks             | > 32 weeks          | 14 weeks          |
 
+<div style=\"page-break-after: always\"></div>
+
 Amongst those who responded at Week 16 (n=144), the Paediatric ACR 30/50/70/90 responses were maintained for up to six years in the OLE phase in patients who received adalimumab throughout the study. Over all 19 subjects, of which 11 of the baseline age group 4 to 12 and 8 of the baseline age group 13 to 17 years were treated 6 years or longer.
 
 Overall responses were generally better and, fewer patients developed antibodies when treated with the combination of adalimumab and MTX compared to adalimumab alone. Taking these results into consideration, adalimumab is recommended for use in combination with MTX and for use as monotherapy in patients for whom MTX use is not appropriate (see section 4.2).
@@ -2518,11 +2475,7 @@ Overall responses were generally better and, fewer patients developed antibodies
 
 The safety and efficacy of adalimumab was assessed in an open-label, multicentre study in 32 children (2 - &lt; 4 years old or aged 4 and above weighing &lt; 15 kg) with moderately to severely active polyarticular JIA. The patients received 24 mg/m 2 body surface area (BSA) of adalimumab up to a maximum of 20 mg every other week as a single dose via SC injection for at least 24 weeks. During the study, most subjects used concomitant MTX, with fewer reporting use of corticosteroids or NSAIDs.
 
-At Week 12 and Week 24, PedACR30 response was 93.5% and 90.0%, respectively, using the observed data approach. The proportions of subjects with PedACR50/70/90 at Week 12 and Week 24 were 90.3%/61.3%/38.7% and 83.3%/73.3%/36.7%, respectively. Amongst those who responded
-
-<div style=\"page-break-after: always\"></div>
-
-(Paediatric ACR 30) at Week 24 (n=27 out of 30 patients), the Paediatric ACR 30 responses were maintained for up to 60 weeks in the OLE phase in patients who received adalimumab throughout this time period. Overall, 20 subjects were treated for 60 weeks or longer.
+At Week 12 and Week 24, PedACR30 response was 93.5% and 90.0%, respectively, using the observed data approach. The proportions of subjects with PedACR50/70/90 at Week 12 and Week 24 were 90.3%/61.3%/38.7% and 83.3%/73.3%/36.7%, respectively. Amongst those who responded (Paediatric ACR 30) at Week 24 (n=27 out of 30 patients), the Paediatric ACR 30 responses were maintained for up to 60 weeks in the OLE phase in patients who received adalimumab throughout this time period. Overall, 20 subjects were treated for 60 weeks or longer.
 
 ## Enthesitis-related arthritis
 
@@ -2533,6 +2486,8 @@ The safety and efficacy of adalimumab were assessed in a multicentre, randomised
 The efficacy of adalimumab was assessed in a randomised, double-blind, controlled study of 114 paediatric patients from 4 years of age with severe chronic plaque psoriasis (as defined by a PGA ≥ 4 or &gt; 20% BSA involvement or &gt; 10% BSA involvement with very thick lesions or PASI ≥ 20 or ≥ 10 with clinically relevant facial, genital, or hand/ foot involvement) who were inadequately controlled with topical therapy and heliotherapy or phototherapy.
 
 Patients received adalimumab 0.8 mg/kg eow (up to 40 mg), 0.4 mg/kg eow (up to 20 mg), or methotrexate 0.1- 0.4 mg/kg weekly (up to 25 mg). At Week 16, more patients randomised to 0.8 mg/kg adalimumab had positive efficacy responses (e.g., PASI 75) than those randomised to 0.4 mg/kg eow or MTX.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 27: Paediatric plaque psoriasis efficacy results at 16 weeks
 
@@ -2548,11 +2503,7 @@ In the open label period of the study, PASI 75 and PGA clear or minimal response
 
 ## Adolescent hidradenitis suppurativa
 
-There are no clinical trials with adalimumab in adolescent patients with HS. Efficacy of adalimumab for the treatment of adolescent patients with HS is predicted based on the demonstrated efficacy and exposure-response relationship in adult HS patients and the likelihood that the disease course, pathophysiology, and active substance effects are substantially similar to that of adults at the same
-
-<div style=\"page-break-after: always\"></div>
-
-exposure levels. Safety of the recommended adalimumab dose in the adolescent HS population is based on cross-indication safety profile of adalimumab in both adults and paediatric patients at similar or more frequent doses (see section 5.2).
+There are no clinical trials with adalimumab in adolescent patients with HS. Efficacy of adalimumab for the treatment of adolescent patients with HS is predicted based on the demonstrated efficacy and exposure-response relationship in adult HS patients and the likelihood that the disease course, pathophysiology, and active substance effects are substantially similar to that of adults at the same exposure levels. Safety of the recommended adalimumab dose in the adolescent HS population is based on cross-indication safety profile of adalimumab in both adults and paediatric patients at similar or more frequent doses (see section 5.2).
 
 ## Paediatric Crohn's disease
 
@@ -2575,33 +2526,32 @@ The primary endpoint of the study was clinical remission at Week 26, defined as 
 
 Clinical remission and clinical response (defined as reduction in PCDAI score of at least 15 points from Baseline) rates are presented in Table 29. Rates of discontinuation of corticosteroids or immunomodulators are presented in Table 30.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 29: Paediatric CD study, PCDAI clinical remission and response
 
-|                    | Standard dose 40/20 mg eow N = 93   | Low dose 20/10 mg eow N = 95   | p value *   |
-|--------------------|-------------------------------------|--------------------------------|-------------|
-| Week 26            |                                     |                                |             |
-| Clinical remission | 38.7%                               | 28.4%                          | 0.075       |
-| Clinical response  | 59.1%                               | 48.4%                          | 0.073       |
-| Week 52            |                                     |                                |             |
-| Clinical remission | 33.3%                               | 23.2%                          | 0.100       |
-| Clinical response  | 41.9%                               | 28.4%                          | 0.038       |
+|                                                        | Standard dose 40/20 mg eow N = 93                      | Low dose 20/10 mg eow N = 95                           | p value *                                              |
+|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+| Week 26                                                |                                                        |                                                        |                                                        |
+| Clinical remission                                     | 38.7%                                                  | 28.4%                                                  | 0.075                                                  |
+| Clinical response                                      | 59.1%                                                  | 48.4%                                                  | 0.073                                                  |
+| Week 52                                                |                                                        |                                                        |                                                        |
+| Clinical remission                                     | 33.3%                                                  | 23.2%                                                  | 0.100                                                  |
+| Clinical response                                      | 41.9%                                                  | 28.4%                                                  | 0.038                                                  |
+| * p value for Standard Dose versus Low Dose comparison | * p value for Standard Dose versus Low Dose comparison | * p value for Standard Dose versus Low Dose comparison | * p value for Standard Dose versus Low Dose comparison |
 
 Table 30:  Paediatric CD study, discontinuation of corticosteroids or immunomodulators and fistula remission
 
-|                                       | Standard dose 40/20 mg eow   | Low dose 20/10 mg eow   | p value 1   |
+|                                       | Standard dose 40/20 mg eow   | Low dose 20/10 mg eow   |   p value 1 |
 |---------------------------------------|------------------------------|-------------------------|-------------|
 | Discontinued corticosteroids          | N= 33                        | N=38                    |             |
-| Week 26                               | 84.8%                        | 65.8%                   | 0.066       |
-| Week 52                               | 69.7%                        | 60.5%                   | 0.420       |
+| Week 26                               | 84.8%                        | 65.8%                   |       0.066 |
+| Week 52                               | 69.7%                        | 60.5%                   |       0.420 |
 | Discontinuation of immunomodulators 2 | N=60                         | N=57                    |             |
-| Week 52                               | 30.0%                        | 29.8%                   | 0.983       |
-
-<div style=\"page-break-after: always\"></div>
-
-| Fistula remission 3   | N=15   | N=21   |       |
-|-----------------------|--------|--------|-------|
-| Week 26               | 46.7%  | 38.1%  | 0.608 |
-| Week 52               | 40.0%  | 23.8%  | 0.303 |
+| Week 52                               | 30.0%                        | 29.8%                   |       0.983 |
+| Fistula remission 3                   | N=15                         | N=21                    |             |
+| Week 26                               | 46.7%                        | 38.1%                   |       0.608 |
+| Week 52                               | 40.0%                        | 23.8%                   |       0.303 |
 
 1 p value for Standard Dose versus Low Dose comparison
 
@@ -2621,6 +2571,8 @@ The safety and efficacy of adalimumab was assessed in a multicentre, randomised,
 
 In the induction period of the study, 77 patients were randomised 3:2 to receive double-blind treatment with adalimumab at an induction dose of 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2; or an induction dose of 2.4 mg/kg (maximum of 160 mg) at Week 0, placebo at Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2. Both groups received 0.6 mg/kg (maximum of 40 mg) at Week 4 and Week 6. Following an amendment to the study design, the remaining 16 patients who enroled in the induction period received open-label treatment with adalimumab at the induction dose of 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2.
 
+<div style=\"page-break-after: always\"></div>
+
 At Week 8, 62 patients who demonstrated clinical response per Partial Mayo Score (PMS; defined as a decrease in PMS ≥ 2 points and ≥ 30% from Baseline) were randomised equally to receive doubleblind maintenance treatment with adalimumab at a dose of 0.6 mg/kg (maximum of 40 mg) every week (ew), or a maintenance dose of 0.6 mg/kg (maximum of 40 mg) every other week (eow). Prior to an amendment to the study design, 12 additional patients who demonstrated clinical response per PMS were randomised to receive placebo but were not included in the confirmatory analysis of efficacy.
 
 Disease flare was defined as an increase in PMS of at least 3 points (for patients with PMS of 0 to 2 at Week 8), at least 2 points (for patients with PMS of 3 to 4 at Week 8), or at least 1 point (for patients with PMS of 5 to 6 at Week 8).
@@ -2631,8 +2583,6 @@ Patients who met criteria for disease flare at or after Week 12 were randomised 
 
 The co-primary endpoints of the study were clinical remission per PMS (defined as PMS ≤ 2 and no individual subscore &gt; 1) at Week 8, and clinical remission per FMS (Full Mayo Score) (defined as a Mayo Score ≤ 2 and no individual subscore &gt; 1) at Week 52 in patients who achieved clinical response per PMS at Week 8.
 
-<div style=\"page-break-after: always\"></div>
-
 Clinical remission rates per PMS at Week 8 for patients in each of the adalimumab double-blind induction groups are presented in Table 31.
 
 Table 31: Clinical remission per PMS at 8 weeks
@@ -2641,31 +2591,37 @@ Table 31: Clinical remission per PMS at 8 weeks
 |--------------------|---------------------------------------------------------------------|---------------------------------------------------------------|
 | Clinical remission | 13/30 (43.3%)                                                       | 28/47 (59.6%)                                                 |
 
-a  Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0, placebo at Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
+Note 1: Both induction groups received 0.6 mg/kg (maximum of 40 mg) at Week 4 and Week 6
 
-b  Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
-
-c  Not including open-label Induction dose of Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
-
-Note 1: Both induction groups received 0.6 mg/kg (maximum of 40 mg) at Week 4 and Week 6 Note 2: Patients with missing values at Week 8 were considered as not having met the endpoint
+Note 2: Patients with missing values at Week 8 were considered as not having met the endpoint
 
 At Week 52, clinical remission per FMS in Week 8 responders, clinical response per FMS (defined as a decrease in Mayo Score ≥ 3 points and ≥ 30% from Baseline) in Week 8 responders, mucosal healing (defined as Mayo endoscopy subscore ≤ 1) in Week 8 responders, clinical remission per FMS in Week 8 remitters, and the proportion of subjects in corticosteroid-free remission per FMS in Week 8 responders were assessed in patients who received adalimumab at the double-blind maximum 40 mg eow (0.6 mg/kg) and maximum 40 mg ew (0.6 mg/kg) maintenance doses (Table 32).
 
 Table 32: Efficacy results at 52 weeks
 
-|                                                          | Adalimumab a Maximum of 40 mg eow N=31   | Adalimumab b Maximum of 40 mg ew N=31   |
-|----------------------------------------------------------|------------------------------------------|-----------------------------------------|
-| Clinical remission in Week 8 PMS responders              | 9/31 (29.0%)                             | 14/31 (45.2%)                           |
-| Clinical response in Week 8 PMS responders               | 19/31 (61.3%)                            | 21/31 (67.7%)                           |
-| Mucosal healing in Week 8 PMS responders                 | 12/31 (38.7%)                            | 16/31 (51.6%)                           |
-| Clinical remission in Week 8 PMS remitters               | 9/21 (42.9%)                             | 10/22 (45.5%)                           |
-| Corticosteroid-free remission in Week 8 PMS responders c | 4/13 (30.8%)                             | 5/16 (31.3%)                            |
-
-Note: Patients with missing values at Week 52 or who were randomised to receive re-induction or maintenance treatment were considered non-responders for Week 52 endpoints
-
-Additional exploratory efficacy endpoints included clinical response per the Paediatric Ulcerative Colitis Activity Index (PUCAI) (defined as a decrease in PUCAI ≥ 20 points from Baseline) and clinical remission per PUCAI (defined as PUCAI &lt; 10) at Week 8 and Week 52 (Table 33).
+| Adalimumab a Maximum of 40 mg eow N=31   | Adalimumab b Maximum of 40 mg ew N=31   |
+|------------------------------------------|-----------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
+
+| Clinical remission in Week 8 PMS responders              | 9/31 (29.0%)   | 14/31 (45.2%)   |
+|----------------------------------------------------------|----------------|-----------------|
+| Clinical response in Week 8 PMS responders               | 19/31 (61.3%)  | 21/31 (67.7%)   |
+| Mucosal healing in Week 8 PMS responders                 | 12/31 (38.7%)  | 16/31 (51.6%)   |
+| Clinical remission in Week 8 PMS remitters               | 9/21 (42.9%)   | 10/22 (45.5%)   |
+| Corticosteroid-free remission in Week 8 PMS responders c | 4/13 (30.8%)   | 5/16 (31.3%)    |
+
+a  Adalimumab 0.6 mg/kg (maximum of 40 mg) every other week
+
+b  Adalimumab 0.6 mg/kg (maximum of 40 mg) every week
+
+c In patients receiving concomitant corticosteroids at baseline
+
+Note: Patients with missing values at Week 52 or who were randomised to receive
+
+re-induction or maintenance treatment were considered non-responders for Week 52 endpoints
+
+Additional exploratory efficacy endpoints included clinical response per the Paediatric Ulcerative Colitis Activity Index (PUCAI) (defined as a decrease in PUCAI ≥ 20 points from Baseline) and clinical remission per PUCAI (defined as PUCAI &lt; 10) at Week 8 and Week 52 (Table 33).
 
 Table 33: Exploratory endpoints results per PUCAI
 
@@ -2679,21 +2635,25 @@ Table 33: Exploratory endpoints results per PUCAI
 | Clinical remission per PUCAI in Week 8 PMS responders | 14/31 (45.2%)                                                     | 18/31 (58.1%)                                              |
 | Clinical response per PUCAI in Week 8 PMS responders  | 18/31 (58.1%)                                                     | 16/31 (51.6%)                                              |
 
+a  Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0, placebo at Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
+
 b  Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and
 
 1.2 mg/kg (maximum of 80 mg) at Week 2
 
-c  Not including open-label Induction dose of Adalimumab 2.4 mg/kg (maximum of 160 mg) at
+c  Not including open-label Induction dose of Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
 
-Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
+d  Adalimumab 0.6 mg/kg (maximum of 40 mg) every other week
 
-d  Adalimumab 0.6 mg/kg (maximum of 40 mg) every other week e  Adalimumab 0.6 mg/kg (maximum of 40 mg) every week
+e  Adalimumab 0.6 mg/kg (maximum of 40 mg) every week
 
-Note 1: Both induction groups received 0.6 mg/kg (maximum of 40 mg) at Week 4 and Week 6 Note 2: Patients with missing values at Week 8 were considered as not having met the endpoints
+Note 1: Both induction groups received 0.6 mg/kg (maximum of 40 mg) at Week 4 and Week 6
 
-Note 3: Patients with missing values at Week 52 or who were randomised to receive re-induction or maintenance treatment were considered non-responders for Week 52 endpoints
+Note 2: Patients with missing values at Week 8 were considered as not having met the endpoints
 
-Of the adalimumab-treated patients who received re-induction treatment during the maintenance period, 2/6 (33%) achieved clinical response per FMS at Week 52.
+Note 3: Patients with missing values at Week 52 or who were randomised to receive re-induction or maintenance treatment were considered non-responders for Week 52 endpoints Of the adalimumab-treated patients who received re-induction treatment during the maintenance period, 2/6 (33%) achieved clinical response per FMS at Week 52.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Quality of life
 
@@ -2707,11 +2667,11 @@ The safety and efficacy of adalimumab was assessed in a randomised, double-maske
 
 The primary endpoint was 'time to treatment failure'. The criteria determining treatment failure were worsening or sustained non-improvement in ocular inflammation, partial improvement with development of sustained ocular co-morbidities or worsening of ocular co-morbidities, non-permitted use of concomitant medicinal products, and suspension of treatment for an extended period of time.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Clinical response
 
 Adalimumab significantly delayed the time to treatment failure, as compared to placebo (see Figure 3, p &lt; 0.0001 from log rank test). The median time to treatment failure was 24.1 weeks for subjects treated with placebo, whereas the median time to treatment failure was not estimable for subjects treated with adalimumab because less than one-half of these subjects experienced treatment failure. Adalimumab significantly decreased the risk of treatment failure by 75% relative to placebo, as shown by the hazard ratio (HR = 0.25 [95% CI: 0.12, 0.49]).
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 3: Kaplan-Meier curves summarising time to treatment failure in the paediatric uveitis study
 
@@ -2725,13 +2685,11 @@ Note: P = Placebo (Number at Risk); H = Adalimumab (Number at Risk).
 
 After subcutaneous administration of a single 40 mg dose, absorption and distribution of adalimumab was slow, with peak serum concentrations being reached about 5 days after administration. The average absolute bioavailability of adalimumab estimated from three studies conducted with the reference product following a single 40 mg subcutaneous dose was 64%. After single intravenous doses ranging from 0.25 to 10 mg/kg, concentrations were dose proportional. After doses of 0.5 mg/kg (~40 mg), clearances ranged from 11 to 15 ml/hour, the distribution volume (Vss) ranged from 5 to 6 litres and the mean terminal phase half-life was approximately two weeks. Adalimumab concentrations in the synovial fluid from several rheumatoid arthritis patients ranged from 31-96% of those in serum.
 
-Following subcutaneous administration of 40 mg of adalimumab every other week in adult rheumatoid arthritis (RA) patients the mean steady-state trough concentrations were approximately 5 μg/ml (without concomitant methotrexate) and 8 to 9 μg/ml (with concomitant methotrexate), respectively.
-
-<div style=\"page-break-after: always\"></div>
-
-The serum adalimumab trough levels at steady-state increased roughly proportionally with dose following 20, 40 and 80 mg subcutaneous dosing every other week and every week.
+Following subcutaneous administration of 40 mg of adalimumab every other week in adult rheumatoid arthritis (RA) patients the mean steady-state trough concentrations were approximately 5 μg/ml (without concomitant methotrexate) and 8 to 9 μg/ml (with concomitant methotrexate), respectively. The serum adalimumab trough levels at steady-state increased roughly proportionally with dose following 20, 40 and 80 mg subcutaneous dosing every other week and every week.
 
 Following the administration of 24 mg/m 2  (up to a maximum of 40 mg) subcutaneously every other week to patients with polyarticular juvenile idiopathic arthritis (JIA) who were 4 to 17 years the mean trough steady-state (values measured from Week 20 to 48) serum adalimumab concentration was 5.6 ± 5.6 μg/ml (102% CV) for adalimumab without concomitant methotrexate and 10.9 ± 5.2 μg/ml (47.7% CV) with concomitant methotrexate.
+
+<div style=\"page-break-after: always\"></div>
 
 In patients with polyarticular JIA who were 2 to &lt; 4 years old or aged 4 and above weighing &lt; 15 kg dosed with adalimumab 24 mg/m 2 , the mean trough steady-state serum adalimumab concentrations was 6.0 ± 6.1 μg/ml (101% CV) for adalimumab without concomitant methotrexate and 7.9 ± 5.6 μg/ml (71.2% CV) with concomitant methotrexate.
 
@@ -2751,9 +2709,9 @@ In patients with Crohn's disease, the loading dose of 80 mg adalimumab on Week 0
 
 In paediatric patients with moderate to severe CD, the open-label adalimumab induction dose was 160/80 mg or 80/40 mg at Weeks 0 and 2, respectively, dependent on a body weight cut-off of 40 kg. At Week 4, patients were randomised 1:1 to either the standard dose (40/20 mg every other week) or low dose (20/10 mg every other week) maintenance treatment groups based on their body weight. The mean (±SD) serum adalimumab trough concentrations achieved at Week 4 were 15.7 ± 6.6 μg/ml for patients ≥ 40 kg (160/80 mg) and 10.6 ± 6.1 μg/ml for patients &lt; 40 kg (80/40 mg).
 
-<div style=\"page-break-after: always\"></div>
-
 For patients who stayed on their randomised therapy, the mean (±SD) adalimumab trough concentrations at Week 52 were 9.5 ± 5.6 μg/ml for the standard dose group and 3.5 ± 2.2 μg/ml for the low dose group. The mean trough concentrations were maintained in patients who continued to receive adalimumab treatment every other week for 52 weeks. For patients who dose escalated from every other week to weekly regimen, the mean (±SD) serum concentrations of adalimumab at Week 52 were 15.3 ± 11.4 μg/ml (40/20 mg, weekly) and 6.7 ± 3.5 μg/ml (20/10 mg, weekly).
+
+<div style=\"page-break-after: always\"></div>
 
 In patients with ulcerative colitis, a loading dose of 160 mg adalimumab on Week 0 followed by 80 mg adalimumab on Week 2 achieves serum adalimumab trough concentrations of approximately 12 μg/ml during the induction period. Mean steady-state trough levels of approximately 8 μg/ml were observed in ulcerative colitis patients who received a maintenance dose of 40 mg adalimumab every other week.
 
@@ -2775,11 +2733,11 @@ Exposure-response relationships between adalimumab concentration and efficacy in
 
 Population pharmacokinetic analyses with data from over 1,300 RA patients revealed a trend toward higher apparent clearance of adalimumab with increasing body weight. After adjustment for weight differences, gender and age appeared to have a minimal effect on adalimumab clearance. The serum levels of free adalimumab (not bound to anti-adalimumab antibodies, AAA) were observed to be lower in patients with measurable AAA.
 
-<div style=\"page-break-after: always\"></div>
-
-Hepatic or renal impairment
+## Hepatic or renal impairment
 
 Adalimumab has not been studied in patients with hepatic or renal impairment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -2813,8 +2771,6 @@ Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the pre-filled syri
 
 A single pre-filled syringe or pre-filled pen may be stored at temperatures up to a maximum of 25 °C for a period of up to 30 days. The pre-filled syringe or pre-filled pen must be protected from light, and discarded if not used within the 30-day period.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.5 Nature and contents of container
 
 Hukyndra 40 mg solution for injection in pre-filled syringe
@@ -2822,6 +2778,8 @@ Hukyndra 40 mg solution for injection in pre-filled syringe
 0.4 ml solution for injection in a pre-filled type I glass syringe with a fixed 29-gauge needle, extended finger flanges and needle guard, and a plunger stopper (bromobutyl rubber).
 
 Pack sizes: 1, 2 or 6 pre-filled syringe(s) packed in a PVC/PE blister, with 1, 2 or 6 alcohol pad(s).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hukyndra 40 mg solution for injection in pre-filled pen
 
@@ -2847,7 +2805,7 @@ EU/1/21/1589/002
 
 EU/1/21/1589/003
 
-## Hukyndra 40 mg solution for injection in pre-filled pen
+Hukyndra 40 mg solution for injection in pre-filled pen
 
 EU/1/21/1589/004
 
@@ -2857,15 +2815,13 @@ EU/1/21/1589/006
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 15 November 2021
+Date of first authorisation: 15 November 2021 Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
-
-▼This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2908,9 +2864,9 @@ Adalimumab has been shown to reduce the rate of progression of joint damage as m
 
 Hukyndra is indicated for the treatment of moderate to severe chronic plaque psoriasis in adult patients who are candidates for systemic therapy.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hidradenitis suppurativa (HS)
+
+<div style=\"page-break-after: always\"></div>
 
 Hukyndra is indicated for the treatment of active moderate to severe HS (acne inversa) in adults and adolescents from 12 years of age with an inadequate response to conventional systemic HS therapy (see sections 5.1 and 5.2).
 
@@ -2944,11 +2900,11 @@ Hukyndra treatment should be initiated and supervised by specialist physicians e
 
 After proper training in injection technique, patients may self-inject with Hukyndra if their physician determines that it is appropriate and with medical follow-up as necessary.
 
-<div style=\"page-break-after: always\"></div>
-
 During treatment with Hukyndra, other concomitant therapies (e.g., corticosteroids and/or immunomodulatory agents) should be optimised.
 
 ## Posology
+
+<div style=\"page-break-after: always\"></div>
 
 ## Rheumatoid arthritis
 
@@ -2980,11 +2936,9 @@ The benefit and risk of continued long-term treatment should be periodically eva
 
 ## Crohn's disease
 
-The recommended Hukyndra induction dose regimen for adult patients with moderately to severely active Crohn's disease is 80 mg at Week 0 followed by 40 mg at Week 2. In case there is a need for a
+The recommended Hukyndra induction dose regimen for adult patients with moderately to severely active Crohn's disease is 80 mg at Week 0 followed by 40 mg at Week 2. In case there is a need for a more rapid response to therapy, the regimen 160 mg at Week 0 (given as two 80 mg injections in one day or as one 80 mg injection per day for two consecutive days) followed by, 80 mg at Week 2, can be used with the awareness that the risk for adverse events is higher during induction.
 
 <div style=\"page-break-after: always\"></div>
-
-more rapid response to therapy, the regimen 160 mg at Week 0 (given as two 80 mg injections in one day or as one 80 mg injection per day for two consecutive days) followed by, 80 mg at Week 2, can be used with the awareness that the risk for adverse events is higher during induction.
 
 After induction treatment, the recommended dose is 40 mg every other week via subcutaneous injection. Alternatively, if a patient has stopped Hukyndra and signs and symptoms of disease recur, Hukyndra may be re-administered. There is little experience from re-administration after more than 8 weeks since the previous dose.
 
@@ -3022,9 +2976,9 @@ Adalimumab has not been studied in these patient populations. No dose recommenda
 
 ## Paediatric population
 
-<div style=\"page-break-after: always\"></div>
-
 ## Paediatric plaque psoriasis
+
+<div style=\"page-break-after: always\"></div>
 
 The safety and efficacy of adalimumab in children aged 4-17 years have been established for plaque psoriasis. The recommended Hukyndra dose is up to a maximum of 40 mg per dose.
 
@@ -3062,9 +3016,9 @@ Patients who experience insufficient response may benefit from an increase in do
 - &lt; 40 kg: 20 mg every week
 - ≥ 40 kg: 40 mg every week or 80 mg every other week
 
-<div style=\"page-break-after: always\"></div>
-
 Continued therapy should be carefully considered in a subject not responding by Week 12.
+
+<div style=\"page-break-after: always\"></div>
 
 There is no relevant use of adalimumab in children aged less than 6 years for this indication.
 
@@ -3104,9 +3058,9 @@ It is recommended that the benefit and risk of continued long-term treatment sho
 
 ## Method of administration
 
-<div style=\"page-break-after: always\"></div>
-
 Hukyndra is administered by subcutaneous injection. Full instructions for use are provided in the package leaflet.
+
+<div style=\"page-break-after: always\"></div>
 
 Hukyndra is available in other strengths and presentations.
 
@@ -3140,11 +3094,11 @@ Other serious infections seen in clinical trials include pneumonia, pyelonephrit
 
 Tuberculosis, including reactivation and new onset of tuberculosis, has been reported in patients receiving adalimumab. Reports included cases of pulmonary and extra-pulmonary (i.e. disseminated) tuberculosis.
 
-Before initiation of therapy with Hukyndra, all patients must be evaluated for both active or inactive ('latent') tuberculosis infection. This evaluation should include a detailed medical assessment of patient history of tuberculosis or possible previous exposure to people with active tuberculosis and
+Before initiation of therapy with Hukyndra, all patients must be evaluated for both active or inactive ('latent') tuberculosis infection. This evaluation should include a detailed medical assessment of patient history of tuberculosis or possible previous exposure to people with active tuberculosis and previous and/or current immunosuppressive therapy. Appropriate screening tests (i.e. tuberculin skin test and chest X-ray) should be performed in all patients (local recommendations may apply). It is recommended that the conduct and results of these tests are recorded in the Patient Reminder Card.
 
 <div style=\"page-break-after: always\"></div>
 
-previous and/or current immunosuppressive therapy. Appropriate screening tests (i.e. tuberculin skin test and chest X-ray) should be performed in all patients (local recommendations may apply). It is recommended that the conduct and results of these tests are recorded in the Patient Reminder Card. Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
+Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
 
 If active tuberculosis is diagnosed, Hukyndra therapy must not be initiated (see section 4.3).
 
@@ -3170,11 +3124,9 @@ For patients who develop the signs and symptoms such as fever, malaise, weight l
 
 Reactivation of hepatitis B has occurred in patients receiving a TNF-antagonist including adalimumab, who are chronic carriers of this virus (i.e. surface antigen positive). Some cases have had a fatal outcome. Patients should be tested for HBV infection before initiating treatment with Hukyndra. For patients who test positive for hepatitis B infection, consultation with a physician with expertise in the treatment of hepatitis B is recommended.
 
-Carriers of HBV who require treatment with Hukyndra should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy. Adequate data from treating patients who are carriers of HBV with anti-viral therapy in conjunction with TNF-antagonist therapy to prevent HBV reactivation are not available. In patients
+Carriers of HBV who require treatment with Hukyndra should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy. Adequate data from treating patients who are carriers of HBV with anti-viral therapy in conjunction with TNF-antagonist therapy to prevent HBV reactivation are not available. In patients who develop HBV reactivation, Hukyndra should be stopped and effective anti-viral therapy with appropriate supportive treatment should be initiated.
 
 <div style=\"page-break-after: always\"></div>
-
-who develop HBV reactivation, Hukyndra should be stopped and effective anti-viral therapy with appropriate supportive treatment should be initiated.
 
 ## Neurological events
 
@@ -3196,9 +3148,9 @@ Malignancies, some fatal, have been reported among children, adolescents and you
 
 Rare post-marketing cases of hepatosplenic T-cell lymphoma have been identified in patients treated with adalimumab. This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal. Some of these hepatosplenic T-cell lymphomas with adalimumab have occurred in young adult patients on concomitant treatment with azathioprine or 6-mercaptopurine used for inflammatory bowel disease. The potential risk with the combination of azathioprine or 6mercaptopurine and Hukyndra should be carefully considered. A risk for the development of hepatosplenic T-cell lymphoma in patients treated with Hukyndra cannot be excluded (see section 4.8).
 
-<div style=\"page-break-after: always\"></div>
-
 No studies have been conducted that include patients with a history of malignancy or in whom treatment with adalimumab is continued following development of malignancy. Thus additional caution should be exercised in considering Hukyndra treatment of these patients (see section 4.8).
+
+<div style=\"page-break-after: always\"></div>
 
 All patients, and in particular patients with a medical history of extensive immunosuppressant therapy or psoriasis patients with a history of PUVA (Psoralen plus ultraviolet light A) treatment should be examined for the presence of non-melanoma skin cancer prior to and during treatment with Hukyndra. Melanoma and Merkel cell carcinoma have also been reported in patients treated with TNFantagonists including adalimumab (see section 4.8).
 
@@ -3224,9 +3176,9 @@ In a clinical trial with another TNF-antagonist worsening congestive heart failu
 
 ## Autoimmune processes
 
-<div style=\"page-break-after: always\"></div>
-
 Treatment with Hukyndra may result in the formation of autoimmune antibodies. The impact of longterm treatment with adalimumab on the development of autoimmune diseases is unknown. If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Hukyndra and is positive for antibodies against double-stranded DNA, further treatment with Hukyndra should not be given (see section 4.8).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Concurrent administration of biologic DMARDS or TNF-antagonists
 
@@ -3262,9 +3214,9 @@ This medicinal product contains 0.8 mg of polysorbate 80 in each pre-filled syri
 
 This medicinal product contains 0.8 mg of polysorbate 80 in each pre-filled pen which is equivalent to 1 mg/ml. Polysorbates may cause allergic reactions.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.5 Interaction with other medicinal products and other forms of interaction
+
+<div style=\"page-break-after: always\"></div>
 
 Adalimumab has been studied in rheumatoid arthritis, polyarticular juvenile idiopathic arthritis and psoriatic arthritis patients taking adalimumab as monotherapy and those taking concomitant methotrexate. Antibody formation was lower when adalimumab was given together with methotrexate in comparison with use as monotherapy. Administration of adalimumab without methotrexate resulted in increased formation of antibodies, increased clearance and reduced efficacy of adalimumab (see section 5.1).
 
@@ -3292,9 +3244,11 @@ Adalimumab may cross the placenta into the serum of infants born to women treate
 
 ## Breast-feeding
 
+Limited information from the published literature indicates that adalimumab is excreted in breast milk at very low concentrations with the presence of adalimumab in human milk at concentrations of 0.1%
+
 <div style=\"page-break-after: always\"></div>
 
-Limited information from the published literature indicates that adalimumab is excreted in breast milk at very low concentrations with the presence of adalimumab in human milk at concentrations of 0.1% to 1% of the maternal serum level. Given orally, immunoglobulin G proteins undergo intestinal proteolysis and have poor bioavailability. No effects on the breast-fed newborns/infants are anticipated. Consequently, Hukyndra can be used during breast-feeding.
+to 1% of the maternal serum level. Given orally, immunoglobulin G proteins undergo intestinal proteolysis and have poor bioavailability. No effects on the breast-fed newborns/infants are anticipated. Consequently, Hukyndra can be used during breast-feeding.
 
 ## Fertility
 
@@ -3324,11 +3278,9 @@ In general, the adverse events in paediatric patients were similar in frequency 
 
 ## Tabulated list of adverse reactions
 
-The following list of adverse reactions is based on experience from clinical trials and on postmarketing experience and are displayed by system organ class and frequency in Table 4 below: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); and not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. The highest frequency
+The following list of adverse reactions is based on experience from clinical trials and on postmarketing experience and are displayed by system organ class and frequency in Table 4 below: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); and not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. The highest frequency seen among the various indications has been included. An asterisk (*) appears in the SOC column if further information is found elsewhere in sections 4.3, 4.4 and 4.8.
 
 <div style=\"page-break-after: always\"></div>
-
-seen among the various indications has been included. An asterisk (*) appears in the SOC column if further information is found elsewhere in sections 4.3, 4.4 and 4.8.
 
 Table 4: Undesirable effects
 
@@ -3484,11 +3436,9 @@ In adult Crohn's disease studies, higher incidences of malignant and serious inf
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -3576,16 +3526,16 @@ In RA study V with early rheumatoid arthritis patients who were methotrexate na�
 
 Table 6: ACR responses in RA study V (percent of patients)
 
-| Response   | MTX n=257   | Adalimumab n=274   | Adalimumab/MTX n=268   | p- value a   | p- value b   | p-value c   |
+| Response   | MTX n=257   | Adalimumab n=274   | Adalimumab/MTX n=268   | p- value a   | p- value b   |   p-value c |
 |------------|-------------|--------------------|------------------------|--------------|--------------|-------------|
 | ACR 20     |             |                    |                        |              |              |             |
-| Week 52    | 62.6%       | 54.4%              | 72.8%                  | 0.013        | < 0.001      | 0.043       |
-| Week 104   | 56.0%       | 49.3%              | 69.4%                  | 0.002        | < 0.001      | 0.140       |
+| Week 52    | 62.6%       | 54.4%              | 72.8%                  | 0.013        | < 0.001      |       0.043 |
+| Week 104   | 56.0%       | 49.3%              | 69.4%                  | 0.002        | < 0.001      |       0.140 |
 | ACR 50     |             |                    |                        |              |              |             |
-| Week 52    | 45.9%       | 41.2%              | 61.6%                  | < 0.001      | < 0.001      | 0.317       |
-| Week 104   | 42.8%       | 36.9%              | 59.0%                  | < 0.001      | < 0.001      | 0.162       |
+| Week 52    | 45.9%       | 41.2%              | 61.6%                  | < 0.001      | < 0.001      |       0.317 |
+| Week 104   | 42.8%       | 36.9%              | 59.0%                  | < 0.001      | < 0.001      |       0.162 |
 | ACR 70     |             |                    |                        |              |              |             |
-| Week 52    | 27.2%       | 25.9%              | 45.5%                  | < 0.001      | < 0.001      | 0.656       |
+| Week 52    | 27.2%       | 25.9%              | 45.5%                  | < 0.001      | < 0.001      |       0.656 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3594,7 +3544,9 @@ Table 6: ACR responses in RA study V (percent of patients)
 
 a  p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test.
 
-b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test c  p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
+b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
+
+c  p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
 
 In the open-label extension for RA study V, ACR response rates were maintained when followed for up to 10 years. Of 542 patients who were randomised to adalimumab 40 mg every other week, 170 patients continued on adalimumab 40 mg every other week for 10 years. Among those, 154 patients (90.6%) had ACR 20 responses; 127 patients (74.7%) had ACR 50 responses; and 102 patients (60.0%) had ACR 70 responses.
 
@@ -3611,14 +3563,16 @@ Table 7: Radiographic mean changes over 12 months in RA study III
 |                   |   Placebo/ MTX a |   Adalimumab/MTX 40 mg every other week | Placebo/MTX- Adalimumab/MTX (95% Confidence Interval b )   | p-value   |
 |-------------------|------------------|-----------------------------------------|------------------------------------------------------------|-----------|
 | Total Sharp Score |              2.7 |                                     0.1 | 2.6 (1.4, 3.8)                                             | < 0.001 c |
-| Erosion score     |              1.6 |                                     0   | 1.6 (0.9, 2.2)                                             | < 0.001   |
-| JSN d score       |              1   |                                     0.1 | 0.9 (0.3, 1.4)                                             | 0.002     |
+| Erosion score     |              1.6 |                                     0.0 | 1.6 (0.9, 2.2)                                             | < 0.001   |
+| JSN d score       |              1.0 |                                     0.1 | 0.9 (0.3, 1.4)                                             | 0.002     |
 
 a methotrexate
 
 b 95% confidence intervals for the differences in change scores between methotrexate and adalimumab
 
-c Based on rank analysis d Joint Space Narrowing
+c Based on rank analysis
+
+d Joint Space Narrowing
 
 In RA study V, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (see Table 8).
 
@@ -3628,13 +3582,15 @@ Table 8: Radiographic mean changes at Week 52 in RA study V
 
 |                   | MTX n=257 (95% confidence interval)   | Adalimumab n=274 (95% confidence interval)   | Adalimumab/MT X n=268 (95% confidence interval)   | p-value a   |   p-value b | p-value c   |
 |-------------------|---------------------------------------|----------------------------------------------|---------------------------------------------------|-------------|-------------|-------------|
-| Total Sharp Score | 5.7 (4.2-7.3)                         | 3.0 (1.7-4.3)                                | 1.3 (0.5-2.1)                                     | < 0.001     |      0.002  | < 0.001     |
+| Total Sharp Score | 5.7 (4.2-7.3)                         | 3.0 (1.7-4.3)                                | 1.3 (0.5-2.1)                                     | < 0.001     |      0.0020 | < 0.001     |
 | Erosion score     | 3.7 (2.7-4.7)                         | 1.7 (1.0-2.4)                                | 0.8 (0.4-1.2)                                     | < 0.001     |      0.0082 | < 0.001     |
 | JSN score         | 2.0 (1.2-2.8)                         | 1.3 (0.5-2.1)                                | 0.5 (0-1.0)                                       | < 0.001     |      0.0037 | 0.151       |
 
 a  p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test.
 
-b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test c  p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
+b  p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
+
+c  p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
 
 Following 52 weeks and 104 weeks of treatment, the percentage of patients without progression (change from baseline in modified Total Sharp Score ≤ 0.5) was significantly higher with adalimumab/methotrexate combination therapy (63.8% and 61.2% respectively) compared to methotrexate monotherapy (37.4% and 33.5% respectively, p &lt; 0.001) and adalimumab monotherapy (50.7%, p &lt; 0.002 and 44.5%, p &lt; 0.001 respectively).
 
@@ -3650,11 +3606,9 @@ In RA study V, the improvement in the HAQ disability index and the physical comp
 
 ## Injection site pain
 
-For the pooled crossover RA studies VI and VII, a statistically significant difference for injection site pain immediately after dosing was observed between 40 mg/0.8 ml adalimumab and 40 mg/0.4 ml
+For the pooled crossover RA studies VI and VII, a statistically significant difference for injection site pain immediately after dosing was observed between 40 mg/0.8 ml adalimumab and 40 mg/0.4 ml adalimumab (mean VAS of 3.7 cm versus 1.2 cm, scale of 0-10 cm, p &lt; 0.001). This represented an 84% median reduction in injection site pain.
 
 <div style=\"page-break-after: always\"></div>
-
-adalimumab (mean VAS of 3.7 cm versus 1.2 cm, scale of 0-10 cm, p &lt; 0.001). This represented an 84% median reduction in injection site pain.
 
 ## Psoriasis
 
@@ -3742,7 +3696,9 @@ Table 12: Efficacy results at 12 weeks, HS studies I and II
 | ≥ 30% Reduction in Skin b                            | N=109            | N=122 34                | N=111            |                         |
 | Pain                                                 | 27 (24.8%)       | (27.9%)                 | 23 (20.7%)       | N=105 48 (45.7%) ***    |
 
-* p &lt; 0.05, *** p &lt; 0.001, adalimumab versus placebo a Among all randomised patients.
+* p &lt; 0.05, *** p &lt; 0.001, adalimumab versus placebo
+
+a Among all randomised patients.
 
 b Among patients with baseline HS-related skin pain assessment ≥ 3, based on Numeric Rating Scale 0-10; 0=no skin pain, 10=skin pain as bad as you can imagine.
 
@@ -3814,7 +3770,9 @@ Table 15: Maintenance of clinical remission and response (percent of patients)
 
 * p &lt; 0.001 for adalimumab versus placebo pairwise comparisons of proportions
 
-** p &lt; 0.02 for adalimumab versus placebo pairwise comparisons of proportions a Of those receiving corticosteroids at baseline
+** p &lt; 0.02 for adalimumab versus placebo pairwise comparisons of proportions
+
+a Of those receiving corticosteroids at baseline
 
 Among patients who were not in response at Week 4, 43% of adalimumab maintenance patients responded by Week 12 compared to 30% of placebo maintenance patients. These results suggest that some patients who have not responded by Week 4 benefit from continued maintenance therapy through Week 12. Therapy continued beyond 12 weeks did not result in significantly more responses (see section 4.2).
 
@@ -3859,7 +3817,9 @@ Clinical response is decrease from baseline in Mayo score ≥ 3 points and ≥ 3
 
 * p &lt; 0.05 for adalimumab vs. placebo pairwise comparison of proportions
 
-** p &lt; 0.001 for adalimumab vs. placebo pairwise comparison of proportions a Of those receiving corticosteroids at baseline
+** p &lt; 0.001 for adalimumab vs. placebo pairwise comparison of proportions
+
+a Of those receiving corticosteroids at baseline
 
 Of those patients who had a response at Week 8, 47% were in response, 29% were in remission, 41% had mucosal healing, and 20% were in steroid-free remission for ≥ 90 days at Week 52.
 
@@ -3895,7 +3855,7 @@ Results from both studies demonstrated statistically significant reduction of th
 
 Table 17: Time to treatment failure in studies UV I and UV II
 
-| Analysis Treatment                                          | N                                                           | Failure N (%)                                               | Median Time to Failure (months)                             | HR a                                                        | CI 95% forHR a                                              | p value b                                                   |
+| Analysis Treatment                                          | N                                                           | Failure N (%)                                               | Median Time to Failure (months)                             | HR a                                                        | CI 95% for HR a                                             | p value b                                                   |
 |-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
 | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  | Time to treatment failure at or after Week 6 in study UV I  |
 | Primary analysis (ITT)                                      | Primary analysis (ITT)                                      | Primary analysis (ITT)                                      | Primary analysis (ITT)                                      | Primary analysis (ITT)                                      | Primary analysis (ITT)                                      | Primary analysis (ITT)                                      |
@@ -3967,31 +3927,31 @@ Clinical remission and clinical response (defined as reduction in PCDAI score of
 
 Table 19: Paediatric CD study, PCDAI clinical remission and response
 
-|                    | Standard dose 40/20 mg eow N=93   | Low dose 20/10 mg eow N=95   | p value *   |
+|                    | Standard dose 40/20 mg eow N=93   | Low dose 20/10 mg eow N=95   |   p value * |
 |--------------------|-----------------------------------|------------------------------|-------------|
 | Week 26            |                                   |                              |             |
-| Clinical remission | 38.7%                             | 28.4%                        | 0.075       |
-| Clinical response  | 59.1%                             | 48.4%                        | 0.073       |
+| Clinical remission | 38.7%                             | 28.4%                        |       0.075 |
+| Clinical response  | 59.1%                             | 48.4%                        |       0.073 |
 | Week 52            |                                   |                              |             |
-| Clinical remission | 33.3%                             | 23.2%                        | 0.100       |
-| Clinical response  | 41.9%                             | 28.4%                        | 0.038       |
+| Clinical remission | 33.3%                             | 23.2%                        |       0.100 |
+| Clinical response  | 41.9%                             | 28.4%                        |       0.038 |
 
 <div style=\"page-break-after: always\"></div>
 
 Table 20:  Paediatric CD study, discontinuation of corticosteroids or immunomodulators and fistula remission
 
-|                                       | Standard dose 40/20 mg eow   | Low dose 20/10 mg eow   | p value 1   |
+|                                       | Standard dose 40/20 mg eow   | Low dose 20/10 mg eow   |   p value 1 |
 |---------------------------------------|------------------------------|-------------------------|-------------|
 | Discontinued corticosteroids          | N=33                         | N=38                    |             |
-| Week 26                               | 84.8%                        | 65.8%                   | 0.066       |
-| Week 52                               | 69.7%                        | 60.5%                   | 0.420       |
+| Week 26                               | 84.8%                        | 65.8%                   |       0.066 |
+| Week 52                               | 69.7%                        | 60.5%                   |       0.420 |
 | Discontinuation of immunomodulators 2 | N=60                         | N=57                    |             |
-| Week 52                               | 30.0%                        | 29.8%                   | 0.983       |
+| Week 52                               | 30.0%                        | 29.8%                   |       0.983 |
 | Fistula remission 3                   | N=15                         | N=21                    |             |
-| Week 26                               | 46.7%                        | 38.1%                   | 0.608       |
-| Week 52                               | 40.0%                        | 23.8%                   | 0.303       |
+| Week 26                               | 46.7%                        | 38.1%                   |       0.608 |
+| Week 52                               | 40.0%                        | 23.8%                   |       0.303 |
 
-- 1 p value for Standard Dose versus Low Dose comparison
+1 p value for Standard Dose versus Low Dose comparison
 
 2 Immunosuppressant therapy could only be discontinued at or after Week 26 at the investigator's discretion if the subject met the clinical response criterion
 
@@ -4105,11 +4065,9 @@ Following subcutaneous administration of 40 mg of adalimumab every other week in
 
 In adult patients with psoriasis, the mean steady-state trough concentration was 5 μg/ml during adalimumab 40 mg every other week monotherapy treatment.
 
-In adult patients with HS, a dose of adalimumab 160 mg on Week 0 followed by 80 mg on Week 2 achieved serum adalimumab trough concentrations of approximately 7 to 8 μg/ml at Week 2 and
+In adult patients with HS, a dose of adalimumab 160 mg on Week 0 followed by 80 mg on Week 2 achieved serum adalimumab trough concentrations of approximately 7 to 8 μg/ml at Week 2 and Week 4. The mean steady-state trough concentration at Week 12 through Week 36 were approximately 8 to 10 μg/ml during adalimumab 40 mg every week treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-Week 4. The mean steady-state trough concentration at Week 12 through Week 36 were approximately 8 to 10 μg/ml during adalimumab 40 mg every week treatment.
 
 Adalimumab exposure in adolescent HS patients was predicted using population pharmacokinetic modelling and simulation based on cross-indication pharmacokinetics in other paediatric patients (paediatric psoriasis, juvenile idiopathic arthritis, paediatric Crohn's disease, and enthesitis-related arthritis). The recommended adolescent HS dosing schedule is 40 mg every other week. Since exposure to adalimumab can be affected by body size, adolescents with higher body weight and inadequate response may benefit from receiving the recommended adult dose of 40 mg every week.
 
@@ -4127,11 +4085,9 @@ In adult patients with uveitis, a loading dose of adalimumab 80 mg on Week 0 fol
 
 Adalimumab exposure in paediatric uveitis patients was predicted using population pharmacokinetic modelling and simulation based on cross-indication pharmacokinetics in other paediatric patients (paediatric psoriasis, juvenile idiopathic arthritis, paediatric Crohn's disease, and enthesitis-related arthritis). No clinical exposure data are available on the use of a loading dose in children &lt; 6 years. The predicted exposures indicate that in the absence of methotrexate, a loading dose may lead to an initial increase in systemic exposure.
 
-Population pharmacokinetic and pharmacokinetic/pharmacodynamic modelling and simulation predicted comparable adalimumab exposure and efficacy in patients treated with 80 mg every other
+Population pharmacokinetic and pharmacokinetic/pharmacodynamic modelling and simulation predicted comparable adalimumab exposure and efficacy in patients treated with 80 mg every other week when compared with 40 mg every week (including adult patients with RA, HS, UC, CD or Ps, patients with adolescent HS, and paediatric patients ≥ 40 kg with CD and UC).
 
 <div style=\"page-break-after: always\"></div>
-
-week when compared with 40 mg every week (including adult patients with RA, HS, UC, CD or Ps, patients with adolescent HS, and paediatric patients ≥ 40 kg with CD and UC).
 
 ## Exposure-response relationship in paediatric population
 
@@ -4189,7 +4145,7 @@ Hukyndra 80 mg solution for injection in pre-filled syringe
 
 Pack sizes: 1 pre-filled syringe packed in a PVC/PE blister, with 1 alcohol pad.
 
-Hukyndra 80 mg solution for injection in pre-filled pen
+## Hukyndra 80 mg solution for injection in pre-filled pen
 
 0.8 ml solution for injection in pre-filled needle-based injection system (autoinjector) containing a prefilled type I glass syringe with a fixed 29-gauge needle and a plunger stopper (bromobutyl rubber). The pen is a single use, disposable, handheld, mechanical injection device.
 
@@ -4213,7 +4169,7 @@ Hukyndra 80 mg solution for injection in pre-filled pen EU/1/21/1589/008 EU/1/21
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 15 November 2021
+Date of first authorisation: 15 November 2021 Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -4326,7 +4282,9 @@ Read the package leaflet before use.
 
 For paediatric use
 
-QR code to be included hukyndrapatients.com
+QR code to be included
+
+hukyndrapatients.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -4411,21 +4369,19 @@ For storage information, see leaflet.
 
 For paediatric use
 
-20 mg/0.2 ml
+20 mg/0.2 ml Hukyndra 20 mg injection adalimumab SC
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| SYRINGE LABEL                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABEL                                                      |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Hukyndra 20 mg injection adalimumab SC
-
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -4437,8 +4393,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 20 mg/0.2 ml
 
@@ -4489,7 +4445,9 @@ For single use only.
 
 Read the package leaflet before use.
 
-QR code to be included hukyndrapatients.com
+QR code to be included
+
+hukyndrapatients.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -4549,8 +4507,8 @@ Hukyndra 40 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -4584,17 +4542,17 @@ For storage information, see leaflet.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| SYRINGE LABEL                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABEL                                                      |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Hukyndra 40 mg injection adalimumab SC
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -4606,8 +4564,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 40 mg/0.4 ml
 
@@ -4720,8 +4678,8 @@ Hukyndra 40 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -4751,21 +4709,19 @@ Lot
 
 For storage information, see leaflet.
 
-40 mg/0.4 ml
+40 mg/0.4 ml Hukyndra 40 mg injection adalimumab SC
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| PEN LABEL                                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PEN LABEL                                                          |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Hukyndra 40 mg injection adalimumab SC
-
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -4777,8 +4733,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 40 mg/0.4 ml
 
@@ -4905,21 +4861,19 @@ Lot
 
 For storage information, see leaflet.
 
-80 mg/0.8 ml
+80 mg/0.8 ml Hukyndra 80 mg injection adalimumab SC
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| SYRINGE LABEL                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABEL                                                      |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Hukyndra 80 mg injection adalimumab SC
-
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -4931,8 +4885,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 80 mg/0.8 ml
 
@@ -5033,8 +4987,8 @@ Hukyndra 80 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -5064,21 +5018,19 @@ Lot
 
 For storage information, see leaflet.
 
-80 mg/0.8 ml
+80 mg/0.8 ml Hukyndra 80 mg injection adalimumab SC
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| PEN LABEL                                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PEN LABEL                                                          |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Hukyndra 80 mg injection adalimumab SC
-
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -5090,8 +5042,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 80 mg/0.8 ml
 
@@ -5104,15 +5056,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
-## Hukyndra 20 mg solution for injection in pre-filled syringe
-
-## adalimumab
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+## Hukyndra 20 mg solution for injection in pre-filled syringe adalimumab
 
 ## Read all of this leaflet carefully before your child starts using this medicine because it contains important information.
 
@@ -5152,9 +5098,9 @@ The target of adalimumab is a protein called tumour necrosis factor (TNFα), whi
 
 Polyarticular juvenile idiopathic arthritis is an inflammatory disease of the joints that usually first appears in childhood.
 
-<div style=\"page-break-after: always\"></div>
-
 Hukyndra is used to treat polyarticular juvenile idiopathic arthritis in patients from 2 years of age. Your child may first be given other disease-modifying medicines, such as methotrexate. If these medicines do not work well enough, your child will be given Hukyndra to treat his/her polyarticular juvenile idiopathic arthritis.
+
+<div style=\"page-break-after: always\"></div>
 
 Your doctor will decide if Hukyndra should be used with methotrexate or alone.
 
@@ -5193,11 +5139,10 @@ Your child may first be given other medicines. If these medicines do not work we
 ## Do not use Hukyndra
 
 - If your child is allergic to adalimumab or any of the other ingredients of this medicine (listed in section 6).
-
-<div style=\"page-break-after: always\"></div>
-
 - If your child has active tuberculosis or other severe infections (see 'Warnings and precautions'). It is important that you tell your doctor if your child has symptoms of infections, for example, fever, wounds, feeling tired, dental problems.
 - If your child has moderate or severe heart failure. It is important to tell your doctor if your child has had or has a serious heart condition (see 'Warnings and precautions').
+
+<div style=\"page-break-after: always\"></div>
 
 ## Warnings and precautions
 
@@ -5226,11 +5171,12 @@ In rare cases, these infections can be life-threatening. It is important to tell
 - o Tuberculosis can develop during therapy even if your child has received treatment for the prevention of tuberculosis.
 - o If symptoms of tuberculosis (for example, cough that does not go away, weight loss, lack of energy, mild fever), or any other infection appear during or after therapy tell your doctor immediately.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hepatitis B
 
 - Tell your doctor if your child is a carrier of the hepatitis B virus (HBV), if he/she has active HBV or if you think he/she might be at risk of getting HBV.
+
+<div style=\"page-break-after: always\"></div>
+
 - o Your doctor should test your child for HBV. In people who carry HBV, adalimumab can cause the virus to become active again.
 - o In some rare cases, especially if your child is taking other medicines that suppress the immune system, reactivation of HBV can be life-threatening.
 
@@ -5261,11 +5207,11 @@ In rare cases, these infections can be life-threatening. It is important to tell
 
 - There have been very rare cases of certain kinds of cancer in children and adult patients taking adalimumab or other TNF blockers.
 - o People with more serious rheumatoid arthritis that have had the disease for a long time may have a higher than average risk of getting lymphoma (a cancer that affects the lymph system) and leukaemia (a cancer that affects the blood and bone marrow).
+- o If your child takes Hukyndra the risk of getting lymphoma, leukaemia, or other cancers may increase. On rare occasions, an uncommon and severe type of lymphoma, has been seen in patients taking adalimumab. Some of those patients were also treated with azathioprine or 6- mercaptopurine.
+- o Tell your doctor if your child is taking azathioprine or 6-mercaptopurine with Hukyndra.
 
 <div style=\"page-break-after: always\"></div>
 
-- o If your child takes Hukyndra the risk of getting lymphoma, leukaemia, or other cancers may increase. On rare occasions, an uncommon and severe type of lymphoma, has been seen in patients taking adalimumab. Some of those patients were also treated with azathioprine or 6- mercaptopurine.
-- o Tell your doctor if your child is taking azathioprine or 6-mercaptopurine with Hukyndra.
 - o Cases of non-melanoma skin cancer have been observed in patients taking adalimumab.
 - o If new skin lesions appear during or after therapy or if existing lesions change appearance, tell your doctor.
 - There have been cases of cancers, other than lymphoma in patients with a specific type of lung disease called Chronic Obstructive Pulmonary Disease (COPD) treated with another TNF blocker. If your child has COPD, or is a heavy smoker, you should discuss with your doctor whether treatment with a TNF blocker is appropriate for your child.
@@ -5286,8 +5232,11 @@ Your child should not take Hukyndra with medicines containing the following acti
 Hukyndra can be taken together with:
 
 - methotrexate
+- ·
 - certain disease-modifying anti-rheumatic agents (for example, sulfasalazine,
-- hydroxychloroquine, leflunomide and injectable gold preparations)
+
+hydroxychloroquine, leflunomide and injectable gold preparations)
+
 - steroids or pain medicines including non-steroidal anti-inflammatory drugs (NSAIDs).
 
 If you have questions, please ask your doctor.
@@ -5302,11 +5251,11 @@ If you have questions, please ask your doctor.
 - If your child received Hukyndra during her pregnancy, her baby may have a higher risk for getting an infection.
 - It is important that you tell her baby's doctor and other health care professionals about her Hukyndra use during her pregnancy before the baby receives any vaccine. For more information on vaccines see the 'Warnings and precautions' section.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Driving and using machines
 
 Hukyndra may have a small effect on your child's ability to drive, cycle or use machines. Room spinning sensation and vision disturbances may occur after taking Hukyndra.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hukyndra contains sodium and polysorbate 80
 
@@ -5322,7 +5271,7 @@ The recommended doses for Hukyndra in each of the approved uses are shown in the
 
 | Polyarticular juvenile idiopathic arthritis                                    | Polyarticular juvenile idiopathic arthritis   | Polyarticular juvenile idiopathic arthritis   |
 |--------------------------------------------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| Age or body weight                                                             | Howmuchandhow often to take?                  | Notes                                         |
+| Age or body weight                                                             | How much and how often to take?               | Notes                                         |
 | Children, adolescents and adults from 2 years of age weighing 30 kg or more    | 40 mg every other week                        | Not applicable                                |
 | Children and adolescents from 2 years of age weighing 10 kg to less than 30 kg | 20 mg every other week                        | Not applicable                                |
 
@@ -5332,35 +5281,35 @@ The recommended doses for Hukyndra in each of the approved uses are shown in the
 | Children, adolescents and adults from 6 years of age weighing 30 kg or more    | 40 mg every other week          | Not applicable                 |
 | Children and adolescents from 6 years of age weighing 15 kg to less than 30 kg | 20 mg every other week          | Not applicable                 |
 
+| Paediatric plaque psoriasis                                               | Paediatric plaque psoriasis                                                                                  | Paediatric plaque psoriasis   |
+|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------|
+| Age or body weight                                                        | How much and how often to take?                                                                              | Notes                         |
+| Children and adolescents from 4 to 17 years of age weighing 30 kg or more | First dose of 40 mg, followed by 40 mg one week later. Thereafter, the usual dose is 40 mg every other week. | Not applicable                |
+
 <div style=\"page-break-after: always\"></div>
 
-| Paediatric plaque psoriasis                                                          | Paediatric plaque psoriasis                                                                                  | Paediatric plaque psoriasis   |
-|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------|
-| Age or body weight                                                                   | Howmuchandhow often to take?                                                                                 | Notes                         |
-| Children and adolescents from 4 to 17 years of age weighing 30 kg or more            | First dose of 40 mg, followed by 40 mg one week later. Thereafter, the usual dose is 40 mg every other week. | Not applicable                |
-| Children and adolescents from 4 to 17 years of age weighing 15 kg to less than 30 kg | First dose of 20 mg, followed by 20 mg one week later. Thereafter, the usual dose is 20 mg every other week. | Not applicable                |
+| Children and adolescents from 4 to 17 years of age weighing 15 kg to less than 30 kg   | First dose of 20 mg, followed by 20 mg one week later. Thereafter, the usual dose is 20 mg every other week.   | Not applicable   |
+|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|------------------|
 
 | Paediatric Crohn's disease                                                  | Paediatric Crohn's disease                                                                                                                                                                                                                   | Paediatric Crohn's disease                                                                 |
 |-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Age or body weight                                                          | Howmuchandhow often to take?                                                                                                                                                                                                                 | Notes                                                                                      |
+| Age or body weight                                                          | How much and how often to take?                                                                                                                                                                                                              | Notes                                                                                      |
 | Children and adolescents from 6 to 17 years of age weighing 40 kg or more   | First dose of 80 mg, followed by 40 mg two weeks later. If a faster response is required, your child's doctor may prescribe a first dose of 160 mg, followed by 80 mg two weeks later. Thereafter, the usual dose is 40 mg every other week. | Your child's doctor may increase the dosage to 40 mg every week or 80 mg every other week. |
 | Children and adolescents from 6 to 17 years of age weighing less than 40 kg | First dose of 40 mg, followed by 20 mg two weeks later. If a faster response is required, the doctor may prescribe a first dose of 80 mg, followed by 40 mg two weeks later. Thereafter, the usual dose is 20 mg every other week.           | Your child's doctor may increase the dose frequency to 20 mg every week.                   |
 
-| Paediatric uveitis                                                    | Paediatric uveitis             | Paediatric uveitis                                                                                                                                                                                               |
-|-----------------------------------------------------------------------|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Age or body weight                                                    | Howmuch and how often to take? | Notes                                                                                                                                                                                                            |
-| Children and adolescents from 2 years of age weighing less than 30 kg | 20 mg every other week         | Your doctor may prescribe an initial dose of 40 mg to be administered one week prior to the start of the usual dose of 20 mg every other week. Hukyndra is recommended for use in combination with methotrexate. |
-
-<div style=\"page-break-after: always\"></div>
-
-| Children and adolescents from 2 years of age weighing 30 kg or more   | 40 mg every other week   | Your doctor may prescribe an initial dose of 80 mg to be administered one week prior to the start of the usual dose of 40 mg every other week. Hukyndra is recommended for use in combination with methotrexate.   |
-|-----------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Paediatric uveitis                                                    | Paediatric uveitis              | Paediatric uveitis                                                                                                                                                                                               |
+|-----------------------------------------------------------------------|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Age or body weight                                                    | How much and how often to take? | Notes                                                                                                                                                                                                            |
+| Children and adolescents from 2 years of age weighing less than 30 kg | 20 mg every other week          | Your doctor may prescribe an initial dose of 40 mg to be administered one week prior to the start of the usual dose of 20 mg every other week. Hukyndra is recommended for use in combination with methotrexate. |
+| Children and adolescents from 2 years of age weighing 30 kg or more   | 40 mg every other week          | Your doctor may prescribe an initial dose of 80 mg to be administered one week prior to the start of the usual dose of 40 mg every other week. Hukyndra is recommended for use in combination with methotrexate. |
 
 ## Method and route of administration
 
 Hukyndra is administered by injection under the skin (by subcutaneous injection).
 
 ## Detailed instructions on how to inject Hukyndra are provided in section 7 'Instructions for use'.
+
+<div style=\"page-break-after: always\"></div>
 
 ## If you use more Hukyndra than you should
 
@@ -5395,9 +5344,6 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - tingling
 - numbness
 - double vision
-
-<div style=\"page-break-after: always\"></div>
-
 - arm or leg weakness
 - a bump or open sore that doesn't heal
 - signs and symptoms suggestive of blood disorders such as persistent fever, bruising, bleeding, paleness
@@ -5411,64 +5357,61 @@ The symptoms described above can be signs of the below listed side effects, whic
 - headache
 - abdominal pain
 - nausea and vomiting
-- rash
-- musculoskeletal pain
-
-## Common (may affect up to 1 in 10 people)
-
-- serious infections (including blood poisoning and influenza)
-- intestinal infections (including gastroenteritis)
-- skin infections (including cellulitis and shingles)
-- ear infections
-- oral infections (including tooth infections and cold sores)
-- reproductive tract infections
-- urinary tract infection
-- fungal infections
-- joint infections
-- benign tumours
-- skin cancer
-- allergic reactions (including seasonal allergy)
-- dehydration
-- mood swings (including depression)
-- anxiety
-- difficulty sleeping
-- sensation disorders such as tingling, prickling or numbness
-- migraine
-- nerve root compression (including low back pain and leg pain)
-- vision disturbances
-- eye inflammation
-- inflammation of the eye lid and eye swelling
-- vertigo (feeling of dizziness or spinning)
-- sensation of heart beating rapidly
-- high blood pressure
-- flushing
-- haematoma (collection of blood outside of blood vessels)
-- cough
-- asthma
-- shortness of breath
-- gastrointestinal bleeding
-- dyspepsia (indigestion, bloating, heart burn)
-- acid reflux disease
-- sicca syndrome (including dry eyes and dry mouth)
-- itching
-- itchy rash
-- bruising
 
 <div style=\"page-break-after: always\"></div>
 
-- inflammation of the skin (such as eczema)
-- breaking of finger nails and toe nails
-- increased sweating
-- hair loss
-- new onset or worsening of psoriasis
-- muscle spasms
-- blood in urine
-- kidney problems
-- chest pain
-- oedema (swelling)
-- fever
-- reduction in blood platelets which increases risk of bleeding or bruising
-- impaired healing
+- rash
+- musculoskeletal pain
+
+| Common (may affect up to 1 in 10 people)                                                                                                                                 |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| • serious infections (including blood poisoning and influenza) • intestinal infections (including gastroenteritis) • skin infections (including cellulitis and shingles) |
+| • ear infections                                                                                                                                                         |
+| • oral infections (including tooth infections and cold sores)                                                                                                            |
+| • reproductive tract infections                                                                                                                                          |
+| • urinary tract infection                                                                                                                                                |
+| • fungal infections                                                                                                                                                      |
+| • joint infections                                                                                                                                                       |
+| • benign tumours                                                                                                                                                         |
+| • skin cancer                                                                                                                                                            |
+| • allergic reactions (including seasonal allergy)                                                                                                                        |
+| • dehydration                                                                                                                                                            |
+| • mood swings (including depression)                                                                                                                                     |
+| • anxiety                                                                                                                                                                |
+| • difficulty sleeping                                                                                                                                                    |
+| • sensation disorders such as tingling, prickling or numbness                                                                                                            |
+| • migraine                                                                                                                                                               |
+| • nerve root compression (including low back pain and leg pain)                                                                                                          |
+| • vision disturbances                                                                                                                                                    |
+| • eye inflammation • inflammation of the eye lid and eye swelling                                                                                                        |
+| • vertigo (feeling of dizziness or spinning) • sensation of heart beating rapidly                                                                                        |
+| • high blood pressure                                                                                                                                                    |
+| • flushing                                                                                                                                                               |
+| • haematoma (collection of blood outside of blood vessels)                                                                                                               |
+| • cough                                                                                                                                                                  |
+| • asthma                                                                                                                                                                 |
+| • shortness of breath                                                                                                                                                    |
+| • gastrointestinal bleeding                                                                                                                                              |
+| • dyspepsia (indigestion, bloating, heart burn)                                                                                                                          |
+| • acid reflux disease • sicca syndrome (including dry eyes and dry                                                                                                       |
+| mouth) • itching                                                                                                                                                         |
+| • itchy rash                                                                                                                                                             |
+| • bruising                                                                                                                                                               |
+| • inflammation of the skin (such as eczema)                                                                                                                              |
+| • breaking of finger nails and toe nails                                                                                                                                 |
+| • increased sweating                                                                                                                                                     |
+| • hair loss                                                                                                                                                              |
+| • new onset or worsening of psoriasis • muscle spasms                                                                                                                    |
+| • blood in urine                                                                                                                                                         |
+| • kidney problems                                                                                                                                                        |
+| • chest pain                                                                                                                                                             |
+| • oedema (swelling)                                                                                                                                                      |
+| • fever                                                                                                                                                                  |
+| • reduction in blood                                                                                                                                                     |
+| platelets which increases risk of bleeding or bruising                                                                                                                   |
+| • impaired healing                                                                                                                                                       |
+
+<div style=\"page-break-after: always\"></div>
 
 ## Uncommon (may affect up to 1 in 100 people)
 
@@ -5510,9 +5453,6 @@ The symptoms described above can be signs of the below listed side effects, whic
 
 - leukaemia (cancer affecting the blood and bone marrow)
 - severe allergic reaction with shock
-
-<div style=\"page-break-after: always\"></div>
-
 - multiple sclerosis
 - nerve disorders (such as eye nerve inflammation and Guillain-Barré syndrome that may cause muscle weakness, abnormal sensations, tingling in the arms and upper body)
 - heart stops pumping
@@ -5526,10 +5466,13 @@ The symptoms described above can be signs of the below listed side effects, whic
 - facial oedema (swelling of the face) associated with allergic reactions
 - erythema multiforme (inflammatory skin rash)
 - lupus-like syndrome
+
+<div style=\"page-break-after: always\"></div>
+
 - angioedema (localised swelling of the skin)
 - lichenoid skin reaction (itchy reddish-purple skin rash)
 
-## Not known (frequency cannot be estimated from the available data)
+Not known (frequency cannot be estimated from the available data)
 
 - hepatosplenic T-cell lymphoma (a rare blood cancer that is often fatal)
 - Merkel cell carcinoma (a type of skin cancer)
@@ -5540,14 +5483,14 @@ The symptoms described above can be signs of the below listed side effects, whic
 
 Some side effects observed with adalimumab may not have symptoms and may only be discovered through blood tests. These include:
 
-## Very common (may affect more than 1 in 10 people)
+Very common (may affect more than 1 in 10 people)
 
 - low blood measurements for white blood cells
 - low blood measurements for red blood cells
 - increased lipids in the blood
 - elevated liver enzymes
 
-## Common (may affect up to 1 in 10 people)
+Common (may affect up to 1 in 10 people)
 
 - high blood measurements for white blood cells
 - low blood measurements for platelets
@@ -5560,11 +5503,9 @@ Some side effects observed with adalimumab may not have symptoms and may only be
 - autoantibodies present in the blood
 - low blood potassium
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
 - elevated bilirubin measurement (liver blood test)
-
-<div style=\"page-break-after: always\"></div>
 
 Rare (may affect up to 1 in 1,000 people)
 
@@ -5578,9 +5519,13 @@ If your child gets any side effects, talk to your doctor or pharmacist. This inc
 
 Keep this medicine out of the sight and reach of children.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not use this medicine after the expiry date stated on the label/blister/carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze.
+
+Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## Alternative Storage:
 
@@ -5611,17 +5556,15 @@ Each pack contains 2 pre-filled syringes packed in a blister, with 2 alcohol pad
 
 STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
-<div style=\"page-break-after: always\"></div>
-
 ## Manufacturer
 
 Ivers-Lee CSM Marie-Curie-Str.8 79539 Lörrach Germany
 
 Alvotech Hf Sæmundargata 15-19 Reykjavik, 102 Iceland
 
-STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
+STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+<div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien
 
@@ -5631,7 +5574,11 @@ EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
 STADA Bulgaria EOOD Teл.: +359 29624626
 
-Česká republika STADA PHARMA CZ s.r.o. Tel: +420 257888111
+## Česká republika
+
+STADA PHARMA CZ s.r.o.
+
+Tel: +420 257888111
 
 ## Danmark
 
@@ -5647,7 +5594,9 @@ UAB 'STADA Baltics' Tel: +372 53072153
 
 ## Ελλάδα
 
-RAFARM A.E.B.E. Τηλ: +30 2106776550
+RAFARM A.E.B.E.
+
+Τηλ: +30 2106776550
 
 ## España
 
@@ -5657,9 +5606,33 @@ Laboratorio STADA, S.L. Tel: +34 934738889
 
 EG LABO - Laboratoires EuroGenerics Tél: +33 146948686
 
+## Hrvatska
+
+STADA d.o.o.
+
+Tel: +385 13764111
+
+## Ireland
+
+Clonmel Healthcare Ltd. Tel: +353 526177777
+
+## Ísland
+
+STADA Arzneimittel AG
+
+Sími: +49 61016030
+
+## Italia
+
+EG SpA
+
+Tel: +39 028310371
+
 ## Lietuva
 
-UAB 'STADA Baltics' Tel: +370 52603926
+UAB 'STADA Baltics'
+
+Tel: +370 52603926
 
 ## Luxembourg/Luxemburg
 
@@ -5671,11 +5644,15 @@ STADA Hungary Kft Tel.: +36 18009747
 
 ## Malta
 
-Pharma.MT Ltd Tel: +356 21337008
+Pharma.MT Ltd
+
+Tel: +356 21337008
 
 ## Nederland
 
-Centrafarm B.V. Tel.: +31 765081000
+Centrafarm B.V.
+
+Tel.: +31 765081000
 
 ## Norge
 
@@ -5691,27 +5668,11 @@ STADA Pharm Sp. z o.o. Tel: +48 227377920
 
 ## Portugal
 
-Stada, Lda.
-
-Tel: +351 211209870
-
-## Hrvatska
-
-STADA d.o.o.
-
-Tel: +385 13764111
+Stada, Lda. Tel: +351 211209870
 
 ## România
 
-STADA M&amp;D SRL
-
-Tel: +40 213160640
-
-## Ireland
-
-Clonmel Healthcare Ltd.
-
-Tel: +353 526177777
+STADA M&amp;D SRL Tel: +40 213160640
 
 ## Slovenija
 
@@ -5719,23 +5680,9 @@ Stada d.o.o.
 
 Tel: +386 15896710
 
-## Ísland
-
-STADA Arzneimittel AG
-
-Sími: +49 61016030
-
 ## Slovenská republika
 
-STADA PHARMA Slovakia, s.r.o.
-
-Tel: +421 252621933
-
-## Italia
-
-EG SpA
-
-Tel: +39 028310371
+STADA PHARMA Slovakia, s.r.o. Tel: +421 252621933
 
 ## Suomi/Finland
 
@@ -5749,11 +5696,7 @@ STADA Arzneimittel AG
 
 Τηλ: +30 2106664667
 
-## Sverige
-
-STADA Nordic ApS
-
-Tel: +45 44859999
+<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -5761,15 +5704,17 @@ UAB 'STADA Baltics'
 
 Tel: +371 28016404
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-Detailed information on this medicine, including a video on how to use the pre-filled syringe is available by scanning the QR code included below or the outer carton with a smartphone. The same information is also available on the following URL: hukyndrapatients.com QR code to be included
+Detailed information on this medicine, including a video on how to use the pre-filled syringe is available by scanning the QR code included below or the outer carton with a smartphone. The same information is also available on the following URL: hukyndrapatients.com
+
+QR code to be included Sverige STADA Nordic ApS
+
+Tel: +45 44859999
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5968,23 +5913,16 @@ Do not dispose of your used sharps disposal container in your household trash. D
 
 If you have any questions contact your healthcare provider for help.
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
-## Hukyndra 40 mg solution for injection in pre-filled syringe
+<div style=\"page-break-after: always\"></div>
 
-## adalimumab
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+## Hukyndra 40 mg solution for injection in pre-filled syringe adalimumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
 - -Keep this leaflet. You may need to read it again.
-- -Your doctor will also give you a Patient Reminder Card , which contains important safety with Hukyndra. Keep this Patient Reminder Card with you during your treatment and for
-- information that you need to be aware of before you begin using Hukyndra and during treatment 4 months after your last injection of Hukyndra.
+- -Your doctor will also give you a Patient Reminder Card , which contains important safety information that you need to be aware of before you begin using Hukyndra and during treatment with Hukyndra. Keep this Patient Reminder Card with you during your treatment and for 4 months after your last injection of Hukyndra.
 - -If you have any further questions, ask your doct or or pharmacist.
 - -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
 - -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
@@ -6021,11 +5959,11 @@ The active substance in Hukyndra, adalimumab, is a human monoclonal antibody. Mo
 
 The target of adalimumab is a protein called tumour necrosis factor (TNFα), which is involved in the immune (defence) system and is present at increased levels in the inflammatory diseases listed above. By attaching to TNFα, Hukyndra decreases the process of inflammation in these diseases.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Rheumatoid arthritis
 
 Rheumatoid arthritis is an inflammatory disease of the joints.
+
+<div style=\"page-break-after: always\"></div>
 
 Hukyndra is used to treat moderate to severe rheumatoid arthritis in adults. You may first be given other disease-modifying medicines, such as methotrexate. If you do not respond well enough to these medicines, you will be given Hukyndra.
 
@@ -6061,13 +5999,13 @@ Psoriatic arthritis is an inflammatory disease of the joints that is usually ass
 
 Hukyndra is used to treat psoriatic arthritis in adults. Hukyndra can slow down the damage to the joints caused by the disease and can help them move more freely. You may first be given other medicines. If you do not respond well enough to these medicines, you will be given Hukyndra.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Plaque psoriasis
 
 Plaque psoriasis is a skin condition that causes red, flaky, crusty patches of skin covered with silvery scales. Plaque psoriasis can also affect the nails, causing them to crumble, become thickened and lift away from the nail bed which can be painful.
 
-Hukyndra is used to treat
+## Hukyndra is used to treat
+
+<div style=\"page-break-after: always\"></div>
 
 - moderate to severe chronic plaque psoriasis in adults and
 - severe chronic plaque psoriasis in children and adolescents aged 4 to 17 years for whom topical therapy and phototherapies have either not worked very well or are not suitable.
@@ -6114,11 +6052,11 @@ Hukyndra is used to treat
 - adults with non-infectious uveitis with inflammation affecting the back of the eye
 - children with chronic non-infectious uveitis from 2 years of age with inflammation affecting the front of the eye
 
-<div style=\"page-break-after: always\"></div>
-
 This inflammation may lead to a decrease of vision and/or the presence of floaters in the eye (black dots or wispy lines that move across the field of vision). Hukyndra works by reducing this inflammation.
 
 You may first be given other medicines. If you do not respond well enough to these medicines, you will be given Hukyndra.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 2. What you need to know before you use Hukyndra
 
@@ -6142,7 +6080,8 @@ Talk to your doctor or pharmacist before using Hukyndra.
 - You might get infections more easily while you are receiving Hukyndra treatment. This risk may increase if you have problems with your lungs. These infections may be serious and include:
 - o tuberculosis
 - o infections caused by viruses, fungi, parasites or bacteria
-- o severe infection in the blood (sepsis)
+- o
+- severe infection in the blood (sepsis)
 
 In rare cases, these infections can be life-threatening. It is important to tell your doctor if you get symptoms such as fever, wounds, feeling tired or dental problems. Your doctor may tell you to stop using Hukyndra for some time.
 
@@ -6150,12 +6089,13 @@ In rare cases, these infections can be life-threatening. It is important to tell
 - Tell your doctor if you have had infections which keep coming back or other conditions that increase the risk of infections.
 - If you are over 65 years you may be more likely to get infections while taking Hukyndra. You and your doctor should pay special attention to signs of infection while you are being treated with Hukyndra. It is important to tell your doctor if you get symptoms of infections, such as fever, wounds, feeling tired or dental problems.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tuberculosis
 
 - It is very important that you tell your doctor if you have ever had tuberculosis, or if you have been in close contact with someone who has had tuberculosis. If you have active tuberculosis, do not use Hukyndra.
 - o As cases of tuberculosis have been reported in patients treated with adalimumab, your doctor will check you for signs and symptoms of tuberculosis before starting Hukyndra. This will include a thorough medical evaluation including your medical history and appropriate screening tests (for example chest X-ray and a tuberculin test). The conduct and results of these tests should be recorded on your Patient Reminder Card .
+
+<div style=\"page-break-after: always\"></div>
+
 - o Tuberculosis can develop during therapy even if you have received treatment for the prevention of tuberculosis.
 - o If symptoms of tuberculosis (for example, cough that does not go away, weight loss, lack of energy, mild fever), or any other infection appear during or after therapy, tell your doctor immediately.
 
@@ -6184,13 +6124,13 @@ In rare cases, these infections can be life-threatening. It is important to tell
 
 - If you have mild heart failure and are being treated with Hukyndra, your heart failure status must be closely monitored by your doctor. It is important to tell your doctor if you have had or have a serious heart condition. If you develop new or worsening symptoms of heart failure (e.g. shortness of breath, or swelling of your feet), you must contact your doctor immediately. Your doctor will decide if you should receive Hukyndra.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Fever, bruising, bleeding or looking pale
 
 - In some patients the body may fail to produce enough of the blood cells that fight off infections or help you to stop bleeding. Your doctor may decide to stop treatment. If you develop a fever that does not go away, develop light bruises or bleed very easily or look very pale, call your doctor right away.
 
 ## Cancer
+
+<div style=\"page-break-after: always\"></div>
 
 - There have been very rare cases of certain kinds of cancer in children and adult patients taking adalimumab or other TNF blockers.
 - o People with more serious rheumatoid arthritis who have had the disease for a long time may have a higher than average risk of getting lymphoma (a cancer that affects the lymph system) and leukaemia (a cancer that affects the blood and bone marrow).
@@ -6228,14 +6168,14 @@ If you have questions, please ask your doctor.
 ## Pregnancy and breast-feeding
 
 - You should consider the use of adequate contraception to prevent pregnancy and continue its use for at least 5 months after the last Hukyndra treatment.
-
-<div style=\"page-break-after: always\"></div>
-
 - If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice about taking this medicine.
 - Hukyndra should only be used during a pregnancy if needed.
 - According to a pregnancy study, there was no higher risk of birth defects when the mother had received adalimumab during pregnancy compared with mothers with the same disease who did not receive adalimumab.
 - Hukyndra can be used during breast-feeding.
 - If you receive Hukyndra during your pregnancy, your baby may have a higher risk for getting an infection.
+
+<div style=\"page-break-after: always\"></div>
+
 - It is important that you tell your baby's doctors and other health care professionals about your Hukyndra use during your pregnancy before the baby receives any vaccine. For more information on vaccines see the 'Warnings and precautions' section.
 
 ## Driving and using machines
@@ -6259,13 +6199,13 @@ The recommended doses for Hukyndra in each of the approved uses are shown in the
 | Age or body weight                                                                                                                                     | How much and how often to take?                                                                                                                        | Notes                                                                                                                                                                                                                                                                                                                                                 |
 | Adults                                                                                                                                                 | 40 mg every other week                                                                                                                                 | In rheumatoid arthritis, methotrexate is continued while using Hukyndra. If your doctor decides that methotrexate is inappropriate, Hukyndra can be given alone. If you have rheumatoid arthritis and you do not receive methotrexate with your Hukyndra therapy, your doctor may decide to give Hukyndra 40 mg every week or 80 mg every other week. |
 
-<div style=\"page-break-after: always\"></div>
-
 | Polyarticular juvenile idiopathic arthritis                                    | Polyarticular juvenile idiopathic arthritis   | Polyarticular juvenile idiopathic arthritis   |
 |--------------------------------------------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 | Age or body weight                                                             | How much and how often to take?               | Notes                                         |
 | Children, adolescents and adults from 2 years of age weighing 30 kg or more    | 40 mg every other week                        | Not applicable                                |
 | Children and adolescents from 2 years of age weighing 10 kg to less than 30 kg | 20 mg every other week                        | Not applicable                                |
+
+<div style=\"page-break-after: always\"></div>
 
 | Enthesitis-related arthritis                                                   | Enthesitis-related arthritis    | Enthesitis-related arthritis   |
 |--------------------------------------------------------------------------------|---------------------------------|--------------------------------|
@@ -6280,16 +6220,13 @@ The recommended doses for Hukyndra in each of the approved uses are shown in the
 | Children and adolescents from 4 to 17 years of age weighing 30 kg or more            | First dose of 40 mg, followed by 40 mg one week later. Thereafter, the usual dose is 40 mg every other week.                      | Not applicable                                                                                                       |
 | Children and adolescents from 4 to 17 years of age weighing 15 kg to less than 30 kg | First dose of 20 mg, followed by 20 mg one week later. Thereafter, the usual dose is 20 mg every other week.                      | Not applicable                                                                                                       |
 
-| Hidradenitis suppurativa                                      | Hidradenitis suppurativa                                                                                                                                                                                                                                                                                                  | Hidradenitis suppurativa                                                                                          |
-|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Age or body weight                                            | How much and how often to take?                                                                                                                                                                                                                                                                                           | Notes                                                                                                             |
-| Adults                                                        | First dose of 160 mg (four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by an 80 mg dose (two 40 mg injections in one day) two weeks later. After two further weeks, continue with a dose of 40 mg every week or 80 mg every other week, as prescribed by your doctor. | It is recommended that you use an antiseptic wash daily on the affected areas.                                    |
-| Adolescents from 12 to 17 years of age weighing 30 kg or more | First dose of 80 mg (two 40 mg injections in one day), followed by 40 mg every other week starting one week later.                                                                                                                                                                                                        | If you have an inadequate response to Hukyndra 40 mg every other week, your doctor may increase the dose to 40 mg |
+| Hidradenitis suppurativa                                      | Hidradenitis suppurativa                                                                                                                                                                                                                                                                                                  | Hidradenitis suppurativa                                                                                                                                                                                                               |
+|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Age or body weight                                            | How much and how often to take?                                                                                                                                                                                                                                                                                           | Notes                                                                                                                                                                                                                                  |
+| Adults                                                        | First dose of 160 mg (four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by an 80 mg dose (two 40 mg injections in one day) two weeks later. After two further weeks, continue with a dose of 40 mg every week or 80 mg every other week, as prescribed by your doctor. | It is recommended that you use an antiseptic wash daily on the affected areas.                                                                                                                                                         |
+| Adolescents from 12 to 17 years of age weighing 30 kg or more | First dose of 80 mg (two 40 mg injections in one day), followed by 40 mg every other week starting one week later.                                                                                                                                                                                                        | If you have an inadequate response to Hukyndra 40 mg every other week, your doctor may increase the dose to 40 mg every week or 80 mg every other week. It is recommended that you use an antiseptic wash daily on the affected areas. |
 
 <div style=\"page-break-after: always\"></div>
-
-| every week or 80 mg every other week. It is recommended that you use an antiseptic wash daily on the affected areas.   |
-|------------------------------------------------------------------------------------------------------------------------|
 
 | Crohn's disease                                                             | Crohn's disease                                                                                                                                                                                                                                                                                                                                                                                     | Crohn's disease                                                                  |
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
@@ -6302,11 +6239,9 @@ The recommended doses for Hukyndra in each of the approved uses are shown in the
 | Age or body weight                                                    | How much and how often to take?                                                                                                                                                                                                              | Notes                                                                                         |
 | Adults                                                                | First dose of 160 mg (four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by 80 mg (two 40 mg injections in one day) two weeks later. Thereafter, the usual dose is 40 mg every other week. | Your doctor may increase the dose to 40 mg every week or 80 mg every other week.              |
 | Children and adolescents from 6 years of age weighing less than 40 kg | First dose of 80 mg (two 40 mg injections in one day), followed by 40 mg (one 40 mg injection) two weeks later. Thereafter, the usual dose is 40 mg every other week.                                                                        | You should continue taking adalimumab at your usual dose, even after turning 18 years of age. |
+| Children and adolescents from 6 years of age weighing 40 kg or more   | First dose of 160 mg (four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by 80 mg (two 40 mg injections in one day) two weeks later. Thereafter, the usual dose is 80 mg every other week. | You should continue taking adalimumab at your usual dose, even after turning 18 years of age. |
 
 <div style=\"page-break-after: always\"></div>
-
-| Children and adolescents from 6 years of age weighing 40 kg or more   | First dose of 160 mg (four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by 80 mg (two 40 mg injections in one day) two weeks later. Thereafter, the usual dose is 80 mg every other week.   | You should continue taking adalimumab at your usual dose, even after turning 18 years of age.   |
-|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 
 | Non-infectious uveitis                                                | Non-infectious uveitis                                                                                                            | Non-infectious uveitis                                                                                                                                                                                           |
 |-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6319,7 +6254,7 @@ The recommended doses for Hukyndra in each of the approved uses are shown in the
 
 Hukyndra is administered by injection under the skin (by subcutaneous injection).
 
-## Detailed instructions on how to inject Hukyndra are provided in section 7, 'Instructions for use'.
+Detailed instructions on how to inject Hukyndra are provided in section 7, 'Instructions for use'.
 
 ## If you use more Hukyndra than you should
 
@@ -6335,8 +6270,6 @@ The decision to stop using Hukyndra should be discussed with your doctor. Your s
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Most side effects are mild to moderate. However, some may be serious and require treatment. Side effects may occur at least up to 4 months after the last Hukyndra injection.
@@ -6344,6 +6277,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 ## Tell your doctor immediately if you notice any of the following
 
 - severe rash, hives or other signs of allergic reaction
+
+<div style=\"page-break-after: always\"></div>
+
 - swollen face, hands, feet
 - trouble breathing, swallowing
 - shortness of breath with physical activity or upon lying down or swelling of the feet
@@ -6391,9 +6327,6 @@ The symptoms described above can be signs of the below listed side effects, whic
 - anxiety
 - difficulty sleeping
 - sensation disorders such as tingling, prickling or numbness
-
-<div style=\"page-break-after: always\"></div>
-
 - migraine
 - nerve root compression (including low back pain and leg pain)
 - vision disturbances
@@ -6402,6 +6335,9 @@ The symptoms described above can be signs of the below listed side effects, whic
 - vertigo (feeling of dizziness or spinning)
 - sensation of heart beating rapidly
 - high blood pressure
+
+<div style=\"page-break-after: always\"></div>
+
 - flushing
 - haematoma (collection of blood outside of blood vessels)
 - cough
@@ -6447,9 +6383,6 @@ The symptoms described above can be signs of the below listed side effects, whic
 - sensation of heart beating irregularly such as skipped beats
 - heart problems that can cause shortness of breath or ankle swelling
 - heart attack
-
-<div style=\"page-break-after: always\"></div>
-
 - a sac in the wall of a major artery, inflammation and clot of a vein, blockage of a blood vessel
 - lung diseases causing shortness of breath (including inflammation)
 - pulmonary embolism (blockage in an artery of the lung)
@@ -6458,6 +6391,9 @@ The symptoms described above can be signs of the below listed side effects, whic
 - difficulty in swallowing
 - facial oedema (swelling of the face)
 - gallbladder inflammation, gallbladder stones
+
+<div style=\"page-break-after: always\"></div>
+
 - fatty liver
 - night sweats
 - scar
@@ -6502,9 +6438,6 @@ Some side effects observed with adalimumab may not have symptoms and may only be
 
 - low blood measurements for white blood cells
 - low blood measurements for red blood cells
-
-<div style=\"page-break-after: always\"></div>
-
 - increased lipids in the blood
 - elevated liver enzymes
 
@@ -6515,6 +6448,9 @@ Some side effects observed with adalimumab may not have symptoms and may only be
 - increased uric acid in the blood
 - abnormal blood measurements for sodium
 - low blood measurements for calcium
+
+<div style=\"page-break-after: always\"></div>
+
 - low blood measurements for phosphate
 - high blood sugar
 - high blood measurements for lactate dehydrogenase
@@ -6553,8 +6489,6 @@ Do not use this medicine if the liquid is cloudy, discoloured, or has flakes or 
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. Contents of the pack and other information
 
 ## What Hukyndra contains
@@ -6569,6 +6503,8 @@ Hukyndra 40 mg solution for injection in pre-filled syringe with needle guard is
 The Hukyndra pre-filled syringe is a glass syringe containing a solution of adalimumab.
 
 Each pack contains 1, 2 or 6 pre-filled syringe(s) packed in a blister, with 1, 2 or 6 alcohol pad(s).
+
+<div style=\"page-break-after: always\"></div>
 
 Not all pack sizes may be marketed.
 
@@ -6592,7 +6528,7 @@ For any information about this medicine, please contact the local representative
 
 EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
-Lietuva
+## Lietuva
 
 UAB 'STADA Baltics' Tel: +370 52603926
 
@@ -6604,11 +6540,13 @@ Teл.: +359 29624626
 
 ## Luxembourg/Luxemburg
 
-EG (Eurogenerics) NV
+EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
-Tél/Tel: +32 24797878
+## Česká republika
 
-Česká republika STADA PHARMA CZ s.r.o. Tel: +420 257888111
+STADA PHARMA CZ s.r.o.
+
+Tel: +420 257888111
 
 ## Magyarország
 
@@ -6616,85 +6554,9 @@ STADA Hungary Kft
 
 Tel.: +36 18009747
 
-<div style=\"page-break-after: always\"></div>
-
 ## Danmark
 
-STADA Nordic ApS
-
-Tlf: +45 44859999
-
-## Deutschland
-
-STADAPHARM GmbH
-
-Tel: +49 61016030
-
-## Eesti
-
-UAB 'STADA Baltics'
-
-Tel: +372 53072153
-
-## Ελλάδα
-
-RAFARM A.E.B.E.
-
-Τηλ: +30 2106776550
-
-## España
-
-Laboratorio STADA, S.L.
-
-Tel: +34 934738889
-
-## France
-
-EG LABO - Laboratoires EuroGenerics
-
-Tél: +33 146948686
-
-## Hrvatska
-
-STADA d.o.o.
-
-Tel: +385 13764111
-
-## Ireland
-
-Clonmel Healthcare Ltd.
-
-Tel: +353 526177777
-
-## Ísland
-
-STADA Arzneimittel AG
-
-Sími: +49 61016030
-
-## Italia
-
-EG SpA
-
-Tel: +39 028310371
-
-## Κύπρος
-
-STADA Arzneimittel AG
-
-Τηλ: +30 2106664667
-
-## Latvija
-
-UAB 'STADA Baltics'
-
-Tel: +371 28016404
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+STADA Nordic ApS Tlf: +45 44859999
 
 ## Malta
 
@@ -6702,11 +6564,23 @@ Pharma.MT Ltd
 
 Tel: +356 21337008
 
+## Deutschland
+
+STADAPHARM GmbH
+
+Tel: +49 61016030
+
 ## Nederland
 
 Centrafarm B.V.
 
 Tel.: +31 765081000
+
+## Eesti
+
+UAB 'STADA Baltics'
+
+Tel: +372 53072153
 
 ## Norge
 
@@ -6714,11 +6588,23 @@ STADA Nordic ApS
 
 Tlf: +45 44859999
 
+## Ελλάδα
+
+RAFARM A.E.B.E.
+
+Τηλ: +30 2106776550
+
 ## Österreich
 
 STADA Arzneimittel GmbH
 
 Tel: +43 136785850
+
+## España
+
+Laboratorio STADA, S.L.
+
+Tel: +34 934738889
 
 ## Polska
 
@@ -6726,11 +6612,23 @@ STADA Pharm Sp. z o.o.
 
 Tel: +48 227377920
 
+## France
+
+EG LABO - Laboratoires EuroGenerics
+
+Tél: +33 146948686
+
 ## Portugal
 
 Stada, Lda.
 
 Tel: +351 211209870
+
+## Hrvatska
+
+STADA d.o.o.
+
+Tel: +385 13764111
 
 ## România
 
@@ -6738,11 +6636,23 @@ STADA M&amp;D SRL
 
 Tel: +40 213160640
 
+## Ireland
+
+Clonmel Healthcare Ltd.
+
+Tel: +353 526177777
+
 ## Slovenija
 
 Stada d.o.o.
 
 Tel: +386 15896710
+
+## Ísland
+
+STADA Arzneimittel AG
+
+Sími: +49 61016030
 
 ## Slovenská republika
 
@@ -6750,11 +6660,23 @@ STADA PHARMA Slovakia, s.r.o.
 
 Tel: +421 252621933
 
+## Italia
+
+EG SpA
+
+Tel: +39 028310371
+
 ## Suomi/Finland
 
 STADA Nordic ApS, Suomen sivuliike
 
 Puh/Tel: +358 207416888
+
+## Κύπρος
+
+STADA Arzneimittel AG
+
+Τηλ: +30 2106664667
 
 ## Sverige
 
@@ -6762,9 +6684,23 @@ STADA Nordic ApS
 
 Tel: +45 44859999
 
+## Latvija
+
+UAB 'STADA Baltics'
+
+Tel: +371 28016404
+
 <div style=\"page-break-after: always\"></div>
 
-Detailed information on this medicine, including a video on how to use the pre-filled syringe, is available by scanning the QR code included below or the outer carton with a smartphone. The same information is also available on the following URL: hukyndrapatients.com QR code to be included
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+Detailed information on this medicine, including a video on how to use the pre-filled syringe, is available by scanning the QR code included below or the outer carton with a smartphone. The same information is also available on the following URL: hukyndrapatients.com
+
+QR code to be included
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6963,17 +6899,11 @@ Do not dispose of your used sharps disposal container in your household trash. D
 
 If you have any questions contact your healthcare provider for help.
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
-## Hukyndra 40 mg solution for injection in pre-filled pen
+<div style=\"page-break-after: always\"></div>
 
-## adalimumab
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+## Hukyndra 40 mg solution for injection in pre-filled pen adalimumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -7015,11 +6945,11 @@ The active substance in Hukyndra, adalimumab, is a human monoclonal antibody. Mo
 
 The target of adalimumab is a protein called tumour necrosis factor (TNFα), which is involved in the immune (defence) system and is present at increased levels in the inflammatory diseases listed above. By attaching to TNFα, Hukyndra decreases the process of inflammation in these diseases.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Rheumatoid arthritis
 
 Rheumatoid arthritis is an inflammatory disease of the joints.
+
+<div style=\"page-break-after: always\"></div>
 
 Hukyndra is used to treat moderate to severe rheumatoid arthritis in adults. You may first be given other disease-modifying medicines, such as methotrexate. If you do not respond well enough to these medicines, you will be given Hukyndra.
 
@@ -7055,13 +6985,13 @@ Psoriatic arthritis is an inflammatory disease of the joints that is usually ass
 
 Hukyndra is used to treat psoriatic arthritis in adults. Hukyndra can slow down the damage to the joints caused by the disease and can help them move more freely. You may first be given other medicines. If you do not respond well enough to these medicines, you will be given Hukyndra.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Plaque psoriasis
 
 Plaque psoriasis is a skin condition that causes red, flaky, crusty patches of skin covered with silvery scales. Plaque psoriasis can also affect the nails, causing them to crumble, become thickened and lift away from the nail bed which can be painful.
 
-Hukyndra is used to treat
+## Hukyndra is used to treat
+
+<div style=\"page-break-after: always\"></div>
 
 - moderate to severe chronic plaque psoriasis in adults and
 - severe chronic plaque psoriasis in children and adolescents aged 4 to 17 years for whom topical therapy and phototherapies have either not worked very well or are not suitable
@@ -7108,11 +7038,11 @@ Hukyndra is used to treat
 - adults with non-infectious uveitis with inflammation affecting the back of the eye
 - children with chronic non-infectious uveitis from 2 years of age with inflammation affecting the front of the eye
 
-<div style=\"page-break-after: always\"></div>
-
 This inflammation may lead to a decrease of vision and/or the presence of floaters in the eye (black dots or wispy lines that move across the field of vision). Hukyndra works by reducing this inflammation.
 
 You may first be given other medicines. If you do not respond well enough to these medicines, you will be given Hukyndra.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 2. What you need to know before you use Hukyndra
 
@@ -7136,7 +7066,8 @@ Talk to your doctor or pharmacist before using Hukyndra.
 - You might get infections more easily while you are receiving Hukyndra treatment. This risk may increase if you have problems with your lungs. These infections may be serious and include:
 - o tuberculosis
 - o infections caused by viruses, fungi, parasites or bacteria
-- o severe infection in the blood (sepsis)
+- o
+- severe infection in the blood (sepsis)
 
 In rare cases, these infections can be life-threatening. It is important to tell your doctor if you get symptoms such as fever, wounds, feeling tired or dental problems. Your doctor may tell you to stop using Hukyndra for some time.
 
@@ -7144,12 +7075,13 @@ In rare cases, these infections can be life-threatening. It is important to tell
 - Tell your doctor if you have had infections which keep coming back or other conditions that increase the risk of infections.
 - If you are over 65 years you may be more likely to get infections while taking Hukyndra. You and your doctor should pay special attention to signs of infection while you are being treated with Hukyndra. It is important to tell your doctor if you get symptoms of infections, such as fever, wounds, feeling tired or dental problems.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tuberculosis
 
 - It is very important that you tell your doctor if you have ever had tuberculosis, or if you have been in close contact with someone who has had tuberculosis. If you have active tuberculosis, do not use Hukyndra.
 - o As cases of tuberculosis have been reported in patients treated with adalimumab, your doctor will check you for signs and symptoms of tuberculosis before starting Hukyndra. This will include a thorough medical evaluation including your medical history and appropriate screening tests (for example chest X-ray and a tuberculin test). The conduct and results of these tests should be recorded on your Patient Reminder Card .
+
+<div style=\"page-break-after: always\"></div>
+
 - o Tuberculosis can develop during therapy even if you have received treatment for the prevention of tuberculosis.
 - o If symptoms of tuberculosis (for example, cough that does not go away, weight loss, lack of energy, mild fever), or any other infection appear during or after therapy, tell your doctor immediately.
 
@@ -7178,13 +7110,13 @@ In rare cases, these infections can be life-threatening. It is important to tell
 
 - If you have mild heart failure and are being treated with Hukyndra, your heart failure status must be closely monitored by your doctor. It is important to tell your doctor if you have had or have a serious heart condition. If you develop new or worsening symptoms of heart failure (e.g. shortness of breath, or swelling of your feet), you must contact your doctor immediately. Your doctor will decide if you should receive Hukyndra.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Fever, bruising, bleeding or looking pale
 
 - In some patients the body may fail to produce enough of the blood cells that fight off infections or help you to stop bleeding. Your doctor may decide to stop treatment. If you develop a fever that does not go away, develop light bruises or bleed very easily or look very pale, call your doctor right away.
 
 ## Cancer
+
+<div style=\"page-break-after: always\"></div>
 
 - There have been very rare cases of certain kinds of cancer in children and adult patients taking adalimumab or other TNF blockers.
 - o People with more serious rheumatoid arthritis who have had the disease for a long time may have a higher than average risk of getting lymphoma (a cancer that affects the lymph system) and leukaemia (a cancer that affects the blood and bone marrow).
@@ -7222,14 +7154,14 @@ If you have questions, please ask your doctor.
 ## Pregnancy and breast-feeding
 
 - You should consider the use of adequate contraception to prevent pregnancy and continue its use for at least 5 months after the last Hukyndra treatment.
-
-<div style=\"page-break-after: always\"></div>
-
 - If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice about taking this medicine.
 - Hukyndra should only be used during a pregnancy if needed.
 - According to a pregnancy study, there was no higher risk of birth defects when the mother had received adalimumab during pregnancy compared with mothers with the same disease who did not receive adalimumab.
 - Hukyndra can be used during breast-feeding.
 - If you receive Hukyndra during your pregnancy, your baby may have a higher risk for getting an infection.
+
+<div style=\"page-break-after: always\"></div>
+
 - It is important that you tell your baby's doctors and other health care professionals about your Hukyndra use during your pregnancy before the baby receives any vaccine. For more information on vaccines see the 'Warnings and precautions' section.
 
 ## Driving and using machines
@@ -7253,13 +7185,13 @@ The recommended doses for Hukyndra in each of the approved uses are shown in the
 | Age or body weight                                                                                                                                     | How much and how often to take?                                                                                                                        | Notes                                                                                                                                                                                                                                                                                                                                                 |
 | Adults                                                                                                                                                 | 40 mg every other week                                                                                                                                 | In rheumatoid arthritis, methotrexate is continued while using Hukyndra. If your doctor decides that methotrexate is inappropriate, Hukyndra can be given alone. If you have rheumatoid arthritis and you do not receive methotrexate with your Hukyndra therapy, your doctor may decide to give Hukyndra 40 mg every week or 80 mg every other week. |
 
-<div style=\"page-break-after: always\"></div>
-
 | Polyarticular juvenile idiopathic arthritis                                    | Polyarticular juvenile idiopathic arthritis   | Polyarticular juvenile idiopathic arthritis   |
 |--------------------------------------------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 | Age or body weight                                                             | How much and how often to take?               | Notes                                         |
 | Children, adolescents and adults from 2 years of age weighing 30 kg or more    | 40 mg every other week                        | Not applicable                                |
 | Children and adolescents from 2 years of age weighing 10 kg to less than 30 kg | 20 mg every other week                        | Not applicable                                |
+
+<div style=\"page-break-after: always\"></div>
 
 | Enthesitis-related arthritis                                                   | Enthesitis-related arthritis    | Enthesitis-related arthritis   |
 |--------------------------------------------------------------------------------|---------------------------------|--------------------------------|
@@ -7274,16 +7206,13 @@ The recommended doses for Hukyndra in each of the approved uses are shown in the
 | Children and adolescents from 4 to 17 years of age weighing 30 kg or more            | First dose of 40 mg, followed by 40 mg one week later. Thereafter, the usual dose is 40 mg every other week.                      | Not applicable                                                                                                       |
 | Children and adolescents from 4 to 17 years of age weighing 15 kg to less than 30 kg | First dose of 20 mg, followed by 20 mg one week later. Thereafter, the usual dose is 20 mg every other week.                      | Not applicable                                                                                                       |
 
-| Hidradenitis suppurativa                                      | Hidradenitis suppurativa                                                                                                                                                                                                                                                                                                  | Hidradenitis suppurativa                                                                                          |
-|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Age or body weight                                            | How much and how often to take?                                                                                                                                                                                                                                                                                           | Notes                                                                                                             |
-| Adults                                                        | First dose of 160 mg (four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by an 80 mg dose (two 40 mg injections in one day) two weeks later. After two further weeks, continue with a dose of 40 mg every week or 80 mg every other week, as prescribed by your doctor. | It is recommended that you use an antiseptic wash daily on the affected areas.                                    |
-| Adolescents from 12 to 17 years of age weighing 30 kg or more | First dose of 80 mg (two 40 mg injections in one day), followed by 40 mg every other week starting one week later.                                                                                                                                                                                                        | If you have an inadequate response to Hukyndra 40 mg every other week, your doctor may increase the dose to 40 mg |
+| Hidradenitis suppurativa                                      | Hidradenitis suppurativa                                                                                                                                                                                                                                                                                                  | Hidradenitis suppurativa                                                                                                                                                                                                               |
+|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Age or body weight                                            | How much and how often to take?                                                                                                                                                                                                                                                                                           | Notes                                                                                                                                                                                                                                  |
+| Adults                                                        | First dose of 160 mg (four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by an 80 mg dose (two 40 mg injections in one day) two weeks later. After two further weeks, continue with a dose of 40 mg every week or 80 mg every other week, as prescribed by your doctor. | It is recommended that you use an antiseptic wash daily on the affected areas.                                                                                                                                                         |
+| Adolescents from 12 to 17 years of age weighing 30 kg or more | First dose of 80 mg (two 40 mg injections in one day), followed by 40 mg every other week starting one week later.                                                                                                                                                                                                        | If you have an inadequate response to Hukyndra 40 mg every other week, your doctor may increase the dose to 40 mg every week or 80 mg every other week. It is recommended that you use an antiseptic wash daily on the affected areas. |
 
 <div style=\"page-break-after: always\"></div>
-
-| every week or 80 mg every other week. It is recommended that you use an antiseptic wash daily on the affected areas.   |
-|------------------------------------------------------------------------------------------------------------------------|
 
 | Crohn's disease                                                             | Crohn's disease                                                                                                                                                                                                                                                                                                                                                                                     | Crohn's disease                                                                  |
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
@@ -7296,11 +7225,9 @@ The recommended doses for Hukyndra in each of the approved uses are shown in the
 | Age or body weight                                                    | How much and how often to take?                                                                                                                                                                                                              | Notes                                                                                         |
 | Adults                                                                | First dose of 160 mg (four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by 80 mg (two 40 mg injections in one day) two weeks later. Thereafter, the usual dose is 40 mg every other week. | Your doctor may increase the dose to 40 mg every week or 80 mg every other week.              |
 | Children and adolescents from 6 years of age weighing less than 40 kg | First dose of 80 mg (two 40 mg injections in one day), followed by 40 mg (one 40 mg injection) two weeks later. Thereafter, the usual dose is 40 mg every other week.                                                                        | You should continue taking adalimumab at your usual dose, even after turning 18 years of age. |
+| Children and adolescents from 6 years of age weighing 40 kg or more   | First dose of 160 mg (four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by 80 mg (two 40 mg injections in one day) two weeks later. Thereafter, the usual dose is 80 mg every other week. | You should continue taking adalimumab at your usual dose, even after turning 18 years of age. |
 
 <div style=\"page-break-after: always\"></div>
-
-| Children and adolescents from 6 years of age weighing 40 kg or more   | First dose of 160 mg (four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by 80 mg (two 40 mg injections in one day) two weeks later. Thereafter, the usual dose is 80 mg every other week.   | You should continue taking adalimumab at your usual dose, even after turning 18 years of age.   |
-|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 
 | Non-infectious uveitis                                                | Non-infectious uveitis                                                                                                            | Non-infectious uveitis                                                                                                                                                                                           |
 |-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -7313,7 +7240,7 @@ The recommended doses for Hukyndra in each of the approved uses are shown in the
 
 Hukyndra is administered by injection under the skin (by subcutaneous injection).
 
-Detailed instructions on how to inject Hukyndra are provided in section 7, 'Instructions for use'.
+## Detailed instructions on how to inject Hukyndra are provided in section 7, 'Instructions for use'.
 
 ## If you use more Hukyndra than you should
 
@@ -7329,13 +7256,13 @@ The decision to stop using Hukyndra should be discussed with your doctor. Your s
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Most side effects are mild to moderate. However, some may be serious and require treatment. Side effects may occur at least up to 4 months after the last Hukyndra injection.
 
 ## Tell your doctor immediately if you notice any of the following
+
+<div style=\"page-break-after: always\"></div>
 
 - severe rash, hives or other signs of allergic reaction
 - swollen face, hands, feet
@@ -7384,9 +7311,6 @@ The symptoms described above can be signs of the below listed side effects, whic
 - mood swings (including depression)
 - anxiety
 - difficulty sleeping
-
-<div style=\"page-break-after: always\"></div>
-
 - sensation disorders such as tingling, prickling or numbness
 - migraine
 - nerve root compression (including low back pain and leg pain)
@@ -7395,6 +7319,9 @@ The symptoms described above can be signs of the below listed side effects, whic
 - inflammation of the eye lid and eye swelling
 - vertigo (feeling of dizziness or spinning)
 - sensation of heart beating rapidly
+
+<div style=\"page-break-after: always\"></div>
+
 - high blood pressure
 - flushing
 - haematoma (collection of blood outside of blood vessels)
@@ -7440,9 +7367,6 @@ The symptoms described above can be signs of the below listed side effects, whic
 - hearing loss, buzzing
 - sensation of heart beating irregularly such as skipped beats
 - heart problems that can cause shortness of breath or ankle swelling
-
-<div style=\"page-break-after: always\"></div>
-
 - heart attack
 - a sac in the wall of a major artery, inflammation and clot of a vein, blockage of a blood vessel
 - lung diseases causing shortness of breath (including inflammation)
@@ -7451,6 +7375,9 @@ The symptoms described above can be signs of the below listed side effects, whic
 - inflammation of the pancreas which causes severe pain in the abdomen and back
 - difficulty in swallowing
 - facial oedema (swelling of the face)
+
+<div style=\"page-break-after: always\"></div>
+
 - gallbladder inflammation, gallbladder stones
 - fatty liver
 - night sweats
@@ -7495,9 +7422,6 @@ Some side effects observed with adalimumab may not have symptoms and may only be
 ## Very common (may affect more than 1 in 10 people)
 
 - low blood measurements for white blood cells
-
-<div style=\"page-break-after: always\"></div>
-
 - low blood measurements for red blood cells
 - increased lipids in the blood
 - elevated liver enzymes
@@ -7508,6 +7432,9 @@ Some side effects observed with adalimumab may not have symptoms and may only be
 - low blood measurements for platelets
 - increased uric acid in the blood
 - abnormal blood measurements for sodium
+
+<div style=\"page-break-after: always\"></div>
+
 - low blood measurements for calcium
 - low blood measurements for phosphate
 - high blood sugar
@@ -7515,11 +7442,11 @@ Some side effects observed with adalimumab may not have symptoms and may only be
 - autoantibodies present in the blood
 - low blood potassium
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
 - elevated bilirubin measurement (liver blood test)
 
-## Rare (may affect up to 1 in 1,000 people)
+Rare (may affect up to 1 in 1,000 people)
 
 - low blood measurements for white blood cells, red blood cells and platelet count
 
@@ -7545,8 +7472,6 @@ Do not use this medicine if the liquid is cloudy, discoloured, or has flakes or 
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. Contents of the pack and other information
 
 ## What Hukyndra contains
@@ -7557,6 +7482,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Hukyndra looks like and contents of the pack
 
 Hukyndra 40 mg solution for injection in pre-filled pen is supplied as a sterile solution of 40 mg adalimumab dissolved in 0.4 ml solution for injection in pre-filled needle-based injection system (autoinjector) containing a pre-filled glass syringe with a fixed needle and a plunger stopper (bromobutyl rubber). The pen is a single use, disposable, handheld, mechanical injection device.
+
+<div style=\"page-break-after: always\"></div>
 
 Each pack contains 1, 2 or 6 pre-filled pen(s) packed in a blister, with 1, 2 or 6 alcohol pad(s).
 
@@ -7582,33 +7509,19 @@ For any information about this medicine, please contact the local representative
 
 EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
-Lietuva UAB 'STADA Baltics' Tel: +370 52603926
-
 ## България
 
 STADA Bulgaria EOOD
 
 Teл.: +359 29624626
 
-## Luxembourg/Luxemburg
+## Česká republika
 
-EG (Eurogenerics) NV Tél/Tel: +32 24797878
-
-Česká republika STADA PHARMA CZ s.r.o. Tel: +420 257888111
-
-## Magyarország
-
-STADA Hungary Kft
-
-Tel.: +36 18009747
-
-<div style=\"page-break-after: always\"></div>
+STADA PHARMA CZ s.r.o. Tel: +420 257888111
 
 ## Danmark
 
-STADA Nordic ApS
-
-Tlf: +45 44859999
+STADA Nordic ApS Tlf: +45 44859999
 
 ## Deutschland
 
@@ -7618,75 +7531,25 @@ Tel: +49 61016030
 
 ## Eesti
 
-UAB 'STADA Baltics'
+UAB 'STADA Baltics' Tel: +372 53072153
 
-Tel: +372 53072153
+## Lietuva
 
-## Ελλάδα
+UAB 'STADA Baltics' Tel: +370 52603926
 
-RAFARM A.E.B.E.
+## Luxembourg/Luxemburg
 
-Τηλ: +30 2106776550
+EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
-## España
+## Magyarország
 
-Laboratorio STADA, S.L.
+STADA Hungary Kft
 
-Tel: +34 934738889
-
-## France
-
-EG LABO - Laboratoires EuroGenerics
-
-Tél: +33 146948686
-
-## Hrvatska
-
-STADA d.o.o.
-
-Tel: +385 13764111
-
-## Ireland
-
-Clonmel Healthcare Ltd.
-
-Tel: +353 526177777
-
-## Ísland
-
-STADA Arzneimittel AG
-
-Sími: +49 61016030
-
-## Italia
-
-EG SpA
-
-Tel: +39 028310371
-
-## Κύπρος
-
-STADA Arzneimittel AG
-
-Τηλ: +30 2106664667
-
-## Latvija
-
-UAB 'STADA Baltics'
-
-Tel: +371 28016404
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+Tel.: +36 18009747
 
 ## Malta
 
-Pharma.MT Ltd
-
-Tel: +356 21337008
+Pharma.MT Ltd Tel: +356 21337008
 
 ## Nederland
 
@@ -7696,9 +7559,13 @@ Tel.: +31 765081000
 
 ## Norge
 
-STADA Nordic ApS
+STADA Nordic ApS Tlf: +45 44859999
 
-Tlf: +45 44859999
+## Ελλάδα
+
+RAFARM A.E.B.E.
+
+Τηλ: +30 2106776550
 
 ## Österreich
 
@@ -7706,11 +7573,23 @@ STADA Arzneimittel GmbH
 
 Tel: +43 136785850
 
+## España
+
+Laboratorio STADA, S.L.
+
+Tel: +34 934738889
+
 ## Polska
 
 STADA Pharm Sp. z o.o.
 
 Tel: +48 227377920
+
+## France
+
+EG LABO - Laboratoires EuroGenerics
+
+Tél: +33 146948686
 
 ## Portugal
 
@@ -7718,11 +7597,23 @@ Stada, Lda.
 
 Tel: +351 211209870
 
+## Hrvatska
+
+STADA d.o.o.
+
+Tel: +385 13764111
+
 ## România
 
 STADA M&amp;D SRL
 
 Tel: +40 213160640
+
+## Ireland
+
+Clonmel Healthcare Ltd.
+
+Tel: +353 526177777
 
 ## Slovenija
 
@@ -7730,11 +7621,23 @@ Stada d.o.o.
 
 Tel: +386 15896710
 
+## Ísland
+
+STADA Arzneimittel AG
+
+Sími: +49 61016030
+
 ## Slovenská republika
 
 STADA PHARMA Slovakia, s.r.o.
 
 Tel: +421 252621933
+
+## Italia
+
+EG SpA
+
+Tel: +39 028310371
 
 ## Suomi/Finland
 
@@ -7742,15 +7645,35 @@ STADA Nordic ApS, Suomen sivuliike
 
 Puh/Tel: +358 207416888
 
+## Κύπρος
+
+STADA Arzneimittel AG
+
+Τηλ: +30 2106664667
+
 ## Sverige
 
 STADA Nordic ApS
 
 Tel: +45 44859999
 
+## Latvija
+
+UAB 'STADA Baltics'
+
+Tel: +371 28016404
+
 <div style=\"page-break-after: always\"></div>
 
-Detailed information on this medicine, including a video on how to use the pre-filled pen, is available by scanning the QR code included below or the outer carton with a smartphone. The same information is also available on the following URL: hukyndrapatients.com QR code to be included
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+Detailed information on this medicine, including a video on how to use the pre-filled pen, is available by scanning the QR code included below or the outer carton with a smartphone. The same information is also available on the following URL: hukyndrapatients.com
+
+QR code to be included
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7965,10 +7888,6 @@ Figure N
 
 ## Hukyndra 80 mg solution for injection in pre-filled syringe adalimumab
 
-<!-- image -->
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
-
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
 - -Keep this leaflet. You may need to read it again.
@@ -8008,9 +7927,9 @@ The target of adalimumab is a protein called tumour necrosis factor (TNFα), whi
 
 Rheumatoid arthritis is an inflammatory disease of the joints.
 
-<div style=\"page-break-after: always\"></div>
-
 Hukyndra is used to treat moderate to severe rheumatoid arthritis in adults. You may first be given other disease-modifying medicines, such as methotrexate. If you do not respond well enough to these medicines, you will be given Hukyndra.
+
+<div style=\"page-break-after: always\"></div>
 
 Hukyndra can also be used to treat severe, active and progressive rheumatoid arthritis without previous methotrexate treatment.
 
@@ -8057,11 +7976,11 @@ Hukyndra is used to treat
 
 You may first be given other medicines. If you do not respond well enough to these medicines, you will be given Hukyndra.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Non-infectious uveitis
 
 Non-infectious uveitis is an inflammatory disease affecting certain parts of the eye.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hukyndra is used to treat
 
@@ -8471,9 +8390,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label/blister/carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze.
-
-Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## Alternative Storage:
 
@@ -8674,7 +8591,7 @@ QR code to be included
 
 Hukyndra (adalimumab) pre-filled syringe 80 mg/0.8 ml solution for injection, for subcutaneous use
 
-Read carefully these instructions for use before using the Hukyndra single-use pre-filled syringe.
+## Read carefully these instructions for use before using the Hukyndra single-use pre-filled syringe.
 
 ## Hukyndra pre-filled syringe
 
@@ -8864,17 +8781,11 @@ Do not dispose of your used sharps disposal container in your household trash. D
 
 If you have any questions contact your healthcare provider for help.
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
-## Hukyndra 80 mg solution for injection in pre-filled pen
+<div style=\"page-break-after: always\"></div>
 
-## adalimumab
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+## Hukyndra 80 mg solution for injection in pre-filled pen adalimumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -8915,9 +8826,9 @@ The target of adalimumab is a protein called tumour necrosis factor (TNFα), whi
 
 Rheumatoid arthritis is an inflammatory disease of the joints.
 
-<div style=\"page-break-after: always\"></div>
-
 Hukyndra is used to treat moderate to severe rheumatoid arthritis in adults. You may first be given other disease-modifying medicines, such as methotrexate. If you do not respond well enough to these medicines, you will be given Hukyndra.
+
+<div style=\"page-break-after: always\"></div>
 
 Hukyndra can also be used to treat severe, active and progressive rheumatoid arthritis without previous methotrexate treatment.
 
@@ -8964,13 +8875,13 @@ Hukyndra is used to treat
 
 You may first be given other medicines. If you do not respond well enough to these medicines, you will be given Hukyndra.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Non-infectious uveitis
 
 Non-infectious uveitis is an inflammatory disease affecting certain parts of the eye.
 
-## Hukyndra is used to treat
+<div style=\"page-break-after: always\"></div>
+
+Hukyndra is used to treat
 
 - adults with non-infectious uveitis with inflammation affecting the back of the eye
 - children with chronic non-infectious uveitis from 2 years of age with inflammation affecting the front of the eye.
@@ -9481,9 +9392,7 @@ STADA Arzneimittel GmbH Tel: +43 136785850
 
 ## España
 
-Laboratorio STADA, S.L.
-
-Tel: +34 934738889
+Laboratorio STADA, S.L. Tel: +34 934738889
 
 ## Polska
 
@@ -9545,9 +9454,7 @@ Tel: +39 028310371
 
 ## Suomi/Finland
 
-STADA Nordic ApS, Suomen sivuliike
-
-Puh/Tel: +358 207416888
+STADA Nordic ApS, Suomen sivuliike Puh/Tel: +358 207416888
 
 ## Κύπρος
 
@@ -9562,8 +9469,6 @@ STADA Nordic ApS
 Tel: +45 44859999
 
 ## Latvija
-
-UAB 'STADA Baltics'
 
 <div style=\"page-break-after: always\"></div>
 
@@ -9587,7 +9492,7 @@ QR code to be included
 
 ## INSTRUCTIONS FOR USE
 
-## Hukyndra (adalimumab) pre-filled pen 80 mg/0.8 ml solution for injection, for subcutaneous use
+Hukyndra (adalimumab) pre-filled pen 80 mg/0.8 ml solution for injection, for subcutaneous use
 
 ## Read carefully these instructions for use before using the Hukyndra single-use pre-filled pen
 

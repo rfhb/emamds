@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-29 12:22:14
-document_pages: 80
+document_datetime: 2026-07-15 16:55:18
+document_pages: 95
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rybrevant-epar-product-information_en.pdf
 document_name: rybrevant-epar-product-information_en.pdf
 version: success
-processing_time: 36.6508961
-conversion_datetime: 2025-12-30 22:08:30.467646
+processing_time: 44.1427226
+conversion_datetime: 2026-07-19 12:28:22.234663
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.26.0
+  docling-jobkit: 2.1.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -81,10 +81,10 @@ Table 1: Recommended dosage of Rybrevant every 3 weeks
 
 | Body weight at baseline a      | Rybrevant dose   | Schedule                                                                                                                    |   Number of vials |
 |--------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------|
-| Less than 80 kg                | 1400 mg          | Weekly (total of 4 doses) from Weeks 1 to 4  Week 1 - split infusion on Day 1 and Day 2  Weeks 2 to 4 - infusion on Day 1 |                 4 |
-|                                | 1750 mg          | Every 3 weeks starting at Week 7 onwards                                                                                    |                 5 |
-| Greater than or equal to 80 kg | 1750 mg          | Weekly (total of 4 doses) from Weeks 1 to 4  Week 1 - split infusion on Day 1 and Day 2  Weeks 2 to 4 - infusion on Day 1 |                 5 |
-|                                | 2100 mg          | Every 3 weeks starting at Week 7 onwards                                                                                    |                 6 |
+| Less than 80 kg                | 1 400 mg         | Weekly (total of 4 doses) from Weeks 1 to 4  Week 1 - split infusion on Day 1 and Day 2  Weeks 2 to 4 - infusion on Day 1 |                 4 |
+| Less than 80 kg                | 1 750 mg         | Every 3 weeks starting at Week 7 onwards                                                                                    |                 5 |
+| Greater than or equal to 80 kg | 1 750 mg         | Weekly (total of 4 doses) from Weeks 1 to 4  Week 1 - split infusion on Day 1 and Day 2  Weeks 2 to 4 - infusion on Day 1 |                 5 |
+| Greater than or equal to 80 kg | 2 100 mg         | Every 3 weeks starting at Week 7 onwards                                                                                    |                 6 |
 
 When used in combination with carboplatin and pemetrexed, Rybrevant should be administered after carboplatin and pemetrexed in the following order: pemetrexed, carboplatin and then Rybrevant. See section 5.1 and the manufacturer's prescribing information for dosing instructions for carboplatin and pemetrexed.
 
@@ -96,10 +96,10 @@ Table 2: Recommended dosage of Rybrevant every 2 weeks
 
 | Body weight at baseline a      | Rybrevant dose   | Schedule                                                                                                                    |   Number of 350 mg/7mL Rybrevant vials |
 |--------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
-| Less than 80 kg                | 1050 mg          | Weekly (total of 4 doses) from weeks 1 to 4  Week 1 - split infusion on Day 1 and Day 2  Weeks 2 to 4 - infusion on Day 1 |                                      3 |
-| Less than 80 kg                | 1050 mg          | Every 2 weeks starting at Week 5 onwards                                                                                    |                                      3 |
-| Greater than or equal to 80 kg | 1400 mg          | Weekly (total of 4 doses) from Weeks 1 to 4  Week 1 - split infusion on Day 1 and Day 2  Weeks 2 to 4 - infusion on Day 1 |                                      4 |
-| Greater than or equal to 80 kg | 1400 mg          | Every 2 weeks starting at Week 5 onwards                                                                                    |                                      4 |
+| Less than 80 kg                | 1 050 mg         | Weekly (total of 4 doses) from weeks 1 to 4  Week 1 - split infusion on Day 1 and Day 2  Weeks 2 to 4 - infusion on Day 1 |                                      3 |
+| Less than 80 kg                | 1 050 mg         | Every 2 weeks starting at Week 5 onwards                                                                                    |                                      3 |
+| Greater than or equal to 80 kg | 1 400 mg         | Weekly (total of 4 doses) from Weeks 1 to 4  Week 1 - split infusion on Day 1 and Day 2  Weeks 2 to 4 - infusion on Day 1 |                                      4 |
+| Greater than or equal to 80 kg | 1 400 mg         | Every 2 weeks starting at Week 5 onwards                                                                                    |                                      4 |
 
 When given in combination with lazertinib, it is recommended to administer Rybrevant any time after lazertinib when given on the same day. Refer to section 4.2 of the lazertinib Summary of Product Characteristics for recommended lazertinib dosing information.
 
@@ -123,10 +123,10 @@ Table 3: Recommended dose modifications for adverse reactions
 
 | Dose at which the adverse reaction occurred   | Dose after 1 st interruption for adverse reaction   | Dose after 2 nd interruption for adverse reaction   | Dose after 3 rd interruption for adverse reaction   |
 |-----------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-| 1050 mg                                       | 700 mg                                              | 350 mg                                              | Discontinue Rybrevant                               |
-| 1400 mg                                       | 1050 mg                                             | 700 mg                                              | Discontinue Rybrevant                               |
-| 1750 mg                                       | 1400 mg                                             | 1050 mg                                             | Discontinue Rybrevant                               |
-| 2100 mg                                       | 1750 mg                                             | 1400 mg                                             | Discontinue Rybrevant                               |
+| 1 050 mg                                      | 700 mg                                              | 350 mg                                              | Discontinue Rybrevant                               |
+| 1 400 mg                                      | 1 050 mg                                            | 700 mg                                              | Discontinue Rybrevant                               |
+| 1 750 mg                                      | 1 400 mg                                            | 1 050 mg                                            | Discontinue Rybrevant                               |
+| 2 100 mg                                      | 1 750 mg                                            | 1 400 mg                                            | Discontinue Rybrevant                               |
 
 ## Infusion-related reactions
 
@@ -167,13 +167,13 @@ Prior to infusion (Week 1, Days 1 and 2), antihistamines, antipyretics, and gluc
 
 Table 4: Dosing schedule of premedications
 
-| Premedication                                     | Dose             | Route of administration   | Recommended dosing window prior to Rybrevant administration   |
-|---------------------------------------------------|------------------|---------------------------|---------------------------------------------------------------|
-| Diphenhydramine (25 or equivalent                 | to 50 mg) Oral   | Intravenous               | Antihistamine * 15 to 30 minutes 30 to 60 minutes             |
-| Paracetamol/Acetaminophen (650 to 1000 mg)        | Intravenous Oral |                           | Antipyretic * 15 to 30 minutes 30 to 60 minutes               |
-| Glucocorticoid ‡ Dexamethasone (8 mg)             |                  | Oral                      | 60 minutes                                                    |
-| Glucocorticoid ‡ Dexamethasone (20 mg) equivalent | or               | Intravenous               | 60 to 120 minutes                                             |
-| Glucocorticoid + Dexamethasone (10 equivalent     | mg) or           | Intravenous               | 45 to 60 minutes                                              |
+| Premedication                                     | Dose                 | Route of administration   | Recommended dosing window prior to Rybrevant administration   |
+|---------------------------------------------------|----------------------|---------------------------|---------------------------------------------------------------|
+| Diphenhydramine (25 to 50 or equivalent           | mg) Intravenous Oral |                           | Antihistamine * 15 to 30 minutes 30 to 60 minutes             |
+| Paracetamol/Acetaminophen (650 to 1 000 mg)       | Intravenous Oral     |                           | Antipyretic * 15 to 30 minutes 30 to 60 minutes               |
+| Glucocorticoid ‡ Dexamethasone (8 mg)             |                      | Oral                      | 60 minutes                                                    |
+| Glucocorticoid ‡ Dexamethasone (20 mg) equivalent | or                   | Intravenous               | 60 to 120 minutes                                             |
+| Glucocorticoid + Dexamethasone (10 mg) equivalent | or                   | Intravenous               | 45 to 60 minutes                                              |
 
 ## Special populations
 
@@ -187,11 +187,9 @@ No dose adjustments are necessary (see section 4.8, section 5.1, and section 5.2
 
 ## Renal impairment
 
-No formal studies of amivantamab in patients with renal impairment have been conducted. Based on population pharmacokinetic (PK) analyses, no dose adjustment is necessary for patients with mild or
+No formal studies of amivantamab in patients with renal impairment have been conducted. Based on population pharmacokinetic (PK) analyses, no dose adjustment is necessary for patients with mild or moderate renal impairment. Caution is required in patients with severe renal impairment as amivantamab has not been studied in this patient population (see section 5.2). If treatment is started, patients should be monitored for adverse reactions with dose modifications per the recommendations above.
 
 <div style=\"page-break-after: always\"></div>
-
-moderate renal impairment. Caution is required in patients with severe renal impairment as amivantamab has not been studied in this patient population (see section 5.2). If treatment is started, patients should be monitored for adverse reactions with dose modifications per the recommendations above.
 
 ## Hepatic impairment
 
@@ -211,27 +209,23 @@ Table 5: Infusion rates for Rybrevant every 3 weeks
 
 | Body weight less than 80 kg                | Body weight less than 80 kg                | Body weight less than 80 kg                | Body weight less than 80 kg                |
 |--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|
-| Week                                       | Dose (per 250 mLbag)                       | Initial infusion rate                      | Subsequent infusion rate †                 |
+| Week                                       | Dose (per 250 mL bag)                      | Initial infusion rate                      | Subsequent infusion rate †                 |
 | Week 1 (split dose infusion)               |                                            |                                            |                                            |
 | Week 1 Day 1                               | 350 mg                                     | 50 mL/hr                                   | 75 mL/hr                                   |
-| Week 1 Day 2                               | 1050 mg                                    | 33 mL/hr                                   | 50 mL/hr                                   |
-| Week 2                                     | 1400 mg                                    | 65 mL/hr                                   | 65 mL/hr                                   |
-| Week 3                                     | 1400 mg                                    | 85 mL/hr                                   | 85 mL/hr                                   |
-| Week 4                                     | 1400 mg                                    | 125 mL/hr                                  | 125 mL/hr                                  |
-| Subsequent weeks *                         | 1750 mg                                    | 125 mL/hr                                  | 125 mL/hr                                  |
+| Week 1 Day 2                               | 1 050 mg                                   | 33 mL/hr                                   | 50 mL/hr                                   |
+| Week 2                                     | 1 400 mg                                   | 65 mL/hr                                   | 65 mL/hr                                   |
+| Week 3                                     | 1 400 mg                                   | 85 mL/hr                                   | 85 mL/hr                                   |
+| Week 4                                     | 1 400 mg                                   | 125 mL/hr                                  | 125 mL/hr                                  |
+| Subsequent weeks *                         | 1 750 mg                                   | 125 mL/hr                                  | 125 mL/hr                                  |
 | Body weight greater than or equal to 80 kg | Body weight greater than or equal to 80 kg | Body weight greater than or equal to 80 kg | Body weight greater than or equal to 80 kg |
-| Week                                       | Dose (per 250 mLbag)                       | Initial infusion rate                      | Subsequent infusion rate †                 |
+| Week                                       | Dose (per 250 mL bag)                      | Initial infusion rate                      | Subsequent infusion rate †                 |
 | Week 1 (split dose infusion)               |                                            |                                            |                                            |
 | Week 1 Day 1                               | 350 mg                                     | 50 mL/hr                                   | 75 mL/hr                                   |
-| Week 1 Day 2                               | 1400 mg                                    | 25 mL/hr                                   | 50 mL/hr                                   |
-| Week 2                                     | 1750 mg                                    | 65 mL/hr                                   | 65 mL/hr                                   |
-| Week 3                                     | 1750 mg                                    | 85 mL/hr                                   | 85 mL/hr                                   |
-| Week 4                                     | 1750 mg                                    | 125 mL/hr                                  | 125 mL/hr                                  |
-| Subsequent weeks *                         | 2100 mg                                    | 125 mL/hr                                  | 125 mL/hr                                  |
-
-* Starting at Week 7, patients are dosed every 3 weeks.
-
-† Increase the initial infusion rate to the subsequent infusion rate after 2 hours in the absence of infusion-related reactions.
+| Week 1 Day 2                               | 1 400 mg                                   | 25 mL/hr                                   | 50 mL/hr                                   |
+| Week 2                                     | 1 750 mg                                   | 65 mL/hr                                   | 65 mL/hr                                   |
+| Week 3                                     | 1 750 mg                                   | 85 mL/hr                                   | 85 mL/hr                                   |
+| Week 4                                     | 1 750 mg                                   | 125 mL/hr                                  | 125 mL/hr                                  |
+| Subsequent weeks *                         | 2 100 mg                                   | 125 mL/hr                                  | 125 mL/hr                                  |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -239,20 +233,20 @@ Table 6: Infusion rates for Rybrevant every 2 weeks
 
 | Body weight less than 80 kg                | Body weight less than 80 kg                | Body weight less than 80 kg                | Body weight less than 80 kg                |
 |--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|
-| Week                                       | Dose (per 250 mLbag)                       | Initial infusion rate                      | Subsequent infusion rate ‡                 |
+| Week                                       | Dose (per 250 mL bag)                      | Initial infusion rate                      | Subsequent infusion rate ‡                 |
 | Week 1 (split dose infusion)               |                                            |                                            |                                            |
 | Week 1 Day 1                               | 350 mg                                     | 50 mL/hr                                   | 75 mL/hr                                   |
 | Week 1 Day 2                               | 700 mg                                     | 50 mL/hr                                   | 75 mL/hr                                   |
-| Week 2                                     | 1050 mg                                    | 85 mL/hr                                   | 85 mL/hr                                   |
-| Subsequent weeks *                         | 1050 mg                                    | 125 mL/hr                                  | 125 mL/hr                                  |
+| Week 2                                     | 1 050 mg                                   | 85 mL/hr                                   | 85 mL/hr                                   |
+| Subsequent weeks *                         | 1 050 mg                                   | 125 mL/hr                                  | 125 mL/hr                                  |
 | Body weight greater than or equal to 80 kg | Body weight greater than or equal to 80 kg | Body weight greater than or equal to 80 kg | Body weight greater than or equal to 80 kg |
-| Week                                       | Dose (per 250 mLbag)                       | Initial infusion rate                      | Subsequent infusion rate ‡                 |
+| Week                                       | Dose (per 250 mL bag)                      | Initial infusion rate                      | Subsequent infusion rate ‡                 |
 | Week 1 (split dose infusion)               |                                            |                                            |                                            |
 | Week 1 Day 1                               | 350 mg                                     | 50 mL/hr                                   | 75 mL/hr                                   |
-| Week 1 Day 2                               | 1050 mg                                    | 35 mL/hr                                   | 50 mL/hr                                   |
-| Week 2                                     | 1400 mg                                    | 65 mL/hr                                   | 65 mL/hr                                   |
-| Week 3                                     | 1400 mg                                    | 85 mL/hr                                   | 85 mL/hr                                   |
-| Subsequent weeks *                         | 1400 mg                                    | 125 mL/hr                                  | 125 mL/hr                                  |
+| Week 1 Day 2                               | 1 050 mg                                   | 35 mL/hr                                   | 50 mL/hr                                   |
+| Week 2                                     | 1 400 mg                                   | 65 mL/hr                                   | 65 mL/hr                                   |
+| Week 3                                     | 1 400 mg                                   | 85 mL/hr                                   | 85 mL/hr                                   |
+| Subsequent weeks *                         | 1 400 mg                                   | 125 mL/hr                                  | 125 mL/hr                                  |
 
 ## 4.3 Contraindications
 
@@ -278,11 +272,9 @@ Interstitial lung disease (ILD) or ILD-like adverse reactions (e.g., pneumonitis
 
 ## Venous thromboembolic (VTE) events with concomitant use with lazertinib
 
-In patients receiving Rybrevant in combination with lazertinib, VTE events, including deep vein thrombosis (DVT) and pulmonary embolism (PE), including fatal events, were reported (see section 4.8). Consistent with clinical guidelines, patients should receive prophylactic dosing of either a
+In patients receiving Rybrevant in combination with lazertinib, VTE events, including deep vein thrombosis (DVT) and pulmonary embolism (PE), including fatal events, were reported (see section 4.8). Consistent with clinical guidelines, patients should receive prophylactic dosing of either a direct acting oral anticoagulant (DOAC) or a low-molecular weight heparin (LMWH). Use of Vitamin K antagonists is not recommended.
 
 <div style=\"page-break-after: always\"></div>
-
-direct acting oral anticoagulant (DOAC) or a low-molecular weight heparin (LMWH). Use of Vitamin K antagonists is not recommended.
 
 Signs and symptoms of VTE events should be monitored. Patients with VTE events should be treated with anticoagulation as clinically indicated. For VTE events associated with clinical instability treatment should be withheld until the patient is clinically stable. Thereafter, both drugs can be resumed at the same dose.
 
@@ -298,7 +290,7 @@ Toxic epidermal necrolysis (TEN) has been reported. Treatment with this medicina
 
 ## Eye disorders
 
-Eye disorders, including keratitis, occurred in patients treated with amivantamab (see section 4.8). Patients presenting with worsening eye symptoms should promptly be referred to an ophthalmologist and should discontinue use of contact lenses until symptoms are evaluated. For dose modifications for Grade 3 or 4 eye disorders, see section 4.2.
+Eye disorders, including keratitis, occurred in patients treated with amivantamab (see section 4.8). Patients presenting with worsening eye symptoms should promptly be referred to an ophthalmologist and should discontinue use of contact lenses until symptoms are evaluated. For dose modifications for Grade 3 or 4 eye disorders, see section 4.2 .
 
 ## Sodium content
 
@@ -310,11 +302,9 @@ This medicinal product contains 0.6 mg of polysorbate 80 in each mL, which is eq
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-No drug interaction studies have been performed. As an IgG1 monoclonal antibody, renal excretion and hepatic enzyme-mediated metabolism of intact amivantamab are unlikely to be major elimination routes. As such, variations in drug-metabolising enzymes are not expected to affect the elimination of
+No drug interaction studies have been performed. As an IgG1 monoclonal antibody, renal excretion and hepatic enzyme-mediated metabolism of intact amivantamab are unlikely to be major elimination routes. As such, variations in drug-metabolising enzymes are not expected to affect the elimination of amivantamab. Due to the high affinity to a unique epitope on EGFR and MET, amivantamab is not anticipated to alter drug-metabolising enzymes.
 
 <div style=\"page-break-after: always\"></div>
-
-amivantamab. Due to the high affinity to a unique epitope on EGFR and MET, amivantamab is not anticipated to alter drug-metabolising enzymes.
 
 ## Vaccines
 
@@ -354,63 +344,63 @@ Table 7 summarises the adverse drug reactions that occurred in patients receivin
 
 <div style=\"page-break-after: always\"></div>
 
-The data reflects exposure to amivantamab in 380 patients with locally advanced or metastatic non-small cell lung cancer after failure of platinum-based chemotherapy. Patients received amivantamab 1050 mg (for patients &lt; 80 kg) or 1400 mg (for patients ≥ 80 kg). The median exposure to amivantamab was 4.1 months (range: 0.0 to 39.7 months).
+The data reflects exposure to amivantamab in 380 patients with locally advanced or metastatic non-small cell lung cancer after failure of platinum-based chemotherapy. Patients received amivantamab 1 050 mg (for patients &lt; 80 kg) or 1 400 mg (for patients ≥ 80 kg). The median exposure to amivantamab was 4.1 months (range: 0.0 to 39.7 months).
 
-Adverse reactions observed during clinical studies are listed below by frequency category. Frequency categories are defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1000 to &lt; 1/100); rare (≥ 1/10000 to &lt; 1/1000); very rare (&lt; 1/10000); and not known (frequency cannot be estimated from the available data).
+Adverse reactions observed during clinical studies are listed below by frequency category. Frequency categories are defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); and not known (frequency cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 Table 7: Adverse reactions in patients receiving amivantamab as monotherapy
 
-| System organ class Adverse reaction                  | Frequency category                                   | Any Grade (%)   | Grade 3-4 (%)   |
+| System organ class Adverse reaction                  | Frequency category                                   |   Any grade (%) | Grade 3-4 (%)   |
 |------------------------------------------------------|------------------------------------------------------|-----------------|-----------------|
 | Metabolism and nutrition disorders                   |                                                      |                 |                 |
-| Hypoalbuminaemia* (see section 5.1)                  | Very common                                          | 31              | 2 †             |
-| Decreased appetite                                   | Very common                                          | 16              | 0.5 †           |
-| Hypocalcaemia                                        | Very common                                          | 10              | 0.3 †           |
-| Hypokalaemia                                         | Common                                               | 9               | 2               |
-| Hypomagnesaemia                                      | Common                                               | 8               | 0               |
+| Hypoalbuminaemia* (see section 5.1)                  | Very common                                          |              31 | 2 †             |
+| Decreased appetite                                   | Very common                                          |              16 | 0.5 †           |
+| Hypocalcaemia                                        | Very common                                          |              10 | 0.3 †           |
+| Hypokalaemia                                         | Common                                               |               9 | 2               |
+| Hypomagnesaemia                                      | Common                                               |               8 | 0               |
 | Nervous system disorders                             |                                                      |                 |                 |
-| Dizziness*                                           | Very common                                          | 13              | 0.3 †           |
+| Dizziness*                                           | Very common                                          |              13 | 0.3 †           |
 | Eye disorders                                        |                                                      |                 |                 |
-| Visual impairment*                                   | Common                                               | 3               | 0               |
-| Growth of eyelashes*                                 | Common                                               | 1               | 0               |
-| Other eye disorders*                                 | Common                                               | 6               | 0               |
-| Keratitis                                            | Uncommon                                             | 0.5             | 0               |
-| Uveitis                                              | Uncommon                                             | 0.3             | 0               |
+| Visual impairment*                                   | Common                                               |               3 | 0               |
+| Growth of eyelashes*                                 | Common                                               |               1 | 0               |
+| Other eye disorders*                                 | Common                                               |               6 | 0               |
+| Keratitis                                            | Uncommon                                             |             0.5 | 0               |
+| Uveitis                                              | Uncommon                                             |             0.3 | 0               |
 | Respiratory, thoracic and mediastinal disorders      |                                                      |                 |                 |
-| Interstitial lung disease*                           | Common                                               | 3               | 0.5 †           |
+| Interstitial lung disease*                           | Common                                               |               3 | 0.5 †           |
 | Gastrointestinal disorders                           |                                                      |                 |                 |
-| Diarrhoea                                            | Very common                                          | 11              | 2 †             |
-| Stomatitis*                                          | Very common                                          | 24              | 0.5 †           |
-| Nausea                                               | Very common                                          | 23              | 0.5 †           |
-| Constipation                                         | Very common                                          | 23              | 0               |
-| Vomiting                                             | Very common                                          | 12              | 0.5 †           |
-| Abdominal pain*                                      | Common                                               | 9               | 0.8 †           |
-| Haemorrhoids                                         | Common                                               | 3.7             | 0               |
+| Diarrhoea                                            | Very common                                          |              11 | 2 †             |
+| Stomatitis*                                          | Very common                                          |              24 | 0.5 †           |
+| Nausea                                               | Very common                                          |              23 | 0.5 †           |
+| Constipation                                         | Very common                                          |              23 | 0               |
+| Vomiting                                             | Very common                                          |              12 | 0.5 †           |
+| Abdominal pain*                                      | Common                                               |               9 | 0.8 †           |
+| Haemorrhoids                                         | Common                                               |             3.7 | 0               |
 | Hepatobiliary disorders                              |                                                      |                 |                 |
-| Alanine aminotransferase increased                   | Very common                                          | 15              | 2               |
-| Aspartate aminotransferase increased                 | Very common                                          | 13              | 1               |
-| Blood alkaline phosphatase increased                 | Very common                                          | 12              | 0.5 †           |
+| Alanine aminotransferase increased                   | Very common                                          |              15 | 2               |
+| Aspartate aminotransferase increased                 | Very common                                          |              13 | 1               |
+| Blood alkaline phosphatase increased                 | Very common                                          |              12 | 0.5 †           |
 | Skin and subcutaneous tissue disorders               |                                                      |                 |                 |
-| Rash*                                                | Very common                                          | 76              | 3 †             |
-| Nail toxicity*                                       | Very common                                          | 47              | 2 †             |
-| Dry skin*                                            | Very common                                          | 19              | 0               |
-| Pruritus                                             | Very common                                          | 18              | 0               |
-| Skin ulcer                                           | Uncommon                                             | 0.8             | 0               |
-| Toxic epidermal necrolysis                           | Uncommon                                             | 0.3             | 0.3 †           |
+| Rash*                                                | Very common                                          |              76 | 3 †             |
+| Nail toxicity*                                       | Very common                                          |              47 | 2 †             |
+| Dry skin*                                            | Very common                                          |              19 | 0               |
+| Pruritus                                             | Very common                                          |              18 | 0               |
+| Skin ulcer                                           | Uncommon                                             |             0.8 | 0               |
+| Toxic epidermal necrolysis                           | Uncommon                                             |             0.3 | 0.3 †           |
 | Musculoskeletal and connective tissue disorders      |                                                      |                 |                 |
-| Myalgia                                              | Very common                                          | 11              | 0.3 †           |
+| Myalgia                                              | Very common                                          |              11 | 0.3 †           |
 | General disorders and administration site conditions | General disorders and administration site conditions |                 |                 |
-| Oedema*                                              | Very common                                          | 26              | 0.8 †           |
+| Oedema*                                              | Very common                                          |              26 | 0.8 †           |
 
 <div style=\"page-break-after: always\"></div>
 
-| Fatigue*                                       |             | 26   | 0.8 †   |
+| Fatigue*                                       |             |   26 |   0.8 † |
 |------------------------------------------------|-------------|------|---------|
-| Pyrexia                                        |             | 11   | 0       |
+| Pyrexia                                        |             |   11 |       0 |
 | Injury, poisoning and procedural complications |             |      |         |
-| Infusion related reaction                      | Very common | 67   | 2       |
+| Infusion related reaction                      | Very common |   67 |       2 |
 
 ## Summary of the safety profile
 
@@ -418,33 +408,33 @@ In the dataset of amivantamab in combination with carboplatin and pemetrexed (N=
 
 Table 8 summarises the adverse drug reactions that occurred in patients receiving amivantamab in combination with chemotherapy.
 
-The data reflects exposure to amivantamab in combination with carboplatin and pemetrexed in 301 patients with locally advanced or metastatic non-small cell lung cancer. Patients received amivantamab 1400 mg (for patients &lt; 80 kg) or 1750 mg (for patients ≥ 80 kg) weekly for 4 weeks. Starting at Week 7, patients received amivantamab 1750 mg (for patients &lt; 80 kg) or 2100 mg (for patients ≥ 80 kg) every 3 weeks. The median exposure to amivantamab in combination with carboplatin and pemetrexed was 7.7 months (range: 0.0 to 28.1 months).
+The data reflects exposure to amivantamab in combination with carboplatin and pemetrexed in 301 patients with locally advanced or metastatic non-small cell lung cancer. Patients received amivantamab 1 400 mg (for patients &lt; 80 kg) or 1 750 mg (for patients ≥ 80 kg) weekly for 4 weeks. Starting at Week 7, patients received amivantamab 1 750 mg (for patients &lt; 80 kg) or 2 100 mg (for patients ≥ 80 kg) every 3 weeks. The median exposure to amivantamab in combination with carboplatin and pemetrexed was 7.7 months (range: 0.0 to 28.1 months).
 
-Adverse reactions observed during clinical studies are listed below by frequency category. Frequency categories are defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1000 to &lt; 1/100); rare (≥ 1/10000 to &lt; 1/1000); very rare (&lt; 1/10000); and not known (frequency cannot be estimated from the available data).
+Adverse reactions observed during clinical studies are listed below by frequency category. Frequency categories are defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); and not known (frequency cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 Table 8: Adverse reactions in patients receiving amivantamab in combination with carboplatin and pemetrexed
 
-| System organ class Adverse reaction   | Frequency category   | Any Grade (%)   | Grade 3-4 (%)   |
+| System organ class Adverse reaction   | Frequency category   |   Any grade (%) |   Grade 3-4 (%) |
 |---------------------------------------|----------------------|-----------------|-----------------|
 | Blood and lymphatic system disorders  |                      |                 |                 |
-| Neutropenia                           | Very common          | 57              | 39              |
-| Thrombocytopenia                      |                      | 40              | 12              |
+| Neutropenia                           | Very common          |              57 |              39 |
+| Thrombocytopenia                      |                      |              40 |              12 |
 | Metabolism and nutrition disorders    |                      |                 |                 |
-| Decreased appetite                    | Very common          | 33              | 1.3             |
-| Hypoalbuminaemia*                     |                      | 32              | 3.7             |
-| Hypokalaemia                          |                      | 20              | 6.6             |
-| Hypomagnesaemia                       |                      | 13              | 1.3             |
-| Hypocalcaemia                         |                      | 12              | 1.0             |
+| Decreased appetite                    | Very common          |              33 |             1.3 |
+| Hypoalbuminaemia*                     |                      |              32 |             3.7 |
+| Hypokalaemia                          |                      |              20 |             6.6 |
+| Hypomagnesaemia                       |                      |              13 |             1.3 |
+| Hypocalcaemia                         |                      |              12 |             1.0 |
 | Nervous system disorders              |                      |                 |                 |
-| Dizziness*                            | Common               | 10              | 0.3             |
+| Dizziness*                            | Common               |              10 |             0.3 |
 | Vascular disorders                    |                      |                 |                 |
-| Venous thromboembolism*               | Very common          | 14              | 3.0             |
+| Venous thromboembolism*               | Very common          |              14 |             3.0 |
 | Eye disorders                         |                      |                 |                 |
-| Other eye disorders*                  | Common               | 7.3             | 0               |
-| Visual impairment*                    |                      | 3.0             | 0               |
-| Growth of eyelashes                   | Uncommon             | 0.3             | 0               |
+| Other eye disorders*                  | Common               |             7.3 |               0 |
+| Visual impairment*                    |                      |             3.0 |               0 |
+| Growth of eyelashes                   | Uncommon             |             0.3 |               0 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -480,6 +470,8 @@ Table 8: Adverse reactions in patients receiving amivantamab in combination with
 | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications       |
 | Infusion related reaction                            | Very common                                          | 51                                                   | 3.0                                                  |
 
+* Grouped terms
+
 ## Summary of the safety profile
 
 In the dataset of amivantamab in combination with lazertinib (N=421), the most frequent adverse reactions in all grades were rash (89%), nail toxicity (71%), infusion-related reactions (63%), hypoalbuminaemia (48%), hepatotoxicity (47%), oedema (47%), stomatitis (43%), venous thromboembolism (37%), paraesthesia (lazertinib) (34%), fatigue (32%), diarrhoea (29%), constipation (29%), dry skin (26%), pruritus (24%), decreased appetite (24%), hypocalcaemia (21%), nausea (21%) and other eye disorders (21%). The most frequent serious adverse reactions included venous thromboembolism (11%), pneumonia (4.0%), rash (3.1%), ILD/pneumonitis (2.9%), hepatotoxicity (2.4%), COVID-19 (2.4%), and IRR and pleural effusion (2.1%). Twenty-three percent of patients discontinued Rybrevant due to adverse reactions. The most frequent adverse reactions leading to Rybrevant discontinuation were rash (5.5%), infusion related reactions (4.5%), nail toxicity (3.6%), ILD (2.9%) and VTE (2.9%).
@@ -488,71 +480,69 @@ Table 9 summarises the adverse drug reactions that occurred in patients receivin
 
 The data reflects exposure to amivantamab in combination with lazertinib in 421 patients with locally advanced or metastatic non-small cell lung cancer. Patients received amivantamab 1050 mg (for patients &lt; 80 kg) or 1400 mg (for patients ≥ 80 kg) once weekly for 4 weeks, then every 2 weeks thereafter. The median exposure to study treatment in the amivantamab and lazertinib combination group was 18.5 months (range: 0.2 to 31.4 months).
 
-Adverse reactions observed during clinical studies are listed below by frequency category. Frequency categories are defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon
-
 <div style=\"page-break-after: always\"></div>
 
-(≥ 1/1000 to &lt; 1/100); rare (≥ 1/10000 to &lt; 1/1000); very rare (&lt; 1/10000); and not known (frequency cannot be estimated from the available data).
+Adverse reactions observed during clinical studies are listed below by frequency category. Frequency categories are defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); and not known (frequency cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 Table 9: Amivantamab adverse reactions in patients receiving amivantamab in combination with lazertinib
 
-| System organ class Adverse reaction                  | Frequency category                                   | Any Grade (%)   | Grade 3-4 (%)   |
-|------------------------------------------------------|------------------------------------------------------|-----------------|-----------------|
-| Metabolism and nutrition disorders                   |                                                      |                 |                 |
-| Hypoalbuminaemia *                                   | Very common                                          | 48              | 5               |
-| Decreased appetite                                   | Very common                                          | 24              | 1.0             |
-| Hypocalcaemia                                        | Very common                                          | 21              | 2.1             |
-| Hypokalaemia                                         | Very common                                          | 14              | 3.1             |
-| Hypomagnesaemia                                      | Common                                               | 5.0             | 0               |
-| Nervous system disorders                             |                                                      |                 |                 |
-| Paraesthesia * ‡                                     | Very common                                          | 34              | 1.7             |
-| Dizziness *                                          | Very common                                          | 13              | 0               |
-| Vascular disorders                                   |                                                      |                 |                 |
-| Venous thromboembolism *                             | Very common                                          | 37              | 11              |
-| Eye disorders                                        |                                                      |                 |                 |
-| Other eye disorders *                                | Very common                                          | 21              | 0.5             |
-| Visual impairment *                                  | Common                                               | 4.5             | 0               |
-| Keratitis                                            | Common                                               | 2.6             | 0.5             |
-| Growth of eyelashes *                                | Common                                               | 1.9             | 0               |
-| Respiratory, thoracic and mediastinal disorders      |                                                      |                 |                 |
-| Interstitial lung disease/Pneumonitis *              | Common                                               | 3.1             | 1.2             |
-| Gastrointestinal disorders                           |                                                      |                 |                 |
-| Stomatitis *                                         | Very common                                          | 43              | 2.4             |
-| Diarrhoea                                            | Very common                                          | 29              | 2.1             |
-| Constipation                                         | Very common                                          | 29              | 0               |
-| Nausea                                               | Very common                                          | 21              | 1.2             |
-| Vomiting                                             | Very common                                          | 12              | 0.5             |
-| Abdominal pain *                                     | Very common                                          | 11              | 0               |
-| Haemorrhoids                                         | Common                                               | 10              | 0.2             |
-| Hepatobiliary disorders                              |                                                      |                 |                 |
-| Hepatotoxicity †                                     | Very common                                          | 47              | 9               |
-| Skin and subcutaneous tissue disorders               |                                                      |                 |                 |
-| Rash *                                               | Very common                                          | 89              | 27              |
-| Nail toxicity *                                      | Very common                                          | 71              | 11              |
-| Dry skin *                                           | Very common                                          | 26              | 1.0             |
-| Pruritus                                             | Very common                                          | 24              | 0.5             |
-| Palmar-plantar erythrodysaesthesia syndrome          | Common                                               | 6               | 0.2             |
-| Skin ulcer                                           | Common                                               | 5               | 0.7             |
-| Urticaria                                            | Common                                               | 1.2             | 0               |
-| Musculoskeletal and connective tissue disorders      |                                                      |                 |                 |
-| Muscle spasms                                        | Very common                                          | 17              | 0.5             |
-| Myalgia                                              | Very common                                          | 13              | 0.7             |
-| General disorders and administration site conditions | General disorders and administration site conditions |                 |                 |
-| Oedema *                                             | Very common                                          | 47              | 2.9             |
-| Fatigue *                                            | Very common                                          | 32              | 3.8             |
-| Pyrexia                                              | Very common                                          | 12              | 0               |
+| System organ class Adverse reaction                  | Frequency category   |   Any grade (%) |   Grade 3-4 (%) |
+|------------------------------------------------------|----------------------|-----------------|-----------------|
+| Metabolism and nutrition disorders                   |                      |                 |                 |
+| Hypoalbuminaemia *                                   | Very common          |              48 |               5 |
+| Decreased appetite                                   | Very common          |              24 |             1.0 |
+| Hypocalcaemia                                        | Very common          |              21 |             2.1 |
+| Hypokalaemia                                         | Very common          |              14 |             3.1 |
+| Hypomagnesaemia                                      | Common               |             5.0 |               0 |
+| Nervous system disorders                             |                      |                 |                 |
+| Paraesthesia * ‡                                     | Very common          |              34 |             1.7 |
+| Dizziness *                                          | Very common          |              13 |               0 |
+| Vascular disorders                                   |                      |                 |                 |
+| Venous thromboembolism *                             | Very common          |              37 |              11 |
+| Eye disorders                                        |                      |                 |                 |
+| Other eye disorders *                                | Very common          |              21 |             0.5 |
+| Visual impairment *                                  | Common               |             4.5 |               0 |
+| Keratitis                                            | Common               |             2.6 |             0.5 |
+| Growth of eyelashes *                                | Common               |             1.9 |               0 |
+| Respiratory, thoracic and mediastinal disorders      |                      |                 |                 |
+| Interstitial lung disease/Pneumonitis *              | Common               |             3.1 |             1.2 |
+| Gastrointestinal disorders                           |                      |                 |                 |
+| Stomatitis *                                         | Very common          |              43 |             2.4 |
+| Diarrhoea                                            | Very common          |              29 |             2.1 |
+| Constipation                                         | Very common          |              29 |               0 |
+| Nausea                                               | Very common          |              21 |             1.2 |
+| Vomiting                                             | Very common          |              12 |             0.5 |
+| Abdominal pain *                                     | Very common          |              11 |               0 |
+| Haemorrhoids                                         | Common               |              10 |             0.2 |
+| Hepatobiliary disorders                              |                      |                 |                 |
+| Hepatotoxicity †                                     | Very common          |              47 |               9 |
+| Skin and subcutaneous tissue disorders               |                      |                 |                 |
+| Rash *                                               | Very common          |              89 |              27 |
+| Nail toxicity *                                      | Very common          |              71 |              11 |
+| Dry skin *                                           | Very common          |              26 |             1.0 |
+| Pruritus                                             | Very common          |              24 |             0.5 |
+| Palmar-plantar erythrodysaesthesia syndrome          | Common               |               6 |             0.2 |
+| Skin ulcer                                           | Common               |               5 |             0.7 |
+| Urticaria                                            | Common               |             1.2 |               0 |
+| Musculoskeletal and connective tissue disorders      |                      |                 |                 |
+| Muscle spasms                                        | Very common          |              17 |             0.5 |
+| Myalgia                                              | Very common          |              13 |             0.7 |
+| General disorders and administration site conditions |                      |                 |                 |
+| Oedema *                                             | Very common          |              47 |             2.9 |
+| Fatigue *                                            | Very common          |              32 |             3.8 |
 
 <div style=\"page-break-after: always\"></div>
 
-| Injury, poisoning and procedural complications   | Injury, poisoning and procedural complications   |   Injury, poisoning and procedural complications |   Injury, poisoning and procedural complications |
-|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
-| Infusion related reaction                        | Very common                                      |                                               63 |                                                6 |
+| Pyrexia                                        |             |   12 |   0 |
+|------------------------------------------------|-------------|------|-----|
+| Injury, poisoning and procedural complications |             |      |     |
+| Infusion related reaction                      | Very common |   63 |   6 |
 
 * Grouped terms
 
-- ‡ Assessed as ADR for lazertinib only.
+‡ Assessed as ADR for lazertinib only.
 
 † The most common events included increased ALT (36%), increased AST (29%) and increase blood alkaline phosphatase (12%).
 
@@ -572,7 +562,7 @@ In a Phase 2, open-label, multicenter study in patients with NSCLC, patients wer
 
 ## Interstitial lung disease
 
-Interstitial lung disease or ILD-like adverse reactions have been reported with the use of amivantamab as well as with other EGFR inhibitors. Interstitial lung disease or pneumonitis was reported in 2.6% of patients treated with amivantamab monotherapy, 2.3 % of patients treated with amivantamab in combination with carboplatin and pemetrexed and 3.1% of patients treated with amivantamab in combination with lazertinib, including 1 (0.2%) fatal case. Patients with a medical history of ILD, drug-induced ILD, radiation pneumonitis that required steroid treatment, or any evidence of clinically active ILD were excluded from the clinical study (see section 4.4).
+Interstitial lung disease or ILD-like adverse reactions have been reported with the use of amivantamab as well as with other EGFR inhibitors. Interstitial lung disease or pneumonitis was reported in 2.6% of patients treated with amivantamab monotherapy, 2.3% of patients treated with amivantamab in combination with carboplatin and pemetrexed and 3.1% of patients treated with amivantamab in combination with lazertinib, including 1 (0.2%) fatal case. Patients with a medical history of ILD, drug-induced ILD, radiation pneumonitis that required steroid treatment, or any evidence of clinically active ILD were excluded from the clinical study (see section 4.4).
 
 ## Venous thromboembolic (VTE) events with concomitant use with lazertinib
 
@@ -604,13 +594,11 @@ Eye disorders, including keratitis (2.6%) occurred in patients treated with amiv
 
 There are limited clinical data with amivantamab in patients 75 years of age or over (see section 5.1). No overall differences in safety were observed between patients ≥ 65 years of age and patients &lt; 65 years of age.
 
-## Immunogenicity
-
-As with all therapeutic proteins, there is the potential for immunogenicity. In clinical studies of patients with locally advanced or metastatic NSCLC treated with amivantamab, 4 of the 1862 (0.2%)
-
 <div style=\"page-break-after: always\"></div>
 
-participants who were treated with Rybrevant and evaluable for the presence of anti-drug antibodies (ADA), tested positive for treatment-emergent anti-amivantamab antibodies. There was no evidence of an altered pharmacokinetic, efficacy, or safety profile due to anti-amivantamab antibodies.
+## Immunogenicity
+
+As with all therapeutic proteins, there is the potential for immunogenicity. In clinical studies of patients with locally advanced or metastatic NSCLC treated with amivantamab, 4 of the 1 862 (0.2%) participants who were treated with Rybrevant and evaluable for the presence of anti-drug antibodies (ADA), tested positive for treatment-emergent anti-amivantamab antibodies. There was no evidence of an altered pharmacokinetic, efficacy, or safety profile due to anti-amivantamab antibodies.
 
 ## Reporting of suspected adverse reactions
 
@@ -618,7 +606,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-No maximum tolerated dose has been determined in a clinical study in which patients received up to 2100 mg administered intravenously. There is no known specific antidote for amivantamab overdose. In the event of an overdose, treatment with Rybrevant should be stopped, the patient should be monitored for any signs or symptoms of adverse events and appropriate general supportive measures should be instituted immediately until clinical toxicity has diminished or resolved.
+No maximum tolerated dose has been determined in a clinical study in which patients received up to 2 100 mg administered intravenously. There is no known specific antidote for amivantamab overdose. In the event of an overdose, treatment with Rybrevant should be stopped, the patient should be monitored for any signs or symptoms of adverse events and appropriate general supportive measures should be instituted immediately until clinical toxicity has diminished or resolved.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -642,13 +630,11 @@ Amivantamab decreased serum albumin concentration, a pharmacodynamic effect of M
 
 ## Previously-untreated NSCLC with EGFR Exon 19 deletions or Exon 21 L858R substitution mutations (MARIPOSA)
 
-NSC3003 (MARIPOSA) is a randomised, open-label, active-controlled, multicentre phase 3 study assessing the efficacy and safety of Rybrevant in combination with lazertinib as compared to osimertinib monotherapy as first-line treatment in patients with EGFR-mutated locally advanced or metastatic NSCLC not amenable to curative therapy. Patient samples were required to have one of the two common EGFR mutations (Exon 19 deletion or Exon 21 L858R substitution mutation), as identified by local testing. Tumour tissue (94%) and/or plasma (6%) samples for all patients were tested locally to determine EGFR Exon 19 deletion and/or Exon 21 L858R substitution mutation status
+NSC3003 (MARIPOSA) is a randomised, open-label, active-controlled, multicentre phase 3 study assessing the efficacy and safety of Rybrevant in combination with lazertinib as compared to osimertinib monotherapy as first-line treatment in patients with EGFR-mutated locally advanced or metastatic NSCLC not amenable to curative therapy. Patient samples were required to have one of the two common EGFR mutations (Exon 19 deletion or Exon 21 L858R substitution mutation), as identified by local testing. Tumour tissue (94%) and/or plasma (6%) samples for all patients were tested locally to determine EGFR Exon 19 deletion and/or Exon 21 L858R substitution mutation status using polymerase chain reaction (PCR) in 65% and next generation sequencing (NGS) in 35% of patients.
 
 <div style=\"page-break-after: always\"></div>
 
-using polymerase chain reaction (PCR) in 65% and next generation sequencing (NGS) in 35% of patients.
-
-A total of 1074 patients were randomised (2:2:1) to receive Rybrevant in combination with lazertinib, osimertinib monotherapy, or lazertinib monotherapy until disease progression or unacceptable toxicity. Rybrevant was administered intravenously at 1050 mg (for patients &lt; 80 kg) or 1400 mg (for patients ≥ 80 kg) once weekly for 4 weeks, then every 2 weeks thereafter starting at week 5. Lazertinib was administered at 240 mg orally once daily. Osimertinib was administered at a dose of 80 mg orally once daily. Randomisation was stratified by EGFR mutation type (Exon 19 deletion or Exon 21 L858R), race (Asian or non-Asian), and history of brain metastasis (yes or no).
+A total of 1 074 patients were randomised (2:2:1) to receive Rybrevant in combination with lazertinib, osimertinib monotherapy, or lazertinib monotherapy until disease progression or unacceptable toxicity. Rybrevant was administered intravenously at 1 050 mg (for patients &lt; 80 kg) or 1 400 mg (for patients ≥ 80 kg) once weekly for 4 weeks, then every 2 weeks thereafter starting at week 5. Lazertinib was administered at 240 mg orally once daily. Osimertinib was administered at a dose of 80 mg orally once daily. Randomisation was stratified by EGFR mutation type (Exon 19 deletion or Exon 21 L858R), race (Asian or non-Asian), and history of brain metastasis (yes or no).
 
 Baseline demographics and disease characteristics were balanced across the treatment arms. The median age was 63 (range: 25-88) years with 45% of patients ≥ 65 years; 62% were female; and 59% were Asian, and 38% were White. Baseline Eastern Cooperative Oncology Group (ECOG) performance status was 0 (34%) or 1 (66%); 69% never smoked; 41% had prior brain metastases; and 90% had Stage IV cancer at initial diagnosis. With regard to EGFR mutation status, 60% were Exon 19 deletions and 40% were Exon 21 L858R substitution mutations.
 
@@ -669,11 +655,15 @@ Table 10: Efficacy results in MARIPOSA
 | Median, months (95% CI)           | NE (42.9, NE)                    | 36.7 (33.4, 41.0)           |
 | Hazard Ratio (95% CI); p-value    | 0.75 (0.61, 0.92); p=0.0048      | 0.75 (0.61, 0.92); p=0.0048 |
 | Objective response rate (ORR) a,b |                                  |                             |
-| ORR %(95% CI)                     | 80% (76%, 84%)                   | 77% (72%, 81%)              |
+| ORR % (95% CI)                    | 80% (76%, 84%)                   | 77% (72%, 81%)              |
 | Duration of response (DOR) a,b    |                                  |                             |
 | Median (95% CI), months           | 25.8 (20.3, 33.9)                | 18.1 (14.8, 20.1)           |
 
-BICR = blinded independent central review; CI = confidence interval; NE = not estimable PFS results are from data cut-off 11 August 2023 with a median follow-up of 22.0 months. DOR and ORR results are from data cut-off 13 May 2024 with a median follow-up of 31.3 months. OS results are from data cut-off 04 December 2024 with a median follow-up of 37.8 months.
+PFS results are from data cut-off 11 August 2023 with a median follow-up of 22.0 months. DOR and ORR results are
+
+from data cut-off 13 May 2024 with a median follow-up of 31.3 months. OS results are from data cut-off 04 December
+
+2024 with a median follow-up of 37.8 months.
 
 a BICR by RECIST v1.1.
 
@@ -689,18 +679,16 @@ Figure 2: Kaplan-Meier curve of OS in previously untreated NSCLC patients
 
 <!-- image -->
 
-Intracranial ORR and DOR by BICR were pre-specified endpoints in MARIPOSA. In the subset of patients with intracranial lesions at baseline, the combination of Rybrevant and lazertinib,
+Intracranial ORR and DOR by BICR were pre-specified endpoints in MARIPOSA. In the subset of patients with intracranial lesions at baseline, the combination of Rybrevant and lazertinib, demonstrated similar intracranial ORR to the control. Per protocol, all patients in MARIPOSA had serial brain MRIs to assess intracranial response and duration. Results are summarised in Table 11.
 
 <div style=\"page-break-after: always\"></div>
-
-demonstrated similar intracranial ORR to the control. Per protocol, all patients in MARIPOSA had serial brain MRIs to assess intracranial response and duration. Results are summarised in Table 11.
 
 Table 11: Intracranial ORR and DOR by BICR assessment in subjects with intracranial lesions at baseline - MARIPOSA
 
 |                                         | Rybrevant + lazertinib (N=180)          | Osimertinib (N=186)                     |
 |-----------------------------------------|-----------------------------------------|-----------------------------------------|
 | Intracranial tumour response assessment | Intracranial tumour response assessment | Intracranial tumour response assessment |
-| Intracranial ORR (CR+PR),% (95% CI)     | 78% (71%, 84%)                          | 77% (71%, 83%)                          |
+| Intracranial ORR (CR+PR), % (95% CI)    | 78% (71%, 84%)                          | 77% (71%, 83%)                          |
 | Complete response                       | 64%                                     | 59%                                     |
 | Intracranial DOR                        | Intracranial DOR                        | Intracranial DOR                        |
 | Number of responders                    | 140                                     | 144                                     |
@@ -714,7 +702,7 @@ Intracranial ORR and DOR results are from data cut-off 04 Dec 2024 with a median
 
 ## Previously treated NSCLC with EGFR Exon 19 deletions or Exon 21 L858R substitution mutations (MARIPOSA-2)
 
-MARIPOSA-2 is a randomised (2:2:1) open-label, multicentre Phase 3 study in patients with locally advanced or metastatic NSCLC with EGFR Exon 19 deletions or Exon 21 L858R substitution mutations (mutation testing could have been performed at or after the time of locally advanced or metastatic disease diagnosis. Testing did not need to be repeated at the time of study entry once EGFR mutation status was previously established) after failure of prior therapy including a third-generation EGFR tyrosine kinase inhibitor (TKI). A total of 657 patients were randomised in the study, of which 263 received carboplatin and pemetrexed (CP); and 131 which received Rybrevant in combination with carboplatin and pemetrexed (Rybrevant-CP) . Additionally, 263 patients were randomised to receive Rybrevant in combination with lazertinib, carboplatin, and pemetrexed in a separate arm of the study. Rybrevant was administered intravenously at 1400 mg (for patients &lt; 80 kg) or 1750 mg (for patients ≥ 80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1750 mg (for patients &lt; 80 kg) or 2100 mg (for patients ≥ 80 kg) starting at Week 7 until disease progression or unacceptable toxicity. Carboplatin was administered intravenously at area under the concentration-time curve 5 mg/mL per minute (AUC 5) once every 3 weeks, for up to 12 weeks. Pemetrexed was administered intravenously at 500 mg/m 2 once every 3 weeks until disease progression or unacceptable toxicity.
+MARIPOSA-2 is a randomised (2:2:1) open-label, multicentre Phase 3 study in patients with locally advanced or metastatic NSCLC with EGFR Exon 19 deletions or Exon 21 L858R substitution mutations (mutation testing could have been performed at or after the time of locally advanced or metastatic disease diagnosis. Testing did not need to be repeated at the time of study entry once EGFR mutation status was previously established) after failure of prior therapy including a third-generation EGFR tyrosine kinase inhibitor (TKI). A total of 657 patients were randomised in the study, of which 263 received carboplatin and pemetrexed (CP); and 131 which received Rybrevant in combination with carboplatin and pemetrexed (Rybrevant-CP) . Additionally, 263 patients were randomised to receive Rybrevant in combination with lazertinib, carboplatin, and pemetrexed in a separate arm of the study. Rybrevant was administered intravenously at 1 400 mg (for patients &lt; 80 kg) or 1 750 mg (for patients ≥ 80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1 750 mg (for patients &lt; 80 kg) or 2 100 mg (for patients ≥ 80 kg) starting at Week 7 until disease progression or unacceptable toxicity. Carboplatin was administered intravenously at area under the concentration-time curve 5 mg/mL per minute (AUC 5) once every 3 weeks, for up to 12 weeks. Pemetrexed was administered intravenously at 500 mg/m 2 once every 3 weeks until disease progression or unacceptable toxicity.
 
 Patients were stratified by osimertinib line of therapy (first-line or second-line), prior brain metastases (yes or no), and Asian race (yes or no).
 
@@ -739,7 +727,7 @@ Table 12: Efficacy results in MARIPOSA-2
 | Median, months (95% CI)           | 17.7 (16.0, 22.4)                            | 15.3 (13.7, 16.8)                 |
 | HR (95% CI); p-value b            | 0.73 (0.54, 0.99); p=0.0386                  | 0.73 (0.54, 0.99); p=0.0386       |
 | Objective response rate a         |                                              |                                   |
-| ORR, %(95% CI)                    | 64% (55%, 72%)                               | 36% (30%, 42%)                    |
+| ORR, % (95% CI)                   | 64% (55%, 72%)                               | 36% (30%, 42%)                    |
 | Odds Ratio (95% CI); p-value      | 3.10 (2.00, 4.80); p<0.0001                  | 3.10 (2.00, 4.80); p<0.0001       |
 | Duration of response (DOR) a      |                                              |                                   |
 | Median (95% CI), months           | 6.90 (5.52, NE)                              | 5.55 (4.17, 9.56)                 |
@@ -769,17 +757,17 @@ Patients with asymptomatic or previously treated and stable intracranial metasta
 
 ## Previously-untreated non-small cell lung cancer (NSCLC) with Exon 20 insertion mutations (PAPILLON)
 
-PAPILLON is a randomised, open-label, multicentre Phase 3 study comparing treatment with Rybrevant in combination with carboplatin and pemetrexed to chemotherapy alone (carboplatin and pemetrexed) in patients with treatment-naïve, locally advanced or metastatic NSCLC with activating EGFR Exon 20 insertion mutations. Tumour tissue (92.2%) and/or plasma (7.8%) samples for all 308 patients were tested locally to determine EGFR Exon 20 insertion mutation status using next generation sequencing (NGS) in 55.5% of patients and/or polymerase chain reaction (PCR) in 44.5% of patients. Central testing was also performed using the AmoyDx® LC10 tissue test, Thermo Fisher Oncomine Dx Target Test, and the Guardant 360® CDx plasma test.
+PAPILLON is a randomised, open-label, multicentre Phase 3 study comparing treatment with Rybrevant in combination with carboplatin and pemetrexed to chemotherapy alone (carboplatin and pemetrexed) in patients with treatment-naïve, locally advanced or metastatic NSCLC with activating EGFR Exon 20 insertion mutations. Tumour tissue (92.2%) and/or plasma (7.8%) samples for all 308 patients were tested locally to determine EGFR Exon 20 insertion mutation status using next generation sequencing (NGS) in 55.5% of patients and/or polymerase chain reaction (PCR) in 44.5% of patients. Central testing was also performed using the AmoyDx ® LC10 tissue test, Thermo Fisher Oncomine Dx Target Test, and the Guardant 360 ® CDx plasma test.
 
 Patients with brain metastases at screening were eligible for participation once they were definitively treated, clinically stable, asymptomatic, and off corticosteroid treatment for at least 2 weeks prior to randomisation.
 
-Rybrevant was administered intravenously at 1400 mg (for patients &lt; 80 kg) or 1750 mg (for patients ≥ 80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1750 mg (for patients &lt; 80 kg) or 2100 mg (for patients ≥ 80 kg) starting at Week 7 until disease progression or unacceptable toxicity. Carboplatin was administered intravenously at area under the concentrationtime curve 5 mg/mL per minute (AUC 5) once every 3 weeks, for up to 12 weeks. Pemetrexed was administered intravenously at 500 mg/m 2 once every 3 weeks until disease progression or unacceptable toxicity. Randomisation was stratified by ECOG performance status (0 or 1), and prior brain metastases (yes or no). Patients randomised to the carboplatin and pemetrexed arm who had confirmed disease progression were permitted to cross over to receive Rybrevant monotherapy. A total of 308 subjects were randomised (1:1) to Rybrevant in combination with carboplatin and pemetrexed (N=153) or carboplatin and pemetrexed (N=155). The median age was 62 (range: 27 to
+Rybrevant was administered intravenously at 1 400 mg (for patients &lt; 80 kg) or 1 750 mg (for patients ≥ 80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1 750 mg (for patients &lt; 80 kg) or 2 100 mg (for patients ≥ 80 kg) starting at Week 7 until disease progression or unacceptable toxicity. Carboplatin was administered intravenously at area under the concentrationtime curve 5 mg/mL per minute (AUC 5) once every 3 weeks, for up to 12 weeks. Pemetrexed was administered intravenously at 500 mg/m 2 once every 3 weeks until disease progression or unacceptable toxicity. Randomisation was stratified by ECOG performance status (0 or 1), and prior brain metastases (yes or no). Patients randomised to the carboplatin and pemetrexed arm who had confirmed disease progression were permitted to cross over to receive Rybrevant monotherapy. A total of 308 subjects were randomised (1:1) to Rybrevant in combination with carboplatin and pemetrexed (N=153) or carboplatin and pemetrexed (N=155). The median age was 62 (range: 27 to
 
 <div style=\"page-break-after: always\"></div>
 
 92) years, with 39% of the subjects ≥ 65 years of age; 58% were female; and 61% were Asian and 36% were White. Baseline Eastern Cooperative Oncology Group (ECOG) performance status was 0 (35%) or 1 (64%); 58% never smoked; 23% had history of brain metastasis and 84% had Stage IV cancer at initial diagnosis.
 
-The primary endpoint for PAPILLON was PFS, as assessed by BICR. The median follow-up was14.9 months (range: 0.3 to 27.0).
+The primary endpoint for PAPILLON was PFS, as assessed by BICR. The median follow-up was 14.9 months (range: 0.3 to 27.0).
 
 Efficacy results are summarised in Table 13.
 
@@ -792,7 +780,7 @@ Table 13: Efficacy results in PAPILLON
 | Median, months (95% CI)           | 11.4 (9.8, 13.7)                              | 6.7 (5.6, 7.3)                    |
 | HR (95% CI); p-value              | 0.395 (0.29, 0.52); p<0.0001                  | 0.395 (0.29, 0.52); p<0.0001      |
 | Objective response rate a, b      |                                               |                                   |
-| ORR, %(95% CI)                    | 73% (65%, 80%)                                | 47% (39%, 56%)                    |
+| ORR, % (95% CI)                   | 73% (65%, 80%)                                | 47% (39%, 56%)                    |
 | Odds ratio (95% CI); p-value      | 3.0 (1.8, 4.8); p<0.0001                      | 3.0 (1.8, 4.8); p<0.0001          |
 | Complete response                 | 3.9%                                          | 0.7%                              |
 | Partial response                  | 69%                                           | 47%                               |
@@ -823,9 +811,9 @@ Figure 6: Kaplan-Meier curve of OS in previously untreated NSCLC patients
 
 <!-- image -->
 
-## Previously-treated non-small cell lung cancer(NSCLC) with Exon 20 insertion mutations (CHRYSALIS)
+## Previously-treated non-small cell lung cancer (NSCLC) with Exon 20 insertion mutations (CHRYSALIS)
 
-CHRYSALIS is a multicentre, open-label, multi-cohort study conducted to assess the safety and efficacy of Rybrevant in patients with locally advanced or metastatic NSCLC. Efficacy was evaluated in 114 patients with locally advanced or metastatic NSCLC who had EGFR Exon 20 insertion mutations, whose disease had progressed on or after platinum-based chemotherapy, and who had a median follow-up of 12.5 months. Tumour tissue (93%) and/or plasma (10%) samples for all patients were tested locally to determine EGFR Exon 20 insertion mutation status using next generation sequencing (NGS) in 46% of patients and/or polymerase chain reaction (PCR) in 41% of patients; for 4% of patients, the testing methods were not specified. Patients with untreated brain metastases or a history of ILD requiring treatment with prolonged steroids or other immunosuppressive agents within the last 2 years were not eligible for the study. Rybrevant was administered intravenously at 1050 mg for patients &lt; 80 kg or 1400 mg for patients ≥ 80 kg once weekly for 4 weeks, then every 2 weeks starting at Week 5 until loss of clinical benefit or unacceptable toxicity. The primary efficacy endpoint was investigator-assessed overall response rate (ORR), defined as confirmed complete response (CR) or partial response (PR) based on RECIST v1.1. In addition, the primary endpoint was assessed by a blinded independent central review (BICR). Secondary efficacy endpoints included duration of response (DOR).
+CHRYSALIS is a multicentre, open-label, multi-cohort study conducted to assess the safety and efficacy of Rybrevant in patients with locally advanced or metastatic NSCLC. Efficacy was evaluated in 114 patients with locally advanced or metastatic NSCLC who had EGFR Exon 20 insertion mutations, whose disease had progressed on or after platinum-based chemotherapy, and who had a median follow-up of 12.5 months. Tumour tissue (93%) and/or plasma (10%) samples for all patients were tested locally to determine EGFR Exon 20 insertion mutation status using next generation sequencing (NGS) in 46% of patients and/or polymerase chain reaction (PCR) in 41% of patients; for 4% of patients, the testing methods were not specified. Patients with untreated brain metastases or a history of ILD requiring treatment with prolonged steroids or other immunosuppressive agents within the last 2 years were not eligible for the study. Rybrevant was administered intravenously at 1 050 mg for patients &lt; 80 kg or 1 400 mg for patients ≥ 80 kg once weekly for 4 weeks, then every 2 weeks starting at Week 5 until loss of clinical benefit or unacceptable toxicity. The primary efficacy endpoint was investigator-assessed overall response rate (ORR), defined as confirmed complete response (CR) or partial response (PR) based on RECIST v1.1. In addition, the primary endpoint was assessed by a blinded independent central review (BICR). Secondary efficacy endpoints included duration of response (DOR).
 
 The median age was 62 (range: 36-84) years, with 41% of the patients ≥ 65 years of age; 61% were female; and 52% were Asian and 37% were White. The median number of prior therapies was 2 (range: 1 to 7 therapies). At baseline, 29% had Eastern Cooperative Oncology Group (ECOG) performance status of 0 and 70% had ECOG performance status of 1; 57% never smoked; 100% had Stage IV cancer; and 25% had previous treatment for brain metastases. Insertions in Exon 20 were observed at 8 different residues; the most common residues were A767 (22%), S768 (16%), D770 (12%), and N771 (11%).
 
@@ -856,7 +844,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## 5.2 Pharmacokinetic properties
 
-Based on Rybrevant monotherapy data, amivantamab area under the concentration-time curve (AUC1week) increases proportionally over a dose range from 350 to 1750 mg.
+Based on Rybrevant monotherapy data, amivantamab area under the concentration-time curve (AUC1week) increases proportionally over a dose range from 350 to 1 750 mg.
 
 Based on simulations from the population pharmacokinetic model, AUC1 week was approximately 2.8-fold higher after the fifth dose for the 2-week dosing regimen and 2.6-fold higher after the fourth dose for the 3-week dosing regimen. Steady-state concentrations of amivantamab were reached by Week 13 for both the 3-week and 2-week dosing regimen and the systemic accumulation was 1.9-fold.
 
@@ -906,11 +894,9 @@ No animal studies have been conducted to evaluate the effects on reproduction an
 
 ## 6.1 List of excipients
 
-Ethylenediaminetetraacetic acid (EDTA) disodium salt dihydrate
+Ethylenediaminetetraacetic acid (EDTA) disodium salt dihydrate L-Histidine L-Histidine hydrochloride monohydrate L-Methionine Polysorbate 80 (E433) Sucrose Water for injections
 
 <div style=\"page-break-after: always\"></div>
-
-L-Histidine L-Histidine hydrochloride monohydrate L-Methionine Polysorbate 80 (E433) Sucrose Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -947,8 +933,8 @@ Prepare the solution for intravenous infusion using aseptic technique as follows
 ## Preparation
 
 -  Determine the dose required and the number of Rybrevant vials needed based on patient's baseline weight (see section 4.2). Each vial contains 350 mg of amivantamab.
--  For every 2-week dosing, patients &lt; 80 kg receive 1050 mg and for patients ≥ 80 kg, 1400 mg once weekly for a total of 4 doses, then every 2 weeks starting at Week 5.
--  For every 3-week dosing, patients &lt; 80 kg receive 1400 mg once weekly for a total of 4 doses, then 1750 mg every 3 weeks starting at Week 7, and for patients ≥ 80 kg, 1750 mg once weekly for a total of 4 doses, then 2100 mg every 3 weeks starting at Week 7.
+-  For every 2-week dosing, patients &lt; 80 kg receive 1 050 mg and for patients ≥ 80 kg, 1 400 mg once weekly for a total of 4 doses, then every 2 weeks starting at Week 5.
+-  For every 3-week dosing, patients &lt; 80 kg receive 1 400 mg once weekly for a total of 4 doses, then 1 750 mg every 3 weeks starting at Week 7, and for patients ≥ 80 kg, 1 750 mg once weekly for a total of 4 doses, then 2 100 mg every 3 weeks starting at Week 7.
 -  Check that the Rybrevant solution is colourless to pale yellow. Do not use if discolouration or visible particles are present.
 -  Withdraw and then discard a volume of either 5% glucose solution or sodium chloride 9 mg/mL (0.9%) solution for injection from the 250 mL infusion bag that is equal to the required volume of Rybrevant solution to be added (discard 7 mL diluent from the infusion bag for each vial). Infusion bags must be made of polyvinylchloride (PVC), polypropylene (PP), polyethylene (PE), or polyolefin blend (PP+PE).
 
@@ -996,21 +982,39 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Rybrevant 1600 mg solution for injection Rybrevant 2240 mg solution for injection
+Rybrevant 1 600 mg solution for injection
+
+Rybrevant 2 240 mg solution for injection
+
+Rybrevant 2 400 mg solution for injection
+
+Rybrevant 3 520 mg solution for injection
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-## Rybrevant 1600 mg solution for injection
+## Rybrevant 1 600 mg solution for injection
 
 One mL of solution for injection contains 160 mg amivantamab.
 
-One 10 mL vial of solution for injection contains 1600 mg of amivantamab.
+One 10 mL vial of solution for injection contains 1 600 mg of amivantamab.
 
-## Rybrevant 2240 mg solution for injection
+## Rybrevant 2 240 mg solution for injection
 
 One mL of solution for injection contains 160 mg amivantamab.
 
-One 14 mL vial of solution for injection contains 2240 mg of amivantamab.
+One 14 mL vial of solution for injection contains 2 240 mg of amivantamab.
+
+## Rybrevant 2 400 mg solution for injection
+
+One mL of solution for injection contains 160 mg amivantamab.
+
+One 15 mL vial of solution for injection contains 2 400 mg of amivantamab.
+
+## Rybrevant 3 520 mg solution for injection
+
+One mL of solution for injection contains 160 mg amivantamab.
+
+One 22 mL vial of solution for injection contains 3 520 mg of amivantamab.
 
 Amivantamab is a fully-human Immunoglobulin G1 (IgG1)-based bispecific antibody directed against the epidermal growth factor (EGF) and mesenchymal-epidermal transition (MET) receptors, produced by a mammalian cell line (Chinese Hamster Ovary [CHO]) using recombinant DNA technology.
 
@@ -1033,34 +1037,75 @@ The solution is colourless to pale yellow.
 Rybrevant subcutaneous formulation is indicated:
 
 -  in combination with lazertinib for the first-line treatment of adult patients with advanced non-small cell lung cancer (NSCLC) with EGFR Exon 19 deletions or Exon 21 L858R substitution mutations.
+
+<div style=\"page-break-after: always\"></div>
+
+-  in combination with carboplatin and pemetrexed for the treatment of adult patients with advanced NSCLC with EGFR Exon 19 deletions or Exon 21 L858R substitution mutations after failure of prior therapy including an EGFR tyrosine kinase inhibitor (TKI).
+-  in combination with carboplatin and pemetrexed for the first-line treatment of adult patients with advanced NSCLC with activating EGFR Exon 20 insertion mutations.
 -  as monotherapy for treatment of adult patients with advanced NSCLC with activating EGFR Exon 20 insertion mutations, after failure of platinum-based therapy.
 
 ## 4.2 Posology and method of administration
 
 Treatment with Rybrevant subcutaneous formulation should be initiated and supervised by a physician experienced in the use of anticancer medicinal products.
 
-Before initiation of Rybrevant subcutaneous formulation, EGFR mutation status in tumour tissue or plasma specimens must be established using a validated test method. If no mutation is detected in a plasma specimen, tumour tissue should be tested if available in sufficient amount and quality due to
-
-<div style=\"page-break-after: always\"></div>
-
-the potential for false negative results using a plasma-test. Once EGFR mutation status has been established, testing does not need to be repeated (see section 5.1).
+Before initiation of Rybrevant subcutaneous formulation, EGFR mutation status in tumour tissue or plasma specimens must be established using a validated test method. If no mutation is detected in a plasma specimen, tumour tissue should be tested if available in sufficient amount and quality due to the potential for false negative results using a plasma-test. Once EGFR mutation status has been established, testing does not need to be repeated (see section 5.1).
 
 Rybrevant subcutaneous formulation should be administered by a healthcare professional with access to appropriate medical support to manage administration-related reactions if they occur.
+
+For patients currently receiving amivantamab intravenous formulation, Rybrevant subcutaneous formulation may be used as an alternative to the intravenous amivantamab formulation starting at the next scheduled dose.
+
+For patients currently receiving Rybrevant subcutaneous formulation at an every 2-week dosing regimen, an every 4-week dosing regimen may be used as an alternative starting at the next scheduled dose.
 
 ## Posology
 
 Premedications should be administered to reduce the risk of administration-related reactions with Rybrevant subcutaneous formulation (see below 'Dose modifications' and 'Recommended concomitant medicinal products').
 
-The recommended dosages of Rybrevant subcutaneous formulation in combination with lazertinib or as monotherapy based on baseline body weight, are provided in Table 1.
+## Rybrevant subcutaneous formulation in combination with lazertinib or as monotherapy
 
-Table 1: Recommended dosage of Rybrevant subcutaneous formulation
+The recommended dosages of Rybrevant subcutaneous formulation in combination with lazertinib or as monotherapy, based on baseline body weight, are provided in Table 1 (every 4-week dosing) and Table 2 (every 2-week dosing).
 
-| Body weight at baseline*       | Recommended dose   | Dosing schedule                                                                          |
+Table 1: Recommended dosage of Rybrevant subcutaneous formulation in combination with lazertinib or as monotherapy (Every 4-week dosing)
+
+| Body weight at baseline *      | Recommended dose   | Dosing schedule                               |
+|--------------------------------|--------------------|-----------------------------------------------|
+| Less than 80 kg                | 1 600 mg           |  Weekly (total of 4 doses) from Weeks 1 to 4 |
+| Less than 80 kg                | 3 520 mg           |  Every 4 weeks starting at Week 5 onwards    |
+| Greater than or equal to 80 kg | 2 240 mg           |  Weekly (total of 4 doses) from Weeks 1 to 4 |
+| Greater than or equal to 80 kg | 4 640 mg           |  Every 4 weeks starting at Week 5 onwards    |
+
+*
+
+Dose adjustments not required for subsequent body weight changes.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 2: Recommended dosage of Rybrevant subcutaneous formulation in combination with lazertinib or as monotherapy (Every 2-week dosing)
+
+| Body weight at baseline *      | Recommended dose   | Dosing schedule                                                                          |
 |--------------------------------|--------------------|------------------------------------------------------------------------------------------|
-| Less than 80 kg                | 1600 mg            |  Weekly (total of 4 doses) from Weeks 1 to 4  Every 2 weeks starting at Week 5 onwards |
-| Greater than or equal to 80 kg | 2240 mg            |  Weekly (total of 4 doses) from Weeks 1 to 4  Every 2 weeks starting at Week 5 onwards |
+| Less than 80 kg                | 1 600 mg           |  Weekly (total of 4 doses) from Weeks 1 to 4  Every 2 weeks starting at Week 5 onwards |
+| Greater than or equal to 80 kg | 2 240 mg           |  Weekly (total of 4 doses) from Weeks 1 to 4  Every 2 weeks starting at Week 5 onwards |
+
+*
+
+Dose adjustments not required for subsequent body weight changes.
 
 When given in combination with lazertinib, it is recommended to administer Rybrevant subcutaneous formulation any time after lazertinib when given on the same day. Refer to section 4.2 of the lazertinib Summary of Product Characteristics for recommended lazertinib dosing information.
+
+## Rybrevant subcutaneous formulation in combination with carboplatin and pemetrexed
+
+The recommended dosages of Rybrevant subcutaneous formulation when used in combination with carboplatin and pemetrexed, based on baseline body weight, are provided in Table 3.
+
+Table 3: Recommended dosage of Rybrevant subcutaneous formulation in combination with carboplatin and pemetrexed (Every 3-week dosing)
+
+| Body weight at baseline *      | Recommended dose   | Dosing schedule                                                                          |
+|--------------------------------|--------------------|------------------------------------------------------------------------------------------|
+| Less than 80 kg                | 1 600 mg           | First dose at Week 1 Day 1                                                               |
+| Less than 80 kg                | 2 400 mg           |  Weekly (total of 3 doses) from Weeks 2 to 4  Every 3 weeks starting at Week 7 onwards |
+| Greater than or equal to 80 kg | 2 240 mg           | First dose at Week 1 Day 1                                                               |
+| Greater than or equal to 80 kg | 3 360 mg           |  Weekly (total of 3 doses) from Weeks 2 to 4  Every 3 weeks starting at Week 7 onwards |
+
+When used in combination with carboplatin and pemetrexed, Rybrevant subcutaneous formulation should be administered after carboplatin and pemetrexed in the following order: pemetrexed, carboplatin and then Rybrevant. See section 5.1 and the manufacturer's prescribing information for dosing instructions for carboplatin and pemetrexed.
 
 ## Duration of treatment
 
@@ -1068,28 +1113,36 @@ It is recommended that patients are treated with Rybrevant subcutaneous formulat
 
 ## Missed dose
 
-If a dose of Rybrevant subcutaneous formulation is missed between Weeks 1 to 4, it should be administered within 24 hours. If a dose of Rybrevant subcutaneous formulation is missed from Week 5 onward, it should be administered within 7 days. Otherwise, the missed dose should not be administered and the next dose should be administered per the usual dosing schedule.
+Every 4-week or every 2-week dosing: If a dose of Rybrevant subcutaneous formulation is missed between Weeks 1 to 4, it should be administered within 24 hours. If a dose of Rybrevant subcutaneous formulation is missed from Week 5 onward, it should be administered within 7 days.
+
+Every 3-week dosing: If a dose of Rybrevant subcutaneous formulation is missed between Weeks 1 to 3, it should be administered within 24 hours. If a dose of Rybrevant subcutaneous formulation is missed from Week 4 onward, it should be administered within 7 days.
+
+If the missed dose is not administered according to this guidance, the missed dose should not be administered and the next dose should be administered per the usual dosing schedule.
 
 ## Dose modifications
 
-Dosing should be interrupted for Grade 3 or 4 adverse reactions until the adverse reaction resolves to ≤ Grade 1 or baseline. If an interruption is 7 days or less, restart at the current dose. If an interruption is longer than 7 days, it is recommended restarting at a reduced dose as presented in Table 2. See also specific dose modifications for specific adverse reactions below Table 2.
+Dosing should be interrupted for Grade 3 or 4 adverse reactions until the adverse reaction resolves to ≤ Grade 1 or baseline. If an interruption is 7 days or less, restart at the current dose. If an interruption is longer than 7 days, it is recommended restarting at a reduced dose as presented in Table 4. See also specific dose modifications for specific adverse reactions below Table 4.
+
+<div style=\"page-break-after: always\"></div>
 
 If used in combination with lazertinib, refer to section 4.2 of the lazertinib Summary of Product Characteristics for information about dose modifications.
 
-Table 2: Recommended dose modifications for adverse reactions
+Table 4: Recommended dose modifications for adverse reactions
 
 | Dose *   | Dose after 1 st interruption for adverse reaction   | Dose after 2 nd interruption for adverse reaction   | Dose after 3 rd interruption for adverse reaction   |
 |----------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-| 1600 mg  | 1050 mg                                             | 700 mg                                              | Discontinue Rybrevant subcutaneous                  |
-| 2240 mg  | 1600 mg                                             | 1050 mg                                             | formulation                                         |
-
-<div style=\"page-break-after: always\"></div>
+| 1 600 mg | 1 050 mg                                            | 700 mg                                              | Discontinue Rybrevant subcutaneous formulation      |
+| 2 240 mg | 1 600 mg                                            | 1 050 mg                                            | Discontinue Rybrevant subcutaneous formulation      |
+| 2 400 mg | 1 600 mg                                            | 1 050 mg                                            | Discontinue Rybrevant subcutaneous formulation      |
+| 3 360 mg | 2 240 mg                                            | 1 600 mg                                            | Discontinue Rybrevant subcutaneous formulation      |
+| 3 520 mg | 2 400 mg                                            | 1 600 mg                                            | Discontinue Rybrevant subcutaneous formulation      |
+| 4 640 mg | 3 360 mg                                            | 2 240 mg                                            | Discontinue Rybrevant subcutaneous formulation      |
 
 ## Administration-related reactions
 
 Premedications should be administered to reduce the risk of administration-related reactions with Rybrevant subcutaneous formulation (see 'Recommended concomitant medicinal products'). Injections should be interrupted at the first sign of administration-related reactions. Additional supportive medicinal products (e.g., additional glucocorticoids, antihistamine, antipyretics and antiemetics) should be administered as clinically indicated (see section 4.4).
 
--  Grade 1-3 (mild-severe): Upon recovery of symptoms, resume Rybrevant subcutaneous formulation injections. Concomitant medicinal products should be administered at the next dose, including dexamethasone (20 mg) or equivalent (see Table 3).
+-  Grade 1-3 (mild-severe): Upon recovery of symptoms, resume Rybrevant subcutaneous formulation injections. Concomitant medicinal products should be administered at the next dose, including dexamethasone (20 mg) or equivalent (see Table 5).
 -  Recurrent Grade 3 or Grade 4 (life-threatening): Permanently discontinue Rybrevant.
 
 ## Venous thromboembolic (VTE) events with concomitant use with lazertinib
@@ -1102,7 +1155,9 @@ For VTE events associated with clinical instability (e.g., respiratory failure o
 
 Prophylactic therapy with oral and topical antibiotics is recommended to reduce the risk and severity of skin and nail reactions in patients receiving Rybrevant. Non-comedogenic skin moisturiser (ceramide-based or other formulations that provide long lasting skin hydration and exclude drying agents are preferred) on the face and whole body (except scalp) and chlorhexidine solution to wash hands and feet is also recommended. Patients should be instructed to limit sun exposure during and for 2 months after Rybrevant therapy. For further information about prophylaxis for skin and nail reactions, see section 4.4.
 
-If the patient develops a Grade 1-2 skin or nail reaction, supportive care should be initiated as clinically indicated; if there is no improvement after 2 weeks, dose reduction should be considered for persistent Grade 2 rash (see Table 2). If the patient develops a Grade 3 skin or nail reaction, supportive care should be initiated as clinically indicated, and interruption of Rybrevant subcutaneous formulation should be considered until the adverse reaction improves. Upon recovery of the skin or nail reaction to ≤ Grade 2, Rybrevant subcutaneous formulation should be resumed at a reduced dose. If the patient develops Grade 4 skin reactions, permanently discontinue Rybrevant (see section 4.4).
+If the patient develops a Grade 1-2 skin or nail reaction, supportive care should be initiated as clinically indicated; if there is no improvement after 2 weeks, dose reduction should be considered for persistent Grade 2 rash (see Table 4). If the patient develops a Grade 3 skin or nail reaction, supportive care should be initiated as clinically indicated, and interruption of Rybrevant subcutaneous formulation should be considered until the adverse reaction improves. Upon recovery of the skin or nail reaction to ≤ Grade 2, Rybrevant subcutaneous formulation should be resumed at a reduced dose. If the patient develops Grade 4 skin reactions, permanently discontinue Rybrevant (see section 4.4).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Interstitial lung disease
 
@@ -1110,18 +1165,16 @@ Rybrevant subcutaneous formulation should be withheld if interstitial lung disea
 
 ## Recommended concomitant medicinal products
 
-Prior to the initial dose (Week 1, Day 1), antihistamines, antipyretics, and glucocorticoids should be administered to reduce the risk of administration-related reactions (see Table 3). For subsequent doses, antihistamines and antipyretics are required to be administered. Glucocorticoids should also be re-initiated after prolonged dose interruptions. Antiemetics should be administered as needed.
+Prior to the initial dose (Week 1, Day 1), antihistamines, antipyretics, and glucocorticoids should be administered to reduce the risk of administration-related reactions (see Table 5). For subsequent doses, antihistamines and antipyretics are required to be administered. Glucocorticoids should also be re-initiated after prolonged dose interruptions. Antiemetics should be administered as needed.
 
-<div style=\"page-break-after: always\"></div>
+Table 5: Dosing schedule of premedications
 
-Table 3: Dosing schedule of premedications
-
-| Premedication    | Dose                                                     | Route of administration   | Recommended dosing window prior to Rybrevant subcutaneous formulation administration   |
-|------------------|----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------|
-| Antihistamine *  | Diphenhydramine (25 to 50 mg) or equivalent              | Intravenous Oral          | 15 to 30 minutes 30 to 60 minutes                                                      |
-| Antipyretic *    | Paracetamol/Acetaminophen (650 to 1000 mg) or equivalent | Intravenous Oral          | 15 to 30 minutes 30 to 60 minutes                                                      |
-| Glucocorticoid † | Dexamethasone (20 mg) or equivalent                      | Intravenous Oral          | 45 to 60 minutes At least 60 minutes                                                   |
-| Glucocorticoid ‡ | Dexamethasone (10 mg) or equivalent                      | Intravenous Oral          | 45 to 60 minutes 60 to 90 minutes                                                      |
+| Premedication    | Dose                                                      | Route of administration   | Recommended dosing window prior to Rybrevant subcutaneous formulation administration   |
+|------------------|-----------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------|
+| Antihistamine *  | Diphenhydramine (25 to 50 mg) or equivalent               | Intravenous Oral          | 15 to 30 minutes 30 to 60 minutes                                                      |
+| Antipyretic *    | Paracetamol/Acetaminophen (650 to 1 000 mg) or equivalent | Intravenous Oral          | 15 to 30 minutes 30 to 60 minutes                                                      |
+| Glucocorticoid † | Dexamethasone (20 mg) or equivalent                       | Intravenous Oral          | 45 to 60 minutes At least 60 minutes                                                   |
+| Glucocorticoid ‡ | Dexamethasone (10 mg) or equivalent                       | Intravenous Oral          | 45 to 60 minutes 60 to 90 minutes                                                      |
 
 ## Special populations
 
@@ -1141,6 +1194,8 @@ No formal studies of amivantamab in patients with renal impairment have been con
 
 No formal studies of amivantamab in patients with hepatic impairment have been conducted. Based on population PK analyses, no dose adjustment is necessary for patients with mild hepatic impairment. Caution is required in patients with moderate or severe hepatic impairment as amivantamab has not been studied in this patient population (see section 5.2). If treatment is started, patients should be monitored for adverse reactions with dose modifications per the recommendations above.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Method of administration
 
 Rybrevant solution for injection is for subcutaneous use only.
@@ -1148,8 +1203,6 @@ Rybrevant solution for injection is for subcutaneous use only.
 Rybrevant subcutaneous formulation is not intended for intravenous administration and should be given by subcutaneous injection only, using the doses specified. See section 6.6 for instructions on handling of the medicinal product before administration.
 
 Inject the required volume of Rybrevant subcutaneous formulation into the subcutaneous tissue of the abdomen over approximately 5 minutes. Do not administer at other sites of the body as no data are available.
-
-<div style=\"page-break-after: always\"></div>
 
 Pause or slow delivery rate if the patient experiences pain. In the event pain is not alleviated by pausing or slowing down delivery rate, a second injection site may be chosen on the opposite side of the abdomen to deliver the remainder of the dose.
 
@@ -1181,17 +1234,15 @@ Patients should be treated in a setting with appropriate medical support to trea
 
 Interstitial lung disease (ILD) or ILD-like adverse reactions (e.g., pneumonitis) have been reported in patients treated with amivantamab, including fatal events (see section 4.8). Patients should be monitored for symptoms indicative of ILD/pneumonitis (e.g., dyspnoea, cough, fever). If symptoms develop, treatment with Rybrevant should be interrupted pending investigation of these symptoms. Suspected ILD or ILD-like adverse reactions should be evaluated and appropriate treatment should be initiated as necessary. Rybrevant should be permanently discontinued in patients with confirmed ILD or ILD-like adverse reactions (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Venous thromboembolic (VTE) events with concomitant use with lazertinib
 
 In patients receiving amivantamab in combination with lazertinib, VTE events, including deep vein thrombosis (DVT) and pulmonary embolism (PE), were reported (see section 4.8). Fatal events were observed with amivantamab intravenous formulation.
 
 Consistent with clinical guidelines, patients should receive prophylactic dosing of either a direct acting oral anticoagulant (DOAC) or a low molecular weight heparin (LMWH). Use of Vitamin K antagonists is not recommended.
 
-Signs and symptoms of VTE events should be monitored. Patients with VTE events should be treated with anticoagulation as clinically indicated. For VTE events associated with clinical instability,
-
-<div style=\"page-break-after: always\"></div>
-
-treatment should be withheld until the patient is clinically stable. Thereafter, both drugs can be resumed at the same dose.
+Signs and symptoms of VTE events should be monitored. Patients with VTE events should be treated with anticoagulation as clinically indicated. For VTE events associated with clinical instability, treatment should be withheld until the patient is clinically stable. Thereafter, both drugs can be resumed at the same dose.
 
 In the event of recurrence despite appropriate anticoagulation, Rybrevant should be discontinued. Treatment can continue with lazertinib at the same dose (see section 4.2).
 
@@ -1211,9 +1262,11 @@ Eye disorders, including keratitis, occurred in patients treated with amivantama
 
 This medicinal product contains less than 1 mmol (23 mg) sodium per dose, that is to say essentially 'sodium-free' (see section 6.6).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Polysorbate content
 
-This medicinal product contains 0.6 mg of polysorbate 80 in each mL, which is equivalent to 6 mg per 10 mL vial, or 8.4 mg per 14 mL vial. Polysorbates may cause hypersensitivity reactions.
+This medicinal product contains 0.6 mg of polysorbate 80 in each mL, which is equivalent to 6 mg per 10 mL vial, 8.4 mg per 14 mL vial, 9 mg per 15 mL vial, or 13.2 mg per 22 mL vial. Polysorbates may cause hypersensitivity reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -1222,8 +1275,6 @@ No drug interaction studies have been performed. As an IgG1 monoclonal antibody,
 ## Vaccines
 
 No clinical data are available on the efficacy and safety of vaccinations in patients taking amivantamab. Avoid the use of live or live-attenuated vaccines while patients are taking amivantamab.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -1247,6 +1298,8 @@ There are no data on the effect of amivantamab on human fertility. Effects on ma
 
 Rybrevant may have moderate influence on the ability to drive and use machines. Please see section 4.8 (e.g., dizziness, fatigue, visual impairment). If patients experience treatment-related symptoms, including vision-related adverse reactions, affecting their ability to concentrate and react, it is recommended that they do not drive or use machines until the effect subsides.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
@@ -1257,65 +1310,65 @@ In the dataset of Rybrevant intravenous formulation as monotherapy (N=380), the 
 
 ## Tabulated list of adverse reactions
 
-Table 4 summarises the adverse drug reactions that occurred in patients receiving Rybrevant as monotherapy.
+Table 6 summarises the adverse drug reactions that occurred in patients receiving Rybrevant as monotherapy.
 
-The data reflects exposure to Rybrevant intravenous formulation in 380 patients with locally advanced or metastatic non-small cell lung cancer after failure of platinum-based chemotherapy. Patients received amivantamab 1050 mg (for patients &lt; 80 kg) or 1400 mg (for patients ≥ 80 kg). The median exposure to amivantamab was 4.1 months (range: 0.0 to 39.7 months).
+The data reflects exposure to Rybrevant intravenous formulation in 380 patients with locally advanced or metastatic non-small cell lung cancer after failure of platinum-based chemotherapy. Patients received amivantamab 1 050 mg (for patients &lt; 80 kg) or 1 400 mg (for patients ≥ 80 kg). The median exposure to amivantamab was 4.1 months (range: 0.0 to 39.7 months).
 
-<div style=\"page-break-after: always\"></div>
-
-Adverse reactions observed during clinical studies are listed below by frequency category. Frequency categories are defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1000 to &lt; 1/100); rare (≥ 1/10000 to &lt; 1/1000); very rare (&lt; 1/10000); and not known (frequency cannot be estimated from the available data).
+Adverse reactions observed during clinical studies are listed below by frequency category. Frequency categories are defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); and not known (frequency cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
-Table 4: Adverse reactions in patients receiving Rybrevant as monotherapy (N=380)
+Table 6: Adverse reactions in patients receiving Rybrevant as monotherapy (N=380)
 
-| System organ class Adverse reaction             | Frequency category   | Any grade (%)   | Grade 3 - 4 (%)   |
+| System organ class Adverse reaction             | Frequency category   |   Any grade (%) | Grade 3 - 4 (%)   |
 |-------------------------------------------------|----------------------|-----------------|-------------------|
 | Metabolism and nutrition disorders              |                      |                 |                   |
-| Hypoalbuminaemia* (see section 5.1)             | Very common          | 31              | 2 †               |
-| Decreased appetite                              | Very common          | 16              | 0.5 †             |
-| Hypocalcaemia                                   | Very common          | 10              | 0.3 †             |
-| Hypokalaemia                                    | Common               | 9               | 2                 |
-| Hypomagnesaemia                                 | Common               | 8               | 0                 |
+| Hypoalbuminaemia * (see section 5.1)            | Very common          |              31 | 2 †               |
+| Decreased appetite                              | Very common          |              16 | 0.5 †             |
+| Hypocalcaemia                                   | Very common          |              10 | 0.3 †             |
+| Hypokalaemia                                    | Common               |               9 | 2                 |
+| Hypomagnesaemia                                 | Common               |               8 | 0                 |
 | Nervous system disorders                        |                      |                 |                   |
-| Dizziness*                                      | Very common          | 13              | 0.3 †             |
+| Dizziness *                                     | Very common          |              13 | 0.3 †             |
 | Eye disorders                                   |                      |                 |                   |
-| Visual impairment*                              | Common               | 3               | 0                 |
-| Growth of eyelashes*                            | Common               | 1               | 0                 |
-| Other eye disorders*                            | Common               | 6               | 0                 |
-| Keratitis                                       | Uncommon             | 0.5             | 0                 |
-| Uveitis                                         | Uncommon             | 0.3             | 0                 |
+| Visual impairment *                             | Common               |               3 | 0                 |
+| Growth of eyelashes *                           | Common               |               1 | 0                 |
+| Other eye disorders *                           | Common               |               6 | 0                 |
+| Keratitis                                       | Uncommon             |             0.5 | 0                 |
+| Uveitis                                         | Uncommon             |             0.3 | 0                 |
 | Respiratory, thoracic and mediastinal disorders |                      |                 |                   |
-| Interstitial lung disease*                      | Common               | 3               | 0.5 †             |
+| Interstitial lung disease *                     | Common               |               3 | 0.5 †             |
 | Gastrointestinal disorders                      |                      |                 |                   |
-| Diarrhoea                                       | Very common          | 11              | 2 †               |
-| Stomatitis*                                     | Very common          | 24              | 0.5 †             |
-| Nausea                                          | Very common          | 23              | 0.5 †             |
-| Constipation                                    | Very common          | 23              | 0                 |
-| Vomiting                                        | Very common          | 12              | 0.5 †             |
-| Abdominal pain*                                 | Common               | 9               | 0.8 †             |
-| Haemorrhoids                                    | Common               | 3.7             | 0                 |
-| Hepatobiliary disorders                         |                      |                 |                   |
-| Alanine aminotransferase increased              | Very common          | 15              | 2                 |
-| Aspartate aminotransferase increased            | Very common          | 13              | 1                 |
-| Blood alkaline phosphatase increased            | Very common          | 12              | 0.5 †             |
-| Skin and subcutaneous tissue disorders          |                      |                 |                   |
-| Rash*                                           | Very common          | 76              | 3 †               |
-| Nail toxicity*                                  | Very common          | 47              | 2 †               |
-| Dry skin*                                       | Very common          | 19              | 0                 |
-| Pruritus                                        | Very common          | 18              | 0                 |
-| Skin ulcer                                      | Uncommon             | 0.8             | 0                 |
-| Toxic epidermal necrolysis                      | Uncommon             | 0.3             | 0.3 †             |
-| Musculoskeletal and connective tissue disorders |                      |                 |                   |
-| Myalgia                                         | Very common          | 11              | 0.3 †             |
-| General disorders and administration site       | conditions           |                 |                   |
-| Oedema*                                         | Very common          | 26              | 0.8 †             |
-| Fatigue*                                        | Very common          | 26              | 0.8 †             |
-| Pyrexia                                         | Very common          | 11              | 0                 |
-| Injury, poisoning and procedural complications  |                      |                 |                   |
-| Infusion-related reaction                       | Very common          | 67              | 2                 |
+| Diarrhoea                                       | Very common          |              11 | 2 †               |
+| Stomatitis *                                    | Very common          |              24 | 0.5 †             |
+| Nausea                                          | Very common          |              23 | 0.5 †             |
+| Constipation                                    | Very common          |              23 | 0                 |
+| Vomiting                                        | Very common          |              12 | 0.5 †             |
+| Abdominal pain *                                | Common               |               9 | 0.8 †             |
+| Haemorrhoids                                    | Common               |             3.7 | 0                 |
 
 <div style=\"page-break-after: always\"></div>
+
+| Hepatobiliary disorders                              | Hepatobiliary disorders                              | Hepatobiliary disorders                              | Hepatobiliary disorders                              |
+|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| Alanine aminotransferase increased                   | Very common                                          | 15                                                   | 2                                                    |
+| Aspartate aminotransferase increased                 | Very common                                          | 13                                                   | 1                                                    |
+| Blood alkaline phosphatase increased                 | Very common                                          | 12                                                   | 0.5 †                                                |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |
+| Rash *                                               | Very common                                          | 76                                                   | 3 †                                                  |
+| Nail toxicity *                                      | Very common                                          | 47                                                   | 2 †                                                  |
+| Dry skin *                                           | Very common                                          | 19                                                   | 0                                                    |
+| Pruritus                                             | Very common                                          | 18                                                   | 0                                                    |
+| Skin ulcer                                           | Uncommon                                             | 0.8                                                  | 0                                                    |
+| Toxic epidermal necrolysis                           | Uncommon                                             | 0.3                                                  | 0.3 †                                                |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      |
+| Myalgia                                              | Very common                                          | 11                                                   | 0.3 †                                                |
+| General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |
+| Oedema *                                             | Very common                                          | 26                                                   | 0.8 †                                                |
+| Fatigue *                                            | Very common                                          | 26                                                   | 0.8 †                                                |
+| Pyrexia                                              | Very common                                          | 11                                                   | 0                                                    |
+| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications       |
+| Infusion-related reaction                            | Very common                                          | 67                                                   | 2                                                    |
 
 * Grouped terms
 
@@ -1325,110 +1378,206 @@ Table 4: Adverse reactions in patients receiving Rybrevant as monotherapy (N=380
 
 Overall, the safety profile of Rybrevant subcutaneous formulation was consistent with the established safety profile of Rybrevant intravenous formulation, with a lower incidence of administration-related reactions and VTEs observed with the subcutaneous formulation compared to the intravenous formulation.
 
-In the dataset of Rybrevant (either intravenous or subcutaneous formulations) in combination with lazertinib (N=752), the most frequent adverse reactions of any grade (≥ 20% patients) were rash (87%), nail toxicity (67%), hypoalbuminaemia (48%), hepatotoxicity (43%), stomatitis (43%), oedema (42%), fatigue (35%), paraesthesia (29%), constipation (26%), diarrhoea (26%), dry skin (25%), decreased appetite (24%), nausea (24%), and pruritus (23%).
+In the dataset of Rybrevant (either intravenous or subcutaneous formulations) in combination with lazertinib (N=829), the most frequent adverse reactions of any grade (≥ 20% patients) were rash (87%), nail toxicity (68%), hypoalbuminaemia (49%), hepatotoxicity (43%), stomatitis (43%), oedema (42%), fatigue (34%), paraesthesia (29%), diarrhoea (26%), constipation (25%), dry skin (25%), nausea (24%), pruritus (24%), and decreased appetite (23%).
 
 Clinically relevant differences between the intravenous and subcutaneous formulations, when given in combination with lazertinib, were observed for administration-related reactions (63% for intravenous vs. 14% for subcutaneous) and VTE (37% for intravenous vs. 11% for subcutaneous).
 
-Serious adverse reactions were reported in 14% of patients who received Rybrevant subcutaneous formulation in combination with lazertinib, including ILD (4.2%), VTE (2.7%), hepatotoxicity (2.1%), and fatigue (1.5%). Seven percent of patients discontinued Rybrevant subcutaneous formulation due to adverse reactions. In patients treated with Rybrevant subcutaneous formulation in combination with lazertinib, the most frequent adverse reactions of any grade (≥ 1% patients) leading to discontinuation of Rybrevant subcutaneous formulation were ILD (3.6%) and rash (1.5%).
+Serious adverse reactions were reported in 14% of patients who received Rybrevant subcutaneous formulation in combination with lazertinib, including ILD (4.2%), VTE (2.2%), hepatotoxicity (2.2%), and fatigue (1.5%). Seven percent of patients discontinued Rybrevant subcutaneous formulation due to adverse reactions. In patients treated with Rybrevant subcutaneous formulation in combination with lazertinib, the most frequent adverse reactions of any grade (≥ 1% patients) leading to discontinuation of Rybrevant subcutaneous formulation were ILD (3.7%), rash (1.2%), and nail toxicity (1.0%).
 
 ## Tabulated list of adverse reactions
 
-The adverse reactions for Rybrevant (either intravenous or subcutaneous formulation) when received in combination with lazertinib are summarised in Table 5.
+The adverse reactions for Rybrevant (either intravenous or subcutaneous formulation) when received in combination with lazertinib are summarised in Table 7.
 
-The safety data below reflect exposure to Rybrevant (either intravenous or subcutaneous formulation) in combination with lazertinib in 752 patients with locally advanced or metastatic NSCLC, including 421 patients in MARIPOSA, 125 patients in PALOMA-2 cohorts 1 and 6, and 206 patients in PALOMA-3 subcutaneous arm. Patients received Rybrevant (either intravenous or subcutaneous formulation) until disease progression or unacceptable toxicity. The median duration of treatment with amivantamab overall for both intravenous and subcutaneous formulations was 9.9 months (range: 0.1 to 31.4 months). Median duration on treatment for the subcutaneous formulation was 5.7 months (range: 0.1 to 13.2 months) while median duration on treatment for the intravenous formulation was 18.5 months (range: 0.2 to 31.4 months).
-
-Adverse reactions observed during clinical studies are listed below by frequency category. Frequency categories are defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1000 to &lt; 1/100); rare (≥ 1/10000 to &lt; 1/1000); very rare (&lt; 1/10000); and not known (frequency cannot be estimated from the available data).
-
-Table 5: Adverse reactions for Rybrevant (either intravenous or subcutaneous formulation) when received in combination with lazertinib (N=752)
-
-| System Organ Class Adverse Reaction   | Frequency category   | Any grade (%)   | Grade 3 - 4 (%)   |
-|---------------------------------------|----------------------|-----------------|-------------------|
-| Metabolism and nutrition disorders    |                      |                 |                   |
-| Hypoalbuminaemia*                     | Very common          | 48              | 4.5               |
-| Decreased appetite                    | Very common          | 24              | 0.8               |
-| Hypocalcaemia                         | Very common          | 19              | 1.2               |
-| Hypokalaemia                          | Very common          | 13              | 2.7               |
-| Hypomagnesaemia                       | Common               | 6               | 0                 |
+The safety data below reflect exposure to Rybrevant (either intravenous or subcutaneous formulation) in combination with lazertinib in 829 patients with locally advanced or metastatic NSCLC, including 421 patients in MARIPOSA, 202 patients in PALOMA-2 cohorts 1, 5 and 6, and 206 patients in PALOMA-3 subcutaneous arm. Patients received Rybrevant (either intravenous or subcutaneous formulation) until disease progression or unacceptable toxicity. The median duration of treatment with amivantamab overall for both intravenous and subcutaneous formulations was 9.1 months (range: 0.1 to 31.4 months). Median duration on treatment for the subcutaneous formulation was 6.1 months
 
 <div style=\"page-break-after: always\"></div>
 
-| Nervous system disorders                             | Nervous system disorders                        | Nervous system disorders   | Nervous system disorders   |
-|------------------------------------------------------|-------------------------------------------------|----------------------------|----------------------------|
-| Paraesthesia* , a                                    | Very common                                     | 29                         | 1.3                        |
-| Dizziness*                                           |                                                 | 12                         | 0                          |
-| Eye disorders                                        |                                                 |                            |                            |
-| Other eye disorders*                                 | Very common                                     | 19                         | 0.5                        |
-| Visual impairment*                                   | Common                                          | 3.6                        | 0                          |
-| Keratitis                                            |                                                 | 1.7                        | 0.3                        |
-| Growth of eyelashes*                                 |                                                 | 1.7                        | 0                          |
-| Vascular disorders                                   |                                                 |                            |                            |
-| Venous thromboembolism                               |                                                 |                            |                            |
-| Amivantamab intravenous* , b                         | Very common                                     | 37                         | 11                         |
-| Amivantamab subcutaneous* , c                        | Very common                                     | 11                         | 0.9                        |
-| Respiratory, thoracic, and mediastinal disorders     |                                                 |                            |                            |
-| Interstitial lung disease*                           | Common                                          | 3.6                        | 1.7                        |
-| Gastrointestinal disorders                           |                                                 |                            |                            |
-| Stomatitis*                                          | Very common                                     | 43                         | 2.0                        |
-| Constipation                                         |                                                 | 26                         | 0                          |
-| Diarrhoea                                            |                                                 | 26                         | 1.7                        |
-| Nausea                                               |                                                 | 24                         | 0.8                        |
-| Vomiting                                             |                                                 | 15                         | 0.5                        |
-| Abdominal pain*                                      |                                                 | 10                         | 0.1                        |
-| Haemorrhoids                                         | Common                                          | 8                          | 0.1                        |
-| Hepatobiliary disorders                              |                                                 |                            |                            |
-| Hepatotoxicity*                                      | Very common                                     | 43                         | 7                          |
-| Skin and subcutaneous tissue disorders               |                                                 |                            |                            |
-| Rash*                                                | Very common                                     | 87                         | 23                         |
-| Nail toxicity*                                       |                                                 | 67                         | 8                          |
-| Dry skin*                                            |                                                 | 25                         | 0.7                        |
-| Pruritus                                             |                                                 | 23                         | 0.3                        |
-| Skin ulcer                                           | Common                                          | 3.9                        | 0.5                        |
-| Palmar-plantar erythrodysaesthesia syndrome          |                                                 | 3.9                        | 0.1                        |
-| Urticaria                                            |                                                 | 1.6                        | 0                          |
-| Musculoskeletal and connective tissue disorders      |                                                 |                            |                            |
-| Myalgia                                              | Very common                                     | 15                         | 0.5                        |
-| Muscle spasms                                        |                                                 | 13                         | 0.4                        |
-| General disorders and administration site conditions |                                                 |                            |                            |
-| Oedema*                                              | Very common                                     | 42                         | 2.7                        |
-| Fatigue*                                             |                                                 | 35                         | 3.5                        |
-| Pyrexia                                              |                                                 | 11                         | 0                          |
-| Injection site reactions* , c, d                     | Common                                          | 8                          | 0                          |
-| Injury, poisoning, and procedural complications      | Injury, poisoning, and procedural complications |                            |                            |
-| Infusion-/Administration-related reactions           |                                                 |                            |                            |
-| Amivantamab intravenous b, e                         | Very common                                     | 63                         | 6                          |
-| Amivantamab subcutaneous c, f                        | Very common                                     | 14                         | 0.3                        |
+(range: 0.1 to 13.2 months) while median duration on treatment for the intravenous formulation was 18.5 months (range: 0.2 to 31.4 months).
+
+Adverse reactions observed during clinical studies are listed below by frequency category. Frequency categories are defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); and not known (frequency cannot be estimated from the available data).
+
+Table 7: Adverse reactions for Rybrevant (either intravenous or subcutaneous formulation) when received in combination with lazertinib (N=829)
+
+| System organ class Adverse reaction              | Frequency category      |   Any grade (%) |   Grade 3 - 4 (%) |
+|--------------------------------------------------|-------------------------|-----------------|-------------------|
+| Metabolism and nutrition disorders               |                         |                 |                   |
+| Hypoalbuminaemia *                               | Very common             |              49 |               4.6 |
+| Decreased appetite                               | Very common             |              23 |               0.7 |
+| Hypocalcaemia                                    | Very common             |              18 |               1.1 |
+| Hypokalaemia                                     | Very common             |              12 |               2.7 |
+| Hypomagnesaemia                                  | Common                  |               6 |                 0 |
+| Nervous system disorders                         |                         |                 |                   |
+| Paraesthesia *, a                                | Very common             |              29 |               1.2 |
+| Dizziness *                                      | Very common             |              12 |                 0 |
+| Eye disorders                                    |                         |                 |                   |
+| Other eye disorders *                            | Very common             |              19 |               0.5 |
+| Visual impairment *                              |                         |             3.6 |                 0 |
+| Keratitis                                        | Common                  |             1.9 |               0.2 |
+| Growth of eyelashes *                            | Common                  |             1.8 |                 0 |
+| Vascular disorders                               |                         |                 |                   |
+| Venous thromboembolism                           |                         |                 |                   |
+| Amivantamab intravenous *, b                     | Very common             |              37 |                11 |
+| Amivantamab subcutaneous *, c                    | Very common             |              11 |               0.7 |
+| Respiratory, thoracic, and mediastinal disorders |                         |                 |                   |
+| Interstitial lung disease *                      | Common                  |             3.6 |               1.7 |
+| Gastrointestinal disorders                       |                         |                 |                   |
+| Stomatitis *                                     | Very common             |              43 |               2.2 |
+| Diarrhoea                                        | Very common             |              26 |               1.8 |
+| Constipation                                     | Very common             |              25 |                 0 |
+| Nausea                                           | Very common             |              24 |               0.7 |
+| Vomiting                                         |                         |              15 |               0.5 |
+| Abdominal pain *                                 | Common                  |               9 |               0.1 |
+| Haemorrhoids                                     | Common                  |               8 |               0.1 |
+| Hepatobiliary disorders                          |                         |                 |                   |
+| Hepatotoxicity *                                 | Very common Very common |              43 |                 7 |
+| Skin and subcutaneous tissue disorders           |                         |                 |                   |
+| Rash *                                           |                         |              87 |                22 |
+| Nail toxicity *                                  |                         |              68 |                 8 |
+| Dry skin *                                       |                         |              25 |               0.7 |
+| Pruritus                                         |                         |              24 |               0.4 |
+| Skin ulcer                                       |                         |             3.7 |               0.5 |
+| Palmar-plantar erythrodysaesthesia syndrome      | Common                  |             3.5 |               0.1 |
+| Urticaria                                        |                         |             1.6 |                 0 |
+| Musculoskeletal and connective tissue disorders  |                         |                 |                   |
+| Myalgia                                          |                         |              15 |               0.5 |
+| Muscle spasms                                    | Very common             |              13 |               0.4 |
 
 <div style=\"page-break-after: always\"></div>
+
+| General disorders and administration site conditions   | General disorders and administration site conditions   | General disorders and administration site conditions   | General disorders and administration site conditions   |
+|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+| Oedema *                                               |                                                        | 42                                                     | 2.4                                                    |
+| Fatigue *                                              | Very common                                            | 34                                                     | 3.4                                                    |
+| Pyrexia                                                |                                                        | 11                                                     | 0                                                      |
+| Injection site reactions *, c, d                       | Common                                                 | 6                                                      | 0                                                      |
+| Injury, poisoning and procedural complications         | Injury, poisoning and procedural complications         | Injury, poisoning and procedural complications         | Injury, poisoning and procedural complications         |
+| Infusion-/Administration-related reactions             | Infusion-/Administration-related reactions             | Infusion-/Administration-related reactions             | Infusion-/Administration-related reactions             |
+| Amivantamab intravenous b, e                           | Very common                                            | 63                                                     | 6                                                      |
+| Amivantamab subcutaneous c, f                          | Very common                                            | 14                                                     | 0.5                                                    |
+
+* Grouped terms.
+- a Applicable only to lazertinib.
+- b Frequency based on amivantamab intravenous studies only (MARIPOSA [N=421]).
+- c Frequency based on amivantamab subcutaneous studies only (PALOMA-2 cohorts 1 and 6 [N=125], cohort 5 [N=77] and PALOMA-3 subcutaneous arm [N=206]).
+- d Injection site reactions are local signs and symptoms associated with subcutaneous mode of administration.
+- e Infusion-related reactions are systemic signs and symptoms associated with infusion of amivantamab intravenous.
+- f Administration-related reactions are systemic signs and symptoms associated with administration of amivantamab subcutaneous.
+
+## Rybrevant in combination with carboplatin and pemetrexed
+
+In the dataset of Rybrevant (either intravenous or subcutaneous formulations) in combination with carboplatin and pemetrexed (N=444), the most frequent adverse reactions of any grade (≥20% patients) were rash (83%), nail toxicity (57%), neutropenia (56%), fatigue (46%), nausea (44%), stomatitis (42%), oedema (41%), thrombocytopenia (40%), constipation (39%), hypoalbuminaemia (36%), decreased appetite (32%), alanine aminotransferase increased (28%), aspartate aminotransferase increased (24%), and vomiting (23%).
+
+Serious adverse reactions were reported in 19% of patients who received Rybrevant subcutaneous formulation in combination with carboplatin and pemetrexed, including vomiting (2.8%), ILD (2.8%), nausea (2.1%), fatigue (2.1%), VTE (2.1%), neutropenia (2.1%), diarrhoea (1.4%), and hypocalcaemia (1.4%). 6% of patients discontinued Rybrevant subcutaneous formulation due to adverse reactions. In patients treated with Rybrevant subcutaneous formulation in combination with carboplatin and pemetrexed, the most frequent adverse reactions of any grade (≥ 1% patients) leading to discontinuation of Rybrevant subcutaneous formulation were ILD (2.8%) and rash (1.4%).
+
+## Tabulated list of adverse reactions
+
+The adverse reactions for Rybrevant (either intravenous or subcutaneous formulation) when received in combination with carboplatin and pemetrexed are summarised in Table 8.
+
+The safety data below reflect exposure to Rybrevant (either intravenous or subcutaneous formulation) in combination with carboplatin and pemetrexed in 444 patients with locally advanced or metastatic NSCLC, including 151 patients in PAPILLON, 130 patients in MARIPOSA-2, 20 patients in CHRYSALIS, and 143 patients in PALOMA-2 cohorts 2 and 3b. Patients received Rybrevant (either intravenous or subcutaneous formulation) until disease progression or unacceptable toxicity. The median duration of treatment with amivantamab overall for both intravenous and subcutaneous formulations was 7.4 months (range: 0.0 to 28.1 months). Median duration on treatment for the subcutaneous formulation was 6.9 months (range: 0.0 to 15.4 months) while median duration on treatment for the intravenous formulation was 7.7 months (range: 0.0 to 28.1 months).
+
+Adverse reactions observed during clinical studies are listed below by frequency category. Frequency categories are defined as follows: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); and not known (frequency cannot be estimated from the available data).
+
+<div style=\"page-break-after: always\"></div>
+
+Table 8: Adverse reactions for Rybrevant (either intravenous or subcutaneous formulation) when received in combination with carboplatin and pemetrexed (N=444)
+
+| System organ class Adverse reaction                  | Frequency category   |   Any grade (%) |   Grade 3 - 4 (%) |
+|------------------------------------------------------|----------------------|-----------------|-------------------|
+| Blood and lymphatic system disorders                 |                      |                 |                   |
+| Neutropenia                                          | Very common          |              56 |                36 |
+| Thrombocytopenia                                     |                      |              40 |                13 |
+| Metabolism and nutrition disorders                   |                      |                 |                   |
+| Hypoalbuminaemia *                                   |                      |              36 |                 5 |
+| Decreased appetite                                   |                      |              32 |               1.1 |
+| Hypokalaemia                                         | Very common          |              19 |                 7 |
+| Hypocalcaemia                                        |                      |              14 |               2.0 |
+| Hypomagnesaemia                                      |                      |              11 |               1.8 |
+| Nervous system disorders                             |                      |                 |                   |
+| Dizziness *                                          | Very common          |              10 |               0.5 |
+| Eye disorders                                        |                      |                 |                   |
+| Other eye disorders *                                | Very common          |              15 |                 0 |
+| Visual impairment *                                  | Common               |             2.9 |                 0 |
+| Growth of eyelashes                                  |                      |             0.7 |                 0 |
+| Keratitis                                            | Uncommon             |             0.2 |                 0 |
+| Uveitis                                              |                      |             0.2 |                 0 |
+| Vascular disorders                                   |                      |                 |                   |
+| Venous thromboembolism                               |                      |                 |                   |
+| Amivantamab intravenous *, a                         | Very common          |              14 |               3.0 |
+| Amivantamab subcutaneous *, b                        | Very common          |              18 |               2.8 |
+| Respiratory, thoracic, and mediastinal disorders     |                      |                 |                   |
+| Interstitial lung disease *                          | Common               |             2.5 |               1.4 |
+| Gastrointestinal disorders                           |                      |                 |                   |
+| Nausea                                               |                      |              44 |               1.4 |
+| Stomatitis *                                         |                      |              42 |               4.3 |
+| Constipation                                         |                      |              39 |               0.2 |
+| Vomiting                                             | Very common          |              23 |               2.9 |
+| Diarrhoea                                            |                      |              19 |               2.5 |
+| Abdominal pain *                                     |                      |              12 |               0.5 |
+| Haemorrhoids                                         | Common               |               8 |               0.5 |
+| Skin and subcutaneous tissue disorders               |                      |                 |                   |
+| Rash *                                               |                      |              83 |                14 |
+| Nail toxicity *                                      |                      |              57 |               4.3 |
+| Dry skin *                                           | Very common          |              14 |               0.2 |
+| Pruritus                                             |                      |              12 |                 0 |
+| Skin ulcer                                           | Common               |             3.2 |               0.7 |
+| Musculoskeletal and connective tissue disorders      |                      |                 |                   |
+| Myalgia                                              | Common               |               6 |               0.5 |
+| General disorders and administration site conditions |                      |                 |                   |
+| Fatigue *                                            |                      |              46 |                 6 |
+| Oedema *                                             | Very common          |              41 |               1.4 |
+| Pyrexia                                              |                      |              13 |               0.2 |
+| Injection site reactions *, b, c                     | Common               |             3.5 |                 0 |
+| Investigations                                       |                      |                 |                   |
+| Alanine aminotransferase increased                   |                      |              28 |               4.1 |
+| Aspartate aminotransferase increased                 | Very common          |              24 |               1.4 |
+| Blood alkaline phosphatase increased                 | Common               |               8 |               0.2 |
+| Injury, poisoning and procedural complications       |                      |                 |                   |
+| Infusion-/Administration-related reactions           |                      |                 |                   |
+| Amivantamab intravenous a, d                         | Very common          |              51 |               3.0 |
+
+<div style=\"page-break-after: always\"></div>
+
+| Amivantamab subcutaneous b, e   | Common   | 7   | 0   |
+|---------------------------------|----------|-----|-----|
+
+* Grouped terms.
+- a Frequency based on amivantamab intravenous studies only (CHRYSALIS [N=20], PAPILLON [N=151], MARIPOSA-2 [N=130]).
+- b Frequency based on amivantamab subcutaneous studies only (PALOMA-2 cohorts 2 and 3B [N=143]).
+- c Injection site reactions are local signs and symptoms associated with subcutaneous mode of administration.
+- d Infusion-related reactions are systemic signs and symptoms associated with infusion of amivantamab intravenous.
+- e Administration-related reactions are systemic signs and symptoms associated with administration of amivantamab subcutaneous
 
 ## Description of selected adverse reactions
 
 ## Administration-related reactions
 
-Overall, administration-related reactions occurred in 14% of patients treated with Rybrevant subcutaneous formulation in combination with lazertinib. In PALOMA-3, administration-related reactions were reported in 13% of patients treated with Rybrevant subcutaneous formulation in combination with lazertinib compared to 66% when treated with Rybrevant intravenous formulation in combination with lazertinib. The most frequent signs and symptoms of administration-related reactions include dyspnoea, flushing, fever, chills, nausea, and chest discomfort. Median time to onset of first administration-related reactions was 2.1 hours (range: 0.0 to 176.5 hours). Most administration-related reactions (98%) were Grades 1 or 2 in severity.
+Administration-related reactions were reported in 14% of patients treated with Rybrevant subcutaneous formulation in combination with lazertinib, and 7% of patients treated with Rybrevant subcutaneous formulation in combination with carboplatin and pemetrexed. The most frequent signs and symptoms of administration-related reactions include dyspnoea, flushing, fever, chills, nausea, and chest discomfort. In patients treated with Rybrevant subcutaneous formulation in combination with lazertinib, the median time to onset of first administration-related reactions was 1.9 hours (range: 0.0 to 176.5 hours), with most administration-related reactions (96%) being Grades 1 or 2 in severity. In patients treated with Rybrevant subcutaneous formulation in combination with carboplatin and pemetrexed, the median time to onset of first administration-related reactions was 2.1 hours (range: 0.7 to 3.1 hours), with all administration-related reactions being Grades 1 or 2 in severity. In PALOMA-3, administration-related reactions were reported in 13% of patients treated with Rybrevant subcutaneous formulation in combination with lazertinib compared to 66% when treated with Rybrevant intravenous formulation in combination with lazertinib.
 
 ## Injection site reactions
 
-Overall, injection site reactions occurred in 8% of patients treated with Rybrevant subcutaneous formulation in combination with lazertinib. All injection site reactions were Grade 1 or 2 in severity. The most frequent symptom of injection site reactions was erythema.
+Injection site reactions occurred in 6% of patients treated with Rybrevant subcutaneous formulation in combination with lazertinib and 3.5% of patients treated with Rybrevant subcutaneous formulation in combination with carboplatin and pemetrexed. All injection site reactions were Grade 1 or 2 in severity. The most frequent symptom of injection site reactions was erythema.
 
 ## Interstitial lung disease
 
-Interstitial lung disease (ILD) or ILD-like adverse reactions have been reported with the use of amivantamab as well as with other EGFR inhibitors. ILD was reported in 3.6% of patients treated with Rybrevant (either intravenous or subcutaneous formulation) in combination with lazertinib, including 2 (0.3%) patients with a fatal reaction. Patients with a medical history of ILD, including drug-induced ILD or radiation pneumonitis, were excluded from PALOMA-2 and PALOMA-3.
+Interstitial lung disease (ILD) or ILD-like adverse reactions have been reported with the use of amivantamab as well as with other EGFR inhibitors. ILD was reported in 3.6% of patients treated with Rybrevant (either intravenous or subcutaneous formulation) in combination with lazertinib, including 2 (0.2%) patients with a fatal reaction, and 2.5% of patients treated with Rybrevant (either intravenous or subcutaneous formulation) in combination with carboplatin and pemetrexed. Patients with a medical history of ILD, including drug-induced ILD or radiation pneumonitis, were excluded from PALOMA-2 and PALOMA-3.
 
 ## Venous thromboembolic (VTE) events with concomitant use with lazertinib
 
-VTE events, including deep venous thrombosis (DVT) and pulmonary embolism (PE), were reported in 11% of patients receiving Rybrevant subcutaneous formulation in combination with lazertinib in PALOMA-2 and PALOMA-3. Most cases were Grade 1 or 2, with Grade 3 events occurring in 3 (0.9%) patients. Additionally, 269 (81%) of these 331 patients receiving Rybrevant subcutaneous formulation took prophylactic anticoagulants with a direct oral anticoagulant or low molecular weight heparin within the first four months of study treatment. In PALOMA-3, the incidence of VTE reactions was 9% for patients treated with Rybrevant subcutaneous formulation in combination with lazertinib, compared to 13% when treated with Rybrevant intravenous formulation in combination with lazertinib, with similar rates of prophylactic anticoagulant use in both treatment arms (80% in the subcutaneous arm vs. 81% in the intravenous arm). For patients who did not receive prophylactic anticoagulants, the overall incidence of VTE was 17% for patients treated with Rybrevant subcutaneous formulation in combination with lazertinib with all VTE reactions reported as Grade 1-2 and serious VTE reactions reported in 4.8% of these patients, compared to an overall incidence of 23% for patients treated with Rybrevant intravenous formulation in combination with lazertinib with Grade 3 VTE reactions reported in 10% and serious VTE reactions reported in 8% of these patients.
+VTE events, including deep venous thrombosis (DVT) and pulmonary embolism (PE), were reported in 11% of patients receiving Rybrevant subcutaneous formulation in combination with lazertinib in PALOMA-2 and PALOMA-3. Most cases were Grade 1 or 2, with Grade 3 events occurring in 3 (0.7%) patients. Additionally, 336 (82%) of these 408 patients receiving Rybrevant subcutaneous formulation took prophylactic anticoagulants with a direct oral anticoagulant or low molecular weight heparin within the first four months of study treatment.
 
-## Skin and nail reactions
-
-Rash (including dermatitis acneiform), pruritus, and dry skin have occurred in patients treated with Rybrevant (either intravenous or subcutaneous formulation) in combination with lazertinib. Rash occurred in 87% of patients, leading to discontinuation of Rybrevant in 0.7% of patients. Most cases were Grade 1 or 2, with Grade 3 and Grade 4 reactions occurring in 23% and 0.1% of patients, respectively.
-
-A Phase 2 study in patients treated with Rybrevant in combination with lazertinib was conducted to assess the use of prophylactic therapy with an oral antibiotic, a topical antibiotic on the scalp, a moisturiser on the face and whole body (except scalp), and an antiseptic on hands and feet (see sections 4.2 and 4.4). A reduction in the incidence of ≥ Grade 2 dermatologic adverse events during the first 12 weeks of treatment was demonstrated, compared with the standard dermatologic management used in clinical practice (38.6% vs. 76.5%, p&lt;0.0001). In addition, there was a reduction in ≥ Grade 2 adverse events involving the scalp in the first 12 weeks of treatment (8.6% vs. 29.4%) along with lower incidence of dose reductions (7.1% vs. 19.1%), interruptions (15.7% vs. 33.8%), and treatment discontinuations (1.4% vs. 4.4%) due to dermatological adverse events.
+In PALOMA-3, for the direct comparison between arms, the incidence of VTE events was 9% for patients treated with Rybrevant subcutaneous formulation in combination with lazertinib, versus 14% when treated with Rybrevant intravenous formulation in combination with lazertinib, with similar rates of prophylactic anticoagulant use in both treatment arms (80% in the subcutaneous arm vs. 81% in the intravenous arm). For patients who did not receive prophylactic anticoagulants, the overall incidence of VTE events was 17% for patients treated with Rybrevant subcutaneous formulation in combination with lazertinib with all VTE events reported as Grade 1-2 and serious VTE events reported in 4.8% of these patients, compared to an overall incidence of 26% for patients treated with Rybrevant intravenous formulation in combination with lazertinib with Grade 3 and Grade 4 VTE events reported in 10% and 2.6% of patients, respectively, and serious VTE events reported in 10% of these patients.
 
 <div style=\"page-break-after: always\"></div>
 
+## Skin and nail reactions
+
+Rash (including dermatitis acneiform), pruritus, and dry skin have occurred in patients treated with Rybrevant (either intravenous or subcutaneous formulation). Rash occurred in 87% of patients treated with Rybrevant in combination with lazertinib, leading to discontinuation of Rybrevant in 0.6% of patients; and 83% of patients treated with Rybrevant in combination with carboplatin and pemetrexed, leading to discontinuation of Rybrevant in 0.5% of patients. Among patients treated with Rybrevant in combination with lazertinib, most cases were Grade 1 or 2, with Grade 3 and Grade 4 reactions occurring in 22% and 0.1% of patients, respectively. Among patients treated with Rybrevant in combination with carboplatin and pemetrexed, most cases were Grade 1 or 2, with Grade 3 reactions occurring in 14% of patients.
+
+A Phase 2 study in patients treated with Rybrevant in combination with lazertinib was conducted to assess the use of prophylactic therapy with an oral antibiotic, a topical antibiotic on the scalp, a moisturiser on the face and whole body (except scalp), and an antiseptic on hands and feet (see sections 4.2 and 4.4). A reduction in the incidence of ≥ Grade 2 dermatologic adverse events during the first 12 weeks of treatment was demonstrated, compared with the standard dermatologic management used in clinical practice (38.6% vs. 76.5%, p&lt;0.0001). In addition, there was a reduction in ≥ Grade 2 adverse events involving the scalp in the first 12 weeks of treatment (8.6% vs. 29.4%) along with lower incidence of dose reductions (7.1% vs. 19.1%), interruptions (15.7% vs. 33.8%), and treatment discontinuations (1.4% vs. 4.4%) due to dermatological adverse events.
+
 ## Eye disorders
 
-Eye disorders, including keratitis (1.7%), occurred in patients treated with Rybrevant (either intravenous or subcutaneous formulation). Other reported adverse reactions included growth of eyelashes, visual impairment, and other eye disorders.
+Eye disorders occurred in patients treated with Rybrevant (either intravenous or subcutaneous formulation), including keratitis in 1.9% of patients treated with Rybrevant in combination with lazertinib and 0.2% of patients treated with Rybrevant in combination with carboplatin and pemetrexed. Other reported adverse reactions included growth of eyelashes, visual impairment, and other eye disorders.
 
 ## Special populations
 
@@ -1444,6 +1593,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 There is no information on overdose with Rybrevant subcutaneous formulation and no known specific antidote for overdose. In the event of an overdose, treatment with Rybrevant should be stopped, the patient should be monitored for any signs or symptoms of adverse events and appropriate general supportive measures should be instituted immediately until clinical toxicity has diminished or resolved.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -1457,8 +1608,6 @@ Rybrevant subcutaneous formulation contains recombinant human hyaluronidase (rHu
 Amivantamab is a low-fucose, fully-human IgG1-based EGFR-MET bispecific antibody with immune cell-directing activity that targets tumours with activating EGFR mutations such as Exon 19 deletions, Exon 21 L858R substitution and Exon 20 insertion mutations. Amivantamab binds to the extracellular domains of EGFR and MET.
 
 Amivantamab disrupts EGFR and MET signalling functions through blocking ligand binding and enhancing degradation of EGFR and MET, thereby preventing tumour growth and progression. The presence of EGFR and MET on the surface of tumour cells also allows for targeting of these cells for destruction by immune effector cells, such as natural killer cells and macrophages, through antibody-dependent cellular cytotoxicity (ADCC) and trogocytosis mechanisms, respectively.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pharmacodynamic effects
 
@@ -1478,17 +1627,17 @@ The efficacy of Rybrevant subcutaneous formulation in patients with EGFR-mutated
 
 NSC3003 (MARIPOSA) is a randomised, open-label, active-controlled, multicentre phase 3 study assessing the efficacy and safety of Rybrevant intravenous formulation in combination with lazertinib as compared to osimertinib monotherapy as first-line treatment in patients with EGFR-mutated locally advanced or metastatic NSCLC not amenable to curative therapy. Patient samples were required to have one of the two common EGFR mutations (Exon 19 deletion or Exon 21 L858R substitution mutation), as identified by local testing. Tumour tissue (94%) and/or plasma (6%) samples for all patients were tested locally to determine EGFR Exon 19 deletion and/or Exon 21 L858R substitution mutation status using polymerase chain reaction (PCR) in 65% and next generation sequencing (NGS) in 35% of patients.
 
-A total of 1074 patients were randomised (2:2:1) to receive Rybrevant intravenous formulation in combination with lazertinib, osimertinib monotherapy, or lazertinib monotherapy until disease progression or unacceptable toxicity. Rybrevant intravenous formulation was administered intravenously at 1050 mg (for patients &lt; 80 kg) or 1400 mg (for patients ≥ 80 kg) once weekly for 4 weeks, then every 2 weeks thereafter starting at week 5. Lazertinib was administered at 240 mg orally once daily. Osimertinib was administered at a dose of 80 mg orally once daily. Randomisation was stratified by EGFR mutation type (Exon 19 deletion or Exon 21 L858R), race (Asian or non-Asian), and history of brain metastasis (yes or no).
+<div style=\"page-break-after: always\"></div>
+
+A total of 1 074 patients were randomised (2:2:1) to receive Rybrevant intravenous formulation in combination with lazertinib, osimertinib monotherapy, or lazertinib monotherapy until disease progression or unacceptable toxicity. Rybrevant intravenous formulation was administered intravenously at 1 050 mg (for patients &lt; 80 kg) or 1 400 mg (for patients ≥ 80 kg) once weekly for 4 weeks, then every 2 weeks thereafter starting at week 5. Lazertinib was administered at 240 mg orally once daily. Osimertinib was administered at a dose of 80 mg orally once daily. Randomisation was stratified by EGFR mutation type (Exon 19 deletion or Exon 21 L858R), race (Asian or non-Asian), and history of brain metastasis (yes or no).
 
 Baseline demographics and disease characteristics were balanced across the treatment arms. The median age was 63 (range: 25-88) years with 45% of patients ≥ 65 years; 62% were female; and 59% were Asian, and 38% were White. Baseline Eastern Cooperative Oncology Group (ECOG) performance status was 0 (34%) or 1 (66%); 69% never smoked; 41% had prior brain metastases; and 90% had Stage IV cancer at initial diagnosis. With regard to EGFR mutation status, 60% were Exon 19 deletions and 40% were Exon 21 L858R substitution mutations.
 
 Rybrevant intravenous formulation in combination with lazertinib demonstrated a statistically significant improvement in progression-free survival (PFS) by BICR assessment.
 
-The final analysis of OS demonstrated a statistically significant improvement in OS for Rybrevant intravenous formulation in combination with lazertinib compared to osimertinib (see Table 6 and Figure 2).
+The final analysis of OS demonstrated a statistically significant improvement in OS for Rybrevant intravenous formulation in combination with lazertinib compared to osimertinib (see Table 9 and Figure 2).
 
-<div style=\"page-break-after: always\"></div>
-
-Table 6: Efficacy results in MARIPOSA
+Table 9: Efficacy results in MARIPOSA
 
 |                                   | Rybrevant intravenous formulation + lazertinib (N=429)   | Osimertinib (N=429)         |
 |-----------------------------------|----------------------------------------------------------|-----------------------------|
@@ -1501,54 +1650,171 @@ Table 6: Efficacy results in MARIPOSA
 | Median, months (95% CI)           | NE (42.9, NE)                                            | 36.7 (33.4, 41.0)           |
 | Hazard Ratio (95% CI); p-value    | 0.75 (0.61, 0.92); p=0.0048                              | 0.75 (0.61, 0.92); p=0.0048 |
 | Objective response rate (ORR) a,b |                                                          |                             |
-| ORR %(95% CI)                     | 80% (76%, 84%)                                           | 77% (72%, 81%)              |
+| ORR % (95% CI)                    | 80% (76%, 84%)                                           | 77% (72%, 81%)              |
 | Duration of response (DOR) a,b    |                                                          |                             |
 | Median (95% CI), months           | 25.8 (20.3, 33.9)                                        | 18.1 (14.8, 20.1)           |
 
-BICR = blinded independent central review; CI = confidence interval; NE = not estimable PFS results are from data cut-off 11 August 2023 with a median follow-up of 22.0 months. DOR and ORR results are from data cut-off 13 May 2024 with a median follow-up of 31.3 months. OS results are from data cut-off 04 December 2024 with a median follow-up of 37.8 months.
+BICR = blinded independent central review; CI = confidence interval; NE = not estimable
 
-- a BICR by RECIST v1.1.
+PFS results are from data cut-off 11 August 2023 with a median follow-up of 22.0 months. DOR and ORR results are from data cut-off 13 May 2024 with a median follow-up of 31.3 months. OS results are from data cut-off 04 December 2024 with a median follow-up of 37.8 months.
+
+a BICR by RECIST v1.1.
 
 b Based on confirmed responders.
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 1: Kaplan-Meier curve of PFS in previously untreated NSCLC patients by BICR assessment
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
 Figure 2: Kaplan-Meier curve of OS in previously untreated NSCLC patients
 
 <!-- image -->
 
-Intracranial ORR and DOR by BICR were pre-specified endpoints in MARIPOSA. In the subset of patients with intracranial lesions at baseline, the combination of Rybrevant intravenous formulation and lazertinib, demonstrated similar intracranial ORR to the control. Per protocol, all patients in MARIPOSA had serial brain MRIs to assess intracranial response and duration. Results are summarised in Table 7.
+Intracranial ORR and DOR by BICR were pre-specified endpoints in MARIPOSA. In the subset of patients with intracranial lesions at baseline, the combination of Rybrevant intravenous formulation and lazertinib, demonstrated similar intracranial ORR to the control. Per protocol, all patients in MARIPOSA had serial brain MRIs to assess intracranial response and duration. Results are summarised in Table 10.
 
-Table 7: Intracranial ORR and DOR by BICR assessment in subjects with intracranial lesions at baseline - MARIPOSA
+<div style=\"page-break-after: always\"></div>
+
+Table 10: Intracranial ORR and DOR by BICR assessment in subjects with intracranial lesions at baseline - MARIPOSA
 
 |                                         | Rybrevant intravenous formulation + lazertinib (N=180)   | Osimertinib (N=186)                     |
 |-----------------------------------------|----------------------------------------------------------|-----------------------------------------|
 | Intracranial tumour response assessment | Intracranial tumour response assessment                  | Intracranial tumour response assessment |
-| Intracranial ORR (CR+PR),% (95% CI)     | 78% (71%, 84%)                                           | 77% (71%, 83%)                          |
+| Intracranial ORR (CR+PR), % (95% CI)    | 78% (71%, 84%)                                           | 77% (71%, 83%)                          |
 | Complete response                       | 64%                                                      | 59%                                     |
 | Intracranial DOR                        | Intracranial DOR                                         | Intracranial DOR                        |
 | Number of responders                    | 140                                                      | 144                                     |
 | Median, months (95% CI)                 | 35.0 (20.4, NE)                                          | 25.1 (22.1, 31.2)                       |
 
+CI = confidence interval
+
+NE = not estimable
+
 Intracranial ORR and DOR results are from data cut-off 04 Dec 2024 with a median follow-up of 37.8 months.
 
-## Previously-treated non-small cell lung cancer (NSCLC) with Exon 20 insertion mutations (CHRYSALIS)
+## Previously treated NSCLC with EGFR Exon 19 deletions or Exon 21 L858R substitution mutations (MARIPOSA-2)
 
-CHRYSALIS is a multicentre, open-label, multi-cohort study conducted to assess the safety and efficacy of Rybrevant intravenous formulation in patients with locally advanced or metastatic NSCLC. Efficacy was evaluated in 114 patients with locally advanced or metastatic NSCLC who had EGFR Exon 20 insertion mutations, whose disease had progressed on or after platinum-based chemotherapy, and who had a median follow-up of 12.5 months. Tumour tissue (93%) and/or plasma (10%) samples for all patients were tested locally to determine EGFR Exon 20 insertion mutation status using next
+MARIPOSA-2 is a randomised (2:2:1) open-label, multicentre Phase 3 study in patients with locally advanced or metastatic NSCLC with EGFR Exon 19 deletions or Exon 21 L858R substitution mutations (mutation testing could have been performed at or after the time of locally advanced or metastatic disease diagnosis. Testing did not need to be repeated at the time of study entry once EGFR mutation status was previously established) after failure of prior therapy including a third-generation EGFR tyrosine kinase inhibitor (TKI). A total of 657 patients were randomised in the study, of which 263 received carboplatin and pemetrexed (CP); and 131 which received Rybrevant intravenous formulation in combination with carboplatin and pemetrexed (Rybrevant intravenous formulation-CP) . Additionally, 263 patients were randomised to receive Rybrevant intravenous formulation in combination with lazertinib, carboplatin, and pemetrexed in a separate arm of the study. Rybrevant intravenous formulation was administered intravenously at 1 400 mg (for patients &lt; 80 kg) or 1 750 mg (for patients ≥ 80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1 750 mg (for patients &lt; 80 kg) or 2 100 mg (for patients ≥ 80 kg) starting at Week 7 until disease progression or unacceptable toxicity. Carboplatin was administered intravenously at area under the concentration-time curve 5 mg/mL per minute (AUC 5) once every 3 weeks, for up to 12 weeks. Pemetrexed was administered intravenously at 500 mg/m 2 on once every 3 weeks until disease progression or unacceptable toxicity.
+
+Patients were stratified by osimertinib line of therapy (first-line or second-line), prior brain metastases (yes or no), and Asian race (yes or no).
+
+Of the 394 patients randomised to the Rybrevant intravenous formulation-CP arm or CP arm, the median age was 62 (range: 31-85) years, with 38% of the patients ≥ 65 years of age; 60% were female; and 48% were Asian and 46% were White. Baseline Eastern Cooperative Oncology Group (ECOG) performance status was 0 (40%) or 1 (60%); 66% never smoked; 45% had history of brain metastasis, and 92% had Stage IV cancer at initial diagnosis.
+
+Rybrevant intravenous formulation in combination with carboplatin and pemetrexed demonstrated a statistically significant improvement in progression-free survival (PFS) compared to carboplatin and pemetrexed, with a HR of 0.48 (95% CI: 0.36, 0.64; p&lt;0.0001). At the time of the second interim analysis for OS, with a median follow-up of approximately 18.6 months for Rybrevant intravenous formulation-CP and approximately 17.8 months for CP, the OS HR was 0.73 (95% CI: 0.54, 0.99; p=0.0386). This was not statistically significant (tested at a prespecified significance level of 0.0142).
 
 <div style=\"page-break-after: always\"></div>
 
-generation sequencing (NGS) in 46% of patients and/or polymerase chain reaction (PCR) in 41% of patients; for 4% of patients, the testing methods were not specified. Patients with untreated brain metastases or a history of ILD requiring treatment with prolonged steroids or other immunosuppressive agents within the last 2 years were not eligible for the study. Rybrevant intravenous formulation was administered intravenously at 1050 mg for patients &lt; 80 kg or 1400 mg for patients ≥ 80 kg once weekly for 4 weeks, then every 2 weeks starting at Week 5 until loss of clinical benefit or unacceptable toxicity. The primary efficacy endpoint was investigator-assessed overall response rate (ORR), defined as confirmed complete response (CR) or partial response (PR) based on RECIST v1.1. In addition, the primary endpoint was assessed by a blinded independent central review (BICR). Secondary efficacy endpoints included duration of response (DOR).
+Efficacy results are summarised in Table 11.
+
+Table 11: Efficacy results in MARIPOSA-2
+
+|                                   | Rybrevant intravenous formulation+ carboplatin+ pemetrexed (N=131)   | carboplatin+ pemetrexed (N=263)   |
+|-----------------------------------|----------------------------------------------------------------------|-----------------------------------|
+| Progression-free survival (PFS) a |                                                                      |                                   |
+| Number of events (%)              | 74 (57)                                                              | 171 (65)                          |
+| Median, months (95% CI)           | 6.3 (5.6, 8.4)                                                       | 4.2 (4.0, 4.4)                    |
+| HR (95% CI); p-value              | 0.48 (0.36, 0.64); p<0.0001                                          | 0.48 (0.36, 0.64); p<0.0001       |
+| Overall survival (OS)             |                                                                      |                                   |
+| Number of events (%)              | 65 (50)                                                              | 143 (54)                          |
+| Median, months (95% CI)           | 17.7 (16.0, 22.4)                                                    | 15.3 (13.7, 16.8)                 |
+| HR (95% CI); p-value b            | 0.73 (0.54, 0.99); p=0.0386                                          | 0.73 (0.54, 0.99); p=0.0386       |
+| Objective response rate a         |                                                                      |                                   |
+| ORR, % (95% CI)                   | 64% (55%, 72%)                                                       | 36% (30%, 42%)                    |
+| Odds Ratio (95% CI); p-value      | 3.10 (2.00, 4.80); p<0.0001                                          | 3.10 (2.00, 4.80); p<0.0001       |
+| Duration of response (DOR) a      |                                                                      |                                   |
+| Median (95% CI), months           | 6.90 (5.52, NE)                                                      | 5.55 (4.17, 9.56)                 |
+| Patients with DOR ≥ 6 months      | 31.9%                                                                | 20.0%                             |
+
+NE = not estimable
+
+PFS, DOR and ORR results are from data cut-off 10 July-2023 when hypothesis testing and final analysis for these endpoints was performed. OS results are from data cut-off 26 April 2024 from the second interim OS analysis.
+
+a BICR-assessed
+
+b The p-value is compared to a 2-sided significance level of 0.0142. Thus the OS results are not significant as of the second interim analysis.
+
+Figure 3: Kaplan-Meier curve of PFS in previously treated NSCLC patients by BICR assessment
+
+<!-- image -->
+
+The PFS benefit of Rybrevant intravenous formulation-CP compared to CP was consistent across all the predefined subgroups analysed, including ethnicity, age, gender, smoking history, and CNS metastases status at study entry.
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 4: Kaplan-Meier curve of OS in previously treated NSCLC patients
+
+<!-- image -->
+
+## Intracranial metastases efficacy data
+
+Patients with asymptomatic or previously treated and stable intracranial metastases were eligible to be randomised in MARIPOSA-2. Treatment with Rybrevant intravenous formulation-CP was associated with a numeric increase in intracranial ORR (23.3% for Rybrevant intravenous formulation-CP versus 16.7% for CP, odds ratio of 1.52; 95% CI (0.51, 4.50), and intracranial DOR (13.3 months; 95% CI (1.4, NE) in the Rybrevant intravenous formulation-CP arm compared with 2.2 months; 95% CI (1.4, NE) in the CP arm). The median follow-up for Rybrevant intravenous formulation-CP was approximately 18.6 months.
+
+## Previously-untreated non-small cell lung cancer (NSCLC) with Exon 20 insertion mutations (PAPILLON)
+
+PAPILLON is a randomised, open-label, multicentre Phase 3 study comparing treatment with Rybrevant intravenous formulation in combination with carboplatin and pemetrexed to chemotherapy alone (carboplatin and pemetrexed) in patients with treatment-naïve, locally advanced or metastatic NSCLC with activating EGFR Exon 20 insertion mutations. Tumour tissue (92.2%) and/or plasma (7.8%) samples for all 308 patients were tested locally to determine EGFR Exon 20 insertion mutation status using next generation sequencing (NGS) in 55.5% of patients and/or polymerase chain reaction (PCR) in 44.5% of patients. Central testing was also performed using the AmoyDx ® LC10 tissue test, Thermo Fisher Oncomine Dx Target Test, and the Guardant 360 ® CDx plasma test.
+
+Patients with brain metastases at screening were eligible for participation once they were definitively treated, clinically stable, asymptomatic, and off corticosteroid treatment for at least 2 weeks prior to randomisation.
+
+Rybrevant intravenous formulation was administered intravenously at 1 400 mg (for patients &lt; 80 kg) or 1 750 mg (for patients ≥ 80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1 750 mg (for patients &lt; 80 kg) or 2 100 mg (for patients ≥ 80 kg) starting at Week 7 until disease progression or unacceptable toxicity. Carboplatin was administered intravenously at area under the concentration-time curve 5 mg/mL per minute (AUC 5) once every 3 weeks, for up to 12 weeks. Pemetrexed was administered intravenously at 500 mg/m 2 once every 3 weeks until disease progression or unacceptable toxicity. Randomisation was stratified by ECOG performance status (0 or 1), and prior brain metastases (yes or no). Patients randomised to the carboplatin and pemetrexed arm who had confirmed disease progression were permitted to cross over to receive Rybrevant intravenous formulation monotherapy.
+
+<div style=\"page-break-after: always\"></div>
+
+A total of 308 subjects were randomised (1:1) to Rybrevant intravenous formulation in combination with carboplatin and pemetrexed (N=153) or carboplatin and pemetrexed (N=155). The median age was 62 (range: 27 to 92) years, with 39% of the subjects ≥ 65 years of age; 58% were female; and 61% were Asian and 36% were White. Baseline Eastern Cooperative Oncology Group (ECOG) performance status was 0 (35%) or 1 (64%); 58% never smoked; 23% had history of brain metastasis and 84% had Stage IV cancer at initial diagnosis.
+
+The primary endpoint for PAPILLON was PFS, as assessed by BICR. The median follow-up was 14.9 months (range: 0.3 to 27.0).
+
+Efficacy results are summarised in Table 12.
+
+Table 12: Efficacy results in PAPILLON
+
+|                                   | Rybrevant intravenous formulation + carboplatin+ pemetrexed (N=153)   | carboplatin+ pemetrexed (N=155)   |
+|-----------------------------------|-----------------------------------------------------------------------|-----------------------------------|
+| Progression-free survival (PFS) a |                                                                       |                                   |
+| Number of events                  | 84 (55%)                                                              | 132 (85%)                         |
+| Median, months (95% CI)           | 11.4 (9.8, 13.7)                                                      | 6.7 (5.6, 7.3)                    |
+| HR (95% CI); p-value              | 0.395 (0.29, 0.52); p<0.0001                                          | 0.395 (0.29, 0.52); p<0.0001      |
+| Objective response rate a, b      |                                                                       |                                   |
+| ORR, % (95% CI)                   | 73% (65%, 80%)                                                        | 47% (39%, 56%)                    |
+| Odds ratio (95% CI); p-value      | 3.0 (1.8, 4.8); p<0.0001                                              | 3.0 (1.8, 4.8); p<0.0001          |
+| Complete response                 | 3.9%                                                                  | 0.7%                              |
+| Partial response                  | 69%                                                                   | 47%                               |
+| Overall survival (OS) c           |                                                                       |                                   |
+| Number of events                  | 40                                                                    | 52                                |
+| Median OS, months (95% CI)        | NE (28.3, NE)                                                         | 28.6 (24.4, NE)                   |
+| HR (95% CI); p-value              | 0.756 (0.50, 1.14); p=0.1825                                          | 0.756 (0.50, 1.14); p=0.1825      |
+
+CI = confidence interval The PFS benefit of Rybrevant intravenous formulation in combination with carboplatin and pemetrexed compared to carboplatin and pemetrexed was consistent across all the predefined subgroups of brain metastases at study entry (yes or no), age (&lt; 65 or ≥ 65), sex (male or female), race (Asian or non-Asian), weight (&lt; 80 kg or ≥ 80 kg), ECOG performance status (0 or 1), and smoking history (yes or no).
+
+NE = not estimable
+
+a Blinded Independent Central Review by RECIST v1.1
+
+b Based on Kaplan-Meier estimate.
+
+c Based on the results of an updated OS with median follow-up of 20.9 months. The OS analysis was not adjusted for the potentially confounding effects of crossover (78 [50.3%] patients on the carboplatin + pemetrexed arm who received subsequent Rybrevant intravenous formulation monotherapy treatment).
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 5: Kaplan-Meier curve of PFS in previously untreated NSCLC patients by BICR assessment
+
+<!-- image -->
+
+Figure 6: Kaplan-Meier curve of OS in previously untreated NSCLC patients
+
+<!-- image -->
+
+Previously-treated non-small cell lung cancer (NSCLC) with Exon 20 insertion mutations (CHRYSALIS)
+
+CHRYSALIS is a multicentre, open-label, multi-cohort study conducted to assess the safety and efficacy of Rybrevant intravenous formulation in patients with locally advanced or metastatic NSCLC. Efficacy was evaluated in 114 patients with locally advanced or metastatic NSCLC who had EGFR Exon 20 insertion mutations, whose disease had progressed on or after platinum-based chemotherapy, and who had a median follow-up of 12.5 months. Tumour tissue (93%) and/or plasma (10%) samples for all patients were tested locally to determine EGFR Exon 20 insertion mutation status using next generation sequencing (NGS) in 46% of patients and/or polymerase chain reaction (PCR) in 41% of patients; for 4% of patients, the testing methods were not specified. Patients with untreated brain metastases or a history of ILD requiring treatment with prolonged steroids or other immunosuppressive agents within the last 2 years were not eligible for the study. Rybrevant intravenous formulation was administered intravenously at 1 050 mg for patients &lt; 80 kg or 1 400 mg for patients ≥ 80 kg once weekly for 4 weeks, then every 2 weeks starting at Week 5 until loss of clinical benefit or unacceptable toxicity. The primary efficacy endpoint was investigator-assessed overall response rate (ORR), defined as confirmed complete response (CR) or partial response (PR) based on RECIST v1.1. In addition, the primary endpoint was assessed by a blinded independent central review (BICR). Secondary efficacy endpoints included duration of response (DOR).
+
+<div style=\"page-break-after: always\"></div>
 
 The median age was 62 (range: 36-84) years, with 41% of the patients ≥ 65 years of age; 61% were female; and 52% were Asian and 37% were White. The median number of prior therapies was 2 (range: 1 to 7 therapies). At baseline, 29% had ECOG performance status of 0 and 70% had ECOG performance status of 1; 57% never smoked; 100% had Stage IV cancer; and 25% had previous treatment for brain metastases. Insertions in Exon 20 were observed at 8 different residues; the most common residues were A767 (22%), S768 (16%), D770 (12%), and N771 (11%).
 
-Efficacy results are summarised in Table 8.
+Efficacy results are summarised in Table 13.
 
-Table 8: Efficacy results in CHRYSALIS
+Table 13: Efficacy results in CHRYSALIS
 
 |                                     | Investigator assessment (N=114)   |
 |-------------------------------------|-----------------------------------|
@@ -1571,7 +1837,7 @@ Anti-tumour activity was observed across studied mutation subtypes.
 
 ## Immunogenicity
 
-Anti-drug antibodies (ADA) were uncommonly detected after treatment with Rybrevant subcutaneous formulation. No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed. Among the 389 participants who received Rybrevant subcutaneous formulation as monotherapy or as part of combination therapy, 37 participants (10%) were positive for treatment-emergent antibodies to rHuPH20. The immunogenicity to rHuPH20 observed in these participants did not impact the pharmacokinetics of amivantamab.
+Anti-drug antibodies (ADA) were uncommonly detected after treatment with Rybrevant subcutaneous formulation. No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed. Among the 741 participants who received Rybrevant subcutaneous formulation as monotherapy or as part of combination therapy, 66 participants (9%) were positive for treatment-emergent antibodies to rHuPH20. The immunogenicity to rHuPH20 observed in these participants did not impact the pharmacokinetics of amivantamab.
 
 ## Elderly
 
@@ -1589,17 +1855,21 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 Following subcutaneous administration, the geometric mean (%CV) of amivantamab bioavailability is 66.6% (14.9%) with a median time to reach maximum concentration of 3 days, based on the individual amivantamab PK parameter estimates for participants receiving subcutaneous administration in the population PK analysis.
 
-For the every 2-week subcutaneous dosing regimen, the geometric mean (%CV) maximum trough concentration of amivantamab after the 4 th weekly dose was 335 µg/mL (32.7%). The mean AUC1week increased 3.5-fold from the first dose to Cycle 2 Day 1. Maximum trough concentration of amivantamab after subcutaneous administration as monotherapy and in combination with lazertinib is typically observed at the end of the weekly dosing (Cycle 2 Day 1). Amivantamab steady-state concentration is reached by approximately Week 13. The geometric mean (%CV) steady-state trough concentration of amivantamab at Cycle 4 Day 1 was 206 µg/mL (39.1%).
+For the every 2-week subcutaneous dosing regimen, the geometric mean (%CV) maximum trough concentration of amivantamab after the 4 th weekly dose was 335 µg/mL (32.7%). The mean AUC1 week increased 3.5-fold from the first dose to Cycle 2 Day 1. Maximum trough concentration of amivantamab after subcutaneous administration as monotherapy and in combination with lazertinib is typically observed at the end of the weekly dosing (Cycle 2 Day 1). Amivantamab steady-state concentration is reached by approximately Week 13. The geometric mean (%CV) steady-state trough concentration of amivantamab at Cycle 4 Day 1 was 206 µg/mL (39.1%).
 
-Table 9 lists the observed geometric mean (%CV) maximum trough concentrations (Cycle 2 Day 1 Ctrough ) and Cycle 2 area under the concentration time curve (AUCDay 1-15 ) following the recommended doses of amivantamab administered subcutaneously and intravenously in patients with NSCLC. These PK endpoints were the basis for the demonstration of non-inferiority that supports the intravenous to subcutaneous bridging.
+Table 14 lists the observed geometric mean (%CV) maximum trough concentrations (Cycle 2 Day 1 Ctrough ) and Cycle 2 area under the concentration time curve (AUCDay 1-15 ) following the recommended doses of amivantamab administered subcutaneously and intravenously in patients with NSCLC. These PK endpoints were the basis for the demonstration of non-inferiority that supports the intravenous to subcutaneous bridging.
 
-Table 9: Summary of serum pharmacokinetics parameters of amivantamab in patients with NSCLC (PALOMA-3 Study)
+Table 14: Summary of serum pharmacokinetics parameters of amivantamab in patients with NSCLC (PALOMA-3 Study)
 
-| Parameter                      | Rybrevant subcutaneous formulation 1600 mg (2240 mg for body weight ≥ 80 kg)   | Rybrevant intravenous formulation 1050 mg (1400 mg for body weight ≥ 80 kg)   |
-|--------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-|                                | Geometric mean (%CV)                                                           | Geometric mean (%CV)                                                          |
-| Cycle 2 Day 1 C trough (µg/mL) | 335 (32.7%)                                                                    | 293 (31.7%)                                                                   |
-| Cycle 2 AUC (Day1-15) (µg/mL)  | 135861 (30.7%)                                                                 | 131704 (24.0%)                                                                |
+| Parameter                      | Rybrevant subcutaneous formulation 1 600 mg (2 240 mg for body weight ≥ 80 kg)   | Rybrevant intravenous formulation 1 050 mg (1 400 mg for body weight ≥ 80 kg)   |
+|--------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+|                                | Geometric mean (%CV)                                                             | Geometric mean (%CV)                                                            |
+| Cycle 2 Day 1 C trough (µg/mL) | 335 (32.7%)                                                                      | 293 (31.7%)                                                                     |
+| Cycle 2 AUC (Day1-15) (µg/mL)  | 135 861 (30.7%)                                                                  | 131 704 (24.0%)                                                                 |
+
+For the every 3-week subcutaneous dosing regimen, the geometric mean (%CV) maximum trough concentration of amivantamab after the 3 rd weekly dose was 438 µg/mL (26.6%). The geometric mean (%CV) steady-state trough concentration of amivantamab was 208 µg/mL (35.6%).
+
+For the every 4-week subcutaneous dosing regimen, the geometric mean (%CV) maximum trough concentration of amivantamab after the 4 th weekly dose was 350 µg/mL (30.5%). The geometric mean (%CV) steady state trough concentration of amivantamab was 131 µg/mL (55.9%).
 
 ## Distribution
 
@@ -1607,7 +1877,9 @@ Based on the individual amivantamab PK parameter estimates for participants rece
 
 ## Elimination
 
-Based on the individual amivantamab PK parameter estimates for participants receiving subcutaneous administration in the population PK analysis, the estimated geometric mean (% CV) linear CL and associated-terminal half-life is 0.224 L/day (26.0%) and 18.8 days (34.3%), respectively.
+Based on the individual amivantamab PK parameter estimates for participants receiving subcutaneous administration in the population PK analysis, the estimated geometric mean (%CV) linear CL and associated-terminal half-life is 0.224 L/day (26.0%) and 18.8 days (34.3%), respectively.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Special populations
 
@@ -1617,11 +1889,7 @@ No clinically meaningful differences in the pharmacokinetics of amivantamab were
 
 ## Renal impairment
 
-No clinically meaningful effect on the pharmacokinetics of amivantamab was observed in patients with mild (60 ≤ creatinine clearance [CrCl] &lt; 90 mL/min), moderate (29 ≤ CrCl &lt; 60 mL/min) or severe (15 ≤ CrCl &lt; 29 mL/min) renal impairment. Data in patients with severe renal impairment are
-
-<div style=\"page-break-after: always\"></div>
-
-limited (n=1), but there is no evidence to suggest that dose adjustment is required in these patients. The effect of end-stage renal disease (CrCl &lt; 15 mL/min) on amivantamab pharmacokinetics is unknown.
+No clinically meaningful effect on the pharmacokinetics of amivantamab was observed in patients with mild (60 ≤ creatinine clearance [CrCl] &lt; 90 mL/min), moderate (29 ≤ CrCl &lt; 60 mL/min) or severe (15 ≤ CrCl &lt; 29 mL/min) renal impairment. Data in patients with severe renal impairment are limited (n=1), but there is no evidence to suggest that dose adjustment is required in these patients. The effect of end-stage renal disease (CrCl &lt; 15 mL/min) on amivantamab pharmacokinetics is unknown.
 
 ## Hepatic impairment
 
@@ -1649,9 +1917,11 @@ No animal studies have been conducted to evaluate the effects on reproduction an
 
 ## 6.1 List of excipients
 
-Recombinant human hyaluronidase (rHuPH20) EDTA disodium salt dihydrate Glacial acetic acid L-methionine Polysorbate 80 (E433) Sodium acetate trihydrate Sucrose Water for injections
+Recombinant human hyaluronidase (rHuPH20)
 
 <div style=\"page-break-after: always\"></div>
+
+EDTA disodium salt dihydrate Glacial acetic acid L-methionine Polysorbate 80 (E433) Sodium acetate trihydrate Sucrose Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -1679,9 +1949,13 @@ For storage conditions after preparing the syringe, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
-10 mL solution in a Type 1 glass vial with an elastomeric closure and aluminium seal with a flip-off cap containing 1600 mg amivantamab. Pack size of 1 vial.
+10 mL solution in a Type 1 glass vial with an elastomeric closure and an aluminium seal with a flip-off cap containing 1 600 mg amivantamab. Pack size of 1 vial.
 
-14 mL solution in a Type 1 glass vial with an elastomeric closure and an aluminium seal with a flipoff cap containing 2240 mg amivantamab. Pack size of 1 vial.
+14 mL solution in a Type 1 glass vial with an elastomeric closure and an aluminium seal with a flip-off cap containing 2 240 mg amivantamab. Pack size of 1 vial.
+
+15 mL solution in a Type 1 glass vial with an elastomeric closure and an aluminium seal with a flip-off cap containing 2 400 mg amivantamab. Pack size of 1 vial.
+
+22 mL solution in a Type 1 glass vial with an elastomeric closure and an aluminium seal with a flip-off cap containing 3 520 mg amivantamab. Pack size of 1 vial.
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -1689,18 +1963,21 @@ Rybrevant subcutaneous formulation is for single use only and is ready to use.
 
 The solution for injection should be prepared using aseptic technique as follows:
 
-Preparation
+## Preparation
 
--  Determine the dose required and the appropriate Rybrevant subcutaneous formulation vial needed based on the patient's baseline weight (see section 4.2).
--  Patients &lt; 80 kg receive 1600 mg and for patients ≥ 80 kg, 2240 mg weekly from Weeks 1 to 4 and then every 2 weeks starting at Week 5 onwards.
--  Remove the appropriate Rybrevant subcutaneous formulation vial from refrigerated storage (2°C to 8°C).
--  Check that the Rybrevant solution is colourless to pale yellow. Do not use if opaque particles, discolouration or other foreign particles are present.
--  Equilibrate Rybrevant subcutaneous formulation to room temperature (15°C to 30°C) for at least 15 minutes. Do not warm Rybrevant subcutaneous formulation in any other way. Do not shake.
--  Withdraw the required injection volume of Rybrevant subcutaneous formulation from the vial into an appropriately sized syringe using a transfer needle. Smaller syringes require less force during preparation and administration.
--  Rybrevant subcutaneous formulation is compatible with stainless steel injection needles, polypropolene and polycarbonate syringes, and polyethylene, polyurethane, and polyvinylchloride subcutaneous infusion sets. A sodium chloride 9 mg/mL (0.9%) solution may also be used to flush an infusion set if needed.
+-  Determine the dose required and the appropriate Rybrevant subcutaneous formulation vial(s) needed based on the patient's baseline weight (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
 
+-  For every 4-week dosing, patients &lt; 80 kg receive 1 600 mg weekly from Weeks 1 to 4, then 3 520 mg every 4 weeks starting at Week 5 onwards. Patients ≥ 80 kg receive 2 240 mg weekly from Weeks 1 to 4, then 4 640 mg every 4 weeks starting at Week 5 onwards.
+-  For every 2-week dosing, patients &lt; 80 kg receive 1 600 mg and patients ≥ 80 kg receive 2 240 mg weekly from Weeks 1 to 4, and then every 2 weeks starting at Week 5 onwards.
+-  For every 3-week dosing, patients &lt; 80 kg receive 1 600 mg on Week 1 Day 1, then 2 400 mg weekly from Weeks 2 to 4, and then every 3 weeks starting at Week 7 onwards. Patients ≥ 80 kg receive 2 240 mg on Week 1 Day 1, then 3 360 mg weekly from Weeks 2 to 4, and then every 3 weeks starting at Week 7 onwards.
+-  Remove the appropriate Rybrevant subcutaneous formulation vial(s) from refrigerated storage (2°C to 8°C).
+-  Check that the Rybrevant solution is colourless to pale yellow. Do not use if opaque particles, discolouration or other foreign particles are present.
+-  Equilibrate Rybrevant subcutaneous formulation to room temperature (15°C to 30°C) for at least 15 minutes. Do not warm Rybrevant subcutaneous formulation in any other way. Do not shake.
+-  Withdraw the required injection volume of Rybrevant subcutaneous formulation from the vial into an appropriately sized syringe using a transfer needle. Smaller syringes require less force during preparation and administration.
+-  Each injection volume should not exceed 15 mL. Divide doses requiring greater than 15 mL into approximately equal volumes in multiple syringes.
+-  Rybrevant subcutaneous formulation is compatible with stainless steel injection needles, polypropolene and polycarbonate syringes, and polyethylene, polyurethane, and polyvinylchloride subcutaneous infusion sets. A sodium chloride 9 mg/mL (0.9%) solution may also be used to flush an infusion set if needed.
 -  Replace the transfer needle with the approriate ancillaries for transport or administration. Use of a 21G to 23G needle or infusion set is recommended to ensure ease of administration.
 
 ## Storage of prepared syringe
@@ -1717,7 +1994,9 @@ Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1594/002 EU/1/21/1594/003
+EU/1/21/1594/002 EU/1/21/1594/003 EU/1/21/1594/004 EU/1/21/1594/005
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1728,6 +2007,8 @@ Date of latest renewal: 11 September 2023
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+56
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1745,6 +2026,8 @@ Detailed information on this medicinal product is available on the website of th
 Name and address of the manufacturer of the biological active substance
 
 Janssen Sciences Ireland UC Barnahely Ringaskiddy, Co. Cork Ireland
+
+Samsung Biologics Co, Ltd. 300, Songdo bio-daero Yeonsu-gu Incheon, Republic of Korea
 
 Name and address of the manufacturer responsible for batch release
 
@@ -1773,6 +2056,9 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 An updated RMP should be submitted:
 
 -  At the request of the European Medicines Agency;
+
+<div style=\"page-break-after: always\"></div>
+
 -  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
@@ -1837,11 +2123,11 @@ Store in the original package in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
@@ -1858,8 +2144,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1871,24 +2157,26 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLEDATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
+|-------|------------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON SMALL IMMEDIATE PACKAGING UNITS   |
-|-------------------------------------------------------------------|
-| VIAL                                                              |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Rybrevant 350 mg sterile concentrate amivantamab IV
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1900,8 +2188,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 7 mL
 
@@ -2032,9 +2320,6 @@ Lot
 
 ## 6. OTHER
 
-| 6.   | OTHER   |
-|------|---------|
-
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -2043,7 +2328,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Rybrevant 2 240 mg solution for injection amivantamab
+Rybrevant 2 240 mg solution for injection
+
+amivantamab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2156,6 +2443,259 @@ Lot
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 2 240 mg/14 mL
+
+## 6. OTHER
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Rybrevant 2 400 mg solution for injection
+
+amivantamab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+One vial of 15 mL contains 2 400 mg of amivantamab (160 mg/mL).
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: recombinant human hyaluronidase (rHuPH20), EDTA disodium salt dihydrate, glacial acetic acid, L-methionine, polysorbate 80, sodium acetate trihydrate, sucrose, and water for injections. See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Solution for injection
+
+2 400 mg/15 mL
+
+1 vial
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+For subcutaneous use only.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Do not shake.
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+<div style=\"page-break-after: always\"></div>
+
+Do not freeze.
+
+Store in the original package in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Janssen-Cilag International NV
+
+Turnhoutseweg 30
+
+B-2340 Beerse
+
+Belgium
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/21/1594/004
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Justification for not including Braille accepted.
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+
+Rybrevant 2 400 mg solution for injection
+
+Subcutaneous use
+
+amivantamab SC
+
+## 2. METHOD OF ADMINISTRATION
+
+For subcutaneous use only.
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+2 400 mg/15 mL
+
+| 6.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Rybrevant 3 520 mg solution for injection
+
+amivantamab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+One vial of 22 mL contains 3 520 mg of amivantamab (160 mg/mL).
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: recombinant human hyaluronidase (rHuPH20), EDTA disodium salt dihydrate, glacial acetic acid, L-methionine, polysorbate 80, sodium acetate trihydrate, sucrose, and water for injections. See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Solution for injection
+
+3 520 mg/22 mL
+
+1 vial
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+For subcutaneous use only.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Do not shake.
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+<div style=\"page-break-after: always\"></div>
+
+Do not freeze.
+
+Store in the original package in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Janssen-Cilag International NV
+
+Turnhoutseweg 30
+
+B-2340 Beerse
+
+Belgium
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/21/1594/005
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Justification for not including Braille accepted.
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+
+Rybrevant 3 520 mg solution for injection
+
+amivantamab
+
+Subcutaneous use
+
+SC
+
+## 2. METHOD OF ADMINISTRATION
+
+For subcutaneous use only.
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+3 520 mg/22 mL
 
 ## 6. OTHER
 
@@ -2283,13 +2823,13 @@ Your doctor will work out the correct dose of Rybrevant for you. The dose of thi
 
 The recommended dose of Rybrevant every 2 weeks is:
 
--  1050 mg if you weigh less than 80 kg.
--  1400 mg if you weigh more than or equal to 80 kg.
+-  1 050 mg if you weigh less than 80 kg.
+-  1 400 mg if you weigh more than or equal to 80 kg.
 
 The recommended dose of Rybrevant every 3 weeks is:
 
--  1400 mg for the first 4 doses and 1750 mg for subsequent doses if you weigh less than 80 kg.
--  1750 mg for the first 4 doses and 2100 mg for subsequent doses if you weigh more than or equal to 80 kg.
+-  1 400 mg for the first 4 doses and 1 750 mg for subsequent doses if you weigh less than 80 kg.
+-  1 750 mg for the first 4 doses and 2 100 mg for subsequent doses if you weigh more than or equal to 80 kg.
 
 ## How the medicine is given
 
@@ -2328,136 +2868,72 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-## Serious side effects
-
-Tell your doctor or nurse straight away if you notice the following serious side effects:
-
-Very common (may affect more than 1 in 10 people):
-
--  Signs of a reaction to the infusion - such as chills, feeling short of breath, feeling sick (nausea), flushing, chest discomfort, and vomiting while the medicine is being given. This can happen especially with the first dose. Your doctor may give you other medicines, or the infusion may need to be slowed down or stopped.
--  When given together with another medicine called 'lazertinib', a blood clot in the veins, especially in the lungs or legs can occur. Signs may include sharp chest pain, shortness of breath, rapid breathing, leg pain, and swelling of your arms or legs.
--  Skin problems - such as rash (including acne), infected skin around the nails, dry skin, itching, pain, and redness. Tell your doctor if your skin or nail problems get worse.
-
-## Common (may affect up to 1 in 10 people):
-
--  Eye problems - such as dry eye, swollen eyelid, itchy eyes, problems with vision, growth of eyelashes.
--  Signs of an inflammation in the lungs - such as sudden difficulty in breathing, cough, or fever. This could lead to permanent damage ('interstitial lung disease'). Your doctor may wish to stop Rybrevant if you get this side effect.
-
-## Uncommon (may affect up to 1 in 100 people):
-
--  inflamed cornea (front part of the eye)
--  inflammation inside the eye that may affect vision
--  life-threatening rash with blisters and peeling skin over much of the body (toxic epidermal necrolysis).
-
-The following side effects have been reported in clinical studies with Rybrevant in combination with lazertinib:
-
-## Other side effects
-
-Tell your doctor if you notice any of the following side effects:
-
-Very common (may affect more than 1 in 10 people):
-
--  nail problems
--  low level of the protein 'albumin' in the blood
--  swelling caused by fluid build up in the body
--  sores in the mouth
--  increase levels of liver enzymes in the blood
--  nerve damage that may cause tingling, numbness, pain or loss of pain sensation
--  feeling very tired
-
-<div style=\"page-break-after: always\"></div>
-
--  constipation
--  diarrhoea
--  decreased appetitie
--  low level of calcium in the blood
--  feeling sick (nausea)
--  muscle spasms
--  low level of potassium in the blood
--  feeling dizzy
--  muscle aches
--  vomiting
--  fever
--  stomach pain.
-
-## Common (may affect up to 1 in 10 people)
-
--  haemorrhoids
--  redness, swelling, peeling or tenderness, mainly on the hands or feet (palmar-plantar erythrodysaesthesia syndrome)
--  low level of magnesium in the blood
--  itchy rash (hives)
--  ulcer (sore) on the skin.
-
-The following side effects have been reported in clinical studies with Rybrevant when given alone:
-
-## Other side effects
-
-Tell your doctor if you notice any of the following side effects:
+## Tell your doctor or nurse straight away if you notice the following serious side effects:
 
 ## Very common (may affect more than 1 in 10 people):
 
--  low level of the protein 'albumin' in the blood
--  swelling caused by fluid build up in the body
--  feeling very tired
--  sores in the mouth
--  constipation or diarrhoea
--  decreased appetite
--  increased level of the liver enzyme 'alanine aminotransferase' in the blood, a possible sign of liver problems
--  increased level of the enzyme 'aspartate aminotransferase' in the blood, a possible sign of liver problems
--  feeling dizzy
--  increased level of the enzyme 'alkaline phosphatase' in the blood
--  muscle aches
--  fever
--  low level of calcium in the blood.
+-  Signs of a reaction to the infusion - such as chills, feeling short of breath, feeling sick (nausea), flushing, chest discomfort, and vomiting while the medicine is being given. This can happen especially with the first dose. Your doctor may give you other medicines, or the infusion may need to be slowed down or stopped.
+-  When given together with lazertinib or chemotherapy (carboplatin and pemetrexed), a blood clot in the veins, especially in the lungs or legs can occur. Signs may include sharp chest pain, shortness of breath, rapid breathing, leg pain, and swelling of your arms or legs.
 
-## Common (may affect up to 1 in 10 people)
+## Common (may affect up to 1 in 10 people):
 
--  stomach pain
--  low level of potassium in the blood
--  low level of magnesium in the blood
--  haemorrhoids.
+-  Signs of an inflammation in the lungs - such as sudden difficulty in breathing, cough, or fever. This could lead to permanent damage ('interstitial lung disease'). Your doctor may wish to stop Rybrevant if you get this side effect.
+-  Signs of an inflamed cornea, which is the front part of the eye (keratitis) - such as eye pain, sensitivity to light, redness, changes in vision or eye discharge. If you experience these symptoms you should discontinue use of contact lenses until you have spoken to your doctor.
 
 ## Uncommon (may affect up to 1 in 100 people):
 
--  ulcer (sore) on the skin.
-
-The following side effects have been reported in clinical studies with Rybrevant in combination with chemotherapy:
-
-<div style=\"page-break-after: always\"></div>
+-  life-threatening rash with blisters and peeling skin over much of the body (toxic epidermal necrolysis).
+-  inflammation inside the eye that may affect vision (uveitis).
 
 ## Other side effects
 
-Tell your doctor if you notice any of the following side effects:
+## Very common (may affect more than 1 in 10 people):
 
-Very common (may affect more than 1 in 10 people):
-
--  low number of a type of white blood cell (neutropenia)
--  low number of 'platelets'(cells that help blood to clot)
--  blood clot in the veins
--  feeling very tired
+-  skin rash
+-  nail problems
+-  low number of a type of white blood cell (neutropenia) b
+-  low level of the protein 'albumin' in the blood
+-  liver problems a
+-  swelling caused by fluid build up in the body (oedema)
 -  nausea
 -  sores in the mouth
+-  feeling very tired
+-  low number of 'platelets' (cells that help blood to clot) b
 -  constipation
--  swelling caused by fluid build up in the body
+-  unusual feeling in the skin (such as tingling or a crawling feeling) a
 -  decreased appetite
--  low level of the protein 'albumin' in the blood
--  increased level of the liver enzyme 'alanine aminotransferase' in the blood, a possible sign of liver problems
--  increased level of the enzyme 'aspartate aminotransferase' in the blood, a possible sign of liver problems
--  vomiting
--  low level of potassium in the blood
 -  diarrhoea
+-  increased level of the liver enzyme 'alanine aminotransferase' in the blood
+
+<div style=\"page-break-after: always\"></div>
+
+-  dry skin
+-  itching
+-  increased level of the liver enzyme 'aspartate aminotransferase' in the blood
+-  vomiting
+-  low level of calcium in the blood
+-  other eye problems
+-  low level of potassium in the blood
+-  muscle spasms a
 -  fever
 -  low level of magnesium in the blood
--  low level of calcium in the blood.
-
-Common (may affect up to 1 in 10 people)
-
--  increased level of the enzyme 'alkaline phosphatase' in the blood
--  stomach pain
 -  feeling dizzy
--  haemorrhoids
 -  muscle aches
--  ulcer (sore) on the skin.
+-  increased level of the liver enzyme 'alkaline phosphatase' in the blood
+-  stomach pain.
+
+## Common (may affect up to 1 in 10 people):
+
+-  haemorrhoids
+-  redness, swelling, peeling or tenderness, mainly on the hands or feet (palmar-plantar erythrodysaesthesia syndrome)
+-  ulcer (sore) on the skin
+-  problems with vision
+-  growth of eyelashes
+-  hives. a
+
+a  Only seen in combination with lazertinib
+
+b Only seen in combination with carboplatin and pemetrexed
 
 ## Reporting of side effects
 
@@ -2475,18 +2951,18 @@ Chemical and physical in-use stability has been demonstrated for 10 hours at 15�
 
 Store in a refrigerator (2°C to 8°C). Do not freeze.
 
-<div style=\"page-break-after: always\"></div>
-
 Store in the original package in order to protect from light.
 
 Medicines should not be disposed of via wastewater or household waste. Your healthcare professional will throw away any medicines that are no longer being used. These measures will help protect the environment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
 ## What Rybrevant contains
 
 -  The active substance is amivantamab. One mL of concentrate for solution for infusion contains 50 mg of amivantamab. One vial of 7 mL concentrate contains 350 mg of amivantamab.
--  The other ingredients are ethylenediaminetetraacetic acid (EDTA) disodium salt dihydrate, Lhistidine, L-histidine hydrochloride monohydrate, L-methionine, polysorbate 80, sucrose, and water for injections (see section 2).
+-  The other ingredients are ethylenediaminetetraacetic acid (EDTA) disodium salt dihydrate, Lhistidine, L-histidine hydrochloride monohydrate, L-methionine, polysorbate 80 (E433), sucrose, and water for injections (see section 2).
 
 ## What Rybrevant looks like and contents of the pack
 
@@ -2504,17 +2980,11 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
-
-Lietuva UAB 'JOHNSON &amp; JOHNSON' Tel: +370 5 278 68 88 lt@its.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
 ## България
 
 'Джонсън &amp; Джонсън България' ЕООД Тел.: +359 2 489 94 00 jjsafety@its.jnj.com
-
-## Luxembourg/Luxemburg
-
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
 
 ## Česká republika
 
@@ -2522,17 +2992,27 @@ Janssen-Cilag s.r.o.
 
 Tel: +420 227 012 227
 
+## Danmark
+
+Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
+
+## Deutschland
+
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
+
+## Lietuva
+
+UAB 'JOHNSON &amp; JOHNSON' Tel: +370 5 278 68 88 lt@its.jnj.com
+
+## Luxembourg/Luxemburg
+
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
+
 ## Magyarország
 
 Janssen-Cilag Kft. Tel.: +36 1 884 2858
 
 janssenhu@its.jnj.com
-
-## Danmark
-
-Janssen-Cilag A/S
-
-Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
 ## Malta
 
@@ -2540,31 +3020,47 @@ AM MANGION LTD
 
 Tel: +356 2397 6000
 
+Nederland
+
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
+
 <div style=\"page-break-after: always\"></div>
-
-## Deutschland
-
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
 
 ## Eesti
 
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
+
+Tel: +372 617 7410
+
+ee@its.jnj.com
 
 ## Ελλάδα
 
-Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ: +30 210 80 90 000
+Janssen-Cilag Φαρμακευτική Μονοπρόσωπη
+
+Α.Ε.Β.Ε.
+
+Tηλ: +30 210 80 90 000
 
 ## España
 
-Janssen-Cilag, S.A. Tel: +34 91 722 81 00 contacto@its.jnj.com
+Janssen-Cilag, S.A.
+
+Tel: +34 91 722 81 00
+
+contacto@its.jnj.com
 
 ## France
 
-Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
+Janssen-Cilag
+
+Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
 
 ## Hrvatska
 
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
+Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700
+
+jjsafety@JNJCR.JNJ.com
 
 ## Ireland
 
@@ -2576,47 +3072,77 @@ Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
 ## Italia
 
-Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
+Janssen-Cilag SpA
+
+Tel: 800.688.777 / +39 02 2510 1
+
+janssenita@its.jnj.com
 
 ## Κύπρος
 
-Βαρνάβας Χατζηπαναγής Λτδ Τηλ: +357 22 207 700
+Βαρνάβας Χατζηπαναγής Λτδ
+
+Τηλ: +357 22 207 700
 
 ## Latvija
 
-UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
 
-## Nederland
+Tel: +371 678 93561
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
+lv@its.jnj.com
+
+## This leaflet was last revised in .
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site https://www.ema.europa.eu.
 
 ## Norge
 
-Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
+Janssen-Cilag AS
+
+Tlf: +47 24 12 65 00
+
+jacno@its.jnj.com
 
 ## Österreich
 
-Janssen-Cilag Pharma GmbH Tel: +43 1 610 300
+Janssen-Cilag Pharma GmbH
+
+Tel: +43 1 610 300
 
 ## Polska
 
-Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
+Janssen-Cilag Polska Sp. z o.o.
+
+Tel.: +48 22 237 60 00
 
 ## Portugal
 
-Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
+Janssen-Cilag Farmacêutica, Lda.
+
+Tel: +351 214 368 600
 
 ## România
 
-Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
+Johnson &amp; Johnson România SRL
+
+Tel: +40 21 207 1800
 
 ## Slovenija
 
-Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
+Johnson &amp; Johnson d.o.o.
+
+Tel: +386 1 401 18 00
+
+JNJ-SI-safety@its.jnj.com
 
 ## Slovenská republika
 
-Johnson &amp; Johnson, s.r.o. Tel: +421 232 408 400
+Johnson &amp; Johnson, s.r.o.
+
+Tel: +421 232 408 400
 
 ## Suomi/Finland
 
@@ -2624,15 +3150,11 @@ Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
 
 ## Sverige
 
-Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
+Janssen-Cilag AB
 
-<div style=\"page-break-after: always\"></div>
+Tfn: +46 8 626 50 00
 
-## This leaflet was last revised in .
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site https://www.ema.europa.eu.
+jacse@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2645,8 +3167,8 @@ Prepare the solution for intravenous infusion using aseptic technique as follows
 ## Preparation
 
 -  Determine the dose required and the number of Rybrevant vials needed based on patient's baseline weight. Each vial of Rybrevant contains 350 mg of amivantamab.
--  For every 2-week dosing, patients &lt; 80 kg receive 1050 mg and for patients ≥ 80 kg, 1400 mg once weekly for a total of 4 doses, then every 2 weeks starting at Week 5.
--  For every 3-week dosing, patients &lt; 80 kg receive 1400 mg once weekly for a total of 4 doses, then 1750 mg every 3 weeks starting at Week 7, and for patients ≥ 80 kg, 1750 mg once weekly for a total of 4 doses, then 2100 mg every 3 weeks starting at Week 7.
+-  For every 2-week dosing, patients &lt; 80 kg receive 1 050 mg and for patients ≥ 80 kg, 1 400 mg once weekly for a total of 4 doses, then every 2 weeks starting at Week 5.
+-  For every 3-week dosing, patients &lt; 80 kg receive 1 400 mg once weekly for a total of 4 doses, then 1 750 mg every 3 weeks starting at Week 7, and for patients ≥ 80 kg, 1 750 mg once weekly for a total of 4 doses, then 2 100 mg every 3 weeks starting at Week 7.
 -  Check that the Rybrevant solution is colourless to pale yellow. Do not use if discolouration or visible particles are present.
 -  Withdraw and then discard a volume of either 5% glucose solution or sodium chloride 9 mg/mL (0.9%) solution for injection from the 250 mL infusion bag that is equal to the required volume of Rybrevant solution to be added (discard 7 mL diluent from the infusion bag for each vial). Infusion bags must be made of polyvinylchloride (PVC), polypropylene (PP), polyethylene (PE), or polyolefin blend (PP+PE).
 -  Withdraw 7 mL of Rybrevant from each vial needed then add it to the infusion bag. Each vial contains a 0.5 mL overfill to ensure sufficient extractable volume. The final volume in the infusion bag should be 250 mL. Discard any unused portion left in the vial.
@@ -2671,7 +3193,13 @@ This medicinal product is for single use only and any unused medicinal product t
 
 ## Package leaflet: Information for the patient
 
-## Rybrevant 1600 mg solution for injection Rybrevant 2240 mg solution for injection
+Rybrevant 1 600 mg solution for injection
+
+Rybrevant 2 240 mg solution for injection
+
+Rybrevant 2 400 mg solution for injection
+
+Rybrevant 3 520 mg solution for injection
 
 amivantamab
 
@@ -2702,9 +3230,11 @@ Rybrevant is a cancer medicine. It contains the active substance 'amivantamab', 
 
 Rybrevant is used in adults with a type of lung cancer called 'non-small cell lung cancer'. It is used when the cancer has spread to other parts of your body and has gone through certain changes in a gene called 'EGFR'.
 
-Rybrevant can be prescribed for you:
+## Rybrevant can be prescribed for you:
 
 -  as the first medicine you receive for your cancer in combination with lazertinib, or
+-  in combination with chemotherapy (carboplatin and pemetrexed) after failure of prior therapy including an EGFR tyrosine kinase inhibitor (TKI), or
+-  as the first medicine you receive for your cancer in combination with chemotherapy (carboplatin and pemetrexed), or
 -  when chemotherapy is no longer working against your cancer.
 
 ## How Rybrevant works
@@ -2716,9 +3246,9 @@ The active substance in Rybrevant, amivantamab, targets two proteins found on ca
 
 This medicine works by attaching to these proteins. This may help to slow or stop your lung cancer from growing. It may also help to reduce the size of the tumour.
 
-Rybrevant may be given in combination with other anti-cancer medicines. It is important that you also read the package leaflets for these other medicines. If you have any questions about these medicines, ask your doctor.
-
 <div style=\"page-break-after: always\"></div>
+
+Rybrevant may be given in combination with other anti-cancer medicines. It is important that you also read the package leaflets for these other medicines. If you have any questions about these medicines, ask your doctor.
 
 ## 2. What you need to know before you are given Rybrevant
 
@@ -2757,9 +3287,10 @@ Tell your doctor or nurse if you are taking, have recently taken or might take a
 ## Pregnancy
 
 -  Tell your doctor or nurse before you are given this medicine if you are pregnant, think you might be pregnant, or are planning to have a baby.
--  It is possible that this medicine may harm an unborn baby. If you become pregnant while being treated with this medicine, tell your doctor or nurse straight away. You and your doctor will decide if the benefit of having the medicine is greater than the risk to your unborn baby.
 
 <div style=\"page-break-after: always\"></div>
+
+-  It is possible that this medicine may harm an unborn baby. If you become pregnant while being treated with this medicine, tell your doctor or nurse straight away. You and your doctor will decide if the benefit of having the medicine is greater than the risk to your unborn baby.
 
 ## Breast-feeding
 
@@ -2775,29 +3306,40 @@ This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say 
 
 ## Rybrevant contains polysorbate
 
-This medicine contains 0.6 mg of polysorbate 80 in each mL, which is equivalent to 6 mg per 10 mL vial, or 8.4 mg per 14 mL vial. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+This medicine contains 0.6 mg of polysorbate 80 in each mL, which is equivalent to 6 mg per 10 mL vial, 8.4 mg per 14 mL vial, 9 mg per 15 mL vial, or 13.2 mg per 22 mL vial. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How Rybrevant is given
 
 ## How much is given
 
-Your doctor will work out the correct dose of Rybrevant for you. The dose of this medicine will depend on your body weight at the start of your therapy.
+Your doctor will work out the correct dose of Rybrevant solution for subcutaneous injection for you. The dose of this medicine will depend on your body weight at the start of your therapy. You will be treated with Rybrevant once every week for the first 4 weeks, then once every 2, 3 or 4 weeks according to the treatment your doctor decides for you.
 
-The recommended dose of Rybrevant is:
+Recommended dose of Rybrevant solution for subcutaneous injection when given alone or in combination with lazertinib
 
--  1600 mg if you weigh less than 80 kg.
--  2240 mg if you weigh more than or equal to 80 kg.
+## Every 4 weeks:
+
+-  1 600 mg weekly for the first 4 doses, and then 3 520 mg every 4 weeks if you weigh less than 80 kg.
+-  2 240 mg weekly for the first 4 doses, and then 4 640 mg every 4 weeks if you weigh more than or equal to 80 kg.
+
+## Every 2 weeks:
+
+-  1 600 mg weekly for the first 4 doses, and then every 2 weeks if you weigh less than 80 kg.
+-  2 240 mg weekly for the first 4 doses, and then every 2 weeks if you weigh more than or equal to 80 kg.
+
+Recommended dose of Rybrevant solution for subcutaneous injection when given in combination with chemotherapy (carboplatin and pemetrexed)
+
+## Every 3 weeks:
+
+-  1 600 mg for the first dose, then 2 400 mg weekly for the next 3 doses, and then every 3 weeks if you weigh less than 80 kg.
+-  2 240 mg for the first dose, then 3 360 mg weekly for the next 3 doses, and then every 3 weeks if you weigh more than or equal to 80 kg.
 
 ## How the medicine is given
 
-Rybrevant will be given to you by a doctor or nurse as an injection under your skin (subcutaneous injection) over approximately 5 minutes. It is given in the stomach area (abdomen), not in other sites of the body, and not into areas of the abdomen where the skin is red, bruised, tender, hard or where there are tattoos or scars.
+Rybrevant solution for subcutaneous injection will be given to you by a doctor or nurse as an injection under your skin (subcutaneous injection) over approximately 5 minutes per injection. It is given in the stomach area (abdomen), not in other sites of the body, and not into areas of the abdomen where the skin is red, bruised, tender, hard or where there are tattoos or scars.
+
+<div style=\"page-break-after: always\"></div>
 
 If you experience pain during the injection, the doctor or nurse may interrupt the injection and give you the remaining injection in another area of your abdomen.
-
-Rybrevant is given as follows:
-
--  once a week for the first 4 weeks
--  then once every 2 weeks starting at week 5, for as long as you keep getting benefit from the treatment.
 
 ## Medicines given during treatment with Rybrevant
 
@@ -2813,8 +3355,6 @@ You may also be given additional medicines based on any symptoms you may experie
 
 This medicine will be given by your doctor or nurse. In the unlikely event that you are given too much (an overdose), your doctor will check you for side effects.
 
-<div style=\"page-break-after: always\"></div>
-
 ## If you forget your appointment to have Rybrevant
 
 It is very important to go to all your appointments. If you miss an appointment, make another one as soon as possible.
@@ -2825,104 +3365,82 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-## Serious side effects
-
-Tell your doctor or nurse straight away if you notice the following serious side effects:
+## Tell your doctor or nurse straight away if you notice the following serious side effects:
 
 Very common (may affect more than 1 in 10 people):
 
+-  When given together with lazertinib or chemotherapy (carboplatin and pemetrexed), a blood clot in the veins, especially in the lungs or legs can occur. Signs may include sharp chest pain, shortness of breath, rapid breathing, leg pain, and swelling of your arms or legs.
 -  Signs of a reaction to the injection - such as chills, feeling short of breath, feeling sick (nausea), flushing, chest discomfort, and fever. This can happen especially with the first dose. Your doctor may give you other medicines, or the injection may need to be stopped.
--  Skin problems - such as rash (including acne), infected skin around the nails, dry skin, itching, pain, and redness. Tell your doctor if your skin or nail problems get worse.
--  When given together with another medicine called 'lazertinib', a blood clot in the veins, especially in the lungs or legs can occur. Signs may include sharp chest pain, shortness of breath, rapid breathing, leg pain, and swelling of your arms or legs.
--  Eye problems - such as dry eye, swollen eyelid, and itchy eyes.
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
 -  Signs of an inflammation in the lungs - such as sudden difficulty in breathing, cough, or fever. This could lead to permanent damage ('interstitial lung disease'). Your doctor may wish to stop Rybrevant if you get this side effect.
--  Eye problems - such as problems with vision and growth of eyelashes.
--  Inflamed cornea (front part of the eye).
-
-The following side effects have been reported in clinical studies with Rybrevant when given alone as an infusion into a vein:
-
-## Other side effects
-
-Tell your doctor if you notice any of the following side effects:
-
-Very common (may affect more than 1 in 10 people):
-
--  low level of the protein 'albumin' in the blood
--  swelling caused by fluid build up in the body
--  feeling very tired
--  sores in the mouth
--  nausea
--  vomiting
--  constipation or diarrhoea
--  decreased appetite
--  increased level of the liver enzymes 'alanine aminotransferase' and 'aspartate aminotransferase' in the blood
--  feeling dizzy
--  increased level of the enzyme 'alkaline phosphatase' in the blood
--  muscle aches
--  fever
--  low level of calcium in the blood.
-
-<div style=\"page-break-after: always\"></div>
-
-## Common (may affect up to 1 in 10 people)
-
--  stomach pain
--  low level of potassium in the blood
--  low level of magnesium in the blood
--  haemorrhoids.
+-  Signs of an inflamed cornea, which is the front part of the eye (keratitis) - such as eye pain, sensitivity to light, redness, changes in vision or eye discharge. If you experience these symptoms, you should discontinue use of contact lenses until you have spoken to your doctor.
 
 Uncommon (may affect up to 1 in 100 people):
 
--  ulcer (sore) on the skin.
+-  life-threatening rash with blisters and peeling skin over much of the body (toxic epidermal necrolysis).
+-  Inflammation inside the eye that may affect vision (uveitis).
 
-The following side effects have been reported in clinical studies with Rybrevant (either as an infusion into a vein or as an injection under the skin) in combination with lazertinib:
+<div style=\"page-break-after: always\"></div>
 
 ## Other side effects
 
-Tell your doctor if you notice any of the following side effects:
-
 Very common (may affect more than 1 in 10 people):
 
+-  skin rash
+-  nail problems
+-  low number of a type of white blood cell (neutropenia) b
 -  low level of the protein 'albumin' in the blood
--  sores in the mouth
--  liver toxicity
--  swelling caused by fluid build up in the body
 -  feeling very tired
--  unusual feeling in the skin (such as tingling or a crawling feeling)
+-  nausea
+-  sores in the mouth
+-  liver problems a
+-  swelling caused by fluid build up in the body (oedema)
+-  low number of 'platelets' (cells that help blood to clot) b
 -  constipation
 -  diarrhoea
 -  decreased appetite
--  nausea
--  low level of calcium in the blood
+-  unusual feeling in the skin (such as tingling or a crawling feeling) a
+-  increased level of the liver enzyme 'alanine aminotransferase' in the blood
+-  increased level of the liver enzyme 'aspartate aminotransferase' in the blood
+-  dry skin
+-  itching
 -  vomiting
--  muscle aches
 -  low level of potassium in the blood
--  muscle spasms
+-  other eye problems
+-  low level of calcium in the blood
+-  muscle aches
 -  feeling dizzy
+-  muscle spasms a
 -  fever
--  stomach pain.
+-  stomach pain
+-  increased level of the liver enzyme 'alkaline phosphatase' in the blood
+-  low level of magnesium in the blood.
 
 ## Common (may affect up to 1 in 10 people):
 
 -  haemorrhoids
 -  irritation or pain where the injection is given
--  low level of magnesium in the blood
+-  ulcer (sore) on the skin
+-  problems with vision
 -  redness, swelling, peeling or tenderness, mainly on the hands or feet (palmar-plantar erythrodysaesthesia syndrome)
--  itchy rash (hives)
--  ulcer (sore) on the skin.
+-  growth of eyelashes
+-  hives. a
+
+a  Only seen in combination with lazertinib
+
+b Only seen in combination with carboplatin and pemetrexed
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. How to store Rybrevant
 
-Rybrevant will be stored at the hospital or clinic.
-
-<div style=\"page-break-after: always\"></div>
+Rybrevant solution for subcutaneous injection will be stored at the hospital or clinic.
 
 Keep this medicine out of the sight and reach of children.
 
@@ -2940,12 +3458,12 @@ Medicines should not be disposed of via wastewater or household waste. Your heal
 
 ## What Rybrevant contains
 
--  The active substance is amivantamab. One mL of solution contains 160 mg of amivantamab. One vial of 10 mL of solution for injection contains 1600 mg of amivantamab. One vial of 14 mL of solution for injection contains 2240 mg of amivantamab.
+-  The active substance is amivantamab. One mL of solution contains 160 mg of amivantamab. One vial of 10 mL of solution for injection contains 1 600 mg of amivantamab. One vial of 14 mL of solution for injection contains 2 240 mg of amivantamab. One vial of 15 mL of solution for injection contains 2 400 mg of amivantamab. One vial of 22 mL of solution for injection for injection contains 3 520 mg of amivantamab.
 -  The other ingredients are recombinant human hyaluronidase (rHuPH20), EDTA disodium salt dihydrate, glacial acetic acid, L-methionine, polysorbate 80 (E433), sodium acetate trihydrate, sucrose, and water for injections (see 'Rybrevant contains sodium' and 'Rybrevant contains polysorbate' in section 2).
 
 ## What Rybrevant looks like and contents of the pack
 
-Rybrevant solution for injection is a colourless to pale yellow liquid. This medicine is available in a carton pack containing 1 glass vial of 10 mL of solution or 1 glass vial of 14 mL of solution.
+Rybrevant solution for subcutaneous injection is a colourless to pale yellow liquid. This medicine is available in a carton pack containing 1 glass vial of 10 mL of solution, 1 glass vial of 14 mL of solution, 1 glass vial of 15 mL of solution or 1 glass vial of 22 mL of solution.
 
 ## Marketing Authorisation Holder
 
@@ -2953,19 +3471,13 @@ Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 ## Manufacturer
 
-Janssen Biologics B.V. Einsteinweg 101 2333 CB Leiden The Netherlands
+Janssen Biologics B.V. Einsteinweg 101 2333 CB Leiden The Netherlands For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+<div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
-
-Lietuva Tel: +370 5 278 68 88 lt@its.jnj.com
-
-UAB \"JOHNSON &amp; JOHNSON\"
-
-<div style=\"page-break-after: always\"></div>
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
 ## България
 
@@ -2973,9 +3485,7 @@ UAB \"JOHNSON &amp; JOHNSON\"
 
 ## Česká republika
 
-Janssen-Cilag s.r.o.
-
-Tel: +420 227 012 227
+Janssen-Cilag s.r.o. Tel: +420 227 012 227
 
 ## Danmark
 
@@ -2987,7 +3497,9 @@ Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
 
 ## Eesti
 
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410
+
+ee@its.jnj.com
 
 ## Ελλάδα
 
@@ -2995,7 +3507,9 @@ Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ
 
 ## España
 
-Janssen-Cilag, S.A. Tel: +34 91 722 81 00 contacto@its.jnj.com
+Janssen-Cilag, S.A. Tel: +34 91 722 81 00
+
+contacto@its.jnj.com
 
 ## France
 
@@ -3005,17 +3519,15 @@ Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
 
 Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
 
-## Ireland
+## Lietuva
 
-Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\"
 
-## Ísland
-
-Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
+Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
 
 ## Magyarország
 
@@ -3029,7 +3541,7 @@ Tel: +356 2397 6000
 
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
 ## Norge
 
@@ -3051,17 +3563,23 @@ Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
 
 Johnson &amp; Johnson Rom â nia SRL Tel: +40 21 207 1800
 
-## Slovenija
-
-Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
-
-## Slovenská republika
-
-Johnson &amp; Johnson, s.r.o.
-
-Tel: +421 232 408 400
-
 <div style=\"page-break-after: always\"></div>
+
+## Ireland
+
+Janssen Sciences Ireland UC
+
+Tel: 1 800 709 122
+
+medinfo@its.jnj.com
+
+## Ísland
+
+Janssen-Cilag AB c/o Vistor ehf.
+
+Sími: +354 535 7000
+
+janssen@vistor.is
 
 ## Italia
 
@@ -3091,13 +3609,35 @@ lv@its.jnj.com
 
 Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.
 
+## Slovenija
+
+Johnson &amp; Johnson d.o.o.
+
+Tel: +386 1 401 18 00
+
+JNJ-SI-safety@its.jnj.com
+
+## Slovenská republika
+
+Johnson &amp; Johnson, s.r.o.
+
+Tel: +421 232 408 400
+
 ## Suomi/Finland
 
-Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
+Janssen-Cilag Oy
+
+Puh/Tel: +358 207 531 300
+
+jacfi@its.jnj.com
 
 ## Sverige
 
-Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
+Janssen-Cilag AB
+
+Tfn: +46 8 626 50 00
+
+jacse@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3113,12 +3653,15 @@ Prepare the solution for subcutaneous injection using aseptic technique as follo
 
 ## Preparation
 
--  Determine the dose required and the appropriate Rybrevant subcutaneous formulation vial needed based on patient's baseline weight.
--  Patients &lt; 80kg receive 1600 mg and patients ≥ 80 kg receive 2240 mg weekly from Weeks 1 to 4 and then every 2 weeks starting at Week 5 onward.
--  Remove the appropriate Rybrevant subcutaneous formulation vial from refrigerated storage (2°C to 8°C).
+-  Determine the dose required and the appropriate Rybrevant subcutaneous formulation vial(s) needed based on patient's baseline weight.
+-  For every 4-week dosing, patients &lt; 80 kg receive 1 600 mg weekly from Weeks 1 to 4, then 3 520 mg every 4 weeks starting at Week 5 onwards. Patients ≥ 80 kg receive 2 240 mg weekly from Weeks 1 to 4, then 4 640 mg every 4 weeks starting at Week 5 onwards.
+-  For every 2-week dosing, patients &lt; 80 kg receive 1 600 mg and patients ≥ 80 kg receive 2 240 mg weekly from Weeks 1 to 4, and then every 2 weeks starting at Week 5 onwards.
+-  For every 3-week dosing, patients &lt; 80 kg receive 1 600 mg on Week 1 Day 1, then 2 400 mg weekly from Weeks 2 to 4, and then every 3 weeks starting at Week 7 onwards. Patients ≥ 80 kg receive 2 240 mg on Week 1 Day 1, then 3 360 mg weekly from Weeks 2 to 4, and then every 3 weeks starting at Week 7 onwards.
+-  Remove the appropriate Rybrevant subcutaneous formulation vial(s) from refrigerated storage (2°C to 8°C).
 -  Check that the solution is colourless to pale yellow. Do not use if opaque particles, discolouration or other foreign particles are present.
 -  Equilibrate Rybrevant subcutaneous formulation to room temperature (15°C to 30°C) for at least 15 minutes. Do not warm Rybrevant subcutaneous formulation in any other way. Do not shake.
 -  Withdraw the required injection volume of Rybrevant subcutaneous formulation from the vial into an appropriately sized syringe using a transfer needle. Smaller syringes require less force during preparation and administration.
+-  Each injection volume should not exceed 15 mL. Divide doses requiring greater than 15 mL into approximately equal volumes in multiple syringes.
 -  Rybrevant subcutaneous formulation is compatible with stainless steel injection needles, polypropolene and polycarbonate syringes, and polyethylene, polyurethan, and polyvinylchloride subcutaneous infusion sets. A sodium chloride 9 mg/mL (0.9%) solution may also be used to flush an infusion set if needed.
 -  Replace the transfer needle with the appropriate ancillaries for transport or administration. Use of a 21G to 23G needle or infusion set is recommended to ensure ease of administration.
 
@@ -3129,6 +3672,8 @@ The prepared syringe should be administered immediately. If immediate administra
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Disposal
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-30 10:54:27
-document_pages: 30
+document_datetime: 2026-07-17 08:47:28
+document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/flucelvax-epar-product-information_en.pdf
 document_name: flucelvax-epar-product-information_en.pdf
 version: success
-processing_time: 9.2411512
-conversion_datetime: 2026-04-01 12:29:40.050954
+processing_time: 17.8288188
+conversion_datetime: 2026-07-19 12:33:57.969057
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.26.0
+  docling-jobkit: 2.1.0
+  docling: 2.113.0
+  docling-core: 2.87.1
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,17 +24,17 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Flucelvax suspension for injection in pre-filled syringe Influenza vaccine (surface antigen, inactivated, prepared in cell cultures)
+Flucelvax suspension for injection in pre-filled syringe
+
+Influenza vaccine (surface antigen, inactivated, prepared in cell cultures)
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 Influenza virus surface antigens (haemagglutinin and neuraminidase), inactivated, of the following strains*:
 
-A/Wisconsin/67/2022 (H1N1)pdm09-like strain (A/Georgia/12/2022, CVR-167) 15 micrograms HA**
+A/Missouri/11/2025 (H1N1)pdm09-like strain (A/Tasmania/318/2025, CVR-351) 15 micrograms HA**
 
-A/District of Columbia/27/2023 (H3N2)-like strain (A/Victoria/800/2024, CVR-289) 15 micrograms HA**
-
-B/Austria/1359417/2021-like strain (B/Singapore/WUH4618/2021, wild type) 15 micrograms HA**
+A/Darwin/1415/2025 (H3N2)-like strain (A/Tasmania/787/2025, CVR-388) 15 micrograms HA** B/Pennsylvania/14/2025-like strain (B/Arizona/21/2025, wild type) 15 micrograms HA**
 
 ## per 0.5 ml dose
 
@@ -43,7 +43,7 @@ B/Austria/1359417/2021-like strain (B/Singapore/WUH4618/2021, wild type) 15 micr
 * propagated in Madin Darby Canine Kidney (MDCK) cells
 - ** haemagglutinin
 
-The vaccine complies with the World Health Organisation (WHO) recommendation (northern hemisphere) and EU recommendation for the  2025/2026 Season.
+The vaccine complies with the World Health Organisation (WHO) recommendation (northern hemisphere) and EU recommendation for the  2026/2027 Season.
 
 Flucelvax may contain traces of beta-propiolactone, cetyltrimethylammonium bromide, and polysorbate 80 (see section 4.3).
 
@@ -73,10 +73,9 @@ Adults and children from 6 months of age
 
 <div style=\"page-break-after: always\"></div>
 
-| Age group                | Dose            | Schedule       |
-|--------------------------|-----------------|----------------|
-|                          |                 | 4 weeks apart  |
-| 9 years of age and older | One 0.5 mL dose | Not applicable |
+|                          |                 | 4 weeks apart   |
+|--------------------------|-----------------|-----------------|
+| 9 years of age and older | One 0.5 mL dose | Not applicable  |
 
 ## Children below 6 months of age
 
@@ -118,9 +117,9 @@ As with all injectable vaccines, Flucelvax must be administered with caution to 
 
 Syncope (fainting) can occur following, or even before, any vaccination as a psychogenic response to the needle injection. This can be accompanied by several neurological signs such as transient visual disturbance, paraesthesia and tonic-clonic limb movements during recovery. It is important that procedures are in place to avoid injury from faints.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Immunocompromised patients
+
+<div style=\"page-break-after: always\"></div>
 
 Antibody response in patients with endogenous or iatrogenic immunosuppression may be insufficient to prevent influenza.
 
@@ -158,9 +157,9 @@ Animal studies do not indicate reproductive toxicity (see section 5.3).
 
 ## Breast-feeding
 
-<div style=\"page-break-after: always\"></div>
-
 It is unknown whether Flucelvax is excreted in human milk. No effects on breastfed newborn/infant are anticipated. Flucelvax may be given during lactation.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -266,11 +265,9 @@ Annual revaccination with current influenza vaccines is recommended because immu
 
 A multinational, randomised, observer-blinded, placebo-controlled study (V58P13) was performed to assess clinical efficacy and safety of Flucelvax during the 2007-2008 influenza season in adults aged 18 to less than 50 years. A total of 11 404 subjects were enrolled to receive Flucelvax (N = 3 828), egg-based trivalent influenza vaccine (N = 3 676) or placebo (N = 3 900) in a 1:1:1 ratio.
 
-Flucelvax efficacy was defined as the prevention of culture-confirmed symptomatic influenza illness caused by viruses antigenically matched to those in the vaccine compared to placebo. Influenza cases were identified by active and passive surveillance of influenza-like illness (ILI). ILI was defined according to Centers for Disease Control and Prevention (CDC) case definition, i.e., a fever (oral temperature ≥ 100.0°F / 38°C) and cough or sore throat. After an episode of ILI, nose and throat swab samples were collected for analysis. Vaccine efficacies against vaccine-matched influenza viral
+Flucelvax efficacy was defined as the prevention of culture-confirmed symptomatic influenza illness caused by viruses antigenically matched to those in the vaccine compared to placebo. Influenza cases were identified by active and passive surveillance of influenza-like illness (ILI). ILI was defined according to Centers for Disease Control and Prevention (CDC) case definition, i.e., a fever (oral temperature ≥ 100.0°F / 38°C) and cough or sore throat. After an episode of ILI, nose and throat swab samples were collected for analysis. Vaccine efficacies against vaccine-matched influenza viral strains, against all influenza viral strains, and against individual influenza viral subtypes were calculated (Table 3).
 
 <div style=\"page-break-after: always\"></div>
-
-strains, against all influenza viral strains, and against individual influenza viral subtypes were calculated (Table 3).
 
 Table 3: Comparative efficacy of Flucelvax versus placebo against culture-confirmed influenza by influenza viral subtype (V58P13)
 
@@ -294,7 +291,7 @@ Immunogenicity in Adults 18 years of age and older
 
 Immunogenicity was evaluated in adults 18 years of age and older in a randomised, doubleblind, controlled study (V130\\_01). In this study, subjects received cell-based quadrivalent influenza vaccine (N = 1 334) or one of the two formulations of comparator cell-based trivalent influenza vaccine with either the same strain  composition as Flucelvax, TIV1c (N=677), or an alternate B strain, TIV2c (N = 669). The immune response to each of the vaccine antigens was assessed, 21 days after vaccination.
 
-The immunogenicity endpoints were geometric mean antibody titres (GMTs) of haemagglutination inhibition (HI) antibodies response and percentage of subjects who achieved seroconversions, defined as a pre-vaccination HI titre of &lt;1:10 with a post vaccination titre ≥1:40 or with a pre -vaccination HI titre of ≥10 and a minimum 4 -fold increase in serum HI antibody titre.
+The immunogenicity endpoints were geometric mean antibody titres (GMTs) of haemagglutination inhibition (HI) antibodies response and percentage of subjects who achieved seroconversions, defined as a prevaccination HI titre of &lt;1:10 with a post vaccination titre ≥1:40 or with a pre -vaccination HI titre of ≥10 and a minimum 4 -fold increase in serum HI antibody titre.
 
 Immunogenicity data  are summarised in Table 4.
 
@@ -306,15 +303,22 @@ Table 4: GMTs and seroconversion rates (with 95% CI) in adults 18 years of age a
 
 <div style=\"page-break-after: always\"></div>
 
-|        |                                | Cell-based quadrivalent influenza vaccine N = 1250   | TIV1c/TIV2c N = 635/N = 639   |
-|--------|--------------------------------|------------------------------------------------------|-------------------------------|
-|        | Seroconversion Rate a (95% CI) | 49.2% (46.4-52.0)                                    | 48.7% (44.7-52.6)             |
-| A/H3N2 | GMT (95% CI)                   | 372.3 (349.2-396.9)                                  | 378.4 (345.1-414.8)           |
-| A/H3N2 | Seroconversion Rate a (95% CI) | 38.3% (35.6-41.1)                                    | 35.6% (31.9-39.5)             |
-| B1     | GMT (95% CI)                   | 133.2 (125.3-141.7)                                  | 115.6 (106.4-125.6)           |
-| B1     | Seroconversion Rate a (95% CI) | 36.6% (33.9-39.3)                                    | 34.8% (31.1-38.7)             |
-| B2     | GMT (95% CI)                   | 177.2 (167.6-187.5)                                  | 164.0 (151.4-177.7)           |
-| B2     | Seroconversion Rate a (95% CI) | 39.8% (37.0-42.5)                                    | 35.4% (31.7-39.2)             |
+|        | Seroconversion Rate a (95% CI)   | 49.2% (46.4-52.0)   | 48.7% (44.7-52.6)   |
+|--------|----------------------------------|---------------------|---------------------|
+| A/H3N2 | GMT (95% CI)                     | 372.3 (349.2-396.9) | 378.4 (345.1-414.8) |
+| A/H3N2 | Seroconversion Rate a (95% CI)   | 38.3% (35.6-41.1)   | 35.6% (31.9-39.5)   |
+|        | GMT (95% CI)                     | 133.2 (125.3-141.7) | 115.6 (106.4-125.6) |
+|        | Seroconversion Rate a (95% CI)   | 36.6% (33.9-39.3)   | 34.8%               |
+|        | GMT CI)                          | 177.2               | 164.0               |
+|        | Rate                             | (167.6-187.5)       | (151.4-177.7)       |
+|        |                                  |                     | (31.1-38.7)         |
+|        | (95%                             |                     |                     |
+|        | a                                | 39.8%               |                     |
+|        |                                  |                     | 35.4%               |
+|        | Seroconversion                   |                     |                     |
+|        |                                  | (37.0-42.5)         |                     |
+|        |                                  |                     | (31.7-39.2)         |
+|        | (95% CI)                         |                     |                     |
 
 Abbreviations: GMT = geometric mean titre; CI = confidence interval.
 
@@ -355,9 +359,9 @@ Cell-based  quadrivalent  influenza  vaccine  efficacy  was  assessed  by  the  
 
 Table 6: Number of subjects with first-occurrence RT-PCR confirmed influenza, cultureconfirmed any strain and antigenically matched influenza and absolute vaccine efficacy, in subjects 6 months to less than 4 years of age - FAS efficacy 1 (Study V130\\_14)
 
-|                                                     | Number of subjects per                              | Number of cases of                                  | Attack rate (%)                                     | Vaccine efficacy (VE)                               | Vaccine efficacy (VE)                               |
+|                                                     | Number of subjects per protocol                     | Number of cases of                                  | Attack rate (%)                                     | Vaccine efficacy (VE)                               | Vaccine efficacy (VE)                               |
 |-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-|                                                     | protocol                                            | influenza                                           |                                                     | %                                                   | Lower Limit of Two Sided CI of VE                   |
+|                                                     |                                                     | influenza                                           |                                                     | %                                                   | Lower Limit of Two Sided CI of VE                   |
 | RT-PCR confirmed influenza 2, 3                     | RT-PCR confirmed influenza 2, 3                     | RT-PCR confirmed influenza 2, 3                     | RT-PCR confirmed influenza 2, 3                     | RT-PCR confirmed influenza 2, 3                     | RT-PCR confirmed influenza 2, 3                     |
 | Cell-based quadrivalent influenza vaccine           | 2856                                                | 104                                                 | 3.64                                                | 41.26                                               | 21.55 4                                             |
 | Non-Influenza comparator                            | 2835                                                | 173                                                 | 6.10                                                | -                                                   | -                                                   |
@@ -383,16 +387,16 @@ Table 7: GMTs and seroconversion rates (with 95% CI) in subjects 4 to &lt;18 yea
 |        |                       | Cell-based quadrivalent influenza vaccine   | TIV1c/TIV2c a    |
 |--------|-----------------------|---------------------------------------------|------------------|
 | A/H1N1 |                       | N = 1014                                    | N = 510          |
-| A/H1N1 | GMT(95% CI)           | 1090 (1027-1157)                            | 1125 (1034-1224) |
+| A/H1N1 | GMT (95% CI)          | 1090 (1027-1157)                            | 1125 (1034-1224) |
 | A/H1N1 | Seroconversion rate b | 72% (69-75)                                 | 75% (70-78)      |
 | A/H3N2 |                       | N = 1013                                    | N = 510          |
-| A/H3N2 | GMT(95% CI)           | 738 (703-774)                               | 776 (725-831)    |
+| A/H3N2 | GMT (95% CI)          | 738 (703-774)                               | 776 (725-831)    |
 | A/H3N2 | Seroconversion rate b | 47% (44-50)                                 | 51% (46-55)      |
 | B1     |                       | N = 1013                                    | N = 510          |
-| B1     | GMT(95% CI)           | 155 (146-165)                               | 154 (141-168)    |
+| B1     | GMT (95% CI)          | 155 (146-165)                               | 154 (141-168)    |
 | B1     | Seroconversion rate b | 66% (63-69)                                 | 66% (62-70)      |
 | B2     |                       | N = 1009                                    | N = 501          |
-| B2     | GMT(95% CI)           | 185 (171-200)                               | 185 (166-207)    |
+| B2     | GMT (95% CI)          | 185 (171-200)                               | 185 (166-207)    |
 | B2     | Seroconversion rate b | 73% (70-76)                                 | 71% (67-75)      |
 
 Bold - CHMP immunogenicity criteria met. The percentage of subjects with seroconversion or significant increase in HI antibody titre is &gt;40%, the percentage of subjects achieving an HI titre ≥1:40 is &gt;70%.
@@ -415,9 +419,9 @@ Sodium chloride Potassium chloride Magnesium chloride hexahydrate Disodium phosp
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.3 Shelf life
+
+<div style=\"page-break-after: always\"></div>
 
 1 year
 
@@ -457,9 +461,9 @@ EU/1/24/1879/001 EU/1/24/1879/002 EU/1/24/1879/003 EU/1/24/1879/004
 
 Date of first authorisation: 15 November 2024
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. DATE OF REVISION OF THE TEXT
+
+<div style=\"page-break-after: always\"></div>
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -479,6 +483,8 @@ Detailed information on this medicinal product is available on the website of th
 Name and address of the manufacturer(s) of the biological active substance(s)
 
 Seqirus Inc. 475 Green Oaks Parkway Holly Springs NC 27540 United States
+
+Seqirus Pty. Ltd. (Tullamarine) 2-14 Sky Road Melbourne Airport, Victoria 3045, Australia
 
 Name and address of the manufacturer(s) responsible for batch release
 
@@ -502,10 +508,16 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 ## · Risk Management Plan (RMP)
 
-The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP. An updated RMP should be submitted:
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
+
+An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or
+
+<div style=\"page-break-after: always\"></div>
+
+as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -525,26 +537,30 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Flucelvax suspension for injection in pre-filled syringe Influenza vaccine (surface antigen, inactivated, prepared in cell cultures)
+Flucelvax suspension for injection in pre-filled syringe
+
+Influenza vaccine (surface antigen, inactivated, prepared in cell cultures)
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-## 2025/2026 SEASON
+## 2026/2027 SEASON
 
 Influenza virus surface antigens (haemagglutinin and neuraminidase), inactivated, of the following strains*:
 
-A/Wisconsin/67/2022 (H1N1)pdm09-like strain 15 micrograms HA**
+A/Missouri/11/2025 (H1N1)pdm09-like strain 15 micrograms HA**
 
-A/District of Columbia/27/2023 (H3N2)-like strain 15 micrograms HA**
+A/Darwin/1415/2025 (H3N2)-like strain 15 micrograms HA**
 
-B/Austria/1359417/2021-like strain 15 micrograms HA**
+B/Pennsylvania/14/2025-like strain 15 micrograms HA**
 
 per 0.5 ml dose
 
 ……………………………………….
 
 * propagated in Madin Darby Canine Kidney (MDCK) cells
-- ** haemagglutinin
+- **
+
+haemagglutinin
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -554,10 +570,13 @@ Sodium chloride, potassium chloride, magnesium chloride hexahydrate, disodium ph
 
 ## Suspension for injection
 
-- 10 pre-filled syringes (0.5 ml) without needle
-- 1 pre-filled syringe (0.5 ml) with needle
-- 10 pre-filled syringes (0.5 ml) with needle
-- 1 pre-filled syringe (0.5 ml) without needle
+10 pre-filled syringes (0.5 ml) without needle
+
+1 pre-filled syringe (0.5 ml) with needle
+
+10 pre-filled syringes (0.5 ml) with needle
+
+1 pre-filled syringe (0.5 ml) without needle
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -629,10 +648,12 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
+
+23
 
 <div style=\"page-break-after: always\"></div>
 
@@ -642,7 +663,7 @@ Pre-filled syringe label
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Flucelvax injection Influenza vaccine 2025/2026 Season
+Flucelvax injection Influenza vaccine 2026/2027 Season
 
 IM
 
@@ -662,16 +683,15 @@ Lot
 
 0.5 ml
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Flucelvax suspension for injection in pre-filled syringe
 
@@ -700,7 +720,7 @@ When a person is given the vaccine, the immune system (the body's natural defenc
 
 Flucelvax is used to prevent flu in adults and children from 6 months of age.
 
-The vaccine targets three strains of influenza virus following the recommendations by the World Health Organisation for the 2025/2026 Season.
+The vaccine targets three strains of influenza virus following the recommendations by the World Health Organisation for the 2026/2027 Season.
 
 ## 2. What you need to know before you receive Flucelvax
 
@@ -752,7 +772,7 @@ Use of Flucelvax during breast-feeding has not been studied. No effects on breas
 
 Flucelvax has no or negligible effect on your ability to drive and use machines.
 
-## Flucelvax contains sodium chloride and potassium chloride
+## Flucelvax contains sodium and potassium
 
 This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
 
@@ -804,9 +824,7 @@ Very common (may affect more than 1 in 10 people)
 
 Hardening or swelling at the site of the injection, headache, muscle pain, and tiredness were common in the elderly.
 
-Bruising at the site of the injection was common in adults, eldery and children 9 to &lt; 18 years.
-
-Headache was common in the elderly.
+Bruising at the site of the injection was common in adults, eldery and children 9 to &lt; 18 years. Headache was common in the elderly.
 
 Loss of appetite was common in adults, eldery and children 9 to &lt; 18 years.
 
@@ -850,11 +868,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 The active substances are influenza virus surface antigens (haemagglutinin and neuraminidase), inactivated, of the following strains*:
 
-A/Wisconsin/67/2022 (H1N1)pdm09-like strain (A/Georgia/12/2022, CVR-167) 15 micrograms HA**
+A/Missouri/11/2025 (H1N1)pdm09-like strain (A/Tasmania/318/2025, CVR-351) 15 micrograms HA**
 
-A/District of Columbia/27/2023 (H3N2)-like strain (A/Victoria/800/2024, CVR-289) 15 micrograms HA**
-
-B/Austria/1359417/2021-like strain (B/Singapore/WUH4618/2021, wild type) 15 micrograms HA**
+A/Darwin/1415/2025 (H3N2)-like strain (A/Tasmania/787/2025, CVR-388) 15 micrograms HA** B/Pennsylvania/14/2025-like strain (B/Arizona/21/2025, wild type) 15 micrograms HA**
 
 ## per 0.5 ml dose
 
@@ -864,13 +880,15 @@ B/Austria/1359417/2021-like strain (B/Singapore/WUH4618/2021, wild type) 15 micr
 
 - ** haemagglutinin
 
-This vaccine complies with the World Health Organisation (WHO) recommendation (northern hemisphere) and EU recommendation for the 2025/2026 Season.
+This vaccine complies with the World Health Organisation (WHO) recommendation (northern hemisphere) and EU recommendation for the 2026/2027 Season.
 
 The other ingredients are: sodium chloride, potassium chloride, magnesium chloride hexahydrate, disodium phosphate dihydrate, potassium dihydrogen phosphate and water for injections. (see Section 2 - Flucelvax contains sodium and potassium)
 
 ## What Flucelvax looks like and contents of the pack
 
-Flucelvax is a suspension for injection (injection) in a pre-filled syringe (ready to use syringe). Flucelvax is a clear to slightly opalescent suspension.
+Flucelvax is a suspension for injection (injection) in a pre-filled syringe (ready to use syringe).
+
+Flucelvax is a clear to slightly opalescent suspension.
 
 A single syringe contains 0.5 ml of suspension for injection.
 
@@ -880,15 +898,13 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Seqirus Netherlands B.V. Paasheuvelweg 28 1105 BJ Amsterdam Netherlands
+Seqirus Netherlands B.V. Paasheuvelweg 28 1105 BJ Amsterdam Netherlands For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
 ## België/Belgique/Belgien
 
-Seqirus Netherlands B.V.Nederland/Netherlands Tel: +31 (0) 20 204 6900
+Vifor Pharma België NV Tel. +32 15 91 44 12
 
 ## България
 
@@ -920,7 +936,7 @@ Seqirus Spain, S.L., Barcelona Tel: 937 817 884
 
 ## France
 
-Vifor France Tel: 0800 400 160
+Seqirus France Tel: 01 73 60 00 14
 
 ## Hrvatska
 
@@ -937,6 +953,8 @@ Seqirus Netherlands B.V. Holland Sími: +31 (0) 20 204 6900
 ## Italia
 
 Seqirus S.r.l. Siena Tel: +39 0577 096400
+
+## Κύπρος
 
 ## Lietuva
 
@@ -990,7 +1008,7 @@ Seqirus Netherlands B.V. Holandsko Tel: +31 (0) 20 204 6900
 
 Seqirus Netherlands B.V. Alankomaat Puh/Tel: +31 (0) 20 204 6900
 
-## Κύπρος
+## Sverige
 
 Seqirus Netherlands B.V. Ολλανδία
 
@@ -998,13 +1016,13 @@ Seqirus Netherlands B.V. Ολλανδία
 
 : +31 (0) 20 204 6900
 
-## Latvija
+<div style=\"page-break-after: always\"></div>
+
+Latvija
 
 Seqirus Netherlands B.V. Nīderlande
 
 Tel: +31 (0) 20 204 6900
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -1021,8 +1039,6 @@ Appropriate medical treatment and supervision should always be readily available
 Shake before use. After shaking, the normal appearance of the vaccine is a clear to slightly opalescent suspension.
 
 The vaccine should be visually inspected for particulate matter and discoloration prior to administration. In the event of any foreign particulate matter and/or variation of physical aspect being observed, do not administer the vaccine.
-
-## Sverige
 
 Seqirus Netherlands B.V. Nederländerna
 

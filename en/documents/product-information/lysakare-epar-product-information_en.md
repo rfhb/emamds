@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-12 09:26:21
+document_datetime: 2026-07-21 10:46:16
 document_pages: 24
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lysakare-epar-product-information_en.pdf
 document_name: lysakare-epar-product-information_en.pdf
 version: success
-processing_time: 5.5618097
-conversion_datetime: 2026-06-13 20:16:18.410201
+processing_time: 4.7455408
+conversion_datetime: 2026-07-28 13:49:53.097387
 docling_version:
-  docling-serve: 1.23.0
-  docling-jobkit: 1.23.0
-  docling: 2.102.1
-  docling-core: 2.82.0
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
   docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -64,11 +64,11 @@ Please refer to the full prescribing information of the antiemetic for administr
 
 There are limited data on the use of LysaKare in patients aged 65 years or above. Elderly patients are more likely to have decreased renal function, and care should therefore be taken in determining eligibility based on creatinine clearance (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hepatic impairment
 
 The use of arginine and lysine has not been specifically studied in patients with severe hepatic impairment (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -84,7 +84,7 @@ No data are available.
 
 ## Method of administration
 
-## For intravenous use.
+For intravenous use.
 
 To achieve optimal renal protection LysaKare should be administered as a 4-hour infusion (250 mL/hour) starting 30 minutes prior to administration of lutetium ( 177 Lu) oxodotreotide.
 
@@ -101,9 +101,9 @@ Infusion of LysaKare and lutetium ( 177 Lu) oxodotreotide through a separate ven
 
 A transient increase in serum potassium levels occurs in most patients receiving LysaKare, with maximum serum potassium levels reached approximately 4 to 5 hours after the start of infusion and usually returning to normal levels by 24 hours after the start of the amino acid solution infusion. Such increases are generally mild and transient. Patients with reduced creatinine clearance may be at increased risk for transient hyperkalaemia (see 'Renal impairment' in section 4.4).
 
-Serum potassium levels must be tested before each administration of LysaKare. If hyperkalaemia is determined, the patient's history of hyperkalaemia and any concomitant medicinal product should be checked. Hyperkalaemia must be corrected accordingly before the infusion is started (see sections 4.3 and 5.1).
-
 <div style=\"page-break-after: always\"></div>
+
+Serum potassium levels must be tested before each administration of LysaKare. If hyperkalaemia is determined, the patient's history of hyperkalaemia and any concomitant medicinal product should be checked. Hyperkalaemia must be corrected accordingly before the infusion is started (see sections 4.3 and 5.1).
 
 In case of clinically significant hyperkalaemia, patients should be retested prior to LysaKare infusion to confirm that hyperkalaemia has been successfully corrected (see section 5.1). Patients should be monitored closely for signs and symptoms of hyperkalaemia, e.g. dyspnoea, weakness, numbness, chest pain and cardiac manifestations (conduction abnormalities and cardiac arrhythmias). An electrocardiogram (ECG) should be performed prior to discharging the patient.
 
@@ -123,11 +123,11 @@ The use of arginine and lysine has not been studied in patients with severe hepa
 
 Care should be taken with LysaKare use in patients with severe hepatic impairment and in the event of either total bilirubinaemia &gt;3 times the upper limit of normal or a combination of albuminaemia &lt;30 g/L and international normalised ratio (INR) &gt;1.5 during treatment. Treatment with lutetium ( 177 Lu) oxodotreotide is not recommended in these circumstances.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Heart failure
 
 Due to the potential for clinical complications related to volume overload care should be taken with use of arginine and lysine in patients with severe heart failure defined as class III or IV in the New York Heart Association (NYHA) classification.
-
-<div style=\"page-break-after: always\"></div>
 
 Treatment with lutetium ( 177 Lu) oxodotreotide is not recommended for patients with severe heart failure defined as class III or IV in the NYHA classification. The benefit/risk balance for these patients will therefore always need to be weighed carefully, taking into consideration the volume and osmolality of LysaKare solution.
 
@@ -161,11 +161,11 @@ There is no relevant use of this medicinal product in pregnant women. Lysakare i
 
 No studies on animal reproductive function have been conducted (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Breast-feeding
 
 Arginine and lysine, being naturally occurring amino acids, are excreted in human milk, but effects on breast-fed newborns/infants are unlikely. Breast-feeding should be avoided during treatment with lutetium ( 177 Lu) oxodotreotide.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -205,11 +205,11 @@ The adverse reactions are listed according to MedDRA system organ class and by f
 | Vomiting                           | Very common          |
 | Abdominal pain                     | Not known            |
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -321,7 +321,9 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 <div style=\"page-break-after: always\"></div>
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/19/1381/001
 
@@ -341,11 +343,12 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
+- C. AUTHORISATION
+
 ## ANNEX II
 
-- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING
+
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -463,11 +466,11 @@ EU/1/19/1381/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -477,7 +480,9 @@ Justification for not including Braille accepted.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -562,9 +567,9 @@ Justification for not including Braille accepted.
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
 
 ## LysaKare 25 g/25 g solution for infusion
 
@@ -655,11 +660,11 @@ LysaKare is given as an infusion (drip) into a vein. The infusion of LysaKare wi
 
 Patients who receive amino acid infusions commonly experience nausea and vomiting. You will therefore be given medicines to prevent nausea and vomiting 30 minutes before the LysaKare infusion.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you receive more LysaKare than you should
 
 LysaKare will be given in a controlled clinical setting and is provided as a single dose bag. It is therefore unlikely that you will receive more of the infusion than you should as your doctor will monitor you during the treatment. However, in the event of an overdose, you will receive the appropriate treatment.
-
-<div style=\"page-break-after: always\"></div>
 
 If you have any further questions on the use of this medicine, ask your doctor.
 
@@ -709,21 +714,23 @@ Do not use this medicine:
 - -if the overwrap has been previously opened or damaged.
 - -if the infusion bag is damaged or leaking.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. Contents of the pack and other information
 
 ## What LysaKare contains
 
-- -
-- The active substances are arginine and lysine. Each infusion bag contains 25 g of L-arginine hydrochloride and 25 g of L-lysine hydrochloride.
+- -The active substances are arginine and lysine.
+
+Each infusion bag contains 25 g of L-arginine hydrochloride and 25 g of L-lysine hydrochloride.
+
 - -The other ingredient is water for injections.
 
 ## What LysaKare looks like and contents of the pack
 
-LysaKare 25 g/25 g solution for infusion is a clear and colourless solution free from visible particles, and is supplied in a single-use flexible plastic bag.
+LysaKare 25 g/25 g solution for infusion is a clear and colourless solution free from visible particles,
 
-Each infusion bag contains 1 L of LysaKare solution.
-
-<div style=\"page-break-after: always\"></div>
+and is supplied in a single-use flexible plastic bag. Each infusion bag contains 1 L of LysaKare solution.
 
 ## Marketing authorisation holder
 
@@ -731,7 +738,9 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 ## Manufacturer
 
-Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
+Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona
+
+Spain
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -751,7 +760,9 @@ SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
-Novartis Bulgaria EOOD Тел : +359 2 489 98 28
+Novartis Bulgaria EOOD
+
+Тел : +359 2 489 98 28
 
 ## Luxembourg/Luxemburg
 
@@ -771,9 +782,9 @@ Tel.: +36 1 457 65 00
 
 ## Danmark
 
-Novartis Sverige AB
+Novartis Healthcare A/S
 
-Tlf.: +46 8 732 32 00
+Tlf.: +45 39 16 84 00
 
 ## Malta
 
@@ -781,29 +792,19 @@ Novartis Pharma Services Inc.
 
 Tel: +356 2122 2872
 
+<div style=\"page-break-after: always\"></div>
+
 ## Deutschland
 
 Novartis Pharma GmbH
 
 Tel: +49 911 2730
 
-## Nederland
-
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
-
 ## Eesti
 
 SIA Novartis Baltics Eesti filiaal
 
 Tel: +372 66 30 810
-
-## Norge
-
-Novartis Sverige AB
-
-Tlf: +46 8 732 32 00
 
 ## Ελλάδα
 
@@ -817,23 +818,11 @@ Novartis (Hellas) A.E.B.E.
 
 Τηλ: +30 210 281 17 12
 
-## Österreich
-
-Novartis Pharma GmbH
-
-Tel: +43 1 86 6570
-
 ## España
 
 Novartis Farmacéutica, S.A.
 
 Tel: +34 93 306 42 00
-
-## Polska
-
-Novartis Poland Sp. z o.o.
-
-Tel.: +48 22 375 4888
 
 ## France
 
@@ -841,23 +830,11 @@ Novartis Pharma S.A.S.
 
 Tél: +33 1 55 47 66 00
 
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A.
-
-Tel: +351 21 000 8600
-
 ## Hrvatska
 
 Novartis Hrvatska d.o.o.
 
 Tel. +385 1 6274 220
-
-## România
-
-Novartis Pharma Services Romania SRL
-
-Tel: +40 21 31299 01
 
 ## Ireland
 
@@ -865,23 +842,11 @@ Novartis Ireland Limited
 
 Tel: +353 1 260 12 55
 
-## Slovenija
-
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
-
 ## Ísland
 
-Novartis Sverige AB
+Vistor ehf.
 
-Sími: +46 8 732 32 00
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
+Sími: +354 535 7000
 
 ## Italia
 
@@ -889,29 +854,11 @@ Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
 
-## Suomi/Finland
-
-Novartis Sverige AB
-
-Puh/Tel: +46 8 732 32 00
-
 ## Κύπρος
-
-ΒΙΟΚΟΣΜΟΣ ΑΕΒΕ
-
-Τηλ: +30 22920 63900
-
-ή
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00
 
 ## Latvija
 
@@ -919,10 +866,68 @@ SIA Novartis Baltics
 
 Tel: +371 67 887 070
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Nederland
+
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
+
+## Norge
+
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
+
+## Österreich
+
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
+
+## Polska
+
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
+
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A.
+
+Tel: +351 21 000 8600
+
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
+
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
+
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00

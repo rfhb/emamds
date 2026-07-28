@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-06 16:14:00
+document_datetime: 2026-07-21 09:00:45
 document_pages: 64
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tolucombi-epar-product-information_en.pdf
 document_name: tolucombi-epar-product-information_en.pdf
 version: success
-processing_time: 26.6033226
-conversion_datetime: 2026-05-07 20:07:20.553042
+processing_time: 31.9974248
+conversion_datetime: 2026-07-28 13:37:18.769449
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -135,15 +135,15 @@ Isolated cases of hyponatraemia accompanied by neurological symptoms (nausea, pr
 
 There is evidence that the concomitant use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren increases the risk of hypotension, hyperkalaemia and decreased renal function (including acute renal failure). Dual blockade of RAAS through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is therefore not recommended (see sections 4.5 and 5.1). If dual blockade therapy is considered absolutely necessary, this should only occur under specialist supervision and subject to frequent close monitoring of renal function, electrolytes and blood pressure. ACE-inhibitors and angiotensin II receptor blockers should not be used concomitantly in patients with diabetic nephropathy .
 
-## Other conditions with stimulation of the renin-angiotensin-aldosterone system
-
-In patients whose vascular tone and renal function depend predominantly on the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with medicinal products that affect this system has been associated with acute hypotension, hyperazotaemia, oliguria, or rarely acute renal failure (see section 4.8).
+Other conditions with stimulation of the renin-angiotensin-aldosterone system In patients whose vascular tone and renal function depend predominantly on the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with medicinal products that affect this system has been associated with acute hypotension, hyperazotaemia, oliguria, or rarely acute renal failure (see section 4.8).
 
 ## Primary aldosteronism
 
 Patients with primary aldosteronism generally will not respond to antihypertensive medicinal products acting through inhibition of the renin-angiotensin system. Therefore, the use of telmisartan/hydrochlorothiazide is not recommended.
 
-Aortic and mitral valve stenosis, obstructive hypertrophic cardiomyopathy As with other vasodilators, special caution is indicated in patients suffering from aortic or mitral stenosis, or obstructive hypertrophic cardiomyopathy.
+## Aortic and mitral valve stenosis, obstructive hypertrophic cardiomyopathy
+
+As with other vasodilators, special caution is indicated in patients suffering from aortic or mitral stenosis, or obstructive hypertrophic cardiomyopathy.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -328,9 +328,7 @@ Epidemiological evidence regarding the risk of teratogenicity following exposure
 
 Exposure to angiotensin II receptor blocker therapy during the second and third trimesters is known to induce human foetotoxicity (decreased renal function, oligohydramnios, skull ossification retardation) and neonatal toxicity (renal failure, hypotension, hyperkalaemia) (see section 5.3). Should exposure to angiotensin II receptor blockers have occurred from the second trimester of pregnancy, ultrasound check of renal function and skull is recommended. Infants whose mothers have taken angiotensin II receptor blockers should be closely observed for hypotension (see sections 4.3 and 4.4).
 
-There is limited experience with hydrochlorothiazide during pregnancy, especially during the first trimester. Animal studies are insufficient. Hydrochlorothiazide crosses the placenta. Based on the pharmacological mechanism of action of hydrochlorothiazide its use during the second and third trimester may compromise foeto-placental perfusion and may cause foetal and neonatal effects like icterus, disturbance of electrolyte balance and thrombocytopenia.
-
-Hydrochlorothiazide should not be used for gestational oedema, gestational hypertension or preeclampsia due to the risk of decreased plasma volume and placental hypoperfusion, without a beneficial effect on the course of the disease.
+There is limited experience with hydrochlorothiazide during pregnancy, especially during the first trimester. Animal studies are insufficient. Hydrochlorothiazide crosses the placenta. Based on the pharmacological mechanism of action of hydrochlorothiazide its use during the second and third trimester may compromise foeto-placental perfusion and may cause foetal and neonatal effects like icterus, disturbance of electrolyte balance and thrombocytopenia. Hydrochlorothiazide should not be used for gestational oedema, gestational hypertension or preeclampsia due to the risk of decreased plasma volume and placental hypoperfusion, without a beneficial effect on the course of the disease.
 
 Hydrochlorothiazide should not be used for essential hypertension in pregnant women except in rare situations where no other treatment could be used.
 
@@ -416,8 +414,8 @@ Table 1: Tabulated list of adverse reactions (MedDRA) from placebo-controlled st
 |                                                 | Insomnia                                                     | rare     | uncommon      |           |
 |-------------------------------------------------|--------------------------------------------------------------|----------|---------------|-----------|
 |                                                 | Sleep disorders                                              | rare     |               | rare      |
-| Nervous system disorders                        | Dizziness                                                    | common   |               | rare      |
-|                                                 | Syncope                                                      | uncommon | uncommon      |           |
+| Nervous system                                  | Dizziness                                                    | common   |               | rare      |
+| disorders                                       | Syncope                                                      | uncommon | uncommon      |           |
 |                                                 | Paraesthesia                                                 | uncommon |               | rare      |
 |                                                 | Somnolence                                                   |          | rare          |           |
 |                                                 | Headache                                                     |          |               | rare      |
@@ -450,59 +448,58 @@ Table 1: Tabulated list of adverse reactions (MedDRA) from placebo-controlled st
 | Gastrointestinal disorders                      | Abdominal discomfort                                         |          | rare          | rare      |
 | Gastrointestinal disorders                      | Nausea                                                       |          |               | common    |
 | Gastrointestinal disorders                      | Pancreatitis                                                 |          |               | very rare |
-| Hepatobiliary disorders                         | Abnormal hepatic function/liver disorder                     | rare 2   | rare 2        |           |
-|                                                 | Jaundice                                                     |          |               | rare      |
+| Hepatobiliary disorders                         | Abnormal hepatic function/liver                              |          |               |           |
+| Hepatobiliary disorders                         | disorder                                                     | rare 2   | rare 2        |           |
+| Hepatobiliary disorders                         | Jaundice                                                     |          |               | rare      |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                       | Cholestasis                            |          |          | rare      |
-|-------------------------------------------------------|----------------------------------------|----------|----------|-----------|
-| Skin and subcutaneous tissue disorders                | Angioedema (including fatal outcome)   | rare     | rare     |           |
-| Skin and subcutaneous tissue disorders                | Erythema                               | rare     | rare     |           |
-| Skin and subcutaneous tissue disorders                | Pruritus                               | rare     | uncommon |           |
-| Skin and subcutaneous tissue disorders                | Rash                                   | rare     | uncommon | common    |
-| Skin and subcutaneous tissue disorders                | Hyperhidrosis                          | rare     | uncommon |           |
-| Skin and subcutaneous tissue disorders                | Urticaria                              | rare     | rare     | common    |
-| Skin and subcutaneous tissue disorders                | Eczema                                 |          | rare     |           |
-| Skin and subcutaneous tissue disorders                | Drug eruption                          |          | rare     |           |
-| Skin and subcutaneous tissue disorders                | Toxic skin eruption                    |          | rare     |           |
-| Skin and subcutaneous tissue disorders                | Lupus-like syndrome                    |          |          | very rare |
-| Skin and subcutaneous tissue disorders                | Photosensitivity reaction              |          |          | rare      |
-| Skin and subcutaneous tissue disorders                | Toxic epidermal necrolysis             |          |          | very rare |
-| Skin and subcutaneous tissue disorders                | Erythema multiforme                    |          |          | not known |
-| Muscoloskeletal, connective tissue and bone disorders | Back pain                              | uncommon | uncommon |           |
-| Muscoloskeletal, connective tissue and bone disorders | Muscle spasms (cramps in leg)          | uncommon | uncommon | not known |
-| Muscoloskeletal, connective tissue and bone disorders | Myalgia                                | uncommon | uncommon |           |
-| Muscoloskeletal, connective tissue and bone disorders | Arthralgia                             | rare     | rare     |           |
-| Muscoloskeletal, connective tissue and bone disorders | Pain in extremity (leg pain)           | rare     | rare     |           |
-| Muscoloskeletal, connective tissue and bone disorders | Tendon pain (tendonitis-like symptoms) |          | rare     |           |
-| Muscoloskeletal, connective tissue and bone disorders | Systemic lupus erythematosus           | rare 1   |          | very rare |
-| Renal and urinary disorders                           | Renal impairment                       |          | uncommon | not known |
-| Renal and urinary disorders                           | Acute renal failure                    |          | uncommon | uncommon  |
-| Renal and urinary disorders                           | Glucosuria                             |          |          | rare      |
-| Reproductive system and breast disorders              | Erectile dysfunction                   | uncommon |          | common    |
-| General                                               | Chest pain                             | uncommon | uncommon |           |
-| disorders and administration site conditions          | Influenza-like illness                 | rare     | rare     |           |
-| disorders and administration site conditions          | Pain                                   | rare     |          |           |
-| disorders and administration site conditions          | Asthenia (weakness)                    |          | uncommon | not known |
-| disorders and administration site conditions          | Pyrexia                                |          |          | not known |
-| Investigations                                        | Blood uric acid increased              | uncommon | rare     |           |
-| Investigations                                        | Blood creatinine increased             | rare     | uncommon |           |
-| Investigations                                        | Blood creatine phosphokinase increased | rare     | rare     |           |
+|                                                       | Cholestasis                            |               |               | rare      |
+|-------------------------------------------------------|----------------------------------------|---------------|---------------|-----------|
+| Skin and subcutaneous tissue disorders                | Angioedema (including fatal outcome)   | rare          | rare          |           |
+| Skin and subcutaneous tissue disorders                | Erythema                               | rare          | rare          |           |
+| Skin and subcutaneous tissue disorders                | Pruritus                               | rare          | uncommon      |           |
+| Skin and subcutaneous tissue disorders                | Rash                                   | rare          | uncommon      | common    |
+| Skin and subcutaneous tissue disorders                | Hyperhidrosis                          | rare          | uncommon      |           |
+| Skin and subcutaneous tissue disorders                | Urticaria                              | rare          | rare          | common    |
+| Skin and subcutaneous tissue disorders                | Eczema                                 |               | rare          |           |
+| Skin and subcutaneous tissue disorders                | Drug eruption                          |               | rare          |           |
+| Skin and subcutaneous tissue disorders                | Toxic skin eruption                    |               | rare          |           |
+| Skin and subcutaneous tissue disorders                | Lupus-like syndrome                    |               |               | very rare |
+| Skin and subcutaneous tissue disorders                | Photosensitivity reaction              |               |               | rare      |
+| Skin and subcutaneous tissue disorders                | Toxic epidermal necrolysis             |               |               | very rare |
+| Skin and subcutaneous tissue disorders                | Erythema multiforme                    |               |               | not known |
+| Muscoloskeletal, connective tissue and bone disorders | Back pain                              | uncommon      | uncommon      |           |
+| Muscoloskeletal, connective tissue and bone disorders | Muscle spasms (cramps in leg)          | uncommon      | uncommon      | not known |
+| Muscoloskeletal, connective tissue and bone disorders | Myalgia Arthralgia                     | uncommon rare | uncommon rare |           |
+| Muscoloskeletal, connective tissue and bone disorders | Pain in extremity (leg pain)           | rare          |               |           |
+| Muscoloskeletal, connective tissue and bone disorders |                                        |               | rare          |           |
+| Muscoloskeletal, connective tissue and bone disorders | Tendon pain (tendonitis-like symptoms) |               | rare          |           |
+|                                                       | Systemic lupus erythematosus           | rare 1        |               | very rare |
+| Renal and urinary                                     | Renal impairment                       |               | uncommon      | not known |
+| Renal and urinary                                     | Acute renal failure                    |               | uncommon      | uncommon  |
+| disorders                                             | Glucosuria                             |               |               | rare      |
+| Reproductive system and breast disorders              | Erectile dysfunction                   | uncommon      |               | common    |
+| General disorders and                                 | Chest pain                             | uncommon      | uncommon      |           |
+| administration site conditions                        | Influenza-like illness                 | rare          | rare          |           |
+| administration site conditions                        | Pain                                   | rare          |               | not known |
+| administration site conditions                        | Asthenia (weakness)                    |               | uncommon      |           |
+| Investigations                                        | Pyrexia Blood uric acid increased      |               |               | not known |
+|                                                       |                                        | uncommon      | rare          |           |
+|                                                       | Blood creatinine increased             | rare          | uncommon      |           |
+|                                                       | Blood creatine phosphokinase increased | rare          | rare          |           |
 
 <div style=\"page-break-after: always\"></div>
-
-1
 
 | Hepatic enzyme increased   | rare   | rare   |
 |----------------------------|--------|--------|
 | Haemoglobin decreased      |        | rare   |
 
-Based on post-marketing experience
+1 Based on post-marketing experience
 
 2 See subsections below for additional information
 
-a Adverse reactions occurred with similar frequency in placebo and telmisartan treated patients. The overall incidence of adverse reactions reported with telmisartan (41.4%) was usually comparable to placebo (43.9%) in placebo controlled trials. The adverse reactions listed above have been accumulated from all clinical trials in patients treated with telmisartan for hypertension or in patients 50 years or older at high risk of cardiovascular events.
+- a Adverse reactions occurred with similar frequency in placebo and telmisartan treated patients. The overall incidence of adverse reactions reported with telmisartan (41.4%) was usually comparable to placebo (43.9%) in placebo controlled trials. The adverse reactions listed above have been accumulated from all clinical trials in patients treated with telmisartan for hypertension or in patients 50 years or older at high risk of cardiovascular events.
 
 ## Description of selected adverse reactions
 
@@ -528,7 +525,7 @@ Cases of intestinal angioedema have been reported after the use of angiotensin I
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -634,13 +631,13 @@ Hydrochlorothiazide is 64 % protein bound in the plasma and its apparent volume 
 
 ## Biotransformation
 
-Telmisartan is metabolised by conjugation to form a pharmacologically inactive acylglucuronide. The glucuronide of the parent compound is the only metabolite that has been identified in humans. After a single dose of 14 C-labelled telmisartan the glucuronide represents approximately 11 % of the measured radioactivity in plasma. The cytochrome P450 isoenzymes are not involved in the metabolism of telmisartan.
+Telmisartan is metabolised by conjugation to form a pharmacologically inactive acylglucuronide. The glucuronide of the parent compound is the only metabolite that has been identified in humans. After a single dose of  14 C-labelled telmisartan the glucuronide represents approximately 11 % of the measured radioactivity in plasma. The cytochrome P450 isoenzymes are not involved in the metabolism of telmisartan.
 
 Hydrochlorothiazide is not metabolised in man.
 
 ## Elimination
 
-Telmisartan: Following either intravenous or oral administration of 14 C-labelled telmisartan most of the administered dose (&gt;97 %) was eliminated in faeces via biliary excretion. Only minute amounts were found in urine. Total plasma clearance of telmisartan after oral administration is &gt;1 500 mL/min. Terminal elimination half-life was &gt;20 hours.
+Telmisartan: Following either intravenous or oral administration of  14 C-labelled telmisartan most of the administered dose (&gt;97 %) was eliminated in faeces via biliary excretion. Only minute amounts were found in urine. Total plasma clearance of telmisartan after oral administration is &gt;1 500 mL/min. Terminal elimination half-life was &gt;20 hours.
 
 Hydrochlorothiazide is excreted almost entirely as unchanged substance in urine. About 60 % of the oral dose is eliminated within 48 hours. Renal clearance is about 250-300 mL/min. The terminal elimination half-life of hydrochlorothiazide is 10-15 hours.
 
@@ -694,7 +691,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-2 years
+3 years
 
 ## 6.4 Special precautions for storage
 
@@ -718,17 +715,19 @@ KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovenia
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
+## Tolucombi 40 mg/12.5 mg tablets
+
+## Tolucombi 80 mg/12.5 mg tablets
+
 ```
-Tolucombi 40 mg/12.5 mg tablets EU/1/13/821/003 EU/1/13/821/004 EU/1/13/821/005 EU/1/13/821/006 EU/1/13/821/007 EU/1/13/821/008 EU/1/13/821/009 EU/1/13/821/010 EU/1/13/821/031 Tolucombi 80 mg/12.5 mg tablets EU/1/13/821/013 EU/1/13/821/014 EU/1/13/821/015 EU/1/13/821/016 EU/1/13/821/017 EU/1/13/821/018 EU/1/13/821/019 EU/1/13/821/020 EU/1/13/821/032
+EU/1/13/821/003 EU/1/13/821/004 EU/1/13/821/005 EU/1/13/821/006 EU/1/13/821/007 EU/1/13/821/008 EU/1/13/821/009 EU/1/13/821/010 EU/1/13/821/031 EU/1/13/821/013 EU/1/13/821/014 EU/1/13/821/015 EU/1/13/821/016 EU/1/13/821/017 EU/1/13/821/018 EU/1/13/821/019 EU/1/13/821/020 EU/1/13/821/032
 ```
 
 <div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 13 March 2013
-
-Date of latest renewal: 8 January 2018
+Date of first authorisation: 13 March 2013 Date of latest renewal: 8 January 2018
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -836,9 +835,9 @@ Telmisartan/hydrochlorothiazide must not be used in patients with severe renal i
 
 ## Volume and/or sodium depleted patients
 
-Symptomatic hypotension, especially after the first dose, may occur in patients who are volume and/or sodium depleted by vigorous diuretic therapy, dietary salt restriction, diarrhoea or vomiting. Such conditions especially volume and/or sodium depletion, should be corrected before the administration of Tolucombi.
+Symptomatic hypotension, especially after the first dose, may occur in patients who are volume and/or sodium depleted by vigorous diuretic therapy, dietary salt restriction, diarrhoea or vomiting. Such conditions especially volume and/or sodium depletion, should be corrected before the administration of Tolucombi. Isolated cases of hyponatraemia accompanied by neurological symptoms (nausea, progressive
 
-Isolated cases of hyponatraemia accompanied by neurological symptoms (nausea, progressive disorientation, apathy) have been observed with the use of hydrochlorothiazide.
+disorientation, apathy) have been observed with the use of hydrochlorothiazide.
 
 ## Dual blockade of the renin-angiotensin-aldosterone system (RAAS)
 
@@ -846,13 +845,9 @@ There is evidence that the concomitant use of ACE-inhibitors, angiotensin II rec
 
 Other conditions with stimulation of the renin-angiotensin-aldosterone system In patients whose vascular tone and renal function depend predominantly on the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with medicinal products that affect this system has been associated with acute hypotension, hyperazotaemia, oliguria, or rarely acute renal failure (see section 4.8).
 
-## Primary aldosteronism
+Primary aldosteronism Patients with primary aldosteronism generally will not respond to antihypertensive medicinal products acting through inhibition of the renin-angiotensin system. Therefore, the use of telmisartan/hydrochlorothiazide is not recommended.
 
-Patients with primary aldosteronism generally will not respond to antihypertensive medicinal products acting through inhibition of the renin-angiotensin system. Therefore, the use of telmisartan/hydrochlorothiazide is not recommended.
-
-Aortic and mitral valve stenosis, obstructive hypertrophic cardiomyopathy As with other vasodilators, special caution is indicated in patients suffering from aortic or mitral
-
-stenosis, or obstructive hypertrophic cardiomyopathy.
+Aortic and mitral valve stenosis, obstructive hypertrophic cardiomyopathy As with other vasodilators, special caution is indicated in patients suffering from aortic or mitral stenosis, or obstructive hypertrophic cardiomyopathy.
 
 ## Metabolic and endocrine effects
 
@@ -950,7 +945,9 @@ If these medicinal products are to be prescribed with the hydrochlorothiazide-te
 
 ## Medicinal products affected by serum potassium disturbances
 
-Periodic monitoring of serum potassium and ECG is recommended when telmisartan/hydrochlorothiazide is administered with medicinal products affected by serum potassium disturbances (e.g. digitalis glycosides, antiarrhythmics) and the following torsades de pointes inducing medicinal products (which include some antiarrhythmics), hypokalaemia being a predisposing factor to torsades de pointes.
+## Periodic monitoring of serum potassium and ECG is recommended when
+
+telmisartan/hydrochlorothiazide is administered with medicinal products affected by serum potassium disturbances (e.g. digitalis glycosides, antiarrhythmics) and the following torsades de pointes inducing medicinal products (which include some antiarrhythmics), hypokalaemia being a predisposing factor to torsades de pointes.
 
 - -class Ia antiarrythmics (e.g. quinidine, hydroquinidine, disopyramide)
 - -class III antiarrythmics (e.g. amiodarone, sotalol, dofetilide, ibutilide)
@@ -991,7 +988,7 @@ NSAIDs (i.e. acetylsalicylic acid at anti-inflammatory dose regimens, COX-2 inhi
 
 In one study the co-administration of telmisartan and ramipril led to an increase of up to 2.5 fold in the AUC0-24 and Cmax of ramipril and ramiprilat. The clinical relevance of this observation is not known.
 
-## Pressor amines (e.g. noradrenaline)
+Pressor amines (e.g. noradrenaline)
 
 The effect of pressor amines may be decreased.
 
@@ -1035,9 +1032,9 @@ Epidemiological evidence regarding the risk of teratogenicity following exposure
 
 Exposure to angiotensin II receptor blocker therapy during the second and third trimesters is known to induce human foetotoxicity (decreased renal function, oligohydramnios, skull ossification retardation) and neonatal toxicity (renal failure, hypotension, hyperkalaemia) (see section 5.3). Should exposure to angiotensin II receptor blockers have occurred from the second trimester of pregnancy, ultrasound check of renal function and skull is recommended. Infants whose mothers have taken angiotensin II receptor blockers should be closely observed for hypotension (see sections 4.3 and 4.4).
 
-There is limited experience with hydrochlorothiazide during pregnancy, especially during the first trimester. Animal studies are insufficient. Hydrochlorothiazide crosses the placenta. Based on the pharmacological mechanism of action of hydrochlorothiazide its use during the second and third trimester may compromise foeto-placental perfusion and may cause foetal and neonatal effects like icterus, disturbance of electrolyte balance and thrombocytopenia.
+There is limited experience with hydrochlorothiazide during pregnancy, especially during the first trimester. Animal studies are insufficient. Hydrochlorothiazide crosses the placenta. Based on the pharmacological mechanism of action of hydrochlorothiazide its use during the second and third icterus, disturbance of electrolyte balance and thrombocytopenia.
 
-Hydrochlorothiazide should not be used for gestational oedema, gestational hypertension or preeclampsia due to the risk of decreased plasma volume and placental hypoperfusion, without a beneficial effect on the course of the disease.
+trimester may compromise foeto-placental perfusion and may cause foetal and neonatal effects like Hydrochlorothiazide should not be used for gestational oedema, gestational hypertension or preeclampsia due to the risk of decreased plasma volume and placental hypoperfusion, without a beneficial effect on the course of the disease.
 
 Hydrochlorothiazide should not be used for essential hypertension in pregnant women except in rare situations where no other treatment could be used.
 
@@ -1123,8 +1120,8 @@ Table 1: Tabulated list of adverse reactions (MedDRA) from placebo-controlled st
 |                                                 | Insomnia                                                     | rare     | uncommon      |           |
 |-------------------------------------------------|--------------------------------------------------------------|----------|---------------|-----------|
 |                                                 | Sleep disorders                                              | rare     |               | rare      |
-| Nervous system disorders                        | Dizziness                                                    | common   |               | rare      |
-|                                                 | Syncope                                                      | uncommon | uncommon      |           |
+| Nervous system                                  | Dizziness                                                    | common   |               | rare      |
+| disorders                                       | Syncope                                                      | uncommon | uncommon      |           |
 |                                                 | Paraesthesia                                                 | uncommon |               | rare      |
 |                                                 | Somnolence                                                   |          | rare          |           |
 |                                                 | Headache                                                     |          |               | rare      |
@@ -1157,59 +1154,56 @@ Table 1: Tabulated list of adverse reactions (MedDRA) from placebo-controlled st
 | Gastrointestinal disorders                      | Abdominal discomfort                                         |          | rare          | rare      |
 | Gastrointestinal disorders                      | Nausea                                                       |          |               | common    |
 | Gastrointestinal disorders                      | Pancreatitis                                                 |          |               | very rare |
-| Hepatobiliary disorders                         | Abnormal hepatic function/liver disorder                     | rare 2   | rare 2        |           |
-|                                                 | Jaundice                                                     |          |               | rare      |
+| Hepatobiliary disorders                         | Abnormal hepatic function/liver                              |          |               |           |
+| Hepatobiliary disorders                         | disorder                                                     | rare 2   | rare 2        |           |
+| Hepatobiliary disorders                         | Jaundice                                                     |          |               | rare      |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                       | Cholestasis                            |          |          | rare      |
-|-------------------------------------------------------|----------------------------------------|----------|----------|-----------|
-| Skin and subcutaneous tissue disorders                | Angioedema (including fatal outcome)   | rare     | rare     |           |
-| Skin and subcutaneous tissue disorders                | Erythema                               | rare     | rare     |           |
-| Skin and subcutaneous tissue disorders                | Pruritus                               | rare     | uncommon |           |
-| Skin and subcutaneous tissue disorders                | Rash                                   | rare     | uncommon | common    |
-| Skin and subcutaneous tissue disorders                | Hyperhidrosis                          | rare     | uncommon |           |
-| Skin and subcutaneous tissue disorders                | Urticaria                              | rare     | rare     | common    |
-| Skin and subcutaneous tissue disorders                | Eczema                                 |          | rare     |           |
-| Skin and subcutaneous tissue disorders                | Drug eruption                          |          | rare     |           |
-| Skin and subcutaneous tissue disorders                | Toxic skin eruption                    |          | rare     |           |
-| Skin and subcutaneous tissue disorders                | Lupus-like syndrome                    |          |          | very rare |
-| Skin and subcutaneous tissue disorders                | Photosensitivity reaction              |          |          | rare      |
-| Skin and subcutaneous tissue disorders                | Toxic epidermal necrolysis             |          |          | very rare |
-| Skin and subcutaneous tissue disorders                | Erythema multiforme                    |          |          | not known |
-| Muscoloskeletal, connective tissue and bone disorders | Back pain                              | uncommon | uncommon |           |
-| Muscoloskeletal, connective tissue and bone disorders | Muscle spasms (cramps in leg)          | uncommon | uncommon | not known |
-| Muscoloskeletal, connective tissue and bone disorders | Myalgia                                | uncommon | uncommon |           |
-| Muscoloskeletal, connective tissue and bone disorders | Arthralgia                             | rare     | rare     |           |
-| Muscoloskeletal, connective tissue and bone disorders | Pain in extremity (leg pain)           | rare     | rare     |           |
-| Muscoloskeletal, connective tissue and bone disorders | Tendon pain (tendonitis-like symptoms) |          | rare     |           |
-| Muscoloskeletal, connective tissue and bone disorders | Systemic lupus erythematosus           | rare 1   |          | very rare |
-| Renal and urinary disorders                           | Renal impairment                       |          | uncommon | not known |
-| Renal and urinary disorders                           | Acute renal failure                    |          | uncommon | uncommon  |
-| Renal and urinary disorders                           | Glucosuria                             |          |          | rare      |
-| Reproductive system and breast disorders              | Erectile dysfunction                   | uncommon |          | common    |
-| General                                               | Chest pain                             | uncommon | uncommon |           |
-| disorders and administration site conditions          | Influenza-like illness                 | rare     | rare     |           |
-| disorders and administration site conditions          | Pain                                   | rare     |          |           |
-| disorders and administration site conditions          | Asthenia (weakness)                    |          | uncommon | not known |
-| disorders and administration site conditions          | Pyrexia                                |          |          | not known |
-| Investigations                                        | Blood uric acid increased              | uncommon | rare     |           |
-| Investigations                                        | Blood creatinine increased             | rare     | uncommon |           |
-| Investigations                                        | Blood creatine phosphokinase increased | rare     | rare     |           |
+|                                                       | Cholestasis                            |               |               | rare      |
+|-------------------------------------------------------|----------------------------------------|---------------|---------------|-----------|
+| Skin and subcutaneous tissue disorders                | Angioedema (including fatal outcome)   | rare          | rare          |           |
+| Skin and subcutaneous tissue disorders                | Erythema                               | rare          | rare          |           |
+| Skin and subcutaneous tissue disorders                | Pruritus                               | rare          | uncommon      |           |
+| Skin and subcutaneous tissue disorders                | Rash                                   | rare          | uncommon      | common    |
+| Skin and subcutaneous tissue disorders                | Hyperhidrosis                          | rare          | uncommon      |           |
+| Skin and subcutaneous tissue disorders                | Urticaria                              | rare          | rare          | common    |
+| Skin and subcutaneous tissue disorders                | Eczema                                 |               | rare          |           |
+| Skin and subcutaneous tissue disorders                | Drug eruption                          |               | rare          |           |
+| Skin and subcutaneous tissue disorders                | Toxic skin eruption                    |               | rare          |           |
+| Skin and subcutaneous tissue disorders                | Lupus-like syndrome                    |               |               | very rare |
+| Skin and subcutaneous tissue disorders                | Photosensitivity reaction              |               |               | rare      |
+| Skin and subcutaneous tissue disorders                | Toxic epidermal necrolysis             |               |               | very rare |
+| Skin and subcutaneous tissue disorders                | Erythema multiforme                    |               |               | not known |
+| Muscoloskeletal, connective tissue and bone disorders | Back pain                              | uncommon      | uncommon      |           |
+| Muscoloskeletal, connective tissue and bone disorders | Muscle spasms (cramps in leg)          | uncommon      | uncommon      | not known |
+| Muscoloskeletal, connective tissue and bone disorders | Myalgia Arthralgia                     | uncommon rare | uncommon rare |           |
+| Muscoloskeletal, connective tissue and bone disorders | Pain in extremity (leg pain)           | rare          |               |           |
+| Muscoloskeletal, connective tissue and bone disorders |                                        |               | rare          |           |
+| Muscoloskeletal, connective tissue and bone disorders | Tendon pain (tendonitis-like symptoms) |               | rare          |           |
+|                                                       | Systemic lupus erythematosus           | rare 1        |               | very rare |
+| Renal and urinary                                     | Renal impairment                       |               | uncommon      | not known |
+| Renal and urinary                                     | Acute renal failure                    |               | uncommon      | uncommon  |
+| disorders                                             | Glucosuria                             |               |               | rare      |
+| Reproductive system and breast disorders              | Erectile dysfunction                   | uncommon      |               | common    |
+| General disorders and                                 | Chest pain                             | uncommon      | uncommon      |           |
+| administration site conditions                        | Influenza-like illness                 | rare          | rare          |           |
+| administration site conditions                        | Pain                                   | rare          |               | not known |
+| administration site conditions                        | Asthenia (weakness)                    |               | uncommon      |           |
+| Investigations                                        | Pyrexia Blood uric acid increased      |               |               | not known |
+|                                                       |                                        | uncommon      | rare          |           |
+|                                                       | Blood creatinine increased             | rare          | uncommon      |           |
+|                                                       | Blood creatine phosphokinase increased | rare          | rare          |           |
 
 <div style=\"page-break-after: always\"></div>
-
-1
 
 | Hepatic enzyme increased   | rare   | rare   |
 |----------------------------|--------|--------|
 | Haemoglobin decreased      |        | rare   |
 
-Based on post-marketing experience
-
 2 See subsections below for additional information
 
-a Adverse reactions occurred with similar frequency in placebo and telmisartan treated patients. The overall incidence of adverse reactions reported with telmisartan (41.4%) was usually comparable to placebo (43.9%) in placebo controlled trials. The adverse reactions listed above have been accumulated from all clinical trials in patients treated with telmisartan for hypertension or in patients 50 years or older at high risk of cardiovascular events.
+- a Adverse reactions occurred with similar frequency in placebo and telmisartan treated patients. The overall incidence of adverse reactions reported with telmisartan (41.4%) was usually comparable to placebo (43.9%) in placebo controlled trials. The adverse reactions listed above have been accumulated from all clinical trials in patients treated with telmisartan for hypertension or in patients 50 years or older at high risk of cardiovascular events.
 
 ## Description of selected adverse reactions
 
@@ -1285,9 +1279,7 @@ Upon abrupt cessation of treatment with telmisartan, blood pressure gradually re
 
 ## Clinical efficacy and safety
 
-## Cardiovascular prevention
-
-ONTARGET (ONgoing Telmisartan Alone and in Combination with Ramipril Global Endpoint Trial) compared the effects of telmisartan, ramipril and the combination of telmisartan and ramipril on cardiovascular outcomes in 25 620 patients aged 55 years or older with a history of coronary artery disease, stroke, TIA, peripheral arterial disease, or type 2 diabetes mellitus accompanied by evidence of end-organ damage (e.g. retinopathy, left ventricular hypertrophy, macro- or microalbuminuria), which is a population at risk for cardiovascular events.
+Cardiovascular prevention ONTARGET (ONgoing Telmisartan Alone and in Combination with Ramipril Global Endpoint Trial) compared the effects of telmisartan, ramipril and the combination of telmisartan and ramipril on cardiovascular outcomes in 25 620 patients aged 55 years or older with a history of coronary artery disease, stroke, TIA, peripheral arterial disease, or type 2 diabetes mellitus accompanied by evidence of end-organ damage (e.g. retinopathy, left ventricular hypertrophy, macro- or microalbuminuria), which is a population at risk for cardiovascular events.
 
 Patients were randomised to one of the three following treatment groups: telmisartan 80 mg (n = 8 542), ramipril 10 mg (n = 8 576), or the combination of telmisartan 80 mg plus ramipril 10 mg (n = 8 502), and followed for a mean observation time of 4.5 years.
 
@@ -1305,21 +1297,17 @@ Combining telmisartan with ramipril did not add further benefit over ramipril or
 
 In the 'Prevention Regimen For Effectively avoiding Second Strokes' (PRoFESS) trial in patients 50 years and older, who recently experienced stroke, an increased incidence of sepsis was noted for telmisartan compared with placebo, 0.70 % vs. 0.49 % [RR 1.43 (95 % confidence interval 1.00-2.06)]; the incidence of fatal sepsis cases was increased for patients taking telmisartan (0.33 %) vs. patients taking placebo (0.16 %) [RR 2.07 (95 % confidence interval 1.14-3.76)]. The observed increased occurrence rate of sepsis associated with the use of telmisartan may be either a chance finding or related to a mechanism not currently known.
 
-Two large randomised, controlled trials (ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) and VA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes)) have examined the use of the combination of an ACE-inhibitor with an angiotensin II receptor blocker.
+Two large randomised, controlled trials (ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) and VA NEPHRON-D (The Veterans Affairs angiotensin II receptor blocker.
 
-ONTARGET was a study conducted in patients with a history of cardiovascular or cerebrovascular disease, or type 2 diabetes mellitus accompanied by evidence of end-organ damage. For more detailed information see above under the heading 'Cardiovascular prevention'.
+Nephropathy in Diabetes)) have examined the use of the combination of an ACE-inhibitor with an ONTARGET was a study conducted in patients with a history of cardiovascular or cerebrovascular disease, or type 2 diabetes mellitus accompanied by evidence of end-organ damage. For more detailed information see above under the heading 'Cardiovascular prevention'. VA NEPHRON-D was a study in patients with type 2 diabetes mellitus and diabetic nephropathy. These studies have shown no significant beneficial effect on renal and/or cardiovascular outcomes and mortality, while an increased risk of hyperkalaemia, acute kidney injury and/or hypotension as compared to monotherapy was observed. Given their similar pharmacodynamic properties, these results are also relevant for other ACE-inhibitors and angiotensin II receptor blockers. ACE-inhibitors and angiotensin II receptor blockers should therefore not be used concomitantly in patients with diabetic nephropathy. ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease Endpoints)
 
-VA NEPHRON-D was a study in patients with type 2 diabetes mellitus and diabetic nephropathy. These studies have shown no significant beneficial effect on renal and/or cardiovascular outcomes and mortality, while an increased risk of hyperkalaemia, acute kidney injury and/or hypotension as compared to monotherapy was observed. Given their similar pharmacodynamic properties, these results are also relevant for other ACE-inhibitors and angiotensin II receptor blockers. ACE-inhibitors and angiotensin II receptor blockers should therefore not be used concomitantly in patients with diabetic nephropathy.
-
-ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease Endpoints) was a study designed to test the benefit of adding aliskiren to a standard therapy of an ACE-inhibitor or an angiotensin II receptor blocker in patients with type 2 diabetes mellitus and chronic kidney disease, cardiovascular disease, or both. The study was terminated early because of an increased risk of adverse outcomes. Cardiovascular death and stroke were both numerically more frequent in the aliskiren group than in the placebo group and adverse events and serious adverse events of interest (hyperkalaemia, hypotension and renal dysfunction) were more frequently reported in the aliskiren group than in the placebo group.
+was a study designed to test the benefit of adding aliskiren to a standard therapy of an ACE-inhibitor or an angiotensin II receptor blocker in patients with type 2 diabetes mellitus and chronic kidney disease, cardiovascular disease, or both. The study was terminated early because of an increased risk of adverse outcomes. Cardiovascular death and stroke were both numerically more frequent in the aliskiren group than in the placebo group and adverse events and serious adverse events of interest (hyperkalaemia, hypotension and renal dysfunction) were more frequently reported in the aliskiren group than in the placebo group.
 
 Epidemiological studies have shown that long-term treatment with hydrochlorothiazide reduces the risk of cardiovascular mortality and morbidity.
 
 The effects of fixed dose combination of telmisartan/hydrochlorothiazide on mortality and cardiovascular morbidity are currently unknown.
 
-## Non-melanoma skin cancer
-
-Based on available data from epidemiological studies, cumulative dose-dependent association between hydrochlorothiazide and NMSC has been observed. One study included a population comprised of 71 533 cases of BCC and of 8 629 cases of SCC matched to 1 430 833 and 172 462 population controls, respectively. High hydrochlorothiazide use (≥ 50 000 mg cumulative) was associated with an adjusted OR of 1.29 (95% CI: 1.23-1.35) for BCC and 3.98 (95% CI: 3.68-4.31) for SCC. A clear cumulative dose-response relationship was observed for both BCC and SCC. Another study showed a possible association between lip cancer (SCC) and exposure to hydrochlorothiazide: 633 cases of lipcancer were matched with 63 067 population controls, using a risk-set sampling strategy. A cumulative dose-response relationship was demonstrated with an adjusted OR 2.1 (95% CI: 1.7-2.6) increasing to OR 3.9 (3.0-4.9) for high use (~25 000 mg) and OR 7.7 (5.7-10.5) for the highest cumulative dose (~100 000 mg) (see also section 4.4).
+Non-melanoma skin cancer Based on available data from epidemiological studies, cumulative dose-dependent association between hydrochlorothiazide and NMSC has been observed. One study included a population comprised of 71 533 cases of BCC and of 8 629 cases of SCC matched to 1 430 833 and 172 462 population controls, respectively. High hydrochlorothiazide use (≥ 50 000 mg cumulative) was associated with an adjusted OR of 1.29 (95% CI: 1.23-1.35) for BCC and 3.98 (95% CI: 3.68-4.31) for SCC. A clear cumulative dose-response relationship was observed for both BCC and SCC. Another study showed a possible association between lip cancer (SCC) and exposure to hydrochlorothiazide: 633 cases of lipcancer were matched with 63 067 population controls, using a risk-set sampling strategy. A cumulative dose-response relationship was demonstrated with an adjusted OR 2.1 (95% CI: 1.7-2.6) increasing to OR 3.9 (3.0-4.9) for high use (~25 000 mg) and OR 7.7 (5.7-10.5) for the highest cumulative dose (~100 000 mg) (see also section 4.4).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1345,13 +1333,13 @@ Hydrochlorothiazide is 64 % protein bound in the plasma and its apparent volume 
 
 ## Biotransformation
 
-Telmisartan is metabolised by conjugation to form a pharmacologically inactive acylglucuronide. The glucuronide of the parent compound is the only metabolite that has been identified in humans. After a single dose of 14 C-labelled telmisartan the glucuronide represents approximately 11 % of the measured radioactivity in plasma. The cytochrome P450 isoenzymes are not involved in the metabolism of telmisartan.
+Telmisartan is metabolised by conjugation to form a pharmacologically inactive acylglucuronide. The glucuronide of the parent compound is the only metabolite that has been identified in humans. After a single dose of  14 C-labelled telmisartan the glucuronide represents approximately 11 % of the measured radioactivity in plasma. The cytochrome P450 isoenzymes are not involved in the metabolism of telmisartan.
 
 Hydrochlorothiazide is not metabolised in man.
 
 ## Elimination
 
-Telmisartan: Following either intravenous or oral administration of 14 C-labelled telmisartan most of the administered dose (&gt; 97 %) was eliminated in faeces via biliary excretion. Only minute amounts were found in urine. Total plasma clearance of telmisartan after oral administration is &gt;1 500 mL/min. Terminal elimination half-life was &gt; 20 hours.
+Telmisartan: Following either intravenous or oral administration of  14 C-labelled telmisartan most of the administered dose (&gt; 97 %) was eliminated in faeces via biliary excretion. Only minute amounts were found in urine. Total plasma clearance of telmisartan after oral administration is &gt;1 500 mL/min. Terminal elimination half-life was &gt; 20 hours.
 
 Hydrochlorothiazide is excreted almost entirely as unchanged substance in urine. About 60 % of the oral dose is eliminated within 48 hours. Renal clearance is about 250-300 mL/min. The terminal elimination half-life of hydrochlorothiazide is 10-15 hours.
 
@@ -1405,7 +1393,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-2 years
+3 years
 
 ## 6.4 Special precautions for storage
 
@@ -1454,7 +1442,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1511,7 +1499,9 @@ An updated RMP shall be submitted by CHMP agreed deadline.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Tolucombi 40 mg/12.5 mg tablets telmisartan/hydrochlorothiazide
+Tolucombi 40 mg/12.5 mg tablets
+
+telmisartan/hydrochlorothiazide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1523,7 +1513,21 @@ Each tablet contains 40 mg telmisartan and 12.5 mg hydrochlorothiazide.
 
 ## Tablet.
 
-14 x 1 tablet 28 x 1 tablet 30 x 1 tablet 56 x 1 tablet 60 x 1 tablet 84 x 1 tablet 90 x 1 tablet 98 x 1 tablet
+14 x 1 tablet
+
+28 x 1 tablet
+
+30 x 1 tablet
+
+56 x 1 tablet
+
+60 x 1 tablet
+
+84 x 1 tablet
+
+90 x 1 tablet
+
+98 x 1 tablet
 
 100 x 1 tablet
 
@@ -1549,7 +1553,7 @@ EXP
 
 Store in the original package in order to protect from light and moisture.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1567,7 +1571,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1587,34 +1591,42 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+BLISTER
+
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Tolucombi 40 mg/12.5 mg tablets telmisartan/hydrochlorothiazide
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 KRKA
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
 | 5.   | OTHER   |
 |------|---------|
 
-Only on blisters containing 7 tablets Mon. Tue. Wed. Thu. Fri. Sat.
+## Only on blisters containing 7 tablets
+
+Mon.
+
+Tue.
+
+Wed.
+
+Thu.
+
+Fri.
+
+Sat.
 
 Sun.
 
@@ -1626,7 +1638,9 @@ Sun.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Tolucombi 80 mg/12.5 mg tablets telmisartan/hydrochlorothiazide
+Tolucombi 80 mg/12.5 mg tablets
+
+telmisartan/hydrochlorothiazide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1638,7 +1652,21 @@ Each tablet contains 80 mg telmisartan and 12.5 mg hydrochlorothiazide.
 
 ## Tablet.
 
-14 x 1 tablet 28 x 1 tablet 30 x 1 tablet 56 x 1 tablet 60 x 1 tablet 84 x 1 tablet 90 x 1 tablet 98 x 1 tablet
+14 x 1 tablet
+
+28 x 1 tablet
+
+30 x 1 tablet
+
+56 x 1 tablet
+
+60 x 1 tablet
+
+84 x 1 tablet
+
+90 x 1 tablet
+
+98 x 1 tablet
 
 100 x 1 tablet
 
@@ -1664,7 +1692,7 @@ EXP
 
 Store in the original package in order to protect from light and moisture.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1702,34 +1730,43 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+BLISTER
+
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Tolucombi 80 mg/12.5 mg tablets telmisartan/hydrochlorothiazide
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 KRKA
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
-Only on blisters containing 7 tablets Mon. Tue. Wed. Thu. Fri. Sat. Sun.
+## Only on blisters containing 7 tablets
+
+Mon.
+
+Tue.
+
+Wed.
+
+Thu.
+
+Fri.
+
+Sat.
+
+Sun.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1739,7 +1776,9 @@ Only on blisters containing 7 tablets Mon. Tue. Wed. Thu. Fri. Sat. Sun.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Tolucombi 80 mg/25 mg tablets telmisartan/hydrochlorothiazide
+Tolucombi 80 mg/25 mg tablets
+
+telmisartan/hydrochlorothiazide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1751,7 +1790,21 @@ Each tablet contains 80 mg telmisartan and 25 mg hydrochlorothiazide.
 
 ## Tablet.
 
-14 x 1 tablet 28 x 1 tablet 30 x 1 tablet 56 x 1 tablet 60 x 1 tablet 84 x 1 tablet 90 x 1 tablet 98 x 1 tablet
+14 x 1 tablet
+
+28 x 1 tablet
+
+30 x 1 tablet
+
+56 x 1 tablet
+
+60 x 1 tablet
+
+84 x 1 tablet
+
+90 x 1 tablet
+
+98 x 1 tablet
 
 100 x 1 tablet
 
@@ -1761,7 +1814,7 @@ Read the package leaflet before use.
 
 Oral use
 
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -1807,40 +1860,52 @@ Tolucombi 80 mg/25 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+BLISTER
+
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Tolucombi 80 mg/25 mg tablets telmisartan/hydrochlorothiazide
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 KRKA
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
 | 5.   | OTHER   |
 |------|---------|
 
-Only on blisters containing 7 tablets Mon. Tue. Wed. Thu. Fri. Sat. Sun.
+## Only on blisters containing 7 tablets
+
+Mon.
+
+Tue.
+
+Wed.
+
+Thu.
+
+Fri.
+
+Sat.
+
+Sun.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2107,8 +2172,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Tolucombi contains
 
-- -The active substances are telmisartan and hydrochlorothiazide. Each tablet contains 40 mg telmisartan and 12.5 mg hydrochlorothiazide. Each tablet contains 80 mg telmisartan and 12.5 mg hydrochlorothiazide.
-- Each tablet contains 80 mg telmisartan and 25 mg hydrochlorothiazide.
+- -The active substances are telmisartan and hydrochlorothiazide. Each tablet contains 40 mg telmisartan and 12.5 mg hydrochlorothiazide. Each tablet contains 80 mg telmisartan and 12.5 mg hydrochlorothiazide. Each tablet contains 80 mg telmisartan and 25 mg hydrochlorothiazide.
 - -The other ingredients are: povidone K30, sodium hydroxide, mannitol, microcrystalline cellulose, meglumine, croscarmellose sodium, sodium stearyl fumarate, silica, colloidal anhydrous, red iron oxide (E172) - only for 40 mg/12.5 mg and 80 mg/12.5 mg tablets, and yellow iron oxide (E172) - only for 80 mg/12.5 mg tablets and 80 mg/25 mg tablets. See section 2 \"Tolucombi contains sodium\".
 
 ## What Tolucombi looks like and contents of the pack
@@ -2129,11 +2193,13 @@ KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovenia
 
 ## Manufacturers
 
-KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovenia KRKAPOLSKA Sp. z o.o., ul. Równoległa 5, 02 -235 Warszawa, Poland TAD Pharma GmbH, Heinz-Lohmann-Straße 5, 27472 Cuxhaven, Germany
+KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovenia KRKA-POLSKA Sp. z o.o., ul. Równoległa 5, 02-235 Warszawa, Poland TAD Pharma GmbH, Heinz-Lohmann-Straße 5, 27472 Cuxhaven, Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien KRKA Belgium, SA. Tél/Tel: +32 (0) 487 50 73 62
+België/Belgique/Belgien KRKA Belgium, SA. Tél/Tel:
+
++32 (0) 487 50 73 62
 
 Lietuva UAB KRKA Lietuva Tel: + 370 5 236 27 40
 
@@ -2143,11 +2209,7 @@ Lietuva UAB KRKA Lietuva Tel: + 370 5 236 27 40
 
 КРКА България ЕООД Teл.: + 359 (02) 962 34 50
 
-## Česká republika
-
-KRKA ČR, s.r.o.
-
-Tel: + 420 (0) 221 115 150
+## Česká republika KRKA ČR, s.r.o. Tel: + 420 (0) 221 115 150
 
 ## Danmark
 
@@ -2155,7 +2217,9 @@ KRKA Sverige AB Tlf: + 46 (0)8 643 67 66 (SE)
 
 ## Deutschland
 
-TAD Pharma GmbH Tel: + 49 (0) 4721 606-0
+TAD Pharma GmbH
+
+Tel: + 49 (0) 4721 606-0
 
 ## Eesti
 
@@ -2183,7 +2247,9 @@ KRKA Pharma Dublin, Ltd. Tel: + 353 1 413 3710
 
 ## Ísland
 
-LYFIS ehf. Sími: + 354 534 3500
+LYFIS ehf.
+
+Sími: + 354 534 3500
 
 ## Italia
 
@@ -2215,7 +2281,9 @@ KRKA Belgium, SA. Tel: + 32 (0) 487 50 73 62 (BE)
 
 ## Norge
 
-KRKA Sverige AB Tlf: + 46 (0)8 643 67 66 (SE)
+KRKA Sverige AB
+
+Tlf: + 46 (0)8 643 67 66 (SE)
 
 ## Österreich
 
@@ -2227,9 +2295,7 @@ KRKA-POLSKA Sp. z o.o. Tel.: + 48 (0)22 573 7500
 
 ## Portugal
 
-KRKA Farmacêutica, Sociedade Unipessoal Lda.
-
-Tel: + 351 (0)21 46 43 650
+KRKA Farmacêutica, Sociedade Unipessoal Lda. Tel: + 351 (0)21 46 43 650
 
 ## România
 
@@ -2247,9 +2313,9 @@ KRKA Slovensko, s.r.o. Tel: + 421 (0) 2 571 04 501
 
 KRKA Finland Oy Puh/Tel: +358 20 754 5330
 
-Sverige KRKA Sverige AB
+## Sverige
 
-Tel: + 46 (0)8 643 67 66 (SE)
+KRKA Sverige AB Tel: + 46 (0)8 643 67 66 (SE)
 
 <div style=\"page-break-after: always\"></div>
 

@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zonegran.html
 document_name: zonegran.html
 version: success
-processing_time: 0.4501999
-conversion_datetime: 2026-07-28 12:28:19.862641
+processing_time: 0.1804248
+conversion_datetime: 2026-07-28 12:51:12.512485
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/apixaban-accord.html
 document_name: apixaban-accord.html
 version: success
-processing_time: 0.137498
-conversion_datetime: 2026-07-28 12:40:01.370602
+processing_time: 0.3085845
+conversion_datetime: 2026-07-28 13:02:53.012136
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

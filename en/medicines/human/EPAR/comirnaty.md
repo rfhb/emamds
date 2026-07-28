@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-06-30 17:48:00
+document_datetime: 2026-07-24 11:37:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/comirnaty.html
 document_name: comirnaty.html
 version: success
-processing_time: 0.3153675
-conversion_datetime: 2026-07-04 13:11:35.0761
+processing_time: 0.4946061
+conversion_datetime: 2026-07-28 12:38:59.68766
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
@@ -227,7 +227,7 @@ English (EN) (165.99 KB - PDF)
 
 [View](/en/documents/overview/comirnaty-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-707)
+[Other languages (22)](#file-language-dropdown-955)
 
 български (BG) (204.05 KB - PDF)
 
@@ -379,7 +379,7 @@ English (EN) (1.93 MB - PDF)
 
 [View](/en/documents/product-information/comirnaty-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-2)
+[Other languages (24)](#file-language-dropdown-712)
 
 български (BG) (4.08 MB - PDF)
 
@@ -552,7 +552,7 @@ English (EN) (41.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-726)
+[Other languages (24)](#file-language-dropdown-185)
 
 български (BG) (134.77 KB - PDF)
 
@@ -1726,11 +1726,19 @@ English (EN) (3.84 MB - ZIP)
 
 Comirnaty : 2.3.S drug substance
 
-English (EN) (26.73 MB - ZIP)
+English (EN) (27.28 MB - ZIP)
 
-**First published:** 25/07/2025 **Last updated:** 30/06/2026
+**First published:** 25/07/2025 **Last updated:** 24/07/2026
 
 [View](/en/documents/other/comirnaty-23s-drug-substance_en.zip)
+
+Comirnaty : 2.3.R general information
+
+English (EN) (3.29 MB - ZIP)
+
+**First published:** 24/07/2026
+
+[View](/en/documents/other/comirnaty-23r-general-information_en.zip)
 
 **Module 2.4 non-clinical overview**
 
@@ -1894,6 +1902,6 @@ English (EN) (813.79 KB - PDF)
 
 **This page was last updated on**
 
-30/06/2026
+24/07/2026
 
 ## Share this page

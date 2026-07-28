@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-12 09:35:00
+document_datetime: 2026-07-21 15:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lysakare.html
 document_name: lysakare.html
 version: success
-processing_time: 0.1717124
-conversion_datetime: 2026-06-13 19:41:14.661553
+processing_time: 0.1607074
+conversion_datetime: 2026-07-28 12:35:07.57537
 docling_version:
-  docling-serve: 1.23.0
-  docling-jobkit: 1.23.0
-  docling: 2.102.1
-  docling-core: 2.82.0
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
   docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # LysaKare
 
@@ -39,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on LysaKare](#news-on)
 - [Product information - with tracked changes](#product-information-with-tracked-changes-76170)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -105,7 +104,7 @@ English (EN) (105.76 KB - PDF)
 
 [View](/en/documents/overview/lysakare-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-788)
+[Other languages (22)](#file-language-dropdown-794)
 
 български (BG) (119.17 KB - PDF)
 
@@ -251,167 +250,168 @@ English (EN) (1.69 MB - PDF)
 
 LysaKare : EPAR - Product information
 
-English (EN) (343.46 KB - PDF)
+English (EN) (361.88 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/en/documents/product-information/lysakare-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-616)
+[Other languages (24)](#file-language-dropdown-156)
 
-български (BG) (381.73 KB - PDF)
+български (BG) (401.37 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/bg/documents/product-information/lysakare-epar-product-information_bg.pdf)
 
-español (ES) (322.08 KB - PDF)
+español (ES) (344.81 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/es/documents/product-information/lysakare-epar-product-information_es.pdf)
 
-čeština (CS) (350.63 KB - PDF)
+čeština (CS) (373.41 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/cs/documents/product-information/lysakare-epar-product-information_cs.pdf)
 
-dansk (DA) (347 KB - PDF)
+dansk (DA) (364.51 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/da/documents/product-information/lysakare-epar-product-information_da.pdf)
 
-Deutsch (DE) (354.12 KB - PDF)
+Deutsch (DE) (370.23 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/de/documents/product-information/lysakare-epar-product-information_de.pdf)
 
-eesti (ET) (319.71 KB - PDF)
+eesti (ET) (342.2 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/et/documents/product-information/lysakare-epar-product-information_et.pdf)
 
-ελληνικά (EL) (363.59 KB - PDF)
+ελληνικά (EL) (387.26 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/el/documents/product-information/lysakare-epar-product-information_el.pdf)
 
-français (FR) (345.92 KB - PDF)
+français (FR) (365.84 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/fr/documents/product-information/lysakare-epar-product-information_fr.pdf)
 
-hrvatski (HR) (347.28 KB - PDF)
+hrvatski (HR) (370.22 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/hr/documents/product-information/lysakare-epar-product-information_hr.pdf)
 
-italiano (IT) (324.82 KB - PDF)
+italiano (IT) (345.58 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/it/documents/product-information/lysakare-epar-product-information_it.pdf)
 
-latviešu (LV) (347.82 KB - PDF)
+latviešu (LV) (371.26 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/lv/documents/product-information/lysakare-epar-product-information_lv.pdf)
 
-lietuvių (LT) (347.5 KB - PDF)
+lietuvių (LT) (370.69 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/lt/documents/product-information/lysakare-epar-product-information_lt.pdf)
 
-magyar (HU) (341.16 KB - PDF)
+magyar (HU) (361.43 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/hu/documents/product-information/lysakare-epar-product-information_hu.pdf)
 
-Malti (MT) (356.51 KB - PDF)
+Malti (MT) (379.01 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/mt/documents/product-information/lysakare-epar-product-information_mt.pdf)
 
-Nederlands (NL) (333.65 KB - PDF)
+Nederlands (NL) (355.21 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/nl/documents/product-information/lysakare-epar-product-information_nl.pdf)
 
-polski (PL) (350.02 KB - PDF)
+polski (PL) (371.98 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/pl/documents/product-information/lysakare-epar-product-information_pl.pdf)
 
-português (PT) (325.35 KB - PDF)
+português (PT) (346.73 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/pt/documents/product-information/lysakare-epar-product-information_pt.pdf)
 
-română (RO) (338.69 KB - PDF)
+română (RO) (361.03 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/ro/documents/product-information/lysakare-epar-product-information_ro.pdf)
 
-slovenčina (SK) (347.81 KB - PDF)
+slovenčina (SK) (369.7 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/sk/documents/product-information/lysakare-epar-product-information_sk.pdf)
 
-slovenščina (SL) (336.17 KB - PDF)
+slovenščina (SL) (359.63 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/sl/documents/product-information/lysakare-epar-product-information_sl.pdf)
 
-suomi (FI) (318.54 KB - PDF)
+suomi (FI) (369.74 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/fi/documents/product-information/lysakare-epar-product-information_fi.pdf)
 
-svenska (SV) (337.86 KB - PDF)
+svenska (SV) (355.28 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/sv/documents/product-information/lysakare-epar-product-information_sv.pdf)
 
-Íslenska (IS) (329.47 KB - PDF)
+Íslenska (IS) (352.43 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/is/documents/product-information/lysakare-epar-product-information_is.pdf)
 
-norsk (NO) (345.97 KB - PDF)
+norsk (NO) (363.27 KB - PDF)
 
-**First published:** 30/07/2019 **Last updated:** 12/06/2026
+**First published:** 30/07/2019 **Last updated:** 21/07/2026
 
 [View](/no/documents/product-information/lysakare-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** T/0000340010
+**Latest procedure affecting product information:** N/0000362496
 
-29/05/2026
+21/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -429,7 +429,7 @@ English (EN) (50.11 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lysakare-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-516)
+[Other languages (24)](#file-language-dropdown-562)
 
 български (BG) (57.08 KB - PDF)
 
@@ -577,27 +577,18 @@ norsk (NO) (54.17 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-LysaKare
-
-Active substance
-
-- L-arginine hydrochloride
-- L-lysine hydrochloride
-
-International non-proprietary name (INN) or common name
-
-- arginine
-- lysine
-
-Therapeutic area (MeSH)
-
-Radiation Injuries
-
-Anatomical therapeutic chemical (ATC) code
-
-V03AF11
+- **Name of medicine**
+    - LysaKare
+- **Active substance**
+        - L-arginine hydrochloride
+        - L-lysine hydrochloride
+- **International non-proprietary name (INN) or common name**
+        - arginine
+        - lysine
+- **Therapeutic area (MeSH)**
+    - Radiation Injuries
+- **Anatomical therapeutic chemical (ATC) code**
+    - V03AF11
 
 ### Pharmacotherapeutic group
 
@@ -609,27 +600,16 @@ LysaKare is indicated for reduction of renal radiation exposure during Peptide-R
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004541
-
-Marketing authorisation holder
-
-Novartis Europharm Limited
-
-Vista Building Elm Park Merrion Road Dublin 4 Ireland
-
-Opinion adopted
-
-29/05/2019
-
-Marketing authorisation issued
-
-25/07/2019
-
-Revision
-
-11
+- **EMA product number**
+    - EMEA/H/C/004541
+- **Marketing authorisation holder**
+    - Novartis Europharm Limited Vista Building  Elm Park  Merrion Road  Dublin 4  Ireland
+- **Opinion adopted**
+    - 29/05/2019
+- **Marketing authorisation issued**
+    - 25/07/2019
+- **Revision**
+    - 12
 
 ## Assessment history
 
@@ -641,13 +621,13 @@ Collapse section
 
 LysaKare : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (150.54 KB - PDF)
+English (EN) (149.72 KB - PDF)
 
-**First published:** 21/05/2025 **Last updated:** 12/06/2026
+**First published:** 21/05/2025 **Last updated:** 21/07/2026
 
 [View](/en/documents/procedural-steps-after/lysakare-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-LysaKare : EPAR -  Procedural steps taken and scientific information after authorisation (archive)
+LysaKare : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
 English (EN) (165.8 KB - PDF)
 
@@ -695,7 +675,7 @@ English (EN) (128.29 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/lysakare-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-851)
+[Other languages (24)](#file-language-dropdown-991)
 
 български (BG) (134.76 KB - DOCX)
 
@@ -841,12 +821,8 @@ norsk (NO) (130.44 KB - DOCX)
 
 [View](/no/documents/product-information-tracked-changes/lysakare-epar-product-information-tracked-changes_no.docx)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-12/06/2026
+21/07/2026
 
 ## Share this page

@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cometriq.html
 document_name: cometriq.html
 version: success
-processing_time: 0.169065
-conversion_datetime: 2026-07-28 12:39:15.306857
+processing_time: 0.1686799
+conversion_datetime: 2026-07-28 13:02:05.787191
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

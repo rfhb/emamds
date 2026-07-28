@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/scemblix.html
 document_name: scemblix.html
 version: success
-processing_time: 0.1549436
-conversion_datetime: 2026-07-28 12:31:31.95614
+processing_time: 0.1550915
+conversion_datetime: 2026-07-28 12:54:19.192518
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

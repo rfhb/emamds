@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 21:06:45
-document_pages: 25
+document_datetime: 2026-07-24 16:50:36
+document_pages: 26
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/desloratadine-teva-epar-product-information_en.pdf
 document_name: desloratadine-teva-epar-product-information_en.pdf
 version: success
-processing_time: 5.2729907
-conversion_datetime: 2025-12-18 07:37:50.191415
+processing_time: 6.1775423
+conversion_datetime: 2026-07-28 13:59:23.281865
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -61,7 +61,9 @@ The recommended dose of Desloratadine Teva 5 mg film-coated tablets is one table
 
 Intermittent allergic rhinitis (presence of symptoms for less than 4 days per week or for less than 4 weeks) discontinued after symptoms are resolved and reinitiated upon their reappearance.
 
-should be managed in accordance with the evaluation of patient's disease history and the treatment could be In persistent allergic rhinitis (presence of symptoms for 4 days or more per week and for more than 4 weeks), continued treatment may be proposed to the patients during the allergen exposure periods.
+should be managed in accordance with the evaluation of patient's disease history and the treatment could be In persistent allergic rhinitis (presence of symptoms for 4 days or more per week and for more than 4 weeks),
+
+continued treatment may be proposed to the patients during the allergen exposure periods.
 
 ## Paediatric population
 
@@ -103,7 +105,7 @@ In a clinical pharmacology trial, desloratadine tablets taken concomitantly with
 
 ## Pregnancy
 
-A large amount of data on pregnant women (more than 1,000 pregnancy outcomes) indicate no malformative nor foeto/ neonatal toxicity of desloratadine. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of Desloratadine Teva 5 mg film-coated tablets during pregnancy.
+A large amount of data on pregnant women (more than 1,000 pregnancy outcomes) indicate no malformative nor foetal/ neonatal toxicity of desloratadine. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of Desloratadine Teva 5 mg film-coated tablets during pregnancy.
 
 ## Breast-feeding
 
@@ -125,10 +127,6 @@ Desloratadine has no or negligible influence on the ability to drive and use mac
 
 In clinical trials in a range of indications including allergic rhinitis and chronic idiopathic urticaria, at the recommended dose of 5 mg daily, undesirable effects with desloratadine were reported in 3 % of patients in excess of those treated with placebo. The most frequent of adverse reactions reported in excess of placebo were fatigue (1.2 %), dry mouth (0.8 %) and headache (0.6 %).
 
-## Paediatric population
-
-In a clinical trial with 578 adolescent patients, 12 through 17 years of age, the most common adverse event was headache; this occurred in 5.9 % of patients treated with desloratadine and 6.9 % of patients receiving placebo.
-
 ## Tabulated list of adverse reactions
 
 The frequency of the clinical trial adverse reactions reported in excess of placebo and other undesirable effects reported during the post-marketing period are listed in the following table Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data).
@@ -136,10 +134,10 @@ The frequency of the clinical trial adverse reactions reported in excess of plac
 | System Organ Class                                   | Frequency                   | Adverse reactions seen with desloratadine                                                                              |
 |------------------------------------------------------|-----------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Metabolism and nutrition disorders                   | Not known                   | Increased appetite                                                                                                     |
-| Psychiatric disorders                                | Very rare Not known         | Hallucinations Abnormal behaviour, aggression, depressed mood                                                          |
+| Psychiatric disorders                                | Very rare Not known         | Hallucinations Abnormal behaviour*, aggression*, depressed mood                                                        |
 | Nervous system disorders                             | Common Very rare            | Headache Dizziness, somnolence, insomnia, psychomotor hyperactivity, seizures                                          |
 | Eye disorders                                        | Not known                   | Eye dryness                                                                                                            |
-| Cardiac disorders                                    | Very rare Not known         | Tachycardia, palpitations QT prolongation                                                                              |
+| Cardiac disorders                                    | Very rare Not known         | Tachycardia, palpitations QT prolongation*                                                                             |
 | Gastrointestinal disorders                           | Common Very rare            | Dry mouth Abdominal pain, nausea, vomiting, dyspepsia, diarrhoea                                                       |
 | Hepatobiliary disorders                              | Very rare Not known:        | Elevations of liver enzymes, increased bilirubin, hepatitis Jaundice                                                   |
 | Skin and subcutaneous tissue disorders               | Not known                   | Photosensitivity                                                                                                       |
@@ -149,7 +147,9 @@ The frequency of the clinical trial adverse reactions reported in excess of plac
 
 ## Paediatric population
 
-Other undesirable effects reported during the post-marketing period in paediatric patients with an unknown frequency included QT prolongation, arrhythmia, bradycardia, abnormal behaviour, and aggression.
+In a clinical trial with 578 adolescent patients, 12 through 17 years of age, the most common adverse event was headache; this occurred in 5.9 % of patients treated with desloratadine and 6.9 % of patients receiving placebo.
+
+Other undesirable effects reported during the post-marketing period in paediatric patients with an unknown frequency included, arrhythmia and bradycardia.
 
 A retrospective observational safety study indicated an increased incidence of new-onset seizure in patients 0 to 19 years of age when receiving desloratadine compared with periods not receiving desloratadine. Among children 0-4 years old, the adjusted absolute increase was 37.5 (95% Confidence Interval (CI) 10.5-64.5) per 100,000 person years (PY) with a background rate of new onset seizure of 80.3 per 100,000 PY. Among patients 5-19 years of age, the adjusted absolute increase was 11.3 (95% CI 2.3-20.2) per 100,000 PY with a background rate of 36.4 per 100,000 PY. (See section 4.4.)
 
@@ -211,7 +211,7 @@ In addition to the established classifications of seasonal and perennial, allerg
 
 Desloratadine was effective in alleviating the burden of seasonal allergic rhinitis as shown by the total score of the rhino-conjunctivitis quality of life questionnaire. The greatest amelioration was seen in the domains of practical problems and daily activities limited by symptoms.
 
-Chronic idiopathic urticaria was studied as a clinical model for urticarial conditions, since the underlying pathophysiology is similar, regardless of etiology, and because chronic patients can be more easily recruited prospectively. Since histamine release is a causal factor in all urticarial diseases, desloratadine is expected to be effective in providing symptomatic relief for other urticarial conditions, in addition to chronic idiopathic urticaria, as advised in clinical guidelines.
+Chronic idiopathic urticaria was studied as a clinical model for urticarial conditions, since the underlying pathophysiology is similar, regardless of aetiology, and because chronic patients can be more easily recruited prospectively. Since histamine release is a causal factor in all urticarial diseases, desloratadine is expected to be effective in providing symptomatic relief for other urticarial conditions, in addition to chronic idiopathic urticaria, as advised in clinical guidelines.
 
 In two placebo-controlled six week trials in patients with chronic idiopathic urticaria, desloratadine was effective in relieving pruritus and decreasing the size and number of hives by the end of the first dosing interval. In each trial, the effects were sustained over the 24 hour dosing interval. As with other antihistamine trials in chronic idiopathic urticaria, the minority of patients who were identified as nonresponsive to antihistamines was excluded. An improvement in pruritus of more than 50 % was observed in 55 % of patients treated with desloratadine compared with 19 % of patients treated with placebo. Treatment with desloratadine also significantly reduced interference with sleep and daytime function, as measured by a fourpoint scale used to assess these variables.
 
@@ -223,11 +223,11 @@ Desloratadine plasma concentrations can be detected within 30 minutes of adminis
 
 In a pharmacokinetic trial in which patient demographics were comparable to those of the general seasonal allergic rhinitis population, 4 % of the subjects achieved a higher concentration of desloratadine. This percentage may vary according to ethnic background. Maximum desloratadine concentration was about 3-fold higher at approximately 7 hours with a terminal phase half-life of approximately 89 hours. The safety profile of these subjects was not different from that of the general population.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Distribution
 
 Desloratadine is moderately bound (83 % - 87 %) to plasma proteins. There is no evidence of clinically relevant medicine accumulation following once daily dosing of desloratadine (5 mg to 20 mg) for 14 days.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Biotransformation
 
@@ -261,9 +261,9 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-2 years
-
 <div style=\"page-break-after: always\"></div>
+
+2 years
 
 ## 6.4 Special precautions for storage
 
@@ -273,9 +273,7 @@ This medicinal product does not require any special storage conditions.
 
 OPA/Alu/PVC - Aluminium blisters. Packs of 7, 10, 14, 20, 21, 28, 30, 40, 50, 60, 90, 100 and 105 film-coated tablets.
 
-OPA/Alu/PVC - Aluminium perforated unit dose blisters.
-
-Pack of 50 x 1 film-coated tablet (unit dose).
+OPA/Alu/PVC - Aluminium perforated unit dose blisters. Pack of 50 x 1 film-coated tablet (unit dose).
 
 Not all pack sizes may be marketed.
 
@@ -301,12 +299,17 @@ Date of latest renewal: 8 August 2016
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+<div style=\"page-break-after: always\"></div>
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
-- ANNEX II A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## ANNEX II A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE OTHER CONDITIONS AND REQUIREMENTS OF THE
+
+## C. MARKETING AUTHORISATION
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -436,8 +439,6 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-Medicinal product subject to medical prescription.
-
 ## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -450,8 +451,8 @@ Desloratadine Teva 5 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC: SN: NN:
 
@@ -519,7 +520,7 @@ Desloratadine Teva contains desloratadine which is an antihistamine.
 
 ## How Desloratadine Teva works
 
-Desloratadine Teva is an antiallergy medicine that does not make you drowsy. It helps control your allergic reaction and its symptoms.
+Desloratadine Teva is an antiallergy medicine. It helps control your allergic reaction and its symptoms.
 
 ## When Desloratadine Teva should be used
 
@@ -542,19 +543,23 @@ Talk to your doctor or pharmacist before taking Desloratadine Teva
 - if you have poor kidney function.
 - if you have medical or familial history of seizures.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Use in children and adolescents
+
+<div style=\"page-break-after: always\"></div>
 
 Do not give this medicine to children less than 12 years of age.
 
 ## Other medicines and Desloratadine Teva
 
-There are no known interactions of Desloratadine Teva with other medicines. Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
+There are no known interactions of Desloratadine Teva with other medicines.
+
+Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
 
 ## Desloratadine Teva with food, drink and alcohol
 
-Desloratadine Teva may be taken with or without a meal. Use caution when taking Desloratadine Teva with alcohol.
+Desloratadine Teva may be taken with or without a meal.
+
+Use caution when taking Desloratadine Teva with alcohol.
 
 ## Pregnancy, breast-feeding and fertility
 
@@ -598,9 +603,9 @@ For urticaria, the duration of treatment may be variable from patient to patient
 
 Take Desloratadine Teva only as it is prescribed for you. No serious problems are expected with accidental overdose. However, if you take more Desloratadine Teva than you were told to, tell your doctor, pharmacist or nurse immediately.
 
-<div style=\"page-break-after: always\"></div>
-
 ## If you forget to take Desloratadine Teva
+
+<div style=\"page-break-after: always\"></div>
 
 If you forget to take your dose on time, take it as soon as possible and then go back to your regular dosing schedule. Do not take a double dose to make up for a forgotten dose.
 
@@ -640,13 +645,13 @@ Very rare: the following may affect up to 1 in 10,000 people
 - stomach ache
 - upset stomach
 - drowsiness
+- hallucinations
+- liver inflammation
 - pounding or irregular heartbeat
 - feeling sick (nausea)
 - diarrhoea
 - inability to sleep
-- hallucinations
 - seizures
-- liver inflammation
 - abnormal liver function tests
 
 Not known: frequency cannot be estimated from the available data
@@ -654,24 +659,25 @@ Not known: frequency cannot be estimated from the available data
 - unusual weakness
 - yellowing of the skin and/or eyes
 - increased sensitivity of the skin to the sun, even in case of hazy sun, and to UV light, for instance to UV lights of a solarium
-- change s in the way the heart beats
-- a bnormal behaviour
+- changes in the way the heart beats
+- abnormal behaviour
+
+<div style=\"page-break-after: always\"></div>
+
 - aggression
 - weight increased
 - increased appetite
-- depressed mood
-- dry eyes
+-  depressed mood
+-  dry eyes
 
 ## Children
 
 Not known: frequency cannot be estimated from the available data
 
 - slow heartbeat
-- abnormal behaviour
 - change in the way the heart beats
+- abnormal behaviour
 - aggression
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -714,31 +720,33 @@ Pharmachemie B.V. Swensweg 5, 2031 GA Haarlem, The Netherlands
 
 or
 
-<div style=\"page-break-after: always\"></div>
-
 Merckle GmbH Ludwig-Merckle-Strasse 3 D-89143 Blaubeuren Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Teva Pharma Belgium N.V./S.A./AG
-
-Tél/Tel: +32 38207373
+Teva Pharma Belgium N.V./S.A./AG Tél/Tel: +32 38207373
 
 ## Lietuva
 
-UAB Teva Baltics Tel: +370 52660203
+UAB Teva Baltics
+
+Tel: +370 52660203
 
 ## България
 
 Тева Фарма ЕАД
 
-Teл: +359 2489958 5
+Teл
+
+.: +359 24899585
 
 ## Luxembourg/Luxemburg
 
-Teva Pharma Belgium N.V./S.A./AG Belgique/Belgien Tél/Tel: +32 38207373
+Teva Pharma Belgium N.V./S.A./AG
+
+Belgique/Belgien Tél/Tel: +32 38207373
 
 ## Česká republika
 
@@ -748,21 +756,21 @@ Tel: +420 251007111
 
 ## Magyarország
 
-Teva Gyógyszergyár Zrt. Tel: +36 12886400
+Teva Gyógyszergyár Zrt. Tel.: +36 12886400
 
 ## Danmark
 
 Teva Denmark A/S
 
-Tlf: +45 44985511
+Tlf.: +45 44985511
 
 ## Malta
 
-Teva Pharmaceuticals Ireland
+TEVA HELLAS Α.Ε.
 
-L-Irlanda
+il- Greċja
 
-Tel: +44 2075407117
+Tel: +30 2118805000
 
 ## Deutschland
 
@@ -790,7 +798,7 @@ Tlf: +47 66775590
 
 ## Ελλάδα
 
-Specifar A.B.E.E.
+TEVA HELLAS Α.Ε.
 
 Τηλ:
 
@@ -800,15 +808,19 @@ Specifar A.B.E.E.
 
 ratiopharm Arzneimittel Vertriebs-GmbH Tel: +43 1970070
 
+<div style=\"page-break-after: always\"></div>
+
 ## España
 
 Teva Pharma, S.L.U.
 
-Tel: +34 913873280
+Tel: +34 915359180
 
 ## Polska
 
-Teva Pharmaceuticals Polska Sp. z o.o. Tel: +48 223459300
+Teva Pharmaceuticals Polska Sp. z o.o.
+
+Tel.: +48 223459300
 
 ## France
 
@@ -818,7 +830,9 @@ Tél: +33 155917800
 
 ## Portugal
 
-Teva Pharma - Produtos Farmacêuticos, Lda. Tel: +351 214767550
+Teva Pharma - Produtos Farmacêuticos, Lda.
+
+Tel: +351 214767550
 
 ## Hrvatska
 
@@ -870,9 +884,11 @@ Puh/Tel: +370 70001320
 
 ## Κύπρος
 
-Specifar A.B.E.E. Ελλάδα
+TEVA HELLAS Α.Ε . Ελλάδα
 
-Τηλ: +30 2118805000
+Τηλ:
+
++30 2118805000
 
 ## Sverige
 
@@ -886,38 +902,8 @@ UAB Teva Baltics filiāle Latvijā
 
 Tel: +371 67323666
 
-## United Kingdom (Northern Ireland)
-
-Teva Pharmaceuticals Ireland Ireland
-
-Tel: +44 2075407117
-
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for desloratadine, the scientific conclusions of the CHMP are as follows:
-
-In view of available data from the literature including in some cases a close temporal relationship, a positive de-challenge and/or re-challenge and in view of a plausible mechanism of action, the PRAC considers a causal relationship between desloratadine and depressed mood is at least a reasonable possibility. The PRAC concluded that the product information of products containing desloratadine should be amended accordingly.
-
-As described in the literature and signal section of some MAHs, WHO identified a potential safety signal of dry eyes for desloratadine during the reporting period. Based on the anticholinergic properties of desloratadine and strengthened by the reports with a short time to onset and both de- and rechallenges described, the PRAC considers that 'eye dryness' should be considered for inclusion in the product labels and patient leaflets.
-
-The CHMP agrees with the scientific conclusions made by the PRAC.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for desloratadine the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing desloratadine is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu

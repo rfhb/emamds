@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vfend.html
 document_name: vfend.html
 version: success
-processing_time: 0.187602
-conversion_datetime: 2026-07-28 12:29:58.893452
+processing_time: 0.1854501
+conversion_datetime: 2026-07-28 12:52:45.64451
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

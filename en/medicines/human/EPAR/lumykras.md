@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lumykras.html
 document_name: lumykras.html
 version: success
-processing_time: 0.1353172
-conversion_datetime: 2026-07-28 12:35:38.803592
+processing_time: 0.1378156
+conversion_datetime: 2026-07-28 12:58:27.409535
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

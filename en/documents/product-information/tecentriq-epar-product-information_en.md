@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-28 11:57:37
+document_datetime: 2026-07-21 14:37:25
 document_pages: 175
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tecentriq-epar-product-information_en.pdf
 document_name: tecentriq-epar-product-information_en.pdf
 version: success
-processing_time: 113.6208106
-conversion_datetime: 2026-04-29 13:21:22.646528
+processing_time: 209.9667913
+conversion_datetime: 2026-07-28 13:41:03.848297
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -513,15 +513,15 @@ The adverse reactions (ARs) are listed by MedDRA system organ class (SOC) and ca
 
 Table 3: Summary of adverse reactions occurring in patients treated with atezolizumab
 
-| Atezolizumab monotherapy             | Atezolizumab monotherapy             | Atezolizumab in combination therapy                        |
-|--------------------------------------|--------------------------------------|------------------------------------------------------------|
-| Infections and infestations          | Infections and infestations          |                                                            |
-| Very common                          | urinary tract infection a            | lung infection b                                           |
-| Common                               |                                      | sepsis aj                                                  |
-| Rare                                 | cytomegalovirus infection            | cytomegalovirus infection                                  |
-| Blood and lymphatic system disorders | Blood and lymphatic system disorders |                                                            |
-| Very common                          |                                      | anaemia, thrombocytopenia d , neutropenia e , leukopenia f |
-| Common                               | thrombocytopenia d , neutropenia e   | lymphopenia g                                              |
+| Atezolizumab monotherapy             | Atezolizumab monotherapy             | Atezolizumab in combination therapy                            |
+|--------------------------------------|--------------------------------------|----------------------------------------------------------------|
+| Infections and infestations          | Infections and infestations          |                                                                |
+| Very common                          | urinary tract infection a            | lung infection b                                               |
+| Common                               |                                      | sepsis aj                                                      |
+| Rare                                 | cytomegalovirus infection            | cytomegalovirus infection                                      |
+| Blood and lymphatic system disorders | Blood and lymphatic system disorders |                                                                |
+| Very common                          | anaemia aw                           | anaemia aw , thrombocytopenia d , neutropenia e , leukopenia f |
+| Common                               | thrombocytopenia d , neutropenia e   | lymphopenia g                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -600,11 +600,11 @@ Includes reports of white blood cell count decreased, leukopenia. g Includes rep
 
 <div style=\"page-break-after: always\"></div>
 
-ae Includes reports of hypokalaemia, blood potassium decreased.
+- ae Includes reports of hypokalaemia, blood potassium decreased.
 
 af Includes reports of hyponatraemia, blood sodium decreased.
 
-ag Includes reports of hypoxia, oxygen saturation decreased, pO2 decreased.
+- ag Includes reports of hypoxia, oxygen saturation decreased, pO2 decreased.
 
 ah Includes reports of alopecia, madarosis, alopecia areata, alopecia totalis, hypotrichosis.
 
@@ -622,19 +622,21 @@ an Includes reports of psoriasis, dermatitis psoriasiform.
 
 ao Includes reports of pericarditis, pericardial effusion, cardiac tamponade and pericarditis constrictive.
 
-ap Includes reports of dry skin, xerosis.
+- ap Includes reports of dry skin, xerosis.
 
 aq Includes reports of lichenoid keratosis, lichen sclerosus and lichen planus.
 
 ar Includes reports of sarcoidosis, pulmonary sarcoidosis, and sarcoidosis of lymph node.
 
-as Includes reports of uveitis, iridocyclitis and iritis.
+- as Includes reports of uveitis, iridocyclitis and iritis.
 
 at Includes reports of arthritis, joint swelling, osteoarthritis, rheumatoid arthritis, polyarthritis, spinal osteoarthritis, autoimmune arthritis, immune-mediated arthritis, spondylitis, joint effusion, arthropathy, oligoarthritis, rheumatic disorder.
 
 au Includes reports of tendonitis, tendon pain, tenosynovitis and synovitis.
 
 av  Includes reports of autoimmune haemolytic anaemia, haemolytic anaemia.
+
+aw Includes reports of anaemia, haemoglobin decreased, and red blood cell count decreased.
 
 ## Description of selected adverse reactions
 
@@ -835,7 +837,7 @@ CI = confidence interval; DOR = duration of response; ORR = objective response r
 
 * An analysis of OS in the all comer population was performed based on the stratified log-rank test and the result is provided for descriptive purposes only (p = 0.0378); according to the pre-specified analysis hierarchy, the p-value for the OS analysis in the all comer population cannot be considered statistically significant.
 
-ǂ Stratified by chemotherapy (vinflunine vs. taxane), status on IC (&lt; 5% vs. ≥ 5%), number of prognostic risk factors (0 vs. 1-3), and liver metastases (yes vs. no).
+- ǂ Stratified by chemotherapy (vinflunine vs. taxane), status on IC (&lt; 5% vs. ≥ 5%), number of prognostic risk factors (0 vs. 1-3), and liver metastases (yes vs. no).
 
 ** Based on Kaplan-Meier estimate
 
@@ -1017,13 +1019,13 @@ Table 9: Summary of updated efficacy in the ITT population (IMpower150)
 | No. of events (%) Median duration of PFS (months) 95% CI Stratified hazard ratio ‡^ (95% CI) p-value 1,2 | 330 (82.1%) 6.7 (5.7, 6.9) 0.91 (0.78, 1.06) 0.2194 | 291 (72.8%) 8.4 (8.0, 9.9) 0.59 (0.50, 0.69) < 0.0001           | 355 (88.8%) 6.8 (6.0, 7.0) ---                   |
 | 12-month PFS (%) OS interim analysis*                                                                    | 24 = 402                                            | 38 n = 400                                                      | 20                                               |
 |                                                                                                          | n 206 (51.2%) 19.5                                  |                                                                 |                                                  |
-|                                                                                                          | (16.3, 21.3) (0.71,                                 |                                                                 | n = 400                                          |
-| No. of deaths (%) Median time to events (months) 95% CI Stratified hazard ratio ‡^ (95% CI) 1,2          | 0.85 1.03)                                          | 192 (48.0%) 19.8 (17.4, 24.2) 0.76 (0.63, 0.93) 0.006           | 230 (57.5%) 14.9 (13.4, 17.1) ---                |
+|                                                                                                          | (16.3, 21.3) (0.71,                                 | 19.8                                                            | n = 400                                          |
+| No. of deaths (%) Median time to events (months) 95% CI Stratified hazard ratio ‡^ (95% CI) 1,2          | 0.85 1.03)                                          | 192 (48.0%) (17.4, 24.2) 0.76 (0.63, 0.93) 0.006                | 230 (57.5%) 14.9 (13.4, 17.1) ---                |
 | p-value 6-month OS (%)                                                                                   | 0.0983 84                                           | 85                                                              | 81                                               |
-|                                                                                                          | n = 401                                             | 68 n = 397                                                      |                                                  |
+| Best                                                                                                     | n = 401                                             | 68 n = 397                                                      |                                                  |
 |                                                                                                          |                                                     |                                                                 | 61                                               |
 | 12-month OS (%)                                                                                          | 66                                                  |                                                                 | n = 393                                          |
-| Investigator-assessed Overall Best Response 3 * (RECIST 1.1) No. of responders (%)                       | 163 (40.6%) (35.8, 45.6)                            | 224 (56.4%)                                                     | 158 (40.2%)                                      |
+| Investigator-assessed Overall Response 3 * (RECIST 1.1) No. of responders (%)                            | 163 (40.6%) (35.8, 45.6)                            | 224 (56.4%)                                                     | 158 (40.2%)                                      |
 | 95% CI No. of complete response (%)                                                                      | 8 (2.0%)                                            | (51.4, 61.4) 11 (2.8%)                                          | (35.3, 45.2) 3 (0.8%)                            |
 | No. of partial response (%)                                                                              | 155 (38.7%)                                         |                                                                 | 155 (39.4%)                                      |
 |                                                                                                          |                                                     | 213 (53.7%)                                                     |                                                  |
@@ -1185,7 +1187,7 @@ Table 14: Summary of efficacy in patients with high PD-L1 expression ≥ 50% TC 
 | Investigator-assessed PFS (RECIST v1.1 ) No. of events (%) Median duration of PFS (months) 95% CI Stratified hazard ratio ‡ (95% CI) 12-month PFS (%) | n = 107 82 (76.6%) 8.2 (6.8, 11.4) 0.59        | n = 98 87 (88.8%) 5.0 (4.2, 5.7) 0.81) 19.2   |
 | Investigator-assessed ORR (RECIST 1.1) No. of responders (%) 95% CI                                                                                   | 39.2 n = 107 43 (40.2%)                        | n = 98 28 (28.6%)                             |
 | No. of complete response (%)                                                                                                                          | (30.8, 50.1) 1 (0.9%)                          | (19.9, 38.6)                                  |
-| No. of partial response (%) Investigator-assessed DOR(RECIST                                                                                          | n = 43 38.9                                    | 2 (2.0%)                                      |
+| No. of partial response (%) Investigator-assessed DOR (RECIST                                                                                         | n = 43 38.9                                    | 2 (2.0%)                                      |
 | 1.1) Median in months                                                                                                                                 |                                                | 26 (26.5%)                                    |
 |                                                                                                                                                       |                                                | n = 28                                        |
 |                                                                                                                                                       |                                                | 8.3                                           |
@@ -1311,9 +1313,7 @@ CI = confidence interval; DOR = duration of response; NE = not estimable; ORR = 
 
 * The primary analysis population consists of the first 850 randomised patients
 
-ǂ Stratified by PD-L1 expression in tumour infiltrating immune cells, the number of prior
-
-chemotherapy regimens, and histology
+ǂ Stratified by PD-L1 expression in tumour infiltrating immune cells, the number of prior chemotherapy regimens, and histology
 
 ** Based on the stratified log-rank test
 
@@ -1325,7 +1325,7 @@ Figure 15: Kaplan-Meier curve for overall survival in the primary analysis popul
 
 <!-- image -->
 
-Hazardratioisestimatedbased onastratified Coxmodel;p-valueisestimatedbasedonastratified log-ranktest.
+Hazard ratio is estimated based on a stratified Cox model; p-value is estimated based on a stratified log-rank test.
 
 Figure 16: Forest plot of overall survival by PD-L1 expression in the primary analysis population (OAK)
 
@@ -1395,7 +1395,7 @@ Table 19: Summary of efficacy (IMpower133)
 | 95% CI                                     | (53.1, 67.0)                                     | (57.3, 71.0)                                |
 | No. of complete response (%)               | 5 (2.5%)                                         | 2 (1.0%)                                    |
 | No. of partial response (%)                | 116 (57.7%)                                      | 128 (63.4%)                                 |
-| Investigator-assessed DOR(RECIST 1.1)** ^  | n =121                                           | n = 130                                     |
+| Investigator-assessed DOR (RECIST 1.1)** ^ | n =121                                           | n = 130                                     |
 | Median in months                           | 4.2                                              | 3.9                                         |
 | 95% CI                                     | (4.1, 4.5)                                       | (3.1, 4.2)                                  |
 
@@ -1584,13 +1584,15 @@ Figure 21: Kaplan-Meier curve for OS in the ITT population (IMbrave150 updated a
 
 <!-- image -->
 
-No.ofPatients atRisk
+No. of Patients at Risk
 
-Atezo+Bev
+Atezo + Bev
+
+336 329320 312302 288276 263252 240233 221 214 209202 192186175 164 156 134 105 80 57 42 24 12 11 2 NE 165 158 144 133 128 119 106 96 92 88 85 81 78 72 66 64 61 58 55 49 44 32 24 18 12 7 3 NE NE
 
 Sorafenib
 
-Hazardratioisfromstratifiedanalysis.Stratificationfactorsincludegeographicregion(AsiaexcludingJapanvs.restof world),macrovascularinvasionand/orextrahepatic spread(presencevsabsence)andAFP(&lt;400vs&gt;=400ng/ml)atscreeningperIxRS.
+Hazard ratio is from stratified analysis. Stratification factors include geographic region (Asia excluding Japan vs. rest of world), macrovascular invasion and/or extrahepatic spread (presence vs absence) and AFP (&lt;400 vs &gt;=400 ng/ml) at screening per IxRS.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1598,9 +1600,9 @@ Figure 22: Kaplan-Meier curve for IRF-PFS per RECIST v1.1 in the ITT population 
 
 <!-- image -->
 
-Hazardratioandp-valuearefromstratifiedanalysis.
+Hazard ratio and p-value are from stratified analysis.
 
-Stratification factors include geographic region(Asia excluding Japan vs.rest of world),macrovascular invasion and/or extrahepatic spread (presence vs absence) and AFP(&lt;400 vs &gt;=400 ng/ml) at screening per lxRS
+Stratification factors include geographic region (Asia excluding Japan vs. rest of world), macrovascular invasion and/or extrahepatic spread (presence vs absence) and AFP (&lt;400 vs &gt;=400 ng/ml) at screening per IxRS.
 
 ## Efficacy in elderly
 
@@ -1678,7 +1680,7 @@ No reproductive or teratogenicity studies in animals have been conducted with at
 
 ## 6.1 List of excipients
 
-L-histidine Glacial acetic acid Sucrose Polysorbate 20 (E 432) Water for injections
+Histidine Glacial acetic acid Sucrose Polysorbate 20 (E 432) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -2269,7 +2271,7 @@ Table 3: Summary of adverse reactions occurring in patients treated with atezoli
 | Common                               |                                                                                                         | sepsis aj                                                                                                   |
 | Rare                                 | cytomegalovirus infection                                                                               | cytomegalovirus infection                                                                                   |
 | Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                                    |                                                                                                             |
-| Very common                          |                                                                                                         | anaemia, thrombocytopenia d , neutropenia e , leukopenia f                                                  |
+| Very common                          | anaemia ax                                                                                              | anaemia ax , thrombocytopenia d , neutropenia e , leukopenia f                                              |
 | Common                               | thrombocytopenia d , neutropenia e                                                                      | lymphopenia g                                                                                               |
 | Rare                                 | haemophagocytic lymphohistiocytosis, autoimmune haemolytic anaemia aw                                   | haemophagocytic lymphohistiocytosis, autoimmune haemolytic anaemia aw                                       |
 | Immune system disorders              | Immune system disorders                                                                                 |                                                                                                             |
@@ -2402,6 +2404,8 @@ au Includes reports of arthritis, joint swelling, osteoarthritis, rheumatoid art
 av Includes reports of tendonitis, tendon pain, tenosynovitis and synovitis.
 
 aw  Includes reports of autoimmune haemolytic anaemia, haemolytic anaemia.
+
+ax. Includes reports of anaemia, haemoglobin decreased, and red blood cell count decreased.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2716,11 +2720,11 @@ A total of 1 280 enrolled patients had complete tumour resection and were eligib
 
 Table 6: Adjuvant chemotherapy regimens (IMpower010)
 
-| Adjuvant cisplatin-based chemotherapy: Cisplatin 75 mg/m 2 intravenous on Day 1 of each 21 day cycle with one of the following treatment regimens   | Vinorelbine 30 mg/m 2 intravenous, Days 1 and 8        |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| Adjuvant cisplatin-based chemotherapy: Cisplatin 75 mg/m 2 intravenous on Day 1 of each 21 day cycle with one of the following treatment regimens   | Docetaxel 75 mg/m 2 intravenous, Day 1                 |
-| Adjuvant cisplatin-based chemotherapy: Cisplatin 75 mg/m 2 intravenous on Day 1 of each 21 day cycle with one of the following treatment regimens   | Gemcitabine 1 250 mg/m 2 intravenous, Days 1 and 8     |
-| Adjuvant cisplatin-based chemotherapy: Cisplatin 75 mg/m 2 intravenous on Day 1 of each 21 day cycle with one of the following treatment regimens   | Pemetrexed 500 mg/m 2 intravenous, Day 1(non-squamous) |
+| Adjuvant cisplatin-based chemotherapy: Cisplatin 75 mg/m 2 intravenous on 1 of each 21 day cycle with of the following treatment regimens   | Vinorelbine 30 mg/m 2 intravenous, Days 1 and 8        |
+|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| Adjuvant cisplatin-based chemotherapy: Cisplatin 75 mg/m 2 intravenous on 1 of each 21 day cycle with of the following treatment regimens   | Docetaxel 75 mg/m 2 intravenous, Day 1                 |
+| Day one                                                                                                                                     | Gemcitabine 1 250 mg/m 2 intravenous, Days 1 and 8     |
+| Day one                                                                                                                                     | Pemetrexed 500 mg/m 2 intravenous, Day 1(non-squamous) |
 
 After completion of cisplatin-based chemotherapy (up to four cycles), a total of 1 005 patients were randomised in a 1:1 ratio to receive atezolizumab (Arm A) or best supportive care (BSC) (Arm B). Atezolizumab was administered as a fixed dose of 1 200 mg by IV infusion every 3 weeks for 16 cycles unless there was disease recurrence or unacceptable toxicity. Randomisation was stratified by sex, stage of disease, histology, and PD-L1 expression.
 
@@ -2978,14 +2982,14 @@ Table 14: Summary of efficacy in patients with high PD-L1 expression ≥ 50% TC 
 | Investigator-assessed PFS (RECIST v1.1 ) No. of events (%) Median duration of PFS (months) 95% CI Stratified hazard ratio ‡ (95% CI) 12-month PFS (%) | n = 107 82 (76.6%) 8.2 (6.8, 11.4) 0.59        | n = 98 87 (88.8%) 5.0 (4.2, 5.7) 0.81) 19.2   |
 | Investigator-assessed ORR (RECIST 1.1) No. of responders (%) 95% CI                                                                                   | 39.2 n = 107 43 (40.2%)                        | n = 98 28 (28.6%)                             |
 | No. of complete response (%)                                                                                                                          | (30.8, 50.1) 1 (0.9%)                          | (19.9, 38.6)                                  |
-| No. of partial response (%) Investigator-assessed DOR(RECIST                                                                                          | n = 43 38.9                                    | 2 (2.0%)                                      |
+| No. of partial response (%) Investigator-assessed DOR (RECIST                                                                                         | n = 43 38.9                                    | 2 (2.0%)                                      |
 | 1.1) Median in months                                                                                                                                 |                                                | 26 (26.5%)                                    |
 |                                                                                                                                                       |                                                | n = 28                                        |
 |                                                                                                                                                       |                                                | 8.3                                           |
 | 95% CI                                                                                                                                                | (16.1, NE)                                     | (5.6,                                         |
 |                                                                                                                                                       |                                                | 11.0)                                         |
 |                                                                                                                                                       | 42                                             | 42                                            |
-|                                                                                                                                                       | (39.3%)                                        | (39.3%)                                       |
+|                                                                                                                                                       | (39.3%)                                        |                                               |
 
 ‡ Stratified by sex and ECOG performance status (0 vs. 1)
 
@@ -3155,7 +3159,7 @@ Figure 15: Kaplan-Meier curve for overall survival in the primary analysis popul
 
 <!-- image -->
 
-Hazardratioisestimatedbased onastratified Coxmodel;p-valueisestimatedbasedonastratified log-ranktest.
+Hazard ratio is estimated based on a stratified Cox model; p-value is estimated based on a stratified log-rank test.
 
 Figure 16: Forest plot of overall survival by PD-L1 expression in the primary analysis population (OAK)
 
@@ -3227,7 +3231,7 @@ Table 20: Summary of efficacy (IMpower133)
 | 95% CI                                     | (53.1, 67.0)                                     | (57.3, 71.0)                                |
 | No. of complete response (%)               | 5 (2.5%)                                         | 2 (1.0%)                                    |
 | No. of partial response (%)                | 116 (57.7%)                                      | 128 (63.4%)                                 |
-| Investigator-assessed DOR(RECIST 1.1)** ^  | n =121                                           | n = 130                                     |
+| Investigator-assessed DOR (RECIST 1.1)** ^ | n =121                                           | n = 130                                     |
 | Median in months                           | 4.2                                              | 3.9                                         |
 | 95% CI                                     | (4.1, 4.5)                                       | (3.1, 4.2)                                  |
 
@@ -3248,6 +3252,8 @@ Figure 17: Kaplan-Meier curve for overall survival (IMpower133)
 <div style=\"page-break-after: always\"></div>
 
 Figure 18: Kaplan-Meier curve for progression-free survival (IMpower133)
+
+100
 
 <!-- image -->
 
@@ -3420,15 +3426,15 @@ Figure 21: Kaplan-Meier curve for OS in the ITT population (IMbrave150 updated a
 
 <!-- image -->
 
-No.ofPatientsatRisk
+No. of Patients at Risk
 
-Atezo+Bev 336329320312302288276263252240233221214209202 192186 175164156 134105 80 57 42 24 12 112 NE Sorafenib 165158144133128119106969288858178726664615855494432241812732NENE spread (presence vs absence)and AFP(&lt;400 vs &gt;=400 ng/ml) at screening per IxRS.
+Atezo + Bev 336 329 320 312 302 288 276 263 252 240 233 221 214 209 202 192 186 175 164 156 134 105 80 57 42 24 12 11 2 NE Sorafenib 165 158 144 133 128 119 106 96 92 88 85 81 78 72 66 64 61 58 55 49 44 32 24 18 12 7 3 2 NE NE Hazard ratio is from stratified analysis. Stratification factors include geographic region (Asia excluding Japan vs. rest of world), macrovascular invasion and/or extrahepatic spread (presence vs absence) and AFP (&lt;400 vs &gt;=400 ng/ml) at screening per IxRS.
 
 <div style=\"page-break-after: always\"></div>
 
 Figure 22: Kaplan-Meier curve for IRF-PFS per RECIST v1.1 in the ITT population (IMbrave150 primary analysis)
 
-Atezo+Bev
+Atezo + Bev
 
 <!-- image -->
 
@@ -3436,7 +3442,7 @@ Sorafenib
 
 Hazard ratio and p-value are from stratified analysis.
 
-Stratification factors include geographic region (Asia excluding Japan vs.rest of world),macrovascular invasion and/or extrahepatic spread (presence vs absence)and AFP (&lt;400 vs &gt;=400 ng/ml) at screening per IxRS
+Stratification factors include geographic region (Asia excluding Japan vs. rest of world), macrovascular invasion and/or extrahepatic spread (presence vs absence) and AFP (&lt;400 vs &gt;=400 ng/ml) at screening per IxRS.
 
 ## Efficacy in elderly
 
@@ -3553,7 +3559,7 @@ Hyaluronidase is found in most tissues of the human body. Non-clinical data for 
 
 ## 6.1 List of excipients
 
-Recombinant human hyaluronidase (rHuPH20) L-histidine Acetic acid L-methionine Polysorbate 20 (E 432) Sucrose Water for injections
+Recombinant human hyaluronidase (rHuPH20) Histidine Acetic acid Methionine Polysorbate 20 (E 432) Sucrose Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -3752,7 +3758,7 @@ After dilution, the final concentration of the diluted solution should be betwee
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: L-histidine, glacial acetic acid, sucrose, polysorbate 20, water for injections. See leaflet for further information
+Excipients: histidine, glacial acetic acid, sucrose, polysorbate 20, water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -3806,9 +3812,9 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
-Justification for not including Braille accepted
+Justification for not including Braille accepted.
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
@@ -3816,9 +3822,7 @@ Justification for not including Braille accepted
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -3868,7 +3872,7 @@ After dilution, the final concentration of the diluted solution should be betwee
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: L-histidine, glacial acetic acid, sucrose, polysorbate 20, water for injections. See leaflet for further information
+Excipients: histidine, glacial acetic acid, sucrose, polysorbate 20, water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -3922,9 +3926,9 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
-Justification for not including Braille accepted
+Justification for not including Braille accepted.
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
@@ -3932,9 +3936,7 @@ Justification for not including Braille accepted
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -3982,7 +3984,7 @@ One vial contains 1 875 mg atezolizumab in 15 mL solution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: recombinant human hyaluronidase (rHuPH20), L-histidine, acetic acid, L-methionine, polysorbate 20, sucrose, water for injections. See leaflet for further information.
+Excipients: recombinant human hyaluronidase (rHuPH20), histidine, acetic acid, methionine, polysorbate 20, sucrose, water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -4016,7 +4018,7 @@ Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -4314,6 +4316,7 @@ Very common: may affect more than 1 in 10 people
 -  back pain
 -  cough
 -  headache
+-  low number of red blood cells, which can cause tiredness and shortness of breath
 
 ## Common: may affect up to 1 in 10 people
 
@@ -4490,7 +4493,7 @@ Do not throw away any medicines via wastewater or household waste. Your healthca
 - 
 - The active substance is atezolizumab. Each mL contains 60 mg of atezolizumab. Each 14 mL vial contains 840 mg of atezolizumab. Each 20 mL vial contains 1 200 mg of atezolizumab.
 -  After dilution, the final concentration of the diluted solution should be between 3.2 and 16.8 mg/mL.
--  The other ingredients are L-histidine, glacial acetic acid, sucrose, polysorbate 20 (E 432) (see section 2 'Tecentriq contains Polysorbate') and water for injections.
+-  The other ingredients are histidine, glacial acetic acid, sucrose, polysorbate 20 (E 432) (see section 2 'Tecentriq contains Polysorbate') and water for injections.
 
 ## What Tecentriq looks like and contents of the pack
 
@@ -4598,7 +4601,7 @@ Tel.: +36 - 1 279 4500
 
 Roche Nederland B.V.
 
-Tel: +31 (0) 348 438050
+Tel: +31 (0) 348 438000
 
 ## Norge
 
@@ -4810,7 +4813,7 @@ Tecentriq may cause some side effects that you must tell your doctor about strai
 -  type 1 diabetes, including a serious, sometimes life-threatening problem due to acid in the blood produced from diabetes (diabetic ketoacidosis): symptoms may include feeling more hungry or thirsty than usual, need to urinate more often, weight loss, feeling tired or having difficulty thinking clearly, breath that smells sweet or fruity, a sweet or metallic taste in your mouth, or a different odour to your urine or sweat, nausea or vomiting, stomach pain, and deep or fast breathing
 -  inflammation of the brain (encephalitis) or inflammation of the membrane around the spinal cord and brain (meningitis): symptoms may include neck stiffness, headache, fever, chills, vomiting, eye sensitivity to light, confusion and sleepiness
 -  inflammation or problems of the nerves (neuropathy): symptoms may include weakness in the arm and leg muscles, or face muscles, double vision, difficulties with speech and chewing, numbness, and tingling in hands and feet
--  inflammation of the spinal cord (myelitis): symptoms may include pain, abnormal sensations such as numbness, tingling, coldness or burning , weakness in the arms or legs, and bladder and bowel problems
+-  inflammation of the spinal cord (myelitis): symptoms may include pain, abnormal sensations such as numbness, tingling, coldness or burning, weakness in the arms or legs, and bladder and bowel problems
 -  inflammation of the pancreas (pancreatitis): symptoms may include abdominal pain, nausea and vomiting
 -  inflammation of the heart muscle (myocarditis): symptoms may include shortness of breath, decreased exercise tolerance, feeling tired, chest pain, swelling of the ankles or legs, irregular heartbeat, and fainting
 -  inflammation of the kidneys (nephritis); symptoms may include changes in urine output and colour, pain in pelvis, and swelling of the body and may lead to failure of the kidneys
@@ -4942,6 +4945,8 @@ Very common: may affect more than 1 in 10 people
 
 <div style=\"page-break-after: always\"></div>
 
+-  low number of red blood cells, which can cause tiredness and shortness of breath
+
 ## Common: may affect up to 1 in 10 people
 
 -  inflammation of the lungs (pneumonitis)
@@ -4987,10 +4992,10 @@ Very common: may affect more than 1 in 10 people
 -  inflammation of the pituitary gland situated at the base of the brain
 -  elevated creatine phosphokinase in the blood (shown in test), which may be a sign of muscle or heart inflammation
 -  changes in any area of the skin and/or genital area that are associated with drying out, thinning, itching and pain (lichen disorders)
--  inflammation of the eye (uveitis)
 
 <div style=\"page-break-after: always\"></div>
 
+-  inflammation of the eye (uveitis)
 -  inflammation around tendons (tenosynovitis)
 
 ## Rare: may affect up to 1 in 1,000 people
@@ -5005,9 +5010,7 @@ Very common: may affect more than 1 in 10 people
 -  inflammatory disease mainly affecting the skin, lung and eye (sarcoidosis)
 -  abnormal breakdown of red blood cells (autoimmune haemolytic anaemia)
 
-## Other side effects that have been reported with frequency not known (cannot be estimated from
-
-the available data):
+## Other side effects that have been reported with frequency not known (cannot be estimated from the available data):
 
 -  inflammation of the bladder; signs and symptoms may include frequent and/or painful urination, urge to pass urine, blood in urine, pain or pressure in lower abdomen
 -  lack or reduction of digestive enzymes made by the pancreas (pancreatic exocrine insufficiency)
@@ -5043,9 +5046,10 @@ The following side effects have been reported in clinical trials when Tecentriq 
 -  common cold (nasopharyngitis)
 -  hair loss
 -  high blood pressure (hypertension)
--  swelling in arms or legs
 
 <div style=\"page-break-after: always\"></div>
+
+##  swelling in arms or legs
 
 ## Common: may affect up to 1 in 10 people
 
@@ -5114,7 +5118,7 @@ Do not throw away any medicines via wastewater or household waste. Your healthca
 ## What Tecentriq contains
 
 -  The active substance is atezolizumab. Each mL contains 125 mg of atezolizumab. One vial of 15 mL solution contains 1 875 mg of atezolizumab.
--  The other ingredients are L-histidine, L-methionine, acetic acid, sucrose, polysorbate 20 (E 432) (see section 2 'Tecentriq contains Polysorbate'), recombinant human hyaluronidase (rHuPH20), and water for injections.
+-  The other ingredients are histidine, methionine, acetic acid, sucrose, polysorbate 20 (E 432) (see section 2 'Tecentriq contains Polysorbate'), recombinant human hyaluronidase (rHuPH20), and water for injections.
 
 ## What Tecentriq looks like and contents of the pack
 
@@ -5214,7 +5218,7 @@ Tel.: +36 - 1 279 4500
 
 Roche Nederland B.V.
 
-Tel: +31 (0) 348 438050
+Tel: +31 (0) 348 438000
 
 ## Norge
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-06-22 15:33:00
+document_datetime: 2026-07-21 15:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tecentriq.html
 document_name: tecentriq.html
 version: success
-processing_time: 0.2289667
-conversion_datetime: 2026-07-04 13:00:44.447766
+processing_time: 0.2254715
+conversion_datetime: 2026-07-28 12:30:45.500053
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
@@ -157,7 +157,7 @@ English (EN) (136.78 KB - PDF)
 
 [View](/en/documents/overview/tecentriq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-961)
+[Other languages (22)](#file-language-dropdown-428)
 
 български (BG) (193.41 KB - PDF)
 
@@ -303,161 +303,161 @@ English (EN) (2.58 MB - PDF)
 
 Tecentriq : EPAR - Product information
 
-English (EN) (1.53 MB - PDF)
+English (EN) (1.46 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/en/documents/product-information/tecentriq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-326)
+[Other languages (24)](#file-language-dropdown-692)
 
-български (BG) (2.89 MB - PDF)
+български (BG) (2.87 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/bg/documents/product-information/tecentriq-epar-product-information_bg.pdf)
 
-español (ES) (2.27 MB - PDF)
+español (ES) (2.23 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/es/documents/product-information/tecentriq-epar-product-information_es.pdf)
 
 čeština (CS) (2.55 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/cs/documents/product-information/tecentriq-epar-product-information_cs.pdf)
 
-dansk (DA) (1.82 MB - PDF)
+dansk (DA) (1.78 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/da/documents/product-information/tecentriq-epar-product-information_da.pdf)
 
 Deutsch (DE) (3.95 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/de/documents/product-information/tecentriq-epar-product-information_de.pdf)
 
-eesti (ET) (2.15 MB - PDF)
+eesti (ET) (2.16 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/et/documents/product-information/tecentriq-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.98 MB - PDF)
+ελληνικά (EL) (2.99 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/el/documents/product-information/tecentriq-epar-product-information_el.pdf)
 
 français (FR) (2.94 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/fr/documents/product-information/tecentriq-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.16 MB - PDF)
+hrvatski (HR) (3.19 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/hr/documents/product-information/tecentriq-epar-product-information_hr.pdf)
 
-italiano (IT) (2.15 MB - PDF)
+italiano (IT) (2.23 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/it/documents/product-information/tecentriq-epar-product-information_it.pdf)
 
-latviešu (LV) (2.63 MB - PDF)
+latviešu (LV) (2.64 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/lv/documents/product-information/tecentriq-epar-product-information_lv.pdf)
 
-lietuvių (LT) (3.76 MB - PDF)
+lietuvių (LT) (3.67 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/lt/documents/product-information/tecentriq-epar-product-information_lt.pdf)
 
 magyar (HU) (3.36 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/hu/documents/product-information/tecentriq-epar-product-information_hu.pdf)
 
-Malti (MT) (3.32 MB - PDF)
+Malti (MT) (3.47 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/mt/documents/product-information/tecentriq-epar-product-information_mt.pdf)
 
 Nederlands (NL) (2.32 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/nl/documents/product-information/tecentriq-epar-product-information_nl.pdf)
 
 polski (PL) (2.92 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/pl/documents/product-information/tecentriq-epar-product-information_pl.pdf)
 
-português (PT) (2.69 MB - PDF)
+português (PT) (2.65 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/pt/documents/product-information/tecentriq-epar-product-information_pt.pdf)
 
-română (RO) (2.19 MB - PDF)
+română (RO) (2.24 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/ro/documents/product-information/tecentriq-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.76 MB - PDF)
+slovenčina (SK) (2.69 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/sk/documents/product-information/tecentriq-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.33 MB - PDF)
+slovenščina (SL) (2.35 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/sl/documents/product-information/tecentriq-epar-product-information_sl.pdf)
 
-suomi (FI) (1.97 MB - PDF)
+suomi (FI) (2.03 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/fi/documents/product-information/tecentriq-epar-product-information_fi.pdf)
 
-svenska (SV) (1.94 MB - PDF)
+svenska (SV) (1.92 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/sv/documents/product-information/tecentriq-epar-product-information_sv.pdf)
 
 Íslenska (IS) (2.52 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/is/documents/product-information/tecentriq-epar-product-information_is.pdf)
 
-norsk (NO) (2.39 MB - PDF)
+norsk (NO) (2.52 MB - PDF)
 
-**First published:** 29/09/2017 **Last updated:** 28/04/2026
+**First published:** 29/09/2017 **Last updated:** 21/07/2026
 
 [View](/no/documents/product-information/tecentriq-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000296544
+**Latest procedure affecting product information:** VR/0000339687
 
-26/03/2026
+18/06/2026
 
 icon globe
 
@@ -482,7 +482,7 @@ English (EN) (15.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tecentriq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-697)
+[Other languages (24)](#file-language-dropdown-422)
 
 български (BG) (37.37 KB - PDF)
 
@@ -692,7 +692,7 @@ Tecentriq as monotherapy is indicated for the treatment of adult patients with l
 - **Marketing authorisation issued**
     - 20/09/2017
 - **Revision**
-    - 38
+    - 39
 
 ## Assessment history
 
@@ -704,9 +704,9 @@ Collapse section
 
 Tecentriq : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (205.57 KB - PDF)
+English (EN) (193.06 KB - PDF)
 
-**First published:** 17/06/2025 **Last updated:** 28/04/2026
+**First published:** 17/06/2025 **Last updated:** 21/07/2026
 
 [View](/en/documents/procedural-steps-after/tecentriq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1082,7 +1082,7 @@ English (EN) (1.69 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/tecentriq-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-238)
+[Other languages (24)](#file-language-dropdown-136)
 
 български (BG) (2.07 MB - DOCX)
 
@@ -1242,6 +1242,6 @@ norsk (NO) (1.83 MB - DOCX)
 
 **This page was last updated on**
 
-22/06/2026
+21/07/2026
 
 ## Share this page

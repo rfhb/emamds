@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/enhertu.html
 document_name: enhertu.html
 version: success
-processing_time: 0.191856
-conversion_datetime: 2026-07-28 12:37:42.256939
+processing_time: 0.3653967
+conversion_datetime: 2026-07-28 13:00:32.246623
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

@@ -1,28 +1,26 @@
 ---
-document_datetime: 2024-12-03 11:27:48
+document_datetime: 2026-07-22 16:02:08
 document_pages: 43
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lumykras-epar-product-information_en.pdf
 document_name: lumykras-epar-product-information_en.pdf
 version: success
-processing_time: 9.0792059
-conversion_datetime: 2025-12-20 13:35:25.832542
+processing_time: 14.3502921
+conversion_datetime: 2026-07-28 13:51:12.592852
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
 
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
@@ -44,7 +42,7 @@ Each film-coated tablet contains 114 mg of lactose (as monohydrate).
 
 Each film-coated tablet contains 240 mg of sotorasib.
 
-Excipient with known effect
+## Excipient with known effect
 
 Each film-coated tablet contains 53 mg of lactose (as monohydrate).
 
@@ -96,7 +94,7 @@ Dosing should be modified based on LUMYKRAS toxicity. The dose reduction rules o
 
 A maximum of two dose reductions are recommended for management of an adverse reaction (see table 1). Discontinue LUMYKRAS if an adverse reaction cannot be managed after two dose reductions and patients are unable to tolerate the minimum dose of 240 mg once daily.
 
-## Table 1. Recommended sotorasib dose reduction levels
+Table 1. Recommended sotorasib dose reduction levels
 
 | Dose reduction level   | Dose                                                            |
 |------------------------|-----------------------------------------------------------------|
@@ -108,15 +106,15 @@ A maximum of two dose reductions are recommended for management of an adverse re
 
 Table 2. Recommended dose modifications for sotorasib
 
-| Adverse reaction                                                                                                     | Severity a                                                                                                                                                                                                      | Dose modification                                                                                                                                                                                                                          |
-|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hepatotoxicity                                                                                                       | AST or ALT > 3 × and up to 5 × ULN (or > 3 × and up to 5 × baseline if baseline abnormal) with symptoms or AST or ALT > 5 × ULN (or > 5 × baseline if baseline abnormal), in the absence of alternative causes. | • Withhold treatment • Closely monitor liver function until recovered to ≤ 3 × ULN or to ≤ 3 × baseline if baseline abnormal. • After recovery, resume treatment at the next dose reduction level • Consider initiation of corticosteroids |
-| Hepatotoxicity                                                                                                       | AST or ALT > 3 × ULN with total bilirubin > 2 × ULN or AST or ALT > 3 × ULN and INR > 1.5 × ULN (for subjects not on anticoagulation therapy), in the absence of alternative causes.                            | • Permanently discontinue treatment if no alternative cause is identified. • If alternative cause is identified, do not resume treatment until AST/ALT/bilirubin return to baseline.                                                       |
-| Interstitial Lung Disease (ILD)/pneumonitis                                                                          | Any grade                                                                                                                                                                                                       | • Stop treatment if ILD/pneumonitis is suspected • Permanently discontinue treatment if ILD/pneumonitis is confirmed and no other cause is identified.                                                                                     |
-| Nausea, vomiting, or diarrhoea persisting despite supportive care (including anti-emetic or anti-diarrhoeal therapy) | Grade ≥ 3                                                                                                                                                                                                       | • Stop treatment until recovered to ≤ grade 1 or to baseline grade • After recovery, resume treatment at the next dose reduction level                                                                                                     |
-| Other medicinal product-related toxicity                                                                             | Grade ≥ 3                                                                                                                                                                                                       | • Stop treatment until recovered to ≤ grade 1 or to baseline grade • After recovery, resume treatment at the next dose reduction level                                                                                                     |
+| Adverse reaction                                                                                                     | Severity a                                                                                                                                                                                                     | Dose modification                                                                                                                                                                                                                         |
+|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hepatotoxicity                                                                                                       | AST or ALT > 3 × and up to 5 × ULN (or > 3 × and up to 5 × baseline if baseline abnormal) with symptoms or AST or ALT > 5 × ULN (or > 5 × baseline if baseline abnormal), in the absence of alternative causes | • Withhold treatment • Closely monitor liver function until recovered to ≤ 3 × ULN or to ≤ 3 × baseline if baseline abnormal • After recovery, resume treatment at the next dose reduction level • Consider initiation of corticosteroids |
+| Hepatotoxicity                                                                                                       | AST or ALT > 3 × ULN with total bilirubin > 2 × ULN or AST or ALT > 3 × ULN and INR > 1.5 × ULN (for subjects not on anticoagulation therapy), in the absence of alternative causes                            | • Permanently discontinue treatment if no alternative cause is identified • If alternative cause is identified, do not resume treatment until AST/ALT/bilirubin return to baseline                                                        |
+| Interstitial lung disease (ILD)/pneumonitis                                                                          | Any grade                                                                                                                                                                                                      | • Stop treatment if ILD/pneumonitis is suspected • Permanently discontinue treatment if ILD/pneumonitis is confirmed and no other cause is identified                                                                                     |
+| Nausea, vomiting, or diarrhoea persisting despite supportive care (including anti-emetic or anti-diarrhoeal therapy) | Grade ≥ 3                                                                                                                                                                                                      | • Stop treatment until recovered to ≤ grade 1 or to baseline grade • After recovery, resume treatment at the next dose reduction level                                                                                                    |
+| Other medicinal product-related toxicity                                                                             | Grade ≥ 3                                                                                                                                                                                                      | • Stop treatment until recovered to ≤ grade 1 or to baseline grade • After recovery, resume treatment at the next dose reduction level                                                                                                    |
 
-ALT = alanine aminotransferase; AST = aspartate aminotransferase; ULN = upper limit of normal · a  Grading defined by National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 5.0; INR = International Normalised Ratio
+ALT = alanine aminotransferase; AST = aspartate aminotransferase; ULN = upper limit of normal a  Grading defined by National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 5.0; INR = International Normalised Ratio
 
 ## Special populations
 
@@ -158,11 +156,9 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## Hepatotoxicity
 
-Sotorasib can cause hepatotoxicity, which may lead to drug-induced liver injury (DILI) and hepatitis. Sotorasib has been associated with transient elevations of serum transaminases (ALT and AST), alkaline phosphatase and total bilirubin in 960 mg monotherapy clinical trials. In a total of 740 patients with KRAS G12C -mutated solid tumours who received LUMYKRAS 960 mg monotherapy daily, the incidence for hepatotoxicity is highest in the sub-group of patients with recent (≤ 3 months) immunotherapy (38%) prior to starting LUMYKRAS, as compared to those who started LUMYKRAS either more than 3 months after last dose of immunotherapy (17%) or those who never received immunotherapy (22%). Regardless of time from prior immunotherapy, 87% of elevations improved or resolved with interruption of LUMYKRAS treatment and treatment with corticosteroids. Elevated liver enzymes led to discontinuation of treatment in 10%, 2% and 0% of patients with prior immunotherapy within ≤ 3 months, with prior immunotherapy within &gt; 3 months and no prior immunotherapy, respectively. Among 740 patients with KRAS G12C -mutated solid tumours who received 960 mg orally once daily, 26% experienced hepatotoxicity and 13% had hepatotoxicity leading to dose interruption and/or dose reduction. Overall, 41% of patients with hepatotoxicity
+Sotorasib can cause hepatotoxicity, which may lead to drug-induced liver injury (DILI) and hepatitis. Sotorasib has been associated with transient elevations of serum transaminases (ALT and AST), alkaline phosphatase and total bilirubin in 960 mg monotherapy clinical trials. In a total of 740 patients with KRAS G12C -mutated solid tumours who received LUMYKRAS 960 mg monotherapy daily, the incidence for hepatotoxicity is highest in the sub-group of patients with recent (≤ 3 months) immunotherapy (38%) prior to starting LUMYKRAS, as compared to those who started LUMYKRAS either more than 3 months after last dose of immunotherapy (17%) or those who never received immunotherapy (22%). Regardless of time from prior immunotherapy, 87% of elevations improved or resolved with interruption of LUMYKRAS treatment and treatment with corticosteroids. Elevated liver enzymes led to discontinuation of treatment in 10%, 2% and 0% of patients with prior immunotherapy within ≤ 3 months, with prior immunotherapy within &gt; 3 months and no prior immunotherapy, respectively. Among 740 patients with KRAS G12C -mutated solid tumours who received 960 mg orally once daily, 26% experienced hepatotoxicity and 13% had hepatotoxicity leading to dose interruption and/or dose reduction. Overall, 41% of patients with hepatotoxicity received concurrent corticosteroids. Cases of liver enzyme increase can be asymptomatic. Patients should be monitored for liver function (ALT, AST, alkaline phosphatase and total bilirubin) prior to the start of LUMYKRAS, every 3 weeks for the first 3 months of treatment, then once a month or as clinically indicated, with more frequent testing in patients with recent immunotherapy and in patients with serious hepatotoxicity events. Based on the severity of the laboratory abnormalities, treatment with LUMYKRAS must be interrupted until recovered to ≤ 3 × ULN or to ≤ 3 baseline (if baseline abnormal) and treatment with corticosteroids considered, and the dose of LUMYKRAS must be either modified or permanently discontinued (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-received concurrent corticosteroids. Cases of liver enzyme increase can be asymptomatic. Patients should be monitored for liver function (ALT, AST, alkaline phosphatase and total bilirubin) prior to the start of LUMYKRAS, every 3 weeks for the first 3 months of treatment, then once a month or as clinically indicated, with more frequent testing in patients with recent immunotherapy and in patients with serious hepatotoxicity events. Based on the severity of the laboratory abnormalities, treatment with LUMYKRAS must be interrupted until recovered to ≤ 3 × ULN or to ≤ 3 baseline (if baseline abnormal) and treatment with corticosteroids considered, and the dose of LUMYKRAS must be either modified or permanently discontinued (see section 4.2).
 
 ## Interstitial Lung Disease (ILD)/pneumonitis
 
@@ -178,11 +174,11 @@ LUMYKRAS contains lactose. Patients with rare hereditary problems of galactose i
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-In vitro studies indicate that sotorasib is metabolised by cytochrome P450 (CYP) 2C8, CYP3A4, and CYP3A5, and is a substrate of P-glycoprotein (P-gp). Sotorasib was an inducer of CYP3A4, CYP2B6, CYP2C8, CYP2C9, and CYP2C19 in vitro . Sotorasib is an in vitro inhibitor of CYP2C8, CYP2D6, and CYP3A. In vitro studies indicate that sotorasib is an inhibitor of human organic anion transporter (OAT)1/3, OATP1B1, Breast Cancer Resistance Protein (BCRP) and P-gp.
+In vitro studies indicate that sotorasib is metabolised by cytochrome P450 (CYP) 2C8, CYP3A4, and CYP3A5, and is a substrate of P-glycoprotein (P-gp). Sotorasib was an inducer of CYP3A4, CYP2B6, CYP2C8, CYP2C9, and CYP2C19 in vitro . Sotorasib is an in vitro inhibitor of CYP2C8, CYP2D6, and CYP3A. In vitro studies indicate that sotorasib is an inhibitor of human organic anion transporter (OAT)1/3, OATP1B1, breast cancer resistance protein (BCRP) and P-gp.
 
 ## Effects of other medicinal products on sotorasib
 
@@ -192,11 +188,9 @@ Co-administration of sotorasib with a PPI (omeprazole) or an H2 receptor antagon
 
 Under fed conditions (standard-calorie moderate-fat meals), co-administration of multiple doses of omeprazole with a single dose of 960 mg sotorasib decreased sotorasib Cmax by 65% and area under the curve (AUC) by 57%. Co-administration of a single dose of famotidine given 10 hours prior and 2 hours after a single dose of 960 mg sotorasib decreased sotorasib Cmax by 35% and AUC by 38%.
 
-Under fasted conditions, co-administration of multiple doses of omeprazole with a single dose of 960 mg sotorasib decreased sotorasib Cmax by 57% and AUC by 42%. Under fasted conditions, co-administration of repeat doses of omeprazole with a single dose of 960 mg sotorasib and 240 mL of
+Under fasted conditions, co-administration of multiple doses of omeprazole with a single dose of 960 mg sotorasib decreased sotorasib Cmax by 57% and AUC by 42%. Under fasted conditions, co-administration of repeat doses of omeprazole with a single dose of 960 mg sotorasib and 240 mL of an acidic beverage (non-diet cola) decreased sotorasib Cmax by 32% and AUC by 23%. The clinical relevance of the decreased sotorasib exposure when co-administered with omeprazole and cola is unclear and efficacy might be reduced.
 
 <div style=\"page-break-after: always\"></div>
-
-an acidic beverage (non-diet cola) decreased sotorasib Cmax by 32% and AUC by 23%. The clinical relevance of the decreased sotorasib exposure when co-administered with omeprazole and cola is unclear and efficacy might be reduced.
 
 If co-administration of LUMYKRAS with an acid-reducing agent (such as a PPI or an H2 receptor antagonist) is required, LUMYKRAS should be taken with an acidic beverage (such as cola). Alternatively, LUMYKRAS should be taken 4 hours before or 10 hours after administration of a local antacid.
 
@@ -222,7 +216,7 @@ Avoid co-administration of LUMYKRAS with CYP3A4 substrates with narrow therapeut
 
 In vitro data indicated that sotorasib may have the potential to induce CYP2B6, CYP2C8, CYP2C9 and CYP2C19; the clinical relevance of these findings is unknown. When sotorasib is co-administered with medicinal products metabolised by these enzymes, appropriate monitoring is recommended.
 
-## CYP2D6 substrates
+CYP2D6 substrates
 
 In vitro data indicated that sotorasib may have the potential to inhibit CYP2D6, the clinical relevance of these findings is unknown. When LUMYKRAS is co-administered with CYP2D6 substrates (e.g. flecainide, propafenone, metoprolol), appropriate monitoring is recommended.
 
@@ -293,8 +287,6 @@ Table 3. Adverse reactions
 | Investigations                                       | Aspartate aminotransferase increased Alanine aminotransferase increased | Blood alkaline phosphatase increased Blood bilirubin increased Gamma- glutamyltransferase increased |                                                                           |
 | Metabolism and nutrition disorders                   | Decreased appetite                                                      | Hypokalaemia                                                                                        |                                                                           |
 
-a  Abdominal pain includes abdominal pain, abdominal pain upper, abdominal pain lower
-
 <div style=\"page-break-after: always\"></div>
 
 ## Description of selected adverse reactions
@@ -327,11 +319,11 @@ Pharmacotherapeutic group: Antineoplastic agents, ATC code: L01XX73
 
 ## Mechanism of action
 
-Sotorasib is a selective KRAS G12C (Kirsten rat sarcoma viral oncogene homologue) inhibitor, which covalently and irreversibly binds to the unique cysteine of KRAS G12C . Inactivation of KRAS G12C by sotorasib blocks tumour cell signalling and survival, inhibits cell growth, and promotes apoptosis selectively in tumours harbouring KRAS G12C , an oncogenic driver of tumourigenesis.
+Sotorasib is a selective KRAS G12C (Kirsten rat sarcoma viral oncogene homologue) inhibitor, which covalently and irreversibly binds to the unique cysteine of KRAS G12C. Inactivation of KRAS G12C by sotorasib blocks tumour cell signalling and survival, inhibits cell growth, and promotes apoptosis selectively in tumours harbouring KRAS G12C , an oncogenic driver of tumourigenesis.
 
 ## Clinical efficacy and safety
 
-LUMYKRAS for the treatment of patients with previously treated KRAS G12C-mutated NSCLC
+LUMYKRAS for the treatment of patients with previously treated KRAS G12C -mutated NSCLC
 
 <div style=\"page-break-after: always\"></div>
 
@@ -351,26 +343,16 @@ Efficacy results are summarised in table 4.
 
 Table 4. Efficacy results in CodeBreaK 100 for patients with KRAS G12C -mutated NSCLC (CodeBreaK 100 phase 2 part A)
 
-| Efficacy parameters                 | LUMYKRAS N = 124   |
-|-------------------------------------|--------------------|
-| ORR, %(95% CI) a,c                  | 37.1 (28.6, 46.2)  |
-| Complete response (CR),%            | 2.4                |
-| Partial response (PR),%             | 34.7               |
-| DOR a,d                             |                    |
-| Number of responders                | 46                 |
-| Median b , months (range)           | 11.1 (6.9, 15.0)   |
-| Censored,%                          | 39.0               |
-| Patients with duration ≥ 6 months,% | 63.0               |
-
-CI = confidence interval; DOR = duration of response; ORR = objective response rate
-
-a  Response-related efficacy outcome
-
-b  Estimated using Kaplan-Meier method
-
-c  Based on 01 December 2020 data cut
-
-d  Based on 20 June 2021 data cut
+| Efficacy parameters                  | LUMYKRAS N = 124   |
+|--------------------------------------|--------------------|
+| ORR, % (95% CI) a,c                  | 37.1 (28.6, 46.2)  |
+| Complete response (CR), %            | 2.4                |
+| Partial response (PR), %             | 34.7               |
+| DOR a,d                              |                    |
+| Number of responders                 | 46                 |
+| Median b , months (range)            | 11.1 (6.9, 15.0)   |
+| Censored, %                          | 39.0               |
+| Patients with duration ≥ 6 months, % | 63.0               |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -380,7 +362,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## Conditional marketing authorisation
 
-This medicinal product has been authorised under a so-called 'conditional approval' scheme. This means that further evidence on this medicinal product is awaited. The European Medicines Agency will review new information on this medicinal product at least every year and this SmPC will be updated as necessary.
+This medicinal product has been authorised under a socalled 'conditional approval' scheme. This means that further evidence on this medicinal product is awaited. The European Medicines Agency will review new information on this medicinal product at least every year and this SmPC will be updated as necessary.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -408,11 +390,9 @@ The geometric mean apparent clearance after 960 mg orally once daily for 8 conse
 
 ## Linearity/non-linearity
 
-Sotorasib exhibited nonlinear pharmacokinetics over a range of single and multiple oral administration doses studied between 180 to 960 mg once daily as Cmax and AUC0-24 hour were less than dose
+Sotorasib exhibited nonlinear pharmacokinetics over a range of single and multiple oral administration doses studied between 180 to 960 mg once daily as Cmax and AUC0-24 hour were less than dose proportional. The average Cmax and AUC0-24 hour values following multiple doses were similar for all dosing regimens from 180 mg orally once daily to 960 mg orally once daily. Exposure to sotorasib decreases over time following 960 mg orally once daily dosing regimen until steady state is reached. Steady state plasma concentrations were achieved by approximately 3 weeks across the phase 1 and phase 2 clinical studies across all sotorasib doses.
 
 <div style=\"page-break-after: always\"></div>
-
-proportional. The average Cmax and AUC0-24 hour values following multiple doses were similar for all dosing regimens from 180 mg orally once daily to 960 mg orally once daily. Exposure to sotorasib decreases over time following 960 mg orally once daily dosing regimen until steady state is reached. Steady state plasma concentrations were achieved by approximately 3 weeks across the phase 1 and phase 2 clinical studies across all sotorasib doses.
 
 ## Pharmacokinetics in special populations
 
@@ -573,9 +553,9 @@ An updated RMP should be submitted:
 
 This being a conditional marketing authorisation and pursuant to Article 14-a of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                           | Due date                                                                        |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| In order to confirm the efficacy and safety of sotorasib in the treatment of patients with KRAS G12C -mutated NSCLC, the MAHshould submit the clinical study report for the analysis of the phase 3 CodeBreaK 202 study (study 20190341) comparing sotorasib in combination with Platinum Doublet versus pembrolizumab Platinum Doublet combination for the treatment of PD-L1 Negative KRAS G12C Positive Advanced/Metastatic NSCLC. | Primary analysis clinical study report (CSR) Q2 2026 Final analysis CSR Q2 2028 |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                            | Due date                                                                        |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| In order to confirm the efficacy and safety of sotorasib in the treatment of patients with KRAS G12C -mutated NSCLC, the MAH should submit the clinical study report for the analysis of the phase 3 CodeBreaK 202 study (study 20190341) comparing sotorasib in combination with Platinum Doublet versus pembrolizumab Platinum Doublet combination for the treatment of PD-L1 Negative KRAS G12C Positive Advanced/Metastatic NSCLC. | Primary analysis clinical study report (CSR) Q4 2027 Final analysis CSR Q4 2029 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -593,9 +573,7 @@ BLISTER CARTON (with blue box)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-## LUMYKRAS 120 mg film-coated tablets
-
-sotorasib
+LUMYKRAS 120 mg film-coated tablets sotorasib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -633,8 +611,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -649,14 +627,12 @@ EU/1/21/1603/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 LUMYKRAS 120 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -714,8 +690,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -729,11 +705,11 @@ EU/1/21/1603/002
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 LUMYKRAS 120 mg
 
@@ -823,17 +799,17 @@ LUMYKRAS 120 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 LUMYKRAS 120 mg tablet sotorasib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Amgen Europe B.V.
 
@@ -896,8 +872,6 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -929,6 +903,8 @@ LUMYKRAS 120 mg
 PC SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -978,10 +954,10 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Amgen Europe B.V., Minervum 7061, 4817 ZK Breda, The Netherlands
 
@@ -1007,8 +983,8 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1052,9 +1028,16 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
+
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Amgen Europe B.V., Minervum 7061, 4817 ZK Breda, The Netherlands
+Amgen Europe B.V., Minervum 7061, 4817 ZK Breda,
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1084,19 +1067,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 LUMYKRAS 240 mg tablet sotorasib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Amgen Europe B.V.
 
@@ -1185,7 +1166,7 @@ The following medicines may reduce how well LUMYKRAS works:
 
 - Medicines used to reduce stomach acid and to treat stomach ulcers, indigestion and heartburn (see section 3) such as:
 - -dexlansoprazole, esomeprazole, lansoprazole, omeprazole, pantoprazole sodium, or rabeprazole (medicines known as 'proton pump inhibitors')
-- -ranitidine, famotidine, cimetidine (medicines known as 'H2 receptor antagonists')
+- -ranitidine, famotidine, cimetidine (medicines known as 'H 2 receptor antagonists')
 - Rifampicin (used to treat tuberculosis)
 - Medicines used to treat epilepsy called phenytoin, phenobarbital or carbamazepine (also used to treat nerve pain)
 - St. John's wort (herbal medicine used to treat depression)
@@ -1348,14 +1329,14 @@ See LUMYKRAS contains lactose and LUMYKRAS contains sodium in section 2.
 
 ## LUMYKRAS 120 mg film-coated tablets
 
-Each film-coated tablet is supplied as a yellow, oblong-shaped, film-coated tablet, with 'AMG' on one side and '120' on the other side.
+Each film-coated tablet is supplied as a yellow, oblong-shaped, filmcoated tablet, with 'AMG' on one side and '120' on the other side.
 
 - LUMYKRAS is provided in blisters containing 8 film-coated tablets in packs sizes of 240 filmcoated tablets (1 carton with 30 blisters) and multipack with 720 (3 × 240) film-coated tablets.
 - LUMYKRAS is provided in bottles containing 120 film-coated tablets in a pack size of 240 film-coated tablets (1 carton with 2 bottles).
 
 ## LUMYKRAS 240 mg film-coated tablets
 
-Each film-coated tablet is supplied as a yellow, oval-shaped, film-coated tablet, with 'AMG' on one side and '240' on the other side.
+Each film-coated tablet is supplied as a yellow, oval-shaped, filmcoated tablet, with 'AMG' on one side and '240' on the other side.
 
 - LUMYKRAS is provided in perforated unit dose blisters containing 8 film-coated tablets in pack sizes of 120 film-coated tablets (1 carton with 15 blisters).
 
@@ -1383,7 +1364,9 @@ Tél/Tel: +32 (0)2 7752711
 
 ## Lietuva
 
-Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
+Amgen Switzerland AG Vilniaus filialas
+
+Tel: +370 5 219 7474
 
 ## България
 
@@ -1445,7 +1428,9 @@ Vistor hf. Sími: +354 535 7000
 
 ## Italia
 
-Amgen S.r.l. Tel: +39 02 6241121
+Amgen S.r.l.
+
+Tel: +39 02 6241121
 
 ## Kύπρος
 

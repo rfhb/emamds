@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/spikevax.html
 document_name: spikevax.html
 version: success
-processing_time: 0.2883825
-conversion_datetime: 2026-07-28 12:31:16.655905
+processing_time: 0.4595408
+conversion_datetime: 2026-07-28 12:54:03.788448
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

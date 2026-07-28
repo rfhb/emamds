@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lysakare.html
 document_name: lysakare.html
 version: success
-processing_time: 0.1607074
-conversion_datetime: 2026-07-28 12:35:07.57537
+processing_time: 0.1619315
+conversion_datetime: 2026-07-28 12:57:56.617301
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

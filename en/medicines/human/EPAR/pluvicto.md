@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pluvicto.html
 document_name: pluvicto.html
 version: success
-processing_time: 0.125859
-conversion_datetime: 2026-07-28 12:32:18.254029
+processing_time: 0.1306792
+conversion_datetime: 2026-07-28 12:55:05.897849
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

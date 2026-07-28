@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/takhzyro.html
 document_name: takhzyro.html
 version: success
-processing_time: 0.1642033
-conversion_datetime: 2026-07-28 12:31:01.135683
+processing_time: 0.1611291
+conversion_datetime: 2026-07-28 12:53:47.93667
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

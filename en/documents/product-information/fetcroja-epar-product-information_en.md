@@ -1,24 +1,22 @@
 ---
-document_datetime: 2025-01-22 14:27:38
-document_pages: 26
+document_datetime: 2026-07-21 10:01:38
+document_pages: 27
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/fetcroja-epar-product-information_en.pdf
 document_name: fetcroja-epar-product-information_en.pdf
 version: success
-processing_time: 6.9217259
-conversion_datetime: 2025-12-20 12:08:12.899227
+processing_time: 5.6968368
+conversion_datetime: 2026-07-28 13:56:46.289142
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -46,7 +44,7 @@ White to off-white powder.
 
 ## 4.1 Therapeutic indications
 
-Fetcroja is indicated for the treatment of infections due to aerobic Gram-negative organisms  in adults with limited treatment options (see sections 4.2, 4.4 and 5.1).
+Fetcroja is indicated for the treatment of infections due to aerobic Gram-negative organisms in adults with limited treatment options (see sections 4.2, 4.4 and 5.1).
 
 Consideration should be given to official guidance on the appropriate use of antibacterial agents.
 
@@ -58,20 +56,14 @@ It is recommended that Fetcroja should be used to treat patients that have limit
 
 Table 1 Recommended dose of Fetcroja 1  for patients with a creatinine clearance (CrCL) ≥ 90 mL/min 2
 
-| Renal function                                   | Dose   | Frequency     | Duration of treatment                               |
-|--------------------------------------------------|--------|---------------|-----------------------------------------------------|
-| Normal renal function (CrCL ≥90 to < 120 mL/min) | 2 g    | Every 8 hours | Duration in accordance with the site of infection 3 |
-| Augmented renal clearance (CrCL ≥ 120 mL/min)    | 2 g    | Every 6 hours | Duration in accordance with the site of infection 3 |
-
-1 T o be used in combination with antibacterial agents active against anaerobic pathogens and/or Gram-positive pathogens when these are known or suspected to be contributing to the infectious process.
-
-2 As calculated using the Cockcroft-Gault formula.
-
-3 e.g. for complicated urinary tract infections including pyelonephritis and complicated intra-abdominal infections the recommended treatment duration is 5 to 10 days. For hospital-acquired pneumonia including ventilator-
+| Renal function                                    | Dose   | Frequency     | Duration of treatment                               |
+|---------------------------------------------------|--------|---------------|-----------------------------------------------------|
+| Normal renal function (CrCL ≥ 90 to < 120 mL/min) | 2 g    | Every 8 hours | Duration in accordance with the site of infection 3 |
+| Augmented renal clearance (CrCL ≥ 120 mL/min)     | 2 g    | Every 6 hours | Duration in accordance with the site of infection 3 |
 
 <div style=\"page-break-after: always\"></div>
 
-associated pneumonia the recommended treatment duration is 7 to 14 days. Treatment up to 21 days may be required.
+required.
 
 ## Special populations
 
@@ -79,17 +71,13 @@ Renal impairment
 
 Table 2 Recommended dose of Fetcroja for patients with a CrCl &lt; 90 ml/min 1
 
-| Renal function                                      | Dose   | Frequency      |
-|-----------------------------------------------------|--------|----------------|
-| Mild renal impairment (CrCL ≥60 to < 90 mL/min)     | 2 g    | Every 8 hours  |
-| Moderate renal impairment (CrCL ≥30 to < 60 mL/min) | 1.5 g  | Every 8 hours  |
-| Severe renal impairment (CrCL ≥15 to < 30 mL/min)   | 1 g    | Every 8 hours  |
-| End stage renal disease (CrCL < 15 mL/min)          | 0.75 g | Every 12 hours |
-| Patient with intermittent haemodialysis 2           | 0.75 g | Every 12 hours |
-
-1 As calculated using the Cockcroft-Gault formula.
-
-2 As cefiderocol is removed by haemodialysis, administer cefiderocol at the earliest possible time after completion of haemodialysis on haemodialysis days.
+| Renal function                                       | Dose   | Frequency      |
+|------------------------------------------------------|--------|----------------|
+| Mild renal impairment (CrCL ≥ 60 to < 90 mL/min)     | 2 g    | Every 8 hours  |
+| Moderate renal impairment (CrCL ≥ 30 to < 60 mL/min) | 1.5 g  | Every 8 hours  |
+| Severe renal impairment (CrCL ≥ 15 to < 30 mL/min)   | 1 g    | Every 8 hours  |
+| End stage renal disease (CrCL < 15 mL/min)           | 0.75 g | Every 12 hours |
+| Patient with intermittent haemodialysis 2            | 0.75 g | Every 12 hours |
 
 ## Hepatic impairment
 
@@ -121,7 +109,7 @@ Hypersensitivity to any cephalosporin antibacterial medicinal product.
 
 <div style=\"page-break-after: always\"></div>
 
-Severe hypersensitivity (e.g. anaphylactic reaction, severe skin reaction) to any other type of betalactam antibacterial agent (e.g. penicillins, monobactams or carbapenems).
+Severe hypersensitivity (e.g. anaphylactic reaction, severe skin reaction) to any other type of beta-lactam antibacterial agent (e.g. penicillins, monobactams or carbapenems).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -149,11 +137,9 @@ The use of cefiderocol to treat patients with infections due to Gram-negative ae
 
 ## All-cause mortality in patients with infections due to carbapenem-resistant Gram-negative bacteria
 
-A higher all-cause mortality rate was observed in patients treated with cefiderocol as compared to best available therapy (BAT) in a randomised, open-label trial in critically-ill patients with infections known or suspected to be due to carbapenem-resistant Gram-negative bacteria. The higher day 28 allcause mortality rate with cefiderocol occurred in patients treated for nosocomial pneumonia, bacteraemia and/or sepsis [25/101 (24.8%) vs. 9/49 (18.4%) with BAT; treatment difference 6.4%, 95% CI (-8.6, 19.2)]. All-cause mortality remained higher in patients treated with cefiderocol through end-of-study [34/101 (33.7%) vs. 9/49 (18.4%) with BAT; treatment difference 15.3%, 95% CI (-0.2, 28.6)]. The cause of the increase in mortality has not been established. In the cefiderocol group there
+A higher all-cause mortality rate was observed in patients treated with cefiderocol as compared to best available therapy (BAT) in a randomised, open-label trial in critically-ill patients with infections known or suspected to be due to carbapenem-resistant Gram-negative bacteria. The higher day 28 all-cause mortality rate with cefiderocol occurred in patients treated for nosocomial pneumonia, bacteraemia and/or sepsis [25/101 (24.8%) vs. 9/49 (18.4%) with BAT; treatment difference 6.4%, 95% CI (-8.6, 19.2)]. All-cause mortality remained higher in patients treated with cefiderocol through end-of-study [34/101 (33.7%) vs. 9/49 (18.4%) with BAT; treatment difference 15.3%, 95% CI (-0.2, 28.6)]. The cause of the increase in mortality has not been established. In the cefiderocol group there was an association between mortality and infection with Acinetobacter spp ., which accounted for the majority of infections due to non-fermenters. In contrast, mortality was not higher in cefiderocol vs. BAT patients with infections due to other non-fermenters.
 
 <div style=\"page-break-after: always\"></div>
-
-was an association between mortality and infection with Acinetobacter spp ., which accounted for the majority of infections due to non-fermenters. In contrast, mortality was not higher in cefiderocol vs. BAT patients with infections due to other non-fermenters.
 
 ## Spectrum of activity of cefiderocol
 
@@ -191,11 +177,9 @@ Based on in vitro studies and two phase 1 clinical studies no significant drug-d
 
 ## Pregnancy
 
-There are no or limited amount of data (less than 300 pregnancy outcomes) from the use of cefiderocol sodium in pregnant women. Animal studies do not indicate direct or indirect harmful effects with
+There are no or limited amount of data (less than 300 pregnancy outcomes) from the use of cefiderocol sodium in pregnant women. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of Fetcroja during pregnancy.
 
 <div style=\"page-break-after: always\"></div>
-
-respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of Fetcroja during pregnancy.
 
 ## Breast-feeding
 
@@ -217,26 +201,27 @@ The most common adverse reactions were diarrhoea (8.2%), vomiting (3.6%), nausea
 
 ## Tabulated list of adverse reactions
 
-The following adverse reactions have been reported with cefiderocol during clinical studies (Table 3). Adverse reactions are classified according to frequency and System Organ Class (SOC). Frequency categories are defined as: very common (≥1/10) ; common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data). Within each System Organ Class, undesirable effects are presented in order of decreasing seriousness.
+The following adverse reactions have been reported with cefiderocol during clinical studies (Table 3). Adverse reactions are classified according to frequency and System Organ Class (SOC). Frequency categories are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt;1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data). Within each System Organ Class, undesirable effects are presented in order of decreasing seriousness.
 
 Table 3 Tabulated list of adverse reactions
 
-| System organ class                   | Common (≥1/100 to <1/10)                                                                                                                                                                                        | Uncommon (≥1/1,000 to <1/100)                          | Not known   |
-|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-------------|
-| Infections and infestations          | Candidiasis including oral candidiasis, vulvovaginal candidiasis, candiduria and candida infection, Clostridioides difficile coli tis including pseudomembranous colitis and Clostridioides difficile infection |                                                        |             |
-| Blood and lymphatic system disorders |                                                                                                                                                                                                                 |                                                        | Neutropenia |
-| Immune System Disorders              |                                                                                                                                                                                                                 | Hypersensitivity including skin reactions and Pruritus |             |
-| Respiratory, thoracic and            | Cough                                                                                                                                                                                                           |                                                        |             |
+| System organ class                   | Common (≥ 1/100 to < 1/10)                                                                                                                                                                                      | Uncommon (≥ 1/1,000 to < 1/100)                        | Not known                 |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|---------------------------|
+| Infections and infestations          | Candidiasis including oral candidiasis, vulvovaginal candidiasis, candiduria and candida infection, Clostridioides difficile coli tis including pseudomembranous colitis and Clostridioides difficile infection |                                                        |                           |
+| Blood and lymphatic system disorders |                                                                                                                                                                                                                 |                                                        | Neutropenia, Eosinophilia |
+| Immune System Disorders              |                                                                                                                                                                                                                 | Hypersensitivity including skin reactions and Pruritus |                           |
+| Respiratory, thoracic and            | Cough                                                                                                                                                                                                           |                                                        |                           |
 
 <div style=\"page-break-after: always\"></div>
 
-| mediastinal disorders                                |                                                                                                                                                                                                                                                                                                   |                      |             |
-|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|-------------|
-| Gastrointestinal disorders                           | Diarrhoea, Nausea, Vomiting                                                                                                                                                                                                                                                                       |                      |             |
-| Skin and subcutaneous tissue disorders               | Rash including rash macular, rash maculo- papular, rash erythematous and drug eruption                                                                                                                                                                                                            |                      |             |
-| Renal and urinary disorders:                         |                                                                                                                                                                                                                                                                                                   |                      | Chromaturia |
-| General disorders and administration site conditions | Infusion site reaction including infusion site pain, injection site pain, infusion site erythema and injection site phlebitis                                                                                                                                                                     |                      |             |
-| Investigations                                       | Alanine aminotransferase increased, Gamma- glutamyltransferase increased, Aspartate aminotransferase increased, Hepatic function abnormal including liver function test increased, hepatic enzyme increased, transaminases increased and liver function test abnormal, Blood creatinine increased | Blood urea increased |             |
+| System organ class                                   | Common (≥ 1/100 to < 1/10)                                                                                                                                                                                                                                            | Uncommon (≥ 1/1,000 to < 1/100)   | Not known   |
+|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------|
+| mediastinal disorders                                |                                                                                                                                                                                                                                                                       |                                   |             |
+| Gastrointestinal disorders                           | Diarrhoea, Nausea, Vomiting                                                                                                                                                                                                                                           |                                   |             |
+| Skin and subcutaneous tissue disorders               | Rash including rash macular, rash maculo- papular, rash erythematous and drug eruption                                                                                                                                                                                |                                   |             |
+| Hepatobiliary disorders                              | Alanine aminotransferase increased, Gamma- glutamyltransferase increased, Aspartate aminotransferase increased, Hepatic function abnormal including liver function test increased, hepatic enzyme increased, transaminases increased and liver function test abnormal |                                   |             |
+| Renal and urinary disorders:                         | Blood creatinine increased                                                                                                                                                                                                                                            | Blood urea increased              | Chromaturia |
+| General disorders and administration site conditions | Infusion site reaction including infusion site pain, injection site pain, infusion site erythema and injection site phlebitis                                                                                                                                         |                                   |             |
 
 ## Reporting of suspected adverse reactions
 
@@ -250,13 +235,13 @@ In the event of overdose, patients should be monitored and treatment discontinua
 
 Approximately 60% of cefiderocol is removed by a 3- to 4-hour haemodialysis session.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antibacterials for systemic use, other beta-lactam antibacterials. ATC code: J01DI04
-
-<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -280,21 +265,15 @@ MIC (minimum inhibitory concentration) interpretive criteria for susceptibility 
 
 ## Pharmacokinetic/pharmacodynamic relationship
 
-The time that unbound plasma concentrations of cefiderocol exceeds the minimum inhibitory concentration (% f T&gt;MIC) against the infecting organism has been shown to best correlate with efficacy.
-
-## Antibacterial activity against specific pathogens
+The time that unbound plasma concentrations of cefiderocol exceeds the minimum inhibitory concentration (% f T&gt;MIC) against the infecting organism has been shown to best correlate with efficacy. Antibacterial activity against specific pathogens
 
 In-vitro studies suggest that the following pathogens would be susceptible to cefiderocol in the absence of acquired mechanisms of resistance:
 
 ## Aerobic Gram-negative organisms
 
-Achromobacter spp. Acinetobacter baumannii complex Burkholderia cepacia complex Citrobacter freundii complex Citrobacter koseri Escherichia coli Enterobacter cloacae complex Klebsiella (Enterobacter) aerogenes Klebsiella pneumoniae
+Achromobacter spp. Acinetobacter baumannii complex Burkholderia cepacia complex Citrobacter freundii complex Citrobacter koseri Escherichia coli Enterobacter cloacae complex Klebsiella (Enterobacter) aerogenes Klebsiella pneumoniae Klebsiella oxytoca Morganella morganii Proteus mirabilis Proteus vulgaris Providencia rettgeri Serratia spp. Pseudomonas aeruginosa Serratia marcescens Stenotrophomonas maltophilia In vitro studies indicate that the following species are not susceptible to cefiderocol:
 
 <div style=\"page-break-after: always\"></div>
-
-Klebsiella oxytoca Morganella morganii Proteus mirabilis Proteus vulgaris Providencia rettgeri Serratia spp. Pseudomonas aeruginosa Serratia marcescens Stenotrophomonas maltophilia
-
-In vitro studies indicate that the following species are not susceptible to cefiderocol:
 
 Aerobic Gram-positive organisms Anaerobic organisms
 
@@ -320,9 +299,11 @@ Co-administration with 2 g doses of cefiderocol given every 8 hours did not affe
 
 ## Elimination
 
-The terminal elimination half-life in healthy adult subjects was 2 to 3 hours. The geometric mean (%CV) of clearance of cefiderocol in healthy subjects is estimated to be 5.18 (17.2%) L/hr. Cefiderocol is primarily eliminated by the kidneys. After administration of a single 1 g dose of [ 14 C]labelled cefiderocol infused over 1 hour, the amount of total radioactivity excreted in urine was 98.6% of the administered dose, with 2.8% of the administered dose excreted in faeces. The amount of unchanged cefiderocol excreted in urine was 90.6% of the administered dose.
+The terminal elimination half-life in healthy adult subjects was 2 to 3 hours. The geometric mean (%CV) of clearance of cefiderocol in healthy subjects is estimated to be 5.18 (17.2%) L/hr.
 
 <div style=\"page-break-after: always\"></div>
+
+Cefiderocol is primarily eliminated by the kidneys. After administration of a single 1 g dose of [ 14 C]-labelled cefiderocol infused over 1 hour, the amount of total radioactivity excreted in urine was 98.6% of the administered dose, with 2.8% of the administered dose excreted in faeces. The amount of unchanged cefiderocol excreted in urine was 90.6% of the administered dose.
 
 ## Linearity/non-linearity
 
@@ -338,7 +319,7 @@ Pharmacokinetic studies have not been performed with cefiderocol in infants and 
 
 ## Renal impairment
 
-The pharmacokinetics of cefiderocol after administration of a single 1 g dose was assessed in subjects with mild renal impairment (n=8, estimated glomerular filtration rate [eGFR] of 60 to &lt; 90 mL/min/1.73 m 2 ), moderate renal impairment (n=7, eGFR 30 to &lt; 60 mL/min/1.73 m 2 ), severe renal impairment (n=6, eGFR less than 30 mL/min/1.73 m 2 ), end-stage renal disease (ESRD) requiring haemodialysis (n=8), and healthy subjects with normal renal function (n=8, estimated creatinine clearance of at least 90 mL/min).  The geometric mean ratios (GMR; mild, moderate, severe or ESRD without haemodialysis/normal renal function) and 90% confidence intervals (CI) for the AUC of cefiderocol were 1.0 (0.8, 1.3), 1.5 (1.2, 1.9), 2.5 (2.0, 3.3) and 4.1 (3.3, 5.2), respectively. Approximately 60% of Fetcroja was removed by a 3- to 4-hour haemodialysis session.
+The pharmacokinetics of cefiderocol after administration of a single 1 g dose was assessed in subjects with mild renal impairment (n = 8, estimated glomerular filtration rate [eGFR] of 60 to &lt; 90 mL/min/1.73 m 2 ), moderate renal impairment (n = 7, eGFR 30 to &lt; 60 mL/min/1.73 m 2 ), severe renal impairment (n = 6, eGFR less than 30 mL/min/1.73 m 2 ), end-stage renal disease (ESRD) requiring haemodialysis (n = 8), and healthy subjects with normal renal function (n = 8, estimated creatinine clearance of at least 90 mL/min).  The geometric mean ratios (GMR; mild, moderate, severe or ESRD without haemodialysis/normal renal function) and 90% confidence intervals (CI) for the AUC of cefiderocol were 1.0 (0.8, 1.3), 1.5 (1.2, 1.9), 2.5 (2.0, 3.3) and 4.1 (3.3, 5.2), respectively. Approximately 60% of Fetcroja was removed by a 3- to 4-hour haemodialysis session.
 
 The recommended dose adjustments in subjects with varying degrees of renal impairment are expected to provide comparable exposures to subjects with normal renal function or mild renal impairment (see section 4.2).
 
@@ -350,6 +331,8 @@ Simulations using the population PK model demonstrated that the recommended dose
 
 Hepatic impairment is not expected to alter the elimination of Fetcroja as hepatic metabolism/excretion represent a minor pathway of elimination of Fetcroja.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, or genotoxicity. Carcinogenicity studies with cefiderocol have not been conducted.
@@ -359,8 +342,6 @@ Cefiderocol was negative for mutagenicity in an in vitro reverse mutation test w
 Cefiderocol had no impairment of fertility and early embryonic development in rats treated with cefiderocol intravenously up to 1000 mg/kg/day corresponding to a margin to clinical exposure of 0.8. There was no evidence of teratogenicity or embryotoxicity in rats or mice that received 1000 mg/kg/day or 2000 mg/kg/day respectively corresponding to margins to clinical exposure of 0.9 and 1.3
 
 Cefiderocol had no adverse effects on growth and development, including neurobehavioural function in juvenile rats that received 1000 mg/kg/day subcutaneously during postnatal day (PND)7 to PND27, or 600 mg/kg/day intravenously from PND28 to PND48.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -380,11 +361,13 @@ Powder
 
 3 years.
 
-Stability of reconstituted solution in the vial
+## Stability of reconstituted solution in the vial
 
 Chemical and physical in-use stability after reconstitution has been demonstrated for 1 hour at 25°C.
 
 From a microbiological point of view, unless the method of opening/reconstitution precludes the risk of microbial contamination, the reconstituted product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user and should not be more than 1 hour at 25°C.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Stability of the diluted solution in the infusion bag
 
@@ -402,8 +385,6 @@ Store in the original carton in order to protect from light.
 
 For storage conditions after reconstitution and dilution of the medicinal product, see section 6.3.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.5 Nature and contents of container
 
 14 mL vial (Type I clear glass vial), chlorobutyl elastomeric stopper, and aluminum seal with a plastic flip-off cap. The vials are packed in a cardboard carton.
@@ -418,14 +399,16 @@ The powder should be reconstituted with 10 mL of either sodium chloride 9 mg/ml 
 
 To prepare the required doses, the appropriate volume of reconstituted solution should be withdrawn from the vial according to Table 4. Add the withdrawn volume to the infusion bag containing the remainder of the 100 mL of sodium chloride 9 mg/ml (0.9%) solution for injection, or 5% dextrose injection, inspect the resulting diluted drug product solution in the infusion bag visually for particulate matter and discoloration prior to use.  Do not use discoloured solutions or solutions with visible particles.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 4 Preparation of cefiderocol doses
 
-| Cefideroco l dose   | Number of 1 g cefiderocol vials to be reconstituted   | Volume to withdraw from reconstituted vial(s)                         | Total volume of cefiderocol solution required for further dilution in at least 100 mLof 0.9% sodium chloride injection or5% dextrose injection   |
-|---------------------|-------------------------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2 g                 | 2 vials                                               | 11.2 mL (entire contents) from both vials                             | 22.4 mL                                                                                                                                          |
-| 1.5 g               | 2 vials                                               | 11.2 mL (entire contents) from first vial AND 5.6 mL from second vial | 16.8 mL                                                                                                                                          |
-| 1 g                 | 1 vial                                                | 11.2 mL (entire contents)                                             | 11.2 mL                                                                                                                                          |
-| 0.75 g              | 1 vial                                                | 8.4 mL                                                                | 8.4 mL                                                                                                                                           |
+| Cefiderocol dose   | Number of 1 g cefiderocol vials to be reconstituted   | Volume to withdraw from reconstituted vial(s)                         | Total volume of cefiderocol solution required for further dilution in at least 100 mL of 0.9% sodium chloride injection or 5% dextrose injection   |
+|--------------------|-------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2 g                | 2 vials                                               | 11.2 mL (entire contents) from both vials                             | 22.4 mL                                                                                                                                            |
+| 1.5 g              | 2 vials                                               | 11.2 mL (entire contents) from first vial AND 5.6 mL from second vial | 16.8 mL                                                                                                                                            |
+| 1 g                | 1 vial                                                | 11.2 mL (entire contents)                                             | 11.2 mL                                                                                                                                            |
+| 0.75 g             | 1 vial                                                | 8.4 mL                                                                | 8.4 mL                                                                                                                                             |
 
 Standard aseptic techniques should be used for solution preparation and administration.
 
@@ -435,11 +418,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Shionogi B.V. Herengracht 464, 1017CA Amsterdam Netherlands
 
-<div style=\"page-break-after: always\"></div>
-
-8.
-
-MARKETING AUTHORISATION NUMBER(S)
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/20/1434/001
 
@@ -447,11 +426,9 @@ EU/1/20/1434/001
 
 Date of first authorisation: 23 april 2020
 
-Date of latest renewal:
+Date of latest renewal: 13 January 2025
 
-10.
-
-DATE OF REVISION OF THE TEXT
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
@@ -460,7 +437,9 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -553,44 +532,34 @@ Store in the original carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Shionogi B.V. Herengracht 464 1017CA Amsterdam
 
 Netherlands
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/20/1434/001
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
 
@@ -598,16 +567,15 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| VIAL LABEL   |
-|--------------|
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Fetcroja 1 g powder for concentrate cefiderocol IV
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+2. METHOD OF ADMINISTRATION
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -619,8 +587,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 g
 
@@ -637,7 +605,7 @@ Lot
 
 ## Fetcroja 1 g powder for concentrate for solution for infusion cefiderocol
 
-## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
+Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your doctor or nurse.
@@ -719,6 +687,8 @@ If you get any pain where the Fetcroja infusion goes into your vein, tell your d
 
 If you have kidney problems, talk to your doctor before you are given Fetcroja. The doctor will adjust your dose of Fetcroja.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you are given more Fetcroja than you should
 
 Fetcroja will be given to you by a doctor or nurse, so it is unlikely you will be given the wrong dose. Tell your doctor or nurse straight away if you think you have been given more Fetcroja than you should have.
@@ -728,8 +698,6 @@ Fetcroja will be given to you by a doctor or nurse, so it is unlikely you will b
 If you think you have not been given a dose of Fetcroja, tell your doctor or nurse straight away.
 
 If you have any further questions on the use of this medicine, ask your doctor or nurse.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
@@ -767,12 +735,15 @@ Tell your doctor or nurse if you notice any of the following side effects.
 -  Increased blood urea values
 -  Allergy to Fetcroja
 
+<div style=\"page-break-after: always\"></div>
+
 ## Not known
 
 (frequency cannot be estimated from the available data)
 
 -  Reduced count of specific white blood cells (neutrophil granulocytes)
 -  Discoloration of urine (chromaturia)
+-  Increased count of specific white blood cells (eosinophils)
 
 ## Reporting of side effects
 
@@ -785,8 +756,6 @@ Keep this medicine out of the sight and reach of children.
 Do not use this medicine after the expiry date which is stated on the label. The expiry date refers to the last day of that month.
 
 Store unopened vials in a refrigerator (2°C - 8°C).
-
-<div style=\"page-break-after: always\"></div>
 
 Store in the original package in order to protect from light.
 
@@ -803,33 +772,17 @@ Fetcroja is a white to off-white powder for concentrate for solution for infusio
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Shionogi B.V. Herengracht 464 1017CA Amsterdam
-
-Netherlands
+Shionogi B.V. Herengracht 464 1017CA Amsterdam Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 AT, BE, BG, CY, CZ, DK, EE, EL, FI, HR, HU, IE, IS, LT, LU, LV, MT, NL, NO, PL,
 
-PT, RO, SE, SI, SK Shionogi B.V. Tel/Tel./ Te л ./ Tlf./ Tél/ Puh/ Sími/ Τηλ : +31 (0)20 703 8327 contact@shionogi.eu
+PT, RO, SE, SI, SK Shionogi B.V. Tel/Tel./ Te л ./ Tlf./ Tél/ Puh/ Sími/ Τηλ : +31 (0)20 703 8327 contact@shionogi.eu Deutschland Tel: + 49 (0)30 2062980 66
 
-## España
+Shionogi B.V. kontakt@shionogi.eu España Shionogi SLU Tel: + 34 911 239 258 contacta@shionogi.eu
 
-## Deutschland
-
-Shionogi GmbH Tel: + 49 (0)30 2062980 66 kontakt@shionogi.eu
-
-## Italia
-
-Shionogi SLU Tel: + 34 911 239 258 contacta@shionogi.eu
-
-Shionogi Srl Tel: + 39 06 94 805 118 contattaci@shionogi.eu
-
-## France
-
-Shionogi SAS Tel: +33 (0) 186655806
-
-contactfrance@shionogi.eu
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in.
 
@@ -843,23 +796,31 @@ Detailed information on this medicine is available on the European Medicines Age
 
 Each vial is for single use only.
 
-<div style=\"page-break-after: always\"></div>
-
 The powder should be reconstituted with 10 mL of either sodium chloride 9 mg/ml (0.9%) solution for injection or 5% dextrose injection taken from the 100 mL bags that will be used to prepare the final infusion solution and should be gently shaken to dissolve. The vial(s) should be allowed to stand until the foaming generated on the surface has disappeared (typically within 2 minutes). The final volume of the reconstituted solution in the vial will be approximately 11.2 mL (caution: the reconstituted solution is not for direct injection).
 
 To prepare the required doses, the appropriate volume of reconstituted solution should be withdrawn from the vial according to the table below. Add the withdrawn volume to the infusion bag containing the remainder of the 100 mL of sodium chloride 9 mg/ml (0.9%) solution for injection, or 5% dextrose injection, inspect the resulting diluted drug product solution in the infusion bag visually for particulate matter and discoloration prior to use. Do not use discoloured solutions or solutions with visible particles.
 
 ## Preparation of cefiderocol doses
 
-| Cefiderocol dose   | Number of 1 g cefiderocol vials to be reconstituted   | Volume to withdraw from reconstituted vial(s)                         | Total volume of cefiderocol solution required for further dilution in at least 100mL of 0.9% sodium chloride injection or5% dextrose injection   |
-|--------------------|-------------------------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2 g                | 2 vials                                               | 11.2 mL (entire contents) from both vials                             | 22.4 mL                                                                                                                                          |
-| 1.5 g              | 2 vials                                               | 11.2 mL (entire contents) from first vial AND 5.6 mL from second vial | 16.8 mL                                                                                                                                          |
-| 1 g                | 1 vial                                                | 11.2 mL (entire contents)                                             | 11.2 mL                                                                                                                                          |
-| 0.75 g             | 1 vial                                                | 8.4 mL                                                                | 8.4 mL                                                                                                                                           |
+| Cefiderocol dose   | Number of 1 g cefiderocol vials to be reconstituted   | Volume to withdraw from reconstituted vial(s)                         | Total volume of cefiderocol solution required for further dilution in at least 100 mL of 0.9% sodium chloride injection or 5% dextrose injection   |
+|--------------------|-------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2 g                | 2 vials                                               | 11.2 mL (entire contents) from both vials                             | 22.4 mL                                                                                                                                            |
+| 1.5 g              | 2 vials                                               | 11.2 mL (entire contents) from first vial AND 5.6 mL from second vial | 16.8 mL                                                                                                                                            |
+| 1 g                | 1 vial                                                | 11.2 mL (entire contents)                                             | 11.2 mL                                                                                                                                            |
+| 0.75 g             | 1 vial                                                | 8.4 mL                                                                | 8.4 mL                                                                                                                                             |
 
 Standard aseptic techniques should be used for solution preparation and administration.
 
-This medicinal product must not be mixed with other medicinal products except those mentioned above in this section. If treatment with a combination of another medicinal product and Fetcroja is unavoidable, administration should not occur in the same syringe or in the same infusion solution. It is recommended to adequately flush intravenous lines between administration of different medicinal products.
+This medicinal product must not be mixed with other medicinal products except those mentioned above in this section. If treatment with a combination of another medicinal product and Fetcroja is
+
+Italia Shionogi Srl Tel: + 39 06 94 805 118 contattaci@shionogi.eu
+
+## France
+
+Shionogi SAS Tel: +33 (0) 186655806
+
+contactfrance@shionogi.eu unavoidable, administration should not occur in the same syringe or in the same infusion solution. It is recommended to adequately flush intravenous lines between administration of different medicinal products.
+
+<div style=\"page-break-after: always\"></div>
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

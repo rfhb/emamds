@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-02 15:51:03
-document_pages: 107
+document_datetime: 2026-07-21 14:45:38
+document_pages: 110
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/takhzyro-epar-product-information_en.pdf
 document_name: takhzyro-epar-product-information_en.pdf
 version: success
-processing_time: 26.0649553
-conversion_datetime: 2025-12-19 12:34:29.192701
+processing_time: 52.1114804
+conversion_datetime: 2026-07-28 13:42:12.190278
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,13 +24,10 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-TAKHZYRO 150 mg solution for injection in pre-filled syringe
-
-TAKHZYRO 300 mg solution for injection in pre-filled syringe
-
-TAKHZYRO 300 mg solution for injection in pre-filled pen
-
-TAKHZYRO 300 mg solution for injection
+- TAKHZYRO 150 mg solution for injection in pre-filled syringe
+- TAKHZYRO 300 mg solution for injection in pre-filled syringe
+- TAKHZYRO 300 mg solution for injection in pre-filled pen
+- TAKHZYRO 300 mg solution for injection
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -44,11 +41,15 @@ One unit (pre-filled syringe, pre-filled pen, or vial) contains 300 mg of lanade
 
 * Lanadelumab is produced in Chinese Hamster Ovary (CHO) cells by recombinant DNA technology.
 
+## Excipient with known effect
+
+Each TAKHZYRO 150 mg solution for injection in pre-filled syringe contains 0.1 mg of polysorbate 80. Each TAKHZYRO 300 mg solution for injection (in pre-filled syringe, in pre-filled pen, or vial) contains 0.2 mg of polysorbate 80.
+
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-## Solution for injection
+Solution for injection
 
 The solution is colourless to slightly yellow, appearing either clear or slightly opalescent.
 
@@ -66,13 +67,13 @@ This medicinal product should be initiated under the supervision of a physician 
 
 ## Posology
 
-Adults and Adolescents 12 to less than 18 years of age
+Adults and adolescents 12 to less than 18 years of age
 
 The recommended starting dose is 300 mg lanadelumab every 2 weeks. In patients who are stably attack free on treatment, a dose reduction to 300 mg lanadelumab every 4 weeks may be considered, especially in patients with low weight.
 
-In patients with a body weight less than 40 kg, a starting dose of 150 mg lanadelumab every 2 weeks may also be considered. In patients who are stably attack free on treatment, a dose reduction to 150 mg lanadelumab every 4 weeks may be considered.
-
 <div style=\"page-break-after: always\"></div>
+
+In patients with a body weight less than 40 kg, a starting dose of 150 mg lanadelumab every 2 weeks may also be considered. In patients who are stably attack free on treatment, a dose reduction to 150 mg lanadelumab every 4 weeks may be considered.
 
 ## Children 2 to less than 12 years of age
 
@@ -84,7 +85,7 @@ Patients with a body weight of 20 to less than 40 kg who are stably attack free 
 
 Table 1. Recommended dose in children 2 to less than 12 years of age
 
-| Body Weight (kg)      | Recommended Starting Dose        | Dose Adjustment                                                                                                            |
+| Body weight (kg)      | Recommended starting dose        | Dose adjustment                                                                                                            |
 |-----------------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | 10 to less than 20 kg | 150 mg lanadelumab every 4 weeks | A dose increase to 150 mg lanadelumab every 3 weeks may be considered in patients with insufficient control of attacks     |
 | 20 to less than 40 kg | 150 mg lanadelumab every 2 weeks | A dose reduction to 150 mg lanadelumab every 4 weeks may be considered in patients who are stably attack free on treatment |
@@ -98,9 +99,9 @@ TAKHZYRO is not intended for treatment of acute HAE attacks (see section 4.4).
 
 If a dose of TAKHZYRO is missed, the patient or caregiver should be instructed to administer the dose as soon as possible. The subsequent dosing schedule may need adjustment according to the intended dosing frequency to ensure:
 
--  at least 10 days between doses for patients on every 2 weeks dosing regimen,
--  at least 17 days between doses for patients on every 3 weeks dosing regimen,
--  at least 24 days between doses for patients on every 4 weeks dosing regimen.
+- at least 10 days between doses for patients on every 2 weeks dosing regimen,
+- at least 17 days between doses for patients on every 3 weeks dosing regimen,
+- at least 24 days between doses for patients on every 4 weeks dosing regimen.
 
 ## Special populations
 
@@ -108,11 +109,11 @@ If a dose of TAKHZYRO is missed, the patient or caregiver should be instructed t
 
 Age is not expected to affect exposure to lanadelumab. No dose adjustment is required for patients above 65 years of age (see section 5.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hepatic impairment
 
 No studies have been conducted in patients with hepatic impairment. Hepatic impairment is not expected to affect exposure to lanadelumab. No dose adjustment is required in patients with hepatic impairment (see section 5.2).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -152,13 +153,11 @@ Hypersensitivity reactions have been observed. In case of a severe hypersensitiv
 
 TAKHZYRO is not intended for treatment of acute HAE attacks. In case of a breakthrough HAE attack, individualized treatment should be initiated with an approved rescue medication.
 
-There is limited clinical data on the use of lanadelumab in HAE patients with normal C1-INH (see section 5.1).
-
-Patients with HAE nC1-INH having mutations that are not associated with the kallikrein-kinin system (KKS) pathway are not expected to respond to TAKHZYRO. It is recommended to perform genetic
-
 <div style=\"page-break-after: always\"></div>
 
-testing, if available, according to the current HAE guidelines and to discontinue the treatment if clinical response is not observed (see section 4.2 and 5.1).
+There is limited clinical data on the use of lanadelumab in HAE patients with normal C1-INH (see section 5.1).
+
+Patients with HAE nC1-INH having mutations that are not associated with the kallikrein-kinin system (KKS) pathway are not expected to respond to TAKHZYRO. It is recommended to perform genetic testing, if available, according to the current HAE guidelines and to discontinue the treatment if clinical response is not observed (see section 4.2 and 5.1).
 
 ## Interference with coagulation test
 
@@ -167,6 +166,10 @@ Lanadelumab can increase activated partial thromboplastin time (aPTT) due to an 
 ## Sodium content
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per pre-filled syringe, pre-filled pen, or vial, that is to say essentially 'sodium-free'.
+
+## Polysorbate content
+
+This medicinal product contains 0.1 mg of polysorbate 80 in each 150 mg pre-filled syringe and 0.2 mg of polysorbate 80 in each 300 mg pre-filled syringe, pre-filled pen, or vial, which is equivalent to 0.1 mg/ml. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -188,6 +191,8 @@ It is unknown whether lanadelumab is excreted in human milk. Human IgGs are know
 
 Lanadelumab's effect on fertility has not been evaluated in humans. Lanadelumab had no effect on male or female fertility in cynomolgus monkeys (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 TAKHZYRO has no or negligible influence on the ability to drive and use machines.
@@ -196,17 +201,13 @@ TAKHZYRO has no or negligible influence on the ability to drive and use machines
 
 ## Summary of the safety profile
 
-The most commonly (52.4%) observed adverse reaction associated with TAKHZYRO was injection site reactions (ISR) including injection site pain, injection site erythema and injection site bruising. Of
-
-<div style=\"page-break-after: always\"></div>
-
-these ISRs, 97% were of mild intensity, 90% resolved within 1 day after onset with a median duration of 6 minutes.
+The most commonly (52.4%) observed adverse reaction associated with TAKHZYRO was injection site reactions (ISR) including injection site pain, injection site erythema and injection site bruising. Of these ISRs, 97% were of mild intensity, 90% resolved within 1 day after onset with a median duration of 6 minutes.
 
 Hypersensitivity reaction (mild and moderate pruritus, discomfort and tingling of tongue) was observed (1.2%), see section 4.4.
 
 ## Tabulated list of adverse reactions
 
-Table 2 summarises adverse reactions observed in the HELP study that included 84 subjects with HAE, who received at least one dose of TAKHZYRO.
+Table 2 summarises adverse reactions observed in the HELP study that included 84 subjects with HAE, who received at least one dose of TAKHZYRO and reports from post-marketing experience.
 
 The frequency of adverse reactions listed in Table 2 is defined using the following convention: Very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000).
 
@@ -222,21 +223,17 @@ Table 2. Adverse reactions reported with lanadelumab
 | Investigations                                       | Alanine aminotransferase increased   | Common      |
 | Investigations                                       | Aspartate aminotransferase increased | Common      |
 
-*Hypersensitivity includes: pruritus, discomfort and tingling of tongue.
-
-**Injection site reactions include: pain, erythema, bruising, discomfort, haematoma, haemorrhage, pruritus, swelling, induration, paraesthesia, reaction, warmth, oedema and rash.
-
 Safety data available from the HELP study extension are consistent with the safety data from the HELP study (described in Table 2).
 
 ## Paediatric population
 
 The safety of TAKHZYRO 300 mg/2 ml was evaluated in a subgroup of 23 subjects 12 to less than 18 years of age in the HELP and HELP study extension. In the SPRING study, safety of TAKHZYRO was also evaluated at 150 mg/1 ml in 21 subjects 2 to less than 12 years of age (see section 5.1). No subject below the age of 3.5 years was receiving lanadelumab in the study. No new adverse reactions were identified. Safety and tolerability results for paediatric subjects were consistent with overall study results for all subjects.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -250,7 +247,7 @@ Pharmacotherapeutic group: Other haematological agents, drugs used in hereditary
 
 ## Mechanism of action
 
-Lanadelumab is a fully human, monoclonal antibody (IgG1/ κ-light chain). Lanadelumab inhibits active plasma kallikrein proteolytic activity. Increased plasma kallikrein activity leads to proteolysis of high-molecular-weight-kininogen (HMWK) to generate cleaved HMWK (cHMWK) and bradykinin, which is associated with inflammation and swelling in HAE attacks.
+Lanadelumab is a fully human, monoclonal antibody (IgG1/ κ -light chain). Lanadelumab inhibits active plasma kallikrein proteolytic activity. Increased plasma kallikrein activity leads to proteolysis of high-molecular-weight-kininogen (HMWK) to generate cleaved HMWK (cHMWK) and bradykinin, which is associated with inflammation and swelling in HAE attacks.
 
 ## Pharmacodynamic effects
 
@@ -266,11 +263,11 @@ For children aged 2 to less than 6 years (150 mg every 4 weeks) and 6 to less th
 
 The HELP study was a multicenter, randomised, double-blind, placebo-controlled parallel-group study in 125 (115 adults and 10 adolescents) subjects with symptomatic type I or II HAE. Subjects were randomised into 1 of 4 parallel treatment arms, stratified by baseline attack rate, in a 3:2:2:2 ratio (placebo, lanadelumab 150 mg every 4 weeks, lanadelumab 300 mg every 4 weeks, or lanadelumab 300 mg every 2 weeks by subcutaneous injection) for the 26-week treatment period.
 
+<div style=\"page-break-after: always\"></div>
+
 The median (range) age of the study population was 42 (12 to 73) years with 88 female subjects (70%). A history of laryngeal angioedema attacks was reported in 65% (81/125) of subjects and 56% (70/125) were on prior long-term prophylaxis (LTP). During the study run-in period, the mean attack rate was 3.7 attacks/month with 52% (65/125) of subjects experiencing ≥ 3 attacks/month.
 
 All TAKHZYRO treatment arms produced statistically significant reductions in the mean HAE attack rate compared to placebo across all primary and secondary endpoints in the Intent-to-Treat population (ITT) (Table 3).
-
-<div style=\"page-break-after: always\"></div>
 
 Table 3. Results of primary and secondary efficacy measures-ITT population
 
@@ -279,28 +276,30 @@ Table 3. Results of primary and secondary efficacy measures-ITT population
 | Endpoint statistics a                                                                  | Placebo (N = 41)                                                                       | 150 mg every 4 weeks (N = 28)                                                          | 300 mg every 4 weeks (N = 29)                                                          | 300 mg every 2 weeks (N = 27)                                                          |
 | Primary endpoint - Number of HAE attacks from Day 0 to 182                             | Primary endpoint - Number of HAE attacks from Day 0 to 182                             | Primary endpoint - Number of HAE attacks from Day 0 to 182                             | Primary endpoint - Number of HAE attacks from Day 0 to 182                             | Primary endpoint - Number of HAE attacks from Day 0 to 182                             |
 | LS Mean (95% CI) monthly attack rate b                                                 | 1.97 (1.64, 2.36)                                                                      | 0.48 (0.31, 0.73)                                                                      | 0.53 (0.36, 0.77)                                                                      | 0.26 (0.14, 0.46)                                                                      |
-| %Reduction relative to placebo (95% CI) c                                              |                                                                                        | 76 (61, 85)                                                                            | 73 (59, 82)                                                                            | 87 (76, 93)                                                                            |
+| % Reduction relative to placebo (95% CI) c                                             |                                                                                        | 76 (61, 85)                                                                            | 73 (59, 82)                                                                            | 87 (76, 93)                                                                            |
 | Adjusted p-values d                                                                    |                                                                                        | < 0.001                                                                                | < 0.001                                                                                | < 0.001                                                                                |
 | Secondary endpoint - Number of HAE attacks requiring acute treatment from Day 0 to 182 | Secondary endpoint - Number of HAE attacks requiring acute treatment from Day 0 to 182 | Secondary endpoint - Number of HAE attacks requiring acute treatment from Day 0 to 182 | Secondary endpoint - Number of HAE attacks requiring acute treatment from Day 0 to 182 | Secondary endpoint - Number of HAE attacks requiring acute treatment from Day 0 to 182 |
 | LS Mean (95% CI) monthly attack rate b                                                 | 1.64 (1.34, 2.00)                                                                      | 0.31 (0.18, 0.53)                                                                      | 0.42 (0.28, 0.65)                                                                      | 0.21 (0.11, 0.40)                                                                      |
-| %Reduction relative to placebo (95% CI) c                                              |                                                                                        | 81 (66, 89)                                                                            | 74 (59, 84)                                                                            | 87 (75, 93)                                                                            |
+| % Reduction relative to placebo (95% CI) c                                             |                                                                                        | 81 (66, 89)                                                                            | 74 (59, 84)                                                                            | 87 (75, 93)                                                                            |
 | Adjusted p-values d                                                                    |                                                                                        | < 0.001                                                                                | < 0.001                                                                                | < 0.001                                                                                |
 | Secondary endpoint - Number of moderate or severe HAE attacks from Day 0 to 182        | Secondary endpoint - Number of moderate or severe HAE attacks from Day 0 to 182        | Secondary endpoint - Number of moderate or severe HAE attacks from Day 0 to 182        | Secondary endpoint - Number of moderate or severe HAE attacks from Day 0 to 182        | Secondary endpoint - Number of moderate or severe HAE attacks from Day 0 to 182        |
 | LS Mean (95% CI) monthly attack rate b                                                 | 1.22 (0.97, 1.52)                                                                      | 0.36 (0.22, 0.58)                                                                      | 0.32 (0.20, 0.53)                                                                      | 0.20 (0.11, 0.39)                                                                      |
-| %Reduction relative to placebo (95% CI) c                                              |                                                                                        | 70 (50, 83)                                                                            | 73 (54, 84)                                                                            | 83 (67, 92)                                                                            |
+| % Reduction relative to placebo (95% CI) c                                             |                                                                                        | 70 (50, 83)                                                                            | 73 (54, 84)                                                                            | 83 (67, 92)                                                                            |
 | Adjusted p-values d                                                                    |                                                                                        | < 0.001                                                                                | < 0.001                                                                                | < 0.001                                                                                |
 
 Note: CI = confidence interval; LS = least squares.
 
-a Results are from a Poisson regression model accounting for over dispersion with fixed effects for treatment group (categorical) and normalized baseline attack rate (continuous), and the logarithm of time in days each subject was observed during the treatment period as an offset variable in the model.
+a Results are from a Poisson regression model accounting for over dispersion with fixed effects for treatment group (categorical) and normalized baseline attack rate (continuous), and the logarithm of time in days each subject was observed during the treatment period as an offset variable in the model. b
 
-b Model-based treatment period HAE attack rate (attacks/4 weeks).
+Model-based treatment period HAE attack rate (attacks/4 weeks).
 
 c % reduction relative to placebo corresponds to 100% * (1-rate ratio). The rate ratio is ratio of the model-based treatment period HAE attack rates.
 
 d Adjusted p-values for multiple testing.
 
 The mean reduction in HAE attack rate was consistently higher across the TAKHZYRO treatment arms compared to placebo regardless of the baseline history of LTP, laryngeal attacks, or attack rate during the run-in period. The percentage of subjects who were attack free is provided in Table 4.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 4. Percentage of subjects who were attack free through treatment
 
@@ -315,9 +314,7 @@ The percentage of patients who were attack free for the last 16-weeks (Day 70 to
 
 100% of the subjects on 300 mg every 2 weeks or every 4 weeks and 89% on 150 mg every 4 weeks achieved at least a 50% reduction in HAE attack rate compared to the run-in period.
 
-<div style=\"page-break-after: always\"></div>
-
-## Health related quality of life
+Health related quality of life
 
 All TAKHZYRO treatment groups observed an improvement in Angioedema Quality of Life Questionnaire (AE-QoL) total and domain (functioning, fatigue/mood, fear/shame, and nutrition) scores compared to the placebo group; the largest improvement was observed in the functioning score as shown in Table 5. A reduction of 6 points is considered a clinically meaningful improvement. The percentage of patients who achieved a clinically meaningful improvement in AE-QoL total score was 65% (Odds ratio vs placebo, [95% CI] = 3.2 [1.1, 9.2]), 63% (2.9 [1.1, 8.1]), and 81% (7.2 [2.2, 23.4]), in TAKHZYRO 150 mg every 4 weeks, 300 mg every 4 weeks, and 300 mg every 2 weeks groups, respectively, compared to 37% of patients in the placebo group.
 
@@ -335,39 +332,37 @@ Note: AE-QoL = Angioedema Quality of Life; LS = least squares; SD = standard dev
 
 a Lower scores indicate lower impairment (or better health-related quality of life).
 
-## HELP study extension
+HELP study extension
 
 Long-term safety and efficacy, PK, and impact on health-related quality of life (HRQoL) of TAKHZYRO for prophylaxis to prevent HAE attacks were evaluated in an open-label uncontrolled HELP study extension.
 
-A total of 212 adult and adolescent (≥ 12 years) subjects with symptomatic type I or II HAE received at least one dose of lanadelumab 300 mg every 2 weeks in this study, including 109 subjects who entered as rollover subjects from the HELP study. Rollover subjects, regardless of randomisation group in the HELP Study, received a single dose of lanadelumab 300 mg at study entry and did not receive additional treatment until the occurrence of an HAE attack. After the first HAE attack, all subjects received open-label treatment with lanadelumab 300 mg every 2 weeks. The study also included 103 new or non-rollover subjects (including 19 subjects from Phase1b study) who had a historical baseline attack rate of ≥ 1 attack per 12 weeks. The non-rollover subjects received lanadelumab 300 mg every 2 weeks at study entry. Subjects were allowed to initiate self-administration after receiving the first 2 doses from a health care professional in clinic and completing appropriate training.
-
-The majority of subjects (173/212; 81.6%) who were treated in this study completed at least 30 months of treatment (either as a rollover or non-rollover subjects). The mean (SD) time in the HELP study extension was 29.6 (8.20) months. The majority of subjects self-administered lanadelumab (60.6% of 8,018 injections).
-
-There was a sustained reduction in attack rates compared to baseline during the HELP study extension, with a similar response to TAKHZYRO observed in both rollover (92.4%) and non-rollover groups (82.0%) and an overall reduction rate of 87.4%. Though the magnitude of the attack rate reduction in the HELP study limited the potential for further reductions in the HELP extension study, mean attack
+A total of 212 adult and adolescent (≥ 12 years) subjects with symptomatic type I or II HAE received at least one dose of lanadelumab 300 mg every 2 weeks in this study, including 109 subjects who entered as rollover subjects from the HELP study. Rollover subjects, regardless of randomisation group in the HELP Study, received a single dose of lanadelumab 300 mg at study entry and did not receive additional treatment until the occurrence of an HAE attack. After the first HAE attack, all subjects received open-label treatment with lanadelumab 300 mg every 2 weeks. The study also included 103 new or non-rollover subjects (including 19 subjects from Phase1b study) who had a historical baseline attack r ate of ≥ 1 attack per 12 weeks. The non-rollover subjects received lanadelumab 300 mg every 2 weeks at study entry. Subjects were allowed to initiate self-administration after receiving the first 2 doses from a health care professional in clinic and completing appropriate training.
 
 <div style=\"page-break-after: always\"></div>
 
-rates for the rollover subjects decreased further at the time of the final analysis and ranged from 0.08 to 0.26 attacks per month. In addition, the mean (SD) percentage of attack-free days was 97.7 (6.0)% and the mean (SD) duration of the attack-free period was 415.0 (346.1) days. The proportion of patients with a maximum attack-free period of 6 months or more or 12 months or more was 81.8% and 68.9%, respectively.
+The majority of subjects (173/212; 81.6%) who were treated in this study completed at least 30 months of treatment (either as a rollover or non-rollover subjects). The mean (SD) time in the HELP study extension was 29.6 (8.20) months. The majority of subjects self-administered lanadelumab (60.6% of 8,018 injections).
+
+There was a sustained reduction in attack rates compared to baseline during the HELP study extension, with a similar response to TAKHZYRO observed in both rollover (92.4%) and non-rollover groups (82.0%) and an overall reduction rate of 87.4%. Though the magnitude of the attack rate reduction in the HELP study limited the potential for further reductions in the HELP extension study, mean attack rates for the rollover subjects decreased further at the time of the final analysis and ranged from 0.08 to 0.26 attacks per month. In addition, the mean (SD) percentage of attack-free days was 97.7 (6.0)% and the mean (SD) duration of the attack-free period was 415.0 (346.1) days. The proportion of patients with a maximum attack-free period of 6 months or more or 12 months or more was 81.8% and 68.9%, respectively.
 
 ## CASPIAN study
 
-The CASPIAN study was a multicenter, randomised, double-blind, placebo-controlled study in 77 adult subjects to evaluate the efficacy of lanadelumab in preventing acute attacks of non-histaminergic angioedema in subjects with normal C1-INH. Of the subjects enrolled, 5 (6.5%) were HAE nC1-INH subjects with known mutations (FXII, PLG), 13 (16.9%) were HAE nC1-INH subjects with a family history of angioedema but who did not have a known mutation, and 59 (76.6%) were subjects with idiopathic non-histaminergic angioedema who did not meet the clinical definition of HAE. No statistically significant treatment effect compared to placebo was observed in any subgroup.
+The CASPIAN study was a multicenter, randomised, double-blind, placebo-controlled study in 77 adult subjects to evaluate the efficacy of lanadelumab in preventing acute attacks of non-histaminergic angioedema in subjects with normal C1-INH. Of the subjects enrolled, 5 (6.5%) were HAE nC1-INH subjects with known mutations (FXII, PLG), 13 (16.9%) were HAE nC1-INH subjects with a family history of angioedema but who did not have a known mutation, and 59 (76.6%) were subjects with idiopathic non-histaminergic angioedema who did not meet the clinical definition of HAE. No s tatistically significant treatment effect compared to placebo was observed in any subgroup.
 
 ## Paediatric population
 
 ## SPRING study
 
-The safety and efficacy of TAKHZYRO for prophylaxis to prevent HAE attacks in children were evaluated in an open-label, multicenter, Phase 3 SPRING study. Dosing regimens were based on the following pre-defined age groups: children from 2 to less than 6 years of age were to receive lanadelumab 150 mg every 4 weeks and children from 6 to less than 12 years of age were to receive lanadelumab 150 mg every 2 weeks. The overall treatment period was 52 weeks, equally divided into Treatment Period A and B. The study   enrolled 21 paediatric subjects who had a baseline attack rate of ≥ 1 attack per 3 months (12 weeks) and a confirmed diagnosis of type I or II HAE.
+The safety and efficacy of TAKHZYRO for prophylaxis to prevent HAE attacks in children were evaluated in an open-label, multicenter, Phase 3 SPRING study. Dosing regimens were based on the following pre-defined age groups: children from 2 to less than 6 years of age were to receive lanadelumab 150 mg every 4 weeks and children from 6 to less than 12 years of age were to receive lanadelumab 150 mg every 2 weeks. The overall treatment period was 52 weeks, equally divided into Treatment Period A and B. The study enrolled 21 paediatric subjects who had a baseline attack rate of ≥ 1 attack per 3 months (12 weeks) and a confirmed diagnosis of type I or II HAE.
 
 In Treatment Period A, subjects aged 2 to &lt; 6 years (n = 4) and 6 to &lt; 12 years (n = 17) received lanadelumab 150 mg every 4 weeks and 150 mg every 2 weeks, respectively. The youngest patient included in the study was 3.5 years old.
 
 In Treatment Period B, subjects receiving lanadelumab 150 mg every 2 weeks (i.e., subjects 6 to less than 12 years of age) could reduce dosing to 150 mg every 4 weeks if they were well-controlled (e.g., attack free) for 26 weeks with lanadelumab treatment. Seven subjects in the 6 to less than 12 years age group switched to 150 mg every 4 weeks during Treatment Period B, and one subject (enrolled in the 2 to less than 6 years age group) turned 6 years of age during Treatment Period A and switched to 150 mg every 2 weeks during Treatment Period B after experiencing recurrent attacks.
 
+<div style=\"page-break-after: always\"></div>
+
 The total exposure was 5.5 patient-years in the 'every 4 weeks'-dosing regimen group (age range 3.5-10.4 years) and 14.47 patient-years in the 'every 2 weeks'-dosing regimen group (age range 6-10.9 years).
 
 The TAKHZYRO dose regimen in both age groups produced reduction in mean HAE attack rate compared to baseline and an increased percentage of attack-free subjects in Treatment Period A (Table 6). Similar results were observed for the overall, 52-week treatment period.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 6. Results of efficacy measures
 
@@ -379,10 +374,6 @@ Table 6. Results of efficacy measures
 | Baseline attack rate (attacks/month b ), mean (SD)     | 1.9 (1.0)                     | 1.8 (1.6)                     | 1.8 (1.5)                     |
 | On-treatment attack rate (attacks/month b ), mean (SD) | 0.2 (0.3)                     | 0.1 (0.2)                     | 0.1 (0.2)                     |
 | Attack-free subjects, N (%)                            | 3 (75.0)                      | 14 (82.4)                     | 17 (81.0)                     |
-
-a The actual treatment received during the given study period.
-
-b Month is defined as 28 days. Attack rates at baseline and on-treatment were calculated over the 4-12-week observation period and the 26-week treatment Period A, respectively.
 
 ## Immunogenicity
 
@@ -400,6 +391,8 @@ Following subcutaneous administration, the time to maximum concentration is appr
 
 The mean (SD) volume of distribution of lanadelumab in patients with HAE is 14.5 litres (4.53). Lanadelumab is a therapeutic monoclonal antibody and is not expected to bind to plasma proteins.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elimination
 
 Lanadelumab has a mean (SD) total body clearance of 0.0297 L/h (0.0124) and a terminal elimination half-life of approximately 14 days.
@@ -408,19 +401,17 @@ Lanadelumab has a mean (SD) total body clearance of 0.0297 L/h (0.0124) and a te
 
 No dedicated studies have been conducted to evaluate the pharmacokinetics of lanadelumab in special patient populations including gender, or pregnant women.
 
-<div style=\"page-break-after: always\"></div>
-
 Population pharmacokinetic analyses showed that age, gender and race did not meaningfully influence the pharmacokinetics of lanadelumab. Body weight was identified as an important covariate describing the variability of clearance and volume of distribution of lanadelumab.
 
 ## Paediatric population
 
-Following subcutaneous administration of 150 mg every 4 weeks (2 to less than 6 years of age) and 150 mg every 2 weeks (6 to less than 12 years of age), the overall exposure (i.e., Cavg,ss) to lanadelumab was similar compared with adult and adolescent (12 to less than 18 years of age) patients who received TAKHZYRO 300 mg every 2 weeks (ratio to adults ranged from 0.8 to 1.11).
+Following subcutaneous administration of 150 mg every 4 weeks (2 to less than 6 years of age) and 150 mg every 2 weeks (6 to less than 12 years of age), the overall exposure (i.e., Cavg,ss) to lanadelumab was similar compared with adult and adolescent (12 to less than 18 years of age) patients who received TAKHZYRO 300 mg every 2 weeks (ratio to adults ranged from 0.8 to 1.07).
 
 ## Renal and hepatic impairment
 
 As IgG monoclonal antibodies are mainly eliminated via intracellular catabolism, renal impairment or hepatic impairment is not expected to influence clearance of lanadelumab.
 
-Accordingly, in a population pharmacokinetic analysis, renal impairment (estimated GFR: 60 to 89 ml/min/1.73 m 2  [mild, N = 98] and 30 to 59 ml/min/1.73 m 2 [moderate, N = 9]) had no effect on the clearance or volume of distribution of lanadelumab.
+Accordingly, in a population pharmacokinetic analysis, renal impairment (estimated GFR: 60 to 89 ml/min/1.73 m 2 [mild, N = 98] and 30 to 59 ml/min/1.73 m 2 [moderate, N = 9]) had no effect on the clearance or volume of distribution of lanadelumab.
 
 ## 5.3 Preclinical safety data
 
@@ -432,15 +423,13 @@ The effects of lanadelumab on fertility were evaluated in sexually mature cynomo
 
 In the ePPND study in pregnant cynomolgus monkeys administered once weekly doses of 10 or 50 mg/kg (highest dose tested), there were no lanadelumab-related effects on pregnancy and parturition, embryo-foetal development, survival, growth, and/or postnatal development of offspring. Exposures in the ePPND study were approximately 32-fold greater than that noted at 300 mg every 2 weeks based on AUC.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Disodium phosphate dihydrate Citric acid monohydrate Histidine Sodium chloride Polysorbate 80
-
-<div style=\"page-break-after: always\"></div>
-
-Water for injections
+Disodium phosphate dihydrate (E339) Citric acid monohydrate (E330) Histidine Sodium chloride Polysorbate 80 (E433) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -460,13 +449,13 @@ Not applicable.
 
 2 years
 
-The injection should be administered within 2 hours of preparing the dosing syringe. If not administered immediately after preparation, the syringe may be stored in the refrigerator (2  C to 8  C), protected from light and administered within 8 hours.
+The injection should be administered within 2 hours of preparing the dosing syringe. If not administered immediately after preparation, the syringe may be stored in the refrigerator (2 ° C to 8 ° C), protected from light and administered within 8 hours.
 
 Chemical and physical in-use stability has been demonstrated for 2 hours at 25 °C and for 8 hours at 2 °C to 8 °C. From a microbiological point of view, unless the method of preparation precludes the risks of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2  C - 8  C).
+Store in a refrigerator (2 ° C - 8 ° C).
 
 Do not freeze.
 
@@ -478,13 +467,13 @@ When one pre-filled syringe or pre-filled pen from a multi-pack is removed from 
 
 For storage conditions after first opening of the product in vial, see section 6.3.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.5 Nature and contents of container
 
-TAKHZYRO 150 mg solution for injection in pre-filled syringe.
+## TAKHZYRO 150 mg solution for injection in pre-filled syringe.
 
 1 ml of solution in pre-filed syringe with a bromobutyl stopper, 27G x 13 mm staked needle and rigid needle cap. TAKHZYRO is available as unit packs containing 1 or 2 pre-filled syringes and in multipacks containing 6 (3 packs of 2) pre-filled syringes.
-
-<div style=\"page-break-after: always\"></div>
 
 ## TAKHZYRO 300 mg solution for injection in pre-filled syringe
 
@@ -500,9 +489,9 @@ TAKHZYRO 150 mg solution for injection in pre-filled syringe.
 
 Each pack also contains the following items:
 
--  Empty 3 ml syringe
--  18G vial access needle
--  27G x 13 mm injection needle
+- Empty 3 ml syringe
+- 18G vial access needle
+- 27G x 13 mm injection needle
 
 Not all pack sizes may be marketed.
 
@@ -524,17 +513,17 @@ After removing the single use pre-filled syringe from the refrigerator, wait 15 
 
 After removing the single use pre-filled syringe from the refrigerator, wait 15 minutes before injecting to allow the solution to reach room temperature. Inject TAKHZYRO subcutaneously into the abdomen, thigh, or upper arm (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 Each pre-filled syringe is for single use only. Discard the pre-filled syringe after injection is completed.
 
-## TAKHZYRO 300 mg solution for injection in pre-filled pen
+TAKHZYRO 300 mg solution for injection in pre-filled pen
 
 After removing the single use pre-filled pen from the refrigerator, wait 30 minutes before injecting to allow the solution to reach room temperature. Inject TAKHZYRO subcutaneously into the abdomen, thigh, or upper arm (see section 4.2).
 
-<div style=\"page-break-after: always\"></div>
-
 Each pre-filled pen is for single use only. Discard the pre-filled pen after injection is completed.
 
-## TAKHZYRO 300 mg solution for injection in vial
+TAKHZYRO 300 mg solution for injection in vial
 
 Using aseptic technique, withdraw the prescribed dose of TAKHZYRO from the vial into the syringe using an 18 gauge needle.
 
@@ -558,17 +547,19 @@ Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-
 EU/1/18/1340/001 EU/1/18/1340/002 EU/1/18/1340/003 EU/1/18/1340/004 EU/1/18/1340/005 EU/1/18/1340/006 EU/1/18/1340/007 EU/1/18/1340/008 EU/1/18/1340/009 EU/1/18/1340/010 EU/1/18/1340/011 EU/1/18/1340/012
 ```
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 22 November 2018
 
 Date of latest renewal: 11 August 2023
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+16
 
 <div style=\"page-break-after: always\"></div>
 
@@ -603,7 +594,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c (7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -611,14 +602,14 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -638,7 +629,9 @@ An updated RMP should be submitted:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-TAKHZYRO 150 mg solution for injection in pre-filled syringe lanadelumab
+TAKHZYRO 150 mg solution for injection in pre-filled syringe
+
+lanadelumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -646,11 +639,13 @@ Each pre-filled syringe contains 150 mg lanadelumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Disodium phosphate dihydrate, citric acid monohydrate, histidine, sodium chloride, polysorbate 80, water for injections.
+Excipients: disodium phosphate dihydrate (E339), citric acid monohydrate (E330), histidine, sodium chloride, polysorbate 80 (E433), water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 1 pre-filled syringe of 1 ml
 
@@ -658,7 +653,13 @@ Solution for injection
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Subcutaneous use Read the package leaflet before use For single use only For patients 10 to &lt; 40 kg
+Subcutaneous use
+
+Read the package leaflet before use.
+
+For single use only.
+
+For patients 10 to &lt; 40 kg
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -743,7 +744,9 @@ Each pre-filled syringe contains 150 mg lanadelumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Disodium phosphate dihydrate, citric acid monohydrate, histidine, sodium chloride, polysorbate 80, water for injections.
+Excipients; disodium phosphate dihydrate (E339), citric acid monohydrate (E330), histidine, sodium chloride, polysorbate 80 (E433), water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -753,7 +756,13 @@ Disodium phosphate dihydrate, citric acid monohydrate, histidine, sodium chlorid
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Subcutaneous use Read the package leaflet before use For single use only For patients 10 to &lt; 40 kg
+Subcutaneous use
+
+Read the package leaflet before use.
+
+For single use only.
+
+For patients 10 to &lt; 40 kg
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -803,8 +812,7 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 TAKHZYRO 150 mg
 
@@ -827,7 +835,9 @@ Each pre-filled syringe contains 150 mg lanadelumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Disodium phosphate dihydrate, citric acid monohydrate, histidine, sodium chloride, polysorbate 80, water for injections.
+Excipients: disodium phosphate dihydrate (E339), citric acid monohydrate (E330), histidine, sodium chloride, polysorbate 80 (E433), water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -837,7 +847,13 @@ Multipack: 6 (3 packs of 2) pre-filled syringes (1 ml each).
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Subcutaneous use Read the package leaflet before use For single use only For patients 10 to &lt; 40 kg
+Subcutaneous use
+
+Read the package leaflet before use.
+
+For single use only.
+
+For patients 10 to &lt; 40 kg
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -848,8 +864,6 @@ Keep out of the sight and reach of children.
 ## 8. EXPIRY DATE
 
 EXP
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -899,8 +913,10 @@ TAKHZYRO 150 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -910,8 +926,8 @@ PC SN NN
 
 PRE-FILLED SYRINGE LABEL
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 TAKHZYRO 150 mg injection lanadelumab SC
 
@@ -929,8 +945,7 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 1 ml
 
@@ -953,11 +968,13 @@ Each pre-filled syringe contains 300 mg lanadelumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Disodium phosphate dihydrate, citric acid monohydrate, histidine, sodium chloride, polysorbate 80, water for injections.
+Excipients: disodium phosphate dihydrate (E339), citric acid monohydrate (E330), histidine, sodium chloride, polysorbate 80 (E433), water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 1 pre-filled syringe of 2 ml
 
@@ -965,7 +982,11 @@ Solution for injection
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Subcutaneous use Read the package leaflet before use For single use only
+Subcutaneous use
+
+Read the package leaflet before use.
+
+For single use only.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -977,13 +998,13 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
 
 Do not freeze.
-
-<div style=\"page-break-after: always\"></div>
 
 Keep in the outer carton in order to protect from light.
 
@@ -1015,25 +1036,24 @@ EU/1/18/1340/005 2 pre-filled syringes of 2 ml
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 TAKHZYRO 300 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
 
-PC
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1051,7 +1071,9 @@ Each pre-filled syringe contains 300 mg lanadelumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Disodium phosphate dihydrate, citric acid monohydrate, histidine, sodium chloride, polysorbate 80, water for injections.
+Excipients: disodium phosphate dihydrate (E339), citric acid monohydrate (E330), histidine, sodium chloride, polysorbate 80 (E433), water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1061,83 +1083,11 @@ Disodium phosphate dihydrate, citric acid monohydrate, histidine, sodium chlorid
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Subcutaneous use Read the package leaflet before use For single use only
+Subcutaneous use
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+Read the package leaflet before use.
 
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-Store in a refrigerator.
-
-Do not freeze.
-
-<div style=\"page-break-after: always\"></div>
-
-Keep in the outer carton in order to protect from light.
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
-
-## 12. MARKETING AUTHORISATION NUMBER
-
-EU/1/18/1340/006
-
-13. BATCH NUMBER
-
-Lot
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-16. INFORMATION IN BRAILLE
-
-TAKHZYRO 300 mg
-
-17. UNIQUE IDENTIFIER - 2D BARCODE
-
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## PRE-FILLED SYRINGE MULTIPACK OUTER CARTON (INCLUDING BLUE-BOX)
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-TAKHZYRO 300 mg solution for injection in pre-filled syringe lanadelumab
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE
-
-Each pre-filled syringe contains 300 mg lanadelumab.
-
-## 3. LIST OF EXCIPIENTS
-
-Disodium phosphate dihydrate, citric acid monohydrate, histidine, sodium chloride, polysorbate 80, water for injections.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-## Solution for injection
-
-Multipack: 6 (3 packs of 2) pre-filled syringes of 2 ml
-
-## 5. METHOD AND ROUTE OF ADMINISTRATION
-
-Subcutaneous use Read the package leaflet before use For single use only
+For single use only.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1192,30 +1142,118 @@ Lot
 
 TAKHZYRO 300 mg
 
+17. UNIQUE IDENTIFIER - 2D BARCODE
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## PRE-FILLED SYRINGE MULTIPACK OUTER CARTON (INCLUDING BLUE-BOX)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+TAKHZYRO 300 mg solution for injection in pre-filled syringe lanadelumab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
+
+Each pre-filled syringe contains 300 mg lanadelumab.
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: disodium phosphate dihydrate (E339), citric acid monohydrate (E330), histidine, sodium chloride, polysorbate 80 (E433), water for injections.
+
+See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Solution for injection
+
+Multipack: 6 (3 packs of 2) pre-filled syringes of 2 ml
+
+## 5. METHOD AND ROUTE OF ADMINISTRATION
+
+Subcutaneous use
+
+Read the package leaflet before use.
+
+For single use only.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+Keep in the outer carton in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Takeda Pharmaceuticals International AG Ireland Branch
+
+Block 2 Miesian Plaza
+
+50-58 Baggot Street Lower
+
+Dublin 2
+
+D02 HW68
+
+Ireland
+
+## 12. MARKETING AUTHORISATION NUMBER
+
+EU/1/18/1340/006
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+TAKHZYRO 300 mg
+
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                         |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
 TAKHZYRO 300 mg solution for injection lanadelumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Read the package leaflet before use
 
@@ -1229,8 +1267,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 2 ml
 
@@ -1253,7 +1291,9 @@ Each pre-filled pen contains 300 mg lanadelumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Disodium phosphate dihydrate, citric acid monohydrate, histidine, sodium chloride, polysorbate 80, water for injections.
+Excipients: disodium phosphate dihydrate (E339), citric acid monohydrate (E330), histidine, sodium chloride, polysorbate 80 (E433), water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1281,13 +1321,13 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
 
 Do not freeze.
-
-<div style=\"page-break-after: always\"></div>
 
 Keep in the outer carton in order to protect from light.
 
@@ -1297,7 +1337,17 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
+Takeda Pharmaceuticals International AG Ireland Branch
+
+Block 2 Miesian Plaza
+
+50-58 Baggot Street Lower
+
+Dublin 2
+
+D02 HW68
+
+Ireland
 
 ## 12.  MARKETING AUTHORISATION NUMBERS
 
@@ -1323,13 +1373,12 @@ TAKHZYRO 300 mg
 
 2D barcode carrying the unique identifier included.
 
-## 18.  UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
 
-PC
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
-SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1347,7 +1396,9 @@ Each pre-filled pen contains 300 mg lanadelumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Disodium phosphate dihydrate, citric acid monohydrate, histidine, sodium chloride, polysorbate 80, water for injections.
+Excipients: disodium phosphate dihydrate (E339), citric acid monohydrate (E330), histidine, sodium chloride, polysorbate 80 (E433), water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1373,13 +1424,13 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
 
 Do not freeze.
-
-<div style=\"page-break-after: always\"></div>
 
 Keep in the outer carton in order to protect from light.
 
@@ -1389,7 +1440,17 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
+Takeda Pharmaceuticals International AG Ireland Branch
+
+Block 2 Miesian Plaza
+
+50-58 Baggot Street Lower
+
+Dublin 2
+
+D02 HW68
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -1410,7 +1471,6 @@ Push to open
 TAKHZYRO 300 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
@@ -1429,11 +1489,13 @@ Each pre-filled pen contains 300 mg lanadelumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Disodium phosphate dihydrate, citric acid monohydrate, histidine, sodium chloride, polysorbate 80, water for injections.
+Excipients: disodium phosphate dihydrate (E339), citric acid monohydrate (E330), histidine, sodium chloride, polysorbate 80 (E433), water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
 Multipack: 6 (3 packs of 2) pre-filled pens of 2 ml
 
@@ -1461,9 +1523,9 @@ Store in a refrigerator.
 
 Do not freeze.
 
-Keep in the outer carton in order to protect from light.
-
 <div style=\"page-break-after: always\"></div>
+
+Keep in the outer carton in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1497,11 +1559,7 @@ TAKHZYRO 300 mg
 
 ## 18.  UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1509,13 +1567,13 @@ NN
 |---------------------------------------------------------|
 | SINGLE-DOSE PRE-FILLED PEN LABEL                        |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 TAKHZYRO 300 mg solution for injection lanadelumab
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Subcutaneous use Read the package leaflet before use. For single use only
 
@@ -1529,8 +1587,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 2 ml
 
@@ -1545,7 +1603,9 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-TAKHZYRO 300 mg solution for injection lanadelumab
+TAKHZYRO 300 mg solution for injection
+
+lanadelumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1553,7 +1613,9 @@ Each vial contains 300 mg lanadelumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Disodium phosphate dihydrate, citric acid monohydrate, histidine, sodium chloride, polysorbate 80, water for injections.
+Excipients: disodium phosphate dihydrate (E339), citric acid monohydrate (E330), histidine, sodium chloride, polysorbate 80 (E433), water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1573,9 +1635,9 @@ Injection needle
 
 Subcutaneous use
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
-For single use only
+For single use only.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1623,7 +1685,8 @@ EU/1/18/1340/001
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1636,11 +1699,7 @@ TAKHZYRO 300 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
-
-NN
+PC SN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1650,7 +1709,9 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-TAKHZYRO 300 mg solution for injection lanadelumab
+TAKHZYRO 300 mg solution for injection
+
+lanadelumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1658,7 +1719,9 @@ Each vial contains 300 mg lanadelumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Disodium phosphate dihydrate, citric acid monohydrate, histidine, sodium chloride, polysorbate 80, water for injections.
+Excipients: disodium phosphate dihydrate (E339), citric acid monohydrate (E330), histidine, sodium chloride, polysorbate 80 (E433), water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1678,9 +1741,9 @@ Injection needle
 
 Subcutaneous use
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
-For single use only
+For single use only.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1688,11 +1751,11 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -1722,7 +1785,9 @@ Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
-EU/1/18/1340/002 Multipack: 2 (2 packs of 1) vials of 2 ml EU/1/18/1340/003 Multipack: 6 (6 packs of 1) vials of 2 ml
+EU/1/18/1340/002 Multipack: 2 (2 packs of 1) vials of 2 ml
+
+EU/1/18/1340/003 Multipack: 6 (6 packs of 1) vials of 2 ml
 
 ## 13. BATCH NUMBER
 
@@ -1730,14 +1795,18 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 TAKHZYRO 300 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1747,7 +1816,9 @@ TAKHZYRO 300 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-TAKHZYRO 300 mg solution for injection lanadelumab
+TAKHZYRO 300 mg solution for injection
+
+lanadelumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1755,7 +1826,9 @@ Each vial contains 300 mg lanadelumab.
 
 ## 3. LIST OF EXCIPIENTS
 
-Disodium phosphate dihydrate, citric acid monohydrate, histidine, sodium chloride, polysorbate 80, water for injections.
+Excipients: disodium phosphate dihydrate (E339), citric acid monohydrate (E330), histidine, sodium chloride, polysorbate 80 (E433), water for injections.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1777,9 +1850,9 @@ Injection needle
 
 Subcutaneous use
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
-For single use only
+For single use only.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1829,7 +1902,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1841,8 +1914,8 @@ TAKHZYRO 300 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1887,10 +1960,10 @@ Lot
 
 ## Read all of this leaflet carefully before you give this medication to the child because it contains important information.
 
-- › Keep this leaflet. You may need to read it again.
-- › If you have any further questions, ask the child's doctor, pharmacist or nurse.
-- › This medicine has been prescribed for your child or a child in your care only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as those of your child or the child you are caring for.
-- › If the child gets any side effects, talk to their doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- ­ Keep this leaflet. You may need to read it again.
+- ­ If you have any further questions, ask the child's doctor, pharmacist or nurse.
+- ­ This medicine has been prescribed for your child or a child in your care only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as those of your child or the child you are caring for.
+- ­ If the child gets any side effects, talk to their doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1914,10 +1987,10 @@ TAKHZYRO 150 mg is a medicine used in patients 2 years of age and older weighing
 
 HAE is a condition which runs in families. With this condition the patients blood does not have enough of a protein called 'C1 inhibitor', or C1 inhibitor does not work properly. This leads to too much 'plasma kallikrein', which in turn produces higher levels of 'bradykinin' in the bloodstream. Too much bradykinin leads to symptoms of HAE like swelling and pain on the,
 
--  hands and feet
--  face, eyelids, lips or tongue
--  voice-box (larynx), which may make breathing difficult
--  genitals
+- hands and feet
+- face, eyelids, lips or tongue
+- voice-box (larynx), which may make breathing difficult
+- genitals
 
 ## How TAKHZYRO works
 
@@ -1933,8 +2006,8 @@ If your child or the child you are caring for is allergic to lanadelumab or any 
 
 ## Warnings and precautions
 
--  Talk to the child's doctor, pharmacist or nurse before giving TAKHZYRO.
--  If the child has a severe allergic reaction to TAKHZYRO with symptoms such as a rash, a tight chest, wheezing, or a fast heartbeat, tell the child's doctor, pharmacist or nurse immediately.
+- Talk to the child's doctor, pharmacist or nurse before giving TAKHZYRO.
+- If the child has a severe allergic reaction to TAKHZYRO with symptoms such as a rash, a tight chest, wheezing, or a fast heartbeat, tell the child's doctor, pharmacist or nurse immediately.
 
 ## Keeping a record
 
@@ -1968,6 +2041,10 @@ The medicine contains less than 1 mmol sodium (23 mg) per pre-filled syringe, th
 
 <div style=\"page-break-after: always\"></div>
 
+## TAKHZYRO contains polysorbate 80
+
+This medicine contains 0.1 mg of polysorbate 80 in each pre-filled syringe, which is equivalent to 0.1 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if your child has any known allergies.
+
 ## 3. How to use TAKHZYRO
 
 TAKHZYRO is provided in single-use pre-filled syringes as ready-to-use solution. The treatment for your child or the child you are caring for will be started and managed under the supervision of a doctor experienced in the care of patients with HAE.
@@ -1978,32 +2055,31 @@ Always use this medicine exactly as described in this leaflet or as the child's 
 
 For children 2 to less than 12 years of age, the recommended dose is based on body weight:
 
-| Body Weight (kg)      | Recommended Starting Dose        | Dose Adjustment                                                                                                            |
+| Body weight (kg)      | Recommended starting dose        | Dose adjustment                                                                                                            |
 |-----------------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | 10 to less than 20 kg | 150 mg lanadelumab every 4 weeks | A dose increase to 150 mg lanadelumab every 3 weeks may be considered in patients with insufficient control of attacks     |
 | 20 to less than 40 kg | 150 mg lanadelumab every 2 weeks | A dose reduction to 150 mg lanadelumab every 4 weeks may be considered in patients who are stably attack free on treatment |
 | 40 kg or more         | 300 mg lanadelumab every 2 weeks | A dose reduction to 300 mg lanadelumab every 4 weeks may be considered in patients who are stably attack free on treatment |
 
-- › For patients with a body weight of 20 to less than 40 kg who have not had an attack for a long period, the doctor may allow your child or the child you are caring for to continue with the same dose when reaching 12 years of age.
+- ­ For patients with a body weight of 20 to less than 40 kg who have not had an attack for a long period, the doctor may allow your child or the child you are caring for to continue with the same dose when reaching 12 years of age.
 
 For adults and adolescents 12 to less than 18 years of age with a body weight of less than 40 kg:
 
-- › The recommended starting dose is 300 mg lanadelumab every 2 weeks. If you have not had an attack for a long period, your doctor may change the dose to 300 mg lanadelumab every 4 weeks, especially if you have a low body weight.
+- ­ The recommended starting dose is 300 mg lanadelumab every 2 weeks. If you have not had an attack for a long period, your doctor may change the dose to 300 mg lanadelumab every 4 weeks, especially if you have a low body weight.
 - -A starting dose of 150 mg lanadelumab every 2 weeks may also be considered. If you have not had an attack for a long period, your doctor may change the dose to 150 mg lanadelumab every 4 weeks.
+
+<div style=\"page-break-after: always\"></div>
 
 ## How to inject TAKHZYRO
 
 ## TAKHZYRO should be injected by a healthcare provider or caregiver. Caregiver must carefully read and follow the instructions in section 7, 'Instructions for use'.
 
--  TAKHZYRO is for injection under the skin ('subcutaneous injection').
--  The injection can be given either by a healthcare provider or a caregiver.
--  A doctor, pharmacist or nurse should show you how to prepare and inject TAKHZYRO properly before you give it for the first time. Do not inject until you have been trained to inject the medicine.
--  Insert the needle into the fatty tissue in the tummy (abdomen), thigh or upper arm.
-
-<div style=\"page-break-after: always\"></div>
-
--  Inject the medicine in a different place each time.
--  Use each pre-filled syringe of TAKHZYRO only once.
+- TAKHZYRO is for injection under the skin ('subcutaneous injection').
+- The injection can be given either by a healthcare provider or a caregiver.
+- A doctor, pharmacist or nurse should show you how to prepare and inject TAKHZYRO properly before you give it for the first time. Do not inject until you have been trained to inject the medicine.
+- Insert the needle into the fatty tissue in the tummy (abdomen), thigh or upper arm.
+- Inject the medicine in a different place each time.
+- Use each pre-filled syringe of TAKHZYRO only once.
 
 ## If you use more TAKHZYRO than you should
 
@@ -2013,9 +2089,9 @@ If the child has received more TAKHZYRO than they should or the dose has been gi
 
 If a dose of TAKHZYRO is missed, inject the dose as soon as possible. The next dose scheduled may need to be adjusted based on the intended dosing frequency to ensure
 
--  at least 10 days between doses for patients on every 2 weeks dosing schedule,
--  at least 17 days between doses for patients on every 3 weeks dosing schedule,
--  at least 24 days between doses for patients on every 4 weeks dosing schedule.
+- at least 10 days between doses for patients on every 2 weeks dosing schedule,
+- at least 17 days between doses for patients on every 3 weeks dosing schedule,
+- at least 24 days between doses for patients on every 4 weeks dosing schedule.
 
 If you are not sure when to inject TAKHZYRO after a missed dose, ask the child's doctor, pharmacist or nurse.
 
@@ -2033,23 +2109,23 @@ If the child has a severe allergic reaction to TAKHZYRO with symptoms such as a 
 
 Tell their doctor, pharmacist or nurse if you or the child notice any of the following side effects.
 
-## Very common (may affect more than 1 in 10 people):
+Very common (may affect more than 1 in 10 people):
 
--  Reactions where the injection is given - symptoms include pain, skin redness, bruising, discomfort, swelling, bleeding, itching, hardening of skin, tingling, warmth and rash.
+- Reactions where the injection is given - symptoms include pain, skin redness, bruising, discomfort, swelling, bleeding, itching, hardening of skin, tingling, warmth, rash and hives (urticaria).
 
-## Common (may affect up to 1 in 10 people):
+<div style=\"page-break-after: always\"></div>
 
--  Allergic reactions including itching, discomfort and tingling of the tongue
--  Dizziness, feeling faint
--  Raised skin rash
--  Muscle pain
--  Blood tests showing liver changes
+Common (may affect up to 1 in 10 people):
+
+- Allergic reactions including itching, discomfort and tingling of the tongue
+- Dizziness, feeling faint
+- Raised skin rash
+- Muscle pain
+- Blood tests showing liver changes
 
 ## Reporting of side effects
 
 If your child or the child you are caring for gets any side effects, talk to their doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store TAKHZYRO
 
@@ -2059,7 +2135,7 @@ Do not use this medicine after the expiry date which is stated on the label and 
 
 ## TAKHZYRO 150 mg solution for injection in pre-filled syringe
 
-Store in a refrigerator (2  C-8  C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store in a refrigerator (2 ° C - 8 ° C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 Pre-filled syringes may be stored below 25 °C for a single period of 14 days, but not beyond the expiry date.
 
@@ -2075,44 +2151,42 @@ Do not throw away any medicines via wastewater or household waste. Ask the pharm
 
 ## What TAKHZYRO contains
 
--  The active substance is lanadelumab. Each pre-filled syringe contains 150 mg of lanadelumab in 1 ml solution.
--  The other ingredients are disodium phosphate dihydrate, citric acid monohydrate, histidine, sodium chloride, polysorbate 80 and water for injections - see section 2 'TAKHZYRO contains sodium'
+- The active substance is lanadelumab. Each pre-filled syringe contains 150 mg of lanadelumab in 1 ml solution.
+- The other ingredients are disodium phosphate dihydrate (E339), citric acid monohydrate (E330), histidine, sodium chloride, polysorbate 80 (E433) and water for injections - see section 2 'TAKHZYRO contains sodium' and 'TAKHZYRO contains polysorbate 80'.
 
 ## What TAKHZYRO looks like and contents of the pack
 
 TAKHZYRO is presented as a clear, colourless to slightly yellow solution for injection in a pre-filled syringe.
 
-TAKHZYRO is available as:
+<div style=\"page-break-after: always\"></div>
 
--  a single pack containing one 1 ml pre-filled syringe in a carton
--  a single pack containing two 1 ml pre-filled syringes in a carton
--  in multipacks comprising 3 cartons, each carton containing two 1 ml pre-filled syringes.
+## TAKHZYRO is available as:
+
+- a single pack containing one 1 ml pre-filled syringe in a carton
+- a single pack containing two 1 ml pre-filled syringes in a carton
+- in multipacks comprising 3 cartons, each carton containing two 1 ml pre-filled syringes.
 
 Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-## Marketing Authorisation Holder
-
-Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower
-
-<div style=\"page-break-after: always\"></div>
-
-Dublin 2 D02 HW68 Ireland
-
-## Manufacturer
-
 Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
-
-Shire Pharmaceuticals Ireland Limited Blocks 2 &amp; 3 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
+## België/Belgique/Belgien
+
+Takeda Belgium NV Tél/Tel: +32 2 464 06 11
+
+medinfoEMEA@takeda.com
 
 ## България
 
-Такеда България ЕООД Тел.: +359 2 958 27 36 medinfoEMEA@takeda.com
+Такеда България ЕООД
+
+Тел.: +359 2 958 27 36
+
+medinfoEMEA@takeda.com
 
 ## Česká republika
 
@@ -2120,15 +2194,11 @@ Takeda Pharmaceuticals Czech Republic s.r.o. Tel: + 420 234 722 722 medinfoEMEA@
 
 ## Danmark
 
-Takeda Pharma A/S Tlf: +45 46 77 10 10
-
-medinfoEMEA@takeda.com
+Takeda Pharma A/S Tlf.: +45 46 77 10 10 medinfoEMEA@takeda.com
 
 ## Deutschland
 
-Takeda GmbH Tel: +49 (0)800 825 3325
-
-medinfoEMEA@takeda.com
+Takeda GmbH Tel: +49 (0)800 825 3325 medinfoEMEA@takeda.com
 
 ## Eesti
 
@@ -2136,7 +2206,7 @@ Takeda Pharma OÜ Tel: +372 6177 669 medinfoEMEA@takeda.com
 
 ## Ελλάδα
 
-Τakeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800 medinfoEMEA@takeda.com
+Τ akeda ΕΛΛΑΣ Α . Ε . T ηλ : +30 210 6387800 medinfoEMEA@takeda.com
 
 ## Lietuva
 
@@ -2148,7 +2218,7 @@ Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
 ## Magyarország
 
-Takeda Pharma Kft. Tel: +36 1 270 7030 medinfoEMEA@takeda.com
+Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com
 
 ## Malta
 
@@ -2206,11 +2276,7 @@ medinfoEMEA@takeda.com
 
 ## România
 
-Takeda Pharmaceuticals SRL
-
-Tel: +40 21 335 03 91
-
-medinfoEMEA@takeda.com
+Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com
 
 ## Ireland
 
@@ -2222,11 +2288,11 @@ medinfoEMEA@takeda.com
 
 ## Slovenija
 
-Takeda Pharmaceuticals farmacevtska dru ž ba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals farmacevtska družba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -2254,11 +2320,7 @@ medinfoEMEA@takeda.com
 
 ## Κύπρος
 
-Proton Medical (Cyprus) Ltd
-
-Τηλ: +357 22866000
-
-admin@protoncy.com
+Proton Medical (Cyprus) Ltd Τηλ: +357 22866000 admin@protoncy.com
 
 ## Sverige
 
@@ -2269,14 +2331,6 @@ Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
 Takeda Latvia SIA
 
 Tel: +371 67840082
-
-medinfoEMEA@takeda.com
-
-## United Kingdom (Northern Ireland)
-
-Takeda UK Ltd
-
-Tel: +44 (0) 3333 000 181
 
 medinfoEMEA@takeda.com
 
@@ -2298,12 +2352,12 @@ The TAKHZYRO pre-filled syringe is a fixed dose (150 mg/1 ml), ready-to-use, dis
 
 ## Storing TAKHZYRO
 
--  Store the TAKHZYRO pre-filled syringe in the refrigerator at 2 °C to 8 °C. Do not freeze.
--  Pre-filled syringe removed from refrigeration should be stored below 25 °C and used within 14 days. Do not return TAKHZYRO to refrigerated storage after storage at room temperature.
--  When one pre-filled syringe from a multi-pack is removed from refrigeration, return the remaining pre-filled syringes to the refrigerator until future use when needed.
--  Store TAKHZYRO in the original carton to protect the pre-filled syringe from light.
--  Throw away (discard) the TAKHZYRO pre-filled syringe if it has been kept out of the refrigerator, frozen, or not kept in the original carton protected from light.
--  Do not shake TAKHZYRO.
+- Store the TAKHZYRO pre-filled syringe in the refrigerator at 2 °C to 8 °C. Do not freeze.
+- Pre-filled syringe removed from refrigeration should be stored below 25 °C and used within 14 days. Do not return TAKHZYRO to refrigerated storage after storage at room temperature.
+- When one pre-filled syringe from a multi-pack is removed from refrigeration, return the remaining pre-filled syringes to the refrigerator until future use when needed.
+- Store TAKHZYRO in the original carton to protect the pre-filled syringe from light.
+- Throw away (discard) the TAKHZYRO pre-filled syringe if it has been kept out of the refrigerator, frozen, or not kept in the original carton protected from light.
+- Do not shake TAKHZYRO.
 
 Keep TAKHZYRO and all medicines out of the reach of children.
 
@@ -2334,11 +2388,11 @@ Adhesive Bandage
 ## Figure B: Supplies
 
 - b. Remove the TAKHZYRO pre-filled syringe carton from the refrigerator 15 minutes before injecting.
-2.  Do not use if the seal on the carton is open or broken.
-3.  Your medicine is sensitive to warm temperatures . Do not use heat sources such as a microwave or hot water to warm your TAKHZYRO pre-filled syringe.
+- Do not use if the seal on the carton is open or broken.
+- Your medicine is sensitive to warm temperatures . Do not use heat sources such as a microwave or hot water to warm your TAKHZYRO pre-filled syringe.
 - c. Open the carton. Hold the syringe barrel and remove the TAKHZYRO pre-filled syringe from the tray ( Figure C ).
-5.  Do not remove the needle cap until you are ready to inject.
-6.  Do not touch or push the plunger rod until you are ready to inject.
+- Do not remove the needle cap until you are ready to inject.
+- Do not touch or push the plunger rod until you are ready to inject.
 
 Sharps Container
 
@@ -2353,9 +2407,9 @@ Figure C: Remove pre-filled syringe
 <div style=\"page-break-after: always\"></div>
 
 - d. Wash your hands with soap and water ( Figure D ). Dry your hands completely.
-2.  Do not touch any surface or body part after washing your hands before the injection.
+- Do not touch any surface or body part after washing your hands before the injection.
 - e. Check the expiration date (EXP) on the syringe barrel ( Figure E ).
-4.  Do not use the TAKHZYRO prefilled syringe if the expiration date has passed. If the TAKHZYRO pre-filled syringe is expired throw it away (discard) in a sharps container and contact your healthcare provider.
+- Do not use the TAKHZYRO prefilled syringe if the expiration date has passed. If the TAKHZYRO pre-filled syringe is expired throw it away (discard) in a sharps container and contact your healthcare provider.
 - f. Inspect the TAKHZYRO pre-filled syringe for any damage. The medicine inside the syringe barrel should be colorless to slightly yellow
 
 Figure D: Wash hands
@@ -2368,9 +2422,9 @@ Figure E: Location of expiration date
 
 ## ( Figure F ).
 
--  Do not use the TAKHZYRO pre-filled syringe if the syringe is damaged or cracked.
--  Do not use the TAKHZYRO pre-filled syringe if the medicine is discolored, cloudy, or has flakes or particles in it.
--  You may see air bubbles in the TAKHZYRO pre-filled syringe. This is normal and will not affect your dose.
+- Do not use the TAKHZYRO pre-filled syringe if the syringe is damaged or cracked.
+- Do not use the TAKHZYRO pre-filled syringe if the medicine is discolored, cloudy, or has flakes or particles in it.
+- You may see air bubbles in the TAKHZYRO pre-filled syringe. This is normal and will not affect your dose.
 
 If you cannot use the pre-filled syringe, contact your healthcare provider.
 
@@ -2386,21 +2440,21 @@ Figure F: Inspect the pre-filled syringe
 2. o upper arms
 3. o stomach area (abdomen)
 4. o thighs
-5.  Do not inject into an area of your child's body where the skin is irritated, red, bruised, or infected.
-6.  The area you choose for injection should be at least 5 cm away from any scars or your child's belly button (navel).
+- Do not inject into an area of your child's body where the skin is irritated, red, bruised, or infected.
+- The area you choose for injection should be at least 5 cm away from any scars or your child's belly button (navel).
 
 ## Important:
 
 Rotate injection sites to keep skin healthy. Each new injection should be given at least 3 cm from the last site you used.
 
 - b. Clean the injection site with an alcohol swab and allow it to dry completely ( Figure H ).
-2.  Do not fan or blow on the clean site.
-3.  Do not touch the clean site again before giving your injection.
+- Do not fan or blow on the clean site.
+- Do not touch the clean site again before giving your injection.
 - c. Firmly hold the middle of the TAKHZYRO pre-filled syringe with one hand, and with the other hand, gently pull the needle cap straight off ( Figure I ).
-5.  Do not touch or push the plunger rod until you are ready to inject.
-6.  Do not use the TAKHZYRO pre-filled syringe if it has been dropped without the needle cap on.
-7.  Do not use the TAKHZYRO pre-filled syringe if the needle looks damaged or bent.
-8.  Do not touch the needle or allow the needle to touch anything.
+- Do not touch or push the plunger rod until you are ready to inject.
+- Do not use the TAKHZYRO pre-filled syringe if it has been dropped without the needle cap on.
+- Do not use the TAKHZYRO pre-filled syringe if the needle looks damaged or bent.
+- Do not touch the needle or allow the needle to touch anything.
 
 You may see air bubbles, this is normal. Do not try to remove the air bubbles.
 
@@ -2419,13 +2473,13 @@ Figure I: Remove needle cap
 <div style=\"page-break-after: always\"></div>
 
 - d. Throw away the needle cap in your trash or in your sharps container.
-2.  Do not recap the needle to avoid a needle-stick injury.
+- Do not recap the needle to avoid a needle-stick injury.
 
 ## Step 3: Inject TAKHZYRO
 
 - a. Grip the TAKHZYRO pre-filled syringe in one hand like a pencil ( Figure J ). Avoid touching the needle or pushing on the plunger rod.
-- b. With your other hand, gently pinch injection site.
-3. about 3 cm fold of skin at the cleaned Keep pinching until the injection is complete and the needle is removed ( Figure K ).
+- b. With your other hand, gently pinch
+3. about 3 cm fold of skin at the cleaned injection site. Keep pinching until the injection is complete and the needle is removed ( Figure K ).
 - c. Using a quick dart-like motion, insert the needle at a 45-to-90-degree angle. Make sure to keep the needle in place ( Figure L ).
 
 Figure J: Grip pre-filled syringe
@@ -2456,17 +2510,17 @@ Figure N: Stopper at the bottom of the syringe barrel
 
 - e. Slowly withdraw the needle while maintaining the syringe at the same angle. Gently release the fold of skin.
 - f. Press a cotton ball or gauze pad over the injection site if needed and hold for 10 seconds.
-3.  Do not rub the injection site. There may be a small amount of blood where you injected. This is normal.
-4.  Cover the injection site with an adhesive bandage if needed.
+- Do not rub the injection site. There may be a small amount of blood where you injected. This is normal.
+- Cover the injection site with an adhesive bandage if needed.
 
 ## Step 4: Throw away (dispose of) TAKHZYRO prefilled syringe
 
 - a. Put your used TAKHZYRO pre-filled syringe in a sharps disposal container right away after use ( Figure O ).
-2.  Do not recap the needle to avoid a needlestick injury.
-3.  Do not reuse the TAKHZYRO pre-filled syringe or any of your injection supplies.
-4.  Do not throw away (dispose of) the TAKHZYRO pre-filled syringe in your household trash.
-5.  Do not touch the needle.
-6.  Important: Always keep the sharps disposal container out of the reach of children.
+- Do not recap the needle to avoid a needlestick injury.
+- Do not reuse the TAKHZYRO pre-filled syringe or any of your injection supplies.
+- Do not throw away (dispose of) the TAKHZYRO pre-filled syringe in your household trash.
+- Do not touch the needle.
+- Important: Always keep the sharps disposal container out of the reach of children.
 
 Figure O: Dispose in a sharps container
 
@@ -2511,16 +2565,14 @@ TAKHZYRO is a medicine used in patients 2 years and older to prevent angioedema 
 
 HAE is a condition which runs in families. With this condition your blood does not have enough of a protein called 'C1 inhibitor', or C1 inhibitor does not work properly. This leads to too much 'plasma kallikrein', which in turn produces higher levels of 'bradykinin' in your bloodstream. Too much bradykinin leads to symptoms of HAE like swelling and pain on the,
 
--  hands and feet
--  face, eyelids, lips or tongue
--  voice-box (larynx), which may make breathing difficult
--  genitals
+- hands and feet
+- face, eyelids, lips or tongue
+- voice-box (larynx), which may make breathing difficult
+- genitals
 
 ## How TAKHZYRO works
 
 TAKHZYRO is a type of protein that blocks the activity of plasma kallikrein. This helps to reduce the amount of bradykinin in your bloodstream and prevents symptoms of HAE.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 2. What you need to know before you use TAKHZYRO
 
@@ -2528,10 +2580,12 @@ TAKHZYRO is a type of protein that blocks the activity of plasma kallikrein. Thi
 
 If you are allergic to lanadelumab or any of the other ingredients of this medicine (listed in section 6).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Warnings and precautions
 
--  Talk to your doctor, pharmacist or nurse before using TAKHZYRO.
--  If you have a severe allergic reaction to TAKHZYRO with symptoms such as a rash, a tight chest, wheezing, or a fast heart beat, tell your doctor, pharmacist or nurse immediately.
+- Talk to your doctor, pharmacist or nurse before using TAKHZYRO.
+- If you have a severe allergic reaction to TAKHZYRO with symptoms such as a rash, a tight chest, wheezing, or a fast heart beat, tell your doctor, pharmacist or nurse immediately.
 
 ## Keeping a record
 
@@ -2563,6 +2617,10 @@ This medicine has no or negligible influence on the ability to drive and use mac
 
 The medicine contains less than 1 mmol sodium (23 mg) per pre-filled syringe, that is to say essentially 'sodium-free'.
 
+## TAKHZYRO contains polysorbate 80
+
+This medicine contains 0.2 mg of polysorbate 80 in each pre-filled syringe, which is equivalent to 0.1 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you or your child have any known allergies.
+
 <div style=\"page-break-after: always\"></div>
 
 ## 3. How to use TAKHZYRO
@@ -2575,33 +2633,33 @@ Always use this medicine exactly as described in this leaflet or as your doctor,
 
 For adults and adolescents 12 to less than 18 years of age:
 
-- › The recommended starting dose is 300 mg lanadelumab every 2 weeks. If you have not had an attack for a long period, your doctor may change the dose to 300 mg lanadelumab every 4 weeks, especially if you have a low body weight.
-- › In patients with a body weight less than 40 kg, a starting dose of 150 mg lanadelumab every 2 weeks may also be considered. If you have not had an attack for a long period, your doctor may change the dose to 150 mg lanadelumab every 4 weeks.
+- ­ The recommended starting dose is 300 mg lanadelumab every 2 weeks. If you have not had an attack for a long period, your doctor may change the dose to 300 mg lanadelumab every 4 weeks, especially if you have a low body weight.
+- ­ In patients with a body weight less than 40 kg, a starting dose of 150 mg lanadelumab every 2 weeks may also be considered. If you have not had an attack for a long period, your doctor may change the dose to 150 mg lanadelumab every 4 weeks.
 
 For children 2 to less than 12 years of age, the recommended dose is based on body weight:
 
-| Body Weight (kg)      | Recommended Starting Dose        | Dose Adjustment                                                                                                            |
+| Body weight (kg)      | Recommended starting dose        | Dose adjustment                                                                                                            |
 |-----------------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | 10 to less than 20 kg | 150 mg lanadelumab every 4 weeks | A dose increase to 150 mg lanadelumab every 3 weeks may be considered in patients with insufficient control of attacks     |
 | 20 to less than 40 kg | 150 mg lanadelumab every 2 weeks | A dose reduction to 150 mg lanadelumab every 4 weeks may be considered in patients who are stably attack free on treatment |
 | 40 kg or more         | 300 mg lanadelumab every 2 weeks | A dose reduction to 300 mg lanadelumab every 4 weeks may be considered in patients who are stably attack free on treatment |
 
-- › For patients with a body weight of 20 to less than 40 kg who have not had an attack for a long period, the doctor may allow your child or the child you are caring for to continue with the same dose when reaching 12 years of age.
+- ­ For patients with a body weight of 20 to less than 40 kg who have not had an attack for a long period, the doctor may allow your child or the child you are caring for to continue with the same dose when reaching 12 years of age.
 
 ## How to inject TAKHZYRO
 
-## If you inject TAKHZYRO yourself or if your caregiver injects it, you or your caregiver must carefully read and follow the instructions in section 7, 'Instructions for use'.
+If you inject TAKHZYRO yourself or if your caregiver injects it, you or your caregiver must carefully read and follow the instructions in section 7, 'Instructions for use'.
 
--  TAKHZYRO is for injection under the skin ('subcutaneous injection').
--  The injection can be given either by yourself or a caregiver for patients 12 years and older
--  The injection can be given by either healthcare provider or caregiver for patients 2 to less than 12 years of age.
--  A doctor, pharmacist or nurse should show you how to prepare and inject TAKHZYRO properly before you use it for the first time. Do not inject yourself or someone else until you have been trained to inject the medicine.
+- TAKHZYRO is for injection under the skin ('subcutaneous injection').
+- The injection can be given either by yourself or a caregiver for patients 12 years and older
+- The injection can be given by either healthcare provider or caregiver for patients 2 to less than 12 years of age.
+- A doctor, pharmacist or nurse should show you how to prepare and inject TAKHZYRO properly before you use it for the first time. Do not inject yourself or someone else until you have been trained to inject the medicine.
 
 <div style=\"page-break-after: always\"></div>
 
--  Insert the needle into the fatty tissue in the tummy (abdomen), thigh or upper arm.
--  Inject the medicine in a different place each time.
--  Use each pre-filled syringe of TAKHZYRO only once.
+- Insert the needle into the fatty tissue in the tummy (abdomen), thigh or upper arm.
+- Inject the medicine in a different place each time.
+- Use each pre-filled syringe of TAKHZYRO only once.
 
 ## If you use more TAKHZYRO than you should
 
@@ -2611,9 +2669,9 @@ Tell your doctor, pharmacist or nurse if you take too much TAKHZYRO.
 
 If you miss a dose of TAKHZYRO, inject your dose as soon as possible. The next dose scheduled may need to be adjusted based on the intended dosing frequency to ensure
 
--  at least 10 days between doses for patients on every 2 weeks doing schedule,
--  at least 17 days between doses for patients on every 3 weeks dosing schedule,
--  at least 24 days between doses for patients on every 4 weeks dosing schedule.
+- at least 10 days between doses for patients on every 2 weeks doing schedule,
+- at least 17 days between doses for patients on every 3 weeks dosing schedule,
+- at least 24 days between doses for patients on every 4 weeks dosing schedule.
 
 If you are not sure when to inject TAKHZYRO after a missed dose, ask your doctor, pharmacist or nurse.
 
@@ -2629,17 +2687,17 @@ If you have a severe allergic reaction to TAKHZYRO with symptoms such as a rash,
 
 Tell your doctor, pharmacist or nurse if you notice any of the following side effects.
 
-## Very common (may affect more than 1 in 10 people):
+Very common (may affect more than 1 in 10 people):
 
--  Reactions where the injection is given - symptoms include pain, skin redness, bruising, discomfort, swelling, bleeding, itching, hardening of skin, tingling, warmth and rash.
+- Reactions where the injection is given - symptoms include pain, skin redness, bruising, discomfort, swelling, bleeding, itching, hardening of skin, tingling, warmth, rash and hives (urticaria).
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
--  Allergic reactions including itching, discomfort and tingling of the tongue
--  Dizziness, feeling faint
--  Raised skin rash
--  Muscle pain
--  Blood tests showing liver changes
+- Allergic reactions including itching, discomfort and tingling of the tongue
+- Dizziness, feeling faint
+- Raised skin rash
+- Muscle pain
+- Blood tests showing liver changes
 
 ## Reporting of side effects
 
@@ -2655,7 +2713,7 @@ Do not use this medicine after the expiry date which is stated on the label and 
 
 ## TAKHZYRO 300 mg solution for injection in pre-filled syringe
 
-Store in a refrigerator (2  C-8  C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store in a refrigerator (2 ° C - 8 ° C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 Pre-filled syringes may be stored below 25 °C for a single period of 14 days, but not beyond the expiry date.
 
@@ -2671,8 +2729,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What TAKHZYRO contains
 
--  The active substance is lanadelumab. Each pre-filled syringe contains 300 mg of lanadelumab in 2 ml solution.
--  The other ingredients are disodium phosphate dihydrate, citric acid monohydrate, histidine, sodium chloride, polysorbate 80 and water for injections - see section 2 'TAKHZYRO contains sodium'
+- The active substance is lanadelumab. Each pre-filled syringe contains 300 mg of lanadelumab in 2 ml solution.
+- The other ingredients are disodium phosphate dihydrate (E339), citric acid monohydrate (E330), histidine, sodium chloride, polysorbate 80 (E433) and water for injections - see section 2 'TAKHZYRO contains sodium' and 'TAKHZYRO contains polysorbate 80'.
 
 ## What TAKHZYRO looks like and contents of the pack
 
@@ -2680,21 +2738,23 @@ TAKHZYRO is presented as a clear, colourless to slightly yellow solution for inj
 
 ## TAKHZYRO is available as:
 
--  a single pack containing one 2 ml pre-filled syringe in a carton
--  a single pack containing two 2 ml pre-filled syringes in a carton
--  in multipacks comprising 3 cartons, each carton containing two 2 ml pre-filled syringes.
+- a single pack containing one 2 ml pre-filled syringe in a carton
+- a single pack containing two 2 ml pre-filled syringes in a carton
+- in multipacks comprising 3 cartons, each carton containing two 2 ml pre-filled syringes.
 
 Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-## Marketing Authorisation Holder
+Marketing Authorisation Holder Takeda Pharmaceuticals International AG Ireland Branch
 
-Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68
+Block 2 Miesian Plaza 50-58 Baggot Street Lower
+
+Dublin 2
 
 <div style=\"page-break-after: always\"></div>
 
-## Ireland
+D02 HW68 Ireland
 
 ## Manufacturer
 
@@ -2704,7 +2764,9 @@ Shire Pharmaceuticals Ireland Limited Blocks 2 &amp; 3 Miesian Plaza 50-58 Baggo
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
+## België/Belgique/Belgien
+
+Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
 ## България
 
@@ -2716,13 +2778,11 @@ Takeda Pharmaceuticals Czech Republic s.r.o. Tel: + 420 234 722 722 medinfoEMEA@
 
 ## Danmark
 
-Takeda Pharma A/S Tlf: +45 46 77 10 10 medinfoEMEA@takeda.com
+Takeda Pharma A/S Tlf.: +45 46 77 10 10 medinfoEMEA@takeda.com
 
 ## Deutschland
 
-Takeda GmbH Tel: +49 (0)800 825 3325
-
-medinfoEMEA@takeda.com
+Takeda GmbH Tel: +49 (0)800 825 3325 medinfoEMEA@takeda.com
 
 ## Eesti
 
@@ -2730,7 +2790,7 @@ Takeda Pharma OÜ Tel: +372 6177 669 medinfoEMEA@takeda.com
 
 ## Ελλάδα
 
-Τakeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800 medinfoEMEA@takeda.com
+Τ akeda ΕΛΛΑΣ Α . Ε . T ηλ : +30 210 6387800 medinfoEMEA@takeda.com
 
 ## Lietuva
 
@@ -2742,7 +2802,7 @@ Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
 ## Magyarország
 
-Takeda Pharma Kft. Tel: +36 1 270 7030 medinfoEMEA@takeda.com
+Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com
 
 ## Malta
 
@@ -2750,9 +2810,7 @@ Drugsales Ltd Tel: +356 21419070 safety@drugsalesltd.com
 
 ## Nederland
 
-Takeda Nederland B.V. Tel: +31 20 203 5492
-
-medinfoEMEA@takeda.com
+Takeda Nederland B.V. Tel: +31 20 203 5492 medinfoEMEA@takeda.com
 
 ## Norge
 
@@ -2814,11 +2872,11 @@ medinfoEMEA@takeda.com
 
 ## Slovenija
 
-Takeda Pharmaceuticals farmacevtska dru ž ba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals farmacevtska družba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -2846,11 +2904,7 @@ medinfoEMEA@takeda.com
 
 ## Κύπρος
 
-Proton Medical (Cyprus) Ltd
-
-Τηλ: +357 22866000
-
-admin@protoncy.com
+Proton Medical (Cyprus) Ltd Τηλ: +357 22866000 admin@protoncy.com
 
 ## Sverige
 
@@ -2861,14 +2915,6 @@ Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
 Takeda Latvia SIA
 
 Tel: +371 67840082
-
-medinfoEMEA@takeda.com
-
-## United Kingdom (Northern Ireland)
-
-Takeda UK Ltd
-
-Tel: +44 (0) 3333 000 181
 
 medinfoEMEA@takeda.com
 
@@ -2890,14 +2936,13 @@ The TAKHZYRO pre-filled syringe is a fixed dose (300 mg/2 ml), ready-to-use, dis
 
 ## Storing TAKHZYRO
 
--  Store the TAKHZYRO pre-filled syringe in the refrigerator at 2 °C to 8 °C. Do not freeze.
--  Pre-filled syringe removed from refrigeration should be stored below 25 °C and used within
-- 14 days. Do not return TAKHZYRO to refrigerated storage after storage at room temperature.
--  When one pre-filled syringe from a multi-pack is removed from refrigeration, return the remaining pre-filled syringes to the refrigerator until future use when needed.
--  Store TAKHZYRO in the original carton to protect the pre-filled syringe from light.
--  Throw away (discard) the TAKHZYRO pre-filled syringe if it has been kept out of the refrigerator, frozen, or not kept in the original carton protected from light.
--  Do not shake TAKHZYRO.
--  Keep TAKHZYRO and all medicines out of the reach of children.
+- Store the TAKHZYRO pre-filled syringe in the refrigerator at 2 °C to 8 °C. Do not freeze.
+- Pre-filled syringe removed from refrigeration should be stored below 25 °C and used within 14 days. Do not return TAKHZYRO to refrigerated storage after storage at room temperature.
+- When one pre-filled syringe from a multi-pack is removed from refrigeration, return the remaining pre-filled syringes to the refrigerator until future use when needed.
+- Store TAKHZYRO in the original carton to protect the pre-filled syringe from light.
+- Throw away (discard) the TAKHZYRO pre-filled syringe if it has been kept out of the refrigerator, frozen, or not kept in the original carton protected from light.
+- Do not shake TAKHZYRO.
+- Keep TAKHZYRO and all medicines out of the reach of children.
 
 Parts of your TAKHZYRO pre-filled syringe before use (Figure A).
 
@@ -2926,10 +2971,10 @@ Adhesive Bandage
 Figure B: Supplies
 
 - b. Remove TAKHZYRO pre-filled syringe from refrigerator.
-2.  Do not use the TAKHZYRO pre-filled syringe if the tamper evident seal is open or broken.
-3.  Before you prepare your injection, allow the pre-filled syringe to reach room temperature for at least 15 minutes.
-4.  Your medicine is sensitive to warm temperatures. Do not use heat sources such as a microwave or hot water to warm your TAKHZYRO pre-filled syringe.
-5.  Do not remove the needle cap until you are ready to inject.
+- Do not use the TAKHZYRO pre-filled syringe if the tamper evident seal is open or broken.
+- Before you prepare your injection, allow the pre-filled syringe to reach room temperature for at least 15 minutes.
+- Your medicine is sensitive to warm temperatures. Do not use heat sources such as a microwave or hot water to warm your TAKHZYRO pre-filled syringe.
+- Do not remove the needle cap until you are ready to inject.
 - c. Open the carton. Hold the syringe barrel and remove the TAKHZYRO pre-filled syringe from the tray ( Figure C ).
 
 <!-- image -->
@@ -2945,12 +2990,12 @@ Sharps Container
 <div style=\"page-break-after: always\"></div>
 
 - d. Wash your hands with soap and water (Figure D) . Dry your hands completely
-2.  Do not touch any surface or body part after washing your hands before the injection.
+- Do not touch any surface or body part after washing your hands before the injection.
 - e. Check the expiration date (EXP) on the syringe barrel ( Figure E ) . Do not use the TAKHZYRO pre-filled syringe if the expiration date has passed. If the TAKHZYRO pre-filled syringe is expired, throw it away (discard) in a sharps container and contact your healthcare provider.
 - f. Inspect the TAKHZYRO pre-filled syringe for any damage and make sure the medicine is colourless to slightly yellow ( Figure F ).
-5.  Do not use product if syringe is damaged - e.g., cracked syringe.
-6.  Do not use the TAKHZYRO pre-filled syringe if the medicine is discoloured, cloudy or has flakes or particles in it.
-7.  You might see air bubbles in the TAKHZYRO pre-filled syringe. This is normal and will not affect your dose.
+- Do not use product if syringe is damaged - e.g., cracked syringe.
+- Do not use the TAKHZYRO pre-filled syringe if the medicine is discoloured, cloudy or has flakes or particles in it.
+- You might see air bubbles in the TAKHZYRO pre-filled syringe. This is normal and will not affect your dose.
 
 Figure D: Wash hands
 
@@ -2978,8 +3023,8 @@ Figure F: Inspect the pre-filled syringe
 2. o stomach area (abdomen)
 3. o thighs
 4. o upper arms (only if healthcare provider or caregiver is giving you the injection)
-5.  Do not inject into an area of your body where the skin is irritated, reddened, bruised, or infected.
-6.  The area you choose for injection should be at least 5 cm away from any scars or your belly button (navel).
+- Do not inject into an area of your body where the skin is irritated, reddened, bruised, or infected.
+- The area you choose for injection should be at least 5 cm away from any scars or your belly button (navel).
 
 Figure G: Injection sites
 
@@ -2988,14 +3033,14 @@ Figure G: Injection sites
 <div style=\"page-break-after: always\"></div>
 
 - b. Clean the injection site with an alcohol swab and allow it to dry completely ( Figure H ).
-2.  Do not fan or blow on the clean site.
-3.  Do not touch this area again before giving your injection.
+- Do not fan or blow on the clean site.
+- Do not touch this area again before giving your injection.
 - c. Firmly hold the middle of the TAKHZYRO pre-filled syringe with one hand and with the other hand, gently pull the needle cap straight off. Throw away the needle cap in your trash or in your sharps container ( Figure I ).
-5.  Do not touch or push the plunger rod until you are ready to inject.
-6.  Do not recap your TAKHZYRO pre-filled syringe to avoid a needle stick injury.
-7.  Do not use the TAKHZYRO pre-filled syringe if it has been dropped without the needle cap.
-8.  Do not use the TAKHZYRO pre-filled syringe if the needle looks damaged or bent.
-9.  Do not touch the needle or allow the needle to touch anything.
+- Do not touch or push the plunger rod until you are ready to inject.
+- Do not recap your TAKHZYRO pre-filled syringe to avoid a needle stick injury.
+- Do not use the TAKHZYRO pre-filled syringe if it has been dropped without the needle cap.
+- Do not use the TAKHZYRO pre-filled syringe if the needle looks damaged or bent.
+- Do not touch the needle or allow the needle to touch anything.
 
 Figure H: Clean injection site
 
@@ -3016,7 +3061,7 @@ Figure J: Grip pre-filled syringe
 <div style=\"page-break-after: always\"></div>
 
 - b. With your other hand, gently pinch about 3 cm fold of skin at the cleaned injection site.
-2.  Keep pinching until the injection is complete and the needle is removed ( Figure K ).
+- Keep pinching until the injection is complete and the needle is removed ( Figure K ).
 - c. With one quick, short motion, push needle all the way into skin at a 45-to-90 degree angle. Make sure to keep the needle in place ( Figure L ).
 
 Figure K: Pinch 3 cm fold of skin
@@ -3047,13 +3092,13 @@ Figure N: Stopper at the bottom of the syringe barrel
 <!-- image -->
 
 - f. Press cotton ball or gauze pad over injection site if needed and hold for 10 seconds.
-2.  Do not rub the injection site. You may have a minor bleeding. This is normal.
-3.  Cover injection site with an adhesive bandage if needed.
+- Do not rub the injection site. You may have a minor bleeding. This is normal.
+- Cover injection site with an adhesive bandage if needed.
 - g. Throw away (dispose) your used TAKHZYRO pre-filled syringe.
-5.  Put your used TAKHZYRO pre-filled syringe in a sharps disposal container right away after use ( Figure O).
-6.  Do not recap the needle to avoid needle stick injury.
-7.  Do not reuse the TAKHZYRO pre-filled syringe and any of your injection supplies.
-8.  Do not touch the needle.
+- Put your used TAKHZYRO pre-filled syringe in a sharps disposal container right away after use ( Figure O).
+- Do not recap the needle to avoid needle stick injury.
+- Do not reuse the TAKHZYRO pre-filled syringe and any of your injection supplies.
+- Do not touch the needle.
 
 Important: Always keep the sharps disposal container out of the reach of children.
 
@@ -3065,9 +3110,7 @@ Figure O: Dispose in a sharps container
 
 <div style=\"page-break-after: always\"></div>
 
-## TAKHZYRO 300 mg solution for injection in pre-filled pen
-
-## lanadelumab
+## TAKHZYRO 300 mg solution for injection in pre-filled pen lanadelumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -3098,10 +3141,10 @@ TAKHZYRO is a medicine used in patients 2 years and older to prevent angioedema 
 
 HAE is a condition which runs in families. With this condition your blood does not have enough of a protein called 'C1 inhibitor', or C1 inhibitor does not work properly. This leads to too much 'plasma kallikrein', which in turn produces higher levels of 'bradykinin' in your bloodstream. Too much bradykinin leads to symptoms of HAE like swelling and pain on the,
 
--  hands and feet
--  face, eyelids, lips or tongue
--  voice-box (larynx), which may make breathing difficult
--  genitals
+- hands and feet
+- face, eyelids, lips or tongue
+- voice-box (larynx), which may make breathing difficult
+- genitals
 
 ## How TAKHZYRO works
 
@@ -3117,8 +3160,8 @@ If you are allergic to lanadelumab or any of the other ingredients of this medic
 
 ## Warnings and precautions
 
--  Talk to your doctor, pharmacist or nurse before using TAKHZYRO.
--  If you have a severe allergic reaction to TAKHZYRO with symptoms such as a rash, a tight chest, wheezing, or a fast heart beat, tell your doctor, pharmacist or nurse immediately.
+- Talk to your doctor, pharmacist or nurse before using TAKHZYRO.
+- If you have a severe allergic reaction to TAKHZYRO with symptoms such as a rash, a tight chest, wheezing, or a fast heart beat, tell your doctor, pharmacist or nurse immediately.
 
 ## Keeping a record
 
@@ -3150,35 +3193,39 @@ This medicine has no or negligible influence on the ability to drive and use mac
 
 The medicine contains less than 1 mmol sodium (23 mg) per pre-filled pen, that is to say essentially 'sodium-free'.
 
+## TAKHZYRO contains polysorbate 80
+
+This medicine contains 0.2 mg of polysorbate 80 in each pre-filled pen, which is equivalent to 0.1 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you or your child have any known allergies.
+
+<div style=\"page-break-after: always\"></div>
+
 ## 3. How to use TAKHZYRO
 
 TAKHZYRO is provided in single-use pre-filled pens as ready-to-use solution. Your treatment will be started and managed under the supervision of a doctor experienced in the care of patients with HAE.
 
 Always use this medicine exactly as described in this leaflet or as your doctor, pharmacist or nurse has told you. Check with your doctor, pharmacist or nurse if you are not sure or have any further questions on the use of this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## How much TAKHZYRO to use
 
 For adults and adolescents 12 to less than 18 years of age:
 
-- › The recommended starting dose is 300 mg lanadelumab every 2 weeks. If you have not had an attack for a long period, your doctor may change the dose to 300 mg lanadelumab every 4 weeks, especially if you have a low body weight.
-- › In patients with a body weight less than 40 kg, a starting dose of 150 mg lanadelumab every 2 weeks may also be considered. However, the 150 mg pre-filled syringe must be used because the 300 mg pre-filled pen cannot be used to administer 150 mg lanadelumab.
+- ­ The recommended starting dose is 300 mg lanadelumab every 2 weeks. If you have not had an attack for a long period, your doctor may change the dose to 300 mg lanadelumab every 4 weeks, especially if you have a low body weight.
+- ­ In patients with a body weight less than 40 kg, a starting dose of 150 mg lanadelumab every 2 weeks may also be considered. However, the 150 mg pre-filled syringe must be used because the 300 mg pre-filled pen cannot be used to administer 150 mg lanadelumab.
 
 For children 2 to less than 12 years of age:
 
-- › The recommended dose is based on body weight and should only be administered via a prefilled syringe or vial. The pre-filled pen has not been studied in children 2 to less than 12 years of age and therefore should not be used.
+- ­ The recommended dose is based on body weight and should only be administered via a prefilled syringe or vial. The pre-filled pen has not been studied in children 2 to less than 12 years of age and therefore should not be used.
 
 ## How to inject TAKHZYRO
 
 ## If you inject TAKHZYRO yourself or if your caregiver injects it, you or your caregiver must carefully read and follow the instructions in section 7, 'Instructions for use'.
 
--  TAKHZYRO is for injection under the skin ('subcutaneous injection').
--  The injection can be given either by yourself or a caregiver for patients 12 years and older.
--  A doctor, pharmacist or nurse should show you how to prepare and inject TAKHZYRO properly before you use it for the first time. Do not inject yourself or someone else until you have been trained to inject the medicine.
--  Administer TAKHZYRO with the pre-filled pen into the fatty tissue in the tummy (abdomen), thigh or upper arm.
--  Inject the medicine in a different place each time.
--  Use each pre-filled pen of TAKHZYRO only once.
+- TAKHZYRO is for injection under the skin ('subcutaneous injection').
+- The injection can be given either by yourself or a caregiver for patients 12 years and older.
+- A doctor, pharmacist or nurse should show you how to prepare and inject TAKHZYRO properly before you use it for the first time. Do not inject yourself or someone else until you have been trained to inject the medicine.
+- Administer TAKHZYRO with the pre-filled pen into the fatty tissue in the tummy (abdomen), thigh or upper arm.
+- Inject the medicine in a different place each time.
+- Use each pre-filled pen of TAKHZYRO only once.
 
 ## If you use more TAKHZYRO than you should
 
@@ -3188,10 +3235,12 @@ Tell your doctor, pharmacist or nurse if you take too much TAKHZYRO.
 
 If you miss a dose of TAKHZYRO, inject your dose as soon as possible. The next dose scheduled may need to be adjusted based on the intended dosing frequency to ensure:
 
--  at least 10 days between doses for patients on every 2 weeks dosing schedule,
--  at least 24 days between doses for patients on every 4 weeks dosing schedule.
+- at least 10 days between doses for patients on every 2 weeks dosing schedule,
+- at least 24 days between doses for patients on every 4 weeks dosing schedule.
 
 If you are not sure when to inject TAKHZYRO after a missed dose, ask your doctor, pharmacist or nurse.
+
+<div style=\"page-break-after: always\"></div>
 
 ## If you stop using TAKHZYRO
 
@@ -3201,23 +3250,21 @@ It is important that you keep injecting TAKHZYRO as instructed by your doctor ev
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-<div style=\"page-break-after: always\"></div>
-
 If you have a severe allergic reaction to TAKHZYRO with symptoms such as a rash, tight chest, wheezing, or a fast heart beat, tell your doctor, pharmacist or nurse immediately.
 
 Tell your doctor, pharmacist or nurse if you notice any of the following side effects.
 
-## Very common (may affect more than 1 in 10 people):
+Very common (may affect more than 1 in 10 people):
 
--  Reactions where the injection is given - symptoms include pain, skin redness, bruising, discomfort, swelling, bleeding, itching, hardening of skin, tingling, warmth and rash.
+- Reactions where the injection is given - symptoms include pain, skin redness, bruising, discomfort, swelling, bleeding, itching, hardening of skin, tingling, warmth, rash and hives (urticaria).
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
--  Allergic reactions including itching, discomfort and tingling of the tongue
--  Dizziness, feeling faint
--  Raised skin rash
--  Muscle pain
--  Blood tests showing liver changes
+- Allergic reactions including itching, discomfort and tingling of the tongue
+- Dizziness, feeling faint
+- Raised skin rash
+- Muscle pain
+- Blood tests showing liver changes
 
 ## Reporting of side effects
 
@@ -3231,7 +3278,7 @@ Do not use this medicine after the expiry date which is stated on the label and 
 
 ## TAKHZYRO 300 mg solution for injection in pre-filled pen
 
-Store in a refrigerator (2 °C-8 °C). Do not freeze. Keep the pre-filled pen in the outer carton in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the pre-filled pen in the outer carton in order to protect from light.
 
 Pre-filled pens may be stored below 25 °C for a single period of 14 days, but not beyond the expiry date.
 
@@ -3239,18 +3286,18 @@ Do not return TAKHZYRO to refrigerated storage after storage at room temperature
 
 When one pre-filled pen from a multi-pack is removed from refrigeration, return the remaining prefilled pens to the refrigerator until future use when needed.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not use this medicine if you notice signs of deterioration such as particles in the pre-filled pen or changed colour of the injection solution.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
 ## What TAKHZYRO contains
 
--  The active substance is lanadelumab. Each pre-filled pen contains 300 mg of lanadelumab in 2 ml solution.
--  The other ingredients are disodium phosphate dihydrate, citric acid monohydrate, histidine, sodium chloride, polysorbate 80 and water for injections - see section 2 'TAKHZYRO contains sodium'.
+- The active substance is lanadelumab. Each pre-filled pen contains 300 mg of lanadelumab in 2 ml solution.
+- The other ingredients are disodium phosphate dihydrate (E339), citric acid monohydrate (E330), histidine, sodium chloride, polysorbate 80 (E433) and water for injections - see section 2 'TAKHZYRO contains sodium' and 'TAKHZYRO contains polysorbate 80'.
 
 ## What TAKHZYRO looks like and contents of the pack
 
@@ -3258,41 +3305,47 @@ TAKHZYRO is presented as a clear, colourless to slightly yellow solution for inj
 
 ## TAKHZYRO is available as:
 
--  a single pack containing one 2 ml pre-filled pen in a carton
--  a single pack containing two 2 ml pre-filled pens in a carton
--  in multipacks comprising 3 cartons, each carton containing two 2 ml pre-filled pens.
+- a single pack containing one 2 ml pre-filled pen in a carton
+- a single pack containing two 2 m l pre-filled pens in a carton
+- in multipacks comprising 3 cartons, each carton containing two 2 ml pre-filled pens.
 
 Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-## Marketing Authorisation Holder
-
 Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
-
-## Manufacturer
-
-Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
-
-Shire Pharmaceuticals Ireland Limited Blocks 2 &amp; 3 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
+België/Belgique/Belgien
 
-Lietuva Takeda, UAB Tel: +370 521 09 070
+Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
-medinfoEMEA@takeda.com
+## Lietuva
 
-<div style=\"page-break-after: always\"></div>
+Takeda, UAB Tel: +370 521 09 070 medinfoEMEA@takeda.com
 
 ## България
 
-Такеда България ЕООД Тел.: +359 2 958 27 36 medinfoEMEA@takeda.com
+Такеда България ЕООД
+
+Тел.: +359 2 958 27 36 medinfoEMEA@takeda.com
+
+## Luxembourg/Luxemburg
+
+Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
 ## Česká republika
 
-Takeda Pharmaceuticals Czech Republic s.r.o. Tel: + 420 234 722 722 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals Czech Republic s.r.o. Tel: + 420 234 722 722
+
+medinfoEMEA@takeda.com
+
+## Magyarország
+
+Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
@@ -3308,7 +3361,7 @@ Takeda Pharma OÜ Tel: +372 6177 669 medinfoEMEA@takeda.com
 
 ## Ελλάδα
 
-Τakeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800 medinfoEMEA@takeda.com
+Τ akeda ΕΛΛΑΣ Α . Ε . T ηλ : +30 210 6387800 medinfoEMEA@takeda.com
 
 ## España
 
@@ -3330,11 +3383,13 @@ Takeda Products Ireland Ltd Tel: 1800 937 970 medinfoEMEA@takeda.com
 
 Vistor ehf. Sími: +354 535 7000 medinfoEMEA@takeda.com
 
-Luxembourg/Luxemburg Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
+## Italia
 
-## Magyarország
+Takeda Italia S.p.A. Tel: +39 06 502601 medinfoEMEA@takeda.com
 
-Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com
+## Κύπρος
+
+Proton Medical (Cyprus) Ltd Τηλ: +357 22866000 admin@protoncy.com
 
 ## Malta
 
@@ -3366,49 +3421,25 @@ Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com
 
 ## Slovenija
 
-Takeda Pharmaceuticals farmacevtska dru ž ba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
+Takeda Pharmaceuticals farmacevtska družba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
 
 ## Slovenská republika
 
 Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com
 
-## Italia
-
-Takeda Italia S.p.A.
-
-Tel: +39 06 502601
-
-medinfoEMEA@takeda.com
-
 ## Suomi/Finland
 
 Takeda Oy Puh/Tel: 0800 774 051 medinfoEMEA@takeda.com
-
-## Κύπρος
-
-Proton Medical (Cyprus) Ltd Τηλ: +357 22866000 admin@protoncy.com
 
 ## Sverige
 
 Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
 
-## Latvija
-
-Takeda Latvia SIA
-
-Tel: +371 67840082
-
-medinfoEMEA@takeda.com
-
-## United Kingdom (Northern Ireland)
-
-Takeda UK Ltd
-
-Tel: +44 (0) 3333 000 181
-
-medinfoEMEA@takeda.com
-
 <div style=\"page-break-after: always\"></div>
+
+Latvija Takeda Latvia SIA Tel: +371 67840082
+
+medinfoEMEA@takeda.com
 
 ## This leaflet was last revised in
 
@@ -3426,21 +3457,23 @@ The TAKHZYRO pre-filled pen is a fixed dose (300 mg/2 ml), ready-to-use, disposa
 
 ## Storing the TAKHZYRO pre-filled pen
 
--  Store the TAKHZYRO pre-filled pen in the refrigerator at 2 °C to 8 °C. Do not freeze.
--  Store TAKHZYRO in the original carton to protect the pre-filled pen from light.
--  Pre-filled pens removed from refrigeration should be stored below 25 °C and used within 14 days. Do not return TAKHZYRO to refrigerated storage after leaving the pen out at room temperature.
--  After removing one pre-filled pen from a multi-pack, return the remaining pre-filled pens to the refrigerator in the original carton until future use when needed.
--  Throw away (dispose of) the TAKHZYRO pre-filled pen if it has been kept out of the refrigerator for more than 14 days, frozen, or not kept in the original carton protected from light.
--  Do not shake TAKHZYRO.
--  Keep TAKHZYRO and all medicines out of the reach of children.
+- Store the TAKHZYRO pre-filled pen in the refrigerator at 2 °C to 8 °C. Do not freeze.
+- Store TAKHZYRO in the original carton to protect the pre-filled pen from light.
+- Pre-filled pens removed from refrigeration should be stored below 25 °C and used within 14 days. Do not return TAKHZYRO to refrigerated storage after leaving the pen out at room temperature.
+- After removing one pre-filled pen from a multi-pack, return the remaining pre-filled pens to the refrigerator in the original carton until future use when needed.
+- Throw away (dispose of) the TAKHZYRO pre-filled pen if it has been kept out of the refrigerator for more than 14 days, frozen, or not kept in the original carton protected from light.
+- Do not shake TAKHZYRO.
+- Keep TAKHZYRO and all medicines out of the reach of children.
 
 The TAKHZYRO pre-filled pen ( Figure A ) is for single use only.
 
-<div style=\"page-break-after: always\"></div>
-
 ## TAKHZYRO pre-filled pen before and after use
 
+Figure A
+
 <!-- image -->
+
+<div style=\"page-break-after: always\"></div>
 
 ## Prepare for your injection
 
@@ -3448,10 +3481,8 @@ The TAKHZYRO pre-filled pen ( Figure A ) is for single use only.
 
 Remove the TAKHZYRO pre-filled pen carton from the refrigerator 30 minutes before injecting.
 
--  Do not use if the seal on the carton is open or broken.
--  Your medicine is sensitive to warm temperatures. Do not use heat sources such as a microwave or hot water to warm your TAKHZYRO pre-filled pen.
-
-Figure A
+- Do not use if the seal on the carton is open or broken.
+- Your medicine is sensitive to warm temperatures. Do not use heat sources such as a microwave or hot water to warm your TAKHZYRO pre-filled pen.
 
 <!-- image -->
 
@@ -3463,24 +3494,24 @@ Figure B
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
 ## Step 3 - Remove pre-filled pen
 
 Open the carton. Hold the pen body and remove the TAKHZYRO pre-filled pen from the tray ( Figure C ).
 
--  Do not remove the protective cap until you are ready to inject.
--  Do not touch or push the needle cover until you are ready to inject.
+- Do not remove the protective cap until you are ready to inject.
+- Do not touch or push the needle cover until you are ready to inject.
 
 Figure C
 
 <!-- image -->
 
+<div style=\"page-break-after: always\"></div>
+
 ## Step 4 - Wash hands
 
 Wash your hands with soap and water ( Figure D ). Dry your hands completely.
 
--  Do not touch any surface or body part after washing your hands before the injection.
+- Do not touch any surface or body part after washing your hands before the injection.
 
 Figure D
 
@@ -3490,27 +3521,25 @@ Figure D
 
 Check the expiration date (EXP) on the pen body ( Figure E ).
 
--  Do not use the TAKHZYRO pre-filled pen if the expiration date has passed. If the TAKHZYRO pre-filled pen is expired throw it away (dispose of) in a sharps disposal container and contact your healthcare provider.
+- Do not use the TAKHZYRO pre-filled pen if the expiration date has passed. If the TAKHZYRO pre-filled pen is expired throw it away (dispose of) in a sharps disposal container and contact your healthcare provider.
 
 Figure E
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
 ## Step 6 - Inspect TAKHZYRO
 
 Inspect the TAKHZYRO pre-filled pen for any damage. Check the viewing window ( Figure F ) and make sure the medicine is colourless to slightly yellow.
 
--  Do not use the TAKHZYRO pre-filled pen if the pen is damaged or cracked.
--  Do not use the TAKHZYRO pre-filled pen if the medicine is discoloured, cloudy, or has flakes or particles in it.
--  You may see air bubbles in the TAKHZYRO pre-filled pen viewing window. This is normal and will not affect your dose.
+- Do not use the TAKHZYRO pre-filled pen if the pen is damaged or cracked.
+- Do not use the TAKHZYRO pre-filled pen if the medicine is discoloured, cloudy, or has flakes or particles in it.
+- You may see air bubbles in the TAKHZYRO pre-filled pen viewing window. This is normal and will not affect your dose.
 
 If you cannot use the pre-filled pen, contact your healthcare provider.
 
-Figure F
-
 <!-- image -->
+
+<div style=\"page-break-after: always\"></div>
 
 ## Select and prepare your injection site
 
@@ -3521,29 +3550,21 @@ TAKHZYRO should be injected into the following sites only ( Figure G for self-in
 - -stomach area (abdomen)
 - -thighs
 - -upper arms (only if a healthcare provider or caregiver is giving you the injection)
--  Do not inject into an area of your body where the skin is irritated, red, bruised, or infected.
--  The area you choose for injection should be at least 5 cm away from any scars or your belly button (navel).
+- Do not inject into an area of your body where the skin is irritated, red, bruised, or infected.
+- The area you choose for injection should be at least 5 cm away from any scars or your belly button (navel).
 
 ## Important:
 
 Rotate injection sites to keep skin healthy. Each new injection should be given at least 2.5 cm from the last site you used.
 
-Figure G
+Step 8 - Clean injection site
 
 <!-- image -->
-
-Figure H
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-## Step 8 - Clean injection site
 
 Clean the injection site with an alcohol swab and allow it to dry completely ( Figure I ).
 
--  Do not fan or blow on the clean site.
--  Do not touch the clean site again before giving your injection.
+- Do not fan or blow on the clean site.
+- Do not touch the clean site again before giving your injection.
 
 Figure I
 
@@ -3553,11 +3574,16 @@ Figure I
 
 Firmly hold the middle of the TAKHZYRO pre-filled pen with one hand, and with the other hand, pull the protective cap straight off ( Figure J ).
 
--  The needle is protected by the needle cover.
--  You may see a few drops of liquid come out of the needle. This is normal and will not affect your dose of TAKHZYRO.
--  Your TAKHZYRO pre-filled pen is ready to inject after the protective cap is removed.
--  Do not touch or push the needle cover until you are ready to inject.
--  Do not recap your TAKHZYRO pre-filled pen .
+- The needle is protected by the needle cover.
+- You may see a few drops of liquid come out of the needle. This is normal and will not affect your dose of TAKHZYRO.
+
+## Figure F
+
+<div style=\"page-break-after: always\"></div>
+
+- Your TAKHZYRO pre-filled pen is ready to inject after the protective cap is removed.
+- Do not touch or push the needle cover until you are ready to inject.
+- Do not recap your TAKHZYRO pre-filled pen .
 
 Figure J
 
@@ -3567,9 +3593,11 @@ Figure J
 
 Throw away (dispose of) the protective cap in your trash or in your sharps disposal container ( Figure K ).
 
--  Do not recap the pen to avoid a needlestick injury.
+- Do not recap the pen to avoid a needlestick injury.
 
-<div style=\"page-break-after: always\"></div>
+Figure K
+
+<!-- image -->
 
 ## Inject TAKHZYRO
 
@@ -3579,8 +3607,10 @@ Hold the TAKHZYRO pre-filled pen in one hand so that you can see the viewing win
 
 With your other hand, gently pinch a 2.5 cm fold of skin at the cleaned injection site ( Figure M ).
 
--  Keep pinching until the injection is complete and the needle is removed.
--  Do not press the needle cover against your skin until you are ready to give the injection.
+- Keep pinching until the injection is complete and the needle is removed.
+- Do not press the needle cover against your skin until you are ready to give the injection.
+
+<div style=\"page-break-after: always\"></div>
 
 Figure L
 
@@ -3590,35 +3620,31 @@ Step 12 - Place pen on injection site
 
 Place your TAKHZYRO pre-filled pen on your skin at a 90-degree angle to the chosen injection site ( Figure N ).
 
--  Do not push down on the pen until you are ready to inject.
--  Hold your pen so you can see the viewing window.
-
-<!-- image -->
+- Do not push down on the pen until you are ready to inject.
+- Hold your pen so you can see the viewing window.
 
 Figure N
 
-Figure M
-
 <!-- image -->
 
-Figure K
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-## Step 13 - Inject TAKHZYRO
+Step 13 - Inject TAKHZYRO
 
 Firmly press your pen straight down and hold. This will insert the needle and start your injection ( Figure O ).
 
 ## Your injection may take up to 25 seconds .
 
--  You will hear a 'click' sound when the injection starts.
--  There will be a second 'click' this is not the end of the injection .
--  Continue to hold down with constant pressure, until the viewing window is completely filled with the colour magenta.
--  Before you remove the pen from your skin, confirm that the viewing window is filled with magenta. This means you have received your full dose ( Figure O ).
--  The grey plunger is still visible in the viewing window after the injection is complete. This is normal and will not affect your dose.
--  If the viewing window did not fill completely with magenta, contact your healthcare provider.
+- You will hear a 'click' sound when the injection starts.
+- There will be a second 'click' this is not the end of the injection .
+- Continue to hold down with constant pressure, until the viewing window is completely filled with the colour magenta.
+- Before you remove the pen from your skin, confirm that the viewing window is filled with magenta. This means you have received your full dose ( Figure O ).
+- The grey plunger is still visible in the viewing window after the injection is complete. This is normal and will not affect your dose.
+- If the viewing window did not fill completely with magenta, contact your healthcare provider.
+
+Figure M
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
 
 Figure O
 
@@ -3628,26 +3654,24 @@ Step 14 - Remove pen
 
 Slowly lift your pen straight away from the injection site. The needle cover will be covering all of the needle ( Figure P ).
 
--  Release the fold of skin.
--  Do not rub the injection site. There may be a small amount of blood where you injected. This is normal.
--  Press a cotton ball or gauze pad over the injection site and cover with an adhesive bandage, if needed.
+- Release the fold of skin.
+- Do not rub the injection site. There may be a small amount of blood where you injected. This is normal.
+- Press a cotton ball or gauze pad over the injection site and cover with an adhesive bandage, if needed.
 
 Figure P
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
-## Throw away (dispose of) the TAKHZYRO pre-filled pen
+Throw away (dispose of) the TAKHZYRO pre-filled pen
 
 ## Step 15 - Dispose in a sharps disposal container
 
 Put your used TAKHZYRO pre-filled pen in a sharps disposal container right away after use ( Figure Q ).
 
--  Do not recap the pen to avoid a needle-stick injury.
--  Do not reuse the TAKHZYRO pre-filled pen or any of your injection supplies.
--  Do not throw away (dispose of) the TAKHZYRO pre-filled pen in your household trash.
--  Do not touch the needle.
+- Do not recap the pen to avoid a needle-stick injury.
+- Do not reuse the TAKHZYRO pre-filled pen or any of your injection supplies.
+- Do not throw away (dispose of) the TAKHZYRO pre-filled pen in your household trash.
+- Do not touch the needle.
 
 Important: Always keep the sharps disposal container out of the reach of children.
 
@@ -3659,9 +3683,7 @@ Figure Q
 
 ## Package leaflet: Information for the user
 
-## TAKHZYRO 300 mg solution for injection in vial
-
-## lanadelumab
+## TAKHZYRO 300 mg solution for injection in vial lanadelumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -3692,16 +3714,14 @@ TAKHZYRO is a medicine used in patients 2 years and older to prevent angioedema 
 
 HAE is a condition which runs in families. With this condition your blood does not have enough of a protein called 'C1 inhibitor', or C1 inhibitor does not work properly. This leads to too much 'plasma kallikrein', which in turn produces higher levels of 'bradykinin' in your bloodstream. Too much bradykinin leads to symptoms of HAE like swelling and pain on the,
 
--  hands and feet
--  face, eyelids, lips or tongue
--  voice-box (larynx), which may make breathing difficult
--  genitals
+- hands and feet
+- face, eyelids, lips or tongue
+- voice-box (larynx), which may make breathing difficult
+- genitals
 
 ## How TAKHZYRO works
 
 TAKHZYRO is a type of protein that blocks the activity of plasma kallikrein. This helps to reduce the amount of bradykinin in your bloodstream and prevents symptoms of HAE.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 2. What you need to know before you use TAKHZYRO
 
@@ -3709,10 +3729,12 @@ TAKHZYRO is a type of protein that blocks the activity of plasma kallikrein. Thi
 
 If you are allergic to lanadelumab or any of the other ingredients of this medicine (listed in section 6).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Warnings and precautions
 
--  Talk to your doctor, pharmacist or nurse before using TAKHZYRO.
--  If you have a severe allergic reaction to TAKHZYRO with symptoms such as a rash, a tight chest, wheezing, or a fast heartbeat, tell your doctor, pharmacist or nurse immediately.
+- Talk to your doctor, pharmacist or nurse before using TAKHZYRO.
+- If you have a severe allergic reaction to TAKHZYRO with symptoms such as a rash, a tight chest, wheezing, or a fast heartbeat, tell your doctor, pharmacist or nurse immediately.
 
 ## Keeping a record
 
@@ -3744,11 +3766,15 @@ This medicine has no or negligible influence on the ability to drive and use mac
 
 The medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium-free'.
 
+## TAKHZYRO contains polysorbate 80
+
+This medicine contains 0.2 mg of polysorbate 80 in each vial, which is equivalent to 0.1 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you or your child have any known allergies.
+
+<div style=\"page-break-after: always\"></div>
+
 ## 3. How to use TAKHZYRO
 
 TAKHZYRO is provided in single-use vials as ready-to-use solution. Your treatment will be started and managed under the supervision of a doctor experienced in the care of patients with HAE.
-
-<div style=\"page-break-after: always\"></div>
 
 Always use this medicine exactly as described in this leaflet or as your doctor, pharmacist or nurse has told you. Check with your doctor, pharmacist or nurse if you are not sure or have any further questions on the use of this medicine.
 
@@ -3756,32 +3782,33 @@ Always use this medicine exactly as described in this leaflet or as your doctor,
 
 For adults and adolescents 12 to less than 18 years of age:
 
-- › The recommended starting dose is 300 mg lanadelumab every 2 weeks. If you have not had an attack for a long period, your doctor may change the dose to 300 mg lanadelumab every 4 weeks, especially if you have a low body weight.
-- › In patients with a body weight less than 40 kg, a starting dose of 150 mg lanadelumab every 2 weeks may also be considered. If you have not had an attack for a long period, your doctor may change the dose to 150 mg lanadelumab every 4 weeks.
+- ­ The recommended starting dose is 300 mg lanadelumab every 2 weeks. If you have not had an attack for a long period, your doctor may change the dose to 300 mg lanadelumab every 4 weeks, especially if you have a low body weight.
+- ­ In patients with a body weight less than 40 kg, a starting dose of 150 mg lanadelumab every 2 weeks may also be considered. If you have not had an attack for a long period, your doctor may change the dose to 150 mg lanadelumab every 4 weeks.
 
 For children 2 to less than 12 years of age, the recommended dose is based on body weight:
 
-| Body Weight (kg)      | Recommended Starting Dose        | Dose Adjustment                                                                                                            |
+| Body weight (kg)      | Recommended starting dose        | Dose adjustment                                                                                                            |
 |-----------------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | 10 to less than 20 kg | 150 mg lanadelumab every 4 weeks | A dose increase to 150 mg lanadelumab every 3 weeks may be considered in patients with insufficient control of attacks     |
 | 20 to less than 40 kg | 150 mg lanadelumab every 2 weeks | A dose reduction to 150 mg lanadelumab every 4 weeks may be considered in patients who are stably attack free on treatment |
 | 40 kg or more         | 300 mg lanadelumab every 2 weeks | A dose reduction to 300 mg lanadelumab every 4 weeks may be considered in patients who are stably attack free on treatment |
 
-- › For patients with a body weight of 20 to less than 40 kg who have not had an attack for a long period, the doctor may allow your child or the child you are caring for to continue with the same dose when reaching 12 years of age.
+- ­ For patients with a body weight of 20 to less than 40 kg who have not had an attack for a long period, the doctor may allow your child or the child you are caring for to continue with the same dose when reaching 12 years of age.
 
 ## How to inject TAKHZYRO
 
 ## If you inject TAKHZYRO yourself or if your caregiver injects it, you or your caregiver must carefully read and follow the instructions in section 7, 'Instructions for use'.
 
--  TAKHZYRO is for injection under the skin ('subcutaneous injection').
--  The injection can be given either by yourself or a caregiver for patients 12 years and older.
--  The injection can be given by either healthcare provider or caregiver for patients 2 to less than 12 years of age.
--  A doctor, pharmacist or nurse should show you how to prepare and inject TAKHZYRO properly before you use it for the first time. Do not inject yourself or someone else until you have been trained to inject the medicine.
--  Insert the needle into the fatty tissue in the tummy (abdomen), thigh or upper arm.
--  Inject the medicine in a different place each time.
--  Use each vial of TAKHZYRO only once.
+- TAKHZYRO is for injection under the skin ('subcutaneous injection').
+- The injection can be given either by yourself or a caregiver for patients 12 years and older.
+- The injection can be given by either healthcare provider or caregiver for patients 2 to less than 12 years of age.
+- A doctor, pharmacist or nurse should show you how to prepare and inject TAKHZYRO properly before you use it for the first time. Do not inject yourself or someone else until you have been trained to inject the medicine.
+- Insert the needle into the fatty tissue in the tummy (abdomen), thigh or upper arm.
 
 <div style=\"page-break-after: always\"></div>
+
+- Inject the medicine in a different place each time.
+- Use each vial of TAKHZYRO only once.
 
 ## If you use more TAKHZYRO than you should
 
@@ -3791,9 +3818,9 @@ Tell your doctor, pharmacist or nurse if you take too much TAKHZYRO.
 
 If you miss a dose of TAKHZYRO, inject your dose as soon as possible. The next dose scheduled may need to be adjusted based on the intended dosing frequency to ensure
 
--  at least 10 days between doses for patients on every 2 weeks dosing schedule,
--  at least 17 days between doses for patients on every 3 weeks dosing schedule,
--  at least 24 days between doses for patients on every 4 weeks dosing schedule.
+- at least 10 days between doses for patients on every 2 weeks dosing schedule,
+- at least 17 days between doses for patients on every 3 weeks dosing schedule,
+- at least 24 days between doses for patients on every 4 weeks dosing schedule.
 
 If you are not sure when to inject TAKHZYRO after a missed dose, ask your doctor, pharmacist or nurse.
 
@@ -3811,31 +3838,31 @@ If you have a severe allergic reaction to TAKHZYRO with symptoms such as a rash,
 
 Tell your doctor, pharmacist or nurse if you notice any of the following side effects.
 
-## Very common (may affect more than 1 in 10 people):
+Very common (may affect more than 1 in 10 people):
 
--  Reactions where the injection is given - symptoms include pain, skin redness, bruising, discomfort, swelling, bleeding, itching, hardening of skin, tingling, warmth and rash.
+- Reactions where the injection is given - symptoms include pain, skin redness, bruising, discomfort, swelling, bleeding, itching, hardening of skin, tingling, warmth, rash and hives (urticaria).
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
--  Allergic reactions including itching, discomfort and tingling of the tongue
--  Dizziness, feeling faint
--  Raised skin rash
--  Muscle pain
--  Blood tests showing liver changes
+- Allergic reactions including itching, discomfort and tingling of the tongue
+- Dizziness, feeling faint
+- Raised skin rash
+- Muscle pain
+- Blood tests showing liver changes
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. How to store TAKHZYRO
 
 Keep this medicine out of the sight and reach of children.
 
-<div style=\"page-break-after: always\"></div>
-
 Do not use this medicine after the expiry date which is stated on the label and on the carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2  C-8  C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator (2 ° C - 8 ° C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
 Vials may be stored below 25 °C for a single period of 14 days, but not beyond the expiry date. Do not return TAKHZYRO to refrigerated storage after storage at room temperature.
 
@@ -3847,8 +3874,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What TAKHZYRO contains
 
--  The active substance is lanadelumab. Each vial contains 300 mg of lanadelumab in 2 ml solution.
--  The other ingredients are disodium phosphate dihydrate, citric acid monohydrate, histidine, sodium chloride, polysorbate 80 and water for injections - see section 2 'TAKHZYRO contains sodium'
+- The active substance is lanadelumab. Each vial contains 300 mg of lanadelumab in 2 ml solution.
+- The other ingredients are disodium phosphate dihydrate (E339), citric acid monohydrate (E330), histidine, sodium chloride, polysorbate 80 (E433) and water for injections - see section 2 'TAKHZYRO contains sodium' and 'TAKHZYRO contains polysorbate 80'.
 
 ## What TAKHZYRO looks like and contents of the pack
 
@@ -3860,9 +3887,9 @@ Not all pack sizes may be marketed.
 
 Each pack also contains the following items:
 
--  Empty 3 ml syringe
--  18 gauge blunt tip vial access needle
--  27 gauge x 13 mm pointed tip administration (injection) needle.
+- Empty 3 ml syringe
+- 18 gauge blunt tip vial access needle
+- 27 gauge x 13 mm pointed tip administration (injection) needle.
 
 ## Marketing Authorisation Holder and Manufacturer
 
@@ -3872,9 +3899,11 @@ Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-
 
 ## Manufacturer
 
-Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
+Takeda Pharmaceuticals International AG Ireland Branch Block 2 Miesian Plaza
 
 <div style=\"page-break-after: always\"></div>
+
+50-58 Baggot Street Lower Dublin 2 D02 HW68 Ireland
 
 Shire Pharmaceuticals Ireland Limited Blocks 2 &amp; 3 Miesian Plaza 50-58 Baggot Street Lower Dublin 2 Ireland
 
@@ -3882,9 +3911,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Takeda Belgium NV Tél/Tel: +32 2 464 06 11
-
-medinfoEMEA@takeda.com
+Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
 ## България
 
@@ -3896,7 +3923,7 @@ Takeda Pharmaceuticals Czech Republic s.r.o. Tel: + 420 234 722 722 medinfoEMEA@
 
 ## Danmark
 
-Takeda Pharma A/S Tlf: +45 46 77 10 10 medinfoEMEA@takeda.com
+Takeda Pharma A/S Tlf.: +45 46 77 10 10 medinfoEMEA@takeda.com
 
 ## Deutschland
 
@@ -3908,7 +3935,7 @@ Takeda Pharma OÜ Tel: +372 6177 669 medinfoEMEA@takeda.com
 
 ## Ελλάδα
 
-Τakeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800 medinfoEMEA@takeda.com
+Τ akeda ΕΛΛΑΣ Α . Ε . T ηλ : +30 210 6387800 medinfoEMEA@takeda.com
 
 ## España
 
@@ -3916,7 +3943,7 @@ Takeda Farmacéutica España, S.A. Tel: +34 917 90 42 22 medinfoEMEA@takeda.com
 
 ## France
 
-Takeda France SAS Tél: + 33 1 40 67 33 00 medinfoEMEA@takeda.com
+Takeda France SAS Tél: + 33 1 40 67 33 00
 
 ## Lietuva
 
@@ -3928,7 +3955,7 @@ Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
 ## Magyarország
 
-Takeda Pharma Kft. Tel: +36 1 270 7030 medinfoEMEA@takeda.com
+Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com
 
 ## Malta
 
@@ -3952,49 +3979,29 @@ Takeda Pharma Sp. z o.o. Tel.: +48223062447 medinfoEMEA@takeda.com
 
 ## Portugal
 
-Takeda Farmacêuticos Portugal, Lda. Tel: + 351 21 120 1457 medinfoEMEA@takeda.com
+Takeda Farmacêuticos Portugal, Lda. Tel: + 351 21 120 1457
 
 <div style=\"page-break-after: always\"></div>
 
+medinfoEMEA@takeda.com
+
 ## Hrvatska
 
-## România
-
-Takeda Pharmaceuticals Croatia d.o.o.
-
-Tel: +385 1 377 88 96
-
-medinfoEMEA@takeda.com
-
-Takeda Pharmaceuticals SRL
-
-Tel: +40 21 335 03 91
-
-medinfoEMEA@takeda.com
+Takeda Pharmaceuticals Croatia d.o.o. Tel: +385 1 377 88 96 medinfoEMEA@takeda.com
 
 ## Ireland
 
-Takeda Products Ireland Ltd
-
-Tel: 1800 937 970
+Takeda Products Ireland Ltd Tel: 1800 937 970
 
 medinfoEMEA@takeda.com
 
-## Slovenija
-
-Takeda Pharmaceuticals farmacevtska dru ž ba d.o.o. Tel: + 386 (0) 59 082 480 medinfoEMEA@takeda.com
-
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
 medinfoEMEA@takeda.com
-
-## Slovenská republika
-
-Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com
 
 ## Italia
 
@@ -4004,41 +4011,13 @@ Tel: +39 06 502601
 
 medinfoEMEA@takeda.com
 
-## Suomi/Finland
-
-Takeda Oy
-
-Puh/Tel: 0800 774 051
-
-medinfoEMEA@takeda.com
-
 ## Κύπρος
 
-Proton Medical (Cyprus) Ltd
-
-Τηλ: +357 22866000
-
-admin@protoncy.com
-
-## Sverige
-
-Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
+Proton Medical (Cyprus) Ltd Τηλ: +357 22866000 admin@protoncy.com
 
 ## Latvija
 
-Takeda Latvia SIA
-
-Tel: +371 67840082
-
-medinfoEMEA@takeda.com
-
-## United Kingdom (Northern Ireland)
-
-Takeda UK Ltd
-
-Tel: +44 (0) 3333 000 181
-
-medinfoEMEA@takeda.com
+Takeda Latvia SIA Tel: +371 67840082 medinfoEMEA@takeda.com
 
 ## This leaflet was last revised in
 
@@ -4052,15 +4031,39 @@ Be sure that you read, understand and follow the step-by-step instructions for i
 
 In addition to the vial, each TAKHZYRO pack also contains:
 
--  One empty 3 ml syringe.
+- One empty 3 ml syringe.
 
 <!-- image -->
 
+medinfoEMEA@takeda.com
+
+## România
+
+Takeda Pharmaceuticals SRL Tel: +40 21 335 03 91 medinfoEMEA@takeda.com
+
+## Slovenija
+
+Takeda Pharmaceuticals farmacevtska družba d.o.o. Tel: + 386 (0) 59 082 480
+
+medinfoEMEA@takeda.com
+
+## Slovenská republika
+
+Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com
+
+## Suomi/Finland
+
+Takeda Oy Puh/Tel: 0800 774 051 medinfoEMEA@takeda.com
+
+## Sverige
+
+Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
+
 <div style=\"page-break-after: always\"></div>
 
--  One 18 gauge blunt tip vial access needle. Used to draw medicinal solution from the vial into the syringe.
-- One 27 gauge x 13 mm pointed tip injection
--  needle.
+- One 18 gauge blunt tip vial access needle. Used to draw medicinal solution from the vial into the syringe.
+- ·
+- One 27 gauge x 13 mm pointed tip injection needle.
 
 Used for injection under the skin (subcutaneous).
 
@@ -4074,10 +4077,10 @@ Only use the syringes, blunt-tip vial access needles and pointed-tip injection n
 
 Do not use any syringes, blunt-tip vial access needles and pointed-tip injection needles that appear damaged.
 
-## You will also need:
+You will also need:
 
--  Alcohol wipes
--  A sharps container for used vials, needles and syringes
+- Alcohol wipes
+- A sharps container for used vials, needles and syringes
 
 You can get supplies from your doctor, pharmacist or nurse.
 
@@ -4174,8 +4177,6 @@ Step 4: Select and prepare injection site
 
 <!-- image -->
 
-<!-- image -->
-
 Step 5: Inject TAKHZYRO
 
 <!-- image -->
@@ -4185,9 +4186,9 @@ Step 5: Inject TAKHZYRO
 
 ## Important:
 
--  It is important to use different injection sites to keep skin healthy.
--  The area you choose for injection should be at least 5 cm away from any scars or your belly button (navel). Do not choose an area that is bruised, swollen, or painful.
--  The outer area of the upper arm is not recommended if you are injecting yourself.
+- It is important to use different injection sites to keep skin healthy.
+- The area you choose for injection should be at least 5 cm away from any scars or your belly button (navel). Do not choose an area that is bruised, swollen, or painful.
+- The outer area of the upper arm is not recommended if you are injecting yourself.
 - c) Pull off the needle cap straight from the syringe without touching the needle. Do not pull on the plunger. Do not touch the needle tip or allow it to touch any other surface.
 
 Important: Inject TAKHZYRO within 2 hours of preparing the dosing syringe at room temperature. Alternatively, you can place the dosing syringe in a refrigerator at 2 °C to 8 °C and you must use it within 8 hours.

@@ -1,97 +1,21 @@
 ---
-document_datetime: 2026-06-09 17:06:00
+document_datetime: 2026-07-21 15:54:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ultomiris.html
 document_name: ultomiris.html
 version: success
-processing_time: 0.1991273
-conversion_datetime: 2026-06-10 13:34:05.52007
+processing_time: 0.1899951
+conversion_datetime: 2026-07-28 12:30:14.280546
 docling_version:
-  docling-serve: 1.22.0
-  docling-jobkit: 1.21.0
-  docling: 2.100.0
-  docling-core: 2.80.0
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
   docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [EMA Campaigns](/en/news-events/ema-campaigns)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Ultomiris
-
 # Ultomiris
 
 [RSS](/en/individual-human-medicine.xml/67218)
@@ -117,7 +41,6 @@ Page contents
 - [Product information - with tracked changes](#product-information-with-tracked-changes-80399)
 - [More information on Ultomiris](#more-information-on-ultomiris-895)
 - [More information on Ultomiris](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -232,7 +155,7 @@ English (EN) (144.85 KB - PDF)
 
 [View](/en/documents/overview/ultomiris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-12)
+[Other languages (22)](#file-language-dropdown-408)
 
 български (BG) (173.77 KB - PDF)
 
@@ -378,167 +301,168 @@ English (EN) (1.67 MB - PDF)
 
 Ultomiris : EPAR - Product information
 
-English (EN) (758.75 KB - PDF)
+English (EN) (826.19 KB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/en/documents/product-information/ultomiris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-918)
+[Other languages (24)](#file-language-dropdown-892)
 
-български (BG) (1.21 MB - PDF)
+български (BG) (978.19 KB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/bg/documents/product-information/ultomiris-epar-product-information_bg.pdf)
 
-español (ES) (826.63 KB - PDF)
+español (ES) (739.71 KB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/es/documents/product-information/ultomiris-epar-product-information_es.pdf)
 
-čeština (CS) (1.06 MB - PDF)
+čeština (CS) (1.22 MB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/cs/documents/product-information/ultomiris-epar-product-information_cs.pdf)
 
-dansk (DA) (845.51 KB - PDF)
+dansk (DA) (768.71 KB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/da/documents/product-information/ultomiris-epar-product-information_da.pdf)
 
-Deutsch (DE) (833.83 KB - PDF)
+Deutsch (DE) (1.09 MB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/de/documents/product-information/ultomiris-epar-product-information_de.pdf)
 
-eesti (ET) (762.48 KB - PDF)
+eesti (ET) (1 MB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/et/documents/product-information/ultomiris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (913.67 KB - PDF)
+ελληνικά (EL) (848.38 KB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/el/documents/product-information/ultomiris-epar-product-information_el.pdf)
 
-français (FR) (912.97 KB - PDF)
+français (FR) (1.22 MB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/fr/documents/product-information/ultomiris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (877.67 KB - PDF)
+hrvatski (HR) (1.1 MB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/hr/documents/product-information/ultomiris-epar-product-information_hr.pdf)
 
-italiano (IT) (784.37 KB - PDF)
+italiano (IT) (747.19 KB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/it/documents/product-information/ultomiris-epar-product-information_it.pdf)
 
-latviešu (LV) (846.6 KB - PDF)
+latviešu (LV) (764.95 KB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/lv/documents/product-information/ultomiris-epar-product-information_lv.pdf)
 
-lietuvių (LT) (905.81 KB - PDF)
+lietuvių (LT) (794.8 KB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/lt/documents/product-information/ultomiris-epar-product-information_lt.pdf)
 
-magyar (HU) (942.12 KB - PDF)
+magyar (HU) (810.44 KB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/hu/documents/product-information/ultomiris-epar-product-information_hu.pdf)
 
-Malti (MT) (957.86 KB - PDF)
+Malti (MT) (877.09 KB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/mt/documents/product-information/ultomiris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (878.88 KB - PDF)
+Nederlands (NL) (1.28 MB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/nl/documents/product-information/ultomiris-epar-product-information_nl.pdf)
 
-polski (PL) (922 KB - PDF)
+polski (PL) (773.82 KB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/pl/documents/product-information/ultomiris-epar-product-information_pl.pdf)
 
-português (PT) (806.96 KB - PDF)
+português (PT) (789.05 KB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/pt/documents/product-information/ultomiris-epar-product-information_pt.pdf)
 
-română (RO) (909.54 KB - PDF)
+română (RO) (803.55 KB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/ro/documents/product-information/ultomiris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (936.22 KB - PDF)
+slovenčina (SK) (1.14 MB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/sk/documents/product-information/ultomiris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (871.76 KB - PDF)
+slovenščina (SL) (750.84 KB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/sl/documents/product-information/ultomiris-epar-product-information_sl.pdf)
 
-suomi (FI) (757.59 KB - PDF)
+suomi (FI) (728.28 KB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/fi/documents/product-information/ultomiris-epar-product-information_fi.pdf)
 
-svenska (SV) (688.29 KB - PDF)
+svenska (SV) (980.69 KB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/sv/documents/product-information/ultomiris-epar-product-information_sv.pdf)
 
-Íslenska (IS) (720.62 KB - PDF)
+Íslenska (IS) (708.09 KB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/is/documents/product-information/ultomiris-epar-product-information_is.pdf)
 
-norsk (NO) (731.51 KB - PDF)
+norsk (NO) (704.31 KB - PDF)
 
-**First published:** 10/07/2019 **Last updated:** 22/10/2025
+**First published:** 10/07/2019 **Last updated:** 21/07/2026
 
 [View](/no/documents/product-information/ultomiris-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000271811
+**Latest procedure affecting product information:** VR/0000341147
 
-11/09/2025
+25/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -556,7 +480,7 @@ English (EN) (2.01 MB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ultomiris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-365)
+[Other languages (24)](#file-language-dropdown-86)
 
 български (BG) (1.96 MB - PDF)
 
@@ -704,25 +628,16 @@ norsk (NO) (1.89 MB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Ultomiris
-
-Active substance
-
-ravulizumab
-
-International non-proprietary name (INN) or common name
-
-ravulizumab
-
-Therapeutic area (MeSH)
-
-Hemoglobinuria, Paroxysmal
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AA43
+- **Name of medicine**
+    - Ultomiris
+- **Active substance**
+    - ravulizumab
+- **International non-proprietary name (INN) or common name**
+    - ravulizumab
+- **Therapeutic area (MeSH)**
+    - Hemoglobinuria, Paroxysmal
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AA43
 
 ### Pharmacotherapeutic group
 
@@ -730,7 +645,9 @@ Selective immunosuppressants
 
 ### Therapeutic indication
 
-*Paroxysmal nocturnal haemoglobinuria (PNH)* Ultomiris is indicated in the treatment of adult and paediatric patients with a body weight of 10 kg or above with PNH: - in patients with haemolysis with clinical symptom(s) indicative of high disease activity. - in patients who are clinically stable after having been treated with eculizumab for at least the past 6 months (see section 5.1).
+*Paroxysmal nocturnal haemoglobinuria (PNH)* Ultomiris is indicated in the treatment of adult and paediatric patients with a body weight of 10 kg or above with PNH:
+- in patients with haemolysis with clinical symptom(s) indicative of high disease activity.
+- in patients who are clinically stable after having been treated with eculizumab for at least the past 6 months (see section 5.1).
 
 *Atypical haemolytic uremic syndrome (aHUS)* Ultomiris is indicated in the treatment of patients with a body weight of 10 kg or above with aHUS who are complement inhibitor treatment-naïve or have received eculizumab for at least 3 months and have evidence of response to eculizumab (see section 5.1).
 
@@ -738,33 +655,24 @@ Selective immunosuppressants
 
 *Neuromyelitis Optica Spectrum Disorder (NMOSD)* Ultomiris is indicated in the treatment of adult patients with NMOSD who are anti-aquaporin 4 (AQP4) antibody-positive (see section 5.1).
 
-Ultomiris is indicated in the treatment of adult patients with paroxysmal nocturnal haemoglobinuria (PNH): - in patients with haemolysis with clinical symptom(s) indicative of high disease activity. - in patients who are clinically stable after having been treated with eculizumab for at least the past 6 months.
+Ultomiris is indicated in the treatment of adult patients with paroxysmal nocturnal haemoglobinuria (PNH):
+- in patients with haemolysis with clinical symptom(s) indicative of high disease activity.
+- in patients who are clinically stable after having been treated with eculizumab for at least the past 6 months.
 
 Ultomiris is indicated in the treatment of adult patients with atypical haemolytic uremic syndrome (aHUS) who are complement inhibitor treatment-naïve or have received eculizumab for at least 3 months and have evidence of response to eculizumab.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004954
-
-Marketing authorisation holder
-
-Alexion Europe SAS
-
-103-105 rue Anatole France 92300 Levallois-Perret France
-
-Opinion adopted
-
-26/04/2019
-
-Marketing authorisation issued
-
-02/07/2019
-
-Revision
-
-20
+- **EMA product number**
+    - EMEA/H/C/004954
+- **Marketing authorisation holder**
+    - Alexion Europe SAS 103-105 rue Anatole France  92300 Levallois-Perret  France
+- **Opinion adopted**
+    - 26/04/2019
+- **Marketing authorisation issued**
+    - 02/07/2019
+- **Revision**
+    - 21
 
 ## Assessment history
 
@@ -776,9 +684,9 @@ Collapse section
 
 Ultomiris : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (153.2 KB - PDF)
+English (EN) (147.91 KB - PDF)
 
-**First published:** 19/08/2025 **Last updated:** 22/10/2025
+**First published:** 19/08/2025 **Last updated:** 21/07/2026
 
 [View](/en/documents/procedural-steps-after/ultomiris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -820,7 +728,7 @@ English (EN) (8.78 MB - PDF)
 
 [View](/en/documents/variation-report/ultomiris-h-c-004954-ii-0032-epar-assessment-report-variation_en.pdf)
 
-CHMP post-authorisation summary of positive opinion for Ultomiris  (II-32)
+CHMP post-authorisation summary of positive opinion for Ultomiris (II-32)
 
 Adopted Reference Number: EMA/CHMP/101113/2023
 
@@ -868,7 +776,7 @@ English (EN) (127.93 KB - PDF)
 
 **First published:** 29/04/2022
 
-[View](/en/documents/scientific-conclusion/ultomiris-h-c-psusa-00010787-202106-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/ultomiris-h-c-psusa-00010787-202106-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Ultomiris-H-C-004954-II-0010 : EPAR - Assessment report - Variation
 
@@ -976,7 +884,7 @@ English (EN) (364.74 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/ultomiris-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-990)
+[Other languages (24)](#file-language-dropdown-767)
 
 български (BG) (590.33 KB - DOCX)
 
@@ -1133,19 +1041,15 @@ Ultomiris was withdrawn from the Community register of orphan medicinal products
 - [EMA/PE/0000221296 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000221296)
 - [EMA/PE/0000221604 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000221604)
 - [EMEA-001943-PIP03-20-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001943-pip03-20-m01)
-- [EMEA-001943-PIP02-20-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001943-pip02-20-m02)
+- [EMA/PE/0000229605 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000229605)
 - [EMEA-001943-PIP05-21 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001943-pip05-21)
 - [EMEA-001943-PIP04-20-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001943-pip04-20-m01)
 - [EMEA-001943-PIP06-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001943-pip06-23)
 - [EMEA-001943-PIP07-24 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001943-pip07-24)
 - [Characterization of Participants treated with Ultomiris and Long term safety outcomes: an IPIG registry based study - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000533)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-09/06/2026
+21/07/2026
 
 ## Share this page

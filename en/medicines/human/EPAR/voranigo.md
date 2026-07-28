@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-19 12:25:00
+document_datetime: 2026-07-21 15:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/voranigo.html
 document_name: voranigo.html
 version: success
-processing_time: 0.118162
-conversion_datetime: 2026-05-22 22:32:08.054731
+processing_time: 0.1302184
+conversion_datetime: 2026-07-28 12:29:28.035244
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Voranigo
 
@@ -56,7 +56,7 @@ Expand section
 
 Collapse section
 
-## How is Voranigo used?
+### How is Voranigo used?
 
 The medicine can only be obtained with a prescription. Treatment should be started and supervised by a doctor experienced in the use of cancer medicines.
 
@@ -66,17 +66,17 @@ Voranigo is available as tablets which the patient should take once a day by mou
 
 For more information about using Voranigo, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Voranigo work?
+### How does Voranigo work?
 
 In patients with astrocytoma or oligodendroglioma who have mutations in the genes for the IDH1 and IDH2 protein, these proteins do not work properly, causing the production of high levels of a substance called 2-hydroxyglutarate (2-HG).
 
 2-HG causes changes in the way cells grow and mature, leading to the development of tumours. The active substance in Voranigo, vorasidenib, blocks the activity of the abnormal IDH1 and IDH2 proteins, thereby reducing levels of 2-HG. This allows the cells to grow and mature normally, preventing the tumour from growing.
 
-## What benefits of Voranigo have been shown in studies?
+### What benefits of Voranigo have been shown in studies?
 
 A main study involved 331 patients with grade 2 oligodendroglioma or astrocytoma with an IDH1 or IDH2 mutation and who had undergone surgery at least once to remove the tumour. The results showed that Voranigo was effective at preventing the disease from getting worse. In this study patients who had Voranigo lived for around 28 months without the disease getting worse, while those who had a placebo (a dummy treatment) lived for around 11 months without their disease worsening.
 
-## What are the risks associated with Voranigo?
+### What are the risks associated with Voranigo?
 
 For the full list of side effects and restrictions with Voranigo, see the package leaflet.
 
@@ -84,19 +84,19 @@ The most common side effects with Voranigo (which may affect more than 1 in 10 p
 
 Some side effects can be serious. The most frequent (which may affect up to 1 in 10 people) include raised levels of liver enzymes.
 
-## Why is Voranigo authorised in the EU?
+### Why is Voranigo authorised in the EU?
 
 Voranigo is effective at slowing the worsening of low-grade astrocytoma or oligodendroglioma. The medicine can therefore help patients avoid aggressive treatments, such as chemotherapy or radiotherapy. The main side effects are related to liver problems, but most side effects in the main study were not considered serious. The known side effects are considered manageable and more information about the safety of the medicine will come from future studies.
 
 The European Medicines Agency therefore decided that Voranigo's benefits are greater than its risks and that it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Voranigo?
+### What measures are being taken to ensure the safe and effective use of Voranigo?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Voranigo have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Voranigo are continuously monitored. Suspected side effects reported with Voranigo are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Voranigo
+### Other information about Voranigo
 
 Voranigo received a marketing authorisation valid throughout the EU on 17 September 2025.
 
@@ -110,7 +110,7 @@ English (EN) (95.21 KB - PDF)
 
 [View](/en/documents/overview/voranigo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-374)
+[Other languages (22)](#file-language-dropdown-583)
 
 български (BG) (117.77 KB - PDF)
 
@@ -142,7 +142,7 @@ Deutsch (DE) (97.4 KB - PDF)
 
 [View](/de/documents/overview/voranigo-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (90.8 KB - PDF)
+eesti (ET) (90.8 KB - PDF)
 
 **First published:** 26/09/2025
 
@@ -172,13 +172,13 @@ italiano (IT) (91.98 KB - PDF)
 
 [View](/it/documents/overview/voranigo-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (131.97 KB - PDF)
+latviešu (LV) (131.97 KB - PDF)
 
 **First published:** 26/09/2025
 
 [View](/lv/documents/overview/voranigo-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (114.02 KB - PDF)
+lietuvių (LT) (114.02 KB - PDF)
 
 **First published:** 26/09/2025
 
@@ -232,7 +232,7 @@ slovenščina (SL) (111.84 KB - PDF)
 
 [View](/sl/documents/overview/voranigo-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (91.15 KB - PDF)
+suomi (FI) (91.15 KB - PDF)
 
 **First published:** 26/09/2025
 
@@ -262,7 +262,7 @@ English (EN) (482.55 KB - PDF)
 
 [View](/en/documents/product-information/voranigo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-142)
+[Other languages (24)](#file-language-dropdown-773)
 
 български (BG) (499.39 KB - PDF)
 
@@ -294,7 +294,7 @@ Deutsch (DE) (482.75 KB - PDF)
 
 [View](/de/documents/product-information/voranigo-epar-product-information_de.pdf)
 
-eesti keel (ET) (473.16 KB - PDF)
+eesti (ET) (473.16 KB - PDF)
 
 **First published:** 26/09/2025 **Last updated:** 19/05/2026
 
@@ -306,9 +306,9 @@ eesti keel (ET) (473.16 KB - PDF)
 
 [View](/el/documents/product-information/voranigo-epar-product-information_el.pdf)
 
-français (FR) (496.84 KB - PDF)
+français (FR) (551.97 KB - PDF)
 
-**First published:** 26/09/2025 **Last updated:** 19/05/2026
+**First published:** 26/09/2025 **Last updated:** 21/07/2026
 
 [View](/fr/documents/product-information/voranigo-epar-product-information_fr.pdf)
 
@@ -318,25 +318,19 @@ hrvatski (HR) (669.8 KB - PDF)
 
 [View](/hr/documents/product-information/voranigo-epar-product-information_hr.pdf)
 
-íslenska (IS) (494.99 KB - PDF)
-
-**First published:** 26/09/2025 **Last updated:** 19/05/2026
-
-[View](/is/documents/product-information/voranigo-epar-product-information_is.pdf)
-
 italiano (IT) (537.49 KB - PDF)
 
 **First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/it/documents/product-information/voranigo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (501.25 KB - PDF)
+latviešu (LV) (501.25 KB - PDF)
 
 **First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/lv/documents/product-information/voranigo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (550.6 KB - PDF)
+lietuvių (LT) (550.6 KB - PDF)
 
 **First published:** 26/09/2025 **Last updated:** 19/05/2026
 
@@ -359,12 +353,6 @@ Nederlands (NL) (298.36 KB - PDF)
 **First published:** 26/09/2025 **Last updated:** 19/05/2026
 
 [View](/nl/documents/product-information/voranigo-epar-product-information_nl.pdf)
-
-norsk (NO) (275.11 KB - PDF)
-
-**First published:** 26/09/2025 **Last updated:** 19/05/2026
-
-[View](/no/documents/product-information/voranigo-epar-product-information_no.pdf)
 
 polski (PL) (563.52 KB - PDF)
 
@@ -396,7 +384,7 @@ slovenščina (SL) (565 KB - PDF)
 
 [View](/sl/documents/product-information/voranigo-epar-product-information_sl.pdf)
 
-Suomi (FI) (295.04 KB - PDF)
+suomi (FI) (295.04 KB - PDF)
 
 **First published:** 26/09/2025 **Last updated:** 19/05/2026
 
@@ -408,6 +396,18 @@ svenska (SV) (283.22 KB - PDF)
 
 [View](/sv/documents/product-information/voranigo-epar-product-information_sv.pdf)
 
+Íslenska (IS) (494.99 KB - PDF)
+
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
+
+[View](/is/documents/product-information/voranigo-epar-product-information_is.pdf)
+
+norsk (NO) (275.11 KB - PDF)
+
+**First published:** 26/09/2025 **Last updated:** 19/05/2026
+
+[View](/no/documents/product-information/voranigo-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000316249
 
 10/04/2026
@@ -416,7 +416,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -434,7 +435,7 @@ English (EN) (49.23 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-964)
+[Other languages (24)](#file-language-dropdown-116)
 
 български (BG) (66.96 KB - PDF)
 
@@ -466,7 +467,7 @@ Deutsch (DE) (75.42 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (52.41 KB - PDF)
+eesti (ET) (52.41 KB - PDF)
 
 **First published:** 26/09/2025
 
@@ -490,25 +491,19 @@ hrvatski (HR) (63.17 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (42.96 KB - PDF)
-
-**First published:** 26/09/2025
-
-[View](/is/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (74.26 KB - PDF)
 
 **First published:** 26/09/2025
 
 [View](/it/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (58.94 KB - PDF)
+latviešu (LV) (58.94 KB - PDF)
 
 **First published:** 26/09/2025
 
 [View](/lv/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (60.63 KB - PDF)
+lietuvių (LT) (60.63 KB - PDF)
 
 **First published:** 26/09/2025
 
@@ -531,12 +526,6 @@ Nederlands (NL) (51.12 KB - PDF)
 **First published:** 26/09/2025
 
 [View](/nl/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (52.48 KB - PDF)
-
-**First published:** 26/09/2025
-
-[View](/no/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (52.63 KB - PDF)
 
@@ -568,7 +557,7 @@ slovenščina (SL) (68.23 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (51.36 KB - PDF)
+suomi (FI) (51.36 KB - PDF)
 
 **First published:** 26/09/2025
 
@@ -580,28 +569,31 @@ svenska (SV) (50.76 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (42.96 KB - PDF)
+
+**First published:** 26/09/2025
+
+[View](/is/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (52.48 KB - PDF)
+
+**First published:** 26/09/2025
+
+[View](/no/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Voranigo
-
-Active substance
-
-vorasidenib
-
-International non-proprietary name (INN) or common name
-
-vorasidenib
-
-Therapeutic area (MeSH)
-
-- Oligodendroglioma
-- Astrocytoma
-
-Anatomical therapeutic chemical (ATC) code
-
-L01XM04
+- **Name of medicine**
+    - Voranigo
+- **Active substance**
+    - vorasidenib
+- **International non-proprietary name (INN) or common name**
+    - vorasidenib
+- **Therapeutic area (MeSH)**
+        - Oligodendroglioma
+        - Astrocytoma
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01XM04
 
 ### Pharmacotherapeutic group
 
@@ -613,35 +605,20 @@ Voranigo as monotherapy is indicated for the treatment of predominantly non-enha
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006284
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Les Laboratoires Servier
-
-50 rue Carnot
-
-Opinion adopted
-
-24/07/2025
-
-Marketing authorisation issued
-
-17/09/2025
-
-Revision
-
-2
+- **EMA product number**
+    - EMEA/H/C/006284
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - Les Laboratoires Servier 50 rue Carnot  92284 Suresnes cedex  France
+- **Opinion adopted**
+    - 24/07/2025
+- **Marketing authorisation issued**
+    - 17/09/2025
+- **Revision**
+    - 2
 
 ## Assessment history
 
@@ -649,7 +626,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Voranigo : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -667,7 +644,7 @@ English (EN) (119.74 KB - PDF)
 
 [View](/en/documents/pip-compliance/voranigo-epar-statement-indicating-compliance-agreed-completed-paediatric-investigation-plan_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Voranigo : Orphan maintenance assessment report (initial authorisation)
 
@@ -711,6 +688,6 @@ English (EN) (162.11 KB - PDF)
 
 **This page was last updated on**
 
-19/05/2026
+21/07/2026
 
 ## Share this page

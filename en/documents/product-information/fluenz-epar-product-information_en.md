@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-07-07 15:40:37
-document_pages: 29
+document_datetime: 2026-07-21 08:53:50
+document_pages: 30
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/fluenz-epar-product-information_en.pdf
 document_name: fluenz-epar-product-information_en.pdf
 version: success
-processing_time: 6.4601824
-conversion_datetime: 2026-07-10 22:57:36.345307
+processing_time: 7.9439902
+conversion_datetime: 2026-07-28 13:56:26.612968
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.111.0
-  docling-core: 2.86.0
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
@@ -24,7 +24,7 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Fluenz nasal spray suspension Influenza vaccine (live, nasal)
+Fluenz nasal spray, suspension Influenza vaccine (live, nasal)
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -35,9 +35,9 @@ Reassortant influenza virus* (live attenuated) of the following three strains**:
 | A/Croatia/10136RV/2023 (H3N2)-like strain (A/Perth/722/2024, MEDI 392611)         | 10 7.0±0.5 FFU***   |
 | B/Austria/1359417/2021-like strain (B/Austria/1359417/2021, MEDI 355292)          | 10 7.0±0.5 FFU***   |
 
+* Propagated in fertilised hens' eggs from healthy chicken flocks.
 - ** Produced in VERO cells by reverse genetic technology. This product contains genetically modified organisms (GMOs).
-
-*** Fluorescent Focus Units.
+- *** Fluorescent Focus Units.
 
 This vaccine complies with the WHO recommendation (Northern Hemisphere) and EU decision for the 2025/2026 season.
 
@@ -47,7 +47,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Nasal spray suspension
+Nasal spray, suspension (nasal spray)
 
 Colourless to pale yellow, clear to opalescent suspension with a pH of approximately 7.2. Small white particles may be present.
 
@@ -65,13 +65,13 @@ Fluenz should be used in accordance with official recommendations.
 
 ## Posology
 
-## Children and adolescents from 2 years to &lt;18 years of age
+## Children and adolescents from 2 years to &lt; 18 years of age
 
 The recommended dose is 0.2 ml, administered as 0.1 ml in each nostril.
 
 For children 2 to 8 years of age who have not previously been vaccinated against seasonal influenza, a second dose should be given after an interval of at least 4 weeks.
 
-## Infants and toddlers &lt;2 years of age
+## Infants and toddlers &lt; 2 years of age
 
 Fluenz should not be used in infants and toddlers below 2 years of age because of safety concerns regarding increased rates of hospitalisation and wheezing in this population (see section 4.8).
 
@@ -81,16 +81,22 @@ For nasal use only.
 
 ## Fluenz should under no circumstances be injected .
 
-Fluenz is administered as a divided dose in both nostrils. After administering half of the dose in one nostril, administer the other half of the dose in the other nostril immediately or shortly thereafter. The patient can breathe normally while the vaccine is being administered - there is no need to actively inhale or sniff.
+Fluenz is administered as a divided dose in both nostrils. After administering half of the dose in one nostril, administer the other half of the dose in the other nostril immediately or shortly thereafter. The vaccine recipient can breathe normally while the vaccine is being administered - there is no need to actively inhale or sniff.
 
-For detailed instructions on preparation and administration, see section 6.6.
+Fluenz should be administered by or under supervision of a healthcare professional.
+
+For instructions on the handling of the vaccine before administration, see section 6.6.
+
+Detailed instructions on the preparation and administration of the vaccine are provided in the Instructions for Use.
 
 ## 4.3 Contraindications
 
-- Hypersensitivity to the active substances or, to any of the excipients listed in section 6.1 or to gentamicin (a possible trace residue).
+- Hypersensitivity to the active substances or to any of the excipients listed in section 6.1 or to gentamicin (a possible trace residue).
 - Severe allergic reaction (e.g. anaphylaxis) to eggs or to egg proteins (e.g. ovalbumin).
 - Children and adolescents with clinical immunodeficiency due to conditions or immunosuppressive therapy such as acute and chronic leukaemias, lymphoma, symptomatic HIV infection, cellular immune deficiencies, and high-dose corticosteroids. Fluenz is not contraindicated for use in individuals with asymptomatic HIV infection, or individuals who are receiving topical/inhaled corticosteroids or low-dose systemic corticosteroids, or those receiving corticosteroids as replacement therapy, e.g. for adrenal insufficiency.
 - Children and adolescents younger than 18 years of age receiving salicylate therapy because of the association of Reye's syndrome with salicylates and wild-type influenza infection (see section 4.5).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.4 Special warnings and precautions for use
 
@@ -98,13 +104,11 @@ For detailed instructions on preparation and administration, see section 6.6.
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hypersensitivity and anaphylaxis
 
 As with most vaccines, appropriate medical treatment and supervision should always be readily available to manage an anaphylactic event or serious hypersensitivity event following the administration of Fluenz.
 
-## Concurrent illness and chronic conditions.
+## Concurrent illness and chronic conditions
 
 Fluenz should not be administered to children and adolescents with severe asthma or who are currently wheezing, because these individuals have not been adequately studied in clinical studies (see section 4.8).
 
@@ -126,6 +130,8 @@ Vaccine recipients should be informed that Fluenz is an attenuated live virus va
 
 No data exist regarding the safety of intranasal administration of Fluenz in children with unrepaired craniofacial malformations.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Fluenz must not be administered to children and adolescents receiving salicylate therapy (see section 4.3). Salicylates should not be used in children and adolescents for 4 weeks after vaccination unless medically indicated, as Reye's syndrome has been reported following the use of salicylates during wild-type influenza infection.
@@ -133,8 +139,6 @@ Fluenz must not be administered to children and adolescents receiving salicylate
 Fluenz can be administered concomitantly with the live attenuated vaccines: measles, mumps, rubella, varicella, and orally-administered poliovirus.
 
 The co-administration of Fluenz with inactivated vaccines has not been studied.
-
-<div style=\"page-break-after: always\"></div>
 
 The concurrent use of Fluenz with antiviral agents that are active against influenza A and/or B viruses has not been evaluated. However, based upon the potential for influenza antiviral agents to reduce the effectiveness of Fluenz, it is recommended not to administer the vaccine until 48 hours after the cessation of influenza antiviral therapy. Administration of influenza antiviral agents within two weeks of vaccination may affect the response of the vaccine.
 
@@ -152,7 +156,7 @@ While animal studies do not indicate direct or indirect harmful effects with res
 
 ## Breast-feeding
 
-Limited available evidence suggests that Fluenz is not excreted in breastmilk. However, because there are limited data to assess the effects on the breast-fed infant and as some viruses are excreted in human milk, Fluenz should not be used during breast-feeding.
+Limited available evidence suggests that Fluenz is not excreted in human milk. However, because there are limited data to assess the effects on the breast-fed infant and as some viruses are excreted in human milk, Fluenz should not be used during breast-feeding.
 
 ## Fertility
 
@@ -166,17 +170,13 @@ Fluenz has no or negligible influence on the ability to drive and use machines.
 
 ## Summary of the safety profile
 
-Safety data regarding use of Fluenz are based on data from Fluenz clinical studies in over 29 000 children and adolescents 2 to 17 years of age, Fluenz post-authorisation safety studies in over 84 000 children and adolescents 2 to 17 years of age, and data from influenza vaccine (live attenuated, nasal) tetravalent clinical studies in over 2 000 children and adolescents 2 to 17 years of age. Additional experience has occurred with marketed use of Fluenz and/or influenza vaccine (live attenuated, nasal) tetravalent.
-
-In clinical studies, the safety profile of Fluenz and influenza vaccine (live attenuated, nasal) tetravalent were similar.
-
-The most common adverse reaction observed in clinical studies was nasal congestion/rhinorrhoea.
+The most common adverse reaction is nasal congestion/rhinorrhoea (56.7%).
 
 <div style=\"page-break-after: always\"></div>
 
 ## Tabulated list of adverse reactions
 
-Adverse reaction frequencies are organised by MedDRA System Organ Class (SOC). Within each SOC, adverse reactions are arranged by decreasing frequency and then by decreasing seriousness. Frequencies of occurance of adverse reactions are defined as: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000) and not known (cannot be estimated from available data).
+The following adverse reactions have been reported with influenza vaccines (live, nasal) trivalent and tetravalent during clinical studies and post-marketing experience. Adverse reactions are listed by MedDRA System Organ Class (SOC). Within each SOC, adverse reactions are presented by decreasing frequency. Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness. Frequencies of occurrence of adverse reactions are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000) and not known (cannot be estimated from available data).
 
 Table 1 Adverse reactions
 
@@ -192,9 +192,9 @@ Table 1 Adverse reactions
 | Respiratory, thoracic and mediastinal disorders      | Epistaxis                                                                    | Uncommon    |
 | Skin and subcutaneous tissue disorders               | Rash                                                                         | Uncommon    |
 | Musculoskeletal and connective tissue disorders      | Myalgia                                                                      | Common      |
+| Congenital, familial, and genetic disorders          | Exacerbation of symptoms of Leigh syndrome (mitochondrial encephalomyopathy) | Not known a |
 | General disorders and administration site conditions | Malaise                                                                      | Very common |
 | General disorders and administration site conditions | Pyrexia                                                                      | Common      |
-| Congenital, familial, and genetic disorders          | Exacerbation of symptoms of Leigh syndrome (mitochondrial encephalomyopathy) | Not known a |
 
 ## Paediatric population
 
@@ -232,11 +232,11 @@ Pharmacotherapeutic group: Vaccines, influenza vaccines, ATC code: J07BB03
 
 ## Mechanism of action
 
-Fluenz is a trivalent vaccine that contains three cold-adapted (ca) ; temperature-sensitive (ts) ; and attenuated (att) influenza virus strains, an A/(H1N1) strain, an A/(H3N2) strain, and a B strain from the Victoria lineage. After intranasal administration, Fluenz replicates in the nasopharynx and induces immune responses against the three influenza strains contained in the vaccine.
+Fluenz is a trivalent vaccine that contains three cold-adapted (ca) ; temperature-sensitive (ts) ; and attenuated (att) influenza virus strains, an A/(H1N1) strain, an A/(H3N2) strain, and a B strain from the Victoria lineage. After intranasal administration, the live attenuated influenza virus strains in Fluenz replicate in the nasopharynx and induce immune responses against the three influenza strains contained in the vaccine.
 
 ## Clinical efficacy
 
-Fluenz's efficacy data in the paediatric population consist of 9 controlled studies comprising over 20 000 infants and toddlers, children and adolescents, conducted during 7 influenza seasons. Four placebo-controlled studies included second season revaccination. Fluenz has demonstrated superiority in 3 active-controlled studies with injectable influenza vaccine. See Table 2 and 3 for a summary of efficacy results in the paediatric population.
+Fluenz efficacy data in the paediatric population consist of 9 controlled studies comprising over 20 000 infants and toddlers, children and adolescents, conducted during 7 influenza seasons. Four placebo-controlled studies included second season revaccination. Fluenz has demonstrated superiority in 3 active-controlled studies with injectable influenza vaccine. See Table 2 and 3 for a summary of efficacy results in the paediatric population.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -285,25 +285,25 @@ Sucrose Dipotassium phosphate Potassium dihydrogen phosphate Gelatin Arginine hy
 
 In the absence of compatibility studies, this vaccine must not be mixed with other medicinal products.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.3 Shelf life
 
 15 weeks
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C).
+Store and transport refrigerated (2 °C - 8 °C).
 
 Do not freeze.
 
 Keep the nasal applicator in the outer carton in order to protect from light.
 
-Before use, the vaccine may be taken out of the refrigerator once for a maximum period of 12 hours at a temperature not above 25°C. Stability data indicate that the vaccine components are stable for 12 hours when stored at temperatures from 8°C to 25°C. At the end of this period, Fluenz should be used immediately or discarded.
+Before use, the vaccine may be taken out of the refrigerator once for a maximum period of 12 hours at a temperature not above 25 °C. Stability data indicate that the vaccine components are stable for 12 hours when stored at temperatures from 8 °C to 25 °C. At the end of this period, Fluenz should be used immediately or discarded.
 
 ## 6.5 Nature and contents of container
 
-Fluenz is supplied as a nasal spray suspension (0.2 ml) in a single-use nasal applicator (Type 1 glass), with nozzle (polypropylene with polyethylene transfer valve), nozzle tip-protector cap (synthetic rubber), plunger rod, plunger-stopper (butyl rubber) and a dose-divider clip.
+Fluenz is supplied as a nasal spray, suspension (0.2 ml) in a single-use nasal applicator (Type 1 glass), with nozzle (polypropylene with polyethylene transfer valve), nozzle tip-protector cap (synthetic rubber), plunger rod, plunger-stopper (butyl rubber) and a dose-divider clip.
 
 Pack sizes of 1 or 10 nasal applicators.
 
@@ -311,51 +311,24 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-## Administration
+## Handling
 
 Fluenz is for single nasal use only.
 
 - Do not use with a needle. Do not inject.
-- Do not use Fluenz if the expiry date has passed or the sprayer appears damaged, for example, if the plunger is loose or displaced from the sprayer or if there are any signs of leakage.
-- Check the appearance of the vaccine before administration. The suspension should be colourless to pale yellow, clear to opalescent. Small white particles may be present.
-- Fluenz is administered as a divided dose in both nostrils.
-- After administering half of the dose in one nostril, administer the other half of the dose in the other nostril immediately or shortly thereafter.
-- The patient can breathe normally while the vaccine is being administered - there is no need to actively inhale or sniff.
-- Refer to the Fluenz administration diagram (Figure 1) for step-by-step administration instructions.
+- Do not use Fluenz if the expiry date has passed or the spray container appears damaged, for example, if the plunger is loose or displaced from the spray container or if there are any signs of leakage.
+- Check the appearance of the vaccine before administration. The suspension should be colourless to pale yellow, clear to opalescent. Do not use the vaccine if the liquid contents of the spray container appear discoloured. Small white particles may be present.
+- Do not prime or attempt to remove bubbles from the spray container.
 
 <!-- image -->
 
-## Figure 1: Fluenz Administration
+Detailed instructions for the preparation and administration of Fluenz using the spray container are provided in the Instructions for Use.
 
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-Check expiry date Product must not be used after date on applicator label.
-
-<!-- image -->
-
-Depress the plunger With a single motion, depress plunger as rapidly as possible until the dose-divider clip prevents you from going further.
-
-<!-- image -->
-
-Prepare the applicator Remove nozzle tip protector. Do not remove dose-divider clip at the other end of the applicator.
-
-<!-- image -->
-
-Remove dose-divider clip For administration in the other nostril, pinch and remove the dose-divider clip from plunger.
-
-Position the applicator With the patient in an upright position, place the tip just inside the nostril to ensure Fluenz is delivered into the nose.
-
-<!-- image -->
-
-Spray in other nostril Place the tip just inside the other nostril and with a single motion, depress plunger as rapidly as possible to deliver remaining vaccine.
-
-<!-- image -->
+## Disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements for medical waste.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -377,26 +350,26 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCES AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCES AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturer of the biological active substances
 
 MedImmune, UK Limited Plot 6, Renaissance Way Boulevard Industry Park Speke Liverpool L24 9JW United Kingdom
 
-Name and address of the manufacturers responsible for batch release
+Name and address of the manufacturer responsible for batch release
 
-AstraZeneca Nijmegen B.V., Lagelandseweg 78 Nijmegen, 6545CG Netherlands
+AstraZeneca Nijmegen B.V. Lagelandseweg 78 Nijmegen, 6545CG Netherlands
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
-Medicinal products subject to medical prescription.
+Medicinal product subject to medical prescription.
 
 ## · Official batch release
 
@@ -437,7 +410,7 @@ An updated RMP should be submitted:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Fluenz nasal spray suspension
+Fluenz nasal spray, suspension
 
 Influenza vaccine (live, nasal) 2025/2026 season
 
@@ -474,11 +447,11 @@ This vaccine complies with the WHO recommendations (Northern Hemisphere) and EU 
 
 ## 3. LIST OF EXCIPIENTS
 
-Contains also: sucrose, dipotassium phosphate, potassium dihydrogen phosphate, gelatin , arginine hydrochloride, monosodium glutamate monohydrate, water for injections. See leaflet for further information.
+Contains also: sucrose, dipotassium phosphate, potassium dihydrogen phosphate, gelatin, arginine hydrochloride, monosodium glutamate monohydrate, water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Nasal spray suspension
+## Nasal spray, suspension
 
 1 single-use nasal applicator (0.2 ml)
 
@@ -490,13 +463,15 @@ For nasal use only. Do not inject.
 
 Read the package leaflet before use.
 
+Open here
+
 <div style=\"page-break-after: always\"></div>
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
@@ -504,7 +479,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator.
+Store and transport refrigerated.
 
 Do not freeze.
 
@@ -514,30 +489,30 @@ Keep the nasal applicator in the outer carton to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-AstraZeneca AB Sweden
-
 SE-151 85 Södertälje
+
+AstraZeneca AB Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/24/1816/001 1 nasal applicator. EU/1/24/1816/002  10 nasal applicators.
+EU/1/24/1816/001 1 nasal applicator. EU/1/24/1816/002 10 nasal applicators.
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
-16. INFORMATION IN BRAILLE
 
 <div style=\"page-break-after: always\"></div>
 
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
 Justification for not including Braille accepted.
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
@@ -552,7 +527,7 @@ PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Fluenz nasal spray suspension Influenza vaccine 2025/2026 season
+Fluenz nasal spray, suspension Influenza vaccine 2025/2026 season
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -582,11 +557,11 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## Fluenz nasal spray suspension
+## Fluenz nasal spray, suspension
 
 Influenza vaccine (live, nasal)
 
-## Read all of this leaflet carefully before the vaccine is given because it contains important information for you or your child.
+## Read all of this leaflet carefully before you use this vaccine because it contains important information for you or your child.
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your doctor, nurse or pharmacist.
@@ -596,8 +571,8 @@ Influenza vaccine (live, nasal)
 ## What is in this leaflet:
 
 1. What Fluenz is and what it is used for
-2. What you need to know before you are given Fluenz
-3. How Fluenz is given
+2. What you need to know before you use Fluenz
+3. How to use Fluenz
 4. Possible side effects
 5. How to store Fluenz
 6. Contents of the pack and other information
@@ -612,15 +587,15 @@ When a person is given the vaccine, the immune system (the body's natural defenc
 
 Fluenz vaccine viruses are grown in chicken eggs. Each year the vaccine targets three strains of influenza, following the annual recommendations by the World Health Organisation.
 
-## 2. What you need to know before you are given Fluenz
+## 2. What you need to know before you use Fluenz
 
-## You will not be given Fluenz:
+## Do not use Fluenz if the vaccine recipient:
 
-- if you are allergic to the active ingredients, gentamicin (trace residue from the manufacturing process), or any of the other ingredients of this vaccine listed in section 6.
-- if you have ever had a severe allergic reaction to eggs or egg proteins. For signs of allergic reactions, see section 4.
-- if you have a blood disorder or a cancer that affects the immune system .
-- if you have been told by your doctor that you have a weakened immune system as a result of a disease, medicine or other treatment (such as acute and chronic leukaemias, lymphoma, symptomatic HIV infection, cellular immune deficiencies, and high-dose corticosteroids).
-- if you are already taking acetylsalicylic acid (a substance present in many medicines used to relieve pain and lower fever). This is because of the risk of a very rare but serious disease ( Reye's syndrome ) .
+- is allergic to the active ingredients, gentamicin (trace residue from the manufacturing process), or any of the other ingredients of this vaccine listed in section 6.
+- has ever had a severe allergic reaction to eggs or egg proteins. For signs of allergic reactions, see section 4.
+- has a blood disorder or a cancer that affects the immune system .
+- has been told by his or her doctor that he or she has a weakened immune system as a result of a disease, medicine or other treatment (such as acute and chronic leukaemias, lymphoma, symptomatic HIV infection, cellular immune deficiencies, and high-dose corticosteroids).
+- is already taking acetylsalicylic acid (a substance present in many medicines used to relieve pain and lower fever). This is because of the risk of a very rare but serious disease ( Reye's syndrome ) .
 
 If any of these apply, tell your doctor, nurse or pharmacist .
 
@@ -628,15 +603,15 @@ If any of these apply, tell your doctor, nurse or pharmacist .
 
 ## Warnings and precautions
 
-Your doctor or nurse will make sure that appropriate medical treatment and supervision is readily available in case of a rare anaphylactic reaction (a very severe allergic reaction with symptoms such as difficulty in breathing, dizziness, a weak and rapid pulse and skin rash) following the administration.
+Your doctor, nurse or pharmacist will make sure that appropriate medical treatment and supervision is readily available in case of a rare anaphylactic reaction (a very severe allergic reaction with symptoms such as difficulty in breathing, dizziness, a weak and rapid pulse and skin rash) following the administration.
 
-## Talk to your doctor, nurse or pharmacist before vaccination:
+## Talk to your doctor, nurse or pharmacist before vaccination if the vaccine recipient:
 
-- if you have severe asthma or are currently wheezing.
-- if you have a severe acute illness associated with fever or infection, or if you have nasal blockage. Your doctor may decide to delay your vaccination until your fever or nasal blockage is gone.
-- if you have ever fainted after a previous vaccination. Fainting can occur after this vaccine is given as a nasal spray.
-- if you are in close contact with someone with a severely weakened immune system (for example, a bone marrow transplant patient needing isolation).
-- if you have any birth defects that affect the bones and tissues of the skull and face, which have not undergone surgical correction.
+- has severe asthma or are currently wheezing.
+- has a severe acute illness associated with fever or infection, or if he or she has nasal blockage. The doctor may decide to delay his or her vaccination until the fever or nasal blockage is gone.
+- has ever fainted after a previous vaccination. Fainting can occur after this vaccine is given as a nasal spray.
+- is in close contact with someone with a severely weakened immune system (for example, a bone marrow transplant patient needing isolation).
+- has any birth defects that affect the bones and tissues of the skull and face, which have not undergone surgical correction.
 
 If any of these apply, tell your doctor, nurse or pharmacist before vaccination . He or she will decide if Fluenz is suitable for you.
 
@@ -661,19 +636,23 @@ Your doctor, nurse or pharmacist will decide if Fluenz can be given at the same 
 
 - Fluenz has no or negligible influence on the ability to drive and use machines.
 
-## 3. How Fluenz is given
+## 3. How to use Fluenz
+
+Fluenz should be administered by or under supervision of a healthcare professional.
 
 Fluenz must only be used as a nasal spray.
 
 ## Fluenz must not be injected.
 
-Fluenz will be given as a spray in each nostril. You can breathe normally while you are given Fluenz. You do not need to actively inhale or sniff.
+Fluenz will be given as a spray in each nostril. The vaccine recipient can breathe normally while receiving Fluenz. There is no need to actively inhale or sniff.
+
+<div style=\"page-break-after: always\"></div>
+
+Detailed instructions on the preparation and administration of the vaccine are provided in the Instructions for Use.
 
 ## Dose
 
 The recommended dose for children and adolescents is 0.2 ml Fluenz, administered as 0.1 ml in each nostril. Children 2 to 8 years of age who have not previously had an influenza vaccine will receive a second, follow-up dose after an interval of at least 4 weeks. Follow your doctor, nurse or pharmacist's instructions about if and when your child should return for the second dose.
-
-<div style=\"page-break-after: always\"></div>
 
 If you have any further questions on this vaccine, ask your doctor, nurse or pharmacist.
 
@@ -688,6 +667,11 @@ Ask your doctor, nurse or pharmacist if you want more information about possible
 Very rare (may affect up to 1 in 10 000 people)
 
 - severe allergic reaction: signs of a severe allergic reaction may include shortness of breath and swelling of the face or tongue.
+
+Not known (frequency cannot be estimated from the available data)
+
+- serious nerve inflammation, which may cause paralysis and difficulty breathing (Guillain-Barré syndrome [GBS])
+- progressive loss of mental and movement abilities (psychomotor regression) (Leigh syndrome)
 
 Tell your doctor straight away or seek urgent medical care if you experience any of the effects above.
 
@@ -715,23 +699,23 @@ Not known (frequency cannot be estimated from the available data)
 
 - fainting (syncope)
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, nurse or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects talk to your doctor, nurse or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Fluenz
 
 Keep this vaccine out of the sight and reach of children.
 
-Do not use this vaccine after the expiry date which is stated on the applicator label and the carton after the letters EXP.
+Do not use this vaccine after the expiry date which is stated on the applicator label and the carton after EXP.
 
-Store in a refrigerator (2°C - 8°C). Do not freeze.
-
-<div style=\"page-break-after: always\"></div>
+Store and transport refrigerated (2 °C - 8 °C). Do not freeze.
 
 Keep the nasal applicator in the outer carton in order to protect from light.
 
-Before use, the vaccine may be taken out of the refrigerator once for a maximum period of 12 hours at a temperature not above 25°C. If the vaccine has not been used after this 12 hour period, it should be discarded.
+Before use, the vaccine may be taken out of the refrigerator once for a maximum period of 12 hours at a temperature not above 25 °C. If the vaccine has not been used after this 12 hour period, it should be discarded.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -743,25 +727,10 @@ The active substances are:
 
 Reassortant influenza virus* (live attenuated) of the following three strains**:
 
-A/Victoria/4897/2022 (H1N1)pdm09-like strain
-
-(A/Norway/31694/2022, MEDI 369815)
-
-10 7.0±0.5  FFU***
-
-A/Croatia/10136RV/2023 (H3N2)-like strain
-
-(A/Perth/722/2024, MEDI 392611)
-
-10 7.0±0.5  FFU***
-
-B/Austria/1359417/2021-like strain
-
-(B/Austria/1359417/2021, MEDI 355292)
-
-10 7.0±0.5  FFU***
-
-..................................................................................................................per 0.2 ml dose
+| A/Victoria/4897/2022 (H1N1)pdm09-like strain (A/Norway/31694/2022, MEDI 369815)   | 10 7.0±0.5 FFU***   |
+|-----------------------------------------------------------------------------------|---------------------|
+| A/Croatia/10136RV/2023 (H3N2)-like strain (A/Perth/722/2024, MEDI 392611)         | 10 7.0±0.5 FFU***   |
+| B/Austria/1359417/2021-like strain (B/Austria/1359417/2021, MEDI 355292)          | 10 7.0±0.5 FFU***   |
 
 * Propagated in fertilised hens' eggs from healthy chicken flocks.
 - ** Produced in VERO cells by reverse genetic technology. This product contains genetically modified organisms (GMOs).
@@ -771,9 +740,11 @@ This vaccine complies with the WHO (World Health Organisation) recommendations (
 
 The vaccine may contain traces of the following substances: egg proteins (e.g. ovalbumin) and gentamicin. The other ingredients are sucrose, dipotassium phosphate, potassium dihydrogen phosphate, gelatin, arginine hydrochloride, monosodium glutamate monohydrate and water for injections.
 
+<div style=\"page-break-after: always\"></div>
+
 ## What Fluenz looks like and contents of the pack
 
-This vaccine is presented as a nasal spray suspension (0.2 ml) in a single-use nasal applicator (Type 1 glass). Pack size of 1 and 10 nasal applicators. Not all pack sizes may be available in your country.
+This vaccine is presented as a nasal spray, suspension (0.2 ml) in a single-use nasal applicator (Type 1 glass). Pack size of 1 and 10 nasal applicators. Not all pack sizes may be available in your country.
 
 The suspension is colourless to pale yellow, clear to slightly cloudy. Small white particles may be present.
 
@@ -781,19 +752,15 @@ The suspension is colourless to pale yellow, clear to slightly cloudy. Small whi
 
 AstraZeneca AB SE-151 85 Södertälje Sweden
 
-<div style=\"page-break-after: always\"></div>
-
 ## Manufacturer
 
-AstraZeneca Nijmegen B.V., Lagelandseweg 78 Nijmegen, 6545CG Netherlands
+AstraZeneca Nijmegen B.V. Lagelandseweg 78 Nijmegen, 6545CG Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-AstraZeneca S.A./N.V.
-
-Tel: +32 2 370 48 11
+AstraZeneca S.A./N.V. Tél/Tel: +32 2 370 48 11
 
 ## България
 
@@ -809,7 +776,9 @@ AstraZeneca A/S Tlf.: +45 43 66 64 62
 
 ## Deutschland
 
-AstraZeneca GmbH Tel: +49 40 809034100
+AstraZeneca GmbH
+
+Tel: +49 40 809034100
 
 ## Eesti
 
@@ -823,25 +792,9 @@ AstraZeneca A.E. Τηλ: +30 210 6871500
 
 ## España
 
-AstraZeneca Farmacéutica Spain, S.A. Tel: +34 91 301 91 00
+AstraZeneca Farmacéutica Spain, S.A.
 
-## France
-
-AstraZeneca Tél: +33 1 41 29 40 00
-
-## Hrvatska
-
-AstraZeneca d.o.o. Tel: +385 1 4628 000
-
-## Ireland
-
-AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
-
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
+Tel: +34 91 301 91 00
 
 ## Lietuva
 
@@ -861,7 +814,9 @@ Associated Drug Co. Ltd Tel: +356 2277 8000
 
 ## Nederland
 
-AstraZeneca BV Tel: +31 85 808 9900
+AstraZeneca BV
+
+Tel: +31 85 808 9900
 
 ## Norge
 
@@ -869,23 +824,57 @@ AstraZeneca AS Tlf: +47 21 00 64 00
 
 ## Österreich
 
-AstraZeneca Österreich GmbH Tel: +43 1 711 31 0
+AstraZeneca Österreich GmbH
+
+Tel: +43 1 711 31 0
 
 ## Polska
 
-AstraZeneca Pharma Poland Sp. z o.o. Tel.: +48 22 245 73 00
+AstraZeneca Pharma Poland Sp. z o.o.
+
+Tel.: +48 22 245 73 00
+
+## France
+
+AstraZeneca
+
+Tél: +33 1 41 29 40 00
 
 ## Portugal
 
-AstraZeneca Produtos Farmacêuticos, Lda. Tel: +351 21 434 61 00
+AstraZeneca Produtos Farmacêuticos, Lda.
+
+Tel: +351 21 434 61 00
+
+## Hrvatska
+
+AstraZeneca d.o.o.
+
+Tel: +385 1 4628 000
 
 ## România
 
-AstraZeneca Pharma SRL Tel: +40 21 317 60 41
+AstraZeneca Pharma SRL
+
+Tel: +40 21 317 60 41
+
+## Ireland
+
+AstraZeneca Pharmaceuticals (Ireland) DAC
+
+Tel: +353 1609 7100
 
 ## Slovenija
 
-AstraZeneca UK Limited Tel: +386 1 51 35 600
+AstraZeneca UK Limited
+
+Tel: +386 1 51 35 600
+
+## Ísland
+
+Vistor
+
+Sími: +354 535 7000
 
 ## Slovenská republika
 
@@ -893,48 +882,11 @@ AstraZeneca AB, o.z.
 
 Tel: +421 2 5737 7777
 
-<div style=\"page-break-after: always\"></div>
-
 ## Italia
 
 AstraZeneca S.p.A.
 
 Tel: +39 02 00704500
-
-## Κύπρος
-
-Αλέκτωρ Φαρμακευτική Λτδ Τηλ: +357 22490305
-
-## Latvija
-
-SIA AstraZeneca Latvija
-
-Tel: +371 67377100
-
-## This leaflet was last revised in.
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-------------------------------------------------------------------------------------------------------------------------
-
-## Instructions for healthcare professionals
-
-The following information is intended for healthcare professionals only:
-
-## Fluenz is for single nasal use only.
-
-- Do not use with a needle. Do not inject.
-- Do not use Fluenz if the expiry date has passed or the sprayer appears damaged, for example, if the plunger is loose or displaced from the nasal applicator or if there are any signs of leakage.
-- Check the appearance of the vaccine before administration. The suspension should be colourless to pale yellow, clear to opalescent. Small white particles may be present.
-- Fluenz is administered as a divided dose in both nostrils as described below (see section 3) .
-- After administering half of the dose in one nostril, administer the other half of the dose in the other nostril immediately or shortly thereafter.
-- The patient can breathe normally while the vaccine is being administered - there is no need to actively inhale or sniff.
-
-<!-- image -->
-
-<!-- image -->
 
 ## Suomi/Finland
 
@@ -942,58 +894,202 @@ AstraZeneca Oy
 
 Puh/Tel: +358 10 23 010
 
+## Κύπρος
+
+Αλέκτωρ Φαρμακευτική Λτδ
+
+Τηλ: +357 22490305
+
 ## Sverige
 
 AstraZeneca AB
 
 Tel: +46 8 553 26 000
 
+## Latvija
+
+SIA AstraZeneca Latvija
+
+Tel: +371 67377100
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+------------------------------------------------------------------------------------------------------------------------
+
+<div style=\"page-break-after: always\"></div>
+
+## INSTRUCTIONS FOR USE
+
+## Fluenz nasal spray, suspension
+
+Influenza vaccine (live, nasal)
+
+Fluenz should be administered by or under supervision of a healthcare professional.
+
+Read carefully this Instructions for Use before using Fluenz. Even if you have previously used Fluenz, there may be new information.
+
+## Each Fluenz nasal spray contains a full dose
+
+Full dose = 2 Sprays
+
+1 spray for each nostril.
+
+IMPORTANT:
+
+<!-- image -->
+
+DO NOT remove the dose divider clip until Spray 2 (Step 7) .
+
+## Important information you need to know before using Fluenz
+
+- DO NOT use Fluenz if:
+- -It has been frozen.
+- -It has been dropped and/or damaged.
+- -The carton has been opened, damaged, or appears tampered with.
+- -The expiry date (EXP) has passed.
+
+If any of the above happens, follow Step 11 .
+
+- DO NOT use Fluenz in the eyes, mouth, or on the skin.
+- DO NOT share Fluenz with anyone or reuse the nasal spray.
+- DO NOT inject Fluenz.
+
+## Storing Fluenz
+
+- Keep Fluenz and all medicines out of the sight and reach of children.
+- Store and transport Fluenz refrigerated (2 °C - 8 °C).
+- Keep Fluenz in its carton in order to protect from light.
+- Fluenz may be kept at a temperature not above 25 °C in its carton for a maximum of 12 hours. If the vaccine has not been used after this 12 hour period, it should be discarded.
+- DO NOT freeze Fluenz.
+- DO NOT expose to temperature greater than 25 °C.
+
+<div style=\"page-break-after: always\"></div>
+
+## Fluenz nasal spray
+
+<!-- image -->
+
+## Prepare to use Fluenz
+
+Step 1
+
+<!-- image -->
+
+Step 2
+
+<!-- image -->
+
+Remove the Fluenz carton from the refrigerator.
+
+Open the carton and remove the Fluenz nasal spray by holding onto the body of the nasal spray.
+
+- DO NOT use Fluenz if the expiry date (EXP) has passed.
+- DO NOT use if the carton has been opened, damaged, or appears tampered with.
+- DO NOT hold the nasal spray by any other components.
+
+Check the Fluenz nasal spray. The liquid should be clear and colourless to slightly yellow.
+
+- DO NOT use if the liquid appears discoloured.
+- DO NOT attempt to remove bubbles from the nasal spray.
+- DO NOT use Fluenz if the expiry date (EXP) on the label has passed.
+- DO NOT use if the nasal spray appears damaged.
+
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-Check expiry date Product must not be used after date on applicator label.
+Step 3
 
 <!-- image -->
 
-Depress the plunger With a single motion, depress plunger as rapidly as possible until the dose-divider clip prevents you from going further.
-
-Prepare the applicator Remove nozzle tip protector. Do not remove dose-divider clip at the other end of the applicator.
+Step 4
 
 <!-- image -->
 
-Remove dose-divider clip For administration in the other nostril, pinch and remove the dose-divider clip from plunger.
+Step 5
 
 <!-- image -->
 
-See section 5 for advice on storage and disposal.
+Step 6
 
 <!-- image -->
 
-Position the applicator With the patient in an upright position, place the tip just inside the nostril to ensure Fluenz is delivered into the nose.
+## Spray 1
 
-<!-- image -->
+Hold on to the body of the nasal spray and pull off the grey cap.
 
-Spray in other nostril Place the tip just inside the other nostril and with a single motion, depress plunger as rapidly as possible to deliver remaining vaccine.
+- DO NOT remove the dose divider clip until Step 7 .
+- DO NOT push or pull the plunger.
+- DO NOT prime or remove bubbles from the nasal spray.
+- DO NOT insert the nasal spray into nostril before removing the cap.
+
+Keeping head in upright position, place just the tip of the nasal spray inside one nostril. The tip of the nasal spray does not need to be inserted far into the nose.
+
+- DO NOT insert the entire white tip inside the nostril.
+
+Administer Spray 1 by pushing the plunger as quickly as possible until it stops at the dose divider clip.
+
+- DO NOT remove the nasal spray until the plunger has stopped.
+- DO NOT remove the dose divider clip until Step 7 .
+- The vaccine recipient can breathe normally. There is no need to inhale or sniff.
+- It is normal for the vaccine recipient to feel a slight tickle or experience some dripping or sneezing.
+
+Remove the nasal spray from the first nostril.
+
+- Wipe away any liquid that drips from the nose with a tissue.
+
+| IMPORTANT:   | Continue to Spray 2 (Step 7).   |
+|--------------|---------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX IV
+<!-- image -->
 
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+Step 7
 
-<div style=\"page-break-after: always\"></div>
+<!-- image -->
 
-## Scientific conclusions
+Step 8
 
-Taking into account the PRAC Assessment Report on the PSUR(s) for influenza vaccine (live, nasal), the scientific conclusions of PRAC are as follows:
+<!-- image -->
 
-In view of available data on risk of syncope from the literature and spontaneous reports, including in some cases a close temporal relationship with no alternative explanations, and in view of a plausible mechanism of action, the PRAC considers a causal relationship between influenza vaccine (live, nasal) and syncope is at least a reasonable possibility. The PRAC concluded that the product information of products containing influenza vaccine (live, nasal) should be amended accordingly.
+Step 9
 
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+<!-- image -->
 
-## Grounds for the variation to the terms of the marketing authorisation(s)
+Step 10
 
-On the basis of the scientific conclusions for influenza vaccine (live, nasal) the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing influenza vaccine (live, nasal) is unchanged subject to the proposed changes to the product information.
+<!-- image -->
 
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.
+## Spray 2
+
+Holding onto the body of the nasal spray, pinch and remove the dose divider clip from plunger.
+
+- DO NOT push or pull the plung er
+
+Keeping head in upright position, place just the tip of the nasal spray inside the other nostril. The tip of the nasal spray does not need to be inserted far into the nose.
+
+- DO NOT insert the entire white tip inside the nostril.
+
+Administer Spray 2 by pushing the plunger as quickly as possible until it stops.
+
+- DO NOT remove the nasal spray until the plunger has stopped.
+- The vaccine recipient can breathe normally. There is no need to inhale or sniff.
+- It is normal for the vaccine recipient to feel a slight tickle or experience some dripping or sneezing.
+
+Remove the nasal spray from the second nostril.
+
+- Wipe away any liquid that drips from the nose with a tissue.
+
+Step 11
+
+## Dispose of the used nasal spray
+
+- The nasal spray contains a single dose of Fluenz and cannot be re-used.
+- Dispose of the nasal spray according to local requirements.

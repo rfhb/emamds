@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-07-07 17:20:00
+document_datetime: 2026-07-21 10:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fluenz.html
 document_name: fluenz.html
 version: success
-processing_time: 0.1554588
-conversion_datetime: 2026-07-10 22:38:32.195074
+processing_time: 0.1340075
+conversion_datetime: 2026-07-28 12:36:56.09598
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.111.0
-  docling-core: 2.86.0
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
@@ -106,7 +106,7 @@ English (EN) (123.25 KB - PDF)
 
 [View](/en/documents/overview/fluenz-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-970)
+[Other languages (22)](#file-language-dropdown-597)
 
 български (BG) (136.54 KB - PDF)
 
@@ -252,161 +252,161 @@ English (EN) (702.8 KB - PDF)
 
 Fluenz : EPAR - Product information
 
-English (EN) (397.8 KB - PDF)
+English (EN) (471.21 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/en/documents/product-information/fluenz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-5)
+[Other languages (24)](#file-language-dropdown-501)
 
-български (BG) (482.96 KB - PDF)
+български (BG) (607.1 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/bg/documents/product-information/fluenz-epar-product-information_bg.pdf)
 
-español (ES) (386.28 KB - PDF)
+español (ES) (452.21 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/es/documents/product-information/fluenz-epar-product-information_es.pdf)
 
-čeština (CS) (469.01 KB - PDF)
+čeština (CS) (543.88 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/cs/documents/product-information/fluenz-epar-product-information_cs.pdf)
 
-dansk (DA) (373.92 KB - PDF)
+dansk (DA) (479.29 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/da/documents/product-information/fluenz-epar-product-information_da.pdf)
 
-Deutsch (DE) (390.02 KB - PDF)
+Deutsch (DE) (498.67 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/de/documents/product-information/fluenz-epar-product-information_de.pdf)
 
-eesti (ET) (406.39 KB - PDF)
+eesti (ET) (526.86 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/et/documents/product-information/fluenz-epar-product-information_et.pdf)
 
-ελληνικά (EL) (490.63 KB - PDF)
+ελληνικά (EL) (586.14 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/el/documents/product-information/fluenz-epar-product-information_el.pdf)
 
-français (FR) (435.97 KB - PDF)
+français (FR) (504.39 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/fr/documents/product-information/fluenz-epar-product-information_fr.pdf)
 
-hrvatski (HR) (465.97 KB - PDF)
+hrvatski (HR) (521.23 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/hr/documents/product-information/fluenz-epar-product-information_hr.pdf)
 
-italiano (IT) (409.42 KB - PDF)
+italiano (IT) (513.6 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/it/documents/product-information/fluenz-epar-product-information_it.pdf)
 
-latviešu (LV) (485.97 KB - PDF)
+latviešu (LV) (542.73 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/lv/documents/product-information/fluenz-epar-product-information_lv.pdf)
 
-lietuvių (LT) (496.37 KB - PDF)
+lietuvių (LT) (578.1 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/lt/documents/product-information/fluenz-epar-product-information_lt.pdf)
 
-magyar (HU) (492.01 KB - PDF)
+magyar (HU) (560.75 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/hu/documents/product-information/fluenz-epar-product-information_hu.pdf)
 
-Malti (MT) (500.99 KB - PDF)
+Malti (MT) (531.39 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/mt/documents/product-information/fluenz-epar-product-information_mt.pdf)
 
-Nederlands (NL) (389.64 KB - PDF)
+Nederlands (NL) (500.65 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/nl/documents/product-information/fluenz-epar-product-information_nl.pdf)
 
-polski (PL) (470.38 KB - PDF)
+polski (PL) (524.53 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/pl/documents/product-information/fluenz-epar-product-information_pl.pdf)
 
-português (PT) (382.7 KB - PDF)
+português (PT) (474.17 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/pt/documents/product-information/fluenz-epar-product-information_pt.pdf)
 
-română (RO) (468.29 KB - PDF)
+română (RO) (530.72 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/ro/documents/product-information/fluenz-epar-product-information_ro.pdf)
 
-slovenčina (SK) (456.86 KB - PDF)
+slovenčina (SK) (532.27 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/sk/documents/product-information/fluenz-epar-product-information_sk.pdf)
 
-slovenščina (SL) (463.32 KB - PDF)
+slovenščina (SL) (513.06 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/sl/documents/product-information/fluenz-epar-product-information_sl.pdf)
 
-suomi (FI) (396.53 KB - PDF)
+suomi (FI) (476.97 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/fi/documents/product-information/fluenz-epar-product-information_fi.pdf)
 
-svenska (SV) (378.07 KB - PDF)
+svenska (SV) (480.54 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/sv/documents/product-information/fluenz-epar-product-information_sv.pdf)
 
-Íslenska (IS) (388.28 KB - PDF)
+Íslenska (IS) (464.93 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/is/documents/product-information/fluenz-epar-product-information_is.pdf)
 
-norsk (NO) (390 KB - PDF)
+norsk (NO) (498.02 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 07/07/2026
+**First published:** 26/06/2024 **Last updated:** 21/07/2026
 
 [View](/no/documents/product-information/fluenz-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000317656
+**Latest procedure affecting product information:** VR/0000302352
 
-19/06/2026
+25/06/2026
 
 icon globe
 
@@ -425,155 +425,155 @@ Product information documents contain:
 
 Fluenz : EPAR - All authorised presentations
 
-English (EN) (47.88 KB - PDF)
+English (EN) (48.03 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/en/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_en.pdf-0)
 
-[Other languages (24)](#file-language-dropdown-738)
+[Other languages (24)](#file-language-dropdown-790)
 
-български (BG) (64.76 KB - PDF)
+български (BG) (57.84 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/bg/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_bg.pdf-0)
 
-español (ES) (53.02 KB - PDF)
+español (ES) (45.91 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/es/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_es.pdf-0)
 
-čeština (CS) (51.25 KB - PDF)
+čeština (CS) (51.43 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/cs/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_cs.pdf-0)
 
-dansk (DA) (54.12 KB - PDF)
+dansk (DA) (48.15 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/da/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_da.pdf-0)
 
-Deutsch (DE) (56.86 KB - PDF)
+Deutsch (DE) (56.78 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/de/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_de.pdf-0)
 
-eesti (ET) (46.33 KB - PDF)
+eesti (ET) (45.91 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/et/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_et.pdf-0)
 
-ελληνικά (EL) (54.78 KB - PDF)
+ελληνικά (EL) (55.22 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/el/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_el.pdf-0)
 
-français (FR) (55.13 KB - PDF)
+français (FR) (48.97 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/fr/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_fr.pdf-0)
 
-hrvatski (HR) (56.11 KB - PDF)
+hrvatski (HR) (49.37 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/hr/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_hr.pdf-0)
 
-italiano (IT) (47.63 KB - PDF)
+italiano (IT) (47.85 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/it/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_it.pdf-0)
 
-latviešu (LV) (67.35 KB - PDF)
+latviešu (LV) (51.88 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/lv/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_lv.pdf-0)
 
-lietuvių (LT) (57.21 KB - PDF)
+lietuvių (LT) (50.58 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/lt/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_lt.pdf-0)
 
-magyar (HU) (57.94 KB - PDF)
+magyar (HU) (51.61 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/hu/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_hu.pdf-0)
 
-Malti (MT) (103.2 KB - PDF)
+Malti (MT) (64.3 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/mt/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_mt.pdf-0)
 
-Nederlands (NL) (24.42 KB - PDF)
+Nederlands (NL) (17.32 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/nl/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_nl.pdf-0)
 
-polski (PL) (64.57 KB - PDF)
+polski (PL) (52.37 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/pl/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_pl.pdf-0)
 
-português (PT) (53.29 KB - PDF)
+português (PT) (47.31 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/pt/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_pt.pdf-0)
 
-română (RO) (56.74 KB - PDF)
+română (RO) (50.35 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/ro/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_ro.pdf-0)
 
-slovenčina (SK) (57.32 KB - PDF)
+slovenčina (SK) (51.43 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/sk/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_sk.pdf-0)
 
-slovenščina (SL) (49.3 KB - PDF)
+slovenščina (SL) (49.19 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/sl/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_sl.pdf-0)
 
-suomi (FI) (52.79 KB - PDF)
+suomi (FI) (45.04 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/fi/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_fi.pdf-0)
 
-svenska (SV) (54.29 KB - PDF)
+svenska (SV) (47.24 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/sv/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_sv.pdf-0)
 
-Íslenska (IS) (56.71 KB - PDF)
+Íslenska (IS) (50.24 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/is/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_is.pdf-0)
 
-norsk (NO) (52.61 KB - PDF)
+norsk (NO) (47.25 KB - PDF)
 
-**First published:** 26/06/2024 **Last updated:** 14/07/2025
+**First published:** 26/06/2024 **Last updated:** 17/07/2026
 
 [View](/no/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_no.pdf-0)
 
@@ -582,7 +582,10 @@ norsk (NO) (52.61 KB - PDF)
 - **Name of medicine**
     - Fluenz
 - **Active substance**
-    - influenza virus A/Victoria/4897/2022 (H1N1)pdm09 - like strain (A/Norway/31694/2022, MEDI 369815), A A/Croatia/10136RV/2023 (H3N2)-like strain (A/Perth/722/2024, MEDI 392611) B/Austria/1359417/2021 - like strain (B/ Austria/1359417/2021, MEDI 355292)
+        - influenza virus (live attenuated)
+        - A/Missouri/11/2025 (H1N1)pdm09 - like strain (A/Switzerland/6849/2025, MEDI 400592)
+        - A/Darwin/1454/2025 (H3N2) - like strain (A/Darwin/1369/2025, MEDI 406666)
+        - B/Tokyo/EIS13-175/2025 - like strain (B/Perth/115/2025, MEDI 407730)
 - **International non-proprietary name (INN) or common name**
     - influenza vaccine (live attenuated, nasal)
 - **Therapeutic area (MeSH)**
@@ -611,7 +614,7 @@ Fluenz should be used in accordance with official recommendations.
 - **Marketing authorisation issued**
     - 03/06/2024
 - **Revision**
-    - 6
+    - 8
 
 ## Assessment history
 
@@ -623,9 +626,9 @@ Collapse section
 
 Fluenz : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (178.42 KB - PDF)
+English (EN) (185.15 KB - PDF)
 
-**First published:** 28/02/2025 **Last updated:** 07/07/2026
+**First published:** 28/02/2025 **Last updated:** 21/07/2026
 
 [View](/en/documents/procedural-steps-after/fluenz-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -636,6 +639,16 @@ English (EN) (151.51 KB - PDF)
 **First published:** 22/07/2024 **Last updated:** 07/04/2025
 
 [View](/en/documents/procedural-steps-after/fluenz-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Fluenz-VR-0000302352 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-2536818
+
+English (EN) (477.75 KB - PDF)
+
+**First published:** 21/07/2026
+
+[View](/en/documents/variation-report/fluenz-vr-0000302352-epar-assessment-report-variation_en.pdf)
 
 ### Initial marketing authorisation documents
 
@@ -674,6 +687,6 @@ English (EN) (130.31 KB - PDF)
 
 **This page was last updated on**
 
-07/07/2026
+21/07/2026
 
 ## Share this page

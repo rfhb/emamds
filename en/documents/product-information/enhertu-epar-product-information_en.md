@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-07-16 14:47:08
-document_pages: 54
+document_datetime: 2026-07-20 16:10:38
+document_pages: 55
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/enhertu-epar-product-information_en.pdf
 document_name: enhertu-epar-product-information_en.pdf
 version: success
-processing_time: 32.0372485
-conversion_datetime: 2026-07-19 12:35:03.760221
+processing_time: 36.2558783
+conversion_datetime: 2026-07-28 13:58:08.172811
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.1.0
-  docling: 2.113.0
-  docling-core: 2.87.1
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
@@ -111,7 +111,7 @@ Patients treated with trastuzumab deruxtecan for solid tumours should have docum
 
 ## Posology
 
-Breast cancer, NSCLC, and other unresectable or metastatic solid tumours
+## Breast cancer, NSCLC, and other unresectable or metastatic solid tumours
 
 The recommended dose of Enhertu is 5.4 mg/kg body weight given as an intravenous infusion once every 3 weeks (21-day cycle) until disease progression or unacceptable toxicity.
 
@@ -904,19 +904,23 @@ Trastuzumab deruxtecan undergoes intracellular cleavage by lysosomal enzymes to 
 
 The humanised HER2 IgG1 monoclonal antibody is expected to be degraded into small peptides and amino acids via catabolic pathways in the same manner as endogenous IgG.
 
-In vitro metabolism studies in human liver microsomes indicate that DXd is metabolised mainly by CYP3A4 via oxidative pathways.
+In vitro metabolism studies in human liver microsomes indicate that DXd is metabolised mainly by CYP3A4 via oxidative pathways and does not undergo significant metabolism by uridine diphosphateglucuronosyltransferases (UGT) or other CYP enzymes.
 
 ## Elimination
 
-Following intravenous administration of trastuzumab deruxtecan in patients with metastatic HER2positive, HER2-low breast cancer or HER2-mutant NSCLC, the clearance of trastuzumab deruxtecan in population pharmacokinetic analysis was calculated to be 0.4 L/day and the clearance of DXd was 18.4 L/h. In patients with locally advanced or metastatic gastric or GEJ adenocarcinoma, trastuzumab deruxtecan clearance was approximately 20% higher than in patients with metastatic HER2-positive breast cancer. In cycle 3, the apparent elimination half-life (t1/2) of trastuzumab deruxtecan and released DXd was approximately 7 days. Moderate accumulation (approximately 35% in cycle 3 compared to cycle 1) of trastuzumab deruxtecan was observed.
+Following intravenous administration of trastuzumab deruxtecan in patients with metastatic HER2positive, HER2-low breast cancer or HER2-mutant NSCLC, the clearance of trastuzumab deruxtecan in population pharmacokinetic analysis was calculated to be 0.4 L/day and the clearance of DXd was
 
 <div style=\"page-break-after: always\"></div>
+
+18.4 L/h. In patients with locally advanced or metastatic gastric or GEJ adenocarcinoma, trastuzumab deruxtecan clearance was approximately 20% higher than in patients with metastatic HER2-positive breast cancer. In cycle 3, the apparent elimination half-life (t1/2) of trastuzumab deruxtecan and released DXd was approximately 7 days. Moderate accumulation (approximately 35% in cycle 3 compared to cycle 1) of trastuzumab deruxtecan was observed.
 
 Following intravenous administration of DXd to rats, the major excretion pathway was faeces via the biliary route. DXd was the most abundant component in urine, faeces, and bile. Following single intravenous administration of trastuzumab deruxtecan (6.4 mg/kg) to monkeys, unchanged released DXd was the most abundant component in urine and faeces. DXd excretion was not studied in humans.
 
 ## In vitro interactions
 
-Effects of Enhertu on the pharmacokinetics of other medicinal products In vitro studies indicate DXd does not inhibit major CYP450 enzymes including CYP1A2, 2B6, 2C8, 2C9, 2C19, 2D6 and 3A. In vitro studies indicate that DXd does not inhibit OAT1, OAT3, OCT1, OCT2, OATP1B1, OATP1B3, MATE1, MATE2-K, P-gp, BCRP, or BSEP transporters.
+## Effects of Enhertu on the pharmacokinetics of other medicinal products
+
+In vitro studies indicate DXd does not inhibit major CYP450 enzymes including CYP1A2, 2B6, 2C8, 2C9, 2C19, 2D6 and 3A. In vitro studies indicate that DXd does not inhibit OAT1, OAT3, OCT1, OCT2, OATP1B1, OATP1B3, MATE1, MATE2-K, P-gp, BCRP, or BSEP transporters.
 
 Effects of other medicinal products on the pharmacokinetics of Enhertu In vitro , DXd was a substrate of P-gp, OATP1B1, OATP1B3, MATE2-K, MRP1, and BCRP. No clinically meaningful interaction is expected with medicinal products that are inhibitors of MATE2-K, MRP1, P-gp, OATP1B, or BCRP transporters (see section 4.5).
 
@@ -962,7 +966,13 @@ There were no animal reproductive or developmental toxicity studies conducted wi
 
 ## 6.1 List of excipients
 
-L-histidine L-histidine hydrochloride monohydrate Sucrose Polysorbate 80 (E433)
+## L-histidine
+
+L-histidine hydrochloride monohydrate
+
+## Sucrose
+
+Polysorbate 80 (E433)
 
 ## 6.2 Incompatibilities
 
@@ -980,9 +990,9 @@ Sodium chloride solution for infusion must not be used for reconstitution or dil
 
 Chemical and physical in-use stability has been demonstrated for up to 48 hours at 2 ºC to 8 ºC.
 
-From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 ºC to 8 ºC, unless reconstitution has taken place in controlled and validated aseptic conditions.
-
 <div style=\"page-break-after: always\"></div>
+
+From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 ºC to 8 ºC, unless reconstitution has taken place in controlled and validated aseptic conditions.
 
 ## Diluted solution
 
@@ -1019,9 +1029,11 @@ Appropriate procedures for the preparation of chemotherapeutic medicinal product
 
 ## Dilution
 
-- Withdraw the calculated amount from the vial(s) using a sterile syringe. Inspect the reconstituted solution for particulates and discolouration. The solution should be clear and colourless to light yellow. Do not use if visible particles are observed or if the solution is cloudy or discoloured.
+- Withdraw the calculated amount from the vial(s) using a sterile syringe. Inspect the reconstituted solution for particulates and discolouration. The solution should be clear and
 
 <div style=\"page-break-after: always\"></div>
+
+colourless to light yellow. Do not use if visible particles are observed or if the solution is cloudy or discoloured.
 
 - Dilute the calculated volume of reconstituted Enhertu in an infusion bag containing 100 mL of 5% glucose solution for infusion. Do not use sodium chloride solution (see section 6.2). An infusion bag made of polyvinylchloride or polyolefin (copolymer of ethylene and polypropylene) is recommended.
 - Gently invert the infusion bag to thoroughly mix the solution. Do not shake.
@@ -1057,7 +1069,9 @@ Date of latest renewal: 21 November 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-## {DD month YYYY}
+{DD month YYYY}
+
+<div style=\"page-break-after: always\"></div>
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
@@ -1254,9 +1268,9 @@ PC
 
 SN
 
-NN
-
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-07-14 11:52:00
+document_datetime: 2026-07-22 13:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vitrakvi.html
 document_name: vitrakvi.html
 version: success
-processing_time: 0.3462182
-conversion_datetime: 2026-07-16 13:14:18.989145
+processing_time: 0.14712
+conversion_datetime: 2026-07-28 12:29:43.522503
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.113.0
-  docling-core: 2.87.1
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
@@ -109,7 +109,7 @@ English (EN) (74.59 KB - PDF)
 
 [View](/en/documents/overview/vitrakvi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-91)
+[Other languages (22)](#file-language-dropdown-680)
 
 български (BG) (101.03 KB - PDF)
 
@@ -261,7 +261,7 @@ English (EN) (642.47 KB - PDF)
 
 [View](/en/documents/product-information/vitrakvi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-106)
+[Other languages (24)](#file-language-dropdown-903)
 
 български (BG) (1.13 MB - PDF)
 
@@ -434,7 +434,7 @@ English (EN) (43.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vitrakvi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-612)
+[Other languages (24)](#file-language-dropdown-867)
 
 български (BG) (51.2 KB - PDF)
 
@@ -619,7 +619,7 @@ Vitrakvi as monotherapy is indicated for the treatment of adult and paediatric p
 - **Marketing authorisation issued**
     - 19/09/2019
 - **Revision**
-    - 17
+    - 18
 
 ## Assessment history
 
@@ -644,6 +644,16 @@ English (EN) (224.07 KB - PDF)
 **First published:** 31/07/2020 **Last updated:** 26/05/2026
 
 [View](/en/documents/procedural-steps-after/vitrakvi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Vitrakvi-PAM-0000338661 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3260327
+
+English (EN) (263.39 KB - PDF)
+
+**First published:** 22/07/2026
+
+[View](/en/documents/variation-report/vitrakvi-pam-0000338661-epar-assessment-report_en.pdf)
 
 Vitrakvi-H-C-004919-P46-009 : EPAR - Assessment report
 
@@ -726,6 +736,6 @@ Vitrakvi was withdrawn from the Community register of orphan medicinal products 
 
 **This page was last updated on**
 
-14/07/2026
+22/07/2026
 
 ## Share this page

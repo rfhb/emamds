@@ -1,97 +1,21 @@
 ---
-document_datetime: 2026-04-28 16:32:00
+document_datetime: 2026-07-21 15:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/darzalex.html
 document_name: darzalex.html
 version: success
-processing_time: 0.1682265
-conversion_datetime: 2026-04-29 13:16:59.473513
+processing_time: 0.2235147
+conversion_datetime: 2026-07-28 12:38:44.349639
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [Glossaries](/en/about-us/glossaries)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Darzalex
-
 # Darzalex
 
 [RSS](/en/individual-human-medicine.xml/67029)
@@ -115,8 +39,8 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Darzalex](#news-on)
 - [Product information - with tracked changes](#product-information-with-tracked-changes-80493)
+- [More information on Darzalex](#more-information-on-darzalex-86773)
 - [More information on Darzalex](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -124,7 +48,7 @@ Page contents
 
 ## Overview
 
-Darzalex is a medicine used in adults to treat the following conditions. .
+Darzalex is a medicine used in adults to treat the following conditions:
 
 **Multiple myeloma**
 
@@ -158,7 +82,7 @@ Expand section
 
 Collapse section
 
-## How is Darzalex used?
+### How is Darzalex used?
 
 Darzalex can only be obtained with a prescription and should be given by a healthcare professional. The first dose should be given in a place where resuscitation equipment is available in case of severe allergic reaction (anaphylaxis).
 
@@ -166,11 +90,11 @@ For multiple myeloma, smouldering multiple myeloma and AL amyloidosis, Darzalex 
 
 For more information about using Darzalex, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Darzalex work?
+### How does Darzalex work?
 
 The active substance in Darzalex, daratumumab, is a monoclonal antibody (a type of protein) that has been designed to attach to the protein CD38, which is found in high amounts on abnormal white blood cells in multiple myeloma and AL amyloidosis. By attaching to CD38 on these cells, daratumumab activates the immune system to kill the abnormal white blood cells.
 
-## What benefits of Darzalex have been shown in studies?
+### What benefits of Darzalex have been shown in studies?
 
 **Previously treated multiple myeloma**
 
@@ -206,7 +130,7 @@ After patients had been in the study for an average of 65 months, those under ac
 
 Additionally, the study showed that the extent of the disease decreased in 63.4% of people taking Darzalex, compared with 2% in people being actively monitored.
 
-## What are the risks associated with Darzalex?
+### What are the risks associated with Darzalex?
 
 For the full list of side effects and restrictions with Darzalex, see the package leaflet.
 
@@ -214,7 +138,7 @@ The most common side effects with Darzalex (which may affect more than 1 in 5 pa
 
 Some side effects can be serious. The most frequent with Darzalex include pneumonia (infection of the lungs), bronchitis (inflammation of the airways in the lungs), upper respiratory tract infection, pulmonary oedema (fluid build-up in the lungs), sepsis (blood poisoning), flu, fever, dehydration, diarrhoea, atrial fibrillation (irregular rapid contractions of the upper chambers of the heart) and syncope (fainting).
 
-## Why is Darzalex authorised in the EU?
+### Why is Darzalex authorised in the EU?
 
 The European Medicines Agency decided that Darzalex's benefits are greater than its risks and it can be authorised for use in the EU.
 
@@ -230,7 +154,7 @@ Darzalex's side effects are considered acceptable and manageable.
 
 Darzalex was originally given 'conditional authorisation' because there was more evidence to come about the medicine. As the company has provided the additional information necessary, the authorisation has been switched to standard approval.
 
-## What measures are being taken to ensure the safe and effective use of Darzalex?
+### What measures are being taken to ensure the safe and effective use of Darzalex?
 
 The company will provide educational material to all healthcare professionals expected to use the medicine, to inform them that the medicine can affect the results of a blood test (indirect Coombs test) used to determine suitability for blood transfusions. Patients prescribed Darzalex will receive a patient alert card with similar information.
 
@@ -238,7 +162,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Darzalex are continuously monitored. Side effects reported with Darzalex are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Darzalex
+### Other information about Darzalex
 
 Darzalex received a conditional marketing authorisation valid throughout the EU on 20 May 2016. This was switched to a standard marketing authorisation on 28 April 2017.
 
@@ -252,7 +176,7 @@ English (EN) (157.15 KB - PDF)
 
 [View](/en/documents/overview/darzalex-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-194)
+[Other languages (22)](#file-language-dropdown-779)
 
 български (BG) (181.75 KB - PDF)
 
@@ -284,7 +208,7 @@ Deutsch (DE) (158.07 KB - PDF)
 
 [View](/de/documents/overview/darzalex-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (148.7 KB - PDF)
+eesti (ET) (148.7 KB - PDF)
 
 **First published:** 27/05/2016 **Last updated:** 29/08/2025
 
@@ -314,13 +238,13 @@ italiano (IT) (150.38 KB - PDF)
 
 [View](/it/documents/overview/darzalex-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (189.89 KB - PDF)
+latviešu (LV) (189.89 KB - PDF)
 
 **First published:** 27/05/2016 **Last updated:** 29/08/2025
 
 [View](/lv/documents/overview/darzalex-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (180.69 KB - PDF)
+lietuvių (LT) (180.69 KB - PDF)
 
 **First published:** 27/05/2016 **Last updated:** 29/08/2025
 
@@ -374,7 +298,7 @@ slovenščina (SL) (178.01 KB - PDF)
 
 [View](/sl/documents/overview/darzalex-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (150.13 KB - PDF)
+suomi (FI) (150.13 KB - PDF)
 
 **First published:** 27/05/2016 **Last updated:** 29/08/2025
 
@@ -388,9 +312,9 @@ svenska (SV) (150.23 KB - PDF)
 
 Darzalex : EPAR - Risk management plan
 
-English (EN) (609.15 KB - PDF)
+English (EN) (987.5 KB - PDF)
 
-**First published:** 21/09/2018 **Last updated:** 29/08/2025
+**First published:** 21/09/2018 **Last updated:** 21/07/2026
 
 [View](/en/documents/rmp/darzalex-epar-risk-management-plan_en.pdf)
 
@@ -400,165 +324,166 @@ Darzalex : EPAR - Product Information
 
 English (EN) (5.55 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/en/documents/product-information/darzalex-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-748)
+[Other languages (24)](#file-language-dropdown-682)
 
 български (BG) (2.64 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/bg/documents/product-information/darzalex-epar-product-information_bg.pdf)
 
 español (ES) (2.52 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/es/documents/product-information/darzalex-epar-product-information_es.pdf)
 
 čeština (CS) (1.96 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/cs/documents/product-information/darzalex-epar-product-information_cs.pdf)
 
-dansk (DA) (4.37 MB - PDF)
+dansk (DA) (4.38 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/da/documents/product-information/darzalex-epar-product-information_da.pdf)
 
 Deutsch (DE) (4.15 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/de/documents/product-information/darzalex-epar-product-information_de.pdf)
 
-eesti keel (ET) (3.8 MB - PDF)
+eesti (ET) (3.65 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/et/documents/product-information/darzalex-epar-product-information_et.pdf)
 
-ελληνικά (EL) (4.57 MB - PDF)
+ελληνικά (EL) (4.52 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/el/documents/product-information/darzalex-epar-product-information_el.pdf)
 
 français (FR) (6.35 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/fr/documents/product-information/darzalex-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.51 MB - PDF)
+hrvatski (HR) (3.91 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/hr/documents/product-information/darzalex-epar-product-information_hr.pdf)
 
-íslenska (IS) (4.59 MB - PDF)
+italiano (IT) (4.05 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
-
-[View](/is/documents/product-information/darzalex-epar-product-information_is.pdf)
-
-italiano (IT) (4.06 MB - PDF)
-
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/it/documents/product-information/darzalex-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (5.57 MB - PDF)
+latviešu (LV) (5.57 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/lv/documents/product-information/darzalex-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (4.67 MB - PDF)
+lietuvių (LT) (4.67 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/lt/documents/product-information/darzalex-epar-product-information_lt.pdf)
 
 magyar (HU) (3.63 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/hu/documents/product-information/darzalex-epar-product-information_hu.pdf)
 
-Malti (MT) (6.93 MB - PDF)
+Malti (MT) (6.96 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/mt/documents/product-information/darzalex-epar-product-information_mt.pdf)
 
 Nederlands (NL) (2.55 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/nl/documents/product-information/darzalex-epar-product-information_nl.pdf)
 
-norsk (NO) (4.04 MB - PDF)
+polski (PL) (4.14 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
-
-[View](/no/documents/product-information/darzalex-epar-product-information_no.pdf)
-
-polski (PL) (4.12 MB - PDF)
-
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/pl/documents/product-information/darzalex-epar-product-information_pl.pdf)
 
 português (PT) (4.27 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/pt/documents/product-information/darzalex-epar-product-information_pt.pdf)
 
-română (RO) (5.05 MB - PDF)
+română (RO) (5 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/ro/documents/product-information/darzalex-epar-product-information_ro.pdf)
 
 slovenčina (SK) (5.66 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/sk/documents/product-information/darzalex-epar-product-information_sk.pdf)
 
 slovenščina (SL) (7.01 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/sl/documents/product-information/darzalex-epar-product-information_sl.pdf)
 
-Suomi (FI) (3.21 MB - PDF)
+suomi (FI) (3.39 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/fi/documents/product-information/darzalex-epar-product-information_fi.pdf)
 
-svenska (SV) (5.43 MB - PDF)
+svenska (SV) (5.45 MB - PDF)
 
-**First published:** 27/05/2016 **Last updated:** 28/04/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
 
 [View](/sv/documents/product-information/darzalex-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/000031294
+Íslenska (IS) (4.63 MB - PDF)
 
-26/03/2026
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
+
+[View](/is/documents/product-information/darzalex-epar-product-information_is.pdf)
+
+norsk (NO) (4.2 MB - PDF)
+
+**First published:** 27/05/2016 **Last updated:** 21/07/2026
+
+[View](/no/documents/product-information/darzalex-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000334930
+
+11/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -576,7 +501,7 @@ English (EN) (40.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/darzalex-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-737)
+[Other languages (24)](#file-language-dropdown-595)
 
 български (BG) (33.58 KB - PDF)
 
@@ -608,7 +533,7 @@ Deutsch (DE) (32.06 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/darzalex-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (29.29 KB - PDF)
+eesti (ET) (29.29 KB - PDF)
 
 **First published:** 27/05/2016 **Last updated:** 10/07/2020
 
@@ -632,25 +557,19 @@ hrvatski (HR) (37.65 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/darzalex-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (30.91 KB - PDF)
-
-**First published:** 27/05/2016 **Last updated:** 10/07/2020
-
-[View](/is/documents/all-authorised-presentations/darzalex-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (28.9 KB - PDF)
 
 **First published:** 27/05/2016 **Last updated:** 10/07/2020
 
 [View](/it/documents/all-authorised-presentations/darzalex-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (30.6 KB - PDF)
+latviešu (LV) (30.6 KB - PDF)
 
 **First published:** 27/05/2016 **Last updated:** 10/07/2020
 
 [View](/lv/documents/all-authorised-presentations/darzalex-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (30.65 KB - PDF)
+lietuvių (LT) (30.65 KB - PDF)
 
 **First published:** 27/05/2016 **Last updated:** 10/07/2020
 
@@ -673,12 +592,6 @@ Nederlands (NL) (29.82 KB - PDF)
 **First published:** 27/05/2016 **Last updated:** 10/07/2020
 
 [View](/nl/documents/all-authorised-presentations/darzalex-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (30.62 KB - PDF)
-
-**First published:** 27/05/2016 **Last updated:** 10/07/2020
-
-[View](/no/documents/all-authorised-presentations/darzalex-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (31.02 KB - PDF)
 
@@ -710,7 +623,7 @@ slovenščina (SL) (29.27 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/darzalex-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (28.42 KB - PDF)
+suomi (FI) (28.42 KB - PDF)
 
 **First published:** 27/05/2016 **Last updated:** 10/07/2020
 
@@ -722,27 +635,30 @@ svenska (SV) (29.89 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/darzalex-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (30.91 KB - PDF)
+
+**First published:** 27/05/2016 **Last updated:** 10/07/2020
+
+[View](/is/documents/all-authorised-presentations/darzalex-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (30.62 KB - PDF)
+
+**First published:** 27/05/2016 **Last updated:** 10/07/2020
+
+[View](/no/documents/all-authorised-presentations/darzalex-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Darzalex
-
-Active substance
-
-daratumumab
-
-International non-proprietary name (INN) or common name
-
-daratumumab
-
-Therapeutic area (MeSH)
-
-Multiple Myeloma
-
-Anatomical therapeutic chemical (ATC) code
-
-L01FC01
+- **Name of medicine**
+    - Darzalex
+- **Active substance**
+    - daratumumab
+- **International non-proprietary name (INN) or common name**
+    - daratumumab
+- **Therapeutic area (MeSH)**
+    - Multiple Myeloma
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01FC01
 
 ### Pharmacotherapeutic group
 
@@ -779,35 +695,18 @@ Darzalex is indicated:
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004077
-
-Accelerated assessment
-
-This medicine had an accelerated assessment. This means that it is a medicine of major interest for public health, so its timeframe for review was 150 evaluation days rather than 210. For more information, see [Accelerated assessment](/node/69621) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Janssen-Cilag International N.V.
-
-Turnhoutseweg 30
-
-Opinion adopted
-
-31/03/2016
-
-Marketing authorisation issued
-
-20/05/2016
-
-Revision
-
-29
+- **EMA product number**
+    - EMEA/H/C/004077
+- **Accelerated assessment**
+    - This medicine had an accelerated assessment. This means that it is a medicine of major interest for public health, so its timeframe for review was 150 evaluation days rather than 210. For more information, see [Accelerated assessment](/node/69621) .
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Opinion adopted**
+    - 31/03/2016
+- **Marketing authorisation issued**
+    - 20/05/2016
+- **Revision**
+    - 30
 
 ## Assessment history
 
@@ -815,13 +714,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Darzalex : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (183.2 KB - PDF)
+English (EN) (173.63 KB - PDF)
 
-**First published:** 04/08/2025 **Last updated:** 28/04/2026
+**First published:** 04/08/2025 **Last updated:** 21/07/2026
 
 [View](/en/documents/procedural-steps-after/darzalex-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1053,7 +952,7 @@ English (EN) (72.18 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-darzalex_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Darzalex : EPAR - Public assessment report
 
@@ -1133,7 +1032,7 @@ English (EN) (2.63 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/darzalex-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-790)
+[Other languages (24)](#file-language-dropdown-795)
 
 български (BG) (1.2 MB - DOCX)
 
@@ -1165,7 +1064,7 @@ Deutsch (DE) (1.3 MB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/darzalex-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (1.21 MB - DOCX)
+eesti (ET) (1.21 MB - DOCX)
 
 **First published:** 27/10/2025
 
@@ -1189,25 +1088,19 @@ hrvatski (HR) (4.62 MB - DOC)
 
 [View](/hr/documents/product-information-tracked-changes/darzalex-epar-product-information-tracked-changes_hr.doc)
 
-íslenska (IS) (1.31 MB - DOCX)
-
-**First published:** 27/10/2025
-
-[View](/is/documents/product-information-tracked-changes/darzalex-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (1.58 MB - DOCX)
 
 **First published:** 27/10/2025
 
 [View](/it/documents/product-information-tracked-changes/darzalex-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (2.07 MB - DOCX)
+latviešu (LV) (2.07 MB - DOCX)
 
 **First published:** 27/10/2025
 
 [View](/lv/documents/product-information-tracked-changes/darzalex-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (1.4 MB - DOCX)
+lietuvių (LT) (1.4 MB - DOCX)
 
 **First published:** 27/10/2025
 
@@ -1230,12 +1123,6 @@ Nederlands (NL) (2.73 MB - DOC)
 **First published:** 27/10/2025
 
 [View](/nl/documents/product-information-tracked-changes/darzalex-epar-product-information-tracked-changes_nl.doc)
-
-norsk (NO) (1.57 MB - DOCX)
-
-**First published:** 27/10/2025
-
-[View](/no/documents/product-information-tracked-changes/darzalex-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (1.64 MB - DOCX)
 
@@ -1267,7 +1154,7 @@ slovenščina (SL) (1.55 MB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/darzalex-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (1.61 MB - DOCX)
+suomi (FI) (1.61 MB - DOCX)
 
 **First published:** 27/10/2025
 
@@ -1279,23 +1166,34 @@ svenska (SV) (1.9 MB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/darzalex-epar-product-information-tracked-changes_sv.docx)
 
+Íslenska (IS) (1.31 MB - DOCX)
+
+**First published:** 27/10/2025
+
+[View](/is/documents/product-information-tracked-changes/darzalex-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (1.57 MB - DOCX)
+
+**First published:** 27/10/2025
+
+[View](/no/documents/product-information-tracked-changes/darzalex-epar-product-information-tracked-changes_no.docx)
+
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC0040770000) (initial marketing authorisation)
 
 ## More information on Darzalex
 
-- [EU/3/13/1153 - orphan designation for treatment of plasma-cell myeloma](/en/medicines/human/orphan-designations/eu-3-13-1153)
+This product originally had an orphan designation for [treatment of plasma-cell myeloma](/en/medicines/human/orphan-designations/eu-3-13-1153) , granted on 17 July 2013. This designation was withdrawn from the Community register of orphan medicinal products in May 2026 at the end of the 10-year period of market exclusivity.
+
+## More information on Darzalex
+
 - [EMEA-002152-PIP02-17-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002152-pip02-17-m01)
 - [EU/3/18/2020 - orphan designation for treatment of AL amyloidosis](/en/medicines/human/orphan-designations/eu-3-18-2020)
 - [EMEA-002152-PIP01-17-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002152-pip01-17-m04)
 - [EMEA-002152-PIP03-19 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002152-pip03-19)
 - [A Post-authorization Safety Study to Evaluate the Incidence of and Risk Factors for Severe and Fatal Infusion-related Reactions in Participants Treated with Daratumumab (Intravenous or Subcutaneous) (HALO) - post-authorisation study](https://catalogues.ema.europa.eu/study/49828)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-28/04/2026
+21/07/2026
 
 ## Share this page

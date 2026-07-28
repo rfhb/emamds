@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/plerixafor-accord.html
 document_name: plerixafor-accord.html
 version: success
-processing_time: 0.1269267
-conversion_datetime: 2026-07-28 12:32:33.926964
+processing_time: 0.1288559
+conversion_datetime: 2026-07-28 12:55:21.690812
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

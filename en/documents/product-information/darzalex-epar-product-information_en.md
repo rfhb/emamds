@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-28 15:49:36
+document_datetime: 2026-07-21 14:31:15
 document_pages: 122
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/darzalex-epar-product-information_en.pdf
 document_name: darzalex-epar-product-information_en.pdf
 version: success
-processing_time: 51.7754644
-conversion_datetime: 2026-04-29 13:22:29.07194
+processing_time: 85.4628813
+conversion_datetime: 2026-07-28 14:01:03.730547
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -175,15 +175,15 @@ Pre-infusion medicinal products should be administered to reduce the risk of IRR
 
 -  Corticosteroid (long-acting or intermediate-acting)
 - -
-- -
-
-Dexamethasone is given intravenously prior to the first DARZALEX infusion and oral regimen specific corticosteroids (e.g. prednisone) should not be taken on DARZALEX infusion days when patients have received dexamethasone as a pre-infusion medicinal product.
-
 - Monotherapy:
 
 Methylprednisolone 100 mg, or equivalent, administered intravenously. Following the second infusion, the dose of corticosteroid may be reduced (oral or intravenous methylprednisolone 60 mg).
 
-Combination therapy: Dexamethasone 20 mg (or equivalent), administered prior to every DARZALEX infusion. When dexamethasone is the background-regimen specific corticosteroid, the dexamethasone treatment dose will instead serve as pre-infusion medicinal product on DARZALEX infusion days (see section 5.1). administration may be considered prior to subsequent infusions. Additional background
+- -Combination therapy:
+
+Dexamethasone 20 mg (or equivalent), administered prior to every DARZALEX infusion. When dexamethasone is the background-regimen specific corticosteroid, the dexamethasone treatment dose will instead serve as pre-infusion medicinal product on DARZALEX infusion days (see section 5.1).
+
+Dexamethasone is given intravenously prior to the first DARZALEX infusion and oral administration may be considered prior to subsequent infusions. Additional background regimen specific corticosteroids (e.g. prednisone) should not be taken on DARZALEX infusion days when patients have received dexamethasone as a pre-infusion medicinal product.
 
 -  Antipyretics (oral paracetamol 650 to 1000 mg).
 -  Antihistamine (oral or intravenous diphenhydramine 25 to 50 mg or equivalent).
@@ -347,7 +347,7 @@ DARZALEX has no or negligible influence on the ability to drive and use machines
 
 ## Summary of the safety profile
 
-The most frequent adverse reactions of any grade (≥ 20% patients) were IRRs, fatigue, nausea, diarrhoea, constipation, pyrexia, dyspnoea, cough, neutropenia, thrombocytopenia, anaemia, oedema peripheral, asthenia, peripheral neuropathy, upper respiratory tract infection, musculoskeletal pain and COVID-19. Serious adverse reactions were sepsis, pneumonia, bronchitis, upper respiratory tract infection, pulmonary oedema, influenza, pyrexia, dehydration, diarrhoea and atrial fibrillation.
+The most frequent adverse reactions of any grade (≥ 20% patients) were IRRs, fatigue, nausea, diarrhoea, constipation, pyrexia, dyspnoea, cough, neutropenia, thrombocytopenia, anaemia, oedema peripheral, asthenia, peripheral neuropathy, upper respiratory tract infection, musculoskeletal pain and COVID-19. Serious adverse reactions were sepsis, pneumonia, bronchitis, upper respiratory tract infection, pulmonary oedema, pyrexia, dehydration, diarrhoea, atrial fibrillation and syncope.
 
 ## Tabulated list of adverse reactions
 
@@ -394,35 +394,36 @@ Table 6: Adverse reactions in multiple myeloma patients treated with DARZALEX 16
 | Nervous system disorders                             | Syncope                     | Common        |    2 | 2*   |
 | Cardiac disorders                                    | Atrial fibrillation         | Common        |    4 | 1    |
 | Vascular disorders                                   | Hypertension a              | Very common   |   10 | 5    |
+| Vascular disorders                                   | Hypotension a               | Common        |    7 | 1*   |
 | Respiratory, thoracic and mediastinal disorders      | Cough a                     | Very common   |   25 | < 1* |
 | Respiratory, thoracic and mediastinal disorders      | Dyspnoea a                  | Very common   |   21 | 3    |
-| Respiratory, thoracic and mediastinal disorders      | Pulmonary oedema a          | Common        |    1 | < 1  |
+|                                                      | Pulmonary oedema a          | Common        |    1 | < 1  |
 | Gastrointestinal disorders                           | Constipation                | Very common   |   33 | 1    |
 | Gastrointestinal disorders                           | Diarrhoea                   | Very common   |   32 | 4    |
 | Gastrointestinal disorders                           | Nausea                      | Very common   |   26 | 2*   |
 | Gastrointestinal disorders                           | Vomiting                    | Very common   |   16 | 1*   |
-| Gastrointestinal disorders                           | Abdominal pain a            | Very common   |   14 | 1    |
+| Gastrointestinal disorders                           | Abdominal pain a            | Very common   |   16 | 1    |
 | Gastrointestinal disorders                           | Pancreatitis a              | Common        |    1 | 1    |
-| Skin and subcutaneous tissue                         | Rash                        | Very common   |   13 | 1*   |
-| disorders                                            | Pruritus                    | Common        |    7 | < 1* |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal pain a,e    | Very common   |   37 | 4    |
-| Musculoskeletal and connective tissue disorders      | Arthralgia                  | Very common   |   14 | 1    |
-| Musculoskeletal and connective tissue disorders      | Muscle spasms               | Very common   |   14 | < 1* |
+| Skin and subcutaneous tissue disorders               | Rash                        | Very common   |   13 | 1*   |
+|                                                      | Pruritus                    | Common        |    7 | < 1* |
+| Musculoskeletal and connective tissue                | Musculoskeletal pain a,e    | Very common   |   37 | 4    |
+| Musculoskeletal and connective tissue                | Arthralgia                  | Very common   |   14 | 1    |
+| disorders                                            | Muscle spasms               | Very common   |   14 | < 1* |
 | General disorders and administration site conditions | Oedema peripheral a         | Very common   |   27 | 1    |
 | General disorders and administration site conditions | Fatigue                     | Very common   |   26 | 4    |
 | General disorders and administration site conditions | Pyrexia                     | Very common   |   23 | 2    |
 | General disorders and administration site conditions | Asthenia                    | Very common   |   21 | 2    |
 | General disorders and administration site conditions | Chills                      | Common        |    9 | < 1* |
+| Investigations                                       | Weight decreased            | Common        |    9 | 1*   |
 | Injury, poisoning and procedural complications       | Infusion-related reaction c | Very common   |   40 | 4    |
 
-* No grade 4.
+*
 
-a Indicates grouping of terms.
+No grade 4.
 
-b Post-marketing adverse reaction.
-
-c Infusion-related reaction includes terms determined by investigators to be related to infusion, see below.
-
+- a Indicates grouping of terms.
+- b Post-marketing adverse reaction.
+- c Infusion-related reaction includes terms determined by investigators to be related to infusion, see below.
 - d Incidence is based on a subset of patients who received at least one dose of study treatment on or after 01 February 2020 (the start of the COVID-19 pandemic) from studies MMY3003, MMY3006, MMY3008 and MMY3013, and all daratumumab treated patients from studies MMY3014, MMY3019, and SMM3001 (N=1177).
 - e Musculoskeletal pain includes back pain, flank pain, groin pain, musculoskeletal chest pain, musculoskeletal pain, musculoskeletal stiffness, myalgia, neck pain, non-cardiac chest pain, and pain in extremity.
 
@@ -532,9 +533,9 @@ Figure 2: Kaplan-Meier curve of OS in study MMY3008
 
 <!-- image -->
 
-No.atrisk
+No. at risk
 
-11 2 0 0
+3 33  2  2     1  1 359 11 2 0 D6 33 3 3  3 3 3 3 3  3 3 3 3 33 390 21 0 0
 
 Additional efficacy results from study MMY3008 are presented in table 7 below.
 
@@ -552,7 +553,7 @@ Table 7: Additional efficacy results from study MMY3008 a
 | p-value b                                | < 0.0001          |               |
 | VGPR or better (sCR + CR + VGPR)         | 292 (79.3%)       | 196 (53.1%)   |
 | p-value b                                | < 0.0001          |               |
-| MRDnegativity rate a,c n(%)              | 89 (24.2%)        | 27 (7.3%)     |
+| MRD negativity rate a,c n(%)             | 89 (24.2%)        | 27 (7.3%)     |
 | 95% CI (%)                               | (19.9%, 28.9%)    | (4.9%, 10.5%) |
 | Odds ratio with 95% CI d                 | 4.04 (2.55, 6.39) |               |
 | p-value e                                | < 0.0001          |               |
@@ -595,7 +596,7 @@ Additional efficacy results from study MMY3007 are presented in table 8 below.
 
 Table 8: Additional efficacy results from study MMY3007 a
 
-|                                          | D-VMP (n=350)     | VMP(n=356)     |
+|                                          | D-VMP (n=350)     | VMP (n=356)    |
 |------------------------------------------|-------------------|----------------|
 | Overall response (sCR+CR+VGPR+PR) [n(%)] | 318 (90.9)        | 263 (73.9)     |
 | p-value b                                | < 0.0001          |                |
@@ -603,7 +604,7 @@ Table 8: Additional efficacy results from study MMY3007 a
 | Complete response (CR) [n(%)]            | 86 (24.6)         | 62 (17.4)      |
 | Very good partial response (VGPR) [n(%)] | 100 (28.6)        | 90 (25.3)      |
 | Partial response (PR) [n(%)]             | 69 (19.7)         | 86 (24.2)      |
-| MRDnegativity rate (95% CI) c (%)        | 22.3 (18.0, 27.0) | 6.2 (3.9, 9.2) |
+| MRD negativity rate (95% CI) c (%)       | 22.3 (18.0, 27.0) | 6.2 (3.9, 9.2) |
 | Odds ratio with 95% CI d                 | 4.36 (2.64, 7.21) |                |
 | p-value e                                | < 0.0001          |                |
 
@@ -639,18 +640,18 @@ Efficacy was evaluated by the stringent complete response (sCR) rate at day 100 
 
 Table 9: Efficacy results from study MMY3006 a
 
-|                                                       | D-VTd (n=543)     | VTd (n=542)    | P value b   |
-|-------------------------------------------------------|-------------------|----------------|-------------|
-| Response assessment day 100 post-transplant           |                   |                |             |
-| Stringent complete response (sCR)                     | 157 (28.9%)       | 110 (20.3%)    | 0.0010      |
-| CR or better (sCR+CR)                                 | 211 (38.9%)       | 141 (26.0%)    | < 0.0001    |
-| Very good partial response or better (sCR+CR+VGPR)    | 453 (83.4%)       | 423 (78.0%)    |             |
-| MRDnegativity c, d n(%)                               | 346 (63.7%)       | 236 (43.5%)    | < 0.0001    |
-| 95% CI (%)                                            | (59.5%, 67.8%)    | (39.3%, 47.8%) |             |
-| Odds ratio with 95% CI e                              | 2.27 (1.78, 2.90) |                |             |
-| MRDnegativity in combination with CR or better c n(%) | 183 (33.7%)       | 108 (19.9%)    | < 0.0001    |
-| 95% CI (%)                                            | (29.7%, 37.9%)    | (16.6%, 23.5%) |             |
-| Odds ratio with 95% CI e                              | 2.06 (1.56, 2.72) |                |             |
+|                                                        | D-VTd (n=543)     | VTd (n=542)    | P value b   |
+|--------------------------------------------------------|-------------------|----------------|-------------|
+| Response assessment day 100 post-transplant            |                   |                |             |
+| Stringent complete response (sCR)                      | 157 (28.9%)       | 110 (20.3%)    | 0.0010      |
+| CR or better (sCR+CR)                                  | 211 (38.9%)       | 141 (26.0%)    | < 0.0001    |
+| Very good partial response or better (sCR+CR+VGPR)     | 453 (83.4%)       | 423 (78.0%)    |             |
+| MRD negativity c, d n(%)                               | 346 (63.7%)       | 236 (43.5%)    | < 0.0001    |
+| 95% CI (%)                                             | (59.5%, 67.8%)    | (39.3%, 47.8%) |             |
+| Odds ratio with 95% CI e                               | 2.27 (1.78, 2.90) |                |             |
+| MRD negativity in combination with CR or better c n(%) | 183 (33.7%)       | 108 (19.9%)    | < 0.0001    |
+| 95% CI (%)                                             | (29.7%, 37.9%)    | (16.6%, 23.5%) |             |
+| Odds ratio with 95% CI e                               | 2.06 (1.56, 2.72) |                |             |
 
 D-VTd=daratumumab-bortezomib-thalidomide-dexamethasone; VTd=bortezomib-thalidomide-dexamethasone; MRD=minimal residual disease; CI=confidence interval.
 
@@ -673,6 +674,8 @@ Figure 5: Kaplan-Meier curve of PFS in study MMY3006
 
 No. at risk
 
+D-VTd 543 524 507 454 268 259 252 244 239 233 224 216 203 164 121 90 67
+
 ## Relapsed/refractory multiple myeloma
 
 ## Monotherapy:
@@ -683,9 +686,7 @@ In study MMY2002, 106 patients with relapsed and refractory multiple myeloma rec
 
 Efficacy results of the pre-planned interim analysis based on Independent Review Committee (IRC) assessment are presented in table 10 below.
 
-34
-
-067
+VTd 542 522 499 433 261 250 238 220 206 186 169 156 142 106 80 59 34
 
 24
 
@@ -744,9 +745,9 @@ Figure 6: Kaplan-Meier curve of PFS in study MMY3003
 
 No. at risk
 
-Rd
+Rd 283 249 206 181 160 144 127 112 102 91 83 75 66 63 53 48 45 40 28 5 1 0
 
-D-Rd 28626624923822921520419518416815615114313613413112511576 1630
+D-Rd 286 266 249 238 229 215 204 195 184 168 156 151 143 136 134 131 125 115 76 16 3 0
 
 After a median follow-up of 80 months, DRd has shown an OS advantage over the Rd arm (HR=0.73; 95% CI: 0.58, 0.91; p=0.0044). The median OS was 67.6 months in the DRd arm and 51.8 months in the Rd arm.
 
@@ -756,9 +757,9 @@ Figure 7: Kaplan-Meier curve of OS in study MMY3003
 
 <!-- image -->
 
-No. at risk
+Rd 203118 1 16 1011411111141110
 
-Rd
+No. at risk
 
 D-Rd
 
@@ -776,7 +777,7 @@ Table 11: Additional efficacy results from study MMY3003
 | Partial response (PR)                         | 48 (17.1)          | 89 (32.2)       |
 | Median time to response [months (95% CI)]     | 1.0 (1.0, 1.1)     | 1.3 (1.1, 1.9)  |
 | Median duration of response [months (95% CI)] | NE (NE, NE)        | 17.4 (17.4, NE) |
-| MRDnegative rate (95% CI) b (%)               | 21.0 (16.4, 26.2)  | 2.8 (1.2, 5.5)  |
+| MRD negative rate (95% CI) b (%)              | 21.0 (16.4, 26.2)  | 2.8 (1.2, 5.5)  |
 | Odds ratio with 95% CI c                      | 9.31 (4.31, 20.09) |                 |
 | P-value d                                     | < 0.0001           |                 |
 
@@ -826,7 +827,7 @@ Table 12: Additional efficacy results from study MMY3004
 | Partial response (PR)                         | 57 (23.8)          | 80 (34.2)         |
 | Median time to response [months (range)]      | 0.9 (0.8, 1.4)     | 1.6 (1.5, 2.1)    |
 | Median duration of response [months (95% CI)] | NE (11.5, NE)      | 7.9 (6.7, 11.3)   |
-| MRDnegative rate (95% CI) b                   | 8.8% (5.6%, 13.0%) | 1.2% (0.3%, 3.5%) |
+| MRD negative rate (95% CI) b                  | 8.8% (5.6%, 13.0%) | 1.2% (0.3%, 3.5%) |
 | Odds ratio with 95% CI c                      | 9.04 (2.53, 32.21) |                   |
 | P-value d                                     | 0.0001             |                   |
 
@@ -1410,7 +1411,7 @@ DARZALEX has no or negligible influence on the ability to drive and use machines
 
 ## Summary of the safety profile
 
-The most frequent adverse reactions of any grade (≥ 20% patients) with daratumumab (either intravenous or subcutaneous formulations) when administered either as monotherapy or combination treatment were IRRs, fatigue, nausea, diarrhoea, constipation, pyrexia, cough, neutropenia, thrombocytopenia, anaemia, oedema peripheral, peripheral neuropathy, upper respiratory tract infection, musculoskeletal pain and COVID-19. Serious adverse reactions were pneumonia, bronchitis, upper respiratory tract infection, sepsis, pulmonary oedema, influenza, pyrexia, dehydration, diarrhoea, atrial fibrillation and syncope.
+The most frequent adverse reactions of any grade (≥ 20% patients) with daratumumab (either intravenous or subcutaneous formulations) when administered either as monotherapy or combination treatment were IRRs, fatigue, nausea, diarrhoea, constipation, pyrexia, cough, neutropenia, thrombocytopenia, anaemia, oedema peripheral, peripheral neuropathy, upper respiratory tract infection, musculoskeletal pain and COVID-19. Serious adverse reactions were pneumonia, bronchitis, upper respiratory tract infection, sepsis, pulmonary oedema, pyrexia, dehydration, diarrhoea, atrial fibrillation and syncope.
 
 The safety profile of the DARZALEX subcutaneous formulation was similar to that of intravenous formulation with the exception of a lower rate of IRRs. In the phase III study MMY3012, neutropenia was the only adverse reaction reported at ≥ 5% higher frequency for DARZALEX subcutaneous formulation compared to intravenous daratumumab (grade 3 or 4: 13% vs 8%, respectively).
 
@@ -1428,51 +1429,52 @@ Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/1
 
 Table 9: Adverse reactions in multiple myeloma, including smouldering multiple myeloma at high risk of developing multiple myeloma, and AL amyloidosis patients treated with intravenous daratumumab or subcutaneous daratumumab
 
-| System organ class                     | Adverse reaction                    | Frequency   | Incidence (%)   | Incidence (%)   |
-|----------------------------------------|-------------------------------------|-------------|-----------------|-----------------|
-|                                        |                                     |             | Any grade       | Grade 3-4       |
-| Infections and infestations            | Upper respiratory tract infection a | Very common | 46              | 3               |
-| Infections and infestations            | COVID-19 a,g                        |             | 23              | 6               |
-| Infections and infestations            | Pneumonia a                         |             | 19              | 11              |
-| Infections and infestations            | Bronchitis a                        |             | 14              | 1               |
-| Infections and infestations            | Urinary tract infection             | Common      | 7               | 1               |
-| Infections and infestations            | Sepsis a                            |             | 4               | 4               |
-| Infections and infestations            | Cytomegalovirus infection a         | Uncommon    | < 1             | < 1 #           |
-| Infections and infestations            | Hepatitis B Virus reactivation a    |             | < 1             | < 1             |
-| Blood and lymphatic system disorders   | Neutropenia a                       | Very common | 42              | 36              |
-| Blood and lymphatic system disorders   | Thrombocytopenia a                  |             | 30              | 18              |
-| Blood and lymphatic system disorders   | Anaemia a                           |             | 26              | 11              |
-| Blood and lymphatic system disorders   | Lymphopenia a                       |             | 12              | 10              |
-| Blood and lymphatic system disorders   | Leukopenia a                        |             | 11              | 6               |
-| Immune system                          | Hypogammaglobulinaemia a            | Common      | 3               | < 1 #           |
-| disorders                              | Anaphylactic reaction b             | Rare        | -               | -               |
-| Metabolism and nutrition disorders     | Hypokalaemia a                      | Very common | 10              | 3               |
-| Metabolism and nutrition disorders     | Decreased appetite                  |             | 10              | < 1             |
-| Metabolism and nutrition disorders     | Hyperglycaemia                      | Common      | 6               | 3               |
-| Metabolism and nutrition disorders     | Hypocalcaemia                       |             | 6               | 1               |
-| Metabolism and nutrition disorders     | Dehydration                         |             | 2               | 1 #             |
-| Psychiatric disorders                  | Insomnia                            | Very common | 17              | 1 #             |
-| Nervous system disorders               | Peripheral neuropathy               | Very common | 31              | 4               |
-| Nervous system disorders               | Headache                            |             | 11              | < 1 #           |
-| Nervous system disorders               | Dizziness                           | Common      | 9               | < 1 #           |
-| Nervous system disorders               | Paraesthesia                        |             | 9               | < 1             |
-| Nervous system disorders               | Syncope                             |             | 3               | 2 #             |
-| Cardiac disorders                      | Atrial fibrillation                 | Common      | 4               | 1               |
-| Vascular disorders                     | Hypertension a                      | Common      | 9               | 4               |
-| Respiratory, thoracic and mediastinal  | Cough a                             | Very common | 22              | < 1 #           |
-| Respiratory, thoracic and mediastinal  | Dyspnoea a                          |             | 18              | 2               |
-| disorders                              | Pulmonary oedema a                  | Common      | 1               | < 1             |
-| Gastrointestinal disorders             | Diarrhoea                           | Very common | 33              | 5               |
-| Gastrointestinal disorders             | Constipation                        |             | 28              | 1               |
-| Gastrointestinal disorders             | Nausea                              |             | 22              | 1 #             |
-| Gastrointestinal disorders             | Abdominal pain a                    |             | 14              | 1               |
-| Gastrointestinal disorders             | Vomiting                            |             | 13              | 1 #             |
-| Gastrointestinal disorders             | Pancreatitis a                      | Common      | 1               | < 1             |
-| Skin and subcutaneous tissue disorders | Rash                                | Very common | 12              | 1 #             |
-|                                        | Pruritus                            | Common      | 6               | < 1 #           |
-| Musculoskeletal and                    | Musculoskeletal pain a,h            | Very common | 35              | 3               |
-| connective tissue                      | Arthralgia                          |             | 14              | 1               |
-| disorders                              | Muscle spasms                       |             | 12              | < 1 #           |
+| System organ class                    | Adverse reaction                    | Frequency   | Incidence (%)   | Incidence (%)   |
+|---------------------------------------|-------------------------------------|-------------|-----------------|-----------------|
+|                                       |                                     |             | Any grade       | Grade 3-4       |
+| Infections and infestations           | Upper respiratory tract infection a | Very common | 46              | 3               |
+| Infections and infestations           | COVID-19 a,g                        |             | 23              | 6               |
+| Infections and infestations           | Pneumonia a                         |             | 19              | 11              |
+| Infections and infestations           | Bronchitis a                        |             | 14              | 1               |
+| Infections and infestations           | Urinary tract infection             | Common      | 7               | 1               |
+| Infections and infestations           | Sepsis a                            |             | 4               | 4               |
+| Infections and infestations           | Cytomegalovirus infection a         | Uncommon    | < 1             | < 1 #           |
+| Infections and infestations           | Hepatitis B Virus reactivation a    |             | < 1             | < 1             |
+| Blood and lymphatic system disorders  | Neutropenia a                       | Very common | 42              | 36              |
+| Blood and lymphatic system disorders  | Thrombocytopenia a                  |             | 30              | 18              |
+| Blood and lymphatic system disorders  | Anaemia a                           |             | 26              | 11              |
+| Blood and lymphatic system disorders  | Lymphopenia a                       |             | 12              | 10              |
+| Blood and lymphatic system disorders  | Leukopenia a                        |             | 11              | 6               |
+| Immune system disorders               | Hypogammaglobulinaemia a            | Common      | 3               | < 1 #           |
+| Immune system disorders               | Anaphylactic reaction b             | Rare        | -               | -               |
+| Metabolism and nutrition disorders    | Hypokalaemia a                      | Very common | 10              | 3               |
+| Metabolism and nutrition disorders    | Decreased appetite                  |             | 10              | < 1             |
+| Metabolism and nutrition disorders    | Hyperglycaemia                      | Common      | 6               | 3               |
+| Metabolism and nutrition disorders    | Hypocalcaemia                       |             | 6               | 1               |
+| Metabolism and nutrition disorders    | Dehydration                         |             | 2               | 1 #             |
+| Psychiatric disorders                 | Insomnia                            | Very common | 17              | 1 #             |
+| Nervous system disorders              | Peripheral neuropathy               | Very common | 31              | 4               |
+| Nervous system disorders              | Headache                            |             | 11              | < 1 #           |
+| Nervous system disorders              | Dizziness                           | Common      | 9               | < 1 #           |
+| Nervous system disorders              | Paraesthesia                        |             | 9               | < 1             |
+| Nervous system disorders              | Syncope                             |             | 3               | 2 #             |
+| Cardiac disorders                     | Atrial fibrillation                 | Common      | 4               | 1               |
+| Vascular disorders                    | Hypertension a                      | Common      | 9               | 4               |
+| Vascular disorders                    | Hypotension a                       |             | 7               | 1               |
+| Respiratory, thoracic and mediastinal | Cough a                             | Very common | 22              | < 1 #           |
+| Respiratory, thoracic and mediastinal | Dyspnoea a                          |             | 18              | 2               |
+| disorders                             | Pulmonary oedema a                  | Common      | 1               | < 1             |
+| Gastrointestinal disorders            | Diarrhoea                           | Very common | 33              | 5               |
+| Gastrointestinal disorders            | Constipation                        |             | 28              | 1               |
+| Gastrointestinal disorders            | Nausea                              |             | 22              | 1 #             |
+| Gastrointestinal disorders            | Abdominal pain a                    |             | 15              | 1               |
+| Gastrointestinal disorders            | Vomiting                            |             | 13              | 1 #             |
+| Gastrointestinal disorders            | Pancreatitis a                      | Common      | 1               | < 1             |
+| Skin and subcutaneous                 | Rash                                | Very common | 12              | 1 #             |
+| tissue                                | Pruritus                            | Common      | 6               | < 1 #           |
+| Musculoskeletal and connective tissue | Musculoskeletal pain a,h            | Very common | 35              | 3               |
+|                                       | Arthralgia                          |             | 14              | 1               |
+| disorders                             | Muscle spasms                       |             | 12              | < 1 #           |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1483,9 +1485,10 @@ Table 9: Adverse reactions in multiple myeloma, including smouldering multiple m
 | General disorders and administration site conditions   | Asthenia                     | Very common   |   19 | 2     |
 | General disorders and administration site conditions   | Injection site reactions d,e | Very common   |   10 | 0     |
 | General disorders and administration site conditions   | Chills                       | Common        |    8 | < 1 # |
+| Investigations                                         | Weight decreased             | Common        |    7 | < 1 # |
 | Injury, poisoning and procedural complications         | Infusion-related reactions c |               |      |       |
-|                                                        | Daratumumab intravenous f    | Very common   |   39 | 5     |
-|                                                        | Daratumumab subcutaneous e   | Common        |    9 | 1     |
+| Injury, poisoning and procedural complications         | Daratumumab intravenous f    | Very common   |   39 | 5     |
+| Injury, poisoning and procedural complications         | Daratumumab subcutaneous e   | Common        |    9 | 1     |
 
 - # No grade 4.
 - a Indicates a grouping of terms.
@@ -1658,6 +1661,8 @@ Figure 1: Kaplan-Meier curve of PFS in study MMY3014
 
 No. at risk
 
+93222 223222323232 22 2 2322323232 326 13 0 D-VRd 355 345 335 329 327 322 318 316 313 309 305 302 299 295 286 226 90 11 0
+
 Additional efficacy results from study MMY3014 are presented in table 11 below.
 
 Table 11: Efficacy results from study MMY3014 a
@@ -1673,13 +1678,9 @@ Table 11: Efficacy results from study MMY3014 a
 | CR or better (sCR+CR)             | 312 (87.9%)     | 248 (70.1%)    | 3.13 (2.11, 4.65)       |
 | 95% CI (%)                        | (84.0%, 91.1%)  | (65.0%, 74.8%) |                         |
 | P-value b                         |                 |                | < 0.0001                |
-| Overall MRDnegativity rate a,c    | 267 (75.2%)     | 168 (47.5%)    | 3.40 (2.47, 4.69)       |
+| Overall MRD negativity rate a,c   | 267 (75.2%)     | 168 (47.5%)    | 3.40 (2.47, 4.69)       |
 | 95% CI (%)                        | (70.4%, 79.6%)  | (42.2%, 52.8%) |                         |
 | P-value b                         |                 |                | < 0.0001                |
-
-Months
-
-0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1716,9 +1717,9 @@ Table 12: Efficacy results from the final PFS analysis of study MMY3019 a
 
 |                                           | D-VRd (n=197)     | VRd (n=198)   |
 |-------------------------------------------|-------------------|---------------|
-| Overall MRDnegativity rate b              | 120 (60.9%)       | 78 (39.4%)    |
+| Overall MRD negativity rate b             | 120 (60.9%)       | 78 (39.4%)    |
 | Odds ratio (95% CI) c                     | 2.37 (1.58, 3.55) |               |
-| Sustained MRDnegativity rate d            | 96 (48.7%)        | 52 (26.3%)    |
+| Sustained MRD negativity rate d           | 96 (48.7%)        | 52 (26.3%)    |
 | Odds ratio (95% CI) c                     | 2.63 (1.73, 4.00) |               |
 | Overall CR or better (sCR+CR)             | 160 (81.2%)       | 122 (61.6%)   |
 | Odds ratio (95% CI) c                     | 2.73 (1.71, 4.34) |               |
@@ -1762,7 +1763,9 @@ Table 13: Efficacy results from study MMY2040
 
 D-VMP=Daratumumab-bortezomib-melphalan-prednisone; D-Rd=Daratumumab-lenalidomide-dexamethasone; D-
 
-VRd=Daratumumab-bortezomib-lenalidomide-dexamethasone; Daratumumab=DARZALEX subcutaneous formulation; CI=confidence interval.
+VRd=Daratumumab-bortezomib-lenalidomide-dexamethasone; Daratumumab=DARZALEX subcutaneous formulation;
+
+CI=confidence interval.
 
 a Based on treated subjects.
 
@@ -1796,7 +1799,7 @@ Table 14: Efficacy results from study MMY3013 a
 | Complete response (CR)                   | 23 (15.2%)     | 4 (2.6%)     |
 | Very good partial response (VGPR)        | 40 (26.5%)     | 24 (15.7%)   |
 | Partial response (PR)                    | 27 (17.9%)     | 41 (26.8%)   |
-| MRDnegativity rate c n(%)                | 13 (8.7%)      | 3 (2.0%)     |
+| MRD negativity rate c n(%)               | 13 (8.7%)      | 3 (2.0%)     |
 | 95% CI (%)                               | (4.7%, 14.3%)  | (0.4%, 5.6%) |
 | P-value d                                | 0.0102         | 0.0102       |
 
@@ -1927,7 +1930,9 @@ Figure 8: Kaplan-Meier curve of OS in study MMY3008
 
 <!-- image -->
 
-No.atrisk
+No. at risk
+
+R 3321 3 1 1 1    35 11 2 0 D6 33 3 3  3 3 3 3 3  3 3 3 3 33 390 21 0 0
 
 Additional efficacy results from study MMY3008 are presented in table 17 below.
 
@@ -1945,12 +1950,10 @@ Table 17: Additional efficacy results from study MMY3008 a
 | p-value b                                | < 0.0001          |               |
 | VGPR or better (sCR + CR + VGPR)         | 292 (79.3%)       | 196 (53.1%)   |
 | p-value b                                | < 0.0001          |               |
-| MRDnegativity rate a,c n(%)              | 89 (24.2%)        | 27 (7.3%)     |
+| MRD negativity rate a,c n(%)             | 89 (24.2%)        | 27 (7.3%)     |
 | 95% CI (%)                               | (19.9%, 28.9%)    | (4.9%, 10.5%) |
 | Odds ratio with 95% CI d                 | 4.04 (2.55, 6.39) |               |
 | p-value e                                | < 0.0001          |               |
-
-2 0 0 0
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1990,7 +1993,7 @@ Additional efficacy results from study MMY3007 are presented in table 18 below.
 
 Table 18: Additional efficacy results from study MMY3007 a
 
-|                                          | D-VMP (n=350)     | VMP(n=356)     |
+|                                          | D-VMP (n=350)     | VMP (n=356)    |
 |------------------------------------------|-------------------|----------------|
 | Overall response (sCR+CR+VGPR+PR) [n(%)] | 318 (90.9)        | 263 (73.9)     |
 | p-value b                                | < 0.0001          |                |
@@ -1998,7 +2001,7 @@ Table 18: Additional efficacy results from study MMY3007 a
 | Complete response (CR) [n(%)]            | 86 (24.6)         | 62 (17.4)      |
 | Very good partial response (VGPR) [n(%)] | 100 (28.6)        | 90 (25.3)      |
 | Partial response (PR) [n(%)]             | 69 (19.7)         | 86 (24.2)      |
-| MRDnegativity rate (95% CI) c (%)        | 22.3 (18.0, 27.0) | 6.2 (3.9, 9.2) |
+| MRD negativity rate (95% CI) c (%)       | 22.3 (18.0, 27.0) | 6.2 (3.9, 9.2) |
 | Odds ratio with 95% CI d                 | 4.36 (2.64, 7.21) |                |
 | p-value e                                | < 0.0001          |                |
 
@@ -2038,17 +2041,17 @@ Table 19: Efficacy results from study MMY3006 a
 | Stringent complete response (sCR)                  | 157 (28.9%)       | 110 (20.3%)   | 0.0010      |
 | CR or better (sCR+CR)                              | 211 (38.9%)       | 141 (26.0%)   | < 0.0001    |
 | Very good partial response or better (sCR+CR+VGPR) | 453 (83.4%)       | 423 (78.0%)   |             |
-| MRDnegativity c, d n(%)                            | 346 (63.7%)       | 236 (43.5%)   | < 0.0001    |
+| MRD negativity c, d n(%)                           | 346 (63.7%)       | 236 (43.5%)   | < 0.0001    |
 | 95% CI (%)                                         |                   | (39.3%,       |             |
 |                                                    | (59.5%, 67.8%)    | 47.8%)        |             |
 | Odds ratio with 95% CI e                           | 2.27 (1.78, 2.90) |               |             |
 
 <div style=\"page-break-after: always\"></div>
 
-| MRDnegativity in combination with CR or better c n(%)   | 183 (33.7%)       | 108 (19.9%)    | < 0.0001   |
-|---------------------------------------------------------|-------------------|----------------|------------|
-| 95% CI (%)                                              | (29.7%, 37.9%)    | (16.6%, 23.5%) |            |
-| Odds ratio with 95% CI e                                | 2.06 (1.56, 2.72) |                |            |
+| MRD negativity in combination with CR or better c n(%)   | 183 (33.7%)       | 108 (19.9%)    | < 0.0001   |
+|----------------------------------------------------------|-------------------|----------------|------------|
+| 95% CI (%)                                               | (29.7%, 37.9%)    | (16.6%, 23.5%) |            |
+| Odds ratio with 95% CI e                                 | 2.06 (1.56, 2.72) |                |            |
 
 D-VTd=daratumumab-bortezomib-thalidomide-dexamethasone; VTd=bortezomib-thalidomide-dexamethasone; MRD=minimal residual disease; CI=confidence interval.
 
@@ -2066,13 +2069,19 @@ Figure 11: Kaplan-Meier curve of PFS in study MMY3006
 
 ## No. at risk
 
+D-VTd 543 524 507 454 268 259 252 244 239 233 224 216 203 164 121 90 67
+
 ## Relapsed/refractory multiple myeloma
 
 ## Monotherapy:
 
 The clinical efficacy and safety of intravenous daratumumab monotherapy for the treatment of adult patients with relapsed and refractory multiple myeloma whose prior therapy included a proteasome
 
-934
+4 15 18 10 14 1 1 1 1 12 1 1 1 1 14 12 14 14
+
+24
+
+45
 
 13
 
@@ -2137,9 +2146,9 @@ Figure 12: Kaplan-Meier curve of PFS in study MMY3003
 
 No. at risk
 
-Rd 28324920618116014412711210291837566635348454028510
+Rd 23 11  1 11 1 1 1 0
 
-D-Rd
+D-Rd 286 266 249 238 229 215 204 195 184 168 156 151 143 136 134 131 125 115 76 16 3 0
 
 After a median follow-up of 80 months, DRd has shown an OS advantage over the Rd arm (HR=0.73; 95% CI: 0.58, 0.91; p=0.0044). The median OS was 67.6 months in the DRd arm and 51.8 months in the Rd arm.
 
@@ -2149,9 +2158,9 @@ Figure 13: Kaplan-Meier curve of OS in study MMY3003
 
 <!-- image -->
 
-No. at risk
+Rd 203118 1 16 1011411111141110
 
-Rd
+No. at risk
 
 D-Rd
 
@@ -2169,7 +2178,7 @@ Table 21: Additional efficacy results from study MMY3003
 | Partial response (PR)                         | 48 (17.1)          | 89 (32.2)       |
 | Median Time to Response [months (95% CI)]     | 1.0 (1.0, 1.1)     | 1.3 (1.1, 1.9)  |
 | Median Duration of Response [months (95% CI)] | NE (NE, NE)        | 17.4 (17.4, NE) |
-| MRDnegative rate (95% CI) b (%)               | 21.0 (16.4, 26.2)  | 2.8 (1.2, 5.5)  |
+| MRD negative rate (95% CI) b (%)              | 21.0 (16.4, 26.2)  | 2.8 (1.2, 5.5)  |
 | Odds ratio with 95% CI c                      | 9.31 (4.31, 20.09) |                 |
 | P-value d                                     | < 0.0001           |                 |
 
@@ -2204,13 +2213,13 @@ Figure 15: Kaplan-Meier curve of OS in study MMY3004
 
 <!-- image -->
 
-No. at risk
-
 Vd
+
+No. at risk
 
 D-Vd
 
-251231225211207201189182172159154150144138132128120113109107103100 96 88 54 24 9
+251 231 225 211 207 201 189 182 172 159 154 150 144 138 132 128 120 113 109 107 103 10096 88 54 24
 
 Additional efficacy results from study MMY3004 are presented in table 22 below.
 
@@ -2226,7 +2235,7 @@ Table 22: Additional efficacy results from study MMY3004
 | Partial response (PR)                         | 57 (23.8)          | 80 (34.2)         |
 | Median time to response [months (range)]      | 0.9 (0.8, 1.4)     | 1.6 (1.5, 2.1)    |
 | Median duration of response [months (95% CI)] | NE (11.5, NE)      | 7.9 (6.7, 11.3)   |
-| MRDnegative rate (95% CI) b                   | 8.8% (5.6%, 13.0%) | 1.2% (0.3%, 3.5%) |
+| MRD negative rate (95% CI) b                  | 8.8% (5.6%, 13.0%) | 1.2% (0.3%, 3.5%) |
 | Odds ratio with 95% CI c                      | 9.04 (2.53, 32.21) |                   |
 | P-value d                                     | 0.0001             |                   |
 
@@ -2244,9 +2253,13 @@ d p-value is from Fisher's exact test.
 
 Daratumumab as a large protein has a low likelihood of direct ion channel interactions. The effect of daratumumab on the QTc interval was evaluated in an open-label study for 83 patients (Study
 
+247 219 206 192 184 172 159 151 144 138 129 121 113 110 104 97 93 84 78 73 68 67 63 54 34 13
+
 0
 
 0
+
+2
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2646,7 +2659,9 @@ DARZALEX 20 mg/mL concentrate for solution for infusion daratumumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each vial of 5 mL concentrate contains 100 mg of daratumumab (20 mg/mL). Each vial of 20 mL concentrate contains 400 mg of daratumumab (20 mg/mL).
+Each vial of 5 mL concentrate contains 100 mg of daratumumab (20 mg/mL).
+
+Each vial of 20 mL concentrate contains 400 mg of daratumumab (20 mg/mL).
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -2938,15 +2953,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 DARZALEX 1800 mg solution for injection daratumumab Subcutaneous use SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2958,8 +2975,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 15 mL
 
@@ -3201,7 +3218,7 @@ Very common (may affect more than 1 in 10 people):
 -  unusual feeling in the skin (such as a tingling or crawling feeling)
 -  COVID-19.
 
-Common (may affect up to 1 in 10 people):
+## Common (may affect up to 1 in 10 people):
 
 -  irregular heart beat (atrial fibrillation)
 -  build up of fluid in the lungs making you short of breath
@@ -3210,6 +3227,8 @@ Common (may affect up to 1 in 10 people):
 -  dehydration
 -  fainting
 -  chills
+-  low blood pressure
+-  weight loss
 -  high level of sugar in the blood
 -  low level of calcium in the blood
 -  low level of antibodies called 'immunoglobulins' in the blood which help fight infections (hypogammaglobulinaemia)
@@ -3235,9 +3254,9 @@ Do not use this medicine after the expiry date which is stated on the carton and
 
 Store in a refrigerator (2 °C-8 °C). Do not freeze.
 
-Store in the original package in order to protect from light.
-
 <div style=\"page-break-after: always\"></div>
+
+Store in the original package in order to protect from light.
 
 Do not throw away any medicines via wastewater or household waste. Your healthcare professional will throw away any medicines that are no longer being used. These measures will help protect the environment.
 
@@ -3264,7 +3283,7 @@ Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 Janssen Biologics B.V. Einsteinweg 101 NL-2333 CB Leiden The Netherlands
 
-## Janssen Pharmaceutica NV
+Janssen Pharmaceutica NV
 
 Turnhoutseweg 30 B-2340 Beerse Belgium
 
@@ -3272,13 +3291,13 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: 0800 93 377
+
+info\\_belux@its.jnj.com
 
 ## Lietuva
 
-UAB \"JOHNSON &amp; JOHNSON\"
-
-Tel: +370 5 278 68 88 lt@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## България
 
@@ -3286,7 +3305,11 @@ Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV
+
+Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## Česká republika
 
@@ -3294,21 +3317,13 @@ Janssen-Cilag s.r.o.
 
 Tel: +420 227 012 227
 
-## Magyarország
-
-Janssen-Cilag Kft. Tel.: +36 1 884 2858
-
-janssenhu@its.jnj.com
-
-<div style=\"page-break-after: always\"></div>
-
 ## Danmark
 
 Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
 ## Deutschland
 
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
 ## Eesti
 
@@ -3340,11 +3355,15 @@ Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
 
 ## Italia
 
-Janssen-Cilag SpA Tel: 800.688.777 / +39 02 2510 1 janssenita@its.jnj.com
+Janssen-Cilag SpA
 
-## Κύπρος
+Tel: 800.688.777 / +39 02 2510 1
 
-Βαρνάβας Χατζηπαναγής Λτδ Τηλ: +357 22 207 700
+janssenita@its.jnj.com
+
+## Magyarország
+
+Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
 
 ## Malta
 
@@ -3354,7 +3373,7 @@ Tel: +356 2397 6000
 
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
 ## Norge
 
@@ -3386,13 +3405,15 @@ Johnson &amp; Johnson, s.r.o. Tel: +421 232 408 400
 
 ## Suomi/Finland
 
-Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
+Puh/Tel: +358 207 531 300
 
-## Sverige
-
-Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
+Janssen-Cilag Oy jacfi@its.jnj.com
 
 <div style=\"page-break-after: always\"></div>
+
+## Κύπρος
+
+Βαρνάβας Χατζηπαναγής Λτδ Τηλ: +357 22 207 700
 
 Latvija UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā Tel: +371 678 93561 lv@its.jnj.com
 
@@ -3425,6 +3446,8 @@ Prepare the solution for infusion using aseptic technique as follows:
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+Sverige Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com
 
 ## Package leaflet: Information for the patient
 
@@ -3673,7 +3696,9 @@ Very common (may affect more than 1 in 10 people):
 -  itching
 -  unusual feeling in the skin (such as a tingling or crawling feeling)
 -  inflamed pancreas
--  high blood pressure.
+-  high blood pressure
+-  low blood pressure
+-  weight loss.
 
 ## Uncommon (may affect up to 1 in 100 people):
 
@@ -3719,15 +3744,11 @@ Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
 Janssen Biologics B.V. Einsteinweg 101 NL-2333 CB Leiden The Netherlands
 
-Janssen Pharmaceutica NV Turnhoutseweg 30 B-2340 Beerse Belgium
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Janssen Pharmaceutica NV Turnhoutseweg 30 B-2340 Beerse Belgium For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com Lietuva UAB 'JOHNSON &amp; JOHNSON' Tel: +370 5 278 68 88 lt@its.jnj.com
-
-<div style=\"page-break-after: always\"></div>
+Janssen-Cilag NV Tel/Tél: 0800 93 377 info\\_belux@its.jnj.com
 
 ## България
 
@@ -3735,9 +3756,7 @@ Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com Lietuva UAB 'JO
 
 ## Česká republika
 
-Janssen-Cilag s.r.o.
-
-Tel: +420 227 012 227
+Janssen-Cilag s.r.o. Tel: +420 227 012 227
 
 ## Danmark
 
@@ -3745,11 +3764,13 @@ Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
 ## Deutschland
 
-Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
+Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 medinfo-de@its.jnj.com
 
 ## Eesti
 
-UAB 'JOHNSON &amp; JOHNSON' Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
+UAB 'JOHNSON &amp; JOHNSON' Eesti filiaal Tel: +372 617 7410
+
+ee@its.jnj.com
 
 ## Ελλάδα
 
@@ -3757,7 +3778,9 @@ Janssen-Cilag Φαρμακευτική Μονοπρόσωπη Α.Ε.Β.Ε. Tηλ
 
 ## España
 
-Janssen-Cilag, S.A. Tel: +34 91 722 81 00 contacto@its.jnj.com
+Janssen-Cilag, S.A. Tel: +34 91 722 81 00
+
+contacto@its.jnj.com
 
 ## France
 
@@ -3767,17 +3790,17 @@ Janssen-Cilag Tél: 0 800 25 50 75 / +33 1 55 00 40 03 medisource@its.jnj.com
 
 Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
 
-## Ireland
+<div style=\"page-break-after: always\"></div>
 
-Janssen Sciences Ireland UC Tel: 1 800 709 122 medinfo@its.jnj.com
+## Lietuva
 
-## Ísland
+UAB 'JOHNSON &amp; JOHNSON'
 
-Janssen-Cilag AB c/o Vistor ehf. Sími: +354 535 7000 janssen@vistor.is
+Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tél/Tel: 800 29 504 info\\_belux@its.jnj.com
 
 ## Magyarország
 
@@ -3791,7 +3814,7 @@ Tel: +356 2397 6000
 
 ## Nederland
 
-Janssen-Cilag B.V. Tel: +31 76 711 1111 janssen@jacnl.jnj.com
+Janssen-Cilag B.V. Tel: 0800 242 42 42 info\\_nl@its.jnj.com
 
 ## Norge
 
@@ -3813,15 +3836,21 @@ Janssen-Cilag Farmacêutica, Lda. Tel: +351 214 368 600
 
 Johnson &amp; Johnson România SRL Tel: +40 21 207 1800
 
-## Slovenija
-
-Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
-
-## Slovenská republika
-
-Johnson &amp; Johnson, s.r.o. Tel: +421 232 408 400
-
 <div style=\"page-break-after: always\"></div>
+
+## Ireland
+
+Janssen Sciences Ireland UC Tel: 1 800 709 122
+
+medinfo@its.jnj.com
+
+## Ísland
+
+Janssen-Cilag AB c/o Vistor ehf.
+
+Sími: +354 535 7000
+
+janssen@vistor.is
 
 ## Italia
 
@@ -3841,7 +3870,9 @@ janssenita@its.jnj.com
 
 UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
 
-Tel: +371 678 93561 lv@its.jnj.com
+Tel: +371 678 93561
+
+lv@its.jnj.com
 
 ## This leaflet was last revised in
 
@@ -3857,23 +3888,38 @@ DARZALEX solution for subcutaneous injection should be administered by a healthc
 
 To prevent medication errors, it is important to check the vial labels to ensure that the appropriate formulation (intravenous or subcutaneous formulation) and dose is being given to the patient as prescribed. DARZALEX solution for injection should be given by subcutaneous injection only, using the dose specified. DARZALEX subcutaneous formulation is not intended for intravenous administration.
 
-## DARZALEX solution for subcutaneous injection is for single use only and is ready to use.
+DARZALEX solution for subcutaneous injection is for single use only and is ready to use.
 
 -  DARZALEX solution for subcutaneous injection is compatible with polypropylene or polyethylene syringe material; polypropylene, polyethylene, or polyvinyl chloride (PVC) subcutaneous infusion sets; and stainless steel transfer and injection needles.
 -  DARZALEX solution for subcutaneous injection should be a clear to opalescent and colourless to yellow solution. Do not use if opaque particles, discolouration or other foreign particles are present.
 -  Remove the DARZALEX solution for subcutaneous injection vial from refrigerated storage (2 °C - 8 °C) and equilibrate to ambient temperature (15 °C-30 °C). The unpunctured vial may be stored at ambient temperature and ambient light for a maximum of 24 hours in the original carton to protect from light. Keep out of direct sunlight. Do not shake.
--  Prepare the dosing syringe in controlled and validated aseptic conditions. Withdraw 15 mL from the vial into a syringe using an 18G - 22G transfer needle with a regular bevel to minimise the risk of stopper coring. Insert the needle into the vial at a 90°angle within the ring of the stopper and minimise the number of punctures to prevent fragmentation of the stopper. Inspect the content of the syringe to ensure the absence of particulate matter, discolouration or other foreign particles.
+-  Prepare the dosing syringe in controlled and validated aseptic conditions. Withdraw 15 mL from the vial into a syringe using an 18G - 22G transfer needle with a regular bevel to minimise the
+
+## Slovenija
+
+Johnson &amp; Johnson d.o.o. Tel: +386 1 401 18 00 JNJ-SI-safety@its.jnj.com
+
+## Slovenská republika
+
+Johnson &amp; Johnson, s.r.o.
+
+Tel: +421 232 408 400
+
+## Suomi/Finland
+
+Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
+
+## Sverige
+
+Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com risk of stopper coring. Insert the needle into the vial at a 90°angle within the ring of the stopper and minimise the number of punctures to prevent fragmentation of the stopper. Inspect the content of the syringe to ensure the absence of particulate matter, discolouration or other foreign particles.
+
+<div style=\"page-break-after: always\"></div>
+
 -  To avoid needle clogging, attach the hypodermic injection needle or subcutaneous infusion set to the syringe immediately prior to injection.
 
 ## Storage of prepared syringe
 
--  If the syringe containing DARZALEX is not used immediately, store the solution of DARZALEX for up to 24 hours refrigerated followed by up to 12 hours at 15 °C-25 °C and
-
-Suomi/Finland Janssen-Cilag Oy Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
-
-Sverige Janssen-Cilag AB Tfn: +46 8 626 50 00 jacse@its.jnj.com ambient light. If stored in the refrigerator, allow the solution to reach ambient temperature before administration.
-
-<div style=\"page-break-after: always\"></div>
+-  If the syringe containing DARZALEX is not used immediately, store the solution of DARZALEX for up to 24 hours refrigerated followed by up to 12 hours at 15 °C-25 °C and ambient light. If stored in the refrigerator, allow the solution to reach ambient temperature before administration.
 
 ## Administration
 
@@ -4013,6 +4059,8 @@ Do not place vial adapter on at an angle or liquid may leak upon transfer to the
 <!-- image -->
 
 <!-- image -->
+
+11
 
 <!-- image -->
 

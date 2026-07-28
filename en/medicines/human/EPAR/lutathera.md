@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lutathera.html
 document_name: lutathera.html
 version: success
-processing_time: 0.1746793
-conversion_datetime: 2026-07-28 12:35:23.279814
+processing_time: 0.1710576
+conversion_datetime: 2026-07-28 12:58:12.082891
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

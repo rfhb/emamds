@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-18 11:23:29
-document_pages: 40
+document_datetime: 2026-07-20 14:36:50
+document_pages: 41
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pluvicto-epar-product-information_en.pdf
 document_name: pluvicto-epar-product-information_en.pdf
 version: success
-processing_time: 24.4242715
-conversion_datetime: 2026-02-21 13:15:15.838458
+processing_time: 24.1932868
+conversion_datetime: 2026-07-28 13:44:59.720158
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -94,26 +94,26 @@ Recommended dose modifications of Pluvicto for adverse reactions are provided in
 
 Table 1 Recommended dose modifications of Pluvicto for adverse reactions
 
-| Adverse reaction                                                                   | Severity a                                                                                                                                                                     | Dose modification                                                                                                                                                                                                                                                                                                                                  |
-|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Dry mouth                                                                          | Grade 3                                                                                                                                                                        | ReducePluvicto dose by 20% to 5 900 MBq.                                                                                                                                                                                                                                                                                                           |
-| Gastrointestinal toxicity                                                          | Grade ≥3 (not amenable to medical intervention)                                                                                                                                | Withhold Pluvicto until improvement to grade 2 or baseline. ReducePluvicto dose by 20% to 5 900 MBq.                                                                                                                                                                                                                                               |
-| Myelosuppresion (anaemia, thrombocytopenia, leukopenia, neutropenia, pancytopenia) | Grade 2                                                                                                                                                                        | Withhold Pluvicto until improvement to grade 1 or baseline. Manage as deemed appropriate. The use of growth factors is permitted but should be discontinued once improved to grade 1 or baseline. Checking haematinic levels (iron, B12 and folate) and providing supplementation is advocated. Transfusions may be given as clinically indicated. |
-| Myelosuppresion (anaemia, thrombocytopenia, leukopenia, neutropenia, pancytopenia) | Grade ≥3                                                                                                                                                                       | Withhold Pluvicto until improvement to grade 1 or baseline. Reduce Pluvicto dose by 20% to 5 900 MBq.                                                                                                                                                                                                                                              |
-| Renal toxicity                                                                     | Defined as: • Confirmed serum creatinine increase (grade ≥2) • Confirmed CLcr <50 mL/min; calculate using Cockcroft-Gault with actual body weight                              | Withhold Pluvicto until improvement.                                                                                                                                                                                                                                                                                                               |
-| Renal toxicity                                                                     | Defined as: • Confirmed ≥40% increase from baseline serum creatinine and • Confirmed >40% decrease from baseline CLcr; calculate using Cockcroft-Gault with actual body weight | Withhold Pluvicto until improvement or return to baseline. Reduce Pluvicto dose by 20% to 5 900 MBq.                                                                                                                                                                                                                                               |
-| Renal toxicity                                                                     | Recurrent renal toxicity (grade ≥3)                                                                                                                                            | Permanently discontinue Pluvicto.                                                                                                                                                                                                                                                                                                                  |
-| Spinal cord compression                                                            | Any                                                                                                                                                                            | Withhold Pluvicto until the compression has been adequately treated and any neurological sequela have stabilised and ECOG performance status has stabilised.                                                                                                                                                                                       |
-| Fracture in weight-bearing bones                                                   | Any                                                                                                                                                                            | Withhold Pluvicto until the fracture has been adequately stabilised/treated and ECOG performance status has stabilised.                                                                                                                                                                                                                            |
-| Fatigue                                                                            | Grade ≥3                                                                                                                                                                       | Withhold Pluvicto until improvement to Grade 2 or baseline.                                                                                                                                                                                                                                                                                        |
-| Electrolyte or metabolic abnormalities                                             | Grade ≥2                                                                                                                                                                       | Withhold Pluvicto until improvement to Grade 1 or baseline.                                                                                                                                                                                                                                                                                        |
+| Adverse reaction                                                                   | Severity a                                                                                                                                        | Dose modification                                                                                                                                                                                                                                                                                                                                  |
+|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dry mouth                                                                          | Grade 3                                                                                                                                           | Reduce Pluvicto dose by 20% to 5 900 MBq.                                                                                                                                                                                                                                                                                                          |
+| Gastrointestinal toxicity                                                          | Grade ≥3 (not amenable to medical intervention)                                                                                                   | Withhold Pluvicto until improvement to grade 2 or baseline. Reduce Pluvicto dose by 20% to 5 900 MBq.                                                                                                                                                                                                                                              |
+| Myelosuppresion (anaemia, thrombocytopenia, leukopenia, neutropenia, pancytopenia) | Grade 2                                                                                                                                           | Withhold Pluvicto until improvement to grade 1 or baseline. Manage as deemed appropriate. The use of growth factors is permitted but should be discontinued once improved to grade 1 or baseline. Checking haematinic levels (iron, B12 and folate) and providing supplementation is advocated. Transfusions may be given as clinically indicated. |
+| Myelosuppresion (anaemia, thrombocytopenia, leukopenia, neutropenia, pancytopenia) | Grade ≥3                                                                                                                                          | Withhold Pluvicto until improvement to grade 1 or baseline. Reduce Pluvicto dose by 20% to 5 900 MBq.                                                                                                                                                                                                                                              |
+| Renal toxicity                                                                     | Defined as: • Confirmed serum creatinine increase (grade ≥2) • Confirmed CLcr <50 mL/min; calculate using Cockcroft-Gault with actual body weight | Withhold Pluvicto until improvement.                                                                                                                                                                                                                                                                                                               |
+| Renal toxicity                                                                     | Defined as: • Confirmed ≥40% increase from baseline serum creatinine and • Confirmed >40% decrease from baseline CLcr; calculate using            | Withhold Pluvicto until improvement or return to baseline. Reduce Pluvicto dose by 20% to 5 900 MBq.                                                                                                                                                                                                                                               |
+| Renal toxicity                                                                     | Recurrent renal toxicity (grade ≥3)                                                                                                               | Permanently discontinue Pluvicto.                                                                                                                                                                                                                                                                                                                  |
+| Spinal cord compression                                                            | Any                                                                                                                                               | Withhold Pluvicto until the compression has been adequately treated and any neurological sequela have stabilised and ECOG performance status has stabilised.                                                                                                                                                                                       |
+| Fracture in weight-bearing bones                                                   | Any                                                                                                                                               | Withhold Pluvicto until the fracture has been adequately stabilised/treated and ECOG performance status has stabilised.                                                                                                                                                                                                                            |
+| Fatigue                                                                            | Grade ≥3                                                                                                                                          | Withhold Pluvicto until improvement to Grade 2 or baseline.                                                                                                                                                                                                                                                                                        |
+| Electrolyte or metabolic abnormalities                                             | Grade ≥2                                                                                                                                          | Withhold Pluvicto until improvement to Grade 1 or baseline.                                                                                                                                                                                                                                                                                        |
+| Non-haematological toxicity (clinically significant, not otherwise stated)         | Grade ≥2                                                                                                                                          | Withhold Pluvicto until improvement to Grade 1 or baseline.                                                                                                                                                                                                                                                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-| Non-haematological toxicity (clinically significant, not otherwise stated)                                                                                                                                                                                                                                                                                                                 | Grade ≥2                                                                                                                                                                                                                                                                                                                                                                                   | Withhold Pluvicto until improvement to Grade 1 or baseline.                                                                                                                                                                                                                                                                                                                                |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AST or ALT elevation                                                                                                                                                                                                                                                                                                                                                                       | AST or ALT >5 times ULN in the absence of liver metastases                                                                                                                                                                                                                                                                                                                                 | Permanently discontinue Pluvicto.                                                                                                                                                                                                                                                                                                                                                          |
-| Abbreviations: CLcr, creatinine clearance; ECOG, Eastern Cooperative Oncology Group; AST, aspartate aminotransferase; ALT, alanine aminotransferase; ULN, upper limit of normal. Grading according to most current Common Terminology Criteria for Adverse Events (CTCAE). a The same thresholds are also applicable to baseline values at the time of treatment initiation with Pluvicto. | Abbreviations: CLcr, creatinine clearance; ECOG, Eastern Cooperative Oncology Group; AST, aspartate aminotransferase; ALT, alanine aminotransferase; ULN, upper limit of normal. Grading according to most current Common Terminology Criteria for Adverse Events (CTCAE). a The same thresholds are also applicable to baseline values at the time of treatment initiation with Pluvicto. | Abbreviations: CLcr, creatinine clearance; ECOG, Eastern Cooperative Oncology Group; AST, aspartate aminotransferase; ALT, alanine aminotransferase; ULN, upper limit of normal. Grading according to most current Common Terminology Criteria for Adverse Events (CTCAE). a The same thresholds are also applicable to baseline values at the time of treatment initiation with Pluvicto. |
+| AST or ALT elevation                                                                                                                                                                                                                                                       | AST or ALT >5 times ULN in the absence of liver metastases                                                                                                                                                                                                                 | Permanently discontinue Pluvicto.                                                                                                                                                                                                                                          |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Abbreviations: CLcr, creatinine clearance; ECOG, Eastern Cooperative Oncology Group; AST, aspartate aminotransferase; ALT, alanine aminotransferase; ULN, upper limit of normal. Grading according to most current Common Terminology Criteria for Adverse Events (CTCAE). | Abbreviations: CLcr, creatinine clearance; ECOG, Eastern Cooperative Oncology Group; AST, aspartate aminotransferase; ALT, alanine aminotransferase; ULN, upper limit of normal. Grading according to most current Common Terminology Criteria for Adverse Events (CTCAE). | Abbreviations: CLcr, creatinine clearance; ECOG, Eastern Cooperative Oncology Group; AST, aspartate aminotransferase; ALT, alanine aminotransferase; ULN, upper limit of normal. Grading according to most current Common Terminology Criteria for Adverse Events (CTCAE). |
 
 ## Special populations
 
@@ -147,11 +147,11 @@ The syringe method or the peristaltic pump method should be used when administer
 
 Prior to administration, the intravenous catheter used exclusively for Pluvicto administration should be flushed with ≥10 mL of sterile sodium chloride 9 mg/mL (0.9%) solution for injection to ensure patency and to minimise the risk of extravasation. Cases of extravasation should be managed as per institutional guidelines. Patients should be advised to remain well hydrated and to urinate frequently before and after administration of Pluvicto (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 For instructions on the method of preparation and intravenous methods of administration, see section 12.
 
 For patient preparation, see section 4.4.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.3 Contraindications
 
@@ -189,13 +189,13 @@ In the VISION study, myelosuppression, including fatal cases, occurred more freq
 
 Haematology laboratory tests, including haemoglobin, white blood cell count, absolute neutrophil count and platelet count, should be performed before and during treatment with Pluvicto. Pluvicto should be withheld, dose reduced or permanently discontinued and patients should be clinically managed as deemed appropriate based on the severity of myelosuppression (see section 4.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Renal toxicity
 
 In the VISION study, renal toxicity occurred more frequently in patients who received Pluvicto plus BSoC compared to patients who received BSoC alone (see section 4.8).
 
 Before and after administration of Pluvicto, patients should be encouraged to increase oral fluids and urged to void as often as possible, especially after high activities, e.g. for radionuclide therapy. Kidney function laboratory tests, including serum creatinine and calculated CLcr, should be performed before and during treatment with Pluvicto. Pluvicto should be withheld, dose reduced or permanently discontinued based on the severity of renal toxicity (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Renal/Hepatic impairment
 
@@ -223,8 +223,6 @@ Precautions with respect to environmental hazard see section 6.6.
 
 No clinical drug interaction studies were performed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Contraception in males
@@ -234,6 +232,8 @@ Because of potential effects on spermatogenesis associated with radiations of lu
 ## Pregnancy
 
 Pluvicto is not indicated for use in females. No animal studies using lutetium ( 177 Lu) vipivotide tetraxetan have been conducted to evaluate its effect on female reproduction and embryo-foetal development. However, all radioactive emissions, including those from Pluvicto, can cause foetal harm when administered to a pregnant woman.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Breast-feeding
 
@@ -257,11 +257,11 @@ The most common adverse reactions include: fatigue (48.0%), dry mouth (39.3%), n
 
 At the time of VISION final analysis, after a median follow-up duration of 14.2 months (range: 0.6 to 60.9 months), the overall safety profile remained consistent with that previously reported.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tabulated list of adverse reactions
 
 Adverse reactions (Table 2) are listed by MedDRA system organ class. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. In addition, the corresponding frequency category for each adverse reaction is based on the following convention (CIOMS III): very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000).
+
+<div style=\"page-break-after: always\"></div>
 
 Table 2 Adverse reactions occurring at a higher incidence in patients who received Pluvicto plus BSoC compared to BSoC alone in VISION a
 
@@ -401,7 +401,7 @@ Table 3 Efficacy results in VISION
 | Overall survival (OS) a                           | N=551                | N=280             |
 | Deaths, n (%)                                     | 343 (62.3%)          | 187 (66.8%)       |
 | Median, months (95% CI) b                         | 15.3 (14.2; 16.9)    | 11.3 (9.8; 13.5)  |
-| Hazard ratio(95% CI) c                            | 0.62 (0.52; 0.74)    | 0.62 (0.52; 0.74) |
+| Hazard ratio (95% CI) c                           | 0.62 (0.52; 0.74)    | 0.62 (0.52; 0.74) |
 | P-value d                                         | <0.001               | <0.001            |
 | Radiographic progression-free survival (rPFS) e,f | N=385                | N=196             |
 | Events (progression or death), n (%)              | 254 (66.0%)          | 93 (47.4%)        |
@@ -473,11 +473,11 @@ Pluvicto is administered intravenously and is immediately and completely bioavai
 
 The geometric mean blood exposure (area under the curve [AUCinf]) for lutetium ( 177 Lu) vipivotide tetraxetan at the recommended dose is 52.3 ng.h/mL (geometric mean coefficient of variation [CV] 31.4%). The geometric mean maximum blood concentration (Cmax) for lutetium ( 177 Lu) vipivotide tetraxetan at the recommended dose is 6.58 ng/mL (CV 43.5%).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Distribution
 
 The geometric mean volume of distribution (Vz) for lutetium ( 177 Lu) vipivotide tetraxetan is 123 L (CV 78.1%).
-
-<div style=\"page-break-after: always\"></div>
 
 Vipivotide tetraxetan and non-radioactive lutetium ( 175 Lu) vipivotide tetraxetan are each 60% to 70% bound to human plasma proteins.
 
@@ -519,13 +519,11 @@ No clinically significant effects on the pharmacokinetic parameters of lutetium 
 
 Exposure (AUC) of lutetium ( 177 Lu) vipivotide tetraxetan increased by 20% in patients with mild renal impairment compared to normal renal function. Kidney dosimetry half-life also increased in patients with mild renal impairment compared to normal renal function, 51 hours vs. 37 hours, respectively. Patients with mild or moderate renal impairment may be at greater risk of toxicity (see section 4.4). No pharmacokinetic data are available for patients with moderate to severe renal impairment with baseline CLcr &lt;50 mL/min or end-stage renal disease.
 
-## 5.3 Preclinical safety data
-
-No toxicological effects were observed in safety pharmacology or single-dose toxicity studies in rats and minipigs administered a non-radioactive formulation containing vipivotide tetraxetan and lutetium
-
 <div style=\"page-break-after: always\"></div>
 
-( 175 Lu) vipivotide tetraxetan, or in repeat-dose toxicity studies in rats administered vipivotide tetraxetan.
+## 5.3 Preclinical safety data
+
+No toxicological effects were observed in safety pharmacology or single-dose toxicity studies in rats and minipigs administered a non-radioactive formulation containing vipivotide tetraxetan and lutetium ( 175 Lu) vipivotide tetraxetan, or in repeat-dose toxicity studies in rats administered vipivotide tetraxetan.
 
 ## Carcinogenicity and mutagenicity
 
@@ -567,9 +565,9 @@ The vial is enclosed within a lead container for protective shielding.
 
 Radiopharmaceuticals should be received, used and administered only by authorised persons in designated clinical settings. Their receipt, storage, use, transfer and disposal are subject to the regulations and/or appropriate licences of the competent official organisation.
 
-Radiopharmaceuticals should be prepared in a manner which satisfies both radiation safety and pharmaceutical quality requirements. Appropriate aseptic precautions should be taken.
-
 <div style=\"page-break-after: always\"></div>
+
+Radiopharmaceuticals should be prepared in a manner which satisfies both radiation safety and pharmaceutical quality requirements. Appropriate aseptic precautions should be taken.
 
 For instructions on preparation of the medicinal product before administration, see section 12.
 
@@ -599,15 +597,17 @@ EU/1/22/1703/001
 
 ## 10. DATE OF REVISION OF THE TEXT
 
+<div style=\"page-break-after: always\"></div>
+
 ## 11. DOSIMETRY
 
 Radiation dose to specific organs, which may not be the target organ of therapy, can be influenced significantly by pathophysiological changes induced by the disease process. This should be taken into consideration when using the following information.
 
-<div style=\"page-break-after: always\"></div>
-
 Dosimetry of lutetium ( 177 Lu) vipivotide tetraxetan was collected in 29 patients in the phase III VISION sub-study, in order to calculate whole body and organ radiation dosimetry. The mean and standard deviation (SD) of the estimated absorbed doses to different organs for adult patients receiving Pluvicto are shown in Table 4. The organs with the highest absorbed doses are lacrimal glands and salivary glands.
 
 The maximum penetration of lutetium-177 in tissue is approximately 2 mm and the mean penetration is 0.67 mm.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 4 Estimated absorbed dose a  for Pluvicto in the VISION sub-study
 
@@ -643,13 +643,13 @@ Table 4 Estimated absorbed dose a  for Pluvicto in the VISION sub-study
 | Effective dose b     | 0.12                                               | 0.043                                              | 0.89                                                         | 0.315                                                        | 5.3                                                                                | 1.9                                                                                |
 |                      | mSv/MBq                                            | mSv/MBq                                            | Sv                                                           | Sv                                                           | Sv                                                                                 | Sv                                                                                 |
 
-<div style=\"page-break-after: always\"></div>
-
 ## 12. INSTRUCTIONS FOR PREPARATION OF RADIOPHARMACEUTICALS
 
 The user must consult the product batch release certificate provided before using Pluvicto to ensure appropriate waste management (see section 6.6).
 
 Withdrawals should be performed under aseptic conditions. The vials must not be opened before disinfecting the stopper, the solution should be withdrawn via the stopper using a single-dose syringe fitted with suitable protective shielding and a disposable sterile needle or using an authorised automated application system.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Preparation instructions
 
@@ -672,13 +672,12 @@ Withdrawals should be performed under aseptic conditions. The vials must not be 
 
 - Insert a 2.5 cm, 20 gauge needle (short needle) into the Pluvicto vial and connect via a catheter to 500 mL sterile sodium chloride 9 mg/mL (0.9%) solution for injection (used to transport the Pluvicto solution during the infusion). Ensure that the short needle does not touch the Pluvicto solution in the vial and do not connect the short needle directly to the patient. Do not allow the sterile sodium chloride 9 mg/mL (0.9%) solution for injection to flow into the Pluvicto vial prior to the initiation of the Pluvicto infusion and do not inject the Pluvicto solution directly into the sterile sodium chloride 9 mg/mL (0.9%) solution for injection.
 - Insert a second needle that is 9 cm, 18 gauge (long needle) into the Pluvicto vial, ensuring that the long needle touches and is secured to the bottom of the Pluvicto vial during the entire infusion. Connect the long needle to the patient by an intravenous catheter that is primed with sterile sodium chloride 9 mg/mL (0.9%) solution for injection and that is used exclusively for the Pluvicto infusion into the patient.
-
-<div style=\"page-break-after: always\"></div>
-
 - Use a clamp or an infusion pump to regulate the flow of the sterile sodium chloride 9 mg/mL (0.9%) solution for injection via the short needle into the Pluvicto vial (the sterile sodium chloride 9 mg/mL (0.9%) solution for injection entering the vial through the short needle will carry the Pluvicto solution from the vial to the patient via the intravenous catheter connected to the long needle within approximately 30 minutes).
 - During the infusion, ensure that the level of solution in the Pluvicto vial remains constant.
 - Disconnect the vial from the long needle line and clamp the sterile sodium chloride 9 mg/mL (0.9%) solution for injection line once the level of radioactivity is stable for at least five minutes.
 - Follow the infusion with an intravenous flush of ≥10 mL of sterile sodium chloride 9 mg/mL (0.9%) solution for injection through the intravenous catheter to the patient.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Instructions for the peristaltic pump method
 
@@ -837,7 +836,15 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Vista Building
+
+Elm Park, Merrion Road
+
+Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -863,14 +870,18 @@ Not applicable.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 Not applicable.
 
+30
+
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+## VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -906,11 +917,7 @@ Activity at administration time: {Z} MBq - {DD/MM/YYYY hh:mm UTC}
 
 Manufacturer
 
-Advanced Accelerator Applications (Italy) S.R.L. Via Ribes 5 10010 Colleretto Giacosa (TO) Italy
-
-<div style=\"page-break-after: always\"></div>
-
-Advanced Accelerator Applications Ibérica, S.L.U. Polígono Industrial la Cuesta -Sector 3 Parcelas 1 y 2 La Almunia de Doña Godina 50100 Zaragoza Spain
+Advanced Accelerator Applications (Italy) S.R.L. Via Ribes 5 10010 Colleretto Giacosa (TO) Italy Advanced Accelerator Applications Ibérica, S.L.U. Polígono Industrial la Cuesta -Sector 3 Parcelas 1 y 2 La Almunia de Doña Godina 50100 Zaragoza Spain
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1012,7 +1019,9 @@ It is considered unlikely that Pluvicto will affect your ability to drive or use
 
 ## Pluvicto contains sodium
 
-This medicine contains up to 88.75 mg sodium (main component of cooking/table salt) in each vial. This is equivalent to 4.4% of the recommended maximum daily dietary intake of sodium for an adult.
+This medicine contains up to 88.75 mg sodium (main component of cooking/table salt) in each vial.
+
+This is equivalent to 4.4% of the recommended maximum daily dietary intake of sodium for an adult.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1117,12 +1126,11 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 If you experience any of the following serious side effects, tell your nuclear medicine doctor right away .
 
+<div style=\"page-break-after: always\"></div>
+
 ## Very common: may affect more than 1 in 10 people
 
 - -tiredness, weakness, pale skin or shortness of breath (possible signs of low levels of red blood cells [ anaemia ])
-
-<div style=\"page-break-after: always\"></div>
-
 - -bleeding or bruising more easily than normal or bleeding for longer than normal (possible signs of low levels of platelets [ thrombocytopenia ])
 - -frequent infections with signs such as fever, sore throat or mouth ulcers (possible signs of low levels of white blood cells [ leukopenia, lymphopenia ])
 
@@ -1130,10 +1138,9 @@ If you experience any of the following serious side effects, tell your nuclear m
 
 - -passing urine less often or in much smaller amounts than usual (possible sign of kidney problems [ acute kidney injury ])
 - -tiredness, weakness, pale skin, shortness of breath, bleeding or bruising more easily than normal or bleeding for longer than normal or frequent infections with signs such as fever, chills, sore throat or mouth ulcers (possible signs of low levels of blood cells [ pancytopenia ])
+- -Weakness, pale skin, bleeding or bruising more easily than normal or difficulty to stop bleeding and frequent infections with signs such as fever, chills, sore throat or mouth ulcers (bone marrow failure)
 
 ## Uncommon: may affect up to 1 in every 100 people
-
-- -Weakness, pale skin, bleeding or bruising more easily than normal or difficulty to stop bleeding and frequent infections with signs such as fever, chills, sore throat or mouth ulcers (bone marrow failure)
 
 ## Other possible side effects
 
@@ -1206,17 +1213,19 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Advanced Accelerator Applications (Italy) S.R.L. Via Ribes 5 10010 Colleretto Giacosa (TO) Italy
 
-Advanced Accelerator Applications Ibérica, S.L.U. Polígono Industrial la Cuesta -Sector 3 Parcelas 1 y 2 La Almunia de Doña Godina 50100 Zaragoza Spain
-
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Advanced Accelerator Applications Ibérica, S.L.U. Polígono Industrial la Cuesta -Sector 3 Parcelas 1 y 2 La Almunia de Doña Godina 50100 Zaragoza Spain For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
 Novartis Pharma N.V.
 
 Tél/Tel: +32 2 246 16 11
+
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas
+
+Tel: +370 5 269 16 50
 
 ## България
 
@@ -1226,11 +1235,23 @@ Novartis Bulgaria EOOD
 
 +359 2 489 98 28
 
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V.
+
+Tél/Tel: +32 2 246 16 11
+
 ## Česká republika
 
 Novartis s.r.o.
 
 Tel: +420 225 775 111
+
+## Magyarország
+
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
 
 ## Danmark
 
@@ -1238,17 +1259,35 @@ Novartis Sverige AB
 
 Tlf.: +46 8 732 32 00
 
+## Malta
+
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
+
 ## Deutschland
 
 Novartis Pharma GmbH
 
 Tel: +49 911 273 0
 
+## Nederland
+
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
+
 ## Eesti
 
 SIA Novartis Baltics Eesti filiaal
 
 Tel: +372 66 30 810
+
+## Norge
+
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
 
 ## Ελλάδα
 
@@ -1264,73 +1303,17 @@ Novartis (Hellas) A.E.B.E.
 
 Τηλ: +30 210 281 17 12
 
-## España
-
-Novartis Farmacéutica, S.A.
-
-Tel: +34 93 306 42 00
-
-## France
-
-Novartis Pharma S.A.S.
-
-Tél: +33 1 55 47 66 00
-
-## Hrvatska
-
-Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
-
-## Ireland
-
-Novartis Ireland Limited
-
-Tel: +353 1 260 12 55
-
-## Ísland
-
-Novartis Sverige AB
-
-Sími: +46 8 732 32 00
-
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas
-
-Tel: +370 5 269 16 50
-
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
-
-## Magyarország
-
-Novartis Hungária Kft.
-
-Tel.: +36 1 457 65 00
-
-## Malta
-
-Novartis Pharma Services Inc.
-
-Tel: +356 2122 2872
-
-## Nederland
-
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
-
-## Norge
-
-Novartis Norge AS Tlf: +47 23 05 20 00
-
 ## Österreich
 
 Novartis Pharma GmbH
 
 Tel: +43 1 86 6570
+
+## España
+
+Novartis Farmacéutica, S.A.
+
+Tel: +34 93 306 42 00
 
 ## Polska
 
@@ -1338,13 +1321,29 @@ Novartis Poland Sp. z o.o.
 
 Tel.: +48 22 375 4888
 
+## France
+
+Novartis Pharma S.A.S.
+
+Tél: +33 1 55 47 66 00
+
 ## Portugal
 
 Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
 
+## Hrvatska
+
+Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
+
 ## România
 
 Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
+
+## Ireland
+
+Novartis Ireland Limited
+
+Tel: +353 1 260 12 55
 
 ## Slovenija
 
@@ -1352,11 +1351,19 @@ Novartis Pharma Services Inc.
 
 Tel: +386 1 300 75 50
 
+## Ísland
+
+Novartis Sverige AB
+
+Sími: +46 8 732 32 00
+
 ## Slovenská republika
 
 Novartis Slovakia s.r.o.
 
 Tel: +421 2 5542 5439
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1368,19 +1375,11 @@ Tel: +39 02 96 54 1
 
 ## Κύπρος
 
-ΒΙΟΚΟΣΜΟΣ ΑΕΒΕ
-
-Τηλ
-
-: +30 22920 63900
-
-ή
-
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
 
-## Latvija
+Latvija
 
 SIA Novartis Baltics
 

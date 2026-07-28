@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-20 11:45:00
+document_datetime: 2026-07-27 13:31:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cerdelga.html
 document_name: cerdelga.html
 version: success
-processing_time: 0.1252761
-conversion_datetime: 2026-05-22 22:38:22.419752
+processing_time: 0.1443369
+conversion_datetime: 2026-07-28 12:39:30.723076
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Cerdelga
 
@@ -58,7 +58,7 @@ Expand section
 
 Collapse section
 
-## How is Cerdelga used?
+### How is Cerdelga used?
 
 Cerdelga can only be obtained with a prescription and treatment should be started and supervised by a doctor who has experience in the management of Gaucher disease.
 
@@ -68,11 +68,11 @@ Patients whose bodies break down this medicine very rapidly ('ultrarapid metabol
 
 For more information about using Cerdelga, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Cerdelga work?
+### How does Cerdelga work?
 
 The active substance in Cerdelga, eliglustat, works by blocking the action of an enzyme involved in the production of the glucosylceramide fat. Because the build-up of this fat in organs like the spleen, liver and bones is responsible for the symptoms of type 1 Gaucher disease, reducing its production helps prevent its build-up, and thereby helps the affected organs to function better.
 
-## What benefits of Cerdelga have been shown in studies?
+### What benefits of Cerdelga have been shown in studies?
 
 Studies show that Cerdelga is effective at treating type 1 Gaucher disease, including reducing the size of enlarged spleens and livers.
 
@@ -82,7 +82,7 @@ Another study looked at Cerdelga in 159 patients whose disease was well controll
 
 A further study in 51 children aged 2 to 17 years with type 1 and 3 Gaucher disease showed that Cerdelga is expected to work similarly in children as it does in adults.
 
-## What are the risks associated with Cerdelga?
+### What are the risks associated with Cerdelga?
 
 For the full list of side effects and restrictions with Cerdelga, see the package leaflet.
 
@@ -90,7 +90,7 @@ The most common side effect with Cerdelga is dyspepsia (heartburn), which may af
 
 Cerdelga must not be taken by some patients with liver problems or those taking certain medicines that can interfere with the ability of the body to break down the medicine.
 
-## Why is Cerdelga authorised in the EU?
+### Why is Cerdelga authorised in the EU?
 
 Studies show that Cerdelga is effective in improving the symptoms of type 1 Gaucher disease in a majority of adults who had not previously been treated, and in keeping the disease stable in most adults previously treated with enzyme replacement therapy (ERT). However, a minority of patients (about 15%) switching from ERT to Cerdelga did not respond optimally after treatment for one year. For these patients, other treatment options should be considered. All patients switching from ERT to Cerdelga should be regularly monitored for disease progression.
 
@@ -98,7 +98,7 @@ Regarding safety, side effects were mostly mild and short-lived, but the company
 
 The European Medicines Agency decided that Cerdelga's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Cerdelga?
+### What measures are being taken to ensure the safe and effective use of Cerdelga?
 
 The company that markets Cerdelga will provide doctors expected to prescribe the medicine with a prescriber guide and patients who are prescribed the medicine with a patient alert card. These educational materials will help ensure that only patients with type 1 Gaucher disease are treated with Cerdelga and that Cerdelga is not used in some patients with liver problems and together with medicines which can significantly alter Cerdelga's blood levels. The company will also keep record of patients treated with Cerdelga to look at the long-term safety of the medicine.
 
@@ -106,7 +106,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Cerdelga are continuously monitored. Side effects reported with Cerdelga are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Cerdelga
+### Other information about Cerdelga
 
 Cerdelga received a marketing authorisation valid throughout the EU on 19 January 2015.
 
@@ -118,7 +118,7 @@ English (EN) (112.11 KB - PDF)
 
 [View](/en/documents/overview/cerdelga-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-185)
+[Other languages (21)](#file-language-dropdown-222)
 
 български (BG) (137.14 KB - PDF)
 
@@ -174,13 +174,13 @@ italiano (IT) (109.56 KB - PDF)
 
 [View](/it/documents/overview/cerdelga-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (143.05 KB - PDF)
+latviešu (LV) (143.05 KB - PDF)
 
 **First published:** 13/02/2015 **Last updated:** 14/01/2025
 
 [View](/lv/documents/overview/cerdelga-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (133.43 KB - PDF)
+lietuvių (LT) (133.43 KB - PDF)
 
 **First published:** 13/02/2015 **Last updated:** 14/01/2025
 
@@ -234,7 +234,7 @@ slovenščina (SL) (132.35 KB - PDF)
 
 [View](/sl/documents/overview/cerdelga-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (109.71 KB - PDF)
+suomi (FI) (109.71 KB - PDF)
 
 **First published:** 13/02/2015 **Last updated:** 14/01/2025
 
@@ -258,167 +258,168 @@ English (EN) (1.32 MB - PDF)
 
 Cerdelga : EPAR - Product Information
 
-English (EN) (692.3 KB - PDF)
+English (EN) (575.75 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/en/documents/product-information/cerdelga-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-260)
+[Other languages (24)](#file-language-dropdown-773)
 
-български (BG) (716.75 KB - PDF)
+български (BG) (574.31 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/bg/documents/product-information/cerdelga-epar-product-information_bg.pdf)
 
-español (ES) (718.65 KB - PDF)
+español (ES) (557.44 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/es/documents/product-information/cerdelga-epar-product-information_es.pdf)
 
-čeština (CS) (477.38 KB - PDF)
+čeština (CS) (586.79 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/cs/documents/product-information/cerdelga-epar-product-information_cs.pdf)
 
-dansk (DA) (623.09 KB - PDF)
+dansk (DA) (551.49 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/da/documents/product-information/cerdelga-epar-product-information_da.pdf)
 
-Deutsch (DE) (655.78 KB - PDF)
+Deutsch (DE) (569.27 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/de/documents/product-information/cerdelga-epar-product-information_de.pdf)
 
-eesti keel (ET) (616.32 KB - PDF)
+eesti (ET) (503.76 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/et/documents/product-information/cerdelga-epar-product-information_et.pdf)
 
-ελληνικά (EL) (819.84 KB - PDF)
+ελληνικά (EL) (677.43 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/el/documents/product-information/cerdelga-epar-product-information_el.pdf)
 
-français (FR) (655.74 KB - PDF)
+français (FR) (583.76 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/fr/documents/product-information/cerdelga-epar-product-information_fr.pdf)
 
-hrvatski (HR) (762 KB - PDF)
+hrvatski (HR) (633.49 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/hr/documents/product-information/cerdelga-epar-product-information_hr.pdf)
 
-íslenska (IS) (559.8 KB - PDF)
+italiano (IT) (564.59 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
-
-[View](/is/documents/product-information/cerdelga-epar-product-information_is.pdf)
-
-italiano (IT) (402.71 KB - PDF)
-
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/it/documents/product-information/cerdelga-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (608.04 KB - PDF)
+latviešu (LV) (518.17 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/lv/documents/product-information/cerdelga-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (580.27 KB - PDF)
+lietuvių (LT) (574.78 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/lt/documents/product-information/cerdelga-epar-product-information_lt.pdf)
 
-magyar (HU) (465.7 KB - PDF)
+magyar (HU) (607.8 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/hu/documents/product-information/cerdelga-epar-product-information_hu.pdf)
 
-Malti (MT) (825.48 KB - PDF)
+Malti (MT) (655.3 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/mt/documents/product-information/cerdelga-epar-product-information_mt.pdf)
 
-Nederlands (NL) (709.75 KB - PDF)
+Nederlands (NL) (535.46 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/nl/documents/product-information/cerdelga-epar-product-information_nl.pdf)
 
-norsk (NO) (736.61 KB - PDF)
+polski (PL) (608.21 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
-
-[View](/no/documents/product-information/cerdelga-epar-product-information_no.pdf)
-
-polski (PL) (680.27 KB - PDF)
-
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/pl/documents/product-information/cerdelga-epar-product-information_pl.pdf)
 
-português (PT) (787.22 KB - PDF)
+português (PT) (650.9 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/pt/documents/product-information/cerdelga-epar-product-information_pt.pdf)
 
-română (RO) (663.53 KB - PDF)
+română (RO) (572.08 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/ro/documents/product-information/cerdelga-epar-product-information_ro.pdf)
 
-slovenčina (SK) (672.71 KB - PDF)
+slovenčina (SK) (594.68 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/sk/documents/product-information/cerdelga-epar-product-information_sk.pdf)
 
-slovenščina (SL) (691.09 KB - PDF)
+slovenščina (SL) (588.1 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/sl/documents/product-information/cerdelga-epar-product-information_sl.pdf)
 
-Suomi (FI) (717.82 KB - PDF)
+suomi (FI) (546.85 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/fi/documents/product-information/cerdelga-epar-product-information_fi.pdf)
 
-svenska (SV) (538.75 KB - PDF)
+svenska (SV) (533.76 KB - PDF)
 
-**First published:** 13/02/2015 **Last updated:** 20/05/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
 
 [View](/sv/documents/product-information/cerdelga-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PASS/0000287682
+Íslenska (IS) (547.76 KB - PDF)
 
-30/04/2026
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
+
+[View](/is/documents/product-information/cerdelga-epar-product-information_is.pdf)
+
+norsk (NO) (564.55 KB - PDF)
+
+**First published:** 13/02/2015 **Last updated:** 27/07/2026
+
+[View](/no/documents/product-information/cerdelga-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000360142
+
+23/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -436,7 +437,7 @@ English (EN) (52.15 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cerdelga-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-784)
+[Other languages (24)](#file-language-dropdown-852)
 
 български (BG) (65.84 KB - PDF)
 
@@ -468,7 +469,7 @@ Deutsch (DE) (43.82 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/cerdelga-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (19.5 KB - PDF)
+eesti (ET) (19.5 KB - PDF)
 
 **First published:** 13/02/2015 **Last updated:** 14/01/2025
 
@@ -492,25 +493,19 @@ hrvatski (HR) (48.27 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/cerdelga-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (47.78 KB - PDF)
-
-**First published:** 13/02/2015 **Last updated:** 14/01/2025
-
-[View](/is/documents/all-authorised-presentations/cerdelga-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (72.97 KB - PDF)
 
 **First published:** 13/02/2015 **Last updated:** 14/01/2025
 
 [View](/it/documents/all-authorised-presentations/cerdelga-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (45.39 KB - PDF)
+latviešu (LV) (45.39 KB - PDF)
 
 **First published:** 13/02/2015 **Last updated:** 14/01/2025
 
 [View](/lv/documents/all-authorised-presentations/cerdelga-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (44.83 KB - PDF)
+lietuvių (LT) (44.83 KB - PDF)
 
 **First published:** 13/02/2015 **Last updated:** 14/01/2025
 
@@ -533,12 +528,6 @@ Nederlands (NL) (35.84 KB - PDF)
 **First published:** 13/02/2015 **Last updated:** 14/01/2025
 
 [View](/nl/documents/all-authorised-presentations/cerdelga-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (54.99 KB - PDF)
-
-**First published:** 13/02/2015 **Last updated:** 14/01/2025
-
-[View](/no/documents/all-authorised-presentations/cerdelga-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (57.2 KB - PDF)
 
@@ -570,7 +559,7 @@ slovenščina (SL) (50.31 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/cerdelga-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (50.6 KB - PDF)
+suomi (FI) (50.6 KB - PDF)
 
 **First published:** 13/02/2015 **Last updated:** 14/01/2025
 
@@ -582,27 +571,30 @@ svenska (SV) (51.18 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/cerdelga-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (47.78 KB - PDF)
+
+**First published:** 13/02/2015 **Last updated:** 14/01/2025
+
+[View](/is/documents/all-authorised-presentations/cerdelga-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (54.99 KB - PDF)
+
+**First published:** 13/02/2015 **Last updated:** 14/01/2025
+
+[View](/no/documents/all-authorised-presentations/cerdelga-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Cerdelga
-
-Active substance
-
-Eliglustat (tartrate)
-
-International non-proprietary name (INN) or common name
-
-eliglustat
-
-Therapeutic area (MeSH)
-
-Gaucher Disease
-
-Anatomical therapeutic chemical (ATC) code
-
-A16AX10
+- **Name of medicine**
+    - Cerdelga
+- **Active substance**
+    - Eliglustat (tartrate)
+- **International non-proprietary name (INN) or common name**
+    - eliglustat
+- **Therapeutic area (MeSH)**
+    - Gaucher Disease
+- **Anatomical therapeutic chemical (ATC) code**
+    - A16AX10
 
 ### Pharmacotherapeutic group
 
@@ -614,35 +606,20 @@ Other alimentary tract and metabolism products
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/003724
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Sanofi B.V.
-
-Paasheuvelweg 25
-
-Opinion adopted
-
-20/11/2014
-
-Marketing authorisation issued
-
-19/01/2015
-
-Revision
-
-21
+- **EMA product number**
+    - EMEA/H/C/003724
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - Sanofi B.V. Paasheuvelweg 25  1105 BP Amsterdam  Netherlands
+- **Opinion adopted**
+    - 20/11/2014
+- **Marketing authorisation issued**
+    - 19/01/2015
+- **Revision**
+    - 22
 
 ## Assessment history
 
@@ -650,13 +627,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Cerdelga : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (137.66 KB - PDF)
+English (EN) (127.39 KB - PDF)
 
-**First published:** 16/05/2025 **Last updated:** 20/05/2026
+**First published:** 16/05/2025 **Last updated:** 27/07/2026
 
 [View](/en/documents/procedural-steps-after/cerdelga-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -688,7 +665,7 @@ English (EN) (147 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-cerdelga-x-36-g_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Cerdelga : EPAR - Public assessment report
 
@@ -734,6 +711,6 @@ English (EN) (70.89 KB - PDF)
 
 **This page was last updated on**
 
-20/05/2026
+27/07/2026
 
 ## Share this page

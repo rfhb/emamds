@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cerdelga.html
 document_name: cerdelga.html
 version: success
-processing_time: 0.1443369
-conversion_datetime: 2026-07-28 12:39:30.723076
+processing_time: 0.1498904
+conversion_datetime: 2026-07-28 13:02:21.453694
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

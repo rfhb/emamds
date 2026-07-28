@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/metalyse.html
 document_name: metalyse.html
 version: success
-processing_time: 0.1605707
-conversion_datetime: 2026-07-28 12:34:21.42809
+processing_time: 0.1789883
+conversion_datetime: 2026-07-28 12:57:10.21823
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

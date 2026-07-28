@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/opdualag.html
 document_name: opdualag.html
 version: success
-processing_time: 0.1586542
-conversion_datetime: 2026-07-28 12:33:35.347094
+processing_time: 0.1629046
+conversion_datetime: 2026-07-28 12:56:23.704237
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

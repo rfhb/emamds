@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jascayd.html
 document_name: jascayd.html
 version: success
-processing_time: 0.3451905
-conversion_datetime: 2026-07-28 12:36:09.865778
+processing_time: 0.1183065
+conversion_datetime: 2026-07-28 12:58:58.311498
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-05-13 14:26:42
+document_datetime: 2026-07-22 11:37:15
 document_pages: 27
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/plerixafor-accord-epar-product-information_en.pdf
 document_name: plerixafor-accord-epar-product-information_en.pdf
 version: success
-processing_time: 6.1607918
-conversion_datetime: 2025-12-23 05:12:15.883155
+processing_time: 7.3159983
+conversion_datetime: 2026-07-28 13:45:21.276585
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -81,7 +81,7 @@ Each vial of plerixafor treatment is filled to deliver 1.2 ml of 20 mg/ml plerix
 
 Plerixafor has to be drawn up into a syringe size type which should be selected according to the weight of the patient.
 
-For low weight patients, up to 45 kg of body weight, 1 ml syringes for use in infant patients can be used. This type of syringe has major graduations for 0.1 ml and minor graduations for 0.01 ml and therefore is suitable to administer plerixafor, at a dose of 240 μg/kg, to paediatric patients of at least 9 kg body weight.
+For low weight patients, up to 45 kg of body weight, 1 ml syringes for use in infant patients can be used. This type of syringe has major graduations for 0.1 ml and minor graduations for 0.01 ml and therefore is suitable to administer plerixafor, at a dose of 240 μg /kg, to paediatric patients of at least 9 kg body weight.
 
 For patients of more than 45 kg, 1 ml or 2 ml syringe with graduations that allow a volume to 0.1 ml to be measured can be used.
 
@@ -89,15 +89,13 @@ It should be administered by subcutaneous injection 6 to 11 hours prior to initi
 
 The weight used to calculate the dose of plerixafor should be obtained within 1 week before the first dose of plerixafor. In clinical studies, the dose of plerixafor has been calculated based on body weight in patients up to 175% of ideal body weight. Plerixafor dose and treatment of patients weighing more than 175% of ideal body weight have not been investigated. Ideal body weight can be determined using the following equations:
 
-```
 male (kg): 50 + 2.3 x ((Height (cm) x 0.394) - 60); female (kg): 45.5 + 2.3 x ((Height (cm) x 0.394) - 60).
-```
 
 Based on increasing exposure with increasing body weight, the plerixafor dose should not exceed 40 mg/day.
 
 ## Recommended concomitant medicinal products
 
-In pivotal clinical studies supporting the use of Plerixafor treatment, all patients received daily morning doses of 10 μg/kg G-CSF for 4 consecutive days prior to the first dose of plerixafor and on each morning prior to apheresis.
+In pivotal clinical studies supporting the use of Plerixafor treatment, all patients received daily morning doses of 10 μg /kg G-CSF for 4 consecutive days prior to the first dose of plerixafor and on each morning prior to apheresis.
 
 ## Special populations
 
@@ -165,13 +163,13 @@ The effect of plerixafor on spleen size in patients has not been specifically ev
 
 ## Excipients
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose that is to say essentially 'sodium- free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No interaction studies have been performed. In vitro tests showed that plerixafor was not metabolised by P450 CYP enzymes, did not inhibit or induce P450 CYP enzymes. Plerixafor did not act as a substrate or inhibitor of P-glycoprotein in an in vitro study.
 
-In clinical studies of patients with Non-Hodgkin's lymphoma, the addition of rituximab to a mobilisation regimen of plerixafor and G-CSF did not impact patient safety or CD34+ cell yield.
+In clinical studies of patients with NonHodgkin's lymphoma, the addition of rituximab to a mobilisation regimen of plerixafor and G-CSF did not impact patient safety or CD34+ cell yield.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -203,7 +201,7 @@ Plerixafor Accord has minor influence on the ability to drive and use machines. 
 
 Safety data for plerixafor in conjunction with G-CSF in oncology patients with lymphoma and multiple myeloma were obtained from 2 placebo-controlled Phase III studies (301 patients) and 10 uncontrolled phase II studies (242 patients). Patients were primarily treated with daily doses of 0.24 mg/kg plerixafor by subcutaneous injection. The exposure to plerixafor in these studies ranged from 1 to 7 consecutive days (median = 2 days).
 
-In the two phase III studies in non-Hodgkin's lymphoma and multiple myeloma patients (AMD3100-3101 and AMD3100-3102, respectively), a total of 301 patients were treated in the Plerixafor and G-CSF group and 292 patients were treated in the placebo and G-CSF group. Patients received daily morning doses of G-CSF 10 μg/kg for 4 days prior to the first dose of plerixafor or placebo and on each morning prior to apheresis. Adverse reactions that occurred more frequently with Plerixafor and G-CSF than placebo and G-CSF and were reported as related in ≥1% of the patients who received Plerixafor, during haematopoietic stem cell mobilisation and apheresis and prior to chemotherapy/ablative treatment in preparation for transplantation are shown in Table 1.
+In the two phase III studies in nonHodgkin's lymphoma and multiple myeloma patients (AMD3100-3101 and AMD3100-3102, respectively), a total of 301 patients were treated in the Plerixafor and G-CSF group and 292 patients were treated in the placebo and G-CSF group. Patients received daily morning doses of G-CSF 10 μg /kg for 4 days prior to the first dose of plerixafor or placebo and on each morning prior to apheresis. Adverse reactions that occurred more frequently with Plerixafor and G-CSF than placebo and G-CSF and were reported as related in ≥1% of the patients who received Plerixafor, during haematopoietic stem cell mobilisation and apheresis and prior to chemotherapy/ablative treatment in preparation for transplantation are shown in Table 1.
 
 From chemotherapy/ablative treatment in preparation of transplantation through 12 months posttransplantation, no significant differences in the incidence of adverse reactions were observed across treatment groups.
 
@@ -291,17 +289,15 @@ Pharmacotherapeutic group: Immunostimulants, other immunostimulants; ATC code: L
 
 ## Mechanism of action
 
-Plerixafor is a bicyclam derivative, a selective reversible antagonist of the CXCR4 chemokine receptor and blocks binding of its cognate ligand, stromal cell-derived factor-1α (SDF-1α), also known as CXCL12. Plerixafor-induced leukocytosis and elevations in circulating haematopoietic progenitor cell levels are thought to result from a disruption of CXCR4 binding to its cognate ligand, resulting in the appearance of both mature and pluripotent cells in the systemic circulation. CD34+ cells mobilised by plerixafor are functional and capable of engraftment with long-term repopulating capacity.
+Plerixafor is a bicyclam derivative, a selective reversible antagonist of the CXCR4 chemokine receptor and blocks binding of its cognate ligand, stromal cell-derived factor-1 α (SDF-1 α ), also known as CXCL12. Plerixafor-induced leukocytosis and elevations in circulating haematopoietic progenitor cell levels are thought to result from a disruption of CXCR4 binding to its cognate ligand, resulting in the appearance of both mature and pluripotent cells in the systemic circulation. CD34+ cells mobilised by plerixafor are functional and capable of engraftment with long-term repopulating capacity.
 
 ## Pharmacodynamic effects
 
 In pharmacodynamic studies in healthy volunteers of plerixafor alone, peak mobilisation of CD34+ cells was observed from 6 to 9 hours after administration. In pharmacodynamic studies in healthy volunteers of plerixafor in conjunction with G-CSF administered at identical dose regimen to that in studies in patients, a sustained elevation in the peripheral blood CD34+ count was observed from 4 to 18 hours after plerixafor administration with peak response between 10 and 14 hours.
 
-In order to compare the pharmacokinetics and pharmacodynamics of plerixafor following 0.24 mg/kg based and fixed (20 mg) doses, a trial was conducted in adult patients with NHL (N=61) who were treated with 0.24 mg/kg or 20 mg of plerixafor. The trial was conducted in patients weighing 70 kg or less (median: 63.7 kg, min: 34.2 kg, max: 70 kg). The fixed 20 mg dose showed 1.43-fold higher
+In order to compare the pharmacokinetics and pharmacodynamics of plerixafor following 0.24 mg/kg based and fixed (20 mg) doses, a trial was conducted in adult patients with NHL (N=61) who were treated with 0.24 mg/kg or 20 mg of plerixafor. The trial was conducted in patients weighing 70 kg or less (median: 63.7 kg, min: 34.2 kg, max: 70 kg). The fixed 20 mg dose showed 1.43-fold higher exposure (AUC0-10h) than the 0.24 mg/kg dose (Table 2). The fixed 20 mg dose also showed numerically higher response rate (5.2% [60.0% vs 54.8%] based on the local lab data and 11.7% [63.3% vs 51.6%] based on the central lab data) in attaining the target of ≥ 5 × 10 6  CD34+ cells/kg than the mg/kgbased dose. The median time to reach ≥ 5 × 10 6 CD34+ cells/kg was 3 days for both treatment groups, and the safety profile between the groups was similar. Body weight of 83 kg was selected as the cut-off point to transition patients from fixed to weight based dosing (83 kg x 0.24 mg = 19.92 mg/kg).
 
 <div style=\"page-break-after: always\"></div>
-
-exposure (AUC0-10h) than the 0.24 mg/kg dose (Table 2). The fixed 20 mg dose also showed numerically higher response rate (5.2% [60.0% vs 54.8%] based on the local lab data and 11.7% [63.3% vs 51.6%] based on the central lab data) in attaining the target of ≥ 5 × 10 6  CD34+ cells/kg than the mg/kg-based dose. The median time to reach ≥ 5 × 10 6 CD34+ cells/kg was 3 days for both treatment groups, and the safety profile between the groups was similar. Body weight of 83 kg was selected as the cut-off point to transition patients from fixed to weight based dosing (83 kg x 0.24 mg = 19.92 mg/kg).
 
 Table 2. Systemic Exposure (AUC0-10h) comparisons of fixed and weight based regimens
 
@@ -313,20 +309,16 @@ Table 2. Systemic Exposure (AUC0-10h) comparisons of fixed and weight based regi
 
 ## Clinical efficacy and safety
 
-In two phase III randomised-controlled studies patients with non-Hodgkin's lymphoma or multiple myeloma received plerixafor 0.24 mg/kg or placebo on each evening prior to apheresis. Patients received daily morning doses of G-CSF 10 μg/kg for 4 days prior to the first dose of plerixafor or placebo and on each morning prior to apheresis. Optimal (5 or 6 x 10 6 cells/kg) and minimal (2 x 10 6 cells/kg) numbers of CD34+ cells/kg within a given number of days, as well as the primary composite endpoints which incorporated successful engraftment are presented in Tables 3 and 5; the proportion of patients reaching optimal numbers of CD34+ cells/kg by apheresis day are presented in Tables 4 and 6.
+In two phase III randomised-controlled studies patients with nonHodgkin's lymphoma or multiple myeloma received plerixafor 0.24 mg/kg or placebo on each evening prior to apheresis. Patients received daily morning doses of G-CSF 10 μg/kg for 4 days prior to the first dose of plerixafor or placebo and on each morning prior to apheresis. Optimal (5 or 6 x 10 6 cells/kg) and minimal (2 x 10 6 cells/kg) numbers of CD34+ cells/kg within a given number of days, as well as the primary composite endpoints which incorporated successful engraftment are presented in Tables 3 and 5; the proportion of patients reaching optimal numbers of CD34+ cells/kg by apheresis day are presented in Tables 4 and 6.
 
-Table 3. Study AMD3100-3101 efficacy results - CD34+ cell mobilisation in non-Hodgkin's lymphoma patients
+Table 3. Study AMD3100-3101 efficacy results - CD34+ cell mobilisation in nonHodgkin's lymphoma patients
 
 | Efficacy endpoint b                                                                     | Plerixafor and G-CSF (n = 150)   | Placebo and G-CSF (n = 148)   | p-value a   |
 |-----------------------------------------------------------------------------------------|----------------------------------|-------------------------------|-------------|
 | Patients achieving ≥ 5 x 10 6 cells/kg in ≤ 4 apheresis days and successful engraftment | 86 (57.3%)                       | 28 (18.9%)                    | <0.001      |
 | Patients achieving ≥ 2 x 10 6 cells/kg in ≤ 4 apheresis days and successful engraftment | 126 (84.0%)                      | 64 (43.2%)                    | < 0.001     |
 
-a  p-value calculated using Pearson's Chi-Squared test
-
-b Statistically significantly more patients achieved ≥ 5 x 10 6  cells/kg in ≤ 4 apheresis days with Plerixafor and G-CSF (n=89; 59.3%) than with placebo and G-CSF (n=29; 19.6%), p&lt;0.001; statistically significantly more patients achieved ≥ 2 x 10 6  cells/kg in ≤ 4 apheresis days with Plerixafor and G-CSF (n=130; 86.7%) than with placebo and G-CSF (n=70; 47.3%), p&lt;0.001.
-
-Table 4. Study AMD3100-3101 - Proportion of patients who achieved ≥ 5 x 10 6  CD34+ cells/kg by apheresis day in non-Hodgkin's lymphoma patients
+Table 4. Study AMD3100-3101 -Proportion of patients who achieved ≥ 5 x 10 6  CD34+ cells/kg by apheresis day in nonHodgkin's lymphoma patients
 
 |   Days | Proportion a in Plerixafor and G-CSF (n=147 b )   | Proportion a in Placebo and G-CSF (n=142 b )   |
 |--------|---------------------------------------------------|------------------------------------------------|
@@ -335,13 +327,9 @@ Table 4. Study AMD3100-3101 - Proportion of patients who achieved ≥ 5 x 10 6  
 |      3 | 57.7%                                             | 21.6%                                          |
 |      4 | 65.6%                                             | 24.2%                                          |
 
-a  Percents determined by Kaplan Meier method
-
-b n includes all patients who received at least one day of apheresis
-
 <div style=\"page-break-after: always\"></div>
 
-Table 5. Study AMD3100-3102 efficacy results - CD34+ cell mobilisation in multiple myeloma patients
+Table 5. Study AMD3100-3102 efficacy results -CD34+ cell mobilisation in multiple myeloma patients
 
 | Efficacy endpoint b                                                                     | Plerixafor and G-CSF (n = 148)   | Placebo and G-CSF (n = 154)   | p-value a   |
 |-----------------------------------------------------------------------------------------|----------------------------------|-------------------------------|-------------|
@@ -349,9 +337,9 @@ Table 5. Study AMD3100-3102 efficacy results - CD34+ cell mobilisation in multip
 
 a p-value calculated using Cochran-Mantel-Haenszel statistic blocked by baseline platelet count
 
-b Statistically significantly more patients achieved ≥ 6 x 10 6  cells/kg in ≤ 2 apheresis days with Plerixafor and G-CSF (n=106; 71.6%) than with placebo and G-CSF (n=53; 34.4%), p&lt;0.001; statistically significantly more patients achieved ≥ 6 x 10 6  cells/kg in ≤ 4 apheresis days with Plerixafor and G-CSF (n=112; 75.7%) than with placebo and G-CSF (n=79; 51.3%), p&lt;0.001; statistically significantly more patients achieved ≥ 2 x 10 6  cells/kg in ≤ 4 apheresis days with Plerixafor and G-CSF (n=141; 95.3%) than with placebo and G-CSF (n=136; 88.3%), p=0.031.
+b Statistically significantly more patients achieved ≥ 6 x 10 6 cells/kg in ≤ 2 apheresis days with Plerixafor and G-CSF (n=106; 71.6%) than with placebo and G-CSF (n=53; 34.4%), p&lt;0.001; statistically significantly more patients achieved ≥ 6 x 10 6 cells/kg in ≤ 4 apheresis days with Plerixafor and G-CSF (n=112; 75.7%) than with placebo and G-CSF (n=79; 51.3%), p&lt;0.001; statistically significantly more patients achieved ≥ 2 x 10 6 cells/kg in ≤ 4 apheresis days with Plerixafor and G-CSF (n=141; 95.3%) than with placebo and G-CSF (n=136; 88.3%), p=0.031.
 
-Table 6. Study AMD3100-3102 - Proportion of patients who achieved ≥ 6 x 10 6  CD34+ cells/kg by apheresis day in multiple myeloma patients
+Table 6. Study AMD3100-3102 -Proportion of patients who achieved ≥ 6 x 10 6  CD34+ cells/kg by apheresis day in multiple myeloma patients
 
 |   Days | Proportion a in plerixafor and G-CSF (n=144 b )   | Proportion a in placebo and G-CSF (n=150 b )   |
 |--------|---------------------------------------------------|------------------------------------------------|
@@ -360,19 +348,15 @@ Table 6. Study AMD3100-3102 - Proportion of patients who achieved ≥ 6 x 10 6  
 |      3 | 86.8%                                             | 48.9%                                          |
 |      4 | 86.8%                                             | 55.9%                                          |
 
-a Percents determined by Kaplan Meier method
-
-b n includes all patients who received at least one day of apheresis
-
 ## Rescue patients
 
 In study AMD3100-3101, 62 patients (10 in the plerixafor + G-CSF group and 52 in the placebo + GCSFgroup), who could not mobilise sufficient numbers of CD34+ cells and thus could not proceed to transplantation, entered into an open-label Rescue procedure with Plerixafor and G-CSF. Of these patients, 55 % (34 out of 62) mobilised ≥ 2 x10 6 /kg CD34+ cells and had successful engraftment. In study AMD3100-3102, 7 patients (all from the placebo + G-CSF group) entered the Rescue procedure. Of these patients, 100% (7 out of 7) mobilised ≥ 2 x10 6 /kg CD34+ cells and had successful engraftment.
 
 The dose of haematopoietic stem cells used for each transplant was determined by the investigator and all haematopoietic stem cells that were collected were not necessarily transplanted. For transplanted patients in the phase III studies, median time to neutrophil engraftment (10-11 days), median time to platelet engraftment (18-20 days) and graft durability up to 12 months post-transplantation were similar across the Plerixafor and placebo groups.
 
-Mobilisation and engraftment data from supportive Phase II studies (plerixafor 0.24 mg/kg dosed on the evening or morning prior to apheresis) in patients with non-Hodgkin's lymphoma, Hodgkin's disease, or multiple myeloma were similar to those data for the Phase III studies.
+Mobilisation and engraftment data from supportive Phase II studies (plerixafor 0.24 mg/kg dosed on the evening or morning prior to apheresis) in patients with nonHodgkin's lymphoma, Hodgkin's disease, or multiple myeloma were similar to those data for the Phase III studies.
 
-In the placebo-controlled studies, fold increase in peripheral blood CD34+ cell count (cells/μl) over the 24-hour period from the day prior to the first apheresis to just before the first apheresis was evaluated (Table 7). During that 24-hour period, the first dose of plerixafor 0.24 mg/kg or placebo was administered 10-11 hours prior to apheresis.
+In the placebo-controlled studies, fold increase in peripheral blood CD34+ cell count (cells/ μl ) over the 24-hour period from the day prior to the first apheresis to just before the first apheresis was evaluated (Table 7). During that 24-hour period, the first dose of plerixafor 0.24 mg/kg or placebo was administered 10-11 hours prior to apheresis.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -392,11 +376,11 @@ The efficacy and safety of plerixafor were evaluated in an open label, multi-cen
 
 Forty-five paediatric patients (1 to less than 18 years) were randomised, 2:1, using 0.24 mg/kg of plerixafor plus standard mobilisation (G-CSF plus or minus chemotherapy) versus control (standard mobilisation alone). Median age was 5.3 years (min: max 1:18) in the plerixafor arm versus 4.7 years (min:max 1:17) in the control arm.
 
-Only one patient aged less than 2 years old was randomised to the plerixafor treatment arm. There was an imbalance between treatment arms in peripheral blood CD34+ counts on the day prior to first apheresis (i.e. prior to administration of plerixafor), with less circulating PB CD34+ in the plerixafor arm. The median PB CD34+ cell counts at baseline were 15 cells/μl in the plerixafor arm versus 35 cells/μl in control arm. The primary analysis showed that 80% of patients in the plerixafor arm experienced at least a doubling of the PB CD34+ count, observed from the morning of the day preceding the first planned apheresis to the morning prior to apheresis, versus, 28.6% of patients in the control arm (p=0.0019). The median increase in PB CD34+ cell counts from baseline to the day of apheresis was by 3.2 fold in the plerixafor arm versus by 1.4 fold in the control arm.
+Only one patient aged less than 2 years old was randomised to the plerixafor treatment arm. There was an imbalance between treatment arms in peripheral blood CD34+ counts on the day prior to first apheresis (i.e. prior to administration of plerixafor), with less circulating PB CD34+ in the plerixafor arm. The median PB CD34+ cell counts at baseline were 15 cells/ μl in the plerixafor arm versus 35 cells/ μl in control arm. The primary analysis showed that 80% of patients in the plerixafor arm experienced at least a doubling of the PB CD34+ count, observed from the morning of the day preceding the first planned apheresis to the morning prior to apheresis, versus, 28.6% of patients in the control arm (p=0.0019). The median increase in PB CD34+ cell counts from baseline to the day of apheresis was by 3.2 fold in the plerixafor arm versus by 1.4 fold in the control arm.
 
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of plerixafor have been evaluated in lymphoma and multiple myeloma patients at the clinical dose level of 0.24 mg/kg following pre-treatment with G-CSF (10 μg/kg once daily for 4 consecutive days).
+The pharmacokinetics of plerixafor have been evaluated in lymphoma and multiple myeloma patients at the clinical dose level of 0.24 mg/kg following pre-treatment with G-CSF (10 μg /kg once daily for 4 consecutive days).
 
 ## Absorption
 
@@ -432,7 +416,7 @@ A population pharmacokinetic analysis showed no effect of age on pharmacokinetic
 
 ## Paediatric population
 
-The pharmacokinetics of plerixafor were evaluated in 48 paediatric patients (1 to less than 18 years) with solid tumours at subcutaneous doses of 0.16, 0.24 and 0.32 mg/kg with standard mobilisation (GCSF plus or minus chemotherapy). Based on population pharmacokinetic modeling and similar to adults, μg/kg-based dosage results in increase in plerixafor exposure with increasing body weight in paediatric patients. At the same weight-based dosing regimen of 240 μg/kg, the plerixafor mean exposure (AUC0-24h) is lower in paediatric patients aged 2 to &lt;6 years (1410 ng.h/mL), 6 to&lt;12 years (2318 ng.h/mL), and 12 to &lt;18 years (2981 ng.h/mL) than in adults (4337 ng.h/mL). Based on population pharmacokinetic modeling, the plerixafor mean exposures (AUC0-24h) in paediatric patients aged 2 to &lt;6 years (1905 ng.h/mL), 6 to &lt;12 years (3063 ng.h/mL), and 12 to &lt;18 years (4015 ng.h/mL), at the dose of 320 μg/kg are closer to the exposure in adults receiving 240 μg/kg. However, mobilization of PB CD34+ count was observed in stage 2 of the trial.
+The pharmacokinetics of plerixafor were evaluated in 48 paediatric patients (1 to less than 18 years) with solid tumours at subcutaneous doses of 0.16, 0.24 and 0.32 mg/kg with standard mobilisation (GCSF plus or minus chemotherapy). Based on population pharmacokinetic modeling and similar to adults, μg /kg-based dosage results in increase in plerixafor exposure with increasing body weight in paediatric patients. At the same weight-based dosing regimen of 240 μg /kg, the plerixafor mean exposure (AUC0-24h) is lower in paediatric patients aged 2 to &lt;6 years (1410 ng.h/mL), 6 to&lt;12 years (2318 ng.h/mL), and 12 to &lt;18 years (2981 ng.h/mL) than in adults (4337 ng.h/mL). Based on population pharmacokinetic modeling, the plerixafor mean exposures (AUC0-24h) in paediatric patients aged 2 to &lt;6 years (1905 ng.h/mL), 6 to &lt;12 years (3063 ng.h/mL), and 12 to &lt;18 years (4015 ng.h/mL), at the dose of 320 μg /kg are closer to the exposure in adults receiving 240 μg /kg. However, mobilization of PB CD34+ count was observed in stage 2 of the trial.
 
 ## 5.3 Preclinical safety data
 
@@ -442,11 +426,11 @@ The results from single dose subcutaneous studies in rats and mice showed plerix
 
 The results of the dose range-finding study in juvenile miniature pigs and the range-finding and definitive studies in juvenile rats were similar to those observed in adult mice, rats, and dogs. Exposure margins in the juvenile rat study at the maximum tolerated dose (MTD) were ≥18 fold when compared with the highest clinical paediatric dose in children up to 18 years of age.
 
-An in vitro general receptor activity screen showed that plerixafor, at a concentration (5 μg/ml) several fold higher than the maximum human systemic level, has moderate or strong binding affinity for a number of different receptors predominantly located on pre-synaptic nerve endings in the central nervous system (CNS) and/or the peripheral nervous system (PNS) (N-type calcium channel, potassium channel SKCA, histamine H3, acetylcholine muscarinic M1 and M2, adrenergic α1B and α2C, neuropeptide Y/Y1 and glutamate NMDA polyamine receptors). The clinical relevance of these findings is not known.
+An in vitro general receptor activity screen showed that plerixafor, at a concentration (5 μg /ml) several fold higher than the maximum human systemic level, has moderate or strong binding affinity for a number of different receptors predominantly located on pre-synaptic nerve endings in the central nervous system (CNS) and/or the peripheral nervous system (PNS) (N-type calcium channel, potassium channel SKCA, histamine H3, acetylcholine muscarinic M1 and M2, adrenergic α1B and α2C, neuropeptide Y/Y1 and glutamate NMDA polyamine receptors). The clinical relevance of these findings is not known.
 
 Safety pharmacology studies with intravenously administered plerixafor in rats showed respiratory and cardiac depressant effects at systemic exposure slightly above the human clinical exposure, whilst subcutaneous administration elicited respiratory and cardiovascular effects only at higher systemic levels.
 
-SDF-1α and CXCR4 play major roles in embryo-foetal development. Plerixafor has been shown to cause increased resorptions, decreased foetal weights, retarded skeletal development and increased foetal abnormalities in rats and rabbits. Data from animal models also suggest modulation of foetal haematopoiesis, vascularisation, and cerebellar development by SDF-1α and CXCR4. Systemic exposure at No Observed Adverse Effect Level for teratogenic effects in rats and rabbits was of the same magnitude or lower as found at therapeutic doses in patients. This teratogenic potential is likely due to its pharmacodynamic mechanism of action.
+SDF1α and CXCR4 play major roles in embryo -foetal development. Plerixafor has been shown to cause increased resorptions, decreased foetal weights, retarded skeletal development and increased foetal abnormalities in rats and rabbits. Data from animal models also suggest modulation of foetal haematopoiesis, vascularisation, and cerebellar development by SDF1α and CXCR4. Systemic exposure at No Observed Adverse Effect Level for teratogenic effects in rats and rabbits was of the same magnitude or lower as found at therapeutic doses in patients. This teratogenic potential is likely due to its pharmacodynamic mechanism of action.
 
 In rat distribution studies concentrations of radiolabelled plerixafor was detected in reproductive organs (testes, ovaria, uterus) two weeks after single or 7 daily repeated doses in males and after 7 daily repeated doses in females. The elimination rate from tissues was slow.
 
@@ -454,7 +438,7 @@ The potential effects of plerixafor on male fertility and postnatal development 
 
 Carcinogenicity studies with plerixafor have not been conducted. Plerixafor was not genotoxic in an adequate battery of genotoxicity tests.
 
-Plerixafor inhibited tumour growth in in vivo models of non-Hodgkin's lymphoma, glioblastoma, medulloblastoma, and acute lymphoblastic leukaemia when dosed intermittently. An increase of nonHodgkin's lymphoma growth was noted after a continuous administration of plerixafor for 28 days. The potential risk associated with this effect is expected to be low for the intended short term duration of dosing plerixafor in humans.
+Plerixafor inhibited tumour growth in in vivo models of nonHodgkin's lymphoma, glioblastoma, medulloblastoma, and acute lymphoblastic leukaemia when dosed intermittently. An increase of nonHodgkin's lymphoma growth was noted after a continuous administration of plerixafor for 28 days. The potential risk associated with this effect is expected to be low for the intended short term duration of dosing plerixafor in humans.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -508,7 +492,7 @@ Date of first authorisation: 16 December 2022.
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -525,19 +509,11 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Accord Healthcare Polska Sp.z o.o.
-
-ul. Lutomierska 50,
-
-95-200 Pabianice, Łódzkie, Poland
+Accord Healthcare Polska Sp.z o.o. ul. Lutomierska 50, 95-200 Pabianice, Łódzkie , Poland
 
 Or
 
 Laboratori Fundació Dau C/ C, 12-14 Pol. Ind. Zona Franca, Barcelona, 08040, Spain
-
-Or
-
-Accord Healthcare B.V. Winthontlaan 200, 3526KV Utrecht The Netherlands
 
 Or
 
@@ -560,8 +536,6 @@ The requirements for submission of PSURs for this medicinal product are set out 
 ## · Risk management plan (RMP)
 
 The MAH shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreed subsequent updates of the RMP.
-
-<div style=\"page-break-after: always\"></div>
 
 An updated RMP should be submitted:
 
@@ -670,17 +644,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL                                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL                                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Plerixafor Accord 20 mg/ml solution for injection plerixafor Subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -692,13 +666,15 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 24 mg/1.2 ml
 
 | 6.   | OTHER   |
 |------|---------|
+
+22
 
 <div style=\"page-break-after: always\"></div>
 
@@ -775,7 +751,7 @@ Plerixafor Accord may cause dizziness and fatigue. Therefore, you should avoid d
 
 ## Plerixafor Accord contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## 3. How to use Plerixafor Accord
 
@@ -870,7 +846,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Plerixafor Accord contains
 
 - -The active substance is plerixafor. Each ml solution for injection contains 20 mg plerixafor. Each vial contains 24 mg plerixafor in 1.2 ml solution.
-- -The other ingredients are sodium chloride, hydrochloric acid (concentrated) and sodium hydroxide and water for injections (see section 2 'Plerixafor Accord contains sodium').
+- -The other ingredients are sodium chloride, hydrochloric acid (concentrated) and sodium hydroxide and water for injections (see section 2 'Plerixafor Accord contains sodium') .
 
 ## What Plerixafor Accord looks like and contents of the pack
 
@@ -884,23 +860,23 @@ Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est
 
 ## Manufacturer
 
-Accord Healthcare Polska Sp.z o.o. ul. Lutomierska 50, 95-200 Pabianice, Poland
+Accord Healthcare Polska Sp.z o.o. ul. Lutomierska 50,
+
+95-200 Pabianice, Poland
 
 Or
 
 Laboratori Fundació Dau C/ C, 12-14 Pol. Ind. Zona Franca, Barcelona, 08040, Spain
 
-Or
+## Or
 
-Accord Healthcare B.V. Winthontlaan 200, 3526KV Utrecht The Netherlands
+Pharmadox Healthcare Limited KW20A Kordin Industrial Park, Paola
 
-Or
-
-Pharmadox Healthcare Limited KW20A Kordin Industrial Park, Paola PLA 3000, Malta
+PLA 3000, Malta
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-AT / BE / BG / CY / CZ / DE / DK / EE / FI / FR / HR / HU / IE / IS / IT / LT / LV / LX / MT / NL / NO / PT / PL / RO / SE / SI / SK / UK(NI) / ES
+AT / BE / BG / CY / CZ / DE / DK / EE / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PT / PL / RO / SE / SI / SK / ES
 
 Accord Healthcare S.L.U.
 
@@ -908,7 +884,7 @@ Tel: +34 93 301 00 64
 
 EL
 
-Win Medica Pharmaceutical S.A.
+Win Medica A.E.
 
 Tel: +30 210 7488 821
 

@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/abrysvo.html
 document_name: abrysvo.html
 version: success
-processing_time: 0.1519605
-conversion_datetime: 2026-07-28 12:40:17.297756
+processing_time: 0.1656523
+conversion_datetime: 2026-07-28 13:03:08.814908
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

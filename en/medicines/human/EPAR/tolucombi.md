@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tolucombi.html
 document_name: tolucombi.html
 version: success
-processing_time: 0.347499
-conversion_datetime: 2026-07-28 12:30:29.700809
+processing_time: 0.1637992
+conversion_datetime: 2026-07-28 12:53:16.69156
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

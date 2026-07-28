@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ryjunea.html
 document_name: ryjunea.html
 version: success
-processing_time: 0.1736813
-conversion_datetime: 2026-07-28 12:31:47.373279
+processing_time: 0.1221176
+conversion_datetime: 2026-07-28 12:54:34.711589
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

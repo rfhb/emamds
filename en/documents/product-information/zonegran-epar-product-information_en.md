@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-18 16:58:20
+document_datetime: 2026-07-22 09:36:14
 document_pages: 83
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zonegran-epar-product-information_en.pdf
 document_name: zonegran-epar-product-information_en.pdf
 version: success
-processing_time: 23.0629032
-conversion_datetime: 2025-12-18 23:24:39.310072
+processing_time: 25.9767608
+conversion_datetime: 2026-07-28 13:32:00.561199
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -163,11 +163,9 @@ Consideration must be given to discontinuing Zonegran in patients who develop an
 
 ## Withdrawal seizures
 
-In accordance with current clinical practice, discontinuation of Zonegran in patients with epilepsy must be accomplished by gradual dose reduction, to reduce the possibility of seizures on withdrawal. There are insufficient data for the withdrawal of concomitant antiepileptic medicines once seizure control with Zonegran has been achieved in the add-on situation, in order to reach monotherapy with
+In accordance with current clinical practice, discontinuation of Zonegran in patients with epilepsy must be accomplished by gradual dose reduction, to reduce the possibility of seizures on withdrawal. There are insufficient data for the withdrawal of concomitant antiepileptic medicines once seizure control with Zonegran has been achieved in the add-on situation, in order to reach monotherapy with Zonegran. Therefore, withdrawal of concomitant anti-epileptic medicinal products must be undertaken with caution.
 
 <div style=\"page-break-after: always\"></div>
-
-Zonegran. Therefore, withdrawal of concomitant anti-epileptic medicinal products must be undertaken with caution.
 
 ## Sulphonamide reactions
 
@@ -191,11 +189,9 @@ Some patients, especially those with a predisposition to nephrolithiasis, may be
 
 ## Metabolic acidosis
 
-Hyperchloraemic, non-anion gap, metabolic acidosis (i.e. decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis) is associated with Zonegran treatment. This metabolic acidosis is caused by renal bicarbonate loss due to the inhibitory effect of zonisamide on carbonic anhydrase. Such electrolyte imbalance has been observed with the use of
+Hyperchloraemic, non-anion gap, metabolic acidosis (i.e. decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis) is associated with Zonegran treatment. This metabolic acidosis is caused by renal bicarbonate loss due to the inhibitory effect of zonisamide on carbonic anhydrase. Such electrolyte imbalance has been observed with the use of Zonegran in placebo-controlled clinical trials and in the post-marketing period. Generally, zonisamideinduced metabolic acidosis occurs early in treatment although cases can occur at any time during treatment. The amounts by which bicarbonate is decreased are usually small - moderate (average decrease of approximately 3.5 mEq/l at daily doses of 300 mg in adults); rarely patients can experience more severe decreases. Conditions or therapies that predispose to acidosis (such as renal disease, severe respiratory disorders, status epilepticus, diarrhoea, surgery, ketogenic diet, or medicinal products) may be additive to the bicarbonate lowering effects of zonisamide.
 
 <div style=\"page-break-after: always\"></div>
-
-Zonegran in placebo-controlled clinical trials and in the post-marketing period. Generally, zonisamideinduced metabolic acidosis occurs early in treatment although cases can occur at any time during treatment. The amounts by which bicarbonate is decreased are usually small - moderate (average decrease of approximately 3.5 mEq/l at daily doses of 300 mg in adults); rarely patients can experience more severe decreases. Conditions or therapies that predispose to acidosis (such as renal disease, severe respiratory disorders, status epilepticus, diarrhoea, surgery, ketogenic diet, or medicinal products) may be additive to the bicarbonate lowering effects of zonisamide.
 
 The risk of zonisamide induced metabolic acidosis appears to be more frequent and severe in younger patients. Appropriate evaluation and monitoring of serum bicarbonate levels should be carried out in patients taking zonisamide who have underlying conditions which might increase the risk of acidosis, in patients who are at an increased risk of adverse consequences of metabolic acidosis and in patients with symptoms suggestive of metabolic acidosis. If metabolic acidosis develops and persists, consideration should be given to reducing the dose or discontinuing Zonegran (by gradual discontinuation or reduction of a therapeutic dose) as osteopenia may develop. If the decision is made to continue patients on Zonegran in the face of persistent acidosis, alkali treatment should be considered.
 
@@ -217,11 +213,9 @@ In patients taking Zonegran, in whom severe muscle pain and/or weakness develop 
 
 ## Women of childbearing potential
 
-Women of childbearing potential must use effective contraception during treatment with Zonegran and for one month after discontinuation (see section 4.6). Zonegran must not be used in women of
+Women of childbearing potential must use effective contraception during treatment with Zonegran and for one month after discontinuation (see section 4.6). Zonegran must not be used in women of childbearing potential not using effective contraception unless clearly necessary and only if the potential benefit is considered to justify the risk to the foetus. Specialist medical advice should be given to women treated with zonisamide who are of childbearing potential. The woman should be fully informed of and understand the possible effects of Zonegran on the foetus and these risks should be discussed with the patient in relation to the benefits before starting treatment. Before the initiation of treatment with Zonegran in a woman of childbearing potential, pregnancy testing should be considered. Women planning a pregnancy should meet with their specialists to reassess treatment with Zonegran and to consider other therapeutic options prior to conception and before contraception is discontinued. Women of childbearing potential should be counselled to contact her doctor immediately if she becomes pregnant or thinks she may be pregnant and is taking Zonegran. Physicians treating patients with Zonegran should ensure that patients are fully informed about the need to use appropriate effective contraception, and should use clinical judgement when assessing whether oral contraceptives (OCs), or the doses of the OC components, are adequate based on the individual patient's clinical situation.
 
 <div style=\"page-break-after: always\"></div>
-
-childbearing potential not using effective contraception unless clearly necessary and only if the potential benefit is considered to justify the risk to the foetus. Specialist medical advice should be given to women treated with zonisamide who are of childbearing potential. The woman should be fully informed of and understand the possible effects of Zonegran on the foetus and these risks should be discussed with the patient in relation to the benefits before starting treatment. Before the initiation of treatment with Zonegran in a woman of childbearing potential, pregnancy testing should be considered. Women planning a pregnancy should meet with their specialists to reassess treatment with Zonegran and to consider other therapeutic options prior to conception and before contraception is discontinued. Women of childbearing potential should be counselled to contact her doctor immediately if she becomes pregnant or thinks she may be pregnant and is taking Zonegran. Physicians treating patients with Zonegran should ensure that patients are fully informed about the need to use appropriate effective contraception, and should use clinical judgement when assessing whether oral contraceptives (OCs), or the doses of the OC components, are adequate based on the individual patient's clinical situation.
 
 ## Body weight
 
@@ -254,11 +248,9 @@ The skin feels very hot with little or no sweating, or the child becomes confuse
 -  Keep the child's skin cool with water
 -  Give the child cold water to drink
 
-Cases of decreased sweating and elevated body temperature have been reported mainly in paediatric patients. Heat stroke requiring hospital treatment was diagnosed in some cases. Heat stroke requiring hospital treatment and leading to death has been reported. Most reports occurred during periods of warm weather. Physicians should discuss with patients and their carers the potential seriousness of heat stroke, situations in which it might arise, as well as action to take in the event of any signs or
+Cases of decreased sweating and elevated body temperature have been reported mainly in paediatric patients. Heat stroke requiring hospital treatment was diagnosed in some cases. Heat stroke requiring hospital treatment and leading to death has been reported. Most reports occurred during periods of warm weather. Physicians should discuss with patients and their carers the potential seriousness of heat stroke, situations in which it might arise, as well as action to take in the event of any signs or symptoms. Patients or their carers must be warned to take care to maintain hydration and avoid exposure to excessive temperatures and strenuous physical exercise depending on the condition of the patient. Prescribers should draw the attention of paediatric patients and their parent/ carers to the advice in the Packaging Leaflet on preventing heat stroke and overheating in children as provided. In the event of signs or symptoms of dehydration, oligohydrosis, or elevated body temperature, discontinuation of Zonegran should be considered.
 
 <div style=\"page-break-after: always\"></div>
-
-symptoms. Patients or their carers must be warned to take care to maintain hydration and avoid exposure to excessive temperatures and strenuous physical exercise depending on the condition of the patient. Prescribers should draw the attention of paediatric patients and their parent/ carers to the advice in the Packaging Leaflet on preventing heat stroke and overheating in children as provided. In the event of signs or symptoms of dehydration, oligohydrosis, or elevated body temperature, discontinuation of Zonegran should be considered.
 
 Zonegran should not be used as co-medication in paediatric patients with other medicinal products that predispose patients to heat related disorders; these include carbonic anhydrase inhibitors and medicinal products with anticholinergic activity.
 
@@ -356,11 +348,9 @@ Zonegran must not be used during pregnancy unless clearly necessary and only if 
 
 ## Breast-feeding
 
-Zonisamide is excreted in human milk; the concentration in breast milk is similar to maternal plasma. A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from
+Zonisamide is excreted in human milk; the concentration in breast milk is similar to maternal plasma. A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from Zonegran therapy. Due to the long retention time of zonisamide in the body, breast-feeding must not be resumed until one month after Zonegran therapy is completed.
 
 <div style=\"page-break-after: always\"></div>
-
-Zonegran therapy. Due to the long retention time of zonisamide in the body, breast-feeding must not be resumed until one month after Zonegran therapy is completed.
 
 ## Fertility
 
@@ -481,11 +471,9 @@ The adverse event profile of zonisamide in paediatric patients aged 6 to 17 year
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -515,11 +503,9 @@ The anticonvulsant activity of zonisamide has been evaluated in a variety of mod
 
 ## Monotherapy in partial seizures, with or without secondary generalisation
 
-Efficacy of zonisamide as monotherapy was established in a double-blind, parallel group, noninferiority comparison to carbamazepine prolonged release (PR) in 583 adult subjects with newly diagnosed partial seizures with or without secondary generalised tonic-clonic seizures. Subjects were randomised to carbamazepine and zonisamide received treatment for a duration of up to 24 months
+Efficacy of zonisamide as monotherapy was established in a double-blind, parallel group, noninferiority comparison to carbamazepine prolonged release (PR) in 583 adult subjects with newly diagnosed partial seizures with or without secondary generalised tonic-clonic seizures. Subjects were randomised to carbamazepine and zonisamide received treatment for a duration of up to 24 months depending on response. Subjects were titrated to the initial target dose of 600 mg carbamazepine or 300 mg of zonisamide. Subjects who experienced a seizure were titrated to the next target dose i.e. 800 mg carbamazepine or 400 mg of zonisamide. Subjects who experienced a further seizure were titrated to the maximal target dose of 1200 mg carbamazepine or 500 mg zonisamide. Subjects who were seizure-free for 26 weeks at a target dose level continued on this dose for another 26 weeks. Main outcomes of this study are presented in this table:
 
 <div style=\"page-break-after: always\"></div>
-
-depending on response. Subjects were titrated to the initial target dose of 600 mg carbamazepine or 300 mg of zonisamide. Subjects who experienced a seizure were titrated to the next target dose i.e. 800 mg carbamazepine or 400 mg of zonisamide. Subjects who experienced a further seizure were titrated to the maximal target dose of 1200 mg carbamazepine or 500 mg zonisamide. Subjects who were seizure-free for 26 weeks at a target dose level continued on this dose for another 26 weeks. Main outcomes of this study are presented in this table:
 
 Table 6. Efficacy results for Monotherapy Study 310
 
@@ -547,11 +533,9 @@ In adults, efficacy has been demonstrated with Zonegran in 4 double-blind, place
 
 Adjunctive therapy in the treatment of partial seizures, with or without secondary generalisation, in adolescent and paediatric patients (aged 6 years and above)
 
-In paediatric patients (aged 6 years and above), efficacy has been demonstrated with zonisamide in a double-blind, placebo-controlled study, which included 207 subjects and had a treatment duration of up to 24 weeks. A 50% or greater reduction from baseline in seizure frequency during the 12-week
+In paediatric patients (aged 6 years and above), efficacy has been demonstrated with zonisamide in a double-blind, placebo-controlled study, which included 207 subjects and had a treatment duration of up to 24 weeks. A 50% or greater reduction from baseline in seizure frequency during the 12-week stable dose period was seen in 50% of the zonisamide-treated subjects and 31% of the patients on placebo.
 
 <div style=\"page-break-after: always\"></div>
-
-stable dose period was seen in 50% of the zonisamide-treated subjects and 31% of the patients on placebo.
 
 Specific safety issues that were encountered in the paediatric studies were: decreased appetite and weight loss, decreased bicarbonate levels, increased risk of kidney stones and dehydration. All these effects and specifically weight loss may have deleterious implications for growth and development, and may lead to general deterioration of health. Altogether, data on effects on long-term growth and development are limited.
 
@@ -577,11 +561,9 @@ Apparent clearance of zonisamide at steady-state after oral administration is ab
 
 ## Linearity/non-linearity
 
-Zonisamide exposure increases with time until steady state is achieved by approximately 8 weeks. When comparing the same dose level, subjects of higher total body weight appear to have lower steady-state serum concentrations, but this effect appears to be relatively modest. Age (  12 years) and gender, after adjustment for body weight effects, have no apparent effect on zonisamide exposure in
+Zonisamide exposure increases with time until steady state is achieved by approximately 8 weeks. When comparing the same dose level, subjects of higher total body weight appear to have lower steady-state serum concentrations, but this effect appears to be relatively modest. Age (  12 years) and gender, after adjustment for body weight effects, have no apparent effect on zonisamide exposure in epileptic patients during steady-state dosing. There is no need for dose adjustment with any of the AEDs including CYP3A4 inducers.
 
 <div style=\"page-break-after: always\"></div>
-
-epileptic patients during steady-state dosing. There is no need for dose adjustment with any of the AEDs including CYP3A4 inducers.
 
 ## Pharmacokinetic/pharmacodynamic relationship
 
@@ -808,11 +790,9 @@ Consideration must be given to discontinuing Zonegran in patients who develop an
 
 ## Withdrawal seizures
 
-In accordance with current clinical practice, discontinuation of Zonegran in patients with epilepsy must be accomplished by gradual dose reduction, to reduce the possibility of seizures on withdrawal. There are insufficient data for the withdrawal of concomitant antiepileptic medicines once seizure control with Zonegran has been achieved in the add-on situation, in order to reach monotherapy with
+In accordance with current clinical practice, discontinuation of Zonegran in patients with epilepsy must be accomplished by gradual dose reduction, to reduce the possibility of seizures on withdrawal. There are insufficient data for the withdrawal of concomitant antiepileptic medicines once seizure control with Zonegran has been achieved in the add-on situation, in order to reach monotherapy with Zonegran. Therefore, withdrawal of concomitant anti-epileptic medicinal products must be undertaken with caution.
 
 <div style=\"page-break-after: always\"></div>
-
-Zonegran. Therefore, withdrawal of concomitant anti-epileptic medicinal products must be undertaken with caution.
 
 ## Sulphonamide reactions
 
@@ -836,11 +816,9 @@ Some patients, especially those with a predisposition to nephrolithiasis, may be
 
 ## Metabolic acidosis
 
-Hyperchloraemic, non-anion gap, metabolic acidosis (i.e. decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis) is associated with Zonegran treatment. This metabolic acidosis is caused by renal bicarbonate loss due to the inhibitory effect of zonisamide on carbonic anhydrase. Such electrolyte imbalance has been observed with the use of
+Hyperchloraemic, non-anion gap, metabolic acidosis (i.e. decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis) is associated with Zonegran treatment. This metabolic acidosis is caused by renal bicarbonate loss due to the inhibitory effect of zonisamide on carbonic anhydrase. Such electrolyte imbalance has been observed with the use of Zonegran in placebo-controlled clinical trials and in the post-marketing period. Generally, zonisamideinduced metabolic acidosis occurs early in treatment although cases can occur at any time during treatment. The amounts by which bicarbonate is decreased are usually small - moderate (average decrease of approximately 3.5 mEq/l at daily doses of 300 mg in adults); rarely patients can experience more severe decreases. Conditions or therapies that predispose to acidosis (such as renal disease, severe respiratory disorders, status epilepticus, diarrhoea, surgery, ketogenic diet, or medicinal products) may be additive to the bicarbonate lowering effects of zonisamide.
 
 <div style=\"page-break-after: always\"></div>
-
-Zonegran in placebo-controlled clinical trials and in the post-marketing period. Generally, zonisamideinduced metabolic acidosis occurs early in treatment although cases can occur at any time during treatment. The amounts by which bicarbonate is decreased are usually small - moderate (average decrease of approximately 3.5 mEq/l at daily doses of 300 mg in adults); rarely patients can experience more severe decreases. Conditions or therapies that predispose to acidosis (such as renal disease, severe respiratory disorders, status epilepticus, diarrhoea, surgery, ketogenic diet, or medicinal products) may be additive to the bicarbonate lowering effects of zonisamide.
 
 The risk of zonisamide induced metabolic acidosis appears to be more frequent and severe in younger patients. Appropriate evaluation and monitoring of serum bicarbonate levels should be carried out in patients taking zonisamide who have underlying conditions which might increase the risk of acidosis, in patients who are at an increased risk of adverse consequences of metabolic acidosis and in patients with symptoms suggestive of metabolic acidosis. If metabolic acidosis develops and persists, consideration should be given to reducing the dose or discontinuing Zonegran (by gradual discontinuation or reduction of a therapeutic dose) as osteopenia may develop. If the decision is made to continue patients on Zonegran in the face of persistent acidosis, alkali treatment should be considered.
 
@@ -862,11 +840,9 @@ In patients taking Zonegran, in whom severe muscle pain and/or weakness develop 
 
 ## Women of childbearing potential
 
-Women of childbearing potential must use effective contraception during treatment with Zonegran and for one month after discontinuation (see section 4.6). Zonegran must not be used in women of
+Women of childbearing potential must use effective contraception during treatment with Zonegran and for one month after discontinuation (see section 4.6). Zonegran must not be used in women of childbearing potential not using effective contraception unless clearly necessary and only if the potential benefit is considered to justify the risk to the foetus. Specialist medical advice should be given to women treated with zonisamide who are of childbearing potential. The woman should be fully informed of and understand the possible effects of Zonegran on the foetus and these risks should be discussed with the patient in relation to the benefits before starting treatment. Before the initiation of treatment with Zonegran in a woman of childbearing potential, pregnancy testing should be considered. Women planning a pregnancy should meet with their specialists to reassess treatment with Zonegran and to consider other therapeutic options prior to conception and before contraception is discontinued. Women of childbearing potential should be counselled to contact her doctor immediately if she becomes pregnant or thinks she may be pregnant and is taking Zonegran. Physicians treating patients with Zonegran should ensure that patients are fully informed about the need to use appropriate effective contraception, and should use clinical judgement when assessing whether oral contraceptives (OCs), or the doses of the OC components, are adequate based on the individual patient's clinical situation.
 
 <div style=\"page-break-after: always\"></div>
-
-childbearing potential not using effective contraception unless clearly necessary and only if the potential benefit is considered to justify the risk to the foetus. Specialist medical advice should be given to women treated with zonisamide who are of childbearing potential. The woman should be fully informed of and understand the possible effects of Zonegran on the foetus and these risks should be discussed with the patient in relation to the benefits before starting treatment. Before the initiation of treatment with Zonegran in a woman of childbearing potential, pregnancy testing should be considered. Women planning a pregnancy should meet with their specialists to reassess treatment with Zonegran and to consider other therapeutic options prior to conception and before contraception is discontinued. Women of childbearing potential should be counselled to contact her doctor immediately if she becomes pregnant or thinks she may be pregnant and is taking Zonegran. Physicians treating patients with Zonegran should ensure that patients are fully informed about the need to use appropriate effective contraception, and should use clinical judgement when assessing whether oral contraceptives (OCs), or the doses of the OC components, are adequate based on the individual patient's clinical situation.
 
 ## Body weight
 
@@ -899,11 +875,9 @@ The skin feels very hot with little or no sweating, or the child becomes confuse
 -  Keep the child's skin cool with water
 -  Give the child cold water to drink
 
-Cases of decreased sweating and elevated body temperature have been reported mainly in paediatric patients. Heat stroke requiring hospital treatment was diagnosed in some cases. Heat stroke requiring hospital treatment and leading to death has been reported. Most reports occurred during periods of warm weather. Physicians should discuss with patients and their carers the potential seriousness of heat stroke, situations in which it might arise, as well as action to take in the event of any signs or
+Cases of decreased sweating and elevated body temperature have been reported mainly in paediatric patients. Heat stroke requiring hospital treatment was diagnosed in some cases. Heat stroke requiring hospital treatment and leading to death has been reported. Most reports occurred during periods of warm weather. Physicians should discuss with patients and their carers the potential seriousness of heat stroke, situations in which it might arise, as well as action to take in the event of any signs or symptoms. Patients or their carers must be warned to take care to maintain hydration and avoid exposure to excessive temperatures and strenuous physical exercise depending on the condition of the patient. Prescribers should draw the attention of paediatric patients and their parent/ carers to the advice in the Packaging Leaflet on preventing heat stroke and overheating in children as provided. In the event of signs or symptoms of dehydration, oligohydrosis, or elevated body temperature, discontinuation of Zonegran should be considered.
 
 <div style=\"page-break-after: always\"></div>
-
-symptoms. Patients or their carers must be warned to take care to maintain hydration and avoid exposure to excessive temperatures and strenuous physical exercise depending on the condition of the patient. Prescribers should draw the attention of paediatric patients and their parent/ carers to the advice in the Packaging Leaflet on preventing heat stroke and overheating in children as provided. In the event of signs or symptoms of dehydration, oligohydrosis, or elevated body temperature, discontinuation of Zonegran should be considered.
 
 Zonegran should not be used as co-medication in paediatric patients with other medicinal products that predispose patients to heat related disorders; these include carbonic anhydrase inhibitors and medicinal products with anticholinergic activity.
 
@@ -1554,11 +1528,9 @@ There are limited data from clinical studies in patients with a body weight of l
 
 ## Metabolic acidosis
 
-The risk of zonisamide induced metabolic acidosis appears to be more frequent and severe in paediatric and adolescent patients. Appropriate evaluation and monitoring of serum bicarbonate levels
+The risk of zonisamide induced metabolic acidosis appears to be more frequent and severe in paediatric and adolescent patients. Appropriate evaluation and monitoring of serum bicarbonate levels should be carried out in this population (see section 4.4 - Metabolic acidosis for full warning; see section 4.8 for incidence of low bicarbonate). The long term effect of low bicarbonate levels on growth and development is unknown.
 
 <div style=\"page-break-after: always\"></div>
-
-should be carried out in this population (see section 4.4 - Metabolic acidosis for full warning; see section 4.8 for incidence of low bicarbonate). The long term effect of low bicarbonate levels on growth and development is unknown.
 
 Zonegran should not be used as co-medication in paediatric patients with other carbonic anhydrase inhibitors such as topiramate and acetazolamide (see section 4.5).
 
@@ -1627,11 +1599,9 @@ Interaction studies have only been performed in adults.
 
 Women of childbearing potential must use effective contraception during treatment with Zonegran, and for one month after discontinuation.
 
-Zonegran must not be used in women of childbearing potential not using effective contraception unless clearly necessary and only if the potential benefit is considered to justify the risk to the foetus. Specialist medical advice should be given to women treated with zonisamide who are of childbearing potential. The woman should be fully informed of and understand the possible effects of Zonegran on the foetus and these risks should be discussed with the patient in relation to the benefits before starting treatment. Pregnancy testing in women of childbearing potential should be considered prior to
+Zonegran must not be used in women of childbearing potential not using effective contraception unless clearly necessary and only if the potential benefit is considered to justify the risk to the foetus. Specialist medical advice should be given to women treated with zonisamide who are of childbearing potential. The woman should be fully informed of and understand the possible effects of Zonegran on the foetus and these risks should be discussed with the patient in relation to the benefits before starting treatment. Pregnancy testing in women of childbearing potential should be considered prior to initiating treatment with zonisamide. Women planning a pregnancy should meet with their specialists to reassess treatment with zonisamide and to consider other therapeutic options prior to conception and before contraception is discontinued.
 
 <div style=\"page-break-after: always\"></div>
-
-initiating treatment with zonisamide. Women planning a pregnancy should meet with their specialists to reassess treatment with zonisamide and to consider other therapeutic options prior to conception and before contraception is discontinued.
 
 As with all antiepileptic medicines, sudden discontinuation of zonisamide should be avoided as this may lead to breakthrough seizures that could have serious consequences for the woman and the unborn child. The risk of birth defect is increased by factor 2 to 3 in the offspring of mothers treated with an antiepileptic medicinal product. The most frequently reported are cleft lip, cardiovascular malformations and neural tube defect. Multiple antiepileptic medicinal product therapy may be associated with a higher risk of congenital malformations than monotherapy.
 
@@ -1661,11 +1631,9 @@ No studies on the effects on the ability to drive and use machines have been per
 
 Zonegran has been administered to over 1,200 patients in clinical studies, more than 400 of whom received Zonegran for at least 1 year. In addition there has been extensive post-marketing experience with zonisamide in Japan since 1989 and in the USA since 2000.
 
-It should be noted that Zonegran is a benzisoxazole derivative, which contains a sulphonamide group. Serious immune based adverse reactions that are associated with medicinal products containing a
+It should be noted that Zonegran is a benzisoxazole derivative, which contains a sulphonamide group. Serious immune based adverse reactions that are associated with medicinal products containing a sulphonamide group include rash, allergic reaction and major haematological disturbances including aplastic anaemia, which very rarely can be fatal (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-sulphonamide group include rash, allergic reaction and major haematological disturbances including aplastic anaemia, which very rarely can be fatal (see section 4.4).
 
 The most common adverse reactions in controlled adjunctive-therapy studies were somnolence, dizziness and anorexia. The most common adverse reactions in a randomised, controlled monotherapy trial comparing zonisamide with carbamazepine prolonged release were decreased bicarbonate, decreased appetite, and decreased weight. The incidence of markedly abnormally low serum bicarbonate (a decrease to less than 17 mEq/l and by more than 5 mEq/l) was 3.8%. The incidence of marked decreases in weight of 20% or more was 0.7%.
 
@@ -2019,7 +1987,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Zonegran 25 mg hard capsules zonisamide
+Zonegran 25 mg hard capsules
+
+zonisamide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -2115,9 +2085,9 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARSTO APPEARON BLISTERSOR STRIPS   |
-|----------------------------------------------------|
-| Blister Pack                                       |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Blister Pack                                          |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -2134,8 +2104,8 @@ Amdipharm
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -2150,7 +2120,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Zonegran 50 mg hard capsules zonisamide
+Zonegran 50 mg hard capsules
+
+zonisamide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -2246,9 +2218,9 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARSTO APPEARON BLISTERSOR STRIPS   |
-|----------------------------------------------------|
-| Blister Pack                                       |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Blister Pack                                          |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -2265,8 +2237,8 @@ Amdipharm
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -2387,9 +2359,9 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARSTO APPEARON BLISTERSOR STRIPS   |
-|----------------------------------------------------|
-| Blister Pack                                       |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Blister Pack                                          |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -2723,7 +2695,9 @@ Not all pack sizes may be available.
 
 Amdipharm Limited Unit 17, Northwood House, Northwood Crescent, Northwood, Dublin 9, D09 V504,
 
-Ireland e-mail: medicalinformation@advanzpharma.com
+Ireland
+
+e-mail: medicalinformation@advanzpharma.com
 
 ## Manufacturer
 
@@ -2803,7 +2777,7 @@ Tel: +44 (0) 208 588 9131
 
 ## Ελλάδα
 
-Amdipharm Limited Τηλ: +44 (0) 208 588 9131
+KITE HELLAS LTD Τηλ: + 0030 2102014306
 
 ## España
 

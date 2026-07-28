@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zeffix.html
 document_name: zeffix.html
 version: success
-processing_time: 0.1228626
-conversion_datetime: 2026-07-28 12:28:41.882384
+processing_time: 0.1347937
+conversion_datetime: 2026-07-28 12:51:28.209557
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

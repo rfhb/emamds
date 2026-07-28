@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-07-10 11:13:26
+document_datetime: 2026-07-22 14:37:58
 document_pages: 57
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cometriq-epar-product-information_en.pdf
 document_name: cometriq-epar-product-information_en.pdf
 version: success
-processing_time: 29.6872426
-conversion_datetime: 2026-07-13 12:50:46.70594
+processing_time: 60.3765381
+conversion_datetime: 2026-07-28 14:02:19.721308
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.112.0
-  docling-core: 2.87.0
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---

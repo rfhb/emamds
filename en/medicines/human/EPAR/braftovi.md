@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-07-01 15:22:00
+document_datetime: 2026-07-22 12:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/braftovi.html
 document_name: braftovi.html
 version: success
-processing_time: 0.322299
-conversion_datetime: 2026-07-04 13:12:20.557331
+processing_time: 0.1588513
+conversion_datetime: 2026-07-28 12:39:46.10095
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
   plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
@@ -46,14 +46,19 @@ Page contents
 
 ## Overview
 
-Braftovi is a medicine used in adults for treating certain cancers when their cells have a mutation (change) in their genes called 'BRAF V600'.
+Braftovi is a medicine used in adults for treating certain cancers when their cells have a mutation (change) in a gene called BRAF V600.
 
-Braftovi is used in combination with another medicine, binimetinib to treat:
+Braftovi is used in combination with another medicine, binimetinib, to treat:
 
 - melanoma (a skin cancer) that cannot be removed by surgery or has spread;
-- a type of lung cancer called non-small cell lung cancer (NSCLC). It is used when the cancer is advanced and has the BRAF V600E version of the mutation.
 
-Braftovi is also used in combination with the medicine cetuximab to treat colorectal cancer (cancer of the large bowel or rectum) with the BRAF V600E version of the mutation, when it has spread elsewhere in the body and has previously been treated with other systemic (given by mouth or injection) medicines.
+- a type of lung cancer called non-small cell lung cancer (NSCLC). It is used when the cancer is advanced and has the BRAF V600E mutation;
+
+Braftovi is also used to treat colorectal cancer (cancer of the large bowel or rectum) when the cancer has the BRAF V600E mutation and is metastatic (has spread elsewhere in the body):
+
+- in combination with cetuximab and FOLFOX (a combination of fluorouracil with folinic acid and the cancer medicine oxaliplatin)) in previously untreated patients;
+
+- in combination with cetuximab in patients who have already been treated with cancer medicines given by mouth or by injection.
 
 Braftovi contains the active substance encorafenib.
 
@@ -65,7 +70,7 @@ Collapse section
 
 Braftovi can only be obtained with a prescription and treatment should be started and supervised by a doctor experienced in using cancer medicines.
 
-The medicine is available as capsules taken by mouth once daily and the dose depends on the condition being treated. The dose may be reduced, or treatment may be stopped temporarily, if the patient experiences severe side effects. The dose of the other medicine, binimetinib or cetuximab, may also be reduced but if the other medicine is stopped Braftovi must be stopped too.
+The medicine is available as capsules to be taken by mouth once daily and the dose depends on the condition being treated. If the patient experiences severe side effects, the dose may be reduced or treatment may be stopped temporarily. The dose of the other medicine, binimetinib or cetuximab, may also be reduced. If treatment with the other medicine is stopped, treatment with Braftovi must also be stopped.
 
 Treatment with Braftovi can last for as long as the patient benefits from it and does not have unacceptable side effects.
 
@@ -73,39 +78,49 @@ For more information about using Braftovi, see the package leaflet or contact yo
 
 ### How does Braftovi work?
 
-In cancers with a BRAF V600 mutation, an abnormal form of the protein BRAF is present, which switches on another protein called MEK involved in stimulating cell division. This encourages cancers to develop by allowing uncontrolled division of cells. The active substance in Braftovi, encorafenib, works by blocking the BRAF protein thereby stopping its activation of cell division and slowing down the growth and spread of the cancer.
+In cancers cells with a BRAF V600 mutation, an abnormal form of the protein BRAF is present, which switches on another protein called MEK that stimulates cell division. This causes cancer cells to divide uncontrollably, leading to cancer growth. The active substance in Braftovi, encorafenib, works by blocking the abnormal BRAF protein, preventing it from activating cell division and thereby slowing down the growth and spread of the cancer.
 
 ### What benefits of Braftovi have been shown in studies?
 
 **Melanoma**
 
-A study of 577 patients with melanoma with a BRAF V600 mutation that had spread or could not be removed surgically showed that Braftovi with binimetinib can prolong the length of time patients lived without their disease getting worse.
+A study of 577 patients with melanoma with a BRAF V600 mutation that had spread or could not be removed surgically showed that Braftovi with binimetinib can prolong the time patients lived without their disease getting worse.
 
-Patients who took this combination lived on average for nearly 15 months without the disease getting worse. This compared with over 9.5 months for patients who took Braftovi alone and just over 7 months for patients taking a different medicine called vemurafenib.
+Patients who took this combination lived for a median time of nearly 15 months without the disease getting worse. This compared with over 9.5 months for patients who took Braftovi alone and just over 7 months for patients taking a different medicine called vemurafenib.
 
 **Colorectal cancer**
 
-In a study involving 665 patients with previously treated colorectal cancer with the BRAF V600E mutation that had spread to other parts of the body, Braftovi with cetuximab improved response rates and prolonged the length of time that patients lived compared with treatment using cetuximab with other cancer medicines. Around 20% of patients given Braftovi with cetuximab responded to treatment, compared with about 2% in those not given Braftovi. The average length of time that patients given Braftovi and cetuximab lived was 9.3 months, compared with 5.9 months among those given other medicines.
+In a study involving 665 patients with previously treated colorectal cancer with the BRAF V600E mutation that had spread to other parts of the body, Braftovi with cetuximab improved response rates and prolonged the time that patients lived compared with treatment using cetuximab with other cancer medicines. Around 20% of patients given Braftovi with cetuximab responded to treatment, compared with about 2% in those not given Braftovi. The median time that patients given Braftovi and cetuximab lived was 9.3 months, compared with 5.9 months among those given other medicines.
+
+Another study involved 637 patients with metastatic colorectal cancer with the BRAF V600E mutation who had not received cancer medicines given by mouth or injection before. The study looked at the effects of adding Braftovi and cetuximab to FOLFOX. The median time patients given Braftovi with cetuximab and FOLFOX lived without their disease getting worse was 12.8 months, compared with 7.1 months among those given standard chemotherapy like FOLFOX. The median time patients given Braftovi and cetuximab with FOLFOX lived was 30 months, compared with 15 months for patients given standard treatment.
 
 **Non-small cell lung cancer**
 
-The benefits of Braftovi given with binimetinib were evaluated in a main study involving 98 patients who had advanced NSCLC with the BRAF V600E mutation, which included patients who had not received prior treatment for NSCLC and those who had. The study did not compare the combination of Braftovi and binimetinib with other medicines or placebo (a dummy treatment). The main measure of effectiveness was the percentage of patients who responded to treatment, with either no sign of cancer or a decrease in the extent of the cancer after treatment. Around 75% of patients who had not received prior treatment responded to Braftovi given with binimetinib, and they lived for an average of 40 months without their cancer getting worse. Around 46% of patients who had received prior treatment responded to this combination, and they lived for an average of around 17 months without their cancer getting worse.
+The benefits of Braftovi given with binimetinib were evaluated in a main study involving 98 patients who had advanced NSCLC with the BRAF V600E mutation, which included patients who had received prior treatment for NSCLC and those who had not. The study did not compare the combination of Braftovi and binimetinib with other medicines or placebo (a dummy treatment). The main measure of effectiveness was the percentage of patients who responded to treatment, with either no sign of cancer or a decrease in the extent of the cancer after treatment. Around 75% of patients who had not received prior treatment responded to Braftovi given with binimetinib, and they lived for median of 40 months without their cancer getting worse. Around 46% of patients who had received prior treatment responded to this combination, and they lived for an median of around 17 months without their cancer getting worse.
 
-### What are the risks associated with Braftovi?
+Studies carried out with Braftovi are described in more detail in the medicine's assessment reports.
+
+### What are the side effects and restrictions with Braftovi?
 
 For the full list of side effects and restrictions, see the package leaflet.
 
-The most common side effects (which can affect more than 1 in 4 people) with Braftovi and binimetinib taken together at the highest recommended doses include tiredness, nausea (feeling sick), diarrhoea, vomiting, abdominal (belly) pain, muscle pain or problems with the muscles, and joint pain
+The most common side effects (which may affect more than 1 in 4 people) with Braftovi include hyperkeratosis (a thickening of the skin's outer layer, caused by an overproduction of keratin (a tough, protective protein)), alopecia (hair loss), palmar-plantar erythrodysaesthesia syndrome (hand foot syndrome which is rash and numbness on the palms and soles), tiredness, rash, arthralgia, dry skin, nausea (feeling sick), myalgia (muscle pain), headache, vomiting and pruritus (itching).
 
-The most common side effects with Braftovi and cetuximab (which can affect more than 1 in 4 people) include tiredness, nausea (feeling sick), diarrhoea, dermatitis acneiform (a skin condition that causes small, raised, acne-like bumps to form, usually on the face, scalp, chest, and upper back), abdominal pain, joint pain or pain in the muscles and bones, decreased appetite, rash and vomiting.
+The most common side effects (which may affect more than 1 in 4 people) with Braftovi and binimetinib taken together include tiredness, nausea, diarrhoea, vomiting, abdominal (belly) pain, muscle pain or problems with the muscles and joint pain.
+
+The most common side effects with Braftovi and cetuximab (which may affect more than 1 in 4 people) include tiredness, nausea, diarrhoea, dermatitis acneiform (a skin condition that causes small, raised, acne-like bumps to form, usually on the face, scalp, chest and upper back), abdominal pain, joint pain or pain in the muscles and bones, decreased appetite, rash and vomiting.
+
+The most common side effects (which may affect more than 1 in 4 people) with Braftovi, cetuximab and FOLFOX include peripheral neuropathy (nerve damage in arms and legs), neutropenia (low levels of neutrophils, a type of white blood cells), nausea, fatigue, anaemia (low levels of red blood cells), diarrhoea, vomiting, decreased appetite, rash, thrombocytopenia (low levels of blood platelets), abdominal pain, haemorrhage (bleeding), arthralgia (joint pain) and musculoskeletal (muscle and bone) pain, pyrexia (fever), constipation, mucosal (moist body surfaces) inflammation and infection.
 
 ### Why is Braftovi authorised in the EU?
 
-Up to 50% of patients with metastatic melanoma have a mutation in the BRAF gene, with forms of the V600 mutation being the most common. Braftovi, in combination with binimetinib, can help prolong the time that these patients live without their cancer getting worse.
+Up to half of patients with metastatic melanoma have a mutation in the BRAF gene, with V600 mutations being the most common. Braftovi, in combination with binimetinib, can help prolong the time that these patients live without their cancer getting worse.
 
-Although the study in patients with NSCLC did not directly compare Braftovi and binimetinib with any other treatment, the benefits in patients with advanced NSCLC with a BRAF V600E mutation who had not received prior treatment were similar to those seen with the current standard of care (treatment that medical experts consider most appropriate). While the treatment effect of this combination was lower in patients who had received previous treatment, it was still considered beneficial for these patients.
+Although the study in patients with NSCLC did not directly compare Braftovi and binimetinib with any other treatment, the benefits in previously untreated patients with advanced NSCLC with the BRAF V600E mutation were similar to those seen with the standard of care (treatment that medical experts consider most appropriate) at the time of approval. While the treatment effect of this combination was lower in patients who had received previous treatment, it was still considered beneficial for these patients.
 
-In patients with previously-treated colorectal cancer and a BRAF V600E mutation, Braftovi with cetuximab has been shown to produce a meaningful improvement in the length of time they live. The side effects seen with Braftovi are similar to those seen with other medicines in the same class and are considered manageable.
+In patients with previously treated colorectal cancer and the BRAF V600E mutation, Braftovi with cetuximab has been shown to produce a meaningful improvement in the length of time they live. In previously untreated patients with colorectal cancer and the BRAF V600E mutation, Braftovi with cetuximab and FOLFAX has been shown to increase the length of time patients with colorectal cancer live.
+
+The side effects seen with Braftovi are similar to those seen with other medicines in the same class and are considered manageable.
 
 The European Medicines Agency therefore decided that Braftovi's benefits are greater than its risks and it can be authorised for use in the EU.
 
@@ -121,145 +136,145 @@ Braftovi received a marketing authorisation valid throughout the EU on 20 Septem
 
 Braftovi : EPAR - Medicine overview
 
-Reference Number: EMA/372420/2024
+Reference Number: EMADOC-1829012297-57299
 
-English (EN) (149.09 KB - PDF)
+English (EN) (171.01 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/en/documents/overview/braftovi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-520)
+[Other languages (22)](#file-language-dropdown-923)
 
-български (BG) (165.64 KB - PDF)
+български (BG) (184.77 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/bg/documents/overview/braftovi-epar-medicine-overview_bg.pdf)
 
-español (ES) (138.18 KB - PDF)
+español (ES) (165.43 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/es/documents/overview/braftovi-epar-medicine-overview_es.pdf)
 
-čeština (CS) (164.71 KB - PDF)
+čeština (CS) (183.33 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/cs/documents/overview/braftovi-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (139.12 KB - PDF)
+dansk (DA) (165.06 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/da/documents/overview/braftovi-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (142.83 KB - PDF)
+Deutsch (DE) (170.41 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/de/documents/overview/braftovi-epar-medicine-overview_de.pdf)
 
-eesti (ET) (134.93 KB - PDF)
+eesti (ET) (161.12 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/et/documents/overview/braftovi-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (166.09 KB - PDF)
+ελληνικά (EL) (184.53 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/el/documents/overview/braftovi-epar-medicine-overview_el.pdf)
 
-français (FR) (139.21 KB - PDF)
+français (FR) (164.32 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/fr/documents/overview/braftovi-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (162.37 KB - PDF)
+hrvatski (HR) (180.94 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/hr/documents/overview/braftovi-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (136.63 KB - PDF)
+italiano (IT) (163.62 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/it/documents/overview/braftovi-epar-medicine-overview_it.pdf)
 
-latviešu (LV) (168.49 KB - PDF)
+latviešu (LV) (187.96 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/lv/documents/overview/braftovi-epar-medicine-overview_lv.pdf)
 
-lietuvių (LT) (160.54 KB - PDF)
+lietuvių (LT) (180.22 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/lt/documents/overview/braftovi-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (163.32 KB - PDF)
+magyar (HU) (182.97 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/hu/documents/overview/braftovi-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (163.19 KB - PDF)
+Malti (MT) (181.98 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/mt/documents/overview/braftovi-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (140.58 KB - PDF)
+Nederlands (NL) (166.91 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/nl/documents/overview/braftovi-epar-medicine-overview_nl.pdf)
 
-polski (PL) (165.29 KB - PDF)
+polski (PL) (184.21 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/pl/documents/overview/braftovi-epar-medicine-overview_pl.pdf)
 
-português (PT) (138.73 KB - PDF)
+português (PT) (165.72 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/pt/documents/overview/braftovi-epar-medicine-overview_pt.pdf)
 
-română (RO) (159.43 KB - PDF)
+română (RO) (178.12 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/ro/documents/overview/braftovi-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (162.44 KB - PDF)
+slovenčina (SK) (181.04 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/sk/documents/overview/braftovi-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (161.81 KB - PDF)
+slovenščina (SL) (181.04 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/sl/documents/overview/braftovi-epar-medicine-overview_sl.pdf)
 
-suomi (FI) (134.85 KB - PDF)
+suomi (FI) (161.13 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/fi/documents/overview/braftovi-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (136.41 KB - PDF)
+svenska (SV) (162.02 KB - PDF)
 
-**First published:** 12/10/2018 **Last updated:** 23/09/2024
+**First published:** 12/10/2018 **Last updated:** 22/07/2026
 
 [View](/sv/documents/overview/braftovi-epar-medicine-overview_sv.pdf)
 
@@ -281,7 +296,7 @@ English (EN) (890.39 KB - PDF)
 
 [View](/en/documents/product-information/braftovi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-652)
+[Other languages (24)](#file-language-dropdown-834)
 
 български (BG) (1.17 MB - PDF)
 
@@ -454,7 +469,7 @@ English (EN) (48.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/braftovi-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-759)
+[Other languages (24)](#file-language-dropdown-324)
 
 български (BG) (114.63 KB - PDF)
 
@@ -797,6 +812,6 @@ English (EN) (69.09 KB - PDF)
 
 **This page was last updated on**
 
-01/07/2026
+22/07/2026
 
 ## Share this page

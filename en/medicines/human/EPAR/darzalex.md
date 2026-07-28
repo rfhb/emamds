@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/darzalex.html
 document_name: darzalex.html
 version: success
-processing_time: 0.2235147
-conversion_datetime: 2026-07-28 12:38:44.349639
+processing_time: 0.2121979
+conversion_datetime: 2026-07-28 13:01:35.042395
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

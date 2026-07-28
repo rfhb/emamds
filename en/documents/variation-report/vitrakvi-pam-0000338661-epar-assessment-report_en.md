@@ -4,8 +4,8 @@ document_pages: 9
 document_pathfilename: www.ema.europa.eu/en/documents/variation-report/vitrakvi-pam-0000338661-epar-assessment-report_en.pdf
 document_name: vitrakvi-pam-0000338661-epar-assessment-report_en.pdf
 version: success
-processing_time: 5.5044784
-conversion_datetime: 2026-07-28 12:40:36.879284
+processing_time: 3.9196935
+conversion_datetime: 2026-07-28 13:03:26.257403
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

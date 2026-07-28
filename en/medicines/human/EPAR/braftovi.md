@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/braftovi.html
 document_name: braftovi.html
 version: success
-processing_time: 0.1588513
-conversion_datetime: 2026-07-28 12:39:46.10095
+processing_time: 0.156877
+conversion_datetime: 2026-07-28 13:02:37.194812
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-02-18 11:25:00
+document_datetime: 2026-07-20 16:38:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pluvicto.html
 document_name: pluvicto.html
 version: success
-processing_time: 0.1010927
-conversion_datetime: 2026-02-21 12:38:43.049078
+processing_time: 0.125859
+conversion_datetime: 2026-07-28 12:32:18.254029
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Pluvicto
 
 [RSS](/en/individual-human-medicine.xml/67637)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-lutetium (177Lu) vipivotide tetraxetan Medicine Human Authorised
+lutetium (177Lu) vipivotide tetraxetan
+
+Medicine Human Authorised
 
 Page contents
 
@@ -36,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Pluvicto](#news-on)
+- [More information on Pluvicto](#related-medicines)
 
 - Application under evaluation
 - CHMP opinion
@@ -53,7 +56,7 @@ Expand section
 
 Collapse section
 
-## How is Pluvicto used?
+### How is Pluvicto used?
 
 Because Pluvicto gives off some radioactivity, it is only used in special controlled areas and must be given to patients by healthcare professionals qualified and authorised to use radiopharmaceuticals.
 
@@ -65,17 +68,17 @@ Blood tests will be done before and during treatment to detect certain side effe
 
 For more information about Pluvicto, including precautions that should be taken to limit radioactivity exposure to patients and people around them, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Pluvicto work?
+### How does Pluvicto work?
 
 Pluvicto works by attaching to the PSMA protein found on the surface of the prostate cancer cells. The radioactivity it emits kills the tumour cells it is attached to but has little effect on neighbouring cells.
 
-## What benefits of Pluvicto have been shown in studies?
+### What benefits of Pluvicto have been shown in studies?
 
 Pluvicto was shown to be effective at increasing the time patients live without their cancer getting worse and the time they live overall.
 
 In a main study involving 831 patients with progressive, metastatic, castration-resistant and PSMA-positive prostate cancer, 551 patients were treated with Pluvicto together with other treatments for prostate cancer (best standard of care) and 280 were given standard of care only. The study showed that patients given Pluvicto lived for 8.7 months on average without their cancer getting worse, compared with 3.4 months on average for those treated with standard of care only. In addition, on average, patients treated with Pluvicto lived 15.3 months, while those receiving standard of care lived for 11.3 months.
 
-## What are the risks associated with Pluvicto?
+### What are the risks associated with Pluvicto?
 
 The most common side effects with Pluvicto (which may affect more than 1 in 10 people) are tiredness, dry mouth, nausea (feeling sick), anaemia (low levels of red blood cells), decreased appetite and constipation.
 
@@ -83,11 +86,11 @@ The most common serious side effects (which may affect up to 1 in 20 people) are
 
 For the full list of side effects and restrictions of Pluvicto, see the package leaflet.
 
-## Why is Pluvicto authorised in the EU?
+### Why is Pluvicto authorised in the EU?
 
 Pluvicto has been shown to increase both the time people with progressive, metastatic, castration-resistant and PSMA-positive prostate cancer live without their disease getting worse and the time they live overall. Although treatment with Pluvicto may cause more side effects than standard of care, they are considered manageable. The European Medicines Agency also noted the limited treatment options available for patients with this type of cancer. The Agency therefore decided that Pluvicto's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Pluvicto?
+### What measures are being taken to ensure the safe and effective use of Pluvicto?
 
 The company that markets Pluvicto will ensure that patient given this medicine have access to a patient guide containing important information on the risk of radioactivity and precautions they should take to limit exposure to themselves and people around them.
 
@@ -95,7 +98,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Pluvicto are continuously monitored. Suspected side effects reported with Pluvicto are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Pluvicto
+### Other information about Pluvicto
 
 Pluvicto received a marketing authorisation valid throughout the EU on 09 December 2022.
 
@@ -109,181 +112,137 @@ English (EN) (123.97 KB - PDF)
 
 [View](/en/documents/overview/pluvicto-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-755)
+[Other languages (22)](#file-language-dropdown-925)
 
 български (BG) (147.09 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/bg/documents/overview/pluvicto-epar-medicine-overview_bg.pdf)
 
 español (ES) (122.62 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/es/documents/overview/pluvicto-epar-medicine-overview_es.pdf)
 
 čeština (CS) (145.25 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/cs/documents/overview/pluvicto-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (122.14 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/da/documents/overview/pluvicto-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (126.25 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/de/documents/overview/pluvicto-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (108.57 KB - PDF)
+eesti (ET) (108.57 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/et/documents/overview/pluvicto-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (155.13 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/el/documents/overview/pluvicto-epar-medicine-overview_el.pdf)
 
 français (FR) (124.21 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/fr/documents/overview/pluvicto-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (145.57 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/hr/documents/overview/pluvicto-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (121.32 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/it/documents/overview/pluvicto-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (159.03 KB - PDF)
+latviešu (LV) (159.03 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/lv/documents/overview/pluvicto-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (145.27 KB - PDF)
+lietuvių (LT) (145.27 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/lt/documents/overview/pluvicto-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (144.25 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/hu/documents/overview/pluvicto-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (146.96 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/mt/documents/overview/pluvicto-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (122.93 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/nl/documents/overview/pluvicto-epar-medicine-overview_nl.pdf)
 
 polski (PL) (148.84 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/pl/documents/overview/pluvicto-epar-medicine-overview_pl.pdf)
 
 português (PT) (123.14 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/pt/documents/overview/pluvicto-epar-medicine-overview_pt.pdf)
 
 română (RO) (150.17 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/ro/documents/overview/pluvicto-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (145.96 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/sk/documents/overview/pluvicto-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (143.55 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/sl/documents/overview/pluvicto-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (120.92 KB - PDF)
+suomi (FI) (120.92 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/fi/documents/overview/pluvicto-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (121.54 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/sv/documents/overview/pluvicto-epar-medicine-overview_sv.pdf)
 
@@ -299,311 +258,168 @@ English (EN) (1.3 MB - PDF)
 
 Pluvicto : EPAR - Product information
 
-English (EN) (611.35 KB - PDF)
+English (EN) (576.43 KB - PDF)
 
-**First published:** 21/12/2022
-
-**Last updated:** 18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/en/documents/product-information/pluvicto-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-80)
+[Other languages (24)](#file-language-dropdown-828)
 
-български (BG) (700.47 KB - PDF)
+български (BG) (633.92 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/bg/documents/product-information/pluvicto-epar-product-information_bg.pdf)
 
-español (ES) (661.41 KB - PDF)
+español (ES) (593.89 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/es/documents/product-information/pluvicto-epar-product-information_es.pdf)
 
-čeština (CS) (674.76 KB - PDF)
+čeština (CS) (616.27 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/cs/documents/product-information/pluvicto-epar-product-information_cs.pdf)
 
-dansk (DA) (644.17 KB - PDF)
+dansk (DA) (580.71 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/da/documents/product-information/pluvicto-epar-product-information_da.pdf)
 
-Deutsch (DE) (626.78 KB - PDF)
+Deutsch (DE) (563.78 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/de/documents/product-information/pluvicto-epar-product-information_de.pdf)
 
-eesti keel (ET) (648.19 KB - PDF)
+eesti (ET) (588.79 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/et/documents/product-information/pluvicto-epar-product-information_et.pdf)
 
-ελληνικά (EL) (735.9 KB - PDF)
+ελληνικά (EL) (652.97 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/el/documents/product-information/pluvicto-epar-product-information_el.pdf)
 
-français (FR) (680.86 KB - PDF)
+français (FR) (609.31 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/fr/documents/product-information/pluvicto-epar-product-information_fr.pdf)
 
-hrvatski (HR) (710.62 KB - PDF)
+hrvatski (HR) (640.71 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/hr/documents/product-information/pluvicto-epar-product-information_hr.pdf)
 
-íslenska (IS) (647.33 KB - PDF)
+italiano (IT) (563.76 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
-
-[View](/is/documents/product-information/pluvicto-epar-product-information_is.pdf)
-
-italiano (IT) (625.44 KB - PDF)
-
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/it/documents/product-information/pluvicto-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (673.07 KB - PDF)
+latviešu (LV) (609.93 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/lv/documents/product-information/pluvicto-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (662.35 KB - PDF)
+lietuvių (LT) (606.19 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/lt/documents/product-information/pluvicto-epar-product-information_lt.pdf)
 
-magyar (HU) (659.67 KB - PDF)
+magyar (HU) (605.43 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/hu/documents/product-information/pluvicto-epar-product-information_hu.pdf)
 
-Malti (MT) (663.25 KB - PDF)
+Malti (MT) (602.46 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/mt/documents/product-information/pluvicto-epar-product-information_mt.pdf)
 
-Nederlands (NL) (659.94 KB - PDF)
+Nederlands (NL) (608.19 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/nl/documents/product-information/pluvicto-epar-product-information_nl.pdf)
 
-norsk (NO) (631.04 KB - PDF)
+polski (PL) (615.61 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
-
-[View](/no/documents/product-information/pluvicto-epar-product-information_no.pdf)
-
-polski (PL) (679.24 KB - PDF)
-
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/pl/documents/product-information/pluvicto-epar-product-information_pl.pdf)
 
-português (PT) (646.05 KB - PDF)
+português (PT) (581.22 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/pt/documents/product-information/pluvicto-epar-product-information_pt.pdf)
 
-română (RO) (683.61 KB - PDF)
+română (RO) (611.78 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/ro/documents/product-information/pluvicto-epar-product-information_ro.pdf)
 
-slovenčina (SK) (689.78 KB - PDF)
+slovenčina (SK) (620.46 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/sk/documents/product-information/pluvicto-epar-product-information_sk.pdf)
 
-slovenščina (SL) (654.64 KB - PDF)
+slovenščina (SL) (592.25 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/sl/documents/product-information/pluvicto-epar-product-information_sl.pdf)
 
-Suomi (FI) (615.02 KB - PDF)
+suomi (FI) (561.79 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/fi/documents/product-information/pluvicto-epar-product-information_fi.pdf)
 
-svenska (SV) (602.77 KB - PDF)
+svenska (SV) (551.85 KB - PDF)
 
-**First published:**
-
-21/12/2022
-
-**Last updated:**
-
-18/02/2026
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
 
 [View](/sv/documents/product-information/pluvicto-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000325276 17/02/2026
+Íslenska (IS) (579.33 KB - PDF)
+
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
+
+[View](/is/documents/product-information/pluvicto-epar-product-information_is.pdf)
+
+norsk (NO) (566.35 KB - PDF)
+
+**First published:** 21/12/2022 **Last updated:** 20/07/2026
+
+[View](/no/documents/product-information/pluvicto-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** N/0000361057
+
+20/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -621,203 +437,164 @@ English (EN) (41.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-548)
+[Other languages (24)](#file-language-dropdown-731)
 
 български (BG) (48.12 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/bg/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (42.8 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/es/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (45.76 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/cs/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (48.71 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/da/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (45.23 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/de/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (41.03 KB - PDF)
+eesti (ET) (41.03 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/et/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (44.28 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/el/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (43.31 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/fr/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (43.54 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/hr/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (45.47 KB - PDF)
-
-**First published:**
-
-21/12/2022
-
-[View](/is/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (41.79 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/it/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (45.27 KB - PDF)
+latviešu (LV) (45.27 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/lv/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (45.18 KB - PDF)
+lietuvių (LT) (45.18 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/lt/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (45.27 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/hu/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (46.25 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/mt/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (41.9 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/nl/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (45 KB - PDF)
-
-**First published:**
-
-21/12/2022
-
-[View](/no/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (46.14 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/pl/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (43.57 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/pt/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (44.18 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/ro/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (46.27 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/sk/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (42.75 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/sl/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (40.57 KB - PDF)
+suomi (FI) (40.57 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/fi/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (46.09 KB - PDF)
 
-**First published:**
-
-21/12/2022
+**First published:** 21/12/2022
 
 [View](/sv/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (45.47 KB - PDF)
+
+**First published:** 21/12/2022
+
+[View](/is/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (45 KB - PDF)
+
+**First published:** 21/12/2022
+
+[View](/no/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Pluvicto Active substance lutetium (177Lu) vipivotide tetraxetan International non-proprietary name (INN) or common name lutetium (177Lu) vipivotide tetraxetan Therapeutic area (MeSH) Prostatic Neoplasms, Castration-Resistant Anatomical therapeutic chemical (ATC) code V10XX
+- **Name of medicine**
+    - Pluvicto
+- **Active substance**
+    - lutetium (177Lu) vipivotide tetraxetan
+- **International non-proprietary name (INN) or common name**
+    - lutetium (177Lu) vipivotide tetraxetan
+- **Therapeutic area (MeSH)**
+    - Prostatic Neoplasms, Castration-Resistant
+- **Anatomical therapeutic chemical (ATC) code**
+    - V10XX
 
 ### Pharmacotherapeutic group
 
@@ -829,19 +606,18 @@ Pluvicto in combination with androgen deprivation therapy (ADT) with or without 
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005483
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Novartis Europharm Limited
-
-Vista Building
-
-Opinion adopted 13/10/2022 Marketing authorisation issued 09/12/2022 Revision 12
+- **EMA product number**
+    - EMEA/H/C/005483
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Novartis Europharm Limited Vista Building  Elm Park  Merrion Road  Dublin 4  Ireland
+- **Opinion adopted**
+    - 13/10/2022
+- **Marketing authorisation issued**
+    - 09/12/2022
+- **Revision**
+    - 13
 
 ## Assessment history
 
@@ -849,15 +625,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Pluvicto : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (153.03 KB - PDF)
+English (EN) (184.12 KB - PDF)
 
-**First published:** 19/02/2025
-
-**Last updated:** 18/02/2026
+**First published:** 19/02/2025 **Last updated:** 20/07/2026
 
 [View](/en/documents/procedural-steps-after/pluvicto-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -865,19 +639,15 @@ Pluvicto : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (168.07 KB - PDF)
 
-**First published:** 02/02/2023
-
-**Last updated:** 02/09/2025
+**First published:** 02/02/2023 **Last updated:** 02/09/2025
 
 [View](/en/documents/procedural-steps-after/pluvicto-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Pluvicto : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/871459/2022
+Adopted Reference Number: EMA/871459/2022
 
 English (EN) (3.87 MB - PDF)
 
@@ -887,9 +657,7 @@ English (EN) (3.87 MB - PDF)
 
 CHMP summary of positive opinion for Pluvicto
 
-Adopted
-
-Reference Number: EMA/CHMP/793918/2022
+Adopted Reference Number: EMA/CHMP/793918/2022
 
 English (EN) (150.08 KB - PDF)
 
@@ -897,12 +665,24 @@ English (EN) (150.08 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-pluvicto_en.pdf)
 
-#### News on Pluvicto
+## News on Pluvicto
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 October 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-october-2022) 14/10/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 April 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-april-2026)
 
-**This page was last updated on** 18/02/2026
+24/04/2026
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 October 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-october-2022)
+
+14/10/2022
+
+## More information on Pluvicto
+
+- [Pluvicto - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/pluvicto)
+- [Pluvicto - withdrawal of application for variation to marketing authorisation](/en/node/279086)
+- [Understanding drug utilisation, treatment patterns, clinical outcomes, and profile of the patients receiving lutetium (177Lu) vipivotide tetraxetan for the treatment of metastatic prostate cancer: a multicountry, AI-powered registry (PULSE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000935)
+
+**This page was last updated on**
+
+20/07/2026
 
 ## Share this page
-
-[Back to top](#main-content)

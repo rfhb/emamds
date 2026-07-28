@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/intrarosa.html
 document_name: intrarosa.html
 version: success
-processing_time: 0.1570574
-conversion_datetime: 2026-07-28 12:36:25.290414
+processing_time: 0.1404619
+conversion_datetime: 2026-07-28 12:59:13.770361
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kigabeq.html
 document_name: kigabeq.html
 version: success
-processing_time: 0.1253323
-conversion_datetime: 2026-07-28 12:35:54.102273
+processing_time: 0.1278509
+conversion_datetime: 2026-07-28 12:58:42.799991
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

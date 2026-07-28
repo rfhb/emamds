@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-02 16:46:00
+document_datetime: 2026-07-22 15:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/orkambi.html
 document_name: orkambi.html
 version: success
-processing_time: 0.1512933
-conversion_datetime: 2026-06-04 22:16:34.6612
+processing_time: 0.3508661
+conversion_datetime: 2026-07-28 12:33:04.757201
 docling_version:
-  docling-serve: 1.21.0
-  docling-jobkit: 1.20.1
-  docling: 2.97.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Orkambi
 
@@ -40,7 +40,6 @@ Page contents
 - [News on Orkambi](#news-on)
 - [More information on Orkambi](#more-information-on-orkambi-773)
 - [More information on Orkambi](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -120,7 +119,7 @@ English (EN) (109.42 KB - PDF)
 
 [View](/en/documents/overview/orkambi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-410)
+[Other languages (22)](#file-language-dropdown-818)
 
 български (BG) (141.33 KB - PDF)
 
@@ -272,7 +271,7 @@ English (EN) (716.99 KB - PDF)
 
 [View](/en/documents/product-information/orkambi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-533)
+[Other languages (24)](#file-language-dropdown-777)
 
 български (BG) (968.83 KB - PDF)
 
@@ -406,9 +405,9 @@ svenska (SV) (834.67 KB - PDF)
 
 [View](/sv/documents/product-information/orkambi-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.04 MB - PDF)
+Íslenska (IS) (1.05 MB - PDF)
 
-**First published:** 01/12/2015 **Last updated:** 02/06/2026
+**First published:** 01/12/2015 **Last updated:** 22/07/2026
 
 [View](/is/documents/product-information/orkambi-epar-product-information_is.pdf)
 
@@ -426,7 +425,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -444,7 +444,7 @@ English (EN) (59.05 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/orkambi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-970)
+[Other languages (24)](#file-language-dropdown-273)
 
 български (BG) (69.81 KB - PDF)
 
@@ -592,27 +592,18 @@ norsk (NO) (61.34 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Orkambi
-
-Active substance
-
-- Lumacaftor
-- ivacaftor
-
-International non-proprietary name (INN) or common name
-
-- lumacaftor
-- ivacaftor
-
-Therapeutic area (MeSH)
-
-Cystic Fibrosis
-
-Anatomical therapeutic chemical (ATC) code
-
-R07AX30
+- **Name of medicine**
+    - Orkambi
+- **Active substance**
+        - Lumacaftor
+        - ivacaftor
+- **International non-proprietary name (INN) or common name**
+        - lumacaftor
+        - ivacaftor
+- **Therapeutic area (MeSH)**
+    - Cystic Fibrosis
+- **Anatomical therapeutic chemical (ATC) code**
+    - R07AX30
 
 ### Pharmacotherapeutic group
 
@@ -626,27 +617,16 @@ Orkambi granules are indicated for the treatment of cystic fibrosis (CF) in chil
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/003954
-
-Marketing authorisation holder
-
-Vertex Pharmaceuticals (Ireland) Limited
-
-Unit 49, Block 5 Northwood Court Northwood Crescent Dublin 9 D09 T665 Ireland
-
-Opinion adopted
-
-23/09/2015
-
-Marketing authorisation issued
-
-19/11/2015
-
-Revision
-
-39
+- **EMA product number**
+    - EMEA/H/C/003954
+- **Marketing authorisation holder**
+    - Vertex Pharmaceuticals (Ireland) Limited Unit 49, Block 5  Northwood Court  Northwood Crescent  Dublin 9  D09 T665  Ireland
+- **Opinion adopted**
+    - 23/09/2015
+- **Marketing authorisation issued**
+    - 19/11/2015
+- **Revision**
+    - 39
 
 ## Assessment history
 
@@ -820,7 +800,7 @@ English (EN) (69.06 KB - PDF)
 
 **First published:** 05/03/2018 **Last updated:** 05/03/2018
 
-[View](/en/documents/scientific-conclusion/orkambi-h-c-3954-psusa-00010455-201705-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
+[View](/en/documents/scientific-conclusion/orkambi-h-c-3954-psusa-00010455-201705-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
 Orkambi : EPAR - Assessment Report - Variation
 
@@ -901,12 +881,8 @@ This product is no longer an orphan medicine. It was originally [designated an o
 - [EMEA-001582-PIP01-13-M10 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001582-pip01-13-m10)
 - [An Observational Study to Evaluate the Utilisation Patterns and Long-term Effects of Lumacaftor and Ivacaftor Combination Therapy in Patients With Cystic Fibrosis - post-authorisation study](https://catalogues.ema.europa.eu/study/39240)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-02/06/2026
+22/07/2026
 
 ## Share this page

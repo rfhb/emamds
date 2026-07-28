@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fetcroja.html
 document_name: fetcroja.html
 version: success
-processing_time: 0.1359978
-conversion_datetime: 2026-07-28 12:37:11.434592
+processing_time: 0.1371015
+conversion_datetime: 2026-07-28 13:00:00.482737
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

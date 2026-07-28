@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/macitentan-accordpharma.html
 document_name: macitentan-accordpharma.html
 version: success
-processing_time: 0.1027921
-conversion_datetime: 2026-07-28 12:34:36.692192
+processing_time: 0.1038632
+conversion_datetime: 2026-07-28 12:57:25.709659
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

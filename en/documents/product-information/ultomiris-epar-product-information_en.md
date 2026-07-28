@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-22 09:59:18
-document_pages: 64
+document_datetime: 2026-07-21 15:31:23
+document_pages: 65
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ultomiris-epar-product-information_en.pdf
 document_name: ultomiris-epar-product-information_en.pdf
 version: success
-processing_time: 24.5717764
-conversion_datetime: 2025-12-31 04:51:52.130191
+processing_time: 71.472705
+conversion_datetime: 2026-07-28 13:36:33.131843
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -83,6 +83,8 @@ Ultomiris is indicated in the treatment of adult patients with NMOSD who are ant
 
 Ravulizumab must be administered by a healthcare professional and under the supervision of a physician experienced in the management of patients with haematological, renal, neuromuscular, or neuroinflammatory disorders.
 
+Home infusion may be considered for patients who have tolerated infusions well in the clinic. The decision of a patient to receive home infusions should be made after evaluation and recommendation from the treating physician. Home infusions should be performed by a qualified healthcare professional.
+
 ## Posology
 
 Adult patients with PNH, aHUS, gMG, or NMOSD
@@ -93,11 +95,11 @@ Dosing schedule is allowed to occasionally vary by ± 7 days of the scheduled in
 
 Table 1: Ravulizumab weight-based dosing regimen for adult patients with body weight greater than or equal to 40 kg
 
-| Body weight range (kg)   | Loading dose (mg)   | Maintenance dose(mg)*   | Dosing interval   |
-|--------------------------|---------------------|-------------------------|-------------------|
-| ≥ 40 to < 60             | 2,400               | 3,000                   | Every 8 weeks     |
-| ≥ 60 to < 100            | 2,700               | 3,300                   | Every 8 weeks     |
-| ≥ 100                    | 3,000               | 3,600                   | Every 8 weeks     |
+| Body weight range (kg)   |   Loading dose (mg) |   Maintenance dose (mg)* | Dosing interval   |
+|--------------------------|---------------------|--------------------------|-------------------|
+| ≥ 40 to < 60             |               2,400 |                    3,000 | Every 8 weeks     |
+| ≥ 60 to < 100            |               2,700 |                    3,300 | Every 8 weeks     |
+| ≥ 100                    |               3,000 |                    3,600 | Every 8 weeks     |
 
 Treatment initiation instructions in patients who are complement-inhibitor treatment-naïve or switching treatment from eculizumab are shown in Table 2.
 
@@ -110,25 +112,25 @@ Table 2: Ravulizumab treatment initiation instructions
 
 Paediatric patients with PNH or aHUS
 
-Paediatric patients with body weight ≥ 40 kg
+<div style=\"page-break-after: always\"></div>
+
+## Paediatric patients with body weight ≥ 40 kg
 
 These patients should be treated in accordance with the adult dosing recommendations (See Table 1).
 
-<div style=\"page-break-after: always\"></div>
+Paediatric patients with body weight ≥ 10 kg to &lt; 40 kg
 
-## Paediatric patients with body weight ≥ 10 kg to &lt; 40 kg
-
-The weightbased doses and dosing intervals for paediatric patients ≥ 10 kg to &lt; 40 kg are shown in Table 3.
+The weight-based doses and dosing intervals for paediatric patients ≥ 10 kg to &lt; 40 kg are shown in Table 3.
 
 For patients switching from eculizumab to ravulizumab, the loading dose of ravulizumab should be administered 2 weeks after the last eculizumab infusion, and then maintenance doses should be administered per weight-based dosing regimen shown in Table 3, starting 2 weeks after loading dose administration.
 
 Table 3: Ravulizumab weight-based dosing regimen for paediatric patients with PNH or aHUS below 40 kg
 
-| Body weight range (kg)   | Loading dose (mg)   | Maintenance dose(mg)*   | Dosing interval   |
-|--------------------------|---------------------|-------------------------|-------------------|
-| ≥ 10 to < 20             | 600                 | 600                     | Every 4 weeks     |
-| ≥ 20 to < 30             | 900                 | 2,100                   | Every 8 weeks     |
-| ≥ 30 to < 40             | 1,200               | 2,700                   | Every 8 weeks     |
+| Body weight range (kg)   |   Loading dose (mg) |   Maintenance dose (mg)* | Dosing interval   |
+|--------------------------|---------------------|--------------------------|-------------------|
+| ≥ 10 to < 20             |                 600 |                      600 | Every 4 weeks     |
+| ≥ 20 to < 30             |                 900 |                    2,100 | Every 8 weeks     |
+| ≥ 30 to < 40             |               1,200 |                    2,700 | Every 8 weeks     |
 
 Ravulizumab has not been studied in paediatric patients with PNH who weigh less than 30 kg. The recommended posology for these patients is based on the posology used for paediatric patients with aHUS, on the basis of the pharmacokinetic/pharmacodynamic (PK/PD) data available in aHUS and PNH patients treated with ravulizumab.
 
@@ -144,6 +146,8 @@ Supplemental dosing following treatment with plasma exchange (PE), plasmapheresi
 
 Plasma exchange (PE), plasmapheresis (PP) and intravenous immunoglobulin (IVIg) have been shown to reduce ravulizumab serum levels. A supplemental dose of ravulizumab is required in the setting of PE, PP or IVIg (Table 4).
 
+<div style=\"page-break-after: always\"></div>
+
 Table 4: Supplemental dose of ravulizumab after PP, PE, or IVIg
 
 | Body weight range (kg)                  | Most recent ravulizumab dose (mg)       | Supplemental dose (mg) following each PE or PP intervention   | Supplemental dose (mg) following completion of an IVIg cycle   |
@@ -155,8 +159,6 @@ Table 4: Supplemental dose of ravulizumab after PP, PE, or IVIg
 | ≥ 100                                   | 3,000                                   | 1,500                                                         | 600                                                            |
 | ≥ 100                                   | 3,600                                   | 1,800                                                         | 600                                                            |
 | Timing of ravulizumab supplemental dose | Timing of ravulizumab supplemental dose | Within 4 hours following each PE or PP intervention           | Within 4 hours following completion of an IVIg cycle           |
-
-<div style=\"page-break-after: always\"></div>
 
 Abbreviations: IVIg = intravenous immunoglobulin, kg = kilogram, PE = plasma exchange, PP = plasmapheresis
 
@@ -188,32 +190,32 @@ This medicinal product must be administered through a 0.2 µm filter and should 
 
 Ultomiris concentrate for solution for infusion is presented as 3 mL and 11 mL vials and must be diluted to a final concentration of 50 mg/mL. Following dilution, Ultomiris is to be administered by intravenous infusion using a syringe-type pump or an infusion pump over a minimal period of 0.17 to 1.3 hours (10 to 75 minutes) depending on body weight (see Table 5 and Table 6 below).
 
+<div style=\"page-break-after: always\"></div>
+
 Table 5: Dose administration rate for Ultomiris
 
-| Body weight range (kg) a   | Loading dose (mg)   | Minimum infusion duration minutes (hours)   | Maintenance dose (mg)   | Minimum infusion duration minutes (hours)   |
+| Body weight range (kg) a   |   Loading dose (mg) | Minimum infusion duration minutes (hours)   |   Maintenance dose (mg) | Minimum infusion duration minutes (hours)   |
 |----------------------------|---------------------|---------------------------------------------|-------------------------|---------------------------------------------|
-| ≥ 10 to < 20 b             | 600                 | 45 (0.8)                                    | 600                     | 45 (0.8)                                    |
-| ≥ 20 to < 30 b             | 900                 | 35 (0.6)                                    | 2,100                   | 75 (1.3)                                    |
-| ≥ 30 to < 40 b             | 1,200               | 31 (0.5)                                    | 2,700                   | 65 (1.1)                                    |
-| ≥ 40 to < 60               | 2,400               | 45 (0.8)                                    | 3,000                   | 55 (0.9)                                    |
-| ≥ 60 to < 100              | 2,700               | 35 (0.6)                                    | 3,300                   | 40 (0.7)                                    |
-| ≥ 100                      | 3,000               | 25 (0.4)                                    | 3,600                   | 30 (0.5)                                    |
-
-<div style=\"page-break-after: always\"></div>
+| ≥ 10 to < 20 b             |                 600 | 45 (0.8)                                    |                     600 | 45 (0.8)                                    |
+| ≥ 20 to < 30 b             |                 900 | 35 (0.6)                                    |                   2,100 | 75 (1.3)                                    |
+| ≥ 30 to < 40 b             |               1,200 | 31 (0.5)                                    |                   2,700 | 65 (1.1)                                    |
+| ≥ 40 to < 60               |               2,400 | 45 (0.8)                                    |                   3,000 | 55 (0.9)                                    |
+| ≥ 60 to < 100              |               2,700 | 35 (0.6)                                    |                   3,300 | 40 (0.7)                                    |
+| ≥ 100                      |               3,000 | 25 (0.4)                                    |                   3,600 | 30 (0.5)                                    |
 
 Table 6: Dose administration rate for supplemental doses of Ultomiris
 
-| Body weight range (kg) a   | Supplemental dose b (mg)   | Minimum infusion duration minutes (hours)   |
+| Body weight range (kg) a   |   Supplemental dose b (mg) | Minimum infusion duration minutes (hours)   |
 |----------------------------|----------------------------|---------------------------------------------|
-| ≥ 40 to < 60               | 600                        | 15 (0.25)                                   |
-| ≥ 40 to < 60               | 1,200                      | 25 (0.42)                                   |
-| ≥ 40 to < 60               | 1,500                      | 30 (0.5)                                    |
-| ≥ 60 to < 100              | 600                        | 12 (0.20)                                   |
-| ≥ 60 to < 100              | 1,500                      | 22 (0.36)                                   |
-| ≥ 60 to < 100              | 1,800                      | 25 (0.42)                                   |
-| ≥ 100                      | 600                        | 10 (0.17)                                   |
-| ≥ 100                      | 1,500                      | 15 (0.25)                                   |
-| ≥ 100                      | 1,800                      | 17 (0.28)                                   |
+| ≥ 40 to < 60               |                        600 | 15 (0.25)                                   |
+| ≥ 40 to < 60               |                      1,200 | 25 (0.42)                                   |
+| ≥ 40 to < 60               |                      1,500 | 30 (0.5)                                    |
+| ≥ 60 to < 100              |                        600 | 12 (0.20)                                   |
+| ≥ 60 to < 100              |                      1,500 | 22 (0.36)                                   |
+| ≥ 60 to < 100              |                      1,800 | 25 (0.42)                                   |
+| ≥ 100                      |                        600 | 10 (0.17)                                   |
+| ≥ 100                      |                      1,500 | 15 (0.25)                                   |
+| ≥ 100                      |                      1,800 | 17 (0.28)                                   |
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
 
@@ -233,9 +235,9 @@ In order to improve the traceability of biological medicinal products, the name 
 
 Due to its mechanism of action, the use of ravulizumab increases the patient's susceptibility to meningococcal infection/sepsis ( Neisseria meningitidis ). Meningococcal disease due to any serogroup may occur (see section 4.8). To reduce this risk of infection, all patients must be vaccinated against meningococcal infections at least two weeks prior to initiating ravulizumab unless the risk of delaying ravulizumab therapy outweighs the risk of developing a meningococcal infection. Patients who initiate ravulizumab treatment less than 2 weeks after receiving a meningococcal vaccine, must receive treatment with appropriate prophylactic antibiotics until 2 weeks after vaccination. Vaccines against all available serogroups including A, C, Y, W135 and B, are recommended in preventing the commonly pathogenic meningococcal serogroups. Patients must be vaccinated and revaccinated according to current national guidelines for vaccination use. If the patient is being switched from eculizumab treatment, physicians should verify that meningococcal vaccination is current according to national guidelines for vaccination use.
 
-Vaccination may not be sufficient to prevent meningococcal infection. Consideration should be given to official guidance on the appropriate use of antibacterial agents. Cases of serious or fatal meningococcal infections/sepsis have been reported in patients treated with ravulizumab and in patients treated with other terminal complement inhibitors. All patients should be monitored for early signs of meningococcal infection and sepsis, evaluated immediately if infection is suspected, and treated with appropriate antibiotics. Patients should be informed of these signs and symptoms and steps should be taken to seek medical care immediately. Physicians should provide patients with a Patient guide and a Patient card.
-
 <div style=\"page-break-after: always\"></div>
+
+Vaccination may not be sufficient to prevent meningococcal infection. Consideration should be given to official guidance on the appropriate use of antibacterial agents. Cases of serious or fatal meningococcal infections/sepsis have been reported in patients treated with ravulizumab and in patients treated with other terminal complement inhibitors. All patients should be monitored for early signs of meningococcal infection and sepsis, evaluated immediately if infection is suspected, and treated with appropriate antibiotics. Patients should be informed of these signs and symptoms and steps should be taken to seek medical care immediately. Physicians should provide patients with a Patient guide and a Patient card.
 
 ## Immunisation
 
@@ -257,6 +259,8 @@ Administration of ravulizumab may result in systemic infusion-related reactions 
 
 In case of systemic infusion-related reaction, if signs of cardiovascular instability or respiratory compromise occur, administration of ravulizumab should be interrupted and appropriate supportive measures should be instituted.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Treatment discontinuation for PNH
 
 If patients with PNH discontinue treatment with ravulizumab, they should be closely monitored for signs and symptoms of serious intravascular haemolysis, identified by elevated LDH (lactate dehydrogenase) levels along with sudden decrease in PNH clone size or haemoglobin, or re-appearance of symptoms such as fatigue, haemoglobinuria, abdominal pain, shortness of breath (dyspnoea), major adverse vascular event (including thrombosis), dysphagia, or erectile dysfunction. Any patient who discontinues ravulizumab should be monitored for at least 16 weeks to detect haemolysis and other reactions. If signs and symptoms of haemolysis occur after discontinuation, including elevated LDH, consider restarting treatment with ravulizumab.
@@ -268,8 +272,6 @@ There are no specific data on ravulizumab discontinuation. In a long-term prospe
 If patients must discontinue treatment with ravulizumab, they should be monitored closely for signs and symptoms of TMA on an on-going basis. However, monitoring may be insufficient to predict or prevent severe TMA complications.
 
 TMA complications post-discontinuation can be identified if any of the following is observed:
-
-<div style=\"page-break-after: always\"></div>
 
 - -At least 2 of the following laboratory results observed concurrently: a decrease in platelet count of 25% or more as compared to either baseline or to peak platelet count during ravulizumab treatment; an increase in serum creatinine of 25% or more as compared to baseline or to nadir during ravulizumab treatment; or, an increase in serum LDH of 25% or more as compared to baseline or to nadir during ravulizumab treatment (results should be confirmed by a second measurement)
 
@@ -291,6 +293,8 @@ Considering that NMOSD is a chronic disease, patients benefiting from ravulizuma
 
 In gMG patients who are not responding to eculizumab approved dosing regimen, treatment with ravulizumab is not recommended.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Sodium content
 
 Once diluted with sodium chloride 9 mg/mL (0.9%) solution for injection, this medicinal product contains 0.18 g sodium per 72 mL at the maximal dose, equivalent to 9.1% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
@@ -307,8 +311,6 @@ Chronic intravenous human immunoglobulin (IVIg) treatment may interfere with the
 
 See section 4.2 for guidance in case of concomitant PE, PP, or IVIg treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Women of childbearing potential
@@ -317,7 +319,7 @@ Women of childbearing potential should use effective contraception methods durin
 
 ## Pregnancy
 
-## There are no clinical data from the use of ravulizumab in pregnant women.
+There are no clinical data from the use of ravulizumab in pregnant women.
 
 Nonclinical reproductive toxicology studies were not conducted with ravulizumab (see section 5.3). Reproductive toxicology studies were conducted in mice using the murine surrogate molecule BB5.1, which assessed effect of C5 blockade on the reproductive system. No specific test-article related reproductive toxicities were identified in these studies. Human immunoglobulin G (IgG) are known to cross the human placental barrier, and thus ravulizumab may potentially cause terminal complement inhibition in the foetal circulation.
 
@@ -333,6 +335,8 @@ It is unknown whether ravulizumab is excreted into human milk. Nonclinical repro
 
 Since many medicinal products and immunoglobulins are secreted into human milk, and because of the potential for serious adverse reactions in nursing infants, breast-feeding should be discontinued during treatment with ravulizumab and for 8 months after treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fertility
 
 No specific non-clinical study on fertility has been conducted with ravulizumab. Nonclinical reproductive toxicology studies conducted in mice with a murine surrogate molecule (BB5.1) identified no adverse effect on fertility of the treated females or males.
@@ -347,13 +351,13 @@ Ultomiris has no or negligible influence on the ability to drive and use machine
 
 The most common adverse reactions with ravulizumab are headache (30.6%), upper respiratory tract infection  (21.6%),  nasopharyngitis  (20.4%),  diarrhoea  (18.7%),  pyrexia  (17.7%),  nausea  (15%), arthralgia (14.4%), back pain (13.6%), fatigue (13.3%), abdominal pain (12.3%), dizziness (10.7%) and urinary tract infection (10.7%). The most serious adverse reactions are meningococcal infection (0.7%) including meningococcal sepsis, meningococcal meningitis, encephalitis meningococcal, meningococcal  infection  (see  section 4.4)  and  disseminated  gonococcal  infection  (0.2%)  including disseminated gonococcal infection and gonococcal infection.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tabulated list of adverse reactions
 
-Table 7 gives the adverse reactions observed from clinical trials and from post-marketing experience. Adverse reactions are listed by MedDRA System Organ Class (SOC) and frequency, using the following convention: very common (≥ 1/ 10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100) ; rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); and not known (cannot be estimated from available data).
+Table 7 gives the adverse reactions observed from clinical trials and from post-marketing experience. Adverse reactions are listed by MedDRA System Organ Class (SOC) and frequency, using the following convention: very common (≥ 1/ 10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); and not known (cannot be estimated from available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 7: Adverse Drug reactions from clinical trials and postmarketing experience
 
@@ -372,15 +376,13 @@ Table 7: Adverse Drug reactions from clinical trials and postmarketing experienc
 
 ## Meningococcal infection/sepsis/encephalitis
 
-Vaccination reduces, but does not eliminate, the risk of meningococcal infections. In clinical trials, &lt; 1% of patients developed serious meningococcal infections while receiving treatment with ravulizumab; all were adult patients with PNH or NMOSD who had been vaccinated. Please refer to section 4.4 for information on prevention and treatment of suspected meningococcal infection. In patients treated with ravulizumab, meningococcal infections have presented as
-
-<div style=\"page-break-after: always\"></div>
-
-meningococcal sepsis and encephalitis meningococcal. Patients should be informed of the signs and symptoms of meningococcal infection and advised to seek medical care immediately.
+Vaccination reduces, but does not eliminate, the risk of meningococcal infections. In clinical trials, &lt; 1% of patients developed serious meningococcal infections while receiving treatment with ravulizumab; all were adult patients with PNH or NMOSD who had been vaccinated. Please refer to section 4.4 for information on prevention and treatment of suspected meningococcal infection. In patients treated with ravulizumab, meningococcal infections have presented as meningococcal sepsis and encephalitis meningococcal. Patients should be informed of the signs and symptoms of meningococcal infection and advised to seek medical care immediately.
 
 ## Infusion-related reactions
 
-In clinical trials, infusionrelated reactions were common (≥1%). These events, which were mild to moderate in severity and transient, included back pain, abdominal pain, muscle spasms, drop in blood pressure, elevation in blood pressure, rigors, limb discomfort, hypersensitivity (allergic reaction), dysgeusia (bad taste), and drowsiness. These reactions did not require discontinuation of ravulizumab.
+In clinical trials, infusion-related reactions were common (≥1%). These events, which were mild to moderate in severity and transient, included back pain, abdominal pain, muscle spasms, drop in blood pressure, elevation in blood pressure, rigors, limb discomfort, hypersensitivity (allergic reaction), dysgeusia (bad taste), and drowsiness. These reactions did not require discontinuation of ravulizumab.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Immunogenicity
 
@@ -416,13 +418,13 @@ Patients who experience overdose should have immediate interruption of their inf
 
 ## 5.1 Pharmacodynamic properties
 
-<div style=\"page-break-after: always\"></div>
-
 Pharmacotherapeutic group: Immunosuppressants, complement inhibitors, ATC code: L04A J02
 
 ## Mechanism of action
 
 Ravulizumab is a monoclonal antibody IgG2/4K that specifically binds to the complement protein C5, thereby inhibiting its cleavage to C5a (the proinflammatory anaphylatoxin) and C5b (the initiating subunit of the membrane attack complex [MAC or C5b-9]) and preventing the generation of the C5b-9. Ravulizumab preserves the early components of complement activation that are essential for opsonisation of microorganisms and clearance of immune complexes.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Pharmacodynamic effects
 
@@ -447,13 +449,11 @@ There were no noteworthy differences in the demographic or baseline characterist
 
 ## Study in complement inhibitor-naïve adult patients with PNH (ALXN1210-PNH-301)
 
-The complement inhibitor-naïve study was a 26-week, multicentre, open-label, randomised, active-controlled, Phase 3 study conducted in 246 patients who were naïve to complement inhibitor treatment prior to study entry and was followed by a long-term extension period where all patients received ravulizumab. Eligible patients to enter this trial had to demonstrate high disease activity, defined as LDH level ≥ 1.5 × upper limit of normal (ULN) at screening along with the presence of 1 or
-
-<div style=\"page-break-after: always\"></div>
-
-more of the following PNH-related signs or symptoms within 3 months of screening: fatigue, haemoglobinuria, abdominal pain, shortness of breath (dyspnoea), anaemia (haemoglobin &lt; 10 g/dL), history of a major adverse vascular event (including thrombosis), dysphagia, or erectile dysfunction; or history of packed red blood cell (pRBC) transfusion due to PNH.
+The complement inhibitor-naïve study was a 26-week, multicentre, open-label, randomised, active-controlled, Phase 3 study conducted in 246 patients who were naïve to complement inhibitor treatment prior to study entry and was followed by a long-term extension period where all patients received ravulizumab. Eligible patients to enter this trial had to demonstrate high disease activity, defined as LDH level ≥ 1.5 × upper limit of normal (ULN) at screening along with the presence of 1 or more of the following PNH-related signs or symptoms within 3 months of screening: fatigue, haemoglobinuria, abdominal pain, shortness of breath (dyspnoea), anaemia (haemoglobin &lt; 10 g/dL), history of a major adverse vascular event (including thrombosis), dysphagia, or erectile dysfunction; or history of packed red blood cell (pRBC) transfusion due to PNH.
 
 More than 80 % of patients in both treatment groups had a history of transfusion within 12 months of study entry. The majority of the complement inhibitor-naïve study population was highly haemolytic at baseline; 86.2 % of enrolled patients presented with elevated LDH ≥ 3 × ULN, which is a direct measurement of intravascular haemolysis, in the setting of PNH.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 8 presents the baseline characteristics of the PNH patients enrolled in the complement inhibitornaïve study, with no apparent clinically meaningful differences observed between the treatment arms.
 
@@ -472,11 +472,15 @@ Table 8: Baseline characteristics in the complement inhibitor-naïve study
 | Patients with any PNH conditions a prior to informed consent                                           | n (%)                     | 121 (96.8)               | 120 (99.2)               |
 | Anaemia                                                                                                |                           | 103 (82.4)               | 105 (86.8)               |
 | Haematuria or haemoglobinuria                                                                          |                           | 81 (64.8)                | 75 (62.0)                |
-| Aplastic anaemia                                                                                       |                           | 41 (32.8)                | 38 (31.4) 11 (9.1)       |
-| Renal failure                                                                                          |                           | 19 (15.2)                |                          |
+| Aplastic anaemia                                                                                       |                           | 41 (32.8)                | 38 (31.4)                |
+| Renal failure                                                                                          |                           | 19 (15.2)                | 11 (9.1)                 |
 | Myelodysplastic syndrome                                                                               |                           | 7 (5.6)                  | 6 (5.0)                  |
-| Pregnancy complication Other b                                                                         |                           | 3 (2.4)                  | 4 (3.3)                  |
-|                                                                                                        |                           | 27 (21.6)                | 13 (10.7)                |
+| Pregnancy complication                                                                                 |                           | 3 (2.4)                  | 4 (3.3)                  |
+| Other b                                                                                                |                           | 27 (21.6)                | 13 (10.7)                |
+
+a Based on medical history.
+
+b 'Other' as specified on case report form included thrombocytopenia, chronic kidney disease, and pancytopenia, as well as a number of other conditions.
 
 The coprimary endpoints were transfusion avoidance, and haemolysis as directly measured by normalisation of LDH levels (LDH levels ≤ 1 × ULN; the ULN for LDH is 246 U/L). Key secondary endpoints included the percent change from baseline in LDH levels, change in quality of life (FACIT-Fatigue), the proportion of patients with breakthrough haemolysis and proportion of patients with stabilised haemoglobin.
 
@@ -504,22 +508,22 @@ Table 9 presents the baseline characteristics of the PNH patients enrolled in th
 
 Table 9: Baseline characteristics in the eculizumab-experienced study
 
-| Parameter                                                                                  | Statistics                | Ravulizumab (N = 97)     | Eculizumab (N = 98)      |
-|--------------------------------------------------------------------------------------------|---------------------------|--------------------------|--------------------------|
-| Age (years) at PNH diagnosis                                                               | Mean (SD) Median Min, max | 34.1 (14.41) 32.0 6, 73  | 36.8 (14.14) 35.0 11, 74 |
-| Age (years) at first infusion in study                                                     | Mean (SD) Median Min, max | 46.6 (14.41) 45.0 18, 79 | 48.8 (13.97) 49.0 23, 77 |
-| Sex (n, %)                                                                                 | Male Female               | 50 (51.5) 47 (48.5)      | 48 (49.0) 50 (51.0)      |
-| Pre-treatment LDH levels                                                                   | Mean (SD) Median          | 228.0 (48.71) 224.0      | 235.2 (49.71) 234.0      |
-| Number of patients with pRBC/whole blood transfusions within 12 months prior to first dose | n (%)                     | 13 (13.4)                | 12 (12.2)                |
-| Units of pRBC/whole blood transfused within 12 months prior to first dose                  | Total Mean (SD) Median    | 103 7.9 (8.78) 4.0       | 50 4.2 (3.83) 2.5        |
-| Patients with any PNH conditions a prior to informed consent                               | n (%)                     | 90 (92.8)                | 96 (98.0)                |
-| Anaemia Haematuria or haemoglobinuria                                                      |                           | 64 (66.0) 47 (48.5)      | 67 (68.4) 48 (49.0)      |
-| Aplastic anaemia                                                                           |                           | 34 (35.1)                | 39 (39.8)                |
-| Renal failure                                                                              |                           | 11 (11.3)                |                          |
-|                                                                                            |                           |                          | 7 (7.1)                  |
-| Myelodysplastic syndrome                                                                   |                           | 3 (3.1)                  | 6 (6.1)                  |
-| Pregnancy complication b                                                                   |                           | 4 (4.1) 14 (14.4)        | 9 (9.2) 14               |
-| Other                                                                                      |                           |                          | (14.3)                   |
+| Parameter                                                                                  | Statistics                | Ravulizumab (N = 97)                    | Eculizumab (N = 98)      |
+|--------------------------------------------------------------------------------------------|---------------------------|-----------------------------------------|--------------------------|
+| Age (years) at PNH diagnosis                                                               | Mean (SD) Median Min, max | 34.1 (14.41) 32.0 6, 73                 | 36.8 (14.14) 35.0 11, 74 |
+| Age (years) at first infusion in study                                                     | Mean (SD) Median Min, max | 46.6 (14.41) 45.0 18, 79                | 48.8 (13.97) 49.0 23, 77 |
+| Sex (n, %)                                                                                 | Male Female               | 50 (51.5) 47 (48.5)                     | 48 (49.0) 50 (51.0)      |
+| Pre-treatment LDH levels                                                                   | Mean (SD) Median          | 228.0 (48.71) 224.0                     | 235.2 (49.71) 234.0      |
+| Number of patients with pRBC/whole blood transfusions within 12 months prior to first dose | n (%)                     | 13 (13.4)                               | 12 (12.2)                |
+| Units of pRBC/whole blood transfused within 12 months prior to first dose                  | Total Mean (SD) Median    | 103 7.9 (8.78) 4.0                      | 50 4.2 (3.83) 2.5        |
+| Patients with any PNH conditions a prior to informed consent                               | n (%)                     | 90 (92.8)                               | 96 (98.0)                |
+| Anaemia Haematuria or haemoglobinuria Aplastic anaemia Renal failure                       |                           | 64 (66.0) 47 (48.5) 34 (35.1) 11 (11.3) | 67 (68.4) 48 (49.0)      |
+|                                                                                            |                           |                                         | 39 (39.8)                |
+|                                                                                            |                           |                                         | 7 (7.1)                  |
+| Myelodysplastic syndrome                                                                   |                           | 3 (3.1)                                 | 6 (6.1)                  |
+| Pregnancy complication                                                                     |                           | 4 (4.1)                                 | 9 (9.2)                  |
+| Other b                                                                                    |                           | 14                                      | 14 (14.3)                |
+|                                                                                            |                           | (14.4)                                  |                          |
 
 The primary endpoint was haemolysis as measured by LDH percent change from baseline. Secondary endpoints included the proportion of patients with breakthrough haemolysis, quality-of-life (FACIT-Fatigue), transfusion avoidance (TA), and proportion of patients with stabilised haemoglobin.
 
@@ -560,7 +564,7 @@ Table 10: Baseline characteristics in the adult study
 | Platelets (10 9 /L) blood             | n Median (min,max)     | 56 95.25 (18, 473)            |
 | Haemoglobin (g/L) blood               | n Median (min,max)     | 56 85.00 (60.5, 140)          |
 | LDH (U/L) serum                       | n Median (min,max)     | 56 508.00 (229.5, 3249)       |
-| eGFR (mL/min/1.73m 2 )                | n (%) Median (min,max) | 55 10.00 (4, 80)              |
+| eGFR (mL/min/1.73 m 2 )               | n (%) Median (min,max) | 55 10.00 (4, 80)              |
 | Patients on dialysis                  | N (%)                  | 29 ( 51.8)                    |
 | Patients post partum                  | N (%)                  | 8 (14.3)                      |
 
@@ -574,15 +578,15 @@ Complete TMA Response was observed in 30 of the 56 patients (53.6%) during the 2
 
 Table 11: Complete TMA response and complete TMA response components analysis for the 26-week initial evaluation period (ALXN1210-aHUS-311)
 
-|                                                     | Total   | Responder   | Responder             |
-|-----------------------------------------------------|---------|-------------|-----------------------|
-|                                                     |         | n           | Proportion (95% CI) a |
-| Complete TMA Response                               | 56      | 30          | 0.536 (0.396, 0.675)  |
-| Components of Complete TMA Response                 |         |             |                       |
-| Platelet count normalisation                        | 56      | 47          | 0.839 (0.734, 0.944)  |
-| LDH normalisation                                   | 56      | 43          | 0.768 (0.648, 0.887)  |
-| ≥ 25% improvement in serum creatinine from baseline | 56      | 33          | 0.589 (0.452, 0.727)  |
-| Haematologic normalisation                          | 56      | 41          | 0.732 (0.607, 0.857)  |
+|                                                    |   Total | Responder   | Responder             |
+|----------------------------------------------------|---------|-------------|-----------------------|
+|                                                    |         | n           | Proportion (95% CI) a |
+| Complete TMA Response                              |      56 | 30          | 0.536 (0.396, 0.675)  |
+| Components of Complete TMA Response                |         |             |                       |
+| Platelet count normalisation                       |      56 | 47          | 0.839 (0.734, 0.944)  |
+| LDH normalisation                                  |      56 | 43          | 0.768 (0.648, 0.887)  |
+| ≥25% improvement in serum creatinine from baseline |      56 | 33          | 0.589 (0.452, 0.727)  |
+| Haematologic normalisation                         |      56 | 41          | 0.732 (0.607, 0.857)  |
 
 Abbreviations: CI = confidence interval; LDH = lactate dehydrogenase; TMA = thrombotic microangiopathy.
 
@@ -598,15 +602,17 @@ Of the 27 patients who did not require dialysis at study entry, 19 patients rema
 
 Table 12: Secondary efficacy outcome for the 26-Week Initial Evaluation Period of study ALXN1210-aHUS-311
 
-| Parameters                                                                                                                                       | Study ALXN1210-aHUS-311 (N = 56)                                                | Study ALXN1210-aHUS-311 (N = 56)                                                |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| HaematologicTMA parameters, Day 183 Platelets (10 9 /L) blood Mean (SD) Median                                                                   | Observed value (n=48) 237.96 (73.528) 232.00                                    | Change from baseline (n=48) 114.79 (105.568) 125.00                             |
-| baseline with a confirmatory result through Initial Evaluation Period n/m proportion (95% CI)* CKD stage shift from baseline, Day 183 Improved a | 40/56 0.714 (0.587, 0.842)                                                      | 40/56 0.714 (0.587, 0.842)                                                      |
-| n/m Proportion (95% CI)* Worsened b                                                                                                              | 32/47 0.681 (0.529, 0.809) 2/13                                                 | 32/47 0.681 (0.529, 0.809) 2/13                                                 |
-| Proportion (95% CI)* (mL/min/1.73m 2 ), Day                                                                                                      | 0.154 (0.019, 0.454)                                                            | 0.154 (0.019, 0.454)                                                            |
-| 183 Mean (SD)                                                                                                                                    |                                                                                 |                                                                                 |
-| n/m                                                                                                                                              | Observed value (n=48) 51.83 (39.162) Change from baseline (n=47) 34.80 (35.454) | Observed value (n=48) 51.83 (39.162) Change from baseline (n=47) 34.80 (35.454) |
-| eGFR Median                                                                                                                                      | 40.00 29.00                                                                     |                                                                                 |
+| Parameters                                                                                                                                                                                                                     | Study ALXN1210-aHUS-311 (N = 56)              |                                                           |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----------------------------------------------------------|
+| Haematologic TMA parameters, Day 183 Platelets (10 9 /L) blood Mean (SD) Median                                                                                                                                                | Observed value (n=48)                         | Change from baseline (n=48)                               |
+| LDH (U/L) serum Mean (SD) Median Increase in haemoglobin of ≥ 20 g/L from baseline with a confirmatory result through Initial Evaluation Period n/m proportion (95% CI)* CKD stage shift from baseline, Day 183 Improved a n/m | 237.96 (73.528) 232.00 194.46 (58.099) 176.50 | 114.79 (105.568) 125.00 -519.83 (572.467) -310.75         |
+| Proportion (95% CI)* Worsened b                                                                                                                                                                                                |                                               | 0.842)                                                    |
+| Proportion (95% CI)* (mL/min/1.73 m 2 ), Day                                                                                                                                                                                   |                                               |                                                           |
+|                                                                                                                                                                                                                                | 40/56 0.714 (0.587,                           |                                                           |
+| n/m                                                                                                                                                                                                                            | 32/47 0.681 (0.529, 2/13 0.154                | 0.809) (0.019, 0.454) Change from baseline 34.80 (35.454) |
+| eGFR 183 Mean (SD)                                                                                                                                                                                                             | Observed value (n=48) 51.83 (39.162)          | (n=47)                                                    |
+| Median                                                                                                                                                                                                                         | 40.00                                         |                                                           |
+|                                                                                                                                                                                                                                |                                               | 29.00                                                     |
 
 Note: n: number of patients with available data for specific assessment at Day 183 visit. m: number of patients meeting specific criterion. Chronic kidney disease (CKD) stage is classified based on the National Kidney Foundation Chronic Kidney Disease Stage. Stage 5 is considered the worst category, while Stage 1 is considered the best category. Baseline is derived based on the last available eGFR before starting treatment. Improved/Worsened: compared to CKD stage at baseline. *95% confidence intervals (95% CIs) are based on exact confidence limits using the Clopper-Pearson method. a Excludes those with CKD Stage 1 at baseline as they cannot improve. b Excludes patients with Stage 5 at baseline as they cannot worsen. Abbreviations: eGFR = estimated glomerular filtration rate; LDH = lactate dehydrogenase; TMA = thrombotic microangiopathy.
 
@@ -620,27 +626,27 @@ The final efficacy analysis for the study on all patients treated with ravulizum
 
 The efficacy and safety of ravulizumab in adult patients with gMG was assessed in a Phase 3, randomised, double-blind, placebo-controlled, multicentre study (ALXN1210-MG-306). Patients participating in this study were subsequently allowed to enter an Open-Label Extension Period during which all patients received ravulizumab.
 
-Patients with gMG (diagnosed for at least 6 months) with a positive serologic test for antiacetylcholine receptor (AChR) antibodies, MGFA (Myasthenia Gravis Foundation of America) clinical classification Class II to IV and remaining symptomatology as evidenced by a Myasthenia Gravis Activities of Daily Living (MGADL) total score ≥ 6 were randomised to receive either ravulizumab (N = 86) or placebo (N = 89). Patients on immunosuppressant therapies (corticosteroids, azathioprine, cyclophosphamide, cyclosporine, methotrexate, mycophenolate mofetil, or tacrolimus) were permitted to continue on therapy throughout the course of the study. In addition, rescue therapy (including high dose corticosteroid, PE/PP, or IVIg) was allowed if a patient experienced clinical deterioration, as defined by the study protocol.
+Patients with gMG (diagnosed for at least 6 months) with a positive serologic test for antiacetylcholine receptor (AChR) antibodies, MGFA (Myasthenia Gravis Foundation of America) clinical classification Class II to IV and remaining symptomatology as evidenced by a Myasthenia Gravis Activities of Daily Living (MG-ADL) total score ≥ 6 were randomised to receive either ravulizumab (N = 86) or placebo (N = 89). Patients on immunosuppressant therapies (corticosteroids, azathioprine, cyclophosphamide, cyclosporine, methotrexate, mycophenolate mofetil, or tacrolimus) were permitted to continue on therapy throughout the course of the study. In addition, rescue therapy (including high dose corticosteroid, PE/PP, or IVIg) was allowed if a patient experienced clinical deterioration, as defined by the study protocol.
 
 A total of 162 (92.6%) patients completed the 26-week Randomised-Controlled Period of Study ALXN1210-MG-306. The baseline characteristics of patients are presented in Table 13. The majority (97%) of patients included in the study had been treated with at least one immunomodulatory therapy including immunosuppressant therapies, PE/PP, or IVIg in the last two years prior to enrolment.
 
 Table 13: Baseline disease characteristics in study ALXN1210-MG-306
 
-| Parameter                                                                                                     | Statistics                  | Placebo (N = 89)             | Ravulizumab (N = 86)         |
-|---------------------------------------------------------------------------------------------------------------|-----------------------------|------------------------------|------------------------------|
-| Sex Male Female                                                                                               | n (%)                       | 44 (49.4) 45 (50.6)          | 42 (48.8) 44 (51.2)          |
-| Age at first dose of study drug (years)                                                                       | Mean (SD) (min, max)        | 53.3 (16.05) (20, 82)        | 58.0 (13.82) (19, 79)        |
-| Elderly (≥ 65 years of age) at study entry                                                                    | n (%)                       | 24 (27.0)                    | 30 (34.9)                    |
-| Duration of MGsince diagnosis (years)                                                                         | Mean (SD) (min, max) Median | 10.0 (8.90) (0.5, 36.1) 7.6  | 9.8 (9.68) (0.5, 39.5) 5.7   |
-| Baseline MG-ADL Score                                                                                         | Mean (SD) (min, max) Median | 8.9 (2.30) (6.0, 15.0) 9.0   | 9.1 (2.62) (6.0, 24.0) 9.0   |
-| Baseline QMGScore                                                                                             | Mean (SD) (min, max) Median | 14.5 (5.26) (2.0, 27.0) 14.0 | 14.8 (5.21) (6.0, 39.0) 15.0 |
-| BaselineMGFA classification Class II (mild weakness) Class III (moderate weakness) Class IV (severe weakness) | n (%)                       | 39 (44) 45 (51) 5 (6)        | 39 (45) 41 (48) 6 (7)        |
-| Any prior intubation since diagnosis (MGFA Class V)                                                           | n (%)                       | 9 (10.1)                     | 8 (9.3)                      |
-| Number of patients with prior MGcrisis since diagnosis a                                                      | n (%)                       | 17 (19.1)                    | 21 (24.4)                    |
-| Number of stable immunosuppressant therapies b at study entry 0 1                                             | n (%)                       |                              |                              |
-|                                                                                                               |                             | 8 (9.0)                      | 10 (11.6)                    |
-|                                                                                                               |                             | 34 (38.2)                    | 40 (46.5)                    |
-| ≥ 2                                                                                                           |                             | 47 (52.8)                    | 36 (41.9)                    |
+| Parameter                                                                                                      | Statistics                  | Placebo (N = 89)             | Ravulizumab (N = 86)                   |
+|----------------------------------------------------------------------------------------------------------------|-----------------------------|------------------------------|----------------------------------------|
+| Sex Male                                                                                                       | n (%)                       |                              |                                        |
+|                                                                                                                |                             | 44 (49.4)                    | 42 (48.8)                              |
+|                                                                                                                |                             | (50.6)                       | 44                                     |
+| Female                                                                                                         |                             | 45                           | (51.2)                                 |
+| Age at first dose of study drug (years)                                                                        | Mean (SD) (min, max)        | 53.3 (16.05) (20, 82)        | 58.0 (13.82) (19, 79)                  |
+| Elderly (≥ 65 years of age) at study entry                                                                     | n (%)                       | 24 (27.0)                    | 30 (34.9)                              |
+| Duration of MG since diagnosis (years)                                                                         | Mean (SD) (min, max) Median | 10.0 (8.90) (0.5, 36.1) 7.6  | 9.8 (9.68) (0.5, 39.5) 5.7             |
+| Baseline MG-ADL Score                                                                                          | Mean (SD) (min, max) Median | 8.9 (2.30) (6.0, 15.0) 9.0   | 9.1 (2.62) (6.0, 24.0) 9.0 14.8 (5.21) |
+| Baseline QMG Score                                                                                             | Mean (SD) (min, max) Median | 14.5 (5.26) (2.0, 27.0) 14.0 | (6.0, 39.0) 15.0                       |
+| Baseline MGFA classification Class II (mild weakness) Class III (moderate weakness) Class IV (severe weakness) | n (%)                       | 39 (44) 45 (51) 5 (6)        | 39 (45) 41 (48) 6 (7) 8                |
+| Any prior intubation since diagnosis (MGFA Class V)                                                            | n (%)                       | 9 (10.1)                     | (9.3)                                  |
+| Number of patients with prior MG crisis since diagnosis a Number of stable immunosuppressant                   | n (%) n (%)                 | 17 (19.1)                    | 21 (24.4)                              |
+| therapies b at study entry 0 1 ≥ 2                                                                             |                             | 8 (9.0) 34 (38.2) 47 (52.8)  | 10 (11.6) 40 (46.5) 36 (41.9)          |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -696,7 +702,7 @@ The efficacy of ravulizumab in adult patients with anti-AQP4 antibody-positive N
 
 <div style=\"page-break-after: always\"></div>
 
-Study ALXN1210-NMO-307 enrolled 58 adult patients with NMOSD who had a positive serologic test for anti-AQP4 antibodies, at least 1 relapse in the last 12 months prior to the Screening Period, and an Expanded Disability Status Scale (EDSS) score of ≤ 7. Pr ior treatment with immunosuppressant therapies (ISTs) was not required for enrolment and 53.4% of patients were on ravulizumab monotherapy. Patients on selected ISTs (i.e., corticosteroids, azathioprine, mycophenolate mofetil, tacrolimus) were permitted to continue on therapy in combination with ravulizumab, with a requirement for stable dosing until they reached Week 106 in the study. In addition, acute therapy for relapse treatment (including high-dose corticosteroids, PE/PP, and IVIg) was allowed if a patient experienced a relapse during the study.
+Study ALXN1210-NMO-307 enrolled 58 adult patients with NMOSD who had a positive serologic test for anti-AQP4 antibodies, at least 1 relapse in the last 12 months prior to the Screening Period, and an Expanded Disability Status Scale (EDSS) score of ≤ 7. Prior treatment with immunosuppressant therapies (ISTs) was not required for enrolment and 53.4% of patients were on ravulizumab monotherapy. Patients on selected ISTs (i.e., corticosteroids, azathioprine, mycophenolate mofetil, tacrolimus) were permitted to continue on therapy in combination with ravulizumab, with a requirement for stable dosing until they reached Week 106 in the study. In addition, acute therapy for relapse treatment (including high-dose corticosteroids, PE/PP, and IVIg) was allowed if a patient experienced a relapse during the study.
 
 Patients included in the study had a mean age of 47.4 years (ranging from 18 to 74 years) and most of them were female (90%). Median age at NMOSD initial clinical presentation was of 42.5 years, ranging from 16 to 73 years. Baseline disease characteristics are shown in Table 16.
 
@@ -755,9 +761,10 @@ Table 17: Disease history and characteristics at baseline (full analysis set)
 | Aplastic anaemia                                                                                     | 3 (60.0)                                       | 1 (12.5)                                   |
 | Renal failure                                                                                        | 2 (40.0)                                       | 2 (25.0)                                   |
 | Other a                                                                                              | 0                                              | 1 (12.5)                                   |
-| Pre-treatment LDH levels                                                                             |                                                |                                            |
-| (U/L)                                                                                                | 588.50 (444, 2269.7)                           | 251.50 (140.5,                             |
-| Median (min, max)                                                                                    |                                                | 487)                                       |
+| Pre-treatment LDH levels (U/L) Median (min, max)                                                     | 588.50 (444, 2269.7)                           | 251.50 (140.5,                             |
+|                                                                                                      |                                                | 487)                                       |
+
+a Other PNH-associated conditions were reported as 'renal and splenic infarcts' and 'multiple lesions concerning for embolic process'.
 
 Note: Percentages were based on the total number of patients in each cohort.
 
@@ -765,11 +772,9 @@ Abbreviations: LDH = lactate dehydrogenase; max = maximum; min = minimum; PNH = 
 
 Based on body weight, patients received a loading dose of ravulizumab on Day 1, followed by maintenance treatment on Day 15 and once every 8 weeks (q8w) thereafter for patients weighing ≥ 20 kg, or once every 4 weeks (q4w) for patients weighing &lt; 20 kg. For patients who entered the study on eculizumab therapy, Day 1 of study treatment was planned to occur 2 weeks from the patient's last dose of eculizumab.
 
-The weight-based dose regimen of ravulizumab provided immediate, complete, and sustained inhibition of terminal complement throughout the 26-week primary evaluation period regardless of
+The weight-based dose regimen of ravulizumab provided immediate, complete, and sustained inhibition of terminal complement throughout the 26-week primary evaluation period regardless of prior experience with eculizumab. Following initiation of ravulizumab treatment, steady-state therapeutic serum concentrations of ravulizumab were achieved immediately after the first dose and maintained throughout the 26-week primary evaluation period in both cohorts. There were no breakthrough haemolysis events in the study and no patients had post-baseline free C5 levels above 0.5 µg/mL.
 
 <div style=\"page-break-after: always\"></div>
-
-prior experience with eculizumab. Following initiation of ravulizumab treatment, steady-state therapeutic serum concentrations of ravulizumab were achieved immediately after the first dose and maintained throughout the 26-week primary evaluation period in both cohorts. There were no breakthrough haemolysis events in the study and no patients had post-baseline free C5 levels above 0.5 µg/mL.
 
 Mean percent change from baseline in LDH was -47.91% on Day 183 in the complement inhibitornaïve cohort and remained stable in the eculizumab-experienced cohort during the 26-week primary evaluation period. Sixty percent (3/5) of complement inhibitor-naïve patients and 75% (6/8) of eculizumab-experienced patients achieved haemoglobin stabilisation by Week 26 respectively. Transfusion-avoidance was reached by 84.6% (11/13) of patients during the 26-week primary evaluation period.
 
@@ -798,7 +803,7 @@ Use  of  Ultomiris  in  paediatric  patients  for  treatment  of  aHUS  is  supp
 
 The paediatric study was a 26-week, multicentre, single arm, Phase 3 study conducted in paediatric patients and patients were allowed to enter an extension period for up to 4.5 years.
 
-A total of 24 eculizumab-naïve patients with documented diagnosis of aHUS and evidence of TMA were enrolled, of which 20 were included in the Full Analysis set. Enrolment criteria excluded patients presenting with TMA due to a disintegrin and metalloproteinase with a thrombospondin type 1 motif, member 13 (ADAMTS13) deficiency, STEC-HUS and genetic defect in cobalamin C metabolism. Four patients were given 1 or 2 doses, but then discontinued and were excluded from the full analysis set because aHUS eligibility was not confirmed. The overall mean weight at baseline was 21.2 kg; majority of the patie nts were in the baseline weight category ≥ 10 to &lt; 20 kg. The majority of patients (70.0%) had pretreatment extra renal signs (cardiovascular, pulmonary, central nervous system, gastrointestinal, skin, skeletal muscle) or symptoms of aHUS at baseline. At baseline, 35.0% (n = 7) of patients had CKD Stage 5.
+A total of 24 eculizumab-naïve patients with documented diagnosis of aHUS and evidence of TMA were enrolled, of which 20 were included in the Full Analysis set. Enrolment criteria excluded patients presenting with TMA due to a disintegrin and metalloproteinase with a thrombospondin type 1 motif, member 13 (ADAMTS13) deficiency, STEC-HUS and genetic defect in cobalamin C metabolism. Four patients were given 1 or 2 doses, but then discontinued and were excluded from the full analysis set because aHUS eligibility was not confirmed. The overall mean weight at baseline was 21.2 kg; majority of the patients were in the baseline weight category ≥ 10 to &lt; 20 kg. The majority of patients (70.0%) had pretreatment extra renal signs (cardiovascular, pulmonary, central nervous system, gastrointestinal, skin, skeletal muscle) or symptoms of aHUS at baseline. At baseline, 35.0% (n = 7) of patients had CKD Stage 5.
 
 A total of 10 patients, who switched from eculizumab to ravulizumab, had documented diagnosis of aHUS and evidence of TMA were enrolled. Patients had to have clinical response to eculizumab prior to enrolment (i.e. LDH &lt; 1.5 X ULN and platelet count ≥ 150,000/μL, and eGFR
 
@@ -816,10 +821,10 @@ Table 19: Demographics and baseline characteristics in study ALXN1210-aHUS-312
 | Sex Male                                                                                                          | n (%)             | 8 (40.0)                                    | 9 (90.0)                                   |
 | Race a American Indian or Alaskan Native Asian Black or African American White Unknown                            | n (%)             | 1 (5.0) 5 (25.0) 3 (15.0) 11 (55.0) 1 (5.0) | 0 (0.0) 4 (40.0) 1 (10.0) 5 (50.0) 0 (0.0) |
 | History of transplant                                                                                             | n (%)             | 1 (5.6)                                     | 1 (10.0)                                   |
-| Haemoglobin (g/L)                                                                                                 |                   | 74.25 (32, 106)                             |                                            |
-|                                                                                                                   | Median (min, max) |                                             | 132.0 (114.5, 148)                         |
+| Platelets (10 9 /L) blood                                                                                         | Median (min, max) | 51.25 (14, 125)                             | 281.75 (207, 415.5)                        |
+| Haemoglobin (g/L)                                                                                                 | Median (min, max) | 74.25 (32, 106)                             | 132.0 (114.5, 148)                         |
 | LDH (U/L)                                                                                                         | Median (min, max) | 1963.0 (772, 4985)                          | 206.5 (138.5, 356)                         |
-| eGFR (mL/min/1.73m 2 )                                                                                            | Median (min, max) | 22.0 (10, 84)                               | 99.75 (54, 136.5)                          |
+| eGFR (mL/min/1.73 m 2 )                                                                                           | Median (min, max) | 22.0 (10, 84)                               | 99.75 (54, 136.5)                          |
 | Required dialysis at baseline                                                                                     | n (%)             | 7 (35.0)                                    | 0 (0.0)                                    |
 
 Note: Percentages are based on the total number of patients.
@@ -834,15 +839,17 @@ Complete TMA Response was observed in 15 of the 20 naïve patients (75.0%) durin
 
 Table 20: Complete TMA response and complete TMA response components analysis during the 26-week initial evaluation period (ALXN1210-aHUS-312)
 
-|                                                     | Total   | Responder   | Responder             |
+|                                                     |   Total | Responder   | Responder             |
 |-----------------------------------------------------|---------|-------------|-----------------------|
 |                                                     |         | n           | Proportion (95% CI) a |
-| Complete TMA Response                               | 20      | 15          | 0.750 (0.509, 0.913)  |
+| Complete TMA Response                               |      20 | 15          | 0.750 (0.509, 0.913)  |
 | Components of Complete TMA Response                 |         |             |                       |
-| Platelet count normalisation                        | 20      | 19          | 0.950 (0.751, 0.999)  |
-| LDH normalisation                                   | 20      | 18          | 0.900 (0.683, 0.988)  |
-| ≥ 25% improvement in serum creatinine from baseline | 20      | 16          | 0.800 (0.563, 0.943)  |
-| Haematologic normalisation                          | 20      | 18          | 0.900 (0.683, 0.988)  |
+| Platelet count normalisation                        |      20 | 19          | 0.950 (0.751, 0.999)  |
+| LDH normalisation                                   |      20 | 18          | 0.900 (0.683, 0.988)  |
+| ≥ 25% improvement in serum creatinine from baseline |      20 | 16          | 0.800 (0.563, 0.943)  |
+| Haematologic normalisation                          |      20 | 18          | 0.900 (0.683, 0.988)  |
+
+Abbreviations: CI = confidence interval; LDH = lactate dehydrogenase; TMA = thrombotic microangiopathy.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -854,16 +861,16 @@ All 7 of the patients who required dialysis at study entry were able to disconti
 
 Table 21: Secondary efficacy outcome for the 26-Week Initial Evaluation Period for study ALXN1210-aHUS-312
 
-| Parameters                                                                                                                              | Study ALXN1210-aHUS-312 (N = 20)                               | Study ALXN1210-aHUS-312 (N = 20)                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------------|
-| HaematologicTMA parameters, Day 183 Platelets (10 9 /L) blood Mean (SD) Median LDH (U/L) serum Mean (SD)                                | Observed value (n = 17) 304.94 (75.711) 318.00 262.41 (59.995) | Change from baseline (n = 17) 245.59 (91.827) 247.00 -2044.13 (1328.059) |
-| baseline with a confirmatory result through Initial Evaluation Period n/m proportion (95% CI)* CKD stage shift from baseline, Day 183 a | 17/20 0.850 (0.621, 0.968)                                     | 17/20 0.850 (0.621, 0.968)                                               |
-| Improved n/m Proportion (95% CI)* Worsened b n/m                                                                                        | 15/17 0.882 (0.636, 0.985) 0/11 0.000 (0.000, 0.285)           | 15/17 0.882 (0.636, 0.985) 0/11 0.000 (0.000, 0.285)                     |
-| Proportion (95% CI)* (mL/min/1.73m 2 ), Day Mean (SD)                                                                                   | value (n = 17) Change from baseline (n = 17)                   | value (n = 17) Change from baseline (n = 17)                             |
-| 183                                                                                                                                     |                                                                |                                                                          |
-| eGFR                                                                                                                                    | Observed 108.5 (56.87)                                         | 85.4 (54.33)                                                             |
-|                                                                                                                                         |                                                                | 80.0                                                                     |
-| Median                                                                                                                                  | 108.0                                                          |                                                                          |
+| Parameters                                                                                                                              | Study ALXN1210-aHUS-312 (N = 20)                                                                              | Study ALXN1210-aHUS-312 (N = 20)                                                                              |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Haematologic TMA parameters, Day 183 Platelets (10 9 /L) blood Mean (SD) Median LDH (U/L) serum Mean (SD) Median                        | Observed value (n = 17) 304.94 (75.711) 318.00 262.41 (59.995) 247.00                                         | Change from baseline (n = 17) 245.59 (91.827) 247.00 -2044.13 (1328.059) -1851.50                             |
+| baseline with a confirmatory result through Initial Evaluation Period n/m proportion (95% CI)* CKD stage shift from baseline, Day 183 a | 17/20 0.850 (0.621, 0.968)                                                                                    | 17/20 0.850 (0.621, 0.968)                                                                                    |
+| Improved n/m Proportion (95% CI)* Worsened b n/m Proportion (95% CI)* 2                                                                 | 15/17 0.882 (0.636, 0.985) 0/11 0.000 (0.000, 0.285) (n = 17) Change from baseline (n = 17) 85.4 (54.33) 80.0 | 15/17 0.882 (0.636, 0.985) 0/11 0.000 (0.000, 0.285) (n = 17) Change from baseline (n = 17) 85.4 (54.33) 80.0 |
+| eGFR (mL/min/1.73 m ), Day 183 Mean (SD)                                                                                                | value                                                                                                         | value                                                                                                         |
+|                                                                                                                                         | Observed                                                                                                      | Observed                                                                                                      |
+|                                                                                                                                         | 108.5 (56.87)                                                                                                 |                                                                                                               |
+| Median                                                                                                                                  |                                                                                                               |                                                                                                               |
+|                                                                                                                                         | 108.0                                                                                                         |                                                                                                               |
 
 Note: n: number of patients with available data for specific assessment at Day 183 visit. m: number of patients meeting specific criterion. Chronic kidney disease (CKD) stage is classified based on the National Kidney Foundation Chronic Kidney Disease Stage. Stage 1 is considered the best category, while Stage 5 is considered the worst category. Baseline is derived based on the last available eGFR before starting treatment. Improved/Worsened: Compared to CKD stage at baseline.
 
@@ -956,13 +963,7 @@ After dilution, the medicinal product should be used immediately. However, chemi
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C-8 ° C)
-
-Do not freeze.
-
-Keep the vial in the outer carton in order to protect from light.
-
-For storage conditions after dilution of the medicinal product, see section 6.3.
+Store in a refrigerator (2  C-8  C) Do not freeze. Keep the vial in the outer carton in order to protect from light. For storage conditions after dilution of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
@@ -997,41 +998,41 @@ Prepare Ultomiris concentrate for solution for infusion as follows:
 
 Table 23: Loading dose administration reference table for Ultomiris
 
-| Body weight range (kg) a   | Loading dose (mg)   |   Ultomiris volume (mL) |   Volume of NaCl diluent b (mL) |   Total volume (mL) |
+| Body weight range (kg) a   |   Loading dose (mg) |   Ultomiris volume (mL) |   Volume of NaCl diluent b (mL) |   Total volume (mL) |
 |----------------------------|---------------------|-------------------------|---------------------------------|---------------------|
-| ≥ 10 to < 20               | 600                 |                       6 |                               6 |                  12 |
-| ≥ 20 to < 30               | 900                 |                       9 |                               9 |                  18 |
-| ≥ 30 to < 40               | 1,200               |                      12 |                              12 |                  24 |
-| ≥ 40 to < 60               | 2,400               |                      24 |                              24 |                  48 |
-| ≥ 60 to < 100              | 2,700               |                      27 |                              27 |                  54 |
-| ≥ 100                      | 3,000               |                      30 |                              30 |                  60 |
+| ≥ 10 to < 20 c             |                 600 |                       6 |                               6 |                  12 |
+| ≥ 20 to < 30 c             |                 900 |                       9 |                               9 |                  18 |
+| ≥ 30 to < 40 c             |               1,200 |                      12 |                              12 |                  24 |
+| ≥ 40 to < 60               |               2,400 |                      24 |                              24 |                  48 |
+| ≥ 60 to < 100              |               2,700 |                      27 |                              27 |                  54 |
+| ≥ 100                      |               3,000 |                      30 |                              30 |                  60 |
 
 Table 24: Maintenance dose administration reference table for Ultomiris
 
-| Body weight range (kg) a   | Maintenance dose (mg)   |   Ultomiris volume (mL) |   Volume of NaCl diluent b (mL) |   Total volume (mL) |
+| Body weight range (kg) a   |   Maintenance dose (mg) |   Ultomiris volume (mL) |   Volume of NaCl diluent b (mL) |   Total volume (mL) |
 |----------------------------|-------------------------|-------------------------|---------------------------------|---------------------|
-| ≥ 10 to < 20               | 600                     |                       6 |                               6 |                  12 |
-| ≥ 20 to < 30               | 2,100                   |                      21 |                              21 |                  42 |
-| ≥ 30 to < 40               | 2,700                   |                      27 |                              27 |                  54 |
-| ≥ 40 to < 60               | 3,000                   |                      30 |                              30 |                  60 |
-| ≥ 60 to < 100              | 3,300                   |                      33 |                              33 |                  66 |
-| ≥ 100                      | 3,600                   |                      36 |                              36 |                  72 |
+| ≥ 10 to < 20 c             |                     600 |                       6 |                               6 |                  12 |
+| ≥ 20 to < 30 c             |                   2,100 |                      21 |                              21 |                  42 |
+| ≥ 30 to < 40 c             |                   2,700 |                      27 |                              27 |                  54 |
+| ≥ 40 to < 60               |                   3,000 |                      30 |                              30 |                  60 |
+| ≥ 60 to < 100              |                   3,300 |                      33 |                              33 |                  66 |
+| ≥ 100                      |                   3,600 |                      36 |                              36 |                  72 |
 
 <div style=\"page-break-after: always\"></div>
 
 Table 25: Supplemental dose administration reference table for Ultomiris
 
-| Body weight range (kg) a   | Supplemental dose (mg)   |   Ultomiris volume (mL) |   Volume of NaCl diluent b (mL) |   Total volume (mL) |
+| Body weight range (kg) a   |   Supplemental dose (mg) |   Ultomiris volume (mL) |   Volume of NaCl diluent b (mL) |   Total volume (mL) |
 |----------------------------|--------------------------|-------------------------|---------------------------------|---------------------|
-| ≥ 40 to < 60               | 600                      |                       6 |                               6 |                  12 |
-| ≥ 40 to < 60               | 1,200                    |                      12 |                              12 |                  24 |
-| ≥ 40 to < 60               | 1,500                    |                      15 |                              15 |                  30 |
-| ≥ 60 to < 100              | 600                      |                       6 |                               6 |                  12 |
-| ≥ 60 to < 100              | 1,500                    |                      15 |                              15 |                  30 |
-| ≥ 60 to < 100              | 1,800                    |                      18 |                              18 |                  36 |
-| ≥ 100                      | 600                      |                       6 |                               6 |                  12 |
-| ≥ 100                      | 1,500                    |                      15 |                              15 |                  30 |
-| ≥ 100                      | 1,800                    |                      18 |                              18 |                  36 |
+| ≥ 40 to < 60               |                      600 |                       6 |                               6 |                  12 |
+| ≥ 40 to < 60               |                    1,200 |                      12 |                              12 |                  24 |
+| ≥ 40 to < 60               |                    1,500 |                      15 |                              15 |                  30 |
+| ≥ 60 to < 100              |                      600 |                       6 |                               6 |                  12 |
+| ≥ 60 to < 100              |                    1,500 |                      15 |                              15 |                  30 |
+| ≥ 60 to < 100              |                    1,800 |                      18 |                              18 |                  36 |
+| ≥ 100                      |                      600 |                       6 |                               6 |                  12 |
+| ≥ 100                      |                    1,500 |                      15 |                              15 |                  30 |
+| ≥ 100                      |                    1,800 |                      18 |                              18 |                  36 |
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -1069,9 +1070,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) of the biological active substance(s)
-
-Lonza Biologics Porriño, S.L. C/ La Relba, s/n. Porriño Pontevedra 36400 SPAIN
+Name and address of the manufacturer(s) of the biological active substance(s) Lonza Biologics Porriño, S.L. C/ La Relba, s/n. Porriño Pontevedra 36400 SPAIN
 
 Alexion Pharma International Operations Limited Alexion Dublin Manufacturing Facility (ADMF) College Business and Technology Park Blanchardstown Road North Dublin 15, D15 R925 IRELAND
 
@@ -1188,13 +1187,15 @@ Ultomiris 1 100 mg/11 mL concentrate for solution for infusion ravulizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each vial of 11 mL contains 1 100 mg of ravulizumab. (100 mg/mL)
+Each vial of 11 mL contains 1 100 mg of ravulizumab.
+
+(100 mg/mL)
 
 After dilution with sodium chloride 9 mg/mL (0.9 %) solution for injection, the final concentration of the solution is 50 mg/mL.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients
+## Excipients
 
 Sodium phosphate dibasic heptahydrate (E 339), sodium phosphate monobasic monohydrate (E 339), polysorbate 80 (E 433), arginine, sucrose, and water for injections.
 
@@ -1274,7 +1275,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS Single use Type I glass vial 1 100 mg/11 mL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+Single use Type I glass vial 1 100 mg/11 mL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1308,13 +1311,15 @@ Ultomiris 300 mg/3 mL concentrate for solution for infusion ravulizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each vial of 3 mL contains 300 mg of ravulizumab. (100 mg/mL)
+Each vial of 3 mL contains 300 mg of ravulizumab.
+
+(100 mg/mL)
 
 After dilution with sodium chloride 9 mg/mL (0.9 %) solution for injection, the final concentration of the solution is 50 mg/mL.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients
+## Excipients
 
 Sodium phosphate dibasic heptahydrate (E 339), sodium phosphate monobasic monohydrate (E 339), polysorbate 80 (E 433), arginine, sucrose, and water for injections.
 
@@ -1352,7 +1357,7 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1388,12 +1393,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| Single use Type I glass vial 300 mg/3 mL                           |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+Single use Type I glass vial 300 mg/3 mL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1453,11 +1455,9 @@ Ultomiris is used to treat adult and children patients 10 kg and over with a dis
 
 Ultomiris is also used to treat adult and children patients 10 kg and over with a disease affecting the blood system and kidney called atypical haemolytic uremic syndrome (aHUS), including patients untreated with complement inhibitor and patients who have received eculizumab for at least 3 months. In patients with aHUS, their kidneys and blood vessels, including platelets, can be inflamed which can lead to low blood counts (thrombocytopenia and anaemia), reduced or lost kidney function, blood clots, tiredness and difficulty in functioning. Ultomiris can block the body's inflammatory response, and its ability to attack and destroy its own vulnerable blood vessels and so control symptoms of the disease including injury to the kidneys.
 
-Ultomiris is also used to treat adult patients with a certain type of disease affecting the muscles called generalised  Myasthenia  Gravis  (gMG).  In  patients  with  gMG,  their  muscles  can  be  attacked  and damaged by the immune system which can lead to profound muscle weakness, impaired vision and mobility, shortness of breath, extreme fatigue, risk for aspiration, and markedly impaired activities of daily living. Ultomiris can block the body's inflammatory response, and its ability to attack and destroy
+Ultomiris is also used to treat adult patients with a certain type of disease affecting the muscles called generalised  Myasthenia  Gravis  (gMG).  In  patients  with  gMG,  their  muscles  can  be  attacked  and damaged by the immune system which can lead to profound muscle weakness, impaired vision and mobility, shortness of breath, extreme fatigue, risk for aspiration, and markedly impaired activities of daily living. Ultomiris can block the body's inflammatory response, and its ability to attack and destroy its own muscles to improve muscle contraction, thereby reducing symptoms of the disease and impact of the disease on the activities of daily living. Ultomiris is specifically indicated for patients who remain symptomatic despite treatment with other therapies.
 
 <div style=\"page-break-after: always\"></div>
-
-its own muscles to improve muscle contraction, thereby reducing symptoms of the disease and impact of the disease on the activities of daily living. Ultomiris is specifically indicated for patients who remain symptomatic despite treatment with other therapies.
 
 Ultomiris is also used to treat adult patients with a disease of the central nervous system that mainly affects the optic (eye) nerves and the spinal cord called Neuromyelitis Optica Spectrum Disorder (NMOSD). In patients with NMOSD, the optic nerves and spinal cord are attacked and damaged by the immune system working incorrectly, which can lead to loss of sight in one or both eyes, weakness or loss of movement in the legs or arms, painful spasms, loss of feeling, problems with bladder and bowel function and marked difficulties with activities of daily living. Ultomiris can block the body's abnormal immune response, and its ability to attack and destroy its own optic nerves and spinal cord, which reduces the risk of a relapse or attack of NMOSD.
 
@@ -1558,14 +1558,14 @@ If you were previously receiving another medicine for PNH, aHUS, gMG, or NMOSD c
 
 Table 1: Ultomiris weight-based dosing regimen
 
-| Body weight range (kg)   | Loading dose (mg)   | Maintenance dose(mg)   |
-|--------------------------|---------------------|------------------------|
-| 10 to less than 20 a     | 600                 | 600                    |
-| 20 to less than 30 a     | 900                 | 2,100                  |
-| 30 to less than 40 a     | 1,200               | 2,700                  |
-| 40 to less than 60       | 2,400               | 3,000                  |
-| 60 to less than 100      | 2,700               | 3,300                  |
-| above 100                | 3,000               | 3,600                  |
+| Body weight range (kg)   |   Loading dose (mg) |   Maintenance dose (mg) |
+|--------------------------|---------------------|-------------------------|
+| 10 to less than 20 a     |                 600 |                     600 |
+| 20 to less than 30 a     |                 900 |                   2,100 |
+| 30 to less than 40 a     |               1,200 |                   2,700 |
+| 40 to less than 60       |               2,400 |                   3,000 |
+| 60 to less than 100      |               2,700 |                   3,300 |
+| above 100                |               3,000 |                   3,600 |
 
 Ultomiris is given by infusion (drip) into a vein. The infusion will take approximately 45 minutes.
 
@@ -1685,7 +1685,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton after 'EXP'. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 °C-8 ° C).
+Store in a refrigerator (2 °C-8  C).
 
 Do not freeze.
 
@@ -1730,11 +1730,7 @@ Alexion Pharma Belgium Tél/Tel: +32 0 800 200 31
 
 ## България
 
-АстраЗенека България ЕООД
-
-Te л
-
-.: +359 24455000
+АстраЗенека България ЕООД Teл.: +359 24455000
 
 ## Česká republika
 
@@ -1770,25 +1766,19 @@ AstraZeneca Kft. Tel.: +36 1 883 6500
 
 ## Malta
 
-Alexion Europe SAS
-
-Tel: +353 1 800 882 840
+Associated Drug Co. Ltd Tel: +356 2277 8000
 
 ## Nederland
 
-Alexion Pharma Netherlands B.V.
+Alexion Pharma Netherlands B.V. Tel: +32 (0) 2 548 36 67
 
-Tel: +32 (0) 2 548 36 67
-
-## Norge
+Norge
 
 AstraZeneca
 
-<div style=\"page-break-after: always\"></div>
+Tel: +372 6549 600
 
 Alexion Pharma Nordics AB
-
-Tel: +372 6549 600
 
 Tlf: +46 (0) 8 557 727 50
 
@@ -1824,9 +1814,7 @@ Tél: +33 1 47 32 36 21
 
 ## Portugal
 
-Alexion Pharma Spain, S.L- Sucursal em Portugal
-
-Tel: +34 93 272 30 05
+Alexion Pharma Spain, S.L- Sucursal em Portugal Tel: +34 93 272 30 05
 
 ## Hrvatska
 
@@ -1894,6 +1882,8 @@ SIA AstraZeneca Latvija
 
 Tel: +371 67377100
 
+<div style=\"page-break-after: always\"></div>
+
 ## This leaflet was last revised in
 
 ## Other sources of information
@@ -1927,41 +1917,41 @@ Ultomiris should be prepared for administration by a qualified healthcare profes
 
 Table 1: Loading dose administration reference table
 
-| Body weight range (kg) a   | Loading dose (mg)   |   Ultomiris volume (mL) |   Volume of NaCl diluent b (mL) |   Total volume (mL) | Minimum infusion duration minutes (hours)   |
+| Body weight range (kg) a   |   Loading dose (mg) |   Ultomiris volume (mL) |   Volume of NaCl diluent b (mL) |   Total volume (mL) | Minimum infusion duration minutes (hours)   |
 |----------------------------|---------------------|-------------------------|---------------------------------|---------------------|---------------------------------------------|
-| ≥ 10 to < 20 c             | 600                 |                       6 |                               6 |                  12 | 45 (0.8)                                    |
-| ≥ 20 to < 30 c             | 900                 |                       9 |                               9 |                  18 | 35 (0.6)                                    |
-| ≥ 30 to < 40 c             | 1,200               |                      12 |                              12 |                  24 | 31 (0.5)                                    |
-| ≥ 40 to < 60               | 2,400               |                      24 |                              24 |                  48 | 45 (0.8)                                    |
-| ≥ 60 to < 100              | 2,700               |                      27 |                              27 |                  54 | 35 (0.6)                                    |
-| ≥ 100                      | 3,000               |                      30 |                              30 |                  60 | 25 (0.4)                                    |
+| ≥ 10 to < 20 c             |                 600 |                       6 |                               6 |                  12 | 45 (0.8)                                    |
+| ≥ 20 to < 30 c             |                 900 |                       9 |                               9 |                  18 | 35 (0.6)                                    |
+| ≥ 30 to < 40 c             |               1,200 |                      12 |                              12 |                  24 | 31 (0.5)                                    |
+| ≥ 40 to < 60               |               2,400 |                      24 |                              24 |                  48 | 45 (0.8)                                    |
+| ≥ 60 to < 100              |               2,700 |                      27 |                              27 |                  54 | 35 (0.6)                                    |
+| ≥ 100                      |               3,000 |                      30 |                              30 |                  60 | 25 (0.4)                                    |
 
 Table 2: Maintenance dose administration reference table
 
-| Body weight range (kg) a   | Maintenance dose (mg)   |   Ultomiris volume (mL) |   Volume of NaCl diluent b (mL) |   Total volume (mL) | Minimum infusion duration minutes (hours)   |
+| Body weight range (kg) a   |   Maintenance dose (mg) |   Ultomiris volume (mL) |   Volume of NaCl diluent b (mL) |   Total volume (mL) | Minimum infusion duration minutes (hours)   |
 |----------------------------|-------------------------|-------------------------|---------------------------------|---------------------|---------------------------------------------|
-| ≥ 10 to < 20 c             | 600                     |                       6 |                               6 |                  12 | 45 (0.8)                                    |
-| ≥ 20 to < 30 c             | 2,100                   |                      21 |                              21 |                  42 | 75 (1.3)                                    |
-| ≥ 30 to < 40 c             | 2,700                   |                      27 |                              27 |                  54 | 65 (1.1)                                    |
-| ≥ 40 to < 60               | 3,000                   |                      30 |                              30 |                  60 | 55 (0.9)                                    |
-| ≥ 60 to < 100              | 3,300                   |                      33 |                              33 |                  66 | 40 (0.7)                                    |
-| ≥ 100                      | 3,600                   |                      36 |                              36 |                  72 | 30 (0.5)                                    |
+| ≥ 10 to < 20 c             |                     600 |                       6 |                               6 |                  12 | 45 (0.8)                                    |
+| ≥ 20 to < 30 c             |                   2,100 |                      21 |                              21 |                  42 | 75 (1.3)                                    |
+| ≥ 30 to < 40 c             |                   2,700 |                      27 |                              27 |                  54 | 65 (1.1)                                    |
+| ≥ 40 to < 60               |                   3,000 |                      30 |                              30 |                  60 | 55 (0.9)                                    |
+| ≥ 60 to < 100              |                   3,300 |                      33 |                              33 |                  66 | 40 (0.7)                                    |
+| ≥ 100                      |                   3,600 |                      36 |                              36 |                  72 | 30 (0.5)                                    |
 
 <div style=\"page-break-after: always\"></div>
 
 Table 3: Supplemental dose administration reference table
 
-| Body weight range (kg) a   | Supplemental dose (mg)   |   Ultomiris volume (mL) |   Volume of NaCl diluent b (mL) |   Total volume (mL) | Minimum infusion duration minutes (hr)   |
+| Body weight range (kg) a   |   Supplemental dose (mg) |   Ultomiris volume (mL) |   Volume of NaCl diluent b (mL) |   Total volume (mL) | Minimum infusion duration minutes (hr)   |
 |----------------------------|--------------------------|-------------------------|---------------------------------|---------------------|------------------------------------------|
-| ≥ 40 to < 60               | 600                      |                       6 |                               6 |                  12 | 15 (0.25)                                |
-| ≥ 40 to < 60               | 1,200                    |                      12 |                              12 |                  24 | 25 (0.42)                                |
-| ≥ 40 to < 60               | 1,500                    |                      15 |                              15 |                  30 | 30 (0.5)                                 |
-| ≥ 60 to < 100              | 600                      |                       6 |                               6 |                  12 | 12 (0.20)                                |
-| ≥ 60 to < 100              | 1,500                    |                      15 |                              15 |                  30 | 22 (0.36)                                |
-| ≥ 60 to < 100              | 1,800                    |                      18 |                              18 |                  36 | 25 (0.42)                                |
-| ≥ 100                      | 600                      |                       6 |                               6 |                  12 | 10 (0.17)                                |
-| ≥ 100                      | 1,500                    |                      15 |                              15 |                  30 | 15 (0.25)                                |
-| ≥ 100                      | 1,800                    |                      18 |                              18 |                  36 | 17 (0.28)                                |
+| ≥ 40 to < 60               |                      600 |                       6 |                               6 |                  12 | 15 (0.25)                                |
+| ≥ 40 to < 60               |                    1,200 |                      12 |                              12 |                  24 | 25 (0.42)                                |
+| ≥ 40 to < 60               |                    1,500 |                      15 |                              15 |                  30 | 30 (0.5)                                 |
+| ≥ 60 to < 100              |                      600 |                       6 |                               6 |                  12 | 12 (0.20)                                |
+| ≥ 60 to < 100              |                    1,500 |                      15 |                              15 |                  30 | 22 (0.36)                                |
+| ≥ 60 to < 100              |                    1,800 |                      18 |                              18 |                  36 | 25 (0.42)                                |
+| ≥ 100                      |                      600 |                       6 |                               6 |                  12 | 10 (0.17)                                |
+| ≥ 100                      |                    1,500 |                      15 |                              15 |                  30 | 15 (0.25)                                |
+| ≥ 100                      |                    1,800 |                      18 |                              18 |                  36 | 17 (0.28)                                |
 
 - Gently agitate the infusion bag containing the diluted Ultomiris solution to ensure thorough mixing of the medicine and diluent. Ultomiris should not be shaken.
 - The diluted solution should be allowed to warm to room temperature (18 °C-25 °C) prior to administration by exposure to ambient air during approximately 30 min.
@@ -2020,11 +2010,9 @@ Ultomiris is used to treat adult and children patients 10 kg and over with a dis
 
 Ultomiris is also used to treat adult and children patients 10 kg and over with a disease affecting the blood system and kidney called atypical haemolytic uremic syndrome (aHUS), including patients untreated with complement inhibitor and patients who have received eculizumab for at least 3 months. In patients with aHUS, their kidneys and blood vessels, including platelets, can be inflamed which can lead to low blood counts (thrombocytopenia and anaemia), reduced or lost kidney function, blood clots, tiredness and difficulty in functioning. Ultomiris can block the body's inflammatory response, and its ability to attack and destroy its own vulnerable blood vessels and so control symptoms of the disease including injury to the kidneys.
 
-Ultomiris is also used to treat adult patients with a certain type of disease affecting the muscles called generalised  Myasthenia  Gravis  (gMG).  In  patients  with  gMG,  their  muscles  can  be  attacked  and damaged by the immune system which can lead to profound muscle weakness, impaired vision and mobility, shortness of breath, extreme fatigue, risk for aspiration, and markedly impaired activities of daily living. Ultomiris can block the body's inflammatory response, and its ability to attack and destroy
+Ultomiris is also used to treat adult patients with a certain type of disease affecting the muscles called generalised  Myasthenia  Gravis  (gMG).  In  patients  with  gMG,  their  muscles  can  be  attacked  and damaged by the immune system which can lead to profound muscle weakness, impaired vision and mobility, shortness of breath, extreme fatigue, risk for aspiration, and markedly impaired activities of daily living. Ultomiris can block the body's inflammatory response, and its ability to attack and destroy its own muscles to improve muscle contraction, thereby reducing symptoms of the disease and impact of the disease on the activities of daily living. Ultomiris is specifically indicated for patients who remain symptomatic despite treatment with other therapies.
 
 <div style=\"page-break-after: always\"></div>
-
-its own muscles to improve muscle contraction, thereby reducing symptoms of the disease and impact of the disease on the activities of daily living. Ultomiris is specifically indicated for patients who remain symptomatic despite treatment with other therapies.
 
 Ultomiris is also used to treat adult patients with a disease of the central nervous system that mainly affects the optic (eye) nerves and the spinal cord called Neuromyelitis Optica Spectrum Disorder (NMOSD). In patients with NMOSD, the optic nerves and spinal cord are attacked and damaged by the immune system working incorrectly, which can lead to loss of sight in one or both eyes, weakness or loss of movement in the legs or arms, painful spasms, loss of feeling, problems with bladder and bowel function and marked difficulties with activities of daily living. Ultomiris can block the body's abnormal immune response, and its ability to attack and destroy its own optic nerves and spinal cord, which reduces the risk of a relapse or attack of NMOSD.
 
@@ -2061,11 +2049,9 @@ If you experience any of the following symptoms, you should immediately inform y
 - muscle aches with flu-like symptoms
 - eyes sensitive to light
 
-## Treatment for meningococcal infection while travelling
+Treatment for meningococcal infection while travelling If you are travelling in a region where you are unable to contact your doctor or will be temporarily unable to receive medical treatment, your doctor may prescribe an antibiotic against Neisseria meningitidis to bring with you. If you experience any of the symptoms described above, you should take the course of antibiotics as prescribed. You should bear in mind that you should still see a doctor as soon as possible, even if you feel better after having taken the antibiotics.
 
 <div style=\"page-break-after: always\"></div>
-
-If you are travelling in a region where you are unable to contact your doctor or will be temporarily unable to receive medical treatment, your doctor may prescribe an antibiotic against Neisseria meningitidis to bring with you. If you experience any of the symptoms described above, you should take the course of antibiotics as prescribed. You should bear in mind that you should still see a doctor as soon as possible, even if you feel better after having taken the antibiotics.
 
 ## Infections
 
@@ -2125,14 +2111,14 @@ If you were previously receiving another medicine for PNH, aHUS, gMG, or NMOSD c
 
 Table 1: Ultomiris weight-based dosing regimen
 
-| Body weight range (kg)   | Loading dose (mg)   | Maintenance dose(mg)   |
-|--------------------------|---------------------|------------------------|
-| 10 to less than 20 a     | 600                 | 600                    |
-| 20 to less than 30 a     | 900                 | 2,100                  |
-| 30 to less than 40 a     | 1,200               | 2,700                  |
-| 40 to less than 60       | 2,400               | 3,000                  |
-| 60 to less than 100      | 2,700               | 3,300                  |
-| above 100                | 3,000               | 3,600                  |
+| Body weight range (kg)   |   Loading dose (mg) |   Maintenance dose (mg) |
+|--------------------------|---------------------|-------------------------|
+| 10 to less than 20 a     |                 600 |                     600 |
+| 20 to less than 30 a     |                 900 |                   2,100 |
+| 30 to less than 40 a     |               1,200 |                   2,700 |
+| 40 to less than 60       |               2,400 |                   3,000 |
+| 60 to less than 100      |               2,700 |                   3,300 |
+| above 100                |               3,000 |                   3,600 |
 
 Ultomiris is given by infusion (drip) into a vein. The infusion will take approximately 45 minutes.
 
@@ -2252,7 +2238,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton after 'EXP'. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 °C-8 ° C).
+Store in a refrigerator (2 °C-8  C).
 
 Do not freeze.
 
@@ -2295,21 +2281,11 @@ For any information about this medicine, please contact the local representative
 
 Alexion Pharma Belgium Tél/Tel: +32 0 800 200 31
 
-## Lietuva
-
-UAB AstraZeneca Lietuva Tel: +370 5 2660550
-
 ## България
 
 АстраЗенека България ЕООД
 
-Te л
-
-.: +359 24455000
-
-## Luxembourg/Luxemburg
-
-Alexion Pharma Belgium Tél/Tel: +32 0 800 200 31
+Teл.: +359 24455000
 
 ## Česká republika
 
@@ -2317,21 +2293,11 @@ AstraZeneca Czech Republic s.r.o.
 
 Tel: +420 222 807 111
 
-## Magyarország
-
-AstraZeneca Kft.
-
-Tel.: +36 1 883 6500
-
 ## Danmark
 
 Alexion Pharma Nordics AB
 
 Tlf.: +46 (0) 8 557 727 50
-
-## Malta
-
-Alexion Europe SAS Tel: +353 1 800 882 840
 
 ## Deutschland
 
@@ -2339,21 +2305,39 @@ Alexion Pharma Germany GmbH
 
 Tel: +49 (0) 89 45 70 91 300
 
-## Nederland
-
-Alexion Pharma Netherlands B.V.
-
-Tel: +32 (0) 2 548 36 67
-
 ## Eesti
 
-## Norge
+## Lietuva
+
+UAB AstraZeneca Lietuva Tel: +370 5 2660550
+
+## Luxembourg/Luxemburg
+
+Alexion Pharma Belgium Tél/Tel: +32 0 800 200 31
+
+## Magyarország
+
+AstraZeneca Kft.
+
+Tel.: +36 1 883 6500
+
+## Malta
+
+Associated Drug Co. Ltd Tel: +356 2277 8000
+
+## Nederland
+
+Alexion Pharma Netherlands B.V. Tel: +32 (0) 2 548 36 67
+
+Norge
 
 AstraZeneca
 
-<div style=\"page-break-after: always\"></div>
-
 Tel: +372 6549 600
+
+Alexion Pharma Nordics AB
+
+Tlf: +46 (0) 8 557 727 50
 
 ## Ελλάδα
 
@@ -2361,69 +2345,17 @@ AstraZeneca A.E.
 
 Τηλ: +30 210 6871500
 
-## España
-
-Alexion Pharma Spain, S.L.U
-
-Tel: +34 93 272 30 05
-
-## France
-
-Alexion Pharma France SAS
-
-Tél: +33 1 47 32 36 21
-
-## Hrvatska
-
-AstraZeneca d.o.o.
-
-Tel: +385 1 4628 000
-
-## Ireland
-
-Alexion Europe SAS
-
-Tel: 1 800 882 840
-
-## Ísland
-
-Alexion Pharma Nordics AB
-
-Sími: +46 (0) 8 557 727 50
-
-## Italia
-
-Alexion Pharma Italy srl
-
-Tel: +39 02 7767 9211
-
-## Κύπρος
-
-Alexion Europe SAS
-
-Τηλ: +357 22490305
-
-## Latvija
-
-SIA AstraZeneca Latvija
-
-Tel: +371 67377100
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
-
-Alexion Pharma Nordics AB
-
-Tlf: +46 (0) 8 557 727 50
-
 ## Österreich
 
 Alexion Pharma Austria GmbH
 
 Tel: +41 44 457 40 00
+
+## España
+
+Alexion Pharma Spain, S.L.U
+
+Tel: +34 93 272 30 05
 
 ## Polska
 
@@ -2431,11 +2363,21 @@ AstraZeneca Pharma Poland Sp. z o.o.
 
 Tel.: +48 22 245 73 00
 
+## France
+
+Alexion Pharma France SAS
+
+Tél: +33 1 47 32 36 21
+
 ## Portugal
 
-Alexion Pharma Spain, S.L- Sucursal em Portugal
+Alexion Pharma Spain, S.L- Sucursal em Portugal Tel: +34 93 272 30 05
 
-Tel: +34 93 272 30 05
+## Hrvatska
+
+AstraZeneca d.o.o.
+
+Tel: +385 1 4628 000
 
 ## România
 
@@ -2443,11 +2385,23 @@ AstraZeneca Pharma SRL
 
 Tel: +40 21 317 60 41
 
+## Ireland
+
+Alexion Europe SAS
+
+Tel: 1 800 882 840
+
 ## Slovenija
 
 AstraZeneca UK Limited
 
 Tel: +386 1 51 35 600
+
+## Ísland
+
+Alexion Pharma Nordics AB
+
+Sími: +46 (0) 8 557 727 50
 
 ## Slovenská republika
 
@@ -2455,17 +2409,43 @@ AstraZeneca AB, o.z.
 
 Tel: +421 2 5737 7777
 
+## Italia
+
+Alexion Pharma Italy srl
+
+Tel: +39 02 7767 9211
+
 ## Suomi/Finland
 
 Alexion Pharma Nordics AB
 
 Puh/Tel: +46(0) 8 557 727 50
 
+## Κύπρος
+
+Alexion Europe SAS
+
+Τηλ: +357 22490305
+
 ## Sverige
 
 Alexion Pharma Nordics AB
 
 Tel: +46 (0) 8 557 727 50
+
+## Latvija
+
+SIA AstraZeneca Latvija
+
+Tel: +371 67377100
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2494,41 +2474,41 @@ Ultomiris should be prepared for administration by a qualified healthcare profes
 
 Table 1: Loading dose administration reference table
 
-| Body weight range (kg) a   | Loading dose (mg)   |   Ultomiris volume (mL) |   Volume of NaCl diluent b (mL) |   Total volume (mL) | Minimum infusion duration minutes (hours)   |
+| Body weight range (kg) a   |   Loading dose (mg) |   Ultomiris volume (mL) |   Volume of NaCl diluent b (mL) |   Total volume (mL) | Minimum infusion duration minutes (hours)   |
 |----------------------------|---------------------|-------------------------|---------------------------------|---------------------|---------------------------------------------|
-| ≥ 10 to < 20 c             | 600                 |                       6 |                               6 |                  12 | 45 (0.8)                                    |
-| ≥ 20 to < 30 c             | 900                 |                       9 |                               9 |                  18 | 35 (0.6)                                    |
-| ≥ 30 to < 40 c             | 1,200               |                      12 |                              12 |                  24 | 31 (0.5)                                    |
-| ≥ 40 to < 60               | 2,400               |                      24 |                              24 |                  48 | 45 (0.8)                                    |
-| ≥ 60 to < 100              | 2,700               |                      27 |                              27 |                  54 | 35 (0.6)                                    |
-| ≥ 100                      | 3,000               |                      30 |                              30 |                  60 | 25 (0.4)                                    |
+| ≥ 10 to < 20 c             |                 600 |                       6 |                               6 |                  12 | 45 (0.8)                                    |
+| ≥ 20 to < 30 c             |                 900 |                       9 |                               9 |                  18 | 35 (0.6)                                    |
+| ≥ 30 to < 40 c             |               1,200 |                      12 |                              12 |                  24 | 31 (0.5)                                    |
+| ≥ 40 to < 60               |               2,400 |                      24 |                              24 |                  48 | 45 (0.8)                                    |
+| ≥ 60 to < 100              |               2,700 |                      27 |                              27 |                  54 | 35 (0.6)                                    |
+| ≥ 100                      |               3,000 |                      30 |                              30 |                  60 | 25 (0.4)                                    |
 
 Table 2: Maintenance dose administration reference table
 
-| Body weight range (kg) a   | Maintenance dose (mg)   |   Ultomiris volume (mL) |   Volume of NaCl diluent b (mL) |   Total volume (mL) | Minimum infusion duration minutes (hours)   |
+| Body weight range (kg) a   |   Maintenance dose (mg) |   Ultomiris volume (mL) |   Volume of NaCl diluent b (mL) |   Total volume (mL) | Minimum infusion duration minutes (hours)   |
 |----------------------------|-------------------------|-------------------------|---------------------------------|---------------------|---------------------------------------------|
-| ≥ 10 to < 20 c             | 600                     |                       6 |                               6 |                  12 | 45 (0.8)                                    |
-| ≥ 20 to < 30 c             | 2,100                   |                      21 |                              21 |                  42 | 75 (1.3)                                    |
-| ≥ 30 to < 40 c             | 2,700                   |                      27 |                              27 |                  54 | 65 (1.1)                                    |
-| ≥ 40 to < 60               | 3,000                   |                      30 |                              30 |                  60 | 55 (0.9)                                    |
-| ≥ 60 to < 100              | 3,300                   |                      33 |                              33 |                  66 | 40 (0.7)                                    |
-| ≥ 100                      | 3,600                   |                      36 |                              36 |                  72 | 30 (0.5)                                    |
+| ≥ 10 to < 20 c             |                     600 |                       6 |                               6 |                  12 | 45 (0.8)                                    |
+| ≥ 20 to < 30 c             |                   2,100 |                      21 |                              21 |                  42 | 75 (1.3)                                    |
+| ≥ 30 to < 40 c             |                   2,700 |                      27 |                              27 |                  54 | 65 (1.1)                                    |
+| ≥ 40 to < 60               |                   3,000 |                      30 |                              30 |                  60 | 55 (0.9)                                    |
+| ≥ 60 to < 100              |                   3,300 |                      33 |                              33 |                  66 | 40 (0.7)                                    |
+| ≥ 100                      |                   3,600 |                      36 |                              36 |                  72 | 30 (0.5)                                    |
 
 <div style=\"page-break-after: always\"></div>
 
 Table 3: Supplemental dose administration reference table
 
-| Body weight range (kg) a   | Supplemental dose (mg)   |   Ultomiris volume (mL) |   Volume of NaCl diluent b (mL) |   Total volume (mL) | Minimum infusion duration minutes (hr)   |
+| Body weight range (kg) a   |   Supplemental dose (mg) |   Ultomiris volume (mL) |   Volume of NaCl diluent b (mL) |   Total volume (mL) | Minimum infusion duration minutes (hr)   |
 |----------------------------|--------------------------|-------------------------|---------------------------------|---------------------|------------------------------------------|
-| ≥ 40 to < 60               | 600                      |                       6 |                               6 |                  12 | 15 (0.25)                                |
-| ≥ 40 to < 60               | 1,200                    |                      12 |                              12 |                  24 | 25 (0.42)                                |
-| ≥ 40 to < 60               | 1,500                    |                      15 |                              15 |                  30 | 30 (0.5)                                 |
-| ≥ 60 to < 100              | 600                      |                       6 |                               6 |                  12 | 12 (0.20)                                |
-| ≥ 60 to < 100              | 1,500                    |                      15 |                              15 |                  30 | 22 (0.36)                                |
-| ≥ 60 to < 100              | 1,800                    |                      18 |                              18 |                  36 | 25 (0.42)                                |
-| ≥ 100                      | 600                      |                       6 |                               6 |                  12 | 10 (0.17)                                |
-| ≥ 100                      | 1,500                    |                      15 |                              15 |                  30 | 15 (0.25)                                |
-| ≥ 100                      | 1,800                    |                      18 |                              18 |                  36 | 17 (0.28)                                |
+| ≥ 40 to < 60               |                      600 |                       6 |                               6 |                  12 | 15 (0.25)                                |
+| ≥ 40 to < 60               |                    1,200 |                      12 |                              12 |                  24 | 25 (0.42)                                |
+| ≥ 40 to < 60               |                    1,500 |                      15 |                              15 |                  30 | 30 (0.5)                                 |
+| ≥ 60 to < 100              |                      600 |                       6 |                               6 |                  12 | 12 (0.20)                                |
+| ≥ 60 to < 100              |                    1,500 |                      15 |                              15 |                  30 | 22 (0.36)                                |
+| ≥ 60 to < 100              |                    1,800 |                      18 |                              18 |                  36 | 25 (0.42)                                |
+| ≥ 100                      |                      600 |                       6 |                               6 |                  12 | 10 (0.17)                                |
+| ≥ 100                      |                    1,500 |                      15 |                              15 |                  30 | 15 (0.25)                                |
+| ≥ 100                      |                    1,800 |                      18 |                              18 |                  36 | 17 (0.28)                                |
 
 - Gently agitate the infusion bag containing the diluted Ultomiris solution to ensure thorough mixing of the medicine and diluent. Ultomiris should not be shaken.
 - The diluted solution should be allowed to warm to room temperature (18 °C-25 °C) prior to administration by exposure to ambient air during approximately 30 min.

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-20 15:14:33
+document_datetime: 2026-07-21 09:22:09
 document_pages: 150
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vfend-epar-product-information_en.pdf
 document_name: vfend-epar-product-information_en.pdf
 version: success
-processing_time: 58.0231061
-conversion_datetime: 2026-02-25 12:01:30.90538
+processing_time: 84.1927703
+conversion_datetime: 2026-07-28 13:35:06.009389
 docling_version:
-  docling-serve: 1.13.1
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.2
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.4
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -221,9 +221,9 @@ Coadministration of voriconazole is contraindicated with medicinal products that
 Coadministration of voriconazole is contraindicated with medicinal products that induce CYP3A4 and significantly reduce voriconazole plasma concentrations:
 
 - Coadministration with rifampicin, carbamazepine, long-acting barbiturates e.g., phenobarbital, and St. John's Wort (see section 4.5).
-- •
+- ·
 - Efavirenz: Coadministration of standard doses of voriconazole with efavirenz doses of 400 mg once daily or higher is contraindicated (see section 4.5). For information on coadministration of voriconazole and lower doses of efavirenz see section 4.4.
-- •
+- ·
 - Ritonavir:
 
 Coadministration with high-dose ritonavir (400 mg and above twice daily) is contraindicated (see section 4.5). For information on coadministration with lower doses of ritonavir see section 4.4.
@@ -260,13 +260,12 @@ Monitoring of hepatic function should be carried out in both children and adults
 
 ## Serious dermatological adverse reactions
 
-- •
-- •
-- •
 - Phototoxicity
 
 In addition VFEND has been associated with phototoxicity including reactions such as ephelides, lentigo, actinic keratosis and pseudoporphyria. There is a potential increased risk of skin reactions/toxicity with concomitant use of photosensitising agents (e.g., methotrexate, etc). It is recommended that all patients, including children, avoid exposure to direct sunlight during VFEND treatment and use measures such as protective clothing and sunscreen with high sun protection factor (SPF).
 
+- ·
+- ·
 - Squamous cell carcinoma of the skin (SCC) dermatologist. If VFEND is continued, however, dermatologic evaluation should be performed on a
 
 Squamous cell carcinoma of the skin (including cutaneous SCC in situ, or Bowen's disease) has been reported in patients, some of whom have reported prior phototoxic reactions. If phototoxic reactions occur multidisciplinary advice should be sought, VFEND discontinuation and use of alternative antifungal agents should be considered and the patient should be referred to a systematic and regular basis, to allow early detection and management of premalignant lesions. VFEND should be discontinued if premalignant skin lesions or squamous cell carcinoma are identified (see below the section under Long-term treatment).
@@ -311,7 +310,7 @@ Patients, especially children, with risk factors for acute pancreatitis (e.g., r
 
 Safety and effectiveness in paediatric subjects below the age of two years has not been established (see sections 4.8 and 5.1). Voriconazole is indicated for paediatric patients aged two years or older. A higher frequency of liver enzyme elevations was observed in the paediatric population (see section 4.8). Hepatic function should be monitored in both children and adults. Oral bioavailability may be limited in paediatric patients aged 2 to &lt;12 years with malabsorption and very low body weight for age. In that case, intravenous voriconazole administration is recommended.
 
-- •
+- ·
 - Serious dermatological adverse reactions (including SCC)
 
 The frequency of phototoxicity reactions is higher in the paediatric population. As an evolution towards SCC has been reported, stringent measures for the photoprotection are warranted in this population of patients. In children experiencing photoaging injuries such as lentigines or ephelides, sun avoidance and dermatologic follow-up are recommended even after treatment discontinuation.
@@ -460,20 +459,23 @@ Medicinal products listed in the table are a guide and not considered a comprehe
 
 <div style=\"page-break-after: always\"></div>
 
-| Benzodiazepines                                                                                                                                       | Benzodiazepines                                                                                                                                                                                                                                                                                                                                   | Benzodiazepines                                                  |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-| [CYP3A4 substrates]                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                   | Dose reduction of                                                |
-| Midazolam (0.05 mg/kg IV single dose) Midazolam (7.5 mg oral single dose) Other benzodiazepines (including but not limited to: triazolam, alprazolam) | In an independent published study, Midazolam AUC 0-   3.7-fold In an independent published study, Midazolam C max  3.8-fold Midazolam AUC 0-   10.3-fold Although not studied, voriconazole is likely to increase the plasma concentrations of other benzodiazepines that are metabolised by CYP3A4 and lead to a prolonged sedative effect. | benzodiazepines should be considered.                            |
-| Cardiovascular agents                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                   |                                                                  |
-| Ivabradine [CYP3A4 substrates]                                                                                                                        | Although not studied, increased plasma concentrations of ivabradine can lead to QTc prolongation and rare occurrences of torsades de pointes.                                                                                                                                                                                                     | Contraindicated (see section 4.3)                                |
-| Cystic fibrosis transmembrane conductance regulator potentiators                                                                                      | Cystic fibrosis transmembrane conductance regulator potentiators                                                                                                                                                                                                                                                                                  | Cystic fibrosis transmembrane conductance regulator potentiators |
-| Ivacaftor [CYP3A4 substrate]                                                                                                                          | Although not studied, voriconazole is likely to increase the plasma concentrations of ivacaftor with risk of increased adverse reactions.                                                                                                                                                                                                         | Dose reduction of ivacaftor is recommended.                      |
-| Ergot derivatives                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                   |                                                                  |
-| Ergot alkaloids (including but not limited to: ergotamine and dihydroergotamine) [CYP3A4 substrates]                                                  | Although not studied, voriconazole is likely to increase the plasma concentrations of ergot alkaloids and lead to ergotism.                                                                                                                                                                                                                       | Contraindicated (see section 4.3)                                |
-| GImotility agents                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                   |                                                                  |
-| Cisapride [CYP3A4 substrate]                                                                                                                          | Although not studied, increased plasma concentrations of cisapride can lead to QTc prolongation and rare occurrences of torsades de pointes.                                                                                                                                                                                                      | Contraindicated (see section 4.3)                                |
-| Herbal medicines                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                   |                                                                  |
-| St. John's Wort [CYP450 inducer; P-gp inducer] 300 mg TID (coadministered with voriconazole 400 mg single dose)                                       | In an independent published study, Voriconazole AUC 0-   59%                                                                                                                                                                                                                                                                                    | Contraindicated (see section 4.3)                                |
+| Benzodiazepines                                                                                                 | Benzodiazepines                                                                                                                                                                     | Benzodiazepines                                                                         |
+|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| [CYP3A4 substrates] Dose reduction of                                                                           | [CYP3A4 substrates] Dose reduction of                                                                                                                                               | [CYP3A4 substrates] Dose reduction of                                                   |
+| Midazolam (0.05 mg/kg IV single dose)                                                                           | In an independent published study, Midazolam AUC 0-   3.7-fold                                                                                                                    | benzodiazepines should be considered.                                                   |
+| Midazolam (7.5 mg oral single dose)                                                                             | In an independent published study, Midazolam C max  3.8-fold Midazolam AUC 0-   10.3-fold                                                                                        | benzodiazepines should be considered.                                                   |
+| Other benzodiazepines (including but not limited to: triazolam, alprazolam)                                     | Although not studied, voriconazole is likely to increase the plasma concentrations of other benzodiazepines that are metabolised by CYP3A4 and lead to a prolonged sedative effect. | benzodiazepines should be considered.                                                   |
+| Cardiovascular agents                                                                                           | Cardiovascular agents                                                                                                                                                               | Cardiovascular agents                                                                   |
+| Ivabradine [CYP3A4 substrates]                                                                                  | Although not studied, increased plasma concentrations of ivabradine can lead to QTc prolongation and rare occurrences of torsades de pointes.                                       | Contraindicated (see section 4.3)                                                       |
+| Mavacamten [CYP2C19, CYP3A4 and CYP2C9 substrate]                                                               | Although not studied, voriconazole is likely to increase the plasma concentrations of mavacamten with increased risk of heart failure.                                              | Refer to the mavacamten summary of product characteristics (SmPC) for more information. |
+| Cystic fibrosis transmembrane conductance regulator potentiators                                                | Cystic fibrosis transmembrane conductance regulator potentiators                                                                                                                    | Cystic fibrosis transmembrane conductance regulator potentiators                        |
+| Ivacaftor [CYP3A4 substrate]                                                                                    | Although not studied, voriconazole is likely to increase the plasma concentrations of ivacaftor with risk of increased adverse reactions.                                           | Dose reduction of ivacaftor is recommended.                                             |
+| Ergot derivatives                                                                                               | Ergot derivatives                                                                                                                                                                   | Ergot derivatives                                                                       |
+| Ergot alkaloids (including but not limited to: ergotamine and dihydroergotamine) [CYP3A4 substrates]            | Although not studied, voriconazole is likely to increase the plasma concentrations of ergot alkaloids and lead to ergotism.                                                         | Contraindicated (see section 4.3)                                                       |
+| GI motility agents                                                                                              | GI motility agents                                                                                                                                                                  | GI motility agents                                                                      |
+| Cisapride [CYP3A4 substrate]                                                                                    | Although not studied, increased plasma concentrations of cisapride can lead to QTc prolongation and rare occurrences of torsades de pointes.                                        | Contraindicated (see section 4.3)                                                       |
+| Herbal medicines                                                                                                | Herbal medicines                                                                                                                                                                    | Herbal medicines                                                                        |
+| St. John's Wort [CYP450 inducer; P-gp inducer] 300 mg TID (coadministered with voriconazole 400 mg single dose) | In an independent published study, Voriconazole AUC 0-   59%                                                                                                                      | Contraindicated (see section 4.3)                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -491,11 +493,11 @@ Medicinal products listed in the table are a guide and not considered a comprehe
 
 <div style=\"page-break-after: always\"></div>
 
-| Non-steroidal selective mineralocorticoid receptor (MR)antagonists                                                                    | Non-steroidal selective mineralocorticoid receptor (MR)antagonists                                                                                                | Non-steroidal selective mineralocorticoid receptor (MR)antagonists                                                                                                                                                                                                          |
+| Non-steroidal selective mineralocorticoid receptor (MR) antagonists                                                                   | Non-steroidal selective mineralocorticoid receptor (MR) antagonists                                                                                               | Non-steroidal selective mineralocorticoid receptor (MR) antagonists                                                                                                                                                                                                         |
 |---------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Finerenone [CYP3A4 substrate]                                                                                                         | Although not studied, voriconazole is likely to significantly increase the plasma concentrations of finerenone.                                                   | Contraindicated (see section 4.3)                                                                                                                                                                                                                                           |
 | Eplerenone [CYP3A4 substrate]                                                                                                         | Although not studied, voriconazole is likely to significantly increase the plasma concentrations of eplerenone.                                                   | Contraindicated (see section 4.3)                                                                                                                                                                                                                                           |
-| Non-steroidal anti-inflammatorydrugs(NSAIDs)                                                                                          | Non-steroidal anti-inflammatorydrugs(NSAIDs)                                                                                                                      | Non-steroidal anti-inflammatorydrugs(NSAIDs)                                                                                                                                                                                                                                |
+| Non-steroidal anti-inflammatory drugs (NSAIDs)                                                                                        | Non-steroidal anti-inflammatory drugs (NSAIDs)                                                                                                                    | Non-steroidal anti-inflammatory drugs (NSAIDs)                                                                                                                                                                                                                              |
 | [CYP2C9 substrates] Ibuprofen (400 mg single dose) Diclofenac (50 mg single dose)                                                     | S-Ibuprofen C max  20% S-Ibuprofen AUC 0-   100% Diclofenac C max  114% Diclofenac AUC  78%                                                                  | Frequent monitoring for adverse reactions and toxicity related to NSAIDs is recommended. Dose reduction of NSAIDs may be needed.                                                                                                                                            |
 | Opioids                                                                                                                               | Opioids                                                                                                                                                           | Opioids                                                                                                                                                                                                                                                                     |
 | Long-Acting Opiates [CYP3A4 substrates] Oxycodone (10 mg single dose)                                                                 | In an independent published study, Oxycodone C max  1.7-fold Oxycodone AUC 0-   3.6-fold                                                                       | Dose reduction in oxycodone and other long-acting opiates metabolised by CYP3A4 (e.g., hydrocodone) should be considered. Frequent monitoring for opiate-associated adverse reactions may be necessary.                                                                     |
@@ -633,11 +635,9 @@ Voriconazole has been associated with cases of serious hepatic toxicity in patie
 
 ## Prophylaxis
 
-In an open-label, comparative, multicenter study comparing voriconazole and itraconazole as primary prophylaxis in adult and adolescent allogeneic HSCT recipients without prior proven or probable IFI, permanent discontinuation of voriconazole due to AEs was reported in 39.3% of subjects versus 39.6% of
+In an open-label, comparative, multicenter study comparing voriconazole and itraconazole as primary prophylaxis in adult and adolescent allogeneic HSCT recipients without prior proven or probable IFI, permanent discontinuation of voriconazole due to AEs was reported in 39.3% of subjects versus 39.6% of subjects in the itraconazole arm. Treatment-emergent hepatic AEs resulted in permanent discontinuation of study medication for 50 subjects (21.4%) treated with voriconazole and for 18 subjects (7.1%) treated with itraconazole.
 
 <div style=\"page-break-after: always\"></div>
-
-subjects in the itraconazole arm. Treatment-emergent hepatic AEs resulted in permanent discontinuation of study medication for 50 subjects (21.4%) treated with voriconazole and for 18 subjects (7.1%) treated with itraconazole.
 
 ## Paediatric population
 
@@ -751,12 +751,12 @@ In a secondary analysis, which utilised DRC assessments at the latest evaluable 
 
 The Investigator's assessment of successful outcome at each of these time points is shown in the following table.
 
-| Timepoint          | Voriconazole (N=248)   | Amphotericin B →fluconazole (N=122)   |
-|--------------------|------------------------|---------------------------------------|
-| EOT                | 178 (72%)              | 88 (72%)                              |
-| 2 weeks after EOT  | 125 (50%)              | 62 (51%)                              |
-| 6 weeks after EOT  | 104 (42%)              | 55 (45%)                              |
-| 12 weeks after EOT | 104 (42%)              | 51 (42%)                              |
+| Timepoint          | Voriconazole (N=248)   | Amphotericin B → fluconazole (N=122)   |
+|--------------------|------------------------|----------------------------------------|
+| EOT                | 178 (72%)              | 88 (72%)                               |
+| 2 weeks after EOT  | 125 (50%)              | 62 (51%)                               |
+| 6 weeks after EOT  | 104 (42%)              | 55 (45%)                               |
+| 12 weeks after EOT | 104 (42%)              | 51 (42%)                               |
 
 ## Serious refractory Candida infections
 
@@ -1206,9 +1206,9 @@ Monitoring of hepatic function should be carried out in both children and adults
 
 ## Serious dermatological adverse reactions
 
-- •
-- •
-- •
+- ·
+- ·
+- ·
 - Phototoxicity
 
 In addition VFEND has been associated with phototoxicity including reactions such as ephelides, lentigo, actinic keratosis and pseudoporphyria. There is a potential increased risk of skin reactions/toxicity with concomitant use of photosensitising agents (e.g., methotrexate, etc). It is recommended that all patients, including children, avoid exposure to direct sunlight during VFEND treatment and use measures such as protective clothing and sunscreen with high sun protection factor (SPF).
@@ -1402,26 +1402,29 @@ Medicinal products listed in the table are a guide and not considered a comprehe
 
 <div style=\"page-break-after: always\"></div>
 
-| Other Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs) (including but not limited to: delavirdine, nevirapine)* [CYP3A4 substrates, inhibitors or CYP450 inducers]   | Not studied clinically. In vitro studies show that the metabolism of voriconazole may be inhibited by NNRTIs and voriconazole may inhibit the metabolism of NNRTIs. The findings of the effect of efavirenz on voriconazole suggest that the metabolism of voriconazole may be induced by an NNRTI.                                               | Careful monitoring for any occurrence of drug toxicity and/or lack of efficacy, and dose adjustment may be needed.               |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| Antipsychotics                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                  |
-| Lurasidone [CYP3A4 substrate]                                                                                                                                                | Although not studied, voriconazole is likely to significantly increase the plasma concentrations of lurasidone.                                                                                                                                                                                                                                   | Contraindicated (see section 4.3)                                                                                                |
-| Pimozide [CYP3A4 substrate]                                                                                                                                                  | Although not studied, increased plasma concentrations of pimozide can lead to QTc prolongation and rare occurrences of torsades de pointes.                                                                                                                                                                                                       | Contraindicated (see section 4.3)                                                                                                |
-| Anti virals                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                  |
-| Letermovir [CYP2C9 and CYP2C19 inducer]                                                                                                                                      | Voriconazole C max ↓ 39% Voriconazole AUC 0-12 ↓ 44% Voriconazole C 12 ↓ 51%                                                                                                                                                                                                                                                                      | If concomitant administration of voriconazole with letermovir cannot be avoided, monitor for loss of voriconazole effectiveness. |
-| Benzodiazepines                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                  |
-| [CYP3A4 substrates] Midazolam (0.05 mg/kg IV single dose) Midazolam (7.5 mg oral single dose) Other benzodiazepines (including but not limited to: triazolam, alprazolam)    | In an independent published study, Midazolam AUC 0-   3.7-fold In an independent published study, Midazolam C max  3.8-fold Midazolam AUC 0-   10.3-fold Although not studied, voriconazole is likely to increase the plasma concentrations of other benzodiazepines that are metabolised by CYP3A4 and lead to a prolonged sedative effect. | Dose reduction of benzodiazepines should be considered.                                                                          |
-| Cardiovascular agents                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                  |
-| Ivabradine [CYP3A4 substrates]                                                                                                                                               | Although not studied, increased plasma concentrations of ivabradine can lead to QTc prolongation and rare occurrences of torsades de pointes.                                                                                                                                                                                                     | Contraindicated (see section 4.3)                                                                                                |
-| Cystic fibrosis transmembrane conductance regulator potentiators                                                                                                             | Cystic fibrosis transmembrane conductance regulator potentiators                                                                                                                                                                                                                                                                                  |                                                                                                                                  |
-| Ivacaftor [CYP3A4 substrate]                                                                                                                                                 | Although not studied, voriconazole is likely to increase the plasma concentrations of ivacaftor with risk of increased adverse reactions.                                                                                                                                                                                                         | Dose reduction of ivacaftor is recommended.                                                                                      |
+| Other Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs) (including but not limited to: delavirdine, nevirapine)* [CYP3A4 substrates, inhibitors or CYP450 inducers]   | Not studied clinically. In vitro studies show that the metabolism of voriconazole may be inhibited by NNRTIs and voriconazole may inhibit the metabolism of NNRTIs. The findings of the effect of efavirenz on voriconazole suggest that the metabolism of voriconazole may be induced by an NNRTI.   | Careful monitoring for any occurrence of drug toxicity and/or lack of efficacy, and dose adjustment may be needed.               |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Antipsychotics                                                                                                                                                               |                                                                                                                                                                                                                                                                                                       |                                                                                                                                  |
+| Lurasidone [CYP3A4 substrate]                                                                                                                                                | Although not studied, voriconazole is likely to significantly increase the plasma concentrations of lurasidone.                                                                                                                                                                                       | Contraindicated (see section 4.3)                                                                                                |
+| Pimozide [CYP3A4 substrate]                                                                                                                                                  | Although not studied, increased plasma concentrations of pimozide can lead to QTc prolongation and rare occurrences of torsades de pointes.                                                                                                                                                           | Contraindicated (see section 4.3)                                                                                                |
+| Anti virals                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                       |                                                                                                                                  |
+| Letermovir [CYP2C9 and CYP2C19 inducer]                                                                                                                                      | Voriconazole C max ↓ 39% Voriconazole AUC 0-12 ↓ 44% Voriconazole C 12 ↓ 51%                                                                                                                                                                                                                          | If concomitant administration of voriconazole with letermovir cannot be avoided, monitor for loss of voriconazole effectiveness. |
+| Benzodiazepines                                                                                                                                                              |                                                                                                                                                                                                                                                                                                       |                                                                                                                                  |
+| [CYP3A4 substrates] Midazolam (0.05 mg/kg IV single dose)                                                                                                                    | In an independent published study, Midazolam AUC 0-   3.7-fold                                                                                                                                                                                                                                      | Dose reduction of benzodiazepines should be considered.                                                                          |
+| Midazolam (7.5 mg oral single dose)                                                                                                                                          | In an independent published study, Midazolam C max  3.8-fold Midazolam AUC 0-   10.3-fold                                                                                                                                                                                                          |                                                                                                                                  |
+| Other benzodiazepines (including but not limited to: triazolam, alprazolam)                                                                                                  | Although not studied, voriconazole is likely to increase the plasma concentrations of other benzodiazepines that are metabolised by CYP3A4 and lead to a prolonged sedative effect.                                                                                                                   |                                                                                                                                  |
+| Cardiovascular agents                                                                                                                                                        |                                                                                                                                                                                                                                                                                                       |                                                                                                                                  |
+| Ivabradine [CYP3A4 substrates]                                                                                                                                               | Although not studied, increased plasma concentrations of ivabradine can lead to QTc prolongation and rare occurrences of torsades de pointes.                                                                                                                                                         | Contraindicated (see section 4.3)                                                                                                |
+| Mavacamten [CYP2C19, CYP3A4 and CYP2C9 substrate]                                                                                                                            | Although not studied, voriconazole is likely to increase the plasma concentrations of mavacamten with increased risk of heart failure.                                                                                                                                                                | Refer to the mavacamten summary of product characteristics (SmPC) for more information.                                          |
+| Cystic fibrosis transmembrane conductance regulator potentiators                                                                                                             | Cystic fibrosis transmembrane conductance regulator potentiators                                                                                                                                                                                                                                      |                                                                                                                                  |
+| Ivacaftor [CYP3A4 substrate]                                                                                                                                                 | Although not studied, voriconazole is likely to increase the plasma concentrations of ivacaftor with risk of increased adverse reactions.                                                                                                                                                             | Dose reduction of ivacaftor is recommended.                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
 | Ergot derivatives                                                                                               | Ergot derivatives                                                                                                                            | Ergot derivatives                 |
 |-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
 | Ergot alkaloids (including but not limited to: ergotamine and dihydroergotamine) [CYP3A4 substrates]            | Although not studied, voriconazole is likely to increase the plasma concentrations of ergot alkaloids and lead to ergotism.                  | Contraindicated (see section 4.3) |
-| GImotility agents                                                                                               |                                                                                                                                              |                                   |
+| GI motility agents                                                                                              |                                                                                                                                              |                                   |
 | Cisapride [CYP3A4 substrate]                                                                                    | Although not studied, increased plasma concentrations of cisapride can lead to QTc prolongation and rare occurrences of torsades de pointes. | Contraindicated (see section 4.3) |
 | Herbal medicines                                                                                                |                                                                                                                                              |                                   |
 | St. John's Wort [CYP450 inducer; P-gp inducer] 300 mg TID (coadministered with voriconazole 400 mg single dose) | In an independent published study, Voriconazole AUC 0-   59%                                                                               | Contraindicated (see section 4.3) |
@@ -1442,11 +1445,11 @@ Medicinal products listed in the table are a guide and not considered a comprehe
 
 <div style=\"page-break-after: always\"></div>
 
-| Non-steroidal selective mineralocorticoid receptor (MR)antagonists                                                                    | Non-steroidal selective mineralocorticoid receptor (MR)antagonists                                                                                                | Non-steroidal selective mineralocorticoid receptor (MR)antagonists                                                                                                                                                                                                          |
+| Non-steroidal selective mineralocorticoid receptor (MR) antagonists                                                                   | Non-steroidal selective mineralocorticoid receptor (MR) antagonists                                                                                               | Non-steroidal selective mineralocorticoid receptor (MR) antagonists                                                                                                                                                                                                         |
 |---------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Finerenone [CYP3A4 substrate]                                                                                                         | Although not studied, voriconazole is likely to significantly increase the plasma concentrations of finerenone.                                                   | Contraindicated (see section 4.3)                                                                                                                                                                                                                                           |
 | Eplerenone [CYP3A4 substrate]                                                                                                         | Although not studied, voriconazole is likely to significantly increase the plasma concentrations of eplerenone.                                                   | Contraindicated (see section 4.3)                                                                                                                                                                                                                                           |
-| Non-steroidal anti-inflammatorydrugs(NSAIDs)                                                                                          | Non-steroidal anti-inflammatorydrugs(NSAIDs)                                                                                                                      | Non-steroidal anti-inflammatorydrugs(NSAIDs)                                                                                                                                                                                                                                |
+| Non-steroidal anti-inflammatory drugs (NSAIDs)                                                                                        | Non-steroidal anti-inflammatory drugs (NSAIDs)                                                                                                                    | Non-steroidal anti-inflammatory drugs (NSAIDs)                                                                                                                                                                                                                              |
 | [CYP2C9 substrates] Ibuprofen (400 mg single dose) Diclofenac (50 mg single dose)                                                     | S-Ibuprofen C max  20% S-Ibuprofen AUC 0-   100% Diclofenac C max  114% Diclofenac AUC  78%                                                                  | Frequent monitoring for adverse reactions and toxicity related to NSAIDs is recommended. Dose reduction of NSAIDs may be needed.                                                                                                                                            |
 | Opioids                                                                                                                               | Opioids                                                                                                                                                           | Opioids                                                                                                                                                                                                                                                                     |
 | Long-Acting Opiates [CYP3A4 substrates] Oxycodone (10 mg single dose)                                                                 | In an independent published study, Oxycodone C max  1.7-fold Oxycodone AUC 0-   3.6-fold                                                                       | Dose reduction in oxycodone and other long-acting opiates metabolised by CYP3A4 (e.g., hydrocodone) should be considered. Frequent monitoring for opiate-associated adverse reactions may be necessary.                                                                     |
@@ -1582,11 +1585,9 @@ Voriconazole has been associated with cases of serious hepatic toxicity in patie
 
 ## Infusion-related reactions
 
-During infusion of the intravenous formulation of voriconazole in healthy subjects, anaphylactoid-type reactions, including flushing, fever, sweating, tachycardia, chest tightness, dyspnoea, faintness, nausea,
+During infusion of the intravenous formulation of voriconazole in healthy subjects, anaphylactoid-type reactions, including flushing, fever, sweating, tachycardia, chest tightness, dyspnoea, faintness, nausea, pruritus and rash have occurred. Symptoms appeared immediately upon initiating the infusion (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-pruritus and rash have occurred. Symptoms appeared immediately upon initiating the infusion (see section 4.4).
 
 ## Prophylaxis
 
@@ -1706,12 +1707,12 @@ In a secondary analysis, which utilised DRC assessments at the latest evaluable 
 
 The Investigator's assessment of successful outcome at each of these time points is shown in the following table.
 
-| Timepoint          | Voriconazole (N=248)   | Amphotericin B →fluconazole (N=122)   |
-|--------------------|------------------------|---------------------------------------|
-| EOT                | 178 (72%)              | 88 (72%)                              |
-| 2 weeks after EOT  | 125 (50%)              | 62 (51%)                              |
-| 6 weeks after EOT  | 104 (42%)              | 55 (45%)                              |
-| 12 weeks after EOT | 104 (42%)              | 51 (42%)                              |
+| Timepoint          | Voriconazole (N=248)   | Amphotericin B → fluconazole (N=122)   |
+|--------------------|------------------------|----------------------------------------|
+| EOT                | 178 (72%)              | 88 (72%)                               |
+| 2 weeks after EOT  | 125 (50%)              | 62 (51%)                               |
+| 6 weeks after EOT  | 104 (42%)              | 55 (45%)                               |
+| 12 weeks after EOT | 104 (42%)              | 51 (42%)                               |
 
 ## Serious refractory Candida infections
 
@@ -1919,21 +1920,19 @@ Sodium Chloride 9 mg/ml (0.9%) Solution for Injection
 
 Compound Sodium Lactate Intravenous Infusion
 
-5% Glucose and Lactated Ringer's Intravenous Infusion
+50 mg/ml (5%) Glucose and Lactated Ringer's Intravenous Infusion
 
-5% Glucose and 0.45% Sodium Chloride Intravenous Infusion
+50 mg/ml (5%) Glucose and 4.5 mg/ml (0.45%) Sodium Chloride Intravenous Infusion
 
-5% Glucose Intravenous Infusion
+50 mg/ml (5%) Glucose Intravenous Infusion
 
-5% Glucose in 20 mEq Potassium Chloride Intravenous Infusion
+50 mg/ml (5%) Glucose in 20 mEq Potassium Chloride Intravenous Infusion
 
-0.45% Sodium Chloride Intravenous Infusion
+4.5 mg/ml (0.45%) Sodium Chloride Intravenous Infusion
 
-5% Glucose and 0.9% Sodium Chloride Intravenous Infusion
+50 mg/ml (5%) Glucose and 9 mg/ml (0.9%) Sodium Chloride Intravenous Infusion The compatibility of voriconazole with diluents other than described above or in section 6.2 is unknown.
 
 <div style=\"page-break-after: always\"></div>
-
-The compatibility of voriconazole with diluents other than described above or in section 6.2 is unknown.
 
 ## Required Volumes of 10 mg/ml VFEND Concentrate
 
@@ -2028,11 +2027,9 @@ VFEND is also available as 50 mg and 200 mg film-coated tablets and 200 mg powde
 
 Adults
 
-Therapy must be initiated with the specified loading dose regimen of either intravenous or oral VFEND to achieve plasma concentrations on Day 1 that are close to steady state. On the basis of the high oral
+Therapy must be initiated with the specified loading dose regimen of either intravenous or oral VFEND to achieve plasma concentrations on Day 1 that are close to steady state. On the basis of the high oral bioavailability (96%; see section 5.2), switching between intravenous and oral administration is appropriate when clinically indicated.
 
 <div style=\"page-break-after: always\"></div>
-
-bioavailability (96%; see section 5.2), switching between intravenous and oral administration is appropriate when clinically indicated.
 
 Detailed information on dosage recommendations is provided in the following table:
 
@@ -2169,9 +2166,9 @@ Coadministration of voriconazole is contraindicated with medicinal products that
 Coadministration of voriconazole is contraindicated with medicinal products that induce CYP3A4 and significantly reduce voriconazole plasma concentrations:
 
 - Coadministration with rifampicin, carbamazepine, long-acting barbiturates e.g., phenobarbital and St. John's Wort (see section 4.5).
-- •
+- ·
 - Efavirenz: Coadministration of standard doses of voriconazole with efavirenz doses of 400 mg once daily or higher is contraindicated (see section 4.5). For information on coadministration of voriconazole and lower doses of efavirenz see section 4.4.
-- •
+- ·
 - Ritonavir:
 
 Coadministration with high-dose ritonavir (400 mg and above twice daily) is contraindicated (see section 4.5). For information on coadministration with lower doses of ritonavir see section 4.4.
@@ -2208,7 +2205,7 @@ Monitoring of hepatic function should be carried out in both children and adults
 
 ## Serious dermatological adverse reactions
 
-- •
+- ·
 - Phototoxicity
 
 In addition VFEND has been associated with phototoxicity including reactions such as ephelides, lentigo, actinic keratosis and pseudoporphyria. There is a potential increased risk of skin reactions/toxicity with concomitant use of photosensitising agents (e.g., methotrexate, etc). It is recommended that all patients, including children, avoid exposure to direct sunlight during VFEND treatment and use measures such as protective clothing and sunscreen with high sun protection factor (SPF).
@@ -2217,7 +2214,7 @@ In addition VFEND has been associated with phototoxicity including reactions suc
 
 Squamous cell carcinoma of the skin (including cutaneous SCC in situ, or Bowen's disease) has been reported in patients, some of whom have reported prior phototoxic reactions. If phototoxic reactions occur multidisciplinary advice should be sought, VFEND discontinuation and use of alternative antifungal agents should be considered and the patient should be referred to a dermatologist. If VFEND is continued, however, dermatologic evaluation should be performed on a systematic and regular basis, to allow early detection and management of premalignant lesions. VFEND should be discontinued if premalignant skin lesions or squamous cell carcinoma are identified (see below the section under Long-term treatment).
 
-- •
+- ·
 - Severe cutaneous adverse reactions
 
 Severe cutaneous adverse reactions (SCARs) including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS), which can be life-threatening or fatal, have been reported with the use of voriconazole. If a patient develops a rash he should be monitored closely and VFEND discontinued if lesions progress.
@@ -2407,20 +2404,19 @@ Medicinal products listed in the table are a guide and not considered a comprehe
 
 <div style=\"page-break-after: always\"></div>
 
-| Benzodiazepines                                                                                                                                       | Benzodiazepines                                                                                                                                                                                                                                                                                                                                   | Benzodiazepines                                                  |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-| [CYP3A4 substrates]                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                   | Dose reduction of                                                |
-| Midazolam (0.05 mg/kg IV single dose) Midazolam (7.5 mg oral single dose) Other benzodiazepines (including but not limited to: triazolam, alprazolam) | In an independent published study, Midazolam AUC 0-   3.7-fold In an independent published study, Midazolam C max  3.8-fold Midazolam AUC 0-   10.3-fold Although not studied, voriconazole is likely to increase the plasma concentrations of other benzodiazepines that are metabolised by CYP3A4 and lead to a prolonged sedative effect. | benzodiazepines should be considered.                            |
-| Cardiovascular agents                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                   |                                                                  |
-| Ivabradine [CYP3A4 substrates]                                                                                                                        | Although not studied, increased plasma concentrations of ivabradine can lead to QTc prolongation and rare occurrences of torsades de pointes.                                                                                                                                                                                                     | Contraindicated (see section 4.3)                                |
-| Cystic fibrosis transmembrane conductance regulator potentiators                                                                                      | Cystic fibrosis transmembrane conductance regulator potentiators                                                                                                                                                                                                                                                                                  | Cystic fibrosis transmembrane conductance regulator potentiators |
-| Ivacaftor [CYP3A4 substrate]                                                                                                                          | Although not studied, voriconazole is likely to increase the plasma concentrations of ivacaftor with risk of increased adverse reactions.                                                                                                                                                                                                         | Dose reduction of ivacaftor is recommended.                      |
-| Ergot derivatives                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                   |                                                                  |
-| Ergot alkaloids (including but not limited to: ergotamine and dihydroergotamine) [CYP3A4 substrates]                                                  | Although not studied, voriconazole is likely to increase the plasma concentrations of ergot alkaloids and lead to ergotism.                                                                                                                                                                                                                       | Contraindicated (see section 4.3)                                |
-| GImotility agents                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                   |                                                                  |
-| Cisapride [CYP3A4 substrate]                                                                                                                          | Although not studied, increased plasma concentrations of cisapride can lead to QTc prolongation and rare occurrences of torsades de pointes.                                                                                                                                                                                                      | Contraindicated (see section 4.3)                                |
-| Herbal medicines                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                   |                                                                  |
-| St. John's Wort [CYP450 inducer; P-gp inducer] 300 mg TID (coadministered with voriconazole 400 mg single dose)                                       | In an independent published study, Voriconazole AUC 0-   59%                                                                                                                                                                                                                                                                                    | Contraindicated (see section 4.3)                                |
+| Benzodiazepines [CYP3A4 substrates] Midazolam (0.05 mg/kg IV single dose) Midazolam (7.5 mg oral single dose) Other benzodiazepines (including but not limited to: triazolam, alprazolam)   | In an independent published study, Midazolam AUC 0-   3.7-fold In an independent published study, Midazolam C max  3.8-fold Midazolam AUC 0-   10.3-fold Although not studied, voriconazole is likely to increase the plasma concentrations of other benzodiazepines that are metabolised by CYP3A4 and lead to a prolonged sedative effect.   | Dose reduction of benzodiazepines should be considered.                                 |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| Cardiovascular agents                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                     |                                                                                         |
+| Ivabradine [CYP3A4 substrates]                                                                                                                                                              | Although not studied, increased plasma concentrations of ivabradine can lead to QTc prolongation and rare occurrences of torsades de pointes.                                                                                                                                                                                                       | Contraindicated (see section 4.3)                                                       |
+| Mavacamten [CYP2C19, CYP3A4 and CYP2C9 substrate]                                                                                                                                           | Although not studied, voriconazole is likely to increase the plasma concentrations of mavacamten with increased risk of heart failure.                                                                                                                                                                                                              | Refer to the mavacamten summary of product characteristics (SmPC) for more information. |
+| Cystic fibrosis transmembrane conductance regulator potentiators                                                                                                                            | Cystic fibrosis transmembrane conductance regulator potentiators                                                                                                                                                                                                                                                                                    | Cystic fibrosis transmembrane conductance regulator potentiators                        |
+| Ivacaftor [CYP3A4 substrate]                                                                                                                                                                | Although not studied, voriconazole is likely to increase the plasma concentrations of ivacaftor with risk of increased adverse reactions.                                                                                                                                                                                                           | Dose reduction of ivacaftor is recommended.                                             |
+| Ergot derivatives                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                     |                                                                                         |
+| Ergot alkaloids (including but not limited to: ergotamine and dihydroergotamine) [CYP3A4 substrates]                                                                                        | Although not studied, voriconazole is likely to increase the plasma concentrations of ergot alkaloids and lead to ergotism.                                                                                                                                                                                                                         | Contraindicated (see section 4.3)                                                       |
+| GI motility agents                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                     |                                                                                         |
+| Cisapride [CYP3A4 substrate]                                                                                                                                                                | Although not studied, increased plasma concentrations of cisapride can lead to QTc prolongation and rare occurrences of torsades de pointes.                                                                                                                                                                                                        | Contraindicated (see section 4.3)                                                       |
+| Herbal medicines                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                     |                                                                                         |
+| St. John's Wort [CYP450 inducer; P-gp inducer] 300 mg TID (coadministered with voriconazole 400 mg single dose)                                                                             | In an independent published study, Voriconazole AUC 0-   59%                                                                                                                                                                                                                                                                                      | Contraindicated (see section 4.3)                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2438,11 +2434,11 @@ Medicinal products listed in the table are a guide and not considered a comprehe
 
 <div style=\"page-break-after: always\"></div>
 
-| Non-steroidal selective mineralocorticoid receptor (MR)antagonists                                                                    | Non-steroidal selective mineralocorticoid receptor (MR)antagonists                                                                                                | Non-steroidal selective mineralocorticoid receptor (MR)antagonists                                                                                                                                                                                                          |
+| Non-steroidal selective mineralocorticoid receptor (MR) antagonists                                                                   | Non-steroidal selective mineralocorticoid receptor (MR) antagonists                                                                                               | Non-steroidal selective mineralocorticoid receptor (MR) antagonists                                                                                                                                                                                                         |
 |---------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Finerenone [CYP3A4 substrate]                                                                                                         | Although not studied, voriconazole is likely to significantly increase the plasma concentrations of finerenone.                                                   | Contraindicated (see section 4.3)                                                                                                                                                                                                                                           |
 | Eplerenone [CYP3A4 substrate]                                                                                                         | Although not studied, voriconazole is likely to significantly increase the plasma concentrations of eplerenone.                                                   | Contraindicated (see section 4.3)                                                                                                                                                                                                                                           |
-| Non-steroidal anti-inflammatorydrugs(NSAIDs)                                                                                          | Non-steroidal anti-inflammatorydrugs(NSAIDs)                                                                                                                      | Non-steroidal anti-inflammatorydrugs(NSAIDs)                                                                                                                                                                                                                                |
+| Non-steroidal anti-inflammatory drugs (NSAIDs)                                                                                        | Non-steroidal anti-inflammatory drugs (NSAIDs)                                                                                                                    | Non-steroidal anti-inflammatory drugs (NSAIDs)                                                                                                                                                                                                                              |
 | [CYP2C9 substrates] Ibuprofen (400 mg single dose) Diclofenac (50 mg single dose)                                                     | S-Ibuprofen C max  20% S-Ibuprofen AUC 0-   100% Diclofenac C max  114% Diclofenac AUC  78%                                                                  | Frequent monitoring for adverse reactions and toxicity related to NSAIDs is recommended. Dose reduction of NSAIDs may be needed.                                                                                                                                            |
 | Opioids                                                                                                                               | Opioids                                                                                                                                                           | Opioids                                                                                                                                                                                                                                                                     |
 | Long-Acting Opiates [CYP3A4 substrates] Oxycodone (10 mg single dose)                                                                 | In an independent published study, Oxycodone C max  1.7-fold Oxycodone AUC 0-   3.6-fold                                                                       | Dose reduction in oxycodone and other long-acting opiates metabolised by CYP3A4 (e.g., hydrocodone) should be considered. Frequent monitoring for opiate-associated adverse reactions may be necessary.                                                                     |
@@ -2702,12 +2698,12 @@ In a secondary analysis, which utilised DRC assessments at the latest evaluable 
 
 The Investigator's assessment of successful outcome at each of these time points is shown in the following table.
 
-| Timepoint          | Voriconazole (N=248)   | Amphotericin B →fluconazole (N=122)   |
-|--------------------|------------------------|---------------------------------------|
-| EOT                | 178 (72%)              | 88 (72%)                              |
-| 2 weeks after EOT  | 125 (50%)              | 62 (51%)                              |
-| 6 weeks after EOT  | 104 (42%)              | 55 (45%)                              |
-| 12 weeks after EOT | 104 (42%)              | 51 (42%)                              |
+| Timepoint          | Voriconazole (N=248)   | Amphotericin B → fluconazole (N=122)   |
+|--------------------|------------------------|----------------------------------------|
+| EOT                | 178 (72%)              | 88 (72%)                               |
+| 2 weeks after EOT  | 125 (50%)              | 62 (51%)                               |
+| 6 weeks after EOT  | 104 (42%)              | 55 (45%)                               |
+| 12 weeks after EOT | 104 (42%)              | 51 (42%)                               |
 
 ## Serious refractory Candida infections
 
@@ -3091,8 +3087,8 @@ VFEND 50 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -3221,8 +3217,8 @@ VFEND 200 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -3462,8 +3458,8 @@ VFEND 40 mg/ml
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -3706,7 +3702,8 @@ Tell your doctor if you are taking any of the following medicines, as a dose adj
 - Fluconazole (used for fungal infections)
 - Everolimus (used for treating advanced kidney cancer and in transplant patients)
 - Letermovir (used for preventing cytomegalovirus (CMV) disease after bone marrow transplant)
-- Ivacaftor: used to treat cystic fibrosis
+- Mavacamten (used to treat adults with a type of heart disease called obstructive hypertrophic cardiomyopathy)
+- Ivacaftor (used to treat cystic fibrosis)
 - Flucloxacillin (antibiotic used against bacterial infections)
 
 ## Pregnancy and breast-feeding
@@ -3932,11 +3929,9 @@ Pfizer Europe MA EEIG, Boulevard de la Plaine 17, 1050 Bruxelles, Belgium.
 
 R-Pharm Germany GmbH Heinrich-Mack-Str. 35, 89257 Illertissen Germany
 
-Pfizer Italia S.r.l. Località Marino del Tronto 63100 Ascoli Piceno (AP) Italy
+Pfizer Italia S.r.l. Località Marino del Tronto 63100 Ascoli Piceno (AP) Italy For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België /Belgique/Belgien / Luxembourg/Luxemburg
 
@@ -4074,17 +4069,13 @@ Pfizer Oy
 
 Puh/Tel: +358(0)9 43 00 40
 
+<div style=\"page-break-after: always\"></div>
+
 ## Italia
 
 Pfizer S.r.l.
 
 Tel: +39 06 33 18 21
-
-## Sverige
-
-Pfizer AB
-
-Tel: +46 (0)8 5505 2000
 
 ## K ύπρος
 
@@ -4102,11 +4093,15 @@ Filiāle Latvijā
 
 Tel: +371 670 35 775
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last approved in {MM/YYYY}.
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Sverige
+
+Pfizer AB
+
+Tel: +46 (0)8 5505 2000
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4202,11 +4197,9 @@ If you develop skin disorders as described above, your doctor may refer you to a
 
 If you develop signs of 'adrenal insufficiency' where the adrenal glands do not produce adequate amounts of certain steroid hormones such as cortisol which may lead to symptoms such as: chronic, or long lasting fatigue, muscle weakness, loss of appetite, weight loss, abdominal pain, please tell your doctor.
 
-If you develop signs of 'Cushing's syndrome' where the body produces too much of the hormone cortisol
+If you develop signs of 'Cushing's syndrome' where the body produces too much of the hormone cortisol which may lead to symptoms such as: weight gain, fatty hump between the shoulders, a rounded face, darkening of the skin on the stomach, thighs breasts, and arms, thinning skin, bruising easily, high blood sugar, excessive hair growth, excessive sweating, please tell your doctor.
 
 <div style=\"page-break-after: always\"></div>
-
-which may lead to symptoms such as: weight gain, fatty hump between the shoulders, a rounded face, darkening of the skin on the stomach, thighs breasts, and arms, thinning skin, bruising easily, high blood sugar, excessive hair growth, excessive sweating, please tell your doctor.
 
 Your doctor should monitor the function of your liver and kidney by doing blood tests.
 
@@ -4253,7 +4246,8 @@ Tell your doctor if you are taking any of the following medicines, as a dose adj
 - Fluconazole (used for fungal infections)
 - Everolimus (used for treating advanced kidney cancer and in transplant patients)
 - Letermovir (used for preventing cytomegalovirus (CMV) disease after bone marrow transplant)
-- Ivacaftor: used to treat cystic fibrosis
+- Mavacamten (used to treat adults with a type of heart disease called obstructive hypertrophic cardiomyopathy)
+- Ivacaftor (used to treat cystic fibrosis)
 - Flucloxacillin (antibiotic used against bacterial infections)
 
 ## Pregnancy and breast-feeding
@@ -4706,7 +4700,14 @@ Sodium Chloride 9 mg/ml (0.9%) Solution for Injection
 
 <div style=\"page-break-after: always\"></div>
 
-Compound Sodium Lactate Intravenous Infusion 5% Glucose and Lactated Ringer's Intravenous Infusion 5% Glucose and 0.45% Sodium Chloride Intravenous Infusion 5% Glucose Intravenous Infusion 5% Glucose in 20 mEq Potassium Chloride Intravenous Infusion 0.45% Sodium Chloride Intravenous Infusion 5% Glucose and 0.9% Sodium Chloride Intravenous Infusion
+| Compound Sodium Lactate Intravenous Infusion                                     |
+|----------------------------------------------------------------------------------|
+| 50 mg/ml (5%) Glucose and Lactated Ringer's Intravenous Infusion                 |
+| 50 mg/ml (5%) Glucose and 4.5 mg/ml (0.45%) Sodium Chloride Intravenous Infusion |
+| 50 mg/ml (5%) Glucose Intravenous Infusion                                       |
+| 50 mg/ml (5%) Glucose in 20 mEq Potassium Chloride Intravenous Infusion          |
+| 4.5 mg/ml (0.45%) Sodium Chloride Intravenous Infusion                           |
+| 50 mg/ml (5%) Glucose and 9 mg/ml (0.9%) Sodium Chloride Intravenous Infusion    |
 
 The compatibility of VFEND with diluents other than listed above (or listed below under 'Incompatibilities') is unknown.
 
@@ -4866,7 +4867,8 @@ Tell your doctor if you are taking any of the following medicines, as a dose adj
 <div style=\"page-break-after: always\"></div>
 
 - Letermovir (used for preventing cytomegalovirus (CMV) disease after bone marrow transplant)
-- Ivacaftor: used to treat cystic fibrosis
+- Mavacamten (used to treat adults with a type of heart disease called obstructive hypertrophic cardiomyopathy)
+- Ivacaftor (used to treat cystic fibrosis)
 - Flucloxacillin (antibiotic used against bacterial infections)
 
 ## Pregnancy and breast-feeding
@@ -5101,9 +5103,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label. The expiry date refers to the last day of that month.
 
-Powder for oral suspension: store at 2°C - 8°C (in a refrigerator) before constitution. For the constituted suspension:
-
-Do not store above 30°C.
+Powder for oral suspension: store at 2°C - 8°C (in a refrigerator) before constitution. For the constituted suspension: Do not store above 30°C.
 
 <div style=\"page-break-after: always\"></div>
 

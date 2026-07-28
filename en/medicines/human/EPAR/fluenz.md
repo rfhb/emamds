@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fluenz.html
 document_name: fluenz.html
 version: success
-processing_time: 0.1340075
-conversion_datetime: 2026-07-28 12:36:56.09598
+processing_time: 0.1342036
+conversion_datetime: 2026-07-28 12:59:44.691786
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

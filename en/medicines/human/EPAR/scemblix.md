@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-30 18:03:00
+document_datetime: 2026-07-20 16:11:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/scemblix.html
 document_name: scemblix.html
 version: success
-processing_time: 0.1382219
-conversion_datetime: 2026-05-05 19:30:39.752384
+processing_time: 0.1549436
+conversion_datetime: 2026-07-28 12:31:31.95614
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Scemblix
 
@@ -60,7 +60,7 @@ Expand section
 
 Collapse section
 
-## How is Scemblix used?
+### How is Scemblix used?
 
 Scemblix can only be obtained with a prescription and treatment must be started by a doctor who is experienced in the diagnosis and treatment of leukaemia.
 
@@ -68,11 +68,11 @@ The medicine is available as tablets to be taken by mouth every day. The doctor 
 
 For more information about using Scemblix, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Scemblix work?
+### How does Scemblix work?
 
 The active substance in Scemblix, asciminib, is a tyrosine kinase inhibitor, meaning that it blocks enzymes known as tyrosine kinases. In Ph+ CML, the body produces large numbers of abnormal white blood cells. Scemblix specifically blocks the action of the BCR::ABL1 tyrosine kinase that is produced by these cells, and this stops their division and growth.
 
-## What benefits of Scemblix have been shown in studies?
+### What benefits of Scemblix have been shown in studies?
 
 The benefits of Scemblix were evaluated in a study in 233 adults with Ph+ CML in the chronic phase who were previously treated with two or more tyrosine kinase inhibitors. In this study, Scemblix was more effective than bosutinib (another tyrosine kinase inhibitor); after 24 weeks of treatment, 25% (40 out of 157) of patients given Scemblix had a major molecular response (meaning that the number of cells with the *BCR::ABL1* gene had decreased to 1,000 times below the standardised baseline), compared with 13% (10 out of 76) of patients given bosutinib. After 96 weeks of treatment, 38% (59 out of 157) of patients given Scemblix and 16% (12 out of 76) of patients given bosutinib had a major molecular response.
 
@@ -82,11 +82,11 @@ A third study involved 48 adults with Ph+ CML in the chronic phase whose cancer 
 
 Studies carried out with Scemblix are described in more detail in the medicine's assessment reports.
 
-## What are the side effects and restrictions with Scemblix?
+### What are the side effects and restrictions with Scemblix?
 
 For the full list of side effects and restrictions with Scemblix, see the package leaflet.
 
-The most common side effects with Scemblix (which may affect more than 2 in 10 people) include musculoskeletal pain (pain in the muscles, joints and bones), thrombocytopenia (low levels of blood platelets), tiredness, upper respiratory tract (nose and throat) infections,  headache, neutropenia (low levels of neutrophils, a type of white blood cell), arthralgia (joint pain) and diarrhoea.
+The most common side effects with Scemblix (which may affect more than 2 in 10 people) include musculoskeletal pain (pain in the muscles, joints and bones), thrombocytopenia (low levels of blood platelets), tiredness, upper respiratory tract (nose and throat) infections, headache, neutropenia (low levels of neutrophils, a type of white blood cell), arthralgia (joint pain) and diarrhoea.
 
 Other common side effects with Scemblix when used in people with the *T315I* mutation include increased levels of pancreatic and liver enzymes (which may suggest abnormal function of the pancreas or liver), nausea (feeling sick), vomiting and cough.
 
@@ -94,7 +94,7 @@ Some side effects with Scemblix can be serious. The most frequent (which may aff
 
 In people with the *T315I* mutation, the most frequent serious side effects (which may affect up to 1 in 10 people) include abdominal (belly) pain, vomiting, lower respiratory tract infections, constipation, headache, non-cardiac (unrelated to the heart) chest pain and pleural effusion.
 
-## Why is Scemblix authorised in the EU?
+### Why is Scemblix authorised in the EU?
 
 Scemblix has been shown to be more effective than other tyrosine kinase inhibitors at reducing the number of cells with the *BCR::ABL1* gene in adults with Ph+ CML in the chronic phase. It has also been found effective at a higher dose in people with chronic-phase Ph+ CML, whose cancer cells have a mutation called *T315I* . However, the study involving people with the *T315I* mutation only included a small number of patients and did not compare Scemblix with ponatinib, which was the approved treatment at the time of the study for patients with this mutation. It was therefore not possible to conclude on the effectiveness of Scemblix in patients with the *T315I* mutation who had not been previously treated with ponatinib.
 
@@ -102,7 +102,7 @@ In terms of safety, the side effects with Scemblix in people without the *T315I*
 
 The European Medicines Agency therefore decided that the benefits of Scemblix are greater than its risks and that it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Scemblix?
+### What measures are being taken to ensure the safe and effective use of Scemblix?
 
 The company that markets Scemblix will carry out a study to evaluate the long-term effectiveness and safety of Scemblix in patients newly diagnosed with Ph+ CML in the chronic phase.
 
@@ -110,7 +110,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Scemblix are continuously monitored. Suspected side effects reported with Scemblix are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Scemblix
+### Other information about Scemblix
 
 Scemblix received a marketing authorisation valid throughout the EU on 25 August 2022.
 
@@ -124,7 +124,7 @@ English (EN) (157.63 KB - PDF)
 
 [View](/en/documents/overview/scemblix-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-405)
+[Other languages (22)](#file-language-dropdown-201)
 
 български (BG) (162.12 KB - PDF)
 
@@ -156,7 +156,7 @@ Deutsch (DE) (144 KB - PDF)
 
 [View](/de/documents/overview/scemblix-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (137.93 KB - PDF)
+eesti (ET) (137.93 KB - PDF)
 
 **First published:** 07/09/2022 **Last updated:** 30/04/2026
 
@@ -186,13 +186,13 @@ italiano (IT) (139.45 KB - PDF)
 
 [View](/it/documents/overview/scemblix-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (167.78 KB - PDF)
+latviešu (LV) (167.78 KB - PDF)
 
 **First published:** 07/09/2022 **Last updated:** 30/04/2026
 
 [View](/lv/documents/overview/scemblix-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (161.29 KB - PDF)
+lietuvių (LT) (161.29 KB - PDF)
 
 **First published:** 07/09/2022 **Last updated:** 30/04/2026
 
@@ -246,7 +246,7 @@ slovenščina (SL) (157.74 KB - PDF)
 
 [View](/sl/documents/overview/scemblix-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (139.12 KB - PDF)
+suomi (FI) (139.12 KB - PDF)
 
 **First published:** 07/09/2022 **Last updated:** 30/04/2026
 
@@ -270,167 +270,168 @@ English (EN) (1.7 MB - PDF)
 
 Scemblix : EPAR - Product Information
 
-English (EN) (614.2 KB - PDF)
+English (EN) (763.38 KB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/en/documents/product-information/scemblix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-978)
+[Other languages (24)](#file-language-dropdown-751)
 
-български (BG) (740.69 KB - PDF)
+български (BG) (1.19 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/bg/documents/product-information/scemblix-epar-product-information_bg.pdf)
 
-español (ES) (625.53 KB - PDF)
+español (ES) (1.13 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/es/documents/product-information/scemblix-epar-product-information_es.pdf)
 
-čeština (CS) (638.54 KB - PDF)
+čeština (CS) (1.1 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/cs/documents/product-information/scemblix-epar-product-information_cs.pdf)
 
-dansk (DA) (633.57 KB - PDF)
+dansk (DA) (1.09 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/da/documents/product-information/scemblix-epar-product-information_da.pdf)
 
-Deutsch (DE) (621.87 KB - PDF)
+Deutsch (DE) (1.1 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/de/documents/product-information/scemblix-epar-product-information_de.pdf)
 
-eesti keel (ET) (603.98 KB - PDF)
+eesti (ET) (1.06 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/et/documents/product-information/scemblix-epar-product-information_et.pdf)
 
-ελληνικά (EL) (812.69 KB - PDF)
+ελληνικά (EL) (1.39 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/el/documents/product-information/scemblix-epar-product-information_el.pdf)
 
-français (FR) (643.25 KB - PDF)
+français (FR) (1.16 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/fr/documents/product-information/scemblix-epar-product-information_fr.pdf)
 
-hrvatski (HR) (693.37 KB - PDF)
+hrvatski (HR) (1.17 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/hr/documents/product-information/scemblix-epar-product-information_hr.pdf)
 
-íslenska (IS) (618.22 KB - PDF)
+italiano (IT) (1.06 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
-
-[View](/is/documents/product-information/scemblix-epar-product-information_is.pdf)
-
-italiano (IT) (612 KB - PDF)
-
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/it/documents/product-information/scemblix-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (679.28 KB - PDF)
+latviešu (LV) (1.12 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/lv/documents/product-information/scemblix-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (713.02 KB - PDF)
+lietuvių (LT) (1.18 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/lt/documents/product-information/scemblix-epar-product-information_lt.pdf)
 
-magyar (HU) (757.08 KB - PDF)
+magyar (HU) (1.12 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/hu/documents/product-information/scemblix-epar-product-information_hu.pdf)
 
-Malti (MT) (686.04 KB - PDF)
+Malti (MT) (1.15 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/mt/documents/product-information/scemblix-epar-product-information_mt.pdf)
 
-Nederlands (NL) (635.33 KB - PDF)
+Nederlands (NL) (1.06 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/nl/documents/product-information/scemblix-epar-product-information_nl.pdf)
 
-norsk (NO) (587.94 KB - PDF)
+polski (PL) (1.14 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
-
-[View](/no/documents/product-information/scemblix-epar-product-information_no.pdf)
-
-polski (PL) (705.72 KB - PDF)
-
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/pl/documents/product-information/scemblix-epar-product-information_pl.pdf)
 
-português (PT) (652.4 KB - PDF)
+português (PT) (1.14 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/pt/documents/product-information/scemblix-epar-product-information_pt.pdf)
 
-română (RO) (703.92 KB - PDF)
+română (RO) (1.14 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/ro/documents/product-information/scemblix-epar-product-information_ro.pdf)
 
-slovenčina (SK) (710.24 KB - PDF)
+slovenčina (SK) (1.18 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/sk/documents/product-information/scemblix-epar-product-information_sk.pdf)
 
-slovenščina (SL) (713.87 KB - PDF)
+slovenščina (SL) (1.16 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/sl/documents/product-information/scemblix-epar-product-information_sl.pdf)
 
-Suomi (FI) (622.57 KB - PDF)
+suomi (FI) (1.06 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/fi/documents/product-information/scemblix-epar-product-information_fi.pdf)
 
-svenska (SV) (619.47 KB - PDF)
+svenska (SV) (1.04 MB - PDF)
 
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
 
 [View](/sv/documents/product-information/scemblix-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** X/0000256688
+Íslenska (IS) (1.11 MB - PDF)
 
-23/04/2026
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
+
+[View](/is/documents/product-information/scemblix-epar-product-information_is.pdf)
+
+norsk (NO) (1.04 MB - PDF)
+
+**First published:** 07/09/2022 **Last updated:** 20/07/2026
+
+[View](/no/documents/product-information/scemblix-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000340759
+
+25/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -448,7 +449,7 @@ English (EN) (69.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/scemblix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-274)
+[Other languages (24)](#file-language-dropdown-214)
 
 български (BG) (80.4 KB - PDF)
 
@@ -480,7 +481,7 @@ Deutsch (DE) (73.91 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/scemblix-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (72 KB - PDF)
+eesti (ET) (72 KB - PDF)
 
 **First published:** 07/09/2022 **Last updated:** 30/04/2026
 
@@ -504,25 +505,19 @@ hrvatski (HR) (71.65 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/scemblix-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (75.08 KB - PDF)
-
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
-
-[View](/is/documents/all-authorised-presentations/scemblix-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (70.12 KB - PDF)
 
 **First published:** 07/09/2022 **Last updated:** 30/04/2026
 
 [View](/it/documents/all-authorised-presentations/scemblix-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (75.99 KB - PDF)
+latviešu (LV) (75.99 KB - PDF)
 
 **First published:** 07/09/2022 **Last updated:** 30/04/2026
 
 [View](/lv/documents/all-authorised-presentations/scemblix-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (76.44 KB - PDF)
+lietuvių (LT) (76.44 KB - PDF)
 
 **First published:** 07/09/2022 **Last updated:** 30/04/2026
 
@@ -545,12 +540,6 @@ Nederlands (NL) (69.13 KB - PDF)
 **First published:** 07/09/2022 **Last updated:** 30/04/2026
 
 [View](/nl/documents/all-authorised-presentations/scemblix-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (73.54 KB - PDF)
-
-**First published:** 07/09/2022 **Last updated:** 30/04/2026
-
-[View](/no/documents/all-authorised-presentations/scemblix-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (74.46 KB - PDF)
 
@@ -582,7 +571,7 @@ slovenščina (SL) (76.04 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/scemblix-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (69.68 KB - PDF)
+suomi (FI) (69.68 KB - PDF)
 
 **First published:** 07/09/2022 **Last updated:** 30/04/2026
 
@@ -594,27 +583,30 @@ svenska (SV) (72.75 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/scemblix-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (75.08 KB - PDF)
+
+**First published:** 07/09/2022 **Last updated:** 30/04/2026
+
+[View](/is/documents/all-authorised-presentations/scemblix-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (73.54 KB - PDF)
+
+**First published:** 07/09/2022 **Last updated:** 30/04/2026
+
+[View](/no/documents/all-authorised-presentations/scemblix-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Scemblix
-
-Active substance
-
-asciminib hydrochloride
-
-International non-proprietary name (INN) or common name
-
-asciminib
-
-Therapeutic area (MeSH)
-
-Leukemia, Myelogenous, Chronic, BCR-ABL Positive
-
-Anatomical therapeutic chemical (ATC) code
-
-L01EA06
+- **Name of medicine**
+    - Scemblix
+- **Active substance**
+    - asciminib hydrochloride
+- **International non-proprietary name (INN) or common name**
+    - asciminib
+- **Therapeutic area (MeSH)**
+    - Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01EA06
 
 ### Pharmacotherapeutic group
 
@@ -628,35 +620,20 @@ Scemblix is indicated for the treatment of adult patients with Ph+ CML-CP with t
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005605
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Novartis Europharm Limited
-
-Vista Building
-
-Opinion adopted
-
-23/06/2022
-
-Marketing authorisation issued
-
-25/08/2022
-
-Revision
-
-14
+- **EMA product number**
+    - EMEA/H/C/005605
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - Novartis Europharm Limited Vista Building  Elm Park  Merrion Road  Dublin 4  Ireland
+- **Opinion adopted**
+    - 23/06/2022
+- **Marketing authorisation issued**
+    - 25/08/2022
+- **Revision**
+    - 15
 
 ## Assessment history
 
@@ -664,13 +641,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Scemblix : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.81 KB - PDF)
+English (EN) (186.96 KB - PDF)
 
-**First published:** 22/04/2025 **Last updated:** 30/04/2026
+**First published:** 22/04/2025 **Last updated:** 20/07/2026
 
 [View](/en/documents/procedural-steps-after/scemblix-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -762,7 +739,7 @@ English (EN) (127.12 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/scemblix-h-c-psusa-00011008-202210-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Scemblix : EPAR - Orphan Maintenance Assessment Report
 
@@ -814,6 +791,6 @@ English (EN) (128.5 KB - PDF)
 
 **This page was last updated on**
 
-30/04/2026
+20/07/2026
 
 ## Share this page

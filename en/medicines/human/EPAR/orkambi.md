@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/orkambi.html
 document_name: orkambi.html
 version: success
-processing_time: 0.3508661
-conversion_datetime: 2026-07-28 12:33:04.757201
+processing_time: 0.176958
+conversion_datetime: 2026-07-28 12:55:52.819967
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-04-03 09:57:38
-document_pages: 40
+document_datetime: 2026-07-20 14:06:13
+document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/yondelis-epar-product-information_en.pdf
 document_name: yondelis-epar-product-information_en.pdf
 version: success
-processing_time: 8.1176827
-conversion_datetime: 2025-12-28 04:32:14.067113
+processing_time: 9.8423462
+conversion_datetime: 2026-07-28 13:32:52.433116
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -146,11 +146,9 @@ Special caution is advised and dose adjustments may be necessary in patients wit
 
 ## Renal impairment
 
-Studies including patients with renal insufficiency (creatinine clearance &lt; 30 ml/min for the monotherapy, and &lt; 60 ml/min for the combination regimen) have not been conducted and therefore Yondelis must not be used in this patient population (see section 4.4). Considering the
+Studies including patients with renal insufficiency (creatinine clearance &lt; 30 ml/min for the monotherapy, and &lt; 60 ml/min for the combination regimen) have not been conducted and therefore Yondelis must not be used in this patient population (see section 4.4). Considering the pharmacokinetic characteristics of trabectedin (see section 5.2), no dose adjustments are warranted in patients with mild or moderate renal impairment.
 
 <div style=\"page-break-after: always\"></div>
-
-pharmacokinetic characteristics of trabectedin (see section 5.2), no dose adjustments are warranted in patients with mild or moderate renal impairment.
 
 ## Method of administration
 
@@ -187,11 +185,9 @@ Anti-emetic prophylaxis with corticosteroids such as dexamethasone must be admin
 
 ## Rhabdomyolysis and severe CPK elevations (&gt; 5 x ULN)
 
-Trabectedin must not be used in patients with CPK &gt; 2.5 x ULN (see section 4.2). Rhabdomyolysis has been uncommonly reported, usually in association with myelotoxicity, severe liver function test
+Trabectedin must not be used in patients with CPK &gt; 2.5 x ULN (see section 4.2). Rhabdomyolysis has been uncommonly reported, usually in association with myelotoxicity, severe liver function test abnormalities and/or renal or multiorgan failure. Therefore, CPK should be closely monitored whenever a patient may be experiencing any of these toxicities or muscle weakness or muscle pain. If rhabdomyolysis occurs, supportive measures such as parenteral hydration, urine alkalinisation and dialysis should be promptly established, as indicated. Treatment with Yondelis should be discontinued until the patient fully recovers.
 
 <div style=\"page-break-after: always\"></div>
-
-abnormalities and/or renal or multiorgan failure. Therefore, CPK should be closely monitored whenever a patient may be experiencing any of these toxicities or muscle weakness or muscle pain. If rhabdomyolysis occurs, supportive measures such as parenteral hydration, urine alkalinisation and dialysis should be promptly established, as indicated. Treatment with Yondelis should be discontinued until the patient fully recovers.
 
 Caution should be taken if medicinal products associated with rhabdomyolysis (e.g. statins), are administered concomitantly with trabectedin, since the risk of rhabdomyolysis may be increased
 
@@ -257,11 +253,9 @@ When rifampicin was co-administered with trabectedin, it resulted in reduced pla
 
 Alcohol consumption must be avoided during treatment with trabectedin due to the hepatotoxicity of the medicinal product (see section 4.4).
 
-Preclinical data have demonstrated that trabectedin is a substrate to P-gp. Concomitant administration of inhibitors of P-gp, e.g. cyclosporine and verapamil, may alter trabectedin distribution and/or
+Preclinical data have demonstrated that trabectedin is a substrate to P-gp. Concomitant administration of inhibitors of P-gp, e.g. cyclosporine and verapamil, may alter trabectedin distribution and/or elimination. The relevance of this interaction e.g. central nervous system (CNS) toxicity has not been established. Caution should be taken in such situations.
 
 <div style=\"page-break-after: always\"></div>
-
-elimination. The relevance of this interaction e.g. central nervous system (CNS) toxicity has not been established. Caution should be taken in such situations.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -327,6 +321,7 @@ Adverse reactions are listed by System Organ Class and frequency. The frequencie
 |------------------------------------------------------|----------------------------------------------------|----------------------------------------|------------------------------------|--------|
 | Skin and Subcutaneous Tissue Disorders               | Palmar-plantar erythrodysaesthesia syndrome *      | Rash Alopecia Skin hyperpigmentation * |                                    |        |
 | Musculoskeletal and Connective Tissue Disorders      | Back pain Blood creatine phosphokinase increased   | Arthralgia Myalgia                     | Rhabdomyolysis                     |        |
+| Renal and urinary disorders                          |                                                    | Acute kidney injury                    |                                    |        |
 | General Disorders and Administration Site Conditions | Fatigue Pyrexia Oedema Mucosal inflammation *      | Injection site reactions               | Extravasation Soft tissue necrosis |        |
 | Investigations                                       | Blood creatinine increased Blood albumin decreased | Weight decreased                       |                                    |        |
 
@@ -354,9 +349,9 @@ Anaemia occurred in 93% and 94% of patients treated with the monotherapy and com
 
 ## Hepatobiliary disorders
 
-## AST/ALT increases:
-
 <div style=\"page-break-after: always\"></div>
+
+## AST/ALT increases:
 
 The median time to reach the peak values was 5 days for both AST and ALT. Most of the values had decreased to grade 1 or resolved by day 14-15 (see section 4.4). The analysis per cycle performed in patients treated with the monotherapy regimen showed grade 3 elevations of AST and ALT in 12% and 20% of cycles respectively. Grade 4 elevations of AST and ALT occurred in 1% and 2% of cycles respectively. Most transaminase elevations improved to grade 1 or to pre-retreatment levels within 15 days, and less than 2% of cycles had recovering times longer than 25 days. ALT and AST increases did not follow a cumulative pattern but showed a tendency towards less severe elevations over time.
 
@@ -488,11 +483,9 @@ Cytochrome P450 3A4 is the major cytochrome P450 isozyme responsible for the oxi
 
 ## Elimination
 
-Renal elimination of unchanged trabectedin in humans is low (less than 1%). The terminal half-life is long (population value of the terminal elimination phase: 180-hr). After a dose of radiolabelled trabectedin administered to cancer patients, faecal mean (SD) recovery of total radioactivity is 58% (17%), and urinary mean (SD) recovery is 5.8% (1.73%). Based on the population estimate for
+Renal elimination of unchanged trabectedin in humans is low (less than 1%). The terminal half-life is long (population value of the terminal elimination phase: 180-hr). After a dose of radiolabelled trabectedin administered to cancer patients, faecal mean (SD) recovery of total radioactivity is 58% (17%), and urinary mean (SD) recovery is 5.8% (1.73%). Based on the population estimate for plasma clearance of trabectedin (30.9 l/h) and blood/plasma ratio (0.89), the clearance of trabectedin in whole blood is approximately 35 l/h. This value is approximately one-half the rate of human hepatic blood flow. Thus the trabectedin extraction ratio can be considered moderate. The inter-patient variability of the population estimate for plasma clearance of trabectedin was 49% and intra-patient variability was 28%.
 
 <div style=\"page-break-after: always\"></div>
-
-plasma clearance of trabectedin (30.9 l/h) and blood/plasma ratio (0.89), the clearance of trabectedin in whole blood is approximately 35 l/h. This value is approximately one-half the rate of human hepatic blood flow. Thus the trabectedin extraction ratio can be considered moderate. The inter-patient variability of the population estimate for plasma clearance of trabectedin was 49% and intra-patient variability was 28%.
 
 A population pharmacokinetic analysis showed that when administered in combination with PLD, the plasma clearance of trabectedin was decreased by 31%; the plasma pharmacokinetics of PLD were not influenced by the concomitant administration of trabectedin.
 
@@ -802,13 +795,13 @@ NN
 
 Vial label - 0.25 mg vial
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Yondelis 0.25 mg powder for concentrate for solution for infusion trabectedin IV use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -820,8 +813,8 @@ EXP:
 
 Lot:
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.25 mg trabectedin
 
@@ -916,17 +909,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| Vial label - 1 mg vial                                           |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| Vial label - 1 mg vial                                             |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Yondelis 1 mg powder for concentrate for solution for infusion trabectedin IV use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -938,8 +931,8 @@ EXP:
 
 Lot:
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mg trabectedin
 
@@ -1114,6 +1107,7 @@ Common: may affect up to 1 in 10 people
 - You may have a reaction at the site of injection. Yondelis infusion may leak out of your vein while you are being given it, leading to damage and death of your tissue cells around the injection site (tissue necrosis, see also section 2 'Warnings and precautions') which may require surgery.
 - You could have an allergic reaction. In this case you may experience fever, difficulty in breathing, redness or flushing of the skin or a rash, feeling sick (nausea) or being sick (vomiting).
 - When Yondelis is used in combination with PLD, you may have syncope also called fainting. Furthermore, you could feel like your heart is beating too hard or too fast in your chest (palpitations), have a weakness in the ventricles, the heart's major pumping chambers (left ventricular dysfunction), or a sudden blockage in a lung artery (pulmonary embolism).
+- You may experience kidney problems including passing of smaller amount of urine than usual, swelling in legs or feet, nausea and confusion (acute kidney injury).
 
 ## Uncommon: may affect up to 1 in 100 people
 
@@ -1128,17 +1122,15 @@ It could lead to damage and death of your tissue cells around the injection site
 
 Some of the symptoms or signs of extravasation may not be visible until several hours after it occurred. There may be blistering, peeling and darkening of the skin over the site. It is possible for it to take a few days before the full extent of tissue damage is visible. If you get any of the previous described symptoms or signs, seek medical care immediately .
 
-## Rare: may affect up to 1 in 1,000 people
-
-- You may experience yellowing of your skin and eyeballs (jaundice), pain in the upper right area of your abdomen, nausea, vomiting, a general sense of not feeling well, difficulty in concentrating, disorientation or confusion, sleepiness. These signs could be indicative of the
-
 <div style=\"page-break-after: always\"></div>
 
-inability of the liver to perform its normal function. If you get any of the previous described symptoms or signs, seek medical care immediately .
+## Rare: may affect up to 1 in 1,000 people
+
+- You may experience yellowing of your skin and eyeballs (jaundice), pain in the upper right area of your abdomen, nausea, vomiting, a general sense of not feeling well, difficulty in concentrating, disorientation or confusion, sleepiness. These signs could be indicative of the inability of the liver to perform its normal function. If you get any of the previous described symptoms or signs, seek medical care immediately .
 
 ## Other less serious side effects:
 
-Very common: may affect more than 1 in 10 people
+## Very common: may affect more than 1 in 10 people
 
 - You may:
 - feel tired
@@ -1272,3 +1264,25 @@ From a microbiological point of view, the reconstituted solution should be dilut
 ## Diluted solution
 
 After dilution, chemical and physical stability has been demonstrated for 30 hours up to 25 ºC.
+
+<div style=\"page-break-after: always\"></div>
+
+## Annex IV
+
+## Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for trabectedin, the scientific conclusions of PRAC are as follows:
+
+In view of available data on acute kidney injury from clinical trial(s), spontaneous reports including in some cases a close temporal relationship, and in view of a plausible mechanism of action, the PRAC considers a causal relationship between trabectedin and acute kidney injury is at least a reasonable possibility. The PRAC concluded that the product information of products containing trabectedin should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for trabectedin the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing trabectedin is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

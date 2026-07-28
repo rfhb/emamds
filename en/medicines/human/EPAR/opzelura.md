@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/opzelura.html
 document_name: opzelura.html
 version: success
-processing_time: 0.136444
-conversion_datetime: 2026-07-28 12:33:20.08983
+processing_time: 0.1364065
+conversion_datetime: 2026-07-28 12:56:08.334449
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

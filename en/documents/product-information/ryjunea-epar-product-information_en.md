@@ -1,22 +1,24 @@
 ---
-document_datetime: 2025-09-11 09:20:41
+document_datetime: 2026-07-22 14:03:59
 document_pages: 27
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ryjunea-epar-product-information_en.pdf
 document_name: ryjunea-epar-product-information_en.pdf
 version: success
-processing_time: 5.7370056
-conversion_datetime: 2025-12-25 07:20:36.072431
+processing_time: 8.4485755
+conversion_datetime: 2026-07-28 13:43:12.384896
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -70,7 +72,7 @@ The safety and efficacy of Ryjunea in children aged less than 3 years has not be
 
 ## Method of administration
 
-Ocular use.
+## Ocular use.
 
 It is recommended that the lachrymal sac be compressed at the medial canthus (punctal occlusion) for one minute, to reduce possible systemic absorption. This should be performed immediately following the instillation of each drop.
 
@@ -180,11 +182,9 @@ There are no data on the effects of atropine eye drops on human fertility.
 
 ## 4.7 Effects on ability to drive and use machines
 
-Ryjunea has a moderate influence on the ability to ride bikes, drive or use machines. Instillation of Ryjunea, may induce temporary blurred vision or other visual disturbances (see section 4.8). Patients
+Ryjunea has a moderate influence on the ability to ride bikes, drive or use machines. Instillation of Ryjunea, may induce temporary blurred vision or other visual disturbances (see section 4.8). Patients should be advised not to ride bikes, drive or use machines until their vision has cleared. This effect may last up to 14 days after stopping treatment (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-should be advised not to ride bikes, drive or use machines until their vision has cleared. This effect may last up to 14 days after stopping treatment (see section 4.4).
 
 ## 4.8 Undesirable effects
 
@@ -194,7 +194,7 @@ The most common adverse reactions are photophobia (23.4%), eye irritation (9.9%)
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions reported in a phase III clinical trial where 282 patients aged 3 to 18 years were exposed to Ryjunea 0.1mg/ml are tabulated below by system organ class and by frequency. Approximately 0.4% of patients using Ryjunea discontinued due to any adverse event in the 24-month study.
+Adverse reactions reported in a phase III clinical trial where 282 patients aged 3 to 18 years were exposed to Ryjunea 0.1mg/ml are tabulated below by system organ class and by frequency. Approximately 0.4% of patients using Ryjunea discontinued due to any adverse event in the 36-month study.
 
 The frequencies are as follows: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000) very rare (&lt;1/10 000), not known ( cannot be estimated from the available data).
 
@@ -257,7 +257,7 @@ The efficacy, safety and tolerability of Ryjunea 0.1 mg/ml has been evaluated in
 
 <div style=\"page-break-after: always\"></div>
 
-The 48-month double masked vehicle controlled phase III clinical trial (STAR study), enrolled 852 children aged 3 to 14 years inclusive, with myopia of -0.50 D to -6.0 D, who were randomised to receive Ryjunea 0.1 mg/ml, 0.3 mg/ml or placebo (vehicle). At Month 36, patients, initially randomised to Ryjunea 0.1 mg/ml or 0.3 mg/ml  were randomly re-assigned in a double-masked manner to either continue with Ryjunea 0.1 mg/ml or 0.3 mg/ml or were assigned to vehicle. Participants initially randomised to vehicle were assigned to receive Ryjunea 0.3 mg/ml. Treatment compliance was greater than 97% in all treatment groups.
+The 48-month double masked vehicle controlled phase III clinical trial (STAR study), enrolled 852 children aged 3 to 14 years inclusive, with myopia of -0.50 D to -6.0 D, who were randomised to receive Ryjunea 0.1 mg/ml, 0.3 mg/ml or placebo (vehicle). At Month 36, patients, initially randomised to Ryjunea 0.1 mg/ml or 0.3 mg/ml were randomly re-assigned in a double-masked manner to either continue with Ryjunea 0.1 mg/ml or 0.3 mg/ml or were assigned to vehicle. Participants initially randomised to vehicle were assigned to receive Ryjunea 0.3 mg/ml. Treatment compliance was greater than 97% in all treatment groups.
 
 The Full Analysis Set (FAS) included 847 participants who received at least 1 dose of study drug. Randomisation was stratified according to age [3 to &lt; 6 years (3.1%), 6 to &lt; 9 (21.8%), 9 to &lt; 12 (39.1%), and 12-14 (36%)] and baseline spherical equivalent (SE) [-0.50 D to -3.0 D (61.9%), &gt;-3.0 D to -6.0 D (31.8%)] as measured by cycloplegic autorefraction.
 
@@ -267,7 +267,7 @@ Demographic characteristics were similar in all treatment groups. Overall, the m
 
 The primary endpoint was the difference in the mean annual progression rate (APR) of myopia through 24 months between treatment and vehicle groups in the FAS. For Ryjunea 0.1 mg/ml, a statistically significant difference of 0.132 D (95% CI: 0.061, 0.204) compared to vehicle was shown.
 
-A higher treatment effect was observed in participants with progression rate of 0.5 D or more per year. In  this  pre-specified  subgroup,  a  difference  in  mean  APR  of  0.207  D  (95%  CI:  0.112,  0.302)  was observed for 0.1 mg/mL Ryjunea vs. vehicle at 24 months, and a difference in mean APR of 0.154 D (95% CI: 0.073, 0.236) was observed for 0.1 mg/mL Ryjunea vs. vehicle at 36 months. A difference in mean change from baseline spherical equivalent (SE) of 0.388 D (95% CI: 0.190, 0.585) was observed for Ryjunea 0.1 mg/ml compared to vehicle at 24 months, and a difference in mean change from baseline spherical equivalent of 0.425 D (95% CI 0.170, 0.681) was observed for Ryjunea 0.1 mg/mL compared to vehicle at 36 months (Table 2). Figure 1 shows the mean change from baseline in SE through 36 months between treatment and vehicle groups in patients with progression rate of 0.5 D or more per year.
+A higher treatment effect was observed in participants with progression rate of 0.5 D or more per year. In this pre-specified subgroup, a difference in mean APR of 0.207 D (95% CI: 0.112, 0.302) was observed for 0.1 mg/mL Ryjunea vs. vehicle at 24 months, and a difference in mean APR of 0.154 D (95% CI: 0.073, 0.236) was observed for 0.1 mg/mL Ryjunea vs. vehicle at 36 months. A difference in mean change from baseline spherical equivalent (SE) of 0.388 D (95% CI: 0.190, 0.585) was observed for Ryjunea 0.1 mg/ml compared to vehicle at 24 months, and a difference in mean change from baseline spherical equivalent of 0.425 D (95% CI 0.170, 0.681) was observed for Ryjunea 0.1 mg/mL compared to vehicle at 36 months (Table 2). Figure 1 shows the mean change from baseline in SE through 36 months between treatment and vehicle groups in patients with progression rate of 0.5 D or more per year.
 
 Larger effect sizes were observed with younger ages.
 
@@ -324,7 +324,9 @@ Atropine sulfate administered orally reduced fertility in male rats at exposures
 
 ## 6.1 List of excipients
 
-Benzalkonium chloride Citric acid (E330) Sodium citrate (E331) Sodium chloride Sodium hydroxide (E524) / hydrochloric acid (E507) (for pH adjustment) Deuterium oxide
+Sodium hydroxide (E524) / hydrochloric acid (E507) (for pH adjustment)
+
+Benzalkonium chloride Citric acid (E330) Sodium citrate (E331) Sodium chloride Deuterium oxide
 
 ## 6.2 Incompatibilities
 
@@ -332,7 +334,9 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-Unopened: 2 years. After first opening: 4 weeks
+Unopened: 3 years.
+
+After first opening: 4 weeks
 
 ## 6.4 Special precautions for storage
 
@@ -366,7 +370,7 @@ EU/1/25/1920/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 02 June 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -414,9 +418,9 @@ An updated RMP should be submitted:
 
 The MAH shall complete, within the stated timeframe, the below measures:
 
-| Description                                                                                                                                                                                                                                                                 | Due date              |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
-| Post-authorisation efficacy study (PAES): In order to further characterise the efficacy and safety of Ryjunea and the rebound effects and progression of myopia after treatment cessation, the MAHshould submit the 48 months follow-up results from the study SYD-101-001. | Final CSR: 30.06.2026 |
+| Description                                                                                                                                                                                                                                                                  | Due date              |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
+| Post-authorisation efficacy study (PAES): In order to further characterise the efficacy and safety of Ryjunea and the rebound effects and progression of myopia after treatment cessation, the MAH should submit the 48 months follow-up results from the study SYD-101-001. | Final CSR: 30.06.2026 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -480,29 +484,20 @@ Open date: \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 <div style=\"page-break-after: always\"></div>
 
-For the 3-bottle pack size:
-
-Open date (1): \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
-
-Open date (2): \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
-
-Open date (3): \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
-
 <div style=\"page-break-after: always\"></div>
+
+For the 3-bottle pack size: Open date (1): \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ Open date (2): \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ Open date (3): \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-11.
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-Santen Oy Niittyhaankatu 20 33720 Tampere
-
-Finland
+Santen Oy Niittyhaankatu 20 33720 Tampere Finland
 
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
@@ -517,8 +512,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -530,8 +525,8 @@ Ryjunea 0.1 mg/ml
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -770,17 +765,11 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Santen Oy
+Santen Oy Niittyhaankatu 20, 33720 Tampere, Finland
 
-Niittyhaankatu 20, 33720 Tampere, Finland
-
-## Manufacturer
-
-Santen Oy, Kelloportinkatu 1, 33100 Tampere, Finland
+Manufacturer Santen Oy, Kelloportinkatu 1, 33100 Tampere, Finland For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -792,9 +781,7 @@ Tél/Tel: +32 (0) 24019172
 
 Santen Oy
 
-Te
-
-л.: +359 (0) 888 755 393
+Te л.: +359 (0) 888 755 393
 
 ## Česká republika
 
@@ -828,7 +815,9 @@ Santen Oy
 
 ## España
 
-Santen Pharmaceutical Spain S.L. Tel: +34 914 142 485
+Santen Pharmaceutical Spain S.L.
+
+Tel: +34 914 142 485
 
 ## France
 
@@ -956,9 +945,7 @@ Tel: +371 677 917 80
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site:
-
-https://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ## Sverige
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-03 15:37:13
+document_datetime: 2026-07-22 10:20:42
 document_pages: 57
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zeffix-epar-product-information_en.pdf
 document_name: zeffix-epar-product-information_en.pdf
 version: success
-processing_time: 11.2662566
-conversion_datetime: 2025-12-19 05:39:01.892909
+processing_time: 12.2889285
+conversion_datetime: 2026-07-28 13:32:28.795568
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -24,19 +24,19 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Zeffix 100 mg film-coated tablets
+Zeffix 100 mg film-coated tablets.
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each film-coated tablet contains 100 mg lamivudine
+Each film-coated tablet contains 100 mg lamivudine.
 
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-## Film-coated tablet (tablet)
+Film-coated tablet (tablet).
 
-Butterscotch coloured, film-coated, capsule shaped, biconvex, approximate dimensions 11mm x 5mm and engraved 'GX CG5' on one face.
+Butterscotch coloured, film-coated, capsule-shaped, biconvex, approximate dimensions 11 mm x 5 mm and engraved 'GX CG5' on one face.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -86,16 +86,16 @@ Lamivudine serum concentrations (AUC) are increased in patients with moderate to
 
 Table 1: Dosage of Zeffix in patients with decreased renal clearance.
 
-| Creatinine clearance ml/min   | First dose of Zeffix oral solution *   | Maintenance dose once daily   |
-|-------------------------------|----------------------------------------|-------------------------------|
-| 20 ml (100 mg)                | 10 ml (50 mg)                          | 30 to < 50                    |
-| 20 ml (100 mg)                | 5 ml (25 mg)                           | 15 to < 30                    |
-| 7 ml (35 mg)                  | 3 ml (15 mg)                           | 5 to < 15                     |
-| 7 ml (35 mg)                  | 2 ml (10 mg)                           | < 5                           |
+| Creatinine clearance ml/min   | First dose of Zeffix oral solution*   | Maintenance dose once daily   |
+|-------------------------------|---------------------------------------|-------------------------------|
+| 20 ml (100 mg)                | 10 ml (50 mg)                         | 30 to < 50                    |
+| 20 ml (100 mg)                | 5 ml (25 mg)                          | 15 to < 30                    |
+| 7 ml (35 mg)                  | 3 ml (15 mg)                          | 5 to < 15                     |
+| < 5                           | 7 ml (35 mg) 2 ml (10 mg)             |                               |
 
 * Zeffix oral solution containing 5 mg/ml lamivudine.
 
-Data available in patients undergoing intermittent haemodialysis (for less than or equal to 4 hrs dialysis 2-3 times weekly), indicate that following the initial dosage reduction of lamivudine to correct for the patient's creatinine clearance, no further dosage adjustments are required while undergoing dialysis.
+Data available in patients undergoing intermittent haemodialysis (for less than or equal to 4 hours dialysis 2-3 times weekly), indicate that following the initial dosage reduction of lamivudine to correct for the patient's creatinine clearance, no further dosage adjustments are required while undergoing dialysis.
 
 ## Hepatic impairment
 
@@ -137,15 +137,13 @@ HBV viral subpopulations with reduced susceptibility to lamivudine (YMDD mutant 
 
 ## Exacerbations after treatment discontinuation
 
-Acute exacerbation of hepatitis has been observed in patients who have discontinued hepatitis B therapy and is usually detected by serum ALT elevations and re-emergence of HBV DNA. In the controlled Phase III trials with no-active-treatment follow-up, the incidence of post-treatment ALT elevations (more than 3 times baseline) was higher in lamivudine-treated patients (21%) compared with those receiving placebo (8%). However, the proportion of patients who had post-treatment elevations associated with bilirubin elevations was low and similar in both treatment arms (see Table 3 in section 5.1). For lamivudine-treated patients, the majority of post-treatment ALT elevations occurred between 8 and 12 weeks post-treatment. Most events have been self-limiting, however some fatalities have been observed. If Zeffix is discontinued, patients should be periodically monitored both clinically and by assessment of serum liver function tests (ALT and bilirubin levels), for at least four months, and then as clinically indicated.
+Acute exacerbation of hepatitis has been observed in patients who have discontinued hepatitis B therapy and is usually detected by serum ALT elevations and re-emergence of HBV DNA. In the controlled Phase III trials with no-active-treatment follow-up, the incidence of post-treatment ALT elevations (more than 3 times baseline) was higher in lamivudine-treated patients (21 %) compared with those receiving placebo (8 %). However, the proportion of patients who had post-treatment elevations associated with bilirubin elevations was low and similar in both treatment arms (see Table 3 in section 5.1). For lamivudine-treated patients, the majority of post-treatment ALT elevations occurred between 8 and 12 weeks post-treatment. Most events have been self-limiting, however some fatalities have been observed. If Zeffix is discontinued, patients should be periodically monitored both clinically and by assessment of serum liver function tests (ALT and bilirubin levels), for at least four months, and then as clinically indicated.
 
 ## Exacerbations in patients with decompensated cirrhosis
 
-Transplantation recipients and patients with decompensated cirrhosis are at greater risk from active viral replication. Due to the marginal liver function in these patients, hepatitis reactivation at
+Transplantation recipients and patients with decompensated cirrhosis are at greater risk from active viral replication. Due to the marginal liver function in these patients, hepatitis reactivation at discontinuation of lamivudine or loss of efficacy during treatment may induce severe and even fatal decompensation. These patients should be monitored for clinical, virological and serological parameters associated with hepatitis B, liver and renal function, and antiviral response during treatment (at least every month), and, if treatment is discontinued for any reason, for at least 6 months after treatment. Laboratory parameters to be monitored should include (as a minimum) serum ALT, bilirubin, albumin, blood urea nitrogen, creatinine, and virological status: HBV antigen/antibody, and serum HBV DNA concentrations when possible. Patients experiencing signs of hepatic insufficiency during or post-treatment should be monitored more frequently as appropriate.
 
 <div style=\"page-break-after: always\"></div>
-
-discontinuation of lamivudine or loss of efficacy during treatment may induce severe and even fatal decompensation. These patients should be monitored for clinical, virological and serological parameters associated with hepatitis B, liver and renal function, and antiviral response during treatment (at least every month), and, if treatment is discontinued for any reason, for at least 6 months after treatment. Laboratory parameters to be monitored should include (as a minimum) serum ALT, bilirubin, albumin, blood urea nitrogen, creatinine, and virological status: HBV antigen/antibody, and serum HBV DNA concentrations when possible. Patients experiencing signs of hepatic insufficiency during or post-treatment should be monitored more frequently as appropriate.
 
 For patients who develop evidence of recurrent hepatitis post-treatment, there are insufficient data on the benefits of re-initiation of lamivudine treatment.
 
@@ -153,7 +151,7 @@ For patients who develop evidence of recurrent hepatitis post-treatment, there a
 
 Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage. There have been reports of mitochondrial dysfunction in infants exposed in utero and/or post-natally to nucleoside analogues. The main adverse events reported are haematological disorders (anaemia, neutropenia), metabolic disorders (hyperlipasemia). Some late-onset neurological disorders have been reported (hypertonia, convulsion, abnormal behaviour). The neurological disorders might be transient or permanent. Any child exposed in utero to nucleoside and nucleotide analogues, should have clinical and laboratory follow-up and should be fully investigated for possible mitochondrial dysfunction in cases which have relevant signs or symptoms.
 
-## Paediatric patients
+## Paediatric population
 
 Lamivudine has been administered to children (2 years and above) and adolescents with compensated chronic hepatitis B. However, due to limitations of the data, the administration of lamivudine to this patient population is not currently recommended (see section 5.1).
 
@@ -167,17 +165,15 @@ Data are limited on the use of lamivudine in HBeAg negative (pre-core mutant) pa
 
 ## Monitoring
 
-During treatment with Zeffix patients should be monitored regularly. Serum ALT and HBV DNA levels should be monitored at 3 month intervals and in HBeAg positive patients HBeAg should be assessed every 6 months.
+During treatment with Zeffix patients should be monitored regularly. Serum ALT and HBV DNA levels should be monitored at 3-month intervals and in HBeAg positive patients HBeAg should be assessed every 6 months.
 
 ## HIV co-infection
 
 For the treatment of patients who are co-infected with HIV and are currently receiving or plan to receive treatment with an antiretroviral combination regimen including lamivudine, the dose of lamivudine prescribed for HIV infection (usually 150 mg/twice daily in combination with other antiretrovirals) should be used.
 
-The 100 mg usual dose of lamivudine used for the treatment of HBV is not appropriate for patients who acquire HIV or are co-infected with HBV and HIV. If a patient with unrecognised or untreated HIV infection is prescribed the dose of lamivudine recommended for the treatment of HBV, rapid emergence of HIV resistance and a limitation of treatment options is likely to result because of the
+The 100 mg usual dose of lamivudine used for the treatment of HBV is not appropriate for patients who acquire HIV or are co-infected with HBV and HIV. If a patient with unrecognised or untreated HIV infection is prescribed the dose of lamivudine recommended for the treatment of HBV, rapid emergence of HIV resistance and a limitation of treatment options is likely to result because of the subtherapeutic dose and the inappropriate use of monotherapy for HIV treatment. HIV counselling and testing should be offered to all patients before beginning treatment with lamivudine for HBV and periodically during treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-subtherapeutic dose and the inappropriate use of monotherapy for HIV treatment. HIV counselling and testing should be offered to all patients before beginning treatment with lamivudine for HBV and periodically during treatment.
 
 ## Transmission of hepatitis B
 
@@ -193,7 +189,7 @@ The combination of lamivudine with cladribine is not recommended (see section 4.
 
 ## Excipients
 
-This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -203,7 +199,9 @@ The likelihood of metabolic interactions is low due to limited metabolism and pl
 
 Lamivudine is predominantly eliminated by active organic cationic secretion. The possibility of interactions with other medicinal products administered concurrently should be considered, particularly when their main route of elimination is active renal secretion via the organic cationic transport system e.g. trimethoprim. Other medicinal products (e.g. ranitidine, cimetidine) are eliminated only in part by this mechanism and were shown not to interact with lamivudine.
 
-Substances shown to be predominately excreted either via the active organic anionic pathway, or by glomerular filtration are unlikely to yield clinically significant interactions with lamivudine. Administration of trimethoprim/sulphamethoxazole 160 mg/800 mg increased lamivudine exposure by about 40 %. Lamivudine had no effect on the pharmacokinetics of trimethoprim or sulphamethoxazole. However, unless the patient has renal impairment, no dosage adjustment of lamivudine is necessary.
+Substances shown to be predominately excreted either via the active organic anionic pathway, or by glomerular filtration are unlikely to yield clinically significant interactions with lamivudine.
+
+Administration of trimethoprim/sulphamethoxazole 160 mg/800 mg increased lamivudine exposure by about 40 %. Lamivudine had no effect on the pharmacokinetics of trimethoprim or sulphamethoxazole. However, unless the patient has renal impairment, no dosage adjustment of lamivudine is necessary.
 
 A modest increase in Cmax (28 %) was observed for zidovudine when administered with lamivudine, however overall exposure (AUC) was not significantly altered. Zidovudine had no effect on the pharmacokinetics of lamivudine (see section 5.2).
 
@@ -221,7 +219,7 @@ In vitro lamivudine inhibits the intracellular phosphorylation of cladribine lea
 
 ## Sorbitol
 
-Co-administration of sorbitol solution (3.2 g, 10.2 g, 13.4 g) with a single 300 mg dose (Adult HIV daily dose) of lamivudine oral solution resulted in dose-dependent decreases of 14%, 32%, and 36% in lamivudine exposure (AUC  ) and 28%, 52%, and 55% in the Cmax of lamivudine in adults. When possible, avoid chronic co-administration of Zeffix with medicinal products containing sorbitol or other osmotic acting poly-alcohols or monosaccharide alcohols (e.g. xylitol, mannitol, lactitol, maltitol). Consider more frequent monitoring of HBV viral load when chronic co-administration cannot be avoided.
+Co-administration of sorbitol solution (3.2 g, 10.2 g, 13.4 g) with a single 300 mg dose (adult HIV daily dose) of lamivudine oral solution resulted in dose-dependent decreases of 14 %, 32 %, and 36 % in lamivudine exposure (AUC  ) and 28 %, 52 %, and 55 % in the Cmax of lamivudine in adults. When possible, avoid chronic co-administration of Zeffix with medicinal products containing sorbitol or other osmotic acting poly-alcohols or monosaccharide alcohols (e.g. xylitol, mannitol, lactitol, maltitol). Consider more frequent monitoring of HBV viral load when chronic co-administration cannot be avoided.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -229,13 +227,13 @@ Co-administration of sorbitol solution (3.2 g, 10.2 g, 13.4 g) with a single 300
 
 Animal studies with lamivudine showed an increase in early embryonic deaths in rabbits but not in rats (see section 5.3). Placental transfer of lamivudine has been shown to occur in humans.
 
-Available human data from the Antiretroviral Pregnancy Registry reporting more than 1000 outcomes from first trimester and more than 1000 outcomes from second and third trimester exposure in pregnant women indicate no malformative and foeto/neonatal effect. Less than 1% of these women have been treated for HBV, whereas the majority was treated for HIV at higher doses and with other concomitant medications. Zeffix can be used during pregnancy if clinically needed.
+Available human data from the Antiretroviral Pregnancy Registry reporting more than 1 000 outcomes from first trimester and more than 1 000 outcomes from second and third trimester exposure in pregnant women indicate no malformative and foeto/ neonatal effect. Less than 1 % of these women have been treated for HBV, whereas the majority was treated for HIV at higher doses and with other concomitant medications. Zeffix can be used during pregnancy if clinically needed.
 
 For patients who are being treated with lamivudine and subsequently become pregnant consideration should be given to the possibility of a recurrence of hepatitis on discontinuation of lamivudine.
 
 ## Breast-feeding
 
-Based on more than 200 mother/child pairs treated for HIV, serum concentrations of lamivudine in breastfed infants of mothers treated for HIV are very low (less than 4% of maternal serum concentrations) and progressively decrease to undetectable levels when breastfed infants reach 24 weeks of age. The total amount of lamivudine ingested by a breastfed infant is very low and is therefore likely to result in exposures exerting a sub-optimal antiviral effect. Maternal hepatitis B is not a contraindication to breast-feeding if the newborn is adequately managed for hepatitis B prevention at birth, and there is no evidence that the low concentration of lamivudine in human milk leads to adverse reactions in breastfed infants. Therefore, breastfeeding may be considered in breast-feeding mothers being treated with lamivudine for HBV taking into account the benefit of breast feeding for the child and the benefit of therapy for the woman. Where there is maternal transmission of HBV, despite adequate prophylaxis, consideration should be given to discontinuing breastfeeding to reduce the risk of the emergence of lamivudine resistant mutants in the infant.
+Based on more than 200 mother/child pairs treated for HIV, serum concentrations of lamivudine in breastfed infants of mothers treated for HIV are very low (less than 4 % of maternal serum concentrations) and progressively decrease to undetectable levels when breastfed infants reach 24 weeks of age. The total amount of lamivudine ingested by a breastfed infant is very low and is therefore likely to result in exposures exerting a sub-optimal antiviral effect. Maternal hepatitis B is not a contraindication to breast-feeding if the newborn is adequately managed for hepatitis B prevention at birth, and there is no evidence that the low concentration of lamivudine in human milk leads to adverse reactions in breastfed infants. Therefore, breastfeeding may be considered in breast-feeding mothers being treated with lamivudine for HBV taking into account the benefit of breast feeding for the child and the benefit of therapy for the woman. Where there is maternal transmission of HBV, despite adequate prophylaxis, consideration should be given to discontinuing breastfeeding to reduce the risk of the emergence of lamivudine resistant mutants in the infant.
 
 ## Fertility
 
@@ -259,28 +257,26 @@ The incidence of adverse reactions and laboratory abnormalities (with the except
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions are listed below by system organ class and frequency. Frequency categories are only assigned to those adverse reactions considered to be at least possibly causally related to lamivudine. Frequencies are defined as: very common (  1/10), common (  1/100 to &lt; 1/10), uncommon (  1/1000 to &lt; 1/100), rare (  1/10,000 to &lt; 1/1000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data).
+Adverse reactions are listed below by system organ class and frequency. Frequency categories are only assigned to those adverse reactions considered to be at least possibly causally related to lamivudine. Frequencies are defined as: very common (  1/10), common (  1/100 to &lt; 1/10), uncommon (  1/1 000 to &lt; 1/100), rare (  1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data).
 
-The frequency categories assigned to the adverse reactions are mainly based on experience from clinical trials including a total of 1,171 patients with chronic hepatitis B receiving lamivudine at 100 mg.
+The frequency categories assigned to the adverse reactions are mainly based on experience from clinical trials including a total of 1 171 patients with chronic hepatitis B receiving lamivudine at 100 mg.
 
-| Blood and lymphatic system disorders                                                                                                                                                                                                                    | Blood and lymphatic system disorders                                                                                                                                                                                                                    |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Not known                                                                                                                                                                                                                                               | Thrombocytopenia                                                                                                                                                                                                                                        |
-| Metabolism and nutrition disorders                                                                                                                                                                                                                      | Metabolism and nutrition disorders                                                                                                                                                                                                                      |
-| Very rare                                                                                                                                                                                                                                               | Lactic acidosis                                                                                                                                                                                                                                         |
-| Immune system disorders :                                                                                                                                                                                                                               | Immune system disorders :                                                                                                                                                                                                                               |
-| Rare                                                                                                                                                                                                                                                    | Angioedema                                                                                                                                                                                                                                              |
-| Hepatobiliary disorders                                                                                                                                                                                                                                 | Hepatobiliary disorders                                                                                                                                                                                                                                 |
-| Very common                                                                                                                                                                                                                                             | ALT elevations (see section 4.4)                                                                                                                                                                                                                        |
-| Exacerbations of hepatitis, primarily detected by serum ALT elevations, have been reported 'on-treatment' and following lamivudine withdrawal. Most events have been self-limited, however fatalities have been observed very rarely (see section 4.4). | Exacerbations of hepatitis, primarily detected by serum ALT elevations, have been reported 'on-treatment' and following lamivudine withdrawal. Most events have been self-limited, however fatalities have been observed very rarely (see section 4.4). |
-| Skin and subcutaneous tissue disorders                                                                                                                                                                                                                  | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                  |
-| Common                                                                                                                                                                                                                                                  | Rash, pruritus                                                                                                                                                                                                                                          |
-| Musculoskeletal and connective tissue disorders                                                                                                                                                                                                         | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                         |
-| Common                                                                                                                                                                                                                                                  | Elevations of CPK                                                                                                                                                                                                                                       |
-| Common                                                                                                                                                                                                                                                  | Muscle disorders, including myalgia and cramps*                                                                                                                                                                                                         |
-| Not known                                                                                                                                                                                                                                               | Rhabdomyolysis                                                                                                                                                                                                                                          |
-
-* In Phase III studies frequency observed in the lamivudine treatment group was not greater than observed in the placebo group
+| Blood and lymphatic system disorders                                                                                                                                                                                                                       | Blood and lymphatic system disorders                                                                                                                                                                                                                       |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Not known                                                                                                                                                                                                                                                  | Thrombocytopenia                                                                                                                                                                                                                                           |
+| Metabolism and nutrition disorders                                                                                                                                                                                                                         | Metabolism and nutrition disorders                                                                                                                                                                                                                         |
+| Very rare                                                                                                                                                                                                                                                  | Lactic acidosis                                                                                                                                                                                                                                            |
+| Immune system disorders                                                                                                                                                                                                                                    | Immune system disorders                                                                                                                                                                                                                                    |
+| Rare                                                                                                                                                                                                                                                       | Angioedema                                                                                                                                                                                                                                                 |
+| Hepatobiliary disorders                                                                                                                                                                                                                                    | Hepatobiliary disorders                                                                                                                                                                                                                                    |
+| Very common                                                                                                                                                                                                                                                | ALT elevations (see section 4.4)                                                                                                                                                                                                                           |
+| Exacerbations of hepatitis, primarily detected by serum ALT elevations, have been reported 'on - treatment' and following lamivudine withdrawal. Most events have been self -limited, however fatalities have been observed very rarely (see section 4.4). | Exacerbations of hepatitis, primarily detected by serum ALT elevations, have been reported 'on - treatment' and following lamivudine withdrawal. Most events have been self -limited, however fatalities have been observed very rarely (see section 4.4). |
+| Skin and subcutaneous tissue disorders                                                                                                                                                                                                                     | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                     |
+| Common                                                                                                                                                                                                                                                     | Rash, pruritus                                                                                                                                                                                                                                             |
+| Musculoskeletal and connective tissue disorders                                                                                                                                                                                                            | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                            |
+| Common                                                                                                                                                                                                                                                     | Elevations of CPK                                                                                                                                                                                                                                          |
+| Common                                                                                                                                                                                                                                                     | Muscle disorders, including myalgia and cramps*                                                                                                                                                                                                            |
+| Not known                                                                                                                                                                                                                                                  | Rhabdomyolysis                                                                                                                                                                                                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -290,7 +286,7 @@ Based on limited data in children aged 2 to 17 years, there were no new safety i
 
 ## Other special populations
 
-In patients with HIV infection, cases of pancreatitis and peripheral neuropathy (or paresthesia) have been reported. In patients with chronic hepatitis B there was no observed difference in incidence of these events between placebo and lamivudine treated patients.
+In patients with HIV infection, cases of pancreatitis and peripheral neuropathy (or paraesthesia) have been reported. In patients with chronic hepatitis B there was no observed difference in incidence of these events between placebo and lamivudine treated patients.
 
 ## Reporting of suspected adverse reactions
 
@@ -306,7 +302,7 @@ If overdose occurs the patient should be monitored and standard supportive treat
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group - Antivirals for systemic use, nucleoside and nucleotide reverse transcriptase inhibitors, ATC Code: J05AF05.
+Pharmacotherapeutic group: Antivirals for systemic use, nucleoside and nucleotide reverse transcriptase inhibitors, ATC code: J05AF05.
 
 ## Mechanism of action
 
@@ -326,78 +322,79 @@ In assays relating to potential substance effects on mitochondrial structure and
 
 ## Experience in patients with HBeAg positive CHB and compensated liver disease
 
-In controlled studies, 1 year of lamivudine therapy significantly suppressed HBV DNA replication [34-57 % of patients were below the assay detection limits (Abbott Genostics solution hybridization assay, LLOD &lt; 1.6pg/ml)}, normalised ALT level (40-72 % of patients), induced HBeAg seroconversion (HBeAg loss and HBeAb detection with HBV DNA loss [by conventional assay], 16-18 % of patients), improved histology (38-52 % of patients had a  2 point decrease in the Knodell Histologic Activity Index [HAI]) and reduced progression of fibrosis (in 3-17 % of patients) and progression to cirrhosis.
+In controlled studies, 1 year of lamivudine therapy significantly suppressed HBV DNA replication [34-57 % of patients were below the assay detection limits (Abbott Genostics solution hybridization assay, LLOD &lt; 1.6 pg/ml)], normalised ALT level (40-72 % of patients), induced HBeAg seroconversion (HBeAg loss and HBeAb detection with HBV DNA loss [by conventional assay], 16-18 % of patients), improved histology (38-52 % of patients had a  2 point decrease in the Knodell Histologic Activity Index [HAI]) and reduced progression of fibrosis (in 3-17 % of patients) and progression to cirrhosis.
 
-Continued lamivudine treatment for an additional 2 years in patients who had failed to achieve HBeAg seroconversion in the initial 1 year controlled studies resulted in further improvement in bridging fibrosis. In patients with YMDD mutant HBV, 41/82 (50 %) patients had improvement in liver inflammation and 40/56 (71 %) patients without YMDD mutant HBV had improvement. Improvement in bridging fibrosis occurred in 19/30 (63 %) patients without YMDD mutant and 22/44 (50 %) patients with the mutant. Five percent (3/56) of patients without the YMDD mutant and 13 % (11/82) of patients with YMDD mutant showed worsening in liver inflammation compared to pre-treatment. Progression to cirrhosis occurred in 4/68 (6 %) patients with the YMDD mutant, whereas no patients without the mutant progressed to cirrhosis.
+Continued lamivudine treatment for an additional 2 years in patients who had failed to achieve HBeAg seroconversion in the initial 1-year controlled studies resulted in further improvement in bridging fibrosis. In patients with YMDD mutant HBV, 41/82 (50 %) patients had improvement in liver inflammation and 40/56 (71 %) patients without YMDD mutant HBV had improvement. Improvement in bridging fibrosis occurred in 19/30 (63 %) patients without YMDD mutant and 22/44 (50 %) patients with the mutant. Five percent (3/56) of patients without the YMDD mutant and 13 % (11/82) of patients with YMDD mutant showed worsening in liver inflammation compared to pre-treatment. Progression to cirrhosis occurred in 4/68 (6 %) patients with the YMDD mutant, whereas no patients without the mutant progressed to cirrhosis.
 
-In an extended treatment study in Asian patients (NUCB3018) the HBeAg seroconversion rate and ALT normalisation rate at the end of the 5 year treatment period was 48 % (28/58) and 47 % (15/32), respectively. HBeAg seroconversion was increased in patients with elevated ALT levels; 77 % (20/26) of patients with pre-treatment ALT &gt; 2 x ULN seroconverted. At the end of 5 years, all patients had HBV DNA levels that were undetectable or lower than pre-treatment levels.
+In an extended treatment study in Asian patients (NUCB3018) the HBeAg seroconversion rate and ALT normalisation rate at the end of the 5-year treatment period was 48 % (28/58) and 47 % (15/32), respectively. HBeAg seroconversion was increased in patients with elevated ALT levels; 77 % (20/26) of patients with pre-treatment ALT &gt; 2 x ULN seroconverted. At the end of 5 years, all patients had HBV DNA levels that were undetectable or lower than pre-treatment levels.
 
 Further results from the trial by YMDD mutant status are summarised in Table 2.
 
-| Table 2: Efficacy results 5 years by YMDDstatus (Asian Study) NUCB3018   | Subjects, %(no.)      | Subjects, %(no.)    |
-|--------------------------------------------------------------------------|-----------------------|---------------------|
-| YMDD mutant HBV status                                                   | YMDD 1                | Non-YMDD 1          |
-| HBeAg seroconversion                                                     |                       |                     |
-| - All patients - Baseline ALT  1 x ULN 2                                | 38 (15/40)            | 72 33 (13/18) (2/6) |
-|                                                                          | 9 (1/11)              |                     |
-| - Baseline ALT > 2 x ULN                                                 | 60 (9/15)             | 100 (11/11)         |
-| Undetectable HBV DNA                                                     |                       |                     |
-| - Baseline 3                                                             | 5 (2/40)              | 6 (1/18)            |
-| - Week 260 4 negative positive < baseline positive > baseline            | 8 92 0 (2/25) (23/25) | 0 100 0 (4/4)       |
-| ALT normalisation                                                        |                       |                     |
-| - Baseline normal above normal                                           | 28 (11/40)            | 33 (6/18)           |
-|                                                                          | 73 (29/40)            | 67 (12/18)          |
-| - Week 260                                                               |                       |                     |
-
 <div style=\"page-break-after: always\"></div>
 
-| normal                  |   46 (13/28) |        | 50 (2/4)   |
-|-------------------------|--------------|--------|------------|
-| above normal < baseline |           21 | (6/28) | 0          |
-| above normal > baseline |           32 | (9/28) | 50 (2/4)   |
+Table 2: Efficacy results 5 years by YMDD status (Asian Study) NUCB3018
 
-- 1 Patients designated as YMDD mutant were those with  5% YMDD mutant HBV at any annual time-point during the 5-year period. Patients categorised as non-YMDD mutant were those with &gt; 95% wild-type HBV at all annual time-points during the 5-year study period
-- 2 Upper limit of normal
-- 3 Abbott Genostics solution hybridisation assay (LLOD &lt; 1.6 pg/ml
-- 4 Chiron Quantiplex assay (LLOD 0.7 Meq/ml)
+|                                           | Subjects, % (no.)    | Subjects, % (no.)   | Subjects, % (no.)   |
+|-------------------------------------------|----------------------|---------------------|---------------------|
+| YMDD mutant HBV status                    | YMDD 1               | YMDD 1              | Non-YMDD 1          |
+| HBeAg seroconversion                      |                      |                     |                     |
+| - All patients                            | 38                   | (15/40)             | (13/18)             |
+| - Baseline ALT  1 x ULN 2                | 9 (1/11)             | 72 33               | (2/6)               |
+| - Baseline ALT > 2 x ULN                  | 60 (9/15)            | 100                 | (11/11)             |
+| Undetectable HBV DNA                      |                      |                     |                     |
+| - Baseline 3                              | 5 (2/40)             | 6                   | (1/18)              |
+| - Week 260 4 negative positive < baseline | 8 92 (2/25) (23/25)  | 0 100               | (4/4)               |
+| ALT normalisation                         |                      |                     |                     |
+| - Baseline normal                         | 28 (11/40)           | 33                  | (6/18)              |
+| above normal                              | 73 (29/40)           | 67                  | (12/18)             |
+| - Week 260 normal above normal < baseline | 46 21 (13/28) (6/28) | 50 0                | (2/4)               |
+| above normal > baseline                   | 32 (9/28)            | 50                  | (2/4)               |
 
-Comparative data according to YMDD status were also available for histological assessment but only up to three years. In patients with YMDD mutant HBV, 18/39 (46 %) had improvements in necroinflammatory activity and 9/39 (23 %) had worsening. In patients without the mutant, 20/27 (74 %) had improvements in necroinflammatory activity and 2/27 (7 %) had worsening.
+1 Patients designated as YMDD mutant were those with  5 % YMDD mutant HBV at any annual time-point during the 5-year period. Patients categorised as non-YMDD mutant were those with &gt; 95 % wild-type HBV at all annual time-points during the 5-year study period
+
+2 Upper limit of normal
+
+3 Abbott Genostics solution hybridisation assay (LLOD &lt; 1.6 pg/ml)
+
+4 Chiron Quantiplex assay (LLOD 0.7 MEq/ml)
+
+Comparative data according to YMDD status were also available for histological assessment but only up to 3 years. In patients with YMDD mutant HBV, 18/39 (46 %) had improvements in necroinflammatory activity and 9/39 (23 %) had worsening. In patients without the mutant, 20/27 (74 %) had improvements in necroinflammatory activity and 2/27 (7 %) had worsening.
 
 Following HBeAg seroconversion, serologic response and clinical remission are generally durable after stopping lamivudine. However, relapse following seroconversion can occur. In a long-term follow-up study of patients who had previously seroconverted and discontinued lamivudine, late virological relapse occurred in 39 % of the subjects. Therefore, following HBeAg seroconversion, patients should be periodically monitored to determine that serologic and clinical responses are being maintained. In patients who do not maintain a sustained serological response, consideration should be given to retreatment with either lamivudine or an alternative antiviral agent for resumption of clinical control of HBV.
 
 In patients followed for up to 16 weeks after discontinuation of treatment at one year, post-treatment ALT elevations were observed more frequently in patients who had received lamivudine than in patients who had received placebo. A comparison of post-treatment ALT elevations between weeks 52 and 68 in patients who discontinued lamivudine at week 52 and patients in the same studies who received placebo throughout the treatment course is shown in Table 3. The proportion of patients who had post-treatment ALT elevations in association with an increase in bilirubin levels was low and similar in patients receiving either lamivudine or placebo.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 3: Post-treatment ALT Elevations in 2 Placebo-Controlled Studies in Adults
 
-|                                                                           | Patients with ALT Elevation/ Patients with Observations*   | Patients with ALT Elevation/ Patients with Observations*   |
-|---------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
-| Abnormal Value                                                            | Lamivudine                                                 | Placebo                                                    |
-| ALT  2 x baseline value                                                  | 37/137 (27 %)                                              | 22/116 (19 %)                                              |
-| ALT  3 x baseline value †                                                | 29/137 (21 %)                                              | 9/116 (8 %)                                                |
-| ALT  2 x baseline value and absolute ALT > 500 IU/l                      | 21/137 (15 %)                                              | 8/116 (7 %)                                                |
-| ALT  2 x baseline value; and bilirubin >2 x ULN and  2 x baseline value | 1/137 (0.7 %)                                              | 1/116 (0.9 %)                                              |
+|                                                                            | Patients with ALT Elevation/ Patients with Observations 1   | Patients with ALT Elevation/ Patients with Observations 1   |
+|----------------------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
+| Abnormal Value                                                             | Lamivudine                                                  | Placebo                                                     |
+| ALT  2 x baseline value                                                   | 37/137 (27 %)                                               | 22/116 (19 %)                                               |
+| ALT  3 x baseline value 2                                                 | 29/137 (21 %)                                               | 9/116 (8 %)                                                 |
+| ALT  2 x baseline value and absolute ALT > 500 IU/l                       | 21/137 (15 %)                                               | 8/116 (7 %)                                                 |
+| ALT  2 x baseline value; and bilirubin > 2 x ULN and  2 x baseline value | 1/137 (0.7 %)                                               | 1/116 (0.9 %)                                               |
 
-*Each patient may be represented in one or more category.
+1 Each patient may be represented in one or more category.
 
-† Comparable to a Grade 3 toxicity in accordance with modified WHO criteria.
+2 Comparable to a Grade 3 toxicity in accordance with modified WHO criteria.
 
 ULN = Upper limit of normal.
 
 ## Experience in patients with HBeAg negative CHB
 
-Initial data indicate the efficacy of lamivudine in patients with HBeAg negative CHB is similar to patients with HBeAg positive CHB, with 71 % of patients having HBV DNA suppressed below the detection limit of the assay, 67 % ALT normalisation and 38 % with improvement in HAI after one year of treatment. When lamivudine was discontinued, the majority of patients (70 %) had a return of viral replication. Data is available from an extended treatment study in HBeAg negative patients (NUCAB3017) treated with lamivudine. After two years of treatment in this study, ALT normalisation and undetectable HBV DNA occurred in 30/69 (43 %) and 32/68 (47 %) patients respectively and improvement in necroinflammatory score in 18/49 (37 %) patients. In patients without YMDD mutant HBV, 14/22 (64 %) showed improvement in necroinflammatory score and 1/22 (5 %) patients
-
-<div style=\"page-break-after: always\"></div>
-
-worsened compared to pre-treatment. In patients with the mutant, 4/26 (15 %) patients showed improvement in necroinflammatory score and 8/26 (31 %) patients worsened compared to pre-treatment. No patients in either group progressed to cirrhosis.
+Initial data indicate the efficacy of lamivudine in patients with HBeAg negative CHB is similar to patients with HBeAg positive CHB, with 71 % of patients having HBV DNA suppressed below the detection limit of the assay, 67 % ALT normalisation and 38 % with improvement in HAI after one year of treatment. When lamivudine was discontinued, the majority of patients (70 %) had a return of viral replication. Data is available from an extended treatment study in HBeAg negative patients (NUCAB3017) treated with lamivudine. After 2 years of treatment in this study, ALT normalisation and undetectable HBV DNA occurred in 30/69 (43 %) and 32/68 (47 %) patients respectively and improvement in necroinflammatory score in 18/49 (37 %) patients. In patients without YMDD mutant HBV, 14/22 (64 %) showed improvement in necroinflammatory score and 1/22 (5 %) patients worsened compared to pre-treatment. In patients with the mutant, 4/26 (15 %) patients showed improvement in necroinflammatory score and 8/26 (31 %) patients worsened compared to pre-treatment. No patients in either group progressed to cirrhosis.
 
 ## Frequency of emergence of YMDD mutant HBV and impact on the treatment response
 
 Lamivudine monotherapy results in the selection of YMDD mutant HBV in approximately 24 % of patients following one year of therapy, increasing to 69 % following 5 years of therapy. Development of YMDD mutant HBV is associated with reduced treatment response in some patients, as evidenced by increased HBV DNA levels and ALT elevations from previous on-therapy levels, progression of signs and symptoms of hepatitis disease and/or worsening of hepatic necroinflammatory findings. Given the risk of YMDD mutant HBV, maintenance of lamivudine monotherapy is not appropriate in patients with detectable serum HBV DNA at or beyond 24 weeks of treatment (see section 4.4).
 
-In a double-blind study in CHB patients with YMDD mutant HBV and compensated liver disease (NUC20904), with a reduced virological and biochemical response to lamivudine (n=95), the addition of adefovir dipivoxil 10 mg once daily to ongoing lamivudine 100 mg for 52 weeks resulted in a median decrease in HBV DNA of 4.6 log10 copies/ml compared to a median increase of 0.3 log10 copies/ml in those patients receiving lamivudine monotherapy. Normalisation of ALT levels occurred in 31 % (14/45) of patients receiving combined therapy versus 6 % (3/47) receiving lamivudine alone. Viral suppression was maintained (follow-on study NUC20917) with combined therapy during the second year of treatment to week 104 with patients having continued improvement in virologic and biochemical responses.
+In a double-blind study in CHB patients with YMDD mutant HBV and compensated liver disease (NUC20904), with a reduced virological and biochemical response to lamivudine (n = 95), the addition of adefovir dipivoxil 10 mg once daily to ongoing lamivudine 100 mg for 52 weeks resulted in a median decrease in HBV DNA of 4.6 log10 copies/ml compared to a median increase of 0.3 log10 copies/ml in those patients receiving lamivudine monotherapy. Normalisation of ALT levels occurred in 31 % (14/45) of patients receiving combined therapy versus 6 % (3/47) receiving lamivudine alone. Viral suppression was maintained (follow-on study NUC20917) with combined therapy during the second year of treatment to week 104 with patients having continued improvement in virologic and biochemical responses.
 
-In a retrospective study to determine the factors associated with HBV DNA breakthrough, 159 Asian HBeAg-positive patients were treated with lamivudine and followed up for a median period of almost 30 months. Those with HBV DNA levels greater than 200 copies/mL at 6 months (24 weeks) of lamivudine therapy had a 60 % chance of developing the YMDD mutant compared with 8 % of those with HBV DNA levels less than 200 copies/mL at 24 weeks of lamivudine therapy. The risk for developing YMDD mutant was 63% versus 13% with a cut off of 1000 copies/ml (NUCB3009 and NUCB3018).
+In a retrospective study to determine the factors associated with HBV DNA breakthrough, 159 Asian HBeAg-positive patients were treated with lamivudine and followed up for a median period of almost 30 months. Those with HBV DNA levels greater than 200 copies/ml at 6 months (24 weeks) of lamivudine therapy had a 60 % chance of developing the YMDD mutant compared with 8 % of those with HBV DNA levels less than 200 copies/ml at 24 weeks of lamivudine therapy. The risk for developing YMDD mutant was 63 % versus 13 % with a cut-off of 1 000 copies/ml (NUCB3009 and NUCB3018).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Experience in patients with decompensated liver disease
 
@@ -409,21 +406,21 @@ Forty patients (HBeAg negative or HBeAg positive) with either decompensated live
 
 ## Experience in CHB patients with advanced fibrosis or cirrhosis
 
-In a placebo-controlled study in 651 patients with clinically compensated chronic hepatitis B and histologically confirmed fibrosis or cirrhosis, lamivudine treatment (median duration 32 months) significantly reduced the rate of overall disease progression (34/436, 7.8 % for lamivudine versus 38/215, 17.7 % for placebo, p=0.001), demonstrated by a significant reduction in the proportion of patients having increased Child-Pugh scores (15/436, 3.4 % versus 19/215, 8.8 %, p=0.023) or
+In a placebo-controlled study in 651 patients with clinically compensated chronic hepatitis B and histologically confirmed fibrosis or cirrhosis, lamivudine treatment (median duration 32 months) significantly reduced the rate of overall disease progression (34/436, 7.8 % for lamivudine versus 38/215, 17.7 % for placebo, p = 0.001), demonstrated by a significant reduction in the proportion of patients having increased Child-Pugh scores (15/436, 3.4 % versus 19/215, 8.8 %, p = 0.023) or developing hepatocellular carcinoma (17/436, 3.9 % versus 16/215, 7.4 %, p = 0.047). The rate of overall disease progression in the lamivudine group was higher for subjects with detectable YMDD mutant HBV DNA (23/209, 11 %) compared to those without detectable YMDD mutant HBV (11/221, 5 %). However, disease progression in YMDD subjects in the lamivudine group was lower than the disease progression in the placebo group (23/209, 11 % versus 38/214, 18 % respectively). Confirmed HBeAg seroconversion occurred in 47 % (118/252) of subjects treated with lamivudine and 93 % (320/345) of subjects receiving lamivudine became HBV DNA negative (VERSANT [version 1], bDNA assay, LLOD &lt; 0.7 MEq/ml) during the study.
 
-<div style=\"page-break-after: always\"></div>
+## Paediatric population
 
-developing hepatocellular carcinoma (17/436, 3.9 % versus 16/215, 7.4 %, p=0.047). The rate of overall disease progression in the lamivudine group was higher for subjects with detectable YMDD mutant HBV DNA (23/209, 11 %) compared to those without detectable YMDD mutant HBV (11/221, 5 %). However, disease progression in YMDD subjects in the lamivudine group was lower than the disease progression in the placebo group (23/209, 11 % versus 38/214, 18 % respectively). Confirmed HBeAg seroconversion occurred in 47 % (118/252) of subjects treated with lamivudine and 93 % (320/345) of subjects receiving lamivudine became HBV DNA negative (VERSANT [version 1], bDNA assay, LLOD &lt; 0.7 MEq/ml) during the study.
-
-## Experience in children and adolescents
-
-Lamivudine has been administered to children and adolescents with compensated CHB in a placebo controlled study of 286 patients aged 2 to 17 years. This population primarily consisted of children with minimal hepatitis B. A dose of 3 mg/kg once daily (up to a maximum of 100 mg daily) was used in children aged 2 to 11 years and a dose of 100 mg once daily in adolescents aged 12 years and above. This dose needs to be further substantiated. The difference in the HBeAg seroconversion rates (HBeAg and HBV DNA loss with HBeAb detection) between placebo and lamivudine was not statistically significant in this population (rates after one year were 13 % (12/95) for placebo versus 22 % (42/191) for lamivudine; p=0.057). The incidence of YMDD mutant HBV was similar to that observed in adults, ranging from 19 % at week 52 up to 45 % in patients treated continuously for 24 months.
+Lamivudine has been administered to children and adolescents with compensated CHB in a placebo-controlled study of 286 patients aged 2 to 17 years. This population primarily consisted of children with minimal hepatitis B. A dose of 3 mg/kg once daily (up to a maximum of 100 mg daily) was used in children aged 2 to 11 years and a dose of 100 mg once daily in adolescents aged 12 years and above. This dose needs to be further substantiated. The difference in the HBeAg seroconversion rates (HBeAg and HBV DNA loss with HBeAb detection) between placebo and lamivudine was not statistically significant in this population (rates after one year were 13 % (12/95) for placebo versus 22 % (42/191) for lamivudine; p = 0.057). The incidence of YMDD mutant HBV was similar to that observed in adults, ranging from 19 % at week 52 up to 45 % in patients treated continuously for 24 months.
 
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
-Lamivudine is well absorbed from the gastrointestinal tract, and the bioavailability of oral lamivudine in adults is normally between 80 and 85 %. Following oral administration, the mean time (Tmax) to maximal serum concentrations (Cmax) is about an hour. At therapeutic dose levels i.e. 100 mg once daily, Cmax is in the order of 1.1-1.5 µg/ml and trough levels were 0.015-0.020 µg/ml.
+Lamivudine is well absorbed from the gastrointestinal tract, and the bioavailability of oral lamivudine in adults is normally between 80 and 85 %. Following oral administration, the mean time (Tmax) to maximal serum concentrations (Cmax) is about an hour. At therapeutic dose levels i.e.
+
+<div style=\"page-break-after: always\"></div>
+
+100 mg once daily, Cmax is in the order of 1.1-1.5 µg/ml and trough levels were 0.015-0.020 µg/ml.
 
 Co-administration of lamivudine with food resulted in a delay of Tmax and a lower Cmax (decreased by up to 47 %). However, the extent (based on the AUC) of lamivudine absorbed was not influenced, therefore lamivudine can be administered with or without food.
 
@@ -439,8 +436,6 @@ Lamivudine is predominately cleared by renal excretion of unchanged substance. T
 
 The mean systemic clearance of lamivudine is approximately 0.3 l/h/kg. The observed half-life of elimination is 18 to 19 hours. The majority of lamivudine is excreted unchanged in the urine via glomerular filtration and active secretion (organic cationic transport system). Renal clearance accounts for about 70 % of lamivudine elimination.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Special populations
 
 Studies in patients with renal impairment show lamivudine elimination is affected by renal dysfunction. Dose reduction in patients with a creatinine clearance of &lt; 50 ml/min is necessary (see section 4.2).
@@ -453,11 +448,13 @@ In elderly patients the pharmacokinetic profile of lamivudine suggests that norm
 
 Administration of lamivudine in animal toxicity studies at high doses was not associated with any major organ toxicity. At the highest dosage levels, minor effects on indicators of liver and kidney function were seen together with occasional reduction in liver weights. Reduction of erythrocytes and neutrophil counts were identified as the effects most likely to be of clinical relevance. These events were seen infrequently in clinical studies.
 
-Lamivudine was not mutagenic in bacterial tests but, like many nucleoside analogues showed activity in an in vitro cytogenetic assay and the mouse lymphoma assay. Lamivudine was not genotoxic in vivo at doses that gave plasma concentrations around 60-70 times higher than the anticipated clinical plasma levels. As the in vitro mutagenic activity of lamivudine could not be confirmed by in vivo tests, it is concluded that lamivudine should not represent a genotoxic hazard to patients undergoing treatment.
+Lamivudine was not mutagenic in bacterial tests but, like many nucleoside analogues showed activity in an in vitro cytogenetic assay and the mouse lymphoma assay. Lamivudine was not genotoxic in vivo at doses that gave plasma concentrations around 60 -70 times higher than the anticipated clinical plasma levels. As the in vitro mutagenic activity of lamivudine could not be confirmed by in vivo tests, it is concluded that lamivudine should not represent a genotoxic hazard to patients undergoing treatment.
+
+<div style=\"page-break-after: always\"></div>
 
 Reproductive studies in animals have not shown evidence of teratogenicity and showed no effect on male or female fertility. Lamivudine induces early embryolethality when administered to pregnant rabbits at exposure levels comparable to those achieved in man, but not in the rat even at very high systemic exposures.
 
-The results of long term carcinogenicity studies with lamivudine in rats and mice did not shown any carcinogenic potential.
+The results of long-term carcinogenicity studies with lamivudine in rats and mice did not show any carcinogenic potential.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -469,9 +466,7 @@ Tablet film coat Hypromellose Titanium dioxide Macrogol 400 Polysorbate 80 Synth
 
 ## 6.2 Incompatibilities
 
-Not applicable
-
-<div style=\"page-break-after: always\"></div>
+Not applicable.
 
 ## 6.3 Shelf life
 
@@ -479,7 +474,7 @@ Not applicable
 
 ## 6.4 Special precautions for storage
 
-Do not store above 30ºC.
+Do not store above 30 °C.
 
 ## 6.5 Nature and contents of container
 
@@ -495,9 +490,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline Trading Services Limited
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24
 
-12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
+<div style=\"page-break-after: always\"></div>
+
+Ireland
+
+D24 YK11
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
@@ -513,35 +512,33 @@ Date of latest renewal: 23 June 2014
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
-
-15
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Zeffix 5 mg/ml oral solution
+Zeffix 5 mg/ml oral solution.
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each ml of the oral solution contains 5 mg lamivudine
+Each ml of the oral solution contains 5 mg lamivudine.
 
 ## Excipients with known effect
 
 Each 20 ml dose contains:
 
 - -4 g of sucrose
-- -30 mg of methyl parahydroxybenzoate (E218)
-- -3.6 mg of propyl parahydroxybenzoate (E216)
-- -400 mg of propylene glycol (E1520)
+- -30 mg of methyl parahydroxybenzoate (E 218)
+- -3.6 mg of propyl parahydroxybenzoate (E 216)
+- -400 mg of propylene glycol (E 1520)
 - -58.8 mg of sodium
 
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Oral solution
+Oral solution.
 
 Clear, colourless to pale yellow in colour.
 
@@ -570,7 +567,7 @@ In patients with decompensated liver disease, lamivudine should always be used i
 
 ## Duration of treatment
 
-he optimal duration of treatment is unknown.
+The optimal duration of treatment is unknown.
 
 - In patients with HBeAg positive chronic hepatitis B (CHB) without cirrhosis, treatment should be administered for at least 6-12 months after HBeAg seroconversion (HBeAg and HBV DNA loss with HBeAb detection) is confirmed, to limit the risk of virological relapse, or until HBsAg seroconversion or there is loss of efficacy (see section 4.4). Serum ALT and HBV DNA levels should be followed regularly after treatment discontinuation to detect any late virological relapse.
 - In patients with HBeAg negative CHB (pre-core mutant), without cirrhosis, treatment should be administered at least until HBs seroconversion or there is evidence of loss of efficacy. With prolonged treatment, regular reassessment is recommended to confirm that continuation of the selected therapy remains appropriate for the patient.
@@ -597,7 +594,7 @@ Table 1: Dosage of Zeffix in patients with decreased renal clearance.
 | 7 ml (35 mg)                  | 3 ml (15 mg)                         | 5 to < 15                     |
 | < 5                           | 7 ml (35 mg) 2 ml (10 mg)            |                               |
 
-Data available in patients undergoing intermittent haemodialysis (for less than or equal to 4 hrs dialysis 2-3 times weekly), indicate that following the initial dosage reduction of lamivudine to correct for the patient's creatinine clearance, no further dosage adjustments are required while undergoing dialysis.
+Data available in patients undergoing intermittent haemodialysis (for less than or equal to 4 hours dialysis 2-3 times weekly), indicate that following the initial dosage reduction of lamivudine to correct for the patient's creatinine clearance, no further dosage adjustments are required while undergoing dialysis.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -639,11 +636,9 @@ HBV viral subpopulations with reduced susceptibility to lamivudine (YMDD mutant 
 
 ## Exacerbations after treatment discontinuation
 
-Acute exacerbation of hepatitis has been observed in patients who have discontinued hepatitis B therapy and is usually detected by serum ALT elevations and re-emergence of HBV DNA. In the controlled Phase III trials with no-active-treatment follow-up, the incidence of post-treatment ALT elevations (more than 3 times baseline) was higher in lamivudine-treated patients (21%) compared with those receiving placebo (8%). However, the proportion of patients who had post-treatment elevations associated with bilirubin elevations was low and similar in both treatment arms (see Table 3 in section 5.1). For lamivudine-treated patients, the majority of post-treatment ALT elevations occurred between 8 and 12 weeks post-treatment. Most events have been self-limiting, however some fatalities have been observed. If Zeffix is discontinued , patients should be periodically monitored both
+Acute exacerbation of hepatitis has been observed in patients who have discontinued hepatitis B therapy and is usually detected by serum ALT elevations and re-emergence of HBV DNA. In the controlled Phase III trials with no-active-treatment follow-up, the incidence of post-treatment ALT elevations (more than 3 times baseline) was higher in lamivudine-treated patients (21 %) compared with those receiving placebo (8 %). However, the proportion of patients who had post-treatment elevations associated with bilirubin elevations was low and similar in both treatment arms (see Table 3 in section 5.1). For lamivudine-treated patients, the majority of post-treatment ALT elevations occurred between 8 and 12 weeks post-treatment. Most events have been self-limiting, however some fatalities have been observed. If Zeffix is discontinued, patients should be periodically monitored both clinically and by assessment of serum liver function tests (ALT and bilirubin levels), for at least four months, and then as clinically indicated.
 
 <div style=\"page-break-after: always\"></div>
-
-clinically and by assessment of serum liver function tests (ALT and bilirubin levels), for at least four months, and then as clinically indicated.
 
 ## Exacerbations in patients with decompensated cirrhosis
 
@@ -655,7 +650,7 @@ For patients who develop evidence of recurrent hepatitis post-treatment, there a
 
 Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage. There have been reports of mitochondrial dysfunction in infants exposed in utero and/or post-natally to nucleoside analogues. The main adverse events reported are haematological disorders (anaemia, neutropenia), metabolic disorders (hyperlipasemia). Some late-onset neurological disorders have been reported (hypertonia, convulsion, abnormal behaviour). The neurological disorders might be transient or permanent. Any child exposed in utero to nucleoside and nucleotide analogues, should have clinical and laboratory follow-up and should be fully investigated for possible mitochondrial dysfunction in cases which have relevant signs or symptoms.
 
-## Paediatric patients
+## Paediatric population
 
 Lamivudine has been administered to children (2 years and above) and adolescents with compensated chronic hepatitis B. However, due to limitations of the data, the administration of lamivudine to this patient population is not currently recommended (see section 5.1).
 
@@ -669,7 +664,7 @@ Data are limited on the use of lamivudine in HBeAg negative (pre-core mutant) pa
 
 ## Monitoring
 
-During treatment with Zeffix patients should be monitored regularly. Serum ALT and HBV DNA levels should be monitored at 3 month intervals and in HBeAg positive patients HBeAg should be assessed every 6 months.
+During treatment with Zeffix patients should be monitored regularly. Serum ALT and HBV DNA levels should be monitored at 3-month intervals and in HBeAg positive patients HBeAg should be assessed every 6 months.
 
 ## HIV co-infection
 
@@ -697,15 +692,19 @@ The combination of lamivudine with cladribine is not recommended (see section 4.
 
 ## Sucrose
 
-Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine. Diabetic patients should be advised that each dose of oral solution (100 mg = 20 ml) contains 4 g of sucrose.
+Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicinal product. Sucrose may be harmful to the teeth. Diabetic patients should be advised that each dose of oral solution (100 mg = 20 ml) contains 4 g of sucrose.
 
 ## Propyl parahydroxybenzoate and methyl parahydroxybenzoate
 
-The oral solution contains propyl and methyl parahydroxybenzoate. These products may cause allergic reactions (possibly delayed).
+The oral solution contains propyl and methyl parahydroxybenzoates. These preservatives may cause allergic reactions (possibly delayed).
+
+## Propylene glycol
+
+This medicinal product contains 400 mg propylene glycol in each 20 ml.
 
 ## Sodium
 
-This medicinal product contains 58.8 mg sodium per 20 ml, equivalent to 2.9% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+This medicinal product contains 58.8 mg sodium per 20 ml, equivalent to 2.9 % of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -715,9 +714,9 @@ The likelihood of metabolic interactions is low due to limited metabolism and pl
 
 Lamivudine is predominantly eliminated by active organic cationic secretion. The possibility of interactions with other medicinal products administered concurrently should be considered, particularly when their main route of elimination is active renal secretion via the organic cationic transport system e.g. trimethoprim. Other medicinal products (e.g. ranitidine, cimetidine) are eliminated only in part by this mechanism and were shown not to interact with lamivudine.
 
-Substances shown to be predominately excreted either via the active organic anionic pathway, or by glomerular filtration are unlikely to yield clinically significant interactions with lamivudine.
-
 <div style=\"page-break-after: always\"></div>
+
+Substances shown to be predominately excreted either via the active organic anionic pathway, or by glomerular filtration are unlikely to yield clinically significant interactions with lamivudine.
 
 Administration of trimethoprim/sulphamethoxazole 160 mg/800 mg increased lamivudine exposure by about 40 %. Lamivudine had no effect on the pharmacokinetics of trimethoprim or sulphamethoxazole. However, unless the patient has renal impairment, no dosage adjustment of lamivudine is necessary.
 
@@ -735,7 +734,7 @@ In vitro lamivudine inhibits the intracellular phosphorylation of cladribine lea
 
 ## Sorbitol
 
-Co-administration of sorbitol solution (3.2 g, 10.2 g, 13.4 g) with a single 300 mg dose (Adult HIV daily dose) of lamivudine oral solution resulted in dose-dependent decreases of 14%, 32%, and 36% in lamivudine exposure (AUC  ) and 28%, 52%, and 55% in the Cmax of lamivudine in adults. When possible, avoid chronic co-administration of Zeffix with medicinal products containing sorbitol or other osmotic acting poly-alcohols or monosaccharide alcohols (e.g. xylitol, mannitol, lactitol, maltitol). Consider more frequent monitoring of HBV viral load when chronic co-administration cannot be avoided.
+Co-administration of sorbitol solution (3.2 g, 10.2 g, 13.4 g) with a single 300 mg dose (adult HIV daily dose) of lamivudine oral solution resulted in dose-dependent decreases of 14 %, 32 %, and 36 % in lamivudine exposure (AUC  ) and 28 %, 52 %, and 55 % in the Cmax of lamivudine in adults. When possible, avoid chronic co-administration of Zeffix with medicinal products containing sorbitol or other osmotic acting poly-alcohols or monosaccharide alcohols (e.g. xylitol, mannitol, lactitol, maltitol). Consider more frequent monitoring of HBV viral load when chronic co-administration cannot be avoided.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -743,7 +742,7 @@ Co-administration of sorbitol solution (3.2 g, 10.2 g, 13.4 g) with a single 300
 
 Animal studies with lamivudine showed an increase in early embryonic deaths in rabbits but not in rats (see section 5.3). Placental transfer of lamivudine has been shown to occur in humans.
 
-Available human data from the Antiretroviral Pregnancy Registry reporting more than 1000 outcomes from first trimester and more than 1000 outcomes from second and third trimester exposure in pregnant women indicate no malformative and foeto/neonatal effect. Less than 1% of these women have been treated for HBV, whereas the majority was treated for HIV at higher doses and with other concomitant medications. Zeffix can be used during pregnancy if clinically needed.
+Available human data from the Antiretroviral Pregnancy Registry reporting more than 1 000 outcomes from first trimester and more than 1 000 outcomes from second and third trimester exposure in pregnant women indicate no malformative and foeto/neonatal effect. Less than 1 % of these women have been treated for HBV, whereas the majority was treated for HIV at higher doses and with other concomitant medications. Zeffix can be used during pregnancy if clinically needed.
 
 For patients who are being treated with lamivudine and subsequently become pregnant consideration should be given to the possibility of a recurrence of hepatitis on discontinuation of lamivudine.
 
@@ -751,7 +750,7 @@ For patients who are being treated with lamivudine and subsequently become pregn
 
 ## Breast-feeding
 
-Based on more than 200 mother/child pairs treated for HIV, serum concentrations of lamivudine in breastfed infants of mothers treated for HIV are very low (less than 4% of maternal serum concentrations) and progressively decrease to undetectable levels when breastfed infants reach 24 weeks of age. The total amount of lamivudine ingested by a breastfed infant is very low and is therefore likely to result in exposures exerting a sub-optimal antiviral effect. Maternal hepatitis B is not a contraindication to breast-feeding if the newborn is adequately managed for hepatitis B prevention at birth, and there is no evidence that the low concentration of lamivudine in human milk leads to adverse reactions in breastfed infants. Therefore breastfeeding may be considered in breast-feeding mothers being treated with lamivudine for HBV taking into account the benefit of breast feeding for the child and the benefit of therapy for the woman. Where there is maternal transmission of HBV, despite adequate prophylaxis, consideration should be given to discontinuing breastfeeding to reduce the risk of the emergence of lamivudine resistant mutants in the infant.
+Based on more than 200 mother/child pairs treated for HIV, serum concentrations of lamivudine in breastfed infants of mothers treated for HIV are very low (less than 4 % of maternal serum concentrations) and progressively decrease to undetectable levels when breastfed infants reach 24 weeks of age. The total amount of lamivudine ingested by a breastfed infant is very low and is therefore likely to result in exposures exerting a sub-optimal antiviral effect. Maternal hepatitis B is not a contraindication to breast-feeding if the newborn is adequately managed for hepatitis B prevention at birth, and there is no evidence that the low concentration of lamivudine in human milk leads to adverse reactions in breastfed infants. Therefore, breastfeeding may be considered in breast-feeding mothers being treated with lamivudine for HBV taking into account the benefit of breast feeding for the child and the benefit of therapy for the woman. Where there is maternal transmission of HBV, despite adequate prophylaxis, consideration should be given to discontinuing breastfeeding to reduce the risk of the emergence of lamivudine resistant mutants in the infant.
 
 ## Fertility
 
@@ -773,9 +772,9 @@ The incidence of adverse reactions and laboratory abnormalities (with the except
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions are listed below by system organ class and frequency. Frequency categories are only assigned to those adverse reactions considered to be at least possibly causally related to lamivudine. Frequencies are defined as: very common (  1/10), common (  1/100 to &lt; 1/10), uncommon (  1/1000 to &lt; 1/100), rare (  1/10,000 to &lt; 1/1000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data).
+Adverse reactions are listed below by system organ class and frequency. Frequency categories are only assigned to those adverse reactions considered to be at least possibly causally related to lamivudine. Frequencies are defined as: very common (  1/10), common (  1/100 to &lt; 1/10), uncommon (  1/1 000 to &lt; 1/100), rare (  1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data).
 
-The frequency categories assigned to the adverse reactions are mainly based on experience from clinical trials including a total of 1,171 patients with chronic hepatitis B receiving lamivudine at 100 mg.
+The frequency categories assigned to the adverse reactions are mainly based on experience from clinical trials including a total of 1 171 patients with chronic hepatitis B receiving lamivudine at 100 mg.
 
 | Blood and lymphatic system disorders   | Blood and lymphatic system disorders   |
 |----------------------------------------|----------------------------------------|
@@ -785,20 +784,18 @@ The frequency categories assigned to the adverse reactions are mainly based on e
 
 <div style=\"page-break-after: always\"></div>
 
-| Immune system disorders :                                                                                                                                                                                                                               | Immune system disorders :                                                                                                                                                                                                                               |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Rare                                                                                                                                                                                                                                                    | Angioedema                                                                                                                                                                                                                                              |
-| Hepatobiliary disorders                                                                                                                                                                                                                                 | Hepatobiliary disorders                                                                                                                                                                                                                                 |
-| Very common                                                                                                                                                                                                                                             | ALT elevations (see section 4.4)                                                                                                                                                                                                                        |
-| Exacerbations of hepatitis, primarily detected by serum ALT elevations, have been reported 'on-treatment' and following lamivudine withdrawal. Most events have been self-limited, however fatalities have been observed very rarely (see section 4.4). | Exacerbations of hepatitis, primarily detected by serum ALT elevations, have been reported 'on-treatment' and following lamivudine withdrawal. Most events have been self-limited, however fatalities have been observed very rarely (see section 4.4). |
-| Skin and subcutaneous tissue disorders                                                                                                                                                                                                                  | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                  |
-| Common                                                                                                                                                                                                                                                  | Rash, pruritus                                                                                                                                                                                                                                          |
-| Musculoskeletal and connective tissue disorders                                                                                                                                                                                                         | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                         |
-| Common                                                                                                                                                                                                                                                  | Elevations of CPK                                                                                                                                                                                                                                       |
-| Common                                                                                                                                                                                                                                                  | Muscle disorders, including myalgia and cramps*                                                                                                                                                                                                         |
-| Not known                                                                                                                                                                                                                                               | Rhabdomyolysis                                                                                                                                                                                                                                          |
-
-* In Phase III studies frequency observed in the lamivudine treatment group was not greater than observed in the placebo group
+| Immune system disorders                                                                                                                                                                                                                                    | Immune system disorders                                                                                                                                                                                                                                    |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Rare                                                                                                                                                                                                                                                       | Angioedema                                                                                                                                                                                                                                                 |
+| Hepatobiliary disorders                                                                                                                                                                                                                                    | Hepatobiliary disorders                                                                                                                                                                                                                                    |
+| Very common                                                                                                                                                                                                                                                | ALT elevations (see section 4.4)                                                                                                                                                                                                                           |
+| Exacerbations of hepatitis, primarily detected by serum ALT elevations, have been reported 'on - treatment' and following lamivudine withdrawal. Most events have been self -limited, however fatalities have been observed very rarely (see section 4.4). | Exacerbations of hepatitis, primarily detected by serum ALT elevations, have been reported 'on - treatment' and following lamivudine withdrawal. Most events have been self -limited, however fatalities have been observed very rarely (see section 4.4). |
+| Skin and subcutaneous tissue disorders                                                                                                                                                                                                                     | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                     |
+| Common                                                                                                                                                                                                                                                     | Rash, pruritus                                                                                                                                                                                                                                             |
+| Musculoskeletal and connective tissue disorders                                                                                                                                                                                                            | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                            |
+| Common                                                                                                                                                                                                                                                     | Elevations of CPK                                                                                                                                                                                                                                          |
+| Common                                                                                                                                                                                                                                                     | Muscle disorders, including myalgia and cramps*                                                                                                                                                                                                            |
+| Not known                                                                                                                                                                                                                                                  | Rhabdomyolysis                                                                                                                                                                                                                                             |
 
 ## Paediatric population
 
@@ -806,7 +803,7 @@ Based on limited data in children aged 2 to 17 years, there were no new safety i
 
 ## Other special populations
 
-In patients with HIV infection, cases of pancreatitis and peripheral neuropathy (or paresthesia) have been reported. In patients with chronic hepatitis B there was no observed difference in incidence of these events between placebo and lamivudine treated patients.
+In patients with HIV infection, cases of pancreatitis and peripheral neuropathy (or paraesthesia) have been reported. In patients with chronic hepatitis B there was no observed difference in incidence of these events between placebo and lamivudine treated patients.
 
 ## Reporting of suspected adverse reactions
 
@@ -822,7 +819,7 @@ If overdose occurs the patient should be monitored, and standard supportive trea
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group - Antivirals for systemic use, nucleoside and nucleotide reverse transcriptase inhibitors, ATC Code: J05AF05.
+Pharmacotherapeutic group: Antivirals for systemic use, nucleoside and nucleotide reverse transcriptase inhibitors, ATC code: J05AF05
 
 ## Mechanism of action
 
@@ -842,11 +839,11 @@ In assays relating to potential substance effects on mitochondrial structure and
 
 ## Experience in patients with HBeAg positive CHB and compensated liver disease
 
-In controlled studies, 1 year of lamivudine therapy significantly suppressed HBV DNA replication (34-57 % of patients were below the assay detection limits (Abbott Genostics solution hybridization assay, LLOD &lt; 1.6pg/ml)], normalised ALT level (40-72 % of patients), induced HBeAg seroconversion (HBeAg loss and HBeAb detection with HBV DNA loss [by conventional assay], 16-18 % of patients), improved histology (38-52 % of patients had a  2 point decrease in the Knodell Histologic Activity Index [HAI]) and reduced progression of fibrosis (in 3-17 % of patients) and progression to cirrhosis.
+In controlled studies, 1 year of lamivudine therapy significantly suppressed HBV DNA replication (34-57 % of patients were below the assay detection limits (Abbott Genostics solution hybridization assay, LLOD &lt; 1.6 pg/ml)], normalised ALT level (40-72 % of patients), induced HBeAg seroconversion (HBeAg loss and HBeAb detection with HBV DNA loss [by conventional assay], 16-18 % of patients), improved histology (38-52 % of patients had a  2 point decrease in the Knodell Histologic Activity Index [HAI]) and reduced progression of fibrosis (in 3-17 % of patients) and progression to cirrhosis.
 
-Continued lamivudine treatment for an additional 2 years in patients who had failed to achieve HBeAg seroconversion in the initial 1 year controlled studies resulted in further improvement in bridging fibrosis. In patients with YMDD mutant HBV, 41/82 (50 %) patients had improvement in liver inflammation and 40/56 (71 %) patients without YMDD mutant HBV had improvement. Improvement in bridging fibrosis occurred in 19/30 (63 %) patients without YMDD mutant and 22/44 (50 %) patients with the mutant. Five percent (3/56) of patients without the YMDD mutant and 13 % (11/82) of patients with YMDD mutant showed worsening in liver inflammation compared to pre-treatment. Progression to cirrhosis occurred in 4/68 (6 %) patients with the YMDD mutant, whereas no patients without the mutant progressed to cirrhosis.
+Continued lamivudine treatment for an additional 2 years in patients who had failed to achieve HBeAg seroconversion in the initial 1-year controlled studies resulted in further improvement in bridging fibrosis. In patients with YMDD mutant HBV, 41/82 (50 %) patients had improvement in liver inflammation and 40/56 (71 %) patients without YMDD mutant HBV had improvement. Improvement in bridging fibrosis occurred in 19/30 (63 %) patients without YMDD mutant and 22/44 (50 %) patients with the mutant. Five percent (3/56) of patients without the YMDD mutant and 13 % (11/82) of patients with YMDD mutant showed worsening in liver inflammation compared to pre-treatment. Progression to cirrhosis occurred in 4/68 (6 %) patients with the YMDD mutant, whereas no patients without the mutant progressed to cirrhosis.
 
-In an extended treatment study in Asian patients (NUCB3018) the HBeAg seroconversion rate and ALT normalisation rate at the end of the 5 year treatment period was 48 % (28/58) and 47 % (15/32), respectively. HBeAg seroconversion was increased in patients with elevated ALT levels; 77 % (20/26) of patients with pre-treatment ALT &gt; 2 x ULN seroconverted. At the end of 5 years, all patients had HBV DNA levels that were undetectable or lower than pre-treatment levels.
+In an extended treatment study in Asian patients (NUCB3018) the HBeAg seroconversion rate and ALT normalisation rate at the end of the 5-year treatment period was 48 % (28/58) and 47 % (15/32), respectively. HBeAg seroconversion was increased in patients with elevated ALT levels; 77 % (20/26) of patients with pre-treatment ALT &gt; 2 x ULN seroconverted. At the end of 5 years, all patients had HBV DNA levels that were undetectable or lower than pre-treatment levels.
 
 Further results from the trial by YMDD mutant status are summarised in Table 2.
 
@@ -854,32 +851,37 @@ Further results from the trial by YMDD mutant status are summarised in Table 2.
 
 Table 2: Efficacy results 5 years by YMDD status (Asian Study) NUCB3018
 
-|                                                 | Subjects, %(no.)   | Subjects, %(no.)   | Subjects, %(no.)   |
-|-------------------------------------------------|--------------------|--------------------|--------------------|
-| YMDD mutant HBV status                          | YMDD 1             | YMDD 1             | Non-YMDD 1         |
-| HBeAg seroconversion                            |                    |                    |                    |
-| - All patients                                  | 38                 | (15/40) 72         | (13/18)            |
-| - Baseline ALT  1 x ULN 2                      | 9                  | (1/11)             | (2/6)              |
-| - Baseline ALT > 2 x ULN                        | 60                 | (9/15) 33 100      | (11/11)            |
-| Undetectable HBV DNA                            |                    |                    |                    |
-| - Baseline 3                                    | 5                  | (2/40) 6           | (1/18)             |
-| - Week 260 4 negative                           | 8                  | (2/25) 0 100       | (4/4)              |
-| positive < baseline positive > baseline         | 92 0               | (23/25) 0          |                    |
-| ALT normalisation                               |                    |                    |                    |
-| - Baseline normal                               | 28                 | (11/40) 33         | (6/18)             |
-| above normal                                    | 73                 | (29/40) 67         | (12/18)            |
-| - Week 260 normal                               | 46                 | (13/28) 50         | (2/4)              |
-| above normal < baseline above normal > baseline | 21 32              | (6/28) (9/28) 0 50 | (2/4)              |
+|                            | Subjects, % (no.)   | Subjects, % (no.)   | Subjects, % (no.)   |
+|----------------------------|---------------------|---------------------|---------------------|
+| YMDD mutant HBV status     | YMDD 1              | YMDD 1              | Non-YMDD 1          |
+| HBeAg seroconversion       |                     |                     |                     |
+| - All patients             | 38 (15/40)          | 72                  | (13/18)             |
+| - Baseline ALT  1 x ULN 2 | 9 (1/11)            | 33                  | (2/6)               |
+| - Baseline ALT > 2 x ULN   | 60 (9/15)           | 100                 | (11/11)             |
+| Undetectable HBV DNA       |                     |                     |                     |
+| - Baseline 3               | 5 (2/40)            | 6                   | (1/18)              |
+| - Week 260 4               |                     |                     |                     |
+| negative                   | 8 (2/25)            | 0                   |                     |
+| positive < baseline        | 92                  | (23/25)             | (4/4)               |
+| positive > baseline        | 0                   | 100 0               |                     |
+| ALT normalisation          |                     |                     |                     |
+| - Baseline                 |                     |                     |                     |
+| normal                     | 28 (11/40)          | 33                  | (6/18)              |
+| above normal               | 73 (29/40)          | 67                  | (12/18)             |
+| - Week 260                 |                     |                     |                     |
+| normal                     | 46 (13/28)          | 50                  | (2/4)               |
+| above normal < baseline    | 21 (6/28)           | 0                   |                     |
+| above normal > baseline    | 32 (9/28)           | 50                  | (2/4)               |
 
-1 Patients designated as YMDD mutant were those with  5% YMDD mutant HBV at any annual time-point during the 5-year period. Patients categorised as non-YMDD mutant were those with &gt; 95% wild-type HBV at all annual time-points during the 5-year study period
+1 Patients designated as YMDD mutant were those with  5 % YMDD mutant HBV at any annual time-point during the 5-year period. Patients categorised as non-YMDD mutant were those with &gt; 95 % wild-type HBV at all annual time-points during the 5-year study period
 
-2 Upper limit of normal
+- 2 Upper limit of normal
 
-3 Abbott Genostics solution hybridisation assay (LLOD &lt; 1.6 pg/ml
+3 Abbott Genostics solution hybridisation assay (LLOD &lt; 1.6 pg/ml)
 
-4 Chiron Quantiplex assay (LLOD 0.7 Meq/ml)
+- 4 Chiron Quantiplex assay (LLOD 0.7 MEq/ml)
 
-Comparative data according to YMDD status were also available for histological assessment but only up to three years. In patients with YMDD mutant HBV, 18/39 (46 %) had improvements in necroinflammatory activity and 9/39 (23 %) had worsening. In patients without the mutant, 20/27 (74 %) had improvements in necroinflammatory activity and 2/27 (7 %) had worsening.
+Comparative data according to YMDD status were also available for histological assessment but only up to 3 years. In patients with YMDD mutant HBV, 18/39 (46 %) had improvements in necroinflammatory activity and 9/39 (23 %) had worsening. In patients without the mutant, 20/27 (74 %) had improvements in necroinflammatory activity and 2/27 (7 %) had worsening.
 
 Following HBeAg seroconversion, serologic response and clinical remission are generally durable after stopping lamivudine. However, relapse following seroconversion can occur. In a long-term follow-up study of patients who had previously seroconverted and discontinued lamivudine, late virological relapse occurred in 39 % of the subjects. Therefore, following HBeAg seroconversion, patients should be periodically monitored to determine that serologic and clinical responses are being maintained. In patients who do not maintain a sustained serological response, consideration should be given to retreatment with either lamivudine or an alternative antiviral agent for resumption of clinical control of HBV.
 
@@ -889,35 +891,37 @@ In patients followed for up to 16 weeks after discontinuation of treatment at on
 
 Table 3: Post-treatment ALT Elevations in 2 Placebo-Controlled Studies in Adults
 
-|                                                                            | Patients with ALT Elevation/ Patients with Observations*   | Patients with ALT Elevation/ Patients with Observations*   |
-|----------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
-| Abnormal Value                                                             | Lamivudine                                                 | Placebo                                                    |
-| ALT  2 x baseline value                                                   | 37/137 (27 %)                                              | 22/116 (19 %)                                              |
-| ALT  3 x baseline value †                                                 | 29/137 (21 %)                                              | 9/116 (8 %)                                                |
-| ALT  2 x baseline value and absolute ALT > 500 IU/l                       | 21/137 (15 %)                                              | 8/116 (7 %)                                                |
-| ALT  2 x baseline value; and bilirubin > 2 x ULN and  2 x baseline value | 1/137 (0.7 %)                                              | 1/116 (0.9 %)                                              |
+|                                                                            | Patients with ALT Elevation/ Patients with Observations 1   | Patients with ALT Elevation/ Patients with Observations 1   |
+|----------------------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
+| Abnormal Value                                                             | Lamivudine                                                  | Placebo                                                     |
+| ALT  2 x baseline value                                                   | 37/137 (27 %)                                               | 22/116 (19 %)                                               |
+| ALT  3 x baseline value 2                                                 | 29/137 (21 %)                                               | 9/116 (8 %)                                                 |
+| ALT  2 x baseline value and absolute ALT > 500 IU/l                       | 21/137 (15 %)                                               | 8/116 (7 %)                                                 |
+| ALT  2 x baseline value; and bilirubin > 2 x ULN and  2 x baseline value | 1/137 (0.7 %)                                               | 1/116 (0.9 %)                                               |
 
-*Each patient may be represented in one or more category.
+1 Each patient may be represented in one or more category.
 
-† Comparable to a Grade 3 toxicity in accordance with modified WHO criteria. ULN = Upper limit of normal.
+2 Comparable to a Grade 3 toxicity in accordance with modified WHO criteria.
+
+ULN = Upper limit of normal.
 
 ## Experience in patients with HBeAg negative CHB
 
-Initial data indicate the efficacy of lamivudine in patients with HBeAg negative CHB is similar to patients with HBeAg positive CHB, with 71 % of patients having HBV DNA suppressed below the detection limit of the assay, 67 % ALT normalisation and 38 % with improvement in HAI after one year of treatment. When lamivudine was discontinued, the majority of patients (70 %) had a return of viral replication. Data is available from an extended treatment study in HBeAg negative patients (NUCAB3017) treated with lamivudine. After two years of treatment in this study, ALT normalisation and undetectable HBV DNA occurred in 30/69 (43 %) and 32/68 (47 %) patients respectively and improvement in necroinflammatory score in 18/49 (37 %) patients. In patients without YMDD mutant HBV, 14/22 (64 %) showed improvement in necroinflammatory score and 1/22 (5 %) patients worsened compared to pre-treatment. In patients with the mutant, 4/26 (15%) patients showed improvement in necroinflammatory score and 8/26 (31 %) patients worsened compared to pre-treatment. No patients in either group progressed to cirrhosis.
+Initial data indicate the efficacy of lamivudine in patients with HBeAg negative CHB is similar to patients with HBeAg positive CHB, with 71 % of patients having HBV DNA suppressed below the detection limit of the assay, 67 % ALT normalisation and 38 % with improvement in HAI after one year of treatment. When lamivudine was discontinued, the majority of patients (70 %) had a return of viral replication. Data is available from an extended treatment study in HBeAg negative patients (NUCAB3017) treated with lamivudine. After 2 years of treatment in this study, ALT normalisation and undetectable HBV DNA occurred in 30/69 (43 %) and 32/68 (47 %) patients respectively and improvement in necroinflammatory score in 18/49 (37 %) patients. In patients without YMDD mutant HBV, 14/22 (64 %) showed improvement in necroinflammatory score and 1/22 (5 %) patients worsened compared to pre-treatment. In patients with the mutant, 4/26 (15 %) patients showed improvement in necroinflammatory score and 8/26 (31 %) patients worsened compared to pre-treatment. No patients in either group progressed to cirrhosis.
 
 ## Frequency of emergence of YMDD mutant HBV and impact on the treatment response
 
 Lamivudine monotherapy results in the selection of YMDD mutant HBV in approximately 24 % of patients following one year of therapy, increasing to 69 % following 5 years of therapy. Development of YMDD mutant HBV is associated with reduced treatment response in some patients, as evidenced by increased HBV DNA levels and ALT elevations from previous on-therapy levels, progression of signs and symptoms of hepatitis disease and/or worsening of hepatic necroinflammatory findings. Given the risk of YMDD mutant HBV, maintenance of lamivudine monotherapy is not appropriate in patients with detectable serum HBV DNA at or beyond 24 weeks of treatment (see section 4.4).
 
-In a double-blind study in CHB patients with YMDD mutant HBV and compensated liver disease (NUC20904), with a reduced virological and biochemical response to lamivudine (n=95), the addition of adefovir dipivoxil 10 mg once daily to ongoing lamivudine 100 mg for 52 weeks resulted in a median decrease in HBV DNA of 4.6 log10 copies/ml compared to a median increase of 0.3 log10 copies/ml in those patients receiving lamivudine monotherapy. Normalisation of ALT levels occurred in 31 % (14/45) of patients receiving combined therapy versus 6 % (3/47) receiving lamivudine alone. Viral suppression was maintained (follow-on study NUC20917) with combined therapy during the second year of treatment to week 104 with patients having continued improvement in virologic and biochemical responses.
+In a double-blind study in CHB patients with YMDD mutant HBV and compensated liver disease (NUC20904), with a reduced virological and biochemical response to lamivudine (n = 95), the addition of adefovir dipivoxil 10 mg once daily to ongoing lamivudine 100 mg for 52 weeks resulted in a median decrease in HBV DNA of 4.6 log10 copies/ml compared to a median increase of 0.3 log10 copies/ml in those patients receiving lamivudine monotherapy. Normalisation of ALT levels occurred in 31 % (14/45) of patients receiving combined therapy versus 6 % (3/47) receiving lamivudine alone. Viral suppression was maintained (follow-on study NUC20917) with combined therapy during the second year of treatment to week 104 with patients having continued improvement in virologic and biochemical responses.
 
-In a retrospective study to determine the factors associated with HBV DNA breakthrough, 159 Asian HBeAg-positive patients were treated with lamivudine and followed up for a median period of almost 30 months. Those with HBV DNA levels greater than 200 copies/mL at 6 months (24 weeks) of lamivudine therapy had a 60 % chance of developing the YMDD mutant compared with 8 % of those with HBV DNA levels less than 200 copies/mL at 24 weeks of lamivudine therapy. The risk for developing YMDD mutant was 63% versus 13% with a cut off of 1000 copies/ml (NUCB3009 and NUCB3018).
+In a retrospective study to determine the factors associated with HBV DNA breakthrough, 159 Asian HBeAg-positive patients were treated with lamivudine and followed up for a median period of almost 30 months. Those with HBV DNA levels greater than 200 copies/ml at 6 months (24 weeks) of lamivudine therapy had a 60 % chance of developing the YMDD mutant compared with 8 % of those with HBV DNA levels less than 200 copies/ml at 24 weeks of lamivudine therapy. The risk for developing YMDD mutant was 63 % versus 13 % with a cut-off of 1 000 copies/ml (NUCB3009 and NUCB3018).
 
 <div style=\"page-break-after: always\"></div>
 
 ## Experience in patients with decompensated liver disease
 
-Placebo controlled studies have been regarded as inappropriate in patients with decompensated liver disease, and have not been undertaken. In non-controlled studies, where lamivudine was administered prior to and during transplantation, effective HBV DNA suppression and ALT normalisation was demonstrated. When lamivudine therapy was continued post transplantation there was reduced graft re-infection by HBV, increased HBsAg loss and on one-year survival rate of 76 - 100 %.
+Placebo controlled studies have been regarded as inappropriate in patients with decompensated liver disease, and have not been undertaken. In non-controlled studies, where lamivudine was administered prior to and during transplantation, effective HBV DNA suppression and ALT normalisation was demonstrated. When lamivudine therapy was continued post transplantation there was reduced graft re-infection by HBV, increased HBsAg loss and on one-year survival rate of 76-100 %.
 
 As anticipated due to the concomitant immunosuppression, the rate of emergence of YMDD mutant HBV after 52 weeks treatment was higher (36 % - 64 %) in the liver transplant population than in the immunocompetent CHB patients (14 % - 32 %).
 
@@ -925,11 +929,11 @@ Forty patients (HBeAg negative or HBeAg positive) with either decompensated live
 
 ## Experience in CHB patients with advanced fibrosis or cirrhosis
 
-In a placebo-controlled study in 651 patients with clinically compensated chronic hepatitis B and histologically confirmed fibrosis or cirrhosis, lamivudine treatment (median duration 32 months) significantly reduced the rate of overall disease progression (34/436, 7.8 % for lamivudine versus 38/215, 17.7 % for placebo, p=0.001), demonstrated by a significant reduction in the proportion of patients having increased Child-Pugh scores (15/436, 3.4 % versus 19/215, 8.8 %, p=0.023) or developing hepatocellular carcinoma (17/436, 3.9 % versus 16/215, 7.4 %, p=0.047). The rate of overall disease progression in the lamivudine group was higher for subjects with detectable YMDD mutant HBV DNA (23/209, 11 %) compared to those without detectable YMDD mutant HBV (11/221, 5 %). However, disease progression in YMDD subjects in the lamivudine group was lower than the disease progression in the placebo group (23/209, 11 % versus 38/214, 18 % respectively). Confirmed HBeAg seroconversion occurred in 47 % (118/252) of subjects treated with lamivudine and 93 % (320/345) of subjects receiving lamivudine became HBV DNA negative (VERSANT [version 1], bDNA assay, LLOD &lt; 0.7 MEq/ml) during the study.
+In a placebo-controlled study in 651 patients with clinically compensated chronic hepatitis B and histologically confirmed fibrosis or cirrhosis, lamivudine treatment (median duration 32 months) significantly reduced the rate of overall disease progression (34/436, 7.8 % for lamivudine versus 38/215, 17.7 % for placebo, p = 0.001), demonstrated by a significant reduction in the proportion of patients having increased Child-Pugh scores (15/436, 3.4 % versus 19/215, 8.8 %, p = 0.023) or developing hepatocellular carcinoma (17/436, 3.9 % versus 16/215, 7.4%, p = 0.047). The rate of overall disease progression in the lamivudine group was higher for subjects with detectable YMDD mutant HBV DNA (23/209, 11 %) compared to those without detectable YMDD mutant HBV (11/221, 5 %). However, disease progression in YMDD subjects in the lamivudine group was lower than the disease progression in the placebo group (23/209, 11 % versus 38/214, 18 % respectively). Confirmed HBeAg seroconversion occurred in 47 % (118/252) of subjects treated with lamivudine and 93 % (320/345) of subjects receiving lamivudine became HBV DNA negative (VERSANT [version 1], bDNA assay, LLOD &lt; 0.7 MEq/ml) during the study.
 
-## Experience in children and adolescents
+## Paediatric population
 
-Lamivudine has been administered to children and adolescents with compensated CHB in a placebo controlled study of 286 patients aged 2 to 17 years. This population primarily consisted of children with minimal hepatitis B. A dose of 3 mg/kg once daily (up to a maximum of 100 mg daily) was used in children aged 2 to 11 years and a dose of 100 mg once daily in adolescents aged 12 years and above. This dose needs to be further substantiated. The difference in the HBeAg seroconversion rates (HBeAg and HBV DNA loss with HBeAb detection) between placebo and lamivudine was not statistically significant in this population (rates after one year were 13 % (12/95) for placebo versus 22 % (42/191) for lamivudine; p=0.057). The incidence of YMDD mutant HBV was similar to that observed in adults, ranging from 19 % at week 52 up to 45 % in patients treated continuously for 24 months.
+Lamivudine has been administered to children and adolescents with compensated CHB in a placebo-controlled study of 286 patients aged 2 to 17 years. This population primarily consisted of children with minimal hepatitis B. A dose of 3 mg/kg once daily (up to a maximum of 100 mg daily) was used in children aged 2 to 11 years and a dose of 100 mg once daily in adolescents aged 12 years and above. This dose needs to be further substantiated. The difference in the HBeAg seroconversion rates (HBeAg and HBV DNA loss with HBeAb detection) between placebo and lamivudine was not statistically significant in this population (rates after one year were 13 % (12/95) for placebo versus 22 % (42/191) for lamivudine; p = 0.057). The incidence of YMDD mutant HBV was similar to that observed in adults, ranging from 19 % at week 52 up to 45 % in patients treated continuously for 24 months.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -969,23 +973,23 @@ Administration of lamivudine in animal toxicity studies at high doses was not as
 
 Lamivudine was not mutagenic in bacterial tests but, like many nucleoside analogues showed activity in an in vitro cytogenetic assay and the mouse lymphoma assay. Lamivudine was not genotoxic in vivo at doses that gave plasma concentrations around 60-70 times higher than the anticipated clinical plasma levels. As the in vitro mutagenic activity of lamivudine could not be confirmed by in vivo tests, it is concluded that lamivudine should not represent a genotoxic hazard to patients undergoing treatment.
 
-Reproductive studies in animals have not shown evidence of teratogenicity and showed no effect on male or female fertility. Lamivudine induces early embryolethality when administered to pregnant
-
 <div style=\"page-break-after: always\"></div>
 
-rabbits at exposure levels comparable to those achieved in man, but not in the rat even at very high systemic exposures.
+Reproductive studies in animals have not shown evidence of teratogenicity and showed no effect on male or female fertility. Lamivudine induces early embryolethality when administered to pregnant rabbits at exposure levels comparable to those achieved in man, but not in the rat even at very high systemic exposures.
 
-The results of long term carcinogenicity studies with lamivudine in rats and mice did not shown any carcinogenic potential.
+The results of long-term carcinogenicity studies with lamivudine in rats and mice did not show any carcinogenic potential.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Sucrose (20 % w/v) Methyl parahydroxybenzoate (E218) Propyl parahydroxybenzoate (E216) Citric acid (anhydrous) Propylene glycol (E1520) Sodium citrate Artificial strawberry flavour Artificial banana flavour Purified water
+Sucrose Methyl parahydroxybenzoate (E 218) Propyl parahydroxybenzoate (E 216) Citric acid (anhydrous) Propylene glycol (E 1520) Sodium citrate Artificial strawberry flavour Artificial banana flavour Purified water
+
+Sodium hydroxide and/or hydrochloric acid for pH adjustment.
 
 ## 6.2 Incompatibilities
 
-Not applicable
+Not applicable.
 
 ## 6.3 Shelf life
 
@@ -995,7 +999,9 @@ After first opening: 1 month
 
 ## 6.4 Special precautions for storage
 
-Do not store above 25 ºC.
+Do not store above 25 °C.
+
+For storage condition after first opening of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
@@ -1025,20 +1031,20 @@ Date of latest renewal: 23 June 2014
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-- A. MANUFACTUR ER(S) RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTUR ER(S) RESPONSIBLE FOR BATCH RELEASE
+## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturers responsible for batch release
 
@@ -1060,7 +1066,7 @@ Medicinal product subject to restricted medical prescription (See Annex I: Summa
 
 ## · Periodic safety update reports (PSURs)
 
-The requirements for submission of PSURs for this medicinal products are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+The requirements for submission of PSURs for these medicinal products are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -1084,23 +1090,25 @@ Not applicable.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Zeffix 100 mg film-coated tablets lamivudine
+Zeffix 100 mg film-coated tablets
+
+lamivudine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each film-coated tablet contains 100 mg lamivudine
+Each film-coated tablet contains 100 mg lamivudine.
 
 3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 28 film-coated tablets
+28 film-coated tablets
 
 84 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
 Oral use
 
@@ -1116,7 +1124,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 30  C
+Do not store above 30 °C.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1140,13 +1148,13 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 zeffix 100 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1190,7 +1198,9 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Zeffix 5 mg/ml oral solution lamivudine
+Zeffix 5 mg/ml oral solution
+
+lamivudine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1198,19 +1208,17 @@ Each ml of the oral solution contains 5 mg lamivudine.
 
 ## 3. LIST OF EXCIPIENTS
 
-Contains amongst others:
-
-sugar (sucrose), sodium, propylene glycol (E1520), preservatives: methyl parahydroxybenzoate (E218) and propyl parahydroxybenzoate (E216)
+Contains sucrose, sodium, propylene glycol (E 1520), methyl parahydroxybenzoate (E 218) and propyl parahydroxybenzoate (E 216).
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Each bottle contains 240 ml oral solution
+Each bottle contains 240 ml oral solution.
 
 The pack contains an oral applicator.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
 Oral use
 
@@ -1224,17 +1232,19 @@ Keep out of the sight and reach of children.
 
 EXP
 
-Discard one month after first opening
+Discard one month after first opening.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 25  C
+Do not store above 25 °C.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
+GlaxoSmithKline Trading Services Limited
+
+12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1244,7 +1254,7 @@ EU/1/99/114/003
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1270,11 +1280,13 @@ NN:
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
-BOTTLE LABEL FOR ORAL SOLUTION
+## BOTTLE LABEL FOR ORAL SOLUTION
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Zeffix 5 mg/ml oral solution lamivudine
+Zeffix 5 mg/ml oral solution
+
+lamivudine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1282,17 +1294,15 @@ Each ml of the oral solution contains 5 mg lamivudine.
 
 ## 3. LIST OF EXCIPIENTS
 
-Contains amongst others:
-
-sugar (sucrose), sodium, propylene glycol (E1520), preservatives: methyl parahydroxybenzoate (E218) and propyl parahydroxybenzoate (E216)
+Contains sucrose, sodium, propylene glycol (E 1520), methyl parahydroxybenzoate (E 218) and propyl parahydroxybenzoate (E 216).
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Each bottle contains 240 ml oral solution
+Each bottle contains 240 ml oral solution.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use
+Read the package leaflet before use.
 
 Oral use
 
@@ -1310,11 +1320,11 @@ Discard one month after first opening
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 25  C
+Do not store above 25 °C.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1331,8 +1341,9 @@ Lot
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
-17. UNIQUE IDENTIFIER - 2D BARCODE
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+17. UNIQUE IDENTIFIER -2D BARCODE
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1344,14 +1355,14 @@ Lot
 
 ## Zeffix 100 mg film-coated tablets lamivudine
 
-## Read all of this leaflet carefully before you start taking this medicine.
+## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them even if their signs of illness are the same as yours.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
 - -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
-## What is in this leaflet:
+## What is in this leaflet
 
 1. What Zeffix is and what it is used for
 2. What you need to know before you take Zeffix
@@ -1378,7 +1389,7 @@ Your healthcare provider should offer you counselling and testing for HIV infect
 
 ## Do not take Zeffix
 
-- if you're allergic to lamivudine or to any of the other ingredients of this medicine (listed in Section 6) .
+- -if you 're allergic to lamivudine or to any of the other ingredients of this medicine (listed in section 6).
 - ➔ Check with your doctor if you think this applies to you.
 
 <div style=\"page-break-after: always\"></div>
@@ -1387,31 +1398,31 @@ Your healthcare provider should offer you counselling and testing for HIV infect
 
 Some people taking Zeffix or other similar medicines are more at risk of serious side effects. You need to be aware of the extra risks:
 
-- if you have ever had other types of liver disease , such as hepatitis C
-- if you're seriously overweight (especially if you're a woman).
-- ➔ Talk to your doctor if any of these apply to you . You may need extra check-ups, including blood tests, while you're taking your medication. See Section 4 for more information about the risks.
+- -if you have ever had other types of liver disease , such as hepatitis C
+- -if you're seriously overweight (especially if you're a woman).
+- ➔ Talk to your doctor if any of these apply to you . You may need extra check-ups, including blood tests, while you're taking your medication. See section 4 for more information about the risks.
 
-Don't stop taking Zeffix without your doctor's advice, as there is a risk of your hepatitis getting worse. When you stop taking Zeffix your doctor will monitor you for at least four months to check for any problems. This will mean taking blood samples to check for any raised liver enzyme levels, which may indicate liver damage. See section 3 for more information about how to take Zeffix.
+Do n't stop taking Zeffix without your doctor 's advice , as there is a risk of your hepatitis getting worse. When you stop taking Zeffix your doctor will monitor you for at least four months to check for any problems. This will mean taking blood samples to check for any raised liver enzyme levels, which may indicate liver damage. See section 3 for more information about how to take Zeffix.
 
 ## Protect other people
 
 Hepatitis B infection is spread by sexual contact with someone who has the infection, or by transfer of infected blood (for example, by sharing injection needles). Zeffix will not stop you passing hepatitis B infection on to other people. To protect other people from becoming infected with hepatitis B:
 
--  Use a condom when you have oral or penetrative sex.
--  Don't risk blood transfer - for example, don't share needles.
+- -Use a condom when you have oral or penetrative sex.
+- -Don't risk blood transfer -for example, don't share needles.
 
 ## Other medicines and Zeffix
 
-Tell your doctor or pharmacist if you're taking, have recently taken or might take any other medicines, including herbal medicines or other medicines you bought without a prescription.
+Tell your doctor or pharmacist if you're taking , have recently taken or might take any other medicines, including herbal medicines or other medicines you bought without a prescription.
 
 Remember to tell your doctor or pharmacist if you begin taking a new medicine while you're taking Zeffix.
 
 ## These medicines should not be used with Zeffix:
 
-- medicines (usually liquids) containing sorbitol and other sugar alcohols (such as xylitol, mannitol, lactitol or maltitol), if taken regularly
-- other medicines containing lamivudine, used to treat HIV infection (sometimes called the AIDS virus)
-- emtricitabine used to treat HIV or hepatitis B infection
-- cladribine, used to treat hairy cell leukaemia
+- -medicines (usually liquids) containing sorbitol and other sugar alcohols (such as xylitol, mannitol, lactitol or maltitol), if taken regularly
+- -other medicines containing lamivudine, used to treat HIV infection (sometimes called the AIDS virus)
+- -emtricitabine used to treat HIV or hepatitis B infection
+- -cladribine, used to treat hairy cell leukaemia
 - ➔ Tell your doctor if you're being treated with any of these.
 
 ## Pregnancy
@@ -1436,13 +1447,13 @@ Zeffix may make you feel tired, which could affect your ability to drive or use 
 
 ## Zeffix contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
 <div style=\"page-break-after: always\"></div>
 
 ## 3. How to take Zeffix
 
-Always take this medicine exactly as your doctor has told you to. Check with your doctor or pharmacist if you're not sure.
+Always take this medicine exactly as your doctor has told you to. Check with your doctor or pharmacist if you 're not sure.
 
 ## Stay in regular contact with your doctor
 
@@ -1462,7 +1473,7 @@ Your doctor may prescribe a lower dose if you have problems with your kidneys. A
 
 If you have or get HIV that is not being treated with medicines while taking lamivudine for the treatment of hepatitis B infection, the HIV virus may develop resistance to certain HIV medicines and become harder to treat. Lamivudine can also be used to treat HIV infection. Talk to your doctor if you have HIV infection. Your doctor may treat you with another medicine that contains a higher dose of lamivudine, usually 150 mg twice a day, as the lower dose of 100 mg lamivudine is not enough to treat HIV infection. If you are planning to change your HIV treatment, discuss this change with your doctor first.
 
-➔ Talk to your doctor if this applies to you.
+- ➔ Talk to your doctor if this applies to you.
 
 Swallow the tablet whole, with some water. Zeffix can be taken with or without food.
 
@@ -1472,11 +1483,11 @@ If you accidentally take too much Zeffix, tell your doctor or your pharmacist, o
 
 ## If you forget to take Zeffix
 
-If you forget to take a dose, take it as soon as you remember. Then continue your treatment as before. Don't take a double dose to make up for a missed dose.
+If you forget to take a dose, take it as soon as you remember. Then continue your treatment as before. Do n't take a double dose to make up for a missed dose.
 
 ## Don't stop taking Zeffix
 
-You must not stop taking Zeffix without consulting your doctor. There is a risk of your hepatitis getting worse (see section 2) . When you stop taking Zeffix your doctor will monitor you for at least four months to check for any problems. This will mean taking blood samples to check for any raised liver enzyme levels, which may indicate liver damage.
+You must not stop taking Zeffix without consulting your doctor. There is a risk of your hepatitis getting worse (see section 2). When you stop taking Zeffix your doctor will monitor you for at least four months to check for any problems. This will mean taking blood samples to check for any raised liver enzyme levels, which may indicate liver damage.
 
 ## 4. Possible side effects
 
@@ -1486,44 +1497,44 @@ Side effects that were commonly reported in Zeffix clinical trials were tirednes
 
 ## Allergic reaction
 
-These are rare (may affect up to 1 in 1,000 people). Signs include:
+These are rare (may affect up to 1 in 1 000 people). Signs include:
 
-- swelling of eyelids, face or lips
-- difficulty swallowing or breathing
+- -swelling of eyelids, face or lips
 
 <div style=\"page-break-after: always\"></div>
 
-## ➔ Contact a doctor immediately if you get these symptoms. Stop taking Zeffix .
+- -difficulty swallowing or breathing
+- ➔ Contact a doctor immediately if you get these symptoms. Stop taking Zeffix .
 
 ## Side effects thought to be caused by Zeffix
 
 A very common side effect (these may affect more than 1 in 10 people) which may show up in blood tests is:
 
-- an increase in the level of some liver enzymes (transaminases) , which may be a sign of inflammation or damage in the liver.
+- -an increase in the level of some liver enzymes (transaminases) , which may be a sign of inflammation or damage in the liver.
 
 ## A common side effect (these may affect up to 1 in 10 people) is:
 
-- cramps and muscle pains
-- skin rash or 'hives' anywhere on the body
+- -cramps and muscle pains
+- -skin rash or 'hives' anywhere on the body
 
-A common side effect which may show up in blood tests is:
+## A common side effect which may show up in blood tests is:
 
-- an increase in the level of an enzyme produced in the muscles (creatine phosphokinase) which may be a sign that body tissue is damaged.
+- -an increase in the level of an enzyme produced in the muscles (creatine phosphokinase) which may be a sign that body tissue is damaged.
 
-A very rare side effect (these may affect up to 1 in 10,000 people) is:
+## A very rare side effect (these may affect up to 1 in 10 000 people) is:
 
-- lactic acidosis (excess lactic acid in the blood).
+- -lactic acidosis (excess lactic acid in the blood).
 
 ## Other side effects
 
-Other side effects have occurred in a very small number of people but their exact frequency is unknown
+Other side effects have occurred in a very small number of people, but their exact frequency is unknown
 
-- breakdown of muscle tissue
-- a worsening of liver disease after Zeffix is stopped or during treatment if the hepatitis B virus becomes resistant to Zeffix. This can be fatal in some people.
+- -breakdown of muscle tissue
+- -a worsening of liver disease after Zeffix is stopped or during treatment if the hepatitis B virus becomes resistant to Zeffix. This can be fatal in some people.
 
 A side effect which may show up in blood tests is:
 
-- a decrease in the number of cells involved in blood clotting (thrombocytopenia) .
+- -a decrease in the number of cells involved in blood clotting (thrombocytopenia) .
 
 ## If you get any side effects
 
@@ -1537,11 +1548,11 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
-Don't take this medicine after the expiry date shown on the carton and blister.
+Do n't take this medicine after the expiry date shown on the carton and blister.
 
-Don't store above 30 °C.
+Do n't store above 30 °C.
 
-Do not throw away any medicines in your wastewater or household rubbish. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
+Do not throw away any medicines in your wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1549,9 +1560,8 @@ Do not throw away any medicines in your wastewater or household rubbish. Ask you
 
 ## What Zeffix contains
 
-The active substance is lamivudine. Each film-coated tablet contains 100 mg of lamivudine.
-
-The other ingredients are: microcrystalline cellulose, sodium starch glycolate, magnesium stearate, hypromellose, titanium dioxide, macrogol 400, polysorbate 80, synthetic yellow and red iron oxide.
+- -The active substance is lamivudine. Each film-coated tablet contains 100 mg of lamivudine.
+- -The other ingredients are: microcrystalline cellulose, sodium starch glycolate, magnesium stearate, hypromellose, titanium dioxide, macrogol 400, polysorbate 80, synthetic yellow and red iron oxide.
 
 ## What Zeffix looks like and contents of the pack
 
@@ -1563,11 +1573,23 @@ Not all pack-sizes may be available in your country.
 
 ## Marketing Authorisation Holder
 
-Delpharm Poznań Spółka Akcyjna ul. Grunwaldzka 189 60-322 Poznan Poland
+Delpharm Poznań Spółka Akcyjna
+
+ul. Grunwaldzka 189 60-322 Poznan Poland
 
 GlaxoSmithKline Trading Services
 
-Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
+Limited
+
+12 Riverwalk
+
+Citywest Business Campus
+
+Dublin 24
+
+Ireland
+
+D24 YK11
 
 For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1581,7 +1603,7 @@ GlaxoSmithKline Trading Services Limited Teл.: + 359 80018205
 
 ## Česká republika
 
-GlaxoSmithKline s.r.o.
+GlaxoSmithKline, s.r.o.
 
 Tel: + 420 222 001 111
 
@@ -1597,7 +1619,9 @@ GlaxoSmithKline GmbH &amp; Co. KG Tel.: + 49 (0)89 36044 8701 produkt.info@gsk.c
 
 ## Eesti
 
-GlaxoSmithKline Trading Services Limited Tel: + 372 8002640
+GlaxoSmithKline Trading Services Limited
+
+Tel: + 372 8002640
 
 ## Lietuva
 
@@ -1613,11 +1637,15 @@ GlaxoSmithKline Trading Services Limited Tel.: + 36 80088309
 
 ## Malta
 
-GlaxoSmithKline Trading Services Limited Tel: + 356 80065004
+GlaxoSmithKline Trading Services Limited
+
+Tel: + 356 80065004
 
 ## Nederland
 
-GlaxoSmithKline BV Tel: + 31 (0)33 2081100
+GlaxoSmithKline BV
+
+Tel: + 31 (0)33 2081100
 
 ## Norge
 
@@ -1637,11 +1665,11 @@ GlaxoSmithKline, S.A.
 
 Tel: + 34 900 202 700
 
-Es-ci@gsk.com
+es-ci@gsk.com
 
 ## France
 
-Laboratoire GlaxoSmithKline Tél.: + 33 (0)1 39 17 84 44 diam@gsk.com
+Laboratoire GlaxoSmithKline Tél: + 33 (0)1 39 17 84 44 diam@gsk.com
 
 ## Hrvatska
 
@@ -1649,17 +1677,21 @@ GlaxoSmithKline Trading Services Limited Tel: + 385 800787089
 
 ## Ireland
 
-GlaxoSmithKline Trading Services Limited Tel: + 353 (0)1 4955000
+GlaxoSmithKline (Ireland) Limited
+
+Tel: + 353 (0)1 4955000
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: + 354 535 7000
 
 ## Italia
 
-GlaxoSmithKline S.p.A. Tel: + 39 (0)45 7741 111
+GlaxoSmithKline S.p.A.
+
+Tel: + 39 (0)45 7741 111
 
 ## Κύπρος
 
@@ -1671,7 +1703,7 @@ GlaxoSmithKline Trading Services Limited Tel: + 371 80205045
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Österreich
 
@@ -1685,7 +1717,7 @@ Tel.: + 48 (0)22 576 9000
 
 ## Portugal
 
-Glaxo Wellcome Farmacêutica, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
+Glaxo Wellcome Farmacêutica, Lda Tel: + 351 21 412 95 00 FI.PT@gsk.com
 
 ## România
 
@@ -1713,14 +1745,14 @@ GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
 
 ## Zeffix 5 mg/ml oral solution lamivudine
 
-## Read all of this leaflet carefully before you start taking this medicine.
+## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have further questions, ask your doctor or pharmacist.
 - -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them even if their signs of illness are the same as yours.
 - -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
-## What is in this leaflet:
+## What is in this leaflet
 
 1. What Zeffix is and what it is used for
 2. What you need to know before you take Zeffix
@@ -1747,7 +1779,7 @@ Your healthcare provider should offer you counselling and testing for HIV infect
 
 ## Do not take Zeffix
 
-- if you're allergic to lamivudine or to any of the other ingredients of this medicine (listed in Section 6) .
+- -if you 're allergic to lamivudine or to any of the other ingredients of this medicine (listed in section 6).
 - ➔ Check with your doctor if you think this applies to you.
 
 <div style=\"page-break-after: always\"></div>
@@ -1756,32 +1788,31 @@ Your healthcare provider should offer you counselling and testing for HIV infect
 
 Some people taking Zeffix or other similar medicines are more at risk of serious side effects. You need to be aware of the extra risks:
 
-- if you have ever had other types of liver disease , such as hepatitis C
-- if you're seriously overweight (especially if you're a woman).
+- -if you have ever had other types of liver disease , such as hepatitis C
+- -if you're seriously overweight (especially if you're a woman).
+- ➔ Talk to your doctor if any of these apply to you . You may need extra check-ups, including blood tests, while you're taking your medication. See section 4 for more information about the risks.
 
-➔ Talk to your doctor if any of these apply to you . You may need extra check-ups, including blood tests, while you're taking your medication. See Section 4 for more information about the risks.
-
-Don't stop taking Zeffix without your doctor's advice, as there is a risk of your hepatitis getting worse. When you stop taking Zeffix your doctor will monitor you for at least four months to check for any problems. This will mean taking blood samples to check for any raised liver enzyme levels, which may indicate liver damage. See section 3 for more information about how to take Zeffix.
+Do n't stop taking Zeffix without your doctor 's advice , as there is a risk of your hepatitis getting worse. When you stop taking Zeffix your doctor will monitor you for at least four months to check for any problems. This will mean taking blood samples to check for any raised liver enzyme levels, which may indicate liver damage. See section 3 for more information about how to take Zeffix.
 
 ## Protect other people
 
 Hepatitis B infection is spread by sexual contact with someone who has the infection, or by transfer of infected blood (for example, by sharing injection needles). Zeffix will not stop you passing hepatitis B infection on to other people. To protect other people from becoming infected with hepatitis B:
 
--  Use a condom when you have oral or penetrative sex.
--  Don't risk blood transfer - for example, don't share needles.
+- -Use a condom when you have oral or penetrative sex.
+- -Don't risk blood transfer -for example, don't share needles.
 
 ## Other medicines and Zeffix
 
-Tell your doctor or pharmacist if you're taking, have recently taken or might take any other medicines, including herbal medicines or other medicines you bought without a prescription.
+Tell your doctor or pharmacist if you're taking , have recently taken or might take any other medicines, including herbal medicines or other medicines you bought without a prescription.
 
 Remember to tell your doctor or pharmacist if you begin taking a new medicine while you're taking Zeffix.
 
 ## These medicines should not be used with Zeffix:
 
-- medicines (usually liquids) containing sorbitol and other sugar alcohols (such as xylitol, mannitol, lactitol or maltitol), if taken regularly
-- other medicines containing lamivudine, used to treat HIV infection (sometimes called the AIDS virus)
-- emtricitabine, used to treat HIV or hepatitis B infection
-- cladribine, used to treat hairy cell leukaemia
+- -medicines (usually liquids) containing sorbitol and other sugar alcohols (such as xylitol, mannitol, lactitol or maltitol), if taken regularly
+- -other medicines containing lamivudine, used to treat HIV infection (sometimes called the AIDS virus)
+- -emtricitabine, used to treat HIV or hepatitis B infection
+- -cladribine, used to treat hairy cell leukaemia
 - ➔ Tell your doctor if you're being treated with any of these.
 
 ## Pregnancy
@@ -1804,7 +1835,7 @@ Zeffix may make you feel tired, which could affect your ability to drive or use 
 
 - ➔ Don't drive or use machines unless you are sure you're not affected.
 
-## Zeffix contains sugar, preservatives, propylene glycol and sodium
+## Zeffix contains sucrose, preservatives, propylene glycol and sodium
 
 If you are diabetic, please note that each dose of Zeffix (100 mg = 20 ml) contains 4 g of sucrose.
 
@@ -1816,17 +1847,17 @@ Zeffix contains preservatives (parahydroxybenzoates) which may cause allergic re
 
 This medicine contains 400 mg propylene glycol in each 20 ml.
 
-This medicine contains 58.8 mg sodium (main component of cooking/table salt) in each 20 ml. This is equivalent to 2.9% of the recommended maximum daily dietary intake of sodium for an adult.
+This medicine contains 58.8 mg sodium (main component of cooking/table salt) in each 20 ml. This is equivalent to 2.9 % of the recommended maximum daily dietary intake of sodium for an adult.
 
 ## 3. How to take Zeffix
 
-Always take this medicine exactly as your doctor has told you to. Check with your doctor or pharmacist if you're not sure.
+Always take this medicine exactly as your doctor has told you to. Check with your doctor or pharmacist if you 're not sure.
 
 ## Stay in regular contact with your doctor
 
 Zeffix helps to control your hepatitis B infection. You need to keep taking it every day to control your infection and stop your illness getting worse.
 
-- ➔ Keep in touch with your doctor, and don't stop taking Zeffix without your doctor's advice.
+➔ Keep in touch with your doctor, and don't stop taking Zeffix without your doctor's advice.
 
 ## How much to take
 
@@ -1852,11 +1883,11 @@ If you accidentally take too much Zeffix, tell your doctor or your pharmacist, o
 
 ## If you forget to take Zeffix
 
-If you forget to take a dose, take it as soon as you remember. Then continue your treatment as before. Don't take a double dose to make up for a missed dose.
+If you forget to take a dose, take it as soon as you remember. Then continue your treatment as before. Do n't take a double dose to make up for a missed dose.
 
 ## Don't stop taking Zeffix
 
-You must not stop taking Zeffix without consulting your doctor. There is a risk of your hepatitis getting worse (see section 2) . When you stop taking Zeffix your doctor will monitor you for at least four months to check for any problems. This will mean taking blood samples to check for any raised liver enzyme levels, which may indicate liver damage.
+You must not stop taking Zeffix without consulting your doctor. There is a risk of your hepatitis getting worse (see section 2). When you stop taking Zeffix your doctor will monitor you for at least four months to check for any problems. This will mean taking blood samples to check for any raised liver enzyme levels, which may indicate liver damage.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1868,41 +1899,41 @@ Side effects that were commonly reported in Zeffix clinical trials were tirednes
 
 ## Allergic reaction
 
-These arerare (may affect up to 1 in 1,000 people). Signs include:
+These are rare (may affect up to 1 in 1 000 people). Signs include:
 
-- swelling of eyelids, face or lips
-- difficulty swallowing or breathing
+- -swelling of eyelids, face or lips
+- -difficulty swallowing or breathing
 - ➔ Contact a doctor immediately if you get these symptoms. Stop taking Zeffix .
 
 ## Side effects thought to be caused by Zeffix
 
 A very common side effect (these may affect more than 1 in 10 people) which may show up in blood tests is:
 
-- an increase in the level of some liver enzymes (transaminases) , which may be a sign of inflammation or damage in the liver.
+- -an increase in the level of some liver enzymes (transaminases) , which may be a sign of inflammation or damage in the liver.
 
-A common side effect ( these may affect up to 1 in 10 people) is:
+## A common side effect ( these may affect up to 1 in 10 people) is:
 
-- cramps and muscle pains
-- skin rash or 'hives' anywhere on the body
+- -cramps and muscle pains
+- -skin rash or 'hives' anywhere on the body
 
 A common side effect which may show up in blood tests is:
 
-- an increase in the level of an enzyme produced in the muscles (creatine phosphokinase) which may be a sign that body tissue is damaged.
+- -an increase in the level of an enzyme produced in the muscles (creatine phosphokinase) which may be a sign that body tissue is damaged.
 
-A very rare side effect (these may affect up to 1 in 10,000 people) is:
+## A very rare side effect (these may affect up to 1 in 10 000 people) is:
 
-- lactic acidosis (excess lactic acid in the blood).
+- -lactic acidosis (excess lactic acid in the blood).
 
 ## Other side effects
 
-Other side effects have occurred in a very small number of people but their exact frequency is unknown
+Other side effects have occurred in a very small number of people, but their exact frequency is unknown
 
-- breakdown of muscle tissue
-- a worsening of liver disease after Zeffix is stopped or during treatment if the hepatitis B virus becomes resistant to Zeffix. This can be fatal in some people.
+- -breakdown of muscle tissue
+- -a worsening of liver disease after Zeffix is stopped or during treatment if the hepatitis B virus becomes resistant to Zeffix. This can be fatal in some people.
 
 A side effect which may show up in blood tests is:
 
-- a decrease in the number of cells involved in blood clotting (thrombocytopenia) .
+- -a decrease in the number of cells involved in blood clotting (thrombocytopenia) .
 
 ## If you get any side effects
 
@@ -1912,27 +1943,26 @@ A side effect which may show up in blood tests is:
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. How to store Zeffix
 
 Keep this medicine out of the sight and reach of children.
 
-Don't take this medicine after the expiry date shown on the bottle and the carton.
+<div style=\"page-break-after: always\"></div>
 
-Don't store above 25 °C.
+Do n't take this medicine after the expiry date shown on the bottle and the carton.
+
+Do n't store above 25 °C.
 
 Discard one month after first opening.
 
-Do not throw away any medicines in your wastewater or household rubbish. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
+Do not throw away any medicines in your wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
 
 ## 6. Contents of the pack and other information
 
 ## What Zeffix contains
 
-The active substance is lamivudine. Each ml of oral solution contains 5 mg of lamivudine.
-
-The other ingredients are: sucrose, methyl parahydroxybenzoate (E218), propyl parahydroxybenzoate (E216), citric acid, propylene glycol (E1520), sodium citrate, artificial strawberry flavour, artificial banana flavour, purified water.
+- -The active substance is lamivudine. Each ml of oral solution contains 5 mg of lamivudine.
+- -The other ingredients are: sucrose, methyl parahydroxybenzoate (E 218), propyl parahydroxybenzoate (E 216), citric acid, propylene glycol (E 1520), sodium citrate, artificial strawberry flavour, artificial banana flavour, purified water, sodium hydroxide and/or hydrochloric acid for pH adjustment .
 
 ## What Zeffix looks like and contents of the pack
 
@@ -1946,9 +1976,17 @@ GlaxoSmithKline Trading Services Limited
 
 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
-GlaxoSmithKline Trading Services
+GlaxoSmithKline Trading Services Limited
 
-Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
+12 Riverwalk
+
+Citywest Business Campus
+
+Dublin 24
+
+Ireland
+
+D24 YK11
 
 For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1970,21 +2008,21 @@ GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien Tél/Tel: + 32 (0)10 
 
 ## Česká republika
 
-GlaxoSmithKline s.r.o.
-
-Tel: + 420 222 001 111
+GlaxoSmithKline, s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
 
 ## Magyarország
 
 GlaxoSmithKline Trading Services Limited Tel.: + 36 80088309
 
-<div style=\"page-break-after: always\"></div>
-
-cz.info@gsk.com
-
 ## Danmark
 
-GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
+GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 Dk-info@gsk.com
+
+## Malta
+
+GlaxoSmithKline Trading Services Limited Tel: + 356 80065004
+
+<div style=\"page-break-after: always\"></div>
 
 ## Deutschland
 
@@ -2000,11 +2038,11 @@ GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Τηλ: + 30 210 68 82 100
 
 ## España
 
-GlaxoSmithKline, S.A. Tel: + 34 900 202 700 Es-ci@gsk.com
+GlaxoSmithKline, S.A. Tel: + 34 900 202 700 es-ci@gsk.com
 
 ## France
 
-Laboratoire GlaxoSmithKline Tél.: + 33 (0)1 39 17 84 44 diam@gsk.com
+Laboratoire GlaxoSmithKline Tél: + 33 (0)1 39 17 84 44 diam@gsk.com
 
 ## Hrvatska
 
@@ -2012,15 +2050,17 @@ GlaxoSmithKline Trading Services Limited Tel: + 385 800787089
 
 ## Ireland
 
-GlaxoSmithKline Trading Services Limited Tel: + 353 (0)1 4955000
+GlaxoSmithKline (Ireland) Limited Tel: + 353 (0)1 4955000
 
 ## Ísland
 
-Vistor hf. Sími: + 354 535 7000
+Vistor ehf. Sími: + 354 535 7000
 
 ## Italia
 
-GlaxoSmithKline S.p.A. Tel: + 39 (0)45 7741 111
+GlaxoSmithKline S.p.A.
+
+Tel: + 39 (0)45 7741 111
 
 ## Κύπρος
 
@@ -2028,11 +2068,13 @@ GlaxoSmithKline Trading Services Limited Τηλ: + 357 80070017
 
 ## Latvija
 
-GlaxoSmithKline Trading Services Limited Tel: + 371 80205045
+GlaxoSmithKline Trading Services Limited
 
-## Malta
+Tel: + 371 80205045
 
-GlaxoSmithKline Trading Services Limited Tel: + 356 80065004
+## This leaflet was last revised in
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Nederland
 
@@ -2052,7 +2094,7 @@ GSK Services Sp. z o.o. Tel.: + 48 (0)22 576 9000
 
 ## Portugal
 
-Glaxo Wellcome Farmacêutica, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
+Glaxo Wellcome Farmacêutica, Lda Tel: + 351 21 412 95 00 FI.PT@gsk.com
 
 ## România
 
@@ -2076,17 +2118,11 @@ GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
 
 <div style=\"page-break-after: always\"></div>
 
-## This leaflet was last revised in
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
-
 ## How to measure the dose and take the medicine
 
 <!-- image -->
 
-Use the oral applicator supplied with the pack to measure your dose accurately (see also Section 3) . When full, the applicator contains 10 ml of solution .
+Use the oral applicator supplied with the pack to measure your dose accurately (see also section 3). When full, the applicator contains 10 ml of solution .
 
 1. Remove the plastic wrap from the applicator/adapter.
 2. Remove the adapter from the applicator.
@@ -2099,7 +2135,8 @@ Use the oral applicator supplied with the pack to measure your dose accurately (
 9. Put the applicator into your mouth , placing the tip of the applicator against the inside of your cheek. Slowly push the plunger in , allowing time to swallow. Don't push too hard and squirt the liquid into the back of your throat, or you may choke.
 10. Repeat steps 5 to 9 in the same way until you have taken your whole dose. For example, if your dose is 20 ml, you need to take 2 applicator-fulls of medicine.
 11. Take the applicator out of the bottle and wash it thoroughly in clean water. Let it dry completely before you use it again. Leave the adapter in the bottle.
-12. Close the bottle tightly with the cap.
+12. 12.
+13. Close the bottle tightly with the cap.
 
 <div style=\"page-break-after: always\"></div>
 

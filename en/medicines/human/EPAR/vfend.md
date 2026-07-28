@@ -1,97 +1,21 @@
 ---
-document_datetime: 2026-04-28 11:35:00
+document_datetime: 2026-07-21 10:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vfend.html
 document_name: vfend.html
 version: success
-processing_time: 0.1160317
-conversion_datetime: 2026-04-29 13:10:17.145577
+processing_time: 0.187602
+conversion_datetime: 2026-07-28 12:29:58.893452
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [Glossaries](/en/about-us/glossaries)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Vfend
-
 # Vfend
 
 [RSS](/en/individual-human-medicine.xml/65623)
@@ -130,11 +54,11 @@ Expand section
 
 Collapse section
 
-## What is Vfend?
+### What is Vfend?
 
 Vfend is an antifungal medicine that contains the active substance voriconazole. It is available as tablets (50 mg or 200 mg), as an oral suspension (40 mg/ml) and as a powder to be made up into a solution for infusion (drip into a vein).
 
-## What is Vfend used for?
+### What is Vfend used for?
 
 Vfend is used for the treatment of adults and children over the age of two years who have the following fungal infections:
 
@@ -149,7 +73,7 @@ Vfend is also used to prevent invasive fungal infections in patients who have ha
 
 The medicine can only be obtained with a prescription.
 
-## How is Vfend used?
+### How is Vfend used?
 
 Vfend is given twice a day at least one hour before or one hour after a meal. The dose of Vfend to use depends on the weight of the patient and on which formulation of the medicine is used.
 
@@ -161,11 +85,11 @@ When used to prevent infections in patients who have had blood stem-cell transpl
 
 For further information, see the package leaflet.
 
-## How does Vfend work?
+### How does Vfend work?
 
 The active substance in Vfend, voriconazole, belongs to the 'triazole' class of antifungal medicines. It works by disrupting the formation of ergosterol, which is an important component of fungal cell membranes. Without a functional cell membrane, the fungus is killed or prevented from spreading. The list of fungi against which Vfend is active can be found in the summary of product characteristics (also part of the EPAR).
 
-## How has Vfend been studied?
+### How has Vfend been studied?
 
 The study of Vfend in the treatment of invasive aspergillosis involved 277 immunocompromised patients (patients whose immune system was not working properly). Vfend was compared with amphotericin B (another antifungal medicine).
 
@@ -179,7 +103,7 @@ The main measure of effectiveness in all these studies was the number of patient
 
 Vfend has also been studied as a preventative treatment in patients who have had blood stem-cell transplantation. In a study involving 465 patients, Vfend was compared with another antifungal medicine, itraconazole. Treatment was considered to be successful if a patient was able to continue treatment for 100 days after the transplantation and had not developed a fungal infection by day 180.
 
-## What benefit has Vfend shown during the studies?
+### What benefit has Vfend shown during the studies?
 
 In the treatment of invasive aspergillosis, the proportion of patients responding to treatment was higher with Vfend than with amphotericin B (53% versus 31%). The survival for voriconazole was significantly greater than that for amphotericin B.
 
@@ -191,7 +115,7 @@ In the treatment of scedosporiosis and fusariosis, 28 out of 59 patients had a c
 
 In the study on prevention in patients who had blood stem-cell transplantation, around 49% of patients who were given Vfend (109 out of 224) had a successful treatment compared with around 33% of patients who received itraconazole (80 out of 241).
 
-## What is the risk associated with Vfend?
+### What is the risk associated with Vfend?
 
 The most common side effects with Vfend (seen in more than 1 patient in 10) are peripheral oedema (swelling of the arms and legs), headache, visual disturbances (including blurred vision, changes in colour perception and excessive sensitivity to light), respiratory distress (difficulty breathing), abdominal pain (stomach ache), nausea (feeling sick), vomiting, diarrhoea, rash and pyrexia (fever) and abnormal liver function test results. For the full list of all side effects reported with Vfend, see the package leaflet.
 
@@ -212,15 +136,15 @@ Vfend must not be used in patients who are taking any of the following medicines
 
 Caution is also needed when Vfend is taken at the same time as other medicines. For the full list of restrictions, see the package leaflet.
 
-## Why has Vfend been approved?
+### Why has Vfend been approved?
 
 The CHMP decided that Vfend's benefits are greater than its risks and recommended that it be given marketing authorisation.
 
-## What measures are being taken to ensure the safe and effective use of Vfend?
+### What measures are being taken to ensure the safe and effective use of Vfend?
 
 A risk management plan has been developed to ensure that Vfend is used as safely as possible. Based on this plan, safety information has been included in the summary of product characteristics and the package leaflet for Vfend, including the appropriate precautions to be followed by healthcare professionals and patients.
 
-## Other information about Vfend
+### Other information about Vfend
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Vfend on 19 March 2002.
 
@@ -234,7 +158,7 @@ English (EN) (167.01 KB - PDF)
 
 [View](/en/documents/overview/vfend-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-928)
+[Other languages (22)](#file-language-dropdown-603)
 
 български (BG) (178.94 KB - PDF)
 
@@ -266,7 +190,7 @@ Deutsch (DE) (155.95 KB - PDF)
 
 [View](/de/documents/overview/vfend-epar-summary-public_de.pdf)
 
-eesti keel (ET) (150.22 KB - PDF)
+eesti (ET) (150.22 KB - PDF)
 
 **First published:** 07/11/2006 **Last updated:** 20/02/2026
 
@@ -296,13 +220,13 @@ italiano (IT) (151.95 KB - PDF)
 
 [View](/it/documents/overview/vfend-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (183.55 KB - PDF)
+latviešu (LV) (183.55 KB - PDF)
 
 **First published:** 07/11/2006 **Last updated:** 20/02/2026
 
 [View](/lv/documents/overview/vfend-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (177.67 KB - PDF)
+lietuvių (LT) (177.67 KB - PDF)
 
 **First published:** 07/11/2006 **Last updated:** 20/02/2026
 
@@ -356,7 +280,7 @@ slovenščina (SL) (175.6 KB - PDF)
 
 [View](/sl/documents/overview/vfend-epar-summary-public_sl.pdf)
 
-Suomi (FI) (150.29 KB - PDF)
+suomi (FI) (150.29 KB - PDF)
 
 **First published:** 07/11/2006 **Last updated:** 20/02/2026
 
@@ -380,167 +304,168 @@ English (EN) (668.42 KB - PDF)
 
 Vfend : EPAR - Product Information
 
-English (EN) (1.57 MB - PDF)
+English (EN) (1.51 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/en/documents/product-information/vfend-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-419)
+[Other languages (24)](#file-language-dropdown-717)
 
-български (BG) (1.08 MB - PDF)
+български (BG) (1.26 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/bg/documents/product-information/vfend-epar-product-information_bg.pdf)
 
-español (ES) (896.73 KB - PDF)
+español (ES) (1.06 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/es/documents/product-information/vfend-epar-product-information_es.pdf)
 
-čeština (CS) (985.94 KB - PDF)
+čeština (CS) (1.19 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/cs/documents/product-information/vfend-epar-product-information_cs.pdf)
 
-dansk (DA) (968.8 KB - PDF)
+dansk (DA) (1.11 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/da/documents/product-information/vfend-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.03 MB - PDF)
+Deutsch (DE) (1.14 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/de/documents/product-information/vfend-epar-product-information_de.pdf)
 
-eesti keel (ET) (938.96 KB - PDF)
+eesti (ET) (1.15 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/et/documents/product-information/vfend-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.02 MB - PDF)
+ελληνικά (EL) (1.34 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/el/documents/product-information/vfend-epar-product-information_el.pdf)
 
-français (FR) (1.05 MB - PDF)
+français (FR) (1.27 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/fr/documents/product-information/vfend-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.01 MB - PDF)
+hrvatski (HR) (1.19 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/hr/documents/product-information/vfend-epar-product-information_hr.pdf)
 
-íslenska (IS) (995.59 KB - PDF)
+italiano (IT) (1.15 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
-
-[View](/is/documents/product-information/vfend-epar-product-information_is.pdf)
-
-italiano (IT) (1.05 MB - PDF)
-
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/it/documents/product-information/vfend-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.09 MB - PDF)
+latviešu (LV) (1.19 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/lv/documents/product-information/vfend-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (915.06 KB - PDF)
+lietuvių (LT) (1.14 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/lt/documents/product-information/vfend-epar-product-information_lt.pdf)
 
-magyar (HU) (1.16 MB - PDF)
+magyar (HU) (1.2 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/hu/documents/product-information/vfend-epar-product-information_hu.pdf)
 
-Malti (MT) (1.33 MB - PDF)
+Malti (MT) (1.43 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/mt/documents/product-information/vfend-epar-product-information_mt.pdf)
 
-Nederlands (NL) (955.51 KB - PDF)
+Nederlands (NL) (1.17 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/nl/documents/product-information/vfend-epar-product-information_nl.pdf)
 
-norsk (NO) (973.1 KB - PDF)
+polski (PL) (1.3 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
-
-[View](/no/documents/product-information/vfend-epar-product-information_no.pdf)
-
-polski (PL) (1.02 MB - PDF)
-
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/pl/documents/product-information/vfend-epar-product-information_pl.pdf)
 
-português (PT) (1016.18 KB - PDF)
+português (PT) (1.14 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/pt/documents/product-information/vfend-epar-product-information_pt.pdf)
 
-română (RO) (1021.63 KB - PDF)
+română (RO) (1.24 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/ro/documents/product-information/vfend-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.03 MB - PDF)
+slovenčina (SK) (1.3 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/sk/documents/product-information/vfend-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.01 MB - PDF)
+slovenščina (SL) (1.2 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/sl/documents/product-information/vfend-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.03 MB - PDF)
+suomi (FI) (1.09 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/fi/documents/product-information/vfend-epar-product-information_fi.pdf)
 
-svenska (SV) (992.95 KB - PDF)
+svenska (SV) (1.08 MB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/sv/documents/product-information/vfend-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000284468
+Íslenska (IS) (1.07 MB - PDF)
 
-10/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
+
+[View](/is/documents/product-information/vfend-epar-product-information_is.pdf)
+
+norsk (NO) (1.04 MB - PDF)
+
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
+
+[View](/no/documents/product-information/vfend-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000326239
+
+04/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -558,7 +483,7 @@ English (EN) (34.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vfend-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-573)
+[Other languages (24)](#file-language-dropdown-482)
 
 български (BG) (37.84 KB - PDF)
 
@@ -590,7 +515,7 @@ Deutsch (DE) (34.54 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/vfend-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (35.87 KB - PDF)
+eesti (ET) (35.87 KB - PDF)
 
 **First published:** 07/11/2006 **Last updated:** 06/05/2022
 
@@ -614,25 +539,19 @@ hrvatski (HR) (33.81 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/vfend-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (33.77 KB - PDF)
-
-**First published:** 07/11/2006 **Last updated:** 06/05/2022
-
-[View](/is/documents/all-authorised-presentations/vfend-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (33.58 KB - PDF)
 
 **First published:** 07/11/2006 **Last updated:** 06/05/2022
 
 [View](/it/documents/all-authorised-presentations/vfend-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (35.78 KB - PDF)
+latviešu (LV) (35.78 KB - PDF)
 
 **First published:** 07/11/2006 **Last updated:** 06/05/2022
 
 [View](/lv/documents/all-authorised-presentations/vfend-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (37.77 KB - PDF)
+lietuvių (LT) (37.77 KB - PDF)
 
 **First published:** 07/11/2006 **Last updated:** 06/05/2022
 
@@ -655,12 +574,6 @@ Nederlands (NL) (34.18 KB - PDF)
 **First published:** 07/11/2006 **Last updated:** 06/05/2022
 
 [View](/nl/documents/all-authorised-presentations/vfend-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (33.23 KB - PDF)
-
-**First published:** 07/11/2006 **Last updated:** 06/05/2022
-
-[View](/no/documents/all-authorised-presentations/vfend-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (34.84 KB - PDF)
 
@@ -692,7 +605,7 @@ slovenščina (SL) (38.1 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/vfend-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (32.26 KB - PDF)
+suomi (FI) (32.26 KB - PDF)
 
 **First published:** 07/11/2006 **Last updated:** 06/05/2022
 
@@ -704,29 +617,32 @@ svenska (SV) (34.1 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/vfend-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (33.77 KB - PDF)
+
+**First published:** 07/11/2006 **Last updated:** 06/05/2022
+
+[View](/is/documents/all-authorised-presentations/vfend-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (33.23 KB - PDF)
+
+**First published:** 07/11/2006 **Last updated:** 06/05/2022
+
+[View](/no/documents/all-authorised-presentations/vfend-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Vfend
-
-Active substance
-
-voriconazole
-
-International non-proprietary name (INN) or common name
-
-voriconazole
-
-Therapeutic area (MeSH)
-
-- Candidiasis
-- Mycoses
-- Aspergillosis
-
-Anatomical therapeutic chemical (ATC) code
-
-J02AC03
+- **Name of medicine**
+    - Vfend
+- **Active substance**
+    - voriconazole
+- **International non-proprietary name (INN) or common name**
+    - voriconazole
+- **Therapeutic area (MeSH)**
+        - Candidiasis
+        - Mycoses
+        - Aspergillosis
+- **Anatomical therapeutic chemical (ATC) code**
+    - J02AC03
 
 ### Pharmacotherapeutic group
 
@@ -747,27 +663,16 @@ Prophylaxis of invasive fungal infections in high risk allogeneic hematopoietic 
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/000387
-
-Marketing authorisation holder
-
-Pfizer Europe MA EEIG
-
-Boulevard de la Plaine 17
-
-Opinion adopted
-
-13/12/2001
-
-Marketing authorisation issued
-
-19/03/2002
-
-Revision
-
-58
+- **EMA product number**
+    - EMEA/H/C/000387
+- **Marketing authorisation holder**
+    - Pfizer Europe MA EEIG Boulevard de la Plaine 17  1050 Bruxelles  Belgium
+- **Opinion adopted**
+    - 13/12/2001
+- **Marketing authorisation issued**
+    - 19/03/2002
+- **Revision**
+    - 59
 
 ## Assessment history
 
@@ -775,7 +680,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Vfend : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
@@ -787,9 +692,9 @@ English (EN) (507.94 KB - PDF)
 
 Vfend : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (149.85 KB - PDF)
+English (EN) (154.53 KB - PDF)
 
-**First published:** 27/10/2009 **Last updated:** 20/02/2026
+**First published:** 27/10/2009 **Last updated:** 21/07/2026
 
 [View](/en/documents/procedural-steps-after/vfend-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -801,7 +706,7 @@ English (EN) (126.63 KB - PDF)
 
 **First published:** 18/01/2022
 
-[View](/en/documents/scientific-conclusion/vfend-h-c-psusa-00003127-202102-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/vfend-h-c-psusa-00003127-202102-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Vfend-H-C-PSUSA-00003127-201802 : EPAR - Scientific conclusions and grounds recommending the variation to the terms of the marketing authorisation
 
@@ -811,7 +716,7 @@ English (EN) (69.56 KB - PDF)
 
 **First published:** 24/01/2019
 
-[View](/en/documents/scientific-conclusion/vfend-h-c-psusa-00003127-201802-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/vfend-h-c-psusa-00003127-201802-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Vfend-H-C-PSUSA-00003127-201502 : EPAR - Scientific conclusions and grounds recommending the variation to the terms of the marketing authorisation
 
@@ -821,7 +726,7 @@ English (EN) (64.62 KB - PDF)
 
 **First published:** 29/01/2016 **Last updated:** 29/01/2016
 
-[View](/en/documents/scientific-conclusion/vfend-h-c-psusa-00003127-201502-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/vfend-h-c-psusa-00003127-201502-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Vfend-H-C-387-P46-089.1 : EPAR - Assessment Report
 
@@ -871,7 +776,7 @@ English (EN) (228.24 KB - PDF)
 
 [View](/en/documents/scientific-discussion-variation/vfend-h-c-387-x-0009-epar-scientific-discussion-extension_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Vfend : EPAR - Scientific Discussion
 
@@ -901,157 +806,157 @@ The approved product information for this medicine is available below showing th
 
 Vfend: EPAR - Product information - tracked changes
 
-English (EN) (463.01 KB - DOCX)
+English (EN) (465.16 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
 [View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-9)
+[Other languages (24)](#file-language-dropdown-137)
 
-български (BG) (496.21 KB - DOCX)
+български (BG) (507.33 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/bg/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_bg.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-español (ES) (513.11 KB - DOCX)
+español (ES) (512.95 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/es/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_es.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-čeština (CS) (604.25 KB - DOCX)
+čeština (CS) (603.34 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/cs/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_cs.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-dansk (DA) (907.67 KB - DOCX)
+dansk (DA) (904.58 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/da/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_da.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-Deutsch (DE) (890.87 KB - DOCX)
+Deutsch (DE) (888.85 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/de/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_de.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-eesti keel (ET) (890.35 KB - DOCX)
+eesti (ET) (880.71 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/et/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_et.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-ελληνικά (EL) (628.78 KB - DOCX)
+ελληνικά (EL) (635.57 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/el/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_el.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-français (FR) (711.6 KB - DOCX)
+français (FR) (715.12 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/fr/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_fr.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-hrvatski (HR) (641 KB - DOCX)
+hrvatski (HR) (648.08 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/hr/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_hr.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-íslenska (IS) (548.98 KB - DOCX)
+italiano (IT) (944.52 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/is/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_is.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-italiano (IT) (946.21 KB - DOCX)
+latviešu (LV) (11.73 MB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/it/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_it.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-latviešu valoda (LV) (11.52 MB - DOCX)
+lietuvių (LT) (823.06 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/lv/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_lv.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-lietuvių kalba (LT) (821.09 KB - DOCX)
+magyar (HU) (871.52 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/lt/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_lt.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-magyar (HU) (879.23 KB - DOCX)
+Malti (MT) (564.75 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/hu/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_hu.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-Malti (MT) (560.65 KB - DOCX)
+Nederlands (NL) (660.11 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/mt/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_mt.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-Nederlands (NL) (663.17 KB - DOCX)
+polski (PL) (537.62 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/nl/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_nl.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-norsk (NO) (543.25 KB - DOCX)
+português (PT) (557.6 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/no/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_no.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-polski (PL) (542.77 KB - DOCX)
+română (RO) (571.06 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/pl/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_pl.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-português (PT) (561.59 KB - DOCX)
+slovenčina (SK) (920.37 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/pt/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_pt.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-română (RO) (574.23 KB - DOCX)
+slovenščina (SL) (606.85 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/ro/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_ro.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-slovenčina (SK) (920.18 KB - DOCX)
+suomi (FI) (917.47 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/sk/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_sk.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-slovenščina (SL) (613.18 KB - DOCX)
+svenska (SV) (533.36 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/sl/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_sl.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-Suomi (FI) (915.49 KB - DOCX)
+Íslenska (IS) (548.3 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/fi/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_fi.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
-svenska (SV) (528.65 KB - DOCX)
+norsk (NO) (543.67 KB - DOCX)
 
-**First published:** 18/09/2025 **Last updated:** 28/04/2026
+**First published:** 18/09/2025 **Last updated:** 21/07/2026
 
-[View](/sv/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_sv.docx)
+[View](/en/documents/product-information-tracked-changes/vfend-epar-product-information-tracked-changes_en.docx)
 
 ## More information on Vfend
 
@@ -1068,6 +973,6 @@ svenska (SV) (528.65 KB - DOCX)
 
 **This page was last updated on**
 
-28/04/2026
+21/07/2026
 
 ## Share this page

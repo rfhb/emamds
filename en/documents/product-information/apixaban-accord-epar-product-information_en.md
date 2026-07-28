@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-23 18:09:12
+document_datetime: 2026-07-27 13:09:50
 document_pages: 117
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/apixaban-accord-epar-product-information_en.pdf
 document_name: apixaban-accord-epar-product-information_en.pdf
 version: success
-processing_time: 38.6352861
-conversion_datetime: 2025-12-23 21:48:05.726135
+processing_time: 68.0184326
+conversion_datetime: 2026-07-28 14:04:14.22014
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -62,7 +62,9 @@ Treatment of venous thromboembolism (VTE) and prevention of recurrent VTE in pae
 
 ## Posology
 
-Prevention of VTE (VTEp): elective hip or knee replacement surgery in adults The recommended dose of apixaban is 2.5 mg taken orally twice daily. The initial dose should be taken 12 to 24 hours after surgery.
+Prevention of VTE (VTEp): elective hip or knee replacement surgery in adults The recommended dose of apixaban is 2.5 mg taken orally twice daily. The initial dose should be
+
+taken 12 to 24 hours after surgery.
 
 Physicians may consider the potential benefits of earlier anticoagulation for VTE prophylaxis as well as the risks of post-surgical bleeding in deciding on the time of administration within this time window.
 
@@ -100,7 +102,7 @@ The duration of overall therapy should be individualised after careful assessmen
 
 Apixaban treatment for paediatric patients from 28 days to less than 18 years of age should be initiated following at least 5 days of initial parenteral anticoagulation therapy (see section 5.1).
 
-Treatment with apixaban in paediatric patients is based on weight-tiered dosing.The recommended dose of apixaban in paediatric patients weighing ≥ 35 kg is shown in Table 2.
+Treatment with apixaban in paediatric patients is based on weight-tiered dosing. The recommended dose of apixaban in paediatric patients weighing ≥ 35 kg is shown in Table 2.
 
 Table 2: Dose recommendation for treatment of VTE and prevention of recurrent VTE in paediatric patients weighing ≥ 35 kg (after initial parenteral anticoagulation)
 
@@ -135,9 +137,9 @@ No data are availabe for paediatric patients.
 
 ## Elderly
 
-VTEp and VTEt - No dose adjustment required (see sections 4.4 and 5.2).
+VTEp and VTEt -No dose adjustment required (see sections 4.4 and 5.2).
 
-NVAF - No dose adjustment required, unless criteria for dose reduction are met (see Dose reduction at the beginning of section 4.2).
+NVAF -No dose adjustment required, unless criteria for dose reduction are met (see Dose reduction at the beginning of section 4.2).
 
 ## Renal impairment
 
@@ -199,11 +201,9 @@ For patients not previously treated with anticoagulants, exclusion of left atria
 
 For patients initiating treatment with apixaban, 5 mg should be given twice daily for at least 2.5 days (5 single doses) before cardioversion to ensure adequate anticoagulation (see section 5.1). The dosing regimen should be reduced to 2.5 mg apixaban given twice daily for at least 2.5 days (5 single doses) if the patient meets the criteria for dose reduction (see above sections Dose reduction and Renal impairment) .
 
-If cardioversion is required before 5 doses of apixaban can be administered, a 10 mg loading dose should be given, followed by 5 mg twice daily. The dosing regimen should be reduced to a 5 mg
+If cardioversion is required before 5 doses of apixaban can be administered, a 10 mg loading dose should be given, followed by 5 mg twice daily. The dosing regimen should be reduced to a 5 mg loading dose followed by 2.5 mg twice daily if the patient meets the criteria for dose reduction (see above sections Dose reduction and Renal impairment) . The administration of the loading dose should be given at least 2 hours before cardioversion (see section 5.1).
 
 <div style=\"page-break-after: always\"></div>
-
-loading dose followed by 2.5 mg twice daily if the patient meets the criteria for dose reduction (see above sections Dose reduction and Renal impairment) . The administration of the loading dose should be given at least 2 hours before cardioversion (see section 5.1).
 
 For all patients undergoing cardioversion, confirmation should be sought prior to cardioversion that the patient has taken apixaban as prescribed. Decisions on initiation and duration of treatment should take established guideline recommendations for anticoagulant treatment in patients undergoing cardioversion into account.
 
@@ -229,11 +229,11 @@ Crushed Apixaban Accord tablets are stable in water, G5W, apple juice, and apple
 
 ## 4.3 Contraindications
 
--  Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
--  Active clinically significant bleeding.
--  Hepatic disease associated with coagulopathy and clinically relevant bleeding risk (see section 5.2).
--  Lesion or condition if considered a significant risk factor for major bleeding. This may include current or recent gastrointestinal ulceration, presence of malignant neoplasms at high risk of bleeding, recent brain or spinal injury, recent brain, spinal or ophthalmic surgery, recent intracranial haemorrhage, known or suspected oesophageal varices, arteriovenous malformations, vascular aneurysms or major intraspinal or intracerebral vascular abnormalities.
--  Concomitant treatment with any other anticoagulant agent e.g., unfractionated heparin (UFH), low molecular weight heparins (enoxaparin, dalteparin, etc.), heparin derivatives (fondaparinux, etc.), oral anticoagulants (warfarin, rivaroxaban, dabigatran etexilate etc.) except under specific circumstances of switching anticoagulant therapy (see section 4.2), when
+- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+- Active clinically significant bleeding.
+- Hepatic disease associated with coagulopathy and clinically relevant bleeding risk (see section 5.2).
+- Lesion or condition if considered a significant risk factor for major bleeding. This may include current or recent gastrointestinal ulceration, presence of malignant neoplasms at high risk of bleeding, recent brain or spinal injury, recent brain, spinal or ophthalmic surgery, recent intracranial haemorrhage, known or suspected oesophageal varices, arteriovenous malformations, vascular aneurysms or major intraspinal or intracerebral vascular abnormalities.
+- Concomitant treatment with any other anticoagulant agent e.g., unfractionated heparin (UFH), low molecular weight heparins (enoxaparin, dalteparin, etc.), heparin derivatives (fondaparinux, etc.), oral anticoagulants (warfarin, rivaroxaban, dabigatran etexilate etc.) except under specific circumstances of switching anticoagulant therapy (see section 4.2), when
 
 <div style=\"page-break-after: always\"></div>
 
@@ -303,11 +303,9 @@ Discontinuing anticoagulants, including apixaban, for active bleeding, elective 
 
 ## Spinal/epidural anaesthesia or puncture
 
-When neuraxial anaesthesia (spinal/epidural anaesthesia) or spinal/epidural puncture is employed, patients treated with antithrombotic agents for prevention of thromboembolic complications are at risk of developing an epidural or spinal haematoma which can result in long-term or permanent paralysis. The risk of these events may be increased by the post-operative use of indwelling epidural catheters or the concomitant use of medicinal products affecting haemostasis. Indwelling epidural or intrathecal catheters must be removed at least 5 hours prior to the first dose of apixaban. The risk may also be increased by traumatic or repeated epidural or spinal puncture. Patients are to be frequently monitored for signs and symptoms of neurological impairment (e.g., numbness or weakness of the legs, bowel or
+When neuraxial anaesthesia (spinal/epidural anaesthesia) or spinal/epidural puncture is employed, patients treated with antithrombotic agents for prevention of thromboembolic complications are at risk of developing an epidural or spinal haematoma which can result in long-term or permanent paralysis. The risk of these events may be increased by the post-operative use of indwelling epidural catheters or the concomitant use of medicinal products affecting haemostasis. Indwelling epidural or intrathecal catheters must be removed at least 5 hours prior to the first dose of apixaban. The risk may also be increased by traumatic or repeated epidural or spinal puncture. Patients are to be frequently monitored for signs and symptoms of neurological impairment (e.g., numbness or weakness of the legs, bowel or bladder dysfunction). If neurological compromise is noted, urgent diagnosis and treatment is necessary. Prior to neuraxial intervention the physician should consider the potential benefit versus the risk in anticoagulated patients or in patients to be anticoagulated for thromboprophylaxis.
 
 <div style=\"page-break-after: always\"></div>
-
-bladder dysfunction). If neurological compromise is noted, urgent diagnosis and treatment is necessary. Prior to neuraxial intervention the physician should consider the potential benefit versus the risk in anticoagulated patients or in patients to be anticoagulated for thromboprophylaxis.
 
 There is no clinical experience with the use of apixaban with indwelling intrathecal or epidural catheters. In case there is such need and based on the general PK characteristics of apixaban, a time interval of 20-30 hours (i.e., 2 x half-life) between the last dose of apixaban and catheter withdrawal should elapse, and at least one dose should be omitted before catheter withdrawal. The next dose of apixaban may be given at least 5 hours after catheter removal. As with all new anticoagulant medicinal products, experience with neuraxial blockade is limited and extreme caution is therefore recommended when using apixaban in the presence of neuraxial blockade.
 
@@ -327,7 +325,7 @@ Patients with active cancer can be at high risk of both venous thromboembolism a
 
 Limited clinical data indicate that apixaban plasma concentrations are increased in patients with severe renal impairment (creatinine clearance 15-29 mL/min) which may lead to an increased bleeding risk. For the prevention of VTE in elective hip or knee replacement surgery (VTEp), the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt), apixaban is to be used with caution in patients with severe renal impairment (creatinine clearance 15-29 mL/min) (see sections 4.2 and 5.2).
 
-For the prevention of stroke and systemic embolism in patients with NVAF, patients with severe renal impairment (creatinine clearance 15-29 mL/min), and patients with serum creatinine ≥ 1.5 mg/dL (133 micromole/L) associated with age ≥ 80 years or body weight ≤ 60 kg should receive the lower dose of apixaban 2.5 mg twice daily (see section 4.2).
+For the prevention of stroke and systemic embolism in patients with NVAF, patients with severe renal impairment (creatinine clearance 15-29 mL/min), and patients with serum creatinine ≥ 1.5 mg/dL (133 micromole/L) associated with age ≥ 80 years or body wei ght ≤ 60 kg should receive the lower dose of apixaban 2.5 mg twice daily (see section 4.2).
 
 In patients with creatinine clearance &lt; 15 mL/min, or in patients undergoing dialysis, there is no clinical experience therefore apixaban is not recommended (see sections 4.2 and 5.2).
 
@@ -389,7 +387,7 @@ Clotting tests [e.g., prothrombin time (PT), INR, and activated partial thrombop
 
 Apixaban Accord contains lactose. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free' .
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -547,7 +545,7 @@ Table 3: Tabulated adverse reactions
 | Skin rash                                                                                                                           | Not known                                                                                                | Uncommon                                                                                                       | Common                                                                                     | Common                                                                                                              |
 | Alopecia                                                                                                                            | Rare                                                                                                     | Uncommon                                                                                                       | Uncommon                                                                                   | Common                                                                                                              |
 | Erythema multiforme                                                                                                                 | Not known                                                                                                | Very rare                                                                                                      | Not known                                                                                  | Not known                                                                                                           |
-| Cutaneousvasculitis                                                                                                                 | Notknown                                                                                                 | Notknown                                                                                                       | Notknown                                                                                   | Not known                                                                                                           |
+| Cutaneous vasculitis                                                                                                                | Not known                                                                                                | Not known                                                                                                      | Not known                                                                                  | Not known                                                                                                           |
 | Musculoskeletal and connective tissue disorders                                                                                     | Musculoskeletal and connective tissue disorders                                                          | Musculoskeletal and connective tissue disorders                                                                | Musculoskeletal and connective tissue disorders                                            | Musculoskeletal and connective tissue disorders                                                                     |
 | Muscle haemorrhage                                                                                                                  | Rare                                                                                                     | Rare                                                                                                           | Uncommon                                                                                   | Not known                                                                                                           |
 | Renal and urinary disorders                                                                                                         | Renal and urinary disorders                                                                              | Renal and urinary disorders                                                                                    | Renal and urinary disorders                                                                | Renal and urinary disorders                                                                                         |
@@ -571,7 +569,7 @@ Table 3: Tabulated adverse reactions
 
 * There were no occurrences of generalised pruritus in CV185057 (long term prevention of VTE).
 
-† The term 'Brain haemorrhage' encompasses all intracranial or intraspinal haemorrhages (i.e., haemorrhagic stroke or putamen, cerebellar, intraventricular, or subdural haemorrhages).
+† The term 'Brain haemorrhage' encompasses all intracranial or intraspinal haemorrhages (i .e., haemorrhagic stroke or putamen, cerebellar, intraventricular, or subdural haemorrhages).
 
 ‡ Includes anaphylactic reaction, drug hypersensitivity, and hypersensitivity.
 
@@ -708,12 +706,6 @@ Table 6: Bleeding results frompivotal phase III studies*
 | Major + CRNM                    | 96 (3.6%)                               | 115 (4.3%)                              | 41 (2.7%)                               | 56 (3.7%)                               |
 | All                             | 261 (9.8%)                              | 293 (11.0%)                             | 89 (5.9%)                               | 103 (6.8%)                              |
 
-* All the bleeding criteria included surgical site bleeding
-
-1  Includes events occurring after first dose of enoxaparin (pre-surgery)
-
-2  Includes events occurring after first dose of apixaban (post-surgery)
-
 The overall incidences of adverse reactions of bleeding, anaemia and abnormalities of transaminases (e.g., ALT levels) were numerically lower in patients on apixaban compared to enoxaparin in the phase II and phase III studies in elective hip and knee replacement surgery.
 
 In the knee replacement surgery study during the intended treatment period, in the apixaban arm 4 cases of PE were diagnosed against no cases in the enoxaparin arm. No explanation can be given to this higher number of PE.
@@ -724,11 +716,11 @@ In the knee replacement surgery study during the intended treatment period, in t
 
 A total of 23,799 adult patients were randomised in the clinical program (ARISTOTLE: apixaban versus warfarin, AVERROES: apixaban versus ASA) including 11,927 randomised to apixaban. The program was designed to demonstrate the efficacy and safety of apixaban for the prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation (NVAF) and one or more additional risk factors, such as:
 
--  prior stroke or transient ischaemic attack (TIA)
--  age ≥ 75 years
--  hypertension
--  diabetes mellitus
--  symptomatic heart failure (NYHA Class ≥ II)
+- prior stroke or transient ischaemic attack (TIA)
+- age ≥ 75 years
+- hypertension
+- diabetes mellitus
+- symptomatic heart failure (NYHA Class ≥ II)
 
 ## ARISTOTLE study
 
@@ -738,9 +730,9 @@ In the study, apixaban achieved statistically significant superiority in the pri
 
 Table 7: Efficacy outcomes in patients with atrial fibrillation in the ARISTOTLE study
 
-|                             | Apixaban N=9,120 n (%/yr)   | Warfarin N=9,081 n (%/yr)   | Hazard ratio (95% CI)   | p-value   |
+|                             | Apixaban N=9,120 n (%/yr)   | Warfarin N=9,081 n (%/yr)   | Hazard ratio (95% CI)   |   p-value |
 |-----------------------------|-----------------------------|-----------------------------|-------------------------|-----------|
-| Stroke or systemic embolism | 212 (1.27)                  | 265 (1.60)                  | 0.79 (0.66, 0.95)       | 0.0114    |
+| Stroke or systemic embolism | 212 (1.27)                  | 265 (1.60)                  | 0.79 (0.66, 0.95)       |    0.0114 |
 | Stroke                      |                             |                             |                         |           |
 | Ischaemic or unspecified    | 162 (0.97)                  | 175 (1.05)                  | 0.92 (0.74, 1.13)       |           |
 | Haemorrhagic                | 40 (0.24)                   | 78 (0.47)                   | 0.51 (0.35, 0.75)       |           |
@@ -767,10 +759,6 @@ Table 8: Secondary endpoints in patients with atrial fibrillation in the ARISTOT
 | Other endpoints       |                                 |                                 |                         |           |
 | All-cause death       | 603 (3.52)                      | 669 (3.94)                      | 0.89 (0.80, 1.00)       | 0.0465    |
 | Myocardial infarction | 90 (0.53)                       | 102 (0.61)                      | 0.88 (0.66, 1.17)       |           |
-
-* Major bleeding defined per International Society on Thrombosis and Haemostasis (ISTH) criteria.
-
-† Clinically Relevant Non-Major
 
 The overall discontinuation rate due to adverse reactions was 1.8% for apixaban and 2.6% for warfarin in the ARISTOTLE study.
 
@@ -808,25 +796,17 @@ Table 9: Key efficacy outcomes in patients with atrial fibrillation in the AVERR
 | Vascular death                                       | 84 (2.65)                       | 96 (3.03)                  | 0.87 (0.65, 1.17)       |           |
 | All-cause death †                                    | 111 (3.51)                      | 140 (4.42)                 | 0.79 (0.62, 1.02)       | 0.068     |
 
-* Assessed by sequential testing strategy designed to control the overall type I error in the trial.
-
-† Secondary endpoint.
-
 There was no statistically significant difference in the incidence of major bleeding between apixaban and ASA (see Table 10).
 
 Table 10: Bleeding events in patients with atrial fibrillation in the AVERROES study
 
-|                 | Apixaban N = 2,798 N (%/year)   | ASA N = 2,780 n (%/year)   | Hazard ratio (95% CI)   | p-value   |
+|                 | Apixaban N = 2,798 N (%/year)   | ASA N = 2,780 n (%/year)   | Hazard ratio (95% CI)   |   p-value |
 |-----------------|---------------------------------|----------------------------|-------------------------|-----------|
-| Major*          | 45 (1.41)                       | 29 (0.92)                  | 1.54 (0.96, 2.45)       | 0.0716    |
+| Major*          | 45 (1.41)                       | 29 (0.92)                  | 1.54 (0.96, 2.45)       |    0.0716 |
 | Fatal, n        | 5 (0.16)                        | 5 (0.16)                   |                         |           |
 | Intracranial, n | 11 (0.34)                       | 11 (0.35)                  |                         |           |
-| Major + CRNM†   | 140 (4.46)                      | 101 (3.24)                 | 1.38 (1.07, 1.78)       | 0.0144    |
-| All             | 325 (10.85)                     | 250 (8.32)                 | 1.30 (1.10, 1.53)       | 0.0017    |
-
-*Major bleeding defined per International Society on Thrombosis and Haemostasis (ISTH) criteria.
-
-† Clinically relevant non-major
+| Major + CRNM†   | 140 (4.46)                      | 101 (3.24)                 | 1.38 (1.07, 1.78)       |    0.0144 |
+| All             | 325 (10.85)                     | 250 (8.32)                 | 1.30 (1.10, 1.53)       |    0.0017 |
 
 ## NVAF patients with ACS and/or undergoing PCI
 
@@ -886,8 +866,6 @@ Table 11: Efficacy results in the AMPLIFY study
 | VTE or CV-related death                   | 61 (2.3)                   | 77 (2.9)                               | 0.80 (0.57, 1.11)        |
 | VTE, VTE-related death, or major bleeding | 73 (2.8)                   | 118 (4.5)                              | 0.62 (0.47, 0.83)        |
 
-* Noninferior compared to enoxaparin/warfarin (p-value &lt; 0.0001)
-
 Apixaban efficacy in initial treatment of VTE was consistent between patients who were treated for a PE [Relative Risk 0.9; 95% CI (0.5, 1.6)] or DVT [Relative Risk 0.8; 95% CI (0.5, 1.3)]. Efficacy across subgroups, including age, gender, body mass index (BMI), renal function, extent of index PE, location of DVT thrombus, and prior parenteral heparin use was generally consistent.
 
 The primary safety endpoint was major bleeding. In the study, apixaban was statistically superior to enoxaparin/warfarin in the primary safety endpoint [Relative Risk 0.31, 95% confidence interval (0.17, 0.55), P-value &lt;0.0001] (see Table 12).
@@ -936,8 +914,8 @@ Table 13: Efficacy results in the AMPLIFY-EXT study
 |             | Apixaban         | Apixaban         | Placebo   | Relative risk (95% CI)   | Relative risk (95% CI)   |
 |-------------|------------------|------------------|-----------|--------------------------|--------------------------|
 |             | 2.5 mg (N = 840) | 5.0 mg (N = 813) | (N = 829) | Apix 2.5 mg vs. placebo  | Apix 5.0 mg vs. placebo  |
-| VTE-related | 2 (0.2)          | 3 (0.4)          | 7 (0.8)   | 0.28                     | 0.45                     |
-| death       |                  |                  |           | (0.06, 1.37)             | (0.12, 1.71)             |
+| VTE-related | 2 (0.2)          | 3 (0.4)          | 7 (0.8)   | 0.28 (0.06,              | 0.45 (0.12,              |
+| death       |                  |                  |           | 1.37)                    | 1.71)                    |
 
 ¥  p-value &lt; 0.0001
 
@@ -966,7 +944,7 @@ Adjudicated ISTH major gastrointestinal bleeding occurred in 1 (0.1%) apixaban-t
 
 ## Treatment of venous thromboembolism (VTE) and prevention of recurrent VTE in paediatric patients from 28 days to &lt; 18 years of age
 
-Study CV185325 was a randomised, active controlled, open label, multi-centre study of apixaban for the treatment of VTE in paediatric patients. This descriptive efficacy and safety study included 217 paediatric patients; requiring anticoagulation treatment for VTE and prevention of recurrent VTE; 137 patients in age group 1 (12 to &lt; 18 years), 44 patients in age group 2 (2 to &lt; 12 years), 32 patients in age group 3 (28 days to &lt; 2 years) and 4 patients in age group 4 (birth to &lt; 28 days). The index VTE was confirmed by imaging, and was independently adjudicated. Prior to randomization, patients were treated with SOC anticoagulation for up to 14 days (mean (SD) duration of treatment with SOC anticoagulation prior to start of study medication was 4.8 (2.5) days, and 92.3% of patients was started ≤ 7 days). Patients were randomised according to a 2:1 ratio to an age-appropriate formulation of apixaban (doses adjusted for weight equivalent to a loading dose of 10 mg twice daily for 7 days followed by 5 mg twice daily in adults) or SOC. For patients 2 to &lt; 18 years, SOC was comprised of low molecular weight heparins (LMWH), unfractionated heparins (UFH) or vitamin K antagonists
+Study CV185325 was a randomised, active controlled, open label, multi-centre study of apixaban for the treatment of VTE in paediatric patients. This descriptive efficacy and safety study included 217 paediatric patients; requiring anticoagulation treatment for VTE and prevention of recurrent VTE; 137 patients in age group 1 (12 to &lt; 18 years), 44 patients in age group 2 (2 to &lt; 12 years), 32 patients in age group 3 (28 days to &lt; 2 years) and 4 patients in age group 4 (birth to &lt; 28 days). The index VTE was confirmed by imaging, and was independently adjudicated. Prior to randomization, patients were treated with SOC anticoagulation for up to 14 days (mean (SD) duration of treatment with SOC anticoagulation prior to start of study medication was 4.8 (2.5) days, and 92.3% of patients was started ≤ 7 days). Patients were randomised according to a 2:1 ratio to an age -appropriate formulation of apixaban (doses adjusted for weight equivalent to a loading dose of 10 mg twice daily for 7 days followed by 5 mg twice daily in adults) or SOC. For patients 2 to &lt; 18 years, SOC was comprised of low molecular weight heparins (LMWH), unfractionated heparins (UFH) or vitamin K antagonists
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1065,11 +1043,9 @@ In adults, apixaban has a total clearance of about 3.3 L/h and a half-life of ap
 
 In paediatrics, apixaban has a total apparent clearance of about 3.0 L/h.
 
-O-demethylation and hydroxylation at the 3-oxopiperidinyl moiety are the major sites of biotransformation. Apixaban is metabolised mainly via CYP3A4/5 with minor contributions from CYP1A2, 2C8, 2C9, 2C19, and 2J2. Unchanged apixaban is the major active substance-related
+O-demethylation and hydroxylation at the 3-oxopiperidinyl moiety are the major sites of biotransformation. Apixaban is metabolised mainly via CYP3A4/5 with minor contributions from CYP1A2, 2C8, 2C9, 2C19, and 2J2. Unchanged apixaban is the major active substance-related component in human plasma with no active circulating metabolites present. Apixaban is a substrate of transport proteins, P-gp and breast cancer resistance protein (BCRP).
 
 <div style=\"page-break-after: always\"></div>
-
-component in human plasma with no active circulating metabolites present. Apixaban is a substrate of transport proteins, P-gp and breast cancer resistance protein (BCRP).
 
 ## Elderly
 
@@ -1088,23 +1064,21 @@ Table 17: eGFR eligibility thresholds for study CV185325
 | Postnatal age (gender)                     | GFR reference range (mL/min/1.73 m2)   | Eligibility threshold for eGFR*   |
 |--------------------------------------------|----------------------------------------|-----------------------------------|
 | 1 week (males and females)                 | 41 ± 15                                | ≥ 8                               |
-| 2-8 weeks (males and females)              | 66 ± 25                                | ≥ 12                              |
+| 2 - 8 weeks (males and females)            | 66 ± 25                                | ≥ 12                              |
 | > 8 weeks to < 2 years (males and females) | 96 ± 22                                | ≥ 22                              |
-| 2-12 years (males and females)             | 133 ± 27                               | ≥ 30                              |
-| 13-17 years (males)                        | 140 ± 30                               | ≥ 30                              |
-| 13-17 years (females)                      | 126 ± 22                               | ≥ 30                              |
+| 2 - 12 years (males and females)           | 133 ± 27                               | ≥ 30                              |
+| 13 - 17 years (males)                      | 140 ± 30                               | ≥ 30                              |
+| 13 - 17 years (females)                    | 126 ± 22                               | ≥ 30                              |
 
-*Eligibility threshold for CV185325 study participation, where estimated glomerular filtration rate (eGFR) was calculated per the updated bedside Schwartz equation (Schwartz, GJ et al., CJASN 2009). This per protocol threshold corresponded to the eGFR below which a prospective patient was considered to have 'inadequate renal function' that precluded participation in Study CV185325. Each threshold was defined as an eGFR &lt; 30% of 1 standard deviation (SD) below the GFR reference range for age and gender. Threshold values for patients &lt; 2 years of age correspond to an eGFR &lt; 30 mL/min/1.73 m2, the conventional definition of severe renal failure in patients &gt; 2 years of age.
+*Eligibility threshold for CV185325 study participation, where estimated glomerular filtration rate (eGFR) was calculated per the updated bedside Schwartz equation (Schwartz, GJ et al., CJASN 2009). This per protocol threshold corresponded to the eGFR belo w which a prospective patient was considered to have 'inadequate renal function' that precluded participation in Study CV185325. Each threshold was defined as an eGFR &lt; 30% of 1 standard deviation (SD) below the GFR reference range for age and gender. Threshold values for patients &lt; 2 years of age correspond to an eGFR &lt; 30 mL/min/1.73 m2, the conventional definition of severe renal failure in patients &gt; 2 years of age.
 
 Paediatric patients with glomerular filtration rates ≤ 55 mL/min/1.73 m2 did not participate in Study CV185325, although those with mild to moderate levels of renal impairment (eGFR ≥ 30 to &lt; 60 mL/min/1.73 m2 BSA) were eligible. Based on adult data and limited data in all apixaban-treated paediatric patients, no dose adjustment is necessary in paediatric patients with mild to moderate renal impairment. Apixaban is not recommended in paediatric patients with severe renal impairment (see sections 4.2 and 4.4).
 
 ## Hepatic impairment
 
-In a study comparing 8 subjects with mild hepatic impairment, Child-Pugh A score 5 (n = 6) and score 6 (n = 2), and 8 subjects with moderate hepatic impairment, Child-Pugh B score 7 (n = 6) and score 8 (n = 2), to 16 healthy control subjects, the single-dose pharmacokinetics and
+In a study comparing 8 subjects with mild hepatic impairment, Child-Pugh A score 5 (n = 6) and score 6 (n = 2), and 8 subjects with moderate hepatic impairment, Child-Pugh B score 7 (n = 6) and score 8 (n = 2), to 16 healthy control subjects, the single-dose pharmacokinetics and pharmacodynamics of apixaban 5 mg were not altered in subjects with hepatic impairment. Changes in anti-Factor Xa activity and INR were comparable between subjects with mild to moderate hepatic impairment and healthy subjects.
 
 <div style=\"page-break-after: always\"></div>
-
-pharmacodynamics of apixaban 5 mg were not altered in subjects with hepatic impairment. Changes in anti-Factor Xa activity and INR were comparable between subjects with mild to moderate hepatic impairment and healthy subjects.
 
 Apixaban has not been studied in paediatric patients with hepatic impairment.
 
@@ -1128,7 +1102,7 @@ Administration of apixaban to paediatric patients is based on a fixed-dose by we
 
 ## Pharmacokinetic/pharmacodynamic relationship
 
-In adults, the pharmacokinetic /pharmacodynamic (PK/PD) relationship between apixaban plasma concentration and several PD endpoints (anti-Factor Xa activity [AXA], INR, PT, aPTT) has been evaluated after administration of a wide range of doses (0.5 - 50 mg). The relationship between apixaban plasma concentration and anti-Factor Xa activity was best described by a linear model. The PK/PD relationship observed in patients was consistent with that established in healthy subjects.
+In adults, the pharmacokinetic /pharmacodynamic (PK/PD) relationship between apixaban plasma concentration and several PD endpoints (anti-Factor Xa activity [AXA], INR, PT, aPTT) has been evaluated after administration of a wide range of doses (0.5 -50 mg). The relationship between apixaban plasma concentration and anti-Factor Xa activity was best described by a linear model. The PK/PD relationship observed in patients was consistent with that established in healthy subjects.
 
 Similarly, results from apixaban paediatric PK/PD assessment indicate a linear relationship between apixaban concentration and AXA. This is consistent with the previously documented relationship in adults.
 
@@ -1256,11 +1230,9 @@ The recommended dose of apixaban is 2.5 mg taken orally twice daily in patients 
 
 Therapy should be continued long-term.
 
-Treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt) in adults
+Treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt) in adults The recommended dose of apixaban for the treatment of acute DVT and treatment of PE is 10 mg taken orally twice daily for the first 7 days followed by 5 mg taken orally twice daily. As per available medical guidelines, short duration of treatment (at least 3 months) should be based on transient risk factors (e.g., recent surgery, trauma, immobilisation).
 
 <div style=\"page-break-after: always\"></div>
-
-The recommended dose of apixaban for the treatment of acute DVT and treatment of PE is 10 mg taken orally twice daily for the first 7 days followed by 5 mg taken orally twice daily. As per available medical guidelines, short duration of treatment (at least 3 months) should be based on transient risk factors (e.g., recent surgery, trauma, immobilisation).
 
 The recommended dose of apixaban for the prevention of recurrent DVT and PE is 2.5 mg taken orally twice daily. When prevention of recurrent DVT and PE is indicated, the 2.5 mg twice daily dose should be initiated following completion of 6 months of treatment with apixaban 5 mg twice daily or with another anticoagulant, as indicated in Table 1 below (see also section 5.1)
 
@@ -1325,7 +1297,7 @@ In adult patients with mild or moderate renal impairment, the following recommen
 
 - for the treatment of DVT, treatment of PE and prevention of recurrent DVT and PE (VTEt), no dose adjustment is necessary (see section 5.2).
 
-- for the prevention of stroke and systemic embolism in patients with NVAF and serum creatinine ≥ 1.5 mg/dL (133 micromole/L) associated with age ≥ 80 years or body weight ≤ 60 kg, a dose reduction is necessary (see above subheading Dose reduction). In the absence of other criteria for dose reduction (age, body weight), no dose adjustment is necessary (see section 5.2).
+-for the prevention of stroke and systemic embolism in patients with NVAF and serum creatinine ≥ 1.5 mg/dL (133 micromole/L) associated with age ≥ 80 years or body weight ≤ 60 kg, a dose reduction is necessary (see above subheading Dose reduction). In the absence of other criteria for dose reduction (age, body weight), no dose adjustment is necessary (see section 5.2).
 
 In adult patients with severe renal impairment (creatinine clearance 15-29 mL/min) the following recommendations apply (see sections 4.4 and 5.2):
 
@@ -1406,11 +1378,11 @@ Crushed Apixaban Accord tablets are stable in water, G5W, apple juice, and apple
 
 ## 4.3 Contraindications
 
--  Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
--  Active clinically significant bleeding.
--  Hepatic disease associated with coagulopathy and clinically relevant bleeding risk (see section 5.2).
--  Lesion or condition if considered a significant risk factor for major bleeding. This may include current or recent gastrointestinal ulceration, presence of malignant neoplasms at high risk of bleeding, recent brain or spinal injury, recent brain, spinal or ophthalmic surgery, recent intracranial haemorrhage, known or suspected oesophageal varices, arteriovenous malformations, vascular aneurysms or major intraspinal or intracerebral vascular abnormalities.
--  Concomitant treatment with any other anticoagulant agent e.g., unfractionated heparin (UFH), low molecular weight heparins (enoxaparin, dalteparin, etc.), heparin derivatives (fondaparinux, etc.), oral anticoagulants (warfarin, rivaroxaban, dabigatran etexilate, etc.) except under specific circumstances of switching anticoagulant therapy (see section 4.2), when UFH is given at doses necessary to maintain an open central venous or arterial catheter or when UFH is given during catheter ablation for atrial fibrillation (see sections 4.4 and 4.5).
+- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+- Active clinically significant bleeding.
+- Hepatic disease associated with coagulopathy and clinically relevant bleeding risk (see section 5.2).
+- Lesion or condition if considered a significant risk factor for major bleeding. This may include current or recent gastrointestinal ulceration, presence of malignant neoplasms at high risk of bleeding, recent brain or spinal injury, recent brain, spinal or ophthalmic surgery, recent intracranial haemorrhage, known or suspected oesophageal varices, arteriovenous malformations, vascular aneurysms or major intraspinal or intracerebral vascular abnormalities.
+- Concomitant treatment with any other anticoagulant agent e.g., unfractionated heparin (UFH), low molecular weight heparins (enoxaparin, dalteparin, etc.), heparin derivatives (fondaparinux, etc.), oral anticoagulants (warfarin, rivaroxaban, dabigatran etexilate, etc.) except under specific circumstances of switching anticoagulant therapy (see section 4.2), when UFH is given at doses necessary to maintain an open central venous or arterial catheter or when UFH is given during catheter ablation for atrial fibrillation (see sections 4.4 and 4.5).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -1456,11 +1428,9 @@ Apixaban has not been studied in paediatric patients with prosthetic heart valve
 
 ## Patients with antiphospholipid syndrome
 
-Direct acting Oral Anticoagulants (DOACs) including apixaban are not recommended for patients with a history of thrombosis who are diagnosed with antiphospholipid syndrome. In particular for patients that are triple positive (for lupus anticoagulant, anticardiolipin antibodies, and anti-beta 2-
+Direct acting Oral Anticoagulants (DOACs) including apixaban are not recommended for patients with a history of thrombosis who are diagnosed with antiphospholipid syndrome. In particular for patients that are triple positive (for lupus anticoagulant, anticardiolipin antibodies, and anti-beta 2- glycoprotein I antibodies), treatment with DOACs could be associated with increased rates of recurrent thrombotic events compared with vitamin K antagonist therapy.
 
 <div style=\"page-break-after: always\"></div>
-
-glycoprotein I antibodies), treatment with DOACs could be associated with increased rates of recurrent thrombotic events compared with vitamin K antagonist therapy.
 
 ## Surgery and invasive procedures
 
@@ -1486,11 +1456,9 @@ There is no clinical experience with the use of apixaban with indwelling intrath
 
 No data are available on the timing of the placement or removal of neuraxial catheter in paediatric patients while on apixaban. In such cases, discontinue apixaban and consider a short acting parenteral anticoagulant.
 
-Haemodynamically unstable PE patients or patients who require thrombolysis or pulmonary embolectomy
+Haemodynamically unstable PE patients or patients who require thrombolysis or pulmonary embolectomy Apixaban is not recommended as an alternative to unfractionated heparin in patients with pulmonary embolism who are haemodynamically unstable or may receive thrombolysis or pulmonary embolectomy since the safety and efficacy of apixaban have not been established in these clinical situations.
 
 <div style=\"page-break-after: always\"></div>
-
-Apixaban is not recommended as an alternative to unfractionated heparin in patients with pulmonary embolism who are haemodynamically unstable or may receive thrombolysis or pulmonary embolectomy since the safety and efficacy of apixaban have not been established in these clinical situations.
 
 ## Patients with active cancer
 
@@ -1532,11 +1500,9 @@ Patients with elevated liver enzymes ALT/AST &gt; 2 x ULN or total bilirubin ≥
 
 Apixaban has not been studied in paediatric patients with hepatic impairment.
 
-Interaction with inhibitors of both cytochrome P450 3A4 (CYP3A4) and P-glycoprotein (P-gp) The use of apixaban is not recommended in patients receiving concomitant systemic treatment with strong inhibitors of both CYP3A4 and P-gp, such as azole-antimycotics (e.g., ketoconazole, itraconazole, voriconazole and posaconazole) and HIV protease inhibitors (e.g., ritonavir). These
+Interaction with inhibitors of both cytochrome P450 3A4 (CYP3A4) and P-glycoprotein (P-gp) The use of apixaban is not recommended in patients receiving concomitant systemic treatment with strong inhibitors of both CYP3A4 and P-gp, such as azole-antimycotics (e.g., ketoconazole, itraconazole, voriconazole and posaconazole) and HIV protease inhibitors (e.g., ritonavir). These medicinal products may increase apixaban exposure by 2-fold (see section 4.5) or greater in the presence of additional factors that increase apixaban exposure (e.g., severe renal impairment). No clinical data are available in paediatric patients receiving concomitant systemic treatment with strong inhibitors of both CYP 3A4 and P-gp (see section 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-medicinal products may increase apixaban exposure by 2-fold (see section 4.5) or greater in the presence of additional factors that increase apixaban exposure (e.g., severe renal impairment). No clinical data are available in paediatric patients receiving concomitant systemic treatment with strong inhibitors of both CYP 3A4 and P-gp (see section 4.5).
 
 ## Interaction with inducers of both CYP3A4 and P-gp
 
@@ -1555,7 +1521,7 @@ Clotting tests [e.g., prothrombin time (PT), INR, and activated partial thrombop
 
 ## Information about excipients
 
-Apixaban Accord contains lactose. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product. This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+Apixaban Accord contains lactose. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product. This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free' .
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -1697,7 +1663,8 @@ Table 3: Tabulated adverse reactions
 | Haemorrhoidal haemorrhage                                                                                                           | Uncommon                                                                                                       | Uncommon                                                                                   | Not known                                                                                                            |
 | Mouth haemorrhage                                                                                                                   | Uncommon                                                                                                       | Common                                                                                     | Not known                                                                                                            |
 | Haematochezia                                                                                                                       | Uncommon                                                                                                       | Uncommon                                                                                   | Common                                                                                                               |
-| Rectal haemorrhage, gingival bleeding                                                                                               | Common                                                                                                         | Common                                                                                     | Common                                                                                                               |
+| Rectal haemorrhage, gingival                                                                                                        | Common                                                                                                         | Common                                                                                     | Common                                                                                                               |
+| bleeding                                                                                                                            |                                                                                                                |                                                                                            |                                                                                                                      |
 | Retroperitoneal haemorrhage                                                                                                         | Rare                                                                                                           | Not known                                                                                  | Not known                                                                                                            |
 | Hepatobiliary disorders                                                                                                             |                                                                                                                |                                                                                            |                                                                                                                      |
 | Liver function test abnormal, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood bilirubin increased | Uncommon                                                                                                       | Uncommon                                                                                   | Common                                                                                                               |
@@ -1745,13 +1712,13 @@ The safety of apixaban has been investigated in 1 Phase I and 3 Phase II/III cli
 
 Overall, the safety profile of apixaban in paediatric patients 28 days to &lt; 18 years of age was similar to that in adults and was generally consistent across different paediatric age groups.
 
-The most commonly reported adverse reactions in paediatric patients were epistaxis, and abnormal vaginal haemorrhage (see Table 3 for adverse reaction profile and frequencies by indication). In paediatric patients, epistaxis (very common), abnormal vaginal haemorrhage (very common), hypersensitivity and anaphylaxis (common), pruritus (common), hypotension (common), haematochezia (common), aspartate aminotransferase increased (common), alopecia (common) and post procedural haemorrhage (common) were reported more frequently as compared to adults treated with apixaban, but in the same frequency category as the paediatric patients in the standard of care (SOC) arm; the only exception was abnormal vaginal haemorrhage, which was reported as common in the SOC. In all but one case, hepatic transaminase elevations were reported in paediatric patients receiving concomitant chemotherapy for an underlying malignancy.
+The most commonly reported adverse reactions in paediatric patients were epistaxis, and abnormal vaginal haemorrhage (see Table 3 for adverse reaction profile and frequencies by indication). In paediatric patients, epistaxis (very common), abnormal vaginal haemorrhage (very common), hypersensitivity and anaphylaxis (common), pruritus (common), hypotension (common),
 
-Reporting of suspected adverse reactions
+haematochezia (common), aspartate aminotransferase increased (common), alopecia (common) and post procedural haemorrhage (common) were reported more frequently as compared to adults treated with apixaban, but in the same frequency category as the paediatric patients in the standard of care (SOC) arm; the only exception was abnormal vaginal haemorrhage, which was reported as common in the SOC. In all but one case, hepatic transaminase elevations were reported in paediatric patients receiving concomitant chemotherapy for an underlying malignancy.
+
+Reporting of suspected adverse reactions Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
-
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -1825,11 +1792,11 @@ The predicted steady state exposure and anti-Factor Xa activity for the paediatr
 
 A total of 23,799 adult patients were randomised in the clinical program (ARISTOTLE: apixaban versus warfarin, AVERROES: apixaban versus ASA) including 11,927 randomised to apixaban. The program was designed to demonstrate the efficacy and safety of apixaban for the prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation (NVAF) and one or more additional risk factors, such as:
 
--  prior stroke or transient ischaemic attack (TIA)
--  age ≥ 75 years
--  hypertension
--  diabetes mellitus
--  symptomatic heart failure (NYHA Class ≥ II)
+- prior stroke or transient ischaemic attack (TIA)
+- age ≥ 75 years
+- hypertension
+- diabetes mellitus
+- symptomatic heart failure (NYHA Class ≥ II)
 
 ## ARISTOTLE study
 
@@ -1841,9 +1808,9 @@ In the study, apixaban achieved statistically significant superiority in the pri
 
 Table 5: Efficacy outcomes in patients with atrial fibrillation in the ARISTOTLE study
 
-|                             | Apixaban N = 9,120 n (%/yr)   | Warfarin N = 9,081 n (%/yr)   | Hazard ratio (95% CI)   | p-value   |
+|                             | Apixaban N = 9,120 n (%/yr)   | Warfarin N = 9,081 n (%/yr)   | Hazard ratio (95% CI)   |   p-value |
 |-----------------------------|-------------------------------|-------------------------------|-------------------------|-----------|
-| Stroke or systemic embolism | 212 (1.27)                    | 265 (1.60)                    | 0.79 (0.66, 0.95)       | 0.0114    |
+| Stroke or systemic embolism | 212 (1.27)                    | 265 (1.60)                    | 0.79 (0.66, 0.95)       |    0.0114 |
 | Stroke                      |                               |                               |                         |           |
 | Ischaemic or unspecified    | 162 (0.97)                    | 175 (1.05)                    | 0.92 (0.74, 1.13)       |           |
 | Haemorrhagic                | 40 (0.24)                     | 78 (0.47)                     | 0.51 (0.35, 0.75)       |           |
@@ -1868,10 +1835,6 @@ Table 6: Secondary endpoints in patients with atrial fibrillation in the ARISTOT
 | Other endpoints       |                                 |                                 |                         |           |
 | All-cause death       | 603 (3.52)                      | 669 (3.94)                      | 0.89 (0.80, 1.00)       | 0.0465    |
 | Myocardial infarction | 90 (0.53)                       | 102 (0.61)                      | 0.88 (0.66, 1.17)       |           |
-
-* Major bleeding defined per International Society on Thrombosis and Haemostasis (ISTH) criteria.
-
-† Clinically Relevant Non-Major
 
 The overall discontinuation rate due to adverse reactions was 1.8% for apixaban and 2.6% for warfarin in the ARISTOTLE study.
 
@@ -1909,27 +1872,21 @@ Table 7: Key efficacy outcomes in patients with atrial fibrillation in the AVERR
 | Vascular death                                       | 84 (2.65)                       | 96 (3.03)                  | 0.87 (0.65, 1.17)       |           |
 | All-cause death †                                    | 111 (3.51)                      | 140 (4.42)                 | 0.79 (0.62, 1.02)       | 0.068     |
 
-* Assessed by sequential testing strategy designed to control the overall type I error in the trial
-
-† Secondary endpoint.
-
 There was no statistically significant difference in the incidence of major bleeding between apixaban and ASA (see Table 8).
 
 Table 8: Bleeding events in patients with atrial fibrillation in the AVERROES study
 
-|                 | Apixaban N = 2,798 n(%/year)   | ASA N = 2,780 n (%/year)   | Hazard ratio (95%CI)   | p-value   |
+|                 | Apixaban N = 2,798 n(%/year)   | ASA N = 2,780 n (%/year)   | Hazard ratio (95%CI)   |   p-value |
 |-----------------|--------------------------------|----------------------------|------------------------|-----------|
-| Major*          | 45 (1.41)                      | 29 (0.92)                  | 1.54 (0.96, 2.45)      | 0.0716    |
+| Major*          | 45 (1.41)                      | 29 (0.92)                  | 1.54 (0.96, 2.45)      |    0.0716 |
 | Fatal, n        | 5 (0.16)                       | 5 (0.16)                   |                        |           |
 | Intracranial, n | 11 (0.34)                      | 11 (0.35)                  |                        |           |
-| Major + CRNM†   | 140 (4.46)                     | 101 (3.24)                 | 1.38 (1.07, 1.78)      | 0.0144    |
-| All             | 325 (10.85)                    | 250 (8.32)                 | 1.30 (1.10, 1.53)      | 0.0017    |
-
-*Major bleeding defined per International Society on Thrombosis ad Haemostasis (ISTH) criteria.
+| Major + CRNM†   | 140 (4.46)                     | 101 (3.24)                 | 1.38 (1.07, 1.78)      |    0.0144 |
+| All             | 325 (10.85)                    | 250 (8.32)                 | 1.30 (1.10, 1.53)      |    0.0017 |
 
 <div style=\"page-break-after: always\"></div>
 
-## † Clinically Relevant Non-Major
+† Clinically Relevant Non -Major
 
 ## NVAF patients with ACS and/or undergoing PCI
 
@@ -2057,7 +2014,7 @@ Adjudicated ISTH major gastrointestinal bleeding occurred in 1 (0.1%) apixaban-t
 
 ## Treatment of venous thromboembolism (VTE) and prevention of recurrent VTE in paediatric patients from 28 days to less than 18 years of age
 
-Study CV185325 was a randomised, active controlled, open label, multi-centre study of apixaban for the treatment of VTE in paediatric patients. This descriptive efficacy and safety study included 217 paediatric patients requiring anticoagulation treatment for VTE and prevention of recurrent VTE; 137 patients in age group 1 (12 to &lt; 18 years), 44 patients in age group 2 (2 to &lt; 12 years), 32 patients in age group 3 (28 days to &lt; 2 years) and 4 patients in age group 4 (birth to &lt; 28 days). The index VTE was confirmed by imaging, and independently adjudicated. Prior to randomization, patients were treated with SOC anticoagulation for up to 14 days (mean (SD) duration of treatment with SOC anticoagulation prior to start of study medication was 4.8 (2.5) days, and 92.3% of patients was started ≤ 7 days). Patients were randomised according to a 2:1 ratio to an age-appropriate formulation of apixaban (doses adjusted for weight equivalent to a loading dose of 10 mg BID for 7 days followed by 5 mg BID in adults) or SOC. For patients 2 to &lt; 18 years, SOC was comprised of low molecular weight heparins (LMWH), unfractionated heparins (UFH) or vitamin K antagonists (VKA). For patients 28 days to &lt; 2 years of age, SOC will be limited to heparins (UFH or LMWH). The main treatment phase lasted 42 to 84 days for patients aged &lt; 2 years, and 84 days in subjects aged &gt; 2 years. Subjects aged 28 days to &lt; 18 years who were randomized to receive apixaban had the option to continue apixaban treatment for 6 to 12 additional weeks in the extension phase.
+Study CV185325 was a randomised, active controlled, open label, multi-centre study of apixaban for the treatment of VTE in paediatric patients. This descriptive efficacy and safety study included 217 paediatric patients requiring anticoagulation treatment for VTE and prevention of recurrent VTE; 137 patients in age group 1 (12 to &lt; 18 years), 44 patients in age group 2 (2 to &lt; 12 years), 32 patients in age group 3 (28 days to &lt; 2 years) and 4 patients in age group 4 (birth to &lt; 28 days). The index VTE was confirmed by imaging, and independently adjudicated. Prior to randomization, patients were treated with SOC anticoagulation for up to 14 days (mean (SD) duration of treatment with SOC anticoagulation prior to start of study medication was 4.8 (2.5) days, and 92.3% of patients was started ≤ 7 days). Patients were randomised according to a 2:1 ratio to an age -appropriate formulation of apixaban (doses adjusted for weight equivalent to a loading dose of 10 mg BID for 7 days followed by 5 mg BID in adults) or SOC. For patients 2 to &lt; 18 years, SOC was comprised of low molecular weight heparins (LMWH), unfractionated heparins (UFH) or vitamin K antagonists (VKA). For patients 28 days to &lt; 2 years of age, SOC will be limited to heparins (UFH or LMWH). The main treatment phase lasted 42 to 84 days for patients aged &lt; 2 years, and 84 days in subjects aged &gt; 2 years. Subjects aged 28 days to &lt; 18 years who were randomized to receive apixaban had the option to continue apixaban treatment for 6 to 12 additional weeks in the extension phase.
 
 The primary efficacy endpoint was the composite of all image-confirmed and adjudicated symptomatic and asymptomatic recurrent VTE and VTE-related death. No patient in either treatment group had a VTE-related death. A total of 4 (2.8%) patients in the apixaban group and 2 (2.8%) patients in the SOC group had at least 1 adjudicated symptomatic or asymptomatic recurrent VTE event.
 
@@ -2071,11 +2028,9 @@ Major bleeding was defined as bleeding that satisfies one or more of the followi
 
 CRNM bleeding was defined as bleeding that satisfies one or both of the following: (i) overt bleeding for which a blood product is administered, and which is not directly attributable to the subject's underlying medical condition and (ii) bleeding that requires medical or surgical intervention to restore hemostasis, other than in an operating suite.
 
-Minor bleeding was defined as any overt or macroscopic evidence of bleeding that does not fulfill the was classified as a minor bleeding event rather than clinically relevant non-major.
+Minor bleeding was defined as any overt or macroscopic evidence of bleeding that does not fulfill the above criteria for either major bleeding or clinically relevant, non-major bleeding. Menstrual bleeding, was classified as a minor bleeding event rather than clinically relevant non-major.
 
-In 53 patients who entered the extension phase and were treated with apixaban, no event of symptomatic and asymptomatic recurrent VTE or VTE related mortality was reported. No patients in patients in the extension phase experienced minor bleeding events.
-
-above criteria for either major bleeding or clinically relevant, non-major bleeding. Menstrual bleeding, the extension phase experienced an adjudicated major or a CRNM bleeding event. Eight (8/53; 15.1%)
+In 53 patients who entered the extension phase and were treated with apixaban, no event of symptomatic and asymptomatic recurrent VTE or VTE related mortality was reported. No patients in the extension phase experienced an adjudicated major or a CRNM bleeding event. Eight (8/53; 15.1%) patients in the extension phase experienced minor bleeding events.
 
 There were 3 deaths in the apixaban group and 1 death in the SOC group, all of which were assessed as not treatment-related by the investigator. None of these deaths were due to a VTE or bleeding event per the adjudication performed by the independent event adjudication committee.
 
@@ -2097,11 +2052,9 @@ Table 13: Apixaban dosing in the PREVAPIX-ALL study
 | 25 to < 35 kg   | 2 mg twice daily   |
 | ≥ 35 kg         | 2.5 mg twice daily |
 
-The primary efficacy endpoint was a composite of adjudicated symptomatic and asymptomatic nonfatal deep vein thrombosis, pulmonary embolism, cerebral venous sinus thrombosis, and venous thromboembolism-related death. The incidence of the primary efficacy endpoint was 31 (12.1%) in the
+The primary efficacy endpoint was a composite of adjudicated symptomatic and asymptomatic nonfatal deep vein thrombosis, pulmonary embolism, cerebral venous sinus thrombosis, and venous thromboembolism-related death. The incidence of the primary efficacy endpoint was 31 (12.1%) in the apixaban arm versus 45 (17.6%) in the standard of care arm. The relative risk reduction did not achieve significance.
 
 <div style=\"page-break-after: always\"></div>
-
-apixaban arm versus 45 (17.6%) in the standard of care arm. The relative risk reduction did not achieve significance.
 
 Safety endpoints were adjudicated according to ISTH criteria. The primary safety endpoint, major bleeding, occurred in 0.8% of patients in each treatment arm. CRNM bleeding occurred in 11 patients (4.3%) in the apixaban arm and 3 patients (1.2%) in the standard of care arm. The most common CRNM bleeding event contributing to the treatment difference was mild to moderate intensity epistaxis. Minor bleeding events occurred in 37 patients in the apixaban arm (14.5%) and 20 patients (7.8%) in the standard of care arm.
 
@@ -2130,11 +2083,9 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 In adults, the absolute bioavailability of apixaban is approximately 50% for doses up to 10 mg. Apixaban is rapidly absorbed with maximum concentrations (Cmax) appearing 3 to 4 hours after tablet intake. Intake with food does not affect apixaban AUC or Cmax at the 10 mg dose. Apixaban can be taken with or without food.
 
-Apixaban demonstrates linear pharmacokinetics with dose proportional increases in exposure for oral doses up to 10 mg. At doses ≥ 25 mg apixaban displays dissolution limited absorption with decreased
+Apixaban demonstrates linear pharmacokinetics with dose proportional increases in exposure for oral doses up to 10 mg. At doses ≥ 25 mg apixaban displays dissolution limited absorption with decreased bioavailability. Apixaban exposure parameters exhibit low to moderate variability reflected by a within-subject and inter-subject variability of ~20% CV and ~30% CV, respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-bioavailability. Apixaban exposure parameters exhibit low to moderate variability reflected by a within-subject and inter-subject variability of ~20% CV and ~30% CV, respectively.
 
 Following oral administration of 10 mg of apixaban as 2 crushed 5 mg tablets suspended in 30 mL of water, exposure was comparable to exposure after oral administration of 2 whole 5 mg tablets. Following oral administration of 10 mg of apixaban as 2 crushed 5 mg tablets with 30 g of apple puree, the Cmax and AUC were 21% and 16% lower, respectively, when compared to administration of 2 whole 5 mg tablets. The reduction in exposure is not considered clinically relevant.
 
@@ -2187,7 +2138,7 @@ Table 15: eGFR eligibility thresholds for study CV185325
 | 13-17 years (males)                        | 140 ± 30                               | ≥ 30                              |
 | 1317 years (females)                       | 126 ± 22                               | ≥ 30                              |
 
-*Eligibility threshold for CV185325 study participation, where estimated glomerular filtration rate (eGFR) was calculated per the updated bedside Schwartz equation (Schwartz, GJ et al., CJASN 2009). This per protocol threshold corresponded to the eGFR below which a prospective patient was considered to have 'inadequate renal function' that precluded participation in Study CV185325. Each threshold was defined as an eGFR &lt; 30% of 1 standard deviation (SD) below the GFR reference range for age and gender. Threshold values for patients &lt; 2 years of age correspond to an eGFR &lt; 30 mL/min/1.73 m2, the conventional definition of severe renal failure in patients &gt; 2 years of age.
+*Eligibility threshold for CV185325 study participation, where estimated glomerular filtration rate (eGFR) was calculated per the updated bedside Schwartz equation (Schwartz, GJ et al., CJASN 2009). This per protocol threshold corresponded to the eGFR belo w which a prospective patient was considered to have 'inadequate renal function' that precluded participation in Study CV185325. Each threshold was defined as an eGFR &lt; 30% of 1 standard deviation (SD) below the GFR reference range for age and gender. Threshold values for patients &lt; 2 years of age correspond to an eGFR &lt; 30 mL/min/1.73 m2, the conventional definition of severe renal failure in patients &gt; 2 years of age.
 
 Paediatric patients with glomerular filtration rates ≤ 55 mL/min/1.73 m2 did not participate in Study CV185325, although those with mild to moderate levels of renal impairment (eGFR ≥ 30 to &lt; 60 mL/min/1.73 m2 BSA) were eligible. Based on adult data and limited data in all apixaban-treated paediatric patients, no dose adjustment is necessary in paediatric patients with mild to moderate renal impairment. Apixaban is not recommended in paediatric patients with severe renal impairment (see sections 4.2 and 4.4).
 
@@ -2219,7 +2170,7 @@ Administration of apixaban to paediatric patients is based on a fixed-dose by we
 
 ## Pharmacokinetic/pharmacodynamic relationship
 
-In adults, the pharmacokinetic/pharmacodynamic (PK/PD) relationship between apixaban plasma concentration and several PD endpoints (anti-Factor Xa activity [AXA], INR, PT, aPTT) has been evaluated after administration of a wide range of doses (0.5 - 50 mg). The relationship between apixaban plasma concentration and anti-Factor Xa activity was best described by a linear model. The PK/PD relationship observed in patients was consistent with that established in healthy subjects.
+In adults, the pharmacokinetic/pharmacodynamic (PK/PD) relationship between apixaban plasma concentration and several PD endpoints (anti-Factor Xa activity [AXA], INR, PT, aPTT) has been evaluated after administration of a wide range of doses (0.5 -50 mg). The relationship between apixaban plasma concentration and anti-Factor Xa activity was best described by a linear model. The PK/PD relationship observed in patients was consistent with that established in healthy subjects.
 
 Similarly, results from apixaban paediatric PK/PD assessment indicate a linear relationship between apixaban concentration and AXA. This is consistent with the previously documented relationship in adults.
 
@@ -2326,13 +2277,13 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
@@ -2343,36 +2294,15 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-##  Additional risk minimisation measures
+## · Additional risk minimisation measures
 
-The Marketing Authorisation Holder shall ensure that all physicians who are expected to prescribe apixaban are provided with the following educational material:
+The MAH shall ensure that in each Member State where Apixaban Accord is marketed, all prescribing Health Care Professionals, patients and/or caregivers of paediatric patients who receive Apixaban Accord have access to the Patient Card (provided within each medicine pack).
 
-- Summary of Product Characteristics
-- Prescriber Guide
-- Patient Alert Cards
-
-All patients and/or caregivers of paediatric patients who receive Apixaban Accord shall be provided with a Patient Alert Card (provided within each medicine pack).
-
-Key Elements of the Prescriber Guide:
-
-- Details of populations potentially at higher risk of bleeding
-- Recommended doses and guidance on the posology for different indications
-- Recommendations for dose adjustment in at risk populations, including renal or hepatic impairment patients
-- Guidance regarding switching from or to Apixaban Accord treatment
-- Guidance regarding surgery or invasive procedure, and temporary discontinuation
-- Management of overdose situations and haemorrhage
-- The use of coagulation tests and their interpretation
-- That all patients and/or caregivers of paediatric patients should be provided with a Patient alert card and be counselled about:
-- -Signs or symptoms of bleeding and when to seek attention from a health care provider
-- -Importance of treatment compliance
-- -Necessity to carry the Patient alert card with them at all times
-- -The need to inform Health Care Professionals that they are taking Apixaban Accord if they need to have any surgery or invasive procedure.
-
-## Key Elements of the Patient Alert Card:
+Key Elements of the Patient Card:
 
 - Signs or symptoms of bleeding and when to seek attention from a health care provider.
 - Importance of treatment compliance
-- Necessity to carry the Patient alert card with them at all times
+- Necessity to carry the Patient card with them at all times
 - The need to inform Health Care Professionals that they are taking Apixaban Accord if they need to have any surgery or invasive procedure.
 
 <div style=\"page-break-after: always\"></div>
@@ -2447,10 +2377,8 @@ Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona s/n, Edifici Est,
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
 ```
-EU/1/20/1458/001 EU/1/20/1458/003 EU/1/20/1458/004 EU/1/20/1458/006 EU/1/20/1458/008 EU/1/20/1458/010 EU/1/20/1458/012 EU/1/20/1458/014 EU/1/20/1458/041
+EU/1/20/1458/001 EU/1/20/1458/003 EU/1/20/1458/004 EU/1/20/1458/006 EU/1/20/1458/008 EU/1/20/1458/010 EU/1/20/1458/012 EU/1/20/1458/014 EU/1/20/1458/041 EU/1/20/1458/043
 ```
-
-EU/1/20/1458/043
 
 ## 13. BATCH NUMBER
 
@@ -2470,24 +2398,26 @@ Apixaban Accord 2.5 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER FOR UNIT PACK 2.5 mg                         |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER FOR UNIT PACK 2.5 mg                          |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
-|------|--------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-Apixaban Accord 2.5 mg tablets apixaban
+Apixaban Accord 2.5 mg tablets
 
-| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
-|------|---------------------------------------------|
+apixaban
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Accord
 
@@ -2503,8 +2433,6 @@ Lot
 
 | 5.   | OTHER   |
 |------|---------|
-
-<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2527,14 +2455,23 @@ Contains lactose. See leaflet for further information.
 ## Film-coated tablet
 
 - 10 film-coated tablets
+
 - 14 film-coated tablets
+
 - 20 film-coated tablets
+
 - 28 film-coated tablets
+
 - 56 film-coated tablets
+
 - 60 film-coated tablets
+
 - 100 film-coated tablets
+
 - 112 film-coated tablets
+
 - 168 film-coated tablets
+
 - 200 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -2550,6 +2487,10 @@ Keep out of the sight and reach of children.
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 ## 8. EXPIRY DATE
+
+<div style=\"page-break-after: always\"></div>
+
+EXP
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2587,24 +2528,26 @@ Apixaban Accord 5 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER FOR UNT PACKS 5 mg                           |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER FOR UNT PACKS 5 mg                            |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
-|------|--------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-Apixaban Accord 5 mg tablets apixaban
+Apixaban Accord 5 mg tablets
 
-| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
-|------|---------------------------------------------|
+apixaban
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Accord
 
@@ -2675,11 +2618,29 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona s/n, Edifici Est, 6 a Planta, Barcelona, 08039 Spain
+Accord Healthcare S.L.U.
+
+World Trade Center, Moll de Barcelona s/n,
+
+Edifici Est, 6 a Planta,
+
+Barcelona, 08039
+
+Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1458/002 EU/1/20/1458/005 EU/1/20/1458/007 EU/1/20/1458/009 EU/1/20/1458/011 EU/1/20/1458/013
+EU/1/20/1458/002
+
+EU/1/20/1458/005
+
+EU/1/20/1458/007
+
+EU/1/20/1458/009
+
+EU/1/20/1458/011
+
+EU/1/20/1458/013
 
 EU/1/20/1458/042
 
@@ -2695,7 +2656,7 @@ Lot
 
 Apixaban Accord 2.5 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2713,13 +2674,12 @@ NN
 
 ## PERFORATED-UNIT-DOSE BLISTERS 2.5 mg
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
-|------|--------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Apixaban Accord 2.5 mg tablets apixaban
 
-| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
-|------|---------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Accord
 
@@ -2786,8 +2746,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2797,7 +2756,17 @@ Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/20/1458/022 EU/1/20/1458/025 EU/1/20/1458/027 EU/1/20/1458/029 EU/1/20/1458/031 EU/1/20/1458/033
+EU/1/20/1458/022
+
+EU/1/20/1458/025
+
+EU/1/20/1458/027
+
+EU/1/20/1458/029
+
+EU/1/20/1458/031
+
+EU/1/20/1458/033
 
 EU/1/20/1458/045
 
@@ -2813,13 +2782,11 @@ Lot
 
 Apixaban Accord 5 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
@@ -2833,13 +2800,13 @@ NN
 
 ## PERFORATED-UNIT-DOSE BLISTERS 5 mg
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
-|------|--------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Apixaban Accord 5 mg tablets apixaban
 
-| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
-|------|---------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Accord
 
@@ -2945,7 +2912,7 @@ Lot
 
 Apixaban Accord 2.5 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -3006,11 +2973,10 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATION HOLDER   |
-|-------|-------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona s/n, Edifici Est, 6a Planta, Barcelona, 08039 Spain
 
@@ -3021,27 +2987,18 @@ EU/1/20/1458/015 EU/1/20/1458/016 EU/1/20/1458/017 EU/1/20/1458/018 EU/1/20/1458
 
 EU/1/20/1458/020
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+17. UNIQUE IDENTIFIER -2D BARCODE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
-
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
-
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
-
-<div style=\"page-break-after: always\"></div>
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -3064,10 +3021,15 @@ Contain lactose. See leaflet for further information.
 Film-coated tablet
 
 - 60 film-coated tablets
+
 - 100 film-coated tablets
+
 - 168 film-coated tablets
+
 - 180 film-coated tablets
+
 - 200 film-coated tablets
+
 - 1,000 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -3090,11 +3052,21 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona s/n, Edifici Est, 6 a Planta, Barcelona, 08039 Spain
+Accord Healthcare S.L.U.
+
+World Trade Center, Moll de Barcelona s/n,
+
+Edifici Est, 6 a Planta,
+
+Barcelona, 08039
+
+Spain
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -3122,7 +3094,7 @@ Lot
 
 Apixaban Accord 5 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -3188,11 +3160,11 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATION HOLDER   |
-|-------|-------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona s/n, Edifici Est, 6a Planta, Barcelona, 08039 Spain
 
@@ -3220,14 +3192,16 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-## PATIENT ALERT CARD
+## PATIENT CARD
 
-## Apixaban Accord (apixaban) Patient Alert Card
+## Apixaban Accord (apixaban)
+
+## Patient Card
 
 ## This card should be with you / the child / the caregiver at all times
 
@@ -3251,23 +3225,23 @@ Doctor's Name:
 
 Doctor's telephone:
 
-## Information for patients/ caregivers
+## Information for patients / caregivers
 
--  Take / give Apixaban Accord regularly as instructed. If you miss a morning dose, take / give it as soon as you remember and it may be taken together with the evening dose. A missed evening dose can only be taken during the same evening. Do not take two doses the next morning, instead continue to follow the dosing Schedule twice daily as recommended on the next day.
--  Do not stop taking / give Apixaban Accord without talking to the doctor, as you are / the patient is at risk of suffering a stroke / blood Clot or other complications.
--  Apixaban Accord helps to thin the blood. However, this may increase the risk of bleeding.
--  Signs and symptoms of bleeding include bruising or bleeding under the skin, tar-coloured stools, blood in urine, nose-bleed, dizziness, tiredness, paleness or weakness, sudden severe headache, coughing up blood or vomiting blood.
--  If the bleeding does not stop on its own, seek medical attention immediately .
--  If you / the patient need(s) surgery or any invasive procedure, inform the doctor that you are / the patient is taking Apixaban Accord.
+- Take / give Apixaban Accord regularly as instructed. If you miss a morning dose, take / give it as soon as you remember and it may be taken / given together with the evening dose. A missed evening dose can only be taken / given during the same evening. Do not take  / give two doses the next morning, instead continue to follow the dosing schedule twice daily as recommended on the next day.
+- Do not stop taking / giving Apixaban Accord without talking to the doctor, as you are / the patient is at risk of suffering a stroke / blood clot or other complications.
+- Apixaban Accord helps to thin the blood. However, this may increase the risk of bleeding.
+- Signs and symptoms of bleeding include bruising or bleeding under the skin, tar-coloured stools, blood in urine, nose-bleed, dizziness, tiredness, paleness or weakness, sudden severe headache, coughing up blood or vomiting blood.
+- If the bleeding does not stop on its own, seek medical attention immediately .
+- If you / the patient need(s) surgery or any invasive procedure, inform the doctor that you are / the patient is taking Apixaban Accord.
 
 {MMM YYYY}
 
 ## Information for healthcare professionals
 
--  Apixaban Accord (apixaban) is an oral anticoagulant acting by direct selective inhibition of factor Xa.
--  Apixaban Accord may increase the risk of bleeding. In case of major bleeding events, it should be stopped immediately.
--  Treatment with Apixaban Accord does not require routine monitoring of exposure. A calibrated quantitative anti-Factor Xa assay may be useful in exceptional situations, e.g., overdose and emergency surgery (prothrombin time (PT), international normalised  ratio (INR) and activated partial thromboplastin time (aPTT) clotting tests are not recommended) - see SmPC.
--  An agent to reverse the anti-factor Xa activity of apixaban is available for adults, however, its safety and efficacy have not been established in paediatric patients (refer to the summary of product characteristics of andexanet alfa).
+- Apixaban Accord (apixaban) is an oral anticoagulant acting by direct selective inhibition of factor Xa.
+- Apixaban Accord may increase the risk of bleeding. In case of major bleeding events, it should be stopped immediately.
+- Treatment with Apixaban Accord does not require routine monitoring of exposure. A calibrated quantitative anti-Factor Xa assay may be useful in exceptional situations, e.g., overdose and emergency surgery (prothrombin time (PT), international normalised  ratio (INR) and activated partial thromboplastin time (aPTT) clotting tests are not recommended) -see SmPC.
+- An agent to reverse the anti-factor Xa activity of apixaban is available for adults, however, its safety and efficacy have not been established in paediatric patients (refer to the summary of product characteristics of andexanet alfa).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3328,10 +3302,10 @@ For body weight appropriate recommended dose, see section 3.
 Talk to your doctor, pharmacist or nurse before you take this medicine if you have any of the following:
 
 - -an increased risk of bleeding , such as:
--  bleeding disorders , including conditions resulting in reduced platelet activity;
--  very high blood pressure, not controlled by medical treatment;
--  you are older than 75 years;
--  you weigh 60 kg or less;
+- ◼ bleeding disorders , including conditions resulting in reduced platelet activity;
+- ◼ very high blood pressure, not controlled by medical treatment;
+- ◼ you are older than 75 years;
+- ◼ you weigh 60 kg or less;
 - -a severe kidney disease or if you are on dialysis;
 - -a liver problem or a history of liver problems;
 
@@ -3385,7 +3359,7 @@ It is not known if Apixaban Accord passes into human breast milk. Ask your docto
 
 ## Driving and using machines
 
-Apixaban Accord has not been shown to impair your ability to drive or use machine.
+Apixaban Accord has not been shown to impair your ability to drive or use machines.
 
 ## Apixaban Accordcontains lactose (a type of sugar) and sodium
 
@@ -3405,13 +3379,13 @@ If you have difficulty swallowing the tablet whole, talk to your doctor about ot
 
 ## Instructions for crushing:
 
--  Crush the tablets with a pestle and mortaror with the convex side of a spoon on a plate.
+- Crush the tablets with a pestle and mortar or with the convex side of a spoon on a plate.
 
 <div style=\"page-break-after: always\"></div>
 
--  Transfer all the powder carefully into a suitable container then mix the powder with a little e.g., 30 mL (2 tablespoons), water or one of the other liquids mentioned above to make a mixture.
--  Swallow the mixture.
--  Rinse the pestle and mortar or the spoon and plate)you used for crushing the tablet and the container, with a little water or one of the other liquids (e.g., 30 mL), and swallow the rinse.
+- Transfer all the powder carefully into a suitable container then mix the powder with a little e.g., 30 mL (2 tablespoons), water or one of the other liquids mentioned above to make a mixture.
+- Swallow the mixture.
+- Rinse the pestle and mortar (or the spoon and plate) you used for crushing the tablet and the container, with a little water or one of the other liquids (e.g., 30 mL), and swallow the rinse.
 
 If necessary, your doctor may also give you the crushed Apixaban Accord tablet mixed in 60 mL of water or 5%  glucose in water, through a nasogastric tube.
 
@@ -3451,9 +3425,7 @@ Your doctor will decide how long you must continue treatment for.
 
 For treating blood clots and to prevent re-occurrence of blood clots in the veins or in the blood vessels of your lungs.
 
-Always take or give this medicine exactly as your or the child's doctor or pharmacist has told you.
-
-Check with your or the child's doctor, pharmacist or nurse if you are not sure.
+Always take or give this medicine exactly as your or the child's doctor or pharmacist has told you. Check with your or the child's doctor, pharmacist or nurse if you are not sure.
 
 Try to take or give the dose at the same times every day to have the best treatment effect.
 
@@ -3467,9 +3439,7 @@ It is important to keep scheduled doctor's visits because the dose may need to b
 
 ## Your doctor might change your anticoagulant treatment as follows:
 
-## -
-
-- Changing from Apixaban Accord to anticoagulant medicines
+## -Changing from Apixaban Accord to anticoagulant medicines
 
 Stop taking Apixaban Accord. Start treatment with the anticoagulant medicines (for example heparin) at the time you would have taken the next tablet.
 
@@ -3700,10 +3670,10 @@ In general, the side effects observed in children and adolescents treated with A
 - -bruising and swelling;
 - -from the bowel or rectum;
 - -bright/red blood in the stools;
-- -bleeding after an operation including bruising and swelling, blood leaking from the surgical wound/incision (wound secretion) or injection site;
+- -bleeding after an operation including bruising and swelling, blood or liquid leaking from the surgical wound/incision (wound secretion) or injection site;
 - Hair loss;
 - Anaemia which may cause tiredness or paleness;
-- Reduced number of platelets in the child's blood (which can affect clotting);
+- -Reduced number of platelets in the child's blood (which can affect clotting);
 - Nausea (feeling sick);
 - Skin rash;
 
@@ -3753,8 +3723,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Apixaban Accord contains
 
--  The active substance is apixaban. Each tablet contains 2.5 mg of apixaban.
--  The other ingredients are:
+- The active substance is apixaban. Each tablet contains 2.5 mg of apixaban.
+- The other ingredients are:
 - -Tablet core : Lactose (see section 2) , cellulose microcrystalline, croscarmellose sodium, sodium laurilsulfate, magnesium stearate
 
 <div style=\"page-break-after: always\"></div>
@@ -3773,21 +3743,22 @@ HDPE bottle with polypropylene child resistant/continues threaded closure contai
 
 Not all pack sizes may be marketed.
 
-## Patient Alert Card: handling information
+## Patient Card: handling information
 
-Inside the Apixaban Accord pack together with the package leaflet you will find a Patient Alert Card or your doctor might give you a similar card.
+Inside the Apixaban Accord pack together with the package leaflet you will find a Patient Card or your doctor might give you a similar card.
 
-This Patient Alert Card includes information that will be helpful to you and alert other doctors that you are taking Apixaban Accord. You should keep this card with you at all times.
+This Patient Card includes information that will be helpful to you and alert other doctors that you are taking Apixaban Accord. You should keep this card with you at all times.
 
-1. Take the card
+1. Take the card.
 2. Separate your language as needed (this is facilitated by the perforated edges)
 3. Complete the following sections or ask your doctor to do it:
 4. -Name:
 5. -Birth Date:
 6. -Indication:
-7. -Dose:  ........mg twice daily
-8. -Doctor's Name:
-9. -Doctor's telephone:
+7. -Weight
+8. -Dose:  ........mg twice daily
+9. -Doctor's Name:
+10. -Doctor's telephone:
 4. Fold the card and keep it with you at all times.
 
 ## Marketing Authorisation Holder and Manufacturer
@@ -3798,21 +3769,15 @@ Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est
 
 ## Manufacturer
 
-LABORATORI FUNDACIÓ DAU C/ C, 12-14 Pol. Ind. Zona Franca, Barcelona, 08040 Barcelona, Spain
+LABORATORI FUNDACIÓ DAU C/ C, 12-14 Pol. Ind. Zona Franca, Barcelona, 08040 Barcelona, Spain Accord Healthcare Polska Sp. z.o.o. ul.Lutomierska 50, 95-200, Pabianice, Poland Pharmadox Healthcare Limited KW20A Kordin Industrial Park, Paola PLA 3000, Malta Accord Healthcare single member S.A. 64th Km National Road Athens, Lamia, Schimatari, 32009, Greece For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
-Accord Healthcare Polska Sp. z.o.o. ul.Lutomierska 50, 95-200, Pabianice, Poland
-
-Pharmadox Healthcare Limited KW20A Kordin Industrial Park, Paola PLA 3000, Malta
-
-Accord Healthcare single member S.A. 64th Km National Road Athens, Lamia, Schimatari, 32009, Greece
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
 AT / BE / BG / CY / CZ / DE / DK / EE / ES / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PL / PT / RO / SE / SI / SK
 
-Accord Healthcare S.L.U. Tel: +34 93 301 00 64
+Accord Healthcare S.L.U.
+
+Tel: +34 93 301 00 64
 
 EL
 
@@ -3882,10 +3847,10 @@ you get heparin through this line to keep it open, or if a tube is inserted into
 Talk to your doctor, pharmacist or nurse before you take this medicine if you have any of the following:
 
 - -an increased risk of bleeding , such as:
--  bleeding disorders , including conditions resulting in reduced platelet activity;
--  very high blood pressure, not controlled by medical treatment;
--  you are older than 75 years;
--  you weigh 60 kg or less;
+- bleeding disorders , including conditions resulting in reduced platelet activity;
+- very high blood pressure, not controlled by medical treatment;
+- you are older than 75 years;
+- you weigh 60 kg or less;
 - -a severe kidney disease or if you are on dialysis;
 - -a liver problem or a history of liver problems;
 - -This medicine will be used with caution in patients with signs of altered liver function.
@@ -3893,7 +3858,7 @@ Talk to your doctor, pharmacist or nurse before you take this medicine if you ha
 - -if you have a prosthetic heart valve;
 - -if your doctor determines that your blood pressure is unstable or another treatment or surgical procedure to remove the blood clot from your lungs is planned.
 
-Take special care with Apixaban Accord
+## Take special care with Apixaban Accord
 
 - -if you know that you have a disease called antiphospholipid syndrome (a disorder of the immune system that causes an increased risk of blood clots), tell your doctor who will decide if the treatment may need to be changed.
 
@@ -3956,10 +3921,10 @@ If you have difficulty swallowing the tablet whole, talk to your doctor about ot
 
 ## Instructions for crushing:
 
--  Crush the tablets with a pestle and mortaror with the convex side of a spoon on a plate.
--  Transfer all the powder carefully into a suitable container then mix the powder with a little e.g., 30 mL (2 tablespoons), water or one of the other liquids mentioned above to make a mixture.
--  Swallow the mixture.
--  Rinse the pestle and mortar (or the spoon and plate)  you used for crushing the tablet and the container, with a little water or one of the other liquids (e.g., 30 mL), and swallow the rinse.
+- Crush the tablets with a pestle and mortaror with the convex side of a spoon on a plate.
+- Transfer all the powder carefully into a suitable container then mix the powder with a little e.g., 30 mL (2 tablespoons), water or one of the other liquids mentioned above to make a mixture.
+- Swallow the mixture.
+- Rinse the pestle and mortar (or the spoon and plate)  you used for crushing the tablet and the container, with a little water or one of the other liquids (e.g., 30 mL), and swallow the rinse.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4163,8 +4128,7 @@ The following side effects are known if you take Apixaban Accord to treat or pre
 
 ## Not known (frequency cannot be estimated from the available data)
 
-## Bleeding:
-
+- -Bleeding:
 - -into your abdomen or the space behind your abdominal cavity.
 - -Skin rash which may form blisters and looks like small targets (central dark spots surrounded by a paler area, with a dark ring around the edge) (erythema multiforme);
 - -Blood vessel inflammation (vasculitis) which may result in skin rash or pointed, flat, red, round spots under the skin's surface or bruising.
@@ -4192,10 +4156,10 @@ In general, the side effects observed in children and adolescents treated with A
 - -bruising and swelling;
 - -from the bowel or rectum;
 - -bright/red blood in the stools;
-- -bleeding after an operation including bruising and swelling, blood leaking from the surgical wound/incision (wound secretion) or injection site;
+- -bleeding after an operation including bruising and swelling, blood or liquid leaking from the surgical wound/incision (wound secretion) or injection site;
 - Hair loss;
 - Anaemia which may cause tiredness or paleness;
-- Reduced number of platelets in the child's blood (which can affect clotting);
+- -Reduced number of platelets in the child's blood (which can affect clotting);
 - Nausea (feeling sick);
 - Skin rash;
 - Itching;
@@ -4245,8 +4209,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Apixaban Accord contains
 
--  The active substance is apixaban. Each tablet contains 5 mg of apixaban.
--  The other ingredients are:
+- The active substance is apixaban. Each tablet contains 5 mg of apixaban.
+- The other ingredients are:
 - -Tablet core : Lactose (see section 2) , cellulose microcrystalline, croscarmellose sodium, sodium laurilsulfate, magnesium stearate
 - -Film coat: Lactose monohydrate (see section 2) , hypromellose, titanium dioxide (E171), triacetin, iron oxide red (E172)
 
@@ -4254,7 +4218,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Apixaban Accord looks like and contents of the pack
 
-The film-coated tablets are pink, oval shaped, biconvex, film coated tablet debossed with 'IU2' on one side and plain on other side.
+The filmcoated tablets are pink, oval shaped, biconvex, film coated tablet debossed with 'IU2' on one side and plain on other side.
 
 PVC/PVdC-Aluminium  blisters  are  available  in  10,  14,  20,  28,  56,  60,  100,  112,  168,  and 200 film-coated tablets.
 
@@ -4264,60 +4228,47 @@ HDPE bottle with polypropylene child resistant/continues threaded closure contai
 
 Not all pack sizes may be marketed.
 
-## Patient Alert Card: handling information
+## Patient Card: handling information
 
-Inside the Apixaban Accord pack together with the package leaflet you will find a Patient Alert Card or your doctor might give you a similar card.
+Inside the Apixaban Accord pack together with the package leaflet you will find a Patient Card or your doctor might give you a similar card.
 
-This Patient Alert Card includes information that will be helpful to you and alert other doctors that you are taking Apixaban Accord. You should keep this card with you at all times.
+This Patient Card includes information that will be helpful to you and alert other doctors that you are taking Apixaban Accord. You should keep this card with you at all times.
 
-1. Take the card
+1. Take the card.
 2. Separate your language as needed (this is facilitated by the perforated edges)
 3. Complete the following sections or ask your doctor to do it:
 4. -Name:
 5. -Birth Date:
 6. -Indication:
-7. -Dose:  ........mg twice daily
-8. -Doctor's Name:
-9. -Doctor's telephone:
+7. -Weight
+8. -Dose:  ........mg twice daily
+9. -Doctor's Name:
+10. -Doctor's telephone:
 4. Fold the card and keep it with you at all times.
 
 ## Marketing Authorisation Holder and Manufacturer
 
 ## Marketing Authorisation Holder
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est, 6 a Planta, 08039 Barcelona,
-
-Spain
+Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est, 6 a Planta, 08039 Barcelona, Spain
 
 ## Manufacturer
 
 LABORATORI FUNDACIÓ DAU C/ C, 12-14 Pol. Ind. Zona Franca, Barcelona, 08040 Barcelona, Spain
 
-Accord Healthcare Polska Sp. z.o.o. ul.Lutomierska 50, 95-200, Pabianice,
-
-Poland
-
-Pharmadox Healthcare Limited
+Accord Healthcare Polska Sp. z.o.o. ul.Lutomierska 50, 95-200, Pabianice, Poland Pharmadox Healthcare Limited KW20A Kordin Industrial Park, Paola PLA 3000, Malta Accord Healthcare single member S.A. 64th Km National Road Athens, Lamia, Schimatari, 32009, Greece For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
-KW20A Kordin Industrial Park, Paola PLA 3000, Malta
-
-Accord Healthcare single member S.A. 64th Km National Road Athens, Lamia, Schimatari, 32009,
-
-Greece
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
 AT / BE / BG / CY / CZ / DE / DK / EE / ES / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PL / PT / RO / SE / SI / SK
 
-Accord Healthcare S.L.U.
-
-Tel: +34 93 301 00 64
+Accord Healthcare S.L.U. Tel: +34 93 301 00 64
 
 EL
 
-Win Medica Α.Ε. Τel: +30 210 74 88 821
+Win Medica Α.Ε.
+
+Τel: +30 210 74 88 821
 
 ## This leaflet was last revised in
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-01-15 11:58:55
-document_pages: 35
+document_datetime: 2026-07-20 13:48:03
+document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/intrarosa-epar-product-information_en.pdf
 document_name: intrarosa-epar-product-information_en.pdf
 version: success
-processing_time: 8.5433636
-conversion_datetime: 2025-12-30 20:09:20.35862
+processing_time: 13.2587881
+conversion_datetime: 2026-07-28 13:53:25.861823
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -148,11 +148,9 @@ Prasterone is metabolised into estrogenic compounds. The following risks have be
 
 ## Breast cancer
 
-The overall evidence suggests an increased risk of breast cancer in women taking combined oestrogenprogestagen and possibly also oestrogen-only systemic HRT, that is dependent on the duration of
+The overall evidence suggests an increased risk of breast cancer in women taking combined oestrogenprogestagen and possibly also oestrogen-only systemic HRT, that is dependent on the duration of taking HRT. The excess risk becomes apparent within a few years of use but returns to baseline within a few (at most five) years after stopping treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-taking HRT. The excess risk becomes apparent within a few years of use but returns to baseline within a few (at most five) years after stopping treatment.
 
 Intrarosa has not been studied in women with active or past breast cancer. One case of breast cancer at week 52 has been reported on 1196 women who have been exposed with the 6.5 mg dose which is below the incidence rate observed in the normal population of the same age.
 
@@ -268,10 +266,10 @@ Table 1: Adverse reactions observed with prasterone 6.5 mg pessaries in clinical
 
 ## Million Women study- Estimated additional risk of breast cancer after 5 years' use
 
-| Age range (years)   | Additional cases per 1000 never- users of HRT over a 5-year period 1   | Risk ratio& 95%CI#   | Additional cases per 1000 HRT users over 5 years (95%CI)   |
-|---------------------|------------------------------------------------------------------------|----------------------|------------------------------------------------------------|
-|                     |                                                                        | Oestrogen only HRT   | Oestrogen only HRT                                         |
-| 50-65               | 9-12                                                                   | 1.2                  | 1-2 (0-3)                                                  |
+| Age range (years)   | Additional cases per 1000 never- users of HRT over a 5-year period 1   | Risk ratio & 95%CI#   | Additional cases per 1000 HRT users over 5 years (95%CI)   |
+|---------------------|------------------------------------------------------------------------|-----------------------|------------------------------------------------------------|
+|                     |                                                                        | Oestrogen only HRT    | Oestrogen only HRT                                         |
+| 50-65               | 9-12                                                                   | 1.2                   | 1-2 (0-3)                                                  |
 
 #Overall risk ratio. The risk ratio is not constant but will increase with increasing duration on use
 
@@ -279,10 +277,10 @@ Note: Since the background incidence of breast cancer differs by EU country, the
 
 ## US WHI studies - additional risk of breast cancer after 5 years' use
 
-| Age range (years)   | Incidence per 1000 women in placebo arm over 5 years   | Risk ratio& 95%CI   | Additional cases per 1000 HRT users over 5 years (95%CI)   |
-|---------------------|--------------------------------------------------------|---------------------|------------------------------------------------------------|
-|                     |                                                        | CEE oestrogen-only  | CEE oestrogen-only                                         |
-| 50-79               | 21                                                     | 0.8 (0.7 - 1.0)     | -4 (-6 - 0)* 2                                             |
+| Age range (years)   |   Incidence per 1000 women in placebo arm over 5 years | Risk ratio & 95%CI   | Additional cases per 1000 HRT users over 5 years (95%CI)   |
+|---------------------|--------------------------------------------------------|----------------------|------------------------------------------------------------|
+|                     |                                                        | CEE oestrogen-only   | CEE oestrogen-only                                         |
+| 50-79               |                                                     21 | 0.8 (0.7 - 1.0)      | -4 (-6 - 0)* 2                                             |
 
 ## Ovarian cancer
 
@@ -485,7 +483,9 @@ Applicator made of LDPE and 1% colorant (Titanium dioxide).
 
 Special precautions for disposal
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
 
 7.
 
@@ -541,7 +541,9 @@ Agency http://www.ema.europa.eu.
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Basic Pharma Manufacturing B.V. Burgemeester Lemmensstraat 352 6163 JT Geleen THE NETHERLANDS
+Eurofins BioPharma Product Testing Leiden B.V.
+
+Archimedesweg 25 2333 CM Leiden THE NETHERLANDS
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -656,17 +658,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Intrarosa 6,5 mg pessary prasterone
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Endoceutics
 
@@ -731,11 +733,11 @@ Do not freeze.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Endoceutics S.A. Rue Belliard 40 1040 Brussels Belgium
 
@@ -752,8 +754,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -761,8 +763,8 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1092,7 +1094,9 @@ Endoceutics S.A. Rue Belliard 40 1040 Brussels Belgium
 
 ## Manufacturer
 
-Basic Pharma Manufacturing B.V. Burgemeester Lemmensstraat 352 6163 JT Geleen
+Eurofins BioPharma Product Testing Leiden B.V.
+
+Archimedesweg 25 2333 CM Leiden
 
 The Netherlands
 
@@ -1128,7 +1132,11 @@ INTRAROSA.Enquiries@theramex.com
 
 ## Italia
 
-Theramex Italy S.r.l. Tel: + 39 02 81480024 INTRAROSA.Enquiries@theramex.com
+Theramex Italy S.r.l.
+
+Tel: + 39 02 81480024
+
+INTRAROSA.Enquiries@theramex.com
 
 ## Polska
 
@@ -1136,9 +1144,13 @@ Theramex Poland sp. z o.o. Tel.: + 48 (0) 22 30 77 166 INTRAROSA.Enquiries@thera
 
 ## Portugal
 
-Tecnimede - Sociedade Técnico-Medicinal, S.A. Tel: + 351 210 414 100 dmed.fv@tecnimede.pt
+Tecnimede - Sociedade Técnico-Medicinal, S.A.
 
-## United Kingdom (Northern Ireland), Ireland, Malta
+Tel: + 351 210 414 100
+
+dmed.fv@tecnimede.pt
+
+## Ireland, Malta
 
 Theramex UK Limited Tel: + 44 (0) 3330096795 INTRAROSA.Enquiries@theramex.com
 
@@ -1150,7 +1162,7 @@ Sverige/Svíþjóð/Ruosti
 
 Tlf/Sími/Tlf/Puh/Tel: + 46 (0) 8 544 900 22
 
-## България , Česká republika , Eesti, Ελλάδα , Hrvatska , Κύπρο, Latvija, Lietuva , Magyarország , România, Slovenija , Slovenská republika
+България , Česká republika , Eesti, Ελλάδα , Hrvatska , Κύπρο, Latvija, Lietuva , Magyarország , România, Slovenija , Slovenská republika
 
 Theramex Ireland Limited Tel/Te л. / Τηλ : + 353 (0) 15138855 INTRAROSA.Enquiries@theramex.com
 
@@ -1214,9 +1226,7 @@ Detailed information on this medicine is available on the European Medicines Age
 ## STEP 5
 
 - Select the position for insertion of the pessary that is most comfortable for you.
-
-5a. Lying position
-
+- 5a. Lying position
 - 5b. Standing position
 
 ## STEP 6
@@ -1241,29 +1251,3 @@ Keep it in a clean place.
 ## B. Using the finger
 
 Follow the above instructions of Step 2, and then insert the pessary into the vagina with your finger as far as it can comfortably go. Do not use force.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report for the non-interventional imposed PASS final study report for the medicinal product(s) mentioned above, the scientific conclusions of the CHMP are as follows:
-
-Intrarosa (prasterone) is removed from the additional monitoring list as the condition to the marketing authorisation has been fulfilled. This relates to the non-interventional PASS - Drug Utilisation Study (DUS) to describe the baseline characteristics, utilisation patterns of EU postmenopausal women initiating treatment with Intrarosa and to assess whether EU prescribers abide by the contraindications stated in the EU SmPC.
-
-Therefore, the statement that this medicinal product is subject to additional monitoring and that this will allow quick identification of new safety information, preceded by an inverted equilateral black triangle, is removed from the summary of product characteristics and the package leaflet.
-
-In addition, the MAH took the opportunity to introduce a change to the list of local representatives.
-
-The CHMP agrees with the scientific conclusions made by the PRAC.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for the results of the study for the medicinal product(s) mentioned above, the CHMP is of the opinion that the benefit-risk balance of these medicinal product(s) is unchanged, subject to the proposed changes to the product information.
-
-The CHMP is of the opinion that the terms of the marketing authorisation of the medicinal product mentioned above should be varied.

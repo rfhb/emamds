@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-02 17:08:00
+document_datetime: 2026-07-20 17:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/retacrit.html
 document_name: retacrit.html
 version: success
-processing_time: 0.0944138
-conversion_datetime: 2026-03-05 12:17:56.141536
+processing_time: 0.1559602
+conversion_datetime: 2026-07-28 12:32:02.834267
 docling_version:
-  docling-serve: 1.14.1
-  docling-jobkit: 1.13.0
-  docling: 2.76.0
-  docling-core: 2.66.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.4.2
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Retacrit
 
@@ -24,7 +24,9 @@ Authorised
 
 This medicine is authorised for use in the European Union
 
-epoetin zeta Medicine Human Authorised
+epoetin zeta
+
+Medicine Human Authorised
 
 Page contents
 
@@ -51,13 +53,13 @@ Expand section
 
 Collapse section
 
-## What is Retacrit?
+### What is Retacrit?
 
 Retacrit is a solution for injection. It is available in prefilled syringes containing between 1,000 and 40,000 international units (IU) of the active substance, epoetin zeta.
 
 Retacrit is a 'biosimilar' medicine. This means that Retacrit is similar to a biological medicine (the 'reference medicine') that is already authorised in the European Union (EU), and contains a similar active substance to the reference medicine. The reference medicine for Retacrit is Eprex / Erypo, which contains epoetin alfa.
 
-## What is Retacrit used for?
+### What is Retacrit used for?
 
 Retacrit is used in the following situations:
 
@@ -68,7 +70,7 @@ Retacrit is used in the following situations:
 
 The medicine can only be obtained with a prescription.
 
-## How is Retacrit used?
+### How is Retacrit used?
 
 Treatment with Retacrit must be started under the supervision of doctors who have experience in the management of patients with the conditions that the medicine is used for.
 
@@ -76,13 +78,13 @@ For patients with kidney problems, Retacrit can be injected into a vein or under
 
 The iron levels of all patients should be checked before treatment to make sure that they are not too low, and iron supplements should be used throughout treatment. Retacrit can be injected under the skin by the patient or their carer if they have been trained appropriately. For full details, see the package leaflet.
 
-## How does Retacrit work?
+### How does Retacrit work?
 
 A hormone called erythropoietin stimulates the production of red blood cells from the bone marrow. Erythropoietin is produced by the kidneys. In patients receiving chemotherapy or with kidney problems, anaemia can be caused by a lack of erythropoietin, or by the body not responding enough to the erythropoietin it has naturally. In these cases, erythropoietin is used to replace the missing hormone or to increase red-blood-cell counts. Erythropoietin is also used before surgery to increase the number of red blood cells to help patients produce more blood for self-donation.
 
 The active substance in Retacrit, epoetin zeta, is a copy of human erythropoietin and works in exactly the same way as the natural hormone to stimulate red blood cell production. It is produced by a method known as 'recombinant DNA technology': it is made by a cell that has received a gene (DNA), which makes it able to produce epoetin zeta.
 
-## How has Retacrit been studied?
+### How has Retacrit been studied?
 
 Retacrit was studied to show that it is comparable with the reference medicine, Eprex / Erypo, in experimental models and in humans.
 
@@ -90,13 +92,13 @@ Retacrit, injected into a vein, was compared with the reference medicine in two 
 
 The company also presented the results of two studies looking at the effects of Retacrit injected under the skin: one involved 261 cancer patients receiving chemotherapy, and the other compared Retacrit with Eprex / Erypo in 462 patients with anaemia caused by kidney problems.
 
-## What benefit has Retacrit shown during the studies?
+### What benefit has Retacrit shown during the studies?
 
 Retacrit was as effective as Eprex / Erypo in correcting and maintaining red blood cell counts. In the correction study, haemoglobin levels were around 11.6 g/dl during the last four weeks of the study, having risen from around 8.0 g/dl before treatment. In the study of patients already being treated with an epoetin, haemoglobin levels were maintained at around 11.4 g/dl when the patients were receiving Retacrit and when they were receiving Eprex / Erypo. In both studies, the dose of epoetin received was similar with both medicines.
 
 Retacrit was also effective when it was injected under the skin. The study in patients receiving chemotherapy showed that Retacrit brought about similar improvements in haemoglobin levels as those reported in the scientific literature for other epoetins. Retacrit was also as effective as the reference medicine in patients with kidney problems.
 
-## What is the risk associated with Retacrit?
+### What is the risk associated with Retacrit?
 
 As with other medicines containing an epoetin, the most common side effect with Retacrit is an increase in blood pressure, which can sometimes lead to symptoms of encephalopathy (brain problems) such as sudden stabbing migraine-like headache and confusion. Retacrit can also lead to skin rash and influenza (flu)-like symptoms. For the full list of all side effects reported with Retacrit, see the package leaflet.
 
@@ -104,11 +106,11 @@ Retacrit should not be used in people who may be hypersensitive (allergic) to ep
 
 Retacrit must not be used prior to major bone surgery in patients who have a severe disease affecting their arteries or their blood vessels in the heart, neck or brain, including patients who have recently had a heart attack or stroke.
 
-## Why has Retacrit been approved?
+### Why has Retacrit been approved?
 
 The CHMP concluded that, in accordance with EU requirements, Retacrit has been shown to have a comparable quality, safety and efficacy profile to Eprex / Erypo. Therefore, the CHMP's view was that, as for Eprex / Erypo, the benefit outweighs the identified risks. The Committee recommended that Retacrit be given marketing authorisation.
 
-## Other information about Retacrit
+### Other information about Retacrit
 
 The European Commission granted a marketing authorisation valid throughout the EU for Retacrit on 18 December 2007.
 
@@ -118,263 +120,135 @@ Retacrit : EPAR - Summary for the public
 
 English (EN) (71.46 KB - PDF)
 
-**First published:** 15/01/2008
-
-**Last updated:** 18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/en/documents/overview/retacrit-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-121)
+[Other languages (21)](#file-language-dropdown-306)
 
 български (BG) (175.12 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/bg/documents/overview/retacrit-epar-summary-public_bg.pdf)
 
 español (ES) (118.54 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/es/documents/overview/retacrit-epar-summary-public_es.pdf)
 
 čeština (CS) (162.94 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/cs/documents/overview/retacrit-epar-summary-public_cs.pdf)
 
 dansk (DA) (133.43 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/da/documents/overview/retacrit-epar-summary-public_da.pdf)
 
 Deutsch (DE) (133.9 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/de/documents/overview/retacrit-epar-summary-public_de.pdf)
 
-eesti keel (ET) (131.45 KB - PDF)
+eesti (ET) (131.45 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/et/documents/overview/retacrit-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (179.39 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/el/documents/overview/retacrit-epar-summary-public_el.pdf)
 
 français (FR) (134.18 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/fr/documents/overview/retacrit-epar-summary-public_fr.pdf)
 
 italiano (IT) (73.97 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/it/documents/overview/retacrit-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (102.04 KB - PDF)
+latviešu (LV) (102.04 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/lv/documents/overview/retacrit-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (99.77 KB - PDF)
+lietuvių (LT) (99.77 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/lt/documents/overview/retacrit-epar-summary-public_lt.pdf)
 
 magyar (HU) (95.25 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/hu/documents/overview/retacrit-epar-summary-public_hu.pdf)
 
 Malti (MT) (100.54 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/mt/documents/overview/retacrit-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (72.92 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/nl/documents/overview/retacrit-epar-summary-public_nl.pdf)
 
 polski (PL) (102.1 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/pl/documents/overview/retacrit-epar-summary-public_pl.pdf)
 
 português (PT) (89.04 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/pt/documents/overview/retacrit-epar-summary-public_pt.pdf)
 
 română (RO) (98.59 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/ro/documents/overview/retacrit-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (158.89 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/sk/documents/overview/retacrit-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (94.74 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/sl/documents/overview/retacrit-epar-summary-public_sl.pdf)
 
-Suomi (FI) (72.74 KB - PDF)
+suomi (FI) (72.74 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/fi/documents/overview/retacrit-epar-summary-public_fi.pdf)
 
 svenska (SV) (71.4 KB - PDF)
 
-**First published:**
-
-15/01/2008
-
-**Last updated:**
-
-18/10/2011
+**First published:** 15/01/2008 **Last updated:** 18/10/2011
 
 [View](/sv/documents/overview/retacrit-epar-summary-public_sv.pdf)
 
@@ -382,311 +256,168 @@ svenska (SV) (71.4 KB - PDF)
 
 Retacrit : EPAR - Product Information
 
-English (EN) (973.61 KB - PDF)
+English (EN) (1.22 MB - PDF)
 
-**First published:** 06/02/2009
-
-**Last updated:** 02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/en/documents/product-information/retacrit-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-747)
+[Other languages (24)](#file-language-dropdown-738)
 
-български (BG) (1.24 MB - PDF)
+български (BG) (1011.38 KB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/bg/documents/product-information/retacrit-epar-product-information_bg.pdf)
 
-español (ES) (752.35 KB - PDF)
+español (ES) (855.45 KB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/es/documents/product-information/retacrit-epar-product-information_es.pdf)
 
-čeština (CS) (1.33 MB - PDF)
+čeština (CS) (1.2 MB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/cs/documents/product-information/retacrit-epar-product-information_cs.pdf)
 
-dansk (DA) (1.21 MB - PDF)
+dansk (DA) (907.16 KB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/da/documents/product-information/retacrit-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.26 MB - PDF)
+Deutsch (DE) (982.34 KB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/de/documents/product-information/retacrit-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.16 MB - PDF)
+eesti (ET) (844.29 KB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/et/documents/product-information/retacrit-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.23 MB - PDF)
+ελληνικά (EL) (1.02 MB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/el/documents/product-information/retacrit-epar-product-information_el.pdf)
 
-français (FR) (1.27 MB - PDF)
+français (FR) (995.43 KB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/fr/documents/product-information/retacrit-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.59 MB - PDF)
+hrvatski (HR) (1014.07 KB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/hr/documents/product-information/retacrit-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.22 MB - PDF)
+italiano (IT) (888.85 KB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
-
-[View](/is/documents/product-information/retacrit-epar-product-information_is.pdf)
-
-italiano (IT) (1.2 MB - PDF)
-
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/it/documents/product-information/retacrit-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.18 MB - PDF)
+latviešu (LV) (967.43 KB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/lv/documents/product-information/retacrit-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.19 MB - PDF)
+lietuvių (LT) (942.88 KB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/lt/documents/product-information/retacrit-epar-product-information_lt.pdf)
 
-magyar (HU) (1.24 MB - PDF)
+magyar (HU) (1.01 MB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/hu/documents/product-information/retacrit-epar-product-information_hu.pdf)
 
-Malti (MT) (1.23 MB - PDF)
+Malti (MT) (1.03 MB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/mt/documents/product-information/retacrit-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.26 MB - PDF)
+Nederlands (NL) (899.26 KB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/nl/documents/product-information/retacrit-epar-product-information_nl.pdf)
 
-norsk (NO) (1.2 MB - PDF)
+polski (PL) (980 KB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
-
-[View](/no/documents/product-information/retacrit-epar-product-information_no.pdf)
-
-polski (PL) (1.26 MB - PDF)
-
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/pl/documents/product-information/retacrit-epar-product-information_pl.pdf)
 
-português (PT) (1.27 MB - PDF)
+português (PT) (870.69 KB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/pt/documents/product-information/retacrit-epar-product-information_pt.pdf)
 
-română (RO) (1.18 MB - PDF)
+română (RO) (944.95 KB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/ro/documents/product-information/retacrit-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.25 MB - PDF)
+slovenčina (SK) (978.47 KB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/sk/documents/product-information/retacrit-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.2 MB - PDF)
+slovenščina (SL) (881.17 KB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/sl/documents/product-information/retacrit-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.14 MB - PDF)
+suomi (FI) (782.67 KB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/fi/documents/product-information/retacrit-epar-product-information_fi.pdf)
 
-svenska (SV) (1.12 MB - PDF)
+svenska (SV) (726.15 KB - PDF)
 
-**First published:**
-
-06/02/2009
-
-**Last updated:**
-
-02/03/2026
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
 
 [View](/sv/documents/product-information/retacrit-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000326468 02/03/2026
+Íslenska (IS) (859.5 KB - PDF)
+
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
+
+[View](/is/documents/product-information/retacrit-epar-product-information_is.pdf)
+
+norsk (NO) (868.26 KB - PDF)
+
+**First published:** 06/02/2009 **Last updated:** 20/07/2026
+
+[View](/no/documents/product-information/retacrit-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000348714
+
+20/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -700,312 +431,171 @@ Retacrit : EPAR - All Authorised presentations
 
 English (EN) (68.4 KB - PDF)
 
-**First published:** 20/10/2008
-
-**Last updated:** 14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/en/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-629)
+[Other languages (24)](#file-language-dropdown-705)
 
 български (BG) (45.66 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/bg/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (48.31 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/es/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (74.88 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/cs/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (53.66 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/da/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (47.47 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/de/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (45.35 KB - PDF)
+eesti (ET) (45.35 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/et/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (50.47 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/el/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (48.32 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/fr/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (63.68 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/hr/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (55.63 KB - PDF)
-
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
-
-[View](/is/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (68.45 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/it/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (51.02 KB - PDF)
+latviešu (LV) (51.02 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/lv/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (47.99 KB - PDF)
+lietuvių (LT) (47.99 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/lt/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (51.18 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/hu/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (57.01 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/mt/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (57.25 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/nl/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (49.6 KB - PDF)
-
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
-
-[View](/no/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (58.7 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/pl/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (70.74 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/pt/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (46.55 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/ro/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (55.36 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/sk/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (58.35 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/sl/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (45.48 KB - PDF)
+suomi (FI) (45.48 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/fi/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (48.6 KB - PDF)
 
-**First published:**
-
-20/10/2008
-
-**Last updated:**
-
-14/11/2016
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
 
 [View](/sv/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (55.63 KB - PDF)
+
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
+
+[View](/is/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (49.6 KB - PDF)
+
+**First published:** 20/10/2008 **Last updated:** 14/11/2016
+
+[View](/no/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Retacrit Active substance epoetin zeta International non-proprietary name (INN) or common name epoetin zeta Therapeutic area (MeSH)
-
-- Anemia
-- Blood Transfusion, Autologous
-- Kidney Failure, Chronic
-- Cancer
-
-Anatomical therapeutic chemical (ATC) code B03XA01
+- **Name of medicine**
+    - Retacrit
+- **Active substance**
+    - epoetin zeta
+- **International non-proprietary name (INN) or common name**
+    - epoetin zeta
+- **Therapeutic area (MeSH)**
+        - Anemia
+        - Blood Transfusion, Autologous
+        - Kidney Failure, Chronic
+        - Cancer
+- **Anatomical therapeutic chemical (ATC) code**
+    - B03XA01
 
 ### Pharmacotherapeutic group
 
@@ -1022,19 +612,18 @@ Other antianemic preparations
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000872
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Pfizer Europe MA EEIG
-
-Boulevard de la Plaine 17
-
-Opinion adopted 18/10/2007 Marketing authorisation issued 18/12/2007 Revision 34
+- **EMA product number**
+    - EMEA/H/C/000872
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Pfizer Europe MA EEIG Boulevard de la Plaine 17  1050 Bruxelles  Belgium
+- **Opinion adopted**
+    - 18/10/2007
+- **Marketing authorisation issued**
+    - 18/12/2007
+- **Revision**
+    - 35
 
 ## Assessment history
 
@@ -1042,15 +631,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Retacrit : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (145.7 KB - PDF)
+English (EN) (159.31 KB - PDF)
 
-**First published:** 22/04/2025
-
-**Last updated:** 02/03/2026
+**First published:** 22/04/2025 **Last updated:** 20/07/2026
 
 [View](/en/documents/procedural-steps-after/retacrit-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1058,35 +645,27 @@ Retacrit : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (404.46 KB - PDF)
 
-**First published:** 06/02/2009
-
-**Last updated:** 22/04/2025
+**First published:** 06/02/2009 **Last updated:** 22/04/2025
 
 [View](/en/documents/procedural-steps-after/retacrit-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Retacrit-H-C-872-II-0036 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/812237/2011
+Adopted Reference Number: EMA/812237/2011
 
 English (EN) (187.51 KB - PDF)
 
-**First published:** 18/10/2011
-
-**Last updated:** 18/10/2011
+**First published:** 18/10/2011 **Last updated:** 18/10/2011
 
 [View](/en/documents/variation-report/retacrit-h-c-872-ii-0036-epar-assessment-report-variation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Retacrit : EPAR - Scientific Discussion
 
 English (EN) (429.23 KB - PDF)
 
-**First published:** 15/01/2008
-
-**Last updated:** 15/01/2008
+**First published:** 15/01/2008 **Last updated:** 15/01/2008
 
 [View](/en/documents/scientific-discussion/retacrit-epar-scientific-discussion_en.pdf)
 
@@ -1094,9 +673,7 @@ Retacrit : EPAR - Procedural steps taken before authorisation
 
 English (EN) (22.92 KB - PDF)
 
-**First published:** 15/01/2008
-
-**Last updated:** 15/01/2008
+**First published:** 15/01/2008 **Last updated:** 15/01/2008
 
 [View](/en/documents/procedural-steps/retacrit-epar-procedural-steps-taken-authorisation_en.pdf)
 
@@ -1113,8 +690,8 @@ English (EN) (22.92 KB - PDF)
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 02/03/2026
+**This page was last updated on**
+
+20/07/2026
 
 ## Share this page
-
-[Back to top](#main-content)

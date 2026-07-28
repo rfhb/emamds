@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/gobivaz.html
 document_name: gobivaz.html
 version: success
-processing_time: 0.1399564
-conversion_datetime: 2026-07-28 12:36:40.712084
+processing_time: 0.1319605
+conversion_datetime: 2026-07-28 12:59:29.182248
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

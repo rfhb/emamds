@@ -1,24 +1,22 @@
 ---
-document_datetime: 2026-02-19 14:11:44
+document_datetime: 2026-07-22 16:13:06
 document_pages: 37
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kigabeq-epar-product-information_en.pdf
 document_name: kigabeq-epar-product-information_en.pdf
 version: success
-processing_time: 22.3565598
-conversion_datetime: 2026-02-21 12:12:13.480525
+processing_time: 14.6875658
+conversion_datetime: 2026-07-28 13:51:42.322167
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -28,11 +26,11 @@ Kigabeq 100 mg soluble tablets Kigabeq 500 mg soluble tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-## Kigabeq 100 mg soluble tablets
+Kigabeq 100 mg soluble tablets
 
 Each soluble tablet contains 100 mg vigabatrin.
 
-## Kigabeq 500 mg soluble tablets
+Kigabeq 500 mg soluble tablets
 
 Each soluble tablet contains 500 mg vigabatrin.
 
@@ -40,11 +38,12 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Soluble tablet
+## Soluble tablet
 
 White oval tablets. The tablets are scored on one side and can be divided into equal doses.
 
-- -500 mg tablet size: 16.0 mm x 9.0 mm
+- -
+- 500 mg tablet size: 16.0 mm x 9.0 mm
 - -100 mg tablet size: 9.4 mm x 5.3 mm
 
 ## 4. CLINICAL PARTICULARS
@@ -60,9 +59,9 @@ Kigabeq is indicated in infants and children from 1 month to less than 7 years o
 
 Vigabatrin treatment may only be initiated by a specialist in epileptology, neurology or paediatric neurology. Follow-up should be arranged under supervision of a specialist in epileptology, neurology or paediatric neurology.
 
-Posology
+## Posology
 
-## Monotherapy for infantile spasms (West's Syndrome)
+Monotherapy for infantile spasms (West's Syndrome)
 
 The recommended starting dose is 50 mg/kg/day. Subsequent dosing can be titrated by 25 mg/kg/day increments every 3 days up to the maximum recommended dose of 150 mg/kg/day. Doses of vigabatrin should be given twice daily according to the table below.
 
@@ -139,8 +138,6 @@ If control of epilepsy is not clinically significantly improved after an adequat
 
 Since vigabatrin is eliminated via the kidneys, caution should be exercised when administering the medicinal product to patients with creatinine clearance less than 60 ml/min. Adjustment of dose should be considered. Such patients may respond to a lower maintenance dose. Patients should be monitored for adverse reactions such as sedation or confusion (see sections 4.4 and 4.8).
 
-Hepatic impairment
-
 <div style=\"page-break-after: always\"></div>
 
 Vigabatrin is not metabolised by hepatic enzymes, hence there is no need of adjustment of dose or frequency of administration. Interference of vigabatrin administration with serological testing of some hepatic enzymes including ALT has been evidenced (see section 4.4).
@@ -207,11 +204,9 @@ VFD may not be detected until it is severe and undetected moderate defects may a
 
 Available data suggests that visual field defects are irreversible.
 
-If a visual field constriction is observed during follow-up, consideration should be given to gradual discontinuation of vigabatrin. If the decision to continue treatment is made, consideration should be
+If a visual field constriction is observed during follow-up, consideration should be given to gradual discontinuation of vigabatrin. If the decision to continue treatment is made, consideration should be given to more frequent follow-up (perimetry) in order to detect progression or sight threatening defects.
 
 <div style=\"page-break-after: always\"></div>
-
-given to more frequent follow-up (perimetry) in order to detect progression or sight threatening defects.
 
 Vigabatrin should not be used concomitantly with other retinotoxic medicinal products.
 
@@ -326,13 +321,11 @@ The adverse reactions listed below have been reported during pre- or post-approv
 | General disorders and administratio n site conditions | Fatigue             | Oedema, irritability                                                                                                                                  |                                  |                                                       |                  |                                                                                                                                                                                                                                   |
 | Investigation s                                       |                     | Weight increased                                                                                                                                      |                                  |                                                       |                  |                                                                                                                                                                                                                                   |
 
-## Description of selected adverse reactions
+Description of selected adverse reactions
 
-## Visual field defects
+Visual field defects Epidemiology of VFD in patients with refractory partial epilepsy was observed in an observational, open-label, multicentre, comparative, parallel group, Phase IV study, including 734 patients, at least 8 years old, with refractory partial epilepsy for at least one year.
 
 <div style=\"page-break-after: always\"></div>
-
-Epidemiology of VFD in patients with refractory partial epilepsy was observed in an observational, open-label, multicentre, comparative, parallel group, Phase IV study, including 734 patients, at least 8 years old, with refractory partial epilepsy for at least one year.
 
 Patients were split in three treatment groups: patients currently treated with vigabatrin (group I), patients previously exposed to vigabatrin (group II) and patients never exposed to vigabatrin (group III).
 
@@ -440,11 +433,9 @@ After administration of a single 37-50 mg/kg dose of an oral solution vigabatrin
 
 Animal safety studies carried out in the rat, mouse, dog and monkey have indicated that vigabatrin has no significant adverse reactions on the liver, kidney, lung, heart or gastrointestinal tract.
 
-In the brain, microvacuolation due to intramyelinic oedema has been observed in white matter tracts of rat, mouse and dog at doses of 30-50 mg/kg/day. In the monkey these lesions are minimal or
+In the brain, microvacuolation due to intramyelinic oedema has been observed in white matter tracts of rat, mouse and dog at doses of 30-50 mg/kg/day. In the monkey these lesions are minimal or equivocal. In both rat and dog they were reversible on stopping vigabatrin treatment and even regressed with continued treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-equivocal. In both rat and dog they were reversible on stopping vigabatrin treatment and even regressed with continued treatment.
 
 Vigabatrin-associated retinotoxicity has been observed in 80-100 % of albino rats at the dose of 300 mg/kg/day orally, but not in pigmented rats, dogs or monkeys. The retinal changes in albino rats were characterised as focal or multifocal disorganisation of the outer nuclear layer while the other layers of retina were not affected.
 
@@ -484,17 +475,15 @@ High density polyethylene bottle closed with a child resistant tamper evident po
 
 ## Dissolution of soluble tablet
 
-Fill a drinking glass with one or two teaspoons of water (approximately 5 or 10 ml), according to the age of the child. Add the prescribed number of Kigabeq tablets or tablet halves to the water. Wait until
+Fill a drinking glass with one or two teaspoons of water (approximately 5 or 10 ml), according to the age of the child. Add the prescribed number of Kigabeq tablets or tablet halves to the water. Wait until the tablet(s) fully disintegrate; tablets generally disintegrate in less than one minute but disintegration can be fastened by gently hand stirring the oral solution.
 
 <div style=\"page-break-after: always\"></div>
-
-the tablet(s) fully disintegrate; tablets generally disintegrate in less than one minute but disintegration can be fastened by gently hand stirring the oral solution.
 
 The resulting solution is whitish and cloudy. This is normal and due to presence of water-insoluble excipients.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-ORPHELIA Pharma SAS 85 boulevard Saint-Michel 75005 PARIS
+ORPHELIA Pharma SAS 55 rue de Rivoli 75001 PARIS
 
 France
 
@@ -535,7 +524,9 @@ Centre Spécialités Pharmaceutiques 76-78 avenue du Midi 63800 Cournon d'Auverg
 
 France
 
-Biocodex 1 avenue Blaise Pascal 60000 Beauvais France
+Biocodex 1 avenue Blaise Pascal 60000 Beauvais
+
+France
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -558,100 +549,23 @@ The MAH shall perform the required pharmacovigilance activities and intervention
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
-
-<div style=\"page-break-after: always\"></div>
-
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX III
+<div style=\"page-break-after: always\"></div>
 
-## LABELLING AND PACKAGE LEAFLET
+## ANNEX III LABELLING AND PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
-## A. LABELLING
+- A. LABELLING
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## CARTON CONTAINING 1 BOTTLE OF 100 SOLUBLE TABLETS OF KIGABEQ 100 MG
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Kigabeq 100 mg soluble tablets vigabatrin
-
-For children aged 1 month to less than 7 years
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each soluble tablet contains 100 mg vigabatrin.
-
-## 3. LIST OF EXCIPIENTS
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-## Soluble tablets
-
-100 soluble tablets
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use.
-
-Oral and gastric use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-ORPHELIA Pharma SAS 85 boulevard Saint-Michel 75005 PARIS France
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/18/1302/001
-
-13. BATCH NUMBER
-
-Lot
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-16. INFORMATION IN BRAILLE
-
-Kigabeq 100 mg
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC SN
-
-NN
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
-
-## LABEL FOR BOTTLE CONTAINING 100 SOLUBLE TABLETS OF KIGABEQ 100 MG
+CARTON CONTAINING 1 BOTTLE OF 100 SOLUBLE TABLETS OF KIGABEQ 100 MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -679,13 +593,13 @@ Read the package leaflet before use.
 
 Oral and gastric use.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -693,15 +607,12 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
-
-ORPHELIA Pharma SAS
+ORPHELIA Pharma SAS 55 rue de Rivoli 75001 PARIS France
 
 | 12. MARKETING AUTHORISATION NUMBER(S)   |
 |-----------------------------------------|
@@ -716,29 +627,105 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
+Kigabeq 100 mg
+
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+
+## LABEL FOR BOTTLE CONTAINING 100 SOLUBLE TABLETS OF KIGABEQ 100 MG
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Kigabeq 100 mg soluble tablets vigabatrin
+
+For children aged 1 month to less than 7 years
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each soluble tablet contains 100 mg vigabatrin.
+
+3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Soluble tablets
+
+100 soluble tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral and gastric use.
+
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+8. EXPIRY DATE
+
+EXP
+
+9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
+
+11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+ORPHELIA Pharma SAS
+
+12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/18/1302/001
+
+13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+17. UNIQUE IDENTIFIER - 2D BARCODE
+
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## CARTON CONTAINING 1 BOTTLE OF 50 SOLUBLE TABLETS OF KIGABEQ 500 MG
+CARTON CONTAINING 1 BOTTLE OF 50 SOLUBLE TABLETS OF KIGABEQ 500 MG
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Kigabeq 500 mg soluble tablets
-
-vigabatrin
+Kigabeq 500 mg soluble tablets vigabatrin
 
 For children aged 1 month to less than 7 years
 
@@ -746,7 +733,7 @@ For children aged 1 month to less than 7 years
 
 Each soluble tablet contains 500 mg vigabatrin.
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -756,55 +743,67 @@ Each soluble tablet contains 500 mg vigabatrin.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
+Read the package leaflet before use. Oral and gastric use.
 
-Oral and gastric use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+10.
 
-ORPHELIA Pharma SAS 85 boulevard Saint-Michel 75005 PARIS France
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
+
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
+
+ORPHELIA Pharma SAS 55 rue de Rivoli 75001 PARIS France
+
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/18/1302/002
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Kigabeq  500 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
-
-NN
 
 ## PARTICULARS TO APPEAR ON IMMEDIATE PACKAGING
 
@@ -822,7 +821,7 @@ For children aged 1 month to less than 7 years
 
 Each soluble tablet contains 500 mg vigabatrin.
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -840,8 +839,7 @@ Oral and gastric use.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 8. EXPIRY DATE
 
 EXP
@@ -850,31 +848,38 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-ORPHELIA Pharma SAS 85 boulevard Saint-Michel 75005 PARIS France
+ORPHELIA Pharma SAS 55 rue de Rivoli 75001 PARIS France
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/18/1302/002
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -884,15 +889,13 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## Kigabeq 100 mg soluble tablets
-
-For children aged 1 month to less than 7 years
+Kigabeq 100 mg soluble tablets For children aged 1 month to less than 7 years
 
 ## Kigabeq 500 mg soluble tablets
 
 For children aged 1 month to less than 7 years
 
-## vigabatrin
+vigabatrin
 
 ## Read all of this leaflet carefully before you give this medicine to your child because it contains important information.
 
@@ -928,11 +931,9 @@ Talk to your child's doctor before you give Kigabeq if your child:
 - -has had any kidney problems as he/she could develop symptoms like sedation or confusion
 - -has had any eye problems .
 
-Visual field loss (loss of sight from the edges of your child's field of vision) may occur during treatment with vigabatrin. You should discuss this possibility with the doctor before your child begins treatment and the doctor will tell you how to detect this side effect. This visual field loss may be severe and permanent, so it must be detected early to avoid progression. Worsening of visual field loss may continue after stopping treatment. It is important that you tell the doctor promptly if there is any
+Visual field loss (loss of sight from the edges of your child's field of vision) may occur during treatment with vigabatrin. You should discuss this possibility with the doctor before your child begins treatment and the doctor will tell you how to detect this side effect. This visual field loss may be severe and permanent, so it must be detected early to avoid progression. Worsening of visual field loss may continue after stopping treatment. It is important that you tell the doctor promptly if there is any change in your child's vision. The doctor will check your child's visual field before your child starts taking vigabatrin and carry on checking it at regular intervals during the treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-change in your child's vision. The doctor will check your child's visual field before your child starts taking vigabatrin and carry on checking it at regular intervals during the treatment.
 
 If your child develops symptoms like sleepiness, reduced consciousness and movements (stupor) or confusion, tell your child's doctor who may reduce the dose or stop Kigabeq treatment.
 
@@ -1022,11 +1023,10 @@ Use only water to prepare solution.
 - The mixture will be whitish and cloudy. This is normal and the cloudiness is because the tablet contains some excipients that do not dissolve completely
 - Give the mixture straightway to your child direct from the drinking glass or beaker
 - If your child cannot drink from the glass or beaker then you can use an oral syringe to gently squirt the mixture into your child's mouth, taking care not to cause choking: sit just in front and below your child in order that he/she has the head leaning forward and administer the mixture against his cheek
-
-<div style=\"page-break-after: always\"></div>
-
 - Rinse the glass or beaker with one or two teaspoonfuls (about 5 to 10 ml) of water and give this to your child to make sure that the child receives all the medicine
 - If the child cannot swallow, the mixture can be given through a gastric tube, using a suitable syringe. The tube should be rinsed with 10 ml of water
+
+<div style=\"page-break-after: always\"></div>
 
 ## If your child takes too much Kigabeq
 
@@ -1074,12 +1074,11 @@ Common side effects (may affect up to 1 in 10 people)
 - -psychological problems including aggression, nervousness, irritability, depression, thought disturbance, feeling suspicious without reason (paranoia) and insomnia. These side effects usually stop when vigabatrin doses are reduced or the medicine is gradually discontinued. However, do not decrease the dose without first talking to your child's doctor. Contact the doctor if your child has these psychological effects
 - -nausea (feeling sick), vomiting and abdominal pain
 - -blurred vision, double vision and uncontrolled movement of the eye, which may cause dizziness
-
-<div style=\"page-break-after: always\"></div>
-
 - -speech disorder
 - -decrease in the number of red blood cells (anaemia)
 - -unusual hair loss or thinning (alopecia)
+
+<div style=\"page-break-after: always\"></div>
 
 Uncommon side effects (may affect up to 1 in 100 people)
 
@@ -1150,9 +1149,7 @@ Kigabeq 100 mg is supplied in packs of 100 soluble tablets. Kigabeq 500 mg is su
 
 ## Marketing Authorisation Holder
 
-ORPHELIA Pharma SAS 85 boulevard Saint-Michel
-
-75005 PARIS France
+ORPHELIA Pharma SAS 55 rue de Rivoli 75001 PARIS France
 
 ## Manufacturer
 
@@ -1164,13 +1161,7 @@ FARMEA
 
 France
 
-## Centre Spécialités Pharmaceutiques
-
-76-78 avenue du Midi
-
-63800 Cournon d'Auvergne
-
-France
+Centre Spécialités Pharmaceutiques 76-78 avenue du Midi 63800 Cournon d'Auvergne France
 
 ## Biocodex
 
@@ -1182,9 +1173,7 @@ België/Belgique/Belgien ORPHELIA Pharma SAS
 
 Tél/Tel: + 33 1 42 77 08 18
 
-Lietuva ENTAFARMA Klonėnų vs. 1, LT-19156 Širvintai dist. munic.
-
-Tel. +370 382 33001
+Lietuva ENTAFARMA Klonėnų vs. 1, LT-19156 Širvintai dist. munic. Tel. +370 382 33001
 
 e-mail: info@entafarma.lt
 
@@ -1200,9 +1189,7 @@ ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
 
 ## Danmark
 
-ORPHELIA Pharma SAS
-
-Tél/Tel: + 33 1 42 77 08 18
+ORPHELIA Pharma SAS Tél/Tel: + 33 1 42 77 08 18
 
 ## Deutschland
 
@@ -1210,7 +1197,9 @@ Orphalan GmbH Karlsplatz 3 80335 München E-mail: info@orphalan.com
 
 ## Eesti
 
-ENTAFARMA Klonėnų vs. 1, LT-19156 Širvintai dist. munic. Tel. +370 382 33001 e-mail: info@entafarma.lt
+ENTAFARMA Klonėnų vs. 1,
+
+LT-19156 Širvintai dist. munic. Tel. +370 382 33001 e-mail: info@entafarma.lt
 
 ## Ελλάδα
 
@@ -1222,9 +1211,9 @@ ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
 
 ## France
 
-Orphalan SAS
+Orphalan SAS 55 rue de Rivoli 75001 Paris
 
-226 boulevard Voltaire 75011 Paris E-mail: info-france@orphalan.com
+E-mail: info-france@orphalan.com
 
 ## Hrvatska
 
@@ -1254,17 +1243,19 @@ ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
 
 ## Nederland
 
-ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
-
-## Norge
-
 ORPHELIA Pharma SAS
 
 Tel: + 33 1 42 77 08 18
 
+## Norge
+
+ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
+
 ## Österreich
 
-Orphalan GmbH Karlsplatz 3 80335 München Deutschland E-mail: info@orphalan.com
+Orphalan GmbH Karlsplatz 3 80335 München Deutschland
+
+E-mail: info@orphalan.com
 
 ## Polska
 
@@ -1280,7 +1271,9 @@ ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
 
 ## Slovenija
 
-Lenis farmacevtika d.o.o. Litostrojska cesta 52 1000 Ljubljana Email: info@lenis.si
+Lenis farmacevtika d.o.o. Litostrojska cesta 52 1000 Ljubljana
+
+Email: info@lenis.si
 
 ## Slovenská republika
 
@@ -1294,9 +1287,13 @@ ORPHELIA Pharma SAS Tel: + 33 1 42 77 08 18
 
 ## Κύπρος
 
-ORPHELIA Pharma SAS Τηλ : + 33 1 42 77 08 18
+ORPHELIA Pharma SAS
 
-Latvija ENTAFARMA Klonėnų vs. 1, LT-19156 Širvintai dist. munic. Tel. +370 382 33001 e-mail: info@entafarma.lt
+Τηλ
+
+: + 33 1 42 77 08 18
+
+Latvija ENTAFARMA Klonėnų vs. 1, LT-19156 Širvintai dist. munic. Tel. +370 382 33001 e-mail: e-mail: info@entafarma.lt
 
 ## This leaflet was last revised in
 

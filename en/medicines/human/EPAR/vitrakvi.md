@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vitrakvi.html
 document_name: vitrakvi.html
 version: success
-processing_time: 0.14712
-conversion_datetime: 2026-07-28 12:29:43.522503
+processing_time: 0.1393582
+conversion_datetime: 2026-07-28 12:52:30.127418
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

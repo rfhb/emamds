@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-27 12:52:19
-document_pages: 61
+document_datetime: 2026-07-21 15:04:54
+document_pages: 60
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/metalyse-epar-product-information_en.pdf
 document_name: metalyse-epar-product-information_en.pdf
 version: success
-processing_time: 12.267535
-conversion_datetime: 2025-12-21 20:17:07.44325
+processing_time: 19.7502406
+conversion_datetime: 2026-07-28 13:48:44.292956
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -143,11 +143,9 @@ The most common complication encountered during tenecteplase therapy is bleeding
 
 Most frequently haemorrhage at the injection site, and occasionally genitourinary and gingival bleeding were observed.
 
-Should serious bleeding occur, in particular cerebral haemorrhage, concomitant heparin administration should be terminated immediately. Administration of protamine should be considered if heparin has been administered within 4 hours before the onset of bleeding. In the few patients who fail to respond
+Should serious bleeding occur, in particular cerebral haemorrhage, concomitant heparin administration should be terminated immediately. Administration of protamine should be considered if heparin has been administered within 4 hours before the onset of bleeding. In the few patients who fail to respond to these conservative measures, judicious use of transfusion products may be indicated. Transfusion of cryoprecipitate, fresh frozen plasma, and platelets should be considered with clinical and laboratory reassessment after each administration. A target fibrinogen level of 1 g/L is desirable with cryoprecipitate infusion. Antifibrinolytic agents are available as a last alternative. In the following conditions, the risk of tenecteplase therapy may be increased and should be weighed against the anticipated benefits:
 
 <div style=\"page-break-after: always\"></div>
-
-to these conservative measures, judicious use of transfusion products may be indicated. Transfusion of cryoprecipitate, fresh frozen plasma, and platelets should be considered with clinical and laboratory reassessment after each administration. A target fibrinogen level of 1 g/L is desirable with cryoprecipitate infusion. Antifibrinolytic agents are available as a last alternative. In the following conditions, the risk of tenecteplase therapy may be increased and should be weighed against the anticipated benefits:
 
 - -Systolic blood pressure &gt; 160 mm Hg, see section 4.3
 - -Recent gastrointestinal or genitourinary bleeding (within the past 10 days)
@@ -199,7 +197,7 @@ Concomitant use of GPIIb/IIIa antagonists increases bleeding risk.
 
 There is a limited amount of data from the use of Metalyse in pregnant women. Nonclinical data performed with tenecteplase have shown bleeding with secondary mortality of dams due to the known pharmacological activity of the active substance and in a few cases abortion and resorption of the foetus occurred (effects only have been observed with repeated dose administration). Tenecteplase is not considered to be teratogenic (please see section 5.3).
 
-The benefit of treatment must be evaluated against the potential risks in case of myocardial infarction during pregnancy.
+The benefit of treatment must be evaluated against the potential risks during pregnancy.
 
 ## Breast-feeding
 
@@ -221,54 +219,54 @@ Haemorrhage is a very common undesirable effect associated with the use of tenec
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions listed below are classified according to frequency and system organ class. Frequency groupings are defined according to the following convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from the available data).
+Adverse reactions listed below are classified according to frequency and system organ class. Frequency groupings are defined according to the following convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (frequency cannot be estimated from the available data).
 
 <div style=\"page-break-after: always\"></div>
 
 Table 1 displays the frequency of adverse reactions.
 
-| System organ class                        | Adverse reaction                                                                                                                                                                                                                                                                                                                                                               |
-|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Immune system disorders                   |                                                                                                                                                                                                                                                                                                                                                                                |
-| Rare                                      | Anaphylactoid reaction (including rash, urticaria, bronchospasm, laryngeal oedema)                                                                                                                                                                                                                                                                                             |
-| Nervous system disorders                  |                                                                                                                                                                                                                                                                                                                                                                                |
-| Uncommon                                  | Intracranial haemorrhage (such as cerebral haemorrhage, cerebral haematoma, haemorrhagic stroke, haemorrhagic transformation stroke, intracranial haematoma, subarachnoid haemorrhage) including associated symptoms as somnolence, aphasia, hemiparesis, convulsion                                                                                                           |
-| Eye disorders                             |                                                                                                                                                                                                                                                                                                                                                                                |
-| Uncommon                                  | Eye haemorrhage                                                                                                                                                                                                                                                                                                                                                                |
-| Cardiac disorders                         |                                                                                                                                                                                                                                                                                                                                                                                |
-| Uncommon                                  | Reperfusion arrhythmias (such as asystole, accelerated idioventricular arrhythmia, arrhythmia, extrasystoles, atrial fibrillation, atrioventricular first degree to atrioventricular block complete, bradycardia, tachycardia, ventricular arrhythmia, ventricular fibrillation, ventricular tachycardia) occur in close temporal relationship to treatment with tenecteplase. |
-| Rare                                      | Pericardial haemorrhage                                                                                                                                                                                                                                                                                                                                                        |
-| Vascular disorders                        |                                                                                                                                                                                                                                                                                                                                                                                |
-| Very common                               | Haemorrhage                                                                                                                                                                                                                                                                                                                                                                    |
-| Rare                                      | Embolism (thrombotic embolisation)                                                                                                                                                                                                                                                                                                                                             |
-| Respiratory, thoracic and mediastinal     | disorders                                                                                                                                                                                                                                                                                                                                                                      |
-| Common                                    | Epistaxis                                                                                                                                                                                                                                                                                                                                                                      |
-| Rare                                      | Pulmonary haemorrhage                                                                                                                                                                                                                                                                                                                                                          |
-| Gastrointestinal disorders                |                                                                                                                                                                                                                                                                                                                                                                                |
-| Common                                    | Gastrointestinal haemorrhage (such as gastric haemorrhage, gastric ulcer haemorrhage, rectal haemorrhage, haematemesis, melaena, mouth haemorrhage)                                                                                                                                                                                                                            |
-| Uncommon                                  | Retroperitoneal haemorrhage (such as retroperitoneal haematoma)                                                                                                                                                                                                                                                                                                                |
-| Not known                                 | Nausea, vomiting                                                                                                                                                                                                                                                                                                                                                               |
-| Skin and subcutaneous tissue disorders    |                                                                                                                                                                                                                                                                                                                                                                                |
-| Common                                    | Ecchymosis                                                                                                                                                                                                                                                                                                                                                                     |
-| Renal and urinary disorders               |                                                                                                                                                                                                                                                                                                                                                                                |
-| Common                                    | Urogenital haemorrhage (such as haematuria, haemorrhage urinary tract)                                                                                                                                                                                                                                                                                                         |
-| General disorders and administration site | conditions                                                                                                                                                                                                                                                                                                                                                                     |
-| Common                                    | Injection site haemorrhage, puncture site haemorrhage                                                                                                                                                                                                                                                                                                                          |
-| Investigations                            |                                                                                                                                                                                                                                                                                                                                                                                |
-| Rare                                      | Blood pressure decreased                                                                                                                                                                                                                                                                                                                                                       |
-| Not known                                 | Body temperature increased                                                                                                                                                                                                                                                                                                                                                     |
-| Injury, poisoning and procedural          | complications                                                                                                                                                                                                                                                                                                                                                                  |
-| Not known                                 | Fat embolism, which may lead to corresponding consequences in the organs concerned                                                                                                                                                                                                                                                                                             |
+| System organ class                                   | Adverse reaction                                                                                                                                                                                                                                                                                                                                                               |
+|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Immune system disorders                              | Immune system disorders                                                                                                                                                                                                                                                                                                                                                        |
+| Rare                                                 | Anaphylactoid reaction (including rash, urticaria, bronchospasm, laryngeal oedema)                                                                                                                                                                                                                                                                                             |
+| Nervous system disorders                             | Nervous system disorders                                                                                                                                                                                                                                                                                                                                                       |
+| Uncommon                                             | Intracranial haemorrhage (such as cerebral haemorrhage, cerebral haematoma, haemorrhagic stroke, haemorrhagic transformation stroke, intracranial haematoma, subarachnoid haemorrhage) including associated symptoms as somnolence, aphasia, hemiparesis, convulsion                                                                                                           |
+| Eye disorders                                        | Eye disorders                                                                                                                                                                                                                                                                                                                                                                  |
+| Uncommon                                             | Eye haemorrhage                                                                                                                                                                                                                                                                                                                                                                |
+| Cardiac disorders                                    | Cardiac disorders                                                                                                                                                                                                                                                                                                                                                              |
+| Uncommon                                             | Reperfusion arrhythmias (such as asystole, accelerated idioventricular arrhythmia, arrhythmia, extrasystoles, atrial fibrillation, atrioventricular first degree to atrioventricular block complete, bradycardia, tachycardia, ventricular arrhythmia, ventricular fibrillation, ventricular tachycardia) occur in close temporal relationship to treatment with tenecteplase. |
+| Rare                                                 | Pericardial haemorrhage                                                                                                                                                                                                                                                                                                                                                        |
+| Vascular disorders                                   | Vascular disorders                                                                                                                                                                                                                                                                                                                                                             |
+| Very common                                          | Haemorrhage                                                                                                                                                                                                                                                                                                                                                                    |
+| Rare                                                 | Embolism (thrombotic embolisation)                                                                                                                                                                                                                                                                                                                                             |
+| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                                                                                                                                |
+| Common                                               | Epistaxis                                                                                                                                                                                                                                                                                                                                                                      |
+| Rare                                                 | Pulmonary haemorrhage                                                                                                                                                                                                                                                                                                                                                          |
+| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                                                                                                                                                                                                                                                                     |
+| Common                                               | Gastrointestinal haemorrhage (such as gastric haemorrhage, gastric ulcer haemorrhage, rectal haemorrhage, haematemesis, melaena, mouth haemorrhage)                                                                                                                                                                                                                            |
+| Uncommon                                             | Retroperitoneal haemorrhage (such as retroperitoneal haematoma)                                                                                                                                                                                                                                                                                                                |
+| Not known                                            | Nausea, vomiting                                                                                                                                                                                                                                                                                                                                                               |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                                                                                                                         |
+| Common                                               | Ecchymosis                                                                                                                                                                                                                                                                                                                                                                     |
+| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                                                                                                                                                                                                                                                    |
+| Common                                               | Urogenital haemorrhage (such as haematuria, haemorrhage urinary tract)                                                                                                                                                                                                                                                                                                         |
+| General disorders and administration site conditions | General disorders and administration site conditions                                                                                                                                                                                                                                                                                                                           |
+| Common                                               | Injection site haemorrhage, puncture site haemorrhage                                                                                                                                                                                                                                                                                                                          |
+| Investigations                                       | Investigations                                                                                                                                                                                                                                                                                                                                                                 |
+| Rare                                                 | Blood pressure decreased                                                                                                                                                                                                                                                                                                                                                       |
+| Not known                                            | Body temperature increased                                                                                                                                                                                                                                                                                                                                                     |
+| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                                                                                                                                                                                                                                                                                                                 |
+| Not known                                            | Fat embolism, which may lead to corresponding consequences in the organs concerned                                                                                                                                                                                                                                                                                             |
 
 As with other thrombolytic agents, the following events have been reported as sequelae of myocardial infarction and/or thrombolytic administration:
 
 - -very common: hypotension, heart rate and rhythm disorders, angina pectoris
 - -common: recurrent ischaemia, cardiac failure, myocardial infarction, cardiogenic shock, pericarditis, pulmonary oedema
+- -uncommon: cardiac arrest, mitral valve incompetence, pericardial effusion, venous thrombosis, cardiac tamponade, myocardial rupture
 
 <div style=\"page-break-after: always\"></div>
 
-- -uncommon: cardiac arrest, mitral valve incompetence, pericardial effusion, venous thrombosis, cardiac tamponade, myocardial rupture
-- -rare: pulmonary embolism
+## -rare: pulmonary embolism
 
 These cardiovascular events can be life-threatening and may lead to death.
 
@@ -304,11 +302,11 @@ After administration of tenecteplase dose dependent consumption of  2-antipla
 
 Patency data from the phase I and II angiographic studies suggest that tenecteplase, administered as a single intravenous bolus, is effective in dissolving blood clots in the infarct-related artery of subjects experiencing an AMI on a dose related basis.
 
-<div style=\"page-break-after: always\"></div>
-
 ## ASSENT-2
 
 A large scale mortality trial (ASSENT-2) in approx. 17 000 patients showed that tenecteplase is therapeutically equivalent to alteplase in reducing mortality (6.2% for both treatments, at 30 days, upper limit of the 95% CI for the relative risk ratio 1.124) and that the use of tenecteplase is associated with a significantly lower incidence of non-intracranial bleedings (26.4% vs. 28.9%, p = 0.0003). This translates into a significantly lower need of transfusions (4.3% vs. 5.5%, p = 0.0002). Intracranial haemorrhage occurred at a rate of 0.93% vs. 0.94% for tenecteplase and alteplase, respectively.
+
+<div style=\"page-break-after: always\"></div>
 
 Coronary patency and limited clinical outcome data showed that AMI patients have been successfully treated later than 6 hours after symptom onset.
 
@@ -326,8 +324,6 @@ The STREAM study was designed to evaluate the efficacy and safety of a pharmaco-
 
 The study population consisted of 1 892 patients randomised by means of an interactive voice response system. The primary endpoint, a composite of death or cardiogenic shock or congestive heart failure or re-infarction within 30 days, was observed in 12.4% (116/939) of the pharmaco-invasive arm versus 14.3% (135/943) in the primary PCI arm (relative risk 0.86 (0.68-1.09)).
 
-<div style=\"page-break-after: always\"></div>
-
 Single components of the primary composite endpoint for the pharmaco-invasive strategy versus primary PCI respectively were observed with the following frequencies:
 
 |                                                                 | Pharmaco-invasive (n = 944)   | Primary PCI (n = 948)   |    p |
@@ -339,12 +335,14 @@ Single components of the primary composite endpoint for the pharmaco-invasive st
 | Re-infarction                                                   | 23/938 (2.5%)                 | 21/944 (2.2%)           | 0.74 |
 | Cardiac mortality                                               | 31/939 (3.3%)                 | 32/946 (3.4%)           | 0.92 |
 
+<div style=\"page-break-after: always\"></div>
+
 The observed incidence of major and of minor non-ICH bleeds were similar in both groups:
 
 |                     | Pharmaco-invasive (n = 944)   | Primary PCI (n = 948)   |    p |
 |---------------------|-------------------------------|-------------------------|------|
 | Major non-ICH bleed | 61/939 (6.5%)                 | 45/944 (4.8%)           | 0.11 |
-| Minor non-ICH bleed | 205/939 (21.8%)               | 191/944 (20.2%)         | 0.4  |
+| Minor non-ICH bleed | 205/939 (21.8%)               | 191/944 (20.2%)         | 0.40 |
 
 Incidence of total strokes and intracranial haemorrhage
 
@@ -355,7 +353,8 @@ Incidence of total strokes and intracranial haemorrhage
 | Intracranial haemorrhage after protocol amendment to half dose in patients ≥ 75 years: | 4/747 (0.5%)                  | 2/758 (0.3%)            | 0.45   |
 
 * the incidences in both groups are those expected in STEMI patients treated by fibrinolytics or primary PCI (as observed in previous studies).
-- ** the incidence in the pharmaco-invasive group is as expected for fibrinolysis with tenecteplase (as observed in previous studies).
+
+** the incidence in the pharmaco-invasive group is as expected for fibrinolysis with tenecteplase (as observed in previous studies).
 
 After the dose reduction of tenecteplase by half in patients ≥ 75 years there was no further intracranial hemorrhage (0 of 97 patients) (95% CI: 0.0-3.7) versus 8.1% (3 of 37 patients) (95% CI: 1.7-21.9) prior to dose reduction. The bounds of the confidence interval of the observed incidences prior and after dose reduction are overlapping.
 
@@ -367,15 +366,13 @@ In patients ≥ 75 years the observed incidence of the primary efficacy composit
 
 Tenecteplase is an intravenously administered, recombinant protein that activates plasminogen. Following intravenous bolus administration of 30 mg tenecteplase in patients with acute myocardial infarction, the initially estimated tenecteplase plasma concentration was 6.45 ± 3.60 µg/mL (mean ± SD). The distribution phase represents 31% ± 22% to 69% ± 15% (mean ± SD) of the total AUC following the administration of doses ranges from 5 to 50 mg.
 
-Data on tissue distribution were obtained in studies with radioactively labelled tenecteplase in rats. The main organ to which tenecteplase distributed was the liver. It is not known whether and to which
-
-<div style=\"page-break-after: always\"></div>
-
-extent tenecteplase binds to plasma proteins in humans. The mean residence time (MRT) in the body is approximately 1 h and the mean (± SD) volume of distribution at the steady-state (Vss) ranged from 6.3 ± 2 L to 15 ± 7 L.
+Data on tissue distribution were obtained in studies with radioactively labelled tenecteplase in rats. The main organ to which tenecteplase distributed was the liver. It is not known whether and to which extent tenecteplase binds to plasma proteins in humans. The mean residence time (MRT) in the body is approximately 1 h and the mean (± SD) volume of distribution at the steady-state (Vss) ranged from 6.3 ± 2 L to 15 ± 7 L.
 
 ## Biotransformation
 
 Tenecteplase is cleared from circulation by binding to specific receptors in the liver followed by catabolism to small peptides. Binding to hepatic receptors is, however, reduced compared to native t-PA, resulting in a prolonged half-life.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Elimination
 
@@ -389,7 +386,7 @@ The dose linearity analysis based on AUC suggested that tenecteplase exhibits no
 
 ## Renal and hepatic impairment
 
-Because elimination of tenecteplase is through the liver, it is not expected that renal dysfunction will affect its the pharmacokinetics. This is also supported by animal data. However, the effect of renal and hepatic dysfunction on pharmacokinetics of tenecteplase in humans has not been specifically investigated. Accordingly, there is no guidance for the adjustment to tenecteplase dose in patients with hepatic and severe renal insufficiency.
+Because elimination of tenecteplase is through the liver, it is not expected that renal dysfunction will affect its pharmacokinetics. This is also supported by animal data. However, the effect of renal and hepatic dysfunction on pharmacokinetics of tenecteplase in humans has not been specifically investigated. Accordingly, there is no guidance for the adjustment to tenecteplase dose in patients with hepatic and severe renal insufficiency.
 
 ## 5.3 Preclinical safety data
 
@@ -401,9 +398,9 @@ With regard to the indication and the single dose administration in humans, repr
 
 Mutagenicity and carcinogenicity are not expected for this class of recombinant proteins and genotoxicity and carcinogenicity testing were not necessary.
 
-<div style=\"page-break-after: always\"></div>
-
 No local irritation of the blood vessel was observed after intravenous, intra-arterial or paravenous administration of the final formulation of tenecteplase.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -413,7 +410,7 @@ No local irritation of the blood vessel was observed after intravenous, intra-ar
 
 Arginine Concentrated phosphoric acid (E 338) Polysorbate 20 (E 432) Trace residue from manufacturing process: Gentamicin
 
-## Solvent
+Solvent
 
 Water for injections
 
@@ -423,7 +420,7 @@ Metalyse is incompatible with glucose infusion solutions.
 
 ## 6.3 Shelf life
 
-## Shelf life as packaged for sale
+Shelf life as packaged for sale
 
 3 years
 
@@ -439,32 +436,21 @@ Do not store above 30 °C. Keep the container in the outer carton in order to pr
 
 ## 6.5 Nature and contents of container
 
-## Metalyse 8 000 units (40 mg) powder and solvent for solution for injection
+Metalyse 8 000 units (40 mg) powder and solvent for solution for injection
 
 20 mL glass vial type I, with a silicone coated grey rubber stopper and a flip-off cap filled with powder for solution for injection. Each vial contains 40 mg tenecteplase. 10 mL plastic pre-filled syringe with 8 mL of solvent. Sterile vial adapter.
 
-## Metalyse 10 000 units (50 mg) powder and solvent for solution for injection
+Metalyse 10 000 units (50 mg) powder and solvent for solution for injection
 
-20 mL glass vial type I, with a silicone coated grey rubber stopper and a flip-off cap filled with powder for solution for injection. Each vial contains 50 mg tenecteplase. 10 mL plastic pre-filled syringe with 10 mL of solvent.
+20 mL glass vial type I, with a silicone coated grey rubber stopper and a flip-off cap filled with powder for solution for injection. Each vial contains 50 mg tenecteplase. 10 mL plastic pre-filled syringe with 10 mL of solvent. Sterile vial adapter.
 
 <div style=\"page-break-after: always\"></div>
-
-Sterile vial adapter.
 
 ## 6.6 Special precautions for disposal and other handling
 
 Metalyse should be reconstituted by adding the complete volume of solvent from the pre-filled syringe to the vial containing the powder for solution for injection.
 
 1. Ensure that the appropriate vial size is chosen according to the body weight of the patient.
-
-| Patients' body weight category (kg)   |   Volume of reconstituted solution (mL) | Tenecteplase (U)   |   Tenecteplase (mg) |
-|---------------------------------------|-----------------------------------------|--------------------|---------------------|
-| < 60                                  |                                       6 | 6 000              |                  30 |
-| ≥ 60 to < 70                          |                                       7 | 7 000              |                  35 |
-| ≥ 70 to < 80                          |                                       8 | 8 000              |                  40 |
-| ≥ 80 to < 90                          |                                       9 | 9 000              |                  45 |
-| ≥ 90                                  |                                      10 | 10 000             |                  50 |
-
 2. Check that the cap of the vial is still intact.
 3. Remove the flip-off cap from the vial.
 4. Open the top of the vial adapter. Remove the tip-cap from the pre-filled syringe with the solvent. Then immediately screw the pre-filled syringe on the vial adapter tightly and penetrate the vial stopper in the middle with the spike of the vial adapter.
@@ -474,10 +460,18 @@ Metalyse should be reconstituted by adding the complete volume of solvent from t
 8. Directly before the solution will be administered, invert the vial with the syringe still attached, so that the syringe is below the vial.
 9. Transfer the appropriate volume of Metalyse reconstituted solution into the syringe, based on the patient's weight.
 10. Unscrew the syringe from the vial adapter.
-11. A pre-existing intravenous line may be used for administration of Metalyse in sodium chloride 9 mg/mL (0.9%) solution only. No other medicinal product should be added to the injection solution.
+11. A pre-existing intravenous line, which has been used for administration of 0.9% sodium chloride solution only, may be used for administration of Metalyse. No other medicinal product should be added to the injection solution.
 12. Metalyse is to be administered to the patient, intravenously in about 10 seconds. It should not be administered in a line containing glucose as Metalyse is incompatible with glucose solution.
 13. The line should be flushed after Metalyse injection for a proper delivery.
 14. Any unused reconstituted solution should be discarded.
+
+| Patients' body weight category (kg)   |   Volume of reconstituted solution (mL) | Tenecteplase (U)   |   Tenecteplase (mg) |
+|---------------------------------------|-----------------------------------------|--------------------|---------------------|
+| < 60                                  |                                       6 | 6 000              |                  30 |
+| ≥ 60 to < 70                          |                                       7 | 7 000              |                  35 |
+| ≥ 70 to < 80                          |                                       8 | 8 000              |                  40 |
+| ≥ 80 to < 90                          |                                       9 | 9 000              |                  45 |
+| ≥ 90                                  |                                      10 | 10 000             |                  50 |
 
 Alternatively, the reconstitution can be performed with a needle instead of the included vial adapter.
 
@@ -487,27 +481,33 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein Germany
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 Metalyse 8 000 units (40 mg) powder and solvent for solution for injection
 
 EU/1/00/169/005
 
+<div style=\"page-break-after: always\"></div>
+
 Metalyse 10 000 units (50 mg) powder and solvent for solution for injection
 
 EU/1/00/169/006
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 23 February 2001
 
 Date of last renewal: 23 February 2006
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
+
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
+
+14
 
 <div style=\"page-break-after: always\"></div>
 
@@ -517,7 +517,7 @@ Metalyse 5 000 units (25 mg) powder for solution for injection
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Metalyse 5 000 units (25 mg) powder for solution for injection Each vial contains 5 000 units (25 mg) tenecteplase.
+Each vial contains 5 000 units (25 mg) tenecteplase.
 
 The reconstituted solution contains 1 000 units (5 mg) tenecteplase per mL.
 
@@ -549,7 +549,11 @@ Treatment with Metalyse must be initiated as early as possible and no later than
 
 The appropriate presentation of tenecteplase product should be chosen carefully and in line with the indication. The 25 mg presentation of tenecteplase is only intended for use in acute ischaemic stroke.
 
-Metalyse should be administered on the basis of body weight, with a maximum single dose of 5 000 units (25 mg tenecteplase) for the indication acute ischaemic stroke. Benefit-risk of tenecteplase treatment should be carefully evaluated in patients weighing 50 kg or less due to limited availability of data.
+Metalyse should be administered on the basis of body weight, with a maximum single dose of
+
+5 000 units (25 mg tenecteplase) for the indication acute ischaemic stroke.
+
+Benefit-risk of tenecteplase treatment should be carefully evaluated in patients weighing 50 kg or less due to limited availability of data.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -557,11 +561,11 @@ The volume required to administer the correct total dose can be calculated from 
 
 | Patients' body weight category (kg)   | Tenecteplase (U)   |   Tenecteplase (mg) |   Corresponding volume of reconstituted solution (mL) |
 |---------------------------------------|--------------------|---------------------|-------------------------------------------------------|
-| < 60                                  | 3 000              |                15   |                                                   3   |
+| < 60                                  | 3 000              |                15.0 |                                                   3.0 |
 | ≥ 60 to < 70                          | 3 500              |                17.5 |                                                   3.5 |
-| ≥ 70 to < 80                          | 4 000              |                20   |                                                   4   |
+| ≥ 70 to < 80                          | 4 000              |                20.0 |                                                   4.0 |
 | ≥ 80 to < 90                          | 4 500              |                22.5 |                                                   4.5 |
-| ≥ 90                                  | 5 000              |                25   |                                                   5   |
+| ≥ 90                                  | 5 000              |                25.0 |                                                   5.0 |
 
 ## Elderly (&gt; 80 years)
 
@@ -617,16 +621,16 @@ Furthermore, Metalyse is contraindicated in the following situations because thr
 - -Patients with any history of prior stroke and concomitant diabetes
 - -Prior stroke within the last 3 months
 - -Platelet count of below 100 000/mm 3
-- -Systolic blood pressure &gt; 185 mmHg or diastolic BP &gt; 110 mmHg, or  when BP cannot be reduced below these limits by careful management
+- -Systolic blood pressure &gt; 185 mmHg or diastolic BP &gt; 110 mmHg, or when BP cannot be reduced below these limits by careful management
 - -Blood glucose &lt; 50 mg/dL (see section 4.4) or &gt; 400 mg/dL (&lt; 2.8 mM or &gt; 22.2 mM)
 
 ## 4.4 Special warnings and precautions for use
 
+Thrombolytic treatment requires adequate monitoring. Treatment must be performed under the responsibility and follow-up of physicians trained and experienced in neurovascular care and the use of thrombolytic treatments, with the facilities to monitor that use. For the indication verification remote diagnostic measures may be considered as appropriate, see sections 4.1 and 4.2.
+
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the trade name and the batch number of the administered product should be clearly recorded.
-
-Thrombolytic treatment requires adequate monitoring. Treatment must be performed under the responsibility and follow-up of physicians trained and experienced in neurovascular care and the use of thrombolytic treatments, with the facilities to monitor that use. For the indication verification remote diagnostic measures may be considered as appropriate, see sections 4.1 and 4.2.
 
 ## Bleeding
 
@@ -741,7 +745,7 @@ Haemorrhage is the most common undesirable effect associated with the use of ten
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions listed below are classified according to frequency and system organ class. Frequency groupings are defined according to the following convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from the available data).
+Adverse reactions listed below are classified according to frequency and system organ class. Frequency groupings are defined according to the following convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (frequency cannot be estimated from the available data).
 
 Except for the occurrence of ADR reperfusion arrhythmias in the indication acute myocardial infarction and the frequency of ADR intracranial haemorrhage in the indication acute ischaemic stroke, there is no medical reason to assume that the safety profile of Metalyse in the indication acute ischaemic stroke is different from the profile in the indication acute myocardial infarction.
 
@@ -878,7 +882,7 @@ The dose linearity analysis based on AUC suggested that tenecteplase exhibits no
 
 ## Renal and hepatic impairment
 
-Because elimination of tenecteplase is through the liver, it is not expected that renal dysfunction will affect its the pharmacokinetics. This is also supported by animal data. However, the effect of renal and hepatic dysfunction on pharmacokinetics of tenecteplase in humans has not been specifically investigated. Accordingly, there is no guidance for the adjustment to tenecteplase dose in patients with hepatic and severe renal insufficiency.
+Because elimination of tenecteplase is through the liver, it is not expected that renal dysfunction will affect its pharmacokinetics. This is also supported by animal data. However, the effect of renal and hepatic dysfunction on pharmacokinetics of tenecteplase in humans has not been specifically investigated. Accordingly, there is no guidance for the adjustment to tenecteplase dose in patients with hepatic and severe renal insufficiency.
 
 ## 5.3 Preclinical safety data
 
@@ -886,11 +890,9 @@ Intravenous single dose administration in rats, rabbits and dogs resulted only i
 
 Safety pharmacology data in cynomolgus monkeys revealed reduction of blood pressure followed by changes of ECG, but these occurred at exposures that were considerably higher than the clinical exposure.
 
-With regard to the indication and the single dose administration in humans, reproductive toxicity testing was limited to an embryotoxicity study in rabbits, as a sensitive species. Tenecteplase induced total litter deaths during the mid-embryonal period. When tenecteplase was given during the mid- or
+With regard to the indication and the single dose administration in humans, reproductive toxicity testing was limited to an embryotoxicity study in rabbits, as a sensitive species. Tenecteplase induced total litter deaths during the mid-embryonal period. When tenecteplase was given during the mid- or late-embryonal period maternal animals showed vaginal bleeding on the day after the first dose. Secondary mortality was observed 1-2 days later. Data on the foetal period are not available.
 
 <div style=\"page-break-after: always\"></div>
-
-late-embryonal period maternal animals showed vaginal bleeding on the day after the first dose. Secondary mortality was observed 1-2 days later. Data on the foetal period are not available.
 
 Mutagenicity and carcinogenicity are not expected for this class of recombinant proteins and genotoxicity and carcinogenicity testing were not necessary.
 
@@ -924,36 +926,34 @@ Do not store above 30 °C. Keep the container in the outer carton in order to pr
 
 ## 6.5 Nature and contents of container
 
-## Metalyse 5 000 units (25 mg) powder for solution for injection
-
 10 mL clear glass vial, with a coated (B2-44) grey rubber stopper and a crimp cap filled with powder for solution for injection. Each vial contains 25 mg tenecteplase.
 
 ## 6.6 Special precautions for disposal and other handling
 
 Metalyse should be reconstituted by adding 5 mL of sterile water for injections to the vial containing the powder for solution for injection using a needle and a syringe (not provided in the package).
 
-## 1. Remove the crimp cap from the vial.
+1. Remove the crimp cap from the vial.
+2. Fill a syringe with 5 mL of sterile water for injection and penetrate the vial stopper in the middle with the needle.
 
 <div style=\"page-break-after: always\"></div>
 
-2. Fill a syringe with 5 mL of sterile water for injection and penetrate the vial stopper in the middle with the needle.
 3. Add all the sterile water for injection into the vial by pushing the syringe plunger down slowly to avoid foaming.
 4. Keep the syringe attached to the vial and reconstitute by swirling gently.
 5. The reconstituted solution for injection results in a colourless to pale yellow, clear solution. Only clear solution without particles should be used.
 6. Directly before the solution is administered, invert the vial with the syringe still attached, so that the syringe is below the vial.
 7. Transfer the appropriate volume of Metalyse reconstituted solution into the syringe, based on the patient's weight.
-8. A pre-existing intravenous line may be used for administration of Metalyse in sodium chloride 9 mg/mL (0.9%) solution only. No other medicinal product should be added to the injection solution.
+8. A pre-existing intravenous line, which has been used for administration of 0.9% sodium chloride solution only, may be used for administration of Metalyse. No other medicinal product should be added to the injection solution.
 9. Metalyse is to be administered to the patient, intravenously in about 5 to 10 seconds. It should not be administered in a line containing glucose as Metalyse is incompatible with glucose solution.
 10. The line should be flushed after Metalyse injection for a proper delivery.
 11. Any unused reconstituted solution should be discarded.
 
 | Patients' body weight category (kg)   |   Volume of reconstituted solution (mL) | Tenecteplase (U)   |   Tenecteplase (mg) |
 |---------------------------------------|-----------------------------------------|--------------------|---------------------|
-| < 60                                  |                                     3   | 3 000              |                15   |
+| < 60                                  |                                     3.0 | 3 000              |                15.0 |
 | ≥ 60 to < 70                          |                                     3.5 | 3 500              |                17.5 |
-| ≥ 70 to < 80                          |                                     4   | 4 000              |                20   |
+| ≥ 70 to < 80                          |                                     4.0 | 4 000              |                20.0 |
 | ≥ 80 to < 90                          |                                     4.5 | 4 500              |                22.5 |
-| ≥ 90                                  |                                     5   | 5 000              |                25   |
+| ≥ 90                                  |                                     5.0 | 5 000              |                25.0 |
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -1032,7 +1032,11 @@ Not applicable.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Metalyse 8 000 U (40 mg) powder and solvent for solution for injection tenecteplase
+Metalyse 8 000 U (40 mg)
+
+powder and solvent for solution for injection
+
+tenecteplase
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1151,7 +1155,9 @@ VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Metalyse 8 000 U (40 mg) powder for solution for injection. tenecteplase
+powder for solution for injection.
+
+Metalyse 8 000 U (40 mg) tenecteplase
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1348,8 +1354,7 @@ Instructions for use
 5 Keep the syringe attached to the vial and reconstitute by swirling gently.
 
 - 6 Invert vial/syringe and transfer the appropriate volume of the solution into syringe according to the dosing instructions.
-
-7 Unscrew syringe from the vial-adapter. Now solution is ready for iv. bolus injection.
+- 7 Unscrew syringe from the vial-adapter. Now solution is ready for iv. bolus injection.
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1407,13 +1412,7 @@ Do not store above 30 °C.
 
 Keep the container in the outer carton in order to protect from light.
 
-10.
-
-SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
-
-OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
-
-APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1441,14 +1440,16 @@ Not applicable.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 Not applicable.
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS SYRINGE LABEL FOR SOLVENT
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+## SYRINGE LABEL FOR SOLVENT
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1570,7 +1571,8 @@ IV after reconstitution with 5 mL water for injection
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -1815,11 +1817,7 @@ Manufacturer
 
 Boehringer Ingelheim Pharma GmbH &amp; Co. KG Birkendorfer Strasse 65 88397 Biberach/Riss Germany
 
-Boehringer Ingelheim France 100-104 avenue de France 75013 Paris France
-
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Boehringer Ingelheim France 100-104 avenue de France 75013 Paris France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -1861,21 +1859,19 @@ Boehringer Ingelheim France S.A.S. Tél: +33 3 26 50 45 33
 
 ## Hrvatska
 
-Boehringer Ingelheim Zagreb d.o.o.
-
-Tel: +385 1 2444 600
+Boehringer Ingelheim Zagreb d.o.o. Tel: +385 1 2444 600
 
 ## Ireland
 
-Boehringer Ingelheim Ireland Ltd.
-
-Tel: +353 1 295 9620
+Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 
 ## Ísland
 
 Vistor ehf.
 
 Sími: +354 535 7000
+
+<div style=\"page-break-after: always\"></div>
 
 ## Lietuva
 
@@ -1889,7 +1885,7 @@ Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
 
 ## Magyarország
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG Magyarországi Fióktelepe Tel: +36 1 299 89 00
+Boehringer Ingelheim RCV GmbH &amp; Co KG Magyarországi Fióktelepe Tel.: +36 1 299 89 00
 
 ## Malta
 
@@ -1901,7 +1897,7 @@ Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
 ## Österreich
 
@@ -2175,11 +2171,7 @@ Manufacturer
 
 Boehringer Ingelheim Pharma GmbH &amp; Co. KG Birkendorfer Strasse 65 88397 Biberach/Riss Germany
 
-Boehringer Ingelheim France 100-104 avenue de France 75013 Paris France
-
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Boehringer Ingelheim France 100-104 avenue de France 75013 Paris France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -2233,9 +2225,13 @@ Vistor ehf.
 
 Sími: +354 535 7000
 
+<div style=\"page-break-after: always\"></div>
+
 ## Lietuva
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas Tel: +370 5 2595942
+Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas
+
+Tel: +370 5 2595942
 
 ## Luxembourg/Luxemburg
 
@@ -2243,7 +2239,7 @@ Boehringer Ingelheim SComm Tél/Tel: +32 2 773 33 11
 
 ## Magyarország
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG Magyarországi Fióktelepe Tel: +36 1 299 89 00
+Boehringer Ingelheim RCV GmbH &amp; Co KG Magyarországi Fióktelepe Tel.: +36 1 299 89 00
 
 ## Malta
 
@@ -2255,7 +2251,7 @@ Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
 ## Österreich
 

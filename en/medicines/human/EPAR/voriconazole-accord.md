@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/voriconazole-accord.html
 document_name: voriconazole-accord.html
 version: success
-processing_time: 0.1651065
-conversion_datetime: 2026-07-28 12:29:12.728068
+processing_time: 0.3236638
+conversion_datetime: 2026-07-28 12:51:59.337162
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

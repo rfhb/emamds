@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-12 16:11:00
+document_datetime: 2026-07-22 12:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dimethyl-fumarate-mylan.html
 document_name: dimethyl-fumarate-mylan.html
 version: success
-processing_time: 0.1638934
-conversion_datetime: 2026-06-13 19:44:00.273343
+processing_time: 0.1459901
+conversion_datetime: 2026-07-28 12:38:13.480651
 docling_version:
-  docling-serve: 1.23.0
-  docling-jobkit: 1.23.0
-  docling: 2.102.1
-  docling-core: 2.82.0
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
   docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Dimethyl fumarate Mylan
 
@@ -102,7 +102,7 @@ English (EN) (125.11 KB - PDF)
 
 [View](/en/documents/overview/dimethyl-fumarate-mylan-epar-medicine-overview_en.pdf-0)
 
-[Other languages (22)](#file-language-dropdown-53)
+[Other languages (22)](#file-language-dropdown-534)
 
 български (BG) (166.56 KB - PDF)
 
@@ -248,167 +248,168 @@ English (EN) (1007.94 KB - PDF)
 
 Dimethyl fumarate Mylan : EPAR - Product information
 
-English (EN) (511.06 KB - PDF)
+English (EN) (507.25 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/en/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-646)
+[Other languages (24)](#file-language-dropdown-445)
 
-български (BG) (722.09 KB - PDF)
+български (BG) (731.53 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/bg/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_bg.pdf)
 
-español (ES) (633.54 KB - PDF)
+español (ES) (624.82 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/es/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_es.pdf)
 
-čeština (CS) (713.36 KB - PDF)
+čeština (CS) (711.78 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/cs/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_cs.pdf)
 
-dansk (DA) (628.5 KB - PDF)
+dansk (DA) (711.46 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/da/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_da.pdf)
 
-Deutsch (DE) (664.01 KB - PDF)
+Deutsch (DE) (659.25 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/de/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_de.pdf)
 
-eesti (ET) (630.07 KB - PDF)
+eesti (ET) (606.12 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/et/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_et.pdf)
 
-ελληνικά (EL) (786.42 KB - PDF)
+ελληνικά (EL) (719.14 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/el/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_el.pdf)
 
-français (FR) (726.69 KB - PDF)
+français (FR) (755.89 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/fr/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_fr.pdf)
 
-hrvatski (HR) (695.43 KB - PDF)
+hrvatski (HR) (689.72 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/hr/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_hr.pdf)
 
-italiano (IT) (666.99 KB - PDF)
+italiano (IT) (613.3 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/it/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_it.pdf)
 
-latviešu (LV) (728.83 KB - PDF)
+latviešu (LV) (720.61 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/lv/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_lv.pdf)
 
-lietuvių (LT) (728.38 KB - PDF)
+lietuvių (LT) (531.67 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/lt/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_lt.pdf)
 
-magyar (HU) (784.46 KB - PDF)
+magyar (HU) (814.33 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/hu/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_hu.pdf)
 
-Malti (MT) (722.39 KB - PDF)
+Malti (MT) (783.04 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/mt/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_mt.pdf)
 
-Nederlands (NL) (646.59 KB - PDF)
+Nederlands (NL) (631.36 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/nl/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_nl.pdf)
 
-polski (PL) (754.2 KB - PDF)
+polski (PL) (680.05 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/pl/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_pl.pdf)
 
-português (PT) (649.9 KB - PDF)
+português (PT) (621.59 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/pt/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_pt.pdf)
 
-română (RO) (786.77 KB - PDF)
+română (RO) (706.38 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/ro/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_ro.pdf)
 
-slovenčina (SK) (742.27 KB - PDF)
+slovenčina (SK) (720.58 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/sk/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_sk.pdf)
 
-slovenščina (SL) (715.01 KB - PDF)
+slovenščina (SL) (722.21 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/sl/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_sl.pdf)
 
-suomi (FI) (631.78 KB - PDF)
+suomi (FI) (606.41 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/fi/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_fi.pdf)
 
-svenska (SV) (694.54 KB - PDF)
+svenska (SV) (664.12 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/sv/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_sv.pdf)
 
-Íslenska (IS) (654.4 KB - PDF)
+Íslenska (IS) (613.39 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/is/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_is.pdf)
 
-norsk (NO) (546.59 KB - PDF)
+norsk (NO) (590 KB - PDF)
 
-**First published:** 11/07/2024 **Last updated:** 12/06/2026
+**First published:** 11/07/2024 **Last updated:** 22/07/2026
 
 [View](/no/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000326802
+**Latest procedure affecting product information:** N/0000362350
 
-08/06/2026
+21/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -426,7 +427,7 @@ English (EN) (55.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dimethyl-fumarate-mylan-epar-all-authorised-presenations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-606)
+[Other languages (24)](#file-language-dropdown-492)
 
 български (BG) (59.7 KB - PDF)
 
@@ -574,25 +575,16 @@ norsk (NO) (52.92 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Dimethyl fumarate Mylan
-
-Active substance
-
-dimethyl fumarate
-
-International non-proprietary name (INN) or common name
-
-dimethyl fumarate
-
-Therapeutic area (MeSH)
-
-Multiple Sclerosis
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AX07
+- **Name of medicine**
+    - Dimethyl fumarate Mylan
+- **Active substance**
+    - dimethyl fumarate
+- **International non-proprietary name (INN) or common name**
+    - dimethyl fumarate
+- **Therapeutic area (MeSH)**
+    - Multiple Sclerosis
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AX07
 
 ### Pharmacotherapeutic group
 
@@ -604,31 +596,18 @@ Dimethyl fumarate Mylan is indicated for the treatment of adult and paediatric p
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006397
-
-Generic
-
-This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
-
-Marketing authorisation holder
-
-Mylan Pharmaceuticals Limited
-
-Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
-
-Opinion adopted
-
-21/03/2024
-
-Marketing authorisation issued
-
-22/04/2024
-
-Revision
-
-4
+- **EMA product number**
+    - EMEA/H/C/006397
+- **Generic**
+    - This is a generic medicine, which is developed to be the same as a medicine that has already been authorised, called the reference medicine. A generic medicine contains the same active substance(s) as the reference medicine, and is used at the same dose(s) to treat the same disease(s). For more information, see [Generic and hybrid medicines](/node/69107) .
+- **Marketing authorisation holder**
+    - Mylan Pharmaceuticals Limited Damastown Industrial Park,  Mulhuddart, Dublin 15,  DUBLIN  Ireland
+- **Opinion adopted**
+    - 21/03/2024
+- **Marketing authorisation issued**
+    - 22/04/2024
+- **Revision**
+    - 5
 
 ## Assessment history
 
@@ -640,9 +619,9 @@ Collapse section
 
 Dimethyl fumarate Mylan : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (143.83 KB - PDF)
+English (EN) (145.16 KB - PDF)
 
-**First published:** 12/05/2025 **Last updated:** 12/06/2026
+**First published:** 12/05/2025 **Last updated:** 22/07/2026
 
 [View](/en/documents/procedural-steps-after/dimethyl-fumarate-mylan-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -694,7 +673,7 @@ English (EN) (196.83 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/dimethyl-fumarate-mylan-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-295)
+[Other languages (24)](#file-language-dropdown-864)
 
 български (BG) (249.3 KB - DOCX)
 
@@ -842,6 +821,6 @@ norsk (NO) (227.4 KB - DOCX)
 
 **This page was last updated on**
 
-12/06/2026
+22/07/2026
 
 ## Share this page

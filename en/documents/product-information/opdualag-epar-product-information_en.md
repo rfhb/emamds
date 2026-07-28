@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-27 12:26:15
+document_datetime: 2026-07-21 14:27:04
 document_pages: 41
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/opdualag-epar-product-information_en.pdf
 document_name: opdualag-epar-product-information_en.pdf
 version: success
-processing_time: 17.580311
-conversion_datetime: 2026-05-29 20:30:07.959937
+processing_time: 17.4812306
+conversion_datetime: 2026-07-28 13:46:16.513513
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.96.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -225,7 +225,7 @@ For symptomatic diabetes, Opdualag should be withheld, and insulin replacement s
 
 Severe rash has been observed with nivolumab in combination with relatlimab (see section 4.8). Opdualag should be withheld for Grade 3 rash and discontinued for Grade 4 rash. Severe rash should be managed with high-dose corticosteroid at a dose of 1 to 2 mg/kg/day methylprednisolone equivalents.
 
-Rare cases of SJS and TEN, some of them with fatal outcome, have been observed with nivolumab monotherapy and could potentially occur with nivolumab in combination with relatlimab. If symptoms or signs of SJS or TEN are suspected, Opdualag should be withheld and the patient referred to a specialised unit for assessment and treatment. If the patient has confirmed SJS or TEN with the use of Opdualag, permanent discontinuation of treatment is recommended (see section 4.2).
+Cases of SJS and TEN, some of them with fatal outcome, have been reported with Opdualag (see section 4.8). If symptoms or signs of SJS or TEN are suspected, Opdualag should be withheld and the patient referred to a specialised unit for assessment and treatment. If the patient has confirmed SJS or TEN with the use of Opdualag, permanent discontinuation of treatment is recommended (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -378,7 +378,7 @@ Table 2: Adverse reactions in clinical studies
 |------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Very common                                          | rash, vitiligo, pruritus                                                                                                                                                                                                                               |
 | Common                                               | alopecia, lichenoid keratosis, psoriasis, urticaria, photosensitivity reaction, dry skin                                                                                                                                                               |
-| Uncommon                                             | pemphigoid                                                                                                                                                                                                                                             |
+| Uncommon                                             | toxic epidermal necrolysis, Stevens-Johnson syndrome, pemphigoid                                                                                                                                                                                       |
 | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                        |
 | Very common                                          | musculoskeletal pain, arthralgia                                                                                                                                                                                                                       |
 | Common                                               | arthritis, muscle spasms, muscular weakness                                                                                                                                                                                                            |
@@ -530,23 +530,25 @@ Number of subjects at risk
 | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              | Nivolumab              |
 | 212                    | 98                     | 71                     | 57                     | 41                     | 34                     | 27                     | 24                     | 22                     | 20                     | 14                     | 8                      | 2                      | 0                      |
 
-----  ---- Nivolumab/relatlimab (events: 124/209)
+---- ----Nivolumab/relatlimab (events: 124/209) - - - - - -Nivolumab (events: 155/212)
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 2: Kaplan-Meier curves of OS in patients with PD-L1 &lt; 1% tumour cell expression (CA224047) - median follow up 29.5 months
+
+----
+
+
+
+----
+
+Nivolumab/relatlimab (events: 119/209) Nivolumab (events: 142/212)
 
 - - -
 
 
 
-- - -
-
-Nivolumab (events: 155/212)
-
-0
-
-0
-
-<div style=\"page-break-after: always\"></div>
-
-Figure 2: Kaplan-Meier curves of OS in patients with PD-L1 &lt; 1% tumour cell expression (CA224047) - median follow up 29.5 months
+- -
 
 <!-- image -->
 
@@ -635,9 +637,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-## Unopened vial
-
-3 years
+Unopened vial 3 years
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1042,7 +1042,7 @@ Talk to your doctor before you get Opdualag as it may cause:
 -  Inflammation of or problems with your kidneys. Signs and symptoms may include abnormal kidney function tests, or decrease in amount of urine.
 -  Problems with your hormone producing glands (including the pituitary, thyroid and adrenal glands), which may affect how these glands work. Signs and symptoms that these glands are not working properly may include fatigue (extreme tiredness), weight change or headache and visual disturbances.
 -  Diabetes including a serious, sometimes life-threatening problem due to acid in the blood produced from diabetes (diabetic ketoacidosis). Symptoms may include feeling more hungry or thirsty than usual, need to urinate more often, weight loss, feeling tired or having difficulty thinking clearly, breath that smells sweet or fruity, a sweet or metallic taste in your mouth, or a different odour to your urine or sweat, feeling sick or being sick, stomach pain, and deep or fast breathing.
--  Inflammation of the skin that can lead to severe skin reaction (known as toxic epidermal necrolysis and Stevens-Johnson syndrome). Signs and symptoms of severe skin reaction may include rash, itching, and peeling of the skin (possibly fatal).
+-  Inflammation of the skin that can lead to severe and possibly fatal skin reaction (known as toxic epidermal necrolysis and Stevens-Johnson syndrome). Signs and symptoms of severe skin reaction may include rash, itching, and peeling of the skin.
 -  Inflammation of the heart muscle (myocarditis). Signs and symptoms may include chest pain, irregular and/or rapid heartbeat, fatigue, swelling in the ankles or shortness of breath.
 -  Myocarditis-Myositis-Myasthenia Gravis Overlap Syndrome: an overlap of either two or three conditions including inflammation of the heart muscle (myocarditis) that may cause chest pain, shortness of breath, irregular and/or rapid heartbeat, inflammation of the muscles (myositis) that may cause muscle pain, and a condition in which muscles become weak and tire easily (myasthenia gravis).
 -  Haemophagocytic lymphohistiocytosis. A rare disease in which your immune system makes too many otherwise normal infection-fighting cells called histiocytes and lymphocytes. Symptoms may include enlarged liver and/or spleen, skin rash, swollen lymph glands, breathing problems, easy bruising, kidney abnormalities, and heart problems.
@@ -1201,16 +1201,17 @@ Changes in the results of tests carried out by your doctor may show:
 -  asthma
 -  inflammation of the oesophagus (passage between throat and stomach)
 -  inflammation of the bile duct
+-  inflammation of the skin that can lead to severe and possibly fatal skin reaction causing rash, itching, and peeling of the skin (toxic epidermal necrolysis and Stevens-Johnson syndrome)
 -  skin rashes and blistering on the legs, arms, and abdomen (pemphigoid)
 -  inflammation of the muscles causing weakness, swelling, and pain, disease in which the immune system attacks the glands that make moisture for the body, such as tears and saliva (Sjogren's syndrome), inflammation of muscles causing pain or stiffness, inflammation of the joints (painful joint disease), disease in which the immune system attacks its own tissues, causing widespread inflammation and tissue damage in the affected organs, such as joints, skin, brain, lungs, kidneys, and blood vessels (systemic lupus erythematosus)
 -  inflammation of the kidney
 -  absence of sperm in the semen
 
+<div style=\"page-break-after: always\"></div>
+
 Changes in the results of tests carried out by your doctor may show:
 
 -  red blood cell sedimentation rate increased.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Rare (may affect up to 1 in 1,000 people)
 
@@ -1235,7 +1236,7 @@ Do not use this medicine after the expiry date which is stated on the carton and
 
 Store in a refrigerator (2 °C - 8 °C).
 
-Do not freeze.
+## Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
@@ -1247,11 +1248,9 @@ Do not store any unused portion of the infusion solution for reuse. Any unused m
 
 ## What Opdualag contains
 
--  The active substances are nivolumab and relatlimab.
+- 
 
-Each mL of concentrate for solution for infusion contains 12 mg of nivolumab and 4 mg of relatlimab.
-
-One vial of 20 mL concentrate contains 240 mg nivolumab and 80 mg relatlimab.
+The active substances are nivolumab and relatlimab. Each mL of concentrate for solution for infusion contains 12 mg of nivolumab and 4 mg of relatlimab. One vial of 20 mL concentrate contains 240 mg nivolumab and 80 mg relatlimab.
 
 -  The other ingredients are histidine, histidine hydrochloride monohydrate, sucrose, pentetic acid, polysorbate 80 (E433) and water for injections.
 

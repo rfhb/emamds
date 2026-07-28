@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-12 15:10:50
+document_datetime: 2026-07-22 09:58:44
 document_pages: 49
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/dimethyl-fumarate-mylan-epar-product-information_en.pdf
 document_name: dimethyl-fumarate-mylan-epar-product-information_en.pdf
 version: success
-processing_time: 18.0652008
-conversion_datetime: 2026-06-13 20:21:18.119313
+processing_time: 21.9541184
+conversion_datetime: 2026-07-28 13:59:01.586107
 docling_version:
-  docling-serve: 1.23.0
-  docling-jobkit: 1.23.0
-  docling: 2.102.1
-  docling-core: 2.82.0
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
   docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -978,6 +978,8 @@ Lot
 
 Oral use
 
+33
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -1032,7 +1034,9 @@ Mylan Pharmaceuticals Limited Damastown Industrial Park Mulhuddart Dublin 15 DUB
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/24/1814/003 EU/1/24/1814/004
+EU/1/24/1814/003
+
+EU/1/24/1814/004
 
 ## 13. BATCH NUMBER
 
@@ -1209,7 +1213,7 @@ Lot
 
 Dimethyl fumarate Mylan 240 mg
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1548,9 +1552,9 @@ The other ingredients are microcrystalline cellulose, croscarmellose sodium (see
 
 ## What Dimethyl fumarate Mylan looks like and contents of the pack
 
-Dimethyl fumarate Mylan 120 mg gastro-resistant hard capsules are blue-green and white gastroresistant hard capsules, printed with ' MYLAN ' over 'DF 120' containing white to off -white enteric-coated pellets and are available in blister packs containing 14 gastro-resistant hard capsules, unit dose blister packs containing 14 gastro-resistant hard capsules and plastic bottles containing 14 or 60 gastro-resistant hard capsules.
+Dimethyl fumarate Mylan 120 mg gastro-resistant hard capsules (gastro-resistant capsules) are bluegreen and white gastroresistant hard capsules, printed with ' MYLAN ' over 'DF 120' containing white to off-white enteric-coated pellets and are available in blister packs containing 14 gastro-resistant hard capsules, unit dose blister packs containing 14 gastro-resistant hard capsules and plastic bottles containing 14 or 60 gastro-resistant hard capsules.
 
-Dimethyl fumarate Mylan 240 mg gastro-resistant hard capsules are blue-green gastro-resistant hard capsules, printed with ' MYLAN ' over 'DF 240' containing white to off -white enteric-coated pellets and are available in blister packs containing 56 or 168 gastro-resistant hard capsules, unit dose blister packs containing 56 or 168 gastro-resistant hard capsules and plastic bottles containing 56 or 168 gastro-resistant hard capsules.
+Dimethyl fumarate Mylan 240 mg gastro-resistant hard capsules (gastro-resistant capsules) are bluegreen gastroresistant hard capsules, printed with ' MYLAN ' over 'DF 240' containing white to off -white enteric-coated pellets and are available in blister packs containing 56 or 168 gastro-resistant hard capsules, unit dose blister packs containing 56 or 168 gastro-resistant hard capsules and plastic bottles containing 56 or 168 gastro-resistant hard capsules.
 
 Not all pack sizes may be marketed.
 

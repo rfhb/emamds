@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-02 16:28:37
+document_datetime: 2026-07-20 16:04:38
 document_pages: 110
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/retacrit-epar-product-information_en.pdf
 document_name: retacrit-epar-product-information_en.pdf
 version: success
-processing_time: 28.8531446
-conversion_datetime: 2026-03-05 11:53:02.658158
+processing_time: 52.5733598
+conversion_datetime: 2026-07-28 13:44:20.042635
 docling_version:
-  docling-serve: 1.14.1
-  docling-jobkit: 1.13.0
-  docling: 2.76.0
-  docling-core: 2.66.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.4.2
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -128,7 +128,7 @@ All other causes of anaemia (iron, folate or Vitamin B12 deficiency, aluminium i
 
 ## Treatment of symptomatic anaemia in adult chronic renal failure patients
 
-Anaemia symptoms and sequelae may vary with age, gender and co-morbid medical conditions; a physician ' s evaluation of the individual patient ' s clinical course and condition is necessary.
+Anaemia symptoms and sequelae may vary with age, gender and co-morbid medical conditions; a physician's evaluation of the individual patient's clinical course and condition is necessary.
 
 The recommended desired haemoglobin concentration range is between 10 g/dL to 12 g/dL (6.2 to 7.5 mmol/L). Retacrit should be administered in order to increase haemoglobin to not greater than 12 g/dL (7.5 mmol/L). A rise in haemoglobin of greater than 2 g/dL (1.25 mmol/L) over a four week period should be avoided. If it occurs, appropriate dose adjustment should be made as provided.
 
@@ -140,7 +140,7 @@ Patients should be monitored closely to ensure that the lowest approved effectiv
 
 Caution should be exercised with escalation of erythropoiesis-stimulating agent (ESA) doses in patients with chronic renal failure. In patients with a poor haemoglobin response to ESA, alternative explanations for the poor response should be considered (see sections 4.4 and 5.1).
 
-Treatment with Retacrit is divided into two stages -correction and maintenance phase.
+Treatment with Retacrit is divided into two stages - correction and maintenance phase.
 
 ## Adult haemodialysis patients
 
@@ -272,7 +272,7 @@ In paediatric patients the recommended haemoglobin concentration range is betwee
 
 Patients should be monitored closely to ensure that the lowest approved dose of Retacrit is used to provide adequate control of anaemia and of the symptoms of anaemia.
 
-Treatment with Retacrit is divided into two stages -correction and maintenance phase.
+Treatment with Retacrit is divided into two stages - correction and maintenance phase.
 
 In paediatric patients on haemodialysis where intravenous access is readily available, administration by the intravenous route is preferable.
 
@@ -353,7 +353,7 @@ In paediatric patients with chronic renal failure where intravenous access is ro
 
 Administer over at least one to five minutes, depending on the total dose. In haemodialysed patients, a bolus injection may be given during the dialysis session through a suitable venous port in the dialysis line. Alternatively, the injection can be given at the end of the dialysis session via the fistula needle tubing, followed by 10 mL of isotonic saline to rinse the tubing and ensure satisfactory injection of the product into the circulation (see Posology, Adult haemodialysis patients ).
 
-A slower administration is preferable in patients who react to the treatment with 'flu -like' symptoms (see section 4.8).
+A slower administration is preferable in patients who react to the treatment with 'flu-like' symptoms (see section 4.8).
 
 Do not administer Retacrit by intravenous infusion or in conjunction with other medicinal product solutions (please refer to section 6.6 for further information).
 
@@ -385,11 +385,9 @@ Surgery patients who for any reason cannot receive adequate antithrombotic proph
 
 ## 4.4 Special warnings and precautions for use
 
-Traceability
+Traceability In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
 <div style=\"page-break-after: always\"></div>
-
-In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
 ## General
 
@@ -409,15 +407,15 @@ In all patients, haemoglobin levels should be closely monitored due to a potenti
 
 There may be a moderate dose-dependent rise in the platelet count within the normal range during treatment with epoetin zeta. This regresses during the course of continued therapy. In addition, thrombocythaemia above the normal range has been reported. It is recommended that the platelet count is regularly monitored during the first 8 weeks of therapy.
 
-All other causes of anaemia (iron, folate or Vitamin B12 deficiency, aluminium intoxication, infection or inflammation, blood loss, haemolysis and bone marrow fibrosis of any origin) should be evaluated and treated prior to initiating therapy with epoetin zeta, and when deciding to increase the dose. In most cases, the ferritin values in the serum fall simultaneously with the rise in packed cell volume. In order to ensure optimum response to epoetin zeta, adequate iron stores should be assured and iron supplementation should be administered if necessary (see section 4.2):
+All other causes of anaemia (iron, folate or Vitamin B12 deficiency, aluminium intoxication, infection or inflammation, blood loss, haemolysis and bone marrow fibrosis of any origin) should be evaluated and treated prior to initiating therapy with epoetin zeta, and when deciding to increase the dose. In most cases, the ferritin values in the serum fall simultaneously with the rise in packed cell volume. In order to ensure optimum response to epoetin zeta, adequate iron stores should be assured and iron supplementation should be administered if necessary (see section 4.2). For the selection of the best treatment option according to the patient's needs, current treatment guidelines on iron supplementation in combination with dose instructions approved and outlined in the SmPC of the iron medication should be followed:
 
-- -For chronic renal failure patients, iron supplementation (elemental iron 200 to 300 mg/day orally for adults and 100 to 200 mg/day orally for paediatrics) is recommended if serum ferritin levels are below 100 ng/mL.
-- -For cancer patients, iron supplementation (elemental iron 200 to 300 mg/day orally) is recommended if transferrin saturation is below 20%.
+- -For chronic renal failure patients, iron supplementation is recommended if serum ferritin levels are below 100 ng/mL.
+- -For cancer patients, iron supplementation is recommended if transferrin saturation is below 20%.
 
 <div style=\"page-break-after: always\"></div>
 
-- -For patients in an autologous predonation programme, iron supplementation (elemental iron 200 mg/day orally) should be administered several weeks prior to initiating the autologous predeposit in order to achieve high iron stores prior to starting epoetin zeta therapy, and throughout the course of epoetin zeta therapy.
-- -For patients scheduled for major elective orthopaedic surgery, iron supplementation (elemental iron 200 mg/day orally) should be administered throughout the course of epoetin zeta therapy. If possible, iron supplementation should be initiated prior to starting epoetin zeta therapy to achieve adequate iron stores.
+- -For patients in an autologous predonation programme, iron supplementation should be administered several weeks prior to initiating the autologous predeposit in order to achieve high iron stores prior to starting epoetin zeta therapy, and throughout the course of epoetin zeta therapy.
+- -For patients scheduled for major elective orthopaedic surgery, iron supplementation should be administered throughout the course of epoetin zeta therapy. If possible, iron supplementation should be initiated prior to starting epoetin zeta therapy to achieve adequate iron stores.
 
 Very rarely, development of or exacerbation of porphyria has been observed in epoetin zeta-treated patients. Epoetin zeta should be used with caution in patients with porphyria.
 
@@ -439,17 +437,15 @@ A paradoxical decrease in haemoglobin and development of severe anaemia associat
 
 No other ESA therapy should be commenced because of the risk of cross-reaction.
 
-Treatment of symptomatic anaemia in adult and paediatric chronic renal failure patients
+## Treatment of symptomatic anaemia in adult and paediatric chronic renal failure patients
 
 Chronic renal failure patients being treated with epoetin zeta should have haemoglobin levels measured on a regular basis until a stable level is achieved, and periodically thereafter.
 
 In chronic renal failure patients the rate of increase in haemoglobin should be approximately 1 g/dL (0.62 mmol/L) per month and should not exceed 2 g/dL (1.25 mmol/L) per month to minimise risks of an increase in hypertension.
 
-In patients with chronic renal failure, maintenance haemoglobin concentration should not exceed the upper limit of the haemoglobin concentration range as recommended in section 4.2. In clinical trials,
+In patients with chronic renal failure, maintenance haemoglobin concentration should not exceed the upper limit of the haemoglobin concentration range as recommended in section 4.2. In clinical trials, an increased risk of death and serious cardiovascular events was observed when ESAs were administered to achieve a haemoglobin concentration level of greater than 12 g/dL (7.5 mmol/L).
 
 <div style=\"page-break-after: always\"></div>
-
-an increased risk of death and serious cardiovascular events was observed when ESAs were administered to achieve a haemoglobin concentration level of greater than 12 g/dL (7.5 mmol/L).
 
 Controlled clinical trials have not shown significant benefits attributable to the administration of epoetins when haemoglobin concentration is increased beyond the level necessary to control symptoms of anaemia and to avoid blood transfusion.
 
@@ -503,7 +499,7 @@ This medicinal product contains phenylalanine which may be harmful for people wi
 
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
 
 ## Polysorbate 20
 
@@ -679,11 +675,9 @@ In a double-blind, placebo-controlled, multicentre, quality of life study in CRF
 
 In clinical trials conducted in patients with CRF not on dialysis treated with epoetin alfa, the average duration of therapy was nearly five months. These patients responded to epoetin alfa therapy in a manner similar to that observed in patients on dialysis. Patients with CRF not on dialysis demonstrated a dose-dependent and sustained increase in haematocrit when epoetin alfa was administered by either an intravenous or subcutaneous route. Similar rates of rise of haematocrit were noted when epoetin alfa was administered by either route. Moreover, epoetin alfa doses of 75 to 150 IU/kg per week have been shown to maintain haematocrits of 36 to 38% for up to six months.
 
-In 2 studies with extended interval dosing of epoetin alfa (3 times per week, once weekly, once every 2 weeks, and once every 4 weeks) some patients with longer dosing intervals did not maintain
+In 2 studies with extended interval dosing of epoetin alfa (3 times per week, once weekly, once every 2 weeks, and once every 4 weeks) some patients with longer dosing intervals did not maintain adequate haemoglobin levels and reached protocol-defined haemoglobin withdrawal criteria (0% in once weekly, 3.7% in once-every-2-weeks, and 3.3% in the once-every-4-weeks groups).
 
 <div style=\"page-break-after: always\"></div>
-
-adequate haemoglobin levels and reached protocol-defined haemoglobin withdrawal criteria (0% in once weekly, 3.7% in once-every-2-weeks, and 3.3% in the once-every-4-weeks groups).
 
 A randomised prospective trial (CHOIR) evaluated 1,432 anaemic chronic renal failure patients who were not undergoing dialysis. Patients were assigned to epoetin alfa treatment targeting a maintenance haemoglobin level of 13.5 g/dL (higher than the recommended haemoglobin concentration level) or 11.3 g/dL. A major cardiovascular event (death, myocardial infarction, stroke or hospitalisation for congestive heart failure) occurred among 125 (18%) of the 715 patients in the higher haemoglobin group compared to 97 (14%) among the 717 patients in the lower haemoglobin group (hazard ratio [HR] 1.3, 95% CI: 1.0, 1.7, p = 0.03).
 
@@ -757,11 +751,9 @@ Subjects were stratified by serum erythropoietin (sEPO) level and prior transfus
 
 Erythroid response was defined according to International Working Group (IWG) 2006 criteria as a haemoglobin increase ≥1.5 g/d l from baseline or a reduction of RBC units transfused by an absolute number of at least 4 units every 8 weeks compared to the 8 weeks prior to baseline, and a response duration of at least 8 weeks.
 
-Erythroid response during the first 24 weeks of the study was demonstrated by 27/85 (31.8%) of the subjects in the epoetin alfa group compared to 2/45 (4.4%) of the subjects in the placebo group (p&lt;0.001). All of the responding subjects were in the stratum with sEPO &lt;200 mU/mL during screening. In that stratum, 20/40 (50%) subjects without prior transfusions demonstrated erythroid
+Erythroid response during the first 24 weeks of the study was demonstrated by 27/85 (31.8%) of the subjects in the epoetin alfa group compared to 2/45 (4.4%) of the subjects in the placebo group (p&lt;0.001). All of the responding subjects were in the stratum with sEPO &lt;200 mU/mL during screening. In that stratum, 20/40 (50%) subjects without prior transfusions demonstrated erythroid response during the first 24 weeks, compared with 7/31 (22.6%) subjects with prior transfusions (two subjects with prior transfusion reached primary endpoint based on reduction of RBC units transfused by an absolute number of at least 4 units every 8 weeks compared to the 8 weeks prior to baseline).
 
 <div style=\"page-break-after: always\"></div>
-
-response during the first 24 weeks, compared with 7/31 (22.6%) subjects with prior transfusions (two subjects with prior transfusion reached primary endpoint based on reduction of RBC units transfused by an absolute number of at least 4 units every 8 weeks compared to the 8 weeks prior to baseline).
 
 Median time from baseline to first transfusion was statistically significantly longer in the epoetin alfa group compared to placebo (49 vs. 37 days; p=0.046). After 4 weeks of treatment the time to first transfusion was further increased in the epoetin alfa group (142 vs. 50 days, p=0.007). The percentage of subjects who were transfused in the epoetin alfa group decreased from 51.8% in the 8 weeks prior to baseline to 24.7% between weeks 16 and 24, compared to the placebo group which had an increase in transfusion rate from 48.9% to 54.1% over the same time periods.
 
@@ -1130,7 +1122,7 @@ Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1154,7 +1146,7 @@ EU/1/07/431/055
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1170,23 +1162,23 @@ Retacrit 1 000 IU
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Retacrit 1 000 IU injection epoetin zeta IV/SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1198,8 +1190,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 000 IU/0.3 mL
 
@@ -1263,7 +1255,7 @@ Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1303,24 +1295,25 @@ Retacrit 2 000 IU
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+1.
+
+NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Retacrit 2 000 IU injection epoetin zeta IV/SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1332,8 +1325,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 2 000 IU/0.6 mL
 
@@ -1437,23 +1430,25 @@ Retacrit 3 000 IU
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Retacrit 3 000 IU injection epoetin zeta IV/SC
+Retacrit 3 000 IU injection epoetin zeta
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+IV/SC
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1465,8 +1460,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 3 000 IU/0.9 mL
 
@@ -1570,16 +1565,16 @@ Retacrit 4 000 IU
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1587,8 +1582,8 @@ Retacrit 4 000 IU injection epoetin zeta
 
 IV/SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1600,8 +1595,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 4 000 IU/0.4 mL
 
@@ -1653,8 +1648,6 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
 EXP
@@ -1697,31 +1690,31 @@ Lot
 
 Retacrit 5 000 IU
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Retacrit 5 000 IU injection epoetin zeta
+Retacrit 5 000 IU injection epoetin zeta IV/SC
 
-IV/SC
-
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1733,8 +1726,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 5 000 IU/0.5 mL
 
@@ -1836,23 +1829,23 @@ Retacrit 6 000 IU
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Retacrit 6 000 IU injection epoetin zeta IV/SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1864,8 +1857,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 6 000 IU/0.6 mL
 
@@ -1967,23 +1960,23 @@ Retacrit 8 000 IU
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Retacrit 8 000 IU injection epoetin zeta IV/SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1995,8 +1988,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 8 000 IU/0.8 mL
 
@@ -2048,8 +2041,6 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. EXPIRY DATE
 
 EXP
@@ -2092,29 +2083,31 @@ Lot
 
 Retacrit 10 000 IU
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
-1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Retacrit 10 000 IU injection epoetin zeta IV/SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2126,8 +2119,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 10 000 IU/1 mL
 
@@ -2186,9 +2179,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator (2°C - 8°C). Do not freeze.
-
-Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2235,8 +2226,8 @@ Retacrit 20 000 IU
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2266,7 +2257,9 @@ Contains phenylalanine, see leaflet for further information.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For intravenous or subcutaneous use. Read the package leaflet before use. Do not shake.
+For intravenous or subcutaneous use.
+
+Read the package leaflet before use. Do not shake.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN
 
@@ -2284,7 +2277,7 @@ Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2298,11 +2291,11 @@ EU/1/07/431/051
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Retacrit 20 000 IU
 
@@ -2344,11 +2337,7 @@ Multipack: 6 (6 x 1) pre-filled syringes.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For intravenous or subcutaneous use.
-
-Read the package leaflet before use.
-
-Do not shake.
+For intravenous or subcutaneous use. Read the package leaflet before use. Do not shake.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN
 
@@ -2378,7 +2367,7 @@ EU/1/07/431/051
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2400,19 +2389,18 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Retacrit 20 000 IU injection epoetin zeta
 
 IV/SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2424,8 +2412,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 20 000 IU/0.5 mL
 
@@ -2533,8 +2521,8 @@ Retacrit 30 000 IU
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2564,7 +2552,9 @@ Contains phenylalanine, see leaflet for further information.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For intravenous or subcutaneous use. Read the package leaflet before use. Do not shake.
+For intravenous or subcutaneous use.
+
+Read the package leaflet before use. Do not shake.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN
 
@@ -2578,7 +2568,9 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C). Do not freeze.
+
+Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2594,7 +2586,7 @@ EU/1/07/431/052
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2640,11 +2632,7 @@ Multipack: 4 (4 x 1) pre-filled syringes.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For intravenous or subcutaneous use.
-
-Read the package leaflet before use.
-
-Do not shake.
+For intravenous or subcutaneous use. Read the package leaflet before use. Do not shake.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN
 
@@ -2674,7 +2662,7 @@ EU/1/07/431/052
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2696,34 +2684,27 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS SYRINGE LABELS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Retacrit 30 000 IU injection epoetin zeta IV/SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 30 000 IU/0.75 mL
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2779,7 +2760,9 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C). Do not freeze.
+
+Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2826,8 +2809,8 @@ Retacrit 40 000 IU
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -2871,9 +2854,11 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C). Do not freeze.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+Keep the pre-filled syringe in the outer carton in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2887,7 +2872,7 @@ EU/1/07/431/053
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2933,11 +2918,7 @@ Multipack: 4 (4 x 1) pre-filled syringes.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-For intravenous or subcutaneous use.
-
-Read the package leaflet before use.
-
-Do not shake.
+For intravenous or subcutaneous use. Read the package leaflet before use. Do not shake.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN
 
@@ -2967,7 +2948,7 @@ EU/1/07/431/053
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2989,17 +2970,16 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Retacrit 40 000 IU injection epoetin zeta IV/SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3011,8 +2991,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 40 000 IU/1 mL
 
@@ -3049,7 +3029,7 @@ Retacrit 1 000 IU/0.3 mL solution for injection in pre-filled syringe Retacrit 2
 
 ## 1. What Retacrit is and what it is used for
 
-Retacrit contains the active substance epoetin zeta -a protein that stimulates the bone marrow to produce more red blood cells which carry haemoglobin (a substance that transports oxygen). Epoetin zeta is a copy of the human protein erythropoietin (ee-rith-roe-po-eh-tin) and acts in the same way.
+Retacrit contains the active substance epoetin zeta - a protein that stimulates the bone marrow to produce more red blood cells which carry haemoglobin (a substance that transports oxygen). Epoetin zeta is a copy of the human protein erythropoietin (ee-rith-roe-po-eh-tin) and acts in the same way.
 
 ## · Retacrit is used to treat symptomatic anaemia caused by kidney disease
 
@@ -3079,7 +3059,7 @@ If you have kidney disease, you may be short of red blood cells if your kidney d
 - have severe heart disease
 - have severe disorders of the veins and arteries
 - have recently had a heart attack or stroke
-- can't take medicines t o thin the blood
+- can't take medicines to thin the blood
 
 Retacrit may not be suitable for you. Please discuss with your doctor. While on Retacrit, some people need medicines to reduce the risk of blood clots. If you can't take medicines that prevent blood clotting, you must not have Retacrit .
 
@@ -3149,7 +3129,7 @@ Phenylalanine may be harmful if you have phenylketonuria, a rare genetic disorde
 
 ## Retacrit contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
 
 ## Retacrit contains polysorbate 20
 
@@ -3232,7 +3212,7 @@ When treatment starts, Retacrit is usually injected by medical professional or a
 
 - Do not attempt to inject yourself unless you have been trained to do so by your doctor or nurse.
 - Always use Retacrit exactly as instructed by your doctor or nurse.
-- Only use Retacrit if it has been stored correctly -see section 5, How to Store Retacrit .
+- Only use Retacrit if it has been stored correctly - see section 5, How to Store Retacrit .
 - Before use, leave the Retacrit syringe to stand until it reaches room temperature. This usually takes between 15 and 30 minutes.
 
 ## Only take one dose of Retacrit from each syringe.
@@ -3241,7 +3221,7 @@ If Retacrit is injected under the skin (subcutaneously), the amount injected is 
 
 Retacrit is given alone and not mixed with other liquids for injection.
 
-Do not shake Retacrit syringes. Prolonged vigorous shaking may damage the product. If the product has been shaken vigorously, don' t use it.
+Do not shake Retacrit syringes. Prolonged vigorous shaking may damage the product. If the product has been shaken vigorously, don't use it.
 
 ## How to inject yourself subcutaneously using a pre-filled syringe
 
@@ -3272,7 +3252,7 @@ In all cases above discard the pre-filled syringe and use a new pre-filled syrin
 - o Do not remove the needle cover from the pre-filled syringe until you are ready to inject your medicine.
 - Take the needle cover off the syringe by holding the barrel and pulling the needle cover straight off and away from your body carefully without twisting it. Throw away the needle cover. Do not recap the needle. Do not push the plunger, touch the needle or shake the syringe.
 - Pinch a fold of skin between your thumb and index finger. Do not squeeze it.
-- With your other hand, hold the pre-filled syringe like you would hold a pencil. Use a quick 'dart -like' motion to insert the needle at an approximate 45 degree angle into the skin .
+- With your other hand, hold the pre-filled syringe like you would hold a pencil. Use a quick 'dart-like' motion to insert the needle at an approximate 45 degree angle into the skin.
 
 <!-- image -->
 
@@ -3334,7 +3314,7 @@ In all cases above discard the pre-filled syringe and use a new pre-filled syrin
 
 <div style=\"page-break-after: always\"></div>
 
-- With your other hand, hold the pre-filled syringe like you would hold a pencil. Use a quick 'dart -like' motion to insert the needle at an approximate 45 degree angle into the skin .
+- With your other hand, hold the pre-filled syringe like you would hold a pencil. Use a quick 'dart-like' motion to insert the needle at an approximate 45 degree angle into the skin.
 - Push the needle in fully. Your doctor or nurse may have shown you how to do this.
 - Depress the plunger while grasping the finger flange until the entire dose has been given. The needle guard will NOT activate unless the ENTIRE dose has been given.
 - When the plunger is pushed as far as it will go, take out the needle and let go of the skin.
@@ -3351,9 +3331,9 @@ In all cases above discard the pre-filled syringe and use a new pre-filled syrin
 
 ## How to inject yourself subcutaneously using a pre-filled syringe with a needle trap
 
-Your syringe has a needle-trap attached to it which is designed to specifically help prevent accidental needle stick injuries following the proper administration of injectable medicines. It consists of a plastic needle 'catcher' which is firmly attac hed to the syringe label. Together, these two components comprise the needle-trap (safety) feature.
+Your syringe has a needle-trap attached to it which is designed to specifically help prevent accidental needle stick injuries following the proper administration of injectable medicines. It consists of a plastic needle 'catcher' which is firmly attached to the syringe label. Together, these two components comprise the needle-trap (safety) feature.
 
-The needletrap requires specific actions by the user to 'activate' it, wh ich will render the needle harmless after the injection is administered.
+The needle-trap requires specific actions by the user to 'activate' it, which will render the needle harmless after the injection is administered.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3390,7 +3370,7 @@ In all cases above discard the pre-filled syringe and use a new pre-filled syrin
 - o Do not remove the needle cover from the pre-filled syringe until you are ready to inject your medicine.
 - Take the needle cover off the syringe by holding the barrel and pulling the needle cover straight off and away from your body carefully without twisting it. Throw away the needle cover. Do not recap the needle. Do not push the plunger, touch the needle or shake the syringe.
 - Pinch a fold of skin between your thumb and index finger. Do not squeeze it.
-- With your other hand, hold the pre-filled syringe like you would hold a pencil. Use a quick 'dart -like' motion to insert the needle at an approximate 45 degree angle into the skin .
+- With your other hand, hold the pre-filled syringe like you would hold a pencil. Use a quick 'dart-like' motion to insert the needle at an approximate 45 degree angle into the skin.
 - Push the needle in fully. Your doctor or nurse may have shown you how to do this.
 - Push the plunger with your thumb as far as it will go to inject the entire amount of liquid. Push it slowly and evenly, keeping the skin fold pinched.
 - When the plunger is pushed as far as it will go, take out the needle and let go of the skin.
@@ -3561,17 +3541,15 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 1 pre-filled syringe with 1 mL solution for injection contains 40 000 international units (IU) epoetin zeta (recombinant human erythropoietin). The solution contains 40 000 IU epoetin zeta per mL.
 
-The other ingredients are disodium phosphate dihydrate, sodium dihydrogen phosphate dihydrate, sodium chloride (see section 2 ' Retacrit contains sodium ' ), calcium chloride dihydrate, polysorbate 20 (E432) (see section 2 'Retacrit contains polysorbate 20') , glycine, leucine, isoleucine, threonine,
+The other ingredients are disodium phosphate dihydrate, sodium dihydrogen phosphate dihydrate, sodium chloride (see section 2 'Retacrit contains sodium'), calcium chloride dihydrate, polysorbate 20 (E432) (see section 2 'Retacrit contains polysorbate 20'), glycine, leucine, isoleucine, threonine, glutamic acid, phenylalanine (see section 2 'Retacrit contains phenylalanine'), water for injections, sodium hydroxide (pH adjuster), hydrochloric acid (pH adjuster).
 
 <div style=\"page-break-after: always\"></div>
-
-glutamic acid, phenylalanine (see section 2 ' Retacrit contains phenylalanine ' ), water for injections, sodium hydroxide (pH adjuster), hydrochloric acid (pH adjuster).
 
 ## What Retacrit looks like and contents of the pack
 
 Retacrit is presented as a clear and colourless solution for injection in a pre-filled syringe with a fixed injection needle.
 
-The pre-filled syringes contain between 0.3 and 1 mL solution, depending on the content of epoetin zeta (see ' What Retacrit contains ').
+The pre-filled syringes contain between 0.3 and 1 mL solution, depending on the content of epoetin zeta (see 'What Retacrit contains').
 
 One pack contains 1, 4 or 6 pre-filled syringes with or without a needle guard or needle-trap device. Multipacks contain 4 (4 x 1) or 6 (6 x 1) pre-filled syringes.
 

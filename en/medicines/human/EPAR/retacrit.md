@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/retacrit.html
 document_name: retacrit.html
 version: success
-processing_time: 0.1559602
-conversion_datetime: 2026-07-28 12:32:02.834267
+processing_time: 0.1561813
+conversion_datetime: 2026-07-28 12:54:50.297662
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

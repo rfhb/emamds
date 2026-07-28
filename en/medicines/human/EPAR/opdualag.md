@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-27 15:22:00
+document_datetime: 2026-07-21 15:32:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/opdualag.html
 document_name: opdualag.html
 version: success
-processing_time: 0.1311029
-conversion_datetime: 2026-05-29 20:15:55.192929
+processing_time: 0.1586542
+conversion_datetime: 2026-07-28 12:33:35.347094
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.96.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.28.0
+  docling-jobkit: 3.1.0
+  docling: 2.115.0
+  docling-core: 2.88.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
 ---
 # Opdualag
 
@@ -56,7 +56,7 @@ Expand section
 
 Collapse section
 
-## How is Opdualag used?
+### How is Opdualag used?
 
 Before starting treatment with Opdualag, the patient should have a test to show that their cancer cells produce low levels of PD-L1 (&lt;1%).
 
@@ -64,7 +64,7 @@ The medicine is given as an infusion into a vein over 30 minutes once every 4 we
 
 For more information about using Opdualag, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Opdualag work?
+### How does Opdualag work?
 
 The active substances in Opdualag, nivolumab and relatlimab, are monoclonal antibodies, proteins designed to attach to specific receptors (targets).
 
@@ -74,13 +74,13 @@ Relatlimab attaches to and blocks another receptor known as LAG?3. LAG-3 is invo
 
 Using nivolumab and relatlimab together is more effective at killing the cancer cells than using them alone.
 
-## What benefits of Opdualag have been shown in studies?
+### What benefits of Opdualag have been shown in studies?
 
 A main study involving 714 patients with previously untreated advanced melanoma showed that Opdualag was effective at slowing the worsening of the disease in those patients whose cancer produced a low level amount of PD-L1.
 
 Patients with low levels of PD-L1 (&lt;1%) who had Opdualag treatment lived for 6.7 months without their disease getting worse. This compares with 3 months for patients having treatment with nivolumab alone.
 
-## What are the risks associated with Opdualag?
+### What are the risks associated with Opdualag?
 
 The most common side effects with Opdualag (which may affect more than 1 in 10 people) are tiredness, pain in muscles and bones, rash, joint pain, diarrhoea, itching, headache, nausea, cough reduced appetite, hypothyroidism (an underactive thyroid gland), abdominal pain, vitiligo (white patches on the skin), fever, constipation, urinary tract infection (infection of the parts of the body that collect and pass out urine), dyspnoea (difficulty breathing), and vomiting.
 
@@ -88,11 +88,11 @@ The most common serious side effects are adrenal insufficiency (where the adrena
 
 For the full list of side effects and restrictions, see the package leaflet.
 
-## Why is Opdualag authorised in the EU?
+### Why is Opdualag authorised in the EU?
 
 The main study showed that Opdualag was effective at slowing the worsening of the disease in those patients whose cancer produces a small amount of PD-L1 (&lt;1%). Although there are more side effects with Opdualag than with nivolumab alone, the benefits in delaying worsening of the disease outweigh the risks in these patients. The European Medicines Agency therefore recommended authorising the medicine in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Opdualag?
+### What measures are being taken to ensure the safe and effective use of Opdualag?
 
 The company will provide a patient card with information on the risks of the medicine as well as instructions on when to contact their doctor if they have symptoms of immune-related side effects.
 
@@ -100,7 +100,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Opdualag are continuously monitored. Suspected side effects reported with Opdualag are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Opdualag
+### Other information about Opdualag
 
 Opdualag received a marketing authorisation valid throughout the EU on 15 September 2022.
 
@@ -114,7 +114,7 @@ English (EN) (116.34 KB - PDF)
 
 [View](/en/documents/overview/opdualag-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-81)
+[Other languages (22)](#file-language-dropdown-155)
 
 български (BG) (132.27 KB - PDF)
 
@@ -146,7 +146,7 @@ Deutsch (DE) (108.77 KB - PDF)
 
 [View](/de/documents/overview/opdualag-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (93.15 KB - PDF)
+eesti (ET) (93.15 KB - PDF)
 
 **First published:** 20/09/2022
 
@@ -176,13 +176,13 @@ italiano (IT) (105.29 KB - PDF)
 
 [View](/it/documents/overview/opdualag-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (136.64 KB - PDF)
+latviešu (LV) (136.64 KB - PDF)
 
 **First published:** 20/09/2022
 
 [View](/lv/documents/overview/opdualag-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (128.43 KB - PDF)
+lietuvių (LT) (128.43 KB - PDF)
 
 **First published:** 20/09/2022
 
@@ -236,7 +236,7 @@ slovenščina (SL) (154.43 KB - PDF)
 
 [View](/sl/documents/overview/opdualag-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (103.72 KB - PDF)
+suomi (FI) (103.72 KB - PDF)
 
 **First published:** 20/09/2022
 
@@ -250,9 +250,9 @@ svenska (SV) (103.87 KB - PDF)
 
 Opdualag : EPAR - Risk management plan
 
-English (EN) (5.01 MB - PDF)
+English (EN) (5.03 MB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 07/04/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/en/documents/rmp/opdualag-epar-risk-management-plan_en.pdf)
 
@@ -260,167 +260,168 @@ English (EN) (5.01 MB - PDF)
 
 Opdualag : EPAR - Product Information
 
-English (EN) (477.02 KB - PDF)
+English (EN) (477.13 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/en/documents/product-information/opdualag-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-924)
+[Other languages (24)](#file-language-dropdown-36)
 
-български (BG) (598.5 KB - PDF)
+български (BG) (598.83 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/bg/documents/product-information/opdualag-epar-product-information_bg.pdf)
 
-español (ES) (481.42 KB - PDF)
+español (ES) (479.21 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/es/documents/product-information/opdualag-epar-product-information_es.pdf)
 
-čeština (CS) (563.18 KB - PDF)
+čeština (CS) (563.54 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/cs/documents/product-information/opdualag-epar-product-information_cs.pdf)
 
-dansk (DA) (462.94 KB - PDF)
+dansk (DA) (463.03 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/da/documents/product-information/opdualag-epar-product-information_da.pdf)
 
-Deutsch (DE) (503.33 KB - PDF)
+Deutsch (DE) (503.06 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/de/documents/product-information/opdualag-epar-product-information_de.pdf)
 
-eesti keel (ET) (471.65 KB - PDF)
+eesti (ET) (471.5 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/et/documents/product-information/opdualag-epar-product-information_et.pdf)
 
-ελληνικά (EL) (602.69 KB - PDF)
+ελληνικά (EL) (602.59 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/el/documents/product-information/opdualag-epar-product-information_el.pdf)
 
-français (FR) (500.34 KB - PDF)
+français (FR) (386.23 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/fr/documents/product-information/opdualag-epar-product-information_fr.pdf)
 
-hrvatski (HR) (553.71 KB - PDF)
+hrvatski (HR) (586.75 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/hr/documents/product-information/opdualag-epar-product-information_hr.pdf)
 
-íslenska (IS) (470.68 KB - PDF)
+italiano (IT) (480.97 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
-
-[View](/is/documents/product-information/opdualag-epar-product-information_is.pdf)
-
-italiano (IT) (483.86 KB - PDF)
-
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/it/documents/product-information/opdualag-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (560.09 KB - PDF)
+latviešu (LV) (561.34 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/lv/documents/product-information/opdualag-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (561.26 KB - PDF)
+lietuvių (LT) (561.93 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/lt/documents/product-information/opdualag-epar-product-information_lt.pdf)
 
-magyar (HU) (581.57 KB - PDF)
+magyar (HU) (468.42 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/hu/documents/product-information/opdualag-epar-product-information_hu.pdf)
 
-Malti (MT) (590.92 KB - PDF)
+Malti (MT) (468.22 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/mt/documents/product-information/opdualag-epar-product-information_mt.pdf)
 
-Nederlands (NL) (478.33 KB - PDF)
+Nederlands (NL) (603.16 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/nl/documents/product-information/opdualag-epar-product-information_nl.pdf)
 
-norsk (NO) (460.75 KB - PDF)
+polski (PL) (583.2 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
-
-[View](/no/documents/product-information/opdualag-epar-product-information_no.pdf)
-
-polski (PL) (583.49 KB - PDF)
-
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/pl/documents/product-information/opdualag-epar-product-information_pl.pdf)
 
-português (PT) (470.21 KB - PDF)
+português (PT) (542.75 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/pt/documents/product-information/opdualag-epar-product-information_pt.pdf)
 
-română (RO) (568.04 KB - PDF)
+română (RO) (566.82 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/ro/documents/product-information/opdualag-epar-product-information_ro.pdf)
 
-slovenčina (SK) (576.3 KB - PDF)
+slovenčina (SK) (574.24 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/sk/documents/product-information/opdualag-epar-product-information_sk.pdf)
 
-slovenščina (SL) (562.34 KB - PDF)
+slovenščina (SL) (451.26 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/sl/documents/product-information/opdualag-epar-product-information_sl.pdf)
 
-Suomi (FI) (470.47 KB - PDF)
+suomi (FI) (470.52 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/fi/documents/product-information/opdualag-epar-product-information_fi.pdf)
 
-svenska (SV) (463.51 KB - PDF)
+svenska (SV) (532.65 KB - PDF)
 
-**First published:** 20/09/2022 **Last updated:** 27/05/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
 
 [View](/sv/documents/product-information/opdualag-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000303785
+Íslenska (IS) (360.18 KB - PDF)
 
-23/04/2026
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
+
+[View](/is/documents/product-information/opdualag-epar-product-information_is.pdf)
+
+norsk (NO) (582.08 KB - PDF)
+
+**First published:** 20/09/2022 **Last updated:** 21/07/2026
+
+[View](/no/documents/product-information/opdualag-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000339077
+
+11/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -438,7 +439,7 @@ English (EN) (44.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/opdualag-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-758)
+[Other languages (25)](#file-language-dropdown-580)
 
 български (BG) (55.12 KB - PDF)
 
@@ -470,7 +471,7 @@ Deutsch (DE) (46.65 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/opdualag-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (45.08 KB - PDF)
+eesti (ET) (45.08 KB - PDF)
 
 **First published:** 20/09/2022
 
@@ -488,23 +489,17 @@ français (FR) (44.97 KB - PDF)
 
 [View](/fr/documents/all-authorised-presentations/opdualag-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (64.89 KB - PDF)
-
-**First published:** 20/09/2022
-
-[View](/hr/documents/all-authorised-presentations/opdualag-epar-all-authorised-presentations_hr.pdf)
-
-íslenska (IS) (46.62 KB - PDF)
-
-**First published:** 20/09/2022
-
-[View](/is/documents/all-authorised-presentations/opdualag-epar-all-authorised-presentations_is.pdf)
-
 Gaeilge (GA) (45.4 KB - PDF)
 
 **First published:** 20/09/2022
 
 [View](/ga/documents/all-authorised-presentations/opdualag-epar-all-authorised-presentations_ga.pdf)
+
+hrvatski (HR) (64.89 KB - PDF)
+
+**First published:** 20/09/2022
+
+[View](/hr/documents/all-authorised-presentations/opdualag-epar-all-authorised-presentations_hr.pdf)
 
 italiano (IT) (44.95 KB - PDF)
 
@@ -512,13 +507,13 @@ italiano (IT) (44.95 KB - PDF)
 
 [View](/it/documents/all-authorised-presentations/opdualag-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (62.94 KB - PDF)
+latviešu (LV) (62.94 KB - PDF)
 
 **First published:** 20/09/2022
 
 [View](/lv/documents/all-authorised-presentations/opdualag-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (63.83 KB - PDF)
+lietuvių (LT) (63.83 KB - PDF)
 
 **First published:** 20/09/2022
 
@@ -541,12 +536,6 @@ Nederlands (NL) (45.21 KB - PDF)
 **First published:** 20/09/2022
 
 [View](/nl/documents/all-authorised-presentations/opdualag-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (75.16 KB - PDF)
-
-**First published:** 20/09/2022
-
-[View](/no/documents/all-authorised-presentations/opdualag-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (93.33 KB - PDF)
 
@@ -578,7 +567,7 @@ slovenščina (SL) (82.56 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/opdualag-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (68.79 KB - PDF)
+suomi (FI) (68.79 KB - PDF)
 
 **First published:** 20/09/2022
 
@@ -590,29 +579,32 @@ svenska (SV) (45.62 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/opdualag-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (46.62 KB - PDF)
+
+**First published:** 20/09/2022
+
+[View](/is/documents/all-authorised-presentations/opdualag-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (75.16 KB - PDF)
+
+**First published:** 20/09/2022
+
+[View](/no/documents/all-authorised-presentations/opdualag-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Opdualag
-
-Active substance
-
-- nivolumab
-- relatlimab
-
-International non-proprietary name (INN) or common name
-
-- relatlimab
-- nivolumab
-
-Therapeutic area (MeSH)
-
-Melanoma
-
-Anatomical therapeutic chemical (ATC) code
-
-L01FY02
+- **Name of medicine**
+    - Opdualag
+- **Active substance**
+        - nivolumab
+        - relatlimab
+- **International non-proprietary name (INN) or common name**
+        - relatlimab
+        - nivolumab
+- **Therapeutic area (MeSH)**
+    - Melanoma
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01FY02
 
 ### Pharmacotherapeutic group
 
@@ -624,31 +616,18 @@ Opdualag is indicated for the first line treatment of advanced (unresectable or 
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005481
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Bristol-Myers Squibb Pharma EEIG
-
-Plaza 254
-
-Opinion adopted
-
-21/07/2022
-
-Marketing authorisation issued
-
-15/09/2022
-
-Revision
-
-8
+- **EMA product number**
+    - EMEA/H/C/005481
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Bristol-Myers Squibb Pharma EEIG Plaza 254  Blanchardstown Corporate Park 2  Dublin 15  D15 T867  Ireland
+- **Opinion adopted**
+    - 21/07/2022
+- **Marketing authorisation issued**
+    - 15/09/2022
+- **Revision**
+    - 9
 
 ## Assessment history
 
@@ -656,13 +635,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Opdualag : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (154.47 KB - PDF)
+English (EN) (164.7 KB - PDF)
 
-**First published:** 11/07/2025 **Last updated:** 27/05/2026
+**First published:** 11/07/2025 **Last updated:** 21/07/2026
 
 [View](/en/documents/procedural-steps-after/opdualag-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -676,7 +655,7 @@ English (EN) (137.13 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/opdualag-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-Odualag-VR-0000303785 : EPAR - Assessment report - Variation
+Opdualag-VR-0000303785 : EPAR - Assessment report - Variation
 
 Adopted Reference Number: EMADOC-1700519818-3070473
 
@@ -684,15 +663,15 @@ English (EN) (3.96 MB - PDF)
 
 **First published:** 27/05/2026
 
-[View](/en/documents/variation-report/odualag-vr-0000303785-epar-assessment-report-variation_en.pdf)
+[View](/en/documents/variation-report/opdualag-vr-0000303785-epar-assessment-report-variation_en.pdf)
 
-Odualag : EPAR - Scientific conclusions - Annex IV
+Opdualag : EPAR - Scientific conclusions - Annex IV
 
 English (EN) (128.57 KB - PDF)
 
 **First published:** 24/07/2025
 
-[View](/en/documents/scientific-conclusion/odualag-epar-scientific-conclusions-annex-iv_en.pdf)
+[View](/en/documents/scientific-conclusion/opdualag-epar-scientific-conclusions-annex-iv_en.pdf)
 
 Opdualag-H-C-PSUSA-00011018-202403: EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -704,7 +683,7 @@ English (EN) (130.92 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/opdualag-h-c-psusa-00011018-202403-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Opdualag : EPAR - Public Assessment Report
 
@@ -748,7 +727,7 @@ English (EN) (302.26 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/opdualag-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-124)
+[Other languages (24)](#file-language-dropdown-530)
 
 български (BG) (295.4 KB - DOCX)
 
@@ -780,7 +759,7 @@ Deutsch (DE) (290.31 KB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/opdualag-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (291.82 KB - DOCX)
+eesti (ET) (291.82 KB - DOCX)
 
 **First published:** 24/07/2025
 
@@ -804,25 +783,19 @@ hrvatski (HR) (295.94 KB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/opdualag-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (300.26 KB - DOCX)
-
-**First published:** 24/07/2025
-
-[View](/is/documents/product-information-tracked-changes/opdualag-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (300.03 KB - DOCX)
 
 **First published:** 24/07/2025
 
 [View](/it/documents/product-information-tracked-changes/opdualag-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (296.14 KB - DOCX)
+latviešu (LV) (296.14 KB - DOCX)
 
 **First published:** 24/07/2025
 
 [View](/lv/documents/product-information-tracked-changes/opdualag-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (294.4 KB - DOCX)
+lietuvių (LT) (294.4 KB - DOCX)
 
 **First published:** 24/07/2025
 
@@ -845,12 +818,6 @@ Nederlands (NL) (291.7 KB - DOCX)
 **First published:** 24/07/2025
 
 [View](/nl/documents/product-information-tracked-changes/opdualag-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (293.28 KB - DOCX)
-
-**First published:** 24/07/2025
-
-[View](/no/documents/product-information-tracked-changes/opdualag-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (476.92 KB - DOCX)
 
@@ -882,7 +849,7 @@ slovenščina (SL) (292.21 KB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/opdualag-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (290.05 KB - DOCX)
+suomi (FI) (290.05 KB - DOCX)
 
 **First published:** 24/07/2025
 
@@ -893,6 +860,18 @@ svenska (SV) (297.46 KB - DOCX)
 **First published:** 24/07/2025
 
 [View](/sv/documents/product-information-tracked-changes/opdualag-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (300.26 KB - DOCX)
+
+**First published:** 24/07/2025
+
+[View](/is/documents/product-information-tracked-changes/opdualag-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (293.28 KB - DOCX)
+
+**First published:** 24/07/2025
+
+[View](/no/documents/product-information-tracked-changes/opdualag-epar-product-information-tracked-changes_no.docx)
 
 ## Related documents
 
@@ -914,6 +893,6 @@ English (EN) (141.78 KB - PDF)
 
 **This page was last updated on**
 
-27/05/2026
+21/07/2026
 
 ## Share this page

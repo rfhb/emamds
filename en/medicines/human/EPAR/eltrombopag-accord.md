@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eltrombopag-accord.html
 document_name: eltrombopag-accord.html
 version: success
-processing_time: 0.1561129
-conversion_datetime: 2026-07-28 12:37:57.861531
+processing_time: 0.1529433
+conversion_datetime: 2026-07-28 13:00:47.90743
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

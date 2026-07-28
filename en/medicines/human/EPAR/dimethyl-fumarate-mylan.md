@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dimethyl-fumarate-mylan.html
 document_name: dimethyl-fumarate-mylan.html
 version: success
-processing_time: 0.1459901
-conversion_datetime: 2026-07-28 12:38:13.480651
+processing_time: 0.1475557
+conversion_datetime: 2026-07-28 13:01:03.707669
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

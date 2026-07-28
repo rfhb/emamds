@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/desloratadine-teva.html
 document_name: desloratadine-teva.html
 version: success
-processing_time: 0.1643252
-conversion_datetime: 2026-07-28 12:38:28.82367
+processing_time: 0.1645523
+conversion_datetime: 2026-07-28 13:01:19.274445
 docling_version:
   docling-serve: 1.28.0
   docling-jobkit: 3.1.0

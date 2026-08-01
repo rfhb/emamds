@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-03 14:55:27
-document_pages: 72
+document_datetime: 2026-07-30 13:45:25
+document_pages: 75
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/gilenya-epar-product-information_en.pdf
 document_name: gilenya-epar-product-information_en.pdf
 version: success
-processing_time: 21.3574379
-conversion_datetime: 2026-02-04 15:11:37.626199
+processing_time: 22.4593878
+conversion_datetime: 2026-08-01 12:05:58.413298
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.72.0
-  docling-core: 2.63.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
-  python: cpython-313 (3.13.12)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -66,11 +66,11 @@ or
 
 The treatment should be initiated and supervised by a physician experienced in multiple sclerosis.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Posology
 
 In adults, the recommended dose of fingolimod is one 0.5 mg capsule taken orally once daily.
-
-<div style=\"page-break-after: always\"></div>
 
 In paediatric patients (10 years of age and above), the recommended dose is dependent on body weight:
 
@@ -115,14 +115,13 @@ Gilenya can be taken with or without food (see section 5.2).
 
 The capsules should always be swallowed intact, without opening them.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.3 Contraindications
 
 - -Immunodeficiency syndrome.
 - -Patients with increased risk for opportunistic infections, including immunocompromised patients (including those currently receiving immunosuppressive therapies or those immunocompromised by prior therapies).
 - -Suspected or confirmed progressive multifocal leukoencephalopathy (PML) (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
-
 - -Severe active infections, active chronic infections (hepatitis, tuberculosis).
 - -Active malignancies.
 - -Severe liver impairment (Child-Pugh class C).
@@ -147,9 +146,9 @@ The same precautions as for the first dose are recommended when patients are swi
 
 Should post-dose bradyarrhythmia-related symptoms occur, appropriate clinical management should be initiated and monitoring should be continued until the symptoms have resolved. Should a patient require pharmacological intervention during the first-dose monitoring, overnight monitoring in a medical facility should be instituted and the first-dose monitoring should be repeated after the second dose of Gilenya.
 
-If the heart rate at 6 hours is the lowest since the first dose was administered (suggesting that the maximum pharmacodynamic effect on the heart may not yet be manifest), monitoring should be extended by at least 2 hours and until heart rate increases again. Additionally, if after 6 hours, the heart rate is &lt;45 bpm in adults, &lt;55 bpm in paediatric patients aged 12 years and above, or &lt;60 bpm in paediatric patients aged 10 to below 12 years, or the ECG shows new onset second degree or higher grade AV block or a QTc interval ≥500 msec, extended monitoring (at least overnight monitoring), should be performed, and until the findings have resolved. The occurrence at any time of third degree AV block should also lead to extended monitoring (at least overnight monitoring).
-
 <div style=\"page-break-after: always\"></div>
+
+If the heart rate at 6 hours is the lowest since the first dose was administered (suggesting that the maximum pharmacodynamic effect on the heart may not yet be manifest), monitoring should be extended by at least 2 hours and until heart rate increases again. Additionally, if after 6 hours, the heart rate is &lt;45 bpm in adults, &lt;55 bpm in paediatric patients aged 12 years and above, or &lt;60 bpm in paediatric patients aged 10 to below 12 years, or the ECG shows new onset second degree or higher grade AV block or a QTc interval ≥500 msec, extended monitoring (at least overnight monitoring), should be performed, and until the findings have resolved. The occurrence at any time of third degree AV block should also lead to extended monitoring (at least overnight monitoring).
 
 The effects on heart rate and atrioventricular conduction may recur on re-introduction of fingolimod treatment depending on duration of the interruption and time since start of treatment. The same first dose monitoring as for treatment initiation is recommended when treatment is interrupted (see section 4.2).
 
@@ -161,6 +160,8 @@ Fingolimod has not been studied in patients with arrhythmias requiring treatment
 
 Experience with Gilenya is limited in patients receiving concurrent therapy with beta blockers, heartrate-lowering calcium channel blockers (such as verapamil or diltiazem), or other substances which may decrease heart rate (e.g. ivabradine, digoxin, anticholinesteratic agents or pilocarpine). Since the initiation of fingolimod treatment is also associated with slowing of the heart rate (see also section 4.8, Bradyarrhythmia), concomitant use of these substances during treatment initiation may be associated with severe bradycardia and heart block. Because of the potential additive effect on heart rate, treatment with Gilenya should not be initiated in patients who are concurrently treated with these substances (see also section 4.5). In such patients, treatment with Gilenya should be considered only if the anticipated benefits outweigh the potential risks. If treatment with Gilenya is considered, advice from a cardiologist should be sought regarding the switch to non heart-rate lowering medicinal products prior to initiation of treatment. If the heart-rate-lowering treatment cannot be stopped, cardiologist's advice should be sought to determine appropriate first dose monitoring, at least overnight extended monitoring is recommended (see also section 4.5).
 
+<div style=\"page-break-after: always\"></div>
+
 ## QT interval
 
 In a thorough QT interval study of doses of 1.25 or 2.5 mg fingolimod at steady-state, when a negative chronotropic effect of fingolimod was still present, fingolimod treatment resulted in a prolongation of QTcI, with the upper limit of the 90% CI ≤13.0 ms. There is no dose- or exposure-response relationship of fingolimod and QTcI prolongation. There is no consistent signal of increased incidence of QTcI outliers, either absolute or change from baseline, associated with fingolimod treatment.
@@ -168,8 +169,6 @@ In a thorough QT interval study of doses of 1.25 or 2.5 mg fingolimod at steady-
 The clinical relevance of this finding is unknown. In the multiple sclerosis studies, clinically relevant effects on prolongation of the QTc-interval have not been observed but patients at risk for QT prolongation were not included in clinical studies.
 
 Medicinal products that may prolong QTc interval are best avoided in patients with relevant risk factors, for example, hypokalaemia or congenital QT prolongation.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Immunosuppressive effects
 
@@ -189,6 +188,8 @@ Suspension of Gilenya should be considered if a patient develops a serious infec
 
 Elimination of fingolimod following discontinuation of therapy may take up to two months and vigilance for infection should therefore be continued throughout this period. Patients should be instructed to report symptoms of infection up to 2 months after discontinuation of fingolimod.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Herpes viral infection
 
 Serious, life-threatening, and sometimes fatal cases of encephalitis, meningitis or meningoencephalitis caused by herpes simplex and varicella zoster viruses have occurred with Gilenya at any time during treatment. If herpes encephalitis, meningitis or meningoencephalitis occur, Gilenya should be discontinued and appropriate treatment for the respective infection should be administered.
@@ -197,17 +198,15 @@ Patients need to be assessed for their immunity to varicella (chickenpox) prior 
 
 ## Cryptococcal meningitis
 
-Cases of cryptococcal meningitis (a fungal infection), sometimes fatal, have been reported in the postmarketing setting after approximately 2-3 years of treatment, although an exact relationship with the
-
-<div style=\"page-break-after: always\"></div>
-
-duration of treatment is unknown (see section 4.8). Patients with symptoms and signs consistent with cryptococcal meningitis (e.g. headache accompanied by mental changes such as confusion, hallucinations, and/or personality changes) should undergo prompt diagnostic evaluation. If cryptococcal meningitis is diagnosed, fingolimod should be suspended and appropriate treatment should be initiated. A multidisciplinary consultation (i.e. infectious disease specialist) should be undertaken if re-initiation of fingolimod is warranted.
+Cases of cryptococcal meningitis (a fungal infection), sometimes fatal, have been reported in the postmarketing setting after approximately 2-3 years of treatment, although an exact relationship with the duration of treatment is unknown (see section 4.8). Patients with symptoms and signs consistent with cryptococcal meningitis (e.g. headache accompanied by mental changes such as confusion, hallucinations, and/or personality changes) should undergo prompt diagnostic evaluation. If cryptococcal meningitis is diagnosed, fingolimod should be suspended and appropriate treatment should be initiated. A multidisciplinary consultation (i.e. infectious disease specialist) should be undertaken if re-initiation of fingolimod is warranted.
 
 ## Progressive multifocal leukoencephalopathy
 
 PML has been reported under fingolimod treatment since marketing authorisation (see section 4.8). PML is an opportunistic infection caused by John Cunningham virus (JCV), which may be fatal or result in severe disability. The majority of PML cases have occurred after 2 or more years of fingolimod treatment. In addition to duration of fingolimod exposure, other potential risk factors for PML include prior therapy with immunosuppressants or immunomodulators, and/or severe lymphopenia (&lt;0.5x10 9 /l). Patients at increased risk should be closely monitored for any signs or symptoms of PML. PML can only occur in the presence of a JCV infection. If JCV testing is undertaken, it should be considered that the influence of lymphopenia on the accuracy of anti-JCV antibody testing has not been studied in fingolimod-treated patients. A negative anti-JCV antibody test does not preclude the possibility of subsequent JCV infection. Before initiating treatment with fingolimod, a baseline MRI should be available (usually within 3 months) as a reference. During routine MRI (in accordance with national and local recommendations), physicians should pay attention to PML suggestive lesions. MRI findings may be apparent before clinical signs or symptoms. Annual MRIs may be considered as part of increased vigilance especially in patients at increased risk of PML. Cases of asymptomatic PML based on MRI findings and positive JCV DNA in the cerebrospinal fluid have been reported in patients treated with fingolimod. If PML is suspected, MRI should be performed immediately for diagnostic purposes and treatment with fingolimod should be suspended until PML has been excluded. If PML is confirmed, treatment with fingolimod must be permanently discontinued (see also section 4.3).
 
 Immune reconstitution inflammatory syndrome (IRIS) has been reported in patients treated with sphingosine 1-phosphate (S1P) receptor modulators, including fingolimod, who developed PML and subsequently discontinued treatment. IRIS presents as a clinical decline in the patient's condition that may be rapid, can lead to serious neurological complications or death, and is often associated with characteristic changes on MRI. The time to onset of IRIS in patients with PML was usually from weeks to months after S1P receptor modulator discontinuation. Monitoring for development of IRIS and appropriate treatment of the associated inflammation should be undertaken.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Human papilloma virus infection
 
@@ -219,8 +218,6 @@ Macular oedema with or without visual symptoms has been reported in 0.5% of pati
 
 Patients with history of uveitis and patients with diabetes mellitus are at increased risk of macular oedema (see section 4.8). Fingolimod has not been studied in multiple sclerosis patients with concomitant diabetes mellitus. It is recommended that multiple sclerosis patients with diabetes mellitus or a history of uveitis undergo an ophthalmological evaluation prior to initiating therapy and have follow-up evaluations while receiving therapy.
 
-<div style=\"page-break-after: always\"></div>
-
 Continuation of treatment in patients with macular oedema has not been evaluated. It is recommended that Gilenya be discontinued if a patient develops macular oedema. A decision on whether or not therapy should be re-initiated after resolution of macular oedema needs to take into account the potential benefits and risks for the individual patient.
 
 ## Liver injury
@@ -230,6 +227,8 @@ Increased hepatic enzymes, in particular alanine aminotransaminase (ALT) but als
 Fingolimod has not been studied in patients with severe pre-existing hepatic injury (Child-Pugh class C) and should not be used in these patients (see section 4.3).
 
 Due to the immunosuppressive properties of fingolimod, initiation of treatment should be delayed in patients with active viral hepatitis until resolution.
+
+<div style=\"page-break-after: always\"></div>
 
 Recent (i.e. within last 6 months) transaminase and bilirubin levels should be available before initiation of treatment. In the absence of clinical symptoms, liver transaminases and serum bilirubin should be monitored at months 1, 3, 6, 9 and 12 on therapy and periodically thereafter until 2 months after Gilenya discontinuation. In the absence of clinical symptoms, if liver transaminases are greater than 3 but less than 5 times the ULN without increase in serum bilirubin, more frequent monitoring including serum bilirubin and alkaline phosphatase (ALP) measurement should be instituted to determine if further increases occur and in order to discern if an alternative aetiology of hepatic dysfunction is present. If liver transaminases are at least 5 times the ULN or at least 3 times the ULN associated with any increase in serum bilirubin, Gilenya should be discontinued. Hepatic monitoring should be continued. If serum levels return to normal (including if an alternative cause of the hepatic dysfunction is discovered), Gilenya may be restarted based on a careful benefit-risk assessment of the patient.
 
@@ -241,8 +240,6 @@ Although there are no data to establish that patients with pre-existing liver di
 
 Patients with hypertension uncontrolled by medication were excluded from participation in premarketing clinical trials and special care is indicated if patients with uncontrolled hypertension are treated with Gilenya.
 
-<div style=\"page-break-after: always\"></div>
-
 In MS clinical trials, patients treated with fingolimod 0.5 mg had an average increase of approximately 3 mmHg in systolic pressure, and approximately 1 mmHg in diastolic pressure, first detected approximately 1 month after treatment initiation, and persisting with continued treatment. In the twoyear placebo-controlled study, hypertension was reported as an adverse event in 6.5% of patients on fingolimod 0.5 mg and in 3.3% of patients on placebo. Therefore, blood pressure should be regularly monitored during treatment.
 
 ## Respiratory effects
@@ -252,6 +249,8 @@ Minor dose-dependent reductions in values for forced expiratory volume (FEV1) an
 ## Posterior reversible encephalopathy syndrome
 
 Rare cases of posterior reversible encephalopathy syndrome (PRES) have been reported at the 0.5 mg dose in clinical trials and in the post-marketing setting (see section 4.8). Symptoms reported included sudden onset of severe headache, nausea, vomiting, altered mental status, visual disturbances and seizure. Symptoms of PRES are usually reversible but may evolve into ischaemic stroke or cerebral haemorrhage. Delay in diagnosis and treatment may lead to permanent neurological sequelae. If PRES is suspected, Gilenya should be discontinued.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Prior treatment with immunosuppressive or immunomodulatory therapies
 
@@ -271,8 +270,6 @@ A decision to use prolonged concomitant treatment with corticosteroids should be
 
 The combination of fingolimod with potent CYP450 inducers should be used with caution. Concomitant administration with St John's Wort is not recommended (see section 4.5).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Malignancies
 
 ## Cutaneous malignancies
@@ -284,6 +281,8 @@ Since there is a potential risk of malignant skin growths, patients treated with
 ## Lymphomas
 
 There have been cases of lymphoma in clinical studies and the post-marketing setting (see section 4.8). The cases reported were heterogeneous in nature, mainly nonHodgkin's lymphoma, including B-cell and T-cell lymphomas. Cases of cutaneous T-cell lymphoma (mycosis fungoides) have been observed. A fatal case of Epstein-Barr virus (EBV) positive B-cell lymphoma has also been observed. If lymphoma is suspected, treatment should be discontinued.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Women of childbearing potential
 
@@ -301,8 +300,6 @@ In the post-marketing setting, severe exacerbation of disease has been observed 
 
 If a decision is made to stop treatment with Gilenya a 6 week interval without therapy is needed, based on half-life, to clear fingolimod from the circulation (see section 5.2). Lymphocyte counts progressively return to normal range within 1-2 months of stopping therapy in most patients (see section 5.1) although full recovery can take significantly longer in some patients. Starting other therapies during this interval will result in concomitant exposure to fingolimod. Use of immunosuppressants soon after the discontinuation of Gilenya may lead to an additive effect on the immune system and caution is therefore indicated.
 
-<div style=\"page-break-after: always\"></div>
-
 After stopping fingolimod in the setting of PML, it is recommended to monitor patients for development of immune reconstitution inflammatory syndrome (PML-IRIS) (see 'Progressive multifocal leukoencephalopathy' above).
 
 Caution is also indicated when stopping fingolimod therapy due to the risk of a rebound (see 'Return of disease activity (rebound) after fingolimod discontinuation' above). If discontinuation of Gilenya is deemed necessary, patients should be monitored during this time for relevant signs of a possible rebound.
@@ -310,6 +307,8 @@ Caution is also indicated when stopping fingolimod therapy due to the risk of a 
 ## Interference with serological testing
 
 Since fingolimod reduces blood lymphocyte counts via re-distribution in secondary lymphoid organs, peripheral blood lymphocyte counts cannot be utilised to evaluate the lymphocyte subset status of a patient treated with Gilenya. Laboratory tests involving the use of circulating mononuclear cells require larger blood volumes due to reduction in the number of circulating lymphocytes.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -336,11 +335,11 @@ Caution should also be exercised when switching patients from long-acting therap
 
 During and for up to two months after treatment with Gilenya vaccination may be less effective. The use of live attenuated vaccines may carry a risk of infections and should therefore be avoided (see sections 4.4 and 4.8).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Bradycardia-inducing substances
 
 Fingolimod has been studied in combination with atenolol and diltiazem. When fingolimod was used with atenolol in an interaction study in healthy volunteers, there was an additional 15% reduction of heart rate at fingolimod treatment initiation, an effect not seen with diltiazem. Treatment with Gilenya should not be initiated in patients receiving beta blockers, or other substances which may decrease heart rate, such as class Ia and III antiarrhythmics, calcium channel blockers (such as verapamil or diltiazem), ivabradine, digoxin, anticholinesteratic agents or pilocarpine because of the potential additive effects on heart rate (see sections 4.4 and 4.8). If treatment with Gilenya is considered in such patients, advice from a cardiologist should be sought regarding the switch to non-heart-rate lowering medicinal products or appropriate monitoring for treatment initiation, at least overnight monitoring is recommended, if the heart-rate-lowering medication cannot be stopped.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Pharmacokinetic interactions of other substances on fingolimod
 
@@ -364,13 +363,13 @@ Fingolimod is contraindicated in women of childbearing potential not using effec
 
 Specific measures are also included in the Physician Information Pack. These measures must be implemented before fingolimod is prescribed to female patients and during treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 When stopping fingolimod therapy for planning a pregnancy the possible return of disease activity should be considered (see section 4.4).
 
 ## Pregnancy
 
 Based on human experience, post-marketing data suggest that use of fingolimod is associated with a 2-fold increased risk of major congenital malformations when administered during pregnancy compared with the rate observed in the general population (2-3%; EUROCAT).
+
+<div style=\"page-break-after: always\"></div>
 
 The following major malformations were most frequently reported:
 
@@ -418,8 +417,8 @@ Adverse reactions reported in clinical trials and derived from post-marketing ex
 | Not known:                                                          | Progressive multifocal leukoencephalopathy (PML)** Cryptococcal infections**                                                                            |
 | Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Neoplasms benign, malignant and unspecified (incl cysts and polyps)                                                                                     |
 | Common:                                                             | Basal cell carcinoma                                                                                                                                    |
-| Uncommon:                                                           | Malignant melanoma****                                                                                                                                  |
-| Rare:                                                               | Lymphoma*** Squamous cell carcinoma****                                                                                                                 |
+| Uncommon:                                                           | Malignant melanoma**** Squamous cell carcinoma*****                                                                                                     |
+| Rare:                                                               | Lymphoma***                                                                                                                                             |
 | Very rare:                                                          | Kaposi's sarcoma****                                                                                                                                    |
 | Not known                                                           | Merkel cell carcinoma***                                                                                                                                |
 | Blood and lymphatic system disorders                                | Blood and lymphatic system disorders                                                                                                                    |
@@ -448,31 +447,27 @@ Adverse reactions reported in clinical trials and derived from post-marketing ex
 
 <div style=\"page-break-after: always\"></div>
 
-| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders                                                              |
-|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| Very common:                                         | Cough                                                                                                        |
-| Common:                                              | Dyspnoea                                                                                                     |
-| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                   |
-| Very common:                                         | Diarrhoea                                                                                                    |
-| Uncommon:                                            | Nausea***                                                                                                    |
-| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                      |
-| Not known:                                           | Acute hepatic failure***                                                                                     |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                       |
-| Common:                                              | Eczema Alopecia Pruritus                                                                                     |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                              |
-| Very common:                                         | Back pain                                                                                                    |
-| Common:                                              | Myalgia Arthralgia                                                                                           |
-| General disorders and administration site conditions | General disorders and administration site conditions                                                         |
-| Common:                                              | Asthenia                                                                                                     |
-| Investigations                                       | Investigations                                                                                               |
-| Very common:                                         | Hepatic enzyme increased (increased alanine transaminase, gamma glutamyltransferase, aspartate transaminase) |
-| Common:                                              | Weight decreased*** Blood triglycerides increased                                                            |
-| Uncommon:                                            | Neutrophil count decreased                                                                                   |
-
-* The frequency category was based on an estimated exposure of approximately 10 000 patients to fingolimod in all clinical trials.
-- ** PML, IRIS and cryptococcal infections (including cases of cryptococcal meningitis) have been reported in the post-marketing setting (see section 4.4).
-- *** Adverse reactions from spontaneous reports and literature
-- **** The frequency category and risk assessment were based on an estimated exposure of more than 24 000 patients to fingolimod 0.5 mg in all clinical trials.
+| Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                                                                                                            | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                                                                                                            |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Very common:                                                                                                                                                                                                                                                                                                                                               | Cough                                                                                                                                                                                                                                                                                                                                                      |
+| Common:                                                                                                                                                                                                                                                                                                                                                    | Dyspnoea                                                                                                                                                                                                                                                                                                                                                   |
+| Gastrointestinal disorders                                                                                                                                                                                                                                                                                                                                 | Gastrointestinal disorders                                                                                                                                                                                                                                                                                                                                 |
+| Very common:                                                                                                                                                                                                                                                                                                                                               | Diarrhoea                                                                                                                                                                                                                                                                                                                                                  |
+| Uncommon:                                                                                                                                                                                                                                                                                                                                                  | Nausea***                                                                                                                                                                                                                                                                                                                                                  |
+| Hepatobiliary disorders                                                                                                                                                                                                                                                                                                                                    | Hepatobiliary disorders                                                                                                                                                                                                                                                                                                                                    |
+| Not known:                                                                                                                                                                                                                                                                                                                                                 | Acute hepatic failure***                                                                                                                                                                                                                                                                                                                                   |
+| Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                                                                                                     | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                                                                                                     |
+| Common:                                                                                                                                                                                                                                                                                                                                                    | Eczema Alopecia Pruritus                                                                                                                                                                                                                                                                                                                                   |
+| Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                                                                                                            | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                                                                                                            |
+| Very common:                                                                                                                                                                                                                                                                                                                                               | Back pain                                                                                                                                                                                                                                                                                                                                                  |
+| Common:                                                                                                                                                                                                                                                                                                                                                    | Myalgia Arthralgia                                                                                                                                                                                                                                                                                                                                         |
+| General disorders and administration site conditions                                                                                                                                                                                                                                                                                                       | General disorders and administration site conditions                                                                                                                                                                                                                                                                                                       |
+| Common:                                                                                                                                                                                                                                                                                                                                                    | Asthenia                                                                                                                                                                                                                                                                                                                                                   |
+| Investigations                                                                                                                                                                                                                                                                                                                                             | Investigations                                                                                                                                                                                                                                                                                                                                             |
+| Very common:                                                                                                                                                                                                                                                                                                                                               | Hepatic enzyme increased (increased alanine transaminase, gamma glutamyltransferase, aspartate transaminase)                                                                                                                                                                                                                                               |
+| Common:                                                                                                                                                                                                                                                                                                                                                    | Weight decreased*** Blood triglycerides increased                                                                                                                                                                                                                                                                                                          |
+| Uncommon:                                                                                                                                                                                                                                                                                                                                                  | Neutrophil count decreased                                                                                                                                                                                                                                                                                                                                 |
+| * The frequency category was based on an estimated exposure of approximately 10 000 patients to fingolimod in all clinical trials. ** PML, IRIS and cryptococcal infections (including cases of cryptococcal meningitis) have been reported in the post-marketing setting (see section 4.4). *** Adverse reactions from spontaneous reports and literature | * The frequency category was based on an estimated exposure of approximately 10 000 patients to fingolimod in all clinical trials. ** PML, IRIS and cryptococcal infections (including cases of cryptococcal meningitis) have been reported in the post-marketing setting (see section 4.4). *** Adverse reactions from spontaneous reports and literature |
 
 ## Description of selected adverse reactions
 
@@ -484,13 +479,11 @@ In the post-marketing setting, cases of infections with opportunistic pathogens,
 
 Human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer, has been reported under treatment with fingolimod in the post-marketing setting (see section 4.4). Due to the immunosuppressive properties of fingolimod, vaccination against HPV should be considered prior to treatment initiation with fingolimod taking into account vaccination recommendations. Cancer screening, including Pap test, is recommended as per standard of care.
 
-## Macular oedema
-
-In multiple sclerosis clinical studies macular oedema occurred in 0.5% of patients treated with the recommended dose of 0.5 mg and 1.1% of patients treated with the higher dose of 1.25 mg. The majority of cases occurred within the first 3-4 months of therapy. Some patients presented with blurred
-
 <div style=\"page-break-after: always\"></div>
 
-vision or decreased visual acuity, but others were asymptomatic and diagnosed on routine ophthalmological examination. The macular oedema generally improved or resolved spontaneously after discontinuation of treatment. The risk of recurrence after re-challenge has not been evaluated.
+## Macular oedema
+
+In multiple sclerosis clinical studies macular oedema occurred in 0.5% of patients treated with the recommended dose of 0.5 mg and 1.1% of patients treated with the higher dose of 1.25 mg. The majority of cases occurred within the first 3-4 months of therapy. Some patients presented with blurred vision or decreased visual acuity, but others were asymptomatic and diagnosed on routine ophthalmological examination. The macular oedema generally improved or resolved spontaneously after discontinuation of treatment. The risk of recurrence after re-challenge has not been evaluated.
 
 Macular oedema incidence is increased in multiple sclerosis patients with a history of uveitis (17% with a history of uveitis vs. 0.6% without a history of uveitis). Gilenya has not been studied in multiple sclerosis patients with diabetes mellitus, a disease which is associated with an increased risk for macular oedema (see section 4.4). In renal transplant clinical studies in which patients with diabetes mellitus were included, therapy with fingolimod 2.5 mg and 5 mg resulted in a 2-fold increase in the incidence of macular oedema.
 
@@ -506,13 +499,11 @@ In the post-marketing setting, isolated delayed onset events, including transien
 
 In multiple sclerosis clinical studies fingolimod 0.5 mg was associated with an average increase of approximately 3 mmHg in systolic pressure and approximately 1 mmHg in diastolic pressure, manifesting approximately 1 month after treatment initiation. This increase persisted with continued treatment. Hypertension was reported in 6.5% of patients on fingolimod 0.5 mg and in 3.3% of patients on placebo. In the post-marketing setting, cases of hypertension have been reported within the first month of treatment initiation and on the first day of treatment that may require treatment with antihypertensive agents or discontinuation of Gilenya (see also section 4.4, Blood pressure effects).
 
-## Liver function
-
-Increased hepatic enzymes have been reported in adult and paediatric multiple sclerosis patients treated with Gilenya. In clinical studies 8.0% and 1.8% of adult patients treated with fingolimod 0.5 mg experienced an asymptomatic elevation in serum levels of ALT of ≥3x ULN (upper limit of normal) and ≥5x ULN, respectively. Recurrence of liver transaminase elevations has occurred upon rechallenge in some patients, supporting a relationship to the medicinal product. In clinical studies, transaminase elevations occurred at any time during treatment although the majority occurred within the first 12 months. ALT levels returned to normal within approximately 2 months after
-
 <div style=\"page-break-after: always\"></div>
 
-discontinuation of treatment. In a small number of patients (N=10 on 1.25 mg, N=2 on 0.5 mg) who experienced ALT elevations ≥ 5x ULN and who continued on fingolimod therapy, the ALT levels returned to normal within approximately 5 months (see also section 4.4, Liver function).
+## Liver function
+
+Increased hepatic enzymes have been reported in adult and paediatric multiple sclerosis patients treated with Gilenya. In clinical studies 8.0% and 1.8% of adult patients treated with fingolimod 0.5 mg experienced an asymptomatic elevation in serum levels of ALT of ≥3x ULN (upper limit of normal) and ≥5x ULN, respectively. Recurrence of liver transaminase elevations has occurred upon rechallenge in some patients, supporting a relationship to the medicinal product. In clinical studies, transaminase elevations occurred at any time during treatment although the majority occurred within the first 12 months. ALT levels returned to normal within approximately 2 months after discontinuation of treatment. In a small number of patients (N=10 on 1.25 mg, N=2 on 0.5 mg) who experienced ALT elevations ≥ 5x ULN and who continued on fingolimod therapy, the ALT levels returned to normal within approximately 5 months (see also section 4.4, Liver function).
 
 ## Nervous system disorders
 
@@ -540,13 +531,13 @@ Very rare cases of haemophagocytic syndrome (HPS) with fatal outcome have been r
 
 In the controlled paediatric trial D2311 (see section 5.1), the safety profile in paediatric patients (10 to below 18 years of age) receiving fingolimod 0.25 mg or 0.5 mg daily was overall similar to that seen in adult patients. There were, nevertheless, more neurological and psychiatric disorders observed in the study. Caution is needed in this subgroup due to very limited knowledge available from the clinical study.
 
+<div style=\"page-break-after: always\"></div>
+
 In the paediatric study, cases of seizures were reported in 5.6% of fingolimod-treated patients and 0.9% of interferon beta-1a-treated patients.
 
 Depression and anxiety are known to occur with increased frequency in the multiple sclerosis population. Depression and anxiety have also been reported in paediatric patients treated with fingolimod.
 
 Mild isolated bilirubin increases have been noted in paediatric patients on fingolimod.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -570,11 +561,11 @@ Neither dialysis nor plasma exchange results in removal of fingolimod from the b
 
 Pharmacotherapeutic group: Immunosuppressants, selective immunosuppressants, ATC code: L04AE01
 
+<div style=\"page-break-after: always\"></div>
+
 ## Mechanism of action
 
 Fingolimod is a sphingosine 1-phosphate receptor modulator. Fingolimod is metabolised by sphingosine kinase to the active metabolite fingolimod phosphate. Fingolimod phosphate binds at low nanomolar concentrations to sphingosine 1-phosphate (S1P) receptor 1 located on lymphocytes, and readily crosses the blood-brain barrier to bind to S1P receptor 1 located on neural cells in the central nervous system (CNS). By acting as a functional antagonist of S1P receptors on lymphocytes, fingolimod phosphate blocks the capacity of lymphocytes to egress from lymph nodes, causing a redistribution, rather than depletion, of lymphocytes. Animal studies have shown that this redistribution reduces the infiltration of pathogenic lymphocytes, including pro-inflammatory Th17 cells, into the CNS, where they would be involved in nerve inflammation and nervous tissue damage. Animal studies and in vitro experiments indicate that fingolimod may also act via interaction with S1P receptors on neural cells.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pharmacodynamic effects
 
@@ -582,17 +573,17 @@ Within 4-6 hours after the first dose of fingolimod 0.5 mg, the lymphocyte count
 
 Fingolimod causes a transient reduction in heart rate and decrease in atrioventricular conduction at treatment initiation (see sections 4.4 and 4.8). The maximal decline in heart rate is seen within 6 hours post dose, with 70% of the negative chronotropic effect achieved on the first day. With continued administration heart rate returns to baseline within one month. The decrease in heart rate induced by fingolimod can be reversed by parenteral doses of atropine or isoprenaline. Inhaled salmeterol has also been shown to have a modest positive chronotropic effect. With initiation of fingolimod treatment there is an increase in atrial premature contractions, but there is no increased rate of atrial fibrillation/flutter or ventricular arrhythmias or ectopy. Fingolimod treatment is not associated with a decrease in cardiac output. Autonomic responses of the heart, including diurnal variation of heart rate and response to exercise are not affected by fingolimod treatment.
 
-S1P4 could partially contribute to the effect but was not the main receptor responsible for the lymphoid depletion. The mechanism of action of bradycardia and vasoconstriction were also studied in vitro in guinea pigs and isolated rabbit aorta and coronary artery. It was concluded that bradycardia could be mediated primarily by activation of inward-rectifying potassium channel or G-protein activated inwardly rectifying K +  channel (IKACh/GIRK) and that vasoconstriction seems to be mediated by a Rho kinase and calcium dependent mechanism.
+S1P4 could partially contribute to the effect but was not the main receptor responsible for the lymphoid depletion. The mechanism of action of bradycardia and vasoconstriction were also studied in vitro in guinea pigs and isolated rabbit aorta and coronary artery. It was concluded that bradycardia could be mediated primarily by activation of inward-rectifying potassium channel or G-protein activated inwardly rectifying K + channel (IKACh/GIRK) and that vasoconstriction seems to be mediated by a Rho kinase and calcium dependent mechanism.
 
 Fingolimod treatment with single or multiple doses of 0.5 and 1.25 mg for two weeks is not associated with a detectable increase in airway resistance as measured by FEV1 and forced expiratory flow rate (FEF) 2575. However, single fingolimod doses ≥5 mg (10-fold the recommended dose) are associated with a dose-dependent increase in airway resistance. Fingolimod treatment with multiple doses of 0.5, 1.25, or 5 mg is not associated with impaired oxygenation or oxygen desaturation with exercise or an increase in airway responsiveness to methacholine. Subjects on fingolimod treatment have a normal bronchodilator response to inhaled beta-agonists.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy and safety
 
 The efficacy of fingolimod has been demonstrated in two studies which evaluated once-daily doses of fingolimod 0.5 mg and 1.25 mg in adult patients with relapsing-remitting multiple sclerosis (RRMS). Both studies included adult patients who had experienced ≥2 relapses in the prior 2 years or ≥1 relapse during the prior year. Expanded Disability Status Score (EDSS) was between 0 and 5.5. A third study targeting the same adult patient population was completed after registration of Gilenya.
 
 Study D2301 (FREEDOMS) was a 2-year randomised, double-blind, placebo-controlled Phase III study of 1 272 patients (n=425 on 0.5 mg, 429 on 1.25 mg, 418 on placebo). Median values for baseline characteristics were: age 37 years, disease duration 6.7 years, and EDSS score 2.0. Outcome results are shown in Table 1. There were no significant differences between the 0.5 mg and the 1.25 mg doses as regards either endpoint.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 1 Study D2301 (FREEDOMS): main results
 
@@ -605,7 +596,7 @@ Table 1 Study D2301 (FREEDOMS): main results
 | MRI endpoints                                                                                                                                                                                                               |                                                                                                                                                                                                                             |                                                                                                                                                                                                                             |
 | Median (mean) number of new or enlarging T2 lesions over 24 months                                                                                                                                                          | 0.0 (2.5)**                                                                                                                                                                                                                 | 5.0 (9.8)                                                                                                                                                                                                                   |
 | Median (mean) number of Gd-enhancing lesions at month 24                                                                                                                                                                    | 0.0 (0.2)**                                                                                                                                                                                                                 | 0.0 (1.1)                                                                                                                                                                                                                   |
-| Median (mean) %change in brain volume over 24 months                                                                                                                                                                        | -0.7 (-0.8)**                                                                                                                                                                                                               | -1.0 (-1.3)                                                                                                                                                                                                                 |
+| Median (mean) % change in brain volume over 24 months                                                                                                                                                                       | -0.7 (-0.8)**                                                                                                                                                                                                               | -1.0 (-1.3)                                                                                                                                                                                                                 |
 | † Disability progression defined as 1-point increase in EDSS confirmed 3 months later ** p<0.001, *p<0.05 compared to placebo All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset. | † Disability progression defined as 1-point increase in EDSS confirmed 3 months later ** p<0.001, *p<0.05 compared to placebo All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset. | † Disability progression defined as 1-point increase in EDSS confirmed 3 months later ** p<0.001, *p<0.05 compared to placebo All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset. |
 
 Patients who completed the 24-month core FREEDOMS study could enter a dose-blinded extension study (D2301E1) and receive fingolimod. In total, 920 patients entered (n=331 continued on 0.5 mg, 289 continued on 1.25 mg, 155 switched from placebo to 0.5 mg and 145 switched from placebo to 1.25 mg). After 12 months (month 36), 856 patients (93%) were still enrolled. Between months 24 and 36, the annualised relapse rate (ARR) for patients on fingolimod 0.5 mg in the core study who remained on 0.5 mg was 0.17 (0.21 in the core study). The ARR for patients who switched from placebo to fingolimod 0.5 mg was 0.22 (0.42 in the core study).
@@ -625,7 +616,7 @@ Table 2 Study D2309 (FREEDOMS 2): main results
 | MRI endpoints                                                                                                                                                                                                      |                                                                                                                                                                                                                    |                                                                                                                                                                                                                    |
 | Median (mean) number of new or enlarging T2 lesions over 24 months                                                                                                                                                 | 0.0 (2.3)**                                                                                                                                                                                                        | 4.0 (8.9)                                                                                                                                                                                                          |
 | Median (mean) number of Gd-enhancing lesions at month 24                                                                                                                                                           | 0.0 (0.4)**                                                                                                                                                                                                        | 0.0 (1.2)                                                                                                                                                                                                          |
-| Median (mean) %change in brain volume over 24 months                                                                                                                                                               | -0.71 (-0.86)**                                                                                                                                                                                                    | -1.02 (-1.28)                                                                                                                                                                                                      |
+| Median (mean) % change in brain volume over 24 months                                                                                                                                                              | -0.71 (-0.86)**                                                                                                                                                                                                    | -1.02 (-1.28)                                                                                                                                                                                                      |
 | † Disability progression defined as 1-point increase in EDSS confirmed 3 months later ** p<0.001 compared to placebo All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset. | † Disability progression defined as 1-point increase in EDSS confirmed 3 months later ** p<0.001 compared to placebo All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset. | † Disability progression defined as 1-point increase in EDSS confirmed 3 months later ** p<0.001 compared to placebo All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset. |
 
 Study D2302 (TRANSFORMS) was a 1-year randomised, double-blind, double-dummy, active (interferon beta-1a)-controlled Phase III study of 1 280 patients (n=429 on 0.5 mg, 420 on 1.25 mg, 431 on interferon beta-1a, 30 µg by intramuscular injection once weekly). Median values for baseline characteristics were: age 36 years, disease duration 5.9 years, and EDSS score 2.0. Outcome results are shown in Table 3. There were no significant differences between the 0.5 mg and the 1.25 mg doses as regards study endpoints.
@@ -641,14 +632,12 @@ Table 3 Study D2302 (TRANSFORMS): main results
 | MRI endpoints                                                                                                                                                                                                                            |                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                          |
 | Median (mean) number of new or enlarging T2 lesions over 12 months                                                                                                                                                                       | 0.0 (1.7)*                                                                                                                                                                                                                               | 1.0 (2.6)                                                                                                                                                                                                                                |
 | Median (mean) number of Gd-enhancing lesions at 12 months                                                                                                                                                                                | 0.0 (0.2)**                                                                                                                                                                                                                              | 0.0 (0.5)                                                                                                                                                                                                                                |
-| Median (mean) %change in brain volume over 12 months                                                                                                                                                                                     | -0.2 (-0.3)**                                                                                                                                                                                                                            | -0.4 (-0.5)                                                                                                                                                                                                                              |
+| Median (mean) % change in brain volume over 12 months                                                                                                                                                                                    | -0.2 (-0.3)**                                                                                                                                                                                                                            | -0.4 (-0.5)                                                                                                                                                                                                                              |
 | † Disability progression defined as 1-point increase in EDSS confirmed 3 months later. * p<0.01,** p<0.001, compared to interferon beta-1a All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset. | † Disability progression defined as 1-point increase in EDSS confirmed 3 months later. * p<0.01,** p<0.001, compared to interferon beta-1a All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset. | † Disability progression defined as 1-point increase in EDSS confirmed 3 months later. * p<0.01,** p<0.001, compared to interferon beta-1a All analyses of clinical endpoints were intent-to-treat. MRI analyses used evaluable dataset. |
-
-Patients who completed the 12-month core TRANSFORMS study could enter a dose-blinded extension (D2302E1) and receive fingolimod. In total, 1 030 patients entered, however, 3 of these patients did not receive treatment (n=356 continued on 0.5 mg, 330 continued on 1.25 mg, 167 switched from interferon beta-1a to 0.5 mg and 174 from interferon beta-1a to 1.25 mg). After
 
 <div style=\"page-break-after: always\"></div>
 
-12 months (month 24), 882 patients (86%) were still enrolled. Between months 12 and 24, the ARR for patients on fingolimod 0.5 mg in the core study who remained on 0.5 mg was 0.20 (0.19 in the core study). The ARR for patients who switched from interferon beta-1a to fingolimod 0.5 mg was 0.33 (0.48 in the core study).
+Patients who completed the 12-month core TRANSFORMS study could enter a dose-blinded extension (D2302E1) and receive fingolimod. In total, 1 030 patients entered, however, 3 of these patients did not receive treatment (n=356 continued on 0.5 mg, 330 continued on 1.25 mg, 167 switched from interferon beta-1a to 0.5 mg and 174 from interferon beta-1a to 1.25 mg). After 12 months (month 24), 882 patients (86%) were still enrolled. Between months 12 and 24, the ARR for patients on fingolimod 0.5 mg in the core study who remained on 0.5 mg was 0.20 (0.19 in the core study). The ARR for patients who switched from interferon beta-1a to fingolimod 0.5 mg was 0.33 (0.48 in the core study).
 
 Pooled results of Studies D2301 and D2302 showed a consistent and statistically significant reduction in annualised relapse rate compared to comparator in subgroups defined by gender, age, prior multiple sclerosis therapy, disease activity or disability levels at baseline.
 
@@ -683,11 +672,11 @@ Table 4 Study D2311 (PARADIGMS): main results
 
 All analyses of clinical endpoints were on the full analysis set.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.2 Pharmacokinetic properties
 
 Pharmacokinetic data were obtained in healthy adult volunteers, in renal transplant adult patients and in multiple sclerosis adult patients.
-
-<div style=\"page-break-after: always\"></div>
 
 The pharmacologically active metabolite responsible for efficacy is fingolimod phosphate.
 
@@ -715,11 +704,11 @@ Fingolimod blood clearance is 6.3  2.3 l/h, and the average apparent terminal
 
 After oral administration, about 81% of the dose is slowly excreted in the urine as inactive metabolites. Fingolimod and fingolimod phosphate are not excreted intact in urine but are the major components in the faeces, with amounts representing less than 2.5% of the dose each. After 34 days, the recovery of the administered dose is 89%.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Linearity
 
 Fingolimod and fingolimod phosphate concentrations increase in an apparently dose proportional manner after multiple once-daily doses of 0.5 mg or 1.25 mg.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Characteristics in specific groups of patients
 
@@ -753,9 +742,9 @@ No evidence of carcinogenicity was observed in a 2-year bioassay in rats at oral
 
 Fingolimod was neither mutagenic nor clastogenic in animal studies.
 
-Fingolimod had no effect on sperm count/motility or on fertility in male and female rats up to the highest dose tested (10 mg/kg), representing an approximate 150-fold margin based on human systemic exposure (AUC) at a daily dose of 0.5 mg.
-
 <div style=\"page-break-after: always\"></div>
+
+Fingolimod had no effect on sperm count/motility or on fertility in male and female rats up to the highest dose tested (10 mg/kg), representing an approximate 150-fold margin based on human systemic exposure (AUC) at a daily dose of 0.5 mg.
 
 Fingolimod was teratogenic in the rat when given at doses of 0.1 mg/kg or higher. Drug exposure in rats at this dose was similar to that in patients at the therapeutic dose (0.5 mg). The most common foetal visceral malformations included persistent truncus arteriosus and ventricular septum defect. The teratogenic potential in rabbits could not be fully assessed, however an increased embryo-foetal mortality was seen at doses of 1.5 mg/kg and higher, and a decrease in viable foetuses as well as foetal growth retardation was seen at 5 mg/kg. Drug exposure in rabbits at these doses was similar to that in patients.
 
@@ -779,15 +768,17 @@ Capsule shell Gelatin Titanium dioxide (E171) Yellow iron oxide (E172)
 
 Printing ink Shellac (E904) Black iron oxide (E172) Propylene glycol (E1520) Ammonia solution, concentrated (E527)
 
+<div style=\"page-break-after: always\"></div>
+
 ## Gilenya 0.5 mg hard capsules
 
 Capsule fill Mannitol Magnesium stearate
 
-<div style=\"page-break-after: always\"></div>
-
 Capsule shell Gelatin Titanium dioxide (E171) Yellow iron oxide (E172)
 
-Printing ink Shellac (E904) Ethanol, anhydrous Isopropyl alcohol Butyl alcohol Propylene glycol (E1520) Purified water Ammonia solution, concentrated (E527) Potassium hydroxide Black iron oxide (E172) Yellow iron oxide (E172) Titanium dioxide (E171)
+## Printing ink
+
+Shellac (E904) Ethanol, anhydrous Isopropyl alcohol Butyl alcohol Propylene glycol (E1520) Purified water Ammonia solution, concentrated (E527) Potassium hydroxide Black iron oxide (E172) Yellow iron oxide (E172) Titanium dioxide (E171)
 
 Dimethicone
 
@@ -815,15 +806,21 @@ Store in the original package in order to protect from moisture.
 
 ## Gilenya 0.25 mg hard capsules
 
-PVC/PVDC/aluminium blister packs containing 7 or 28 hard capsules. PVC/PVDC/aluminium perforated unit dose blister packs containing 7x 1 hard capsules.
+PVC/PVDC/aluminium blister packs containing 7 or 28 hard capsules.
+
+PVC/PVDC/aluminium perforated unit dose blister packs containing 7x 1 hard capsules.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Gilenya 0.5 mg hard capsules
 
-PVC/PVDC/aluminium blister packs containing 7, 28 or 98 hard capsules. PVC/PVDC/aluminium blister packs containing 7 or 28 hard capsules presented in wallets or multipacks containing 84 (3 packs of 28) hard capsules presented in wallets. PVC/PVDC/aluminium perforated unit dose blister packs containing 7x 1 hard capsules.
+PVC/PVDC/aluminium blister packs containing 7, 28 or 98 hard capsules.
+
+PVC/PVDC/aluminium blister packs containing 7 or 28 hard capsules presented in wallets or multipacks containing 84 (3 packs of 28) hard capsules presented in wallets.
+
+PVC/PVDC/aluminium perforated unit dose blister packs containing 7x 1 hard capsules.
 
 Not all pack sizes may be marketed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.6 Special precautions for disposal
 
@@ -843,7 +840,9 @@ EU/1/11/677/007-009
 
 Gilenya 0.5 mg hard capsules
 
-EU/1/11/677/001-006 EU/1/11/677/010
+EU/1/11/677/001-006
+
+EU/1/11/677/010
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -854,8 +853,6 @@ Date of latest renewal: 16 November 2020
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
-
-27
 
 <div style=\"page-break-after: always\"></div>
 
@@ -878,9 +875,7 @@ Novartis Pharmaceutical Manufacturing LLC Verovskova Ulica 57 Ljubljana, 1000 Sl
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
-## Gilenya 0.5 mg hard capsules
-
-Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
+Gilenya 0.5 mg hard capsules Novartis Farmacéutica, S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
 Lek Pharmaceuticals d.d. Verovskova Ulica 57 Ljubljana, 1526 Slovenia
 
@@ -937,7 +932,7 @@ The physician's checklist shall contain the following key messages:
 
 <div style=\"page-break-after: always\"></div>
 
-| Macular oedema                                                                                                             | • Obtain an ophthalmological assessment before starting GILENYA in patients with diabetes or a history of uveitis. • Obtain an ophthalmological assessment in all patients 3 to 4 months after initiating GILENYA. • It is recommended to discontinue GILENYA in patients who develop macular degeneration. Restart GILENYA only after careful consideration of benefit- risk.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Macular oedema                                                                                                             | • Obtain an ophthalmological assessment before starting GILENYA in patients with diabetes or a history of uveitis. • Obtain an ophthalmological assessment in all patients 3 to 4 months after initiating GILENYA. • It is recommended to discontinue GILENYA in patients who develop macular oedema. Restart GILENYA only after careful consideration of benefit- risk.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Opportunistic infections including varicella zoster virus (VZV), herpes viral infections other than VZV, fungal infections | • Do not initiate GILENYA in patients with immunodeficiency syndrome, increased risk for opportunistic infections including immunocompromised patients or severe active or active chronic infections (i.e. hepatitis or tuberculosis). • GILENYA may be initiated in patients who have had severe active infection that has resolved. • Anti-neoplastic, immunomodulatory or immunosuppressive therapies should not be co- administered due to the risk of additive immune system effects. Carefully consider any decision regarding prolonged concomitant corticosteroid use. • Monitor peripheral blood lymphocyte counts prior to and during treatment with GILENYA. Interrupt treatment for lymphocyte count <0.2x10 9 /l until recovery. • Instruct patients to report signs and symptoms of infections during, and for up to two months after, treatment with GILENYA. • For potentially serious infections, evaluate the patient promptly and consider an infectious disease referral. Consider suspending GILENYA and the benefit-risk of any subsequent reinitiation. • Be aware that serious, life-threatening and sometimes fatal cases of opportunistic infections of the central nervous system (CNS) have occurred on GILENYA treatment, including herpes viral infection (encephalitis, meningitis and meningo-encephalitis; observed at any time) and cryptococcal meningitis, (observed after approximately 2-3 years). • GILENYA should be discontinued in patients with CNS herpes infections. GILENYA should be suspended in patients with cryptococcal meningitis with careful consideration with a specialist before reinitiating. • Inform patients that during GILENYA treatment, they should not receive live attenuated vaccines and that other vaccines may be less effective. • Prior to initiation of GILENYA, check varicella status and recommend a full course of vaccination for VZV in anti-body negative patients. Postpone initiation of treatment for 1 month to allow the full effect of vaccination. • Recommend vaccination against human papilloma virus (HPV) prior to initiation of treatment. |
 
@@ -1051,11 +1046,9 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 EU/1/11/677/008
 
-28 capsules
+28 capsules 7 capsules
 
 EU/1/11/677/009
-
-7 capsules
 
 ## 13. BATCH NUMBER
 
@@ -1083,17 +1076,19 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTERS FOR UNIT PACK                               |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS FOR UNIT PACK                                |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-GILENYA 0.25 mg hard capsules fingolimod
+GILENYA 0.25 mg hard capsules
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+fingolimod
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Novartis Europharm Limited
 
@@ -1110,9 +1105,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-Monday Tuesday Wednesday Thursday Friday Saturday
-
-Sunday
+Monday Tuesday Wednesday Thursday Friday Saturday Sunday
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1174,7 +1167,7 @@ EU/1/11/677/007
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1196,17 +1189,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| SINGLE-UNIT-DOSE BLISTERS                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| SINGLE-UNIT-DOSE BLISTERS                             |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 GILENYA 0.25 mg hard capsules fingolimod
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Novartis Europharm Limited
 
@@ -1223,15 +1216,15 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON OF UNIT PACK
+## CARTON OF UNIT PACK
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-GILENYA 0.5 mg hard capsules fingolimod
+GILENYA 0.5 mg hard capsules
+
+fingolimod
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1242,7 +1235,9 @@ One capsule contains 0.5 mg fingolimod (as hydrochloride).
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 - 7 hard capsules
+
 - 28 hard capsules
+
 - 98 hard capsules
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -1267,6 +1262,8 @@ EXP
 
 Do not store above 25°C.
 
+<div style=\"page-break-after: always\"></div>
+
 Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
@@ -1275,15 +1272,7 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building
-
-Elm Park, Merrion Road
-
-Dublin 4
-
-Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1303,8 +1292,7 @@ EU/1/11/677/010
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 
@@ -1328,13 +1316,12 @@ NN
 
 ## BLISTERS FOR UNIT PACK
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 GILENYA 0.5 mg hard capsules fingolimod
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Novartis Europharm Limited
 
@@ -1357,11 +1344,13 @@ Monday Tuesday Wednesday Thursday Friday Saturday Sunday
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON OF UNIT PACK -WALLET
+## CARTON OF UNIT PACK -WALLET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-GILENYA 0.5 mg hard capsules fingolimod
+GILENYA 0.5 mg hard capsules
+
+fingolimod
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1455,14 +1444,15 @@ Lot
 
 GILENYA 0.5 mg
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+<div style=\"page-break-after: always\"></div>
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -1554,7 +1544,9 @@ NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-GILENYA 0.5 mg hard capsules fingolimod
+GILENYA 0.5 mg hard capsules
+
+fingolimod
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1640,17 +1632,17 @@ GILENYA 0.5 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTERS FOR WALLET                                  |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS FOR WALLET                                   |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 GILENYA 0.5 mg fingolimod
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1725,7 +1717,7 @@ EU/1/11/677/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1747,15 +1739,6 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-| 5.   | OTHER   |
-|------|---------|
-
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 ## SINGLE-UNIT-DOSE BLISTERS
@@ -1764,19 +1747,23 @@ NN
 
 GILENYA 0.5 mg hard capsules fingolimod
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Novartis Europharm Limited
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1875,11 +1862,9 @@ If any of these applies to you or you are unsure, talk to your doctor before tak
 
 At the beginning of treatment or after taking the first dose of 0.5 mg when you switch from a 0.25 mg daily dose, Gilenya causes the heart rate to slow down. As a result, you may feel dizzy or tired, or be consciously aware of your heartbeat, or your blood pressure may drop. If these effects are severe, tell your doctor, because you may need treatment right away. Gilenya can also cause an irregular heartbeat, especially after the first dose. Irregular heartbeat usually returns to normal in less than one day. Slow heart rate usually returns to normal within one month. During this period, no clinically significant heart rate effects are usually expected.
 
-Your doctor will ask you to stay at the surgery or clinic for at least 6 hours, with hourly pulse and blood pressure measurements, after taking the first dose of Gilenya or after taking the first dose of 0.5 mg when you switch from a 0.25 mg daily dose, so that appropriate measures can be taken in the event of side effects that occur at the start of treatment. You should have an electrocardiogram performed prior to the first dose of Gilenya and after the 6-hour monitoring period. Your doctor may monitor your electrocardiogram continuously during that time. If after the 6-hour period you have a very slow or decreasing heart rate, or if your electrocardiogram shows abnormalities, you may need to
-
 <div style=\"page-break-after: always\"></div>
 
-be monitored for a longer period (at least 2 more hours and possibly overnight) until these have resolved. The same may apply if you are resuming Gilenya after a break in treatment, depending on both how long the break was and how long you had been taking Gilenya before the break.
+Your doctor will ask you to stay at the surgery or clinic for at least 6 hours, with hourly pulse and blood pressure measurements, after taking the first dose of Gilenya or after taking the first dose of 0.5 mg when you switch from a 0.25 mg daily dose, so that appropriate measures can be taken in the event of side effects that occur at the start of treatment. You should have an electrocardiogram performed prior to the first dose of Gilenya and after the 6-hour monitoring period. Your doctor may monitor your electrocardiogram continuously during that time. If after the 6-hour period you have a very slow or decreasing heart rate, or if your electrocardiogram shows abnormalities, you may need to be monitored for a longer period (at least 2 more hours and possibly overnight) until these have resolved. The same may apply if you are resuming Gilenya after a break in treatment, depending on both how long the break was and how long you had been taking Gilenya before the break.
 
 If you have, or if you are at risk for, an irregular or abnormal heartbeat, if your electrocardiogram is abnormal, or if you have heart disease or heart failure, Gilenya may not be appropriate for you.
 
@@ -1903,9 +1888,9 @@ PML is a rare brain disorder caused by an infection that may lead to severe disa
 
 If you believe your MS is getting worse or if you notice any new symptoms, for example changes in mood or behaviour, new or worsening weakness on one side of the body, changes in vision, confusion, memory lapses or speech and communication difficulties, talk to your doctor as soon as possible. These may be symptoms of PML. Also speak with your partner or caregivers and inform them about your treatment. Symptoms might arise that you might not become aware of by yourself.
 
-If you get PML it can be treated and your treatment with Gilenya will be stopped. Some people get an inflammatory reaction as Gilenya is removed from the body. This reaction (known as immune reconstitution inflammatory syndrome or IRIS) may lead to your condition getting worse, including worsening of brain function.
-
 <div style=\"page-break-after: always\"></div>
+
+If you get PML it can be treated and your treatment with Gilenya will be stopped. Some people get an inflammatory reaction as Gilenya is removed from the body. This reaction (known as immune reconstitution inflammatory syndrome or IRIS) may lead to your condition getting worse, including worsening of brain function.
 
 ## Macular oedema
 
@@ -1945,9 +1930,9 @@ Gilenya has a slight effect on the lung function. Patients with severe lung prob
 
 The desired effect of Gilenya treatment is to reduce the amount of white blood cells in your blood. This will usually go back to normal within 2 months of stopping treatment. If you need to have any blood tests, tell the doctor that you are taking Gilenya. Otherwise, it may not be possible for the doctor to understand the results of the test, and for certain types of blood test your doctor may need to take more blood than usual.
 
-Before you start Gilenya, your doctor will confirm whether you have enough white blood cells in your blood and may want to repeat a check regularly. In case you do not have enough white blood cells, you may have to interrupt treatment with Gilenya.
-
 <div style=\"page-break-after: always\"></div>
+
+Before you start Gilenya, your doctor will confirm whether you have enough white blood cells in your blood and may want to repeat a check regularly. In case you do not have enough white blood cells, you may have to interrupt treatment with Gilenya.
 
 ## Posterior reversible encephalopathy syndrome (PRES)
 
@@ -1976,7 +1961,7 @@ Your doctor may switch you directly from beta interferon, glatiramer acetate or 
 
 ## Women of childbearing potential
 
-If used during pregnancy, Gilenya can harm the unborn baby. Before you start treatment with Gilenya your doctor will explain the risk to you and ask you to do a pregnancy test in order to ensure that you are not pregnant. Your doctor will give you a card which explains why you should not become pregnant while taking Gilenya. It also explains what you should do to avoid becoming pregnant while you are taking Gilenya. You must use effective contraception during treatment and for 2 months after stopping treatm ent (see section 'Pregnancy and breastfeeding').
+If used during pregnancy, Gilenya can harm the unborn baby. Before you start treatment with Gilenya your doctor will explain the risk to you and ask you to do a pregnancy test in order to ensure that you are not pregnant. Your doctor will give you a card which explains why you should not become pregnant while taking Gilenya. It also explains what you should do to avoid becoming pregnant while you are taking Gilenya. You must use effective contraception during treatment and for 2 months after stopping treatment (see section 'Pregnancy and breastfeeding').
 
 ## Worsening of MS after stopping Gilenya treatment
 
@@ -1984,11 +1969,11 @@ Do not stop taking Gilenya or change your dose without talking to your doctor fi
 
 Tell your doctor straight away if you think your MS is getting worse after you have stopped treatment with Gilenya. This could be serious (s ee 'If you stop taking Gilenya' in section 3, and also section 4, 'Possible side effects').
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elderly
 
 Experience with Gilenya in elderly patients (over 65 years) is limited. Talk to your doctor if you have any concerns.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Children and adolescents
 
@@ -2014,8 +1999,6 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 - o protease inhibitors, anti-infectives such as ketoconazole, azole antifungals, clarithromycin or telithromycin.
 - o carbamazepine, rifampicine, phenobarbital, phenytoin, efavirenz or St. John's Wort (potential risk of reduced efficacy of Gilenya).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pregnancy and breast-feeding
 
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
@@ -2023,6 +2006,8 @@ If you are pregnant or breast-feeding, think you may be pregnant or are planning
 ## Pregnancy
 
 Do not use Gilenya during pregnancy, if you are trying to become pregnant or if you are a woman who could become pregnant and you are not using effective contraception. If Gilenya is used during pregnancy, there is a risk of harm to the unborn baby. The rate of congenital malformations observed in babies exposed to Gilenya during pregnancy is about 2 times the rate observed in the general population (in whom the rate of congenital malformations is about 2-3%). The most frequently reported malformations included cardiac, renal and musculoskeletal malformations.
+
+<div style=\"page-break-after: always\"></div>
 
 Therefore, if you are a woman of childbearing potential:
 
@@ -2058,8 +2043,6 @@ The recommended dose is:
 
 The dose is one 0.5 mg capsule per day.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Children and adolescents (10 years of age and above):
 
 ## The dose depends on body weight:
@@ -2068,6 +2051,8 @@ The dose is one 0.5 mg capsule per day.
 - Children and adolescents with body weight above 40 kg : one 0.5 mg capsule per day.
 
 Children and adolescents who start on one 0.25 mg capsule per day and later reach a stable body weight above 40 kg will be instructed by their doctor to switch to one 0.5 mg capsule per day. In this case, it is recommended to repeat the first-dose observation period.
+
+<div style=\"page-break-after: always\"></div>
 
 Do not exceed the recommended dose.
 
@@ -2111,7 +2096,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Some side effects could be or could become serious
 
-## Common (may affect up to 1 in 10 people)
+Common (may affect up to 1 in 10 people)
 
 - -Coughing with phlegm, chest discomfort, fever (signs of lung disorders)
 - -Herpes virus infection (shingles or herpes zoster) with symptoms such as blisters, burning, itching or pain of the skin, typically on the upper body or the face. Other symptoms may be fever and weakness in the early stages of infection, followed by numbness, itching or red patches with severe pain
@@ -2126,38 +2111,37 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - -Macular oedema (swelling in the central vision area of the retina at the back of the eye) with symptoms such as shadows or blind spot in the centre of the vision, blurred vision, problems seeing colours or details
 - -Reduction in blood platelets which increases risk of bleeding or bruising
 - -Malignant melanoma (a type of skin cancer which usually develops from an unusual mole). Possible signs of melanoma include moles which may change size, shape, elevation or colour over time, or new moles. The moles may itch, bleed or ulcerate
+- -Squamous cell carcinoma: a type of skin cancer which may present as a firm red nodule, a sore with crust, or a new sore on an existing scar
 - -Convulsion, fits (more frequent in children and adolescents than in adults)
 
 ## Rare (may affect up to 1 in 1 000 people)
 
 - -A condition called posterior reversible encephalopathy syndrome (PRES). Symptoms may include sudden onset of severe headache, confusion, seizures and/or vision disturbances
 - -Lymphoma (a type of cancer that affects the lymph system)
-- -Squamous cell carcinoma: a type of skin cancer which may present as a firm red nodule, a sore with crust, or a new sore on an existing scar
 
 ## Very rare (may affect up to 1 in 10 000 people)
 
 - -Electrocardiogram anomaly (T-wave inversion)
 - -Tumour related to infection with human herpes virus 8 (Kaposi's sarcoma)
 
-## Not known (frequency cannot be estimated from the available data)
+<div style=\"page-break-after: always\"></div>
+
+Not known (frequency cannot be estimated from the available data)
 
 - -Allergic reactions, including symptoms of rash or itchy hives, swelling of lips, tongue or face, which are more likely to occur on the day you start Gilenya treatment
 - -Signs of liver disease (including liver failure), such as yellowing of your skin or the whites of your eyes (jaundice), nausea or vomiting, pain on the right side of your stomach area (abdomen), dark urine (brown coloured), feeling less hungry than usual, tiredness and abnormal liver function tests. In a very small number of cases, liver failure could lead to liver transplantation
 - -Risk of a rare brain infection called progressive multifocal leukoencephalopathy (PML). The symptoms of PML may be similar to an MS relapse. Symptoms might also arise that you might not become aware of by yourself, such as changes in mood or behaviour, memory lapses, speech and communication difficulties, which your doctor may need to investigate further to rule out PML. Therefore, if you believe your MS is getting worse or if you or those close to you notice any new or unusual symptoms, it is very important that you speak to your doctor as soon as possible
 - -Inflammatory disorder after stopping Gilenya treatment (known as immune reconstitution inflammatory syndrome or IRIS)
-
-<div style=\"page-break-after: always\"></div>
-
 - -Cryptococcal infections (a type of fungal infection), including cryptococcal meningitis with symptoms such as headache accompanied by stiff neck, sensitivity to light, nausea, and/or confusion
 - -Merkel cell carcinoma (a type of skin cancer). Possible signs of Merkel cell carcinoma include flesh-coloured or bluish-red, painless nodule, often on the face, head or neck. Merkel cell carcinoma can also present as a firm painless nodule or mass. Long-term exposure to the sun and a weak immune system can affect the risk of developing Merkel cell carcinoma.
 - -After Gilenya treatment is stopped, symptoms of MS can return and may become worse than they were before or during treatment.
 - -Autoimmune form of anaemia (decreased amount of red blood cells) where red blood cells are destroyed (autoimmune haemolytic anaemia).
 
-## If you experience any of these, tell your doctor straight away .
+If you experience any of these, tell your doctor straight away .
 
 ## Other side effects
 
-## Very common (may affect more than 1 in 10 people)
+Very common (may affect more than 1 in 10 people)
 
 - -Infection from flu virus with symptoms such as tiredness, chills, sore throat, aching in the joints or muscles, fever
 - -Feeling of pressure or pain in the cheeks and forehead (sinusitis)
@@ -2167,7 +2151,9 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - -Blood testing showing higher levels of liver enzymes
 - -Cough
 
-## Common (may affect up to 1 in 10 people)
+<div style=\"page-break-after: always\"></div>
+
+Common (may affect up to 1 in 10 people)
 
 - -Ringworm, a fungal infection of the skin (tinea versicolor)
 - -Dizziness
@@ -2185,23 +2171,21 @@ Like all medicines, this medicine can cause side effects, although not everybody
 - -Muscle pain
 - -Joint pain
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people)
 
 - -Low level of certain white blood cells (neutrophils)
 - -Depressed mood
 - -Nausea
 
-## Rare (may affect up to 1 in 1 000 people)
+Rare (may affect up to 1 in 1 000 people)
 
 - -Cancer of the lymphatic system (lymphoma)
 
-## Not known (frequency cannot be estimated from the available data)
+Not known (frequency cannot be estimated from the available data)
 
 - -Peripheral swelling
 
 If any of these affects you severely, tell your doctor
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -2215,9 +2199,13 @@ Do not use this medicine after the expiry date which is stated on the carton and
 
 Do not store above 25ºC.
 
-Store in the original package in order to protect from moisture. Do not use this medicine if you notice that the pack is damaged or shows signs of tampering.
+Store in the original package in order to protect from moisture.
+
+Do not use this medicine if you notice that the pack is damaged or shows signs of tampering.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
@@ -2230,11 +2218,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - -Each capsule contains 0.25 mg fingolimod (as hydrochloride).
 - -The other ingredients are:
 
-Capsule fill : mannitol, hydroxypropylcellulose, hydroxypropylbetadex, magnesium stearate.
-
-: gelatin, titanium dioxide (E171), yellow iron oxide (E172).
-
-Capsule shell
+Capsule fill : mannitol, hydroxypropylcellulose, hydroxypropylbetadex, magnesium stearate. Capsule shell : gelatin, titanium dioxide (E171), yellow iron oxide (E172).
 
 Printing ink : shellac (E904), black iron oxide (E172), propylene glycol (E1520), ammonia solution, concentrated (E527).
 
@@ -2243,13 +2227,9 @@ Printing ink : shellac (E904), black iron oxide (E172), propylene glycol (E1520)
 - -Each capsule contains 0.5 mg fingolimod (as hydrochloride).
 - -The other ingredients are:
 
-Capsule fill
+Capsule fill : mannitol, magnesium stearate.
 
-: mannitol, magnesium stearate.
-
-: gelatin, titanium dioxide (E171), yellow iron oxide (E172).
-
-Capsule shell
+Capsule shell : gelatin, titanium dioxide (E171), yellow iron oxide (E172).
 
 Printing ink : shellac (E904), ethanol anhydrous, isopropyl alcohol, butyl alcohol, propylene glycol (E1520), purified water, ammonia solution, concentrated (E527), potassium hydroxide, black iron oxide (E172), yellow iron oxide (E172), titanium dioxide (E171), dimethicone.
 
@@ -2277,19 +2257,15 @@ Lek Pharmaceuticals d.d. Verovskova Ulica 57 Ljubljana, 1526 Slovenia
 
 Novartis Pharmaceutical Manufacturing LLC Verovskova Ulica 57 Ljubljana, 1000 Slovenia
 
-Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
+Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+<div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien
 
 Novartis Pharma N.V.
 
 Tél/Tel: +32 2 246 16 11
-
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
@@ -2299,35 +2275,15 @@ Novartis Bulgaria EOOD
 
 .: +359 2 489 98 28
 
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
-
 ## Česká republika
 
 Novartis s.r.o.
 
 Tel: +420 225 775 111
 
-## Magyarország
-
-Novartis Hungária Kft.
-
-Tel.: +36 1 457 65 00
-
 ## Danmark
 
-Novartis Healthcare A/S
-
-Tlf.: +45 39 16 84 00
-
-## Malta
-
-Novartis Pharma Services Inc.
-
-Tel: +356 2122 2872
+Novartis Healthcare A/S Tlf.: +45 39 16 84 00
 
 ## Deutschland
 
@@ -2335,83 +2291,29 @@ Novartis Pharma GmbH
 
 Tel: +49 911 273 0
 
-## Nederland
-
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
-
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal
-
-Tel: +372 66 30 810
-
-## Norge
-
-Novartis Norge AS
-
-Tlf: +47 23 05 20 00
-
-<div style=\"page-break-after: always\"></div>
+SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
 
 ## Ελλάδα
 
-## Österreich
-
-Novartis (Hellas) A.E.B.E.
-
-Τηλ: +30 210 281 17 12
-
-Novartis Pharma GmbH
-
-Tel: +43 1 86 6570
+Novartis (Hellas) A.E.B.E. Τηλ : +30 210 281 17 12
 
 ## España
 
-Novartis Farmacéutica, S.A.
-
-Tel: +34 93 306 42 00
-
-## Polska
-
-Novartis Poland Sp. z o.o.
-
-Tel.: +48 22 375 4888
+Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
 
 ## France
 
-Novartis Pharma S.A.S.
-
-Tél: +33 1 55 47 66 00
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
+Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
 
 ## Hrvatska
 
-Novartis Hrvatska d.o.o.
-
-Tel. +385 1 6274 220
-
-## România
-
-Novartis Pharma Services Romania SRL
-
-Tel: +40 21 31299 01
+Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
 
 ## Ireland
 
-Novartis Ireland Limited
-
-Tel: +353 1 260 12 55
-
-## Slovenija
-
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
+Novartis Ireland Limited Tel: +353 1 260 12 55
 
 ## Ísland
 
@@ -2419,17 +2321,65 @@ Vistor hf.
 
 Sími: +354 535 7000
 
-## Slovenská republika
-
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
-
 ## Italia
 
 Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
+
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+
+## Magyarország
+
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
+
+## Malta
+
+Novartis Pharma Services Inc. Tel: +356 2122 2872
+
+## Nederland
+
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
+
+## Norge
+
+Novartis Norge AS Tlf: +47 23 05 20 00
+
+## Österreich
+
+Novartis Pharma GmbH Tel: +43 1 86 6570
+
+## Polska
+
+Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
+
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
+
+## România
+
+Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
+
+## Slovenija
+
+Novartis Pharma Services Inc. Tel: +386 1 300 75 50
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
 
 ## Suomi/Finland
 
@@ -2437,17 +2387,13 @@ Novartis Finland Oy
 
 Puh/Tel: +358 (0)10 6133 200
 
+<div style=\"page-break-after: always\"></div>
+
 ## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00
 
 ## Latvija
 
@@ -2460,3 +2406,9 @@ Tel: +371 67 887 070
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00

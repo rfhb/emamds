@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/privigen.html
 document_name: privigen.html
 version: success
-processing_time: 0.1593008
-conversion_datetime: 2026-08-01 11:34:39.031067
+processing_time: 0.1405445
+conversion_datetime: 2026-08-01 11:52:08.601127
 docling_version:
   docling-serve: 1.29.0
   docling-jobkit: 3.2.0

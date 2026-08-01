@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-08 11:32:00
+document_datetime: 2026-07-30 13:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mayzent.html
 document_name: mayzent.html
 version: success
-processing_time: 0.1171667
-conversion_datetime: 2026-05-10 12:22:45.720685
+processing_time: 0.3520533
+conversion_datetime: 2026-08-01 11:35:39.375556
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Mayzent
 
@@ -39,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Mayzent](#news-on)
 - [More information on Mayzent](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -57,7 +56,7 @@ Expand section
 
 Collapse section
 
-## How is Mayzent used?
+### How is Mayzent used?
 
 Mayzent can only be obtained with a prescription and treatment should be started and supervised by a doctor experienced in the management of MS.
 
@@ -65,19 +64,19 @@ Mayzent is available as tablets and should be taken once a day. Treatment is sta
 
 For more information about using Mayzent, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Mayzent work?
+### How does Mayzent work?
 
 In MS, the immune system (the body's defences) attacks and damages the protective sheath around the nerves in the brain and spinal cord.
 
 The active substance in Mayzent, siponimod, blocks the action of some receptors (targets) on cells called sphingosine-1-phosphate receptors, which are involved in the movement of lymphocytes (immune cells) around the body. By attaching to these receptors, siponimod stops lymphocytes from travelling from the lymph nodes towards the brain and spinal cord, thus limiting the damage they cause in MS.
 
-## What benefits of Mayzent have been shown in studies?
+### What benefits of Mayzent have been shown in studies?
 
 Mayzent was shown to be effective at delaying the progression of the disease in a 3-year main study involving 1,651 patients with secondary progressive MS, of whom 779 had active disease with a relapse within 2 years or other signs of inflammation in scans.
 
 Disease progression was defined as worsening of the disease that is independent from a relapse and is maintained over at least 3 months, as assessed using a standard scale called EDSS. During the study, 25% of patients with active secondary progressive MS taking Mayzent had disease progression compared with 35% of patients taking placebo (a dummy treatment).
 
-## What are the risks associated with Mayzent?
+### What are the risks associated with Mayzent?
 
 The most common side effects with Mayzent (which may affect more than 1 in 10 people) are headache and hypertension (high blood pressure).
 
@@ -85,7 +84,7 @@ Mayzent must not be used in patients who are hypersensitive (allergic) to siponi
 
 Mayzent must also not be used in patients who have inherited a gene known as CYP2C9*3 from both parents, which makes them unable to process the medicine fast enough. For the full list of side effects and restrictions of Mayzent, see the package leaflet.
 
-## Why is Mayzent authorised in the EU?
+### Why is Mayzent authorised in the EU?
 
 Mayzent was effective at delaying the progression of secondary progressive MS in patients with active disease; however, the beneficial effects of the medicine were not demonstrated in patients without an active disease. The European Medicines Agency therefore decided that Mayzent should only be used in patients whose disease is active with signs of inflammation.
 
@@ -93,7 +92,7 @@ The side effects with Mayzent are similar to those with another medicine (fingol
 
 The Agency therefore decided that Mayzent's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Mayzent?
+### What measures are being taken to ensure the safe and effective use of Mayzent?
 
 The company that markets Mayzent will ensure that doctors expected to prescribe the medicine receive educational materials, including a checklist covering the necessary screening, pre-treatment and long-term monitoring of patients. The materials will include a guide for patients with key safety information about Mayzent, as well as a pregnancy reminder card for women who can become pregnant.
 
@@ -101,7 +100,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Mayzent are continuously monitored. Side effects reported with Mayzent are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Mayzent
+### Other information about Mayzent
 
 Mayzent received a marketing authorisation valid throughout the EU on 13 January 2020.
 
@@ -115,7 +114,7 @@ English (EN) (120.12 KB - PDF)
 
 [View](/en/documents/overview/mayzent-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-276)
+[Other languages (22)](#file-language-dropdown-756)
 
 български (BG) (143.5 KB - PDF)
 
@@ -147,7 +146,7 @@ Deutsch (DE) (121.97 KB - PDF)
 
 [View](/de/documents/overview/mayzent-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (107.12 KB - PDF)
+eesti (ET) (107.12 KB - PDF)
 
 **First published:** 23/01/2020
 
@@ -177,13 +176,13 @@ italiano (IT) (117.88 KB - PDF)
 
 [View](/it/documents/overview/mayzent-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (150.98 KB - PDF)
+latviešu (LV) (150.98 KB - PDF)
 
 **First published:** 23/01/2020
 
 [View](/lv/documents/overview/mayzent-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (140.77 KB - PDF)
+lietuvių (LT) (140.77 KB - PDF)
 
 **First published:** 23/01/2020
 
@@ -237,7 +236,7 @@ slovenščina (SL) (138.77 KB - PDF)
 
 [View](/sl/documents/overview/mayzent-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (116.37 KB - PDF)
+suomi (FI) (116.37 KB - PDF)
 
 **First published:** 23/01/2020
 
@@ -261,167 +260,168 @@ English (EN) (3.21 MB - PDF)
 
 Mayzent : EPAR - Product information
 
-English (EN) (892.77 KB - PDF)
+English (EN) (1.24 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/en/documents/product-information/mayzent-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-629)
+[Other languages (24)](#file-language-dropdown-295)
 
-български (BG) (1017.24 KB - PDF)
+български (BG) (1.67 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/bg/documents/product-information/mayzent-epar-product-information_bg.pdf)
 
-español (ES) (948.54 KB - PDF)
+español (ES) (1.57 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/es/documents/product-information/mayzent-epar-product-information_es.pdf)
 
-čeština (CS) (997.45 KB - PDF)
+čeština (CS) (1.65 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/cs/documents/product-information/mayzent-epar-product-information_cs.pdf)
 
-dansk (DA) (910.14 KB - PDF)
+dansk (DA) (1.55 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/da/documents/product-information/mayzent-epar-product-information_da.pdf)
 
-Deutsch (DE) (966.57 KB - PDF)
+Deutsch (DE) (1.61 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/de/documents/product-information/mayzent-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.05 MB - PDF)
+eesti (ET) (1.87 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/et/documents/product-information/mayzent-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.02 MB - PDF)
+ελληνικά (EL) (1.74 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/el/documents/product-information/mayzent-epar-product-information_el.pdf)
 
-français (FR) (1.01 MB - PDF)
+français (FR) (1.73 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/fr/documents/product-information/mayzent-epar-product-information_fr.pdf)
 
-hrvatski (HR) (977.79 KB - PDF)
+hrvatski (HR) (1.65 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/hr/documents/product-information/mayzent-epar-product-information_hr.pdf)
 
-íslenska (IS) (962.33 KB - PDF)
+italiano (IT) (1.61 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
-
-[View](/is/documents/product-information/mayzent-epar-product-information_is.pdf)
-
-italiano (IT) (952.6 KB - PDF)
-
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/it/documents/product-information/mayzent-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (929.47 KB - PDF)
+latviešu (LV) (1.56 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/lv/documents/product-information/mayzent-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (982.73 KB - PDF)
+lietuvių (LT) (1.6 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/lt/documents/product-information/mayzent-epar-product-information_lt.pdf)
 
-magyar (HU) (994.83 KB - PDF)
+magyar (HU) (1.63 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/hu/documents/product-information/mayzent-epar-product-information_hu.pdf)
 
-Malti (MT) (1.04 MB - PDF)
+Malti (MT) (1.76 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/mt/documents/product-information/mayzent-epar-product-information_mt.pdf)
 
-Nederlands (NL) (960.55 KB - PDF)
+Nederlands (NL) (1.6 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/nl/documents/product-information/mayzent-epar-product-information_nl.pdf)
 
-norsk (NO) (934.35 KB - PDF)
+polski (PL) (1.7 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
-
-[View](/no/documents/product-information/mayzent-epar-product-information_no.pdf)
-
-polski (PL) (1.01 MB - PDF)
-
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/pl/documents/product-information/mayzent-epar-product-information_pl.pdf)
 
-português (PT) (1011.13 KB - PDF)
+português (PT) (1.69 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/pt/documents/product-information/mayzent-epar-product-information_pt.pdf)
 
-română (RO) (1003.2 KB - PDF)
+română (RO) (1.69 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/ro/documents/product-information/mayzent-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.03 MB - PDF)
+slovenčina (SK) (1.77 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/sk/documents/product-information/mayzent-epar-product-information_sk.pdf)
 
-slovenščina (SL) (969.99 KB - PDF)
+slovenščina (SL) (1.63 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/sl/documents/product-information/mayzent-epar-product-information_sl.pdf)
 
-Suomi (FI) (896.52 KB - PDF)
+suomi (FI) (1.53 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/fi/documents/product-information/mayzent-epar-product-information_fi.pdf)
 
-svenska (SV) (893.51 KB - PDF)
+svenska (SV) (1.51 MB - PDF)
 
-**First published:** 23/01/2020 **Last updated:** 08/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
 
 [View](/sv/documents/product-information/mayzent-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000339988
+Íslenska (IS) (1.65 MB - PDF)
 
-06/05/2026
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
+
+[View](/is/documents/product-information/mayzent-epar-product-information_is.pdf)
+
+norsk (NO) (1.56 MB - PDF)
+
+**First published:** 23/01/2020 **Last updated:** 30/07/2026
+
+[View](/no/documents/product-information/mayzent-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000338609
+
+04/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -439,7 +439,7 @@ English (EN) (93.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mayzent-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-997)
+[Other languages (24)](#file-language-dropdown-193)
 
 български (BG) (103.15 KB - PDF)
 
@@ -471,7 +471,7 @@ Deutsch (DE) (95.72 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/mayzent-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (94.28 KB - PDF)
+eesti (ET) (94.28 KB - PDF)
 
 **First published:** 23/01/2020 **Last updated:** 18/02/2022
 
@@ -495,25 +495,19 @@ hrvatski (HR) (95.72 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/mayzent-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (96.09 KB - PDF)
-
-**First published:** 23/01/2020 **Last updated:** 18/02/2022
-
-[View](/is/documents/all-authorised-presentations/mayzent-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (94.15 KB - PDF)
 
 **First published:** 23/01/2020 **Last updated:** 18/02/2022
 
 [View](/it/documents/all-authorised-presentations/mayzent-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (98.58 KB - PDF)
+latviešu (LV) (98.58 KB - PDF)
 
 **First published:** 23/01/2020 **Last updated:** 18/02/2022
 
 [View](/lv/documents/all-authorised-presentations/mayzent-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (99.18 KB - PDF)
+lietuvių (LT) (99.18 KB - PDF)
 
 **First published:** 23/01/2020 **Last updated:** 18/02/2022
 
@@ -536,12 +530,6 @@ Nederlands (NL) (93.07 KB - PDF)
 **First published:** 23/01/2020 **Last updated:** 18/02/2022
 
 [View](/nl/documents/all-authorised-presentations/mayzent-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (94.94 KB - PDF)
-
-**First published:** 23/01/2020 **Last updated:** 18/02/2022
-
-[View](/no/documents/all-authorised-presentations/mayzent-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (98.96 KB - PDF)
 
@@ -573,7 +561,7 @@ slovenščina (SL) (92.97 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/mayzent-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (93.35 KB - PDF)
+suomi (FI) (93.35 KB - PDF)
 
 **First published:** 23/01/2020 **Last updated:** 18/02/2022
 
@@ -585,27 +573,30 @@ svenska (SV) (94.64 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/mayzent-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (96.09 KB - PDF)
+
+**First published:** 23/01/2020 **Last updated:** 18/02/2022
+
+[View](/is/documents/all-authorised-presentations/mayzent-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (94.94 KB - PDF)
+
+**First published:** 23/01/2020 **Last updated:** 18/02/2022
+
+[View](/no/documents/all-authorised-presentations/mayzent-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Mayzent
-
-Active substance
-
-siponimod fumaric acid
-
-International non-proprietary name (INN) or common name
-
-siponimod
-
-Therapeutic area (MeSH)
-
-Multiple Sclerosis, Relapsing-Remitting
-
-Anatomical therapeutic chemical (ATC) code
-
-L04
+- **Name of medicine**
+    - Mayzent
+- **Active substance**
+    - siponimod fumaric acid
+- **International non-proprietary name (INN) or common name**
+    - siponimod
+- **Therapeutic area (MeSH)**
+    - Multiple Sclerosis, Relapsing-Remitting
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04
 
 ### Pharmacotherapeutic group
 
@@ -617,27 +608,16 @@ Mayzent is indicated for the treatment of adult patients with secondary progress
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004712
-
-Marketing authorisation holder
-
-Novartis Europharm Limited
-
-Vista Building
-
-Opinion adopted
-
-14/11/2019
-
-Marketing authorisation issued
-
-13/01/2020
-
-Revision
-
-20
+- **EMA product number**
+    - EMEA/H/C/004712
+- **Marketing authorisation holder**
+    - Novartis Europharm Limited Vista Building  Elm Park  Merrion Road  Dublin 4  Ireland
+- **Opinion adopted**
+    - 14/11/2019
+- **Marketing authorisation issued**
+    - 13/01/2020
+- **Revision**
+    - 21
 
 ## Assessment history
 
@@ -645,13 +625,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Mayzent : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (158.22 KB - PDF)
+English (EN) (144.92 KB - PDF)
 
-**First published:** 15/10/2025 **Last updated:** 08/05/2026
+**First published:** 15/10/2025 **Last updated:** 30/07/2026
 
 [View](/en/documents/procedural-steps-after/mayzent-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -681,7 +661,7 @@ English (EN) (149.91 KB - PDF)
 
 **First published:** 08/01/2024
 
-[View](/en/documents/scientific-conclusion/mayzent-psusa-00010818-202303-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/mayzent-psusa-00010818-202303-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Mayzent-PSUSA-00010818-202203 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -691,7 +671,7 @@ English (EN) (126.55 KB - PDF)
 
 **First published:** 31/01/2023
 
-[View](/en/documents/scientific-conclusion/mayzent-psusa-00010818-202203-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/mayzent-psusa-00010818-202203-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Mayzent-PSUSA-00010818-202109: EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -701,7 +681,7 @@ English (EN) (145.93 KB - PDF)
 
 **First published:** 25/07/2022
 
-[View](/en/documents/scientific-conclusion/mayzent-psusa-00010818-202109-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/mayzent-psusa-00010818-202109-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Mayzent-H-C-4712-X-07 : EPAR - Assessment report - Variation
 
@@ -721,9 +701,9 @@ English (EN) (131.25 KB - PDF)
 
 **First published:** 14/01/2021
 
-[View](/en/documents/scientific-conclusion/mayzent-psusa-00010818-202003-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/mayzent-psusa-00010818-202003-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Mayzent : EPAR - Public assessment report
 
@@ -758,12 +738,8 @@ English (EN) (67.99 KB - PDF)
 - [Post-Authorization Safety Study for Assessment of Pregnancy Outcomes in Patients Treated with Mayzent (siponimod): An OTIS Observational Pregnancy Surveillance Study - post-authorisation study](https://catalogues.ema.europa.eu/study/43835)
 - [Registro español de alteraciones hematoogicas durante el tratamiento con siponimod. (SILITOX Study) - post-authorisation study](https://catalogues.ema.europa.eu/study/45188)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-08/05/2026
+30/07/2026
 
 ## Share this page

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-22 09:30:00
+document_datetime: 2026-07-29 13:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/padcev.html
 document_name: padcev.html
 version: success
-processing_time: 0.1584259
-conversion_datetime: 2026-07-28 12:55:37.18536
+processing_time: 0.142247
+conversion_datetime: 2026-08-01 11:35:09.21875
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
   docling-ibm-models: 3.13.3
   docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Padcev
 
@@ -124,7 +124,7 @@ English (EN) (163.59 KB - PDF)
 
 [View](/en/documents/overview/padcev-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-472)
+[Other languages (22)](#file-language-dropdown-816)
 
 български (BG) (180.97 KB - PDF)
 
@@ -270,161 +270,161 @@ English (EN) (996.8 KB - PDF)
 
 Padcev : EPAR - Product information
 
-English (EN) (512.79 KB - PDF)
+English (EN) (505.57 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/en/documents/product-information/padcev-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-993)
+[Other languages (24)](#file-language-dropdown-583)
 
-български (BG) (561.65 KB - PDF)
+български (BG) (553.48 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/bg/documents/product-information/padcev-epar-product-information_bg.pdf)
 
-español (ES) (559.12 KB - PDF)
+español (ES) (559.46 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/es/documents/product-information/padcev-epar-product-information_es.pdf)
 
-čeština (CS) (556.72 KB - PDF)
+čeština (CS) (578.06 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/cs/documents/product-information/padcev-epar-product-information_cs.pdf)
 
-dansk (DA) (554.17 KB - PDF)
+dansk (DA) (554.56 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/da/documents/product-information/padcev-epar-product-information_da.pdf)
 
-Deutsch (DE) (588.42 KB - PDF)
+Deutsch (DE) (563.42 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/de/documents/product-information/padcev-epar-product-information_de.pdf)
 
-eesti (ET) (566.43 KB - PDF)
+eesti (ET) (568.09 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/et/documents/product-information/padcev-epar-product-information_et.pdf)
 
-ελληνικά (EL) (628.85 KB - PDF)
+ελληνικά (EL) (629.36 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/el/documents/product-information/padcev-epar-product-information_el.pdf)
 
-français (FR) (709.68 KB - PDF)
+français (FR) (709.23 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/fr/documents/product-information/padcev-epar-product-information_fr.pdf)
 
-hrvatski (HR) (578.29 KB - PDF)
+hrvatski (HR) (578.68 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/hr/documents/product-information/padcev-epar-product-information_hr.pdf)
 
-italiano (IT) (604.17 KB - PDF)
+italiano (IT) (603.54 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/it/documents/product-information/padcev-epar-product-information_it.pdf)
 
-latviešu (LV) (561.07 KB - PDF)
+latviešu (LV) (555.42 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/lv/documents/product-information/padcev-epar-product-information_lv.pdf)
 
-lietuvių (LT) (558.5 KB - PDF)
+lietuvių (LT) (550.92 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/lt/documents/product-information/padcev-epar-product-information_lt.pdf)
 
-magyar (HU) (595.86 KB - PDF)
+magyar (HU) (596.03 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/hu/documents/product-information/padcev-epar-product-information_hu.pdf)
 
-Malti (MT) (590.95 KB - PDF)
+Malti (MT) (589.51 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/mt/documents/product-information/padcev-epar-product-information_mt.pdf)
 
-Nederlands (NL) (561.86 KB - PDF)
+Nederlands (NL) (555.54 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/nl/documents/product-information/padcev-epar-product-information_nl.pdf)
 
-polski (PL) (578.88 KB - PDF)
+polski (PL) (574.25 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/pl/documents/product-information/padcev-epar-product-information_pl.pdf)
 
-português (PT) (546.46 KB - PDF)
+português (PT) (539.09 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/pt/documents/product-information/padcev-epar-product-information_pt.pdf)
 
-română (RO) (538.94 KB - PDF)
+română (RO) (532.02 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/ro/documents/product-information/padcev-epar-product-information_ro.pdf)
 
-slovenčina (SK) (573.06 KB - PDF)
+slovenčina (SK) (560.82 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/sk/documents/product-information/padcev-epar-product-information_sk.pdf)
 
-slovenščina (SL) (542.29 KB - PDF)
+slovenščina (SL) (544.08 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/sl/documents/product-information/padcev-epar-product-information_sl.pdf)
 
-suomi (FI) (551.4 KB - PDF)
+suomi (FI) (552.29 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/fi/documents/product-information/padcev-epar-product-information_fi.pdf)
 
-svenska (SV) (533.64 KB - PDF)
+svenska (SV) (526.61 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/sv/documents/product-information/padcev-epar-product-information_sv.pdf)
 
-Íslenska (IS) (587.78 KB - PDF)
+Íslenska (IS) (590.36 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/is/documents/product-information/padcev-epar-product-information_is.pdf)
 
-norsk (NO) (532.96 KB - PDF)
+norsk (NO) (525.67 KB - PDF)
 
-**First published:** 05/05/2022 **Last updated:** 25/06/2026
+**First published:** 05/05/2022 **Last updated:** 29/07/2026
 
 [View](/no/documents/product-information/padcev-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000312495
+**Latest procedure affecting product information:** VR/0000339461
 
-19/06/2026
+16/07/2026
 
 icon globe
 
@@ -449,7 +449,7 @@ English (EN) (19.78 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/padcev-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-641)
+[Other languages (24)](#file-language-dropdown-674)
 
 български (BG) (43.13 KB - PDF)
 
@@ -640,7 +640,7 @@ Padcev as monotherapy is indicated for the treatment of adult patients with loca
 - **Marketing authorisation issued**
     - 13/04/2022
 - **Revision**
-    - 8
+    - 9
 
 ## Assessment history
 
@@ -652,9 +652,9 @@ Collapse section
 
 Padcev : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (172.55 KB - PDF)
+English (EN) (182.52 KB - PDF)
 
-**First published:** 17/07/2025 **Last updated:** 25/06/2026
+**First published:** 17/07/2025 **Last updated:** 29/07/2026
 
 [View](/en/documents/procedural-steps-after/padcev-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -758,6 +758,6 @@ English (EN) (116.48 KB - PDF)
 
 **This page was last updated on**
 
-22/07/2026
+29/07/2026
 
 ## Share this page

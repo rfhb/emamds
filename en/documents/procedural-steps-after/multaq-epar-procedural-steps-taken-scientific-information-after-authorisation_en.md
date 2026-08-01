@@ -1,36 +1,30 @@
 ---
-document_datetime: 2025-10-28 11:07:40
+document_datetime: 2026-07-31 11:28:03
 document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/multaq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: multaq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 4.6216187
-conversion_datetime: 2025-12-24 01:17:54.412508
+processing_time: 1.8215099
+conversion_datetime: 2026-08-01 12:09:21.676317
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## MULTAQ
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency' s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessmenthistory'section.Forthe completeproduct lifecycleprocedures,you mayneedtoalsorefertoEPAR-Proceduralsteps taken andscientific information after authorisation (archive).
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Applicationnumber   | Scope                                  | Opinion/ Notification 1 issued on   | Commission Decision Issued²/ amendedon   | Product Information affected3   | Summary   |
-|---------------------|----------------------------------------|-------------------------------------|------------------------------------------|---------------------------------|-----------|
-| Article 61(3) /     | Notification acc.Article61(3)-Accepted | 28/10/2025                          |                                          | PL                              |           |
-
-1 Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions areissuedforallotherprocedures.
-
-3SmPC(Summary ofProductCharacteristics),AnnexII,Labelling,PL(PackageLeaflet).
-
-2 A Commission decision(CD) is issued for procedures that affect the terms of the marketing authorisation(e.g.summary of product characteristics, annexII, labelling,package leaflet).The CDisissuedwithintwomonths of the opinionforvariationsfallingunderthescope ofArticle23.1a(a)ofRegulation(EU)No.712/2012,orwithinoneyearforotherprocedures.
+| Application number   | Scope    | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|----------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Article 61(3) /      | Outcome: | 29/07/2026                          |                                             | PL                               |           |
 
 <!-- image -->
 
@@ -38,11 +32,13 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/N/0000304194                      | Update of the package leaflet with revised contact details oflocal representative and deletion of 'United Kingdom (Northern Ireland)' from the list of local representatives in line with the QRD template v10.4.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |            |     |
-|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|
-| Variation type IA / EMA/VR/0000235099 | This was an application for a group of variations. A.ADMINISTRATIVE CHANGES -A.4 Change inthenameand/oraddressof:a manufacturer(includingwhererelevant quality control testing sites); or an ASMF holder; or a supplier of the active substance, startingmaterial,reagent orintermediate usedinthemanufactureoftheactive substance (where specified in the technical dossier)wherenoPh.Eur.Certificateof Suitability is part of the approved dossier; or a manufacturer of a novelexcipient(where specified in the technical dossier) - Accepted A.ADMINISTRATIVECHANGES-A.4Change inthenameand/oraddressof:a manufacturer(including whererelevant quality control testing sites); or an ASMF holder; or a supplier of the active substance, startingmaterial,reagentorintermediate usedinthemanufactureoftheactive | 04/11/2024 | N/A |
+|                                       | - Notification acc. Article 61(3) - Accepted Update of the package leaflet with revised contact details of local representative and deletion of 'United Kingdom (Northern Ireland)' from the list of local representatives in line with the QRD template v10.4.                                                                                                                                   |            |    | EMA/N/0000360841   |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----|--------------------|
+| Article 61(3) /                       | Outcome: - Notification acc. Article 61(3) - Accepted Update of the package leaflet with revised contact details of local representative and deletion of 'United Kingdom (Northern Ireland)' from the list of local representatives in line with the QRD template v10.4.                                                                                                                          | 28/10/2025 | PL | EMA/N/0000304194   |
+| Variation type IA / EMA/VR/0000235099 | Outcome: This was an application for a group of variations. A. ADMINISTRATIVE CHANGES - A.4 Change in the name and/or address of: a manufacturer (including where relevant quality control testing sites); or an ASMF holder; or a supplier of the active substance, starting material, reagent or intermediate used in the manufacture of the active substance (where specified in the technical | 04/11/2024 |    |                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| dossier) where no Ph. Eur. Certificate of Suitability is part of the approved dossier; or a manufacturer of a novel excipient (where specified in the technical dossier)-Accepted A.ADMINISTRATIVE CHANGES-A.7 Deletionofmanufacturingsitesforanactive substance, intermediate or finished product, packaging site, manufacturer responsible for batchrelease，sitewherebatchcontroltakes place,orsupplierofastartingmaterial, reagent orexcipient(when mentioned in the dossier)*-Accepted   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                            | Suitability is part of the approved dossier; or a manufacturer of a novel excipient (where specified in the technical dossier) - Accepted A. ADMINISTRATIVE CHANGES - A.4 Change in the name and/or address of: a manufacturer (including where relevant quality control testing sites); or an ASMF holder; or a supplier of the active substance, starting material, reagent or intermediate used in the manufacture of the active substance (where specified in the technical dossier) where no Ph. Eur. Certificate of Suitability is part of the approved dossier; or a manufacturer of a novel excipient (where specified in the technical dossier) - Accepted A. ADMINISTRATIVE CHANGES - A.7 Deletion of manufacturing sites for an active substance, intermediate or finished product, packaging site, manufacturer responsible for batch release, site where batch control takes place, or supplier of a starting material, reagent or excipient (when mentioned in the   |            |
+|----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| PSUR / EMA/PSUR/0000311124 | EURD: PSUSA/00001180/202507 Active substance: dronedarone Outcome: Maintenance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 12/03/2026 |

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-15 11:15:00
+document_datetime: 2026-07-29 15:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pecfent.html
 document_name: pecfent.html
 version: success
-processing_time: 0.1782055
-conversion_datetime: 2026-07-16 13:16:08.157477
+processing_time: 0.170639
+conversion_datetime: 2026-08-01 11:34:54.144421
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.113.0
-  docling-core: 2.87.1
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # PecFent
 
@@ -111,7 +111,7 @@ English (EN) (84.16 KB - PDF)
 
 [View](/en/documents/overview/pecfent-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-480)
+[Other languages (22)](#file-language-dropdown-299)
 
 български (BG) (138.33 KB - PDF)
 
@@ -257,161 +257,161 @@ English (EN) (817.16 KB - PDF)
 
 PecFent : EPAR - Product information
 
-English (EN) (1.43 MB - PDF)
+English (EN) (1.05 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/en/documents/product-information/pecfent-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-423)
+[Other languages (24)](#file-language-dropdown-30)
 
-български (BG) (1.1 MB - PDF)
+български (BG) (1.13 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/bg/documents/product-information/pecfent-epar-product-information_bg.pdf)
 
-español (ES) (1005.08 KB - PDF)
+español (ES) (1.09 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/es/documents/product-information/pecfent-epar-product-information_es.pdf)
 
-čeština (CS) (999.23 KB - PDF)
+čeština (CS) (1.08 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/cs/documents/product-information/pecfent-epar-product-information_cs.pdf)
 
-dansk (DA) (1.35 MB - PDF)
+dansk (DA) (1.02 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/da/documents/product-information/pecfent-epar-product-information_da.pdf)
 
-Deutsch (DE) (998.94 KB - PDF)
+Deutsch (DE) (1.05 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/de/documents/product-information/pecfent-epar-product-information_de.pdf)
 
-eesti (ET) (968.73 KB - PDF)
+eesti (ET) (1.01 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/et/documents/product-information/pecfent-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.23 MB - PDF)
+ελληνικά (EL) (1.2 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/el/documents/product-information/pecfent-epar-product-information_el.pdf)
 
-français (FR) (1.06 MB - PDF)
+français (FR) (951.28 KB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/fr/documents/product-information/pecfent-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.11 MB - PDF)
+hrvatski (HR) (1.1 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/hr/documents/product-information/pecfent-epar-product-information_hr.pdf)
 
-italiano (IT) (1.36 MB - PDF)
+italiano (IT) (1.09 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/it/documents/product-information/pecfent-epar-product-information_it.pdf)
 
-latviešu (LV) (1.08 MB - PDF)
+latviešu (LV) (1.19 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/lv/documents/product-information/pecfent-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.12 MB - PDF)
+lietuvių (LT) (1.23 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/lt/documents/product-information/pecfent-epar-product-information_lt.pdf)
 
-magyar (HU) (1.16 MB - PDF)
+magyar (HU) (1.27 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/hu/documents/product-information/pecfent-epar-product-information_hu.pdf)
 
-Malti (MT) (1.19 MB - PDF)
+Malti (MT) (1.3 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/mt/documents/product-information/pecfent-epar-product-information_mt.pdf)
 
-Nederlands (NL) (992.88 KB - PDF)
+Nederlands (NL) (1.04 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/nl/documents/product-information/pecfent-epar-product-information_nl.pdf)
 
-polski (PL) (1.03 MB - PDF)
+polski (PL) (1.13 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/pl/documents/product-information/pecfent-epar-product-information_pl.pdf)
 
-português (PT) (931.21 KB - PDF)
+português (PT) (1.04 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/pt/documents/product-information/pecfent-epar-product-information_pt.pdf)
 
-română (RO) (1.18 MB - PDF)
+română (RO) (1.2 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/ro/documents/product-information/pecfent-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1021.66 KB - PDF)
+slovenčina (SK) (1.11 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/sk/documents/product-information/pecfent-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.05 MB - PDF)
+slovenščina (SL) (1.22 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/sl/documents/product-information/pecfent-epar-product-information_sl.pdf)
 
-suomi (FI) (917.36 KB - PDF)
+suomi (FI) (1.03 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/fi/documents/product-information/pecfent-epar-product-information_fi.pdf)
 
-svenska (SV) (1014.81 KB - PDF)
+svenska (SV) (1.09 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/sv/documents/product-information/pecfent-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.03 MB - PDF)
+Íslenska (IS) (1.09 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/is/documents/product-information/pecfent-epar-product-information_is.pdf)
 
-norsk (NO) (999.51 KB - PDF)
+norsk (NO) (1.06 MB - PDF)
 
-**First published:** 14/09/2010 **Last updated:** 15/07/2026
+**First published:** 14/09/2010 **Last updated:** 29/07/2026
 
 [View](/no/documents/product-information/pecfent-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000331999
+**Latest procedure affecting product information:** VR/0000339960
 
-26/02/2026
+18/06/2026
 
 icon globe
 
@@ -436,7 +436,7 @@ English (EN) (34.05 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pecfent-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-21)
+[Other languages (24)](#file-language-dropdown-745)
 
 български (BG) (65.53 KB - PDF)
 
@@ -590,7 +590,7 @@ English (EN) (18.6 KB - PDF)
 
 [View](/en/documents/conditions-member-states/pecfent-epar-conditions-imposed-member-states-safe-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-810)
+[Other languages (21)](#file-language-dropdown-595)
 
 български (BG) (88.11 KB - PDF)
 
@@ -751,7 +751,7 @@ Patients receiving maintenance opioid therapy are those who are taking at least 
 - **Marketing authorisation issued**
     - 31/08/2010
 - **Revision**
-    - 26
+    - 27
 
 ## Assessment history
 
@@ -763,9 +763,9 @@ Collapse section
 
 PecFent : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (143.15 KB - PDF)
+English (EN) (124.19 KB - PDF)
 
-**First published:** 15/07/2026
+**First published:** 15/07/2026 **Last updated:** 29/07/2026
 
 [View](/en/documents/procedural-steps-after/pecfent-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -879,6 +879,6 @@ English (EN) (81.95 KB - PDF)
 
 **This page was last updated on**
 
-15/07/2026
+29/07/2026
 
 ## Share this page

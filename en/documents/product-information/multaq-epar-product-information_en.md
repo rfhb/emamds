@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-28 11:04:15
+document_datetime: 2026-07-31 11:24:57
 document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/multaq-epar-product-information_en.pdf
 document_name: multaq-epar-product-information_en.pdf
 version: success
-processing_time: 8.3405535
-conversion_datetime: 2025-12-21 19:13:49.058047
+processing_time: 8.857951
+conversion_datetime: 2026-08-01 12:01:01.395535
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -221,7 +221,9 @@ A potential pharmacodynamic interaction can also be expected with beta-blockers,
 
 Medicinal products inducing torsades de pointes such as phenothiazines, cisapride, bepridil, tricyclic antidepressants, certain oral macrolides (such as erythromycin), terfenadine and Class I and III antiarrhythmics are contraindicated because of the potential risk of proarrhythmia (see section 4.3).
 
-In patients already taking beta-blockers at time of dronedarone initiation, an ECG should be performed and the dose of beta-blocker should be adjusted if needed (see section 4.4). Clinical, ECG and biological monitoring is recommended, and digoxin dose should be halved (see section 4.4).
+In patients already taking beta-blockers at time of dronedarone initiation, an ECG should be performed and the dose of beta-blocker should be adjusted if needed (see section 4.4). Clinical, ECG and biological monitoring is recommended, and digoxin dose should be halved (see
+
+section 4.4).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -357,11 +359,9 @@ Repeated doses of 300 ml of grapefruit juice three times daily resulted in a 3-f
 
 ## 4.6 Fertility, pregnancy and lactation
 
-Women of child bearing potential and pregnancy
+Women of child bearing potential and pregnancy MULTAQ is not recommended during pregnancy and in women of childbearing potential not using contraception. There are no or limited data from the use of dronedarone in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
 
 <div style=\"page-break-after: always\"></div>
-
-MULTAQ is not recommended during pregnancy and in women of childbearing potential not using contraception. There are no or limited data from the use of dronedarone in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
 
 Women of childbearing potential should use effective methods of contraception during treatment with MULTAQ and for 7 days after the final dose.
 
@@ -395,11 +395,9 @@ The most frequent adverse reactions observed with dronedarone 400 mg twice daily
 
 The safety profile of dronedarone 400 mg twice daily in patients with atrial fibrillation (AF) or atrial flutter (AFL) is based on 5 placebo controlled studies, in which a total of 6,285 patients were randomised (3,282 patients received dronedarone 400 mg twice daily, and 2,875 received placebo). The mean exposure across studies was 13 months. In ATHENA study, the maximum follow-up was 30 months. Some adverse reactions were also identified during post-marketing surveillance. Adverse reactions are presented by system organ class.
 
-Frequencies are defined as: very common (≥1/10), common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from
+Frequencies are defined as: very common (≥1/10), common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
-
-the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1: Adverse reactions
 
@@ -421,10 +419,6 @@ Table 1: Adverse reactions
 | System organ class   | Very Common (  1/10)   | Common (  1/100 to <1/10)   | Uncommon (  1/1,000 to <1/100)   | Rare (  1/10,000 to <1/1,000)   |
 |----------------------|-------------------------|------------------------------|-----------------------------------|----------------------------------|
 |                      | QTc Bazett prolonged #  |                              |                                   |                                  |
-
-* ≥10% five days after treatment initiation (see section 4.4)
-
-# &gt;450 msec in male &gt;470 msec in female (see section 4.4)
 
 ## Description of selected adverse reactions
 
@@ -494,48 +488,40 @@ The reduction in cardiovascular hospitalisation or death from any cause was cons
 
 Figure 1 - Relative risk (dronedarone 400 mg twice daily versus placebo) - first cardiovascular hospitalisation or death from any cause.
 
-<!-- image -->
-
-| Characteristic                  | N     | RR [95% C1] (a) P-value (b)   |         |
-|---------------------------------|-------|-------------------------------|---------|
-| Age (years)                     |       |                               |         |
-| <65                             | 873   | 0.89 [0.71;1.11]              |         |
-| [65-75[                         | 1830  | 0.71 [0.60;0.83]              |         |
-| >=75                            | 1925  | 0.75 [0.65;0.87] 0.27         |         |
-| Gender                          |       |                               |         |
-| Male                            | 2459  | 0.74 [0.64;0.85]              |         |
-| Female                          | 21690 | 0.77 [0.67;0.89] 0.65         |         |
-| Presence of AF/AFL              |       |                               |         |
-| Yes                             | 1155  | 50.74 [0.61;0.91]             |         |
-| No                              |       | 3473 0.76 [0.68;0.85] 0.85    |         |
-| StructuralHeartDisease          |       |                               |         |
-| Yes                             | 2732  | 0.76 [0.67;0.85]              |         |
-| No                              | 1853  | 0.77 [0.65;0.92] 0.85         |         |
-| LVEF<35%orNYHA>=classI          |       |                               |         |
-| Yes                             |       | 1417 0.74 [0.63;0.87]         |         |
-| No                              |       | 3146 0.77 [0.68;0.87] 0.71    |         |
-| LVEF(%)                         |       |                               |         |
-| <35                             | 179   | 0.68 [0.44;1.03]              |         |
-| >=35                            | 4365  | 0.76 [0.69;0.84] 0.58         |         |
-| Beta blocking agents            |       |                               |         |
-| Yes                             | 3269  | 0.78 [0.69;0.87]              |         |
-| No                              |       | 1359 0.71 [0.58;0.86] 0.41    |         |
-| ACE or All receptor antagonists |       |                               |         |
-| Yes                             | 3216  | 0.74 [0.66;0.83]              |         |
-| No                              | 1412  | 0.79 [0.66;0.95] 0.59         |         |
-| Digitalis                       |       |                               |         |
-| Yes                             | 629   | 0.76 [0.59;0.98]              |         |
-| No                              | 3999  | 0.76 [0.68;0.84] 0.96         |         |
-| Calcium antagonists (c)         |       |                               |         |
-| Yes                             | 638   | 0.63 [0.48;0.82]              |         |
-| No                              | 3990  | ）0.78 [0.70;0.87] 0.15        |         |
-|                                 |       |                               | 0.1 1.0 |
-
-a Determined from Cox regression model
-
-b P-value of interaction between baseline characteristics and treatment based on Cox regression model
-
-c Calcium antagonists with heart rate lowering effects restricted to diltiazem, verapamil and bepridil
+| Characteristic                  | N RR [95% CI] (a) P-value (b)   |         |
+|---------------------------------|---------------------------------|---------|
+| Age (years)                     |                                 |         |
+| <65                             | 873 0.89 [0.71;1.11]            |         |
+| [65-75[                         | 18300.71 [0.60;0.83]            |         |
+| >=75                            | 1925 0.75 [0.65;0.87] 0.27      |         |
+| Gender                          |                                 |         |
+| Male                            | 24590.74 [0.64;0.85]            |         |
+| Female                          | 21690.77 [0.67;0.89] 0.65       |         |
+| Presence of AF/AFL              |                                 |         |
+| Yes                             | 11550.74 [0.61;0.91]            |         |
+| No                              | 3473 0.76 [0.68;0.85] 0.85      |         |
+| Structural Heart Disease        |                                 |         |
+| Yes                             | 2732 0.76 [0.67;0.85]           |         |
+| No                              | 18530.77 [0.65;0.92] 0.85       |         |
+| LVEF<35% or NYHA>=class I       |                                 |         |
+| Yes                             | 1417 0.74 [0.63;0.87]           |         |
+| No                              | 31460.77 [0.68;0.87] 0.71       |         |
+| LVEF(%)                         |                                 |         |
+| <35                             | 179 0.68 [0.44;1.03]            |         |
+| >=35                            | 43650.76 [0.69;0.84] 0.58       |         |
+| Beta blocking agents            |                                 |         |
+| Yes                             | 32690.78 [0.69;0.87]            |         |
+| No                              | 1359 0.71 [0.58;0.86] 0.41      |         |
+| ACE or All receptor antagonists |                                 |         |
+| Yes                             | 32160.74 [0.66;0.83]            |         |
+| No                              | 1412 0.79[0.66;0.95] 0.59       |         |
+| Digitalis                       |                                 |         |
+| Yes                             | 629 0.76 [0.59;0.98]            |         |
+| No                              | 3999 0.76 [0.68;0.84] 0.96      |         |
+| Calcium antagonists (c)         |                                 |         |
+| Yes                             | 638 0.63 [0.48;0.82]            |         |
+| No                              | 39900.78 [0.70;0.87] 0.15       |         |
+|                                 |                                 | 0.1 1.0 |
 
 Similar results were obtained on the incidence of cardiovascular hospitalisation with a risk reduction of 25.5% (p &lt;0.0001).
 
@@ -549,11 +535,9 @@ Patients ranged in age from 20 to 88 years, with the majority being Caucasian (9
 
 In the pooled data from EURIDIS and ADONIS as well as in the individual trials, dronedarone consistently delayed the time to first recurrence of AF/AFL (primary endpoint). As compared to placebo, dronedarone lowered the risk of first AF/AFL recurrence during the 12-month study period
 
-Placebo Better
+Dronedarone Better Placebo Better by 25% (p = 0.00007). The median time from randomised to first AF/AFL recurrence in the dronedarone group was 116 days, i.e. 2.2-fold longer than in the placebo group (53 days).
 
 <div style=\"page-break-after: always\"></div>
-
-by 25% (p = 0.00007). The median time from randomised to first AF/AFL recurrence in the dronedarone group was 116 days, i.e. 2.2-fold longer than in the placebo group (53 days).
 
 The DIONYSOS study compared the efficacy and safety of dronedarone (400 mg twice daily) versus amiodarone (600 mg daily for 28 days, then 200 mg daily thereafter) over 6 months. A total of 504 patients with documented AF were randomised, 249 received dronedarone and 255 received amiodarone. Patients ranged in age from 28 to 90 years, 49% were more than 65 years old. The incidence of the primary efficacy endpoint defined as first recurrence of AF or premature study drug discontinuation for intolerance or lack of efficacy at 12 months was 75% in the dronedarone group and 59% in the amiodarone group (hazard ratio = 1.59, log-rank p-value &lt;0.0001). AF recurrence was 63.5% versus 42%, respectively. Recurrences of AF (including absence of conversion) were more frequent in the dronedarone group, whereas premature study drug discontinuations due to intolerance were more frequent in the amiodarone group. The incidence of the main safety endpoint defined as the occurrence of thyroid, hepatic, pulmonary, neurological, skin, eye or gastrointestinal specific events or premature study drug discontinuation following any adverse event was reduced by 20% in the dronedarone group compared to the amiodarone group (p = 0.129). This reduction was driven by the occurrence of significantly fewer thyroid and neurological events and a trend for less skin or ocular events, and fewer premature study drug discontinuations compared to the amiodarone group. More gastrointestinal adverse events, mainly diarrhoea, were observed in the dronedarone group (12.9% versus 5.1%).
 
@@ -783,7 +767,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-MULTAQ 400 mg film-coated tablets dronedarone
+MULTAQ 400 mg film-coated tablets
+
+dronedarone
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -870,17 +856,17 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 MULTAQ 400 mg tablets dronedarone
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Sanofi Winthrop Industrie
 
@@ -1239,7 +1225,7 @@ sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor ehf. Sími: +354 535 7000
 
 ## Italia
 
@@ -1301,15 +1287,13 @@ Swixx Biopharma s.r.o. Tel: +421 2 208 33 600
 
 Sanofi Oy Puh/Tel: +358 (0) 201 200 300
 
+<div style=\"page-break-after: always\"></div>
+
 ## Κύπρος
 
 C.A. Papaellinas Ltd.
 
 Τηλ: +357 22 741741
-
-Sverige Sanofi AB
-
-Tel: +46 (0)8 634 50 00
 
 ## Latvija
 
@@ -1317,14 +1301,12 @@ Swixx Biopharma SIA
 
 Tel: +371 6 616 47 50
 
-## United Kingdom (Northern Ireland)
-
-sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +44 (0) 800 035 2525
-
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+Sverige Sanofi AB
+
+Tel: +46 (0)8 634 50 00

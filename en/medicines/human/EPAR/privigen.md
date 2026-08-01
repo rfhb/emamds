@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-24 16:30:00
+document_datetime: 2026-07-30 14:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/privigen.html
 document_name: privigen.html
 version: success
-processing_time: 0.1619474
-conversion_datetime: 2026-06-25 16:45:16.052886
+processing_time: 0.1593008
+conversion_datetime: 2026-08-01 11:34:39.031067
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Privigen
 
@@ -39,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Privigen](#news-on)
 - [More information on Privigen](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -145,7 +144,7 @@ English (EN) (142.66 KB - PDF)
 
 [View](/en/documents/overview/privigen-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-855)
+[Other languages (22)](#file-language-dropdown-510)
 
 български (BG) (169.19 KB - PDF)
 
@@ -297,7 +296,7 @@ English (EN) (566.42 KB - PDF)
 
 [View](/en/documents/product-information/privigen-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-18)
+[Other languages (24)](#file-language-dropdown-247)
 
 български (BG) (577.84 KB - PDF)
 
@@ -470,7 +469,7 @@ English (EN) (27.29 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/privigen-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-814)
+[Other languages (24)](#file-language-dropdown-0)
 
 български (BG) (24.74 KB - PDF)
 
@@ -665,7 +664,7 @@ Immunomodulation in adults, and children and adolescents (0-18 years) in:
 - **Marketing authorisation issued**
     - 24/04/2008
 - **Revision**
-    - 33
+    - 34
 
 ## Assessment history
 
@@ -690,6 +689,16 @@ English (EN) (440.54 KB - PDF)
 **First published:** 11/09/2009 **Last updated:** 24/06/2026
 
 [View](/en/documents/procedural-steps-after/privigen-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Privigen- PAM-0000319183 : EPAR - Assessment Report
+
+Adopted Reference Number: EMADOC-1700519818-3181751
+
+English (EN) (304.96 KB - PDF)
+
+**First published:** 31/07/2026
+
+[View](/en/documents/variation-report/privigen-pam-0000319183-epar-assessment-report_en.pdf)
 
 Privigen-VR-0000304719 : EPAR - Assessment report - Variation
 
@@ -796,12 +805,8 @@ English (EN) (36.64 KB - PDF)
 - [Privigen - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/privigen)
 - [Privigen - opinion on variation to marketing authorisation](/en/node/279229)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-24/06/2026
+30/07/2026
 
 ## Share this page

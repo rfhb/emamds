@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-02-03 14:56:00
+document_datetime: 2026-07-30 14:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/gilenya.html
 document_name: gilenya.html
 version: success
-processing_time: 0.1291018
-conversion_datetime: 2026-02-04 15:07:10.001158
+processing_time: 0.220111
+conversion_datetime: 2026-08-01 11:37:25.180126
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.72.0
-  docling-core: 2.63.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
-  python: cpython-313 (3.13.12)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Gilenya
 
 [RSS](/en/individual-human-medicine.xml/67136)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-fingolimod Medicine Human Authorised
+fingolimod
+
+Medicine Human Authorised
 
 Page contents
 
@@ -37,8 +39,8 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Gilenya](#news-on)
 - [More information on Gilenya](#more-information-on-gilenya-1547)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-87967)
 - [More information on Gilenya](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -54,7 +56,7 @@ Expand section
 
 Collapse section
 
-## How is Gilenya used?
+### How is Gilenya used?
 
 Gilenya can only be obtained with a prescription and treatment should be started and supervised by a doctor experienced in multiple sclerosis. Gilenya is available as capsules (0.25 mg and 0.5 mg). The recommended dose for adults is one 0.5 mg capsule taken once a day by mouth, the recommended dose for children depends on body weight.
 
@@ -62,11 +64,11 @@ Because Gilenya decreases the heart rate and can affect the heart's electrical a
 
 For more information about using Gilenya, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Gilenya work?
+### How does Gilenya work?
 
 In multiple sclerosis, the immune system (the body's defences) incorrectly attacks the protective sheath around the nerves in the brain and spinal cord. The active substance in Gilenya, fingolimod, prevents T cells (a type of white blood cell involved in the immune system) travelling from the lymph nodes towards the brain and spinal cord, thus limiting the damage they cause in multiple sclerosis. It does this by blocking the action of a receptor (target) on the T cells called the sphingosine-1- phosphate receptor, which is involved in controlling the movement of these cells in the body.
 
-## What benefits of Gilenya have been shown in studies?
+### What benefits of Gilenya have been shown in studies?
 
 Three main studies in adults and one main study in children have found that Gilenya was more effective than placebo (a dummy treatment) or interferon beta-1a (another medicine for treating multiple sclerosis) in patients with relapsing-remitting multiple sclerosis. The main measure of effectiveness in all the studies was based on the number of relapses the patients experienced each year.
 
@@ -76,25 +78,25 @@ In a third study involving 1,292 patients, Gilenya was compared with interferon 
 
 In a study involving 215 children, Gilenya was compared with interferon beta-1a for up to 2 years. Of patients given Gilenya, 14% (15 out of 107) experienced relapses compared with 54% (58 out of 107) of patients given interferon beta-1a.
 
-## What are the risks associated with Gilenya?
+### What are the risks associated with Gilenya?
 
 The most common side effects with Gilenya (seen in more than 1 patient in 10) are flu, sinusitis (inflammation of the sinuses), headache, cough, diarrhoea, back pain and raised liver enzyme levels (a sign of liver problems). The most serious side effects are infections, macular oedema (swelling in the central part of the retina at the back of the eye) and atrioventricular block (a type of heart rhythm disorder) at the start of treatment. For the full list of side effects of Gilenya, see the package leaflet.
 
 Gilenya must not be used in patients at risk of infections due to a weakened immune system, patients with a severe infection or a long-term active infection such as hepatitis, and patients with cancer or severe liver problems. Gilenya must also not be used in patients with certain diseases affecting the heart and blood vessels or in those who have had such diseases or problems with the blood supply to the brain. Women should not become pregnant while taking Gilenya and for two months after treatment has stopped. For the full list of restrictions, see the package leaflet.
 
-## Why is Gilenya authorised in the EU?
+### Why is Gilenya authorised in the EU?
 
-The European Medicines Agency concluded that there is clear evidence of the benefit of Gilenya in relapsing-remitting multiple sclerosis in both adults and children and noted that it had the benefit of being taken by mouth while most other medicines for this disease are given by injection. However, because of possible side effects, the Agency concluded that Gilenya should only be used in patients  who have a real need for the medicine either because their disease has not improved with at least one other disease-modifying therapy or because it is severe and getting worse rapidly. In addition, the Agency concluded that all patients should have their heart activity closely monitored after the first dose. The Agency decided that Gilenya's benefits are greater than its risks and recommended that it be given marketing authorisation.
+The European Medicines Agency concluded that there is clear evidence of the benefit of Gilenya in relapsing-remitting multiple sclerosis in both adults and children and noted that it had the benefit of being taken by mouth while most other medicines for this disease are given by injection. However, because of possible side effects, the Agency concluded that Gilenya should only be used in patients who have a real need for the medicine either because their disease has not improved with at least one other disease-modifying therapy or because it is severe and getting worse rapidly. In addition, the Agency concluded that all patients should have their heart activity closely monitored after the first dose. The Agency decided that Gilenya's benefits are greater than its risks and recommended that it be given marketing authorisation.
 
-## What measures are being taken to ensure the safe and effective use of Gilenya?
+### What measures are being taken to ensure the safe and effective use of Gilenya?
 
-The company that markets Gilenya will provide results from a study to assess the risk of side effects  on the heart and circulation. It must also ensure that all doctors who prescribe Gilenya receive an information pack containing important safety information, including a checklist of the risks with Gilenya and the situations where its use is not recommended. The checklist includes information on the tests and monitoring in patients before and during treatment with Gilenya. The pack will also include information on a registry to collect data on babies born to women treated with Gilenya, as well as a patient reminder card for patients or their carers with key safety information.
+The company that markets Gilenya will provide results from a study to assess the risk of side effects on the heart and circulation. It must also ensure that all doctors who prescribe Gilenya receive an information pack containing important safety information, including a checklist of the risks with Gilenya and the situations where its use is not recommended. The checklist includes information on the tests and monitoring in patients before and during treatment with Gilenya. The pack will also include information on a registry to collect data on babies born to women treated with Gilenya, as well as a patient reminder card for patients or their carers with key safety information.
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Gilenya have also been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Gilenya are continuously monitored. Side effects reported with Gilenya are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Gilenya
+### Other information about Gilenya
 
 Gilenya received a marketing authorisation valid throughout the EU on 17 March 2011.
 
@@ -104,275 +106,141 @@ Reference Number: EMA/685570/2018
 
 English (EN) (81.82 KB - PDF)
 
-**First published:** 30/03/2011
-
-**Last updated:** 18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/en/documents/overview/gilenya-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-260)
+[Other languages (22)](#file-language-dropdown-947)
 
 български (BG) (116.55 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/bg/documents/overview/gilenya-epar-medicine-overview_bg.pdf)
 
 español (ES) (79.34 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/es/documents/overview/gilenya-epar-medicine-overview_es.pdf)
 
 čeština (CS) (105.23 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/cs/documents/overview/gilenya-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (77.95 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/da/documents/overview/gilenya-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (80.18 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/de/documents/overview/gilenya-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (78.17 KB - PDF)
+eesti (ET) (78.17 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/et/documents/overview/gilenya-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (114.83 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/el/documents/overview/gilenya-epar-medicine-overview_el.pdf)
 
 français (FR) (80.17 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/fr/documents/overview/gilenya-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (100.97 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/hr/documents/overview/gilenya-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (78.42 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/it/documents/overview/gilenya-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (103.74 KB - PDF)
+latviešu (LV) (103.74 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/lv/documents/overview/gilenya-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (110.87 KB - PDF)
+lietuvių (LT) (110.87 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/lt/documents/overview/gilenya-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (100.69 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/hu/documents/overview/gilenya-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (106.18 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/mt/documents/overview/gilenya-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (78.58 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/nl/documents/overview/gilenya-epar-medicine-overview_nl.pdf)
 
 polski (PL) (104.43 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/pl/documents/overview/gilenya-epar-medicine-overview_pl.pdf)
 
 português (PT) (79.44 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/pt/documents/overview/gilenya-epar-medicine-overview_pt.pdf)
 
 română (RO) (102.78 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/ro/documents/overview/gilenya-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (104.51 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/sk/documents/overview/gilenya-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (97.57 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/sl/documents/overview/gilenya-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (77.97 KB - PDF)
+suomi (FI) (77.97 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/fi/documents/overview/gilenya-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (78.64 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-18/12/2018
+**First published:** 30/03/2011 **Last updated:** 18/12/2018
 
 [View](/sv/documents/overview/gilenya-epar-medicine-overview_sv.pdf)
 
@@ -380,9 +248,7 @@ Gilenya : EPAR - Risk Management Plan
 
 English (EN) (1.4 MB - PDF)
 
-**First published:** 01/06/2023
-
-**Last updated:** 23/09/2025
+**First published:** 01/06/2023 **Last updated:** 23/09/2025
 
 [View](/en/documents/rmp/gilenya-epar-risk-management-plan_en.pdf)
 
@@ -390,311 +256,168 @@ English (EN) (1.4 MB - PDF)
 
 Gilenya : EPAR - Product Information
 
-English (EN) (531.43 KB - PDF)
+English (EN) (473.53 KB - PDF)
 
-**First published:** 30/03/2011
-
-**Last updated:** 03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/en/documents/product-information/gilenya-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-827)
+[Other languages (24)](#file-language-dropdown-956)
 
-български (BG) (723.01 KB - PDF)
+български (BG) (625.72 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/bg/documents/product-information/gilenya-epar-product-information_bg.pdf)
 
-español (ES) (640.83 KB - PDF)
+español (ES) (535.67 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/es/documents/product-information/gilenya-epar-product-information_es.pdf)
 
-čeština (CS) (680.52 KB - PDF)
+čeština (CS) (578.06 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/cs/documents/product-information/gilenya-epar-product-information_cs.pdf)
 
-dansk (DA) (649.37 KB - PDF)
+dansk (DA) (535.54 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/da/documents/product-information/gilenya-epar-product-information_da.pdf)
 
-Deutsch (DE) (664.6 KB - PDF)
+Deutsch (DE) (553.48 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/de/documents/product-information/gilenya-epar-product-information_de.pdf)
 
-eesti keel (ET) (626.04 KB - PDF)
+eesti (ET) (527.95 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/et/documents/product-information/gilenya-epar-product-information_et.pdf)
 
-ελληνικά (EL) (751.83 KB - PDF)
+ελληνικά (EL) (636.52 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/el/documents/product-information/gilenya-epar-product-information_el.pdf)
 
-français (FR) (691.34 KB - PDF)
+français (FR) (627.7 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/fr/documents/product-information/gilenya-epar-product-information_fr.pdf)
 
-hrvatski (HR) (663.61 KB - PDF)
+hrvatski (HR) (566.08 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/hr/documents/product-information/gilenya-epar-product-information_hr.pdf)
 
-íslenska (IS) (616.43 KB - PDF)
+italiano (IT) (543.07 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
-
-[View](/is/documents/product-information/gilenya-epar-product-information_is.pdf)
-
-italiano (IT) (647.66 KB - PDF)
-
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/it/documents/product-information/gilenya-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (654.18 KB - PDF)
+latviešu (LV) (556.11 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/lv/documents/product-information/gilenya-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (709.61 KB - PDF)
+lietuvių (LT) (601.48 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/lt/documents/product-information/gilenya-epar-product-information_lt.pdf)
 
-magyar (HU) (674.81 KB - PDF)
+magyar (HU) (571.53 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/hu/documents/product-information/gilenya-epar-product-information_hu.pdf)
 
-Malti (MT) (775.57 KB - PDF)
+Malti (MT) (644.75 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/mt/documents/product-information/gilenya-epar-product-information_mt.pdf)
 
-Nederlands (NL) (622.99 KB - PDF)
+Nederlands (NL) (572.34 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/nl/documents/product-information/gilenya-epar-product-information_nl.pdf)
 
-norsk (NO) (604.73 KB - PDF)
+polski (PL) (652.25 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
-
-[View](/no/documents/product-information/gilenya-epar-product-information_no.pdf)
-
-polski (PL) (707.49 KB - PDF)
-
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/pl/documents/product-information/gilenya-epar-product-information_pl.pdf)
 
-português (PT) (627.87 KB - PDF)
+português (PT) (527.65 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/pt/documents/product-information/gilenya-epar-product-information_pt.pdf)
 
-română (RO) (696.06 KB - PDF)
+română (RO) (595.67 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/ro/documents/product-information/gilenya-epar-product-information_ro.pdf)
 
-slovenčina (SK) (683.83 KB - PDF)
+slovenčina (SK) (583.4 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/sk/documents/product-information/gilenya-epar-product-information_sk.pdf)
 
-slovenščina (SL) (663.73 KB - PDF)
+slovenščina (SL) (568.71 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/sl/documents/product-information/gilenya-epar-product-information_sl.pdf)
 
-Suomi (FI) (635.54 KB - PDF)
+suomi (FI) (577.7 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/fi/documents/product-information/gilenya-epar-product-information_fi.pdf)
 
-svenska (SV) (606.43 KB - PDF)
+svenska (SV) (514.26 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-03/02/2026
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
 
 [View](/sv/documents/product-information/gilenya-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000323955 02/02/2026
+Íslenska (IS) (522.35 KB - PDF)
+
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
+
+[View](/is/documents/product-information/gilenya-epar-product-information_is.pdf)
+
+norsk (NO) (510.02 KB - PDF)
+
+**First published:** 30/03/2011 **Last updated:** 30/07/2026
+
+[View](/no/documents/product-information/gilenya-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000339039
+
+11/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -708,593 +431,316 @@ Gilenya : EPAR - All Authorised presentations
 
 English (EN) (47.06 KB - PDF)
 
-**First published:** 30/03/2011
-
-**Last updated:** 10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/en/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-49)
+[Other languages (24)](#file-language-dropdown-662)
 
 български (BG) (59.1 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/bg/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (47.41 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/es/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (52.33 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/cs/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (48.37 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/da/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (50.17 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/de/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (46.46 KB - PDF)
+eesti (ET) (46.46 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/et/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (56.36 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/el/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (49.93 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/fr/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (49.73 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/hr/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (49.48 KB - PDF)
-
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
-
-[View](/is/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (48.09 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/it/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (52.38 KB - PDF)
+latviešu (LV) (52.38 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/lv/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (52.32 KB - PDF)
+lietuvių (LT) (52.32 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/lt/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (53.24 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/hu/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (53.02 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/mt/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (46.77 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/nl/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (47.45 KB - PDF)
-
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
-
-[View](/no/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (52.39 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/pl/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (47.09 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/pt/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (51.34 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/ro/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (53.14 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/sk/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (49.45 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/sl/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (45.82 KB - PDF)
+suomi (FI) (45.82 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/fi/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (47.43 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-10/05/2023
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
 
 [View](/sv/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_sv.pdf)
+
+Íslenska (IS) (49.48 KB - PDF)
+
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
+
+[View](/is/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (47.45 KB - PDF)
+
+**First published:** 30/03/2011 **Last updated:** 10/05/2023
+
+[View](/no/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_no.pdf)
 
 Gilenya : EPAR - Conditions imposed on member states for safe and effective use - Annex IV
 
 English (EN) (211.72 KB - PDF)
 
-**First published:** 30/03/2011
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
-**Last updated:** 06/07/2012
+[View](/en/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-effective-use-annex-iv_en.pdf)
 
-[View](/en/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
-
-[Other languages (23)](#file-language-dropdown-27)
+[Other languages (23)](#file-language-dropdown-804)
 
 български (BG) (231.47 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/bg/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_bg.pdf)
 
 español (ES) (207.42 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/es/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_es.pdf)
 
 čeština (CS) (221.57 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/cs/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_cs.pdf)
 
 dansk (DA) (210.48 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/da/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_da.pdf)
 
 Deutsch (DE) (216.69 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/de/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_de.pdf)
 
-eesti keel (ET) (206.11 KB - PDF)
+eesti (ET) (206.11 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/et/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_et.pdf)
 
 ελληνικά (EL) (219.99 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/el/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_el.pdf)
 
 français (FR) (217.73 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/fr/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_fr.pdf)
 
-íslenska (IS) (213.53 KB - PDF)
-
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
-
-[View](/is/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_is.pdf)
-
 italiano (IT) (213.29 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/it/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_it.pdf)
 
-latviešu valoda (LV) (218.73 KB - PDF)
+latviešu (LV) (218.73 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/lv/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lv.pdf)
 
-lietuvių kalba (LT) (237.34 KB - PDF)
+lietuvių (LT) (237.34 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/lt/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lt.pdf)
 
 magyar (HU) (216.8 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/hu/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_hu.pdf)
 
 Malti (MT) (243.71 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/mt/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_mt.pdf)
 
 Nederlands (NL) (211.51 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/nl/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_nl.pdf)
 
-norsk (NO) (207.94 KB - PDF)
-
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
-
-[View](/no/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_no.pdf)
-
 polski (PL) (223.06 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/pl/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_pl.pdf)
 
 português (PT) (210.78 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/pt/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_pt.pdf)
 
 română (RO) (216.96 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/ro/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_ro.pdf)
 
 slovenčina (SK) (222 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/sk/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sk.pdf)
 
 slovenščina (SL) (216.65 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/sl/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sl.pdf)
 
-Suomi (FI) (208.83 KB - PDF)
+suomi (FI) (208.83 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/fi/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_fi.pdf)
 
 svenska (SV) (206.06 KB - PDF)
 
-**First published:**
-
-30/03/2011
-
-**Last updated:**
-
-06/07/2012
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
 
 [View](/sv/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sv.pdf)
 
+Íslenska (IS) (213.53 KB - PDF)
+
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
+
+[View](/is/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_is.pdf)
+
+norsk (NO) (207.94 KB - PDF)
+
+**First published:** 30/03/2011 **Last updated:** 06/07/2012
+
+[View](/no/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_no.pdf)
+
 ## Product details
 
-Name of medicine Gilenya Active substance fingolimod hydrochloride International non-proprietary name (INN) or common name fingolimod Therapeutic area (MeSH) Multiple Sclerosis Anatomical therapeutic chemical (ATC) code L04AE01
+- **Name of medicine**
+    - Gilenya
+- **Active substance**
+    - fingolimod hydrochloride
+- **International non-proprietary name (INN) or common name**
+    - fingolimod
+- **Therapeutic area (MeSH)**
+    - Multiple Sclerosis
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AE01
 
 ### Pharmacotherapeutic group
 
@@ -1312,13 +758,16 @@ or
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/002202 Marketing authorisation holder
-
-Novartis Europharm Limited
-
-Vista Building
-
-Opinion adopted 20/01/2011 Marketing authorisation issued 17/03/2011 Revision 41
+- **EMA product number**
+    - EMEA/H/C/002202
+- **Marketing authorisation holder**
+    - Novartis Europharm Limited Vista Building  Elm Park  Merrion Road  Dublin 4  Ireland
+- **Opinion adopted**
+    - 20/01/2011
+- **Marketing authorisation issued**
+    - 17/03/2011
+- **Revision**
+    - 42
 
 ## Assessment history
 
@@ -1326,15 +775,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Gilenya : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (791.45 KB - PDF)
+English (EN) (144.58 KB - PDF)
 
-**First published:** 23/09/2025
-
-**Last updated:** 03/02/2026
+**First published:** 23/09/2025 **Last updated:** 30/07/2026
 
 [View](/en/documents/procedural-steps-after/gilenya-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1342,9 +789,7 @@ Gilenya : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (350.65 KB - PDF)
 
-**First published:** 02/09/2011
-
-**Last updated:** 23/09/2025
+**First published:** 02/09/2011 **Last updated:** 23/09/2025
 
 [View](/en/documents/procedural-steps-after/gilenya-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1360,9 +805,7 @@ English (EN) (2.06 MB - PDF)
 
 Gilenya-H-C-2202-P46-039 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/CHMP/716292/2021
+Adopted Reference Number: EMA/CHMP/716292/2021
 
 English (EN) (424.66 KB - PDF)
 
@@ -1378,7 +821,7 @@ English (EN) (161.24 KB - PDF)
 
 **First published:** 18/12/2020
 
-[View](/en/documents/scientific-conclusion/gilenya-h-c-psusa-00001393-202002-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/gilenya-h-c-psusa-00001393-202002-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Gilenya-H-C-PSUSA-00001393-201902 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1388,13 +831,11 @@ English (EN) (69.89 KB - PDF)
 
 **First published:** 20/12/2019
 
-[View](/en/documents/scientific-conclusion/gilenya-h-c-psusa-00001393-201902-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/gilenya-h-c-psusa-00001393-201902-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Gilenya-H-C-2202-X-0044-G : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/779102/2018
+Adopted Reference Number: EMA/779102/2018
 
 English (EN) (775.18 KB - PDF)
 
@@ -1408,19 +849,15 @@ English (EN) (67.4 KB - PDF)
 
 **First published:** 18/12/2018
 
-[View](/en/documents/scientific-conclusion/gilenya-h-c-psusa-00001393-201802-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/gilenya-h-c-psusa-00001393-201802-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Gilenya (X/44/G)
 
-Adopted
-
-Reference Number: EMA/CHMP/612718/2018
+Adopted Reference Number: EMA/CHMP/612718/2018
 
 English (EN) (72.63 KB - PDF)
 
-**First published:** 21/09/2018
-
-**Last updated:** 21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-gilenya-x44g_en.pdf)
 
@@ -1428,11 +865,9 @@ Gilenya-H-C-PSUSA-00001393-201702 : EPAR - Scientific conclusions and grounds fo
 
 English (EN) (66.83 KB - PDF)
 
-**First published:** 12/02/2018
+**First published:** 12/02/2018 **Last updated:** 12/02/2018
 
-**Last updated:** 12/02/2018
-
-[View](/en/documents/scientific-conclusion/gilenya-h-c-psusa-00001393-201702-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
+[View](/en/documents/scientific-conclusion/gilenya-h-c-psusa-00001393-201702-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
 Gilenya-H-C-PSUSA-00001393-201602 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1440,11 +875,9 @@ Reference Number: EMA/879483/2016
 
 English (EN) (49.47 KB - PDF)
 
-**First published:** 21/12/2016
+**First published:** 21/12/2016 **Last updated:** 21/12/2016
 
-**Last updated:** 21/12/2016
-
-[View](/en/documents/scientific-conclusion/gilenya-h-c-psusa-00001393-201602-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/gilenya-h-c-psusa-00001393-201602-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Gilenya-H-C-PSUSA-00001393-201502 : EPAR - Scientific conclusions and grounds recommending the variation to the terms of the marketing authorisation
 
@@ -1452,37 +885,27 @@ Reference Number: EMA/699354/2015
 
 English (EN) (68.08 KB - PDF)
 
-**First published:** 07/03/2016
+**First published:** 07/03/2016 **Last updated:** 07/03/2016
 
-**Last updated:** 07/03/2016
-
-[View](/en/documents/scientific-conclusion/gilenya-h-c-psusa-00001393-201502-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/gilenya-h-c-psusa-00001393-201502-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Gilenya-H-C-2202-II-0034 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/549382/2015
+Adopted Reference Number: EMA/CHMP/549382/2015
 
 English (EN) (4.39 MB - PDF)
 
-**First published:** 17/12/2015
-
-**Last updated:** 17/12/2015
+**First published:** 17/12/2015 **Last updated:** 17/12/2015
 
 [View](/en/documents/variation-report/gilenya-h-c-2202-ii-0034-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Gilenya
 
-Adopted
-
-Reference Number: EMA/CHMP/627232/2015
+Adopted Reference Number: EMA/CHMP/627232/2015
 
 English (EN) (71.32 KB - PDF)
 
-**First published:** 25/09/2015
-
-**Last updated:** 25/09/2015
+**First published:** 25/09/2015 **Last updated:** 25/09/2015
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-gilenya_en.pdf-0)
 
@@ -1492,37 +915,27 @@ Reference Number: EMA/405985/2014
 
 English (EN) (74.38 KB - PDF)
 
-**First published:** 11/07/2014
+**First published:** 11/07/2014 **Last updated:** 11/07/2014
 
-**Last updated:** 11/07/2014
-
-[View](/en/documents/scientific-conclusion/gilenya-h-c-psuv-0027-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/gilenya-h-c-psuv-0027-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Gilenya-H-C-2202-II-0021 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/195551/2014
+Adopted Reference Number: EMA/195551/2014
 
 English (EN) (1.52 MB - PDF)
 
-**First published:** 27/06/2014
-
-**Last updated:** 27/06/2014
+**First published:** 27/06/2014 **Last updated:** 27/06/2014
 
 [View](/en/documents/variation-report/gilenya-h-c-2202-ii-0021-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Gilenya
 
-Adopted
-
-Reference Number: EMA/243755/2014
+Adopted Reference Number: EMA/243755/2014
 
 English (EN) (69.91 KB - PDF)
 
-**First published:** 25/04/2014
-
-**Last updated:** 25/04/2014
+**First published:** 25/04/2014 **Last updated:** 25/04/2014
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-gilenya_en.pdf)
 
@@ -1532,83 +945,93 @@ Reference Number: EMA/177651/2014
 
 English (EN) (71.94 KB - PDF)
 
-**First published:** 01/04/2014
+**First published:** 01/04/2014 **Last updated:** 01/04/2014
 
-**Last updated:** 01/04/2014
-
-[View](/en/documents/scientific-conclusion/gilenya-h-c-2202-psuv-0023-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/gilenya-h-c-2202-psuv-0023-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Gilenya-H-C-2202-A20-0008 : EPAR - Assessment Report - Article 20
 
-Adopted
-
-Reference Number: EMA/357270/2012
+Adopted Reference Number: EMA/357270/2012
 
 English (EN) (423.12 KB - PDF)
 
-**First published:** 06/07/2012
-
-**Last updated:** 06/07/2012
+**First published:** 06/07/2012 **Last updated:** 06/07/2012
 
 [View](/en/documents/variation-report/gilenya-h-c-2202-a20-0008-epar-assessment-report-article-20_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Gilenya : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/108602/2011
+Adopted Reference Number: EMA/108602/2011
 
 English (EN) (1.68 MB - PDF)
 
-**First published:** 30/03/2011
-
-**Last updated:** 30/03/2011
+**First published:** 30/03/2011 **Last updated:** 30/03/2011
 
 [View](/en/documents/assessment-report/gilenya-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Gilenya
 
-Adopted
-
-Reference Number: EMA/26661/2011
+Adopted Reference Number: EMA/26661/2011
 
 English (EN) (120.1 KB - PDF)
 
-**First published:** 21/01/2011
-
-**Last updated:** 21/01/2011
+**First published:** 21/01/2011 **Last updated:** 21/01/2011
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-gilenya_en.pdf)
 
-#### News on Gilenya
+## News on Gilenya
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2019) 26/07/2019
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2019)
 
-[Updated restrictions for Gilenya: multiple sclerosis medicine not to be used in pregnancy](/en/news/updated-restrictions-gilenya-multiple-sclerosis-medicine-not-be-used-pregnancy) 26/07/2019
+26/07/2019
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 September 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-september-2018) 21/09/2018
+[Updated restrictions for Gilenya: multiple sclerosis medicine not to be used in pregnancy](/en/news/updated-restrictions-gilenya-multiple-sclerosis-medicine-not-be-used-pregnancy)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018) 27/07/2018
+26/07/2019
 
-[New recommendations to minimise risks of the rare brain infection PML and a type of skin cancer with Gilenya](/en/news/new-recommendations-minimise-risks-rare-brain-infection-pml-type-skin-cancer-gilenya) 18/12/2015
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 September 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-september-2018)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 December 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-december-2015) 18/12/2015
+21/09/2018
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 September 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-september-2015) 25/09/2015
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2014) 25/04/2014
+27/07/2018
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 April 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-april-2012) 20/04/2012
+[New recommendations to minimise risks of the rare brain infection PML and a type of skin cancer with Gilenya](/en/news/new-recommendations-minimise-risks-rare-brain-infection-pml-type-skin-cancer-gilenya)
 
-[European Medicines Agency gives new advice to better manage risk of adverse effects on the heart with Gilenya](/en/news/european-medicines-agency-gives-new-advice-better-manage-risk-adverse-effects-heart-gilenya) 20/04/2012
+18/12/2015
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 January 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-january-2012) 20/01/2012
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 December 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-december-2015)
 
-[European Medicines Agency starts review of Gilenya (fingolimod)](/en/news/european-medicines-agency-starts-review-gilenya-fingolimod) 20/01/2012
+18/12/2015
 
-#### More information on Gilenya
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 September 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-september-2015)
+
+25/09/2015
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2014](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2014)
+
+25/04/2014
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 April 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-april-2012)
+
+20/04/2012
+
+[European Medicines Agency gives new advice to better manage risk of adverse effects on the heart with Gilenya](/en/news/european-medicines-agency-gives-new-advice-better-manage-risk-adverse-effects-heart-gilenya)
+
+20/04/2012
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 January 2012](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-january-2012)
+
+20/01/2012
+
+[European Medicines Agency starts review of Gilenya (fingolimod)](/en/news/european-medicines-agency-starts-review-gilenya-fingolimod)
+
+20/01/2012
+
+## More information on Gilenya
 
 Gilenya: Product Information as approved by the CHMP on 25 July 2019, pending endorsement by the European Commission
 
@@ -1622,9 +1045,7 @@ Gilenya : Product Information as approved by the CHMP on 17 December 2015, pendi
 
 English (EN) (327.38 KB - PDF)
 
-**First published:** 18/12/2015
-
-**Last updated:** 18/12/2015
+**First published:** 18/12/2015 **Last updated:** 18/12/2015
 
 [View](/en/documents/other/gilenya-product-information-approved-chmp-17-december-2015-pending-endorsement-european-commission_en.pdf)
 
@@ -1634,9 +1055,7 @@ Reference Number: EMA/254587/2012
 
 English (EN) (70.75 KB - PDF)
 
-**First published:** 20/04/2012
-
-**Last updated:** 20/04/2012
+**First published:** 20/04/2012 **Last updated:** 20/04/2012
 
 [View](/en/documents/medicine-qa/questions-and-answers-review-gilenya-outcome-procedure-under-article-20-regulation-ec-no-7262004_en.pdf)
 
@@ -1644,9 +1063,7 @@ Gilenya: Product information as approved by the CHMP on 19 April 2012, pending e
 
 English (EN) (383.29 KB - PDF)
 
-**First published:** 20/04/2012
-
-**Last updated:** 20/04/2012
+**First published:** 20/04/2012 **Last updated:** 20/04/2012
 
 [View](/en/documents/other/gilenya-product-information-approved-chmp-19-april-2012-pending-endorsement-european-commission_en.pdf)
 
@@ -1656,23 +1073,169 @@ Reference Number: EMA/43541/2012
 
 English (EN) (162.49 KB - PDF)
 
-**First published:** 20/01/2012
-
-**Last updated:** 20/01/2012
+**First published:** 20/01/2012 **Last updated:** 20/01/2012
 
 [View](/en/documents/medicine-qa/questions-and-answers-ongoing-review-gilenya-fingolimod_en.pdf)
 
-#### More information on Gilenya
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Gilenya : EPAR - Product information - tracked changes
+
+English (EN) (182.81 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/en/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (23)](#file-language-dropdown-604)
+
+български (BG) (277.67 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/bg/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (232.97 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/es/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (243.85 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/cs/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (231.67 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/da/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (258.29 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/de/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_de.docx)
+
+eesti (ET) (209.06 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/et/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_et.docx)
+
+français (FR) (218.92 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/fr/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (233.81 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/hr/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_hr.docx)
+
+italiano (IT) (216.85 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/it/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_it.docx)
+
+latviešu (LV) (238.03 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/lv/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių (LT) (221.05 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/lt/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (224.41 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/hu/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (214.08 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/mt/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (204.71 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/nl/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_nl.docx)
+
+polski (PL) (234.54 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/pl/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (185.63 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/pt/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (224.8 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/ro/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (209.95 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/sk/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (240.1 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/sl/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_sl.docx)
+
+suomi (FI) (210.93 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/fi/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (192.11 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/sv/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (233.84 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/is/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (215.95 KB - DOCX)
+
+**First published:** 30/07/2026
+
+[View](/no/documents/product-information-tracked-changes/gilenya-epar-product-information-tracked-changes_no.docx)
+
+## More information on Gilenya
 
 - [EMEA-000087-PIP01-07-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000087-pip01-07-m05)
 - [Gilenya - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/gilenya)
 
-#### Topics
+**This page was last updated on**
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
-**This page was last updated on** 03/02/2026
+30/07/2026
 
 ## Share this page
-
-[Back to top](#main-content)

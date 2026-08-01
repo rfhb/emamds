@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-25 09:34:06
+document_datetime: 2026-07-29 12:40:05
 document_pages: 59
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/padcev-epar-product-information_en.pdf
 document_name: padcev-epar-product-information_en.pdf
 version: success
-processing_time: 30.1533295
-conversion_datetime: 2026-07-04 14:49:45.94483
+processing_time: 18.7182742
+conversion_datetime: 2026-08-01 12:00:38.072509
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -788,6 +788,8 @@ Name and address of the manufacturer(s) of the biological active substance
 
 Lonza AG Lonzastrasse Visp, 3930 Switzerland
 
+BSP Pharmaceuticals S.p.A Via Appia Km. 65,561 04013 Latina Scalo (LT) Italy
+
 Name and address of the manufacturer(s) responsible for batch release
 
 Astellas Ireland Co. Limited, Killorglin, Co. Kerry V93 FC86 Ireland
@@ -800,7 +802,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## -Periodic safety update reports (PSURs)
+- -Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -815,11 +817,11 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
-## -Additional risk minimization measures
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- -Additional risk minimization measures
 
 Prior to use of Padcev in each Member State, the MAH should agree on the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
 
@@ -906,8 +908,8 @@ Do not freeze.
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Astellas Pharma Europe B.V.
 
@@ -941,8 +943,8 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
@@ -950,17 +952,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE   |
-|--------------------------------------------------|
-| VIAL                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL   |
+|------------------------------------------|
+| VIAL                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 PADCEV 20 mg powder for concentrate for solution for infusion enfortumab vedotin Intravenous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 For IV use after reconstitution and dilution.
 
@@ -974,8 +976,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 10 mg /mL
 
@@ -1078,17 +1080,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE   |
-|--------------------------------------------------|
-| VIAL                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL   |
+|------------------------------------------|
+| VIAL                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 PADCEV 30 mg powder for concentrate for solution for infusion enfortumab vedotin Intravenous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 For IV use after reconstitution and dilution.
 
@@ -1102,8 +1104,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 10 mg /mL
 

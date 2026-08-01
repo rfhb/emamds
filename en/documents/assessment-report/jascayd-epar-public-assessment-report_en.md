@@ -1,24 +1,24 @@
 ---
-document_datetime: 2026-07-21 08:38:31
+document_datetime: 2026-07-30 12:40:56
 document_pages: 303
 document_pathfilename: www.ema.europa.eu/en/documents/assessment-report/jascayd-epar-public-assessment-report_en.pdf
 document_name: jascayd-epar-public-assessment-report_en.pdf
 version: success
-processing_time: 521.4871458
-conversion_datetime: 2026-07-29 16:56:00.456601
+processing_time: 576.5842258
+conversion_datetime: 2026-08-01 12:25:12.741418
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.116.0
-  docling-core: 2.88.0
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
   docling-ibm-models: 3.13.3
   docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 <!-- image -->
 
-21 May 2026 EMADOC-1829012207-55748 Committee for Medicinal Products for Human Use (CHMP)
+21 May 2026 EMADOC-1829012207-55748 Corr.1 Committee for Medicinal Products for Human Use (CHMP)
 
 ## Assessment report
 
@@ -178,9 +178,9 @@ Assessment report as adopted by the CHMP with all information of a commercially 
 
 <div style=\"page-break-after: always\"></div>
 
-9.6.3. Additional considerations on the benefit-risk balance  .........................................  303
+## 9.6.3. Additional considerations on the benefit-risk balance  .........................................  303 9.7. Benefit-risk conclusions ...................................................................................  303
 
-9.7. Benefit-risk conclusions ...................................................................................  303
+Assessment report
 
 <div style=\"page-break-after: always\"></div>
 
@@ -367,7 +367,7 @@ The application submitted is composed of administrative information, complete qu
 
 Pursuant to Article 7 of Regulation (EC) No 1901/2006, the application included an EMA decision P/0459/2021 on the agreement of a paediatric investigation plan (PIP).
 
-At the time of submission of the application, the PIP P/0459/2021 had not yet been completed as some measures had been deferred.
+At the time of submission of the application, the PIP P/0459/2021 had not yet been completed as some
 
 <div style=\"page-break-after: always\"></div>
 
@@ -882,9 +882,11 @@ The effects of nerandomilast on hERG-mediated potassium current and action poten
 
 No dedicated studies were performed. In one PD study the inhibition of IPF lung fibroblast (IPF-LF) transformation, nerandomilast inhibited α -SMA protein expression of TGFβ -stimulated cells with an IC50 of 210 nmol/L. The combination of nerandomilast with 10, 30 or 100 nmol/L nintedanib yielded in IC50 values of 250, 180, and 110 nmol/L, respectively for concentration-dependent inhibition of TGFβ -stimulated α -SMA protein expression in human lung fibroblasts from patients with IPF. Additive effects of nerandomilast and nintedanib were seen for TGFβ -induced collagen III mRNA expression. A combination of nerandomilast with 100 μ M pirfenidone resulted in an IC50 value of 310 nmol/L, nerandomilast alone resulted in an IC50 of 210 nmol/L. Nintedanib and pirfenidone were not used alone.
 
-In addition, nerandomilast inhibits FGF plus IL-1 β - induced proliferation of IPF-LF. A combination of nerandomilast with Nintedanib (100 nmol/L) resulted in synergistic inhibitory activity on FGF plus IL-1 β -induced proliferation and additive effects on TGFβ -induced collagen III mRNA expression. Nerandomilast alone resulted in an IC50 of 255 nmol/L. The combination with 100 nmol/L of nintedanib resulted in a synergistic inhibitory efficacy and shifted the IC50 to 23 nmol/L. Pirfenidone and nerandomilast resulted in an IC50 value of 100 nmol/L, which was not considered a significant change in efficacy.
+In addition, nerandomilast inhibits FGF plus IL-1 β - induced proliferation of IPF-LF. A combination of nerandomilast with nintedanib (100 nmol/L) resulted in synergistic inhibitory activity on FGF plus IL-1 β -induced proliferation. Nerandomilast alone resulted in an IC50 of 255 nmol/L. The combination with 100
 
 <div style=\"page-break-after: always\"></div>
+
+nmol/L of nintedanib resulted in a synergistic inhibitory efficacy and shifted the IC50 to 23 nmol/L. Pirfenidone and nerandomilast resulted in an IC50 value of 100 nmol/L, which was not considered a significant change in efficacy.
 
 ## 4.3.2. Pharmacokinetics
 
@@ -896,7 +898,7 @@ The PK of nerandomilast in nonclinical species was characterised by low clearanc
 
 ## 4.3.2.2. Distribution
 
-Plasma protein binding and blood cell partitioning were investigated in vitro. The binding of [ 14 C]nerandomilast to plasma proteins was low in all species except rat where binding was moderate (88%) and rabbit where binding was high (96%). Binding was low in humans at 77%. The extent of partitioning in blood cell vs plasma was moderate in rat, minipigs and humans (CB/CP = 0.4-0.8). When evaluated ex vivo, there was a trend of increasing partitioning of nerandomilast into blood cells with increasing time post administration in mouse, monkey and minipig. Distribution of nerandomilast was quantified using QWBA following administration of [ 14 C]nerandomilast to albino and pigmented male rats as well as pregnant female rats. Tissue distribution of radioactivity from whole blood into peripheral tissues appeared to be fast and extensive. In pigmented rats, there was moderate affinity of radioactivity to melanin-containing tissues of the eye, but no discernible affinity to melanin in the skin. Radioactivity was low but still detectable in the CNS with levels up to 7% of levels in the blood at 1 and 8 h post dosing. While radioactivity of up to 4% of in brain tissue is accepted as background levels , the presence of up to 7% may indicate low permeability of the blood -brain-barrier to nerandomilast and/or its metabolites in pigmented and albino rats.
+Plasma protein binding and blood cell partitioning were investigated in vitro. The binding of [ 14 C]nerandomilast to plasma proteins was low in all species except rat where binding was moderate (88%) and rabbit where binding was high (96%). Binding was low in humans at 77%. The extent of partitioning in blood cell vs plasma was moderate in rat, minipigs and humans (CB/CP = 0.4-0.8). When evaluated ex vivo, there was a trend of increasing partitioning of nerandomilast into blood cells with increasing time post administration in mouse, monkey and minipig. Distribution of nerandomilast was quantified using QWBA following administration of [ 14 C]nerandomilast to albino and pigmented male rats as well as pregnant female rats. Tissue distribution of radioactivity from whole blood into peripheral tissues appeared to be fast and extensive. In pigmented rats, there was moderate affinity of radioactivity to melanin-containing tissues of the eye, but no discernible affinity to melanin in the skin. Radioactivity was low but still detectable in the CNS with levels up to 7% of levels in the blood at 1 and 8 h post dosing. While radioactivity of up to 4% of in brain tissue is accepted as background levels, the presence of up to 7% may indicate low permeability of the blood -brain-barrier to nerandomilast and/or its metabolites in pigmented and albino rats.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -906,15 +908,15 @@ Distribution of radioactivity into the placenta was moderate (~1.2X higher than 
 
 Nerandomilast was extensively metabolized via multiple pathways, which were generally similar across the species evaluated. The predominant metabolic pathways included oxidation, glucuronidation and N -dealkylation. Numerous metabolites were identified in nonclinical species including 24 in mice, 21 in rats, 22 in minipigs and 27 in monkeys. The most abundant circulating metabolite differed among species and included CD 6352 and M464(6) in male and female mice respectively, CD 6352 in rats, M624(1) in minipigs and M640(3) in monkeys. Eighteen metabolites were identified in humans. The only major human metabolite was BI 764333 which represented 12.5% of total circulating drug -related material at steady state. This metabolite is not pharmacologically active at relevant circulating concentrations in humans. The contribution of individual CYP and UGT isoforms to the metabolism of nerandomilast were evaluated in vitro using HLMs and rCYPs/rUGTs. CYP3A (mainly 3A4) was identified as the predominant metabolising enzyme and is responsible for the formation of CD 6352 and the only major human metabolite BI 764333 through oxidation. In vitro studies using a selective CYP3A inhibitor estimated that this CYP isoform contributes to approximately 70% of nerandomilast metabolism in humans. Clinical DDI trials were conducted with a strong CYP3A inhibitor, itraconazole, and moderate and strong CYP3A inducers. UGT isoforms 1A3, 1A8, 1A9, 2B4 and 2B7 contribute to the glucuronidation of nerandomilast to form M624(1), however this is a minor metabolic pathway in humans and the exposure of M624(1) is less than 25% of nerandomilast exposure, therefore no DDI studies were conducted.
 
-Nerandomilast undergoes in vivo enzymatic chiral
-
-inversion to form its S -enantiomer, PD 1420, following oral administration to humans and all evaluated nonclinical species. Nerandomilast (sulfoxide) undergoes gut microflora-mediated reduction to form BI 764334 (sulfide) which is then oxidized to PD 1420 by CYP3A. PD 1420 accou nts for 3.27% of circulating drug-related material in humans and is considered a minor metabolite. It is not active at relevant plasma concentrations in humans. In vivo studies were conducted to definitively determine the relative plasma exposures of nerandomilast ( Renantiomer) and PD 1420 ( Senantiomer) in mice, rats, minipigs, monkeys, pregnant rabbits and humans using chiral bioanalytical methods. Nerandomilast was the predominant enantiomer in all species, but PD 1420 was detectable in plasma indicating chiral inversion occurred. Chiral inv ersion was very limited in mice (&lt;2%) but occurred to a greater extent in other nonclinical species evaluated ranging from 1.276.47% in rats, rabbits and monkeys. Humans experienced ~11% of ch iral inversion.
+Nerandomilast undergoes in vivo enzymatic chiral inversion to form its S -enantiomer, PD 1420, following oral administration to humans and all evaluated nonclinical species. Nerandomilast (sulfoxide) undergoes gut microflora-mediated reduction to form BI 764334 (sulfide) which is then oxidized to PD 1420 by CYP3A. PD 1420 accou nts for 3.27% of circulating drug -related material in humans and is considered a minor metabolite. It is not active at relevant plasma concentrations in humans. In vivo studies were conducted to definitively determine the relative plasma exposures of nerandomilast ( Renantiomer) and PD 1420 ( Senantiomer) in mice, rats, minipigs, monkeys, pregnant rabbits and humans using chiral bioanalytical methods. Nerandomilast was the predominant enantiomer in all species, but PD 1420 was detectable in plasma indicating chiral inversion occurred. Chiral inv ersion was very limited in mice (&lt;2%) but occurred to a greater extent in other nonclinical species evaluated ranging from 1.276.47% in rats, rabbits and monkeys. Humans experienced ~11% of chiral inversion.
 
 ## 4.3.2.4. Excretion
 
-The major route of excretion in all evaluated species was faeces, representing 4989% of the dose. In urine 1236% of the oral radioactive dose was recovered across species. Rodents had a greater extent of radioactivity excreted via faeces when compared to minipigs, monkeys, and humans, which were generally similar. Renal secretion of parent nerandomilast was lower in nonclinical species (1.15.2% of dose) than in humans (approximately 1213%). Based upon the excretion of nerandomilast and metabolites in urine and faeces, the primary route of nerandomilast clearance was via metabolism by CYP3A. Nerandomilast-related radioactivity was measured in the milk of lactating rats administered [ 14 C]nerandomilast. Radioactivity was measurable 1 h postdose indicating a rapid transfer and ~2.6% of the administered dose was recovered in milk over 24 h period.
+The major route of excretion in all evaluated species was faeces, representing 4989% of the dose. In urine 1236% of the oral radioactive dose was recovered across species. Rodents had a greater extent of radioactivity excreted via faeces when compared to minipigs, monkeys, and humans, which were generally similar. Renal secretion of parent nerandomilast was lower in nonclinical species (1.15.2% of dose) than in humans (approximately 1213%). Based upon the excretion of nerandomilast and metabolites in urine and faeces, the primary route of nerandomilast clearance was via metabolism by CYP3A. Nerandomilast-related radioactivity was measured in the milk of lactating rats administered
 
 <div style=\"page-break-after: always\"></div>
+
+[ 14 C]nerandomilast. Radioactivity was measurable 1 h postdose indicating a rapid transfer and ~2.6% of the administered dose was recovered in milk over 24 h period.
 
 ## 4.3.2.5. Pharmacokinetic drug interactions
 
@@ -938,9 +940,9 @@ In rats, a dose level of 2 mg/kg/day did not result in adverse changes and expos
 
 In the 39-week study in minipigs a dose level of 3 mg/kg/day was judged a low observed adverse effect level, with exposure equivalent to humans at the MRHD.
 
-<div style=\"page-break-after: always\"></div>
-
 An increased IL-6 expression (mRNA and protein) as a consequence of usage of high doses of pan-PDE4 inhibitors has been linked to the development of mesenteric vasculitis in rat [Dietsch 2006].
+
+<div style=\"page-break-after: always\"></div>
 
 The objective of a study was to determine if LPS-stimulated, high-dose PDE4 inhibitor treated whole blood assay in the minipig resembles more the situation in the human or the rat (maximum TNFα inhibition around 80% without induction of IL -6 release for human versus 100% TNF -α inhibition and up to 7-fold increase in IL-6 release for rat), as published.
 
@@ -1010,17 +1012,17 @@ Not applicable
 
 ## 4.4.8. Other toxicity studies
 
-## Metabolites
+Metabolites
 
 ## BI 764333
 
 The major human metabolite BI 764333 is formed in multiple nonclinical species including mice, rats, minipigs, and monkeys. Plasma exposures reached in repeat-dose toxicity, DART, and carcinogenicity studies were adequate to evaluate its respective effects, with the conclusion that BI 764333 did not contribute to adverse changes. BI 764333 was negative for mutagenicity and clastogenicity in the in vitro bacterial reverse mutation and chromosomal aberration assays. A hERG assay performed with BI 764333 indicated a minimal likelihood of an effect on the potassium channel.
 
-<div style=\"page-break-after: always\"></div>
-
 Adverse findings in the nerandomilast oral repeat-dose toxicity and DART studies were attributed to primary or secondary effects of PDE4i, rather than to BI 764333 exposure.
 
 Nerandomilast showed no evidence of carcinogenic potential in oral administration studies in mice or rats. Therefore, BI 764333 was considered adequately characterized for general toxicity, carcinogenicity, and DART based on results of the nerandomilast oral administration studies.
+
+<div style=\"page-break-after: always\"></div>
 
 ## S-enantiomer of nerandomilast (PD 1420)
 
@@ -1048,13 +1050,13 @@ Nerandomilast tested negative for phototoxic potential in the 3T3 neutral red up
 
 An environmental risk assessment for nerandomilast has been conducted in accordance with the Guideline on the environmental risk assessment of medicinal products for human use (EMEA/CHMP/SWP/4440/00 Rev.1-Corr*) including a risk assessment and a hazard assessment.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 3: Summary of main study results: Phase I
 
 | Substance (INN/Invented Name):   | Nerandomilast   |
 |----------------------------------|-----------------|
 | CAS-number (if available):       | 1423719-30-5    |
+
+<div style=\"page-break-after: always\"></div>
 
 | Phase I                              | Phase I   | Phase I   | Phase I             |
 |--------------------------------------|-----------|-----------|---------------------|
@@ -1064,29 +1066,28 @@ Table 3: Summary of main study results: Phase I
 
 Table 4: Summary of main study results: Phase II
 
-| Phase II Physical-chemical properties and fate                                                          | Phase II Physical-chemical properties and fate   | Phase II Physical-chemical properties and fate   | Phase II Physical-chemical properties and fate                  | Phase II Physical-chemical properties and fate                  | Phase II Physical-chemical properties and fate   |
-|---------------------------------------------------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------|
-| Study type                                                                                              | Test protocol                                    | Test protocol                                    | Result                                                          | Result                                                          | Remarks                                          |
-| Adsorption-Desorption Soil 1 = silt loam                                                                | OECD 106                                         | OECD 106                                         | KFOC, soil 1 = 637.1 L/kgoc                                     | KFOC, soil 1 = 637.1 L/kgoc                                     |                                                  |
-| Soil 2 = sandy loam                                                                                     |                                                  |                                                  | KFOC, soil 2 = 509.8 L/kgoc                                     | KFOC, soil 2 = 509.8 L/kgoc                                     |                                                  |
-| Soil 3 = loamy sand                                                                                     |                                                  |                                                  | KFOC, soil 3 = 385.9 L/kgoc                                     | KFOC, soil 3 = 385.9 L/kgoc                                     |                                                  |
-| Sludge 1 = Broadholme                                                                                   |                                                  |                                                  | KFOC, sludge 1 = 70.1 L/kgoc                                    | KFOC, sludge 1 = 70.1 L/kgoc                                    |                                                  |
-| Sludge 2 = Milton                                                                                       |                                                  |                                                  | KFOC, sludge 2 = 87.9 L/kgoc                                    | KFOC, sludge 2 = 87.9 L/kgoc                                    |                                                  |
-| Ready Biodegradability Test                                                                             | OECD 301B                                        | OECD 301B                                        | 2.6 % ( 28 d) not readily biodegradable                         | 2.6 % ( 28 d) not readily biodegradable                         |                                                  |
-| Aerobic and Anaerobic Transformation in Aquatic Sediment systems Sediment 1 = Calwich Abbey (silt loam) | OECD 308                                         | OECD 308                                         | DT50, water 1 = 6.52 d DT50, whole system 1 = 30.3 d CO2 = <1 % | DT50, water 1 = 6.52 d DT50, whole system 1 = 30.3 d CO2 = <1 % | 20 °C                                            |
-| Sediment 2 = Lumsdale (sand)                                                                            |                                                  |                                                  | DT50, water 2 = 9.81d DT50, whole system 2 = 81.5 d CO2 = <1 %  | DT50, water 2 = 9.81d DT50, whole system 2 = 81.5 d CO2 = <1 %  | 20°C                                             |
-| Transformation products                                                                                 |                                                  |                                                  | >10% = N                                                        | >10% = N                                                        |                                                  |
-| Phase II Aquatic effect studies                                                                         | Phase II Aquatic effect studies                  | Phase II Aquatic effect studies                  | Phase II Aquatic effect studies                                 | Phase II Aquatic effect studies                                 | Phase II Aquatic effect studies                  |
-| Study type                                                                                              | Test protocol                                    | Endpoint                                         | Endpoint                                                        | Value Unit                                                      | Remarks                                          |
-| Algae, Growth Inhibition Test/ Raphidocelis subcapitata                                                 | OECD 201                                         | EC10                                             | EC10                                                            | 4090 µg/L                                                       | growth rate                                      |
-| Daphnia sp. Reproduction Test/                                                                          | OECD 211                                         | EC10                                             | EC10                                                            | 3300 µg/L                                                       | Reproduction                                     |
+| Phase II Physical-chemical properties and fate                   | Phase II Physical-chemical properties and fate   | Phase II Physical-chemical properties and fate   | Phase II Physical-chemical properties and fate                  | Phase II Physical-chemical properties and fate                  | Phase II Physical-chemical properties and fate   |
+|------------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------|
+| Study type                                                       | Test protocol                                    | Test protocol                                    | Result                                                          | Result                                                          | Remarks                                          |
+| Adsorption-Desorption Soil 1 = silt loam                         | OECD 106                                         | OECD 106                                         | KFOC, soil 1 = 637.1 L/kgoc                                     | KFOC, soil 1 = 637.1 L/kgoc                                     |                                                  |
+| Soil 2 = sandy loam                                              |                                                  |                                                  | KFOC, soil 2 = 509.8 L/kgoc                                     | KFOC, soil 2 = 509.8 L/kgoc                                     |                                                  |
+| Soil 3 = loamy sand                                              |                                                  |                                                  | KFOC, soil 3 = 385.9 L/kgoc                                     | KFOC, soil 3 = 385.9 L/kgoc                                     |                                                  |
+| Sludge 1 = Broadholme                                            |                                                  |                                                  | KFOC, sludge 1 = 70.1 L/kgoc                                    | KFOC, sludge 1 = 70.1 L/kgoc                                    |                                                  |
+| Sludge 2 = Milton                                                |                                                  |                                                  | KFOC, sludge 2 = 87.9 L/kgoc                                    | KFOC, sludge 2 = 87.9 L/kgoc                                    |                                                  |
+| Ready Biodegradability Test                                      | OECD 301B                                        | OECD 301B                                        | 2.6 % ( 28 d) not readily biodegradable                         | 2.6 % ( 28 d) not readily biodegradable                         |                                                  |
+| Aerobic and Anaerobic Transformation in Aquatic Sediment systems | OECD 308                                         | OECD 308                                         | DT50, water 1 = 6.52 d DT50, whole system 1 = 30.3 d CO2 = <1 % | DT50, water 1 = 6.52 d DT50, whole system 1 = 30.3 d CO2 = <1 % | 20 °C                                            |
+| Sediment 2 = Lumsdale (sand)                                     |                                                  |                                                  | DT50, water 2 = 9.81d DT50, whole system 2 = 81.5 d CO2 = <1 %  | DT50, water 2 = 9.81d DT50, whole system 2 = 81.5 d CO2 = <1 %  | 20°C                                             |
+| Transformation products                                          |                                                  |                                                  | >10% = N                                                        | >10% = N                                                        |                                                  |
+| Phase II Aquatic effect studies                                  | Phase II Aquatic effect studies                  | Phase II Aquatic effect studies                  | Phase II Aquatic effect studies                                 | Phase II Aquatic effect studies                                 | Phase II Aquatic effect studies                  |
+| Study type                                                       | Test protocol                                    | Endpoint                                         | Endpoint                                                        | Value Unit                                                      | Remarks                                          |
+| Algae, Growth Inhibition Test/ Raphidocelis subcapitata          | OECD 201                                         | EC10                                             | EC10                                                            | 4090 µg/L                                                       | growth rate                                      |
+| Daphnia sp. Reproduction Test/ Daphnia magna                     | OECD 211                                         | EC10 NOEC                                        | EC10 NOEC                                                       | 3300 8830 µg/L µg/L                                             | Reproduction Mortality                           |
+| Fish, ELS/ Danio rerio                                           | OECD 210                                         | EC10 EC10                                        | EC10 EC10                                                       | 7590 >8870 µg/L µg/L                                            | Dry weight Hatching, survival, length            |
 
 <div style=\"page-break-after: always\"></div>
 
-| Daphnia magna                                       |                                  | NOEC                             |                                  | µg/L                             | Mortality                                                  |
-|-----------------------------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|------------------------------------------------------------|
-| Fish, ELS/ Danio rerio                              | OECD 210                         | EC10 EC10                        | 7590 >8870                       | µg/L µg/L                        | Dry weight Hatching, survival, length                      |
 | Activated Sludge, Respiration Inhibition Test       | OECD 209                         | EC10                             | 1 E+6                            | µg/L                             | total respiration                                          |
+|-----------------------------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|------------------------------------------------------------|
 | Phase II Sediment effect studies                    | Phase II Sediment effect studies | Phase II Sediment effect studies | Phase II Sediment effect studies | Phase II Sediment effect studies | Phase II Sediment effect studies                           |
 | Sediment Dwelling Organism Test/Chironomus riparius | OECD 218                         | EC10                             | >2314 .7                         | mg/kgdw                          | Emergence ratio, developmental rat, normalised to 10% o.c. |
 | Risk characterisation                               | Risk characterisation            | Risk characterisation            | Risk characterisation            | Risk characterisation            | Risk characterisation                                      |
@@ -1108,11 +1109,11 @@ Considering the above data from Phase I and Phase II, Nerandomilast is not expec
 
 Nerandomilast is a potent and selective inhibitor of the PDE4 enzyme intended for oral administration. Based on in vitro data, the applicant claims preferential inhibition of the PDE4B isoenzyme over PDE4A, C and D. However, at the proposed clinical dose of 18 mg BID, the observed unbound Cmax was approximately 107 nM. Thus, at these systemic concentrations, significant inhibition of both PDE4B and PDE4D is expected. It is known that inhibition of PDE4D may be responsible for the emetic effects. In this regard, emesis was indeed observed in animal species. Therefore, while the claim of preferential PDE4B inhibition may be supported by in vitro potency data, it is somewhat misleading without acknowledging that the clinical exposure range leads to substantial PDE4D inhibition as well.  Section 5.1 of the SmPC reflects available in vitro and clinical data.
 
-<div style=\"page-break-after: always\"></div>
-
-The pharmacological activity of the major human metabolite (BI 764333), CD 6352 and PD 1420 were also investigated. Studies demonstrated that pharmacological contribution of BI764333, CD 6352 and S-enantiomer PD 1420  metabolites is considered to be low.
+The pharmacological activity of the major human metabolite (BI 764333), CD 6352 and PD 1420 were also investigated. Studies demonstrated that pharmacological contribution of BI764333, CD 6352 and S-enantiomer PD 1420 metabolites is considered to be low.
 
 The nonclinical species used in toxicology assessment of nerandomilast are considered pharmacologically relevant for various reasons including data demonstrating similar IC50 values for human and minipig for nerandomilast. Pharmacological activity has also been demonstrated in a variety of species, including mice and rats, and there is high PDE4B2 gene homology between species.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Anti-inflammatory models
 
@@ -1134,11 +1135,11 @@ In the in vivo bleomycin model of lung fibrosis, nerandomilast was associated wi
 
 Considering the nature of the models and the high doses required for efficacy, the models are not appropriate for determining exposure/efficacy data, and the doses used were not considered as part of the rationale for deciding on the therapeutic dose. The dose of 18 mg BID was assumed to be the human efficacious dose in IPF and PPF based on other preclinical data and target engagement in Phase I.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Secondary Pharmacology
 
 Selectivity testing of nerandomilast versus 78 receptors and 42 enzymes at the high concentration of 10 μ M did not result in any relevant interaction.
+
+<div style=\"page-break-after: always\"></div>
 
 Gastrointestinal side-effects, including vomiting, are known effects limiting the use of PDE4 inhibitors in humans. Dose-limiting nausea- and emesis-associated effects caused by the inhibition of PDE4 subtypes in the emetic centre in the brain has limited the use of these inhibitors (Kolb 2023).
 
@@ -1162,11 +1163,11 @@ Pirfenidone had no effect on nerandomilast inhibition of TGFβ -stimulated α -S
 
 Nerandomilast is a selective and potent inhibitor of the human PDE4B enzyme. It has been developed as an enantiopure chiral drug that contains a sulfoxide in the R-orientation, while the S-enantiomer (PD 1420) is pharmacologically inactive at relevant exposure in humans.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Absorption
 
 Nerandomilast is expected to be absorbed well after oral administration based on its intrinsic membrane permeability (Papp &gt;20x10-6 cm/sec) and oral bioavailability in humans (73%). Nerandomilast is a substrate of P-gp but not BCRP. Clinical DDI study using itraconazole, (moderate Pgp inhibitor and strong CYP3A inhibitor) showed a moderate increase in nerandomilast exposure in humans.
+
+<div style=\"page-break-after: always\"></div>
 
 The PK profile was determined in mouse, rat, minipig and monkey following a single PO or IV dose of nerandomilast. The PK was characterised by low clearance (6.215% of hepatic blood flow for species), moderate volume of distribution (0.94-2.95 L/kg) and moderate to high bioavailability (4887%). Exposure (AUC) of nerandomilast was similar in mouse and rat following PO and IV dosing but different in minipigs; primarily driven by variation in female minipigs. The terminal half-life was similar in all species after IV and oral administration. The rate of absorption (expressed by Tmax) was fastest in mice (Tmax of 0.5 h) but slower in other species (Tmax of 2-5 h).
 
@@ -1184,11 +1185,11 @@ Pregnant female rats had a similar distribution pattern as seen in male rats in 
 
 ## Metabolism
 
-Nerandomilast was determined to be metabolised via multiple pathways that were generally similar between species. The predominant metabolic pathways were oxidation, glucuronidation, and N - dealkylation. No unique human metabolites were identified. Metabolic profiling was only conducted in healthy male subjects and therefore it is unknown if there is a sex effect in metabolism in humans.
+Nerandomilast was determined to be metabolised via multiple pathways that were generally similar between species. The predominant metabolic pathways were oxidation, glucuronidation, and N -dealkylation. No unique human metabolites were identified. Metabolic profiling was only conducted in healthy male subjects and therefore it is unknown if there is a sex effect in metabolism in humans.
+
+In humans , CYP3A was estimated to contribute to 70% of the metabolism of nerandomilast and was determined to be responsible for the formation of the only major human metabolite BI 764333 which represented 12.5% of total drug-related material (TDRM) in human plasma at steady state. This metabolite is not pharmacologically active at the relevant clinical dose. The next most abundant metabolite was CD 6352 (6.6%). All other metabolites each represented ≤2% of total circulating drug - related material. Results of a clinical DDI study with the CYP3A inhibitor, itraconazole, confirmed that CYP3A contributes to the metabolic clearance of nerandomilast. Clinical studies evaluating the impact of moderate and strong CYP3A inducers were also conducted. No other CYP isoform contributes to &gt;25% of the metabolism of nerandomilast. Multiple UGT isoforms contribute to the glucuronidation of nerandomilast and formation of M624(1), but these account for &lt;25% of metabolism and are considered a minor metabolic pathway.
 
 <div style=\"page-break-after: always\"></div>
-
-In humans , CYP3A was estimated to contribute to 70% of the metabolism of nerandomilast and was determined to be responsible for the formation of the only major human metabolite BI 764333 which represented 12.5% of total drug-related material (TDRM) in human plasma at steady state. This metabolite is not pharmacologically active at the relevant clinical dose. The next most abundant metabolite was CD 6352 (6.6%). All other metabolites each represented ≤2% of total circulating drug -related material. Results of a clinical DDI study with the CYP3A inhibitor, itraconazole, confirmed that CYP3A contributes to the metabolic clearance of nerandomilast. Clinical studies evaluating the impact of moderate and strong CYP3A inducers were also conducted. No other CYP isoform contributes to &gt;25% of the metabolism of nerandomilast. Multiple UGT isoforms contribute to the glucuronidation of nerandomilast and formation of M624(1), but these account for &lt;25% of metabolism and are considered a minor metabolic pathway.
 
 Plasma samples were analysed for circulating levels of nerandomilast and PD 1420 (inactive S -enantiomer of nerandomilast) and the extent of chiral inversion was calculated for each species following oral administration of nerandomilast. Parent nerandomilast was identified as the predominant drug-related component in the plasma of all species. Low levels of circulating PD 1420 were detected in the plasma of all species except mice confirming chiral inversion occurs in vivo . The extent of chiral inversion ranged from 1.26.8% in rats, rabbits and monkeys, and 8.3% in minipigs, which increased upon repeated administration to 28.6% . In humans the extent of chiral inversion was estimated at ~11%. CYP3A was demonstrated to be responsible for the oxidation of BI 76334 (intermediate metabolite formed in vivo ) to PD 1420 or the reformation of parent nerandomilast.
 
@@ -1200,19 +1201,17 @@ Excretion of drug-related radioactivity was rapid in mice and rats but slower in
 
 The interaction of nerandomilast with CYP and UGT isoforms was investigated in vitro and the potential for nerandomilast to cause DDIs as perpetrator was assessed using calculation methods from ICH M12. It was concluded that nerandomilast could induce CYPs 3A4, 2C8, 2C9 and potentially 2C19. In a clinical DDIstudy, nerandomilast was co-administered orally with a sensitive CYP3A substrate, midazolam, and no clinically relevant changes in midazolam exposure was observed. Based on these results, it is unlikely that nerandomilast would cause clinically relevant changes in exposure of CYP2C substrates as these enzymes are regulated by the same transcriptional pathways as CYP3A i.e. PXR and are less sensitive than CYP3A. Nerandomilast did not inhibit or inactivate CYP or UGT isoforms. Nerandomilast was shown to inhibit P-gp, BCRP, OAT3, MATE1 and MATE2-K in vitro with IC50 values of 26, 30-100, 30-100, 14.2, 11.2 µM, it is unlikely nerandomilast would cause clinically relevant inhibition of these transporters.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Single-dose toxicity
 
 Observations after the initial dose of 25 mg/kg to mini pigs in the 39-week study resulted in decreased appetite. After the initial dose of 60 mg/kg in the dose escalation/DRF in monkeys, emesis was observed, and at ≥ 300 mg/kg decreased motor activity was observed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Repeat-dose toxicity
 
 In rats , a dose level of 2 mg/kg/day was considered to not result in adverse changes and exposure was equivalent to (1-fold) humans at the MRHD (18 mg twice daily). The rat was considered the most sensitive species to toxicity caused by nerandomilast.
 
-In the 13-week study, effects on seminiferous tubules and rete tubules were observed in a doserelated manner in testes of male rats receiving ≥3 mg/kg/day (full to partial recovery), however, no effect of nerandomilast on fertility was observed in the rat FEED studies. In the 26-week rat study, hindlimb swelling and hypertrophic osteopathy, defined as inflammation adjacent to and within the periosteum with periosteal new bone formation, were observed at ≥4 mg/kg/day. Partial recovery in rats receiving the
-
-high-dose of 7.5 mg/kg/day was observed in a 13-week recovery period.
+In the 13-week study, effects on seminiferous tubules and rete tubules were observed in a doserelated manner in testes of male rats receiving ≥3 mg/kg/day (full to partial recovery), however, no effect of nerandomilast on fertility was observed in the rat FEED studies. In the 26-week rat study, hindlimb swelling and hypertrophic osteopathy, defined as inflammation adjacent to and within the periosteum with periosteal new bone formation, were observed at ≥4 mg/kg/day. Partial recovery in rats receiving the high-dose of 7.5 mg/kg/day was observed in a 13-week recovery period.
 
 In 4-, 13-, and 26-week rat studies, the NOAEL was considered to be 3, 6, and 2 mg/kg/day, respectively. However, NOAEL of the 13week study is not agreed with. NOAEL should be &lt;3 mg/kg/day due to liver and testes side effects.
 
@@ -1228,9 +1227,9 @@ In a dose escalation/6-week DRF study in monkeys, emesis was observed in a dose 
 
 During administration of nerandomilast to mature female monkeys over 39 weeks, sporadic prolongation of menstrual cycles was observed at 10 and 30 mg/kg/day (3 and 10-fold human AUC exposure at the MRHD) [n00307319]. Menstrual cycles were not affected at 3 mg/kg/day (equivalent to human AUC exposure at the MRHD). This finding is of potential relevance to humans and has been added in SmPC section 5.3.
 
-<div style=\"page-break-after: always\"></div>
-
 Hypertrophic osteopathy, inflammation surrounding the periosteum of the tibia and periosteal new bone formation, has been observed in a few rats following long-term repeat-dosing of nerandomilast, but has not been seen in non-rodent species. This included rats administered ≥4 mg/kg/day for 26 weeks and 2 mg/kg/day for 104 weeks, at exposures 4-fold and 2-fold human exposure at the MRHD, respectively. While this may not be considered of relevance for adults, it may become relevant for any future paediatric development.
+
+<div style=\"page-break-after: always\"></div>
 
 In conclusion, NOAELs in rat were determined at exposures which were 0.8 to 2-fold clinical exposure at the MRHD. In pig, NOAEL in the 13-week study was 6-fold the human exposure, but no NOAEL could be established in the 39-week study with cardiotoxic effects seen at exposure 0.9-fold the clinical exposure at the MRHD. NOAELs in monkey were at 7 to 10-fold the clinical exposure. In comparison with apremilast (a pan-PDE4i), where in mouse, rat and monkey, safety margins at NOAEL were of up to 3-fold, less than 0.1-fold and up to 6-fold, respectively, nerandomilast seems to be marginally less toxic to animals. Taking into account that a somewhat larger portion of nerandomilast is unbound in pig and monkey than in humans, the safety margins may be slightly underestimated in these two species. The vasculopathy in rats and minipigs, characterized by inflammation, haemorrhage, and necrosis of blood vessels, is a known class effect of PDE4 inhibitors in non-clinical models, and is thought to be a consequence of vascular tonus dysregulation and subsequent inflammatory response. Species dissimilarities in PDE4 expression and response to PDE4 inhibition are believed to be the cause of species-related differences in target tissues and effects. Still, vascular effects seen at higher doses in all species tested do not seem to be avoided by the selectivity of nerandomilast and its 9-fold preferential inhibition of PDE4B to other PDE4 receptors.
 
@@ -1248,15 +1247,17 @@ Taking the totality of data available, it can be agreed that the carcinogenic ri
 
 DART studies were conducted in rats and EFD studies were performed in rats and rabbits, which are both standard species for reproductive toxicology. The rat is the most sensitive species to PDE4irelated effects and the rabbit was less sensitive. Sufficient exposures could be achieved in both. Safety margins in rabbits, 4-fold at the NOAEL, were calculated based on the unbound fraction of nerandomilast due to the large difference in the unbound fraction between human and rabbit.
 
-<div style=\"page-break-after: always\"></div>
-
 ## FEED
 
 Non-adverse increases in mean testicular weights were observed in rat repeat-dose toxicity studies of 4 to 26 weeks duration at dose levels between 3 to 6/12 mg/kg/day.
 
-During administration of nerandomilast to mature female monkeys over 39 weeks, sporadic prolongation of menstrual cycles was observed at 10 and 30 mg/kg/day (3 and 10-fold human AUC exposure at the MRHD). Menstrual cycles were not affected at 3 mg/kg/day (equivalent to human AUC exposure at the MRHD) as mentioned in SmPC section 5.3.
+During administration of nerandomilast to mature female monkeys over 39 weeks, sporadic prolongation of menstrual cycles was observed at 10 and 30 mg/kg/day (3 and 10-fold human AUC
 
-In the FEED studies, no adverse effects on fertility in male and female rats were noted at 3 mg/kg/day (1.5 to 2.5fold human AUC exposure at the MRHD). Increased testis weight was observed at ≥ 6 mg/kg in FEED1 and marginally increased testis weights at 3 and 6 mg/kg/day in FEED2. At 9 mg/kg/day in males there were macroscopic findings in the testis and epididymis, and in females there were adverse effects on the maternal performance at doses above 6 mg/kg/day (increased postimplantation loss (%) and mean number of early resorptions and decreased mean number of live embryos) and on parental reproductive performance (lower mating, fertility and pregnancy indices).
+<div style=\"page-break-after: always\"></div>
+
+exposure at the MRHD). Menstrual cycles were not affected at 3 mg/kg/day (equivalent to human AUC exposure at the MRHD) as mentioned in SmPC section 5.3.
+
+In the FEED studies, no adverse effects on fertility in male and female rats were noted at 3 mg/kg/day (1.5 to 2.5fold human AUC exposure at the MRHD). Increased testis weight was observed at ≥ 6 mg/kg in FEED1 and marginally increased testis weights at 3 and 6 mg/kg/day in FEED2. At 9 mg/kg/day in males there were macroscopic findings in the testis and epididymis, and in females there were adverse effects on the maternal performance at doses above 6 mg/kg/day (increased postimplantation loss (%) and mean number of early resorption s and decreased mean number of live embryos) and on parental reproductive performance (lower mating, fertility and pregnancy indices).
 
 In the two FEED studies, the Applicant considers the NOAEL for fertility and early embryo-foetal development was to be 6 mg/kg/day, which is not agreed with. The post-implantation loss observed at 3 mg/kg was not taken into account and therefore, it is deemed more appropriate that the NOAEL is considered 6 mg/kg/day for fertility effects in males (Cmax = 4410 nmol/L; AUC(0-24h) = 26700 nmol·hr/L) and 3 mg/kg/day (Cmax = 3280 nmol/L; AUC(0-24h) = 18700 nmol·hr/L) in females and for early embryo-foetal development. NOAEL exposure levels (AUC0-24) in male and female rats were 3-4-fold human exposure at 18 mg bid. The text in SmPC Section 5.3 has been agreed to reflect these data.
 
@@ -1270,11 +1271,11 @@ Reproductive findings are consistent with findings for other PDE4 inhibitors des
 
 In a dose range-finding pre- and postnatal development study in rats, a maternal dose of 6 mg/kg/day (approximately 5 to 6-times human AUC exposure at the MRHD) resulted in lower pup weights. The pivotal pre- and postnatal development study in rats showed no adverse effects on maternal performance or toxicity at the high-dose of 3 mg/kg/day, which corresponded to 2-times human AUC exposure at the MRHD. Offspring (F1) development, behaviour, and reproductive performance were not affected. The presence of nerandomilast in the plasma of rat pups during the nursing period suggested secretion into rat milk. This conclusion is supported by the excretion of nerandomilastassociated radioactivity in the milk of lactating rats administered [ 14 C]nerandomilast orally.
 
+In compliance with the PIP, (P/0459/2021), a non-GLP dose range-finding (DRF) study was conducted in juvenile rats. The study aimed to evaluate nerandomilast tolerability and toxicokinetics (TK) and enable dose level selection for the definitive study. Doses of 1, 3, and 6 mg/kg/day were administered. Animals were dosed by once daily oral gavage from PNDs 14-27, supporting development from 1 year of age in humans. Based on early termination, mortalities, adverse microscopic findings, adverse clinical signs and decreased body weight gain, the no-observed-adverse-effect level (NOAEL) was considered to be 1 mg/kg/day, the lowest dose tested. A definitive juvenile toxicity rat study is agreed in the PIP, with the completion of this study deferred to September 2025.
+
 <div style=\"page-break-after: always\"></div>
 
-In compliance with the PIP, (P/0459/2021), a non-GLP dose range-finding (DRF) study was conducted in juvenile rats. The study aimed to evaluate nerandomilast tolerability and toxicokinetics (TK) and enable dose level selection for the definitive study. Doses of 1, 3, and 6 mg/kg/day were administered. Animals were dosed by once daily oral gavage from PNDs 14-27, supporting development from 1 year of age in humans. Based on early termination, mortalities, adverse microscopic findings, adverse clinical signs and decreased body weight gain, the no-observed-adverse-effect level (NOAEL) was considered to be 1 mg/kg/day, the lowest dose tested.oboA definitive juvenile toxicity rat study is agreed in the PIP, with the completion of this study deferred to September 2025.o Toxicokinetics and
-
-## exposure margins
+## Toxicokinetics and exposure margins
 
 In general, exposures (AUC and Cmax) increased in a dose-proportional to greater than doseproportional manner.
 
@@ -1296,13 +1297,13 @@ S-enantiomer of nerandomilast (PD 1420)
 
 The S-enantiomer of nerandomilast is a minor metabolite in humans . The S-enantiomer was shown to be 66-fold less potent at inhibition of PDE4B than nerandomilast and is considered to contribute minimally to pharmacological activity. Plasma levels of nerandomilast in all toxicology studies were measured using a non-chiral method, so actual levels of nerandomilast as the R-enantiomer and its Senantiomer can only be estimated. For most nonclinical species aside from minipig, in vivo chiral inversion of nerandomilast is lower than in humans.
 
-Impuritiesm Impurities added to nerandomilast were PD 1424, CD 6352, and PD 1420 (S-enantiomer of nerandomilast). once daily oral (gavage) administration of nerandomilast for at least 13 weeks in the rat at 1 and 3 mg/kg/day either with or without impurities resulted in no nerandomilast-related changes in any of the parameters examined. Therefore, impurities are considered qualified with respect to  their  exposure  at  the  higher  dose  level  of  3  mg/kg/day.mPD1420  showed  no  potential  for mutagenicity.
+## Impurities
 
-PD 1412 was present in DS used in repeat-dose toxicology, carcinogenicity, and DART. General toxicity was adequately assessed in repeatdose toxicity studies in monkeys.  Nerandomilast containing 0.55% PD 1412 was orally administered for 13 and 39 weeks, with monkeys receiving up to 0.165 mg/kg/day PD 1412 at the nerandomilast high-dose of 30 mg/kg/day. PD 1412 may be considered qualified up to
+Impurities added to nerandomilast were PD 1424, CD 6352, and PD 1420 (S-enantiomer of nerandomilast). Once daily oral (gavage) administration of nerandomilast for at least 13 weeks in the rat at 1 and 3 mg/kg/day either with or without impurities resulted in no nerandomilast-related changes in any of the parameters examined. Therefore, impurities are considered qualified with respect to their exposure at the higher dose level of 3 mg/kg/day.mPD1420 showed no potential for mutagenicity.
+
+PD 1412 was present in DS used in repeat-dose toxicology, carcinogenicity, and DART. General toxicity was adequately assessed in repeatdose toxicity studies in monkeys.  Nerandomilast containing 0.55% PD 1412 was orally administered for 13 and 39 weeks, with monkeys receiving up to 0.165 mg/kg/day PD 1412 at the nerandomilast high-dose of 30 mg/kg/day. PD 1412 may be considered qualified up to 7.38 % based on the weight of 50kg. Considering high-dose levels of 9 mg/kg/day (pregnant rats) and 60 mg/kg/day (male mice), PD 1412 can be qualified at 1.11% and 3.73%, for DART studies and carcinogenicity respectively, based on the weight of 50kg.
 
 <div style=\"page-break-after: always\"></div>
-
-7.38 % based on the weight of 50kg. Considering high-dose levels of 9 mg/kg/day (pregnant rats) and 60 mg/kg/day (male mice), PD 1412 can be qualified at 1.11% and 3.73%, for DART studies and carcinogenicity respectively, based on the weight of 50kg.
 
 Together with carcinogenicity data from transgenic mice, the impurity can be considered as nonmutagenic. Taken together, PD 1412 is considered qualified.
 
@@ -1573,7 +1574,7 @@ In plasma, nerandomilast was the most abundant circulating drug-related componen
 
 ## Metabolite profiling after multiple dose
 
-In trial 1305-0011, metabolites were measured in the 12 mg bid nerandomilast treatment group. At steady state, nerandomilast was the predominant compound circulating in human plasma, accounting for ~72% of the total drug -related material (TDRM). 11 metabolites were identified in human plasma at steady state, however, BI 764333 (di-oxidation metabolite) was the only major human metabolite as it represented 12% of TDRM (AUC0 -24). The next most abundant metabolite identified was CD 6352, a product of mono-oxid ation, which represented only 6.6% of TDRM in these plasma samples.
+In trial 1305-0011, metabolites were measured in the 12 mg bid nerandomilast treatment group. At steady state, nerandomilast was the predominant compound circulating in human plasma, accounting for ~72% of the total drug -related material (TDRM). 11 metabolites were identified in human plasma at steady state, however, BI 764333 (di-oxidation metabolite) was the only major human metabolite as it represented 12% of TDRM (AUC0-24). The next most abundant metabolite identified was CD 6352, a product of monooxidation, which represented only 6.6% of TDRM in these plasma samples.
 
 ## Interconversion
 
@@ -1699,6 +1700,10 @@ Numerically higher exposures were predicted in the PPF patient population compar
 
 <!-- image -->
 
+<!-- image -->
+
+<!-- image -->
+
 Source code: pk-population-sims.R Source graphic: deliv/figure/pk/popsims/pat-pop-bp.pdf
 
 Figure 10: Population Level Simulations: Boxplots of nerandomilast exposure versus dose stratified by exposure metric and patient population (IPF and PPF).
@@ -1793,9 +1798,11 @@ In exploratory subgroup analyses in the Phase III trials (1305-0014 and 1305-002
 
 ## Ethnic factors
 
-The PK of nerandomilast following a single dose of 18 mg in Chinese (Trial 1305-0024) and Japanese (Trial 1305-0038) healthy volunteers was compared to that of Caucasian healthy volunteers (Trial 13050028). AUC0∞ and Cmax in Chinese subjects were 1.4 -fold and 1.7-fold higher, respectively, compared to Caucasian subjects ( Table 15 ). Similarly, nerandomilast AUC0∞ and Cmax in Japanese subjects were 1.6 and 1.8-fold higher, respectively, compared to Caucasian healthy volunteers.
+The PK of nerandomilast following a single dose of 18 mg in Chinese (Trial 1305-0024) and Japanese (Trial 1305-0038) healthy volunteers was compared to that of Caucasian healthy volunteers (Trial 13050028). AUC0∞ and Cmax in Chinese subjects were 1.4 -fold and 1.7-fold higher, respectively, compared
 
 <div style=\"page-break-after: always\"></div>
+
+to Caucasian subjects ( Table 15 ). Similarly, nerandomilast AUC0∞ and Cmax in Japanese subjects were 1.6 and 1.8-fold higher, respectively, compared to Caucasian healthy volunteers.
 
 Table 15: Summary of PK parameters of nerandomilast after a single oral dose administration of 18 mg nerandomilast (Formulation C1) in healthy Caucasian (Trial 1305-0028) and Asian subjects (trials 1305-0024 and 1305-0038)
 
@@ -1823,7 +1830,7 @@ Median values are designated by a solid line in the center of the box. Boxes ind
 
 Figure 5: Population Level Simulations: Boxplots of nerandomilast exposure versus dose stratified by exposure metric and ethnicity (Japanese, Chinese, and non-Japanese/nonChinese).
 
-Additional simulations in the safety exposureresponse models for diarrhoea and weight loss &gt;=5% showed that although the exposures are higher in Asian patients with low body weight (40 kg), the predicted diarrhoea rate is lower than non-Japanese and non-Chinese patients with normal body weight (70 kg). This phenomenon is attributed to an Asian race covariate effect identified in the diarrhoea exposure-response model and is consistent with observed safety events that Asian patients had an overall lower incidence of diarrhoea compared to non-Asian patients at 18 mg, despite a generally higher exposure. Similarly, the incidence of weight loss (≥ 5%) in Asian patients with low body weight are comparable to non-Asian patients with normal body weight when administered nerandomilast 18 mg bid.
+Additional simulations in the safety exposureresponse models for diarrhoea and weight loss &gt;=5% showed that although the exposures are higher in Asian patients with low body weight (40 kg), the predicted diarrhoea rate is lower than non-Japanese and non-Chinese patients with normal body weight (70 kg). This phenomenon is attributed to an Asian race covariate effect identified in the diarrhoea exposure-response model and is consistent with observed safety events that Asian patients had an overall lower incidence of diarrhoea compared to non-Asian patients at 18 mg, despite a generally higher exposure. Similarly, the incidence of weight loss (≥ 5%) in Asian patients wit h low body weight are comparable to non-Asian patients with normal body weight when administered nerandomilast 18 mg bid.
 
 ## Weight
 
@@ -1881,7 +1888,7 @@ Trial 1305-0119 was an open-label, two-period, fixed sequence trial to evaluate 
 - Period 1 [Reference (R)]: Single dose of nerandomilast 18 mg in the fasting state on Day 1.
 - Period 2 [Test (T)]: Up-titration of carbamazepine (after dinner) from 200 mg QD for 4 days, to 400 mg QD for 7 days, to 600 mg QD for 12 days (Day -18 to Day 5). A single dose of nerandomilast 18 mg in the fasting state on Day 1 (after 7 th  carbamazepine 600 mg dose).
 
-After co-administration of a single dose of nerandomilast with multiple doses of carbamazepine, the adjusted gMean AUC0-tz and AUC0∞ of nerandomilast decreased by approximately 51%, and the adjusted gMean Cmax decreased by approximately 31%, as compared with when nerandomilast was administered alone.
+After co-administration of a single dose of nerandomilast with multiple doses of carbamazepine, the adjusted gMean AUC0-tz and AUC0∞ of nerandomilast decreased by approximately 51%, and the adjusted gMean Cmax decreased by approximately 31%, as compared w ith when nerandomilast was administered alone.
 
 The Cmax and AUC0-tz of metabolite BI 764333 and the metabolite/parent ratios parameters increased with carbamazepine coadministration compared with nerandomilast was given alone.
 
@@ -2081,7 +2088,7 @@ Figure 8: Time profile of QTcF change from baseline over 24 hours, placebo-corre
 
 <div style=\"page-break-after: always\"></div>
 
-With 30 mg nerandomilast, the maximum adjusted mean difference vs. placebo in QTcF changes from baseline was 3.0 msec (90% CI: 0.7, 5.4), observed at 12 h after dosing. With 48 mg nerandomilast, the corresponding QTcF endpoint was 3.2 msec (90% CI: 1.2, 5.2), observed at 4.5 h after dosing.
+With 30 mg nerandomilast, the maximum adjusted mean difference vs. placebo in QTcF changes from baseline was 3.0 msec (90% CI: 0.7, 5.4), observed at 12 h after dosing. With 48 mg nerandomilast, the corresponding QTcF endpoint was 3.2 msec (90% CI: 1.2, 5. 2), observed at 4.5 h after dosing.
 
 ## Further ECG analyses
 
@@ -2193,15 +2200,13 @@ The vertical blue lines represent the median, mean, or 10th / 90th percentiles o
 
 Figure 10: FVC Final Model (Run 441): Forced vital capacity (FVC) landmark visual predictive check (VPC) at Week 52 stratified by nerandomilast dose and underlying disease diagnosis.
 
-Model-based simulations
+Model-based simulations Solid line represents median across 300 simulation replicates. Shaded region represents 90% CI. Dashed line included as reference at y=0 to represent no change from baseline.
 
 <div style=\"page-break-after: always\"></div>
 
 Figure 11 shows the differences in FVC change from baseline over time amongst the various combinations of nerandomilast dose and concomitant antifibrotic medication. Baseline FVC did not vary amongst the different nerandomilast treatment arms; however, there was a difference in the nerandomilast-induced initial offset effect, which increased with dose level and was not seen in the placebo group. The disease progression rate, assessed FVC decline over time, was less rapid in subjects taking nerandomilast relative to placebo subjects. Patients taking a concomitant antifibrotic at baseline had more rapid disease progression than patients not on an antifibrotic at baseline (and even more rapid in those on pirfenidone ( Figure 11 ). This is likely due to those patients presenting with more advanced disease and a longer disease duration.
 
 <!-- image -->
-
-Solid line represents median across 300 simulation replicates. Shaded region represents 90% CI. Dashed line included as reference at y=0 to represent no change from baseline.
 
 Figure 11: Typical value simulations for median FVC change from baseline versus time, stratified by nerandomilast dose and anti-fibrotic background treatment
 
@@ -2211,7 +2216,7 @@ The relationship between median annual FVC change from baseline (the primary eff
 
 <!-- image -->
 
-Source data: [206093\\_11097684\\_1.0, Fiqpue 13] Sold line repersests median across 300 sinmdation replicates. Shaded region reperseots 90% CI foe the mndian.
+Source data: [20689)\\_11097684\\_1.0, Fipue 13] Solid line repersests median across 300 sinmdation replicates. Shaded region repersents 90% CI foe the mndian.
 
 Figure 12: Typical value simulations for FVC change from baseline at week 52 versus simulated nerandomilast Cmin,ss, stratified by anti-fibrotic background treatment
 
@@ -2247,13 +2252,13 @@ The aim of this analysis was to apply modelling and simulation to characterise t
 
 A log-linear model parameterized in terms of Cmin,ss provided the best and most parsimonious fit to the data. As shown in the visual PPC ( Figure 15 ), the base model provided a reasonable description of the data and demonstrated an increasing ER relationship.
 
-Figure 15: Diarrhea Full Model: Posterior predictive check for diarrhea versus minimum concentration in the dosing interval at steady state (Cmin, ss) assuming an log-linear ER relationship
-
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
+Souce graphic: desuigurasatet leglin-postpc-sminss.pdf Model-based simulations indicated that the predicted probability of diarrhoea increased as a function of nerandomilast exposure, and this was observed across all covariate subgroups of sex, race, and background antifibrotic concomitant medication use.
 
-Model-based simulations indicated that the predicted probability of diarrhoea increased as a function of nerandomilast exposure, and this was observed across all covariate subgroups of sex, race, and background antifibrotic concomitant medication use.
+Figure 15: Diarrhea Full Model: Posterior predictive check for diarrhea versus minimum concentration in the dosing interval at steady state (Cmin, ss) assuming an log-linear ER relationship
+
+<div style=\"page-break-after: always\"></div>
 
 For race subgroups, the probability of diarrhoea was higher for White subjects than Asian subjects and this difference was statistically significant at the 95% credible level.
 
@@ -2291,7 +2296,7 @@ A linear ER model parameterized in terms of AUC,ss provided the best and most pa
 
 <!-- image -->
 
-Piguire 20: Decresse in Weight t»=10%j Pull Model: Posterior predictive checkfar decrease in weight ( L0 %: versus area under the concentrarian-time curve for a dosing interval et steody state (éuß:sat and lincar ER melationship.
+Piguire 20: Decresse in Weight t»=10%j Pull Model: Posterior predictive checkfer decrease in weight ( L0 %: versus amea under the concentrarian-time curve for a dosinginterval at steody state (éuß:sat and lincar ER melationship.
 
 Figure 17: Decrease in Weight (›=10%) Full Model: Posterior predictive check for decrease in weight (≥10%) versus area under the concentration -time curve for a dosing interval at steady state (AUC,ss), and linear ER relationship.
 
@@ -2345,7 +2350,7 @@ Overall, renal excretion and hepatic metabolism were shown to be important elimi
 
 ## Metabolite profiling after single dose
 
-In the human ADME study, the predominant metabolic pathways of nerandomilast were oxidation and glucuronidation. Following a single dose administration of 18 mg nerandomilast (C-14), nerandomilast was the most abundant circulating drugrelated component, representing 51.3% of total plasma radioactivity (AUC0-36h). The most abundant metabolites in plasma after a single dose administration were the glucuronide metabolite M624(1) and the di-oxidative metabolite BI 764333, which represented 15.6% and 7.1% of total plasma radioactivity, respectively.
+In the human ADME study, the predominant metabolic pathways of nerandomilast were oxidation and glucuronidation. Following a single dose administration of 18 mg nerandomilast (C-14), nerandomilast was the most abundant circulating drug-related component, r epresenting 51.3% of total plasma radioactivity (AUC0-36h). The most abundant metabolites in plasma after a single dose administration were the glucuronide metabolite M624(1) and the di-oxidative metabolite BI 764333, which represented 15.6% and 7.1% of to tal plasma radioactivity, respectively.
 
 ## Metabolite profiling after multiple doses at steady state
 
@@ -2395,7 +2400,7 @@ As the impact of severe hepatic impairment on nerandomilast PK has not been stud
 
 Higher nerandomilast exposure was observed in Asian patients in subgroup analyses in the Phase III trials compared to Caucasian patients. Results showed up to 47 % higher nerandomilast pre -dose concentrations in Asian IPF and PPF patients compared to those observed in White patients. These differences in nerandomilast exposure may be partially explained by body weight.
 
-Simulations predicted Chinese patients to have around 33%, 38%, and 40%, higher median AUC,ss, Cmax,ss, and Cmin,ss , respectively, and Japanese patients to have around 45%, 58%, and 35% higher median AUC,ss, Cmax,ss, and Cmin,ss, respectively, compared to non-Chinese/non-Japanese patients.
+Simulations predicted Chinese patients to have around 33%, 38%, and 40%, higher median AUC,ss, Cmax,ss, and Cmin,ss, respectively, and Japanese patients to have around 45%, 58%, and 35% higher median AUC,ss, Cmax,ss, and Cmin,ss, respectively, compared to non-Chinese/non-Japanese patients.
 
 Despite the higher nerandomilast exposures, the applicant has justified that the safety profile for Asian patients is favourable and similar to the overall population, for the following reasons: 1) exposureresponse models do not indicate an increased risk attributable to higher exposures in Asian patients; 2) Asian patients showed comparable trends for frequencies of AEs, SAEs, and fatal AEs as White patients; and 3) Relative frequencies of weight loss and diarrhoea events across treatment groups are similar between East Asian and non-East Asian patients. Therefore, it is agreed that a dose adjustment of nerandomilast based on weight is not necessary.
 
@@ -2836,7 +2841,7 @@ Figure 19: Participant flow - Disposition of patients up to DBL1 (CSR 1305-0014)
 
 <!-- image -->
 
-The trial ran from 06 Oct 2022 - 17 Dec 2024. The main analysis at DBL1 was performed with data collected up to 16 Aug 2024 and the final analysis at DBL2 was 17 Dec 2024. Patients were followed for a median time of 14.6 months at the time of main analysis and 17.0 months at the end-of-trial analysis. A total of 1720 patients were screened and 1177 randomised. Randomisation was stratified by the presence of background treatment with antifibrotics (AF group vs. nonAF group). There were 214 (22.2%) more randomised patients than planned (963 in CTP) in this trial due to faster than expected recruitment and a large number of patients in screening at the time recruitment was stopped. Randomisation of all eligible screened patients was allowed as per CTP. A total of 31.6% of the screened patients were not randomised, with the most common reason being a failure to meet the eligibility criteria (28.8% of screened patients). The most common eligibility criteria not met were the diagnosis of IPF, the DLCO inclusion criterion, and prebronchodilator FEV1/FVC exclusion criterion. All 1177 randomised patients were treated with study medication.
+The trial ran from 06 Oct 2022 - 17 Dec 2024. The main analysis at DBL1 was performed with data collected up to 16 Aug 2024 and the final analysis at DBL2 was 17 Dec 2024. Patients were followed for a median time of 14.6 months at the time of main analysis and 17.0 months at the end-of-trial analysis. A total of 1720 patients were screened and 1177 randomised. Randomisation was stratified by the presence of background treatment with antifibrotics (AF group vs. nonAF group). There were 214 (22.2%) more randomised patients than planned (963 in CTP) in this trial due to faster than expected recruitment and a large number of patients in screening at the time recruitment was stopped. Randomisation of all eligible screened patients was allowed as per CTP. A total of 31.6% of the screened patients were not ra ndomised, with the most common reason being a failure to meet the eligibility criteria (28.8% of screened patients). The most common eligibility criteria not met were the diagnosis of IPF, the DLCO inclusion criterion, and prebronchodilator FEV1/FVC exclusion criterion. All 1177 randomised patients were treated with study medication.
 
 Up to Week 52, 962 patients (81.7% of the treated patients) completed planned treatment and a total of 1080 patients (91.8%) completed planned observation for the primary endpoint assessment. A total of 1138 patients (96.7%) completed the planned observati on in trial (up to DBL1 cut-off date): 1046 patients (88.9%) were ongoing, 17 (1.4%) had lung transplant, and 75 (6.4%) died.
 
@@ -2980,23 +2985,23 @@ Patients with background AF therapy had longer time since diagnosis (3.4 years w
 
 Table 22: Trial indication and baseline AF therapy - FAS (CSR 1305-0014, Table 10:9)
 
-|                                                      |   Placebo |   Placebo |   Nera 9  mg  bid |   Nera 9  mg  bid |   Nera 18 mg bid |   Nera 18 mg bid |   Total |   Total |
-|------------------------------------------------------|-----------|-----------|-------------------|-------------------|------------------|------------------|---------|---------|
-| Number of patients (N %)                             |       393 |     100.0 |               392 |             100.0 |              392 |            100.0 |    1177 |   100.0 |
-| Time since first IPF diagnosis [years] (mean, SD)    |      3.53 |      2.75 |              3.46 |              2.63 |             3.60 |             2.79 |    3.53 |    2.72 |
-| ≤1 (N %)                                             |        66 |       168 |                61 |              15.6 |               58 |             14.8 |     185 |    15.7 |
-| >1 to ≤3 (N %)                                       |       134 |      34.1 |               140 |              35.7 |              135 |             34.4 |     409 |    34.7 |
-| >3 to ≤5 (N %)                                       |        98 |      24.9 |               104 |              26.5 |              105 |             26.8 |     307 |    26.1 |
-| >5 (N %)                                             |        95 |      24.2 |                87 |              22.2 |               46 |             24.0 |     276 |    23.4 |
-| Baseline AF therapy (N %)                            |       306 |      77.9 |               304 |              77.6 |              305 |             77.8 |     915 |    77.7 |
-| Nintedanib                                           |       173 |      44.0 |               184 |              46.9 |              178 |             45.4 |     535 |    45.5 |
-| Duration on current AF treatment [months] (mean, SD) |      28.9 |      22.9 |              27.7 |              22.5 |             27.4 |             21.0 |    28.0 |    22.1 |
-| Pirfenidone                                          |       133 |      33.8 |               120 |              30.6 |              127 |             32.4 |     380 |    32.3 |
-| Duration on current AF treatment [months] (mean, SD) |      35.0 |      24.6 |              32.6 |              22.9 |             30.9 |             21.8 |    32.8 |    23.2 |
-| No baseline AF therapy (N %)                         |        87 |      22.1 |                88 |              22.4 |               87 |             22.2 |     262 |    22.3 |
-| Previous AF use                                      |        32 |       8.1 |                31 |               7.9 |               27 |              6.9 |      90 |     7.6 |
-| AF naïve                                             |        55 |      14.0 |                57 |              14.5 |               60 |             15.3 |     172 |    14.6 |
-| Baseline supplemental oxygen use (N %)               |        06 |      22.9 |                68 |              17.3 |               90 |             23.0 |     248 |    21.1 |
+|                                                      |   Placebo |   Placebo |   Nera 9 mg bid |   Nera 9 mg bid |   Nera 18 mg bid |   Nera 18 mg bid |   Total |   Total |
+|------------------------------------------------------|-----------|-----------|-----------------|-----------------|------------------|------------------|---------|---------|
+| Number of patients (N %)                             |       393 |     100.0 |             392 |           100.0 |              392 |            100.0 |    1177 |   100.0 |
+| Time since first IPF diagnosis [years] (mean, SD)    |      3.53 |      2.75 |            3.46 |            2.63 |             3.60 |             2.79 |    3.53 |    2.72 |
+| ≤1 (N %)                                             |        66 |       168 |              61 |            15.6 |               58 |             14.8 |     185 |    15.7 |
+| >1 to ≤3 (N %)                                       |       134 |      34.1 |             140 |            35.7 |              135 |             34.4 |     409 |    34.7 |
+| >3 to ≤5 (N %)                                       |        98 |      24.9 |             104 |            26.5 |              105 |             26.8 |     307 |    26.1 |
+| >5 (N %)                                             |        95 |      24.2 |              87 |            22.2 |               46 |             24.0 |     276 |    23.4 |
+| Baseline AF therapy (N %)                            |       306 |      77.9 |             304 |            77.6 |              305 |             77.8 |     915 |    77.7 |
+| Nintedanib                                           |       173 |      44.0 |             184 |            46.9 |              178 |             45.4 |     535 |    45.5 |
+| Duration on current AF treatment [months] (mean, SD) |      28.9 |      22.9 |            27.7 |            22.5 |             27.4 |             21.0 |    28.0 |    22.1 |
+| Pirfenidone                                          |       133 |      33.8 |             120 |            30.6 |              127 |             32.4 |     380 |    32.3 |
+| Duration on current AF treatment [months] (mean, SD) |      35.0 |      24.6 |            32.6 |            22.9 |             30.9 |             21.8 |    32.8 |    23.2 |
+| No baseline AF therapy (N %)                         |        87 |      22.1 |              88 |            22.4 |               87 |             22.2 |     262 |    22.3 |
+| Previous AF use                                      |        32 |       8.1 |              31 |             7.9 |               27 |              6.9 |      90 |     7.6 |
+| AF naïve                                             |        55 |      14.0 |              57 |            14.5 |               60 |             15.3 |     172 |    14.6 |
+| Baseline supplemental oxygen use (N %)               |        90 |      22.9 |              68 |            17.3 |               90 |             23.0 |     248 |    21.1 |
 
 ## Baseline disease characteristics
 
@@ -3074,9 +3079,11 @@ Table 24: Absolute change from baseline in FVC [mL] at week 52 - FAS (study 1305
 
 The confirmatory key secondary endpoint was the time to the first occurrence of any of the components of the composite endpoint: first acute IPF exacerbation (events clinically considered to meet the definition of acute IPF exacerbation, either confirmed with CT data or suspected events without CT data), first hospitalisation for respiratory cause, or death over the duration of the trial. Acute IPF exacerbations and hospitalisations for respiratory cause were not independently adjudicated. Hospitalisations for respiratory cause were the most common events contributing to the key secondary endpoint (about half of the first events).
 
-The hypothesis testing of the key secondary endpoint was based on data over the whole trial up to DBL1. The primary estimand followed the treatment policy approach and data over the whole trial up to DBL1 (including data beyond 52 weeks) were included. Key secondary endpoint events occurred in 80 patients (20.4%) in the placebo group, 79 patients (20.2%) in the 9 mg bid nerandomilast group, 85 patients (21.7%) in the 18 mg bid nerandomilast group. There was no statistically significant treatment difference to placebo for either nerandomilast dose. HR vs. placebo for 9 mg bid 1.03, 95% CI 0.75, 1.41, p = 0.8568; for 18 mg bid 1.17, 95% CI 0.86, 1.59 , p = 0.3102; p-value for both doses above the alpha level of 0.05.  The probability of an event was similar in all treatment groups throughout the trial up to DBL1.
+The hypothesis testing of the key secondary endpoint was based on data over the whole trial up to DBL1. The primary estimand followed the treatment policy approach and data over the whole trial up to DBL1 (including data beyond 52 weeks) were included. Key secondary endpoint events occurred in 80 patients (20.4%) in the placebo group, 79 patients (20.2%) in the 9 mg bid nerandomilast group, 85 patients (21.7%) in the 18 mg bid nerandomilast group. There was no statistically significant treatment difference
 
 <div style=\"page-break-after: always\"></div>
+
+to placebo for either nerandomilast dose. HR vs. placebo for 9 mg bid 1.03, 95% CI 0.75, 1.41, p = 0.8568; for 18 mg bid 1.17, 95% CI 0.86, 1.59 , p = 0.3102; p-value for both doses above the alpha level of 0.05.  The probability of an event was similar in all treatment groups throughout the trial up to DBL1.
 
 Table 25: Time to the first event in the key secondary composite endpoint (acute IPF exacerbation, first hospitalisation for respiratory cause, or death) over the duration of the trial up to DBL1 - FAS (study 1305-0014)
 
@@ -3095,13 +3102,11 @@ Table 25: Time to the first event in the key secondary composite endpoint (acute
 | Difference in probability vs. placebo                  |           |           |           -0.95 |                 |             0.99 |                  |
 | 95% CI                                                 |           |           |           -6.34 |            4.45 |            -4.51 |             6.49 |
 
-1 Based on Cox proportional hazards model including treatment, baseline antifibrotic therapy, age, baseline FVC % predicted, and baseline DLço % predicted (corrected for haemoglobin) as covariates
-
 2 p-value using a Wald test; as per a pre-defined graphical testing procedure, the p-value was not statistically significant for either nerandomilast dose
 
-The p-values presented in DBL2 results were considered exploratory in nature and no adjustment for multiplicity was made. With additional treatment exposure and observation time up to DBL2, the event rate for the key secondary endpoint increased across treatment groups up to DBL2, with the largest increase in the placebo group. No difference in the risk of having a key secondary endpoint event was observed between the treatment groups. However, the HRs for both nerandomilast groups vs. placebo were numerica lly lower than those for DBL1 and were &lt;1, after about 1.5 months of additional mean treatment exposure and 2 months of additional mean observation time.
+The p-values presented in DBL2 results were considered exploratory in nature and no adjustment for multiplicity was made. With additional treatment exposure and observation time up to DBL2, the event rate for the key secondary endpoint increased across treatment groups up to DBL2, with the largest increase in the placebo group. No difference in the risk of having a key secondary endpoint event was observed between the treatment groups. However, the HRs for both nerandomilast groups vs. placebo were numerically lower than those for DBL1 and were &lt;1, after about 1.5 months of additional mean treatment exposure and 2 months of additional mean observation time.
 
-Between DBL1 and DBL2, 42 additional events contributing to the key secondary endpoint occurred, representing an increase of approximately 17% of the total number of key secondary endpoint events reported at DBL1. There were more events reported in the placebo group (+23 events) than in the 9 mg and 18 mg bid nerandomilast groups (+11 and +8 events, respectively). Over the duration of the trial, up to DBL2, key secondary endpoint events occurred in 103 patients (26.2%) in the placebo group, 90 patients (23. 0%) in the 9 mg bid nerandomilast group, 93 patients (23.7%) in the 18 mg bid nerandomilast group. Compared with placebo, the HR (95% CI) was 0.92 (0.69, 1.22) for 9 mg bid nerandomilast (p = 0.5443) and 0.99 (0.75, 1.31) for 18 mg bid nerandomilast (p = 0.9512). Hospitalisations for respiratory cause remained the most common events contributing to the key secondary endpoint (about half of the first events).
+Between DBL1 and DBL2, 42 additional events contributing to the key secondary endpoint occurred, representing an increase of approximately 17% of the total number of key secondary endpoint events reported at DBL1. There were more events reported in the placebo group (+23 events) than in the 9 mg and 18 mg bid nerandomilast groups (+11 and +8 events, respectively). Over the duration of the trial, up to DBL2, key secondary endpoint events occurred in 103 patients (26.2%) in the placebo group, 90 patients (23.0%) in the 9 mg bid nerandomilast group, 93 patients (23.7%) in the 18 mg bid nerandomilast group. Compared with placebo, the HR (95% CI) was 0.92 (0.69, 1.22) for 9 mg bid nerandomilast (p = 0.5443) and 0.99 (0.75, 1.31) for 18 mg bid nerandomilast (p = 0.9512). Hospitalisations for respiratory cause remained the most common events contributing to the key secondary endpoint (about half of the first events).
 
 ## Secondary and further endpoints related to the key secondary endpoint
 
@@ -3150,12 +3155,12 @@ p-values not adjusted for multiplicity
 |                                                              | N with event / N analysed   | N with event / N analysed   | Hazard ratio [95%-CI]   |   p-value |
 |--------------------------------------------------------------|-----------------------------|-----------------------------|-------------------------|-----------|
 |                                                              | Placebo                     | Nera 9mg bid                |                         |           |
-| Key secondary endpoint                                       | 80/393                      | 79/992                      | 1.03 [0.75, 1.41]       |    0.8568 |
-| exacerbation or death                                        | 49/393                      | 51/392                      | 1.12 [0.76, 1.67]       |    0.5583 |
+| Key secondary endpoint                                       | 80/393                      | 7/992                       | 1.03 [0.75, 1.41]       |    0.8568 |
+| Tnne Lre  ne pe exacerbation or death                        | 49/393                      | 51/392                      | 1.12 [0.76, 1.67]       |    0.5583 |
 | Time to first hospitalization for respiratory cause or death | 73/393                      | 68/392                      | 0.98 [0.70, 1.36]       |    0.9038 |
-| exacerbation                                                 | 30/393                      | 31/92                       | 1.12 [0.68, 1.85]       |    0.6657 |
+| exacerbation                                                 | £64/00                      | 31/392                      | 1.12 [0.68, 1.85]       |    0.6657 |
 | Time to first hospitalization for respiratory cause          | 59/393                      | 57/392                      | 1.01 [0.70, 1.45]       |    0.9632 |
-| Time to death                                                | £64/8                       | 26/392                      | 1.03 [0.60, 1.76]       |    0.9084 |
+| Time to death                                                | £64/8%                      | 26/392                      | 1.03 [0.60, 1.76]       |    0.9084 |
 
 <!-- image -->
 
@@ -3402,15 +3407,16 @@ Table 30: Absolute change from baseline in FVC (in mL) at Week 52 by background 
 | IO %S6                                                        | -206.8    |     -90.5 |          -127.5 |           -13.0 |           -136.6 |            -21.5 |
 | Comparison vs. placebo                                        |           |           |                 |                 |                  |                  |
 | Adjusted mean                                                 |           |           |            78.4 |                 |             69.6 |                  |
-| IO %S6                                                        | mm        |           |            -3.2 |           160.0 |            -12.2 |            151.4 |
-| Patients with background antifibrotic therapy¹, N analysed    | 304       |           |             304 |                 |              305 |                  |
+| IO %S6                                                        |           |           |            -3.2 |           160.0 |            -12.2 |            151.4 |
+| Patients with background antifibrotic                         | 304       |           |             304 |                 |              305 |                  |
+| therapy1, N analysed                                          |           |           |                 |                 |                  |                  |
 | Baseline (mean, SD)                                           | 2872.6    |     781.4 |          2858.5 |           793.1 |           2846.1 |            752.3 |
 | Week 52 change from baseline                                  |           |           |                 |                 |                  |                  |
 | Adjusted mean                                                 | -193.7    |           |          -158.6 |                 |           -124.9 |                  |
 | IO %S6                                                        | -224.8    |    -162.7 |          -189.2 |         -127.92 |           -155.7 |            -94.1 |
 | Comparison vs. placebo                                        |           |           |                 |                 |                  |                  |
 | Adjusted mean                                                 | mm        |           |            35.2 |                 |              889 |                  |
-| 95% CI                                                        |           |           |            -8.4 |            78.8 |             25.1 |            112.6 |
+| 95% CI                                                        | mm        |           |            -8.4 |            78.8 |             25.1 |            112.6 |
 | Patients with nintedanib                                      | 172       |           |             184 |                 |              178 |                  |
 | background therapy², N analysed                               |           |           |                 |                 |                  |                  |
 | Baseline (mean, SD)                                           | 2971.3    |     802.5 |          2937.2 |           828.6 |           2863.3 |            805.1 |
@@ -3425,9 +3431,9 @@ Table 30: Absolute change from baseline in FVC (in mL) at Week 52 by background 
 | Baseline (mean, SD)                                           | 2744.2    |     736.5 |          2737.9 |           722.2 |           2821.9 |            673.7 |
 | Week 52 change from baseline                                  |           |           |                 |                 |                  |                  |
 | Adjusted mean                                                 | -197.0    |           |          -201.8 |                 |           -133.7 |                  |
-| IO %$6                                                        | -244.7    |    -149.4 |          -250.9 |          -152.8 |           -180.7 |            -86.6 |
+| I %$6                                                         | -244.7    |    -149.4 |          -250.9 |          -152.8 |           -180.7 |            -86.6 |
 | Comparison vs. placebo                                        |           |           |                 |                 |                  |                  |
-| Adjusted mean                                                 | mm        |           |            -4.8 |                 |             63.4 |                  |
+| Adjusted mean                                                 | mm        |           |             4.8 |                 |             63.4 |                  |
 | I %56                                                         |           |           |           -73.2 |            63.5 |             -3.6 |            130.3 |
 
 <div style=\"page-break-after: always\"></div>
@@ -3789,9 +3795,11 @@ Table 36: Summary of the key secondary endpoint and components - FAS, and strati
 
 FIBRONEER-ILD (1305-0023) : A double blind, randomized, placebo-controlled trial evaluating the efficacy and safety of nerandomilast over at least 52 weeks in patients with Progressive Fibrosing Interstitial Lung Diseases (PF-ILDs)
 
-FIBRONEER-ILD was a confirmatory, multicentre, multinational, prospective, randomised, placebocontrolled, double-blind, parrel-design clinical trial to investigate the efficacy and safety of of nerandomilast at a dose of 9 mg twice daily and 18 mg twice daily in patients with PPF over at least 52 weeks. The minimum treatment period of 52 weeks was selected based on guidance from the American and European Clinicians organizations on the investigation of treatment effects on FVC in IPF and ILD. Data for the FIBRONEER-ILD-ILD trial was provided up until Data Base Lock 1 (DBL1) (Data cut-off for analysis occurred on 18 Dec 2024), the main analysis of the trial was performed after the last randomised participant had completed the Week-52 assessment. As the trial is ongoing, further data past DBL1 is not available until all participants complete the end of treatment visit and the end of study visit as applicable.
+FIBRONEER-ILD was a confirmatory, multicentre, multinational, prospective, randomised, placebocontrolled, double-blind, parrel-design clinical trial to investigate the efficacy and safety of of nerandomilast at a dose of 9 mg twice daily and 18 mg twice daily in patients with PPF over at least 52 weeks. The minimum treatment period of 52 weeks was selected based on guidance from the American
 
 <div style=\"page-break-after: always\"></div>
+
+and European Clinicians organizations on the investigation of treatment effects on FVC in IPF and ILD. Data for the FIBRONEER-ILD-ILD trial was provided up until Data Base Lock 1 (DBL1) (Data cut-off for analysis occurred on 18 Dec 2024), the main analysis of the trial was performed after the last randomised participant had completed the Week-52 assessment. As the trial is ongoing, further data past DBL1 is not available until all participants complete the end of treatment visit and the end of study visit as applicable.
 
 The trial consisted of 3 periods, a screening period of up to 8 weeks, a randomised treatment period of at least 52 weeks (part A: 52 weeks and part B: variable duration), and a follow-up period of 7 days. Treatment part A was done sequentially for enrolled subjects, but treatment part B is still ongoing and will stop at the same time for all subjects with a total of trial treatment of up to 130 weeks for the first enrolled subjects. Patients receiving trial medication until the end of Part B will be eligible for open-label treatment with nerandomilast in a separate extension trial. The main analysis of trial 1305-0023 had been performed after DBL1. Following trial completion and final DBL2, a final analysis was performed using all data available at the time of DBL2. The confirmatory testing for the key secondary endpoint was performed at DBL1 and the p-values at DBL2 were not adjusted for multiple testing (i.e. nominal pvalues).
 
@@ -4251,7 +4259,7 @@ Table 43: Disposition of patients up to DBL1 (CSR 1305-0023)
 | Withdrawal by patient                                                | 2         | 0.5       | 11              | 2.8             | 9                | 2.3              | 22      | 1.9     |
 | Other                                                                | 10        | 2.6       | 10              | 2.5             | 8                | 2.0              | 28      | 2.4     |
 
-Up to DBL2, 826 patients (70.2%) completed planned treatment. Of these 826 eligible patients, 792 patients (95.9%) continued or switched to nerandomilast treatment in the open -label extension trial 1305-0031. Three more patients who did not complete the planned treatment period but met the requirements to participate in the extension trial (maximum treatment interruption of 12 weeks between the respective parent trial and the extension trial) rolled over to trial 1305-0031. The most common reasons for prema ture discontinuation of study medication before DBL2 (a total of 29.8% of 1176 treated patients) were similar to those before DBL1: occurrence of an AE (12.4%), followed by withdrawal of treatment by patient (9.0%), and 'other' (7.9%).
+Up to DBL2, 826 patients (70.2%) completed planned treatment. Of these 826 eligible patients, 792 patients (95.9%) continued or switched to nerandomilast treatment in the open -label extension trial 1305-0031. Three more patients who did not complete the planned treatment period but met the requirements to participate in the extension trial (maximum treatment interruption of 12 weeks between the respective parent trial and the extension trial) rolled over to trial 1305-0031. The most common reasons for premature d iscontinuation of study medication before DBL2 (a total of 29.8% of 1176 treated patients) were similar to those before DBL1: occurrence of an AE (12.4%), followed by withdrawal of treatment by patient (9.0%), and 'other' (7.9%).
 
 In patients without background nintedanib therapy, the rate of treatment discontinuation was higher with placebo compared with the nerandomilast groups (33.8%, vs. 28.2% with 9 mg bid and 25.9% with 18 mg bid), whereas in patients with background nintedanib therapy, the discontinuation rate was higher with 18 mg bid nerandomilast (36.3%) compared with 9 mg bid nerandomilast (27.7%) or placebo (27.1%).
 
@@ -4261,30 +4269,30 @@ In patients with baseline 'UIP or UIP-like fibrotic pattern', the rate of treatm
 
 Table 44: Disposition of patients up to DBL2 (CSR 1305-0023)
 
-|                                                                        | Placebo   | Placebo   | Nera 9 mg bid   | Nera 9 mg bid   | Nera 18 mg bid   | Nera 18 mg bid   | Total   | Total   |
-|------------------------------------------------------------------------|-----------|-----------|-----------------|-----------------|------------------|------------------|---------|---------|
-|                                                                        | N         | %         | N               | %               | N                | %                | N       | %       |
-| Entered                                                                |           |           |                 |                 |                  |                  | 1780    |         |
-| Randomised                                                             | 393       |           | 393             |                 | 392              |                  | 1178    |         |
-| Treated (treatment assigned as randomised)                             | 392       | 100.0     | 393             | 100.0           | 391              | 100.0            | 1176    | 100.0   |
-| Completed planned treatment up to DBL21                                | 271       | 69.1      | 283             | 72.0            | 272              | 69.6             | 826     | 70.2    |
-| Rolled over to trial 1305-0031²                                        | 261       | 66.6      | 273             | 69.5            | 261              | 66.8             | 795     | 67.6    |
-| Prematurely discontinued treatment before DBL2                         | 121       | 30.9      | 110             | 28.0            | 119              | 30.4             | 350     | 29.8    |
-| Lack of efficacy                                                       | 2         | 0.5       | 0               |                 | 1                | 0.3              | 3       | 0.3     |
-| Adverse event                                                          | 49        | 12.5      | 49              | 12.5            | 48               | 12.3             | 146     | 12.4    |
-| Protocol deviation                                                     | 0         |           | 0               |                 | 1                | 0.3              | 1       | 0.1     |
-| Withdrawal by patient³                                                 | 30        | 7.7       | 34              | 8.7             | 42               | 10.7             | 106     | 9.0     |
-| Lost to follow-up                                                      | 0         |           | 1               | 0.3             | 0                |                  | 1       | 0.1     |
-| Other                                                                  | 40        | 10.2      | 26              | 6.6             | 27               | 6.9              | 93      | 7.9     |
-| Completed planned observation, had lung transplant, or died up to DBL2 | 381       | 97.2      | 374             | 95.2            | 372              | 95.1             | 1127    | 95.8    |
-| Completed planned observation                                          | 307       | 78.3      | 335             | 85.2            | 328              | 83.9             | 970     | 82.5    |
-| Had lung transplant                                                    | 10        | 2.6       | 3               | 0.8             | 10               | 2.6              | 23      | 2.0     |
-| Death                                                                  | 64        | 16.3      | 36              | 9.2             | 34               | 8.7              | 134     | 11.4    |
-| Prematurely discontinued trial before DBL2                             | 11        | 2.8       | 19              | 4.8             | 19               | 4.9              | 49      | 4.2     |
-| Lost to follow-up                                                      | 3         | 0.8       | 5               | 1.3             | 4                | 1.0              | 12      | 1.0     |
-| Withdrawal by patient                                                  | 5         | 1.3       | 10              | 2.5             | 12               | 3.1              | 27      | 2.3     |
-| Other⁴                                                                 | 0         |           | 1               | 0.3             | 0                |                  | 1       | 0.1     |
-| Unknown⁵                                                               | 3         | 0.8       | 3               | 0.8             | 3                | 0.8              | 9       | 0.8     |
+|                                                                   | Placebo   | Placebo   | Nera 9 mg bid   | Nera 9 mg bid   | Nera 18 mg bid   | Nera 18 mg bid   | Total   | Total   |
+|-------------------------------------------------------------------|-----------|-----------|-----------------|-----------------|------------------|------------------|---------|---------|
+|                                                                   | N         | %         | N               | %               | N                | %                | N       | %       |
+| Entered                                                           |           |           |                 |                 |                  |                  | 1780    |         |
+| Randomised                                                        | 393       |           | 393             |                 | 392              |                  | 1178    |         |
+| Treated (treatment assigned as randomised)                        | 392       | 100.0     | 393             | 100.0           | 391              | 100.0            | 1176    | 100.0   |
+| Completed planned treatment up to DBL21                           | 271       | 69.1      | 283             | 72.0            | 272              | 69.6             | 826     | 70.2    |
+| Rolled over to trial 1305-0031²                                   | 261       | 66.6      | 273             | 69.5            | 261              | 66.8             | 795     | 67.6    |
+| Prematurely discontinued treatment before DBL2                    | 121       | 30.9      | 110             | 28.0            | 119              | 30.4             | 350     | 29.8    |
+| Lack of efficacy                                                  | 2         | 0.5       | 0               |                 | 1                | 0.3              | 3       | 0.3     |
+| Adverse event                                                     | 49        | 12.5      | 49              | 12.5            | 48               | 12.3             | 146     | 12.4    |
+| Protocol deviation                                                | 0         |           | 0               |                 | 1                | 0.3              | 1       | 0.1     |
+| Withdrawal by patient³                                            | 30        | 7.7       | 34              | 8.7             | 42               | 10.7             | 106     | 9.0     |
+| Lost to follow-up                                                 | 0         |           | 1               | 0.3             | 0                |                  | 1       | 0.1     |
+| Other                                                             | 40        | 10.2      | 26              | 6.6             | 27               | 6.9              | 93      | 7.9     |
+| Completed planned observation, had                                | 381       | 97.2      | 374             | 95.2            | 372              | 95.1             | 1127    | 95.8    |
+| lung transplant, or died up to DBL2 Completed planned observation | 307       | 78.3      | 335             | 85.2            | 328              | 83.9             | 970     | 82.5    |
+| Had lung transplant                                               | 10        | 2.6       | 3               | 0.8             | 10               | 2.6              | 23      | 2.0     |
+| Death                                                             | 64        | 16.3      | 36              | 9.2             | 34               | 8.7              | 134     | 11.4    |
+| Prematurely discontinued trial before DBL2                        | 11        | 2.8       | 19              | 4.8             | 19               | 4.9              | 49      | 4.2     |
+| Lost to follow-up                                                 | 3         | 0.8       | 5               | 1.3             | 4                | 1.0              | 12      | 1.0     |
+| Withdrawal by patient                                             | 5         | 1.3       | 10              | 2.5             | 12               | 3.1              | 27      | 2.3     |
+| Other⁴                                                            | 0         |           | 1               | 0.3             | 0                |                  | 1       | 0.1     |
+| Unknown⁵                                                          | 3         | 0.8       | 3               | 0.8             | 3                | 0.8              | 9       | 0.8     |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4572,7 +4580,7 @@ Table 51: Baseline lung function variables based on stratification (CSR 1305-002
 
 ## Outcomes and estimation
 
-Primary endpoint  ( absolute change from baseline in FVC [mL] at Week 52)
+Primary endpoint (absolute change from baseline in FVC [mL] at Week 52)
 
 The adjusted mean change from baseline in FVC [mL] at Week 52 was 165.8 (95% CI -190.5, -141.0) in the placebo group, 84.6 (95% CI -109.6, -59.7) in the 9 mg bid nerandomilast group, and 98.6 (95% CI -123.7, -73.4) in the 18 mg bid nerandomilast group. The differences of nerandomilast 9 and 18 mg bid to placebo were both statistically significant. The adjusted mean difference in FVC [mL] change from baseline at Week 52 between 9 mg bid nerandomilast and placebo groups was 81.1 (95% CI 46.0, 116.3, p&lt;0.0001) and between 18 mg bid nerandomilast and placebo groups was 67.2 (95% CI 31.9, 102.5, p = 0.0002).
 
@@ -5395,7 +5403,7 @@ Table 67 :  Pivotal study 1305-0023: The number of patients experiencing an abso
 
 <div style=\"page-break-after: always\"></div>
 
-2 Treatment-by-subgroup interaction p = 0.4060 for 9 mg bid and 0.1632 for 18 mg bid vs. placebo
+- 2 Treatment-by-subgroup interaction p = 0.4060 for 9 mg bid and 0.1632 for 18 mg bid vs. placebo
 
 3 Treatment-by-subgroup interaction p = 0.0203 for 9 mg bid and 0.4139 for 18 mg bid vs. placebo
 
@@ -5496,7 +5504,7 @@ Figure 46 : Absolute change from baseline in FVC [mL] at Week 52 - FAS EFF1 and 
 
 <!-- image -->
 
-A treatment effect in favour of both nerandomilast doses vs. placebo was observed in the subgroups, except for the subgroup with pirfenidone background treatment with 9 mg twice daily.In EFF1c, a key secondary composite endpoint event was observed in 195 participants (30.0%) in the placebo group, 164 part icipants (24.7%) in the 9 mg twice daily nerandomilast group, and 156 participants (23.8%) in the 18 mg twice daily nerandomilast group (HR vs. placebo for 9 mg twice daily 0.84, 95% CI 0.68, 1.03, p = 0.0955; for 18 mg twice daily 0.80, 95% CI 0.65, 0.99, p = 0.0447).
+A treatment effect in favour of both nerandomilast doses vs. placebo was observed in the subgroups, except for the subgroup with pirfenidone background treatment with 9 mg twice daily.In EFF1c, a key secondary composite endpoint event was observed in 195 p articipants (30.0%) in the placebo group, 164 participants (24.7%) in the 9 mg twice daily nerandomilast group, and 156 participants (23.8%) in the 18 mg twice daily nerandomilast group (HR vs. placebo for 9 mg twice daily 0.84, 95% CI 0.68, 1.03, p = 0.09 55; for 18 mg twice daily 0.80, 95% CI 0.65, 0.99, p = 0.0447).
 
 A breakdown of the remaining analysis can be seen below, showing similar effects to the two clinical trials and consistency across the subgroup analysis (bar participants on pirfenidone as a background therapeutic and, in the 9 mg twice daily dose, the subgroup with other fibrotic patterns on baseline HRCT):
 
@@ -5578,13 +5586,11 @@ Patients with a pre-bronchodilator FEV1/FVC &lt; 0.7 at Visit 1 were excluded, w
 
 ## Dose de-escalation
 
-The posology of nerandomilast states that the recommended dosage is 18 mg twice daily, and based on individual patient tolerability, the dosage may be reduced to 9 mg twice daily. The proposed posology differs from that studied in the clinical trial as dose de-escalation was not allowed in the study. As the proposed dose de-escalation strategy was not tested in this trial there is uncertainty as to how the treatment tolerance will improve with de-escalation and what criteria should be used to reduce the treatment. Further, it is not clear how frequently this dose de-escalati
-
-on is likely to occur in clinical practice.
-
-<div style=\"page-break-after: always\"></div>
+The posology of nerandomilast states that the recommended dosage is 18 mg twice daily, and based on individual patient tolerability, the dosage may be reduced to 9 mg twice daily. The proposed posology differs from that studied in the clinical trial as dose de-escalation was not allowed in the study. As the proposed dose de-escalation strategy was not tested in this trial there is uncertainty as to how the treatment tolerance will improve with de-escalation and what criteria should be used to reduce the treatment. Further, it is not clear how frequently this dose de-escalation is likely to occur in clinical practice.
 
 ## Rescue treatment
+
+<div style=\"page-break-after: always\"></div>
 
 Patients not receiving antifibrotics at enrolment continued nerandomilast monotherapy, with antifibrotic therapy prohibited for the first 12 weeks and permitted thereafter as rescue treatment at the prescriber's discretion.
 
@@ -5596,7 +5602,7 @@ The 1305-0014 trial had a single primary endpoint, one key secondary endpoint un
 
 The primary objective of the trial was to demonstrate superiority of nerandomilast to placebo in reducing lung function decline as measured by the change from baseline in FVC [mL] at Week 52 in patients with IPF. The main secondary objective was to demonstrate superiority of nerandomilast to placebo in reducing the risk of clinically meaningful events (acute IPF exacerbation, hospitalisation for respiratory cause, or death) over the duration of the trial.
 
-The primary endpoint of the trial was the absolute change from baseline in FVC [mL] at Week 52. The 52-week duration is the minimum treatment duration recommended in guidance from the American and European Clinicians organizations on the investigation of treatment effects on Forced Vital Capacity (2015 ATS/ERS/JRS/ALAT Guideline.  A correlation between treatment effects on FVC and on mortality in patients with IPF has been consistently demonstrated, resulting in FVC being adopted as an endpoint in registrat ional trials. Of note, change from baseline in FVC % predicted at week 52 was investigated as a secondary endpoint, but not multiplicity controlled.
+The primary endpoint of the trial was the absolute change from baseline in FVC [mL] at Week 52. The 52-week duration is the minimum treatment duration recommended in guidance from the American and European Clinicians organizations on the investigation of treatment effects on Forced Vital Capacity (2015 ATS/ERS/JRS/ALAT Guideline.  A correlation between treatment effects on FVC and on mortality in patients with IPF has been consistently demonstrated, resulting in FVC being adopted as an endpoint in registrational trials. Of note, change from baseline in FVC % predicted at week 52 was investigated as a secondary endpoint, but not multiplicity controlled.
 
 It is important to highlight that the annual rate of decline in forced vital capacity (FVC) is only a surrogate endpoint and therefore it is considered that a positive trend in other endpoints investigating direct clinical effects is also necessary.
 
@@ -5606,9 +5612,9 @@ The applicant acknowledged that the 3 components of the key secondary endpoint a
 
 Therefore, the applicant performed a post hoc win ratio analysis based on clinical importance, with the following hierarchy: death &gt; acute exacerbation with hospitalisation &gt; other respiratory hospitalisation &gt; acute exacerbation without hospitalisation.
 
-<div style=\"page-break-after: always\"></div>
-
 The treatment effect was more pronounced in the PPF study (1.33; 1.42 for nerandomilast 9 mg and 18g vs placebo respectively) when compared to the IPF study (1.10; 1.07 for nerandomilast 9 mg and 18g vs placebo respectively) at DBL2.
+
+<div style=\"page-break-after: always\"></div>
 
 The patient reported outcome measures consisted of the Absolute change from baseline in L-PF Symptoms Dyspnoea domain score at Week 52, Absolute change from baseline in L-PF Symptoms Cough domain score at Week 52, Absolute change from baseline in L-PF Symptoms Fatigue domain score at Week 52. The validity of L-PF questionnaires was questioned at the time of CHMP scientific advice as the MCID had not been discussed. Overall, the results suggest that L-PF is not sensitive enough to compare symptom burden between treatment arms with the given study duration and size.
 
@@ -5626,11 +5632,11 @@ Intercurrent events were generally balanced between treatment arms or, in case o
 
 ## Efficacy data and additional analyses
 
-1177 patients were randomised in the trial and all received at least one dose of study treatment. The disposition of patients was mostly balanced across the treatment groups. Treatment was prematurely discontinued in 20.6% of patients in the placebo group, 21.2% of patients in the 9 mg bid nerandomilast group, and 21.7% of patients in the 18 mg bid nerandomilast group. In both non - AF and AF strata, the rate of treatment discontinuation (mainly due to AEs) was similar in the placebo group and 9 mg bid nerandomilast group (ranging from 19.3% to 21.8%). However, the 18 mg bid nerandomilast group showed differential trends between the strata: fewer discontinuations in the nonAF stratum (11.5%) while more discontinuations in the AF stratum (24.6%) were observed.
+1177 patients were randomised in the trial and all received at least one dose of study treatment. The disposition of patients was mostly balanced across the treatment groups. Treatment was prematurely discontinued in 20.6% of patients in the placebo group, 21.2% of patients in the 9 mg bid nerandomilast group, and 21.7% of patients in the 18 mg bid nerandomilast group. In both non -AF and AF strata, the rate of treatment discontinuation (mainly due to AEs) was similar in the placebo group and 9 mg bid nerandomi last group (ranging from 19.3% to 21.8%). However, the 18 mg bid nerandomilast group showed differential trends between the strata: fewer discontinuations in the nonAF stratum (11.5%) while more discontinuations in the AF stratum (24.6%) were observed.
 
 <div style=\"page-break-after: always\"></div>
 
-More treatment discontinuations were observed on nerandomilast (25.0% for 9 mg bid and 29.8% for 18 mg bid) than placebo (19.7%) in patients with nintedanib background treatment, while fewer discontinuations were observed on nerandomilast (16.7% for 9 mg bid and 17.3% for 18 mg bid) than placebo (21.1%) in patients w ith pirfenidone background treatment. This may be partly explained by the reduced exposure to nerandomilast (~50%) observed in patients currently on pirfenidone treatment (please refer to safety section).
+M ore treatment discontinuations were observed on nerandomilast (25.0% for 9 mg bid and 29.8% for 18 mg bid) than placebo (19.7%) in patients with nintedanib background treatment, while fewer discontinuations were observed on nerandomilast (16.7% for 9 mg bid and 17.3% for 18 mg bid) than placebo (21.1%) in patients with pirfenidone background treatment. This may be partly explained by the reduced exposure to nerandomilast (~50%) observed in patients currently on pirfenidone treatment (please refer to safety section).
 
 ## Baseline characteristics
 
@@ -5793,7 +5799,7 @@ There is no evidence that fibrotic remodelling would differ depending on degree 
 
 ## Severity of disease
 
-The 2022 ATS/ERS/JRS/ALAT guideline defines severe lung derangement as FVC &lt;50% and DLCO &lt;35% predicted. FIBRONEER -ILD included patients with normal to severely reduced lung function (DLCO ≥25%, FVC ≥45%), in line with other trials such as INBUILD. Althoug h nerandomilast was not investigated in a dedicated study of patients with very severe lung impairment, subgroup analyses by baseline FVC and DLCO showed consistent efficacy across levels of lung function, supporting extrapolation beyond the studied population. Baseline inclusion criteria are described in SmPC section 5.1
+The 2022 ATS/ERS/JRS/ALAT guideline defines severe lung derangement as FVC &lt;50% and DLCO &lt;35% predicted. FIBRONEER -ILD included patients with normal to severely reduced lung function (DLCO ≥25%, FVC ≥45%), in line with other trials such as INBUILD. Although nerandomilast was not investigated in a dedicated study of patients with very severe lung impairment, subgroup analyses by baseline FVC and DLCO showed consistent efficacy across levels of lung function, supporting extrapolation beyond the studied population. Baseline inclusion criteria are described in SmPC section 5.1
 
 The applicant also has presented the efficacy data in patients with pulmonary hypertension which showed consistent results with overall population.
 
@@ -5848,7 +5854,7 @@ In the study there were a number of time to first clinical event composite endpo
 
 Treatment was prematurely discontinued in 111 (28.3%) of patients in the placebo group, 91 (23.2%) of patients in the 9 mg bid nerandomilast group, and 107 (27.4%) of patients in the 18 mg bid nerandomilast group.
 
-Differential discontinuation rates across treatment arms were observed in patients with and without background nintedanib therapy. In patients without background nintedanib therapy, the rate of treatment discontinuation was higher with placebo compared with the nerandomilast groups (33.8%, vs. 28.2% with 9 mg bid and 25.9% with 18 mg bid), whereas in patients with background nintedani b therapy, the discontinuation rate was higher with 18 mg bid nerandomilast (36.3%) compared with 9 mg bid nerandomilast (27. 7%) or placebo (27.1%). The main reason for discontinuation was an adverse event.
+Differential discontinuation rates across treatment arms were observed in patients with and without background nintedanib therapy. In patients without background nintedanib therapy, the rate of treatment discontinuation was higher with placebo compared with the nerandomilast groups (33.8%, vs. 28.2% with 9 mg bid and 25.9% with 18 mg bid), whereas in patients with background nintedani b therapy, the discontinuation rate was higher with 18 mg bid nerandomilast (36.3%) compared with 9 mg bid nerandomilast (27.7%) or placebo (27.1%). The main reason for discontinuation was an adverse event.
 
 ## Baseline characteristics
 
@@ -5932,7 +5938,7 @@ The only subgroup by underlying baseline ILD disease that did not show an improv
 
 In the FIBRONEER-ILD study, the 9 mg twice-daily dose showed a numerically greater effect on absolute FVC decline over 52 weeks compared with the 18 mg twice-daily dose (adjusted mean difference vs placebo: 81.14 mL and 67.18 mL, respectively).
 
-However, the 18 mg twice-daily dose demonstrated a numerically greater benefit for clinically relevant outcomes, including mortality. The relative risk of death was reduced by 40% with 9 mg twice daily and by 52% with 18 mg twice daily versus placebo, noti ng that these analyses were not controlled for multiplicity.
+However, the 18 mg twice-daily dose demonstrated a numerically greater benefit for clinically relevant outcomes, including mortality. The relative risk of death was reduced by 40% with 9 mg twice daily and by 52% with 18 mg twice daily versus placebo, noting that these analyses we re not controlled for multiplicity.
 
 Considering the totality of efficacy data, the 18 mg twice-daily dose is considered acceptable. Dose reduction to 9 mg twice daily may be considered based on individual tolerability, in line with the SmPC section 4.2.
 
@@ -6103,7 +6109,7 @@ Table 76 : Overview of clinical trials comprising patients with IPF, PPF, and he
 | 1305- 0025                                        | Healthy male and female subjects with or without renal   | 26 (10 with no renal impairm ent)                 | Single dose                                       | Phase 1 : Non-randomised, open-label, individual-matched trial                  | Nerandomilast: 18 mg single dose                                                                                              | Completed                                                                                                                     |
 |---------------------------------------------------|----------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | 1305- 0026                                        | Healthy male and female subjects                         | 46                                                | Single dose                                       | Phase 1 : Randomised, double-blind, placebo- controlled, 5-way cross-over trial | Nerandomilast: 30 mg and 48 mg single dose                                                                                    | Completed                                                                                                                     |
-| 1305- 0027                                        | Healthy male and female subjects with or without hepatic | 28 (12 with no hepatic impairm ent)               | Single dose                                       | Phase 1 : Non-randomised, open-label, individual-matched trial                  | Nerandomilast: 18 mg single dose                                                                                              | Completed                                                                                                                     |
+| 1305- 0027                                        | Healthy male and female subjects with or without         | 28 (12 with no hepatic impairm ent)               | Single dose                                       | Phase 1 : Non-randomised, open-label, individual-matched trial                  | Nerandomilast: 18 mg single dose                                                                                              | Completed                                                                                                                     |
 | 1305- 0028                                        | Healthy male and female subjects                         | 24                                                | Single dose                                       | Phase 1 : Randomised, open- label, 3-way cross-over trial                       | Nerandomilast: 18 mg single dose                                                                                              | Completed                                                                                                                     |
 | 1305- 0029                                        | TBD                                                      | 15                                                | TBD                                               | TBD                                                                             | TBD                                                                                                                           | TBD                                                                                                                           |
 | 1305- 0030                                        | Healthy male subjects                                    | 8                                                 | Single dose                                       | Phase 1 : Fixed-sequence, open label trial                                      | Nerandomilast: 18 mg single dose                                                                                              | Completed                                                                                                                     |
@@ -6116,8 +6122,8 @@ Table 76 : Overview of clinical trials comprising patients with IPF, PPF, and he
 | Total healthy male and female                     | subjects:                                                | 542                                               |                                                   |                                                                                 | Total healthy male and female receiving nerandomilast: 502                                                                    | subjects                                                                                                                      |
 | 1305- 0012                                        | IPF                                                      | 15                                                | Up to 12 weeks                                    | Phase 1 : Randomised, double-blind, placebo- controlled trial                   | Placebo; nerandomilast (n=10): 18 mg bid                                                                                      | Completed                                                                                                                     |
 | 1305- 0013                                        | IPF                                                      | 147                                               | 12 weeks                                          | Phase 2 : Randomised, double-blind, placebo- controlled trial                   | Placebo; nerandomilast (n=97): 18 mg bid                                                                                      | Completed                                                                                                                     |
-| 1305- 0014                                        | IPF                                                      | 1177                                              | At least 52 weeks                                 | Phase 3 : Randomised, double-blind, placebo-                                    | Placebo; nerandomilast (n=784): 9 mg and 18 mg bid                                                                            | Completed                                                                                                                     |
-| 1305- 0031                                        | IPF                                                      | 843                                               | Up to 7 months                                    | controlled trial Phase 3: OLE trial rolled over from trial 1305-0014            | Nerandomilast: 18 mg bid                                                                                                      | Ongoing                                                                                                                       |
+| 1305- 0014                                        | IPF                                                      | 1177                                              | At least 52 weeks                                 | Phase 3 : Randomised, double-blind, placebo- controlled trial                   | Placebo; nerandomilast (n=784): 9 mg and 18 mg bid                                                                            | Completed                                                                                                                     |
+| 1305- 0031                                        | IPF                                                      | 843                                               | Up to 7 months                                    | Phase 3: OLE trial rolled over from trial 1305-0014                             | Nerandomilast: 18 mg bid                                                                                                      | Ongoing                                                                                                                       |
 | subjects with IPF: 2182 (1339 excluding rollover) | subjects with IPF: 2182 (1339 excluding rollover)        | subjects with IPF: 2182 (1339 excluding rollover) | subjects with IPF: 2182 (1339 excluding rollover) | subjects with IPF: 2182 (1339 excluding rollover)                               | Total subjects with IPF receiving nerandomilast: 1734 (1167 excluding duplicate subjects who rolled-over from a nerandomilast | Total subjects with IPF receiving nerandomilast: 1734 (1167 excluding duplicate subjects who rolled-over from a nerandomilast |
 
 <div style=\"page-break-after: always\"></div>
@@ -6176,7 +6182,7 @@ t1g2\\t-expoaum.#as 220AY2025
 
 ## Disposition
 
-For the pooled set SAF1, 1904 patients (80.9 %) completed planned treatment up to Week 52 and 2147 patients (91.2%) completed planned observation for the primary endpoint assessment. A total of 1715 patients (72.9 %) completed the planned treatment period over the whole trial and 638 (27.1%) discontinued trial medication. The most common reason for premature discontinuation of study medication was an AE (13.3 %), followed by withdrawal by patient (6. 8 %) and 'other' ( 6. 5%). A total of 1976 patients (83.6 %) completed the planned observation over the whole trial, 45 (1.9 %) had lung transplant, and 238 (10.1 % ) died.
+For the pooled set SAF1, 1904 patients (80.9 %) completed planned treatment up to Week 52 and 2147 patients (91.2%) completed planned observation for the primary endpoint assessment. A total of 1715 patients (72.9 %) completed the planned treatment period over the whole trial and 638 (27.1%) discontinued trial medication. The most common reason for premature discontinuation of study medication was an AE (13.3 %), followed by withdrawal by patient (6. 8 %) and 'other' ( 6. 5%). A total of 1976 patients (83.6 %) completed the planned observation over the whole trial, 45 (1.9 %) had lung transplant, and 238 (10.1 %) died.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6291,11 +6297,11 @@ t1g2\\t=intsum.sas 22MAT2025
 
 <div style=\"page-break-after: always\"></div>
 
-Almost all patients (98.9%) had at least one concomitant diagnosis at baseline, with the three most frequent being hypertension (46.5%), gastro -oesophageal reflux disease (31.7%), and diarrhoea (19.5%) at PT level.  The  frequency  of  diarrhoea  as  a  baseline  condition  was  higher  in  patients  receiving  nintedanib (37.9%), than in patients receiving pirfenidone (6.3%) or no background AF therapy (1.1%). A total of 396 patients (33.6%) were receiving immunosuppressive medication at baseline. These patients were ba lanced across the treatment groups.
+Almost all patients (98.9%) had at least one concomitant diagnosis at baseline, with the three most frequent being hypertension (46.5%), gastro -oesophageal reflux disease (31.7%), and diarrhoea (19.5%) at PT level.  The  frequency  of  diarrhoea  as  a  baseline  condition  was  higher  in  patients  receiving  nintedanib (37.9%), than in patients receiving pirfenidone (6.3%) or no background AF therapy (1.1%). A total of 396 patients (33.6%) were receiving immunosuppressive medication at baseline. These patients were balanced across the treatment groups.
 
-Of the randomised and treated patients in the pivotal 1305-0023 (PPF) study, more than half were male (55.6%). There was a slightly higher percentage of men in the placebo arm (58.9%) compared to the nerandomilast treatment groups (54.0%). Almost all patients were either White (58.2%) or Asian (39.1%). Sixteen patients were Black or African American (1.4%) and fifteen patients were of multiple race (1.3%). Most of the trial population were elderly (mean age 66.4 years, SD 10.0) which is consistent with the pathogenesis of PPF. A total of 514 patients (43.7%) were on background treatment with AFs at baseline, of which 512 (43.5%) were on background nintedanib therapy.
+Of the randomised and treated patients in the pivotal 1305-0023 (PPF) study, more than half were male (55.6%). There was a slightly higher percentage of men in the placebo arm (58.9%) compared to the nerandomilast treatment groups (54.0%). Almost all patients were either White (58.2%) or Asian (39.1%). Sixteen patients were Black or African American (1.4%) and fifteen patients were of multiple race (1.3%). Most of the trial population were elderly (mean age 66.4 years, SD 10.0) which is consistent with the pathogenesis of PPF. A total of 514 patients (43.7%) were on backgroun d treatment with AFs at baseline, of which 512 (43.5%) were on background nintedanib therapy.
 
-Almost all patients (98.0%) had at least one concomitant diagnosis at baseline, with the three most frequent being hypertension (42.1%), gastro -oesophageal reflux disease (28.1%), and hyperlipidaemia (14.9%) at PT level. The frequency of diarrhoea as a baseline condition was higher in patients receiving background nintedanib therapy (27.4%) than in patients with no background nintedanib therapy (2.3%) and the frequency of rheumatoid arthritis was lower in patients receiving background nintedanib therapy (7. 4%) than in patients with no background nintedanib therapy (14.4%). A total of 283 patients (24.1%) used at least one immunosuppressive medication of interest at baseline. These patients were balanced across the treatment groups.
+Almost all patients (98.0%) had at least one concomitant diagnosis at baseline, with the three most frequent being hypertension (42.1%), gastro -oesophageal reflux disease (28.1%), and hyperlipidaemia (14.9%) at PT level. The frequency of diarrhoea as a baseline condition was higher in patients receiving background nintedanib therapy (27.4%) than in patients with no background nintedanib therapy (2.3%) and the frequency of rheumatoid arthritis was lower in patients receiving background nintedanib therapy (7.4%) than in patients with no background nintedanib therapy (14.4%). A total of 283 patients (24.1%) used at least one immunosuppressive medication of interest at baseline. These patients were balanced across the treatment groups.
 
 Table 81 : Baseline immunosuppressant use by CDG (frequency &gt;1% in any treatment group) FAS
 
@@ -6533,7 +6539,7 @@ Incidence rates were calculated using the number of patients with the respective
 
 2 Since DBL1, the number of reported severe AEs of diarrhoea decreased; 1 occurrence of diarrhoea, which was considered severe (CTCAE 3) at DBL1, was reclassified (CTCAE 1) by the investigator post-DBL1.
 
-## AEs assessed as drug-related by the investigator (IPF)
+AEs assessed as drug-related by the investigator (IPF)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6841,15 +6847,15 @@ Table 95 : Preferred terms identified by the screening algorithm for potential A
 |                             | Criterion met in overall pooled population (SAF1) for 9 mg and/or 18 mg bid nerandomilast   | Criterion met in overall pooled population (SAF1) for 9 mg and/or 18 mg bid nerandomilast   |
 |-----------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 |                             | 52 weeks                                                                                    | Whole trial                                                                                 |
-| Diarrhoea                   | Criterion 31                                                                                | Criterion 3ª                                                                                |
+| Diarrhoea                   | Criterion 31                                                                                | Criterion 31                                                                                |
 | Nausea                      | Criterion 3                                                                                 | Criterion 31                                                                                |
 | Vomiting                    | Criterion 3                                                                                 | Criterion 3                                                                                 |
 | Fatigue                     | Criterion 3                                                                                 | Criterion 3                                                                                 |
 | Decreased appetite          | Criterion 3                                                                                 | Criterion 3                                                                                 |
 | Weight decreased            | Criterion 31                                                                                | Criterion 31                                                                                |
-| Headache                    | C ieon                                                                                      | C ileeon                                                                                    |
+| Headache                    | Criterion 3                                                                                 | Cileeon                                                                                     |
 | Dizziness                   | Criterion 3                                                                                 | Criterion 3                                                                                 |
-| Nasopharyngitis             | C nieion                                                                                    |                                                                                             |
+| Nasopharyngitis             | Criterion 3                                                                                 |                                                                                             |
 | Influenza                   |                                                                                             | Criterion 3                                                                                 |
 | Pneumonia                   | Criterion 3                                                                                 | Criterion 3                                                                                 |
 | Respiratory tract infection | Criterion 31                                                                                | Criterion 31                                                                                |
@@ -6859,8 +6865,8 @@ Table 95 : Preferred terms identified by the screening algorithm for potential A
 | Frequent bowel movements    | Criterion 21                                                                                |                                                                                             |
 | Arthritis                   |                                                                                             | Criterion 21                                                                                |
 | Atrial fibrillation         |                                                                                             | Criterion 21                                                                                |
-| Epistaxis                   |                                                                                             | Criterion 21                                                                                |
-| Contusion                   |                                                                                             | Citrron2                                                                                    |
+| Epistaxis                   |                                                                                             | Criterion 2'                                                                                |
+| Contusion                   |                                                                                             | Criterion 2                                                                                 |
 
 1 Risk ratio is considered statistically significant (95% CIs not spanning 1). Based on the methods described in the Summary of Clinical Safety, 'diarrhoea', 'weight decreased', 'decreased appetite', 'nausea', and 'back pain' are proposed as ADRs for nerandomilast in the treatment of patients with IPF and PPF.
 
@@ -6924,7 +6930,7 @@ Five AEs of special interest (AESIs) were predefined within a number of safety t
 - New onset of severe depression, defined as HADS sub score &gt;14
 - New onset of severe anxiety, defined as HADS sub score &gt;14
 
-Other safety topics potentially related to the mode of action of nerandomilast or important potential or identified  risks  of  other  PDE4  inhibitors  include  cardiovascular  events  (MACE,  tachyarrhythmia,  QT prolongation),  psychiatric  events  (suicidal  ideation  and  behaviour,  depression,  nervousness/anxiety, insomnia),  weight  decrease,  gastrointestinal  symptoms  (diarrhoea,  nausea,  vomiting,  abdominal  pain), vasculitis, severe/serious/opportunistic infections, potential DILI, and malignancies.
+Other safety topics potentially related to the mode of action of nerandomilast or important potential or identified risks of other PDE4 inhibitors include cardiovascular events (MACE, tachyarrhythmia, QT prolongation), psychiatric events (suicidal ideation and behaviour, depression, nervousness/anxiety, insomnia), weight decrease, gastrointestinal symptoms (diarrhoea, nausea, vomiting, abdominal pain), vasculitis, severe/serious/opportunistic infections, potential DILI, and malignancies.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6957,7 +6963,7 @@ Table 100 : Patients reported with AEs in special safety topics and AESIs - TS (
 |                                                                                          |         |         | Overall population 2   | Overall population 2   | Overall population 2   | Overall population 2   | Overall population 2   | Non-pirfenidone population 3   | Non-pirfenidone population 3   | Non-pirfenidone population 3   | Non-pirfenidone population 3   | Non-pirfenidone population 3   |
 |------------------------------------------------------------------------------------------|---------|---------|------------------------|------------------------|------------------------|------------------------|------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
 | Safety topic/ PT or HLT                                                                  | Placebo | Placebo | Nera 9 mg bid          | Nera 9 mg bid          | Nera 18 mg bid         | Nera 18 mg bid         | Placebo                | Placebo                        | Nera 9 mg bid                  | Nera 9 mg bid                  | Nera 18 mg bid                 | Nera 18 mg bid                 |
-|                                                                                          | N       | %       | N                      | %                      | N                      | %                      | N                      | %                              | N                              | %                              | N                              | %                              |
+| Safety topic/ PT or HLT                                                                  | N       | %       | N                      | %                      | N                      | %                      | N                      | %                              | N                              | %                              | N                              | %                              |
 | Number of patients                                                                       | 785     | 100.0   | 785                    | 100.0                  | 783                    | 100.0                  | 651                    | 100.0                          | 665                            | 100.0                          | 655                            | 100.0                          |
 | Vasculitis (SMQ narrow)                                                                  | 4       | 0.5     | 7                      | 0.9                    | 6                      | 0.8                    | 3                      | 0.5                            | 7                              | 1.1                            | 3                              | 0.5                            |
 | AESI 'vasculitis' (SMQ broad)                                                            | 6       | 0.8     | 7                      | 0.9                    | 6                      | 0.8                    | 4                      | 0.6                            | 7                              | 1.1                            | 3                              | 0.5                            |
@@ -6982,8 +6988,7 @@ Table 100 : Patients reported with AEs in special safety topics and AESIs - TS (
 | Tachyarrhythmia (SMQ narrow)                                                             | 22      | 2.8     | 28                     | 3.6                    | 37                     | 4.7                    | 19                     | 2.9                            | 23                             | 3.5                            | 33                             | 5.0                            |
 | QT prolongation (SMQ narrow)                                                             | 2       | 0.3     | 3                      | 0.4                    | 3                      | 0.4                    | 1                      | 0.2                            | 3                              | 0.5                            | 3                              | 0.5                            |
 | Potential DILI (sub- SMQs narrow)                                                        | 52      | 6.6     | 49                     | 6.2                    | 40                     | 5.1                    | 48                     | 7.4                            | 43                             | 6.5                            | 36                             | 5.5                            |
-| AESI 'potential severe                                                                   | 6       |         | 2                      |                        | 7                      |                        | 6                      | 0.9                            | 2                              | 0.3                            | 6                              |                                |
-| DILI'                                                                                    |         | 0.8     |                        | 0.3                    |                        | 0.9                    |                        |                                |                                |                                |                                | 0.9                            |
+| AESI 'potential severe DILI'                                                             | 6       | 0.8     | 2                      | 0.3                    | 7                      | 0.9                    | 6                      | 0.9                            | 2                              | 0.3                            | 6                              | 0.9                            |
 
 ## 5.4.4.1.1. Vasculitis
 
@@ -7003,7 +7008,7 @@ PPF: 2 (0.5%) patients in the placebo group, 3 (0.8%) patients in the 9 mg bid n
 
 ## Pooled data: Analyses including 1305-0014 DBL2 and 1305-0023 DBL2 data
 
-A total of 15 AEs were reported in the suicidal ideation and behaviour (SMQ narrow) safety topic. This comprised 4 (0.5%) patients each in the placebo group, 5 (0.6%) in the 9 mg bid nerandomilast group, and 6 (0.8%) patients in the 18 mg bid nerandomilast group.  All these patients were reported with an SAE of suicidal ideation (as required per CTP; see 'AEs considered 'Always serious''). The AEs were assessed as drugrelated by the investigator in 2 (0.3%) patients in the placebo group, 4 (0.5%) patients in the 9 mg bid nerandomilast group, and 3 (0.4%) patients in the 18 mg bid nerandomilast group. Overall, 10 out of 15 patients with on-treatment suicidal ideation AEs had baseline psychiatric disorders (such as insomnia, anxiety, depression), 7 patients had a medical history of suicidal ideation or behaviour (type 1 to 9; based on C-SSRS results collected at baseline), and 8 patients received relevant therapy with psychiatric side effects at the time of the onset of the suicidal ideation AE. Among patients with suicidal ideation and behaviour AEs while on nerandomilast, all but 1 patient had identified triggers confounding suicidal ideation.
+A total of 15 AEs were reported in the suicidal ideation and behaviour (SMQ narrow) safety topic. This comprised 4 (0.5%) patients each in the placebo group, 5 (0.6%) in the 9 mg bid nerandomilast group, and 6 (0.8%) patients in the 18 mg bid nerandomilast group.  All these patients were reported with an SAE of suicidal ideation (as required per CTP; see 'AEs considered 'Always serious''). The AEs were assessed as drugrelated by the investigator in 2 (0.3%) patients in the placebo group, 4 (0.5%) patients in the 9 mg bid nerandomilast group, and 3 (0.4 %) patients in the 18 mg bid nerandomilast group. Overall, 10 out of 15 patients with on-treatment suicidal ideation AEs had baseline psychiatric disorders (such as insomnia, anxiety, depression), 7 patients had a medical history of suicidal ideation or behaviour (type 1 to 9; based on C-SSRS results collected at baseline), and 8 patients received relevant therapy with psychiatric side effects at the time of the onset of the suicidal ideation AE. Among patients with suicidal ideation and behaviour AEs while on nerandomilast, all but 1 patient had identified triggers confounding suicidal ideation.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7017,13 +7022,7 @@ No relevant mean changes from baseline in HADS depression and anxiety scores and
 
 ## AESIs with new onset of severe depression (HADS &gt;14) or severe anxiety (HADS &gt;14)
 
-The frequency of AESIs of new onset of severe depression and AESIs of new onset of severe anxiety, both
-
-defined as HADS subscore &gt;14, was low and balanced across treatment groups. At the PT level,
-
-depression and anxiety AESIs were reported most frequently. Similar trends were observed for the
-
-population of patients not taking pirfenidone as background.
+The frequency of AESIs of new onset of severe depression and AESIs of new onset of severe anxiety, both defined as HADS subscore &gt;14, was low and balanced across treatment groups. At the PT level, depression and anxiety AESIs were reported most frequently. Similar trends were observed for the population of patients not taking pirfenidone as background.
 
 IPF: In the pivotal IPF clinical trial, no relevant imbalances across treatment groups were observed in the frequencies of AEs in the insomnia, nervousness and anxiety, depression, and suicidal ideation and behaviour safety topics. All patients with on-treatment AEs up to DBL2 in the suicidal ideation and behaviour safety topic were reported with an SAE of suicidal ideation (placebo: 0.5%; 9 mg bid nerandomilast: 0.8%; 18 mg bid nerandomilast: 0.8%). The AEs were assessed as drug -related by the investigator in 3 (0.8%) patients in the 9 mg bid nerandomilast group and in 2 (0.5%) patients in the 18 mg bid nerandomilast group, and in no patients receiving placebo. Overall, 6 out of 8 patients with ontreatment suicidal ideation AEs had baseline psychiatric disorders (such as insomnia, anxiety, depression), five patients received relevant therapy with psychiatric side effects at the time of the onset of the suicidal ideation AE, and three patients had been reported with suicidal ideation (type 1 or 2) before first trial drug administration.
 
@@ -7064,7 +7063,7 @@ HLGT: high level group term, HLT: high level term. For respiratory tract infecti
 
 ## 5.4.4.1.4. Potential severe DILI
 
-Pooled data: Analyses including 1305-0014 DBL2 and 1305-0023 DBL1 data Percentages are calculated using total number of patients per treatment as the denominator.
+Pooled data: Analyses including 1305-0014 DBL2 and 1305-0023 DBL1 data peees r se po ieqer s Ban peno re seesaeane as the denominator.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7089,11 +7088,9 @@ Table 102 : Overall summary of adverse events by safety topic and treatment
 | Congenital anomaly or birth defect                                         | 02         | 0.00       | 988.67                | 0.00            | 0              | 0.00           | 990.52                | 0.00            |                 | 0.00            | 97256                 | 0.00            |
 | Other medically Important serious event                                    |            | 0.25       | 988.20                | 0.20            | 5              | 0.64           | 986.24                | 0.51            |                 | 0.13            | 972.53                | 0.10            |
 
-MedDRA version used for reporting: 27.1
+MedDRa version used for reporting: 27.1
 
-e ete e ete e aee e  a a
-
-Containing data from triale: 1305-0014 and 1305-0023 E- p 00- 113 m  uuy
+Contaiming data from trials: 1305-0014 and 1305-0023
 
 tlg2\\t-aesumsaf.sas 22MAY2025
 
@@ -7104,16 +7101,16 @@ tlg2\\t-aesumsaf.sas 22MAY2025
 | Patients with any AE                                                       | 52        | 6.62      | 953.03                | 5.46            | 49             | 6.24           | 956.04                | 5.13            | 40              | 5.11            | 946.06                | 4.23            |
 | Patients with severe AEs (CTCAE grade of at least 3)                       | 11        | 1.40      | 984.79                | 1.12            | 11             | 1.40           | 985.51                | 1.12            | 7               | 0.89            | 969.31                | 0.72            |
 | Patients with investigator defined drug-related AEs                        | 22        | 2.80      | 972.02                | 2.26            | 12             | 1.53           | 981.01                | 1.22            | 14              | 1.79            | 960.93                | 1.46            |
-| Patients with AEs leading to permanent discontinuation of trial~medication | 4         | 0.51      | 988.55                | 0.40            | 1              | 0.13           | 990.50                | 0.10            | 0               | 0.00            | 972.56                | 0.00            |
+| Patients with AEs leading to permanent discontinuation of trial medication | 4         | 0.51      | 988.55                | 0.40            | 1              | 0.13           | 990.50                | 0.10            | 0               | 0.00            | 972.56                | 0.00            |
 | Patients with AEs leading to temporary interruption of trial medication    | 9         | 1.15      | 981.58                | 0.92            | 5              | 0.64           | 986.43                | 0.51            | 6               | 0.77            | 968.74                | 0.62            |
 | Patients with AEs of special interest                                      | 6         | 0.76      | 986.80                | 0.61            | 2              | 0.25           | 990.49                | 0.20            | 7               | 0.89            | 970.24                | 0.72            |
-| Patients with serious AEs                                                  |           | 1.15      | 985.95                | 0.91            | 8              | 1.02           | 988.98                | 0.81            | 5               | 0.64            | 969.68                | 0.52            |
-| Results in death                                                           |           | 0.00      | 988.67                | 0.00            |                | 0.00           | 990.52                | 0.00            |                 | 0.00            | 972.56                | 0.00            |
-| Is life threatening                                                        |           | 0.00      | 988.67                | 0.00            |                | 0.13           | 990.50                | 0.10            |                 | 0.13            | 972.26                | 0.10            |
-| Disability or permanent damage                                             |           | 0.00      | 988.67                | 0.00            | 1              | 0.13           | 990.50                | 0.10            |                 | 0.00            | 972.56                | 0.00            |
-| Requires or prolongs hospitalization                                       |           | 0.64      | 988.22                | 0.51            | 4              | 0.51           | 990.06                | 0.40            | 2               | 0.26            | 971.91                | 0.21            |
-| Congenital añomaly or birth defect                                         |           | 0.00      | 988.67                | 0.00            | 0              | 0.00           | 990.52                | 0.00            |                 | 0.00            | 972.56                | 0.00            |
-| Other medically Important serious event                                    | 5         | 0.64      | 986.38                | 0.51            | 4              | 0.51           | 989.44                | 0.40            | 0 3             | 0.38            | 970.34                | 0.31            |
+| Patients with serious AEs                                                  | 9         | 1.15      | 985.95                | 0.91            | 8              | 1.02           | 988.98                | 0.81            | 5               | 0.64            | 969.68                | 0.52            |
+| Results in death                                                           |           | 0.00      | 988.67                | 0.00            | 0              | 0.00           | 990.52                | 0.00            |                 | 0.00            | 972.56                | 0.00            |
+| Is life threatening                                                        |           | 0.00      | 988.67                | 0.00            | 1              | 0.13           | 990.50                | 0.10            |                 | 0.13            | 972.26                | 0.10            |
+| Disability or permanent damage                                             |           | 0.00      | 988.67                | 0.00            |                | 0.13           | 990.50                | 0.10            | 0               | 0.00            | 972.56                | 0.00            |
+| Requires or prolongs hospitalization                                       | 5         | 0.64      | 988.22                | 0.51            |                | 0.51           | 990.06                | 0.40            | 2               | 0.26            | 971.91                | 0.21            |
+| Congenital anomaly or birth defect                                         | 0         | 0.00      | 988.67                | 0.00            | 40             | 0.00           | 990.52                | 0.00            | 0               | 0.00            | 972.56                | 0.00            |
+| Other medically Important serious event                                    | 5         | 0.64      | 986.38                | 0.51            | 4              | 0.51           | 989.44                | 0.40            | 3               | 0.38            | 970.34                | 0.31            |
 
 Percentages are calculated using total number of patients per treatment as the denominator. A patient may have serious AE(s) with multiple seriousness criteria. MedDRA version used for reporting: 27.1 Containing data from trials: 1305-0014 and 1305-0023
 
@@ -7179,7 +7176,7 @@ Table 104 : Overall summary of liver-related adverse events by treatment - TS (S
 | Resulted in death                                  | 0           | 0                 | 0               | 0               | 0                    | 0               |
 | Required or prolonged hospitalisation              | 5 (0.5)     | 0                 | 0               | 4 (0.5)         | 0                    | 2 (0.1)         |
 
-## Table 105 : Summary of liver enzyme and bilirubin elevations by treatment - TS (SAF3)
+Table 105 : Summary of liver enzyme and bilirubin elevations by treatment - TS (SAF3)
 
 | Elevated liver enzymes criteria         | Placebo     | Nerandomilast       | Nerandomilast   | Nerandomilast   | Nerandomilast        | Nerandomilast   |
 |-----------------------------------------|-------------|---------------------|-----------------|-----------------|----------------------|-----------------|
@@ -7200,15 +7197,15 @@ Table 104 : Overall summary of liver-related adverse events by treatment - TS (S
 
 ## 5.4.4.2.1. Gastrointestinal events
 
-## Analyses including pivotal trial 1305-0014 DBL2 and 1305-0023 DBL2 pooled data:
-
 <div style=\"page-break-after: always\"></div>
+
+## Analyses including pivotal trial 1305-0014 DBL2 and 1305-0023 DBL2 pooled data:
 
 In the overall patient population, in trials 1305-0014 and 1305-0023 pooled, the frequency of AEs in the safety topic 'gastrointestinal symptoms' was higher under nerandomilast treatment than in the placebo group. This was mostly driven by the AEs in PT 'diarrhoea' which were observed more frequently in the nerandomilast treatment groups than in the placebo group. A numerical increase was also observed in the frequency of nausea under nerandomilast treatment compared with placebo. The frequencies of PT vomiting and HLT abdominal pain were generally balanced across the three treatment groups.
 
-The percentage of patients reported with diarrhoea of severe intensity was generally low and higher in the nerandomilast groups (9 mg bid nerandomilast: n = 10 [1.3%]; 18 mg bid nerandomilast: n = 12 [1.5 %]) than in the placebo group (n = 4 [0.5%]). The percentage of patients who permanently discontinued trial drug due to diarrhoea AE was the highest in the 18 mg bid nerandomilast group. Only five patients had diarrhoea events that were considered serious. This comprised 2 (0.3%) patients in the placebo gro up, 2 (0.3%) patients in the 9 mg bid nerandomilast group, and 1 (0.1%) patient in the 18 mg bid nerandomilast group. Most patients had first onset of diarrhoea AEs within the first 3 months of the trials. HRs (95% CIs) indicating increased risk of diarrhoea AEs versus placebo for pooled trials 1305-0014 and 1305-0023 were 1.61 (1.33, 1.96) for 9 mg bid nerandomilast and 2.11 (1.76, 2.55) for 18 mg bid nerandomilast.
+The percentage of patients reported with diarrhoea of severe intensity was generally low and higher in the nerandomilast groups (9 mg bid nerandomilast: n = 10 [1.3%]; 18 mg bid nerandomilast: n = 12 [1.5 %]) than in the placebo group (n = 4 [0.5%]). The percentage of patients who permanently discontinued trial drug due to diarrhoea AE was the highest in the 18 mg bid nerandomilast group. Only five patients had diarrhoea events that were considered serious. This comprised 2 (0.3%) patients in the placebo group, 2 (0.3%) patients in the 9 mg bid nerandomilast group, and 1 (0.1%) patient in the 18 mg bid nerandomilast group. Most patients had first onset of diarrhoea AEs within the first 3 months of the trials. HRs (95% CIs) indicating increased risk of diarrhoea AEs versus placebo for pooled trials 1305-0014 and 1305-0023 were 1.61 (1.33, 1.96) for 9 mg bid nerandomilast and 2.11 (1.76, 2.55) for 18 mg bid nerandomilast.
 
-In trials 1305-0014 and 1305-0023 pooled, the frequencies of nausea AELDs were low and the highest in the  18 mg  bid  nerandomilast  group  (placebo:  0.3%,  9 mg  bid  nerandomilast:  0.3%,  18 mg  bid nerandomilast: 0.8%). There was one SAE of nausea (in trial 1305-0014) and 1 severe AE of nausea (in trial 1305-0023), both reported in the 18 mg bid nerandomilast group. The first onset of nausea AEs was mostly observed in the first 3 months of trial treatment. HRs (95% CIs) indicating increased risk of nausea AEs versus placebo were 1.28 (0.90, 1.82) for 9 mg bid nerandomilast and 1.49 (1.06, 2.10) for 18 mg bid nerandomilast.
+In trials 1305-0014 and 1305-0023 pooled, the frequencies of nausea AELDs were low and the highest in the 18 mg bid nerandomilast group (placebo: 0.3%, 9 mg bid nerandomilast: 0.3%, 18 mg bid nerandomilast: 0.8%). There was one SAE of nausea (in trial 1305-0014) and 1 severe AE of nausea (in trial 1305-0023), both reported in the 18 mg bid nerandomilast group. The first onset of nausea AEs was mostly observed in the first 3 months of trial treatment. HRs (95% CIs) indicating increased risk of nausea AEs versus placebo were 1.28 (0.90, 1.82) for 9 mg bid nerandomilast and 1.49 (1.06, 2.10) for 18 mg bid nerandomilast.
 
 Similar trends for the AEs in the 'gastrointestinal symptoms' safety topic (also at the PT/HLT level) were observed for the population of patients not taking pirfenidone as background therapy.
 
@@ -7330,8 +7327,7 @@ Table 109 : Summary of AEs 'diarrhoea' overall and by background nintedanib ther
 |                                                     | N         | %         | N               | %               | N                | %                |
 | Overall                                             |           |           |                 |                 |                  |                  |
 | Number of patients                                  | 392       |           | 393             |                 | 391              |                  |
-| Patients with at least 1 AE 'diarrhoea'             | 102       | 100.0     | 128             | 100.0           | 145              | 100.0            |
-| CTCAE grade                                         |           |           |                 |                 |                  |                  |
+| Patients with at least 1 AE 'diarrhoea' CTCAE grade | 102       | 100.0     | 128             | 100.0           | 145              | 100.0            |
 | Grade 1 (increase of <4 stools/day)                 | 54        | 52.9      | 63              | 49.2            | 75               | 51.7             |
 | Grade 2 (increase of 4 to 6 stools/day)             | 46        | 45.1      | 60              | 46.9            | 68               | 46.9             |
 | Grade 3 (increase of ≥7 stools/day)                 | 2         | 2.0       | 5               | 3.9             | 2                | 1.4              |
@@ -7410,7 +7406,7 @@ In the overall patient population, in trials 1305-0014 and 1305-0023 pooled, the
 
 <div style=\"page-break-after: always\"></div>
 
-Similar trends were observed for the population of patients not taking pirfenidone as background therapy. Two AEs in the safety topic 'weight decrease' were considered serious (both in trial 1305-0014). This comprised one patient in the 9 mg bid nerandomilast group and 18 mg bid nerandomilast group each. One (0.1%) patient in the placebo group, two patients (0.3%) in the 9 mg bid nerandomilast treatment group, and six patients (0.8 %) in the 18 mg bid nerandomilast group were reported with AELDs of weight de crease. The AEs in this safety topic were of mild or moderate intensity except for 3 (0.4%) patients in the placebo group, 1 (0.1 %) patient in the 9 mg bid nerandomilast group, and 2 (0.3 %) patient s in the 18 mg bid nerandomilast group with severe events. 'Weight decreased' AEs were considered drug-related by the investigator in 24 (3.1%) patients in the placebo group, 29 (3.7%) patients in the 9 mg bid nerandomilast group, and 48 (6.1 %) patients in the 18 mg bid nerandomilast group.
+Similar trends were observed for the population of patients not taking pirfenidone as background therapy. Two AEs in the safety topic 'weight decrease' were considered serious (both in trial 1305-0014). This comprised one patient in the 9 mg bid nerandomilast group and 18 mg bid nerandomilast group each. One (0.1%) patient in the placebo group, two patients (0.3%) in the 9 mg bid nerandomilast treatment group, and six patients (0.8 %) in the 18 mg bid nerandomilast group were reported with AELDs of weight decrease. The AEs in this safety topic were of mild or moderate intensity except for 3 (0.4%) patients in the placebo group, 1 (0.1 %) patient in the 9 mg bid nerandomilast group, and 2 (0.3 %) patient s in the 18 mg bid nerandomilast group with severe events. 'Weight decreased' AEs were considered drug-related by the investigator in 24 (3.1%) patients in the placebo group, 29 (3.7%) patients in the 9 mg bid nerandomilast group, and 48 (6.1 %) patients in the 18 mg bid nerandomilast group.
 
 In trials 1305-0014 and 1305-0023 pooled, similar trends in the weight decrease AE display by subgroup were observed as described for trials 1305-0014 and 1305-0023. The frequency of AEs in the 'weight decrease' safety topic was higher in patients with background nintedanib or pirfenidone treatment than in patients taking no background therapy.
 
@@ -7532,7 +7528,7 @@ Only 390 placebo patients, 390 patients on 9 mg bid nerandomilast, and 389 patie
 
 ## Analyses including 1305-0014 DBL2 and 1305-0023 DBL2 pooled data
 
-In the overall patient population, in trials 1305-0014 and 1305-0023 pooled, the frequencies of AEs in 'MACE' and 'QT prolongation' safety topics were similar across treatment groups. All AEs in the 'MACE' safety topic at the PT level were reported in 5 or fewer patients in any treatment group. A numerical increase in 'tachyarrhythmia' safety topic was observed for the 18 mg bid nerandomilast group. This was mostly attributed to the higher frequency of atrial fibrillation in the 18 mg bid nerandomilast group compared with placebo. At the PT level, most frequently reported AEs (i.e. reported in &gt;2 patients in any treatment group) in 'tachyarrhythmia' safety topic were atrial fibrillation (placebo: 0.8%; 9 mg bid nerandomilast: 1.8%; 18 mg bid nerandomilast: 2 .6%), supraventricular extrasystoles (0. 5 %; 0. 5 %; 0.6%), ventricular extrasystoles (0.9%; 0.3%; 0.5%), sinus tachycardia (0%; 0. 5 %; 0. 9 %), and supraventricular tachycardia (0.4%; 0%; 0.3%). Only one AELD was reported in 'tachyarrhythmia' safety topic (in the 18 mg bid nerandomilast group). Similar trends were observed for the population of patients not taking pirfenidone as background therapy.
+In the overall patient population, in trials 1305-0014 and 1305-0023 pooled, the frequencies of AEs in 'MACE' and 'QT prolongation' safety topics were similar across treatment groups. All AEs in the 'MACE' safety topic at the PT level were reported in 5 or fewer patients in any treatment group. A numerical increase in 'tachyarrhythmia' safety topic was observed for the 18 mg bid nerandomilast group. This was mostly attributed to the higher frequency of atrial fibrillation in the 18 mg bid nerandomilast group compared with placebo. At the PT level, most frequently reported AEs (i.e. reported in &gt;2 patients in any treatment group) in 'tachyarrhythmia' safety topic were atrial fibrillation (placebo: 0.8%; 9 mg bid nerandomilast: 1.8%; 18 mg bid nerandomilast: 2.6%), supraventricular extrasystoles (0. 5 %; 0. 5 %; 0.6%), ventricular extrasystoles (0.9%; 0.3%; 0.5%), sinus tachycardia (0%; 0. 5 %; 0. 9 %), and supraventricular tachycardia (0.4%; 0%; 0.3%). Only one AELD was reported in 'tachyarrhythmia' safety topic (in the 18 mg bid nerandomilast group). Similar trends were observed for the population of patients not taking pirfenidone as background therapy.
 
 ## Cardiovascular events ('MACE', 'QT prolongation', and 'tachyarrhythmia') (IPF 1305-0014)
 
@@ -7546,7 +7542,7 @@ The frequency of 'tachyarrhythmia' AEs in the 18 mg bid nerandomilast treatment 
 
 The frequency of MACE AEs was similar across treatment groups. At the PT level, the most frequently reported AEs (i.e. &gt;2 patients in any treatment group) in the 'MACE' safety topic were acute myocardial infarction (placebo: 0.3%, 9 mg bid nerandomilast: 0 .3%, 18 mg bid nerandomilast: 0.8%) and cerebrovascular accident (0.8%, 0.3%, 0.3%).
 
-There was a numerical increase in tachyarrhythmia in the nerandomilast groups. This was driven by the most frequently reported AE within this safety topic at PT level 'atrial fibrillation' (placebo: 0.3%; 8 mg bid nerandomilast: 1.8%; 18 mg bid nerandomilast: 2.6%). All other PTs except sinus tachycardia (0%, 0.8%, 0%) were reported in 2 patients or less in any treatment group. Nearly all cases of atrial fibrillation occurred in patients ≥65 years of age with baseline cardiac conditions or confounders.
+There was a numerical increase in tachyarrhythmia in the nerandomilast groups. This was driven by the most frequently reported AE within this safety topic at PT level 'atrial fibrillation' (placebo: 0.3%; 8 mg bid nerandomilast: 1.8%; 18 mg bid nerandomila st: 2.6%). All other PTs except sinus tachycardia (0%, 0.8%, 0%) were reported in 2 patients or less in any treatment group. Nearly all cases of atrial fibrillation occurred in patients ≥65 years of age with baseline cardiac conditions or confounders.
 
 Three (0.8%) patients in the 9 mg bid nerandomilast group and 2 patients (0.5%) in the 18 mg bid nerandomilast group were reported with an AE of QT prolongation and this is not considered a relevant imbalance.
 
@@ -7574,7 +7570,7 @@ PY: patient years
 
 Incidence rates were calculated using the number of patients with the respective events per treatment divided by time at risk expressed as 100 PY. All AEs categories as MACE were referred for adjudication.
 
-Up to DBL2, trends in AEs in the 'cardiovascular' safety topics were generally similar to those reported at DBL1. AEs confirmed as MACE by adjudication were balanced across treatment groups at DBL2. All AEs in the 'MACE' safety topic at the PT level were reported in 3 or fewer patients in any treatment group. In the 'tachyarrhythmia' safety topic, all AEs except for atrial fibrillation (placebo: 0.3%, 9 mg bid nerandomilast: 1.8%, 18 mg bid nerandomilast: 2.6%), sinus tachycardia (0%, 1.0%, 0.5%), and supra ventricular extrasystoles (1.0%, 0.5%, 0.5%) were reported in 2 patients or less in any treatment group. As of DBL2, 1 additional patient in the 18 mg bid nerandomilast group was reported with an AE of QT prolongation, but no relevant imbalances were seen across treatment groups.
+Up to DBL2, trends in AEs in the 'cardiovascular' safety topics were generally similar to those reported at DBL1. AEs confirmed as MACE by adjudication were balanced across treatment groups at DBL2. All AEs in the 'MACE' safety topic at the PT level were reported in 3 or fewer patients in any treatment group. In the 'tachyarrhythmia' safety topic, all AEs except for atrial fibrillation (placebo: 0.3%, 9 mg bid nerandomilast: 1.8%, 18 mg bid nerandomilast: 2.6%), sinus tachycardia (0%, 1.0%, 0.5%), and supraventricular extrasystoles (1.0%, 0.5%, 0.5%) were repor ted in 2 patients or less in any treatment group. As of DBL2, 1 additional patient in the 18 mg bid nerandomilast group was reported with an AE of QT prolongation, but no relevant imbalances were seen across treatment groups.
 
 ## 5.4.4.2.4. Malignancies
 
@@ -7668,7 +7664,7 @@ Table 117 : Frequency [N(%)] of patients with adverse events by treatment, safet
 
 ## Serious Adverse Events (Analyses including 1305-0014 DBL2 and 1305-0023 DBL2 pooled data)
 
-In the overall patient population, in trials 1305-0014 and 1305-0023 pooled, the frequency of patients with SAEs was lower in the nerandomilast groups than in the placebo group. SAEs were most frequently reported in the SOCs infections and infestations, respiratory, thoracic, and mediastinal disorders, and general disorders and administration site conditions. At the PT level, most frequently reported SAEs overall were condition aggravated, pneumonia, pulmonary hypertension, and respiratory failure. All other SAEs were reported in &lt;2% of the patients in each of the treatment groups. Frequencies of all reported PTs were generally balanced for SAEs across treatment groups, with frequencies of condition aggravated SAEs being lower in the nerandomilast groups. Similar trends were observed for the population of patients not taking pirfenidone as background therapy.
+In the overall patient population, in trials 1305-0014 and 1305-0023 pooled, the frequency of patients with SAEs was lower in the nerandomilast groups than in the placebo group. SAEs were most frequently reported in the SOCs infections and infestations, respiratory, thoracic, and mediastinal disorders, and general disorders and administration site conditions. At the PT level, most frequently reported SAEs overall were condition aggravated, pneumonia, pulmonary hypertension, and respiratory failure. All other SAEs were reported in &lt;2% of the patients in each of the treat ment groups. Frequencies of all reported PTs were generally balanced for SAEs across treatment groups, with frequencies of condition aggravated SAEs being lower in the nerandomilast groups. Similar trends were observed for the population of patients not taking pirfenidone as background therapy.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7869,25 +7865,24 @@ Incidence rates were calculated using the number of patients with the respective
 
 Table 123 : Frequency N (%) of patients with adjudicated cause of death - FAS [trial 1305-0014
 
-| Adjudicated cause of death/ Specific cause of death                                | Placebo N   | Nera 9mg bid Nera 18mg bid   | Nera 9mg bid Nera 18mg bid   | N          |
-|------------------------------------------------------------------------------------|-------------|------------------------------|------------------------------|------------|
-| Number of patients                                                                 | 8           | N                            |                              | %          |
-|                                                                                    | 393 100.00  |                              | 392 100.00                   | 392 100.00 |
-| Number of patients with at least one adverse event categorized as leading to death | 42 10.69    | 36                           | 9.18                         | 25 6.38    |
-| Respiratory                                                                        | 25 6.36     | 23                           | 5.87                         | 16 4.08 13 |
-| underlying interstitial lung disease                                               | 18 4.58     | 17                           | 4.34                         | 3.32       |
-| Pneumonia                                                                          | 5 1.27      | 6                            | 1.53                         | 3 0.77     |
-| other respiratory causes                                                           | 2 0.51      | 0                            | 0.00                         | 0 0.00     |
-| Cardiovascular (fatal MACE)                                                        | 6 1.53      | 6                            | 1.53                         | 3 0.77     |
-| Sudden cardiac death                                                               | 6 1.53      | 4                            | 1.02                         | 3 0.77     |
-| Acute myocardial infarction                                                        | 0 0.00      | 1                            | 0.26                         | 0 0.00     |
-| Hemorrhâgic stroke                                                                 | 0 0.00      | 1 0.26                       |                              | 0 0.00     |
-| Undetermined                                                                       | 5 5 1.27    | 5 5 1.28                     |                              | 3 0.77     |
-| Undetermined                                                                       | 1.27        |                              | 1.28                         | 3 0.77     |
-| Non-cardiovascular/non-respiratory                                                 | 6 1.53      | 2 0.51                       |                              | 3 0.77     |
-| Malignancy(new or worsening)                                                       | 5 1.27      | 1                            | 0.26                         | 2 0.51     |
-| Infečtion (including sepsis)                                                       | 1 0.25      |                              | 0 0.00                       | 1 0.26     |
-| suicide                                                                            | 0 0.00      | 1                            | 0.26                         | 0 0.00     |
+| Adjudicated cause of death/ Specific cause of death                                | Placebo N 8   | Nera 9mg N %   |   bid Nera 18mg N | bid        |
+|------------------------------------------------------------------------------------|---------------|----------------|-------------------|------------|
+| Number of patients                                                                 | 393 100.00    | 392 100.00     |                   | 392 100.00 |
+| Number of patients with at least one adverse event categorized as leading to death | 42 10.69      | 36 9.18        |                25 | 6.38       |
+| Respiratory                                                                        | 25 6.36       | 23 5.87        |                16 | 4.08       |
+| underlying interstitial lung disease                                               | 18 4.58       | 17 4.34        |                13 | 3.32       |
+| Pneumonia                                                                          | 5 1.27        | 6 1.53         |                 3 | 0.77       |
+| other respiratory causes                                                           | 2 0.51        | 0 0.00         |                 0 | 0.00       |
+| Cardiovascular (fatal MACE)                                                        | 6 1.53        | 6 1.53         |                 3 | 0.77       |
+| Sudden cardiac death                                                               | 6 1.53        | 4 1.02         |                 3 | 0.77       |
+| Acute myocardial infarction                                                        | 0 0.00        | 1 0.26         |                 0 | 0.00       |
+| Hemorrhâgic stroke                                                                 | 0 0.00        | 1 0.26         |                 0 | 0.00       |
+| Undetermined                                                                       | 1.27          | 1.28           |                 3 | 0.77       |
+| Undetermined                                                                       | 5 5 1.27      | 5 5 1.28       |                 3 | 0.77       |
+| Non-cardiovascular/non-respiratory                                                 | 6 1.53        | 2 0.51         |                 3 | 0.77       |
+| Malignancy(new or worsening)                                                       | 5 1.27        | 1 0.26         |                 2 | 0.51       |
+| Infečtion (including sepsis)                                                       | 1 0.25        | 0 0.00         |                 1 | 0.26       |
+| suicide                                                                            | 0 0.00        | 1 0.26         |                 0 | 0.00       |
 
 ## On-treatment AEs leading to death PPF trial 1305-0023
 
@@ -8009,7 +8004,7 @@ For pooled trials 1305-0014 and 1305-0023, similar trends for AEs leading to tem
 
 ## IPF pivotal trial 1305-0014
 
-## Adverse events leading to permanent treatment discontinuation (IPF)
+Adverse events leading to permanent treatment discontinuation (IPF)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -8152,9 +8147,9 @@ Incidence rates were calculated using the number of patients with the respective
 
 ## IPF pivotal trial 1305-0014 subgroup analysis:
 
-## Sex (IPF)
+Sex (IPF)
 
-## Table 132 : Overall summary of AEs over the whole trial up to DBL2 by sex - TS (1305-0014)
+Table 132 : Overall summary of AEs over the whole trial up to DBL2 by sex - TS (1305-0014)
 
 | Category of AEs                       | Placebo   | Placebo   | Placebo     | Nera 9 mg bid   | Nera 9 mg bid   | Nera 9 mg bid   | Nera 18 mg bid   | Nera 18 mg bid   | Nera 18 mg bid   |
 |---------------------------------------|-----------|-----------|-------------|-----------------|-----------------|-----------------|------------------|------------------|------------------|
@@ -8644,7 +8639,7 @@ Table 147 : AEs over the whole trial up to DBL1 by underlying clinical ILD diagn
 
 | Category of AEs                                  | Placebo   | Placebo   | Placebo     | Nera 9 mg bid   | Nera 9 mg bid   | Nera 9 mg bid   | Nera 18 mg bid   | Nera 18 mg bid   | Nera 18 mg bid   |
 |--------------------------------------------------|-----------|-----------|-------------|-----------------|-----------------|-----------------|------------------|------------------|------------------|
-| Category of AEs                                  | N         | %         | Rate/ 100PY | N               | %               | Rate/ 100PY     | N                | %                | Rate/ 100PY      |
+|                                                  | N         | %         | Rate/ 100PY | N               | %               | Rate/ 100PY     | N                | %                | Rate/ 100PY      |
 | Idiopathic nonspecific interstitial pneumonia    | 73        | 100.0     |             | 73              | 100.0           |                 | 82               | 100.0            |                  |
 | Patients with any AE                             | 68        | 93.2      | 278.8       | 70              | 95.9            | 340.4           | 73               | 89.0             | 326.5            |
 | Severe AEs (CTCAE grade >2)                      | 25        | 34.3      | 30.5        | 27              | 37.0            | 36.2            | 27               | 32.9             | 32.3             |
@@ -8759,7 +8754,7 @@ An increased frequency of severe adverse events (AEs), investigator-assessed dru
 
 ## IPF:
 
-In the IPF population safety data from DBL2 adverse events were most frequently reported in the SOCs: 'infections and infestations', 'gastrointestinal disorders', and 'respiratory, thoracic, and mediastinal disorders'. Overall, AE frequencies were similar across placebo, nerandomilast 9 mg bid, and 18 mg bid groups (98.2%, 94.6%, and 96.7%, respectively), consistent with expectations for a progressive disease like idiopathic pulmonary fibrosis. The most common AEs were diarrhoea, cough, and COVID-19. Diarrh oea incidence increased with dose: 18.3% (placebo), 32.1% (9 mg), and 42.4% (18 mg). Other AEs such as weight loss, nausea, back pain, and decreased appetite also showed a dose-dependent trend. While overall AE, SAE, and severe AE rates were balanced, AEs leading to treatment interruption or discontinuation and drug-related AEs were most frequent in the 18 mg bid group. These effects were most frequently reported in patients receiving background treatment with nintedanib compared to those on pirfenidone or no background therapy.
+In the IPF population safety data from DBL2 adverse events were most frequently reported in the SOCs: 'infections and infestations', 'gastrointestinal disorders', and 'respiratory, thoracic, and mediastinal disorders'. Overall, AE frequencies were similar across placebo, nerandomilast 9 mg bid, and 18 mg bid groups (98.2%, 94.6%, and 96.7%, respectively), consistent with expectations for a progressive disease like idiopathic pulmonary fibrosis. The most common AEs were diarrhoea, cough, and COVID19. Diarrhoea incidence increased with dose: 18.3% (place bo), 32.1% (9 mg), and 42.4% (18 mg). Other AEs such as weight loss, nausea, back pain, and decreased appetite also showed a dose-dependent trend. While overall AE, SAE, and severe AE rates were balanced, AEs leading to treatment interruption or discontinuation and drug-related AEs were most frequent in the 18 mg bid group. These effects were most frequently reported in patients receiving background treatment with nintedanib compared to those on pirfenidone or no background therapy.
 
 ## PPF:
 
@@ -8905,7 +8900,7 @@ Vasculitis is a known finding for PDE4is (originating from non-clinical studies)
 
 Across the pooled SAF1/SAF1c dataset frequencies of severe depression and severe anxiety were broadly comparable across the treatment groups. These AESIs were reported in &lt;2% of subjects across all treatment groups. Reporting rates were comparable in the overall population compared to the non-pirfenidone population.
 
-There is a slight upward trend in suicidal ideation and behaviour rates with increasing dose of nerandomilast . There was an increase from 0.5% in the placebo group to 0.8% in the nerandomilast 18 mg bd group. Although numerically small, the point estimates suggest a numerical increase at the higher dose. This pattern could suggest a dose-response relationship. The prevalence of depression and anxiety are high in ILD patients compared to the general population. No statistically significant increase in suicidal ideation was observed with either nerandomilast dose, however the wide confidence intervals make it difficult to draw firm conclusions. Although 0.3% increase is small, this is potentially clinically relevant in the context of suicidal ideation.
+There is a slight upward trend in suicidal ideation and behaviour rates with increasing dose of nerandomilast. There was an increase from 0.5% in the placebo group to 0.8% in the nerandomilast 18 mg bd group. Although numerically small, the point estimates suggest a numerical increase at the higher dose. This pattern could suggest a dose-response relationship. The prevalence of depression and anxiety are high in ILD patients compared to the general population. No statistically significant increase in suicidal ideation was observed with either nerandomilast dose, however the wide confidence intervals make it difficult to draw firm conclusions. Although 0.3% increase is small, this is potentially clinically relevant in the context of suicidal ideation.
 
 Confounders in the form of event triggers and concomitant medications were reported in all cases except 1 patient (on nerandomilast 18 mg bid with nintedanib) in whom the AE was reported as related by the investigator. Six cases in the nerandomilast treated group (3 each in the 9 mg bd and 18 mg bd groups respectively) compared with 2 in the placebo group were reported as related to study medication by the investigator.
 
@@ -9013,7 +9008,7 @@ The description of selected adverse events clarifying any clinically meaningful 
 
 ## 5.4.10.2. Conclusions on clinical safety
 
-Based on the safety data presented, most AEs reported with nerandomilast treatment were expected and manageable, aligning with the known profile of PDE4 inhibitors. Overall, the safety profile of nerandomilast is largely similar in IPF and PPF, although differences were observed in mortality and in the drivers of fatal AEs, as well as the frequency of diarrhoea AEs and treatment discontinuation due to diarrhoea. Both pivotal trials in IPF and PPF respectively demonstrated a consistent, dosedependent increase in gastrointestinal AEs, particularly diarrhoea, with nerandomilast treatment. The nerandomilast 18 mg bid dose was associated with the highest incidence of diarrhoea and treatment -limiting AEs, especially when combined with background treatment with nintedanib.
+Based on the safety data presented, most AEs reported with nerandomilast treatment were expected and manageable, aligning with the known profile of PDE4 inhibitors. Overall, the safety profile of nerandomilast is largely similar in IPF and PPF, although differences were observed in mortality and in the drivers of fatal AEs, as well as the frequency of diarrhoea AEs and treatment discontinuation due to diarrhoea. Both pivotal trials in IPF and PPF respectively demonstrated a consistent, dosedependent increase in gastrointestinal AEs, particularly diarrhoea, with nerandomilast treatment. The nerandomilast 18 mg bid dose was associated with the highest incidence of diarrhoea and treatmentlimiting AEs, especially when combined with background treatment with nintedanib.
 
 IPF and PPF are distinct clinical entities with different aetiologies, comorbidities and treatments, in this context, the proposed ADRs have been presented separately for IPF and PPF and by background treatment in section 4.8 of the SmPC.
 
@@ -9212,7 +9207,7 @@ Patients in the IPF and PPF pivotal trials were allowed to remain on their backg
 
 ## IPF indication
 
-The primary endpoint measuring the absolute change from baseline in FVC [mL] at Week 52 was met. Treatment with nerandomilast 9 mg and 18 mg bid resulted in a statistically significant decrease in the rate of FVC decline compared to placebo. The adjusted mean (95% CI) change from baseline in FVC [mL] at Week 52 was -183.5 (-210.9, -156.1) in the placebo group, -138.6 (-165.6, -111.6) in  the  9  mg  bid nerandomilast group, and -114.7 (-141.8, -87.5) in the 18 mg bid nerandomilast group. The adjusted mean difference (95% CI, p -value) in FVC [mL] change from baseline at Week 52 between 9 mg bid nerandomilast and placebo groups was 44.9 (6.4, 83.3, p = 0.0222) and between 18 mg bid nerandomilast and placebo groups was 68.8 (30.3, 107.4, p = 0.0005).
+The primary endpoint measuring the absolute change from baseline in FVC [mL] at Week 52 was met. Treatment with nerandomilast 9 mg and 18 mg bid resulted in a statistically significant decrease in the rate of FVC decline compared to placebo. The adjusted mean (95% CI) change from baseline in FVC [mL] at Week 52 was -183.5 (-210.9, -156.1) in the placebo group, -138.6 (-165.6, -111.6)  in  the  9  mg  bid nerandomilast group, and -114.7 (-141.8, -87.5) in the 18 mg bid nerandomilast group. The adjusted mean difference (95% CI, p -value) in FVC [mL] change from baseline at Week 52 between 9 mg bid nerandomilast and placebo groups was 44.9 (6.4, 83.3, p = 0.0222) and between 18 mg bid nerandomilast and placebo groups was 68.8 (30.3, 107.4, p = 0.0005).
 
 The primary endpoint results were supported by other endpoints investigating the effect on FVC. The change from baseline in FVC % predicted at week 52, demonstrated similar efficacy as the primary endpoint. The adjusted mean difference (95% CI) in FVC % predicted change from baseline at Week 52 between 9 mg bid nerandomilast and placebo groups was 1.2 % (0.1 % , 2.2 % ) and between 18 mg bid nerandomilast and placebo groups was 1.7 % (0.7 % , 2.8 % ).  Further supporting evidence for efficacy of nerandomilast came from the DLCO related endpoints. The adjusted mean difference (95% CI) in DLCO % predicted (corrected for haemoglobin) change from baseline at Week 52 between 9 mg bid nerandomilast and placebo groups was 2.5 % (0.8 % , 4.2 % ) and between 18 mg bid nerandomilast and placebo groups was 1.7 % (0.0 % , 3.4 % ).
 
@@ -9245,9 +9240,9 @@ In subgroups by AF background treatment, a numerical reduction in mortality was 
 
 ## PPF indication
 
-The primary endpoint measuring the absolute change from baseline in FVC [mL] at Week 52 was met. Both nerandomilast doses of 9 mg and 18 mg bid showed statistically significant FVC change [mL] improvement compared to placebo for the primary endpoint. The adjusted mean decline in patients receiving 18 mg or 9 mg nerandomilast twice daily was -99 mL and -85 mL, respectively, whereas in the placebo group, an adjusted mean decline of -166 mL was observed. The difference to placebo in the adjusted mean (95% CI, p-value) change from baseline at Week 52 in FVC [mL] was 81.1 (46.0, 116.3, p&lt;0.0001) in the nerandomilast 9 mg bid group and 67.2 (31.9, 102.5, p = 0.0002) in the nerandomilast 18 mg bid group.
+The primary endpoint measuring the absolute change from baseline in FVC [mL] at Week 52 was met. Both nerandomilast doses of 9 mg and 18 mg bid showed statistically significant FVC change [mL] improvement compared to placebo for the primary endpoint. The adjusted mean decline in patients receiving 18 mg or 9 mg nerandomilast twice daily was -99 mL and -85 mL, respectively, whereas in the placebo group, an adjusted mean decline of -166 mL was observed. The difference to placebo in the adjusted mean (95% CI, p -value) change from baseline at Week 52 in FVC [mL] was 81.1 (46.0, 116.3, p&lt;0.0001) in the nerandomilast 9 mg bid group and 67.2 (31.9, 102.5, p = 0.0002) in the nerandomilast 18 mg bid group.
 
-The primary endpoint results were supported by other endpoints investigating the effect on FVC. The adjusted mean difference (95% CI) in FVC % predicted change from baseline at Week 52 between 9 mg bid nerandomilast and placebo groups was 2.19 % (1.15 % , 3.23 % ) and between 18 mg bid nerandomilast and placebo groups was 1.94 % (0.90 % , 2.98 % ). At DBL1, the risk of acute ILD exacerbations or deaths was reduced by 41% for the 18 mg bid nerandomilast group vs. placebo (HR 0.59, 95% CI 0.41, 0.84). The risk of hospi talisations for respiratory cause or deaths was reduced by 25% for the 18 mg bid nerandomilast group vs. placebo (HR 0.75, 95% CI 0.56, 1.00).
+The primary endpoint results were supported by other endpoints investigating the effect on FVC. The adjusted mean difference (95% CI) in FVC % predicted change from baseline at Week 52 between 9 mg bid nerandomilast and placebo groups was 2.19 % (1.15 % , 3.23 % ) and between 18 mg bid nerandomilast and placebo groups was 1.94 % (0.90 % , 2.98 % ). At DBL1, the risk of acute ILD exacerbations or deaths was reduced by 41% for the 18 mg bid nerandomilast group vs. placebo (HR 0.59, 95% CI 0.41, 0.84). The risk of hospitalisations for respiratory cause or deaths was reduced by 25% for the 18 mg bid nerandomilast group vs. placebo (HR 0.75, 95% CI 0.56, 1.00).
 
 Over the duration of the trial up to DBL2, acute ILD exacerbations or deaths occurred in 24.7% of the patients in the placebo group, 17.8% in the 9 mg bid nerandomilast group, and 15.1% in the 18 mg bid nerandomilast group. Hospitalisations for respiratory cause or deaths over the duration of the trial up to DBL2 occurred in 33.4% of the patients in the placebo group, 26.2% in the 9 mg bid nerandomilast group, and 26.3% in the 18 mg bid nerandomilast group.
 
@@ -9335,11 +9330,11 @@ There was a numerically higher reporting rate of weight decrease AEs in the pivo
 
 <div style=\"page-break-after: always\"></div>
 
-Overall, for patients not receiving baseline antifibrotic therapy (Pool SAF1), a dose-dependent increase in the incidence of weight loss was observed across the placebo, nerandomilast 9 mg bid, and nerandomilast 18 mg bid treatment arms (6 .8%, 7.1 %, and 13.0 %, respectively). In patients on background antifibrotic therapy, 10.3 % vs 12.4% vs 13.5 % respectively reported weight decrease. In patients with IPF, weight decrease was most pronounced in patients treated with nintedanib plus nerandomilast 18 mg bid (1 3.3% vs 14.1% vs 16.9% respectively). In patients with PPF weight loss was comparable between patients on nerandomilast alone and on nerandomilast with nintedanib.
+Overall, for patients not receiving baseline antifibrotic therapy (Pool SAF1), a dose-dependent increase in the incidence of weight loss was observed across the placebo, nerandomilast 9 mg bid, and nerandomilast 18 mg bid treatment arms (6 .8%, 7.1 %, and 13.0 %, respectively). In patients on background antifibrotic therapy, 10.3 % vs 12.4% vs 13.5 % respectively reported weight decrease. In patients with IPF, weight decrease was most pronounced in patients treated with nintedanib plus nerandomilast 18 mg bid (13.3% vs 14.1% vs 16.9% respectively). In patients with PPF weight loss was comparable betw een patients on nerandomilast alone and on nerandomilast with nintedanib.
 
 Decreased appetite (PT) was reported most frequently in the 18 mg bid nerandomilast group (placebo: 7.5 %, 9 mg bid nerandomilast: 8.3 %, 18 mg bid nerandomilast: 9.7 % ; SAF1 pooled analysis).
 
-Other events:
+## Other events:
 
 Back pain was reported most frequently in the 18 mg bid nerandomilast group (placebo: 3.6 %, 9 mg bid nerandomilast: 5.2 % , 18 mg bid nerandomilast: 6.9 % (Pool SAF1).
 

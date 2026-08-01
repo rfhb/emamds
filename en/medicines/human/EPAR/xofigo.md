@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xofigo.html
 document_name: xofigo.html
 version: success
-processing_time: 0.1279854
-conversion_datetime: 2026-08-01 11:33:23.923937
+processing_time: 0.1287718
+conversion_datetime: 2026-08-01 11:50:51.553043
 docling_version:
   docling-serve: 1.29.0
   docling-jobkit: 3.2.0

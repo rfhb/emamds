@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-23 13:02:00
+document_datetime: 2026-07-29 09:51:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rxulti.html
 document_name: rxulti.html
 version: success
-processing_time: 0.109465
-conversion_datetime: 2026-03-25 12:32:32.171976
+processing_time: 0.149963
+conversion_datetime: 2026-08-01 11:34:09.028872
 docling_version:
-  docling-serve: 1.15.0
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.1
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Rxulti
 
@@ -55,7 +55,7 @@ Expand section
 
 Collapse section
 
-## How is Rxulti used?
+### How is Rxulti used?
 
 Rxulti is available as tablets to be taken by mouth once a day. The recommended starting dose depends on the age of the patient; the dose is then progressively increased based on the patient's response and how well treatment is tolerated. In patients with kidney or liver problems and in those taking certain other medicines, the doctor may need to adjust the dose of Rxulti.
 
@@ -63,11 +63,11 @@ Rxulti can only be obtained with a prescription.
 
 For more information about using Rxulti, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Rxulti work?
+### How does Rxulti work?
 
 The active substance in Rxulti, brexpiprazole, is thought to attach to receptors (targets) in the brain for several neurotransmitters (substances nerve cells use to communicate with neighbouring cells) including dopamine, serotonin and noradrenaline. These neurotransmitters play a role in schizophrenia, and by acting at their receptors, brexpiprazole helps normalise the activity of the brain and reduce symptoms of schizophrenia.
 
-## What benefits of Rxulti have been shown in studies?
+### What benefits of Rxulti have been shown in studies?
 
 In adults, Rxulti has been shown to be effective at reducing symptoms of schizophrenia in 5 main studies involving 2,404 patients with schizophrenia, although there were some inconsistent results.
 
@@ -87,23 +87,23 @@ In adolescents, Rxulti was found to be effective at reducing symptoms of schizop
 
 Another ongoing long-term study showed an overall decrease of PANSS score in patients taking Rxulti, with the effect maintained for up to 24 months of treatment. Rxulti was not compared with placebo or another treatment in this study.
 
-## What are the risks associated with Rxulti?
+### What are the risks associated with Rxulti?
 
 For the full list of side effects and restrictions with Rxulti, see the package leaflet.
 
 The most common side effects with Rxulti in adults (which may affect up to 1 in 10 people) include akathisia (a constant urge to move) and weight gain; in adolescents, these include nausea (feeling sick), sleepiness and akathisia.
 
-## Why is Rxulti authorised in the EU?
+### Why is Rxulti authorised in the EU?
 
 Rxulti was shown to be effective at reducing symptoms of schizophrenia in adults and adolescents. Although the reductions in symptoms in adults were not consistent across the studies, this often occurs in studies with antipsychotic medicines and the European Medicines Agency considered that the effects observed were sufficient to conclude that Rxulti is beneficial to patients with schizophrenia. Although there was some uncertainty on the benefits of Rxulti in the short term in younger patients (below 15 years of age), its beneficial effect in this age group is supported by the long-term data and by the fact that the medicine was shown to behave in the body in the same way across age groups. The safety profile of Rxulti is manageable and similar among adults and adolescents, and in line with that of other antipsychotic medicines. The Agency therefore decided that Rxulti's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Rxulti?
+### What measures are being taken to ensure the safe and effective use of Rxulti?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Rxulti have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Rxulti are continuously monitored. Side effects reported with Rxulti are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Rxulti
+### Other information about Rxulti
 
 Rxulti received a marketing authorisation valid throughout the EU on 26 July 2018.
 
@@ -117,7 +117,7 @@ English (EN) (101.65 KB - PDF)
 
 [View](/en/documents/overview/rxulti-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-290)
+[Other languages (22)](#file-language-dropdown-232)
 
 български (BG) (142.82 KB - PDF)
 
@@ -149,7 +149,7 @@ Deutsch (DE) (120.07 KB - PDF)
 
 [View](/de/documents/overview/rxulti-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (113.86 KB - PDF)
+eesti (ET) (113.86 KB - PDF)
 
 **First published:** 26/11/2018 **Last updated:** 04/04/2025
 
@@ -179,13 +179,13 @@ italiano (IT) (114.73 KB - PDF)
 
 [View](/it/documents/overview/rxulti-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (136.17 KB - PDF)
+latviešu (LV) (136.17 KB - PDF)
 
 **First published:** 26/11/2018 **Last updated:** 04/04/2025
 
 [View](/lv/documents/overview/rxulti-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (140.27 KB - PDF)
+lietuvių (LT) (140.27 KB - PDF)
 
 **First published:** 26/11/2018 **Last updated:** 04/04/2025
 
@@ -239,7 +239,7 @@ slovenščina (SL) (137.61 KB - PDF)
 
 [View](/sl/documents/overview/rxulti-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (114.3 KB - PDF)
+suomi (FI) (114.3 KB - PDF)
 
 **First published:** 26/11/2018 **Last updated:** 04/04/2025
 
@@ -253,9 +253,9 @@ svenska (SV) (114.53 KB - PDF)
 
 Rxulti : EPAR - Risk management plan
 
-English (EN) (10.49 MB - PDF)
+English (EN) (8.65 MB - PDF)
 
-**First published:** 14/06/2023 **Last updated:** 04/04/2025
+**First published:** 14/06/2023 **Last updated:** 29/07/2026
 
 [View](/en/documents/rmp/rxulti-epar-risk-management-plan_en.pdf)
 
@@ -269,7 +269,7 @@ English (EN) (519.88 KB - PDF)
 
 [View](/en/documents/product-information/rxulti-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-915)
+[Other languages (24)](#file-language-dropdown-373)
 
 български (BG) (584.34 KB - PDF)
 
@@ -301,7 +301,7 @@ Deutsch (DE) (527.11 KB - PDF)
 
 [View](/de/documents/product-information/rxulti-epar-product-information_de.pdf)
 
-eesti keel (ET) (522.86 KB - PDF)
+eesti (ET) (522.86 KB - PDF)
 
 **First published:** 26/11/2018 **Last updated:** 12/03/2026
 
@@ -325,25 +325,19 @@ hrvatski (HR) (553.3 KB - PDF)
 
 [View](/hr/documents/product-information/rxulti-epar-product-information_hr.pdf)
 
-íslenska (IS) (521.7 KB - PDF)
-
-**First published:** 26/11/2018 **Last updated:** 12/03/2026
-
-[View](/is/documents/product-information/rxulti-epar-product-information_is.pdf)
-
 italiano (IT) (578.7 KB - PDF)
 
 **First published:** 26/11/2018 **Last updated:** 12/03/2026
 
 [View](/it/documents/product-information/rxulti-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (582.57 KB - PDF)
+latviešu (LV) (582.57 KB - PDF)
 
 **First published:** 26/11/2018 **Last updated:** 12/03/2026
 
 [View](/lv/documents/product-information/rxulti-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (572.09 KB - PDF)
+lietuvių (LT) (572.09 KB - PDF)
 
 **First published:** 26/11/2018 **Last updated:** 12/03/2026
 
@@ -366,12 +360,6 @@ Nederlands (NL) (573.59 KB - PDF)
 **First published:** 26/11/2018 **Last updated:** 12/03/2026
 
 [View](/nl/documents/product-information/rxulti-epar-product-information_nl.pdf)
-
-norsk (NO) (546.59 KB - PDF)
-
-**First published:** 26/11/2018 **Last updated:** 12/03/2026
-
-[View](/no/documents/product-information/rxulti-epar-product-information_no.pdf)
 
 polski (PL) (623.1 KB - PDF)
 
@@ -403,7 +391,7 @@ slovenščina (SL) (567.02 KB - PDF)
 
 [View](/sl/documents/product-information/rxulti-epar-product-information_sl.pdf)
 
-Suomi (FI) (503.92 KB - PDF)
+suomi (FI) (503.92 KB - PDF)
 
 **First published:** 26/11/2018 **Last updated:** 12/03/2026
 
@@ -415,15 +403,28 @@ svenska (SV) (519.68 KB - PDF)
 
 [View](/sv/documents/product-information/rxulti-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000307490
+Íslenska (IS) (521.7 KB - PDF)
 
-15/01/2025
+**First published:** 26/11/2018 **Last updated:** 12/03/2026
+
+[View](/is/documents/product-information/rxulti-epar-product-information_is.pdf)
+
+norsk (NO) (546.59 KB - PDF)
+
+**First published:** 26/11/2018 **Last updated:** 12/03/2026
+
+[View](/no/documents/product-information/rxulti-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000340645
+
+09/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -441,7 +442,7 @@ English (EN) (19.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rxulti-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-815)
+[Other languages (24)](#file-language-dropdown-139)
 
 български (BG) (42.94 KB - PDF)
 
@@ -473,7 +474,7 @@ Deutsch (DE) (17.92 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/rxulti-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (17.66 KB - PDF)
+eesti (ET) (17.66 KB - PDF)
 
 **First published:** 26/11/2018 **Last updated:** 01/12/2021
 
@@ -497,25 +498,19 @@ hrvatski (HR) (41.49 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/rxulti-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (18 KB - PDF)
-
-**First published:** 26/11/2018 **Last updated:** 01/12/2021
-
-[View](/is/documents/all-authorised-presentations/rxulti-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (18.07 KB - PDF)
 
 **First published:** 26/11/2018 **Last updated:** 01/12/2021
 
 [View](/it/documents/all-authorised-presentations/rxulti-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (42.06 KB - PDF)
+latviešu (LV) (42.06 KB - PDF)
 
 **First published:** 26/11/2018 **Last updated:** 01/12/2021
 
 [View](/lv/documents/all-authorised-presentations/rxulti-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (41.33 KB - PDF)
+lietuvių (LT) (41.33 KB - PDF)
 
 **First published:** 26/11/2018 **Last updated:** 01/12/2021
 
@@ -538,12 +533,6 @@ Nederlands (NL) (17.97 KB - PDF)
 **First published:** 26/11/2018 **Last updated:** 01/12/2021
 
 [View](/nl/documents/all-authorised-presentations/rxulti-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (17.89 KB - PDF)
-
-**First published:** 26/11/2018 **Last updated:** 01/12/2021
-
-[View](/no/documents/all-authorised-presentations/rxulti-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (28.26 KB - PDF)
 
@@ -575,7 +564,7 @@ slovenščina (SL) (39.33 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/rxulti-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (18.33 KB - PDF)
+suomi (FI) (18.33 KB - PDF)
 
 **First published:** 26/11/2018 **Last updated:** 01/12/2021
 
@@ -587,27 +576,30 @@ svenska (SV) (17.72 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/rxulti-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (18 KB - PDF)
+
+**First published:** 26/11/2018 **Last updated:** 01/12/2021
+
+[View](/is/documents/all-authorised-presentations/rxulti-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (17.89 KB - PDF)
+
+**First published:** 26/11/2018 **Last updated:** 01/12/2021
+
+[View](/no/documents/all-authorised-presentations/rxulti-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Rxulti
-
-Active substance
-
-brexpiprazole
-
-International non-proprietary name (INN) or common name
-
-brexpiprazole
-
-Therapeutic area (MeSH)
-
-Schizophrenia
-
-Anatomical therapeutic chemical (ATC) code
-
-N05AX16
+- **Name of medicine**
+    - Rxulti
+- **Active substance**
+    - brexpiprazole
+- **International non-proprietary name (INN) or common name**
+    - brexpiprazole
+- **Therapeutic area (MeSH)**
+    - Schizophrenia
+- **Anatomical therapeutic chemical (ATC) code**
+    - N05AX16
 
 ### Pharmacotherapeutic group
 
@@ -619,27 +611,16 @@ Rxulti is indicated for the treatment of schizophrenia in adult and adolescents 
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/003841
-
-Marketing authorisation holder
-
-Otsuka Pharmaceutical Netherlands B.V.
-
-Herikerbergweg 292 1101 CT Amsterdam Netherlands
-
-Opinion adopted
-
-30/05/2018
-
-Marketing authorisation issued
-
-26/07/2018
-
-Revision
-
-9
+- **EMA product number**
+    - EMEA/H/C/003841
+- **Marketing authorisation holder**
+    - Otsuka Pharmaceutical Netherlands B.V. Herikerbergweg 292  1101 CT Amsterdam  Netherlands
+- **Opinion adopted**
+    - 30/05/2018
+- **Marketing authorisation issued**
+    - 26/07/2018
+- **Revision**
+    - 10
 
 ## Assessment history
 
@@ -647,13 +628,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Rxulti : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (148.87 KB - PDF)
+English (EN) (131.93 KB - PDF)
 
-**First published:** 12/03/2026 **Last updated:** 23/03/2026
+**First published:** 12/03/2026 **Last updated:** 29/07/2026
 
 [View](/en/documents/procedural-steps-after/rxulti-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -725,7 +706,7 @@ English (EN) (1.15 MB - PDF)
 
 [View](/en/documents/variation-report/rxulti-h-c-003841-p46-002-003-epar-assessment-report_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Rxulti : EPAR - Public assessment report
 
@@ -767,6 +748,6 @@ English (EN) (102.37 KB - PDF)
 
 **This page was last updated on**
 
-23/03/2026
+29/07/2026
 
 ## Share this page

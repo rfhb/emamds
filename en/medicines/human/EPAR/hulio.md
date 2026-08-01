@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-02-19 10:10:00
+document_datetime: 2026-07-30 09:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hulio.html
 document_name: hulio.html
 version: success
-processing_time: 0.106426
-conversion_datetime: 2026-02-21 12:49:07.920969
+processing_time: 0.1196567
+conversion_datetime: 2026-08-01 11:37:10.109915
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Hulio
 
 [RSS](/en/individual-human-medicine.xml/67118)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-adalimumab Medicine Human Authorised
+adalimumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -37,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Hulio](#news-on)
 - [Related content](#related-content-869)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -65,7 +66,7 @@ Expand section
 
 Collapse section
 
-## How is Hulio used?
+### How is Hulio used?
 
 Hulio is available as a solution for injection under the skin in a vial or pre-filled syringe or pen and is usually given every 2 weeks. The dose and frequency of injection depends on the condition to be treated and the dose for a child is usually calculated according to the child's weight. After training, patients or their carers may inject Hulio if their doctor considers it appropriate.
 
@@ -73,11 +74,11 @@ Hulio can only be obtained with a prescription and treatment must be started and
 
 For more information about using Hulio, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Hulio work?
+### How does Hulio work?
 
 The active substance in Hulio, adalimumab, is a monoclonal antibody (a type of protein) that has been designed to recognise and attach to a substance in the body called tumour necrosis factor (TNF). TNF is involved in causing inflammation and is found at high levels in patients with the diseases that Hulio is used to treat. By attaching to TNF, adalimumab blocks its activity, thereby reducing inflammation and other symptoms of the diseases.
 
-## What benefits of Hulio have been shown in studies?
+### What benefits of Hulio have been shown in studies?
 
 Laboratory studies comparing Hulio with the reference medicine Humira have shown that the active substance in Hulio is highly similar to that in Humira in terms of structure, purity and biological activity. Studies have also shown that giving Hulio produces similar levels of the active substance in the body to giving Humira.
 
@@ -85,7 +86,7 @@ In addition, Hulio was as effective as Humira in a study involving 730 patients 
 
 Because Hulio is a biosimilar medicine, the studies on effectiveness and safety of adalimumab carried out with Humira do not all need to be repeated for Hulio.
 
-## What are the risks associated with Hulio?
+### What are the risks associated with Hulio?
 
 The most common side effects with adalimumab (seen in more than 1 patient in 10) are infections (including in the nose, throat and sinuses), injection site reactions (redness, itching, bleeding, pain or swelling), headache and muscle and bone pain.
 
@@ -97,13 +98,13 @@ Hulio must not be used in patients with active tuberculosis or other severe infe
 
 For the full list of side effects and restrictions with Hulio, see the package leaflet.
 
-## Why is Hulio authorised in the EU?
+### Why is Hulio authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Hulio has a highly similar structure, purity and biological activity to Humira and is distributed in the body in the same way.
 
 In addition, a study in patients with rheumatoid arthritis has shown that the effects of the medicine are equivalent to those of Humira in this condition. All these data were considered sufficient to conclude that Hulio will behave in the same way as Humira in terms of effectiveness and safety in its approved uses. Therefore, the Agency's view was that, as for Humira, the benefit of Hulio outweighs the identified risk and it can be authorised.
 
-## What measures are being taken to ensure the safe and effective use of Hulio?
+### What measures are being taken to ensure the safe and effective use of Hulio?
 
 The company that markets Hulio must provide educational packs for doctors who prescribe the medicine. These packs will include information on the safety of the medicine. An alert card will also be given to patients.
 
@@ -111,7 +112,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Hulio are continuously monitored. Side effects reported with Hulio are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Hulio
+### Other information about Hulio
 
 Hulio received a marketing authorisation valid throughout the EU on 17 September 2018.
 
@@ -121,275 +122,141 @@ Reference Number: EMA/518630/2018
 
 English (EN) (83.04 KB - PDF)
 
-**First published:** 21/09/2018
-
-**Last updated:** 21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/en/documents/overview/hulio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-743)
+[Other languages (22)](#file-language-dropdown-366)
 
 български (BG) (117.84 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/bg/documents/overview/hulio-epar-medicine-overview_bg.pdf)
 
 español (ES) (84.26 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/es/documents/overview/hulio-epar-medicine-overview_es.pdf)
 
 čeština (CS) (109.8 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/cs/documents/overview/hulio-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (82.85 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/da/documents/overview/hulio-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (85.45 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/de/documents/overview/hulio-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (82.01 KB - PDF)
+eesti (ET) (82.01 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/et/documents/overview/hulio-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (118.74 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/el/documents/overview/hulio-epar-medicine-overview_el.pdf)
 
 français (FR) (85.3 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/fr/documents/overview/hulio-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (104.51 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/hr/documents/overview/hulio-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (82.94 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/it/documents/overview/hulio-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (106.99 KB - PDF)
+latviešu (LV) (106.99 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/lv/documents/overview/hulio-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (108.14 KB - PDF)
+lietuvių (LT) (108.14 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/lt/documents/overview/hulio-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (102.32 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/hu/documents/overview/hulio-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (110.06 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/mt/documents/overview/hulio-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (83.69 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/nl/documents/overview/hulio-epar-medicine-overview_nl.pdf)
 
 polski (PL) (109.35 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/pl/documents/overview/hulio-epar-medicine-overview_pl.pdf)
 
 português (PT) (83.75 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/pt/documents/overview/hulio-epar-medicine-overview_pt.pdf)
 
 română (RO) (106.25 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/ro/documents/overview/hulio-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (110.31 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/sk/documents/overview/hulio-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (103.88 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/sl/documents/overview/hulio-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (82.56 KB - PDF)
+suomi (FI) (82.56 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/fi/documents/overview/hulio-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (83.1 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/sv/documents/overview/hulio-epar-medicine-overview_sv.pdf)
 
@@ -397,9 +264,7 @@ Hulio : EPAR - Risk-management-plan summary
 
 English (EN) (191.2 KB - PDF)
 
-**First published:** 21/09/2018
-
-**Last updated:** 05/08/2022
+**First published:** 21/09/2018 **Last updated:** 05/08/2022
 
 [View](/en/documents/rmp-summary/hulio-epar-risk-management-plan-summary_en.pdf)
 
@@ -407,311 +272,168 @@ English (EN) (191.2 KB - PDF)
 
 Hulio : EPAR - Product Information
 
-English (EN) (3.7 MB - PDF)
+English (EN) (3.93 MB - PDF)
 
-**First published:** 21/09/2018
-
-**Last updated:** 19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/en/documents/product-information/hulio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-332)
+[Other languages (24)](#file-language-dropdown-604)
 
-български (BG) (3.92 MB - PDF)
+български (BG) (4.1 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/bg/documents/product-information/hulio-epar-product-information_bg.pdf)
 
-español (ES) (3.69 MB - PDF)
+español (ES) (3.92 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/es/documents/product-information/hulio-epar-product-information_es.pdf)
 
-čeština (CS) (3.93 MB - PDF)
+čeština (CS) (4.15 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/cs/documents/product-information/hulio-epar-product-information_cs.pdf)
 
-dansk (DA) (3.23 MB - PDF)
+dansk (DA) (3.47 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/da/documents/product-information/hulio-epar-product-information_da.pdf)
 
-Deutsch (DE) (3.93 MB - PDF)
+Deutsch (DE) (4.17 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/de/documents/product-information/hulio-epar-product-information_de.pdf)
 
-eesti keel (ET) (3.31 MB - PDF)
+eesti (ET) (3.58 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/et/documents/product-information/hulio-epar-product-information_et.pdf)
 
-ελληνικά (EL) (4.02 MB - PDF)
+ελληνικά (EL) (4.25 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/el/documents/product-information/hulio-epar-product-information_el.pdf)
 
-français (FR) (3.48 MB - PDF)
+français (FR) (3.72 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/fr/documents/product-information/hulio-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.16 MB - PDF)
+hrvatski (HR) (3.4 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/hr/documents/product-information/hulio-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.96 MB - PDF)
+italiano (IT) (3.2 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
-
-[View](/is/documents/product-information/hulio-epar-product-information_is.pdf)
-
-italiano (IT) (2.97 MB - PDF)
-
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/it/documents/product-information/hulio-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (3.2 MB - PDF)
+latviešu (LV) (3.42 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/lv/documents/product-information/hulio-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (3.14 MB - PDF)
+lietuvių (LT) (3.38 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/lt/documents/product-information/hulio-epar-product-information_lt.pdf)
 
-magyar (HU) (3.6 MB - PDF)
+magyar (HU) (3.83 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/hu/documents/product-information/hulio-epar-product-information_hu.pdf)
 
-Malti (MT) (3.69 MB - PDF)
+Malti (MT) (3.95 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/mt/documents/product-information/hulio-epar-product-information_mt.pdf)
 
-Nederlands (NL) (3.71 MB - PDF)
+Nederlands (NL) (3.94 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/nl/documents/product-information/hulio-epar-product-information_nl.pdf)
 
-norsk (NO) (3.24 MB - PDF)
+polski (PL) (3.71 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
-
-[View](/no/documents/product-information/hulio-epar-product-information_no.pdf)
-
-polski (PL) (3.48 MB - PDF)
-
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/pl/documents/product-information/hulio-epar-product-information_pl.pdf)
 
-português (PT) (3.3 MB - PDF)
+português (PT) (3.55 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/pt/documents/product-information/hulio-epar-product-information_pt.pdf)
 
-română (RO) (3.85 MB - PDF)
+română (RO) (4.07 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/ro/documents/product-information/hulio-epar-product-information_ro.pdf)
 
-slovenčina (SK) (3.66 MB - PDF)
+slovenčina (SK) (3.89 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/sk/documents/product-information/hulio-epar-product-information_sk.pdf)
 
-slovenščina (SL) (3.61 MB - PDF)
+slovenščina (SL) (3.84 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/sl/documents/product-information/hulio-epar-product-information_sl.pdf)
 
-Suomi (FI) (3.38 MB - PDF)
+suomi (FI) (3.62 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/fi/documents/product-information/hulio-epar-product-information_fi.pdf)
 
-svenska (SV) (3.25 MB - PDF)
+svenska (SV) (3.49 MB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-19/02/2026
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
 
 [View](/sv/documents/product-information/hulio-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000326205 17/02/2026
+Íslenska (IS) (3.18 MB - PDF)
+
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
+
+[View](/is/documents/product-information/hulio-epar-product-information_is.pdf)
+
+norsk (NO) (3.48 MB - PDF)
+
+**First published:** 21/09/2018 **Last updated:** 30/07/2026
+
+[View](/no/documents/product-information/hulio-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000357897
+
+28/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -725,316 +447,175 @@ Hulio : EPAR - All Authorised presentations
 
 English (EN) (17.41 KB - PDF)
 
-**First published:** 21/09/2018
-
-**Last updated:** 22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/en/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-813)
+[Other languages (24)](#file-language-dropdown-138)
 
 български (BG) (49.6 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/bg/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (34.37 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/es/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (55.37 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/cs/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (36.29 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/da/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (33.8 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/de/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (46.91 KB - PDF)
+eesti (ET) (46.91 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/et/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (45.24 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/el/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (33.63 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/fr/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (52.58 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/hr/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (22.33 KB - PDF)
-
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
-
-[View](/is/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (37.24 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/it/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (31.84 KB - PDF)
+latviešu (LV) (31.84 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/lv/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (32.63 KB - PDF)
+lietuvių (LT) (32.63 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/lt/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (59.56 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/hu/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (37.56 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/mt/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (33.3 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/nl/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (45.02 KB - PDF)
-
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
-
-[View](/no/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (42.77 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/pl/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (23.21 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/pt/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (58.61 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/ro/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (44.99 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/sk/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (53.81 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/sl/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (34.42 KB - PDF)
+suomi (FI) (34.42 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/fi/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (33.55 KB - PDF)
 
-**First published:**
-
-21/09/2018
-
-**Last updated:**
-
-22/09/2022
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
 
 [View](/sv/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (22.33 KB - PDF)
+
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
+
+[View](/is/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (45.02 KB - PDF)
+
+**First published:** 21/09/2018 **Last updated:** 22/09/2022
+
+[View](/no/documents/all-authorised-presentations/hulio-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Hulio Active substance adalimumab International non-proprietary name (INN) or common name adalimumab Therapeutic area (MeSH)
-
-- Hidradenitis Suppurativa
-- Psoriasis
-- Uveitis
-- Arthritis, Rheumatoid
-- Spondylitis, Ankylosing
-- Crohn Disease
-- Colitis, Ulcerative
-- Arthritis, Psoriatic
-
-Anatomical therapeutic chemical (ATC) code L04AB04
+- **Name of medicine**
+    - Hulio
+- **Active substance**
+    - adalimumab
+- **International non-proprietary name (INN) or common name**
+    - adalimumab
+- **Therapeutic area (MeSH)**
+        - Hidradenitis Suppurativa
+        - Psoriasis
+        - Uveitis
+        - Arthritis, Rheumatoid
+        - Spondylitis, Ankylosing
+        - Crohn Disease
+        - Colitis, Ulcerative
+        - Arthritis, Psoriatic
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AB04
 
 ### Pharmacotherapeutic group
 
@@ -1067,19 +648,16 @@ Hulio is indicated for the treatment of paediatric chronic non-infectious anteri
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004429
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Biosimilar Collaborations Ireland Limited
-
-Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13, D13 R20R Ireland
-
-Marketing authorisation issued 17/09/2018 Revision 19
+- **EMA product number**
+    - EMEA/H/C/004429
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade  Baldoyle Industrial Estate  Dublin 13, D13 R20R  Ireland
+- **Marketing authorisation issued**
+    - 17/09/2018
+- **Revision**
+    - 20
 
 ## Assessment history
 
@@ -1087,15 +665,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Hulio : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (147.67 KB - PDF)
+English (EN) (149.83 KB - PDF)
 
-**First published:** 09/04/2025
-
-**Last updated:** 19/02/2026
+**First published:** 09/04/2025 **Last updated:** 30/07/2026
 
 [View](/en/documents/procedural-steps-after/hulio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1103,57 +679,44 @@ Hulio : EPAR - Procedural steps taken and scientific information after authorisa
 
 English (EN) (153.73 KB - PDF)
 
-**First published:** 11/11/2019
-
-**Last updated:** 09/04/2025
+**First published:** 11/11/2019 **Last updated:** 09/04/2025
 
 [View](/en/documents/procedural-steps-after/hulio-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Hulio : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/541826/2018
+Adopted Reference Number: EMA/541826/2018
 
 English (EN) (4.5 MB - PDF)
 
-**First published:** 21/09/2018
-
-**Last updated:** 21/09/2018
+**First published:** 21/09/2018 **Last updated:** 21/09/2018
 
 [View](/en/documents/assessment-report/hulio-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Hulio
 
-Adopted
-
-Reference Number: EMA/CHMP/481798/2018
+Adopted Reference Number: EMA/CHMP/481798/2018
 
 English (EN) (97.6 KB - PDF)
 
-**First published:** 27/07/2018
-
-**Last updated:** 27/07/2018
+**First published:** 27/07/2018 **Last updated:** 27/07/2018
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-hulio_en.pdf)
 
-#### News on Hulio
+## News on Hulio
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018) 27/07/2018
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 July 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-july-2018)
 
-#### Related content
+27/07/2018
+
+## Related content
 
 - [Biosimilar medicines](/en/human-regulatory/overview/biosimilar-medicines)
 
-#### Topics
+**This page was last updated on**
 
-- [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
-**This page was last updated on** 19/02/2026
+30/07/2026
 
 ## Share this page
-
-[Back to top](#main-content)

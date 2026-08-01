@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rxulti.html
 document_name: rxulti.html
 version: success
-processing_time: 0.149963
-conversion_datetime: 2026-08-01 11:34:09.028872
+processing_time: 0.1268043
+conversion_datetime: 2026-08-01 11:51:38.04368
 docling_version:
   docling-serve: 1.29.0
   docling-jobkit: 3.2.0

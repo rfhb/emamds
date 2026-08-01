@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-26 10:06:54
+document_datetime: 2026-07-29 15:15:39
 document_pages: 95
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/xtandi-epar-product-information_en.pdf
 document_name: xtandi-epar-product-information_en.pdf
 version: success
-processing_time: 49.4659702
-conversion_datetime: 2026-03-29 12:35:44.95176
+processing_time: 52.3124768
+conversion_datetime: 2026-08-01 11:46:52.595321
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -221,11 +221,9 @@ Groups of medicinal products that can be affected include, but are not limited t
 - Statins metabolised by CYP3A4 (e.g. atorvastatin, simvastatin)
 - Thyroid agents (e.g. levothyroxine)
 
-The full induction potential of enzalutamide may not occur until approximately 1 month after the start of treatment, when steady-state plasma concentrations of enzalutamide are reached, although some induction effects may be apparent earlier. Patients taking medicinal products that are substrates of CYP2B6, CYP3A4, CYP2C9, CYP2C19 or UGT1A1 should be evaluated for possible loss of pharmacological effects (or increase in effects in cases where active metabolites are formed) during the first month of enzalutamide treatment and dose adjustment should be considered as appropriate. In consideration of the long half-life of enzalutamide (5.8 days, see section 5.2), effects on enzymes may
+The full induction potential of enzalutamide may not occur until approximately 1 month after the start of treatment, when steady-state plasma concentrations of enzalutamide are reached, although some induction effects may be apparent earlier. Patients taking medicinal products that are substrates of CYP2B6, CYP3A4, CYP2C9, CYP2C19 or UGT1A1 should be evaluated for possible loss of pharmacological effects (or increase in effects in cases where active metabolites are formed) during the first month of enzalutamide treatment and dose adjustment should be considered as appropriate. In consideration of the long half-life of enzalutamide (5.8 days, see section 5.2), effects on enzymes may persist for one month or longer after stopping enzalutamide. A gradual dose reduction of the concomitant medicinal product may be necessary when stopping enzalutamide treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-persist for one month or longer after stopping enzalutamide. A gradual dose reduction of the concomitant medicinal product may be necessary when stopping enzalutamide treatment.
 
 ## CYP1A2 and CYP2C8 substrates
 
@@ -510,11 +508,9 @@ Figure 6: Kaplan-Meier Curves of overall survival in the ARCHES study (intent-to
 
 MDV3100-14 (PROSPER) study (patients with non-metastatic CRPC)
 
-The PROSPER study enrolled 1401 patients with asymptomatic, high-risk non-metastatic CRPC who continued on androgen deprivation therapy (ADT; defined as LHRH analogue or prior bilateral
+The PROSPER study enrolled 1401 patients with asymptomatic, high-risk non-metastatic CRPC who continued on androgen deprivation therapy (ADT; defined as LHRH analogue or prior bilateral orchiectomy). Patients were required to have a PSA doubling time ≤ 10 months, PSA ≥ 2 ng/mL, and confirmation of non-metastatic disease by blinded independent central review (BICR).
 
 <div style=\"page-break-after: always\"></div>
-
-orchiectomy). Patients were required to have a PSA doubling time ≤ 10 months, PSA ≥ 2 ng/mL, and confirmation of non-metastatic disease by blinded independent central review (BICR).
 
 Patients with a history of mild to moderate heart failure (NYHA Class I or II), and patients taking medicinal products associated with lowering the seizure threshold were allowed. Patients were excluded with a previous history of seizure, a condition that might predispose them to seizure, or certain prior treatments for prostate cancer (i.e., chemotherapy, ketoconazole, abiraterone acetate, aminoglutethimide and/or enzalutamide).
 
@@ -587,11 +583,9 @@ Figure 9: Kaplan-Meier curves of time to first use of new antineoplastic therapy
 
 MDV3100-09 (STRIVE) study (chemotherapy-naïve patients with non-metastatic/metastatic CRPC)
 
-The STRIVE study enrolled 396 non-metastatic or metastatic CRPC patients who had serologic or radiographic disease progression despite primary androgen deprivation therapy who were randomised
+The STRIVE study enrolled 396 non-metastatic or metastatic CRPC patients who had serologic or radiographic disease progression despite primary androgen deprivation therapy who were randomised to receive either enzalutamide at a dose of 160 mg once daily (N = 198) or bicalutamide at a dose of 50 mg once daily (N = 198). PFS was the primary endpoint defined as the time from randomisation to the earliest objective evidence of radiographic progression, PSA progression, or death on study. Median PFS was 19.4 months (95% CI: 16.5, not reached) in the enzalutamide group versus 5.7 months (95% CI: 5.6, 8.1) in the bicalutamide group [HR = 0.24 (95% CI: 0.18, 0.32), p &lt; 0.0001]. Consistent benefit of enzalutamide over bicalutamide on PFS was observed in all pre-specified patient subgroups. For the non-metastatic subgroup (N = 139) a total of 19 out of 70 (27.1%) patients treated with enzalutamide and 49 out of 69 (71.0%) patients treated with bicalutamide had PFS events (68 total events). The hazard ratio was 0.24 (95% CI: 0.14, 0.42) and the median time to a PFS event was not reached in the enzalutamide group versus 8.6 months in the bicalutamide group (see Figure 10).
 
 <div style=\"page-break-after: always\"></div>
-
-to receive either enzalutamide at a dose of 160 mg once daily (N = 198) or bicalutamide at a dose of 50 mg once daily (N = 198). PFS was the primary endpoint defined as the time from randomisation to the earliest objective evidence of radiographic progression, PSA progression, or death on study. Median PFS was 19.4 months (95% CI: 16.5, not reached) in the enzalutamide group versus 5.7 months (95% CI: 5.6, 8.1) in the bicalutamide group [HR = 0.24 (95% CI: 0.18, 0.32), p &lt; 0.0001]. Consistent benefit of enzalutamide over bicalutamide on PFS was observed in all pre-specified patient subgroups. For the non-metastatic subgroup (N = 139) a total of 19 out of 70 (27.1%) patients treated with enzalutamide and 49 out of 69 (71.0%) patients treated with bicalutamide had PFS events (68 total events). The hazard ratio was 0.24 (95% CI: 0.14, 0.42) and the median time to a PFS event was not reached in the enzalutamide group versus 8.6 months in the bicalutamide group (see Figure 10).
 
 Figure 10: Kaplan-Meier Curves of progression-free survival in the STRIVE study (intent-to-treat analysis)
 
@@ -605,11 +599,9 @@ The TERRAIN study enrolled 375 chemo- and antiandrogen-therapy naïve patients w
 
 A total of 1717 asymptomatic or mildly symptomatic chemotherapy-naïve patients were randomised 1:1 to receive either enzalutamide orally at a dose of 160 mg once daily (N = 872) or placebo orally once daily (N = 845). Patients with visceral disease, patients with a history of mild to moderate heart failure (NYHA Class I or II), and patients taking medicinal products associated with lowering the seizure threshold were allowed. Patients with a previous history of seizure or a condition that might predispose to seizure and patients with moderate or severe pain from prostate cancer were excluded. Study treatment continued until disease progression (evidence of radiographic progression, a skeletal-related event, or clinical progression) and the initiation of either a cytotoxic chemotherapy or an investigational agent, or until unacceptable toxicity.
 
-Patient demographics and baseline disease characteristics were balanced between the treatment arms. The median age was 71 years (range 42 - 93) and the racial distribution was 77% Caucasian, 10% Asian, 2% Black and 11% other or unknown races. Sixty-eight percent (68%) of patients had an
+Patient demographics and baseline disease characteristics were balanced between the treatment arms. The median age was 71 years (range 42 - 93) and the racial distribution was 77% Caucasian, 10% Asian, 2% Black and 11% other or unknown races. Sixty-eight percent (68%) of patients had an ECOG performance status score of 0 and 32% patients had an ECOG performance status of 1. Baseline pain assessment was 0 - 1 (asymptomatic) in 67% of patients and 2 - 3 (mildly symptomatic) in 32% of patients as defined by the Brief Pain Inventory Short Form (worst pain over past 24 hours on a scale of 0 to 10). Approximately 45% of patients had measurable soft tissue disease at study entry, and 12% of patients had visceral (lung and/or liver) metastases.
 
 <div style=\"page-break-after: always\"></div>
-
-ECOG performance status score of 0 and 32% patients had an ECOG performance status of 1. Baseline pain assessment was 0 - 1 (asymptomatic) in 67% of patients and 2 - 3 (mildly symptomatic) in 32% of patients as defined by the Brief Pain Inventory Short Form (worst pain over past 24 hours on a scale of 0 to 10). Approximately 45% of patients had measurable soft tissue disease at study entry, and 12% of patients had visceral (lung and/or liver) metastases.
 
 Co-primary efficacy endpoints were overall survival and radiographic progression-free survival (rPFS). In addition to the co-primary endpoints, benefit was also assessed using time to initiation of cytotoxic chemotherapy, best overall soft tissue response, time to first skeletal-related event, PSA response (≥ 50% decrease from baseline), time to PSA progression, and time to FACT-P total score degradation.
 
@@ -655,11 +647,9 @@ Figure 12: 5-year overall survival analysis by subgroup: Hazard ratio and 95% co
 
 <!-- image -->
 
-At the pre-specified rPFS analysis, a statistically significant improvement was demonstrated between the treatment groups with an 81.4% reduction in risk of radiographic progression or death [HR = 0.19 (95% CI: 0.15, 0.23), p &lt; 0.0001]. One hundred and eighteen (14%) enzalutamide-treated patients and 321 (40%) of placebo-treated patients had an event. The median rPFS was not reached (95% CI: 13.8, not reached) in the enzalutamide-treated group and was 3.9 months (95% CI: 3.7, 5.4) in the placebo-treated group (Figure 13). Consistent rPFS benefit was observed across all pre-specified patient subgroups (e.g. age, baseline ECOG performance, baseline PSA and LDH, Gleason score at diagnosis, and visceral disease at screening). A pre-specified follow-up rPFS analysis based on the investigator assessment of radiographic progression demonstrated a statistically significant improvement between the treatment groups with a 69.3% reduction in risk of radiographic progression
+At the pre-specified rPFS analysis, a statistically significant improvement was demonstrated between the treatment groups with an 81.4% reduction in risk of radiographic progression or death [HR = 0.19 (95% CI: 0.15, 0.23), p &lt; 0.0001]. One hundred and eighteen (14%) enzalutamide-treated patients and 321 (40%) of placebo-treated patients had an event. The median rPFS was not reached (95% CI: 13.8, not reached) in the enzalutamide-treated group and was 3.9 months (95% CI: 3.7, 5.4) in the placebo-treated group (Figure 13). Consistent rPFS benefit was observed across all pre-specified patient subgroups (e.g. age, baseline ECOG performance, baseline PSA and LDH, Gleason score at diagnosis, and visceral disease at screening). A pre-specified follow-up rPFS analysis based on the investigator assessment of radiographic progression demonstrated a statistically significant improvement between the treatment groups with a 69.3% reduction in risk of radiographic progression or death [HR = 0.31 (95% CI: 0.27, 0.35), p &lt; 0.0001]. The median rPFS was 19.7 months in the enzalutamide group and 5.4 months in the placebo group.
 
 <div style=\"page-break-after: always\"></div>
-
-or death [HR = 0.31 (95% CI: 0.27, 0.35), p &lt; 0.0001]. The median rPFS was 19.7 months in the enzalutamide group and 5.4 months in the placebo group.
 
 <!-- image -->
 
@@ -708,41 +698,39 @@ Table 6: Overall survival of patients treated with either enzalutamide or placeb
 
 Figure 14: Kaplan-Meier curves of overall survival in the AFFIRM study (intent-to-treat analysis)
 
-| Subgroup                                   | NumberofPatients Enzalutamide/Placebo   | NumberofPatients Enzalutamide/Placebo   | HazardRatioforDeath (95%C)   | Overall Survival Median(mo) Enzalutamide/Placebo   |
-|--------------------------------------------|-----------------------------------------|-----------------------------------------|------------------------------|----------------------------------------------------|
-| AllPatients                                | 800/399                                 |                                         | 0.63(0.53-0.75)              | 18.4/13.6                                          |
-| Age                                        |                                         |                                         |                              |                                                    |
-| <65                                        | 232/130                                 | T                                       | 0.63(0.46-0.87)              | —/12.4                                             |
-| ≥65                                        | 568/269                                 | T                                       | 0.63(0.51-0.78)              | 18.4/13.9                                          |
-| BaselineECOGPerformanceStatusScore         |                                         |                                         |                              |                                                    |
-| 0-1                                        | 730/367                                 |                                         | 0.62(0.52-0.75)              | /14.2                                              |
-| 2                                          | 70/32                                   |                                         | 0.65(0.39-1.07)              | 10.5/7.2                                           |
-| BaselineMeanPainScoreonBPI-SF(Question#3)  |                                         |                                         |                              |                                                    |
-| <4                                         | 574/284                                 |                                         | 0.59(0.47-0.74)              | —/16.2                                             |
-|                                            | 226/115                                 |                                         | 0.71(0.54-0.94)              | 12.4/9.1                                           |
-| NumberofPriorChemotherapyRegimens          |                                         |                                         |                              |                                                    |
-| 1                                          | 579/296                                 |                                         | 0.59(0.48-0.73)              | /14.2                                              |
-| ≥2                                         | 221/103                                 | T                                       | 0.74(0.54-1.03)              | 15.9/12.3                                          |
-| TypeofProgressionatStudyEntry              |                                         |                                         |                              |                                                    |
-| PSAProgressionOnly                         | 326/164                                 |                                         | 0.62(0.46-0.83)              | /19.5                                              |
-| RadiographicProgression±PSAProgression     | 470/234                                 | T                                       | 0.64(0.52-0.80)              | 17.3/13.0                                          |
-| BaselinePSAValue                           |                                         |                                         |                              |                                                    |
-| ≤median(111.2μg/L)                         | 412/188                                 |                                         | 0.67 (0.50-0.89)             | /19.2                                              |
-| >median(111.2μg/L)                         | 388/211                                 |                                         | 0.62(0.50-0.78)              | 15.3/10.3                                          |
-| BaselineLDHValue                           |                                         |                                         |                              |                                                    |
-| ≤median(211U/L)                            | 411/192                                 |                                         | 0.63 (0.46-0.86)             | —/19.2                                             |
-| >median(211U/L)                            | 389/205                                 |                                         | 0.61(0.50-0.76)              | 12.4/8.5                                           |
-| Total GleasonScoreatDiagnosis              |                                         |                                         |                              |                                                    |
-| ≤7                                         | 360/175                                 | T                                       | 0.67(0.51-0.88)              | 18.4/14.8                                          |
-| 28                                         | 366/193                                 | TI                                      | 0.60 (0.47-0.76)             | 18.2/11.3                                          |
-| Visceral Lungand/orLiverDiseaseatScreening |                                         |                                         |                              |                                                    |
-| Yes                                        | 196/82                                  |                                         | 0.78(0.56-1.09)              | 13.4/9.5                                           |
-| No                                         | 604/317                                 | TL                                      | 0.56(0.46-0.69)              | —/14.2                                             |
-|                                            | 0.0                                     | 0.5 1.0 1.5                             | 2.0                          |                                                    |
+| Subgroup                                         | Number of Patients Enzalutamide/Placebo   | Number of Patients Enzalutamide/Placebo   | Hazard Ratio for Death (95% CI)   | Overall Survival Median (mo) Enzalutamide/Placebo   |
+|--------------------------------------------------|-------------------------------------------|-------------------------------------------|-----------------------------------|-----------------------------------------------------|
+| All Patients                                     | 800/399                                   |                                           | 0.63 (0.53–0.75)                  | 18.4/13.6                                           |
+| Age                                              |                                           |                                           |                                   |                                                     |
+| <65                                              | 232/130                                   |                                           | 0.63 (0.46–0.87)                  | —/12.4                                              |
+| ≥65                                              | 568/269                                   |                                           | 0.63 (0.51–0.78)                  | 18.4/13.9                                           |
+| Baseline ECOG Performance Status Score           |                                           |                                           |                                   |                                                     |
+| 0-1                                              | 730/367                                   |                                           | 0.62 (0.52–0.75)                  | —/14.2                                              |
+| 2                                                | 70/32                                     |                                           | 0.65 (0.39–1.07)                  | 10.5/7.2                                            |
+| Baseline Mean Pain Score on BPI-SF (Question #3) |                                           |                                           |                                   |                                                     |
+| <4                                               | 574/284                                   |                                           | 0.59 (0.47–0.74)                  | —/16.2                                              |
+| <                                                | 226/115                                   |                                           | 0.71 (0.54–0.94)                  | 12.4/9.1                                            |
+| Number of Prior Chemotherapy Regimens            |                                           |                                           |                                   |                                                     |
+| 1                                                | 579/296                                   |                                           | 0.59 (0.48–0.73)                  | —/14.2                                              |
+| ≥2                                               | 221/103                                   |                                           | 0.74 (0.54–1.03)                  | 15.9/12.3                                           |
+| Type of Progression at Study Entry               |                                           |                                           |                                   |                                                     |
+| PSA Progression Only                             | 326/164                                   |                                           | 0.62 (0.46–0.83)                  | —/19.5                                              |
+| Radiographic Progression ± PSA Progression       | 470/234                                   |                                           | 0.64 (0.52–0.80)                  | 17.3/13.0                                           |
+| Baseline PSA Value                               |                                           |                                           |                                   |                                                     |
+| ≤median (111.2 μg/L)                             | 412/188                                   |                                           | 0.67 (0.50–0.89)                  | —/19.2                                              |
+| >median (111.2 μg/L)                             | 388/211                                   |                                           | 0.62 (0.50–0.78)                  | 15.3/10.3                                           |
+| Baseline LDH Value                               |                                           |                                           |                                   |                                                     |
+| ≤median (211 U /L)                               | 411/192                                   |                                           | 0.63 (0.46–0.86)                  | —/19.2                                              |
+| >median (211 U/L)                                | 389/205                                   |                                           | 0.61 (0.50–0.76)                  | 12.4/8.5                                            |
+| Total Gleason Score at Diagnosis                 |                                           |                                           |                                   |                                                     |
+| ≤7                                               | 360/175                                   |                                           | 0.67 (0.51–0.88)                  | 18.4/14.8                                           |
+| ≥8                                               | 366/193                                   | I1                                        | 0.60 (0.47–0.76)                  | 18.2/11.3                                           |
+| Visceral Lung and/or Liver Disease at Screening  |                                           |                                           |                                   |                                                     |
+| Yes                                              | 196/82                                    |                                           | 0.78 (0.56–1.09)                  | 13.4/9.5                                            |
+| No                                               | 604/317                                   | TI                                        | 0.56 (0.46–0.69)                  | —/14.2                                              |
+|                                                  | 0.0                                       | 0.5 1.0 1.5                               | 2.0                               |                                                     |
 
-FavorsEnzalutamide
-
-FavorsPlacebo
+Favors Enzalutamide Favors Placebo
 
 ECOG: Eastern Cooperative Oncology Group; BPI-SF: Brief Pain Inventory-Short Form; PSA: Prostate Specific Antigen
 
@@ -776,11 +764,9 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 Enzalutamide is poorly water soluble. The solubility of enzalutamide is increased by caprylocaproyl macrogolglycerides as emulsifier/surfactant. In preclinical studies, the absorption of enzalutamide was increased when dissolved in caprylocaproyl macrogolglycerides.
 
-The pharmacokinetics of enzalutamide have been evaluated in prostate cancer patients and in healthy male subjects. The mean terminal half-life (t1/2) for enzalutamide in patients after a single oral dose is 5.8 days (range 2.8 to 10.2 days), and steady state is achieved in approximately one month. With daily oral administration, enzalutamide accumulates approximately 8.3-fold relative to a single dose. Daily fluctuations in plasma concentrations are low (peak-to-trough ratio of 1.25). Clearance of
+The pharmacokinetics of enzalutamide have been evaluated in prostate cancer patients and in healthy male subjects. The mean terminal half-life (t1/2) for enzalutamide in patients after a single oral dose is 5.8 days (range 2.8 to 10.2 days), and steady state is achieved in approximately one month. With daily oral administration, enzalutamide accumulates approximately 8.3-fold relative to a single dose. Daily fluctuations in plasma concentrations are low (peak-to-trough ratio of 1.25). Clearance of enzalutamide is primarily via hepatic metabolism, producing an active metabolite that is equally as active as enzalutamide and circulates at approximately the same plasma concentration as enzalutamide.
 
 <div style=\"page-break-after: always\"></div>
-
-enzalutamide is primarily via hepatic metabolism, producing an active metabolite that is equally as active as enzalutamide and circulates at approximately the same plasma concentration as enzalutamide.
 
 ## Absorption
 
@@ -996,11 +982,9 @@ Use of enzalutamide has been associated with seizure (see section 4.8). The deci
 
 ## Posterior reversible encephalopathy syndrome
 
-There have been rare reports of posterior reversible encephalopathy syndrome (PRES) in patients receiving Xtandi (see section 4.8). PRES is a rare, reversible, neurological disorder which can present with rapidly evolving symptoms including seizure, headache, confusion, blindness, and other visual and neurological disturbances, with or without associated hypertension. A diagnosis of PRES requires
+There have been rare reports of posterior reversible encephalopathy syndrome (PRES) in patients receiving Xtandi (see section 4.8). PRES is a rare, reversible, neurological disorder which can present with rapidly evolving symptoms including seizure, headache, confusion, blindness, and other visual and neurological disturbances, with or without associated hypertension. A diagnosis of PRES requires confirmation by brain imaging, preferably magnetic resonance imaging (MRI). Discontinuation of Xtandi in patients who develop PRES is recommended.
 
 <div style=\"page-break-after: always\"></div>
-
-confirmation by brain imaging, preferably magnetic resonance imaging (MRI). Discontinuation of Xtandi in patients who develop PRES is recommended.
 
 ## Second Primary Malignancies
 
@@ -1107,11 +1091,9 @@ Groups of medicinal products that can be affected include, but are not limited t
 - Statins metabolised by CYP3A4 (e.g. atorvastatin, simvastatin)
 - Thyroid agents (e.g. levothyroxine)
 
-The full induction potential of enzalutamide may not occur until approximately 1 month after the start of treatment, when steady-state plasma concentrations of enzalutamide are reached, although some induction effects may be apparent earlier. Patients taking medicinal products that are substrates of CYP2B6, CYP3A4, CYP2C9, CYP2C19 or UGT1A1 should be evaluated for possible loss of pharmacological effects (or increase in effects in cases where active metabolites are formed) during the first month of enzalutamide treatment and dose adjustment should be considered as appropriate. In consideration of the long half-life of enzalutamide (5.8 days, see section 5.2), effects on enzymes may
+The full induction potential of enzalutamide may not occur until approximately 1 month after the start of treatment, when steady-state plasma concentrations of enzalutamide are reached, although some induction effects may be apparent earlier. Patients taking medicinal products that are substrates of CYP2B6, CYP3A4, CYP2C9, CYP2C19 or UGT1A1 should be evaluated for possible loss of pharmacological effects (or increase in effects in cases where active metabolites are formed) during the first month of enzalutamide treatment and dose adjustment should be considered as appropriate. In consideration of the long half-life of enzalutamide (5.8 days, see section 5.2), effects on enzymes may persist for one month or longer after stopping enzalutamide. A gradual dose reduction of the concomitant medicinal product may be necessary when stopping enzalutamide treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-persist for one month or longer after stopping enzalutamide. A gradual dose reduction of the concomitant medicinal product may be necessary when stopping enzalutamide treatment.
 
 ## CYP1A2 and CYP2C8 substrates
 
@@ -1319,6 +1301,7 @@ Table 2: Summary of efficacy in patients treated with either enzalutamide plus A
 NR = Not reached.
 
 1. Median follow-up time of 61 months.
+
 2. Based on the earliest contributing event (radiographic progression or death).
 3. Based on Kaplan-Meier estimates.
 4. Hazard Ratio is based on a Cox regression model stratified by screening PSA, PSA doubling time, and prior hormonal therapy.
@@ -1329,8 +1312,6 @@ NR = Not reached.
 At the final analysis (median follow-up of 94.0 months) enzalutamide plus ADT demonstrated a statistically significant improvement in overall survival compared to placebo plus ADT [HR = 0.60, (95% CI: 0.44; 0.80), p = 0.0006]. The median for overall survival was not reached in the enzalutamide plus ADT arm, and was 117.5 months (95% CI: 109.8, NR) in the placebo plus ADT arm (Figure 3). No statistically significant difference was observed with enzalutamide as monotherapy compared to placebo plus ADT (HR = 0.83; 95% CI: 0.63-1.10) (Figure 4).
 
 <div style=\"page-break-after: always\"></div>
-
-/
 
 Figure 1: Kaplan-Meier curves of MFS in the Enzalutamide plus ADT vs. Placebo plus ADT treatment arms of the EMBARK study (intent-to-treat analysis)
 
@@ -1398,11 +1379,9 @@ Figure 6: Kaplan-Meier Curves of overall survival in the ARCHES study (intent-to
 
 MDV3100-14 (PROSPER) study (patients with non-metastatic CRPC)
 
-The PROSPER study enrolled 1401 patients with asymptomatic, high-risk non-metastatic CRPC who continued on androgen deprivation therapy (ADT; defined as LHRH analogue or prior bilateral
+The PROSPER study enrolled 1401 patients with asymptomatic, high-risk non-metastatic CRPC who continued on androgen deprivation therapy (ADT; defined as LHRH analogue or prior bilateral orchiectomy). Patients were required to have a PSA doubling time ≤ 10 months, PSA ≥ 2 ng/mL, and confirmation of non-metastatic disease by blinded independent central review (BICR).
 
 <div style=\"page-break-after: always\"></div>
-
-orchiectomy). Patients were required to have a PSA doubling time ≤ 10 months, PSA ≥ 2 ng/mL, and confirmation of non-metastatic disease by blinded independent central review (BICR).
 
 Patients with a history of mild to moderate heart failure (NYHA Class I or II), and patients taking medicinal products associated with lowering the seizure threshold were allowed. Patients were excluded with a previous history of seizure, a condition that might predispose them to seizure, or certain prior treatments for prostate cancer (i.e., chemotherapy, ketoconazole, abiraterone acetate, aminoglutethimide and/or enzalutamide).
 
@@ -1543,11 +1522,9 @@ Figure 12: 5-year overall survival analysis by subgroup: Hazard ratio and 95% co
 
 <!-- image -->
 
-At the pre-specified rPFS analysis, a statistically significant improvement was demonstrated between the treatment groups with an 81.4% reduction in risk of radiographic progression or death [HR = 0.19 (95% CI: 0.15, 0.23), p &lt; 0.0001]. One hundred and eighteen (14%) enzalutamide-treated patients and 321 (40%) of placebo-treated patients had an event. The median rPFS was not reached (95% CI: 13.8, not reached) in the enzalutamide-treated group and was 3.9 months (95% CI: 3.7, 5.4) in the placebo-treated group (Figure 13). Consistent rPFS benefit was observed across all pre-specified patient subgroups (e.g. age, baseline ECOG performance, baseline PSA and LDH, Gleason score at diagnosis, and visceral disease at screening). A pre-specified follow-up rPFS analysis based on the investigator assessment of radiographic progression demonstrated a statistically significant improvement between the treatment groups with a 69.3% reduction in risk of radiographic progression
+At the pre-specified rPFS analysis, a statistically significant improvement was demonstrated between the treatment groups with an 81.4% reduction in risk of radiographic progression or death [HR = 0.19 (95% CI: 0.15, 0.23), p &lt; 0.0001]. One hundred and eighteen (14%) enzalutamide-treated patients and 321 (40%) of placebo-treated patients had an event. The median rPFS was not reached (95% CI: 13.8, not reached) in the enzalutamide-treated group and was 3.9 months (95% CI: 3.7, 5.4) in the placebo-treated group (Figure 13). Consistent rPFS benefit was observed across all pre-specified patient subgroups (e.g. age, baseline ECOG performance, baseline PSA and LDH, Gleason score at diagnosis, and visceral disease at screening). A pre-specified follow-up rPFS analysis based on the investigator assessment of radiographic progression demonstrated a statistically significant improvement between the treatment groups with a 69.3% reduction in risk of radiographic progression or death [HR = 0.31 (95% CI: 0.27, 0.35), p &lt; 0.0001]. The median rPFS was 19.7 months in the enzalutamide group and 5.4 months in the placebo group.
 
 <div style=\"page-break-after: always\"></div>
-
-or death [HR = 0.31 (95% CI: 0.27, 0.35), p &lt; 0.0001]. The median rPFS was 19.7 months in the enzalutamide group and 5.4 months in the placebo group.
 
 <!-- image -->
 
@@ -1596,41 +1573,39 @@ Table 6: Overall survival of patients treated with either enzalutamide or placeb
 
 Figure 14: Kaplan-Meier curves of overall survival in the AFFIRM study (intent-to-treat analysis)
 
-| Subgroup                                  | NumberofPatients Enzalutamide/Placebo   | NumberofPatients Enzalutamide/Placebo   | HazardRatioforDeath (95%CI)   | OverallSurvival Median(mo) Enzalutamide/Placebo   |
-|-------------------------------------------|-----------------------------------------|-----------------------------------------|-------------------------------|---------------------------------------------------|
-| AllPatients                               | 800/399                                 |                                         | 0.63 (0.53-0.75)              | 18.4/13.6                                         |
-| Age                                       |                                         |                                         |                               |                                                   |
-| <65                                       | 232/130                                 | T                                       | 0.63(0.46-0.87)               | —/12.4                                            |
-| ≥65                                       | 568/269                                 |                                         | 0.63(0.51-0.78)               | 18.4/13.9                                         |
-| BaselineECOGPerformanceStatusScore        |                                         |                                         |                               |                                                   |
-| 0-1                                       | 730/367                                 |                                         | 0.62(0.52-0.75)               | /14.2                                             |
-| 2                                         | 70/32                                   |                                         | 0.65(0.39-1.07)               | 10.5/7.2                                          |
-| BaselineMeanPainScoreonBPI-SF(Question#3) |                                         |                                         |                               |                                                   |
-| <4                                        | 574/284                                 |                                         | 0.59(0.47-0.74)               | —/16.2                                            |
-|                                           | 226/115                                 |                                         | 0.71(0.54-0.94)               | 12.4/9.1                                          |
-| NumberofPriorChemotherapyRegimens         |                                         |                                         |                               |                                                   |
-| 1                                         | 579/296                                 |                                         | 0.59(0.48-0.73)               | /14.2                                             |
-| ≥2                                        | 221/103                                 | T                                       | 0.74(0.54-1.03)               | 15.9/12.3                                         |
-| TypeofProgressionatStudyEntry             |                                         |                                         |                               |                                                   |
-| PSAProgressionOnly                        | 326/164                                 |                                         | 0.62(0.46-0.83)               | /19.5                                             |
-| RadiographicProgression±PSAProgression    | 470/234                                 | T                                       | 0.64(0.52-0.80)               | 17.3/13.0                                         |
-| BaselinePSAValue                          |                                         |                                         |                               |                                                   |
-| ≤median(111.2μg/L)                        | 412/188                                 |                                         | 0.67(0.50-0.89)               | /19.2                                             |
-| >median(111.2μg/L)                        | 388/211                                 |                                         | 0.62(0.50-0.78)               | 15.3/10.3                                         |
-| BaselineLDHValue                          |                                         |                                         |                               |                                                   |
-| ≤median(211U/L)                           | 411/192                                 |                                         | 0.63(0.46-0.86)               | —/19.2                                            |
-| >median(211U/L)                           | 389/205                                 | II                                      | 0.61 (0.50-0.76)              | 12.4/8.5                                          |
-| TotalGleasonScoreatDiagnosis              |                                         |                                         |                               |                                                   |
-| ≤7                                        | 360/175                                 | T                                       | 0.67(0.51-0.88)               | 18.4/14.8                                         |
-| ≥8                                        | 366/193                                 |                                         | 0.60 (0.47-0.76)              | 18.2/11.3                                         |
-| VisceralLungand/orLiverDiseaseatScreening |                                         |                                         |                               |                                                   |
-| Yes                                       | 196/82                                  |                                         | 0.78 (0.56-1.09)              | 13.4/9.5                                          |
-| No                                        | 604/317                                 | TL                                      | 0.56 (0.46-0.69)              | —/14.2                                            |
-|                                           | 0.0                                     | 0.5 1.0 1.5                             | 2.0                           |                                                   |
+| Subgroup                                         | Number of Patients Enzalutamide/Placebo   | Number of Patients Enzalutamide/Placebo   | Hazard Ratio for Death (95% CI)   | Overall Survival Median (mo) Enzalutamide/Placebo   |
+|--------------------------------------------------|-------------------------------------------|-------------------------------------------|-----------------------------------|-----------------------------------------------------|
+| All Patients                                     | 800/399                                   |                                           | 0.63 (0.53–0.75)                  | 18.4/13.6                                           |
+| Age                                              |                                           |                                           |                                   |                                                     |
+| <65                                              | 232/130                                   |                                           | 0.63 (0.46–0.87)                  | —/12.4                                              |
+| ≥65                                              | 568/269                                   |                                           | 0.63 (0.51–0.78)                  | 18.4/13.9                                           |
+| Baseline ECOG Performance Status Score           |                                           |                                           |                                   |                                                     |
+| 0-1                                              | 730/367                                   |                                           | 0.62 (0.52–0.75)                  | —/14.2                                              |
+| 2                                                | 70/32                                     |                                           | 0.65 (0.39–1.07)                  | 10.5/7.2                                            |
+| Baseline Mean Pain Score on BPI-SF (Question #3) |                                           |                                           |                                   |                                                     |
+| <4                                               | 574/284                                   |                                           | 0.59 (0.47–0.74)                  | —/16.2                                              |
+|                                                  | 226/115                                   |                                           | 0.71 (0.54–0.94)                  | 12.4/9.1                                            |
+| Number of Prior Chemotherapy Regimens            |                                           |                                           |                                   |                                                     |
+| 1                                                | 579/296                                   |                                           | 0.59 (0.48–0.73)                  | —/14.2                                              |
+| ≥2                                               | 221/103                                   |                                           | 0.74 (0.54–1.03)                  | 15.9/12.3                                           |
+| Type of Progression at Study Entry               |                                           |                                           |                                   |                                                     |
+| PSA Progression Only                             | 326/164                                   |                                           | 0.62 (0.46–0.83)                  | —/19.5                                              |
+| Radiographic Progression ± PSA Progression       | 470/234                                   |                                           | 0.64 (0.52–0.80)                  | 17.3/13.0                                           |
+| Baseline PSA Value                               |                                           |                                           |                                   |                                                     |
+| ≤median (111.2 μg/L)                             | 412/188                                   |                                           | 0.67 (0.50–0.89)                  | —/19.2                                              |
+| >median (111.2 μg/L)                             | 388/211                                   | II                                        | 0.62 (0.50–0.78)                  | 15.3/10.3                                           |
+| Baseline LDH Value                               |                                           |                                           |                                   |                                                     |
+| ≤median (211 U /L)                               | 411/192                                   |                                           | 0.63 (0.46–0.86)                  | —/19.2                                              |
+| >median (211 U/L)                                | 389/205                                   | T                                         | 0.61 (0.50–0.76)                  | 12.4/8.5                                            |
+| Total Gleason Score at Diagnosis                 |                                           |                                           |                                   |                                                     |
+| ≤7                                               | 360/175                                   |                                           | 0.67 (0.51–0.88)                  | 18.4/14.8                                           |
+| ≥8                                               | 366/193                                   |                                           | 0.60 (0.47–0.76)                  | 18.2/11.3                                           |
+| Visceral Lung and/or Liver Disease at Screening  |                                           |                                           |                                   |                                                     |
+| Yes                                              | 196/82                                    |                                           | 0.78 (0.56–1.09)                  | 13.4/9.5                                            |
+| No                                               | 604/317                                   | TI                                        | 0.56 (0.46–0.69)                  | —/14.2                                              |
+|                                                  | 0.0                                       | 0.5 1.0 1.5                               | 2.0                               |                                                     |
 
-FavorsEnzalutamide
-
-FavorsPlacebo
+Favors Enzalutamide Favors Placebo
 
 ECOG: Eastern Cooperative Oncology Group; BPI-SF: Brief Pain Inventory-Short Form; PSA: Prostate Specific Antigen
 
@@ -1664,11 +1639,9 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 Enzalutamide is poorly water soluble. The solubility of enzalutamide is increased by caprylocaproyl macrogolglycerides as emulsifier/surfactant. In preclinical studies, the absorption of enzalutamide was increased when dissolved in caprylocaproyl macrogolglycerides.
 
-The pharmacokinetics of enzalutamide have been evaluated in prostate cancer patients and in healthy male subjects. The mean terminal half-life (t1/2) for enzalutamide in patients after a single oral dose is 5.8 days (range 2.8 to 10.2 days), and steady state is achieved in approximately one month. With daily oral administration, enzalutamide accumulates approximately 8.3-fold relative to a single dose. Daily fluctuations in plasma concentrations are low (peak-to-trough ratio of 1.25). Clearance of
+The pharmacokinetics of enzalutamide have been evaluated in prostate cancer patients and in healthy male subjects. The mean terminal half-life (t1/2) for enzalutamide in patients after a single oral dose is 5.8 days (range 2.8 to 10.2 days), and steady state is achieved in approximately one month. With daily oral administration, enzalutamide accumulates approximately 8.3-fold relative to a single dose. Daily fluctuations in plasma concentrations are low (peak-to-trough ratio of 1.25). Clearance of enzalutamide is primarily via hepatic metabolism, producing an active metabolite that is equally as active as enzalutamide and circulates at approximately the same plasma concentration as enzalutamide.
 
 <div style=\"page-break-after: always\"></div>
-
-enzalutamide is primarily via hepatic metabolism, producing an active metabolite that is equally as active as enzalutamide and circulates at approximately the same plasma concentration as enzalutamide.
 
 ## Absorption
 
@@ -1726,11 +1699,9 @@ No clinically relevant effect of age on enzalutamide pharmacokinetics was seen i
 
 ## 5.3 Preclinical safety data
 
-Enzalutamide treatment of pregnant mice resulted in an increased incidence of embryo-fetal deaths and external and skeletal changes. Fertility studies were not conducted with enzalutamide, but in studies in rats (4 and 26 weeks) and dogs (4, 13, and 39 weeks), atrophy, aspermia/hypospermia, and hypertrophy/hyperplasia in the reproductive system were noted, consistent with the pharmacological activity of enzalutamide. In studies in mice (4 weeks), rats (4 and 26 weeks) and dogs (4, 13, and 39 weeks), changes in the reproductive organs associated with enzalutamide were decreases in organ weight with atrophy of the prostate and epididymis. Leydig cell hypertrophy and/or hyperplasia were observed in mice (4 weeks) and dogs (39 weeks). Additional changes to reproductive tissues included hypertrophy/hyperplasia of the pituitary gland and atrophy in seminal vesicles in rats and testicular hypospermia and seminiferous tubule degeneration in dogs. Gender differences were noted in rat mammary glands (male atrophy and female lobular hyperplasia). Changes in the reproductive organs
+Enzalutamide treatment of pregnant mice resulted in an increased incidence of embryo-fetal deaths and external and skeletal changes. Fertility studies were not conducted with enzalutamide, but in studies in rats (4 and 26 weeks) and dogs (4, 13, and 39 weeks), atrophy, aspermia/hypospermia, and hypertrophy/hyperplasia in the reproductive system were noted, consistent with the pharmacological activity of enzalutamide. In studies in mice (4 weeks), rats (4 and 26 weeks) and dogs (4, 13, and 39 weeks), changes in the reproductive organs associated with enzalutamide were decreases in organ weight with atrophy of the prostate and epididymis. Leydig cell hypertrophy and/or hyperplasia were observed in mice (4 weeks) and dogs (39 weeks). Additional changes to reproductive tissues included hypertrophy/hyperplasia of the pituitary gland and atrophy in seminal vesicles in rats and testicular hypospermia and seminiferous tubule degeneration in dogs. Gender differences were noted in rat mammary glands (male atrophy and female lobular hyperplasia). Changes in the reproductive organs in both species were consistent with the pharmacological activity of enzalutamide and reversed or partially resolved after an 8-week recovery period. There were no other important changes in clinical pathology or histopathology in any other organ system, including the liver, in either species.
 
 <div style=\"page-break-after: always\"></div>
-
-in both species were consistent with the pharmacological activity of enzalutamide and reversed or partially resolved after an 8-week recovery period. There were no other important changes in clinical pathology or histopathology in any other organ system, including the liver, in either species.
 
 Studies in pregnant rats have shown that enzalutamide and/or its metabolites are transferred to fetuses. After oral administration of radiolabeled 14 C-enzalutamide to rats on day 14 of pregnancy at a dose of 30 mg/kg (~ 1.9 times the maximum dose indicated in humans), the maximum radioactivity in the fetus was reached 4 hours after administration and was lower than that in the maternal plasma with tissue/plasma ratio of 0.27. The radioactivity in the fetus decreased to 0.08 times the maximum concentration at 72 hours after administration.
 
@@ -1930,7 +1901,9 @@ xtandi 40 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -2028,17 +2001,17 @@ xtandi 40 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Xtandi 40 mg
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2171,7 +2144,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2307,7 +2280,9 @@ WALLET WITHOUT BLUE BOX
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Xtandi 80 mg film-coated tablets enzalutamide
+Xtandi 80 mg film-coated tablets
+
+enzalutamide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -2387,17 +2362,17 @@ xtandi 80 mg film-coated tablets
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Xtandi 40 mg
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2407,29 +2382,25 @@ EXP
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-Lot
+Lot Xtandi 80 mg EXP
 
 | 5.   | OTHER   |
 |------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-Xtandi 80 mg
-
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
-
-EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
@@ -2471,8 +2442,7 @@ Lot
 
 Xtandi contains the active substance enzalutamide. Xtandi is used to treat adult men with prostate cancer:
 
-- -Or
-- That no longer responds to a hormone therapy or surgical treatment to lower testosterone
+- -That no longer responds to a hormone therapy or surgical treatment to lower testosterone Or
 - -That has spread to other parts of the body and responds to a hormone therapy or surgical treatment to lower testosterone
 
 Or
@@ -2544,11 +2514,9 @@ This medicine is not for use in children and adolescents.
 
 ## Other medicines and Xtandi
 
-Tell your doctor if you are taking, have recently taken or might take any other medicines. You need to know the names of the medicines you take. Keep a list of them with you to show to your doctor when
+Tell your doctor if you are taking, have recently taken or might take any other medicines. You need to know the names of the medicines you take. Keep a list of them with you to show to your doctor when you are prescribed a new medicine. You should not start or stop taking any medicine before you talk with the doctor that prescribed Xtandi.
 
 <div style=\"page-break-after: always\"></div>
-
-you are prescribed a new medicine. You should not start or stop taking any medicine before you talk with the doctor that prescribed Xtandi.
 
 Tell your doctor if you are taking any of the following medicines. When taken at the same time as Xtandi, these medicines may increase the risk of a seizure:
 
@@ -2759,9 +2727,9 @@ Tlf.: + 45 43 430355
 
 ## Malta
 
-Astellas Pharmaceuticals AEBE
+Vivian Corporation Ltd.
 
-Tel: + 30 210 8189900
+Tel: +356 22588600
 
 ## Deutschland
 
@@ -2833,11 +2801,9 @@ Tel: + 39 (0)2 921381
 
 ## Κύπρος
 
-Ελλάδα
+Novagem Ltd
 
-Astellas Pharmaceuticals AEBE
-
-Τηλ: + 30 210 8189900
+Τηλ: +357 22 483858
 
 ## Latvija
 
@@ -3092,11 +3058,9 @@ If you have a seizure , see your doctor as soon as possible. Your doctor may dec
 
 ## Posterior Reversible Encephalopathy Syndrome (PRES)
 
-There have been rare reports of PRES (may affect up to 1 in 1,000 people), a rare, reversible condition involving the brain, in patients treated with Xtandi. If you have a seizure, worsening headache, confusion, blindness or other vision problems, please contact
+There have been rare reports of PRES (may affect up to 1 in 1,000 people), a rare, reversible condition involving the brain, in patients treated with Xtandi. If you have a seizure, worsening headache, confusion, blindness or other vision problems, please contact your doctor as soon as possible.
 
 <div style=\"page-break-after: always\"></div>
-
-your doctor as soon as possible.
 
 ## Other possible side effects include:
 
@@ -3170,11 +3134,21 @@ Astellas Pharma B.V. Branch
 
 Tél/Tel: + 32 (0)2 5580710
 
+## Lietuva
+
+Astellas Pharma d.o.o.
+
+Tel: + 370 37 408 681
+
 ## България
 
 Астелас Фарма ЕООД
 
 Teл.: + 359 2 862 53 72
+
+## Luxembourg/Luxemburg
+
+Astellas Pharma B.V. Branch Belgique/Belgien Tél/Tel: + 32 (0)2 5580710
 
 ## Česká republika
 
@@ -3182,11 +3156,23 @@ Astellas Pharma s.r.o.
 
 Tel: + 420 221 401 500
 
+## Magyarország
+
+Astellas Pharma Kft.
+
+Tel.: + 36 1 577 8200
+
 ## Danmark
 
 Astellas Pharma a/s
 
 Tlf.: + 45 43 430355
+
+## Malta
+
+Vivian Corporation Ltd.
+
+Tel: +356 22588600
 
 ## Deutschland
 
@@ -3194,43 +3180,17 @@ Astellas Pharma GmbH
 
 Tel: + 49 (0)89 454401
 
-## Eesti
-
-Astellas Pharma d.o.o.
-
-Tel: + 372 6 056 014
-
-## Ελλάδα
-
-Astellas Pharmaceuticals AEBE
-
-Τηλ: + 30 210 8189900
-
-## Lietuva
-
-Astellas Pharma d.o.o. Tel: + 370 37 408 681
-
-## Luxembourg/Luxemburg
-
-Astellas Pharma B.V. Branch Belgique/Belgien Tél/Tel: + 32 (0)2 5580710
-
-## Magyarország
-
-Astellas Pharma Kft.
-
-Tel.: + 36 1 577 8200
-
-## Malta
-
-Astellas Pharmaceuticals AEBE
-
-Tel: + 30 210 8189900
-
 ## Nederland
 
 Astellas Pharma B.V.
 
 Tel: + 31 (0)71 5455745
+
+## Eesti
+
+Astellas Pharma d.o.o.
+
+Tel: + 372 6 056 014
 
 ## Norge
 
@@ -3238,11 +3198,19 @@ Astellas Pharma
 
 Tlf: + 47 66 76 46 00
 
+## Ελλάδα
+
+Astellas Pharmaceuticals AEBE
+
+Τηλ: + 30 210 8189900
+
 ## Österreich
 
 Astellas Pharma Ges.m.b.H.
 
 Tel: + 43 (0)1 8772668
+
+<div style=\"page-break-after: always\"></div>
 
 ## España
 
@@ -3250,23 +3218,11 @@ Astellas Pharma S.A.
 
 Tel: + 34 91 4952700
 
-## Polska
-
-Astellas Pharma Sp.z.o.o.
-
-Tel.: + 48 225451 111
-
 ## France
 
 Astellas Pharma S.A.S.
 
 Tél: + 33 (0)1 55917500
-
-## Portugal
-
-Astellas Farma, Lda.
-
-Tel: + 351 21 4401300
 
 ## Hrvatska
 
@@ -3274,23 +3230,11 @@ Astellas d.o.o.
 
 Tel: + 385 1 670 01 02
 
-## România
-
-S.C. Astellas Pharma SRL
-
-Tel: + 40 (0)21 361 04 95
-
 ## Ireland
 
 Astellas Pharma Co. Ltd.
 
 Tel: + 353 (0)1 4671555
-
-## Slovenija
-
-Astellas Pharma d.o.o.
-
-Tel: + 386 14011 400
 
 ## Ísland
 
@@ -3298,37 +3242,17 @@ Vistor
 
 Sími: + 354 535 7000
 
-## Slovenská republika
-
-Astellas Pharma s.r.o.,
-
-Tel: + 421 2 4444 2157
-
 ## Italia
 
 Astellas Pharma S.p.A.
 
 Tel: + 39 (0)2 921381
 
-## Suomi/Finland
-
-Astellas Pharma
-
-Puh/Tel: + 358 (0)9 85606000
-
 ## Κύπρος
 
-Ελλάδα
+Novagem Ltd
 
-Astellas Pharmaceuticals AEBE
-
-Τηλ: + 30 210 8189900
-
-## Sverige
-
-Astellas Pharma AB
-
-Tel: + 46 (0)40-650 15 00
+Τηλ: +357 22 483858
 
 ## Latvija
 
@@ -3336,8 +3260,48 @@ Astellas Pharma d.o.o.
 
 Tel: + 371 67 619365
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in MM/YYYY.
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+## Polska
+
+Astellas Pharma Sp.z.o.o.
+
+Tel.: + 48 225451 111
+
+## Portugal
+
+Astellas Farma, Lda.
+
+Tel: + 351 21 4401300
+
+## România
+
+S.C. Astellas Pharma SRL
+
+Tel: + 40 (0)21 361 04 95
+
+## Slovenija
+
+Astellas Pharma d.o.o.
+
+Tel: + 386 14011 400
+
+## Slovenská republika
+
+Astellas Pharma s.r.o.,
+
+Tel: + 421 2 4444 2157
+
+## Suomi/Finland
+
+Astellas Pharma
+
+Puh/Tel: + 358 (0)9 85606000
+
+## Sverige
+
+Astellas Pharma AB
+
+Tel: + 46 (0)40-650 15 00

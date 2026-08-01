@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-19 10:06:50
+document_datetime: 2026-07-30 09:50:03
 document_pages: 235
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/hulio-epar-product-information_en.pdf
 document_name: hulio-epar-product-information_en.pdf
 version: success
-processing_time: 101.8282466
-conversion_datetime: 2026-02-21 12:30:24.36807
+processing_time: 92.0420467
+conversion_datetime: 2026-08-01 12:05:20.221373
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -314,11 +314,9 @@ Treatment with Hulio may result in the formation of autoimmune antibodies. The i
 
 Serious infections were seen in clinical studies with concurrent use of anakinra and another TNF-antagonist, etanercept, with no added clinical benefit compared to etanercept alone. Because of the nature of the adverse events seen with the combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNF-antagonists. Therefore, the combination of adalimumab and anakinra is not recommended. (see section 4.5).
 
-Concomitant administration of adalimumab with other biologic DMARDS (e.g. anakinra and abatacept) or other TNF-antagonists is not recommended based upon the possible increased risk for
+Concomitant administration of adalimumab with other biologic DMARDS (e.g. anakinra and abatacept) or other TNF-antagonists is not recommended based upon the possible increased risk for infections, including serious infections and other potential pharmacological interactions. (see section 4.5).
 
 <div style=\"page-break-after: always\"></div>
-
-infections, including serious infections and other potential pharmacological interactions. (see section 4.5).
 
 ## Surgery
 
@@ -346,6 +344,10 @@ This medicinal product contains sorbitol (E420). Patients with hereditary fructo
 
 This medicinal product contains less than 1 mmol of sodium (23 mg) per 0.4 ml dose, i.e. essentially 'sodium-free'.
 
+## Polysorbate 80
+
+This medicinal product contains 0.4 mg of polysorbate 80 in each 20 mg pre-filled syringe which is equivalent to 1.0 mg/mL. Polysorbates may cause allergic reactions.
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Adalimumab has been studied in rheumatoid arthritis, polyarticular juvenile idiopathic arthritis and psoriatic arthritis patients taking adalimumab as monotherapy and those taking concomitant methotrexate. Antibody formation was lower when adalimumab was given together with methotrexate in comparison with use as monotherapy. Administration of adalimumab without methotrexate resulted in increased formation of antibodies, increased clearance and reduced efficacy of adalimumab (see section 5.1).
@@ -358,9 +360,9 @@ The combination of adalimumab and abatacept is not recommended (see section 4.4)
 
 ## Women of child bearing potential
 
-Women of childbearing potential should consider the use of adequate contraception to prevent pregnancy and continue its use for at least five months after the last Hulio treatment.
-
 <div style=\"page-break-after: always\"></div>
+
+Women of childbearing potential should consider the use of adequate contraception to prevent pregnancy and continue its use for at least five months after the last Hulio treatment.
 
 ## Pregnancy
 
@@ -390,11 +392,9 @@ Adalimumab may have a minor influence on the ability to drive and use machines. 
 
 ## Summary of the safety profile
 
-Adalimumab was studied in 9 506 patients in pivotal controlled and open label trials for up to 60 months or more. These trials included rheumatoid arthritis patients with short term and long standing disease, juvenile idiopathic arthritis (polyarticular juvenile idiopathic arthritis and enthesitisrelated arthritis) as well as axial spondyloarthritis (ankylosing spondylitis and axial spondyloarthritis
+Adalimumab was studied in 9 506 patients in pivotal controlled and open label trials for up to 60 months or more. These trials included rheumatoid arthritis patients with short term and long standing disease, juvenile idiopathic arthritis (polyarticular juvenile idiopathic arthritis and enthesitisrelated arthritis) as well as axial spondyloarthritis (ankylosing spondylitis and axial spondyloarthritis without radiographic evidence of ankylosing spondylitis (AS)), psoriatic arthritis, Crohn's disease, ulcerative colitis, psoriasis, hidradenitis suppurativa and uveitis patients. The pivotal controlled studies involved 6 089 patients receiving adalimumab and 3 801 patients receiving placebo or active comparator during the controlled period.
 
 <div style=\"page-break-after: always\"></div>
-
-without radiographic evidence of ankylosing spondylitis (AS)), psoriatic arthritis, Crohn's disease, ulcerative colitis, psoriasis, hidradenitis suppurativa and uveitis patients. The pivotal controlled studies involved 6 089 patients receiving adalimumab and 3 801 patients receiving placebo or active comparator during the controlled period.
 
 The proportion of patients who discontinued treatment due to adverse events during the double-blind, controlled portion of pivotal studies was 5.9% for patients taking adalimumab and 5.4% for controltreated patients.
 
@@ -416,16 +416,16 @@ The following list of adverse reactions is based on experience from clinical tri
 
 Table 6: Undesirable effects
 
-| System organ class           | Frequency   | Adverse reaction                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations* | Very common | Respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral)                                                                                                                                                                                                                                                                                                             |
-|                              | Common      | Systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), |
+| System organ class           | Frequency   | Adverse reaction                                                                                                                                                                                                                                                                                                                                                                                       |
+|------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations* | Very common | Respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral)                                                                                                                                                                                                                                    |
+|                              | Common      | Systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class                                                        | Frequency   | Adverse reaction                                                                                                                                                                                                                                  |
 |---------------------------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| System organ class                                                        |             | fungal infections, joint infections                                                                                                                                                                                                               |
+| System organ class                                                        |             | mycotic infection), urinary tract infections (including pyelonephritis), fungal infections, joint infections                                                                                                                                      |
 | System organ class                                                        | Uncommon    | Neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), bacterial infections, eye infections, diverticulitis 1) |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common      | Skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), benign neoplasm                                                                                                                                      |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Uncommon    | Lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma**                                                                                                                                        |
@@ -499,13 +499,11 @@ Table 6: Undesirable effects
 
 The safety profile for patients with uveitis treated with adalimumab every other week was consistent with the known safety profile of adalimumab.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Description of selected adverse reactions
 
-## Injection site reactions
+Injection site reactions In the pivotal controlled trials in adults and children, 12.9% of patients treated with adalimumab developed injection site reactions (erythema and/or itching, haemorrhage, pain or swelling), compared to 7.2% of patients receiving placebo or active control. Injection site reactions generally did not necessitate discontinuation of the medicinal product.
 
-In the pivotal controlled trials in adults and children, 12.9% of patients treated with adalimumab developed injection site reactions (erythema and/or itching, haemorrhage, pain or swelling), compared to 7.2% of patients receiving placebo or active control. Injection site reactions generally did not necessitate discontinuation of the medicinal product.
+<div style=\"page-break-after: always\"></div>
 
 ## Infections
 
@@ -523,9 +521,11 @@ During the controlled portions of pivotal adalimumab trials in adults of at leas
 
 When combining controlled portions of these trials and ongoing and completed open label extension studies with a median duration of approximately 3.3 years including 6 427 patients and over 26 439 patient-years of therapy, the observed rate of malignancies, other than lymphoma and non-melanoma skin cancers is approximately 8.5 per 1 000 patient years. The observed rate of non-melanoma skin cancers is approximately 9.6 per 1 000 patient years, and the observed rate of lymphomas is approximately 1.3 per 1 000 patient years.
 
+In post-marketing experience from January 2003 to December 2010, predominantly in patients with rheumatoid arthritis, the spontaneously reported rate of malignancies is approximately 2.7 per 1 000
+
 <div style=\"page-break-after: always\"></div>
 
-In post-marketing experience from January 2003 to December 2010, predominantly in patients with rheumatoid arthritis, the spontaneously reported rate of malignancies is approximately 2.7 per 1 000 patient treatment years. The spontaneously reported rates for non-melanoma skin cancers and lymphomas are approximately 0.2 and 0.3 per 1 000 patient treatment years, respectively (see section 4.4).
+patient treatment years. The spontaneously reported rates for non-melanoma skin cancers and lymphomas are approximately 0.2 and 0.3 per 1 000 patient treatment years, respectively (see section 4.4).
 
 Rare post-marketing cases of hepatosplenic T-cell lymphoma have been reported in patients treated with adalimumab (see section 4.4).
 
@@ -626,7 +626,9 @@ Table 7: ACR responses in placebo-controlled trials (percent of patients)
 | 6 months   | 3.3%                | 23.8%                     | 1.8%               | 12.4%              | 2.5%                 | 20.8%                      |
 | 12 months  | NA                  | NA                        | NA                 | NA                 | 4.5%                 | 23.2%                      |
 
-a RA study I at 24 weeks, RA study II at 26 weeks , and RA study III at 24 and 52 weeks b 40 mg adalimumab administered every other week
+a RA study I at 24 weeks, RA study II at 26 weeks , and RA study III at 24 and 52 weeks
+
+b 40 mg adalimumab administered every other week
 
 c MTX = methotrexate
 
@@ -646,17 +648,17 @@ In RA study V with early rheumatoid arthritis patients who were methotrexate na�
 
 Table 8:         ACR responses in RA study V (percent of patients)
 
-| Response    | MTX n=257   | Adalimumab n=274   | Adalimumab /MTX n=268   | p-value a   | p-value b   | p-value c   |
+| Response    | MTX n=257   | Adalimumab n=274   | Adalimumab /MTX n=268   | p-value a   | p-value b   |   p-value c |
 |-------------|-------------|--------------------|-------------------------|-------------|-------------|-------------|
 | ACR 20      |             |                    |                         |             |             |             |
-| Week        | 62.6%       | 54.4%              | 72.8%                   | 0.013       | < 0.001     | 0.043       |
-| 52 Week 104 | 56.0%       | 49.3%              | 69.4%                   | 0.002       | < 0.001     | 0.140       |
+| Week        | 62.6%       | 54.4%              | 72.8%                   | 0.013       | < 0.001     |       0.043 |
+| 52 Week 104 | 56.0%       | 49.3%              | 69.4%                   | 0.002       | < 0.001     |       0.140 |
 | ACR 50      |             |                    |                         |             |             |             |
-| Week        | 45.9%       | 41.2%              | 61.6%                   | < 0.001     | < 0.001     | 0.317       |
-| Week 104    | 42.8%       | 36.9%              | 59.0%                   | < 0.001     | < 0.001     | 0.162       |
+| Week        | 45.9%       | 41.2%              | 61.6%                   | < 0.001     | < 0.001     |       0.317 |
+| Week 104    | 42.8%       | 36.9%              | 59.0%                   | < 0.001     | < 0.001     |       0.162 |
 | ACR 70      |             |                    |                         |             |             |             |
-| Week        | 27.2%       | 25.9%              | 45.5%                   | < 0.001     | < 0.001     | 0.656       |
-| Week 104    | 28.4%       | 28.1%              | 46.6%                   | < 0.001     | < 0.001     | 0.864       |
+| Week        | 27.2%       | 25.9%              | 45.5%                   | < 0.001     | < 0.001     |       0.656 |
+| Week 104    | 28.4%       | 28.1%              | 46.6%                   | < 0.001     | < 0.001     |       0.864 |
 
 - a. p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab /methotrexate combination therapy using the Mann-Whitney U test.
 - b. p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
@@ -668,19 +670,17 @@ At week 52, 42.9% of patients who received adalimumab/methotrexate combination t
 
 ## Radiographic response
 
-In RA study III, where adalimumab-treated patients had a mean duration of rheumatoid arthritis of approximately 11 years, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (TSS) and its components, the erosion score and joint space narrowing score. adalimumab/methotrexate patients demonstrated significantly less radiographic progression than patients receiving methotrexate alone at 6 and 12 months (see table 9). In the open-label extension of RA Study III, the reduction in rate of progression of structural damage is maintained for 8 and 10 years in a subset of patients. At 8 years, 81 of 207 patients originally treated with 40 mg adalimumab every other week were evaluated radiographically. Among those, 48 patients showed no progression of structural damage defined by a change from baseline in the mTSS of 0.5 or less. At 10 years, 79 of 207 patients originally treated with 40 mg adalimumab every other week were
+In RA study III, where adalimumab-treated patients had a mean duration of rheumatoid arthritis of approximately 11 years, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (TSS) and its components, the erosion score and joint space narrowing score. adalimumab/methotrexate patients demonstrated significantly less radiographic progression than patients receiving methotrexate alone at 6 and 12 months (see table 9). In the open-label extension of RA Study III, the reduction in rate of progression of structural damage is maintained for 8 and 10 years in a subset of patients. At 8 years, 81 of 207 patients originally treated with 40 mg adalimumab every other week were evaluated radiographically. Among those, 48 patients showed no progression of structural damage defined by a change from baseline in the mTSS of 0.5 or less. At 10 years, 79 of 207 patients originally treated with 40 mg adalimumab every other week were evaluated radiographically. Among those, 40 patients showed no progression of structural damage defined by a change from baseline in the mTSS of 0.5 or less.
 
 <div style=\"page-break-after: always\"></div>
-
-evaluated radiographically. Among those, 40 patients showed no progression of structural damage defined by a change from baseline in the mTSS of 0.5 or less.
 
 Table 9:        Radiographic mean changes over 12 months in RA study III
 
 |                   |   Placebo/MTX a |   Adalimumab/MTX 40 mg every other week | Placebo/MTX- Adalimumab/MTX (95% Confidence Interval b )   | p-value   |
 |-------------------|-----------------|-----------------------------------------|------------------------------------------------------------|-----------|
 | Total Sharp Score |             2.7 |                                     0.1 | 2.6 (1.4, 3.8)                                             | < 0.001 c |
-| Erosion score     |             1.6 |                                     0   | 1.6 (0.9, 2.2)                                             | < 0.001   |
-| JSN d score       |             1   |                                     0.1 | 0.9 (0.3, 1.4)                                             | 0.002     |
+| Erosion score     |             1.6 |                                     0.0 | 1.6 (0.9, 2.2)                                             | < 0.001   |
+| JSN d score       |             1.0 |                                     0.1 | 0.9 (0.3, 1.4)                                             | 0.002     |
 
 In RA study V, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (see table 10).
 
@@ -688,9 +688,11 @@ Table 10:         Radiographic mean changes at week 52 in RA study V
 
 |                   | MTX n=257 (95% confidence interval)   | Adalimumab n=274 (95% confidence interval)   | Adalimumab /MTX n=268 (95% confidence interval)   | p-value a   |   p-value b | p-value c   |
 |-------------------|---------------------------------------|----------------------------------------------|---------------------------------------------------|-------------|-------------|-------------|
-| Total Sharp Score | 5.7 (4.2-7.3)                         | 3.0 (1.7-4.3)                                | 1.3 (0.5-2.1)                                     | < 0.001     |      0.002  | < 0.001     |
+| Total Sharp Score | 5.7 (4.2-7.3)                         | 3.0 (1.7-4.3)                                | 1.3 (0.5-2.1)                                     | < 0.001     |      0.0020 | < 0.001     |
 | Erosion score     | 3.7 (2.7-4.7)                         | 1.7 (1.0-2.4)                                | 0.8 (0.4-1.2)                                     | < 0.001     |      0.0082 | < 0.001     |
 | JSN score         | 2.0 (1.2-2.8)                         | 1.3 (0.5-2.1)                                | 0.5 (0-1.0)                                       | < 0.001     |      0.0037 | 0.151       |
+
+- c p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
 
 Following 52 weeks and 104 weeks of treatment, the percentage of patients without progression (change from baseline in modified Total Sharp Score ≤ 0.5) was significantly higher with adalimumab/methotrexate combination therapy (63.8% and 61.2% respectively) compared to methotrexate monotherapy (37.4% and 33.5% respectively, p &lt; 0.001) and adalimumab monotherapy (50.7%, p &lt; 0.002 and 44.5%, p &lt; 0.001 respectively).
 
@@ -698,11 +700,9 @@ In the open-label extension of RA study V, the mean change from baseline at Year
 
 ## Quality of life and physical function
 
-Health-related quality of life and physical function were assessed using the disability index of the Health Assessment Questionnaire (HAQ) in the four original adequate and well-controlled trials, which was a pre-specified primary endpoint at week 52 in RA study III. All doses/schedules of adalimumab in all four studies showed statistically significantly greater improvement in the disability
+Health-related quality of life and physical function were assessed using the disability index of the Health Assessment Questionnaire (HAQ) in the four original adequate and well-controlled trials, which was a pre-specified primary endpoint at week 52 in RA study III. All doses/schedules of adalimumab in all four studies showed statistically significantly greater improvement in the disability index of the HAQ from baseline to month 6 compared to placebo and in RA study III the same was seen at week 52. Results from the Short Form Health Survey (SF 36) for all doses/schedules of adalimumab in all four studies support these findings, with statistically significant physical component summary (PCS) scores, as well as statistically significant pain and vitality domain scores for the 40 mg every other week dose. A statistically significant decrease in fatigue as measured by functional assessment of chronic illness therapy (FACIT) scores was seen in all three studies in which it was assessed (RA studies I, III, IV).
 
 <div style=\"page-break-after: always\"></div>
-
-index of the HAQ from baseline to month 6 compared to placebo and in RA study III the same was seen at week 52. Results from the Short Form Health Survey (SF 36) for all doses/schedules of adalimumab in all four studies support these findings, with statistically significant physical component summary (PCS) scores, as well as statistically significant pain and vitality domain scores for the 40 mg every other week dose. A statistically significant decrease in fatigue as measured by functional assessment of chronic illness therapy (FACIT) scores was seen in all three studies in which it was assessed (RA studies I, III, IV).
 
 In RA study III, most subjects who achieved improvement in physical function and continued treatment maintained improvement through week 520 (120 months) of open-label treatment. Improvement in quality of life was measured up to week 156 (36 months) and improvement was maintained through that time.
 
@@ -744,11 +744,9 @@ A total of 233 PASI 75 responders at week 16 and week 33 received continuous ada
 
 A total of 347 stable responders participated in a withdrawal and retreatment evaluation in an openlabel extension study. During the withdrawal period, symptoms of psoriasis returned over time with a median time to relapse (decline to PGA 'moderate' or worse) of approximately 5 months. None of these patients experienced rebound during the withdrawal period. A total of 76.5% (218/285) of patients who entered the retreatment period had a response of PGA 'clear' or 'minimal' after 16 weeks of retreatment, irrespective of whether they relapsed during withdrawal (69.1%[123/178] and 88.8% [95/107] for patients who relapsed and who did not relapse during the withdrawal period, respectively). A similar safety profile was observed during retreatment as before withdrawal.
 
-Significant improvements at week 16 from baseline compared to placebo (Studies I and II) and MTX (Study II) were demonstrated in the DLQI (Dermatology Life Quality Index). In Study I,
+Significant improvements at week 16 from baseline compared to placebo (Studies I and II) and MTX (Study II) were demonstrated in the DLQI (Dermatology Life Quality Index). In Study I, improvements in the physical and mental component summary scores of the SF-36 were also significant compared to placebo.
 
 <div style=\"page-break-after: always\"></div>
-
-improvements in the physical and mental component summary scores of the SF-36 were also significant compared to placebo.
 
 In an open-label extension study, for patients who dose escalated from 40 mg every other week to 40 mg weekly due to a PASI response below 50%, 26.4% (92/349) and 37.8% (132/349) of patients achieved PASI 75 response at week 12 and 24, respectively.
 
@@ -772,11 +770,9 @@ Adalimumab-treated patients showed statistically significant improvements at wee
 
 The safety and efficacy of adalimumab were assessed in over 1 500 patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index (CDAI) ≥ 220 and ≤ 450) in randomised, double-blind, placebo-controlled studies. Concomitant stable doses of aminosalicylates, corticosteroids, and/or immunomodulatory agents were permitted and 80% of patients continued to receive at least one of these medicinal products.
 
-Induction of clinical remission (defined as CDAI &lt; 150) was evaluated in two studies, CD Study I (CLASSIC I) and CD Study II (GAIN). In CD Study I, 299 TNF-antagonist naive patients were randomised to one of four treatment groups; placebo at weeks 0 and 2, 160 mg adalimumab at week 0 and 80 mg at week 2, 80 mg at week 0 and 40 mg at week 2, and 40 mg at week 0 and 20 mg at week 2. In CD Study II, 325 patients who had lost response or were intolerant to infliximab were randomised to receive either 160 mg adalimumab at week 0 and 80 mg at week 2 or placebo at
+Induction of clinical remission (defined as CDAI &lt; 150) was evaluated in two studies, CD Study I (CLASSIC I) and CD Study II (GAIN). In CD Study I, 299 TNF-antagonist naive patients were randomised to one of four treatment groups; placebo at weeks 0 and 2, 160 mg adalimumab at week 0 and 80 mg at week 2, 80 mg at week 0 and 40 mg at week 2, and 40 mg at week 0 and 20 mg at week 2. In CD Study II, 325 patients who had lost response or were intolerant to infliximab were randomised to receive either 160 mg adalimumab at week 0 and 80 mg at week 2 or placebo at weeks 0 and 2. The primary non-responders were excluded from the studies and therefore these patients were not further evaluated.
 
 <div style=\"page-break-after: always\"></div>
-
-weeks 0 and 2. The primary non-responders were excluded from the studies and therefore these patients were not further evaluated.
 
 Maintenance of clinical remission was evaluated in CD study III (CHARM). In CD Study III, 854 patients received open-label 80 mg at week 0 and 40 mg at week 2. At week 4 patients were randomised to 40 mg every other week, 40 mg every week, or placebo with a total study duration of 56 weeks. Patients in clinical response (decrease in CDAI ≥ 70) at week 4 were stratified and analysed separately from those not in clinical response at week 4. Corticosteroid taper was permitted after week 8.
 
@@ -820,7 +816,9 @@ Table 15:         Maintenance of clinical remission and response (percent of pat
 
 * p &lt; 0.001 for adalimumab versu s placebo pairwise comparisons of proportions
 
-**  p &lt; 0.02 for adalimumab versus placebo pairwise comparisons of proportions a Of those receiving corticosteroids at baseline
+**  p &lt; 0.02 for adalimumab versus placebo pairwise comparisons of proportions
+
+a Of those receiving corticosteroids at baseline
 
 Among patients who were not in response at week 4, 43% of adalimumab maintenance patients responded by week 12 compared to 30% of placebo maintenance patients. These results suggest that some patients who have not responded by week 4 benefit from continued maintenance therapy through week 12. Therapy continued beyond 12 weeks did not result in significantly more responses (see section 4.2).
 
@@ -838,11 +836,9 @@ Study UV I evaluated 217 patients with active uveitis despite treatment with cor
 
 Study UV II evaluated 226 patients with inactive uveitis requiring chronic corticosteroid treatment (oral prednisone 10 to 35 mg/day) at baseline to control their disease. Patients subsequently underwent a mandatory taper schedule, with complete corticosteroid discontinuation by week 19.
 
-The primary efficacy endpoint in both studies was ´time to treatment failure´. Treatment failure was defined by a multi-component outcome based on inflammatory chorioretinal and/or inflammatory
+The primary efficacy endpoint in both studies was ´time to treatment failure´. Treatment failure was defined by a multi-component outcome based on inflammatory chorioretinal and/or inflammatory retinal vascular lesions, anterior chamber (AC) cell grade, vitreous haze (VH) grade and best corrected visual acuity (BCVA).
 
 <div style=\"page-break-after: always\"></div>
-
-retinal vascular lesions, anterior chamber (AC) cell grade, vitreous haze (VH) grade and best corrected visual acuity (BCVA).
 
 Patients who completed studies UV I and UV II were eligible to enroll in an uncontrolled long-term extension study with an originally planned duration of 78 weeks. Patients were allowed to continue on study medication beyond week 78 until they had access to adalimumab.
 
@@ -873,17 +869,13 @@ Figure 1: Kaplan-Meier curves summarizing time to treatment failure on or after 
 
 <!-- image -->
 
-Adalimumab
+Adalimumab Adalimumab In study UV I statistically significant differences in favour of adalimumab versus placebo were observed for each component of treatment failure. In study UV II, statistically significant differences were observed for visual acuity only, but the other components were numerically in favour of adalimumab.
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-Adalimumab
-
 Note: P# = Placebo (number of events/number at risk); A# = Adalimumab (Number of Events/Number at Risk).
-
-In study UV I statistically significant differences in favour of adalimumab versus placebo were observed for each component of treatment failure. In study UV II, statistically significant differences were observed for visual acuity only, but the other components were numerically in favour of adalimumab.
 
 Of the 424 subjects included in the uncontrolled long-term extension of studies UV I and UV II, 60 subjects were regarded ineligible (e.g. due to deviations or due to complications secondary to diabetic retinopathy, due to cataract surgery or vitrectomy) and were excluded from the primary analysis of efficacy. Of the 364 remaining patients, 269 evaluable patients (74%) reached 78 weeks of open-label adalimumab treatment. Based on the observed data approach, 216 (80.3%) were in quiescence (no active inflammatory lesions, AC cell grade ≤ 0.5+, VH grade ≤ 0.5+) with a concomitant steroid dose ≤ 7.5 mg per day, and 178 (66.2%) were in steroid -free quiescence. BCVA was either improved or maintained (&lt; 5 letters deterioration) in 88.6% of the eyes at week 78. Data beyond week 78 were generally consistent with these results but the number of enrolled subjects declined after this time. Overall, among the patients who discontinued the study, 18% discontinued due to adverse events, and 8% due to insufficient response to adalimumab treatment.
 
@@ -923,7 +915,7 @@ Patients demonstrating a Pediatric ACR 30 response at week 16 were eligible to b
 
 Table 18: Ped ACR 30 responses in the JIA study
 
-| Stratum                                       | MTX                     | MTX                  | WithoutMTX          | WithoutMTX        |
+| Stratum                                       | MTX                     | MTX                  | Without MTX         | Without MTX       |
 |-----------------------------------------------|-------------------------|----------------------|---------------------|-------------------|
 | Phase                                         |                         |                      |                     |                   |
 | OL-LI 16 weeks                                |                         |                      |                     |                   |
@@ -935,7 +927,7 @@ Table 18: Ped ACR 30 responses in the JIA study
 
 <div style=\"page-break-after: always\"></div>
 
-a Ped ACR 30/50/70 responses week 48 significantly greater than those of placebo-treated patients b p = 0.015 c p = 0.031
+b p = 0.015 c p = 0.031
 
 Amongst those who responded at week 16 (n=144), the Pediatric ACR 30/50/70/90 responses were maintained for up to six years in the OLE phase in patients who received adalimumab throughout the study. Over all 19 subjects, of which 11 of the baseline age group 4 to 12 and 8 of the baseline age group 13 to 17 years were treated 6 years or longer.
 
@@ -996,27 +988,27 @@ Clinical remission and clinical response (defined as reduction in PCDAI score of
 
 Table 21:         Paediatric CD study - PCDAI clinical remission and response
 
-|                    | Standard dose 40/20 mg eow N = 93   | Low dose 20/10 mg eow N = 95   | P value *   |
+|                    | Standard dose 40/20 mg eow N = 93   | Low dose 20/10 mg eow N = 95   |   P value * |
 |--------------------|-------------------------------------|--------------------------------|-------------|
 | Week 26            |                                     |                                |             |
-| Clinical remission | 38.7%                               | 28.4%                          | 0.075       |
-| Clinical response  | 59.1%                               | 48.4%                          | 0.073       |
+| Clinical remission | 38.7%                               | 28.4%                          |       0.075 |
+| Clinical response  | 59.1%                               | 48.4%                          |       0.073 |
 | Week 52            |                                     |                                |             |
-| Clinical remission | 33.3%                               | 23.2%                          | 0.100       |
-| Clinical response  | 41.9%                               | 28.4%                          | 0.038       |
+| Clinical remission | 33.3%                               | 23.2%                          |       0.100 |
+| Clinical response  | 41.9%                               | 28.4%                          |       0.038 |
 
 Table 22:         Paediatric CD Study - Discontinuation of corticosteroids or immunomodulators and fistula remission
 
-|                                       | Standard dose 40/20 mg eow   | Low dose 20/10 mg eow   | P value 1   |
+|                                       | Standard dose 40/20 mg eow   | Low dose 20/10 mg eow   |   P value 1 |
 |---------------------------------------|------------------------------|-------------------------|-------------|
 | Discontinued corticosteroids          | N= 33                        | N=38                    |             |
-| Week 26                               | 84.8%                        | 65.8%                   | 0.066       |
-| Week 52                               | 69.7%                        | 60.5%                   | 0.420       |
+| Week 26                               | 84.8%                        | 65.8%                   |       0.066 |
+| Week 52                               | 69.7%                        | 60.5%                   |       0.420 |
 | Discontinuation of immunomodulators 2 | N=60                         | N=57                    |             |
-| Week 52                               | 30.0%                        | 29.8%                   | 0.983       |
+| Week 52                               | 30.0%                        | 29.8%                   |       0.983 |
 | Fistula remission 3                   | N=15                         | N=21                    |             |
-| Week 26                               | 46.7%                        | 38.1%                   | 0.608       |
-| Week 52                               | 40.0%                        | 23.8%                   | 0.303       |
+| Week 26                               | 46.7%                        | 38.1%                   |       0.608 |
+| Week 52                               | 40.0%                        | 23.8%                   |       0.303 |
 
 1 p value for standard dose versus low dose comparison.
 
@@ -1060,19 +1052,17 @@ Note: P = Placebo (Number at Risk); H = Adalimumab (Number at Risk).
 
 Following the administration of 24 mg/m 2 (maximum of 40 mg) subcutaneously every other week to patients with polyarticular juvenile idiopathic arthritis (JIA) who were 4 to 17 years the mean trough steady-state (values measured from week 20 to 48) serum adalimumab concentration was 5.6 ± 5.6 µg/ml (102% CV) for adalimumab without concomitant methotrexate and 10.9 ± 5.2 µg/ml (47.7% CV) with concomitant methotrexate.
 
-In patients with polyarticular JIA who were 2 to &lt; 4 years old or aged 4 and above weighing &lt; 15 kg dosed with adalimumab 24 mg/m 2 , the mean trough steady-state serum adalimumab concentrations
+In patients with polyarticular JIA who were 2 to &lt; 4 years old or aged 4 and above weighing &lt; 15 kg dosed with adalimumab 24 mg/m 2 , the mean trough steady-state serum adalimumab concentrations was 6.0 ± 6.1 µg/ml (101% CV) for adalimumab without concomitant methotrexate and 7.9 ± 5.6 µg/ml (71.2% CV) with concomitant methotrexate.
 
 <div style=\"page-break-after: always\"></div>
 
-was 6.0 ± 6.1 µg/ml (101% CV) for adalimumab without concomitant methotrexate and 7.9 ± 5.6 µg/ml (71.2% CV) with concomitant methotrexate.
-
-Following the administration of 24 mg/m 2 (maximum of 40 mg) subcutaneously every other week to patients with enthesitis-related arthritis who were 6 to 17 years, the mean trough steady-state (values measured at week 24) serum adalimumab concentrations were 8.8 ± 6.6 μg/ml for adalimumab without concomitant methotrexate and 11.8 ± 4.3 μg/ml with concomitant methotrexate.
+Following the administration of 24 mg/m 2 (maximum of 40 mg) subcutaneously every other week to patients with enthesitis-related arthritis who were 6 to 17 years, the mean trough steady-state (values measured at week 24) serum adalimumab concentrations were 8.8 ± 6.6 μg /ml for adalimumab without concomitant methotrexate and 11.8 ± 4.3 μg/ml with concomitant methotrexate.
 
 Following the administration of 0.8 mg/kg (maximum of 40 mg) subcutaneously every other week to paediatric patients with chronic plaque psoriasis, the mean ± SD steady-state adalimumab trough concentration was approximately 7.4 ± 5.8 µg/ml (79% CV).
 
 In paediatric patients with moderate to severe CD, the open-label adalimumab induction dose was 160/80 mg or 80/40 mg at weeks 0 and 2, respectively, dependent on a body weight cut-off of 40 kg. At week 4, patients were randomised 1:1 to either the Standard Dose (40/20 mg eow) or Low Dose (20/10 mg eow) maintenance treatment groups based on their body weight. The mean (±SD) serum adalimumab trough concentrations achieved at week 4 were 15.7 ± 6.6 µ g/ml for patients ≥ 40 kg (160/80 mg) and 10.6 ± 6.1 µ g/ml for patients &lt; 40 kg (80/40 mg).
 
-For patients who stayed on their randomised therapy, the mean (±SD) adalimumab trough concentrations at week 52 were 9.5 ± 5.6 µ g/ml for the Standard Dose group and 3.5 ± 2.2 µ g/ml for the Low Dose group. The mean trough concentrations were maintained in patients who continued to receive adalimumab treatment eow for 52 weeks. For patients who dose escalated from eow to weekly regimen, the mean (±SD) serum concentrations of adalimumab at week 52 were 15.3 ± 11.4 μg/ml (40/20 mg, weekly) and 6.7 ± 3.5 μg/ml ( 20/10 mg, weekly).
+For patients who stayed on their randomised therapy, the mean (±SD) adalimumab trough concentrations at week 52 were 9.5 ± 5.6 µ g/ml for the Standard Dose group and 3.5 ± 2.2 µ g/ml for the Low Dose group. The mean trough concentrations were maintained in patients who continued to receive adalimumab treatment eow for 52 weeks. For patients who dose escalated from eow to weekly regimen, the mean (±SD) serum concentrations of adalimumab at week 52 were 15.3 ± 11.4 μg /ml (40/20 mg, weekly) and 6.7 ± 3.5 μg/ml (20/10 mg, weekly).
 
 Adalimumab exposure in paediatric uveitis patients was predicted using population pharmacokinetic modelling and simulation based on cross-indication pharmacokinetics in other paediatric patients (paediatric psoriasis, juvenile idiopathic arthritis, paediatric Crohn's disease, and enthesitis-related arthritis). No clinical exposure data are available on the use of a loading dose in children &lt; 6 years. The predicted exposures indicate that in the absence of methotrexate, a loading dose may lead to an initial increase in systemic exposure.
 
@@ -1116,11 +1106,9 @@ An embryo-foetal developmental toxicity/perinatal developmental study has been p
 
 ## 6.1 List of excipients
 
-Monosodium glutamate Sorbitol (E420) Methionine
+Monosodium glutamate Sorbitol (E420) Methionine Polysorbate 80 Hydrochloric acid (for pH-adjustment) Water for injections
 
 <div style=\"page-break-after: always\"></div>
-
-Polysorbate 80 Hydrochloric acid (for pH-adjustment) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -1548,6 +1536,10 @@ This medicinal product contains sorbitol (E420). Patients with hereditary fructo
 
 This medicinal product contains less than 1 mmol of sodium (23 mg) per 0.8 ml dose, i.e. essentially 'sodium-free'.
 
+## Polysorbate 80
+
+This medicinal product contains 0.8 mg of polysorbate 80 in each 40 mg vial which is equivalent to 1.0 mg/mL. Polysorbates may cause allergic reactions.
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Adalimumab has been studied in rheumatoid arthritis, polyarticular juvenile idiopathic arthritis and psoriatic arthritis patients taking adalimumab as monotherapy and those taking concomitant methotrexate. Antibody formation was lower when adalimumab was given together with methotrexate in comparison with use as monotherapy. Administration of adalimumab without methotrexate resulted in increased formation of antibodies, increased clearance and reduced efficacy of adalimumab (see section 5.1).
@@ -1572,9 +1564,9 @@ In a developmental toxicity study conducted in monkeys, there was no indication 
 
 Due to its inhibition of TNF α , adalimumab administered during pregnancy could affect normal immune responses in the newborn. Adalimumab should only be used during pregnancy if clearly needed.
 
-Adalimumab may cross the placenta into the serum of infants born to women treated with adalimumab during pregnancy. Consequently, these infants may be at increased risk for infection. Administration of live vaccines (e.g., BCG vaccine) to infants exposed to adalimumab in utero is not recommended for 5 months following  the mother's last adalimumab injection during pregnancy.
-
 <div style=\"page-break-after: always\"></div>
+
+Adalimumab may cross the placenta into the serum of infants born to women treated with adalimumab during pregnancy. Consequently, these infants may be at increased risk for infection. Administration of live vaccines (e.g., BCG vaccine) to infants exposed to adalimumab in utero is not recommended for 5 months following  the mother's last adalimumab injection during pregnancy.
 
 ## Breast feeding
 
@@ -1606,11 +1598,11 @@ Serious haematological, neurological and autoimmune reactions have also been rep
 
 ## Paediatric population
 
+<div style=\"page-break-after: always\"></div>
+
 In general, the adverse events in paediatric patients were similar in frequency and type to those seen in adult patients.
 
 ## Tabulated list of adverse reactions
-
-<div style=\"page-break-after: always\"></div>
 
 The following list of adverse reactions is based on experience from clinical trials and on postmarketing experience and are displayed by system organ class and frequency in table 7 below: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); and not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. The highest frequency seen among the various indications has been included. An asterisk (*) appears in the System Organ Class (SOC) column if further information is found elsewhere in sections 4.3, 4.4 and 4.8.
 
@@ -1624,13 +1616,12 @@ The following list of adverse reactions is based on experience from clinical tri
 | Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common      | Skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), benign neoplasm                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Uncommon    | Lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma**                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Rare        | Leukaemia 1)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Not known   | Hepatosplenic T-cell lymphoma 1) , Merkel cell carcinoma (neuroendocrine carcinoma of the skin) 1) ,                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 <div style=\"page-break-after: always\"></div>
 
 | System Organ Class                        | Frequency   | Adverse reaction                                                                                                       |
 |-------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------|
-|                                           |             | Kaposi's sarcoma                                                                                                       |
+|                                           | Not known   | Hepatosplenic T-cell lymphoma 1) , Merkel cell carcinoma (neuroendocrine carcinoma of the skin) 1) , Kaposi's sarcoma  |
 | Blood and the lymphatic system disorders* | Very common | Leukopenia (including neutropenia and agranulocytosis), anaemia                                                        |
 | Blood and the lymphatic system disorders* | Common      | Leucocytosis, thrombocytopenia                                                                                         |
 | Blood and the lymphatic system disorders* | Uncommon    | Idiopathic thrombocytopenic purpura                                                                                    |
@@ -1645,13 +1636,14 @@ The following list of adverse reactions is based on experience from clinical tri
 | Nervous system disorders*                 | Common      | Paraesthesias (including hypoesthesia), migraine, nerve root compression                                               |
 | Nervous system disorders*                 | Uncommon    | Cerebrovascular accident 1) , tremor, neuropathy                                                                       |
 | Nervous system disorders*                 | Rare        | Multiple sclerosis, demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome) 1)                          |
-| Eye disorders                             | Common      | Visual impairment, conjunctivitis, blepharitis, eye swelling                                                           |
-| Eye disorders                             | Uncommon    | Diplopia                                                                                                               |
+| Eye disorders                             | Common      | Visual impairment, conjunctivitis,                                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 
 | System Organ Class                               | Frequency   | Adverse reaction                                                                                                           |
 |--------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------|
+|                                                  |             | blepharitis, eye swelling                                                                                                  |
+|                                                  | Uncommon    | Diplopia                                                                                                                   |
 | Ear and labyrinth disorders                      | Common      | Vertigo                                                                                                                    |
 | Ear and labyrinth disorders                      | Uncommon    | Deafness, tinnitus                                                                                                         |
 | Cardiac disorders*                               | Common      | Tachycardia                                                                                                                |
@@ -1667,19 +1659,19 @@ The following list of adverse reactions is based on experience from clinical tri
 | Gastrointestinal disorders                       | Uncommon    | Pancreatitis, dysphagia, face oedema                                                                                       |
 | Gastrointestinal disorders                       | Rare        | Intestinal perforation 1)                                                                                                  |
 | Hepato-biliary disorders*                        | Very common | Elevated liver enzymes                                                                                                     |
-| Hepato-biliary disorders*                        | Uncommon    | Cholecystitis and cholelithiasis, hepatic steatosis, bilirubin increased                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
 | System Organ Class                                    | Frequency   | Adverse reaction                                                                                                                                                                                                 |
 |-------------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                       | Rare        | Hepatitis, reactivation of hepatitis B 1) , autoimmune hepatitis 1)                                                                                                                                              |
-|                                                       | Not known   | Liver failure 1)                                                                                                                                                                                                 |
-| Skin and subcutaneous tissue disorders                | Very common | Rash (including exfoliative rash),                                                                                                                                                                               |
-| Skin and subcutaneous tissue disorders                | Common      | Worsening or new onset of psoriasis (including palmoplantar pustular psoriasis) 1) , urticaria, bruising (including purpura), dermatitis (including eczema), onychoclasis, hyperhydrosis, alopecia 1) , pruritus |
-| Skin and subcutaneous tissue disorders                | Uncommon    | Night sweats, scar                                                                                                                                                                                               |
-| Skin and subcutaneous tissue disorders                | Rare        | Erythema multiforme 1) , Stevens-Johnson syndrome 1) , angioedema 1) , cutaneous vasculitis 1) , lichenoid skin reaction 1)                                                                                      |
-| Skin and subcutaneous tissue disorders                | Not known   | Worsening of symptoms of dermatomyositis 1)                                                                                                                                                                      |
+| Skin and subcutaneous tissue disorders                | Uncommon    | Cholecystitis and cholelithiasis, hepatic steatosis, bilirubin increased                                                                                                                                         |
+| Skin and subcutaneous tissue disorders                | Rare        | Hepatitis, reactivation of hepatitis B 1) , autoimmune hepatitis 1)                                                                                                                                              |
+| Skin and subcutaneous tissue disorders                | Not known   | Liver failure 1)                                                                                                                                                                                                 |
+|                                                       | Very common | Rash (including exfoliative rash),                                                                                                                                                                               |
+|                                                       | Common      | Worsening or new onset of psoriasis (including palmoplantar pustular psoriasis) 1) , urticaria, bruising (including purpura), dermatitis (including eczema), onychoclasis, hyperhydrosis, alopecia 1) , pruritus |
+|                                                       | Uncommon    | Night sweats, scar                                                                                                                                                                                               |
+|                                                       | Rare        | Erythema multiforme 1) , Stevens-Johnson syndrome 1) , angioedema 1) , cutaneous vasculitis 1) , lichenoid skin reaction 1)                                                                                      |
+|                                                       | Not known   | Worsening of symptoms of dermatomyositis 1)                                                                                                                                                                      |
 | Musculoskeletal and connective tissue disorders       | Very common | Musculoskeletal pain                                                                                                                                                                                             |
 | Musculoskeletal and connective tissue disorders       | Common      | Muscle spasms (including blood creatine phosphokinase increased)                                                                                                                                                 |
 | Musculoskeletal and connective tissue disorders       | Uncommon    | Rhabdomyolysis, systemic lupus erythematosus                                                                                                                                                                     |
@@ -1688,16 +1680,25 @@ The following list of adverse reactions is based on experience from clinical tri
 | Renal and urinary disorders                           | Uncommon    | Nocturia                                                                                                                                                                                                         |
 | Reproductive system and breast disorders              | Uncommon    | Erectile dysfunction                                                                                                                                                                                             |
 | General disorders and administration site conditions* | Very common | Injection site reaction (including injection site erythema)                                                                                                                                                      |
-| General disorders and administration site conditions* | Common      | Chest pain, oedema, pyrexia 1)                                                                                                                                                                                   |
-| General disorders and administration site conditions* | Uncommon    | Inflammation                                                                                                                                                                                                     |
+| General disorders and administration site conditions* | Common      | Chest pain,                                                                                                                                                                                                      |
 
 <div style=\"page-break-after: always\"></div>
 
 | System Organ Class                             | Frequency   | Adverse reaction                                                                                                                                                                                           |
 |------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                |             | oedema, pyrexia 1)                                                                                                                                                                                         |
+|                                                | Uncommon    | Inflammation                                                                                                                                                                                               |
 | Investigations*                                | Common      | Coagulation and bleeding disorders (including activated partial thromboplastin time prolonged), autoantibody test positive (including double stranded DNA antibody), blood lactate dehydrogenase increased |
-|                                                | Not known   | Weight increased 2                                                                                                                                                                                         |
+| Investigations*                                | Not known   | Weight increased 2                                                                                                                                                                                         |
 | Injury, poisoning and procedural complications | Common      | Impaired healing                                                                                                                                                                                           |
+
+* further information is found elsewhere in sections 4.3, 4.4 and 4.8
+
+** including open label extension studies
+
+1) including spontaneous reporting data
+
+2) The mean weight change from baseline for adalimumab ranged from 0.3 kg to 1.0 kg across adult indications compared to -0.4 kg to 0.4 kg for placebo over a treatment period of 4-6 months. Weight increase of 5-6 kg has also been observed in long-term extension studies with mean exposures of approximately 1-2 years without control group, particularly in patients with Crohn's disease and ulcerative colitis. The mechanism behind this effect is unclear but could be associated with the antiinflammatory effects of adalimumab.
 
 ## Hidradenitis suppurativa
 
@@ -1719,11 +1720,9 @@ In the pivotal controlled trials in adults and children, the rate of infection w
 
 The incidence of serious infections was 0.04 per patient year in adalimumab treated patients and 0.03 per patient year in placebo and active control - treated patients.
 
-In controlled and open label adult and paediatric studies with adalimumab, serious infections (including fatal infections, which occurred rarely) have been reported, which include reports of tuberculosis (including miliary and extra-pulmonary locations) and invasive opportunistic infections (e.g. disseminated or extrapulmonary histoplasmosis, blastomycosis, coccidioidomycosis,
-
 <div style=\"page-break-after: always\"></div>
 
-pneumocystis candidiasis, aspergillosis and listeriosis). Most of the cases of tuberculosis occurred within the first eight months after initiation of therapy and may reflect recrudescence of latent disease.
+In controlled and open label adult and paediatric studies with adalimumab, serious infections (including fatal infections, which occurred rarely) have been reported, which include reports of tuberculosis (including miliary and extra-pulmonary locations) and invasive opportunistic infections (e.g. disseminated or extrapulmonary histoplasmosis, blastomycosis, coccidioidomycosis, pneumocystis candidiasis, aspergillosis and listeriosis). Most of the cases of tuberculosis occurred within the first eight months after initiation of therapy and may reflect recrudescence of latent disease.
 
 ## Malignancies and lymphoproliferative disorders
 
@@ -1767,11 +1766,11 @@ Across all indications in clinical trials patients with raised ALT were asymptom
 
 ## Concurrent treatment with azathioprine/6-mercaptopurine
 
-In adult Crohn's disease studies, higher incidences of malignant and serious infection-related adverse events were seen with the combination of adalimumab and azathioprine/6-mercaptopurine compared with adalimumab alone.
-
 <div style=\"page-break-after: always\"></div>
 
-## Reporting of suspected adverse reactions
+In adult Crohn's disease studies, higher incidences of malignant and serious infection-related adverse events were seen with the combination of adalimumab and azathioprine/6-mercaptopurine compared with adalimumab alone.
+
+Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
@@ -1799,13 +1798,13 @@ After treatment with adalimumab, a rapid decrease in levels of acute phase react
 
 A rapid decrease in CRP levels was also observed in patients with polyarticular juvenile idiopathic arthritis, Crohn's disease, ulcerative colitis and hidradenitis suppurativa after treatment with adalimumab.  In patients with Crohn's disease, a reduction of the number of cells expressing inflammatory markers  in the colon including a significant reduction of expression of TNFα was seen. Endoscopic studies in  intestinal mucosa have shown evidence of mucosal healing in adalimumab treated patients.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Clinical efficacy and safety
 
 ## Adults with rheumatoid arthritis
 
 Adalimumab was evaluated in over 3 000 patients in all rheumatoid arthritis clinical trials. The efficacy and safety of adalimumab were assessed in five randomised, double-blind and well-controlled studies. Some patients were treated for up to 120 months duration.
-
-<div style=\"page-break-after: always\"></div>
 
 RA study I evaluated 271 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old, had failed therapy with at least one disease-modifying, anti rheumatic drug and had insufficient efficacy with methotrexate at doses of 12.5 to 25 mg (10 mg if methotrexate-intolerant) every week and whose methotrexate dose remained constant at 10 to 25 mg every week. Doses of 20, 40 or 80 mg of adalimumab or placebo were given every other week for 24 weeks.
 
@@ -1859,17 +1858,17 @@ In RA study V with early rheumatoid arthritis patients who were methotrexate na�
 
 Table 9: ACR responses in RA study V (percent of patients)
 
-| Response   | MTX n=257   | Adalimumab n=274   | Adalimumab /MTX n=268   | p- value a   | p- value b   | p-value c   |
+| Response   | MTX n=257   | Adalimumab n=274   | Adalimumab /MTX n=268   | p- value a   | p- value b   |   p-value c |
 |------------|-------------|--------------------|-------------------------|--------------|--------------|-------------|
 | ACR 20     |             |                    |                         |              |              |             |
-| Week 52    | 62.6%       | 54.4%              | 72.8%                   | 0.013        | < 0.001      | 0.043       |
-| Week 104   | 56.0%       | 49.3%              | 69.4%                   | 0.002        | < 0.001      | 0.140       |
+| Week 52    | 62.6%       | 54.4%              | 72.8%                   | 0.013        | < 0.001      |       0.043 |
+| Week 104   | 56.0%       | 49.3%              | 69.4%                   | 0.002        | < 0.001      |       0.140 |
 | ACR 50     |             |                    |                         |              |              |             |
-| Week 52    | 45.9%       | 41.2%              | 61.6%                   | < 0.001      | < 0.001      | 0.317       |
-| Week 104   | 42.8%       | 36.9%              | 59.0%                   | < 0.001      | < 0.001      | 0.162       |
+| Week 52    | 45.9%       | 41.2%              | 61.6%                   | < 0.001      | < 0.001      |       0.317 |
+| Week 104   | 42.8%       | 36.9%              | 59.0%                   | < 0.001      | < 0.001      |       0.162 |
 | ACR 70     |             |                    |                         |              |              |             |
-| Week 52    | 27.2%       | 25.9%              | 45.5%                   | < 0.001      | < 0.001      | 0.656       |
-| Week 104   | 28.4%       | 28.1%              | 46.6%                   | < 0.001      | < 0.001      | 0.864       |
+| Week 52    | 27.2%       | 25.9%              | 45.5%                   | < 0.001      | < 0.001      |       0.656 |
+| Week 104   | 28.4%       | 28.1%              | 46.6%                   | < 0.001      | < 0.001      |       0.864 |
 
 a
 
@@ -1889,17 +1888,19 @@ In the open-label extension of RA Study III, the reduction in rate of progressio
 
 Table 10: Radiographic mean changes over 12 months in RA study III
 
-|               |   Placebo/MTX a |   Adalimumab /MTX 40 mg every other week | Placebo/MTX- adalimumab /MTX (95% confidence interval b )   | p-value   |
-|---------------|-----------------|------------------------------------------|-------------------------------------------------------------|-----------|
-| Total Sharp   |             2.7 |                                      0.1 | 2.6 (1.4, 3.8)                                              | < 0.001 c |
-| Erosion score |             1.6 |                                      0   | 1.6 (0.9, 2.2)                                              | < 0.001   |
-| JSN d score   |             1   |                                      0.1 | 0.9 (0.3, 1.4)                                              | 0.002     |
+|               |   Placebo/ MTX a |   Adalimumab /MTX 40 mg every other week | Placebo/MTX- adalimumab /MTX (95% confidence interval b )   | p-value   |
+|---------------|------------------|------------------------------------------|-------------------------------------------------------------|-----------|
+| Total Sharp   |              2.7 |                                      0.1 | 2.6 (1.4, 3.8)                                              | < 0.001 c |
+| Erosion score |              1.6 |                                      0.0 | 1.6 (0.9, 2.2)                                              | < 0.001   |
+| JSN d score   |              1.0 |                                      0.1 | 0.9 (0.3, 1.4)                                              | 0.002     |
 
 a methotrexate
 
 b 95% confidence intervals for the differences in change scores between methotrexate and adalimumab.
 
-c Based on rank analysis d Joint space narrowing
+c Based on rank analysis
+
+d Joint space narrowing
 
 In RA study V, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (see table 11).
 
@@ -1907,13 +1908,15 @@ Table 11: Radiographic mean changes at week 52 in RA study V
 
 |                   | MTX n=257 (95% confidence interval)   | Adalimumab n=274 (95% confidence interval)   | Adalimumab /MTX n=268 (95% confidence interval)   | p- value a   |   p- value b | p- value c   |
 |-------------------|---------------------------------------|----------------------------------------------|---------------------------------------------------|--------------|--------------|--------------|
-| Total Sharp Score | 5.7 (4.2-7.3)                         | 3.0 (1.7-4.3)                                | 1.3 (0.5-2.1)                                     | < 0.001      |       0.002  | < 0.001      |
+| Total Sharp Score | 5.7 (4.2-7.3)                         | 3.0 (1.7-4.3)                                | 1.3 (0.5-2.1)                                     | < 0.001      |       0.0020 | < 0.001      |
 | Erosion score     | 3.7 (2.7-4.7)                         | 1.7 (1.0-2.4)                                | 0.8 (0.4-1.2)                                     | < 0.001      |       0.0082 | < 0.001      |
 | JSN score         | 2.0 (1.2-2.8)                         | 1.3 (0.5-2.1)                                | 0.5 (0-1.0)                                       | < 0.001      |       0.0037 | 0.151        |
 
 a p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test.
 
-b p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test c p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
+b p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
+
+c p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
 
 Following 52 weeks and 104 weeks of treatment, the percentage of patients without progression (change from baseline in modified Total Sharp Score ≤ 0.5) was significantly higher with adalimumab /methotrexate combination therapy (63.8% and 61.2% respectively) compared to methotrexate monotherapy (37.4% and 33.5% respectively, p &lt; 0.001) and adalimumab monotherapy (50.7%, p &lt; 0.002 and 44.5%, p &lt; 0.001 respectively).
 
@@ -1921,11 +1924,9 @@ In the open-label extension of RA study V, the mean change from baseline at year
 
 ## Quality of life and physical function
 
-Health-related quality of life and physical function were assessed using the disability index of the Health Assessment Questionnaire (HAQ) in the four original adequate and well-controlled trials, which was a pre-specified primary endpoint at week 52 in RA study III. All doses/schedules of adalimumab in all four studies showed statistically significantly greater improvement in the disability
+Health-related quality of life and physical function were assessed using the disability index of the Health Assessment Questionnaire (HAQ) in the four original adequate and well-controlled trials, which was a pre-specified primary endpoint at week 52 in RA study III. All doses/schedules of adalimumab in all four studies showed statistically significantly greater improvement in the disability index of the HAQ from baseline to month 6 compared to placebo and in RA study III the same was seen at week 52. Results from the Short Form Health Survey (SF 36) for all doses/schedules of adalimumab in all four studies support these findings, with statistically significant physical component summary (PCS) scores, as well as statistically significant pain and vitality domain scores for the 40 mg every other week dose. A statistically significant decrease in fatigue as measured by functional assessment of chronic illness therapy (FACIT) scores was seen in all three studies in which it was assessed (RA studies I, III, IV).
 
 <div style=\"page-break-after: always\"></div>
-
-index of the HAQ from baseline to month 6 compared to placebo and in RA study III the same was seen at week 52. Results from the Short Form Health Survey (SF 36) for all doses/schedules of adalimumab in all four studies support these findings, with statistically significant physical component summary (PCS) scores, as well as statistically significant pain and vitality domain scores for the 40 mg every other week dose. A statistically significant decrease in fatigue as measured by functional assessment of chronic illness therapy (FACIT) scores was seen in all three studies in which it was assessed (RA studies I, III, IV).
 
 In RA study III, most subjects who achieved improvement in physical function and continued treatment maintained improvement through week 520 (120 months) of open-label treatment. Improvement in quality of life was measured up to week 156 (36 months) and improvement was maintained through that time.
 
@@ -1937,7 +1938,7 @@ The safety and efficacy of adalimumab were studied in adult patients with chroni
 
 Psoriasis study I (REVEAL) evaluated 1 212 patients within three treatment periods. In period A, patients received placebo or adalimumab at an initial dose of 80 mg followed by 40 mg every other week starting one week after the initial dose. After 16 weeks of therapy, patients who achieved at least a PASI 75 response (PASI score improvement of at least 75% relative to baseline), entered period B and received open-label 40 mg adalimumab every other week . Patients who maintained ≥PASI 75 response at week 33 and were originally randomised to active therapy in period A, were re-randomised in period C to receive 40 mg adalimumab every other week or placebo for an additional 19 weeks. Across all treatment groups, the mean baseline PASI score was 18.9 and the baseline Physician Global Assessment (PGA) score ranged from 'moderate' (53% of subjects included) to 'severe' (41%) to 'very severe' (6%).
 
-Psoriasis study II (CHAMPION) compared the efficacy and safety of adalimumab versus methotrexate and placebo in 271 patients. Patients received placebo, an initial dose of MTX 7.5 mg and thereafter dose increases up to week 12, with a maximum dose of 25 mg or an initial dose of 80 mg adalimumab followed by 40 mg every other week (starting one week after the initial dose) for 16 weeks. There are no data available comparing adalimumab and MTX beyond 16 weeks of therapy. Patients receiving MTX who achieved a ≥ PASI 50 response at week 8 and/or 12 did not receive further dose increases. Across all treatment groups, the mean baseline PASI score was 19.7 and the baseline PGA score ranged from 'mild' (&lt;1%) to 'moderate' (48%) to 'severe' (46%) to 'very severe' (6%).
+Psoriasis study II (CHAMPION) compared the efficacy and safety of adalimumab versus methotrexate and placebo in 271 patients. Patients received placebo, an initial dose of MTX 7.5 mg and thereafter dose increases up to week 12, with a maximum dose of 25 mg or an initial dose of 80 mg adalimumab followed by 40 mg every other week (starting one week after the initial dose) for 16 weeks. There are no data available comparing adalimumab and MTX beyond 16 weeks of therapy. Patients receiving MTX who achieved a ≥PASI 50 response at week 8 and/or 12 did not receive further dose increases. Across all treatment groups, the mean baseline PASI score was 19.7 and the baseline PGA score ranged from 'mild' (&lt;1%) to 'moderate' (48%) to 'severe' (46%) to 'very severe' (6%).
 
 Patients participating in all Phase 2 and Phase 3 psoriasis studies were eligible to enrol into an openlabel extension trial, where adalimumab was given for at least an additional 108 weeks.
 
@@ -2017,7 +2018,9 @@ Table 15: Efficacy results at 12 weeks, HS studies I and II
 | Hidradenitis suppurativa clinical response (HiSCR) a | N = 154 40 (26.0%) | N = 153 64 (41.8%) *    | N=163 45 (27.6%) | N=163 96 (58.9%) ***    |
 | ≥30% Reduction in skin pain b                        | N = 109 27 (24.8%) | N = 122 34 (27.9%)      | N=111 23 (20.7%) | N=105 48 (45.7%) ***    |
 
-* P &lt; 0.05, *** P &lt; 0.001, adalimumab versus placebo a Among all randomised patients.
+* P &lt; 0.05, *** P &lt; 0.001, adalimumab versus placebo
+
+a Among all randomised patients.
 
 b Among patients with baseline HSrelated skin pain assessment ≥ 3, based on numeric rating scale 0 - 10; 0 = no skin pain, 10 = skin pain as bad as you can imagine.
 
@@ -2094,7 +2097,9 @@ Table 18: Maintenance of clinical remission and response (percent of patients)
 
 *      p &lt; 0.001 for adalimumab versus placebo pairwise comparisons of proportions
 
-**    p &lt; 0.02 for adalimumab versus placebo pairwise comparisons of proportions a Of those receiving corticosteroids at baseline
+**    p &lt; 0.02 for adalimumab versus placebo pairwise comparisons of proportions
+
+a Of those receiving corticosteroids at baseline
 
 Among patients who were not in response at week 4, 43% of adalimumab maintenance patients responded by week 12 compared to 30% of placebo maintenance patients. These results suggest that some patients who have not responded by week 4 benefit from continued maintenance therapy through week 12. Therapy continued beyond 12 weeks did not result in significantly more responses (see section 4.2).
 
@@ -2149,11 +2154,9 @@ Note: P# = Placebo (number of events/number at risk); A# = adalimumab (number of
 
 In study UV I statistically significant differences in favour of adalimumab versus placebo were observed for each component of treatment failure. In study UV II, statistically significant differences were observed for visual acuity only, but the other components were numerically in favour of adalimumab.
 
-Of the 424 subjects included in the uncontrolled long-term extension of studies UV I and UV II, 60 subjects were regarded ineligible (e.g. due to deviations or due to complications secondary to diabetic retinopathy, due to cataract surgery or vitrectomy) and were excluded from the primary analysis of
+Of the 424 subjects included in the uncontrolled long-term extension of studies UV I and UV II, 60 subjects were regarded ineligible (e.g. due to deviations or due to complications secondary to diabetic retinopathy, due to cataract surgery or vitrectomy) and were excluded from the primary analysis of efficacy. Of the 364  remaining patients, 269 evaluable patients (74%) reached 78 weeks of open-label adalimumab treatment. Based on the observed data approach, 216 (80.3%) were in quiescence (no active inflammatory lesions, AC cell grade ≤ 0.5+, VH grade ≤ 0.5+) with a concomitant steroid dose ≤ 7.5 mg per day, and 178 (66.2%) were in steroid-free quiescence. BCVA was either improved or maintained (&lt; 5 letters deterioration) in 88.6% of the eyes at week 78. Data beyond Week 78 were generally consistent with these results but the number of enrolled subjects declined after this time. Overall, among the patients who discontinued the study, 18% discontinued due to adverse events, and 8% due to insufficient response to adalimumab treatment.
 
 <div style=\"page-break-after: always\"></div>
-
-efficacy. Of the 364  remaining patients, 269 evaluable patients (74%) reached 78 weeks of open-label adalimumab treatment. Based on the observed data approach, 216 (80.3%) were in quiescence (no active inflammatory lesions, AC cell grade ≤ 0.5+, VH grade ≤ 0.5+) with a concomitant steroid dose ≤ 7.5 mg per day, and 178 (66.2%) were in steroid-free quiescence. BCVA was either improved or maintained (&lt; 5 letters deterioration) in 88.6% of the eyes at week 78. Data beyond Week 78 were generally consistent with these results but the number of enrolled subjects declined after this time. Overall, among the patients who discontinued the study, 18% discontinued due to adverse events, and 8% due to insufficient response to adalimumab treatment.
 
 ## Quality of life
 
@@ -2175,7 +2178,9 @@ The safety and efficacy of adalimumab was assessed in two studies (pJIA I and II
 
 ## pJIA I
 
-The safety and efficacy of adalimumab were assessed in a multicentre, randomised, double-blind, parallel-group study in 171 children (4-17 years old) with polyarticular JIA. In the open-label lead in phase (OL LI) patients were stratified into two groups, MTX (methotrexate)-treated or non-MTXtreated. Patients who were in the non-MTX stratum were either naïve to or had been withdrawn from MTX at least two weeks prior to study adalimumab administration. Patients remained on stable doses of non-steroidal antiinflammatory drugs (NSAIDs) and or prednisone (≤ 0.2 mg /kg/day or 10 mg/day maximum). In the OL LI phase all patients received 24 mg/m 2  up to a maximum of 40 mg adalimumab every other week for 16 weeks. The distribution of patients by age and minimum, median and maximum dose received during the OL LI phase is presented in table 20.
+The safety and efficacy of adalimumab were assessed in a multicentre, randomised, double-blind, parallel-group study in 171 children (4-17 years old) with polyarticular JIA. In the open-label lead in phase (OL LI) patients were stratified into two groups, MTX (methotrexate)-treated or non-MTXtreated. Patients who were in the non-MTX stratum were either naïve to or had been withdrawn from MTX at least two weeks prior to study adalimumab administration. Patients remained on stable doses of non-steroidal antiinflammatory drugs (NSAIDs) and or prednisone (≤ 0.2 mg /kg/day or 10 mg/day
+
+maximum). In the OL LI phase all patients received 24 mg/m 2  up to a maximum of 40 mg adalimumab every other week for 16 weeks. The distribution of patients by age and minimum, median and maximum dose received during the OL LI phase is presented in table 20.
 
 Table 20: Distribution of patients by age and adalimumab dose received during the OL LI phase
 
@@ -2191,7 +2196,7 @@ Patients demonstrating a Pediatric ACR 30 response at week 16 were eligible to b
 
 Table 21: Ped ACR 30 responses in the JIA study
 
-| Stratum                                       | MTX                      | MTX                    | WithoutMTX          | WithoutMTX        |
+| Stratum                                       | MTX                      | MTX                    | Without MTX         | Without MTX       |
 |-----------------------------------------------|--------------------------|------------------------|---------------------|-------------------|
 | Phase                                         |                          |                        |                     |                   |
 | OL-LI 16 weeks                                |                          |                        |                     |                   |
@@ -2242,11 +2247,9 @@ In the open label period of the study, PASI 75 and PGA clear or minimal response
 
 ## Adolescent hidradenitis suppurativa
 
-There are no clinical trials with adalimumab in adolescent patients with HS.  Efficacy of adalimumab for  the treatment of adolescent patients with HS is predicted based on the demonstrated efficacy and
+There are no clinical trials with adalimumab in adolescent patients with HS.  Efficacy of adalimumab for  the treatment of adolescent patients with HS is predicted based on the demonstrated efficacy and exposure-response relationship in adult HS patients and the likelihood that the disease course, pathophysiology, and drug effects are substantially similar to that of adults at the same exposure levels. Safety of the recommended adalimumab dose in the adolescent HS population is based on cross-indication safety profile of adalimumab in both adults and paediatric patients at similar or more frequent doses (see section 5.2).
 
 <div style=\"page-break-after: always\"></div>
-
-exposure-response relationship in adult HS patients and the likelihood that the disease course, pathophysiology, and drug effects are substantially similar to that of adults at the same exposure levels. Safety of the recommended adalimumab dose in the adolescent HS population is based on cross-indication safety profile of adalimumab in both adults and paediatric patients at similar or more frequent doses (see section 5.2).
 
 ## Paediatric Crohn's disease
 
@@ -2271,14 +2274,14 @@ Clinical remission and clinical response (defined as reduction in PCDAI score of
 
 Table 24: Paediatric CD study PCDAI clinical remission and response
 
-|                    | Standard dose 40/20 mg eow N = 93   | Low dose 20/10 mg eow N = 95   | P value*   |
+|                    | Standard dose 40/20 mg eow N = 93   | Low dose 20/10 mg eow N = 95   |   P value* |
 |--------------------|-------------------------------------|--------------------------------|------------|
 | Week 26            |                                     |                                |            |
-| Clinical remission | 38.7%                               | 28.4%                          | 0.075      |
-| Clinical response  | 59.1%                               | 48.4%                          | 0.073      |
+| Clinical remission | 38.7%                               | 28.4%                          |      0.075 |
+| Clinical response  | 59.1%                               | 48.4%                          |      0.073 |
 | Week 52            |                                     |                                |            |
-| Clinical remission | 33.3%                               | 23.2%                          | 0.100      |
-| Clinical response  | 41.9%                               | 28.4%                          | 0.038      |
+| Clinical remission | 33.3%                               | 23.2%                          |      0.100 |
+| Clinical response  | 41.9%                               | 28.4%                          |      0.038 |
 
 * p value for standard dose versus low dose comparison.
 
@@ -2286,16 +2289,16 @@ Table 24: Paediatric CD study PCDAI clinical remission and response
 
 Table 25: Paediatric CD study discontinuation of corticosteroids or immunomodulators and fistula remission
 
-|                                       | Standard dose 40/20 mg eow   | Low dose 20/10 mg eow   | P value 1   |
+|                                       | Standard dose 40/20 mg eow   | Low dose 20/10 mg eow   |   P value 1 |
 |---------------------------------------|------------------------------|-------------------------|-------------|
 | Discontinued corticosteroids          | N= 33                        | N=38                    |             |
-| Week 26                               | 84.8%                        | 65.8%                   | 0.066       |
-| Week 52                               | 69.7%                        | 60.5%                   | 0.420       |
+| Week 26                               | 84.8%                        | 65.8%                   |       0.066 |
+| Week 52                               | 69.7%                        | 60.5%                   |       0.420 |
 | Discontinuation of immunomodulators 2 | N=60                         | N=57                    |             |
-| Week 52                               | 30.0%                        | 29.8%                   | 0.983       |
+| Week 52                               | 30.0%                        | 29.8%                   |       0.983 |
 | Fistula remission 3                   | N=15                         | N=21                    |             |
-| Week 26                               | 46.7%                        | 38.1%                   | 0.608       |
-| Week 52                               | 40.0%                        | 23.8%                   | 0.303       |
+| Week 26                               | 46.7%                        | 38.1%                   |       0.608 |
+| Week 52                               | 40.0%                        | 23.8%                   |       0.303 |
 
 3 defined as a closure of all fistulas that were draining at baseline for at least 2 consecutive postbaseline visits
 
@@ -2342,17 +2345,13 @@ Table 27: Efficacy results at 52 weeks
 | Clinical remission in week 8 PMS remitters               | 9/21 (42.9%)                             | 10/22 (45.5%)                           |
 | Corticosteroid-free remission in week 8 PMS responders c | 4/13 (30.8%)                             | 5/16 (31.3%)                            |
 
-a Adalimumab 0.6 mg/kg (maximum of 40 mg) every other week
+a Adalimumab 0.6 mg/kg (maximum of 40 mg) every other week Note: Patients with missing values at week 52 or who were randomized to receive re-induction or maintenance treatment were considered non-responders for week 52 endpoints Additional exploratory efficacy endpoints included clinical response per the Paediatric Ulcerative Colitis Activity Index (PUCAI) (defined as a decrease in PUCAI ≥ 20 points from baseline) and clinical remission per PUCAI (defined as PUCAI &lt; 10) at week 8 and week 52 (table 28).
 
 <div style=\"page-break-after: always\"></div>
 
 b Adalimumab 0.6 mg/kg (maximum of 40 mg) every week
 
 c In patients receiving concomitant corticosteroids at baseline
-
-Note: Patients with missing values at week 52 or who were randomized to receive re-induction or maintenance treatment were considered non-responders for week 52 endpoints
-
-Additional exploratory efficacy endpoints included clinical response per the Paediatric Ulcerative Colitis Activity Index (PUCAI) (defined as a decrease in PUCAI ≥ 20 points from baseline) and clinical remission per PUCAI (defined as PUCAI &lt; 10) at week 8 and week 52 (table 28).
 
 Table 28: Exploratory endpoints results per PUCAI
 
@@ -2375,11 +2374,9 @@ Clinically meaningful improvements from baseline were observed in IMPACT III and
 
 ## Paediatric uveitis
 
-The safety and efficacy of adalimumab was assessed in a randomized, double-masked, controlled study of 90 paediatric patients from 2 to &lt; 18 years of age with active JIA-associated noninfectious anterior uveitis who were refractory to at least 12 weeks of methotrexate treatment. Patients received
+The safety and efficacy of adalimumab was assessed in a randomized, double-masked, controlled study of 90 paediatric patients from 2 to &lt; 18 years of age with active JIA-associated noninfectious anterior uveitis who were refractory to at least 12 weeks of methotrexate treatment. Patients received either placebo or 20 mg adalimumab (if &lt; 30 kg) or 40 mg adalimumab (if ≥ 30 kg) every other week in combination with their baseline dose of methotrexate.
 
 <div style=\"page-break-after: always\"></div>
-
-either placebo or 20 mg adalimumab (if &lt; 30 kg) or 40 mg adalimumab (if ≥ 30 kg) every other week in combination with their baseline dose of methotrexate.
 
 The primary endpoint was 'time to treatment failure'. The criteria determining treatment failure were worsening or sustained non-improvement in ocular inflammation, partial improvement with development of sustained ocular co-morbidities or worsening of ocular co-morbidities, non-permitted use of concomitant medicinal products, and suspension of treatment for an extended period of time.
 
@@ -2702,11 +2699,9 @@ Hulio may be available in other strengths and/or pharmaceutical forms depending 
 
 ## Ulcerative colitis
 
-The recommended Hulio induction dose regimen for adult patients with moderate to severe  ulcerative colitis is 160 mg at week 0 (given as four 40 mg injections in one day or as  two 40 mg injections per
+The recommended Hulio induction dose regimen for adult patients with moderate to severe  ulcerative colitis is 160 mg at week 0 (given as four 40 mg injections in one day or as  two 40 mg injections per day for two consecutive days) and 80 mg at week 2 (given as two 40 mg injections in one day). After induction treatment, the  recommended dose is 40 mg every other week via subcutaneous injection.
 
 <div style=\"page-break-after: always\"></div>
-
-day for two consecutive days) and 80 mg at week 2 (given as two 40 mg injections in one day). After induction treatment, the  recommended dose is 40 mg every other week via subcutaneous injection.
 
 During maintenance treatment, corticosteroids may be tapered in accordance with clinical practice guidelines.
 
@@ -2943,11 +2938,9 @@ Patients should be instructed to seek medical advice if signs/symptoms suggestiv
 
 Opportunistic infections, including invasive fungal infections have been observed in patients receiving adalimumab. These infections have not consistently been recognised in patients taking TNFantagonists and this has resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
 
-For patients who develop the signs and symptoms such as fever, malaise, weight loss, sweats, cough, dyspnoea, and/or pulmonary infiltrates or other serious systemic illness with or without concomitant shock an invasive fungal infection should be suspected and administration of Hulio should be promptly discontinued. Diagnosis and administration of empiric antifungal therapy in these patients
+For patients who develop the signs and symptoms such as fever, malaise, weight loss, sweats, cough, dyspnoea, and/or pulmonary infiltrates or other serious systemic illness with or without concomitant shock an invasive fungal infection should be suspected and administration of Hulio should be promptly discontinued. Diagnosis and administration of empiric antifungal therapy in these patients should be made in consultation with a physician with expertise in the care of patients with invasive fungal infections.
 
 <div style=\"page-break-after: always\"></div>
-
-should be made in consultation with a physician with expertise in the care of patients with invasive fungal infections.
 
 ## Hepatitis B reactivation
 
@@ -3041,6 +3034,10 @@ This medicinal product contains sorbitol (E420). Patients with hereditary fructo
 
 This medicinal product contains less than 1 mmol of sodium (23 mg) per 0.8 ml dose, i.e. essentially 'sodium-free'.
 
+## Polysorbate 80
+
+This medicinal product contains 0.8 mg of polysorbate 80 in each 40 mg pre-filled syringe and in each pre filled pen which is equivalent to 1.0 mg/mL. Polysorbates may cause allergic reactions.
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Adalimumab has been studied in rheumatoid arthritis, polyarticular juvenile idiopathic arthritis and psoriatic arthritis patients taking adalimumab as monotherapy and those taking concomitant methotrexate. Antibody formation was lower when adalimumab was given together with methotrexate in comparison with use as monotherapy. Administration of adalimumab without methotrexate resulted in increased formation of antibodies, increased clearance and reduced efficacy of adalimumab (see section 5.1).
@@ -3061,9 +3058,9 @@ A large number (approximately 2 100) of prospectively collected pregnancies expo
 
 In a prospective cohort registry, 257 women with rheumatoid arthritis (RA) or Crohn's disease (CD) treated with adalimumab at least during the first trimester and 120 women with RA or CD not treated with adalimumab were enrolled. The primary endpoint was the birth prevalence of major birth defects. The rate of pregnancies ending with at least one live born infant with a major birth defect was 6/69 (8.7%) in the adalimumab-treated women with RA and 5/74 (6.8%) in the untreated women with RA (unadjusted OR 1.31, 95% CI 0.38-4.52) and 16/152 (10.5%) in the adalimumab-treated women with CD and 3/32 (9.4%) in the untreated women with CD (unadjusted OR 1.14, 95% CI 0.31-4.16). The adjusted OR (accounting for baseline differences) was 1.10 (95% CI 0.45-2.73) with RA and CD combined. There were no distinct differences between adalimumab-treated and untreated women for the secondary endpoints spontaneous abortions, minor birth defects, preterm delivery, birth size and serious or opportunistic infections and no stillbirths or malignancies were reported. The interpretation of data may be impacted due to methodological limitations of the study, including small sample size and non-randomized design.
 
-In a developmental toxicity study conducted in monkeys, there was no indication of maternal toxicity, embryotoxicity or teratogenicity. Preclinical data on postnatal toxicity of adalimumab are not available (see section 5.3).
-
 <div style=\"page-break-after: always\"></div>
+
+In a developmental toxicity study conducted in monkeys, there was no indication of maternal toxicity, embryotoxicity or teratogenicity. Preclinical data on postnatal toxicity of adalimumab are not available (see section 5.3).
 
 Due to its inhibition of TNF α , adalimumab administered during pregnancy could affect normal immune responses in the newborn. Adalimumab should only be used during pregnancy if clearly needed.
 
@@ -3093,9 +3090,9 @@ The most commonly reported adverse reactions are infections (such as nasopharyng
 
 Serious adverse reactions have been reported for adalimumab. TNF-antagonists, such as adalimumab affect the immune system and their use may affect the body's defence against infection and cancer. Fatal and life-threatening infections (including sepsis, opportunistic infections and TB), HBV reactivation and various malignancies (including leukaemia, lymphoma and hepatosplenic T-cell lymphoma (HSTCL)) have also been reported with use of adalimumab.
 
-Serious haematological, neurological and autoimmune reactions have also been reported. These include rare reports of pancytopenia, aplastic anaemia, central and peripheral demyelinating events and reports of lupus, lupus-related conditions and Stevens-Johnson syndrome.
-
 <div style=\"page-break-after: always\"></div>
+
+Serious haematological, neurological and autoimmune reactions have also been reported. These include rare reports of pancytopenia, aplastic anaemia, central and peripheral demyelinating events and reports of lupus, lupus-related conditions and Stevens-Johnson syndrome.
 
 ## Paediatric population
 
@@ -3105,63 +3102,62 @@ In general, the adverse events in paediatric patients were similar in frequency 
 
 The following list of adverse reactions is based on experience from clinical trials and on postmarketing experience and are displayed by system organ class and frequency in table 7 below: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); and not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. The highest frequency seen among the various indications has been included. An asterisk (*) appears in the system organ class (SOC) column if further information is found elsewhere in sections 4.3, 4.4 and 4.8.
 
-Table 7: Undesirable effects
+## Table 7: Undesirable effects
 
-| System organ class                                                        | Frequency   | Adverse reaction                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|---------------------------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations*                                              | Very common | Respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral)                                                                                                                                                                                                                                                                                                                                |
-| Infections and infestations*                                              | Common      | Systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), fungal infections, |
-| Infections and infestations*                                              | Uncommon    | Neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), bacterial infections, eye infections, diverticulitis 1)                                                                                                                                                                                                                                                  |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common      | Skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), benign neoplasm                                                                                                                                                                                                                                                                                                                                                                                       |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Uncommon    | Lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm),                                                                                                                                                                                                                                                                                                                                                                                                    |
+| System organ class                                                        | Frequency   | Adverse reaction                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|---------------------------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations*                                              | Very common | Respiratory tract infections (including lower and upper respiratory tract infection, pneumonia, sinusitis, pharyngitis, nasopharyngitis and pneumonia herpes viral)                                                                                                                                                                                                                                                                                                                                                 |
+|                                                                           | Common      | Systemic infections (including sepsis, candidiasis and influenza), intestinal infections (including gastroenteritis viral), skin and soft tissue infections (including paronychia, cellulitis, impetigo, necrotising fasciitis and herpes zoster), ear infections, oral infections (including herpes simplex, oral herpes and tooth infections), reproductive tract infections (including vulvovaginal mycotic infection), urinary tract infections (including pyelonephritis), fungal infections, joint infections |
+|                                                                           | Uncommon    | Neurological infections (including viral meningitis), opportunistic infections and tuberculosis (including coccidioidomycosis, histoplasmosis and mycobacterium avium complex infection), bacterial infections, eye infections, diverticulitis 1)                                                                                                                                                                                                                                                                   |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps)* | Common      | Skin cancer excluding melanoma (including basal cell carcinoma and squamous cell carcinoma), benign neoplasm                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class                        | Frequency   | Adverse reaction                                                                                                        |
 |-------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------|
-|                                           |             | melanoma**                                                                                                              |
+|                                           | Uncommon    | Lymphoma**, solid organ neoplasm (including breast cancer, lung neoplasm and thyroid neoplasm), melanoma**              |
 |                                           | Rare        | Leukaemia 1)                                                                                                            |
 |                                           | Not known   | Hepatosplenic T-cell lymphoma 1) , Merkel cell carcinoma (neuroendocrine carcinoma of the skin) 1) , Kaposi's sarcoma   |
 | Blood and the lymphatic system disorders* | Very common | Leukopenia (including neutropenia and agranulocytosis), anaemia                                                         |
-|                                           | Common      | Leucocytosis, thrombocytopenia                                                                                          |
-|                                           | Uncommon    | Idiopathic thrombocytopenic purpura                                                                                     |
-|                                           | Rare        | Pancytopenia                                                                                                            |
+| Blood and the lymphatic system disorders* | Common      | Leucocytosis, thrombocytopenia                                                                                          |
+| Blood and the lymphatic system disorders* | Uncommon    | Idiopathic thrombocytopenic purpura                                                                                     |
+| Blood and the lymphatic system disorders* | Rare        | Pancytopenia                                                                                                            |
 | Immune system disorders*                  | Common      | Hypersensitivity, allergies (including seasonal allergy)                                                                |
-|                                           | Uncommon    | Sarcoidosis 1) , vasculitis                                                                                             |
-|                                           | Rare        | Anaphylaxis 1)                                                                                                          |
+| Immune system disorders*                  | Uncommon    | Sarcoidosis 1) , vasculitis                                                                                             |
+| Immune system disorders*                  | Rare        | Anaphylaxis 1)                                                                                                          |
 | Metabolism and nutrition disorders        | Very common | Lipids increased                                                                                                        |
-|                                           | Common      | Hypokalaemia, uric acid increased, blood sodium abnormal, hypocalcaemia, hyperglycaemia, hypophosphataemia, dehydration |
+| Metabolism and nutrition disorders        | Common      | Hypokalaemia, uric acid increased, blood sodium abnormal, hypocalcaemia, hyperglycaemia, hypophosphataemia, dehydration |
 | Psychiatric disorders                     | Common      | Mood alterations (including depression), anxiety, insomnia                                                              |
 | Nervous system disorders*                 | Very common | Headache                                                                                                                |
-|                                           | Common      | Paraesthesias (including hypoesthesia), migraine, nerve root compression                                                |
-|                                           | Uncommon    | Cerebrovascular accident 1) , tremor, neuropathy                                                                        |
+| Nervous system disorders*                 | Common      | Paraesthesias (including hypoesthesia), migraine, nerve root compression                                                |
+| Nervous system disorders*                 | Uncommon    | Cerebrovascular accident 1) , tremor,                                                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class                               | Frequency   | Adverse reaction                                                                                                          |
 |--------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------|
+|                                                  |             | neuropathy                                                                                                                |
 |                                                  | Rare        | Multiple sclerosis, demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome) 1)                             |
 | Eye disorders                                    | Common      | Visual impairment, conjunctivitis, blepharitis, eye swelling                                                              |
-| Eye disorders                                    | Uncommon    | Diplopia                                                                                                                  |
+|                                                  | Uncommon    | Diplopia                                                                                                                  |
 | Ear and labyrinth disorders                      | Common      | Vertigo                                                                                                                   |
-| Ear and labyrinth disorders                      | Uncommon    | Deafness, tinnitus                                                                                                        |
+|                                                  | Uncommon    | Deafness, tinnitus                                                                                                        |
 | Cardiac disorders*                               | Common      | Tachycardia                                                                                                               |
-| Cardiac disorders*                               | Uncommon    | Myocardial infarction 1) , arrhythmia, congestive heart failure                                                           |
-| Cardiac disorders*                               | Rare        | Cardiac arrest                                                                                                            |
+|                                                  | Uncommon    | Myocardial infarction 1) , arrhythmia, congestive heart failure                                                           |
+|                                                  | Rare        | Cardiac arrest                                                                                                            |
 | Vascular disorders                               | Common      | Hypertension, flushing, haematoma                                                                                         |
-| Vascular disorders                               | Uncommon    | Aortic aneurysm, vascular arterial occlusion, thrombophlebitis                                                            |
+|                                                  | Uncommon    | Aortic aneurysm, vascular arterial occlusion, thrombophlebitis                                                            |
 | Respiratory, thoracic and mediastinal disorders* | Common      | Asthma, dyspnoea, cough                                                                                                   |
-| Respiratory, thoracic and mediastinal disorders* | Uncommon    | Pulmonary embolism 1) , interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis pleural effusion 1) |
-| Respiratory, thoracic and mediastinal disorders* | Rare        | Pulmonary fibrosis 1)                                                                                                     |
+|                                                  | Uncommon    | Pulmonary embolism 1) , interstitial lung disease, chronic obstructive pulmonary disease, pneumonitis pleural effusion 1) |
+|                                                  | Rare        | Pulmonary fibrosis 1)                                                                                                     |
 | Gastrointestinal disorders                       | Very common | Abdominal pain, nausea and vomiting                                                                                       |
-| Gastrointestinal disorders                       | Common      | GI haemorrhage, dyspepsia, gastroesophageal reflux disease, sicca syndrome                                                |
-| Gastrointestinal disorders                       | Uncommon    | Pancreatitis, dysphagia,                                                                                                  |
+|                                                  | Common      | GI haemorrhage, dyspepsia, gastroesophageal reflux disease, sicca syndrome                                                |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class                              | Frequency   | Adverse reaction                                                                                                                                                                                                 |
 |-------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                 |             | face oedema                                                                                                                                                                                                      |
+|                                                 | Uncommon    | Pancreatitis, dysphagia, face oedema                                                                                                                                                                             |
 |                                                 | Rare        | Intestinal perforation 1)                                                                                                                                                                                        |
 | Hepato-biliary disorders*                       | Very common | Elevated liver enzymes                                                                                                                                                                                           |
 | Hepato-biliary disorders*                       | Uncommon    | Cholecystitis and cholelithiasis, hepatic steatosis, bilirubin increased                                                                                                                                         |
@@ -3203,15 +3199,11 @@ The safety profile for patients with uveitis treated with adalimumab every other
 
 ## Injection site reactions
 
-In the pivotal controlled trials in adults and children, 12.9% of patients treated with adalimumab developed injection site reactions (erythema and/or itching, haemorrhage, pain or swelling), compared to 7.2% of patients receiving placebo or active control. Injection site reactions generally did not necessitate discontinuation of the medicinal product.
+In the pivotal controlled trials in adults and children, 12.9% of patients treated with adalimumab developed injection site reactions (erythema and/or itching, haemorrhage, pain or swelling), compared to 7.2% of patients receiving placebo or active control. Injection site reactions generally did not necessitate discontinuation of the medicinal product. Infections
 
-## Infections
-
-In the pivotal controlled trials in adults and children, the rate of infection was 1.51 per patient year in the adalimumab treated patients and 1.46 per patient year in the placebo and active control-treated
+In the pivotal controlled trials in adults and children, the rate of infection was 1.51 per patient year in the adalimumab treated patients and 1.46 per patient year in the placebo and active control-treated patients. The infections consisted primarily of nasopharyngitis, upper respiratory tract infection, and sinusitis. Most patients continued on adalimumab after the infection resolved.
 
 <div style=\"page-break-after: always\"></div>
-
-patients. The infections consisted primarily of nasopharyngitis, upper respiratory tract infection, and sinusitis. Most patients continued on adalimumab after the infection resolved.
 
 The incidence of serious infections was 0.04 per patient year in adalimumab treated patients and 0.03 per patient year in placebo and active control-treated patients.
 
@@ -3229,9 +3221,9 @@ In post-marketing experience from January 2003 to December 2010, predominantly i
 
 Rare post-marketing cases of hepatosplenic T-cell lymphoma have been reported in patients treated with adalimumab (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Autoantibodies
+
+<div style=\"page-break-after: always\"></div>
 
 Patients had serum samples tested for autoantibodies at multiple time points in rheumatoid arthritis studies I - V. In these trials, 11.9% of patients treated with adalimumab and 8.1% of placebo and active control - treated patients that had negative baseline anti -nuclear antibody titres reported positive titres at week 24. Two patients out of 3 441 treated with adalimumab in all rheumatoid arthritis and psoriatic arthritis studies developed clinical signs suggestive of new-onset lupus-like syndrome. The patients improved following discontinuation of therapy. No patients developed lupus nephritis or central nervous system symptoms.
 
@@ -3253,7 +3245,7 @@ In controlled trials of adalimumab (initial doses of 160 mg at week 0 and 80 mg 
 
 In controlled trials of adalimumab (initial doses of 80 mg at week 0 followed by 40 mg every other week starting at week 1) in adult patients with uveitis up to 80 weeks with a median exposure of 166.5 days and 105.0 days in adalimumab-treated and control-treated patients, respectively, ALT elevations ≥ 3 x ULN occurred in 2.4% of adalimumab-treated patients and 2.4% of control-treated patients.
 
-In the controlled Phase 3 trial of adalimumab in patients with paediatric ulcerative colitis (N=93) which evaluated efficacy and safety of a maintenance dose of 0.6 mg/kg (maximum of 40 mg) every other week (N=31) and a maintenance dose of 0.6 mg/kg (maximum of 40 mg) every week (N=32), following body weight adjusted induction dosing of 2.4 mg/kg (maximum of 160 mg) at week 0 and week 1, and 1.2 mg/kg (maximum of 80 mg) at week 2 (N=63), or an induction dose of 2.4 mg/kg (maximum of 160 mg) at week 0, placebo at week 1, and 1.2 mg/kg (maximum of 80 mg) at week 2 (N=30), ALT elevations ≥ 3 x ULN occurred in 1.1% (1/93) of patients.
+In the controlled Phase 3 trial of adalimumab in patients with paediatric ulcerative colitis (N=93) which evaluated efficacy and safety of a maintenance dose of 0.6 mg/kg (maximum of 40 mg) every other week (N=31) and a maintenance dose of 0.6 mg/kg (maximum of 40 mg) every week (N=32), following body weight adjusted induction dosing of 2.4 mg/kg (maximum of 160 mg) at week 0 and week 1, and 1.2 mg/kg (maximum of 80 mg) at week 2 (N=63), or an induction dose of 2.4 mg/kg (maximum of 160 mg) at week 0, placebo at week 1, and 1.2 mg/kg (maximum of 80 mg) at week 2 (N=30), ALT elev ations ≥ 3 x ULN occurred in 1.1% (1/93) of patients.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3311,13 +3303,9 @@ RA study IV primarily assessed safety in 636 patients with moderately to severel
 
 RA study V evaluated 799 methotrexate-naïve, adult patients with moderate to severely active early rheumatoid arthritis (mean disease duration less than 9 months). This study evaluated the efficacy of adalimumab 40 mg every other week/methotrexate combination therapy, adalimumab 40 mg every other week monotherapy and methotrexate monotherapy in reducing the signs and symptoms and rate of progression of joint damage in rheumatoid arthritis for 104 weeks. Upon completion of the first 104  w e e k s , 497 patients enrolled in an open-label extension phase in which 40 mg of adalimumab was  administered every other week up to 10 years.
 
-The primary end point in RA studies I, II and III and the secondary endpoint in RA study IV was the percent of patients who achieved an American College of Rheumatology (ACR 20) response at week 24 or 26. The primary endpoint in RA study V was the percent of patients who achieved an ACR 50 response at week 52. RA studies III and V had an additional primary endpoint at 52 weeks of retardation of disease progression (as detected by X-ray results). RA study III also had a primary endpoint of changes in quality of life.
-
-## ACR response
+The primary end point in RA studies I, II and III and the secondary endpoint in RA study IV was the percent of patients who achieved an American College of Rheumatology (ACR 20) response at week 24 or 26. The primary endpoint in RA study V was the percent of patients who achieved an ACR 50 response at week 52. RA studies III and V had an additional primary endpoint at 52 weeks of retardation of disease progression (as detected by X-ray results). RA study III also had a primary endpoint of changes in quality of life. ACR response The percent of adalimumab-treated patients achieving ACR 20, 50 and 70 responses was consistent across RA studies I, II and III. The results for the 40 mg every other week dose are summarised in table 8.
 
 <div style=\"page-break-after: always\"></div>
-
-The percent of adalimumab-treated patients achieving ACR 20, 50 and 70 responses was consistent across RA studies I, II and III. The results for the 40 mg every other week dose are summarised in table 8.
 
 Table 8: ACR responses in placebo-controlled trials (percent of patients)
 
@@ -3331,7 +3319,9 @@ Table 8: ACR responses in placebo-controlled trials (percent of patients)
 | ACR 70 6 months | 3.3%                | 23.8%                     | 1.8%               | 12.4%              | 2.5%                 | 20.8%                      |
 | 12 months       | NA                  | NA                        | NA                 | NA                 | 4.5%                 | 23.2%                      |
 
-a RA study I at 24 weeks, RA study II at 26 weeks , and RA study III at 24 and 52 weeks b 40 mg adalimumab administered every other week
+a RA study I at 24 weeks, RA study II at 26 weeks , and RA study III at 24 and 52 weeks
+
+b 40 mg adalimumab administered every other week
 
 c MTX = methotrexate
 
@@ -3380,12 +3370,16 @@ Table 10: Radiographic mean changes over 12 months in RA study III
 |                   |   Placebo/ MTX a |   Adalimumab /MTX 40 mg every other week | Placebo/MTX- adalimumab /MTX (95% Confidence Interval b )   | p-value   |
 |-------------------|------------------|------------------------------------------|-------------------------------------------------------------|-----------|
 | Total Sharp Score |              2.7 |                                      0.1 | 2.6 (1.4, 3.8)                                              | < 0.001 c |
-| Erosion score     |              1.6 |                                      0   | 1.6 (0.9, 2.2)                                              | < 0.001   |
-| JSN d score       |              1   |                                      0.1 | 0.9 (0.3, 1.4)                                              | 0.002     |
+| Erosion score     |              1.6 |                                      0.0 | 1.6 (0.9, 2.2)                                              | < 0.001   |
+| JSN d score       |              1.0 |                                      0.1 | 0.9 (0.3, 1.4)                                              | 0.002     |
 
-a methotrexate b 95% confidence intervals for the differences in change scores between methotrexate and adalimumab.
+a methotrexate
 
-c Based on rank analysis d Joint space narrowing
+b 95% confidence intervals for the differences in change scores between methotrexate and adalimumab.
+
+c Based on rank analysis
+
+d Joint space narrowing
 
 In RA study V, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (see table 11).
 
@@ -3393,13 +3387,15 @@ Table 11: Radiographic mean changes at week 52 in RA study V
 
 |                   | MTX n=257 (95% confidence interval)   | Adalimumab n=274 (95% confidence interval)   | Adalimumab /MTX n=268 (95% confidence interval)   | p- value a   |   p- value b | p- value c   |
 |-------------------|---------------------------------------|----------------------------------------------|---------------------------------------------------|--------------|--------------|--------------|
-| Total Sharp Score | 5.7 (4.2-7.3)                         | 3.0 (1.7-4.3)                                | 1.3 (0.5-2.1)                                     | < 0.001      |       0.002  | < 0.001      |
+| Total Sharp Score | 5.7 (4.2-7.3)                         | 3.0 (1.7-4.3)                                | 1.3 (0.5-2.1)                                     | < 0.001      |       0.0020 | < 0.001      |
 | Erosion score     | 3.7 (2.7-4.7)                         | 1.7 (1.0-2.4)                                | 0.8 (0.4-1.2)                                     | < 0.001      |       0.0082 | < 0.001      |
 | JSN score         | 2.0 (1.2-2.8)                         | 1.3 (0.5-2.1)                                | 0.5 (0-1.0)                                       | < 0.001      |       0.0037 | 0.151        |
 
 a p-value is from the pairwise comparison of methotrexate monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test.
 
-b p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test c p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
+b p-value is from the pairwise comparison of adalimumab monotherapy and adalimumab/methotrexate combination therapy using the Mann-Whitney U test
+
+c p-value is from the pairwise comparison of adalimumab monotherapy and methotrexate monotherapy using the Mann-Whitney U test
 
 Following 52 weeks and 104 weeks of treatment, the percentage of patients without progression (change from baseline in modified Total Sharp Score ≤ 0.5) was significantly higher with adalimumab /methotrexate combination therapy (63.8% and 61.2% respectively) compared to methotrexate monotherapy (37.4% and 33.5% respectively, p &lt; 0.001) and adalimumab monotherapy (50.7%, p &lt; 0.002 and 44.5%, p &lt; 0.001 respectively).
 
@@ -3407,11 +3403,9 @@ In the open-label extension of RA study V, the mean change from baseline at year
 
 ## Quality of life and physical function
 
-Health-related quality of life and physical function were assessed using the disability index of the Health Assessment Questionnaire (HAQ) in the four original adequate and well-controlled trials, which was a pre-specified primary endpoint at week 52 in RA study III. All doses/schedules of adalimumab in all four studies showed statistically significantly greater improvement in the disability index of the HAQ from baseline to month 6 compared to placebo and in RA study III the same was seen at week 52. Results from the Short Form Health Survey (SF 36) for all doses/schedules of
+Health-related quality of life and physical function were assessed using the disability index of the Health Assessment Questionnaire (HAQ) in the four original adequate and well-controlled trials, which was a pre-specified primary endpoint at week 52 in RA study III. All doses/schedules of adalimumab in all four studies showed statistically significantly greater improvement in the disability index of the HAQ from baseline to month 6 compared to placebo and in RA study III the same was seen at week 52. Results from the Short Form Health Survey (SF 36) for all doses/schedules of adalimumab in all four studies support these findings, with statistically significant physical component summary (PCS) scores, as well as statistically significant pain and vitality domain scores for the 40 mg every other week dose. A statistically significant decrease in fatigue as measured by functional assessment of chronic illness therapy (FACIT) scores was seen in all three studies in which it was assessed (RA studies I, III, IV).
 
 <div style=\"page-break-after: always\"></div>
-
-adalimumab in all four studies support these findings, with statistically significant physical component summary (PCS) scores, as well as statistically significant pain and vitality domain scores for the 40 mg every other week dose. A statistically significant decrease in fatigue as measured by functional assessment of chronic illness therapy (FACIT) scores was seen in all three studies in which it was assessed (RA studies I, III, IV).
 
 In RA study III, most subjects who achieved improvement in physical function and continued treatment maintained improvement through week 520 (120 months) of open-label treatment. Improvement in quality of life was measured up to week 156 (36 months) and improvement was maintained through that time.
 
@@ -3466,11 +3460,9 @@ The safety and efficacy of adalimumab were assessed in two randomized, double-bl
 
 In Study nr-axSpA I, adalimumab 40 mg every other week was assessed in 185 patients in a randomised, 12 week double - blind, placebo - controlled study in patients with active nr-axSpA (mean baseline score of disease activity [Bath Ankylosing Spondylitis Disease Activity Index (BASDAI)] was 6.4 for patients treated with adalimumab and 6.5 for those on placebo) who have had an inadequate response to or intolerance to ≥ 1 NSAIDs, or a contraindication for NSAIDs.
 
-Thirty-three (18%) patients were treated concomitantly with disease modifying anti-rheumatic drugs, and 146 (79%) patients with NSAIDs at baseline. The double-blind period was followed by an openlabel period during which patients receive adalimumab 40 mg every other week subcutaneously for up
+Thirty-three (18%) patients were treated concomitantly with disease modifying anti-rheumatic drugs, and 146 (79%) patients with NSAIDs at baseline. The double-blind period was followed by an openlabel period during which patients receive adalimumab 40 mg every other week subcutaneously for up to an additional 144 weeks. week 12 results showed statistically significant improvement of the signs and symptoms of active nr-axSpA in patients treated with adalimumab compared to placebo (table 13).
 
 <div style=\"page-break-after: always\"></div>
-
-to an additional 144 weeks. week 12 results showed statistically significant improvement of the signs and symptoms of active nr-axSpA in patients treated with adalimumab compared to placebo (table 13).
 
 Table 13: Efficacy response in placebo-controlled study nr-axSpA I
 
@@ -3499,11 +3491,9 @@ Health-related quality of life and physical function were assessed using the HAQ
 
 ## Study nr-axSpA II
 
-673 patients with active nr-axSpA (mean baseline disease activity [BASDAI] was 7.0) who had an inadequate response to ≥ 2 NSAIDs, or an intolerance to or a contraindication for NSAIDs enrolled into the open-label period of study nr-axSpA II during which they received adalimumab 40 mg eow for 28 weeks. These patients also had objective evidence of inflammation in the sacroiliac joints or
+673 patients with active nr-axSpA (mean baseline disease activity [BASDAI] was 7.0) who had an inadequate response to ≥ 2 NSAIDs, or an intolerance to or a contraindication for NSAIDs enrolled into the open-label period of study nr-axSpA II during which they received adalimumab 40 mg eow for 28 weeks. These patients also had objective evidence of inflammation in the sacroiliac joints or spine on MRI or elevated hs-CRP. Patients who achieved sustained remission for at least 12 weeks (N=305) (ASDAS &lt; 1.3 at weeks 16, 20, 24, and 28) during the open-label period were then randomized to receive either continued treatment with adalimumab 40 mg eow (N=152) or placebo (N=153) for an additional 40 weeks in a double-blind, placebo-controlled period (total study duration 68 weeks). Subjects who flared during the double-blind period were allowed adalimumab 40 mg eow rescue therapy for at least 12 weeks.
 
 <div style=\"page-break-after: always\"></div>
-
-spine on MRI or elevated hs-CRP. Patients who achieved sustained remission for at least 12 weeks (N=305) (ASDAS &lt; 1.3 at weeks 16, 20, 24, and 28) during the open-label period were then randomized to receive either continued treatment with adalimumab 40 mg eow (N=152) or placebo (N=153) for an additional 40 weeks in a double-blind, placebo-controlled period (total study duration 68 weeks). Subjects who flared during the double-blind period were allowed adalimumab 40 mg eow rescue therapy for at least 12 weeks.
 
 The primary efficacy endpoint was the proportion of patients with no flare by week 68 of the study. Flare was defined as ASDAS ≥ 2.1 at two consecutive visits four weeks apart. A greater proportion of patients on adalimumab had no disease flare during the double-blind period, when compared with those on placebo (70.4% vs. 47.1%, p&lt;0.001) (figure 1).
 
@@ -3529,9 +3519,13 @@ Table 14: Efficacy response in placebo-controlled period for study nr-axSpA II
 | ASDAS c inactive disease           | 33.3%           | 57.2%***           |
 | Partial flare d                    | 64.1%           | 40.8%***           |
 
-a Assessment of spondyloarthritis international society b Baseline is defined as open label baseline when patients have active disease.
+a Assessment of spondyloarthritis international society
 
-c Ankylosing spondylitis disease activity score d Partial flare is defined as ASDAS ≥ 1.3 but &lt; 2.1 at 2 consecutive visits.
+b Baseline is defined as open label baseline when patients have active disease.
+
+c Ankylosing spondylitis disease activity score
+
+d Partial flare is defined as ASDAS ≥ 1.3 but &lt; 2.1 at 2 consecutive visits.
 
 ***, ** Statistically significant at p &lt; 0.001 and &lt; 0.01, respectively, for all comparisons between adalimumab and placebo.
 
@@ -3566,11 +3560,9 @@ ACR responses in PsA study I were similar with and without concomitant methotrex
 
 ACR responses were maintained in the open-label extension study for up to 136 weeks.
 
-Radiographic changes were assessed in the psoriatic arthritis studies. Radiographs of hands, wrists, and feet were obtained at baseline and week 24 during the double-blind period when patients were on
+Radiographic changes were assessed in the psoriatic arthritis studies. Radiographs of hands, wrists, and feet were obtained at baseline and week 24 during the double-blind period when patients were on adalimumab or placebo and at week 48 when all patients were on open-label adalimumab. A modified Total Sharp Score (mTSS), which included distal interphalangeal joints (i.e. not identical to the TSS used for rheumatoid arthritis), was used.
 
 <div style=\"page-break-after: always\"></div>
-
-adalimumab or placebo and at week 48 when all patients were on open-label adalimumab. A modified Total Sharp Score (mTSS), which included distal interphalangeal joints (i.e. not identical to the TSS used for rheumatoid arthritis), was used.
 
 Adalimumab treatment reduced the rate of progression of peripheral joint damage compared with placebo treatment as measured by change from baseline in mTSS (mean ± SD) 0.8 ± 2.5 in the placebo group (at week 24) compared with 0.0 ± 1.9; (p&lt; 0.001) in the adalimumab group (at week 48).
 
@@ -3582,7 +3574,7 @@ The safety and efficacy of adalimumab were studied in adult patients with chroni
 
 Psoriasis study I (REVEAL) evaluated 1,212 patients within three treatment periods. In period A, patients received placebo or adalimumab at an initial dose of 80 mg followed by 40 mg every other week starting one week after the initial dose. After 16 weeks of therapy, patients who achieved at least a PASI 75 response (PASI score improvement of at least 75% relative to baseline), entered period B and received open-label 40 mg adalimumab every other week . Patients who maintained ≥PASI 75 response at week 33 and were originally randomised to active therapy in Period A, were rerandomised in period C to receive 40 mg adalimumab every other week or placebo for an additional 19 weeks. Across all treatment groups, the mean baseline PASI score was 18.9 and the baseline Physician's Global Assessment (PGA) score ranged from 'moderate' (53% of subjects included) to 'severe' (41%) to 'very severe' (6%).
 
-Psoriasis study II (CHAMPION) compared the efficacy and safety of adalimumab versus methotrexate and placebo in 271 patients. Patients received placebo, an initial dose of MTX 7.5 mg and thereafter dose increases up to week 12, with a maximum dose of 25 mg or an initial dose of 80 mg adalimumab followed by 40 mg every other week (starting one week after the initial dose) for 16 weeks. There are no data available comparing adalimumab and MTX beyond 16 weeks of therapy. Patients receiving MTX who achieved a ≥ PASI 50 response at week 8 and/or 12 did not receive further dose increases. Across all treatment groups, the mean baseline PASI score was 19.7 and the baseline PGA score ranged from 'mild' (&lt;1%) to 'moderate' (48%) to 'severe' (46%) to 'very severe' (6%).
+Psoriasis study II (CHAMPION) compared the efficacy and safety of adalimumab versus methotrexate and placebo in 271 patients. Patients received placebo, an initial dose of MTX 7.5 mg and thereafter dose increases up to week 12, with a maximum dose of 25 mg or an initial dose of 80 mg adalimumab followed by 40 mg every other week (starting one week after the initial dose) for 16 weeks. There are no data available comparing adalimumab and MTX beyond 16 weeks of therapy. Patients receiving MTX who achieved a ≥PASI 50 response at week 8 and/or 12 did not receive further dose increases. Across all treatment groups, the mean baseline PASI score was 19.7 and the baseline PGA score ranged from 'mild' (&lt;1%) to 'moderate' (48%) to 'severe' (46%) to 'very severe' (6%).
 
 Patients participating in all Phase 2 and Phase 3 psoriasis studies were eligible to enrol into an openlabel extension trial, where adalimumab was given for at least an additional 108 weeks.
 
@@ -3622,11 +3614,9 @@ A total of 233 PASI 75 responders at week 16 and week 33 received continuous ada
 
 A total of 347 stable responders participated in a withdrawal and retreatment evaluation in an openlabel extension study. During the withdrawal period, symptoms of psoriasis returned over time with a median time to relapse (decline to PGA 'moderate' or worse) of approximately 5 months. None of these patients experienced rebound during the withdrawal period. A total of 76.5% (218/285) of patients who entered the retreatment period had a response of PGA 'clear' or 'minimal' after 16 weeks of retreatment, irrespective of whether they relapsed during withdrawal (69.1%[123/178] and 88.8% [95/107] for patients who relapsed and who did not relapse during the withdrawal period, respectively). A similar safety profile was observed during retreatment as before withdrawal.
 
-Significant improvements at week 16 from baseline compared to placebo (studies I and II) and MTX (Study II) were demonstrated in the DLQI (Dermatology Life Quality Index). In study I,
+Significant improvements at week 16 from baseline compared to placebo (studies I and II) and MTX (Study II) were demonstrated in the DLQI (Dermatology Life Quality Index). In study I, improvements in the physical and mental component summary scores of the SF-36 were also significant compared to placebo.
 
 <div style=\"page-break-after: always\"></div>
-
-improvements in the physical and mental component summary scores of the SF-36 were also significant compared to placebo.
 
 In an open-label extension study, for patients who dose escalated from 40 mg every other week to 40 mg weekly due to a PASI response below 50%, 26.4% (92/349) and 37.8% (132/349) of patients achieved PASI 75 response at week 12 and 24, respectively.
 
@@ -3671,7 +3661,9 @@ Table 19: Efficacy results at 12 weeks, HS studies I and II
 | Hidradenitis suppurativa clinical response (HiSCR) a | N = 154 40 (26.0%) | N = 153 64 (41.8%) *    | N=163 45 (27.6%) | N=163 96 (58.9%) ***    |
 | ≥30% Reduction in skin pain b                        | N = 109 27 (24.8%) | N = 122 34 (27.9%)      | N=111 23 (20.7%) | N=105 48 (45.7%) ***    |
 
-* P &lt; 0.05, *** P &lt; 0.001, adalimumab versus placebo a Among all randomised patients.
+* P &lt; 0.05, *** P &lt; 0.001, adalimumab versus placebo
+
+a Among all randomised patients.
 
 b Among patients with baseline HSrelated skin pain assessment ≥ 3, based on numeric rating scale  0 - 10; 0 = no skin pain, 10 = skin pain as bad as you can imagine.
 
@@ -3861,7 +3853,7 @@ Note: P# = Placebo (number of events/number at risk); A# = adalimumab (number of
 
 In study UV I statistically significant differences in favour of adalimumab versus placebo were observed for each component of treatment failure. In study UV II, statistically significant differences were observed for visual acuity only, but the other components were numerically in favour of adalimumab.
 
-Of the 424 subjects included in the uncontrolled long-term extension of studies UV I and UV II, 60 subjects were regarded ineligible (e.g. due to deviations or due to complications secondary to diabetic retinopathy, due to cataract surgery or vitrectomy) and were excluded from the primary analysis of efficacy. Of the 364 remaining patients, 269 evaluable patients (74%) reached 78 weeks of open-label adalimumab treatment. Based on the observed data approach, 216 (80.3%) were in quiescence (no active inflamma tory lesions, AC cell grade ≤ 0.5+, VH grade ≤ 0.5+) with a concomitant steroid dose ≤ 7.5 mg per day, and 178 (66.2%) were in steroid-free quiescence. BCVA was either improved or maintained (&lt; 5 letters deterioration) in 88.6% of the eyes at week 78. Data beyond week 78 were generally consistent with these results but the number of enrolled subjects declined after this time. Overall, among the patients who discontinued the study, 18% discontinued due to adverse events, and 8% due to insufficient response to adalimumab treatment.
+Of the 424 subjects included in the uncontrolled long-term extension of studies UV I and UV II, 60 subjects were regarded ineligible (e.g. due to deviations or due to complications secondary to diabetic retinopathy, due to cataract surgery or vitrectomy) and were excluded from the primary analysis of efficacy. Of the 364 remaining patients, 269 evaluable patients (74%) reached 78 weeks of open-label adalimumab treatment. Based on the observed data approach, 216 (80.3%) were in quiescence (no active inflammatory lesions, AC cell grade ≤ 0.5+, VH grade ≤ 0.5+) with a concomitant steroid dose ≤ 7.5 mg per day, and 178 (66.2%) were in steroid-free quiescence. BCVA was either improved or maintained (&lt; 5 letters deterioration) in 88.6% of the eyes at week 78. Data beyond week 78 were generally consistent with these results but the number of enrolled subjects declined after this time. Overall, among the patients who discontinued the study, 18% discontinued due to adverse events, and 8% due to insufficient response to adalimumab treatment.
 
 ## Quality of life
 
@@ -3881,7 +3873,7 @@ The safety and efficacy of adalimumab was assessed in two studies (pJIA I and II
 
 ## pJIA I
 
-The safety and efficacy of adalimumab were assessed in a multicentre, randomised, double-blind, parallel-group study in 171 children (4-17 years old) with polyarticular JIA. In the open-label lead in phase (OL LI) patients were stratified into two groups, MTX (methotrexate)-treated or non-MTXtreated. Patients who were in the non-MTX stratum were either naïve to or had been withdrawn from MTX at least two weeks prior to study adalimumab administration. Patients remained on stable doses of NSAIDs and or pred nisone (≤ 0.2 mg /kg/day or 10 mg/day maximum). In the OL LI phase all patients received 24 mg/m 2 up to a maximum of 40 mg adalimumab every other week for 16 weeks. The distribution of patients by age and minimum, median and maximum dose received during the OL LI phase is presented in table 25.
+The safety and efficacy of adalimumab were assessed in a multicentre, randomised, double-blind, parallel-group study in 171 children (4-17 years old) with polyarticular JIA. In the open-label lead in phase (OL LI) patients were stratified into two groups, MTX (methotrexate)-treated or non-MTXtreated. Patients who were in the non-MTX stratum were either naïve to or had been withdrawn from MTX at least two weeks prior to study adalimumab administration. Patients remained on stable doses of NSAIDs and or prednisone (≤ 0.2 mg /kg/day or 10 mg/day maximum). In the OL LI phase all patients received 24 mg/m 2 up to a maximum of 40 mg adalimumab every other week for 16 weeks. The distribution of patients by age and minimum, median and maximum dose received during the OL LI phase is presented in table 25.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3897,7 +3889,7 @@ Patients demonstrating a Paediatric ACR 30 response at week 16 were eligible to 
 
 Table 26: Ped ACR 30 responses in the JIA study
 
-| Stratum                                       | MTX                      | MTX                    | WithoutMTX          | WithoutMTX        |
+| Stratum                                       | MTX                      | MTX                    | Without MTX         | Without MTX       |
 |-----------------------------------------------|--------------------------|------------------------|---------------------|-------------------|
 | Phase                                         |                          |                        |                     |                   |
 | OL-LI 16 weeks                                |                          |                        |                     |                   |
@@ -3977,14 +3969,14 @@ Clinical remission and clinical response (defined as reduction in PCDAI score of
 
 Table 29: Paediatric CD study PCDAI clinical remission and response
 
-|                    | Standard dose 40/20 mg eow N = 93   | Low dose 20/10 mg eow N = 95   | p value*   |
+|                    | Standard dose 40/20 mg eow N = 93   | Low dose 20/10 mg eow N = 95   |   p value* |
 |--------------------|-------------------------------------|--------------------------------|------------|
 | Week 26            |                                     |                                |            |
-| Clinical remission | 38.7%                               | 28.4%                          | 0.075      |
-| Clinical response  | 59.1%                               | 48.4%                          | 0.073      |
+| Clinical remission | 38.7%                               | 28.4%                          |      0.075 |
+| Clinical response  | 59.1%                               | 48.4%                          |      0.073 |
 | Week 52            |                                     |                                |            |
-| Clinical remission | 33.3%                               | 23.2%                          | 0.100      |
-| Clinical response  | 41.9%                               | 28.4%                          | 0.038      |
+| Clinical remission | 33.3%                               | 23.2%                          |      0.100 |
+| Clinical response  | 41.9%                               | 28.4%                          |      0.038 |
 
 * p value for standard dose versus low dose comparison.
 
@@ -3992,20 +3984,22 @@ Table 29: Paediatric CD study PCDAI clinical remission and response
 
 Table 30: Paediatric CD study discontinuation of corticosteroids or immunomodulators and fistula remission
 
-|                                       | Standard dose 40/20 mg eow   | Low dose 20/10 mg eow   | p value 1   |
+|                                       | Standard dose 40/20 mg eow   | Low dose 20/10 mg eow   |   p value 1 |
 |---------------------------------------|------------------------------|-------------------------|-------------|
 | Discontinued corticosteroids          | N= 33                        | N=38                    |             |
-| Week 26                               | 84.8%                        | 65.8%                   | 0.066       |
-| Week 52                               | 69.7%                        | 60.5%                   | 0.420       |
+| Week 26                               | 84.8%                        | 65.8%                   |       0.066 |
+| Week 52                               | 69.7%                        | 60.5%                   |       0.420 |
 | Discontinuation of immunomodulators 2 | N=60                         | N=57                    |             |
-| Week 52                               | 30.0%                        | 29.8%                   | 0.983       |
+| Week 52                               | 30.0%                        | 29.8%                   |       0.983 |
 | Fistula remission 3                   | N=15                         | N=21                    |             |
-| Week 26                               | 46.7%                        | 38.1%                   | 0.608       |
-| Week 52                               | 40.0%                        | 23.8%                   | 0.303       |
+| Week 26                               | 46.7%                        | 38.1%                   |       0.608 |
+| Week 52                               | 40.0%                        | 23.8%                   |       0.303 |
 
 1 p value for standard dose versus low dose comparison.
 
-2 Immunosuppressant therapy could only be discontinued at or after week 26 at the investigator's discretion if the subject met the clinical response criterion
+2 Immunosuppressant therapy could only be discontinued at or after week 26 at the investigator's
+
+discretion if the subject met the clinical response criterion
 
 3 defined as a closure of all fistulas that were draining at baseline for at least 2 consecutive postbaseline visits
 
@@ -4055,7 +4049,9 @@ Table 32: Efficacy results at 52 weeks
 
 <div style=\"page-break-after: always\"></div>
 
-b Adalimumab 0.6 mg/kg (maximum of 40 mg) every week c In patients receiving concomitant corticosteroids at baseline
+b Adalimumab 0.6 mg/kg (maximum of 40 mg) every week
+
+c In patients receiving concomitant corticosteroids at baseline
 
 Note: Patients with missing values at week 52 or who were randomized to receive re-induction or maintenance treatment were considered non-responders for week 52 endpoints
 
@@ -4097,11 +4093,9 @@ Clinically meaningful increases (improvement) from baseline in height velocity w
 
 ## Paediatric uveitis
 
-The safety and efficacy of adalimumab was assessed in a randomized, double-masked, controlled study of 90 paediatric patients from 2 to &lt; 18 years of age with active JIA-associated noninfectious anterior uveitis who were refractory to at least 12 weeks of methotrexate treatment. Patients received
+The safety and efficacy of adalimumab was assessed in a randomized, double-masked, controlled study of 90 paediatric patients from 2 to &lt; 18 years of age with active JIA-associated noninfectious anterior uveitis who were refractory to at least 12 weeks of methotrexate treatment. Patients received either placebo or 20 mg adalimumab (if &lt; 30 kg) or 40 mg adalimumab (if ≥ 30 kg) every other week in combination with their baseline dose of methotrexate.
 
 <div style=\"page-break-after: always\"></div>
-
-either placebo or 20 mg adalimumab (if &lt; 30 kg) or 40 mg adalimumab (if ≥ 30 kg) every other week in combination with their baseline dose of methotrexate.
 
 The primary endpoint was 'time to treatment failure'. The criteria determining treatment failure were worsening or sustained non-improvement in ocular inflammation, partial improvement with development of sustained ocular co-morbidities or worsening of ocular co-morbidities, non-permitted use of concomitant medicinal products, and suspension of treatment for an extended period of time.
 
@@ -4119,11 +4113,9 @@ Note: P = Placebo (Number at Risk); H = adalimumab (Number at Risk).
 
 ## Absorption and distribution
 
-After subcutaneous administration of a single 40 mg dose, absorption and distribution of adalimumab was slow, with peak serum concentrations being reached about 5 days after administration. The average absolute bioavailability of adalimumab estimated from three studies following a single 40 mg
+After subcutaneous administration of a single 40 mg dose, absorption and distribution of adalimumab was slow, with peak serum concentrations being reached about 5 days after administration. The average absolute bioavailability of adalimumab estimated from three studies following a single 40 mg subcutaneous dose was 64%. After single intravenous doses ranging from 0.25 to 10 mg/kg, concentrations were dose proportional. After doses of 0.5 mg/kg (~40 mg), clearances ranged from 11 to 15 ml/hour, the distribution volume (Vss) ranged from 5 to 6 litres and the mean terminal phase half-life was approximately two weeks. Adalimumab concentrations in the synovial fluid from several rheumatoid arthritis patients ranged from 31-96% of those in serum.
 
 <div style=\"page-break-after: always\"></div>
-
-subcutaneous dose was 64%. After single intravenous doses ranging from 0.25 to 10 mg/kg, concentrations were dose proportional. After doses of 0.5 mg/kg (~40 mg), clearances ranged from 11 to 15 ml/hour, the distribution volume (Vss) ranged from 5 to 6 litres and the mean terminal phase half-life was approximately two weeks. Adalimumab concentrations in the synovial fluid from several rheumatoid arthritis patients ranged from 31-96% of those in serum.
 
 Following subcutaneous administration of 40 mg of adalimumab every other week in adult rheumatoid arthritis (RA) patients the mean steady-state trough concentrations were approximately 5 μg /ml (without concomitant methotrexate) and 8 to 9 μ g/ml (with concomitant methotrexate), respectively. The serum adalimumab trough levels at steady-state increased roughly proportionally with dose following 20, 40 and 80 mg subcutaneous dosing every other week and every week.
 
@@ -4205,11 +4197,9 @@ A single Hulio pre-filled syringe or pre-filled pen may be stored at temperature
 
 ## 6.5 Nature and contents of container
 
-Hulio 40 mg solution for injection in pre-filled syringe
+Hulio 40 mg solution for injection in pre-filled syringe Hulio 40 mg solution for injection in single-use pre-filled syringe with an automatic needle guard. The syringe is made from cyclo olefin polymer plastic with a stopper (chlorobutyl  rubber) and a needle (stainless steel) with a needle cap (butyl /diene blend polymer and polypropylene).
 
 <div style=\"page-break-after: always\"></div>
-
-Hulio 40 mg solution for injection in single-use pre-filled syringe with an automatic needle guard. The syringe is made from cyclo olefin polymer plastic with a stopper (chlorobutyl  rubber) and a needle (stainless steel) with a needle cap (butyl /diene blend polymer and polypropylene).
 
 ```
 Pack sizes of: · 1 pre-filled syringe (with 2 alcohol pads) · 2 pre-filled syringes (with 2 alcohol pads) · 4 pre-filled syringes (with 4 alcohol pads) · 6 pre-filled syringes (with 6 alcohol pads) · 1 pre-filled syringe · 2 pre-filled syringes · 4 pre-filled syringes · 6 pre-filled syringes
@@ -4315,9 +4305,11 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being
 
 <div style=\"page-break-after: always\"></div>
+
+reached.
 
 ## · Additional risk minimisation measures
 
@@ -4664,8 +4656,8 @@ Hulio 40 mg/0.8 ml
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -4733,7 +4725,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -4781,16 +4773,17 @@ Hulio 40 mg/0.8 ml
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| VIAL LABEL                                                         |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+| VIAL LABEL   |
+|--------------|
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
@@ -4927,8 +4920,8 @@ Hulio 40 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -5066,42 +5059,36 @@ Hulio 40 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
-|--------------------------------------------------------------|
-| LABEL PRE-FILLED PEN                                         |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## LABEL PRE-FILLED PEN
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Hulio 40 mg injection adalimumab Subcutaneous use SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+## 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 0.8 ml
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 Biosimilar Collaborations Ireland Limited
 
@@ -5295,13 +5282,15 @@ Hulio can be taken together with methotrexate or certain disease-modifying anti-
 
 Hulio may have a minor influence on your child's ability to drive, cycle or use machines. Room spinning sensation (vertigo) and vision disturbances may occur after taking Hulio.
 
-## Hulio contains sodium and sorbitol
+## Hulio contains sodium,sorbitol and polysorbate 80
 
 <div style=\"page-break-after: always\"></div>
 
 Each Hulio pre-filled syringe contains 19.1 mg of sorbitol. Sorbitol is a source of fructose. If your child's doctor has told you that your child has an intolerance to some sugars or if your child has been diagnosed with hereditary fructose intolerance (HFI), a rare genetic disorder in which a person cannot break down fructose, talk to your child's doctor before you give your child this medicine.
 
-Also this medicine contains less than 1 mmol of sodium (23 mg) per pre-filled syringe, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol of sodium (23 mg) per pre-filled syringe, that is to say essentially 'sodium-free'.
+
+This medicinal product contains 0.4 mg of polysorbate 80 in each 20 mg pre-filled syringe which is equivalent to 1.0 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How to use Hulio
 
@@ -5311,17 +5300,25 @@ Always use this medicine exactly as your child's doctor or pharmacist has instru
 
 Children and adolescents from 2 to 17 years of age weighing 10 kg to less than 30 kg: The recommended dose of Hulio is 20 mg every other week.
 
-Children and adolescents from 2 to 17 years of age weighing 30 kg or more: The recommended dose of Hulio is 40 mg every other week.
+## Children and adolescents from 2 to 17 years of age weighing 30 kg or more:
+
+The recommended dose of Hulio is 40 mg every other week.
 
 ## Children and adolescents with enthesitis-related arthritis
 
-Children and adolescents from 6 to 17 years of age weighing 15 kg to less than 30 kg: The recommended dose of Hulio is 20 mg every other week.
+## Children and adolescents from 6 to 17 years of age weighing 15 kg to less than 30 kg:
 
-Children and adolescents from 6 to 17 years of age weighing 30 kg or more: The recommended dose of Hulio is 40 mg every other week.
+The recommended dose of Hulio is 20 mg every other week.
+
+## Children and adolescents from 6 to 17 years of age weighing 30 kg or more:
+
+The recommended dose of Hulio is 40 mg every other week.
 
 ## Children or adolescents with paediatric plaque psoriasis
 
-Children and adolescents from 4 to 17 years of age weighing 15 kg to less than 30 kg: The recommended dose of Hulio is an initial dose of 20 mg, followed by 20 mg one week later, Thereafter the usual dose is 20 mg every other week.
+## Children and adolescents from 4 to 17 years of age weighing 15 kg to less than 30 kg:
+
+The recommended dose of Hulio is an initial dose of 20 mg, followed by 20 mg one week later, Thereafter the usual dose is 20 mg every other week.
 
 ## Children and adolescents from 4 to 17 years of age weighing 30 kg or more:
 
@@ -5337,9 +5334,9 @@ Thereafter, the usual dose is 20 mg every other week. If this dose does not work
 
 ## Children and adolescents from 6 to 17 years of age weighing 40 kg or more:
 
-The usual dose regimen is 80 mg initially (as four 20 mg injections in one day), followed by 40 mg two weeks later. If a faster response is required, your child's doctor may prescribe an initial dose of 160 mg (as eight 20 mg injections in one day or four 20 mg injections per day for two consecutive days) followed by 80 mg (as four 20 mg injections in one day) two weeks later.
-
 <div style=\"page-break-after: always\"></div>
+
+The usual dose regimen is 80 mg initially (as four 20 mg injections in one day), followed by 40 mg two weeks later. If a faster response is required, your child's doctor may prescribe an initial dose of 160 mg (as eight 20 mg injections in one day or four 20 mg injections per day for two consecutive days) followed by 80 mg (as four 20 mg injections in one day) two weeks later.
 
 Thereafter, the usual dose is 40 mg every other week. If this dose does not work well enough, your child's doctor may increase the dose to 40 mg every week or 80 mg every other week.
 
@@ -5377,6 +5374,8 @@ The decision to stop using Hulio should be discussed with your child's doctor. Y
 
 If you have any further questions on the use of this medicine, ask your child's doctor or pharmacist.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
@@ -5384,8 +5383,6 @@ Like all medicines, this medicine can cause side effects, although not everybody
 Most side effects are mild to moderate. However, some may be serious and require urgent medical treatment.
 
 Side effects may occur up to 4 months or more after the last Hulio injection.
-
-<div style=\"page-break-after: always\"></div>
 
 Seek medical attention urgently if your child develops any of the following signs of allergic reaction or heart failure:
 
@@ -5413,7 +5410,7 @@ Very common (may affect more than 1 in 10 people):
 - rash;
 - pain in bone and muscles.
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
 - serious infections (including blood poisoning and influenza);
 - intestinal infections (including gastroenteritis);
@@ -5432,6 +5429,9 @@ Very common (may affect more than 1 in 10 people):
 - anxiety;
 - difficulty sleeping;
 - sensation disorders such as tingling, prickling or numbness;
+
+<div style=\"page-break-after: always\"></div>
+
 - migraine;
 - nerve root compression (including low back pain and leg pain)
 - vision disturbances;
@@ -5441,9 +5441,6 @@ Very common (may affect more than 1 in 10 people):
 - high blood pressure;
 - skin flushing;
 - haematoma (collection of blood outside of blood vessels);
-
-<div style=\"page-break-after: always\"></div>
-
 - cough;
 - asthma;
 - shortness of breath;
@@ -5488,6 +5485,9 @@ Very common (may affect more than 1 in 10 people):
 - heart attack;
 - a sac in the wall of a major artery, inflammation and clot of a vein, blockage of a blood vessel;
 - lung diseases causing shortness of breath (including inflammation);
+
+<div style=\"page-break-after: always\"></div>
+
 - pulmonary embolism (blockage in an artery of the lung);
 - excessive fluid around the lung;
 - inflammation of the pancreas;
@@ -5497,16 +5497,13 @@ Very common (may affect more than 1 in 10 people):
 - fatty liver (build up of fat in liver cells);
 - night sweats;
 - scarring;
-
-<div style=\"page-break-after: always\"></div>
-
 - abnormal muscle breakdown;
 - systemic lupus erythematosus (including inflammation of skin, heart, lung, joints and other organ systems);
 - sleep interruptions;
 - impotence;
 - inflammations.
 
-Rare (may affect up to 1 in 1,000 people):
+## Rare (may affect up to 1 in 1,000 people):
 
 - leukaemia (cancer affecting the blood and bone marrow);
 - severe allergic reaction with shock;
@@ -5526,7 +5523,7 @@ Rare (may affect up to 1 in 1,000 people):
 - angioedema (localized swelling of the skin);
 - lichenoid skin reaction (itchy reddish-purple skin rash).
 
-Not known (frequency cannot be estimated from the available data):
+## Not known (frequency cannot be estimated from the available data):
 
 - hepatosplenic T-cell lymphoma (a rare blood cancer);
 - Merkel cell carcinoma (a type of skin cancer);
@@ -5539,6 +5536,8 @@ Not known (frequency cannot be estimated from the available data):
 
 If your child gets any side effects, talk to your child's doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. How to store Hulio
 
 Keep this medicine out of the sight and reach of children.
@@ -5549,9 +5548,7 @@ Store in a refrigerator (2 ° C - 8 ° C). Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
-
-## Alternative storage:
+Alternative storage:
 
 When needed (for example, when you are travelling), a single Hulio pre-filled syringe may be stored at room temperature (up to 25°C) for a maximum period of 8 weeks - be sure to protect it from light. Once removed from the refrigerator for room temperature storage, the syringe must be used within 8 weeks or discarded , even if it is returned to the refrigerator.
 
@@ -5564,9 +5561,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Hulio contains
 
 - -The active substance is adalimumab.
-- -The other ingredients are monosodium glutamate, sorbitol, methionine, polysorbate 80, hydrochloric acid and water for injections (see section 2 - 'Hulio contains sodium and sorbitol')
-
-.
+- -The other ingredients are monosodium glutamate, sorbitol, methionine, polysorbate 80, hydrochloric acid and water for injections (see section 2 - 'Hulio contains sodium,  sorbitol and polysorbate 80') .
 
 ## What Hulio looks like and contents of the pack
 
@@ -5582,9 +5577,7 @@ Biosimilar Collaborations Ireland Limited Unit 35/36  Grange Parade, Baldoyle In
 
 ## Manufacturer
 
-Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5636,10 +5629,6 @@ Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
 
 Biocon Biologics Finland OY Sími: +345 800 4316
 
-## Italia
-
-Biocon Biologics Spain S.L. Tel: 0080008250910
-
 ## Lietuva
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
@@ -5686,13 +5675,17 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Slovenská republika
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics Germany GmbH
 
-## Suomi/Finland
-
-Biocon Biologics Finland OY Puh/Tel: 99980008250910
+Tel: 0080008250910
 
 <div style=\"page-break-after: always\"></div>
+
+## Italia
+
+Biocon Biologics Spain S.L.
+
+Tel: 0080008250910
 
 ## Κύπρος
 
@@ -5745,9 +5738,12 @@ The pre-filled syringes should be stored in the fridge (between 2°C to 8°C).
 
 - Take a single pre-filled syringe out of the fridge at least 30 minutes before you intend to use it to allow the contents to reach room temperature.
 - o DO NOT use other heat sources such as a microwave oven or hot water to warm the syringe.
-- o DO NOT put the syringe back in the fridge after it has reached room temperature.
-- Check the expiry date printed on the syringe.
-- o DO NOT use the syringe if past the expiry date.
+
+## Suomi/Finland
+
+Biocon Biologics Finland OY
+
+Puh/Tel: 99980008250910
 
 ## Sverige
 
@@ -5757,6 +5753,9 @@ Tel: 0080008250910
 
 <div style=\"page-break-after: always\"></div>
 
+- o DO NOT put the syringe back in the fridge after it has reached room temperature.
+- Check the expiry date printed on the syringe.
+- o DO NOT use the syringe if past the expiry date.
 - Check syringe to make sure the medication is at or near the Fill Marker (you may need to shake gently to see the liquid), and the liquid is clear, colourless and has no particles.
 - o DO NOT use the syringe if the medication is not near the Fill Marker.
 - o DO NOT use the syringe if the liquid is cloudy, discoloured, or has particles in it.
@@ -5767,13 +5766,11 @@ Tel: 0080008250910
 
 Follow the below steps carefully each time you inject Hulio pre-filled syringe:
 
-## Step 1 - Choose and prepare injection site
-
-Abdomen or Thighs
+Step 1 - Choose and prepare injection site
 
 <!-- image -->
 
-Hulio pre-filled syringe is for subcutaneous injection. It should be injected into the thigh or abdomen.
+Abdomen or Thighs Hulio pre-filled syringe is for subcutaneous injection. It should be injected into the thigh or abdomen.
 
 You should rotate and change the injection site each time, staying at least 3 cm from the previous site used.
 
@@ -5799,8 +5796,6 @@ Wipe the skin at the chosen injection site with an alcohol swab.
 
 Pull the needle cover straight off the syringe. A few drops of liquid may come out of the needle, this is normal. It is also normal to see air bubble(s).
 
-- DO NOT remove the needle cover until you are ready to inject.
-
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
@@ -5819,6 +5814,7 @@ Step 7 - Inject Hulio
 
 <!-- image -->
 
+- DO NOT remove the needle cover until you are ready to inject.
 - DO NOT twist or bend the needle cover while removing it, this may damage the needle.
 - DO NOT touch or pull back on the plunger at any time.
 - DO NOT re-cap or touch the needle with your fingers, or let the needle touch anything.
@@ -5866,7 +5862,9 @@ Check with your healthcare provider for instructions on how to properly dispose 
 
 ## Package leaflet: Information for the patient
 
-## Hulio 40 mg/0.8 ml solution for injection adalimumab
+## Hulio 40 mg/0.8 ml solution for injection
+
+## adalimumab
 
 ## Read all of this leaflet carefully before giving your child this medicine because it contains important information for him/her.
 
@@ -5908,11 +5906,9 @@ The target of adalimumab is another protein called tumour necrosis factor (TNFα
 
 Polyarticular juvenile idiopathic arthritis and enthesitis-related arthritis are inflammatory diseases of the joints that usually first appear in childhood.
 
-Hulio is used to treat polyarticular juvenile idiopathic arthritis in children and adolescents aged 2 to 17 years, and enthesitis-related arthritis in children and adolescents aged 6 to 17 years. Your child may
+Hulio is used to treat polyarticular juvenile idiopathic arthritis in children and adolescents aged 2 to 17 years, and enthesitis-related arthritis in children and adolescents aged 6 to 17 years. Your child may first be given other disease-modifying medicines, such as methotrexate. If these medicines do not work well enough, your child will be given Hulio to treat his/her polyarticular juvenile idiopathic arthritis or enthesitis-related arthritis.
 
 <div style=\"page-break-after: always\"></div>
-
-first be given other disease-modifying medicines, such as methotrexate. If these medicines do not work well enough, your child will be given Hulio to treat his/her polyarticular juvenile idiopathic arthritis or enthesitis-related arthritis.
 
 ## Paediatric Crohn's disease
 
@@ -6041,13 +6037,15 @@ Hulio can be taken together with methotrexate or certain disease-modifying anti-
 
 Hulio may have a minor influence on your child's ability to drive, cycle or use machines. Room spinning sensation (vertigo) and vision disturbances may occur after taking Hulio.
 
-## Hulio contains sodium and sorbitol
+## Hulio contains sodium,sorbitol and polysorbate 80
 
 Each Hulio vial contains 38.2 mg of sorbitol. Sorbitol is a source of fructose. If your child's doctor has told you that your child has an intolerance to some sugars or if your child has been diagnosed with hereditary fructose intolerance (HFI), a rare genetic disorder in which a person cannot break down fructose, talk to your child's doctor before you give your child this medicine.
 
 <div style=\"page-break-after: always\"></div>
 
-Also this medicine contains less than 1 mmol of sodium (23 mg) per vial, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol of sodium (23 mg) per vial, that is to say essentially 'sodiumfree'.
+
+This medicinal product contains 0.8 mg of polysorbate 80 in each 40 mg vial which is equivalent to 1.0 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How to use Hulio
 
@@ -6055,15 +6053,23 @@ Always use this medicine exactly as your child's doctor or pharmacist has instru
 
 ## Children and adolescents with polyarticular juvenile idiopathic arthritis
 
-Children and adolescents from 2 to 17 years of age weighing 10 kg to less than 30 kg: The recommended dose of Hulio is 20 mg every other week.
+## Children and adolescents from 2 to 17 years of age weighing 10 kg to less than 30 kg:
 
-Children and adolescents from 2 to 17 years of age weighing 30 kg or more: The recommended dose of Hulio is 40 mg every other week.
+The recommended dose of Hulio is 20 mg every other week.
+
+## Children and adolescents from 2 to 17 years of age weighing 30 kg or more:
+
+The recommended dose of Hulio is 40 mg every other week.
 
 ## Children and adolescents with enthesitis-related arthritis
 
-Children and adolescents from 6 to 17 years of age weighing 15 kg to less than 30 kg: The recommended dose of Hulio is 20 mg every other week.
+## Children and adolescents from 6 to 17 years of age weighing 15 kg to less than 30 kg:
 
-Children and adolescents from 6 to 17 years of age weighing 30 kg or more: The recommended dose of Hulio is 40 mg every other week.
+The recommended dose of Hulio is 20 mg every other week.
+
+## Children and adolescents from 6 to 17 years of age weighing 30 kg or more:
+
+The recommended dose of Hulio is 40 mg every other week.
 
 ## Children and adolescents with Crohn's disease
 
@@ -6081,17 +6087,17 @@ Thereafter, the usual dose is 40 mg every other week. If this dose does not work
 
 ## Children or adolescents with plaque psoriasis
 
-## Children and adolescents from 4 to 17 years of age weighing 15 kg to less than 30 kg:
-
-The recommended dose of Hulio is an initial dose of 20 mg, followed by 20 mg one week later, Thereafter the usual dose is 20 mg every other week.
+Children and adolescents from 4 to 17 years of age weighing 15 kg to less than 30 kg: The recommended dose of Hulio is an initial dose of 20 mg, followed by 20 mg one week later, Thereafter the usual dose is 20 mg every other week.
 
 ## Children and adolescents from 4 to 17 years of age weighing 30 kg or more:
 
-The recommended dose of Hulio is an initial dose of 40 mg, followed by 40 mg one week later, Thereafter the usual dose is 40 mg every other week.
-
 <div style=\"page-break-after: always\"></div>
 
-## Adolescents with hidradenitis suppurativa (from 12 to 17 years of age, weighing at least 30 kg)
+## The recommended dose of Hulio is an initial dose of 40 mg, followed by 40 mg one week later,
+
+Thereafter the usual dose is 40 mg every other week.
+
+Adolescents with hidradenitis suppurativa (from 12 to 17 years of age, weighing at least 30 kg)
 
 The recommended dose of Hulio is an initial dose of 80 mg (as two 40 mg injections in one day), followed by 40 mg every other week starting one week later. If this dose does not work well enough, then your child's doctor may increase this to 40 mg every week or 80 mg every other week.
 
@@ -6245,10 +6251,10 @@ Common (may affect up to 1 in 10 people):
 - neurological infections (including viral meningitis);
 - eye infections;
 - bacterial infections;
+- diverticulitis (inflammation and infection of the large intestine);
 
 <div style=\"page-break-after: always\"></div>
 
-- diverticulitis (inflammation and infection of the large intestine);
 - melanoma;
 - lymphoma (cancer of the lymph system );
 - immune disorders that could affect the lungs, skin and lymph nodes (most commonly as a condition called sarcoidosis);
@@ -6299,10 +6305,10 @@ Common (may affect up to 1 in 10 people):
 - Merkel cell carcinoma (a type of skin cancer);
 - Kaposi's sarcoma, a rare cancer related to infection with human herpes virus 8. Kaposi's sarcoma most commonly appears as purple lesions on the skin;
 - liver failure;
+- worsening skin rash with muscle weakness;
 
 <div style=\"page-break-after: always\"></div>
 
-- worsening skin rash with muscle weakness;
 - weight gain (for most patients, the weight gain was small).
 
 ## Reporting of side effects
@@ -6328,7 +6334,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Hulio contains
 
 - -The active substance is adalimumab
-- -The other ingredients are monosodium glutamate, sorbitol, methionine, polysorbate 80, hydrochloric acid and water for injections (see section 2 - 'Hulio contains sodium and sorbitol').
+- -The other ingredients are monosodium glutamate, sorbitol, methionine, polysorbate 80, hydrochloric acid and water for injections (see section 2 - 'Hulio contains sodium,  sorbitol and polysorbate 80') .
 
 ## What Hulio looks like and contents of the pack
 
@@ -6342,13 +6348,11 @@ Hulio is also available as a pre-filled syringe or a pre-filled pen.
 
 Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13DUBLIN Ireland D13 R20R
 
-<div style=\"page-break-after: always\"></div>
-
 ## Manufacturer
 
-Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
+Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+<div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien
 
@@ -6376,11 +6380,7 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Ελλάδα
 
-Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι . Κ . Ε
-
-Τηλ:
-
-0080008250910
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι . Κ . Ε Τηλ: 0080008250910
 
 ## España
 
@@ -6393,6 +6393,10 @@ Biocon Biologics France S.A.S Tél: +Teél: 0080008250910
 ## Hrvatska
 
 Biocon Biologics Germany GmbH Tel: 0080008250910
+
+## Ireland
+
+Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
 
 ## Lietuva
 
@@ -6420,9 +6424,7 @@ Biocon Biologics Finland OY Tlf: +47 800 62 671
 
 ## Österreich
 
-Biocon Biologics Germany GmbH
-
-Tel: 0080008250910
+Biocon Biologics Germany GmbH Tel: 0080008250910
 
 ## Polska
 
@@ -6430,23 +6432,15 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Portugal
 
-Biocon Biologics Spain S.L.
-
-Tel: 0080008250910
+Biocon Biologics Spain S.L. Tel: 0080008250910
 
 ## România
 
-Biosimilar Collaborations Ireland Limited
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
-Tel: 0080008250910
+## Slovenija
 
-<div style=\"page-break-after: always\"></div>
-
-## Ireland
-
-Biosimilar Collaborations Ireland Limited
-
-Tel: 1800 777 794
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Ísland
 
@@ -6454,11 +6448,23 @@ Biocon Biologics Finland OY
 
 Sími: +345 800 4316
 
+## Slovenská republika
+
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
+
 ## Italia
 
 Biocon Biologics Spain S.L.
 
 Tel: 0080008250910
+
+## Suomi/Finland
+
+Biocon Biologics Finland OY
+
+Puh/Tel: 99980008250910
 
 ## Κύπρος
 
@@ -6466,11 +6472,19 @@ Biosimilar Collaborations Ireland Limited
 
 Τηλ: 0080008250910
 
+## Sverige
+
+Biocon Biologics Finland OY
+
+Tel: 0080008250910
+
 ## Latvija
 
 Biosimilar Collaborations Ireland Limited
 
 Tel: 0080008250910
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -6501,38 +6515,12 @@ Find a quiet area with a well-lit, clean and flat work surface and gather all th
 ## Supplies you will need:
 
 - 1 box of Hulio vial for paediatric use
-
 - 1 sharps disposal container (not included in Hulio pack)
-
-## Slovenija
-
-Biosimilar Collaborations Ireland Limited
-
-Tel: 0080008250910
-
-## Slovenská republika
-
-Biocon Biologics Germany GmbH
-
-Tel: 0080008250910
-
-## Suomi/Finland
-
-Biocon Biologics Finland OY
-
-Puh/Tel: 99980008250910
-
-## Sverige
-
-Biocon Biologics Finland OY
-
-Tel: 0080008250910
-
-<div style=\"page-break-after: always\"></div>
-
 - 1 gauze pad or cotton ball (not included in Hulio pack)
 
 If you do not have all the supplies you need, ask your nurse or pharmacist.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Preparing the Hulio injection
 
@@ -6989,19 +6977,21 @@ Hulio can be taken together with methotrexate or certain disease-modifying anti-
 
 Hulio may have a minor influence on your ability to drive, cycle or use machines. Room spinning sensation (vertigo) and vision disturbances may occur after taking Hulio.
 
-## Hulio contains sodium and sorbitol
+## Hulio contains sodium,sorbitol and polysorbate 80
 
 Each Hulio pre-filled syringe contains 38.2 mg of sorbitol. Sorbitol is a source of fructose. If your doctor has told you that you (or your child) have an intolerance to some sugars or if you have been diagnosed with hereditary fructose intolerance (HFI), a rare genetic disorder in which a person cannot break down fructose, talk to your doctor before you (or your child) take or receive this medicine.
 
-Also this medicine contains less than 1 mmol of sodium (23 mg) per pre-filled syringe, that is to say essentially 'sodium-free'.
-
-## 3. How to use Hulio
+This medicine contains less than 1 mmol of sodium (23 mg) per pre-filled syringe, that is to say essentially 'sodium-free'.
 
 <div style=\"page-break-after: always\"></div>
 
+This medicinal product contains 0.8 mg of polysorbate 80 in each 40 mg pre-filled syringe which is equivalent to 1.0 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+## 3. How to use Hulio
+
 Always use this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure. Your doctor may prescribe another strength of Hulio if you need a different dose.
 
-## Adults with rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis or axial spondyloarthritis without radiographic evidence of ankylosing spondylitis
+Adults with rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis or axial spondyloarthritis without radiographic evidence of ankylosing spondylitis
 
 The usual dose for adults with these conditions is 40 mg adalimumab given every two weeks as a single dose.
 
@@ -7011,23 +7001,15 @@ If you have rheumatoid arthritis and you do not receive methotrexate with your H
 
 ## Children and adolescents with polyarticular juvenile idiopathic arthritis
 
-## Children and adolescents from 2 to 17 years of age weighing 10 kg to less than 30 kg:
+Children and adolescents from 2 to 17 years of age weighing 10 kg to less than 30 kg: The recommended dose of Hulio is 20 mg every other week.
 
-The recommended dose of Hulio is 20 mg every other week.
-
-## Children and adolescents from 2 to 17 years of age weighing 30 kg or more:
-
-The recommended dose of Hulio is 40 mg every other week.
+Children and adolescents from 2 to 17 years of age weighing 30 kg or more: The recommended dose of Hulio is 40 mg every other week.
 
 ## Children and adolescents with enthesitis-related arthritis
 
-## Children and adolescents from 6 to 17 years of age weighing 15 kg to less than 30 kg:
+Children and adolescents from 6 to 17 years of age weighing 15 kg to less than 30 kg: The recommended dose of Hulio is 20 mg every other week.
 
-The recommended dose of Hulio is 20 mg every other week.
-
-## Children and adolescents from 6 to 17 years of age weighing 30 kg or more:
-
-The recommended dose of Hulio is 40 mg every other week.
+Children and adolescents from 6 to 17 years of age weighing 30 kg or more: The recommended dose of Hulio is 40 mg every other week.
 
 ## Adults with psoriasis
 
@@ -7035,19 +7017,15 @@ The usual dose for adults with psoriasis is an initial dose of 80 mg (as two 40 
 
 ## Children or adolescents with plaque psoriasis
 
-## Children and adolescents from 4 to 17 years of age weighing 15 kg to less than 30 kg:
+Children and adolescents from 4 to 17 years of age weighing 15 kg to less than 30 kg: The recommended dose of Hulio is an initial dose of 20 mg, followed by 20 mg one week later, Thereafter the usual dose is 20 mg every other week.
 
-The recommended dose of Hulio is an initial dose of 20 mg, followed by 20 mg one week later, Thereafter the usual dose is 20 mg every other week.
+Children and adolescents from 4 to 17 years of age weighing 30 kg or more: The recommended dose of Hulio is an initial dose of 40 mg, followed by 40 mg one week later, Thereafter the usual dose is 40 mg every other week.
 
-## Children and adolescents from 4 to 17 years of age weighing 30 kg or more:
-
-The recommended dose of Hulio is an initial dose of 40 mg, followed by 40 mg one week later, Thereafter the usual dose is 40 mg every other week.
+<div style=\"page-break-after: always\"></div>
 
 ## Adults with hidradenitis suppurativa
 
 The usual dose regimen for hidradenitis suppurativa is an initial dose of 160 mg (as four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by an 80 mg dose (as two 40 mg injections on the same day) two weeks later. After two further weeks, continue with a dose of 40 mg every week or 80 mg every other week, as prescribed by your doctor.
-
-<div style=\"page-break-after: always\"></div>
 
 It is recommended that you use an antiseptic wash daily on the affected areas.
 
@@ -7081,15 +7059,15 @@ Patients requiring a dose less than 40 mg should use the 20 mg solution for inje
 
 The usual Hulio dose for adults with ulcerative colitis is 160 mg initially (given as four 40 mg injections in one day, or as two 40 mg injections per day for two consecutive days) followed by 80 mg (as two 40 mg injections in one day) two weeks later, and then 40 mg every other week. If this dose does not work well enough, your doctor may increase the dose frequency to 40 mg every week or 80 mg every other week.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Children or adolescent with ulcerative colitis
 
 ## Children and adolescents from 6 years of age weighing less than 40 kg
 
 The usual dose of Hulio is 80 mg (as two 40 mg injections in one day) initially followed by 40 mg (as one 40 mg injection) two weeks later. Thereafter, the usual dose is 40 mg every other week.
 
-Patients who turn 18 years of age while on 40 mg every other week, should continue their prescribed dose.
-
-<div style=\"page-break-after: always\"></div>
+## Patients who turn 18 years of age while on 40 mg every other week, should continue their prescribed dose.
 
 ## Children and adolescents from 6 years of age weighing 40 kg or more
 
@@ -7129,6 +7107,8 @@ Detailed instructions on how to inject Hulio are provided in Instructions for us
 
 If you accidentally inject Hulio more frequently than you should, call your doctor or pharmacist and explain that you have taken more than required. Always take the outer carton of the medicine with you, even if it is empty.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you forget to use Hulio
 
 If you forget to give yourself an injection, you should inject the next dose of Hulio as soon as you remember. Then take your next dose as you would have on your originally scheduled day, had you not forgotten a dose.
@@ -7136,8 +7116,6 @@ If you forget to give yourself an injection, you should inject the next dose of 
 ## If you stop using Hulio
 
 The decision to stop using Hulio should be discussed with your doctor. Your symptoms may return upon stopping treatment.
-
-<div style=\"page-break-after: always\"></div>
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
@@ -7182,6 +7160,9 @@ Common (may affect up to 1 in 10 people):
 - serious infections (including blood poisoning and influenza);
 - intestinal infections (including gastroenteritis);
 - skin infections (including cellulitis and shingles);
+
+<div style=\"page-break-after: always\"></div>
+
 - ear infections;
 - oral infections (including tooth infections and cold sores);
 - reproductive tract infections;
@@ -7191,9 +7172,6 @@ Common (may affect up to 1 in 10 people):
 - benign tumours;
 - skin cancer;
 - mild allergic reactions (including seasonal allergy);
-
-<div style=\"page-break-after: always\"></div>
-
 - dehydration;
 - mood swings (including depression);
 - anxiety;
@@ -7239,6 +7217,9 @@ Common (may affect up to 1 in 10 people):
 - bacterial infections;
 - diverticulitis (inflammation and infection of the large intestine);
 - melanoma;
+
+<div style=\"page-break-after: always\"></div>
+
 - lymphoma (cancer of the lymph system);
 - immune disorders that could affect the lungs, skin and lymph nodes (most commonly as a condition called sarcoidosis);
 - vasculitis (inflammation of blood vessels);
@@ -7247,9 +7228,6 @@ Common (may affect up to 1 in 10 people):
 - stroke;
 - hearing loss, buzzing;
 - irregular heart beat;
-
-<div style=\"page-break-after: always\"></div>
-
 - lung diseases causing shortness of breath (including inflammation);
 - pulmonary embolism (blockage in an artery of the lung);
 - excessive fluid around the lung;
@@ -7294,13 +7272,13 @@ Common (may affect up to 1 in 10 people):
 - worsening skin rash with muscle weakness;
 - weight gain (for most patients, the weight gain was small).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet.
 
 You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Hulio
 
@@ -7325,7 +7303,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Hulio contains
 
 - -The active substance is adalimumab.
-- -The other ingredients are monosodium glutamate, sorbitol, methionine, polysorbate 80, hydrochloric acid and water for injections (see section 2 - 'Hulio contains sodium and sorbitol').
+- -The other ingredients are monosodium glutamate, sorbitol, methionine, polysorbate 80, hydrochloric acid and water for injections (see section 2 - 'Hulio contains sodium,  sorbitol and polysorbate 80') .
 
 ## What Hulio looks like and contents of the pack
 
@@ -7337,17 +7315,15 @@ Not all pack sizes may be marketed.
 
 Hulio is also available as a vial for paediatric use or a pre-filled pen.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Marketing Authorisation Holder
 
 Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13DUBLIN Ireland D13 R20R
 
 ## Manufacturer
 
-Biosimilar Collaborations Ireland Limited
-
-<div style=\"page-break-after: always\"></div>
-
-Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
+Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -7357,7 +7333,11 @@ Biocon Biologics Belgium BV Tél/Tel: 0080008250910
 
 ## България
 
-Biosimilar Collaborations Ireland Limited Teл.: 0080008250910
+Biosimilar Collaborations Ireland Limited
+
+Teл.:
+
+0080008250910
 
 ## Česká republika
 
@@ -7381,19 +7361,9 @@ Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι . Κ . Ε Τηλ: 008000825091
 
 ## España
 
-Biocon Biologics Spain S.L. Tel: 0080008250910
+Biocon Biologics Spain S.L.
 
-## France
-
-Biocon Biologics France S.A.S Tél: +Teél: 0080008250910
-
-## Hrvatska
-
-Biocon Biologics Germany GmbH Tel: 0080008250910
-
-## Ireland
-
-Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
+Tel: 0080008250910
 
 ## Lietuva
 
@@ -7409,7 +7379,9 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Malta
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
 
 ## Nederland
 
@@ -7417,27 +7389,59 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Norge
 
-Biocon Biologics Finland OY Tlf: +47 800 62 671
+Biocon Biologics Finland OY
+
+Tlf: +47 800 62 671
 
 ## Österreich
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
 
 ## Polska
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
+
+<div style=\"page-break-after: always\"></div>
+
+## France
 
 ## Portugal
 
-Biocon Biologics Spain S.L. Tel: 0080008250910
+Biocon Biologics France S.A.S
+
+Tél: +Teél: 0080008250910
+
+Biocon Biologics Spain S.L.
+
+Tel: 0080008250910
+
+## Hrvatska
+
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
 
 ## România
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
+
+## Ireland
+
+Biosimilar Collaborations Ireland Limited
+
+Tel: 1800 777 794
 
 ## Slovenija
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
 
 ## Ísland
 
@@ -7481,8 +7485,6 @@ Biosimilar Collaborations Ireland Limited
 
 Tel: 0080008250910
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other sources of information
@@ -7503,6 +7505,8 @@ Do not mix the Hulio solution with any other medicine.
 
 To help you remember which day(s) of the week Hulio should be injected, it may be helpful to make a note on a calendar or in a diary.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Before you start
 
 Find a quiet area with a well-lit, clean and flat work surface and gather all the supplies you will need to give yourself or receive the injection.
@@ -7517,8 +7521,6 @@ Find a quiet area with a well-lit, clean and flat work surface and gather all th
 If you do not have all the supplies you need, ask your nurse or pharmacist.
 
 ## Preparing the pre-filled syringe
-
-<div style=\"page-break-after: always\"></div>
 
 The pre-filled syringes should be stored in the fridge (between 2°C to 8°C).
 
@@ -7537,11 +7539,13 @@ The pre-filled syringes should be stored in the fridge (between 2°C to 8°C).
 
 Follow the below steps carefully each time you inject Hulio pre-filled syringe:
 
-Step 1 - Choose and prepare injection site
+<div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+## Step 1 - Choose and prepare injection site
 
 Abdomen or Thighs
+
+<!-- image -->
 
 Hulio pre-filled syringe is for subcutaneous injection. It should be injected into the thigh or abdomen.
 
@@ -7567,8 +7571,6 @@ Wipe the skin at the chosen injection site with an alcohol swab.
 
 ## Step 4 - Uncap needle
 
-<div style=\"page-break-after: always\"></div>
-
 <!-- image -->
 
 Step 5 - Squeeze and hold injection site
@@ -7576,12 +7578,6 @@ Step 5 - Squeeze and hold injection site
 <!-- image -->
 
 Step 6 - Insert needle into site
-
-<!-- image -->
-
-Step 7 - Inject Hulio
-
-<!-- image -->
 
 <!-- image -->
 
@@ -7600,22 +7596,13 @@ At a 45° angle to the injection site, use a quick dart-like motion to insert th
 
 Be careful to insert the needle so that it will not inject into your fingers holding the injection site.
 
-After the needle is completely inserted, let go of the site you are squeezing.
-
-Slowly push the plunger completely down until all the medicine is injected and the syringe is empty.
-
-- If the plunger is not pressed all the way the safety feature will not activate afterwards to cover the needle.
-- DO NOT move, twist, or rotate the syringe during injection.
-
-Step 8 - End of injection, remove syringe
-
-Pull the syringe away from the injection site at the same angle as inserted and release your thumb from the plunger.
-
-Each pre-filled syringe has a safety feature, this will retract and cover the needle after the plunger is released. If the needle did not retract, carefully place the used syringe into a sharps container to avoid injury.
-
-After injection, if slight bleeding occurs from the injection site, press a gauze pad or cotton ball lightly
-
 <div style=\"page-break-after: always\"></div>
+
+## Step 7 - Inject Hulio
+
+<!-- image -->
+
+<!-- image -->
 
 ## Step 9 - Dispose syringe and cap
 
@@ -7631,7 +7618,20 @@ Check with your healthcare provider for instructions on how to properly dispose 
 
 <!-- image -->
 
-against the skin for a few seconds - DO NOT rub the injection site. If needed, cover the injection site with a plaster.
+After the needle is completely inserted, let go of the site you are squeezing.
+
+Slowly push the plunger completely down until all the medicine is injected and the syringe is empty.
+
+- If the plunger is not pressed all the way the safety feature will not activate afterwards to cover the needle.
+- DO NOT move, twist, or rotate the syringe during injection.
+
+Step 8 - End of injection, remove syringe
+
+Pull the syringe away from the injection site at the same angle as inserted and release your thumb from the plunger.
+
+Each pre-filled syringe has a safety feature, this will retract and cover the needle after the plunger is released. If the needle did not retract, carefully place the used syringe into a sharps container to avoid injury.
+
+After injection, if slight bleeding occurs from the injection site, press a gauze pad or cotton ball lightly against the skin for a few seconds - DO NOT rub the injection site. If needed, cover the injection site with a plaster.
 
 ## Package leaflet: Information for the patient
 
@@ -7857,13 +7857,15 @@ Hulio can be taken together with methotrexate or certain disease-modifying anti-
 
 Hulio may have a minor influence on your ability to drive, cycle or use machines. Room spinning sensation (vertigo) and vision disturbances may occur after taking Hulio.
 
-## Hulio contains sodium and sorbitol
+## Hulio contains sodium,sorbitol and polysorbate 80
 
 Each Hulio pre-filled pen contains 38.2 mg of sorbitol. Sorbitol is a source of fructose. If your doctor has told you that you (or your child) have an intolerance to some sugars or if you have been diagnosed with hereditary fructose intolerance (HFI), a rare genetic disorder in which a person cannot break down fructose, talk to your doctor before you (or your child) take or receive this medicine.
 
-Also this medicine contains less than 1 mmol of sodium (23 mg) per pre-filled pen, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol of sodium (23 mg) per pre-filled pen, that is to say essentially 'sodium-free'.
 
 <div style=\"page-break-after: always\"></div>
+
+This medicinal product contains 0.8 mg of polysorbate 80 in each 40 mg pre-filled pen which is equivalent to 1.0 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How to use Hulio
 
@@ -7903,11 +7905,9 @@ The recommended dose of Hulio is an initial dose of 40 mg, followed by 40 mg one
 
 ## Adults with hidradenitis suppurativa
 
-The usual dose regimen for hidradenitis suppurativa is an initial dose of 160 mg (as four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by an 80 mg dose (as two 40 mg injections on the same day) two weeks later. After two further weeks, continue with a dose of 40 mg every week or 80 mg every other week, as prescribed by your doctor.
-
 <div style=\"page-break-after: always\"></div>
 
-It is recommended that you use an antiseptic wash daily on the affected areas.
+The usual dose regimen for hidradenitis suppurativa is an initial dose of 160 mg (as four 40 mg injections in one day or two 40 mg injections per day for two consecutive days), followed by an 80 mg dose (as two 40 mg injections on the same day) two weeks later. After two further weeks, continue with a dose of 40 mg every week or 80 mg every other week, as prescribed by your doctor. It is recommended that you use an antiseptic wash daily on the affected areas.
 
 ## Adolescents with hidradenitis suppurativa from 12 years of age, weighing at least 30 kg
 
@@ -7941,15 +7941,13 @@ The usual Hulio dose for adults with ulcerative colitis is 160 mg initially (giv
 
 ## Children or adolescent with ulcerative colitis
 
-## Children and adolescents from 6 years of age weighing less than 40 kg
-
-The usual dose of Hulio is 80 mg (as two 40 mg injections in one day) initially followed by 40 mg (as one 40 mg injection) two weeks later. Thereafter, the usual dose is 40 mg every other week.
-
-Patients who turn 18 years of age while on 40 mg every other week, should continue their prescribed dose.
+Children and adolescents from 6 years of age weighing less than 40 kg The usual dose of Hulio is 80 mg (as two 40 mg injections in one day) initially followed by 40 mg (as one 40 mg injection) two weeks later. Thereafter, the usual dose is 40 mg every other week.
 
 <div style=\"page-break-after: always\"></div>
 
-## Children and adolescents from 6 years of age weighing 40 kg or more
+Patients who turn 18 years of age while on 40 mg every other week, should continue their prescribed dose.
+
+Children and adolescents from 6 years of age weighing 40 kg or more
 
 The usual dose of Hulio is 160 mg (as four 40 mg injections in one day or two 40 mg injections per day for two consecutive days) initially, followed by 80 mg (as two 40 mg injections in one day) two weeks later. Thereafter the usual dose is 80 mg every other week.
 
@@ -8183,7 +8181,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Hulio contains
 
 - -The active substance is adalimumab.
-- -The other ingredients are monosodium glutamate, sorbitol, methionine, polysorbate 80, hydrochloric acid and water for injections (see section 2 - 'Hulio contains sodium and sorbitol').
+- -The other ingredients are monosodium glutamate, sorbitol, methionine, polysorbate 80, hydrochloric acid and water for injections (see section 2 - 'Hulio contains sodium,  sorbitol and polysorbate 80') .
 
 ## What Hulio looks like and contents of the pack
 

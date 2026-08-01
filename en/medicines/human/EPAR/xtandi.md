@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xtandi.html
 document_name: xtandi.html
 version: success
-processing_time: 0.3242708
-conversion_datetime: 2026-08-01 11:33:04.003322
+processing_time: 0.1808889
+conversion_datetime: 2026-08-01 11:50:35.977298
 docling_version:
   docling-serve: 1.29.0
   docling-jobkit: 3.2.0

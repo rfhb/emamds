@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-13 16:08:00
+document_datetime: 2026-07-31 10:48:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aspaveli.html
 document_name: aspaveli.html
 version: success
-processing_time: 0.2829151
-conversion_datetime: 2026-05-16 12:16:52.907074
+processing_time: 0.1687345
+conversion_datetime: 2026-08-01 11:37:56.407015
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Aspaveli
 
@@ -61,7 +61,7 @@ Expand section
 
 Collapse section
 
-## How is Aspaveli used?
+### How is Aspaveli used?
 
 The medicine can only be obtained with a prescription. Treatment should be started under the supervision of a healthcare professional experienced in the management of blood-related or kidney disorders.
 
@@ -69,7 +69,7 @@ Aspaveli is given as an infusion under the skin of the belly, thighs, hips or up
 
 For more information about using Aspaveli, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Aspaveli work?
+### How does Aspaveli work?
 
 The active substance in Aspaveli, pegcetacoplan, is made of two synthetic peptides (short chains of amino acids) that are linked together. It attaches to the C3 complement protein, which is a part of the immune system (the body's natural defences) called the 'complement system'.
 
@@ -77,7 +77,7 @@ In people with PNH, the complement proteins are overactive and damage the patien
 
 In people with C3G and primary IC-MPGN, breakdown products of the C3 complement protein build up in the kidneys, damaging them and leading to decreased kidney function. By blocking the C3 complement protein, Aspaveli reduces the build-up of C3 breakdown products in the kidneys, thereby preventing further kidney damage.
 
-## What benefits of Aspaveli have been shown in studies?
+### What benefits of Aspaveli have been shown in studies?
 
 **Paroxysmal nocturnal haemoglobinuria (PNH)**
 
@@ -95,7 +95,7 @@ Aspaveli was shown to be more effective than placebo (a dummy treatment) at redu
 
 In a main study involving 124 adults and adolescents from 12 years of age with C3G or IC-MPGN, participants were given either Aspaveli or placebo twice a week. The main measure of effectiveness was a reduction in proteinuria (protein in the urine). As healthy kidneys keep nearly all proteins in the blood, the presence of proteins in urine indicates kidney damage. After 26 weeks of treatment, people receiving Aspaveli had an approximately 68% reduction in their urine protein levels compared with those given placebo. This effect was maintained after 1 year of treatment.
 
-## What are the risks associated with Aspaveli?
+### What are the risks associated with Aspaveli?
 
 For the full list of side effects and restrictions with Aspaveli, see the package leaflet.
 
@@ -105,7 +105,7 @@ In people with C3G or primary IC-MPGN, the most common side effects with Aspavel
 
 Based on its mechanism of action, Aspaveli may increase the risk of infections. Aspaveli must not be used in patients with an ongoing infection caused by certain bacteria, known as encapsulated bacteria, including Neisseria meningitidis, Streptococcus pneumoniae and Haemophilus influenzae. It must also not be used in patients who are not currently vaccinated against these bacteria unless they take appropriate antibiotics to reduce the risk of infection for two weeks after vaccination.
 
-## Why is Aspaveli authorised in the EU?
+### Why is Aspaveli authorised in the EU?
 
 Aspaveli is effective at increasing blood haemoglobin levels in adults with PNH who had been treated with eculizumab for at least 3 months but still had anaemia. Aspaveli is also more effective than supportive care at stabilising haemoglobin levels and controlling the breakdown of red blood cells in adults with PNH who had not been treated with complement inhibitors for at least 3 months. It also reduces the need for blood transfusions in adults with PNH. However, uncertainties related to the design of the study in patients who had not been treated with complement inhibitors for at least 3 months limited the evaluation of the benefits and risks of Aspaveli in these patients.
 
@@ -115,7 +115,7 @@ In terms of safety, although the data on safety are limited due to the small num
 
 The European Medicines Agency therefore decided that Aspaveli's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Aspaveli?
+### What measures are being taken to ensure the safe and effective use of Aspaveli?
 
 The company that markets Aspaveli will ensure that distribution of the medicine occurs only after checking that the patient has been vaccinated appropriately. The company will also provide prescribers and patients with information on the safety of the medicine and will send reminders to prescribers and pharmacists to check if any further vaccination is needed for patients taking Aspaveli. Patients will also be given a special card that explains the symptoms of certain types of infection, instructing patients to seek medical care immediately if they experience them.
 
@@ -123,7 +123,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Aspaveli are continuously monitored. Suspected side effects reported with Aspaveli are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Aspaveli
+### Other information about Aspaveli
 
 Aspaveli received a marketing authorisation valid throughout the EU on 13 December 2021.
 
@@ -137,7 +137,7 @@ English (EN) (162.65 KB - PDF)
 
 [View](/en/documents/overview/aspaveli-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-558)
+[Other languages (22)](#file-language-dropdown-106)
 
 български (BG) (191.43 KB - PDF)
 
@@ -169,7 +169,7 @@ Deutsch (DE) (167.07 KB - PDF)
 
 [View](/de/documents/overview/aspaveli-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (161.79 KB - PDF)
+eesti (ET) (161.79 KB - PDF)
 
 **First published:** 16/12/2021 **Last updated:** 26/01/2026
 
@@ -199,13 +199,13 @@ italiano (IT) (208.99 KB - PDF)
 
 [View](/it/documents/overview/aspaveli-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (206.05 KB - PDF)
+latviešu (LV) (206.05 KB - PDF)
 
 **First published:** 16/12/2021 **Last updated:** 26/01/2026
 
 [View](/lv/documents/overview/aspaveli-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (189.43 KB - PDF)
+lietuvių (LT) (189.43 KB - PDF)
 
 **First published:** 16/12/2021 **Last updated:** 26/01/2026
 
@@ -259,7 +259,7 @@ slovenščina (SL) (187.41 KB - PDF)
 
 [View](/sl/documents/overview/aspaveli-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (160.3 KB - PDF)
+suomi (FI) (160.3 KB - PDF)
 
 **First published:** 16/12/2021 **Last updated:** 26/01/2026
 
@@ -283,167 +283,168 @@ English (EN) (837.39 KB - PDF)
 
 Aspaveli : EPAR - Product information
 
-English (EN) (1.1 MB - PDF)
+English (EN) (1.12 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/en/documents/product-information/aspaveli-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-177)
+[Other languages (24)](#file-language-dropdown-363)
 
-български (BG) (1.39 MB - PDF)
+български (BG) (1.4 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/bg/documents/product-information/aspaveli-epar-product-information_bg.pdf)
 
-español (ES) (1.18 MB - PDF)
+español (ES) (1.2 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/es/documents/product-information/aspaveli-epar-product-information_es.pdf)
 
 čeština (CS) (1.33 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/cs/documents/product-information/aspaveli-epar-product-information_cs.pdf)
 
-dansk (DA) (1.16 MB - PDF)
+dansk (DA) (1.17 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/da/documents/product-information/aspaveli-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.25 MB - PDF)
+Deutsch (DE) (1.28 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/de/documents/product-information/aspaveli-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.17 MB - PDF)
+eesti (ET) (1.18 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/et/documents/product-information/aspaveli-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.35 MB - PDF)
+ελληνικά (EL) (1.36 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/el/documents/product-information/aspaveli-epar-product-information_el.pdf)
 
-français (FR) (1.2 MB - PDF)
+français (FR) (1.22 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/fr/documents/product-information/aspaveli-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.29 MB - PDF)
+hrvatski (HR) (1.27 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/hr/documents/product-information/aspaveli-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.17 MB - PDF)
-
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
-
-[View](/is/documents/product-information/aspaveli-epar-product-information_is.pdf)
-
 italiano (IT) (1.27 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/it/documents/product-information/aspaveli-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.32 MB - PDF)
+latviešu (LV) (1.33 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/lv/documents/product-information/aspaveli-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.36 MB - PDF)
+lietuvių (LT) (1.36 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/lt/documents/product-information/aspaveli-epar-product-information_lt.pdf)
 
-magyar (HU) (1.31 MB - PDF)
+magyar (HU) (1.33 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/hu/documents/product-information/aspaveli-epar-product-information_hu.pdf)
 
 Malti (MT) (1.36 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/mt/documents/product-information/aspaveli-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.15 MB - PDF)
+Nederlands (NL) (1.16 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/nl/documents/product-information/aspaveli-epar-product-information_nl.pdf)
 
-norsk (NO) (1.11 MB - PDF)
+polski (PL) (1.36 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
-
-[View](/no/documents/product-information/aspaveli-epar-product-information_no.pdf)
-
-polski (PL) (1.35 MB - PDF)
-
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/pl/documents/product-information/aspaveli-epar-product-information_pl.pdf)
 
-português (PT) (1.18 MB - PDF)
+português (PT) (1.2 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/pt/documents/product-information/aspaveli-epar-product-information_pt.pdf)
 
 română (RO) (1.35 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/ro/documents/product-information/aspaveli-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.31 MB - PDF)
+slovenčina (SK) (1.32 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/sk/documents/product-information/aspaveli-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.25 MB - PDF)
+slovenščina (SL) (1.26 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/sl/documents/product-information/aspaveli-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.2 MB - PDF)
+suomi (FI) (1.21 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/fi/documents/product-information/aspaveli-epar-product-information_fi.pdf)
 
-svenska (SV) (1.23 MB - PDF)
+svenska (SV) (1.26 MB - PDF)
 
-**First published:** 16/12/2021 **Last updated:** 26/01/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
 
 [View](/sv/documents/product-information/aspaveli-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** EMA/VR/0000333829
+Íslenska (IS) (1.18 MB - PDF)
 
-07/05/2026
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
+
+[View](/is/documents/product-information/aspaveli-epar-product-information_is.pdf)
+
+norsk (NO) (1.12 MB - PDF)
+
+**First published:** 16/12/2021 **Last updated:** 31/07/2026
+
+[View](/no/documents/product-information/aspaveli-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** R/0000326756
+
+20/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -461,7 +462,7 @@ English (EN) (17.47 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aspaveli-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-208)
+[Other languages (24)](#file-language-dropdown-510)
 
 български (BG) (54.28 KB - PDF)
 
@@ -493,7 +494,7 @@ Deutsch (DE) (23.67 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/aspaveli-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (19.33 KB - PDF)
+eesti (ET) (19.33 KB - PDF)
 
 **First published:** 16/12/2021
 
@@ -517,25 +518,19 @@ hrvatski (HR) (29.93 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/aspaveli-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (17.14 KB - PDF)
-
-**First published:** 16/12/2021
-
-[View](/is/documents/all-authorised-presentations/aspaveli-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (18.96 KB - PDF)
 
 **First published:** 16/12/2021
 
 [View](/it/documents/all-authorised-presentations/aspaveli-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (50.92 KB - PDF)
+latviešu (LV) (50.92 KB - PDF)
 
 **First published:** 16/12/2021
 
 [View](/lv/documents/all-authorised-presentations/aspaveli-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (32.99 KB - PDF)
+lietuvių (LT) (32.99 KB - PDF)
 
 **First published:** 16/12/2021
 
@@ -558,12 +553,6 @@ Nederlands (NL) (17.4 KB - PDF)
 **First published:** 16/12/2021
 
 [View](/nl/documents/all-authorised-presentations/aspaveli-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (17.95 KB - PDF)
-
-**First published:** 16/12/2021
-
-[View](/no/documents/all-authorised-presentations/aspaveli-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (53.04 KB - PDF)
 
@@ -595,7 +584,7 @@ slovenščina (SL) (34.55 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/aspaveli-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (18.12 KB - PDF)
+suomi (FI) (18.12 KB - PDF)
 
 **First published:** 16/12/2021
 
@@ -607,27 +596,30 @@ svenska (SV) (17.45 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/aspaveli-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (17.14 KB - PDF)
+
+**First published:** 16/12/2021
+
+[View](/is/documents/all-authorised-presentations/aspaveli-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (17.95 KB - PDF)
+
+**First published:** 16/12/2021
+
+[View](/no/documents/all-authorised-presentations/aspaveli-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Aspaveli
-
-Active substance
-
-pegcetacoplan
-
-International non-proprietary name (INN) or common name
-
-pegcetacoplan
-
-Therapeutic area (MeSH)
-
-Hemoglobinuria, Paroxysmal
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AJ03
+- **Name of medicine**
+    - Aspaveli
+- **Active substance**
+    - pegcetacoplan
+- **International non-proprietary name (INN) or common name**
+    - pegcetacoplan
+- **Therapeutic area (MeSH)**
+    - Hemoglobinuria, Paroxysmal
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AJ03
 
 ### Pharmacotherapeutic group
 
@@ -641,35 +633,18 @@ Aspaveli is indicated for the treatment of adult and adolescent patients aged 12
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005553
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Swedish Orphan Biovitrum AB (publ)
-
-SE-112 76 Stockholm
-
-Opinion adopted
-
-16/09/2021
-
-Marketing authorisation issued
-
-13/12/2021
-
-Revision
-
-13
+- **EMA product number**
+    - EMEA/H/C/005553
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - Swedish Orphan Biovitrum AB (publ) SE-112 76 Stockholm  Sweden
+- **Opinion adopted**
+    - 16/09/2021
+- **Marketing authorisation issued**
+    - 13/12/2021
+- **Revision**
+    - 14
 
 ## Assessment history
 
@@ -677,13 +652,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Aspaveli : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (165.91 KB - PDF)
+English (EN) (167.59 KB - PDF)
 
-**First published:** 10/11/2025 **Last updated:** 13/05/2026
+**First published:** 10/11/2025 **Last updated:** 31/07/2026
 
 [View](/en/documents/procedural-steps-after/aspaveli-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -765,7 +740,7 @@ English (EN) (129.3 KB - PDF)
 
 [View](/en/documents/smop/chmp-summary-positive-opinion-aspaveli_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Aspaveli : Orphan maintenance assessment report
 
@@ -827,7 +802,7 @@ English (EN) (1.24 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/aspaveli-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-915)
+[Other languages (24)](#file-language-dropdown-83)
 
 български (BG) (1.3 MB - DOCX)
 
@@ -859,7 +834,7 @@ Deutsch (DE) (1.27 MB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/aspaveli-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (1.29 MB - DOCX)
+eesti (ET) (1.29 MB - DOCX)
 
 **First published:** 10/11/2025
 
@@ -883,25 +858,19 @@ hrvatski (HR) (1.18 MB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/aspaveli-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (1.31 MB - DOCX)
-
-**First published:** 10/11/2025
-
-[View](/is/documents/product-information-tracked-changes/aspaveli-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (1.27 MB - DOCX)
 
 **First published:** 10/11/2025
 
 [View](/it/documents/product-information-tracked-changes/aspaveli-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (1.28 MB - DOCX)
+latviešu (LV) (1.28 MB - DOCX)
 
 **First published:** 10/11/2025
 
 [View](/lv/documents/product-information-tracked-changes/aspaveli-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (1.25 MB - DOCX)
+lietuvių (LT) (1.25 MB - DOCX)
 
 **First published:** 10/11/2025
 
@@ -924,12 +893,6 @@ Nederlands (NL) (1.27 MB - DOCX)
 **First published:** 10/11/2025
 
 [View](/nl/documents/product-information-tracked-changes/aspaveli-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (1.34 MB - DOCX)
-
-**First published:** 10/11/2025
-
-[View](/no/documents/product-information-tracked-changes/aspaveli-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (1.29 MB - DOCX)
 
@@ -961,7 +924,7 @@ slovenščina (SL) (1.28 MB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/aspaveli-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (1.77 MB - DOCX)
+suomi (FI) (1.77 MB - DOCX)
 
 **First published:** 10/11/2025
 
@@ -972,6 +935,18 @@ svenska (SV) (1.27 MB - DOCX)
 **First published:** 10/11/2025
 
 [View](/sv/documents/product-information-tracked-changes/aspaveli-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (1.31 MB - DOCX)
+
+**First published:** 10/11/2025
+
+[View](/is/documents/product-information-tracked-changes/aspaveli-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (1.34 MB - DOCX)
+
+**First published:** 10/11/2025
+
+[View](/no/documents/product-information-tracked-changes/aspaveli-epar-product-information-tracked-changes_no.docx)
 
 ## More information on Aspaveli
 
@@ -984,6 +959,6 @@ svenska (SV) (1.27 MB - DOCX)
 
 **This page was last updated on**
 
-13/05/2026
+31/07/2026
 
 ## Share this page

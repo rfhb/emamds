@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-16 12:24:09
+document_datetime: 2026-07-28 15:49:12
 document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/trodelvy-epar-product-information_en.pdf
 document_name: trodelvy-epar-product-information_en.pdf
 version: success
-processing_time: 12.289579
-conversion_datetime: 2026-07-19 12:27:22.044389
+processing_time: 13.2803661
+conversion_datetime: 2026-08-01 11:47:45.429328
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.1.0
-  docling: 2.113.0
-  docling-core: 2.87.1
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -22,19 +22,13 @@ docling_version:
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
-
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 Trodelvy 200 mg powder for concentrate for solution for infusion.
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-One vial of powder contains 200 mg sacituzumab govitecan.
-
-After reconstitution, one mL of solution contains 10 mg sacituzumab govitecan.
+One vial of powder contains 200 mg sacituzumab govitecan. After reconstitution, one mL of solution contains 10 mg sacituzumab govitecan.
 
 Sacituzumab govitecan is a Trop-2-directed antibody-drug conjugate (ADC). Sacituzumab is a humanised monoclonal antibody (hRS7 IgG1κ) that recognises Trop-2. The small molecule, SN-38, is a topoisomerase I inhibitor, which is covalently attached to the antibody by a hydrolysable linker. Approximately 7-8 molecules of SN-38 are attached to each antibody molecule.
 
@@ -42,13 +36,13 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Powder for concentrate for solution for infusion Off-white to yellowish powder.
+Powder for concentrate for solution for infusion. Off-white to yellowish powder.
 
 ## 4. CLINICAL PARTICULARS
 
 ## 4.1 Therapeutic indications
 
-Triple-Negative Breast Cancer
+## Triple-Negative Breast Cancer
 
 Trodelvy is indicated:
 
@@ -73,17 +67,17 @@ The recommended dose of sacituzumab govitecan is 10 mg/kg body weight administer
 
 Prior to each dose of sacituzumab govitecan, treatment for prevention of infusion-related reactions and prevention of chemotherapy-induced nausea and vomiting (CINV) is recommended (see section 4.4).
 
-## Prophylaxis for Neutropenia
+## Prophylaxis for neutropenia
 
 Primary prophylaxis with granulocyte colony-stimulating factor (G-CSF) should be considered starting in the first cycle in patients at increased risk of febrile neutropenia (see section 4.4).
 
 ## Dose modifications for adverse reactions
 
-Management of adverse reactions may require temporary interruption, dose reduction, or treatment discontinuation of sacituzumab govitecan. The recommended dosage reduction schedule is presented in Table 1 and the recommended dosage modifications for adverse reactions are provided in Table 2. The sacituzumab govitecan dose should not be re-escalated after a dose reduction for adverse reactions has been made.
+Management of adverse reactions may require temporary interruption, dose reduction, or treatment discontinuation of sacituzumab govitecan. The recommended dose reduction schedule is presented in Table 1 and the recommended dose modifications for adverse reactions are provided in Table 2. The sacituzumab govitecan dose should not be re-escalated after a dose reduction for adverse reactions has been made.
 
-Table 1: Dosage Reduction Schedule
+Table 1: Dose reduction schedule
 
-| Dose Reduction Schedule                | Dose Level            |
+| Dose reduction schedule                | Dose level            |
 |----------------------------------------|-----------------------|
 | Recommended starting dose              | 10 mg/kg              |
 | First dose reduction                   | Reduce to 7.5 mg/kg   |
@@ -92,15 +86,15 @@ Table 1: Dosage Reduction Schedule
 
 Table 2: Recommended dose modifications for adverse reactions
 
-| Adverse reactions          | Severity                                                                                                                      | Dose Modification                                                                                                                                                                                                                                                                                                                                                                                         |
+| Adverse reactions          | Severity                                                                                                                      | Dose modification                                                                                                                                                                                                                                                                                                                                                                                         |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Neutropenia                | • Grade 3-4 neutropenia (Absolute Neutrophil Count <1000/mm 3 ) • Grade 3-4 febrile neutropenia (ANC<1000/mm 3 )              | • Withhold treatment until resolved to ≤ Grade 1 (ANC ≥ 1500/mm3) for Day 1 dose or Grade 2 (ANC ≥ 1000/mm 3 ) for Day 8 dose (see section 4.4). • Administer G-CSF during treatment as clinically indicated. • For subsequent Grade 3-4 febrile neutropenia events or subsequent prolonged Grade 3-4 neutropenia events, reduce one dose level with each recurrence or discontinue according to Table 1. |
 | Nausea/Vomiting/ Diarrhoea | • Grade 3-4 nausea, vomiting or diarrhoea due to treatment that is not controlled with antiemetics and anti- diarrheal agents | • Withhold treatment until resolved to ≤ Grade 1 (see section 4.4). • Reduce one dose level with each occurrence or discontinue according to Table 1.                                                                                                                                                                                                                                                     |
-| Infusion-Related Reaction  | • Grade 1-3 infusion-related reactions                                                                                        | • Slow or interrupt the infusion rate of sacituzumab govitecan                                                                                                                                                                                                                                                                                                                                            |
+| Infusion-related reaction  | • Grade 1-3 infusion-related reactions                                                                                        | • Slow or interrupt the infusion rate of sacituzumab govitecan                                                                                                                                                                                                                                                                                                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse reactions   | Severity                                                                        | Dose Modification                                                                                                                   |
+| Adverse reactions   | Severity                                                                        | Dose modification                                                                                                                   |
 |---------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 |                     | • Grade 4 infusion-related reactions                                            | • Discontinue treatment                                                                                                             |
 | Other Toxicities    | • Other Grade 3-4 toxicities of any duration despite optimal medical management | • Withhold treatment until resolved to ≤ Grade 1. • Reduce one dose level with each occurrence or discontinue according to Table 1. |
@@ -275,32 +269,32 @@ Table 3: List of adverse reactions
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class (SOC)                  | Frequency        | Adverse reactions                                                                                                  |
-|-------------------------------------------|------------------|--------------------------------------------------------------------------------------------------------------------|
-| Psychiatric disorders                     |                  |                                                                                                                    |
-|                                           | Common           | Insomnia Anxiety                                                                                                   |
-| Nervous system disorders                  |                  |                                                                                                                    |
-|                                           | Very common      | Headache Dizziness                                                                                                 |
-|                                           | Common           | Dysgeusia                                                                                                          |
-| Vascular disorders                        |                  |                                                                                                                    |
-| Respiratory, thoracic and mediastinal     | Common disorders | Hypotension                                                                                                        |
-|                                           | Very common      | Dyspnoea 7 Cough                                                                                                   |
-|                                           | Common           | Epistaxis Productive cough Rhinorrhoea Nasal congestion                                                            |
-| Gastrointestinal disorders                |                  |                                                                                                                    |
-|                                           | Very common      | Diarrhoea Vomiting Constipation Stomatitis Nausea Abdominal Pain                                                   |
-|                                           | Common           | Neutropenic colitis 8 Colitis Abdominal pain upper Dyspepsia Gastrooesophageal reflux disease Abdominal distension |
-|                                           | Uncommon         | Enteritis                                                                                                          |
-| Skin and subcutaneous tissue disorders    |                  |                                                                                                                    |
-|                                           | Very common      | Alopecia Rash Pruritus                                                                                             |
-|                                           | Common           | Rash maculopapular Skin hyperpigmentation Dermatitis acneiform Dry skin                                            |
-| Musculoskeletal and connective tissue     | disorders        |                                                                                                                    |
-|                                           | Very common      | Back pain Arthralgia                                                                                               |
-|                                           | Common           | Musculoskeletal chest pain Muscle spasms                                                                           |
-| Renal and urinary disorders               |                  |                                                                                                                    |
-|                                           | Common           | Haematuria Proteinuria Dysuria                                                                                     |
-| General disorders and administration site | conditions       |                                                                                                                    |
-|                                           | Very common      | Fatigue 9                                                                                                          |
-|                                           | Common           | Pain                                                                                                               |
+| System organ class (SOC)                        | Frequency   | Adverse reactions                                                                                                  |
+|-------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------|
+| Psychiatric disorders                           |             |                                                                                                                    |
+|                                                 | Common      | Insomnia Anxiety                                                                                                   |
+| Nervous system disorders                        |             |                                                                                                                    |
+|                                                 | Very common | Headache Dizziness                                                                                                 |
+|                                                 | Common      | Dysgeusia                                                                                                          |
+| Vascular disorders                              |             |                                                                                                                    |
+| Common Respiratory, thoracic and mediastinal    | disorders   | Hypotension                                                                                                        |
+|                                                 | Very common | Dyspnoea 7 Cough                                                                                                   |
+|                                                 | Common      | Epistaxis Productive cough Rhinorrhoea Nasal congestion                                                            |
+| Gastrointestinal disorders                      |             | Upper airway cough syndrome                                                                                        |
+|                                                 | Very common | Diarrhoea Vomiting Constipation Stomatitis Nausea Abdominal pain                                                   |
+|                                                 | Common      | Neutropenic colitis 8 Colitis Abdominal pain upper Dyspepsia Gastrooesophageal reflux disease Abdominal distension |
+|                                                 | Uncommon    | Enteritis                                                                                                          |
+| Skin and subcutaneous tissue disorders          |             |                                                                                                                    |
+|                                                 | Very common | Alopecia Rash Pruritus                                                                                             |
+|                                                 | Common      | Rash maculopapular Skin hyperpigmentation Dermatitis acneiform Dry skin                                            |
+| Musculoskeletal and connective tissue disorders |             |                                                                                                                    |
+|                                                 | Very common | Back pain Arthralgia                                                                                               |
+|                                                 | Common      | Musculoskeletal chest pain Muscle spasms                                                                           |
+| Renal and urinary disorders                     |             |                                                                                                                    |
+|                                                 | Common      | Haematuria Proteinuria Dysuria                                                                                     |
+| General disorders and administration site       | conditions  |                                                                                                                    |
+|                                                 | Very common | Fatigue 9                                                                                                          |
+|                                                 | Common      | Pain                                                                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -404,21 +398,20 @@ Sacituzumab govitecan demonstrated a statistically significant improvement in PF
 
 Table 4. Efficacy endpoints (ASCENT-03)
 
-|                                     | TRODELVY N=279                      | TPC N=279                           |
-|-------------------------------------|-------------------------------------|-------------------------------------|
-| Progression-Free Survival by BICR 1 | Progression-Free Survival by BICR 1 | Progression-Free Survival by BICR 1 |
-| Number (%) of patients with events  | 161 (58%)                           | 188 (67%)                           |
-| Median PFS in months (95% CI)       | 9.7 (8.1, 11.1)                     | 6.9 (5.6, 8.2)                      |
-| Hazard ratio (95% CI) 2             | 0.62 (0.50, 0.77)                   | 0.62 (0.50, 0.77)                   |
-| p-value 3                           | < 0.0001                            | < 0.0001                            |
-| Objective Response Rate by BICR 1   | Objective Response Rate by BICR 1   | Objective Response Rate by BICR 1   |
-| ORR, (95% CI) 4                     | 48% (42%, 54%)                      | 46% (40%, 52%)                      |
-| Overall Survival 5                  | Overall Survival 5                  | Overall Survival 5                  |
-| Number (%) of patients with events  | 139 (50%)                           | 144 (52%)                           |
-| Median OS in months (95% CI)        | 21.5 (18.9, 26.5)                   | 21.3 (18.7, 25.2)                   |
-| Hazard ratio (95% CI) 2             | 0.95 (0.75, 1.20)                   | 0.95 (0.75, 1.20)                   |
+|                                     | TRODELVY N=279    | TPC N=279         |
+|-------------------------------------|-------------------|-------------------|
+| Progression-free survival by BICR 1 |                   |                   |
+| Number (%) of patients with events  | 161 (58%)         | 188 (67%)         |
+| Median PFS in months (95% CI)       | 9.7 (8.1, 11.1)   | 6.9 (5.6, 8.2)    |
+| Hazard ratio (95% CI) 2             | 0.62 (0.50, 0.77) | 0.62 (0.50, 0.77) |
+| p-value 3                           | < 0.0001          | < 0.0001          |
+| Objective response rate by BICR 1   |                   |                   |
+| ORR, (95% CI) 4                     | 48% (42%, 54%)    | 46% (40%, 52%)    |
+| Overall survival 5                  |                   |                   |
+| Number (%) of patients with events  | 139 (50%)         | 144 (52%)         |
+| Median OS in months (95% CI)        | 21.5 (18.9, 26.5) | 21.3 (18.7, 25.2) |
+| Hazard ratio (95% CI) 2             | 0.95 (0.75, 1.20) | 0.95 (0.75, 1.20) |
 
-1. Based on PFS primary analysis (data cut-off 2 April 2025) with median follow-up time 13.2 months.
 2. Hazard ratio with 95% CIs based on the stratified Cox proportional hazards model adjusted for randomisation stratification factors: disease stratification (de novo vs recurrent disease within 6 to 12 months vs recurrent disease occurring &gt; 12 months from completion of treatment in the curative setting) and geographic region (US/Canada/Western Europe vs rest of the world).
 3. 2-sided p-value based on log-rank test adjusted for randomisation stratification factors: disease stratification (de novo vs recurrent disease within 6 to 12 months vs recurrent disease occurring &gt; 12 months from completion of treatment in the curative setting) and geographic region (US/Canada/Western Europe vs rest of the world)
 4. The 95% CI is based on the Clopper-Pearson exact method.
@@ -426,7 +419,7 @@ Table 4. Efficacy endpoints (ASCENT-03)
 
 BICR = Blinded Independent Central Review; CI = Confidence Interval
 
-TPC = gemcitabine and carboplatin, paclitaxel, or nab-paclitaxel
+- TPC = gemcitabine and carboplatin, paclitaxel, or nab-paclitaxel
 
 Figure 1: Progression free survival by BICR in ASCENT-03 (data cut-off date 2 April 2025)
 
@@ -458,7 +451,7 @@ The efficacy results in the overall population were consistent with the BMNeg po
 
 <div style=\"page-break-after: always\"></div>
 
-Table 5: Efficacy endpoints (overall population) - Pre-specified Final Analysis (ASCENT)
+Table 5: Efficacy endpoints (overall population) - pre-specified final analysis (ASCENT)
 
 |                               | Pre-specified Final Analysis (11 March 2020 cut-off date)   | Pre-specified Final Analysis (11 March 2020 cut-off date)   |
 |-------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
@@ -468,7 +461,7 @@ Table 5: Efficacy endpoints (overall population) - Pre-specified Final Analysis 
 | Median PFS in months (95% CI) | 4.8 (4.1,5.8)                                               | 1.7 (1.5, 2.5)                                              |
 | Hazard ratio (95% CI)         | 0.43 (0.35, 0.54)                                           | 0.43 (0.35, 0.54)                                           |
 | p-value 2                     | <0.0001                                                     | <0.0001                                                     |
-| Overall Survival              |                                                             |                                                             |
+| Overall survival              |                                                             |                                                             |
 | Number of deaths (%)          | 179 (67.0)                                                  | 206 (78.6)                                                  |
 | Median OS in months (95% CI)  | 11.8 (10.5, 13.8)                                           | 6.9 (5.9, 7.7)                                              |
 | Hazard ratio (95% CI)         | 0.51 (0.41, 0.62)                                           | 0.51 (0.41, 0.62)                                           |
@@ -532,22 +525,22 @@ Sacituzumab govitecan demonstrated a statistically significant improvement in PF
 
 <div style=\"page-break-after: always\"></div>
 
-Table 6. Efficacy endpoints -Pre-specified Final Analysis (TROPiCS-02)
+Table 6. Efficacy endpoints -Pre-specified final analysis (TROPiCS-02)
 
 |                                     | Sacituzumab govitecan n=272   | TPC n=271            |
 |-------------------------------------|-------------------------------|----------------------|
-| Progression-Free Survival by BICR 1 |                               |                      |
+| Progression-free survival by BICR 1 |                               |                      |
 | Number of events (%)                | 170 (62.5%)                   | 159 (58.7%)          |
 | Median PFS in months (95% CI)       | 5.5 (4.2, 7.0)                | 4.0 (3.1, 4.4)       |
 | Hazard ratio (95% CI)               | 0.661 (0.529, 0.826)          | 0.661 (0.529, 0.826) |
 | p-value 2                           | 0.0003                        | 0.0003               |
 | PFS rate at 12 months, % (95% CI)   | 21.3 (15.2, 28.1)             | 7.1 (2.8, 13.9)      |
-| Overall Survival 3                  |                               |                      |
+| Overall survival 3                  |                               |                      |
 | Number of events (%)                | 191 (70.2%)                   | 199 (73.4%)          |
 | Median OS in months (95% CI)        | 14.4 (13.0, 15.7)             | 11.2 (10.1, 12.7)    |
 | Hazard ratio (95% CI)               | 0.789 (0.646, 0.964)          | 0.789 (0.646, 0.964) |
 | p-value 2                           | 0.0200                        | 0.0200               |
-| Objective Response Rate by BICR 3   |                               |                      |
+| Objective response rate by BICR 3   |                               |                      |
 | Number of responders (%)            | 57 (21.0%)                    | 38 (14.0%)           |
 | Odds ratio (95% CI)                 | 1.625 (1.034, 2.555)          | 1.625 (1.034, 2.555) |
 | p-value                             | 0.0348                        | 0.0348               |
@@ -597,13 +590,13 @@ AUC0-168: area under serum concentration curve through 168 hours after the first
 
 Based on population pharmacokinetic analyses, the steady state volume of distribution of sacituzumab govitecan was 4.62 L.
 
+## Biotransformation
+
+No metabolism studies with sacituzumab govitecan have been conducted. SN-38 (the small molecule moiety of sacituzumab govitecan) is metabolised via UGT1A1.
+
 ## Elimination
 
 The median elimination half-life (t1/2) of sacituzumab govitecan and free SN-38, based on population pharmacokinetic analysis was 155 and 21.5 hours, respectively. The estimated mean (%CV) clearance of sacituzumab govitecan is 0.132 L/h (19.8%).
-
-## Metabolism
-
-No metabolism studies with sacituzumab govitecan have been conducted. SN-38 (the small molecule moiety of sacituzumab govitecan) is metabolised via UGT1A1.
 
 ## Special populations
 
@@ -641,7 +634,7 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## 6.3 Shelf life
 
-## Unopened vial
+Unopened vial
 
 3 years.
 
@@ -651,11 +644,7 @@ The reconstituted solution should be used immediately to prepare the diluted sol
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C).
-
-Do not freeze.
-
-Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
 For storage conditions after reconstitution and dilution of the medicinal product, see section 6.3.
 
@@ -705,11 +694,11 @@ Gilead Sciences Ireland UC Carrigtohill County Cork, T45 DP77 Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1592/001
+## EU/1/21/1592/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 22 November 2021
+Date of first authorisation: 22 November 2021 Date of latest renewal:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -899,11 +888,9 @@ Cytotoxic
 
 ## Package leaflet: Information for the patient
 
-## Trodelvy 200 mg powder for concentrate for solution for infusion sacituzumab govitecan
+## Trodelvy 200 mg powder for concentrate for solution for infusion
 
-<!-- image -->
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side affects you may get. See the end of section 4 for how to report side effects.
+## sacituzumab govitecan
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
@@ -1041,6 +1028,10 @@ Do not breast-feed during treatment with Trodelvy and for 1 month after the last
 
 Trodelvy may affect your ability to drive and use machines e.g. feeling dizzy, fatigue. You should therefore be cautious when driving, using tools or operating machines after being given Trodelvy.
 
+## Trodelvy solution for infusion contains sodium
+
+Trodelvy contains less than 1 mmol sodium (23 mg) per vial , which is considered essentially 'sodium -free.' However, Trodelvy is administered in a 0.9% sodium chloride solution (9 mg/mL), so the total amount of sodium (3.5 mg/mL) delivered depends on the volume of solution used for administration .
+
 ## 3. How you will be given Trodelvy
 
 Trodelvy will only be given to you by your doctor or a nurse experienced in using anti-cancer therapies.
@@ -1057,11 +1048,7 @@ Treatment for your cancer is repeated in 21-day (3-week) cycles. The recommended
 
 ## How you will be given your medicine
 
-A doctor or nurse will give the medicine via an intravenous infusion (a drip into your vein).
-
-First infusion : you will be given your first infusion of medicine over 3 hours.
-
-Second and subsequent infusions: you will be given the other infusions over 1 to 2 hours if your first infusion was uneventful.
+A doctor or nurse will give the medicine via an intravenous infusion (a drip into your vein). First infusion : you will be given your first infusion of medicine over 3 hours. Second and subsequent infusions: you will be given the other infusions over 1 to 2 hours if your first infusion was uneventful.
 
 Your doctor or nurse will monitor you during and for 30 minutes after each infusion for signs and symptoms of infusion-related reactions.
 
@@ -1249,7 +1236,9 @@ Gilead Sciences Ελλάς Μ.ΕΠΕ. Τηλ: + 30 210 8930 100
 
 ## España
 
-Gilead Sciences, S.L. Tel: + 34 91 378 98 30
+Gilead Sciences, S.L.
+
+Tel: + 34 91 378 98 30
 
 ## France
 
@@ -1323,15 +1312,11 @@ Gilead Sciences Slovakia s.r.o. Tel: + 421 232 121 210
 
 Gilead Sciences Sweden AB Puh/Tel: + 46 (0) 8 5057 1849
 
-<div style=\"page-break-after: always\"></div>
-
-.
-
 ## Κύπρος
 
-Gilead Sciences Ελλάς Μ . ΕΠΕ
+Gilead Sciences Ελλάς Μ . ΕΠΕ . Τηλ: + 30 210 8930 100
 
-Τηλ: + 30 210 8930 100
+<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -1368,7 +1353,11 @@ This medicinal product must not be mixed with other medicinal products except th
 - If necessary, adjust the volume in the infusion bag as needed with sodium chloride 9 mg/mL (0.9%) solution for injection, to obtain a concentration of 1.1 mg/mL to 3.4 mg/mL. Only sodium chloride 9 mg/mL (0.9%) solution for injection should be used since the stability of the reconstituted product has not been determined with other infusion-based solutions.
 - If not used immediately, the infusion bag containing diluted solution can be stored refrigerated 2°C to 8°C for up to 24 hours protected from light. Do not freeze. After refrigeration, administer the diluted solution at room temperature up to 25°C within 8 hours (including infusion time).
 
-Sverige Gilead Sciences Sweden AB Tel: + 46 (0) 8 5057 1849
+## Sverige
+
+Gilead Sciences Sweden AB
+
+Tel: + 46 (0) 8 5057 1849
 
 <div style=\"page-break-after: always\"></div>
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-02 14:30:00
+document_datetime: 2026-07-29 15:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xtandi.html
 document_name: xtandi.html
 version: success
-processing_time: 0.1789348
-conversion_datetime: 2026-07-04 12:58:28.129091
+processing_time: 0.3242708
+conversion_datetime: 2026-08-01 11:33:04.003322
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Xtandi
 
@@ -127,7 +127,7 @@ English (EN) (172.39 KB - PDF)
 
 [View](/en/documents/overview/xtandi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-700)
+[Other languages (22)](#file-language-dropdown-420)
 
 български (BG) (195.49 KB - PDF)
 
@@ -273,161 +273,161 @@ English (EN) (1.38 MB - PDF)
 
 Xtandi : EPAR - Product Information
 
-English (EN) (1.63 MB - PDF)
+English (EN) (1.7 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/en/documents/product-information/xtandi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-848)
+[Other languages (24)](#file-language-dropdown-197)
 
-български (BG) (1.76 MB - PDF)
+български (BG) (1.83 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/bg/documents/product-information/xtandi-epar-product-information_bg.pdf)
 
-español (ES) (1.53 MB - PDF)
+español (ES) (1.63 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/es/documents/product-information/xtandi-epar-product-information_es.pdf)
 
-čeština (CS) (1.83 MB - PDF)
+čeština (CS) (1.89 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/cs/documents/product-information/xtandi-epar-product-information_cs.pdf)
 
-dansk (DA) (1.33 MB - PDF)
+dansk (DA) (1.4 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/da/documents/product-information/xtandi-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.5 MB - PDF)
+Deutsch (DE) (1.56 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/de/documents/product-information/xtandi-epar-product-information_de.pdf)
 
-eesti (ET) (1.64 MB - PDF)
+eesti (ET) (1.69 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/et/documents/product-information/xtandi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.55 MB - PDF)
+ελληνικά (EL) (1.63 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/el/documents/product-information/xtandi-epar-product-information_el.pdf)
 
-français (FR) (1.63 MB - PDF)
+français (FR) (1.69 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/fr/documents/product-information/xtandi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.8 MB - PDF)
+hrvatski (HR) (1.85 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/hr/documents/product-information/xtandi-epar-product-information_hr.pdf)
 
-italiano (IT) (1.69 MB - PDF)
+italiano (IT) (1.93 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/it/documents/product-information/xtandi-epar-product-information_it.pdf)
 
-latviešu (LV) (1.57 MB - PDF)
+latviešu (LV) (1.65 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/lv/documents/product-information/xtandi-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.52 MB - PDF)
+lietuvių (LT) (1.58 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/lt/documents/product-information/xtandi-epar-product-information_lt.pdf)
 
-magyar (HU) (1.67 MB - PDF)
+magyar (HU) (1.73 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/hu/documents/product-information/xtandi-epar-product-information_hu.pdf)
 
-Malti (MT) (2.39 MB - PDF)
+Malti (MT) (2.36 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/mt/documents/product-information/xtandi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.2 MB - PDF)
+Nederlands (NL) (2.26 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/nl/documents/product-information/xtandi-epar-product-information_nl.pdf)
 
-polski (PL) (1.52 MB - PDF)
+polski (PL) (1.58 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/pl/documents/product-information/xtandi-epar-product-information_pl.pdf)
 
-português (PT) (1.66 MB - PDF)
+português (PT) (1.71 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/pt/documents/product-information/xtandi-epar-product-information_pt.pdf)
 
-română (RO) (2.05 MB - PDF)
+română (RO) (2.12 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/ro/documents/product-information/xtandi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.73 MB - PDF)
+slovenčina (SK) (1.81 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/sk/documents/product-information/xtandi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.87 MB - PDF)
+slovenščina (SL) (1.95 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/sl/documents/product-information/xtandi-epar-product-information_sl.pdf)
 
-suomi (FI) (1.89 MB - PDF)
+suomi (FI) (1.95 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/fi/documents/product-information/xtandi-epar-product-information_fi.pdf)
 
-svenska (SV) (1.75 MB - PDF)
+svenska (SV) (1.87 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/sv/documents/product-information/xtandi-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.57 MB - PDF)
+Íslenska (IS) (1.63 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/is/documents/product-information/xtandi-epar-product-information_is.pdf)
 
-norsk (NO) (1.57 MB - PDF)
+norsk (NO) (1.64 MB - PDF)
 
-**First published:** 02/07/2013 **Last updated:** 26/03/2026
+**First published:** 02/07/2013 **Last updated:** 29/07/2026
 
 [View](/no/documents/product-information/xtandi-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000313098
+**Latest procedure affecting product information:** N/0000362594
 
-12/02/2026
+28/07/2026
 
 icon globe
 
@@ -452,7 +452,7 @@ English (EN) (18.07 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xtandi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-365)
+[Other languages (24)](#file-language-dropdown-742)
 
 български (BG) (41.17 KB - PDF)
 
@@ -636,7 +636,7 @@ Xtandi is indicated for:
 - **Marketing authorisation issued**
     - 21/06/2013
 - **Revision**
-    - 28
+    - 29
 
 ## Assessment history
 
@@ -648,9 +648,9 @@ Collapse section
 
 Xtandi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (146.08 KB - PDF)
+English (EN) (156.98 KB - PDF)
 
-**First published:** 31/07/2025 **Last updated:** 26/03/2026
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
 
 [View](/en/documents/procedural-steps-after/xtandi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -818,11 +818,157 @@ The approved product information for this medicine is available below showing th
 
 Xtandi : EPAR - Product information - tracked changes
 
-English (EN) (2.13 MB - DOCX)
+English (EN) (1.89 MB - DOCX)
 
-**First published:** 31/07/2025 **Last updated:** 26/03/2026
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
 
 [View](/en/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-976)
+
+български (BG) (1.92 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/bg/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (1.38 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/es/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (2.17 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/cs/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (1.26 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/da/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (1.48 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/de/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_de.docx)
+
+eesti (ET) (1.7 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/et/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (1.13 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/el/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (1.59 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/fr/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (1.93 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/hr/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_hr.docx)
+
+italiano (IT) (1.99 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/it/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_it.docx)
+
+latviešu (LV) (1.29 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/lv/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių (LT) (1.44 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/lt/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (1.47 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/hu/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (2.54 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/mt/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (2.09 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/nl/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_nl.docx)
+
+polski (PL) (1.43 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/pl/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (1.55 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/pt/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (2.36 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/ro/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (1.52 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/sk/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (1.86 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/sl/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_sl.docx)
+
+suomi (FI) (1.65 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/fi/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (2.46 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/sv/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (1.68 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/is/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (1.47 MB - DOCX)
+
+**First published:** 31/07/2025 **Last updated:** 29/07/2026
+
+[View](/no/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_no.docx)
 
 ## More information on Xtandi
 
@@ -838,6 +984,6 @@ English (EN) (2.13 MB - DOCX)
 
 **This page was last updated on**
 
-02/07/2026
+29/07/2026
 
 ## Share this page

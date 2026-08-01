@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-24 15:28:33
-document_pages: 33
+document_datetime: 2026-07-30 15:53:07
+document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sylvant-epar-product-information_en.pdf
 document_name: sylvant-epar-product-information_en.pdf
 version: success
-processing_time: 7.0384077
-conversion_datetime: 2026-03-29 12:24:56.56706
+processing_time: 6.4997114
+conversion_datetime: 2026-08-01 11:48:06.687754
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -42,6 +42,10 @@ Each single-use vial contains 400 mg siltuximab powder for concentrate for solut
 
 Siltuximab is a chimeric (humanmurine) immunoglobulin G1κ (IgG1κ) monoclonal antibody produced in a Chinese hamster ovary (CHO) cell line by recombinant DNA technology.
 
+## Excipients with known effect
+
+Each 100 mg vial contains 0.8 mg of polysorbate 80. Each 400 mg vial contains 3.2 mg of polysorbate 80.
+
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
@@ -64,11 +68,11 @@ This medicinal product should be administered by qualified healthcare profession
 
 The recommended dose is 11 mg/kg siltuximab given over 1 hour as an intravenous infusion administered every 3 weeks until treatment failure.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Treatment criteria
 
 Haematology laboratory tests should be performed prior to each dose of SYLVANT therapy for the first 12 months and every third dosing cycle thereafter. Before administering the infusion, the prescriber should consider delaying treatment, if the treatment criteria outlined in Table 1 are not met. Dose reduction is not recommended.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 1: Treatment criteria
 
@@ -100,7 +104,9 @@ The safety and efficacy of siltuximab in children aged 17 years and younger have
 
 ## Siltuximab must be administered as an intravenous infusion.
 
-For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.
+For instructions on reconstitution and dilution of the medicinal product before administration, see
+
+section 6.6.
 
 ## 4.3 Contraindications
 
@@ -116,9 +122,9 @@ In order to improve the traceability of biological medicinal products, the trade
 
 Infections, including locali sed infections, should be treated prior to administration of SYLVANT. Serious infections, including pneumonia and sepsis, were observed during clinical studies (see section 4.8).
 
-Hypoglobulinaemia was observed in 4 to 11.3% of patients in the clinical study. Decreases in total IgG, IgA, or IgM levels below normal were observed in the range of 4 to 11% patients in the MCD trial (Study 1).
-
 <div style=\"page-break-after: always\"></div>
+
+Hypoglobulinaemia was observed in 4 to 11.3% of patients in the clinical study. Decreases in total IgG, IgA, or IgM levels below normal were observed in the range of 4 to 11% patients in the MCD trial (Study 1).
 
 All clinical studies with SYLVANT excluded patients with clinically significant infections, including those known to be hepatitis B surface antigen positive. Two cases of reactivated hepatitis B have been reported when SYLVANT was administered concomitantly with high dose dexamethasone, and bortezomib, melphalan and prednisone in multiple myeloma patients.
 
@@ -126,7 +132,7 @@ SYLVANT may mask signs and symptoms of acute inflammation including suppression 
 
 ## Vaccinations
 
-Live, attentuated vaccines should not be given concurrently or within 4 weeks before initiating SYLVANT as clinical safety has not been established.
+Live, attenuated vaccines should not be given concurrently or within 4 weeks before initiating SYLVANT as clinical safety has not been established.
 
 ## Lipid parameters
 
@@ -148,15 +154,17 @@ Gastrointestinal (GI) perforation has been reported in siltuximab clinical trial
 
 Following treatment with SYLVANT  in clinical trials, transient or intermittent mild-to-moderate elevation of hepatic transaminase levels or other liver function tests such as bilirubin have been reported. SYLVANT-treated patients with known hepatic impairment as well as patients with elevated transaminase or bilirubin levels should be monitored.
 
+## Excipients with known effect
+
+This medicine contains 0.8 mg of polysorbate 80 in each 100 mg vial and 3.2 mg of polysorbate 80 in each 400 mg vial. Polysorbates may cause allergic reactions.
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No interaction studies have been performed.
 
-In non -clinical studies, interleukin6 (IL -6) is known to decrease the activity of cytochrome P450 (CYP450 ). Binding bioactive IL -6 by siltuximab may result in increased metabolism of CYP450 substrates, because CYP450 enzyme activity will normalise. Therefore, administering siltuximab with CYP450 substrates that have a narrow therapeutic index has the potential to change therapeutic effects and toxicity of these medicinal products due to alteration in the CYP450 pathways. Upon initation or discontinuation of siltuximab in patients being treated with concomitant medicinal products that are CYP450 substrates and have a narrow therapeutic index, monitoring of the effect (e.g., warfarin) or concentration of medicinal product (e.g., cyclosporine or theophylline) is recommended. The dose of
-
 <div style=\"page-break-after: always\"></div>
 
-the concomitant medicinal products should be adjusted as needed. The effect of siltuximab on CYP450 enzyme activity can persist for several weeks after stopping therapy. Prescribers should also exercise caution when siltuximab is co-administered with medicinal products that are CYP3A4 substrates where a decrease in effectiveness would be undesirable (e.g., oral contraceptives).
+In non -clinical studies, interleukin6 (IL -6) is known to decrease the activity of cytochrome P450 (CYP450 ). Binding bioactive IL -6 by siltuximab may result in increased metabolism of CYP450 substrates, because CYP450 enzyme activity will normalise. Therefore, administering siltuximab with CYP450 substrates that have a narrow therapeutic index has the potential to change therapeutic effects and toxicity of these medicinal products due to alteration in the CYP450 pathways. Upon initation or discontinuation of siltuximab in patients being treated with concomitant medicinal products that are CYP450 substrates and have a narrow therapeutic index, monitoring of the effect (e.g., warfarin) or concentration of medicinal product (e.g., cyclosporine or theophylline) is recommended. The dose of the concomitant medicinal products should be adjusted as needed. The effect of siltuximab on CYP450 enzyme activity can persist for several weeks after stopping therapy. Prescribers should also exercise caution when siltuximab is co-administered with medicinal products that are CYP3A4 substrates where a decrease in effectiveness would be undesirable (e.g., oral contraceptives).
 
 ## Paediatric population
 
@@ -198,11 +206,11 @@ Siltuximab has no or negligible influence on the ability to drive and use machin
 
 Infections (including upper respiratory tract infections), pruritus, rash , arthralgia, and diarrhoea were the most common adverse reactions , occurring in &gt; 20% of siltuximab-treated patients in Castleman's disease (CD) clinical studies. The most serious adverse reaction associated with the use of siltuximab was anaphylactic reaction.
 
+<div style=\"page-break-after: always\"></div>
+
 Data from all patients treated with siltuximab monotherapy (n = 370) form the overall basis of the safety evaluation.
 
 Table 2 reflects the frequencies of identified adverse reactions in the 87 MCD patients (Study 1, Study 2 and Study 3) treated at the recommended dosage of 11 mg/kg every 3 weeks (details provided in section 5.1).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Tabulated list of adverse reactions
 
@@ -227,7 +235,7 @@ Table 2: Adverse reactions in siltuximab treated patients in MCD clinical studie
 | very common                                          | Oropharyngeal pain                                                                                           |
 | Vascular disorders                                   |                                                                                                              |
 | very common                                          | Hypertension                                                                                                 |
-| Gastointestinal disorders                            |                                                                                                              |
+| Gastrointestinal disorders                           |                                                                                                              |
 | very common                                          | Nausea, abdominal pain, vomiting, constipation, diarrhoea, gastroesophageal reflux disease, mouth ulceration |
 | Skin and subcutaneous tissue disorders               |                                                                                                              |
 | very common                                          | Rash, pruritus, eczema                                                                                       |
@@ -244,15 +252,13 @@ Table 2: Adverse reactions in siltuximab treated patients in MCD clinical studie
 
 In clinical studies, siltuximab was associated with an infusion related reaction or hypersensitivity reaction in 5.1% (severe reaction in 0.8%) of patients treated with siltuximab monotherapy.
 
+<div style=\"page-break-after: always\"></div>
+
 In long-term treatment of MCD patients with siltuximab at the recommended dosage of 11 mg/kg every 3 weeks, infusion related reactions or hypersensitivity reactions occurred at a frequency of 6.3% (1.3% for severe reactions).
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
-
-<div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -266,7 +272,7 @@ Pharmacotherapeutic group: Immunosuppresants, interleukin inhibitors, ATC code: 
 
 ## Mechanism of action
 
-Siltuximab is a human-mouse chimeric monoclonal antibody that forms high affinity, stable complexes with soluble bioactive forms of human IL -6. Siltuximab prevents the binding of human IL -6 to both soluble and membranebound IL -6 receptors (IL -6R), thus inhibiting the formation of the hexameric signaling complex with gp130 on the cell surface. Interleukin -6 is a pleiotropic pro-inflammatory cytokine produced by a variety of cell types including T-cells and B-cells, lymphocytes, monocytes and fibroblasts, as well as malignant cells. IL -6 has been shown to be involved in diverse normal physiologic processes such as induction of immunoglobulin secretion, initiation of hepatic acute phase protein synthesis, and stimulation of hematopoietic precursor cell prolife ration and differentiation. Overproduction of IL -6, in chronic inflammatory diseases and malignancies has been linked to anaemia and cachexia and has been hypothesised to play a central role in driving plasma cell proliferation and systemic manifestations in patients with CD.
+Siltuximab is a human-mouse chimeric monoclonal antibody that forms high affinity, stable complexes with soluble bioactive forms of human IL -6. Siltuximab prevents the binding of human IL -6 to both soluble and membranebound IL -6 receptors (IL -6R), thus inhibiting the formation of the hexameric signaling complex with gp130 on the cell surface. Interleukin -6 is a pleiotropic pro-inflammatory cytokine produced by a variety of cell types including T-cells and B-cells, lymphocytes, monocytes and fibroblasts, as well as malignant cells. IL -6 has been shown to be involved in diverse normal physiologic processes such as induction of immunoglobulin secretion, initiation of hepatic acute phase protein synthesis, and stimulation of hematopoietic precursor cell proliferation and differentiation. Overproduction of IL -6, in chronic inflammatory diseases and malignancies has been linked to anaemia and cachexia and has been hypothesised to play a central role in driving plasma cell proliferation and systemic manifestations in patients with CD.
 
 ## Pharmacodynamic effects
 
@@ -276,13 +282,13 @@ In vitro , siltuximab dosedependently inhibited the growth of an IL -6-dependent
 
 It is well established that IL -6 stimulates the acute-phase expression of C-reactive protein (CRP). The mechanism of action of siltuximab is neutralis ation of IL -6 bioactivity, which can be measured indirectly by suppression of CRP. Siltuximab treatment in MCD results in rapid and sustained decreases in CRP serum concentrations. Measurement of IL -6 concentrations in serum or plasma during treatment should not be used as a pharmacodynamic marker, as siltuximab-neutralised antibodyIL -6 complexes interfere with current immunologicalbased IL -6 quantification methods.
 
-## Clinical efficacy and safety Study 1
+## Clinical efficacy and safety
 
-A Phase 2, multinational, randomised (2:1) double-blind, placebo-controlled study was conducted to assess the efficacy and safety of siltuximab (11 mg/kg every 3 weeks) compared with placebo in combination with best supportive care in patients with MCD. Treatment was continued until treatment failure (defined as disease progression based on increase in symptoms, radiologic progression or deterioration in performance status) or unacceptable toxicity. A total of 79 patients with symptomatic MCD were randomised and treated. Median age was 47 years (range 20-74) in the siltuximab arm and 48 years (range 27-78) in the placebo arm. More male patients were enrolled in the placebo arm (85% in placebo vs. 56% in the siltuximab group). ECOG performance status score (0/1/2) at baseline was 42%/45%/13% in the siltuximab arm and 39%/62%/0% in the placebo arm, respectively. At baseline, 55% of patients in the siltuximab arm and 65% of patients in the placebo arm had received prior systemic therapies for MCD and 30% of patients in the siltuximab arm and 31% in the placebo arm
+## Study 1
+
+A Phase 2, multinational, randomised (2:1) double-blind, placebo-controlled study was conducted to assess the efficacy and safety of siltuximab (11 mg/kg every 3 weeks) compared with placebo in combination with best supportive care in patients with MCD. Treatment was continued until treatment failure (defined as disease progression based on increase in symptoms, radiologic progression or deterioration in performance status) or unacceptable toxicity. A total of 79 patients with symptomatic MCD were randomised and treated. Median age was 47 years (range 20-74) in the siltuximab arm and 48 years (range 27-78) in the placebo arm. More male patients were enrolled in the placebo arm (85% in placebo vs. 56% in the siltuximab group). ECOG performance status score (0/1/2) at baseline was 42%/45%/13% in the siltuximab arm and 39%/62%/0% in the placebo arm, respectively. At baseline, 55% of patients in the siltuximab arm and 65% of patients in the placebo arm had received prior systemic therapies for MCD and 30% of patients in the siltuximab arm and 31% in the placebo arm were using corticosteroids. Histological subtype was similar in both treatment arms, with 33% hyaline vascular subtype, 23% plasmacytic subtype and 44% mixed subtype.
 
 <div style=\"page-break-after: always\"></div>
-
-were using corticosteroids. Histological subtype was similar in both treatment arms, with 33% hyaline vascular subtype, 23% plasmacytic subtype and 44% mixed subtype.
 
 The primary endpoint of the study was durable tumour and symptomatic response, defined as tumour response assessed by independent review and complete resolution or stabilisation of prospectively collected MCD symptoms, for at least 18 weeks without treatment failure.
 
@@ -295,22 +301,22 @@ Table 3: Efficacy endpoints from study 1
 | Efficacy endpoints                                                                              | Siltuximab+BSC*   | Placebo+BSC   | P-value a        |
 |-------------------------------------------------------------------------------------------------|-------------------|---------------|------------------|
 | Primary efficacy endpoint                                                                       |                   |               |                  |
-| Durable tumour &symptomatic response (independent review)                                       | 18/53 (34.0%)     | 0/26 (0%)     | 0.0012           |
+| Durable tumour & symptomatic response (independent review)                                      | 18/53 (34.0%)     | 0/26 (0%)     | 0.0012           |
 | Secondary efficacy endpoints                                                                    |                   |               |                  |
-| Durable tumour &symptomatic response (investigator review)                                      | 24/53 (45.3%)     | 0/26 (0%)     | < 0.0001         |
+| Durable tumour & symptomatic response (investigator review)                                     | 24/53 (45.3%)     | 0/26 (0%)     | < 0.0001         |
 | Best tumour response (independent review)                                                       | 20/53 (37.7%)     | 1/26 (3.8%)   | 0.0022           |
 | Best tumour response (investigator assessment)                                                  | 27/53 (50.9%)     | 0/26 (0%)     | < 0.0001         |
 | Time to treatment failure                                                                       | Not reached       | 134 days      | 0.0084; HR 0.418 |
 | Haemoglobin increase > 15 g/L (0.9 mmol/L) at Week 13/haemoglobin response-evaluable population | 19/31 (61.3%)     | 0/11 (0%)     | 0.0002           |
-| Duration of tumour &symptomatic response (days) - independent review; median (min, max)         | 340 (55, 676) b   | N/A c         | N/A              |
+| Duration of tumour & symptomatic response (days) - independent review; median (min, max)        | 340 (55, 676) b   | N/A c         | N/A              |
 | Durable complete symptomatic response d                                                         | 13/53 (24.5%)     | 0/26 (0%)     | 0.0037           |
 | Duration of durable complete symptomatic response (days) median (min, max)                      | 472 (169, 762) e  | N/A           | N/A              |
 
 MCD-related signs and symptoms were prospectively collected. A total score of all symptoms (referred to as the MCD-related Overall Symptom Score) is the sum of the severity grades (NCI -CTCAE grade) of the MCD-related signs and symptoms [general MCD-related (fatigue, malaise, hyperhidrosis, night sweats, fever, weight loss, anorexia, tumour pain, dyspnea, and pruritus), autoimmune phenomena, fluid retention, neuropathy, and skin disorders]. The percent change from baseline in MCD-related signs and symptoms and MCD-related overall symptom score at each cycle was calculated. Complete symptom response was defined as a 100% reduction from the baseline overall in the MCD-related overall symptom score sustained for at least 18 weeks prior to treatment failure.
 
-Haemoglobin response was defined as a change from baseline of ≥ 15 g/L (0.9 mmol/L) at Week 13. A statistically significant difference (61.3% vs. 0% respectively; p = 0.0002) in the haemoglobin response in the siltuximab arm compared with the placebo arm was observed.
-
 <div style=\"page-break-after: always\"></div>
+
+Haemoglobin response was defined as a change from baseline of ≥ 15 g/L (0.9 mmol/L) at Week 13. A statistically significant difference (61.3% vs. 0% respectively; p = 0.0002) in the haemoglobin response in the siltuximab arm compared with the placebo arm was observed.
 
 ## Subgroup analyses
 
@@ -321,18 +327,22 @@ Table 4: Select efficacy endpoints for hyaline vascular subgroup from study 1
 | Efficacy endpoints                                                                              | Siltuximab+BSC*   | Placebo+BSC   | 95% CI a       |
 |-------------------------------------------------------------------------------------------------|-------------------|---------------|----------------|
 | Primary efficacy endpoint                                                                       |                   |               |                |
-| Durable tumour &symptomatic response (independent review)                                       | 0/18 (0%)         | 0/8 (0%)      | (N/A; N/A) b   |
+| Durable tumour & symptomatic response (independent review)                                      | 0/18 (0%)         | 0/8 (0%)      | (N/A; N/A) b   |
 | Secondary efficacy endpoints                                                                    |                   |               |                |
-| Durable tumour &symptomatic response (investigator review)                                      | 3/18 (16.7%)      | 0/8 (0%)      | (-25.7; 55.9)  |
+| Durable tumour & symptomatic response (investigator review)                                     | 3/18 (16.7%)      | 0/8 (0%)      | (-25.7; 55.9)  |
 | Best tumour response (independent review)                                                       | 1/18 (5.6%)       | 1/8 (12.5%)   | (-46.7; 35.3)  |
 | Best tumour response (investigator assessment)                                                  | 4/18 (22.2%)      | 0/8 (0%)      | (-20.3; 60.6)  |
 | Time to treatment failure                                                                       | 206 days          | 70 days       | (0.17; 1.13) c |
 | Haemoglobin increase > 15 g/L (0.9 mmol/L) at Week 13/haemoglobin response-evaluable population | 3/7 (42.9%)       | 0/4 (0%)      | (-22.7; 83.7)  |
 | Durable complete symptomatic response d                                                         | 3/18 (16.7%)      | 0/8 (0%)      | (-25.7; 55.9)  |
 
-* Best Supportive Care a 95% confidence interval for the for the difference in proportions
+* Best Supportive Care
 
-b N/A = 'Not applicable', there were no responders therefore 95% CI is not applicable c 95% confidence interval for the hazard ratio
+a 95% confidence interval for the for the difference in proportions
+
+b N/A = 'Not applicable', there were no responders therefore 95% CI is not applicable
+
+c 95% confidence interval for the hazard ratio
 
 d Complete symptomatic response is defined as a 100% reduction in the baseline MCD overall symptom score sustained for at least 18 weeks prior to treatment failure
 
@@ -344,11 +354,11 @@ In addition to Study 1, efficacy data are available in patients with CD from a s
 
 An open-label, multicentre, non-randomised Phase 2 study assessed the safety and efficacy of extended treatment with siltuximab in 60 patients with MCD who were previously enrolled in Study 1 (41 patients) or Study 2 (19 patients). Median duration of siltuximab treatment was 5.52 years (range: 0.8 to 10.8 years); more than 50% of patients received siltuximab treatment for ≥5 years. After a median of 6 years of follow-up, none of the 60 patients had died and maintenance of disease control was demonstrated in 58 of 60 patients.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Highest total dose in clinical trials
 
 The highest total amount of siltuximab administered in any clinical trial so far per dose was 2,190 mg (11 mg/kg).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -378,13 +388,11 @@ The population PK of siltuximab were analysed to evaluate the effects of demogra
 
 No formal study of the effect of renal impairment on the pharmacokinetics of siltuximab has been conducted. For patients with baseline calculated creatinine clearance of 12 mL/min or greater, there was no meaningful effect on siltuximab PK. Four patients with severe renal impairment (creatinine clearance 12 to 30 mL/min) were included in the data set.
 
-## Hepatic impairment
-
-No formal study of the effect of hepatic impairment on the pharmacokinetics of siltuximab has been conducted. For patients with baseline alanine transaminase up to 3.7 times the upper limit of normal
-
 <div style=\"page-break-after: always\"></div>
 
-baseline albumin ranging from 15 to 58 g/L, and baseline bilirubin ranging from 1.7 to 42.8 mg/dL there was no meaningful effect on siltuximab PK.
+## Hepatic impairment
+
+No formal study of the effect of hepatic impairment on the pharmacokinetics of siltuximab has been conducted. For patients with baseline alanine transaminase up to 3.7 times the upper limit of normal baseline albumin ranging from 15 to 58 g/L, and baseline bilirubin ranging from 1.7 to 42.8 mg/dL there was no meaningful effect on siltuximab PK.
 
 ## Paediatric population
 
@@ -414,13 +422,15 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 Unopened vial 4 years
 
+<div style=\"page-break-after: always\"></div>
+
 ## After reconstitution and dilution
 
 Chemical and physical in-use stability has been demonstrated for up to 8 hours at room temperature (see section 6.6).
 
-<div style=\"page-break-after: always\"></div>
+From a microbiological point of view, unless the method of opening/reconstitution/dilution precludes the risk of microbial contamination, the product should be used immediately.
 
-From a microbiological point of view, unless the method of opening/reconstitution/dilution precludes the risk of microbial contamination, the product should be used immediately. If not used immediately, in -use storage times and conditions are the responsibility of the user.
+If not used immediately, in -use storage times and conditions are the responsibility of the user.
 
 ## 6.4 Special precautions for storage
 
@@ -452,10 +462,11 @@ Each 400 mg vial should be reconstituted with 20 mL of single-use water for inje
 
 - Gently swirl (DO NOT SHAKE OR VORTEX OR SWIRL VIGOROUSLY) the reconstituted vials to aid the dissolution of the powder. Do not remove contents until all of the powder has been completely dissolved. The powder should dissolve in less than 60 minutes. Inspect the vials for particulate matter and discolouration prior to dose preparation. Do not use if visibly opaque or if foreign particles and/or solution discolouration are present.
 - Dilute the total volume of the reconstituted solution dose to 250 mL with sterile dextrose 5%, by withdrawing a volume equal to the volume of reconstituted SYLVANT from the dextrose 5%, 250 mL bag. Slowly add the total volume of reconstituted SYLVANT solution to the 250 mL infusion bag. Gently mix.
-- The reconstituted solution should be kept for no more than 2 hours prior to addition into the intravenous bag. The infusion should be completed within 6 hours of the addition of the reconstituted solution to the infusion bag. Administer the diluted solution over a period of 1 hour using administration sets lined with PVC, or polyurethane (PU), or PE, containing a 0.2-micron inline polyethersulfone (PES) filter. SYLVANT does not contain preservatives; therefore do not store any unused portion of the infusion solution for re-use.
+- The reconstituted solution should be kept for no more than 2 hours prior to addition into the intravenous bag. The infusion should be completed within 6 hours of the addition of the reconstituted solution to the infusion bag. Administer the diluted solution over a period of 1 hour using administration sets lined with PVC, or polyurethane (PU), or PE, containing a
 
 <div style=\"page-break-after: always\"></div>
 
+- 0.2-micron inline polyethersulfone (PES) filter. SYLVANT does not contain preservatives; therefore do not store any unused portion of the infusion solution for re-use.
 - No physical biochemical compatibility studies have been conducted to evaluate the co-administration of SYLVANT with other medicinal products. Do not infuse SYLVANT concomitantly in the same intravenous line with other agents.
 - Any unused product or waste material should be disposed of in accordance with local requirements.
 
@@ -507,7 +518,7 @@ Name and address of the manufacturer responsible for batch release
 
 Janssen Biologics B.V. Einsteinweg 101 NL-2333 CB Leiden The Netherlands
 
-Patheon Italia S.P.A. Via Morolense, 5 - 03013 Ferentino Italy
+Patheon Italia S.P.A. Seconda Traversa sinistra Via Morolense 5, 03013 Ferentino Italy
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -515,13 +526,15 @@ The printed package leaflet of the medicinal product must state the name and add
 
 Medicinal products subject to restricted medical prescription (See Annex I: Summary of Product Characteristics, section 4.2).
 
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING
+
+<div style=\"page-break-after: always\"></div>
+
+## AUTHORISATION
 
 ## · Periodic safety update reports
 
 The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-<div style=\"page-break-after: always\"></div>
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -533,14 +546,6 @@ An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-
-## · Obligation to conduct post-authorisation measures
-
-The MAH shall complete, within the stated timeframe, the below measures:
-
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Due date                                                                                   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| A registry should be conducted to collect information on patients with Castleman's disease, who are candidates to receive Sylvant or are currently receiving treatment with Sylvant. The registry should be continued for the either 100 patients, or 5 years, whichever is greater. The MAHshould provide tabulated data to the CHMP every 12 months in line with the periodic safety update report (PSUR) cycle including data for only those patients who are candidates for treatment with siltuximab. | Protocol: 31/12/2014 First tabulated update: 30/11/2015 (aligned with expected PSUR cycle) |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -612,9 +617,7 @@ Recordati Netherlands B.V. Beechavenue 54 1119PW Schiphol-Rijk Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/14/928/001 (100 mg)
-
-EU/1/14/928/002 (400 mg)
+EU/1/14/928/001 (100 mg) EU/1/14/928/002 (400 mg)
 
 ## 13. BATCH NUMBER
 
@@ -623,8 +626,7 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -764,13 +766,17 @@ If you are pregnant or breast -feeding, think that you might be pregnant or are 
 - SYLVANT is not recommended for use during pregnancy. It is not known if SYLVANT may affect the baby or a pregnant or breast-feeding woman.
 - You must not become pregnant while you are being treated with SYLVANT and for 3 months after your treatment has finished. You should use effective methods of contraception during this time.
 - In some cases, if you are pregnant and need treatment for MCD, y our doctor may advise that the benefit of taking SYLVANT for your health outweighs the possible risks to your unborn baby, including increased risk of infection and use of certain vaccines in babies born to mothers exposed to SYLVANT while pregnant.
-- It is not known if. SYLVANT passes into breast milk. You and your doctor should decide if you will continue to take SYLVANT, or breast-feed and discontinue SYLVANT.
+- It is not known if SYLVANT passes into breast milk. You and your doctor should decide if you will continue to take SYLVANT, or breast-feed and discontinue SYLVANT.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Driving and using machines
 
 SYLVANT is not likely to affect your ability to drive, cycle, or use any tools or machines.
+
+## SYLVANT contains polysorbate 80
+
+This medicine contains 0.8 mg of polysorbate 80 in each vial of 100 mg which is equivalent to 0.09 mg/kg. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How SYLVANT is given
 
@@ -818,19 +824,19 @@ Very common (may affect more than 1 in 10 people):
 - swelling in the arms, legs, neck or face
 - high blood pressure
 - respiratory infections - such as of the nose, sinuses or throat
-- urinary tract infection
-- common cold
-- sore throat
 
 <div style=\"page-break-after: always\"></div>
 
+- urinary tract infection
+- common cold
+- sore throat
 - stomach pain or discomfort, constipation, diarrhoea, heartburn, ulcers (sores) in the mouth, nausea, vomiting
 - feeling dizzy
 - headache
 - joint pain, arm or leg pain
 - weight gain.
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
 - high level of cholesterol in the blood
 
@@ -864,13 +870,13 @@ Do not use if you see opaque or foreign particles and/or if the solution appears
 
 Recordati Netherlands B.V. Beechavenue 54 1119PW Schiphol-Rijk Netherlands
 
-Manufacturer Janssen Biologics B.V. Einsteinweg 101 2333 CB Leiden
-
 <div style=\"page-break-after: always\"></div>
 
-## The Netherlands
+## Manufacturer
 
-Patheon Italia S.P.A. Via Morolense, 5 - 03013 Ferentino Italy
+Janssen Biologics B.V. Einsteinweg 101 2333 CB Leiden The Netherlands
+
+Patheon Italia S.P.A. Seconda Traversa sinistra Via Morolense 5, 03013 Ferentino Italy
 
 ## This leaflet was last revised in {MM/YYYY}.
 
@@ -891,6 +897,9 @@ This medicinal product is for single use only.
 5. Dilute the total volume of the reconstituted solution dose to 250 mL with sterile Dextrose 5%, by withdrawing a volume equal to the volume of reconstituted SYLVANT from the Dextrose 5%, 250 mL bag. Slowly add the total volume of reconstituted SYLVANT solution to the 250 mL infusion bag. Gently mix.
 6. The reconstituted solution should be kept for no more than 2 hours prior to addition into the intravenous bag. The infusion should be completed within 6 hours of the addition of the reconstituted solution to the infusion bag. Administer the diluted solution over a period of 1 hour using administration sets lined with PVC, or polyurethane (PU), or PE, containing a 0.2-micron inline polyethersulfone (PES) filter. SYLVANT does not contain preservatives; therefore do not store any unused portion of the infusion solution for re-use.
 7. No physical biochemical compatibility studies have been conducted to evaluate the co-administration of SYLVANT with other medicinal products. Do not infuse SYLVANT concomitantly in the same intravenous line with other agents.
+
+<div style=\"page-break-after: always\"></div>
+
 8. Any unused product or waste material should be disposed of in accordance with local requirements.
 
 ## Traceability
@@ -995,13 +1004,17 @@ If you are pregnant or breast -feeding, think that you might be pregnant or are 
 - SYLVANT is not recommended for use during pregnancy. It is not known if SYLVANT may affect the baby or a pregnant or breast-feeding woman.
 - You must not become  pregnant while you are being treated with SYLVANT and for 3 months after your treatment has finished. You should use effective methods of contraception during this time.
 - In some cases, if you are pregnant and need treatment for MCD, y our doctor may advise that the benefit of taking SYLVANT for your health outweighs the possible risks to your unborn baby, including increased risk of infection and use of certain vaccines in babies born to mothers exposed to SYLVANT while pregnant.
-- It is not known if. SYLVANT passes into breast milk. You and your doctor should decide if you will continue to take SYLVANT, or breast-feed and discontinue SYLVANT.
+- It is not known if SYLVANT passes into breast milk. You and your doctor should decide if you will continue to take SYLVANT, or breast-feed and discontinue SYLVANT.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Driving and using machines
 
 SYLVANT is not likely to affect your ability to drive, cycle, or use any tools or machines.
+
+## SYLVANT contains polysorbate 80
+
+This medicine contains 3.2 mg of polysorbate 80 in each vial of 400 mg which is equivalent to 0.09 mg/kg. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How SYLVANT is given
 
@@ -1051,11 +1064,11 @@ Very common (may affect more than 1 in 10 people):
 - respiratory infections - such as of the nose, sinuses or throat
 - urinary tract infection
 - common cold
-- sore throat
-- stomach pain or discomfort, constipation, diarrhoea, heartburn, ulcers (sores) in the mouth, nausea, vomiting
 
 <div style=\"page-break-after: always\"></div>
 
+- sore throat
+- stomach pain or discomfort, constipation, diarrhoea, heartburn, ulcers (sores) in the mouth, nausea, vomiting
 - feeling dizzy
 - headache
 - joint pain, arm or leg pain
@@ -1101,7 +1114,7 @@ Recordati Netherlands B.V. Beechavenue 54, 1119PW Schiphol-Rijk Netherlands
 
 Janssen Biologics B.V. Einsteinweg 101 2333 CB Leiden The Netherlands
 
-Patheon Italia S.P.A. Via Morolense, 5 - 03013 Ferentino Italy
+Patheon Italia S.P.A. Seconda Traversa sinistra Via Morolense 5, 03013 Ferentino Italy
 
 ## This leaflet was last revised in {MM/YYYY}.
 
@@ -1122,9 +1135,10 @@ This medicinal product is for single use only.
 5. Dilute the total volume of the reconstituted solution dose to 250 mL with sterile Dextrose 5%, by withdrawing a volume equal to the volume of reconstituted SYLVANT from the Dextrose 5%, 250 mL bag. Slowly add the total volume of reconstituted SYLVANT solution to the 250 mL infusion bag. Gently mix.
 6. The reconstituted solution should be kept for no more than 2 hours prior to addition into the intravenous bag. The infusion should be completed within 6 hours of the addition of the reconstituted solution to the infusion bag. Administer the diluted solution over a period of 1 hour using administration sets lined with PVC, or polyurethane (PU), or PE, containing a 0.2-micron inline polyethersulfone (PES) filter. SYLVANT does not contain preservatives; therefore do not store any unused portion of the infusion solution for re-use.
 7. No physical biochemical compatibility studies have been conducted to evaluate the co-administration of SYLVANT with other medicinal products. Do not infuse SYLVANT concomitantly in the same intravenous line with other agents.
-8. Any unused product or waste material should be disposed of in accordance with local requirements.
 
 <div style=\"page-break-after: always\"></div>
+
+8. Any unused product or waste material should be disposed of in accordance with local requirements.
 
 ## Traceability
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-22 12:34:00
+document_datetime: 2026-07-27 17:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/irbesartan-zentiva.html
 document_name: irbesartan-zentiva.html
 version: success
-processing_time: 0.171793
-conversion_datetime: 2026-04-25 16:01:28.696624
+processing_time: 0.2117095
+conversion_datetime: 2026-08-01 11:36:24.97525
 docling_version:
-  docling-serve: 1.16.1
-  docling-jobkit: 1.17.1
-  docling: 2.90.0
-  docling-core: 2.74.0
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.9.0
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Irbesartan Zentiva (previously Irbesartan Winthrop)
 
@@ -54,51 +54,51 @@ Expand section
 
 Collapse section
 
-## What is Irbesartan Zentiva?
+### What is Irbesartan Zentiva?
 
 Irbesartan Zentiva is a medicine that contains the active substance irbesartan. It is available as tablets (75, 150 and 300 mg).
 
 This medicine is the same as Aprovel, which is already authorised in the European Union (EU). The company that makes Aprovel has agreed that its scientific data can be used for Irbesartan Zentiva.
 
-## What is Irbesartan Zentiva used for?
+### What is Irbesartan Zentiva used for?
 
 Irbesartan Zentiva is used in adults who have essential hypertension (high blood pressure). 'Essential' means that the hypertension has no obvious cause. Irbesartan Zentiva is also used to treat kidney disease in adults with hypertension and type-2 diabetes.
 
 The medicine can only be obtained with a prescription.
 
-## How is Irbesartan Zentiva used?
+### How is Irbesartan Zentiva used?
 
 The usual recommended dose of Irbesartan Zentiva is 150 mg once a day. If the blood pressure is not sufficiently controlled, the dose can be increased to 300 mg a day or other medicines for hypertension can be added, such as hydrochlorothiazide. A starting dose of 75 mg can be used in patients receiving haemodialysis (a blood clearance technique) or in patients over 75 years of age.
 
 In patients with hypertension and type-2 diabetes, Irbesartan Zentiva is added to some other treatments for hypertension. Treatment is started at 150 mg once a day and is usually increased to 300 mg once a day.
 
-## How does Irbesartan Zentiva work?
+### How does Irbesartan Zentiva work?
 
 The active substance in Irbesartan Zentiva, irbesartan, is an 'angiotensin-II-receptor antagonist', which means that it blocks the action of a hormone in the body called angiotensin II. Angiotensin II is a powerful vasoconstrictor (a substance that narrows blood vessels). By blocking the receptors to which angiotensin II normally attaches, irbesartan stops the hormone having an effect, allowing the blood vessels to widen. This allows the blood pressure to drop, reducing the risks associated with high blood pressure, such as having a stroke.
 
-## How has Irbesartan Zentiva been studied?
+### How has Irbesartan Zentiva been studied?
 
 Irbesartan Zentiva was originally studied in 11 trials for its effects on blood pressure. Irbesartan Zentiva was compared with placebo (a dummy treatment) in 712 patients and with other medicines for hypertension (atenolol, enalapril or amlodipine) in 823 patients. Its use in combination with hydrochlorothiazide was also examined in 1,736 patients. The main measure of effectiveness was the reduction in diastolic blood pressure (the blood pressure measured between two heartbeats).
 
 For the treatment of kidney disease, Irbesartan Zentiva was studied in two large studies involving a total of 2,326 patients with type-2 diabetes. Irbesartan Zentiva was used for two years or more. One study looked at markers of kidney damage by measuring whether the kidneys were releasing the protein albumin into the urine. The second study looked at whether Irbesartan Zentiva increased the time taken until the patients' blood creatinine levels had doubled (a marker of kidney disease), until they needed a kidney transplant or dialysis, or until they died. In this study, Irbesartan Zentiva was compared with placebo and with amlodipine.
 
-## What benefit has Irbesartan Zentiva shown during the studies?
+### What benefit has Irbesartan Zentiva shown during the studies?
 
 In the blood-pressure studies, Irbesartan Zentiva was more effective than placebo at reducing diastolic blood pressure and had similar effects to the other medicines for hypertension. When used with hydrochlorothiazide, the effects of the two medicines were additive.
 
 In the first kidney-disease study, Irbesartan Zentiva was more effective than placebo at reducing the risk of developing kidney damage as measured by protein excretion. In the second kidney-disease study, Irbesartan Zentiva reduced the relative risk of a doubling of blood creatinine levels, needing a kidney transplant or dialysis, or death during the study by 20% in comparison with placebo. There was a 23% relative risk reduction compared with amlodipine. The main benefit was on the effect on blood creatinine levels.
 
-## What is the risk associated with Irbesartan Zentiva?
+### What is the risk associated with Irbesartan Zentiva?
 
 The most common side effect with Irbesartan Zentiva (seen in more than 1 patient in 10) is dizziness, hyperkalaemia (high blood potassium levels). For the full description of all side effects reported with Irbesartan Zentiva, see the package leaflet.
 
 Irbesartan Zentiva must not be used in people who are hypersensitive (allergic) to irbesartan or any of the other ingredients. It must not be used in women who are more than three months pregnant. Its use during the first three months of pregnancy is not recommended. Irbesartan Zentiva in combination with aliskiren-containing medicines (used to treat essential hypertension) must not be used in patients with diabetes, or moderate or severe kidney impairment.
 
-## Why has Irbesartan Zentiva been approved?
+### Why has Irbesartan Zentiva been approved?
 
 The CHMP decided that Irbesartan Zentiva's benefits are greater than its risks and recommended that it be given marketing authorisation.
 
-## Other information about Irbesartan Zentiva
+### Other information about Irbesartan Zentiva
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Irbesartan Winthrop on 19 January 2007. The name of the medicine was changed to Irbesartan Zentiva on 6 February 2012.
 
@@ -112,7 +112,7 @@ English (EN) (101.25 KB - PDF)
 
 [View](/en/documents/overview/irbesartan-zentiva-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-220)
+[Other languages (22)](#file-language-dropdown-759)
 
 български (BG) (124.88 KB - PDF)
 
@@ -144,7 +144,7 @@ Deutsch (DE) (111.47 KB - PDF)
 
 [View](/de/documents/overview/irbesartan-zentiva-epar-summary-public_de.pdf)
 
-eesti keel (ET) (110.58 KB - PDF)
+eesti (ET) (110.58 KB - PDF)
 
 **First published:** 06/05/2009 **Last updated:** 23/09/2013
 
@@ -174,13 +174,13 @@ italiano (IT) (113.96 KB - PDF)
 
 [View](/it/documents/overview/irbesartan-zentiva-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (134.93 KB - PDF)
+latviešu (LV) (134.93 KB - PDF)
 
 **First published:** 06/05/2009 **Last updated:** 23/09/2013
 
 [View](/lv/documents/overview/irbesartan-zentiva-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (116.3 KB - PDF)
+lietuvių (LT) (116.3 KB - PDF)
 
 **First published:** 06/05/2009 **Last updated:** 23/09/2013
 
@@ -234,7 +234,7 @@ slovenščina (SL) (114.69 KB - PDF)
 
 [View](/sl/documents/overview/irbesartan-zentiva-epar-summary-public_sl.pdf)
 
-Suomi (FI) (109.32 KB - PDF)
+suomi (FI) (109.32 KB - PDF)
 
 **First published:** 06/05/2009 **Last updated:** 23/09/2013
 
@@ -250,167 +250,168 @@ svenska (SV) (113.55 KB - PDF)
 
 Irbesartan Zentiva : EPAR - Product Information
 
-English (EN) (994.19 KB - PDF)
+English (EN) (546.07 KB - PDF)
 
-**First published:** 22/04/2009 **Last updated:** 22/04/2026
+**First published:** 22/04/2009 **Last updated:** 27/07/2026
 
 [View](/en/documents/product-information/irbesartan-zentiva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-28)
+[Other languages (24)](#file-language-dropdown-850)
 
-български (BG) (1.33 MB - PDF)
+български (BG) (877.32 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/bg/documents/product-information/irbesartan-zentiva-epar-product-information_bg.pdf)
 
-español (ES) (956.24 KB - PDF)
+español (ES) (515.16 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/es/documents/product-information/irbesartan-zentiva-epar-product-information_es.pdf)
 
-čeština (CS) (1.05 MB - PDF)
+čeština (CS) (615.67 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/cs/documents/product-information/irbesartan-zentiva-epar-product-information_cs.pdf)
 
-dansk (DA) (944.36 KB - PDF)
+dansk (DA) (502.98 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/da/documents/product-information/irbesartan-zentiva-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.05 MB - PDF)
+Deutsch (DE) (566.37 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/de/documents/product-information/irbesartan-zentiva-epar-product-information_de.pdf)
 
-eesti keel (ET) (936.14 KB - PDF)
+eesti (ET) (479.49 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/et/documents/product-information/irbesartan-zentiva-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.29 MB - PDF)
+ελληνικά (EL) (741.94 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/el/documents/product-information/irbesartan-zentiva-epar-product-information_el.pdf)
 
-français (FR) (997.64 KB - PDF)
+français (FR) (540.49 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/fr/documents/product-information/irbesartan-zentiva-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.07 MB - PDF)
+hrvatski (HR) (631.9 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/hr/documents/product-information/irbesartan-zentiva-epar-product-information_hr.pdf)
 
-íslenska (IS) (904.54 KB - PDF)
-
-**First published:** 22/04/2009 **Last updated:** 22/04/2026
-
-[View](/is/documents/product-information/irbesartan-zentiva-epar-product-information_is.pdf)
-
-italiano (IT) (991.39 KB - PDF)
+italiano (IT) (690.88 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/it/documents/product-information/irbesartan-zentiva-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.16 MB - PDF)
+latviešu (LV) (675.12 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/lv/documents/product-information/irbesartan-zentiva-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.08 MB - PDF)
+lietuvių (LT) (665.55 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/lt/documents/product-information/irbesartan-zentiva-epar-product-information_lt.pdf)
 
-magyar (HU) (1.11 MB - PDF)
+magyar (HU) (762.11 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/hu/documents/product-information/irbesartan-zentiva-epar-product-information_hu.pdf)
 
-Malti (MT) (1.23 MB - PDF)
+Malti (MT) (706.3 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/mt/documents/product-information/irbesartan-zentiva-epar-product-information_mt.pdf)
 
-Nederlands (NL) (954.13 KB - PDF)
+Nederlands (NL) (518.57 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/nl/documents/product-information/irbesartan-zentiva-epar-product-information_nl.pdf)
 
-norsk (NO) (902.45 KB - PDF)
-
-**First published:** 22/04/2009 **Last updated:** 22/04/2026
-
-[View](/no/documents/product-information/irbesartan-zentiva-epar-product-information_no.pdf)
-
-polski (PL) (1.22 MB - PDF)
+polski (PL) (764.73 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/pl/documents/product-information/irbesartan-zentiva-epar-product-information_pl.pdf)
 
-português (PT) (937.42 KB - PDF)
+português (PT) (510.23 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/pt/documents/product-information/irbesartan-zentiva-epar-product-information_pt.pdf)
 
-română (RO) (1.33 MB - PDF)
+română (RO) (785.63 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/ro/documents/product-information/irbesartan-zentiva-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.09 MB - PDF)
+slovenčina (SK) (795.53 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/sk/documents/product-information/irbesartan-zentiva-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.07 MB - PDF)
+slovenščina (SL) (654.38 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/sl/documents/product-information/irbesartan-zentiva-epar-product-information_sl.pdf)
 
-Suomi (FI) (961.36 KB - PDF)
+suomi (FI) (518.53 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/fi/documents/product-information/irbesartan-zentiva-epar-product-information_fi.pdf)
 
-svenska (SV) (912.92 KB - PDF)
+svenska (SV) (495.51 KB - PDF)
 
 **First published:** 22/04/2009 **Last updated:** 22/04/2026
 
 [View](/sv/documents/product-information/irbesartan-zentiva-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000338445
+Íslenska (IS) (480.84 KB - PDF)
 
-21/04/2026
+**First published:** 22/04/2009 **Last updated:** 22/04/2026
+
+[View](/is/documents/product-information/irbesartan-zentiva-epar-product-information_is.pdf)
+
+norsk (NO) (485.68 KB - PDF)
+
+**First published:** 22/04/2009 **Last updated:** 22/04/2026
+
+[View](/no/documents/product-information/irbesartan-zentiva-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000361229
+
+23/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -422,173 +423,170 @@ Product information documents contain:
 
 Irbesartan Zentiva : EPAR - All Authorised presentations
 
-English (EN) (27.97 KB - PDF)
+English (EN) (26.4 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/en/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-681)
+[Other languages (24)](#file-language-dropdown-62)
 
-български (BG) (65.16 KB - PDF)
+български (BG) (47.82 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/bg/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (31.15 KB - PDF)
+español (ES) (30.6 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/es/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (42.46 KB - PDF)
+čeština (CS) (34.64 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/cs/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (29.59 KB - PDF)
+dansk (DA) (31.13 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/da/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (30.9 KB - PDF)
+Deutsch (DE) (29.69 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/de/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (29.99 KB - PDF)
+eesti (ET) (30.56 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/et/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (64.95 KB - PDF)
+ελληνικά (EL) (47.23 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/el/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (31.24 KB - PDF)
+français (FR) (29.41 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/fr/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_fr.pdf)
 
-íslenska (IS) (30.91 KB - PDF)
+hrvatski (HR) (33.09 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
-[View](/is/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_is.pdf)
+[View](/hr/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_hr.pdf)
 
-italiano (IT) (31.82 KB - PDF)
+italiano (IT) (29.68 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/it/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (41.79 KB - PDF)
+latviešu (LV) (35.03 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/lv/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (58.22 KB - PDF)
+lietuvių (LT) (43.89 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/lt/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (42.5 KB - PDF)
+magyar (HU) (34.85 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/hu/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (54.43 KB - PDF)
+Malti (MT) (39.49 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/mt/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (31.01 KB - PDF)
+Nederlands (NL) (28.65 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/nl/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (30.97 KB - PDF)
+polski (PL) (35.44 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
-
-[View](/no/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_no.pdf)
-
-polski (PL) (43.31 KB - PDF)
-
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/pl/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (32.2 KB - PDF)
+português (PT) (30.18 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/pt/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (58.58 KB - PDF)
+română (RO) (37.7 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/ro/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (42.91 KB - PDF)
+slovenčina (SK) (44.29 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/sk/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (30.16 KB - PDF)
+slovenščina (SL) (34.91 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/sl/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (32.19 KB - PDF)
+suomi (FI) (28.99 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/fi/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (31.21 KB - PDF)
+svenska (SV) (29.25 KB - PDF)
 
-**First published:** 05/02/2007 **Last updated:** 02/07/2012
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
 
 [View](/sv/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (29.5 KB - PDF)
+
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
+
+[View](/is/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (29.18 KB - PDF)
+
+**First published:** 05/02/2007 **Last updated:** 27/07/2026
+
+[View](/no/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Irbesartan Zentiva (previously Irbesartan Winthrop)
-
-Active substance
-
-irbesartan
-
-International non-proprietary name (INN) or common name
-
-irbesartan
-
-Therapeutic area (MeSH)
-
-Hypertension
-
-Anatomical therapeutic chemical (ATC) code
-
-C09CA04
+- **Name of medicine**
+    - Irbesartan Zentiva (previously Irbesartan Winthrop)
+- **Active substance**
+    - irbesartan
+- **International non-proprietary name (INN) or common name**
+    - irbesartan
+- **Therapeutic area (MeSH)**
+    - Hypertension
+- **Anatomical therapeutic chemical (ATC) code**
+    - C09CA04
 
 ### Pharmacotherapeutic group
 
@@ -602,27 +600,16 @@ Treatment of renal disease in patients with hypertension and type-2 diabetes mel
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/000785
-
-Marketing authorisation holder
-
-Zentiva k.s.
-
-U kabelovny 130
-
-Opinion adopted
-
-19/01/2007
-
-Marketing authorisation issued
-
-19/01/2007
-
-Revision
-
-32
+- **EMA product number**
+    - EMEA/H/C/000785
+- **Marketing authorisation holder**
+    - Zentiva k.s. U kabelovny 130  Dolni Mecholupy  102 37 Prague 10  Czech Republic
+- **Opinion adopted**
+    - 19/01/2007
+- **Marketing authorisation issued**
+    - 19/01/2007
+- **Revision**
+    - 33
 
 ## Assessment history
 
@@ -630,23 +617,15 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Irbesartan Zentiva : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (157.25 KB - PDF)
+English (EN) (160.66 KB - PDF)
 
-**First published:** 15/10/2024 **Last updated:** 22/04/2026
+**First published:** 15/10/2024 **Last updated:** 27/07/2026
 
 [View](/en/documents/procedural-steps-after/irbesartan-zentiva-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
-
-Irbesartan Zentiva : EPAR - Procedural steps taken and scientific information after authorisation (archive)
-
-English (EN) (293.43 KB - PDF)
-
-**First published:** 06/05/2009 **Last updated:** 15/10/2024
-
-[View](/en/documents/procedural-steps-after/irbesartan-zentiva-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Angiotensin-II-receptor antagonists (sartans) : Scientific conclusions - Impact of the Article 5(3) scientific opinion on nitrosamines
 
@@ -656,141 +635,141 @@ English (EN) (119.28 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/en/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
+[View](/en/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-801)
+[Other languages (22)](#file-language-dropdown-448)
 
 български (BG) (145.18 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/bg/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_bg.pdf)
+[View](/bg/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_bg.pdf)
 
 español (ES) (125.85 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/es/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_es.pdf)
+[View](/es/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_es.pdf)
 
 čeština (CS) (139.02 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/cs/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_cs.pdf)
+[View](/cs/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_cs.pdf)
 
 dansk (DA) (126.81 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/da/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_da.pdf)
+[View](/da/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_da.pdf)
 
 Deutsch (DE) (131.05 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/de/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_de.pdf)
+[View](/de/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_de.pdf)
 
-eesti keel (ET) (123.85 KB - PDF)
+eesti (ET) (123.85 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/et/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_et.pdf)
+[View](/et/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_et.pdf)
 
 ελληνικά (EL) (139.5 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/el/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_el.pdf)
+[View](/el/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_el.pdf)
 
 français (FR) (127.12 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/fr/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_fr.pdf)
+[View](/fr/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_fr.pdf)
 
 hrvatski (HR) (142.87 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/hr/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_hr.pdf)
+[View](/hr/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_hr.pdf)
 
 italiano (IT) (126.56 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/it/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_it.pdf)
+[View](/it/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_it.pdf)
 
-latviešu valoda (LV) (147.7 KB - PDF)
-
-**First published:** 05/07/2021
-
-[View](/lv/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_lv.pdf)
-
-lietuvių kalba (LT) (148.34 KB - PDF)
+latviešu (LV) (147.7 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/lt/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_lt.pdf)
+[View](/lv/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_lv.pdf)
+
+lietuvių (LT) (148.34 KB - PDF)
+
+**First published:** 05/07/2021
+
+[View](/lt/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_lt.pdf)
 
 magyar (HU) (137.17 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/hu/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_hu.pdf)
+[View](/hu/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_hu.pdf)
 
 Malti (MT) (151.21 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/mt/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_mt.pdf)
+[View](/mt/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_mt.pdf)
 
 Nederlands (NL) (127.53 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/nl/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_nl.pdf)
+[View](/nl/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_nl.pdf)
 
 polski (PL) (137.7 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/pl/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_pl.pdf)
+[View](/pl/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_pl.pdf)
 
 português (PT) (128.87 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/pt/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_pt.pdf)
+[View](/pt/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_pt.pdf)
 
 română (RO) (143.59 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/ro/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_ro.pdf)
+[View](/ro/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_ro.pdf)
 
 slovenčina (SK) (135.07 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/sk/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_sk.pdf)
+[View](/sk/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_sk.pdf)
 
 slovenščina (SL) (149.74 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/sl/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_sl.pdf)
+[View](/sl/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_sl.pdf)
 
-Suomi (FI) (125.84 KB - PDF)
+suomi (FI) (125.84 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/fi/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_fi.pdf)
+[View](/fi/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_fi.pdf)
 
 svenska (SV) (126.99 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/sv/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_sv.pdf)
+[View](/sv/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_sv.pdf)
 
 Angiotensin-II-receptor antagonists (sartans) Article 31 referral - CHMP assessment report - Impact of the Article 5(3) scientific opinion on nitrosamines
 
@@ -800,7 +779,25 @@ English (EN) (362.31 KB - PDF)
 
 **First published:** 02/03/2021
 
-[View](/en/documents/variation-report/angiotensin-ii-receptor-antagonists-sartans-article-31-referral-chmp-assessment-report-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
+[View](/en/documents/referral/angiotensin-ii-receptor-antagonists-sartans-article-31-referral-chmp-assessment-report-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
+
+Angiotensin-II-receptor antagonists (sartans) Article 31 referral - CHMP assessment report
+
+Adopted Reference Number: EMA/217823/2019
+
+English (EN) (531.32 KB - PDF)
+
+**First published:** 02/05/2019
+
+[View](/en/documents/referral/angiotensin-ii-receptor-antagonists-sartans-article-31-referral-chmp-assessment-report_en.pdf)
+
+Irbesartan Zentiva : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (293.43 KB - PDF)
+
+**First published:** 06/05/2009 **Last updated:** 15/10/2024
+
+[View](/en/documents/procedural-steps-after/irbesartan-zentiva-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Irbesartan Zentiva-H-C-785-A31-80 : EPAR - Scientific conclusions
 
@@ -810,7 +807,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/irbesartan-zentiva-h-c-785-a31-80-epar-scientific-conclusions_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-408)
+[Other languages (22)](#file-language-dropdown-748)
 
 български (BG) (136.15 KB - PDF)
 
@@ -842,7 +839,7 @@ Deutsch (DE) (100.2 KB - PDF)
 
 [View](/de/documents/scientific-conclusion/irbesartan-zentiva-h-c-785-a31-80-epar-scientific-conclusions_de.pdf)
 
-eesti keel (ET) (94.4 KB - PDF)
+eesti (ET) (94.4 KB - PDF)
 
 **First published:** 22/05/2019
 
@@ -872,13 +869,13 @@ italiano (IT) (95.54 KB - PDF)
 
 [View](/it/documents/scientific-conclusion/irbesartan-zentiva-h-c-785-a31-80-epar-scientific-conclusions_it.pdf)
 
-latviešu valoda (LV) (130.68 KB - PDF)
+latviešu (LV) (130.68 KB - PDF)
 
 **First published:** 22/05/2019
 
 [View](/lv/documents/scientific-conclusion/irbesartan-zentiva-h-c-785-a31-80-epar-scientific-conclusions_lv.pdf)
 
-lietuvių kalba (LT) (130.84 KB - PDF)
+lietuvių (LT) (130.84 KB - PDF)
 
 **First published:** 22/05/2019
 
@@ -932,7 +929,7 @@ slovenščina (SL) (124.14 KB - PDF)
 
 [View](/sl/documents/scientific-conclusion/irbesartan-zentiva-h-c-785-a31-80-epar-scientific-conclusions_sl.pdf)
 
-Suomi (FI) (97.12 KB - PDF)
+suomi (FI) (97.12 KB - PDF)
 
 **First published:** 22/05/2019
 
@@ -944,23 +941,13 @@ svenska (SV) (96.85 KB - PDF)
 
 [View](/sv/documents/scientific-conclusion/irbesartan-zentiva-h-c-785-a31-80-epar-scientific-conclusions_sv.pdf)
 
-Angiotensin-II-receptor antagonists (sartans) Article 31 referral - CHMP assessment report
-
-Adopted Reference Number: EMA/217823/2019
-
-English (EN) (531.32 KB - PDF)
-
-**First published:** 02/05/2019
-
-[View](/en/documents/variation-report/angiotensin-ii-receptor-antagonists-sartans-article-31-referral-chmp-assessment-report_en.pdf)
-
 Irbesartan Zentiva (previously Irbesartan Winthrop) : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
 
 English (EN) (68.1 KB - PDF)
 
 **First published:** 18/07/2016 **Last updated:** 18/07/2016
 
-[View](/en/documents/scientific-conclusion/irbesartan-zentiva-previously-irbesartan-winthrop-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
+[View](/en/documents/scientific-conclusion/irbesartan-zentiva-previously-irbesartan-winthrop-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
 Irbesartan Zentiva (previously Irbesartan Winthrop)-H-C-785-A31-63 : EPAR - Scientific conclusions, grounds for variation to the terms of the marketing authorisations and detailed explanation of the scientific grounds fo...
 
@@ -968,9 +955,9 @@ English (EN) (48.81 KB - PDF)
 
 **First published:** 02/10/2014 **Last updated:** 02/10/2014
 
-[View](/en/documents/scientific-conclusion/irbesartan-zentiva-previously-irbesartan-winthrop-h-c-785-a31-63-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-fo_en.pdf)
+[View](/en/documents/scientific-conclusion/irbesartan-zentiva-previously-irbesartan-winthrop-h-c-785-a31-63-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-detailed-explanation-scientific-grounds-fo_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-898)
+[Other languages (22)](#file-language-dropdown-880)
 
 български (BG) (87.49 KB - PDF)
 
@@ -1002,7 +989,7 @@ Deutsch (DE) (53.54 KB - PDF)
 
 [View](/de/documents/scientific-conclusion/irbesartan-zentiva-previously-irbesartan-winthrop-h-c-785-a31-63-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-fo_de.pdf)
 
-eesti keel (ET) (50.6 KB - PDF)
+eesti (ET) (50.6 KB - PDF)
 
 **First published:** 02/10/2014 **Last updated:** 02/10/2014
 
@@ -1032,13 +1019,13 @@ italiano (IT) (51.13 KB - PDF)
 
 [View](/it/documents/scientific-conclusion/irbesartan-zentiva-previously-irbesartan-winthrop-h-c-785-a31-63-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-fo_it.pdf)
 
-latviešu valoda (LV) (81.63 KB - PDF)
+latviešu (LV) (81.63 KB - PDF)
 
 **First published:** 02/10/2014 **Last updated:** 02/10/2014
 
 [View](/lv/documents/scientific-conclusion/irbesartan-zentiva-previously-irbesartan-winthrop-h-c-785-a31-63-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-fo_lv.pdf)
 
-lietuvių kalba (LT) (82.54 KB - PDF)
+lietuvių (LT) (82.54 KB - PDF)
 
 **First published:** 02/10/2014 **Last updated:** 02/10/2014
 
@@ -1092,7 +1079,7 @@ slovenščina (SL) (79.79 KB - PDF)
 
 [View](/sl/documents/scientific-conclusion/irbesartan-zentiva-previously-irbesartan-winthrop-h-c-785-a31-63-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-fo_sl.pdf)
 
-Suomi (FI) (49.15 KB - PDF)
+suomi (FI) (49.15 KB - PDF)
 
 **First published:** 02/10/2014 **Last updated:** 02/10/2014
 
@@ -1152,7 +1139,7 @@ English (EN) (257.54 KB - PDF)
 
 [View](/en/documents/variation-report/irbesartan-zentiva-h-c-785-p45-11-epar-assessment-report_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Irbesartan Winthrop : EPAR - Scientific Discussion
 
@@ -1217,6 +1204,6 @@ English (EN) (511.41 KB - PDF)
 
 **This page was last updated on**
 
-22/04/2026
+27/07/2026
 
 ## Share this page

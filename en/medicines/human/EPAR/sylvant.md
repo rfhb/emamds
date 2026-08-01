@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-24 17:35:00
+document_datetime: 2026-07-30 16:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sylvant.html
 document_name: sylvant.html
 version: success
-processing_time: 0.093254
-conversion_datetime: 2026-03-29 12:40:28.37682
+processing_time: 0.1440607
+conversion_datetime: 2026-08-01 11:33:53.904437
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Sylvant
 
@@ -59,7 +59,7 @@ Expand section
 
 Collapse section
 
-## How is Sylvant used?
+### How is Sylvant used?
 
 Sylvant can only be obtained with a prescription and treatment should be given by qualified healthcare professionals and under appropriate medical supervision. It is given by infusion (drip) into a vein. The recommended dose is 11 mg per kilogram body weight, and the infusion should last around one hour. Sylvant is given every three weeks, until the patient no longer benefits from treatment.
 
@@ -67,27 +67,27 @@ During the first 12 months of treatment the patient should have a blood test bef
 
 For more information about using Sylvant, see the summary of product characteristics or contact a doctor or pharmacist.
 
-## How does Sylvant work?
+### How does Sylvant work?
 
 The active substance in Sylvant, siltuximab, is a monoclonal antibody. A monoclonal antibody is a type of protein that has been designed to recognise and attach to a specific structure (called an antigen) in the body. Siltuximab has been designed to attach to a protein in the body called interleukin 6 (IL-6). Patients with Castleman's disease produce too much IL-6 and this is thought to contribute to the abnormal growth of certain cells in the lymph nodes. By attaching to IL-6, siltuximab blocks its activity and stops abnormal cell growth, thus reducing the size of the lymph nodes and the symptoms of the disease.
 
-## What benefits of Sylvant have been shown in studies?
+### What benefits of Sylvant have been shown in studies?
 
 Sylvant has been investigated in one main study involving 79 adults with multicentric Castleman's disease who did not have HIV or HHV-8 infection. The effect of the medicine was compared with placebo (a dummy treatment) and the main measure of effectiveness was the proportion of patients who responded to treatment for at least 18 weeks, as shown by a 50% reduction ('partial response') or complete disappearance ('complete response') of tumours and symptoms of the disease.
 
 Sylvant was more effective than placebo in reducing tumour size and disease symptoms: 17 out of 53 patients who received Sylvant showed a partial response and one showed a complete response, compared with none of the 26 patients who received placebo. This effect was maintained for almost one year.
 
-## What are the risks associated with Sylvant?
+### What are the risks associated with Sylvant?
 
 The most common side effects with Sylvant (which may affect more than 1 in 5 people) are infections (including upper respiratory tract infections such as those of the throat and nose), itching, rash, joint pain and diarrhoea. The most serious side effect is anaphylactic reaction (a severe allergic reaction).
 
 For the full list of side effects and restrictions of Sylvant, see the package leaflet.
 
-## Why is Sylvant authorised in the EU?
+### Why is Sylvant authorised in the EU?
 
 The European Medicines Agency decided that Sylvant's benefits are greater than its risks and it can be authorised for use in the EU. The Agency concluded that Sylvant has shown beneficial effect by reducing tumour size and symptoms in patients with multicentric Castleman's disease, and that this positive effect seems to be maintained over time. The Agency also acknowledged that there is an unmet medical need for these patients. Side effects of Sylvant were considered acceptable but further long-term data are to be collected.
 
-## What measures are being taken to ensure the safe and effective use of Sylvant?
+### What measures are being taken to ensure the safe and effective use of Sylvant?
 
 The company that markets Sylvant is required to set up a patient registry to provide further data on long-term safety. The company will ensure that healthcare professionals who are expected to use the medicine are provided with information on how to enter their patients in the registry.
 
@@ -95,7 +95,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Sylvant are continuously monitored. Side effects reported with Sylvant are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Sylvant
+### Other information about Sylvant
 
 Sylvant received a marketing authorisation valid throughout the EU on 22 May 2014.
 
@@ -109,7 +109,7 @@ English (EN) (109.24 KB - PDF)
 
 [View](/en/documents/overview/sylvant-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-995)
+[Other languages (22)](#file-language-dropdown-906)
 
 български (BG) (105.39 KB - PDF)
 
@@ -141,7 +141,7 @@ Deutsch (DE) (78.32 KB - PDF)
 
 [View](/de/documents/overview/sylvant-epar-summary-public_de.pdf)
 
-eesti keel (ET) (69.02 KB - PDF)
+eesti (ET) (69.02 KB - PDF)
 
 **First published:** 19/06/2014 **Last updated:** 13/07/2018
 
@@ -171,13 +171,13 @@ italiano (IT) (76.33 KB - PDF)
 
 [View](/it/documents/overview/sylvant-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (99.68 KB - PDF)
+latviešu (LV) (99.68 KB - PDF)
 
 **First published:** 19/06/2014 **Last updated:** 13/07/2018
 
 [View](/lv/documents/overview/sylvant-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (100.71 KB - PDF)
+lietuvių (LT) (100.71 KB - PDF)
 
 **First published:** 19/06/2014 **Last updated:** 13/07/2018
 
@@ -231,7 +231,7 @@ slovenščina (SL) (96.32 KB - PDF)
 
 [View](/sl/documents/overview/sylvant-epar-summary-public_sl.pdf)
 
-Suomi (FI) (75.66 KB - PDF)
+suomi (FI) (75.66 KB - PDF)
 
 **First published:** 19/06/2014 **Last updated:** 13/07/2018
 
@@ -255,167 +255,168 @@ English (EN) (71.17 KB - PDF)
 
 Sylvant : EPAR - Product information
 
-English (EN) (455.74 KB - PDF)
+English (EN) (443.11 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/en/documents/product-information/sylvant-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-709)
+[Other languages (24)](#file-language-dropdown-566)
 
-български (BG) (528.81 KB - PDF)
+български (BG) (510.82 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/bg/documents/product-information/sylvant-epar-product-information_bg.pdf)
 
-español (ES) (405.03 KB - PDF)
+español (ES) (395.24 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/es/documents/product-information/sylvant-epar-product-information_es.pdf)
 
-čeština (CS) (498.94 KB - PDF)
+čeština (CS) (481.09 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/cs/documents/product-information/sylvant-epar-product-information_cs.pdf)
 
-dansk (DA) (409.61 KB - PDF)
+dansk (DA) (399.82 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/da/documents/product-information/sylvant-epar-product-information_da.pdf)
 
-Deutsch (DE) (429.5 KB - PDF)
+Deutsch (DE) (418.49 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/de/documents/product-information/sylvant-epar-product-information_de.pdf)
 
-eesti keel (ET) (500.34 KB - PDF)
+eesti (ET) (489.74 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/et/documents/product-information/sylvant-epar-product-information_et.pdf)
 
-ελληνικά (EL) (496.33 KB - PDF)
+ελληνικά (EL) (490.84 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/el/documents/product-information/sylvant-epar-product-information_el.pdf)
 
-français (FR) (445.91 KB - PDF)
+français (FR) (437.68 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/fr/documents/product-information/sylvant-epar-product-information_fr.pdf)
 
-hrvatski (HR) (504.28 KB - PDF)
+hrvatski (HR) (496.36 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/hr/documents/product-information/sylvant-epar-product-information_hr.pdf)
 
-íslenska (IS) (407.14 KB - PDF)
+italiano (IT) (425.09 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
-
-[View](/is/documents/product-information/sylvant-epar-product-information_is.pdf)
-
-italiano (IT) (411.61 KB - PDF)
-
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/it/documents/product-information/sylvant-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (495.52 KB - PDF)
+latviešu (LV) (465.18 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/lv/documents/product-information/sylvant-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (532.34 KB - PDF)
+lietuvių (LT) (512.96 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/lt/documents/product-information/sylvant-epar-product-information_lt.pdf)
 
-magyar (HU) (520.88 KB - PDF)
+magyar (HU) (501.52 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/hu/documents/product-information/sylvant-epar-product-information_hu.pdf)
 
-Malti (MT) (549.04 KB - PDF)
+Malti (MT) (523.45 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/mt/documents/product-information/sylvant-epar-product-information_mt.pdf)
 
-Nederlands (NL) (439.23 KB - PDF)
+Nederlands (NL) (431.33 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/nl/documents/product-information/sylvant-epar-product-information_nl.pdf)
 
-norsk (NO) (420.5 KB - PDF)
+polski (PL) (514.18 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
-
-[View](/no/documents/product-information/sylvant-epar-product-information_no.pdf)
-
-polski (PL) (526.42 KB - PDF)
-
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/pl/documents/product-information/sylvant-epar-product-information_pl.pdf)
 
-português (PT) (409.76 KB - PDF)
+português (PT) (437.94 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/pt/documents/product-information/sylvant-epar-product-information_pt.pdf)
 
-română (RO) (499.51 KB - PDF)
+română (RO) (489.42 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/ro/documents/product-information/sylvant-epar-product-information_ro.pdf)
 
-slovenčina (SK) (532.04 KB - PDF)
+slovenčina (SK) (511.19 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/sk/documents/product-information/sylvant-epar-product-information_sk.pdf)
 
-slovenščina (SL) (517.43 KB - PDF)
+slovenščina (SL) (511.21 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/sl/documents/product-information/sylvant-epar-product-information_sl.pdf)
 
-Suomi (FI) (504.81 KB - PDF)
+suomi (FI) (498.33 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/fi/documents/product-information/sylvant-epar-product-information_fi.pdf)
 
-svenska (SV) (417.97 KB - PDF)
+svenska (SV) (409.4 KB - PDF)
 
-**First published:** 19/06/2014 **Last updated:** 24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
 
 [View](/sv/documents/product-information/sylvant-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000337997
+Íslenska (IS) (401.19 KB - PDF)
 
-24/03/2026
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
+
+[View](/is/documents/product-information/sylvant-epar-product-information_is.pdf)
+
+norsk (NO) (409.98 KB - PDF)
+
+**First published:** 19/06/2014 **Last updated:** 30/07/2026
+
+[View](/no/documents/product-information/sylvant-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000357527
+
+28/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -433,7 +434,7 @@ English (EN) (16.72 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sylvant-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-604)
+[Other languages (24)](#file-language-dropdown-268)
 
 български (BG) (43.29 KB - PDF)
 
@@ -465,7 +466,7 @@ Deutsch (DE) (17.3 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/sylvant-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (17.08 KB - PDF)
+eesti (ET) (17.08 KB - PDF)
 
 **First published:** 19/06/2014 **Last updated:** 19/06/2014
 
@@ -489,25 +490,19 @@ hrvatski (HR) (30.58 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/sylvant-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (19.3 KB - PDF)
-
-**First published:** 19/06/2014 **Last updated:** 19/06/2014
-
-[View](/is/documents/all-authorised-presentations/sylvant-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (21.75 KB - PDF)
 
 **First published:** 19/06/2014 **Last updated:** 19/06/2014
 
 [View](/it/documents/all-authorised-presentations/sylvant-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (41.01 KB - PDF)
+latviešu (LV) (41.01 KB - PDF)
 
 **First published:** 19/06/2014 **Last updated:** 19/06/2014
 
 [View](/lv/documents/all-authorised-presentations/sylvant-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (35.28 KB - PDF)
+lietuvių (LT) (35.28 KB - PDF)
 
 **First published:** 19/06/2014 **Last updated:** 19/06/2014
 
@@ -530,12 +525,6 @@ Nederlands (NL) (21.6 KB - PDF)
 **First published:** 19/06/2014 **Last updated:** 19/06/2014
 
 [View](/nl/documents/all-authorised-presentations/sylvant-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (18.88 KB - PDF)
-
-**First published:** 19/06/2014 **Last updated:** 19/06/2014
-
-[View](/no/documents/all-authorised-presentations/sylvant-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (35.96 KB - PDF)
 
@@ -567,7 +556,7 @@ slovenščina (SL) (22.97 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/sylvant-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (17.6 KB - PDF)
+suomi (FI) (17.6 KB - PDF)
 
 **First published:** 19/06/2014 **Last updated:** 19/06/2014
 
@@ -579,27 +568,30 @@ svenska (SV) (17.64 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/sylvant-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (19.3 KB - PDF)
+
+**First published:** 19/06/2014 **Last updated:** 19/06/2014
+
+[View](/is/documents/all-authorised-presentations/sylvant-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (18.88 KB - PDF)
+
+**First published:** 19/06/2014 **Last updated:** 19/06/2014
+
+[View](/no/documents/all-authorised-presentations/sylvant-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Sylvant
-
-Active substance
-
-siltuximab
-
-International non-proprietary name (INN) or common name
-
-siltuximab
-
-Therapeutic area (MeSH)
-
-Giant Lymph Node Hyperplasia
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AC11
+- **Name of medicine**
+    - Sylvant
+- **Active substance**
+    - siltuximab
+- **International non-proprietary name (INN) or common name**
+    - siltuximab
+- **Therapeutic area (MeSH)**
+    - Giant Lymph Node Hyperplasia
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AC11
 
 ### Pharmacotherapeutic group
 
@@ -611,35 +603,20 @@ Sylvant is indicated for the treatment of adult patients with multicentric Castl
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/003708
-
-Accelerated assessment
-
-This medicine had an accelerated assessment. This means that it is a medicine of major interest for public health, so its timeframe for review was 150 evaluation days rather than 210. For more information, see [Accelerated assessment](/node/69621) .
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Recordati Netherlands B.V.
-
-Recordati Netherlands B.V.
-
-Opinion adopted
-
-20/03/2014
-
-Marketing authorisation issued
-
-22/05/2014
-
-Revision
-
-15
+- **EMA product number**
+    - EMEA/H/C/003708
+- **Accelerated assessment**
+    - This medicine had an accelerated assessment. This means that it is a medicine of major interest for public health, so its timeframe for review was 150 evaluation days rather than 210. For more information, see [Accelerated assessment](/node/69621) .
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Recordati Netherlands B.V. Recordati Netherlands B.V.  Beechavenue 54  1119PW Schiphol-Rijk  NETHERLANDS
+- **Opinion adopted**
+    - 20/03/2014
+- **Marketing authorisation issued**
+    - 22/05/2014
+- **Revision**
+    - 16
 
 ## Assessment history
 
@@ -647,13 +624,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Sylvant : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (159.85 KB - PDF)
+English (EN) (164.72 KB - PDF)
 
-**First published:** 24/10/2025 **Last updated:** 24/03/2026
+**First published:** 24/10/2025 **Last updated:** 30/07/2026
 
 [View](/en/documents/procedural-steps-after/sylvant-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -665,7 +642,7 @@ English (EN) (824.34 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/sylvant-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Sylvant : EPAR - Public assessment report
 
@@ -711,6 +688,6 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 **This page was last updated on**
 
-24/03/2026
+30/07/2026
 
 ## Share this page

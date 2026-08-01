@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-15 10:59:46
+document_datetime: 2026-07-29 15:29:19
 document_pages: 60
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pecfent-epar-product-information_en.pdf
 document_name: pecfent-epar-product-information_en.pdf
 version: success
-processing_time: 12.2001338
-conversion_datetime: 2026-07-16 13:30:31.384561
+processing_time: 13.4325248
+conversion_datetime: 2026-08-01 12:00:02.460162
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.113.0
-  docling-core: 2.87.1
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,9 +30,7 @@ PecFent 100 micrograms/spray nasal spray, solution PecFent 400 micrograms/spray 
 
 PecFent 100 micrograms/spray nasal spray, solution Each ml of solution contains 1,000 micrograms fentanyl (as citrate) 1 spray (100 microlitres) contains 100 micrograms fentanyl (as citrate)
 
-Bottles contain: 0.95 ml (950 micrograms fentanyl) -   2 spray bottle or
-
-1.55 ml (1,550  micrograms fentanyl) - 8 spray bottle
+Bottles contain: 0.95 ml (950 micrograms fentanyl) - 2 spray bottle or 1.55 ml (1,550 micrograms fentanyl) - 8 spray bottle
 
 PecFent 400 micrograms/spray nasal spray, solution Each ml of solution contains 4,000 micrograms fentanyl (as citrate) 1 spray (100 microlitres) contains 400 micrograms fentanyl (as citrate)
 
@@ -72,7 +70,7 @@ PecFent is available in two strengths: 100 micrograms/spray and 400 micrograms/s
 
 One dose of PecFent may include administration of 1 spray (100 microgram or 400 microgram doses) or 2 sprays (200 microgram or 800 microgram doses) of the same strength (either 100 microgram or 400 microgram strength).
 
-Patients should not  use more than 4 doses per day. Patients should wait at least 4 hours after a dose before treating another BTP episode with PecFent.
+Patients should not use more than 4 doses per day. Patients should wait at least 4 hours after a dose before treating another BTP episode with PecFent.
 
 PecFent can deliver 100, 200, 400 and 800 microgram doses as follows:
 
@@ -94,13 +92,15 @@ PecFent can deliver 100, 200, 400 and 800 microgram doses as follows:
 - Patients whose initial dose is 100 micrograms and who need to titrate to a higher dose due to a lack of effect can be instructed to use two 100 microgram sprays (one in each nostril) for their next BTP episode. If this dose is not successful, the patient may be prescribed a bottle of PecFent 400 micrograms/spray and instructed to change to one 400 microgram spray for their next episode of pain. If this dose is not successful, the patient may be instructed to increase to two 400 microgram sprays (one in each nostril).
 - From treatment initiation, patients should be closely followed and the dose titrated until an effective dose is reached and confirmed for two consecutively treated episodes of BTP.
 
-Titration in patients switching between immediate-release fentanyl containing products Substantial differences may exist in the pharmacokinetic profile of immediate-release fentanyl medicinal products, which result in clinically important differences in the rate and extent of absorption of fentanyl.  Therefore, when switching between fentanyl containing medicinal products indicated for treatment of breakthrough pain, including intranasal formulations, it is essential that patients are again titrated with the new medicinal product, and not switched on a dose-for-dose (microgram-formicrogram) basis.
+## Titration in patients switching between immediate-release fentanyl containing products
 
-<div style=\"page-break-after: always\"></div>
+Substantial differences may exist in the pharmacokinetic profile of immediate-release fentanyl medicinal products, which result in clinically important differences in the rate and extent of absorption of fentanyl. Therefore, when switching between fentanyl containing medicinal products indicated for treatment of breakthrough pain, including intranasal formulations, it is essential that patients are again titrated with the new medicinal product, and not switched on a dose-for-dose (microgram-formicrogram) basis.
 
 ## Maintenance therapy
 
 Once an effective dose has been established during titration, patients should continue to take this dose up to a maximum of 4 doses per day.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Dose readjustment
 
@@ -114,7 +114,7 @@ If adverse reactions are intolerable or persistent, the dose should be reduced o
 
 ## Treatment duration and goals
 
-Before initiating treatment with PecFent, a treatment strategy including treatment duration and treatment goals, and a plan for end of the treatment, should be agreed together with the patient, in accordance with pain management guidelines. During treatment, there should be frequent contact between the physician and the patient to evaluate the need for continued treatment, consider discontinuation and to adjust dosages if needed. In absence of adequate pain control, the possibility of hyperalgesia, tolerance and progression of underlying disease should be considered (see section 4.4). PecFent should not be used longer than necessary.
+Before initiating treatment with PecFent, a treatment strategy including treatment duration and treatment goals, and a plan for end of the treatment, should be agreed together with the patient, in accordance with pain management guidelines. During treatment, there should be frequent contact between the physician and the patient  to  evaluate  the  need  for  continued  treatment,  consider  discontinuation  and  to  adjust dosages if needed. In absence of adequate pain control, the possibility of hyperalgesia, tolerance and progression of underlying disease should be considered (see section 4.4). PecFent should not be used longer than necessary.
 
 ## Discontinuation of therapy
 
@@ -124,7 +124,7 @@ PecFent should be discontinued immediately if the patient no longer experiences 
 
 ## Elderly (older than 65 years)
 
-In the PecFent clinical trial programme, 104 (26.1%) of patients were over 60 years of age, 67 (16.8%) over 65 years and 15 (3.8%) over 75 years.  There was no indication that older patients tended to titrate to lower doses or experience more adverse reactions. Nevertheless, in view of the importance of renal and hepatic function in the metabolism and clearance of fentanyl, additional care should be exercised in the use of PecFent in the elderly. No data on the pharmacokinetics of PecFent in elderly patients are available.
+In the PecFent clinical trial programme, 104 (26.1%) of patients were over 60 years of age, 67 (16.8%) over 65 years and 15 (3.8%) over 75 years. There was no indication that older patients tended to titrate to lower doses or experience more adverse reactions. Nevertheless, in view of the importance of renal and hepatic function in the metabolism and clearance of fentanyl, additional care should be exercised in the use of PecFent in the elderly. No data on the pharmacokinetics of PecFent in elderly patients are available.
 
 ## Hepatic or renal impairment
 
@@ -136,11 +136,13 @@ The safety and efficacy of PecFent in children and adolescents aged below 18 yea
 
 No data are available.
 
-Method of administration PecFent is for  nasal  use only.
+## Method of administration
 
-<div style=\"page-break-after: always\"></div>
+PecFent is for nasal use only.
 
 The bottle should be removed from the child resistant container immediately prior to use and the protective cap removed. The bottle must be primed before first use by holding upright and simply pressing and releasing the finger grips either side of the nozzle until a green bar appears in the counting window (should occur after four sprays).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 2 spray bottle:
 
@@ -180,13 +182,13 @@ Patients and their carers must be instructed that PecFent contains an active sub
 
 In order to minimise the risks of opioid-related adverse reactions and to identify the effective dose, it is imperative that patients be monitored closely by health professionals during the titration process.
 
-<div style=\"page-break-after: always\"></div>
-
 It is important that the long acting opioid treatment used to treat the patient's persistent pain has been stabilised before PecFent therapy begins.
 
 ## Hyperalgesia
 
 As with other opioids, in case of insufficient pain control in response to an increased dose of fentanyl, the  possibility  of  opioid-induced  hyperalgesia  should  be  considered.  A  fentanyl  dose  reduction  or discontinuation of fentanyl treatment or treatment review may be indicated.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Respiratory depression
 
@@ -208,6 +210,8 @@ Fentanyl may produce bradycardia. PecFent should, therefore, be used with cautio
 
 In addition, PecFent should be administered with caution to patients with hepatic or renal impairment. The influence of hepatic and renal impairment on the pharmacokinetics of the medicinal product has not been evaluated; however, when administered intravenously the clearance of fentanyl has been shown to be altered in hepatic and renal impairment due to alterations in metabolic clearance and plasma proteins. Therefore, special care should be taken during the titration process in patients with moderate or severe hepatic or renal impairment.
 
+## Hypovolaemia and hypotension
+
 Careful consideration should be given to patients with hypovolaemia and hypotension.
 
 ## Tolerance and Opioid Use Disorder (abuse and dependence)
@@ -218,8 +222,6 @@ Repeated use of PecFent may lead to Opioid Use Disorder (OUD). A higher dose and
 
 Before initiating treatment with PecFent and during the treatment, treatment goals and a discontinuation plan should be agreed with the patient (see section 4.2). Before and during treatment the patient should also be informed about the risks and signs of OUD. Patients should be advised to contact their physician if these signs occur.
 
-<div style=\"page-break-after: always\"></div>
-
 Patients will require monitoring for signs of drug-seeking behavior (e.g. too early requests for refills). This includes the review of concomitant opioids and psycho-active drugs (like benzodiazepines). For patients with signs and symptoms of OUD, consultation with an addiction specialist should be considered.
 
 Athletes should be informed that treatment with fentanyl could lead to positive doping tests.
@@ -227,6 +229,8 @@ Athletes should be informed that treatment with fentanyl could lead to positive 
 ## Serotonin Syndrome
 
 Caution is advised when PecFent is coadministered with medicinal products that affect the serotoninergic neurotransmitter systems.
+
+<div style=\"page-break-after: always\"></div>
 
 The development of a potentially life-threatening serotonin syndrome may occur with the concomitant use of serotonergic medicinal products such as Selective Serotonin Re-uptake Inhibitors (SSRIs) and Serotonin Norepinephrine Re-uptake Inhibitors (SNRIs), and with medicinal products which impair metabolism of serotonin (including Monoamine Oxidase Inhibitors [MAOIs]). This may occur within the recommended dose (see section 4.5).
 
@@ -236,7 +240,7 @@ If serotonin syndrome is suspected, treatment with PecFent should be discontinue
 
 ## Route of administration
 
-PecFent is only intended for nasal use, and must not be administered by any other route.  Due to physico-chemical properties of excipients included in the formulation, intravenous or intra-arterial injection must be avoided in particular.
+PecFent is only intended for nasal use, and must not be administered by any other route. Due to physico-chemical properties of excipients included in the formulation, intravenous or intra-arterial injection must be avoided in particular.
 
 ## Nasal conditions
 
@@ -256,17 +260,21 @@ In this respect, it is strongly recommended to inform patients and their caregiv
 
 ## PecFent excipients
 
-PecFent contains propylparahydroxybenzoate (E216). Propylparahydroxybenzoate  may cause allergic reactions (possibly delayed) and, exceptionally, bronchospasm (if the medicinal product is not correctly administered).
-
-<div style=\"page-break-after: always\"></div>
+PecFent contains propylparahydroxybenzoate (E216). Propylparahydroxybenzoate may cause allergic reactions (possibly delayed) and, exceptionally, bronchospasm (if the medicinal product is not correctly administered).
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Concomitant use of medicinal products containing sodium oxybate and fentanyl is contraindicated (see section 4.3). The treatment of sodium oxybate should be discontinued before start of treatment with PecFent.
 
-Fentanyl is metabolised mainly via the human cytochrome P450 3A4 isoenzyme system (CYP3A4), therefore potential interactions may occur when PecFent is given concurrently with  medicinal products that affect CYP3A4 activity. Coadministration with medicinal products that induce 3A4 activity may reduce the efficacy of PecFent. The concomitant use of PecFent with strong CYP3A4 inhibitors (e.g. ritonavir, ketoconazole, itraconazole, troleandomycin, clarithromycin, and nelfinavir) or moderate CYP3A4 inhibitors (e.g. amprenavir, aprepitant, diltiazem, erythromycin, fluconazole, fosamprenavir, grapefruit juice, and verapamil) may result in increased fentanyl plasma concentrations, potentially causing serious adverse drug reactions including fatal respiratory depression. Patients receiving PecFent concomitantly with moderate or strong CYP3A4 inhibitors should be carefully monitored for an extended period of time. Dose increase should be undertaken with caution.
+Fentanyl is metabolised mainly via the human cytochrome P450 3A4 isoenzyme system (CYP3A4), therefore potential interactions may occur when PecFent is given concurrently with medicinal products that affect CYP3A4 activity. Coadministration with medicinal products that induce 3A4 activity may reduce the efficacy of PecFent. The concomitant use of PecFent with strong CYP3A4 inhibitors (e.g.
 
-The concomitant use of other central nervous system depressants, including other opioids, sedatives or hypnotics, general anaesthetics, phenothiazines, tranquillisers, skeletal muscle relaxants, gabapentinoids (gabapentin and pregabalin) sedating antihistamines and alcohol may produce additive depressant effects. Concomitant use of opioids with sedative medicines such as benzodiazepines or related drugs increases the risk of sedation, respiratory depression, coma and death because of additive CNS depressant effect. The lowest effective dose of sedative medicines should be used and duration of concomitant use should be limited (see section 4.4).
+<div style=\"page-break-after: always\"></div>
+
+ritonavir, ketoconazole, itraconazole, troleandomycin, clarithromycin, and nelfinavir) or moderate CYP3A4 inhibitors (e.g. amprenavir, aprepitant, diltiazem, erythromycin, fluconazole, fosamprenavir, grapefruit juice, and verapamil) may result in increased fentanyl plasma concentrations, potentially causing serious adverse drug reactions including fatal respiratory depression. Patients receiving PecFent concomitantly with moderate or strong CYP3A4 inhibitors should be carefully monitored for an extended period of time. Dose increase should be undertaken with caution.
+
+## CNS depressants
+
+The concomitant use of other central nervous system depressants, including other opioids, antitussives or substitution treatments, H1 antihistamines, barbiturates, anxiolytics (i.e., benzodiazepines), antipsychotics, clonidine, sedatives or hypnotics, general anaesthetics, phenothiazines, tranquillisers, skeletal muscle relaxants, gabapentinoids (gabapentin and pregabalin) sedating antihistamines and alcohol may produce increased CNS depressant effects, increased risk of sedation, respiratory depression, hypotension, coma, and death because of additive CNS depressant effect. The lowest effective dose of sedative medicines should be used and duration of concomitant use should be limited (see section 4.4).
 
 ## Serotoninergic medicinal products:
 
@@ -284,11 +292,11 @@ Concomitant use of PecFent and other medicinal products (other than oxymetazolin
 
 ## Pregnancy
 
-<div style=\"page-break-after: always\"></div>
-
 There are no adequate data from the use of fentanyl in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3). The potential risk for humans is unknown. PecFent should not be used during pregnancy unless clearly necessary.
 
 Following long-term treatment, fentanyl may cause withdrawal in the new-born infant. It is advised not to use fentanyl during labour and delivery (including caesarean section) because fentanyl passes through the placenta and may cause respiratory depression in the foetus. If PecFent is administered, an antidote for the child should be readily available.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Breastfeeding
 
@@ -314,38 +322,36 @@ The clinical studies of PecFent were designed to evaluate safety and efficacy in
 
 ## Tabulated list of adverse reactions
 
-The following adverse reactions have been reported with PecFent and/or other fentanyl-containing compounds during clinical studies and post marketing experience ( frequencies defined as very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); unknown (cannot be estimated from available data)) .
+The following adverse reactions have been reported with PecFent and/or other fentanyl-containing compounds during clinical studies and post marketing experience ( frequencies defined as very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); unknown (cannot be estimated from available data)).
 
-|                                      | Common   | Uncommon                                       | Unknown   |
-|--------------------------------------|----------|------------------------------------------------|-----------|
-| Infections and infestations          |          | Pneumonia Nasopharyngitis Pharyngitis Rhinitis |           |
-| Blood and lymphatic system disorders |          | Neutropenia                                    |           |
-| Immune system disorders              |          | Hypersensitivity                               |           |
+|                                    | Common   | Uncommon                                               | Unknown   |
+|------------------------------------|----------|--------------------------------------------------------|-----------|
+| Infections and infestations        |          | Pneumonia Nasopharyngitis Pharyngitis Rhinitis         |           |
+| Immune system disorders            |          | Hypersensitivity                                       |           |
+| Metabolism and nutrition disorders |          | Anorexia Dehydration Hyperglycaemia Decreased appetite |           |
 
 <div style=\"page-break-after: always\"></div>
 
 |                                                 | Common                                                           | Uncommon                                                                                                                                                                                                                              | Unknown                                         |
 |-------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| Metabolism and nutrition disorders              |                                                                  | Dehydration Hyperglycaemia Decreased appetite Increased appetite                                                                                                                                                                      |                                                 |
-| Psychiatric disorders                           | Disorientation                                                   | Delirium Hallucination Confusional state Depression Attention deficit/hyperactivity disorder Anxiety Euphoric mood Nervousness                                                                                                        | Insomnia Drug dependence (addiction) Drug abuse |
-| Nervous system disorders                        | Dysgeusia Dizziness Somnolence Headache                          | Loss of consciousness Depressed level of consciousness Convulsion Ageusia Anosmia Memory impairment Parosmia Speech disorder Sedation Lethargy Tremor                                                                                 |                                                 |
+| Psychiatric disorders                           | Disorientation                                                   | Delirium Abnormal dreams HallucinationConfusional state Depression Paranoia Attention deficit/hyperactivity disorder Anxiety Euphoric mood Dysphoria Nervousness                                                                      | Insomnia Drug dependence (addiction) Drug abuse |
+| Nervous system disorders                        | Dysgeusia Dizziness Somnolence Headache                          | Loss of consciousness Depressed level of consciousness Convulsion Ageusia Anosmia Memory impairment Parosmia Speech disorder Sedation Lethargy Tremor Sleep disorder                                                                  |                                                 |
+| Eye disorders                                   |                                                                  | Vision blurred                                                                                                                                                                                                                        |                                                 |
 | Ear and labyrinth disorders                     |                                                                  | Vertigo                                                                                                                                                                                                                               |                                                 |
 | Cardiac disorders                               |                                                                  | Cyanosis                                                                                                                                                                                                                              |                                                 |
-| Vascular disorders                              |                                                                  | Cardiovascular insufficiency Lymphoedema Hypotension Hot flush                                                                                                                                                                        | Flushing                                        |
+| Vascular disorders                              |                                                                  | Hypotension Hot flush                                                                                                                                                                                                                 | Flushing                                        |
 | Respiratory, thoracic and mediastinal disorders | Epistaxis Rhinorrhoea Nasal discomfort (such as 'nasal burning') | Upper airway obstruction Pharyngolaryngeal pain Rhinalgia Nasal mucosal disorder Cough Dyspnoea Sneezing Upper respiratory tract congestion Nasal congestion Intranasal hypoaesthesia Throat irritiation Postnasal drip Nasal dryness | Respiratory depression                          |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                      | Common                       | Uncommon                                                                                                                                                       | Unknown                                                          |
-|------------------------------------------------------|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-| Gastrointestinal disorders                           | Vomiting Nausea Constipation | Intestinal perforation Peritonitis Oral hypoaesthesia Oral paraesthesia Diarrhoea Retching Abdominal pain Tongue disorder Mouth ulceration Dyspepsia Dry mouth |                                                                  |
-| Skin and subcutaneous tissue disorders               | Pruritus                     | Hyperhydrosis Urticaria                                                                                                                                        |                                                                  |
-| Musculoskeletal and connective tissue disorders      |                              | Arthralgia Muscle twitching                                                                                                                                    |                                                                  |
-| Renal and urinary disorders                          |                              | Anuria Dysuria Proteinuria Urinary hesitation                                                                                                                  |                                                                  |
-| Reproductive system and breast disorders             |                              | Vaginal haemorrhage                                                                                                                                            |                                                                  |
-| General disorders and administration site conditions |                              | Non-cardiac chest pain Asthenia Chills Face oedema Peripheral oedema Gait disturbance Pyrexia Fatigue Malaise Thirst                                           | Withdrawal syndrome* Neonatal withdrawal syndrome Drug tolerance |
-| Investigations                                       |                              | Platelet count decreased Weight increased                                                                                                                      |                                                                  |
-| Injury, poisoning and procedural complications       |                              | Fall Intentional drug misuse Medication error                                                                                                                  |                                                                  |
+|                                                      | Common                       | Uncommon                                                                                                                                                                                                                                       | Unknown                                                          |
+|------------------------------------------------------|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Gastrointestinal disorders                           | Vomiting Nausea Constipation | Intestinal perforation Peritonitis Oral hypoaesthesia Oral paraesthesia Diarrhoea Retching Abdominal pain Tongue disorder Mouth ulceration Dyspepsia Stomach discomfort Dry mouth Ileus Abdomen enlarged, Flatulence Impaired gastric emptying |                                                                  |
+| Skin and subcutaneous tissue disorders               | Pruritus                     | Hyperhydrosis Urticaria Rash                                                                                                                                                                                                                   |                                                                  |
+| Musculoskeletal and connective tissue disorders      |                              | Arthralgia Muscle twitching                                                                                                                                                                                                                    |                                                                  |
+| Renal and urinary disorders                          |                              | Urinary retention Anuria Dysuria Proteinuria Urinary hesitation                                                                                                                                                                                |                                                                  |
+| General disorders and administration site conditions |                              | Non-cardiac chest pain Asthenia Chills Face oedema Peripheral oedema Gait disturbance Pyrexia Fatigue Malaise Thirst                                                                                                                           | Withdrawal syndrome* Neonatal withdrawal syndrome Drug tolerance |
+| Injury, poisoning and procedural complications       |                              | Fall Intentional drug misuse                                                                                                                                                                                                                   |                                                                  |
 
 * Opioid withdrawal symptoms such as nausea, vomiting, diarrhoea, anxiety, chills, tremor, and sweating have been observed with transmucosal fentanyl.
 
@@ -357,35 +363,45 @@ Tolerance can develop on repeated use.
 
 ## Drug dependence
 
-Repeated use of PecFent can lead to drug dependence, even at therapeutic doses.  The risk  of  drug dependence may vary depending on a patient's individual risk factors, dosage, and duration of opioid treatment (see section 4.4).
+Repeated use of PecFent can lead to  drug  dependence,  even  at  therapeutic  doses.  The  risk  of  drug dependence may vary depending on a patient's individual risk factors, dosage, and duration of opioid treatment (see section 4.4).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.9 Overdose
 
-The symptoms of fentanyl overdose via the nasal route are expected to be similar in nature to those of intravenous fentanyl and other opioids, and are an extension of its pharmacological actions, with the most serious significant effect being respiratory depression. Coma is also known to occur.
+## Symptoms and signs
 
-Immediate management of opioid overdose includes ensuring a patent airway, physical and verbal stimulation of the patient, assessment of the level of consciousness, ventilatory and circulatory status, and assisted ventilation (ventilatory support) if necessary. Toxic leukoencephalopathy has also been observed with fentanyl overdose.
+The symptoms of fentanyl overdose via the nasal route are expected to be similar in nature to those of intravenous fentanyl and other opioids, and are an extension of its pharmacological actions, with the most serious significant effect altered mental status, loss of consciousness, coma, cardiorespiratory arrest, respiratory depression, respiratory distress and respiratory failure, which have resulted in death.
 
-For treatment of overdose (accidental ingestion) in the opioid-naïve person, intravenous access should be obtained and naloxone or other opioid antagonists should be employed as clinically indicated. The duration of respiratory depression following overdose may be longer than the effects of the opioid antagonist's action (e.g. the half life of naloxone ranges from 30 to 81 minutes) and repeated administration may be necessary. For details about such use the Summary of Product Characteristics of the individual opioid antagonist should be consulted.
+Cases of Cheyne Stokes respiration have been observed in case of fentanyl overdose, particularly in patients with history of heart failure.
 
-For treatment of overdose in opioid-maintained patients, intravenous access should be obtained. The judicious use of naloxone or another opioid antagonist may be warranted in some instances, but it is associated with the risk of precipitating an acute withdrawal syndrome.
+Toxic leukoencephalopathy has also been observed with fentanyl overdose.
+
+## Management
+
+Immediate management of opioid overdose includes ensuring a patent airway, physical and verbal stimulation of the patient, assessment of the level of consciousness, ventilatory and circulatory status, and assisted ventilation (ventilatory support) if necessary.
+
+For treatment of overdose (accidental ingestion) in the opioid-naïve person, intravenous access may be obtained and naloxone or other opioid antagonists should be employed as clinically indicated. The duration of respiratory depression following overdose may be longer than the effects of the opioid antagonist's action (e.g. the half life of naloxone ranges from 30 to 81 minutes) and repeated administration may be necessary. Consult the Summary of Product Characteristics of the individual opioid antagonist for details about such use.
+
+For treatment of overdose in opioid-maintained patients, intravenous access may be obtained. The judicious use of naloxone or another opioid antagonist may be warranted in some instances, but it is associated with the risk of precipitating an acute withdrawal syndrome.
 
 It should be noted that although statistically significant increases in Cmax levels were seen following a second dose of PecFent given either one or two hours after the initial dose, this increase is not considered to be large enough to suggest that clinically concerning accumulation or over-exposure would occur, providing a wide safety margin for the recommended dose interval of four hours.
 
-Although muscle rigidity interfering with respiration has not been seen following the use of PecFent, this is possible with fentanyl and other opioids. If it occurs, it should be managed by the use of assisted ventilation, by an opioid antagonist, and as a final alternative, by a neuromuscular blocking agent.
+If severe or persistent hypotension occurs, hypovolaemia should be considered, and the condition should be managed with appropriate parenteral fluid therapy.
 
-Cases of Cheyne Stokes respiration have been observed in case of fentanyl overdose, particularly in patients with history of heart failure.
+Muscle rigidity interfering with respiration has been reported with fentanyl and other opioids. In this situation, endotracheal intubation, assisted or controlled ventilation and administration of opioid antagonists as well as muscle relaxants may be required.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Analgesics; opioids; phenylpiperidine derivatives; ATC code: N02AB03.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -395,13 +411,11 @@ Opioids may influence the hypothalamic-pituitary-adrenal or -gonadal axes. Some 
 
 ## Pharmacodynamic effects
 
-<div style=\"page-break-after: always\"></div>
-
 A double-blind, randomised, placebo-controlled crossover study has been conducted in which 114 patients who experienced on average 1 to 4 episodes of break through pain (BTP) per day while taking maintenance opioid therapy were entered into an initial open-label titration phase in order to identify an effective dose of PecFent (Study CP043). The patients entering the double-blind phase treated up to 10 episodes of BTP with either PecFent (7 episodes) or placebo (3 episodes) in a random order.
 
 Of the patients entering the titration phase, only 7 (6.1 %) were unable to be titrated to an effective dose due to lack of efficacy and 6 (5.3 %) withdrew due to adverse events.
 
-The primary endpoint was the comparison between the summed pain intensity difference at 30 minutes after dosing (SPID30), which was 6.57 in the PecFent-treated episodes compared to 4.45 for placebo (p&lt;0.0001 ). The SPID for PecFent -treated episodes was also significantly different to placebo at 10 15, 45 and 60 minutes after administration.
+The primary endpoint was the comparison between the summed pain intensity difference at 30 minutes after dosing (SPID30), which was 6.57 in the PecFent-treated episodes compared to 4.45 for placebo (p&lt;0.0001 ). The SPID for PecFent-treated episodes was also significantly different to placebo at 10 15, 45 and 60 minutes after administration.
 
 The mean pain intensity scores (73 patients) for all PecFent-treated episodes (459 episodes) compared to those treated with placebo (200 episodes) were significantly lower at 5, 10, 15, 30, 45 and 60 minutes following administration (see Figure 1).
 
@@ -427,7 +441,7 @@ In a double-blind, randomized comparator-controlled study (Study 044) of similar
 
 In a long-term, open-label, safety study (Study 045), 355 patients entered the 16-week treatment phase, during which 42,227 episodes of breakthrough cancer pain (BTP) were treated with PecFent. One hundred of these patients continued treatment for up to 26 months in an extension phase. Of the 355 patients treated in the open-label treatment phase, 90 % required no increase in dose.
 
-In the randomised, placebo-controlled study (CP043) 9.4% of 459 PecFent-treated BTP episodes in 73 patients required use of any further (rescue) medicinal products within 60 minutes of dosing.  During the longer-term, open-label study (CP045) this was 6.0 % of 42,227 episodes in 355 patients treated with PecFent during up to 159 days of treatment.
+In the randomised, placebo-controlled study (CP043) 9.4% of 459 PecFent-treated BTP episodes in 73 patients required use of any further (rescue) medicinal products within 60 minutes of dosing. During the longer-term, open-label study (CP045) this was 6.0 % of 42,227 episodes in 355 patients treated with PecFent during up to 159 days of treatment.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -463,6 +477,8 @@ The curves for each dose level are similar in shape with increasing dose levels 
 
 Figure 3: Mean plasma fentanyl concentrations following single doses of PecFent and OTFC in healthy subjects
 
+Time (hours)
+
 <!-- image -->
 
 A pharmacokinetic study was conducted to evaluate the absorption and tolerability of a single dose of PecFent in patients with pollen-induced seasonal allergic rhinitis, comparing the un-challenged, acutely challenged (rhinitic) and acutely challenged and then treated with oxymetazoline, states.
@@ -495,7 +511,7 @@ The effect of renal or hepatic impairment on the pharmacokinetics of PecFent has
 
 ## 5.3 Preclinical safety data
 
-Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity,  genotoxicity and carcinogenicity.
+Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity and carcinogenicity.
 
 Embryo-foetal developmental toxicity studies conducted in rats and rabbits revealed no compoundinduced malformations or developmental variations when administered during the period of organogenesis.
 
@@ -503,7 +519,7 @@ In a fertility and early embryonic development study in rats, a male-mediated ef
 
 In studies on pre and postnatal development in rats the survival rate of offspring was significantly reduced at doses causing severe maternal toxicity. Further findings at maternally toxic doses in F1 pups were delayed physical development, sensory functions, reflexes and behaviour. These effects could either be indirect effects due to altered maternal care and/or decreased lactation rate or a direct effect of fentanyl on the pups.
 
-Carcinogenicity studies (26-week dermal alternative bioassay in Tg.AC transgenic mice; two-year subcutaneous carcinogenicity study in rats) with fentanyl did not induce any findings indicative of oncogenic potential.  Evaluation of brain slides from the carciogenicity study in rats revealed brain lesions in animals administered high doses of fentanyl citrate.  The relevance of these findings to humans is unknown.
+Carcinogenicity studies (26-week dermal alternative bioassay in Tg.AC transgenic mice; two-year subcutaneous carcinogenicity study in rats) with fentanyl did not induce any findings indicative of oncogenic potential. Evaluation of brain slides from the carciogenicity study in rats revealed brain lesions in animals administered high doses of fentanyl citrate. The relevance of these findings to humans is unknown.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -569,7 +585,7 @@ Not all presentations or pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal
 
-Partially used PecFent bottles may contain enough medicine to be harmful or life-threatening to a child.  Even if there is little or no medicine left in the bottle, PecFent must be disposed of properly, according to the following steps:
+Partially used PecFent bottles may contain enough medicine to be harmful or life-threatening to a child. Even if there is little or no medicine left in the bottle, PecFent must be disposed of properly, according to the following steps:
 
 - o Patients and caregivers must be instructed to properly dispose of all unused, partially used and used PecFent bottles. The patient should be instructed how to do this correctly.
 
@@ -611,11 +627,11 @@ Date of first authorisation: 31 August 2010
 
 Date of latest renewal: 17 July 2015
 
-## 10. DATE OF REVISION OF THE TEXT
-
 <div style=\"page-break-after: always\"></div>
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency  http://www.ema.europa.eu/.
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu/.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -630,9 +646,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer responsible for batch release
-
-L. Molteni &amp; C dei F. LLi Alitti Societ à di Esercizio S.p.A Strada Statale 67 Tosco Romagnola Fraz. Granatieri IT-50018 Scandicci (FI) Italy
+Name and address of the manufacturer responsible for batch release L. Molteni &amp; C dei F. LLi Alitti Societ à di Esercizio S.p.A Strada Statale 67 Tosco Romagnola Fraz. Granatieri IT-50018 Scandicci (FI) Italy
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -718,11 +732,11 @@ Required actions before prescribing PecFent. Please complete all of the followin
 - o PecFent. Risk of misuse.
 - Explain the risks of using more than the recommended amount of PecFent.
 - Explain the use of the dose monitoring cards.
-- Advise the patients on the signs of fentanyl overdose and the need for immediate medical assistance.
-- Explain secure storage and the need to keep out of the reach and sight of children.
 
 <div style=\"page-break-after: always\"></div>
 
+- Advise the patients on the signs of fentanyl overdose and the need for immediate medical assistance.
+- Explain secure storage and the need to keep out of the reach and sight of children.
 - Remind the patient and/or caregiver that they should ask their doctor if they have any questions or concerns about how to use PecFent or about the associated risks of misuse and abuse.
 
 ## Educational material for the pharmacists will contain the following:
@@ -818,7 +832,7 @@ Also contains: pectin (E440), mannitol (E421), phenylethyl alcohol, propylparahy
 
 4 bottles - 1.55 ml (8 sprays) per bottle
 
-12 bottles  1.55 ml (8 sprays) per bottle
+12 bottles -  1.55 ml (8 sprays) per bottle
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -866,7 +880,7 @@ Keep the bottle in the child resistant container in order to protect from light.
 
 Store the PecFent bottle in the child resistant container at all times, even when finished.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -903,8 +917,8 @@ Lot PecFent 100
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included
 
@@ -937,7 +951,7 @@ Nasal use
 
 Read the package leaflet before use.
 
-## [2 spray bottle:]
+[2 spray bottle:]
 
 If the spray has not been used within 5 days after priming it should be discarded.
 
@@ -959,19 +973,19 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-## 2 spray bottle:
+2 spray bottle:
 
 After priming, use within 5 days.
 
 Date of priming: ……….
-
-<div style=\"page-break-after: always\"></div>
 
 8 spray bottle:
 
 After first-use, use within 60 days
 
 Date of first use: ……….
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -983,7 +997,7 @@ Keep the bottle in the child resistant container in order to protect from light.
 
 Store the PecFent bottle in the child resistant container at all times, even when finished.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1000,22 +1014,24 @@ Not applicable
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-Not applicable PecFent 100 micrograms/spray nasal spray fentanyl Nasal use EXP
+Not applicable MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| BOTTLE LABEL                                                       |
+BOTTLE LABEL
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
+
+PecFent 100 micrograms/spray nasal spray fentanyl Nasal use
 
 | 2.   | METHOD OF ADMINISTRATION   |
 |------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
+
+EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
@@ -1033,7 +1049,7 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
-## Accidental use can be fatal
+Accidental use can be fatal
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1057,7 +1073,7 @@ Also contains: pectin (E440), mannitol (E421), phenylethyl alcohol, propylparahy
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Nasal spray, solution
+## Nasal spray, solution
 
 1 bottle - 1.55 ml (8 sprays) per bottle
 
@@ -1131,13 +1147,15 @@ Lot
 
 PecFent 400
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+<div style=\"page-break-after: always\"></div>
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
@@ -1185,6 +1203,8 @@ After first-use, use within 60 days
 
 Date of first use: ……….
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Do not store above 25 ° C.
@@ -1217,9 +1237,7 @@ Not applicable
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-Not applicable
-
-<div style=\"page-break-after: always\"></div>
+Not applicable PecFent 400 micrograms/spray nasal spray fentanyl Nasal use EXP
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1230,15 +1248,11 @@ Not applicable
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
 
-PecFent 400 micrograms/spray nasal spray fentanyl Nasal use
-
 | 2.   | METHOD OF ADMINISTRATION   |
 |------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
-
-EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
@@ -1263,14 +1277,16 @@ Accidental use can be fatal
 
 <div style=\"page-break-after: always\"></div>
 
-PecFent 100 micrograms/spray nasal spray, solution PecFent 400 micrograms/spray nasal spray, solution fentanyl
+## PecFent 100 micrograms/spray nasal spray, solution PecFent 400 micrograms/spray nasal spray, solution
+
+## fentanyl
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
 - Keep this leaflet. You may need to read it again.
 - If you have any further questions, ask your doctoror pharmacist.
 - This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- If you get any side effects talk to your doctor or pharmacist.  This includes any possible side effects not listed in this leaflet. See section 4.
+- If you get any side effects talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1358,9 +1374,9 @@ This medicine contains fentanyl which is an opioid medicine. Repeated use of opi
 
 ## Dependence and addiction
 
-## This medicine contains fentanyl, which is an opioid. It can cause dependence and/or addiction.
+This medicine contains fentanyl, which is an opioid. It can cause dependence and/or addiction.
 
-Repeated  use  of  PecFent  can  also  lead  to  dependence,  abuse  and  addiction  which  may  result  in life-threatening  overdose. The  risk  of  these  side  effects  can  increase  with  a  higher  dose  and  longer duration of use. Dependence or addiction can make you feel that you are no longer in control of how much medicine you need to use or how often you need to use it. You might feel that you need to carry on using your medicine, even when it doesn't help to relieve your pain.
+Repeated use of PecFent can also lead to dependence, abuse and addiction which may result in life-threatening overdose. The risk of these side effects can increase with a higher dose and longer duration of use. Dependence or addiction can make you feel that you are no longer in control of how much medicine you need to use or how often you need to use it. You might feel that you need to carry on using your medicine, even when it doesn't help to relieve your pain.
 
 The risk of becoming dependent or addicted varies from person to person. You may have a greater risk of becoming dependent or addicted on PecFent if:
 
@@ -1388,15 +1404,18 @@ PecFent is not approved for use in children under 18 years of age.
 
 ## Other medicines and PecFent
 
-Tell your doctor or pharmacist if you are using, have recently used or might use any other medicines. In particular tell your doctor or pharmacist before using PecFent if you are taking or have recently taken any of the following medicines:
+Tell your doctor or pharmacist if you are using, have recently used or might use any other medicines.
 
-- medicines that might make you sleepy such as sleeping tablets, tranquilisers, muscle relaxants, medicines for anxiety such as benzodiazepines (e.g. diazepam), or medicines for allergies (antihistamines). Use of PecFent at the same time as medicines that make you feel sleepy increases the risk of drowsiness, difficulties in breathing (respiratory depression), coma and may be lifethreatening . Contact your doctor if you get any of these symptoms. For this reason use of PecFent, together with sedatives, should only be considered when other treatment options are
+In particular tell your doctor or pharmacist before using PecFent if you are taking or have recently taken any of the following medicines:
+
+- medicines that might make you sleepy such as sleeping tablets, tranquilisers, muscle relaxants, medicines for anxiety such as benzodiazepines (e.g. diazepam), or medicines for allergies (antihistamines). Use of PecFent at the same time as medicines that make you feel sleepy increases the risk of drowsiness, difficulties in breathing (respiratory depression), coma and may be lifethreatening . Contact your doctor if you get any of these symptoms. For this reason use of PecFent, together with sedatives, should only be considered when other treatment options are not possible. However, if your doctor does prescribe PecFent together with sedative medicines
 
 <div style=\"page-break-after: always\"></div>
 
-not possible. However, if your doctor does prescribe PecFent together with sedative medicines the dose and length of treatment should be limited by your doctor. Tell your doctor about all sedative medicines you are taking, and follow your doctors dose instructions closely. It could be helpful to inform friends or relatives to be aware of the signs and symptoms stated above.
+the dose and length of treatment should be limited by your doctor. Tell your doctor about all sedative medicines you are taking, and follow your doctors dose instructions closely. It could be helpful to inform friends or relatives to be aware of the signs and symptoms stated above.
 
-- medicines for depression called 'monoamine-oxidase inhibitors' (MAOI). Tell your doctor or pharmacist if you have taken an MAOI medicine in the past 2 weeks before using PecFent. The risk of side effects increases if you are taking medicines such as certain antidepressants or antipsychotics. PecFent may interact with these medicines and you may experience mental status changes (e.g. agitation, hallucinations, coma), and other effects such as body temperature above 38°C, increase in heart rate, unstable blood pressure, and exaggeration of reflexes, muscular rigidity, lack of coordination and/or gastrointestinal symptoms (e.g. nausea, vomiting, diarrhoea). Your doctor will tell you whether PecFent is suitable for you.
+- medicines for depression called 'monoamine-oxidase inhibitors' (MAOI). Tell your doctor or pharmacist if you have taken an MAOI medicine in the past 2 weeks before using PecFent.
+- The risk of side effects increases if you are taking medicines such as certain antidepressants or antipsychotics. PecFent may interact with these medicines and you may experience mental status changes (e.g. agitation, hallucinations, coma), and other effects such as body temperature above 38°C, increase in heart rate, unstable blood pressure, and exaggeration of reflexes, muscular rigidity, lack of coordination and/or gastrointestinal symptoms (e.g. nausea, vomiting, diarrhoea). Your doctor will tell you whether PecFent is suitable for you.
 - nasal sprays to treat a stuffy nose (containing a decongestant such as oxymetazoline)
 - medicines that might have an effect on the way your body breaks down PecFent. These include:
 - o medicines for HIV infection (such as ritonavir, nelfinavir, amprenavir or fosamprenavir)
@@ -1431,11 +1450,11 @@ If you are pregnant or breast-feeding, think you may be pregnant or are planning
 - You may feel sleepy, dizzy or have problems with your eyesight after using PecFent. If this happens, do not drive or use any tools or machines.
 - Do not drive or use tools or machines until you know how this medicine makes you feel.
 
-PecFent contains propylparahydroxybenzoate (E216).
-
-<div style=\"page-break-after: always\"></div>
+## PecFent contains propylparahydroxybenzoate (E216).
 
 May cause allergic reactions (possibly delayed), and exceptionally, bronchospasm (if you do not use the nasal spray correctly).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 3. How to use PecFent
 
@@ -1490,9 +1509,9 @@ To prime the bottle, please follow the instructions below:
 3. Aim the nasal spray away from you (and any other people).
 4. Hold the PecFent nasal spray upright with your thumb on the bottom of the bottle, and your first and middle fingers on the finger grips each side of the nozzle (Figure 2).
 5. Firmly press down on the finger grips until a 'click' is heard and then let go of the grips (Figure 2). You will hear a second 'click' and there should now be a single large red bar in the counting window (Figure 3b).
-6. Repeat step 5 three times. As you repeat step 5, the red bar will become smaller and smaller until you see a green bar in the counting window (Figure 3b-e).  The green bar means the PecFent nasal spray is ready to use.
+6. Repeat step 5 three times. As you repeat step 5, the red bar will become smaller and smaller until you see a green bar in the counting window (Figure 3b-e). The green bar means the PecFent nasal spray is ready to use.
 7. Wipe the nozzle with a tissue and flush the tissue down the toilet.
-8. If you are not going to use your medicine straight away, put the protective cap back on. Then put the PecFent bottle in the child-resistant storage container.   If PecFent has not been used for 5 days, re-prime by spraying once.
+8. If you are not going to use your medicine straight away, put the protective cap back on. Then put the PecFent bottle in the child-resistant storage container. If PecFent has not been used for 5 days, re-prime by spraying once.
 
 <!-- image -->
 
@@ -1536,9 +1555,8 @@ There are 8 full sprays in each PecFent bottle.
 
 ## Disposal of unused PecFent
 
-If you can see a number, other than 8 in the counting window, you have NOT used all 8 sprays in the bottle. There are still doses of PecFent left in the bottle.
-
-You must empty the remaining doses of PecFent from the bottle by aiming the nasal spray away from you (and any other people) and pressing and releasing the grips until the red number '8' appears in the counting window.
+- If you can see a number, other than 8 in the counting window, you have NOT used all 8 sprays in the bottle. There are still doses of PecFent left in the bottle.
+- You must empty the remaining doses of PecFent from the bottle by aiming the nasal spray away from you (and any other people) and pressing and releasing the grips until the red number '8' appears in the counting window.
 
 <!-- image -->
 
@@ -1548,7 +1566,7 @@ You must empty the remaining doses of PecFent from the bottle by aiming the nasa
 
 - You will need to press down and release the finger grips 4 more times while aiming the nasal spray away from you (and any other people).
 - You will feel some increased resistance when you press down and the finger grips will only move a small amount.
-- You will NOT hear a click when you press down .
+- You will NOT hear a click when you press down.
 - The counter will stay on the number '8'.
 - Put the protective cap back on the spray bottle.
 - Put the bottle back in the child resistant container.
@@ -1592,10 +1610,10 @@ If you or your carer notice any of the side effects above, call an ambulance str
 ## Common side effects (may affect up to 1 in 10 people):
 
 - not knowing where you are (disorientated)
+- change in taste
 
 <div style=\"page-break-after: always\"></div>
 
-- change in taste
 - feeling dizzy
 - feeling or being sick
 - feeling sleepy, headache
@@ -1609,12 +1627,14 @@ If you or your carer notice any of the side effects above, call an ambulance str
 - painful, sore or inflamed throat or nose
 - cough, sneezing, catarrh or cold, changes in the fluid produced by your nose
 - allergic reaction, rash
-- loss of or increase in appetite, weight increase
+- anorexia
+- loss of appetite
 - dehydration, feeling thirsty
 - misusing the medicine
 - seeing or hearing things that are not really there (hallucinations/delirium), feeling confused
 - feeling depressed, worried, slow or nervous
 - a lack of concentration or increased activity
+- blurred vision
 - memory loss
 - feeling 'high'
 - being less aware or responsive, losing consciousness
@@ -1624,23 +1644,28 @@ If you or your carer notice any of the side effects above, call an ambulance str
 - difficulty in speaking
 - blue skin colour
 - vertigo, falling over, malaise
-- heat and circulation not working properly, hot flush or fever, chills, excessive sweating
-- swelling of the soft tissue
 - low blood pressure
 - blockage in the wind-pipe
 - shortness of breath
-- vaginal bleeding
+- feeling full all the time
+- paralysis of the gut (ileus)
 - tear in the intestine or inflammation of the stomach lining
 - numbness or tingling in the mouth, tongue, or nose, or other tongue problems, mouth ulcers, dry mouth
+- flatulence
 - diarrhoea
 - retching, stomach pains, indigestion
 - sore or painful joints
 - difficulty in or inability to pass water
+- difficulty emptying the bladder
+- feeling pain, burning sensation or discomfort while passing water
 - chest pain
 - feeling tired or weak, problems moving
-- changes in blood cells (detected by laboratory tests)
 - increased blood sugar
 - protein in the urine
+- depression, suspicious thoughts/ feeling afraid for no reason, feeling confused, feeling disorientated, feeling anxious/unhappy/restless, feeling nervous, feeling unusually happy/healthy, mood swings
+- difficulty sleeping or disturbed sleep, abnormal/ unusual dreams
+
+<div style=\"page-break-after: always\"></div>
 
 ## Other side effects (frequency not known (frequency cannot be estimated from the available data) )
 
@@ -1649,8 +1674,6 @@ If you or your carer notice any of the side effects above, call an ambulance str
 - Insomnia
 - Withdrawal syndrome (may manifest by the occurrence of the following side effects nausea, vomiting, diarrhoea, anxiety, chills, tremor, and sweating)
 - Drug tolerance, drug dependence (addiction), drug abuse (see section 2)
-
-<div style=\"page-break-after: always\"></div>
 
 Prolonged treatment with fentanyl during pregnancy may cause withdrawal symptoms in the newborn which can be life-threatening (see section 2).
 
@@ -1678,31 +1701,27 @@ Store this medicine in a safe and secure place, where other people cannot access
 
 The active substance is fentanyl.
 
-- PecFent 100 micrograms/spray nasal spray, solution Each ml of solution contains 1,000 micrograms  fentanyl (as citrate).
+- PecFent 100 micrograms/spray nasal spray, solution Each ml of solution contains 1,000 micrograms fentanyl (as citrate). 1 spray (100 microlitres) contains 100 micrograms fentanyl (as citrate).
 
-1 spray (100 microlitres) contains 100 micrograms fentanyl (as citrate).
+·
 
-- PecFent 400 micrograms/spray nasal spray, solution
+PecFent 400 micrograms/spray nasal spray, solution
 
-Each ml of solution contains 4,000 micrograms fentanyl (as citrate).
+Each ml of solution contains 4,000 micrograms fentanyl (as citrate). 1 spray (100 microlitres) contains 400 micrograms fentanyl (as citrate).
 
-1 spray (100 microlitres) contains 400 micrograms fentanyl (as citrate).
+<div style=\"page-break-after: always\"></div>
 
 The other ingredients (excipients) are pectin (E440), mannitol (E421), phenylethyl alcohol, propylparahydroxybenzoate (E216), sucrose, purified water and hydrochloric acid or sodium hydroxide for pH adjustment.
 
 ## What PecFent looks like and contents of the pack
 
-The medicine is a clear to almost clear, colourless nasal spray, solution. It is contained in a clear glass bottle, fitted with a metering pump. The pump has a spray counter that clicks, so you can hear as well as see that the spray has been given and a protective cap. After the PecFent bottle has been primed
-
-<div style=\"page-break-after: always\"></div>
-
-(prepared for use) it delivers 8 full sprays. Each PecFent bottle is supplied in a child resistant container.
+The medicine is a clear to almost clear, colourless nasal spray, solution. It is contained in a clear glass bottle, fitted with a metering pump. The pump has a spray counter that clicks, so you can hear as well as see that the spray has been given and a protective cap. After the PecFent bottle has been primed (prepared for use) it delivers 8 full sprays. Each PecFent bottle is supplied in a child resistant container.
 
 PecFent bottles in their child resistant containers are supplied in cartons containing 1, 4 or 12 bottles. Not all pack sizes may be marketed.
 
-Marketing Authorisation Holder Grünenthal GmbH Zieglerstraße 6 52078 Aachen
+## Marketing Authorisation Holder
 
-Germany
+Grünenthal GmbH Zieglerstraße 6 52078 Aachen Germany
 
 ## Manufacturer
 
@@ -1714,9 +1733,9 @@ L. Molteni &amp; C. dei F.lli Alitti Società di Esercizio S.p.A Strada Statale 
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## PecFent 100 micrograms/spray nasal spray, solution - two-spray bottle
 
@@ -1727,8 +1746,7 @@ Detailed information on this medicine is available on the European Medicines Age
 - Keep this leaflet. You may need to read it again.
 - If you have any further questions, ask your doctoror pharmacist.
 - This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-
-If you get any side effects talk to your doctor or pharmacist.  This includes any possible side effects not listed in this leaflet. See section 4.
+- If you get any side effects talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1821,7 +1839,7 @@ Repeated use of PecFent can also lead to dependence, abuse and addiction which m
 
 The risk of becoming dependent or addicted varies from person to person. You may have a greater risk of becoming dependent or addicted on PecFent if:
 
-- You or anyone in your family have ever abused or been dependent on alcohol, prescription medicines or illegal drugs ('addiction').
+- You  or  anyone  in  your  family  have  ever  abused  or  been  dependent  on  alcohol,  prescription medicines or illegal drugs ('addiction').
 - You are a smoker.
 - You have ever had problems with your mood (depression, anxiety or a personality disorder) or have been treated by a psychiatrist for other mental illness.
 
@@ -1831,7 +1849,7 @@ If you notice any of the following signs whilst using PecFent, it could be a sig
 - You need to use more than the recommended dose
 - You are using the medicine for reasons other than prescribed, for instance, 'to stay calm' or 'help you sleep'
 - You have made repeated, unsuccessful attempts to quit or control the use of the medicine
-- When you stop taking the medicine you feel unwell (e.g. nausea, vomiting, diarrhoea, anxiety, chills, tremor, and sweating), and you feel better once using the medicine again ('withdrawal effects')
+- When you stop taking the medicine you feel unwell (e.g. nausea, vomiting, diarrhoea, anxiety, chills,  tremor,  and sweating), and you feel better once using the medicine again ('withdrawal effects')
 
 If you notice any of these signs, speak to your doctor to discuss the best treatment pathway for you, including when it is appropriate to stop and how to stop safely.
 
@@ -1845,7 +1863,9 @@ PecFent is not approved for use in children under 18 years of age.
 
 ## Other medicines and PecFent
 
-Tell your doctor or pharmacist if you are using, have recently used or might use any other medicines. In particular tell your doctor or pharmacist before using PecFent if you are taking or have recently taken any of the following medicines:
+Tell your doctor or pharmacist if you are using, have recently used or might use any other medicines.
+
+In particular tell your doctor or pharmacist before using PecFent if you are taking or have recently taken any of the following medicines:
 
 - medicines that might make you sleepy such as sleeping tablets, tranquilisers, muscle relaxants, medicines for anxiety such as benzodiazepines (e.g. diazepam), or medicines for allergies (antihistamines). Use of PecFent at the same time as medicines that make you feel sleepy increases the risk of drowsiness, difficulties in breathing (respiratory depression), coma and may be lifethreatening . Contact your doctor if you get any of these symptoms. For this reason use of PecFent, together with sedatives, should only be considered when other treatment options are not possible. However, if your doctor does prescribe PecFent together with sedative medicines
 
@@ -1947,7 +1967,7 @@ To prime the bottle, please follow the instructions below:
 3. Aim the nasal spray away from you (and any other people).
 4. Hold the PecFent nasal spray upright with your thumb on the bottom of the bottle, and your first and middle fingers on the finger grips each side of the nozzle (Figure 2).
 5. Firmly press down on the finger grips until a 'click' is heard and then let go of the grips (Figure 2). You will hear a second 'click' and there should now be a single large red bar in the counting window (Figure 3b).
-6. Repeat step 5 three times. As you repeat step 5, the red bar will become smaller and smaller until you see a green bar in the counting window (Figure 3b-e).  The green bar means the PecFent nasal spray is ready to use.
+6. Repeat step 5 three times. As you repeat step 5, the red bar will become smaller and smaller until you see a green bar in the counting window (Figure 3b-e). The green bar means the PecFent nasal spray is ready to use.
 7. Wipe the nozzle with a tissue and flush the tissue down the toilet.
 
 <!-- image -->
@@ -1979,11 +1999,11 @@ To prime the bottle, please follow the instructions below:
 12. Put the bottle back in the child-resistant container after each use. Keep out of the sight and reach of children (Figure 6)
 13. Stay sitting for at least 1 minute after using the nasal spray.
 
-<!-- image -->
+Number of sprays in this PecFent bottle
 
 <!-- image -->
 
-## Number of sprays in this PecFent bottle
+<!-- image -->
 
 There are 2 full sprays in each PecFent bottle.
 
@@ -1993,18 +2013,17 @@ There are 2 full sprays in each PecFent bottle.
 ## Disposal of unused PecFent
 
 - If you can see a number, other than 2 in the counting window, you have NOT used all 2 sprays in the bottle. There are still doses of PecFent left in the bottle.
+- You must empty this remaining dose of PecFent from the bottle by aiming the nasal spray away from you (and any other people) and pressing and releasing the grips until the red number '2' appears in the counting window.
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-- You must empty this remaining dose of PecFent from the bottle by aiming the nasal spray away from you (and any other people) and pressing and releasing the grips until the red number '2' appears in the counting window.
-
 ## When you see the number '2' in the counting window, there is still medicine in the bottle that you must empty.
 
 - You will need to press down and release the finger grips 4 more times while aiming the nasal spray away from you (and any other people).
 - You will feel some increased resistance when you press down and the finger grips will only move a small amount.
-- You will NOT hear a click when you press down .
+- You will NOT hear a click when you press down.
 - The counter will stay on the number '2'.
 - Put the protective cap back on the spray bottle.
 - Put the bottle back in the child resistant container.
@@ -2045,12 +2064,13 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 If you or your carer notice any of the side effects above, call an ambulance straight away.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Common side effects (may affect up to 1 in 10 people):
 
 - not knowing where you are (disorientated)
 - change in taste
+
+<div style=\"page-break-after: always\"></div>
+
 - feeling dizzy
 - feeling or being sick
 - feeling sleepy, headache
@@ -2064,12 +2084,14 @@ If you or your carer notice any of the side effects above, call an ambulance str
 - painful, sore or inflamed throat or nose
 - cough, sneezing, catarrh or cold, changes in the fluid produced by your nose
 - allergic reaction, rash
-- loss of or increase in appetite, weight increase
+- anorexia
+- loss of appetite
 - dehydration, feeling thirsty
 - misusing the medicine
 - seeing or hearing things that are not really there (hallucinations/delirium), feeling confused
 - feeling depressed, worried, slow or nervous
 - a lack of concentration or increased activity
+- blurred vision
 - memory loss
 - feeling 'high'
 - being less aware or responsive, losing consciousness
@@ -2079,32 +2101,34 @@ If you or your carer notice any of the side effects above, call an ambulance str
 - difficulty in speaking
 - blue skin colour
 - vertigo, falling over, malaise
-- heat and circulation not working properly, hot flush or fever, chills, excessive sweating
-- swelling of the soft tissue
 - low blood pressure
 - blockage in the wind-pipe
 - shortness of breath
-- vaginal bleeding
+- feeling full all the time
+- paralysis of the gut (ileus)
 - tear in the intestine or inflammation of the stomach lining
-- numbness or tingling in the mouth , tongue, or nose, or other tongue problems, mouth ulcers, dry mouth
+- numbness or tingling in the mouth, tongue, or nose, or other tongue problems, mouth ulcers, dry mouth
+- flatulence
 - diarrhoea
 - retching, stomach pains, indigestion
 - sore or painful joints
 - difficulty in or inability to pass water
+- difficulty emptying the bladder
+- feeling pain, burning sensation or discomfort while passing water
 - chest pain
 - feeling tired or weak, problems moving
-- changes in blood cells (detected by laboratory tests)
 - increased blood sugar
 - protein in the urine
+- depression, suspicious thoughts/ feeling afraid for no reason, feeling confused, feeling disorientated, feeling anxious/unhappy/restless, feeling nervous, feeling unusually happy/healthy, mood swings
+- difficulty sleeping or disturbed sleep, abnormal/ unusual dreams
+
+<div style=\"page-break-after: always\"></div>
 
 ## Other side effects (frequency not known (frequency cannot be estimated from the available data) )
 
 - Severe breathing problems
 - Flushing
 - Insomnia
-
-<div style=\"page-break-after: always\"></div>
-
 - Withdrawal syndrome (may manifest by the occurrence of the following side effects nausea, vomiting, diarrhoea, anxiety, chills, tremor, and sweating)
 - Drug tolerance, drug dependence (addiction), drug abuse (see section 2)
 
@@ -2134,9 +2158,7 @@ Store this medicine in a safe and secure place, where other people cannot access
 
 The active substance is fentanyl.
 
-- PecFent 100 micrograms/spray nasal spray, solution Each ml of solution contains 1,000 micrograms  fentanyl (as citrate).
-
-1 spray (100 microlitres) contains 100 micrograms fentanyl (as citrate).
+- PecFent 100 micrograms/spray nasal spray, solution Each ml of solution contains 1,000 micrograms fentanyl (as citrate). 1 spray (100 microlitres) contains 100 micrograms fentanyl (as citrate).
 
 The other ingredients (excipients) are pectin (E440), mannitol (E421), phenylethyl alcohol, propylparahydroxybenzoate (E216), sucrose, purified water and hydrochloric acid or sodium hydroxide for pH adjustment.
 
@@ -2160,6 +2182,4 @@ L. Molteni &amp; C. dei F.lli Alitti Società di Esercizio S.p.A Strada Statale 
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site:
-
-[http://www.ema.europa.eu/.](http://www.ema.europa.eu/)
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-21 10:00:00
+document_datetime: 2026-07-30 12:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jascayd.html
 document_name: jascayd.html
 version: success
-processing_time: 0.1183065
-conversion_datetime: 2026-07-28 12:58:58.311498
+processing_time: 0.1256844
+conversion_datetime: 2026-08-01 11:36:09.877038
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
   docling-ibm-models: 3.13.3
   docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Jascayd
 
@@ -107,7 +107,7 @@ English (EN) (131.93 KB - PDF)
 
 [View](/en/documents/overview/jascayd-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-802)
+[Other languages (22)](#file-language-dropdown-192)
 
 български (BG) (147.55 KB - PDF)
 
@@ -259,7 +259,7 @@ English (EN) (1.5 MB - PDF)
 
 [View](/en/documents/product-information/jascayd-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-64)
+[Other languages (24)](#file-language-dropdown-291)
 
 български (BG) (1.62 MB - PDF)
 
@@ -428,7 +428,7 @@ English (EN) (84.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jascayd-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-502)
+[Other languages (24)](#file-language-dropdown-428)
 
 български (BG) (75.37 KB - PDF)
 
@@ -620,7 +620,7 @@ Adopted Reference Number: EMADOC-1829012207-55748
 
 English (EN) (9.94 MB - PDF)
 
-**First published:** 21/07/2026
+**First published:** 21/07/2026 **Last updated:** 30/07/2026
 
 [View](/en/documents/assessment-report/jascayd-epar-public-assessment-report_en.pdf)
 
@@ -646,6 +646,6 @@ English (EN) (152.93 KB - PDF)
 
 **This page was last updated on**
 
-21/07/2026
+30/07/2026
 
 ## Share this page

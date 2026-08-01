@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-28 14:32:37
-document_pages: 35
+document_datetime: 2026-07-30 13:40:24
+document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/xofigo-epar-product-information_en.pdf
 document_name: xofigo-epar-product-information_en.pdf
 version: success
-processing_time: 22.525462
-conversion_datetime: 2025-12-20 07:28:49.469692
+processing_time: 10.7489317
+conversion_datetime: 2026-08-01 11:47:18.161541
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
@@ -84,9 +84,7 @@ No dose adjustment is considered necessary in elderly patients.
 
 ## Hepatic impairment
 
-Safety and efficacy of Xofigo have not been studied in patients with hepatic impairment.
-
-Since radium-223 is neither metabolised by the liver nor eliminated via the bile, hepatic impairment is not expected to affect the pharmacokinetics of radium-223 dichloride.
+Safety and efficacy of Xofigo have not been studied in patients with hepatic impairment. Since radium-223 is neither metabolised by the liver nor eliminated via the bile, hepatic impairment is not expected to affect the pharmacokinetics of radium-223 dichloride.
 
 No dose adjustment is considered necessary in patients with hepatic impairment.
 
@@ -158,11 +156,9 @@ In patients with untreated imminent or established spinal cord compression, trea
 
 Xofigo increases the risk of bone fractures. In a clinical study, the addition of Xofigo to abiraterone acetate and prednisone/prednisolone, increased the incidence of fractures approximately three-fold in the Xofigo arm (see sections 4.8 and 5.1). Increased fracture risk has been found especially in patients with medical history of osteoporosis and in patients with less than 6 bone metastases. Xofigo is believed to accumulate at sites of high bone turnover such as sites of degenerative bone disease (osteoporosis) or recent (micro-)fracture increasing the risk of fractures. Other factors such as concomitant use of steroids may further increase the risk of fracture.
 
-Prior to starting radium-223 bone status (e.g., by scintigraphy, bone mineral density measurement) and baseline risk of fractures of patients (e.g., osteoporosis, less than 6 bone metastases, treatment increasing fracture risk, low body mass index) should be carefully assessed, and closely monitored for at least 24 months. Preventive measures such as the use of bisphosphonates or denosumab should be considered before starting or resuming treatment with Xofigo (see section 4.8). In patients with a high baseline risk of
+Prior to starting radium-223 bone status (e.g., by scintigraphy, bone mineral density measurement) and baseline risk of fractures of patients (e.g., osteoporosis, less than 6 bone metastases, treatment increasing fracture risk, low body mass index) should be carefully assessed, and closely monitored for at least 24 months. Preventive measures such as the use of bisphosphonates or denosumab should be considered before starting or resuming treatment with Xofigo (see section 4.8). In patients with a high baseline risk of fracture, the benefit of treatment should be carefully assessed to outweigh the risk. In patients with bone fractures, orthopaedic stabilisation of fractures should be performed before starting or resuming treatment with Xofigo.
 
 <div style=\"page-break-after: always\"></div>
-
-fracture, the benefit of treatment should be carefully assessed to outweigh the risk. In patients with bone fractures, orthopaedic stabilisation of fractures should be performed before starting or resuming treatment with Xofigo.
 
 ## Osteonecrosis of the jaw
 
@@ -340,12 +336,6 @@ Table 2: Survival results from the phase III ALSYMPCA study
 | Median overall survival (months) (95% CI) | 14.9 (13.9 - 16.1)    | 11.3 (10.4 - 12.8)    |
 | Hazard ratio b (95% CI)                   | 0.695 (0.581 - 0.832) | 0.695 (0.581 - 0.832) |
 
-CI = confidence interval
-
-a The Phase 3 study ALSYMPCA was stopped for efficacy after the interim analysis.  As the updated analysis is provided for descriptive purposes only, a p-value is not provided.
-
-b Hazard ratio (Xofigo over placebo) &lt; 1 favours Xofigo.
-
 <div style=\"page-break-after: always\"></div>
 
 Figure 2: Kaplan-Meier overall survival curves (updated analysis)
@@ -358,44 +348,26 @@ The results of the interim analysis and the updated analysis also showed a signi
 
 Table 3: Secondary efficacy endpoints from the phase III ALSYMPCA study (interim analysis)
 
-|                                                   | Incidence [no. (%) of patients] [median   | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)         | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)   |
-|---------------------------------------------------|-------------------------------------------|-----------------------------------|-----------------------------------|-----------------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
-|                                                   | Xofigo N = 541 Placebo N =                | no. Xofigo N = 541                | of months] Placebo N = 268        | Hazard ratio < 1 favours Xofigo p-value |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   |                                           | 13.5                              |                                   |                                         |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-| SSE                                               | (30.6%)                                   | (12.2-19.6)                       | 8.4 (7.2-NE) b                    | 0.610 (0.461 - 0.807)                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-| event composite                                   |                                           |                                   |                                   |                                         |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-| skeletal (SSE) components External radiation pain |                                           | 268 82                            | 10.8 (7.9-NE)                     | 0.649 (0.483 - 0.871)                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-| Symptomatic SSE Surgical                          |                                           | 18 (6.7%)                         | NE                                | 0.450                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   | 132 (24.4%)                               |                                   |                                   |                                         |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   | (1.7%) (1.9%) 20                          | NE NE                             | NE                                | (0.267 - 2.398)                         |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-| Total ALP                                         |                                           |                                   |                                   |                                         |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   | (3.7%)                                    |                                   |                                   |                                         |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   |                                           |                                   |                                   | (0.236 - 0.856)                         |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   |                                           |                                   | 3.7                               |                                         |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   | 79                                        | NE                                |                                   |                                         |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   | 116                                       |                                   |                                   | 0.162                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   |                                           |                                   | (3.5 - 4.1)                       |                                         |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   | (14.6%)                                   |                                   |                                   | (0.120 - 0.220)                         |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   |                                           |                                   |                                   | <                                       |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   | (43.3%)                                   |                                   |                                   |                                         |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-| progression                                       |                                           |                                   |                                   |                                         |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   |                                           | 3.6                               |                                   |                                         |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   |                                           |                                   | 3.4                               |                                         |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   | 288                                       | (3.5 -                            |                                   |                                         |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   |                                           |                                   | (3.3 - 3.5)                       | 0.671                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   | (53.2%)                                   |                                   |                                   |                                         |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-| PSA                                               |                                           |                                   |                                   |                                         |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   |                                           |                                   |                                   | (0.546 -                                |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-| progression                                       |                                           |                                   |                                   |                                         |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   |                                           |                                   |                                   | 0.826)                                  |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   | (52.6%)                                   | 3.7)                              |                                   |                                         |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
-|                                                   |                                           |                                   |                                   |                                         | d                                 | 141                               |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |                                   |
+|                                  |                                         | Incidence of patients] [median   | Incidence of patients] [median   | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)   | Time-to-event analysis (95% CI)   |
+|----------------------------------|-----------------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
+|                                  | [no.                                    | (%) Xofigo N = 541               | Placebo N = 268                  | no. Xofigo N = 541                | of months] Placebo N = 268        | Hazard ratio < 1 favours Xofigo   | p-value                           |
+| Symptomatic skeletal event (SSE) | SSE composite endpoint a                | 132 (24.4%)                      | 82 (30.6%)                       | 13.5 (12.2 - 19.6)                | 8.4 (7.2 - NE) b                  | 0.610 (0.461 - 0.807)             | 0.00046                           |
+| Symptomatic skeletal event (SSE) | External beam radiation for pain relief | 122 (22.6%)                      | 72 (26.9%)                       | 17.0 (12.9 - NE)                  | 10.8 (7.9 - NE)                   | 0.649 (0.483 - 0.871)             | 0.00375                           |
+| Symptomatic skeletal event (SSE) | components Spinal cord compression      | 17 (3.1%)                        | 16 (6.0%)                        | NE                                | NE                                | 0.443 (0.223 - 0.877)             | 0.01647                           |
+| Symptomatic skeletal event (SSE) | SSE Surgical intervention               | 9 (1.7%)                         | 5 (1.9%)                         | NE                                | NE                                | 0.801 (0.267 - 2.398)             | 0.69041                           |
+| Symptomatic skeletal event (SSE) | Bone fractures                          | 20 (3.7%)                        | 18 (6.7%)                        | NE                                | NE                                | 0.450 (0.236 - 0.856)             | 0.01255                           |
+| Total ALP progression c          | Total ALP progression c                 | 79 (14.6%)                       | 116 (43.3%)                      | NE                                | 3.7 (3.5 - 4.1)                   | 0.162 (0.120 - 0.220)             | < 0.00001                         |
+| PSA progression d                | PSA progression d                       | 288 (53.2%)                      | 141 (52.6%)                      | 3.6 (3.5 - 3.7)                   | 3.4 (3.3 - 3.5)                   | 0.671 (0.546 - 0.826)             | 0.00015                           |
 
 ALP = alkaline phosphatase; CI = confidence interval; NE = not estimable; PSA = prostate-specific antigen;
 
-SSE = symptomatic skeletal event a Defined as occurrence of any of the following: external beam radiotherapy to relieve pain, or pathologic fracture, or spinal cord compression, or tumour-related orthopedic surgical intervention.
+SSE = symptomatic skeletal event
 
-b not estimable owing to insufficient events after the median c Defined as ≥ 25% increase compared to baseline/nadir.
+a Defined as occurrence of any of the following: external beam radiotherapy to relieve pain, or pathologic fracture, or spinal cord compression, or tumour-related orthopedic surgical intervention.
+
+b not estimable owing to insufficient events after the median
+
+c Defined as ≥ 25% increase compared to baseline/nadir.
 
 d Defined as a ≥ 25% increase and an increase in absolute value of ≥ 2 ng/mL compared to baseline/nadir.
 
@@ -569,39 +541,31 @@ Table 4: Calculated absorbed radiation doses to organs
 
 | Target Organ         |   Alpha 1 emission (Gy/MBq) |   Beta emission (Gy/MBq) |   Gamma emission (Gy/MBq) |   Total dose (Gy/MBq) | Coefficient of variation (%)   |
 |----------------------|-----------------------------|--------------------------|---------------------------|-----------------------|--------------------------------|
-| Adrenals             |                     0       |                  2e-05   |                   9e-05   |               0.00012 | 56                             |
-| Brain                |                     0       |                  2e-05   |                   8e-05   |               0.0001  | 80                             |
-| Breasts              |                     0       |                  2e-05   |                   3e-05   |               5e-05   | 120                            |
-| Gallbladder wall     |                     0       |                  2e-05   |                   0.00021 |               0.00023 | 14                             |
-| LLI 2 Wall           |                     0       |                  0.04561 |                   0.00085 |               0.04645 | 83                             |
-| Small intestine wall |                     0.00319 |                  0.0036  |                   0.00047 |               0.00726 | 45                             |
-| Stomach wall         |                     0       |                  2e-05   |                   0.00011 |               0.00014 | 22                             |
-| ULI 3 wall           |                     0       |                  0.03149 |                   0.00082 |               0.03232 | 50                             |
-| Heart wall           |                     0.00161 |                  7e-05   |                   5e-05   |               0.00173 | 42                             |
+| Adrenals             |                     0.00000 |                  0.00002 |                   0.00009 |               0.00012 | 56                             |
+| Brain                |                     0.00000 |                  0.00002 |                   0.00008 |               0.00010 | 80                             |
+| Breasts              |                     0.00000 |                  0.00002 |                   0.00003 |               0.00005 | 120                            |
+| Gallbladder wall     |                     0.00000 |                  0.00002 |                   0.00021 |               0.00023 | 14                             |
+| LLI 2 Wall           |                     0.00000 |                  0.04561 |                   0.00085 |               0.04645 | 83                             |
+| Small intestine wall |                     0.00319 |                  0.00360 |                   0.00047 |               0.00726 | 45                             |
+| Stomach wall         |                     0.00000 |                  0.00002 |                   0.00011 |               0.00014 | 22                             |
+| ULI 3 wall           |                     0.00000 |                  0.03149 |                   0.00082 |               0.03232 | 50                             |
+| Heart wall           |                     0.00161 |                  0.00007 |                   0.00005 |               0.00173 | 42                             |
 | Kidneys              |                     0.00299 |                  0.00011 |                   0.00011 |               0.00321 | 36                             |
-| Liver                |                     0.00279 |                  0.0001  |                   8e-05   |               0.00298 | 36                             |
-| Lungs                |                     0.00109 |                  7e-05   |                   5e-05   |               0.00121 | -- 4                           |
-| Muscle               |                     0       |                  2e-05   |                   0.0001  |               0.00012 | 41                             |
-| Ovaries              |                     0       |                  2e-05   |                   0.00046 |               0.00049 | 40                             |
-| Pancreas             |                     0       |                  2e-05   |                   9e-05   |               0.00011 | 43                             |
-| Red marrow           |                     0.13217 |                  0.00642 |                   0.0002  |               0.13879 | 41                             |
-| Osteogenic cells     |                     1.13689 |                  0.01487 |                   0.0003  |               1.15206 | 41                             |
-| Skin                 |                     0       |                  2e-05   |                   5e-05   |               7e-05   | 79                             |
-| Spleen               |                     0       |                  2e-05   |                   7e-05   |               9e-05   | 54                             |
-| Testes               |                     0       |                  2e-05   |                   6e-05   |               8e-05   | 59                             |
-| Thymus               |                     0       |                  2e-05   |                   3e-05   |               6e-05   | 109                            |
-| Thyroid              |                     0       |                  2e-05   |                   5e-05   |               7e-05   | 96                             |
+| Liver                |                     0.00279 |                  0.00010 |                   0.00008 |               0.00298 | 36                             |
+| Lungs                |                     0.00109 |                  0.00007 |                   0.00005 |               0.00121 | -- 4                           |
+| Muscle               |                     0.00000 |                  0.00002 |                   0.00010 |               0.00012 | 41                             |
+| Ovaries              |                     0.00000 |                  0.00002 |                   0.00046 |               0.00049 | 40                             |
+| Pancreas             |                     0.00000 |                  0.00002 |                   0.00009 |               0.00011 | 43                             |
+| Red marrow           |                     0.13217 |                  0.00642 |                   0.00020 |               0.13879 | 41                             |
+| Osteogenic cells     |                     1.13689 |                  0.01487 |                   0.00030 |               1.15206 | 41                             |
+| Skin                 |                     0.00000 |                  0.00002 |                   0.00005 |               0.00007 | 79                             |
+| Spleen               |                     0.00000 |                  0.00002 |                   0.00007 |               0.00009 | 54                             |
+| Testes               |                     0.00000 |                  0.00002 |                   0.00006 |               0.00008 | 59                             |
+| Thymus               |                     0.00000 |                  0.00002 |                   0.00003 |               0.00006 | 109                            |
+| Thyroid              |                     0.00000 |                  0.00002 |                   0.00005 |               0.00007 | 96                             |
 | Urinary bladder wall |                     0.00371 |                  0.00016 |                   0.00016 |               0.00403 | 63                             |
-| Uterus               |                     0       |                  2e-05   |                   0.00023 |               0.00026 | 28                             |
-| Whole body           |                     0.0222  |                  0.00081 |                   0.00012 |               0.02312 | 16                             |
-
-1 As there was no uptake of radium-223 in most of the soft tissues observed, the alpha contribution to the total organ dose was set to zero for these organs.
-
-2 LLI: lower large intestine
-
-3 ULI: upper large intestine
-
-4 Absorbed dose data to the lung are based on model-derived calculation using pooled blood time-activity data from all subjects
+| Uterus               |                     0.00000 |                  0.00002 |                   0.00023 |               0.00026 | 28                             |
+| Whole body           |                     0.02220 |                  0.00081 |                   0.00012 |               0.02312 | 16                             |
 
 The haematological adverse reactions observed in the clinical studies with Xofigo are much lower in frequency and severity than what could be expected from the calculated absorbed doses to the red marrow. This may be related to spatial distribution of alpha particle radiation resulting in non-uniform radiation dose to the red marrow.
 
@@ -628,19 +592,7 @@ The total volume to be administered to a patient is calculated as follows:
 
 Volume to be administered (mL)
 
-=
-
-Body weight (kg)
-
-
-
-DK factor
-
-
-
-activity (55 kBq/kg body weight)
-
-1100 kBq/mL
+- = Body weight (kg)  activity (55 kBq/kg body weight) DK factor  1100 kBq/mL
 
 Any unused radiopharmaceutical or waste material should be disposed of in accordance with local requirements.
 
@@ -684,16 +636,13 @@ An updated RMP should be submitted:
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-<div style=\"page-break-after: always\"></div>
-
 ## · Obligation to conduct post-authorisation measures
 
 The MAH shall complete, within the stated timeframe, the below measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                           | Due date   |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| The MAHshall conduct and submit the results of a phase IV randomised open-label multicentre study according to an agreed protocol in order to further characterise the efficacy and safety, in particular the risk of fractures, the risk of formation of visceral and nodal metastases of radium-223 in the authorised indication. The protocol should foresee a stratified randomisation of patients according to total ALP levels. | Q2 2026    |
-| The MAHshall conduct and submit the results of a phase I biodistribution study according to an agreed protocol in order to further characterise correlation between the extent of the disease, the dose and the distribution of radium-223 in bone metastases versus sites of impaired bone health (e.g., osteoporosis) versus normal bone structure.                                                                                 | Q1 2026    |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                            | Due date   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| The MAH shall conduct and submit the results of a phase IV randomised open-label multicentre study according to an agreed protocol in order to further characterise the efficacy and safety, in particular the risk of fractures, the risk of formation of visceral and nodal metastases of radium-223 in the authorised indication. The protocol should foresee a stratified randomisation of patients according to total ALP levels. | Q2 2026    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -711,10 +660,12 @@ The MAH shall complete, within the stated timeframe, the below measures:
 
 ## LEAD POT
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-Xofigo 1100 kBq/mL solution for injection radium Ra 223 dichloride
+Xofigo 1100 kBq/mL solution for injection
+
+radium Ra 223 dichloride
 
 | 2.   | STATEMENT OF ACTIVE SUBSTANCE   |
 |------|---------------------------------|
@@ -728,8 +679,8 @@ Each vial contains 6 mL of solution (6.6 MBq radium-223 dichloride at the refere
 
 Water for injections, sodium citrate, sodium chloride, hydrochloric acid. See leaflet for further information.
 
-| 4.   | PHARMACEUTICALFORMANDCONTENTS   |
-|------|---------------------------------|
+| 4.   | PHARMACEUTICAL FORM AND CONTENTS   |
+|------|------------------------------------|
 
 ## Solution for injection
 
@@ -739,13 +690,12 @@ Water for injections, sodium citrate, sodium chloride, hydrochloric acid. See le
 
 6.6 MBq/vial at 12 h (CET) ref. date: [DD/MM/YYYY]
 
-| 5.   | METHODANDROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------|
+| 5.   | METHOD AND ROUTE(S) OF ADMINISTRATION   |
+|------|-----------------------------------------|
 
 For intravenous use.
 
-| 6.   | SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN   |
-|------|----------------------------------------------------------------------------------------------------|
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -754,15 +704,18 @@ Keep out of the sight and reach of children.
 
 <!-- image -->
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
-## 9. SPECIAL STORAGE CONDITIONS
+<div style=\"page-break-after: always\"></div>
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
 
 Storage should be in accordance with national regulation on radioactive materials.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
-
-APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -798,8 +751,6 @@ Not applicable.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
@@ -820,9 +771,7 @@ Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-6 mL
-
-6.6 MBq/vial at 12 h (CET) ref. date: [DD/MM/YYYY]
+6 mL 6.6 MBq/vial at 12 h (CET) ref. date: [DD/MM/YYYY]
 
 ## 6. OTHER
 
@@ -897,6 +846,8 @@ Talk to your doctor before you are given Xofigo
 
 Your doctor will test your bone health before deciding whether you can be given Xofigo. During treatment and for 2 years after starting treatment with Xofigo, your doctor will continuously monitor your bone health.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Children and adolescents
 
 This medicine is not for use in children and adolescents.
@@ -904,8 +855,6 @@ This medicine is not for use in children and adolescents.
 ## Other medicines and Xofigo
 
 No interaction studies with other medicines have been done.
-
-<div style=\"page-break-after: always\"></div>
 
 Xofigo must not be given in combination with abiraterone and prednisone/prednisolone due to a possible increase in the risk of bone fracture or death. Additionally, there are uncertainties about the effects of Xofigo in combination with other systemic medicines used to treat metastatic prostate cancer. If you are already taking one of those medicines, please tell your doctor.
 
@@ -941,13 +890,13 @@ Depending on the volume administered, this medicine can contain up to 54 mg sodi
 
 There are strict laws on the use, handling and disposal of medicines like Xofigo. It will only be used in special controlled areas. This radiopharmaceutical will only be handled and given to you by people who are trained and qualified to use it safely. These persons will take special care for the safe use of this radiopharmaceutical and will keep you informed of their actions.
 
+<div style=\"page-break-after: always\"></div>
+
 The dose you receive depends on your body weight. The doctor supervising the procedure will calculate the quantity of Xofigo to be used in your case.
 
 The recommended dose of Xofigo is 55 kBq (Becquerel, the unit used to express radioactivity) per kilogram body weight.
 
 No dose adjustment is necessary if you are 65 years of age or older or if you have reduced kidney or liver function.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Administration of Xofigo and conduct of the procedure
 
@@ -992,9 +941,9 @@ The most frequent side effects in patients receiving Xofigo (very common [may af
 
 - -diarrhoea, nausea (feeling sick), vomiting, thrombocytopenia (decrease in the number of blood platelets) and bone fracture .
 
-Risk of dehydration: tell your doctor if you have any of the following symptoms: dizziness, increased thirst, decreased urination or dry skin as these can all be symptoms of dehydration. It is important to avoid dehydration by drinking plenty of fluids.
-
 <div style=\"page-break-after: always\"></div>
+
+Risk of dehydration: tell your doctor if you have any of the following symptoms: dizziness, increased thirst, decreased urination or dry skin as these can all be symptoms of dehydration. It is important to avoid dehydration by drinking plenty of fluids.
 
 ## Other possible side effects are listed below by how likely they are:
 
@@ -1005,7 +954,7 @@ Common (may affect up to 1 in 10 people)
 - -decrease in the number of red and white blood cells and blood platelets (pancytopenia)
 - -injection site reactions (e.g. redness of the skin [erythema], pain and swelling)
 
-Uncommon (may affect up to 1 in 100 people)
+## Uncommon (may affect up to 1 in 100 people)
 
 - -decrease in the number of lymphocytes, a type of white blood cells (lymphopenia)
 - -weakened bones (osteoporosis)
@@ -1040,9 +989,9 @@ Each mL of solution contains 1100 kBq radium-223 dichloride, corresponding to 0.
 
 Each vial contains 6 mL of solution (6600 kBq radium-223 dichloride at the reference date).
 
-- -The other ingredients are: water for injections, sodium citrate, sodium chloride and diluted hydrochloric acid (see end of Section 2 for further information on sodium).
-
 <div style=\"page-break-after: always\"></div>
+
+- -The other ingredients are: water for injections, sodium citrate, sodium chloride and diluted hydrochloric acid (see end of Section 2 for further information on sodium).
 
 ## What Xofigo looks like and contents of the pack
 
@@ -1054,11 +1003,9 @@ Bayer AG 51368 Leverkusen Germany
 
 ## Manufacturer
 
-Bayer AS Drammensveien 288 NO-0283 Oslo Norway
+Bayer AS Drammensveien 288 NO-0283 Oslo Norway For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België / Belgique / Belgien
 

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-29 16:46:00
+document_datetime: 2026-07-31 11:31:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kaftrio.html
 document_name: kaftrio.html
 version: success
-processing_time: 0.1768178
-conversion_datetime: 2026-07-04 13:07:33.258877
+processing_time: 0.1449233
+conversion_datetime: 2026-08-01 11:35:54.47534
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Kaftrio
 
@@ -122,7 +122,7 @@ English (EN) (120.49 KB - PDF)
 
 [View](/en/documents/overview/kaftrio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-839)
+[Other languages (22)](#file-language-dropdown-810)
 
 български (BG) (155.38 KB - PDF)
 
@@ -260,7 +260,7 @@ Kaftrio : EPAR - Risk management plan
 
 English (EN) (2.62 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 29/06/2026
+**First published:** 21/08/2020 **Last updated:** 31/07/2026
 
 [View](/en/documents/rmp/kaftrio-epar-risk-management-plan_en.pdf)
 
@@ -274,7 +274,7 @@ English (EN) (1.11 MB - PDF)
 
 [View](/en/documents/product-information/kaftrio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-643)
+[Other languages (24)](#file-language-dropdown-273)
 
 български (BG) (1.49 MB - PDF)
 
@@ -447,7 +447,7 @@ English (EN) (65.15 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kaftrio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-524)
+[Other languages (24)](#file-language-dropdown-779)
 
 български (BG) (84.99 KB - PDF)
 
@@ -925,6 +925,6 @@ English (EN) (157.36 KB - PDF)
 
 **This page was last updated on**
 
-29/06/2026
+31/07/2026
 
 ## Share this page

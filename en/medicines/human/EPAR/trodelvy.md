@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-16 15:32:00
+document_datetime: 2026-07-28 15:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trodelvy.html
 document_name: trodelvy.html
 version: success
-processing_time: 0.153951
-conversion_datetime: 2026-07-19 12:02:10.00426
+processing_time: 0.1466357
+conversion_datetime: 2026-08-01 11:33:38.924095
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.1.0
-  docling: 2.113.0
-  docling-core: 2.87.1
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.117.0
+  docling-core: 2.89.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Trodelvy
 
@@ -133,7 +133,7 @@ English (EN) (163.99 KB - PDF)
 
 [View](/en/documents/overview/trodelvy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-629)
+[Other languages (22)](#file-language-dropdown-733)
 
 български (BG) (183.12 KB - PDF)
 
@@ -279,161 +279,161 @@ English (EN) (924.47 KB - PDF)
 
 Trodelvy : EPAR - Product information
 
-English (EN) (679.29 KB - PDF)
+English (EN) (696.46 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/en/documents/product-information/trodelvy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-153)
+[Other languages (24)](#file-language-dropdown-536)
 
-български (BG) (795.41 KB - PDF)
+български (BG) (815.21 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/bg/documents/product-information/trodelvy-epar-product-information_bg.pdf)
 
-español (ES) (675.61 KB - PDF)
+español (ES) (597.01 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/es/documents/product-information/trodelvy-epar-product-information_es.pdf)
 
-čeština (CS) (696.21 KB - PDF)
+čeština (CS) (725.35 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/cs/documents/product-information/trodelvy-epar-product-information_cs.pdf)
 
-dansk (DA) (483.17 KB - PDF)
+dansk (DA) (482.19 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/da/documents/product-information/trodelvy-epar-product-information_da.pdf)
 
-Deutsch (DE) (564.19 KB - PDF)
+Deutsch (DE) (627.71 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/de/documents/product-information/trodelvy-epar-product-information_de.pdf)
 
-eesti (ET) (543.71 KB - PDF)
+eesti (ET) (592.81 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/et/documents/product-information/trodelvy-epar-product-information_et.pdf)
 
-ελληνικά (EL) (758.82 KB - PDF)
+ελληνικά (EL) (784.7 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/el/documents/product-information/trodelvy-epar-product-information_el.pdf)
 
-français (FR) (519.99 KB - PDF)
+français (FR) (519.55 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/fr/documents/product-information/trodelvy-epar-product-information_fr.pdf)
 
-hrvatski (HR) (667.79 KB - PDF)
+hrvatski (HR) (673.91 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/hr/documents/product-information/trodelvy-epar-product-information_hr.pdf)
 
-italiano (IT) (545.59 KB - PDF)
+italiano (IT) (565.1 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/it/documents/product-information/trodelvy-epar-product-information_it.pdf)
 
-latviešu (LV) (724.88 KB - PDF)
+latviešu (LV) (745.65 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/lv/documents/product-information/trodelvy-epar-product-information_lv.pdf)
 
-lietuvių (LT) (644.55 KB - PDF)
+lietuvių (LT) (645.23 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/lt/documents/product-information/trodelvy-epar-product-information_lt.pdf)
 
-magyar (HU) (729.66 KB - PDF)
+magyar (HU) (741.7 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/hu/documents/product-information/trodelvy-epar-product-information_hu.pdf)
 
-Malti (MT) (645.09 KB - PDF)
+Malti (MT) (642.63 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/mt/documents/product-information/trodelvy-epar-product-information_mt.pdf)
 
-Nederlands (NL) (550.11 KB - PDF)
+Nederlands (NL) (570.99 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/nl/documents/product-information/trodelvy-epar-product-information_nl.pdf)
 
-polski (PL) (689.36 KB - PDF)
+polski (PL) (708.54 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/pl/documents/product-information/trodelvy-epar-product-information_pl.pdf)
 
-português (PT) (562.48 KB - PDF)
+português (PT) (605.68 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/pt/documents/product-information/trodelvy-epar-product-information_pt.pdf)
 
-română (RO) (691.49 KB - PDF)
+română (RO) (710.73 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/ro/documents/product-information/trodelvy-epar-product-information_ro.pdf)
 
-slovenčina (SK) (627.81 KB - PDF)
+slovenčina (SK) (627.92 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/sk/documents/product-information/trodelvy-epar-product-information_sk.pdf)
 
-slovenščina (SL) (686.19 KB - PDF)
+slovenščina (SL) (698.08 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/sl/documents/product-information/trodelvy-epar-product-information_sl.pdf)
 
-suomi (FI) (568.66 KB - PDF)
+suomi (FI) (589.04 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/fi/documents/product-information/trodelvy-epar-product-information_fi.pdf)
 
-svenska (SV) (601.27 KB - PDF)
+svenska (SV) (622.55 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/sv/documents/product-information/trodelvy-epar-product-information_sv.pdf)
 
-Íslenska (IS) (564.05 KB - PDF)
+Íslenska (IS) (584.98 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/is/documents/product-information/trodelvy-epar-product-information_is.pdf)
 
-norsk (NO) (580.47 KB - PDF)
+norsk (NO) (601.38 KB - PDF)
 
-**First published:** 24/11/2021 **Last updated:** 16/07/2026
+**First published:** 24/11/2021 **Last updated:** 28/07/2026
 
 [View](/no/documents/product-information/trodelvy-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000312649
+**Latest procedure affecting product information:** R/0000326788
 
-22/06/2026
+23/07/2026
 
 icon globe
 
@@ -458,7 +458,7 @@ English (EN) (36.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/trodelvy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-483)
+[Other languages (24)](#file-language-dropdown-778)
 
 български (BG) (53.04 KB - PDF)
 
@@ -648,7 +648,7 @@ Trodelvy as monotherapy is indicated for the treatment of adult patients with un
 - **Marketing authorisation issued**
     - 22/11/2021
 - **Revision**
-    - 6
+    - 7
 
 ## Assessment history
 
@@ -657,6 +657,14 @@ Expand section
 Collapse section
 
 ### Changes since initial authorisation of medicine
+
+Trodelvy : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (153.28 KB - PDF)
+
+**First published:** 16/07/2026 **Last updated:** 28/07/2026
+
+[View](/en/documents/procedural-steps-after/trodelvy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Trodelvy : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
@@ -730,6 +738,10 @@ English (EN) (140.81 KB - PDF)
 
 ## News on Trodelvy
 
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 July 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-july-2026)
+
+24/07/2026
+
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 May 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-may-2026)
 
 22/05/2026
@@ -750,9 +762,10 @@ English (EN) (140.81 KB - PDF)
 
 - [EMEA-002645-PIP03-21 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002645-pip03-21)
 - [EMA/PE/0000228097 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000228097)
+- [Trodelvy - opinion on variation to marketing authorisation](/en/medicines/human/variation/trodelvy)
 
 **This page was last updated on**
 
-16/07/2026
+28/07/2026
 
 ## Share this page

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-14 08:59:37
+document_datetime: 2026-08-04 09:26:27
 document_pages: 74
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vitrakvi-epar-product-information_en.pdf
 document_name: vitrakvi-epar-product-information_en.pdf
 version: success
-processing_time: 21.0571596
-conversion_datetime: 2026-07-16 13:28:34.414899
+processing_time: 27.1283001
+conversion_datetime: 2026-08-04 13:58:04.881499
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.113.0
-  docling-core: 2.87.1
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.118.0
+  docling-core: 2.90.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -202,9 +202,7 @@ Larotrectinib is a substrate of cytochrome P450 (CYP) 3A, P-glycoprotein (P-gp) 
 
 Co-administration of VITRAKVI with strong or moderate CYP3A inducers and strong P-gp inducers (e.g. carbamazepine, phenobarbital, phenytoin, rifabutin, rifampicin, or St. John's Wort) may decrease larotrectinib plasma concentrations and should be avoided (see section 4.4).
 
-Clinical data in healthy adult subjects indicate that co-administration of a single 100 mg VITRAKVI larotrectinib Cmax and AUC by 71% and 81%, respectively. No clinical data is available on the effect
-
-dose with rifampicin (a strong CYP3A and P-gp inducer) 600 mg once daily for 11 days decreased of a moderate inducer, but a decrease in larotrectinib exposure is expected.
+Clinical data in healthy adult subjects indicate that co-administration of a single 100 mg VITRAKVI dose with rifampicin (a strong CYP3A and P-gp inducer) 600 mg once daily for 11 days decreased larotrectinib Cmax and AUC by 71% and 81%, respectively. No clinical data is available on the effect of a moderate inducer, but a decrease in larotrectinib exposure is expected.
 
 ## Effects of larotrectinib on other agents
 
@@ -319,9 +317,9 @@ Table 3: Adverse drug reactions reported in TRK fusion-positive cancer patients 
 
 Table 4: Adverse drug reactions reported in TRK fusion-positive paediatric cancer patients treated with VITRAKVI at recommended dose (n=135); all grades
 
-| System organ class                                   | Frequency   | Infants and toddlers (n=43) a                                                                                                                                    | Children (n=67) b                                                                                                                                                | Adolescents c                                                                                                                                                    | Paediatric patients (n=135)                                                                                                                                      |
+| System organ class                                   | Frequency   | Infants and toddlers (n=43) a                                                                                                                                    | Children (n=67) b                                                                                                                                                | Adolescents c                                                                                                                                                    | Paediatric patients                                                                                                                                              |
 |------------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders                 | Very common | Anaemia Neutrophil count decreased (Neutropenia) Leukocyte count decreased (Leukopenia) Platelet count decreased (Thrombocytopenia)                              | Anaemia Neutrophil count decreased (Neutropenia) Leukocyte count decreased (Leukopenia)                                                                          | (n=25) Anaemia Neutrophil count decreased (Neutropenia) Leukocyte count decreased (Leukopenia)                                                                   | Anaemia Neutrophil count decreased (Neutropenia) Leukocyte count decreased (Leukopenia) Platelet count decreased (Thrombocytopenia)                              |
+| Blood and lymphatic system disorders                 | Very common | Anaemia Neutrophil count decreased (Neutropenia) Leukocyte count decreased (Leukopenia) Platelet count decreased (Thrombocytopenia)                              | Anaemia Neutrophil count decreased (Neutropenia) Leukocyte count decreased (Leukopenia)                                                                          | (n=25) Anaemia Neutrophil count decreased (Neutropenia) Leukocyte count decreased (Leukopenia)                                                                   | (n=135) Anaemia Neutrophil count decreased (Neutropenia) Leukocyte count decreased (Leukopenia) Platelet count decreased (Thrombocytopenia)                      |
 | Blood and lymphatic system disorders                 | Common      |                                                                                                                                                                  | Platelet count decreased (Thrombocytopenia)                                                                                                                      | Platelet count decreased (Thrombocytopenia)                                                                                                                      |                                                                                                                                                                  |
 | Nervous system disorders                             | Very common |                                                                                                                                                                  |                                                                                                                                                                  | Dizziness                                                                                                                                                        |                                                                                                                                                                  |
 | Nervous system disorders                             | Common      | Dizziness                                                                                                                                                        | Dizziness Paraesthesia Gait disturbance                                                                                                                          | Paraesthesia Gait disturbance                                                                                                                                    | Dizziness Paraesthesia Gait disturbance                                                                                                                          |
@@ -1309,7 +1307,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-2 years.
+3 years.
 
 After first opening: 10 days. Store in a refrigerator (2 °C - 8 °C).
 

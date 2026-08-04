@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-22 15:23:07
-document_pages: 32
+document_datetime: 2026-08-03 16:15:11
+document_pages: 37
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/opzelura-epar-product-information_en.pdf
 document_name: opzelura-epar-product-information_en.pdf
 version: success
-processing_time: 9.7900985
-conversion_datetime: 2026-07-28 13:45:44.857105
+processing_time: 7.7132519
+conversion_datetime: 2026-08-04 13:59:26.273379
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.118.0
+  docling-core: 2.90.0
   docling-ibm-models: 3.13.3
   docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -46,17 +46,25 @@ White to off-white cream.
 
 ## 4.1 Therapeutic indications
 
+## Vitiligo
+
 Opzelura is indicated for the treatment of non-segmental vitiligo with facial involvement in adults and adolescents from 12 years of age.
+
+## Atopic dermatitis
+
+Opzelura is indicated for the treatment of moderate atopic dermatitis in adult patients for whom topical corticosteroids and topical calcineurin inhibitors are inadequate or inappropriate.
 
 ## 4.2 Posology and method of administration
 
-Opzelura should be initiated and supervised by physicians with experience in the diagnosis and treatment of non-segmental vitiligo.
+Opzelura should be initiated and supervised by physicians with experience in the diagnosis and treatment of conditions for which ruxolitinib cream is indicated.
 
 ## Posology
 
-Adults
+## Vitiligo
 
 The recommended dose is a thin layer of cream applied twice daily to the depigmented skin areas up to a maximum of 10% of body surface area (BSA), with a minimum of 8 hours between two applications of ruxolitinib cream. 10% BSA represents an area as large as 10 times the palm of one hand with the 5 fingers. Ruxolitinib cream should be used at the smallest skin area necessary.
+
+<div style=\"page-break-after: always\"></div>
 
 No more than two tubes of 100 grams a month should be used.
 
@@ -64,9 +72,17 @@ Satisfactory repigmentation may require treatment beyond 24 weeks. If there is l
 
 Once satisfactory repigmentation is achieved, treatment in those areas can be stopped. If depigmentation recurs after treatment discontinuation, therapy can be reinitiated on the affected areas.
 
-<div style=\"page-break-after: always\"></div>
-
 There is no need to consider tapering therapy.
+
+## Atopic dermatitis
+
+A thin layer of cream should be applied twice daily to the affected skin area up to a maximum of 20% of BSA, until clearance of the lesions. It is recommended to apply the cream at regular intervals, with a minimum of 8 hours between two applications of ruxolitinib cream. Ruxolitinib cream should be used at the smallest skin area necessary.
+
+No more than 4 tubes of 100 grams a month should be used.
+
+In the event of recurrence of the signs and symptoms, twice daily treatment of the affected areas should be re-initiated as needed.
+
+Treatment should be discontinued if no improvement is seen after 8 weeks of twice daily treatment.
 
 ## Special populations
 
@@ -80,13 +96,21 @@ No studies with ruxolitinib cream have been performed in patients with renal imp
 
 ## Elderly
 
-A limited number of patients aged 65 years and above have been enrolled in the clinical studies with Opzelura in vitiligo to determine whether they respond differently from younger subjects (see section 5.1). No dose adjustment is required in patients aged 65 years and above.
+A limited number of patients aged 65 years and above have been enrolled in the clinical studies with Opzelura in vitiligo and atopic dermatitis to determine whether they respond differently from younger subjects (see section 5.1). No dose adjustment is required in patients aged 65 years and above.
 
 ## Paediatric population
 
-For adolescents (12-17 years) the posology is the same as for adults.
+## Vitiligo
 
-The safety and efficacy of ruxolitinib cream in children below 12 years of age have not been established. No data are available.
+For adolescents (12 to 17 years) with vitiligo the posology is the same as for adults.
+
+The safety and efficacy of ruxolitinib cream in children below 12 years of age with vitiligo have not been established. No data are available.
+
+<div style=\"page-break-after: always\"></div>
+
+## Atopic dermatitis
+
+There is no relevant use of ruxolitinib cream in the paediatric population from birth to less than 3 months of age. The safety and efficacy of ruxolitinib cream in children aged 3 months to 17 years old have not yet been established. Currently available data are described in section 5.1 but no recommendation on a posology can be made.
 
 ## Method of administration
 
@@ -106,11 +130,13 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 The cream is not for ophthalmic, oral, or intravaginal use (see section 4.2). In cases of accidental exposure in the eyes or mucous membranes, the cream should be thoroughly wiped off and/or rinsed with water.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Non-melanoma skin cancer
 
 Non-melanoma skin cancers (NMSCs), predominantly basal cell carcinomas, have been reported in patients treated with topical ruxolitinib. Most of these patients had risk factors, such as prior phototherapy or prior NMSC. A causal relationship to topical ruxolitinib has not been established. Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer.
+
+## Herpes zoster
+
+Cases of herpes zoster reactivation have been reported in patients treated with topical ruxolitinib. If a patient develops herpes zoster, temporary interruption of ruxolitinib cream therapy should be considered until the episode resolves.
 
 ## Excipients with known effect
 
@@ -125,6 +151,8 @@ This medicinal product contains cetyl alcohol and stearyl alcohol which may caus
 ## Parahydroxybenzoates
 
 This medicinal product contains methyl parahydroxybenzoate (E218) and propyl parahydroxybenzoate which may cause allergic reactions (possibly delayed).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Butylated hydroxytoluene
 
@@ -142,7 +170,7 @@ The potential for interactions with ruxolitinib is considered to be low because 
 
 Based on in vitro data, ruxolitinib is predominantly cleared by cytochrome P450 3A4 (CYP3A4) metabolism. Interaction potential was evaluated for oral ruxolitinib in dedicated clinical pharmacology studies that included co-administration of strong or moderate CYP3A4 inhibitors or a strong inducer. The plasma AUC is approximately doubled with co-administration of a potent inhibitor of CYP3A4 while only a modest increase was seen with co-administration of a moderate CYP3A4 inhibitor.
 
-The use of ruxolitinib cream in combination with other topical medicinal products used to treat vitiligo has not been evaluated and co-application on the same skin areas is not recommended. The efficacy and safety of the combination of ruxolitinib cream with narrow-band ultraviolet B (NB-UVB) phototherapy has not been established; no recommendation can be made.
+The use of ruxolitinib cream in combination with other topical medicinal products used to treat vitiligo or atopic dermatitis has not been evaluated and co-application on the same skin areas is not recommended. The efficacy and safety of the combination of ruxolitinib cream with narrow-band ultraviolet B (NB-UVB) phototherapy has not been established; no recommendation can be made.
 
 Other topical medicinal products used to treat other conditions on the same skin areas should be applied with a minimum of 2 hours after the application of ruxolitinib cream. This is also applicable to the use of sunscreen or emollients.
 
@@ -152,8 +180,6 @@ Other topical medicinal products used to treat other conditions on the same skin
 
 Women of childbearing potential have to use effective contraception during treatment and for 4 weeks after discontinuation of treatment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pregnancy
 
 There are no or limited amount of data from the use of ruxolitinib in pregnant women. Data on systemic absorption of topical ruxolitinib during pregnancy are lacking. There could also be individual factors (e.g. damaged skin barrier, excessive use) that contribute to an increased systemic exposure. Animal studies have shown that ruxolitinib is embryotoxic and foetotoxic following oral administration. Teratogenicity was not observed in rats or rabbits (see section 5.3). Opzelura is contraindicated during pregnancy (see section 4.3).
@@ -161,6 +187,8 @@ There are no or limited amount of data from the use of ruxolitinib in pregnant w
 ## Breast-feeding
 
 No data are available regarding the presence of ruxolitinib in human milk, the effects on the breastfed child, or the effects on milk production after topical application of Opzelura. Following oral administration of ruxolitinib to lactating rats, ruxolitinib and/or its metabolites were present in the milk with a concentration 13-fold higher than the maternal plasma concentration. In juvenile rat studies, oral administration of ruxolitinib resulted in effects on growth and bone measures (see section 5.3). Opzelura is contraindicated during breast-feeding (see section 4.3) and treatment must be discontinued approximately 4 weeks before the beginning of breastfeeding.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -174,23 +202,22 @@ Ruxolitinib cream has no or negligible influence on the ability to drive and use
 
 ## Summary of the safety profile
 
-The most common adverse reaction is application site acne (5.8%).
+The most common adverse reaction is application site acne (5.8% in vitiligo and 4.4% in atopic dermatitis).
 
 ## Tabulated list of adverse reactions
 
 Adverse reactions are ranked under headings of frequency, with the most frequent first, using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data).
 
-## Table 1: Adverse reactions
+Table 1: Adverse reactions
 
 | System Organ Class                                   | Frequency   | Adverse Reaction      |
 |------------------------------------------------------|-------------|-----------------------|
+| Infections and infestations                          | Uncommon    | Herpes zoster         |
 | General disorders and administration site conditions | Common      | Application site acne |
 
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -206,9 +233,15 @@ Pharmacotherapeutic group: Other dermatological preparations, agents for dermati
 
 ## Mechanism of action
 
-Ruxolitinib is a Janus Kinase (JAK) inhibitor with selectivity for the JAK1 and JAK2 isoforms. Intracellular JAK signalling involves recruitment of STATs (signal transducers and activators of transcription) to cytokine receptors, and subsequent modulation of gene expression. Autoimmune IFNγ producing cytotoxic T lymphocytes are thought to be directly responsible for melanocyte destruction in human vitiligo. Recruitment of cytotoxic lymphocytes to lesional skin is mediated via IFNγ dependent chemokines, such as CXCL10. Downstream signalling of IFNγ is JAK1/2 dependent and treatment with ruxolitinib reduces CXCL10 levels in vitiligo patients.
+Ruxolitinib is a Janus Kinase (JAK) inhibitor with selectivity for the JAK1 and JAK2 isoforms. Intracellular JAK signalling involves recruitment of STATs (signal transducers and activators of transcription) to cytokine receptors, and subsequent modulation of gene expression.
 
-## Clinical efficacy and safety
+<div style=\"page-break-after: always\"></div>
+
+Autoimmune IFNγ producing cytotoxic T lymphocytes are thought to be directly responsible for melanocyte destruction in human vitiligo. Recruitment of cytotoxic lymphocytes to lesional skin is mediated via IFNγ dependent chemokines, such as CXCL10. Downstream signalling of IFNγ is JAK1/2 dependent and treatment with ruxolitinib reduces CXCL10 levels in vitiligo patients.
+
+Multiple inflammatory and pruritic cytokines involved in the pathogenesis of atopic dermatitis, such as IL -4, IL -5, IL -13, IL -22, IL -31, and thymic stromal lymphopoietin ( TSLP ), require JAK/STAT pathway activation for downstream biological activity.
+
+## Clinical efficacy and safety in vitiligo
 
 ## Efficacy
 
@@ -220,9 +253,9 @@ Repigmentation of treated vitiligo lesions and superiority of ruxolitinib cream 
 
 The treatment effect difference from vehicle emerges numerically as early as week 12. Continued repigmentation as assessed by VASI and VNS scores was observed through week 52 for patients who had continuously applied ruxolitinib cream twice daily from baseline. The proportion of patients who achieved F-VASI75 over the 52-week treatment period in pooled data from study TRuE-V1 and TRuE-V2 are shown in Figure 1.
 
-<div style=\"page-break-after: always\"></div>
-
 Similar treatment responses at week 52 are seen for those who crossed over from vehicle to ruxolitinib (Figure 1).
+
+<div style=\"page-break-after: always\"></div>
 
 Table 2: Percent of patients with vitiligo achieving the primary and key secondary endpoints at week 24 (intent-to-treat) a
 
@@ -239,19 +272,17 @@ Table 2: Percent of patients with vitiligo achieving the primary and key seconda
 | VNS 4 or 5 (%)                    | 24.5                    | 3.3       | 20.5                    | 4.9       |
 | Response rate difference (95% CI) | 21.2 c (14.271, 28.143) | -         | 15.5 d (8.515, 22.561)  | -         |
 
-<div style=\"page-break-after: always\"></div>
-
-Figure 1: Proportion of patients achieving F-VASI75 during the 52 week treatment period (Intent-to-treat) - pooled data from study TRuE-V1 and TRuE-V2
+Figure 1: Proportion of patients achieving F-VASI75 during the 52 week treatment period (intent-to-treat) - pooled data from study TRuE-V1 and TRuE-V2
 
 <!-- image -->
 
-Vehicle BID-1.5% BID: Patients on vehicle twice daily for the first 24 weeks who crossed over to Opzelura twice daily for 28 weeks
-
 At week 52, the observed response rate for F-VASI90, T-VASI50 and VNS was 30.3%, 51.1%, and 36.3% respectively for the ITT pooled population.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Durability of response
 
-A Phase 3, double-blind, vehicle-controlled, randomised, withdrawal and treatment-extension study of ruxolitinib cream twice daily enrolled 458 eligible patients with vitiligo who had completed either of the parent studies using ruxolitinib  (TRuE-V1 and TRuE-V2; week 52); patients were assigned to either cohort A or B with a follow-up up to 104 weeks.
+A Phase 3, double-blind, vehicle-controlled, randomised, withdrawal and treatment-extension study of ruxolitinib cream twice daily enrolled 458 eligible patients with vitiligo who had completed either of the parent studies using ruxolitinib (TRuE-V1 and TRuE-V2; week 52); patients were assigned to either cohort A or B with a follow-up up to 104 weeks.
 
 Cohort A comprised 116 patients who reached ≥ F -VASI90 at week 52 of the parent study. These patients were re-randomised to either ruxolitinib or vehicle (i.e. withdrawal) to study relapse (&lt; F-VASI75). A relapse occurred in 15% of patients in the ruxolitinib group, and in 29% of patients in the vehicle group. In the latter group, the majority of relapses (9/16) occurred during the first 4 months after stopping ruxolitinib cream. Among the 16 patients in the vehicle group who relapsed and were retreated, re-treatment resulted in a regained F-VASI75 in 12 (75%) patients in a median of 12 weeks and F-VASI90 was regained by 11 (69%) patients in a median of 15 weeks. Cohort B comprised 342 patients who reached &lt; F-VASI90 at week 52 of the parent study. These patients continued with open-label ruxolitinib treatment; at week 104, among patients originally randomised to ruxolitinib cream twice daily, 66% reached F-VASI75, and 34% reached F-VASI90.
 
@@ -259,21 +290,101 @@ Cohort A comprised 116 patients who reached ≥ F -VASI90 at week 52 of the pare
 
 Safety in the long-term extension study up to 104 weeks cumulatively was consistent with the profile reported in the parent studies up to 52 weeks.
 
-## Paediatric population
+## Clinical efficacy in atopic dermatitis
 
-A total of 72 adolescents (12 to &lt; 18 years; n = 55 ruxolitinib cream, n = 17 vehicle) were included in the pivotal studies. Adolescents showed equal response rates in primary and key secondary endpoints at 24 weeks when treated with ruxolitinib, as compared to adults from 18-65 years of age.
+The efficacy and safety of ruxolitinib cream was evaluated in a pivotal double-blind, randomised, vehicle-controlled study (TRuE-AD4) in adult patients with moderate atopic dermatitis who had inadequate response to, were intolerant to, or were contraindicated to topical corticosteroids and topical calcineurin inhibitors.
+
+The pivotal, double-blind, randomised, vehicle-controlled study (TRuE-AD4), enrolled a total of 241 patients, 18 years of age and older with moderate atopic dermatitis, defined by an Eczema Area and Severity Index (EASI) score &gt; 7, an Investigator's Global Assessment (IGA) score of 3, 10-20% Body Surface Area (BSA) involvement (excluding scalp), an Itch Numeric Rating Scale (Itch NRS) score of ≥ 4, and a Dermatology Life Quality Index (DLQI) score &gt; 10. Enrolled patients had a documented inadequate response to, were intolerant to, or were contraindicated to topical corticosteroids and topical calcineurin inhibitors. Patients were randomised 2:1 to treatment with ruxolitinib 1.5% cream twice daily (BID) or vehicle cream BID for 8 weeks, followed by a 16-week, vehicle-controlled extension, double-blind period for patients with an adequate response (at least EASI50 from baseline) and an open-label escape arm.  During the double-blind, vehicle-controlled extension period, patients applied study drug to active lesions only.
+
+## Endpoints
+
+In study TRuE-AD4, the co-primary efficacy endpoints were the proportion of patients reaching EASI75 (defined as ≥ 75% improvement in EASI score from baseline ) and the proportion of patients achieving IGA Treatment Success (IGA-TS; defined as an IGA score of 0 [clear] or 1 [almost clear] and a ≥ 2 -grade improvement from baseline) at week 8. Key secondary endpoints included the proportion of patients reaching ITCH4 (defined as ≥ 4 -point improvement in Itch NRS score from baseline) at week 8, day 7, day 3, and day 2. Additional clinically relevant secondary endpoints included the proportion of patients achieving IGA-TS, EASI75, ITCH4, as well as change from baseline in DLQI, Patient -Oriented Eczema Measure (POEM), Patient-Reported Outcomes Measurement Information System (PROMIS) Short Form Sleep-Related Impairment (8a) and PROMIS Short Form Sleep Disturbance (8b), at each postbaseline visit.
 
 <div style=\"page-break-after: always\"></div>
 
-The European Medicines Agency has deferred the obligation to submit the results of studies with Opzelura in one or more subsets of the paediatric population for the treatment of vitiligo (see section 4.2 for information on paediatric use).
+## Baseline characteristics
+
+In study TRuE-AD4, the mean age was 39 years and 7.9% of patients were 65 years of age or older. Females constituted 54% of patients, 81% of patients were White, 5.8% were Black, and 10% were Asian. Patients had long-standing atopic dermatitis of 20 years (mean) before study entry. Recent (within the last 12 months) prior treatments for atopic dermatitis included topical corticosteroids (96%) and topical calcineurin inhibitors (81%), as well as systemic therapies (30%) and phototherapy (8.7%). The mean EASI score was 13, the mean Itch NRS score was 7.4, and the mean total % BSA affected was 15%. The mean DLQI score was 19, the mean POEM score was 20 (with no patients having a POEM score of 0-2), and the mean PROMIS 8a and PROMIS 8b scores were 22 and 24, respectively. Baseline characteristics were generally similar across the treatment groups.
+
+## Clinical response
+
+In study TRuE-AD4, ruxolitinib cream was statistically significantly superior to vehicle cream at week 8 with respect to the co-primary endpoints, EASI75 (Table 3 and Figure 2) and IGA-TS (Table 3), and all of the key secondary endpoints, ITCH4 at week 8 (Table 3 and Figure 3), and ITCH4 at day 7, 3 and 2, with separation between the ruxolitinib cream and vehicle cream treatment groups at Day 1 (Figure 3).
+
+The proportion of patients reaching IGA-TS increased from baseline during the double-blind, vehiclecontrolled period (Table 3), with separation between the ruxolitinib cream and vehicle cream treatment groups at week 2 (29% and 2.5%, respectively) and week 4 (49% and 9.9%, respectively).
+
+Table 3: Efficacy results of ruxolitinib cream, co-primary and selected key secondary endpoints at week 8
+
+|                                   | TRuE-AD4 (intent-to-treat)   | TRuE-AD4 (intent-to-treat)   |
+|-----------------------------------|------------------------------|------------------------------|
+|                                   | Ruxolitinib cream (N = 160)  | Vehicle (N = 81)             |
+| EASI75 (%)                        | 70.0                         | 18.5                         |
+| Response rate difference (95% CI) | 51.4 (40.48, 62.24) a        | -                            |
+| IGA-TS (%)                        | 61.3                         | 13.6                         |
+| Response rate difference (95% CI) | 47.6 (36.98, 58.20) a        | -                            |
+| ITCH4 (%)                         | 62.5                         | 19.8                         |
+| Response rate difference (95% CI) | 42.8 (31.44, 54.21) a        | -                            |
+
+a p-value &lt; 0.0001
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 2: Proportion of patients achieving EASI75 at each visit during the vehiclecontrolled period in study TRuE-AD4 (intent-to-treat)
+
+<!-- image -->
+
+Figure 3: Line Plot of ITCH4 Response Rate from day 1 to day 7 - TRuE-AD4 (intent-totreat Population)
+
+<!-- image -->
+
+p-value&lt; 0.0001 on D7 and D3; p-value = 0.0072 on D2. Nominal p-value = 0.0374 on D1, Nominal p-value &lt; 0.0001 on D4, D5 and D6.
+
+## Durability of response
+
+During the double-blind, vehicle-controlled extension period of week 8 to week 24, when patients applied study drug to active lesions only, the proportion of patients in the ruxolitinib cream group who reached EASI75, IGA-TS, and ITCH4 remained higher than the level at week 8.
+
+## Quality of life/patient-reported outcomes
+
+In study TRuE-AD4, patients treated with ruxolitinib cream had clinically meaningful improvements in patient-reported symptoms and the impact of atopic dermatitis on health-related quality of life as measured by DLQI, and POEM and on sleep as measured by P ROMIS Sleep-Related Impairment (8a) and Sleep Disturbance (8b), at week 8.
+
+<div style=\"page-break-after: always\"></div>
+
+At week 8, DLQI scores had decreased (mean [STD]) from baseline by 15 (6.4) and 8.4 (7.7) for the ruxolitinib 1.5% cream and vehicle cream BID treatment groups, respectively. The proportion of patients achieving a 4point reduction in DLQI was 97% and 78% for the ruxolitinib 1.5% cream and vehicle cream treatment groups, respectively.
+
+At week 8, POEM scores had decreased (mean [STD]) from baseline by 15 (8.1) and 6.4 (7.5) for the ruxolitinib 1.5% cream and vehicle cream treatment groups, respectively. The proportion of patients achieving POEM 0 to 2 increased to 40% and 8.6% for the ruxolitinib 1.5% cream and vehicle cream treatment groups, respectively.
+
+At week 8, the PROMIS (8a) Sleep-Related Impairment scores and the PROMIS (8b) Sleep Disturbance scores showed numerically larger improvements in the ruxolitinib 1.5% cream group, as compared to the vehicle cream treatment group.
+
+## Paediatric population
+
+## Vitiligo
+
+A total of 72 adolescents (12 to &lt; 18 years; n = 55 ruxolitinib cream, n = 17 vehicle) were included in the pivotal studies. Adolescents showed equal response rates in primary and key secondary endpoints at 24 weeks when treated with ruxolitinib, as compared to adults from 18-65 years of age.
+
+## Atopic dermatitis
+
+A total of 130 adolescents (12 to &lt; 18 years; n = 87 ruxolitinib 1.5% cream; n = 43 vehicle) with mildto-moderate atopic dermatitis were included in a pooled analysis of two Phase 3 studies (TRuE-AD1 and TRuE-AD2). Ruxolitinib 1.5% cream had a higher response rate than vehicle at week 8 for the primary endpoint, EASI75 (61% versus 35%), and the key secondary endpoints, IGA-TS (51% versus 14%) and ITCH4 (52% versus 17%) (see section 4.2).
+
+The safety of ruxolitinib 1.5% cream in 2 Phase 1 paediatric studies (INCB 18424-102 [39 patients aged 2 to &lt; 18 years with mild to severe atopic dermatitis] and INCB 18424-103 [21 patients aged 12 to &lt; 18 years with mild to severe atopic dermatitis]) was consistent with the profile reported in the Phase 3 study TRuE-AD4 in adults with moderate atopic dermatitis.
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with Opzelura in one or more subsets of the paediatric population for the treatment of vitiligo and atopic dermatitis (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
-The pharmacokinetics of ruxolitinib cream were investigated in 429 subjects with vitiligo aged 12 years and older (12.6% were 12-17 years of age) with a mean ± STD BSA involvement of 7.31 ± 2.02% (range 3.2% to 10.0%). Subjects applied approximately 1.58 mg/cm 2 of ruxolitinib cream (dose range was approximately 0.18 grams to 8.4 grams of ruxolitinib cream per application) to the same skin areas twice daily for 24 weeks.
+## Vitiligo
 
-The mean ± STD steady-state trough plasma concentrations was 56.9 ± 62.6 nM with a projected AUC0-12h at 683 ± 751 h*nM, which is approximately 25% of the observed mean AUC0-12h at steady state (2716 h*nM) following 15 mg twice daily oral administration in healthy participants. The mean (geometric mean) topical bioavailability for ruxolitinib cream in vitiligo participants in the pooled data of the two Phase 3 studies was 9.72% (5.78%).
+The pharmacokinetics of ruxolitinib cream were investigated in 429 patients with vitiligo aged 12 years and older (12.6% were 12-17 years of age) with a mean ± STD BSA involvement of 7.31 ± 2.02% (range 3.2% to 10.0%). Patients applied approximately 1.58 mg/cm 2 of ruxolitinib cream (dose range was approximately 0.18 grams to 8.4 grams of ruxolitinib cream per application) to the same skin areas twice daily for 24 weeks.
+
+The mean ± STD (median; geometric mean) steady state trough plasma concentration was 56.9 ± 62.6 nM (35.8 nM; 27.4 nM) with a projected AUC0-12h at 683 ± 751 h*nM, which is approximately 25% of the observed mean AUC0-12h at steady state (2716 h*nM) following 15 mg twice daily oral administration in healthy participants. The mean (geometric mean) topical bioavailability for ruxolitinib cream in vitiligo patients in the pooled data of the two Phase 3 studies was 9.72% (5.78%).
+
+<div style=\"page-break-after: always\"></div>
+
+## Atopic dermatitis
+
+The pharmacokinetics of ruxolitinib cream were investigated in 114 patients with moderate atopic dermatitis aged 18 years and older with a mean ± STD BSA involvement of 15.2 ± 2.99% (range 10.0% to 20%). Patients applied approximately 3.97 grams of ruxolitinib cream (dose range was approximately 0.12 grams to 8.5 grams of ruxolitinib cream per application) to the same skin areas twice daily for 8 weeks.
+
+The mean ± STD (median; geometric mean) steady state trough plasma concentration was 82.3 ± 98.4 nM (49.6 nM; 42.7 nM) with a projected AUC0-12h at 987.6 ± 1181 h*nM, which is approximately 36% of the observed mean AUC0-12h at steady state (2716 h*nM) following 15 mg twice daily oral administration in healthy participants. The mean (geometric mean) topical bioavailability for ruxolitinib cream in atopic dermatitis patients in the Phase 3 study was 8.87% (4.97%).
 
 ## Distribution
 
@@ -285,7 +396,7 @@ Ruxolitinib is metabolised by CYP3A4 and to a lesser extent by CYP2C9.
 
 ## Elimination
 
-The mean elimination half-life of orally administered ruxolitinib is approximately 3 hours. The mean apparent terminal half-life of ruxolitinib following topical application of Opzelura was estimated in 9 adult and adolescent patients with ≥ 25% BSA involvement with atopic dermatitis and is approximately 116 hours, reflecting the slow drug absorption rate rather than the drug elimination rate.
+The mean elimination half-life of orally administered ruxolitinib is approximately 3 hours. The mean ± STD (median; geometric mean) apparent terminal half-life of ruxolitinib following topical application of Opzelura was estimated in 9 adult and adolescent patients with ≥ 25% BSA involvement with atopic dermatitis and is approximately 116 ± 251 (16.4; 32.5) hours, reflecting the slow drug absorption rate rather than the drug elimination rate.
 
 ## Special populations
 
@@ -297,17 +408,21 @@ The estimated AUC which is adjusted for the pharmacological activity of ruxoliti
 
 Although the AUC was increased following oral administration of ruxolitinib to patients with hepatic impairment, there was no clear relationship between the severity of hepatic impairment and the increase in AUC. A dosing advice for patients with hepatic impairment is not necessary.
 
-<div style=\"page-break-after: always\"></div>
+## Paediatric population
+
+Pharmacokinetic data from 2 Phase 1 studies conducted in paediatric patients with atopic dermatitis aged 2 to &lt; 18 years (INCB 18424-102 and INCB 18424-103) were aligned with studies conducted in adults.
 
 ## 5.3 Preclinical safety data
 
-Ruxolitinib has been evaluated in safety pharmacology, repeated dose toxicity, genotoxicity and reproductive toxicity, and carcinogenicity studies following oral administration. Additional studies were conducted following dermal administration in minipigs and mice. Target organs associated with the pharmacological action of ruxolitinib in repeated dose oral studies include bone marrow, peripheral blood and lymphoid tissues. Infections generally associated with immunosuppression were noted in dogs. Margins (based on unbound AUC) at non-adverse levels in chronic toxicity studies were approximately 6- and 200-fold in male and female rats, and 10-fold in dogs, relative to systemic exposure observed in patients with vitiligo that applied 1.5% ruxolitinib cream twice daily. Adverse decreases in blood pressure along with increases in heart rate were noted in a dog telemetry study, and an adverse decrease in minute volume was noted in a respiratory study in rats. The margins (based on unbound Cmax) at the non-adverse level in the dog and rat studies were approximately 300-fold and 100-fold greater, respectively, than systemic exposure observed in patients with vitiligo that applied 1.5% ruxolitinib cream twice daily. No adverse effects were noted in an evaluation of the neuropharmacological effects of ruxolitinib in rats.
+Ruxolitinib has been evaluated in safety pharmacology, repeated dose toxicity, genotoxicity and reproductive toxicity, and carcinogenicity studies following oral administration. Additional studies were conducted following dermal administration in minipigs and mice. Target organs associated with the pharmacological action of ruxolitinib in repeated dose oral studies include bone marrow, peripheral blood and lymphoid tissues. Infections generally associated with immunosuppression were noted in dogs. Margins (based on unbound AUC) at non-adverse levels in chronic toxicity studies were approximately 6- and 200-fold in male and female rats, and 10-fold in dogs, relative to systemic exposure observed in patients with vitiligo and 3.5- and 136-fold in male and female rats, and 7-fold in dogs, relative to systemic exposure observed in patients with moderate atopic dermatitis, that applied 1.5% ruxolitinib cream twice daily. Adverse decreases in blood pressure along with increases in heart rate were noted in a dog telemetry study, and an adverse decrease in minute volume was noted in a respiratory study in rats. The margins (based on unbound Cmax) at the non-adverse level in the dog and rat studies were at least 546-fold, and 362-fold greater, respectively, than systemic exposure observed in patients with vitiligo or moderate atopic dermatitis that applied 1.5% ruxolitinib cream twice daily. No adverse effects were noted in an evaluation of the neuropharmacological effects of ruxolitinib in rats.
 
-A 3-month dermal repeat dose study revealed decreased lymphocyte counts in mice. Margins (based on unbound AUC) at non-adverse levels were approximately 10-fold in male and 24-fold in female mice relative to systemic exposure observed in patients with vitiligo that applied 1.5% ruxolitinib cream twice daily. Non-adverse decreased peripheral lymphocyte counts were also noted in minipigs in a 9-month dermal toxicity study. Margins (based on unbound AUC) at non-adverse levels in minipigs were approximately 3-fold relative to systemic exposure observed in patients with vitiligo that applied 1.5% ruxolitinib cream twice daily. This effect was not observed in a 3-month dermal toxicity study in minipigs. No evidence of systemic toxicity was observed in Gottingen minipigs following topical administration of 1.5% ruxolitinib cream formulation twice daily for up to 9 months.
+<div style=\"page-break-after: always\"></div>
 
-In juvenile rat studies, oral administration of ruxolitinib resulted in effects on growth and bone measures. Reduced bone growth was observed at doses ≥ 5 mg/kg/day when treatment started on postnatal day 7 (comparable to human newborn) and at ≥ 15 mg/kg/day when treatment started on postnatal days 14 or 21 (comparable to human infant, 1-3 years). Fractures and early termination of rats were observed at doses ≥ 30 mg/kg/day when treatment was started on postnatal day 7. Based on unbound AUC, the exposure at the NOAEL (no observed adverse effect level) in juvenile rats treated as early as postnatal day 7 was approximately 20-fold that of adult patients with vitiligo, while reduced bone growth and fractures occurred at exposures that were 22- and 150-fold that of adult patients with vitiligo, respectively. The effects were generally more severe in males and when administration was initiated earlier in the postnatal period. Other than bone development, the effects of ruxolitinib in juvenile rats were similar to those in adult rats. Juvenile rats are more sensitive than adult rats to ruxolitinib toxicity.
+A 3-month dermal repeat dose study revealed decreased lymphocyte counts in mice. Margins (based on unbound AUC) at non-adverse levels were approximately 10-fold in male and 24-fold in female mice relative to systemic exposure observed in patients with vitiligo, and 5.7-fold in male and 15-fold in female mice relative to systemic exposure observed in patients with moderate atopic dermatitis that applied 1.5% ruxolitinib cream twice daily. Non-adverse decreased peripheral lymphocyte counts were also noted in minipigs in a 9-month dermal toxicity study. Margins (based on unbound AUC) at non-adverse levels in minipigs were approximately 3-fold relative to systemic exposure observed in patients with vitiligo and 2-fold relative to systemic exposure observed in patients with moderate atopic dermatitis that applied 1.5% ruxolitinib cream twice daily. This effect was not observed in a 3-month dermal toxicity study in minipigs. No evidence of systemic toxicity was observed in Gottingen minipigs following topical administration of 1.5% ruxolitinib cream formulation twice daily for up to 9 months.
 
-In embryofetal development studies, oral administration of ruxolitinib to rats and rabbits during gestation resulted in decreased foetal weight and increased post-implantation loss at doses associated with maternal toxicity. There was no evidence of a teratogenic effect in rats and rabbits. Margins (based on unbound AUC) at non-adverse levels for developmental toxicity in rats were approximately 25-fold the systemic exposure observed in patients with vitiligo that applied 1.5% ruxolitinib cream twice daily. No effects of oral ruxolitinib were noted on fertility in male or female rats. In a pre- and postnatal development study, a slightly prolonged gestation period, reduced number of implantation sites, and reduced number of pups delivered were observed. In the pups, decreased mean initial body weights and short period of decreased mean body weight gain were observed. In lactating rats, ruxolitinib and/or its metabolites were excreted into the milk with a concentration that was 13-fold higher than the maternal plasma concentration. Ruxolitinib was not mutagenic or clastogenic. Ruxolinitib showed no carcinogenic potential following topical administration in mice or following oral administration in Sprague-Dawley rats and Tg.rasH2 mice.
+In juvenile rat studies, oral administration of ruxolitinib resulted in effects on growth and bone measures. Reduced bone growth was observed at doses ≥ 5 mg/kg/day when treatment started on postnatal day 7 (comparable to human newborn) and at ≥ 15 mg/kg/day when treatment started on postnatal days 14 or 21 (comparable to human infant, 1-3 years). Fractures and early termination of rats were observed at doses ≥ 30 mg/kg/day when treatment was started on postnatal day 7. Based on unbound AUC, the exposure at the NOAEL (no observed adverse effect level) in juvenile rats treated as early as postnatal day 7 was approximately 20-fold that of adult patients with vitiligo, and 14-fold that of patients with moderate atopic dermatitis, while reduced bone growth and fractures occurred at exposures that were 22- and 150-fold that of adult patients with vitiligo, and 14- and 90-fold that of adult patients with moderate atopic dermatitis, respectively. The effects were generally more severe in males and when administration was initiated earlier in the postnatal period. Other than bone development, the effects of ruxolitinib in juvenile rats were similar to those in adult rats. Juvenile rats are more sensitive than adult rats to ruxolitinib toxicity.
+
+In embryofoetal development studies, oral administration of ruxolitinib to rats and rabbits during gestation resulted in decreased foetal weight and increased post-implantation loss at doses associated with maternal toxicity. There was no evidence of a teratogenic effect in rats and rabbits. Margins (based on unbound AUC) at non-adverse levels for developmental toxicity in rats were approximately 25-fold the systemic exposure observed in patients with vitiligo, and 16-fold that in patients with moderate atopic dermatitis that applied 1.5% ruxolitinib cream twice daily. No effects of oral ruxolitinib were noted on fertility in male or female rats. In a pre- and postnatal development study, a slightly prolonged gestation period, reduced number of implantation sites, and reduced number of pups delivered were observed. In the pups, decreased mean initial body weights and short period of decreased mean body weight gain were observed. In lactating rats, ruxolitinib and/or its metabolites were excreted into the milk with a concentration that was 13-fold higher than the maternal plasma concentration. Ruxolitinib was not mutagenic or clastogenic. Ruxolinitib showed no carcinogenic potential following topical administration in mice or following oral administration in Sprague-Dawley rats and Tg.rasH2 mice.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -315,9 +430,9 @@ In embryofetal development studies, oral administration of ruxolitinib to rats a
 
 ## 6.1 List of excipients
 
-Butylated hydroxytoluene (as an antioxidant in paraffin, white soft) (E321) Cetyl alcohol Methyl parahydroxybenzoate (E218)
+Butylated hydroxytoluene (as an antioxidant in paraffin, white soft) (E321) Methyl parahydroxybenzoate (E218)
 
-Dimeticone (E900) Disodium edetate (E385) Self -emulsifying Glyceryl stearate Macrogol Medium chain triglycerides Paraffin (E905), Liquid light Paraffin (E905), White soft Phenoxyethanol Phosphoric acid (E338) Polysorbate 20 (E432) Propylene glycol (E1520) Propyl parahydroxybenzoate Purified water Stearyl alcohol Xanthan gum (E415)
+Cetyl alcohol Dimeticone (E900) Disodium edetate (E385) Self -emulsifying Glyceryl stearate Macrogol Medium chain triglycerides Paraffin (E905), Liquid light Paraffin (E905), White soft Phenoxyethanol Phosphoric acid (E338) Polysorbate 20 (E432) Propylene glycol (E1520) Propyl parahydroxybenzoate Purified water Stearyl alcohol Xanthan gum (E415)
 
 ## 6.2 Incompatibilities
 
@@ -335,7 +450,7 @@ Do not store above 30ºC.
 
 ## 6.5 Nature and contents of container
 
-Laminate tube with an inner lining of low-density and high-density polyethylene with a polypropylene cap, or aluminium tube with internal lacquer coating with a polypropylene (100 g tube) or high-density polyethylene (5 g tube) puncture cap.
+Laminate tube with an inner lining of low -density and high-density polyethylene with a polypropylene cap, or aluminium tube with internal lacquer coating with a polypropylene (100 g tube) or high-density polyethylene (5 g tube) puncture cap.
 
 Tubes of 5 g and 100 g. One tube per carton.
 
@@ -349,7 +464,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Incyte Biosciences Distribution B.V. Paasheuvelweg 25 1105 BP Amsterdam Netherlands
+Incyte Biosciences Distribution B.V. Paasheuvelweg 25 1105 BP Amsterdam
+
+Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -363,7 +480,7 @@ Date of first authorisation: 19 April 2023
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -463,7 +580,9 @@ Do not store above 30 ºC.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Incyte Biosciences Distribution B.V. Paasheuvelweg 25 1105 BP Amsterdam Netherlands
+Incyte Biosciences Distribution B.V. Paasheuvelweg 25 1105 BP Amsterdam
+
+Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -589,7 +708,9 @@ Outer carton (aluminium tube) (5 g)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Opzelura 15 mg/g cream ruxolitinib
+Opzelura 15 mg/g cream
+
+ruxolitinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -629,7 +750,9 @@ Do not store above 30 ºC.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Incyte Biosciences Distribution B.V. Paasheuvelweg 25 1105 BP Amsterdam Netherlands
+Incyte Biosciences Distribution B.V. Paasheuvelweg 25 1105 BP Amsterdam
+
+Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -649,11 +772,11 @@ Lot
 
 Opzelura
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
@@ -717,8 +840,8 @@ Do not store above 30 ºC.
 
 Incyte Biosciences Distribution B.V. (as Incyte logo)
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/23/1726/001 1 tube (100 g)
 
@@ -741,6 +864,8 @@ Lot
 
 | 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
 |-------|-------------------------------------------|
+
+28
 
 <div style=\"page-break-after: always\"></div>
 
@@ -788,7 +913,13 @@ Do not store above 30 ºC.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10.
+
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
 
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
@@ -805,7 +936,9 @@ EU/1/23/1726/002 1 tube (100 g)
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+14.
+
+GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -815,41 +948,35 @@ Lot
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-<div style=\"page-break-after: always\"></div>
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| TUBE (printed tube or label, aluminium tube) (5 g)                 |
+TUBE (printed tube or label, aluminium tube) (5 g)
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Opzelura 15 mg/g cream ruxolitinib Cutaneous use
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+## 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 5 g
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 Incyte Biosciences Distribution B.V. (as Incyte logo)
 
 EU/1/23/1726/003
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -885,6 +1012,8 @@ Opzelura contains the active substance ruxolitinib. It belongs to a group of med
 
 Opzelura is used on the skin to treat vitiligo with facial involvement in adults and adolescents from 12 years. Vitiligo is an autoimmune disease, where the body's immune system attacks the cells that produce the skin pigment melanin. This causes a loss of melanin, leading to patches of pale pink or white skin. In vitiligo, ruxolitinib reduces the immune system's activity against the melanin-producing cells, allowing the skin to produce pigment and regain its normal colour.
 
+Opzelura is used on the skin to treat moderate atopic dermatitis, also known as atopic eczema, in adult patients who are inadequately controlled with, or for whom topical corticosteroids and calcineurin inhibitors are inappropriate. Ruxolitinib decreases the inflammation which plays a major role in causing the symptoms of atopic dermatitis. By lowering the inflammation, ruxolitinib can improve your atopic dermatitis, reducing the area of the skin impacted and decreasing the related itching, rash and redness.
+
 ## 2. What you need to know before you use Opzelura
 
 ## Do not use Opzelura
@@ -898,15 +1027,18 @@ Talk to your doctor or pharmacist before using Opzelura.
 
 Opzelura is not for use on the lips, in the eyes, mouth or vagina. If cream accidentally gets into these areas, thoroughly wipe off and/or rinse off the cream with water.
 
-## Children under 12 years
+<div style=\"page-break-after: always\"></div>
 
-Do not give Opzelura to children younger than 12 years because it has not been studied in this age group.
+Talk to your doctor or pharmacist before and during treatment with Opzelura if you have ever had a herpes infection (shingles) because Opzelura may allow it to come back. Tell your doctor if you get a painful skin rash with blisters as this can be a sign of shingles.
+
+## Children
+
+- -Do not give Opzelura to children with vitiligo below the age of 12 years, because it has not been studied in this age group.
+- -Do not give Opzelura to children with moderate atopic dermatitis below the age of 18 years because its safety and efficacy have not been established in this age group.
 
 ## Other medicines and Opzelura
 
 Tell your doctor or pharmacist if you are using, have recently used or might use any other medicines.
-
-<div style=\"page-break-after: always\"></div>
 
 Using Opzelura at the same time as other medicines on the affected skin is not recommended, as it has not been studied.
 
@@ -934,10 +1066,14 @@ Opzelura is unlikely to have an effect on your ability to drive and use machines
 
 Always use this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
+## Using Opzelura in vitiligo
+
 ## Recommended dose
 
 - -Apply a thin layer of cream twice daily to affected areas of your skin. Wait at least 8 hours between applications.
 - -The cream should not be used on more than 10% (one tenth) of your body. This surface area represents the equivalent to ten times the palm of one hand with the five fingers.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Method of administration
 
@@ -946,8 +1082,6 @@ Always use this medicine exactly as your doctor or pharmacist has told you. Chec
 - -Wash your hands after applying this medicine, unless you are treating your hands. If someone applies this medicine to you, they should wash their hands after application.
 - -Avoid washing treated skin for at least 2 hours after application of Opzelura.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Duration of use
 
 Your doctor will decide how long you should use the cream for.
@@ -955,6 +1089,28 @@ Your doctor will decide how long you should use the cream for.
 A minimum duration of 6 months is recommended but satisfactory treatment may require over 12 months. If you achieve satisfactory repigmentation of treated areas, consult your doctor to discuss if treatment of those areas could be stopped. Consult your doctor if you experience loss of repigmentation after stopping treatment.
 
 Do not use more than two 100 gram tubes a month.
+
+Using Opzelura in atopic dermatitis
+
+## Recommended dose
+
+- -Apply a thin layer of cream twice daily to affected areas of your skin. Wait at least 8 hours between applications.
+- -The cream should not be used on more than 20% (one fifth) of your body.
+
+## Method of administration
+
+- -This medicine is for use on the skin only.
+- -Do not apply to skin surfaces other than the ones instructed by your doctor. The medicine should be used at the smallest skin area necessary.
+- -Wash your hands after applying this medicine, unless you are treating your hands. If someone applies this medicine to you, they should wash their hands after application.
+- -Avoid washing treated skin for at least 2 hours after application of Opzelura.
+
+## Duration of use
+
+Your doctor will decide how long you should use the cream for.
+
+Use every day until lesions of atopic dermatitis have cleared. If your lesions of atopic dermatitis have not cleared after 8 weeks of continuous treatment, consult your doctor.
+
+For the first 8 weeks, do not use more than four 100 gram tubes a month. As the extent of the lesions decreases with treatment, the number of tubes required should decrease accordingly.
 
 ## If you use more Opzelura than you should
 
@@ -966,6 +1122,8 @@ If you forget to apply the cream at the scheduled time, do it as soon as you rem
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
@@ -975,6 +1133,11 @@ The following side effects have been reported with Opzelura:
 Common (may affect up to 1 in 10 people)
 
 - -acne at application site
+
+Uncommon (may affect up to 1 in 100 people)
+
+- -
+- shingles (herpes zoster): symptoms can include a painful skin rash with blisters
 
 ## Reporting of side effects
 
@@ -997,11 +1160,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Opzelura contains
 
 - -The active substance is ruxolitinib. One gram of cream contains 15 mg of ruxolitinib.
-- -The other ingredients are butylated hydroxytoluene (E321), cetyl alcohol, dimeticone (E900), disodium edetate (E385), glyceryl stearate, paraffin (E905), macrogol, medium chain
-
-<div style=\"page-break-after: always\"></div>
-
-triglycerides, methyl parahydroxybenzoate (E218), phenoxyethanol, phosphoric acid (E338), polysorbate 20 (E432), propylene glycol (E1520), propyl parahydroxybenzoate, purified water, stearyl alcohol, xanthan gum (E415).
+- -The other ingredients are butylated hydroxytoluene (E321), cetyl alcohol, dimeticone (E900), disodium edetate (E385), glyceryl stearate, paraffin (E905), macrogol, medium chain triglycerides, methyl parahydroxybenzoate (E218), phenoxyethanol, phosphoric acid (E338), polysorbate 20 (E432), propylene glycol (E1520), propyl parahydroxybenzoate, purified water, stearyl alcohol, xanthan gum (E415).
 
 See section 2 'Opzelura contains propylene glycol, cetyl alcohol, stearyl alcohol, methyl parahydroxybenzoate, propyl parahydroxybenzoate, butylated hydroxytoluene and polysorbate 20'.
 
@@ -1013,6 +1172,8 @@ Opzelura cream is coloured white to off-white, supplied in tubes containing 5 g 
 
 Incyte Biosciences Distribution B.V. Paasheuvelweg 25 1105 BP Amsterdam Netherlands
 
+<div style=\"page-break-after: always\"></div>
+
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu

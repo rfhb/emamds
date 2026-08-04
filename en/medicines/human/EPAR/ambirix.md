@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 14:33:34
+document_datetime: 2026-08-03 16:36:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ambirix.html
 document_name: ambirix.html
 version: success
-processing_time: 0.110202
-conversion_datetime: 2025-12-29 20:33:48.014156
+processing_time: 0.1336207
+conversion_datetime: 2026-08-04 13:54:27.994927
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.118.0
+  docling-core: 2.90.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Ambirix
 
 [RSS](/en/individual-human-medicine.xml/66009)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-hepatitis A (inactivated) and hepatitis B (rDNA) (HAB) vaccine (adsorbed) Medicine Human Authorised
+hepatitis A (inactivated) and hepatitis B (rDNA) (HAB) vaccine (adsorbed)
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -51,11 +51,11 @@ Expand section
 
 Collapse section
 
-## What is Ambirix?
+### What is Ambirix?
 
 Ambirix is a vaccine that contains inactivated (killed) hepatitis-A virus and parts of the hepatitis-B virus as active substances. It is available as a suspension for injection.
 
-## What is Ambirix used for?
+### What is Ambirix used for?
 
 Ambirix is used to protect against hepatitis A and hepatitis B (diseases that affect the liver) in children between one and 15 years of age who are not already immune to these two diseases.
 
@@ -63,13 +63,13 @@ Ambirix is used as a two-dose schedule and protection against hepatitis B may no
 
 The medicine can only be obtained with a prescription.
 
-## How is Ambirix used?
+### How is Ambirix used?
 
 Ambirix is given as two injections six to 12 months apart into the muscle of the upper arm, or into the thigh in very young children. Individuals who receive the first injection should complete the course with Ambirix.
 
 Where a booster dose of hepatitis A or B is desired, Ambirix, or a separate hepatitis-A or -B vaccine may be given.
 
-## How does Ambirix work?
+### How does Ambirix work?
 
 Ambirix is a vaccine. Vaccines work by 'teaching' the immune system (the body's natural defences) how to defend itself against a disease. Ambirix contains small amounts of inactivated hepatitis-A viruses and the 'surface antigen' (proteins from the surface) of the hepatitis B virus. When a child is given the vaccine, the immune system recognises the viruses and surface antigens as 'foreign' and makes antibodies against them., The immune system will then be able to make antibodies more quickly when exposed to the viruses again. The antibodies will help to protect against the diseases caused by these viruses.
 
@@ -77,7 +77,7 @@ The vaccine is 'adsorbed'. This means that the viruses and surface antigens are 
 
 The active substances in Ambirix have been available in other vaccines authorised in the European Union (EU): Ambirix contains the same ingredients as Twinrix Adult, which has been authorised since 1996, and as Twinrix Paediatric, which has been authorised since 1997. The three vaccines are used to protect against the same diseases, but Twinrix Adult and Twinrix Paediatric are given as a three-dose schedule.
 
-## How has Ambirix been studied?
+### How has Ambirix been studied?
 
 Because Ambirix and Twinrix Adult contain identical ingredients, some of the data used to support the use of Twinrix Adult were used to support the use of Ambirix.
 
@@ -85,13 +85,13 @@ Three main studies of Ambirix were carried out in a total of 615 children from o
 
 An additional study in 208 children compared the vaccine's effectiveness when a six-month or a 12-month interval was used between the two injections.
 
-## What benefit has Ambirix shown during the studies?
+### What benefit has Ambirix shown during the studies?
 
 Ambirix led to the development of protective levels of antibodies against hepatitis A and B in between 98 and 100% of the vaccinated children one month after the last injection. These levels were maintained in over 93% of the children after two years. Ambirix was as effective as other vaccines against hepatitis A and B once the full vaccination course had been completed. However, full protection against hepatitis B did not develop until the second dose of Ambirix had been given.
 
 The additional study showed that the levels of protection with Ambirix were similar with a six- and a 12-month gap between injections.
 
-## What is the risk associated with Ambirix?
+### What is the risk associated with Ambirix?
 
 The most common side effects with Ambirix (seen in more than one in 10 doses of the vaccine) are loss of appetite, irritability, headache, fatigue (tiredness) and pain and redness at the site of injection. For the full list of all side effects reported with Ambirix, see the package leaflet.
 
@@ -99,11 +99,11 @@ Ambirix should not be used in people who may be hypersensitive (allergic) to any
 
 Vaccination with Ambirix should be postponed in patients with a severe sudden fever. The vaccine should never be injected into a vein.
 
-## Why has Ambirix been approved?
+### Why has Ambirix been approved?
 
 The CHMP decided that Ambirix's benefits are greater than its risks and recommended that it be given marketing authorisation.
 
-## Other information about Ambirix
+### Other information about Ambirix
 
 The European Commission granted a marketing authorisation valid throughout the EU for Ambirix to GlaxoSmithKline Biologicals s.a. on 30 August 2002. After five years, the marketing authorisation was renewed for a further five years.
 
@@ -113,263 +113,135 @@ Ambirix : EPAR - Summary for the public
 
 English (EN) (56.16 KB - PDF)
 
-**First published:** 15/04/2008
-
-**Last updated:** 17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/en/documents/overview/ambirix-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-903)
+[Other languages (21)](#file-language-dropdown-257)
 
 български (BG) (99.24 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/bg/documents/overview/ambirix-epar-summary-public_bg.pdf)
 
 español (ES) (117.67 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/es/documents/overview/ambirix-epar-summary-public_es.pdf)
 
 čeština (CS) (147.64 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/cs/documents/overview/ambirix-epar-summary-public_cs.pdf)
 
 dansk (DA) (117.83 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/da/documents/overview/ambirix-epar-summary-public_da.pdf)
 
 Deutsch (DE) (58.47 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/de/documents/overview/ambirix-epar-summary-public_de.pdf)
 
-eesti keel (ET) (120.01 KB - PDF)
+eesti (ET) (120.01 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/et/documents/overview/ambirix-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (102.97 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/el/documents/overview/ambirix-epar-summary-public_el.pdf)
 
 français (FR) (120.67 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/fr/documents/overview/ambirix-epar-summary-public_fr.pdf)
 
 italiano (IT) (121.3 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/it/documents/overview/ambirix-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (88.26 KB - PDF)
+latviešu (LV) (88.26 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/lv/documents/overview/ambirix-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (145.23 KB - PDF)
+lietuvių (LT) (145.23 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/lt/documents/overview/ambirix-epar-summary-public_lt.pdf)
 
 magyar (HU) (83.18 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/hu/documents/overview/ambirix-epar-summary-public_hu.pdf)
 
 Malti (MT) (85.88 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/mt/documents/overview/ambirix-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (57.29 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/nl/documents/overview/ambirix-epar-summary-public_nl.pdf)
 
 polski (PL) (149.22 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/pl/documents/overview/ambirix-epar-summary-public_pl.pdf)
 
 português (PT) (76.9 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/pt/documents/overview/ambirix-epar-summary-public_pt.pdf)
 
 română (RO) (84.45 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/ro/documents/overview/ambirix-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (146.97 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/sk/documents/overview/ambirix-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (142.29 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/sl/documents/overview/ambirix-epar-summary-public_sl.pdf)
 
-Suomi (FI) (56.42 KB - PDF)
+suomi (FI) (56.42 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/fi/documents/overview/ambirix-epar-summary-public_fi.pdf)
 
 svenska (SV) (117.33 KB - PDF)
 
-**First published:**
-
-15/04/2008
-
-**Last updated:**
-
-17/01/2011
+**First published:** 15/04/2008 **Last updated:** 17/01/2011
 
 [View](/sv/documents/overview/ambirix-epar-summary-public_sv.pdf)
 
@@ -377,311 +249,168 @@ svenska (SV) (117.33 KB - PDF)
 
 Ambirix : EPAR - Product Information
 
-English (EN) (456.26 KB - PDF)
+English (EN) (340.86 KB - PDF)
 
-**First published:** 24/09/2007
-
-**Last updated:** 08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/en/documents/product-information/ambirix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-595)
+[Other languages (24)](#file-language-dropdown-752)
 
-български (BG) (494.37 KB - PDF)
+български (BG) (402.3 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/bg/documents/product-information/ambirix-epar-product-information_bg.pdf)
 
-español (ES) (409.35 KB - PDF)
+español (ES) (406.2 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/es/documents/product-information/ambirix-epar-product-information_es.pdf)
 
-čeština (CS) (419.67 KB - PDF)
+čeština (CS) (365.11 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/cs/documents/product-information/ambirix-epar-product-information_cs.pdf)
 
-dansk (DA) (368.73 KB - PDF)
+dansk (DA) (335.45 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/da/documents/product-information/ambirix-epar-product-information_da.pdf)
 
-Deutsch (DE) (376.88 KB - PDF)
+Deutsch (DE) (339.46 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/de/documents/product-information/ambirix-epar-product-information_de.pdf)
 
-eesti keel (ET) (383.3 KB - PDF)
+eesti (ET) (354.57 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/et/documents/product-information/ambirix-epar-product-information_et.pdf)
 
-ελληνικά (EL) (471.11 KB - PDF)
+ελληνικά (EL) (433 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/el/documents/product-information/ambirix-epar-product-information_el.pdf)
 
-français (FR) (452.71 KB - PDF)
+français (FR) (398.82 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/fr/documents/product-information/ambirix-epar-product-information_fr.pdf)
 
-hrvatski (HR) (553.76 KB - PDF)
+hrvatski (HR) (415.2 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/hr/documents/product-information/ambirix-epar-product-information_hr.pdf)
 
-íslenska (IS) (356.13 KB - PDF)
+italiano (IT) (367.9 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
-
-[View](/is/documents/product-information/ambirix-epar-product-information_is.pdf)
-
-italiano (IT) (377.93 KB - PDF)
-
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/it/documents/product-information/ambirix-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (415.02 KB - PDF)
+latviešu (LV) (352.3 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/lv/documents/product-information/ambirix-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (447.05 KB - PDF)
+lietuvių (LT) (445.34 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/lt/documents/product-information/ambirix-epar-product-information_lt.pdf)
 
-magyar (HU) (437.38 KB - PDF)
+magyar (HU) (354.46 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/hu/documents/product-information/ambirix-epar-product-information_hu.pdf)
 
-Malti (MT) (466.91 KB - PDF)
+Malti (MT) (421.46 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/mt/documents/product-information/ambirix-epar-product-information_mt.pdf)
 
-Nederlands (NL) (409.23 KB - PDF)
+Nederlands (NL) (357.02 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/nl/documents/product-information/ambirix-epar-product-information_nl.pdf)
 
-norsk (NO) (448.67 KB - PDF)
+polski (PL) (353.71 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
-
-[View](/no/documents/product-information/ambirix-epar-product-information_no.pdf)
-
-polski (PL) (442.25 KB - PDF)
-
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/pl/documents/product-information/ambirix-epar-product-information_pl.pdf)
 
-português (PT) (383.01 KB - PDF)
+português (PT) (335.53 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/pt/documents/product-information/ambirix-epar-product-information_pt.pdf)
 
-română (RO) (487.32 KB - PDF)
+română (RO) (439.08 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/ro/documents/product-information/ambirix-epar-product-information_ro.pdf)
 
-slovenčina (SK) (427.17 KB - PDF)
+slovenčina (SK) (355.05 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/sk/documents/product-information/ambirix-epar-product-information_sk.pdf)
 
-slovenščina (SL) (438.95 KB - PDF)
+slovenščina (SL) (347.64 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/sl/documents/product-information/ambirix-epar-product-information_sl.pdf)
 
-Suomi (FI) (375.1 KB - PDF)
+suomi (FI) (330.41 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/fi/documents/product-information/ambirix-epar-product-information_fi.pdf)
 
-svenska (SV) (390.66 KB - PDF)
+svenska (SV) (346.02 KB - PDF)
 
-**First published:**
-
-24/09/2007
-
-**Last updated:**
-
-08/02/2024
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
 
 [View](/sv/documents/product-information/ambirix-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** WS2594/G 01/02/2024
+Íslenska (IS) (340.7 KB - PDF)
+
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
+
+[View](/is/documents/product-information/ambirix-epar-product-information_is.pdf)
+
+norsk (NO) (327.42 KB - PDF)
+
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
+
+[View](/no/documents/product-information/ambirix-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** N/0000363545
+
+29/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -695,316 +424,171 @@ Ambirix : EPAR - All Authorised presentations
 
 English (EN) (20.09 KB - PDF)
 
-**First published:** 23/11/2005
-
-**Last updated:** 24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/en/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-471)
+[Other languages (24)](#file-language-dropdown-492)
 
 български (BG) (43.6 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/bg/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (17.78 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/es/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (38.94 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/cs/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (17.4 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/da/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (16.77 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/de/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (18.55 KB - PDF)
+eesti (ET) (18.55 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/et/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (41.29 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/el/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (20 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/fr/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (31 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/hr/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (20.27 KB - PDF)
-
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
-
-[View](/is/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (19.61 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/it/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (41.47 KB - PDF)
+latviešu (LV) (41.47 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/lv/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (41.17 KB - PDF)
+lietuvių (LT) (41.17 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/lt/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (34.26 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/hu/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (38.96 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/mt/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (20.37 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/nl/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (20.47 KB - PDF)
-
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
-
-[View](/no/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (40.9 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/pl/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (18.6 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/pt/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (38.75 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/ro/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (36.57 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/sk/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (32.99 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/sl/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (20.1 KB - PDF)
+suomi (FI) (20.1 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/fi/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (17.41 KB - PDF)
 
-**First published:**
-
-23/11/2005
-
-**Last updated:**
-
-24/04/2014
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
 
 [View](/sv/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (20.27 KB - PDF)
+
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
+
+[View](/is/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (20.47 KB - PDF)
+
+**First published:** 23/11/2005 **Last updated:** 24/04/2014
+
+[View](/no/documents/all-authorised-presentations/ambirix-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Ambirix Active substance
-
-- hepatitis A virus (inactivated)
-- hepatitis B surface antigen
-
-International non-proprietary name (INN) or common name hepatitis A (inactivated) and hepatitis B (rDNA) (HAB) vaccine (adsorbed) Therapeutic area (MeSH)
-
-- Hepatitis B
-- Hepatitis A
-- Immunization
-
-Anatomical therapeutic chemical (ATC) code J07BC20
+- **Name of medicine**
+    - Ambirix
+- **Active substance**
+        - hepatitis A virus (inactivated)
+        - hepatitis B surface antigen
+- **International non-proprietary name (INN) or common name**
+    - hepatitis A (inactivated) and hepatitis B (rDNA) (HAB) vaccine (adsorbed)
+- **Therapeutic area (MeSH)**
+        - Hepatitis B
+        - Hepatitis A
+        - Immunization
+- **Anatomical therapeutic chemical (ATC) code**
+    - J07BC20
 
 ### Pharmacotherapeutic group
 
@@ -1023,13 +607,14 @@ Therefore:
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000426 Marketing authorisation holder
-
-GlaxoSmithKline Biologicals S.A.
-
-Rue de l'Institut, 89
-
-Marketing authorisation issued 30/08/2002 Revision 18
+- **EMA product number**
+    - EMEA/H/C/000426
+- **Marketing authorisation holder**
+    - GlaxoSmithKline Biologicals S.A. Rue de l'Institut, 89  B-1330 Rixensart  Belgium
+- **Marketing authorisation issued**
+    - 30/08/2002
+- **Revision**
+    - 19
 
 ## Assessment history
 
@@ -1037,29 +622,31 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Ambirix : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (378.96 KB - PDF)
+English (EN) (159.74 KB - PDF)
 
-**First published:** 24/09/2007
-
-**Last updated:** 08/02/2024
+**First published:** 03/08/2026
 
 [View](/en/documents/procedural-steps-after/ambirix-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
+Ambirix : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (378.96 KB - PDF)
+
+**First published:** 24/09/2007 **Last updated:** 03/08/2026
+
+[View](/en/documents/procedural-steps-after/ambirix-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
 Ambirix-H-C-426-P45-21 : EPAR - Assessment Report
 
-Adopted
-
-Reference Number: EMA/154466/2013
+Adopted Reference Number: EMA/154466/2013
 
 English (EN) (725.73 KB - PDF)
 
-**First published:** 19/03/2013
-
-**Last updated:** 19/03/2013
+**First published:** 19/03/2013 **Last updated:** 19/03/2013
 
 [View](/en/documents/variation-report/ambirix-h-c-426-p45-21-epar-assessment-report_en.pdf)
 
@@ -1067,21 +654,17 @@ Ambirix : EPAR - Steps taken after authorisation when a cutoff date has been use
 
 English (EN) (95.17 KB - PDF)
 
-**First published:** 23/11/2005
-
-**Last updated:** 23/11/2005
+**First published:** 23/11/2005 **Last updated:** 23/11/2005
 
 [View](/en/documents/steps-after-cutoff/ambirix-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Ambirix : EPAR - Procedural steps taken before authorisation
 
 English (EN) (81.91 KB - PDF)
 
-**First published:** 23/11/2005
-
-**Last updated:** 23/11/2005
+**First published:** 23/11/2005 **Last updated:** 23/11/2005
 
 [View](/en/documents/procedural-steps/ambirix-epar-procedural-steps-taken-authorisation_en.pdf)
 
@@ -1089,19 +672,17 @@ Ambirix : EPAR - Scientific Discussion
 
 English (EN) (174.22 KB - PDF)
 
-**First published:** 23/11/2005
-
-**Last updated:** 23/11/2005
+**First published:** 23/11/2005 **Last updated:** 23/11/2005
 
 [View](/en/documents/scientific-discussion/ambirix-epar-scientific-discussion_en.pdf)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Vaccines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A76)
 
-**This page was last updated on** 08/02/2024
+**This page was last updated on**
+
+03/08/2026
 
 ## Share this page
-
-[Back to top](#main-content)

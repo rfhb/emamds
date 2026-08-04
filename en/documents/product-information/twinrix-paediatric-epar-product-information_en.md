@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-02-07 10:34:46
+document_datetime: 2026-08-03 14:51:22
 document_pages: 25
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/twinrix-paediatric-epar-product-information_en.pdf
 document_name: twinrix-paediatric-epar-product-information_en.pdf
 version: success
-processing_time: 4.9680749
-conversion_datetime: 2025-12-23 02:26:05.561194
+processing_time: 4.837014
+conversion_datetime: 2026-08-04 13:59:04.481182
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.118.0
+  docling-core: 2.90.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,9 +30,9 @@ Twinrix Paediatric, suspension for injection in pre-filled syringe Hepatitis A (
 
 1 dose (0.5 ml) contains:
 
-| Hepatitis A virus (inactivated) 1,2 3,4                                   | 360 ELISA Units 10 micrograms   |
+| Hepatitis A virus (inactivated) 1,2                                       | 360 ELISA Units 10 micrograms   |
 |---------------------------------------------------------------------------|---------------------------------|
-| Hepatitis B surface antigen                                               |                                 |
+| Hepatitis B surface antigen 3,4                                           |                                 |
 | 1 Produced on human diploid (MRC-5) cells                                 |                                 |
 | 2 Adsorbed on aluminium hydroxide, hydrated                               | 0.025 milligrams Al 3+          |
 | 3 Produced in yeast cells ( Saccharomyces cerevisiae ) by recombinant DNA | technology                      |
@@ -66,11 +66,9 @@ The standard primary course of vaccination with Twinrix Paediatric consists of t
 
 ## - Booster dose
 
-In situations where a booster dose of hepatitis A and/or hepatitis B is desired, a monovalent or combined vaccine can be given. The safety and immunogenicity of Twinrix Paediatric administered as a booster
+In situations where a booster dose of hepatitis A and/or hepatitis B is desired, a monovalent or combined vaccine can be given. The safety and immunogenicity of Twinrix Paediatric administered as a booster dose following a three-dose primary course have not been evaluated.
 
 <div style=\"page-break-after: always\"></div>
-
-dose following a three-dose primary course have not been evaluated.
 
 Long-term antibody persistence data following vaccination with Twinrix Paediatric are available up to 15 years after vaccination (see section 5.1).
 
@@ -80,7 +78,7 @@ The anti-HBs and anti-HAV antibody titres observed following a primary vaccinati
 
 The need for a booster dose of hepatitis B vaccine in healthy individuals who have received a full primary vaccination course has not been established; however some official vaccination programmes currently include a recommendation for a booster dose of hepatitis B vaccine and these should be respected.
 
-For some categories of subjects or patients exposed to HBV (e.g. haemodialysis or immunocompromised patients) a precautionary attitude should be considered to ensure a protective antibody level ≥ 10IU/l.
+For some categories of subjects or patients exposed to HBV (e.g. haemodialysis or immunocompromised patients) a precautionary attitude should be considered to ensure a protective antibody level  10IU/l.
 
 ## Hepatitis A
 
@@ -106,11 +104,9 @@ The administration of Twinrix Paediatric should be postponed in subjects sufferi
 
 Syncope (fainting) can occur following, or even before, any vaccination especially in adolescents as a psychogenic response to the needle injection. This can be accompanied by several neurological signs such as transient visual disturbance, paraesthesia and tonic-clonic limb movements during recovery. It is important that procedures are in place to avoid injury from faints.
 
-It is possible that subjects may be in the incubation period of a HA or HB infection at the time of
+It is possible that subjects may be in the incubation period of a HA or HB infection at the time of vaccination. It is not known whether Twinrix Paediatric will prevent HA and HB in such cases.
 
 <div style=\"page-break-after: always\"></div>
-
-vaccination. It is not known whether Twinrix Paediatric will prevent HA and HB in such cases.
 
 The vaccine will not prevent infection caused by other agents such as hepatitis C and hepatitis E and other pathogens known to infect the liver.
 
@@ -124,7 +120,7 @@ Since intradermal injection or intramuscular administration into the gluteal mus
 
 Twinrix Paediatric should under no circumstances be administered intravascularly.
 
-This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## Traceability
 
@@ -134,7 +130,7 @@ In order to improve the traceability of biological medicinal products, the name 
 
 No data on concomitant administration of Twinrix Paediatric with specific hepatitis A immunoglobulin or hepatitis B immunoglobulin have been generated.  However, when the monovalent hepatitis A and hepatitis B vaccines were administered concomitantly with specific immunoglobulins, no influence on seroconversion was observed although it may result in lower antibody titres.
 
-Twinrix Paediatric can be given concomitantly with Human Papillomavirus (HPV) vaccine. Administration of Twinrix Paediatric at the same time as Cervarix (HPV vaccine) has shown no clinically relevant interference in the antibody response to the HPV and hepatitis A antigens. AntiHBs geometric mean antibody concentrations were lower on co-administration, but the clinical significance of this observation is not known since the seroprotection rates remain unaffected. The proportion of subjects reaching anti-HBs ≥ 10 mIU/ml was 98.3% for concomitant vaccination and 100% for Twinrix alone.
+Twinrix Paediatric can be given concomitantly with Human Papillomavirus (HPV) vaccine. Administration of Twinrix Paediatric at the same time as Cervarix (HPV vaccine) has shown no clinically relevant interference in the antibody response to the HPV and hepatitis A antigens. AntiHBs geometric mean antibody concentrations were lower on co-administration, but the clinical significance of this observation is not known since the seroprotection rates remain unaffected. The proportion of subjects reaching anti-HBs  10 mIU/ml was 98.3% for concomitant vaccination and 100% for Twinrix alone.
 
 Only the concomitant administration of Twinrix Paediatric with Cervarix has been specifically studied. It is advised that vaccines other than Cervarix should not be administered at the same time as Twinrix Paediatric.
 
@@ -170,19 +166,19 @@ Frequencies are reported as:
 
 Very common:
 
-≥ 1/10
+ 1/10
 
 Common:
 
-≥ 1/100 to &lt; 1/10
+ 1/100 to &lt; 1/10
 
 Uncommon:
 
-≥ 1/1,000 to &lt; 1/100
+ 1/1,000 to &lt; 1/100
 
 Rare:
 
-≥ 1/10,000 to &lt; 1/1,000
+ 1/10,000 to &lt; 1/1,000
 
 Very rare:
 
@@ -208,25 +204,23 @@ Very rare:
 
 <div style=\"page-break-after: always\"></div>
 
-| site conditions                                                                                                                                                                               | Common                                                                                                                                                                                        | Swelling at the injection site, injection site reaction (such as bruising), fatigue, malaise, fever ( ≥ 37.5°C)                                                                               |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                               | Rare                                                                                                                                                                                          | Influenza like illness*, chills*                                                                                                                                                              |
-| Post-marketing surveillance                                                                                                                                                                   |                                                                                                                                                                                               |                                                                                                                                                                                               |
-| The following adverse reactions have been reported with either Twinrix or with GlaxoSmithKline monovalent hepatitis A or B vaccines:                                                          | The following adverse reactions have been reported with either Twinrix or with GlaxoSmithKline monovalent hepatitis A or B vaccines:                                                          | The following adverse reactions have been reported with either Twinrix or with GlaxoSmithKline monovalent hepatitis A or B vaccines:                                                          |
-| Infections and infestations                                                                                                                                                                   | Meningitis                                                                                                                                                                                    | Meningitis                                                                                                                                                                                    |
-| Blood and lymphatic system disorders                                                                                                                                                          | Thrombocytopenia, thrombocytopenic purpura                                                                                                                                                    | Thrombocytopenia, thrombocytopenic purpura                                                                                                                                                    |
-| Immune system disorders                                                                                                                                                                       | Anaphylaxis, allergic reactions including anaphylactoid reactions and mimicking serum sickness                                                                                                | Anaphylaxis, allergic reactions including anaphylactoid reactions and mimicking serum sickness                                                                                                |
-| Nervous system disorders                                                                                                                                                                      | Encephalitis, encephalopathy, neuritis, neuropathy, paralysis, convulsions                                                                                                                    | Encephalitis, encephalopathy, neuritis, neuropathy, paralysis, convulsions                                                                                                                    |
-| Vascular disorders                                                                                                                                                                            | Vasculitis                                                                                                                                                                                    | Vasculitis                                                                                                                                                                                    |
-| Skin and subcutaneous tissue disorders                                                                                                                                                        | Angioneurotic oedema, lichen planus, erythema multiforme                                                                                                                                      | Angioneurotic oedema, lichen planus, erythema multiforme                                                                                                                                      |
-| Musculoskeletal and connective tissue disorders                                                                                                                                               | Arthritis, muscular weakness                                                                                                                                                                  | Arthritis, muscular weakness                                                                                                                                                                  |
-| General disorders and administration site conditions                                                                                                                                          | Immediate injection site pain                                                                                                                                                                 | Immediate injection site pain                                                                                                                                                                 |
-| Following widespread use of the monovalent hepatitisA and/or hepatitis B vaccines, the following undesirable events have additionally been reported in temporal association with vaccination: | Following widespread use of the monovalent hepatitisA and/or hepatitis B vaccines, the following undesirable events have additionally been reported in temporal association with vaccination: | Following widespread use of the monovalent hepatitisA and/or hepatitis B vaccines, the following undesirable events have additionally been reported in temporal association with vaccination: |
-| Nervous system disorders                                                                                                                                                                      | Multiple sclerosis, myelitis, facial palsy, polyneuritis such as Guillain-Barré syndrome (with ascending paralysis), optic neuritis                                                           | Multiple sclerosis, myelitis, facial palsy, polyneuritis such as Guillain-Barré syndrome (with ascending paralysis), optic neuritis                                                           |
-| General disorders and administration site conditions                                                                                                                                          | Stinging and burning sensation                                                                                                                                                                | Stinging and burning sensation                                                                                                                                                                |
-| Investigations                                                                                                                                                                                | Abnormal liver function tests                                                                                                                                                                 | Abnormal liver function tests                                                                                                                                                                 |
-
-* refers to adverse reactions observed in clinical trials performed with the adult formulation
+| site conditions                                                                                                                                                                                | Common                                                                                                                                                                                         | Swelling at the injection site, injection site reaction (such as bruising), fatigue, malaise, fever (  37.5°C)                                                                                |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                                | Rare                                                                                                                                                                                           | Influenza like illness*, chills*                                                                                                                                                               |
+| Post-marketing surveillance                                                                                                                                                                    |                                                                                                                                                                                                |                                                                                                                                                                                                |
+| The following adverse reactions have been reported with either Twinrix or with GlaxoSmithKline monovalent hepatitis A or B vaccines:                                                           | The following adverse reactions have been reported with either Twinrix or with GlaxoSmithKline monovalent hepatitis A or B vaccines:                                                           | The following adverse reactions have been reported with either Twinrix or with GlaxoSmithKline monovalent hepatitis A or B vaccines:                                                           |
+| Infections and infestations                                                                                                                                                                    | Meningitis                                                                                                                                                                                     | Meningitis                                                                                                                                                                                     |
+| Blood and lymphatic system disorders                                                                                                                                                           | Thrombocytopenia, thrombocytopenic purpura                                                                                                                                                     | Thrombocytopenia, thrombocytopenic purpura                                                                                                                                                     |
+| Immune system disorders                                                                                                                                                                        | Anaphylaxis, allergic reactions including anaphylactoid reactions and mimicking serum sickness                                                                                                 | Anaphylaxis, allergic reactions including anaphylactoid reactions and mimicking serum sickness                                                                                                 |
+| Nervous system disorders                                                                                                                                                                       | Encephalitis, encephalopathy, neuritis, neuropathy, paralysis, convulsions                                                                                                                     | Encephalitis, encephalopathy, neuritis, neuropathy, paralysis, convulsions                                                                                                                     |
+| Vascular disorders                                                                                                                                                                             | Vasculitis                                                                                                                                                                                     | Vasculitis                                                                                                                                                                                     |
+| Skin and subcutaneous tissue disorders                                                                                                                                                         | Angioneurotic oedema, lichen planus, erythema multiforme                                                                                                                                       | Angioneurotic oedema, lichen planus, erythema multiforme                                                                                                                                       |
+| Musculoskeletal and connective tissue disorders                                                                                                                                                | Arthritis, muscular weakness                                                                                                                                                                   | Arthritis, muscular weakness                                                                                                                                                                   |
+| General disorders and administration site conditions                                                                                                                                           | Immediate injection site pain                                                                                                                                                                  | Immediate injection site pain                                                                                                                                                                  |
+| Following widespread use of the monovalent hepatitis A and/or hepatitis B vaccines, the following undesirable events have additionally been reported in temporal association with vaccination: | Following widespread use of the monovalent hepatitis A and/or hepatitis B vaccines, the following undesirable events have additionally been reported in temporal association with vaccination: | Following widespread use of the monovalent hepatitis A and/or hepatitis B vaccines, the following undesirable events have additionally been reported in temporal association with vaccination: |
+| Nervous system disorders                                                                                                                                                                       | Multiple sclerosis, myelitis, facial palsy, polyneuritis such as Guillain-Barré syndrome (with ascending paralysis), optic neuritis                                                            | Multiple sclerosis, myelitis, facial palsy, polyneuritis such as Guillain-Barré syndrome (with ascending paralysis), optic neuritis                                                            |
+| General disorders and administration site conditions                                                                                                                                           | Stinging and burning sensation                                                                                                                                                                 | Stinging and burning sensation                                                                                                                                                                 |
+| Investigations                                                                                                                                                                                 | Abnormal liver function tests                                                                                                                                                                  | Abnormal liver function tests                                                                                                                                                                  |
 
 ## Reporting of suspected adverse reactions
 
@@ -254,7 +248,7 @@ Protection against hepatitis A and hepatitis B develops within 2-4 weeks.  In th
 
 In two long-term clinical trials, persistence of anti-HAV and anti-HBs antibodies has been demonstrated up to 5 years in children aged 1-11 years and up to 15 years in children aged 12-15 years. At 5 years following initiation of a 0, 1, 6 month schedule of Twinrix Paediatric in children aged 1-11 years all subjects followed up retained ≥15 mIU/ml anti -HAV antibody and 97% had anti-HBs antibody ≥10 mIU/ml.
 
-At 15 years following the initiation of a 0, 1, 6 month schedule of Twinrix Paediatric in children aged 12-15 years, all subjects foll owed up retained ≥15 mIU/ml anti -HAV antibody and 81.8% had anti-HBs antibody ≥10 mIU/ml. A challenge dose of a HBV vaccine was given to a limited number of subjects (n=11) whose anti-HBs antibody concentrations had decreased to &lt;10 mIU/ml and 10 of the 11 subjects (90.9%) mounted an anamnestic response.
+At 15 years following the initiation of a 0, 1, 6 month schedule of Twinrix Paediatric in children aged 1215 years, all subjects followed up retained ≥15 mIU/ml anti -HAV antibody and 81.8% had anti-HBs antibody ≥10 mIU/ml. A challenge dose of a HBV vaccine was given to a limited number of subjects (n=11) whose anti-HBs antibody concentrations had decreased to &lt;10 mIU/ml and 10 of the 11 subjects (90.9%) mounted an anamnestic response.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -314,7 +308,7 @@ The vaccine should be re-suspended following the steps below.
 2. Shake the syringe by tipping it upside down and back again.
 3. Repeat this action vigorously for at least 15 seconds.
 4. Inspect the vaccine again:
-- a. If the vaccine appears as a uniform hazy white suspension, it is ready to use - the appearance should not be clear.
+- a. If the vaccine appears as a uniform hazy white suspension, it is ready to use -the appearance should not be clear.
 - b. If the vaccine still does not appear as a uniform hazy white suspension - tip upside down and back again for at least another 15 seconds - then inspect again.
 
 The vaccine should be inspected visually for any foreign particulate matter and/or abnormal physical appearance prior to administration. In the event of either being observed, do not administer the vaccine.
@@ -428,7 +422,7 @@ Not applicable.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Twinrix Paediatric - Suspension for injection in pre-filled syringe
+Twinrix Paediatric -Suspension for injection in pre-filled syringe
 
 Hepatitis A (inactivated) and hepatitis B (rDNA) (HAB) vaccine (adsorbed)
 
@@ -530,7 +524,7 @@ Do not freeze
 
 Store in the original package in order to protect from light
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -544,13 +538,15 @@ B-1330 Rixensart, Belgium
 
 EU/1/97/029/001
 
-- [ ] -pack
+-
 
-EU/1/97/029/002 - pack of 10 without needle
+pack
 
-EU/1/97/029/008 - pack of 50 without needle
+EU/1/97/029/002 -pack of 10 without needle
 
-EU/1/97/029/006 - pack of 1 with 1 needle of
+EU/1/97/029/008 -pack of 50 without needle
+
+EU/1/97/029/006 -pack of 1 with 1 needle of
 
 1
 
@@ -559,10 +555,8 @@ without needle
 <div style=\"page-break-after: always\"></div>
 
 ```
-EU/1/97/029/007 - pack of 10 with 10 needles EU/1/97/029/009 - pack of 1 with 2 needles
+EU/1/97/029/007 -pack of 10 with 10 needles EU/1/97/029/009 -pack of 1 with 2 needles EU/1/97/029/010 -pack of 10 with 20 needles
 ```
-
-EU/1/97/029/010 - pack of 10 with 20 needles
 
 ## 13. BATCH NUMBER
 
@@ -576,11 +570,11 @@ LOT:
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 PC SN NN
 
@@ -693,7 +687,7 @@ It is not known if Twinrix Paediatric passes into breast milk, however the vacci
 
 Please tell your doctor if you have had an allergic reaction to neomycin (antibiotic).
 
-This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## 3. How Twinrix Paediatric is given
 
@@ -755,11 +749,9 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton.  The expiry date refers to
+Do not use this medicine after the expiry date which is stated on the carton.  The expiry date refers to the last day of that month.
 
 <div style=\"page-break-after: always\"></div>
-
-the last day of that month.
 
 Store in a refrigerator (2°C - 8°C). Store in the original package in order to protect from light. Do not freeze.  Freezing destroys the vaccine.
 
@@ -773,11 +765,9 @@ Do not throw away any medicines via wastewater or household waste.  Ask your pha
 
 Hepatitis A virus (inactivated) 1,2
 
-360 ELISA Units
+360 ELISA Units 10 micrograms
 
 Hepatitis B surface antigen 3,4
-
-10 micrograms
 
 1 Produced on human diploid (MRC-5) cells
 
@@ -805,23 +795,19 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-GlaxoSmithKline Biologicals s.a.
-
-Rue de l'Institut 89 B-1330 Rixensart Belgium
+GlaxoSmithKline Biologicals s.a. Rue de l'Institut 89 B-1330 Rixensart Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-GlaxoSmithKline Pharmaceuticals SA/NV
-
-Tél/Tel: + 32 10 85 52 00
+GlaxoSmithKline Pharmaceuticals s.a./n.v. Tél/Tel: + 32 (0)10 85 52 00
 
 Lietuva
 
 GlaxoSmithKline Biologicals SA
 
-Tel. +370 80000334
+Tel: +370 80000334
 
 ## България
 
@@ -833,33 +819,21 @@ GlaxoSmithKline Biologicals SA
 
 Luxembourg/Luxemburg
 
-GlaxoSmithKline Pharmaceuticals SA/NV
-
-Tél/Tel: + 32 10 85 52 00
-
-## Česká republika
-
-GlaxoSmithKline s.r.o.
-
-Tel: + 420 2 22 00 11 11
-
-## Magyarország
-
-GlaxoSmithKline Biologicals SA
-
-Tel.: +36 80088309
+GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien Tél/Tel: + 32 (0)10 85 52 00
 
 <div style=\"page-break-after: always\"></div>
 
-cz.info@gsk.com
+## Česká republika
+
+GlaxoSmithKline s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
 
 ## Danmark
 
-GlaxoSmithKline Pharma A/S Tlf: + 45 36 35 91 00 dk-info@gsk.com
+GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
 
 ## Deutschland
 
-GlaxoSmithKline GmbH &amp; Co. KG Tel: + 49 (0)89 360448701 produkt.info@gsk.com
+GlaxoSmithKline GmbH &amp; Co. KG Tel: +49 (0)89 36044 8701 produkt.info@gsk.com
 
 ## Eesti
 
@@ -879,7 +853,7 @@ Laboratoire GlaxoSmithKline Tél: + 33 (0) 1 39 17 84 44 diam@gsk.com
 
 ## Hrvatska
 
-GlaxoSmithKline Biologicals SA Tel.: +385 800787089
+GlaxoSmithKline Biologicals SA Tel: +385 800787089
 
 ## Ireland
 
@@ -887,7 +861,7 @@ GlaxoSmithKline (Ireland) Ltd Tel: + 353 (0)1 495 5000
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor ehf. Sími: +354 535 7000
 
 ## Italia
 
@@ -897,9 +871,9 @@ GlaxoSmithKline S.p.A. Tel: + 39 (0)45 7741 111
 
 GlaxoSmithKline Biologicals SA Τηλ: +357 80070017
 
-## Latvija
+## Magyarország
 
-GlaxoSmithKline Biologicals SA Tel: +371 80205045
+GlaxoSmithKline Biologicals SA Tel.: +36 80088309
 
 ## Malta
 
@@ -911,9 +885,7 @@ GlaxoSmithKline BV Tel: + 31 (0)33 2081100
 
 ## Norge
 
-GlaxoSmithKline AS
-
-Tlf: + 47 22 70 20 00
+GlaxoSmithKline AS Tlf: + 47 22 70 20 00
 
 ## Österreich
 
@@ -921,7 +893,9 @@ GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
 
 ## Polska
 
-GSK Services Sp. z o.o. Tel.: + 48 (22) 576 9000
+GSK Services Sp. z o.o.
+
+Tel.: + 48 (22) 576 9000
 
 ## Portugal
 
@@ -937,7 +911,7 @@ GlaxoSmithKline Biologicals SA Tel: +386 80688869
 
 ## Slovenská republika
 
-GlaxoSmithKline Biologicals SA Tel.: +421 800500589
+GlaxoSmithKline Biologicals SA Tel: +421 800500589
 
 ## Suomi/Finland
 
@@ -947,19 +921,19 @@ GlaxoSmithKline Oy Puh/Tel: + 358 10 30 30 30
 
 GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
 
-## United Kingdom (Northern Ireland )
+<div style=\"page-break-after: always\"></div>
+
+## Latvija
 
 GlaxoSmithKline Biologicals SA
 
-Tel: +44(0)800 221441 customercontactuk@gsk.com
-
-<div style=\"page-break-after: always\"></div>
+Tel: +371 80205045
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -977,7 +951,7 @@ The vaccine should be re-suspended following the steps below.
 2. Shake the syringe by tipping it upside down and back again.
 3. Repeat this action vigorously for at least 15 seconds.
 4. Inspect the vaccine again:
-- a. If the vaccine appears as a uniform hazy white suspension, it is ready to use - the appearance should not be clear.
+- a. If the vaccine appears as a uniform hazy white suspension, it is ready to use -the appearance should not be clear.
 - b. If the vaccine still does not appear as a uniform hazy white suspension - tip upside down and back again for at least another 15 seconds - then inspect again.
 
 The vaccine should be inspected visually for any foreign particulate matter and/or abnormal physical appearance prior to administration. In the event of either being observed, do not administer the vaccine.

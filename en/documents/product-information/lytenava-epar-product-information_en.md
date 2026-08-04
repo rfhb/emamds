@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-29 13:41:41
+document_datetime: 2026-08-03 16:35:44
 document_pages: 27
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lytenava-epar-product-information_en.pdf
 document_name: lytenava-epar-product-information_en.pdf
 version: success
-processing_time: 7.2102387
-conversion_datetime: 2026-07-04 14:53:19.566857
+processing_time: 5.9794385
+conversion_datetime: 2026-08-04 13:59:46.443691
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.118.0
+  docling-core: 2.90.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -215,12 +215,12 @@ Adverse reactions are listed according to the MedDRA system organ class. Within 
 
 Table 1 Frequencies of adverse reactions
 
-| System organ class          | Common                                              | Uncommon                                                                                                                                                                                                                                                         |
-|-----------------------------|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations |                                                     | Endophthalmitis                                                                                                                                                                                                                                                  |
-| Immune system disorders     |                                                     | Iodine allergy                                                                                                                                                                                                                                                   |
-| Eye disorders               | Vitreous floaters Eye pain Conjunctival haemorrhage | Retinal pigment epithelial tear, Vitreous haemorrhage, Iritis, Corneal scar, Keratopathy, Punctate keratitis, Blindness transient, Vitreous detachment, Photopsia, Ocular discomfort, Corneal abrasion, Eye irritation, Eye pruritus, Dry eye, Ocular hyperaemia |
-| Investigations              | Intraocular pressure increased                      |                                                                                                                                                                                                                                                                  |
+| System organ class          | Common                                              | Uncommon                                                                                                                                                                                                                                                                           |
+|-----------------------------|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations |                                                     | Endophthalmitis                                                                                                                                                                                                                                                                    |
+| Immune system disorders     |                                                     | Iodine allergy                                                                                                                                                                                                                                                                     |
+| Eye disorders               | Vitreous floaters Eye pain Conjunctival haemorrhage | Retinal pigment epithelial tear, Vitreous haemorrhage, intraocular inflammation, Corneal scar, Keratopathy, Punctate keratitis, Blindness transient, Vitreous detachment, Photopsia, Ocular discomfort, Corneal abrasion, Eye irritation, Eye pruritus, Dry eye, Ocular hyperaemia |
+| Investigations              | Intraocular pressure increased                      |                                                                                                                                                                                                                                                                                    |
 
 ## Description of selected adverse reactions
 
@@ -346,7 +346,9 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 Store in a refrigerator (2 °C - 8 °C).
 
-Do not freeze. Keep the vial in the outer carton in order to protect from light. The unopened vial may be stored outside the refrigerator below 25 °C for up to 12 hours.
+Do not freeze. Keep the vial in the outer carton in order to protect from light.
+
+The unopened vial may be stored outside the refrigerator below 25 °C for up to 12 hours.
 
 ## 6.5 Nature and contents of container
 
@@ -360,7 +362,7 @@ The solution should be inspected visually upon removal from the refrigerator and
 
 The content of the vial is sterile and for single use only. Do not use if the packaging or vial are damaged or expired.
 
-The vial contains more than the recommended dose of 1.25 mg. Injecting the entire volume of the vial could result in overdose. The excess medicinal product and any air bubbles should be carefully expelled from the syringe prior to injection. The injection dose must be set to the 0.05 mL dose mark (1.25 mg bevaiczumab gamma). Ensure that the injection is given immediately after preparation of the dose.
+The vial contains more than the recommended dose of 1.25 mg. Injecting the entire volume of the vial could result in overdose. The excess medicinal product and any air bubbles should be carefully expelled from the syringe prior to injection. The injection dose must be set to the 0.05 mL dose mark (1.25 mg bevacizumab gamma). Ensure that the injection is given immediately after preparation of the dose.
 
 Use aseptic technique to carry out the following preparation steps:
 
@@ -487,7 +489,7 @@ bevacizumab gamma
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-One mL contains 25 mg of bevaziumab gamma. Each vial contains 7.5 mg bevacizumab gamma in 0.3 mL solution.
+One mL contains 25 mg of bevacizumab gamma. Each vial contains 7.5 mg bevacizumab gamma in 0.3 mL solution.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -817,7 +819,7 @@ The solution should be inspected visually upon removal from the refrigerator and
 
 The content of the vial is sterile and for single use only. Do not use if the packaging or vial are damaged or expired.
 
-The vial contains more than the recommended dose of 1.25 mg. Injecting the entire volume of the vial could result in overdose. The excess medicinal product and any air bubbles should be carefully expelled from the syringe prior to injection. The injection dose must be set to the 0.05 mL dose mark (1.25 mg bevaiczumab gamma).
+The vial contains more than the recommended dose of 1.25 mg. Injecting the entire volume of the vial could result in overdose. The excess medicinal product and any air bubbles should be carefully expelled from the syringe prior to injection. The injection dose must be set to the 0.05 mL dose mark (1.25 mg bevacizumab gamma).
 
 ## Traceability
 

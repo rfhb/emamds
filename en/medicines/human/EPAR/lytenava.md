@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-29 16:25:00
+document_datetime: 2026-08-03 16:56:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lytenava.html
 document_name: lytenava.html
 version: success
-processing_time: 0.1289941
-conversion_datetime: 2026-07-04 13:05:47.025745
+processing_time: 0.1159713
+conversion_datetime: 2026-08-04 13:53:57.02209
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.118.0
+  docling-core: 2.90.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Lytenava
 
@@ -109,7 +109,7 @@ English (EN) (114.12 KB - PDF)
 
 [View](/en/documents/overview/lytenava-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-392)
+[Other languages (22)](#file-language-dropdown-497)
 
 български (BG) (146.87 KB - PDF)
 
@@ -255,161 +255,161 @@ English (EN) (1.13 MB - PDF)
 
 Lytenava : EPAR - Product information
 
-English (EN) (414.22 KB - PDF)
+English (EN) (413.93 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/en/documents/product-information/lytenava-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-85)
+[Other languages (24)](#file-language-dropdown-736)
 
-български (BG) (518.27 KB - PDF)
+български (BG) (462.91 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/bg/documents/product-information/lytenava-epar-product-information_bg.pdf)
 
-español (ES) (454.32 KB - PDF)
+español (ES) (421.61 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/es/documents/product-information/lytenava-epar-product-information_es.pdf)
 
-čeština (CS) (506.01 KB - PDF)
+čeština (CS) (450.96 KB - PDF)
 
 **First published:** 31/05/2024 **Last updated:** 29/06/2026
 
 [View](/cs/documents/product-information/lytenava-epar-product-information_cs.pdf)
 
-dansk (DA) (452.08 KB - PDF)
+dansk (DA) (420.81 KB - PDF)
 
 **First published:** 31/05/2024 **Last updated:** 29/06/2026
 
 [View](/da/documents/product-information/lytenava-epar-product-information_da.pdf)
 
-Deutsch (DE) (445.58 KB - PDF)
+Deutsch (DE) (413.3 KB - PDF)
 
 **First published:** 31/05/2024 **Last updated:** 29/06/2026
 
 [View](/de/documents/product-information/lytenava-epar-product-information_de.pdf)
 
-eesti (ET) (428.01 KB - PDF)
+eesti (ET) (421.32 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/et/documents/product-information/lytenava-epar-product-information_et.pdf)
 
-ελληνικά (EL) (488.91 KB - PDF)
+ελληνικά (EL) (457.75 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/el/documents/product-information/lytenava-epar-product-information_el.pdf)
 
-français (FR) (511.52 KB - PDF)
+français (FR) (454.64 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/fr/documents/product-information/lytenava-epar-product-information_fr.pdf)
 
-hrvatski (HR) (476.27 KB - PDF)
+hrvatski (HR) (444.08 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/hr/documents/product-information/lytenava-epar-product-information_hr.pdf)
 
-italiano (IT) (463.7 KB - PDF)
+italiano (IT) (432.26 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/it/documents/product-information/lytenava-epar-product-information_it.pdf)
 
-latviešu (LV) (509.37 KB - PDF)
+latviešu (LV) (453.13 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/lv/documents/product-information/lytenava-epar-product-information_lv.pdf)
 
-lietuvių (LT) (473.15 KB - PDF)
+lietuvių (LT) (442.43 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/lt/documents/product-information/lytenava-epar-product-information_lt.pdf)
 
-magyar (HU) (479.02 KB - PDF)
+magyar (HU) (446.36 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/hu/documents/product-information/lytenava-epar-product-information_hu.pdf)
 
-Malti (MT) (506.54 KB - PDF)
+Malti (MT) (474.29 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/mt/documents/product-information/lytenava-epar-product-information_mt.pdf)
 
-Nederlands (NL) (473.26 KB - PDF)
+Nederlands (NL) (441.35 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/nl/documents/product-information/lytenava-epar-product-information_nl.pdf)
 
-polski (PL) (491.39 KB - PDF)
+polski (PL) (434.99 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/pl/documents/product-information/lytenava-epar-product-information_pl.pdf)
 
-português (PT) (458.01 KB - PDF)
+português (PT) (425.81 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/pt/documents/product-information/lytenava-epar-product-information_pt.pdf)
 
-română (RO) (494.85 KB - PDF)
+română (RO) (438.54 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/ro/documents/product-information/lytenava-epar-product-information_ro.pdf)
 
-slovenčina (SK) (445.16 KB - PDF)
+slovenčina (SK) (438.29 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/sk/documents/product-information/lytenava-epar-product-information_sk.pdf)
 
-slovenščina (SL) (464.75 KB - PDF)
+slovenščina (SL) (432.38 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/sl/documents/product-information/lytenava-epar-product-information_sl.pdf)
 
-suomi (FI) (460.25 KB - PDF)
+suomi (FI) (427.99 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/fi/documents/product-information/lytenava-epar-product-information_fi.pdf)
 
-svenska (SV) (449.29 KB - PDF)
+svenska (SV) (416.98 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/sv/documents/product-information/lytenava-epar-product-information_sv.pdf)
 
-Íslenska (IS) (415.8 KB - PDF)
+Íslenska (IS) (414.93 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/is/documents/product-information/lytenava-epar-product-information_is.pdf)
 
-norsk (NO) (401.86 KB - PDF)
+norsk (NO) (400.83 KB - PDF)
 
-**First published:** 31/05/2024 **Last updated:** 29/06/2026
+**First published:** 31/05/2024 **Last updated:** 03/08/2026
 
 [View](/no/documents/product-information/lytenava-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000350033
+**Latest procedure affecting product information:** VR/0000363217
 
-24/06/2026
+30/07/2026
 
 icon globe
 
@@ -434,7 +434,7 @@ English (EN) (48.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lytenava-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-883)
+[Other languages (22)](#file-language-dropdown-343)
 
 български (BG) (64.45 KB - PDF)
 
@@ -602,7 +602,7 @@ Lytenava is indicated in adults for treatment of neovascular (wet) age-related m
 - **Marketing authorisation issued**
     - 27/05/2024
 - **Revision**
-    - 5
+    - 6
 
 ## Assessment history
 
@@ -614,9 +614,9 @@ Collapse section
 
 Lytenava : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (176.5 KB - PDF)
+English (EN) (167.41 KB - PDF)
 
-**First published:** 09/02/2026 **Last updated:** 29/06/2026
+**First published:** 09/02/2026 **Last updated:** 03/08/2026
 
 [View](/en/documents/procedural-steps-after/lytenava-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -658,6 +658,6 @@ English (EN) (101.03 KB - PDF)
 
 **This page was last updated on**
 
-29/06/2026
+03/08/2026
 
 ## Share this page

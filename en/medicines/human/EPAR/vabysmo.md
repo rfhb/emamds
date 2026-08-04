@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-01-06 11:40:00
+document_datetime: 2026-08-03 17:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vabysmo.html
 document_name: vabysmo.html
 version: success
-processing_time: 0.1266549
-conversion_datetime: 2026-01-10 11:04:56.027943
+processing_time: 0.1403116
+conversion_datetime: 2026-08-04 13:52:58.90807
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.118.0
+  docling-core: 2.90.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Vabysmo
 
 [RSS](/en/individual-human-medicine.xml/67610)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-faricimab Medicine Human Authorised
+faricimab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -60,7 +60,7 @@ Expand section
 
 Collapse section
 
-## How is Vabysmo used?
+### How is Vabysmo used?
 
 Vabysmo can only be obtained with a prescription and must be given by a qualified eye doctor who is experienced in giving injections into the eye.
 
@@ -68,13 +68,13 @@ It is given as an injection into the vitreous humour, the jelly-like fluid insid
 
 For more information about using Vabysmo, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Vabysmo work?
+### How does Vabysmo work?
 
 The active substance in Vabysmo, faricimab, is a monoclonal antibody (a type of protein) that has been designed to recognise and attach to two proteins: vascular endothelial growth factor A (VEGF-A) and angiopoietin-2 (Ang-2).
 
 In patients with wet AMD and diabetic macular oedema, these proteins stimulate the abnormal growth of blood vessels that is associated with fluid and blood leakage, which damages the macula. By attaching to VEGF-A and Ang-2, faricimab blocks the action of these proteins, thereby reducing the growth of the blood vessels and controlling the leakage, swelling and inflammation.
 
-## What benefits of Vabysmo have been shown in studies?
+### What benefits of Vabysmo have been shown in studies?
 
 **AMD**
 
@@ -90,7 +90,7 @@ After a year of treatment, the improvement in the number of letters patients cou
 
 Two main studies involving 1,282 patients with macular oedema caused by RVO showed that Vabysmo was at least as effective as aflibercept at improving their vision. After 24 weeks of treatment (6 doses at 4-week intervals), the average number of letters patients could recognise on a standard eye test improved by 16.9 letters in patients treated with Vabysmo, compared with 17.5 (first study) and 17.3 (second study) in patients given aflibercept. After 24 weeks of treatment, patients continued Vabysmo at 4 to 16-week intervals. In both studies, the effect of Vabysmo was maintained until week 72.
 
-## What are the risks associated with Vabysmo?
+### What are the risks associated with Vabysmo?
 
 For the full list of side effects and restrictions of Vabysmo, see the package leaflet.
 
@@ -100,13 +100,13 @@ The most serious side effects with Vabysmo (which may affect up to 1 in 100 peop
 
 Vabysmo must not be used in patients who may have an infection of the eye or the area around the eye, or who have a severe inflammation within the eye.
 
-## Why is Vabysmo authorised in the EU?
+### Why is Vabysmo authorised in the EU?
 
 Vabysmo was shown to be as effective as the comparator aflibercept at improving the vision of patients with wet AMD and macular oedema caused by diabetes or RVO. Regarding safety, the most common side effects of Vabysmo are similar to those of other products given by intravitreal injection and are considered acceptable.
 
 The European Medicines Agency therefore decided that Vabysmo's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Vabysmo?
+### What measures are being taken to ensure the safe and effective use of Vabysmo?
 
 The company that markets Vabysmo will provide an information pack to patients to help them prepare for treatment, recognise signs and symptoms of serious side effects and know when to seek urgent attention from their doctor.
 
@@ -114,7 +114,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Vabysmo are continuously monitored. Suspected side effects reported with Vabysmo are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Vabysmo
+### Other information about Vabysmo
 
 Vabysmo received a marketing authorisation valid throughout the EU on 15 September 2022.
 
@@ -124,275 +124,141 @@ Reference Number: EMEA/H/C/005642
 
 English (EN) (144.88 KB - PDF)
 
-**First published:** 13/10/2022
-
-**Last updated:** 29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/en/documents/overview/vabysmo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-692)
+[Other languages (22)](#file-language-dropdown-126)
 
 български (BG) (165.37 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/bg/documents/overview/vabysmo-epar-medicine-overview_bg.pdf)
 
 español (ES) (136.88 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/es/documents/overview/vabysmo-epar-medicine-overview_es.pdf)
 
 čeština (CS) (161.98 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/cs/documents/overview/vabysmo-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (137.92 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/da/documents/overview/vabysmo-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (141.15 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/de/documents/overview/vabysmo-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (134.91 KB - PDF)
+eesti (ET) (134.91 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/et/documents/overview/vabysmo-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (167.8 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/el/documents/overview/vabysmo-epar-medicine-overview_el.pdf)
 
 français (FR) (139.82 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/fr/documents/overview/vabysmo-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (159.17 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/hr/documents/overview/vabysmo-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (136.2 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/it/documents/overview/vabysmo-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (169.11 KB - PDF)
+latviešu (LV) (169.11 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/lv/documents/overview/vabysmo-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (160.38 KB - PDF)
+lietuvių (LT) (160.38 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/lt/documents/overview/vabysmo-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (161.11 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/hu/documents/overview/vabysmo-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (164.5 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/mt/documents/overview/vabysmo-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (138.8 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/nl/documents/overview/vabysmo-epar-medicine-overview_nl.pdf)
 
 polski (PL) (166.33 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/pl/documents/overview/vabysmo-epar-medicine-overview_pl.pdf)
 
 português (PT) (137.63 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/pt/documents/overview/vabysmo-epar-medicine-overview_pt.pdf)
 
 română (RO) (158.76 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/ro/documents/overview/vabysmo-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (162.12 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/sk/documents/overview/vabysmo-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (159.77 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/sl/documents/overview/vabysmo-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (134.57 KB - PDF)
+suomi (FI) (134.57 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/fi/documents/overview/vabysmo-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (135.23 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-29/08/2024
+**First published:** 13/10/2022 **Last updated:** 29/08/2024
 
 [View](/sv/documents/overview/vabysmo-epar-medicine-overview_sv.pdf)
 
@@ -400,9 +266,7 @@ Vabysmo : EPAR - Risk management plan
 
 English (EN) (1.42 MB - PDF)
 
-**First published:** 13/10/2022
-
-**Last updated:** 14/07/2025
+**First published:** 13/10/2022 **Last updated:** 14/07/2025
 
 [View](/en/documents/rmp/vabysmo-epar-risk-management-plan_en.pdf)
 
@@ -410,311 +274,168 @@ English (EN) (1.42 MB - PDF)
 
 Vabysmo : EPAR - Product Information
 
-English (EN) (647.85 KB - PDF)
+English (EN) (648.1 KB - PDF)
 
-**First published:** 13/10/2022
-
-**Last updated:** 06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/en/documents/product-information/vabysmo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-475)
+[Other languages (24)](#file-language-dropdown-431)
 
-български (BG) (1.74 MB - PDF)
+български (BG) (1.77 MB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/bg/documents/product-information/vabysmo-epar-product-information_bg.pdf)
 
 español (ES) (1.35 MB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/es/documents/product-information/vabysmo-epar-product-information_es.pdf)
 
-čeština (CS) (1.48 MB - PDF)
+čeština (CS) (1.58 MB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/cs/documents/product-information/vabysmo-epar-product-information_cs.pdf)
 
-dansk (DA) (1.3 MB - PDF)
+dansk (DA) (1.25 MB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/da/documents/product-information/vabysmo-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.94 MB - PDF)
+Deutsch (DE) (1.9 MB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/de/documents/product-information/vabysmo-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.35 MB - PDF)
+eesti (ET) (1.34 MB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/et/documents/product-information/vabysmo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.43 MB - PDF)
+ελληνικά (EL) (1.44 MB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/el/documents/product-information/vabysmo-epar-product-information_el.pdf)
 
-français (FR) (1.25 MB - PDF)
+français (FR) (1.26 MB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/fr/documents/product-information/vabysmo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.49 MB - PDF)
+hrvatski (HR) (1.47 MB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/hr/documents/product-information/vabysmo-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.51 MB - PDF)
+italiano (IT) (638.56 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
-
-[View](/is/documents/product-information/vabysmo-epar-product-information_is.pdf)
-
-italiano (IT) (1.34 MB - PDF)
-
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/it/documents/product-information/vabysmo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.37 MB - PDF)
+latviešu (LV) (1.38 MB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/lv/documents/product-information/vabysmo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.47 MB - PDF)
+lietuvių (LT) (1.47 MB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/lt/documents/product-information/vabysmo-epar-product-information_lt.pdf)
 
-magyar (HU) (688.04 KB - PDF)
+magyar (HU) (690.04 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/hu/documents/product-information/vabysmo-epar-product-information_hu.pdf)
 
-Malti (MT) (1.83 MB - PDF)
+Malti (MT) (1.87 MB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/mt/documents/product-information/vabysmo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.24 MB - PDF)
+Nederlands (NL) (1.25 MB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/nl/documents/product-information/vabysmo-epar-product-information_nl.pdf)
 
-norsk (NO) (1.32 MB - PDF)
+polski (PL) (1.64 MB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
-
-[View](/no/documents/product-information/vabysmo-epar-product-information_no.pdf)
-
-polski (PL) (1.63 MB - PDF)
-
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/pl/documents/product-information/vabysmo-epar-product-information_pl.pdf)
 
 português (PT) (1.5 MB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/pt/documents/product-information/vabysmo-epar-product-information_pt.pdf)
 
-română (RO) (1.42 MB - PDF)
+română (RO) (1.44 MB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/ro/documents/product-information/vabysmo-epar-product-information_ro.pdf)
 
 slovenčina (SK) (1.62 MB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/sk/documents/product-information/vabysmo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.44 MB - PDF)
+slovenščina (SL) (547.14 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/sl/documents/product-information/vabysmo-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.3 MB - PDF)
+suomi (FI) (1.31 MB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/fi/documents/product-information/vabysmo-epar-product-information_fi.pdf)
 
-svenska (SV) (1.38 MB - PDF)
+svenska (SV) (1.27 MB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-06/01/2026
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
 
 [View](/sv/documents/product-information/vabysmo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000288096 11/12/2025
+Íslenska (IS) (1.51 MB - PDF)
+
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
+
+[View](/is/documents/product-information/vabysmo-epar-product-information_is.pdf)
+
+norsk (NO) (1.33 MB - PDF)
+
+**First published:** 13/10/2022 **Last updated:** 03/08/2026
+
+[View](/no/documents/product-information/vabysmo-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000312950
+
+25/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -728,311 +449,170 @@ Vabysmo : EPAR - All Authorised Presentations
 
 English (EN) (12.88 KB - PDF)
 
-**First published:** 13/10/2022
-
-**Last updated:** 05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/en/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-40)
+[Other languages (24)](#file-language-dropdown-31)
 
 български (BG) (37.55 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/bg/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (14.22 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/es/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (36.6 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/cs/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (16.65 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/da/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (13.37 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/de/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (13.49 KB - PDF)
+eesti (ET) (13.49 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/et/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (35.46 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/el/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (13.47 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/fr/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (31.52 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/hr/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (13.11 KB - PDF)
-
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
-
-[View](/is/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (14.73 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/it/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (36.17 KB - PDF)
+latviešu (LV) (36.17 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/lv/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (33.04 KB - PDF)
+lietuvių (LT) (33.04 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/lt/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (31.01 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/hu/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (34.88 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/mt/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (13.1 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/nl/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (13.6 KB - PDF)
-
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
-
-[View](/no/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (59.78 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/pl/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (17.15 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/pt/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (37.23 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/ro/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (33.98 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/sk/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (22.35 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/sl/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (13.43 KB - PDF)
+suomi (FI) (13.43 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/fi/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (18.12 KB - PDF)
 
-**First published:**
-
-13/10/2022
-
-**Last updated:**
-
-05/02/2025
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
 
 [View](/sv/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (13.11 KB - PDF)
+
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
+
+[View](/is/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (13.6 KB - PDF)
+
+**First published:** 13/10/2022 **Last updated:** 05/02/2025
+
+[View](/no/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Vabysmo Active substance Faricimab International non-proprietary name (INN) or common name faricimab Therapeutic area (MeSH)
-
-- Wet Macular Degeneration
-- Macular Edema
-- Diabetes Complications
-
-Anatomical therapeutic chemical (ATC) code S01L
+- **Name of medicine**
+    - Vabysmo
+- **Active substance**
+    - Faricimab
+- **International non-proprietary name (INN) or common name**
+    - faricimab
+- **Therapeutic area (MeSH)**
+        - Wet Macular Degeneration
+        - Macular Edema
+        - Diabetes Complications
+- **Anatomical therapeutic chemical (ATC) code**
+    - S01L
 
 ### Pharmacotherapeutic group
 
@@ -1048,19 +628,18 @@ Vabysmo is indicated for the treatment of adult patients with:
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005642
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Roche Registration GmbH
-
-Emil-Barell-Strasse 1
-
-Opinion adopted 21/07/2022 Marketing authorisation issued 15/09/2022 Revision 8
+- **EMA product number**
+    - EMEA/H/C/005642
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Roche Registration GmbH Emil-Barell-Strasse 1  79639 Grenzach-Wyhlen  Germany
+- **Opinion adopted**
+    - 21/07/2022
+- **Marketing authorisation issued**
+    - 15/09/2022
+- **Revision**
+    - 9
 
 ## Assessment history
 
@@ -1068,23 +647,27 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
+
+Vabysmo : EPAR - Procedural steps taken and scientific information after authorisation (archived)
+
+English (EN) (157.55 KB - PDF)
+
+**First published:** 13/03/2026
+
+[View](/en/documents/procedural-steps-after/vabysmo-epar-procedural-steps-taken-scientific-information-after-authorisation-archived_en.pdf)
 
 Vabysmo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (133.42 KB - PDF)
+English (EN) (157.07 KB - PDF)
 
-**First published:** 19/07/2023
-
-**Last updated:** 06/01/2026
+**First published:** 19/07/2023 **Last updated:** 03/08/2026
 
 [View](/en/documents/procedural-steps-after/vabysmo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Vabysmo-H-C-5642-II-0005 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/333706/2024
+Adopted Reference Number: EMA/333706/2024
 
 English (EN) (12.46 MB - PDF)
 
@@ -1094,9 +677,7 @@ English (EN) (12.46 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Vabysmo (II-05)
 
-Adopted
-
-Reference Number: EMA/CHMP/254404/2024
+Adopted Reference Number: EMA/CHMP/254404/2024
 
 English (EN) (118.83 KB - PDF)
 
@@ -1104,13 +685,11 @@ English (EN) (118.83 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-vabysmo-ii-05_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Vabysmo : EPAR - Public Assessment Report
 
-Adopted
-
-Reference Number: EMA/687844/2022
+Adopted Reference Number: EMA/687844/2022
 
 English (EN) (14.92 MB - PDF)
 
@@ -1120,9 +699,7 @@ English (EN) (14.92 MB - PDF)
 
 CHMP summary of positive opinion for Vabysmo
 
-Adopted
-
-Reference Number: EMA/CHMP/644170/2022
+Adopted Reference Number: EMA/CHMP/644170/2022
 
 English (EN) (127.77 KB - PDF)
 
@@ -1130,21 +707,25 @@ English (EN) (127.77 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-vabysmo_en.pdf)
 
-#### News on Vabysmo
+## News on Vabysmo
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024) 28/06/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 July 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-july-2022) 22/07/2022
+28/06/2024
 
-#### More information on Vabysmo
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 July 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-july-2022)
+
+22/07/2022
+
+## More information on Vabysmo
 
 - [Vabysmo - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/vabysmo)
 - [Vabysmo - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/vabysmo-0)
 - [EMEA-002817-PIP05-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002817-pip05-23)
 - [Incidence of Retinal Vasculitis With or Without Retinal Vascular Occlusion Among Eyes Treated With Approved Anti-Vascular Endothelial Growth Factor Agents in Neovascular Age-Related Macular Degeneration or Diabetic Macular Edema - post-authorisation study](https://catalogues.ema.europa.eu/study/107731)
 
-**This page was last updated on** 06/01/2026
+**This page was last updated on**
+
+03/08/2026
 
 ## Share this page
-
-[Back to top](#main-content)

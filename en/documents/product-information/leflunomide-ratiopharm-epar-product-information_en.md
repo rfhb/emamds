@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-18 10:02:56
+document_datetime: 2026-07-30 11:28:41
 document_pages: 48
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/leflunomide-ratiopharm-epar-product-information_en.pdf
 document_name: leflunomide-ratiopharm-epar-product-information_en.pdf
 version: success
-processing_time: 9.3579135
-conversion_datetime: 2026-01-03 12:15:25.728038
+processing_time: 7.2479116
+conversion_datetime: 2026-08-04 14:00:08.267097
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.118.0
+  docling-core: 2.90.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -146,11 +146,9 @@ Since the active metabolite of leflunomide, A771726, is highly protein bound and
 
 Together with ALT, a complete blood cell count, including differential white blood cell count and platelets, must be performed before start of leflunomide treatment as well as every 2 weeks for the first 6 months of treatment and every 8 weeks thereafter.
 
-In patients with pre-existing anaemia, leucopenia, and/or thrombocytopenia as well as in patients with impaired bone marrow function or those at risk of bone marrow suppression, the risk of
+In patients with pre-existing anaemia, leucopenia, and/or thrombocytopenia as well as in patients with impaired bone marrow function or those at risk of bone marrow suppression, the risk of haematological disorders is increased. If such effects occur, a washout (see below) to reduce plasma levels of A771726 should be considered.
 
 <div style=\"page-break-after: always\"></div>
-
-haematological disorders is increased. If such effects occur, a washout (see below) to reduce plasma levels of A771726 should be considered.
 
 In case of severe haematological reactions, including pancytopenia, Leflunomide ratiopharm and any concomitant myelosuppressive treatment must be discontinued and a leflunomide washout procedure initiated.
 
@@ -172,6 +170,20 @@ In case of ulcerative stomatitis, leflunomide administration should be discontin
 
 Very rare cases of Stevens Johnson syndrome or toxic epidermal necrolysis and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported in patients treated with leflunomide. As soon as skin and/or mucosal reactions are observed which raise the suspicion of such severe reactions, Leflunomide ratiopharm and any other possibly associated treatment must be discontinued, and a leflunomide washout procedure initiated immediately. A complete washout is essential in such cases. In such cases re-exposure to leflunomide is contra-indicated (see section 4.3).
 
+## Haemophagocytic lymphohistiocytosis (HLH) / Macrophage activation syndrome (MAS):
+
+Haemophagocytic lymphohistiocytosis (HLH), including macrophage activation syndrome (MAS), has been reported in patients treated with leflunomide.
+
+Although rare, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) associated with leflunomide may be complicated by HLH or MAS. Cases of HLH/MAS have also been reported independently of DRESS.
+
+HLH/MAS is a serious and potentially life-threatening hyperinflammatory condition. Clinical features may include persistent fever, rash, neurological symptoms, hepatosplenomegaly, lymphadenopathy, cytopenias, markedly elevated serum ferritin, hypertriglyceridaemia, and abnormalities of liver function and coagulation.
+
+<div style=\"page-break-after: always\"></div>
+
+Patients should be informed about the signs and symptoms associated with HLH/MAS and advised to seek medical attention immediately if such symptoms occur during leflunomide treatment.
+
+If patients develop any of these conditions, stop leflunomide treatment and perform an accelerated drug elimination procedure (see section 4.4). Early recognition and prompt management are important to improve outcomes.
+
 Pustular psoriasis and worsening of psoriasis have been reported after the use of leflunomide. Treatment withdrawal may be considered taking into account patient's disease and past history.
 
 Skin ulcers can occur in patients during therapy with leflunomide. If leflunomide-associated skin ulcer is  suspected  or  if  skin  ulcers  persist  despite  appropriate  therapy,  leflunomide  discontinuation  and  a complete washout procedure should be considered. The decision to resume leflunomide following skin ulcers should be based on clinical judgment of adequate wound healing.
@@ -179,8 +191,6 @@ Skin ulcers can occur in patients during therapy with leflunomide. If leflunomid
 Impaired wound-healing after surgery can occur in patients during therapy with leflunomide. Based on an individual assessment, it may be considered to interrupt leflunomide treatment in the peri-surgical period and administer a washout procedure as described below. In case of interruption, the decision to resume leflunomide should be based on clinical judgment of adequate wound healing.
 
 ## Infections
-
-<div style=\"page-break-after: always\"></div>
 
 It is known that medicinal products with immunosuppressive properties - like leflunomide - may cause patients to be more susceptible to infections, including opportunistic infections. Infections may be more severe in nature and may, therefore, require early and vigorous treatment. In the event that severe, uncontrolled infections occur, it may be necessary to interrupt leflunomide treatment and administer a washout procedure as described below.
 
@@ -196,6 +206,8 @@ Interstitial lung disease, as well as rare cases of pulmonary hypertension and p
 
 Cases of peripheral neuropathy have been reported in patients receiving leflunomide. Most patients improved after discontinuation of leflunomide. However there was a wide variability in final outcome, i.e. in some patients the neuropathy resolved and some patients had persistent symptoms. Age older than 60 years, concomitant neurotoxic medications, and diabetes may increase the risk for peripheral neuropathy. If a patient taking leflunomide develops a peripheral neuropathy, consider discontinuing leflunomide therapy and performing the drug elimination procedure (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Colitis
 
 Colitis, including microscopic colitis has been reported in patients treated with leflunomide. In patients on leflunomide treatment presenting unexplained chronic diarrhoea appropriate diagnostic procedures should be performed.
@@ -210,11 +222,7 @@ Male patients should be aware of the possible male-mediated foetal toxicity. Rel
 
 There are no specific data on the risk of male-mediated foetal toxicity. However, animal studies to evaluate this specific risk have not been conducted. To minimise any possible risk, men wishing to father a child should consider discontinuing use of leflunomide and taking colestyramine 8 g 3 times daily for 11 days or 50 g of activated powdered charcoal 4 times daily for 11 days.
 
-In either case the A771726 plasma concentration is then measured for the first time. Thereafter, the A771726 plasma concentration must be determined again after an interval of at least 14 days. If both
-
-<div style=\"page-break-after: always\"></div>
-
-plasma concentrations are below 0.02 mg/L, and after a waiting period of at least 3 months, the risk of foetal toxicity is very low.
+In either case the A771726 plasma concentration is then measured for the first time. Thereafter, the A771726 plasma concentration must be determined again after an interval of at least 14 days. If both plasma concentrations are below 0.02 mg/L, and after a waiting period of at least 3 months, the risk of foetal toxicity is very low.
 
 ## Washout procedure
 
@@ -238,6 +246,8 @@ This medicine contains less than 1 mmol sodium (23 mg) per film-coated tablet, t
 
 Interactions studies have only been performed in adults.
 
+<div style=\"page-break-after: always\"></div>
+
 Increased side effects may occur in case of recent or concomitant use of hepatotoxic or haematotoxic medicinal products or when leflunomide treatment is followed by such medicinal products without a washout period (see also guidance concerning combination with other treatments, section 4.4). Therefore, closer monitoring of liver enzymes and haematological parameters is recommended in the initial phase after switching.
 
 ## Methotrexate
@@ -248,11 +258,7 @@ In patients with rheumatoid arthritis, no pharmacokinetic interaction between th
 
 ## Vaccinations
 
-No clinical data are available on the efficacy and safety of vaccinations under leflunomide treatment. Vaccination with live attenuated vaccines is, however, not recommended. The long half-life of
-
-<div style=\"page-break-after: always\"></div>
-
-leflunomide should be considered when contemplating administration of a live attenuated vaccine after stopping Leflunomide ratiopharm.
+No clinical data are available on the efficacy and safety of vaccinations under leflunomide treatment. Vaccination with live attenuated vaccines is, however, not recommended. The long half-life of leflunomide should be considered when contemplating administration of a live attenuated vaccine after stopping Leflunomide ratiopharm.
 
 ## Warfarin and other coumarine anticoagulants
 
@@ -272,6 +278,8 @@ It is recommended that patients receiving leflunomide are not treated with coles
 
 In vitro inhibition studies in human liver microsomes suggest that cytochrome P450 (CYP) 1A2, 2C19 and 3A4 are involved in leflunomide metabolism. An in vivo interaction study with leflunomide and cimetidine (non-specific weak cytochrome P450 (CYP) inhibitor) has demonstrated a lack of a significant impact on A771726 exposure. Following concomitant administration of a single dose of leflunomide to subjects receiving multiple doses of rifampicin (non-specific cytochrome P450 inducer) A771726 peak levels were increased by approximately 40%, whereas the AUC was not significantly changed. The mechanism of this effect is unclear.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Effect of leflunomide on other medicinal products:
 
 ## Oral contraceptives
@@ -283,8 +291,6 @@ The following pharmacokinetic and pharmacodynamic interaction studies were condu
 ## Effect on repaglinide (CYP2C8 substrate)
 
 There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of A771726, suggesting that A771726 is an inhibitor of CYP2C8 in vivo . Therefore, monitoring patients with concomitant use of medicinal products metabolised by CYP2C8, such as repaglinide, paclitaxel, pioglitazone or rosiglitazone, is recommended as they may have higher exposure.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Effect on caffeine (CYP1A2 substrate)
 
@@ -304,6 +310,8 @@ Effect on oral contraceptive (0.03 mg ethinylestradiol and 0.15 mg levonorgestre
 
 Repeated doses of A771726 had no effect on the pharmacokinetics of S-warfarin, indicating that A771726 is not an inhibitor or an inducer of CYP2C9. However, a 25% decrease in peak international normalised ratio (INR) was observed when A771726 was co-administered with warfarin as compared with warfarin alone. Therefore, when warfarin is co-administered, close INR follow-up and monitoring is recommended.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Pregnancy
@@ -313,8 +321,6 @@ The active metabolite of leflunomide, A771726 is suspected to cause serious birt
 Women of childbearing potential have to use effective contraception during and up to 2 years after treatment (see 'waiting period' below) or up to 11 days after treatment (see abbreviated 'washout period' below).
 
 The patient must be advised that if there is any delay in onset of menses or any other reason to suspect pregnancy, they must notify the physician immediately for pregnancy testing, and if positive, the physician and patient must discuss the risk to the pregnancy. It is possible that rapidly lowering the blood level of the active metabolite, by instituting the drug elimination procedure described below, at the first delay of menses may decrease the risk to the foetus from leflunomide.
-
-<div style=\"page-break-after: always\"></div>
 
 In a small prospective study in women (n=64) who became inadvertently pregnant while taking leflunomide for no more than three weeks after conception and followed by a drug elimination procedure, no significant differences (p=0.13) were observed in the overall rate of major structural defects (5.4%) compared to either of the comparison groups (4.2% in the disease matched group [n=108] and 4.2% in healthy pregnant women [n=78]).
 
@@ -337,6 +343,8 @@ After stopping treatment with leflunomide:
 
 However, also following either of the washout procedures, verification by 2 separate tests at an interval of at least 14 days and a waiting period of one-and-a-half months between the first occurrence of a plasma concentration below 0.02 mg/L and fertilisation is required.
 
+<div style=\"page-break-after: always\"></div>
+
 Women of childbearing potential should be told that a waiting period of 2 years after treatment discontinuation is required before they may become pregnant. If a waiting period of up to approximately 2 years under reliable contraception is considered unpractical, prophylactic institution of a washout procedure may be advisable.
 
 Both colestyramine and activated powdered charcoal may influence the absorption of oestrogens and progestogens such that reliable contraception with oral contraceptives may not be guaranteed during the washout procedure with colestyramine or activated powdered charcoal. Use of alternative contraceptive methods is recommended.
@@ -350,8 +358,6 @@ Animal studies indicate that leflunomide or its metabolites pass into breast mil
 Results of animal fertility studies have shown no effect on male and female fertility, but adverse effects on male reproductive organs were observed in repeated dose toxicity studies (see section 5.3).
 
 ## 4.7 Effects on ability to drive and use machines
-
-<div style=\"page-break-after: always\"></div>
 
 In the case of side effects such as dizziness the patient's ability to concentrate and to react properly may be impaired. In such cases patients should refrain from driving cars and using machines.
 
@@ -367,69 +373,69 @@ Very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-## Infections and infestations
-
-Rare:
+Infections and infestations Rare:
 
 severe infections, including sepsis which may be fatal
 
 Like other agents with immunosuppressive potential, leflunomide may increase susceptibility to infections, including opportunistic infections (see also section 4.4). Thus, the overall incidence of infections can increase (in particular of rhinitis, bronchitis and pneumonia).
 
-Neoplasms benign, malignant and unspecified (incl. cysts and polyps)
+Neoplasms benign, malignant and unspecified (incl. cysts and polyps) The risk of malignancy, particularly lymphoproliferative disorders, is increased with use of some
 
-The risk of malignancy, particularly lymphoproliferative disorders, is increased with use of some immunosuppressive agents.
+immunosuppressive agents.
 
 Blood and lymphatic system disorders
 
 Common:
 
-leucopenia (leucocytes &gt;2 G/L) anaemia, mild thrombocytopenia (platelets &lt;100 G/L) pancytopenia (probably by antiproliferative mechanism), leucopenia (leucocytes &lt;2 G/L), eosinophilia agranulocytosis
+leucopenia (leucocytes &gt;2 G/L) anaemia, mild thrombocytopenia (platelets &lt;100 G/L)
 
 Uncommon:
 
 Rare:
 
+pancytopenia (probably by antiproliferative mechanism), leucopenia (leucocytes &lt;2 G/L), eosinophilia agranulocytosis
+
 Very rare:
+
+<div style=\"page-break-after: always\"></div>
 
 Recent, concomitant or consecutive use of potentially myelotoxic agents may be associated with a higher risk of haematological effects.
 
-Immune system disorders
+## Immune system disorders
 
 Common:
-
-mild allergic reactions
 
 Very rare:
 
+mild allergic reactions
+
 severe anaphylactic/anaphylactoid reactions, vasculitis, including cutaneous necrotizing vasculitis
 
-Metabolism and nutrition disorders
+## Metabolism and nutrition disorders
 
 Common:
 
-CPK increased
-
 Uncommon:
-
-hypokalaemia, hyperlipidemia, hypophosphataemia
 
 Rare:
 
-LDH increased
-
 Not known:
-
-hypouricemia
 
 Psychiatric disorders
 
 Uncommon:
 
+CPK increased
+
+hypokalaemia, hyperlipidemia, hypophosphataemia
+
+LDH increased
+
+hypouricemia
+
 anxiety
 
 Nervous system disorders
-
-<div style=\"page-break-after: always\"></div>
 
 Common:
 
@@ -439,7 +445,11 @@ Common:
 
 Rare:
 
-paraesthesia, headache, dizziness, peripheral neuropathy mild increase in blood pressure severe increase in blood pressure
+paraesthesia, headache, dizziness, peripheral neuropathy
+
+mild increase in blood pressure
+
+severe increase in blood pressure
 
 Respiratory, thoracic and mediastinal disorders
 
@@ -455,9 +465,13 @@ Common:
 
 Uncommon:
 
+colitis including microscopic colitis such as lymphocytic colitis, collagenous colitis, diarrhoea, nausea, vomiting, oral mucosal disorders (e.g., aphthous stomatitis, mouth ulceration), abdominal pain
+
+taste disturbances
+
 Very rare:
 
-colitis including microscopic colitis such as lymphocytic colitis, collagenous colitis, diarrhoea, nausea, vomiting, oral mucosal disorders (e.g., aphthous stomatitis, mouth ulceration), abdominal pain taste disturbances pancreatitis
+pancreatitis
 
 Hepatobiliary disorders
 
@@ -469,7 +483,9 @@ Very rare:
 
 elevation of liver parameters (transaminases [especially ALT], less often gamma-GT, alkaline phosphatase, bilirubin)
 
-hepatitis, jaundice/cholestasis severe liver injury such as hepatic failure and acute hepatic necrosis that may be fatal
+hepatitis, jaundice/cholestasis
+
+severe liver injury such as hepatic failure and acute hepatic necrosis that may be fatal
 
 ## Skin and subcutaneous tissue disorders
 
@@ -483,9 +499,11 @@ urticaria
 
 Very rare:
 
-toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme cutaneous lupus erythematosus, pustular psoriasis or worsening psoriasis, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), skin ulcer
+toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme cutaneous lupus erythematosus, pustular psoriasis or worsening psoriasis, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), skin
 
 Not known:
+
+ulcer
 
 Musculoskeletal and connective tissue disorders
 
@@ -519,11 +537,11 @@ anorexia, weight loss (usually insignificant), asthenia
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.9 Overdose
 
-Symptoms
-
-<div style=\"page-break-after: always\"></div>
+## Symptoms
 
 There have been reports of chronic overdose in patients taking leflunomide at daily doses up to five times the recommended daily dose, and reports of acute overdose in adults and children. There were no adverse events reported in the majority of case reports of overdose. Adverse events consistent with the safety profile for leflunomide were: abdominal pain, nausea, diarrhoea, elevated liver enzymes, anaemia, leucopenia, pruritus and rash.
 
@@ -547,6 +565,8 @@ Leflunomide is a disease-modifying anti-rheumatic agent with antiproliferative p
 
 ## Animal pharmacology
 
+<div style=\"page-break-after: always\"></div>
+
 Leflunomide is effective in animal models of arthritis and of other autoimmune diseases and transplantation, mainly if administered during the sensitisation phase. It has immunomodulating/ immunosuppressive characteristics, acts as an antiproliferative agent, and displays anti-inflammatory properties. Leflunomide exhibits the best protective effects on animal models of autoimmune diseases when administered in the early phase of the disease progression.
 
 In vivo , it is rapidly and almost completely metabolised to A771726 which is active in vitro , and is presumed to be responsible for the therapeutic effect.
@@ -561,11 +581,7 @@ A771726, the active metabolite of leflunomide, inhibits the human enzyme dihydro
 
 The efficacy of leflunomide in the treatment of rheumatoid arthritis was demonstrated in 4 controlled trials (1 in phase II and 3 in phase III). The phase II trial, study YU203, randomised 402 subjects with active rheumatoid arthritis to placebo (n=102), leflunomide 5 mg (n=95), 10 mg (n=101) or 25 mg/day (n=104). The treatment duration was 6 months.
 
-All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days.
-
-<div style=\"page-break-after: always\"></div>
-
-Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months. Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine.
+All leflunomide patients in the phase III trials used an initial dose of 100 mg for 3 days. Study MN301 randomised 358 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=133), sulphasalazine 2 g/day (n=133), or placebo (n=92). Treatment duration was 6 months. Study MN303 was an optional 6-month blinded continuation of MN301 without the placebo arm, resulting in a 12-month comparison of leflunomide and sulphasalazine.
 
 Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=501) or methotrexate at 7.5 mg/week increasing to 15 mg/week (n=498). Folate supplementation was optional and only used in 10% of patients. Treatment duration was 12-months. Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n=182), methotrexate 7.5 mg/week increasing to 15 mg/week (n=182), or placebo (n=118). All patients received folate 1 mg bid. Treatment duration was 12 months.
 
@@ -575,7 +591,11 @@ A randomised, double-blind, parallel-group non-inferiority study compared the re
 
 ## Paediatric population
 
-Leflunomide was studied in a single multicenter, randomized, double-blind, active-controlled trial in 94 patients (47 per arm) with polyarticular course juvenile rheumatoid arthritis. Patients were 317 years of age with active polyarticular course JRA regardless of onset type and naive to methotrexate or leflunomide. In this trial, the loading dose and maintenance dose of leflunomide was based on three weight categories: &lt;20 kg, 20-40 kg, and &gt;40 kg. After 16 weeks treatment, the difference in response rates was statistically significant in favour of methotrexate for the JRA Definition of Improvement (DOI) ≥ 30% (p=0.02). In responders, this response was maintained during 48 weeks. (see section 4.2).
+Leflunomide was studied in a single multicenter, randomized, double-blind, active-controlled trial in 94 patients (47 per arm) with polyarticular course juvenile rheumatoid arthritis. Patients were 3-
+
+<div style=\"page-break-after: always\"></div>
+
+17 years of age with active polyarticular course JRA regardless of onset type and naive to methotrexate or leflunomide. In this trial, the loading dose and maintenance dose of leflunomide was based on three weight categories: &lt;20 kg, 20-40 kg, and &gt;40 kg. After 16 weeks treatment, the difference in response rates was statistically significant in favour of methotrexate for the JRA Definition of Improvement (DOI) ≥ 30% (p=0.02). In responders, this response was maintained during 48 weeks. (see section 4.2).
 
 The pattern of adverse events of leflunomide and methotrexate seems to be similar, but the dose used in lighter subjects resulted in a relatively low exposure (see section 5.2). These data do not allow an effective and safe dose recommendation.
 
@@ -586,8 +606,6 @@ The efficacy of leflunomide was demonstrated in one controlled, randomised, doub
 Leflunomide 20 mg/day was significantly superior to placebo in reducing the symptoms of arthritis in patients with psoriatic arthritis: the PsARC (Psoriatic Arthritis treatment Response Criteria) responders were 59% in the leflunomide group and 29.7% in the placebo group by 6 months (p&lt;0.0001). The effect of leflunomide on improvement of function and on reduction of skin lesions was modest.
 
 ## Postmarketing studies
-
-<div style=\"page-break-after: always\"></div>
 
 A randomised study assessed the clinical efficacy response rate in DMARD-naïve patients (n = 121) with early RA, who received either 20 mg or 100 mg of leflunomide in two parallel groups during the initial three day double blind period. The initial period was followed by an open label maintenance period of three months, during which both groups received leflunomide 20 mg daily. No incremental overall benefit was observed in the studied population with the use of a loading dose regimen. The safety data obtained from both treatment groups were consistent with the known safety profile of leflunomide, however, the incidence of gastrointestinal adverse events and of elevated liver enzymes tended to be higher in the patients receiving the loading dose of 100 mg leflunomide.
 
@@ -601,13 +619,13 @@ Excretion data from the 14 C study indicated that at least about 82 to 95% of th
 
 ## Distribution
 
+<div style=\"page-break-after: always\"></div>
+
 In human plasma, A771726 is extensively bound to protein (albumin). The unbound fraction of A771726 is about 0.62%. Binding of A771726 is linear in the therapeutic concentration range. Binding of A771726 appeared slightly reduced and more variable in plasma from patients with rheumatoid arthritis or chronic renal insufficiency. The extensive protein binding of A771726 could lead to displacement of other highly-bound drugs. In vitro plasma protein binding interaction studies with warfarin at clinically relevant concentrations, however, showed no interaction. Similar studies showed that ibuprofen and diclofenac did not displace A771726, whereas the unbound fraction of A771726 is increased 2- to 3-fold in the presence of tolbutamide. A771726 displaced ibuprofen, diclofenac and tolbutamide but the unbound fraction of these medicinal products is only increased by 10% to 50%. There is no indication that these effects are of clinical relevance. Consistent with extensive protein binding A771726 has a low apparent volume of distribution (approximately 11 litres). There is no preferential uptake in erythrocytes.
 
 ## Biotransformation
 
 Leflunomide is metabolised to one primary (A771726) and many minor metabolites including TFMA (4-trifluoromethylaniline). The metabolic biotransformation of leflunomide to A771726 and subsequent metabolism of A771726 is not controlled by a single enzyme and has been shown to occur in microsomal and cytosolic cellular fractions. Interaction studies with cimetidine (non-specific cytochrome P450 inhibitor) and rifampicin (non-specific cytochrome P450 inducer), indicate that in vivo CYP enzymes are involved in the metabolism of leflunomide only to a small extent.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Elimination
 
@@ -627,6 +645,8 @@ No data are available regarding treatment of patients with hepatic impairment. T
 
 The pharmacokinetics of A771726 following oral administration of leflunomide have been investigated in 73 paediatric patients with polyarticular course Juvenile Rheumatoid Arthritis (JRA) who ranged in age from 3 to 17 years. The results of a population pharmacokinetic analysis of these trials have demonstrated that paediatric patients with body weights ≤ 40 kg have a reduced systemic exposure (measured by Css) of A771726 relative to adult rheumatoid arthritis patients (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elderly
 
 Pharmacokinetic data in elderly (&gt;65 years) are limited but consistent with pharmacokinetics in younger adults.
@@ -634,8 +654,6 @@ Pharmacokinetic data in elderly (&gt;65 years) are limited but consistent with p
 ## 5.3 Preclinical safety data
 
 Leflunomide, administered orally and intraperitoneally, has been studied in acute toxicity studies in mice and rats. Repeated oral administration of leflunomide to mice for up to 3 months, to rats and dogs for up to 6 months and to monkeys for up to 1 month's duration revealed that the major target organs for toxicity were bone marrow, blood, gastrointestinal tract, skin, spleen, thymus and lymph nodes. The main effects were anaemia, leucopenia, decreased platelet counts and panmyelopathy and reflect the basic mode of action of the compound (inhibition of DNA synthesis). In rats and dogs, Heinz bodies and/or Howell-Jolly bodies were found. Other effects found on heart, liver, cornea and respiratory tract could be explained as infections due to immunosuppression. Toxicity in animals was found at doses equivalent to human therapeutic doses.
-
-<div style=\"page-break-after: always\"></div>
 
 Leflunomide was not mutagenic. However, the minor metabolite TFMA (4-trifluoromethylaniline) caused clastogenicity and point mutations in vitro , whilst insufficient information was available on its potential to exert this effect in vivo .
 
@@ -654,6 +672,8 @@ Tablet core Lactose monohydrate Low-substituted hydroxypropyl cellulose Tartaric
 Film-coating Lecithin (soybeans) Poly(vinyl alcohol) Talc Titanium dioxide (E171) Xanthan gum
 
 ## 6.2 Incompatibilities
+
+<div style=\"page-break-after: always\"></div>
 
 Not applicable.
 
@@ -675,8 +695,6 @@ Not all pack sizes may be marketed.
 
 No special requirements for disposal.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
 ratiopharm GmbH Graf-Arco-Straße 3 89079 Ulm Germany
@@ -685,7 +703,9 @@ ratiopharm GmbH Graf-Arco-Straße 3 89079 Ulm Germany
 
 Leflunomide ratiopharm 10 mg film-coated tablets
 
-EU/1/10/654/001 EU/1/10/654/002
+EU/1/10/654/001
+
+EU/1/10/654/002
 
 Leflunomide ratiopharm 20 mg film-coated tablets
 
@@ -750,9 +770,10 @@ An updated RMP should be submitted:
 The Marketing Authorisation Holder (MAH) shall ensure that all physicians who are expected to prescribe/use Leflunomide ratiopharm are provided with a physician educational pack containing the following:
 
 - The Summary of Product Characteristics
-- Physician Leaflet
 
 <div style=\"page-break-after: always\"></div>
+
+- Physician Leaflet
 
 The Physician Leaflet should contain the following key messages:
 
@@ -1145,6 +1166,12 @@ Leflunomide ratiopharm can occasionally cause some problems with your blood, liv
 
 DRESS appears initially as flu-like symptoms and a rash on the face then an extended rash with a high temperature, increased levels of liver enzymes seen in blood tests and an increase in a type of white blood cell (eosinophilia) and enlarged lymph nodes.
 
+## Haemophagocytic lymphohistiocytosis (HLH)
+
+There have been reports of a rare but very serious immune system reaction, in patients taking Leflunomide ratiopharm.
+
+- -Contact your doctor or pharmacist immediately if you experience any of the following symptoms while taking Leflunomide ratiopharm: fever, rash, neurological symptoms (e.g. shaking or tremor, confusional state, disturbances of brain function).
+
 Your doctor will carry out blood tests at regular intervals, before and during treatment with Leflunomide ratiopharm, to monitor your blood cells and liver. Your doctor will also check your blood pressure regularly as Leflunomide ratiopharm can cause an increase in blood pressure.
 
 Tell your doctor if you have unexplained chronic diarrhoea. Your doctor may perform additional tests for differential diagnosis.
@@ -1164,15 +1191,15 @@ This is especially important if you are taking:
 - -other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive medicines (e.g. methotrexate) as these combinations are not advisable,
 - -warfarin and other oral medicines used to thin the blood, as monitoring is necessary to reduce the risk of side effects of this medicine
 - -teriflunomide for multiple sclerosis
+
+<div style=\"page-break-after: always\"></div>
+
 - -repaglinide, pioglitazone, nateglinide, or rosiglitazone for diabetes
 - -daunorubicin, doxorubicin, paclitaxel, or topotecan for cancer
 - -duloxetine for depression, urinary incontinence or in kidney disease in diabetics
 - -alosetron for the management of severe diarrhoea
 - -theophylline for asthma
 - -tizanidine, a muscle relaxant
-
-<div style=\"page-break-after: always\"></div>
-
 - -oral contraceptives (containing ethinylestradiol and levonorgestrel)
 - -cefaclor, benzylpenicillin (penicillin G), ciprofloxacin for infections
 - -indomethacin, ketoprofen for pain or inflammation
@@ -1210,13 +1237,13 @@ Do not take Leflunomide ratiopharm when you are breast-feeding , as leflunomide 
 
 Leflunomide ratiopharm can make you feel dizzy which may impair your ability to concentrate and react. If you are affected, do not drive, or use machines.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Leflunomide ratiopharm contains lactose
 
 If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
 
 ## Leflunomide ratiopharm contains sodium
-
-<div style=\"page-break-after: always\"></div>
 
 This medicine contains less than 1 mmol sodium (23 mg) per film-coated tablet, that is to say essentially 'sodium-free'.
 
@@ -1260,11 +1287,12 @@ Tell your doctor immediately if you experience:
 
 - -pale skin , tiredness, or bruising, as these may indicate blood disorders caused by an imbalance in the different types of blood cells which make up blood,
 - -tiredness , abdominal pain , or jaundice (yellow discolouration of the eyes or skin), as these may indicate serious conditions such as liver failure, which may be fatal,
+
+<div style=\"page-break-after: always\"></div>
+
 - -any symptoms of an infection such as fever, sore throat or cough, as this medicine may increase the chance of a severe infection which may be life-threatening,
 - -cough or breathing problems as these may indicate problems of the lung (interstitial lung disease or pulmonary hypertension or pulmonary nodule),
 - -unusual tingling, weakness or pain in your hands or feet as these may indicate problems with your nerves (peripheral neuropathy).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Common side effects (may affect up to 1 in 10 people)
 
@@ -1314,13 +1342,12 @@ Tell your doctor immediately if you experience:
 - -inflammation of blood vessels (vasculitis, including cutaneous necrotizing vasculitis),
 - -inflammation of the pancreas (pancreatitis),
 - -severe liver injury such as liver failure or necrosis which may be fatal,
-- -severe sometimes life-threatening reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
-
-Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis
 
 <div style=\"page-break-after: always\"></div>
 
-(new or worsening) DRESS and Skin ulcer (Round, open sore in the skin through which the underlying tissues can be seen), may also occur with a not known frequency.
+- -severe sometimes life-threatening reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
+
+Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis (new or worsening) DRESS and Skin ulcer (Round, open sore in the skin through which the underlying tissues can be seen), may also occur with a not known frequency.
 
 ## Reporting of side effects
 
@@ -1349,35 +1376,35 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 Leflunomide ratiopharm 10 mg film-coated tablets are white to almost white and round with a diameter of about 6 mm.
 
-The tablets are packed in bottles. Pack sizes of 30 and 100 film-coated tablets per bottle are available.
+The tablets are packed in bottles.
+
+Pack sizes of 30 and 100 film-coated tablets per bottle are available.
 
 Not all pack size may be marketed.
 
-## Marketing Authorisation Holder
+Marketing Authorisation Holder Graf-Arco-Straße 3
 
-ratiopharm GmbH Graf-Arco-Straße 3 89079 Ulm Germany
+ratiopharm GmbH 89079 Ulm Germany
 
 ## Manufacturer
 
-Haupt Pharma Münster GmbH Schleebrüggenkamp 15 48159 Münster Germany
-
-Merckle GmbH Ludwig-Merckle-Straße 3 89143 Blaubeuren
+Haupt Pharma Münster GmbH Schleebrüggenkamp 15
 
 <div style=\"page-break-after: always\"></div>
 
-## Germany
+48159 Münster Germany
+
+Merckle GmbH Ludwig-Merckle-Straße 3 89143 Blaubeuren Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Teva Pharma Belgium N.V./S.A./AG Tél/Tel: +32 38207373
-
 ## Lietuva
 
-UAB Teva Baltics
+Teva Pharma Belgium N.V./S.A./AG Tél/Tel: +32 38207373
 
-Tel: +370 52660203
+UAB Teva Baltics Tel: +370 52660203
 
 ## България
 
@@ -1399,7 +1426,9 @@ Tel: +420 251007111
 
 ## Magyarország
 
-Teva Gyógyszergyár Zrt. Tel.: +36 12886400
+Teva Gyógyszergyár Zrt.
+
+Tel.: +36 12886400
 
 ## Danmark
 
@@ -1409,7 +1438,11 @@ Tlf.: +45 44985511
 
 ## Malta
 
-TEVA HELLAS A.E. il- Greċja Tel: +30 2118805000
+TEVA HELLAS A.E.
+
+il- Greċja
+
+Tel: +30 2118805000
 
 ## Deutschland
 
@@ -1419,7 +1452,9 @@ Tel: +49 73140202
 
 ## Nederland
 
-Teva Nederland B.V. Tel: +31 8000228400
+Teva Nederland B.V.
+
+Tel: +31 8000228400
 
 ## Eesti
 
@@ -1429,7 +1464,9 @@ Tel: +372 6610801
 
 ## Norge
 
-Teva Norway AS Tlf: +47 66775590
+Teva Norway AS
+
+Tlf: +47 66775590
 
 ## Ελλάδα
 
@@ -1451,7 +1488,9 @@ Tel: +34 915359180
 
 ## Polska
 
-Teva Pharmaceuticals Polska Sp. z o.o. Tel.: +48 223459300
+Teva Pharmaceuticals Polska Sp. z o.o.
+
+Tel.: +48 223459300
 
 ## France
 
@@ -1461,7 +1500,9 @@ Tél: +33 155917800
 
 ## Portugal
 
-ratiopharm - Comércio e Indústria de Produtos Farmacêuticos, Lda. Tel: +351 214767550
+ratiopharm - Comércio e Indústria de Produtos Farmacêuticos, Lda.
+
+Tel: +351 214767550
 
 ## Hrvatska
 
@@ -1471,29 +1512,27 @@ Tel: +385 13720000
 
 ## România
 
-Teva Pharmaceuticals S.R.L. Tel: +40 212306524
+Teva Pharmaceuticals S.R.L.
+
+Tel: +40 212306524
 
 ## Ireland
 
 Teva Pharmaceuticals Ireland
 
-Tel: +44 2075407117
-
 ## Slovenija
 
-Pliva Ljubljana d.o.o. Tel: +386 15890390
+Pliva Ljubljana d.o.o.
+
+<div style=\"page-break-after: always\"></div>
+
+Tel: +44 2075407117
 
 ## Ísland
 
 Teva Pharma Iceland ehf.
 
 Sími: +354 5503300
-
-## Slovenská republika
-
-TEVA Pharmaceuticals Slovakia s.r.o. Tel: +421 257267911
-
-<div style=\"page-break-after: always\"></div>
 
 ## Italia
 
@@ -1503,11 +1542,33 @@ Tel: +39 028917981
 
 ## Κύπρος
 
-TEVA HELLAS A.E. Ελλάδα
+Tel: +386 15890390
+
+## Slovenská republika
+
+TEVA Pharmaceuticals Slovakia s.r.o.
+
+Tel: +421 257267911
+
+## Suomi/Finland
+
+Teva Finland Oy
+
+Puh/Tel: +358 201805900
+
+## Sverige
+
+TEVA HELLAS A.E.
+
+Ελλάδα
 
 Τηλ:
 
 +30 2118805000
+
+Teva Sweden AB
+
+Tel: +46 42121100
 
 ## Latvija
 
@@ -1520,18 +1581,6 @@ Tel: +371 67323666
 ## Other sources of information
 
 Detailed  information  on  this  medicine  is  available  on  the  European  Medicines  Agency  website: https://www.ema.europa.eu
-
-## Suomi/Finland
-
-Teva Finland Oy
-
-Puh/Tel: +358 201805900
-
-## Sverige
-
-Teva Sweden AB
-
-Tel: +46 42121100
 
 ## Package leaflet: Information for the user
 
@@ -1596,6 +1645,12 @@ Leflunomide ratiopharm can occasionally cause some problems with your blood, liv
 
 DRESS appears initially as flu-like symptoms and a rash on the face then an extended rash with a high temperature, increased levels of liver enzymes seen in blood tests and an increase in a type of white blood cell (eosinophilia) and enlarged lymph nodes.
 
+## Haemophagocytic lymphohistiocytosis (HLH)
+
+There have been reports of a rare but very serious immune system reaction, in patients taking Leflunomide ratiopharm.
+
+- -Contact your doctor or pharmacist immediately if you experience any of the following symptoms while taking Leflunomide ratiopharm: fever, rash, neurological symptoms (e.g. shaking or tremor, confusional state, disturbances of brain function).
+
 Your doctor will carry out blood tests at regular intervals, before and during treatment with Leflunomide ratiopharm, to monitor your blood cells and liver. Your doctor will also check your blood pressure regularly as Leflunomide ratiopharm can cause an increase in blood pressure.
 
 Tell your doctor if you have unexplained chronic diarrhoea. Your doctor may perform additional tests for differential diagnosis.
@@ -1615,6 +1670,9 @@ This is especially important if you are taking:
 - -other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive medicines (e.g. methotrexate) as these combinations are not advisable,
 - -warfarin and other oral medicines used to thin the blood, as monitoring is necessary to reduce the risk of side effects of this medicine
 - -teriflunomide for multiple sclerosis
+
+<div style=\"page-break-after: always\"></div>
+
 - -repaglinide, pioglitazone, nateglinide, or rosiglitazone for diabetes
 - -daunorubicin, doxorubicin, paclitaxel, or topotecan for cancer
 - -duloxetine for depression, urinary incontinence or in kidney disease in diabetics
@@ -1622,9 +1680,6 @@ This is especially important if you are taking:
 - -theophylline for asthma
 - -tizanidine, a muscle relaxant
 - -oral contraceptives (containing ethinylestradiol and levonorgestrel)
-
-<div style=\"page-break-after: always\"></div>
-
 - -cefaclor, benzylpenicillin (penicillin G), ciprofloxacin for infections
 - -indomethacin, ketoprofen for pain or inflammation
 - -furosemide for heart disease (diuretic, water pill)
@@ -1661,13 +1716,13 @@ Do not take Leflunomide ratiopharm when you are breast-feeding , as leflunomide 
 
 Leflunomide ratiopharm can make you feel dizzy which may impair your ability to concentrate and react. If you are affected, do not drive, or use machines.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Leflunomide ratiopharm contains lactose
 
 If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
 
 ## Leflunomide ratiopharm contains Sodium
-
-<div style=\"page-break-after: always\"></div>
 
 This medicine contains less than 1 mmol sodium (23 mg) per film-coated tablet, that is to say essentially 'sodium-free'.
 
@@ -1711,11 +1766,12 @@ Tell your doctor immediately if you experience:
 
 - -pale skin , tiredness, or bruising, as these may indicate blood disorders caused by an imbalance in the different types of blood cells which make up blood,
 - -tiredness , abdominal pain , or jaundice (yellow discolouration of the eyes or skin), as these may indicate serious conditions such as liver failure, which may be fatal,
+
+<div style=\"page-break-after: always\"></div>
+
 - -any symptoms of an infection such as fever, sore throat or cough, as this medicine may increase the chance of a severe infection which may be life-threatening,
 - -cough or breathing problems as these may indicate problems of the lung (interstitial lung disease or pulmonary hypertension or pulmonary nodule),
 - -unusual tingling, weakness or pain in your hands or feet as these may indicate problems with your nerves (peripheral neuropathy).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Common side effects (may affect up to 1 in 10 people)
 
@@ -1765,13 +1821,12 @@ Tell your doctor immediately if you experience:
 - -inflammation of blood vessels (vasculitis, including cutaneous necrotizing vasculitis),
 - -inflammation of the pancreas (pancreatitis),
 - -severe liver injury such as liver failure or necrosis which may be fatal,
-- -severe sometimes life-threatening reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
-
-Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis
 
 <div style=\"page-break-after: always\"></div>
 
-(new or worsening) and DRESS and Skin ulcer (Round, open sore in the skin through which the underlying tissues can be seen), may also occur with a not known frequency.
+- -severe sometimes life-threatening reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
+
+Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis (new or worsening) and DRESS and Skin ulcer (Round, open sore in the skin through which the underlying tissues can be seen), may also occur with a not known frequency.
 
 ## Reporting of side effects
 
@@ -1791,43 +1846,40 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Leflunomide ratiopharm contains
 
-- -The active substance is leflunomide.
-
-One film-coated tablet contains 20 mg of leflunomide.
-
+- -
+- The active substance is leflunomide.
+- One film-coated tablet contains 20 mg of leflunomide.
 - -The other ingredients are lactose monohydrate, low-substituted hydroxypropyl cellulose, tartaric acid, sodium laurylsulfate and magnesium stearate in the tablet core as well as lecithin (soybeans) , poly(vinyl alcohol), talc, titanium dioxide (E171) and xanthan gum in the filmcoating.
 
 ## What Leflunomide ratiopharm looks like and contents of the pack
 
 Leflunomide ratiopharm 20 mg film-coated tablets are white to almost white and round with a diameter of about 8 mm and a break-mark on one side of the tablet. The tablet can be divided into equal halves.
 
-The tablets are packed in bottles.
-
-Pack sizes of 30 and 100 film-coated tablets per bottle are available.
+The tablets are packed in bottles. Pack sizes of 30 and 100 film-coated tablets per bottle are available.
 
 Not all pack size may be marketed.
 
-## Marketing Authorisation Holder
+Marketing Authorisation Holder Graf-Arco-Straße 3
 
-ratiopharm GmbH Graf-Arco-Straße 3 89079 Ulm Germany
+ratiopharm GmbH 89079 Ulm Germany
 
 ## Manufacturer
 
-Haupt Pharma Münster GmbH Schleebrüggenkamp 15 48159 Münster Germany
-
-Merckle GmbH Ludwig-Merckle-Straße 3
+Haupt Pharma Münster GmbH
 
 <div style=\"page-break-after: always\"></div>
 
-89143 Blaubeuren Germany
+Schleebrüggenkamp 15 48159 Münster Germany
+
+Merckle GmbH Ludwig-Merckle-Straße 3 89143 Blaubeuren Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Teva Pharma Belgium N.V./S.A./AG Tél/Tel: +32 38207373
-
 ## Lietuva
+
+Teva Pharma Belgium N.V./S.A./AG Tél/Tel: +32 38207373
 
 UAB Teva Baltics Tel: +370 52660203
 
@@ -1845,9 +1897,7 @@ ratiopharm GmbH Allemagne/Deutschland Tél/Tel: +49 73140202
 
 ## Česká republika
 
-Teva Pharmaceuticals CR, s.r.o.
-
-Tel: +420 251007111
+Teva Pharmaceuticals CR, s.r.o. Tel: +420 251007111
 
 ## Magyarország
 
@@ -1885,7 +1935,9 @@ Teva Norway AS Tlf: +47 66775590
 
 ## Ελλάδα
 
-TEVA HELLAS A.E. Τηλ: +30 2118805000
+TEVA HELLAS A.E.
+
+Τηλ: +30 2118805000
 
 ## Österreich
 
@@ -1899,7 +1951,9 @@ Tel: +34 915359180
 
 ## Polska
 
-Teva Pharmaceuticals Polska Sp. z o.o. Tel.: +48 223459300
+Teva Pharmaceuticals Polska Sp. z o.o.
+
+Tel.: +48 223459300
 
 ## France
 
@@ -1923,13 +1977,15 @@ Teva Pharmaceuticals S.R.L. Tel: +40 212306524
 
 ## Ireland
 
+## Slovenija
+
 Teva Pharmaceuticals Ireland
 
 Tel: +44 2075407117
 
-## Slovenija
+Pliva Ljubljana d.o.o.
 
-Pliva Ljubljana d.o.o. Tel: +386 15890390
+Tel: +386 15890390
 
 ## Ísland
 
@@ -1939,9 +1995,9 @@ Sími: +354 5503300
 
 ## Slovenská republika
 
-TEVA Pharmaceuticals Slovakia s.r.o. Tel: +421 257267911
+TEVA Pharmaceuticals Slovakia s.r.o.
 
-<div style=\"page-break-after: always\"></div>
+Tel: +421 257267911
 
 ## Italia
 
@@ -1949,15 +2005,25 @@ Teva Italia S.r.l.
 
 Tel: +39 028917981
 
+## Suomi/Finland
+
+Teva Finland Oy
+
+Puh/Tel: +358 201805900
+
 ## Κύπρος
 
-TEVA HELLAS A.E.
-
-Ελλάδα
+TEVA HELLAS A.E. Ελλάδα
 
 Τηλ:
 
 +30 2118805000
+
+## Sverige
+
+Teva Sweden AB
+
+Tel: +46 42121100
 
 ## Latvija
 
@@ -1965,18 +2031,10 @@ UAB Teva Baltics filiāle Latvijā
 
 Tel: +371 67323666
 
+<div style=\"page-break-after: always\"></div>
+
 ## This leaflet was last revised in {MM/YYYY}.
 
 ## Other sources of information
 
 Detailed  information  on  this  medicine  is  available  on  the  European  Medicines  Agency  website: https://www.ema.europa.eu
-
-## Suomi/Finland
-
-Teva Finland Oy Puh/Tel: +358 201805900
-
-## Sverige
-
-Teva Sweden AB
-
-Tel: +46 42121100

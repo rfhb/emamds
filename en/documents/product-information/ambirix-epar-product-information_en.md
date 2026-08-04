@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-02-08 12:41:28
+document_datetime: 2026-08-03 15:52:08
 document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ambirix-epar-product-information_en.pdf
 document_name: ambirix-epar-product-information_en.pdf
 version: success
-processing_time: 6.7259715
-conversion_datetime: 2025-12-20 17:55:17.224741
+processing_time: 7.2040958
+conversion_datetime: 2026-08-04 14:00:32.712114
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.29.0
+  docling-jobkit: 3.2.0
+  docling: 2.118.0
+  docling-core: 2.90.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.8.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -61,7 +61,7 @@ Protection against hepatitis B infections may not be obtained until after the se
 
 ## Posology
 
-- Dosage
+## - Dosage
 
 A dose of 1.0 ml is recommended for subjects from 1 year up to and including 15 years of age.
 
@@ -69,9 +69,9 @@ A dose of 1.0 ml is recommended for subjects from 1 year up to and including 15 
 
 The standard primary course of vaccination consists of two doses, the first administered at the elected date and the second between 6 and 12 months after the first dose.
 
-<div style=\"page-break-after: always\"></div>
-
 The recommended schedule should be adhered to. Once initiated, the primary course of vaccination should be completed with the same vaccine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## - Booster dose
 
@@ -85,7 +85,7 @@ The anti-hepatitis B surface antigen (anti-HBs) and anti-hepatitis A virus (anti
 
 The need for a booster dose of hepatitis B vaccine in healthy individuals who have received a full primary vaccination course has not been established. However some official vaccination programmes currently include a recommendation for a booster dose of hepatitis B vaccine and these should be respected.
 
-For some categories of subjects at risk of exposure to HBV (e.g. haemodialysis or immunocompromised patients) a precautionary attitude should be considered to ensure that a protective antibody level ≥ 10 mIU/ml is maintained.
+For some categories of subjects at risk of exposure to HBV (e.g. haemodialysis or immunocompromised patients) a precautionary attitude should be considered to ensure that a protective antibody level  10 mIU/ml is maintained.
 
 ## Hepatitis A
 
@@ -133,7 +133,7 @@ Since intradermal injection or intramuscular administration into the gluteal mus
 
 Ambirix should under no circumstances be administered intravascularly.
 
-This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## Traceability
 
@@ -143,11 +143,9 @@ In order to improve the traceability of biological medicinal products, the name 
 
 No data on concomitant administration of Ambirix with specific hepatitis A immunoglobulin or hepatitis B immunoglobulin have been generated. However, when the monovalent hepatitis A and hepatitis B vaccines were administered concomitantly with specific immunoglobulins there was no effect on seroconversion rates. Concomitant immunoglobulin administration may result in lower antibody titres.
 
-When Ambirix was administered concomitantly with, but as a separate injection to a combined diphtheria, tetanus, acellular pertussis, inactivated poliomyelitis and Haemophilus influenzae type b
+When Ambirix was administered concomitantly with, but as a separate injection to a combined diphtheria, tetanus, acellular pertussis, inactivated poliomyelitis and Haemophilus influenzae type b vaccine (DTPa-IPV+Hib) or with a combined Measles-Mumps-Rubella vaccine in the second year of life, immune responses to all antigens were satisfactory (see section 5.1).
 
 <div style=\"page-break-after: always\"></div>
-
-vaccine (DTPa-IPV+Hib) or with a combined Measles-Mumps-Rubella vaccine in the second year of life, immune responses to all antigens were satisfactory (see section 5.1).
 
 Concomitant administration of Ambirix and other vaccines than those listed above has not been studied. It is advised that Ambirix should not be administered at the same time as other vaccines unless absolutely necessary.
 
@@ -191,19 +189,19 @@ Adverse reactions reported are listed according to the following frequency:
 
 Very common:
 
-≥ 1/10
+ 1/10
 
 Common:
 
-≥ 1/100 to &lt; 1/10
+ 1/100 to &lt; 1/10
 
 Uncommon:
 
-≥ 1/1,000 to &lt; 1/100
+ 1/1,000 to &lt; 1/100
 
 Rare:
 
-≥ 1/10,000 to &lt; 1/1,000
+ 1/10,000 to &lt; 1/1,000
 
 Very rare:
 
@@ -242,7 +240,7 @@ Common: fever, swelling at the injection site
 
 In addition, the following adverse reactions were reported during clinical trials with GlaxoSmithKline's other combined hepatitis A and hepatitis B vaccines (given as a 3 or 4 dose schedule).
 
-Infections and infestations
+## Infections and infestations
 
 Uncommon: upper respiratory tract infection
 
@@ -278,7 +276,7 @@ Uncommon: myalgia
 
 Rare: arthralgia
 
-General disorders and administration site conditions
+## General disorders and administration site conditions
 
 Common: malaise, injection site reaction
 
@@ -302,7 +300,9 @@ Syncope or vasovagal responses to injection, localised hypoaesthesia
 
 Following widespread use of either GlaxoSmithKline's combined hepatitis A and hepatitis B vaccines or the monovalent hepatitis A and/or hepatitis B vaccines, the following adverse reactions have additionally been reported.
 
-Infections and infestations Meningitis
+## Infections and infestations
+
+Meningitis
 
 Blood and lymphatic system disorders
 
@@ -354,16 +354,14 @@ Ambirix confers immunity against HAV and HBV infection by inducing specific anti
 
 ## Immune responses post-primary vaccination
 
-In clinical studies involving subjects from 1 year up to and including 15 years old, seropositivity rates for anti-HAV antibodies were 99.1% one month after the first dose and 100% after the second dose given at month 6 (i.e month 7). Seropositivity rates for anti-HBs antibodies were 74.2% one month after the first dose and 100% after the second dose given at month 6 (i.e. month 7). The anti-HBs seroprotection rates (titers ≥ 10 mlU/ml) at these time points were 37.4% and 98.2% respectively.
+In clinical studies involving subjects from 1 year up to and including 15 years old, seropositivity rates for anti-HAV antibodies were 99.1% one month after the first dose and 100% after the second dose given at month 6 (i.e month 7). Seropositivity rates for anti-HBs antibodies were 74.2% one month after the first dose and 100% after the second dose given at month 6 (i.e. month 7). The anti-HBs seroprotection rates (titers  10 mlU/ml) at these time points were 37.4% and 98.2% respectively.
 
 In a comparative clinical trial conducted among subjects aged from 12 years up to and including 15 years of age, 142 received two doses of Ambirix and 147 received the standard three-dose (0, 1, 6 months) of the combined HAB vaccine. The latter contained 360 ELISA Units of formalin inactivated hepatitis A virus and 10 micrograms of recombinant hepatitis B surface antigen. For the 289 subjects evaluable for immunogenicity, seroprotection rates (SP in the table below) against hepatitis B were significantly higher at months 2 and 6 with the three-dose vaccine than with Ambirix. The immune response elicited by Ambirix at month 7 (i.e. after completion of the vaccination course) was noninferior to that to the three-dose vaccine.
 
 | Vaccine group                  |   Anti-HBs Month 2 SP (%) |   Anti-HBs Month 6 SP (%) |   Anti-HBs Month 7 SP (%) |
 |--------------------------------|---------------------------|---------------------------|---------------------------|
-| Ambirix                        |                      38   |                      68.3 |                      97.9 |
-| Combined HAB vaccine (360/10)* |                      85.6 |                      98   |                     100   |
-
-* containing 360 ELISA Units of formalin inactivated hepatitis A virus and 10 micrograms of recombinant hepatitis B surface antigen
+| Ambirix                        |                        38 |                      68.3 |                      97.9 |
+| Combined HAB vaccine (360/10)* |                      85.6 |                      98.0 |                       100 |
 
 Immune responses obtained one month after the full vaccination course (i.e at month 7) in a comparative clinical trial in children aged 1-11 years are presented in the following table. Also shown are the results reported in the comparative study performed in 12-15 year-olds. In both studies, subjects received either a two-dose schedule of Ambirix or a three-dose regimen of the combined HAB vaccine (360/10) containing 360 ELISA Units of formalin inactivated hepatitis A virus and 10 micrograms of recombinant hepatitis B surface antigen.
 
@@ -380,8 +378,6 @@ Immune responses obtained one month after the full vaccination course (i.e at mo
 
 | Combined HAB vaccine (360/10)*   | 147   | 100   | 147   | 100   |
 |----------------------------------|-------|-------|-------|-------|
-
-* containing 360 ELISA Units of formalin inactivated hepatitis A virus and 10 micrograms of recombinant hepatitis B surface antigen
 
 ## Immune response post-primary vaccination using 0-12 month schedule
 
@@ -462,7 +458,7 @@ The vaccine should be re-suspended following the steps below.
 2. Shake the syringe by tipping it upside down and back again.
 3. Repeat this action vigorously for at least 15 seconds.
 4. Inspect the vaccine again:
-- a. If the vaccine appears as a uniform hazy white suspension, it is ready to use - the appearance should not be clear.
+- a. If the vaccine appears as a uniform hazy white suspension, it is ready to use -the appearance should not be clear.
 - b. If the vaccine still does not appear as a uniform hazy white suspension - tip upside down and back again for at least another 15 seconds - then inspect again.
 
 The vaccine should be inspected visually for any foreign particulate matter and/or abnormal physical appearance prior to administration. In the event of either being observed, do not administer the vaccine.
@@ -487,9 +483,7 @@ rue de l'Institut 89 B-1330 Rixensart, Belgium
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/02/224/001 EU/1/02/224/002 EU/1/02/224/003 EU/1/02/224/004
-
-EU/1/02/224/005
+EU/1/02/224/001 EU/1/02/224/002 EU/1/02/224/003 EU/1/02/224/004 EU/1/02/224/005
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -578,7 +572,7 @@ Not applicable.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ambirix - Suspension for injection in pre-filled syringe
+Ambirix -Suspension for injection in pre-filled syringe
 
 Hepatitis A (inactivated) and hepatitis B (rDNA) (HAB) vaccine (adsorbed)
 
@@ -588,21 +582,23 @@ Hepatitis A (inactivated) and hepatitis B (rDNA) (HAB) vaccine (adsorbed)
 
 Hepatitis A virus (inactivated) 1,2
 
+720 ELISA Units
+
 Hepatitis B surface antigen 3,4
+
+20 micrograms
 
 1 Produced on human diploid (MRC-5) cells
 
 2 Adsorbed on aluminium hydroxide, hydrated
-
-720 ELISA Units
-
-20 micrograms
 
 0.05 milligrams Al 3+
 
 3 Produced in yeast cells ( Saccharomyces cerevisiae ) by recombinant DNA technology
 
 4 Adsorbed on aluminium phosphate
+
+0.4 milligrams Al 3+
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -638,7 +634,7 @@ Suspension for injection in pre-filled syringe
 
 Read the package leaflet before use
 
-0.4 milligrams Al 3+
+Intramuscular use
 
 <div style=\"page-break-after: always\"></div>
 
@@ -660,7 +656,7 @@ Do not freeze
 
 Store in the original package in order to protect from light
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -688,10 +684,9 @@ Lot:
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-<div style=\"page-break-after: always\"></div>
+## 15. INSTRUCTIONS ON USE
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+<div style=\"page-break-after: always\"></div>
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -703,23 +698,23 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE   |
-|-------------------------------------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE   |
+|---------------------------------------------------------------------------------------|
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Ambirix, suspension for injection HAB vaccine IM
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -731,8 +726,8 @@ EXP:
 
 Lot:
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 dose (1 ml)
 
@@ -778,7 +773,7 @@ Ambirix is a vaccine used in infants, children and young people from 1 year up t
 
 been infected look or feel ill. Some people can feel sick, have a fever and aches and pains. However, others can become very ill. They may be very tired, and have dark urine, pale faeces, yellowish skin or eyes (jaundice). Some people may need to go into hospital.
 
-Most adults fully recover from the disease, but some people (particularly children) who may not have had symptoms can remain infected. They are called hepatitis B 'carriers' and can still infect other people throughout their lives. Carriers are also at risk of serious liver problems, such as scarring (cirrhosis) or liver cancer.
+Most adults fully recover from the disease, but some people (particularly children) who may not have had symptoms can remain infected. They are called hepatitis B ' carriers ' and can still infect other people throughout their lives. Carriers are also at risk of serious liver problems, such as scarring (cirrhosis) or liver cancer.
 
 ## How Ambirix works
 
@@ -787,7 +782,7 @@ Most adults fully recover from the disease, but some people (particularly childr
 - Ambirix helps the body to produce its own protection (antibodies) against these diseases. The vaccine does not contain live virus (see section 6 for the content of the vaccine) and therefore cannot cause hepatitis A or B infections.
 - As with all vaccines, some people respond less well to a vaccine than others.
 - Ambirix may not protect you from being ill if you have already caught the hepatitis A or B virus.
-- Ambirix can only help to protect you against infections with hepatitis A or B viruses. It cannot protect against other infections that can affect the liver - even though these infections might have signs similar to those caused by the hepatitis A or B virus.
+- Ambirix can only help to protect you against infections with hepatitis A or B viruses. It cannot protect against other infections that can affect the liver -even though these infections might have signs similar to those caused by the hepatitis A or B virus.
 
 ## 2. What you need to know before you receive Ambirix
 
@@ -803,10 +798,10 @@ Ambirix should not be given if any of the above apply. If you are not sure, talk
 
 Talk to your doctor, nurse or pharmacist before having Ambirix if:
 
-- you need to be fully protected against hepatitis A and B infection within the next 6  months your doctor may recommend a different vaccine
+- you need to be fully protected against hepatitis A and B infection within the next 6  months -your doctor may recommend a different vaccine
 - you have a bleeding problem or bruise easily - the injection may be given just under the skin instead of into a muscle to reduce the amount of bleeding or bruising
 - you have immune system problems (such as due to an illness, treatment or dialysis) - the vaccine may not work fully. This means you may not be protected against one or both of the hepatitis A and B viruses. Your doctor will run blood tests to see whether more injections are needed to help you be better protected
-- you have fainted before or during a previous injection - in case this happens again. Fainting can occur (mostly in adolescents) following, or even before, any needle injection.
+- you have fainted before or during a previous injection -in case this happens again. Fainting can occur (mostly in adolescents) following, or even before, any needle injection.
 
 If any of the above apply (or you are not sure), talk to your doctor, nurse or pharmacist before having Ambirix.
 
@@ -814,13 +809,11 @@ If any of the above apply (or you are not sure), talk to your doctor, nurse or p
 
 Tell your doctor if you are taking, have recently taken or might take any other medicines or vaccines. This includes medicines obtained without a prescription and herbal medicines. Ask your doctor, nurse or pharmasist if you are not sure.
 
-If you are taking medicines that affect your body's immune response, you can still have Ambirix if this is thought to be necessary. However, the vaccine may not work fully. This means that you may
+If you are taking medicines that affect your body's immun e response, you can still have Ambirix if this is thought to be necessary. However, the vaccine may not work fully. This means that you may not be protected against one or both of the hepatitis A and B viruses. Your doctor will run blood tests to see whether more injections are needed to help you be better protected.
 
 <div style=\"page-break-after: always\"></div>
 
-not be protected against one or both of the hepatitis A and B viruses. Your doctor will run blood tests to see whether more injections are needed to help you be better protected.
-
-Ambirix may need to be given at the same time as other vaccines for measles, mumps, rubella, diphtheria, tetanus, whooping cough (pertussis), poliomyelitis, Haemophilus influenzae type b or some types of treatments for hepatitis infections called 'immunoglobulins'. Your doctor will make sure that the vaccines are injected into different parts of your body.
+Ambirix may need to be given at the same time as other vaccines for measles, mumps, rubella, diphtheria, tetanus, whooping cough (pertussis), poliomyelitis, Haemophilus influenzae type b or some types of treatments for hepatitis infections called 'immunoglobulins' . Your doctor will make sure that the vaccines are injected into different parts of your body.
 
 ## Pregnancy, breast-feeding and fertility
 
@@ -834,7 +827,7 @@ You may feel sleepy or dizzy after having Ambirix. If this happens, do not drive
 
 This vaccine contains neomycin (an antibiotic). Ambirix should not be given if you are allergic to neomycin.
 
-This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## 3. How Ambirix is given
 
@@ -848,8 +841,8 @@ This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say e
 
 - You will normally have a total of two injections. Each is given on a separate visit.
 - The injections will be given within 12 months:
-- The first injection - on a date agreed with your doctor.
-- The second injection - between 6 and 12 months after the first injection.
+- The first injection -on a date agreed with your doctor.
+- The second injection -between 6 and 12 months after the first injection.
 
 Your doctor will advise on the possible need for extra doses, and future booster dosing.
 
@@ -866,7 +859,7 @@ Like all medicines, this vaccine can cause side effects, although not everybody 
 
 ## Serious side effects
 
-- Tell your doctor straight away if you notice any of the following serious side effects - you may need urgent medical treatment: allergic and anaphylactic reactions - the signs can include a rash that may be itchy or blistering, swelling of the eyes and face, difficulty in breathing or swallowing, a sudden drop in blood pressure and loss of consciousness. Tell your doctor straight away if you notice any of the serious side effects listed above.
+- Tell your doctor straight away if you notice any of the following serious side effects -you may need urgent medical treatment: allergic and anaphylactic reactions - the signs can include a rash that may be itchy or blistering, swelling of the eyes and face, difficulty in breathing or swallowing, a sudden drop in blood pressure and loss of consciousness. Tell your doctor straight away if you notice any of the serious side effects listed above.
 
 ## Side effects that occurred during clinical trials with Ambirix were as follows:
 
@@ -892,11 +885,9 @@ Additional side effects that occurred during routine use of very similar combine
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet.You can also report side effects directly via the national reporting system listed
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet.You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 <div style=\"page-break-after: always\"></div>
-
-in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Ambirix
 
@@ -915,7 +906,6 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Ambirix contains
 
 - The active substances are:
-- The other ingredients in Ambirix are: sodium chloride and water for injections.
 
 - Hepatitis A virus (inactivated) 1,2
 
@@ -935,6 +925,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 0.4 milligrams Al 3+
 
+- The other ingredients in Ambirix are: sodium chloride and water for injections.
+
 ## What Ambirix looks like and contents of the pack
 
 Ambirix is a white and slightly milky liquid.
@@ -951,15 +943,13 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-GlaxoSmithKline Pharmaceuticals SA/NV
-
-Tél/Tel: + 32 10 85 52 00
+GlaxoSmithKline Pharmaceuticals s.a./n.v. Tél/Tel: + 32 (0)10 85 52 00
 
 Lietuva
 
 GlaxoSmithKline Biologicals SA
 
-Tel. +370 80000334
+Tel: +370 80000334
 
 ## България
 
@@ -969,25 +959,23 @@ GlaxoSmithKline Biologicals SA
 
 +359 80018205
 
-Luxembourg/Luxemburg
+## Luxembourg/Luxemburg
 
-GlaxoSmithKline Pharmaceuticals SA/NV
-
-Tél/Tel: + 32 10 85 52 00
+GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien
 
 <div style=\"page-break-after: always\"></div>
 
 ## Česká republika
 
-GlaxoSmithKline s.r.o. Tel: + 420 2 22 00 11 11 cz.info@gsk.com
+GlaxoSmithKline s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
 
 ## Danmark
 
-GlaxoSmithKline Pharma A/S Tlf: + 45 36 35 91 00 dk-info@gsk.com
+GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
 
 ## Deutschland
 
-GlaxoSmithKline GmbH &amp; Co. KG Tel: + 49 (0)89 360448701 produkt.info@gsk.com
+GlaxoSmithKline GmbH &amp; Co. KG Tel: +49 (0)89 36044 8701 produkt.info@gsk.com
 
 ## Eesti
 
@@ -1007,7 +995,7 @@ Laboratoire GlaxoSmithKline Tél: + 33 (0) 1 39 17 84 44 diam@gsk.com
 
 ## Hrvatska
 
-GlaxoSmithKline Biologicals SA Tel.: +385 800787089
+GlaxoSmithKline Biologicals SA Tel: +385 800787089
 
 ## Ireland
 
@@ -1015,7 +1003,7 @@ GlaxoSmithKline (Ireland) Ltd Tel: + 353 (0)1 495 5000
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor ehf. Sími: +354 535 7000
 
 ## Italia
 
@@ -1024,6 +1012,8 @@ GlaxoSmithKline S.p.A. Tel: + 39 (0)45 7741 111
 ## Κύπρος
 
 GlaxoSmithKline Biologicals SA Τηλ: +357 80070017
+
+Tél/Tel: + 32 (0)10 85 52 00
 
 ## Magyarország
 
@@ -1035,9 +1025,7 @@ GlaxoSmithKline Biologicals SA Tel: +356 80065004
 
 ## Nederland
 
-GlaxoSmithKline BV
-
-Tel: + 31 (0)33 2081100
+GlaxoSmithKline BV Tel: + 31 (0)33 2081100
 
 ## Norge
 
@@ -1049,9 +1037,7 @@ GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
 
 ## Polska
 
-GSK Services Sp. z o.o.
-
-Tel.: + 48 (22) 576 9000
+GSK Services Sp. z o.o. Tel.: + 48 (22) 576 9000
 
 ## Portugal
 
@@ -1079,13 +1065,17 @@ GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
 
 <div style=\"page-break-after: always\"></div>
 
-Latvija GlaxoSmithKline Biologicals SA Tel: +371 80205045
+## Latvija
+
+GlaxoSmithKline Biologicals SA
+
+Tel: +371 80205045
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -1103,7 +1093,7 @@ The vaccine should be re-suspended following the steps below.
 2. Shake the syringe by tipping it upside down and back again.
 3. Repeat this action vigorously for at least 15 seconds.
 4. Inspect the vaccine again:
-- a. If the vaccine appears as a uniform hazy white suspension, it is ready to use - the appearance should not be clear.
+- a. If the vaccine appears as a uniform hazy white suspension, it is ready to use -the appearance should not be clear.
 - b. If the vaccine still does not appear as a uniform hazy white suspension - tip upside down and back again for at least another 15 seconds - then inspect again.
 
 The vaccine should be inspected visually for any foreign particulate matter and/or abnormal physical appearance prior to administration. In the event of either being observed, do not administer the vaccine.
@@ -1115,10 +1105,6 @@ Instructions for the pre-filled syringe after re-suspension
 Hold the syringe by the barrel, not by the plunger.
 
 Unscrew the syringe cap by twisting it anticlockwise.
-
-United Kingdom (Northern Ireland GlaxoSmithKline Biologicals SA Tel: +44(0)800 221441 customercontactuk@gsk.com
-
-## )
 
 <div style=\"page-break-after: always\"></div>
 

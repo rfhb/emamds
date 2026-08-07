@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-01 17:02:00
+document_datetime: 2026-08-06 17:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/firazyr.html
 document_name: firazyr.html
 version: success
-processing_time: 0.1414727
-conversion_datetime: 2026-04-05 12:35:19.455246
+processing_time: 0.366843
+conversion_datetime: 2026-08-07 13:54:59.404339
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Firazyr
 
@@ -57,7 +57,7 @@ Expand section
 
 Collapse section
 
-## What is Firazyr and what is it used for?
+### What is Firazyr and what is it used for?
 
 Firazyr is a medicine used to treat the symptoms of attacks of hereditary angioedema in adults, adolescents and children aged over 2 years. Patients with angioedema have attacks of swelling that can occur anywhere in the body, such as in the face or limbs, or around the gut, causing discomfort and pain. Attacks of hereditary angioedema can be life threatening when they involve the throat. Firazyr is used in patients whose angioedema is linked to naturally low levels of a protein called 'C1 esterase inhibitor'.
 
@@ -65,7 +65,7 @@ Firazyr contains the active substance icatibant.
 
 Because the number of patients with angioedema is low, the disease is considered 'rare', and Firazyr was designated an 'orphan medicine' (a medicine used in rare diseases) on 17 February 2003.
 
-## How is Firazyr used?
+### How is Firazyr used?
 
 Each pre-filled syringe of Firazyr contains 30 mg icatibant in 3 ml. The medicine is given by injecting it slowly under the skin, preferably in the abdomen (belly). The recommended dose of Firazyr in adults is one injection (3 ml). If symptoms continue or come back, a second injection can be given after 6 hours. If needed, treatment can be repeated for a third time after an additional 6 hours. No more than three injections should be given in any 24-hour period.
 
@@ -75,11 +75,11 @@ The doctor may decide that the patient or their caregiver can inject the medicin
 
 Firazyr can only be obtained with a prescription. For further information, see the package leaflet.
 
-## How does Firazyr work?
+### How does Firazyr work?
 
 Patients with hereditary angioedema have high levels of a substance called 'bradykinin', which is involved in causing inflammation and swelling. The active substance in Firazyr, icatibant, blocks the receptors that bradykinin normally attaches to. This blocks the activity of bradykinin, helping to relieve the symptoms of the disease.
 
-## What benefits of Firazyr have been shown in studies?
+### What benefits of Firazyr have been shown in studies?
 
 Firazyr was found effective in two main studies in adults with hereditary angioedema involving the skin or the abdomen. The main measure of effectiveness was how long it took for the patient's symptoms to be relieved. In both studies, the time it took for symptoms to improve was shorter for patients taking Firazyr than the comparator medicine.
 
@@ -87,23 +87,23 @@ The first study compared Firazyr with tranexamic acid (another medicine for here
 
 In another study involving 22 adolescents and children aged over 2 years with hereditary angioedema, symptoms improved on average 1 hour after the patients received Firazyr.
 
-## What are the risks associated with Firazyr?
+### What are the risks associated with Firazyr?
 
 The most common side effects with Firazyr (seen in more than 1 patient in 10) are injection site reactions including erythema (redness), swelling, burning, itching and pain at injection sites.
 
 For the list of all side effects and restrictions with Firazyr, see the package leaflet.
 
-## Why is Firazyr approved?
+### Why is Firazyr approved?
 
 The European Medicines Agency decided that Firazyr's benefits are greater than its risks and recommended that it be given marketing authorisation.
 
 Firazyr was found to relieve swelling in the skin and abdomen, as well as swelling of the throat. It works in a different way to other authorised treatments.
 
-## What measures are being taken to ensure the safe and effective use of Firazyr?
+### What measures are being taken to ensure the safe and effective use of Firazyr?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Firazyr have been included in the summary of product characteristics and the package leaflet.
 
-## Other information about Firazyr
+### Other information about Firazyr
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Firazyr on 11 July 2008.
 
@@ -117,7 +117,7 @@ English (EN) (77.45 KB - PDF)
 
 [View](/en/documents/overview/firazyr-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-346)
+[Other languages (22)](#file-language-dropdown-860)
 
 български (BG) (104.13 KB - PDF)
 
@@ -149,7 +149,7 @@ Deutsch (DE) (78.39 KB - PDF)
 
 [View](/de/documents/overview/firazyr-epar-summary-public_de.pdf)
 
-eesti keel (ET) (75.94 KB - PDF)
+eesti (ET) (75.94 KB - PDF)
 
 **First published:** 14/07/2008 **Last updated:** 06/12/2017
 
@@ -179,13 +179,13 @@ italiano (IT) (76.51 KB - PDF)
 
 [View](/it/documents/overview/firazyr-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (98.52 KB - PDF)
+latviešu (LV) (98.52 KB - PDF)
 
 **First published:** 14/07/2008 **Last updated:** 06/12/2017
 
 [View](/lv/documents/overview/firazyr-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (100.12 KB - PDF)
+lietuvių (LT) (100.12 KB - PDF)
 
 **First published:** 14/07/2008 **Last updated:** 06/12/2017
 
@@ -239,7 +239,7 @@ slovenščina (SL) (96.8 KB - PDF)
 
 [View](/sl/documents/overview/firazyr-epar-summary-public_sl.pdf)
 
-Suomi (FI) (76.41 KB - PDF)
+suomi (FI) (76.41 KB - PDF)
 
 **First published:** 14/07/2008 **Last updated:** 06/12/2017
 
@@ -269,7 +269,7 @@ English (EN) (500.71 KB - PDF)
 
 [View](/en/documents/product-information/firazyr-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-572)
+[Other languages (24)](#file-language-dropdown-264)
 
 български (BG) (564.06 KB - PDF)
 
@@ -301,7 +301,7 @@ Deutsch (DE) (496.8 KB - PDF)
 
 [View](/de/documents/product-information/firazyr-epar-product-information_de.pdf)
 
-eesti keel (ET) (519.18 KB - PDF)
+eesti (ET) (519.18 KB - PDF)
 
 **First published:** 14/07/2009 **Last updated:** 01/04/2026
 
@@ -325,25 +325,19 @@ hrvatski (HR) (549.04 KB - PDF)
 
 [View](/hr/documents/product-information/firazyr-epar-product-information_hr.pdf)
 
-íslenska (IS) (531.69 KB - PDF)
-
-**First published:** 14/07/2009 **Last updated:** 01/04/2026
-
-[View](/is/documents/product-information/firazyr-epar-product-information_is.pdf)
-
 italiano (IT) (491.65 KB - PDF)
 
 **First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/it/documents/product-information/firazyr-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (551.08 KB - PDF)
+latviešu (LV) (551.08 KB - PDF)
 
 **First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/lv/documents/product-information/firazyr-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (569.2 KB - PDF)
+lietuvių (LT) (569.2 KB - PDF)
 
 **First published:** 14/07/2009 **Last updated:** 01/04/2026
 
@@ -366,12 +360,6 @@ Nederlands (NL) (544.15 KB - PDF)
 **First published:** 14/07/2009 **Last updated:** 01/04/2026
 
 [View](/nl/documents/product-information/firazyr-epar-product-information_nl.pdf)
-
-norsk (NO) (483.47 KB - PDF)
-
-**First published:** 14/07/2009 **Last updated:** 01/04/2026
-
-[View](/no/documents/product-information/firazyr-epar-product-information_no.pdf)
 
 polski (PL) (557.48 KB - PDF)
 
@@ -403,7 +391,7 @@ slovenščina (SL) (535.09 KB - PDF)
 
 [View](/sl/documents/product-information/firazyr-epar-product-information_sl.pdf)
 
-Suomi (FI) (484.32 KB - PDF)
+suomi (FI) (484.32 KB - PDF)
 
 **First published:** 14/07/2009 **Last updated:** 01/04/2026
 
@@ -415,6 +403,18 @@ svenska (SV) (486.88 KB - PDF)
 
 [View](/sv/documents/product-information/firazyr-epar-product-information_sv.pdf)
 
+Íslenska (IS) (531.69 KB - PDF)
+
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
+
+[View](/is/documents/product-information/firazyr-epar-product-information_is.pdf)
+
+norsk (NO) (483.47 KB - PDF)
+
+**First published:** 14/07/2009 **Last updated:** 01/04/2026
+
+[View](/no/documents/product-information/firazyr-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** N/0000334728
 
 01/04/2026
@@ -423,7 +423,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -441,7 +442,7 @@ English (EN) (21.39 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-389)
+[Other languages (24)](#file-language-dropdown-350)
 
 български (BG) (54.07 KB - PDF)
 
@@ -473,7 +474,7 @@ Deutsch (DE) (50.12 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (45.71 KB - PDF)
+eesti (ET) (45.71 KB - PDF)
 
 **First published:** 01/12/2008 **Last updated:** 01/12/2020
 
@@ -497,25 +498,19 @@ hrvatski (HR) (49.04 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (49.13 KB - PDF)
-
-**First published:** 01/12/2008 **Last updated:** 01/12/2020
-
-[View](/is/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (46.14 KB - PDF)
 
 **First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/it/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (49.73 KB - PDF)
+latviešu (LV) (49.73 KB - PDF)
 
 **First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/lv/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (49.15 KB - PDF)
+lietuvių (LT) (49.15 KB - PDF)
 
 **First published:** 01/12/2008 **Last updated:** 01/12/2020
 
@@ -538,12 +533,6 @@ Nederlands (NL) (45.25 KB - PDF)
 **First published:** 01/12/2008 **Last updated:** 01/12/2020
 
 [View](/nl/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (49.21 KB - PDF)
-
-**First published:** 01/12/2008 **Last updated:** 01/12/2020
-
-[View](/no/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (51.61 KB - PDF)
 
@@ -575,7 +564,7 @@ slovenščina (SL) (46.79 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (43.81 KB - PDF)
+suomi (FI) (43.81 KB - PDF)
 
 **First published:** 01/12/2008 **Last updated:** 01/12/2020
 
@@ -587,27 +576,30 @@ svenska (SV) (48.33 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (49.13 KB - PDF)
+
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
+
+[View](/is/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (49.21 KB - PDF)
+
+**First published:** 01/12/2008 **Last updated:** 01/12/2020
+
+[View](/no/documents/all-authorised-presentations/firazyr-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Firazyr
-
-Active substance
-
-icatibant
-
-International non-proprietary name (INN) or common name
-
-icatibant
-
-Therapeutic area (MeSH)
-
-Angioedemas, Hereditary
-
-Anatomical therapeutic chemical (ATC) code
-
-B06AC02
+- **Name of medicine**
+    - Firazyr
+- **Active substance**
+    - icatibant
+- **International non-proprietary name (INN) or common name**
+    - icatibant
+- **Therapeutic area (MeSH)**
+    - Angioedemas, Hereditary
+- **Anatomical therapeutic chemical (ATC) code**
+    - B06AC02
 
 ### Pharmacotherapeutic group
 
@@ -619,27 +611,16 @@ Firazyr is indicated for symptomatic treatment of acute attacks of hereditary an
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/000899
-
-Marketing authorisation holder
-
-Takeda Pharmaceuticals International AG
-
-50-58 Baggot Street Lower
-
-Opinion adopted
-
-24/04/2008
-
-Marketing authorisation issued
-
-11/07/2008
-
-Revision
-
-28
+- **EMA product number**
+    - EMEA/H/C/000899
+- **Marketing authorisation holder**
+    - Takeda Pharmaceuticals International AG 50-58 Baggot Street Lower  Block 2 Miesian Plaza  Dublin 2  Co Dublin  D02 HW68  IRELAND
+- **Opinion adopted**
+    - 24/04/2008
+- **Marketing authorisation issued**
+    - 11/07/2008
+- **Revision**
+    - 29
 
 ## Assessment history
 
@@ -647,7 +628,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Firazyr : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -664,6 +645,16 @@ English (EN) (255.32 KB - PDF)
 **First published:** 14/07/2009 **Last updated:** 29/01/2026
 
 [View](/en/documents/procedural-steps-after/firazyr-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Firazyr-PAM-0000326083 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3257005
+
+English (EN) (256.69 KB - PDF)
+
+**First published:** 06/08/2026
+
+[View](/en/documents/variation-report/firazyr-pam-0000326083-epar-assessment-report_en.pdf)
 
 Firazyr-H-C-000899-P46-01100-1 : EPAR - Assessment report
 
@@ -703,7 +694,7 @@ English (EN) (121.29 KB - PDF)
 
 **First published:** 02/05/2018 **Last updated:** 02/05/2018
 
-[View](/en/documents/scientific-conclusion/firazyr-h-c-psusa-00001714-201707-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/firazyr-h-c-psusa-00001714-201707-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Firazyr-H-C-899-II-0034-G : EPAR - Assessment Report - Variation
 
@@ -735,7 +726,7 @@ English (EN) (1.12 MB - PDF)
 
 [View](/en/documents/variation-report/firazyr-h-c-899-ii-0024-g-epar-assessment-report-variation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Firazyr : EPAR - Public assessment report
 
@@ -781,7 +772,7 @@ English (EN) (404.94 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-131)
+[Other languages (24)](#file-language-dropdown-504)
 
 български (BG) (422.92 KB - DOCX)
 
@@ -813,7 +804,7 @@ Deutsch (DE) (417.55 KB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (406.84 KB - DOCX)
+eesti (ET) (406.84 KB - DOCX)
 
 **First published:** 15/10/2025 **Last updated:** 01/04/2026
 
@@ -837,25 +828,19 @@ hrvatski (HR) (413.15 KB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (405 KB - DOCX)
-
-**First published:** 15/10/2025 **Last updated:** 01/04/2026
-
-[View](/is/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (445.28 KB - DOCX)
 
 **First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/it/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (445.38 KB - DOCX)
+latviešu (LV) (445.38 KB - DOCX)
 
 **First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/lv/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (376.57 KB - DOCX)
+lietuvių (LT) (376.57 KB - DOCX)
 
 **First published:** 15/10/2025 **Last updated:** 01/04/2026
 
@@ -878,12 +863,6 @@ Nederlands (NL) (410.63 KB - DOCX)
 **First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/nl/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (396.47 KB - DOCX)
-
-**First published:** 15/10/2025 **Last updated:** 01/04/2026
-
-[View](/no/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (419.77 KB - DOCX)
 
@@ -915,7 +894,7 @@ slovenščina (SL) (408.61 KB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (413.7 KB - DOCX)
+suomi (FI) (413.7 KB - DOCX)
 
 **First published:** 15/10/2025 **Last updated:** 01/04/2026
 
@@ -926,6 +905,18 @@ svenska (SV) (401.57 KB - DOCX)
 **First published:** 15/10/2025 **Last updated:** 01/04/2026
 
 [View](/sv/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (405 KB - DOCX)
+
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
+
+[View](/is/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (396.47 KB - DOCX)
+
+**First published:** 15/10/2025 **Last updated:** 01/04/2026
+
+[View](/no/documents/product-information-tracked-changes/firazyr-epar-product-information-tracked-changes_no.docx)
 
 ## More information on Firazyr
 
@@ -939,6 +930,6 @@ svenska (SV) (401.57 KB - DOCX)
 
 **This page was last updated on**
 
-01/04/2026
+06/08/2026
 
 ## Share this page

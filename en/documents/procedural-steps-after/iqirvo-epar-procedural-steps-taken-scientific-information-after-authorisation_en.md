@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-30 13:08:43
+document_datetime: 2026-08-05 11:05:38
 document_pages: 4
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/iqirvo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: iqirvo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 2.5020578
-conversion_datetime: 2026-07-04 15:22:42.605658
+processing_time: 2.2136948
+conversion_datetime: 2026-08-07 14:50:30.404155
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## Iqirvo
 
@@ -47,6 +47,7 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-|                            | substance: elafibranor Outcome: Maintenance                                    |            |             |
-|----------------------------|--------------------------------------------------------------------------------|------------|-------------|
-| PSUR / EMA/PSUR/0000257878 | EURD: PSUSA/00011092/202412 Active substance: elafibranor Outcome: Maintenance | 10/07/2025 | Maintenance |
+|                            | substance: elafibranor Outcome: Maintenance                                                |            |             |
+|----------------------------|--------------------------------------------------------------------------------------------|------------|-------------|
+| PSUR / EMA/PSUR/0000257878 | EURD: PSUSA/00011092/202412 Active substance: elafibranor Outcome: Maintenance             | 10/07/2025 | Maintenance |
+| PSUR / EMA/PSUR/0000336148 | EURD: PSUSA/00011092/202512 Active substance: elafibranor Outcome: Maintenance Maintenance | 09/07/2026 |             |

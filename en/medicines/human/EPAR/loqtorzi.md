@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-07 16:25:00
+document_datetime: 2026-08-04 17:38:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/loqtorzi.html
 document_name: loqtorzi.html
 version: success
-processing_time: 0.10866
-conversion_datetime: 2026-05-10 13:00:55.618773
+processing_time: 0.1601813
+conversion_datetime: 2026-08-07 13:52:22.898427
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Loqtorzi
 
@@ -56,7 +56,7 @@ Expand section
 
 Collapse section
 
-## How is Loqtorzi used?
+### How is Loqtorzi used?
 
 The medicine can only be obtained with a prescription, and treatment should be started and supervised by a doctor experienced in treating cancer.
 
@@ -66,17 +66,17 @@ Treatment should continue for up to 24 months. The doctor may delay doses if cer
 
 For more information about using Loqtorzi, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Loqtorzi work?
+### How does Loqtorzi work?
 
 The active substance in Loqtorzi, toripalimab, is a monoclonal antibody, a type of protein that has been designed to attach to a receptor called PD-1 found on cells of the immune system called T cells. Cancer cells can produce proteins (PD-L1 and PD-L2) that attach to this receptor and switch off the activity of the T cells, preventing them from attacking the cancer. By attaching to the receptor, toripalimab prevents PD-L1 and PD-L2 from switching off the T cells, thereby increasing the ability of the immune system to kill cancer cells.
 
-## What benefits of Loqtorzi have been shown in studies?
+### What benefits of Loqtorzi have been shown in studies?
 
 A main study involved 289 adults with metastatic or recurrent locally advanced (spread to nearby tissue) nasopharyngeal cancer who had not received treatment for their recurrent or metastatic disease. They received either Loqtorzi or placebo (a dummy treatment), each given together with gemcitabine and cisplatin. People who received Loqtorzi lived on average for 21.4 months without the disease getting worse, compared with 8.2 months for those who received placebo. In addition, people who received placebo lived for an average of 33.7 months; this time could not be calculated for people who received Loqtorzi because fewer people had died during the follow-up period.
 
 A second main study involved 514 adults with recurrent or metastatic oesophageal squamous cell cancer who had not received systemic (whole-body) treatment for their recurrent or metastatic disease. The study compared the effect of Loqtorzi with that of placebo, each given together with paclitaxel and cisplatin. People who received Loqtorzi lived for an average of 17.7 months, while those who received placebo lived on average for 12.9 months. The average time people lived before their disease got worse was 5.7 months with Loqtorzi and 5.5 months with placebo.
 
-## What are the risks associated with Loqtorzi?
+### What are the risks associated with Loqtorzi?
 
 For the full list of side effects and restrictions with Loqtorzi, see the package leaflet.
 
@@ -84,7 +84,7 @@ Loqtorzi is commonly associated with side effects related to the activity of the
 
 The most common side effects with Loqtorzi in combination with platinum-based chemotherapy, such as cisplatin, (which may affect more than 1 in 10 people) include anaemia (low levels of red blood cells), leucopenia (low levels of white blood cells), neutropenia (low levels of neutrophils, a type of white blood cell), thrombocytopenia (low levels of blood platelets, components that help the blood to clot), nausea (feeling sick), vomiting, decreased appetite, rash, tiredness, abnormal liver function tests, hypothyroidism (an underactive thyroid gland), constipation, neuropathy (nerve damage), colitis (inflammation in the large bowel), fever, cough, pruritus (itching), decreased creatinine clearance (a sign of kidney problems) and hyponatraemia (low blood sodium levels).
 
-## Why is Loqtorzi authorised in the EU?
+### Why is Loqtorzi authorised in the EU?
 
 In people with nasopharyngeal cancer or oesophageal squamous cell cancer that has come back or spread, Loqtorzi has been shown to be effective at increasing the time they live before their disease gets worse, although for oesophageal cancer the difference was small. It has also been found to increase the overall time people with these cancers live.
 
@@ -92,7 +92,7 @@ The side effects of Loqtorzi are similar to those of other cancer medicines that
 
 The European Medicines Agency therefore decided that Loqtorzi's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Loqtorzi?
+### What measures are being taken to ensure the safe and effective use of Loqtorzi?
 
 The company that markets Loqtorzi will provide an alert card for patients with information on the risks of the medicine, as well as instructions on when to contact their doctor if they have symptoms of immune-related side effects.
 
@@ -100,7 +100,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Loqtorzi are continuously monitored. Suspected side effects reported with Loqtorzi are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Loqtorzi
+### Other information about Loqtorzi
 
 Loqtorzi received a marketing authorisation valid throughout the EU on 19 September 2024.
 
@@ -114,7 +114,7 @@ English (EN) (186.44 KB - PDF)
 
 [View](/en/documents/overview/loqtorzi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-859)
+[Other languages (22)](#file-language-dropdown-779)
 
 български (BG) (183.83 KB - PDF)
 
@@ -146,7 +146,7 @@ Deutsch (DE) (160.68 KB - PDF)
 
 [View](/de/documents/overview/loqtorzi-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (154.02 KB - PDF)
+eesti (ET) (154.02 KB - PDF)
 
 **First published:** 24/09/2024
 
@@ -176,13 +176,13 @@ italiano (IT) (155.04 KB - PDF)
 
 [View](/it/documents/overview/loqtorzi-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (185.77 KB - PDF)
+latviešu (LV) (185.77 KB - PDF)
 
 **First published:** 24/09/2024
 
 [View](/lv/documents/overview/loqtorzi-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (178.47 KB - PDF)
+lietuvių (LT) (178.47 KB - PDF)
 
 **First published:** 24/09/2024
 
@@ -236,7 +236,7 @@ slovenščina (SL) (176.2 KB - PDF)
 
 [View](/sl/documents/overview/loqtorzi-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (153.73 KB - PDF)
+suomi (FI) (153.73 KB - PDF)
 
 **First published:** 24/09/2024
 
@@ -260,167 +260,168 @@ English (EN) (672.81 KB - PDF)
 
 Loqtorzi : EPAR - Product information
 
-English (EN) (529.5 KB - PDF)
+English (EN) (594.91 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/en/documents/product-information/loqtorzi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-137)
+[Other languages (24)](#file-language-dropdown-737)
 
-български (BG) (685.89 KB - PDF)
+български (BG) (748.76 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/bg/documents/product-information/loqtorzi-epar-product-information_bg.pdf)
 
-español (ES) (616.35 KB - PDF)
+español (ES) (690.07 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/es/documents/product-information/loqtorzi-epar-product-information_es.pdf)
 
-čeština (CS) (668.9 KB - PDF)
+čeština (CS) (748.67 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/cs/documents/product-information/loqtorzi-epar-product-information_cs.pdf)
 
-dansk (DA) (589.7 KB - PDF)
+dansk (DA) (679.14 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/da/documents/product-information/loqtorzi-epar-product-information_da.pdf)
 
-Deutsch (DE) (610.7 KB - PDF)
+Deutsch (DE) (666.43 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/de/documents/product-information/loqtorzi-epar-product-information_de.pdf)
 
-eesti keel (ET) (580.5 KB - PDF)
+eesti (ET) (663.83 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/et/documents/product-information/loqtorzi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (674.13 KB - PDF)
+ελληνικά (EL) (759.77 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/el/documents/product-information/loqtorzi-epar-product-information_el.pdf)
 
-français (FR) (605.12 KB - PDF)
+français (FR) (674.27 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/fr/documents/product-information/loqtorzi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (659.98 KB - PDF)
+hrvatski (HR) (742.95 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/hr/documents/product-information/loqtorzi-epar-product-information_hr.pdf)
 
-íslenska (IS) (578.72 KB - PDF)
+italiano (IT) (667.88 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
-
-[View](/is/documents/product-information/loqtorzi-epar-product-information_is.pdf)
-
-italiano (IT) (592.48 KB - PDF)
-
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/it/documents/product-information/loqtorzi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (667.25 KB - PDF)
+latviešu (LV) (753.76 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/lv/documents/product-information/loqtorzi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (618.12 KB - PDF)
+lietuvių (LT) (685.11 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/lt/documents/product-information/loqtorzi-epar-product-information_lt.pdf)
 
-magyar (HU) (679.21 KB - PDF)
+magyar (HU) (758.61 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/hu/documents/product-information/loqtorzi-epar-product-information_hu.pdf)
 
-Malti (MT) (638.01 KB - PDF)
+Malti (MT) (702.76 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/mt/documents/product-information/loqtorzi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (590.15 KB - PDF)
+Nederlands (NL) (654.92 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/nl/documents/product-information/loqtorzi-epar-product-information_nl.pdf)
 
-norsk (NO) (573.93 KB - PDF)
+polski (PL) (831.77 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
-
-[View](/no/documents/product-information/loqtorzi-epar-product-information_no.pdf)
-
-polski (PL) (746.08 KB - PDF)
-
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/pl/documents/product-information/loqtorzi-epar-product-information_pl.pdf)
 
-português (PT) (585.16 KB - PDF)
+português (PT) (659.17 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/pt/documents/product-information/loqtorzi-epar-product-information_pt.pdf)
 
-română (RO) (662.73 KB - PDF)
+română (RO) (726.87 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/ro/documents/product-information/loqtorzi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (684.13 KB - PDF)
+slovenčina (SK) (752.98 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/sk/documents/product-information/loqtorzi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (702.69 KB - PDF)
+slovenščina (SL) (751.31 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/sl/documents/product-information/loqtorzi-epar-product-information_sl.pdf)
 
-Suomi (FI) (584.82 KB - PDF)
+suomi (FI) (672.78 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/fi/documents/product-information/loqtorzi-epar-product-information_fi.pdf)
 
-svenska (SV) (585.24 KB - PDF)
+svenska (SV) (660.78 KB - PDF)
 
-**First published:** 24/09/2024 **Last updated:** 07/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
 
 [View](/sv/documents/product-information/loqtorzi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000341695
+Íslenska (IS) (660.24 KB - PDF)
 
-06/05/2026
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
+
+[View](/is/documents/product-information/loqtorzi-epar-product-information_is.pdf)
+
+norsk (NO) (639.25 KB - PDF)
+
+**First published:** 24/09/2024 **Last updated:** 04/08/2026
+
+[View](/no/documents/product-information/loqtorzi-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000360410
+
+31/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -438,7 +439,7 @@ English (EN) (44.86 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/loqtorzi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-897)
+[Other languages (24)](#file-language-dropdown-163)
 
 български (BG) (55.66 KB - PDF)
 
@@ -470,7 +471,7 @@ Deutsch (DE) (49.52 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/loqtorzi-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (46.15 KB - PDF)
+eesti (ET) (46.15 KB - PDF)
 
 **First published:** 24/09/2024
 
@@ -494,25 +495,19 @@ hrvatski (HR) (65.53 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/loqtorzi-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (47.69 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/is/documents/all-authorised-presentations/loqtorzi-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (46.48 KB - PDF)
 
 **First published:** 24/09/2024
 
 [View](/it/documents/all-authorised-presentations/loqtorzi-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (63.84 KB - PDF)
+latviešu (LV) (63.84 KB - PDF)
 
 **First published:** 24/09/2024
 
 [View](/lv/documents/all-authorised-presentations/loqtorzi-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (63.24 KB - PDF)
+lietuvių (LT) (63.24 KB - PDF)
 
 **First published:** 24/09/2024
 
@@ -535,12 +530,6 @@ Nederlands (NL) (47.8 KB - PDF)
 **First published:** 24/09/2024
 
 [View](/nl/documents/all-authorised-presentations/loqtorzi-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (49.33 KB - PDF)
-
-**First published:** 24/09/2024
-
-[View](/no/documents/all-authorised-presentations/loqtorzi-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (68.46 KB - PDF)
 
@@ -572,7 +561,7 @@ slovenščina (SL) (49.82 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/loqtorzi-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (49.45 KB - PDF)
+suomi (FI) (49.45 KB - PDF)
 
 **First published:** 24/09/2024
 
@@ -584,28 +573,31 @@ svenska (SV) (47.82 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/loqtorzi-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (47.69 KB - PDF)
+
+**First published:** 24/09/2024
+
+[View](/is/documents/all-authorised-presentations/loqtorzi-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (49.33 KB - PDF)
+
+**First published:** 24/09/2024
+
+[View](/no/documents/all-authorised-presentations/loqtorzi-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Loqtorzi
-
-Active substance
-
-toripalimab
-
-International non-proprietary name (INN) or common name
-
-toripalimab
-
-Therapeutic area (MeSH)
-
-- Nasopharyngeal Carcinoma
-- Esophageal Squamous Cell Carcinoma
-
-Anatomical therapeutic chemical (ATC) code
-
-L01FF13
+- **Name of medicine**
+    - Loqtorzi
+- **Active substance**
+    - toripalimab
+- **International non-proprietary name (INN) or common name**
+    - toripalimab
+- **Therapeutic area (MeSH)**
+        - Nasopharyngeal Carcinoma
+        - Esophageal Squamous Cell Carcinoma
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01FF13
 
 ### Pharmacotherapeutic group
 
@@ -619,31 +611,18 @@ Loqtorzi, in combination with cisplatin and paclitaxel, is indicated for the fir
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006120
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Topalliance Biosciences Europe Limited
-
-Ground Floor Two Dockland Central Guild Street I.F.S.C. Dublin 1 Co. Dublin D01 K2C5 Ireland
-
-Opinion adopted
-
-25/07/2024
-
-Marketing authorisation issued
-
-19/09/2024
-
-Revision
-
-4
+- **EMA product number**
+    - EMEA/H/C/006120
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Topalliance Biosciences Europe Limited Ground Floor  Two Dockland Central  Guild Street  I.F.S.C.  Dublin 1  Co. Dublin  D01 K2C5  Ireland
+- **Opinion adopted**
+    - 25/07/2024
+- **Marketing authorisation issued**
+    - 19/09/2024
+- **Revision**
+    - 5
 
 ## Assessment history
 
@@ -651,13 +630,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Loqtorzi : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (153.98 KB - PDF)
+English (EN) (161.53 KB - PDF)
 
-**First published:** 08/04/2025 **Last updated:** 07/05/2026
+**First published:** 08/04/2025 **Last updated:** 04/08/2026
 
 [View](/en/documents/procedural-steps-after/loqtorzi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -671,7 +650,7 @@ English (EN) (166.26 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/loqtorzi-psusa-00011094-202506-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Loqtorzi : EPAR - Public assessment report
 
@@ -701,6 +680,6 @@ English (EN) (155.2 KB - PDF)
 
 **This page was last updated on**
 
-07/05/2026
+04/08/2026
 
 ## Share this page

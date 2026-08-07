@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-15 14:17:05
+document_datetime: 2026-08-03 15:58:08
 document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/palsonify-epar-product-information_en.pdf
 document_name: palsonify-epar-product-information_en.pdf
 version: success
-processing_time: 7.9642638
-conversion_datetime: 2026-06-25 09:11:00.782293
+processing_time: 7.9407742
+conversion_datetime: 2026-08-07 14:23:28.875199
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -398,7 +398,7 @@ Consistent with the paltusotine mechanism of action, target GH levels of &lt; 1.
 
 Table 4: Study PATHFNDR-2 proportion of patients with GH &lt; 1.0×ULN
 
-| GH<1.0×ULN                                                         | paltusotine (N=54)   | placebo (N=57)   | p-value   |
+| GH < 1.0×ULN                                                       | paltusotine (N=54)   | placebo (N=57)   | p-value   |
 |--------------------------------------------------------------------|----------------------|------------------|-----------|
 | Proportion of patients who achieved GH < 1.0×ULN at week 22, n (%) | 31 (57.4%)           | 10 (17.5%)       | < 0.0001  |
 | Not medically treated or previously treated, n/N (%)               | 21/40 (52.5%)        | 3/42 (7.1%)      | < 0.0001  |
@@ -723,7 +723,7 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Crinetics Pharmaceuticals Europe GmbH Barbara Strozzilaan 201 1083HN Amsterdam Netherlands
+Crinetics Pharmaceuticals Europe GmbH Barbara Strozzilaan 201 1083 HN Amsterdam Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -817,9 +817,7 @@ Lot
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
-
-NN
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -835,7 +833,7 @@ Palsonify 30 mg film-coated tablets paltusotine
 
 Each film-coated tablet contains 30 mg paltusotine (as hydrochloride).
 
-3. LIST OF EXCIPIENTS
+## 3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -845,15 +843,13 @@ Film-coated tablets
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Oral use
-
-Read the package leaflet before use.
+Oral use. Swallow the tablets whole. Read the package leaflet before use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
@@ -865,11 +861,9 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Crinetics Pharmaceuticals Europe GmbH Barbara Strozzilaan 201 1083HN Amsterdam Netherlands
+Crinetics Pharmaceuticals Europe GmbH Barbara Strozzilaan 201 1083 HN Amsterdam Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -957,15 +951,11 @@ Lot
 
 16. INFORMATION IN BRAILLE
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC SN
-
-NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -985,10 +975,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-* Keep this leaflet. You may need to read it again.
-* If you have any further questions, ask your doctor, or pharmacist or nurse.
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor, or pharmacist or nurse.
 - -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-* If you get any side effects, talk to your doctor, or pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- -If you get any side effects, talk to your doctor, or pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1021,10 +1011,10 @@ Talk to your doctor, pharmacist or nurse before taking Palsonify, or during trea
 
 <div style=\"page-break-after: always\"></div>
 
-* Heart problems: Palsonify can affect the rate of your heartbeat (see section 2 Other medicines and Palsonify).
-* Gallbladder problems: Palsonify can cause gallstones to form (with sudden pain in the upper right area of your belly (abdomen), sudden pain in your right shoulder or between your shoulder blades, yellowing of your skin or the whites of your eyes, or pale stools).
-* Diabetes: Palsonify may affect your blood sugar. Increased blood sugar levels may occur. Therefore, your doctor may recommend monitoring blood sugar levels and treatment of diabetes (see section 2 Other medicines and Palsonify).
-* Ever had lack of vitamin B12: Medicines that target somatostatin receptor can decrease vitamin B12 levels in the blood, your doctor may wish to check your vitamin B12 level periodically during treatment with Palsonify.
+- -Heart problems: Palsonify can affect the rate of your heartbeat (see section 2 Other medicines and Palsonify).
+- -Gallbladder problems: Palsonify can cause gallstones to form (with sudden pain in the upper right area of your belly (abdomen), sudden pain in your right shoulder or between your shoulder blades, yellowing of your skin or the whites of your eyes, or pale stools).
+- -Diabetes: Palsonify may affect your blood sugar. Increased blood sugar levels may occur. Therefore, your doctor may recommend monitoring blood sugar levels and treatment of diabetes (see section 2 Other medicines and Palsonify).
+- -Ever had lack of vitamin B12: Medicines that target somatostatin receptor can decrease vitamin B12 levels in the blood, your doctor may wish to check your vitamin B12 level periodically during treatment with Palsonify.
 
 ## Monitoring during treatment
 
@@ -1042,23 +1032,23 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 Tell your doctor if you are taking any of the following medicines, since their activity or side effects may change when used together with Palsonify. If you take these medicines, your doctor may need to adjust the doses of these medicines:
 
-* medicines called beta blockers (e.g. atenolol, metoprolol, carvedilol, nebivolol), and cardiac glycosides (e.g. digoxin) used to treat high blood pressure or heart diseases
-* fluoxetine (an antidepressant)
-* dextromethorphan (a cough suppressant)
-* tacrolimus (a medicine to suppress transplant rejection)
-* insulin or other medicines to treat diabetes
+- -medicines called beta blockers (e.g. atenolol, metoprolol, carvedilol, nebivolol), and cardiac glycosides (e.g. digoxin) used to treat high blood pressure or heart diseases
+- -fluoxetine (an antidepressant)
+- -dextromethorphan (a cough suppressant)
+- -tacrolimus (a medicine to suppress transplant rejection)
+- -insulin or other medicines to treat diabetes
 
 Tell your doctor if you are taking the following medicines as they may reduce the effectiveness of Palsonify by reducing the amount of Palsonify in the blood:
 
-* carbamazepine and phenytoin (used to treat seizures and epilepsy)
-* apalutamide (used to treat prostate cancer)
-* efavirenz (used to treat HIV)
-* prednisone (used to help suppress the body's immune system)
-* lansoprazole and similar medicines (used to control or reduce stomach acid)
+- -carbamazepine and phenytoin (used to treat seizures and epilepsy)
+- -apalutamide (used to treat prostate cancer)
+- -efavirenz (used to treat HIV)
+- -prednisone (used to help suppress the body's immune system)
+- -lansoprazole and similar medicines (used to control or reduce stomach acid)
 
 Tell your doctor if you are taking the following medicine as Palsonify may reduce the effectiveness of this medicine. If you take this medicine, your doctor may need to adjust the doses of this medicine:
 
-* cyclosporine (a medicine to suppress transplant rejection, treat severe skin diseases, severe eye and joint inflammation)
+- -cyclosporine (a medicine to suppress transplant rejection, treat severe skin diseases, severe eye and joint inflammation)
 
 If you are not sure if the above applies to you, ask your doctor or pharmacist.
 
@@ -1135,7 +1125,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. By reporting side effects, you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Palsonify
 
@@ -1151,17 +1141,13 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Palsonify contains
 
-* The active substance is paltusotine (as paltusotine hydrochloride).
+-The active substance is paltusotine (as paltusotine hydrochloride). Palsonify 20 mg film-coated tablets contain 20 mg of paltusotine. Palsonify 30 mg film-coated tablets contain 30 mg of paltusotine.
 
-Palsonify 20 mg film-coated tablets contain 20 mg of paltusotine.
-
-Palsonify 30 mg film-coated tablets contain 30 mg of paltusotine.
-
-* The other ingredients are:
+- -The other ingredients are:
 
 Tablet core: copovidone, microcrystalline cellulose, crospovidone, anhydrous colloidal silica, magnesium stearate, mannitol (E 421).
 
-## Film-coating:
+Film-coating:
 
 Palsonify 20 mg film-coated tablets : Hypromellose, titanium dioxide (E 171), triacetin (E 1518), yellow iron oxide (E 172), red iron oxide (E 172).
 
@@ -1181,9 +1167,11 @@ Each bottle contains 60 film-coated tablets and a silica gel desiccant. Each car
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Crinetics Pharmaceuticals Europe GmbH Barbara Strozzilaan 201 1083HN Amsterdam Netherlands
+Crinetics Pharmaceuticals Europe GmbH Barbara Strozzilaan 201 1083 HN Amsterdam Netherlands
 
-This leaflet was last revised in
+## This leaflet was last revised in
+
+June 2026
 
 ## Other sources of information
 

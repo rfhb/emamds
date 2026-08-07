@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-16 08:29:52
-document_pages: 73
+document_datetime: 2026-08-06 16:43:23
+document_pages: 74
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cholib-epar-product-information_en.pdf
 document_name: cholib-epar-product-information_en.pdf
 version: success
-processing_time: 22.184754
-conversion_datetime: 2026-01-03 13:09:34.636693
+processing_time: 21.0561475
+conversion_datetime: 2026-08-07 14:34:52.292096
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -119,7 +119,7 @@ Patients carrying the SLCO1B1 gene allele (c.521T&gt;C) coding for a less active
 
 There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use. IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; positive antiHMG CoA reductase antibody; muscle biopsy showing necrotizing myopathy; and improvement with immunosuppressive agents. Additional neuromuscular and serologic testing may be necessary. Treatment with immunosuppressive agents may be required. Consider risk of IMNM carefully prior to initiation of another statin. If therapy is initiated with another statin, monitor for signs and symptoms of IMNM.
 
-Measures to reduce the risk of myopathy caused by medicinal product interactions
+## Measures to reduce the risk of myopathy caused by medicinal product interactions
 
 The risk of muscle toxicity may be increased if Cholib is administered with another fibrate, statin, niacin, fusidic acid or other specific concomitant substances (for specific interactions see section 4.5). Physicians contemplating combined therapy with Cholib and lipidmodifying doses (≥ 1 g/day) of niacin (nicotinic acid) or medicinal products containing niacin should carefully weigh the potential benefits and risks and should carefully monitor patients for any signs and symptoms of muscle pain, tenderness, or weakness, particularly during the initial months of therapy and when the dose of either medicinal product is increased.
 
@@ -134,6 +134,8 @@ Cholib must not be co-administered with fusidic acid. There have been reports of
 <div style=\"page-break-after: always\"></div>
 
 Statin therapy may be re-introduced seven days after the last dose of fusidic acid. In exceptional circumstances, where prolonged systemic fusidic acid is needed e.g. for the treatment of severe infections, the need for co-administration of Cholib and fusidic acid should only be considered on a case by case basis and under close medical supervision.
+
+Cases of myopathy and/or rhabdomyolysis have been reported with HMG-CoA reductase inhibitors (e.g. simvastatin) co-administered with daptomycin. Caution should be used when prescribing HMGCoA reductase inhibitors with daptomycin, as either agent can cause myopathy and/or rhabdomyolysis when given alone. Consideration should be given to temporarily suspend Cholib in patients taking daptomycin unless the benefits of concomitant administration outweigh the risk. Consult the prescribing information of daptomycin to obtain further information about this potential interaction with HMG-CoA reductase inhibitors (e.g. simvastatin) and for further guidance related to monitoring (see section 4.5.).
 
 ## Creatine kinase measurement
 
@@ -164,6 +166,8 @@ If myopathy is suspected for any other reason, treatment should be discontinued.
 
 Therapy with Cholib should be temporarily stopped a few days prior to elective major surgery and when any major medical or surgical condition supervenes.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hepatic disorders
 
 Increases in transaminase levels have been reported in some patients treated with simvastatin or fenofibrate. In the majority of cases these elevations were transient, minor and asymptomatic without the need for treatment discontinuation.
@@ -171,8 +175,6 @@ Increases in transaminase levels have been reported in some patients treated wit
 Transaminase levels have to be monitored before treatment begins, every 3 months during the first 12 months of treatment and thereafter periodically. Attention should be paid to patients who develop increase in transaminase levels and therapy should be discontinued if aspartate aminotransferase (AST) or also known as serum glutamic oxaloacetic transaminase (SGOT) and alanine aminotransferase (ALT) or also known as serum glutamic pyruvic transaminase (SGPT) levels increase to more than 3 times the upper limit of the normal range.
 
 When symptoms indicative of hepatitis occur (e.g. jaundice, pruritus) and diagnosis is confirmed by laboratory testing, Cholib therapy should be discontinued.
-
-<div style=\"page-break-after: always\"></div>
 
 Cholib should be used with caution in patients who consume substantial quantities of alcohol.
 
@@ -200,6 +202,8 @@ Cases of interstitial lung disease have been reported with some statins and with
 
 Some evidence suggests that statins as a class raise blood glucose and in some patients, at high risk of future diabetes, may produce a level of hyperglycaemia where formal diabetes care is appropriate. This risk, however, is outweighed by the reduction in vascular risk with statins and therefore should not be a reason for stopping statin treatment. Patients at risk (fasting glucose 5.6 to 6.9 mmol/L, BMI&gt;30 kg/m 2 , raised triglycerides, hypertension) should be monitored both clinically and biochemically according to national guidelines.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Veno-thromboembolic events
 
 In the FIELD study, a statistically significant increase was reported in the incidence of pulmonary embolism (0.7% in the placebo group versus 1.1% in the fenofibrate group; p=0.022) and a statistically non significant increase in deep vein thrombosis (placebo 1.0% 48/4900 patients) versus fenofibrate 1.4% (67/4895); p=0.074. The increased risk of venous thrombotic events may be related to the increased homocysteine level, a risk factor for thrombosis and other unidentified factors. The clinical significance of this is not clear. Therefore, caution should be exercised in patients with history of pulmonary embolism.
@@ -207,8 +211,6 @@ In the FIELD study, a statistically significant increase was reported in the inc
 ## Myasthenia gravis
 
 In few cases, statins have been reported to induce de novo or aggravate pre-existing myasthenia gravis or ocular myasthenia (see section 4.8). Cholib should be discontinued in case of aggravation of symptoms. Recurrences when the same or a different statin was (re-) administered have been reported.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Excipients
 
@@ -236,6 +238,8 @@ CYP 3A4 inhibitors: fluconazole, verapamil, or diltiazem (see sections 4.3 and 4
 
 Consult the prescribing information of all concomitantly used drugs to obtain further information about their potential interactions with simvastatin and/or the potential for enzyme or transporter alterations and possible adjustments to dose and regimens.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Danazol
 
 The risk of myopathy and rhabdomyolysis is increased by concomitant administration of danazol with simvastatin. The dose of simvastatin should not exceed 10 mg daily in patients taking danazol. Therefore, the co-administration of Cholib with danazol is contraindicated (see section 4.3).
@@ -243,8 +247,6 @@ The risk of myopathy and rhabdomyolysis is increased by concomitant administrati
 ## Ciclosporin
 
 The risk of myopathy/rhabdomyolysis is increased by concomitant administration of ciclosporin with simvastatin. Although the mechanism is not fully understood, ciclosporin has been shown to increase the plasma exposure (AUC) to simvastatin acid, presumably due in part to inhibition of CYP 3A4 and OATP-1B1 transporter. Because the dose of simvastatin should not exceed 10 mg daily in patients taking ciclosporin, the co-administration of Cholib with ciclosporin is contraindicated (see section 4.3).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Amiodarone, amlodipine, diltiazem and verapamil
 
@@ -264,6 +266,10 @@ Therefore, the dose of Cholib should not exceed 145 mg/20 mg daily in patients t
 
 Concomitant administration of medicinal products that are inhibitors of BCRP, including products containing elbasvir or grazoprevir, may lead to increased plasma concentrations of simvastatin and an increased risk of myopathy (see sections 4.2 and 4.4).
 
+Concomitant use of simvastatin with ribociclib should be avoided.
+
+Concomitant administration of simvastatin with palbociclib is not recommended, because it may increase the risk of rhabdomyolysis.
+
 ## Other statins and fibrates
 
 Gemfibrozil increases the AUC of simvastatin acid by 1.9-fold, possibly due to inhibition of the glucuronidation pathway. The risk of myopathy and rhabdomyolysis is significantly increased by concomitant use of gemfibrozil with simvastatin. The risk of rhabdomyolysis is also increased in patients concomitantly receiving other fibrates or statins. Therefore, the co-administration of Cholib with gemfibrozil, other fibrates, or statins is contraindicated (see section 4.3).
@@ -274,6 +280,8 @@ Cases of myopathy/rhabdomyolysis have been associated with concomitant administr
 
 Physicians contemplating combined therapy with Cholib and lipidmodifying doses (≥ 1 g/day) of niacin (nicotinic acid) or medicinal products containing niacin should carefully weigh the potential benefits and risks and should carefully monitor patients for any signs and symptoms of muscle pain, tenderness, or weakness, particularly during the initial months of therapy and when the dose of either medicinal product is increased.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fusidic acid
 
 The risk of myopathy including rhabdomyolysis may be increased by the concomitant administration of systemic fusidic acid with statins. Co-administration of this combination may cause increased plasma concentrations of both agents. The mechanism of this interaction (whether it is pharmacodynamics or pharmacokinetic, or both) is yet unknown. There have been reports of rhabdomyolysis (including some fatalities) in patients receiving this combination.
@@ -282,15 +290,15 @@ If treatment with fusidic acid is necessary, Cholib treatment should be disconti
 
 ## Grapefruit juice
 
-Grapefruit juice inhibits CYP 3A4. Concomitant intake of large quantities (over 1 liter daily) of grapefruit juice and simvastatin resulted in a 7-fold increase in plasma exposure to simvastatin acid. Intake of 240 mL of grapefruit juice in the morning and simvastatin in the evening also resulted in
-
-<div style=\"page-break-after: always\"></div>
-
-a 1.9-fold increase in plasma exposure to simvastatin acid. Intake of grapefruit juice during treatment with Cholib should therefore be avoided.
+Grapefruit juice inhibits CYP 3A4. Concomitant intake of large quantities (over 1 liter daily) of grapefruit juice and simvastatin resulted in a 7-fold increase in plasma exposure to simvastatin acid. Intake of 240 mL of grapefruit juice in the morning and simvastatin in the evening also resulted in a 1.9-fold increase in plasma exposure to simvastatin acid. Intake of grapefruit juice during treatment with Cholib should therefore be avoided.
 
 ## Colchicine
 
 There have been reports of myopathy and rhabdomyolysis with the concomitant administration of colchicine and simvastatin in patients with renal insufficiency. Therefore, close clinical monitoring of such patients taking colchicine and Cholib is advised.
+
+## Daptomycin
+
+It should be considered to temporarily suspend simvastatin in patients taking daptomycin unless the benefits of concomitant administration outweigh the risk (see section 4.4).
 
 ## Vitamin K antagonists
 
@@ -310,6 +318,8 @@ Fenofibrate and simvastatin are not CYP 3A4 inhibitors or inducers. Therefore, C
 
 Fenofibrate and simvastatin are not inhibitors of CYP 2D6, CYP 2E1, or CYP 1A2. Fenofibrate is a mild to moderate inhibitor of CYP 2C9 and a weak inhibitor of CYP 2C19 and CYP 2A6.
 
+<div style=\"page-break-after: always\"></div>
+
 Patients receiving co-administration of Cholib and drugs metabolised by CYP 2C19, CYP 2A6, or especially CYP 2C9 with a narrow therapeutic index should be carefully monitored and, if necessary, dose adjustment of these drugs is recommended.
 
 ## Interaction between simvastatin and fenofibrate
@@ -320,27 +330,30 @@ In one study the AUC of the simvastatin acid (SVA), a major active metabolite of
 
 Whether fenofibrate had an effect on other active metabolites of simvastatin was not investigated.
 
-<div style=\"page-break-after: always\"></div>
-
 The exact mechanism of interaction is not known. In the available clinical data, the effect on LDL-C reduction was not considered to be significantly different to simvastatin monotherapy when LDL-C is controlled at the time of initiating treatment.
 
 The repeated administration of simvastatin 40 or 80 mg, the highest dose registered, did not affect the plasma levels of fenofibric acid at steady state.
 
 Prescribing recommendations for interacting substances are summarised in the table below (see also sections 4.2 and 4.3).
 
-| Interacting substances                                                                                                                                                                  | Prescribing recommendations                                                                                                                    |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Potent CYP 3A4 inhibitors: Itraconazole Ketoconazole Fluconazole Posaconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors (e.g. nelfinavir) Nefazodone Cobicistat | Contraindicated with Cholib                                                                                                                    |
-| Danazol Ciclosporin                                                                                                                                                                     | Contraindicated with Cholib                                                                                                                    |
-| Gemfibrozil, Other statins and fibrates                                                                                                                                                 | Contraindicated with Cholib                                                                                                                    |
-| Amiodarone Verapamil Diltiazem Amlodipine                                                                                                                                               | Do not exceed one Cholib 145 mg/20 mg per day, unless clinical benefit outweigh the risk                                                       |
-| Elbasvir Grazoprevir                                                                                                                                                                    | Do not exceed one Cholib 145 mg/20 mg per day                                                                                                  |
-| Glecaprevir Pibrentasvir                                                                                                                                                                | Contraindicated with Cholib                                                                                                                    |
-| Niacin (nicotinic acid) ≥ 1 g/day                                                                                                                                                       | Avoid with Cholib unless clinical benefit outweigh the risk Monitor patients for any signs and symptoms of muscle pain, tenderness or weakness |
-| Fusidic acid                                                                                                                                                                            | Patients should be closely monitored. Temporary suspension of Cholib treatment may be considered                                               |
-| Grapefruit juice                                                                                                                                                                        | Avoid when taking Cholib                                                                                                                       |
-| Vitamin K antagonists                                                                                                                                                                   | Adjust the dose of these oral anticoagulants according to INR monitoring                                                                       |
-| Glitazones                                                                                                                                                                              | Monitor HDL-C and stop either therapy (glitazone or Cholib) if HDL-C is too low                                                                |
+| Interacting substances                                                                                                                                                                  | Prescribing recommendations                                                              |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Potent CYP 3A4 inhibitors: Itraconazole Ketoconazole Fluconazole Posaconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors (e.g. nelfinavir) Nefazodone Cobicistat | Contraindicated with Cholib                                                              |
+| Danazol Ciclosporin                                                                                                                                                                     | Contraindicated with Cholib                                                              |
+| Gemfibrozil, Other statins and fibrates                                                                                                                                                 | Contraindicated with Cholib                                                              |
+| Amiodarone Verapamil Diltiazem Amlodipine                                                                                                                                               | Do not exceed one Cholib 145 mg/20 mg per day, unless clinical benefit outweigh the risk |
+| Elbasvir Grazoprevir                                                                                                                                                                    | Do not exceed one Cholib 145 mg/20 mg per day                                            |
+| Glecaprevir Pibrentasvir                                                                                                                                                                | Contraindicated with Cholib                                                              |
+| Niacin (nicotinic acid) ≥ 1 g/day                                                                                                                                                       | Avoid with Cholib unless clinical benefit outweigh the risk                              |
+
+<div style=\"page-break-after: always\"></div>
+
+|                       | Monitor patients for any signs and symptoms of muscle pain, tenderness or weakness               |
+|-----------------------|--------------------------------------------------------------------------------------------------|
+| Fusidic acid          | Patients should be closely monitored. Temporary suspension of Cholib treatment may be considered |
+| Grapefruit juice      | Avoid when taking Cholib                                                                         |
+| Vitamin K antagonists | Adjust the dose of these oral anticoagulants according to INR monitoring                         |
+| Glitazones            | Monitor HDL-C and stop either therapy (glitazone or Cholib) if HDL-C is too low                  |
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -352,11 +365,7 @@ As simvastatin is contraindicated during pregnancy (see hereafter), Cholib is co
 
 ## Fenofibrate
 
-There are no adequate data from the use of fenofibrate in pregnant women. Animal studies have shown embryo-toxic effects at doses in the range of maternal toxicity (see section 5.3). The potential
-
-<div style=\"page-break-after: always\"></div>
-
-risk for humans is unknown. Therefore, fenofibrate should only be used during pregnancy after a careful benefit/risk assessment.
+There are no adequate data from the use of fenofibrate in pregnant women. Animal studies have shown embryo-toxic effects at doses in the range of maternal toxicity (see section 5.3). The potential risk for humans is unknown. Therefore, fenofibrate should only be used during pregnancy after a careful benefit/risk assessment.
 
 ## Simvastatin
 
@@ -382,6 +391,8 @@ Dizziness has been reported rarely in post-marketing experience with simvastatin
 
 The most commonly reported adverse drug reactions (ADRs) during Cholib therapy are increased blood creatinine, upper respiratory tract infection, increased platelet count, gastroenteritis and increased alanine- aminotransferase.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Tabulated list of adverse reactions
 
 During four double blind clinical trials of 24-week duration 1,237 patients have received treatment with co-administered fenofibrate and simvastatin. In a pooled analysis of these four trials, the rate of discontinuation due to treatment emergent adverse reactions was 5.0% (51 subjects on 1012) after 12 weeks of treatment with fenofibrate and simvastatin 145 mg/20 mg per day and 1.8% (4 subjects on 225) after 12 weeks of treatment with fenofibrate and simvastatin 145 mg/40 mg per day.
@@ -393,8 +404,6 @@ The adverse reactions of Cholib are in line with what is known from its two acti
 The frequencies of adverse reactions are ranked according to the following: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data).
 
 Adverse reactions observed with the co-administration of fenofibrate and simvastatin (Cholib)
-
-<div style=\"page-break-after: always\"></div>
 
 | System Organ Class                     | Adverse reactions                                     | Frequency   |
 |----------------------------------------|-------------------------------------------------------|-------------|
@@ -410,61 +419,61 @@ Blood creatinine increased: 10% of patient had a creatinine increase from baseli
 
 Additional information on the individual active substances of the fixed dose combination Additional adverse reactions associated with the use of medicinal products containing simvastatin or fenofibrate observed in clinical trials and postmarketing experience that may potentially occur with Cholib are listed below. Frequency categories are based on information available from simvastatin and fenofibrate Summary of Product Characteristics available in the EU.
 
-| System Organ Class                              | Adverse reactions (fenofibrate)                                                               | Adverse reactions (simvastatin)                  | Frequency   |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------|-------------|
-| Blood and lymphatic system disorders            | Haemoglobin decreased White blood cell count decreased                                        |                                                  | rare        |
-|                                                 |                                                                                               | Anaemia                                          | rare        |
-| Immune system                                   | Hypersensitivity                                                                              |                                                  | rare        |
-| disorders                                       |                                                                                               | Anaphylaxis                                      | very rare   |
-| Metabolism and nutrition disorders              |                                                                                               | Diabetes Mellitus****                            | not known   |
-| Psychiatric disorders                           |                                                                                               | Insomnia                                         | very rare   |
-|                                                 |                                                                                               | Sleep disorder, including nightmares, depression | not known   |
-| Nervous system disorders                        | Headache                                                                                      |                                                  | uncommon    |
-| Nervous system disorders                        |                                                                                               | Paresthesia, dizziness, peripheral neuropathy    | rare        |
-| Nervous system disorders                        |                                                                                               | Memory impairment/ Memory loss                   | rare        |
-|                                                 |                                                                                               | Myasthenia gravis                                | not known   |
-| Eye disorders                                   |                                                                                               | Vision blurred, visual impairment                | rare        |
-|                                                 |                                                                                               | Ocular myasthenia                                | not known   |
-| Vascular disorders                              | Thromboembolism (pulmonary embolism, deep vein thrombosis)*                                   |                                                  | uncommon    |
-| Respiratory, thoracic and mediastinal disorders |                                                                                               | Interstitial lung disease                        | not known   |
-| Gastrointestinal disorders                      | Gastrointestinal signs and symptoms (abdominal pain, nausea, vomiting, diarrhoea, flatulence) |                                                  | common      |
+| System Organ Class                   | Adverse reactions (fenofibrate)                        | Adverse reactions (simvastatin)   | Frequency   |
+|--------------------------------------|--------------------------------------------------------|-----------------------------------|-------------|
+| Blood and lymphatic system disorders | Haemoglobin decreased White blood cell count decreased |                                   | rare        |
+|                                      |                                                        | Anaemia                           | rare        |
+| Immune system                        | Hypersensitivity                                       |                                   | rare        |
+| disorders                            |                                                        | Anaphylaxis                       | very rare   |
+| Metabolism and nutrition disorders   |                                                        | Diabetes Mellitus****             | not known   |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                           | Adverse reactions (fenofibrate)                                                                                   | Adverse reactions (simvastatin)                                                | Frequency   |
-|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------|
-|                                              | Pancreatitis*                                                                                                     |                                                                                | uncommon    |
-|                                              |                                                                                                                   | Constipation, dyspepsia                                                        | rare        |
-| Hepatobiliary disorders                      | Transaminases increased                                                                                           |                                                                                | common      |
-| Hepatobiliary disorders                      | Cholelithiasis                                                                                                    |                                                                                | uncommon    |
-| Hepatobiliary disorders                      | Complications of cholelithiasis (e.g. cholecystitis, cholangitis, biliary colic etc)                              |                                                                                | not known   |
-| Hepatobiliary disorders                      |                                                                                                                   | Gamma-glutamyltransferase increase                                             | rare        |
-| Hepatobiliary disorders                      |                                                                                                                   | Hepatitis/jaundice Hepatic failure                                             | very rare   |
-| Skin and subcutaneous tissue disorders       | Severe cutaneous reactions (e.g erythema multiforme, Ste vens-Johnson syndrome, toxic epidermal necrolysis, etc.) |                                                                                | not known   |
-| Skin and subcutaneous tissue disorders       | Cutaneous hypersensitivity (e.g. Rash, pruritus, urticaria)                                                       |                                                                                | uncommon    |
-| Skin and subcutaneous tissue disorders       | Alopecia                                                                                                          |                                                                                | rare        |
-| Skin and subcutaneous tissue disorders       | Photosensitivity reactions                                                                                        |                                                                                | rare        |
-| Skin and subcutaneous tissue disorders       |                                                                                                                   | Hypersensitivity syndrome ***                                                  | rare        |
-| Skin and subcutaneous tissue disorders       |                                                                                                                   | Lichenoid drug eruptions                                                       | very rare   |
-| Musculoskeletal, connective tissue disorders | Muscle disorders (e.g. myalgia, myositis, muscular spasms and weakness)                                           |                                                                                | uncommon    |
-| Musculoskeletal, connective tissue disorders | Rhabdomyolysis with or without renal failure (see section 4.4),                                                   |                                                                                | rare        |
-| Musculoskeletal, connective tissue disorders |                                                                                                                   | Myopathy** Immune-mediated necrotizing myopathy (see section 4.4) Tendinopathy | rare unkown |
-| Musculoskeletal, connective tissue disorders |                                                                                                                   | Muscle rupture                                                                 | very rare   |
-| Reproductive system and breast disorders     | Sexual dysfunction                                                                                                |                                                                                | uncommon    |
-| Reproductive system and breast disorders     |                                                                                                                   | Erectile dysfunction                                                           | not known   |
-| General disorders and                        |                                                                                                                   | Gynecomastia                                                                   | very rare   |
-| administration site conditions               |                                                                                                                   | Asthenia                                                                       | rare        |
-| Investigations                               | Blood homocysteine level increased (see section 4.4)*****                                                         |                                                                                | very common |
-| Investigations                               | Blood urea increased                                                                                              |                                                                                | rare        |
-| Investigations                               |                                                                                                                   | Blood alkaline phosphatase increased                                           | rare        |
+| System Organ Class                              | Adverse reactions (fenofibrate)                                                                                   | Adverse reactions (simvastatin)                  | Frequency   |
+|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------|
+| Psychiatric disorders                           |                                                                                                                   | Insomnia                                         | very rare   |
+| Psychiatric disorders                           |                                                                                                                   | Sleep disorder, including nightmares, depression | not known   |
+| Nervous system disorders                        | Headache                                                                                                          |                                                  | uncommon    |
+| Nervous system disorders                        |                                                                                                                   | Paresthesia, dizziness, peripheral neuropathy    | rare        |
+| Nervous system disorders                        |                                                                                                                   | Memory impairment/ Memory loss                   | rare        |
+| Nervous system disorders                        |                                                                                                                   | Myasthenia gravis                                | not known   |
+| Eye disorders                                   |                                                                                                                   | Vision blurred, visual impairment                | rare        |
+| Eye disorders                                   |                                                                                                                   | Ocular myasthenia                                | not known   |
+| Vascular disorders                              | Thromboembolism (pulmonary embolism, deep vein thrombosis)*                                                       |                                                  | uncommon    |
+| Respiratory, thoracic and mediastinal disorders |                                                                                                                   | Interstitial lung disease                        | not known   |
+| Gastrointestinal disorders                      | Gastrointestinal signs and symptoms (abdominal pain, nausea, vomiting, diarrhoea, flatulence)                     |                                                  | common      |
+| Gastrointestinal disorders                      | Pancreatitis*                                                                                                     |                                                  | uncommon    |
+| Gastrointestinal disorders                      |                                                                                                                   | Constipation, dyspepsia                          | rare        |
+| Hepatobiliary disorders                         | Transaminases increased                                                                                           |                                                  | common      |
+| Hepatobiliary disorders                         | Cholelithiasis                                                                                                    |                                                  | uncommon    |
+| Hepatobiliary disorders                         | Complications of cholelithiasis (e.g. cholecystitis, cholangitis, biliary colic etc)                              |                                                  | not known   |
+| Hepatobiliary disorders                         |                                                                                                                   | Gamma-glutamyltransferase increase               | rare        |
+| Hepatobiliary disorders                         |                                                                                                                   | Hepatitis/jaundice Hepatic failure               | very rare   |
+| Skin and subcutaneous tissue disorders          | Severe cutaneous reactions (e.g erythema multiforme, Ste vens-Johnson syndrome, toxic epidermal necrolysis, etc.) |                                                  | not known   |
+| Skin and subcutaneous tissue disorders          | Cutaneous hypersensitivity (e.g. Rash, pruritus, urticaria)                                                       |                                                  | uncommon    |
+| Skin and subcutaneous tissue disorders          | Alopecia                                                                                                          |                                                  | rare        |
+| Skin and subcutaneous tissue disorders          | Photosensitivity reactions                                                                                        |                                                  | rare        |
+| Skin and subcutaneous tissue disorders          |                                                                                                                   | Hypersensitivity syndrome ***                    | rare        |
+| Skin and subcutaneous tissue disorders          |                                                                                                                   | Lichenoid drug eruptions                         | very rare   |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class   | Adverse reactions (fenofibrate)   | Adverse reactions (simvastatin)             | Frequency   |
-|----------------------|-----------------------------------|---------------------------------------------|-------------|
-|                      |                                   | Blood creatine phosphokinase level increase | rare        |
-|                      |                                   | Glycosylated haemoglobin increased          | not known   |
-|                      |                                   | Blood glucose increased                     | not known   |
+| System Organ Class                                   | Adverse reactions (fenofibrate)                                         | Adverse reactions (simvastatin)                                                | Frequency   |
+|------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------|
+| Musculoskeletal, connective tissue disorders         | Muscle disorders (e.g. myalgia, myositis, muscular spasms and weakness) |                                                                                | uncommon    |
+| Musculoskeletal, connective tissue disorders         | Rhabdomyolysis with or without renal failure (see section 4.4),         |                                                                                | rare        |
+| Musculoskeletal, connective tissue disorders         |                                                                         | Myopathy** Immune-mediated necrotizing myopathy (see section 4.4) Tendinopathy | rare unkown |
+| Musculoskeletal, connective tissue disorders         |                                                                         | Muscle rupture                                                                 | very rare   |
+| Reproductive system and breast disorders             | Sexual dysfunction                                                      |                                                                                | uncommon    |
+| Reproductive system and breast disorders             |                                                                         | Erectile dysfunction                                                           | not known   |
+| Reproductive system and breast disorders             |                                                                         | Gynecomastia                                                                   | very rare   |
+| General disorders and administration site conditions |                                                                         | Asthenia                                                                       | rare        |
+| Investigations                                       | Blood homocysteine level increased (see section 4.4)*****               |                                                                                | very common |
+| Investigations                                       | Blood urea increased                                                    |                                                                                | rare        |
+| Investigations                                       |                                                                         | Blood alkaline phosphatase increased                                           | rare        |
+| Investigations                                       |                                                                         | Blood creatine phosphokinase level increase                                    | rare        |
+| Investigations                                       |                                                                         | Glycosylated haemoglobin increased                                             | not known   |
+| Investigations                                       |                                                                         | Blood glucose increased                                                        | not known   |
 
 ## Description of selected adverse reactions
 
@@ -483,6 +492,8 @@ Additional information on the individual active substances of the fixed dose com
 ## Hypersensitivity syndrome
 
 *** An apparent hypersensitivity syndrome has been reported rarely which has included some of the following features: angioedema, lupus-like syndrome, polymyalgia rheumatica, dermatomyositis, vasculitis, thrombocytopenia, eosinophilia, erythrocyte sedimentation rate (ESR) increased, arthritis and arthralgia, urticaria, photosensitivity, fever, flushing, dyspnoea and malaise.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Diabetes mellitus
 
@@ -506,8 +517,6 @@ No specific antidote is known. If an overdose is suspected, symptomatic treatmen
 
 Only anecdotal cases of fenofibrate overdose have been received. In the majority of cases no overdose symptoms were reported. Fenofibrate cannot be eliminated by haemodialysis.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Simvastatin
 
 A few cases of simvastatin overdose have been reported; the maximum dose taken was 3.6 g. All patients recovered without sequelae. There is no specific treatment in the event of overdose. In this case, symptomatic and supportive measures should be adopted.
@@ -530,6 +539,8 @@ Through activation of PPAR α , fenofibrate activates lipoprotein lipase product
 
 Simvastatin, which is an inactive lactone, is hydrolyzed in the liver to the corresponding active beta-hydroxyacid form which has a potent activity in inhibiting HMG-CoA reductase (3 hydroxy - 3 methylglutaryl CoA reductase). This enzyme catalyses the conversion of HMG-CoA to mevalonate, an early and rate-limiting step in the biosynthesis of cholesterol.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Cholib:
 
 Cholib contains fenofibrate and simvastatin, which have different modes of action as described above.
@@ -549,8 +560,6 @@ Simvastatin has been shown to reduce both normal and elevated LDL-C concentratio
 ## Cholib
 
 The respective effects of simvastatin and fenofibrate are complementary.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy and safety
 
@@ -574,23 +583,21 @@ Study 0502 was evaluated a constant dose of fenofibrate-simvastatin combination 
 
 At 12 weeks and 24 weeks the combination of fenofibrate 145 mg and simvastatin 40 mg (F145/S40) showed superiority over simvastatin 40 mg (S40) for TG reduction and HDL-C increase.
 
+<div style=\"page-break-after: always\"></div>
+
 The combination F145/S40 showed superiority over S40 for LDL-C reduction only at 24 weeks from a non-significant additional 1.2% reduction of LDL-C at 12 weeks to a statistically significant 7.2% reduction at 24 weeks.
 
 | TG, LDL-C and HDL-C Percent Change from Baseline to 12 and 24 Weeks Full Analysis Subject Sample   | TG, LDL-C and HDL-C Percent Change from Baseline to 12 and 24 Weeks Full Analysis Subject Sample   | TG, LDL-C and HDL-C Percent Change from Baseline to 12 and 24 Weeks Full Analysis Subject Sample   | TG, LDL-C and HDL-C Percent Change from Baseline to 12 and 24 Weeks Full Analysis Subject Sample   | TG, LDL-C and HDL-C Percent Change from Baseline to 12 and 24 Weeks Full Analysis Subject Sample   |
 |----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 | Lipid parameter (mmol/L)                                                                           | Feno 145+Simva 40 (N=221)                                                                          | Simva 40 (N=219)                                                                                   | Treatment Comparison*                                                                              | P-value                                                                                            |
-| After 12 weeks                                                                                     | %Change Mean (SD)                                                                                  | %Change Mean (SD)                                                                                  |                                                                                                    |                                                                                                    |
+| After 12 weeks                                                                                     | % Change Mean (SD)                                                                                 | % Change Mean (SD)                                                                                 |                                                                                                    |                                                                                                    |
 | TG                                                                                                 | -27.18 (36.18)                                                                                     | -0.74 (39.54)                                                                                      | -28.19 (-32.91, -23.13)                                                                            | <0.001                                                                                             |
 | LDL-C                                                                                              | -6.34 (23.53)                                                                                      | -5.21 (22.01)                                                                                      | -1.24 (-5.22, 2.7)                                                                                 | 0.539                                                                                              |
 | HDL-C                                                                                              | 5.77 (15.97)                                                                                       | -0.75 (12.98)                                                                                      | 6.46 (3.83, 9.09)                                                                                  | <0.001                                                                                             |
-| After 24 weeks                                                                                     | %Change Mean (SD)                                                                                  | %Change Mean (SD)                                                                                  |                                                                                                    |                                                                                                    |
+| After 24 weeks                                                                                     | % Change Mean (SD)                                                                                 | % Change Mean (SD)                                                                                 |                                                                                                    |                                                                                                    |
 | TG                                                                                                 | -22.66 (43.87)                                                                                     | 1.81 (36.64)                                                                                       | -27.56 (-32.90, -21.80)                                                                            | <0.001                                                                                             |
 | LDL-C                                                                                              | -3.98 (24.16)                                                                                      | 3.07 (30.01)                                                                                       | -7.21 (-12.20, -2.21)                                                                              | 0.005                                                                                              |
 | HDL-C                                                                                              | 5.08 (16.10)                                                                                       | 0.62 (13.21)                                                                                       | 4.65 (1.88, 7.42)                                                                                  | 0.001                                                                                              |
-
-<div style=\"page-break-after: always\"></div>
-
-- *Treatment Comparison consists of the difference between the LS-means for Feno 145 + Simva 40 an d Simva 40, as well as the corresponding 95% CI.
 
 The results on the biological parameters of interest at 24 weeks are presented in the table below. F145/S40 demonstrated statistically significant superiority on all parameters except on ApoA1 increase.
 
@@ -603,6 +610,8 @@ The results on the biological parameters of interest at 24 weeks are presented i
 | Apo B (g/L)                                                                                                                                                           | Feno 145 + Simva 40 Simva 40                                                                                                                                          | 204 194                                                                                                                                                               | -2.95 (21.88) 6.04 (26.29)                                                                                                                                            | -9.26 (-13.70, -4.82)                                                                                                                                                 | <0.001                                                                                                                                                                |
 | Apo B/Apo AI                                                                                                                                                          | Feno 145 + Simva 40 Simva 40                                                                                                                                          | 204 194                                                                                                                                                               | -4.93 (41.66) 3.08 (26.85)                                                                                                                                            | -8.29 (-15.18, -1.39)                                                                                                                                                 | 0.019                                                                                                                                                                 |
 | Fibrinogen* (g/L)                                                                                                                                                     | Feno 145 + Simva 40 Simva 40                                                                                                                                          | 202 192                                                                                                                                                               | -29 (0.04) 0.01 (0.05)                                                                                                                                                | -0.30 (-0.41, -0.19)                                                                                                                                                  | <0.001                                                                                                                                                                |
+
+<div style=\"page-break-after: always\"></div>
 
 ## Cholib 145/20
 
@@ -621,17 +630,17 @@ Study 0501 evaluated 2 different doses of fenofibrate-simvastatin combination co
 | Apo B/Apo AI                                                                 | -8.49 (24.42)                                                                | -7.94 (18.96)                                                                | -0.73 (-3.44,1.97)                                                           | 0.595                                                                        |
 | Fibrinogen (g/L)                                                             | -0.31 (0.70)                                                                 | -0.02 (0.70)                                                                 | -0.32 (-0.40,-0.24)                                                          | < 0.001                                                                      |
 
-<div style=\"page-break-after: always\"></div>
-
 After the first 12 weeks of treatment, the combination of fenofibrate 145 mg and simvastatin 20 mg showed superiority over simvastatin 40 mg for TG reduction and HDL-C increase but did not meet the criteria for non-inferiority on LDL-C. The combination of fenofibrate 145 mg with simvastatin 20 mg demonstrated statistically significant superiority on apoA1 increase and fibrinogen decrease compared to simvastatin 40 mg.
 
 ## Supportive study
 
-The Action to Control Cardiovascular Risk in Diabetes (ACCORD) lipid trial was a randomized placebo-controlled study of 5,518 patients with type 2 diabetes mellitus treated with fenofibrate in addition to simvastatin. Fenofibrate plus simvastatin therapy did not show any significant differences compared to simvastatin monotherapy in the composite primary outcome of non-fatal myocardial infarction, non-fatal stroke, and cardiovascular death (hazard ratio [HR] 0.92, 95% CI 0.79-1.08, p = 0.32; absolute risk reduction: 0.74%). In the pre-specified subgroup of dyslipidaemic patients, defined as those in the lowest tertile of HDL-C (≤ 34 mg/dl or 0.88 mmol/L) and highest tertile of TG (≥ 204 mg/dl or 2.3 mmol/L) at baseline, fenofibrate plus simvastatin therapy demonstrated a 31% relative reduction compared to simvastatin monotherapy for the composite primary outcome (hazard ratio [HR] 0.69, 95% CI 0.49-0.97, p=0.03; absolute risk reduction: 4.95%). Another prespecified subgroup analysis identified a statistically significant treatment-by-gender interaction (p=0.01) indicating a possible treatment benefit of combination therapy in men (p=0.037) but a potentially higher risk for the primary outcome in women treated with combination therapy compared to simvastatin monotherapy (p=0.069). This was not observed in the aforementioned subgroup of patients with dyslipidaemia but there was also no clear evidence of benefit in dyslipidaemic women treated with fenofibrate plus simvastatin, and a possible harmful effect in this subgroup could not be excluded.
+The Action to Control Cardiovascular Risk in Diabetes (ACCORD) lipid trial was a randomized placebo-controlled study of 5,518 patients with type 2 diabetes mellitus treated with fenofibrate in addition to simvastatin. Fenofibrate plus simvastatin therapy did not show any significant differences compared to simvastatin monotherapy in the composite primary outcome of non-fatal myocardial infarction, non-fatal stroke, and cardiovascular death (hazard ratio [HR] 0.92, 95% CI 0.79-1.08, p = 0.32; absolute risk reduction: 0.74%). In the pre-specified subgroup of dyslipidaemic patients, defined as those in the lowest tertile of HDLC (≤ 34 mg/dl or 0.88 mmol/L) and highest tertile of TG (≥ 204 mg/dl or 2.3 mmol/L) at baseline, fenofibrate plus simvastatin therapy demonstrated a 31% relative reduction compared to simvastatin monotherapy for the composite primary outcome (hazard ratio [HR] 0.69, 95% CI 0.49-0.97, p=0.03; absolute risk reduction: 4.95%). Another prespecified subgroup analysis identified a statistically significant treatment-by-gender interaction (p=0.01) indicating a possible treatment benefit of combination therapy in men (p=0.037) but a potentially higher risk for the primary outcome in women treated with combination therapy compared to simvastatin monotherapy (p=0.069). This was not observed in the aforementioned subgroup of patients with dyslipidaemia but there was also no clear evidence of benefit in dyslipidaemic women treated with fenofibrate plus simvastatin, and a possible harmful effect in this subgroup could not be excluded.
 
 ## Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Cholib in all subsets of the paediatric population in combined dyslipidaemia (see section 4.2 for information on paediatric use).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -649,8 +658,6 @@ Fenofibrate is water-insoluble and must be taken with food to facilitate absorpt
 
 Contrarily to previous fenofibrate formulations, the maximum plasma concentration and overall exposure of this formulation is independent from food intake.
 
-<div style=\"page-break-after: always\"></div>
-
 A food-effect study involving administration of this formulation of fenofibrate 145 mg tablets to healthy male and female subjects under fasting conditions and with a high fat meal indicated that exposure (AUC and Cmax) to fenofibric acid is not affected by food.
 
 Therefore, fenofibrate in Cholib may be taken without regard to meals.
@@ -663,7 +670,11 @@ Simvastatin is well absorbed and undergoes extensive hepatic first-pass extracti
 
 The pharmacokinetics of single and multiple doses of simvastatin showed that no accumulation of medicinal product occurred after multiple dosing.
 
-Distribution Fenofibric acid is strongly bound to plasma albumin (more than 99%). The protein binding of simvastatin and its active metabolite is &gt; 95%.
+## Distribution
+
+Fenofibric acid is strongly bound to plasma albumin (more than 99%). The protein binding of simvastatin and its active metabolite is &gt; 95%.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Biotransformation and Elimination
 
@@ -679,11 +690,7 @@ Simvastatin is a substrate of CYP 3A4 and of the efflux transporter BCRP. Simvas
 
 Effects of repeated administration of fenofibrate on the pharmacokinetics of single or multiple doses of simvastatin have been investigated in two small studies (n=12) followed by a larger one (n=85) in healthy subjects.
 
-In one study the AUC of the simvastatin acid (SVA), a major active metabolite of simvastatin, was reduced by 42% (90% CI 24%-56%) when a single dose of 40 mg simvastatin was combined with
-
-<div style=\"page-break-after: always\"></div>
-
-repeated administration of fenofibrate 160 mg. In the other study [Bergman et al, 2004] repeated co-administration of both simvastatin 80 mg and fenofibrate 160 mg led to a reduction in the AUC of the SVA of 36% (90% CI 30%-42%). In the larger study a reduction of 21% (90% CI 14%-27%) in AUC of SVA was observed after repeated co-administration of simvastatin 40 mg and fenofibrate 145 mg in the evening. This was not significantly different from the 29% (90% CI 22%-35%) reduction in AUC of SVA observed when co-administration was 12 hours apart: simvastatin 40 mg in the evening and fenofibrate 145 mg in the morning.
+In one study the AUC of the simvastatin acid (SVA), a major active metabolite of simvastatin, was reduced by 42% (90% CI 24%-56%) when a single dose of 40 mg simvastatin was combined with repeated administration of fenofibrate 160 mg. In the other study [Bergman et al, 2004] repeated co-administration of both simvastatin 80 mg and fenofibrate 160 mg led to a reduction in the AUC of the SVA of 36% (90% CI 30%-42%). In the larger study a reduction of 21% (90% CI 14%-27%) in AUC of SVA was observed after repeated co-administration of simvastatin 40 mg and fenofibrate 145 mg in the evening. This was not significantly different from the 29% (90% CI 22%-35%) reduction in AUC of SVA observed when co-administration was 12 hours apart: simvastatin 40 mg in the evening and fenofibrate 145 mg in the morning.
 
 Whether fenofibrate had an effect on other active metabolites of simvastatin was not investigated. The exact mechanism of interaction is not known. In the available clinical data, the effect on LDL-C reduction was not considered to be significantly different to simvastatin monotherapy when LDL-C is controlled at the time of initiating treatment.
 
@@ -696,6 +703,8 @@ Carriers of the SLCO1B1 gene c.521T&gt;C allele have lower OATP1B1 activity. The
 ## 5.3 Preclinical safety data
 
 No preclinical studies have been performed with the fixed dose combination Cholib.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Fenofibrate
 
@@ -715,11 +724,7 @@ No effects on fertility were detected in non-clinical reproductive toxicity stud
 
 ## Simvastatin
 
-Based on conventional animal studies regarding pharmacodynamics, repeated dose toxicity, genotoxicity and carcinogenicity, there are no other risks for the patient than may be expected on
-
-<div style=\"page-break-after: always\"></div>
-
-account of the pharmacological mechanism. At maximally tolerated doses in both the rat and the rabbit, simvastatin produced no fetal malformations, and had no effects on fertility, reproductive function or neonatal development.
+Based on conventional animal studies regarding pharmacodynamics, repeated dose toxicity, genotoxicity and carcinogenicity, there are no other risks for the patient than may be expected on account of the pharmacological mechanism. At maximally tolerated doses in both the rat and the rabbit, simvastatin produced no fetal malformations, and had no effects on fertility, reproductive function or neonatal development.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -727,33 +732,13 @@ account of the pharmacological mechanism. At maximally tolerated doses in both t
 
 ## Tablet core:
 
-Butylhydroxyanisole (E320)
-
-Lactose monohydrate
-
-Sodium laurilsulfate
-
-Starch, pregelatinised (maize)
-
-Docusate sodium
-
-Sucrose
-
-Citric acid monohydrate (E330)
-
-Hypromellose (E464)
-
-Crospovidone (E1202)
-
-Magnesium stearate (E572)
-
-Silicified microcrystalline cellulose (comprised of cellulose, microcrystalline and silica, colloidal anhydrous)
-
-Ascorbic acid (E300)
+Butylhydroxyanisole (E320) Lactose monohydrate Sodium laurilsulfate Starch, pregelatinised (maize) Docusate sodium Sucrose Citric acid monohydrate (E330) Hypromellose (E464) Crospovidone (E1202) Magnesium stearate (E572) Silicified microcrystalline cellulose (comprised of cellulose, microcrystalline and silica, colloidal anhydrous) Ascorbic acid (E300)
 
 ## Film-coating:
 
 Poly (vinyl alcohol), partially hydrolysed (E1203)
+
+<div style=\"page-break-after: always\"></div>
 
 Titanium dioxide (E171) Talc (E553b) Lecithin (derived from soya bean (E322)) Xanthan gum (E415) Iron oxide red (E172) Iron oxide yellow (E172) Sunset yellow FCF (E110)
 
@@ -777,8 +762,6 @@ Pack sizes: 10, 30 and 90 film-coated tablets.
 
 Not all pack sizes may be marketed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.6 Special precautions for disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
@@ -797,11 +780,11 @@ Date of first authorisation: 26 August 2013
 
 Date of latest renewal: 16 May 2018
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
-
-22
 
 <div style=\"page-break-after: always\"></div>
 
@@ -904,7 +887,7 @@ Patients carrying the SLCO1B1 gene allele (c.521T&gt;C) coding for a less active
 
 There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use. IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; positive antiHMG CoA reductase antibody; muscle biopsy showing necrotizing myopathy; and improvement with immunosuppressive agents. Additional neuromuscular and serologic testing may be necessary. Treatment with immunosuppressive agents may be required. Consider risk of IMNM carefully prior to initiation of another statin. If therapy is initiated with another statin, monitor for signs and symptoms of IMNM.
 
-Measures to reduce the risk of myopathy caused by medicinal product interactions
+## Measures to reduce the risk of myopathy caused by medicinal product interactions
 
 The risk of muscle toxicity may be increased if Cholib is administered with another fibrate, statin, niacin, fusidic acid or other specific concomitant substances (for specific interactions see section 4.5). Physicians contemplating combined therapy with Cholib and lipidmodifying doses (≥ 1 g/day) of niacin (nicotinic acid) or medicinal products containing niacin should carefully weigh the potential benefits and risks and should carefully monitor patients for any signs and symptoms of muscle pain, tenderness, or weakness, particularly during the initial months of therapy and when the dose of either medicinal product is increased.
 
@@ -919,6 +902,8 @@ Cholib must not be co-administered with fusidic acid. There have been reports of
 Statin therapy may be re-introduced seven days after the last dose of fusidic acid. In exceptional circumstances, where prolonged systemic fusidic acid is needed e.g. for the treatment of severe infections, the need for co-administration of Cholib and fusidic acid should only be considered on a case by case basis and under close medical supervision.
 
 <div style=\"page-break-after: always\"></div>
+
+Cases of myopathy and/or rhabdomyolysis have been reported with HMG-CoA reductase inhibitors (e.g. simvastatin) co-administered with daptomycin. Caution should be used when prescribing HMGCoA reductase inhibitors with daptomycin, as either agent can cause myopathy and/or rhabdomyolysis when given alone. Consideration should be given to temporarily suspend Cholib in patients taking daptomycin unless the benefits of concomitant administration outweigh the risk. Consult the prescribing information of daptomycin to obtain further information about this potential interaction with HMG-CoA reductase inhibitors (e.g. simvastatin) and for further guidance related to monitoring (see section 4.5.).
 
 ## Creatine kinase measurement
 
@@ -953,13 +938,15 @@ Therapy with Cholib should be temporarily stopped a few days prior to elective m
 
 Increases in transaminase levels have been reported in some patients treated with simvastatin or fenofibrate. In the majority of cases these elevations were transient, minor and asymptomatic without the need for treatment discontinuation.
 
-Transaminase levels have to be monitored before treatment begins, every 3 months during the first 12 months of treatment and thereafter periodically. Attention should be paid to patients who develop increase in transaminase levels and therapy should be discontinued if aspartate aminotransferase (AST) or also known as serum glutamic oxaloacetic transaminase (SGOT) and alanine aminotransferase (ALT) or also known as serum glutamic pyruvic transaminase (SGPT) levels increase to more than 3 times the upper limit of the normal range.
+Transaminase levels have to be monitored before treatment begins, every 3 months during the first 12 months of treatment and thereafter periodically. Attention should be paid to patients who develop increase in transaminase levels and therapy should be discontinued if aspartate aminotransferase (AST) or also known as serum glutamic oxaloacetic transaminase (SGOT)
+
+<div style=\"page-break-after: always\"></div>
+
+and alanine aminotransferase (ALT) or also known as serum glutamic pyruvic transaminase (SGPT) levels increase to more than 3 times the upper limit of the normal range.
 
 When symptoms indicative of hepatitis occur (e.g. jaundice, pruritus) and diagnosis is confirmed by laboratory testing, Cholib therapy should be discontinued.
 
 Cholib should be used with caution in patients who consume substantial quantities of alcohol.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pancreatitis
 
@@ -989,11 +976,11 @@ Some evidence suggests that statins as a class raise blood glucose and in some p
 
 In the FIELD study, a statistically significant increase was reported in the incidence of pulmonary embolism (0.7% in the placebo group versus 1.1% in the fenofibrate group; p=0.022) and a statistically non significant increase in deep vein thrombosis (placebo 1.0% 48/4900 patients) versus fenofibrate 1.4% (67/4895); p=0.074. The increased risk of venous thrombotic events may be related to the increased homocysteine level, a risk factor for thrombosis and other unidentified factors. The clinical significance of this is not clear. Therefore, caution should be exercised in patients with history of pulmonary embolism.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Myasthenia gravis
 
 In few cases, statins have been reported to induce de novo or aggravate pre-existing myasthenia gravis or ocular myasthenia (see section 4.8). Cholib should be discontinued in case of aggravation of symptoms. Recurrences when the same or a different statin was (re-) administered have been reported.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Excipients
 
@@ -1047,6 +1034,10 @@ Therefore, the dose of Cholib should not exceed 145 mg/20 mg daily in patients t
 
 Concomitant administration of medicinal products that are inhibitors of BCRP, including products containing elbasvir or grazoprevir, may lead to increased plasma concentrations of simvastatin and an increased risk of myopathy (see sections 4.2 and 4.4).
 
+Concomitant use of simvastatin with ribociclib should be avoided.
+
+Concomitant administration of simvastatin with palbociclib is not recommended, because it may increase the risk of rhabdomyolysis.
+
 ## Other statins and fibrates
 
 Gemfibrozil increases the AUC of simvastatin acid by 1.9-fold, possibly due to inhibition of the glucuronidation pathway. The risk of myopathy and rhabdomyolysis is significantly increased by concomitant use of gemfibrozil with simvastatin. The risk of rhabdomyolysis is also increased in patients concomitantly receiving other fibrates or statins. Therefore, the co-administration of Cholib with gemfibrozil, other fibrates, or statins is contraindicated (see section 4.3).
@@ -1061,19 +1052,21 @@ Physicians contemplating combined therapy with Cholib and lipidmodifying doses (
 
 The risk of myopathy including rhabdomyolysis may be increased by the concomitant administration of systemic fusidic acid with statins. Co-administration of this combination may cause increased plasma concentrations of both agents. The mechanism of this interaction (whether it is pharmacodynamics or pharmacokinetic, or both) is yet unknown. There have been reports of rhabdomyolysis (including some fatalities) in patients receiving this combination.
 
+<div style=\"page-break-after: always\"></div>
+
 If treatment with fusidic acid is necessary, Cholib treatment should be discontinued throughout the duration of the fusidic acid treatment. (Also see section 4.4).
 
 ## Grapefruit juice
 
-Grapefruit juice inhibits CYP 3A4. Concomitant intake of large quantities (over 1 liter daily) of grapefruit juice and simvastatin resulted in a 7-fold increase in plasma exposure to simvastatin acid. Intake of 240 mL of grapefruit juice in the morning and simvastatin in the evening also resulted in
-
-<div style=\"page-break-after: always\"></div>
-
-a 1.9-fold increase in plasma exposure to simvastatin acid. Intake of grapefruit juice during treatment with Cholib should therefore be avoided.
+Grapefruit juice inhibits CYP 3A4. Concomitant intake of large quantities (over 1 liter daily) of grapefruit juice and simvastatin resulted in a 7-fold increase in plasma exposure to simvastatin acid. Intake of 240 mL of grapefruit juice in the morning and simvastatin in the evening also resulted in a 1.9-fold increase in plasma exposure to simvastatin acid. Intake of grapefruit juice during treatment with Cholib should therefore be avoided.
 
 ## Colchicine
 
 There have been reports of myopathy and rhabdomyolysis with the concomitant administration of colchicine and simvastatin in patients with renal insufficiency. Therefore, close clinical monitoring of such patients taking colchicine and Cholib is advised.
+
+## Daptomycin
+
+It should be considered to temporarily suspend simvastatin in patients taking daptomycin unless the benefits of concomitant administration outweigh the risk (see section 4.4).
 
 ## Vitamin K antagonists
 
@@ -1099,11 +1092,11 @@ Patients receiving co-administration of Cholib and drugs metabolised by CYP 2C19
 
 Effects of repeated administration of fenofibrate on the pharmacokinetics of single or multiple doses of simvastatin have been investigated in two small studies (n=12) followed by a larger one (n= 85) in healthy subjects.
 
+<div style=\"page-break-after: always\"></div>
+
 In one study the AUC of the simvastatin acid (SVA), a major active metabolite of simvastatin, was reduced by 42% (90% CI 24%-56%) when a single dose of 40 mg simvastatin was combined with repeated administration of fenofibrate 160 mg. In the other study [Bergman et al, 2004] repeated co-administration of both simvastatin 80 mg and fenofibrate 160 mg led to a reduction in the AUC of the SVA of 36% (90% CI 30%-42%). In the larger study a reduction of 21% (90% CI 14%-27%) in AUC of SVA was observed after repeated co-administration of simvastatin 40 mg and fenofibrate 145 mg in the evening. This was not significantly different from the 29% (90% CI 22%-35%) reduction in AUC of SVA observed when co-administration was 12 hours apart: simvastatin 40 mg in the evening and fenofibrate 145 mg in the morning.
 
 Whether fenofibrate had an effect on other active metabolites of simvastatin was not investigated.
-
-<div style=\"page-break-after: always\"></div>
 
 The exact mechanism of interaction is not known. In the available clinical data, the effect on LDL-C reduction was not considered to be significantly different to simvastatin monotherapy when LDL-C is controlled at the time of initiating treatment.
 
@@ -1125,6 +1118,8 @@ Prescribing recommendations for interacting substances are summarised in the tab
 | Vitamin K antagonists                                                                                                                                                                   | Adjust the dose of these oral anticoagulants according to INR monitoring                                                                       |
 | Glitazones                                                                                                                                                                              | Monitor HDL-C and stop either therapy (glitazone or Cholib) if HDL-C is too low                                                                |
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Pregnancy
@@ -1135,11 +1130,7 @@ As simvastatin is contraindicated during pregnancy (see hereafter), Cholib is co
 
 ## Fenofibrate
 
-There are no adequate data from the use of fenofibrate in pregnant women. Animal studies have shown embryo-toxic effects at doses in the range of maternal toxicity (see section 5.3). The potential
-
-<div style=\"page-break-after: always\"></div>
-
-risk for humans is unknown. Therefore, fenofibrate should only be used during pregnancy after a careful benefit/risk assessment.
+There are no adequate data from the use of fenofibrate in pregnant women. Animal studies have shown embryo-toxic effects at doses in the range of maternal toxicity (see section 5.3). The potential risk for humans is unknown. Therefore, fenofibrate should only be used during pregnancy after a careful benefit/risk assessment.
 
 ## Simvastatin
 
@@ -1173,11 +1164,11 @@ Treatment emergent adverse reactions reported in patients receiving co-administr
 
 The adverse reactions of Cholib are in line with what is known from its two active substances: fenofibrate and simvastatin.
 
+<div style=\"page-break-after: always\"></div>
+
 The frequencies of adverse reactions are ranked according to the following: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data).
 
 Adverse reactions observed with the co-administration of fenofibrate and simvastatin (Cholib)
-
-<div style=\"page-break-after: always\"></div>
 
 | System Organ Class                     | Adverse reactions                                     | Frequency   |
 |----------------------------------------|-------------------------------------------------------|-------------|
@@ -1193,63 +1184,61 @@ Blood creatinine increased: 10% of patient had a creatinine increase from baseli
 
 Additional information on the individual active substances of the fixed dose combination Additional adverse reactions associated with the use of medicinal products containing simvastatin or fenofibrate observed in clinical trials and postmarketing experience that may potentially occur with Cholib are listed below. Frequency categories are based on information available from simvastatin and fenofibrate Summary of Product Characteristics available in the EU.
 
-| System Organ Class                              | Adverse reactions (fenofibrate)                             | Adverse reactions (simvastatin)                  | Frequenc y   |
-|-------------------------------------------------|-------------------------------------------------------------|--------------------------------------------------|--------------|
-| Blood and lymphatic system disorders            | Haemoglobin decreased White blood cell count decreased      |                                                  | rare         |
-|                                                 |                                                             | Anaemia                                          | rare         |
-| Immune system disorders                         | Hypersensitivity                                            |                                                  | rare         |
-|                                                 |                                                             | Anaphylaxis                                      | very rare    |
-| Metabolism and nutrition disorders              |                                                             | Diabetes Mellitus****                            | not known    |
-| Psychiatric disorders                           |                                                             | Insomnia                                         | very rare    |
-|                                                 |                                                             | Sleep disorder, including nightmares, depression | not known    |
-| Nervous system disorders                        | Headache                                                    |                                                  | uncommo n    |
-|                                                 |                                                             | Paresthesia, dizziness, peripheral neuropathy    | rare         |
-|                                                 |                                                             | Memory impairment/Memory loss                    | rare         |
-|                                                 |                                                             | Myasthenia gravis                                | not known    |
-| Eye disorders                                   |                                                             | Vision blurred, visual impairment                | rare         |
-|                                                 |                                                             | Ocular myasthenia                                | not known    |
-| Vascular disorders                              | Thromboembolism (pulmonary embolism, deep vein thrombosis)* |                                                  | uncommo n    |
-| Respiratory, thoracic and mediastinal disorders |                                                             | Interstitial lung disease                        | not known    |
-| Gastrointestinal disorders                      | Gastrointestinal signs and symptoms (abdominal              |                                                  | common       |
+| System Organ Class                   | Adverse reactions (fenofibrate)                        | Adverse reactions (simvastatin)                  | Frequenc y   |
+|--------------------------------------|--------------------------------------------------------|--------------------------------------------------|--------------|
+| Blood and lymphatic system disorders | Haemoglobin decreased White blood cell count decreased |                                                  | rare         |
+| Blood and lymphatic system disorders |                                                        | Anaemia                                          | rare         |
+| Immune system disorders              | Hypersensitivity                                       |                                                  | rare         |
+| Immune system disorders              |                                                        | Anaphylaxis                                      | very rare    |
+| Metabolism and nutrition disorders   |                                                        | Diabetes Mellitus****                            | not known    |
+| Psychiatric disorders                |                                                        | Insomnia                                         | very rare    |
+| Psychiatric disorders                |                                                        | Sleep disorder, including nightmares, depression | not known    |
+| Nervous system disorders             | Headache                                               |                                                  | uncommo n    |
+| Nervous system disorders             |                                                        | Paresthesia, dizziness, peripheral neuropathy    | rare         |
+| Nervous system disorders             |                                                        | Memory impairment/Memory loss                    | rare         |
+| Nervous system disorders             |                                                        | Myasthenia gravis                                | not known    |
+| Eye disorders                        |                                                        | Vision blurred, visual impairment                | rare         |
+| Eye disorders                        |                                                        | Ocular myasthenia                                | not known    |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                                   | Adverse reactions (fenofibrate)                                                                                   | Adverse reactions (simvastatin)                                                | Frequenc y          |
-|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------|
-|                                                      | pain, nausea, vomiting, diarrhoea, flatulence)                                                                    |                                                                                |                     |
-|                                                      | Pancreatitis*                                                                                                     |                                                                                | uncommo n           |
-|                                                      |                                                                                                                   | Constipation, dyspepsia                                                        | rare                |
-| Hepatobiliary disorders                              | Transaminases increased                                                                                           |                                                                                | common              |
-| Hepatobiliary disorders                              | Cholelithiasis                                                                                                    |                                                                                | uncommo n           |
-| Hepatobiliary disorders                              | Complications of cholelithiasis (e.g. cholecystitis, cholangitis, biliary colic etc)                              |                                                                                | not                 |
-| Hepatobiliary disorders                              |                                                                                                                   |                                                                                | known               |
-| Hepatobiliary disorders                              |                                                                                                                   | Gamma-glutamyltransferas e increase Hepatitis/jaundice                         | rare very rare      |
-| Skin and subcutaneous tissue disorders               | Severe cutaneous reactions (e.g erythema multiforme, Ste vens-Johnson syndrome, toxic epidermal necrolysis, etc.) |                                                                                | not known           |
-| Skin and subcutaneous tissue disorders               | Cutaneous hypersensitivity (e.g. Rash, pruritus, urticaria)                                                       |                                                                                | uncommo n           |
-| Skin and subcutaneous tissue disorders               | Alopecia                                                                                                          |                                                                                | rare                |
-| Skin and subcutaneous tissue disorders               | Photosensitivity reactions                                                                                        |                                                                                | rare                |
-| Skin and subcutaneous tissue disorders               |                                                                                                                   | Hypersensitivity syndrome ***                                                  | rare                |
-| Musculoskeletal, connective tissue disorders         | Muscle disorders (e.g. myalgia, myositis, muscular spasms and weakness)                                           | Lichenoid drug eruptions                                                       | very rare uncommo n |
-| Musculoskeletal, connective tissue disorders         | Rhabdomyolysis with or without renal failure                                                                      |                                                                                | rare                |
-| Musculoskeletal, connective tissue disorders         | (see section 4.4),                                                                                                |                                                                                |                     |
-| Musculoskeletal, connective tissue disorders         |                                                                                                                   | Myopathy** Immune-mediated necrotizing myopathy (see section 4.4) Tendinopathy | rare unkown         |
-| Musculoskeletal, connective tissue disorders         |                                                                                                                   | Muscle rupture                                                                 |                     |
-| Reproductive system and breast disorders             | Sexual dysfunction                                                                                                |                                                                                | very rare uncommo   |
-| Reproductive system and breast disorders             |                                                                                                                   |                                                                                | n                   |
-| Reproductive system and breast disorders             |                                                                                                                   | Erectile dysfunction                                                           | not known           |
-| Reproductive system and breast disorders             |                                                                                                                   | Gynecomastia                                                                   | very rare           |
-| General disorders and administration site conditions |                                                                                                                   | Asthenia                                                                       | rare                |
-| Investigations                                       | Blood homocysteine level increased (see section 4.4)*****                                                         |                                                                                | very common         |
+| System Organ Class                              | Adverse reactions (fenofibrate)                                                                                   | Adverse reactions (simvastatin)                                                | Frequenc y          |
+|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------|
+| Vascular disorders                              | Thromboembolism (pulmonary embolism, deep vein thrombosis)*                                                       |                                                                                | uncommo n           |
+| Respiratory, thoracic and mediastinal disorders |                                                                                                                   | Interstitial lung disease                                                      | not known           |
+| Gastrointestinal disorders                      | Gastrointestinal signs and symptoms (abdominal pain, nausea, vomiting, diarrhoea, flatulence)                     |                                                                                | common              |
+| Gastrointestinal disorders                      | Pancreatitis*                                                                                                     |                                                                                | uncommo n           |
+| Gastrointestinal disorders                      |                                                                                                                   | Constipation, dyspepsia                                                        | rare                |
+| Hepatobiliary disorders                         | Transaminases increased                                                                                           |                                                                                | common              |
+| Hepatobiliary disorders                         | Cholelithiasis                                                                                                    |                                                                                | uncommo n           |
+| Hepatobiliary disorders                         | Complications of cholelithiasis (e.g. cholecystitis, cholangitis, biliary colic etc)                              |                                                                                | not known           |
+| Hepatobiliary disorders                         |                                                                                                                   | Gamma-glutamyltransferas e increase                                            | rare                |
+| Hepatobiliary disorders                         |                                                                                                                   | Hepatitis/jaundice Hepatic failure                                             | very rare           |
+| Skin and subcutaneous tissue disorders          | Severe cutaneous reactions (e.g erythema multiforme, Ste vens-Johnson syndrome, toxic epidermal necrolysis, etc.) |                                                                                | not known           |
+| Skin and subcutaneous tissue disorders          | Cutaneous hypersensitivity (e.g. Rash, pruritus, urticaria)                                                       |                                                                                | uncommo n           |
+| Skin and subcutaneous tissue disorders          | Alopecia                                                                                                          |                                                                                | rare                |
+| Skin and subcutaneous tissue disorders          | Photosensitivity reactions                                                                                        |                                                                                | rare                |
+| Skin and subcutaneous tissue disorders          |                                                                                                                   | Hypersensitivity syndrome ***                                                  | rare                |
+| Musculoskeletal, connective tissue disorders    | Muscle disorders (e.g. myalgia, myositis, muscular spasms and weakness)                                           | Lichenoid drug eruptions                                                       | very rare uncommo n |
+| Musculoskeletal, connective tissue disorders    | Rhabdomyolysis with or without renal failure (see section 4.4),                                                   |                                                                                | rare                |
+| Musculoskeletal, connective tissue disorders    |                                                                                                                   | Myopathy** Immune-mediated necrotizing myopathy (see section 4.4) Tendinopathy | rare unkown         |
+| Musculoskeletal, connective tissue disorders    |                                                                                                                   | Muscle rupture                                                                 | very rare           |
+| Reproductive system and breast disorders        | Sexual dysfunction                                                                                                |                                                                                | uncommo n           |
+| Reproductive system and breast disorders        |                                                                                                                   | Erectile dysfunction                                                           | not known           |
+| Reproductive system and breast disorders        |                                                                                                                   |                                                                                |                     |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class   | Adverse reactions (fenofibrate)   | Adverse reactions (simvastatin)             | Frequenc y   |
-|----------------------|-----------------------------------|---------------------------------------------|--------------|
-|                      | Blood urea increased              |                                             | rare         |
-|                      |                                   | Blood alkaline phosphatase increased        | rare         |
-|                      |                                   | Blood creatine phosphokinase level increase | rare         |
-|                      |                                   | Glycosylated haemoglobin increased          | not known    |
-|                      |                                   | Blood glucose increased                     | not known    |
+| System Organ Class                                   | Adverse reactions (fenofibrate)                           | Adverse reactions (simvastatin)             | Frequenc y   |
+|------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------|--------------|
+|                                                      |                                                           | Gynecomastia                                | very rare    |
+| General disorders and administration site conditions |                                                           | Asthenia                                    | rare         |
+| Investigations                                       | Blood homocysteine level increased (see section 4.4)***** |                                             | very common  |
+| Investigations                                       | Blood urea increased                                      |                                             | rare         |
+| Investigations                                       |                                                           | Blood alkaline phosphatase increased        | rare         |
+| Investigations                                       |                                                           | Blood creatine phosphokinase level increase | rare         |
+| Investigations                                       |                                                           | Glycosylated haemoglobin increased          | not known    |
+| Investigations                                       |                                                           | Blood glucose increased                     | not known    |
 
 ## Description of selected adverse reactions
 
@@ -1281,13 +1270,13 @@ Additional information on the individual active substances of the fixed dose com
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.9 Overdose
 
 ## Cholib
 
 No specific antidote is known. If an overdose is suspected, symptomatic treatment and appropriate supportive measures should be provided as required.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Fenofibrate
 
@@ -1331,13 +1320,11 @@ Fenofibrate also has a uricosuric effect leading to reduction in uric acid level
 
 Simvastatin has been shown to reduce both normal and elevated LDL-C concentrations. LDL is formed from very-low-density protein (VLDL) and is catabolised predominantly by the high affinity LDL receptor. The mechanism of the LDL lowering effect of simvastatin may involve both reduction of VLDL-C concentration and induction of the LDL receptor, leading to reduced production and increased catabolism of LDL-C. Apolipoprotein B also falls substantially during treatment with simvastatin. In addition, simvastatin moderately increases HDL-C and reduces plasma TG. As a result of these changes the ratios of TC to HDL-C and LDL-C to HDL-C are reduced.
 
-## Cholib
-
-The respective effects of simvastatin and fenofibrate are complementary.
-
 <div style=\"page-break-after: always\"></div>
 
-## Clinical efficacy and safety
+## Cholib
+
+The respective effects of simvastatin and fenofibrate are complementary. Clinical efficacy and safety
 
 ## Cholib
 
@@ -1348,9 +1335,9 @@ Statin type and dose used:
 |       |                       | Week 0 to Week 12   | Week 0 to Week 12                       | Week 12 to Week 24   | Week 12 to Week 24                      |
 |-------|-----------------------|---------------------|-----------------------------------------|----------------------|-----------------------------------------|
 | Study | Statin 6 weeks run-in | Statin monotherapy  | Fenofibrate/ Simvastatin in combination | Statin monotherapy   | Fenofibrate/ Simvastatin in combination |
-| 0501  | simvastatin 20 mg     | simvastatin 40m g   | simvastatin 20 mg                       | simvastatin 40 mg    | simvastatin 40 mg                       |
-| 0502  | simvastatin 40 mg     | simvastatin 40m g   | simvastatin 40 mg                       | simvastatin 40 mg    | simvastatin 40 mg                       |
-| 0503  | atorvastatin 10 mg    | atorvastatin 10m g  | simvastatin 20 mg                       | atorvastatin 20 mg   | simvastatin 40 mg                       |
+| 0501  | simvastatin 20 mg     | simvastatin 40 m g  | simvastatin 20 mg                       | simvastatin 40 mg    | simvastatin 40 mg                       |
+| 0502  | simvastatin 40 mg     | simvastatin 40 m g  | simvastatin 40 mg                       | simvastatin 40 mg    | simvastatin 40 mg                       |
+| 0503  | atorvastatin 10 mg    | atorvastatin 10 m g | simvastatin 20 mg                       | atorvastatin 20 mg   | simvastatin 40 mg                       |
 | 0504  | pravastatin 40 mg     | pravastatin 40 mg   | simvastatin 20 mg                       | pravastatin 40 mg    | simvastatin 40 mg                       |
 
 ## Cholib 145/40
@@ -1364,18 +1351,29 @@ The combination F145/S40 showed superiority over S40 for LDL-C reduction only at
 | TG, LDL-C and HDL-C Percent Change from Baseline to 12 and 24 Weeks Full Analysis Subject Sample   | TG, LDL-C and HDL-C Percent Change from Baseline to 12 and 24 Weeks Full Analysis Subject Sample   | TG, LDL-C and HDL-C Percent Change from Baseline to 12 and 24 Weeks Full Analysis Subject Sample   | TG, LDL-C and HDL-C Percent Change from Baseline to 12 and 24 Weeks Full Analysis Subject Sample   | TG, LDL-C and HDL-C Percent Change from Baseline to 12 and 24 Weeks Full Analysis Subject Sample   |
 |----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 | Lipid parameter (mmol/L)                                                                           | Feno 145+Simva 40 (N=221)                                                                          | Simva 40 (N=219)                                                                                   | Treatment Comparison*                                                                              | P-value                                                                                            |
-| After 12 weeks                                                                                     | %Change Mean (SD)                                                                                  | %Change Mean (SD)                                                                                  |                                                                                                    |                                                                                                    |
+| After 12 weeks                                                                                     | % Change Mean (SD)                                                                                 | % Change Mean (SD)                                                                                 |                                                                                                    |                                                                                                    |
 | TG                                                                                                 | -27.18 (36.18)                                                                                     | -0.74 (39.54)                                                                                      | -28.19 (-32.91, -23.13)                                                                            | <0.001                                                                                             |
 | LDL-C                                                                                              | -6.34 (23.53)                                                                                      | -5.21 (22.01)                                                                                      | -1.24 (-5.22, 2.7)                                                                                 | 0.539                                                                                              |
 | HDL-C                                                                                              | 5.77 (15.97)                                                                                       | -0.75 (12.98)                                                                                      | 6.46 (3.83, 9.09)                                                                                  | <0.001                                                                                             |
-| After 24 weeks                                                                                     | %Change Mean (SD)                                                                                  | %Change Mean (SD)                                                                                  |                                                                                                    |                                                                                                    |
+| After 24 weeks                                                                                     | % Change Mean (SD)                                                                                 | % Change Mean (SD)                                                                                 |                                                                                                    |                                                                                                    |
+
+<div style=\"page-break-after: always\"></div>
+
+| TG, LDL-C and HDL-C Percent Change from Baseline to 12 and 24 Weeks Full Analysis Subject Sample   | TG, LDL-C and HDL-C Percent Change from Baseline to 12 and 24 Weeks Full Analysis Subject Sample   | TG, LDL-C and HDL-C Percent Change from Baseline to 12 and 24 Weeks Full Analysis Subject Sample   | TG, LDL-C and HDL-C Percent Change from Baseline to 12 and 24 Weeks Full Analysis Subject Sample   | TG, LDL-C and HDL-C Percent Change from Baseline to 12 and 24 Weeks Full Analysis Subject Sample   |
+|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Lipid parameter (mmol/L)                                                                           | Feno 145+Simva 40 (N=221)                                                                          | Simva 40 (N=219)                                                                                   | Treatment Comparison*                                                                              | P-value                                                                                            |
+| After 12 weeks                                                                                     | % Change Mean (SD)                                                                                 | % Change Mean (SD)                                                                                 |                                                                                                    |                                                                                                    |
 | TG                                                                                                 | -22.66 (43.87)                                                                                     | 1.81 (36.64)                                                                                       | -27.56 (-32.90, -21.80)                                                                            | <0.001                                                                                             |
 | LDL-C                                                                                              | -3.98 (24.16)                                                                                      | 3.07 (30.01)                                                                                       | -7.21 (-12.20, -2.21)                                                                              | 0.005                                                                                              |
 | HDL-C                                                                                              | 5.08 (16.10)                                                                                       | 0.62 (13.21)                                                                                       | 4.65 (1.88, 7.42)                                                                                  | 0.001                                                                                              |
 
-<div style=\"page-break-after: always\"></div>
+*Treatment Comparison consists of the difference between the LS-means for Feno 145 + Simva 40 an d Simva 40, as well as the corresponding 95% CI.
 
-The results on the biological parameters of interest at 24 weeks are presented in the table below. F145/S40 demonstrated statistically significant superiority on all parameters except on ApoA1 increase.
+The results on the biological parameters of interest at 24 weeks are presented in the table below.
+
+F145/S40 demonstrated statistically significant superiority on all parameters except on
+
+ApoA1 increase.
 
 | ANCOVA (analysis of covariance) of Percent Change in TC, non-HDL-C, ApoAI, ApoB, ApoB/ApoAI and fibrinogen from Baseline to 24 Weeks - Full Analysis Subject Sample   | ANCOVA (analysis of covariance) of Percent Change in TC, non-HDL-C, ApoAI, ApoB, ApoB/ApoAI and fibrinogen from Baseline to 24 Weeks - Full Analysis Subject Sample   | ANCOVA (analysis of covariance) of Percent Change in TC, non-HDL-C, ApoAI, ApoB, ApoB/ApoAI and fibrinogen from Baseline to 24 Weeks - Full Analysis Subject Sample   | ANCOVA (analysis of covariance) of Percent Change in TC, non-HDL-C, ApoAI, ApoB, ApoB/ApoAI and fibrinogen from Baseline to 24 Weeks - Full Analysis Subject Sample   | ANCOVA (analysis of covariance) of Percent Change in TC, non-HDL-C, ApoAI, ApoB, ApoB/ApoAI and fibrinogen from Baseline to 24 Weeks - Full Analysis Subject Sample   | ANCOVA (analysis of covariance) of Percent Change in TC, non-HDL-C, ApoAI, ApoB, ApoB/ApoAI and fibrinogen from Baseline to 24 Weeks - Full Analysis Subject Sample   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1396,7 +1394,13 @@ Study 0501 evaluated 2 different doses of fenofibrate-simvastatin combination co
 | Mean Percent Change from Baseline to 12 Weeks Full Analysis Subject Sample   | Mean Percent Change from Baseline to 12 Weeks Full Analysis Subject Sample   | Mean Percent Change from Baseline to 12 Weeks Full Analysis Subject Sample   | Mean Percent Change from Baseline to 12 Weeks Full Analysis Subject Sample   | Mean Percent Change from Baseline to 12 Weeks Full Analysis Subject Sample   |
 |------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | Parameter                                                                    | Feno 145+Simva 20 (N=493) Mean (SD)                                          | Simva 40 (N=505) Mean (SD)                                                   | Treatment Comparison*                                                        | P-value                                                                      |
-| TG (mmol/L)                                                                  | -28.20 (37.31)                                                               | -4.60 (40.92)                                                                | -26.47 (-30.0, - 22.78)                                                      | <0.001                                                                       |
+| TG (mmol/L)                                                                  | -28.20 (37.31)                                                               | -4.60 (40.92)                                                                | -26.47 (-30.0, 22.78)                                                        | <0.001                                                                       |
+
+<div style=\"page-break-after: always\"></div>
+
+| Mean Percent Change from Baseline to 12 Weeks Full Analysis Subject Sample   | Mean Percent Change from Baseline to 12 Weeks Full Analysis Subject Sample   | Mean Percent Change from Baseline to 12 Weeks Full Analysis Subject Sample   | Mean Percent Change from Baseline to 12 Weeks Full Analysis Subject Sample   | Mean Percent Change from Baseline to 12 Weeks Full Analysis Subject Sample   |
+|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| Parameter                                                                    | Feno 145+Simva 20 (N=493) Mean (SD)                                          | Simva 40 (N=505) Mean (SD)                                                   | Treatment Comparison*                                                        | P-value                                                                      |
 | LDL-C (mmol/L)                                                               | -5.64 (23.03)                                                                | -10.51 (22.98)                                                               | 4.75 (2.0, 7.51)                                                             | NA                                                                           |
 | HDL-C (mmol/L)                                                               | 7.32 (15.84)                                                                 | 1.64 (15.76)                                                                 | 5.76 (3.88, 7.65)                                                            | <0.001                                                                       |
 | TC (mmol/L)                                                                  | -6.00 (15.98)                                                                | -7.56 (15.77)                                                                | 1.49 (-0.41, 3.38)                                                           | 0.123                                                                        |
@@ -1405,8 +1409,6 @@ Study 0501 evaluated 2 different doses of fenofibrate-simvastatin combination co
 | Apo B (g/L)                                                                  | -6.52 (21.12)                                                                | -7.97 (17.98)                                                                | 1.22 (-1.19,3.63)                                                            | 0.320                                                                        |
 | Apo B/Apo AI                                                                 | -8.49 (24.42)                                                                | -7.94 (18.96)                                                                | -0.73 (-3.44,1.97)                                                           | 0.595                                                                        |
 | Fibrinogen (g/L)                                                             | -0.31 (0.70)                                                                 | -0.02 (0.70)                                                                 | -0.32 (-0.40,-0.24)                                                          | < 0.001                                                                      |
-
-<div style=\"page-break-after: always\"></div>
 
 After the first 12 weeks of treatment, the combination of fenofibrate 145 mg and simvastatin 20 mg showed superiority over simvastatin 40 mg for TG reduction and HDL-C increase but did not meet the criteria for non-inferiority on LDL-C. The combination of fenofibrate 145 mg with simvastatin 20 mg demonstrated statistically significant superiority on apoA1 increase and fibrinogen decrease compared to simvastatin 40 mg.
 
@@ -1426,6 +1428,8 @@ The geometric mean ratios and 90% CIs for the comparison of AUC, AUC(0-t) and Cm
 
 Maximum plasma concentrations (Cmax) of fenofibrate occur within 2 to 4 hours after oral administration. Plasma concentrations are stable during continuous treatment in any given individual.
 
+<div style=\"page-break-after: always\"></div>
+
 Fenofibrate is water-insoluble and must be taken with food to facilitate absorption. The use of micronised fenofibrate and NanoCrystal® technology for the formulation of the fenofibrate 145 mg tablet enhances its absorption.
 
 Contrarily to previous fenofibrate formulations, the maximum plasma concentration and overall exposure of this formulation is independent from food intake.
@@ -1435,8 +1439,6 @@ A food-effect study involving administration of this formulation of fenofibrate 
 Therefore, fenofibrate in Cholib may be taken without regard to meals.
 
 Kinetic studies following the administration of a single dose and continuous treatment have demonstrated that the drug does not accumulate.
-
-<div style=\"page-break-after: always\"></div>
 
 Simvastatin is an inactive lactone which is readily hydrolyzed in vivo to the corresponding beta-hydroxyacid, a potent inhibitor of HMG-CoA reductase. Hydrolysis takes place mainly in the liver; the rate of hydrolysis in human plasma is very slow.
 
@@ -1460,13 +1462,13 @@ Mean plasma half-life: the plasma elimination half-life of fenofibric acid is ap
 
 Simvastatin is a substrate of CYP 3A4 and of the efflux transporter BCRP. Simvastatin is taken up actively into the hepatocytes by the transporter OATP1B1. The major metabolites of simvastatin present in human plasma are the beta-hydroxyacid and four additional active metabolites. Following an oral dose of radioactive simvastatin to man, 13% of the radioactivity was excreted in the urine and 60% in the faeces within 96 hours. The amount recovered in the faeces represents absorbed medicinal product equivalents excreted in bile as well as unabsorbed medicinal product. Following an intravenous injection of the beta-hydroxyacid metabolite, its half-life averaged 1.9 hours. An average of only 0.3% of the intravenous dose was excreted in urine as inhibitors.
 
+<div style=\"page-break-after: always\"></div>
+
 Effects of repeated administration of fenofibrate on the pharmacokinetics of single or multiple doses of simvastatin have been investigated in two small studies (n=12) followed by a larger one (n=85) in healthy subjects.
 
 In one study the AUC of the simvastatin acid (SVA), a major active metabolite of simvastatin, was reduced by 42% (90% CI 24%-56%) when a single dose of 40 mg simvastatin was combined with repeated administration of fenofibrate 160 mg. In the other study [Bergman et al, 2004] repeated co-administration of both simvastatin 80 mg and fenofibrate 160 mg led to a reduction in the AUC of the SVA of 36% (90% CI 30%-42%). In the larger study a reduction of 21% (90% CI 14%-27%) in AUC of SVA was observed after repeated co-administration of simvastatin 40 mg and fenofibrate 145 mg in the evening. This was not significantly different from the 29% (90% CI 22%-35%) reduction in AUC of SVA observed when co-administration was 12 hours apart: simvastatin 40 mg in the evening and fenofibrate 145 mg in the morning.
 
 Whether fenofibrate had an effect on other active metabolites of simvastatin was not investigated.
-
-<div style=\"page-break-after: always\"></div>
 
 The exact mechanism of interaction is not known. In the available clinical data, the effect on LDL-C reduction was not considered to be significantly different to simvastatin monotherapy when LDL-C is controlled at the time of initiating treatment.
 
@@ -1494,13 +1496,13 @@ In rats and mice, liver tumours have been found in carcinogenicity studies, whic
 
 Studies in mice, rats and rabbits did not reveal any teratogenic effect. Embryotoxic effects were observed at doses in the range of maternal toxicity. Prolongation of the gestation period and difficulties during delivery were observed at high doses.
 
+<div style=\"page-break-after: always\"></div>
+
 No effects on fertility were detected in non-clinical reproductive toxicity studies conducted with fenofibrate. However reversible hypospermia and testicular vacuolation and immaturity of the ovaries were observed in a repeat-dose toxicity study with fenofibric acid in young dogs.
 
 ## Simvastatin
 
 Based on conventional animal studies regarding pharmacodynamics, repeated dose toxicity, genotoxicity and carcinogenicity, there are no other risks for the patient than may be expected on account of the pharmacological mechanism. At maximally tolerated doses in both the rat and the rabbit, simvastatin produced no fetal malformations, and had no effects on fertility, reproductive function or neonatal development.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -1508,35 +1510,11 @@ Based on conventional animal studies regarding pharmacodynamics, repeated dose t
 
 ## Tablet core:
 
-Butylhydroxyanisole (E320)
-
-Lactose monohydrate
-
-Sodium laurilsulfate
-
-Starch, pregelatinised (maize)
-
-Docusate sodium
-
-Sucrose
-
-Citric acid monohydrate (E330)
-
-Hypromellose (E464)
-
-Crospovidone (E1202)
-
-Magnesium stearate (E572)
-
-Silicified microcrystalline cellulose (comprised of cellulose, microcrystalline and silica, colloidal anhydrous)
-
-Ascorbic acid (E300)
+Butylhydroxyanisole (E320) Lactose monohydrate Sodium laurilsulfate Starch, pregelatinised (maize) Docusate sodium Sucrose Citric acid monohydrate (E330) Hypromellose (E464) Crospovidone (E1202) Magnesium stearate (E572) Silicified microcrystalline cellulose (comprised of cellulose, microcrystalline and silica, colloidal anhydrous) Ascorbic acid (E300)
 
 ## Film-coating:
 
-Poly (vinyl alcohol), partially hydrolysed (E1203)
-
-Titanium dioxide (E171) Talc (E553b) Lecithin (derived from soya bean (E322)) Xanthan gum (E415) Iron oxide red (E172)
+Poly (vinyl alcohol), partially hydrolysed (E1203) Titanium dioxide (E171) Talc (E553b) Lecithin (derived from soya bean (E322)) Xanthan gum (E415) Iron oxide red (E172)
 
 ## 6.2 Incompatibilities
 
@@ -1550,6 +1528,8 @@ Not applicable.
 
 Store below 30°C.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.5 Nature and contents of container
 
 Alu/Alu blisters
@@ -1561,8 +1541,6 @@ Not all pack sizes may be marketed.
 ## 6.6 Special precautions for disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -2014,15 +1992,18 @@ Tell your doctor or pharmacist if you are taking any of the following medicines:
 - o nefazodone (a medicine for depression)
 - o a fibrate (e.g. fenofibrate, gemfibrozil)
 - o a statin (e.g. simvastatin, atorvastatin)
+- o daptomycin (a medicine used to treat complicated skin and skin structure infections and bacteria present in the blood)
+- o ribociclib (used to treat breast cancer)
+- o palbociclib (used to treat breast cancer).
 
 Do not take Cholib if any of the above applies to you. Check with your doctor or pharmacist if you are not sure.
 
 In particular tell your doctor or pharmacist if you are taking any of the following medicines (taking Cholib with any of these medicines can increase the risk of muscle problems):
 
+<div style=\"page-break-after: always\"></div>
+
 - high doses of at least 1 gram per day of niacin (nicotinic acid) or a treatment containing niacin (medicine for lowering fat levels in the blood)
 - colchicine (a medicine used to treat gout)
-
-<div style=\"page-break-after: always\"></div>
 
 Do not take fusidic acid (a medicine for bacterial infections) while using this medicine.
 
@@ -2064,9 +2045,13 @@ Always take this medicine exactly as your doctor or pharmacist has told you. Che
 
 Your doctor will determine the appropriate strength for you, depending on your condition, your current treatment and your personal risk status.
 
-The usual dose is one tablet per day. You can take Cholib with or without food. Swallow the tablet with a glass of water. Do not crush or chew the tablet.
+The usual dose is one tablet per day.
+
+You can take Cholib with or without food.
 
 <div style=\"page-break-after: always\"></div>
+
+Swallow the tablet with a glass of water. Do not crush or chew the tablet.
 
 You should continue a low-fat diet or other measures (e.g. exercise, weight reduction) whilst taking Cholib.
 
@@ -2099,9 +2084,9 @@ Some patients have experienced the following serious side effects whilst taking 
 - increased sensitivity of your skin to sunlight, sun lamps and sunbeds
 - rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions)
 
-If any of the previously listed serious side effects happen, stop taking Cholib and tell your doctor immediately or go to the emergency room at your nearest hospital - you may need urgent medical treatment.
-
 <div style=\"page-break-after: always\"></div>
+
+If any of the previously listed serious side effects happen, stop taking Cholib and tell your doctor immediately or go to the emergency room at your nearest hospital - you may need urgent medical treatment.
 
 Some patients have experienced the following side effects whilst taking Cholib, fenofibrate or simvastatin:
 
@@ -2148,14 +2133,13 @@ Some patients have experienced the following side effects whilst taking Cholib, 
 
 - gynecomastia (breast enlargement in men)
 
-## The following side effects have also been reported but the frequency cannot be estimated from the available information (frequency not known):
+<div style=\"page-break-after: always\"></div>
+
+The following side effects have also been reported but the frequency cannot be estimated from the available information (frequency not known):
 
 - severe allergic skin rash with blisters
 - complications of gall stones such as colic because of stones in bile duct, infection of the bile ducts or gall bladder
 - diabetes mellitus
-
-<div style=\"page-break-after: always\"></div>
-
 - erectile dysfunction
 - feeling depressed
 - sleep disturbances including nightmares
@@ -2192,11 +2176,11 @@ The other ingredients are:
 
 Butylhydroxyanisole (E320), lactose monohydrate, sodium laurilsulfate, starch, pregelatinised (maize), docusate sodium, sucrose, citric acid monohydrate (E330), hypromellose (E464), crospovidone (E1202), magnesium stearate (E572), silicified microcrystalline cellulose (comprised of cellulose, microcrystalline and silica, colloidal anhydrous), ascorbic acid (E300).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Film-coat:
 
 Poly (vinyl alcohol), partially hydrolysed (E1203), titanium dioxide (E171), talc (E553b), lecithin (derived from soya bean (E322)), xanthan gum (E415), iron oxide red (E172), iron oxide yellow (E172), sunset yellow FCF (E110).
-
-<div style=\"page-break-after: always\"></div>
 
 ## What Cholib looks like and contents of the pack
 
@@ -2222,31 +2206,58 @@ Astrea Fontaine, Site De Fontaine, Rue Des Pres Potets, Fontaine Les Dijon, 2112
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-| België/Belgique/Belgien       | Ireland                  | Norge                         |
-|-------------------------------|--------------------------|-------------------------------|
-| Viatris                       | Viatris Limited          | Viatris AS                    |
-| Tel/Tél: + 32 2 658 61 00     | Tel: +353 1 8711600      | Tlf: + 47 66 75 33 00         |
-| България                      | Ísland                   | Österreich                    |
-| Майлан ЕООД                   | Icepharma hf.            | Viatris Austria GmbH          |
-| Teл.: + 359 2 4455 400        | Sími: +354 540 8000      | Tel: + 43 1 863 90            |
-| Česká republika               | Italia                   | Polska                        |
-| Viatris CZ s.r.o.             | Viatris Italia S.r.l.    | Viatris Healthcare Sp. z o.o. |
-| Tel: +420 222 004 400         | Tel: + 39 (0) 2 61246921 | Tel: +48 22 546 64 00         |
-| Danmark                       | Κύπρος                   | Portugal                      |
-| Viatris ApS                   | CPO Pharmaceuticals Ltd  | Viatris Healthcare, Lda.      |
-| Tlf. +45 28 11 69 32          | Τηλ: +357 22863100       | Tel : +351 214 127 200        |
-| Deutschland                   | Latvija                  | România                       |
-| Viatris Healthcare GmbH       | Viatris SIA              | BGP Products S.R.L.           |
-| Tel: +49 800 0700 800         | Tel: + 371 67 605 580    | Tel: +40 372 579 000          |
-| Eesti                         | Lietuva                  | Slovenija                     |
-| Viatris OÜ                    | Viatris UAB              | Viatris d.o.o.                |
-| Tel: + 372 6363052            | Tel: +370 52 051 288     | Tel: + 386 (0)123 63 180      |
-| Ελλάδα                        | Luxembourg/Luxemburg     | Slovenská republika           |
-| Viatris Hellas Ltd            | Viatris                  | Viatris Slovakia s.r.o.       |
-| Τηλ.: +30 2100 100 002        | Tel/Tél: + 32 2 658 6100 | Tel: +421 2 32 199 100        |
-| España                        | Magyarország             | Suomi/Finland                 |
-| Viatris Pharmaceuticals, S.L. | Viatris Healthcare Kft   | Viatris Oy                    |
-| +34 900 102 712               | Tel: +36 1 465 2100      | Puh/Tel: +358 20 720 9555     |
+| België/Belgique/Belgien   | Ireland                  | Norge                         |
+|---------------------------|--------------------------|-------------------------------|
+| Viatris                   | Viatris Limited          | Viatris AS                    |
+| Tél/Tel: + 32 2 658 61 00 | Tel: +353 1 8711600      | Tlf: + 47 66 75 33 00         |
+| България                  | Ísland                   | Österreich                    |
+| Виатрис ЕООД              | Icepharma hf.            | Viatris Austria GmbH          |
+| Teл.: + 359 2 4455 400    | Sími: +354 540 8000      | Tel: + 43 1 863 90            |
+| Česká republika           | Italia                   | Polska                        |
+| Viatris CZ s.r.o.         | Viatris Italia S.r.l.    | Viatris Healthcare Sp. z o.o. |
+| Tel: +420 222 004 400     | Tel: + 39 (0) 2 61246921 | Tel.: +48 22 546 64 00        |
+| Danmark                   | Κύπρος                   | Portugal                      |
+| Viatris ApS               | CPO Pharmaceuticals Ltd  | Viatris Healthcare, Lda.      |
+| Tlf.: +45 28 11 69 32     | Τηλ : +357 22863100      | Tel : +351 214 127 200        |
+| Deutschland               | Latvija                  | România                       |
+| Viatris Healthcare GmbH   | Viatris SIA              | BGP Products S.R.L.           |
+| Tel: +49 800 0700 800     | Tel: + 371 67 605 580    | Tel: +40 372 579 000          |
+| Eesti                     | Lietuva                  | Slovenija                     |
+| Viatris OÜ                | Viatris UAB              | Viatris d.o.o.                |
+| Tel: + 372 6363052        | Tel: +370 52 051 288     | Tel: + 386 (0)123 63 180      |
+| Ελλάδα                    | Luxembourg/Luxemburg     | Slovenská republika           |
+
+Viatris Hellas Ltd
+
+Τηλ: +30
+
+2100 100 002
+
+## Viatris
+
+Tél/Tel: + 32 2 658 6100
+
+Viatris Slovakia s.r.o.
+
+Tel: +421 2 32 199 100
+
+## España
+
+Viatris Pharmaceuticals, S.L.
+
+Tel: +34 900 102 712
+
+## Magyarország
+
+Viatris Healthcare Kft
+
+Tel.: +36 1 465 2100
+
+## Suomi/Finland
+
+Viatris Oy
+
+Puh/Tel: +358 20 720 9555
 
 ## France
 
@@ -2254,29 +2265,9 @@ Viatris Santé
 
 Tél: + 33 (0)1 40 80 15 55
 
-<div style=\"page-break-after: always\"></div>
-
-## Hrvatska
-
-Viatris Hrvatska d.o.o.
-
-Tel: + 385 1 23 50 599
-
 ## Malta
 
 V.J. Salomone Pharma Ltd. Tel: +356 21 22 01 74
-
-## Nederland
-
-Viatris Healthcare B.V.
-
-Tel: +31 (0)20 426 33 00
-
-## This leaflet was last revised in &lt;{MM/YYYY}&gt;:
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 ## Sverige
 
@@ -2284,9 +2275,31 @@ Viatris AB
 
 Tel: +46 8 630 19 00
 
+## Hrvatska
+
+Viatris Hrvatska d.o.o.
+
+Tel: + 385 1 23 50 599
+
+## Nederland
+
+Viatris Healthcare B.V.
+
+Tel: +31 (0)20 426 33 00
+
 <div style=\"page-break-after: always\"></div>
 
-## Package leaflet: Information for the user Cholib 145 mg/40 mg film-coated tablets
+## This leaflet was last revised in &lt;{MM/YYYY}&gt;:
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
+
+## Cholib 145 mg/40 mg film-coated tablets
 
 fenofibrate/simvastatin
 
@@ -2404,22 +2417,26 @@ Tell your doctor or pharmacist if you are taking any of the following medicines:
 - itraconazole, ketoconazole, fluconazole or posaconazole (medicines for fungal infections)
 - HIV protease inhibitors such as indinavir, nelfinavir, ritonavir and saquinavir (medicines used for HIV infection and AIDS)
 - Cobicistat (medicine used for HIV infection)
-- elbasvir, grazoprevir, glecaprevir or pibrentasvir (used to treat hepatitis C virus infection)erythromycin, clarithromycin, or telithromycin (medicines for bacterial infections)
+- elbasvir, grazoprevir, glecaprevir or pibrentasvir (used to treat hepatitis C virus infection)
+- erythromycin, clarithromycin, or telithromycin (medicines for bacterial infections)
 - nefazodone (a medicine for depression)
 - amiodarone (a medicine for an irregular heartbeat) or verapamil (a medicine for high blood pressure, chest pain associated with heart disease, or other heart conditions)
 - a fibrate (e.g. fenofibrate, gemfibrozil)
 - a statin (e.g. simvastatin, atorvastatin)
+- daptomycin (a medicine used to treat complicated skin and skin structure infections and bacteria present in the blood)
+- ribociclib (used to treat breast cancer)
+- palbociclib (used to treat breast cancer).
 
 Do not take Cholib if any of above applies to you. Check with your doctor or pharmacist if you are not sure.
 
 In particular tell your doctor or pharmacist if you are taking any of the following medicines (taking Cholib with any of these medicines can increase the risk of muscle problems):
 
+<div style=\"page-break-after: always\"></div>
+
 - high doses of at least 1 gram per day of niacin (nicotinic acid) or a treatment containing niacin (medicine for lowering fat levels in the blood)
 - colchicine (a medicine used to treat gout).
 
 Do not take fusidic acid (a medicine for bacterial infections) while using this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 As well as the medicines listed previously, tell your doctor or pharmacist if you are taking, have recently taken or might take any of the following medicines:
 
@@ -2464,9 +2481,9 @@ Swallow the tablet with a glass of water.
 
 Do not crush or chew the tablet.
 
-You should continue a low-fat diet or other measures (e.g. exercise, weight reduction) whilst taking Cholib.
-
 <div style=\"page-break-after: always\"></div>
+
+You should continue a low-fat diet or other measures (e.g. exercise, weight reduction) whilst taking Cholib.
 
 ## If you take more Cholib than you should
 
@@ -2499,9 +2516,9 @@ Some patients have experienced the following serious side effects whilst taking 
 
 If any of the previously listed serious side effects happen, stop taking Cholib and tell your doctor immediately or go to the emergency room at your nearest hospital - you may need urgent medical treatment.
 
-Some patients have experienced the following side effects whilst taking Cholib, fenofibrate or simvastatin:
-
 <div style=\"page-break-after: always\"></div>
+
+Some patients have experienced the following side effects whilst taking Cholib, fenofibrate or simvastatin:
 
 ## Very common side effects (may affect more than 1 in 10 people):
 
@@ -2551,12 +2568,12 @@ Some patients have experienced the following side effects whilst taking Cholib, 
 - severe allergic skin rash with blisters
 - complications of gall stones such as colic because of stones in bile duct, infection of the bile ducts or gall bladder
 - diabetes mellitus
-- erectile dysfunction
-- feeling depressed
-- sleep disturbances including nightmares
 
 <div style=\"page-break-after: always\"></div>
 
+- erectile dysfunction
+- feeling depressed
+- sleep disturbances including nightmares
 - specific lung disease with difficulties breathing (called interstitial lung disease)
 - muscle weakness that is constant
 - increase in 'glycosylated haemoglobin' and blood glucose levels - (markers for blood glucose control in diabetes mellitus - shown in tests
@@ -2572,7 +2589,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use Cholib after the expiry date which is stated on the carton and the blister after EXP. The expiry date refers to the last day of that month.
 
-Store below 30°C.
+## Store below 30°C.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -2594,15 +2611,13 @@ Butylhydroxyanisole (E320), lactose monohydrate, sodium laurilsulfate, starch, p
 
 Poly (vinyl alcohol), partially hydrolysed (E1203), titanium dioxide (E171), talc (E553b), lecithin (derived from soya bean (E322)), xanthan gum (E415), iron oxide red (E172).
 
+<div style=\"page-break-after: always\"></div>
+
 ## What Cholib looks like and contents of the pack
 
 Oval, biconvex, brick red coloured, film-coated tablet, with bevelled edges and 145/40 on one side. The diameter dimensions are 19.3 x 9.3 mm approximately and the tablet weight is about 840 mg.
 
-The tablets are provided in carton boxes with blisters containing 10,30 or 90 tablets.
-
-<div style=\"page-break-after: always\"></div>
-
-Not all pack sizes may be marketed.
+The tablets are provided in carton boxes with blisters containing 10,30 or 90 tablets. Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 
@@ -2624,25 +2639,33 @@ For any information about this medicine, please contact the local representative
 
 Viatris
 
-Tel/Tél: + 32 2 658 61 00
+Tél/Tel: + 32 2 658 61 00
 
 ## България
 
-Майлан ЕООД Teл.: + 359 2 4455 400
+Виатрис ЕООД
+
+Teл.: +
+
+359 2 4455 400
 
 ## Česká republika
 
-Viatris CZ s.r.o. Tel: +420 222 004 400
+Viatris CZ s.r.o.
+
+Tel: +420 222 004 400
 
 ## Danmark
 
 Viatris ApS
 
-Tlf. +45 28 11 69 32
+Tlf.: +45 28 11 69 32
 
 ## Deutschland
 
-Viatris Healthcare GmbH Tel: +49 800 0700 800
+Viatris Healthcare GmbH
+
+Tel: +49 800 0700 800
 
 ## Eesti
 
@@ -2652,23 +2675,27 @@ Tel: + 372 6363052
 
 ## Ελλάδα
 
-Viatris Hellas Ltd Τηλ.: +30 210 0 100 002
+Viatris Hellas Ltd
+
+Τηλ: +30 210 0 100 002
 
 ## España
 
-Viatris Pharmaceuticals, S.L. +34 900 102 712
+Viatris Pharmaceuticals, S.L.
+
+Tel: +34 900 102 712
 
 ## France
 
-Viatris Santé Tél: + 33 (0)1 40 80 15 55
+Viatris Santé
 
-## Hrvatska
-
-Viatris Hrvatska d.o.o. Tel: + 385 1 23 50 599
+Tél: + 33 (0)1 40 80 15 55
 
 ## Ireland
 
-Viatris Limited Tel: +353 1 8711600
+Viatris Limited
+
+Tel: +353 1 8711600
 
 ## Ísland
 
@@ -2678,55 +2705,71 @@ Sími: +354 540 8000
 
 ## Italia
 
-Viatris Italia S.r.l. Tel: + 39 (0) 2 61246921
+Viatris Italia S.r.l.
+
+Tel: + 39 (0) 2 61246921
 
 ## Κύπρος
 
-CPO Pharmaceuticals Ltd Τηλ: +357 22863100
+CPO Pharmaceuticals Ltd
+
+Τηλ
+
+: +357 22863100
 
 ## Latvija
 
-Viatris SIA Tel: + 371 67 605 580
+Viatris SIA
+
+Tel: + 371 67 605 580
 
 ## Lietuva
 
-Viatris UAB Tel: +370 52 051 288
+Viatris UAB
+
+Tel: +370 52 051 288
 
 ## Luxembourg/Luxemburg
 
 Viatris
 
-Tel/Tél: + 32 2 658 6100
+Tél/Tel: + 32 2 658 6100
 
 ## Magyarország
 
-Viatris Healthcare Kft Tel: +36 1 465 2100
+Viatris Healthcare Kft
+
+Tel.: +36 1 465 2100
 
 ## Malta
 
-V.J. Salomone Pharma Ltd. Tel: +356 21 22 01 74
+V.J. Salomone Pharma Ltd.
 
-## Nederland
-
-Viatris Healthcare B.V.
-
-Tel: +31 (0)20 426 33 00
+Tel: +356 21 22 01 74
 
 ## Norge
 
-Viatris AS Tlf: + 47 66 75 33 00
+Viatris AS
+
+Tlf: + 47 66 75 33 00
 
 ## Österreich
 
-Viatris Austria GmbH Tel: + 43 1 863 90
+Viatris Austria GmbH
+
+Tel: + 43 1 863 90
 
 ## Polska
 
-Viatris Healthcare Sp. z o.o. Tel: +48 22 546 64 00
+Viatris Healthcare Sp. z o.o.
+
+Tel.: +48 22 546 64 00
 
 ## Portugal
 
-Viatris Healthcare, Lda. Tel : +351 214 127 200
+Viatris Healthcare, Lda.
+
+Tel : +351 214 127 200
 
 ## România
 
@@ -2736,11 +2779,15 @@ Tel: +40 372 579 000
 
 ## Slovenija
 
-Viatris d.o.o. Tel: + 386 (0)123 63 180
+Viatris d.o.o.
+
+Tel: + 386 (0)123 63 180
 
 ## Slovenská republika
 
-Viatris Slovakia s.r.o. Tel: +421 2 32 199 100
+Viatris Slovakia s.r.o.
+
+Tel: +421 2 32 199 100
 
 ## Suomi/Finland
 
@@ -2750,9 +2797,19 @@ Puh/Tel: +358 20 720 9555
 
 ## Sverige
 
-Viatris AB Tel: +46 8 630 19 00
+Viatris AB
+
+Tel: +46 8 630 19 00
 
 <div style=\"page-break-after: always\"></div>
+
+Hrvatska Viatris Hrvatska d.o.o. Tel: + 385 1 23 50 599
+
+## Nederland
+
+Viatris Healthcare B.V.
+
+Tel: +31 (0)20 426 33 00
 
 ## This leaflet was last revised in &lt;{MM/YYYY}&gt;.
 

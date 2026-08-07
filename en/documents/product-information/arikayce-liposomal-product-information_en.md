@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-14 14:33:04
-document_pages: 30
+document_datetime: 2026-08-05 12:06:57
+document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/arikayce-liposomal-product-information_en.pdf
 document_name: arikayce-liposomal-product-information_en.pdf
 version: success
-processing_time: 6.7967104
-conversion_datetime: 2025-12-24 19:45:30.927639
+processing_time: 6.4951494
+conversion_datetime: 2026-08-07 14:37:14.519512
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -148,11 +148,9 @@ Use in patients with severe renal impairment is contraindicated (see section 4.3
 
 ## Neuromuscular blockade
 
-In clinical trials, neuromuscular disorders (reported as muscle weakness, neuropathy peripheral and balance disorder) have been reported with inhaled liposomal amikacin. Aminoglycosides may
+In clinical trials, neuromuscular disorders (reported as muscle weakness, neuropathy peripheral and balance disorder) have been reported with inhaled liposomal amikacin. Aminoglycosides may aggravate muscle weakness because of a curare-like effect at the neuromuscular junction. Use of inhaled liposomal amikacin in patients with myasthenia gravis is not recommended. Patients with any known or suspected neuromuscular disorders should be closely monitored.
 
 <div style=\"page-break-after: always\"></div>
-
-aggravate muscle weakness because of a curare-like effect at the neuromuscular junction. Use of inhaled liposomal amikacin in patients with myasthenia gravis is not recommended. Patients with any known or suspected neuromuscular disorders should be closely monitored.
 
 ## Co-administration with other medicinal products
 
@@ -210,78 +208,80 @@ Adverse drug reactions in Table 1 are listed according to system organ classes i
 
 ## Table 1 - Summary of adverse reactions
 
-| System Organ Class                              | Adverse reactions                        | Frequency category   |
-|-------------------------------------------------|------------------------------------------|----------------------|
-| Infections and infestations                     | Infective exacerbation of bronchiectasis | Common               |
-|                                                 | Laryngitis                               | Common               |
-|                                                 | Oral candidiasis                         | Common               |
-| Immune system disorders                         | Anaphylactic reactions                   | Not known            |
-|                                                 | Hypersensitivity reactions               | Not known            |
-| Psychiatric disorders                           | Anxiety                                  | Uncommon             |
-| Nervous system disorders                        | Headache                                 | Common               |
-|                                                 | Dizziness                                | Common               |
-|                                                 | Dysgeusia                                | Common               |
-|                                                 | Aphonia                                  | Common               |
-|                                                 | Balance disorder                         | Common               |
-| Ear and labyrinth disorders                     | Tinnitus                                 | Common               |
-|                                                 | Deafness                                 | Common               |
-| Respiratory, thoracic and mediastinal disorders | Dysphonia                                | Very common          |
-|                                                 | Dyspnoea                                 | Very common          |
-|                                                 | Cough                                    | Very common          |
-|                                                 | Haemoptysis                              | Very common          |
+| System Organ Class                    | Adverse reactions                        | Frequency category   |
+|---------------------------------------|------------------------------------------|----------------------|
+| Infections and infestations           | Infective exacerbation of bronchiectasis | Common               |
+|                                       | Laryngitis                               | Common               |
+|                                       | Oral candidiasis                         | Common               |
+| Immune system disorders               | Anaphylactic reactions                   | Not known            |
+|                                       | Hypersensitivity reactions               | Not known            |
+| Psychiatric disorders                 | Anxiety                                  | Uncommon             |
+| Nervous system disorders              | Headache                                 | Common               |
+|                                       | Dizziness                                | Common               |
+|                                       | Dysgeusia                                | Common               |
+|                                       | Aphonia                                  | Common               |
+|                                       | Balance disorder                         | Common               |
+| Eye disorders                         | Eye irritation*                          | Not known            |
+| Ear and labyrinth disorders           | Tinnitus                                 | Common               |
+|                                       | Deafness                                 | Common               |
+| Respiratory, thoracic and mediastinal | Dysphonia                                | Very common          |
+| disorders                             | Dyspnoea                                 | Very common          |
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                                   | Adverse reactions       | Frequency category   |
-|------------------------------------------------------|-------------------------|----------------------|
-|                                                      | Oropharyngeal pain      | Common               |
-|                                                      | Allergic alveolitis     | Common               |
-|                                                      | Chronic Obstructive     | Common               |
-|                                                      | Pulmonary Disease       |                      |
-|                                                      | Wheezing                | Common               |
-|                                                      | Productive cough        | Common               |
-|                                                      | Sputum increased        | Common               |
-|                                                      | Bronchospasm            | Common               |
-|                                                      | Pneumonitis             | Common               |
-|                                                      | Vocal cord inflammation | Common               |
-|                                                      | Throat irritation       | Common               |
-|                                                      | Pharyngeal swelling     | Not known            |
-|                                                      | Nasal dryness           | Not known            |
-|                                                      | Epistaxis               | Not known            |
-|                                                      | Rhinorrhoea             | Not known            |
-|                                                      | Sneezing                | Not known            |
-|                                                      | Nasal Congestion        | Not known            |
-| Gastrointestinal disorders                           | Diarrhoea               | Common               |
-|                                                      | Nausea                  | Common               |
-|                                                      | Vomiting                | Common               |
-|                                                      | Dry mouth               | Common               |
-|                                                      | Decrease of appetite    | Common               |
-|                                                      | Dysphagia               | Not known            |
-|                                                      | Glossitis               | Not known            |
-|                                                      | Glossodynia             | Not known            |
-|                                                      | Salivary hypersecretion | Not known            |
-|                                                      | Stomatitis              | Not known            |
-|                                                      | Abdominal pain          | Not known            |
-|                                                      | Abdominal pain upper    | Not known            |
-|                                                      | Abdominal discomfort    | Not known            |
-|                                                      | Abdominal distension    | Not known            |
-| Skin and subcutaneous tissue disorders               | Rash                    | Common               |
-|                                                      | Pruritus                | Common               |
-| Musculoskeletal and connective tissue disorders      | Myalgia                 | Common               |
-|                                                      | Arthralgia              | Common               |
-| Renal and urinary disorders                          | Renal impairment        | Common               |
-| General disorders and administration site conditions | Fatigue                 | Common               |
-|                                                      | Pyrexia                 | Common               |
-|                                                      | Chest discomfort        | Common               |
-| Investigations                                       | Weight decreased        | Common               |
+| System Organ Class                                   | Adverse reactions          | Frequency category   |
+|------------------------------------------------------|----------------------------|----------------------|
+|                                                      | Cough                      | Very common          |
+|                                                      | Haemoptysis                | Very common          |
+|                                                      | Oropharyngeal pain         | Common               |
+|                                                      | Allergic alveolitis        | Common               |
+|                                                      | Chronic Obstructive        | Common               |
+|                                                      | Pulmonary Disease          |                      |
+|                                                      | Wheezing                   | Common               |
+|                                                      | Productive cough           | Common               |
+|                                                      | Sputum increased           | Common               |
+|                                                      | Bronchospasm               | Common               |
+|                                                      | Pneumonitis                | Common               |
+|                                                      | Vocal cord inflammation    | Common               |
+|                                                      | Throat irritation          | Common               |
+|                                                      | Pharyngeal swelling        | Not known            |
+|                                                      | Nasal dryness              | Not known            |
+|                                                      | Epistaxis                  | Not known            |
+|                                                      | Rhinorrhoea                | Not known            |
+|                                                      | Sneezing                   | Not known            |
+|                                                      | Nasal Congestion           | Not known            |
+| Gastrointestinal disorders                           | Diarrhoea                  | Common               |
+|                                                      | Nausea                     | Common               |
+|                                                      | Vomiting                   | Common               |
+|                                                      | Dry mouth                  | Common               |
+|                                                      | Decrease of appetite       | Common               |
+|                                                      | Dysphagia                  | Not known            |
+|                                                      | Glossitis                  | Not known            |
+|                                                      | Glossodynia                | Not known            |
+|                                                      | Salivary hypersecretion    | Not known            |
+|                                                      | Stomatitis                 | Not known            |
+|                                                      | Abdominal pain             | Not known            |
+|                                                      | Abdominal pain upper       | Not known            |
+|                                                      | Abdominal discomfort       | Not known            |
+|                                                      | Abdominal distension       | Not known            |
+| Skin and subcutaneous tissue disorders               | Rash                       | Common               |
+|                                                      | Pruritus                   | Common               |
+| Musculoskeletal and connective tissue disorders      | Myalgia                    | Common               |
+|                                                      | Arthralgia                 | Common               |
+| Renal and urinary disorders                          | Renal impairment           | Common               |
+|                                                      | Acute Kidney Injury        | Not known            |
+|                                                      | Renal failure              | Not known            |
+| General disorders and administration site conditions | Fatigue                    | Common               |
+|                                                      | Pyrexia                    | Common               |
+|                                                      | Chest discomfort           | Common               |
+| Investigations                                       | Weight decreased           | Common               |
+|                                                      | Blood creatinine increased | Not known            |
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
-
-<div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -309,11 +309,11 @@ The efficacy of inhaled liposomal amikacin was evaluated in study INS-212, a ran
 
 Patients who had not achieved sputum culture conversion (SCC) while being treated with Multiple Drug Regimen(s) (MDR) for at least 6 months before study entry were randomised to receive ARIKAYCE in addition to their MDR treatment or to continue with MDR alone. Patients achieving SCC, defined as 3 consecutive negative MAC sputum cultures by month 6 on treatment continued therapy for up to 12 months after achieving SCC. Those not achieving SCC by month 6 were discontinued from the study at month 8.
 
+<div style=\"page-break-after: always\"></div>
+
 A total of 335 patients were randomised and dosed (ARIKAYCE liposomal + MDR n = 223; MDR alone n = 112) (Safety population). Median duration of prior MDR treatment was 2.6 years and 2.4 years in the ARIKAYCE liposomal + MDR and MDR alone group, respectively. Patients were stratified per smoking status (current smoker or not) and MDR use at screening (on treatment or off treatment for at least 3 months prior to screening). The primary endpoint was durable SCC defined as the proportion of randomised patients that had achieved SCC by month 6 on treatment and had no positive solid media culture or no more than two broth media cultures by 3 months off treatment.
 
 Sixty-five (29.0%) and 10 (8.9%) patients achieved SCC by month 6 on treatment in the ARIKAYCE liposomal + MDR and the MDR group, respectively (p&lt; 0.0001). Of these, based on the primary analysis durable SCC at 3 months off treatment was achieved by 16.1% [36/224] vs. 0% [0/112]; p -value &lt;0.0001.
-
-<div style=\"page-break-after: always\"></div>
 
 In a post-hoc analysis that eliminated patients with negative cultures (solid media or broth) at study baseline and which counted any post-treatment positive culture (solid media or broth) as positive, 30/224 (13.4%) in the ARIKAYCE liposomal + MDR group and 0/112 (0%) in the MDR group achieved durable SCC at 3 months off treatment. Respective rates at 12 months off treatment were 25/224 (11%) vs. 0/112 (0%).
 
@@ -345,17 +345,15 @@ Amikacin is not metabolised.
 
 Amikacin is excreted in the urine unchanged, primarily by glomerular filtration. The median apparent terminal serum half-life of amikacin after inhalation of ARIKAYCE liposomal ranged from approximately 3.29 to 14.0 hrs.
 
+<div style=\"page-break-after: always\"></div>
+
 A population pharmacokinetic analysis for ARIKAYCE liposomal in 53 subjects with NTM lung disease aged 20 to 84 years indicated that amikacin clearance is 34 L/h. The only clinical covariate identified to be predictive of amikacin clearance was body weight.
 
 ## 5.3 Preclinical safety data
 
 ## Carcinogenicity
 
-In a 2-year inhalation carcinogenicity study with inhaled liposomal amikacin in rats at doses of 5, 15, and 45 mg/kg/day, squamous cell carcinoma was observed in the lungs of 2 of 120 rats (0/60 males and 2/60 females) administered the highest dose tested (45 mg/kg/day). This ARIKAYCE dose was 6-fold greater than the clinical dose when normalised on a lung weight basis. No squamous cell carcinoma was observed at the mid-dose of 15 mg/kg/day, which was 2-fold greater than the clinical
-
-<div style=\"page-break-after: always\"></div>
-
-dose when normalised on a lung weight basis. The squamous cell carcinomas may be the result of a high lung burden of particulates from inhaled liposomal amikacin in the rat lung. The relevance of the lung tumour findings with regards to humans receiving inhaled liposomal amikacin is unknown. In dogs administered inhaled liposomal amikacin daily by inhalation for 9 months at doses up to 30 mg/kg/day, no preneoplastic or neoplastic changes were observed in the lungs (approximately 3 to 11 times the recommended human dose based on lung weight).
+In a 2-year inhalation carcinogenicity study with inhaled liposomal amikacin in rats at doses of 5, 15, and 45 mg/kg/day, squamous cell carcinoma was observed in the lungs of 2 of 120 rats (0/60 males and 2/60 females) administered the highest dose tested (45 mg/kg/day). This ARIKAYCE dose was 6-fold greater than the clinical dose when normalised on a lung weight basis. No squamous cell carcinoma was observed at the mid-dose of 15 mg/kg/day, which was 2-fold greater than the clinical dose when normalised on a lung weight basis. The squamous cell carcinomas may be the result of a high lung burden of particulates from inhaled liposomal amikacin in the rat lung. The relevance of the lung tumour findings with regards to humans receiving inhaled liposomal amikacin is unknown. In dogs administered inhaled liposomal amikacin daily by inhalation for 9 months at doses up to 30 mg/kg/day, no preneoplastic or neoplastic changes were observed in the lungs (approximately 3 to 11 times the recommended human dose based on lung weight).
 
 ## Genotoxicity
 
@@ -383,6 +381,8 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 Store in a refrigerator (2 ° C - 8 ° C).
 
+<div style=\"page-break-after: always\"></div>
+
 Do not freeze.
 
 ARIKAYCE can be stored at room temperature below 25 °C for up to 4 weeks.
@@ -395,11 +395,9 @@ Pack-size of 28 vials. The carton also contains the Lamira Nebuliser Handset and
 
 ## 6.6 Special precautions for disposal and other handling
 
-Discard any vial that has been frozen.
+Accidental exposure to ARIKAYCE liposomal in healthcare practitioners and caregivers may occur if the Lamira Nebuliser System is not used correctly. There have been reports of transient reactions including cough, oropharyngeal pain, headache, throat and eye irritation in healthcare professionals and caregivers accidentally exposed to the aerosolized product. To reduce the risk of unintended exposure, ARIKAYCE liposomal and the Lamira Nebuliser System should be used and maintained according to the instructions provided. Individuals assisting the patient should avoid standing close to the aerosol stream or exhaled mist during administration.
 
-<div style=\"page-break-after: always\"></div>
-
-Once at room temperature, any unused medicine must be discarded at the end of 4 weeks.
+Discard any vial that has been frozen. Once at room temperature, any unused medicine must be discarded at the end of 4 weeks.
 
 If the current dose is refrigerated, the vial of ARIKAYCE liposomal should be removed from the refrigerator and be allowed to come to room temperature. Prepare ARIKAYCE liposomal by shaking the vial vigorously until the contents appear uniform and well mixed. Open the vial of ARIKAYCE liposomal by flipping up the plastic top of the vial, then pulling downward to loosen the metal ring. Carefully remove the metal ring and remove the rubber stopper. Pour the content of the ARIKAYCE liposomal vial into the medicine reservoir of the Lamira Nebuliser Handset.
 
@@ -417,7 +415,11 @@ EU/1/20/1469/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 27 October 2020 Date of latest renewal: 02 June 2025
+Date of first authorisation: 27 October 2020
+
+Date of latest renewal: 02 June 2025
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -519,6 +521,8 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -547,10 +551,8 @@ EU/1/20/1469/001
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Arikayce
@@ -562,8 +564,6 @@ Arikayce
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN NN
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -635,8 +635,7 @@ EU/1/20/1469/001
 
 See vial for batch number and expiry date
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 17. UNIQUE IDENTIFIER - 2D BARCODE
@@ -648,7 +647,9 @@ See vial for batch number and expiry date
 |--------------------------------------------------------------------|
 | VIAL                                                               |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+1.
+
+NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 ARIKAYCE liposomal 590 mg nebuliser dispersion amikacin Inhalation use
 
@@ -689,7 +690,7 @@ ARIKAYCE liposomal 590 mg (amikacin) may cause serious side effects.
 
 These may happen any time during treatment. You may experience more than one side effect at the same time.
 
-## ARIKAYCE liposomal may be associated with the development of an allergic lung condition (allergic alveolitis)
+ARIKAYCE liposomal may be associated with the development of an allergic lung condition (allergic alveolitis)
 
 CONTACT YOUR DOCTOR IMMEDIATELY if you develop any signs or symptoms such as:
 
@@ -717,9 +718,7 @@ Your doctor may give you other medicines to prevent more severe complications an
 
 ## Package leaflet: Information for the patient
 
-## ARIKAYCE liposomal 590 mg nebuliser dispersion
-
-## amikacin
+## ARIKAYCE liposomal 590 mg nebuliser dispersion amikacin
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -914,10 +913,17 @@ Side effects with Unknown frequency
 - -Abdominal pain upper
 - -Abdominal discomfort
 - -Abdominal distension
+- -Eye irritation following accidental exposure to the aerosol
+- -Kidney problems including reduced urine output, swelling in legs, ankles or feet, nausea, and confusion (acute kidney injury)
+- -Elevated creatinine in the blood, indicating kidney problems
+
+Accidental exposure following inhalation of ARIKAYCE liposomal in people who are not using the medicine, such as caregivers, may cause side effects. Short-lasting reactions have been reported, including cough, pain in mouth and throat, headache, and throat and eye irritation, due to contact with the aerosol.
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store ARIKAYCE liposomal
 
@@ -928,8 +934,6 @@ Do not use this medicine after the expiry date which is stated on the carton and
 Store in a refrigerator (2 ° C - 8 ° C). Do not freeze, discard any vial that has been frozen.
 
 Alternatively, ARIKAYCE liposomal can be stored at room temperature below 25 °C, but only for up to 4 weeks. Once at room temperature, any unused medicinal product must be discarded at the end of 4 weeks.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -972,6 +976,8 @@ Assemble the Lamira Nebuliser Handset including the connection to the controller
 
 This medicine is a milky white liquid in a clear vial. Do not use if you notice change in colour or any small lumps floating in the vial.
 
+To avoid accidental exposure, individuals assisting the patient should not stand close to the aerosol stream or the mist breathed out by the patient during treatment.
+
 ## Preparing the medicine for use:
 
 1. It is recommended that the vial be removed from the refrigerator at least 45 minutes before use to allow it to come to room temperature. Do not use other medicines in the Lamira Nebuliser Handset.
@@ -1002,12 +1008,33 @@ Figure 5
 
 Figure 6
 
-9. Sit in a relaxed, upright position. This makes inhaling easier and helps the medicine get into your lungs.
-
 <div style=\"page-break-after: always\"></div>
 
+9. Sit in a relaxed, upright position. This makes inhaling easier and helps the medicine get into your lungs.
 10. Insert the mouthpiece and take slow, deep breaths. Then, breathe normally in and out through the mouthpiece until your treatment is complete. Treatment should take about 14 minutes but could take up to 20 minutes. Be sure to hold the Lamira Nebuliser Handset level throughout the treatment (Figure 7).
 
 Figure 7
 
 <!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for amikacin (centrally authorised product only), the scientific conclusions of PRAC are as follows:
+
+In view of available data on eye irritation, nephrotoxicity and occupational exposure/exposure in caregivers from spontaneous reports including in some cases a close temporal relationship, a positive de-challenge and/or re-challenge, and in view of a plausible mechanism of action, the PRAC considers a causal relationship between amikacin (centrally authorised product only) and eye irritation, acute kidney injury, renal failure and blood creatinine increased is at least a reasonable possibility. The PRAC concluded that the product information of products containing amikacin (centrally authorised products only) should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for amikacin (centrally authorised product only) the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing amikacin (centrally authorised product only) is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

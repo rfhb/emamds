@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-07 16:12:00
+document_datetime: 2026-08-05 16:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/humira.html
 document_name: humira.html
 version: success
-processing_time: 0.2224065
-conversion_datetime: 2026-05-10 13:15:46.852106
+processing_time: 0.285842
+conversion_datetime: 2026-08-07 13:54:43.832781
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Humira
 
@@ -40,7 +40,6 @@ Page contents
 - [News on Humira](#news-on)
 - [Product information - with tracked changes](#product-information-with-tracked-changes-79975)
 - [More information on Humira](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -68,7 +67,7 @@ Expand section
 
 Collapse section
 
-## How is Humira used?
+### How is Humira used?
 
 Humira is given as an injection under the skin, usually every 2 weeks. The dose and frequency of injection depends on the condition to be treated and the dose for a child is calculated according to the child's weight.
 
@@ -76,11 +75,11 @@ Treatment with Humira must be started and supervised by a doctor who has experie
 
 Humira can only be obtained with a prescription. For more information about using Humira, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Humira work?
+### How does Humira work?
 
 The active substance in Humira, adalimumab, is a monoclonal antibody (a type of protein) that has been designed to recognise and attach to a substance in the body called tumour necrosis factor (TNF). This substance is involved in causing inflammation and is found at high levels in patients with the diseases that Humira is used to treat. By attaching to TNF, adalimumab blocks its activity, thereby reducing inflammation and other symptoms of the diseases.
 
-## What benefits of Humira have been shown in studies?
+### What benefits of Humira have been shown in studies?
 
 More than twenty main studies involving over 9,500 patients have looked at the effects of Humira in reducing symptoms of inflammatory conditions. The studies included adult patients for the most part, but included children in studies for Crohn's disease, ulcerative colitis, plaque psoriasis, polyarticular juvenile idiopathic arthritis, non-infectious anterior uveitis and enthesitis-related arthritis.
 
@@ -94,7 +93,7 @@ Humira, when used as directed, has been shown in clinical trials to be effective
 - In hidradenitis suppurativa, 59% of patients receiving Humira in one main study and 42% of patients in another achieved at least a 50% reduction in abscesses and nodules after 12 weeks, without any increase in abscess count or fistulas. The proportions of patients taking placebo who achieved this goal were 28% in the first study and 26% in the second.
 - In non-infectious uveitis, Humira was found effective in 3 studies. The first study involved adults whose disease was not controlled with high doses of corticosteroids. In this study treatment failed in about 79% of patients receiving placebo compared with about 55% given Humira. The second study involved adults whose uveitis was under control with a corticosteroid but the corticosteroid dose was then reduced or stopped and Humira or placebo introduced. In this study, treatment failure occurred in about 55% of patients receiving placebo compared with 39% receiving Humira. In the third study in children aged 2 to 18 years with non-infectious anterior uveitis, in whom methotrexate alone did not work, treatment failed in about 60% of patients receiving placebo with methotrexate compared with about 27% of patients given Humira with methotrexate.
 
-## What are the risks associated with Humira?
+### What are the risks associated with Humira?
 
 The most common side effects with Humira (which may affect more than 1 in 10 people) are infections (including in the nose, throat and sinuses), injection site reactions (redness, itching, bleeding, pain or swelling), headache and muscle and bone pain.
 
@@ -104,7 +103,7 @@ Other rare serious side effects (which may affect up to 1 in 1,000 people) inclu
 
 Humira must not be used in patients with active tuberculosis or other severe infections, or in patients with moderate to severe heart failure (an inability of the heart to pump enough blood around the body). For the full list of restrictions with Humira, see the package leaflet.
 
-## Why is Humira authorised in the EU?
+### Why is Humira authorised in the EU?
 
 Humira has been studied extensively and has been shown to be effective at reducing symptoms in patients with inflammatory conditions.
 
@@ -112,7 +111,7 @@ Some rare but serious side effects have been reported, including serious infecti
 
 The European Medicines Agency therefore decided that Humira's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Humira?
+### What measures are being taken to ensure the safe and effective use of Humira?
 
 Patients treated with Humira must be given a reminder card with information on the safety of the medicine.
 
@@ -120,7 +119,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Humira are continuously monitored. Side effects reported with Humira are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Humira
+### Other information about Humira
 
 Humira received a marketing authorisation valid throughout the EU on 8 September 2003.
 
@@ -134,7 +133,7 @@ English (EN) (105.88 KB - PDF)
 
 [View](/en/documents/overview/humira-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-936)
+[Other languages (22)](#file-language-dropdown-888)
 
 български (BG) (130 KB - PDF)
 
@@ -166,7 +165,7 @@ Deutsch (DE) (106.96 KB - PDF)
 
 [View](/de/documents/overview/humira-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (104.98 KB - PDF)
+eesti (ET) (104.98 KB - PDF)
 
 **First published:** 24/11/2009 **Last updated:** 09/12/2020
 
@@ -196,13 +195,13 @@ italiano (IT) (106.46 KB - PDF)
 
 [View](/it/documents/overview/humira-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (127.45 KB - PDF)
+latviešu (LV) (127.45 KB - PDF)
 
 **First published:** 24/11/2009 **Last updated:** 09/12/2020
 
 [View](/lv/documents/overview/humira-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (125.35 KB - PDF)
+lietuvių (LT) (125.35 KB - PDF)
 
 **First published:** 24/11/2009 **Last updated:** 09/12/2020
 
@@ -256,7 +255,7 @@ slovenščina (SL) (129.44 KB - PDF)
 
 [View](/sl/documents/overview/humira-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (105.62 KB - PDF)
+suomi (FI) (105.62 KB - PDF)
 
 **First published:** 24/11/2009 **Last updated:** 09/12/2020
 
@@ -270,9 +269,9 @@ svenska (SV) (105.38 KB - PDF)
 
 Humira : EPAR - Risk management plan
 
-English (EN) (846.9 KB - PDF)
+English (EN) (1.2 MB - PDF)
 
-**First published:** 12/07/2019 **Last updated:** 07/05/2026
+**First published:** 12/07/2019 **Last updated:** 05/08/2026
 
 [View](/en/documents/rmp/humira-epar-risk-management-plan_en.pdf)
 
@@ -286,7 +285,7 @@ English (EN) (1.66 MB - PDF)
 
 [View](/en/documents/product-information/humira-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-547)
+[Other languages (24)](#file-language-dropdown-577)
 
 български (BG) (1.91 MB - PDF)
 
@@ -318,7 +317,7 @@ Deutsch (DE) (1.89 MB - PDF)
 
 [View](/de/documents/product-information/humira-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.73 MB - PDF)
+eesti (ET) (1.73 MB - PDF)
 
 **First published:** 13/11/2009 **Last updated:** 08/10/2025
 
@@ -342,25 +341,19 @@ hrvatski (HR) (1.92 MB - PDF)
 
 [View](/hr/documents/product-information/humira-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.68 MB - PDF)
-
-**First published:** 13/11/2009 **Last updated:** 08/10/2025
-
-[View](/is/documents/product-information/humira-epar-product-information_is.pdf)
-
 italiano (IT) (1.86 MB - PDF)
 
 **First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/it/documents/product-information/humira-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.86 MB - PDF)
+latviešu (LV) (1.86 MB - PDF)
 
 **First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/lv/documents/product-information/humira-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.91 MB - PDF)
+lietuvių (LT) (1.91 MB - PDF)
 
 **First published:** 13/11/2009 **Last updated:** 08/10/2025
 
@@ -383,12 +376,6 @@ Nederlands (NL) (1.73 MB - PDF)
 **First published:** 13/11/2009 **Last updated:** 08/10/2025
 
 [View](/nl/documents/product-information/humira-epar-product-information_nl.pdf)
-
-norsk (NO) (1.73 MB - PDF)
-
-**First published:** 13/11/2009 **Last updated:** 08/10/2025
-
-[View](/no/documents/product-information/humira-epar-product-information_no.pdf)
 
 polski (PL) (2.04 MB - PDF)
 
@@ -420,7 +407,7 @@ slovenščina (SL) (1.89 MB - PDF)
 
 [View](/sl/documents/product-information/humira-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.72 MB - PDF)
+suomi (FI) (1.72 MB - PDF)
 
 **First published:** 13/11/2009 **Last updated:** 08/10/2025
 
@@ -432,15 +419,28 @@ svenska (SV) (1.71 MB - PDF)
 
 [View](/sv/documents/product-information/humira-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000287800
+Íslenska (IS) (1.68 MB - PDF)
 
-08/10/2025
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
+
+[View](/is/documents/product-information/humira-epar-product-information_is.pdf)
+
+norsk (NO) (1.73 MB - PDF)
+
+**First published:** 13/11/2009 **Last updated:** 08/10/2025
+
+[View](/no/documents/product-information/humira-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000342430
+
+09/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -458,7 +458,7 @@ English (EN) (28.58 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-660)
+[Other languages (24)](#file-language-dropdown-520)
 
 български (BG) (39.08 KB - PDF)
 
@@ -490,7 +490,7 @@ Deutsch (DE) (28.18 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (27.05 KB - PDF)
+eesti (ET) (27.05 KB - PDF)
 
 **First published:** 23/06/2009 **Last updated:** 08/10/2025
 
@@ -514,25 +514,19 @@ hrvatski (HR) (40.3 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (29.31 KB - PDF)
-
-**First published:** 23/06/2009 **Last updated:** 08/10/2025
-
-[View](/is/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (28.79 KB - PDF)
 
 **First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/it/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (41.48 KB - PDF)
+latviešu (LV) (41.48 KB - PDF)
 
 **First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/lv/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (39.83 KB - PDF)
+lietuvių (LT) (39.83 KB - PDF)
 
 **First published:** 23/06/2009 **Last updated:** 08/10/2025
 
@@ -555,12 +549,6 @@ Nederlands (NL) (28.6 KB - PDF)
 **First published:** 23/06/2009 **Last updated:** 08/10/2025
 
 [View](/nl/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (29.36 KB - PDF)
-
-**First published:** 23/06/2009 **Last updated:** 08/10/2025
-
-[View](/no/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (41.55 KB - PDF)
 
@@ -592,7 +580,7 @@ slovenščina (SL) (39.07 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (25.67 KB - PDF)
+suomi (FI) (25.67 KB - PDF)
 
 **First published:** 23/06/2009 **Last updated:** 08/10/2025
 
@@ -604,34 +592,37 @@ svenska (SV) (27.44 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (29.31 KB - PDF)
+
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
+
+[View](/is/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (29.36 KB - PDF)
+
+**First published:** 23/06/2009 **Last updated:** 08/10/2025
+
+[View](/no/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Humira
-
-Active substance
-
-adalimumab
-
-International non-proprietary name (INN) or common name
-
-adalimumab
-
-Therapeutic area (MeSH)
-
-- Spondylitis, Ankylosing
-- Arthritis, Juvenile Rheumatoid
-- Uveitis
-- Colitis, Ulcerative
-- Psoriasis
-- Arthritis, Psoriatic
-- Crohn Disease
-- Arthritis, Rheumatoid
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AB04
+- **Name of medicine**
+    - Humira
+- **Active substance**
+    - adalimumab
+- **International non-proprietary name (INN) or common name**
+    - adalimumab
+- **Therapeutic area (MeSH)**
+        - Spondylitis, Ankylosing
+        - Arthritis, Juvenile Rheumatoid
+        - Uveitis
+        - Colitis, Ulcerative
+        - Psoriasis
+        - Arthritis, Psoriatic
+        - Crohn Disease
+        - Arthritis, Rheumatoid
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AB04
 
 ### Pharmacotherapeutic group
 
@@ -643,23 +634,14 @@ Please refer to the product information document.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/000481
-
-Marketing authorisation holder
-
-AbbVie Deutschland GmbH &amp; Co. KG
-
-Knollstrasse 67061 Ludwigshafen Germany
-
-Marketing authorisation issued
-
-08/09/2003
-
-Revision
-
-97
+- **EMA product number**
+    - EMEA/H/C/000481
+- **Marketing authorisation holder**
+    - AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse  67061 Ludwigshafen  Germany
+- **Marketing authorisation issued**
+    - 08/09/2003
+- **Revision**
+    - 98
 
 ## Assessment history
 
@@ -667,13 +649,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Humira : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (152.34 KB - PDF)
+English (EN) (153.68 KB - PDF)
 
-**First published:** 20/03/2025 **Last updated:** 07/05/2026
+**First published:** 20/03/2025 **Last updated:** 05/08/2026
 
 [View](/en/documents/procedural-steps-after/humira-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -873,7 +855,7 @@ English (EN) (65.93 KB - PDF)
 
 **First published:** 15/12/2017 **Last updated:** 15/12/2017
 
-[View](/en/documents/scientific-conclusion/humira-h-c-psusa-00000057-201612-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/humira-h-c-psusa-00000057-201612-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Humira-H-C-481-X-164/G : EPAR - Assessment Report - Variation
 
@@ -883,7 +865,7 @@ English (EN) (1.66 MB - PDF)
 
 **First published:** 15/12/2017 **Last updated:** 15/12/2017
 
-[View](/en/documents/variation-report/humira-h-c-481-x-164g-epar-assessment-report-variation_en.pdf)
+[View](/en/documents/variation-report/humira-h-c-481-x-164-g-epar-assessment-report-variation_en.pdf)
 
 Humira-H-C-481-II-0163 : EPAR - Assessment Report - Variation
 
@@ -1183,7 +1165,7 @@ English (EN) (67.2 KB - PDF)
 
 **First published:** 18/12/2014 **Last updated:** 18/12/2014
 
-[View](/en/documents/scientific-conclusion/humira-h-c-481-psuv-0131-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/humira-h-c-481-psuv-0131-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Humira-H-C-481-II-00127 : EPAR - Assessment Report - Variation
 
@@ -1337,7 +1319,7 @@ English (EN) (257.09 KB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Humira
 
-Adopted Reference Number: CHMP post-authorisation summary of positive opinio
+Adopted
 
 English (EN) (130.49 KB - PDF)
 
@@ -1423,7 +1405,7 @@ English (EN) (183.37 KB - PDF)
 
 [View](/en/documents/scientific-discussion-variation/humira-h-c-481-ii-21-epar-scientific-discussion-variation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Humira : EPAR - Procedural steps taken before authorisation
 
@@ -1515,7 +1497,7 @@ English (EN) (3.09 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-724)
+[Other languages (24)](#file-language-dropdown-342)
 
 български (BG) (3.42 MB - DOCX)
 
@@ -1547,7 +1529,7 @@ Deutsch (DE) (2.73 MB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (3.2 MB - DOCX)
+eesti (ET) (3.2 MB - DOCX)
 
 **First published:** 08/10/2025
 
@@ -1571,25 +1553,19 @@ hrvatski (HR) (3.3 MB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (3.12 MB - DOCX)
-
-**First published:** 08/10/2025
-
-[View](/is/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (2.77 MB - DOCX)
 
 **First published:** 08/10/2025
 
 [View](/it/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (4.14 MB - DOCX)
+latviešu (LV) (4.14 MB - DOCX)
 
 **First published:** 08/10/2025
 
 [View](/lv/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (3.38 MB - DOCX)
+lietuvių (LT) (3.38 MB - DOCX)
 
 **First published:** 08/10/2025
 
@@ -1612,12 +1588,6 @@ Nederlands (NL) (2.61 MB - DOCX)
 **First published:** 08/10/2025
 
 [View](/nl/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (3.28 MB - DOCX)
-
-**First published:** 08/10/2025
-
-[View](/no/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (3.6 MB - DOCX)
 
@@ -1649,7 +1619,7 @@ slovenščina (SL) (3.2 MB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (2.71 MB - DOCX)
+suomi (FI) (2.71 MB - DOCX)
 
 **First published:** 08/10/2025
 
@@ -1660,6 +1630,18 @@ svenska (SV) (3.27 MB - DOCX)
 **First published:** 08/10/2025
 
 [View](/sv/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (3.12 MB - DOCX)
+
+**First published:** 08/10/2025
+
+[View](/is/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (3.28 MB - DOCX)
+
+**First published:** 08/10/2025
+
+[View](/no/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_no.docx)
 
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/search?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-1=1=EMEAHC000481II0149) (variation II/0149)
 - [Clinical data](https://clinicaldata.ema.europa.eu/web/cdp/home?p_p_id=cdpdossierviewportlet_WAR_cdpdossierviewportlet=0=maximized=view=column-3=2=EMEAHC000481II0147) (variation II/0147)
@@ -1672,18 +1654,15 @@ svenska (SV) (3.27 MB - DOCX)
 - [EMEA-000366-PIP01-08-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000366-pip01-08-m06)
 - [EMEA-000366-PIP04-12 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000366-pip04-12)
 - [EMEA-000366-PIP05-12-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000366-pip05-12-m02)
+- [Demyelinating Risk with TNF Inhibitors versus Other Targeted DMARDs in Rheumatoid Arthritis: A French Nationwide Claims Study (DEMY-TNF) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000001021)
 - [A 10-Year, Post-marketing, Observational Study to Assess Long Term Safety of HUMIRA® (Adalimumab) in Adult Patients With Chronic Plaque Psoriasis (PS) (ESPRIT) - post-authorisation study](https://catalogues.ema.europa.eu/study/48814)
 - [A Long-Term Non-Interventional Registry to Assess Safety and Effectiveness of HUMIRA (adalimumab) in Pediatric Patients with Moderately to Severely Active Crohn's Disease (CD) - CAPE - post-authorisation study](https://catalogues.ema.europa.eu/study/48820)
 - [A Long-term, Multi-center, Longitudinal Post-marketing, Observational Study to Assess Long Term Safety and Effectiveness of HUMIRA® (Adalimumab) in Children With Moderately to Severely Active Polyarticular or Polyarticular-course Juvenile Idiopathic Arthritis (JIA) (STRIVE) - post-authorisation study](https://catalogues.ema.europa.eu/study/48817)
 - [Shortening the time to confirm or to rebut Adverse events of interest related to innovative Therapies for immune-mediated inflammATory dIseases: cross-talking between different data sOURces. SATURATIOn study. - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000207)
 - [An Observational Study of Xeljanz® (tofacitinib citrate) and Biologic Rheumatoid Arthritis Treatments to Characterize their General Treatment Patterns, Effectiveness and Safety in a Real-World Taiwanese Population - post-authorisation study](https://catalogues.ema.europa.eu/study/48622)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-07/05/2026
+05/08/2026
 
 ## Share this page

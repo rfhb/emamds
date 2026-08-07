@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-25 09:16:57
-document_pages: 32
+document_datetime: 2026-08-06 17:02:31
+document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zynlonta-epar-product-information_en.pdf
 document_name: zynlonta-epar-product-information_en.pdf
 version: success
-processing_time: 6.1778945
-conversion_datetime: 2025-12-24 22:10:51.065606
+processing_time: 5.8592095
+conversion_datetime: 2026-08-07 14:15:10.096684
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -37,6 +37,10 @@ Each vial of powder for concentrate for solution for infusion contains 10 mg of 
 After reconstitution, each ml contains 5 mg of loncastuximab tesirine.
 
 Loncastuximab tesirine is a CD19-directed antibody and alkylating agent conjugate, consisting of a humanised IgG1 kappa monoclonal antibody, produced in Chinese Hamster Ovary cells by recombinant DNA technology, and conjugated to SG3199, a pyrrolobenzodiazepine (PBD) dimer cytotoxic alkylating agent, through a protease-cleavable valine-alanine linker. SG3199 attached to the linker is designated as SG3249, also known as tesirine.
+
+## Excipient with known effect
+
+Each vial of Zynlonta contains 0.4 mg (0.2 mg/mL) of polysorbate 20.
 
 For the full list of excipients, see section 6.1.
 
@@ -62,9 +66,11 @@ The recommended dose of Zynlonta is 0.15 mg/kg every 21 days for 2 cycles, follo
 
 ## Premedication with dexamethasone
 
-Unless contraindicated, dexamethasone 4 mg is to be administered orally or intravenously twice daily for 3 days, beginning the day before administering Zynlonta to mitigate pyrrolobenzodiazepine (PBD)-related toxicities. If dexamethasone administration does not begin the day before Zynlonta, oral or intravenous dexamethasone should begin at least 2 hours prior to administration of Zynlonta.
+Unless contraindicated, dexamethasone 4 mg is to be administered orally or intravenously twice daily for 3 days, beginning the day before administering Zynlonta to mitigate pyrrolobenzodiazepine
 
 <div style=\"page-break-after: always\"></div>
+
+(PBD)-related toxicities. If dexamethasone administration does not begin the day before Zynlonta, oral or intravenous dexamethasone should begin at least 2 hours prior to administration of Zynlonta.
 
 ## Delayed or missed doses
 
@@ -109,11 +115,11 @@ Zynlonta has not been studied in patients with moderate or severe hepatic impair
 
 In patients with hepatic impairment, monitoring for adverse reactions is recommended.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
 The safety and efficacy of loncastuximab tesirine in children and adolescents aged less than 18 years have not yet been established. No data are available.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Method of administration
 
@@ -143,7 +149,7 @@ In order to improve the traceability of biological medicinal products, the name 
 
 Serious effusion and oedema have been reported in patients treated with Zynlonta (see section 4.8).
 
-Patients should be monitored for new or worsening oedema or effusions. Zynlonta should be withheld for Grade 2 or greater oedema or effusion until the toxicity resolves. Diagnostic imaging should be considered in patients who develop symptoms of pleural effusion or pericardial effusion, such as new or worsened dyspnoea, chest pain, and/or ascites such as swelling in the abdomen and bloating. Appropriate medical management for oedema or effusions should be instituted (see section 4.2).
+Patients should be monitored for new or worsening oedema or effusions. Zynlonta should be withheld for Grade 2 or greater oedema or effusion until the toxicity resolves. Diagnostic imaging should be considered in patients who develop symptoms of pleural effusion or pericardial effusion, such as new or worsened dyspnoea, chest pain, and/or ascites such as swelling in the abdomen and bloating. Appropriate medical management for oedema or effusions should be instituted (see section 4.2). In patients with worsening effusion or oedema, who have signs and symptoms of weight gain, severe hypotension, hypoalbuminemia, and/or haemoconcentration (by elevated haemoglobin/haematocrit, etc.), capillary leak syndrome should be considered and appropriate medical management instituted.
 
 ## Myelosuppression
 
@@ -169,17 +175,27 @@ Patients should be monitored for new or worsening cutaneous reactions, including
 
 Zynlonta may cause embryo-foetal harm when administered to a pregnant woman because it contains a genotoxic compound (SG3199), which affects actively dividing cells.
 
-Pregnant women should be advised of the potential risk to the foetus. Women of childbearing potential should be advised to use effective contraception during treatment with Zynlonta and for 10 months after the last dose. Men with partners of childbearing potential should be advised to use effective contraception during treatment with Zynlonta, and for 7 months after the last dose (see section 4.6).
+Pregnant women should be advised of the potential risk to the foetus.
+
+Women of childbearing potential should be advised to use effective contraception during treatment with Zynlonta and for 10 months after the last dose. Men with partners of childbearing potential should be advised to use effective contraception during treatment with Zynlonta, and for 7 months after the last dose (see section 4.6).
 
 ## Fertility
 
 In non-clinical studies, loncastuximab tesirine was associated with testicular toxicity so may impair male reproductive function and fertility (see section 5.3).
+
+## Polysorbates
+
+This medicinal product contains 0.4 mg of polysorbate 20 in each vial, which is equivalent to 0.2 mg/mL.
+
+Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No interaction studies have been performed in humans for loncastuximab tesirine, free tesirine, SG3199 and related metabolites.
 
 No clinically important PK interactions are expected (see section 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -192,8 +208,6 @@ Women of childbearing potential should be advised to use effective contraception
 ## Men
 
 Because of the potential for genotoxicity, men with partners of childbearing potential should be advised to use effective contraception during treatment with loncastuximab tesirine and for at least 7 months after the last dose.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -217,15 +231,15 @@ Zynlonta has no or negligible influence on the ability to drive and use machines
 
 ## Summary of the safety profile
 
-The most frequent reported adverse reactions with loncastuximab tesirine were γ-glutamyltransferase increased (35.8%), neutropenia (34.9%), fatigue (30.2%), anaemia (28.8%), thrombocytopenia (28.4%), nausea (26.5%), peripheral oedema (23.3%), and rash (20.0%).The most frequent severe adverse reactions (≥ Grade 3) were neutropenia (24.2%), γ-glutamyltransferase increased (17.2%), thrombocytopenia (15.8%), anaemia (11.6%) and infections (9.8%).
+The most frequent reported adverse reactions with loncastuximab tesirine were γ -glutamyltransferase increased (35.8%), neutropenia (34.9%), fatigue (30.2%), anaemia (28.8%), thrombocytopenia (28.4%), nausea (26.5%), peripheral oedema (23.3%), and rash (20.0%).The most frequent severe adverse reactions (≥ Grade 3) were neutropenia (24.2 %), γ -glutamyltransferase increased (17.2%), thrombocytopenia (15.8%), anaemia (11.6%) and infections (9.8%).
 
 The most frequent serious adverse reactions were febrile neutropenia (3.3%), abdominal pain, dyspnoea and pleural effusion (1.9% each). Lung infection was identified as an adverse reaction associated with fatal outcome (0.5%).
 
-The most frequent adverse reactions leading to treatment withdrawal were γ-glutamyltransferase increased (8.8%), peripheral oedema (2.8%), thrombocytopenia (1.9%), pleural and pericardial effusion (1.4% each).
-
-The frequency of dose modification or interruption due to adverse reactions was 47.4%. The most frequent adverse reaction leading to dose reduction was γ-glutamyltransferase increased (3.3%), and the most frequent adverse reactions leading to dose delay were γ-glutamyltransferase increased (17.7%), neutropenia (11.2%) and thrombocytopenia (7.9%).
-
 <div style=\"page-break-after: always\"></div>
+
+The most frequent adverse reactions leading to treatment withdrawal were γ -glutamyltransferase increased (8.8%), peripheral oedema (2.8%), thrombocytopenia (1.9%), pleural and pericardial effusion (1.4% each).
+
+The frequency of dose modification or interruption due to adverse reactions was 47.4%. The most frequent adverse reaction leading to dose reduction was γ -glutamyltransferase increased (3.3%), and the most frequent adverse reactions leading to dose delay were γ -glutamyltransferase increased (17.7%), neutropenia (11.2%) and thrombocytopenia (7.9%).
 
 ## Tabulated list of adverse reactions
 
@@ -233,35 +247,46 @@ The frequencies of adverse reactions are based on 215 patients with relapsed or 
 
 Unless otherwise stated, the frequencies of adverse reactions are based on all-cause adverse event frequencies in the clinical studies, where a proportion of the events for an adverse reaction may have other causes than the medicinal product, such as the disease, other medicinal products or unrelated causes.
 
-Adverse reactions are presented according to the MedDRA system organ class (SOC) and classified, by frequency, as very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000) and very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented by seriousness from highest to lowest.
+Adverse reactions are presented according to the MedDRA system organ class (SOC) and classified, by frequency, as very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented by seriousness from highest to lowest.
 
 Table 2: Adverse reactions reported for Zynlonta in adult patients with relapsed or refractory DLBCL
 
-| MedDRA SOC                                      | Very common                                             | Common                                                                                                           | Uncommon       |
-|-------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|----------------|
-| Infections and infestations                     |                                                         | Pneumonia a (includes lung infection) Upper respiratory tract infection Sepsis Lower respiratory tract infection |                |
-| Blood and lymphatic system disorders            | Anaemia Neutropenia Thrombocytopenia                    | Febrile neutropenia                                                                                              |                |
-| Metabolism and nutrition disorders              | Decreased appetite                                      | Fluid retention                                                                                                  | Fluid overload |
-| Nervous system disorders                        |                                                         | Lethargy                                                                                                         |                |
-| Cardiac disorders                               |                                                         | Pericardial effusion                                                                                             | Pericarditis   |
-| Respiratory, thoracic and mediastinal disorders | Pleural effusion Dyspnoea b                             |                                                                                                                  |                |
-| Gastrointestinal disorders                      | Abdominal pain c Diarrhoea Nausea Vomiting Constipation | Ascites                                                                                                          |                |
+| MedDRA SOC                                      | Very common                          | Common                                                                                                           | Uncommon       | Not known d   |
+|-------------------------------------------------|--------------------------------------|------------------------------------------------------------------------------------------------------------------|----------------|---------------|
+| Infections and infestations                     |                                      | Pneumonia a (includes lung infection) Upper respiratory tract infection Sepsis Lower respiratory tract infection |                |               |
+| Blood and lymphatic system disorders            | Anaemia Neutropenia Thrombocytopenia | Febrile neutropenia                                                                                              |                |               |
+| Metabolism and nutrition disorders              | Decreased appetite                   | Fluid retention                                                                                                  | Fluid overload |               |
+| Nervous system disorders                        |                                      | Lethargy                                                                                                         |                |               |
+| Cardiac disorders                               |                                      | Pericardial effusion                                                                                             | Pericarditis   |               |
+| Respiratory, thoracic and mediastinal disorders | Pleural effusion Dyspnoea b          |                                                                                                                  |                |               |
 
 <div style=\"page-break-after: always\"></div>
 
-| Skin and subcutaneous tissue disorders               | Rash Pruritus Erythema                                                                                                                                                    | Photosensitivity reaction Maculopapular rash Skin hyperpigmentation Pruritic rash Swelling face Bullous dermatitis   | Pustular rash                              |
-|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| Musculoskeletal and connective tissue disorders      |                                                                                                                                                                           | Neck pain Pain in extremity Back pain Musculoskeletal pain Myalgia Musculoskeletal chest pain                        | Musculoskeletal discomfort Limb discomfort |
-| General disorders and administration site conditions | Oedema peripheral Fatigue                                                                                                                                                 | Face oedema Asthenia Peripheral swelling Swelling Non-cardiac chest pain                                             | Generalised oedema Oedema                  |
-| Investigations a Grade 5                             | γ-glutamyltransferase increased Aspartate aminotransferase increased Alanine aminotransferase increased Blood alkaline phosphatase increased associated adverse reactions |                                                                                                                      |                                            |
+| MedDRA SOC                                           | Very common                                                                                                                                   | Common                                                                                                             | Uncommon                                   | Not known d                                                              |
+|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------|--------------------------------------------------------------------------|
+| Gastrointestinal disorders                           | Abdominal pain c Diarrhoea Nausea Vomiting Constipation                                                                                       | Ascites                                                                                                            |                                            |                                                                          |
+| Skin and subcutaneous tissue disorders               | Rash Pruritus Erythema                                                                                                                        | Bullous dermatitis Photosensitivity reaction Swelling face Maculopapular rash Pruritic rash Skin hyperpigmentation | Pustular rash                              | Telangiectasia Blister Rash vesicular Cutaneous collagenous vasculopathy |
+| Musculoskeletal and connective tissue disorders      |                                                                                                                                               | Neck pain Pain in extremity Back pain Musculoskeletal pain Myalgia Musculoskeletal chest pain                      | Musculoskeletal discomfort Limb discomfort |                                                                          |
+| General disorders and administration site conditions | Oedema peripheral Fatigue                                                                                                                     | Face oedema Asthenia Peripheral swelling Swelling Non-cardiac chest pain                                           | Generalised oedema Oedema                  |                                                                          |
+| Investigations                                       | γ -glutamyltransferase increased Aspartate aminotransferase increased Alanine aminotransferase increased Blood alkaline phosphatase increased |                                                                                                                    |                                            |                                                                          |
 
-- c Abdominal pain includes abdominal pain, abdominal discomfort, abdominal pain lower, and abdominal pain upper
+a Grade 5 associated adverse reactions
+
+b Dyspnoea includes dyspnoea, and dyspnoea exertional
+
+c Abdominal pain includes abdominal pain, abdominal discomfort, abdominal pain lower, and abdominal pain upper
+
+d These adverse drug reactions have been identified from the post-marketing reports for Zynlonta. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 ## Description of selected adverse reactions
 
 ## Effusion and oedema
 
-Serious effusion and oedema occurred in patients treated with Zynlonta. Grade ≥3 oedema and effusion occurred in 5.6% of patients. Grade 3 or 4 pericardial effusion occurred in 1.4% of patients. Grade 3 pleural effusion occurred in 2.8%, Grade 3 peripheral oedema and ascites in 1.4% each, and Grade 3 peripheral swelling in 0.5% of patients (see section 4.4). Effusion and oedema led to discontinuation of treatment in 5.1% of patients. There were no fatal events of effusion or oedema. Median time to onset for Grade ≥3 effusion and oedema was 115 days and 101 days, respectively (see section 4.4).
+Serious effusion and oedema occurred in patients treated with Zynlonta. Grade ≥3 oedema and effusion occurred in 5.6% of patients. Grade 3 or 4 pericardial effusion occurred in 1.4% of patients. Grade 3 pleural effusion occurred in 2.8%, Grade 3 peripheral oedema and ascites in 1.4% each, and Grade 3 peripheral swelling in 0.5% of patients (see section 4.4). Effusion and oedema led to discontinuation of treatment in 5.1% of patients. There were no fatal events of effusion or oedema.
+
+<div style=\"page-break-after: always\"></div>
+
+Median time to onset for Grade ≥3 effusion and oedema was 115 days and 101 days, respectively (see section 4.4).
 
 ## Myelosuppression
 
@@ -271,8 +296,6 @@ Treatment with Zynlonta can cause severe myelosuppression. Grade 3 or 4 neutrope
 
 Fatal and serious infections, including opportunistic infections and sepsis, occurred in patients treated with Zynlonta. Grade ≥3 infections occurred in 9.8% of patients with an associated fatal infection in 0.5% of patients (see section 4.4). Infections led to discontinuation of treatment in 0.9% of patients.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Cutaneous reactions
 
 Severe cutaneous reactions occurred in patients treated with Zynlonta. Grade 3 cutaneous reactions occurred in 3.7% and included photosensitivity reaction (1.4%), rash (0.9%), rash pustular (0.5%), rash maculo-papular (0.5%), and erythema (0.5%) (see section 4.4). There were no Grade 4 or Grade 5 cutaneous reactions. Three (3) patients (1.4%) discontinued Zynlonta due to Grade 1-2 cutaneous reactions, and no patients discontinued Zynlonta due to a severe cutaneous reaction. Median time to onset for Grade 3 photosensitivity reactions was 32.0 days and for Grade 3 non-photosensitivity cutaneous reactions was 56.0 days (see section 4.4).
@@ -281,13 +304,7 @@ Serious cutaneous reactions have been reported in patients treated with Zynlonta
 
 ## Liver function tests
 
-Abnormal liver function tests of severity Grade ≥3 occurred in 19.5% of patients, with Grade 3 or 4 γ-glutamyltransferase (GGT) increased in 17.2% of patients. GGT increase resulted in dose delay, dose reduction, and treatment withdrawal in 17.7%, 3.3%, and 8.8% of patients, respectively. Grade 3 alanine aminotransferase increased occurred in 2.8%, blood alkaline phosphatase increased in 1.4%, and aspartate aminotransferase increased in 0.9% of patients. Increased blood bilirubin was noted in 2.8% of patients, with Grade 3 occuring in 1.4% of patients.
-
-## Post marketing experience
-
-The following adverse drug reactions have been identified from the post-marketing reports for Zynlonta. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-
-Skin and Subcutaneous Tissue Disorders: telangiectasia, blister, rash vesicular (frequency unknown).
+Abnormal liver function tests of severity Grade ≥3 occurred in 19.5% of patients, with Grade 3 or 4 γ -glutamyltransferase (GGT) increased in 17.2% of patients. GGT increase resulted in dose delay, dose reduction, and treatment withdrawal in 17.7%, 3.3%, and 8.8% of patients, respectively. Grade 3 alanine aminotransferase increased occurred in 2.8%, blood alkaline phosphatase increased in 1.4%, and aspartate aminotransferase increased in 0.9% of patients. Increased blood bilirubin was noted in 2.8% of patients, with Grade 3 occurring in 1.4% of patients.
 
 ## Reporting of suspected adverse reactions
 
@@ -297,13 +314,13 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Symptomatic treatment and standard supportive care measures for the management of any observed toxicity should be applied.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antineoplastic and immunomodulating agents, antineoplastic agents, monoclonal antibodies and antibody drug conjugates, other monoclonal antibodies and antibody drug conjugates, ATC code: L01FX22
-
-<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -313,7 +330,7 @@ Upon binding to CD19, loncastuximab tesirine is internalised followed by release
 
 ## Pharmacodynamic effects
 
-Higher loncastuximab tesirine exposure in Cycle 1 was associated with higher efficacy over the dose range of 0.015-0.2 mg/kg (0.1 to 1.33 times the maximum recommended dose). Higher loncastuximab tesirine exposure in Cycle 1 was associated with higher incidence of some Grade ≥2 adverse reactions, including skin and nail reactions, liver function test abnormalities and increased γ-glutamyltransferase.
+Higher loncastuximab tesirine exposure in Cycle 1 was associated with higher efficacy over the dose range of 0.015-0.2 mg/kg (0.1 to 1.33 times the maximum recommended dose). Higher loncastuximab tesirine exposure in Cycle 1 was associated with higher incidence of some Grade ≥2 adverse reactions, including skin and nail reactions, liver function test abnormalities and increased γ -glutamyltransferase.
 
 ## Cardiac electrophysiology
 
@@ -329,16 +346,14 @@ Of the 145 patients enrolled, the median age was 66 years (range 23 to 94) while
 
 Efficacy was evaluated on the basis of overall response rate (ORR) as assessed by an Independent Review Committee (IRC) using Lugano 2014 criteria (Table 3). The median follow-up time was 7.8 months (range 0.3 to 31).
 
-Table 3: Efficacy results in patients with relapsed or refractory DLBCL
-
-| Efficacy parameter                        | Zynlonta N = 145   |
-|-------------------------------------------|--------------------|
-| Overall response rate by IRC a , (95% CI) | 48.3% (39.9, 56.7) |
-
 <div style=\"page-break-after: always\"></div>
 
-| Complete response rate (95% CI)                                                                              | 24.8% (18.0, 32.7)                                                                                           |
+Table 3: Efficacy results in patients with relapsed or refractory DLBCL
+
+| Efficacy parameter                                                                                           | Zynlonta N = 145                                                                                             |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Overall response rate by IRC a , (95% CI)                                                                    | 48.3% (39.9, 56.7)                                                                                           |
+| Complete response rate (95% CI)                                                                              | 24.8% (18.0, 32.7)                                                                                           |
 | Median time to response (range), months                                                                      | 1.3 (1.1, 8.1)                                                                                               |
 | Duration of overall response                                                                                 | N = 70                                                                                                       |
 | Median (95% CI), months                                                                                      | 13.4 (6.9, NE)                                                                                               |
@@ -366,6 +381,8 @@ The European Medicines Agency will review new information on this medicinal prod
 
 The exposure of loncastuximab tesirine at the approved recommended dosage in Cycle 2 and at steady state is shown in Table 4. Loncastuximab tesirine steady state Cmax was 39.0% lower than the Cmax after the second dose. The time to reach steady state was approximately 15 weeks.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 4: Loncastuximab tesirine exposure parameters
 
 | Time         | C max (ng/ml)   | AUC tau (ng • day/ml)   |
@@ -380,8 +397,6 @@ Cmax = Maximum predicted serum concentration; AUCtau = Area under curve over the
 Zynlonta is administered as an intravenous infusion. There have been no studies performed with other routes of administration.
 
 ## Distribution
-
-<div style=\"page-break-after: always\"></div>
 
 The geometric mean (CV%) loncastuximab tesirine volume of distribution was 7.14 (22.9%) L.
 
@@ -409,11 +424,13 @@ The major excretion pathways of SG3199 have not been studied in humans. Data col
 
 ## Specific populations
 
-No clinically significant differences in the pharmacokinetics of loncastuximab tesirine were observed based on age (20 - 94 years), sex, race (White vs. Black), body weight (42.1 to 160.5 kg), ECOG status (0 to 2) or mild to moderate renal impairment (CLcr 30 to &lt;90 ml/min using the Cockcroft-Gault equation).
+No clinically significant differences in the pharmacokinetics of loncastuximab tesirine were observed based on age (20 - 94 years), sex, race (White vs. Black), body weight (42.1 to 160.5 kg), ECOG status (0 to 2) or mild to moderate renal impairment (CLcr 30 to &lt; 90 ml/min using the Cockcroft-Gault equation).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Patients with renal impairment
 
-The clearance of loncastuximab tesirine in patients with mild to moderate renal impairment (CLcr 30 to &lt;90 ml/min using the Cockcroft-Gault equation) was not significantly different from patients with normal renal function.
+The clearance of loncastuximab tesirine in patients with mild to moderate renal impairment (CLcr 30 to &lt; 90 ml/min using the Cockcroft-Gault equation) was not significantly different from patients with normal renal function.
 
 For SG3199, data collected in an animal model (rat) show minimal renal excretion. No clinical data are available.
 
@@ -422,8 +439,6 @@ For SG3199, data collected in an animal model (rat) show minimal renal excretion
 Mild hepatic impairment (total bilirubin ≤ ULN and AST &gt; ULN, or total bilirubin &gt;1 to 1.5 × ULN and any AST) may increase the exposure of unconjugated SG3199, however there was no clinically significant effect on loncastuximab tesirine pharmacokinetics.
 
 Zynlonta has not been studied in patients with moderate or severe hepatic impairment (total bilirubin &gt;1.5 × ULN and any AST).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -451,15 +466,15 @@ Results from repeat-dose toxicity studies with intravenous administration of lon
 
 In repeat-dose toxicity studies in cynomolgus monkeys, intravenous administration of loncastuximab tesirine was associated with renal toxicity including increased kidney weights and nephropathy with variable reversible inflammation and fibrosis.
 
+<div style=\"page-break-after: always\"></div>
+
 Black skin spots potentially related to phototoxicity were observed in cynomolgus monkeys and were still present after a 12-week treatment-free period.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-L-histidine L-histidine monohydrochloride Polysorbate 20 Sucrose
-
-<div style=\"page-break-after: always\"></div>
+L-histidine L-histidine monohydrochloride Polysorbate 20 (E 432) Sucrose
 
 ## 6.2 Incompatibilities
 
@@ -467,23 +482,23 @@ This medicinal product must not be mixed with or administered as an infusion wit
 
 ## 6.3 Shelf life
 
-## Unopened vial
+Unopened vial
 
 5 years
 
 ## Reconstituted solution
 
-From a microbiological point of view, the reconstituted solution should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 4 hours refrigerated (2 ℃ - 8 ℃) or 4 hours at room temperature (20 ℃ - 25 ℃), unless reconstitution has taken place in controlled and validated aseptic conditions. Chemical and physical in-use stability of the reconstituted solution has been demonstrated for up to 4 hours refrigerated (2 ℃ - 8 ℃) or 4 hours at room temperature (20 ℃ - 25 ℃).
+From a microbiological point of view, the reconstituted solution should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 4 hours refrigerated (2 ℃ - 8 ℃ ) or 4 hours at room temperature (20 ℃ - 25 ℃ ), unless reconstitution has taken place in controlled and validated aseptic conditions. Chemical and physical in-use stability of the reconstituted solution has been demonstrated for up to 4 hours refrigerated (2 ℃ - 8 ℃ ) or 4 hours at room temperature (20 ℃ - 25 ℃ ).
 
 ## Diluted solution
 
-From a microbiological point of view, the prepared solution for infusion should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 24 hours refrigerated (2 ℃ - 8 ℃) or 8 hours at room temperature (20 ℃ - 25 ℃), unless dilution has taken place in controlled and validated aseptic conditions. Chemical and physical in-use stability of the prepared solution for infusion has been demonstrated for up to 24 hours at room temperature (20 ℃ - 25 ℃).
+From a microbiological point of view, the prepared solution for infusion should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 24 hours refrigerated (2 ℃ - 8 ℃ ) or 8 hours at room temperature (20 ℃ - 25 ℃ ), unless dilution has taken place in controlled and validated aseptic conditions. Chemical and physical in-use stability of the prepared solution for infusion has been demonstrated for up to 24 hours at room temperature (20 ℃ - 25 ℃ ).
 
 Do not use the medicinal product if the storage conditions exceed the limits.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ℃ - 8 ℃).
+Store in a refrigerator (2 ℃ - 8 ℃ ).
 
 Do not freeze.
 
@@ -491,9 +506,11 @@ Keep the vial in the outer carton in order to protect from light.
 
 For storage conditions after reconstitution and dilution of the medicinal product, see section 6.3.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.5 Nature and contents of container
 
-Vial (clear Type 1 glass) closed with a stopper (Teflon coated rubber), with an aluminium seal with plastic flip-off cap containing 10 mg loncastuximab tesirine. Pack size of one vial.
+Vial (clear Type 1 glass) closed with a stopper (fluoropolymer-coated rubber), with an aluminium seal with plastic flip-off cap containing 10 mg loncastuximab tesirine. Pack size of one vial.
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -504,8 +521,6 @@ Zynlonta contains a cytotoxic component and should be administered under the sup
 Proper aseptic technique throughout the handling of this medicinal product should be followed.
 
 The reconstituted product contains no preservative and is intended for single-dose only.
-
-<div style=\"page-break-after: always\"></div>
 
 Zynlonta must be reconstituted using sterile water for injections and diluted into an intravenous infusion bag containing 5% glucose prior to administration.
 
@@ -536,27 +551,43 @@ Calculate the total dose (mg) required based on the patient's weight and prescri
 
 Zynlonta is for single-use only.
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+<div style=\"page-break-after: always\"></div>
 
-## 7. MARKETING AUTHORISATION HOLDER
+Any unused medicinal product or waste material should be disposed of in accordance with local
 
-Swedish Orphan Biovitrum AB (publ) SE-112 76 Stockholm Sweden
+requirements.
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+7.
+
+MARKETING AUTHORISATION HOLDER
+
+Swedish Orphan Biovitrum AB (publ)
+
+SE-112 76 Stockholm
+
+Sweden
+
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/22/1695/001
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 20 December 2022
 
-Date of latest renewal: 13 November 2024
+Date of latest renewal: 24 October 2025
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+Agency https://www.ema.europa.eu.
+
+16
 
 <div style=\"page-break-after: always\"></div>
 
@@ -624,9 +655,9 @@ The MAH shall ensure that in each Member State where Zynlonta is marketed, all h
 
 This being a conditional marketing authorisation and pursuant to Article 14-a of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Due date   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| In order to confirm the efficacy and safety of loncastuximab tesirine in the treatment of adult patients with relapsed or refractory diffuse large B-cell lymphoma (DLBCL) and high-grade B-cell lymphoma (HGBL), after two or more lines of systemic therapy, the MAHshould submit the results of study ADCT-402-311 (LOTIS 5), a Phase 3 study comparing loncastuximab tesirine combined with rituximab (Lonca R) versus immunochemotherapy in patients with relapsed or refractory DLBCL. | Q4/2027    |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Due date   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| In order to confirm the efficacy and safety of loncastuximab tesirine in the treatment of adult patients with relapsed or refractory diffuse large B-cell lymphoma (DLBCL) and high-grade B-cell lymphoma (HGBL), after two or more lines of systemic therapy, the MAH should submit the results of study ADCT-402-311 (LOTIS 5), a Phase 3 study comparing loncastuximab tesirine combined with rituximab (Lonca R) versus immunochemotherapy in patients with relapsed or refractory DLBCL. | Q4/2027    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -646,7 +677,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Zynlonta 10 mg powder for concentrate for solution for infusion loncastuximab tesirine
+Zynlonta 10 mg powder for concentrate for solution for infusion
+
+loncastuximab tesirine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -656,7 +689,7 @@ After reconstitution, each ml contains 5 mg of loncastuximab tesirine.
 
 ## 3. LIST OF EXCIPIENTS
 
-L-histidine, L-histidine monohydrochloride, polysorbate 20, sucrose
+List of excipients: L-histidine, L-histidine monohydrochloride, polysorbate 20 (E 432), sucrose See leaflet for further information
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -690,8 +723,6 @@ EXP
 
 Store in a refrigerator.
 
-<div style=\"page-break-after: always\"></div>
-
 Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
@@ -700,7 +731,11 @@ Keep the vial in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Swedish Orphan Biovitrum AB (publ) SE-112 76 Stockholm Sweden
+Swedish Orphan Biovitrum AB (publ)
+
+SE-112 76 Stockholm
+
+Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -718,17 +753,19 @@ Lot
 
 Justification for not including Braille accepted.
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
 SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
 
@@ -826,9 +863,9 @@ Serious infections, including infections that can cause death, have occurred in 
 
 ## Fluid retention
 
-Your body may hold too much fluid during treatment with Zynlonta. This can be serious. Tell your doctor or nurse straight away if you have any signs or symptoms of fluid retention, which are listed in section 4, under 'Serious side effects'. Your doctor will give appropriate treatment for the fluid retention. If you have serious swelling your doctor may stop treatment until the swelling goes down.
+Your body may hold too much fluid during treatment with Zynlonta. This can be serious. Tell your doctor or nurse straight away if you have any signs or symptoms of fluid retention, which are listed in section 4, under 'Serious side effects'. Your doctor will give appropriate treatment for the fluid retention. If you have serious swelling your doctor may stop treatment until the swelling goes down. Tell your doctor or nurse straight away if you suddenly gain weight during treatment with Zynlonta, have new or worsening swelling of your face, limbs or joints (oedema) or dizziness (a symptom of low blood pressure). These could be symptoms of a condition called capillary leak syndrome which causes blood to leak from the small blood vessels into your body.
 
-Low blood cell counts (platelets, red blood cells, and white blood cells)
+## Low blood cell counts (platelets, red blood cells, and white blood cells)
 
 Low levels of certain blood cells (low blood cell counts) can be serious or severe. Your doctor or nurse will monitor your blood cell counts during treatment with Zynlonta. Tell your doctor or nurse straight away if you have any signs and symptoms of infection, which are listed in section 4, under 'Serious side effects'. Low blood cell counts could be responsible for your infection.
 
@@ -848,15 +885,13 @@ Tell your doctor if you are taking, have recently taken or might take any other 
 
 Women of child-bearing potential must use effective contraception during treatment with Zynlonta, and for 10 months after the last dose.
 
-Men with partners of child-bearing potential must use effective contraception during treatment with Zynlonta, and for 7 months after the last dose.
+Men with partners of child-bearing potential must use effective contraception during treatment with Zynlonta, and for 7 months after the last dose. Talk to your doctor about effective contraception.
 
-Talk to your doctor about effective contraception.
+<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
 You should avoid getting pregnant if you are taking this medicine. Tell your doctor immediately if you become pregnant or think that you are pregnant during treatment with Zynlonta. Your doctor may do a pregnancy test before starting treatment with Zynlonta.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Breast-feeding
 
@@ -868,9 +903,11 @@ Zynlonta may cause fertility problems in men , which may affect their ability to
 
 ## Driving and using machines
 
-Zynlonta has no or negligible influence on your ability to drive and use machines. If you get infusion-related reactions or if you feel tired, weak or dizzy (see section 4) do not drive, cycle or use tools or machines until you feel better.
+Zynlonta has no or negligible influence on your ability to drive and use machines. If you get infusion-related reactions or if you feel tired, weak or dizzy (see section 4) do not drive, cycle or use tools or machines until you feel better. See section 4 for more information about side effects.
 
-See section 4 for more information about side effects.
+## Zynlonta contains polysorbates
+
+This medicine contains 0.4 mg of polysorbate 20 in each vial, which is equivalent to 0.2 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 ## 3. How you are given Zynlonta
 
@@ -905,11 +942,11 @@ Zynlonta is usually given every 3 weeks (on day 1 of a 21-day cycle).
 - -Your doctor will do regular blood tests to check for side effects of Zynlonta.
 - -Your doctor will decide how many treatment cycles you need.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you are given more Zynlonta than you should
 
 Since the infusion is given to you by your doctor or other appropriately trained staff, an overdose is unlikely. If you inadvertently receive too much medicine, your doctor will monitor you and give you additional treatment as required.
-
-<div style=\"page-break-after: always\"></div>
 
 ## If you miss a dose of Zynlonta
 
@@ -957,13 +994,13 @@ Low blood cell counts (very common) can be serious or severe. Your doctor or nur
 
 Skin reactions (common) have occurred in people treated with Zynlonta. Some of these can be serious. Tell your doctor or nurse straight away if you get new or worsening severe skin reactions, including:
 
+<div style=\"page-break-after: always\"></div>
+
 - -sensitivity to sunlight including sunburn-like reactions such as skin peeling and irritation following exposure to light
 - -itchy rash
 - -blistering of skin
 - -darker skin patches
 - -irritation, swelling, pain, and/or skin damage at the injection site.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Other side effects
 
@@ -1009,10 +1046,13 @@ Tell your doctor or nurse if you notice any of the following side effects:
 - -spider veins (broken blood vessels located near surface of skin)
 - -blisters
 - -rash consisting of tiny-to-small fluid-filled blisters
+- -small red or purple spots appearing on the skin, often starting on the legs that can slowly spread to other parts of the body with usually no associated pain, itching or swelling (cutaneous collagenous vasculopathy).
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Zynlonta
 
@@ -1020,15 +1060,11 @@ Zynlonta will be stored by the doctor and pharmacist at the hospital or clinic w
 
 Keep this medicine out of the sight and reach of children.
 
-<div style=\"page-break-after: always\"></div>
-
 Do not use this medicine after the expiry date which is stated on the carton and the vial after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 ℃ - 8 ℃). Do not freeze.
+Store in a refrigerator (2 ℃ - 8 ℃ ). Do not freeze.
 
-Keep the vial in the outer carton in order to protect from light.
-
-Both the reconstituted solution and the diluted solution for infusion should not be frozen or exposed to direct sunlight.
+Keep the vial in the outer carton in order to protect from light. Both the reconstituted solution and the diluted solution for infusion should not be frozen or exposed to direct sunlight.
 
 Zynlonta is a cytotoxic medicine. Applicable special handling and disposal procedures must be followed.
 
@@ -1039,7 +1075,7 @@ Your doctor or pharmacist is responsible for disposing of any unused Zynlonta co
 ## What Zynlonta contains
 
 - The active substance is loncastuximab tesirine. Each vial contains 10 mg of loncastuximab tesirine. After reconstitution, each ml contains 5 mg of loncastuximab tesirine.
-- The other ingredients are: L-histidine, L-histidine monohydrochloride, polysorbate 20, sucrose.
+- The other ingredients are: L-histidine, L-histidine monohydrochloride, polysorbate 20 (E 432), sucrose (see section 2 'Zynlonta contains polysorbates').
 
 ## What Zynlonta looks like and contents of the pack
 
@@ -1061,11 +1097,11 @@ This medicine has been given 'conditional approval'. This means that there is mo
 
 The European Medicines Agency will review new information on this medicine at least every year and this leaflet will be updated as necessary.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -1090,8 +1126,32 @@ Procedures for proper handling and disposal of anticancer medicinal products sho
 
 ## Reconstituted solution
 
-From a microbiological point of view, the reconstituted solution should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 4 hours refrigerated (2 ℃ - 8 ℃) or 4 hours at room temperature (20 ℃ - 25 ℃), unless reconstitution has taken place in controlled and validated aseptic conditions. Chemical and physical in-use stability of the reconstituted solution has been demonstrated for up to 4 hours refrigerated (2 ℃ - 8 ℃) or 4 hours at room temperature (20 ℃ - 25 ℃).
+From a microbiological point of view, the reconstituted solution should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 4 hours refrigerated (2 ℃ - 8 ℃ ) or 4 hours at room temperature (20 ℃ - 25 ℃ ), unless reconstitution has taken place in controlled and validated aseptic conditions. Chemical and physical in-use stability of the reconstituted solution has been demonstrated for up to 4 hours refrigerated (2 ℃ - 8 ℃ ) or 4 hours at room temperature (20 ℃ - 25 ℃ ).
 
 ## Diluted solution
 
-From a microbiological point of view, the prepared solution for infusion should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 24 hours refrigerated (2 ℃ - 8 ℃) or 8 hours at room temperature (20 ℃ - 25 ℃), unless dilution has taken place in controlled and validated aseptic conditions. Chemical and physical in-use stability of the prepared solution for infusion has been demonstrated for up to 24 hours at room temperature (20 ℃ - 25 ℃).
+From a microbiological point of view, the prepared solution for infusion should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 24 hours refrigerated (2 ℃ - 8 ℃ ) or 8 hours at room temperature (20 ℃ - 25 ℃ ), unless dilution has taken place in controlled and validated aseptic conditions. Chemical and physical in-use stability of the prepared solution for infusion has been demonstrated for up to 24 hours at room temperature (20 ℃ - 25 ℃ ).
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for loncastuximab tesirine, the scientific conclusions of PRAC are as follows:
+
+In view of available data on Cutaneous collagenous vasculopathy from clinical trials and the literature including in some cases a compatible temporal relationship, and in view of a plausible mechanism of action and similar adverse reactions caused by other antibody-drug conjugates, the PRAC considers a causal relationship between loncastuximab tesirine and Cutaneous collagenous vasculopathy is at least a reasonable possibility. The PRAC concluded that the product information of products containing loncastuximab tesirine should be amended accordingly.
+
+In view of available data on Capillary leak syndrome from toxicology studies and clinical trials, literature and spontaneous reporting including in some cases a compatible temporal relationship, and in view of a plausible mechanism of action, the PRAC considers a warning on possible Capillary leak syndrome should be included in loncastuximab tesirine product information in order to raise awareness of treating physicians and patients of this condition. The PRAC concluded that the product information of products containing loncastuximab tesirine should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the Marketing Authorisation(s)
+
+On the basis of the scientific conclusions for loncastuximab tesirine the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing loncastuximab tesirine is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

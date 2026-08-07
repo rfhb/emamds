@@ -1,22 +1,24 @@
 ---
-document_datetime: 2026-04-28 16:54:16
-document_pages: 34
+document_datetime: 2026-08-06 16:46:32
+document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/neuraceq-epar-product-information_en.pdf
 document_name: neuraceq-epar-product-information_en.pdf
 version: success
-processing_time: 6.7361105
-conversion_datetime: 2026-04-29 13:15:10.643914
+processing_time: 4.3395404
+conversion_datetime: 2026-08-07 14:25:30.841477
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -393,7 +395,11 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Lantheus Germany GmbH Heidestraße 37-38 Berlin 10557 Germany e-mail: gra@lantheus.com
+Lantheus Germany GmbH Heidestraße 37-38 Berlin 10557
+
+Germany
+
+e-mail: gra@lantheus.com
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -494,11 +500,19 @@ Curium PET France CHU Brabois 4 rue du Morvan 54500 Vandoeuvre les Nancy France
 
 Curium PET France Parc scientifique Georges Besse 180 allée Von Neumann 30000 Nîmes France
 
-Curium PET France 14 rue de la Grange aux Belles 75010 Paris France
+Curium PET France
+
+14 rue de la Grange aux Belles
+
+75010 Paris
+
+France
 
 Curium PET France avenue de la Bataille Flandres Dunkerque, CS 44229 35000 Rennes France
 
 Curium PET France CHU Xavier Arnozan avenue du Haut-Lévèque 33604 Pessac France
+
+Curium PET France Zone D Activite La Bourdonnais 10 Rue de L'églantier 35520 La Mézière France
 
 Alliance Medical RP Berlin GmbH Max-Planck-Strasse 4 Adlershof Berlin 12489 Germany
 
@@ -527,11 +541,7 @@ The MAH shall perform the required pharmacovigilance activities and intervention
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information
-
-<div style=\"page-break-after: always\"></div>
-
-being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -601,6 +611,8 @@ Curium PET France, Rennes, France
 
 Curium PET France, Pessac, France
 
+Curium PET France, La Mézière, France
+
 Alliance Medical RP Berlin GmbH, Germany
 
 Alliance Medical RP sp. z o.o., Poland
@@ -665,9 +677,9 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 &lt;Justification for not including Braille accepted&gt;
 
@@ -719,15 +731,15 @@ Curium PET France, Rennes, France
 
 Curium PET France, Pessac, France
 
+Curium PET France, La Mézière, France
+
 Alliance Medical RP Berlin GmbH, Germany
 
 Alliance Medical RP sp. z o.o., Poland
 
 Alliance Medical RP GmbH, Germany
 
-Curium Italy S.R.L., Monza, Italy
-
-Curium Italy S.R.L., Rome, Italy Curium Italy S.R.L., Udine, Italy Curium Pharma Spain, S.A., Seville, Spain Curium Pharma Spain, S.A., Madrid, Spain Seibersdorf Labor GmbH, Austria BetaPlus Pharma SA, Brussels, Belgium Institut Radiofarmacia Aplicada Barcelona-IRAB, Barcelona, Spain ITEL Telecomunicazioni S.R.L., Bari, Italy Curium Pharma Ireland Limited, Dublin, Ireland Biokosmos S.A., Halkidiki, Greece Biokosmos S.A., Athens (Lavrio), Greece Radboud Translational Medicine B.V., Nijmegen, Netherlands Karolinska University Hospital, Stockholm, Sweden
+Curium Italy S.R.L., Monza, Italy Curium Italy S.R.L., Rome, Italy Curium Italy S.R.L., Udine, Italy Curium Pharma Spain, S.A., Seville, Spain Curium Pharma Spain, S.A., Madrid, Spain Seibersdorf Labor GmbH, Austria BetaPlus Pharma SA, Brussels, Belgium Institut Radiofarmacia Aplicada Barcelona-IRAB, Barcelona, Spain ITEL Telecomunicazioni S.R.L., Bari, Italy Curium Pharma Ireland Limited, Dublin, Ireland Biokosmos S.A., Halkidiki, Greece Biokosmos S.A., Athens (Lavrio), Greece Radboud Translational Medicine B.V., Nijmegen, Netherlands Karolinska University Hospital, Stockholm, Sweden
 
 <div style=\"page-break-after: always\"></div>
 
@@ -917,11 +929,7 @@ Each multidose vial contains 1 to 10 mL of solution, corresponding to 300 to 300
 
 Pack size of 1 vial.
 
-## Marketing Authorization Holder
-
-Lantheus Germany GmbH
-
-Heidestraße 37-38 Berlin 10557 Germany e-mail: gra@lantheus.com
+Marketing Authorization Holder Lantheus Germany GmbH Heidestraße 37-38 Berlin 10557 Germany e-mail: gra@lantheus.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -937,15 +945,15 @@ Curium PET France avenue de la Bataille Flandres Dunkerque, CS 44229 35000 Renne
 
 Curium PET France CHU Xavier Arnozan avenue du Haut-Lévèque 33604 Pessac France
 
+Curium PET France Zone D Activite La Bourdonnais 10 Rue de L'églantier 35520 La Mézière France
+
 Alliance Medical RP Berlin GmbH Max-Planck-Strasse 4 Adlershof Berlin 12489 Germany
 
 Alliance Medical RP sp. z o.o. ul. Szeligowska 3 05-850 Szeligi Poland
 
 Alliance Medical RP GmbH Spessartstr. 9 53119 Bonn Germany
 
-Curium Italy S.R.L. via Pergolesi, 33 20900 Monza Italy
-
-Curium Italy S.R.L. Viale Oxford 81 (loc. Tor Vergata) 00133 Rome Italy Curium Italy S.R.L. Piazzale Santa Maria della Misericordia, 15 33100 Udine Italy ITEL Telecomunicazioni S.R.L. Via Antonio Labriola Zona Industriale SNC 70037 Ruvo di Puglia (BA) Italy Curium Pharma Ireland Limited Blackrock Clinic Blackrock Co. Dublin, A94 E4X7 Ireland Curium Pharma Spain, S.A. Thomas Alba Edison, s/n 41092 Seville Spain Curium Pharma Spain, S.A. Pol. Ind. Conpisa, C/ Veguillas - 2 Nave 16, Ajalvir 28864 (Madrid) Spain Seibersdorf Labor GmbH Grundstueck Nr. 482/2 EZ 98 KG 2444 Seibersdorf Austria BetaPlus Pharma SA Avenue Hippocrate 10 bte 1527 1200 Brussels Belgium Institut Radiofarmacia Aplicada Barcelona-IRAB c/Doctor Aiguader 88, planta -1 08003 Barcelona Spain Biokosmos S.A. Lakkoma Industrial Area Ν ea Propontida Halkidiki 630 80 Greece Biokosmos S.A. Thesi Panormos Lavrio Athens 195 00 Greece Radboud Translational Medicine B.V. Geert Grooteplein Noord 21 Route 142 Nijmegen Gelderland 6525 EZ Netherlands Karolinska University Hospital Akademiska Straket 1 Solna Stockholms Lan 171 64 Sweden For any information about this medicine, please contact the Marketing Authorisation Holder.
+Curium Italy S.R.L. via Pergolesi, 33 20900 Monza Italy Curium Italy S.R.L. Viale Oxford 81 (loc. Tor Vergata) 00133 Rome Italy Curium Italy S.R.L. Piazzale Santa Maria della Misericordia, 15 33100 Udine Italy ITEL Telecomunicazioni S.R.L. Via Antonio Labriola Zona Industriale SNC 70037 Ruvo di Puglia (BA) Italy Curium Pharma Ireland Limited Blackrock Clinic Blackrock Co. Dublin, A94 E4X7 Ireland Curium Pharma Spain, S.A. Thomas Alba Edison, s/n 41092 Seville Spain Curium Pharma Spain, S.A. Pol. Ind. Conpisa, C/ Veguillas - 2 Nave 16, Ajalvir 28864 (Madrid) Spain Seibersdorf Labor GmbH Grundstueck Nr. 482/2 EZ 98 KG 2444 Seibersdorf Austria BetaPlus Pharma SA Avenue Hippocrate 10 bte 1527 1200 Brussels Belgium Institut Radiofarmacia Aplicada Barcelona-IRAB c/Doctor Aiguader 88, planta -1 08003 Barcelona Spain Biokosmos S.A. Lakkoma Industrial Area Ν ea Propontida Halkidiki 630 80 Greece Biokosmos S.A. Thesi Panormos Lavrio Athens 195 00 Greece Radboud Translational Medicine B.V. Geert Grooteplein Noord 21 Route 142 Nijmegen Gelderland 6525 EZ Netherlands Karolinska University Hospital Akademiska Straket 1 Solna Stockholms Lan 171 64 Sweden For any information about this medicine, please contact the Marketing Authorisation Holder.
 
 <div style=\"page-break-after: always\"></div>
 

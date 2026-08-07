@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-09-12 11:31:33
+document_datetime: 2026-08-04 12:07:09
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/dzuveo-epar-product-information_en.pdf
 document_name: dzuveo-epar-product-information_en.pdf
 version: success
-processing_time: 7.9173885
-conversion_datetime: 2025-12-30 02:59:28.634684
+processing_time: 6.740348
+conversion_datetime: 2026-08-07 14:31:44.029188
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -174,11 +174,9 @@ There are no clinical data on the effects of sufentanil on fertility. Studies in
 
 ## 4.7 Effects on ability to drive and use machines
 
-Sufentanil has major influence on the ability to drive and use machines. Patients should be advised not
+Sufentanil has major influence on the ability to drive and use machines. Patients should be advised not to drive or operate machinery if they experience somnolence, dizziness, or visual disturbance while taking or after the treatment with sufentanil. Patients should only drive and use machines if sufficient time has elapsed after the last administration of sufentanil.
 
 <div style=\"page-break-after: always\"></div>
-
-to drive or operate machinery if they experience somnolence, dizziness, or visual disturbance while taking or after the treatment with sufentanil. Patients should only drive and use machines if sufficient time has elapsed after the last administration of sufentanil.
 
 ## 4.8 Undesirable effects
 
@@ -248,11 +246,9 @@ cannot be estimated from the available data.
 | Investigations                                       |               | Oxygen saturation decreased Body temperature increased | Blood pressure increased Respiratory rate decreased Blood glucose increased Blood bilirubin increased Urine output decreased Aspartate aminotransferase increased Blood urea increased Electrocardiogram T wave abnormal Electrocardiogram abnormal Hepatic enzyme increased Liver function test abnormal |                          |
 | Injury, poisoning and procedural complications       |               | Anaemia postoperative                                  | Procedural nausea Postoperative ileus Procedural vomiting Gastrointestinal stoma complication Procedural pain                                                                                                                                                                                             |                          |
 
-Reporting of suspected adverse reactions
+Reporting of suspected adverse reactions Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
-
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -406,7 +402,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-4 years.
+5 years.
 
 ## 6.4 Special precautions for storage
 
@@ -455,11 +451,9 @@ NOTE: Avoid direct mucosal contact with the SDA tip.
 
 <!-- image -->
 
-The single-dose applicator (SDA) must be discarded in accordance to the institutional policies and
+The single-dose applicator (SDA) must be discarded in accordance to the institutional policies and local requirements.
 
 <div style=\"page-break-after: always\"></div>
-
-local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -525,11 +519,9 @@ An updated RMP should be submitted:
 
 Prior to the launch of Dzuveo in each Member State (MS), the Marketing Authorisation Holder (MAH) must agree about the content and format of the educational materials, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority (NCA).
 
-The MAH shall ensure that in each MS where Dzuveo is marketed, all HCPs (i.e. physicians, hospital
+The MAH shall ensure that in each MS where Dzuveo is marketed, all HCPs (i.e. physicians, hospital pharmacists, and nurses) who are expected to prescribe / administer the product are provided with a Healthcare Professional Guide, outlining critical information for the safe and effective use of Dzuveo, including:
 
 <div style=\"page-break-after: always\"></div>
-
-pharmacists, and nurses) who are expected to prescribe / administer the product are provided with a Healthcare Professional Guide, outlining critical information for the safe and effective use of Dzuveo, including:
 
 - The method of use of the device;
 - The minimum dosing interval of one sublingual tablet per hour, in order to prevent / minimise the important identified risk of respiratory depression and the important potential risk of overdose;
@@ -554,7 +546,9 @@ pharmacists, and nurses) who are expected to prescribe / administer the product 
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Dzuveo 30 micrograms sublingual tablets sufentanil
+Dzuveo 30 micrograms sublingual tablets
+
+sufentanil
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -684,11 +678,11 @@ Store in original package to protect from light and oxygen.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Laboratoire Aguettant 1, rue Alexander Fleming 69007 Lyon
 
@@ -707,8 +701,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -718,22 +712,22 @@ Justification for not including Braille accepted.
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SINGLE DOSE APPLICATOR                                           |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SINGLE DOSE APPLICATOR                                             |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Dzuveo 30 mcg sublingual tablet sufentanil
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -743,8 +737,8 @@ Dzuveo 30 mcg sublingual tablet sufentanil
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
@@ -802,11 +796,9 @@ Talk to your doctor or nurse before using Dzuveo. Tell your doctor or nurse befo
 - -Are a smoker;
 - -Have ever had problems with your mood (depression, anxiety or a personality disorder) or have been treated by a psychiatrist for other mental illnesses.
 
-This medicine contains sufentanil which is an opioid medicine. Repeated use of opioid painkillers may
+This medicine contains sufentanil which is an opioid medicine. Repeated use of opioid painkillers may result in the drug being less effective (you become accustomed to it). It may also lead to dependence and abuse which may result in life-threatening overdose. If you have concern that you may become dependent on Dzuveo, it is important that you consult your doctor.
 
 <div style=\"page-break-after: always\"></div>
-
-result in the drug being less effective (you become accustomed to it). It may also lead to dependence and abuse which may result in life-threatening overdose. If you have concern that you may become dependent on Dzuveo, it is important that you consult your doctor.
 
 Consult your doctor WHILE using Dzuveo if:
 
@@ -943,11 +935,9 @@ Keep this medicine out of the sight and reach of children.  Your doctor or nurse
 - -is stored in the original package in order to protect from light and oxygen.
 - -this medicine is not used if there are signs of deterioration.
 
-Medicines should not be thrown away via wastewater or household waste. Your healthcare provider
+Medicines should not be thrown away via wastewater or household waste. Your healthcare provider will dispose of any waste according to hospital policies. These measures will help protect the environment.
 
 <div style=\"page-break-after: always\"></div>
-
-will dispose of any waste according to hospital policies. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information  What Dzuveo contains
 

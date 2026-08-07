@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-29 15:25:08
+document_datetime: 2026-08-04 15:01:03
 document_pages: 49
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/spinraza-epar-product-information_en.pdf
 document_name: spinraza-epar-product-information_en.pdf
 version: success
-processing_time: 13.6007202
-conversion_datetime: 2026-02-01 20:26:56.020238
+processing_time: 11.6803881
+conversion_datetime: 2026-08-07 14:20:09.553788
 docling_version:
-  docling-serve: 1.11.0
-  docling-jobkit: 1.9.1
-  docling: 2.71.0
-  docling-core: 2.62.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -170,11 +170,9 @@ This medicinal product contains potassium, less than 1 mmol (39 mg) per 5 ml via
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-No interaction studies have been performed. In vitro studies indicated that nusinersen is not an inducer or inhibitor of CYP450 mediated metabolism. In vitro studies indicate that the likelihood for
+No interaction studies have been performed. In vitro studies indicated that nusinersen is not an inducer or inhibitor of CYP450 mediated metabolism. In vitro studies indicate that the likelihood for interactions with nusinersen due to competition for plasma protein binding, or competition with or inhibition of transporters is low.
 
 <div style=\"page-break-after: always\"></div>
-
-interactions with nusinersen due to competition for plasma protein binding, or competition with or inhibition of transporters is low.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -273,17 +271,15 @@ SMA is a progressive neuromuscular disease resulting from mutations in chromosom
 
 Levels of plasma neurofilament light chain (Nf-L), a blood-based marker of axonal injury were measured at baseline and at several timepoints in study SM203 assessing the 50/28 mg dosing regimen in patients with infantile-onset and later-onset SMA.
 
-Levels of plasma Nf-L were reduced more rapidly in the 50/28 mg group compared to the 12 mg group with an 88% reduction from baseline to Day 64 in the 50/28 mg group, compared to a 77% reduction in the 12 mg group (difference in geometric mean ratios for 50/28 mg group to 12 mg group: 49%; (p = 0.0020) (Figure 1).
+Levels of plasma Nf-L were reduced more rapidly in the 50/28 mg group compared to the 12 mg group with an 88% reduction from baseline to Day 64 in the 50/28 mg group, compared to a 77% reduction in the 12 mg group (difference in geometric mean ratios for 50/28 mg group to 12 mg group: 49%; (p = 0.0035) (Figure 1).
 
-Similarly, treatment naïve patients with later-onset SMA experienced reductions of 66% in plasma NfL levels in the 50/28 mg group from baseline to Day 64, as compared to a 42% reduction in the 12 mg group (difference in geometric mean ratios for 50/28 mg group to 12 mg group: 42%; (p = 0.0495).
+Similarly, treatment naïve patients with later-onset SMA experienced reductions of 62% in plasma NfL levels in the 50/28 mg group from baseline to Day 64, as compared to a 34% reduction in the 12 mg group (difference in geometric mean ratios for 50/28 mg group to 12 mg group: 42%; (p = 0.0047).
 
 <div style=\"page-break-after: always\"></div>
 
 Figure 1: Study SM203 Part B Infantile-Onset SMA Plasma NfL LS mean ratio to baseline (95% CI) by visit from ANCOVA analysis using MI: ITT, Matched Sham Set
 
 <!-- image -->
-
-Source: isis396443/integration-hd/label-figures-summer24/f-pnf-rbase-vis-itt-msham-eu.sas Run Date: 05NOV2024
 
 Day 64 is the secondary endpoint for comparison of 12 mg versus 50/28 mg
 
@@ -303,9 +299,9 @@ Study SM203 Part B was a randomized, double-blind evaluation of the safety and e
 
 In Study SM203 Part B, patients with infantile-onset SMA (2 SMN2 copies; symptom onset before 6 months of age) were randomized 2:1 to receive the 50/28 mg or 12 mg regimen. Prespecified analyses matched 20 of 37 sham patients from Study CS3B based on similarities in both baseline disease duration and Children's Hospital of Philadelphia Infant Test for Neuromuscular Disease (CHOP INTEND) score. The primary endpoint was change in CHOP INTEND at Day 183 in infantile-onset patients in the 50/28 mg group compared to this matched sham group from Study CS3B.
 
-<div style=\"page-break-after: always\"></div>
-
 In the infantile-onset cohort in Study SM203, participants were stratified by age when randomized to create balanced 50/28 mg and 12 mg groups. Key baseline demographic characteristics (age at first dose, age at screening, age at symptom onset, SMN2 copy number, and baseline motor function) were balanced between the 50/28 mg group, the 12 mg group and the matched sham group. Relative to the infantile-onset population in Study CS3B, patients enrolled in Study SM203 were progressing more quickly and were further into their disease course, these patients had shorter disease duration (time from symptom onset to screening) and lower baseline CHOP INTEND scores. Prespecified matching to a subgroup of the Study CS3B sham control group helped minimize some of this imbalance; however, baseline mean (SD) disease duration remained shorter and baseline CHOP INTEND remained lower in the 50/28 mg and 12 mg groups relative to the matched sham group of study CS3B (Table 4). Other key baseline demographic characteristics (age at first dose, age at screening, age at symptom onset, SMN2 copy number, and baseline motor function) were balanced between the 50/28 mg group, the 12 mg group and the matched sham group.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 4: Patient baseline characteristics in study SM203 Part B
 
@@ -366,11 +362,9 @@ Study SM203 Part C was an open-label cohort that enrolled 40 patients aged 4-65 
 
 Two patients (5%) were infantile-onset and 38 (95%) patients were later-onset. Sixteen patients were younger than 18 years old and 24 patients were older than 18 years at the time of their 50 mg loading dose. The median age (range) at SMA symptom onset was 24 (4 to 192) months. The median time (range) on the 12 mg Spinraza therapy regimen was 3.9 years (1, 5). Twenty-one patients (53%) could ambulate 15 steps independently at baseline.
 
-Participants experienced a mean improvement on HFMSE of 1.8 points [SD 3.99] from baseline to
+Participants experienced a mean improvement on HFMSE of 1.8 points [SD 3.99] from baseline to Day 302, with a 2.3-point [SD 3.95] mean improvement in the adult subgroup (n = 24). Overall, 53% of patients (n = 38) experienced an increase in HFMSE score from baseline to Day 302.
 
 <div style=\"page-break-after: always\"></div>
-
-Day 302, with a 2.3-point [SD 3.95] mean improvement in the adult subgroup (n = 24). Overall, 53% of patients (n = 38) experienced an increase in HFMSE score from baseline to Day 302.
 
 On RULM, participants experienced a mean improvement of 1.2 points [SD 2.14] from baseline to Day 302, with a 0.9-point [SD 1.89] improvement in the adult subgroup. Of those with an opportunity to improve (a score below the maximum possible at baseline; n = 26), 62% experienced an increase in RULM score from baseline to Day 302.
 
@@ -403,12 +397,11 @@ Table 6: Primary and secondary endpoints at final analysis - Study CS3B
 | p-value 6                                                                                                   | p=0.0041                          | p=0.0041                |
 | Motor function                                                                                              |                                   |                         |
 | Motor milestones 3 Proportion achieving pre-defined motor milestone responder criteria (HINE section 2) 4,5 | 37 (51%) 1 p<0.0001               | 0 (0%)                  |
-| Proportion at Day 183 Proportion at Day 302 Proportion at Day 394                                           | 41% 45% 54%                       | 5% 0%                   |
-|                                                                                                             |                                   | 0%                      |
-| Proportion with improvement in total motor milestone score                                                  | 49 (67%)                          | 5 (14%)                 |
-| Proportion with worsening in total motor milestone score                                                    | 1 (1%)                            | 8 (22%)                 |
-| CHOP INTEND 3                                                                                               |                                   |                         |
-| Proportion achieving a 4-point improvement                                                                  | 52 (71%) p<0.0001                 | 1 (3%)                  |
+| Proportion at Day 183 Proportion at Day 302 Proportion at Day 394                                           | 41% 45% 54%                       | 5% 0% 0%                |
+| Proportion with improvement in total                                                                        | 49 (67%)                          |                         |
+| motor milestone score Proportion with worsening in total                                                    |                                   | 5 (14%)                 |
+| motor milestone score CHOP INTEND 3 Proportion achieving a 4-point                                          | 1 (1%)                            | 8 (22%)                 |
+| improvement                                                                                                 | 52 (71%) p<0.0001                 | 1 (3%)                  |
 | Proportion achieving a 4-point worsening                                                                    | 2 (3%)                            | 17 (46%)                |
 | Proportion with any improvement                                                                             | 53 (73%)                          | 1 (3%)                  |
 | Proportion with any worsening                                                                               | 5 (7%)                            | 18 (49%)                |
@@ -429,9 +422,9 @@ Figure 3: Change in CHOP INTEND from Baseline to Later of Day 183, Day 302, and 
 
 <!-- image -->
 
-Note1:ShortestbarsatOlineindicateOvalue.
+Note 1: Shortest bars at 0 line indicate 0 value.
 
-Note2:Outofthe110patientsintheefficacyset,29died（13（18%)forSpinrazaand16（43%）for Control)and3withdrewforreasonotherthandeath(2(3%)forSpinrazaand1(3%)forControl)and werethereforenotincludedinthisanalysisoftheES.
+Note 2: Out of the 110 patients in the efficacy set, 29 died (13 (18%) for Spinraza and 16 (43%) for C ontrol) and 3 withdrew for reason other than death (2 (3%) for Spinraza and 1 (3%) for Control) and were therefore not included in this analysis of the ES.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -449,11 +442,9 @@ The primary endpoint was the proportion of patients who improved in one or more 
 
 ## Later onset
 
-Study CS4 (CHERISH) was a Phase 3, randomised, double-blind, sham-procedure controlled study conducted in 126 symptomatic patients with later-onset SMA (symptom onset after 6 months of age). Patients were randomized 2:1 to either Spinraza 12 mg (dosed with 3 loading doses and maintenance doses every 6 months) or sham-control, with a length of treatment ranging from 324 to 482 days. The median age at screening was 3 years, and the median age of onset of clinical signs and symptoms of SMA was 11 months. The majority of patients (88%) have 3 copies of the SMN2 gene (8% have 2 copies, 2% have 4 copies, and 2% have an unknown copy number). At baseline, patients had a mean Hammersmith Functional Motor Scale Expanded (HFMSE) score of 21.6, a mean revised upper limb
+Study CS4 (CHERISH) was a Phase 3, randomised, double-blind, sham-procedure controlled study conducted in 126 symptomatic patients with later-onset SMA (symptom onset after 6 months of age). Patients were randomized 2:1 to either Spinraza 12 mg (dosed with 3 loading doses and maintenance doses every 6 months) or sham-control, with a length of treatment ranging from 324 to 482 days. The median age at screening was 3 years, and the median age of onset of clinical signs and symptoms of SMA was 11 months. The majority of patients (88%) have 3 copies of the SMN2 gene (8% have 2 copies, 2% have 4 copies, and 2% have an unknown copy number). At baseline, patients had a mean Hammersmith Functional Motor Scale Expanded (HFMSE) score of 21.6, a mean revised upper limb module (RULM) of 19.1, all had achieved independent sitting, and no patients had achieved independent walking. Patients in this study were deemed most likely to develop Type II or III SMA. Baseline disease characteristics were generally similar with the exception of an imbalance in the proportion of patients who had ever achieved the ability to stand without support (13% of patients in the Spinraza 12 mg group and 29% in sham-control) or walk with support (24% of patients in the Spinraza 12 mg group and 33% in sham-control).
 
 <div style=\"page-break-after: always\"></div>
-
-module (RULM) of 19.1, all had achieved independent sitting, and no patients had achieved independent walking. Patients in this study were deemed most likely to develop Type II or III SMA. Baseline disease characteristics were generally similar with the exception of an imbalance in the proportion of patients who had ever achieved the ability to stand without support (13% of patients in the Spinraza 12 mg group and 29% in sham-control) or walk with support (24% of patients in the Spinraza 12 mg group and 33% in sham-control).
 
 At the final analysis, a statistically significant improvement in HFMSE score from baseline to Month 15 was seen in the Spinraza 12 mg group compared to the sham-control group (Table 7, Figure 4). The analysis was conducted in the ITT population (Spinraza 12 mg: n=84; sham-control: n=42), and post-baseline HFMSE data for patients without a Month 15 visit were imputed using the multiple imputation method. An analysis of the subset of patients in the ITT population who had observed values at Month 15 demonstrated consistent, statistically significant results. Of those with observed values at Month 15, a higher proportion of Spinraza 12 mg treated subjects had improvement (73% vs 41%, respectively) and a lower proportion of Spinraza 12 mg treated subjects had worsening (23% vs 44%, respectively) in total HFMSE score compared to shamcontrol. Secondary endpoints including functional measures and WHO motor milestone achievement were formally statistically tested and are described in Table 7.
 
@@ -466,19 +457,7 @@ Table 7: Primary and secondary endpoints at final analysis - Study CS4 1
 | HFMSE score Change from baseline in total HFMSE score at 15 months 1,2,3                       | 3.9 (95% CI: 3.0, 4.9) p=0.0000001   | -1.0 (95% CI: -2.5, 0.5)  |
 | Proportion of patients who achieved at least a 3-point improvement from baseline to month 15 2 | 56.8% (95% CI:45.6, 68.1) p=0.0006 5 | 26.3% (95% CI: 12.4,40.2) |
 | RULM Mean change from baseline to month 15 in total RULM score 2,3                             | 4.2(95% CI: 3.4, 5.0) p=0.0000001 6  | 0.5 (95% CI: -0.6, 1.6)   |
-| WHOmotor milestones Proportion of patients who achieved new motor milestones at 15 months 4    | 19.7% (95% CI: 10.9, 31.3) p=0.0811  | 5.9% (95% CI: 0.7, 19.7)  |
-
-1 CS4 was stopped following positive statistical analysis on the primary endpoint at interim analysis (statistically significant improvement from baseline HFMSE score was observed in Spinraza 12 mg treated patients compared to the sham-control patients (Spinraza 12 mg vs. sham-control: 4.0 vs. -1.9; p=0.0000002))
-
-2  Assessed using the Intent to Treat population (Spinraza 12 mg n=84; Sham-control n=42); data for patients without a Month 15 visit were imputed using the multiple imputation method
-
-3 Least squares mean
-
-4  Assessed using the Month 15 Efficacy Set (Spinraza 12 mg n=66; Sham control n=34); analyses are based on imputed data when there are missing data.
-
-5  Based on logistic regression with treatment effect and adjustment for each subject's age at screening and HFMSE score at baseline
-
-6 Nominal p value
+| WHO motor milestones Proportion of patients who achieved new motor milestones at 15 months 4   | 19.7% (95% CI: 10.9, 31.3) p=0.0811  | 5.9% (95% CI: 0.7, 19.7)  |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -486,7 +465,7 @@ Figure 4: Mean change from baseline in HFMSE score over time at final analysis (
 
 <!-- image -->
 
-Data for patients without a Month 15 visit were imputed using the multiple imputation method 2Errorbarsdenote+/-standarderror
+'Data for patients without a Month 15 visit were imputed using the multiple imputation method ²Error bars denote +/- standard error
 
 Upon completion of Study CS4 (CHERISH), 125 (83 Spinraza and 42 sham) patients enrolled in Study CS11 (SHINE) where all patients received Spinraza 12 mg. The majority of Spinraza 12 mg treated patients experienced stabilization or improvement in motor function, with the greatest benefit observed in those with earlier treatment initiation.
 
@@ -540,11 +519,11 @@ Figure 5: Change in HINE Motor Milestones versus Study days for Study CS3B (trea
 
 <!-- image -->
 
-Population used in figure: 232SM201 subjects in the ITT set with SMN2 copy number denoted in parentheses, CS3A: SMN2 2 copy subjects, CS3B:SubjectswithSMN22copyinITTset.
+Population used in figure: 232SM201 subjects in the ITT set with SMN2 copy number denoted in parentheses, CS3A: SMN2 2 copy subjects, CS3B: Subjects with SMN2 2 copy in ITT set.
 
-For CS3A andCS3Bthedatawerewindowedintointervalsbasedontimefrombaseline.
+For CS3A and CS3B the data were windowed into intervals based on time from baseline.
 
-For 232SM201 and CS3A, visits with n &lt; 5 are not plotted. For the remaining groups visits with n &lt; 10 are not plotted. SOURCE:ISIS396443/ISS/CDS-UPDATE-2024/F-HMOTOR-BYVIS-GRA-CLN.SAS DATE:18MAR2024
+For 232SM201 and CS3A, visits with n &lt; 5 are not plotted. For the remaining groups visits with n &lt; 10 are not plotted. SOURCE: ISIS396443/ISS/CDS-UPDATE-2024/F-HMOTOR-BYVIS-GRA-CLN.SAS DATE: 18MAR2024
 
 ## 5.2 Pharmacokinetic properties
 
@@ -562,11 +541,9 @@ Following intrathecal administration trough plasma concentrations of nusinersen 
 
 ## Distribution
 
-Autopsy data from patients (n=3) show that nusinersen administered intrathecally is broadly distributed within the CNS achieving therapeutic levels in the target spinal cord tissues. Presence of
+Autopsy data from patients (n=3) show that nusinersen administered intrathecally is broadly distributed within the CNS achieving therapeutic levels in the target spinal cord tissues. Presence of nusinersen was also demonstrated in neurons and other cell types in the spinal cord and brain, and peripheral tissues such as skeletal muscle, liver, and kidney.
 
 <div style=\"page-break-after: always\"></div>
-
-nusinersen was also demonstrated in neurons and other cell types in the spinal cord and brain, and peripheral tissues such as skeletal muscle, liver, and kidney.
 
 ## Biotransformation
 
@@ -670,9 +647,7 @@ Instructions for preparation of the medicinal product before administration
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Biogen Netherlands B.V.
-
-Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -705,7 +680,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+Biogen Netherlands B.V.
+
+Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -732,9 +709,9 @@ An updated RMP should be submitted:
 
 The MAH shall complete, within the stated timeframe, the below measures:
 
-| Description                                                                                                                                                                                                                                                             | Due date                                 |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-| Post-authorisation efficacy study (PAES): In order to evaluate the long-term efficacy and safety of nusinersen in presymptomatic patients with spinal muscular atrophy, the MAHshould conduct and submit the results of the Phase 2, open-label study (NURTURE (SM201)) | Submission of study results: April 2026. |
+| Description                                                                                                                                                                                                                                                              | Due date                                 |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+| Post-authorisation efficacy study (PAES): In order to evaluate the long-term efficacy and safety of nusinersen in presymptomatic patients with spinal muscular atrophy, the MAH should conduct and submit the results of the Phase 2, open-label study (NURTURE (SM201)) | Submission of study results: April 2026. |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -798,7 +775,7 @@ Do not freeze.
 
 Store in the original carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -818,7 +795,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -828,17 +805,13 @@ Justification for not including Braille accepted.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| VIAL                                                               |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -921,9 +894,7 @@ Store in the original carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp
-
-The Netherlands
+Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -947,9 +918,7 @@ Justification for not including Braille accepted.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -1450,11 +1419,9 @@ Tel: +46 8 594 113 60
 
 Biogen Latvia SIA
 
-<div style=\"page-break-after: always\"></div>
-
-Biogen Latvia SIA
-
 Tel: + 371 68 688 158
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -1485,13 +1452,13 @@ Detailed information on this medicine is available on the European Medicines Age
 
 10.  Any unused product in the vial should be discarded and waste material must be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Spinraza 28 mg solution for injection Spinraza 50 mg solution for injection
 
-## nusinersen
+nusinersen
 
 ## Read all of this leaflet carefully before you or your child receives this medicine because it contains important information for you.
 
@@ -1528,11 +1495,9 @@ If you are not sure, talk to your doctor or nurse before you or your child are g
 
 There is a risk of side effects occurring after Spinraza is given by a lumbar puncture procedure (see section 3). This can include headaches, vomiting and back pain. There may also be difficulties with giving a medicine by this method in very young patients and those with scoliosis (twisted and curved spine).
 
-Other products that are in the same group of medicines as Spinraza have been shown to affect the cells in the blood which help clotting. Before you or your child are given Spinraza your doctor may decide
+Other products that are in the same group of medicines as Spinraza have been shown to affect the cells in the blood which help clotting. Before you or your child are given Spinraza your doctor may decide to do a blood test to check that your or your child's blood can clot properly. This may not be required every time you or your child are given Spinraza.
 
 <div style=\"page-break-after: always\"></div>
-
-to do a blood test to check that your or your child's blood can clot properly. This may not be required every time you or your child are given Spinraza.
 
 Other products that are in the same group of medicines as Spinraza have been shown to affect the kidneys. Before you or your child are given Spinraza your doctor may decide to do a urine test to check that your or your child's kidneys are working normally. This may not be required every time you or your child are given Spinraza.
 
@@ -1635,7 +1600,7 @@ Medicines should not be disposed of via wastewater or household waste. Your heal
 
 - -The active substance is nusinersen.
 
-## Spinraza 28 mg
+Spinraza 28 mg
 
 - -Each 5 ml vial contains nusinersen sodium equivalent to 28 mg nusinersen.
 - -Each ml contains 5.6 mg of nusinersen.
@@ -1727,9 +1692,7 @@ Tel: + 372 618 9551
 
 Genesis Pharma SA
 
-Τηλ
-
-: +30 210 8771500
+Τηλ : +30 210 8771500
 
 ## España
 

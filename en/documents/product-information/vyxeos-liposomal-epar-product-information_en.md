@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-05-24 16:56:46
+document_datetime: 2026-08-04 11:10:01
 document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vyxeos-liposomal-epar-product-information_en.pdf
 document_name: vyxeos-liposomal-epar-product-information_en.pdf
 version: success
-processing_time: 6.8069102
-conversion_datetime: 2025-12-28 13:05:26.136066
+processing_time: 5.7590217
+conversion_datetime: 2026-08-07 14:15:52.613233
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -54,9 +54,9 @@ Vyxeos liposomal has a different posology than daunorubicin injection and cytara
 
 ## Posology
 
-Vyxeos liposomal dosing is based on the patient's body surface area (BSA) according to the following schedule:
+Vyxeos liposomal dosing is b ased on the patient's body surface area (BSA) according to the following schedule:
 
-## Table 1:    Dose and schedule for Vyxeos liposomal
+Table 1: Dose and schedule for Vyxeos liposomal
 
 | Therapy          | Dosing schedule                                                      |
 |------------------|----------------------------------------------------------------------|
@@ -91,7 +91,7 @@ Patients should be monitored for haematologic response and toxicities.
 
 Dosing should be delayed or permanently discontinued, if necessary, as described below.
 
-Patients may be pre-medicated for nausea and vomiting. An anti-hyperuricemic therapy should be considered (e.g., allopurinol) prior to initiating Vyxeos liposomal.
+Patients may be pre-medicated for nausea and vomiting. An anti-hyperuricaemic therapy should be considered (e.g., allopurinol) prior to initiating Vyxeos liposomal.
 
 ## Hypersensitivity
 
@@ -115,7 +115,7 @@ If a planned dose of Vyxeos liposomal is missed, the dose should be administered
 
 ## Renal impairment
 
-Dose adjustment is not required for patients with mild (creatinine clearance [CrCL] 60 mL/min to 89 mL/min by Cockcroft Gault equation [C-G]), moderate (CrCL 30 mL/min to 59 mL/min) or severe (CrCL&lt;30 mL/min) renal impairment. There is no experience with Vyxeos liposomal in patients with end-stage renal disease managed with dialysis. (See section 5.2).
+Dose adjustment is not required for patients with mild (creatinine clearance [CrCL] 60 mL/min to 89 mL/min by Cockcroft Gault equation [C-G]), moderate (CrCL 30 mL/min to 59 mL/min) or severe (CrCL&lt;30 mL/min) renal impairment. There is no experience with Vyxeos liposomal in patients with end-stage renal disease managed with dialysis (See section 5.2).
 
 ## Hepatic impairment
 
@@ -123,11 +123,13 @@ Dose adjustment is not required for patients with a bilirubin level less than or
 
 ## Elderly population
 
-N o dose adjustment is required in elderly patients (≥65 years) (see section 5.2).
+No dose adjustment is required in elderly patients (≥65 years) (see section 5.2).
 
 ## Paediatric population
 
-Outside its authorised indications Vyxeos liposomal has been studied in paediatric and young adult patients aged 1-21 years with relapsed AML. Due to the limited size of these studies, it is not possible to conclude that the benefits of the use outweigh the risks.
+Outside its authorised indications, Vyxeos liposomal has been studied in paediatric and young adult patients aged 1-21 years with relapsed AML. Due to the limited size of these studies, it is not possible to conclude that the benefits of the use outweigh the risks.
+
+Vyxeos liposomal has been studied also in paediatric and young adult patients (&lt;22 years) with de novo AML, but the safety and efficacy have not been established.
 
 Currently available data are described in sections 5.1 and 5.2, but no recommendation on a posology can be made.
 
@@ -143,15 +145,13 @@ For instructions on reconstitution and dilution of the medicinal product before 
 
 History of serious hypersensitivity to the active substances or to any of the excipients listed in section 6.1.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.4 Special warnings and precautions for use
 
 ## Other daunorubicin and/or cytarabine-containing products
 
-Vyxeos liposomal must not be substituted or interchanged with other daunorubicin and/or cytarabine containing products.  Due to substantial differences in the pharmacokinetic parameters, the dose and schedule recommendations for Vyxeos liposomal are different from those for daunorubicin hydrochloride injection, cytarabine injection, daunorubicin citrate liposome injection, and cytarabine
-
-<div style=\"page-break-after: always\"></div>
-
-liposome injection. The medicinal product name and dose should be verified prior to administration to avoid dosing errors.
+Vyxeos liposomal must not be substituted or interchanged with other daunorubicin and/or cytarabine containing products. Due to substantial differences in the pharmacokinetic parameters, the dose and schedule recommendations for Vyxeos liposomal are different from those for daunorubicin hydrochloride injection, cytarabine injection, daunorubicin citrate liposome injection, and cytarabine liposome injection. The medicinal product name and dose should be verified prior to administration to avoid dosing errors.
 
 ## Severe myelosuppression
 
@@ -163,7 +163,7 @@ Prophylactic anti-infectives (including anti-bacterial, anti-virals, anti-fungal
 
 Cardiotoxicity is a known risk of anthracycline treatment. Prior therapy with anthracyclines (including patients who have previously received the recommended maximum cumulative doses of doxorubicin or daunorubicin hydrochloride), pre-existing cardiac disease (including impaired cardiac function), previous radiotherapy of the mediastinum, or concomitant use of cardiotoxic products may increase the risk of daunorubicin-induced cardiac toxicity.
 
-In two single arm studies of 65 anthracycline pre-treated children with relapsed or refractory AML treated with a single induction cycle (Cycle 1) of Vyxeos liposomal, cardiac disorders (including sinus tachycardia, QT prolongation and ejection fraction decreased) were observed.  Several other long-term studies of treatment with anthracycline/anthracenedione in children suggest that congestive cardiomyopathies with a latency of many years may occur (see section 4.8).
+In two single arm studies of 65 anthracycline pre-treated children with relapsed or refractory AML treated with a single induction cycle (Cycle 1) of Vyxeos liposomal, cardiac disorders (including sinus tachycardia, QT prolongation and ejection fraction decreased) were observed. Several other long-term studies of treatment with anthracycline/anthracenedione in children suggest that congestive cardiomyopathies with a latency of many years may occur (see section 4.8).
 
 Total cumulative doses of non-liposomal daunorubicin greater than 550 mg/m 2 have been associated with an increased incidence of treatment-induced congestive heart failure. This limit appears lower (400 mg/m 2 ) in patients who received radiation therapy to the mediastinum. The relationship between cumulative Vyxeos liposomal dose and the risk of cardiac toxicity has not been determined. Total cumulative exposure of daunorubicin has been described in the table below.
 
@@ -171,15 +171,15 @@ Table 2: Cumulative exposure of daunorubicin per course of Vyxeos liposomal
 
 | Therapy                 |   Daunorubicin per dose | Number of doses per course   | Daunorubicin per course   |
 |-------------------------|-------------------------|------------------------------|---------------------------|
-| 44 mg/m 2               |                       3 | 132 mg/m 2                   | First induction           |
+| 44 mg/m 2               |                       3 | 132 mg/m                     | First induction 2         |
 | 44 mg/m 2               |                       2 | 88 mg/m 2                    | Second induction          |
 | consolidation 29 mg/m 2 |                       2 |                              | Each 58 mg/m 2            |
+
+<div style=\"page-break-after: always\"></div>
 
 A baseline cardiac evaluation with an electrocardiogram (ECG) and a multi-gated radionuclide angiography (MUGA) scan or an echocardiography (ECHO) is recommended, especially in patients with risk factors for increased cardiac toxicity. Cardiac function should be closely monitored.
 
 Treatment with Vyxeos liposomal should be discontinued in patients with impaired cardiac function unless the benefit of initiating or continuing treatment outweighs the risk (see sections 4.5 and 4.8).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Contraception and Pregnancy
 
@@ -203,17 +203,17 @@ Hepatic impairment may increase the risk of toxicity associated with daunorubici
 
 ## Laboratory tests
 
-Vyxeos liposomal may induce hyperuricemia secondary to rapid lysis of leukaemic cells. Blood uric acid levels should be monitored and appropriate therapy initiated in the event that hyperuricemia develops.
+Vyxeos liposomal may induce hyperuricaemia secondary to rapid lysis of leukaemic cells. Blood uric acid levels should be monitored and appropriate therapy initiated in the event that hyperuricemia develops.
 
-## History of Wilson's disease or other copper-related disorder
+## History of Wilson's disease or other copper -related disorder
 
 Each vial contains 100 mg of copper gluconate, which corresponds to 14 mg of elemental copper. Vyxeos liposomal should only be used in patients with a history of Wilson's disease or other copper-related disorder if the benefits outweigh the risks (see section 6.1). Discontinue Vyxeos liposomal in patients with signs or symptoms of acute copper toxicity.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Immunosuppressant effects/Increased susceptibility to infections
 
 Administration of live or live-attenuated vaccines in patients that are immunocompromised by chemotherapeutic agents may result in serious or fatal infections. Vaccination with a live vaccine should be avoided in patients receiving Vyxeos liposomal. Killed or inactivated vaccines may be administered; however, the response to such vaccines may be diminished.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Gastrointestinal mucositis and diarrhoea
 
@@ -247,11 +247,11 @@ If the medicinal product is used during pregnancy, or if the patient becomes pre
 
 It is not known whether Vyxeos liposomal is excreted in human milk. Because of the potential for serious adverse reactions in breast-feeding children from Vyxeos liposomal, women should be advised not to breast-feed during Vyxeos liposomal therapy.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Fertility
 
 Based on findings in animals, male fertility may be compromised by treatment with Vyxeos liposomal (see section 5.3).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -269,36 +269,39 @@ The most serious and frequently occurring ADRs were infection (58.7%), cardiotox
 
 ADRs have been included under the appropriate category in the table below according to the highest frequency observed in any of the main clinical studies.
 
-Frequencies are defined as: very common ( ≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt; 1/100) ; rare (≥ 1/10 000 to &lt; 1/1 000); not known (cannot be estimated from the available data).
+Frequencies are defined as: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt; 1/100) ; rare (≥ 1/10 000 to &lt; 1/1 000); not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. For classification of ADRs which occur at Grades 3-5, a comprehensive listing is available from the NCI at NCI CTCAE. Toxicity is graded as mild (Grade 1), moderate (Grade 2), severe (Grade 3), or life-threatening (Grade 4), with specific parameters according to the organ system involved. Death (Grade 5) is used for some of the criteria to denote a fatality.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 3: ADRs reported in clinical studies in patients treated with Vyxeos liposomal (n=375)
 
-| System organ class                              | ADRs/Frequency (%)                                                                                   | Grade 3-5 ADRs/Frequency (%)                                                                         |
-|-------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| Infections and infestations                     | Very common Infection (78.1)                                                                         | Very common Infection (58.7)                                                                         |
-| Blood and lymphatic system disorders            | Very common Febrile neutropenia (63.5) Common Thrombocytopenia (4.5) Neutropenia (3.7) Anaemia (3.2) | Very common Febrile neutropenia (62.4) Common Thrombocytopenia (3.7) Neutropenia (3.5) Anaemia (2.1) |
-| Immune systems disorders                        | Very common Hypersensitivity (including rash) (66.9)                                                 | Common Hypersensitivity (including rash) (9.1)                                                       |
-| Metabolism and nutrition disorders              | Common Tumour lysis syndrome (7.5)                                                                   | Common Tumour lysis syndrome (2.7)                                                                   |
-| Psychiatric disorders                           | Very common Sleep disorders (25.1) Anxiety (17.3) Delirium (15.5)                                    | Common Delirium (2.4) Uncommon Sleep disorders (0.5)                                                 |
-| Nervous system disorders                        | Very common Headache (32.3) Dizziness (23.2)                                                         | Common Headache (1.1) Uncommon Dizziness (0.8)                                                       |
-| Eye disorders                                   | Very common Visual impairment (10.4)                                                                 | Uncommon Visual impairment (0.3)                                                                     |
-| Cardiac disorders                               | Very common Cardiotoxicity (72) Arrhythmia a (30.4) Chest pain (17.6)                                | Very common Cardiotoxicity (18.7) Common Arrhythmia a (4.3) Chest pain (1.9)                         |
-| Vascular disorders                              | Very common Haemorrhage (69.1) Hypotension (23.7) Hypertension (17.3)                                | Very common Haemorrhage (13.1) Common Hypertension (6.9) Hypotension (4.5)                           |
-| Respiratory, thoracic and mediastinal disorders | Very common Dyspnoea (36.5) Cough (33.9) Pleural effusion (13.9)                                     | Very common Dyspnoea (13.1) Uncommon Pleural effusion (0.8)                                          |
+| System organ class                   | ADRs/Frequency (%)                                                                                   | Grade 3-5 ADRs/Frequency (%)                                                                         |
+|--------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| Infections and infestations          | Very common Infection (78.1)                                                                         | Very common Infection (58.7)                                                                         |
+| Blood and lymphatic system disorders | Very common Febrile neutropenia (63.5) Common Thrombocytopenia (4.5) Neutropenia (3.7) Anaemia (3.2) | Very common Febrile neutropenia (62.4) Common Thrombocytopenia (3.7) Neutropenia (3.5) Anaemia (2.1) |
+| Immune systems disorders             | Very common Hypersensitivity (including rash) (66.9)                                                 | Common Hypersensitivity (including rash) (9.1)                                                       |
+| Metabolism and nutrition disorders   | Common Tumour lysis syndrome (7.5)                                                                   | Common Tumour lysis syndrome (2.7)                                                                   |
+| Psychiatric disorders                | Very common Sleep disorders (25.1) Anxiety (17.3) Delirium (15.5)                                    | Common Delirium (2.4) Uncommon Sleep disorders (0.5)                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                                   | ADRs/Frequency (%)                                                                                                                                                             | Grade 3-5 ADRs/Frequency (%)                                                                                                                                         |
-|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Gastrointestinal disorders                           | Very common Nausea (51.7) Diarrhoea/colitis (49.9) Mucositis (49.9) Constipation (42.7) Abdominal pain (36.3) Decreased appetite (33.9) Vomiting (27.7) Common Dyspepsia (9.6) | Common Diarrhoea/colitis (6.1) Abdominal pain (2.9) Mucositis (2.1) Decreased appetite (1.6) Constipation (1.1) Nausea (1.1) Uncommon Dyspepsia (0.5) Vomiting (0.3) |
-| Skin and subcutaneous tissue disorders               | Very common Pruritus (17.3) Hyperhidrosis (10.1) Common Night sweats (8.3) Alopecia (3.2) Uncommon Palmar-plantar erythrodysaesthesia syndrome (0.8)                           | Uncommon Hyperhidrosis (0.3)                                                                                                                                         |
-| Musculoskeletal and connective tissue disorders      | Very common Musculoskeletal pain (44.5)                                                                                                                                        | Common Musculoskeletal pain (5.1)                                                                                                                                    |
-| Renal and urinary disorders                          | Very common Renal insufficiency (10.4)                                                                                                                                         | Common Renal insufficiency (6.4)                                                                                                                                     |
-| General disorders and administration site conditions | Very common Oedema (52.3) Fatigue (46.4) Chills (31.2) Pyrexia (29.6)                                                                                                          | Very common Fatigue (10.4) Common Pyrexia (3.2) Oedema (2.7) Uncommon Chills (0.3)                                                                                   |
+| System organ class                              | ADRs/Frequency                                                                                                                                                                 | Grade 3-5 ADRs/Frequency (%)                                                                                                                                         |
+|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nervous system disorders                        | (%) Very common Headache (32.3) Dizziness (23.2)                                                                                                                               | Common Headache (1.1) Uncommon Dizziness (0.8)                                                                                                                       |
+| Eye disorders                                   | Very common Visual impairment (10.4)                                                                                                                                           | Uncommon Visual impairment (0.3)                                                                                                                                     |
+| Cardiac disorders                               | Very common Cardiotoxicity (72) Arrhythmia a (30.4) Chest pain (17.6)                                                                                                          | Very common Cardiotoxicity (18.7) Common Arrhythmia a (4.3) Chest pain (1.9)                                                                                         |
+| Vascular disorders                              | Very common Haemorrhage (69.1) Hypotension (23.7) Hypertension (17.3)                                                                                                          | Very common Haemorrhage (13.1) Common Hypertension (6.9) Hypotension (4.5)                                                                                           |
+| Respiratory, thoracic and mediastinal disorders | Very common Dyspnoea (36.5) Cough (33.9) Pleural effusion (13.9)                                                                                                               | Very common Dyspnoea (13.1) Uncommon Pleural effusion (0.8)                                                                                                          |
+| Gastrointestinal disorders                      | Very common Nausea (51.7) Diarrhoea/colitis (49.9) Mucositis (49.9) Constipation (42.7) Abdominal pain (36.3) Decreased appetite (33.9) Vomiting (27.7) Common Dyspepsia (9.6) | Common Diarrhoea/colitis (6.1) Abdominal pain (2.9) Mucositis (2.1) Decreased appetite (1.6) Constipation (1.1) Nausea (1.1) Uncommon Dyspepsia (0.5) Vomiting (0.3) |
+| Skin and subcutaneous tissue disorders          | Very common Pruritus (17.3) Hyperhidrosis (10.1) Common Night sweats (8.3) Alopecia (3.2) Uncommon Palmar-plantar erythrodysaesthesia syndrome (0.8)                           | Uncommon Hyperhidrosis (0.3)                                                                                                                                         |
+| Musculoskeletal and connective tissue disorders | Very common Musculoskeletal pain (44.5)                                                                                                                                        | Common Musculoskeletal pain (5.1)                                                                                                                                    |
+| Renal and urinary disorders                     | Very common Renal insufficiency (10.4)                                                                                                                                         | Common Renal insufficiency (6.4)                                                                                                                                     |
+
+<div style=\"page-break-after: always\"></div>
+
+| System organ class                                   | ADRs/Frequency (%)                                                    | Grade 3-5 ADRs/Frequency (%)                                                       |
+|------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| General disorders and administration site conditions | Very common Oedema (52.3) Fatigue (46.4) Chills (31.2) Pyrexia (29.6) | Very common Fatigue (10.4) Common Pyrexia (3.2) Oedema (2.7) Uncommon Chills (0.3) |
 
 a Arrhythmia group terms includes atrial fibrillation, bradycardia, and the most commonly reported arrhythmia was tachycardia
 
@@ -310,11 +313,7 @@ Due to the neutropenia experienced with Vyxeos liposomal, infections of various 
 
 ## Haemorrhage
 
-Due to the thrombocytopenia experienced with Vyxeos liposomal a variety of haemorrhagic events were seen in clinical studies. The most common haemorrhagic event was epistaxis, and the majority of these were considered not serious (29.1%). The incidence of haemorrhage events is 69.1%; the incidence of non-serious events of haemorrhage was 67.2 %; the incidence of serious events of haemorrhage is 5.6%; the incidence of haemorrhage which led to discontinuation is 0. The incidence of fatal haemorrhage was 2.1%. Serious or fatal haemorrhagic events, including fatal central nervous
-
-<div style=\"page-break-after: always\"></div>
-
-system (CNS) haemorrhages, associated with severe thrombocytopenia were seen in patients treated with Vyxeos liposomal (see section 4.4).
+Due to the thrombocytopenia experienced with Vyxeos liposomal a variety of haemorrhagic events were seen in clinical studies. The most common haemorrhagic event was epistaxis, and the majority of these were considered not serious (29.1%). The incidence of haemorrhage events is 69.1%; the incidence of non-serious events of haemorrhage was 67.2 %; the incidence of serious events of haemorrhage is 5.6%; the incidence of haemorrhage which led to discontinuation is 0. The incidence of fatal haemorrhage was 2.1%. Serious or fatal haemorrhagic events, including fatal central nervous system (CNS) haemorrhages, associated with severe thrombocytopenia were seen in patients treated with Vyxeos liposomal (see section 4.4).
 
 ## Cardiotoxicity
 
@@ -326,9 +325,17 @@ Hypersensitivity reactions were very common ADRs in Vyxeos liposomal clinical st
 
 ## Paediatric population
 
-The safety profile of Vyxeos liposomal in 38 paediatric patients with relapsed AML in study AAML1421 appeared to be in general similar to that observed in the approved indication in adults with newly treated AML treated with Vyxeos liposomal (see section 4.2).  However, adverse reactions in study AAML 1421 observed in paediatric patients that were different from or more severe than those seen in adults (acknowledging limitations of cross study comparisons) included rash maculopapular (47.4%), electrocardiogram QT prolongation (28.9%), the early onset of cardiotoxicity (defined as &gt;  10% decrease LVEF to final LVEF &lt; 50% LVEF; 21.0%), severe hypokalaemia (13.2%), hyperglycaemia (7.9%) and ALT increased (7.9%). Hypertension was observed in 18.2% of these paediatric patients.
+## Relapsed AML
+
+The safety profile of Vyxeos liposomal in 38 paediatric patients with relapsed AML in study AAML1421 appeared to be in general similar to that observed in the approved indication in adults with newly treated AML treated with Vyxeos liposomal (see section 4.2). However, adverse reactions in study AAML 1421 observed in paediatric patients that were different from or more severe than those seen in adults (acknowledging limitations of cross study comparisons) included rash maculopapular (47.4%), electrocardiogram QT prolongation (28.9%), the early onset of cardiotoxicity (defined as &gt; 10% decrease LVEF to final LVEF &lt; 50% LVEF; 21.0%), severe hypokalaemia (13.2%), hyperglycaemia (7.9%) and ALT increased (7.9%). Hypertension was observed in 18.2% of these paediatric patients.
+
+<div style=\"page-break-after: always\"></div>
 
 No paediatric long-term safety data beyond the study duration (26 months) are available. There is, thus, no paediatric safety data to address the long-term cardiotoxicity of Vyxeos liposomal, including long-term cardiotoxicity when used at doses above the maximum life-time cumulative anthracycline dose. There are no data on the effects of Vyxeos liposomal treatment on growth and maturation.
+
+## De Novo AML
+
+The safety of Vyxeos liposomal in combination with gemtuzumab ozogamicin was studied in 361 paediatric and young adult (&lt;22 years) patients in study AAML1831 (see sections 4.2 and 5.1). The relationship of adverse events to the study drug was not collected. 90.9% of patients treated with Vyxeos liposomal and gemtuzumab ozogamicin had at least one TEAE (treatment-emergent adverse event). 286 (79.2%) patients treated with Vyxeos liposomal and gemtuzumab ozogamicin had at least 1 TEAE of Grade 3 or higher. The most frequently reported TEAEs by PT (preferred term) in patients treated with Vyxeos liposomal and gemtuzumab ozogamicin were febrile neutropenia (213 [59.0%] participants), sepsis (131 [36.3%] participants), hypertension (102 [28.3%] participants), alanine aminotransferase increased (85 [23.5%] participants), anorexia (81 [22.4%] participants), EF (ejection fraction) decreased (78 [21.6%] participants), and hypokalaemia (77 [21.3%] participants). The overall safety profile of Vyxeos liposomal was consistent with the known safety profile.
 
 ## Reporting of suspected adverse reactions
 
@@ -337,8 +344,6 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 ## 4.9 Overdose
 
 There is no specific experience in the management of overdose in patients. If overdose occurs, exacerbation of adverse reactions associated with Vyxeos liposomal are expected and supportive treatment (incuding anti-infectives, blood and platelet transfusions, colony-stimulating factors, and intensive care as needed) should be provided until the patient recovers. Observe the patient carefully over time for signs of cardiotoxicity and provide appropriate supportive therapy as clinically indicated.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -354,6 +359,8 @@ Daunorubicin has antimitotic and cytotoxic activity, which is achieved by formin
 
 Cytarabine is a cell cycle phase-specific antineoplastic agent, affecting cells only during the S-phase of cell division. Intracellularly, cytarabine is converted into cytarabine-5-triphosphate (ara-CTP), which is the active metabolite. The mechanism of action is not completely understood, but it appears that ara-CTP acts primarily through inhibition of DNA synthesis. Incorporation into DNA and RNA may also contribute to cytarabine cytotoxicity. Cytarabine is cytotoxic to proliferating mammalian cells in culture.
 
+<div style=\"page-break-after: always\"></div>
+
 Vyxeos liposomal liposomes exhibit a prolonged plasma half-life following intravenous infusion, with greater than 99% of the daunorubicin and cytarabine in the plasma remaining encapsulated within the liposomes. Vyxeos liposomal delivers a synergistic combination of daunorubicin and cytarabine to leukaemia cells for a prolonged period of time. Based on data in animals, Vyxeos liposomal liposomes accumulate and persist in high concentration in the bone marrow, where they are preferentially taken up intact by leukaemia cells in an active engulfment process. In leukaemia-bearing mice, the liposomes are taken up by leukaemia cells to a greater extent than by normal bone marrow cells. After internalisation, Vyxeos liposomal liposomes undergo degradation, releasing daunorubicin and cytarabine within the intracellular environment, enabling the medicinal products to exert their synergistic antineoplastic activity.
 
 ## Clinical efficacy and safety
@@ -364,15 +371,13 @@ The efficacy of Vyxeos liposomal in adults for the treatment of newly diagnosed 
 
 Study 301 was a Phase 3 randomised, multicentre, open-label, parallel-arm, superiority study which evaluated Vyxeos liposomal vs. a standard combination of cytarabine and daunorubicin (7+3) in 309 patients between 60 to 75 years of age with untreated high-risk AML. Patients with the following AML sub-types were included in the study: therapy-related AML (t-AML), myelodysplastic syndrome AML (MDS AML) and chronic myelomonocytic leukaemia AML (CMMoL AML) with documented history of MDS or CMMoL prior to transformation to AML, and de novo AML with karyotype changes characteristic of myelodysplasia, (per 2008 WHO criteria).
 
-The study included 2 phases, 1) Treatment Phase during which patients received up to 2 induction and 2 consolidation courses, and 2) a Follow-up Phase, which began 30 days after the last induction or consolidation course and continued for up to 5 years from randomisation. The number of inductions and consolidations a patient received depended upon complete response (CR) or complete response with incomplete recovery (CRi), which was confirmed by bone marrow assessment. In clinical studies only, Vyxeos liposomal 100 units/m 2 /day (equivalent to 44 mg/100 mg/m 2 ) was administered intravenously over 90 minutes on days 1, 3, and 5 for the first induction and on days 1 and 3 for patients requiring a second induction. A second induction was highly recommended for patients who did not achieve a CR or CRi in the first induction course and was mandatory for patients achieving
+The study included 2 phases, 1) Treatment Phase during which patients received up to 2 induction and 2 consolidation courses, and 2) a Follow-up Phase, which began 30 days after the last induction or consolidation course and continued for up to 5 years from randomisation. The number of inductions and consolidations a patient received depended upon complete response (CR) or complete response with incomplete recovery (CRi), which was confirmed by bone marrow assessment. In clinical studies only, Vyxeos liposomal 100 units/m 2 /day (equivalent to 44 mg/100 mg/m 2 ) was administered intravenously over 90 minutes on days 1, 3, and 5 for the first induction and on days 1 and 3 for patients requiring a second induction. A second induction was highly recommended for patients who did not achieve a CR or CRi in the first induction course and was mandatory for patients achieving greater than 50% reduction in percent blasts. Post-remission therapy with haematopoietic stem cell transplantation (HSCT) was permitted either in place of or after consolidation chemotherapy. For consolidation courses, in clinical studies only, the Vyxeos liposomal dose was reduced to 65 units/m 2 /day (equivalent to 29 mg/65 mg/m 2 ) on days 1 and 3. In the 7+3 arm, first induction consisted of cytarabine 100 mg/m 2 /day on days 1 to 7 by continuous infusion, and daunorubicin 60 mg/m 2 /day on days 1, 2, and 3 whereas second induction and consolidation cytarabine was dosed on days 1 to 5 and daunorubicin on days 1 and 2.
 
-<div style=\"page-break-after: always\"></div>
-
-greater than 50% reduction in percent blasts. Post-remission therapy with haematopoietic stem cell transplantation (HSCT) was permitted either in place of or after consolidation chemotherapy. For consolidation courses, in clinical studies only, the Vyxeos liposomal dose was reduced to 65 units/m 2 /day (equivalent to 29 mg/65 mg/m 2 ) on days 1 and 3. In the 7+3 arm, first induction consisted of cytarabine 100 mg/m 2 /day on days 1 to 7 by continuous infusion, and daunorubicin 60 mg/m 2 /day on days 1, 2, and 3 whereas second induction and consolidation cytarabine was dosed on days 1 to 5 and daunorubicin on days 1 and 2.
-
-There were 153 patients randomised to Vyxeos liposomal and 156 patients randomised to the 7+3 control arm. The randomised patients had a median age of 68 (range 60-75 years), 61% were male, and 88% had an ECOG performance status of 0-1. At baseline 20% had t-AML, 54% had AML with an antecedent haematological disorder and 25% had de novo AML with myelodysplasia-related cytogenetic abnormalities; 34% had been treated previously with a hypomethylating agent for MDS;54% had an adverse karyotype.
+There were 153 patients randomised to Vyxeos liposomal and 156 patients randomised to the 7+3 control arm. The randomised patients had a median age of 68 (range 60-75 years), 61% were male, and 88% had an ECOG performance status of 0-1. At baseline 20% had t-AML, 54% had AML with an antecedent haematological disorder and 25% had de novo AML with myelodysplasia-related cytogenetic abnormalities; 34% had been treated previously with a hypomethylating agent for MDS; 54% had an adverse karyotype.
 
 The demographic and baseline disease characteristics were generally balanced between the study arms. FLT3 mutation was identified in 15% (43/279) of patients tested and NPM1 mutation was identified in 9% (25/283) patients tested.
+
+<div style=\"page-break-after: always\"></div>
 
 The primary endpoint was overall survival measured from the date of randomisation to death from any cause. Vyxeos liposomal demonstrated superiority in overall survival in the ITT population compared with the comparator 7+3 treatment regimen (Figure 1). The median survival for the Vyxeos liposomal treatment group was 9.56 months compared with 5.95 months for the 7+3 treatment group (Hazard Ratio = 0.69, 95% CI = 0.52, 0.90, two-sided log-rank test p = 0.005).
 
@@ -404,29 +409,37 @@ Table 4: Efficacy results for study 301
 | Odds ratio (95% CI)              | 1.77 (1.11, 2.81)        | 1.77 (1.11, 2.81) |
 | p-value (2-sided) b              | 0.016                    | 0.016             |
 
-Abbreviations: CI = Confidence interval; CR= Complete response; CRi= Complete response with incomplete recovery a p-value from stratified log rank test stratifying by age and AML sub-type
+Abbreviations: CI = Confidence interval; CR= Complete response; CRi= Complete response with incomplete recovery
+
+a p-value from stratified log rank test stratifying by age and AML sub-type
 
 b p-value from stratified Cochran-Mantel-Haenszel test stratified by age and AML sub-type
 
-## 60 Month Follow-up
+## 60-Month Follow-up
 
-The 60 month overall survival rate was higher for the Vyxeos liposomal treatment arm (18%) versus the 7+3 treatment arm (8%); the hazard ratio was 0.70, 95% CI= 0.55, 0.91.
+The 60-month overall survival rate was higher for the Vyxeos liposomal treatment arm (18%) versus the 7+3 treatment arm (8%); the hazard ratio was 0.70, 95% CI= 0.55, 0.91.
 
 ## Paediatric population
 
 ## Relapsed AML
 
-The efficacy of Vyxeos liposomal as a single agent was evaluated in a phase 1/2, single-arm study (AAML 1421) conducted to evaluate safety and efficacy of Vyxeos liposomal in 38 paediatric and young adult patients aged 1-21 years with AML in first relapse. Study treatment consisted of one induction cycle of Vyxeos liposomal 59  mg/135 mg/m 2 administered intravenously over 90  minutes on Days 1, 3, and 5 followed by fludarabine, cytarabine, and G-CSF (FLAG) for cycle 2. The median age of patients was 11 years (range, 1-21 years). Eight (21%) of the patients were between 18 and 21 years; Patients who received &gt; 450 mg/m 2 daunorubicin equivalents were excluded from the study.
+The efficacy of Vyxeos liposomal as a single agent was evaluated in a phase 1/2, single-arm study (AAML 1421) conducted to evaluate safety and efficacy of Vyxeos liposomal in 38 paediatric and young adult patients aged 1-21 years with AML in first relapse. Study treatment consisted of one induction cycle of Vyxeos liposomal 59 mg/135 mg/m 2 administered intravenously over 90 minutes on Days 1, 3, and 5 followed by fludarabine, cytarabine, and G-CSF (FLAG) for cycle 2. The median age of patients was 11 years (range, 1-21 years). Eight (21%) of the patients were between 18 and 21 years. Patients who received &gt; 450 mg/m 2 daunorubicin equivalents were excluded from the study.
 
-The primary endpoint was overall response rate (defined as CR or CRp) after Vyxeos liposomal (Cycle 1) followed by FLAG (Cycle 2). The overall response rate was 68% (90% Clopper-Pearson CI 53% to 80%). After cycle 1, 16 (43%) patients had a treatment response of CR + CRp, including 14 (38%) patients who achieved CR, and based on the 7 subjects with relapse data available the median duration of CR was 284 days.
+The primary endpoint was overall response rate (defined as CR or CRp ) after Vyxeos liposomal (Cycle 1) followed by FLAG (Cycle 2). The overall response rate was 68% (90% Clopper-Pearson CI 53% to 80%). After cycle 1, 16 (43%) patients had a treatment response of CR + CRp, including 14 (38%) patients who achieved CR, and based on the 7 subjects with relapse data available the median duration of CR was 284 days.
+
+## De Novo AML
+
+The efficacy of Vyxeos liposomal in paediatric patients with de novo AML was studied in an open-label, phase 3 randomised study (AAML 1831) comparing standard chemotherapy
 
 <div style=\"page-break-after: always\"></div>
 
+(cytarabine/daunorubicin) plus gemtuzumab ozogamicin (GO) (Arm A) to Vyxeos liposomal plus GO (Arm B). The Vyxeos liposomal arm included 361 paediatric and young adult patients less than 22 years of age. Based on the results of the planned interim analysis, enrolment into Arm B (Vyxeos liposomal plus GO) was discontinued and terminated early due to futility. The median event-free survival (EFS, primary endpoint) was not estimable for Arm A and was estimated as 30.9 months (95% CI, 20.9-NC) for Arm B. The estimated hazard ratio (95% CI) was 1.39 (1.09-1.77). In addition, while the median OS for both arms was not estimable, the estimated hazard ratio (95% CI) was 1.08 (0.78-1.48).
+
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of daunorubicin and cytarabine administered as Vyxeos liposomal were investigated in adult patients who received a dose of daunorubicin 44 mg/m 2 and cytarabine 100 mg/m 2 administered as a 90-minute intravenous infusion on days 1, 3, and 5. The pharmacokinetics of each medicinal product was based on total plasma concentrations (i.e., encapsulated plus unencapsulated medicinal product). Following the dose administered on day 5, the mean (% coefficient of variation [CV]) maximum plasma concentrations (Cmax) for daunorubicin was 26.0 (32.7%) mcg/mL and cytarabine was 62.2 (33.7%) mcg/mL. The mean (%CV) area under the curve (AUC) during one dosing interval for daunorubicin was 637 (38.4%) mcg.h/mL and cytarabine was 1900 (44.3%) mcg.h/mL.
+The pharmacokinetics of daunorubicin and cytarabine administered as Vyxeos liposomal were investigated in adult patients who received a dose of daunorubicin 44 mg/m 2 and cytarabine 100 mg/m 2 administered as a 90-minute intravenous infusion on days 1, 3, and 5. The pharmacokinetics of each medicinal product was based on total plasma concentrations (i.e., encapsulated plus unencapsulated medicinal product). Following the dose administered on day 5, the mean (% coefficient of variation [CV]) maximum plasma concentrations (Cmax) for daunorubicin was 26.0 (32.7%) mcg/mL and cytarabine was 62.2 (33.7%) mcg/mL. The mean (%CV) area under the curve (AUC) during one dosing interval for daunorubicin was 637 (38.4%) mcg ∙ h/mL and cytarabine was 1900 (44.3%) mcg ∙ h/mL.
 
-When daunorubicin and cytarabine are administered as components of Vyxeos liposomal, the liposomes appear to govern their tissue distribution and rates of elimination; therefore, while the non-liposomal medicinal products have markedly different clearance (CL), volume of distribution (V), and terminal half-life (t1/2) Vyxeos liposomal causes these pharmacokinetic parameters to converge.
+When daunorubicin and cytarabine are administered as components of Vyxeos liposomal, the liposomes appear to govern their tissue distribution and rates of elimination; therefore, while the non-liposomal medicinal products have markedly different clearance (CL), volume of distribution (V), and terminal half-life (t1/2), Vyxeos liposomal causes these pharmacokinetic parameters to converge.
 
 The accumulation ratio was 1.3 for daunorubicin and 1.4 for cytarabine. There was no evidence of time-dependent kinetics or major departures from dose proportionality over the range of 1.3 mg/3 mg per m 2 to 59 mg/134 mg per m 2 (0.03 to 1.3 times the approved recommended dose).
 
@@ -436,15 +449,15 @@ The volume of distribution (%CV) for daunorubicin is 6.6 L (36.8%) and cytarabin
 
 ## Metabolism and biotransformation
 
-Similar to non-liposomal daunorubicin and cytarabine, subsequent to release from Vyxeos liposomal liposomes, both daunorubicin and cytarabine are extensively metabolised in the body. Daunorubicin is mostly catalysed by hepatic and non-hepatic aldo-keto reductase and carbonyl reductase to the active metabolite daunorubicinol. Cytarabine is metabolised by cytidine deaminase to the inactive metabolite 1β (beta) -D-arabinofuranosyluracil (AraU). Unlike non-liposomal daunorubicin and cytarabine, which are quickly metabolised to the respective metabolites, daunorubicin and cytarabine after Vyxeos liposomal administration are free bases encapsulated in liposomes. Plasma concentration-time profiles obtained from 13 to 26 patients who received Vyxeos liposomal 100 units/m 2 (equivalent to 44 mg/ m² of daunorubicin and 100 mg/m² of cytarabine) on days 1, 3, and 5 show the mean AUClast metabolite:parent ratio for daunorubicinol and AraU  were 1.79% and 3.22% to that for daunorubicin and cytarabine, respectively; which are lower than those typically reported for non-liposomal products, ~40-60% for daunorubicinol:daunorubicin and ~80% for AraU:cytarabine. The lower percentages of metabolite:parent ratios after Vyxeos liposomal administration indicate that most of the total daunorubicin and cytarabine in the circulation is trapped inside the Vyxeos liposomal liposomes, where they are inaccessible to medicinal product-metabolising enzymes.
+Similar to non-liposomal daunorubicin and cytarabine, subsequent to release from Vyxeos liposomal liposomes, both daunorubicin and cytarabine are extensively metabolised in the body. Daunorubicin is mostly catalysed by hepatic and non-hepatic aldo-keto reductase and carbonyl reductase to the active metabolite daunorubicinol. Cytarabine is metabolised by cytidine deaminase to the inactive metabolite 1β (beta) -D-arabinofuranosyluracil (AraU). Unlike non-liposomal daunorubicin and cytarabine, which are quickly metabolised to the respective metabolites, daunorubicin and cytarabine after Vyxeos liposomal administration are free bases encapsulated in liposomes. Plasma concentration-time profiles obtained from 13 to 26 patients who received Vyxeos liposomal 100 units/m 2 (equivalent to 44 mg/ m² of daunorubicin and 100 mg/m² of cytarabine) on days 1, 3, and 5 show the mean AUClast metabolite:parent ratio for daunorubicinol and AraU were 1.79% and 3.22% to that for daunorubicin and cytarabine, respectively; which are lower than those typically reported for non-liposomal products, ~40-60% for daunorubicinol:daunorubicin and ~80% for AraU:cytarabine. The lower percentages of metabolite:parent ratios after Vyxeos liposomal administration indicate that most of the total daunorubicin and cytarabine in the circulation is trapped inside the Vyxeos liposomal liposomes, where they are inaccessible to medicinal product-metabolising enzymes.
 
 ## Elimination
 
 Vyxeos liposomal exhibits a prolonged half-life (%CV) of 31.5 h (28.5%) for daunorubicin and 40.4 h (24.2%) for cytarabine with greater than 99% of the daunorubicin and cytarabine in the plasma remaining encapsulated within the liposomes. The clearance (%CV) is 0.16 L/h (53.3%) for daunorubicin and 0.13 L/h (60.2%) for cytarabine.
 
-Urinary excretion of daunorubicin and daunorubicinol accounts for 9% of the administered dose of daunorubicin, and urinary excretion of cytarabine and AraU accounts for 71% of the administered dose of cytarabine.
-
 <div style=\"page-break-after: always\"></div>
+
+Urinary excretion of daunorubicin and daunorubicinol accounts for 9% of the administered dose of daunorubicin, and urinary excretion of cytarabine and AraU accounts for 71% of the administered dose of cytarabine.
 
 ## Special populations
 
@@ -460,7 +473,7 @@ The pharmacokinetics of Vyxeos liposomal in patients aged &gt; 85 years has not 
 
 ## Renal impairment
 
-Based on a dedicated study to evaluate the impact of moderate to severe renal impairment on the pharmacokinetics of Vyxeos liposomal and a population pharmacokinetic analysis using data from clinical studies in patients with mild to moderate renal impairment, no significant difference in clearance of daunorubicin or cytarabine was observed in patients with pre-existing mild,  moderate or severe renal impairment compared to patients with baseline normal renal function. The potential effects of end-stage renal disease managed with dialysis on the pharmacokinetics of daunorubicin and cytarabine administered as Vyxeos liposomal are unknown (see section 4.2).
+Based on a dedicated study to evaluate the impact of moderate to severe renal impairment on the pharmacokinetics of Vyxeos liposomal and a population pharmacokinetic analysis using data from clinical studies in patients with mild to moderate renal impairment, no significant difference in clearance of daunorubicin or cytarabine was observed in patients with pre-existing mild, moderate or severe renal impairment compared to patients with baseline normal renal function. The potential effects of end-stage renal disease managed with dialysis on the pharmacokinetics of daunorubicin and cytarabine administered as Vyxeos liposomal are unknown (see section 4.2).
 
 ## Hepatic impairment
 
@@ -468,7 +481,7 @@ The pharmacokinetics of total daunorubicin and cytarabine were not altered in pa
 
 ## 5.3 Preclinical safety data
 
-The repeat-dose toxicity of Vyxeos liposomal was tested in two-cycle intravenous infusion toxicity studies with 28-day recovery periods conducted in rats and dogs. Adverse effects of Vyxeos liposomal occurred at all dose levels (low to no safety margins as based on systemic exposures) and were generally consistent with those documented for non-liposomal daunorubicin and/or cytarabine, comprising mainly  gastrointestinal and hematological findings. Although central nervous system (CNS) and cardiovascular system parameters were included in these studies, given the observed morbidity and mortality, there was insufficient information to conduct an integrated assessment of the safety pharmacology of Vyxeos liposomal.
+The repeat-dose toxicity of Vyxeos liposomal was tested in two-cycle intravenous infusion toxicity studies with 28-day recovery periods conducted in rats and dogs. Adverse effects of Vyxeos liposomal occurred at all dose levels (low to no safety margins as based on systemic exposures) and were generally consistent with those documented for non-liposomal daunorubicin and/or cytarabine, comprising mainly gastrointestinal and haematological findings. Although central nervous system (CNS) and cardiovascular system parameters were included in these studies, given the observed morbidity and mortality, there was insufficient information to conduct an integrated assessment of the safety pharmacology of Vyxeos liposomal.
 
 Genotoxicity, carcinogenicity, and reproductive and developmental toxicity studies have not been conducted with Vyxeos liposomal. However studies are available with the single agents.
 
@@ -478,7 +491,7 @@ Cytarabine or its active metabolite Ara-C was mutagenic (bacterial mutagenicity 
 
 ## Carcinogenicity
 
-Studies with cytarabine were not identified. Published data with Ara-C, the active metabolite of cytarabine, did not provide evidence of carcinogenicity. Published data with daunorubicin suggest possible tumorigenicity in rats after a single dose of 5 or 10 mg/kg (0.68 to 1.4 times the RHD based on mg/m 2 ). The IARC Working Group (IARC 2000) classified daunorubicin in Group 2B (possibly carcinogenic to humans).
+Studies with cytarabine were not identified. Published data with Ara-C, the active metabolite of cytarabine, did not provide evidence of carcinogenicity. Published data with daunorubicin suggest possible tumorigenicity in rats after a single dose of 5 or 10 mg/kg (0.68 to 1.4 times the Recommended Human Dose (RHD) based on mg/m 2 ). The International Agency for Research on Cancer (IARC) Working Group (IARC 2000) classified daunorubicin in Group 2B (possibly carcinogenic to humans).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -528,7 +541,7 @@ The maximum combined storage time for reconstituted product in the vial and reco
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C).
+Store in a refrigerator (2 °C -8 °C).
 
 Keep the vial in the original carton in order to protect from light. Store in an upright position.
 
@@ -547,7 +560,7 @@ Vyxeos liposomal is a cytotoxic medicinal product. Applicable special handling a
 ## Preparation instructions
 
 - Determine the dose and number of vials of Vyxeos liposomal based on the individual patient's BSA as outlined in section 4.2.
-- Remove the appropriate number of vials of Vyxeos liposomal from the refrigerator and equilibrate to the room temperature (15 ° C to 30 ° C) for 30 minutes.
+- Remove the appropriate number of vials of Vyxeos liposomal from the refrigerator and equilibrate to the room temperature (15  C to 30  C) for 30 minutes.
 - Then, reconstitute each vial with 19 mL of sterile water for injections using a 20 mL syringe, and immediately thereafter start a 5-minute timer.
 - Carefully swirl the contents of the vial for 5 minutes while gently inverting the vial every 30 seconds.
 - Do not heat, vortex, or shake vigorously.
@@ -556,7 +569,7 @@ Vyxeos liposomal is a cytotoxic medicinal product. Applicable special handling a
 - If the reconstituted product is not diluted into an infusion bag immediately, store in a refrigerator (2 ºC to 8 ºC) for up to 4 hours.
 - Following the storage of reconstituted product in the vial for up to 4 hours at 2 °C to 8 °C in an upright position, the reconstituted product must immediately be diluted into an infusion solution and run for the 90-minute infusion time.
 - o Reconstituted product in the vial and reconstituted product which has been diluted into an infusion solution are stable for a maximum combined storage time of up to 4 hours when stored at 2 °C to 8 °C, The 4-hour stability period for the reconstituted product in the vial does not allow for an additional 4-hour stability period after the appropriate dose from the reconstituted vial is diluted into the infusion solution.
-- o The 4-hour stability period when reconstituted product diluted into the infusion bag is stored at 2 °C to 8 °C does not include the time required for reconstitution or the 90minute infusion time.
+- o The 4-hour stability period when reconstituted product diluted into the infusion bag is stored at 2 °C to 8 °C does not include the time required for reconstitution or the 90-minute infusion time.
 - o The diluted infusion solution must be immediately infused for the 90-minute infusion time following the up to 4-hour stability period.
 - Calculate the volume of reconstituted Vyxeos liposomal required using the following formula: [volume required (mL) = dose of daunorubicin (mg/m 2 ) x patient's BSA (m 2 )/2.2 (mg/mL)]. The concentration of the reconstituted solution is 44 mg/20 mL (2.2 mg/mL) daunorubicin and 100 mg/20 mL (5 mg/mL) cytarabine.
 - Gently invert each vial 5 times prior to withdrawing the concentrate for dilution.
@@ -688,6 +701,8 @@ Keep out of the sight and reach of children.
 
 Cytotoxic
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
@@ -700,7 +715,7 @@ Keep the vial in the outer carton in order to protect from light.
 
 Store in an upright position.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -736,8 +751,6 @@ Lot
 
 ## 16. INFORMATION IN BRAILLE
 
-<div style=\"page-break-after: always\"></div>
-
 Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
@@ -747,8 +760,8 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -780,9 +793,9 @@ Cytotoxic
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the patient
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the patient
 
 ## 44 mg/100 mg powder for concentrate for solution for infusion
 
@@ -807,13 +820,13 @@ Cytotoxic
 
 ## What Vyxeos liposomal is
 
-Vyxeos liposomal belongs to a group of medicines called 'antineoplastics' used in cancer. It contains two active substances, called 'daunorubicin' and 'cytarabine', in the form of tiny particles known as 'liposomes'.
+Vyxeos liposomal belongs to a group of medicines called 'antineoplastics' used in cancer. It contains two active substances, called 'daunorubicin' and 'cytarabine' , in the form of tiny particles known as 'liposomes' .
 
 These active substances act in different ways to kill cancer cells by stopping them from growing and dividing. Packaging them in liposomes prolongs their action in the body and helps them to enter and kill the cancer cells.
 
 ## What Vyxeos liposomal is used for
 
-Vyxeos liposomal is used to treat patients with newly diagnosed acute myeloid leukaemia (a cancer of the white blood cells). It is given when the leukaemia was caused by previous treatments (known as therapy related acute myeloid leukaemia) or when there are certain changes in the bone marrow (known as acute myeloid leukaemia with 'myelodysplasia-related changes').
+Vyxeos liposomal is used to treat patients with newly diagnosed acute myeloid leukaemia (a cancer of the white blood cells). It is given when the leukaemia was caused by previous treatments (known as therapy related acute myeloid leukaemia) or when there are certain changes in the bone marrow (known as acute myeloid leukaemia with 'myelodysplasia -related changes ' ).
 
 ## 2. What you need to know before you are given Vyxeos liposomal
 
@@ -833,9 +846,9 @@ Your doctor will monitor you during treatment. Talk to your doctor or nurse befo
 <div style=\"page-break-after: always\"></div>
 
 - if you think you might be pregnant. You should use an effective method of contraception to avoid getting (you or your partner) pregnant during the treatment, and for the next 6 months after your last dose.
-- if you have any allergic (hypersensitivity) reactions. Your doctor may pause or stop treatment, or slow the rate of your drip,  if any hypersensitivity occurs.
+- if you have any allergic (hypersensitivity) reactions. Your doctor may pause or stop treatment, or slow the rate of your drip, if any hypersensitivity occurs.
 - if you have had problems with your kidneys or liver. Your doctor will monitor you during treatment.
-- if you have ever had a condition known as Wilson's disease or other copper-related disorder, as Vyxeos liposomal contains an ingredient known as 'copper gluconate'.
+- if you have ever had a condition known as Wilson's disease or other copper -related disorder, as Vyxeos liposomal contains an ingredient known as 'copper gluconate'.
 - if you are to be given a vaccine.
 
 Your doctor will monitor you with regards to your general health during treatment and may also give you other medicines to support your treatment, either before or with Vyxeos liposomal. If any of the above apply to you (or you are not sure), talk to your doctor, pharmacist, or nurse before you are given Vyxeos liposomal.
@@ -1005,7 +1018,7 @@ Vyxeos liposomal is a cytotoxic medicinal product. Applicable special handling a
 ## Preparation instructions
 
 - Determine the dose and number of vials of Vyxeos liposomal based on the individual patient's BSA as outlined in section 4.2.
-- Remove the appropriate number of vials of Vyxeos liposomal from the refrigerator and equilibrate to the room temperature (15 ° C to 30 ° C) for 30 minutes.
+- Remove the appropriate number of vials of Vyxeos liposomal from the refrigerator and equilibrate to the room temperature (15  C to 30  C) for 30 minutes.
 - Then, reconstitute each vial with 19 mL of sterile water for injections using a 20 mL syringe and immediately thereafter start a 5-minute timer.
 - Carefully swirl the contents of the vial for 5 minutes while gently inverting the vial every 30 seconds.
 - Do not heat, vortex, or shake vigorously.
@@ -1028,8 +1041,7 @@ Vyxeos liposomal is a cytotoxic medicinal product. Applicable special handling a
 
 ## Administration instructions
 
-- Do not mix Vyxeos liposomal with, or administer as an infusion with, other medicinal products.
-- Administer Vyxeos liposomal by constant intravenous infusion over 90 minutes via an infusion pump through a central venous catheter or a peripherally inserted central catheter. An in-line membrane filter may be used for the intravenous infusion of Vyxeos liposomal, provided the minimum pore diameter of the filter is greater than or equal to 15 µm.
+- Do not mix Vyxeos liposomal with, or administer as an infusion with, other medicinal products. · Administer Vyxeos liposomal by constant intravenous infusion over 90 minutes via an infusion pump through a central venous catheter or a peripherally inserted central catheter. An in-line membrane filter may be used for the intravenous infusion of Vyxeos liposomal, provided the minimum pore diameter of the filter is greater than or equal to 15 µm.
 - Flush the line after administration with sodium chloride 9 mg/mL (0.9%) solution for injection.
 
 ## Disposal

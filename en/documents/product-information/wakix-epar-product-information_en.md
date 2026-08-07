@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-27 15:31:28
-document_pages: 43
+document_datetime: 2026-08-06 11:30:30
+document_pages: 48
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/wakix-epar-product-information_en.pdf
 document_name: wakix-epar-product-information_en.pdf
 version: success
-processing_time: 9.2766424
-conversion_datetime: 2026-03-29 12:27:20.942646
+processing_time: 7.855094
+conversion_datetime: 2026-08-07 14:15:32.627876
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,7 +28,9 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Wakix 4.5 mg film-coated tablets Wakix 18 mg film-coated tablets
+Wakix 4.5 mg film-coated tablets
+
+Wakix 18 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -196,23 +198,21 @@ Medicinal products affecting pitolisant metabolism
 
 ## -Enzyme inducers
 
-Co-administration of pitolisant with rifampicin in multiple doses significantly decreases pitolisant mean Cmax and AUC ratio about 39% and 50%, respectively. Therefore, co-administration of pitolisant with potent CYP3A4 inducers (e.g. rifampicin, phenobarbital, carbamazepine, phenytoin) should be done with caution. With St John's Wort (Hypericum Perforatum), due to its strong CYP3A4 inducing effect, caution should be exercised when taken concurrently with pitolisant. A clinical monitoring should be made when both active substances are combined and, eventually a dosage adjustment during the combination and one week after the inducer treatment.
+Co-administration of pitolisant with rifampicin in multiple doses significantly decreases pitolisant mean Cmax and AUC ratio about 39% and 50%, respectively. Therefore, co-administration of pitolisant with potent CYP3A4 inducers (e.g. rifampicin, phenobarbital, carbamazepine, phenytoin) should be done with caution. With St John's Wort (Hypericum Perforatum), due t o its strong CYP3A4 inducing effect, caution should be exercised when taken concurrently with pitolisant. A clinical monitoring should be made when both active substances are combined and, eventually a dosage adjustment during the combination and one week after the inducer treatment.
 
 In a clinical multiple dose study, the combination of pitolisant with probenecid decreases the AUC of pitolisant by about 34%.
 
 ## -CYP2D6 inhibitors
 
-Co-administration of pitolisant with paroxetine significantly increases pitolisant mean Cmax and AUC0-72h ratio about 47% and 105%, respectively. Given the 2-fold increase of pitolisant exposure, its coadministration with CYP2D6 inhibitors (e.g. paroxetine, fluoxetine, venlafaxine, duloxetine, bupropion, quinidine, terbinafine, cinacalcet) should be done with caution. A dosage adjustment during the combination could eventually be considered.
+Co-administration of pitolisant with paroxetine significantly increases pitolisant mean Cmax and AUC0 -72h ratio about 47% and 105%, respectively. Given the 2-fold increase of pitolisant exposure, its coadministration with CYP2D6 inhibitors (e.g. paroxetine, fluoxetine, venlafaxine, duloxetine, bupropion, quinidine, terbinafine, cinacalcet) should be done with caution. A dosage adjustment during the combination could eventually be considered.
 
 ## Medicinal products that pitolisant may affect metabolism
 
 ## -CYP3A4 and CYP2B6 substrates
 
-Based on in vitro data, pitolisant and its main metabolites may induce CYP3A4 and CYP2B6 at therapeutic concentrations and by extrapolation, CYP2C, UGTs and P-gp. No clinical data on the magnitude of this interaction are available. Therefore, the combination of pitolisant with substrates of CYP3A4 and having a narrow therapeutic margin (e.g. immunosuppressants, docetaxel, kinase
+Based on in vitro data, pitolisant and its main metabolites may induce CYP3A4 and CYP2B6 at therapeutic concentrations and by extrapolation, CYP2C, UGTs and P-gp. No clinical data on the magnitude of this interaction are available. Therefore, the combination of pitolisant with substrates of CYP3A4 and having a narrow therapeutic margin (e.g. immunosuppressants, docetaxel, kinase inhibitors, cisapride, pimozide, halofantrine) should be avoided (see section 4.4). With other CYP3A4, CYP2B6 (e.g. efavirenz, bupropion), CYP2C (e.g. repaglinide, phenytoin, warfarin), P-gp (e.g. dabigatran, digoxin) and UGT (e.g. morphine, paracetamol, irinotecan) substrates, caution should be made with a clinical monitoring of their efficacy.
 
 <div style=\"page-break-after: always\"></div>
-
-inhibitors, cisapride, pimozide, halofantrine) should be avoided (see section 4.4). With other CYP3A4, CYP2B6 (e.g. efavirenz, bupropion), CYP2C (e.g. repaglinide, phenytoin, warfarin), P-gp (e.g. dabigatran, digoxin) and UGT (e.g. morphine, paracetamol, irinotecan) substrates, caution should be made with a clinical monitoring of their efficacy.
 
 With oral contraceptives, the combination with pitolisant should be avoided and a further reliable contraceptive method used.
 
@@ -346,7 +346,7 @@ In narcoleptic patients with or without cataplexy, pitolisant improves the level
 
 Narcolepsy (with or without cataplexy) is a chronic condition. The effectiveness of pitolisant up to 36 mg once a day, for the treatment of narcolepsy with or without cataplexy was established in two main, 8 weeks, multicenter, randomized, double-blind, placebo-controlled, parallel group trials (Harmony I and Harmony CTP). Harmony Ibis, study with a similar design, was limited to 18 mg once a day. Long-term safety data of Wakix in this indication are available in the open label long-term study HARMONY III.
 
-The pivotal study (Harmony 1), double-blind, randomized, vs placebo and modafinil (400 mg/day), parallel group studies with flexible dose adaptation, included 94 patients (31 patients treated with pitolisant, 30 with placebo and 33 with modafinil). Dosage was initiated at 9 mg once a day and was increased, according to efficacy response and tolerance to 18 mg or 36 mg once a day per 1-week interval. Most patients (60%) reached the 36 mg once a day dosage. To assess the efficacy of pitolisant on Excessive Daytime Sleepiness (EDS), Epworth Sleepiness Scale (ESS) score was used as primary efficacy criterion. The results with pitolisant were significantly superior to those in the placebo group (mean difference: -3.33; 95%CI [-5.83 to 0.83]; p &lt; 0.05) but did not differ significantly from the results in the modafinil group (mean difference: 0.12; 95%CI [-2.5 to 2.7]). The waking effect of the two active substances was established at similar rates (Figure 1).
+The pivotal study (Harmony 1), double-blind, randomized, vs placebo and modafinil (400 mg/day), parallel group studies with flexible dose adaptation, included 94 patients (31 patients treated with pitolisant, 30 with placebo and 33 with modafinil). Dosage was initiated at 9 mg once a day and was increased, according to efficacy response and tolerance to 18 mg or 36 mg once a day per 1-week interval. Most patients (60%) reached the 36 mg once a day dosage. To assess the efficacy of pitolisant on Excessive Daytime Sleepiness (EDS), Epworth Sleepiness Scale (ESS) score was used as primary efficacy criterion. The results with pitolisant were significantly superior to those in the placebo group (mean difference: -3.33; 95%CI [-5.83 to -0.83]; p &lt; 0.05) but did not differ significantly from the results in the modafinil group (mean difference: 0.12; 95%CI [-2.5 to 2.7]). The waking effect of the two active substances was established at similar rates (Figure 1).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -364,11 +364,9 @@ Improvement of the two objective tests of wakefulness and attention, MWT and SAR
 
 Harmony CTP, a supportive double blind, randomized, parallel group study of pitolisant versus placebo, was designed to establish pitolisant efficacy in patients with high frequency cataplexy in narcolepsy. The primary efficacy endpoint was the change in the average number of cataplexy attacks per week between the 2 weeks of baseline and the 4 weeks of stable treatment period at the end of study. 105 narcoleptic patients with high frequency weekly cataplexy rates at baseline were included (54 patients treated with pitolisant and 51 with placebo). Dosage was initiated at 4.5 mg once a day and was increased, according to efficacy response and tolerance to 9 mg, 18 mg or 36 mg once a day per 1-week interval. Most patients (65%) reached the 36 mg once a day dosage.
 
-On the primary efficacy endpoint, Weekly Rate of Cataplexy episodes (WRC), the results with pitolisant were significantly superior to those in the placebo group (p &lt; 0.0001), with a progressive 64% decrease from baseline to end of treatment (Figure 2). At baseline, the geometric mean of WRC was 7.31 (median=6.5 [4.5; 12]) and 9.15 (median=8.5 [5.5; 15.5]) in the placebo and pitolisant groups
+On the primary efficacy endpoint, Weekly Rate of Cataplexy episodes (WRC), the results with pitolisant were significantly superior to those in the placebo group (p &lt; 0.0001), with a progressive 64% decrease from baseline to end of treatment (Figure 2). At baseline, the geometric mean of WRC was 7.31 (median=6.5 [4.5; 12]) and 9.15 (median=8.5 [5.5; 15.5]) in the placebo and pitolisant groups respectively. During the stable period (until the end of treatment), geometric mean WRC decreased to 6.79 (median=6 [3; 15]) and 3.28 (median=3 [1.3; 6]) in the placebo and pitolisant groups respectively in patients who had experienced at least one episode of cataplexy. The observed WRC in pitolisant group was about half of WRC in the placebo group: the effect size of pitolisant compared with placebo was summarized by the ratio rate rR(Pt/Pb), rR=0.512; 95%CI [0.435 to 0.603]; p &lt; 0.0001). The effect size of pitolisant compared with placebo based on a model for WRC based on BOCF with centre as a fixed effect was 0.581, 95%CI [0.493 to 0.686]; p&lt;0.0001.
 
 <div style=\"page-break-after: always\"></div>
-
-respectively. During the stable period (until the end of treatment), geometric mean WRC decreased to 6.79 (median=6 [3; 15]) and 3.28 (median=3 [1.3; 6]) in the placebo and pitolisant groups respectively in patients who had experienced at least one episode of cataplexy. The observed WRC in pitolisant group was about half of WRC in the placebo group: the effect size of pitolisant compared with placebo was summarized by the ratio rate rR(Pt/Pb), rR=0.512; 95%CI [0.435 to 0.603]; p &lt; 0.0001). The effect size of pitolisant compared with placebo based on a model for WRC based on BOCF with centre as a fixed effect was 0.581, 95%CI [0.493 to 0.686]; p&lt;0.0001.
 
 Figure 2: Changes in weekly cataplexy episodes (geometric mean) from Baseline to week 7 in Harmony CTP study
 
@@ -450,7 +448,7 @@ In vitro studies indicate that pitolisant is neither a substrate nor an inhibito
 
 Pitolisant has a plasma half-life of 10-12 hours. Upon repeated administrations, the steady state is achieved after 5-6 days of administration leading to an increased serum level around 100%. Inter individual variability is rather high, some volunteers showing outlier high profile (without tolerance issues).
 
-The elimination is mainly achieved via urine (approximately 63%) through an inactive non conjugated metabolite (BP2.951) and a glycine conjugated metabolite. 25% of the dose is excreted through expired air and a small fraction (&lt;3%) recovered in faeces whe re the amount of pitolisant or BP2.951 was negligible.
+The elimination is mainly achieved via urine (approximately 63%) through an inactive non conjugated metabolite (BP2.951) and a glycine conjugated metabolite. 25% of the dose is excreted through expired air and a small fraction (&lt;3%) recovered in faeces where the amount of pitolisant or BP2.951 was negligible.
 
 ## Linearity/non-linearity
 
@@ -520,7 +518,9 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-4 years
+Bottle: 4 years
+
+Blisters: 3 years
 
 ## 6.4 Special precautions for storage
 
@@ -528,17 +528,33 @@ This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
 
+## Bottle:
+
 High density polyethylene (HDPE) bottle with a tamper evident, child-resistant, polypropylene screw cap fitted with desiccant (silica gel).
 
 Bottle of 30 or 90 film-coated tablets.
 
-## Wakix 4.5 mg
+Wakix 4.5 mg
 
-Available in packs containing 1 bottle of 30 tablets.
+Available in packs containing 1 bottle of 30 tablets;
 
 ## Wakix 18 mg
 
 Available in packs containing 1 bottle of 30 tablets or packs containing 1 bottle of 90 tablets or multipacks containing 90 (3 bottles of 30) tablets.
+
+## Blisters:
+
+OPA/Al/PVC//Al blisters contain 28, 30 or 90 film-coated tablets.
+
+<div style=\"page-break-after: always\"></div>
+
+Wakix 4.5 mg
+
+Available in packs containing 2 blisters of 14 tablets or in packs containing 2 blisters of 15 tablets.
+
+Wakix 18 mg
+
+Available in packs containing 2 blisters of 14 tablets or in packs containing 2 blisters of 15 tablets or packs containing 6 blisters of 15 tablets.
 
 Not all pack sizes may be marketed.
 
@@ -546,11 +562,9 @@ Not all pack sizes may be marketed.
 
 No special requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Bioprojet Pharma 9, rue Rameau 75002 Paris
+Bioprojet Pharma 115, rue d'Aboukir 75002 Paris
 
 France
 
@@ -562,13 +576,7 @@ e-mail: contact@bioprojet.com
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/15/1068/001
-
-EU/1/15/1068/002
-
-EU/1/15/1068/003
-
-EU/1/15/1068/004
+EU/1/15/1068/001-009
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -599,9 +607,15 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturers responsible for batch release
 
-Wakix 18 mg Inpharmasci ZI N°2 de Prouvy-Rouvignies 1 rue Nungesser 59121 Prouvy France
+## Bottle:
 
-Wakix 4.5 mg Patheon 40 Boulevard de Champaret 38300 Bourgoin-Jallieu France
+Wakix 18 mg Athena IPS ZI N°2 de Prouvy-Rouvignies 1 rue Nungesser 59121 Prouvy France
+
+Wakix 4.5 mg Patheon France 40 Boulevard de Champaret 38300 Bourgoin-Jallieu France
+
+## Blister:
+
+Patheon France 40 Boulevard de Champaret 38300 Bourgoin-Jallieu France
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -621,6 +635,8 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 The MAH shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreed subsequent updates of the RMP.
 
+<div style=\"page-break-after: always\"></div>
+
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
@@ -628,7 +644,9 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX III LABELLING AND PACKAGE LEAFLET
+## ANNEX III
+
+## LABELLING AND PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
@@ -636,7 +654,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON
+CARTON (HDPE BOTTLE)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -650,7 +668,7 @@ Each film-coated tablet contains pitolisant hydrochloride, equivalent to 4.45 mg
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-30 film-coated tablets
+- 30 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -672,47 +690,117 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+Bioprojet Pharma 115, rue d'Aboukir 75002 Paris France
 
-Bioprojet Pharma 9, rue Rameau 75002 Paris France
-
-| 12.   | MARKETING AUTHORISATION NUMBER   |
-|-------|----------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/15/1068/001
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 Wakix 4.5 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC: SN: NN:
+PC: SN:
+
+NN:
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS LABEL
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON (OPA/Al/PVC//Al BLISTER)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Wakix 4.5 mg film-coated tablets pitolisant
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each film-coated tablet contains pitolisant hydrochloride, equivalent to 4.45 mg of pitolisant.
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+- 28 film-coated tablets
+
+- 30 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use. Oral use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+<div style=\"page-break-after: always\"></div>
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Bioprojet Pharma 115, rue d'Aboukir 75002 Paris France
+
+## 12. MARKETING AUTHORISATION NUMBER
+
+EU/1/15/1068/005  28 film-coated tablets EU/1/15/1068/006  30 film-coated tablets
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Wakix 4.5 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC:
+
+SN:
+
+NN:
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+## LABEL  (HDPE BOTTLE)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -734,9 +822,38 @@ BN
 
 ## 6. OTHER
 
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| OPA/Al/PVC//Al BLISTERS                               |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+Wakix 4.5 mg film-coated tablets pitolisant
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+Bioprojet Pharma
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON
+OUTER CARTON (HDPE BOTTLE)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -752,7 +869,7 @@ Each film-coated tablet contains pitolisant hydrochloride, equivalent to 17.8 mg
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-30 film-coated tablets
+- 30 film-coated tablets
 
 90 film-coated tablets
 
@@ -778,9 +895,7 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bioprojet Pharma
-
-9, rue Rameau 75002 Paris France
+Bioprojet Pharma 115, rue d'Aboukir 75002 Paris France
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -814,9 +929,98 @@ PC:
 
 SN:
 
+<div style=\"page-break-after: always\"></div>
+
 NN:
 
 <div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## OUTER CARTON (OPA/Al/PVC//Al BLISTER)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Wakix 18 mg film-coated tablets pitolisant
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each film-coated tablet contains pitolisant hydrochloride, equivalent to 17.8 mg of pitolisant.
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+- 28 film-coated tablets
+- 30 film-coated tablets
+- 90 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use. Oral use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+<div style=\"page-break-after: always\"></div>
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Bioprojet Pharma
+
+115, rue d'Aboukir
+
+75002 Paris
+
+France
+
+## 12. MARKETING AUTHORISATION NUMBER
+
+EU/1/15/1068/007
+
+28 film-coated tablets
+
+EU/1/15/1068/008
+
+30 film-coated tablets
+
+EU/1/15/1068/009
+
+90 film-coated tablets
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Wakix 18 mg
+
+## 17. UNIQUE IDENTIFIER -2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC:
+
+SN:
+
+NN:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -832,7 +1036,7 @@ Wakix 18 mg film-coated tablets pitolisant
 
 Each film-coated tablet contains pitolisant hydrochloride equivalent to 17.8 mg of pitolisant.
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -860,35 +1064,33 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-Bioprojet Pharma 9, rue Rameau 75002 Paris France
+Bioprojet Pharma 115, rue d'Aboukir 75002 Paris France
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
-EU/1/15/1068/003
-
-90 film-coated tablets (3 bottles of 30)
+EU/1/15/1068/003 90 film-coated tablets (3 bottles of 30)
 
 ## 13. BATCH NUMBER
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Wakix 18 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER WRAPPER LABEL ON MULTIPACK OF 90 (3 x 30) TABLETS WRAPPED IN TRANSPARENT FOIL - INCLUDING BLUE BOX
+OUTER WRAPPER LABEL ON MULTIPACK OF 90 (3 x 30) TABLETS WRAPPED IN TRANSPARENT FOIL -INCLUDING BLUE BOX
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -922,9 +1124,7 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bioprojet Pharma
-
-9, rue Rameau 75002 Paris France
+Bioprojet Pharma 115, rue d'Aboukir 75002 Paris France
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -960,7 +1160,9 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+LABEL (HDPE BOTTLE)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -981,6 +1183,30 @@ BN
 30 tablets 90 tablets
 
 ## 6. OTHER
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS OPA/Al/PVC//Al BLISTERS
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Wakix 18 mg film-coated tablets pitolisant
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+Bioprojet Pharma
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1130,7 +1356,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 Common side effects (may affect up to 1 in 10 people):
 
 - -Difficulty in sleeping, feeling anxious, feeling irritable, feeling depressed, sleeping problems
-- -Headaches, feeling of 'spinning' (vertigo), loss of balance, trembling
+- -Headaches, f eeling of 'spinning' (vertigo), loss of balance , trembling
 - -Feeling sick, vomiting, indigestion
 - -Tiredness (fatigue)
 
@@ -1221,77 +1447,76 @@ The other ingredients are microcrystalline cellulose, crospovidone Type A, talc,
 
 <div style=\"page-break-after: always\"></div>
 
-Wakix 4.5 mg comes in a white, round, film-coated tablet of 3.7 mm, biconvex marked with '5' on one side.
+Wakix 4.5 mg comes in a white, round, filmcoated tablet of 3.7 mm, biconvex marked with '5' on one side.
 
-Wakix 18 mg comes in a white, round, film-coated tablet of 7.5 mm, biconvex marked with '20' on one side.
+Wakix 18 mg comes in a white, round, filmcoated tablet of 7.5 mm, biconvex marked with '20' on one side.
 
-Wakix is available in a bottle of 30 tablets or 90 tablets.
+Wakix is available in a bottle (30 tablets or 90 tablets) or in blisters (28 tablets, 30 or 90 tablets). Wakix 4.5 mg is available in:
 
-Wakix 4.5 mg: Available in packs containing 1 bottle of 30 tablets.
+- packs containing 1 bottle of 30 tablets
+- packs containing blisters of 28 tablets (2 blisters of 14 tablets)
+- packs containing blisters of 30 tablets (2 blisters of 15 tablets).
 
-Wakix 18 mg: Available in packs containing 1 bottle of 30 tablets or packs containing 1 bottle of 90 tablets or multi-packs containing 90 (3 bottles of 30) tablets.
+Wakix 18 mg is available in:
+
+- packs containing 1 bottle of 30 tablets
+- packs containing 1 bottle of 90 tablets
+- multi-packs containing 90 (3 bottles of 30) tablets
+- packs containingblisters of 28 tablets (2 blisters of 14 tablets)
+- packs containingblisters of 30 tablets (2 blisters of 15 tablets)
+- packs containing blisters of 90 tablets (6 blisters of 15 tablets).
 
 Not all pack sizes may be marketed.
 
 ## Marketing Autorisation Holder
 
-Bioprojet Pharma 9, rue Rameau 75002 Paris France
+Bioprojet Pharma 115, rue d'Aboukir 75002 Paris France
 
 ## Manufacturer
 
-Wakix 18 mg Inpharmasci ZI N°2 de Prouvy-Rouvignies 1 rue Nungesser 59121 Prouvy France
+## Bottle:
 
-## Wakix 4.5 mg
+Wakix 18 mg Athena IPS ZI N°2 de Prouvy-Rouvignies 1 rue Nungesser 59121 Prouvy
 
-Patheon 40 Boulevard de Champaret 38300 Bourgoin-Jallieu
+France
+
+Wakix 4.5 mg Patheon France 40 Boulevard de Champaret 38300 Bourgoin-Jallieu
+
+France
+
+## Blister:
+
+Patheon France 40 Boulevard de Champaret 38300 Bourgoin-Jallieu
 
 France
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+België/Belgique/Belgien Bioprojet Benelux
 
-Bioprojet Benelux 0032(0)78050202 info@bioprojet.be
+Lietuva UAB Norameda
 
-## Lietuva
+<div style=\"page-break-after: always\"></div>
 
-UAB Norameda +370 5 2306499 info@norameda.com
-
-България GTS Solution +40 21 528 02 92
-
-info@gotosolution.com
-
-## Luxembourg/Luxemburg
-
-Bioprojet Benelux 0032(0)78050202
+0032(0)78050202
 
 info@bioprojet.be
+
+## България
+
+GTS Solution +40 21 528 02 92
+
+info@gotosolution.com
 
 ## Česká republika
 
 BIOXA Therapeutics (Czech) s.r.o. +420 606 501 778 info@bioxa.cz
 
-## Magyarország
-
-UAB Norameda +370 5 2306499
-
-info@norameda.com
-
 ## Danmark
 
-Zambon Sweden, filial of Zambon Nederland
-
-B.V.
-
-+46 (0)10 33 50 800
+Zambon Sweden, filial of Zambon Nederland B.V. +46 (0)10 33 50 800
 
 contact@zambongroup.com
-
-## Malta
-
-Bioprojet Pharma 0033 (0)1 47 03 66 33 contact@bioprojet.com
-
-<div style=\"page-break-after: always\"></div>
 
 ## Deutschland
 
@@ -1299,17 +1524,19 @@ Bioprojet Deutschland GmbH 030/3465 5460-0 info@bioprojet.de
 
 ## Eesti
 
-UAB Norameda Eesti filiaal +372 514 2118 info@norameda.com
+UAB Norameda Eesti filiaal
+
++372 514 2118 info@norameda.com
 
 ## Ελλάδα
 
-Bioprojet Pharma
-
-0033 (0)1 47 03 66 33 contact@bioprojet.com
+Bioprojet Pharma 0033 (0)1 47 03 66 33 contact@bioprojet.com
 
 ## España
 
-Bioprojet Pharma 0033 (0)1 47 03 66 33 contact@bioprojet.com
+Bioprojet Pharma 0033 (0)1 47 03 66 33
+
+contact@bioprojet.com
 
 ## France
 
@@ -1327,19 +1554,21 @@ Bioprojet Pharma 0033 (0)1 47 03 66 33
 
 contact@bioprojet.com
 
-## Ísland
++370 5 2306499 info@norameda.com
+
+## Luxembourg/Luxemburg
+
+Bioprojet Benelux 0032(0)78050202 info@bioprojet.be
+
+## Magyarország
+
+UAB Norameda +370 5 2306499
+
+info@norameda.com
+
+## Malta
 
 Bioprojet Pharma 0033 (0)1 47 03 66 33 contact@bioprojet.com
-
-## Italia
-
-Bioprojet Italia srl +39 02 84254830 info@bioprojet.it
-
-## Κύπρος
-
-Bioprojet Pharma 0033 (0)1 47 03 66 33 contact@bioprojet.com
-
-## Latvija
 
 ## Nederland
 
@@ -1347,15 +1576,15 @@ Bioprojet Benelux N.V. 088 34 34 100 info@bioprojet.nl
 
 ## Norge
 
-Zambon Sweden, filial of Zambon Nederland B.V.
-
-+46 (0)10 33 50 800
+Zambon Sweden, filial of Zambon Nederland B.V. +46 (0)10 33 50 800
 
 contact@zambongroup.com
 
 ## Österreich
 
-Bioprojet Deutschland GmbH 030/3465 5460-0 info@bioprojet.de
+Bioprojet Deutschland GmbH 030/3465 5460-0
+
+info@bioprojet.de
 
 ## Polska
 
@@ -1371,11 +1600,25 @@ info@gotosolution.com
 
 ## Slovenija
 
-Lenis farmacevtika d.o.o. +386 1 23 50 700 info@lenis.si
+Lenis farmacevtika d.o.o.
+
++386 1 23 50 700 info@lenis.si
+
+## Ísland
+
+Bioprojet Pharma 0033 (0)1 47 03 66 33 contact@bioprojet.com
 
 ## Slovenská republika
 
-BIOXA Therapeutics s.r.o. +421 907 927 010 info@bioxa.sk
+BIOXA Therapeutics s.r.o.
+
++421 907 927 010 info@bioxa.sk
+
+## Italia
+
+Bioprojet Italia srl
+
++39 02 84254830 info@bioprojet.it
 
 ## Suomi/Finland
 
@@ -1385,15 +1628,25 @@ Zambon Sweden, filial of Zambon Nederland B.V.
 
 contact@zambongroup.com
 
+## Κύπρος
+
+Bioprojet Pharma 0033 (0)1 47 03 66 33 contact@bioprojet.com
+
 ## Sverige
 
-Zambon Sweden, filial of Zambon Nederland B.V. +46 (0)10 33 50 800 contact@zambongroup.com
+Zambon Sweden, filial of Zambon Nederland B.V. +46 (0)10 33 50 800
+
+contact@zambongroup.com
+
+Latvija Norameda pārstāvniecība +371 29272107 info@norameda.com
 
 ## United Kingdom (Northern Ireland)
 
-<div style=\"page-break-after: always\"></div>
+Bioprojet Pharma
 
-Norameda pārstāvniecība +371 29272107 info@norameda.com
+0033 (0)1 47 03 66 33 contact@bioprojet.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -1402,33 +1655,3 @@ Norameda pārstāvniecība +371 29272107 info@norameda.com
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
-
-Bioprojet Pharma 0033 (0)1 47 03 66 33 contact@bioprojet.com
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report for the non-interventional imposed PASS final study report for the medicinal product(s) mentioned above, the scientific conclusions of CHMP are as follows:
-
-The MAH has fulfilled the commitment to present the final results of a non-interventional postauthorisation safety study:
-
-A 5-year multi-center, observational post-authorisation safety study to document the utilisation of Wakix in the treatment of narcolepsy with and without cataplexy and to collect information on its long-term safety when used in routine medical practice.
-
-The study has provided data on the long-term use and safety of pitolisant in real-world setting. The final data do not indicate any new and unexpected safety findings with pitolisant.
-
-Therefore, in view of available data regarding the PASS final study report, the PRAC considered that changes to the conditions of the marketing authorisation were warranted.
-
-The CHMP agrees with the scientific conclusions made by the PRAC.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for the results of the study for the medicinal product(s) mentioned above, the CHMP is of the opinion that the benefit-risk balance of these medicinal product(s) is unchanged, subject to the proposed changes to the product information.
-
-The CHMP is of the opinion that the terms of the marketing authorisation(s) of the medicinal product(s) mentioned above should be varied.

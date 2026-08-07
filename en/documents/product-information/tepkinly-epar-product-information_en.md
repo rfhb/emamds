@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-06 15:54:02
-document_pages: 89
+document_datetime: 2026-08-06 12:05:39
+document_pages: 109
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tepkinly-epar-product-information_en.pdf
 document_name: tepkinly-epar-product-information_en.pdf
 version: success
-processing_time: 29.960316
-conversion_datetime: 2026-02-09 22:29:14.94099
+processing_time: 41.9551047
+conversion_datetime: 2026-08-07 14:18:12.465976
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.1
-  docling: 2.72.0
-  docling-core: 2.63.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -54,6 +54,8 @@ Colourless to slightly yellow solution, pH 5.5 and osmolality of approximately 2
 
 Tepkinly as monotherapy is indicated for the treatment of adult patients with relapsed or refractory diffuse large B-cell lymphoma (DLBCL) after two or more lines of systemic therapy.
 
+Tepkinly in combination with lenalidomide and rituximab is indicated for the treatment of adult patients with relapsed or refractory follicular lymphoma (FL).
+
 Tepkinly as monotherapy is indicated for the treatment of adult patients with relapsed or refractory follicular lymphoma (FL) after two or more lines of systemic therapy.
 
 ## 4.2 Posology and method of administration
@@ -64,9 +66,11 @@ Tepkinly must only be administered under the supervision of a healthcare profess
 
 Recommended pre-medication and dose schedule
 
-Tepkinly should be administered according to the following step-up dose schedule in 28-day cycles which is outlined in Table 1 for patients with diffuse large B-cell lymphoma and Table 2 for patients with follicular lymphoma.
-
 <div style=\"page-break-after: always\"></div>
+
+## Tepkinly as monotherapy
+
+Tepkinly should be administered according to the following step-up dose schedule in 28-day cycles which is outlined in Table 1 for patients with diffuse large B-cell lymphoma and Table 2 for patients with follicular lymphoma.
 
 Table 1 Tepkinly 2-step step-up dose schedule for patients with diffuse large B-cell lymphoma
 
@@ -93,29 +97,57 @@ Table 2 Tepkinly 3-step step-up dose schedule for patients with follicular lymph
 | Every two weeks   | Cycles 4 - 9         | 1, 15        | 48 mg                     |
 | Every four weeks  | Cycles 10 +          | 1            | 48 mg                     |
 
-Details on recommended pre-medication for cytokine release syndrome (CRS) are shown in Table 3.
+## Tepkinly in combination with lenalidomide and rituximab
 
-Table 3 Epcoritamab pre-medication
+Tepkinly should be administered according to 28-day cycles for a total of 12 cycles or until disease progression or unacceptable toxicity, whichever occurs first.
 
-| Cycle              | Patient requiring pre-medication                               | Pre-medication                                                                                         | Administration                                                                                                                                                      |
-|--------------------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Cycle 1            | All patients                                                   | Dexamethasone b (15 mg oral or intravenous) or Prednisolone (100 mg oral or intravenous) or equivalent | • 30-120 minutes prior to each weekly administration of epcoritamab • And for three consecutive days following each weekly administration of epcoritamab in Cycle 1 |
-| Cycle 1            | All patients                                                   | • Diphenhydramine (50 mg oral or intravenous) or equivalent • Paracetamol (650 to 1 000 mg oral)       | • 30-120 minutes prior to each weekly administration of epcoritamab                                                                                                 |
-| Cycle 2 and beyond | Patients who experienced Grade 2 or 3 a CRS with previous dose | Dexamethasone b (15 mg oral or intravenous) or Prednisolone (100 mg oral or intravenous) or equivalent | • 30-120 minutes prior to next administration of epcoritamab after a grade 2 or 3 a CRS event • And for three consecutive days following the next                   |
+Table 3 Tepkinly 3-step step-up dose schedule in combination with lenalidomide and rituximab for patients with follicular lymphoma
+
+| Dosing schedule   | Cycle of treatment   | Days             | Epcoritamab dose (mg)    |
+|-------------------|----------------------|------------------|--------------------------|
+| Weekly            | Cycle 1              | 1                | 0.16 mg (Step-up dose 1) |
+| Weekly            | Cycle 1              | 8                | 0.8 mg (Step-up dose 2)  |
+| Weekly            | Cycle 1              | 15               | 3 mg (Step-up dose 3)    |
+| Weekly            | Cycle 1              | 22               | 48 mg (First full dose)  |
+| Weekly            | Cycles 2 and 3       | 1, 8, 15, and 22 | 48 mg                    |
+| Every four weeks  | Cycles 4 to 12       | 1                | 48 mg                    |
+
+Tepkinly should be administered in combination with lenalidomide 20 mg orally once daily (from Day 1 to Day 21) in Cycles 1-12 and rituximab 375 mg/m 2 intravenously every week in Cycle 1 (on Days 1, 8, 15, and 22) and every 4 weeks in Cycles 2-5 (on Day 1).
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                                                                                                                                                  | administration of epcoritamab until epcoritamab is given without subsequent any grade of CRS                                                                                                     |                                                                                                                                                                                                  |                                                                                                                                                                                                  |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| a Patients will be permanently discontinued from epcoritamab after a Grade 4 CRS event. b Dexamethasone is the preferred corticosteroid for CRS prophylaxis based on the GCT3013-01 Optimisation | a Patients will be permanently discontinued from epcoritamab after a Grade 4 CRS event. b Dexamethasone is the preferred corticosteroid for CRS prophylaxis based on the GCT3013-01 Optimisation | a Patients will be permanently discontinued from epcoritamab after a Grade 4 CRS event. b Dexamethasone is the preferred corticosteroid for CRS prophylaxis based on the GCT3013-01 Optimisation | a Patients will be permanently discontinued from epcoritamab after a Grade 4 CRS event. b Dexamethasone is the preferred corticosteroid for CRS prophylaxis based on the GCT3013-01 Optimisation |
+For additional information, refer to the Summary of Product Characteristics (SmPC) of the lenalidomide and rituximab products.
 
-Prophylaxis against Pneumocystis jirovecii pneumonia (PCP) and herpes virus infections is strongly recommended especially during concurrent use of steroids.
+Premedications and prophylaxis
+
+Details on recommended pre-medication for cytokine release syndrome (CRS) are shown in Table 4.
+
+Table 4 Epcoritamab pre-medication
+
+| Cycle              | Patient requiring pre-medication                               | Pre-medication a                                                                                                                                                           | Administration                                                                                                                                                                                                                                 |
+|--------------------|----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Cycle 1            | All patients                                                   | Dexamethasone (15 mg oral or intravenous) or Prednisolone (100 mg oral or intravenous) or equivalent • Dexamethasone is the preferred corticosteroid for CRS prophylaxis c | • 30-120 minutes prior to each weekly administration of epcoritamab • And for three consecutive days following each weekly administration of epcoritamab in Cycle 1                                                                            |
+| Cycle 1            | All patients                                                   | • Diphenhydramine (50 mg oral or intravenous) or equivalent • Paracetamol (650 to 1 000 mg oral)                                                                           | • 30-120 minutes prior to each weekly administration of epcoritamab                                                                                                                                                                            |
+| Cycle 2 and beyond | Patients who experienced Grade 2 or 3 b CRS with previous dose | Dexamethasone (15 mg oral or intravenous) or Prednisolone (100 mg oral or intravenous) or equivalent • Dexamethasone is the preferred corticosteroid for CRS prophylaxis c | • 30-120 minutes prior to next administration of epcoritamab after a grade 2 or 3 b CRS event • And for three consecutive days following the next administration of epcoritamab until epcoritamab is given without subsequent any grade of CRS |
+
+a Premedication used for combination agents may serve as premedication for epcoritamab at the discretion of the treating physician, provided that the doses administered are at least equivalent.
+
+b Patients will be permanently discontinued from epcoritamab after a Grade 4 CRS event.
+
+c Based on the GCT3013-01 Optimisation study.
+
+For additional information, refer to the SmPC of lenalidomide and the SmPC of rituximab for the respective premedication recommendations.
+
+Prophylaxis against Pneumocystis jirovecii pneumonia (PCP) and herpes virus infections is strongly recommended during treatment with epcoritamab.
 
 Tepkinly should be administered to adequately hydrated patients.
 
 It is strongly recommended that all patients adhere to the following fluid guidelines during Cycle 1, unless medically contraindicated:
 
 - 2-3 L of fluid intake during the 24 hours prior to each epcoritamab administration
+
+<div style=\"page-break-after: always\"></div>
+
 - Hold antihypertensive medications for 24 hours prior to each epcoritamab administration
 - Administer 500 ml isotonic intravenous (IV) fluids on the day of epcoritamab prior to dose administration; AND
 - 2-3 L of fluid intake during the 24 hours following each epcoritamab administration.
@@ -128,82 +160,79 @@ Patients should be monitored for signs and symptoms of CRS and/or immune effecto
 
 ## Cytokine release syndrome (CRS)
 
-Patients treated with epcoritamab may develop CRS.
+## Patients treated with epcoritamab may develop CRS.
 
-Evaluate for and treat other causes of fever, hypoxia, and hypotension. If CRS is suspected, manage according to the recommendations in Table 4. Patients who experience CRS should be monitored more frequently during next scheduled epcoritamab administration.
+Evaluate for and treat other causes of fever, hypoxia, and hypotension. If CRS is suspected, manage according to the recommendations in Table 5. Patients who experience CRS should be monitored more frequently during next scheduled epcoritamab administration.
 
-Table 4 CRS grading and management guidance
+Table 5 CRS grading and management guidance
 
-| Grade a                               | Recommended therapy                                                                                                                                                                                              | Epcoritamab dose modification                  |
-|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| Grade 1 • Fever (temperature ≥ 38 °C) | Provide supportive care such as antipyretics and intravenous hydration Dexamethasone b may be initiated In cases of advanced age, high tumour burden, circulating tumour cells, fever refractory to antipyretics | Hold epcoritamab until resolution of CRS event |
-
-<div style=\"page-break-after: always\"></div>
-
-| Grade a                                                                                                                                                                                                                    | Recommended therapy                                                                                                                                                                                                                                                                                                                                                                                              | Epcoritamab dose modification                                                                                                                                                                                                                                                         |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                                                            | • Anti-cytokine therapy, tocilizumab d , should be considered For CRS with concurrent ICANS refer to Table 5                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                       |
-| Grade 2 • Fever (temperature ≥ 38 °C) and • Hypotension not requiring vasopressors and/or • Hypoxia requiring low-flow oxygen e by nasal cannula or blow-by                                                                | Provide supportive care such as antipyretics and intravenous hydration Dexamethasone b should be considered Anti-cytokine therapy, tocilizumab d , is recommended If CRS is refractory to dexamethasone and tocilizumab: • Alternative immunosuppressants g and methylprednisolone 1 000 mg/day intravenously should be administered until clinical improvement For CRS with concurrent ICANS refer to Table 5   | Hold epcoritamab until resolution of CRS event                                                                                                                                                                                                                                        |
-| Grade 3 • Fever (temperature ≥ 38 °C) and • Hypotension requiring a vasopressor with or without vasopressin and/or • Hypoxia requiring high-flow oxygen f by nasal cannula, facemask, non-rebreather mask, or venturi mask | Provide supportive care such as antipyretics and intravenous hydration Dexamethasone c should be administered Anti-cytokine therapy, tocilizumab d , is recommended If CRS is refractory to dexamethasone and tocilizumab: • Alternative immunosuppressants g and methylprednisolone 1 000 mg/day intravenously should be administered until clinical improvement For CRS with concurrent ICANS refer to Table 5 | Hold epcoritamab until resolution of CRS event In the event of Grade 3 CRS lasting longer than 72 hours, epcoritamab should be discontinued If more than 2 separate events of Grade 3 CRS, even if each event resolved to Grade 2 within 72 hours, epcoritamab should be discontinued |
+| Grade a                               | Recommended therapy                                                                                                                                                                                                                                                                                                                                                                         | Epcoritamab dose modification h                |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| Grade 1 • Fever (temperature ≥ 38 °C) | Provide supportive care such as antipyretics and intravenous hydration Dexamethasone b may be initiated In cases of advanced age, high tumour burden, circulating tumour cells, fever refractory to antipyretics • Anti-cytokine therapy, tocilizumab d , should be considered If lack of improvement after 24 hours, consider tocilizumab d For CRS with concurrent ICANS refer to Table 6 | Hold epcoritamab until resolution of CRS event |
 
 <div style=\"page-break-after: always\"></div>
 
-| Grade a                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Recommended therapy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Epcoritamab dose modification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 4 • Fever (temperature ≥ 38 °C) and • Hypotension requiring ≥ 2 vasopressors (excluding vasopressin) and/or • Hypoxia requiring positive pressure ventilation (e.g., CPAP, BiPAP, intubation and mechanical ventilation )                                                                                                                                                                                                                                                                                                | Provide supportive care such as antipyretics and intravenous hydration Dexamethasone c should be administered Anti-cytokine therapy, tocilizumab d , is recommended If CRS is refractory to dexamethasone and tocilizumab: • Alternative immunosuppressants g and methylprednisolone 1 000 mg/day intravenously should be administered until clinical improvement For CRS with concurrent ICANS refer to Table 5                                                                                                               | Permanently discontinue epcoritamab                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| a CRS graded according to ASTCT consensus criteria b Dexamethasone should be administered at 10-20 mg per day (or equivalent) c Dexamethasone should be administered at 10-20 mg intravenously every 6 hours d Tocilizumab 8 mg/kg intravenously over 1 hour (not to exceed 800 mg per dose). Repeat tocilizumab after at least 8 hours as needed. Maximum of 2 doses in a 24-hour period e Low-flow oxygen is defined as oxygen delivered at < 6 L/minute f High-flow oxygen is defined as oxygen delivered at ≥ 6 L/minute g | a CRS graded according to ASTCT consensus criteria b Dexamethasone should be administered at 10-20 mg per day (or equivalent) c Dexamethasone should be administered at 10-20 mg intravenously every 6 hours d Tocilizumab 8 mg/kg intravenously over 1 hour (not to exceed 800 mg per dose). Repeat tocilizumab after at least 8 hours as needed. Maximum of 2 doses in a 24-hour period e Low-flow oxygen is defined as oxygen delivered at < 6 L/minute f High-flow oxygen is defined as oxygen delivered at ≥ 6 L/minute g | a CRS graded according to ASTCT consensus criteria b Dexamethasone should be administered at 10-20 mg per day (or equivalent) c Dexamethasone should be administered at 10-20 mg intravenously every 6 hours d Tocilizumab 8 mg/kg intravenously over 1 hour (not to exceed 800 mg per dose). Repeat tocilizumab after at least 8 hours as needed. Maximum of 2 doses in a 24-hour period e Low-flow oxygen is defined as oxygen delivered at < 6 L/minute f High-flow oxygen is defined as oxygen delivered at ≥ 6 L/minute g |
+| Grade a                                                                                                                                                                                                                    | Recommended therapy                                                                                                                                                                                                                                                                                                                                                                                            | Epcoritamab dose modification h                                                                                                                                                                                                                                                       |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Grade 2 • Fever (temperature ≥ 38 °C) and • Hypotension not requiring vasopressors and/or • Hypoxia requiring low-flow oxygen e by nasal cannula or blow-by                                                                | Provide supportive care such as antipyretics and intravenous hydration Dexamethasone b should be considered Anti-cytokine therapy, tocilizumab d , is recommended If CRS is refractory to dexamethasone and tocilizumab: • Alternative immunosuppressants g and methylprednisolone 1 000 mg/day intravenously should be administered until clinical improvement For CRS with concurrent ICANS refer to Table 6 | Hold epcoritamab until resolution of CRS event                                                                                                                                                                                                                                        |
+| Grade 3 • Fever (temperature ≥ 38 °C) and • Hypotension requiring a vasopressor with or without vasopressin and/or • Hypoxia requiring high-flow oxygen f by nasal cannula, facemask, non-rebreather mask, or venturi mask | Provide supportive care such as antipyretics and intravenous hydration Dexamethasone c should be administered Anti-cytokine therapy, tocilizumab d , is recommended If CRS is refractory to dexamethasone and tocilizumab: • Alternative immunosuppressants g and methylprednisolone 1 000 mg/day intravenously should be administered until clinical improvement For CRS with concurrent ICANS refer          | Hold epcoritamab until resolution of CRS event In the event of Grade 3 CRS lasting longer than 72 hours, epcoritamab should be discontinued If more than 2 separate events of Grade 3 CRS, even if each event resolved to Grade 2 within 72 hours, epcoritamab should be discontinued |
+| Grade 4 • Fever (temperature ≥ 38 °C) and • Hypotension requiring ≥ 2 vasopressors (excluding vasopressin)                                                                                                                 | Provide supportive care such as antipyretics and intravenous hydration Dexamethasone c should be administered Anti-cytokine therapy, tocilizumab d , is recommended                                                                                                                                                                                                                                            | Permanently discontinue epcoritamab                                                                                                                                                                                                                                                   |
+
+<div style=\"page-break-after: always\"></div>
+
+| Grade a                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Recommended therapy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Epcoritamab dose modification h                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| • Hypoxia requiring positive pressure ventilation (e.g., CPAP, BiPAP, intubation and mechanical ventilation )                                                                                                                                                                                                                                                                                                                                                                                                                                            | If CRS is refractory to dexamethasone and tocilizumab: • Alternative immunosuppressants g and methylprednisolone 1 000 mg/day intravenously should be administered until clinical improvement For CRS with concurrent ICANS refer to Table 6                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| a CRS graded according to ASTCT consensus criteria b Dexamethasone should be administered at 10-20 mg per day (or equivalent) c Dexamethasone should be administered at 10-20 mg intravenously every 6 hours d Tocilizumab 8 mg/kg intravenously over 1 hour (not to exceed 800 mg per dose). Repeat tocilizumab after at least 8 hours as needed. Maximum of 2 doses in a 24-hour period e Low-flow oxygen is defined as oxygen delivered at ≤ 6 L/minute f High-flow oxygen is defined as oxygen delivered at ≥ 6 L/minute g Riegler L et al. (2019) h | a CRS graded according to ASTCT consensus criteria b Dexamethasone should be administered at 10-20 mg per day (or equivalent) c Dexamethasone should be administered at 10-20 mg intravenously every 6 hours d Tocilizumab 8 mg/kg intravenously over 1 hour (not to exceed 800 mg per dose). Repeat tocilizumab after at least 8 hours as needed. Maximum of 2 doses in a 24-hour period e Low-flow oxygen is defined as oxygen delivered at ≤ 6 L/minute f High-flow oxygen is defined as oxygen delivered at ≥ 6 L/minute g Riegler L et al. (2019) h | a CRS graded according to ASTCT consensus criteria b Dexamethasone should be administered at 10-20 mg per day (or equivalent) c Dexamethasone should be administered at 10-20 mg intravenously every 6 hours d Tocilizumab 8 mg/kg intravenously over 1 hour (not to exceed 800 mg per dose). Repeat tocilizumab after at least 8 hours as needed. Maximum of 2 doses in a 24-hour period e Low-flow oxygen is defined as oxygen delivered at ≤ 6 L/minute f High-flow oxygen is defined as oxygen delivered at ≥ 6 L/minute g Riegler L et al. (2019) h |
 
 Immune effector cell-associated neurotoxicity syndrome (ICANS)
 
-Patients should be monitored for signs and symptoms of ICANS. Other causes of neurologic symptoms should be ruled out. If ICANS is suspected, manage according to the recommendations in Table 5.
+Patients should be monitored for signs and symptoms of ICANS. Other causes of neurologic symptoms should be ruled out. If ICANS is suspected, manage according to the recommendations in Table 6.
 
-Table 5 ICANS grading and management guidance
+Table 6 ICANS grading and management guidance
 
-| Grade a                                                                                    | Recommended therapy                                                                                                                                                                                                                                             | Epcoritamab dose modification              |
-|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| Grade 1 b ICE score c 7-9 b or, depressed level of consciousness b : awakens spontaneously | Treatment with dexamethasone d Consider non-sedating anti-seizure medicinal products (e.g., levetiracetam) until resolution of ICANS No concurrent CRS: • Anti-cytokine therapy not recommended For ICANS with concurrent CRS: • Treatment with dexamethasone d | Hold epcoritamab until resolution of event |
-
-<div style=\"page-break-after: always\"></div>
-
-| Grade a                                                                                                                                                                                                                                                                                                                                                             | Recommended therapy                                                                                                                                                                                                                                                                                                                                                                                                                                           | Epcoritamab dose modification              |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
-|                                                                                                                                                                                                                                                                                                                                                                     | • Choose immunosuppressant alternatives e to tocilizumab, if possible                                                                                                                                                                                                                                                                                                                                                                                         |                                            |
-| Grade 2 b ICE score c 3-6 or, depressed level of consciousness b : awakens to voice                                                                                                                                                                                                                                                                                 | Treatment with dexamethasone f Consider non-sedating anti-seizure medicinal products (e.g., levetiracetam) until resolution of ICANS No concurrent CRS : • Anti-cytokine therapy not recommended For ICANS with concurrent CRS : • Treatment with dexamethasone f • Choose immunosuppressant alternatives e to tocilizumab, if possible                                                                                                                       | Hold epcoritamab until resolution of event |
-| Grade 3 b ICE score c 0-2 or, depressed level of consciousness b : awakens only to tactile stimulus, or seizures b , either: • any clinical seizure, focal or generalised that resolves rapidly, or • non-convulsive seizures on electroencephalogram (EEG) that resolve with intervention, or raised intracranial pressure: focal/local oedema b on neuroimaging c | Treatment with dexamethasone g • If no response, initiate methylprednisolone 1 000 mg/day Consider non-sedating anti-seizure medicinal products (e.g., levetiracetam) until resolution of ICANS No concurrent CRS : • Anti-cytokine therapy not recommended For ICANS with concurrent CRS : • Treatment with dexamethasone g o If no response, initiate methylprednisolone 1 000 mg/day • Choose immunosuppressant alternatives e to tocilizumab, if possible | Permanently discontinue epcoritamab        |
-| Grade 4 b ICE score c, b 0 or, depressed level of consciousness b either: • patient is unarousable or requires vigorous or repetitive tactile stimuli to arouse, or • stupor or coma, or seizures b , either: • life-threatening prolonged seizure (> 5 minutes), or                                                                                                | Treatment with dexamethasone g • If no response, initiate methylprednisolone 1 000 mg/day Consider non-sedating anti-seizure medicinal products (e.g., levetiracetam) until resolution of ICANS No concurrent CRS : • Anti-cytokine therapy not recommended For ICANS with concurrent CRS : • Treatment with dexamethasone g o If no response, initiate methylprednisolone 1 000 mg/day                                                                       | Permanently discontinue epcoritamab        |
+| Grade a                                                                                    | Recommended therapy                                                                                                                                                                                                                                                                                                                   | Epcoritamab dose modification g            |
+|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| Grade 1 a ICE score b 7-9 a or, depressed level of consciousness a : awakens spontaneously | Treatment with dexamethasone c Consider non-sedating anti-seizure medicinal products (e.g., levetiracetam) until resolution of ICANS No concurrent CRS: • Anti-cytokine therapy not recommended For ICANS with concurrent CRS: • Treatment with dexamethasone c • Choose immunosuppressant alternatives d to tocilizumab, if possible | Hold epcoritamab until resolution of event |
+| Grade 2 a ICE score b 3-6 or, depressed level of consciousness a : awakens to voice        | Treatment with dexamethasone e Consider non-sedating anti-seizure medicinal products (e.g., levetiracetam) until resolution of ICANS                                                                                                                                                                                                  | Hold epcoritamab until resolution of event |
 
 <div style=\"page-break-after: always\"></div>
 
-| Grade a                                                                                                                                                                                                                                                                                                                                                                                                                 | Recommended therapy                                                   | Epcoritamab dose modification   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------|
-| • repetitive clinical or electrical seizures without return to baseline in between, or motor findings b : • deep focal motor weakness such as hemiparesis or paraparesis, or raised intracranial pressure / cerebral oedema b , with signs/symptoms such as: • diffuse cerebral oedema on neuroimaging, or • decerebrate or decorticate posturing, or • cranial nerve VI palsy, or • papilloedema, or • cushing's triad | • Choose immunosuppressant alternatives e to tocilizumab, if possible |                                 |
-
-a ICANS graded according to ASTCT ICANS Consensus Grading b ICANS grade is determined by the most severe event (ICE score, level of consciousness, seizures, motor findings, raised ICP/cerebral oedema) not attributable to any other cause
-
-c If patient is arousable and able to perform Immune Effector Cell-Associated Encephalopathy (ICE) Assessment, assess: Orientation (oriented to year, month, city, hospital = 4 points); Naming (name 3 objects, e.g., point to clock, pen, button = 3 points); Following Commands (e.g., 'show me 2 fingers' or 'close your eyes and stick out your tongue' = 1 point); Writing (ability to write a standard sentence = 1 point); and Attention (count backwards from 100 by ten = 1 point). If patient is unarousable and unable to perform ICE Assessment (Grade 4 ICANS) = 0 points.
-
-- d Dexamethasone should be administered at 10 mg intravenously every 12 hours
-
-e Riegler L et al. (2019)
-
-f Dexamethasone 10-20 mg intravenously every 12 hours
-
-g Dexamethasone 10-20 mg intravenously every 6 hours
-
-## Table 6 Recommended dose modifications for other adverse reactions
-
-| Adverse Reaction 1                                   | Severity 1                                        | Action                                                                                                                                                  |
-|------------------------------------------------------|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections (see section 4.4)                         | Grades 1-4                                        | • Withhold epcoritamab in patients with active infection, until the infection resolves • For Grade 4, consider permanent discontinuation of epcoritamab |
-| Neutropenia or febrile neutropenia (see section 4.8) | Absolute neutrophil count less than 0.5 x 10 9 /L | • Withhold epcoritamab until absolute neutrophil count is 0.5 x 10 9 /L or higher                                                                       |
-| Thrombocytopenia (see section 4.8)                   | Platelet count less than 50 x 10 9 /L             | • Withhold epcoritamab until platelet count is 50 x 10 9 /L or higher                                                                                   |
-| Other adverse reactions (see section 4.8)            | Grade 3 or higher                                 | • Withhold epcoritamab until the toxicity resolves to Grade 1 or baseline                                                                               |
+| Grade a                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Recommended therapy                                                                                                                                                                                                                                                                                                                                                                                                                                           | Epcoritamab dose modification g     |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | No concurrent CRS : • Anti-cytokine therapy not recommended For ICANS with concurrent CRS : • Treatment with dexamethasone e • Choose immunosuppressant alternatives d to tocilizumab, if possible                                                                                                                                                                                                                                                            |                                     |
+| Grade 3 a ICE score b 0-2 or, depressed level of consciousness a : awakens only to tactile stimulus, or seizures a , either: • any clinical seizure, focal or generalised that resolves rapidly, or • non-convulsive seizures on electroencephalogram (EEG) that resolve with intervention, or raised intracranial pressure: focal/local                                                                                                                                           | Treatment with dexamethasone f • If no response, initiate methylprednisolone 1 000 mg/day Consider non-sedating anti-seizure medicinal products (e.g., levetiracetam) until resolution of ICANS No concurrent CRS : • Anti-cytokine therapy not recommended For ICANS with concurrent CRS : • Treatment with dexamethasone f o If no response, initiate methylprednisolone 1 000 mg/day • Choose immunosuppressant alternatives d to tocilizumab, if possible | Permanently discontinue epcoritamab |
+| neuroimaging Grade 4 a ICE score a, b 0 or, depressed level of consciousness a either: • patient is unarousable or requires vigorous or repetitive tactile stimuli to arouse, or • stupor or coma, or seizures a , either: • life-threatening prolonged seizure (> 5 minutes), or • repetitive clinical or electrical seizures without return to baseline in between, or motor findings a : • deep focal motor weakness such as hemiparesis or paraparesis, or raised intracranial | Treatment with dexamethasone f • If no response, initiate methylprednisolone 1 000 mg/day Consider non-sedating anti-seizure medicinal products (e.g., levetiracetam) until resolution of ICANS No concurrent CRS : • Anti-cytokine therapy not recommended For ICANS with concurrent CRS : • Treatment with dexamethasone f o If no response, initiate methylprednisolone 1 000 mg/day • Choose immunosuppressant alternatives d to tocilizumab, if possible | Permanently discontinue epcoritamab |
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse Reaction 1                                                                                            | Severity 1                                                                                                    | Action                                                                                                        |
-|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| 1 Based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE), Version 5.0. | 1 Based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE), Version 5.0. | 1 Based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE), Version 5.0. |
+| Grade a                                                                                                                                                                                            | Recommended therapy   | Epcoritamab dose modification g   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----------------------------------|
+| oedema a , with signs/symptoms such as: • diffuse cerebral oedema on neuroimaging, or • decerebrate or decorticate posturing, or • cranial nerve VI palsy, or • papilloedema, or • cushing's triad |                       |                                   |
+
+a ICANS graded according to ASTCT ICANS Consensus Grading. ICANS grade is determined by the most severe event (ICE score, level of consciousness, seizures, motor findings, raised ICP/cerebral oedema) not attributable to any other cause
+
+b If patient is arousable and able to perform Immune Effector Cell-Associated Encephalopathy (ICE) Assessment, assess: Orientation (oriented to year, month, city, hospital = 4 points); Naming (name 3 objects, e.g., point to clock, pen, button = 3 points); Following Commands (e.g., 'show me 2 fingers' or 'close your eyes and stick out your tongue' = 1 point); Writing (ability to write a standard sentence = 1 point); and Attention (count backwards from 100 by ten = 1 point). If patient is unarousable and unable to perform ICE Assessment (Grade 4 ICANS) = 0 points.
+
+- c Dexamethasone should be administered at 10 mg intravenously every 12 hours
+- d Alternatives include anakinra or siltuximab. Riegler L et al. (2019)
+- e Dexamethasone 10-20 mg intravenously every 12 hours
+- f Dexamethasone 10-20 mg intravenously every 6 hours
+- g When epcoritamab is administered in combination for relapsed or refractory FL, consider holding lenalidomide until event resolution
+
+Table 7 Recommended dose modifications for other adverse reactions
+
+| Adverse Reaction 1                                                                                            | Severity 1                                                                                                    | Action                                                                                                                                                  |
+|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections (see section 4.4)                                                                                  | Grades 1-4                                                                                                    | • Withhold epcoritamab in patients with active infection, until the infection resolves • For Grade 4, consider permanent discontinuation of epcoritamab |
+| Neutropenia or febrile neutropenia (see section 4.8)                                                          | Absolute neutrophil count less than 0.5 x 10 9 /L                                                             | • Withhold epcoritamab until absolute neutrophil count is 0.5 x 10 9 /L or higher                                                                       |
+| Thrombocytopenia (see section 4.8)                                                                            | Platelet count less than 50 x 10 9 /L                                                                         | • Withhold epcoritamab until platelet count is 50 x 10 9 /L or higher                                                                                   |
+| Other adverse reactions (see section 4.8)                                                                     | Grade 3 or higher                                                                                             | • Withhold epcoritamab until the toxicity resolves to Grade 1 or baseline                                                                               |
+| 1 Based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE), Version 5.0. | 1 Based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE), Version 5.0. | 1 Based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE), Version 5.0.                                           |
+
+In case of febrile neutropenia and recurring Grade ≥ 3 neutropenia, consider granulocyte colony stimulating factor (G-CSF). Refer to the SmPC of lenalidomide for specific instructions on dose modifications in case of neutropenia. Refer to the SmPC of rituximab for recommendations regarding the determination of immunoglobulin levels.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Missed or delayed dose
 
@@ -246,9 +275,9 @@ No dose adjustment is necessary in patients ≥ 65 years of age (see sections 5.
 
 The safety and efficacy of Tepkinly in children aged less than 18 years of age have not yet been established. No data are available.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Method of administration
+
+<div style=\"page-break-after: always\"></div>
 
 Tepkinly is for subcutaneous use. It should be administered by subcutaneous injection only, preferably in the lower part of the abdomen or the thigh. Change of injection site from left to right side or vice versa is recommended especially during the weekly administration schedule (i.e., Cycles 1-3) .
 
@@ -272,7 +301,7 @@ Most CRS events occurred in Cycle 1 and were associated with the first full dose
 
 Patients should be monitored for signs and symptoms of CRS following epcoritamab administration.
 
-At the first signs or symptoms of CRS, treatment should be instituted of supportive care with tocilizumab and/or corticosteroids as appropriate (see section 4.2, Table 4). Patients should be counselled on the signs and symptoms associated with CRS and patients should be instructed to contact their healthcare professional and seek immediate medical attention should signs or symptoms occur at any time. Management of CRS may require either temporary delay or discontinuation of epcoritamab based on the severity of CRS (see section 4.2).
+At the first signs or symptoms of CRS, treatment should be instituted of supportive care with tocilizumab and/or corticosteroids as appropriate (see section 4.2, Table 5). Patients should be counselled on the signs and symptoms associated with CRS and patients should be instructed to contact their healthcare professional and seek immediate medical attention should signs or symptoms occur at any time. Management of CRS may require either temporary delay or discontinuation of epcoritamab based on the severity of CRS (see section 4.2).
 
 ## Haemophagocytic lymphohistiocytosis (HLH)
 
@@ -284,9 +313,11 @@ ICANS, including fatal events, have occurred in patients receiving epcoritamab. 
 
 The majority of cases of ICANS occurred within Cycle 1 of epcoritamab treatment, however some occurred with delayed onset.
 
+Patients should be monitored for signs and symptoms of ICANS following epcoritamab administration.
+
 <div style=\"page-break-after: always\"></div>
 
-Patients should be monitored for signs and symptoms of ICANS following epcoritamab administration. At the first signs or symptoms of ICANS, treatment with corticosteroids and non-sedating-anti-seizure medicinal products should be instituted as appropriate (see section 4.2, Table 5). Patients should be counselled on the signs and symptoms of ICANS and that the onset of events may be delayed. Patients should be instructed to contact their healthcare professional and seek immediate medical attention should signs or symptoms occur at any time. Epcoritamab should be delayed or discontinued as recommended (see section 4.2).
+At the first signs or symptoms of ICANS, treatment with corticosteroids and non-sedating-anti-seizure medicinal products should be instituted as appropriate (see section 4.2, Table 6). Patients should be counselled on the signs and symptoms of ICANS and that the onset of events may be delayed. Patients should be instructed to contact their healthcare professional and seek immediate medical attention should signs or symptoms occur at any time. Epcoritamab should be delayed or discontinued as recommended (see section 4.2).
 
 ## Serious infections
 
@@ -312,11 +343,9 @@ There are no specific risk factors for tumour flare that have been identified; h
 
 ## CD20-negative disease
 
-There are limited data available on patients with CD20-negative DLBCL and patients with CD20negative FL treated with epcoritamab and it is possible that patients with CD20-negative DLBCL and patients with CD20-negative FL may have less benefit compared to patients with CD20-positive DLBCL
+There are limited data available on patients with CD20-negative DLBCL and patients with CD20negative FL treated with epcoritamab and it is possible that patients with CD20-negative DLBCL and patients with CD20-negative FL may have less benefit compared to patients with CD20-positive DLBCL and patients with CD20-positive FL, respectively. The potential risks and benefits associated with treatment of patients with CD20-negative DLBCL and FL with epcoritamab should be considered.
 
 <div style=\"page-break-after: always\"></div>
-
-and patients with CD20-positive FL, respectively. The potential risks and benefits associated with treatment of patients with CD20-negative DLBCL and FL with epcoritamab should be considered.
 
 ## Patient card
 
@@ -352,11 +381,9 @@ Based on its mechanism of action, epcoritamab may cause foetal harm, including B
 
 ## Breast-feeding
 
-It is not known whether epcoritamab is excreted in human milk or its effect on milk production. Since IgGs are known to be present in milk, neonatal exposure to epcoritamab may occur via lactational
+It is not known whether epcoritamab is excreted in human milk or its effect on milk production. Since IgGs are known to be present in milk, neonatal exposure to epcoritamab may occur via lactational transfer. Breast-feeding should be discontinued during treatment with epcoritamab and for at least 4 months after the last dose.
 
 <div style=\"page-break-after: always\"></div>
-
-transfer. Breast-feeding should be discontinued during treatment with epcoritamab and for at least 4 months after the last dose.
 
 ## Fertility
 
@@ -370,6 +397,8 @@ Epcoritamab has major influence on the ability to drive and use machines. Due to
 
 ## Summary of the safety profile
 
+## Epcoritamab monotherapy
+
 The safety  of  epcoritamab  was  evaluated  in  a  non-randomised,  single-arm  GCT3013-01  study  in  382 patients with relapsed or refractory large B-cell lymphoma (N=167), follicular lymphoma (N=129) and follicular lymphoma (3-step step-up dose schedule N=86) after two or more lines of systemic therapy and included all the patients who enrolled to the 48 mg dose and received at least one dose of epcoritamab. The following adverse reactions have been reported with epcoritamab during clinical studies and post marketing experience.
 
 The median duration of exposure to epcoritamab was 4.9 months (range: &lt;1 to 30 months).
@@ -382,22 +411,52 @@ Adverse reactions that led to discontinuation occurred in 6.8% of patients. Disc
 
 Dose delays due to adverse reactions occurred in 42% of patients. Adverse reactions leading to dose delays (≥ 3%) were viral infections (17%), CRS (11%), neutropenia (5.2%), pneumonia (4.7%), upper respiratory tract infection (4.2%), and pyrexia (3.7%).
 
-## Tabulated list of adverse reactions
+## Epcoritamab in combination with lenalidomide and rituximab
 
-Adverse reactions for epcoritamab from clinical studies (Table 7) are listed by MedDRA system organ class and are based on the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); and very rare (&lt; 1/10 000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The safety of epcoritamab in combination with lenalidomide and rituximab was evaluated in M20-638, an open-label, randomised, multicentre study that included patients with relapsed or refractory follicular lymphoma (FL) after one prior line of therapy. Patients received epcoritamab in combination with lenalidomide and rituximab (N=243) or lenalidomide and rituximab alone (N=238).
 
-## Table 7 Adverse reactions reported in patients with relapsed or refractory LBCL or FL treated with epcoritamab
+With the exception of CRS and ICANS, the safety results presented below and in Table 9 represent total safety data set from 243 patients who received epcoritamab following the 2-step step-up dose schedule or recommended 3-step step-up dose schedule in combination with lenalidomide and rituximab. The data presented for CRS and ICANS reflect the 133 patients who received epcoritamab at the recommended 3step step-up dose schedule in combination with lenalidomide and rituximab.
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class / preferred term or adverse reaction                 | All grades                                                              | Grade 3-4                                                               |
-|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| Infections and infestations                                             | Infections and infestations                                             | Infections and infestations                                             |
-| Viral infection a                                                       | Very common                                                             | Common                                                                  |
-| Pneumonia b                                                             | Very common                                                             | Common                                                                  |
-| Upper respiratory tract infection c                                     | Very common                                                             | Common                                                                  |
-| Fungal infection d                                                      | Common                                                                  |                                                                         |
+## Recommended 3-step step-up dose schedule
+
+In study M20-638, CRS of any grade occurred in 26% (35/133) of patients treated with epcoritamab at the recommended 3-step step-up dose schedule in combination with lenalidomide and rituximab.
+
+Serious adverse reactions due to CRS occurred in 12% of patients who received epcoritamab in combination with lenalidomide and rituximab. Dose delays (interruptions) of epcoritamab due to CRS occurred in 11% of patients. ICANS occurred in 0.8% of patients, with a single event reported as Grade 1.
+
+## Total safety set
+
+Of the 243 patients who received epcoritamab following the 2-step step-up dose schedule or recommended 3-step step-up dose schedule in combination with lenalidomide and rituximab, the most common (≥ 20%) adverse reactions were neutropenia, rash, upper respiratory tract infections, fatigue, diarrhoea, injection site reactions, anaemia, constipation, thrombocytopenia, CRS, hypogammaglobulinaemia, COVID-19, pyrexia, and pneumonia.
+
+Serious adverse reactions occurred in 44% of patients who received epcoritamab in combination with lenalidomide and rituximab. Serious adverse reactions in ≥ 5% of patients included CRS, pneumonia, COVID-19, and febrile neutropenia.
+
+Permanent discontinuation of epcoritamab due to an adverse reaction occurred in 6.6% of patients who received epcoritamab in combination with lenalidomide and rituximab. Adverse reactions which resulted in permanent discontinuation of epcoritamab in more than 1 patient included pneumonia, COVID-19, upper respiratory tract infections, and neutropenia.
+
+Dose delays of epcoritamab due to an adverse reaction occurred in 70% of patients who received epcoritamab in combination with lenalidomide and rituximab. Adverse reactions which resulted in dose delays of epcoritamab in ≥ 5% of patients included neutropenia, upper respiratory tract infections, COVID-19, pneumonia, rash, and thrombocytopenia.
+
+## Tabulated list of adverse reactions
+
+Adverse reactions occurring with epcoritamab are listed in Table 8.
+
+Adverse reactions occurring with epcoritamab in combination with lenalidomide and rituximab are listed in Table 9.
+
+Adverse reactions for epcoritamab from clinical studies (Table 8 and Table 9) are listed by MedDRA system organ class and are based on the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); and very rare (&lt; 1/10 000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
+Table 8 Adverse reactions reported in patients with relapsed or refractory LBCL or FL treated with epcoritamab
+
+| System organ class / preferred term or adverse reaction   | All grades   | Grade 3-4   |
+|-----------------------------------------------------------|--------------|-------------|
+| Infections and infestations                               |              |             |
+| Viral infection a                                         | Very common  | Common      |
+| Pneumonia b                                               | Very common  | Common      |
+| Upper respiratory tract infection c                       | Very common  | Common      |
+| Fungal infection d                                        | Common       |             |
+
+<div style=\"page-break-after: always\"></div>
+
 | Sepsis e                                                                | Common                                                                  | Common                                                                  |
+|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | Cellulitis                                                              | Common                                                                  | Common                                                                  |
 | Neoplasm benign, malignant and unspecified (including cysts and polyps) | Neoplasm benign, malignant and unspecified (including cysts and polyps) | Neoplasm benign, malignant and unspecified (including cysts and polyps) |
 | Tumour flare                                                            | Common                                                                  |                                                                         |
@@ -439,35 +498,26 @@ Adverse reactions for epcoritamab from clinical studies (Table 7) are listed by 
 | Fatigue q                                                               | Very common                                                             | Common                                                                  |
 | Pyrexia r                                                               | Very common                                                             | Common                                                                  |
 | Oedema s                                                                | Very common                                                             | Common                                                                  |
-| Investigations                                                          |                                                                         |                                                                         |
+| Investigations                                                          | Investigations                                                          | Investigations                                                          |
+| Alanine aminotransferase increased                                      | Common                                                                  | Common                                                                  |
+| Aspartate aminotransferase increased                                    | Common                                                                  | Common                                                                  |
+| Blood creatinine increased                                              | Common                                                                  |                                                                         |
+| Blood sodium decreased t                                                | Common                                                                  | Uncommon                                                                |
+| Alkaline phosphatase increased                                          | Common                                                                  |                                                                         |
+| Adverse reactions were graded using                                     | NCI CTCAE version 5.0                                                   |                                                                         |
 
 <div style=\"page-break-after: always\"></div>
 
-| Alanine aminotransferase increased   | Common   | Common   |
-|--------------------------------------|----------|----------|
-| Aspartate aminotransferase increased | Common   | Common   |
-| Blood creatinine increased           | Common   |          |
-| Blood sodium decreased t             | Common   | Uncommon |
-| Alkaline phosphatase increased       | Common   |          |
-
-Adverse reactions were graded using NCI CTCAE version 5.0
-
-a Viral infection includes COVID-19, cytomegalovirus chorioretinitis, cytomegalovirus colitis, cytomegalovirus infection, cytomegalovirus infection reactivation, gastroenteritis viral, herpes simplex,
+- a Viral infection includes COVID-19, cytomegalovirus chorioretinitis, cytomegalovirus colitis, cytomegalovirus infection, cytomegalovirus infection reactivation, gastroenteritis viral, herpes simplex,
 
 herpes simplex reactivation, herpes virus infection, herpes zoster, oral herpes, post-acute COVID-
 
-19 syndrome, and varicella zoster virus infection
-
-b Pneumonia includes COVID-19 pneumonia and pneumonia
-
-c Upper respiratory tract infection includes laryngitis, pharyngitis, respiratory syncytial virus infection, rhinitis, rhinovirus infection, and upper respiratory tract infection
-
+- 19 syndrome, and varicella zoster virus infection
+- b Pneumonia includes COVID-19 pneumonia and pneumonia
+- c Upper respiratory tract infection includes laryngitis, pharyngitis, respiratory syncytial virus infection, rhinitis, rhinovirus infection, and upper respiratory tract infection
 - d Fungal infection includes candida infection, oesophageal candidiasis, oral candidiasis and oropharyngeal candidiasis
-
-e Sepsis includes bacteraemia, sepsis, and septic shock
-
-f Neutropenia includes neutropenia and neutrophil count decreased
-
+- e Sepsis includes bacteraemia, sepsis, and septic shock
+- f Neutropenia includes neutropenia and neutrophil count decreased
 - g Anaemia includes anaemia and serum ferritin decreased
 - h Thrombocytopenia includes platelet count decreased and thrombocytopenia
 - i Lymphopenia includes lymphocyte count decreased and lymphopenia
@@ -477,31 +527,107 @@ f Neutropenia includes neutropenia and neutrophil count decreased
 l Cardiac arrhythmias include bradycardia, sinus bradycardia, sinus tachycardia, supraventricular tachycardia, and tachycardia
 
 - m Abdominal pain includes abdominal discomfort, abdominal pain, abdominal pain lower, abdominal pain upper, and abdominal tenderness
+- n Rash includes rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, rash pustular, and rash vesicular
+- o Musculoskeletal pain includes back pain, bone pain, flank pain, musculoskeletal chest pain, musculoskeletal pain, myalgia, neck pain, non-cardiac chest pain, pain, pain in extremity, and spinal pain
 
-n Rash includes rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, rash pustular, and rash vesicular o Musculoskeletal pain includes back pain, bone pain, flank pain, musculoskeletal chest pain,
+p Injection site reactions include injection site bruising, injection site erythema, injection site hypertrophy, injection site inflammation, injection site mass, injection site nodule, injection site oedema, injection site pain, injection site pruritus, injection site rash, injection site reaction, injection site swelling, and injection site urticaria.
 
-musculoskeletal pain, myalgia, neck pain, non-cardiac chest pain, pain, pain in extremity, and spinal pain p Injection site reactions include injection site bruising, injection site erythema, injection site hypertrophy,
-
-- injection site inflammation, injection site mass, injection site nodule, injection site oedema, injection site pain, injection site pruritus, injection site rash, injection site reaction, injection site swelling, and injection site urticaria.
-
-q Fatigue includes asthenia, fatigue, and lethargy
-
+- q Fatigue includes asthenia, fatigue, and lethargy
 - r Pyrexia includes body temperature increased and pyrexia
-- s Oedema includes face oedema, generalised oedema,  oedema, oedema peripheral,  peripheral swelling, swelling, and swelling face
+- s Oedema includes face oedema, generalised oedema, oedema, oedema peripheral, peripheral swelling, swelling, and swelling face
 
 t Blood sodium decreased includes blood sodium decreased and hyponatraemia
+
+Table 9 Adverse reactions reported in patients with relapsed or refractory FL treated with epcoritamab in combination with lenalidomide and rituximab
+
+| System organ class / preferred term or adverse reaction   | All grades                           | Grade 3-4                            |
+|-----------------------------------------------------------|--------------------------------------|--------------------------------------|
+| Infections and infestations                               | Infections and infestations          | Infections and infestations          |
+| Upper respiratory tract infections a                      | Very common                          | Common                               |
+| COVID-19 b                                                | Very common                          | Common #                             |
+| Pneumonia c                                               | Very common                          | Very common                          |
+| Cytomegalovirus infection d                               | Common                               | Common #                             |
+| Herpes virus infection e                                  | Common                               | Uncommon #                           |
+| Fungal infection f                                        | Common                               | Uncommon                             |
+| Blood and lymphatic system disorders                      | Blood and lymphatic system disorders | Blood and lymphatic system disorders |
+| Neutropenia g                                             | Very common                          | Very common                          |
+| Anaemia h                                                 | Very common                          | Common #                             |
+| Thrombocytopenia i                                        | Very common                          | Common                               |
+| Lymphopenia j                                             | Very common                          | Very common                          |
+
+<div style=\"page-break-after: always\"></div>
+
+| Febrile neutropenia                                      | Common                                               | Common        |
+|----------------------------------------------------------|------------------------------------------------------|---------------|
+| Immune system disorders                                  |                                                      |               |
+| Cytokine release syndrome ‡                              | Very common                                          |               |
+| Hypogammaglobulinaemia k                                 | Very common                                          | Uncommon      |
+| Psychiatric disorders                                    |                                                      |               |
+| Insomnia                                                 | Very common                                          |               |
+| Nervous system disorders                                 |                                                      |               |
+| Neurological changes l                                   | Very common                                          |               |
+| Headache                                                 | Very common                                          |               |
+| Immune effector cell-associated neurotoxicity syndrome ‡ | Uncommon                                             |               |
+| Gastrointestinal disorders                               |                                                      |               |
+| Diarrhoea                                                | Very common                                          | Common #      |
+| Constipation                                             | Very common                                          | Uncommon #    |
+| Nausea                                                   | Very common                                          |               |
+| Mucositis m                                              | Common                                               |               |
+| Skin and subcutaneous tissue disorders                   | Skin and subcutaneous tissue disorders               |               |
+| Rash n                                                   | Very common                                          | Very common # |
+| General disorders and administration site conditions     | General disorders and administration site conditions |               |
+| Fatigue o                                                | Very common                                          | Common #      |
+| Injection site reactions p                               | Very common                                          |               |
+| Pyrexia                                                  | Very common                                          | Uncommon #    |
+| Investigations                                           |                                                      |               |
+| Blood potassium decreased q                              | Very common                                          | Common #      |
+| Alanine aminotransferase increased                       | Very common                                          | Common #      |
+| Aspartate aminotransferase increased                     | Very common                                          | Common #      |
+
+- a Upper respiratory tract infections include acute sinusitis, laryngitis, nasopharyngitis, pharyngitis, respiratory syncytial virus infection, rhinitis, rhinovirus infection, sinusitis, upper respiratory tract infection.
+
+b COVID-19 includes COVID-19, COVID-19 pneumonia, coronavirus infection, coronavirus pneumonia. c Pneumonia includes atypical pneumonia, bronchopulmonary aspergillosis, infective exacerbation of bronchiectasis, pneumocystis jirovecii pneumonia, pneumonia, pneumonia acinetobacter, pneumonia bacterial, pneumonia cytomegaloviral, pneumonia fungal, pneumonia haemophilus, pneumonia influenza, pneumonia legionella, pneumonia mycoplasma, pneumonia parainfluenza viral, pneumonia pneumococcal, pneumonia pseudomonal, pneumonia respiratory syncytial viral, pneumonia viral.
+
+- d Cytomegalovirus infection includes cytomegalovirus chorioretinitis, cytomegalovirus colitis, cytomegalovirus infection, cytomegalovirus infection reactivation, cytomegalovirus viraemia.
+- e Herpesvirus infection includes congenital herpes simplex infection, herpes simplex, herpes simplex reactivation, herpes virus infection, herpes zoster, oral herpes, varicella zoster virus infection. f
+
+Fungal infection includes candida infection, oral candidiasis, skin candida, vulvovaginal candidiasis.
+
+- g Neutropenia includes neutropenia, neutrophil count decreased.
+
+h Anaemia includes anaemia, serum ferritin decreased.
+
+- i Thrombocytopenia includes platelet count decreased, thrombocytopenia.
+
+j Lymphopenia includes lymphocyte count decreased, lymphopenia.
+
+- k Hypogammaglobulinaemia includes blood immunoglobulin G decreased, hypogammaglobulinaemia, hypoglobulinaemia, immunoglobulins decreased.
+
+l Neurological changes include balance disorder, brain fog, cognitive disorder, confusional state,
+
+disturbance in attention, dysphonia, essential tremor, hypoacusis, memory impairment, tremor, vertigo.
+
+<div style=\"page-break-after: always\"></div>
+
+m Mucositis includes aphthous ulcer, mouth ulceration, mucosal infection, mucosal inflammation, oropharyngeal pain, stomatitis.
+
+n Rash includes application site rash, blister, catheter site rash, dermatitis, erythema, rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, rash pustular, skin exfoliation, skin reaction, toxic skin eruption, urticaria.
+
+o Fatigue includes asthenia, fatigue, lethargy, malaise.
+
+p Injection site reactions include injection site cellulitis, injection site erythema, injection site inflammation, injection site nodule, injection site pain, injection site pruritus, injection site reaction, injection site swelling.
+
+q Blood potassium decreased includes hypokalaemia.
 
 ## Description of selected adverse reactions
 
 ## Cytokine release syndrome
 
+## Epcoritamab monotherapy
+
 ## 2-step step-up dose schedule (large B-cell lymphoma and follicular lymphoma)
 
-In study GCT3013-01, CRS of any grade occurred in 58% (171/296) of patients with large B-cell lymphoma and follicular lymphoma treated with epcoritamab at the 2-step step-up dose schedule. The incidence of Grade 1 was 35%, Grade 2 was 21%, and Grade 3 occurred in 2.4% of patients. Recurrent CRS occurred in 21% of patients. CRS of any grade occurred in 9.8% of patients after the priming dose (Cycle 1 Day 1); 13% after the intermediate dose (Cycle 1, Day 8); 51% after the first full dose (Cycle 1, Day 15), 6.5% after the second full dose (Cycle 1 Day 22) and 3.7% after the third full dose (Cycle 2 Day 1) or beyond. The median time to onset of CRS from the most recent administered epcoritamab dose
-
-<div style=\"page-break-after: always\"></div>
-
-was 2 days (range: 1 to 12 days). The median time to onset after the first full dose was 19.3 hours (range: &lt;0.1 to 7 days). CRS resolved in 99% of patients, and the median duration of CRS events was 2 days (range 1 to 54 days).
+In study GCT3013-01, CRS of any grade occurred in 58% (171/296) of patients with large B-cell lymphoma and follicular lymphoma treated with epcoritamab at the 2-step step-up dose schedule. The incidence of Grade 1 was 35%, Grade 2 was 21%, and Grade 3 occurred in 2.4% of patients. Recurrent CRS occurred in 21% of patients. CRS of any grade occurred in 9.8% of patients after the priming dose (Cycle 1 Day 1); 13% after the intermediate dose (Cycle 1, Day 8); 51% after the first full dose (Cycle 1, Day 15), 6.5% after the second full dose (Cycle 1 Day 22) and 3.7% after the third full dose (Cycle 2 Day 1) or beyond. The median time to onset of CRS from the most recent administered epcoritamab dose was 2 days (range: 1 to 12 days). The median time to onset after the first full dose was 19.3 hours (range: &lt;0.1 to 7 days). CRS resolved in 99% of patients, and the median duration of CRS events was 2 days (range 1 to 54 days).
 
 Of the 171 patients that experienced CRS, the most common signs and symptoms of CRS included pyrexia 99%, hypotension 32% and hypoxia 16%. Other signs and symptoms of CRS in ≥3% of patients included chills (11%), tachycardia (including sinus tachycardia (11%)), headache (8.2%), nausea (4.7%), and vomiting (4.1%). Transient elevated liver enzymes (ALT or AST &gt; 3xULN) were concurrent with CRS in 4.1% of patients with CRS. See section 4.2 and 4.4 for monitoring and management guidance.
 
@@ -513,11 +639,25 @@ Serious adverse reactions due to CRS occurred in 28% of patients who received ep
 
 Of the 42 patients that experienced CRS at the recommended dose, the most common (≥10%) signs and symptoms of CRS included pyrexia (100%) and hypotension (14%). In addition to corticosteroid use, tocilizumab was used to manage CRS event in 12% of patients.
 
+## Epcoritamab in combination with lenalidomide and rituximab
+
+<div style=\"page-break-after: always\"></div>
+
+In study M20-638, CRS of any grade occurred in 26% (35/133) of patients treated with epcoritamab at the recommended 3-step step-up dose schedule in combination with lenalidomide and rituximab. The incidence of Grade 1 CRS was 21% (28/133) and Grade 2 was 5.3% (7/133). At the time of analysis, there were no Grade ≥3 CRS events reported. Recurrent CRS occurred in 10% (13/133) of patients. Of all the CRS events, most (88%) occurred during Cycle 1. In Cycle 1, CRS occurred in 6% (8/133) of patients after the priming dose (Cycle 1 Day 1), 3.8% (5/133) of patients after the first intermediate dose (Cycle 1 Day 8), 2.3% (3/132) of patients after the second intermediate dose (Cycle 1 Day 15), and 19% (25/132) of patients after the first full dose (Cycle 1 Day 22). The median time to onset of CRS from the most recently administered epcoritamab dose across all doses was 78 hours (range: 0.2 to 12 days). The median time to onset after the first full 48 mg dose was 41 hours (range: 0.3 to 12 days). CRS resolved in 100% of patients and the median duration of CRS events was 2 days (range: 0.1 to 26 days).
+
 ## Immune effector cell-associated neurotoxicity syndrome
+
+## Epcoritamab monotherapy
 
 In study GCT3013-01, ICANS occurred in 4.7% (18/382) of patients treated with epcoritamab; 3.1% experienced Grade 1 and 1.3% experienced Grade 2. One patient (0.3%) experienced an ICANS event of Grade 5 (fatal). The median time to first ICANS onset from the start of epcoritamab treatment (Cycle 1 Day 1) was 18 days (range: 8 to 141 days). ICANS resolved in 94% (17/18) of patients with supportive care. The median time to resolution of ICANS was 2 days (range: 1 to 9 days). In the 18 patients with ICANS, the onset of ICANS was prior to CRS in 11% of patients, concurrent with CRS in 44%, following onset of CRS in 17%, and in the absence of CRS in 28%.
 
+## Epcoritamab in combination with lenalidomide and rituximab
+
+In study M20-638, ICANS occurred in 0.8% (1/133) of patients with FL treated with epcoritamab at the recommended 3-step step-up dose schedule in combination with lenalidomide and rituximab, with a single event reported as Grade 1. The event occurred after the 48 mg dose on Cycle 1 Day 22 and ICANS resolved in 3 days.
+
 ## Serious infections
+
+## Epcoritamab monotherapy
 
 ## Large B-cell lymphoma
 
@@ -525,25 +665,47 @@ In study GCT3013-01, serious infections of any grade occurred in 25% (41/167) of
 
 ## Follicular lymphoma
 
-In study GCT3013-01, serious infections of any grade occurred in 32% (68/215) of patients with follicular lymphoma treated with epcoritamab. The most frequent serious infections included COVID-19 (8.8%), COVID-19 pneumonia (5.6%), pneumonia (3.7%), urinary tract infection (1.9%), and pneumocystis jirovecii pneumonia (1.4%). The median time to onset of first serious infection from the start of epcoritamab treatment (Cycle 1 Day 1) was 81 days (range: 1 to 636 days), with median duration
+In study GCT3013-01, serious infections of any grade occurred in 32% (68/215) of patients with follicular lymphoma treated with epcoritamab. The most frequent serious infections included COVID-19 (8.8%), COVID-19 pneumonia (5.6%), pneumonia (3.7%), urinary tract infection (1.9%), and pneumocystis jirovecii pneumonia (1.4%). The median time to onset of first serious infection from the start of epcoritamab treatment (Cycle 1 Day 1) was 81 days (range: 1 to 636 days), with median duration of 18 days (range: 4 to 249 days). Grade 5 events of infection occurred in 8 (3.7%) patients , 6 (2.8%) of which were attributed to COVID-19 or COVID-19 pneumonia .
+
+## Epcoritamab in combination with lenalidomide and rituximab
 
 <div style=\"page-break-after: always\"></div>
 
-of 18 days (range: 4 to 249 days). Grade 5 events of infection occurred in 8 (3.7%) patients , 6 (2.8%) of which were attributed to COVID-19 or COVID-19 pneumonia .
+In study M20-638, serious infections, including opportunistic infections, were reported in 33% (81/243) of patients with FL treated with epcoritamab in combination with lenalidomide and rituximab. The most common were pneumonia (10%), COVID-19 (4.5%), and COVID-19 pneumonia (3.7%). The median time to onset of first serious infection from the start of epcoritamab in combination with lenalidomide and rituximab (Cycle 1 Day 1) was 91 days (range: 2 to 418 days), with median duration of 13 days (range: 1 to 123 days).
 
 ## Neutropenia
 
+## Epcoritamab monotherapy
+
 In study GCT3013-01, neutropenia of any grade occurred in 28% (105/382) of patients, including 23% Grade 3-4 events. The median time to onset of first neutropenia/neutrophil count decreased event was 65 days (range: 2 to 750 days), with median duration of 15 days (range: 2 to 415 days). Of the 105 patients who had neutropenia/neutrophil count decreased events, 61% received G-CSF to treat the events.
+
+## Epcoritamab in combination with lenalidomide and rituximab
+
+In study M20-638, neutropenia of any grade occurred in 74% (180/243) of patients, including 27% (66/243) Grade 3 and 42% (101/243) Grade 4 events. The median time to onset of the first neutropenia/neutrophil count decreased event was 57 days (range: 2 to 377 days), with median duration of 22 days (range: 3 to 219 days). Of the 167 patients who had Grade 3-4 neutropenia/neutrophil count decreased events, 87% (146/167) received G-CSF to treat the events.
 
 ## Tumour lysis syndrome
 
+## Epcoritamab monotherapy
+
 In study GCT3013-01, TLS occurred in 1.0% (4/382) of patients. Median time to onset was 18 days (range 8 to 33 days), and median duration was 3 days (range 2 to 4 days).
+
+## Epcoritamab in combination with lenalidomide and rituximab
+
+In study M20-638, laboratory TLS occurred in one (1) patient. The event occurred on Cycle 1 Day 10 and resolved within 6 days. Clinical TLS was not observed in patients with FL treated with epcoritamab in combination with lenalidomide and rituximab.
 
 ## Tumour flare
 
+## Epcoritamab monotherapy
+
 In study GCT3013-01, tumour flare occurred in 1.6% (6/382) of patients, all of which were grade 2. The median time to onset was 19.5 days (range 9 to 34 days), and median duration was 9 days (range 1 to 50 days).
 
+## Epcoritamab in combination with lenalidomide and rituximab
+
+In study M20-638, tumour flare occurred in 1.2% (3/243) of patients, 0.8% (2/243) experienced Grade 2 and 0.4% (1/243) Grade 3. The median time to onset was 8 days (range 7 to 20 days), and median duration was 7.5 days (range 3 to 12 days).
+
 ## Reporting of suspected adverse reactions
+
+<div style=\"page-break-after: always\"></div>
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
@@ -563,13 +725,11 @@ Epcoritamab is a humanised IgG1-bispecific antibody that binds to a specific ext
 
 Epcoritamab Fc region is silenced to prevent target-independent immune effector mechanisms, such as antibody-dependent cellular cytotoxicity (ADCC), complement-dependent cellular cytotoxicity (CDC), and antibody-dependent cellular phagocytosis (ADCP).
 
+In preclinical studies, the combination of epcoritamab and rituximab did not lead to functional interference and results in complementary NK cell mediated antibody-dependent cellular cytotoxicity (ADCC) and T-cell mediated cytotoxicity.
+
 ## Pharmacodynamic effects
 
-Epcoritamab induced rapid and sustained depletion of circulating B-cells (defined as CD19 B-cell counts  ≤10 cell/µl) in the subjects who have detectable B cells at treatment initiation. There were 21% subjects (n=33) with DLBCL and 50% subjects (n=56) with FL who had detectable circulating B-cells at
-
-<div style=\"page-break-after: always\"></div>
-
-treatment initiation. Transient reduction in circulating T cells was observed immediately after each dose in Cycle 1 and followed by T cell expansion in subsequent cycles.
+Epcoritamab induced rapid and sustained depletion of circulating B-cells (defined as CD19 B-cell counts  ≤10 cell/µl) in the subjects who have detectable B cells at treatment initiation. There were 21% subjects (n=33) with DLBCL and 50% subjects (n=56) with FL who had detectable circulating B-cells at treatment initiation. Transient reduction in circulating T cells was observed immediately after each dose in Cycle 1 and followed by T cell expansion in subsequent cycles.
 
 In study GCT3013-01, following subcutaneous administration of epcoritamab at the recommended 2-step step-up dose schedule in patients with LBCL, transient and modest elevations of circulating levels of selected cytokines (IFN-γ, TNFα, IL-6, IL-2, and IL-10) occurred mostly after the first full dose (48 mg), with peak levels between 1 to 4 days post dose. Cytokine levels returned to baseline prior to the next full dose, however elevations of cytokines could also be observed after Cycle 1.
 
@@ -577,9 +737,15 @@ In study GCT3013-01, following subcutaneous administration of epcoritamab at the
 
 ## Immunogenicity
 
-Anti-drug antibodies (ADA) were commonly detected. The incidence of treatment-emergent ADAs with the 2-step step-up dose schedule (0.16/0.8/48 mg) in the combined population of DLBCL and FL was 3.4% (3.4 % positive, 93.9% negative and 2.7% indeterminate, N=261 evaluable patients) and 3.3% (3.3% positive, 95% negative and 1.7% indeterminate, N= 60 evaluable patients), in studies GCT3013-01 and GCT3013-04, respectively.
+Anti-drug antibodies (ADA) were commonly detected. The incidence of treatment-emergent ADAs with the 2-step step-up dose schedule (0.16/0.8/48 mg) in the combined population of DLBCL and FL was 3.4% (3.4 % positive, 93.9% negative and 2.7% indeterminate, N=261 evaluable patients) and 3.3%
+
+<div style=\"page-break-after: always\"></div>
+
+(3.3% positive, 95% negative and 1.7% indeterminate, N= 60 evaluable patients), in studies GCT3013-01 and GCT3013-04, respectively.
 
 The incidence of treatment-emergent ADAs with the 3-step step-up dose schedule (0.16/0.8/3/48 mg) in the FL optimisation cohort was 7% (7% positive, 91.5% negative and 1.4% indeterminate, N=71 evaluable patients) in study GCT3013-01. A subject is classified as indeterminate if the patient is confirmed ADA positive at baseline but there is no confirmed positive on-treatment record or if confirmed ADA positive on treatment record titre are equal or lower than baseline.
+
+Anti-epcoritamab antibodies developed in 2.1% of patients (5 of 238) with FL treated with epcoritamab in combination with lenalidomide and rituximab in study M20-638 (up to 12 cycles).
 
 No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed, however, data are still limited. Neutralising antibodies were not evaluated.
 
@@ -587,11 +753,9 @@ No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed, 
 
 ## Diffuse large B-cell lymphoma
 
-Study GCT3013-01 was an open-label, multi-cohort, multicentre, single-arm study that evaluated epcoritamab as monotherapy in patients with relapsed or refractory large B-cell lymphoma (LBCL) after two or more lines of systemic therapy, including diffuse large B-cell lymphoma (DLBCL). The study includes a dose escalation part and an expansion part. The expansion part of the study included an aggressive non-Hodgkin lymphoma (aNHL) cohort, an indolent NHL (iNHL) cohort and a mantle-cell lymphoma (MCL) cohort. The pivotal aNHL cohort consisted of patients with LBCL (N=157), including patients with DLBCL (N=139, 12 patients of which had MYC, BCL2, and/or BCL6 rearrangements i.e., DH/TH), with high-grade B-cell lymphoma (HGBCL) (N=9), with follicular lymphoma grade 3B (FL) (N=5) and patients with primary mediastinal B-cell lymphoma (PMBCL) (N=4). In the DLBCL cohort, 29% (40/139) of patients had transformed DLBCL arising from indolent lymphoma. Patients included in the study were required to have documented CD20+ mature B-cell neoplasm according to WHO classification 2016 or WHO classification 2008 based on representative pathology report, failed prior autologous hematopoietic stem cell transplantation (HSCT) or were ineligible for autologous HSCT, patients who had lymphocyte counts &lt; 5×10 9 /L, and patients with at least 1 prior anti-CD20 monoclonal antibody-containing therapy.
+Study GCT3013-01 was an open-label, multi-cohort, multicentre, single-arm study that evaluated epcoritamab as monotherapy in patients with relapsed or refractory large B-cell lymphoma (LBCL) after two or more lines of systemic therapy, including diffuse large B-cell lymphoma (DLBCL). The study included a dose escalation part and an expansion part. The expansion part of the study included an aggressive non-Hodgkin lymphoma (aNHL) cohort, an indolent NHL (iNHL) cohort and a mantle-cell lymphoma (MCL) cohort. The pivotal aNHL cohort consisted of patients with LBCL (N=157), including patients with DLBCL (N=139, 12 patients of which had MYC, BCL2, and/or BCL6 rearrangements i.e., DH/TH), with high-grade B-cell lymphoma (HGBCL) (N=9), with follicular lymphoma grade 3B (FL) (N=5) and patients with primary mediastinal B-cell lymphoma (PMBCL) (N=4). In the DLBCL cohort, 29% (40/139) of patients had transformed DLBCL arising from indolent lymphoma. Patients included in the study were required to have documented CD20+ mature B-cell neoplasm according to WHO classification 2016 or WHO classification 2008 based on representative pathology report, failed prior autologous hematopoietic stem cell transplantation (HSCT) or were ineligible for autologous HSCT, patients who had lymphocyte counts &lt; 5×10 9 /L, and patients with at least 1 prior anti-CD20 monoclonal antibody-containing therapy.
 
 The study excluded patients with central nervous system (CNS) involvement of lymphoma, prior treatment with allogeneic HSCT or solid organ transplant, chronic ongoing infectious diseases, any patients with known impaired T-cell immunity, a creatinine clearance of less than 45 ml/min, alanine aminotransferase &gt; 3 times the upper limit of normal, cardiac ejection fraction less than 45%, and known clinically significant cardiovascular disease. Efficacy was evaluated in 139 patients with DLBCL who had received at least one dose of epcoritamab SC in cycles of 4 weeks, i.e., 28 days. Epcoritamab monotherapy was administered at the recommended 2-step step-up dose schedule as follows:
-
-<div style=\"page-break-after: always\"></div>
 
 - Cycle 1: epcoritamab 0.16 mg on Day 1, 0.8 mg on Day 8, 48 mg on Day 15 and Day 22
 - Cycles 2-3: epcoritamab 48 mg on Days 1, 8, 15, and 22
@@ -600,51 +764,54 @@ The study excluded patients with central nervous system (CNS) involvement of lym
 
 Patients continued to receive epcoritamab until disease progression or unacceptable toxicity.
 
-The demographics and baseline characteristics are shown in Table 8.
+The demographics and baseline characteristics are shown in Table 10.
 
-Table 8 Demographics and baseline characteristics of patients with DLBCL in GCT3013-01 study
+Table 10 Demographics and baseline characteristics of patients with DLBCL in GCT3013-01 study
 
-| Characteristics                                                                                                     | (N=139)                                                                                                             |
-|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Age                                                                                                                 |                                                                                                                     |
-| Median, years (min, max)                                                                                            | 66 (22, 83)                                                                                                         |
-| < 65 years, n (%)                                                                                                   | 66 (47)                                                                                                             |
-| 65 to < 75 years, n (%)                                                                                             | 44 (32)                                                                                                             |
-| ≥ 75 years, n (%)                                                                                                   | 29 (21)                                                                                                             |
-| Males, n (%)                                                                                                        | 85 (61)                                                                                                             |
-| Race, n (%)                                                                                                         |                                                                                                                     |
-| White                                                                                                               | 84 (60)                                                                                                             |
-| Asian                                                                                                               | 27 (19)                                                                                                             |
-| Other                                                                                                               | 5 (4)                                                                                                               |
-| Not Reported                                                                                                        | 23 (17)                                                                                                             |
-| ECOG performance status; n (%)                                                                                      |                                                                                                                     |
-| 0                                                                                                                   | 67 (48)                                                                                                             |
-| 1                                                                                                                   | 67 (48)                                                                                                             |
-| 2                                                                                                                   | 5 (4)                                                                                                               |
-| Disease stage c at initial diagnosis, n (%)                                                                         |                                                                                                                     |
-| III                                                                                                                 | 16 (12)                                                                                                             |
-| IV                                                                                                                  | 86 (62)                                                                                                             |
-| Number of prior lines of anti-lymphoma therapy                                                                      |                                                                                                                     |
-| Median (min, max)                                                                                                   | 3 (2, 11)                                                                                                           |
-| 2, n (%)                                                                                                            | 41 (30)                                                                                                             |
-| 3, n (%)                                                                                                            | 47 (34)                                                                                                             |
-| ≥ 4, n (%)                                                                                                          | 51 (37)                                                                                                             |
-| DLBCL Disease history; n (%)                                                                                        |                                                                                                                     |
-| De Novo DLBCL                                                                                                       | 97 (70)                                                                                                             |
-| DLBCL transformed from indolent lymphoma                                                                            | 40 (29)                                                                                                             |
-| FISH Analysis Per Central lab d , N=88                                                                              |                                                                                                                     |
-| Double-hit/Triple-hit lymphoma, n (%)                                                                               | 12 (14)                                                                                                             |
-| Prior autologous HSCT                                                                                               | 26 (19)                                                                                                             |
-| Prior therapy; n (%)                                                                                                |                                                                                                                     |
-| Prior CAR-T                                                                                                         | 53 (38)                                                                                                             |
-| Primary refractory disease a                                                                                        | 82 (59)                                                                                                             |
-| Refractory to ≥ 2 consecutive lines of prior anti-lymphoma therapy b                                                | 104 (75)                                                                                                            |
-| Refractory to the last line of systemic antineoplastic therapy b                                                    | 114 (82)                                                                                                            |
-| Refractory to prior anti-CD20 therapy                                                                               | 117 (84)                                                                                                            |
-| Refractory to CAR-T                                                                                                 | 39 (28)                                                                                                             |
-| a A patient is considered to be primary refractory if the patient is refractory to frontline anti-lymphoma therapy. | a A patient is considered to be primary refractory if the patient is refractory to frontline anti-lymphoma therapy. |
+| Characteristics          | (N=139)     |
+|--------------------------|-------------|
+| Age                      |             |
+| Median, years (min, max) | 66 (22, 83) |
+| < 65 years, n (%)        | 66 (47)     |
 
 <div style=\"page-break-after: always\"></div>
+
+| 65 to < 75 years, n (%)                                              | 44 (32)   |
+|----------------------------------------------------------------------|-----------|
+| ≥ 75 years, n (%)                                                    | 29 (21)   |
+| Males, n (%)                                                         | 85 (61)   |
+| Race, n (%)                                                          |           |
+| White                                                                | 84 (60)   |
+| Asian                                                                | 27 (19)   |
+| Other                                                                | 5 (4)     |
+| Not Reported                                                         | 23 (17)   |
+| ECOG performance status; n (%)                                       |           |
+| 0                                                                    | 67 (48)   |
+| 1                                                                    | 67 (48)   |
+| 2                                                                    | 5 (4)     |
+| Disease stage c at initial diagnosis, n (%)                          |           |
+| III                                                                  | 16 (12)   |
+| IV                                                                   | 86 (62)   |
+| Number of prior lines of anti-lymphoma therapy                       |           |
+| Median (min, max)                                                    | 3 (2, 11) |
+| 2, n (%)                                                             | 41 (30)   |
+| 3, n (%)                                                             | 47 (34)   |
+| ≥ 4, n (%)                                                           | 51 (37)   |
+| DLBCL Disease history; n (%)                                         |           |
+| De Novo DLBCL                                                        | 97 (70)   |
+| DLBCL transformed from indolent lymphoma                             | 40 (29)   |
+| FISH Analysis Per Central lab d , N=88                               |           |
+| Double-hit/Triple-hit lymphoma, n (%)                                | 12 (14)   |
+| Prior autologous HSCT                                                | 26 (19)   |
+| Prior therapy; n (%)                                                 |           |
+| Prior CAR-T                                                          | 53 (38)   |
+| Primary refractory disease a                                         | 82 (59)   |
+| Refractory to ≥ 2 consecutive lines of prior anti-lymphoma therapy b | 104 (75)  |
+| Refractory to the last line of systemic antineoplastic therapy b     | 114 (82)  |
+| Refractory to prior anti-CD20 therapy                                | 117 (84)  |
+| Refractory to CAR-T                                                  | 39 (28)   |
+
+a A patient is considered to be primary refractory if the patient is refractory to frontline anti-lymphoma therapy.
 
 b A patient is considered to be refractory if the patient either experiences disease progression during therapy or disease progression within &lt; 6 months after therapy completion. A patient is considered relapsed if the patient had recurred disease ≥ 6 months after therapy completion.
 
@@ -654,23 +821,30 @@ d Post hoc central lab FISH analysis was performed on available diagnostic basel
 
 The primary efficacy endpoint was overall response rate (ORR) determined by Lugano criteria (2014) as assessed by Independent Review Committee (IRC). The median follow-up time was 15.7 months (range: 0.3 to 23.5 months). The median duration of exposure was 4.1 months (range: 0 to  23 months).
 
-Table 9 Efficacy results in study GCT3013-01 in patients with DLBCL a
+Table 11 Efficacy results in study GCT3013-01 in patients with DLBCL a
 
-| Endpoint IRC assessment     | Epcoritamab (N=139)   |
-|-----------------------------|-----------------------|
-| ORR b , n (%)               | 86 (62)               |
-| (95% CI)                    | (53.3, 70)            |
-| CR b , n (%)                | 54 (39)               |
-| (95% CI)                    | (30.7, 47.5)          |
-| PR, n (%)                   | 32 (23)               |
-| (95% CI)                    | (16.3, 30.9)          |
-| DOR b                       |                       |
-| Median (95% CI), months     | 15.5 (9.7, NR)        |
-| DOCR b                      |                       |
-| Median (95% CI), months     | NR (12.0, NR)         |
-| TTR, median (range), months | 1.4 (1, 8.4)          |
+| Endpoint       | Epcoritamab   |
+|----------------|---------------|
+| IRC assessment | (N=139)       |
 
-CI = confidence interval; CR = complete response; DOR = duration of response; DOCR = duration of complete response; IRC = independent review committee; ORR = overall response rate; PR = partial response; TTR = time to response a Determined by Lugano criteria (2014) as assessed by independent review committee (IRC)
+<div style=\"page-break-after: always\"></div>
+
+| ORR b , n (%)               | 86 (62)        |
+|-----------------------------|----------------|
+| (95% CI)                    | (53.3, 70)     |
+| CR b , n (%)                | 54 (39)        |
+| (95% CI)                    | (30.7, 47.5)   |
+| PR, n (%)                   | 32 (23)        |
+| (95% CI)                    | (16.3, 30.9)   |
+| DOR b                       |                |
+| Median (95% CI), months     | 15.5 (9.7, NR) |
+| DOCR b                      |                |
+| Median (95% CI), months     | NR (12.0, NR)  |
+| TTR, median (range), months | 1.4 (1, 8.4)   |
+
+CI = confidence interval; CR = complete response; DOR = duration of response; DOCR = duration of complete response; IRC = independent review committee; ORR = overall response rate; PR = partial response; TTR = time to response
+
+a Determined by Lugano criteria (2014) as assessed by independent review committee (IRC)
 
 b Included patients with initial PD by Lugano or IR by LYRIC who later obtained PR/CR.
 
@@ -678,11 +852,129 @@ The median time to CR was 2.6 months (range: 1.2 to 10.2 months).
 
 ## Follicular lymphoma
 
-Study GCT3013-01 was an open-label, multi-cohort, multicentre, single-arm trial that evaluated epcoritamab as monotherapy in patients with relapsed or refractory follicular lymphoma (FL) after two or more lines of systemic therapy. The study includes a dose escalation part, an expansion part and a 3-step step-up dose optimisation part. The expansion part of the study included an aggressive non-Hodgkin lymphoma (aNHL) cohort, an indolent NHL (iNHL) cohort and a mantle-cell lymphoma (MCL) cohort. The pivotal iNHL cohort, included patients with FL. Patients included in the study were required to have documented CD20+ mature B-cell neoplasm according to WHO classification 2016 or WHO classification 2008 based on representative pathology report with histologic confirmed FL 1-3A at initial diagnosis without clinical or pathological evidence of transformation. All patients had relapsed or refractory disease to the last prior line therapy and previously treated with at least 2 lines of systemic antineoplastic therapy, including at least 1 anti-CD20 monoclonal antibody-containing therapy and an alkylating agent or lenalidomide. The study excluded patients with CNS involvement of lymphoma , allogeneic HSCT or solid organ transplant, ongoing active infectious diseases, any patients with known impaired T-cell immunity, a creatinine clearance of less than 45 ml/min, alanine aminotransferase &gt;3 times the upper limit of normal and cardiac ejection fraction less than 45%. Efficacy was evaluated in
+## M20-638
+
+Study M20-638 was an open-label, randomised, multicentre trial which evaluated epcoritamab in combination with lenalidomide and rituximab in patients with relapsed or refractory follicular lymphoma (FL) after one prior line of therapy. Patients were randomised to receive epcoritamab in combination with lenalidomide and rituximab or lenalidomide and rituximab alone. The study included patients with histologically confirmed classic FL (previously Grade 1 to 3a FL) stage II, III, or IV with no evidence of histologic transformation to an aggressive lymphoma and CD20+ disease based on the most recent representative pathology report, according to the 5th edition of WHO Classification, R/R disease after receiving treatment with at least one prior anti-lymphoma regimen that contained an antiCD20 monoclonal antibody in combination with chemotherapy, Eastern Cooperative Oncology Group (ECOG) performance status 0 to 2, no documented refractoriness to lenalidomide, no lenalidomide exposure within 12 months prior to randomisation, and the need for treatment initiation per investigator determination based on symptoms and/or disease burden (e.g., GELF criteria). The study excluded patients with known CNS involvement by lymphoma, prior allograft, known active infection, known impaired T-cell immunity, creatinine clearance &lt; 50 ml/min, alanine transaminase &gt; 3 times the upper limit of normal, and clinically significant cardiovascular disease. Patients received epcoritamab in 28-day cycles for a total of 12 cycles or until disease progression or unacceptable toxicity, whichever occurred first.
+
+The recommended epcoritamab 3-step step-up dose schedule was:
+
+- Cycle 1: epcoritamab 0.16 mg on Day 1, 0.8 mg on Day 8, 3 mg on Day 15, and 48 mg on Day 22
+- Cycles 2-3: epcoritamab 48 mg on Days 1, 8, 15, and 22
+- Cycles 4-12: epcoritamab 48 mg on Day 1
+
+In both treatment arms, lenalidomide was given orally at a dose of 20 mg once daily from Days 1 to 21 for 12 Cycles while rituximab was administered intravenously at a dose of 375 mg/m 2 on Days 1, 8, 15, and 22 of Cycle 1, followed by administration on Day 1 of Cycles 2 to 5.
 
 <div style=\"page-break-after: always\"></div>
 
-128 patients who had received epcoritamab subcutaneously (SC) in cycles of 4 weeks, i.e., 28 days. Epcoritamab was administered as a monotherapy in a 2-step step-up dose schedule as follows:
+The baseline demographics and disease-related baseline characteristics shown in Table 12 are based on the intent to treat (ITT) population.
+
+Table 12 Baseline demographics and disease-related baseline characteristics of patients with relapsed or refractory FL in study M20-638
+
+| Parameter                                                 | Epcoritamab + Lenalidomide and Rituximab (N=243)   | Lenalidomide and Rituximab (N=245)   |
+|-----------------------------------------------------------|----------------------------------------------------|--------------------------------------|
+| Age, years                                                |                                                    |                                      |
+| Median (range)                                            | 60 (30, 84)                                        | 63 (24, 89)                          |
+| Age distribution, n (%)                                   |                                                    |                                      |
+| <65 years                                                 | 155 (64)                                           | 139 (57)                             |
+| 65 to <75 years                                           | 68 (28)                                            | 71 (29)                              |
+| ≥75 years                                                 | 20 (8)                                             | 35 (14)                              |
+| Sex, n (%)                                                |                                                    |                                      |
+| Male                                                      | 139 (57)                                           | 138 (56)                             |
+| Race, n (%)                                               |                                                    |                                      |
+| White                                                     | 168 (71)                                           | 184 (76)                             |
+| Asian                                                     | 63 (27)                                            | 54 (22)                              |
+| Black or African American                                 | 6 (3)                                              | 2 (0.8)                              |
+| American Indian or Alaska Native                          | 0                                                  | 1 (0.4)                              |
+| Multiple                                                  | 1 (0.4)                                            | 1 (0.4)                              |
+| Missing                                                   | 5                                                  | 3                                    |
+| ECOG performance status, n (%)                            |                                                    |                                      |
+| 0                                                         | 166 (68)                                           | 170 (69)                             |
+| 1                                                         | 72 (30)                                            | 68 (28)                              |
+| 2                                                         | 5 (2)                                              | 7 (3)                                |
+| Ann Arbor stage, n (%)                                    |                                                    |                                      |
+| II                                                        | 37 (15)                                            | 44 (18)                              |
+| III                                                       | 74 (31)                                            | 68 (28)                              |
+| IV                                                        | 132 (54)                                           | 133 (54)                             |
+| Bulky disease a , n (%)                                   | 76 (32)                                            | 84 (35)                              |
+| FLIPI score at baseline, n (%)                            |                                                    |                                      |
+| 0-1                                                       | 63 (26)                                            | 56 (23)                              |
+| 2                                                         | 79 (33)                                            | 76 (31)                              |
+| 3-5                                                       | 100 (41)                                           | 113 (46)                             |
+| Number of prior lines of therapy                          |                                                    |                                      |
+| Median (min, max)                                         | 1 (1, 7)                                           | 1 (1, 6)                             |
+| 1, n (%)                                                  | 145 (60)                                           | 141 (58)                             |
+| 2, n (%)                                                  | 58 (24)                                            | 61 (25)                              |
+| ≥3, n (%)                                                 | 40 (17)                                            | 43 (18)                              |
+| Prior SCT, n (%)                                          | 23 (10)                                            | 18 (7)                               |
+| Refractory to last line of therapy, n (%)                 | 84 (35)                                            | 82 (34)                              |
+| Refractory to both anti-CD20 and alkylator therapy, n (%) | 91 (37)                                            | 91 (37)                              |
+| POD24, n (%)                                              | 106 (44)                                           | 93 (38)                              |
+
+ECOG = eastern cooperative oncology group; FLIPI = follicular lymphoma international prognostic index; SCT = stem cell transplant; POD24 = progression of disease within 24 months. a Nodal or extranodal &gt;6 cm.
+
+<div style=\"page-break-after: always\"></div>
+
+Efficacy was established based on dual primary endpoints, which were progression free survival (PFS) and overall response rate (ORR) determined by Lugano 2014 criteria as assessed by Independent Review Committee (IRC). Additional efficacy outcome measures included complete response (CR) and overall survival (OS). Study M20-638 demonstrated a statistically significant improvement in both PFS and ORR by IRC assessment for epcoritamab in combination with lenalidomide and rituximab compared to lenalidomide and rituximab alone. In the ITT population, the median duration of study follow-up in patients who were randomised to receive epcoritamab in combination with lenalidomide and rituximab was 14.8 months (range: 0 to 31). The median duration of study follow-up in patients who were randomised to receive lenalidomide and rituximab alone was 14.6 months (range: 0 to 30). The efficacy results are summarised in Table 13.
+
+Table 13: Efficacy results in M20-638 in patients with relapsed or refractory FL
+
+| Endpoint a              | Epcoritamab + Lenalidomide and Rituximab   | Lenalidomide and Rituximab   |
+|-------------------------|--------------------------------------------|------------------------------|
+| PFS b                   |                                            |                              |
+| Number of events, n (%) | 23 (9)                                     | 75 (31)                      |
+| Progressive disease     | 19 (83)                                    | 63 (84)                      |
+| Death                   | 4 (17)                                     | 12 (16)                      |
+| Median (95% CI), months | NR (21.9, NR)                              | 11.2 (10.5, NR)              |
+| Hazard ratio c (95% CI) | 0.21 (0.13, 0.33)                          | 0.21 (0.13, 0.33)            |
+| P-value d               | < 0.0001                                   | < 0.0001                     |
+| ORR b, e , n (%)        | 111 (96)                                   | 94 (81)                      |
+| (95% CI)                | (90.2, 98.6)                               | (72.7, 87.7)                 |
+| P-value f               | < 0.0001                                   | < 0.0001                     |
+| CRR b , n (%)           | 181 (74)                                   | 106 (43)                     |
+| (95% CI)                | (68.5, 79.8)                               | (37.0, 49.7)                 |
+| P-value f               | < 0.0001                                   | < 0.0001                     |
+| OS                      |                                            |                              |
+| Number of events, n (%) | 10 (4.1)                                   | 25 (10.2)                    |
+| Median (95% CI), months | NR (NR, NR)                                | NR (NR, NR)                  |
+| HR (95% CI) g           | 0.38 (0.18, 0.80)                          | 0.38 (0.18, 0.80)            |
+
+PFS = progression free survival; CI = confidence interval; NR = not reached; CRR = complete response rate; ORR = overall response rate; OS = overall survival
+
+a Determined by Lugano criteria with PET-CT (2014) as assessed by independent review committee (IRC).
+
+b PFS, ORR and CRR demonstrated statistical superiority for the epcoritamab in combination with lenalidomide and rituximab arm compared to the lenalidomide and rituximab arm at the time of the 10 January 2025 data cutoff, with a median duration of follow-up of 10.4 months.
+
+c Cox proportional hazards hazard ratio stratified by disease history and region.
+
+d Log-rank p-value (one sided) stratified by disease history and region.
+
+e ORR defined as proportion of patients with Best Overall Response (BOR) of CR or PR as assessed per Lugano criteria with PET-CT (2014), ORR was tested on first 232 randomised patients, 116 each arm.
+
+f P-value (one sided) is from a Cochran-Mantel-Haenszel test stratified by disease history and region. g OS analysis did not reach statistical significance at the data cutoff on 24 May 2025 and will be tested again at a later timepoint.
+
+The Kaplan-Meier curve for PFS as determined by Lugano 2014 criterial per IRC assessment is shown in Figure 1.
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 1: Kaplan-Meier Plot of PFS (ITT Population) Study M20-638
+
+<!-- image -->
+
+and Rituximab
+
+The Kaplan-Meier curve for OS is shown in Figure 2.
+
+Figure 2: Kaplan-Meier Plot of OS (ITT Population) in Study M20-638
+
+<!-- image -->
+
+## GCT3013-01
+
+Study GCT3013-01 was an open-label, multi-cohort, multicentre, single-arm trial that evaluated epcoritamab as monotherapy in patients with relapsed or refractory follicular lymphoma (FL) after two or more lines of systemic therapy. The study includes a dose escalation part, an expansion part and a 3-step step-up dose optimisation part. The expansion part of the study included an aggressive non-Hodgkin lymphoma (aNHL) cohort, an indolent NHL (iNHL) cohort and a mantle-cell lymphoma (MCL) cohort. The pivotal iNHL cohort, included patients with FL. Patients included in the study were required to have documented CD20+ mature B-cell neoplasm according to WHO classification 2016 or WHO classification 2008 based on representative pathology report with histologic confirmed FL 1-3A at initial diagnosis without clinical or pathological evidence of transformation. All patients had relapsed or refractory disease to the last prior line therapy and previously treated with at least 2 lines of systemic antineoplastic therapy, including at least 1 anti-CD20 monoclonal antibody-containing therapy and an alkylating agent or lenalidomide. The study excluded patients with CNS involvement of lymphoma , allogeneic HSCT or solid organ transplant, ongoing active infectious diseases, any patients with known impaired T-cell immunity, a creatinine clearance of less than 45 ml/min, alanine aminotransferase
+
+<div style=\"page-break-after: always\"></div>
+
+&gt;3 times the upper limit of normal and cardiac ejection fraction less than 45%. Efficacy was evaluated in 128 patients who had received epcoritamab subcutaneously (SC) in cycles of 4 weeks, i.e., 28 days. Epcoritamab was administered as a monotherapy in a 2-step step-up dose schedule as follows:
 
 - Cycle 1: epcoritamab 0.16 mg on Day 1, 0.8 mg on Day 8, 48 mg on Day 15 and 48 mg on Day 22
 - Cycles 2-3: epcoritamab 48 mg on Days 1, 8, 15, and 22
@@ -693,9 +985,9 @@ Patients continued to receive epcoritamab until disease progression or unaccepta
 
 The median number of cycles initiated was 8 and 60% received 6 cycles.
 
-The demographics and baseline characteristics are shown in Table 10.
+The demographics and baseline characteristics are shown in Table 14.
 
-Table 10 Demographics and baseline characteristics of patients with FL in GCT3013-01 study
+Table 14 Demographics and baseline characteristics of patients with FL in GCT3013-01 study
 
 | Characteristics                                                   | (N = 128)   |
 |-------------------------------------------------------------------|-------------|
@@ -732,39 +1024,38 @@ Table 10 Demographics and baseline characteristics of patients with FL in GCT301
 | PI3K inhibitor                                                    | 29 (23)     |
 | Progression of disease within 24 months of first systemic therapy | 67 (52)     |
 | Refractory to:                                                    |             |
-| ≥ 2 consecutive lines of prior anti-lymphoma therapy              | 70 (55)     |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                          | (N = 128)   |
+| Characteristics                                          | (N = 128)   |
 |----------------------------------------------------------|-------------|
-| Characteristics                                          |             |
+| ≥ 2 consecutive lines of prior anti-lymphoma therapy     | 70 (55)     |
 | The last line of systemic antineoplastic therapy         | 88 (69)     |
 | Prior anti-CD20 monoclonal antibody therapy              | 101 (79)    |
 | Both anti-CD20 monoclonal antibody and alkylator therapy | 90 (70)     |
 
-Efficacy was established based on overall response rate (ORR) determined by Lugano criteria (2014) as assessed by Independent Review Committee (IRC). The median follow-up for DOR was 16.2 months. Efficacy results are summarised in Table 11.
+Efficacy was established based on overall response rate (ORR) determined by Lugano criteria (2014) as assessed by Independent Review Committee (IRC). The median follow-up for DOR was 16.2 months. Efficacy results are summarised in Table 15.
 
-Table 11 Efficacy Results in Study GCT3013-01 in FL Patients
+Table 15 Efficacy Results in Study GCT3013-01 in FL Patients
 
-| Endpoint a IRC assessment    | Epcoritamab (N=128)   |
-|------------------------------|-----------------------|
-| ORR b , n (%)                | 106 (83)              |
-| (95% CI)                     | (75.1, 88.9)          |
-| CR b , n (%)                 | 81 (63)               |
-| (95% CI)                     | (54.3, 71.6)          |
-| PR b , n (%)                 | 25 (20)               |
-| (95% CI)                     | (13.1, 27.5)          |
-| DOR b                        |                       |
-| Median (95% CI), months      | 21.4 (13.7, NR)       |
-| DOCR b                       |                       |
-| Median (95% CI), months      | NR (21.4, NR)         |
-| 12-month estimate, %(95% CI) | 78.6 (67.3, 86.4)     |
-| TTR, median (range), months  | 1.4 (1, 3)            |
+| Endpoint a IRC assessment     | Epcoritamab (N=128)   |
+|-------------------------------|-----------------------|
+| ORR b , n (%)                 | 106 (83)              |
+| (95% CI)                      | (75.1, 88.9)          |
+| CR b , n (%)                  | 81 (63)               |
+| (95% CI)                      | (54.3, 71.6)          |
+| PR b , n (%)                  | 25 (20)               |
+| (95% CI)                      | (13.1, 27.5)          |
+| DOR b                         |                       |
+| Median (95% CI), months       | 21.4 (13.7, NR)       |
+| DOCR b                        |                       |
+| Median (95% CI), months       | NR (21.4, NR)         |
+| 12-month estimate, % (95% CI) | 78.6 (67.3, 86.4)     |
+| TTR, median (range), months   | 1.4 (1, 3)            |
 
 CI = confidence interval; CR = complete response; DOR = duration of response; DOCR = duration of complete response; IRC = independent review committee; ORR = overall response rate; PFS = progression-free survival; TTR = time to response
 
-a determined by Lugano criteria (2014) as assessed by independent review committee (IRC)
+- a determined by Lugano criteria (2014) as assessed by independent review committee (IRC)
 
 b Included patients with initial PD by Lugano or IR by LYRIC who later obtained PR/CR.
 
@@ -782,9 +1073,11 @@ This medicinal product has been authorised under a so-called 'conditional approv
 
 <div style=\"page-break-after: always\"></div>
 
+## Epcoritamab monotherapy
+
 The population pharmacokinetics following subcutaneous administration of epcoritamab was described by a two-compartment model with first order subcutaneous absorption and target-mediated drug elimination. The moderate to high pharmacokinetic variability for epcoritamab was observed and characterised by inter-individual variability (IIV) ranging from 25.7% to 137.5% coefficient of variation (CV) for epcoritamab PK parameters.
 
-In patients with LBCL in study GCT3013-01, based on individually estimated exposures using population pharmacokinetic modelling, following the recommended 2-step step-up dose schedule SC dose of epcoritamab 48 mg, the geometric mean (% CV) Cmax of epcoritamab is 10.8 mcg/ml (41.7%) and AUC0-7d is 68.9 day*mcg/ml (45.1%) at the end of the weekly dosing schedule. The Ctrough at Week 12 is 8.4 (53.3%) mcg/ml.The geometric mean (% CV) Cmax of epcoritamab is 7.52 mcg/ml (41.1%) and AUC0-14d is 82.6 day*mcg/ml (49.3%) at the end of q2w schedule. The Ctrough for q2W schedule is 4.1 (73.9%) mcg/ml.The geometric mean (% CV) Cmax of epcoritamab is 4.76 mcg/ml (51.6%) and AUC0-28d is 74.3 day*mcg/ml (69.5%) at steady state during the q4w schedule. The Ctrough for q4W schedule is 1.2 (130%) mcg/ml.
+In patients with LBCL in study GCT3013-01, based on individually estimated exposures using population pharmacokinetic modelling, following the recommended 2-step step-up dose schedule SC dose of epcoritamab 48 mg, the geometric mean (% CV) Cmax of epcoritamab is 10.8 mcg/ml (41.7%) and AUC0-7d is 68.9 day*mcg/ml (45.1%) at the end of the weekly dosing schedule. The Ctrough at Week 12 is 8.4 (53.3%) mcg/ml. The geometric mean (% CV) Cmax of epcoritamab is 7.52 mcg/ml (41.1%) and AUC0-14d is 82.6 day*mcg/ml (49.3%) at the end of q2w schedule. The Ctrough for q2W schedule is 4.1 (73.9%) mcg/ml. The geometric mean (% CV) Cmax of epcoritamab is 4.76 mcg/ml (51.6%) and AUC0-28d is 74.3 day*mcg/ml (69.5%) at steady state during the q4w schedule. The Ctrough for q4W schedule is 1.2 (130%) mcg/ml.
 
 Exposure parameters of epcoritamab in patients with FL were consistent with the exposure parameters seen in the patients with LBCL. Epcoritamab exposures are similar between FL subjects who received the 3-step step-up dose schedule and 2-step step-up dose schedule except for transiently lower trough concentrations, as expected, at Cycle 1 Day 15 after the second intermediate dose (3 mg) with 3-step step-up dose schedule compared first full 48 mg dose with 2-step step-up dose schedule.
 
@@ -804,11 +1097,15 @@ The metabolic pathway of epcoritamab has not been directly studied. Like other p
 
 Epcoritamab is expected to undergo saturable target mediated clearance. The geometric mean (% CV) clearance (l/day) is 0.441 (27.8%). The half-life of epcoritamab is concentration dependent. The population PK model-derived geometric mean half-life of full dose epcoritamab (48 mg) ranged from 22 to 25 days based on frequency of dosing.
 
+## Epcoritamab in combination with lenalidomide and rituximab
+
+There were no clinically significant differences in epcoritamab pharmacokinetics (Cycle 1 AUC and Cycle 1-3 Cavg within geomean difference of 2% and 23.7%, respectively) when epcoritamab was administered in combination with lenalidomide and rituximab compared to epcoritamab administered as monotherapy.
+
 ## Special populations
 
-No clinically important effects on the pharmacokinetics of epcoritamab (Cycle 1 AUC within approximately 36%) were observed based on age (20 to 89 years), sex, or race/ethnicity (white, Asian, and other), mild to moderate renal impairment creatinine clearance (CLcr ≥ 30 ml/min to CLcr &lt; 90 ml/min), and mild hepatic impairment (total bilirubin ≤ ULN and AST &gt; ULN, or total bilirubin 1 to 1.5 times ULN and any AST) after accounting for differences in bodyweight. No patients with severe to end-stage renal disease (CLcr &lt; 30 ml/min) or severe hepatic impairment (total bilirubin &gt; 3 times ULN and any AST) have been studied. There is very limited data in moderate hepatic impairment (total bilirubin &gt; 1.5 to 3 times ULN and any AST, N=1). Therefore, the pharmacokinetics of epcoritamab is unknown in these populations.
-
 <div style=\"page-break-after: always\"></div>
+
+No clinically important effects on the pharmacokinetics of epcoritamab (Cycle 1 AUC within approximately 36%) were observed based on age (20 to 89 years), sex, or race/ethnicity (white, Asian, and other), mild to moderate renal impairment creatinine clearance (CLcr ≥ 30 ml/min to CLcr &lt; 90 ml/min), and mild hepatic impairment (total bilirubin ≤ ULN and AST &gt; ULN, or total bilirubin 1 to 1.5 times ULN and any AST) after accounting for differences in bodyweight. No patients with severe to end-stage renal disease (CLcr &lt; 30 ml/min) or severe hepatic impairment (total bilirubin &gt; 3 times ULN and any AST) have been studied. There is very limited data in moderate hepatic impairment (total bilirubin &gt; 1.5 to 3 times ULN and any AST, N=1). Therefore, the pharmacokinetics of epcoritamab is unknown in these populations.
 
 Like other therapeutic proteins, body weight (39 to 172 kg) has a statistically significant effect on the pharmacokinetics of epcoritamab. Based on exposure-response analysis and clinical data, considering the exposures in patients at either low body weight (e.g., 46 kg) or high body weight (e.g., 105 kg) and across body weight categories (&lt; 65 kg, 65-&lt; 85, ≥ 85), the effect on exposures is not clinically relevant.
 
@@ -840,6 +1137,8 @@ Animal fertility studies have not been conducted with epcoritamab, however, epco
 
 Sodium acetate trihydrate Acetic acid Sorbitol (E420) Polysorbate 80 Water for injections
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.2 Incompatibilities
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products and/or diluents except those listed in section 6.6.
@@ -847,8 +1146,6 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 ## 6.3 Shelf life
 
 ## Unopened vial
-
-<div style=\"page-break-after: always\"></div>
 
 2 years.
 
@@ -862,7 +1159,11 @@ Minimise exposure to daylight. Allow epcoritamab solution to equilibrate to room
 
 ## 6.4 Special precautions for storage
 
-Store and transport refrigerated (2 °C to 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
+Store and transport refrigerated (2 °C to 8 °C).
+
+Do not freeze.
+
+Keep the vial in the outer carton in order to protect from light.
 
 For storage conditions after dilution /first opening of the medicinal product, see section 6.3.
 
@@ -886,17 +1187,20 @@ Each vial contains an overfill that allows withdrawal of the labelled amount.
 
 The administration of epcoritamab takes place over the course of 28-day cycles, following the dosing schedule in section 4.2.
 
+<div style=\"page-break-after: always\"></div>
+
 Epcoritamab should be inspected visually for particulate matter and discolouration prior to administration. The solution for injection should be a colourless to slightly yellow solution. Do not use if the solution is discoloured, or cloudy, or if foreign particles are present.
 
 Epcoritamab has to be prepared using aseptic technique. Filtration of the diluted solution is not required.
 
-Preparation of diluted epcoritamab using the empty sterile vial method
+## Preparation of diluted epcoritamab using the empty sterile vial method
 
-0.16 mg priming dose preparation instructions 2 dilutions required - empty sterile vial method Use an appropriately sized, syringe, vial, and needle for each transfer step.
+## 0.16 mg priming dose preparation instructions 2 dilutions required - empty sterile vial method
 
-<div style=\"page-break-after: always\"></div>
+Use an appropriately sized, syringe, vial, and needle for each transfer step.
 
-- 1) Prepare epcoritamab vial
+## 1) Prepare epcoritamab vial
+
 - a) Retrieve one 4 mg/0.8 ml epcoritamab vial with the light blue cap from the refrigerator.
 - b) Allow the vial to come to room temperature for no more than 1 hour.
 - c) Gently swirl the epcoritamab vial.
@@ -942,8 +1246,7 @@ Use an appropriately sized syringe, vial and needle for each transfer step.
 - a) Retrieve one 4 mg/0.8 ml epcoritamab vial with the light blue cap from the refrigerator.
 - b) Allow the vial to come to room temperature for no more than 1 hour.
 - c) Gently swirl the epcoritamab vial.
-
-DO NOT vortex or vigorously shake the vial.
+4. DO NOT vortex or vigorously shake the vial.
 
 ## 2) Perform dilution
 
@@ -952,6 +1255,9 @@ DO NOT vortex or vigorously shake the vial.
 .
 
 - b) Transfer 0.8 ml of epcoritamab into the dilution A vial.
+
+<div style=\"page-break-after: always\"></div>
+
 - c) Transfer 4.2 ml of sodium chloride 9 mg/ml (0.9%) sterile solution into the dilution A vial to make a final concentration of 0.8 mg/ml.
 - d) Gently swirl the dilution A vial for 30 - 45 seconds.
 
@@ -959,9 +1265,7 @@ DO NOT vortex or vigorously shake the vial.
 
 Withdraw 1 ml of the diluted epcoritamab from the dilution A vial into a syringe. The dilution A vial is no longer needed and should be discarded.
 
-## 4) Label syringe
-
-<div style=\"page-break-after: always\"></div>
+- 4) Label syringe
 
 Label the syringe with the product name, dose strength (0.8 mg), date and the time of day. For storage of the diluted epcoritamab, see section 6.3.
 
@@ -979,7 +1283,7 @@ Use an appropriately sized syringe and needle for each transfer step.
 - b. Allow the vial to come to room temperature for no more than 1 hour.
 - c. Gently swirl the epcoritamab vial.
 
-DO NOT vortex or vigorously shake the vial.
+## DO NOT vortex or vigorously shake the vial.
 
 ## 2) Perform first dilution
 
@@ -1004,6 +1308,8 @@ DO NOT vortex or vigorously shake the vial.
 
 Connect and transfer 1 ml of the diluted epcoritamab from the dilution B syringe into a new syringe. The dilution B syringe is no longer needed and should be discarded.
 
+<div style=\"page-break-after: always\"></div>
+
 - 5) Label syringe
 
 Label the syringe with the product name, dose strength (0.16 mg), date and the time of day.
@@ -1014,26 +1320,21 @@ Label the syringe with the product name, dose strength (0.16 mg), date and the t
 
 Use an appropriately sized syringe and needle for each transfer step.
 
-<div style=\"page-break-after: always\"></div>
-
-## 1) Prepare epcoritamab vial
-
+- 1) Prepare epcoritamab vial
 - a. Retrieve one 4 mg/0.8 ml epcoritamab vial with the light blue cap from the refrigerator.
 - b. Allow the vial to come to room temperature for no more than 1 hour.
 - c. Gently swirl the epcoritamab vial.
 
-DO NOT vortex or vigorously shake the vial.
+## DO NOT vortex or vigorously shake the vial.
 
-## 2) Perform dilution
-
+- 2) Perform dilution
 - a. Label an appropriately sized syringe as 'dilution A' .
 - b. Withdraw 4.2 ml of sodium chloride 9 mg/ml (0.9%) sterile solution into the dilution A syringe. Include approximately 0.2 ml air in the syringe.
 - c. In a new syringe labelled as ' syringe 1 ', withdraw 0.8 ml of epcoritamab.
 - d. Connect the two syringes and push the 0.8 ml of epcoritamab into the dilution A syringe to make a final concentration of 0.8 mg/ml.
 - e. Gently mix by inverting the connected syringes 180 degrees 5 times.
 - f. Disconnect the syringes and discard syringe 1 .
-
-## 3) Withdraw dose
+- 3) Withdraw dose
 
 Connect a new syringe to the dilution A syringe and transfer 1 ml of the diluted epcoritamab into the new syringe. The dilution A syringe is no longer needed and should be discarded.
 
@@ -1047,15 +1348,14 @@ Label the syringe with the product name, dose strength (0.8 mg), date and the ti
 
 3 mg second intermediate dose preparation instructionsNo dilution required Epcoritamab 3 mg dose is required for FL patients only (see Section 4.2).
 
-## 1) Prepare epcoritamab vial
-
+- 1) Prepare epcoritamab vial
 - a) Retrieve one 4 mg/0.8 ml epcoritamab vial with the light blue cap from the refrigerator.
 - b) Allow the vial to come to room temperature for no more than 1 hour.
 - c) Gently swirl the epcoritamab vial.
 
-DO NOT vortex, or vigorously shake the vial.
+## DO NOT vortex, or vigorously shake the vial.
 
-## 2) Withdraw dose
+- 2) Withdraw dose
 
 Withdraw 0.6 ml of epcoritamab into a syringe.
 
@@ -1065,13 +1365,17 @@ Label the syringe with the product name, dose strength (3 mg), date and the time
 
 - 4) Discard the vial and any unused portion of epcoritamab in accordance with local requirements.
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-## 7. MARKETING AUTHORISATION HOLDER
-
-AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse
-
 <div style=\"page-break-after: always\"></div>
+
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
+
+7.
+
+MARKETING AUTHORISATION HOLDER
+
+AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
 
 8.
 
@@ -1095,7 +1399,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Agency https://www.ema.europa.eu/en.
 
-29
+37
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1131,6 +1435,8 @@ Colourless to slightly yellow solution, pH 5.5 and osmolality of approximately 2
 
 Tepkinly as monotherapy is indicated for the treatment of adult patients with relapsed or refractory diffuse large B-cell lymphoma (DLBCL) after two or more lines of systemic therapy.
 
+Tepkinly in combination with lenalidomide and rituximab is indicated for the treatment of adult patients with relapsed or refractory follicular lymphoma (FL).
+
 Tepkinly as monotherapy is indicated for the treatment of adult patients with relapsed or refractory follicular lymphoma (FL) after two or more lines of systemic therapy.
 
 ## 4.2 Posology and method of administration
@@ -1141,9 +1447,11 @@ Tepkinly must only be administered under the supervision of a healthcare profess
 
 Recommended pre-medication and dose schedule
 
-Tepkinly should be administered according to the following step-up dose schedule in 28-day cycles which is outlined in Table 1 for patients with diffuse large B-cell lymphoma and Table 2 for patients with follicular lymphoma.
-
 <div style=\"page-break-after: always\"></div>
+
+## Tepkinly as monotherapy
+
+Tepkinly should be administered according to the following step-up dose schedule in 28-day cycles which is outlined in Table 1 for patients with diffuse large B-cell lymphoma and Table 2 for patients with follicular lymphoma.
 
 Table 1 Tepkinly 2-step step-up dose schedule for patients with diffuse large B-cell lymphoma
 
@@ -1170,27 +1478,51 @@ Table 2: Tepkinly 3-step step-up dose schedule for patients with follicular lymp
 | Every two weeks   | Cycles 4 - 9         | 1, 15        | 48 mg                     |
 | Every four weeks  | Cycles 10 +          | 1            | 48 mg                     |
 
-Details on recommended pre-medication for cytokine release syndrome (CRS) are shown in Table 3.
+Tepkinly should be administered until disease progression or unacceptable toxicity.
 
-Table 3 Epcoritamab pre-medication
+## Tepkinly in combination with lenalidomide and rituximab
 
-| Cycle              | Patient requiring pre-medication                               | Pre-medication                                                                                         | Administration                                                                                                                                                      |
-|--------------------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Cycle 1            | All patients                                                   | Dexamethasone b (15 mg oral or intravenous) or Prednisolone (100 mg oral or intravenous) or equivalent | • 30-120 minutes prior to each weekly administration of epcoritamab • And for three consecutive days following each weekly administration of epcoritamab in Cycle 1 |
-| Cycle 1            | All patients                                                   | • Diphenhydramine (50 mg oral or intravenous) or equivalent • Paracetamol (650 to 1 000 mg oral)       | • 30-120 minutes prior to each weekly administration of epcoritamab                                                                                                 |
-| Cycle 2 and beyond | Patients who experienced Grade 2 or 3 a CRS with previous dose | Dexamethasone b (15 mg oral or intravenous) or Prednisolone (100 mg oral or intravenous) or equivalent | • 30-120 minutes prior to next administration of epcoritamab after a grade 2 or 3 a CRS event • And for three consecutive days following the next                   |
+Tepkinly should be administered according to 28-day cycles for a total of 12 cycles or until disease progression or unacceptable toxicity, whichever occurs first.
+
+Table 3 Tepkinly 3-step step-up dose schedule in combination with lenalidomide and rituximab for patients with follicular lymphoma
+
+| Dosing schedule   | Cycle of treatment   | Days             | Epcoritamab dose (mg)    |
+|-------------------|----------------------|------------------|--------------------------|
+| Weekly            | Cycle 1              | 1                | 0.16 mg (Step-up dose 1) |
+| Weekly            | Cycle 1              | 8                | 0.8 mg (Step-up dose 2)  |
+| Weekly            | Cycle 1              | 15               | 3 mg (Step-up dose 3)    |
+| Weekly            | Cycle 1              | 22               | 48 mg (First full dose)  |
+| Weekly            | Cycles 2 and 3       | 1, 8, 15, and 22 | 48 mg                    |
+| Every four weeks  | Cycles 4 to 12       | 1                | 48 mg                    |
+
+Tepkinly should be administered in combination with lenalidomide 20 mg orally once daily (from Day 1 to Day 21) in Cycles 1-12 and rituximab 375 mg/m 2 intravenously every week in Cycle 1 (on Days 1, 8, 15, and 22) and every 4 weeks in Cycles 2-5 (on Day 1).
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                                                                                                                                                         | administration of epcoritamab until epcoritamab is given without subsequent any grade of CRS                                                                                                            |                                                                                                                                                                                                         |                                                                                                                                                                                                         |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| a Patients will be permanently discontinued from epcoritamab after a Grade 4 CRS event. b Dexamethasone is the preferred corticosteroid for CRS prophylaxis based on the GCT3013-01 Optimisation study. | a Patients will be permanently discontinued from epcoritamab after a Grade 4 CRS event. b Dexamethasone is the preferred corticosteroid for CRS prophylaxis based on the GCT3013-01 Optimisation study. | a Patients will be permanently discontinued from epcoritamab after a Grade 4 CRS event. b Dexamethasone is the preferred corticosteroid for CRS prophylaxis based on the GCT3013-01 Optimisation study. | a Patients will be permanently discontinued from epcoritamab after a Grade 4 CRS event. b Dexamethasone is the preferred corticosteroid for CRS prophylaxis based on the GCT3013-01 Optimisation study. |
+For additional information, refer to the Summary of Product Characteristics (SmPC) of the lenalidomide and rituximab products.
 
-Prophylaxis against Pneumocystis jirovecii pneumonia (PCP) and herpes virus infections is strongly recommended especially during concurrent use of steroids.
+## Premedications and prophylaxis
+
+Details on recommended pre-medication for cytokine release syndrome (CRS) are shown in Table 4.
+
+Table 4 Epcoritamab pre-medication
+
+| Cycle                                                                                                                                                                                                                                                                                    | Patient requiring pre-medication                                                                                                                                                                                                                                                         | Pre-medication a                                                                                                                                                                                                                                                                         | Administration                                                                                                                                                                                                                                                                           |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Cycle 1                                                                                                                                                                                                                                                                                  | All patients                                                                                                                                                                                                                                                                             | Dexamethasone (15 mg oral or intravenous) or Prednisolone (100 mg oral or intravenous) or equivalent • Dexamethasone is the preferred corticosteroid for CRS prophylaxis c                                                                                                               | • 30-120 minutes prior to each weekly administration of epcoritamab • And for three consecutive days following each weekly administration of epcoritamab in Cycle 1                                                                                                                      |
+| Cycle 1                                                                                                                                                                                                                                                                                  | All patients                                                                                                                                                                                                                                                                             | • Diphenhydramine (50 mg oral or intravenous) or equivalent • Paracetamol (650 to 1 000 mg oral)                                                                                                                                                                                         | • 30-120 minutes prior to each weekly administration of epcoritamab                                                                                                                                                                                                                      |
+| Cycle 2 and beyond                                                                                                                                                                                                                                                                       | Patients who experienced Grade 2 or 3 b CRS with previous dose                                                                                                                                                                                                                           | Dexamethasone (15 mg oral or intravenous) or Prednisolone (100 mg oral or intravenous) or equivalent • Dexamethasone is the preferred corticosteroid for CRS prophylaxis c                                                                                                               | • 30-120 minutes prior to next administration of epcoritamab after a grade 2 or 3 b CRS event • And for three consecutive days following the next administration of epcoritamab until epcoritamab is given without subsequent any grade of CRS                                           |
+| a Premedication used for combination agents may serve as premedication for epcoritamab at the discretion of the treating physician, provided that the doses administered are at least equivalent b Patients will be permanently discontinued from epcoritamab after a Grade 4 CRS event. | a Premedication used for combination agents may serve as premedication for epcoritamab at the discretion of the treating physician, provided that the doses administered are at least equivalent b Patients will be permanently discontinued from epcoritamab after a Grade 4 CRS event. | a Premedication used for combination agents may serve as premedication for epcoritamab at the discretion of the treating physician, provided that the doses administered are at least equivalent b Patients will be permanently discontinued from epcoritamab after a Grade 4 CRS event. | a Premedication used for combination agents may serve as premedication for epcoritamab at the discretion of the treating physician, provided that the doses administered are at least equivalent b Patients will be permanently discontinued from epcoritamab after a Grade 4 CRS event. |
+
+For additional information, refer to the SmPC of lenalidomide and the SmPC of rituximab for the respective premedication recommendations.
+
+Prophylaxis against Pneumocystis jirovecii pneumonia (PCP) and herpes virus infections is strongly recommended during treatment with epcoritamab.
 
 Tepkinly should be administered to adequately hydrated patients.
 
 It is strongly recommended that all patients adhere to the following fluid guidelines during Cycle 1, unless medically contraindicated:
+
+<div style=\"page-break-after: always\"></div>
 
 - 2-3 L of fluid intake during the 24 hours prior to each epcoritamab administration
 - Hold antihypertensive medications for 24 hours prior to each epcoritamab administration
@@ -1205,72 +1537,79 @@ Patients should be monitored for signs and symptoms of CRS and/or immune effecto
 
 ## Cytokine release syndrome (CRS)
 
-Patients treated with epcoritamab may develop CRS.
+Patients treated with epcoritamab may develop CRS. Evaluate for and treat other causes of fever, hypoxia, and hypotension. If CRS is suspected, manage according to the recommendations in Table 5. Patients who experience CRS should be monitored more frequently during next scheduled epcoritamab administration.
 
-Evaluate for and treat other causes of fever, hypoxia, and hypotension. If CRS is suspected, manage according to the recommendations in Table 4. Patients who experience CRS should be monitored more frequently during next scheduled epcoritamab administration.
+Table 5 CRS grading and management guidance
 
-Table 4 CRS grading and management guidance
-
-| Grade a                               | Recommended therapy                                                                                                                                                                                              | Epcoritamab dose modification                  |
-|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| Grade 1 • Fever (temperature ≥ 38 °C) | Provide supportive care such as antipyretics and intravenous hydration Dexamethasone b may be initiated In cases of advanced age, high tumour burden, circulating tumour cells, fever refractory to antipyretics | Hold epcoritamab until resolution of CRS event |
-
-<div style=\"page-break-after: always\"></div>
-
-| Grade a                                                                                                                                                                                                                    | Recommended therapy                                                                                                                                                                                                                                                                                                                                                                                              | Epcoritamab dose modification                                                                                                                                                                                                                                                         |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                                                            | • Anti-cytokine therapy, tocilizumab d , should be considered For CRS with concurrent ICANS refer to Table 5                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                       |
-| Grade 2 • Fever (temperature ≥ 38 °C) and • Hypotension not requiring vasopressors and/or • Hypoxia requiring low-flow oxygen e by nasal cannula or blow-by                                                                | Provide supportive care such as antipyretics and intravenous hydration Dexamethasone b should be considered Anti-cytokine therapy, tocilizumab d , is recommended If CRS is refractory to dexamethasone and tocilizumab: • Alternative immunosuppressants g and methylprednisolone 1 000 mg/day intravenously should be administered until clinical improvement For CRS with concurrent ICANS                    | Hold epcoritamab until resolution of CRS event                                                                                                                                                                                                                                        |
-| Grade 3 • Fever (temperature ≥ 38 °C) and • Hypotension requiring a vasopressor with or without vasopressin and/or • Hypoxia requiring high-flow oxygen f by nasal cannula, facemask, non-rebreather mask, or venturi mask | Provide supportive care such as antipyretics and intravenous hydration Dexamethasone c should be administered Anti-cytokine therapy, tocilizumab d , is recommended If CRS is refractory to dexamethasone and tocilizumab: • Alternative immunosuppressants g and methylprednisolone 1 000 mg/day intravenously should be administered until clinical improvement For CRS with concurrent ICANS refer to Table 5 | Hold epcoritamab until resolution of CRS event In the event of Grade 3 CRS lasting longer than 72 hours, epcoritamab should be discontinued If more than 2 separate events of Grade 3 CRS, even if each event resolved to Grade 2 within 72 hours, epcoritamab should be discontinued |
+| Grade a                                                                            | Recommended therapy                                                                                                                                                                                                                                                                                                                                                                         | Epcoritamab dose modification h                |
+|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| Grade 1 • Fever (temperature ≥ 38 °C)                                              | Provide supportive care such as antipyretics and intravenous hydration Dexamethasone b may be initiated In cases of advanced age, high tumour burden, circulating tumour cells, fever refractory to antipyretics • Anti-cytokine therapy, tocilizumab d , should be considered If lack of improvement after 24 hours, consider tocilizumab d For CRS with concurrent ICANS refer to Table 6 | Hold epcoritamab until resolution of CRS event |
+| Grade 2 • Fever (temperature ≥ 38 °C) and • Hypotension not requiring vasopressors | Provide supportive care such as antipyretics and intravenous hydration Dexamethasone b should be considered Anti-cytokine therapy,                                                                                                                                                                                                                                                          | Hold epcoritamab until resolution of CRS event |
 
 <div style=\"page-break-after: always\"></div>
 
-| Grade a                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Recommended therapy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Epcoritamab dose modification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 4 • Fever (temperature ≥ 38 °C) and Hypotension requiring ≥ 2 vasopressors (excluding vasopressin) and/or • Hypoxia requiring positive pressure ventilation (e.g., CPAP, BiPAP, intubation and mechanical ventilation)                                                                                                                                                                                                                                                                                                   | Provide supportive care such as antipyretics and intravenous hydration Dexamethasone c should be administered Anti-cytokine therapy, tocilizumab d is recommended If CRS is refractory to dexamethasone and tocilizumab: • Alternative immunosuppressants g and methylprednisolone 1 000 mg/day intravenously should be administered until clinical improvement For CRS with concurrent ICANS refer to Table 5                                                                                                                 | Permanently discontinue epcoritamab                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| a CRS graded according to ASTCT consensus criteria b Dexamethasone should be administered at 10-20 mg per day (or equivalent) c Dexamethasone should be administered at 10-20 mg intravenously every 6 hours d Tocilizumab 8 mg/kg intravenously over 1 hour (not to exceed 800 mg per dose). Repeat tocilizumab after at least 8 hours as needed. Maximum of 2 doses in a 24-hour period e Low-flow oxygen is defined as oxygen delivered at < 6 L/minute f High-flow oxygen is defined as oxygen delivered at ≥ 6 L/minute g | a CRS graded according to ASTCT consensus criteria b Dexamethasone should be administered at 10-20 mg per day (or equivalent) c Dexamethasone should be administered at 10-20 mg intravenously every 6 hours d Tocilizumab 8 mg/kg intravenously over 1 hour (not to exceed 800 mg per dose). Repeat tocilizumab after at least 8 hours as needed. Maximum of 2 doses in a 24-hour period e Low-flow oxygen is defined as oxygen delivered at < 6 L/minute f High-flow oxygen is defined as oxygen delivered at ≥ 6 L/minute g | a CRS graded according to ASTCT consensus criteria b Dexamethasone should be administered at 10-20 mg per day (or equivalent) c Dexamethasone should be administered at 10-20 mg intravenously every 6 hours d Tocilizumab 8 mg/kg intravenously over 1 hour (not to exceed 800 mg per dose). Repeat tocilizumab after at least 8 hours as needed. Maximum of 2 doses in a 24-hour period e Low-flow oxygen is defined as oxygen delivered at < 6 L/minute f High-flow oxygen is defined as oxygen delivered at ≥ 6 L/minute g |
+| Grade a                                                                                                                                                                                                                      | Recommended therapy                                                                                                                                                                                                                                                                                                                                                                             | Epcoritamab dose modification h                                                                                                                                                                                                                                                       |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| and/or • Hypoxia requiring low-flow oxygen e by nasal cannula or blow-by                                                                                                                                                     | tocilizumab d , is recommended If CRS is refractory to dexamethasone and tocilizumab: • Alternative immunosuppressants g and methylprednisolone 1 000 mg/day intravenously should be administered until clinical improvement For CRS with concurrent ICANS refer to Table 6                                                                                                                     |                                                                                                                                                                                                                                                                                       |
+| Grade 3 • Fever (temperature ≥ 38 °C) and • Hypotension requiring a vasopressor with or without vasopressin and/or • Hypoxia requiring high-flow oxygen f by nasal cannula, facemask, non-rebreather mask, or venturi mask   | Provide supportive care such as antipyretics and intravenous hydration Dexamethasone c should be administered Anti-cytokine therapy, tocilizumab d , is recommended If CRS is refractory to dexamethasone and tocilizumab: • Alternative immunosuppressants g and methylprednisolone 1 000 mg/day intravenously should be administered until clinical improvement For CRS with concurrent ICANS | Hold epcoritamab until resolution of CRS event In the event of Grade 3 CRS lasting longer than 72 hours, epcoritamab should be discontinued If more than 2 separate events of Grade 3 CRS, even if each event resolved to Grade 2 within 72 hours, epcoritamab should be discontinued |
+| Grade 4 • Fever (temperature ≥ 38 °C) and Hypotension requiring ≥ 2 vasopressors (excluding vasopressin) and/or • Hypoxia requiring positive pressure ventilation (e.g., CPAP, BiPAP, intubation and mechanical ventilation) | refer to Table 6 Provide supportive care such as antipyretics and intravenous hydration Dexamethasone c should be administered Anti-cytokine therapy, tocilizumab d is recommended If CRS is refractory to dexamethasone and tocilizumab: • Alternative immunosuppressants g and methylprednisolone 1 000 mg/day intravenously should be                                                        | Permanently discontinue epcoritamab                                                                                                                                                                                                                                                   |
+
+<div style=\"page-break-after: always\"></div>
+
+| Grade a                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Recommended therapy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Epcoritamab dose modification h                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | administered until clinical improvement For CRS with concurrent ICANS refer to Table 6                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| a CRS graded according to ASTCT consensus criteria b Dexamethasone should be administered at 10-20 mg per day (or equivalent) c Dexamethasone should be administered at 10-20 mg intravenously every 6 hours d Tocilizumab 8 mg/kg intravenously over 1 hour (not to exceed 800 mg per dose). Repeat tocilizumab after at least 8 hours as needed. Maximum of 2 doses in a 24-hour period e Low-flow oxygen is defined as oxygen delivered at≤ 6 L/minute f High-flow oxygen is defined as oxygen delivered at ≥ 6 L/minute g Riegler L et al. (2019) h When epcoritamab is administered in combination for relapsed or refractory FL, consider holding | a CRS graded according to ASTCT consensus criteria b Dexamethasone should be administered at 10-20 mg per day (or equivalent) c Dexamethasone should be administered at 10-20 mg intravenously every 6 hours d Tocilizumab 8 mg/kg intravenously over 1 hour (not to exceed 800 mg per dose). Repeat tocilizumab after at least 8 hours as needed. Maximum of 2 doses in a 24-hour period e Low-flow oxygen is defined as oxygen delivered at≤ 6 L/minute f High-flow oxygen is defined as oxygen delivered at ≥ 6 L/minute g Riegler L et al. (2019) h When epcoritamab is administered in combination for relapsed or refractory FL, consider holding | a CRS graded according to ASTCT consensus criteria b Dexamethasone should be administered at 10-20 mg per day (or equivalent) c Dexamethasone should be administered at 10-20 mg intravenously every 6 hours d Tocilizumab 8 mg/kg intravenously over 1 hour (not to exceed 800 mg per dose). Repeat tocilizumab after at least 8 hours as needed. Maximum of 2 doses in a 24-hour period e Low-flow oxygen is defined as oxygen delivered at≤ 6 L/minute f High-flow oxygen is defined as oxygen delivered at ≥ 6 L/minute g Riegler L et al. (2019) h When epcoritamab is administered in combination for relapsed or refractory FL, consider holding |
 
 Immune effector cell-associated neurotoxicity syndrome (ICANS)
 
-Patients should be monitored for signs and symptoms of ICANS. Other causes of neurologic symptoms should be ruled out. If ICANS is suspected, manage according to the recommendations in Table 5.
+Patients should be monitored for signs and symptoms of ICANS. Other causes of neurologic symptoms should be ruled out. If ICANS is suspected, manage according to the recommendations in Table 6.
 
-Table 5 ICANS grading and management guidance
+## Table 6 ICANS grading and management guidance
 
-| Grade a                                                                                    | Recommended therapy                                                                                                                                                                                                                                                                                                                   | Epcoritamab dose modification              |
-|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| Grade 1 b ICE score c 7-9 b or, depressed level of consciousness b : awakens spontaneously | Treatment with dexamethasone d Consider non-sedating anti-seizure medicinal products (e.g., levetiracetam) until resolution of ICANS No concurrent CRS: • Anti-cytokine therapy not recommended For ICANS with concurrent CRS: • Treatment with dexamethasone d • Choose immunosuppressant alternatives e to tocilizumab, if possible | Hold epcoritamab until resolution of event |
-
-<div style=\"page-break-after: always\"></div>
-
-| Grade a                                                                                                                                                                                                                                                                                                                                              | Recommended therapy                                                                                                                                                                                                                                                                                                                                                                                                                                            | Epcoritamab dose modification              |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| Grade 2 b ICE score c 3-6 or, depressed level of consciousness b : awakens to voice                                                                                                                                                                                                                                                                  | Treatment with dexamethasone f Consider non-sedating anti-seizure medicinal products (e.g., levetiracetam) until resolution of ICANS No concurrent CRS : • Anti-cytokine therapy not recommended For ICANS with concurrent CRS : • Treatment with dexamethasone f • Choose immunosuppressant alternatives e to tocilizumab, if possible                                                                                                                        | Hold epcoritamab until resolution of event |
-| Grade 3 b ICE score c 0-2 or, depressed level of consciousness b : awakens only to tactile stimulus, or seizures b , either: • any clinical seizure, focal or generalised that resolves rapidly, or • non-convulsive seizures on electroencephalogram (EEG) that resolve with intervention, or raised intracranial pressure: focal/local oedema b on | Treatment with dexamethasone g . • If no response, initiate methylprednisolone 1 000 mg/day Consider non-sedating anti-seizure medicinal products (e.g., levetiracetam) until resolution of ICANS No concurrent CRS : • Anti-cytokine therapy not recommended For ICANS with concurrent CRS: • Treatment with dexamethasone g o If no response, initiate methylprednisolone 1 000 mg/day • Choose immunosuppressant alternatives e to tocilizumab, if possible | Permanently discontinue epcoritamab        |
-| neuroimaging c Grade 4 b ICE score c, b 0 or, depressed level of consciousness b either: • patient is unarousable or requires vigorous or repetitive tactile stimuli to arouse, or • stupor or coma, or seizures b , either: • life-threatening prolonged seizure (> 5 minutes), or • repetitive clinical or electrical seizures                     | Treatment with dexamethasone g • If no response, initiate methylprednisolone 1 000 mg/day Consider non-sedating anti-seizure medicinal products (e.g., levetiracetam) until resolution of ICANS No concurrent CRS: • Anti-cytokine therapy not recommended For ICANS with concurrent CRS: • Treatment with dexamethasone g o If no response, initiate methylprednisolone 1 000 mg/day • Choose immunosuppressant alternatives e to tocilizumab, if possible    | Permanently discontinue epcoritamab        |
+| Grade a                                                                                    | Recommended therapy                                                                                                                                                                                                                                                                                                                     | Epcoritamab dose modification g            |
+|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| Grade 1 a ICE score b 7-9 a or, depressed level of consciousness a : awakens spontaneously | Treatment with dexamethasone c Consider non-sedating anti-seizure medicinal products (e.g., levetiracetam) until resolution of ICANS No concurrent CRS: • Anti-cytokine therapy not recommended For ICANS with concurrent CRS: • Treatment with dexamethasone c • Choose immunosuppressant alternatives d to tocilizumab, if possible   | Hold epcoritamab until resolution of event |
+| Grade 2 a ICE score b 3-6 or, depressed level of consciousness a : awakens to voice        | Treatment with dexamethasone e Consider non-sedating anti-seizure medicinal products (e.g., levetiracetam) until resolution of ICANS No concurrent CRS : • Anti-cytokine therapy not recommended For ICANS with concurrent CRS : • Treatment with dexamethasone e • Choose immunosuppressant alternatives d to tocilizumab, if possible | Hold epcoritamab until resolution of event |
 
 <div style=\"page-break-after: always\"></div>
 
-| Grade a                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Recommended therapy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Epcoritamab dose modification                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| without return to baseline in between, or motor findings b : • deep focal motor weakness such as hemiparesis or paraparesis, or raised intracranial pressure / cerebral oedema b , with signs/symptoms such as: • diffuse cerebral oedema on neuroimaging, or • decerebrate or decorticate posturing, or • cranial nerve VI palsy, or • papilloedema, or                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| cushing's triad a ICANS graded according to ASTCT ICANS Consensus Grading b ICANS grade is determined by the most severe event (ICE score, level of consciousness, seizures, motor findings, raised ICP/cerebral oedema) not attributable to any other cause c If patient is arousable and able to perform Immune Effector Cell-Associated Encephalopathy (ICE) Assessment, assess: Orientation (oriented to year, month, city, hospital = 4 points); Naming (name 3 objects, e.g., point to clock, pen, button = 3 points); Following Commands (e.g., 'show me 2 fingers' or 'close your eyes and stick out your tongue' = 1 point); Writing (ability to write a standard sentence = 1 point); and Attention (count backwards from 100 by ten = 1 point). If patient is unarousable and unable to perform ICE Assessment (Grade 4 ICANS) = 0 points. d Dexamethasone should be administered at 10 mg intravenously every 12 hours e | cushing's triad a ICANS graded according to ASTCT ICANS Consensus Grading b ICANS grade is determined by the most severe event (ICE score, level of consciousness, seizures, motor findings, raised ICP/cerebral oedema) not attributable to any other cause c If patient is arousable and able to perform Immune Effector Cell-Associated Encephalopathy (ICE) Assessment, assess: Orientation (oriented to year, month, city, hospital = 4 points); Naming (name 3 objects, e.g., point to clock, pen, button = 3 points); Following Commands (e.g., 'show me 2 fingers' or 'close your eyes and stick out your tongue' = 1 point); Writing (ability to write a standard sentence = 1 point); and Attention (count backwards from 100 by ten = 1 point). If patient is unarousable and unable to perform ICE Assessment (Grade 4 ICANS) = 0 points. d Dexamethasone should be administered at 10 mg intravenously every 12 hours e | cushing's triad a ICANS graded according to ASTCT ICANS Consensus Grading b ICANS grade is determined by the most severe event (ICE score, level of consciousness, seizures, motor findings, raised ICP/cerebral oedema) not attributable to any other cause c If patient is arousable and able to perform Immune Effector Cell-Associated Encephalopathy (ICE) Assessment, assess: Orientation (oriented to year, month, city, hospital = 4 points); Naming (name 3 objects, e.g., point to clock, pen, button = 3 points); Following Commands (e.g., 'show me 2 fingers' or 'close your eyes and stick out your tongue' = 1 point); Writing (ability to write a standard sentence = 1 point); and Attention (count backwards from 100 by ten = 1 point). If patient is unarousable and unable to perform ICE Assessment (Grade 4 ICANS) = 0 points. d Dexamethasone should be administered at 10 mg intravenously every 12 hours e |
-
-## Table 6 Recommended dose modifications for other adverse reactions
-
-| Adverse Reaction 1                                   | Severity 1                                        | Action                                                                                                                                                  |
-|------------------------------------------------------|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections (see section 4.4)                         | Grades 1-4                                        | • Withhold epcoritamab in patients with active infection, until the infection resolves • For Grade 4, consider permanent discontinuation of epcoritamab |
-| Neutropenia or febrile neutropenia (see section 4.8) | Absolute neutrophil count less than 0.5 x 10 9 /L | • Withhold epcoritamab until absolute neutrophil count is 0.5 x 10 9 /L or higher                                                                       |
-| Thrombocytopenia (see section 4.8)                   | Platelet count less than 50 x 10 9 /L             | • Withhold epcoritamab until platelet count is 50 x 10 9 /L or higher                                                                                   |
+| Grade a                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Recommended therapy                                                                                                                                                                                                                                                                                                                                                                                                                                            | Epcoritamab dose modification g     |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+| Grade 3 a ICE score b 0-2 or, depressed level of consciousness a : awakens only to tactile stimulus, or seizures a , either: • any clinical seizure, focal or generalised that resolves rapidly, or • non-convulsive seizures on electroencephalogram (EEG) that resolve with intervention, or raised intracranial pressure: focal/local oedema a on                                                                                                                                                                                             | Treatment with dexamethasone f . • If no response, initiate methylprednisolone 1 000 mg/day Consider non-sedating anti-seizure medicinal products (e.g., levetiracetam) until resolution of ICANS No concurrent CRS : • Anti-cytokine therapy not recommended For ICANS with concurrent CRS: • Treatment with dexamethasone f o If no response, initiate methylprednisolone 1 000 mg/day • Choose immunosuppressant alternatives d to tocilizumab, if possible | Permanently discontinue epcoritamab |
+| neuroimaging b Grade 4 a ICE score a, b 0 or, depressed level of consciousness a either: • patient is unarousable or requires vigorous or repetitive tactile stimuli to arouse, or • stupor or coma, or seizures a , either: • life-threatening prolonged seizure (> 5 minutes), or • repetitive clinical or electrical seizures without return to baseline in between, or motor findings a : • deep focal motor weakness such as hemiparesis or paraparesis, or raised intracranial pressure / cerebral oedema a , with signs/symptoms such as: | Treatment with dexamethasone f • If no response, initiate methylprednisolone 1 000 mg/day Consider non-sedating anti-seizure medicinal products (e.g., levetiracetam) until resolution of ICANS No concurrent CRS: • Anti-cytokine therapy not recommended For ICANS with concurrent CRS: • Treatment with dexamethasone f o If no response, initiate methylprednisolone 1 000 mg/day • Choose immunosuppressant alternatives d to tocilizumab, if possible    | Permanently discontinue epcoritamab |
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse Reaction 1                                                                                            | Severity 1                                                                                                    | Action                                                                                                        |
-|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Other adverse reactions (see section 4.8)                                                                     | Grade 3 or higher                                                                                             | • Withhold epcoritamab until the toxicity resolves to Grade 1 or baseline                                     |
-| 1 Based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE), Version 5.0. | 1 Based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE), Version 5.0. | 1 Based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE), Version 5.0. |
+| Grade a                                                                                                                                                    | Recommended therapy   | Epcoritamab dose modification g   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----------------------------------|
+| • diffuse cerebral oedema on neuroimaging, or • decerebrate or decorticate posturing, or • cranial nerve VI palsy, or • papilloedema, or • cushing's triad |                       |                                   |
+
+a ICANS graded according to ASTCT ICANS Consensus Grading. ICANS grade is determined by the most severe event (ICE score, level of consciousness, seizures, motor findings, raised ICP/cerebral oedema) not attributable to any other cause
+
+b If patient is arousable and able to perform Immune Effector Cell-Associated Encephalopathy (ICE) Assessment, assess: Orientation (oriented to year, month, city, hospital = 4 points); Naming (name 3 objects, e.g., point to clock, pen, button = 3 points); Following Commands (e.g., 'show me 2 fingers' or 'close your eyes and stick out your tongue' = 1 point); Writing (ability to write a standard sentence = 1 point); and Attention (count backwards from 100 by ten = 1 point). If patient is unarousable and unable to perform ICE Assessment (Grade 4 ICANS) = 0 points.
+
+- c Dexamethasone should be administered at 10 mg intravenously every 12 hours
+- d Alternatives include anakinra or siltuximab. Riegler L et al. (2019)
+- e Dexamethasone 10-20 mg intravenously every 12 hours
+- f Dexamethasone 10-20 mg intravenously every 6 hours
+- g When epcoritamab is administered in combination for relapsed or refractory FL, consider holding lenalidomide until event resolution
+
+Table 7 Recommended dose modifications for other adverse reactions
+
+| Adverse Reaction 1                                                                                            | Severity 1                                                                                                    | Action                                                                                                                                                  |
+|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections (see section 4.4)                                                                                  | Grades 1-4                                                                                                    | • Withhold epcoritamab in patients with active infection, until the infection resolves • For Grade 4, consider permanent discontinuation of epcoritamab |
+| Neutropenia or febrile neutropenia (see section 4.8)                                                          | Absolute neutrophil count less than 0.5 x 10 9 /L                                                             | • Withhold epcoritamab until absolute neutrophil count is 0.5 x 10 9 /L or higher                                                                       |
+| Thrombocytopenia (see section 4.8)                                                                            | Platelet count less than 50 x 10 9 /L                                                                         | • Withhold epcoritamab until platelet count is 50 x 10 9 /L or higher                                                                                   |
+| Other adverse reactions (see section 4.8)                                                                     | Grade 3 or higher                                                                                             | • Withhold epcoritamab until the toxicity resolves to Grade 1 or baseline                                                                               |
+| 1 Based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE), Version 5.0. | 1 Based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE), Version 5.0. | 1 Based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE), Version 5.0.                                           |
+
+In case of febrile neutropenia and recurring Grade ≥ 3 neutropenia consider granulocyte colony stimulating factor (G-CSF). Refer to the SmPC of lenalidomide for specific instructions on dose modifications in case of neutropenia. Refer to the SmPC of rituximab for recommendations regarding the determination of immunoglobulin levels.
 
 ## Missed or delayed dose
+
+<div style=\"page-break-after: always\"></div>
 
 ## Diffuse large B-cell lymphoma
 
@@ -1309,13 +1648,13 @@ No dose adjustment is necessary in patients ≥ 65 years of age (see sections 5.
 
 ## Paediatric population
 
-<div style=\"page-break-after: always\"></div>
-
 The safety and efficacy of Tepkinly in children aged less than 18 years of age have not yet been established. No data are available.
 
 ## Method of administration
 
 Tepkinly is for subcutaneous use. It should be administered by subcutaneous injection only, preferably in the lower part of the abdomen or the thigh. Change of injection site from left to right side or vice versa is recommended especially during the weekly administration schedule (i.e., Cycles 1-3) .
+
+<div style=\"page-break-after: always\"></div>
 
 For instructions on reconstitution of the medicinal product before administration, see section 6.6.
 
@@ -1335,7 +1674,7 @@ CRS, which may be life-threatening or fatal, occurred in patients receiving epco
 
 Most CRS events occurred in Cycle 1 and were associated with the first full dose of epcoritamab. Administer prophylactic corticosteroids to mitigate the risk of CRS (see section 4.2).
 
-Patients should be monitored for signs and symptoms of CRS following epcoritamab administration. At the first signs or symptoms of CRS, treatment should be instituted of supportive care with tocilizumab and/or corticosteroids as appropriate (see section 4.2, Table 4). Patients should be counselled on the signs and symptoms associated with CRS and patients should be instructed to contact their healthcare professional and seek immediate medical attention should signs or symptoms occur at any time. Management of CRS may require either temporary delay or discontinuation of epcoritamab based on the severity of CRS (see section 4.2).
+Patients should be monitored for signs and symptoms of CRS following epcoritamab administration. At the first signs or symptoms of CRS, treatment should be instituted of supportive care with tocilizumab and/or corticosteroids as appropriate (see section 4.2, Table 5). Patients should be counselled on the signs and symptoms associated with CRS and patients should be instructed to contact their healthcare professional and seek immediate medical attention should signs or symptoms occur at any time. Management of CRS may require either temporary delay or discontinuation of epcoritamab based on the severity of CRS (see section 4.2).
 
 ## Haemophagocytic lymphohistiocytosis (HLH)
 
@@ -1345,17 +1684,17 @@ Haemophagocytic lymphohistiocytosis (HLH), including fatal cases, have been repo
 
 ICANS, including fatal events, have occurred in patients receiving epcoritamab. ICANS may manifest as aphasia, altered level of consciousness, impairment of cognitive skills, motor weakness, seizures, and cerebral oedema.
 
-<div style=\"page-break-after: always\"></div>
-
 The majority of cases of ICANS occurred within Cycle 1 of epcoritamab treatment, however some occurred with delayed onset.
 
-Patients should be monitored for signs and symptoms of ICANS following epcoritamab administration. At the first signs or symptoms of ICANS, treatment with corticosteroids and non-sedating-anti-seizure medicinal products should be instituted as appropriate (see section 4.2, Table 5). Patients should be counselled on the signs and symptoms of ICANS and that the onset of events may be delayed. Patients should be instructed to contact their healthcare professional and seek immediate medical attention should signs or symptoms occur at any time. Epcoritamab should be delayed or discontinued as recommended (see section 4.2).
+Patients should be monitored for signs and symptoms of ICANS following epcoritamab administration. At the first signs or symptoms of ICANS, treatment with corticosteroids and non-sedating-anti-seizure medicinal products should be instituted as appropriate (see section 4.2, Table 6). Patients should be counselled on the signs and symptoms of ICANS and that the onset of events may be delayed. Patients should be instructed to contact their healthcare professional and seek immediate medical attention should signs or symptoms occur at any time. Epcoritamab should be delayed or discontinued as recommended (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Serious infections
 
 Treatment with epcoritamab may lead to an increased risk of infections. Serious or fatal infections were observed in patients treated with epcoritamab in clinical studies (see section 4.8).
 
-## Administration of epcoritamab should be avoided in patients with clinically significant active systemic infections.
+Administration of epcoritamab should be avoided in patients with clinically significant active systemic infections.
 
 As appropriate, prophylactic antimicrobials should be administered prior to and during treatment with epcoritamab (see section 4.2). Patients should be monitored for signs and symptoms of infection, before and after epcoritamab administration, and treated appropriately. In the event of febrile neutropenia, patients should be evaluated for infection and managed with antibiotics, fluids and other supportive care, according to local guidelines.
 
@@ -1375,13 +1714,13 @@ There are no specific risk factors for tumour flare that have been identified; h
 
 ## CD20-negative disease
 
-<div style=\"page-break-after: always\"></div>
-
 There are limited data available on patients with CD20-negative DLBCL and patients with CD20negative FL treated with epcoritamab, and it is possible that patients with CD20-negative DLBCL and patients with CD20 negative FL may have less benefit compared to patients with CD20-positive DLBCL and patients with CD20-positive FL, respectively. The potential risks and benefits associated with treatment of patients with CD20-negative DLBCL and FL with epcoritamab should be considered.
 
 ## Patient card
 
 The doctor must inform the patient of the risk of CRS and ICANS and any signs and symptoms of CRS and ICANS. Patients must be instructed to seek immediate medical attention if they experience signs and symptoms of CRS and/or ICANS. Patients should be provided with a patient card and instructed to carry the card at all times. This card describes symptoms of CRS and ICANS which, if experienced, should prompt the patient to seek immediate medical attention.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Immunisation
 
@@ -1409,9 +1748,11 @@ Women of childbearing potential should be advised to use effective contraception
 
 ## Pregnancy
 
-Based on its mechanism of action, epcoritamab may cause foetal harm, including B-cell lymphocytopenia and alterations in normal immune responses, when administered to pregnant women. There are no data on the use of epcoritamab in pregnant women. Animal reproduction studies have not been conducted with epcoritamab. IgG1 antibodies, such as epcoritamab, can cross the placenta resulting in foetal exposure. Advise pregnant women of the potential risk to a foetus. Epcoritamab is not recommended during pregnancy and in women of childbearing potential not using contraception.
+Based on its mechanism of action, epcoritamab may cause foetal harm, including B-cell lymphocytopenia and alterations in normal immune responses, when administered to pregnant women. There are no data on the use of epcoritamab in pregnant women. Animal reproduction studies have not in foetal exposure. Advise pregnant women of the potential risk to a foetus.
 
-<div style=\"page-break-after: always\"></div>
+been conducted with epcoritamab. IgG1 antibodies, such as epcoritamab, can cross the placenta resulting Epcoritamab is not recommended during pregnancy and in women of childbearing potential not using
+
+contraception.
 
 ## Breast-feeding
 
@@ -1421,6 +1762,8 @@ It is not known whether epcoritamab is excreted in human milk or its effect on m
 
 No fertility studies have been conducted with epcoritamab (see section 5.3). The effect of epcoritamab on male and female fertility is unknown.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
 Epcoritamab has major influence on the ability to drive and use machines. Due to the potential for ICANS, patients receiving epcoritamab are at risk of altered level of consciousness (see section 4.4). Patients should be advised to exercise caution while (or avoid if symptomatic) driving, cycling or using heavy or potentially dangerous machines.
@@ -1428,6 +1771,8 @@ Epcoritamab has major influence on the ability to drive and use machines. Due to
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
+
+## Epcoritamab monotherapy
 
 The safety of epcoritamab was evaluated in a non-randomised, single-arm GCT3013-01 study in 382 patients with relapsed or refractory large B-cell lymphoma (N=167), follicular lymphoma (N=129) and follicular lymphoma (3-step step-up dose schedule N=86) after two or more lines of systemic therapy and included all the patients who enrolled to the 48 mg dose and received at least one dose of epcoritamab.
 
@@ -1443,118 +1788,215 @@ Adverse reactions that led to discontinuation occurred in 6.8% of patients. Disc
 
 Dose delays due to adverse reactions occurred in 42% of patients. Adverse reactions leading to dose delays (≥ 3%) were viral infections (17%), CRS (11%), neutropenia (5.2%), pneumonia (4.7%), upper respiratory tract infection (4.2%), and pyrexia (3.7%).
 
+## Epcoritamab in combination with lenalidomide and rituximab
+
+The safety of epcoritamab in combination with lenalidomide and rituximab was evaluated in M20-638, an open-label, randomised, multicentre study that included patients with relapsed or refractory follicular lymphoma (FL) after one prior line of therapy. Patients received epcoritamab in combination with lenalidomide and rituximab (N=243) or lenalidomide and rituximab alone (N=238).
+
+With the exception of CRS and ICANS, the safety results presented below and in Table 9 represent total safety data set from 243 patients who received epcoritamab following the 2-step step-up dose schedule or recommended 3-step step-up dose schedule in combination with lenalidomide and rituximab. The data presented for CRS and ICANS reflect the 133 patients who received epcoritamab at the recommended 3step step-up dose schedule in combination with lenalidomide and rituximab.
+
+## Recommended 3-step step-up dose schedule
+
+In study M20-638, CRS of any grade occurred in 26% (35/133) of patients treated with epcoritamab at the recommended 3-step step-up dose schedule in combination with lenalidomide and rituximab.
+
+<div style=\"page-break-after: always\"></div>
+
+Serious adverse reactions due to CRS occurred in 12% of patients who received epcoritamab in combination with lenalidomide and rituximab. Dose delays (interruptions) of epcoritamab due to CRS occurred in 11% of patients. ICANS occurred in 0.8% of patients, with a single event reported as Grade 1.
+
+## Total safety set
+
+Of the 243 patients who received epcoritamab following the 2-step step-up dose schedule or recommended 3-step step-up dose schedule in combination with lenalidomide and rituximab, the most common (≥ 20%) adverse reactions were neutropenia, rash, upper respiratory tract infections, fatigue, diarrhoea, injection site reactions, anaemia, constipation, thrombocytopenia, CRS, hypogammaglobulinaemia, COVID-19, pyrexia, and pneumonia.
+
+Serious adverse reactions occurred in 44% of patients who received epcoritamab in combination with lenalidomide and rituximab. Serious adverse reactions in ≥ 5% of patients included CRS, pneumonia, COVID-19, and febrile neutropenia.
+
+Permanent discontinuation of epcoritamab due to an adverse reaction occurred in 6.6% of patients who received epcoritamab in combination with lenalidomide and rituximab. Adverse reactions which resulted in permanent discontinuation of epcoritamab in more than 1 patient included pneumonia, COVID-19, upper respiratory tract infections, and neutropenia.
+
+Dose delays of epcoritamab due to an adverse reaction occurred in 70% of patients who received epcoritamab in combination with lenalidomide and rituximab. Adverse reactions which resulted in dose delays of epcoritamab in ≥ 5% of patients included neutropenia, upper respiratory tract infections, COVID-19, pneumonia, rash, and thrombocytopenia.
+
 ## Tabulated list of adverse reactions
 
-Adverse reactions for epcoritamab from clinical studies (Table 7) are listed by MedDRA system organ class and are based on the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); and very rare (&lt; 1/10 000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Adverse reactions occurring with epcoritamab are listed in Table 8.
+
+Adverse reactions occurring with epcoritamab in combination with lenalidomide and rituximab are listed in Table 9.
+
+Adverse reactions for epcoritamab from clinical studies (Table 8 and Table 9) are listed by MedDRA system organ class and are based on the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); and very rare (&lt; 1/10 000). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
+Table 8 Adverse reactions reported in patients with relapsed or refractory LBCL or FL treated with epcoritamab
+
+| System organ class / preferred term or adverse reaction   | All grades   | Grade 3-4   |
+|-----------------------------------------------------------|--------------|-------------|
+| Infections and infestations                               |              |             |
+| Viral infection a                                         | Very common  | Common      |
+| Pneumonia b                                               | Very common  | Common      |
+| Upper respiratory tract infection c                       | Very common  | Common      |
+| Fungal infection d                                        | Common       |             |
+| Sepsis e                                                  | Common       | Common      |
+| Cellulitis                                                | Common       | Common      |
 
 <div style=\"page-break-after: always\"></div>
 
-Table 7 Adverse reactions reported in patients with relapsed or refractory LBCL or FL treated with epcoritamab
+| Neoplasm benign, malignant and unspecified (including cysts and polyps)   | Common                                               |                                                      |
+|---------------------------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| Blood and lymphatic system disorders                                      | Blood and lymphatic system disorders                 | Blood and lymphatic system disorders                 |
+| Neutropenia f                                                             | Very common                                          | Very common                                          |
+| Anaemia g                                                                 | Very common                                          | Common                                               |
+| Thrombocytopenia h                                                        | Very common                                          | Common                                               |
+| Lymphopenia i                                                             | Very common                                          | Common                                               |
+| Febrile neutropenia                                                       | Common                                               | Common                                               |
+| Haemophagocytic lymphohistiocytosis j                                     | Uncommon                                             | Rare                                                 |
+| Immune system disorders                                                   | Immune system disorders                              | Immune system disorders                              |
+| Cytokine release syndrome j                                               | Very common                                          | Common                                               |
+| Hypogammaglobulinaemia                                                    | Very common                                          | Uncommon                                             |
+| Metabolism and nutrition disorders                                        | Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                   |
+| Decreased appetite                                                        | Very common                                          | Uncommon                                             |
+| Hypokalaemia                                                              | Common                                               | Common                                               |
+| Hypophosphatemia                                                          | Common                                               | Common                                               |
+| Hypomagnesaemia                                                           | Common                                               | Uncommon                                             |
+| Tumour lysis syndrome k                                                   | Common                                               | Uncommon                                             |
+| Nervous system disorders                                                  | Nervous system disorders                             | Nervous system disorders                             |
+| Headache                                                                  | Very common                                          | Uncommon                                             |
+| Immune effector cell-associated neurotoxicity syndrome j                  | Common                                               | Uncommon                                             |
+| Cardiac disorders                                                         | Cardiac disorders                                    | Cardiac disorders                                    |
+| Cardiac arrhythmias l                                                     | Common                                               | Uncommon                                             |
+| Respiratory, thoracic and mediastinal disorders                           | Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders      |
+| Pleural effusion                                                          | Common                                               | Common                                               |
+| Gastrointestinal disorders                                                | Gastrointestinal disorders                           | Gastrointestinal disorders                           |
+| Diarrhoea                                                                 | Very common                                          | Uncommon                                             |
+| Abdominal pain m                                                          | Very common                                          | Common                                               |
+| Nausea                                                                    | Very common                                          | Uncommon                                             |
+| Vomiting                                                                  | Common                                               | Uncommon                                             |
+| Skin and subcutaneous tissue disorders                                    | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |
+| Rash n                                                                    | Very common                                          |                                                      |
+| Pruritus                                                                  | Common                                               |                                                      |
+| Musculoskeletal and connective tissue disorders                           | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      |
+| Musculoskeletal pain o                                                    | Very common                                          | Common                                               |
+| General disorders and administration site conditions                      | General disorders and administration site conditions | General disorders and administration site conditions |
+| Injection site reactions p                                                | Very common                                          |                                                      |
+| Fatigue q                                                                 | Very common                                          | Common                                               |
+| Pyrexia r                                                                 | Very common                                          | Common                                               |
+| Oedema s                                                                  | Very common                                          | Common                                               |
+| Investigations                                                            | Investigations                                       | Investigations                                       |
+| Alanine aminotransferase increased                                        | Common                                               | Common                                               |
+| Aspartate aminotransferase increased                                      | Common                                               | Common                                               |
+| Blood creatinine increased                                                | Common                                               |                                                      |
+| Blood sodium decreased t                                                  | Common                                               | Uncommon                                             |
+| Alkaline phosphatase increased                                            | Common                                               |                                                      |
+| Adverse reactions were graded using NCI CTCAE                             | version 5.0                                          |                                                      |
 
-| System organ class / preferred term or adverse reaction                 | All grades                                                              | Grade 3-4                                                               |
-|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| Infections and infestations                                             | Infections and infestations                                             | Infections and infestations                                             |
-| Viral infection a                                                       | Very common                                                             | Common                                                                  |
-| Pneumonia b                                                             | Very common                                                             | Common                                                                  |
-| Upper respiratory tract infection c                                     | Very common                                                             | Common                                                                  |
-| Fungal infection d                                                      | Common                                                                  |                                                                         |
-| Sepsis e                                                                | Common                                                                  | Common                                                                  |
-| Cellulitis                                                              | Common                                                                  | Common                                                                  |
-| Neoplasm benign, malignant and unspecified (including cysts and polyps) | Neoplasm benign, malignant and unspecified (including cysts and polyps) | Neoplasm benign, malignant and unspecified (including cysts and polyps) |
-| Tumour flare                                                            | Common                                                                  |                                                                         |
-| Blood and lymphatic system disorders                                    | Blood and lymphatic system disorders                                    | Blood and lymphatic system disorders                                    |
-| Neutropenia f                                                           | Very common                                                             | Very common                                                             |
-| Anaemia g                                                               | Very common                                                             | Common                                                                  |
-| Thrombocytopenia h                                                      | Very common                                                             | Common                                                                  |
-| Lymphopenia i                                                           | Very common                                                             | Common                                                                  |
-| Febrile neutropenia                                                     | Common                                                                  | Common                                                                  |
-| Haemophagocytic lymphohistiocytosis j                                   | Uncommon                                                                | Rare                                                                    |
-| Immune system disorders                                                 | Immune system disorders                                                 | Immune system disorders                                                 |
-| Cytokine release syndrome j                                             | Very common                                                             | Common                                                                  |
-| Hypogammaglobulinaemia                                                  | Very common                                                             | Uncommon                                                                |
-| Metabolism and nutrition disorders                                      | Metabolism and nutrition disorders                                      | Metabolism and nutrition disorders                                      |
-| Decreased appetite                                                      | Very common                                                             | Uncommon                                                                |
-| Hypokalaemia                                                            | Common                                                                  | Common                                                                  |
-| Hypophosphatemia                                                        | Common                                                                  | Common                                                                  |
-| Hypomagnesaemia                                                         | Common                                                                  | Uncommon                                                                |
-| Tumour lysis syndrome k                                                 | Common                                                                  | Uncommon                                                                |
-| Nervous system disorders                                                | Nervous system disorders                                                | Nervous system disorders                                                |
-| Headache                                                                | Very common                                                             | Uncommon                                                                |
-| Immune effector cell-associated neurotoxicity syndrome j                | Common                                                                  | Uncommon                                                                |
-| Cardiac disorders                                                       | Cardiac disorders                                                       | Cardiac disorders                                                       |
-| Cardiac arrhythmias l                                                   | Common                                                                  | Uncommon                                                                |
-| Respiratory, thoracic and mediastinal disorders                         | Respiratory, thoracic and mediastinal disorders                         | Respiratory, thoracic and mediastinal disorders                         |
-| Pleural effusion                                                        | Common                                                                  | Common                                                                  |
-| Gastrointestinal disorders                                              | Gastrointestinal disorders                                              | Gastrointestinal disorders                                              |
-| Diarrhoea                                                               | Very common                                                             | Uncommon                                                                |
-| Abdominal pain m                                                        | Very common                                                             | Common                                                                  |
-| Nausea                                                                  | Very common                                                             | Uncommon                                                                |
-| Vomiting                                                                | Common                                                                  | Uncommon                                                                |
-| Skin and subcutaneous tissue disorders                                  | Skin and subcutaneous tissue disorders                                  | Skin and subcutaneous tissue disorders                                  |
-| Rash n                                                                  | Very common                                                             |                                                                         |
-| Pruritus                                                                | Common                                                                  |                                                                         |
-| Musculoskeletal and connective tissue disorders                         | Musculoskeletal and connective tissue disorders                         | Musculoskeletal and connective tissue disorders                         |
-| Musculoskeletal pain o                                                  | Very common                                                             | Common                                                                  |
-| General disorders and administration site                               | conditions                                                              |                                                                         |
-| Injection site reactions p                                              | Very common                                                             |                                                                         |
+a Viral infection includes COVID-19, cytomegalovirus chorioretinitis, cytomegalovirus colitis, cytomegalovirus infection, cytomegalovirus infection reactivation, gastroenteritis viral, herpes simplex, herpes simplex reactivation, herpes virus infection, herpes zoster, oral herpes, postacute COVID-19 syndrome, and varicella zoster virus infection
 
 <div style=\"page-break-after: always\"></div>
 
-| Fatigue q                            | Very common   | Common   |
-|--------------------------------------|---------------|----------|
-| Pyrexia r                            | Very common   | Common   |
-| Oedema s                             | Very common   | Common   |
-| Investigations                       |               |          |
-| Alanine aminotransferase increased   | Common        | Common   |
-| Aspartate aminotransferase increased | Common        | Common   |
-| Blood creatinine increased           | Common        |          |
-| Blood sodium decreased t             | Common        | Uncommon |
-| Alkaline phosphatase increased       | Common        |          |
-
-cytomegalovirus infection, cytomegalovirus infection reactivation, gastroenteritis viral, herpes simplex, herpes simplex reactivation, herpes virus infection, herpes zoster, oral herpes, post-acute COVID-
-
-19 syndrome, and varicella zoster virus infection
-
-b Pneumonia includes COVID-19 pneumonia and pneumonia
-
+- b Pneumonia includes COVID-19 pneumonia and pneumonia
 - c Upper respiratory tract infection includes laryngitis, pharyngitis, respiratory syncytial virus infection, rhinitis, rhinovirus infection, and upper respiratory tract infection
 - d Fungal infection includes candida infection, oesophageal candidiasis, oral candidiasis and oropharyngeal candidiasis
-
-e Sepsis includes bacteraemia, sepsis, and septic shock
-
+- e Sepsis includes bacteraemia, sepsis, and septic shock
 - f Neutropenia includes neutropenia and neutrophil count decreased
 - g Anaemia includes anaemia and serum ferritin decreased
 - h Thrombocytopenia includes platelet count decreased and thrombocytopenia
 - i Lymphopenia includes lymphocyte count decreased and lymphopenia
 - j  Events graded using American Society for Transplantation and Cellular Therapy (ASTCT) consensus criteria
 - k Clinical   Tumour Lysis Syndrome was graded based on Cairo-Bishop
-
-l Cardiac arrhythmias include bradycardia, sinus bradycardia, sinus tachycardia, supraventricular tachycardia, and tachycardia
-
+- l Cardiac arrhythmias include bradycardia, sinus bradycardia, sinus tachycardia, supraventricular tachycardia, and tachycardia
 - m Abdominal pain includes abdominal discomfort, abdominal pain, abdominal pain lower, abdominal pain upper, and abdominal tenderness
 - n Rash includes rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, rash pustular, and rash vesicular
-
-o Musculoskeletal pain includes back pain, bone pain, flank pain, musculoskeletal chest pain, musculoskeletal pain, myalgia, neck pain, non-cardiac chest pain, pain, pain in extremity, and spinal pain p Injection site reactions include injection site bruising, injection site erythema, injection site hypertrophy, injection site inflammation, injection site mass, injection site nodule, injection site oedema, injection site pain, injection site pruritus, injection site rash, injection site reaction, injection site swelling, and injection site urticaria.
-
-q Fatigue includes asthenia, fatigue, and lethargy
-
+- o Musculoskeletal pain includes back pain, bone pain, flank pain, musculoskeletal chest pain, musculoskeletal pain, myalgia, neck pain, non-cardiac chest pain, pain, pain in extremity, and spinal pain
+- p Injection site reactions include injection site bruising, injection site erythema, injection site hypertrophy, injection site inflammation, injection site mass, injection site nodule, injection site oedema, injection site pain, injection site pruritus, injection site rash, injection site reaction, injection site swelling, and injection site urticaria.
+- q Fatigue includes asthenia, fatigue, and lethargy
 - r Pyrexia includes body temperature increased and pyrexia
+- s Oedema includes face oedema, generalised oedema, oedema, oedema peripheral, peripheral swelling, swelling, and swelling face
+- t Blood sodium decreased includes blood sodium decreased and hyponatraemia
 
-s Oedema includes face oedema, generalised oedema,  oedema, oedema peripheral, peripheral swelling, swelling, and swelling face t Blood sodium decreased includes blood sodium decreased and hyponatraemia
+Table 9 Adverse reactions reported in patients with relapsed or refractory FL treated with epcoritamab in combination with lenalidomide and rituximab
 
-## Description of selected adverse reactions
-
-Cytokine release syndrome
-
-## 2-step step-up dose schedule (large B-cell lymphoma and follicular lymphoma)
-
-In study GCT3013-01, CRS of any grade occurred in 58% (171/296) of patients with large B-cell lymphoma and follicular lymphoma treated with epcoritamab at the 2-step step-up dose schedule. The incidence of Grade 1 was 35%, Grade 2 was 21%, and Grade 3 occurred in 2.4% of patients. Recurrent
+| System organ class / preferred term or adverse reaction   | All grades                           | Grade 3-4                            |
+|-----------------------------------------------------------|--------------------------------------|--------------------------------------|
+| Infections and infestations                               | Infections and infestations          | Infections and infestations          |
+| Upper respiratory tract infections a                      | Very common                          | Common                               |
+| COVID-19 b                                                | Very common                          | Common #                             |
+| Pneumonia c                                               | Very common                          | Very common                          |
+| Cytomegalovirus infection d                               | Common                               | Common #                             |
+| Herpes virus infection e                                  | Common                               | Uncommon #                           |
+| Fungal infection f                                        | Common                               | Uncommon                             |
+| Blood and lymphatic system disorders                      | Blood and lymphatic system disorders | Blood and lymphatic system disorders |
+| Neutropenia g                                             | Very common                          | Very common                          |
+| Anaemia h                                                 | Very common                          | Common #                             |
+| Thrombocytopenia i                                        | Very common                          | Common                               |
+| Lymphopenia j                                             | Very common                          | Very common                          |
+| Febrile neutropenia                                       | Common                               | Common                               |
+| Immune system disorders                                   | Immune system disorders              | Immune system disorders              |
 
 <div style=\"page-break-after: always\"></div>
 
-CRS occurred in 21% of patients. CRS of any grade occurred in 9.8% of patients after the priming dose (Cycle 1 Day 1); 13% after the intermediate dose (Cycle 1, Day 8); 51% after the first full dose (Cycle 1, Day 15), 6.5% after the second full dose (Cycle 1 Day 22) and 3.7% after the third full dose (Cycle 2 Day 1) or beyond. The median time to onset of CRS from the most recent administered epcoritamab dose was 2 days (range: 1 to 12 days). The median time to onset after the first full dose was 19.3 hours (range: &lt;0.1 to 7 days). CRS resolved in 99% of patients, and the median duration of CRS events was 2 days (range 1 to 54 days).
+| Cytokine release syndrome ‡                              | Very common                                          |               |
+|----------------------------------------------------------|------------------------------------------------------|---------------|
+| Hypogammaglobulinaemia k                                 | Very common                                          | Uncommon      |
+| Psychiatric disorders                                    | Psychiatric disorders                                |               |
+| Insomnia                                                 | Very common                                          |               |
+| Nervous system disorders                                 | Nervous system disorders                             |               |
+| Neurological changes l                                   | Very common                                          |               |
+| Headache                                                 | Very common                                          |               |
+| Immune effector cell-associated neurotoxicity syndrome ‡ | Uncommon                                             |               |
+| Gastrointestinal disorders                               | Gastrointestinal disorders                           |               |
+| Diarrhoea                                                | Very common                                          | Common #      |
+| Constipation                                             | Very common                                          | Uncommon #    |
+| Nausea                                                   | Very common                                          |               |
+| Mucositis m                                              | Common                                               |               |
+| Skin and subcutaneous tissue disorders                   | Skin and subcutaneous tissue disorders               |               |
+| Rash n                                                   | Very common                                          | Very common # |
+| General disorders and administration site conditions     | General disorders and administration site conditions |               |
+| Fatigue o                                                | Very common                                          | Common #      |
+| Injection site reactions p                               | Very common                                          |               |
+| Pyrexia                                                  | Very common                                          | Uncommon #    |
+| Investigations                                           | Investigations                                       |               |
+| Blood potassium decreased q                              | Very common                                          | Common #      |
+| Alanine aminotransferase increased                       | Very common                                          | Common #      |
+| Aspartate aminotransferase increased                     | Very common                                          | Common #      |
 
-Of the 171 patients that experienced CRS, the most common signs and symptoms of CRS included pyrexia 99%, hypotension 32% and hypoxia 16%. Other signs and symptoms of CRS in ≥3% of patients included chills (11%), tachycardia (including sinus tachycardia (11%)),  headache (8.2%), nausea (4.7%), and vomiting (4.1%). Transient elevated liver enzymes (ALT or AST &gt; 3xULN) were concurrent with CRS in 4.1% of patients with CRS. See section 4.2 and 4.4 for monitoring and management guidance.
+a Upper respiratory tract infections include acute sinusitis, laryngitis, nasopharyngitis, pharyngitis, respiratory syncytial virus infection, rhinitis, rhinovirus infection, sinusitis, upper respiratory tract infection.
+
+b COVID-19 includes COVID-19, COVID-19 pneumonia, coronavirus infection, coronavirus pneumonia.
+
+- c Pneumonia includes atypical pneumonia, bronchopulmonary aspergillosis, infective exacerbation of bronchiectasis, pneumocystis jirovecii pneumonia, pneumonia, pneumonia acinetobacter, pneumonia bacterial, pneumonia cytomegaloviral, pneumonia fungal, pneumonia haemophilus, pneumonia influenza, pneumonia legionella, pneumonia mycoplasma, pneumonia parainfluenza viral, pneumonia pneumococcal, pneumonia pseudomonal, pneumonia respiratory syncytial viral, pneumonia viral.
+
+d Cytomegalovirus infection includes cytomegalovirus chorioretinitis, cytomegalovirus colitis, cytomegalovirus infection, cytomegalovirus infection reactivation, cytomegalovirus viraemia.
+
+e Herpesvirus infection includes congenital herpes simplex infection, herpes simplex, herpes simplex reactivation, herpes virus infection, herpes zoster, oral herpes, varicella zoster virus infection.
+
+f Fungal infection includes candida infection, oral candidiasis, skin candida, vulvovaginal candidiasis. g Neutropenia includes neutropenia, neutrophil count decreased.
+
+h Anaemia includes anaemia, serum ferritin decreased.
+
+i Thrombocytopenia includes platelet count decreased, thrombocytopenia.
+
+j Lymphopenia includes lymphocyte count decreased, lymphopenia.
+
+k Hypogammaglobulinaemia includes blood immunoglobulin G decreased, hypogammaglobulinaemia, hypoglobulinaemia, immunoglobulins decreased.
+
+l Neurological changes include balance disorder, brain fog, cognitive disorder, confusional state, disturbance in attention, dysphonia, essential tremor, hypoacusis, memory impairment, tremor, vertigo.
+
+m Mucositis includes aphthous ulcer, mouth ulceration, mucosal infection, mucosal inflammation, oropharyngeal pain, stomatitis.
+
+<div style=\"page-break-after: always\"></div>
+
+n Rash includes application site rash, blister, catheter site rash, dermatitis, erythema, rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, rash pustular, skin exfoliation, skin reaction, toxic skin eruption, urticaria.
+
+o Fatigue includes asthenia, fatigue, lethargy, malaise.
+
+p Injection site reactions include injection site cellulitis, injection site erythema, injection site inflammation, injection site nodule, injection site pain, injection site pruritus, injection site reaction, injection site swelling.
+
+q Blood potassium decreased includes hypokalaemia.
+
+## Description of selected adverse reactions
+
+## Cytokine release syndrome
+
+## Epcoritamab monotherapy
+
+## 2-step step-up dose schedule (large B-cell lymphoma and follicular lymphoma)
+
+In study GCT3013-01, CRS of any grade occurred in 58% (171/296) of patients with large B-cell lymphoma and follicular lymphoma treated with epcoritamab at the 2-step step-up dose schedule. The incidence of Grade 1 was 35%, Grade 2 was 21%, and Grade 3 occurred in 2.4% of patients. Recurrent CRS occurred in 21% of patients. CRS of any grade occurred in 9.8% of patients after the priming dose (Cycle 1 Day 1); 13% after the intermediate dose (Cycle 1, Day 8); 51% after the first full dose (Cycle 1, Day 15), 6.5% after the second full dose (Cycle 1 Day 22) and 3.7% after the third full dose (Cycle 2 Day 1) or beyond. The median time to onset of CRS from the most recent administered epcoritamab dose was 2 days (range: 1 to 12 days). The median time to onset after the first full dose was 19.3 hours (range: &lt;0.1 to 7 days). CRS resolved in 99% of patients, and the median duration of CRS events was 2 days (range 1 to 54 days).
+
+Of the 171 patients that experienced CRS, the most common signs and symptoms of CRS included pyrexia 99%, hypotension 32% and hypoxia 16%. Other signs and symptoms of CRS in ≥3% of patients included chills (11%), tachycardia (including sinus tachycardia (11%)), headache (8.2%), nausea (4.7%), and vomiting (4.1%). Transient elevated liver enzymes (ALT or AST &gt; 3xULN) were concurrent with CRS in 4.1% of patients with CRS. See section 4.2 and 4.4 for monitoring and management guidance.
 
 ## 3-step step-up dose schedule follicular lymphoma
 
@@ -1564,37 +2006,75 @@ Serious adverse reactions due to CRS occurred in 28% of patients who received ep
 
 Of the 42 patients that experienced CRS at the recommended dose, the most common (≥10%) signs and symptoms of CRS included pyrexia (100%) and hypotension (14%). In addition to corticosteroid use, tocilizumab was used to manage CRS event in 12% of patients.
 
+## Epcoritamab in combination with lenalidomide and rituximab
+
+In study M20-638, CRS of any grade occurred in 26% (35/133) of patients treated with epcoritamab at the recommended 3-step step-up dose schedule in combination with lenalidomide and rituximab. The incidence of Grade 1 CRS was 21% (28/133) and Grade 2 was 5.3% (7/133). At the time of analysis, there were no Grade ≥3 CRS events reported. Recurrent CRS occurred in 10% (13/133) of patients. Of all the CRS events, most (88%) occurred during Cycle 1. In Cycle 1, CRS occurred in 6% (8/133) of patients after the priming dose (Cycle 1 Day 1), 3.8% (5/133) of patients after the first intermediate dose (Cycle 1 Day 8), 2.3% (3/132) of patients after the second intermediate dose (Cycle 1 Day 15), and 19% (25/132) of patients after the first full dose (Cycle 1 Day 22). The median time to onset of CRS from the most recently administered epcoritamab dose across all doses was 78 hours (range: 0.2 to 12 days). The median time to onset after the first full 48 mg dose was 41 hours (range: 0.3 to 12 days). CRS resolved in 100% of patients and the median duration of CRS events was 2 days (range: 0.1 to 26 days).
+
+<div style=\"page-break-after: always\"></div>
+
 ## Immune effector cell-associated neurotoxicity syndrome
+
+## Epcoritamab monotherapy
 
 In study GCT3013-01, ICANS occurred in 4.7% (18/382) of patients treated with epcoritamab; 3.1% experienced Grade 1 and 1.3% experienced Grade 2. One patient (0.3%) experienced an ICANS event of Grade 5 (fatal). The median time to first ICANS onset from the start of epcoritamab treatment (Cycle 1 Day 1) was 18 days (range: 8 to 141 days). ICANS resolved in 94% (17/18) of patients with supportive care. The median time to resolution of ICANS was 2 days (range: 1 to 9 days). In the 18 patients with ICANS, the onset of ICANS was prior to CRS in 11% of patients, concurrent with CRS in 44%, following onset of CRS in 17%, and in the absence of CRS in 28%.
 
+## Epcoritamab in combination with lenalidomide and rituximab
+
+In study M20-638, ICANS occurred in 0.8% (1/133) of patients with FL treated with epcoritamab at the recommended 3-step step-up dose schedule in combination with lenalidomide and rituximab, with a single event reported as Grade 1. The event occurred after the 48 mg dose on Cycle 1 Day 22 and ICANS resolved in 3 days.
+
 ## Serious infections
+
+## Epcoritamab monotherapy
 
 ## Large B-cell lymphoma
 
 In study GCT3013-01, serious infections of any grade occurred in 25% (41/167) of patients with large Bcell lymphoma treated with epcoritamab. The most frequent serious infections included COVID-19 (6.6%), COVID-19 pneumonia (4.2%), pneumonia (3.6%), sepsis (2.4%), upper respiratory tract infection (1.8%), bacteraemia (1.2%), and septic shock (1.2%). The median time to onset of first serious infection from the start of epcoritamab treatment (Cycle 1 Day 1) was 56 days (range: 4 to 631 days), with median duration of 15 days (range: 4 to 125 days). Grade 5 events of infections occurred in 7 (4.2%) patients.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Follicular lymphoma
 
 In study GCT3013-01, serious infections of any grade occurred in 32% (68/215) of patients with follicular lymphoma treated with epcoritamab. The most frequent serious infections included COVID-19 (8.8%), COVID-19 pneumonia (5.6%), pneumonia (3.7%), urinary tract infection (1.9%), and pneumocystis jirovecii pneumonia (1.4%). The median time to onset of first serious infection from the start of epcoritamab treatment (Cycle 1 Day 1) was 81 days (range: 1 to 636 days), with median duration of 18 days (range: 4 to 249 days). Grade 5 events of infection occurred in 8 (3.7%) patients , 6 (2.8%) of which were attributed to COVID-19 or COVID-19 pneumonia.
 
+## Epcoritamab in combination with lenalidomide and rituximab
+
+<div style=\"page-break-after: always\"></div>
+
+In study M20-638, serious infections, including opportunistic infections, were reported in 33% (81/243) of patients with FL treated with epcoritamab in combination with lenalidomide and rituximab. The most common were pneumonia (10%), COVID-19 (4.5%), and COVID-19 pneumonia (3.7%). The median time to onset of first serious infection from the start of epcoritamab in combination with lenalidomide and rituximab (Cycle 1 Day 1) was 91 days (range: 2 to 418 days), with median duration of 13 days (range: 1 to 123 days).
+
 ## Neutropenia
+
+## Epcoritamab monotherapy
 
 In study GCT3013-01, neutropenia of any grade occurred in 28% (105/382) of patients, including 23% Grade 3-4 events. The median time to onset of first neutropenia/neutrophil count decreased event was 65 days (range: 2 to 750 days), with median duration of 15 days (range: 2 to 415 days). Of the 105 patients who had neutropenia/neutrophil count decreased events, 61% received G-CSF to treat the events.
 
+## Epcoritamab in combination with lenalidomide and rituximab
+
+In study M20-638, neutropenia of any grade occurred in 74% (180/243) of patients, including 27% (66/243) Grade 3 and 42% (101/243) Grade 4 events. The median time to onset of the first neutropenia/neutrophil count decreased event was 57 days (range: 2 to 377 days), with median duration of 22 days (range: 3 to 219 days). Of the 167 patients who had Grade 3-4 neutropenia/neutrophil count decreased events, 87% (146/167) received G-CSF to treat the events.
+
 ## Tumour lysis syndrome
+
+## Epcoritamab monotherapy
 
 In study GCT3013-01, TLS occurred in 1.0% (4/382) of patients. Median time to onset was 18 days (range 8 to 33 days), and median duration was 3 days (range 2 to 4 days).
 
+## Epcoritamab in combination with lenalidomide and rituximab
+
+In study M20-638, laboratory TLS occurred in one (1) patient. The event occurred on Cycle 1 Day 10 and resolved within 6 days. Clinical TLS was not observed in patients with FL treated with epcoritamab in combination with lenalidomide and rituximab.
+
 ## Tumour flare
 
+## Epcoritamab monotherapy
+
 In study GCT3013-01, tumour flare occurred in 1.6% (6/382) of patients, all of which were grade 2. The median time to onset was 19.5 days (range 9 to 34 days), and median duration was 9 days (range 1 to 50 days).
+
+## Epcoritamab in combination with lenalidomide and rituximab
+
+In study M20-638, tumour flare occurred in 1.2% (3/243) of patients, 0.8% (2/243) experienced Grade 2 and 0.4% (1/243) Grade 3. The median time to onset was 8 days (range 7 to 20 days), and median duration was 7.5 days (range 3 to 12 days).
 
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -1612,9 +2092,9 @@ Epcoritamab is a humanised IgG1-bispecific antibody that binds to a specific ext
 
 Epcoritamab Fc region is silenced to prevent target-independent immune effector mechanisms, such as antibody-dependent cellular cytotoxicity (ADCC), complement-dependent cellular cytotoxicity (CDC), and antibody-dependent cellular phagocytosis (ADCP).
 
-## Pharmacodynamic effects
+In preclinical studies, the combination of epcoritamab and rituximab did not lead to functional interference and results in complementary NK cell mediated antibody-dependent cellular cytotoxicity (ADCC) and T-cell mediated cytotoxicity.
 
-<div style=\"page-break-after: always\"></div>
+## Pharmacodynamic effects
 
 Epcoritamab induced rapid and sustained depletion of circulating B-cells (defined as CD19 B-cell counts ≤ 10 cell/µl) in the subjects who have detectable B cells at treatment initiation. There were 21% subjects (n=33) with DLBCL and 50% subjects (n=56) with FL who had detectable circulating B-cells at treatment initiation. Transient reduction in circulating T cells was observed immediately after each dose in Cycle 1 and followed by T cell expansion in subsequent cycles.
 
@@ -1626,7 +2106,13 @@ In study GCT3013-01, following subcutaneous administration of epcoritamab at the
 
 Anti-drug antibodies (ADA) were commonly detected. The incidence of treatment-emergent ADAs with the 2-step step-up dose schedule (0.16/0.8/48 mg) in the combined population of DLBCL and FL was 3.4% (3.4 % positive, 93.9% negative and 2.7% indeterminate, N=261 evaluable patients) and 3.3% (3.3% positive, 95% negative and 1.7% indeterminate, N= 60 evaluable patients), in studies GCT301301 and GCT3013-04, respectively.
 
-The incidence of treatment-emergent ADAs with the 3-step step-up dose schedule (0.16/0.8/3/48 mg) in the FL optimisation cohort was 7% (7% positive, 91.5% negative and 1.4% indeterminate, N=71 evaluable patients) in study GCT3013-01. A subject is classified as indeterminate if the patient is confirmed ADA positive at baseline but there is no confirmed positive on-treatment record or if confirmed ADA positive on treatment record titre are equal or lower than baseline.
+The incidence of treatment-emergent ADAs with the 3-step step-up dose schedule (0.16/0.8/3/48 mg) in the FL optimisation cohort was 7% (7% positive, 91.5% negative and 1.4% indeterminate, N=71
+
+<div style=\"page-break-after: always\"></div>
+
+evaluable patients) in study GCT3013-01. A subject is classified as indeterminate if the patient is confirmed ADA positive at baseline but there is no confirmed positive on-treatment record or if confirmed ADA positive on treatment record titre are equal or lower than baseline.
+
+Anti-epcoritamab antibodies developed in 2.1% of patients (5 of 238) with FL treated with epcoritamab in combination with lenalidomide and rituximab in study M20-638 (up to 12 cycles).
 
 No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed, however, data are still limited. Neutralising antibodies were not evaluated.
 
@@ -1634,13 +2120,9 @@ No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed, 
 
 ## Diffuse large B-cell lymphoma
 
-Study GCT3013-01 was an open-label, multi-cohort, multicentre, single-arm study that evaluated epcoritamab as monotherapy in patients with relapsed or refractory large B-cell lymphoma (LBCL) after two or more lines of systemic therapy, including diffuse large B-cell lymphoma (DLBCL). The study includes a dose escalation part and an expansion part. The expansion part of the study included an aggressive non-Hodgkin lymphoma (aNHL) cohort, an indolent NHL (iNHL) cohort and a mantle-cell lymphoma (MCL) cohort. The pivotal aNHL cohort consisted of patients with LBCL (N=157), including patients with DLBCL (N=139, 12 patients of which had MYC, BCL2, and/or BCL6 rearrangements i.e., DH/TH), with high-grade B-cell lymphoma (HGBCL) (N=9), with follicular lymphoma grade 3B (FL) (N=5) and patients with primary mediastinal B-cell lymphoma (PMBCL) (N=4). In the DLBCL cohort, 29% (40/139) of patients had transformed DLBCL arising from indolent lymphoma. Patients included in the study were required to have documented CD20+ mature B-cell neoplasm according to WHO classification 2016 or WHO classification 2008 based on representative pathology report, failed prior autologous hematopoietic stem cell transplantation (HSCT) or were ineligible for autologous HSCT, patients who had lymphocyte counts &lt; 5×10 9 /L, and patients with at least 1 prior anti-CD20 monoclonal antibody-containing therapy.
+Study GCT3013-01 was an open-label, multi-cohort, multicentre, single-arm study that evaluated epcoritamab as monotherapy in patients with relapsed or refractory large B-cell lymphoma (LBCL) after two or more lines of systemic therapy, including diffuse large B-cell lymphoma (DLBCL). The study included a dose escalation part and an expansion part. The expansion part of the study included an aggressive non-Hodgkin lymphoma (aNHL) cohort, an indolent NHL (iNHL) cohort and a mantle-cell lymphoma (MCL) cohort. The pivotal aNHL cohort consisted of patients with LBCL (N=157), including patients with DLBCL (N=139, 12 patients of which had MYC, BCL2, and/or BCL6 rearrangements i.e., DH/TH), with high-grade B-cell lymphoma (HGBCL) (N=9), with follicular lymphoma grade 3B (FL) (N=5) and patients with primary mediastinal B-cell lymphoma (PMBCL) (N=4). In the DLBCL cohort, 29% (40/139) of patients had transformed DLBCL arising from indolent lymphoma. Patients included in the study were required to have documented CD20+ mature B-cell neoplasm according to WHO classification 2016 or WHO classification 2008 based on representative pathology report, failed prior autologous hematopoietic stem cell transplantation (HSCT) or were ineligible for autologous HSCT, patients who had lymphocyte counts &lt; 5×10 9 /L, and patients with at least 1 prior anti-CD20 monoclonal antibody-containing therapy.
 
-The study excluded patients with central nervous system (CNS) involvement of lymphoma, prior treatment with allogeneic HSCT or solid organ transplant, chronic ongoing infectious diseases, any patients with known impaired T-cell immunity, a creatinine clearance of less than 45 ml/min, alanine aminotransferase &gt; 3 times the upper limit of normal, cardiac ejection fraction less than 45%, and known
-
-<div style=\"page-break-after: always\"></div>
-
-clinically significant cardiovascular disease. Efficacy was evaluated in 139 patients with DLBCL who had received at least one dose of epcoritamab SC in cycles of 4 weeks, i.e., 28 days. Epcoritamab monotherapy was administered at the recommended 2-step step-up dose schedule as follows:
+The study excluded patients with central nervous system (CNS) involvement of lymphoma, prior treatment with allogeneic HSCT or solid organ transplant, chronic ongoing infectious diseases, any patients with known impaired T-cell immunity, a creatinine clearance of less than 45 ml/min, alanine aminotransferase &gt; 3 times the upper limit of normal, cardiac ejection fraction less than 45%, and known clinically significant cardiovascular disease. Efficacy was evaluated in 139 patients with DLBCL who had received at least one dose of epcoritamab SC in cycles of 4 weeks, i.e., 28 days. Epcoritamab monotherapy was administered at the recommended 2-step step-up dose schedule as follows:
 
 - Cycle 1: epcoritamab 0.16 mg on Day 1, 0.8 mg on Day 8, 48 mg on Day 15 and Day 22
 - Cycles 2-3: epcoritamab 48 mg on Days 1, 8, 15, and 22
@@ -1649,55 +2131,52 @@ clinically significant cardiovascular disease. Efficacy was evaluated in 139 pat
 
 Patients continued to receive epcoritamab until disease progression or unacceptable toxicity.
 
-The demographics and baseline characteristics are shown in Table  8.
+The demographics and baseline characteristics are shown in Table 10.
 
-Table 8 Demographics and baseline characteristics of patients with DLBCL in GCT3013-01 study
+Table 10 Demographics and baseline characteristics of patients with DLBCL in GCT3013-01 study
 
-| Characteristics                                                      | (N=139)     |
-|----------------------------------------------------------------------|-------------|
-| Age                                                                  |             |
-| Median, years (min, max)                                             | 66 (22, 83) |
-| < 65 years, n (%)                                                    | 66 (47)     |
-| 65 to < 75 years, n (%)                                              | 44 (32)     |
-| ≥ 75 years, n (%)                                                    | 29 (21)     |
-| Males, n (%)                                                         | 85 (61)     |
-| Race, n (%)                                                          |             |
-| White                                                                | 84 (60)     |
-| Asian                                                                | 27 (19)     |
-| Other                                                                | 5 (4)       |
-| Not Reported                                                         | 23 (17)     |
-| ECOG performance status; n (%)                                       |             |
-| 0                                                                    | 67 (48)     |
-| 1                                                                    | 67 (48)     |
-| 2                                                                    | 5 (4)       |
-| Disease stage c at initial diagnosis, n (%)                          |             |
-| III                                                                  | 16 (12)     |
-| IV                                                                   | 86 (62)     |
-| Number of prior lines of anti-lymphoma therapy                       |             |
-| Median (min, max)                                                    | 3 (2, 11)   |
-| 2, n (%)                                                             | 41 (30)     |
-| 3, n (%)                                                             | 47 (34)     |
-| ≥ 4, n (%)                                                           | 51 (37)     |
-| DLBCL Disease history; n (%)                                         |             |
-| De Novo DLBCL                                                        | 97 (70)     |
-| DLBCL transformed from indolent lymphoma                             | 40 (29)     |
-| FISH Analysis Per Central lab d , N=88                               |             |
-| Double-hit/Triple-hit lymphoma, n (%)                                | 12 (14)     |
-| Prior autologous HSCT                                                | 26 (19)     |
-| Prior therapy; n (%)                                                 |             |
-| Prior CAR-T                                                          | 53 (38)     |
-| Primary refractory disease a                                         | 82 (59)     |
-| Refractory to ≥ 2 consecutive lines of prior anti-lymphoma therapy b | 104 (75)    |
-| Refractory to the last line of systemic antineoplastic therapy       | 114 (82)    |
-| Refractory to prior anti-CD20 therapy                                | 117 (84)    |
+| Characteristics          | (N=139)     |
+|--------------------------|-------------|
+| Age                      |             |
+| Median, years (min, max) | 66 (22, 83) |
+| < 65 years, n (%)        | 66 (47)     |
+| 65 to < 75 years, n (%)  | 44 (32)     |
+| ≥ 75 years, n (%)        | 29 (21)     |
+| Males, n (%)             | 85 (61)     |
+| Race, n (%)              | Race, n (%) |
 
 <div style=\"page-break-after: always\"></div>
 
-## Refractory to CAR-T
-
-39 (28)
-
-a A patient is considered to be primary refractory if the patient is refractory to frontline anti-lymphoma therapy.
+| White                                                                | 84 (60)   |
+|----------------------------------------------------------------------|-----------|
+| Asian                                                                | 27 (19)   |
+| Other                                                                | 5 (4)     |
+| Not Reported                                                         | 23 (17)   |
+| ECOG performance status; n (%)                                       |           |
+| 0                                                                    | 67 (48)   |
+| 1                                                                    | 67 (48)   |
+| 2                                                                    | 5 (4)     |
+| Disease stage c at initial diagnosis, n (%)                          |           |
+| III                                                                  | 16 (12)   |
+| IV                                                                   | 86 (62)   |
+| Number of prior lines of anti-lymphoma therapy                       |           |
+| Median (min, max)                                                    | 3 (2, 11) |
+| 2, n (%)                                                             | 41 (30)   |
+| 3, n (%)                                                             | 47 (34)   |
+| ≥ 4, n (%)                                                           | 51 (37)   |
+| DLBCL Disease history; n (%)                                         |           |
+| De Novo DLBCL                                                        | 97 (70)   |
+| DLBCL transformed from indolent lymphoma                             | 40 (29)   |
+| FISH Analysis Per Central lab d , N=88                               |           |
+| Double-hit/Triple-hit lymphoma, n (%)                                | 12 (14)   |
+| Prior autologous HSCT                                                | 26 (19)   |
+| Prior therapy; n (%)                                                 |           |
+| Prior CAR-T                                                          | 53 (38)   |
+| Primary refractory disease a                                         | 82 (59)   |
+| Refractory to ≥ 2 consecutive lines of prior anti-lymphoma therapy b | 104 (75)  |
+| Refractory to the last line of systemic antineoplastic therapy b     | 114 (82)  |
+| Refractory to prior anti-CD20 therapy                                | 117 (84)  |
+| Refractory to CAR-T                                                  | 39 (28)   |
 
 b A patient is considered to be refractory if the patient either experiences disease progression during therapy or disease progression within &lt; 6 months after therapy completion. A patient is considered relapsed if the patient had recurred disease ≥ 6 months after therapy completion.
 
@@ -1707,14 +2186,19 @@ d Post hoc central lab FISH analysis was performed on available diagnostic basel
 
 The primary efficacy endpoint was overall response rate (ORR) determined by Lugano criteria (2014) as assessed by Independent Review Committee (IRC). The median follow-up time was 15.7 months (range: 0.3 to 23.5 months). The median duration of exposure was 4.1 months (range: 0 to 23 months).
 
-Table 9 Efficacy results in study GCT3013-01 in patients with DLBCL a
+Table 11 Efficacy results in study GCT3013-01 in patients with DLBCL a
+
+| Endpoint IRC assessment   | Epcoritamab (N=139)   |
+|---------------------------|-----------------------|
+| ORR b , n (%)             | 86 (62)               |
+| (95% CI)                  | (53.3, 70)            |
+| CR b , n (%)              | 54 (39)               |
+| (95% CI)                  | (30.7, 47.5)          |
+
+<div style=\"page-break-after: always\"></div>
 
 | Endpoint IRC assessment     | Epcoritamab (N=139)   |
 |-----------------------------|-----------------------|
-| ORR b , n (%)               | 86 (62)               |
-| (95% CI)                    | (53.3, 70)            |
-| CR b , n (%)                | 54 (39)               |
-| (95% CI)                    | (30.7, 47.5)          |
 | PR, n (%)                   | 32 (23)               |
 | (95% CI)                    | (16.3, 30.9)          |
 | DOR b                       |                       |
@@ -1723,7 +2207,9 @@ Table 9 Efficacy results in study GCT3013-01 in patients with DLBCL a
 | Median (95% CI), months     | NR (12.0, NR)         |
 | TTR, median (range), months | 1.4 (1, 8.4)          |
 
-CI = confidence interval; CR = complete response; DOR = duration of response; DOCR = duration of complete response; IRC = independent review committee; ORR = overall response rate; PR = partial response; TTR = time to response a Determined by Lugano criteria (2014) as assessed by independent review committee (IRC)
+CI = confidence interval; CR = complete response; DOR = duration of response; DOCR = duration of complete response; IRC = independent review committee; ORR = overall response rate; PR = partial response; TTR = time to response
+
+a Determined by Lugano criteria (2014) as assessed by independent review committee (IRC)
 
 b Included patients with initial PD by Lugano or IR by LYRIC who later obtained PR/CR.
 
@@ -1731,11 +2217,130 @@ The median time to CR was 2.6 months (range: 1.2 to 10.2 months).
 
 ## Follicular lymphoma
 
-Study GCT3013-01 was an open-label, multi-cohort, multicentre, single-arm trial that evaluated epcoritamab as monotherapy in patients with relapsed or refractory follicular lymphoma (FL) after two or more lines of systemic therapy. The study includes a dose escalation part, an expansion part and a 3-step step-up dose optimisation part. The expansion part of the study included an aggressive nonHodgkin lymphoma (aNHL) cohort, an indolent NHL (iNHL) cohort and a mantle-cell lymphoma (MCL) cohort. The pivotal iNHL cohort, included patients with FL. Patients included in the study were required to have documented CD20+ mature B-cell neoplasm according to WHO classification 2016 or WHO classification 2008 based on representative pathology report with histologic confirmed FL 1-3A at initial diagnosis without clinical or pathological evidence of transformation. All patients had relapsed or refractory disease to the last prior line therapy and previously treated with at least 2 lines of systemic antineoplastic therapy, including at least 1 anti-CD20 monoclonal antibody-containing therapy and an alkylating agent or lenalidomide. The study excluded patients with CNS involvement of lymphoma ,
+## M20-638
+
+Study M20-638 was an open-label, randomised, multicentre trial which evaluated epcoritamab in combination with lenalidomide and rituximab in patients with relapsed or refractory follicular lymphoma (FL) after one prior line of therapy. Patients were randomised to receive epcoritamab in combination with lenalidomide and rituximab or lenalidomide and rituximab alone. The study included patients with histologically confirmed classic FL (previously Grade 1 to 3a FL) stage II, III, or IV with no evidence of histologic transformation to an aggressive lymphoma and CD20+ disease based on the most recent representative pathology report, according to the 5th edition of WHO Classification, R/R disease after receiving treatment with at least one prior anti-lymphoma regimen that contained an antiCD20 monoclonal antibody in combination with chemotherapy, Eastern Cooperative Oncology Group (ECOG) performance status 0 to 2, no documented refractoriness to lenalidomide, no lenalidomide exposure within 12 months prior to randomisation, and the need for treatment initiation per investigator determination based on symptoms and/or disease burden (e.g., GELF criteria). The study excluded patients with known CNS involvement by lymphoma, prior allograft, known active infection, known impaired T-cell immunity, creatinine clearance &lt; 50 ml/min, alanine transaminase &gt; 3 times the upper limit of normal, and clinically significant cardiovascular disease. Patients received epcoritamab in 28-day cycles for a total of 12 cycles or until disease progression or unacceptable toxicity, whichever occurred first.
+
+The recommended epcoritamab 3-step step-up dose schedule was:
+
+- Cycle 1: epcoritamab 0.16 mg on Day 1, 0.8 mg on Day 8, 3 mg on Day 15, and 48 mg on Day 22
+- Cycles 2-3: epcoritamab 48 mg on Days 1, 8, 15, and 22
+- Cycles 4-12: epcoritamab 48 mg on Day 1
+
+In both treatment arms, lenalidomide was given orally at a dose of 20 mg once daily from Days 1 to 21 for 12 Cycles while rituximab was administered intravenously at a dose of 375 mg/m 2 on Days 1, 8, 15, and 22 of Cycle 1, followed by administration on Day 1 of Cycles 2 to 5.
+
+The baseline demographics and disease-related baseline characteristics shown in Table 12 are based on the intent to treat (ITT) population.
 
 <div style=\"page-break-after: always\"></div>
 
-allogeneic HSCT or solid organ transplant, ongoing active infectious diseases, any patients with known impaired T-cell immunity, a creatinine clearance of less than 45 ml/min, alanine aminotransferase &gt;3 times the upper limit of normal and cardiac ejection fraction less than 45%. Efficacy was evaluated in 128 patients who had received epcoritamab subcutaneously (SC) in cycles of 4 weeks, i.e., 28 days. Epcoritamab was administered as a monotherapy in a 2-step step-up dose schedule as follows:
+Table 12 Baseline demographics and disease-related baseline characteristics of patients with relapsed or refractory FL in study M20-638
+
+| Parameter                                                                                                                                                                                                        | Epcoritamab + Lenalidomide and Rituximab (N=243)                                                                                                                                                                 | Lenalidomide and Rituximab (N=245)                                                                                                                                                                               |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Age, years                                                                                                                                                                                                       |                                                                                                                                                                                                                  |                                                                                                                                                                                                                  |
+| Median (range)                                                                                                                                                                                                   | 60 (30, 84)                                                                                                                                                                                                      | 63 (24, 89)                                                                                                                                                                                                      |
+| Age distribution, n (%)                                                                                                                                                                                          |                                                                                                                                                                                                                  |                                                                                                                                                                                                                  |
+| <65 years                                                                                                                                                                                                        | 155 (64)                                                                                                                                                                                                         | 139 (57)                                                                                                                                                                                                         |
+| 65 to <75 years                                                                                                                                                                                                  | 68 (28)                                                                                                                                                                                                          | 71 (29)                                                                                                                                                                                                          |
+| ≥75 years                                                                                                                                                                                                        | 20 (8)                                                                                                                                                                                                           | 35 (14)                                                                                                                                                                                                          |
+| Sex, n (%)                                                                                                                                                                                                       |                                                                                                                                                                                                                  |                                                                                                                                                                                                                  |
+| Male                                                                                                                                                                                                             | 139 (57)                                                                                                                                                                                                         | 138 (56)                                                                                                                                                                                                         |
+| Race, n (%)                                                                                                                                                                                                      |                                                                                                                                                                                                                  |                                                                                                                                                                                                                  |
+| White                                                                                                                                                                                                            | 168 (71)                                                                                                                                                                                                         | 184 (76)                                                                                                                                                                                                         |
+| Asian                                                                                                                                                                                                            | 63 (27)                                                                                                                                                                                                          | 54 (22)                                                                                                                                                                                                          |
+| Black or African American                                                                                                                                                                                        | 6 (3)                                                                                                                                                                                                            | 2 (0.8)                                                                                                                                                                                                          |
+| American Indian or Alaska Native                                                                                                                                                                                 | 0                                                                                                                                                                                                                | 1 (0.4)                                                                                                                                                                                                          |
+| Multiple                                                                                                                                                                                                         | 1 (0.4)                                                                                                                                                                                                          | 1 (0.4)                                                                                                                                                                                                          |
+| Missing                                                                                                                                                                                                          | 5                                                                                                                                                                                                                | 3                                                                                                                                                                                                                |
+| ECOG performance status, n (%)                                                                                                                                                                                   |                                                                                                                                                                                                                  |                                                                                                                                                                                                                  |
+| 0                                                                                                                                                                                                                | 166 (68)                                                                                                                                                                                                         | 170 (69)                                                                                                                                                                                                         |
+| 1                                                                                                                                                                                                                | 72 (30)                                                                                                                                                                                                          | 68 (28)                                                                                                                                                                                                          |
+| 2                                                                                                                                                                                                                | 5 (2)                                                                                                                                                                                                            | 7 (3)                                                                                                                                                                                                            |
+| Ann Arbor stage, n (%)                                                                                                                                                                                           |                                                                                                                                                                                                                  |                                                                                                                                                                                                                  |
+| II                                                                                                                                                                                                               | 37 (15)                                                                                                                                                                                                          | 44 (18)                                                                                                                                                                                                          |
+| III                                                                                                                                                                                                              | 74 (31)                                                                                                                                                                                                          | 68 (28)                                                                                                                                                                                                          |
+| IV                                                                                                                                                                                                               | 132 (54)                                                                                                                                                                                                         | 133 (54)                                                                                                                                                                                                         |
+| Bulky disease a , n (%)                                                                                                                                                                                          | 76 (32)                                                                                                                                                                                                          | 84 (35)                                                                                                                                                                                                          |
+| FLIPI score at baseline, n (%)                                                                                                                                                                                   |                                                                                                                                                                                                                  |                                                                                                                                                                                                                  |
+| 0-1                                                                                                                                                                                                              | 63 (26)                                                                                                                                                                                                          | 56 (23)                                                                                                                                                                                                          |
+| 2                                                                                                                                                                                                                | 79 (33)                                                                                                                                                                                                          | 76 (31)                                                                                                                                                                                                          |
+| 3-5                                                                                                                                                                                                              | 100 (41)                                                                                                                                                                                                         | 113 (46)                                                                                                                                                                                                         |
+| Number of prior lines of therapy                                                                                                                                                                                 |                                                                                                                                                                                                                  |                                                                                                                                                                                                                  |
+| Median (min, max)                                                                                                                                                                                                | 1 (1, 7)                                                                                                                                                                                                         | 1 (1, 6)                                                                                                                                                                                                         |
+| 1, n (%)                                                                                                                                                                                                         | 145 (60)                                                                                                                                                                                                         | 141 (58)                                                                                                                                                                                                         |
+| 2, n (%)                                                                                                                                                                                                         | 58 (24)                                                                                                                                                                                                          | 61 (25)                                                                                                                                                                                                          |
+| ≥3, n (%)                                                                                                                                                                                                        | 40 (17)                                                                                                                                                                                                          | 43 (18)                                                                                                                                                                                                          |
+| Prior SCT, n (%)                                                                                                                                                                                                 | 23 (10)                                                                                                                                                                                                          | 18 (7)                                                                                                                                                                                                           |
+| Refractory to last line of therapy, n (%)                                                                                                                                                                        | 84 (35)                                                                                                                                                                                                          | 82 (34)                                                                                                                                                                                                          |
+| Refractory to both anti-CD20 and alkylator therapy, n (%)                                                                                                                                                        | 91 (37)                                                                                                                                                                                                          | 91 (37)                                                                                                                                                                                                          |
+| POD24, n (%)                                                                                                                                                                                                     | 106 (44)                                                                                                                                                                                                         | 93 (38)                                                                                                                                                                                                          |
+| ECOG = eastern cooperative oncology group; FLIPI = follicular lymphoma international prognostic index; SCT = stem cell transplant; POD24 = progression of disease within 24 months. a Nodal or extranodal >6 cm. | ECOG = eastern cooperative oncology group; FLIPI = follicular lymphoma international prognostic index; SCT = stem cell transplant; POD24 = progression of disease within 24 months. a Nodal or extranodal >6 cm. | ECOG = eastern cooperative oncology group; FLIPI = follicular lymphoma international prognostic index; SCT = stem cell transplant; POD24 = progression of disease within 24 months. a Nodal or extranodal >6 cm. |
+
+Efficacy was established based on dual primary endpoints, which were progression free survival (PFS) and overall response rate (ORR) determined by Lugano 2014 criteria as assessed by Independent Review Committee (IRC). Additional efficacy outcome measures included complete response (CR) and overall survival (OS). Study M20-638 demonstrated a statistically significant improvement in both PFS and ORR by IRC assessment for epcoritamab in combination with lenalidomide and rituximab compared to lenalidomide and rituximab alone. In the ITT population, the median duration of study follow-up in patients who were randomised to receive epcoritamab in combination with lenalidomide and rituximab was 14.8 months (range: 0 to 31). The median duration of study follow-up in patients who were randomised to receive lenalidomide and rituximab alone was 14.6 months (range: 0 to 30). The efficacy results are summarised in Table 13.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 13: Efficacy results in M20-638 in patients with relapsed or refractory FL
+
+| Endpoint a              | Epcoritamab + Lenalidomide and Rituximab   | Lenalidomide and Rituximab   |
+|-------------------------|--------------------------------------------|------------------------------|
+| PFS b                   |                                            |                              |
+| Number of events, n (%) | 23 (9)                                     | 75 (31)                      |
+| Progressive disease     | 19 (83)                                    | 63 (84)                      |
+| Death                   | 4 (17)                                     | 12 (16)                      |
+| Median (95% CI), months | NR (21.9, NR)                              | 11.2 (10.5, NR)              |
+| Hazard ratio c (95% CI) | 0.21 (0.13, 0.33)                          | 0.21 (0.13, 0.33)            |
+| P-value d               | < 0.0001                                   | < 0.0001                     |
+| ORR b, e , n (%)        | 111 (96)                                   | 94 (81)                      |
+| (95% CI)                | (90.2, 98.6)                               | (72.7, 87.7)                 |
+| P-value f               | < 0.0001                                   | < 0.0001                     |
+| CRR b , n (%)           | 181 (74)                                   | 106 (43)                     |
+| (95% CI)                | (68.5, 79.8)                               | (37.0, 49.7)                 |
+| P-value f               | < 0.0001                                   | < 0.0001                     |
+| OS                      |                                            |                              |
+| Number of events, n (%) | 10 (4.1)                                   | 25 (10.2)                    |
+| Median (95% CI), months | NR (NR, NR)                                | NR (NR, NR)                  |
+| HR (95% CI) g           | 0.38 (0.18, 0.80)                          | 0.38 (0.18, 0.80)            |
+
+PFS = progression free survival; CI = confidence interval; NR = not reached; CRR = complete response rate; ORR = overall response rate; OS = overall survival
+
+a Determined by Lugano criteria with PET-CT (2014) as assessed by independent review committee (IRC).
+
+b PFS, ORR and CRR demonstrated statistical superiority for the epcoritamab in combination with lenalidomide and rituximab arm compared to the lenalidomide and rituximab arm at the time of the 10 January 2025 data cutoff, with a median duration of follow-up of 10.4 months.
+
+c Cox proportional hazards hazard ratio stratified by disease history and region.
+
+d Log-rank p-value (one sided) stratified by disease history and region.
+
+e ORR defined as proportion of patients with Best Overall Response (BOR) of CR or PR as assessed per Lugano criteria with PET-CT (2014), ORR was tested on first 232 randomised patients, 116 each arm.
+
+f P-value (one sided) is from a Cochran-Mantel-Haenszel test stratified by disease history and region. g OS analysis did not reach statistical significance at the data cutoff on 24 May 2025 and will be tested again at a later timepoint.
+
+The Kaplan-Meier curve for PFS as determined by Lugano 2014 criterial per IRC assessment is shown in Figure 1.
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 1: Kaplan-Meier Plot of PFS (ITT Population) Study M20-638
+
+<!-- image -->
+
+and Rituximab
+
+The Kaplan-Meier curve for OS is shown in Figure 2.
+
+Figure 2: Kaplan-Meier Plot of OS (ITT Population) in Study M20-638
+
+<!-- image -->
+
+and Rituximab
+
+## GCT3013-01
+
+Study GCT3013-01 was an open-label, multi-cohort, multicentre, single-arm trial that evaluated epcoritamab as monotherapy in patients with relapsed or refractory follicular lymphoma (FL) after two or more lines of systemic therapy. The study includes a dose escalation part, an expansion part and a 3-step step-up dose optimisation part. The expansion part of the study included an aggressive nonHodgkin lymphoma (aNHL) cohort, an indolent NHL (iNHL) cohort and a mantle-cell lymphoma (MCL) cohort. The pivotal iNHL cohort, included patients with FL. Patients included in the study were required to have documented CD20+ mature B-cell neoplasm according to WHO classification 2016 or WHO classification 2008 based on representative pathology report with histologic confirmed FL 1-3A at initial diagnosis without clinical or pathological evidence of transformation. All patients had relapsed or refractory disease to the last prior line therapy and previously treated with at least 2 lines of systemic antineoplastic therapy, including at least 1 anti-CD20 monoclonal antibody-containing therapy and an alkylating agent or lenalidomide. The study excluded patients with CNS involvement of lymphoma , allogeneic HSCT or solid organ transplant, ongoing active infectious diseases, any patients with known impaired T-cell immunity, a creatinine clearance of less than 45 ml/min, alanine aminotransferase &gt;3
+
+<div style=\"page-break-after: always\"></div>
+
+times the upper limit of normal and cardiac ejection fraction less than 45%. Efficacy was evaluated in 128 patients who had received epcoritamab subcutaneously (SC) in cycles of 4 weeks, i.e., 28 days. Epcoritamab was administered as a monotherapy in a 2-step step-up dose schedule as follows:
 
 - Cycle 1: epcoritamab 0.16 mg on Day 1, 0.8 mg on Day 8, 48 mg on Day 15 and 48 mg on Day 22
 - Cycles 2-3: epcoritamab 48 mg on Days 1, 8, 15, and 22
@@ -1746,9 +2351,9 @@ Patients continued to receive epcoritamab until disease progression or unaccepta
 
 The median number of cycles initiated was 8 and 60% received 6 cycles.
 
-The demographics and baseline characteristics are shown in Table 10.
+The demographics and baseline characteristics are shown in Table 14.
 
-Table 10 Demographics and baseline characteristics of patients with FL in GCT3013-01 study
+Table 14 Demographics and baseline characteristics of patients with FL in GCT3013-01 study
 
 |                                                                   | (N = 128)   |
 |-------------------------------------------------------------------|-------------|
@@ -1785,35 +2390,36 @@ Table 10 Demographics and baseline characteristics of patients with FL in GCT301
 | Rituximab plus lenalidomide therapy                               | 27 (21)     |
 | PI3K inhibitor                                                    | 29 (23)     |
 | Progression of disease within 24 months of first systemic therapy | 67 (52)     |
+| Refractory to:                                                    |             |
+| ≥ 2 consecutive lines of prior anti-lymphoma therapy              | 70 (55)     |
 
 <div style=\"page-break-after: always\"></div>
 
-| Characteristics                                          | (N = 128)   |
+|                                                          | (N = 128)   |
 |----------------------------------------------------------|-------------|
-| Refractory to:                                           |             |
-| ≥ 2 consecutive lines of prior anti-lymphoma therapy     | 70 (55)     |
+| Characteristics                                          |             |
 | The last line of systemic antineoplastic therapy         | 88 (69)     |
 | Prior anti-CD20 monoclonal antibody therapy              | 101 (79)    |
 | Both anti-CD20 monoclonal antibody and alkylator therapy | 90 (70)     |
 
-Efficacy was established based on overall response rate (ORR) determined by Lugano criteria (2014) as assessed by Independent Review Committee (IRC). The median follow-up for DOR was 16.2 months. Efficacy results are summarised in Table 11.
+Efficacy was established based on overall response rate (ORR) determined by Lugano criteria (2014) as assessed by Independent Review Committee (IRC). The median follow-up for DOR was 16.2 months. Efficacy results are summarised in Table 15.
 
-Table 11 Efficacy Results in Study GCT3013-01 in FL Patients
+Table 15 Efficacy Results in Study GCT3013-01 in FL Patients
 
-| Endpoint a IRC assessment    | Epcoritamab (N=128)   |
-|------------------------------|-----------------------|
-| ORR b , n (%)                | 106 (83)              |
-| (95% CI)                     | (75.1, 88.9)          |
-| CR b , n (%)                 | 81 (63)               |
-| (95% CI)                     | (54.3, 71.6)          |
-| PR b , n (%)                 | 25 (20)               |
-| (95% CI)                     | (13.1, 27.5)          |
-| DOR b                        |                       |
-| Median (95% CI), months      | 21.4 (13.7, NR)       |
-| DOCR b                       |                       |
-| Median (95% CI), months      | NR (21.4, NR)         |
-| 12-month estimate, %(95% CI) | 78.6 (67.3 ,86.4 )    |
-| TTR, median (range), months  | 1.4 (1, 3)            |
+| Endpoint a IRC assessment     | Epcoritamab (N=128)   |
+|-------------------------------|-----------------------|
+| ORR b , n (%)                 | 106 (83)              |
+| (95% CI)                      | (75.1, 88.9)          |
+| CR b , n (%)                  | 81 (63)               |
+| (95% CI)                      | (54.3, 71.6)          |
+| PR b , n (%)                  | 25 (20)               |
+| (95% CI)                      | (13.1, 27.5)          |
+| DOR b                         |                       |
+| Median (95% CI), months       | 21.4 (13.7, NR)       |
+| DOCR b                        |                       |
+| Median (95% CI), months       | NR (21.4, NR)         |
+| 12-month estimate, % (95% CI) | 78.6 (67.3 ,86.4 )    |
+| TTR, median (range), months   | 1.4 (1, 3)            |
 
 CI = confidence interval; CR = complete response; DOR = duration of response; DOCR = duration of complete response; IRC = independent review committee; ORR = overall response rate; PFS = progression-free survival; TTR = time to response
 
@@ -1832,6 +2438,8 @@ The European Medicines Agency has deferred the obligation to submit the results 
 This medicinal product has been authorised under a so-called 'conditional approval' scheme. This means that further evidence on this medicinal product is awaited. The European Medicines Agency will review new information on this medicinal product at least every year and this SmPC will be updated as necessary.
 
 ## 5.2 Pharmacokinetic properties
+
+## Epcoritamab monotherapy
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1856,6 +2464,10 @@ The metabolic pathway of epcoritamab has not been directly studied. Like other p
 ## Elimination
 
 Epcoritamab is expected to undergo saturable target mediated clearance. The geometric mean (% CV) clearance (l/day) is 0.441 (27.8%). The half-life of epcoritamab is concentration dependent. The population PK model-derived geometric mean half-life of full dose epcoritamab (48 mg) ranged from 22 to 25 days based on frequency of dosing.
+
+## Epcoritamab in combination with lenalidomide and rituximab
+
+There were no clinically significant differences in epcoritamab pharmacokinetics (Cycle 1 AUC and Cycle 1-3 Cavg within geomean difference of 2% and 23.7%, respectively) when epcoritamab was administered in combination with lenalidomide and rituximab compared to epcoritamab administered as monotherapy.
 
 ## Special populations
 
@@ -1895,13 +2507,13 @@ Sodium acetate trihydrate Acetic acid Sorbitol (E420) Polysorbate 80 Water for i
 
 ## 6.2 Incompatibilities
 
+<div style=\"page-break-after: always\"></div>
+
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products and/or diluents except those listed in section 6.6.
 
 ## 6.3 Shelf life
 
 ## Unopened vial
-
-<div style=\"page-break-after: always\"></div>
 
 2 years.
 
@@ -1945,6 +2557,8 @@ Epcoritamab should be inspected visually for particulate matter and discolourati
 
 Epcoritamab has to be prepared using aseptic technique. Filtration of the solution is not required.
 
+<div style=\"page-break-after: always\"></div>
+
 - 1) Prepare epcoritamab vial
 - a) Retrieve one 48 mg epcoritamab vial with the orange cap from the refrigerator.
 - b) Allow the vial to come to room temperature for no more than 1 hour.
@@ -1953,8 +2567,6 @@ Epcoritamab has to be prepared using aseptic technique. Filtration of the soluti
 DO NOT vortex or vigorously shake the vial.
 
 ## 2) Withdraw dose
-
-<div style=\"page-break-after: always\"></div>
 
 Withdraw 0.8 ml of epcoritamab into a syringe.
 
@@ -2055,9 +2667,9 @@ This being a conditional marketing authorisation and pursuant to Article 14-a of
 | Description                                                                                                                                                                                                                                                                                                                                                                                            | Due date        |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
 | In order to confirm the safety and efficacy of epcoritamab in the treatment of R/R DLBCL after two or more lines of systemic therapy, the primary (including final OS analysis) and final CSR for study GCT3013-05 should be submitted. - Primary analysis CSR (including final OS analysis) - due date: Q2/2026 - Final CSR - due data: Q1 2029.                                                      | Q2/2026 Q1/2029 |
-| In order to confirm the safety and efficacy of epcoritamab in the treatment of relapsed or refractory DLBCL after two or more lines of systemic therapy, the MAHshould submit the final CSR for the pivotal aNHL cohort of study GCT3013- 01.                                                                                                                                                          | Q3/2027         |
+| In order to confirm the safety and efficacy of epcoritamab in the treatment of relapsed or refractory DLBCL after two or more lines of systemic therapy, the MAH should submit the final CSR for the pivotal aNHL cohort of study GCT3013- 01.                                                                                                                                                         | Q3/2027         |
 | In order to confirm the safety and efficacy of epcoritamab in the treatment of R/R FL after two or more lines of systemic therapy, the pivotal iNHL expansion cohort of Study GCT3013-01 and the FL optimisation cohort of Study GCT3013-01 should be submitted - Final CSRs for the pivotal iNHL expansion cohort - due date: Q2/2028 - Final CSR for the FL optimisation cohort - due date: Q3 2029. | Q2/2028 Q3/2029 |
-| In order to confirm the benefit of epcoritamab in R/R FL, the MAHis conducting a Phase 3 study (study M20-638), to evaluate the safety and efficacy of epcoritamab in combination with R2 compared to R2 alone in subjects with R/R FL after at least one prior anti-CD20 containing chemoimmunotherapy regimen. The final CSR will be submitted. Final CSR - due date: Q4 2030.                       | Q4/2030         |
+| In order to confirm the benefit of epcoritamab in R/R FL, the MAH is conducting a Phase 3 study (study M20-638), to evaluate the safety and efficacy of epcoritamab in combination with R2 compared to R2 alone in subjects with R/R FL after at least one prior anti-CD20 containing chemoimmunotherapy regimen. The final CSR will be submitted. Final CSR - due date: Q4 2034.                      | Q4/2034         |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2165,16 +2777,16 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| VIAL LABEL                                                      |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -2290,19 +2902,19 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| VIAL LABEL                                                      |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -2336,708 +2948,7 @@ AbbVie (as logo)
 
 ## Package leaflet: Information for the patient
 
-## Tepkinly 4 mg/0.8 ml solution for injection epcoritamab
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
-
-## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
-
-- -Keep this leaflet. You may need to read it again.
-- -Your doctor will give you a Patient Card. Read it carefully and follow the instructions on it. Keep this Patient Card with you at all times.
-- -Always show the Patient Card to the doctor or nurse when you see them or if you go to hospital.
-- -If you have any further questions, ask your doctor, pharmacist or nurse.
-- -If you get any side effects, talk to your doctor, or pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
-
-## What is in this leaflet
-
-1. What Tepkinly is and what it is used for
-2. What you need to know before you use Tepkinly
-3. How Tepkinly will be given
-4. Possible side effects
-5. How to store Tepkinly
-6. Contents of the pack and other information
-
-## 1. What Tepkinly is and what it is used for
-
-## What Tepkinly is
-
-Tepkinly is a cancer medicine that contains the active substance epcoritamab. Tepkinly is used on its own (monotherapy) to treat adult patients who have a blood cancer called diffuse large B-cell lymphoma (DLBCL) or follicular lymphoma (FL) when the disease has come back or did not respond to previous treatment after at least two prior therapies.
-
-## How Tepkinly works
-
-Epcoritamab is specifically designed to help your own immune system to attack cancer (lymphoma) cells. Epcoritamab acts by attaching to your body's immune cells and cancer cells, bringing them together, so that your immune system can destroy the cancer cells.
-
-## 2. What you need to know before you use Tepkinly
-
-## Do not use Tepkinly
-
-If you are allergic to epcoritamab or any of the other ingredients of this medicine (listed in section 6). If you are not sure, talk to your doctor or nurse before you are given Tepkinly.
-
-## Warnings and precautions
-
-Talk to your doctor, pharmacist or nurse before using Tepkinly if you
-
-<div style=\"page-break-after: always\"></div>
-
-- have current or past problems with your nervous system - such as seizures
-- have an infection
-- are due to have a vaccine or you know you may need to have one in the near future.
-
-If any of the above apply to you (or you are not sure), talk to your doctor or nurse before you are given Tepkinly.
-
-Your doctor or nurse will do blood tests, prior and during your treatment with epcoritamab, to check your antibody levels, which may indicate your risk of infection and the need for specific treatment.
-
-Tell your doctor straight away if you get symptoms of any of the side effects listed below, during or after treatment with Tepkinly. You may need additional medical treatment.
-
-- Cytokine release syndrome a life-threatening condition causing fever, vomiting, difficulty breathing/shortness of breath, chills, rapid heartbeat, headache and dizziness or lightheadedness associated with medicines that stimulate T cells.
-- Before each injection under the skin, you may be given medicines which help reduce possible effects of cytokine release syndrome.
-- Haemophagocytic lymphohistiocytosis (HLH) -a rare condition in which the immune system makes too many of otherwise normal infection fighting cells called histiocytes and lymphocytes. It can lead to enlarged liver and/or spleen, heart problems and kidney abnormalities. Symptoms may include fever, skin rash, swollen lymph glands, breathing problems and easy bruising. Tell your doctor immediately if you experience these symptoms at the same time.
-- ICANS (immune effector cell-associated neurotoxicity syndrome)
-- Symptoms may include problems with use of language (including speech, understanding, writing and reading), drowsiness, confusion/disorientation, muscle weakness, seizures, swelling of a part of the brain, and memory loss.
-- Infections - you may get signs of infection, such as fever of 38 °C or above, chills, cough, or pain with urination which can vary depending on where in the body the infection is .
-- Progressive multifocal leukoencephalopathy (PML) - Symptoms of this serious and potentially fatal brain condition may include blurred vision, loss of vision or double vision, difficulty speaking, weakness or clumsiness of an arm or a leg, a change in the way you walk or problems with your balance, personality changes, changes in thinking, memory and orientation leading to confusion. These symptoms may start several months after treatment has ended and they usually develop slowly and gradually over weeks or months. It is important that your relatives or caregivers are also aware of these symptoms, since they may notice symptoms that you are not aware of.
-- Tumour lysis syndrome some people may get unusual levels of some salts in the blood caused by the fast breakdown of cancer cells during treatment. This is called tumour lysis syndrome (TLS).
-- Your doctor or nurse will do blood tests to check for this condition. Before each injection under the skin, you should be well-hydrated and may be given other medicines that can help reduce high levels of uric acid and help reduce possible effects of tumour lysis syndrome.
-- Tumour flare as your cancer is destroyed, it may react and appear to get worse -this is called 'tumour flare reaction'.
-
-## Children and adolescents
-
-Tepkinly is not recommended in children and adolescents under 18 years, as there is no information about use in this age group.
-
-## Other medicines and Tepkinly
-
-<div style=\"page-break-after: always\"></div>
-
-Tell your doctor or pharmacist if you are taking or using, have recently taken or used, or might take or use any other medicines. This includes medicines obtained without a prescription and herbal medicines.
-
-## Pregnancy
-
-If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine. Do not use Tepkinly during pregnancy, as it may affect your unborn baby. Your doctor may ask you to take a pregnancy test before starting treatment.
-
-## Contraception
-
-If you are a woman who is able to have children, you must use effective contraception to avoid becoming pregnant while taking Tepkinly and for at least 4 months after your last dose of Tepkinly. If you become pregnant during this time, you must talk to your doctor straight away.
-
-Talk to your doctor or nurse about suitable methods of contraception.
-
-## Breast-feeding
-
-You must not breast-feed during treatment with Tepkinly and for at least 4 months after the last dose. It is not known whether Tepkinly passes into breast milk and whether it could affect your baby.
-
-## Fertility
-
-The effect of Tepkinly on male and female fertility is unknown.
-
-## Driving and using machines
-
-Due to the possible symptoms of ICANS, you should be careful while driving, cycling or using heavy or potentially dangerous machines. If you currently have such symptoms, avoid these activities and contact your doctor, nurse, or pharmacist. See section 4 for more information about side effects.
-
-## Tepkinly contains sodium
-
-This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium-free'.
-
-## Tepkinly contains sorbitol
-
-This medicine contains 28.8 mg sorbitol in each vial, which is equivalent to 27.33 mg/ml.
-
-## Tepkinly contains polysorbate
-
-This medicine contains 0.42 mg of polysorbate 80 in each vial, equivalent to 0.4 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
-
-## 3. How Tepkinly will be given
-
-A doctor experienced in treating cancer will take care of your treatment. Follow the treatment schedule explained to you by your doctor.
-
-Tepkinly will be given to you by a doctor or nurse as an injection under your skin. Tepkinly will be given to you in cycles of 28 days, on a dosing schedule given to you by your doctor.
-
-You will be given Tepkinly according to the following schedule
-
-| Cycle   | Dosing schedule   |
-|---------|-------------------|
-
-<div style=\"page-break-after: always\"></div>
-
-| Cycles 1 to 3        | Weekly           |
-|----------------------|------------------|
-| Cycles 4 to 9        | Every two weeks  |
-| Cycles 10 and beyond | Every four weeks |
-
-You may be given other medicines before you are given Tepkinly. This is to help prevent reactions such as cytokine release syndrome and fever in Cycle 1 (and potentially future cycles).
-
-These medicines may include
-
-- Corticosteroids - such as dexamethasone, prednisolone or equivalent
-- An antihistamine - such as diphenhydramine
-- Paracetamol
-
-During the first month (Cycle 1) when you are given Tepkinly:
-
-- It is important that you are well hydrated. For that reason your doctor may tell you to drink plenty of water the day before and the day after you are given Tepkinly. On the day you receive Tepkinly, your doctor may give you fluids through a needle placed in your vein (intravenously).
-- If you take medicine for high blood pressure, your doctor may ask you to stop taking it for a short time while you are on Tepkinly.
-
-## If you have diffuse large B-cell lymphoma (DLBCL)
-
-The first full dose (48 mg) of Tepkinly will be given to you on Cycle 1 Day 15.
-
-## If you have follicular lymphoma (FL)
-
-The first full dose (48 mg) of Tepkinly will be given to you on Cycle 1 Day 22.
-
-Your doctor will monitor how your treatment is working. You will be given Tepkinly for as long as your doctor thinks you are benefitting from the treatment.
-
-Your doctor may delay or completely stop your treatment with Tepkinly if you have certain side effects.
-
-## If you forget to use Tepkinly
-
-If you forget or miss your medical appointment, make another one straight away. For the treatment to be fully effective, it is very important not to miss a dose.
-
-## If you stop using Tepkinly
-
-Do not stop treatment with Tepkinly unless you have discussed this with your doctor. This is because stopping treatment may make your condition worse.
-
-If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
-
-## 4. Possible side effects
-
-Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-## Serious side effects
-
-Tell your doctor straight away if you notice any of the symptoms of the following serious side effects. You may only get one or some of these symptoms.
-
-## Cytokine release syndrome (CRS) (Very common : may affect more than 1 in 10 people)
-
-Symptoms can include
-
-- fever
-- vomiting
-- dizziness or light-headedness
-- chills
-
-<div style=\"page-break-after: always\"></div>
-
-- fast heartbeat
-- difficulty breathing/shortness of breath
-- headache
-
-## Immune effector cell-associated neurotoxicity syndrome (ICANS) (Common: may affect up to 1 in 10 people)
-
-- effects on your nervous system, the symptoms of which can occur days or weeks after you receive the injection, may initially be subtle. Some of these symptoms may be signs of a serious immune reaction called 'immune effector cell-associated neurotoxicity syndrome' (ICANS). Symptoms can include
-- difficulty speaking or writing
-- drowsiness
-- confusion/disorientation
-- muscle weakness
-- seizures
-- memory loss
-
-## Tumour lysis syndrome (TLS) ( Common: may affect up to 1 in 10 people)
-
-Symptoms can include
-
-- fever
-- chills
-- vomiting
-- confusion
-- shortness of breath
-- seizures
-- irregular heartbeat
-- dark or cloudy urine
-- unusual tiredness
-- muscle or joint pain
-
-## Haemophagocytic lymphohistiocytosis (HLH) (Uncommon: may affect up to 1 in 100 people)
-
-- a condition where the immune system makes too many of otherwise normal infection-fighting cells called histiocytes and lymphocytes
-
-Symptoms can include
-
-- fever
-- skin rash
-- swollen lymph glands
-- breathing problems
-- easy bruising
-
-## Other side effects
-
-Tell your doctor or nurse straight away if you notice any of the following side effects or if they get worse:
-
-Very common : may affect more than 1 in 10 people
-
-- viral infection
-- pneumonia (lung infection)
-- upper respiratory tract infections (infection of the airways)
-- decreased hunger
-- pain in bones, joints, ligaments and muscles
-- pain in the belly area
-- headache
-- nausea
-
-<div style=\"page-break-after: always\"></div>
-
-- diarrhoea
-- rash
-- tiredness
-- injection site reactions
-- fever
-- swelling
-
-## Shown in blood tests
-
-- low levels of a type of white blood cells that fight infection (neutropenia)
-- low levels of red blood cells, which can cause tiredness, pale skin, and shortness of breath (anaemia)
-- low levels of blood platelets, which can lead to bleeding and bruising (thrombocytopenia)
-- decrease in a type of white blood cell called a lymphocyte, that may affect the body's ability to fight infection (lymphopenia)
-- low levels of immunoglobulins, which may lead to infections
-
-## Common: may affect up to 1 in 10 people
-
-- fever due to infection when you have low levels of white blood cells (febrile neutropenia)
-- tender swollen lymph nodes, chest pain, cough or difficulty breathing, pain at the site of the tumour (tumour flare)
-- fungal infections (caused by a type of germ called a fungus)
-- skin infections
-- life-threatening reaction the body has to an infection (sepsis)
-- a rapid breakdown of tumour cells resulting in chemical changes in the blood and damage to organs, including the kidneys, heart, and liver (tumour lysis syndrome)
-- irregular heartbeat
-- extra fluid around the lungs that can make it difficult to breathe (pleural effusion)
-- vomiting
-- itching (pruritus)
-
-## Shown in blood tests
-
-- low level of phosphates in the blood, potassium, magnesium or sodium
-- increased blood level of creatinine, a breakdown product from muscle tissue
-- increased blood level of liver proteins, which may show problems with the liver
-
-## Reporting of side effects
-
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
-
-## 5. How to store Tepkinly
-
-Tepkinly will be stored by the doctor, nurse, or pharmacist at the hospital or clinic. To correctly store Tepkinly
-
-- Keep this medicine out of the sight and reach of children
-- Do not use this medicine after the expiry date which is stated on the vial label and carton after EXP. The expiry date refers to the last day of that month.
-- Store and transport refrigerated (2 °C to 8 °C).
-- Do not freeze.
-- Keep the vial in the outer carton in order to protect from light.
-- Tepkinly 4 mg/0.8 ml is a solution which may be diluted prior to use.
-- Dilute prior to subcutaneous use for 0.16 mg and 0.8 mg doses.
-
-<div style=\"page-break-after: always\"></div>
-
-- No dilution required for 3 mg dose.
-- If not used immediately, the prepared solution may be stored for up to 24 hours at 2 °C to 8 °C from the time of preparation.
-- Within these 24 hours, the prepared solution can be stored for up to 12 hours at room temperature (20 °C - 25 °C) from the start of dose preparation to administration.
-- Allow the solution to warm to room temperature before using.
-
-Your doctor, nurse or pharmacist will throw away any unused medicine following local requirements. These measures will help protect the environment.
-
-## 6. Contents of the pack and other information
-
-## What Tepkinly contains
-
-- -The active substance is epcoritamab. Each 0.8 ml vial contains 4 mg of epcoritamab at a concentration of 5 mg/ml.
-- -The other excipients are sodium acetate trihydrate, acetic acid, sorbitol (E420), polysorbate 80, water for injections (see section 2 'Tepkinly contains sodium',  'Tepkinly contains sorbitol' and 'Tepkinly contains polysorbate 80').
-
-## What Tepkinly looks like and contents of the pack
-
-Tepkinly is a solution for injection. It is a colourless to slightly yellow solution provided in a glass vial.
-
-Each carton contains 1 vial.
-
-## Marketing Authorisation Holder
-
-AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
-
-## Manufacturer
-
-AbbVie S.r.l. S.R. 148 Pontina, km 52 SNC 04011 Campoverde di Aprilia (LT) Italy
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-## België/Belgique/Belgien
-
-AbbVie SA
-
-Tél/Tel: +32 10 477811
-
-Lietuva
-
-AbbVie UAB
-
-Tel: +370 5 205 3023
-
-## България
-
-АбВи ЕООД
-
-Тел: +359 2 90 30 430
-
-## Luxembourg/Luxemburg
-
-AbbVie SA Belgique/Belgien
-
-Tél/Tel: +32 10 477811
-
-## Česká republika
-
-AbbVie s.r.o. Tel: +420 233 098 111
-
-## Magyarország
-
-AbbVie Kft.
-
-Tel: +36 1 455 8600
-
-Danmark
-
-Malta
-
-## AbbVie A/S
-
-Tlf: +45 72 30-20-28
-
-<div style=\"page-break-after: always\"></div>
-
-## Deutschland
-
-AbbVie Deutschland GmbH &amp; Co. KG
-
-Tel: 00800 222843 33 (gebührenfrei)
-
-Tel: +49 (0) 611 / 1720-0
-
-## Eesti
-
-AbbVie OÜ
-
-Tel: +372 623 1011
-
-## Ελλάδα
-
-AbbVie ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε.
-
-Τηλ: +30 214 4165 555
-
-## España
-
-AbbVie Spain, S.L.U.
-
-Tel: +34 91 384 09 10
-
-## France
-
-AbbVie
-
-Tél: +33 (0) 1 45 60 13 00
-
-## Hrvatska
-
-AbbVie d.o.o.
-
-Tel: +385 (0)1 5625 501
-
-## Ireland
-
-AbbVie Limited
-
-Tel: +353 (0)1 4287900
-
-## Ísland
-
-Vistor
-
-Tel: +354 535 7000
-
-## Italia
-
-AbbVie S.r.l.
-
-Tel: +39 06 928921
-
-## Κύπρος
-
-Lifepharma (Z.A.M.) Ltd
-
-Τηλ: +357 22 34 74 40
-
-## Latvija
-
-AbbVie SIA
-
-Tel: +371 67605000
-
-## This leaflet was last revised in
-
-This medicine has been given 'conditional approval'. This means that there is more evidence to come about this medicine.
-
-The European Medicines Agency will review new information on this medicine at least every year and this leaflet will be updated as necessary.
-
-## Other sources of information
-
-V.J.Salomone Pharma Limited
-
-Tel: +356 21220174
-
-## Nederland
-
-AbbVie B.V.
-
-Tel: +31 (0)88 322 2843
-
-## Norge
-
-AbbVie AS
-
-Tlf: +47 67 81 80 00
-
-## Österreich
-
-AbbVie GmbH
-
-Tel: +43 1 20589-0
-
-## Polska
-
-AbbVie Sp. z o.o.
-
-Tel: +48 22 372 78 00
-
-## Portugal
-
-AbbVie, Lda.
-
-Tel: +351 (0)21 1908400
-
-## România
-
-AbbVie S.R.L.
-
-Tel: +40 21 529 30 35
-
-## Slovenija
-
-AbbVie Biofarmacevtska družba d.o.o.
-
-Tel: +386 (1)32 08 060
-
-## Slovenská republika
-
-AbbVie s.r.o.
-
-Tel: +421 2 5050 0777
-
-## Suomi/Finland
-
-AbbVie Oy
-
-Puh/Tel: +358 (0)10 2411 200
-
-## Sverige
-
-AbbVie AB
-
-Tel: +46 (0)8 684 44 600
-
-<div style=\"page-break-after: always\"></div>
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-Latest approved package leaflet and patient card on this medicine are available by scanning the QR code included in this leaflet and on the carton with a smartphone/device. The same information is also available on the following URL: www.tepkinly.eu
-
-## QR code to be included
-
-To listen to or request a copy of this leaflet in &lt;Braille&gt;, &lt;large print&gt; or &lt;audio&gt;, please contact the local representative of the Marketing Authorisation Holder.
-
-This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
-
-------------------------------------------------------------------------------------------------------------------------
-
-The following information is intended for healthcare professionals only:
-
-Read this entire section carefully before preparation of epcoritamab. Certain doses (the priming (0.16 mg) and intermediate dose (0.8 mg)) of epcoritamab require dilution prior to administration. Follow all preparation instructions as below, as improper preparation may lead to improper dose. Epcoritamab can be diluted using two different methods which are either the vial method or the syringe method.
-
-Epcoritamab is prepared and administered as a subcutaneous injection. Each vial of epcoritamab is intended for single use only.
-
-Each vial contains an overfill that allows withdrawal of the labelled amount.
-
-Epcoritamab must be diluted and administered by a healthcare professional using aseptic technique. Filtration of the diluted solution is not required.
-
-Epcoritamab should be inspected visually for particulate matter and discolouration prior to administration. The solution for injection should be a colourless to slightly yellow solution. Do not use if the solution is discoloured, or cloudy, or if foreign particles are present.
-
-## Preparation of diluted epcoritamab using the empty sterile vial method
-
-## 0.16 mg priming dose preparation instructions 2 dilutions required - empty sterile vial method
-
-Use an appropriately sized, syringe, vial and needle for each transfer step.
-
-- 1) Prepare Tepkinly vial
-- a) Retrieve one 4 mg/0.8 ml Tepkinly vial with the light blue cap from the refrigerator.
-- b) Allow the vial to come to room temperature for no more than 1 hour.
-- c) Gently swirl the Tepkinly vial.
-
-DO NOT vortex or vigorously shake the vial.
-
-- 2) Perform first dilution
-- a) Label an appropriately sized empty vial as ' dilution A '.
-- b) Transfer 0.8 ml of Tepkinly into the dilution A vial.
-- c) Transfer 4.2 ml of sodium chloride 9 mg/ml (0.9%) sterile solution into the dilution A vial.
-5. The initial diluted solution contains 0.8 mg/ml of epcoritamab.
-- d) Gently swirl the dilution A vial for 30 - 45 seconds.
-- 3) Perform second dilution
-- a) Label an appropriately sized empty vial as 'dilution B' .
-
-<div style=\"page-break-after: always\"></div>
-
-- b) Transfer 2 ml of solution from the dilution A vial into the dilution B vial. The dilution A vial is no longer needed and should be discarded.
-- c) Transfer 8 ml of sodium chloride 9 mg/ml (0.9%) sterile solution into the dilution B vial to make a final concentration of 0.16 mg/ml.
-- d) Gently swirl the dilution B vial for 30 - 45 seconds.
-- 4) Withdraw dose
-
-Withdraw 1 ml of the diluted epcoritamab from the dilution B vial into a syringe. The dilution B vial is no longer needed and should be discarded.
-
-- 5) Label syringe
-
-Label the syringe with the product name, dose strength (0.16 mg), date and the time of day.
-
-- 6) Discard the vial and any unused portion of Tepkinly in accordance with local requirements.
-
-## 0.8 mg intermediate dose preparation instructions 1 dilution required -empty sterile vial method
-
-Use an appropriately sized, syringe, vial and needle for each transfer step.
-
-- 1) Prepare Tepkinly vial
-- a) Retrieve one 4 mg/0.8 ml Tepkinly vial with the light blue cap from the refrigerator.
-- b) Allow the vial to come to room temperature for no more than 1 hour.
-- c) Gently swirl the Tepkinly vial.
-
-DO NOT vortex or vigorously shake the vial.
-
-- 2) Perform dilution
-- a) Label an appropriately sized empty vial as 'dilution A'
-- b) Transfer 0.8 ml of Tepkinly into the dilution A vial.
-- c) Transfer 4.2 ml of sodium chloride 9 mg/ml (0.9%) sterile solution into the dilution A vial
-5. to make a final concentration of 0.8 mg/ml.
-- d) Gently swirl the dilution A vial for 30 - 45 seconds.
-- 3) Withdraw dose
-
-Withdraw 1 ml of the diluted epcoritamab from the dilution A vial into a syringe. The dilution A vial is no longer needed and should be discarded.
-
-- 4) Label syringe
-
-Label the syringe with the product name, dose strength (0.8 mg), date and the time of day.
-
-- 5) Discard the vial and any unused portion of Tepkinly in accordance with local requirements.
-
-## Preparation of diluted epcoritamab using the sterile syringe method
-
-## 0.16 mg priming dose preparation instructions 2 dilutions required - sterile syringe method
-
-Use an appropriately sized syringe and needle for each transfer step.
-
-- 1) Prepare Tepkinly vial
-- a) Retrieve one 4 mg/0.8 ml Tepkinly vial with the light blue cap from the refrigerator.
-- b) Allow the vial to come to room temperature for no more than 1 hour.
-- c) Gently swirl the Tepkinly vial.
-
-DO NOT vortex or vigorously shake the vial.
-
-- 2) Perform first dilution
-- a) Label an appropriately sized syringe as ' dilution A '.
-- b) Withdraw 4.2 ml of sodium chloride 9 mg/ml (0.9%) sterile solution into the dilution A syringe. Include approximately 0.2 ml air in the syringe.
-- c) In a new syringe labelled as ' syringe 1 ', withdraw 0.8 ml of epcoritamab .
-
-.
-
-<div style=\"page-break-after: always\"></div>
-
-- d) Connect the two syringes and push the 0.8 ml of epcoritamab into the dilution A syringe. The initially diluted solution contains 0.8 mg/ml of epcoritamab.
-- e)   Gently mix by inverting the connected syringes 180 degrees 5 times.
-- f)   Disconnect the syringes and discard syringe 1 .
-- 3) Perform second dilution
-- a) Label an appropriately sized syringe as ' dilution B '.
-- b) Withdraw 8 ml of sodium chloride 9 mg/ml (0.9%) sterile solution into the dilution B syringe. Include approximately 0.2 ml air in the syringe.
-- c) Label another appropriately sized syringe as ' syringe 2 '.
-- d) Connect syringe 2 to the dilution A syringe and transfer 2 ml of solution into syringe 2 The dilution A syringe is no longer needed and should be discarded.
-- e) Connect syringe 2 to the dilution B syringe and push the 2 ml of solution into the dilution B syringe to make a final concentration of 0.16 mg/ml.
-- f) Gently mix by inverting the connected syringes 180 degrees 5 times.
-- g) Disconnect the syringes and discard syringe 2 .
-- 4) Withdraw dose
-
-Connect and transfer 1 ml of the diluted epcoritamab from the dilution B syringe into a new syringe. The dilution B syringe is no longer needed and should be discarded.
-
-- 5) Label syringe
-
-Label the syringe with the product name, dose strength (0.16 mg), date and the time of the day.
-
-- 6) Discard the vial and any unused portion of Tepkinly in accordance with local requirements.
-2. 0.8 mg intermediate dose preparation instructions 1 dilution required -sterile syringe method Use an appropriately sized syringe and needle for each transfer step.
-- 1) Prepare Tepkinly vial
-- a) Retrieve one 4 mg/0.8 ml Tepkinly vial with the light blue cap from the refrigerator.
-- b) Allow the vial to come to room temperature for no more than 1 hour.
-- c) Gently swirl the Tepkinly vial.
-
-DO NOT vortex or vigorously shake the vial.
-
-- 2) Perform dilution
-- a) Label an appropriately sized syringe as 'dilution A'
-
-.
-
-- b) Withdraw 4.2 ml of sodium chloride 9 mg/ml (0.9%) sterile solution into the dilution A syringe. Include approximately 0.2 ml air in the syringe.
-- c) In a new syringe labelled as ' syringe 1 ', withdraw 0.8 ml of epcoritamab.
-- d) Connect the two syringes and push the 0.8 ml of epcoritamab into the dilution A syringe to make a final concentration of 0.8 mg/ml.
-- e) Gently mix by inverting the connected syringes 180 degrees 5 times.
-- f) Disconnect the syringes and discard syringe 1.
-- 3) Withdraw dose
-
-Connect a new syringe to the dilution A syringe and transfer 1 ml of the diluted epcoritamab into the new syringe. The dilution A syringe is no longer needed and should be discarded.
-
-- 4) Label syringe
-
-Label the syringe with the product name, dose strength (0.8 mg), date and the time of day.
-
-- 5) Discard the vial and any unused portion of Tepkinly in accordance with local requirements.
-
-## Preparation of 3 mg epcoritamab dose
-
-- .
-
-<div style=\"page-break-after: always\"></div>
-
-3 mg second intermediate dose preparation instructions ( No dilution required )
-
-Epcoritamab 3 mg dose is required for FL patients only.
-
-- 1) Prepare Tepkinly vial
-- a) Retrieve one 4 mg/0.8 ml Tepkinly vial with the light blue cap from the refrigerator.
-- b) Allow the vial to come to room temperature for no more than 1 hour.
-- c) Gently swirl the Tepkinly vial.
-
-DO NOT vortex, or vigorously shake the vial.
-
-- 2) Withdraw dose
-
-Withdraw 0.6 ml of epcoritamab into a syringe.
-
-- 3) Label syringe
-
-Label the syringe with the dose strength (3 mg), date and the time of day.
-
-- 4) Discard the vial and any unused portion of Tepkinly in accordance with local requirements.
-
-## Traceability
-
-In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-## Package leaflet: Information for the patient
-
-## Tepkinly 48 mg solution for injection
+## Tepkinly 4 mg/0.8 ml solution for injection
 
 ## epcoritamab
 
@@ -3064,7 +2975,11 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## What Tepkinly is
 
-Tepkinly is a cancer medicine that contains the active substance epcoritamab. Tepkinly is used on its own (monotherapy) to treat adult patients who have a blood cancer called diffuse large B-cell lymphoma (DLBCL) or follicular lymphoma (FL) when the disease has come back or did not respond to previous treatment after at least two prior therapies.
+Tepkinly is a cancer medicine that contains the active substance epcoritamab.
+
+Tepkinly is used on its own (monotherapy) to treat adult patients who have a blood cancer called diffuse large B-cell lymphoma (DLBCL) or follicular lymphoma (FL) when the disease has come back or did not respond to previous treatment after at least two prior therapies.
+
+Tepkinly is used together (in combination) with lenalidomide and rituximab to treat adult patients who have follicular lymphoma (FL) that has come back or did not respond to previous treatment.
 
 ## How Tepkinly works
 
@@ -3076,11 +2991,11 @@ Epcoritamab is specifically designed to help your own immune system to attack ca
 
 If you are allergic to epcoritamab or any of the other ingredients of this medicine (listed in section 6). If you are not sure, talk to your doctor or nurse before you are given Tepkinly.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before using Tepkinly if you
-
-<div style=\"page-break-after: always\"></div>
 
 - have current or past problems with your nervous system - such as seizures
 - have an infection
@@ -3097,8 +3012,8 @@ Tell your doctor straight away if you get symptoms of any of the side effects li
 - Haemophagocytic lymphohistiocytosis (HLH) -a rare condition in which the immune system makes too many of otherwise normal infection fighting cells called histiocytes and lymphocytes. It can lead to enlarged liver and/or spleen, heart problems and kidney abnormalities. Symptoms may include fever, skin rash, swollen lymph glands, breathing problems and easy bruising. Tell your doctor immediately if you experience these symptoms at the same time.
 - ICANS (immune effector cell-associated neurotoxicity syndrome)
 - Symptoms may include problems with use of language (including speech, understanding, writing and reading), drowsiness, confusion/disorientation, muscle weakness, seizures, swelling of a part of the brain, and memory loss.
-- Infections - you may get signs of infection, such as fever of 38 °C or above, chills, cough, or pain with urination which can vary depending on where in the body the infection is.
-- Progressive multifocal leukoencephalopathy (PML) - Symptoms of this serious and potentially fatal brain condition may include blurred vision, loss of vision or double vision, difficulty speaking, weakness or clumsiness of an arm or a leg, a change in the way you walk or problems with your balance, personality changes, changes in thinking, memory and orientation leading to confusion. These symptoms may start several months after treatment has ended and they usually develop slowly and gradually over weeks or months. It is important that your relatives or caregivers are also aware of these symptoms, since they may notice symptoms that you are not aware of.
+- Infections - you may get signs of infection, such as fever of 38 °C or above, chills, cough, or pain with urination which can vary depending on where in the body the infection is .
+- Progressive multifocal leukoencephalopathy (PML) -Symptoms of this serious and potentially fatal brain condition may include blurred vision, loss of vision or double vision, difficulty speaking, weakness or clumsiness of an arm or a leg, a change in the way you walk or problems with your balance, personality changes, changes in thinking, memory and orientation leading to confusion. These symptoms may start several months after treatment has ended and they usually develop slowly and gradually over weeks or months. It is important that your relatives or caregivers are also aware of these symptoms, since they may notice symptoms that you are not aware of.
 - Tumour lysis syndrome some people may get unusual levels of some salts in the blood caused by the fast breakdown of cancer cells during treatment. This is called tumour lysis syndrome (TLS).
 - Your doctor or nurse will do blood tests to check for this condition. Before each injection under the skin, you should be well-hydrated and may be given other medicines that can help reduce high levels of uric acid and help reduce possible effects of tumour lysis syndrome.
 - Tumour flare as your cancer is destroyed, it may react and appear to get worse -this is called 'tumour flare reaction'.
@@ -3107,9 +3022,9 @@ Tell your doctor straight away if you get symptoms of any of the side effects li
 
 Tepkinly is not recommended in children and adolescents under 18 years, as there is no information about use in this age group.
 
-## Other medicines and Tepkinly
-
 <div style=\"page-break-after: always\"></div>
+
+## Other medicines and Tepkinly
 
 Tell your doctor or pharmacist if you are taking or using, have recently taken or used, or might take or use any other medicines. This includes medicines obtained without a prescription and herbal medicines.
 
@@ -3153,17 +3068,26 @@ A doctor experienced in treating cancer will take care of your treatment. Follow
 
 Tepkinly will be given to you by a doctor or nurse as an injection under your skin. Tepkinly will be given to you in cycles of 28 days, on a dosing schedule given to you by your doctor.
 
-You will be given Tepkinly according to the following schedule
-
-| Cycle   | Dosing schedule   |
-|---------|-------------------|
-
 <div style=\"page-break-after: always\"></div>
 
-| Cycles 1 to 3        | Weekly           |
-|----------------------|------------------|
-| Cycles 4 to 9        | Every two weeks  |
-| Cycles 10 and beyond | Every four weeks |
+You will be given Tepkinly on its own according to the following schedule
+
+| Cycle                | Tepkinly dosing schedule   |
+|----------------------|----------------------------|
+| Cycles 1 to 3        | Weekly                     |
+| Cycles 4 to 9        | Every two weeks            |
+| Cycles 10 and beyond | Every four weeks           |
+
+You will be given Tepkinly together with lenalidomide and rituximab according to the following schedule
+
+| Cycle          | Tepkinly dosing schedule   |
+|----------------|----------------------------|
+| Cycle 1 to 3   | Weekly                     |
+| Cycles 4 to 12 | Every four weeks           |
+
+You will be given lenalidomide daily (on Days 1-21) during your treatment (Cycle 1 to 12).
+
+You will be given rituximab weekly during Cycle 1 and every four weeks during Cycle 2 to 5.
 
 You may be given other medicines before you are given Tepkinly. This is to help prevent reactions such as cytokine release syndrome and fever in Cycle 1 (and potentially future cycles).
 
@@ -3186,7 +3110,9 @@ The first full dose (48 mg) of Tepkinly will be given to you on Cycle 1 Day 15.
 
 The first full dose (48 mg) of Tepkinly will be given to you on Cycle 1 Day 22.
 
-Your doctor will monitor how your treatment is working. You will be given Tepkinly for as long as your doctor thinks you are benefitting from the treatment.
+Your doctor will monitor how your treatment is working. You will be given Tepkinly on its own for as long as your doctor thinks you are benefitting from the treatment.
+
+You will be given Tepkinly together with lenalidomide and rituximab, Tepkinly will be given for 12 cycles.
 
 Your doctor may delay or completely stop your treatment with Tepkinly if you have certain side effects.
 
@@ -3201,6 +3127,8 @@ Do not stop treatment with Tepkinly unless you have discussed this with your doc
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
 
 ## 4. Possible side effects
+
+<div style=\"page-break-after: always\"></div>
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
@@ -3217,9 +3145,6 @@ Symptoms can include
 - dizziness or light-headedness
 - chills
 - fast heartbeat
-
-<div style=\"page-break-after: always\"></div>
-
 - difficulty breathing/shortness of breath
 - headache
 
@@ -3252,7 +3177,7 @@ Symptoms can include
 
 - a condition where the immune system makes too many of otherwise normal infection-fighting cells called histiocytes and lymphocytes
 
-## Symptoms can include
+Symptoms can include
 
 - fever
 - skin rash
@@ -3262,7 +3187,11 @@ Symptoms can include
 
 ## Other side effects
 
+<div style=\"page-break-after: always\"></div>
+
 Tell your doctor or nurse straight away if you notice any of the following side effects or if they get worse:
+
+## Tepkinly used on its own for patients with DLBCL and FL:
 
 ## Very common : may affect more than 1 in 10 people
 
@@ -3274,9 +3203,6 @@ Tell your doctor or nurse straight away if you notice any of the following side 
 - pain in the belly area
 - headache
 - nausea
-
-<div style=\"page-break-after: always\"></div>
-
 - diarrhoea
 - rash
 - tiredness
@@ -3311,6 +3237,45 @@ Tell your doctor or nurse straight away if you notice any of the following side 
 - increased blood level of creatinine, a breakdown product from muscle tissue
 - increased blood level of liver proteins, which may show problems with the liver
 
+## Tepkinly used together with lenalidomide and rituximab for patients with FL:
+
+## Very common : may affect more than 1 in 10 people
+
+- upper respiratory tract infections (infection of the airways)
+
+<div style=\"page-break-after: always\"></div>
+
+- COVID-19
+- pneumonia (lung infection)
+- difficulty sleeping
+- effects on your nervous system (neurological changes)
+- headache
+- diarrhoea
+- constipation
+- nausea
+- rash
+- tiredness
+- injection site reactions
+- fever
+
+## Shown in blood tests
+
+- low levels of a type of white blood cells that fight infection (neutropenia)
+- low levels of red blood cells, which can cause tiredness, pale skin, and shortness of breath (anaemia)
+- low levels of blood platelets, which can lead to bleeding and bruising (thrombocytopenia)
+- decrease in a type of white blood cell called a lymphocyte, that may affect the body's ability to fight infection (lymphopenia)
+- low level of potassium in blood
+- increased blood level of liver proteins, which may show problems with the liver
+- low levels of immunoglobulins, which may lead to infections
+
+## Common : may affect up to 1 in 10 people
+
+- a viral infection that may cause symptoms such as fever, pain, redness, and/or difficulty breathing (cytomegalovirus infection)
+- viral infection of the mouth or genitals (herpes virus infection)
+- fever due to infection when you have low levels of white blood cells (febrile neutropenia)
+- fungal infections (caused by a type of germ called a fungus)
+- an inflammation of the mucous membranes, which are the moist lining of the digestive, respiratory and genitourinary systems
+
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
@@ -3324,11 +3289,14 @@ Tepkinly will be stored by the doctor, nurse, or pharmacist at the hospital or c
 - Store and transport refrigerated (2 °C to 8 °C).
 - Do not freeze.
 - Keep the vial in the outer carton in order to protect from light.
+- Tepkinly 4 mg/0.8 ml is a solution which may be diluted prior to use.
+- Dilute prior to subcutaneous use for 0.16 mg and 0.8 mg doses.
+- No dilution required for 3 mg dose.
 - If not used immediately, the prepared solution may be stored for up to 24 hours at 2 °C to 8 °C from the time of preparation.
 
 <div style=\"page-break-after: always\"></div>
 
-- Within these 24 hours, the prepared solution can be stored for up to 12 hours at room temperature (20 °C-25 °C) from the start of dose preparation to administration.
+- Within these 24 hours, the prepared solution can be stored for up to 12 hours at room temperature (20 °C - 25 °C) from the start of dose preparation to administration.
 - Allow the solution to warm to room temperature before using.
 
 Your doctor, nurse or pharmacist will throw away any unused medicine following local requirements. These measures will help protect the environment.
@@ -3337,8 +3305,8 @@ Your doctor, nurse or pharmacist will throw away any unused medicine following l
 
 ## What Tepkinly contains
 
-- -The active substance is epcoritamab. Each 0.8 ml vial contains 48 mg of epcoritamab at a concentration of 60 mg/ml.
-- -The other excipients are sodium acetate trihydrate, acetic acid, sorbitol (E420), polysorbate 80, water for injections (see section 2 'Tepkinly contains sodium', 'Tepkinly contains sorbitol' and 'Tepkinly contains polysorbate 80').
+- -The active substance is epcoritamab. Each 0.8 ml vial contains 4 mg of epcoritamab at a concentration of 5 mg/ml.
+- -The other excipients are sodium acetate trihydrate, acetic acid, sorbitol (E420), polysorbate 80, water for injections (see section 2 'Tepkinly contains sodium', 'Tepkinly contains sorbitol' and 'Tepkinly contains polysorbate').
 
 ## What Tepkinly looks like and contents of the pack
 
@@ -3362,13 +3330,13 @@ AbbVie SA
 
 Tél/Tel: +32 10 477811
 
-Lietuva
+## Lietuva
 
 AbbVie UAB
 
 Tel: +370 5 205 3023
 
-България
+## България
 
 АбВи ЕООД
 
@@ -3378,13 +3346,13 @@ Tel: +370 5 205 3023
 
 AbbVie SA
 
-Belgique/Belgien Tél/Tel: +32 10 477811
+Belgique/Belgien
+
+Tél/Tel: +32 10 477811
 
 ## Česká republika
 
-AbbVie s.r.o.
-
-Tel: +420 233 098 111
+AbbVie s.r.o. Tel: +420 233 098 111
 
 ## Magyarország
 
@@ -3558,6 +3526,759 @@ This leaflet is available in all EU/EEA languages on the European Medicines Agen
 
 The following information is intended for healthcare professionals only:
 
+Read this entire section carefully before preparation of epcoritamab. Certain doses (the priming (0.16 mg) and intermediate dose (0.8 mg)) of epcoritamab require dilution prior to administration. Follow all preparation instructions as below, as improper preparation may lead to improper dose. Epcoritamab can be diluted using two different methods which are either the vial method or the syringe method.
+
+Epcoritamab is prepared and administered as a subcutaneous injection. Each vial of epcoritamab is intended for single use only.
+
+Each vial contains an overfill that allows withdrawal of the labelled amount.
+
+Epcoritamab must be diluted and administered by a healthcare professional using aseptic technique. Filtration of the diluted solution is not required.
+
+Epcoritamab should be inspected visually for particulate matter and discolouration prior to administration. The solution for injection should be a colourless to slightly yellow solution. Do not use if the solution is discoloured, or cloudy, or if foreign particles are present.
+
+## Preparation of diluted epcoritamab using the empty sterile vial method
+
+## 0.16 mg priming dose preparation instructions 2 dilutions required - empty sterile vial method
+
+Use an appropriately sized, syringe, vial and needle for each transfer step.
+
+- 1) Prepare Tepkinly vial
+- a) Retrieve one 4 mg/0.8 ml Tepkinly vial with the light blue cap from the refrigerator.
+- b) Allow the vial to come to room temperature for no more than 1 hour.
+- c) Gently swirl the Tepkinly vial.
+
+DO NOT vortex or vigorously shake the vial.
+
+- 2) Perform first dilution
+- a) Label an appropriately sized empty vial as ' dilution A '.
+- b) Transfer 0.8 ml of Tepkinly into the dilution A vial.
+- c) Transfer 4.2 ml of sodium chloride 9 mg/ml (0.9%) sterile solution into the dilution A vial.
+
+The initial diluted solution contains 0.8 mg/ml of epcoritamab.
+
+- d) Gently swirl the dilution A vial for 30 - 45 seconds.
+- 3) Perform second dilution
+- a) Label an appropriately sized empty vial as 'dilution B'
+
+.
+
+- b) Transfer 2 ml of solution from the dilution A vial into the dilution B vial. The dilution A vial is no longer needed and should be discarded.
+
+<div style=\"page-break-after: always\"></div>
+
+- c) Transfer 8 ml of sodium chloride 9 mg/ml (0.9%) sterile solution into the dilution B vial to make a final concentration of 0.16 mg/ml.
+- d) Gently swirl the dilution B vial for 30 - 45 seconds.
+- 4) Withdraw dose
+
+Withdraw 1 ml of the diluted epcoritamab from the dilution B vial into a syringe. The dilution B vial is no longer needed and should be discarded.
+
+- 5) Label syringe
+
+Label the syringe with the product name, dose strength (0.16 mg), date and the time of day.
+
+- 6) Discard the vial and any unused portion of Tepkinly in accordance with local requirements.
+
+## 0.8 mg intermediate dose preparation instructions 1 dilution required -empty sterile vial method
+
+Use an appropriately sized, syringe, vial and needle for each transfer step.
+
+- 1) Prepare Tepkinly vial
+- a) Retrieve one 4 mg/0.8 ml Tepkinly vial with the light blue cap from the refrigerator.
+- b) Allow the vial to come to room temperature for no more than 1 hour.
+- c) Gently swirl the Tepkinly vial.
+
+DO NOT vortex or vigorously shake the vial.
+
+- 2) Perform dilution
+- a) Label an appropriately sized empty vial as 'dilution A' .
+- b) Transfer 0.8 ml of Tepkinly into the dilution A vial.
+- c) Transfer 4.2 ml of sodium chloride 9 mg/ml (0.9%) sterile solution into the dilution A vial
+5. to make a final concentration of 0.8 mg/ml.
+- d) Gently swirl the dilution A vial for 30 - 45 seconds.
+- 3) Withdraw dose
+
+Withdraw 1 ml of the diluted epcoritamab from the dilution A vial into a syringe. The dilution A vial is no longer needed and should be discarded.
+
+- 4) Label syringe
+
+Label the syringe with the product name, dose strength (0.8 mg), date and the time of day.
+
+- 5) Discard the vial and any unused portion of Tepkinly in accordance with local requirements.
+
+## Preparation of diluted epcoritamab using the sterile syringe method
+
+## 0.16 mg priming dose preparation instructions 2 dilutions required - sterile syringe method Use an appropriately sized syringe and needle for each transfer step.
+
+- 1) Prepare Tepkinly vial
+- a) Retrieve one 4 mg/0.8 ml Tepkinly vial with the light blue cap from the refrigerator.
+- b) Allow the vial to come to room temperature for no more than 1 hour.
+- c) Gently swirl the Tepkinly vial.
+
+DO NOT vortex or vigorously shake the vial.
+
+- 2) Perform first dilution
+- a) Label an appropriately sized syringe as ' dilution A '.
+- b) Withdraw 4.2 ml of sodium chloride 9 mg/ml (0.9%) sterile solution into the dilution A syringe. Include approximately 0.2 ml air in the syringe.
+- c) In a new syringe labelled as ' syringe 1 ', withdraw 0.8 ml of epcoritamab .
+- d) Connect the two syringes and push the 0.8 ml of epcoritamab into the dilution A syringe. The initially diluted solution contains 0.8 mg/ml of epcoritamab.
+- e)   Gently mix by inverting the connected syringes 180 degrees 5 times.
+
+<div style=\"page-break-after: always\"></div>
+
+- f)   Disconnect the syringes and discard syringe 1 .
+- 3) Perform second dilution
+- a) Label an appropriately sized syringe as ' dilution B '.
+- b) Withdraw 8 ml of sodium chloride 9 mg/ml (0.9%) sterile solution into the dilution B syringe. Include approximately 0.2 ml air in the syringe.
+- c) Label another appropriately sized syringe as ' syringe 2 '.
+- d) Connect syringe 2 to the dilution A syringe and transfer 2 ml of solution into syringe 2 . The dilution A syringe is no longer needed and should be discarded.
+- e) Connect syringe 2 to the dilution B syringe and push the 2 ml of solution into the dilution B syringe to make a final concentration of 0.16 mg/ml.
+- f) Gently mix by inverting the connected syringes 180 degrees 5 times.
+- g) Disconnect the syringes and discard syringe 2 .
+- 4) Withdraw dose
+
+Connect and transfer 1 ml of the diluted epcoritamab from the dilution B syringe into a new syringe. The dilution B syringe is no longer needed and should be discarded.
+
+- 5) Label syringe
+
+Label the syringe with the product name, dose strength (0.16 mg), date and the time of the day.
+
+- 6) Discard the vial and any unused portion of Tepkinly in accordance with local requirements.
+
+## 0.8 mg intermediate dose preparation instructions 1 dilution required -sterile syringe method
+
+Use an appropriately sized syringe and needle for each transfer step.
+
+- 1) Prepare Tepkinly vial
+- a) Retrieve one 4 mg/0.8 ml Tepkinly vial with the light blue cap from the refrigerator.
+- b) Allow the vial to come to room temperature for no more than 1 hour.
+- c) Gently swirl the Tepkinly vial.
+
+DO NOT vortex or vigorously shake the vial.
+
+- 2) Perform dilution
+- a) Label an appropriately sized syringe as 'dilution A' .
+- b) Withdraw 4.2 ml of sodium chloride 9 mg/ml (0.9%) sterile solution into the dilution A syringe. Include approximately 0.2 ml air in the syringe.
+- c) In a new syringe labelled as ' syringe 1 ', withdraw 0.8 ml of epcoritamab.
+- d) Connect the two syringes and push the 0.8 ml of epcoritamab into the dilution A syringe to make a final concentration of 0.8 mg/ml.
+- e) Gently mix by inverting the connected syringes 180 degrees 5 times.
+- f) Disconnect the syringes and discard syringe 1.
+- 3) Withdraw dose
+
+Connect a new syringe to the dilution A syringe and transfer 1 ml of the diluted epcoritamab into the new syringe. The dilution A syringe is no longer needed and should be discarded.
+
+- 4) Label syringe
+
+Label the syringe with the product name, dose strength (0.8 mg), date and the time of day.
+
+- 5) Discard the vial and any unused portion of Tepkinly in accordance with local requirements.
+
+## Preparation of 3 mg epcoritamab dose
+
+3 mg second intermediate dose preparation instructions ( No dilution required )
+
+<div style=\"page-break-after: always\"></div>
+
+Epcoritamab 3 mg dose is required for follicular lymphoma (FL) patients only.
+
+- 1) Prepare Tepkinly vial
+- a) Retrieve one 4 mg/0.8 ml Tepkinly vial with the light blue cap from the refrigerator.
+- b) Allow the vial to come to room temperature for no more than 1 hour.
+- c) Gently swirl the Tepkinly vial.
+
+DO NOT vortex, or vigorously shake the vial.
+
+- 2) Withdraw dose
+
+Withdraw 0.6 ml of epcoritamab into a syringe.
+
+- 3) Label syringe
+
+Label the syringe with the dose strength (3 mg), date and the time of day.
+
+- 4) Discard the vial and any unused portion of Tepkinly in accordance with local requirements.
+
+## Traceability
+
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+## Package leaflet: Information for the patient
+
+## Tepkinly 48 mg solution for injection
+
+## epcoritamab
+
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+
+## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+
+- -Keep this leaflet. You may need to read it again.
+- -Your doctor will give you a Patient Card. Read it carefully and follow the instructions on it. Keep this Patient Card with you at all times.
+- -Always show the Patient Card to the doctor or nurse when you see them or if you go to hospital.
+- -If you have any further questions, ask your doctor, pharmacist or nurse.
+- -If you get any side effects, talk to your doctor, or pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Tepkinly is and what it is used for
+2. What you need to know before you use Tepkinly
+3. How Tepkinly will be given
+4. Possible side effects
+5. How to store Tepkinly
+6. Contents of the pack and other information
+
+## 1. What Tepkinly is and what it is used for
+
+## What Tepkinly is
+
+Tepkinly is a cancer medicine that contains the active substance epcoritamab.
+
+Tepkinly is used on its own (monotherapy) to treat adult patients who have a blood cancer called diffuse large B-cell lymphoma (DLBCL) or follicular lymphoma (FL) when the disease has come back or did not respond to previous treatment after at least two prior therapies.
+
+Tepkinly is used together (in combination) with lenalidomide and rituximab to treat adult patients who have follicular lymphoma (FL) that has come back or did not respond to previous treatment.
+
+## How Tepkinly works
+
+Epcoritamab is specifically designed to help your own immune system to attack cancer (lymphoma) cells. Epcoritamab acts by attaching to your body's immune cells and cancer cells, bringing them together, so that your immune system can destroy the cancer cells.
+
+## 2. What you need to know before you use Tepkinly
+
+## Do not use Tepkinly
+
+If you are allergic to epcoritamab or any of the other ingredients of this medicine (listed in section 6). If you are not sure, talk to your doctor or nurse before you are given Tepkinly.
+
+<div style=\"page-break-after: always\"></div>
+
+## Warnings and precautions
+
+Talk to your doctor, pharmacist or nurse before using Tepkinly if you
+
+- have current or past problems with your nervous system - such as seizures
+- have an infection
+- are due to have a vaccine or you know you may need to have one in the near future.
+
+If any of the above apply to you (or you are not sure), talk to your doctor or nurse before you are given Tepkinly.
+
+Your doctor or nurse will do blood tests, prior and during your treatment with epcoritamab, to check your antibody levels, which may indicate your risk of infection and the need for specific treatment.
+
+Tell your doctor straight away if you get symptoms of any of the side effects listed below, during or after treatment with Tepkinly. You may need additional medical treatment.
+
+- Cytokine release syndrome a life-threatening condition causing fever, vomiting, difficulty breathing/shortness of breath, chills, rapid heartbeat, headache and dizziness or lightheadedness associated with medicines that stimulate T cells.
+- Before each injection under the skin, you may be given medicines which help reduce possible effects of cytokine release syndrome.
+- Haemophagocytic lymphohistiocytosis (HLH) -a rare condition in which the immune system makes too many of otherwise normal infection fighting cells called histiocytes and lymphocytes. It can lead to enlarged liver and/or spleen, heart problems and kidney abnormalities. Symptoms may include fever, skin rash, swollen lymph glands, breathing problems and easy bruising. Tell your doctor immediately if you experience these symptoms at the same time.
+- ICANS (immune effector cell-associated neurotoxicity syndrome)
+- Symptoms may include problems with use of language (including speech, understanding, writing and reading), drowsiness, confusion/disorientation, muscle weakness, seizures, swelling of a part of the brain, and memory loss.
+- Infections - you may get signs of infection, such as fever of 38 °C or above, chills, cough, or pain with urination which can vary depending on where in the body the infection is.
+- Progressive multifocal leukoencephalopathy (PML) -Symptoms of this serious and potentially fatal brain condition may include blurred vision, loss of vision or double vision, difficulty speaking, weakness or clumsiness of an arm or a leg, a change in the way you walk or problems with your balance, personality changes, changes in thinking, memory and orientation leading to confusion. These symptoms may start several months after treatment has ended and they usually develop slowly and gradually over weeks or months. It is important that your relatives or caregivers are also aware of these symptoms, since they may notice symptoms that you are not aware of.
+- Tumour lysis syndrome some people may get unusual levels of some salts in the blood caused by the fast breakdown of cancer cells during treatment. This is called tumour lysis syndrome (TLS).
+- Your doctor or nurse will do blood tests to check for this condition. Before each injection under the skin, you should be well-hydrated and may be given other medicines that can help reduce high levels of uric acid and help reduce possible effects of tumour lysis syndrome.
+- Tumour flare as your cancer is destroyed, it may react and appear to get worse -this is called 'tumour flare reaction'.
+
+## Children and adolescents
+
+Tepkinly is not recommended in children and adolescents under 18 years, as there is no information about use in this age group.
+
+<div style=\"page-break-after: always\"></div>
+
+## Other medicines and Tepkinly
+
+Tell your doctor or pharmacist if you are taking or using, have recently taken or used, or might take or use any other medicines. This includes medicines obtained without a prescription and herbal medicines.
+
+## Pregnancy
+
+If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine. Do not use Tepkinly during pregnancy, as it may affect your unborn baby. Your doctor may ask you to take a pregnancy test before starting treatment.
+
+## Contraception
+
+If you are a woman who is able to have children, you must use effective contraception to avoid becoming pregnant while taking Tepkinly and for at least 4 months after your last dose of Tepkinly. If you become pregnant during this time, you must talk to your doctor straight away.
+
+Talk to your doctor or nurse about suitable methods of contraception.
+
+## Breast-feeding
+
+You must not breast-feed during treatment with Tepkinly and for at least 4 months after the last dose. It is not known whether Tepkinly passes into breast milk and whether it could affect your baby.
+
+## Fertility
+
+The effect of Tepkinly on male and female fertility is unknown.
+
+## Driving and using machines
+
+Due to the possible symptoms of ICANS, you should be careful while driving, cycling or using heavy or potentially dangerous machines. If you currently have such symptoms, avoid these activities and contact your doctor, nurse, or pharmacist. See section 4 for more information about side effects.
+
+## Tepkinly contains sodium
+
+This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium-free'.
+
+## Tepkinly contains sorbitol
+
+This medicine contains 28.8 mg sorbitol in each vial, which is equivalent to 27.33 mg/ml.
+
+## Tepkinly contains polysorbate
+
+This medicine contains 0.42 mg of polysorbate 80 in each vial, equivalent to 0.4 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+## 3. How Tepkinly will be given
+
+A doctor experienced in treating cancer will take care of your treatment. Follow the treatment schedule explained to you by your doctor.
+
+Tepkinly will be given to you by a doctor or nurse as an injection under your skin. Tepkinly will be given to you in cycles of 28 days, on a dosing schedule given to you by your doctor.
+
+You will be given Tepkinly on its own according to the following schedule You will be given Tepkinly together with lenalidomide and rituximab according to the following schedule You will be given lenalidomide daily (on Days 1-21) during your treatment (Cycle 1 to 12).
+
+<div style=\"page-break-after: always\"></div>
+
+| Cycle                | Tepkinly dosing schedule   |
+|----------------------|----------------------------|
+| Cycles 1 to 3        | Weekly                     |
+| Cycles 4 to 9        | Every two weeks            |
+| Cycles 10 and beyond | Every four weeks           |
+
+| Cycle          | Tepkinly dosing schedule   |
+|----------------|----------------------------|
+| Cycle 1 to 3   | Weekly                     |
+| Cycles 4 to 12 | Every four weeks           |
+
+You will be given rituximab weekly during Cycle 1 and every four weeks during Cycle 2 to 5.
+
+You may be given other medicines before you are given Tepkinly. This is to help prevent reactions such as cytokine release syndrome and fever in Cycle 1 (and potentially future cycles).
+
+These medicines may include
+
+- Corticosteroids - such as dexamethasone, prednisolone or equivalent
+- An antihistamine - such as diphenhydramine
+- Paracetamol
+
+During the first month (Cycle 1) when you are given Tepkinly:
+
+- It is important that you are well hydrated. For that reason, your doctor may tell you to drink plenty of water the day before and the day after you are given Tepkinly. On the day you receive Tepkinly, your doctor may give you fluids through a needle placed in your vein (intravenously).
+- If you take medicine for high blood pressure, your doctor may ask you to stop taking it for a short time while you are on Tepkinly.
+
+## If you have diffuse large B-cell lymphoma (DLBCL)
+
+The first full dose (48 mg) of Tepkinly will be given to you on Cycle 1 Day 15.
+
+## If you have follicular lymphoma (FL)
+
+The first full dose (48 mg) of Tepkinly will be given to you on Cycle 1 Day 22.
+
+Your doctor will monitor how your treatment is working. You will be given Tepkinly on its own for as long as your doctor thinks you are benefitting from the treatment.
+
+You will be given Tepkinly together with lenalidomide and rituximab, Tepkinly will be given for 12 cycles.
+
+Your doctor may delay or completely stop your treatment with Tepkinly if you have certain side effects.
+
+## If you forget to use Tepkinly
+
+If you forget or miss your medical appointment, make another one straight away. For the treatment to be fully effective, it is very important not to miss a dose.
+
+## If you stop using Tepkinly
+
+Do not stop treatment with Tepkinly unless you have discussed this with your doctor. This is because stopping treatment may make your condition worse.
+
+If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+<div style=\"page-break-after: always\"></div>
+
+## Serious side effects
+
+Tell your doctor straight away if you notice any of the symptoms of the following serious side effects. You may only get one or some of these symptoms.
+
+## Cytokine release syndrome (CRS) (Very common : may affect more than 1 in 10 people)
+
+Symptoms can include
+
+- fever
+- vomiting
+- dizziness or light-headedness
+- chills
+- fast heartbeat
+- difficulty breathing/shortness of breath
+- headache
+
+## Immune effector cell-associated neurotoxicity syndrome (ICANS) (Common: may affect up to 1 in 10 people)
+
+- effects on your nervous system, the symptoms of which can occur days or weeks after you receive the injection, may initially be subtle. Some of these symptoms may be signs of a serious immune reaction called 'immune effector cell-associated neurotoxicity syndrome' (ICANS). Symptoms can include
+- difficulty speaking or writing
+- drowsiness
+- confusion/disorientation
+- muscle weakness
+- seizures
+- memory loss
+
+## Tumour lysis syndrome (TLS) ( Common: may affect up to 1 in 10 people)
+
+Symptoms can include
+
+- fever
+- chills
+- vomiting
+- confusion
+- shortness of breath
+- seizures
+- irregular heartbeat
+- dark or cloudy urine
+- unusual tiredness
+- muscle or joint pain
+
+## Haemophagocytic lymphohistiocytosis (HLH) (Uncommon: may affect up to 1 in 100 people)
+
+- a condition where the immune system makes too many of otherwise normal infection-fighting cells called histiocytes and lymphocytes
+
+## Symptoms can include
+
+- fever
+- skin rash
+- swollen lymph glands
+- breathing problems
+- easy bruising
+
+## Other side effects
+
+<div style=\"page-break-after: always\"></div>
+
+Tell your doctor or nurse straight away if you notice any of the following side effects or if they get worse:
+
+## Tepkinly used on its own for patients with DLBCL and FL:
+
+## Very common : may affect more than 1 in 10 people
+
+- viral infection
+- pneumonia (lung infection)
+- upper respiratory tract infections (infection of the airways)
+- decreased hunger
+- pain in bones, joints, ligaments and muscles
+- pain in the belly area
+- headache
+- nausea
+- diarrhoea
+- rash
+- tiredness
+- injection site reactions
+- fever
+- swelling
+
+## Shown in blood tests
+
+- low levels of a type of white blood cells that fight infection (neutropenia)
+- low levels of red blood cells, which can cause tiredness, pale skin, and shortness of breath (anaemia)
+- low levels of blood platelets, which can lead to bleeding and bruising (thrombocytopenia)
+- decrease in a type of white blood cell called a lymphocyte, that may affect the body's ability to fight infection (lymphopenia)
+- low levels of immunoglobulins, which may lead to infections
+
+## Common: may affect up to 1 in 10 people
+
+- fever due to infection when you have low levels of white blood cells (febrile neutropenia)
+- tender swollen lymph nodes, chest pain, cough or difficulty breathing, pain at the site of the tumour (tumour flare)
+- fungal infections (caused by a type of germ called a fungus)
+- skin infections
+- life-threatening reaction the body has to an infection (sepsis)
+- a rapid breakdown of tumour cells resulting in chemical changes in the blood and damage to organs, including the kidneys, heart, and liver (tumour lysis syndrome)
+- irregular heartbeat
+- extra fluid around the lungs that can make it difficult to breathe (pleural effusion)
+- vomiting
+- itching (pruritus)
+
+## Shown in blood tests
+
+- low level of phosphates in the blood, potassium, magnesium or sodium
+- increased blood level of creatinine, a breakdown product from muscle tissue
+- increased blood level of liver proteins, which may show problems with the liver
+
+## Tepkinly used together with lenalidomide and rituximab for patients with FL:
+
+## Very common : may affect more than 1 in 10 people
+
+- upper respiratory tract infections (infection of the airways)
+- COVID-19
+
+<div style=\"page-break-after: always\"></div>
+
+- pneumonia (lung infection)
+- difficulty sleeping
+- effects on your nervous system (neurological changes)
+- headache
+- diarrhoea
+- constipation
+- nausea
+- rash
+- tiredness
+- injection site reactions
+- fever
+
+## Shown in blood tests
+
+- low levels of a type of white blood cells that fight infection (neutropenia)
+- low levels of red blood cells, which can cause tiredness, pale skin, and shortness of breath (anaemia)
+- low levels of blood platelets, which can lead to bleeding and bruising (thrombocytopenia)
+- decrease in a type of white blood cell called a lymphocyte, that may affect the body's ability to fight infection (lymphopenia)
+- low level of potassium in blood
+- increased blood level of liver proteins, which may show problems with the liver
+- low levels of immunoglobulins, which may lead to infections
+
+## Common : may affect up to 1 in 10 people
+
+- a viral infection that may cause symptoms such as fever, pain, redness, and/or difficulty breathing (cytomegalovirus infection)
+- viral infection of the mouth or genitals (herpes virus infection)
+- fever due to infection when you have low levels of white blood cells (febrile neutropenia)
+- fungal infections (caused by a type of germ called a fungus)
+- an inflammation of the mucous membranes, which are the moist lining of the digestive, respiratory and genitourinary systems
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+
+## 5. How to store Tepkinly
+
+Tepkinly will be stored by the doctor, nurse, or pharmacist at the hospital or clinic. To correctly store Tepkinly
+
+- Keep this medicine out of the sight and reach of children
+- Do not use this medicine after the expiry date which is stated on the vial label and carton after EXP. The expiry date refers to the last day of that month.
+- Store and transport refrigerated (2 °C to 8 °C).
+- Do not freeze.
+- Keep the vial in the outer carton in order to protect from light.
+- If not used immediately, the prepared solution may be stored for up to 24 hours at 2 °C to 8 °C from the time of preparation.
+- Within these 24 hours, the prepared solution can be stored for up to 12 hours at room temperature (20 °C-25 °C) from the start of dose preparation to administration.
+- Allow the solution to warm to room temperature before using.
+
+<div style=\"page-break-after: always\"></div>
+
+Your doctor, nurse or pharmacist will throw away any unused medicine following local requirements. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Tepkinly contains
+
+- -The active substance is epcoritamab. Each 0.8 ml vial contains 48 mg of epcoritamab at a concentration of 60 mg/ml.
+- -The other excipients are sodium acetate trihydrate, acetic acid, sorbitol (E420), polysorbate 80, water for injections (see section 2 'Tepkinly contains sodium', 'Tepkinly contains sorbitol' and 'Tepkinly contains polysorbate').
+
+## What Tepkinly looks like and contents of the pack
+
+Tepkinly is a solution for injection. It is a colourless to slightly yellow solution provided in a glass vial.
+
+Each carton contains 1 vial.
+
+## Marketing Authorisation Holder
+
+AbbVie Deutschland GmbH &amp; Co. KG Knollstrasse 67061 Ludwigshafen Germany
+
+## Manufacturer
+
+AbbVie S.r.l. S.R. 148 Pontina, km 52 SNC 04011 Campoverde di Aprilia (LT) Italy
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+AbbVie SA
+
+Tél/Tel: +32 10 477811
+
+## Lietuva
+
+AbbVie UAB
+
+Tel: +370 5 205 3023
+
+## България
+
+АбВи ЕООД
+
+Тел: +359 2 90 30 430
+
+## Luxembourg/Luxemburg
+
+AbbVie SA
+
+Belgique/Belgien
+
+Tél/Tel: +32 10 477811
+
+## Česká republika
+
+AbbVie s.r.o.
+
+Tel: +420 233 098 111
+
+## Magyarország
+
+AbbVie Kft.
+
+Tel: +36 1 455 8600
+
+## Danmark
+
+AbbVie A/S
+
+Tlf: +45 72 30-20-28
+
+## Malta
+
+V.J.Salomone Pharma Limited
+
+Tel: +356 21220174
+
+## Deutschland
+
+AbbVie Deutschland GmbH &amp; Co. KG
+
+Tel: 00800 222843 33 (gebührenfrei)
+
+Tel: +49 (0) 611 / 1720-0
+
+## Nederland
+
+AbbVie B.V.
+
+Tel: +31 (0)88 322 2843
+
+## Eesti
+
+AbbVie OÜ
+
+Tel: +372 623 1011
+
+## Norge
+
+AbbVie AS
+
+Tlf: +47 67 81 80 00
+
+## Ελλάδα
+
+AbbVie ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε.
+
+Τηλ: +30 214 4165 555
+
+## Österreich
+
+AbbVie GmbH
+
+Tel: +43 1 20589-0
+
+## España
+
+AbbVie Spain, S.L.U.
+
+Tel: +34 91 384 09 10
+
+## Polska
+
+AbbVie Sp. z o.o.
+
+Tel: +48 22 372 78 00
+
+## France
+
+AbbVie
+
+Tél: +33 (0) 1 45 60 13 00
+
+## Portugal
+
+AbbVie, Lda.
+
+Tel: +351 (0)21 1908400
+
+## Hrvatska
+
+AbbVie d.o.o.
+
+Tel: +385 (0)1 5625 501
+
+## România
+
+AbbVie S.R.L.
+
+Tel: +40 21 529 30 35
+
+## Ireland
+
+AbbVie Limited
+
+Tel: +353 (0)1 4287900
+
+## Slovenija
+
+AbbVie Biofarmacevtska družba d.o.o.
+
+Tel: +386 (1)32 08 060
+
+## Ísland
+
+Vistor
+
+Tel: +354 535 7000
+
+## Slovenská republika
+
+AbbVie s.r.o.
+
+Tel: +421 2 5050 0777
+
+## Italia
+
+AbbVie S.r.l.
+
+Tel: +39 06 928921
+
+## Suomi/Finland
+
+AbbVie Oy
+
+Puh/Tel: +358 (0)10 2411 200
+
+## Κύπρος
+
+Lifepharma (Z.A.M.) Ltd
+
+Τηλ: +357 22 34 74 40
+
+## Sverige
+
+AbbVie AB
+
+Tel: +46 (0)8 684 44 600
+
+## Latvija
+
+AbbVie SIA
+
+Tel: +371 67605000
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in
+
+This medicine has been given 'conditional approval'. This means that there is more evidence to come about this medicine.
+
+The European Medicines Agency will review new information on this medicine at least every year and this leaflet will be updated as necessary.
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+Latest approved package leaflet and patient card on this medicine are available by scanning the QR code included in this leaflet and on the carton with a smartphone/device. The same information is also available on the following URL: www.tepkinly.eu
+
+<div style=\"page-break-after: always\"></div>
+
+## QR code to be included
+
+To listen to or request a copy of this leaflet in &lt;Braille&gt;, &lt;large print&gt; or &lt;audio&gt;, please contact the local representative of the Marketing Authorisation Holder.
+
+This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
+
+------------------------------------------------------------------------------------------------------------------------
+
+The following information is intended for healthcare professionals only:
+
 Epcoritamab is prepared and administered as a subcutaneous injection.
 
 Each vial of epcoritamab is intended for single use only.
@@ -3574,11 +4295,17 @@ Epcoritamab should be inspected visually for particulate matter and discolourati
 - a) Retrieve one 48 mg Tepkinly vial with the orange cap from the refrigerator.
 - b) Allow the vial to come to room temperature for no more than 1 hour.
 - c) Gently swirl the Tepkinly vial.
-5. DO NOT vortex or vigorously shake the vial.
+
+DO NOT vortex or vigorously shake the vial.
+
 - 2) Withdraw dose
-7. Withdraw 0.8 ml of Tepkinly into a syringe.
+
+Withdraw 0.8 ml of Tepkinly into a syringe.
+
 - 3) Label syringe
-9. Label the syringe with the product name, dose strength (48 mg), date and the time of day.
+
+Label the syringe with the product name, dose strength (48 mg), date and the time of day.
+
 - 4) Discard the vial and any unused portion of Tepkinly in accordance with local requirements.
 
 ## Storage for prepared Tepkinly
@@ -3592,3 +4319,17 @@ Epcoritamab should be inspected visually for particulate matter and discolourati
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## CONCLUSIONS ON THE REQUEST FOR ONE-YEAR MARKETING PROTECTION PRESENTED BY THE EUROPEAN MEDICINES AGENCY
+
+<div style=\"page-break-after: always\"></div>
+
+## Conclusions presented by the European Medicines Agency on:
+
+## · one-year marketing protection
+
+The CHMP reviewed the data submitted by the marketing authorisation holder, taking into account the provisions of Article 14(11) of Regulation (EC) No 726/2004, and considers that the new therapeutic indication brings significant clinical benefit in comparison with existing therapies as further explained in the European Public Assessment Report.

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 22:25:26
+document_datetime: 2026-08-05 16:07:46
 document_pages: 43
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/nexpovio-epar-product-information_en.pdf
 document_name: nexpovio-epar-product-information_en.pdf
 version: success
-processing_time: 11.4869635
-conversion_datetime: 2025-12-28 11:31:19.45732
+processing_time: 12.6346028
+conversion_datetime: 2026-08-07 14:25:10.600934
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -156,15 +156,27 @@ No dose adjustment of selinexor is required for patients with mild, moderate, or
 
 ## Hepatic impairment
 
-No dose adjustment of selinexor is required for patients with mild hepatic impairment (see section 5.2). There are insufficient data in patients with moderate or severe hepatic impairment to support a dose recommendation.
+No dose adjustment of selinexor is required for patients with mild hepatic impairment (either total bilirubin (TB) ≤ 1 x upper limit of normal (ULN) and aspartate aminotransferase (AST) &gt; 1x ULN, or TB&gt;1 to 1.5 x ULN and any AST) or moderate hepatic impairment (TB &gt;1.5 to 3 x ULN and any AST). For patients with severe hepatic impairment (TB &gt; 3x ULN and any AST), reduce the starting dose of selinexor as shown in Table 3 (see section 5.2). The subsequent doses can be increased or decreased based on individual safety and tolerability.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 3: Recommendations for Starting Dose in Patients with Severe Hepatic Impairment
+
+|                                                        | Bilirubin Levels    | selinexor in combination with bortezomib and dexamethasone (SVd)   | selinexor in combination with dexamethasone (Sd)   |
+|--------------------------------------------------------|---------------------|--------------------------------------------------------------------|----------------------------------------------------|
+| Severe Hepatic Impairment (by NCI-ODWG classification) | > 3 x ULN (any AST) | 80 mg once weekly                                                  | 100 mg once weekly                                 |
+
+NCI-ODWG = National Cancer Institute Organ Dysfunction Working Group
+
+AST = Aspartate Aminotransferase; ULN = upper limit of normal
+
+Dosage recommendation is for the starting dose, The subsequent doses can be increased or decreased based on individual safety and tolerability
 
 ## Paediatric population
 
 The safety and efficacy of NEXPOVIO in children below the age of 18 years of age have not been established. No data are available (see section 5.1 and 5.2).
 
 There is no relevant use of NEXPOVIO in children less than 18 years of age in the treatment of multiple myeloma.
-
-<div style=\"page-break-after: always\"></div>
 
 Method of administration NEXPOVIO is for oral use.
 
@@ -190,6 +202,8 @@ Prophylactic concomitant treatment with a 5-HT3 antagonist and/or other anti-nau
 
 ## Haematology
 
+<div style=\"page-break-after: always\"></div>
+
 Patients should have their complete blood counts (CBC) assessed at baseline, during treatment, and as clinically indicated. Monitor more frequently during the first two months of treatment.
 
 ## Thrombocytopenia
@@ -203,8 +217,6 @@ Thrombocytopenia can be managed with dose interruptions, modifications, platelet
 Neutropenia including severe neutropenia (Grade 3/4) has been reported with selinexor. In a few cases concurrent infections occurred in patients with Grade 3/4 neutropenia (see section 4.8).
 
 Patients with neutropenia should be monitored for signs of infection and evaluated promptly. Neutropenia can be managed with dose interruptions, modifications, and colony-stimulating factors as per medical guidelines. For dose modification guidelines refer to Table 1 and Table 2 in section 4.2.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Gastrointestinal toxicity
 
@@ -226,6 +238,8 @@ Selinexor can cause confusional state and dizziness. Patients should be instruct
 
 Selinexor can cause hyponatraemia. Patients should have their sodium levels checked at baseline, during treatment, and as clinically indicated. Monitoring should be more frequent during the first two months of treatment. Correct sodium levels for concurrent hyperglycaemia (serum glucose &gt;150 mg/dL) and high serum paraprotein levels. Hyponatraemia should be treated as per medical guidelines (intravenous sodium chloride solution and/or salt tablets), including dietary review.
 
+<div style=\"page-break-after: always\"></div>
+
 Patients may require selinexor dose interruption and/or modification. For dose modification guidelines refer to Table 1 and Table 2 in section 4.2.
 
 ## Cataract
@@ -240,11 +254,7 @@ Tumour lysis syndrome (TLS) has been reported in patients receiving therapy with
 
 Women of childbearing potential should be advised to avoid becoming pregnant or abstain from sexual intercourse while being treated with selinexor and for at least 1 week following the last dose of selinexor.
 
-Women of childbearing potential and male patients of reproductive potential should be advised to use effective contraceptive measures or abstain from sexual activity to prevent pregnancy during
-
-<div style=\"page-break-after: always\"></div>
-
-treatment with selinexor and for at least 1 week following the last dose of selinexor (see section 4.6).
+Women of childbearing potential and male patients of reproductive potential should be advised to use effective contraceptive measures or abstain from sexual activity to prevent pregnancy during treatment with selinexor and for at least 1 week following the last dose of selinexor (see section 4.6).
 
 ## Excipients
 
@@ -252,9 +262,7 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per 20 mg tablet
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-No dedicated clinical drug interaction studies have been conducted.
-
-Concomitant use of strong CYP3A4 inducer might lead to lower exposure of selinexor.
+No clinically significant differences in selinexor pharmacokinetics were observed when coadministered with a strong CYP3A4 inducer and UGT inducer , carbamazepine (up to 300 mg twice -daily dose of carbamazepine).
 
 No clinically significant differences in selinexor pharmacokinetics were observed when coadministered with a strong CYP3A4 inhibitor, clarithromycin (500 mg PO twice daily for 7 days).
 
@@ -272,6 +280,8 @@ Women of childbearing potential and male patients of reproductive potential shou
 
 There are no data from the use of selinexor in pregnant women. Studies in animals have shown selinexor can cause foetal harm (see section 5.3). Selinexor is not recommended during pregnancy and in women of childbearing potential not using contraception.
 
+<div style=\"page-break-after: always\"></div>
+
 If the patient becomes pregnant while taking selinexor, selinexor should be immediately discontinued, and the patient should be apprised of the potential hazard to the foetus.
 
 ## Breast-feeding
@@ -288,57 +298,61 @@ Selinexor may have major influence on the ability to drive and use machines. Sel
 
 ## 4.8 Undesirable effects
 
-<div style=\"page-break-after: always\"></div>
-
 ## Summary of the safety profile
 
 The safety of selinexor in combination with bortezomib and dexamethasone has been evaluated in 195 patients with multiple myeloma. The most frequent adverse reactions (≥30%) were thrombocytopenia (62%), nausea (50%), fatigue (42%), anaemia (37%), decreased appetite (35%), diarrhoea (33%), and peripheral neuropathy (33%).
 
 The most commonly reported serious adverse reactions (≥3%) were pneumonia (14 .9%), cataract (4.6%), sepsis (4.1%), diarrhoea (3.6%), vomiting (3.6%) and anaemia (3.1%).
 
-The safety of selinexor in combination with dexamethasone has been evaluated in 214 patients with multiple myeloma, including 83 patients with penta-refractory disease. The most frequent adverse reactions (≥30%) were nausea (75%), thrombocytopenia (75%), fatigue (66%), anaemia (60%), decreased appetite (56%), decreased weight (49%), diarrhoea (47%), vomiting (43%), hyponatraemia (40%), neutropenia (36%) and leukopenia (30%).
+The safety of selinexor in combination with dexamethasone has been evaluated in 214 patients with multiple myeloma, including 83 patients with penta-refractory disease. The most frequent adverse reactions (≥30%) were nausea (75%), thrombocytopenia (75%), f atigue (66%), anaemia (60%), decreased appetite (56%), decreased weight (49%), diarrhoea (47%), vomiting (43%), hyponatraemia (40%), neutropenia (36%) and leukopenia (30%).
 
 The most commonly reported serious adverse reactions (≥3%) were pneumonia (7.5%), sepsis (6.1%) thrombocytopenia (4.7%), acute kidney injury (3.7%), and anaemia (3.3%).
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions reported in clinical trials with selinexor in combination with bortezomib and dexamethasone (SVd) are summarised in Table 3.
+Adverse reactions reported in clinical trials with selinexor in combination with bortezomib and dexamethasone (SVd) are summarised in Table 4.
 
-Adverse reactions reported in clinical trials with selinexor in combination with dexamethasone (Sd) are summarised in Table 4.
+Adverse reactions reported in clinical trials with selinexor in combination with dexamethasone (Sd) are summarised in Table 5.
 
 These reactions are presented by system organ class (SOC) and by frequency. Frequency categories are defined as: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 3: Adverse drug reactions (ADRs) observed in patients with multiple myeloma treated with selinexor in combination with bortezomib and dexamethasone (SVd)
+<div style=\"page-break-after: always\"></div>
 
-| System organ class/ preferred term   | All ADRs/frequency                                                                                                                           | Grade 3-4 ADRs/frequency                                                                                                   |
-|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations          | Very common Pneumonia * , upper respiratory tract infection, bronchitis, nasopharyngitis Common Sepsis * , lower respiratory tract infection | Very common Pneumonia * Common Sepsis * , lower respiratory tract infection, bronchitis, upper respiratory tract infection |
-| Blood and lymphatic system disorders | Very common Thrombocytopenia, anaemia, neutropenia * Common Leukopenia, lymphopenia                                                          | Very common Thrombocytopenia, anaemia Common Neutropenia * , lymphopenia Uncommon Leukopenia                               |
+Table 4: Adverse drug reactions (ADRs) observed in patients with multiple myeloma treated with selinexor in combination with bortezomib and dexamethasone (SVd)
+
+| System organ class/ preferred term   | All ADRs/frequency                                                                                                                               | Grade 3-4 ADRs/frequency                                                                                                   |
+|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations          | Very common Pneumonia * , upper respiratory tract infection, bronchitis, nasopharyngitis Common Sepsis * , lower respiratory tract infection     | Very common Pneumonia * Common Sepsis * , lower respiratory tract infection, bronchitis, upper respiratory tract infection |
+| Blood and lymphatic system disorders | Very common Thrombocytopenia, anaemia, neutropenia * Common Leukopenia, lymphopenia                                                              | Very common Thrombocytopenia, anaemia Common Neutropenia * , lymphopenia Uncommon Leukopenia                               |
+| Metabolism and nutrition disorders   | Very common Decreased appetite Common Hyponatraemia, dehydration, hypokalaemia, hypocalcaemia, hypophosphataemia, hyperkalaemia, hypomagnesaemia | Common Hyponatraemia, dehydration, decreased appetite, hypokalaemia, hypocalcaemia, hypophosphataemia                      |
+| Psychiatric disorders                | Very common Insomnia Common Confusional state,                                                                                                   | Common Confusional state, insomnia                                                                                         |
+| Nervous system disorders             | Very common Peripheral neuropathy, dizziness, headache Common Syncope, amnesia * , balance disorder, dysgeusia, ageusia                          | Common Syncope, peripheral neuropathy Uncommon Headache, dizziness, amnesia *                                              |
+| Ear and labyrinth disorders          | Common Vertigo                                                                                                                                   | None                                                                                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class/ preferred term              | All ADRs/frequency                                                                                                                               | Grade 3-4 ADRs/frequency                                                                              |
-|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| Metabolism and nutrition disorders              | Very common Decreased appetite Common Hyponatraemia, dehydration, hypokalaemia, hypocalcaemia, hypophosphataemia, hyperkalaemia, hypomagnesaemia | Common Hyponatraemia, dehydration, decreased appetite, hypokalaemia, hypocalcaemia, hypophosphataemia |
-| Psychiatric disorders                           | Very common Insomnia Common Confusional state,                                                                                                   | Common Confusional state, insomnia                                                                    |
-| Nervous system disorders                        | Very common Peripheral neuropathy, dizziness, headache Common Syncope, amnesia * , balance disorder, dysgeusia, ageusia                          | Common Syncope, peripheral neuropathy Uncommon Headache, dizziness, amnesia *                         |
-| Ear and labyrinth disorders                     | Common Vertigo                                                                                                                                   | None                                                                                                  |
-| Eye disorders                                   | Very common Cataract, vision blurred *                                                                                                           | Very common Cataract Common Vision blurred *                                                          |
-| Cardiac disorders                               | Common Tachycardia                                                                                                                               | None                                                                                                  |
-| Vascular disorders                              | Common Hypotension                                                                                                                               | Common Hypotension                                                                                    |
-| Respiratory, thoracic and mediastinal disorders | Very common Cough Common Dyspnoea * , epistaxis                                                                                                  | Common Epistaxis Uncommon Dyspnoea * , cough                                                          |
-| Gastrointestinal disorders                      | Very common Nausea, diarrhoea, vomiting, constipation Common Abdominal pain, dyspepsia, dry mouth, flatulence                                    | Common Nausea, diarrhoea, vomiting                                                                    |
+| System organ class/ preferred term                   | All ADRs/frequency                                                                                            | Grade 3-4 ADRs/frequency                                                                          |
+|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Eye disorders                                        | Very common Cataract, vision blurred *                                                                        | Very common Cataract Common Vision blurred *                                                      |
+| Cardiac disorders                                    | Common Tachycardia                                                                                            | None                                                                                              |
+| Vascular disorders                                   | Common Hypotension                                                                                            | Common Hypotension                                                                                |
+| Respiratory, thoracic and mediastinal disorders      | Very common Cough Common Dyspnoea * , epistaxis                                                               | Common Epistaxis Uncommon Dyspnoea * , cough                                                      |
+| Gastrointestinal disorders                           | Very common Nausea, diarrhoea, vomiting, constipation Common Abdominal pain, dyspepsia, dry mouth, flatulence | Common Nausea, diarrhoea, vomiting                                                                |
+| Skin and subcutaneous tissue disorders               | Common Alopecia, night sweats*, pruritus                                                                      | Uncommon Night sweats*                                                                            |
+| Musculoskeletal and connective tissue disorders      | Common Hypercreatinaemia                                                                                      | Common Hypercreatinaemia                                                                          |
+| Renal and urinary disorders                          | Common Acute kidney injury                                                                                    | Common Acute kidney injury                                                                        |
+| General disorders and administration site conditions | Very common Fatigue, pyrexia, asthenia Common General physical health deterioration, malaise                  | Very common Fatigue Common Pyrexia, asthenia, general physical health deterioration               |
+| Investigations                                       | Very common Weight decreased Common Aspartate aminotransferase increased, alanine aminotransferase increased  | Common Weight decreased, aspartate aminotransferase increased, alanine aminotransferase increased |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class/ preferred term                   | All ADRs/frequency                                                                                           | Grade 3-4 ADRs/frequency                                                                          |
-|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| Skin and subcutaneous tissue disorders               | Common Alopecia, night sweats*, pruritus                                                                     | Uncommon Night sweats*                                                                            |
-| Musculoskeletal and connective tissue disorders      | Common Hypercreatinaemia                                                                                     | Common Hypercreatinaemia                                                                          |
-| Renal and urinary disorders                          | Common Acute kidney injury                                                                                   | Common Acute kidney injury                                                                        |
-| General disorders and administration site conditions | Very common Fatigue, pyrexia, asthenia Common General physical health deterioration, malaise                 | Very common Fatigue Common Pyrexia, asthenia, general physical health deterioration               |
-| Investigations                                       | Very common Weight decreased Common Aspartate aminotransferase increased, alanine aminotransferase increased | Common Weight decreased, aspartate aminotransferase increased, alanine aminotransferase increased |
-| Injury, poisoning and procedural complications       | Common Fall, contusion                                                                                       | Common Fall                                                                                       |
+| System organ class/ preferred term             | All ADRs/frequency     | Grade 3-4 ADRs/frequency   |
+|------------------------------------------------|------------------------|----------------------------|
+| Injury, poisoning and procedural complications | Common Fall, contusion | Common Fall                |
+
+*  Grouping of more than one MedDRA preferred term including:
+
+Pneumonia: pneumonia, lung infection, pneumonia pneumococcal, pneumonia influenzal, pneumonia parainfluenzae viral, pneumonia bacterial and pneumonia fungal
 
 - -Sepsis: sepsis, septic shock, staphylococcal sepsis and urosepsis
 - -Neutropenia: neutropenia and febrile neutropenia
@@ -347,33 +361,33 @@ Table 3: Adverse drug reactions (ADRs) observed in patients with multiple myelom
 - -Dyspnoea: dyspnoea and exertional dyspnoea
 - -Night sweats: night sweats and hyperhidrosis
 
-Table 4 Adverse drug reactions (ADRs) observed in patients treated with selinexor in combination with dexamethasone (Sd)
+Table 5: Adverse drug reactions (ADRs) observed in patients treated with selinexor in combination with dexamethasone (Sd)
 
-| System organ class/ preferred term   | All ADRs/frequency                                                                  | Grade 3-4 ADRs/frequency                                                         |
-|--------------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| Infections and infestations          | Very common Pneumonia, upper respiratory tract infection Common Sepsis, bacteraemia | Common Pneumonia, sepsis, bacteraemia Uncommon Upper respiratory tract infection |
+| System organ class/ preferred term   | All ADRs/frequency                                                                                                                                                                                                                                 | Grade 3-4 ADRs/frequency                                                                                                                                                                                                         |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations          | Very common Pneumonia, upper respiratory tract infection Common Sepsis, bacteraemia                                                                                                                                                                | Common Pneumonia, sepsis, bacteraemia Uncommon Upper respiratory tract infection                                                                                                                                                 |
+| Blood and lymphatic system disorders | Very common Thrombocytopenia, anaemia, neutropenia, leukopenia, lymphopenia Common Febrile neutropenia                                                                                                                                             | Very common Thrombocytopenia, anaemia, neutropenia, leukopenia, lymphopenia Common Febrile neutropenia                                                                                                                           |
+| Metabolism and nutrition disorders   | Very common Hyponatraemia, dehydration, decreased appetite, hyperglycaemia, hypokalaemia Common Hypocalcaemia, hypophosphataemia, hyperkalaemia, hypomagnesaemia, hyperamylasaemia, hyperuricaemia, hyperlipasaemia Uncommon Tumour lysis syndrome | Very common Hyponatraemia Common Dehydration, decreased appetite, hypokalaemia, hyperglycaemia, hypocalcaemia, hyperkalaemia, hyperamylasaemia, hypophosphataemia hyperuricaemia, hyperlipasaemia Uncommon Tumour lysis syndrome |
+| Psychiatric disorders                | Very common Confusional state, insomnia Common Delirium, hallucination                                                                                                                                                                             | Common Confusional state, insomnia Uncommon Delirium, hallucination                                                                                                                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class/ preferred term   | All ADRs/frequency                                                                                                                                                                                                                                 | Grade 3-4 ADRs/frequency                                                                                                                                                                                   |
-|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders | Very common Thrombocytopenia, anaemia, neutropenia, leukopenia, lymphopenia Common Febrile neutropenia                                                                                                                                             | Very common Thrombocytopenia, anaemia, neutropenia, leukopenia, lymphopenia Common Febrile neutropenia                                                                                                     |
-| Metabolism and nutrition disorders   | Very common Hyponatraemia, dehydration, decreased appetite, hyperglycaemia, hypokalaemia Common Hypocalcaemia, hypophosphataemia, hyperkalaemia, hypomagnesaemia, hyperamylasaemia, hyperuricaemia, hyperlipasaemia Uncommon Tumour lysis syndrome | Very common Hyponatraemia Common Dehydration, decreased appetite, hypokalaemia, hyperglycaemia, hypocalcaemia, hyperkalaemia, hyperamylasaemia, hypophosphataemia hyperuricaemia, hyperlipasaemia Uncommon |
-| Psychiatric disorders                | Very common Confusional state, insomnia Common Delirium, hallucination                                                                                                                                                                             | Common Confusional state, insomnia Uncommon Delirium, hallucination                                                                                                                                        |
-| Nervous system disorders             | Very common Dizziness, dysgeusia, headache Common Peripheral neuropathy, syncope, ageusia, taste disorder, balance disorder, cognitive disorder, disturbance in attention, memory impairment Uncommon                                              | Common Syncope, cognitive disorder Uncommon Peripheral neuropathy, encephalopathy                                                                                                                          |
-| Eye disorders                        | Very common Vision blurred Common Cataract, visual impairment                                                                                                                                                                                      | Common Cataract Uncommon Vision blurred, visual impairment                                                                                                                                                 |
-| Cardiac disorders                    | Common Tachycardia                                                                                                                                                                                                                                 | None                                                                                                                                                                                                       |
-| Vascular disorders                   | Common Hypotension                                                                                                                                                                                                                                 | Uncommon Hypotension                                                                                                                                                                                       |
+| System organ class/ preferred term              | All ADRs/frequency                                                                                                                                                                                                   | Grade 3-4 ADRs/frequency                                                          |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| Nervous system disorders                        | Very common Dizziness, dysgeusia, headache Common Peripheral neuropathy, syncope, ageusia, taste disorder, balance disorder, cognitive disorder, disturbance in attention, memory impairment Uncommon Encephalopathy | Common Syncope, cognitive disorder Uncommon Peripheral neuropathy, encephalopathy |
+| Eye disorders                                   | Very common Vision blurred Common Cataract, visual impairment                                                                                                                                                        | Common Cataract Uncommon Vision blurred, visual impairment                        |
+| Cardiac disorders                               | Common Tachycardia                                                                                                                                                                                                   | None                                                                              |
+| Vascular disorders                              | Common Hypotension                                                                                                                                                                                                   | Uncommon Hypotension                                                              |
+| Respiratory, thoracic and mediastinal disorders | Very common Dyspnoea, epistaxis, cough                                                                                                                                                                               | Common Dyspnoea Uncommon Epistaxis                                                |
+| Gastrointestinal disorders                      | Very common Nausea, diarrhoea, vomiting, abdominal pain, constipation Common Dyspepsia, dry mouth, abdominal discomfort, flatulence                                                                                  | Common Nausea, diarrhoea, vomiting, constipation Uncommon Abdominal pain          |
+| Skin and subcutaneous tissue disorders          | Common Alopecia, night sweats, pruritus                                                                                                                                                                              | None                                                                              |
+| Musculoskeletal and connective tissue disorders | Common Muscle spasms, hypercreatinaemia                                                                                                                                                                              | Uncommon Muscle spasms, hypercreatinaemia                                         |
+| Renal and urinary disorders                     | Common Acute kidney injury                                                                                                                                                                                           | Common Acute kidney injury                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class/ preferred term                   | All ADRs/frequency                                                                                                                                 | Grade 3-4 ADRs/frequency                                                                                  |
 |------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| Respiratory, thoracic and mediastinal disorders      | Very common Dyspnoea, epistaxis, cough                                                                                                             | Common Dyspnoea Uncommon Epistaxis                                                                        |
-| Gastrointestinal disorders                           | Very common Nausea, diarrhoea, vomiting, abdominal pain, constipation Common Dyspepsia, dry mouth, abdominal discomfort, flatulence                | Common Nausea, diarrhoea, vomiting, constipation Uncommon Abdominal pain                                  |
-| Skin and subcutaneous tissue disorders               | Common Alopecia, night sweats, pruritus                                                                                                            | None                                                                                                      |
-| Musculoskeletal and connective tissue disorders      | Common Muscle spasms, hypercreatinaemia                                                                                                            | Uncommon Muscle spasms, hypercreatinaemia                                                                 |
-| Renal and urinary disorders                          | Common Acute kidney injury                                                                                                                         | Common Acute kidney injury                                                                                |
 | General disorders and administration site conditions | Very common Fatigue, pyrexia, asthenia Common General physical health deterioration, malaise, gait disturbance, chills                             | Very common Fatigue Common Asthenia, general physical health deterioration, pain Uncommon Pyrexia         |
 | Investigations                                       | Very common Weight decreased Common Aspartate aminotransferase increased, alanine aminotransferase increased, blood alkaline phosphatase increased | Common Alanine aminotransferase increased Uncommon Weight decreased; aspartate aminotransferase increased |
 | Injury, poisoning and procedural complications       | Common Fall                                                                                                                                        | Common Fall                                                                                               |
@@ -384,11 +398,7 @@ Table 4 Adverse drug reactions (ADRs) observed in patients treated with selinexo
 
 Infection was the most common non-haematological toxicity.
 
-In patients who received SVd, infections were reported in 70% of patients and 28% of patients had Grade 3 or 4 infections. Serious infections were reported in 28% of patients with fatal infections occurring in 4% of treated patients. Upper respiratory tract infection and pneumonia were the most commonly reported infections in 21% and 15% of patients, respectively. Infection led to dose
-
-<div style=\"page-break-after: always\"></div>
-
-discontinuation in 1% of patients, treatment interruption in 48% patients, and a dose reduction in 10% of patients.
+In patients who received SVd, infections were reported in 70% of patients and 28% of patients had Grade 3 or 4 infections. Serious infections were reported in 28% of patients with fatal infections occurring in 4 % of treated patients. Upper respiratory tract infection and pneumonia were the most commonly reported infections in 21% and 15% of patients, respectively. Infection led to dose discontinuation in 1% of patients, treatment interruption in 48% patients, and a dose reduction in 10% of patients.
 
 In patients who received Sd, infections were reported in 53% of patients. Of these, 22% were Grade 3 or 4. Upper respiratory tract infection and pneumonia were the most commonly reported infections (in 15% and 13% of patients, respectively) with 25% of reported infections being serious and fatal infections occurring in 3% of treated patients. Infection led to dose discontinuation in 7% of patients, treatment interruption in 19% patients, and a dose reduction in 1% of patients.
 
@@ -398,13 +408,15 @@ In patients who received SVd, thrombocytopenia occurred in 62% of patients and 4
 
 In patients who received Sd, thrombocytopenia occurred in 75% of patients and 65% of these ADRs were Grade 3 or 4. Thrombocytopenia was serious in 5% of patients. Of the 65% patients with Grade 3 or 4 thrombocytopenia, serious/Grade 3 or higher concurrent bleeding events (concurrency defined as ±5 days) were reported in 5% of patients. Thrombocytopenia led to dose discontinuation in 3% of patients, treatment interruption in 22% of patients, and a dose reduction in 32% of patients.
 
+<div style=\"page-break-after: always\"></div>
+
 Thrombocytopenia can be managed with dose modifications (see section 4.2), supportive care and platelet transfusions. Patients should be monitored for signs and symptoms of bleeding and evaluated promptly (see section 4.4).
 
 ## Neutropenia
 
 In patients who received SVd, neutropenia occurred in 16% of patients and 10% of patients had Grade 3 or 4 events of neutropenia. Neutropenia was serious in 1% of patients. None of the patients had a dose discontinuation due to neutropenia, and neutropenia led to treatment interruption in 9% of patients, and a dose reduction in 5% of patients.
 
-Febrile neutropenia, re ported as serious, occurred in one patient (&lt;1%) who received SVd; and was Grade 4. Febrile neutropenia led to treatment interruption and dose reduction; no dose discontinuation occurred due to febrile neutropenia. Of the 19 patients with Grade 3 or higher neutropenia, serious Grade 3 or higher concurrent infections (concurrency defined as ±5 days) were reported in 3 (16%) patients. Concurrent Grade 3 or higher infections included lower respiratory tract infection, bronchitis and ear infection (1 patient each).
+Febrile neutropenia, reported as serious, occurred in one patient (&lt;1%) who received SVd; and was Grade 4. Febrile neutropenia led to treatment interruption and dose reduction; no dose discontinuation occurred due to febrile neutropenia. Of the 19 patients with Grade 3 or higher neutropenia, serious Grade 3 or higher concurrent infections (concurrency defined as ±5 days) were reported in 3 (16%) patients. Concurrent Grade 3 or higher infections included lower respiratory tract infection, bronchitis and ear infection (1 patient each).
 
 In patients who received Sd, neutropenia occurred in 36% of patients and 25% of these were Grade 3 or 4. Neutropenia was serious in 1% of patients. None of the patients had a dose discontinuation due to neutropenia, and neutropenia led to treatment interruption in 2% of patients, and a dose reduction in 6% of patients.
 
@@ -412,11 +424,7 @@ Febrile neutropenia occurred in 3% of patients who received Sd; all were Grade 3
 
 ## Anaemia
 
-In patients who received SVd, anaemia occurred in 37% of patients and 16% of patients had Grade 3 anaemia, no patients had Grade 4 or 5 anaemia. Anaemia was serious in 3% of patients. Anaemia led
-
-<div style=\"page-break-after: always\"></div>
-
-to dose discontinuation in 1% of patients, treatment interruption in 6% of patients, and a dose reduction in 3% of patients.
+In patients who received SVd, anaemia occurred in 37% of patients and 16% of patients had Grade 3 anaemia, no patients had Grade 4 or 5 anaemia. Anaemia was serious in 3% of patients. Anaemia led to dose discontinuation in 1% of patients, treatment interruption in 6% of patients, and a dose reduction in 3% of patients.
 
 In patients who received Sd, anaemia occurred in 61% of patients and 44% of these were Grade 3 or 4. Anaemia was serious in 3% of patients. Anaemia led to dose discontinuation in &lt;1% of patients, treatment interruption in 4% of patients, and a dose reduction in 1% of patients.
 
@@ -428,6 +436,8 @@ In patients who received SVd, nausea occurred in 50% of patients and 8% of patie
 
 Vomiting occurred in 21% of patients who received SVd, and 4% of patients had Grade 3 vomiting. No patients had Grade 4 vomiting. Vomiting was serious in 4% of patients. Vomiting led to dose discontinuation in 2% of patients, treatment interruption in 3% of patients, and a dose reduction in 3% of patients.
 
+<div style=\"page-break-after: always\"></div>
+
 Diarrhoea occurred in 33% of patients who received SVd and 7% of patients had Grade 3 or 4 diarrhoea. Diarrhoea was serious in 4% of patients. Diarrhoea led to dose discontinuation in 1% of patients, treatment interruption in 8% of patients, and a dose reduction in 2% of patients.
 
 In patients who received Sd, nausea/vomiting occurred in 79% of patients and 10% of these were Grade 3 or 4 and was serious in 3% of patients. When anti-nausea treatment was administered, the median duration of nausea or vomiting improved by 3 days. Nausea/vomiting led to dose discontinuation in 5% of patients, treatment interruption in 8% of patients, and a dose reduction in 5% of patients.
@@ -436,15 +446,13 @@ Diarrhoea occurred in 47% of patients who received Sd and 7% were Grade 3 or 4 a
 
 ## Hyponatraemia
 
-In patients who received SVd, hyponatraemia occurred in 8% of patients and 5% of patients had Grade 3 or 4 hyponatremia. Hyponatraemia was serious in &lt;1% of p atients. Most cases of hyponatraemia were not associated with any symptoms. There were no reports of concurrent seizures. Hyponatraemia did not lead to any dose discontinuation, and it led to treatment interruption in &lt;1% of patients, and a dose reduction in 1% of patients.
+In patients who received SVd, hyponatraemia occurred in 8% of patients and 5% of patients had Grade 3 or 4 hyponatremia. Hyponatraemia was serious in &lt;1% of patients. Most cases of hyponatraemia were not associated with any symptoms. There were no reports of concurrent seizures. Hyponatraemia did not lead to any dose discontinuation, and it led to treatment interruption in &lt;1% of patients, and a dose reduction in 1% of patients.
 
 In patients who received Sd, hyponatraemia occurred in 40% of patients and 24% were Grade 3 or 4. Hyponatraemia was serious in 3% of patients. Most cases of hyponatraemia were not associated with any symptoms. There were no reports of concurrent seizures. Hyponatraemia did not lead to any dose discontinuation, and it led to treatment interruption in 6% of patients, and a dose reduction in 1% of patients.
 
 ## Cataract
 
 In patients receiving SVd, the incidence of new onset or worsening cataracts requiring clinical intervention was reported in 24% of patients. The median time to new onset of cataract was 233 days. The median time for worsening of cataract in patients presenting with cataract at start of selinexor therapy was 261 days (SVd). Cataract did not lead to treatment discontinuation, it led to treatment interruption in 4% of patients and a dose reduction in 3 % of patients. Cataract should be treated as per medical guidelines, including surgery if warranted (see sections 4.4 and 4.2).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Tumour lysis syndrome
 
@@ -459,6 +467,8 @@ Among patients with multiple myeloma who received Sd, 47% were 65 years of age a
 ## Reporting of suspected adverse reactions
 
 Reporting of suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -482,8 +492,6 @@ Pharmacotherapeutic group: Antineoplastic agents, other antineoplastic agents, A
 
 Selinexor is a reversible covalent selective inhibitor of nuclear export (SINE) compound that specifically blocks exportin 1 (XPO1). XPO1 is the major mediator of the nuclear export of many cargo proteins including tumour suppressor proteins (TSPs), growth regulators and mRNAs of growth promoting (oncogenic) proteins. XPO1 inhibition by selinexor leads to marked accumulation of TSPs in the nucleus, cell cycle arrest, reductions in several oncoproteins such as c-Myc and cyclin D1, and apoptosis of cancer cells. The combination of selinexor and dexamethasone and/or bortezomib demonstrated synergistic cytotoxic effects in multiple myeloma in vitro and increased anti-tumour activity in murine xenograft multiple myeloma models in vivo, including those resistant to proteasome inhibitors.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Cardiac electrophysiology
 
 The effect of multiple doses of selinexor up to 175 mg twice weekly on the QTc interval was evaluated in patients with heavily pre-treated haematologic malignancies. Selinexor had no large effect (i.e. no greater than 20 ms) on QTc interval at the therapeutic dose level.
@@ -494,49 +502,48 @@ Selinexor in combination with bortezomib and dexamethasone (SVd) for the treatme
 
 The efficacy and safety of selinexor in combination with bortezomib and dexamethasone were evaluated in Study KCP-330-023 (BOSTON), a phase 3, global, randomised, open-label, activecontrolled study, in patients with multiple myeloma who had received at least one prior therapy. BOSTON required patients to have measurable myeloma per International Myeloma Working Group (IMWG) criteria with documented evidence of progressive disease on or after their most recent treatment regimen, have previously received treatment with one to three prior different regimens for multiple myeloma. Patients who had previously received proteasome inhibitors (alone or as part of a combination treatment) were required to have had at least a partial response to the therapy and at least a 6-month interval since their last proteasome inhibitor therapy, with no history of discontinuation of bortezomib due to G rade 3 or higher toxicity. Patients had to have an ECOG performance score of ≤2, adequate hepatic, renal and haematopoietic function. Patients with systemic light-chain amyloidosis, active central nervous system myeloma, peripheral neuropathy of Grade 2 or higher, or painful neuropathy of Grade 2, plasma cell leukaemia, polyneuropathy, organomegaly, endocrinopathy, monoclonal gammopathy, or skin changes (POEMS) syndrome were excluded from trial participation.
 
-The study compared treatment with once weekly selinexor 100 mg (administered orally on Day 1 of each week) in combination with twice weekly dexamethasone 20 mg (administered orally on Days 1 and 2 of each week) and once-weekly bortezomib 1.3 mg/m 2 (administered subcutaneous on Day 1 of weeks 1-4 with week 5 off) [SVd arm] to treatment with twice-weekly bortezomib 1.3 mg/m 2 (administered subcutaneous on Days 1, 4, 8, 11) with twice weekly low-dose dexamethasone 20 mg (administered orally on Days 1, 2, 4, 5, 8, 9, 11, 12) of a standard 21-day cycle for the first 8 cycles, followed by once weekly subcutaneous bortezomib 1.3 mg/m 2 (administered subcutaneously on Day 1 of weeks 1-4 with week 5 off) with twice weekly low-dose dexamethasone 20 mg (administered orally on Days 1 and 2 of each week) for cycles ≥9 [Vd arm].
+<div style=\"page-break-after: always\"></div>
+
+The study compared treatment with once weekly selinexor 100 mg (administered orally on Day 1 of each week) in combination with twice weekly dexamethasone 20 mg (administered orally on Days 1 and 2 of each week) and once-weekly bortezomib 1.3 mg/m 2 (administered subcutaneous on Day 1 of weeks 1-4 with week 5 off) [SVd arm] to treatment with twice-weekly bortezomib 1.3 mg/m 2 (administered subcutaneous on Days 1, 4, 8, 11) with low-dose dexamethasone 20 mg (administered orally on Days 1, 2, 4, 5, 8, 9, 11, 12) of a standard 21-day cycle for the first 8 cycles, followed by once weekly subcutaneous bortezomib 1.3 mg/m 2 (administered subcutaneously on Day 1 of weeks 14 with week 5 off) with twice weekly low-dose dexamethasone 20 mg (administered orally on Days 1 and 2 of each week) for cycles ≥9 [Vd arm].
 
 Treatment continued in both arms until disease progression, death or unacceptable toxicity. Upon confirmed progressive disease (PD), patients in the control arm (Vd) could cross over to receive selinexor based therapy in the form of weekly SVd (BOSTON regimen) or weekly Sd (selinexor 100mg once weekly (Day 1 of each week) and low-dose dexamethasone 20 mg twice weekly (Days 1 and 2 of each week).
 
 A total of 402 patients were randomised: 195 to SVd arm and 207 to Vd arm.
 
-Baseline patient and disease characteristics are described in Table 5.
+Baseline patient and disease characteristics are described in Table 6.
+
+Table 6: Demographics and disease characteristics of patients with relapsed refractory multiple myeloma in BOSTON Study (n=402)
+
+| Characteristic                                            | SVd (n=195)        | Vd (n=207)         |
+|-----------------------------------------------------------|--------------------|--------------------|
+| Median from diagnosis to randomization, years (range)     | 3.81 (0.4, 23.0)   | 3.59 (0.4, 22.0)   |
+| Time since end of last prior therapy, median (range)      | 48 weeks (1, 1088) | 42 weeks (2, 405)  |
+| Number of prior treatment regimens, mean (range)          | 1.7 (1, 3)         | 1.7 (1, 3)         |
+| Number of Prior Therapies (%)                             |                    |                    |
+| 1                                                         | 51%                | 48%                |
+| 2                                                         | 33%                | 31%                |
+| 3                                                         | 16%                | 21%                |
+| Age, median (range)                                       | 66 years (40, 87)  | 67 years (38, 90)  |
+| Patients <65 years of age, n (%)                          | 86 (44)            | 75 (36)            |
+| Patients 65-74 years of age, n (%)                        | 75 (39)            | 85 (41)            |
+| Patients ≥75 years of age, n (%)                          | 34 (17)            | 47 (23)            |
+| Males : Females, n (%)                                    | 115 (59) : 80 (41) | 115 (56) : 92 (44) |
+| Type of prior therapy, n (%)                              |                    |                    |
+| Stem Cell transplantation                                 | 76 (39)            | 63 (30)            |
+| Lenalidomide in any combination                           | 77 (39)            | 77 (37)            |
+| Pomalidomide in any combination                           | 11 (6)             | 7 (3)              |
+| Bortezomib in any combination                             | 134 (69)           | 145 (70)           |
+| Carfilzomib in any combination                            | 20 (10)            | 21 (10)            |
+| Any proteasome inhibitor in any combination               | 148 (76)           | 159 (77)           |
+| Daratumumab in any combination                            | 11 (6)             | 6 (3)              |
+| Revised International Staging System at baseline, n (%) I | 56 (29)            | 52 (25)            |
+| II                                                        | 117 (60)           | 125 (60)           |
+| III                                                       | 12 (6)             | 16 (8)             |
+| Unknown                                                   | 10 (5)             | 14 (7)             |
+| High-risk cytogenetics a , n (%)                          | 97 (50)            | 95 (46)            |
+| ECOG performance status: 0 to 1, n (%)                    | 175 (90)           | 191 (92)           |
 
 <div style=\"page-break-after: always\"></div>
-
-Table 5: Demographics and disease characteristics of patients with relapsed refractory multiple myeloma in BOSTON Study (n=402)
-
-| Characteristic                                          | SVd (n=195)        | Vd (n=207)         |
-|---------------------------------------------------------|--------------------|--------------------|
-| Median from diagnosis to randomization, years (range)   | 3.81 (0.4, 23.0)   | 3.59 (0.4, 22.0)   |
-| Time since end of last prior therapy, median (range)    | 48 weeks (1, 1088) | 42 weeks (2, 405)  |
-| Number of prior treatment regimens, mean (range)        | 1.7 (1, 3)         | 1.7 (1, 3)         |
-| Number of Prior Therapies (%)                           |                    |                    |
-| 1                                                       | 51%                | 48%                |
-| 2                                                       | 33%                | 31%                |
-| 3                                                       | 16%                | 21%                |
-| Age, median (range)                                     | 66 years (40, 87)  | 67 years (38, 90)  |
-| Patients <65 years of age, n (%)                        | 86 (44)            | 75 (36)            |
-| Patients 65-74 years of age, n (%)                      | 75 (39) 34         | 85 (41)            |
-| Patients ≥75 years of age, n (%)                        | (17)               | 47 (23)            |
-| Males : Females, n (%)                                  | 115 (59) : 80 (41) | 115 (56) : 92 (44) |
-| Type of prior therapy, n (%)                            |                    |                    |
-| Stem Cell transplantation                               | 76 (39)            | 63 (30)            |
-| Lenalidomide in any combination                         | 77 (39)            | 77 (37)            |
-| Pomalidomide in any combination                         | 11 (6)             | 7 (3)              |
-| Bortezomib in any combination                           | 134 (69)           | 145 (70)           |
-| Carfilzomib in any combination                          | 20 (10)            | 21 (10)            |
-| Any proteasome inhibitor in any combination             | 148 (76)           | 159 (77)           |
-| Daratumumab in any combination                          | 11 (6)             | 6 (3)              |
-| Revised International Staging System at baseline, n (%) | 56 (29)            | 52 (25)            |
-| I                                                       |                    |                    |
-| II                                                      | 117 (60)           | 125 (60)           |
-| III                                                     | 12 (6)             | 16 (8)             |
-| Unknown                                                 | 10 (5)             | 14 (7)             |
-| High-risk cytogenetics a , n (%)                        | 97 (50)            | 95 (46)            |
-| ECOG performance status: 0 to 1, n (%)                  | 175 (90)           | 191 (92)           |
-
-a Includes any of del (17p)/p53, t (14;16), t (4;14), 1q21.
 
 The primary endpoint was progression free survival (PFS) according to the IMWG Uniform Response Criteria for Multiple Myeloma, as assessed by an Independent Review Committee (IRC).
 
@@ -548,27 +555,22 @@ The median time to response was 1.4 months in the SVd-treated patients and 1.6 m
 
 At the time of the pre-planned PFS interim analysis, 109 overall survival (OS) events had occurred; there were 47 and 62 deaths in the SVd and Vd arms respectively (HR=0.84 [95% CI: 0.57, 1.23]). Median OS was not reached for the SVd arm and was of 25 months for the Vd arm.
 
-<div style=\"page-break-after: always\"></div>
+At an updated descriptive analysis with a median follow up of 22.1 months results were consistent with the primary analysis. Efficacy results are shown in Table 7 and Figure 1.
 
-At an updated descriptive analysis with a median follow up of 22.1 months results were consistent with the primary analysis. Efficacy results are shown in Table 6 and Figure 1.
-
-Table 6: Efficacy results assessed by independent review committee in BOSTON study (median follow-up 22.1 months)
+Table 7: Efficacy results assessed by independent review committee in BOSTON study (median follow-up 22.1 months)
 
 |                                                                                                                                | SVd (n=195)                                  | Vd (n=207)                             |
 |--------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|----------------------------------------|
 | Progression Free Survival (PFS) a Hazard Ratio (95% CI)                                                                        | 0.71 (0.54, 0.93)                            | 0.71 (0.54, 0.93)                      |
 | Median PFS in months (95% CI)                                                                                                  | 13.2 (11.7, 23.4)                            | 9.5 (8.1, 10.8)                        |
 | Overall Response Rate (ORR) b , n (%) 95% CI sCR                                                                               | 150 (76.9) (70.4, 82.6)                      | 131 (63.3) (56.3, 69.9)                |
-| CR VGPR                                                                                                                        | 19 (10) 14 (7) 54 (28)                       | 13 (6) 9 (4)                           |
-| Time to                                                                                                                        |                                              | 45 (22)                                |
-| PR                                                                                                                             | 63 (32)                                      | 64 (31)                                |
-| Response, months (95% CI)                                                                                                      | 1.4 (1.4, 1.5)                               | 1.6 (1.5, 2.1)                         |
-| Median Duration of Response, months (95% CI) c                                                                                 | 17.3 (12.6, 26.3)                            | 12.9 (9.3, 15.8)                       |
+| CR VGPR                                                                                                                        | 19 (10) 14 (7) 54 (28)                       | 13 (6) 9 (4) 45 (22)                   |
+| Time to Response, months (95% CI)                                                                                              | 1.4 (1.4, 1.5)                               | 1.6 (1.5, 2.1)                         |
+| Median Duration of Response, months c                                                                                          | 17.3 (12.6,                                  |                                        |
+| (95% CI)                                                                                                                       | 26.3)                                        | 12.9 (9.3, 15.8)                       |
 | Overall survival (OS, median follow-up 28.7 months) a Number of events, n (%) Median OS, months (95% CI) Hazard Ratio (95% CI) | 68 (35) 36.7 (30.2, Not Reached) 0.88 (0.63, | 80 (39) 32.8 (27.8, Not Reached) 1.22) |
 
-SVd=selinexor-bortezomib-dexamethasone, Vd=bortezomib-dexamethasone, sCR= stringent complete response,
-
-CR= complete response, VGPR= very good partial response, PR= partial response
+SVd=selinexor-bortezomib-dexamethasone, Vd=bortezomib-dexamethasone, sCR= stringent complete response, CR= complete response, VGPR= very good partial response, PR= partial response Grade ≥2 peripheral neuropathy, a pre-specified key secondary endpoint, was lower in the SVd arm (21%) compared to the Vd arm (34%); odds ratio 0.50 [95% CI: 0.32, 0.79, p=0.0013], due to the lower dose of bortezomib in the SVd arm.
 
 *Efficacy results reported correspond to a descriptive analysis based on the 15 Feb 2021 data cut off.
 
@@ -578,15 +580,13 @@ b  Includes sCR + CR + VGPR + PR, p value based on Cochran-Mantel-Haenszel test.
 
 c Includes responding patients who achieved a PR or better
 
+<div style=\"page-break-after: always\"></div>
+
 Figure 1: Kaplan-Meier Curve of PFS in BOSTON study (median follow-up 22.1 months)
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
-Grade ≥2 peripheral neuropathy, a pre-specified key secondary endpoint, was lower in the SVd arm (21%) compared to the Vd arm (34%); odds ratio 0.50 [95% CI: 0.32, 0.79, p=0.0013], due to the lower dose of bortezomib in the SVd arm.
-
-## Selinexor in combination with dexamethasone (Sd) for the treatment of patients with relapsed/refractory multiple myeloma
+Selinexor in combination with dexamethasone (Sd) for the treatment of patients with relapsed/refractory multiple myeloma
 
 Study KPC-330-012 (STORM), a phase 2, multi-centre, single-arm, open-label, study, enrolled patients with relapsed and/or refractory multiple myeloma (RRMM). STORM Part 2 required patients to have measurable disease per IMWG criteria, have previously received three or more antimyeloma treatment regimens including an alkylating agent, glucocorticoids, bortezomib, carfilzomib, lenalidomide, pomalidomide, and an anti-CD38 monoclonal antibody; and whose myeloma was documented to be refractory to glucocorticoids, a proteasome inhibitor, an immunomodulatory agent, an anti-CD38 monoclonal antibody, and to the last line of therapy. Patients had to have an ECOG performance status score ≤2, adequate hepatic, renal and haematopoietic function. Systemic light chain amyloidosis, active central nervous system myeloma, peripheral neuropathy of Grade 3 or higher, or painful neuropathy of Grade 2 or higher were exclusion criteria.
 
@@ -596,45 +596,45 @@ Among patients enrolled in STORM Part 2 (n=123), eighty-three (83) patients had 
 
 The data presented below is from the 83 patients whose disease was refractory to bortezomib (B), carfilzomib (C), lenalidomide (L), pomalidomide (P), and daratumumab (D) (penta-refractory).
 
-Table 7 provides patients disease and prior treatment characteristics.
+Table 8 provides patients disease and prior treatment characteristics.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 7: Demographics and disease characteristics of patients with relapsed refractory multiple myeloma treated with twice weekly 80 mg selinexor and 20 mg dexamethasone (n=83)
+Table 8: Demographics and disease characteristics of patients with relapsed refractory multiple myeloma treated with twice weekly 80 mg selinexor and 20 mg dexamethasone (n=83)
 
-| Characteristics                                                                            |                      |
-|--------------------------------------------------------------------------------------------|----------------------|
-| Median from diagnosis to start of study treatment , years (range)                          | 7 years (1, 23)      |
-| Number of prior treatment regimens , median (range)                                        | 8 (4, 18)            |
-| Age, median (range)                                                                        | 65 years (40, 86)    |
-| Patients < 65 years of age, n (%)                                                          | 40 (48)              |
-| Patients 65-74 years of age, n (%)                                                         | 31 (37)              |
-| Patients ≥ 75 years of age, n (%)                                                          | 12 (15)              |
-| Males : Females, n (%)                                                                     | 51 M(61) : 32 F (39) |
-| Refractory status to specific treatment combinations, n (%)                                |                      |
-| Penta refractory (BCLPD)                                                                   | 83 (100)             |
-| Daratumumab in any combination                                                             | 57 (69)              |
-| Daratumumab as single agent                                                                | 26 (31)              |
-| Previous stem cell transplant 1 , n (%) ≥2 transplants                                     | 67 (81) 23 (28)      |
-| Previous CAR-T Cell Therapy, n (%)                                                         | 2 (2.4)              |
-| Revised Integrated Staging System at baseline, n (%)                                       |                      |
-| I                                                                                          | 10 (12)              |
-| II                                                                                         | 56 (68)              |
-| III                                                                                        | 17 (21)              |
-| High-risk cytogenetics, n (%) (includes any of del(17p)/p53, t(14; 16), t(4; 14), or 1q21) | 47 (57)              |
-| ECOG performance status: 0 to 1, n (%)                                                     | 74 (89)              |
+| Characteristics                                                                            |                       |
+|--------------------------------------------------------------------------------------------|-----------------------|
+| Median from diagnosis to start of study treatment , years (range)                          | 7 years (1, 23)       |
+| Number of prior treatment regimens , median (range)                                        | 8 (4, 18)             |
+| Age, median (range)                                                                        | 65 years (40, 86)     |
+| Patients < 65 years of age, n (%)                                                          | 40 (48)               |
+| Patients 65-74 years of age, n (%)                                                         | 31 (37)               |
+| Patients ≥ 75 years of age, n (%)                                                          | 12 (15)               |
+| Males : Females, n (%)                                                                     | 51 M (61) : 32 F (39) |
+| Refractory status to specific treatment combinations, n (%)                                |                       |
+| Penta refractory (BCLPD)                                                                   | 83 (100)              |
+| Daratumumab in any combination                                                             | 57 (69)               |
+| Daratumumab as single agent                                                                | 26 (31)               |
+| Previous stem cell transplant 1 , n (%) ≥2 transplants                                     | 67 (81) 23 (28)       |
+| Previous CAR-T Cell Therapy, n (%)                                                         | 2 (2.4)               |
+| Revised Integrated Staging System at baseline, n (%)                                       |                       |
+| I                                                                                          | 10 (12)               |
+| II                                                                                         | 56 (68)               |
+| III                                                                                        | 17 (21)               |
+| High-risk cytogenetics, n (%) (includes any of del(17p)/p53, t(14; 16), t(4; 14), or 1q21) | 47 (57)               |
+| ECOG performance status: 0 to 1, n (%)                                                     | 74 (89)               |
 
-The primary efficacy endpoint was overall response rate (ORR) as assessed by an Independent Review Committee based on the IMWG uniform response criteria for multiple myeloma. Responses were assessed monthly and as per IMWG guidelines. Table 8 provides an overview of the efficacy results.
+The primary efficacy endpoint was overall response rate (ORR) as assessed by an Independent Review Committee based on the IMWG uniform response criteria for multiple myeloma. Responses were assessed monthly and as per IMWG guidelines. Table 9 provides an overview of the efficacy results.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 8: Efficacy results: assessed by Independent Review Committee (STORM, patients with relapsed refractory multiple myeloma treated with twice weekly 80 mg selinexor and 20 mg dexamethasone)
+Table 9: Efficacy results: assessed by Independent Review Committee (STORM, patients with relapsed refractory multiple myeloma treated with twice weekly 80 mg selinexor and 20 mg dexamethasone)
 
 | Efficacy endpoint                                                  | NEXPOVIO 80 mg + dexamethasone 20 mg n=83   |
 |--------------------------------------------------------------------|---------------------------------------------|
 | Overall response rate (ORR) , n (%) (includes sCR + VGPR + PR) 1   | 21 (25.3)                                   |
 | 95% confidence interval                                            | 16.4, 36                                    |
-| sCR, MRDnegative, n (%)                                            | 1 (1.2)                                     |
+| sCR, MRD negative, n (%)                                           | 1 (1.2)                                     |
 | CR, n (%)                                                          | 0 (0)                                       |
 | VGPR, n (%)                                                        | 4 (4.8)                                     |
 | PR, n (%)                                                          | 16 (19.3)                                   |
@@ -660,7 +660,7 @@ Selinexor is 95.0% bound to human plasma proteins. In a population pharmacokinet
 
 ## Biotransformation
 
-Selinexor is metabolised by CYP3A4, multiple UDP-glucuronosyltransferases (UGTs) and glutathione S- transferases (GSTs).
+Selinexor is metabolised by CYP3A4, multiple UDP -glucuronosyltransferases (UGTs) and glutathione S- transferases (GSTs).
 
 ## Elimination
 
@@ -682,7 +682,11 @@ The degree of renal impairment was determined by creatinine clearance as estimat
 
 ## Hepatic impairment
 
-Population PK analysis indicated that mild hepatic impairment (bilirubin &gt;1-1.5 x ULN or AST&gt; ULN, but bilirubin ≤ ULN, n=119) had no clinically significant effect on the PK of selinexor. Similar finding was observed in a small number of patients with moderate (bilirubin &gt;1.5-3 x ULN; any AST, n=10) and severe hepatic impairment (bilirubin &gt;3 x ULN; any AST, n=3).
+Population PK analysis indicated that mild hepatic impairment (bilirubin &gt;1 -1.5 x ULN or AST&gt; ULN, but bilirubin ≤ ULN, n=119) had no clinically significant effect on the PK of selinexor. In a clinical study using NCI-ODWG criteria to classify the degree of hepatic impairment, no clinically relevant change in selinexor pharmacokinetics was seen in patients with moderate hepatic impairment (TB &gt;1.5 to 3 x ULN and any AST, n=7) .
+
+In patients with severe hepatic impairment (TB &gt; 3x ULN and any AST, n=6) up to a 32% higher dose normalized exposure was seen in comparison to patients with normal hepatic function.
+
+Hepatic impairment did not result in any clinically relevant changes in plasma protein binding of selinexor.
 
 ## 5.3 Preclinical safety data
 
@@ -700,13 +704,13 @@ Carcinogenicity studies have not been conducted with selinexor.
 
 ## Toxicity to Reproduction and Development
 
-Fertility studies in animals have not been conducted with selinexor. In repeat-dose oral toxicity studies, selinexor was administered for up to 13 weeks in rats and monkeys. Reduced sperm, spermatids, and germ cells in epididymides and testes were observed in rats, decreased ovarian follicles were also observed in rats, and single cell necrosis of testes was observed in monkeys. These findings were observed at systemic exposures approximately 0.11, 0.28, and 0.53 times, respectively, the exposure (AUClast) in humans at the recommended human dose of 80 mg. Developmental effects were seen with daily exposure in pregnant rats at systemic exposures below the exposure (AUClast) in humans at the recommended human dose of 80 mg.
+Fertility studies in animals have not been conducted with selinexor. In repeat-dose oral toxicity studies, selinexor was administered for up to 13 weeks in rats and monkeys. Reduced sperm, spermatids, and germ cells in epididymides and testes were observed in rats, decreased ovarian follicles were also observed in rats, and single cell necrosis of testes was observed in monkeys. These findings were observed at systemic exposures approximately 0.11, 0.28, and 0.53 times, respectively, the exposure (AUC last) in humans at the recommended human dose of 80 mg. Developmental effects were seen with daily exposure in pregnant rats at systemic exposures below the exposure (AUC last) in humans at the recommended human dose of 80 mg.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Other Toxicities
 
 A guinea pig sensitisation assay showed that selinexor at 25% induced a mild Grade II dermal contact hypersensitivity response at 24 and 48 hours.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -742,19 +746,17 @@ One outer carton contains four child resistant inner cartons, each with one blis
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Stemline Therapeutics B.V.
 
 Basisweg 10, 1043 AP Amsterdam Netherlands
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1537/005 EU/1/21/1537/001 EU/1/21/1537/002 EU/1/21/1537/003
-
-EU/1/21/1537/004
+EU/ 1/21/1537/005 EU/1/21/1537/001 EU/1/21/1537/002 EU/1/21/1537/003 EU/1/21/1537/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -765,8 +767,6 @@ Date of latest renewal: 13 May 2022
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the EMA https://www.ema.europa.eu.
-
-25
 
 <div style=\"page-break-after: always\"></div>
 
@@ -830,7 +830,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-NEXPOVIO 20 mg film-coated tablets selinexor
+NEXPOVIO 20 mg film-coated tablets
+
+selinexor
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -894,7 +896,9 @@ Basisweg 10, 1043 AP Amsterdam Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1537/005 8 film-coated tablets (4 packs of 2)
+EU/ 1/21/1537/005
+
+8 film-coated tablets (4 packs of 2)
 
 EU/1/21/1537/001 12 film-coated tablets (4 packs of 3)
 
@@ -920,8 +924,8 @@ NEXPOVIO
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -933,7 +937,9 @@ PC SN NN
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-NEXPOVIO 20 mg film-coated tablets selinexor
+NEXPOVIO 20 mg film-coated tablets
+
+selinexor
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -991,9 +997,9 @@ Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1537/005 Inner Pack of 2 tablets
+EU/ 1/21/1537/005 Inner Pack of 2 tablets
 
-EU/1/21/1537/001 Inner Pack of 3 tablets
+EU/1/21/1537/ 001 Inner Pack of 3 tablets
 
 EU/1/21/1537/002 Inner Pack of 4 tablets
 
@@ -1019,7 +1025,9 @@ BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-NEXPOVIO 20mg film-coated tablets selinexor
+NEXPOVIO 20mg film-coated tablets
+
+selinexor
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1165,9 +1173,7 @@ Always take this medicine exactly as your doctor or pharmacist has told you. Che
 - when used together with bortezomib and dexamethasone: 100 mg (5 tablets) once daily, on day 1 of each week, or as directed by your doctor.
 - when used with dexamethasone: 80 mg (4 tablets) once daily, on days 1 and 3 of each week, or as directed by your doctor.
 
-Your doctor may alter your dose if side effects occur.
-
-It is important to take this medicine exactly as your doctor has told you to avoid dosing errors.
+Your doctor may alter your dose if side effects occur or if you have severe liver problems. It is important to take this medicine exactly as your doctor has told you to avoid dosing errors.
 
 ## Method of use
 
@@ -1349,17 +1355,17 @@ Each outer carton contains four child-resistant inner packs. Each inner pack con
 
 Stemline Therapeutics B.V. Basisweg 10, 1043 AP Amsterdam Netherlands
 
-<div style=\"page-break-after: always\"></div>
-
 ## Manufacturer(s)
 
 Stemline Therapeutics B.V. Basisweg 10, 1043 AP Amsterdam Netherlands
 
 Berlin-Chemie AG Glienicker Weg 125 12489 Berlin Germany
 
+<div style=\"page-break-after: always\"></div>
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien; България;
+België/Belgique/Belgien; България;
 
 Česká republika; Danmark; Eesti;
 
@@ -1381,15 +1387,17 @@ Stemline Therapeutics B.V.
 
 Tel: +44 (0)800 047 8675
 
-EUmedinfo@menarinistemline.com
+medicalinformation@menarinistemline .com
 
 ## España
 
-Laboratorios Menarini, S.A.
+Menarini Stemline España, S.L.U.
 
 Tel: +34919490327
 
-EUmedinfo@menarinistemline.com
+medicalinformation@menarinistemline
+
+.com
 
 ## Italia
 
@@ -1397,15 +1405,7 @@ Menarini Stemline Italia S.r.l.
 
 Tel: +39 800776814
 
-EUmedinfo@menarinistemline.com
-
-## United Kingdom (Northern Ireland)
-
-Stemline Therapeutics B.V.
-
-Tel: +44 (0)800 047 8675
-
-EUmedinfo@menarinistemline.com
+medicalinformation@menarinistemline .com
 
 ## This leaflet was last revised in mm/yyyy.
 
@@ -1413,11 +1413,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Deutschland
 
-Stemline Therapeutics B.V.
-
-Tel: +49 (0)800 0008974
-
-EUmedinfo@menarinistemline.com
+Menarini Stemline Deutschland GmbH Tel: +49 (0)800 0008974 medicalinformation@menarinistemline. com
 
 ## France
 
@@ -1425,8 +1421,22 @@ Stemline Therapeutics B.V.
 
 Tél: +33 (0)800 991 014
 
-EUmedinfo@menarinistemline.com
+medicalinformation@menarinistemline.
+
+com
 
 ## Österreich
 
-Stemline Therapeutics B.V. Tel: +43 (0)800 297 649 EUmedinfo@menarinistemline.com
+Stemline Therapeutics B.V.
+
+Tel: +43 (0)800 297 649
+
+medicalinformation@menarinistemline.
+
+Stemline Therapeutics B.V.
+
+Tel: +43 (0)800 297 649
+
+medicalinformation@menarinistemline.
+
+com

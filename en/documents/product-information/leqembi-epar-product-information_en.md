@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-23 13:45:49
+document_datetime: 2026-08-05 12:14:10
 document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/leqembi-epar-product-information_en.pdf
 document_name: leqembi-epar-product-information_en.pdf
 version: success
-processing_time: 6.919572
-conversion_datetime: 2026-06-25 17:08:34.303478
+processing_time: 6.2776458
+conversion_datetime: 2026-08-07 14:27:23.751742
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -172,9 +172,9 @@ The presence of amyloid beta pathology must be confirmed via an appropriate test
 
 ARIA can occur spontaneously in patients with Alzheimer's disease. ARIA-H generally occurs in association with an occurrence of ARIA-E.
 
-ARIA usually occurs early in treatment and is usually asymptomatic, although serious and lifethreatening events, including seizure and status epilepticus, rarely can occur. When present, reported symptoms associated with ARIA may include headache, confusion, visual changes, dizziness, nausea, and gait difficulty. Focal neurologic deficits may also occur. In patients who experienced ARIA on placebo or with lecanemab, 1/3 experienced recurrent ARIA. Following an initial event of ARIA, the rate of recurrence on resumption of treatment with lecanemab is very common (see section 4.8). Symptoms associated with ARIA usually resolve over time (see section 4.8).
+ARIA usually occurs early in treatment and is usually asymptomatic, although serious and lifethreatening events, including seizure and status epilepticus, rarely can occur. When present, reported symptoms associated with ARIA may include headache, confusion, visual changes, dizziness, nausea, and gait difficulty. Focal neurologic deficits may also occur. In patients who experienced ARIA on placebo or with lecanemab, 1/3 experienced recurrent ARIA.  Following an initial event of ARIA, the rate of recurrence on resumption of treatment with lecanemab is very common (see section 4.8). Symptoms associated with ARIA usually resolve over time (see section 4.8).
 
-The risk of ARIA, including symptomatic and serious ARIA, is increased in apolipoprotein E ε4 (ApoE ε4) homozygote carriers (see section 4.8). In addition to ARIA, intracerebral haemorrhages greater than 1 cm in diameter have occurred in patients treated with lecanemab.
+The risk of ARIA, including symptomatic and serious ARIA, is increased in apolipoprotein E ε4 (ApoE ε4 ) homozygote carriers (see section 4.8).  In addition to ARIA, intracerebral haemorrhages greater than 1 cm in diameter have occurred in patients treated with lecanemab.
 
 Consider the benefit of lecanemab for the treatment of Alzheimer's disease and potential risk of serious adverse events associated with ARIA when deciding to initiate treatment with lecanemab (see section 4.8).
 
@@ -190,14 +190,16 @@ The radiographic severity of ARIA associated with lecanemab was classified by th
 
 Table 1: ARIA MRI Classification Criteria
 
-1 Radiographical severity is defined by the total number of new microhaemorrhages from baseline or total number of areas for superficial siderosis.
-
 | ARIA Type                    | Radiographic Severity 1                                                                            | Radiographic Severity 1                                                                                                 | Radiographic Severity 1                                                                                                                               |
 |------------------------------|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                              | Mild                                                                                               | Moderate                                                                                                                | Severe                                                                                                                                                |
 | ARIA-E                       | FLAIR hyperintensity confined to sulcus and/or cortex/subcortex white matter in one location <5 cm | FLAIR hyperintensity 5 to 10 cm in single greatest dimension, or more than 1 site of involvement, each measuring <10 cm | FLAIR hyperintensity >10 cm with associated gyral swelling and sulcal effacement. One or more separate/independent sites of involvement may be noted. |
 | ARIA-H microhaemorrhage      | ≤4 new incident microhaemorrhages                                                                  | 5 to 9 new incident microhaemorrhages                                                                                   | 10 or more new incident microhaemorrhages                                                                                                             |
 | ARIA-H superficial siderosis | 1 focal area of superficial siderosis                                                              | 2 focal areas of superficial siderosis                                                                                  | >2 areas of superficial siderosis                                                                                                                     |
+
+1
+
+Radiographical severity is defined by the total number of new microhaemorrhages from baseline or total number of areas for superficial siderosis.
 
 For patients with asymptomatic radiographic findings of ARIA-E, enhanced clinical vigilance for symptoms of ARIA is recommended (see section 4.8 for symptoms). Obtain additional MRIs after 1 to 2 months to assess for resolution, or sooner if symptoms present.
 
@@ -218,9 +220,11 @@ Baseline use of antithrombotic medicinal products (aspirin, other antiplatelets,
 Because intracerebral haemorrhages have been observed in patients taking both lecanemab and anticoagulants (see section 4.8), and in patients receiving thrombolytic agents during lecanemab treatment, additional caution should be exercised when considering the administration of anticoagulants or a thrombolytic agent (e.g. tissue plasminogen activator) to a patient already being treated with lecanemab:
 
 - If anticoagulation needs to be commenced during therapy with lecanemab (for example incident arterial thromboses, acute pulmonary embolism or other life threatening indications) then lecanemab should be paused. Lecanemab can be reinstated if anticoagulation is no longer medically indicated. The use of concomitant aspirin and other antiplatelet therapy is permitted.
-- There was only limited exposure to thrombolytic agents in the clinical trials however the risk of severe intracranial bleed resulting from concomitant use is plausible. Use of thrombolytic agents should be avoided except for immediately life-threatening indications with no alternative management (e.g., pulmonary embolism with haemodynamic compromise) when the benefits could outweigh the risks.
+- There was only limited exposure to thrombolytic agents in the clinical trials however the risk of severe intracranial bleed resulting from concomitant use is plausible. Use of thrombolytic agents should be avoided except for immediately life-threatening indications with no alternative
 
 <div style=\"page-break-after: always\"></div>
+
+management (e.g., pulmonary embolism with haemodynamic compromise) when the benefits could outweigh the risks.
 
 - Because ARIA-E can cause focal neurologic deficits that can mimic an ischemic stroke, treating clinicians should consider whether such symptoms could be due to ARIA-E before giving thrombolytic therapy to a patient being treated with lecanemab.
 
@@ -254,11 +258,11 @@ Dilution with sodium chloride (0.9% saline) is necessary before administration. 
 
 This medicine contains 0.5 mg of polysorbate 80 in each 1 mL of lecanemab. Polysorbates may cause allergic reactions. Patients with known allergies shall be taken into consideration.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No drug interaction studies have been conducted with lecanemab.
-
-<div style=\"page-break-after: always\"></div>
 
 Elimination of lecanemab is likely to occur through normal degradation pathways for immunoglobulins and the clearance should not be affected by small molecule concomitant medications. Therefore, it is not expected that lecanemab will cause or be susceptible to pharmacokinetic (PK) drug interactions with concomitantly administered agents.
 
@@ -296,9 +300,9 @@ Lecanemab has no or negligible influence on the ability to drive and use machine
 
 The safety of lecanemab has been evaluated in 2203 patients who received at least one dose of lecanemab.
 
-In the double-blind, placebo-controlled period of Study 301 in patients with mild cognitive impairment due to Alzheimer's disease or mild Alzheimer's disease dementia, a total of 898 patients received lecanemab at the recommended dose of 10 mg/kg every 2 weeks, of which 757 patients were noncarriers or heterozygotes (the indicated population).
-
 <div style=\"page-break-after: always\"></div>
+
+In the double-blind, placebo-controlled period of Study 301 in patients with mild cognitive impairment due to Alzheimer's disease or mild Alzheimer's disease dementia, a total of 898 patients received lecanemab at the recommended dose of 10 mg/kg every 2 weeks, of which 757 patients were noncarriers or heterozygotes (the indicated population).
 
 Of the patients treated with lecanemab 31% (278/898) were non-carriers, 53% (479/898) were heterozygotes and 16% (141/898) were homozygotes. With the exception of events of ARIA, the safety profile was the same across genotypes.
 
@@ -334,15 +338,12 @@ Table 2: Adverse reactions
 | Gastrointestinal disorders                           | Nausea                                 | Common               |
 | General disorders and administration site conditions | Infusion related reactions 10          | Very Common          |
 
-- 1 Includes angioedema, bronchospasm, anaphylaxis, rash and headache.
-- 2 Includes rash, headache, rhinorrhoea, rhinitis and hair loss.
+<div style=\"page-break-after: always\"></div>
+
 - 3 Occurred 24 hours after infusion.
 - 4 ARIA: Includes radiographic ARIA-E, symptomatic ARIA-E, radiographic ARIA-H and symptomatic ARIA-H.
 - 5 ARIA-H: Includes radiographic ARIA-H and symptomatic ARIA-H.
 - 6 ARIA-H: Amyloid related imaging abnormality-microhaemorrhage and haemosiderin deposit; Superficial siderosis of central nervous system, and Cerebellar microhaemorrhage.
-
-<div style=\"page-break-after: always\"></div>
-
 - 7 Includes common symptom of headache; uncommon symptoms of confusion, visual changes (diplopia, glare, vision blurred, visual acuity reduced, visual impairment), dizziness, nausea, gait difficulty and seizures.
 - 8 ARIA-E: Includes radiographic ARIA-E and symptomatic ARIA-E.
 - 9 ARIA-E is common in the indicated population and very common in the homozygote population.
@@ -370,9 +371,9 @@ ARIA-E was observed in 9% (67/757) of patients on lecanemab, of which 88% (59/67
 
 ARIA-H (with or without concurrent ARIA-E) was observed in 13% (98/757) of patients on lecanemab and 7% (52/764) of patients on placebo, of which 80% (78/98) and 77% (40/52) continued treatment with or without dose interruption, respectively. Among those that continued, 36% (28/78) of patients on lecanemab and 30% (23/40) of patients on placebo experienced a recurrence of ARIA-H.
 
-Isolated ARIA-H was observed in 8% (61/757) of patients on lecanemab and 6% (45/764) of patients on placebo, of which 97% (59/61) and 100% (45/45) continued treatment respectively with or without dose interruption. Among those that continued, 20% (12/59) of patients on lecanemab and 20% (10/45) of patients on placebo experienced a recurrence of ARIA-H.
-
 <div style=\"page-break-after: always\"></div>
+
+Isolated ARIA-H was observed in 8% (61/757) of patients on lecanemab and 6% (45/764) of patients on placebo, of which 97% (59/61) and 100% (45/45) continued treatment respectively with or without dose interruption. Among those that continued, 20% (12/59) of patients on lecanemab and 20% (10/45) of patients on placebo experienced a recurrence of ARIA-H.
 
 ## Intracerebral Haemorrhage in the Indicated Population
 
@@ -382,11 +383,11 @@ The incidence of intracerebral haemorrhage was 0.3% (1/286) of patients on lecan
 
 Approximately 15% of Alzheimer's disease patients are ApoE ε4 homozygote carriers. In Study 301, the incidence of ARIA was lower in non-carriers (13% lecanemab vs 4% placebo) and heterozygotes (19% lecanemab vs 9% placebo) than in homozygotes (45% lecanemab vs 22% placebo). Among patients on lecanemab, ARIA-E occurred in 5% of non-carriers and 11% of heterozygotes compared with 33% of homozygotes. Symptomatic ARIA-E occurred in 1% of non-carriers and 2% of heterozygotes compared with 9% of homozygotes. ARIA-H occurred in 12% of non-carriers and 14% of heterozygotes compared with 38% of homozygotes. Symptomatic ARIA-H occurred in 1% of noncarriers and heterozygotes compared with 4% of homozygotes. Serious events of ARIA occurred in approximately 1% of non-carriers and heterozygotes carriers and 3% of homozygotes.
 
-The recommendations on management of ARIA do not differ between ApoE ε4 carriers and noncarriers.
+The recommendations on management of ARIA do not differ between ApoE ε4 carriers and non -carriers.
 
 ## Infusion related reactions
 
-Infusion-related reactions were observed in Study 301 in 26% (237/898) patients treated with lecanemab and 75% (178/237) occurred with the first infusion. Infusion-related reactions were mostly mild (69%) or moderate (28%) in severity, severe infusion-related reactions were reported in less than 1% patients. Serious infusion-related reactions have also occurred. Infusion-related reactions resulted in discontinuations in 1% (12/898) patients on lecanemab. Symptoms of infusion-related reactions include fever and flu-like symptoms (chills, generalized aches, feeling shaky, and joint pain), nausea, vomiting, hypotension, hypertension and oxygen desaturation). Over 63% of patients who initially experienced infusion-related reactions had no further reactions with preventative medications (see section 4.4). The incidence of infusion-related reactions was similar regardless of ApoE ε4 genotype.
+Infusion-related reactions were observed in Study 301 in 26% (237/898) patients treated with lecanemab and 75% (178/237) occurred with the first infusion. Infusion-related reactions were mostly mild (69%) or moderate (28%) in severity, severe infusion-related reactions were reported in less than 1% patients. Serious infusion-related reactions have also occurred. Infusion-related reactions resulted in discontinuations in 1% (12/898) patients on lecanemab. Symptoms of infusion-related reactions include fever and flu-like symptoms (chills, generalized aches, feeling shaky, and joint pain), nausea, vomiting, hypotension, hypertension and oxygen desaturation). Over 63% of patients who initially experienced infusion-related reactions had no further reactions with preventative medications (see section 4.4). The incidence of infusionrelated reactions was similar regardless of ApoE ε4 genotype.
 
 ## Reporting of suspected adverse reactions
 
@@ -395,6 +396,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 ## 4.9 Overdose
 
 There is limited clinical experience with lecanemab overdose.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -406,8 +409,6 @@ Pharmacotherapeutic group: Psychoanaleptics, Other anti-dementia drugs, ATC code
 
 Lecanemab is an IgG1 monoclonal antibody directed against aggregated soluble and insoluble forms of amyloid beta and reduces amyloid beta plaques.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pharmacodynamic effects
 
 ## Effect of lecanemab on amyloid beta pathology
@@ -416,17 +417,17 @@ Lecanemab reduced amyloid beta plaque in a time-dependent manner compared with p
 
 ## Exposure-response relationships
 
-Exposure response analysis showed that observed amyloid PET SUVR decreased with the increase in lecanemab exposure. PK/PD analysis showed that changes in CSF Aβ1-42, plasma Aβ42/40 ratio and plasma p-tau181 correlated with the increase in exposure to lecanemab.
+Exposure response analysis showed that observed amyloid PET SUVR decreased with the increase in lecanemab exposure. PK/PD analysis showed that changes in CSF Aβ1 -42, plasma Aβ42/40 ratio and plasma p-tau181 correlated with the increase in exposure to lecanemab.
 
 ## Immunogenicity
 
-During the 18-month treatment period in Study 301, 3.4% (30/883) of patients treated with lecanemab 10 mg/kg every two weeks developed treatment-emergent anti-lecanemab antibodies, and 1.9% (17/885) developed neutralizing antibodies. The development of ADA had no impact on the pharmacokinetics, pharmacodynamics, efficacy, or safety of lecanemab.
+During the 18-month treatment period in Study 301, 3.4% (30/883) of patients treated with lecanemab 10 mg/kg every two weeks developed treatment-emergent anti-lecanemab antibodies, and 1.9% (17/885) developed neutralizing antibodies.  The development of ADA had no impact on the pharmacokinetics, pharmacodynamics, efficacy, or safety of lecanemab.
 
 ## Clinical efficacy and safety
 
 The efficacy of lecanemab was evaluated in a double-blind, placebo-controlled, parallel-group, randomized trial (Study 301) in patients with Early Alzheimer's disease (patients with confirmed presence of amyloid pathology and mild cognitive impairment [62% of patients] or mild dementia stage of disease [38% of patients]).
 
-Aβ pathology was determined by visual read using approved Aβ PET tracers according to the label and CSF by total tau (t-tau)/Aβ42 ratio with the validated cut-off &gt;0.54 (assay: Lumipulse® G PAmyloid 1-42).
+Aβ pathology was determined by visual read using approved Aβ PET tracers according to the label and CSF by total tau (ttau)/Aβ42 ratio with the validated cut-off &gt;0.54 (assay: Lumipulse® G PAmyloid 1-42).
 
 Patients were enrolled with the following criteria:
 
@@ -437,17 +438,15 @@ Patients were enrolled with the following criteria:
 
 Patients were excluded for evidence of history of transient ischemic attacks (TIA), stroke or seizures within 12 months of screening, cerebral contusion, infective lesions, multiple lacunar infarcts or stroke involving a major vascular territory, severe small vessel or white matter disease, bleeding disorders that are not under adequate control, immunologic disorders that were not adequately controlled (e.g., active vasculitis) or required therapy with immunoglobulins, systemic monoclonal antibodies, systemic immunosuppressants or plasmapheresis.
 
-The safety and efficacy of treatment in patients with moderate Alzheimer's disease, atypical Alzheimer's disease syndromes (without memory-predominant Alzheimer's disease), autosomal dominant Alzheimer's disease, or adults with Down syndrome is not established.
-
-In Study 301, 1795 patients were randomized to receive lecanemab 10 mg/kg every 2 weeks or placebo for 18 months, of which 1521 were in the indicated population. Of the total number of patients randomized, 31% were non-carriers, 53% were heterozygotes and 16% were homozygotes. At baseline, the median age of randomized patients was 72 years, with a range of 50 to 90 years. Fiftytwo percent of patients were women; 77% were Caucasian, 17% were Asian, and 3% were Black.
-
 <div style=\"page-break-after: always\"></div>
 
-Comorbidities included hyperlipidaemia (60%), hypertension (55%), obesity (17%), ischemic heart disease (16%) and diabetes (15%).
+The safety and efficacy of treatment in patients with moderate Alzheimer's disease, atypical Alzheimer's disease syndromes (without memory-predominant Alzheimer's disease), autosomal dominant Alzheimer's disease, or adults with Down syndrome is not established.
+
+In Study 301, 1795 patients were randomized to receive lecanemab 10 mg/kg every 2 weeks or placebo for 18 months, of which 1521 were in the indicated population. Of the total number of patients randomized, 31% were non-carriers, 53% were heterozygotes and 16% were homozygotes. At baseline, the median age of randomized patients was 72 years, with a range of 50 to 90 years. Fiftytwo percent of patients were women; 77% were Caucasian, 17% were Asian, and 3% were Black. Comorbidities included hyperlipidaemia (60%), hypertension (55%), obesity (17%), ischemic heart disease (16%) and diabetes (15%).
 
 The randomization was stratified according to clinical subgroup; the presence or absence of concomitant symptomatic medication for Alzheimer's disease at baseline; ApoE ε4 carrier status; and region.
 
-## Study 301 results
+## S tudy 301 results
 
 The primary efficacy outcome was change from baseline at 18 months in the CDR-SB. Key secondary endpoints included change from baseline after 18 months for the following measures: amyloid PET using Centiloids, ADAS-Cog14, Alzheimer's Disease Composite Score (ADCOMS), and Alzheimer's Disease Cooperative Study-Activities of Daily Living Scale for Mild Cognitive Impairment (ADCS MCI-ADL).
 
@@ -472,11 +471,11 @@ Table 3: Results for CDR-SB, ADAS-Cog14, and ADCS MCI-ADL in Study 301
 
 The European Medicines Agency has waived the obligation to submit the results of studies with lecanemab in all subsets of the paediatric population in early Alzheimer's disease (see section 4.2 for information on paediatric use).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.2 Pharmacokinetic properties
 
 The PK of lecanemab was characterized using a population PK analysis with concentration data collected from 1619 patients with Alzheimer's disease who received lecanemab in single or multiple doses. Steady state concentrations of lecanemab were reached after 6 weeks of 10 mg/kg every 2 weeks treatment and systemic accumulation was approximately 1.4-fold. The peak concentration (Cmax), and area under the plasma concentration versus time curve (AUC) of lecanemab increased dose proportionally in the dose range of 0.3 to 15 mg/kg following single dose.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Absorption
 
@@ -558,13 +557,13 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-Parenteral medicinal products should be inspected visually for particulate matter and discolouration prior to administration. In the event of either being observed, discard the medicinal product.
+Parenteral medicinal products should be inspected visually for particulate matter and discolouration prior to administration.  In the event of either being observed, discard the medicinal product.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Preparation of infusion solution
 
 Calculate the dose, the total volume of lecanemab solution required, and the number of vials needed based on the patient's actual body weight. Each vial contains a lecanemab concentration of 100 mg/mL.
-
-<div style=\"page-break-after: always\"></div>
 
 Withdraw the required volume of lecanemab from the vial(s) and add to 250 mL 0.9% sodium chloride solution for injection.
 
@@ -584,17 +583,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eisai GmbH Edmund-Rumpler-Straße 3 60549 Frankfurt am Main
+Eisai GmbH 60549 Frankfurt am Main
 
-Germany
-
-e-mail: medinfo\\_de@eisai.net
+Edmund-Rumpler-Straße 3 Germany e-mail: medinfo\\_de@eisai.net
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
-EU/1/24/1891/001
-
-EU/1/24/1891/002
+EU/1/24/1891/001 EU/1/24/1891/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -661,7 +656,7 @@ The MAH shall ensure that in each Member State prior to LEQEMBI being marketed, 
 The Guide for healthcare professionals should contain the following key elements:
 
 - Statement outlining there is a controlled access program.
-- Statement that all EU lecanemab patients must be registered in the registry and brief information on how to enrol patients.
+- Statement that physicians should encourage patients to participate in real world data collection (e.g., registries).
 - Contraindications.
 - Information on ARIA, including what it is, incidence and symptoms (ARIA-E and ARIA-H (microhaemorrhages and superficial siderosis).
 - ARIA Intracerebral haemorrhage &gt;1 cm in diameter including what it is, incidence, and use of concomitant antithrombotic medication.
@@ -688,11 +683,11 @@ The Patient Card should contain the following key elements:
 - A warning message for physicians treating the patient at any time, including in conditions of emergency, that the patient is using lecanemab.
 - Signs or symptoms of the safety concern and when to seek attention from a healthcare professional.
 
+<div style=\"page-break-after: always\"></div>
+
 ## · Controlled Access Program
 
 The MAH shall agree to the details of a Controlled Access Program with each National Competent Authority and must implement such programme nationally to ensure that a Controlled Access Programme (CAP) promotes the safe and effective use of lecanemab and prevents off-label use.
-
-<div style=\"page-break-after: always\"></div>
 
 The Controlled Access Program includes the following key principles that will be incorporated within each system in all Member States. These are:
 
@@ -703,9 +698,9 @@ The Controlled Access Program includes the following key principles that will be
 
 The MAH shall complete, within the stated timeframe, the below measures:
 
-| Description                    | Due date                                                                                                   |
-|--------------------------------|------------------------------------------------------------------------------------------------------------|
-| EU Lecanemab All-Patient Study | Draft protocol: January 2025 Final protocol: March 2025 Progress Reports: Annually starting September 2026 |
+| Description                | Due date                                                                 |
+|----------------------------|--------------------------------------------------------------------------|
+| EU Lecanemab Patient Study | Protocol submission: April 2025 Progress Reports: Annually starting 2027 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -840,7 +835,9 @@ Lot
 | 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
 |------|--------------------------------------------|
 
-200 mg/2 mL 500 mg/5 mL
+200 mg/2 mL
+
+500 mg/5 mL
 
 | 6.   | OTHER   |
 |------|---------|
@@ -849,9 +846,9 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## LEQEMBI 100 mg/mL concentrate for solution for infusion lecanemab
 
@@ -1332,9 +1329,9 @@ Aseptic technique should be used when preparing the LEQEMBI diluted solution for
 
 - -Check that the LEQEMBI liquid is clear to slightly opalescent and colourless to pale yellow.
 - -Withdraw the required volume of LEQEMBI from the vial(s) and add to 250 mL 0.9% sodium chloride solution for injection.
-- -Gently invert the infusion bag containing the LEQEMBI diluted solution to mix completely. Do not shake.
+- -Gently invert the infusion bag containing the LEQEMBI diluted solution to mix completely.  Do not shake.
 - -Infusion bags manufactured using polypropylene, polyvinyl chloride, co-extruded polyolefin/polyamide, or ethylene/propylene copolymer have been confirmed to be compatible for administration of lecanemab.
-- -After dilution, an immediate use is recommended. Chemical and physical in-use stability has been demonstrated for 24 hours at 25 °C. From a microbiological point of view, unless the method of dilution precludes the risks of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user.
+- -After dilution, an immediate use is recommended. Chemical and physical in-use stability has been demonstrated for 24 hours at 25 °C.  From a microbiological point of view, unless the method of dilution precludes the risks of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user.
 - -Prior to infusion, allow the LEQEMBI diluted solution to warm to room temperature.
 - -Any unused product or waste material should be disposed of in accordance with local requirements.
 

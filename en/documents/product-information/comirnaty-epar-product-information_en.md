@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-29 12:46:53
-document_pages: 299
+document_datetime: 2026-08-06 11:55:19
+document_pages: 381
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/comirnaty-epar-product-information_en.pdf
 document_name: comirnaty-epar-product-information_en.pdf
 version: success
-processing_time: 138.6893306
-conversion_datetime: 2026-06-01 17:15:54.089771
+processing_time: 111.3978908
+conversion_datetime: 2026-08-07 14:34:15.622961
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.1
-  docling: 2.96.1
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -538,7 +538,7 @@ Table 4. Geometric mean ratio and difference in percentages of participants with
 | SARS-CoV-2 neutralisation assay Omicron XBB.1.5 - NT50 (titre) a | n b                                                                          | GMT c (95% CI c )                                                            | n b                                                                                  | GMT c (95% CI c )                                                                    | GMR d (95%                                                                                                            | CI d )                                                                                                                |
 | Geometric mean 50% neutralising titre (GMT)                      | 470                                                                          | 6 620.0 (5 802.8, 7 552.3)                                                   | 53                                                                                   | 5 895.4 (4 671.2, 7 440.5)                                                           | 1.12 (0.86, 1.47) e                                                                                                   | 1.12 (0.86, 1.47) e                                                                                                   |
 | Seroresponse rate (%) for 50% neutralising titre                 | N f                                                                          | n g (%) (95% CI h )                                                          | N f                                                                                  | n g (%) (95% CI h )                                                                  | Difference % i                                                                                                        | (95% CI j )                                                                                                           |
-| Seroresponse rate (%) for 50% neutralising titre                 | 458                                                                          | 417 (91.0) (88.1, 93.5)                                                      | 53                                                                                   | 53 (100.0) (93.3, 100.0)                                                             | -8.95                                                                                                                 | ( - 11.92, - 2.12) k                                                                                                  |
+| Seroresponse rate (%) for 50% neutralising titre                 | 458                                                                          | 417 (91.0) (88.1, 93.5)                                                      | 53                                                                                   | 53 (100.0) (93.3, 100.0)                                                             | -8.95                                                                                                                 | (-11.92, -2.12) k                                                                                                     |
 
 Abbreviations: GMR = geometric mean ratio; GMT = geometric mean titre; LLOQ = lower limit of quantitation; NT50 = 50% neutralising titre; SARS-CoV-2 = severe acute respiratory syndrome coronavirus 2.
 
@@ -573,10 +573,10 @@ Table 5. Geometric mean ratio and difference in percentages of participants with
 
 |                                                                  | Study 6 SSE 5 to 11 years of age Comirnaty (Omicron XBB.1.5) 10 mcg   | Study 6 SSE 5 to 11 years of age Comirnaty (Omicron XBB.1.5) 10 mcg   | Study 13 SSA ≥12 years of age Comirnaty (Omicron XBB.1.5) 30 mcg   | Study 13 SSA ≥12 years of age Comirnaty (Omicron XBB.1.5) 30 mcg   | Study 6 SSE 5 to 11 years Comirnaty (Omicron XBB.1.5) 10 mcg / Study 13 SSA ≥12 years of age Comirnaty (Omicron XBB.1.5) 30 mcg   | Study 6 SSE 5 to 11 years Comirnaty (Omicron XBB.1.5) 10 mcg / Study 13 SSA ≥12 years of age Comirnaty (Omicron XBB.1.5) 30 mcg   |
 |------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| SARS-CoV-2 neutralisation assay Omicron XBB.1.5 - NT50 (titre) a | n b                                                                   | GMT c (95% CI c )                                                     | n b                                                                | GMT c (95% CI c )                                                  | GMR d (95%                                                                                                                        | CI d )                                                                                                                            |
+| SARS-CoV-2 neutralisation assay Omicron XBB.1.5 - NT50 (titre) a | n b                                                                   | GMT c (95% CI c )                                                     | n b                                                                | GMT c (95% CI c )                                                  | GMR d (95% CI d )                                                                                                                 | GMR d (95% CI d )                                                                                                                 |
 | Geometric mean 50% neutralising titre (GMT)                      | 285                                                                   | 5 930.5 (5 283.8, 6 656.4)                                            | 302                                                                | 4 006.4 (3 438.3, 4 668.4)                                         | 1.81 (1.51, 2.16) e                                                                                                               | 1.81 (1.51, 2.16) e                                                                                                               |
-| Seroresponse rate for 50% neutralising titre                     | N f                                                                   | n g (%) (95% CI h )                                                   | N f                                                                | n g (%) (95% CI h )                                                | Difference % i                                                                                                                    | (95% CI j )                                                                                                                       |
-| Seroresponse rate for 50% neutralising titre                     | 285                                                                   | 253 (88.8) (84.5, 92.2)                                               | 300                                                                | 231 (77.0) (71.8, 81.6)                                            | 8.97                                                                                                                              | (3.91, 14.02) k                                                                                                                   |
+| Seroresponse rate for 50% neutralising                           | N f                                                                   | n g (%) (95% CI h )                                                   | N f                                                                | n g (%) (95% CI h )                                                | Difference % i                                                                                                                    | (95% CI j )                                                                                                                       |
+| titre                                                            | 285                                                                   | 253 (88.8) (84.5, 92.2)                                               | 300                                                                | 231 (77.0) (71.8, 81.6)                                            | 8.97                                                                                                                              | (3.91, 14.02) k                                                                                                                   |
 
 Abbreviations: GMR = geometric mean ratio; GMT = geometric mean titre; LLOQ = lower limit of quantitation; NT50 = 50% neutralising titre; SARS-CoV-2 = severe acute respiratory syndrome coronavirus 2.
 
@@ -606,14 +606,14 @@ The vaccine immunogenicity results after a booster dose in participants 5 to 11 
 
 Table 6. Study 6 - Geometric mean ratio and Geometric mean titres - participants with or without evidence of infection - 5 to 11 years of age - evaluable immunogenicity population
 
-|                           |                  | Vaccine Group (as Assigned/Randomised)                                                | Vaccine Group (as Assigned/Randomised)                                                | Vaccine Group (as Assigned/Randomised)                   | Vaccine Group (as Assigned/Randomised)                   | Vaccine Group (as Assigned/Randomised)                          |
-|---------------------------|------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------|
-| SARS-CoV-2 neutralisation | Sampling time    | Study 6 Comirnaty (Original/Omicron BA.4/BA.5) 10 mcg Dose 4 and 1 Month After Dose 4 | Study 6 Comirnaty (Original/Omicron BA.4/BA.5) 10 mcg Dose 4 and 1 Month After Dose 4 | Study 3 Comirnaty 10 mcg Dose 3 and 1 Month After Dose 3 | Study 3 Comirnaty 10 mcg Dose 3 and 1 Month After Dose 3 | Study 6 Comirnaty (Original/Omicron BA.4/BA.5)/Comirnaty 10 mcg |
-| assay                     | point a          | n b                                                                                   | GMT c (95% CI c )                                                                     | n b                                                      | GMT c (95% CI c )                                        | GMR d (95% CI d )                                               |
-| Omicron BA.4-5 - e        | Pre- vaccination | 102                                                                                   | 488.3 (361.9, 658.8)                                                                  | 112                                                      | 248.3 (187.2, 329.5)                                     | -                                                               |
-| NT50 (titre)              | 1 month          | 102                                                                                   | 2 189.9 (1 742.8, 2 751.7)                                                            | 113                                                      | 1 393.6 (1 175.8, 1 651.7)                               | 1.12 (0.92, 1.37)                                               |
-| Reference strain - NT50 e | Pre- vaccination | 102                                                                                   | 2 904.0 (2 372.6, 3 554.5)                                                            | 113                                                      | 1 323.1 (1 055.7, 1 658.2)                               | -                                                               |
-| (titre)                   | 1 month          | 102                                                                                   | 8 245.9 (7 108.9, 9 564.9)                                                            | 113                                                      | 7 235.1 (6 331.5, 8 267.8)                               | -                                                               |
+|                                   |                  | Vaccine Group (as Assigned/Randomised)                                                | Vaccine Group (as Assigned/Randomised)                                                | Vaccine Group (as Assigned/Randomised)                   | Vaccine Group (as Assigned/Randomised)                   | Vaccine Group (as Assigned/Randomised)                          |
+|-----------------------------------|------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------|
+| SARS-CoV-2                        | Sampling         | Study 6 Comirnaty (Original/Omicron BA.4/BA.5) 10 mcg Dose 4 and 1 Month After Dose 4 | Study 6 Comirnaty (Original/Omicron BA.4/BA.5) 10 mcg Dose 4 and 1 Month After Dose 4 | Study 3 Comirnaty 10 mcg Dose 3 and 1 Month After Dose 3 | Study 3 Comirnaty 10 mcg Dose 3 and 1 Month After Dose 3 | Study 6 Comirnaty (Original/Omicron BA.4/BA.5)/Comirnaty 10 mcg |
+| neutralisation assay              | time point a     | n b                                                                                   | GMT c (95% CI c )                                                                     | n b                                                      | GMT c (95% CI c )                                        | GMR d (95% CI d )                                               |
+| Omicron BA.4-5 - NT50 e           | Pre- vaccination | 102                                                                                   | 488.3 (361.9, 658.8)                                                                  | 112                                                      | 248.3 (187.2, 329.5)                                     | -                                                               |
+| (titre)                           | 1 month          | 102                                                                                   | 2 189.9 (1 742.8, 2 751.7)                                                            | 113                                                      | 1 393.6 (1 175.8, 1 651.7)                               | 1.12 (0.92, 1.37)                                               |
+| Reference strain - NT50 (titre) e | Pre- vaccination | 102                                                                                   | 2 904.0 (2 372.6, 3 554.5)                                                            | 113                                                      | 1 323.1 (1 055.7, 1 658.2)                               | -                                                               |
+| Reference strain - NT50 (titre) e | 1 month          | 102                                                                                   | 8 245.9 (7 108.9, 9 564.9)                                                            | 113                                                      | 7 235.1 (6 331.5, 8 267.8)                               | -                                                               |
 
 Abbreviations: CI = confidence interval; GMR = geometric mean ratio; GMT = geometric mean titre; LLOQ = lower limit of quantitation; LS = least square; N-binding = SARS-CoV-2 nucleoprotein-binding;
 
@@ -639,13 +639,14 @@ Table 7. Geometric mean ratio and difference in percentages of participants with
 |------------------------------------------------------------------|-----------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 |                                                                  |                       | Vaccine-naïve Comirnaty Omicron XBB.1.5 30 mcg | Vaccine-naïve Comirnaty Omicron XBB.1.5 30 mcg | Vaccine-experienced Comirnaty Omicron XBB.1.5 30 mcg | Vaccine-experienced Comirnaty Omicron XBB.1.5 30 mcg | Vaccine-naïve Comirnaty Omicron XBB.1.5 30 mcg / Vaccine-experienced Comirnaty Omicron XBB.1.5 30 mcg | Vaccine-naïve Comirnaty Omicron XBB.1.5 30 mcg / Vaccine-experienced Comirnaty Omicron XBB.1.5 30 mcg |
 | SARS-CoV-2 neutralisation assay Omicron XBB.1.5 - NT50 (titre) e | Sampling time point a | n b                                            | GMT c (95% CI c )                              | n b                                                  | GMT c (95% CI c )                                    | GMR d (95% CI d )                                                                                     | GMR d (95% CI d )                                                                                     |
-| Geometric mean 50% neutralising titre (GMT)                      | 1 month               | 299                                            | 4 373.4 (3 757.1, 5 090.9)                     | 296                                                  | 2 915.7 (2 462.4, 3 452.5)                           | 1.93 (1.52,                                                                                           | 2.44) f                                                                                               |
+| Geometric mean 50% neutralising titre (GMT)                      | 1 month               | 299                                            | 4 373.4 (3 757.1, 5 090.9)                     | 296                                                  | 2 915.7 (2 462.4, 3 452.5)                           | 1.93 (1.52, 2.44) f                                                                                   | 1.93 (1.52, 2.44) f                                                                                   |
 | Geometric mean 50% neutralising titre (GMT)                      | Sampling time point a | N g                                            | n h (%) (95% CI i )                            | N g                                                  | n h (%) (95% CI i )                                  | Difference % j                                                                                        | (95% CI k )                                                                                           |
 | Seroresponse rate (%) for 50% neutralising titr e                | 1 month               | 298                                            | 253 (84.9) (80.3, 88.8)                        | 295                                                  | 218 (73.9) (68.5, 78.8)                              | 7.31                                                                                                  | (1.34, 13.28) l                                                                                       |
 
 Abbreviations: CI = confidence interval; GMR = geometric mean ratio; GMT = geometric mean titre; LLOQ = lower limit of quantitation; NT50 = 50% neutralizing titre; SARS-CoV-2 = severe acute respiratory syndrome coronavirus 2.
 
-- a. Protocol-specified timing for blood sample collection.
+a. Protocol-specified timing for blood sample collection.
+
 - b. n = Number of participants with valid and determinate assay results for the specified assay at both the pre -vaccination time point and the given sampling time point.
 - c. GMTs and 2-sided 95% CIs were calculated by exponentiating the mean logarithm of the titres and the corresponding CIs (based on the Student t distribution). Assay results below the LLOQ were set to 0.5 × LLOQ.
 - d. GMRs and the corresponding 2-sided 95% CIs were calculated by exponentiating the difference in least square means and the corresponding CIs based on a linear regression model with baseline assay results (log scale), age, and vaccine group as covariates.
@@ -749,7 +750,7 @@ Table 10. Vaccine efficacy - First COVID-19 occurrence from 7 days after Dose 2,
 
 | First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior SARS-CoV-2 infection*   |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Subgroup                                                                                                             | COVID-19mRNA Vaccine N a = 18 198 Cases n1 b Surveillancetime c (n2 d )                                              | Placebo N a = 18 325 Cases n1 b Surveillancetime c (n2 d )                                                           | Vaccine efficacy% (95% CI) e                                                                                         |
+| Subgroup                                                                                                             | COVID-19 mRNA Vaccine N a = 18 198 Cases n1 b Surveillance time c (n2 d )                                            | Placebo N a = 18 325 Cases n1 b Surveillance time c (n2 d )                                                          | Vaccine efficacy % (95% CI) e                                                                                        |
 | All participants                                                                                                     | 8 2.214 (17 411)                                                                                                     | 162 2.222 (17 511)                                                                                                   | 95.0 (90.0, 97.9)                                                                                                    |
 | 16 to 64 years                                                                                                       | 7 1.706 (13 549)                                                                                                     | 143 1.710 (13 618)                                                                                                   | 95.1 (89.6, 98.1)                                                                                                    |
 | 65 years and older                                                                                                   | 1 0.508 (3 848)                                                                                                      | 19 0.511 (3 880)                                                                                                     | 94.7 (66.7, 99.9)                                                                                                    |
@@ -778,13 +779,13 @@ The updated vaccine efficacy information is presented in Table 11.
 
 Table 11. Vaccine efficacy - First COVID-19 occurrence from 7 days after Dose 2, by age subgroup - participants without evidence of prior SARS-CoV-2 infection* prior to 7 days after Dose 2 - evaluable efficacy (7 days) population during the placebo-controlled follow-up period
 
-| Subgroup           | COVID-19mRNA Vaccine N a =20 998 Cases n1 b Surveillancetime c (n2 d )   | Placebo N a =21 096 Cases n1 b Surveillancetime c (n2 d )   | Vaccine efficacy% (95% CI e )   |
-|--------------------|--------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------|
-| All participants f | 77 6.247 (20 712)                                                        | 850 6.003 (20 713)                                          | 91.3 (89.0, 93.2)               |
-| 16 to 64 years     | 70 4.859 (15 519)                                                        | 710 4.654 (15 515)                                          | 90.6 (87.9, 92.7)               |
-| 65 years and older | 7 1.233 (4 192)                                                          | 124 1.202 (4 226)                                           | 94.5 (88.3, 97.8)               |
-| 65 to 74 years     | 6 0.994 (3 350)                                                          | 98 0.966 (3 379)                                            | 94.1 (86.6, 97.9)               |
-| 75 years and older | 1 0.239 (842)                                                            | 26 0.237 (847)                                              | 96.2 (76.9, 99.9)               |
+| Subgroup           | COVID-19 mRNA Vaccine N a =20 998 Cases n1 b Surveillance time c (n2 d )   | Placebo N a =21 096 Cases n1 b Surveillance time c (n2 d )   | Vaccine efficacy % (95% CI e )   |
+|--------------------|----------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|
+| All participants f | 77 6.247 (20 712)                                                          | 850 6.003 (20 713)                                           | 91.3 (89.0, 93.2)                |
+| 16 to 64 years     | 70 4.859 (15 519)                                                          | 710 4.654 (15 515)                                           | 90.6 (87.9, 92.7)                |
+| 65 years and older | 7 1.233 (4 192)                                                            | 124 1.202 (4 226)                                            | 94.5 (88.3, 97.8)                |
+| 65 to 74 years     | 6 0.994 (3 350)                                                            | 98 0.966 (3 379)                                             | 94.1 (86.6, 97.9)                |
+| 75 years and older | 1 0.239 (842)                                                              | 26 0.237 (847)                                               | 96.2 (76.9, 99.9)                |
 
 Note: Confirmed cases were determined by Reverse Transcription-Polymerase Chain Reaction (RT-PCR) and at least 1 symptom consistent with COVID-19 (symptoms included: fever; new or increased cough; new or increased shortness of breath; chills; new or increased muscle pain; new loss of taste or smell; sore throat; diarrhoea; vomiting).
 
@@ -810,10 +811,10 @@ As of 13 March 2021, vaccine efficacy against severe COVID-19 is presented only 
 
 Table 12. Vaccine efficacy - First severe COVID-19 occurrence in participants with or without prior SARS-CoV-2 infection based on the Food and Drug Administration (FDA)* after Dose 1 or from 7 days after Dose 2 in the placebo-controlled follow-up
 
-|                       | COVID-19mRNA Vaccine Cases n1 a Surveillancetime (n2 b )   | Placebo Cases n1 a Surveillancetime (n2 b )   | Vaccine efficacy% (95% CI c )   |
-|-----------------------|------------------------------------------------------------|-----------------------------------------------|---------------------------------|
-| After Dose 1 d        | 1 8.439 e (22 505)                                         | 30 8.288 e (22 435)                           | 96.7 (80.3, 99.9)               |
-| 7 days after Dose 2 f | 1 6.522 g (21 649)                                         | 21 6.404 g (21 730)                           | 95.3 (70.9, 99.9)               |
+|                       | COVID-19 mRNA Vaccine Cases n1 a Surveillance time (n2 b )   | Placebo Cases n1 a Surveillance time (n2 b )   | Vaccine efficacy % (95% CI c )   |
+|-----------------------|--------------------------------------------------------------|------------------------------------------------|----------------------------------|
+| After Dose 1 d        | 1 8.439 e (22 505)                                           | 30 8.288 e (22 435)                            | 96.7 (80.3, 99.9)                |
+| 7 days after Dose 2 f | 1 6.522 g (21 649)                                           | 21 6.404 g (21 730)                            | 95.3 (70.9, 99.9)                |
 
 Note: Confirmed cases were determined by Reverse Transcription-Polymerase Chain Reaction (RT-PCR) and at least 1 symptom consistent with COVID-19 (symptoms included: fever; new or increased cough; new or increased shortness of breath; chills; new or increased muscle pain; new loss of taste or smell; sore throat; diarrhoea; vomiting).
 
@@ -860,7 +861,7 @@ Table 13. Vaccine efficacy - First COVID-19 occurrence from 7 days after Dose 2:
 
 | First COVID-19 occurrence from 7 days after Dose 2 in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection*   |
 |---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                       | COVID-19mRNA Vaccine 10 mcg/dose N a =1 305 Cases n1 b Surveillancetime c (n2 d )                                                     | Placebo N a =663 Cases n1 b Surveillancetime c (n2 d )                                                                                | Vaccine efficacy % (95% CI)                                                                                                           |
+|                                                                                                                                       | COVID-19 mRNA Vaccine 10 mcg/dose N a =1 305 Cases n1 b Surveillance time c (n2 d )                                                   | Placebo N a =663 Cases n1 b Surveillance time c (n2 d )                                                                               | Vaccine efficacy % (95% CI)                                                                                                           |
 | Children 5 to 11 years of age                                                                                                         | 3 0.322 (1 273)                                                                                                                       | 16 0.159 (637)                                                                                                                        | 90.7 (67.7, 98.3)                                                                                                                     |
 
 Note: Confirmed cases were determined by Reverse Transcription-Polymerase Chain Reaction (RT-PCR) and at least 1 symptom consistent with COVID-19 (symptoms included: fever; new or increased cough; new or increased shortness of breath; chills; new or increased muscle pain; new loss of taste or smell; sore throat; diarrhoea; vomiting).
@@ -883,7 +884,7 @@ The GMR of the SARS-CoV-2 NT50 1 month after Dose 2 in children 5 to 11 years of
 
 Table 14. Summary of geometric mean ratio for 50% neutralising titre and difference in percentages of participants with seroresponse - comparison of children 5 to 11 years of age (Study 3) to participants 16 to 25 years of age (Study 2) - participants without evidence of infection up to 1 month after Dose 2 - immunobridging subset Phase 2/3 - evaluable immunogenicity population
 
-|                                                    |                      | COVID-19 mRNAVaccine               | COVID-19 mRNAVaccine                |                               |                                      |
+|                                                    |                      | COVID-19 mRNA Vaccine              | COVID-19 mRNA Vaccine               |                               |                                      |
 |----------------------------------------------------|----------------------|------------------------------------|-------------------------------------|-------------------------------|--------------------------------------|
 |                                                    |                      | 10 mcg/dose 5 to 11 years N a =264 | 30 mcg/dose 16 to 25 years N a =253 | 5 to 11 years/ 16 to 25 years | 5 to 11 years/ 16 to 25 years        |
 |                                                    | Time point b         | GMT c (95% CI c )                  | GMT c (95% CI c )                   | GMR d (95% CI d )             | Met immunobridging objective e (Y/N) |
@@ -919,7 +920,7 @@ Table 15. Vaccine efficacy - First COVID-19 occurrence from 7 days after booster
 
 | First COVID-19 occurrence from 7 days after booster dose in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after booster dose in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after booster dose in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after booster dose in participants without evidence of prior SARS-CoV-2 infection*   |
 |----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                            | Comirnaty N a =4 695 Cases n1 b SurveillanceTime c (n2 d )                                                                 | Placebo N a =4 671 Cases n1 b SurveillanceTime c (n2 d )                                                                   | Relative Vaccine Efficacy e % (95% CI f )                                                                                  |
+|                                                                                                                            | Comirnaty N a =4 695 Cases n1 b Surveillance Time c (n2 d )                                                                | Placebo N a =4 671 Cases n1 b Surveillance Time c (n2 d )                                                                  | Relative Vaccine Efficacy e % (95% CI f )                                                                                  |
 | First COVID-19 occurrence from 7 days after booster                                                                        | 6                                                                                                                          | 123                                                                                                                        | 95.3                                                                                                                       |
 | vaccination                                                                                                                | 0.823 (4 659)                                                                                                              | 0.792 (4 614)                                                                                                              | (89.5, 98.3)                                                                                                               |
 
@@ -966,7 +967,7 @@ Table 17. Vaccine efficacy - first COVID-19 occurrence from 7 days after Dose 3 
 
 | First COVID-19 occurrence from 7 days after Dose 3 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 3 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 3 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 3 in participants without evidence of prior SARS-CoV-2 infection*   |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Subgroup                                                                                                             | COVID-19mRNA Vaccine 3 mcg/dose N a =873 Cases n1 b Surveillancetime c (n2 d )                                       | Placebo N a =381 Cases n1 b Surveillance time c (n2 d )                                                              | Vaccine efficacy% (95% CI e )                                                                                        |
+| Subgroup                                                                                                             | COVID-19 mRNA Vaccine 3 mcg/dose N a =873 Cases n1 b Surveillance time c (n2 d )                                     | Placebo N a =381 Cases n1 b Surveillance time c (n2 d )                                                              | Vaccine efficacy % (95% CI e )                                                                                       |
 | 6 months to 4 years e                                                                                                | 13 0.124 (794)                                                                                                       | 21 0.054 (351)                                                                                                       | 73.2 (43.8, 87.6)                                                                                                    |
 | 2 to 4 years                                                                                                         | 9 0.081 (498)                                                                                                        | 13 0.033 (204)                                                                                                       | 71.8 (28.6, 89.4)                                                                                                    |
 | 6 months to 23 months                                                                                                | 4 0.042 (296)                                                                                                        | 8 0.020 (147)                                                                                                        | 75.8 (9.7, 94.7)                                                                                                     |
@@ -1004,7 +1005,7 @@ Table 18. SARS-CoV-2 GMTs (NT50) and difference in percentages of participants w
 | 6 to 23 months                                                                                  | 82                                                                                              | 1 406.5 (1 211.3, 1 633.1)                                                                      | 16 to 25 years of age                                                                           | 170                                                                                             | 1 180.0 (1 066.6, 1 305.4)                                                                      | 6 to 23 months years/16 to 25 years of age                                                      | 1.19 (1.00, 1.42)                                                                               |
 | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course |
 | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                |
-| Age                                                                                             | N a                                                                                             | n f (%) (95% CI g ) (1 month after Dose 3)                                                      | Age                                                                                             | N a                                                                                             | n f (%) (95% CI g ) (1 month after Dose 2)                                                      | Age                                                                                             | Difference in seroresponse rates% h (95% CI i ) j                                               |
+| Age                                                                                             | N a                                                                                             | n f (%) (95% CI g ) (1 month after Dose 3)                                                      | Age                                                                                             | N a                                                                                             | n f (%) (95% CI g ) (1 month after Dose 2)                                                      | Age                                                                                             | Difference in seroresponse rates % h (95% CI i ) j                                              |
 | 2 to 4 years                                                                                    | 141                                                                                             | 141 (100.0) (97.4, 100.0)                                                                       | 16 to 25 years of age                                                                           | 170                                                                                             | 168 (98.8) (95.8, 99.9)                                                                         | 2 to 4 years/16 to 25 years of age                                                              | 1.2 (1.5, 4.2)                                                                                  |
 | 6 to 23 months                                                                                  | 80                                                                                              | 80 (100.0) (95.5, 100.0)                                                                        | 16 to 25 years of age                                                                           | 170                                                                                             | 168 (98.8) (95.8, 99.9)                                                                         | 6 to 23 months years/16 to 25 years of age                                                      | 1.2 (3.4, 4.2)                                                                                  |
 
@@ -1779,10 +1780,10 @@ Table 5. Geometric mean ratio and difference in percentages of participants with
 
 |                                                                  | Study 6 SSE 5 to 11 years of age Comirnaty (Omicron XBB.1.5) 10 mcg   | Study 6 SSE 5 to 11 years of age Comirnaty (Omicron XBB.1.5) 10 mcg   | Study 13 SSA ≥12 years of age Comirnaty (Omicron XBB.1.5) 30 mcg   | Study 13 SSA ≥12 years of age Comirnaty (Omicron XBB.1.5) 30 mcg   | Study 6 SSE 5 to 11 years Comirnaty (Omicron XBB.1.5) 10 mcg / Study 13 SSA ≥12 years of age Comirnaty (Omicron XBB.1.5) 30 mcg   | Study 6 SSE 5 to 11 years Comirnaty (Omicron XBB.1.5) 10 mcg / Study 13 SSA ≥12 years of age Comirnaty (Omicron XBB.1.5) 30 mcg   |
 |------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| SARS-CoV-2 neutralisation assay Omicron XBB.1.5 - NT50 (titre) a | n b                                                                   | GMT c (95% CI c )                                                     | n b                                                                | GMT c (95% CI c )                                                  | GMR d (95%                                                                                                                        | CI d )                                                                                                                            |
+| SARS-CoV-2 neutralisation assay Omicron XBB.1.5 - NT50 (titre) a | n b                                                                   | GMT c (95% CI c )                                                     | n b                                                                | GMT c (95% CI c )                                                  | GMR d (95% CI d )                                                                                                                 | GMR d (95% CI d )                                                                                                                 |
 | Geometric mean 50% neutralising titre (GMT)                      | 285                                                                   | 5 930.5 (5 283.8, 6 656.4)                                            | 302                                                                | 4 006.4 (3 438.3, 4 668.4)                                         | 1.81 (1.51, 2.16) e                                                                                                               | 1.81 (1.51, 2.16) e                                                                                                               |
-| Seroresponse rate for 50% neutralising titre                     | N f                                                                   | n g (%) (95% CI h )                                                   | N f                                                                | n g (%) (95% CI h )                                                | Difference % i                                                                                                                    | (95% CI j )                                                                                                                       |
-| Seroresponse rate for 50% neutralising titre                     | 285                                                                   | 253 (88.8) (84.5, 92.2)                                               | 300                                                                | 231 (77.0) (71.8, 81.6)                                            | 8.97                                                                                                                              | (3.91, 14.02) k                                                                                                                   |
+| Seroresponse rate for 50% neutralising                           | N f                                                                   | n g (%) (95% CI h )                                                   | N f                                                                | n g (%) (95% CI h )                                                | Difference % i                                                                                                                    | (95% CI j )                                                                                                                       |
+| titre                                                            | 285                                                                   | 253 (88.8) (84.5, 92.2)                                               | 300                                                                | 231 (77.0) (71.8, 81.6)                                            | 8.97                                                                                                                              | (3.91, 14.02) k                                                                                                                   |
 
 Abbreviations: GMR = geometric mean ratio; GMT = geometric mean titre; LLOQ = lower limit of quantitation; NT50 = 50% neutralising titre; SARS-CoV-2 = severe acute respiratory syndrome coronavirus 2.
 
@@ -1849,7 +1850,7 @@ Table 7. Geometric mean ratio and difference in percentages of participants with
 |------------------------------------------------------------------|-----------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 |                                                                  |                       | Vaccine-naïve Comirnaty Omicron XBB.1.5 30 mcg | Vaccine-naïve Comirnaty Omicron XBB.1.5 30 mcg | Vaccine-experienced Comirnaty Omicron XBB.1.5 30 mcg | Vaccine-experienced Comirnaty Omicron XBB.1.5 30 mcg | Vaccine-naïve Comirnaty Omicron XBB.1.5 30 mcg / Vaccine-experienced Comirnaty Omicron XBB.1.5 30 mcg | Vaccine-naïve Comirnaty Omicron XBB.1.5 30 mcg / Vaccine-experienced Comirnaty Omicron XBB.1.5 30 mcg |
 | SARS-CoV-2 neutralisation assay Omicron XBB.1.5 - NT50 (titre) e | Sampling time point a | n b                                            | GMT c (95% CI c )                              | n b                                                  | GMT c (95% CI c )                                    | GMR d (95% CI d )                                                                                     | GMR d (95% CI d )                                                                                     |
-| Geometric mean 50% neutralising titre (GMT)                      | 1 month               | 299                                            | 4 373.4 (3 757.1, 5 090.9)                     | 296                                                  | 2 915.7 (2 462.4, 3 452.5)                           | 1.93 (1.52, f                                                                                         | 2.44)                                                                                                 |
+| Geometric mean 50% neutralising titre (GMT)                      | 1 month               | 299                                            | 4 373.4 (3 757.1, 5 090.9)                     | 296                                                  | 2 915.7 (2 462.4, 3 452.5)                           | 1.93 (1.52, 2.44) f                                                                                   | 1.93 (1.52, 2.44) f                                                                                   |
 | Geometric mean 50% neutralising titre (GMT)                      | Sampling time point a | N g                                            | n h (%) (95% CI i )                            | N g                                                  | n h (%) (95% CI i )                                  | Difference % j                                                                                        | (95% CI k )                                                                                           |
 | Seroresponse rate (%) for 50% neutralising titr e                | 1 month               | 298                                            | 253 (84.9) (80.3, 88.8)                        | 295                                                  | 218 (73.9) (68.5, 78.8)                              | 7.31                                                                                                  | (1.34, 13.28) l                                                                                       |
 
@@ -1959,7 +1960,7 @@ Table 10. Vaccine efficacy - First COVID-19 occurrence from 7 days after Dose 2,
 
 | First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior SARS-CoV-2 infection*   |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Subgroup                                                                                                             | COVID-19mRNA Vaccine N a = 18 198 Cases n1 b Surveillancetime c (n2 d )                                              | Placebo N a = 18 325 Cases n1 b Surveillancetime c (n2 d )                                                           | Vaccine efficacy% (95% CI) e                                                                                         |
+| Subgroup                                                                                                             | COVID-19 mRNA Vaccine N a = 18 198 Cases n1 b Surveillance time c (n2 d )                                            | Placebo N a = 18 325 Cases n1 b Surveillance time c (n2 d )                                                          | Vaccine efficacy % (95% CI) e                                                                                        |
 | All participants                                                                                                     | 8 2.214 (17 411)                                                                                                     | 162 2.222 (17 511)                                                                                                   | 95.0 (90.0, 97.9)                                                                                                    |
 | 16 to 64 years                                                                                                       | 7 1.706 (13 549)                                                                                                     | 143 1.710 (13 618)                                                                                                   | 95.1 (89.6, 98.1)                                                                                                    |
 | 65 years and older                                                                                                   | 1 0.508 (3 848)                                                                                                      | 19 0.511 (3 880)                                                                                                     | 94.7 (66.7, 99.9)                                                                                                    |
@@ -1987,13 +1988,13 @@ The updated vaccine efficacy information is presented in Table 11.
 
 Table 11.  Vaccine efficacy - First COVID-19 occurrence from 7 days after Dose 2, by age subgroup - participants without evidence of prior SARS-CoV-2 infection* prior to 7 days after Dose 2 - evaluable efficacy (7 days) population during the placebo-controlled follow-up period
 
-| Subgroup           | COVID-19mRNA Vaccine N a =20 998 Cases n1 b Surveillance time c (n2 d )   | Placebo N a =21 096 Cases n1 b Surveillancetime c (n2 d )   | Vaccine efficacy % (95% CI e )   |
-|--------------------|---------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------|
-| All participants f | 77 6.247 (20 712)                                                         | 850 6.003 (20 713)                                          | 91.3 (89.0, 93.2)                |
-| 16 to 64 years     | 70 4.859 (15 519)                                                         | 710 4.654 (15 515)                                          | 90.6 (87.9, 92.7)                |
-| 65 years and older | 7 1.233 (4 192)                                                           | 124 1.202 (4 226)                                           | 94.5 (88.3, 97.8)                |
-| 65 to 74 years     | 6 0.994 (3 350)                                                           | 98 0.966 (3 379)                                            | 94.1 (86.6, 97.9)                |
-| 75 years and older | 1 0.239 (842)                                                             | 26 0.237 (847)                                              | 96.2 (76.9, 99.9)                |
+| Subgroup           | COVID-19 mRNA Vaccine N a =20 998 Cases n1 b Surveillance time c (n2 d )   | Placebo N a =21 096 Cases n1 b Surveillance time c (n2 d )   | Vaccine efficacy % (95% CI e )   |
+|--------------------|----------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|
+| All participants f | 77 6.247 (20 712)                                                          | 850 6.003 (20 713)                                           | 91.3 (89.0, 93.2)                |
+| 16 to 64 years     | 70 4.859 (15 519)                                                          | 710 4.654 (15 515)                                           | 90.6 (87.9, 92.7)                |
+| 65 years and older | 7 1.233 (4 192)                                                            | 124 1.202 (4 226)                                            | 94.5 (88.3, 97.8)                |
+| 65 to 74 years     | 6 0.994 (3 350)                                                            | 98 0.966 (3 379)                                             | 94.1 (86.6, 97.9)                |
+| 75 years and older | 1 0.239 (842)                                                              | 26 0.237 (847)                                               | 96.2 (76.9, 99.9)                |
 
 Note: Confirmed cases were determined by Reverse Transcription-Polymerase Chain Reaction (RT-PCR) and at least 1 symptom consistent with COVID-19 (symptoms included: fever; new or increased cough; new or increased shortness of breath; chills; new or increased muscle pain; new loss of taste or smell; sore throat; diarrhoea; vomiting).
 
@@ -2020,10 +2021,10 @@ As of 13 March 2021, vaccine efficacy against severe COVID-19 is presented only 
 
 Table 12.  Vaccine efficacy - First severe COVID-19 occurrence in participants with or without prior SARS-CoV-2 infection based on the Food and Drug Administration (FDA)* after Dose 1 or from 7 days after Dose 2 in the placebo-controlled follow-up
 
-|                       | COVID-19mRNA Vaccine Cases n1 a Surveillancetime (n2 b )   | Placebo Cases n1 a Surveillancetime (n2 b )   | Vaccine efficacy% (95% CI c )   |
-|-----------------------|------------------------------------------------------------|-----------------------------------------------|---------------------------------|
-| After Dose 1 d        | 1 8.439 e (22 505)                                         | 30 8.288 e (22 435)                           | 96.7 (80.3, 99.9)               |
-| 7 days after Dose 2 f | 1 6.522 g (21 649)                                         | 21 6.404 g (21 730)                           | 95.3 (70.9, 99.9)               |
+|                       | COVID-19 mRNA Vaccine Cases n1 a Surveillance time (n2 b )   | Placebo Cases n1 a Surveillance time (n2 b )   | Vaccine efficacy % (95% CI c )   |
+|-----------------------|--------------------------------------------------------------|------------------------------------------------|----------------------------------|
+| After Dose 1 d        | 1 8.439 e (22 505)                                           | 30 8.288 e (22 435)                            | 96.7 (80.3, 99.9)                |
+| 7 days after Dose 2 f | 1 6.522 g (21 649)                                           | 21 6.404 g (21 730)                            | 95.3 (70.9, 99.9)                |
 
 Note: Confirmed cases were determined by Reverse Transcription-Polymerase Chain Reaction (RT-PCR) and at least 1 symptom consistent with COVID-19 (symptoms included: fever; new or increased cough; new or increased shortness of breath; chills; new or increased muscle pain; new loss of taste or smell; sore throat; diarrhoea; vomiting).
 
@@ -2070,7 +2071,7 @@ Table 13. Vaccine efficacy - First COVID-19 occurrence from 7 days after Dose 2:
 
 | First COVID-19 occurrence from 7 days after Dose 2 in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection*   |
 |---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                       | COVID-19mRNA Vaccine 10 mcg/dose N a =1 305 Cases n1 b Surveillancetime c (n2 d )                                                     | Placebo N a =663 Cases n1 b Surveillancetime c (n2 d )                                                                                | Vaccine efficacy% (95% CI)                                                                                                            |
+|                                                                                                                                       | COVID-19 mRNA Vaccine 10 mcg/dose N a =1 305 Cases n1 b Surveillance time c (n2 d )                                                   | Placebo N a =663 Cases n1 b Surveillance time c (n2 d )                                                                               | Vaccine efficacy % (95% CI)                                                                                                           |
 | Children 5 to 11 years of                                                                                                             | 3                                                                                                                                     | 16                                                                                                                                    | 90.7                                                                                                                                  |
 | age                                                                                                                                   | 0.322 (1 273)                                                                                                                         | 0.159 (637)                                                                                                                           | (67.7, 98.3)                                                                                                                          |
 
@@ -2094,7 +2095,7 @@ The GMR of the SARS-CoV-2 NT50 1 month after Dose 2 in children 5 to 11 years of
 
 Table 14. Summary of geometric mean ratio for 50% neutralising titre and difference in percentages of participants with seroresponse - comparison of children 5 to 11 years of age (Study 3) to participants 16 to 25 years of age (Study 2) - participants without evidence of infection up to 1 month after Dose 2 - immunobridging subset Phase 2/3 - evaluable immunogenicity population
 
-|                                                    |                      | COVID-19 mRNAVaccine               | COVID-19 mRNAVaccine                |                               |                                      |
+|                                                    |                      | COVID-19 mRNA Vaccine              | COVID-19 mRNA Vaccine               |                               |                                      |
 |----------------------------------------------------|----------------------|------------------------------------|-------------------------------------|-------------------------------|--------------------------------------|
 |                                                    |                      | 10 mcg/dose 5 to 11 years N a =264 | 30 mcg/dose 16 to 25 years N a =253 | 5 to 11 years/ 16 to 25 years | 5 to 11 years/ 16 to 25 years        |
 |                                                    | Time point b         | GMT c (95% CI c )                  | GMT c (95% CI c )                   | GMR d (95% CI d )             | Met immunobridging objective e (Y/N) |
@@ -2155,7 +2156,7 @@ Table 16. Vaccine efficacy - first COVID-19 occurrence from 7 days after Dose 3 
 
 | First COVID-19 occurrence from 7 days after Dose 3 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 3 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 3 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 3 in participants without evidence of prior SARS-CoV-2 infection*   |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Subgroup                                                                                                             | COVID-19mRNA Vaccine 3 mcg/Dose N a =873 Cases n1 b SurveillanceTime c (n2 d )                                       | Placebo N a =381 Cases n1 b SurveillanceTime c (n2 d )                                                               | Vaccine Efficacy% (95% CI e )                                                                                        |
+| Subgroup                                                                                                             | COVID-19 mRNA Vaccine 3 mcg/Dose N a =873 Cases n1 b Surveillance Time c (n2 d )                                     | Placebo N a =381 Cases n1 b Surveillance Time c (n2 d )                                                              | Vaccine Efficacy % (95% CI e )                                                                                       |
 | 6 months to 4 years e                                                                                                | 13 0.124 (794)                                                                                                       | 21 0.054 (351)                                                                                                       | 73.2 (43.8, 87.6)                                                                                                    |
 | 2 to 4 years                                                                                                         | 9 0.081 (498)                                                                                                        | 13 0.033 (204)                                                                                                       | 71.8 (28.6, 89.4)                                                                                                    |
 | 6 months to 23 months                                                                                                | 4 0.042 (296)                                                                                                        | 8 0.020 (147)                                                                                                        | 75.8 (9.7, 94.7)                                                                                                     |
@@ -2191,7 +2192,7 @@ Table 17. SARS-CoV-2 GMTs (NT50) and difference in percentages of participants w
 | 6 to 23 months                                                                                  | 82                                                                                              | 1 406.5 (1 211.3, 1 633.1)                                                                      | 16 to 25 years of age                                                                           | 170                                                                                             | 1 180.0 (1 066.6, 1 305.4)                                                                      | 6 to 23 months years/16 to 25 years of age                                                      | 1.19 (1.00, 1.42)                                                                               |
 | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course |
 | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                |
-| Age                                                                                             | N a                                                                                             | n f (%) (95% CI g ) (1 month after Dose 3)                                                      | Age                                                                                             | N a                                                                                             | n f (%) (95% CI g ) (1 month after Dose 2)                                                      | Age                                                                                             | Difference in seroresponse rates% h (95% CI i ) j                                               |
+| Age                                                                                             | N a                                                                                             | n f (%) (95% CI g ) (1 month after Dose 3)                                                      | Age                                                                                             | N a                                                                                             | n f (%) (95% CI g ) (1 month after Dose 2)                                                      | Age                                                                                             | Difference in seroresponse rates % h (95% CI i ) j                                              |
 | 2 to 4 years                                                                                    | 141                                                                                             | 141(100.0) (97.4, 100.0)                                                                        | 16 to 25 years of age                                                                           | 170                                                                                             | 168 (98.8) (95.8, 99.9)                                                                         | 2 to 4 years/16 to 25 years of age                                                              | 1.2 (1.5, 4.2)                                                                                  |
 | 6 to 23 months                                                                                  | 80                                                                                              | 80 (100.0) (95.5, 100.0)                                                                        | 16 to 25 years of age                                                                           | 170                                                                                             | 168 (98.8) (95.8, 99.9)                                                                         | 6 to 23 months years/16 to 25 years of age                                                      | 1.2 (3.4, 4.2)                                                                                  |
 
@@ -2261,7 +2262,11 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## Unopened vials
 
-The vaccine will be received frozen at -90 °C to -60 °C. Frozen vaccine can be stored either at -90 °C to -60 °C or 2 °C to 8 °C upon receipt.
+The vaccine will be received frozen at 90 °C to
+
+Frozen vaccine can be stored either at -90 °C to -
+
+--60 °C. 60 °C or 2 °C to 8 °C upon receipt.
 
 18 months when stored at -90 °C to -60 °C.
 
@@ -2938,10 +2943,10 @@ Table 5. Geometric mean ratio and difference in percentages of participants with
 
 |                                                                  | Study 6 SSE 5 to 11 years of age Comirnaty (Omicron XBB.1.5) 10 mcg   | Study 6 SSE 5 to 11 years of age Comirnaty (Omicron XBB.1.5) 10 mcg   | Study 13 SSA ≥12 years of age Comirnaty (Omicron XBB.1.5) 30 mcg   | Study 13 SSA ≥12 years of age Comirnaty (Omicron XBB.1.5) 30 mcg   | Study 6 SSE 5 to 11 years Comirnaty (Omicron XBB.1.5) 10 mcg / Study 13 SSA ≥12 years of age Comirnaty (Omicron XBB.1.5) 30 mcg   | Study 6 SSE 5 to 11 years Comirnaty (Omicron XBB.1.5) 10 mcg / Study 13 SSA ≥12 years of age Comirnaty (Omicron XBB.1.5) 30 mcg   |
 |------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| SARS-CoV-2 neutralisation assay Omicron XBB.1.5 - NT50 (titre) a | n b                                                                   | GMT c (95% CI c )                                                     | n b                                                                | GMT c (95% CI c )                                                  | GMR d (95%                                                                                                                        | CI d )                                                                                                                            |
+| SARS-CoV-2 neutralisation assay Omicron XBB.1.5 - NT50 (titre) a | n b                                                                   | GMT c (95% CI c )                                                     | n b                                                                | GMT c (95% CI c )                                                  | GMR d (95% CI d )                                                                                                                 | GMR d (95% CI d )                                                                                                                 |
 | Geometric mean 50% neutralising titre (GMT)                      | 285                                                                   | 5 930.5 (5 283.8, 6 656.4)                                            | 302                                                                | 4 006.4 (3 438.3, 4 668.4)                                         | 1.81 (1.51, 2.16) e                                                                                                               | 1.81 (1.51, 2.16) e                                                                                                               |
-| Seroresponse rate for 50% neutralising titre                     | N f                                                                   | n g (%) (95% CI h )                                                   | N f                                                                | n g (%) (95% CI h )                                                | Difference % i                                                                                                                    | (95% CI j )                                                                                                                       |
-| Seroresponse rate for 50% neutralising titre                     | 285                                                                   | 253 (88.8) (84.5, 92.2)                                               | 300                                                                | 231 (77.0) (71.8, 81.6)                                            | 8.97                                                                                                                              | (3.91, 14.02) k                                                                                                                   |
+| Seroresponse rate for 50% neutralising                           | N f                                                                   | n g (%) (95% CI h )                                                   | N f                                                                | n g (%) (95% CI h )                                                | Difference % i                                                                                                                    | (95% CI j )                                                                                                                       |
+| titre                                                            | 285                                                                   | 253 (88.8) (84.5, 92.2)                                               | 300                                                                | 231 (77.0) (71.8, 81.6)                                            | 8.97                                                                                                                              | (3.91, 14.02) k                                                                                                                   |
 
 Abbreviations: GMR = geometric mean ratio; GMT = geometric mean titre; LLOQ = lower limit of quantitation; NT50 = 50% neutralising titre; SARS-CoV-2 = severe acute respiratory syndrome coronavirus 2.
 
@@ -3004,7 +3009,7 @@ Table 7. Geometric mean ratio and difference in percentages of participants with
 |------------------------------------------------------------------|-----------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 |                                                                  |                       | Vaccine-naïve Comirnaty Omicron XBB.1.5 30 mcg | Vaccine-naïve Comirnaty Omicron XBB.1.5 30 mcg | Vaccine-experienced Comirnaty Omicron XBB.1.5 30 mcg | Vaccine-experienced Comirnaty Omicron XBB.1.5 30 mcg | Vaccine-naïve Comirnaty Omicron XBB.1.5 30 mcg / Vaccine-experienced Comirnaty Omicron XBB.1.5 30 mcg | Vaccine-naïve Comirnaty Omicron XBB.1.5 30 mcg / Vaccine-experienced Comirnaty Omicron XBB.1.5 30 mcg |
 | SARS-CoV-2 neutralization assay Omicron XBB.1.5 - NT50 (titre) e | Sampling time point a | n b                                            | GMT c (95% CI c )                              | n b                                                  | GMT c (95% CI c )                                    | GMR d (95% CI d )                                                                                     | GMR d (95% CI d )                                                                                     |
-| Geometric mean 50% neutralising titre (GMT)                      | 1 month               | 299                                            | 4 373.4 (3 757.1, 5 090.9)                     | 296                                                  | 2 915.7 (2 462.4, 3 452.5)                           | 1.93 (1.52,                                                                                           | 2.44) f                                                                                               |
+| Geometric mean 50% neutralising titre (GMT)                      | 1 month               | 299                                            | 4 373.4 (3 757.1, 5 090.9)                     | 296                                                  | 2 915.7 (2 462.4, 3 452.5)                           | 1.93 (1.52, f                                                                                         | 2.44)                                                                                                 |
 | Geometric mean 50% neutralising titre (GMT)                      | Sampling time point a | N g                                            | n h (%) (95% CI i )                            | N g                                                  | n h (%) (95% CI i )                                  | Difference % j                                                                                        | (95% CI k )                                                                                           |
 | Seroresponse rate (%) for 50% neutralising titre                 | 1 month               | 298                                            | 253 (84.9) (80.3, 88.8)                        | 295                                                  | 218 (73.9) (68.5, 78.8)                              | 7.31                                                                                                  | (1.34, 13.28) l                                                                                       |
 
@@ -3111,7 +3116,7 @@ Table 10. Vaccine efficacy - First COVID-19 occurrence from 7 days after Dose 2,
 
 | First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior SARS-CoV-2 infection*   |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Subgroup                                                                                                             | COVID-19mRNA Vaccine N a = 18 198 Cases n1 b Surveillancetime c (n2 d )                                              | Placebo N a = 18 325 Cases n1 b Surveillancetime c (n2 d )                                                           | Vaccine efficacy% (95% CI) e                                                                                         |
+| Subgroup                                                                                                             | COVID-19 mRNA Vaccine N a = 18 198 Cases n1 b Surveillance time c (n2 d )                                            | Placebo N a = 18 325 Cases n1 b Surveillance time c (n2 d )                                                          | Vaccine efficacy % (95% CI) e                                                                                        |
 | All participants                                                                                                     | 8 2.214 (17 411)                                                                                                     | 162 2.222 (17 511)                                                                                                   | 95.0 (90.0, 97.9)                                                                                                    |
 | 16 to 64 years                                                                                                       | 7 1.706 (13 549)                                                                                                     | 143 1.710 (13 618)                                                                                                   | 95.1 (89.6, 98.1)                                                                                                    |
 | 65 years and older                                                                                                   | 1 0.508 (3 848)                                                                                                      | 19 0.511 (3 880)                                                                                                     | 94.7 (66.7, 99.9)                                                                                                    |
@@ -3140,13 +3145,13 @@ The updated vaccine efficacy information is presented in Table 11.
 
 Table 11. Vaccine efficacy - First COVID-19 occurrence from 7 days after Dose 2, by age subgroup - participants without evidence of prior SARS-CoV-2 infection* prior to 7 days after Dose 2 - evaluable efficacy (7 days) population during the placebo-controlled follow-up period
 
-| Subgroup           | COVID-19mRNA Vaccine N a =20 998 Cases n1 b Surveillancetime c (n2 d )   | Placebo N a =21 096 Cases n1 b Surveillancetime c (n2 d )   | Vaccine efficacy% (95% CI e )   |
-|--------------------|--------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------|
-| All participants f | 77 6.247 (20 712)                                                        | 850 6.003 (20 713)                                          | 91.3 (89.0, 93.2)               |
-| 16 to 64 years     | 70 4.859 (15 519)                                                        | 710 4.654 (15 515)                                          | 90.6 (87.9, 92.7)               |
-| 65 years and older | 7 1.233 (4 192)                                                          | 124 1.202 (4 226)                                           | 94.5 (88.3, 97.8)               |
-| 65 to 74 years     | 6 0.994 (3 350)                                                          | 98 0.966 (3 379)                                            | 94.1 (86.6, 97.9)               |
-| 75 years and older | 1 0.239 (842)                                                            | 26 0.237 (847)                                              | 96.2 (76.9, 99.9)               |
+| Subgroup           | COVID-19 mRNA Vaccine N a =20 998 Cases n1 b Surveillance time c (n2 d )   | Placebo N a =21 096 Cases n1 b Surveillance time c (n2 d )   | Vaccine efficacy % (95% CI e )   |
+|--------------------|----------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|
+| All participants f | 77 6.247 (20 712)                                                          | 850 6.003 (20 713)                                           | 91.3 (89.0, 93.2)                |
+| 16 to 64 years     | 70 4.859 (15 519)                                                          | 710 4.654 (15 515)                                           | 90.6 (87.9, 92.7)                |
+| 65 years and older | 7 1.233 (4 192)                                                            | 124 1.202 (4 226)                                            | 94.5 (88.3, 97.8)                |
+| 65 to 74 years     | 6 0.994 (3 350)                                                            | 98 0.966 (3 379)                                             | 94.1 (86.6, 97.9)                |
+| 75 years and older | 1 0.239 (842)                                                              | 26 0.237 (847)                                               | 96.2 (76.9, 99.9)                |
 
 Note: Confirmed cases were determined by Reverse Transcription-Polymerase Chain Reaction (RT-PCR) and at least 1 symptom consistent with COVID-19 (symptoms included: fever; new or increased cough; new or increased shortness of breath; chills; new or increased muscle pain; new loss of taste or smell; sore throat; diarrhoea; vomiting).
 
@@ -3172,10 +3177,10 @@ As of 13 March 2021, vaccine efficacy against severe COVID-19 is presented only 
 
 Table 12. Vaccine efficacy - First severe COVID-19 occurrence in participants with or without prior SARS-CoV-2 infection based on the Food and Drug Administration (FDA)* after Dose 1 or from 7 days after Dose 2 in the placebo-controlled follow-up
 
-|                       | COVID-19mRNA Vaccine Cases n1 a Surveillancetime (n2 b )   | Placebo Cases n1 a Surveillancetime (n2 b )   | Vaccine efficacy% (95% CI c )   |
-|-----------------------|------------------------------------------------------------|-----------------------------------------------|---------------------------------|
-| After Dose 1 d        | 1 8.439 e (22 505)                                         | 30 8.288 e (22 435)                           | 96.7 (80.3, 99.9)               |
-| 7 days after Dose 2 f | 1 6.522 g (21 649)                                         | 21 6.404 g (21 730)                           | 95.3 (70.9, 99.9)               |
+|                       | COVID-19 mRNA Vaccine Cases n1 a Surveillance time (n2 b )   | Placebo Cases n1 a Surveillance time (n2 b )   | Vaccine efficacy % (95% CI c )   |
+|-----------------------|--------------------------------------------------------------|------------------------------------------------|----------------------------------|
+| After Dose 1 d        | 1 8.439 e (22 505)                                           | 30 8.288 e (22 435)                            | 96.7 (80.3, 99.9)                |
+| 7 days after Dose 2 f | 1 6.522 g (21 649)                                           | 21 6.404 g (21 730)                            | 95.3 (70.9, 99.9)                |
 
 Note: Confirmed cases were determined by Reverse Transcription-Polymerase Chain Reaction (RT-PCR) and at least 1 symptom consistent with COVID-19 (symptoms included: fever; new or increased cough; new or increased shortness of breath; chills; new or increased muscle pain; new loss of taste or smell; sore throat; diarrhoea; vomiting).
 
@@ -3222,7 +3227,7 @@ Table 13. Vaccine efficacy - First COVID-19 occurrence from 7 days after Dose 2:
 
 | First COVID-19 occurrence from 7 days after Dose 2 in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection*   |
 |---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                       | COVID-19mRNA Vaccine 10 mcg/dose N a =1 305 Cases n1 b Surveillancetime c (n2 d )                                                     | Placebo N a =663 Cases n1 b Surveillancetime c (n2 d )                                                                                | Vaccine efficacy % (95% CI)                                                                                                           |
+|                                                                                                                                       | COVID-19 mRNA Vaccine 10 mcg/dose N a =1 305 Cases n1 b Surveillance time c (n2 d )                                                   | Placebo N a =663 Cases n1 b Surveillance time c (n2 d )                                                                               | Vaccine efficacy % (95% CI)                                                                                                           |
 | Children 5 to 11 years of age                                                                                                         | 3 0.322 (1 273)                                                                                                                       | 16 0.159 (637)                                                                                                                        | 90.7 (67.7, 98.3)                                                                                                                     |
 
 Note: Confirmed cases were determined by Reverse Transcription-Polymerase Chain Reaction (RT-PCR) and at least 1 symptom consistent with COVID-19 (symptoms included: fever; new or increased cough; new or increased shortness of breath; chills; new or increased muscle pain; new loss of taste or smell; sore throat; diarrhoea; vomiting).
@@ -3245,7 +3250,7 @@ The GMR of the SARS-CoV-2 NT50 1 month after Dose 2 in children 5 to 11 years of
 
 Table 14. Summary of geometric mean ratio for 50% neutralising titre and difference in percentages of participants with seroresponse - comparison of children 5 to 11 years of age (Study 3) to participants 16 to 25 years of age (Study 2) - participants without evidence of infection up to 1 month after Dose 2 - immunobridging subset Phase 2/3 - evaluable immunogenicity population
 
-|                                                    |                      | COVID-19 mRNAVaccine               | COVID-19 mRNAVaccine                |                               |                                      |
+|                                                    |                      | COVID-19 mRNA Vaccine              | COVID-19 mRNA Vaccine               |                               |                                      |
 |----------------------------------------------------|----------------------|------------------------------------|-------------------------------------|-------------------------------|--------------------------------------|
 |                                                    |                      | 10 mcg/dose 5 to 11 years N a =264 | 30 mcg/dose 16 to 25 years N a =253 | 5 to 11 years/ 16 to 25 years | 5 to 11 years/ 16 to 25 years        |
 |                                                    | Time point b         | GMT c (95% CI c )                  | GMT c (95% CI c )                   | GMR d (95% CI d )             | Met immunobridging objective e (Y/N) |
@@ -3281,7 +3286,7 @@ Table 15. Vaccine efficacy - First COVID-19 occurrence from 7 days after booster
 
 | First COVID-19 occurrence from 7 days after booster dose in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after booster dose in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after booster dose in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after booster dose in participants without evidence of prior SARS-CoV-2 infection*   |
 |----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                            | Comirnaty N a =4 695 Cases n1 b SurveillanceTime c (n2 d )                                                                 | Placebo N a =4 671 Cases n1 b SurveillanceTime c (n2 d )                                                                   | Relative Vaccine Efficacy e % (95% CI f )                                                                                  |
+|                                                                                                                            | Comirnaty N a =4 695 Cases n1 b Surveillance Time c (n2 d )                                                                | Placebo N a =4 671 Cases n1 b Surveillance Time c (n2 d )                                                                  | Relative Vaccine Efficacy e % (95% CI f )                                                                                  |
 | First COVID-19 occurrence from 7 days after booster                                                                        | 6                                                                                                                          | 123                                                                                                                        | 95.3                                                                                                                       |
 | vaccination                                                                                                                | 0.823 (4 659)                                                                                                              | 0.792 (4 614)                                                                                                              | (89.5, 98.3)                                                                                                               |
 
@@ -3328,7 +3333,7 @@ Table 17. Vaccine efficacy - first COVID-19 occurrence from 7 days after Dose 3 
 
 | First COVID-19 occurrence from 7 days after Dose 3 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 3 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 3 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 3 in participants without evidence of prior SARS-CoV-2 infection*   |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Subgroup                                                                                                             | COVID-19mRNA Vaccine 3 mcg/dose N a =873 Cases n1 b Surveillancetime c (n2 d )                                       | Placebo N a =381 Cases n1 b Surveillance time c (n2 d )                                                              | Vaccine efficacy% (95% CI e )                                                                                        |
+| Subgroup                                                                                                             | COVID-19 mRNA Vaccine 3 mcg/dose N a =873 Cases n1 b Surveillance time c (n2 d )                                     | Placebo N a =381 Cases n1 b Surveillance time c (n2 d )                                                              | Vaccine efficacy % (95% CI e )                                                                                       |
 | 6 months to 4 years e                                                                                                | 13 0.124 (794)                                                                                                       | 21 0.054 (351)                                                                                                       | 73.2 (43.8, 87.6)                                                                                                    |
 | 2 to 4 years                                                                                                         | 9 0.081 (498)                                                                                                        | 13 0.033 (204)                                                                                                       | 71.8 (28.6, 89.4)                                                                                                    |
 | 6 months to 23 months                                                                                                | 4 0.042 (296)                                                                                                        | 8 0.020 (147)                                                                                                        | 75.8 (9.7, 94.7)                                                                                                     |
@@ -3366,7 +3371,7 @@ Table 18. SARS-CoV-2 GMTs (NT50) and difference in percentages of participants w
 | 6 to 23 months                                                                                  | 82                                                                                              | 1 406.5 (1 211.3, 1 633.1)                                                                      | 16 to 25 years of age                                                                           | 170                                                                                             | 1 180.0 (1 066.6, 1 305.4)                                                                      | 6 to 23 months years/16 to 25 years of age                                                      | 1.19 (1.00, 1.42)                                                                               |
 | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course |
 | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                |
-| Age                                                                                             | N a                                                                                             | n f (%) (95% CI g ) (1 month after Dose 3)                                                      | Age                                                                                             | N a                                                                                             | n f (%) (95% CI g ) (1 month after Dose 2)                                                      | Age                                                                                             | Difference in seroresponse rates% h (95% CI i ) j                                               |
+| Age                                                                                             | N a                                                                                             | n f (%) (95% CI g ) (1 month after Dose 3)                                                      | Age                                                                                             | N a                                                                                             | n f (%) (95% CI g ) (1 month after Dose 2)                                                      | Age                                                                                             | Difference in seroresponse rates % h (95% CI i ) j                                              |
 | 2 to 4 years                                                                                    | 141                                                                                             | 141(100.0) (97.4, 100.0)                                                                        | 16 to 25 years of age                                                                           | 170                                                                                             | 168 (98.8) (95.8, 99.9)                                                                         | 2 to 4 years/16 to 25 years of age                                                              | 1.2 (1.5, 4.2)                                                                                  |
 | 6 to 23 months                                                                                  | 80                                                                                              | 80 (100.0) (95.5, 100.0)                                                                        | 16 to 25 years of age                                                                           | 170                                                                                             | 168 (98.8) (95.8, 99.9)                                                                         | 6 to 23 months years/16 to 25 years of age                                                      | 1.2 (3.4, 4.2)                                                                                  |
 
@@ -3444,7 +3449,9 @@ Reproductive and developmental toxicity were investigated in rats in a combined 
 
 ## 6.1 List of excipients
 
-((4-hydroxybutyl)azanediyl)bis(hexane-6,1-diyl)bis(2-hexyldecanoate) (ALC-0315) 2-[(polyethylene glycol)-2000]-N,N-ditetradecylacetamide (ALC-0159) 1,2-Distearoyl-sn-glycero-3-phosphocholine (DSPC) Cholesterol Trometamol Trometamol hydrochloride Sucrose Water for injections
+((4-hydroxybutyl)azanediyl)bis(hexane-6,1-diyl)bis(2-hexyldecanoate) (ALC-0315)
+
+2-[(polyethylene glycol)-2000]-N,N-ditetradecylacetamide (ALC-0159) 1,2-Distearoyl-sn-glycero-3-phosphocholine (DSPC) Cholesterol Trometamol Trometamol hydrochloride Sucrose Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -4372,7 +4379,7 @@ Table 10. Vaccine efficacy - First COVID-19 occurrence from 7 days after Dose 2,
 
 | First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior SARS-CoV-2 infection*   |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Subgroup                                                                                                             | COVID-19mRNA Vaccine N a = 18 198 Cases n1 b Surveillancetime c (n2 d )                                              | Placebo N a = 18 325 Cases n1 b Surveillancetime c (n2 d )                                                           | Vaccine efficacy% (95% CI) e                                                                                         |
+| Subgroup                                                                                                             | COVID-19 mRNA Vaccine N a = 18 198 Cases n1 b Surveillance time c (n2 d )                                            | Placebo N a = 18 325 Cases n1 b Surveillance time c (n2 d )                                                          | Vaccine efficacy % (95% CI) e                                                                                        |
 | All participants                                                                                                     | 8 2.214 (17 411)                                                                                                     | 162 2.222 (17 511)                                                                                                   | 95.0 (90.0, 97.9)                                                                                                    |
 | 16 to 64 years                                                                                                       | 7 1.706 (13 549)                                                                                                     | 143 1.710 (13 618)                                                                                                   | 95.1 (89.6, 98.1)                                                                                                    |
 | 65 years and older                                                                                                   | 1 0.508 (3 848)                                                                                                      | 19 0.511 (3 880)                                                                                                     | 94.7 (66.7, 99.9)                                                                                                    |
@@ -4400,13 +4407,13 @@ The updated vaccine efficacy information is presented in Table 11.
 
 Table 11. Vaccine efficacy - First COVID-19 occurrence from 7 days after Dose 2, by age subgroup - participants without evidence of prior SARS-CoV-2 infection* prior to 7 days after Dose 2 - evaluable efficacy (7 days) population during the placebo-controlled follow-up period
 
-| Subgroup           | COVID-19mRNA Vaccine N a =20 998 Cases n1 b Surveillancetime c (n2 d )   | Placebo N a =21 096 Cases n1 b Surveillancetime c (n2 d )   | Vaccine efficacy% (95% CI e )   |
-|--------------------|--------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------|
-| All participants f | 77 6.247 (20 712)                                                        | 850 6.003 (20 713)                                          | 91.3 (89.0, 93.2)               |
-| 16 to 64 years     | 70 4.859 (15 519)                                                        | 710 4.654 (15 515)                                          | 90.6 (87.9, 92.7)               |
-| 65 years and older | 7 1.233 (4 192)                                                          | 124 1.202 (4 226)                                           | 94.5 (88.3, 97.8)               |
-| 65 to 74 years     | 6 0.994 (3 350)                                                          | 98 0.966 (3 379)                                            | 94.1 (86.6, 97.9)               |
-| 75 years and older | 1 0.239 (842)                                                            | 26 0.237 (847)                                              | 96.2 (76.9, 99.9)               |
+| Subgroup           | COVID-19 mRNA Vaccine N a =20 998 Cases n1 b Surveillance time c (n2 d )   | Placebo N a =21 096 Cases n1 b Surveillance time c (n2 d )   | Vaccine efficacy % (95% CI e )   |
+|--------------------|----------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|
+| All participants f | 77 6.247 (20 712)                                                          | 850 6.003 (20 713)                                           | 91.3 (89.0, 93.2)                |
+| 16 to 64 years     | 70 4.859 (15 519)                                                          | 710 4.654 (15 515)                                           | 90.6 (87.9, 92.7)                |
+| 65 years and older | 7 1.233 (4 192)                                                            | 124 1.202 (4 226)                                            | 94.5 (88.3, 97.8)                |
+| 65 to 74 years     | 6 0.994 (3 350)                                                            | 98 0.966 (3 379)                                             | 94.1 (86.6, 97.9)                |
+| 75 years and older | 1 0.239 (842)                                                              | 26 0.237 (847)                                               | 96.2 (76.9, 99.9)                |
 
 Note: Confirmed cases were determined by Reverse Transcription-Polymerase Chain Reaction (RT-PCR) and at least 1 symptom consistent with COVID-19 (symptoms included: fever; new or increased cough; new or increased shortness of breath; chills; new or increased muscle pain; new loss of taste or smell; sore throat; diarrhoea; vomiting).
 
@@ -4432,10 +4439,10 @@ As of 13 March 2021, vaccine efficacy against severe COVID-19 is presented only 
 
 Table 12. Vaccine efficacy - First severe COVID-19 occurrence in participants with or without prior SARS-CoV-2 infection based on the Food and Drug Administration (FDA)* after Dose 1 or from 7 days after Dose 2 in the placebo-controlled follow-up
 
-|                       | COVID-19mRNA Vaccine Cases n1 a Surveillancetime (n2 b )   | Placebo Cases n1 a Surveillancetime (n2 b )   | Vaccine efficacy% (95% CI c )   |
-|-----------------------|------------------------------------------------------------|-----------------------------------------------|---------------------------------|
-| After Dose 1 d        | 1 8.439 e (22 505)                                         | 30 8.288 e (22 435)                           | 96.7 (80.3, 99.9)               |
-| 7 days after Dose 2 f | 1 6.522 g (21 649)                                         | 21 6.404 g (21 730)                           | 95.3 (70.9, 99.9)               |
+|                       | COVID-19 mRNA Vaccine Cases n1 a Surveillance time (n2 b )   | Placebo Cases n1 a Surveillance time (n2 b )   | Vaccine efficacy % (95% CI c )   |
+|-----------------------|--------------------------------------------------------------|------------------------------------------------|----------------------------------|
+| After Dose 1 d        | 1 8.439 e (22 505)                                           | 30 8.288 e (22 435)                            | 96.7 (80.3, 99.9)                |
+| 7 days after Dose 2 f | 1 6.522 g (21 649)                                           | 21 6.404 g (21 730)                            | 95.3 (70.9, 99.9)                |
 
 Note: Confirmed cases were determined by Reverse Transcription-Polymerase Chain Reaction (RT-PCR) and at least 1 symptom consistent with COVID-19 (symptoms included: fever; new or increased cough; new or increased shortness of breath; chills; new or increased muscle pain; new loss of taste or smell; sore throat; diarrhoea; vomiting).
 
@@ -4479,7 +4486,7 @@ Table 13. Vaccine efficacy - First COVID-19 occurrence from 7 days after Dose 2:
 
 | First COVID-19 occurrence from 7 days after Dose 2 in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection*   |
 |---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                       | COVID-19mRNA Vaccine 10 mcg/dose N a =1 305 Cases n1 b Surveillancetime c (n2 d )                                                     | Placebo N a =663 Cases n1 b Surveillancetime c (n2 d )                                                                                | Vaccine efficacy % (95% CI)                                                                                                           |
+|                                                                                                                                       | COVID-19 mRNA Vaccine 10 mcg/dose N a =1 305 Cases n1 b Surveillance time c (n2 d )                                                   | Placebo N a =663 Cases n1 b Surveillance time c (n2 d )                                                                               | Vaccine efficacy % (95% CI)                                                                                                           |
 | Children 5 to 11 years of age                                                                                                         | 3 0.322 (1 273)                                                                                                                       | 16 0.159 (637)                                                                                                                        | 90.7 (67.7, 98.3)                                                                                                                     |
 
 <div style=\"page-break-after: always\"></div>
@@ -4504,7 +4511,7 @@ The GMR of the SARS-CoV-2 NT50 1 month after Dose 2 in children 5 to 11 years of
 
 Table 14. Summary of geometric mean ratio for 50% neutralising titre and difference in percentages of participants with seroresponse - comparison of children 5 to 11 years of age (Study 3) to participants 16 to 25 years of age (Study 2) - participants without evidence of infection up to 1 month after Dose 2 - immunobridging subset Phase 2/3 - evaluable immunogenicity population
 
-|                                                    |                      | COVID-19 mRNAVaccine               | COVID-19 mRNAVaccine                |                               |                                      |
+|                                                    |                      | COVID-19 mRNA Vaccine              | COVID-19 mRNA Vaccine               |                               |                                      |
 |----------------------------------------------------|----------------------|------------------------------------|-------------------------------------|-------------------------------|--------------------------------------|
 |                                                    |                      | 10 mcg/dose 5 to 11 years N a =264 | 30 mcg/dose 16 to 25 years N a =253 | 5 to 11 years/ 16 to 25 years | 5 to 11 years/ 16 to 25 years        |
 |                                                    | Time point b         | GMT c (95% CI c )                  | GMT c (95% CI c )                   | GMR d (95% CI d )             | Met immunobridging objective e (Y/N) |
@@ -4540,7 +4547,7 @@ Table 15. Vaccine efficacy - First COVID-19 occurrence from 7 days after booster
 
 | First COVID-19 occurrence from 7 days after booster dose in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after booster dose in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after booster dose in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after booster dose in participants without evidence of prior SARS-CoV-2 infection*   |
 |----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                            | Comirnaty N a =4 695 Cases n1 b SurveillanceTime c (n2 d )                                                                 | Placebo N a =4 671 Cases n1 b SurveillanceTime c (n2 d )                                                                   | Relative Vaccine Efficacy e % (95% CI f )                                                                                  |
+|                                                                                                                            | Comirnaty N a =4 695 Cases n1 b Surveillance Time c (n2 d )                                                                | Placebo N a =4 671 Cases n1 b Surveillance Time c (n2 d )                                                                  | Relative Vaccine Efficacy e % (95% CI f )                                                                                  |
 | First COVID-19 occurrence from 7 days after booster                                                                        | 6                                                                                                                          | 123                                                                                                                        | 95.3                                                                                                                       |
 | vaccination                                                                                                                | 0.823 (4 659)                                                                                                              | 0.792 (4 614)                                                                                                              | (89.5, 98.3)                                                                                                               |
 
@@ -4587,7 +4594,7 @@ Table 17. Vaccine efficacy - first COVID-19 occurrence from 7 days after Dose 3 
 
 | First COVID-19 occurrence from 7 days after Dose 3 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 3 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 3 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 3 in participants without evidence of prior SARS-CoV-2 infection*   |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Subgroup                                                                                                             | COVID-19mRNA Vaccine 3 mcg/dose N a =873 Cases n1 b Surveillancetime c (n2 d )                                       | Placebo N a =381 Cases n1 b Surveillance time c (n2 d )                                                              | Vaccine efficacy% (95% CI e )                                                                                        |
+| Subgroup                                                                                                             | COVID-19 mRNA Vaccine 3 mcg/dose N a =873 Cases n1 b Surveillance time c (n2 d )                                     | Placebo N a =381 Cases n1 b Surveillance time c (n2 d )                                                              | Vaccine efficacy % (95% CI e )                                                                                       |
 | 6 months to 4 years e                                                                                                | 13 0.124 (794)                                                                                                       | 21 0.054 (351)                                                                                                       | 73.2 (43.8, 87.6)                                                                                                    |
 | 2 to 4 years                                                                                                         | 9 0.081 (498)                                                                                                        | 13 0.033 (204)                                                                                                       | 71.8 (28.6, 89.4)                                                                                                    |
 | 6 months to 23 months                                                                                                | 4 0.042 (296)                                                                                                        | 8 0.020 (147)                                                                                                        | 75.8 (9.7, 94.7)                                                                                                     |
@@ -4625,7 +4632,7 @@ Table 18. SARS-CoV-2 GMTs (NT50) and difference in percentages of participants w
 | 6 to 23 months                                                                                  | 82                                                                                              | 1 406.5 (1 211.3, 1 633.1)                                                                      | 16 to 25 years of age                                                                           | 170                                                                                             | 1 180.0 (1 066.6, 1 305.4)                                                                      | 6 to 23 months years/16 to 25 years of age                                                      | 1.19 (1.00, 1.42)                                                                               |
 | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course |
 | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                |
-| Age                                                                                             | N a                                                                                             | n f (%) (95% CI g ) (1 month after Dose 3)                                                      | Age                                                                                             | N a                                                                                             | n f (%) (95% CI g ) (1 month after Dose 2)                                                      | Age                                                                                             | Difference in seroresponse rates% h (95% CI i ) j                                               |
+| Age                                                                                             | N a                                                                                             | n f (%) (95% CI g ) (1 month after Dose 3)                                                      | Age                                                                                             | N a                                                                                             | n f (%) (95% CI g ) (1 month after Dose 2)                                                      | Age                                                                                             | Difference in seroresponse rates % h (95% CI i ) j                                              |
 | 2 to 4 years                                                                                    | 141                                                                                             | 141 (100.0) (97.4, 100.0)                                                                       | 16 to 25 years of age                                                                           | 170                                                                                             | 168 (98.8) (95.8, 99.9)                                                                         | 2 to 4 years/16 to 25 years of age                                                              | 1.2 (1.5, 4.2)                                                                                  |
 | 6 to 23 months                                                                                  | 80                                                                                              | 80 (100.0) (95.5, 100.0)                                                                        | 16 to 25 years of age                                                                           | 170                                                                                             | 168 (98.8) (95.8, 99.9)                                                                         | 6 to 23 months years/16 to 25 years of age                                                      | 1.2 (3.4, 4.2)                                                                                  |
 
@@ -4912,6 +4919,1267 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
+This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Comirnaty XFG 30 micrograms/dose dispersion for injection in pre-filled syringe
+
+Comirnaty XFG 30 micrograms/dose dispersion for injection Comirnaty XFG 10 micrograms/dose dispersion for injection COVID -19 mRNA Vaccine
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+Do not dilute prior to use.
+
+Table 1. Comirnaty XFG qualitative and quantitative composition
+
+| Product presentation                                                            | Container                                                       | Dose(s) per container (see sections 4.2 and 6.6)   | Contents per dose                                                                                                                                |
+|---------------------------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| Comirnaty XFG 30 micrograms/dose dispersion for injection                       | Multidose (2.25 mL) vial (grey cap)                             | 6 doses of 0.3 mL                                  | One dose (0.3 mL) contains 30 micrograms of mRNA encoding XFG, a COVID - 19 mRNA Vaccine (nucleoside modified, embedded in                       |
+| Comirnaty XFG 30 micrograms/dose dispersion for injection in pre-filled syringe | Pre-filled syringe                                              | 1 dose of 0.3 mL                                   | lipid nanoparticles).                                                                                                                            |
+| Comirnaty XFG 10 micrograms/dose dispersion for injection                       | Single dose vial (blue cap) Multidose (2.25 mL) vial (blue cap) | 1 dose of 0.3 mL 6 doses of 0.3 mL                 | One dose (0.3 mL) contains 10 micrograms of mRNA encoding XFG, a COVID - 19 mRNA Vaccine (nucleoside modified, embedded in lipid nanoparticles). |
+
+The mRNA encoding XFG is a single-stranded, 5'-capped messenger RNA (mRNA) produced using a cell-free in vitro transcription from the corresponding DNA templates, encoding the viral spike (S) protein of SARS-CoV-2 (Omicron XFG).
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+Dispersion for injection.
+
+Comirnaty XFG 30 micrograms/dose dispersion for injection is a white to off-white dispersion (pH: 6.9 -7.9).
+
+Comirnaty XFG 10 micrograms/dose dispersion for injection is a clear to slightly opalescent dispersion (pH: 6.9 -7.9).
+
+<div style=\"page-break-after: always\"></div>
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+Comirnaty XFG dispersion for injection is indicated for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals 6 months of age and older.
+
+The use of this vaccine should be in accordance with official recommendations.
+
+## 4.2 Posology and method of administration
+
+## Posology
+
+## Individuals 12 years of age and older
+
+Comirnaty XFG 30 micrograms/dose dispersion for injection is administered intramuscularly as a single dose of 0.3 mL for individuals 12 years of age and older regardless of prior COVID-19 vaccination status (see sections 4.4 and 5.1).
+
+For individuals who have previously been vaccinated with a COVID-19 vaccine, Comirnaty XFG should be administered at least 3 months after the most recent dose of a COVID-19 vaccine.
+
+## Children 5 to 11 years of age (i.e. 5 to less than 12 years of age)
+
+Comirnaty XFG 10 micrograms/dose dispersion for injection is administered intramuscularly as a single dose of 0.3 mL for children 5 to 11 years of age regardless of prior COVID-19 vaccination status (see sections 4.4 and 5.1).
+
+For individuals who have previously been vaccinated with a COVID-19 vaccine, Comirnaty XFG should be administered at least 3 months after the most recent dose of a COVID-19 vaccine.
+
+Infants and children 6 months to 4 years of age who have not received a COVID-19 vaccine Comirnaty XFG 10 micrograms/dose dispersion for injection is administered intramuscularly as a primary course of 2 doses. It is recommended to administer the second dose 8 weeks after the first dose (see sections 4.4 and 5.1).
+
+If a child turns 5 years old between their doses in the primary course, he/she should complete the primary course at the same 10 micrograms dose level.
+
+## Infants and children 6 months to 4 years of age who have a history of completion of a COVID-19 vaccine primary course
+
+Comirnaty XFG 10 micrograms/dose dispersion for injection is administered intramuscularly as a single dose.
+
+For individuals who have previously been vaccinated with a COVID-19 vaccine, Comirnaty XFG should be administered at least 3 months after the most recent dose of a COVID-19 vaccine.
+
+## Infants and children 6 months to 4 years of age who have received 1 or 2 doses of the 3 mcg 3-dose primary course
+
+Additional doses of Comirnaty XFG 10 micrograms/dose may be administered to complete the 3 -dose primary course. The second dose may be administered 3 weeks after the first dose followed by a third dose administered at least 8 weeks after the second dose (see sections 4.8 and 5.1).
+
+## Severely immunocompromised individuals
+
+Additional doses may be administered to individuals who are severely immunocompromised in accordance with national recommendations (see section 4.4).
+
+<div style=\"page-break-after: always\"></div>
+
+## Interchangeability
+
+The Comirnaty XFG 10 micrograms/dose primary course may consist of any previous or current Comirnaty vaccine but not exceeding the total number of doses required as primary course. The primary course should only be administered once.
+
+The interchangeability of Comirnaty with COVID-19 vaccines from other manufacturers has not been established.
+
+## Paediatric population
+
+The safety and efficacy of the vaccine in infants aged less than 6 months have not yet been established.
+
+## Elderly population
+
+No dose adjustment is required in elderly individuals 65 years of age and older.
+
+## Method of administration
+
+Comirnaty XFG dispersion for injection should be administered intramuscularly (see section 6.6). Do not dilute prior to use.
+
+The preferred site is the deltoid muscle of the upper arm.
+
+Do not inject the vaccine intravascularly, subcutaneously or intradermally.
+
+The vaccine should not be mixed in the same syringe with any other vaccines or medicinal products.
+
+For precautions to be taken before administering the vaccine, see section 4.4.
+
+For instructions regarding thawing, handling and disposal of the vaccine, see section 6.6.
+
+## Single dose vials
+
+Single dose vials of Comirnaty XFG contain 1 dose of 0.3 mL of vaccine.
+
+- Withdraw a single 0.3 mL dose of Comirnaty XFG.
+- Discard vial and any excess volume.
+- Do not pool excess vaccine from multiple vials.
+
+## Multidose vials
+
+Multidose vials of Comirnaty XFG contain 6 doses of 0.3 mL of vaccine. In order to extract 6 doses from a single vial, low dead-volume syringes and/or needles should be used. The low dead-volume syringe and needle combination should have a dead-volume of no more than 35 microlitres. If standard syringes and needles are used, there may not be sufficient volume to extract a sixth dose from a single vial. Irrespective of the type of syringe and needle:
+
+- Each dose must contain 0.3 mL of vaccine.
+- If the amount of vaccine remaining in the vial cannot provide a full dose of 0.3 mL, discard the vial and any excess volume.
+- Do not pool excess vaccine from multiple vials.
+
+## Pre-filled syringes
+
+- Each single dose pre-filled syringe of Comirnaty XFG contains 1 dose of 0.3 mL of vaccine.
+- Attach a needle appropriate for intramuscular injection and administer the entire volume.
+
+## 4.3 Contraindications
+
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+
+<div style=\"page-break-after: always\"></div>
+
+## 4.4 Special warnings and precautions for use
+
+## Traceability
+
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+## General recommendations
+
+## Hypersensitivity and anaphylaxis
+
+Events of anaphylaxis have been reported. Appropriate medical treatment and supervision should always be readily available in case of an anaphylactic reaction following the administration of the vaccine.
+
+Close observation for at least 15 minutes is recommended following vaccination. No further dose of the vaccine should be given to those who have experienced anaphylaxis after a prior dose of Comirnaty.
+
+## Myocarditis and pericarditis
+
+There is an increased risk of myocarditis and pericarditis following vaccination with Comirnaty. These conditions can develop within just a few days after vaccination and have primarily occurred within 14 days. They have been observed more often after the second vaccination, and more often in younger males (see section 4.8). Available data indicate that most cases recover. Some cases required intensive care support and fatal cases have been observed.
+
+Healthcare professionals should be alert to the signs and symptoms of myocarditis and pericarditis. Vaccinees (including parents or caregivers) should be instructed to seek immediate medical attention if they develop symptoms indicative of myocarditis or pericarditis such as (acute and persisting) chest pain, shortness of breath, or palpitations following vaccination.
+
+Healthcare professionals should consult guidance and/or specialists to diagnose and treat this condition.
+
+## Anxiety-related reactions
+
+Anxietyrelated reactions, including vasovagal reactions (syncope), hyperventilation or stress-related reactions (e.g. dizziness, palpitations, increases in heart rate, alterations in blood pressure, paraesthesia, hypoaesthesia and sweating) may occur in association with the vaccination process itself. Stress-related reactions are temporary and resolve on their own. Individuals should be advised to bring symptoms to the attention of the vaccination provider for evaluation. It is important that precautions are in place to avoid injury from fainting.
+
+## Concurrent illness
+
+Vaccination should be postponed in individuals suffering from acute severe febrile illness or acute infection. The presence of a minor infection and/or low-grade fever should not delay vaccination.
+
+## Thrombocytopenia and coagulation disorders
+
+As with other intramuscular injections, the vaccine should be given with caution in individuals receiving anticoagulant therapy or those with thrombocytopenia or any coagulation disorder (such as haemophilia) because bleeding or bruising may occur following an intramuscular administration in these individuals.
+
+## Immunocompromised individuals
+
+Safety and immunogenicity have been assessed in a limited number of immunocompromised individuals, including those receiving immunosuppressant therapy (see sections 4.8 and 5.1). The efficacy of Comirnaty XFG may be lower in immunocompromised individuals.
+
+<div style=\"page-break-after: always\"></div>
+
+## Duration of protection
+
+The duration of protection afforded by the vaccine is unknown as it is still being determined by ongoing clinical trials.
+
+## Limitations of vaccine effectiveness
+
+As with any vaccine, vaccination with Comirnaty XFG may not protect all vaccine recipients. Individuals may not be fully protected until 7 days after their vaccination.
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+Comirnaty XFG 30 micrograms/dose dispersion for injection may be administered concomitantly with seasonal influenza vaccine.
+
+In individuals 18 years of age and older, Comirnaty XFG may be administered concomitantly with a pneumococcal conjugate vaccine (PCV).
+
+In individuals 18 years of age and older, Comirnaty XFG may be administered concomitantly with an unadjuvanted recombinant protein respiratory syncytial virus (RSV) vaccine.
+
+In individuals 65 years of age and older, Comirnaty XFG may be administered concomitantly with an unadjuvanted recombinant protein RSV vaccine and a high dose influenza vaccine.
+
+Different injectable vaccines should be administered at different injection sites.
+
+Concomitant administration of Comirnaty XFG 10 micrograms/dose dispersion for injection with other vaccines has not been studied.
+
+## 4.6 Fertility, pregnancy and lactation
+
+## Pregnancy
+
+No data are available yet regarding the use of Comirnaty XFG during pregnancy.
+
+However, there are limited clinical study data (less than 300 pregnancy outcomes) from the use of Comirnaty in pregnant participants. A large amount of observational data from pregnant women vaccinated with the initially approved Comirnaty vaccine during the second and third trimester have not shown an increase in adverse pregnancy outcomes. While data on pregnancy outcomes following vaccination during the first trimester are presently limited, no increased risk for miscarriage has been seen. Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryo/foetal development, parturition or post-natal development (see section 5.3). Based on data available with other vaccine variants, Comirnaty XFG can be used during pregnancy.
+
+## Breast-feeding
+
+No data are available yet regarding the use of Comirnaty XFG during breast-feeding.
+
+However, no effects on the breastfed newborn/infant are anticipated since the systemic exposure of breast-feeding woman to the vaccine is negligible. Observational data from women who were breast-feeding after vaccination with the initially approved Comirnaty vaccine have not shown a risk for adverse effects in breastfed newborns/infants. Comirnaty XFG can be used during breast-feeding.
+
+## Fertility
+
+Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3).
+
+<div style=\"page-break-after: always\"></div>
+
+## 4.7 Effects on ability to drive and use machines
+
+Comirnaty XFG has no or negligible influence on the ability to drive and use machines. However, some of the effects mentioned under section 4.8 may temporarily affect the ability to drive or use machines.
+
+## 4.8 Undesirable effects
+
+## Summary of safety profile
+
+The safety of Comirnaty XFG is inferred from safety data of the prior Comirnaty vaccines.
+
+## Initially approved Comirnaty vaccine
+
+## Infants 6 to 23 months of age - after 3 doses of the 3 mcg primary series
+
+In an analysis of Study 3 (Phase 2/3), 2 176 infants (1 458 initially approved Comirnaty 3 mcg and 718 placebo) were 6 to 23 months of age.
+
+The most frequent adverse reactions in infants 6 to 23 months of age that received any primary course dose included irritability (&gt; 60%), drowsiness (&gt; 40%), decreased appetite (&gt; 30%), tenderness at the injection site (&gt; 20%), injection site redness and fever (&gt; 10%).
+
+## Children 2 to 4 years of age - after 3 doses of the 3 mcg primary series
+
+In an analysis of Study 3 (Phase 2/3), 3 541 children (2 368 Comirnaty 3 mcg and 1 173 placebo) were 2 to 4 years of age.
+
+The most frequent adverse reactions in children 2 to 4 years of age that received any primary course dose included pain at injection site and fatigue (&gt; 40%), injection site redness and fever (&gt; 10%).
+
+Children 5 to 11 years of age (i.e. 5 to less than 12 years of age) - after 2 doses In Study 3, a total of 3 109 children 5 to 11 years of age received at least 1 dose of the initially approved Comirnaty vaccine 10 mcg and a total of 1 538 children 5 to 11 years of age received placebo. At the time of the analysis of Study 3 Phase 2/3 with data up to the cut-off date of 20 May 2022, 2 206 (1 481 Comirnaty 10 mcg and 725 placebo) children have been followed for ≥ 4 months after the second dose in the placebo-controlled blinded follow-up period. The safety evaluation in Study 3 is ongoing.
+
+The overall safety profile of Comirnaty in participants 5 to 11 years of age was similar to that seen in participants 16 years of age and older. The most frequent adverse reactions in children 5 to 11 years of age that received 2 doses were injection site pain (&gt; 80%), fatigue (&gt; 50%), headache (&gt; 30%), injection site redness and swelling (≥ 20%), myalgia, chills, and diarrhoea (&gt; 10%).
+
+Children 5 to 11 years of age (i.e. 5 to less than 12 years of age) - after booster dose In a subset from Study 3, a total of 2 408 children 5 to 11 years of age received a booster dose of Comirnaty 10 mcg at least 5 months (range of 5.3 to 19.4 months) after completing the primary series. The analysis of the Study 3 Phase 2/3 subset is based on data up to the cut-off date of 28 February 2023 (median follow-up time of 6.4 months).
+
+The overall safety profile for the booster dose was similar to that seen after the primary course. The most frequent adverse reactions in children 5 to 11 years of age after the booster dose were injection site pain (&gt; 60%), fatigue (&gt; 30%), headache (&gt; 20%), myalgia, chills, injection site redness and swelling (&gt; 10%).
+
+## Adolescents 12 to 15 years of age - after 2 doses
+
+In an analysis of long-term safety follow-up in Study 2, 2 260 adolescents (1 131 Comirnaty and 1 129 placebo) were 12 to 15 years of age. Of these, 1 559 adolescents (786 Comirnaty and 773 placebo) have been followed for ≥ 4 months after the second dose.
+
+<div style=\"page-break-after: always\"></div>
+
+The overall safety profile of Comirnaty in adolescents 12 to 15 years of age was similar to that seen in participants 16 years of age and older. The most frequent adverse reactions in adolescents 12 to 15 years of age that received 2 doses were injection site pain (&gt; 90%), fatigue and headache (&gt; 70%), myalgia and chills (&gt; 40%), arthralgia and pyrexia (&gt; 20%).
+
+## Participants 16 years of age and older - after 2 doses
+
+In Study 2, a total of 22 026 participants 16 years of age or older received at least 1 dose of initially approved Comirnaty vaccine and a total of 22 021 participants 16 years of age or older received placebo (including 138 and 145 adolescents 16 and 17 years of age in the vaccine and placebo groups, respectively). A total of 20 519 participants 16 years of age or older received 2 doses of Comirnaty.
+
+At the time of the analysis of Study 2 with a data cut-off of 13 March 2021 for the placebo-controlled blinded follow-up period up to the participants' unblinding dates, a total of 25 651 (58.2%) participants (13 031 Comirnaty and 12 620 placebo) 16 years of age and older were followed up for ≥ 4 months after the second dose. This included a total of 15 111 (7 704 Comirnaty and 7 407 placebo) participants 16 to 55 years of age and a total of 10 540 (5 327 Comirnaty and 5 213 placebo) participants 56 years of age and older.
+
+The most frequent adverse reactions in participants 16 years of age and older that received 2 doses were injection site pain (&gt; 80%), fatigue (&gt; 60%), headache (&gt; 50%), myalgia (&gt; 40%), chills (&gt; 30%), arthralgia (&gt; 20%), pyrexia and injection site swelling (&gt; 10%) and were usually mild or moderate in intensity and resolved within a few days after vaccination. A slightly lower frequency of reactogenicity events was associated with greater age.
+
+The safety profile in 545 participants 16 years of age and older receiving Comirnaty, that were seropositive for SARS-CoV-2 at baseline, was similar to that seen in the general population.
+
+## Participants 12 years of age and older - after booster dose
+
+A subset from Study 2 Phase 2/3 participants of 306 adults 18 to 55 years of age who completed the original Comirnaty 2-dose course, received a booster dose of Comirnaty approximately 6 months (range of 4.8 to 8.0 months) after receiving Dose 2. Overall, participants who received a booster dose, had a median follow-up time of 8.3 months (range 1.1 to 8.5 months) and 301 participants had been followed for ≥ 6 months after the booster dose to the cut-off date (22 November 2021).
+
+The overall safety profile for the booster dose was similar to that seen after 2 doses. The most frequent adverse reactions in participants 18 to 55 years of age were injection site pain (&gt; 80%), fatigue (&gt; 60%), headache (&gt; 40%), myalgia (&gt; 30%), chills and arthralgia (&gt; 20%).
+
+In Study 4, a placebo-controlled booster study, participants 16 years of age and older recruited from Study 2 received a booster dose of Comirnaty (5 081 participants), or placebo (5 044 participants) at least 6 months after the second dose of Comirnaty. Overall, participants who received a booster dose, had a median follow-up time of 2.8 months (range 0.3 to 7.5 months) after the booster dose in the blinded placebo-controlled follow-up period to the cut-off date (8 February 2022). Of these, 1 281 participants (895 Comirnaty and 386 placebo) have been followed for ≥ 4 months after the booster dose of Comirnaty. No new adverse reactions of Comirnaty were identified.
+
+A subset from Study 2 Phase 2/3 participants of 825 adolescents 12 to 15 years of age who completed the original Comirnaty 2-dose course, received a booster dose of Comirnaty approximately 11.2 months (range of 6.3 to 20.1 months) after receiving Dose 2. Overall, participants who received a booster dose, had a median follow-up time of 9.5 months (range 1.5 to 10.7 months) based on data up to the cut-off date (3 November 2022). No new adverse reactions of Comirnaty were identified.
+
+## Participants 12 years of age and older - after subsequent booster doses
+
+The safety of a booster dose of Comirnaty in participants 12 years of age and older is inferred from safety data from studies of a booster dose of Comirnaty in participants 18 years of age and older.
+
+<div style=\"page-break-after: always\"></div>
+
+A subset of 325 adults 18 to ≤ 55 years of age who had completed 3 doses of Comirnaty, received a booster (fourth dose) of Comirnaty 90 to 180 days after receiving Dose 3. Participants who received a booster (fourth dose) of Comirnaty had a median follow-up time of 1.4 months up to a data cut-off date of 11 March 2022. The most frequent adverse reactions in these participants were injection site pain (&gt; 70%), fatigue (&gt; 60%), headache (&gt; 40%), myalgia and chills (&gt; 20%), and arthralgia (&gt; 10%).
+
+In a subset from Study 4 (Phase 3), 305 adults &gt; 55 years of age who had completed 3 doses of Comirnaty, received a booster (fourth dose) of Comirnaty 5 to 12 months after receiving Dose 3. Participants who received a booster (fourth dose) of Comirnaty had a median follow-up time of at least 1.7 months up to a data cut-off date of 16 May 2022. The overall safety profile for the Comirnaty booster (fourth dose) was similar to that seen after the Comirnaty booster (third dose). The most frequent adverse reactions in participants &gt; 55 years of age were injection site pain (&gt; 60%), fatigue (&gt; 40%), headache (&gt; 20%), myalgia and chills (&gt; 10%).
+
+Booster dose following primary vaccination with another authorised COVID-19 vaccine In 5 independent studies on the use of a Comirnaty booster dose in individuals who had completed primary vaccination with another authorised COVID-19 vaccine (heterologous booster dose), no new safety issues were identified.
+
+## Omicron-adapted Comirnaty
+
+## Infants 6 months to 23 months of age - after 2 doses
+
+In 2 groups from Study 6 (Phase 2/3, Groups 1 and 2), 604 participants 6 months to 23 months of age who were COVID-19 vaccine-naïve received 2 doses of Comirnaty Omicron XBB.1.5 10 mcg. Participants had a median follow-up time of 8.5 months.
+
+The most frequent adverse reactions in participants 6 months to less than 23 months of age were decreased appetite, drowsiness, and irritability (&gt; 20%), and tenderness at the injection site (&gt; 10%).
+
+## Infants 6 months to 23 months of age - after at least 3 doses
+
+In 3 groups from Study 6 (Phase 1), 95 participants 6 months to 23 months of age received at least 1 dose of Comirnaty Original/Omi BA.4/BA.5 at 3 mcg (n=33), 6 mcg (n=29), or 10 mcg (n=33), administered at 0, 3, and 11 weeks. Participants had a median follow-up time of 13 months after the third dose.
+
+The most frequent adverse reactions in participants who received the 10 mcg 3-dose series were irritability (&gt; 60%), drowsiness (&gt; 50%), tenderness at the injection site and decreased appetite (&gt; 30%), redness (&gt; 20%), and swelling (&gt; 10%).
+
+## Children 2 to 4 years of age - after a single dose
+
+In 2 groups from Study 6 (Phase 2/3, Groups 4 and 5), 688 participants 2 to 4 years of age who were COVID-19 vaccine-naïve received a single dose of Comirnaty Omicron XBB.1.5 10 mcg. Participants had a median follow-up time of 6.3 months.
+
+The most frequent adverse reactions in participants 2 to 4 years of age were pain at the injection site and fatigue (&gt; 20%), and headache (&gt; 10%).
+
+## Children 5 to 11 years of age - after a single dose
+
+In a subset of Study 6 (Substudy E, Phase 2/3), 310 participants 5 to 11 years of age who were COVID-19 vaccine-naïve, received 1 dose of Comirnaty Omicron XBB.1.5. Participants had a median follow-up time of 6.4 months.
+
+The most frequent adverse reactions in participants were pain at the injection site (&gt; 40%), fatigue, headache and muscle pain (&gt; 10%).
+
+Children 5 to 11 years of age (i.e. 5 to less than 12 years of age) - after the booster (fourth dose) In a subset from Study 6 (Phase 3), 113 participants 5 to 11 years of age who had completed 3 doses of Comirnaty, received a booster (fourth dose) of Comirnaty Original/Omicron BA.4-5 (5/5 mcg) 2.6 to
+
+<div style=\"page-break-after: always\"></div>
+
+8.5 months after receiving Dose 3. Participants who received a booster (fourth dose) of Comirnaty Original/Omicron BA.4-5 had a median follow-up time of 6.3 months.
+
+The overall safety profile for the Comirnaty Original/Omicron BA.4-5 booster (fourth dose) was similar to that seen after 3 doses. The most frequent adverse reactions in participants 5 to 11 years of age were injection site pain (&gt; 60%), fatigue (&gt; 40%), headache (&gt; 20%), and myalgia (&gt; 10%).
+
+## Participants 12 years of age and older - after a booster dose of Comirnaty Original/Omicron BA.4-5 (fourth dose)
+
+In a subset from Study 5 (Phase 2/3), 107 participants 12 to 17 years of age, 313 participants 18 to 55 years of age and 306 participants 56 years of age and older who had completed 3 doses of Comirnaty, received a booster (fourth dose) of Comirnaty Original/Omicron BA.4-5 (15/15 mcg) 5.4 to 16.9 months after receiving Dose 3. Participants who received a booster (fourth dose) of Comirnaty Original/Omicron BA.4-5 had a median follow-up time of at least 1.5 months.
+
+The overall safety profile for the Comirnaty Original/Omicron BA.4-5 booster (fourth dose) was similar to that seen after 3 doses. The most frequent adverse reactions in participants 12 years of age and older were injection site pain (&gt; 60%), fatigue (&gt; 50%), headache (&gt; 40%), myalgia (&gt; 20%), chills (&gt; 10%), and arthralgia (&gt; 10%).
+
+## Participants 12 years of age and older - after a booster dose of Comirnaty Omicron XBB.1.5 (fourth dose or more)
+
+In a subset from Study 13 (Phase 2/3), 412 participants 12 years of age and older, who had received at least 3 doses of an authorised mRNA COVID-19 vaccine, received a booster (fourth dose or more) of Comirnaty Omicron XBB.1.5 2.0 to 24.1 months after receiving Dose 3. Participants who received a booster (fourth dose or more) of Comirnaty XBB.1.5 had a median follow-up time of 6.3 months.
+
+The safety profile of Comirnaty Omicron XBB.1.5 was similar to the overall Comirnaty safety profile.
+
+Participants 12 years of age and older - after a single dose of Comirnaty Omicron XBB.1.5 In a subset from Study 13 (Phase 2/3), 311 participants 12 years of age and older who were considered to be baseline SARS-CoV-2 positive and COVID-19 vaccine-naïve, received 1 dose of Comirnaty Omicron XBB.1.5. Participants had a median follow-up time of 6.4 months.
+
+The safety profile of Comirnaty Omicron XBB.1.5 was similar to the overall Comirnaty safety profile. The most frequent adverse reactions in participants were injection site pain (&gt; 50%), fatigue (&gt; 30%), headache (&gt; 20%), myalgia, diarrhoea, arthralgia, chills and injection site swelling (&gt; 10%).
+
+Participants 12 years of age and older - after a single dose of Comirnaty Omicron JN.1 In a subset from Study 13 (Phase 2/3), 216 participants 12 years of age and older received 1 dose of Comirnaty Omicron JN.1 and had a median follow-up time of 6.3 months.
+
+The safety profile of Comirnaty Omicron JN.1 was similar to the overall Comirnaty safety profile. The most frequent adverse reactions in participants were injection site pain (&gt; 60%), fatigue (&gt;30%), headache (&gt;20%), myalgia, chills and injection site swelling (&gt;10%).
+
+Participants 18 years of age and older - after a single dose of Comirnaty Omicron KP.2 In a subset from Study 13 (Phase 2/3), 102 participants 18 years of age and older received 1 dose of Comirnaty Omicron KP.2 and had a median follow-up time of 6.3 months.
+
+The safety profile of Comirnaty Omicron KP.2 was similar to the overall Comirnaty safety profile. The most frequent adverse reactions in participants were injection site pain (&gt; 50%), fatigue (&gt;40%), headache and myalgia (&gt;20%).
+
+<div style=\"page-break-after: always\"></div>
+
+Tabulated list of adverse reactions from clinical studies of Comirnaty and post-authorisation experience of Comirnaty in individuals 6 months of age and older
+
+Adverse reactions observed during clinical studies and post-authorisation experience are listed below according to the following frequency categories: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1 000 to &lt; 1/100), Rare (≥ 1/10 000 to &lt; 1/1 000), Very rare (&lt; 1/10 000), Not known (cannot be estimated from the available data).
+
+Table 2. Adverse reactions from Comirnaty clinical trials and Comirnaty post-authorisation experience in individuals 6 months of age and older
+
+| System Organ Class                                   | Frequency   | Adverse reactions                                                                                          |
+|------------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------|
+| Blood and lymphatic system disorders                 | Common      | Lymphadenopathy a                                                                                          |
+| Immune system disorders                              | Uncommon    | Hypersensitivity reactions (e.g. rash b , pruritus, urticaria c , angioedema c )                           |
+| Immune system disorders                              | Not known   | Anaphylaxis                                                                                                |
+| Metabolism and nutrition disorders                   | Uncommon    | Decreased appetite d                                                                                       |
+| Psychiatric disorders                                | Very common | Irritability e                                                                                             |
+| Psychiatric disorders                                | Uncommon    | Insomnia                                                                                                   |
+| Nervous system disorders                             | Very common | Headache; drowsiness e                                                                                     |
+| Nervous system disorders                             | Uncommon    | Dizziness g ; lethargy                                                                                     |
+| Nervous system disorders                             | Rare        | Acute peripheral facial paralysis f                                                                        |
+| Nervous system disorders                             | Not known   | Paraesthesia g ; hypoaesthesia g                                                                           |
+| Cardiac disorders                                    | Very rare   | Myocarditis g ; pericarditis g                                                                             |
+| Gastrointestinal disorders                           | Very common | Diarrhoea g                                                                                                |
+| Gastrointestinal disorders                           | Common      | Nausea; vomiting g,m                                                                                       |
+| Skin and subcutaneous tissue disorder                | Uncommon    | Hyperhidrosis; night sweats                                                                                |
+| Skin and subcutaneous tissue disorder                | Not known   | Erythema multiforme g                                                                                      |
+| Musculoskeletal and connective tissue disorders      | Very common | Arthralgia; myalgia                                                                                        |
+| Musculoskeletal and connective tissue disorders      | Uncommon    | Pain in extremity h                                                                                        |
+| Reproductive system and breast disorders             | Not known   | Heavy menstrual bleeding l                                                                                 |
+| General disorders and administration site conditions | Very common | Injection site pain h ; injection site tenderness e ; fatigue; chills; pyrexia i ; injection site swelling |
+| General disorders and administration site conditions | Common      | Injection site redness k                                                                                   |
+| General disorders and administration site conditions | Uncommon    | Asthenia; malaise; injection site pruritus                                                                 |
+| General disorders and administration site conditions | Not known   | Extensive swelling of vaccinated limb g ; facial swelling j                                                |
+
+- a. In participants 5 years of age and older, a higher frequency of lymphadenopathy was reported after a booster (≤ 2.8%) dose than after primary (≤ 0.9%) doses of the vaccine.
+- b. The frequency category for rash was common in participants 6 to 23 months of age.
+- c. The frequency category for urticaria and angioedema was rare.
+- d. The frequency category for decreased appetite was very common in participants 6 to 23 months of age.
+- e. Irritability, injection site tenderness, and drowsiness pertain to participants 6 to 23 months of age.
+- f. Through the clinical trial safety follow-up period to 14 November 2020, acute peripheral facial paralysis (or palsy) was reported by four participants in the COVID-19 mRNA Vaccine group. Onset was Day 37 after Dose 1 (participant did not receive Dose 2) and Days 3, 9, and 48 after Dose 2. No cases of acute peripheral facial paralysis (or palsy) were reported in the placebo group.
+- g. Adverse reaction determined post-authorisation.
+- h. Refers to vaccinated arm.
+- i. A higher frequency of pyrexia was observed after the second dose compared to the first dose.
+- j. Facial swelling in vaccine recipients with a history of injection of dermatological fillers has been reported in the post-marketing phase.
+- k. Injection site redness occurred at a higher frequency (very common) in participants 6 months to 11 years of age and in immunocompromised participants 2 years of age and older.
+- l. Most cases appeared to be non-serious and temporary in nature.
+
+<div style=\"page-break-after: always\"></div>
+
+- m. The frequency category for vomiting was very common in pregnant women 18 years of age and older and in immunocompromised participants 2 to 18 years of age.
+
+## Special populations
+
+## Infants born to pregnant participants - after 2 doses of Comirnaty
+
+Study C4591015 (Study 9), a Phase 2/3, placebo-controlled study, evaluated a total of 346 pregnant participants who received Comirnaty (n = 173) or placebo (n = 173). Infants (Comirnaty n = 167 or placebo n = 168) were evaluated up to 6 months. No safety concerns were identified that were attributable to maternal vaccination with Comirnaty.
+
+## Immunocompromised participants (adults and children)
+
+In study C4591024 (Study 10), a total of 124 immunocompromised participants 2 years of age and older received Comirnaty (see section 5.1).
+
+## Safety with concomitant vaccine administration
+
+## Concomitant administration with seasonal influenza vaccine
+
+In Study 8, a Phase 3 study, participants 18 through 64 years of age who received Comirnaty coadministered with seasonal inactivated influenza vaccine (SIIV), quadrivalent followed 1 month later by placebo, were compared to participants who received an inactivated influenza vaccine with placebo followed 1 month later by Comirnaty alone (n = 553 to 564 participants in each group).
+
+## Concomitant administration with pneumococcal conjugate vaccine
+
+In Study 11 (B7471026), a Phase 3 study, participants 65 years of age and older who received a booster dose of Comirnaty coadministered with 20-valent pneumococcal conjugate vaccine (20vPNC) (n = 187) were compared to participants who received Comirnaty alone (n = 185).
+
+## Concomitant administration with an unadjuvanted recombinant protein RSV vaccine or with an unadjuvanted recombinant protein RSV vaccine and a high dose influenza vaccine
+
+In Study 12 (C5481001), a Phase 1/2 study, participants 65 years of age and older who received Comirnaty Original/Omicron BA.4-5 and RSV vaccine coadministered in one arm plus high dose quadrivalent influenza vaccine (QIV) (n = 158) or placebo (n = 157) in the opposite arm were compared to participants who received the individual vaccines given with placebo.
+
+## Description of selected adverse reactions
+
+## Myocarditis and pericarditis
+
+The increased risk of myocarditis after vaccination with Comirnaty is highest in younger males (see section 4.4).
+
+Two large European pharmacoepidemiological studies have estimated the excess risk in younger males following the second dose of Comirnaty. One study showed that in a period of 7 days after the second dose there were about 0.265 (95% CI: 0.255 - 0.275) extra cases of myocarditis in 12-29 year old males per 10 000 compared to unexposed persons. In another study, in a period of 28 days after the second dose there were 0.56 (95% CI: 0.37 - 0.74) extra cases of myocarditis in 16-24 year old males per 10 000 compared to unexposed persons.
+
+Limited data indicate that the risk of myocarditis and pericarditis after vaccination with Comirnaty in children aged 5 to 11 years seems lower than in ages 12 to 17 years.
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+<div style=\"page-break-after: always\"></div>
+
+## 4.9 Overdose
+
+There have been reports of higher than recommended doses of Comirnaty in clinical trials and post -authorisation experience. In general, adverse events reported with overdoses have been similar to the known adverse reaction profile of Comirnaty.
+
+In the event of overdose, monitoring of vital functions and possible symptomatic treatment is recommended.
+
+## 5. PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: vaccines, viral vaccines, ATC code: J07BN01
+
+## Mechanism of action
+
+The nucleoside modified messenger RNA in Comirnaty is formulated in lipid nanoparticles, which enable delivery of the non-replicating RNA into host cells to direct transient expression of the SARS-CoV-2 S antigen. The mRNA codes for membrane-anchored, full-length S with two point mutations within the central helix. Mutation of these two amino acids to proline locks S in an antigenically preferred prefusion conformation. The vaccine elicits both neutralising antibody and cellular immune responses to the spike (S) antigen, which may contribute to protection against COVID-19.
+
+## Efficacy
+
+## Omicron-adapted Comirnaty
+
+Immunogenicity in participants 6 months to 23 months of age - after 2 doses of Comirnaty Omicron XBB.1.5 in vaccine-naïve individuals
+
+In an analysis of a subset from Study 6, 367 participants 6 months to 23 months of age who received 2 doses of Comirnaty Omicron XBB.1.5 10 mcg were compared to 234 participants, 6 months to 23 months of age, who received three 3 mcg doses of Comirnaty Omicron XBB.1.5. In participants 6 months to 23 months of age who received 2 doses of Comirnaty 10 mcg and participants 6 months to 23 months of age who received 3 doses of Comirnaty 3 mcg, 64.6% and 64.5% were positive for SARS -CoV-2 at baseline, respectively.
+
+The primary immunobridging analyses compared the geometric mean titres (using GMR) and the seroresponse rates in the participants receiving two 10 mcg doses to participants receiving three 3 mcg doses. The immunobridging criteria were met for both the GMR and the seroresponse rates (Table 3).
+
+<div style=\"page-break-after: always\"></div>
+
+Table 3. Geometric mean ratio and difference in percentages of participants with seroresponse - Study 6 Substudy A, Phase 2/3 Group 1 participants (1 month after Dose 2) to Group 3 participants (1 month after Dose 3) - evaluable immunogenicity population
+
+|                                                                  | Study 6 SSA Group 1 6 months to 23 months of age Comirnaty (Omicron XBB.1.5) 10 mcg   | Study 6 SSA Group 1 6 months to 23 months of age Comirnaty (Omicron XBB.1.5) 10 mcg   | Study 6 SSA Group 3 6 months to 23 months of age Comirnaty (Omicron XBB.1.5) 3 mcg   | Study 6 SSA Group 3 6 months to 23 months of age Comirnaty (Omicron XBB.1.5) 3 mcg   | Study 6 SSA 6 months to 23 months of age Comirnaty (Omicron XBB.1.5) 10 mcg / 3 mcg   | Study 6 SSA 6 months to 23 months of age Comirnaty (Omicron XBB.1.5) 10 mcg / 3 mcg   |
+|------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| SARS-CoV-2 neutralisation assay Omicron XBB.1.5 - NT50 (titre) a | n b                                                                                   | GMT c (95% CI c )                                                                     | n b                                                                                  | GMT c (95% CI c )                                                                    | GMR d (95%                                                                            | CI d )                                                                                |
+| Geometric mean 50% neutralising titre (GMT)                      | 367                                                                                   | 8 831.8 (7 785.3, 10 018.9)                                                           | 234                                                                                  | 6 026.8 (5 192.4, 6 995.2)                                                           | 1.51 (1.25, 1.82) e                                                                   | 1.51 (1.25, 1.82) e                                                                   |
+| Seroresponse rate (%) for 50% neutralising titre                 | N f                                                                                   | n g (%) (95% CI h )                                                                   | N f                                                                                  | n g (%) (95% CI h )                                                                  | Difference % i                                                                        | (95% CI j )                                                                           |
+| Seroresponse rate (%) for 50% neutralising titre                 | 352                                                                                   | 335 (95.2) (92.4, 97.2)                                                               | 224                                                                                  | 211 (94.2) (90.3, 96.9)                                                              | 1.28                                                                                  | (-2.69, 5.26) k                                                                       |
+
+Abbreviations: GMR = geometric mean ratio; GMT = geometric mean titre; LLOQ = lower limit of quantitation; NT50 = 50% neutralising titre; SARS-CoV-2 = severe acute respiratory syndrome coronavirus 2.
+
+Note: Seroresponse is defined as achieving a ≥ 4-fold rise from baseline. If the baseline measurement is below the LLOQ, a postvaccination assay result ≥ 4 × LLOQ is considered a seroresponse.
+
+- a. SARS-CoV-2 NT50 were determined using a validated 384-well assay platform (Omicron subvariant XBB.1.5).
+- b. n = Number of participants with valid and determinate assay results for the specified assay at the given sampling time point.
+- c. GMTs and 2-sided 95% CIs were calculated by exponentiating the mean logarithm of the titres and the corresponding CIs (based on the Student t distribution). Assay results below the LLOQ were set to 0.5 × LLOQ.
+- d. GMRs and 2-sided 95% CIs were calculated by exponentiating the difference of LS Means for the assay (Group 1 - Group 3) and the corresponding CIs based on the linear regression model with baseline log transformed neutralising titres, postbaseline infection status and vaccine group as covariates.
+- e. Noninferiority based on GMR is declared if the lower limit of the 2-sided 95% CI is &gt; 0.67, and the point estimate of the GMR is ≥ 0.8.
+- f. N = number of participants with valid and determinate assay results for the specified assay both before vaccination and at the given sampling time point. This value is the denominators for the percentage calculations.
+- g. n = Number of participants with seroresponse for the given assay at the given sampling time point.
+- h. Exact 2-sided 95% CI, based on the Clopper and Pearson method.
+- i. Adjusted difference in proportions based on the Miettinen and Nurminen method stratified by baseline neutralising titr e category (&lt; median, ≥ median), expressed as a percentage (Group 1 - Group 3). The median of baseline neutralising titres was calculated based on the pooled data in 2 comparator groups of all participants.
+- j. 2-Sided 95% CI, based on the Miettinen and Nurminen method for the difference in proportions stratified by baseline neutralising titr e category (&lt; median, ≥ median), expressed as a percentage.
+- k. Noninferiority based on seroresponse rate difference is declared if the lower limit of the 2-sided 95% CI for the difference in percentages of participants with seroresponse is &gt; -10%.
+
+## Immunogenicity in participants 6 months to 23 months of age - after 3 doses of Comirnaty and Comirnaty Original/Omicron BA.4-5 in vaccine-naïve individuals
+
+In an analysis of Study 6 (Phase 1), 57 participants 6 months to 23 months of age in the evaluable immunogenicity population received a 3 -dose series of Comirnaty Original/Omi BA.4/BA.5 of 3 mcg (n=20), 6 mcg (n=19), or 10 mcg (n=18) administered at 0, 3, and 11 weeks. Immunogenicity data after the initial 3-dose series from these groups were descriptively compared for reference strain and Omicron BA.4/BA.5 against a historical comparator group where participants 6 months to 4 years of age received 3 doses of Comirnaty Original, monovalent 3 mcg on a similar schedule.
+
+<div style=\"page-break-after: always\"></div>
+
+Among participants in the evaluable immunogenicity population, the observed GMTs against Omicron BA.4/BA.5 and reference strain were generally similar across the 3 mcg, 6 mcg, and 10 mcg at 1 -month post-Dose 2 and 1-month post-Dose 3. Participants demonstrated high rates of seroresponse (≥ 92.9% to the Omicron BA.4/BA.5 and reference strains, respectively) across the 3 mcg, 6 mcg, or 10 mcg groups. Seroresponse rates increased with dose level, with the highest rates observed in the 6 mcg and 10 mcg groups.
+
+## Immunogenicity in participants 2 to 4 years of age - after a single dose of Comirnaty Omicron XBB.1.5 in vaccine-naïve individuals
+
+In an analysis of a subset from Study 6, 470 participants 2 to 4 years of age who received a single 10 mcg dose of Comirnaty Omicron XBB.1.5 were compared to 234 participants 6 months to 23 months of age, without evidence of SARS-CoV-2 infection, who received three 3 mcg doses of Comirnaty Omicron XBB.1.5. In participants 2 to 4 years of age who received a single 10 mcg dose of Comirnaty and participants 6 months to 23 months of age, who received three 3 mcg doses of Comirnaty, 93.4% and 64.5% were positive for SARS -CoV-2 at baseline, respectively.
+
+The primary immunobridging analyses compared the geometric mean titres (using GMR) and the seroresponse rates in the participants 2 to 4 years of age receiving a single 10 mcg dose to participants 6 months to 23 months of age without evidence of SARS-CoV-2 infection receiving three 3 mcg doses. The immunobridging criterion was met for the GMR however the statistical criterion for the seroresponse rate (SRR) was marginally not met. The lower limit of the 2-sided 95% CI for the difference in the percentages of participants with seroresponse is &lt; -10% (-11.92). (Table 4).
+
+Table 4. Geometric mean ratio and difference in percentages of participants with seroresponse - Study 6 Substudy A, Phase 2/3 Group 4 participants (1 month after Dose 1) to Group 3 participants (1 month after Dose 3) - evaluable immunogenicity population
+
+|                                                                  | Study 6 SSA Group 4 2 to 4 years of age Comirnaty (Omicron XBB.1.5) 10 mcg   | Study 6 SSA Group 4 2 to 4 years of age Comirnaty (Omicron XBB.1.5) 10 mcg   | Study 6 SSA Group 3 6 months to 23 months of age Comirnaty (Omicron XBB.1.5) 3 mcg   | Study 6 SSA Group 3 6 months to 23 months of age Comirnaty (Omicron XBB.1.5) 3 mcg   | Study 6 SSA 2 to 4 years Comirnaty (Omicron XBB.1.5) 10 mcg / 6 months to 2 years Comirnaty (Omicron XBB.1.5) 3 mcg   | Study 6 SSA 2 to 4 years Comirnaty (Omicron XBB.1.5) 10 mcg / 6 months to 2 years Comirnaty (Omicron XBB.1.5) 3 mcg   |
+|------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| SARS-CoV-2 neutralisation assay Omicron XBB.1.5 - NT50 (titre) a | n b                                                                          | GMT c (95% CI c )                                                            | n b                                                                                  | GMT c (95% CI c )                                                                    | GMR d (95% CI d )                                                                                                     | GMR d (95% CI d )                                                                                                     |
+| Geometric mean 50% neutralising titre (GMT)                      | 470                                                                          | 6 620.0 (5 802.8, 7 552.3)                                                   | 53                                                                                   | 5 895.4 (4 671.2, 7 440.5)                                                           | 1.12 (0.86, 1.47) e                                                                                                   | 1.12 (0.86, 1.47) e                                                                                                   |
+| Seroresponse rate (%) for 50% neutralising titre                 | N f                                                                          | n g (%) (95% CI h )                                                          | N f                                                                                  | n g (%) (95% CI h )                                                                  | Difference % i                                                                                                        | (95% CI j )                                                                                                           |
+| Seroresponse rate (%) for 50% neutralising titre                 | 458                                                                          | 417 (91.0) (88.1, 93.5)                                                      | 53                                                                                   | 53 (100.0) (93.3, 100.0)                                                             | -8.95                                                                                                                 | (-11.92, -2.12) k                                                                                                     |
+
+Abbreviations: GMR = geometric mean ratio; GMT = geometric mean titre; LLOQ = lower limit of quantitation; NT50 = 50% neutralising titre; SARS-CoV-2 = severe acute respiratory syndrome coronavirus 2.
+
+Note: Having no evidence of past SARS-CoV-2 infection up to 1-month post-Dose 3 for Group 3 participants was defined as having a negative N-binding antibody [serum] result at Dose 1 visit and 1-month post-Dose 3 visit; a negative NAAT [nasal swab] result at Dose 1, Dose 2 and Dose 3 visit, and any unscheduled visit up to the 1-month post-Dose 3 blood sample collection; and had no medical history of COVID-19.
+
+Note: Seroresponse is defined as achieving a ≥ 4-fold rise from baseline. If the baseline measurement is below the LLOQ, a postvaccination assay result ≥ 4 × LLOQ is considered a seroresponse.
+
+- a. SARS-CoV-2 NT50 were determined using a validated 384-well assay platform (Omicron subvariant XBB.1.5).
+- b. n = Number of participants with valid and determinate assay results for the specified assay at the given sampling time point.
+
+<div style=\"page-break-after: always\"></div>
+
+- c. GMTs and 2-sided 95% CIs were calculated by exponentiating the mean logarithm of the titres and the corresponding CIs (based on the Student t distribution). Assay results below the LLOQ were set to 0.5 × LLOQ.
+- d. GMRs and 2-sided 95% CIs were calculated by exponentiating the mean difference of the logarithms of the titres (Group 4: 2 to 4 years - Group 3: 6 months to 23 months) and the corresponding CI (based on the Student t distribution).
+- e. Noninferiority based on GMR is declared if the lower limit of the 2-sided 95% CI is &gt; 0.67, and the point estimate of the GMR is ≥ 0.8.
+- f. N = number of participants with valid and determinate assay results for the specified assay both before vaccination and at the given sampling time point. This value is the denominators for the percentage calculations.
+- g. n = Number of participants with seroresponse for the given assay at the given sampling time point.
+- h. Exact 2-sided 95% CI, based on the Clopper and Pearson method.
+- i. Difference in proportions, expressed as a percentage (Group 4: 2 to 4 years - Group 3: 6 months to 23 months).
+- j. 2-Sided 95% CI, based on the Miettinen and Nurminen method for the difference in proportions, expressed as a percentage.
+- k. Noninferiority based on seroresponse rate difference is declared if the lower limit of the 2-sided 95% CI for the difference in percentages of participants with seroresponse is &gt; -10%.
+
+## Immunogenicity in participants 5 to 11 years of age - after a single dose of Comirnaty Omicron XBB.1.5
+
+In an analysis of a subset from Study 6, 302 participants who received a single 10 mcg dose of Comirnaty XBB.1.5 in COVID-19 vaccine naïve participants 5 to 11 years of age was compared to COVID-19 vaccine-experienced participants, 12 to 82 years of age, who received a single 30 mcg dose of Comirnaty XBB.1.5 in a subset of Study 13 Substudy A. In COVID-19 vaccine naïve participants 5 to 11 years of age who received a single dose of Comirnaty 10 mcg and COVID -19 vaccine-experienced participants, 12 to 82 years of age who received a single 30 mcg dose of Comirnaty, 98.9% and 99.3% were positive for SARS -CoV-2 at baseline, respectively.
+
+The primary immunobridging analyses compared the geometric mean titres (using a GMR) and the seroresponse (defined as achieving at least 4-fold rise from baseline) rates in the vaccine -naïve participants 5 through 11 years of age to COVID-19 vaccine-experienced participants 12 years of age and older. The immunobridging criteria were met for both the GMR and the seroresponse rates (Table 5).
+
+<div style=\"page-break-after: always\"></div>
+
+Table 5. Geometric mean ratio and difference in percentages of participants with seroresponse - Study 6 Substudy E to Study 13 Substudy A participants 1 month after the study vaccination - evaluable immunogenicity population
+
+|                                                                  | Study 6 SSE 5 to 11 years of age Comirnaty (Omicron XBB.1.5) 10 mcg   | Study 6 SSE 5 to 11 years of age Comirnaty (Omicron XBB.1.5) 10 mcg   | Study 13 SSA ≥12 years of age Comirnaty (Omicron XBB.1.5) 30 mcg   | Study 13 SSA ≥12 years of age Comirnaty (Omicron XBB.1.5) 30 mcg   | Study 6 SSE 5 to 11 years Comirnaty (Omicron XBB.1.5) 10 mcg / Study 13 SSA ≥12 years of age Comirnaty (Omicron XBB.1.5) 30 mcg   | Study 6 SSE 5 to 11 years Comirnaty (Omicron XBB.1.5) 10 mcg / Study 13 SSA ≥12 years of age Comirnaty (Omicron XBB.1.5) 30 mcg   |
+|------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| SARS-CoV-2 neutralisation assay Omicron XBB.1.5 - NT50 (titre) a | n b                                                                   | GMT c (95% CI c )                                                     | n b                                                                | GMT c (95% CI c )                                                  | GMR d (95% CI d )                                                                                                                 | GMR d (95% CI d )                                                                                                                 |
+| Geometric mean 50% neutralising titre (GMT)                      | 285                                                                   | 5 930.5 (5 283.8, 6 656.4)                                            | 302                                                                | 4 006.4 (3 438.3, 4 668.4)                                         | 1.81 (1.51, 2.16) e                                                                                                               | 1.81 (1.51, 2.16) e                                                                                                               |
+| Seroresponse rate for 50% neutralising                           | N f                                                                   | n g (%) (95% CI h )                                                   | N f                                                                | n g (%) (95% CI h )                                                | Difference % i                                                                                                                    | (95% CI j )                                                                                                                       |
+| titre                                                            | 285                                                                   | 253 (88.8) (84.5, 92.2)                                               | 300                                                                | 231 (77.0) (71.8, 81.6)                                            | 8.97                                                                                                                              | (3.91, 14.02) k                                                                                                                   |
+
+Abbreviations: GMR = geometric mean ratio; GMT = geometric mean titre; LLOQ = lower limit of quantitation; NT50 = 50% neutralising titre; SARS-CoV-2 = severe acute respiratory syndrome coronavirus 2.
+
+Note: Seroresponse is defined as achieving a ≥ 4-fold rise from baseline. If the baseline measurement is below the LLOQ, a postvaccination assay result ≥ 4 × LLOQ is considered a seroresponse.
+
+- a. SARS-CoV-2 NT50 were determined using a validated 384-well assay platform (Omicron subvariant XBB.1.5).
+- b. n = Number of participants with valid and determinate assay results for the specified assay at the given sampling time point.
+- c. GMTs and 2-sided 95% CIs were calculated by exponentiating the mean logarithm of the titres and the corresponding CIs (based on the Student t distribution). Assay results below the LLOQ were set to 0.5 × LLOQ.
+- d. GMRs and 2-sided 95% CIs were calculated by exponentiating the difference of LS means for the assay (Study 6, 5 through 11 years of age - Study 13, 12 years of age and older) and the corresponding CIs based on the linear regression model with baseline log transformed neutralising titres, postbaseline infection status and vaccine group as covariates.
+- e. Immunobridging is declared if the lower bound of the 2-sided 95% CI for the GMR is greater than 0.67 and the point estimate of the GMR is ≥ 0.8.
+- f. N = number of participants with valid and determinate assay results for the specified assay both before vaccination and at the given sampling time point. This value is the denominators for the percentage calculations.
+- g. n = Number of participants with seroresponse for the given assay at the given sampling time point.
+- h. Exact 2-sided 95% CI, based on the Clopper and Pearson method.
+- i. Adjusted difference in proportions based on the Miettinen and Nurminen method stratified by baseline neutralising titre category (&lt; median, ≥ median), expressed as a percentage (Study 6, 5 through 11 years of age - Study 13, 12 years of age and older). The median of baseline neutralising titres was calculated based on the pooled data in 2 comparator groups.
+- j. 2-Sided 95% CI, based on the Miettinen and Nurminen method for the difference in proportions stratified by baseline neutralizing titre category (&lt; median, ≥ median), expressed as a percentage.
+- k. Immunobridging is declared if the lower bound of the 2-sided 95% CI for the adjusted difference in percentage of participants with seroresponse is greater than -10.0%.
+
+<div style=\"page-break-after: always\"></div>
+
+Immunogenicity in children 5 to 11 years of age (i.e. 5 to less than 12 years of age) - after the booster (fourth dose) with Comirnaty and Comirnaty Original/Omicron BA.4-5
+
+In an analysis of a subset from Study 6, 103 participants 5 to 11 years of age who had previously received a 2-dose primary series and booster dose with Comirnaty received a booster (fourth dose) of Comirnaty Original/Omicron BA.4-5. Results include immunogenicity data from a comparator subset of participants 5 to 11 years of age in Study 3 who received 3 doses of Comirnaty. In participants 5 to 11 years of age who received a fourth dose of Comirnaty Original/Omicron BA.4-5 and participants 5 to 11 years of age who received a third dose of Comirnaty, 57.3% and 58.4% were positive for SARS-CoV-2 at baseline, respectively.
+
+The immune response 1 month after a booster dose (fourth dose), Comirnaty Original/Omicron BA.4-5 elicited generally similar Omicron BA.4/BA.5-specific neutralising titres compared with the titres in the comparator group who received 3 doses of Comirnaty. Comirnaty Original/Omicron BA.4-5 also elicited similar reference strain-specific titres compared with the titres in the comparator group.
+
+The vaccine immunogenicity results after a booster dose in participants 5 to 11 years of age are presented in Table 6.
+
+Table 6. Study 6 - Geometric mean ratio and Geometric mean titres - participants with or without evidence of infection - 5 to 11 years of age - evaluable immunogenicity population
+
+|                                   |                  | Vaccine Group (as Assigned/Randomised)                                                | Vaccine Group (as Assigned/Randomised)                                                | Vaccine Group (as Assigned/Randomised)                   | Vaccine Group (as Assigned/Randomised)                   | Vaccine Group (as Assigned/Randomised)                          |
+|-----------------------------------|------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------|
+| SARS-CoV-2 neutralisation         | Sampling time    | Study 6 Comirnaty (Original/Omicron BA.4/BA.5) 10 mcg Dose 4 and 1 Month After Dose 4 | Study 6 Comirnaty (Original/Omicron BA.4/BA.5) 10 mcg Dose 4 and 1 Month After Dose 4 | Study 3 Comirnaty 10 mcg Dose 3 and 1 Month After Dose 3 | Study 3 Comirnaty 10 mcg Dose 3 and 1 Month After Dose 3 | Study 6 Comirnaty (Original/Omicron BA.4/BA.5)/Comirnaty 10 mcg |
+| assay                             | point a          | n b                                                                                   | GMT c (95% CI c )                                                                     | n b                                                      | GMT c (95% CI c )                                        | GMR d (95% CI d )                                               |
+| Omicron BA.4-5 - NT50 e           | Pre- vaccination | 102                                                                                   | 488.3 (361.9, 658.8)                                                                  | 112                                                      | 248.3 (187.2, 329.5)                                     | -                                                               |
+| (titre)                           | 1 month          | 102                                                                                   | 2 189.9 (1 742.8, 2 751.7)                                                            | 113                                                      | 1 393.6 (1 175.8, 1 651.7)                               | 1.12 (0.92, 1.37)                                               |
+| Reference strain - NT50 (titre) e | Pre- vaccination | 102                                                                                   | 2 904.0 (2 372.6, 3 554.5)                                                            | 113                                                      | 1 323.1 (1 055.7, 1 658.2)                               | -                                                               |
+| Reference strain - NT50 (titre) e | 1 month          | 102                                                                                   | 8 245.9 (7 108.9, 9 564.9)                                                            | 113                                                      | 7 235.1 (6 331.5, 8 267.8)                               | -                                                               |
+
+Abbreviations: CI = confidence interval; GMR = geometric mean ratio; GMT = geometric mean titre; LLOQ = lower limit of quantitation; LS = least square; N-binding = SARS-CoV-2 nucleoprotein-binding;
+
+NT50 = 50% neutralising titre; SARS-CoV-2 = severe acute respiratory syndrome coronavirus 2.
+
+- a. Protocol-specified timing for blood sample collection.
+- b. n = Number of participants with valid and determinate assay results for the specified assay at the given sampling time point.
+- c. GMTs and 2-sided 95% CIs were calculated by exponentiating the mean logarithm of the titres and the corresponding CIs (based on the Student t distribution). Assay results below the LLOQ were set to 0.5 × LLOQ.
+- d. GMRs and 2-sided CIs were calculated by exponentiating the difference of LS Means for the assay and the corresponding CIs based on analysis of log-transformed assay results using a linear regression model with baseline log-transformed neutralising titres, postbaseline infection status, and vaccine group as covariates.
+- e. SARS-CoV-2 NT50 were determined using a validated 384-well assay platform (original strain [USA-WA1/2020, isolated in January 2020] and Omicron B.1.1.529 subvariant BA.4/BA.5).
+
+## Immunogenicity in vaccine-naïve participants 12 years of age and older - after a single dose of Comirnaty Omicron XBB.1.5
+
+In an analysis of a subset from Study 13, 302 vaccine-naïve participants 12 years of age and older who were considered to be SARS-CoV-2 positive at baseline and who received 1 dose of Comirnaty Omicron XBB.1.5 were compared to participants who received Comirnaty Omicron XBB.1.5 after at least 3 doses of an mRNA COVID-19 vaccine. The evaluable immunogenicity population who were vaccine-naïve had a median age of 36.0 years and comprised of 62.6% White and 50.7% Hispanic/Latino participants. The evaluable immunogenicity population who were vaccine-experienced (n=296) had a median age of 55 years and comprised of 79.4% White and 18.6% Hispanic/Latino.
+
+<div style=\"page-break-after: always\"></div>
+
+Neutralizing titres against Omicron XBB.1.5 increased from baseline to 1 month after study vaccination and were greater in participants receiving Comirnaty Omicron XBB.1.5 as a single dose compared with participants who received Comirnaty Omicron XBB.1.5 after at least 3 doses of an mRNA COVID-19 vaccine. Noninferiority was met with respect to the geometric mean ratio (GMR) of Omicron XBB.1.5-neutralizing titres, and the difference in seroresponse to the XBB.1.5 strain in vaccine-naïve participants compared to participants who received Comirnaty Omicron XBB.1.5 after at least 3 doses of an mRNA COVID-19 vaccine (Table 7).
+
+Table 7. Geometric mean ratio and difference in percentages of participants with seroresponse - Study 13 vaccine-naïve and subset of vaccine-experienced - evaluable immunogenicity population
+
+|                                                                  |                       | Vaccine group (as assigned)                    | Vaccine group (as assigned)                    | Vaccine group (as assigned)                          | Vaccine group (as assigned)                          | Group comparison                                                                                      | Group comparison                                                                                      |
+|------------------------------------------------------------------|-----------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+|                                                                  |                       | Vaccine-naïve Comirnaty Omicron XBB.1.5 30 mcg | Vaccine-naïve Comirnaty Omicron XBB.1.5 30 mcg | Vaccine-experienced Comirnaty Omicron XBB.1.5 30 mcg | Vaccine-experienced Comirnaty Omicron XBB.1.5 30 mcg | Vaccine-naïve Comirnaty Omicron XBB.1.5 30 mcg / Vaccine-experienced Comirnaty Omicron XBB.1.5 30 mcg | Vaccine-naïve Comirnaty Omicron XBB.1.5 30 mcg / Vaccine-experienced Comirnaty Omicron XBB.1.5 30 mcg |
+| SARS-CoV-2 neutralization assay Omicron XBB.1.5 - NT50 (titre) e | Sampling time point a | n b                                            | GMT c (95% CI c )                              | n b                                                  | GMT c (95% CI c )                                    | GMR d (95% CI d )                                                                                     | GMR d (95% CI d )                                                                                     |
+| Geometric mean 50% neutralising titre (GMT)                      | 1 month               | 299                                            | 4 373.4 (3 757.1, 5 090.9)                     | 296                                                  | 2 915.7 (2 462.4, 3 452.5)                           | 1.93 (1.52, f                                                                                         | 2.44)                                                                                                 |
+| Geometric mean 50% neutralising titre (GMT)                      | Sampling time point a | N g                                            | n h (%) (95% CI i )                            | N g                                                  | n h (%) (95% CI i )                                  | Difference % j                                                                                        | (95% CI k )                                                                                           |
+| Seroresponse rate (%) for 50% neutralising titre                 | 1 month               | 298                                            | 253 (84.9) (80.3, 88.8)                        | 295                                                  | 218 (73.9) (68.5, 78.8)                              | 7.31                                                                                                  | (1.34, 13.28) l                                                                                       |
+
+Abbreviations: CI = confidence interval; GMR = geometric mean ratio; GMT = geometric mean titre; LLOQ = lower limit of quantitation; NT50 = 50% neutralizing titre; SARS-CoV-2 = severe acute respiratory syndrome coronavirus 2.
+
+- a. Protocol-specified timing for blood sample collection.
+- b. n = Number of participants with valid and determinate assay results for the specified assay at both the pre -vaccination time point and the given sampling time point.
+- c. GMTs and 2-sided 95% CIs were calculated by exponentiating the mean logarithm of the titres and the corresponding CIs (based on the Student t distribution). Assay results below the LLOQ were set to 0.5 × LLOQ.
+- d. GMRs and the corresponding 2-sided 95% CIs were calculated by exponentiating the difference in least square means and the corresponding CIs based on a linear regression model with baseline assay results (log scale), age, and vaccine group as covariates.
+- e. SARS-CoV-2 NT50 were determined using a validated 384-well assay platform (Omicron subvariant XBB.1.5).
+- f. Noninferiority is declared if the lower bound of the 2-sided 95% CI for the GMR is greater than 0.67.
+- g. N = number of participants with valid and determinate assay results for the specified assay at both the pre -vaccination time point and the given sampling time point. These values are the denominators for the percentage calculations.
+- h. n = Number of participants with a seroresponse for the given assay at the given sampling time point.
+- i. Exact 2-sided CI, based on the Clopper and Pearson method.
+- j. Difference in proportions, expressed as a percentage.
+- k. 2-Sided CI, based on the Miettinen and Nurminen method stratified by baseline neutralizing titre category (&lt; median, ≥ median) and age group (&lt; median, ≥ median). The median of baseline neutralizing titres and median age was calculated based on the pooled data in 2 comparator groups.
+- l. Noninferiority is declared if the lower bound of the 2-sided 95% CI for the difference in percentages of participants with seroresponse is &gt; -10%.
+
+<div style=\"page-break-after: always\"></div>
+
+## Immunogenicity in participants 12 years of age and older - after a single dose of Comirnaty Omicron JN.1
+
+In an analysis of a subset from Study 13, 212 participants 12 years of age and older who received 1 dose of Comirnaty Omicron JN.1 were compared to 200 participants who received Comirnaty Omicron XBB.1.5 after receiving at least 3 doses of an mRNA COVID-19 vaccine. The evaluable immunogenicity population who received Comirnaty Omicron JN.1 had a median age of 54.5 years and comprised of 69.3% White and 23.1% Hispanic/Latino participants, and 87.3% were positive for SARS-CoV-2 at baseline, and 89.2% had previously received a COVID-19 vaccine.
+
+Neutralizing titres and seroresponse against Omicron JN.1 or Omicron XBB.1.5 in participants receiving Comirnaty Omicron JN.1 or Comirnaty Omicron XBB.1.5 are presented in Table 8.
+
+Table 8. Geometric mean titres and percentage of participants achieving seroresponse Comirnaty JN.1 or Comirnaty XBB.1.5 participants 12 years of age and older -evaluable immunogenicity population
+
+|                                                                    |                       | Comirnaty Omicron JN.1 30 mcg   | Comirnaty Omicron JN.1 30 mcg   | Comirnaty Omicron XBB.1.5 30 mcg   | Comirnaty Omicron XBB.1.5 30 mcg   |
+|--------------------------------------------------------------------|-----------------------|---------------------------------|---------------------------------|------------------------------------|------------------------------------|
+| Geometric mean 50% neutralizing titre (GMT)                        | Sampling time point a | n b                             | GMT c (95% CI c )               | n b                                | GMT c (95% CI c )                  |
+| SARS-CoV-2 neutralisation assay - Omicron JN.1 - NT50 (titre) d    | Pre- vaccination      | 211                             | 190.4 (153.6, 235.9)            | 198                                | 155.5 (126.6, 190.8)               |
+| SARS-CoV-2 neutralisation assay - Omicron JN.1 - NT50 (titre) d    | 1 month               | 212                             | 2203.3 (1855.7, 2616.0)         | 199                                | 1133.8 (950.7, 1352.2)             |
+| SARS-CoV-2 neutralisation assay - Omicron XBB.1.5 - NT50 (titre) e | Pre- vaccination      | 212                             | 290.3 (233.0, 361.6)            | 200                                | 219.2 (177.5, 270.7)               |
+| SARS-CoV-2 neutralisation assay - Omicron XBB.1.5 - NT50 (titre) e | 1 month               | 212                             | 2364.4 (1917.4, 2915.6)         | 200                                | 2848.1 (2341.9, 3463.8)            |
+| Seroresponse rate for 50% neutralising titre                       | Sampling time point a | N f                             | n g (%) (95% CI h )             | N b                                | n g (%) (95% CI h )                |
+| SARS-CoV-2 neutralisation assay - Omicron JN.1 - NT50 (titre) d    | 1 month               | 211                             | 149 (70.6) (64.0, 76.7)         | 197                                | 129 (65.5) (58.4, 72.1)            |
+| SARS-CoV-2 neutralisation assay - Omicron XBB.1.5 - NT50 (titre) e | 1 month               | 212                             | 128 (60.4) (53.5, 67.0)         | 200                                | 164 (82.0) (76.0, 87.1)            |
+
+Abbreviations: GMT = geometric mean titre; LLOQ = lower limit of quantitation; NT50 = 50% neutralizing titre;
+
+SARS-CoV-2 = severe acute respiratory syndrome coronavirus 2.
+
+- a. Protocol-specified timing for blood sample collection.
+- b. n = Number of participants with valid and determinate assay results for the specified assay at the given sampling time point.
+- c. GMTs and 2-sided 95% CIs were calculated by exponentiating the mean logarithm of the titres and the corresponding CIs (based on the Student t distribution). Assay results below the LLOQ were set to 0.5 × LLOQ.
+- d. SARS-CoV-2 NT50 were determined using a validated 384-well assay platform (Omicron subvariant JN.1).
+- e. SARS-CoV-2 NT50 were determined using a validated 384-well assay platform (Omicron subvariant XBB.1.5).
+- f. N = number of participants with valid and determinate assay results for the specified assay at both the prevaccination time point and the given sampling time point. These values are the denominators for the percentage calculations.
+- g. n = Number of participants with a seroresponse for the given assay at the given sampling time point.
+- h. Exact 2-sided CI, based on the Clopper and Pearson method.
+
+## Immunogenicity in participants 12 years of age and older - after a single dose of Comirnaty Omicron KP.2
+
+In an analysis of a subset from Study 13, 100 participants 18 years of age and older who received 1 dose of Comirnaty Omicron KP.2 were compared to 194 participants who received 1 dose of Comirnaty Omicron JN.1. The evaluable immunogenicity population who received Comirnaty Omicron KP.2 had a median age of 55.0 years and comprised of 75.0% White and 15.0% Hispanic/Latino participants, 91.0% were positive for SARS-CoV-2 at baseline, and 90.0% had previously received a COVID-19 vaccine.
+
+Neutralizing titres and seroresponse against Omicron KP.2 and Omicron JN.1 in participants receiving Comirnaty Omicron KP.2 or Comirnaty Omicron JN.1 are presented in Table 9.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 9. Geometric mean titres and percentage of participants achieving seroresponse Comirnaty KP.2 or Comirnaty JN.1 participants 18 years of age and older evaluable immunogenicity population
+
+|                                                                 |                       | Comirnaty Omicron KP.2 30 mcg   | Comirnaty Omicron KP.2 30 mcg   | Comirnaty Omicron JN.1 30 mcg   | Comirnaty Omicron JN.1 30 mcg   |
+|-----------------------------------------------------------------|-----------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| Geometric mean 50% neutralizing titre (GMT)                     | Sampling time point a | n b                             | GMT c (95% CI c )               | n b                             | GMT c (95% CI c )               |
+| SARS-CoV-2 neutralisation assay - Omicron KP.2 - NT50 (titre) d | Pre- vaccination      | 99                              | 207.6 (150.0, 287.4)            | 194                             | 78.3 (64.2, 95.6)               |
+| SARS-CoV-2 neutralisation assay - Omicron KP.2 - NT50 (titre) d | 1 month               | 100                             | 2256.5 (1660.2, 3067.0)         | 194                             | 873.3 (706.1, 1080.2)           |
+| SARS-CoV-2 neutralisation assay - Omicron JN.1 - NT50 (titre) e | Pre- vaccination      | 100                             | 492.5 (359.8, 674.0)            | 194                             | 185.1 (148.1, 231.4)            |
+| SARS-CoV-2 neutralisation assay - Omicron JN.1 - NT50 (titre) e | 1 month               | 100                             | 4319.5 (3280.7, 5687.2)         | 194                             | 2088.6 (1743.9, 2501.5)         |
+| Seroresponse rate for 50% neutralising titre                    | Sampling time point a | N f                             | n g (%) (95% CI h )             | N b                             | n g (%) (95% CI h )             |
+| SARS-CoV-2 neutralisation assay - Omicron KP.2 - NT50 (titre) d | 1 month               | 99                              | 76 (76.8) (67.2, 84.7)          | 194                             | 130 (67.0) (59.9, 73.6)         |
+| SARS-CoV-2 neutralisation assay - Omicron JN.1 - NT50 (titre) e | 1 month               | 100                             | 64 (64.0) (53.8, 73.4)          | 194                             | 137 (70.6) (63.7, 76.9)         |
+
+Abbreviations: GMT = geometric mean titre; LLOQ = lower limit of quantitation; NT50 = 50% neutralizing titre;
+
+SARS-CoV-2 = severe acute respiratory syndrome coronavirus 2.
+
+- a. Protocol-specified timing for blood sample collection.
+- b. n = Number of participants with valid and determinate assay results for the specified assay at the given sampling time point.
+- c. GMTs and 2-sided 95% CIs were calculated by exponentiating the mean logarithm of the titres and the corresponding CIs (based on the Student t distribution). Assay results below the LLOQ were set to 0.5 × LLOQ.
+- d. SARS-CoV-2 NT50 were determined using a validated 384-well assay platform (Omicron subvariant KP.2).
+- e. SARS-CoV-2 NT50 were determined using a validated 384-well assay platform (Omicron subvariant JN.1).
+- f. N = number of participants with valid and determinate assay results for the specified assay at both the prevaccination time point and the given sampling time point. These values are the denominators for the percentage calculations.
+- g. n = Number of participants with a seroresponse for the given assay at the given sampling time point.
+- h. Exact 2-sided CI, based on the Clopper and Pearson method.
+
+## Initially approved Comirnaty vaccine
+
+Study 2 is a multicentre, multinational, Phase 1/2/3 randomised, placebo-controlled, observer-blind dose-finding, vaccine candidate selection and efficacy study in participants 12 years of age and older. Randomisation was stratified by age: 12 to 15 years of age, 16 to 55 years of age, or 56 years of age and older, with a minimum of 40% of participants in the ≥ 56-year stratum. The study excluded participants who were immunocompromised and those who had previous clinical or microbiological diagnosis of COVID-19. Participants with pre-existing stable disease, defined as disease not requiring significant change in therapy or hospitalisation for worsening disease during the 6 weeks before enrolment, were included as were participants with known stable infection with human immunodeficiency virus (HIV), hepatitis C virus (HCV) or hepatitis B virus (HBV).
+
+## Efficacy in participants 16 years of age and older - after 2 doses
+
+In the Phase 2/3 portion of Study 2, based on data accrued through 14 November 2020, approximately 44 000 participants were randomised equally and were to receive 2 doses of the initially approved COVID-19 mRNA Vaccine or placebo. The efficacy analyses included participants that received their second vaccination within 19 to 42 days after their first vaccination. The majority (93.1%) of vaccine recipients received the second dose 19 days to 23 days after Dose 1. Participants are planned to be followed for up to 24 months after Dose 2, for assessments of safety and efficacy against COVID-19. In the clinical study, participants were required to observe a minimum interval of 14 days before and after administration of an influenza vaccine in order to receive either placebo or COVID-19 mRNA Vaccine. In the clinical study, participants were required to observe a minimum interval of 60 days before or after receipt of blood/plasma products or immunoglobulins within through conclusion of the study in order to receive either placebo or COVID-19 mRNA Vaccine.
+
+<div style=\"page-break-after: always\"></div>
+
+The population for the analysis of the primary efficacy endpoint included 36 621 participants 12 years of age and older (18 242 in the COVID-19 mRNA Vaccine group and 18 379 in the placebo group) who did not have evidence of prior infection with SARS-CoV-2 through 7 days after the second dose. In addition, 134 participants were between the ages of 16 to 17 years of age (66 in the COVID-19 mRNA Vaccine group and 68 in the placebo group) and 1 616 participants 75 years of age and older (804 in the COVID-19 mRNA Vaccine group and 812 in the placebo group).
+
+At the time of the primary efficacy analysis, participants had been followed for symptomatic COVID-19 for in total 2 214 person-years for the COVID-19 mRNA Vaccine and in total 2 222 person-years in the placebo group.
+
+There were no meaningful clinical differences in overall vaccine efficacy in participants who were at risk of severe COVID-19 including those with 1 or more comorbidities that increase the risk of severe COVID19 (e.g. asthma, body mass index (BMI) ≥ 30 kg/m 2 , chronic pulmonary disease, diabetes mellitus, hypertension).
+
+The vaccine efficacy information is presented in Table 10.
+
+Table 10. Vaccine efficacy - First COVID-19 occurrence from 7 days after Dose 2, by age subgroup - participants without evidence of infection prior to 7 days after Dose 2 - evaluable efficacy (7 days) population
+
+| First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in participants without evidence of prior SARS-CoV-2 infection*   |
+|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Subgroup                                                                                                             | COVID-19 mRNA Vaccine N a = 18 198 Cases n1 b Surveillance time c (n2 d )                                            | Placebo N a = 18 325 Cases n1 b Surveillance time c (n2 d )                                                          | Vaccine efficacy % (95% CI) e                                                                                        |
+| All participants                                                                                                     | 8 2.214 (17 411)                                                                                                     | 162 2.222 (17 511)                                                                                                   | 95.0 (90.0, 97.9)                                                                                                    |
+| 16 to 64 years                                                                                                       | 7 1.706 (13 549)                                                                                                     | 143 1.710 (13 618)                                                                                                   | 95.1 (89.6, 98.1)                                                                                                    |
+| 65 years and older                                                                                                   | 1 0.508 (3 848)                                                                                                      | 19 0.511 (3 880)                                                                                                     | 94.7 (66.7, 99.9)                                                                                                    |
+| 65 to 74 years                                                                                                       | 1 0.406 (3 074)                                                                                                      | 14 0.406 (3 095)                                                                                                     | 92.9 (53.1, 99.8)                                                                                                    |
+| 75 years and older                                                                                                   | 0 0.102 (774)                                                                                                        | 5 0.106 (785)                                                                                                        | 100.0 (-13.1, 100.0)                                                                                                 |
+
+Note: Confirmed cases were determined by Reverse Transcription-Polymerase Chain Reaction (RT-PCR) and at least 1 symptom consistent with COVID-19 [*Case definition: (at least 1 of) fever, new or increased cough, new or increased shortness of breath, chills, new or increased muscle pain, new loss of taste or smell, sore throat, diarrhoea or vomiting.]
+
+* Participants who had no serological or virological evidence (prior to 7 days after receipt of the last dose) of past SARS-CoV-2 infection (i.e. N-binding antibody [serum] negative at Visit 1 and SARS-CoV-2 not detected by nucleic acid amplification tests (NAAT) [nasal swab] at Visits 1 and 2), and had negative NAAT (nasal swab) at any unscheduled visit prior to 7 days after Dose 2 were included in the analysis.
+- a. N = Number of participants in the specified group.
+- b. n1 = Number of participants meeting the endpoint definition.
+- c. Total surveillance time in 1 000 person-years for the given endpoint across all participants within each group at risk for the endpoint. Time period for COVID-19 case accrual is from 7 days after Dose 2 to the end of the surveillance period.
+- d. n2 = Number of participants at risk for the endpoint.
+- e. Two-sided confidence interval (CI) for vaccine efficacy is derived based on the Clopper and Pearson method adjusted to the surveillance time. CI not adjusted for multiplicity.
+
+<div style=\"page-break-after: always\"></div>
+
+Efficacy of COVID-19 mRNA Vaccine in preventing first COVID-19 occurrence from 7 days after Dose 2 compared to placebo was 94.6% (95% confidence interval of 89.6% to 97.6%) in participants 16 years of age and older with or without evidence of prior infection with SARS-CoV-2.
+
+Additionally, subgroup analyses of the primary efficacy endpoint showed similar efficacy point estimates across genders, ethnic groups, and participants with medical comorbidities associated with high risk of severe COVID-19.
+
+Updated efficacy analyses were performed with additional confirmed COVID-19 cases accrued during blinded placebo-controlled follow-up, representing up to 6 months after Dose 2 in the efficacy population.
+
+The updated vaccine efficacy information is presented in Table 11.
+
+Table 11. Vaccine efficacy - First COVID-19 occurrence from 7 days after Dose 2, by age subgroup - participants without evidence of prior SARS-CoV-2 infection* prior to 7 days after Dose 2 - evaluable efficacy (7 days) population during the placebo-controlled follow-up period
+
+| Subgroup           | COVID-19 mRNA Vaccine N a =20 998 Cases n1 b Surveillance time c (n2 d )   | Placebo N a =21 096 Cases n1 b Surveillance time c (n2 d )   | Vaccine efficacy % (95% CI e )   |
+|--------------------|----------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------|
+| All participants f | 77 6.247 (20 712)                                                          | 850 6.003 (20 713)                                           | 91.3 (89.0, 93.2)                |
+| 16 to 64 years     | 70 4.859 (15 519)                                                          | 710 4.654 (15 515)                                           | 90.6 (87.9, 92.7)                |
+| 65 years and older | 7 1.233 (4 192)                                                            | 124 1.202 (4 226)                                            | 94.5 (88.3, 97.8)                |
+| 65 to 74 years     | 6 0.994 (3 350)                                                            | 98 0.966 (3 379)                                             | 94.1 (86.6, 97.9)                |
+| 75 years and older | 1 0.239 (842)                                                              | 26 0.237 (847)                                               | 96.2 (76.9, 99.9)                |
+
+Note: Confirmed cases were determined by Reverse Transcription-Polymerase Chain Reaction (RT-PCR) and at least 1 symptom consistent with COVID-19 (symptoms included: fever; new or increased cough; new or increased shortness of breath; chills; new or increased muscle pain; new loss of taste or smell; sore throat; diarrhoea; vomiting).
+
+* Participants who had no evidence of past SARS-CoV-2 infection (i.e. N-binding antibody [serum] negative at Visit 1 and SARS-CoV-2 not detected by NAAT [nasal swab] at Visits 1 and 2), and had negative NAAT (nasal swab) at any unscheduled visit prior to 7 days after Dose 2 were included in the analysis.
+- a. N = Number of participants in the specified group.
+- b. n1 = Number of participants meeting the endpoint definition.
+- c. Total surveillance time in 1 000 person-years for the given endpoint across all participants within each group at risk for the endpoint. Time period for COVID-19 case accrual is from 7 days after Dose 2 to the end of the surveillance period.
+- d. n2 = Number of participants at risk for the endpoint.
+- e. Two-sided 95% confidence interval (CI) for vaccine efficacy is derived based on the Clopper and Pearson method adjusted to the surveillance time.
+- f. Included confirmed cases in participants 12 to 15 years of age: 0 in the COVID-19 mRNA Vaccine group; 16 in the placebo group.
+
+In the updated efficacy analysis, efficacy of COVID-19 mRNA Vaccine in preventing first COVID-19 occurrence from 7 days after Dose 2 compared to placebo was 91.1% (95% CI of 88.8% to 93.0%) during the period when Wuhan/wild-type and Alpha variants were the predominant circulating strains in participants in the evaluable efficacy population with or without evidence of prior infection with SARS-CoV-2.
+
+<div style=\"page-break-after: always\"></div>
+
+Additionally, the updated efficacy analyses by subgroup showed similar efficacy point estimates across sexes, ethnic groups, geography and participants with medical comorbidities and obesity associated with high risk of severe COVID-19.
+
+## Efficacy against severe COVID-19
+
+Updated efficacy analyses of secondary efficacy endpoints supported benefit of the COVID-19 mRNA Vaccine in preventing severe COVID-19.
+
+As of 13 March 2021, vaccine efficacy against severe COVID-19 is presented only for participants with or without prior SARS-CoV-2 infection (Table 12) as the COVID-19 case counts in participants without prior SARS-CoV-2 infection were the same as those in participants with or without prior SARS-CoV-2 infection in both the COVID-19 mRNA Vaccine and placebo groups.
+
+Table 12. Vaccine efficacy - First severe COVID-19 occurrence in participants with or without prior SARS-CoV-2 infection based on the Food and Drug Administration (FDA)* after Dose 1 or from 7 days after Dose 2 in the placebo-controlled follow-up
+
+|                       | COVID-19 mRNA Vaccine Cases n1 a Surveillance time (n2 b )   | Placebo Cases n1 a Surveillance time (n2 b )   | Vaccine efficacy % (95% CI c )   |
+|-----------------------|--------------------------------------------------------------|------------------------------------------------|----------------------------------|
+| After Dose 1 d        | 1 8.439 e (22 505)                                           | 30 8.288 e (22 435)                            | 96.7 (80.3, 99.9)                |
+| 7 days after Dose 2 f | 1 6.522 g (21 649)                                           | 21 6.404 g (21 730)                            | 95.3 (70.9, 99.9)                |
+
+Note: Confirmed cases were determined by Reverse Transcription-Polymerase Chain Reaction (RT-PCR) and at least 1 symptom consistent with COVID-19 (symptoms included: fever; new or increased cough; new or increased shortness of breath; chills; new or increased muscle pain; new loss of taste or smell; sore throat; diarrhoea; vomiting).
+
+* Severe illness from COVID-19 as defined by FDA is confirmed COVID-19 and presence of at least 1 of the following:
+
+- Clinical signs at rest indicative of severe systemic illness (respiratory rate ≥ 30 breaths per minute, heart rate ≥ 125 beats per minute, saturation of oxygen ≤ 93% on room air at sea level, or ratio of arterial oxygen partial pressure to fractional inspired oxygen &lt; 300 mm Hg);
+- Respiratory failure [defined as needing high-flow oxygen, noninvasive ventilation, mechanical ventilation or extracorporeal membrane oxygenation (ECMO)];
+- Evidence of shock (systolic blood pressure &lt; 90 mm Hg, diastolic blood pressure &lt; 60 mm Hg, or requiring vasopressors);
+- Significant acute renal, hepatic, or neurologic dysfunction;
+- Admission to an Intensive Care Unit;
+- Death.
+- a. n1 = Number of participants meeting the endpoint definition.
+- b. n2 = Number of participants at risk for the endpoint.
+- c. Two-side confidence interval (CI) for vaccine efficacy is derived based on the Clopper and Pearson method adjusted to the surveillance time.
+- d. Efficacy assessed based on the Dose 1 all available efficacy (modified intention-to-treat) population that included all randomised participants who received at least 1 dose of study intervention.
+- e. Total surveillance time in 1 000 person-years for the given endpoint across all participants within each group at risk for the endpoint. Time period for COVID-19 case accrual is from Dose 1 to the end of the surveillance period.
+- f. Efficacy assessed based on the evaluable efficacy (7 Days) population that included all eligible randomised participants who receive all dose(s) of study intervention as randomised within the predefined window, have no other important protocol deviations as determined by the clinician.
+- g. Total surveillance time in 1 000 person-years for the given endpoint across all participants within each group at risk for the endpoint. Time period for COVID-19 case accrual is from 7 days after Dose 2 to the end of the surveillance period.
+
+<div style=\"page-break-after: always\"></div>
+
+## Efficacy and immunogenicity in adolescents 12 to 15 years of age - after 2 doses
+
+In an initial analysis of Study 2 in adolescents 12 to 15 years of age (representing a median follow-up duration of &gt; 2 months after Dose 2) without evidence of prior infection, there were no cases in 1 005 participants who received the vaccine and 16 cases out of 978 who received placebo. The point estimate for efficacy is 100% (95% confidence interval 75.3, 100.0). In participants with or without evidence of prior infection there were 0 cases in the 1 119 who received vaccine and 18 cases in 1 110 participants who received placebo. This also indicates the point estimate for efficacy is 100% (95% confidence interval 78.1, 100.0).
+
+Updated efficacy analyses were performed with additional confirmed COVID-19 cases accrued during blinded placebo-controlled follow-up, representing up to 6 months after Dose 2 in the efficacy population.
+
+In the updated efficacy analysis of Study 2 in adolescents 12 to 15 years of age without evidence of prior infection, there were no cases in 1 057 participants who received the vaccine and 28 cases out of 1 030 who received placebo. The point estimate for efficacy is 100% (95% confidence interval 86.8, 100.0) during the period when Alpha variant was the predominant circulating strain. In participants with or without evidence of prior infection there were 0 cases in the 1 119 who received vaccine and 30 cases in 1 109 participants who received placebo. This also indicates the point estimate for efficacy is 100% (95% confidence interval 87.5, 100.0).
+
+In Study 2, an analysis of SARS-CoV-2 neutralising titres 1 month after Dose 2 was conducted in a randomly selected subset of participants who had no serological or virological evidence of past SARS-CoV-2 infection up to 1 month after Dose 2, comparing the response in adolescents 12 to 15 years of age (n = 190) to participants 16 to 25 years of age (n = 170).
+
+The ratio of the geometric mean titres (GMT) in the 12 to 15 years of age group to the 16 to 25 years of age group was 1.76, with a 2-sided 95% CI of 1.47 to 2.10. Therefore, the 1.5-fold noninferiority criterion was met as the lower bound of the 2-sided 95% CI for the geometric mean ratio [GMR] was &gt; 0.67.
+
+## Efficacy and immunogenicity in children 5 to 11 years of age (i.e. 5 to less than 12 years of age) after 2 doses
+
+Study 3 is a Phase 1/2/3 study comprised of an open-label vaccine dose-finding portion (Phase 1) and a multicentre, multinational, randomised, saline placebo-controlled, observer-blind efficacy portion (Phase 2/3) that has enrolled participants 5 to 11 years of age. The majority (94.4%) of randomised vaccine recipients received the second dose 19 days to 23 days after Dose 1.
+
+Initial descriptive vaccine efficacy results in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection are presented in Table 13. No cases of COVID-19 were observed in either the vaccine group or the placebo group in participants with evidence of prior SARS-CoV-2 infection.
+
+Table 13. Vaccine efficacy - First COVID-19 occurrence from 7 days after Dose 2: Without evidence of infection prior to 7 days after Dose 2 - Phase 2/3 - Children 5 to 11 years of age evaluable efficacy population
+
+| First COVID-19 occurrence from 7 days after Dose 2 in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 2 in children 5 to 11 years of age without evidence of prior SARS-CoV-2 infection*   |
+|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                                       | COVID-19 mRNA Vaccine 10 mcg/dose N a =1 305 Cases n1 b Surveillance time c (n2 d )                                                   | Placebo N a =663 Cases n1 b Surveillance time c (n2 d )                                                                               | Vaccine efficacy % (95% CI)                                                                                                           |
+| Children 5 to 11 years of age                                                                                                         | 3 0.322 (1 273)                                                                                                                       | 16 0.159 (637)                                                                                                                        | 90.7 (67.7, 98.3)                                                                                                                     |
+
+<div style=\"page-break-after: always\"></div>
+
+Note: Confirmed cases were determined by Reverse Transcription-Polymerase Chain Reaction (RT-PCR) and at least 1 symptom consistent with COVID-19 (symptoms included: fever; new or increased cough; new or increased shortness of breath; chills; new or increased muscle pain; new loss of taste or smell; sore throat; diarrhoea; vomiting).
+
+* Participants who had no evidence of past SARS-CoV-2 infection (i.e. N-binding antibody [serum] negative at Visit 1 and SARS-CoV-2 not detected by NAAT [nasal swab] at Visits 1 and 2), and had negative NAAT (nasal swab) at any unscheduled visit prior to 7 days after Dose 2 were included in the analysis.
+- a. N = Number of participants in the specified group.
+- b. n1 = Number of participants meeting the endpoint definition.
+- c. Total surveillance time in 1 000 person-years for the given endpoint across all participants within each group at risk for the endpoint. Time period for COVID-19 case accrual is from 7 days after Dose 2 to the end of the surveillance period.
+- d. n2 = Number of participants at risk for the endpoint.
+
+Pre-specified hypothesis-driven efficacy analysis was performed with additional confirmed COVID-19 cases accrued during blinded placebo-controlled follow-up, representing up to 6 months after Dose 2 in the efficacy population.
+
+In the efficacy analysis of Study 3 in children 5 to 11 years of age without evidence of prior infection, there were 10 cases in 2 703 participants who received the vaccine and 42 cases out of 1 348 who received placebo. The point estimate for efficacy is 88.2% (95% confidence interval 76.2, 94.7) during the period when Delta variant was the predominant circulating strain. In participants with or without evidence of prior infection there were 12 cases in the 3 018 who received vaccine and 42 cases in 1 511 participants who received placebo. The point estimate for efficacy is 85.7% (95% confidence interval 72.4, 93.2).
+
+In Study 3, an analysis of SARS-CoV-2 50% neutralising titres (NT50) 1 month after Dose 2 in a randomly selected subset of participants demonstrated effectiveness by immunobridging of immune responses comparing children 5 to 11 years of age (i.e. 5 to less than 12 years of age) in the Phase 2/3 part of Study 3 to participants 16 to 25 years of age in the Phase 2/3 part of Study 2 who had no serological or virological evidence of past SARS-CoV-2 infection up to 1 month after Dose 2, meeting the pre-specified immunobridging criteria for both the geometric mean ratio (GMR) and the seroresponse difference with seroresponse defined as achieving at least 4-fold rise in SARS-CoV-2 NT50 from baseline (before Dose 1).
+
+The GMR of the SARS-CoV-2 NT50 1 month after Dose 2 in children 5 to 11 years of age (i.e. 5 to less than 12 years of age) to that of young adults 16 to 25 years of age was 1.04 (2-sided 95% CI: 0.93, 1.18). Among participants without prior evidence of SARS-CoV-2 infection up to 1 month after Dose 2, 99.2% of children 5 to 11 years of age and 99.2% of participants 16 to 25 years of age had a seroresponse at 1 month after Dose 2. The difference in proportions of participants who had seroresponse between the 2 age groups (children - young adult) was 0.0% (2-sided 95% CI: -2.0%, 2.2%). This information is presented in Table 14.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 14. Summary of geometric mean ratio for 50% neutralising titre and difference in percentages of participants with seroresponse - comparison of children 5 to 11 years of age (Study 3) to participants 16 to 25 years of age (Study 2) - participants without evidence of infection up to 1 month after Dose 2 - immunobridging subset Phase 2/3 - evaluable immunogenicity population
+
+|                                                    |                      | COVID-19 mRNA Vaccine              | COVID-19 mRNA Vaccine               |                               |                                      |
+|----------------------------------------------------|----------------------|------------------------------------|-------------------------------------|-------------------------------|--------------------------------------|
+|                                                    |                      | 10 mcg/dose 5 to 11 years N a =264 | 30 mcg/dose 16 to 25 years N a =253 | 5 to 11 years/ 16 to 25 years | 5 to 11 years/ 16 to 25 years        |
+|                                                    | Time point b         | GMT c (95% CI c )                  | GMT c (95% CI c )                   | GMR d (95% CI d )             | Met immunobridging objective e (Y/N) |
+| Geometric mean 50% neutralising titre f (GMT c )   | 1 month after Dose 2 | 1 197.6 (1 106.1, 1 296.6)         | 1 146.5 (1 045.5, 1 257.2)          | 1.04 (0.93, 1.18)             | Y                                    |
+|                                                    | Time point b         | n g (%) (95% CI h )                | n g (%) (95% CI h )                 | Difference % i (95% CI j )    | Met immunobridging objective k (Y/N) |
+| Seroresponse rate (%) for 50% neutralising titre f | 1 month after Dose 2 | 262 (99.2) (97.3, 99.9)            | 251 (99.2) (97.2, 99.9)             | 0.0 (-2.0, 2.2)               | Y                                    |
+
+Abbreviations: CI = confidence interval; GMR = geometric mean ratio; GMT = geometric mean titre;
+
+LLOQ = lower limit of quantitation; NAAT = nucleic acid amplification test; NT50 = 50% neutralising titre; SARS-CoV-2 = severe acute respiratory syndrome coronavirus 2.
+
+Note: Participants who had no serological or virological evidence (up to 1 month post-Dose 2 blood sample collection) of past SARS-CoV-2 infection (i.e. N-binding antibody [serum] negative at Dose 1 visit and 1 month after Dose 2, SARS-CoV-2 not detected by NAAT [nasal swab] at Dose 1 and Dose 2 visits, and negative NAAT (nasal swab) at any unscheduled visit up to 1 month after Dose 2 blood collection) and had no medical history of COVID-19 were included in the analysis.
+
+Note: Seroresponse is defined as achieving a ≥ 4-fold rise from baseline (before Dose 1). If the baseline measurement is below the LLOQ, a postvaccination assay result ≥ 4 × LLOQ is considered a seroresponse.
+
+- a. N = Number of participants with valid and determinate assay results before vaccination and at 1 month after Dose 2. These values are also the denominators used in the percentage calculations for seroresponse rates.
+- b. Protocol-specified timing for blood sample collection.
+- c. GMTs and 2-sided 95% CIs were calculated by exponentiating the mean logarithm of the titres and the corresponding CIs (based on the Student t distribution). Assay results below the LLOQ were set to 0.5 × LLOQ.
+- d. GMRs and 2-sided 95% CIs were calculated by exponentiating the mean difference of the logarithms of the titres (5 to 11 years of age minus 16 to 25 years of age) and the corresponding CI (based on the Student t distribution).
+- e. Immunobridging based on GMT is declared if the lower bound of the 2-sided 95% CI for the GMR is greater than 0.67 and the point estimate of the GMR is ≥ 0.8.
+- f. SARS-CoV-2 NT50 were determined using the SARS-CoV-2 mNeonGreen Virus Microneutralisation Assay. The assay uses a fluorescent reporter virus derived from the USA\\_WA1/2020 strain and virus neutralisation is read on Vero cell monolayers. The sample NT50 is defined as the reciprocal serum dilution at which 50% of the virus is neutralised.
+- g. n = Number of participants with seroresponse based on NT50 1 month after Dose 2.
+- h. Exact 2-sided CI based on the Clopper and Pearson method.
+- i. Difference in proportions, expressed as a percentage (5 to 11 years of age minus 16 to 25 years of age).
+- j. 2-Sided CI, based on the Miettinen and Nurminen method for the difference in proportions, expressed as a percentage.
+- k. Immunobridging based on seroresponse rate is declared if the lower bound of the 2-sided 95% CI for the seroresponse difference is greater than -10.0%.
+
+<div style=\"page-break-after: always\"></div>
+
+Relative vaccine efficacy in participants 16 years of age and older - after booster dose An interim efficacy analysis of Study 4, a placebo-controlled booster study performed in approximately 10 000 participants 16 years of age and older who were recruited from Study 2, evaluated confirmed COVID-19 cases accrued from at least 7 days after booster vaccination up to a data cut-off date of 5 October 2021, which represents a median of 2.5 months post-booster follow-up. The booster dose was administered 5 to 13 months (median 11 months) after the second dose. Vaccine efficacy of the Comirnaty booster dose after the primary series relative to the placebo booster group who only received the primary series dose was assessed.
+
+The relative vaccine efficacy information for participants 16 years of age and older without prior evidence of SARS-CoV-2 infection is presented in Table 15. Relative vaccine efficacy in participants with or without evidence of prior SARS-CoV-2 infection was 94.6% (95% confidence interval of 88.5% to 97.9%), similar to that seen in those participants without evidence of prior infection. Primary COVID-19 cases observed from 7 days after booster vaccination were 7 primary cases in the Comirnaty group, and 124 primary cases in the placebo group.
+
+Table 15. Vaccine efficacy - First COVID-19 occurrence from 7 days after booster vaccination - participants 16 years of age and older without evidence of infection - evaluable efficacy population
+
+| First COVID-19 occurrence from 7 days after booster dose in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after booster dose in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after booster dose in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after booster dose in participants without evidence of prior SARS-CoV-2 infection*   |
+|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                            | Comirnaty N a =4 695 Cases n1 b Surveillance Time c (n2 d )                                                                | Placebo N a =4 671 Cases n1 b Surveillance Time c (n2 d )                                                                  | Relative Vaccine Efficacy e % (95% CI f )                                                                                  |
+| First COVID-19 occurrence from 7 days after booster                                                                        | 6                                                                                                                          | 123                                                                                                                        | 95.3                                                                                                                       |
+| vaccination                                                                                                                | 0.823 (4 659)                                                                                                              | 0.792 (4 614)                                                                                                              | (89.5, 98.3)                                                                                                               |
+
+Note: Confirmed cases were determined by Reverse Transcription-Polymerase Chain Reaction (RT-PCR) and at least 1 symptom consistent with COVID-19 (symptoms included: fever; new or increased cough; new or increased shortness of breath; chills; new or increased muscle pain; new loss of taste or smell; sore throat; diarrhoea; vomiting).
+
+* Participants who had no serological or virological evidence (prior to 7 days after receipt of the booster vaccination) of past SARS-CoV-2 infection (i.e. N-binding antibody [serum] negative at Visit 1 and SARS-CoV-2 not detected by NAAT [nasal swab] at Visit 1, and had a negative NAAT [nasal swab] at any unscheduled visit prior to 7 days after booster vaccination) were included in the analysis.
+- a. N = Number of participants in the specified group.
+- b. n1 = Number of participants meeting the endpoint definition.
+- c. Total surveillance time in 1 000 person-years for the given endpoint across all participants within each group at risk for the endpoint. Time period for COVID-19 case accrual is from 7 days after the booster vaccination to the end of the surveillance period.
+- d. n2 = Number of participants at risk for the endpoint.
+- e. Relative vaccine efficacy of the Comirnaty booster group relative to the placebo group (non-booster).
+- f. Two-sided confidence interval (CI) for relative vaccine efficacy is derived based on the Clopper and Pearson method adjusted for surveillance time.
+
+## Immunogenicity in children 5 to 11 years of age (i.e. 5 to less than 12 years of age) - after booster dose
+
+A booster dose of Comirnaty was given to 401 randomly selected participants in Study 3. Effectiveness of a booster dose in ages 5 to 11 is inferred by immunogenicity. The immunogenicity of this was assessed through NT50 against the reference strain of SARS-CoV-2 (USA\\_WA1/2020). Analyses of NT50 1 month after the booster dose compared to before the booster dose demonstrated a substantial increase in GMTs in individuals 5 to 11 years of age who had no serological or virological evidence of past SARS-CoV-2 infection up to 1 month after the dose 2 and the booster dose. This analysis is summarised in Table 16.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 16. Summary of geometric mean titres - NT50 - participants without evidence of infection - phase 2/3 - immunogenicity set - 5 to 11 years of age - evaluable immunogenicity population
+
+|                                        | Sampling time point a                                  | Sampling time point a                            |                                                                    |
+|----------------------------------------|--------------------------------------------------------|--------------------------------------------------|--------------------------------------------------------------------|
+| Assay                                  | 1 month after booster dose (n b =67) GMT c (95% CI c ) | 1 month after dose 2 (n b =96) GMT c (95% CI c ) | 1 month after booster dose/ 1 month after dose 2 GMR d (95% CI d ) |
+| SARS-CoV-2 neutralisation assay - NT50 | 2 720.9                                                | 1 253.9                                          | 2.17                                                               |
+| (titre)                                | (2 280.1, 3 247.0)                                     | (1 116.0, 1 408.9)                               | (1.76, 2.68)                                                       |
+
+Abbreviations: CI = confidence interval; GMR = geometric mean ratio; GMT = geometric mean titre;
+
+LLOQ = lower limit of quantitation; NT50 = 50% neutralising titre; SARS-CoV-2 = severe acute respiratory syndrome coronavirus 2.
+
+- a. Protocol-specified timing for blood sample collection.
+- b. n = Number of participants with valid and determinate assay results for the specified assay at the given dose/sampling time point.
+- c. GMTs and 2-sided 95% CIs were calculated by exponentiating the mean logarithm of the titres and the corresponding CIs (based on the Student t distribution). Assay results below the LLOQ were set to 0.5 × LLOQ.
+- d. GMRs and 2-sided 95% CIs were calculated by exponentiating the mean difference of the logarithms of the titres (1-Month Post-Booster Dose minus 1-Month Post-Dose 2) and the corresponding CI (based on the Student t distribution).
+
+## Efficacy and immunogenicity of a 3-dose 3 mcg primary course in infants and children 6 months to 4 years of age
+
+The efficacy analysis of Study 3 was performed across the combined population of participants 6 months to 4 years of age based on cases confirmed among 873 participants in the COVID-19 mRNA Vaccine group and 381 participants in the placebo group (2:1 randomisation ratio) who received all 3 doses of study intervention during the blinded follow -up period when the Omicron variant of SARS -CoV -2 (BA.2) was the predominant variant in circulation (data cut-off date of 17 June 2022).
+
+The vaccine efficacy results after Dose 3 in participants 6 months to 4 years of age are presented in Table 17.
+
+Table 17. Vaccine efficacy - first COVID-19 occurrence from 7 days after Dose 3 - blinded follow-up period - participants without evidence of infection prior to 7 days after Dose 3 - phase 2/3 - 6 months to 4 years of age - evaluable efficacy (3-dose) population
+
+| First COVID-19 occurrence from 7 days after Dose 3 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 3 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 3 in participants without evidence of prior SARS-CoV-2 infection*   | First COVID-19 occurrence from 7 days after Dose 3 in participants without evidence of prior SARS-CoV-2 infection*   |
+|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Subgroup                                                                                                             | COVID-19 mRNA Vaccine 3 mcg/dose N a =873 Cases n1 b Surveillance time c (n2 d )                                     | Placebo N a =381 Cases n1 b Surveillance time c (n2 d )                                                              | Vaccine efficacy % (95% CI e )                                                                                       |
+| 6 months to 4 years e                                                                                                | 13 0.124 (794)                                                                                                       | 21 0.054 (351)                                                                                                       | 73.2 (43.8, 87.6)                                                                                                    |
+| 2 to 4 years                                                                                                         | 9 0.081 (498)                                                                                                        | 13 0.033 (204)                                                                                                       | 71.8 (28.6, 89.4)                                                                                                    |
+| 6 months to 23 months                                                                                                | 4 0.042 (296)                                                                                                        | 8 0.020 (147)                                                                                                        | 75.8 (9.7, 94.7)                                                                                                     |
+
+Abbreviations: NAAT = nucleic acid amplification test; N-binding = SARS-CoV-2 nucleoprotein-binding; SARS-CoV-2 = severe acute respiratory syndrome coronavirus 2; VE = vaccine efficacy.
+
+<div style=\"page-break-after: always\"></div>
+
+* Participants who had no serological or virological evidence (prior to 7 days after receipt of Dose 3) of past SARS-CoV-2 infection (i.e. negative N-binding antibody [serum] result at Dose 1, 1 month post-Dose 2 (if available), Dose 3 (if available) visits, SARS-CoV-2 not detected by NAAT [nasal swab] at Dose 1, Dose 2, and Dose 3 study visits, and a negative NAAT [nasal swab] result at any unscheduled visit prior to 7 days after receipt of Dose 3) and had no medical history of COVID-19 were included in the analysis.
+- a. N = number of participants in the specified group.
+- b. n1 = Number of participants meeting the endpoint definition.
+- c. Total surveillance time in 1 000 person-years for the given endpoint across all participants within each group at risk for the endpoint. Time period for COVID-19 case accrual is from 7 days after Dose 3 to the end of the surveillance period.
+- d. n2 = Number of participants at risk for the endpoint.
+- e. Two-sided 95% confidence interval (CI) for VE is derived based on the Clopper and Pearson method adjusted for surveillance time.
+
+Vaccine efficacy in participants with or without prior SARS-CoV-2 infection was similar to those participants without prior SARS-CoV-2 infection.
+
+Severe COVID-19 criteria (as described in the protocol, based on FDA definition and modified for children) were fulfilled for 12 cases (8 COVID-19 mRNA Vaccine and 4 placebo) among participants 6 months to 4 years of age. Among participants 6 months to 23 months of age, severe COVID-19 criteria were fulfilled for 3 cases (2 COVID-19 mRNA Vaccine and 1 placebo).
+
+Immunogenicity analyses have been performed in the immunobridging subset of 82 Study 3 participants 6 to 23 months of age and 143 Study 3 participants 2 to 4 years of age without evidence of infection up to 1 month after Dose 3 based on a data cut-off date of 29 April 2022.
+
+SARS-CoV-2 50% neutralising antibody titres (NT50) were compared between an immunogenicity subset of Phase 2/3 participants 6 to 23 months of age and 2 to 4 years of age from Study 3 at 1 month after the 3-dose primary course and a randomly selected subset from Study 2 Phase 2/3 participants 16 to 25 years of age at 1 month after the 2 -dose primary course, using a microneutralisation assay against the reference strain (USA\\_WA1/2020).
+
+The primary immunobridging analyses compared the geometric mean titres (using a geometric mean ratio [GMR]) and the seroresponse (defined as achieving at least 4-fold rise in SARS-CoV-2 NT50 from before Dose 1) rates in the evaluable immunogenicity population of participants without evidence of prior SARS-CoV-2 infection up to 1 month after Dose 3 in participants 6 to 23 months of age and 2 to 4 years of age and up to 1 month after Dose 2 in participants 16 to 25 years of age. The pre-specified immunobridging criteria were met for both the GMR and the seroresponse difference for both age groups (Table 18).
+
+<div style=\"page-break-after: always\"></div>
+
+Table 18. SARS-CoV-2 GMTs (NT50) and difference in percentages of participants with seroresponse at 1 month after vaccination course - immunobridging subset participants 6 months to 4 years of age (Study 3) 1 month after Dose 3 and participants 16 to 25 years of age (Study 2) 1 month after Dose 2 - without evidence of SARS-CoV-2 infection - evaluable immunogenicity population
+
+| SARS-CoV-2 GMTs (NT50) at 1 month after vaccination course                                      | SARS-CoV-2 GMTs (NT50) at 1 month after vaccination course                                      | SARS-CoV-2 GMTs (NT50) at 1 month after vaccination course                                      | SARS-CoV-2 GMTs (NT50) at 1 month after vaccination course                                      | SARS-CoV-2 GMTs (NT50) at 1 month after vaccination course                                      | SARS-CoV-2 GMTs (NT50) at 1 month after vaccination course                                      | SARS-CoV-2 GMTs (NT50) at 1 month after vaccination course                                      | SARS-CoV-2 GMTs (NT50) at 1 month after vaccination course                                      |
+|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                |
+| Age                                                                                             | N a                                                                                             | GMT b (95% CI b ) (1 month after Dose 3)                                                        | Age                                                                                             | N a                                                                                             | GMT b (95% CI b ) (1 month after Dose 2)                                                        | Age                                                                                             | GMR c,d (95% CI)                                                                                |
+| 2 to 4 years                                                                                    | 143                                                                                             | 1 535.2 (1 388.2, 1 697.8)                                                                      | 16 to 25 years of age                                                                           | 170                                                                                             | 1 180.0 (1 066.6, 1 305.4)                                                                      | 2 to 4 years/16 to 25 years of age                                                              | 1.30 (1.13, 1.50)                                                                               |
+| 6 to 23 months                                                                                  | 82                                                                                              | 1 406.5 (1 211.3, 1 633.1)                                                                      | 16 to 25 years of age                                                                           | 170                                                                                             | 1 180.0 (1 066.6, 1 305.4)                                                                      | 6 to 23 months years/16 to 25 years of age                                                      | 1.19 (1.00, 1.42)                                                                               |
+| Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course | Difference in percentages of participants with seroresponse at 1 month after vaccination course |
+| SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                | SARS-CoV-2 neutralisation assay - NT50 (titre) e                                                |
+| Age                                                                                             | N a                                                                                             | n f (%) (95% CI g ) (1 month after Dose 3)                                                      | Age                                                                                             | N a                                                                                             | n f (%) (95% CI g ) (1 month after Dose 2)                                                      | Age                                                                                             | Difference in seroresponse rates % h (95% CI i ) j                                              |
+| 2 to 4 years                                                                                    | 141                                                                                             | 141 (100.0) (97.4, 100.0)                                                                       | 16 to 25 years of age                                                                           | 170                                                                                             | 168 (98.8) (95.8, 99.9)                                                                         | 2 to 4 years/16 to 25 years of age                                                              | 1.2 (1.5, 4.2)                                                                                  |
+| 6 to 23 months                                                                                  | 80                                                                                              | 80 (100.0) (95.5, 100.0)                                                                        | 16 to 25 years of age                                                                           | 170                                                                                             | 168 (98.8) (95.8, 99.9)                                                                         | 6 to 23 months years/16 to 25 years of age                                                      | 1.2 (3.4, 4.2)                                                                                  |
+
+Abbreviations: CI = confidence interval; GMR = geometric mean ratio; GMT = geometric mean titre; LLOQ = lower limit of quantitation; NAAT = nucleic acid amplification test; N-binding = SARS-CoV-2 nucleoprotein-binding; NT50 = 50% neutralising titre; SARS-CoV-2 = severe acute respiratory syndrome coronavirus 2.
+
+Note: Participants who had no serological or virological evidence [(up to 1 month after Dose 2 (Study 2) or 1 month after Dose 3 (Study 3) blood sample collection)] of past SARS-CoV-2 infection [(i.e. N-binding antibody [serum] negative at Dose 1, Dose 3 (Study 3) and 1 month after Dose 2 (Study 2) or 1 month after Dose 3 (Study 3), SARS-CoV-2 not detected by NAAT [nasal swab] at Dose 1, Dose 2, and Dose 3 (Study 3) study visits, and negative NAAT (nasal swab) at any unscheduled visit up to 1 month after Dose 2 (Study 2) or 1 month after Dose 3 (Study 3) blood collection)] and had no medical history of COVID-19 were included in the analysis.
+
+Note: Seroresponse is defined as achieving a ≥ 4-fold rise from baseline (before Dose 1). If the baseline measurement is below the LLOQ, a postvaccination assay result ≥ 4 × LLOQ is considered a seroresponse.
+
+- a. N = Number of participants with valid and determinate assay results for the specified assay at the given dose/sampling time point for GMTs and number of participants with valid and determinate assay results for the specified assay at both baseline and the given dose/sampling time point for seroresponse rates.
+- b. GMTs and 2-sided 95% CIs were calculated by exponentiating the mean logarithm of the titres and the corresponding CIs (based on the Student t distribution). Assay results below the LLOQ were set to 0.5 × LLOQ.
+- c. GMRs and 2-sided 95% CIs were calculated by exponentiating the mean difference of the logarithms of the titres (younger age group minus 16 to 25 years of age) and the corresponding CI (based on the Student t distribution).
+
+<div style=\"page-break-after: always\"></div>
+
+- d. For each younger age group (2 to 4 years, 6 to 23 months), immunobridging based on GMR is declared if the lower bound of the 2-sided 95% CI for the GMR ratio is greater than 0.67 and the point estimate of the GMR is ≥ 0.8.
+- e. SARS-CoV-2 NT50 were determined using the SARS-CoV-2 mNeonGreen Virus Microneutralisation Assay. The assay uses a fluorescent reporter virus derived from the USA\\_WA1/2020 strain and virus neutralisation is read on Vero cell monolayers. The sample NT50 is defined as the reciprocal serum dilution at which 50% of the virus is neutralised.
+- f. n = Number of participants with seroresponse for the given assay at the given dose/sampling time point.
+- g. Exact 2-sided CI based on the Clopper and Pearson method.
+- h. Difference in proportions, expressed as a percentage (younger age group minus 16 to 25 years of age).
+- i. 2-sided CI, based on the Miettinen and Nurminen method for the difference in proportions, expressed as a percentage.
+- j. For each younger age group (2 to 4 years, 6 to 23 months), immunobridging based on seroresponse rate is declared if the lower bound of the 2-sided 95% CI for the difference in proportions is greater than -10.0% provided that the immunobridging criteria based on GMR were met.
+
+## Immunogenicity of a booster dose following primary vaccination with another authorised COVID-19 vaccine
+
+Effectiveness of a Comirnaty booster dose (30 mcg) in individuals who completed primary vaccination with another authorised COVID-19 vaccine (heterologous booster dose) is inferred from immunogenicity data from an independent National Institutes of Health (NIH) study phase 1/2 open-label clinical trial (NCT04889209) conducted in the United States. In this study, adults (range 19 to 80 years of age) who had completed primary vaccination with Moderna 100 mcg 2-dose series (N = 51, mean age 54±17), Janssen single dose (N = 53, mean age 48±14), or Comirnaty 30 mcg 2-dose series (N = 50, mean age 50±18) at least 12 weeks prior to enrolment and who reported no history of SARS-CoV-2 infection received a booster dose of Comirnaty (30 mcg). The boost with Comirnaty induced a 36, 12, and 20 GMR-fold rise in neutralising titres following the Janssen, Moderna, and Comirnaty primary doses, respectively.
+
+Heterologous boosting with Comirnaty was also evaluated in the CoV-BOOST study (EudraCT 2021-002175-19), a multicentre, randomised, controlled, phase 2 trial of third dose booster vaccination against COVID-19, in which 107 adult participants (median age 71 years of age, interquartile range 54 to 77 years of age) were randomised at least 70 days post 2 doses of AstraZeneca COVID-19 Vaccine. After the AstraZeneca COVID-19 Vaccine primary series, pseudovirus (wild-type), neutralising antibody NT50 GMR-fold change increased 21.6-fold with heterologous Comirnaty booster (n = 95).
+
+## Immunogenicity in pregnant participants and infants born to pregnant participants - after 2 doses with Comirnaty
+
+Study 9 was a Phase 2/3 multinational, placebo-controlled, observer-blind study that enrolled pregnant participants 18 years of age and older to receive 2 doses of Comirnaty (n = 173) or placebo (n = 173). Pregnant participants received Dose 1 of Comirnaty at 24 to 34 weeks gestation and the majority (90.2%) received the second dose 19 to 23 days after Dose 1.
+
+Descriptive immunogenicity analysis was performed in pregnant participants receiving Comirnaty in Study 9 compared to a comparator subset of nonpregnant participants from Study 2 evaluating the ratio of the neutralising GMT (GMR) 1 month after Dose 2. The evaluable immunogenicity population who received Comirnaty in the pregnant participants group in Study 9 (n = 111) and in nonpregnant participants in Study 2 (n = 114) had a median age of 30 years (range 18 to 44 years of age) and comprised of 37.8% vs 3.5% with a positive baseline SARS-CoV-2 status, respectively.
+
+Among participants without prior evidence of SARS-CoV-2 infection up to 1 month after Dose 2, the observed SARS-CoV-2 50% neutralizing GMT 1 month after Dose 2 was lower in the pregnant participants (Study 9) when compared to nonpregnant female participants (Study 2) (the ratio of the GMT [GMR] was 0.67 (95% CI: 0.50, 0.90).
+
+Among participants with or without prior evidence of SARS-CoV-2 infection up to 1 month after Dose 2, the model-adjusted GMT 1 month after Dose 2 was similar in the pregnant participants when compared to nonpregnant female participants (the model-adjusted ratio of the GMT [GMR] was 0.95 (95% CI: 0.69, 1.30). The model-adjusted GMT and GMR were calculated based on a regression model adjusting for age and baseline neutralizing titres.
+
+<div style=\"page-break-after: always\"></div>
+
+## Immunogenicity in immunocompromised participants (adults and children)
+
+Study 10 is a Phase 2b, open-label study (n = 124) that enrolled immunocompromised participants 2 to &lt; 18 years of age receiving immunomodulator therapy or who have undergone solid organ transplant (within the previous 3 months) and are on immunosuppression or who have undergone bone marrow or stem cell transplant at least 6 months prior to enrolment and in immunocompromised participants 18 years of age and older treated for non-small cell lung cancer (NSCLC) or chronic lymphocytic leukaemia (CLL), receiving haemodialysis for secondary to end-stage renal disease, or receiving immunomodulator therapy for an autoimmune inflammatory disorder. Participants received 4 age-appropriate doses of Comirnaty (3 mcg, 10 mcg, or 30 mcg); the first 2 doses separated by 21 days, with the third dose occurring 28 days after the second dose, followed by a fourth dose, 3 to 6 months after Dose 3.
+
+Analysis of immunogenicity data at 1 month after Dose 3 (26 participants 2 to &lt; 5 years of age, 56 participants 5 to &lt; 12 years of age, 11 participants 12 to &lt; 18 years of age, and 4 participants ≥ 18 years of age) and 1 month after Dose 4 (16 participants 2 to &lt; 5 years of age, 31 participants 5 to &lt; 12 years of age, 6 participants 12 to &lt; 18 years of age, and 4 participants ≥ 18 years of age) in the evaluable immunogenicity population without evidence of prior infection demonstrated a vaccine-elicited immune response. GMTs were observed to be substantially higher at 1 month after Dose 3 and further increased at 1 month after Dose 4 and remained high at 6 months after Dose 4 compared to levels observed before study vaccination across age groups and disease subsets.
+
+## Paediatric population
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with Comirnaty in one or more subsets of the paediatric population in prevention of COVID-19 (see section 4.2 for information on paediatric use).
+
+## 5.2 Pharmacokinetic properties
+
+Not applicable.
+
+## 5.3 Preclinical safety data
+
+Non-clinical data reveal no special hazard for humans based on conventional studies of repeat dose toxicity and reproductive and developmental toxicity.
+
+## General toxicity
+
+Rats intramuscularly administered Comirnaty (receiving 3 full human doses once weekly, generating relatively higher levels in rats due to body weight differences) demonstrated some injection site oedema and erythema and increases in white blood cells (including basophils and eosinophils) consistent with an inflammatory response as well as vacuolation of portal hepatocytes without evidence of liver injury. All effects were reversible.
+
+## Genotoxicity/Carcinogenicity
+
+Neither genotoxicity nor carcinogenicity studies were performed. The components of the vaccine (lipids and mRNA) are not expected to have genotoxic potential.
+
+## Reproductive toxicity
+
+Reproductive and developmental toxicity were investigated in rats in a combined fertility and developmental toxicity study where female rats were intramuscularly administered Comirnaty prior to mating and during gestation (receiving 4 full human doses that generate relatively higher levels in rat due to body weight differences, spanning between pre-mating day 21 and gestational day 20). SARS-CoV-2 neutralising antibody responses were present in maternal animals from prior to mating to the end of the study on post-natal day 21 as well as in foetuses and offspring. There were no vaccine-related effects on female fertility, pregnancy, or embryo-foetal or offspring development. No Comirnaty data are available on vaccine placental transfer or excretion in milk.
+
+<div style=\"page-break-after: always\"></div>
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+((4-hydroxybutyl)azanediyl)bis(hexane-6,1-diyl)bis(2-hexyldecanoate) (ALC-0315)
+
+2-[(polyethylene glycol)-2000]-N,N-ditetradecylacetamide (ALC-0159) 1,2-Distearoyl-sn-glycero-3-phosphocholine (DSPC) Cholesterol Trometamol Trometamol hydrochloride Sucrose Water for injections
+
+## 6.2 Incompatibilities
+
+This medicinal product must not be mixed with other medicinal products.
+
+## 6.3 Shelf life
+
+## Unopened vials
+
+There are different shelf life and storage conditions for unopened frozen and refrigerated only vials:
+
+- Frozen vials have printed EXP at -90 °C to -60 °C.
+- Refrigerated only vials have printed EXP at 2 °C to 8 °C.
+
+Confirm the applicable shelf life and storage conditions.
+
+## Frozen vials
+
+## Single dose and multidose vials
+
+The vaccine will be received frozen at -90 °C to -60 °C. Frozen vaccine can be stored either at -90 °C to -60 °C or 2 °C to 8 °C upon receipt.
+
+18 months when stored at -90 °C to -60 °C.
+
+Within the 18-month shelf life the thawed (previously frozen) vials may be stored at 2 °C to 8 °C for up to 10 weeks.
+
+## Thawing procedure
+
+- Single dose vials
+
+When stored frozen at -90 °C to -60 °C, 10-vial packs of single dose vials of the vaccine can be thawed at 2 °C to 8 °C for 2 hours or individual vials can be thawed at room temperature (up to 30 °C) for 30 minutes.
+
+- Multidose vials
+
+When stored frozen at -90 °C to -60 °C, 10-vial packs of multidose vials of the vaccine can be thawed at 2 °C to 8 °C for 6 hours or individual vials can be thawed at room temperature (up to 30 °C) for 30 minutes.
+
+<div style=\"page-break-after: always\"></div>
+
+## Thawed (previously frozen) vials
+
+10 weeks storage and transportation at 2 °C to 8 °C within the 18-month shelf life.
+
+- Upon moving the vaccine to 2 °C to 8 °C storage, the updated expiry date must be written on the outer carton and the vaccine should be used or discarded by the updated expiry date. The original expiry date should be crossed out.
+- If the vaccine is received at 2 °C to 8 °C it should be stored at 2 °C to 8 °C. The expiry date on the outer carton should have been updated to reflect the refrigerated expiry date and the original expiry date should have been crossed out.
+
+Prior to use, the unopened vials can be stored for up to 12 hours at temperatures between 8 °C and 30 °C.
+
+Thawed vials can be handled in room light conditions.
+
+## Once thawed, the vaccine should not be re-frozen.
+
+## Handling of temperature excursions for previously frozen vials during refrigerated storage
+
+- Stability data indicate that the unopened vial is stable for up to 10 weeks when stored at temperatures from -2 °C to 2 °C, within the 10-week storage period between 2 °C and 8 °C.
+- Stability data indicate the vial can be stored for up to 24 hours at temperatures of 8 °C to 30 °C, including up to 12 hours following first puncture.
+
+This information is intended to guide healthcare professionals only in case of temporary temperature excursion.
+
+## Refrigerated only vials
+
+Multidose vials
+
+The vaccine will be received and stored at 2 °C to 8 °C (refrigerated only). 12 months when stored at 2 °C to 8 °C.
+
+## Opened vials
+
+Chemical and physical in-use stability has been demonstrated for 12 hours at 2 ºC to 30 ºC, which includes up to 6 hours transportation time. From a microbiological point of view, unless the method of opening precludes the risks of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user.
+
+## Glass pre-filled syringes
+
+The vaccine will be received and stored at 2 °C to 8 °C (refrigerated only). 12 months when stored at 2 °C to 8 °C.
+
+Prior to use, pre-filled syringes can be stored for up to 12 hours at temperatures between 8 °C and 30 °C and can be handled in room light conditions.
+
+## 6.4 Special precautions for storage
+
+## Frozen vials
+
+Store single dose frozen vials and multidose frozen vials in a freezer at -90 °C to -60 °C.
+
+## Refrigerated only vials and glass pre-filled syringes
+
+Store refrigerated only vials and glass pre-filled syringes at 2 °C to 8 °C. DO NOT FREEZE.
+
+<div style=\"page-break-after: always\"></div>
+
+## Vials and pre-filled syringes
+
+Store the vaccine in the original package in order to protect from light.
+
+During storage, minimise exposure to room light, and avoid exposure to direct sunlight and ultraviolet light.
+
+For storage conditions after thawing and first opening, see section 6.3.
+
+## 6.5 Nature and contents of container
+
+Table 19.  Comirnaty XFG nature and contents of container
+
+| Product presentation                                                            | Contents                                                                                                                                                    | Container                           | Dose(s) per container (see sections 4.2 and 6.6)   | Pack size                                      |
+|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|----------------------------------------------------|------------------------------------------------|
+| Comirnaty XFG 30 micrograms/dose dispersion for injection                       | Supplied in a 2 mL clear vial (type I glass) with a stopper (synthetic bromobutyl rubber) and a grey flip-off plastic cap with aluminium seal.              | Multidose (2.25 mL) vial (grey cap) | 6 doses of 0.3 mL                                  | 10 vials                                       |
+| Comirnaty XFG 30 micrograms/dose dispersion for injection in pre-filled syringe | Supplied in a single dose pre-filled syringe with plunger stopper (synthetic bromobutyl rubber) and a tip cap (synthetic bromobutyl rubber) without needle. | Type I glass syringe                | 1 dose of 0.3 mL                                   | 1 pre-filled syringe or 10 pre-filled syringes |
+| Comirnaty XFG 10 micrograms/dose dispersion for injection                       | Supplied in a 2 mL clear vial (type I glass) with a stopper (synthetic bromobutyl rubber) and a blue flip-off plastic cap with aluminium seal.              | Single dose vial (blue cap)         | 1 dose of 0.3 mL                                   | 10 vials                                       |
+| Comirnaty XFG 10 micrograms/dose dispersion for injection                       | Supplied in a 2 mL clear vial (type I glass) with a stopper (synthetic bromobutyl rubber) and a blue flip-off plastic cap with aluminium seal.              | Multidose (2.25 mL) vial (blue cap) | 6 doses of 0.3 mL                                  | 10 vials                                       |
+
+Not all pack sizes may be marketed.
+
+## 6.6 Special precautions for disposal and other handling
+
+## Handling instructions prior to use
+
+Comirnaty XFG should be prepared by a healthcare professional using aseptic technique to ensure the sterility of the prepared dispersion.
+
+## Instructions applicable to single dose and multidose vials
+
+- Verify that the vial has either:
+- -a grey plastic cap and the product name is Comirnaty XFG 30 micrograms/dose dispersion for injection (adults and adolescents from 12 years and older), or
+- -a blue plastic cap and the product name is Comirnaty XFG 10 micrograms/dose dispersion for injection (children 6 months to 11 years).
+- If the vial has another product name on the label, please make reference to the Summary of Product Characteristics for that formulation.
+
+<div style=\"page-break-after: always\"></div>
+
+## Frozen vials
+
+- If the vial is stored frozen it must be thawed prior to use. Frozen vials should be transferred to an environment of 2 °C to 8 °C to thaw. Ensure vials are completely thawed prior to use.
+- -Single dose vials: A 10-vial pack of single dose vials may take 2 hours to thaw.
+- -Multidose vials: A 10-vial pack of multidose vials may take 6 hours to thaw.
+- Upon moving vials to 2 °C to 8 °C storage, update the expiry date on the carton.
+- Unopened vials can be stored for up to 10 weeks at 2 °C to 8 °C ; not exceeding the printed expiry date (EXP).
+- Alternatively, individual frozen vials may be thawed for 30 minutes at temperatures up to 30 °C.
+- Prior to use, the unopened vial can be stored for up to 12 hours at temperatures up to 30 °C. Thawed vials can be handled in room light conditions.
+
+## Refrigerated only vials
+
+- Unopened vials are stored at 2 °C to 8 °C; not exceeding the printed expiry date (EXP).
+- Prior to use, the unopened vial can be stored for up to 12 hours at temperatures up to 30 °C and handled in room light conditions.
+
+## Preparation of 0.3 mL doses
+
+- Gently mix by inverting vials 10 times prior to use. Do not shake.
+- Prior to mixing, the dispersion may contain white to off-white opaque amorphous particles.
+- After mixing, the vaccine should present as a:
+- -Grey cap: white to off-white dispersion with no particulates visible.
+- -Blue cap: clear to slightly opalescent dispersion with no particulates visible.
+- Do not use the vaccine if particulates or discolouration are present.
+- Check whether the vial is a single dose vial or a multidose vial and follow the applicable handling instructions below:
+- -Single dose vials
+-  Withdraw a single 0.3 mL dose of vaccine.
+-  Discard vial and any excess volume.
+- -Multidose vials
+-  Multidose vials contain 6 doses of 0.3 mL each.
+-  Using aseptic technique, cleanse the vial stopper with a single use antiseptic swab.
+-  Withdraw 0.3 mL of Comirnaty XFG.
+-  Low dead-volume syringes and/or needles should be used in order to extract 6 doses from a single vial. The low dead-volume syringe and needle combination should have a dead-volume of no more than 35 microlitres. If standard syringes and needles are used, there may not be sufficient volume to extract a sixth dose from a single vial.
+-  Each dose must contain 0.3 mL of vaccine.
+-  If the amount of vaccine remaining in the vial cannot provide a full dose of 0.3 mL, discard the vial and any excess volume.
+-  Record the appropriate date/time on the multidose vial. Discard any unused vaccine 12 hours after first puncture.
+
+## Instructions applicable to glass pre-filled syringes
+
+- Prior to use, pre-filled syringes can be stored for up to 12 hours at temperatures between 8 °C to 30 °C and can be handled in room light conditions.
+- Remove tip cap by slowly turning the cap counterclockwise. Do not shake. Attach a needle appropriate for intramuscular injection and administer the entire volume.
+
+## Disposal
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+BioNTech Manufacturing GmbH An der Goldgrube 12 55131 Mainz Germany
+
+Phone: +49 6131 9084-0
+
+Fax: +49 6131 9084-2121
+
+service@biontech.de
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+Table 20. Comirnaty XFG marketing authorisation number(s)
+
+| Product presentation                                                            | Container                           | Marketing authorisation number   |
+|---------------------------------------------------------------------------------|-------------------------------------|----------------------------------|
+| Comirnaty XFG 30 micrograms/dose dispersion for injection                       | Multidose vials (frozen)            | EU/1/20/1528/052                 |
+| Comirnaty XFG 30 micrograms/dose dispersion for injection                       | Multidose vials (refrigerated only) | EU/1/20/1528/053                 |
+| Comirnaty XFG 30 micrograms/dose dispersion for injection in pre-filled syringe | 1 glass pre-filled syringe          | EU/1/20/1528/054                 |
+| Comirnaty XFG 30 micrograms/dose dispersion for injection in pre-filled syringe | 10 glass pre-filled syringes        | EU/1/20/1528/055                 |
+| Comirnaty XFG 10 micrograms/dose dispersion for injection                       | Single dose vials                   | EU/1/20/1528/056                 |
+| Comirnaty XFG 10 micrograms/dose dispersion for injection                       | Multidose vials                     | EU/1/20/1528/057                 |
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 21 December 2020
+
+Date of latest renewal: 10 October 2022
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
 ## ANNEX II
 
 - A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCES AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
@@ -5081,8 +6349,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -5094,8 +6362,8 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|----------------------------------------------|
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 PC SN NN
 
@@ -5221,8 +6489,7 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -5232,8 +6499,8 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|----------------------------------------------|
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 PC SN NN
 
@@ -5355,8 +6622,8 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|----------------------------------------------|
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 PC SN NN
 
@@ -5484,8 +6751,8 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|----------------------------------------------|
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 PC SN NN
 
@@ -5505,7 +6772,7 @@ bretovameran
 
 IM
 
-## 2. METHOD OF ADMINISTRATION
+2. METHOD OF ADMINISTRATION
 
 3. EXPIRY DATE
 
@@ -5607,9 +6874,7 @@ After first puncture, store at 2 °C to 30 °C and use within 12 hours.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-BioNTech Manufacturing GmbH
-
-An der Goldgrube 12 55131 Mainz, Germany Single dose vials EU/1/20/1528/032
+BioNTech Manufacturing GmbH An der Goldgrube 12 55131 Mainz, Germany Single dose vials EU/1/20/1528/032
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5626,8 +6891,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -5639,8 +6904,8 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -5674,7 +6939,7 @@ Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-## Single dose vials
+Single dose vials
 
 1 dose
 
@@ -5766,9 +7031,7 @@ After first puncture, store at 2 °C to 30 °C and use within 12 hours.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-BioNTech Manufacturing GmbH
-
-An der Goldgrube 12 55131 Mainz, Germany Single dose vials EU/1/20/1528/037
+BioNTech Manufacturing GmbH An der Goldgrube 12 55131 Mainz, Germany Single dose vials EU/1/20/1528/037
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5785,8 +7048,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -5798,8 +7061,8 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|----------------------------------------------|
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 PC SN NN
 
@@ -5837,7 +7100,9 @@ Single dose vials
 
 1 dose
 
-Multidose vials 6 doses 30 mcg
+Multidose vials
+
+6 doses 30 mcg
 
 ## 6. OTHER
 
@@ -5931,14 +7196,14 @@ Justification for not including Braille accepted.
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
+<div style=\"page-break-after: always\"></div>
+
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|----------------------------------------------|
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 PC SN NN
 
@@ -6060,8 +7325,8 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|----------------------------------------------|
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 PC SN NN
 
@@ -6192,8 +7457,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -6205,16 +7470,14 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-VIAL LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -6330,7 +7593,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -6338,14 +7601,14 @@ Justification for not including Braille accepted.
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-<div style=\"page-break-after: always\"></div>
-
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+<div style=\"page-break-after: always\"></div>
+
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 PC SN NN
 
@@ -6463,8 +7726,8 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|----------------------------------------------|
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 PC SN NN
 
@@ -6540,6 +7803,8 @@ Single use
 
 Keep out of the sight and reach of children.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 ## 8. EXPIRY DATE
@@ -6575,7 +7840,6 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
@@ -6586,10 +7850,8 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|----------------------------------------------|
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
 
 PC SN NN
 
@@ -6720,8 +7982,8 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -6733,12 +7995,14 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -6763,6 +8027,530 @@ Single dose vials
 1 dose
 
 Multidose vials 6 doses 10 mcg
+
+## 6. OTHER
+
+Multidose vials Discard time:
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON (10 frozen vials)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+COMIRNATY XFG 30 micrograms/dose dispersion for injection adults and adolescents from 12 years COVID-19 mRNA Vaccine
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+One dose contains 30 micrograms mRNA encoding XFG.
+
+Each vial contains 6 doses of 0.3 mL.
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: ALC-0315, ALC-0159, DSPC, cholesterol, trometamol, trometamol hydrochloride, sucrose, water for injections
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Dispersion for injection
+
+10 multidose vials
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Intramuscular use.
+
+Do not dilute prior to use.
+
+Read the package leaflet before use.
+
+<!-- image -->
+
+[Scan for more information. www.comirnatyglobal.com](https://www.comirnatyglobal.com/)
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP (at -90 °C to -60 °C)
+
+Expiry date at 2 °C to 8 °C: …………….
+
+(Maximum 10 weeks. Cross out former expiry date.)
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store at 2 °C to 8 °C after receipt. Do not refreeze.
+
+Store in the original package in order to protect from light.
+
+After first puncture, store at 2 °C to 30 °C and use within 12 hours.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+BioNTech Manufacturing GmbH
+
+An der Goldgrube 12
+
+55131 Mainz, Germany
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/20/1528/052
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Justification for not including Braille accepted.
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+<div style=\"page-break-after: always\"></div>
+
+2D barcode carrying the unique identifier included.
+
+<div style=\"page-break-after: always\"></div>
+
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
+
+PC SN NN
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+VIAL LABEL (frozen vial)
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+COMIRNATY XFG 30 mcg injection COVID-19 mRNA Vaccine IM
+
+## 2. METHOD OF ADMINISTRATION
+
+Do not dilute
+
+## 3. EXPIRY DATE
+
+EXP -90 °C to -60 °C
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+6 doses 30 mcg
+
+## 6. OTHER
+
+Discard time:
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON (10 refrigerated only vials)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+COMIRNATY XFG 30 micrograms/dose dispersion for injection adults and adolescents from 12 years COVID-19 mRNA Vaccine
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+One dose contains 30 micrograms mRNA encoding XFG. Each vial contains 6 doses of 0.3 mL.
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: ALC-0315, ALC-0159, DSPC, cholesterol, trometamol, trometamol hydrochloride, sucrose, water for injections
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Dispersion for injection
+
+10 multidose vials
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Intramuscular use.
+
+Do not dilute prior to use.
+
+Read the package leaflet before use.
+
+<!-- image -->
+
+[Scan for more information. www.comirnatyglobal.com](https://www.comirnatyglobal.com/)
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+<div style=\"page-break-after: always\"></div>
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP (at 2 °C to 8 °C)
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator (2 °C to 8 °C). Do not freeze.
+
+Store in the original package in order to protect from light.
+
+After first puncture, store at 2 °C to 30 °C and use within 12 hours.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+BioNTech Manufacturing GmbH An der Goldgrube 12 55131 Mainz, Germany
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/20/1528/053
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Justification for not including Braille accepted.
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+<div style=\"page-break-after: always\"></div>
+
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
+
+PC SN NN
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+VIAL LABEL (refrigerated only vial)
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+COMIRNATY XFG 30 mcg injection COVID-19 mRNA Vaccine IM
+
+## 2. METHOD OF ADMINISTRATION
+
+Do not dilute
+
+## 3. EXPIRY DATE
+
+EXP 2 °C to 8 °C
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+6 doses 30 mcg
+
+## 6. OTHER
+
+Discard time:
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON (glass pre-filled syringe)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+COMIRNATY XFG 30 micrograms/dose dispersion for injection in pre-filled syringe adults and adolescents from 12 years
+
+COVID-19 mRNA Vaccine
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+One pre-filled syringe contains 1 dose of 0.3 mL. One dose contains 30 micrograms mRNA encoding XFG.
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: ALC-0315, ALC-0159, DSPC, cholesterol, trometamol, trometamol hydrochloride, sucrose, water for injections
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Dispersion for injection
+
+1 pre-filled syringe
+
+10 pre-filled syringes
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Intramuscular use.
+
+Read the package leaflet before use.
+
+Single use
+
+<!-- image -->
+
+[Scan for more information. www.comirnatyglobal.com](https://www.comirnatyglobal.com/)
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP (at 2 °C to 8 °C)
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator (2 °C to 8 °C). Do not freeze.
+
+Store in the original package in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+BioNTech Manufacturing GmbH
+
+An der Goldgrube 12
+
+55131 Mainz, Germany
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/20/1528/054   1 pre-filled syringe
+
+EU/1/20/1528/055   10 pre-filled syringes
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+Justification for not including Braille accepted.
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+| 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-----------------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+LABEL (glass pre-filled syringe)
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+COMIRNATY XFG 30 mcg injection COVID-19 mRNA Vaccine IM
+
+## 2. METHOD OF ADMINISTRATION
+
+## 3. EXPIRY DATE
+
+EXP 2 °C to 8 °C
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+1 dose
+
+## 6. OTHER
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+COMIRNATY XFG 10 micrograms/dose dispersion for injection
+
+children 6 months to 11 years
+
+COVID-19 mRNA Vaccine
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+One dose contains 10 micrograms mRNA encoding XFG.
+
+## Single dose vials
+
+Each vial contains 1 dose of 0.3 mL.
+
+Multidose vials
+
+Each vial contains 6 doses of 0.3 mL.
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: ALC-0315, ALC-0159, DSPC, cholesterol, trometamol, trometamol hydrochloride, sucrose, water for injections
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Dispersion for injection
+
+Single dose vials 10 single dose vials
+
+Multidose vials
+
+10 multidose vials
+
+<div style=\"page-break-after: always\"></div>
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Intramuscular use.
+
+Do not dilute prior to use.
+
+Read the package leaflet before use.
+
+<!-- image -->
+
+Scan for more information.
+
+[www.comirnatyglobal.com](https://www.comirnatyglobal.com/)
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP (at -90 °C to -60 °C)
+
+Expiry date at 2 °C to 8 °C: …………….
+
+(Maximum 10 weeks. Cross out former expiry date.)
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store at 2 °C to 8 °C after receipt. Do not refreeze.
+
+Store in the original package in order to protect from light.
+
+Multidose vials
+
+After first puncture, store at 2 °C to 30 °C and use within 12 hours.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+BioNTech Manufacturing GmbH An der Goldgrube 12 55131 Mainz, Germany Single dose vials EU/1/20/1528/056
+
+<div style=\"page-break-after: always\"></div>
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
+
+Multidose vials EU/1/20/1528/057
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Justification for not including Braille accepted.
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+PC SN NN
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+COMIRNATY XFG 10 mcg injection COVID-19 mRNA Vaccine IM
+
+## 2. METHOD OF ADMINISTRATION
+
+Do not dilute
+
+## 3. EXPIRY DATE
+
+EXP -90 °C to -60 °C
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+Single dose vials
+
+1 dose
+
+Multidose vials
+
+6 doses 10 mcg
 
 ## 6. OTHER
 
@@ -7023,7 +8811,7 @@ BioNTech Manufacturing GmbH An der Goldgrube 12 55131 Mainz Germany BioNTech Man
 - Danmark : Pfizer ApS, Tlf.: +45 44 201 100
 - Deutschland : BioNTech Manufacturing GmbH, Tel: +49 6131 90840
 - Eesti : Pfizer Luxembourg SARL Eesti filiaal, Tel: +372 666 7500
-- Ελλάδα : Pfizer Ελλάς A.E., Τηλ.: +30 210 6785 800
+- Ελλάδα : Pfizer Ελλάς A.E., Τηλ .: +30 210 6785 800
 - España : Pfizer, S.L., Tel: +34914909900
 - France : Pfizer, Tél +33 1 58 07 34 40
 - Hrvatska : Pfizer Croatia d.o.o., Tel: +385 1 3908 777
@@ -7266,7 +9054,6 @@ Not known (cannot be estimated from the available data)
 - severe allergic reaction
 - extensive swelling of the vaccinated limb
 - swelling of the face (swelling of the face may occur in patients who have had facial dermatological fillers)
-- ·
 - a skin reaction that causes red spots or patches on the skin, that may look like a target or 'bulls-eye' with a dark red centre surrounded by paler red rings (erythema multiforme)
 - unusual feeling in the skin, such as tingling or a crawling feeling (paraesthesia)
 - decreased feeling or sensitivity, especially in the skin (hypoaesthesia)
@@ -7878,8 +9665,7 @@ Very common side effects: may affect more than 1 in 10 people
 ## Common side effects: may affect up to 1 in 10 people
 
 - nausea
-- vomiting ('very common' in pregnant women 18 years of age and older and in
-- immunocompromised individuals 2 to 18 years of age)
+- vomiting ('very common' in pregnant women 18 years of age and older and in immunocompromised individuals 2 to 18 years of age)
 - injection site redness ('very common' in 6 months to 11 years of age and in immunocompromised individuals 2 years of age and older)
 - enlarged lymph nodes (more frequently observed after a booster dose)
 
@@ -8005,7 +9791,7 @@ Tél/Tel: +32 (0)2 554 62 11
 - Danmark : Pfizer ApS, Tlf.: +45 44 201 100
 - Deutschland : BioNTech Manufacturing GmbH, Tel: +49 6131 90840
 - Eesti : Pfizer Luxembourg SARL Eesti filiaal, Tel: +372 666 7500
-- Ελλάδα : Pfizer Ελλάς A.E., Τηλ.: +30 210 6785 800
+- Ελλάδα : Pfizer Ελλάς A.E., Τηλ .: +30 210 6785 800
 - España : Pfizer, S.L., Tel: +34914909900
 - France : Pfizer, Tél +33 1 58 07 34 40
 - Hrvatska : Pfizer Croatia d.o.o., Tel: +385 1 3908 777
@@ -8101,7 +9887,7 @@ Comirnaty JN.1 should be prepared by a healthcare professional using aseptic tec
 
 - After dilution, the vial contains 2.6 mL from which 10 doses of 0.2 mL can be extracted.
 - Using aseptic technique, cleanse the vial stopper with a single use antiseptic swab.
-- Withdraw 0.2 mL of Comirnaty JN.1 for children aged 5 to 11 years.
+- Withdraw 0.2 mL of Comirnaty JN.1 for infants and children aged 6 months to 11 years.
 - Low dead-volume syringes and/or needles should be used in order to extract 10 doses from a single vial. The low dead-volume syringe and needle combination should have a dead-volume of no more than 35 microlitres. If standard syringes and needles are used, there may not be sufficient volume to extract ten doses from a single vial.
 - Each dose must contain 0.2 mL of vaccine.
 - If the amount of vaccine remaining in the vial cannot provide a full dose of 0.2 mL, discard the vial and any excess volume.
@@ -8375,7 +10161,7 @@ Tél/Tel: +32 (0)2 554 62 11
 - Danmark : Pfizer ApS, Tlf.: +45 44 201 100
 - Deutschland : BioNTech Manufacturing GmbH, Tel: +49 6131 90840
 - Eesti : Pfizer Luxembourg SARL Eesti filiaal, Tel: +372 666 7500
-- Ελλάδα : Pfizer Ελλάς A.E., Τηλ.: +30 210 6785 800
+- Ελλάδα : Pfizer Ελλάς A.E., Τηλ .: +30 210 6785 800
 - España : Pfizer, S.L., Tel: +34914909900
 - France : Pfizer, Tél +33 1 58 07 34 40
 - Hrvatska : Pfizer Croatia d.o.o., Tel: +385 1 3908 777
@@ -8426,9 +10212,9 @@ For individuals who have previously been vaccinated with a COVID-19 vaccine, Com
 
 ## Infants and children 6 months to 4 years of age
 
-If the child has not received a COVID-19 vaccine, administer Comirnaty JN.1 intramuscularly as a primary course of 2 doses of 0.2 mL. Administer the second dose 8 weeks after the first dose.
+If the child has not received a COVID-19 vaccine, administer Comirnaty JN.1 intramuscularly as a primary course of 2 doses of 0.3 mL. Administer the second dose 8 weeks after the first dose.
 
-If the child has completed a COVID-19 vaccine primary course, administer Comirnaty JN.1 intramuscularly as a single dose of 0.2 mL. For individuals who have previously been vaccinated with a COVID-19 vaccine, Comirnaty JN.1 should be administered at least 3 months after the most recent dose of a COVID-19 vaccine.
+If the child has completed a COVID-19 vaccine primary course, administer Comirnaty JN.1 intramuscularly as a single dose of 0.3 mL. For individuals who have previously been vaccinated with a COVID-19 vaccine, Comirnaty JN.1 should be administered at least 3 months after the most recent dose of a COVID-19 vaccine.
 
 If the child has received 1 or 2 doses of the 3 micrograms 3-dose primary series but has not completed the primary vaccination course, additional doses of Comirnaty JN.1 10 micrograms may be given. The second dose may be administered 3 weeks after the first dose followed by a third dose at least 8 weeks after the second dose.
 
@@ -8469,7 +10255,7 @@ Comirnaty JN.1 should be prepared by a healthcare professional using aseptic tec
 - -Multidose vials
 -  Multidose vials contain 6 doses of 0.3 mL each.
 -  Using aseptic technique, cleanse the vial stopper with a single use antiseptic swab.
--  Withdraw 0.3 mL of Comirnaty JN.1 for children aged 5 to 11 years.
+-  Withdraw 0.3 mL of Comirnaty JN.1 for infants and children aged 6 months to 11 years.
 -  Low dead-volume syringes and/or needles should be used in order to extract 6 doses from a single vial. The low dead-volume syringe and needle combination should have a dead-volume of no more than 35 microlitres. If standard syringes and needles are used, there may not be sufficient volume to extract a sixth dose from a single vial.
 -  Each dose must contain 0.3 mL of vaccine.
 -  If the amount of vaccine remaining in the vial cannot provide a full dose of 0.3 mL, discard the vial and any excess volume.
@@ -8722,20 +10508,13 @@ BioNTech Manufacturing GmbH An der Goldgrube 12 55131 Mainz Germany BioNTech Man
 
 <div style=\"page-break-after: always\"></div>
 
-·
-
-: Pfizer S.A./N.V.,
-
-België/Belgique/Belgien, Luxembourg/Luxemburg
-
-Tél/Tel: +32 (0)2 554 62 11
-
+- België/Belgique/Belgien, Luxembourg/Luxemburg : Pfizer S.A./N.V., Tél/Tel: +32 (0)2 554 62 11
 - България : Пфайзер Люксембург САРЛ , Клон , България , Te л : +359 2 970 4333
 - Česká republika : Pfizer, spol. s r.o., Tel: +420 283 004 111
 - Danmark : Pfizer ApS, Tlf.: +45 44 201 100
 - Deutschland : BioNTech Manufacturing GmbH, Tel: +49 6131 90840
 - Eesti : Pfizer Luxembourg SARL Eesti filiaal, Tel: +372 666 7500
-- Ελλάδα : Pfizer Ελλάς A.E., Τηλ.: +30 210 6785 800
+- Ελλάδα : Pfizer Ελλάς A.E., Τηλ .: +30 210 6785 800
 - España : Pfizer, S.L., Tel: +34914909900
 - France : Pfizer, Tél +33 1 58 07 34 40
 - Hrvatska : Pfizer Croatia d.o.o., Tel: +385 1 3908 777
@@ -9070,7 +10849,7 @@ Tél/Tel: +32 (0)2 554 62 11
 <div style=\"page-break-after: always\"></div>
 
 - Eesti : Pfizer Luxembourg SARL Eesti filiaal, Tel: +372 666 7500
-- Ελλάδα : Pfizer Ελλάς A.E., Τηλ.: +30 210 6785 800
+- Ελλάδα : Pfizer Ελλάς A.E., Τηλ .: +30 210 6785 800
 - España : Pfizer, S.L., Tel: +34914909900
 - France : Pfizer, Tél +33 1 58 07 34 40
 - Hrvatska : Pfizer Croatia d.o.o., Tel: +385 1 3908 777
@@ -9389,7 +11168,7 @@ For any information about this medicine, please contact the local representative
 
 - Eesti : Pfizer Luxembourg SARL Eesti filiaal, Tel: +372 666 7500
 
-- Ελλάδα : Pfizer Ελλάς A.E., Τηλ.: +30 210 6785 800
+- Ελλάδα : Pfizer Ελλάς A.E., Τηλ .: +30 210 6785 800
 
 - España : Pfizer, S.L., Tel: +34914909900
 
@@ -9721,7 +11500,7 @@ Tél/Tel: +32 (0)2 554 62 11
 - Danmark : Pfizer ApS, Tlf.: +45 44 201 100
 - Deutschland : BioNTech Manufacturing GmbH, Tel: +49 6131 90840
 - Eesti : Pfizer Luxembourg SARL Eesti filiaal, Tel: +372 666 7500
-- Ελλάδα : Pfizer Ελλάς A.E., Τηλ.: +30 210 6785 800
+- Ελλάδα : Pfizer Ελλάς A.E., Τηλ .: +30 210 6785 800
 - España : Pfizer, S.L., Tel: +34914909900
 - France : Pfizer, Tél +33 1 58 07 34 40
 - Hrvatska : Pfizer Croatia d.o.o., Tel: +385 1 3908 777
@@ -9772,9 +11551,9 @@ For individuals who have previously been vaccinated with a COVID-19 vaccine, Com
 
 ## Infants and children 6 months to 4 years of age
 
-If the child has not received a COVID-19 vaccine, administer Comirnaty KP.2 intramuscularly as a primary course of 2 doses of 0.2 mL. Administer the second dose 8 weeks after the first dose.
+If the child has not received a COVID-19 vaccine, administer Comirnaty KP.2 intramuscularly as a primary course of 2 doses of 0.3 mL. Administer the second dose 8 weeks after the first dose.
 
-If the child has completed a COVID-19 vaccine primary course, administer Comirnaty KP.2 intramuscularly as a single dose of 0.2 mL. For individuals who have previously been vaccinated with a COVID-19 vaccine, Comirnaty KP.2 should be administered at least 3 months after the most recent dose of a COVID-19 vaccine.
+If the child has completed a COVID-19 vaccine primary course, administer Comirnaty KP.2 intramuscularly as a single dose of 0.3 mL. For individuals who have previously been vaccinated with a COVID-19 vaccine, Comirnaty KP.2 should be administered at least 3 months after the most recent dose of a COVID-19 vaccine.
 
 If the child has received 1 or 2 doses of the 3 micrograms 3-dose primary series but has not completed the primary vaccination course, additional doses of Comirnaty KP.2 10 micrograms may be given. The second dose may be administered 3 weeks after the first dose followed by a third dose at least 8 weeks after the second dose.
 
@@ -9815,7 +11594,7 @@ Comirnaty KP.2 should be prepared by a healthcare professional using aseptic tec
 - -Multidose vials
 -  Multidose vials contain 6 doses of 0.3 mL each.
 -  Using aseptic technique, cleanse the vial stopper with a single use antiseptic swab.
--  Withdraw 0.3 mL of Comirnaty KP.2 for children aged 5 to 11 years.
+-  Withdraw 0.3 mL of Comirnaty KP.2 for infants and children aged 6 months to 11 years.
 -  Low dead-volume syringes and/or needles should be used in order to extract 6 doses from a single vial. The low dead-volume syringe and needle combination should have a dead-volume of no more than 35 microlitres. If standard syringes and needles are used, there may not be sufficient volume to extract a sixth dose from a single vial.
 -  Each dose must contain 0.3 mL of vaccine.
 -  If the amount of vaccine remaining in the vial cannot provide a full dose of 0.3 mL, discard the vial and any excess volume.
@@ -10069,7 +11848,7 @@ BioNTech Manufacturing GmbH Kupferbergterrasse 17 - 19 55116 Mainz Germany Pfize
 - Danmark : Pfizer ApS, Tlf.: +45 44 201 100
 - Deutschland : BioNTech Manufacturing GmbH, Tel: +49 6131 90840
 - Eesti : Pfizer Luxembourg SARL Eesti filiaal, Tel: +372 666 7500
-- Ελλάδα : Pfizer Ελλάς A.E., Τηλ.: +30 210 6785 800
+- Ελλάδα : Pfizer Ελλάς A.E., Τηλ .: +30 210 6785 800
 - España : Pfizer, S.L., Tel: +34914909900
 - France : Pfizer, Tél +33 1 58 07 34 40
 - Hrvatska : Pfizer Croatia d.o.o., Tel: +385 1 3908 777
@@ -10277,7 +12056,7 @@ Some of these side effects were slightly more frequent in adolescents 12 to 15 y
 - injection site redness ('very common' in immunocompromised individuals 12 years of age and older)
 - enlarged lymph nodes (more frequently observed after a booster dose)
 
-Uncommon side effects: may affect up to 1 in 100 people
+## Uncommon side effects: may affect up to 1 in 100 people
 
 - feeling unwell, feeling weak or lack of energy/sleepy
 - arm pain
@@ -10391,7 +12170,7 @@ For any information about this medicine, please contact the local representative
 <div style=\"page-break-after: always\"></div>
 
 - Eesti : Pfizer Luxembourg SARL Eesti filiaal, Tel: +372 666 7500
-- Ελλάδα : Pfizer Ελλάς A.E., Τηλ.: +30 210 6785 800
+- Ελλάδα : Pfizer Ελλάς A.E., Τηλ .: +30 210 6785 800
 - España : Pfizer, S.L., Tel: +34914909900
 - France : Pfizer, Tél +33 1 58 07 34 40
 - Hrvatska : Pfizer Croatia d.o.o., Tel: +385 1 3908 777
@@ -10710,7 +12489,7 @@ For any information about this medicine, please contact the local representative
 
 - Eesti : Pfizer Luxembourg SARL Eesti filiaal, Tel: +372 666 7500
 
-- Ελλάδα : Pfizer Ελλάς A.E., Τηλ.: +30 210 6785 800
+- Ελλάδα : Pfizer Ελλάς A.E., Τηλ .: +30 210 6785 800
 
 - España : Pfizer, S.L., Tel: +34914909900
 
@@ -11038,7 +12817,1333 @@ Tél/Tel: +32 (0)2 554 62 11
 - Danmark : Pfizer ApS, Tlf.: +45 44 201 100
 - Deutschland : BioNTech Manufacturing GmbH, Tel: +49 6131 90840
 - Eesti : Pfizer Luxembourg SARL Eesti filiaal, Tel: +372 666 7500
-- Ελλάδα : Pfizer Ελλάς A.E., Τηλ.: +30 210 6785 800
+- Ελλάδα : Pfizer Ελλάς A.E., Τηλ .: +30 210 6785 800
+- España : Pfizer, S.L., Tel: +34914909900
+- France : Pfizer, Tél +33 1 58 07 34 40
+- Hrvatska : Pfizer Croatia d.o.o., Tel: +385 1 3908 777
+- Ireland : Pfizer Healthcare Ireland, Tel: 1800 633 363 (toll free), +44 (0)1304 616161
+- Ísland : Icepharma hf, Simi: +354 540 8000
+- Italia : Pfizer S.r.l., Tel: +39 06 33 18 21
+- Κύπρος : Pfizer Ελλάς Α . Ε . (Cyprus Branch), T ηλ : +357 22 817690
+- Latvija : Pfizer Luxembourg SARL filiāle Latvijā, Tel.: +371 670 35 775
+- Lietuva : Pfizer Luxembourg SARL filialas Lietuvoje, Tel. +370 52 51 4000
+- Magyarország : Pfizer Kft, Tel: +36 1 488 3700
+- Malta : Vivian Corporation Ltd., Tel: +35621 344610
+- Norge : Pfizer AS, Tlf: +47 67 526 100
+- Nederland : Pfizer BV, Tel: +31 (0)10 406 43 01
+- Österreich : Pfizer Corporation Austria Ges.m.b.H, Tel: +43 (0)1 521 15-0
+- Polska : Pfizer Polska Sp. z o.o., Tel.: +48 22 335 61 00
+- Portugal : Laboratórios Pfizer, Lda., Tel: +351 21 423 5500
+- România: Pfizer Romania S.R.L, Tel: +40 (0) 21 207 28 00
+- Slovenija : Pfizer Luxembourg SARL, Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana, Tel.: +386 (0) 1 52 11 400
+- Slovenská republika : Pfizer Luxembourg SARL, organizačná zložka, Tel: +421 2 3355 5500
+
+- Suomi/Finland : Pfizer Oy, Puh/Tel: +358 (0)9 430 040
+
+- Sverige : Pfizer AB, Tel: +46 (0)8 550 520 00
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in
+
+Scan the code with a mobile device to get the package leaflet in different languages.
+
+<!-- image -->
+
+URL: www.comirnatyglobal.com
+
+Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.
+
+------------------------------------------------------------------------------------------------------------------------
+
+## The following information is intended for healthcare professionals only:
+
+## Children 5 years to 11 years of age
+
+Administer Comirnaty LP.8.1 intramuscularly as a single dose of 0.3 mL regardless of prior COVID -19 vaccination status.
+
+For individuals who have previously been vaccinated with a COVID-19 vaccine, Comirnaty LP.8.1 should be administered at least 3 months after the most recent dose of a COVID-19 vaccine.
+
+## Infants and children 6 months to 4 years of age
+
+If the child has not received a COVID-19 vaccine, administer Comirnaty LP.8.1 intramuscularly as a primary course of 2 doses of 0.3 mL. Administer the second dose 8 weeks after the first dose.
+
+If the child has completed a COVID-19 vaccine primary course, administer Comirnaty LP.8.1 intramuscularly as a single dose of 0.3 mL. For individuals who have previously been vaccinated with a COVID-19 vaccine, Comirnaty LP.8.1 should be administered at least 3 months after the most recent dose of a COVID-19 vaccine.
+
+If the child has received 1 or 2 doses of the 3 micrograms 3-dose primary series but has not completed the primary vaccination course, additional doses of Comirnaty LP.8.1 10 micrograms may be given. The second dose may be administered 3 weeks after the first dose followed by a third dose at least 8 weeks after the second dose.
+
+## Immunocompromised infants and children 6 months to 11 years of age
+
+Additional doses may be given to individuals who are severely immunocompromised.
+
+## Traceability
+
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+## Handling instructions prior to use
+
+Comirnaty LP.8.1 should be prepared by a healthcare professional using aseptic technique to ensure the sterility of the prepared dispersion.
+
+- Verify that the vial has a blue plastic cap and the product name is Comirnaty LP.8.1 10 micrograms/dose dispersion for injection (infants and children 6 months to 11 years) .
+- If the vial has another product name on the label, please make reference to the Summary of Product Characteristics for that formulation.
+
+<div style=\"page-break-after: always\"></div>
+
+- If the vial is stored frozen it must be thawed prior to use. Frozen vials should be transferred to an environment of 2 °C to 8 °C to thaw. Ensure vials are completely thawed prior to use.
+- -Single dose vials: A 10-vial pack of single dose vials may take 2 hours to thaw.
+- -Multidose vials: A 10-vial pack of multidose vials may take 6 hours to thaw.
+- Upon moving vials to 2 °C to 8 °C storage, update the expiry date on the carton.
+- Unopened vials can be stored for up to 10 weeks at 2 °C to 8 °C ; not exceeding the printed expiry date (EXP).
+- Alternatively, individual frozen vials may be thawed for 30 minutes at temperatures up to 30 °C.
+- Prior to use, the unopened vial can be stored for up to 12 hours at temperatures up to 30 °C. Thawed vials can be handled in room light conditions.
+
+## Preparation of 0.3 mL doses
+
+- Gently mix by inverting vials 10 times prior to use. Do not shake.
+- Prior to mixing, the thawed dispersion may contain white to off-white opaque amorphous particles.
+- After mixing, the vaccine should present as a clear to slightly opalescent dispersion with no particulates visible. Do not use the vaccine if particulates or discolouration are present.
+- Check whether the vial is a single dose vial or a multidose vial and follow the applicable handling instructions below:
+- -Single dose vials
+-  Withdraw a single 0.3 mL dose of vaccine.
+-  Discard vial and any excess volume.
+- -Multidose vials
+-  Multidose vials contain 6 doses of 0.3 mL each.
+-  Using aseptic technique, cleanse the vial stopper with a single use antiseptic swab.
+-  Withdraw 0.3 mL of Comirnaty LP.8.1 for infants and children aged 6 months to 11 years.
+-  Low dead-volume syringes and/or needles should be used in order to extract 6 doses from a single vial. The low dead-volume syringe and needle combination should have a dead-volume of no more than 35 microlitres. If standard syringes and needles are used, there may not be sufficient volume to extract a sixth dose from a single vial.
+-  Each dose must contain 0.3 mL of vaccine.
+-  If the amount of vaccine remaining in the vial cannot provide a full dose of 0.3 mL, discard the vial and any excess volume.
+-  Record the appropriate date/time on the vial. Discard any unused vaccine 12 hours after first puncture.
+
+## Disposal
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+## Package leaflet: Information for the user
+
+## Comirnaty XFG 30 micrograms/dose dispersion for injection (frozen vials) Adults and adolescents from 12 years COVID-19 mRNA Vaccine
+
+mRNA encoding XFG
+
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+
+## Read all of this leaflet carefully before you receive this vaccine because it contains important information for you.
+
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Comirnaty XFG is and what it is used for
+2. What you need to know before you receive Comirnaty XFG
+3. How Comirnaty XFG is given
+4. Possible side effects
+5. How to store Comirnaty XFG
+6. Contents of the pack and other information
+
+## 1. What Comirnaty XFG is and what it is used for
+
+Comirnaty XFG is a vaccine used for preventing COVID-19 caused by SARS-CoV-2.
+
+Comirnaty XFG 30 micrograms/dose dispersion for injection is given to adults and adolescents from 12 years of age and older.
+
+The vaccine causes the immune system (the body's natural defences) to produce antibodies and blood cells that work against the virus, so giving protection against COVID-19.
+
+As Comirnaty XFG does not contain the virus to produce immunity, it cannot give you COVID-19.
+
+The use of this vaccine should be in accordance with official recommendations.
+
+## 2. What you need to know before you receive Comirnaty XFG
+
+## Comirnaty XFG should not be given
+
+- if you are allergic to the active substance or any of the other ingredients of this medicine (listed in section 6)
+
+## Warnings and precautions
+
+Talk to your doctor, pharmacist or nurse before you are given the vaccine if:
+
+- you have ever had a severe allergic reaction or breathing problems after any other vaccine injection or after you were given this vaccine in the past.
+- you are feeling nervous about the vaccination process or have ever fainted following any needle injection.
+- you have a severe illness or infection with high fever. However, you can have your vaccination if you have a mild fever or upper airway infection like a cold.
+
+<div style=\"page-break-after: always\"></div>
+
+- you have a bleeding problem, you bruise easily or you use a medicine to prevent blood-clots.
+- you have a weakened immune system, because of a disease such as HIV infection or a medicine such as corticosteroid that affects your immune system.
+
+There is an increased risk of myocarditis (inflammation of the heart muscle) and pericarditis (inflammation of the lining outside the heart) after vaccination with Comirnaty (see section 4). These conditions can develop within just a few days after vaccination and have primarily occurred within 14 days. They have been observed more often after the second vaccination, and more often in younger males. The risk of myocarditis and pericarditis seems lower in children ages 5 to 11 years compared with ages 12 to 17 years. Most cases of myocarditis and pericarditis recover. Some cases required intensive care support and fatal cases have been seen. Following vaccination, you should be alert to signs of myocarditis and pericarditis, such as breathlessness, palpitations and chest pain, and seek immediate medical attention should these occur.
+
+As with any vaccine, Comirnaty XFG may not fully protect all those who receive it and it is not known how long you will be protected.
+
+The efficacy of Comirnaty XFG may be lower in people who are immunocompromised. If you are immunocompromised, you may receive additional doses of Comirnaty XFG. In these cases, you should continue to maintain physical precautions to help prevent COVID-19. In addition, your close contacts should be vaccinated as appropriate. Discuss appropriate individual recommendations with your doctor.
+
+## Children
+
+Comirnaty XFG 30 micrograms/dose dispersion for injection is not recommended for children aged under 12 years.
+
+There are paediatric formulations available for infants aged 6 months and above and children below 12 years of age. For details, please refer to the Package Leaflet for other formulations.
+
+The vaccine is not recommended for infants aged under 6 months.
+
+## Other medicines and Comirnaty XFG
+
+Tell your doctor or pharmacist if you are using, have recently used or might use any other medicines or have recently received any other vaccine.
+
+Comirnaty XFG may be given at the same time as a flu vaccine.
+
+In adults 18 years of age and older, Comirnaty XFG may be given at the same time as a pneumococcal conjugated vaccine (PCV).
+
+In adults 18 years of age and older, Comirnaty XFG may be given at the same time as a respiratory syncytial virus (RSV) vaccine.
+
+In older adults 65 years of age and older, Comirnaty XFG may be given at the same time as a high dose flu and an RSV vaccine.
+
+## Pregnancy and breast-feeding
+
+If you are pregnant or think you may be pregnant, tell your doctor, nurse or pharmacist before you receive this vaccine.
+
+No data are available yet regarding the use of Comirnaty XFG during pregnancy. However, a large amount of information from pregnant women vaccinated with the initially approved Comirnaty vaccine during the second and third trimester have not shown negative effects on the pregnancy or the newborn baby. While information on effects on pregnancy or the newborn baby after vaccination during the first trimester is limited, no change to the risk for miscarriage has been seen. Comirnaty XFG can be used during pregnancy.
+
+<div style=\"page-break-after: always\"></div>
+
+No data are available yet regarding the use of Comirnaty XFG during breast-feeding. However, no effects on the breastfed newborn/infant are anticipated. Data from women who were breast-feeding after vaccination with the initially approved Comirnaty vaccine have not shown a risk for adverse effects in breastfed newborns/infants. Comirnaty XFG can be used while breast-feeding.
+
+## Driving and using machines
+
+Some of the effects of vaccination mentioned in section 4 (Possible side effects) may temporarily affect your ability to drive or use machines. Wait until these effects have worn off before you drive or use machines.
+
+## 3. How Comirnaty XFG is given
+
+Comirnaty XFG is given as an injection of 0.3 mL into a muscle of your upper arm.
+
+You will receive 1 injection, regardless whether you have received a COVID-19 vaccine before.
+
+If you were previously vaccinated with a COVID-19 vaccine, you should not receive a dose of Comirnaty XFG until at least 3 months after the most recent dose.
+
+If you are immunocompromised, you may receive additional doses of Comirnaty XFG.
+
+If you have any further questions on the use of Comirnaty XFG, ask your doctor, pharmacist or nurse.
+
+## 4. Possible side effects
+
+Like all vaccines, Comirnaty XFG can cause side effects, although not everybody gets them.
+
+Very common side effects: may affect more than 1 in 10 people
+
+- injection site: pain, swelling
+- tiredness, headache
+- muscle pain, joint pain
+- chills, fever
+- diarrhoea
+
+Some of these side effects were slightly more frequent in adolescents 12 to 15 years than in adults.
+
+## Common side effects: may affect up to 1 in 10 people
+
+- nausea
+- vomiting ('very common' in pregnant women 18 years of age and older and in immunocompromised individuals 12 to 18 years of age)
+- injection site redness ('very common' in immunocompromised individuals 12 years of age and older)
+- enlarged lymph nodes (more frequently observed after a booster dose)
+
+## Uncommon side effects: may affect up to 1 in 100 people
+
+- feeling unwell, feeling weak or lack of energy/sleepy
+- arm pain
+- insomnia
+- injection site itching
+- allergic reactions such as rash or itching
+- decreased appetite
+- dizziness
+- excessive sweating, night sweats
+
+<div style=\"page-break-after: always\"></div>
+
+## Rare side effects: may affect up to 1 in 1 000 people
+
+- temporary one sided facial drooping
+- allergic reactions such as hives or swelling of the face
+
+## Very rare side effects: may affect up to 1 in 10 000 people
+
+- inflammation of the heart muscle (myocarditis) or inflammation of the lining outside the heart (pericarditis) which can result in breathlessness, palpitations or chest pain
+
+Not known (cannot be estimated from the available data)
+
+- severe allergic reaction
+- extensive swelling of the vaccinated limb
+- swelling of the face (swelling of the face may occur in patients who have had facial dermatological fillers)
+- a skin reaction that causes red spots or patches on the skin, that may look like a target or 'bulls-eye' with a dark red centre surrounded by paler red rings (erythema multiforme)
+- unusual feeling in the skin, such as tingling or a crawling feeling (paraesthesia)
+- decreased feeling or sensitivity, especially in the skin (hypoaesthesia)
+- heavy menstrual bleeding (most cases appeared to be non-serious and temporary in nature)
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Comirnaty XFG
+
+Keep this medicine out of the sight and reach of children.
+
+The following information about storage, expiry and use and handling is intended for healthcare professionals.
+
+Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
+
+Store in freezer at -90 °C to -60 °C.
+
+Store in the original package in order to protect from light.
+
+The vaccine will be received frozen at -90 °C to -60 °C. Frozen vaccine can be stored either at -90 °C to -60 °C or 2 °C to 8 °C upon receipt.
+
+When stored frozen at -90 °C to -60 °C, 10-vial packs of the vaccine can be thawed at 2 °C to 8 °C for 6 hours or individual vials can be thawed at room temperature (up to 30 °C) for 30 minutes.
+
+Thawed (previously frozen) vials: Once removed from the freezer, the unopened vial may be stored and transported refrigerated at 2 °C to 8 °C for up to 10 weeks; not exceeding the printed expiry date (EXP). The outer carton should be marked with the new expiry date at 2 °C to 8 °C. Once thawed, the vaccine cannot be re-frozen.
+
+Prior to use, the unopened vials can be stored for up to 12 hours at temperatures between 8 °C and 30 °C.
+
+Thawed vials can be handled in room light conditions.
+
+<div style=\"page-break-after: always\"></div>
+
+Opened vials: After first puncture, store the vaccine at 2 °C to 30 °C and use within 12 hours, which includes up to 6 hours transportation time. Discard any unused vaccine.
+
+Do not use this vaccine if you notice particulates or discolouration.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Comirnaty XFG contains
+
+- The active substance of COVID-19 mRNA Vaccine (nucleoside modified) is called mRNA encoding XFG. A multidose vial contains 6 doses of 0.3 mL with 30 micrograms mRNA encoding XFG each.
+- The other ingredients are:
+- -((4-hydroxybutyl)azanediyl)bis(hexane-6,1-diyl)bis(2-hexyldecanoate) (ALC-0315)
+- -2-[(polyethylene glycol)-2000]-N,N-ditetradecylacetamide (ALC-0159)
+- -1,2-Distearoyl-sn-glycero-3-phosphocholine (DSPC)
+- -cholesterol
+- -trometamol
+- -trometamol hydrochloride
+- -sucrose
+- -water for injections
+
+## What Comirnaty XFG looks like and contents of the pack
+
+The vaccine is a white to off-white dispersion (pH: 6.9 - 7.9) provided in a multidose vial of 6 doses in a 2 mL clear vial (type I glass), with a rubber stopper and a grey flip-off plastic cap with aluminium seal.
+
+Multidose vials pack size: 10 vials
+
+## Marketing Authorisation Holder
+
+BioNTech Manufacturing GmbH An der Goldgrube 12 55131 Mainz Germany
+
+Phone: +49 6131 9084-0
+
+Fax: +49 6131 9084-2121
+
+service@biontech.de
+
+## Manufacturers
+
+BioNTech Manufacturing GmbH An der Goldgrube 12 55131 Mainz Germany
+
+BioNTech Manufacturing GmbH Kupferbergterrasse 17 - 19 55116 Mainz Germany Pfizer Manufacturing Belgium NV Rijksweg 12 Puurs-Sint-Amands, 2870 Belgium For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+<div style=\"page-break-after: always\"></div>
+
+- België/Belgique/Belgien, Luxembourg/Luxemburg : Pfizer S.A./N.V., Tél/Tel: +32 (0)2 554 62 11
+- България : Пфайзер Люксембург САРЛ , Клон , България , Te л : +359 2 970 4333
+- Česká republika : Pfizer, spol. s r.o., Tel: +420 283 004 111
+- Danmark : Pfizer ApS, Tlf.: +45 44 201 100
+- Deutschland : BioNTech Manufacturing GmbH, Tel: +49 6131 90840
+- Eesti : Pfizer Luxembourg SARL Eesti filiaal, Tel: +372 666 7500
+- Ελλάδα : Pfizer Ελλάς A.E., Τηλ .: +30 210 6785 800
+- España : Pfizer, S.L., Tel: +34914909900
+- France : Pfizer, Tél +33 1 58 07 34 40
+- Hrvatska : Pfizer Croatia d.o.o., Tel: +385 1 3908 777
+- Ireland : Pfizer Healthcare Ireland, Tel: 1800 633 363 (toll free), +44 (0)1304 616161
+- Ísland : Icepharma hf, Simi: +354 540 8000
+- Italia : Pfizer S.r.l., Tel: +39 06 33 18 21
+- Κύπρος : Pfizer Ελλάς Α . Ε . (Cyprus Branch), T ηλ : +357 22 817690
+- Latvija : Pfizer Luxembourg SARL filiāle Latvijā, Tel.: +371 670 35 775
+- Lietuva : Pfizer Luxembourg SARL filialas Lietuvoje, Tel. +370 52 51 4000
+- Magyarország : Pfizer Kft, Tel: +36 1 488 3700
+- Malta : Vivian Corporation Ltd., Tel: +35621 344610
+- Norge : Pfizer AS, Tlf: +47 67 526 100
+- Nederland : Pfizer BV, Tel: +31 (0)10 406 43 01
+- Österreich : Pfizer Corporation Austria Ges.m.b.H, Tel: +43 (0)1 521 15-0
+- Polska : Pfizer Polska Sp. z o.o., Tel.: +48 22 335 61 00
+- Portugal : Laboratórios Pfizer, Lda., Tel: +351 21 423 5500
+- România: Pfizer Romania S.R.L, Tel: +40 (0) 21 207 28 00
+- Slovenija : Pfizer Luxembourg SARL, Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana, Tel.: +386 (0) 1 52 11 400
+- Slovenská republika : Pfizer Luxembourg SARL, organizačná zložka, Tel: +421 2 3355 5500
+- Suomi/Finland : Pfizer Oy, Puh/Tel: +358 (0)9 430 040
+- Sverige : Pfizer AB, Tel: +46 (0)8 550 520 00
+
+## This leaflet was last revised in
+
+Scan the code with a mobile device to get the package leaflet in different languages.
+
+<!-- image -->
+
+URL: www.comirnatyglobal.com
+
+Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.
+
+------------------------------------------------------------------------------------------------------------------------
+
+<div style=\"page-break-after: always\"></div>
+
+## The following information is intended for healthcare professionals only:
+
+Administer Comirnaty XFG intramuscularly as a single dose of 0.3 mL regardless of prior COVID-19 vaccination status.
+
+For individuals who have previously been vaccinated with a COVID-19 vaccine, Comirnaty XFG should be administered at least 3 months after the most recent dose of a COVID-19 vaccine.
+
+Additional doses may be given to individuals who are severely immunocompromised.
+
+## Traceability
+
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+## Handling instructions prior to use for frozen vials
+
+Comirnaty XFG should be prepared by a healthcare professional using aseptic technique to ensure the sterility of the prepared dispersion.
+
+- Verify that the vial has a grey plastic cap and the product name is Comirnaty XFG 30 micrograms/dose dispersion for injection (12 years and older).
+- If the vial has another product name on the label, please make reference to the Summary of Product Characteristics for that formulation.
+- If the vial is stored frozen it must be thawed prior to use. Frozen vials should be transferred to an environment of 2 °C to 8 °C to thaw. Ensure vials are completely thawed prior to use. A 10 -vial pack of multidose vials may take 6 hours to thaw.
+- Upon moving vials to 2 °C to 8 °C storage, update the expiry date on the carton.
+- Unopened vials can be stored for up to 10 weeks at 2 °C to 8 °C ; not exceeding the printed expiry date (EXP).
+- Alternatively, individual frozen vials may be thawed for 30 minutes at temperatures up to 30 °C.
+- Prior to use, the unopened vial can be stored for up to 12 hours at temperatures up to 30 °C. Thawed vials can be handled in room light conditions.
+
+## Preparation of 0.3 mL doses
+
+- Gently mix by inverting vials 10 times prior to use. Do not shake.
+- Prior to mixing, the thawed dispersion may contain white to off-white opaque amorphous particles.
+- After mixing, the vaccine should present as a white to off-white dispersion with no particulates visible. Do not use the vaccine if particulates or discolouration are present.
+- Using aseptic technique, cleanse the vial stopper with a single use antiseptic swab.
+- Withdraw 0.3 mL of Comirnaty XFG.
+- Low dead-volume syringes and/or needles should be used in order to extract 6 doses from a single vial. The low dead-volume syringe and needle combination should have a dead-volume of no more than 35 microlitres. If standard syringes and needles are used, there may not be sufficient volume to extract a sixth dose from a single vial.
+- Each dose must contain 0.3 mL of vaccine.
+- If the amount of vaccine remaining in the vial cannot provide a full dose of 0.3 mL, discard the vial and any excess volume.
+- Record the appropriate date/time on the vial. Discard any unused vaccine 12 hours after first puncture.
+
+## Disposal
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+## Package leaflet: Information for the user
+
+## Comirnaty XFG 30 micrograms/dose dispersion for injection (refrigerated only vials) Adults and adolescents from 12 years COVID-19 mRNA Vaccine
+
+mRNA encoding XFG
+
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+
+## Read all of this leaflet carefully before you receive this vaccine because it contains important information for you.
+
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Comirnaty XFG is and what it is used for
+2. What you need to know before you receive Comirnaty XFG
+3. How Comirnaty XFG is given
+4. Possible side effects
+5. How to store Comirnaty XFG
+6. Contents of the pack and other information
+
+## 1. What Comirnaty XFG is and what it is used for
+
+Comirnaty XFG is a vaccine used for preventing COVID-19 caused by SARS-CoV-2.
+
+Comirnaty XFG 30 micrograms/dose dispersion for injection is given to adults and adolescents from 12 years of age and older.
+
+The vaccine causes the immune system (the body's natural defences) to produce antibodies and blood cells that work against the virus, so giving protection against COVID-19.
+
+As Comirnaty XFG does not contain the virus to produce immunity, it cannot give you COVID-19.
+
+The use of this vaccine should be in accordance with official recommendations.
+
+## 2. What you need to know before you receive Comirnaty XFG
+
+## Comirnaty XFG should not be given
+
+- if you are allergic to the active substance or any of the other ingredients of this medicine (listed in section 6)
+
+## Warnings and precautions
+
+Talk to your doctor, pharmacist or nurse before you are given the vaccine if:
+
+- you have ever had a severe allergic reaction or breathing problems after any other vaccine injection or after you were given this vaccine in the past.
+- you are feeling nervous about the vaccination process or have ever fainted following any needle injection.
+- you have a severe illness or infection with high fever. However, you can have your vaccination if you have a mild fever or upper airway infection like a cold.
+
+<div style=\"page-break-after: always\"></div>
+
+- you have a bleeding problem, you bruise easily or you use a medicine to prevent blood-clots.
+- you have a weakened immune system, because of a disease such as HIV infection or a medicine such as corticosteroid that affects your immune system.
+
+There is an increased risk of myocarditis (inflammation of the heart muscle) and pericarditis (inflammation of the lining outside the heart) after vaccination with Comirnaty (see section 4). These conditions can develop within just a few days after vaccination and have primarily occurred within 14 days. They have been observed more often after the second vaccination, and more often in younger males. The risk of myocarditis and pericarditis seems lower in children ages 5 to 11 years compared with ages 12 to 17 years. Most cases of myocarditis and pericarditis recover. Some cases required intensive care support and fatal cases have been seen. Following vaccination, you should be alert to signs of myocarditis and pericarditis, such as breathlessness, palpitations and chest pain, and seek immediate medical attention should these occur.
+
+As with any vaccine, Comirnaty XFG may not fully protect all those who receive it and it is not known how long you will be protected.
+
+The efficacy of Comirnaty XFG may be lower in people who are immunocompromised. If you are immunocompromised, you may receive additional doses of Comirnaty XFG. In these cases, you should continue to maintain physical precautions to help prevent COVID-19. In addition, your close contacts should be vaccinated as appropriate. Discuss appropriate individual recommendations with your doctor.
+
+## Children
+
+Comirnaty XFG 30 micrograms/dose dispersion for injection is not recommended for children aged under 12 years.
+
+There are paediatric formulations available for infants aged 6 months and above and children below 12 years of age. For details, please refer to the Package Leaflet for other formulations.
+
+The vaccine is not recommended for infants aged under 6 months.
+
+## Other medicines and Comirnaty XFG
+
+Tell your doctor or pharmacist if you are using, have recently used or might use any other medicines or have recently received any other vaccine.
+
+Comirnaty XFG may be given at the same time as a flu vaccine.
+
+In adults 18 years of age and older, Comirnaty XFG may be given at the same time as a pneumococcal conjugated vaccine (PCV).
+
+In adults 18 years of age and older, Comirnaty XFG may be given at the same time as a respiratory syncytial virus (RSV) vaccine.
+
+In older adults 65 years of age and older, Comirnaty XFG may be given at the same time as a high dose flu and an RSV vaccine.
+
+## Pregnancy and breast-feeding
+
+If you are pregnant or think you may be pregnant, tell your doctor, nurse or pharmacist before you receive this vaccine.
+
+No data are available yet regarding the use of Comirnaty XFG during pregnancy. However, a large amount of information from pregnant women vaccinated with the initially approved Comirnaty vaccine during the second and third trimester have not shown negative effects on the pregnancy or the newborn baby. While information on effects on pregnancy or the newborn baby after vaccination during the first trimester is limited, no change to the risk for miscarriage has been seen. Comirnaty XFG can be used during pregnancy.
+
+<div style=\"page-break-after: always\"></div>
+
+No data are available yet regarding the use of Comirnaty XFG during breast-feeding. However, no effects on the breastfed newborn/infant are anticipated. Data from women who were breast-feeding after vaccination with the initially approved Comirnaty vaccine have not shown a risk for adverse effects in breastfed newborns/infants. Comirnaty XFG can be used while breast-feeding.
+
+## Driving and using machines
+
+Some of the effects of vaccination mentioned in section 4 (Possible side effects) may temporarily affect your ability to drive or use machines. Wait until these effects have worn off before you drive or use machines.
+
+## 3. How Comirnaty XFG is given
+
+Comirnaty XFG is given as an injection of 0.3 mL into a muscle of your upper arm.
+
+You will receive 1 injection, regardless whether you have received a COVID-19 vaccine before.
+
+If you were previously vaccinated with a COVID-19 vaccine, you should not receive a dose of Comirnaty XFG until at least 3 months after the most recent dose.
+
+If you are immunocompromised, you may receive additional doses of Comirnaty XFG.
+
+If you have any further questions on the use of Comirnaty XFG, ask your doctor, pharmacist or nurse.
+
+## 4. Possible side effects
+
+Like all vaccines, Comirnaty XFG can cause side effects, although not everybody gets them.
+
+Very common side effects: may affect more than 1 in 10 people
+
+- injection site: pain, swelling
+- tiredness, headache
+- muscle pain, joint pain
+- chills, fever
+- diarrhoea
+
+Some of these side effects were slightly more frequent in adolescents 12 to 15 years than in adults.
+
+## Common side effects: may affect up to 1 in 10 people
+
+- nausea
+- vomiting ('very common' in pregnant women 18 years of age and older and in immunocompromised individuals 12 to 18 years of age)
+- injection site redness ('very common' in immunocompromised individuals 12 years of age and older)
+- enlarged lymph nodes (more frequently observed after a booster dose)
+
+## Uncommon side effects: may affect up to 1 in 100 people
+
+- feeling unwell, feeling weak or lack of energy/sleepy
+- arm pain
+- insomnia
+- injection site itching
+- allergic reactions such as rash or itching
+- decreased appetite
+- dizziness
+- excessive sweating, night sweats
+
+<div style=\"page-break-after: always\"></div>
+
+## Rare side effects: may affect up to 1 in 1 000 people
+
+- temporary one sided facial drooping
+- allergic reactions such as hives or swelling of the face
+
+## Very rare side effects: may affect up to 1 in 10 000 people
+
+- inflammation of the heart muscle (myocarditis) or inflammation of the lining outside the heart (pericarditis) which can result in breathlessness, palpitations or chest pain
+
+Not known (cannot be estimated from the available data)
+
+- severe allergic reaction
+- extensive swelling of the vaccinated limb
+- swelling of the face (swelling of the face may occur in patients who have had facial dermatological fillers)
+- a skin reaction that causes red spots or patches on the skin, that may look like a target or 'bulls-eye' with a dark red centre surrounded by paler red rings (erythema multiforme)
+- unusual feeling in the skin, such as tingling or a crawling feeling (paraesthesia)
+- decreased feeling or sensitivity, especially in the skin (hypoaesthesia)
+- heavy menstrual bleeding (most cases appeared to be non-serious and temporary in nature)
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Comirnaty XFG
+
+Keep this medicine out of the sight and reach of children.
+
+The following information about storage, expiry and use and handling is intended for healthcare professionals.
+
+Do not use this medicine after the expiry date which is stated on the carton and label after EXP.
+
+Store in a refrigerator at 2 °C to 8 °C. DO NOT FREEZE.
+
+Store in the original package in order to protect from light.
+
+Prior to use, the unopened vials can be stored for up to 12 hours at temperatures between 8 °C and 30 °C and handled in room light conditions.
+
+Opened vials: After first puncture, store the vaccine at 2 °C to 30 °C and use within 12 hours, which includes up to 6 hours transportation time. Discard any unused vaccine.
+
+Do not use this vaccine if you notice particulates or discolouration.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+<div style=\"page-break-after: always\"></div>
+
+## 6. Contents of the pack and other information
+
+## What Comirnaty XFG contains
+
+- The active substance of COVID-19 mRNA Vaccine (nucleoside modified) is called mRNA encoding XFG. A multidose vial contains 6 doses of 0.3 mL with 30 micrograms mRNA encoding XFG each.
+- The other ingredients are:
+- -((4-hydroxybutyl)azanediyl)bis(hexane-6,1-diyl)bis(2-hexyldecanoate) (ALC-0315)
+- -2-[(polyethylene glycol)-2000]-N,N-ditetradecylacetamide (ALC-0159)
+- -1,2-Distearoyl-sn-glycero-3-phosphocholine (DSPC)
+- -cholesterol
+- -trometamol
+- -trometamol hydrochloride
+- -sucrose
+- -water for injections
+
+## What Comirnaty XFG looks like and contents of the pack
+
+The vaccine is a white to off-white dispersion (pH: 6.9 - 7.9) provided in a multidose vial of 6 doses in a 2 mL clear vial (type I glass), with a rubber stopper and a grey flip-off plastic cap with aluminium seal.
+
+Multidose vials pack size: 10 vials
+
+## Marketing Authorisation Holder
+
+BioNTech Manufacturing GmbH An der Goldgrube 12 55131 Mainz
+
+Germany
+
+Phone: +49 6131 9084-0
+
+Fax: +49 6131 9084-2121
+
+service@biontech.de
+
+## Manufacturers
+
+BioNTech Manufacturing GmbH An der Goldgrube 12 55131 Mainz Germany
+
+BioNTech Manufacturing GmbH Kupferbergterrasse 17 - 19 55116 Mainz Germany
+
+Pfizer Manufacturing Belgium NV Rijksweg 12 Puurs-Sint-Amands, 2870 Belgium
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+- België/Belgique/Belgien, Luxembourg/Luxemburg : Pfizer S.A./N.V.,
+
+Tél/Tel: +32 (0)2 554 62 11
+
+- България : Пфайзер Люксембург САРЛ , Клон , България , Te л : +359 2 970 4333
+
+- Česká republika : Pfizer, spol. s r.o., Tel: +420 283 004 111
+
+- Danmark
+
+- : Pfizer ApS, Tlf.: +45 44 201 100
+
+- Deutschland : BioNTech Manufacturing GmbH, Tel: +49 6131 90840
+
+<div style=\"page-break-after: always\"></div>
+
+- Eesti : Pfizer Luxembourg SARL Eesti filiaal, Tel: +372 666 7500
+- Ελλάδα : Pfizer Ελλάς A.E., Τηλ .: +30 210 6785 800
+- España : Pfizer, S.L., Tel: +34914909900
+- France : Pfizer, Tél +33 1 58 07 34 40
+- Hrvatska : Pfizer Croatia d.o.o., Tel: +385 1 3908 777
+- Ireland : Pfizer Healthcare Ireland, Tel: 1800 633 363 (toll free), +44 (0)1304 616161
+- Ísland : Icepharma hf, Simi: +354 540 8000
+- Italia : Pfizer S.r.l., Tel: +39 06 33 18 21
+- Κύπρος : Pfizer Ελλάς Α . Ε . (Cyprus Branch), T ηλ : +357 22 817690
+- Latvija : Pfizer Luxembourg SARL filiāle Latvijā, Tel.: +371 670 35 775
+- Lietuva : Pfizer Luxembourg SARL filialas Lietuvoje, Tel. +370 52 51 4000
+- Magyarország : Pfizer Kft, Tel: +36 1 488 3700
+- Malta : Vivian Corporation Ltd., Tel: +35621 344610
+- Norge : Pfizer AS, Tlf: +47 67 526 100
+- Nederland : Pfizer BV, Tel: +31 (0)10 406 43 01
+- Österreich : Pfizer Corporation Austria Ges.m.b.H, Tel: +43 (0)1 521 15-0
+- Polska : Pfizer Polska Sp. z o.o., Tel.: +48 22 335 61 00
+- Portugal : Laboratórios Pfizer, Lda., Tel: +351 21 423 5500
+- România: Pfizer Romania S.R.L, Tel: +40 (0) 21 207 28 00
+- Slovenija : Pfizer Luxembourg SARL, Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana, Tel.: +386 (0) 1 52 11 400
+- Slovenská republika : Pfizer Luxembourg SARL, organizačná zložka, Tel: +421 2 3355 5500
+- Suomi/Finland : Pfizer Oy, Puh/Tel: +358 (0)9 430 040
+- Sverige : Pfizer AB, Tel: +46 (0)8 550 520 00
+
+## This leaflet was last revised in
+
+Scan the code with a mobile device to get the package leaflet in different languages.
+
+<!-- image -->
+
+URL: www.comirnatyglobal.com
+
+Detailed information on this medicine is available on the European Medicines Agency website:
+
+[https://www.ema.europa.eu.](https://www.ema.europa.eu/en/homepage)
+
+------------------------------------------------------------------------------------------------------------------------
+
+## The following information is intended for healthcare professionals only:
+
+Administer Comirnaty XFG intramuscularly as a single dose of 0.3 mL regardless of prior COVID-19 vaccination status.
+
+For individuals who have previously been vaccinated with a COVID-19 vaccine, Comirnaty XFG should be administered at least 3 months after the most recent dose of a COVID-19 vaccine.
+
+Additional doses may be given to individuals who are severely immunocompromised.
+
+## Traceability
+
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+<div style=\"page-break-after: always\"></div>
+
+## Handling instructions prior to use for refrigerated only vials
+
+Comirnaty XFG should be prepared by a healthcare professional using aseptic technique to ensure the sterility of the prepared dispersion.
+
+- Verify that the vial has a grey plastic cap and the product name is Comirnaty XFG 30 micrograms/dose dispersion for injection (12 years and older).
+- If the vial has another product name on the label, please make reference to the Summary of Product Characteristics for that formulation.
+- Unopened vials are stored at 2 °C to 8 °C ; not exceeding the printed expiry date (EXP).
+- Prior to use, the unopened vial can be stored for up to 12 hours at temperatures up to 30 °C and handled in room light conditions.
+
+## Preparation of 0.3 mL doses
+
+- Gently mix by inverting vials 10 times prior to use. Do not shake.
+- Prior to mixing, the dispersion may contain white to off-white opaque amorphous particles.
+- After mixing, the vaccine should present as a white to off-white dispersion with no particulates visible. Do not use the vaccine if particulates or discolouration are present.
+- Multidose vials contain 6 doses of 0.3 mL each.
+- Using aseptic technique, cleanse the vial stopper with a single use antiseptic swab.
+- Withdraw 0.3 mL of Comirnaty XFG. Low dead-volume syringes and/or needles should be used in order to extract 6 doses from a single vial. The low dead-volume syringe and needle combination should have a dead-volume of no more than 35 microlitres. If standard syringes and needles are used, there may not be sufficient volume to extract a sixth dose from a single vial.
+- Each dose must contain 0.3 mL of vaccine.
+- If the amount of vaccine remaining in the vial cannot provide a full dose of 0.3 mL, discard the vial and any excess volume.
+- Record the appropriate date/time on the vial. Discard any unused vaccine 12 hours after first puncture.
+
+## Disposal
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+## Package leaflet: Information for the user
+
+## Comirnaty XFG 30 micrograms/dose dispersion for injection in pre-filled syringe (glass) Adults and adolescents from 12 years COVID-19 mRNA Vaccine
+
+mRNA encoding XFG
+
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+
+## Read all of this leaflet carefully before you receive this vaccine because it contains important information for you.
+
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Comirnaty XFG is and what it is used for
+2. What you need to know before you receive Comirnaty XFG
+3. How Comirnaty XFG is given
+4. Possible side effects
+5. How to store Comirnaty XFG
+6. Contents of the pack and other information
+
+## 1. What Comirnaty XFG is and what it is used for
+
+Comirnaty XFG is a vaccine used for preventing COVID-19 caused by SARS-CoV-2.
+
+Comirnaty XFG 30 micrograms/dose dispersion for injection is given to adults and adolescents from 12 years of age and older.
+
+The vaccine causes the immune system (the body's natural defences) to produce antibodies and blood cells that work against the virus, so giving protection against COVID-19.
+
+As Comirnaty XFG does not contain the virus to produce immunity, it cannot give you COVID-19.
+
+The use of this vaccine should be in accordance with official recommendations.
+
+## 2. What you need to know before you receive Comirnaty XFG
+
+## Comirnaty XFG should not be given
+
+- if you are allergic to the active substance or any of the other ingredients of this medicine (listed in section 6)
+
+## Warnings and precautions
+
+Talk to your doctor, pharmacist or nurse before you are given the vaccine if:
+
+- you have ever had a severe allergic reaction or breathing problems after any other vaccine injection or after you were given this vaccine in the past.
+- you are feeling nervous about the vaccination process or have ever fainted following any needle injection.
+- you have a severe illness or infection with high fever. However, you can have your vaccination if you have a mild fever or upper airway infection like a cold.
+
+<div style=\"page-break-after: always\"></div>
+
+- you have a bleeding problem, you bruise easily or you use a medicine to prevent blood-clots.
+- you have a weakened immune system, because of a disease such as HIV infection or a medicine such as corticosteroid that affects your immune system.
+
+There is an increased risk of myocarditis (inflammation of the heart muscle) and pericarditis (inflammation of the lining outside the heart) after vaccination with Comirnaty (see section 4). These conditions can develop within just a few days after vaccination and have primarily occurred within 14 days. They have been observed more often after the second vaccination, and more often in younger males. The risk of myocarditis and pericarditis seems lower in children ages 5 to 11 years compared with ages 12 to 17 years. Most cases of myocarditis and pericarditis recover. Some cases required intensive care support and fatal cases have been seen. Following vaccination, you should be alert to signs of myocarditis and pericarditis, such as breathlessness, palpitations and chest pain, and seek immediate medical attention should these occur.
+
+As with any vaccine, Comirnaty XFG may not fully protect all those who receive it and it is not known how long you will be protected.
+
+The efficacy of Comirnaty XFG may be lower in people who are immunocompromised. If you are immunocompromised, you may receive additional doses of Comirnaty XFG. In these cases, you should continue to maintain physical precautions to help prevent COVID-19. In addition, your close contacts should be vaccinated as appropriate. Discuss appropriate individual recommendations with your doctor.
+
+## Children
+
+Comirnaty XFG 30 micrograms/dose dispersion for injection is not recommended for children aged under 12 years.
+
+There are paediatric formulations available for infants aged 6 months and above and children below 12 years of age. For details, please refer to the Package Leaflet for other formulations.
+
+The vaccine is not recommended for infants aged under 6 months.
+
+## Other medicines and Comirnaty XFG
+
+Tell your doctor or pharmacist if you are using, have recently used or might use any other medicines or have recently received any other vaccine.
+
+Comirnaty XFG may be given at the same time as a flu vaccine.
+
+In adults 18 years of age and older, Comirnaty XFG may be given at the same time as a pneumococcal conjugated vaccine (PCV).
+
+In adults 18 years of age and older, Comirnaty XFG may be given at the same time as a respiratory syncytial virus (RSV) vaccine.
+
+In older adults 65 years of age and older, Comirnaty XFG may be given at the same time as a high dose flu and an RSV vaccine.
+
+## Pregnancy and breast-feeding
+
+If you are pregnant or think you may be pregnant, tell your doctor, nurse or pharmacist before you receive this vaccine.
+
+No data are available yet regarding the use of Comirnaty XFG during pregnancy. However, a large amount of information from pregnant women vaccinated with the initially approved Comirnaty vaccine during the second and third trimester have not shown negative effects on the pregnancy or the newborn baby. While information on effects on pregnancy or the newborn baby after vaccination during the first trimester is limited, no change to the risk for miscarriage has been seen. Comirnaty XFG can be used during pregnancy.
+
+<div style=\"page-break-after: always\"></div>
+
+No data are available yet regarding the use of Comirnaty XFG during breast-feeding. However, no effects on the breastfed newborn/infant are anticipated. Data from women who were breast-feeding after vaccination with the initially approved Comirnaty vaccine have not shown a risk for adverse effects in breastfed newborns/infants. Comirnaty XFG can be used while breast-feeding.
+
+## Driving and using machines
+
+Some of the effects of vaccination mentioned in section 4 (Possible side effects) may temporarily affect your ability to drive or use machines. Wait until these effects have worn off before you drive or use machines.
+
+## 3. How Comirnaty XFG is given
+
+Comirnaty XFG is given as an injection of 0.3 mL into a muscle of your upper arm.
+
+You will receive 1 injection, regardless whether you have received a COVID-19 vaccine before.
+
+If you were previously vaccinated with a COVID-19 vaccine, you should not receive a dose of Comirnaty XFG until at least 3 months after the most recent dose.
+
+If you are immunocompromised, you may receive additional doses of Comirnaty XFG.
+
+If you have any further questions on the use of Comirnaty XFG, ask your doctor, pharmacist or nurse.
+
+## 4. Possible side effects
+
+Like all vaccines, Comirnaty XFG can cause side effects, although not everybody gets them.
+
+Very common side effects: may affect more than 1 in 10 people
+
+- injection site: pain, swelling
+- tiredness, headache
+- muscle pain, joint pain
+- chills, fever
+- diarrhoea
+
+Some of these side effects were slightly more frequent in adolescents 12 to 15 years than in adults.
+
+## Common side effects: may affect up to 1 in 10 people
+
+- nausea
+- vomiting ('very common' in pregnant women 18 years of age and older and in immunocompromised individuals 12 to 18 years of age)
+- injection site redness ('very common' in immunocompromised individuals 12 years of age and older)
+- enlarged lymph nodes (more frequently observed after a booster dose)
+
+## Uncommon side effects: may affect up to 1 in 100 people
+
+- feeling unwell, feeling weak or lack of energy/sleepy
+- arm pain
+- insomnia
+- injection site itching
+- allergic reactions such as rash or itching
+- decreased appetite
+- dizziness
+- excessive sweating, night sweats
+
+<div style=\"page-break-after: always\"></div>
+
+## Rare side effects: may affect up to 1 in 1 000 people
+
+- temporary one sided facial drooping
+- allergic reactions such as hives or swelling of the face
+
+## Very rare side effects: may affect up to 1 in 10 000 people
+
+- inflammation of the heart muscle (myocarditis) or inflammation of the lining outside the heart (pericarditis) which can result in breathlessness, palpitations or chest pain
+
+Not known (cannot be estimated from the available data)
+
+- severe allergic reaction
+- extensive swelling of the vaccinated limb
+- swelling of the face (swelling of the face may occur in patients who have had facial dermatological fillers)
+- a skin reaction that causes red spots or patches on the skin, that may look like a target or 'bulls-eye' with a dark red centre surrounded by paler red rings (erythema multiforme)
+- unusual feeling in the skin, such as tingling or a crawling feeling (paraesthesia)
+- decreased feeling or sensitivity, especially in the skin (hypoaesthesia)
+- heavy menstrual bleeding (most cases appeared to be non-serious and temporary in nature)
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Comirnaty XFG
+
+Keep this medicine out of the sight and reach of children.
+
+The following information about storage, expiry and use and handling is intended for healthcare professionals.
+
+Do not use this medicine after the expiry date which is stated on the carton and label after EXP.
+
+Store in a refrigerator at 2 °C to 8 °C. DO NOT FREEZE.
+
+Store in the original package in order to protect from light.
+
+The vaccine will be received and stored at 2 °C to 8 °C (refrigerated only). Prior to use, pre-filled syringes can be stored for up to 12 hours at temperatures between 8 °C to 30 °C and can be handled in room light conditions.
+
+Do not use this vaccine if you notice particulates or discolouration.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Comirnaty XFG contains
+
+- The active substance of COVID-19 mRNA Vaccine (nucleoside modified) is called mRNA encoding XFG. Each pre-filled syringe contains 1 dose of 0.3 mL with 30 micrograms mRNA encoding XFG.
+- The other ingredients are:
+
+<div style=\"page-break-after: always\"></div>
+
+- -((4-hydroxybutyl)azanediyl)bis(hexane-6,1-diyl)bis(2-hexyldecanoate) (ALC-0315)
+- -2-[(polyethylene glycol)-2000]-N,N-ditetradecylacetamide (ALC-0159)
+- -1,2-Distearoyl-sn-glycero-3-phosphocholine (DSPC)
+- -cholesterol
+- -trometamol
+- -trometamol hydrochloride
+- -sucrose
+- -water for injections
+
+## What Comirnaty XFG looks like and contents of the pack
+
+The vaccine is a white to off-white dispersion (pH: 6.9 - 7.9) provided in a pre-filled syringe (type I glass syringe) with plunger stopper (synthetic bromobutyl rubber) and a tip cap (synthetic bromobutyl rubber) without needle.
+
+## Pack sizes:
+
+1 pre-filled syringe
+
+10 pre-filled syringes
+
+Not all pack sizes may be marketed.
+
+## Marketing Authorisation Holder
+
+BioNTech Manufacturing GmbH An der Goldgrube 12 55131 Mainz Germany
+
+Phone: +49 6131 9084-0
+
+Fax: +49 6131 9084-2121
+
+service@biontech.de
+
+## Manufacturers
+
+BioNTech Manufacturing GmbH An der Goldgrube 12 55131 Mainz Germany
+
+BioNTech Manufacturing GmbH Kupferbergterrasse 17 - 19 55116 Mainz Germany
+
+Pfizer Manufacturing Belgium NV Rijksweg 12 Puurs-Sint-Amands, 2870 Belgium
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+- België/Belgique/Belgien, Luxembourg/Luxemburg : Pfizer S.A./N.V., Tél/Tel: +32 (0)2 554 62 11
+
+- България : Пфайзер Люксембург САРЛ , Клон , България , Te л : +359 2 970 4333
+
+- Česká republika : Pfizer, spol. s r.o., Tel: +420 283 004 111
+
+- Danmark : Pfizer ApS, Tlf.: +45 44 201 100
+
+- Deutschland : BioNTech Manufacturing GmbH, Tel: +49 6131 90840
+
+- Eesti : Pfizer Luxembourg SARL Eesti filiaal, Tel: +372 666 7500
+
+- Ελλάδα : Pfizer Ελλάς A.E., Τηλ .: +30 210 6785 800
+
+- España : Pfizer, S.L., Tel: +34914909900
+
+- France : Pfizer, Tél +33 1 58 07 34 40
+
+<div style=\"page-break-after: always\"></div>
+
+- Hrvatska : Pfizer Croatia d.o.o., Tel: +385 1 3908 777
+- Ireland : Pfizer Healthcare Ireland, Tel: 1800 633 363 (toll free), +44 (0)1304 616161
+- Ísland : Icepharma hf, Simi: +354 540 8000
+- Italia : Pfizer S.r.l., Tel: +39 06 33 18 21
+- Κύπρος : Pfizer Ελλάς Α . Ε . (Cyprus Branch), T ηλ : +357 22 817690
+- Latvija : Pfizer Luxembourg SARL filiāle Latvijā, Tel.: +371 670 35 775
+- Lietuva : Pfizer Luxembourg SARL filialas Lietuvoje, Tel. +370 52 51 4000
+- Magyarország : Pfizer Kft, Tel: +36 1 488 3700
+- Malta : Vivian Corporation Ltd., Tel: +35621 344610
+- Norge : Pfizer AS, Tlf: +47 67 526 100
+- Nederland : Pfizer BV, Tel: +31 (0)10 406 43 01
+- Österreich : Pfizer Corporation Austria Ges.m.b.H, Tel: +43 (0)1 521 15-0
+- Polska : Pfizer Polska Sp. z o.o., Tel.: +48 22 335 61 00
+- Portugal : Laboratórios Pfizer, Lda., Tel: +351 21 423 5500
+- România: Pfizer Romania S.R.L, Tel: +40 (0) 21 207 28 00
+- Slovenija : Pfizer Luxembourg SARL, Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana, Tel.: +386 (0) 1 52 11 400
+- Slovenská republika : Pfizer Luxembourg SARL, organizačná zložka, Tel: +421 2 3355 5500
+- Suomi/Finland : Pfizer Oy, Puh/Tel: +358 (0)9 430 040
+- Sverige : Pfizer AB, Tel: +46 (0)8 550 520 00
+
+## This leaflet was last revised in
+
+Scan the code with a mobile device to get the package leaflet in different languages.
+
+<!-- image -->
+
+URL: www.comirnatyglobal.com
+
+Detailed information on this medicine is available on the European Medicines Agency website:
+
+[https://www.ema.europa.eu.](https://www.ema.europa.eu/en/homepage)
+
+------------------------------------------------------------------------------------------------------------------------
+
+## The following information is intended for healthcare professionals only:
+
+Administer Comirnaty XFG intramuscularly as a single dose of 0.3 mL regardless of prior COVID -19 vaccination status.
+
+For individuals who have previously been vaccinated with a COVID-19 vaccine, Comirnaty XFG should be administered at least 3 months after the most recent dose of a COVID-19 vaccine.
+
+Additional doses may be given to individuals who are severely immunocompromised.
+
+## Traceability
+
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+## Handling instructions prior to use
+
+Comirnaty XFG should be prepared by a healthcare professional using aseptic technique to ensure the sterility of the prepared dispersion.
+
+<div style=\"page-break-after: always\"></div>
+
+## Instructions applicable to glass pre-filled syringes
+
+- Prior to use, the glass pre-filled syringes can be stored for up to 12 hours at temperatures between 8 °C to 30 °C and can be handled in room light conditions.
+- Remove tip cap by slowly turning the cap counterclockwise. Do not shake. Attach a needle appropriate for intramuscular injection and administer the entire volume.
+
+## Disposal
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+## Package leaflet: Information for the user
+
+## Comirnaty XFG 10 micrograms/dose dispersion for injection Infants and children 6 months to 11 years COVID-19 mRNA Vaccine
+
+mRNA encoding XFG
+
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects your child may get. See the end of section 4 for how to report side effects.
+
+## Read all of this leaflet carefully before your child receives this vaccine because it contains important information for your child.
+
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your child's doctor, pharmacist or nurse.
+- If your child gets any side effects, talk to your child's doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Comirnaty XFG is and what it is used for
+2. What you need to know before your child receives Comirnaty XFG
+3. How Comirnaty XFG is given
+4. Possible side effects
+5. How to store Comirnaty XFG
+6. Contents of the pack and other information
+
+## 1. What Comirnaty XFG is and what it is used for
+
+Comirnaty XFG is a vaccine used for preventing COVID-19 caused by SARS-CoV-2.
+
+Comirnaty XFG 10 micrograms/dose dispersion for injection is given to infants and children from 6 months to 11 years of age.
+
+The vaccine causes the immune system (the body's natural defences) to produce antibodies and blood cells that work against the virus, so giving protection against COVID-19.
+
+As Comirnaty XFG does not contain the virus to produce immunity, it cannot give your child COVID -19.
+
+The use of this vaccine should be in accordance with official recommendations.
+
+## 2. What you need to know before your child receives Comirnaty XFG
+
+## Comirnaty XFG should not be given
+
+- if your child is allergic to the active substance or any of the other ingredients of this medicine (listed in section 6)
+
+## Warnings and precautions
+
+Talk to your child's doctor, pharmacist or nurse before your child is given the vaccine if your child:
+
+- has ever had a severe allergic reaction or breathing problems after any other vaccine injection or after having been given this vaccine in the past.
+- is feeling nervous about the vaccination process or has ever fainted following any needle injection.
+
+<div style=\"page-break-after: always\"></div>
+
+- has a severe illness or infection with high fever. However, your child can have the vaccination if he/she has a mild fever or upper airway infection like a cold.
+- has a bleeding problem, bruises easily or uses a medicine to prevent blood-clots.
+- has a weakened immune system, because of a disease such as HIV infection or a medicine such as corticosteroid that affects the immune system.
+
+There is an increased risk of myocarditis (inflammation of the heart muscle) and pericarditis (inflammation of the lining outside the heart) after vaccination with Comirnaty (see section 4). These conditions can develop within just a few days after vaccination and have primarily occurred within 14 days. They have been observed more often after the second vaccination, and more often in younger males. The risk of myocarditis and pericarditis seems lower in children ages 5 to 11 years compared with ages 12 to 17 years. Most cases of myocarditis and pericarditis recover. Some cases required intensive care support and fatal cases have been seen. Following vaccination, you should be alert to signs of myocarditis and pericarditis, such as breathlessness, palpitations and chest pain, and seek immediate medical attention should these occur.
+
+As with any vaccine, Comirnaty XFG may not fully protect all those who receive it and it is not known how long your child will be protected.
+
+The efficacy of Comirnaty XFG may be lower in people who are immunocompromised. If your child is immunocompromised, he/she may receive additional doses of Comirnaty XFG. In these cases, your child should continue to maintain physical precautions to help prevent COVID-19. In addition, your child's close contacts should be vaccinated as appropriate. Discuss appropriate individual recommendations with your child's doctor.
+
+## Children
+
+The vaccine is not recommended for infants aged under 6 months.
+
+## Other medicines and Comirnaty XFG
+
+Tell your child's doctor or pharmacist if your child is using, has recently used or might use any other medicines or has recently received any other vaccine.
+
+## Pregnancy and breast-feeding
+
+If your child is pregnant, tell your child's doctor, nurse or pharmacist before your child receives this vaccine.
+
+No data are available yet regarding the use of Comirnaty XFG during pregnancy. However, a large amount of information from pregnant women vaccinated with the initially approved Comirnaty vaccine during the second and third trimester have not shown negative effects on the pregnancy or the newborn baby. While information on effects on pregnancy or the newborn baby after vaccination during the first trimester is limited, no change to the risk for miscarriage has been seen. Comirnaty XFG can be used during pregnancy.
+
+No data are available yet regarding the use of Comirnaty XFG during breast-feeding. However, no effects on the breastfed newborn/infant are anticipated. Data from women who were breast-feeding after vaccination with the initially approved Comirnaty vaccine have not shown a risk for adverse effects in breastfed newborns/infants. Comirnaty XFG can be used while breast-feeding.
+
+## Driving and using machines
+
+Some of the effects of vaccination mentioned in section 4 (Possible side effects) may temporarily affect your child's ability to use machines or undertake activities such as cycling. Wait until these effects have worn off before resuming activities that require your child's full attention.
+
+## 3. How Comirnaty XFG is given
+
+Comirnaty XFG is given as an injection of 0.3 mL into a muscle of your child's upper arm.
+
+<div style=\"page-break-after: always\"></div>
+
+## Children 5 years to 11 years of age
+
+Your child will receive 1 injection, regardless whether he/she has received a COVID-19 vaccine before.
+
+If your child was previously vaccinated with a COVID-19 vaccine, he/she should not receive a dose of Comirnaty XFG until at least 3 months after the most recent dose.
+
+## Infants and children 6 months to 4 years of age
+
+If your child has not received a COVID-19 vaccine in the past, your child will receive a maximum of 2 doses (the total number of doses required as a primary course). It is recommended to receive the second dose 8 weeks after the first dose to complete the primary course.
+
+If your child turns 5 years old between their doses in the primary course, he/she should complete the primary course at the same 10 micrograms dose level.
+
+If your child has previously completed a COVID-19 primary vaccination course, your child will receive 1 injection. If your child was previously vaccinated with a COVID-19 vaccine, your child should not receive a dose of Comirnaty XFG until at least 3 months after the most recent dose.
+
+If your child has previously received 1 or 2 doses of the 3 micrograms 3-dose primary course but has not completed the COVID-19 primary vaccination course, he/she may receive additional doses of Comirnaty XFG 10 micrograms. The second dose may be administered 3 weeks after the first dose followed by a third dose at least 8 weeks after the second dose.
+
+## Immunocompromised infants and children 6 months to 11 years of age
+
+If your child is immunocompromised, he/she may receive additional doses of Comirnaty XFG.
+
+If you have any further questions on the use of Comirnaty XFG, ask your child's doctor, pharmacist or nurse.
+
+## 4. Possible side effects
+
+Like all vaccines, Comirnaty XFG can cause side effects, although not everybody gets them.
+
+## Very common side effects: may affect more than 1 in 10 people
+
+- irritability (6 months to less than 2 years)
+- injection site: pain/tenderness, swelling
+- tiredness, headache
+- drowsiness (6 months to less than 2 years)
+- muscle pain, joint pain
+- chills, fever
+- diarrhoea
+
+## Common side effects: may affect up to 1 in 10 people
+
+- nausea
+- vomiting ('very common' in pregnant women 18 years of age and older and in immunocompromised individuals 2 to 18 years of age)
+- injection site redness ('very common' in 6 months to 11 years of age and in immunocompromised individuals 2 years of age and older)
+- enlarged lymph nodes (more frequently observed after a booster dose)
+
+<div style=\"page-break-after: always\"></div>
+
+## Uncommon side effects: may affect up to 1 in 100 people
+
+- feeling unwell, feeling weak or lack of energy/sleepy
+- arm pain
+- insomnia
+- injection site itching
+- allergic reactions such as rash ('common' for 6 months to less than 2 years) or itching
+- decreased appetite ('very common' for 6 months to less than 2 years)
+- dizziness
+- excessive sweating, night sweats
+
+## Rare side effects: may affect up to 1 in 1 000 people
+
+- temporary one sided facial drooping
+- allergic reactions such as hives or swelling of the face
+
+## Very rare side effects: may affect up to 1 in 10 000 people
+
+- inflammation of the heart muscle (myocarditis) or inflammation of the lining outside the heart (pericarditis) which can result in breathlessness, palpitations or chest pain
+
+## Not known (cannot be estimated from the available data)
+
+- severe allergic reaction
+- extensive swelling of the vaccinated limb
+- swelling of the face (swelling of the face may occur in patients who have had facial dermatological fillers)
+- a skin reaction that causes red spots or patches on the skin, that may look like a target or 'bulls-eye' with a dark red centre surrounded by paler red rings (erythema multiforme)
+- unusual feeling in the skin, such as tingling or a crawling feeling (paraesthesia)
+- decreased feeling or sensitivity, especially in the skin (hypoaesthesia)
+- heavy menstrual bleeding (most cases appeared to be non-serious and temporary in nature)
+
+## Reporting of side effects
+
+If your child gets any side effects, talk to your child's doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Comirnaty XFG
+
+Keep this medicine out of the sight and reach of children.
+
+The following information about storage, expiry and use and handling is intended for healthcare professionals.
+
+Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
+
+Store in freezer at -90 °C to -60 °C.
+
+Store in the original package in order to protect from light.
+
+The vaccine will be received frozen at -90 °C to -60 °C. Frozen vaccine can be stored either at -90 °C to -60 °C or 2 °C to 8 °C upon receipt.
+
+Single dose vials: When stored frozen at -90 °C to -60 °C, 10-vial packs of single dose vials of the vaccine can be thawed at 2 °C to 8 °C for 2 hours or individual vials can be thawed at room temperature (up to 30 °C) for 30 minutes.
+
+<div style=\"page-break-after: always\"></div>
+
+Multidose vials: When stored frozen at -90 °C to -60 °C, 10-vial packs of the vaccine can be thawed at 2 °C to 8 °C for 6 hours or individual vials can be thawed at room temperature (up to 30 °C) for 30 minutes.
+
+Thawed (previously frozen) vials: Once removed from the freezer, the unopened vial may be stored and transported refrigerated at 2 °C to 8 °C for up to 10 weeks; not exceeding the printed expiry date (EXP). The outer carton should be marked with the new expiry date at 2 °C to 8 °C. Once thawed, the vaccine cannot be re-frozen.
+
+Prior to use, the unopened vials can be stored for up to 12 hours at temperatures between 8 °C and 30 °C.
+
+Thawed vials can be handled in room light conditions.
+
+Opened vials: After first puncture, store the vaccine at 2 °C to 30 °C and use within 12 hours, which includes up to 6 hours transportation time. Discard any unused vaccine.
+
+Do not use this vaccine if you notice particulates or discolouration.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Comirnaty XFG contains
+
+- The active substance of COVID-19 mRNA Vaccine (nucleoside modified) is called mRNA encoding XFG.
+- -A single dose vial contains 1 dose of 0.3 mL with 10 micrograms of mRNA encoding XFG per dose.
+- -A multidose vial contains 6 doses of 0.3 mL with 10 micrograms of mRNA encoding XFG per dose.
+- The other ingredients are:
+- -((4-hydroxybutyl)azanediyl)bis(hexane-6,1-diyl)bis(2-hexyldecanoate) (ALC-0315)
+- -2-[(polyethylene glycol)-2000]-N,N-ditetradecylacetamide (ALC-0159)
+- -1,2-Distearoyl-sn-glycero-3-phosphocholine (DSPC)
+- -cholesterol
+- -trometamol
+- -trometamol hydrochloride
+- -sucrose
+- -water for injections
+
+## What Comirnaty XFG looks like and contents of the pack
+
+The vaccine is a clear to slightly opalescent dispersion (pH: 6.9 - 7.9) provided in either:
+
+- A single dose vial of 1 dose in a 2 mL clear vial (type I glass), with a rubber stopper and a blue flip-off plastic cap with aluminium seal; or
+- A multidose vial of 6 doses in a 2 mL clear vial (type I glass), with a rubber stopper and a blue flip-off plastic cap with aluminium seal.
+
+Single dose vials pack size: 10 vials Multidose vials pack size: 10 vials Not all pack sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
+
+## Marketing Authorisation Holder
+
+BioNTech Manufacturing GmbH An der Goldgrube 12 55131 Mainz
+
+Germany
+
+Phone: +49 6131 9084-0
+
+Fax: +49 6131 9084-2121
+
+service@biontech.de
+
+## Manufacturers
+
+BioNTech Manufacturing GmbH An der Goldgrube 12 55131 Mainz Germany
+
+BioNTech Manufacturing GmbH Kupferbergterrasse 17 - 19 55116 Mainz Germany
+
+Pfizer Manufacturing Belgium NV Rijksweg 12 Puurs-Sint-Amands, 2870 Belgium
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+·
+
+: Pfizer S.A./N.V.,
+
+België/Belgique/Belgien, Luxembourg/Luxemburg
+
+Tél/Tel: +32 (0)2 554 62 11
+
+- България : Пфайзер Люксембург САРЛ , Клон , България , Te л : +359 2 970 4333
+- Česká republika : Pfizer, spol. s r.o., Tel: +420 283 004 111
+- Danmark : Pfizer ApS, Tlf.: +45 44 201 100
+- Deutschland : BioNTech Manufacturing GmbH, Tel: +49 6131 90840
+- Eesti : Pfizer Luxembourg SARL Eesti filiaal, Tel: +372 666 7500
+- Ελλάδα : Pfizer Ελλάς A.E., Τηλ .: +30 210 6785 800
 - España : Pfizer, S.L., Tel: +34914909900
 - France : Pfizer, Tél +33 1 58 07 34 40
 - Hrvatska : Pfizer Croatia d.o.o., Tel: +385 1 3908 777
@@ -11083,17 +14188,17 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Children 5 years to 11 years of age
 
-Administer Comirnaty LP.8.1 intramuscularly as a single dose of 0.3 mL regardless of prior COVID -19 vaccination status.
+Administer Comirnaty XFG intramuscularly as a single dose of 0.3 mL regardless of prior COVID -19 vaccination status.
 
-For individuals who have previously been vaccinated with a COVID-19 vaccine, Comirnaty LP.8.1 should be administered at least 3 months after the most recent dose of a COVID-19 vaccine.
+For individuals who have previously been vaccinated with a COVID-19 vaccine, Comirnaty XFG should be administered at least 3 months after the most recent dose of a COVID-19 vaccine.
 
 ## Infants and children 6 months to 4 years of age
 
-If the child has not received a COVID-19 vaccine, administer Comirnaty LP.8.1 intramuscularly as a primary course of 2 doses of 0.2 mL. Administer the second dose 8 weeks after the first dose.
+If the child has not received a COVID-19 vaccine, administer Comirnaty XFG intramuscularly as a primary course of 2 doses of 0.3 mL. Administer the second dose 8 weeks after the first dose.
 
-If the child has completed a COVID-19 vaccine primary course, administer Comirnaty LP.8.1 intramuscularly as a single dose of 0.2 mL. For individuals who have previously been vaccinated with a COVID-19 vaccine, Comirnaty LP.8.1 should be administered at least 3 months after the most recent dose of a COVID-19 vaccine.
+If the child has completed a COVID-19 vaccine primary course, administer Comirnaty XFG intramuscularly as a single dose of 0.3 mL. For individuals who have previously been vaccinated with a COVID-19 vaccine, Comirnaty XFG should be administered at least 3 months after the most recent dose of a COVID-19 vaccine.
 
-If the child has received 1 or 2 doses of the 3 micrograms 3-dose primary series but has not completed the primary vaccination course, additional doses of Comirnaty LP.8.1 10 micrograms may be given. The second dose may be administered 3 weeks after the first dose followed by a third dose at least 8 weeks after the second dose.
+If the child has received 1 or 2 doses of the 3 micrograms 3-dose primary series but has not completed the primary vaccination course, additional doses of Comirnaty XFG 10 micrograms may be given. The second dose may be administered 3 weeks after the first dose followed by a third dose at least 8 weeks after the second dose.
 
 ## Immunocompromised infants and children 6 months to 11 years of age
 
@@ -11105,9 +14210,9 @@ In order to improve the traceability of biological medicinal products, the name 
 
 ## Handling instructions prior to use
 
-Comirnaty LP.8.1 should be prepared by a healthcare professional using aseptic technique to ensure the sterility of the prepared dispersion.
+Comirnaty XFG should be prepared by a healthcare professional using aseptic technique to ensure the sterility of the prepared dispersion.
 
-- Verify that the vial has a blue plastic cap and the product name is Comirnaty LP.8.1 10 micrograms/dose dispersion for injection (infants and children 6 months to 11 years) .
+- Verify that the vial has a blue plastic cap and the product name is Comirnaty XFG 10 micrograms/dose dispersion for injection (infants and children 6 months to 11 years) .
 - If the vial has another product name on the label, please make reference to the Summary of Product Characteristics for that formulation.
 
 <div style=\"page-break-after: always\"></div>
@@ -11132,7 +14237,7 @@ Comirnaty LP.8.1 should be prepared by a healthcare professional using aseptic t
 - -Multidose vials
 -  Multidose vials contain 6 doses of 0.3 mL each.
 -  Using aseptic technique, cleanse the vial stopper with a single use antiseptic swab.
--  Withdraw 0.3 mL of Comirnaty LP.8.1 for children aged 5 to 11 years.
+-  Withdraw 0.3 mL of Comirnaty XFG for infants and children aged 6 months to 11 years.
 -  Low dead-volume syringes and/or needles should be used in order to extract 6 doses from a single vial. The low dead-volume syringe and needle combination should have a dead-volume of no more than 35 microlitres. If standard syringes and needles are used, there may not be sufficient volume to extract a sixth dose from a single vial.
 -  Each dose must contain 0.3 mL of vaccine.
 -  If the amount of vaccine remaining in the vial cannot provide a full dose of 0.3 mL, discard the vial and any excess volume.

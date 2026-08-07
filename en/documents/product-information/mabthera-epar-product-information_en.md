@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-05-06 16:58:31
-document_pages: 145
+document_datetime: 2026-08-06 16:35:52
+document_pages: 146
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mabthera-epar-product-information_en.pdf
 document_name: mabthera-epar-product-information_en.pdf
 version: success
-processing_time: 54.041617
-conversion_datetime: 2025-12-19 20:41:24.342584
+processing_time: 46.1966902
+conversion_datetime: 2026-08-07 14:26:33.384248
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -48,7 +48,7 @@ For the full list of excipients, see section 6.1.
 
 Concentrate for solution for infusion.
 
-Clear, colourless liquid with pH of 6.2 - 6.8 and osmolality of 324 - 396 mOsmol/kg.
+Clear to opalescent, colourless to pale yellow liquid with a pH of 6.2 - 6.8 and an Osmolality of 324 - 396 mOsmol/kg.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -62,9 +62,9 @@ MabThera maintenance therapy is indicated for the treatment of adult follicular 
 
 MabThera monotherapy is indicated for treatment of adult patients with stage III-IV follicular lymphoma who are chemoresistant or are in their second or subsequent relapse after chemotherapy.
 
-MabThera is indicated for the treatment of adult patients with CD20 positive diffuse large B-cell non-Hodgkin's lymphoma in combination with CHOP (cyclophosphamide, doxorubicin, vincristine, prednisolone) chemotherapy.
-
 <div style=\"page-break-after: always\"></div>
+
+MabThera is indicated for the treatment of adult patients with CD20 positive diffuse large B-cell non-Hodgkin's lymphoma in combination with CHOP (cyclophosphamide, doxorubicin, vincristine, prednisolone) chemotherapy.
 
 MabThera in combination with chemotherapy is indicated for the treatment of paediatric patients (aged 6 months to less than 18 years old) with previously untreated advanced stage CD20 positive diffuse   large B-cell lymphoma (DLBCL), Burkitt lymphoma (BL)/Burkitt leukaemia (mature B-cell acute leukaemia) (BAL) or Burkitt-like lymphoma (BLL).
 
@@ -104,13 +104,11 @@ Premedication consisting of an anti-pyretic and an antihistaminic, e.g. paraceta
 
 In adult patients with non-Hodgkin's lymphoma and CLL, premedication with glucocorticoids should be considered if MabThera is not given in combination with glucocorticoid-containing chemotherapy.
 
-In paediatric patients with non-Hodgkin's lymphoma, premedication with paracetamol and H1 antihistamine (= diphenhydramine or equivalent) should be administered 30 to 60 minutes before the start of the infusion of MabThera. In addition, prednisone should be given as indicated in Table 1.
-
-Prophylaxis with adequate hydration and administration of uricostatics starting 48 hours prior to start of therapy is recommended for CLL patients to reduce the risk of tumour lysis syndrome. For CLL
-
 <div style=\"page-break-after: always\"></div>
 
-patients whose lymphocyte counts are &gt; 25 x 10 9 /L it is recommended to administer prednisone/prednisolone 100 mg intravenous shortly before infusion with MabThera to decrease the rate and severity of acute infusion reactions and/or cytokine release syndrome.
+In paediatric patients with non-Hodgkin's lymphoma, premedication with paracetamol and H1 antihistamine (= diphenhydramine or equivalent) should be administered 30 to 60 minutes before the  start of the infusion of MabThera. In addition, prednisone should be given as indicated in Table 1.
+
+Prophylaxis with adequate hydration and administration of uricostatics starting 48 hours prior to start of therapy is recommended for CLL patients to reduce the risk of tumour lysis syndrome. For CLL patients whose lymphocyte counts are &gt; 25 x 10 9 /L it is recommended to administer prednisone/prednisolone 100 mg intravenous shortly before infusion with MabThera to decrease the rate and severity of acute infusion reactions and/or cytokine release syndrome.
 
 ## Rheumatoid arthritis, granulomatosis with polyangiitis (GPA) and microscopic polyangiitis (MPA), and pemphigus vulgaris
 
@@ -158,7 +156,7 @@ The recommended dose of MabThera used as a maintenance treatment for patients wi
 
 ## Relapsed/refractory follicular lymphoma
 
-The recommended dose of MabThera monotherapy used as induction treatment for adult patients with stage III-IV follicular lymphoma who are chemoresistant or are in their second or subsequent relapse after chemotherapy is: 375 mg/m 2 body surface area, administered as an intravenous infusion once weekly for four weeks.
+The recommended dose of MabThera monotherapy used as induction treatment for adult patients with  stage III-IV follicular lymphoma who are chemoresistant or are in their second or subsequent relapse after chemotherapy is: 375 mg/m 2 body surface area, administered as an intravenous infusion once weekly for four weeks.
 
 For retreatment with MabThera monotherapy for patients who have responded to previous treatment with MabThera monotherapy for relapsed/refractory follicular lymphoma, the recommended dose is: 375 mg/m 2  body surface area, administered as an intravenous infusion once weekly for four weeks (see section 5.1).
 
@@ -224,11 +222,11 @@ In paediatric patients from 6 months to less than 18 years of age with previousl
 
 The safety and efficacy of MabThera in paediatric patients aged 6 months to less than 18 years of age has not been   established in indications other than previously untreated advanced stage CD20 positive DLBCL/BL/BAL/BLL. Only limited data are available for patients under 3 years of age. See section 5.1 for further information.
 
-MabThera should not be used in paediatric patients from birth to 6 months of age with CD20 positive diffuse large B-cell lymphoma (see section 5.1)
-
 <div style=\"page-break-after: always\"></div>
 
-Table 1 Posology of MabThera administration for non-Hodgkin's lymphoma paediatric   patients
+MabThera should not be used in paediatric patients from birth to 6 months of age with CD20 positive diffuse large B-cell lymphoma (see section 5.1)
+
+Table 1 Posology of MabThera administration for non-Hodgkin's lymphoma paediatric patients
 
 | Cycle                             | Day of treatment                                                       | Administration details                                                                                                                  |
 |-----------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
@@ -246,17 +244,19 @@ ANC = Absolute Neutrophil Count; COP = Cyclophosphamide, Vincristine, Prednisone
 
 Table 2 Treatment Plan for non-Hodgkin's lymphoma paediatric patients: Concomitant Chemotherapy with MabThera
 
-| Treatment Plan                                                                                                                                                                    | Patient Staging                                                                                                                                                                   | Administration details                                                                                                                                                            |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Group B                                                                                                                                                                           | Stage III with high LDH level (> Nx 2), Stage IV CNS negative                                                                                                                     | Prephase followed by 4 courses: 2 induction courses (COPADM) with HDMTX3g/m 2 and 2 consolidation courses (CYM)                                                                   |
-| Group C                                                                                                                                                                           | Group C1: BAL CNS negative, Stage IV&BAL CNS positive and CSF negative                                                                                                            | Prephase followed by 6 courses: 2 induction courses (COPADM) with HDMTX 8g/m², 2 consolidation courses (CYVE) and 2 maintenance courses (M1 and M2)                               |
-| Group C                                                                                                                                                                           | Group C3: BAL CSF positive, Stage IV CSF positive                                                                                                                                 | Prephase followed by 6 courses: 2 induction courses (COPADM) with HDMTX 8g/m², 2 consolidation courses (CYVE) and 2 maintenance courses (M1 and M2)                               |
-| Consecutive courses should be given as soon as blood count recovery and patient's condition allows except for the maintenance courses which are given at 28 day intervals         | Consecutive courses should be given as soon as blood count recovery and patient's condition allows except for the maintenance courses which are given at 28 day intervals         | Consecutive courses should be given as soon as blood count recovery and patient's condition allows except for the maintenance courses which are given at 28 day intervals         |
-| BAL = Burkitt leukaemia (mature B-cell acute leukaemia); CSF = Cerebrospinal Fluid; CNS = Central Nervous System; HDMTX = High-dose Methotrexate; LDH = Lactic Acid Dehydrogenase | BAL = Burkitt leukaemia (mature B-cell acute leukaemia); CSF = Cerebrospinal Fluid; CNS = Central Nervous System; HDMTX = High-dose Methotrexate; LDH = Lactic Acid Dehydrogenase | BAL = Burkitt leukaemia (mature B-cell acute leukaemia); CSF = Cerebrospinal Fluid; CNS = Central Nervous System; HDMTX = High-dose Methotrexate; LDH = Lactic Acid Dehydrogenase |
+| Treatment Plan   | Patient Staging                                                                                                            | Administration details                                                                                                                              |
+|------------------|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Group B          | Stage III with high LDH level (> N x 2), Stage IV CNS negative                                                             | Prephase followed by 4 courses: 2 induction courses (COPADM) with HDMTX 3g/m 2 and 2 consolidation courses (CYM)                                    |
+| Group C          | Group C1: BAL CNS negative, Stage IV & BAL CNS positive and CSF negative Group C3: BAL CSF positive, Stage IV CSF positive | Prephase followed by 6 courses: 2 induction courses (COPADM) with HDMTX 8g/m², 2 consolidation courses (CYVE) and 2 maintenance courses (M1 and M2) |
 
 <div style=\"page-break-after: always\"></div>
 
-## Granulomatosis with polyangiitis (GPA) and microscopic polyangiitis (MPA)
+| Treatment Plan                                                                                                                                                                    | Patient Staging                                                                                                                                                                   | Administration details                                                                                                                                                            |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Consecutive courses should be given as soon as blood count recovery and patient's condition allows except for the maintenance courses which are given at 28 day intervals         | Consecutive courses should be given as soon as blood count recovery and patient's condition allows except for the maintenance courses which are given at 28 day intervals         | Consecutive courses should be given as soon as blood count recovery and patient's condition allows except for the maintenance courses which are given at 28 day intervals         |
+| BAL = Burkitt leukaemia (mature B-cell acute leukaemia); CSF = Cerebrospinal Fluid; CNS = Central Nervous System; HDMTX = High-dose Methotrexate; LDH = Lactic Acid Dehydrogenase | BAL = Burkitt leukaemia (mature B-cell acute leukaemia); CSF = Cerebrospinal Fluid; CNS = Central Nervous System; HDMTX = High-dose Methotrexate; LDH = Lactic Acid Dehydrogenase | BAL = Burkitt leukaemia (mature B-cell acute leukaemia); CSF = Cerebrospinal Fluid; CNS = Central Nervous System; HDMTX = High-dose Methotrexate; LDH = Lactic Acid Dehydrogenase |
+
+Granulomatosis with polyangiitis (GPA) and microscopic polyangiitis (MPA)
 
 ## Induction of remission
 
@@ -276,7 +276,7 @@ No dose adjustment is required in patients aged 65 years and above.
 
 The prepared MabThera solution should be administered as an intravenous infusion through a dedicated line. It should not be administered as an intravenous push or bolus.
 
-Patients should be closely monitored for the onset of cytokine release syndrome (see section 4.4). Patients who develop evidence of severe reactions, especially severe dyspnoea, bronchospasm or hypoxia should have the infusion interrupted immediately. Patients with non-Hodgkin's lymphoma should then be evaluated for evidence of tumour lysis syndrome including appropriate laboratory tests and, for pulmonary infiltration, with a chest X-ray. In all patients, the infusion should not be restarted until complete resolution of all symptoms, and normalisation of laboratory values and chest X-ray findings. At this time, the infusion can be initially resumed at not more than one-half the previous rate.   If the same severe adverse reactions occur for a second time, the decision to stop the treatment should be seriously considered on a case by case basis.
+Patients should be closely monitored for the onset of cytokine release syndrome (see section 4.4). Patients who develop evidence of severe reactions, especially severe dyspnoea, bronchospasm or hypoxia should have the infusion interrupted immediately. Patients with non-Hodgkin's lymphoma should then be evaluated for evidence of tumour lysis syndrome including appropriate laboratory tests and, for pulmonary infiltration, with a chest X-ray. In all patients, the infusion should not be restarted until complete resolution of all symptoms, and normalisation of laboratory values and chest X-ray findings. At this time, the infusion can be initially resumed at not more than one-half the previous rate. If the same severe adverse reactions occur for a second time, the decision to stop the treatment should be seriously considered on a case by case basis.
 
 Mild or moderate infusion-related reactions (IRR) (section 4.8) usually respond to a reduction in the rate of infusion. The infusion rate may be increased upon improvement of symptoms.
 
@@ -290,13 +290,13 @@ The recommended initial rate for infusion is 50 mg/h; after the first 30 minutes
 
 Subsequent doses of MabThera can be infused at an initial rate of 100 mg/h, and increased by 100 mg/h increments at 30-minute intervals, to a maximum of 400 mg/h.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Non-Hodgkin's lymphoma - paediatric patients
 
 ## First infusion
 
 The recommended initial rate for infusion is 0.5 mg/kg/h (maximum 50 mg/h); it can be escalated by 0.5 mg/kg/h every 30 minutes if there is no hypersensitivity or infusion-related reactions, to a maximum of 400 mg/h.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Subsequent infusions
 
@@ -304,7 +304,7 @@ Subsequent doses of MabThera can be infused at an initial rate of 1 mg/kg/h (max
 
 ## Rheumatoid arthritis
 
-## Alternative subsequent, faster, infusion schedule
+Alternative subsequent, faster, infusion schedule
 
 If patients did not experience a serious infusion-related reaction with their first or subsequent infusions of a dose of 1000 mg MabThera administered over the standard infusion schedule, a more rapid infusion can be administered for second and subsequent infusions using the same concentration as in previous infusions (4 mg/mL in a 250 mL volume). Initiate at a rate of 250 mg/hour for the first 30 minutes and then 600 mg/hour for the next 90 minutes. If the more rapid infusion is tolerated, this infusion schedule can be used when administering subsequent infusions.
 
@@ -332,9 +332,9 @@ All patients treated with MabThera for rheumatoid arthritis, GPA, MPA or pemphig
 
 Very rare cases of fatal PML have been reported following use of MabThera for the treatment of rheumatoid arthritis and autoimmune diseases [including Systemic Lupus Erythematosus (SLE) and vasculitis] and during post-marketing use of MabThera in NHL and CLL (where the majority of patients had received MabThera in combination with chemotherapy or as part of haematopoietic stem cell transplant). Patients must be monitored at regular intervals for any new or worsening neurological symptoms or signs that may be suggestive of PML. If PML is suspected, further dosing must be suspended until PML has been excluded. The clinician should evaluate the patient to determine if the symptoms are indicative of neurological dysfunction, and if so, whether these symptoms are possibly suggestive of PML. Consultation with a Neurologist should be considered as clinically indicated.
 
-If any doubt exists, further evaluation, including MRI scan preferably with contrast, cerebrospinal fluid (CSF) testing for JC Viral DNA and repeat neurological assessments, should be considered.
-
 <div style=\"page-break-after: always\"></div>
+
+If any doubt exists, further evaluation, including MRI scan preferably with contrast, cerebrospinal  fluid (CSF) testing for JC Viral DNA and repeat neurological assessments, should be considered.
 
 The physician should be particularly alert to symptoms suggestive of PML that the patient may not notice (e.g. cognitive, neurological or psychiatric symptoms). Patients should also be advised to inform their partner or caregivers about their treatment, since they may notice symptoms that the patient is not aware of.
 
@@ -360,11 +360,11 @@ Cases of hepatitis B reactivation, including those with a fatal outcome, have be
 
 Hepatitis B virus (HBV) screening should be performed in all patients before initiation of treatment with MabThera. At minimum this should include HBsAg-status and HBcAb-status. These can be complemented with other appropriate markers as per local guidelines. Patients with active hepatitis B disease should not be treated with MabThera. Patients with positive hepatitis B serology (either HBsAg or HBcAb) should consult liver disease experts before start of treatment and should be monitored and managed following local medical standards to prevent hepatitis B reactivation.
 
+<div style=\"page-break-after: always\"></div>
+
 ## False negative serologic testing of infections
 
 Due to the risk of false negative serologic testing of infections, alternative diagnostic tools should be considered in case of patients presenting with symptoms indicative of rare infectious disease e.g. West Nile virus and neuroborreliosis.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Skin reactions
 
@@ -378,7 +378,7 @@ MabThera is associated with infusion-related reactions, which may be related to 
 
 This set of reactions which includes syndrome of cytokine release, tumour lysis syndrome and anaphylactic and hypersensitivity reactions are described below.
 
-Severe infusion-related reactions with fatal outcome have been reported during post-marketing use of the MabThera intravenous formulation, with an onset ranging within 30 minutes to 2 hours after starting the first MabThera intravenous infusion. They were characterised by pulmonary events and in  some cases included rapid tumour lysis and features of tumour lysis syndrome in addition to fever, chills, rigors, hypotension, urticaria, angioedema and other symptoms (see section 4.8).
+Severe infusion-related reactions with fatal outcome have been reported during post-marketing use of the MabThera intravenous formulation, with an onset ranging within 30 minutes to 2 hours after starting the first MabThera intravenous infusion. They were characterised by pulmonary events and in some cases included rapid tumour lysis and features of tumour lysis syndrome in addition to fever, chills, rigors, hypotension, urticaria, angioedema and other symptoms (see section 4.8).
 
 Severe cytokine release syndrome is characterised by severe dyspnoea, often accompanied by bronchospasm and hypoxia, in addition to fever, chills, rigors, urticaria, and angioedema. This syndrome may be associated with some features of tumour lysis syndrome such as hyperuricaemia, hyperkalaemia, hypocalcaemia, hyperphosphataemia, acute renal failure, elevated lactate dehydrogenase (LDH) and may be associated with acute respiratory failure and death. The acute respiratory failure may be accompanied by events such as pulmonary interstitial infiltration or oedema, visible on a chest X-ray. The syndrome frequently manifests itself within one or two hours of initiating the first infusion. Patients with a history of pulmonary insufficiency or those with pulmonary tumour infiltration may be at greater risk of poor outcome and should be treated with increased caution.
 
@@ -388,11 +388,9 @@ Patients with a high tumour burden or with a high number (≥ 25 x 10 9 /L) of c
 
 Infusion-related adverse reactions of all kinds have been observed in 77% of patients treated with MabThera (including cytokine release syndrome accompanied by hypotension and bronchospasm in 10% of patients) see section 4.8. These symptoms are usually reversible with interruption of MabThera infusion and administration of an anti-pyretic, an antihistaminic and occasionally oxygen, intravenous saline or bronchodilators, and glucocorticoids if required. Please see cytokine release syndrome above for severe reactions.
 
-Anaphylactic and other hypersensitivity reactions have been reported following the intravenous administration of proteins to patients. In contrast to cytokine release syndrome, true hypersensitivity reactions typically occur within minutes after starting infusion. Medicinal products for the treatment of hypersensitivity reactions, e.g. epinephrine (adrenaline), antihistamines and glucocorticoids, should be available for immediate use in the event of an allergic reaction during administration of MabThera.
-
 <div style=\"page-break-after: always\"></div>
 
-Clinical manifestations of anaphylaxis may appear similar to clinical manifestations of the cytokine release syndrome (described above). Reactions attributed to hypersensitivity have been reported less frequently than those attributed to cytokine release.
+Anaphylactic and other hypersensitivity reactions have been reported following the intravenous administration of proteins to patients. In contrast to cytokine release syndrome, true hypersensitivity reactions typically occur within minutes after starting infusion. Medicinal products for the treatment of hypersensitivity reactions, e.g. epinephrine (adrenaline), antihistamines and glucocorticoids, should be available for immediate use in the event of an allergic reaction during administration of MabThera. Clinical manifestations of anaphylaxis may appear similar to clinical manifestations of the cytokine release syndrome (described above). Reactions attributed to hypersensitivity have been reported less frequently than those attributed to cytokine release.
 
 Additional reactions reported in some cases were myocardial infarction, atrial fibrillation, pulmonary oedema and acute reversible thrombocytopenia.
 
@@ -424,11 +422,9 @@ The use of MabThera is not recommended in MTX-naïve patients since a favourable
 
 MabThera is associated with infusion-related reactions (IRRs), which may be related to release of cytokines and/or other chemical mediators.
 
-Severe IRRs with fatal outcome have been reported in rheumatoid arthritis patients in the post-marketing setting. In rheumatoid arthritis most infusion-related events reported in clinical trials were mild to moderate in severity. The most common symptoms were allergic reactions like headache, pruritus, throat irritation, flushing, rash, urticaria, hypertension and pyrexia. In general, the proportion of patients experiencing any infusion reaction was higher following the first infusion than following the second infusion of any treatment course. The incidence of IRR decreased with subsequent courses (see section 4.8). The reactions reported were usually reversible with a reduction in rate, or interruption, of MabThera infusion and administration of an anti-pyretic, an antihistamine, and, occasionally, oxygen, intravenous saline or bronchodilators, and glucocorticoids if required. Closely monitor patients with pre-existing cardiac conditions and those who experienced prior cardiopulmonary adverse
-
 <div style=\"page-break-after: always\"></div>
 
-reactions. Depending on the severity of the IRR and the required interventions, temporarily or permanently discontinue MabThera. In most cases, the infusion can be resumed at a 50% reduction in rate (e.g. from 100 mg/h to 50 mg/h) when symptoms have completely resolved.
+Severe IRRs with fatal outcome have been reported in rheumatoid arthritis patients in the post-marketing setting. In rheumatoid arthritis most infusion-related events reported in clinical trials were mild to moderate in severity. The most common symptoms were allergic reactions like headache, pruritus, throat irritation, flushing, rash, urticaria, hypertension and pyrexia. In general, the proportion of patients experiencing any infusion reaction was higher following the first infusion than following the second infusion of any treatment course. The incidence of IRR decreased with subsequent courses (see section 4.8). The reactions reported were usually reversible with a reduction in rate, or interruption, of MabThera infusion and administration of an anti-pyretic, an antihistamine, and, occasionally, oxygen, intravenous saline or bronchodilators, and glucocorticoids if required. Closely monitor patients with pre-existing cardiac conditions and those who experienced prior cardiopulmonary adverse reactions. Depending on the severity of the IRR and the required interventions, temporarily or permanently discontinue MabThera. In most cases, the infusion can be resumed at a 50% reduction in rate (e.g. from 100 mg/h to 50 mg/h) when symptoms have completely resolved.
 
 Medicinal products for the treatment of hypersensitivity reactions, e.g. epinephrine (adrenaline), antihistamines and glucocorticoids, should be available for immediate use in the event of an allergic reaction during administration of MabThera.
 
@@ -450,13 +446,13 @@ Patients treated with MabThera may receive non-live vaccinations; however, respo
 
 In the overall experience of MabThera repeat treatment over one year in rheumatoid arthritis, the proportions of patients with positive antibody titres against S. pneumoniae, influenza, mumps, rubella, varicella and tetanus toxoid were generally similar to the proportions at baseline.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Concomitant/sequential use of other DMARDs in rheumatoid arthritis
 
 The concomitant use of MabThera and anti-rheumatic therapies other than those specified under the rheumatoid arthritis indication and posology is not recommended.
 
 There are limited data from clinical trials to fully assess the safety of the sequential use of other DMARDs (including TNF inhibitors and other biologics) following MabThera (see section 4.5). The available data indicate that the rate of clinically relevant infection is unchanged when such therapies are used in patients previously treated with MabThera, however patients should be closely observed for signs of infection if biologic agents and/or DMARDs are used following MabThera therapy.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Malignancy
 
@@ -465,6 +461,8 @@ Immunomodulatory drugs may increase the risk of malignancy. However, available d
 ## Excipients
 
 This medicinal product contains 2.3 mmol (or 52.6 mg) sodium per 10 mL vial and 11.5 mmol (or 263.2 mg) sodium per 50 mL vial, equivalent to 2.6% (for 10 mL vial) and 13.2% (for 50 mL vial) of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+
+This medicine contains 7.0 mg of polysorbate 80 in each 10 mL vial, which is equivalent to 0.7 mg/mL and 35.0 mg of polysorbate 80 in each 50 mL vial, which is equivalent to 0.7 mg/mL. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -490,11 +488,11 @@ IgG immunoglobulins are known to cross the placental barrier.
 
 B-cell levels in human neonates following maternal exposure to MabThera have not been studied in clinical trials. There are no adequate and well-controlled data from studies in pregnant women, however transient B-cell depletion and lymphocytopenia have been reported in some infants born to mothers exposed to MabThera during pregnancy. Similar effects have been observed in animal studies (see section 5.3). For these reasons MabThera should not be administered to pregnant women unless the possible benefit outweighs the potential risk.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Breast-feeding
 
 Limited data on rituximab excretion into breast milk suggest very low rituximab concentrations in milk (relative infant dose less than 0.4%). Few cases of follow-up of breastfed infants describe normal growth and development up to 2 years. However, as these data are limited and the long-term outcomes of breastfed infants remain unknown, breast-feeding is not recommended while being treated with rituximab and optimally for 6 months following rituximab treatment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -506,7 +504,7 @@ No studies on the effects of MabThera on the ability to drive and use machines h
 
 ## 4.8 Undesirable effects
 
-## Experience from non-Hodgkin's lymphoma and chronic lymphocytic leukaemia in adults
+Experience from non-Hodgkin's lymphoma and chronic lymphocytic leukaemia in adults
 
 ## Summary of the safety profile
 
@@ -528,55 +526,44 @@ Other serious adverse reactions reported include hepatitis B reactivation and PM
 
 The frequencies of adverse reactions reported with MabThera alone or in combination with chemotherapy are summarised in Table 3. Frequencies are defined as very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in the order of decreasing seriousness.
 
+<div style=\"page-break-after: always\"></div>
+
 The adverse reactions identified only during post-marketing surveillance, and for which a frequency could not be estimated, are listed under 'not known', see footnotes.
 
-<div style=\"page-break-after: always\"></div>
+Table 3 Adverse reactions reported in clinical trials or during post-marketing surveillance in patients with NHL and CLL disease treated with MabThera monotherapy/maintenance or in combination with chemotherapy
 
-## Table 3 Adverse reactions reported in clinical trials or during post-marketing surveillance in patients with NHL and CLL disease treated with MabThera monotherapy/maintenance or in  combination with chemotherapy
-
-| MedDRA System Organ Class            | Very Common                                                         | Common                                                                                                                                                                                       | Uncommon                                                                                                                             | Rare                                               | Very Rare                                                           | Not known                                             |
-|--------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------|
-| Infections and infestations          | bacterial infections, viral infections, + bronchitis                | sepsis, + pneumonia, + febrile infection, + herpes zoster, + respiratory tract infection, fungal infections, infections of unknown aetiology, + acute bronchitis, + sinusitis, hepatitis B 1 |                                                                                                                                      | serious viral infection 2 , pneumocystis jirovecii | PML                                                                 | enteroviral meningoencephalit is 2, 3                 |
-| Blood and lymphatic system disorders | neutropenia, leucopenia, + febrile neutropenia, + thrombocytope nia | anaemia, + pancytopenia, + granulocytopeni a                                                                                                                                                 | coagulation disorders, aplastic anaemia, haemolytic anaemia, lymphadenopathy                                                         |                                                    | transient increase in serum IgM levels 4                            | late neutropenia 4                                    |
-| Immune system disorders              | infusion-related reactions 5 , angioedema                           | hypersensitivity                                                                                                                                                                             |                                                                                                                                      | anaphylaxis                                        | tumour lysis syndrome, cytokine release syndrome 5 , serum sickness | infusion-related acute reversible thrombocytopeni a 5 |
-| Metabolism and nutrition disorders   |                                                                     | hyperglycaemia, weight decrease, oedema peripheral, face oedema, increased LDH, hypocalcaemia                                                                                                |                                                                                                                                      |                                                    |                                                                     |                                                       |
-| Psychiatric disorders                |                                                                     |                                                                                                                                                                                              | depression, nervousness                                                                                                              |                                                    |                                                                     |                                                       |
-| Nervous system disorders             |                                                                     | paraesthesia, hypoaesthesia, agitation, insomnia, vasodilatation, dizziness, anxiety                                                                                                         | dysgeusia                                                                                                                            |                                                    | peripheral neuropathy, facial nerve palsy 6                         | cranial neuropathy, loss of other senses 6            |
-| Eye disorders                        |                                                                     | lacrimation disorder, conjunctivitis                                                                                                                                                         |                                                                                                                                      |                                                    | severe vision loss 6                                                |                                                       |
-| Ear and labyrinth disorders          |                                                                     | tinnitus, ear pain                                                                                                                                                                           |                                                                                                                                      |                                                    |                                                                     | hearing loss 6                                        |
-| Cardiac disorders                    |                                                                     | + myocardial infarction 5, 7 , arrhythmia, + atrial fibrillation, tachycardia, + cardiac disorder                                                                                            | + left ventricular failure, + supraventricular tachycardia, + ventricular tachycardia, + angina, + myocardial ischaemia, bradycardia | severe cardiac disorders 5, 7                      | heart failure 5, 7                                                  |                                                       |
+| MedDRA System Organ                  | Very Common                                                         | Common                                                                                                                                                                                       | Uncommon                                                                     | Rare                                                         | Very Rare                                                           | Not known                                             |
+|--------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------|
+| Infections and infestations          | bacterial infections, viral infections, + bronchitis                | sepsis, + pneumonia, + febrile infection, + herpes zoster, + respiratory tract infection, fungal infections, infections of unknown aetiology, + acute bronchitis, + sinusitis, hepatitis B 1 |                                                                              | serious viral infection 2 , pneumocystis jirovecii pneumonia | progressive multifocal leukoencephalopa thy                         | enteroviral meningoencephalit is 2, 3                 |
+| Blood and lymphatic system disorders | neutropenia, leucopenia, + febrile neutropenia, + thrombocytope nia | anaemia, + pancytopenia, + granulocytopeni a                                                                                                                                                 | coagulation disorders, aplastic anaemia, haemolytic anaemia, lymphadenopathy |                                                              | transient increase in serum IgM levels 4                            | late neutropenia 4                                    |
+| Immune system disorders              | infusion-related reactions 5 , angioedema                           | hypersensitivity                                                                                                                                                                             |                                                                              | anaphylaxis                                                  | tumour lysis syndrome, cytokine release syndrome 5 , serum sickness | infusion-related acute reversible thrombocytopeni a 5 |
+| Metabolism and nutrition disorders   |                                                                     | hyperglycaemia, weight decrease, oedema peripheral, face oedema, increased LDH, hypocalcaemia                                                                                                |                                                                              |                                                              |                                                                     |                                                       |
+| Psychiatric disorders                |                                                                     |                                                                                                                                                                                              | depression, nervousness                                                      |                                                              |                                                                     |                                                       |
+| Nervous system disorders             |                                                                     | paraesthesia, hypoaesthesia, agitation, insomnia, vasodilatation, dizziness, anxiety                                                                                                         | dysgeusia                                                                    |                                                              | peripheral neuropathy, facial nerve palsy 6                         | cranial neuropathy, loss of other senses 6            |
+| Eye disorders                        |                                                                     | lacrimation disorder, conjunctivitis                                                                                                                                                         |                                                                              |                                                              | severe vision loss 6                                                |                                                       |
+| Ear and labyrinth disorders          |                                                                     | tinnitus, ear pain                                                                                                                                                                           |                                                                              |                                                              |                                                                     | hearing loss 6                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA System Organ Class                            | Very Common                       | Common                                                                                                           | Uncommon                                                 | Rare                        | Very Rare                                                                                                | Not known         |
-|------------------------------------------------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------|----------------------------------------------------------------------------------------------------------|-------------------|
-| Vascular disorders                                   |                                   | hypertension, orthostatic hypotension, hypotension                                                               |                                                          |                             | vasculitis (predominately cutaneous), leukocytoclastic vasculitis                                        |                   |
-| Respiratory, thoracic and mediastinal disorders      |                                   | bronchospasm 5 , respiratory disease, chest pain, dyspnoea, increased cough, rhinitis                            | asthma, bronchiolitis obliterans, lung disorder, hypoxia | interstitial lung disease 8 | respiratory failure 5                                                                                    | lung infiltration |
-| Gastrointestinal disorders                           | nausea                            | vomiting, diarrhoea, abdominal pain, dysphagia, stomatitis, constipation, dyspepsia, anorexia, throat irritation | abdominal enlargement                                    |                             | gastro-intestinal perforation 8                                                                          |                   |
-| Skin and subcutaneous tissue disorders               | pruritus, rash, +alopecia         | urticaria, sweating, night sweats, +skin disorder                                                                |                                                          |                             | severe bullous skin reactions, Stevens-Johnson syndrome, toxic epidermal necrolysis (Lyell's syndrome) 8 |                   |
-| Musculoskeletal and connective tissue disorders      |                                   | hypertonia, myalgia, arthralgia, back pain, neck pain, pain                                                      |                                                          |                             |                                                                                                          |                   |
-| Renal and urinary disorders                          |                                   |                                                                                                                  |                                                          |                             | renal failure 5                                                                                          |                   |
-| General disorders and administration site conditions | fever, chills, asthenia, headache | tumour pain, flushing, malaise, cold syndrome, +fatigue, +shivering, +multi-organ failure 5                      | infusion site pain                                       |                             |                                                                                                          |                   |
-| Investigations                                       | decreased IgG levels              |                                                                                                                  |                                                          |                             |                                                                                                          |                   |
+| MedDRA System Organ Class                            | Very Common                       | Common                                                                                                           | Uncommon                                                                                                                             | Rare                          | Very Rare                                                                                                | Not known         |
+|------------------------------------------------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|----------------------------------------------------------------------------------------------------------|-------------------|
+| Cardiac disorders                                    |                                   | + myocardial infarction 5, 7 , arrhythmia, + atrial fibrillation, tachycardia, + cardiac disorder                | + left ventricular failure, + supraventricular tachycardia, + ventricular tachycardia, + angina, + myocardial ischaemia, bradycardia | severe cardiac disorders 5, 7 | heart failure 5, 7                                                                                       |                   |
+| Vascular disorders                                   |                                   | hypertension, orthostatic hypotension, hypotension                                                               |                                                                                                                                      |                               | vasculitis (predominately cutaneous), leukocytoclastic vasculitis                                        |                   |
+| Respiratory, thoracic and mediastinal disorders      |                                   | bronchospasm 5 , respiratory disease, chest pain, dyspnoea, increased cough, rhinitis                            | asthma, bronchiolitis obliterans, lung disorder, hypoxia                                                                             | interstitial lung disease 8   | respiratory failure 5                                                                                    | lung infiltration |
+| Gastrointestinal disorders                           | nausea                            | vomiting, diarrhoea, abdominal pain, dysphagia, stomatitis, constipation, dyspepsia, anorexia, throat irritation | abdominal enlargement                                                                                                                |                               | gastro-intestinal perforation 8                                                                          |                   |
+| Skin and subcutaneous tissue disorders               | pruritus, rash, +alopecia         | urticaria, sweating, night sweats, +skin disorder                                                                |                                                                                                                                      |                               | severe bullous skin reactions, Stevens-Johnson syndrome, toxic epidermal necrolysis (Lyell's syndrome) 8 |                   |
+| Musculoskeletal and connective tissue disorders      |                                   | hypertonia, myalgia, arthralgia, back pain, neck pain, pain                                                      |                                                                                                                                      |                               |                                                                                                          |                   |
+| Renal and urinary disorders                          |                                   |                                                                                                                  |                                                                                                                                      |                               | renal failure 5                                                                                          |                   |
+| General disorders and administration site conditions | fever, chills, asthenia, headache | tumour pain, flushing, malaise, cold syndrome, +fatigue, +shivering, +multi-organ failure 5                      | infusion site pain                                                                                                                   |                               |                                                                                                          |                   |
+| Investigations                                       | decreased IgG levels              |                                                                                                                  |                                                                                                                                      |                               |                                                                                                          |                   |
 
-For each term, the frequency count was based on reactions of all grades (from mild to severe), except for terms marked with \"+\" where the frequency count was based only on severe (≥ grade 3 NCI common toxicity criteria) reactions.  Only the highest frequency observed in the trials is reported
+<div style=\"page-break-after: always\"></div>
 
-1  includes reactivation and primary infections; frequency based on R-FC regimen in relapsed/refractory CLL
-
-2 see also section infection below
-
-- 3 observed during post-marketing surveillance
-- 4  see also section haematologic adverse reactions below
-- 5 see also section infusion-related reactions below. Rarely fatal cases reported
-- 6  signs and symptoms of cranial neuropathy. Occurred at various times up to several months after completion of MabThera therapy
-
-7  observed mainly in patients with prior cardiac condition and/or cardiotoxic chemotherapy and were mostly associated with infusion-related reactions
-
-8 includes fatal cases
+| MedDRA System Organ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Very Common                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Common                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Uncommon                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Rare                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Very Rare                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Not known                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Class For each term, the frequency count was based on reactions of all grades (from mild to severe), except for terms marked with \"+\" where the frequency count was based only on severe (≥ grade 3 NCI common toxicity criteria) reactions. Only the highest frequency observed in the trials is reported 1 includes reactivation and primary infections; frequency based on R-FC regimen in relapsed/refractory CLL 2 see also section infection below 3 observed during post-marketing surveillance | Class For each term, the frequency count was based on reactions of all grades (from mild to severe), except for terms marked with \"+\" where the frequency count was based only on severe (≥ grade 3 NCI common toxicity criteria) reactions. Only the highest frequency observed in the trials is reported 1 includes reactivation and primary infections; frequency based on R-FC regimen in relapsed/refractory CLL 2 see also section infection below 3 observed during post-marketing surveillance | Class For each term, the frequency count was based on reactions of all grades (from mild to severe), except for terms marked with \"+\" where the frequency count was based only on severe (≥ grade 3 NCI common toxicity criteria) reactions. Only the highest frequency observed in the trials is reported 1 includes reactivation and primary infections; frequency based on R-FC regimen in relapsed/refractory CLL 2 see also section infection below 3 observed during post-marketing surveillance | Class For each term, the frequency count was based on reactions of all grades (from mild to severe), except for terms marked with \"+\" where the frequency count was based only on severe (≥ grade 3 NCI common toxicity criteria) reactions. Only the highest frequency observed in the trials is reported 1 includes reactivation and primary infections; frequency based on R-FC regimen in relapsed/refractory CLL 2 see also section infection below 3 observed during post-marketing surveillance | Class For each term, the frequency count was based on reactions of all grades (from mild to severe), except for terms marked with \"+\" where the frequency count was based only on severe (≥ grade 3 NCI common toxicity criteria) reactions. Only the highest frequency observed in the trials is reported 1 includes reactivation and primary infections; frequency based on R-FC regimen in relapsed/refractory CLL 2 see also section infection below 3 observed during post-marketing surveillance | Class For each term, the frequency count was based on reactions of all grades (from mild to severe), except for terms marked with \"+\" where the frequency count was based only on severe (≥ grade 3 NCI common toxicity criteria) reactions. Only the highest frequency observed in the trials is reported 1 includes reactivation and primary infections; frequency based on R-FC regimen in relapsed/refractory CLL 2 see also section infection below 3 observed during post-marketing surveillance | Class For each term, the frequency count was based on reactions of all grades (from mild to severe), except for terms marked with \"+\" where the frequency count was based only on severe (≥ grade 3 NCI common toxicity criteria) reactions. Only the highest frequency observed in the trials is reported 1 includes reactivation and primary infections; frequency based on R-FC regimen in relapsed/refractory CLL 2 see also section infection below 3 observed during post-marketing surveillance |
 
 The following terms have been reported as adverse reactions during clinical trials, however, were reported at a similar or lower incidence in the MabThera arms compared to control arms: haematotoxicity, neutropenic infection, urinary tract infection, sensory disturbance, pyrexia.
-
-<div style=\"page-break-after: always\"></div>
 
 Signs and symptoms suggestive of an infusion-related reaction were reported in more than 50% of patients in clinical trials, and were predominantly seen during the first infusion, usually in the first one to two hours. These symptoms mainly comprised fever, chills and rigors. Other symptoms included flushing, angioedema, bronchospasm, vomiting, nausea, urticaria/rash, fatigue, headache, throat irritation, rhinitis, pruritus, pain, tachycardia, hypertension, hypotension, dyspnoea, dyspepsia, asthenia and features of tumour lysis syndrome. Severe infusion-related reactions (such as bronchospasm, hypotension) occurred in up to 12% of the cases. Additional reactions reported in some cases were myocardial infarction, atrial fibrillation, pulmonary oedema and acute reversible thrombocytopenia. Exacerbations of pre-existing cardiac conditions such as angina pectoris or congestive heart failure or severe cardiac disorders (heart failure, myocardial infarction, atrial fibrillation), pulmonary oedema, multi-organ failure, tumour lysis syndrome, cytokine  release syndrome, renal failure, and respiratory failure were reported at lower or unknown frequencies.  The incidence of infusion-related symptoms decreased substantially with subsequent infusions and is &lt; 1% of patients by the eighth cycle of MabThera (containing) treatment.
 
@@ -588,13 +575,11 @@ MabThera induces B-cell depletion in about 70-80% of patients, but was associate
 
 Localised candida infections as well as Herpes zoster were reported at a higher incidence in the MabThera-containing arm of randomised studies. Severe infections were reported in about 4% of patients treated with MabThera monotherapy. Higher frequencies of infections overall, including grade 3 or 4 infections, were observed during MabThera maintenance treatment up to 2 years when compared to observation. There was no cumulative toxicity in terms of infections reported over a 2-year treatment period. In addition, other serious viral infections either new, reactivated or exacerbated, some of which were fatal, have been reported with MabThera treatment. The majority of patients had received MabThera in combination with chemotherapy or as part of a haematopoetic stem  cell transplant. Examples of these serious viral infections are infections caused by the herpes viruses (Cytomegalovirus, Varicella Zoster Virus and Herpes Simplex Virus), JC virus (progressive multifocal leukoencephalopathy (PML)), enterovirus (meningoencephalitis) and hepatitis C virus (see section 4.4.). Cases of fatal PML that occurred after disease progression and retreatment have also been reported in clinical trials. Cases of hepatitis B reactivation, have been reported, the majority of which were in patients receiving MabThera in combination with cytotoxic chemotherapy. In patients with relapsed/refractory CLL, the incidence of grade 3/4 hepatitis B infection (reactivation and primary infection) was 2% in R-FC vs 0% FC. Progression of Kaposi's sarcoma has been observed in MabThera-exposed patients with pre-existing Kaposi's sarcoma. These cases occurred in non-approved indications and the majority of patients were HIV positive.
 
-## Haematologic adverse reactions
-
-In clinical trials with MabThera monotherapy given for 4 weeks, haematological abnormalities occurred in a minority of patients and were usually mild and reversible. Severe (grade 3/4) neutropenia was reported in 4.2%, anaemia in 1.1% and thrombocytopenia in 1.7% of the patients. During MabThera maintenance treatment for up to 2 years, leucopenia (5% vs. 2%, grade 3/4) and neutropenia (10% vs. 4%, grade 3/4) were reported at a higher incidence when compared to observation. The incidence of thrombocytopenia was low (&lt;1%, grade 3/4) and was not different between treatment arms. During the treatment course in studies with MabThera in combination with chemotherapy, grade 3/4 leucopenia (R-CHOP 88% vs. CHOP 79%, R-FC 23% vs. FC 12%), neutropenia (R-CVP 24% vs. CVP 14%; R-CHOP 97% vs. CHOP 88%, R-FC 30% vs. FC 19% in previously untreated CLL), pancytopenia (R-FC 3% vs. FC 1% in previously untreated CLL) were usually reported with higher frequencies when compared to chemotherapy alone. However, the higher incidence of neutropenia in patients treated with MabThera and chemotherapy was not associated with a higher incidence of infections and infestations compared to patients treated with chemotherapy alone. Studies in previously untreated and relapsed/refractory CLL have established that in up to 25% of patients treated with R-FC neutropenia was prolonged (defined as neutrophil count remaining below 1x10 9 /L between Day 24 and 42 after the last dose) or occurred with a late onset (defined as neutrophil count below 1x10 9 /L later than 42 days
-
 <div style=\"page-break-after: always\"></div>
 
-after last dose in patients with no previous prolonged neutropenia or who recovered prior to Day 42) following treatment with MabThera plus FC.  There were no differences reported for the incidence of anaemia. Some cases of late neutropenia occurring more than four weeks after the last infusion of MabThera were reported. In the CLL first-line study, Binet stage C patients experienced more adverse events in the R-FC arm compared to the FC arm (R-FC 83% vs. FC 71%). In the relapsed/refractory CLL study grade 3/4 thrombocytopenia was reported in 11% of patients in the R-FC group compared to 9% of patients in the FC group.
+## Haematologic adverse reactions
+
+In clinical trials with MabThera monotherapy given for 4 weeks, haematological abnormalities occurred in a minority of patients and were usually mild and reversible. Severe (grade 3/4) neutropenia was reported in 4.2%, anaemia in 1.1% and thrombocytopenia in 1.7% of the patients. During MabThera maintenance treatment for up to 2 years, leucopenia (5% vs. 2%, grade 3/4) and neutropenia (10% vs. 4%, grade 3/4) were reported at a higher incidence when compared to observation. The incidence of thrombocytopenia was low (&lt;1%, grade 3/4) and was not different between treatment arms. During the treatment course in studies with MabThera in combination with chemotherapy, grade 3/4 leucopenia (R-CHOP 88% vs. CHOP 79%, R-FC 23% vs. FC 12%), neutropenia (R-CVP 24% vs. CVP 14%; R-CHOP 97% vs. CHOP 88%, R-FC 30% vs. FC 19% in previously untreated CLL), pancytopenia (R-FC 3% vs. FC 1% in previously untreated CLL) were usually reported with higher frequencies when compared to chemotherapy alone. However, the higher incidence of neutropenia in patients treated with MabThera and chemotherapy was not associated with a higher incidence of infections and infestations compared to patients treated with chemotherapy alone. Studies in previously untreated and relapsed/refractory CLL have established that in up to 25% of patients treated with R-FC neutropenia was prolonged (defined as neutrophil count remaining below 1x10 9 /L between Day 24 and 42 after the last dose) or occurred with a late onset (defined as neutrophil count below 1x10 9 /L later than 42 days after last dose in patients with no previous prolonged neutropenia or who recovered prior to Day 42) following treatment with MabThera plus FC.  There were no differences reported for the incidence of anaemia. Some cases of late neutropenia occurring more than four weeks after the last infusion of MabThera were reported. In the CLL first-line study, Binet stage C patients experienced more adverse events in the R-FC arm compared to the FC arm (R-FC 83% vs. FC 71%). In the relapsed/refractory CLL study grade 3/4 thrombocytopenia was reported in 11% of patients in the R-FC group compared to 9% of patients in the FC group.
 
 In studies of MabThera in patients with Waldenstrom's macroglobulinaemia, transient increases in serum IgM levels have been observed following treatment initiation, which may be associated with hyperviscosity and related symptoms. The transient IgM increase usually returned to at least baseline level within 4 months.
 
@@ -606,6 +591,8 @@ Cardiovascular reactions during clinical trials with MabThera monotherapy were r
 
 Cases of interstitial lung disease, some with fatal outcome have been reported.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Neurologic disorders
 
 During the treatment period (induction treatment phase comprising of R-CHOP for at most eight cycles), four patients (2%) treated with R-CHOP, all with cardiovascular risk factors, experienced thromboembolic cerebrovascular accidents during the first treatment cycle. There was no difference between the treatment groups in the incidence of other thromboembolic events. In contrast, three patients (1.5%) had cerebrovascular events in the CHOP group, all of which occurred during the follow-up period. In CLL, the overall incidence of grade 3 or 4 nervous system disorders was low both in the first-line study (4% R-FC, 4% FC) and in the relapsed/refractory study (3% R-FC, 3% FC).
@@ -614,9 +601,7 @@ Cases of posterior reversible encephalopathy syndrome (PRES) / reversible poster
 
 ## Gastrointestinal disorders
 
-Gastrointestinal perforation in some cases leading to death has been observed in patients receiving MabThera for treatment of non-Hodgkin's lymphoma. In the majority of these cases, MabThera was administered with chemotherapy.
-
-<div style=\"page-break-after: always\"></div>
+Gastrointestinal  perforation  in  some  cases  leading  to  death  has  been  observed  in  patients  receiving MabThera for  treatment  of  non-Hodgkin's  lymphoma.  In  the  majority  of  these  cases,  MabThera  was administered with chemotherapy.
 
 ## IgG levels
 
@@ -648,17 +633,17 @@ The percentage of patients reporting adverse reactions upon re-treatment with fu
 
 The incidence of grade 3/4 blood and lymphatic adverse events was higher in elderly patients compared to younger patients (below 65 years), with previously untreated or relapsed/refractory CLL.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Experience from paediatric DLBCL/BL/BAL/BLL
 
 ## Summary of the safety profile
 
 A multicentre, open-label randomised study of Lymphome Malin B chemotherapy (LMB) with or without MabThera was conducted in paediatric patients (aged 6 months to less than 18 years old) with previously untreated advanced stage CD20 positive DLBCL/BL/BAL/BLL.
 
-A total of 309 paediatric patients received MabThera and were included in the safety analysis population. Paediatric patients randomised to the LMB chemotherapy arm with MabThera, or enrolled in the single arm part of the study, were administered MabThera at a dose of 375 mg/m 2 BSA and received a total of six IV infusions of MabThera (two during each of the two induction courses and one during each of the two consolidation courses of the LMB  scheme).
+A total of 309 paediatric patients received MabThera and were included in the safety analysis population. Paediatric patients randomised to the LMB chemotherapy arm with MabThera, or enrolled in the single arm part of the study, were administered MabThera at a dose of 375 mg/m 2  BSA and received a total of six IV infusions of MabThera (two during each of the two induction courses and one during each of the two consolidation courses of the LMB  scheme).
 
 The safety profile of MabThera in paediatric patients (aged 6 months to less than 18 years old) with previously untreated advanced stage CD20 positive DLBCL/BL/BAL/BLL was generally consistent in type, nature and severity with the known safety profile in adult NHL and CLL patients. Addition of MabThera to chemotherapy did result in an increased risk of some events including infections (including sepsis) compared to chemotherapy only.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Experience from rheumatoid arthritis
 
@@ -678,26 +663,28 @@ The adverse reactions identified only during post marketing surveillance, and fo
 
 The most frequent adverse reactions considered due to receipt of MabThera were IRRs. The overall incidence of IRRs in clinical trials was 23% with the first infusion and decreased with subsequent infusions. Serious IRRs were uncommon (0.5% of patients) and were predominantly seen during the initial course. In addition to adverse reactions seen in RA clinical trials for MabThera, progressive multifocal leukoencephalopathy (PML) (see section 4.4) and serum sickness-like reaction have been reported during post marketing experience.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 4 Summary of adverse reactions reported in clinical trials or during post-marketing surveillance occurring in patients with rheumatoid arthritis receiving MabThera
 
-| MedDRA System Organ Class            | Very Common                                                 | Common                                             | Uncommon   | Rare               | Very rare                        | Not known                                                         |
-|--------------------------------------|-------------------------------------------------------------|----------------------------------------------------|------------|--------------------|----------------------------------|-------------------------------------------------------------------|
-| Infections and infestations          | upper respiratory tract infection, urinary tract infections | bronchitis, sinusitis, gastroenteritis, tineapedis |            |                    | PML, reactivation of hepatitis B | serious viral infection 1, 2 , enteroviral meningoencephal itis 2 |
-| Blood and lymphatic system disorders |                                                             | neutropenia 3                                      |            | late neutropenia 4 | serum sickness-like reaction     |                                                                   |
+| MedDRA System Organ Class                                                    | Very Common                                                                                                                                                                                                                 | Common                                                                                   | Uncommon                                                                                                                                                                     | Rare                                                                       | Very rare                                                                  | Not known                                                         |
+|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------|
+| Infections and infestations                                                  | upper respiratory tract infection, urinary tract infections                                                                                                                                                                 | bronchitis, sinusitis, gastroenteritis, tinea pedis                                      |                                                                                                                                                                              |                                                                            | progressive multifocal leukoencephalo pathy, reactivation of hepatitis B   | serious viral infection 1, 2 , enteroviral meningoencephal itis 2 |
+| Blood and lymphatic system disorders                                         |                                                                                                                                                                                                                             | neutropenia 3                                                                            |                                                                                                                                                                              | late neutropenia 4                                                         | serum sickness-like reaction                                               |                                                                   |
+| Immune system disorders General disorders and administration site conditions | 5 infusion-related reactions (hypertension, nausea, rash, pyrexia, pruritus, urticaria, throat irritation, hot flush, hypotension, rhinitis, rigors, tachycardia, fatigue, oropharyngeal pain, oedema peripheral, erythema) |                                                                                          | 5 infusion-related reactions (generalised oedema, bronchospasm, wheezing, laryngeal oedema, angioneurotic oedema, generalised pruritus, anaphylaxis, anaphylactoid reaction) |                                                                            |                                                                            |                                                                   |
+| Metabolism and nutrition                                                     |                                                                                                                                                                                                                             | hyper- cholesterolemia                                                                   |                                                                                                                                                                              |                                                                            |                                                                            |                                                                   |
+| disorders Psychiatric disorders                                              |                                                                                                                                                                                                                             | depression, anxiety                                                                      |                                                                                                                                                                              |                                                                            |                                                                            |                                                                   |
+| Nervous system disorders                                                     | headache                                                                                                                                                                                                                    | paraesthesia, migraine, dizziness, sciatica                                              |                                                                                                                                                                              |                                                                            |                                                                            |                                                                   |
+| Cardiac disorders                                                            |                                                                                                                                                                                                                             |                                                                                          |                                                                                                                                                                              | angina pectoris, atrial fibrillation, heart failure, myocardial infarction | atrial flutter                                                             |                                                                   |
+| Gastrointestinal disorders                                                   |                                                                                                                                                                                                                             | dyspepsia, diarrhoea, gastro- oesophageal reflux, mouth ulceration, upper abdominal pain |                                                                                                                                                                              |                                                                            |                                                                            |                                                                   |
+| Skin and subcutaneous tissue disorders                                       |                                                                                                                                                                                                                             | alopecia                                                                                 |                                                                                                                                                                              |                                                                            | toxic epidermal necrolysis (Lyell's syndrome), Stevens- Johnson syndrome 7 |                                                                   |
+| Musculoskeletal disorders and connective tissue disorders                    |                                                                                                                                                                                                                             | arthralgia / musculoskeletal pain, osteoarthritis, bursitis                              |                                                                                                                                                                              |                                                                            |                                                                            |                                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA System Organ Class                                                    | Very Common                                                                                                                                                                                           | Common                                                                                   | Uncommon                                                                                                                                                                     | Rare                                                                       | Very rare                                                                  | Not known   |
-|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------|
-| Immune system disorders General disorders and administration site conditions | 5 infusion-related reactions (hypertension, nausea, rash, pyrexia, pruritus, urticaria, throat irritation, hot flush, hypotension, rhinitis, rigors, tachycardia, fatigue, oropharyngeal pain, oedema |                                                                                          | 5 infusion-related reactions (generalised oedema, bronchospasm, wheezing, laryngeal oedema, angioneurotic oedema, generalised pruritus, anaphylaxis, anaphylactoid reaction) |                                                                            |                                                                            |             |
-| Metabolism and nutrition disorders                                           |                                                                                                                                                                                                       | hyper- cholesterolemia                                                                   |                                                                                                                                                                              |                                                                            |                                                                            |             |
-| Psychiatric disorders                                                        |                                                                                                                                                                                                       | depression, anxiety                                                                      |                                                                                                                                                                              |                                                                            |                                                                            |             |
-| Nervous system disorders                                                     | headache                                                                                                                                                                                              | paraesthesia, migraine, dizziness, sciatica                                              |                                                                                                                                                                              |                                                                            |                                                                            |             |
-| Cardiac disorders                                                            |                                                                                                                                                                                                       |                                                                                          |                                                                                                                                                                              | angina pectoris, atrial fibrillation, heart failure, myocardial infarction | atrial flutter                                                             |             |
-| Gastrointestinal disorders                                                   |                                                                                                                                                                                                       | dyspepsia, diarrhoea, gastro- oesophageal reflux, mouth ulceration, upper abdominal pain |                                                                                                                                                                              |                                                                            |                                                                            |             |
-| Skin and subcutaneous tissue disorders                                       |                                                                                                                                                                                                       | alopecia                                                                                 |                                                                                                                                                                              |                                                                            | toxic epidermal necrolysis (Lyell's syndrome), Stevens- Johnson syndrome 7 |             |
-| Musculoskeletal disorders and connective tissue disorders                    |                                                                                                                                                                                                       | arthralgia / musculoskeletal pain, osteoarthritis, bursitis                              |                                                                                                                                                                              |                                                                            |                                                                            |             |
-| Investigations                                                               | decreased IgM levels 6                                                                                                                                                                                | decreased IgG levels 6                                                                   |                                                                                                                                                                              |                                                                            |                                                                            |             |
+| MedDRA System Organ Class   | Very Common            | Common                 | Uncommon   | Rare   | Very rare   | Not known   |
+|-----------------------------|------------------------|------------------------|------------|--------|-------------|-------------|
+| Investigations              | decreased IgM levels 6 | decreased IgG levels 6 |            |        |             |             |
 
 1 See also section infections below.
 
@@ -712,8 +699,6 @@ Table 4 Summary of adverse reactions reported in clinical trials or during post-
 6 Includes observations collected as part of routine laboratory monitoring.
 
 7 Includes fatal cases
-
-<div style=\"page-break-after: always\"></div>
 
 ## Multiple courses
 
@@ -735,7 +720,11 @@ In the post marketing setting, serious viral infections have been reported in RA
 
 Cases of progressive multifocal leukoencephalopathy with fatal outcome have been reported following use of MabThera for the treatment of autoimmune diseases. This includes rheumatoid arthritis and off-label autoimmune diseases, including Systemic Lupus Erythematosus (SLE) and vasculitis.
 
-In patients with non-Hodgkin's lymphoma receiving MabThera in combination with cytotoxic chemotherapy, cases of hepatitis B reactivation have been reported (see non-Hodgkin's lymphoma). Reactivation of hepatitis B infection has also been very rarely reported in RA patients receiving MabThera (see Section 4.4).
+In patients with non-Hodgkin's lymphoma receiving MabThera in combination with cytotoxic chemotherapy, cases of hepatitis B reactivation have been reported (see non-Hodgkin's lymphoma).
+
+<div style=\"page-break-after: always\"></div>
+
+Reactivation of hepatitis B infection has also been very rarely reported in RA patients receiving MabThera (see Section 4.4).
 
 ## Cardiovascular adverse reactions
 
@@ -743,11 +732,7 @@ Serious cardiac reactions were reported at a rate of 1.3 per 100 patient years i
 
 ## Neurologic events
 
-Cases of posterior reversible encephalopathy syndrome (PRES)/reversible posterior leukoencephalopathy syndrome (RPLS) have been reported. Signs and symptoms included visual disturbance, headache, seizures and altered mental status, with or without associated hypertension. A
-
-<div style=\"page-break-after: always\"></div>
-
-diagnosis of PRES/RPLS requires confirmation by brain imaging. The reported cases had recognised risk factors for PRES/RPLS, including the patients' underlying disease, hypertension, immunosuppressive therapy and/or chemotherapy.
+Cases of posterior reversible encephalopathy syndrome (PRES)/reversible posterior leukoencephalopathy syndrome (RPLS) have been reported. Signs and symptoms included visual disturbance, headache, seizures and altered mental status, with or without associated hypertension. A diagnosis of PRES/RPLS requires confirmation by brain imaging. The reported cases had recognised risk factors for PRES/RPLS, including the patients' underlying disease, hypertension, immunosuppressive therapy and/or chemotherapy.
 
 ## Neutropenia
 
@@ -783,24 +768,21 @@ The adverse reactions identified only during post-marketing surveillance, and fo
 
 Table 5 Adverse reactions occurring at 6months in ≥ 5% of adult patients receiving MabThera in GPA/MPA Study 1 (Rituximab n=99), at a higher frequency than the comparator   group, or during post-marketing surveillance
 
-| MedDRA System Organ Class                            | Very Common                                    | Common                                                              | Not known                                                       |
-|------------------------------------------------------|------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------|
-| Infections and infestations                          |                                                | urinary tract infection, bronchitis, herpes zoster, nasopharyngitis | serious viral infection 1,2 , enteroviral meningoencephalitis 1 |
-| Blood and lymphatic system disorders                 |                                                | thrombocytopenia                                                    |                                                                 |
-| Immune system disorders                              |                                                | cytokine release syndrome                                           |                                                                 |
-| Metabolism and nutrition disorders                   |                                                | hyperkalaemia                                                       |                                                                 |
-| Psychiatric disorders                                | insomnia                                       |                                                                     |                                                                 |
-| Nervous system disorders                             | dizziness, tremor                              |                                                                     |                                                                 |
-| Vascular disorders                                   | hypertension                                   | flushing                                                            |                                                                 |
-| Respiratory, thoracic and mediastinal disorders      | cough, dyspnoea, epistaxis                     | nasal congestion                                                    |                                                                 |
-| Gastrointestinal disorders                           | diarrhoea                                      | dyspepsia, constipation                                             |                                                                 |
-| Skin and subcutaneous tissue disorders               |                                                | acne                                                                |                                                                 |
-| Musculoskeletal and connective tissue disorders      | muscle spasms, arthralgia, back pain           | muscle weakness, musculoskeletal pain, pain in extremities          |                                                                 |
-| General disorders and administration site conditions | oedema peripheral                              |                                                                     |                                                                 |
-| Investigations                                       |                                                | decreased haemoglobin                                               |                                                                 |
-| 1 Observed during post-marketing surveillance.       | 1 Observed during post-marketing surveillance. |                                                                     |                                                                 |
-
-2 See also section infections below.
+| MedDRA System Organ Class                            | Very Common                          | Common                                                              | Not known                                                       |
+|------------------------------------------------------|--------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------|
+| Infections and infestations                          |                                      | urinary tract infection, bronchitis, herpes zoster, nasopharyngitis | serious viral infection 1,2 , enteroviral meningoencephalitis 1 |
+| Blood and lymphatic system disorders                 |                                      | thrombocytopenia                                                    |                                                                 |
+| Immune system disorders                              |                                      | cytokine release syndrome                                           |                                                                 |
+| Metabolism and nutrition disorders                   |                                      | hyperkalaemia                                                       |                                                                 |
+| Psychiatric disorders                                | insomnia                             |                                                                     |                                                                 |
+| Nervous system disorders                             | dizziness, tremor                    |                                                                     |                                                                 |
+| Vascular disorders                                   | hypertension                         | flushing                                                            |                                                                 |
+| Respiratory, thoracic and mediastinal disorders      | cough, dyspnoea, epistaxis           | nasal congestion                                                    |                                                                 |
+| Gastrointestinal disorders                           | diarrhoea                            | dyspepsia, constipation                                             |                                                                 |
+| Skin and subcutaneous tissue disorders               |                                      | acne                                                                |                                                                 |
+| Musculoskeletal and connective tissue disorders      | muscle spasms, arthralgia, back pain | muscle weakness, musculoskeletal pain, pain in extremities          |                                                                 |
+| General disorders and administration site conditions | oedema peripheral                    |                                                                     |                                                                 |
+| Investigations                                       |                                      | decreased haemoglobin                                               |                                                                 |
 
 Adult maintenance treatment (GPA/MPA Study 2)
 
@@ -815,12 +797,6 @@ Table 6 Adverse reactions occurring in ≥ 5% of adult patients receiving MabThe
 | Gastrointestinal disorders                           |                              | diarrhoea                                          |                                                                 |
 | General disorders and administration site conditions |                              | pyrexia, influenza-like illness, oedema peripheral |                                                                 |
 | Injury, poisoning and procedural complications       | infusion-related reactions 3 |                                                    |                                                                 |
-
-1  Observed during post-marketing surveillance.
-
-2 See also section infections below.
-
-3 Details on infusion-related reactions are provided in the description of selected adverse reactions section.
 
 The overall safety profile was consistent with the well-established safety profile for MabThera in approved autoimmune indications, including GPA/MPA. Overall, 4% of patients in the MabThera arm experienced adverse events leading to discontinuation. Most adverse events in the MabThera arm were mild or moderate in intensity.  No patients in the MabThera arm had fatal adverse events.
 
@@ -914,7 +890,7 @@ The overall safety profile of MabThera in pemphigus vulgaris is based on data fr
 
 ## Summary of the safety profile in PV Study 1 (Study ML22196) and PV Study 2 (Study WA29330)
 
-The safety profile of MabThera in combination with short-term, low-dose glucocorticoids in the treatment of patients with pemphigus vulgaris was studied in a Phase 3, randomised, controlled, multicentre,  open-label  study  in  pemphigus  patients  that  included  38  pemphigus  vulgaris  (PV) patients randomised to the MabThera group (PV Study 1). Patients randomised to the MabThera group received an initial 1000 mg IV on Study Day 1 and a second 1000 mg IV on Study Day 15. Maintenance doses of 500 mg IV were administered at months 12 and 18. Patients could receive 1000 mg IV at the time of relapse (see section 5.1).
+The safety profile of MabThera in combination with short-term, low-dose glucocorticoids in the treatment of patients with pemphigus vulgaris was studied in a Phase 3, randomised, controlled, multicentre, open-label study in pemphigus patients that included 38 pemphigus vulgaris (PV) patients randomised to the MabThera group (PV Study 1). Patients randomised to the MabThera group received an initial 1000 mg IV on Study Day 1 and a second 1000 mg IV on Study Day 15. Maintenance doses of 500 mg IV were administered at months 12 and 18. Patients could receive 1000 mg IV at the time of relapse (see section 5.1).
 
 In PV Study 2, a randomised, double-blind, double-dummy, active-comparator, multicentre study evaluating the efficacy and safety of MabThera compared with mycophenolate mofetil (MMF) in patients with moderate-to-severe PV requiring oral corticosteroids, 67 PV patients received treatment with MabThera (initial 1000 mg IV on Study Day 1 and a second 1000 mg IV on Study Day 15 repeated at Weeks 24 and 26) for up to 52 weeks (see section 5.1).
 
@@ -951,15 +927,13 @@ Table 7 Adverse reactions in MabThera-treated pemphigus vulgaris patients in PV 
 
 The most common infusion-related reaction symptoms/Preferred Terms for PV Study 2 were dyspnoea, erythema, hyperhidrosis, flushing/hot flush, hypotension/low blood pressure and rash/rash pruritic.
 
-## Description of selected adverse reactions
-
-## Infusion-related reactions
-
-In PV Study 1, infusion-related reactions were common (58%). Nearly all infusion-related reactions were mild to moderate. The proportion of patients experiencing an infusion-related reaction was 29% (11 patients), 40% (15 patients), 13% (5 patients), and 10% (4 patients) following the first, second, third,
+Description of selected adverse reactions
 
 <div style=\"page-break-after: always\"></div>
 
-and fourth infusions, respectively. No patients were withdrawn from treatment due to infusion-related reactions. Symptoms of infusion-related reactions were similar in type and severity to those seen in RA and GPA/MPA patients.
+## Infusion-related reactions
+
+In PV Study 1, infusion-related reactions were common (58%). Nearly all infusion-related reactions were mild to moderate. The proportion of patients experiencing an infusion-related reaction was 29% (11 patients), 40% (15 patients), 13% (5 patients), and 10% (4 patients) following the first, second, third, and fourth infusions, respectively. No patients were withdrawn from treatment due to infusion-related reactions. Symptoms of infusion-related reactions were similar in type and severity to those seen in RA and GPA/MPA patients.
 
 In PV Study 2, IRRs occurred primarily at the first infusion and the frequency of IRRs decreased with subsequent infusions: 17.9%, 4.5%, 3% and 3% of patients experienced IRRs at the first, second, third, and fourth infusions, respectively. In 11/15 patients who experienced at least one IRR, the IRRs were Grade 1 or 2. In 4/15 patients, Grade ≥ 3 IRRs were reported and led to discontinuation of MabThera treatment; three of the four patients experienced serious (life-threatening) IRRs.  Serious IRRs occurred at the first (2 patients) or second (1 patient) infusion and resolved with symptomatic treatment.
 
@@ -987,9 +961,9 @@ Limited experience with doses higher than the approved dose of intravenous MabTh
 
 Patients who experience overdose should have immediate interruption of their infusion and be closely monitored.
 
-In the post-marketing setting five cases of MabThera overdose have been reported. Three cases had no reported adverse event. The two adverse events that were reported were flu-like symptoms, with a dose of 1.8 g of rituximab and fatal respiratory failure, with a dose of 2 g of rituximab.
-
 <div style=\"page-break-after: always\"></div>
+
+In the post-marketing setting five cases of MabThera overdose have been reported. Three cases had no reported adverse event. The two adverse events that were reported were flu-like symptoms, with a dose of 1.8 g of rituximab and fatal respiratory failure, with a dose of 2 g of rituximab.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -1011,19 +985,15 @@ Peripheral B-cell counts declined below normal following completion of the first
 
 ## Clinical efficacy and safety
 
-## Clinical efficacy and safety in non-Hodgkin's lymphoma and in chronic lymphocytic leukaemia
+Clinical efficacy and safety in non-Hodgkin's lymphoma and in chronic lymphocytic leukaemia
 
 ## Follicular lymphoma
 
 ## Monotherapy
 
-## Initial treatment, weekly for 4 doses
-
-In the pivotal trial, 166 patients with relapsed or chemoresistant low-grade or follicular B-cell NHL received 375 mg/m 2 of MabThera as an intravenous infusion once weekly for four weeks. The overall response rate (ORR) in the intent-to-treat (ITT) population was 48% (CI95% 41% - 56%) with a 6% complete response (CR) and a 42% partial response (PR) rate. The projected median time to progression (TTP) for responding patients was 13.0 months. In a subgroup analysis, the ORR was higher in patients with IWF B, C, and D histological subtypes as compared to IWF A subtype (58% vs. 12%), higher in patients whose largest lesion was &lt; 5 cm vs. &gt; 7 cm in greatest diameter (53% vs. 38%), and higher in
+Initial treatment, weekly for 4 doses In the pivotal trial, 166 patients with relapsed or chemoresistant low-grade or follicular B-cell NHL received 375 mg/m 2 of MabThera as an intravenous infusion once weekly for four weeks. The overall response rate (ORR) in the intent-to-treat (ITT) population was 48% (CI95% 41% - 56%) with a 6% complete response (CR) and a 42% partial response (PR) rate. The projected median time to progression (TTP) for responding patients was 13.0 months. In a subgroup analysis, the ORR was higher in patients with IWF B, C, and D histological subtypes as compared to IWF A subtype (58% vs. 12%), higher in patients whose largest lesion was &lt; 5 cm vs. &gt; 7 cm in greatest diameter (53% vs. 38%), and higher in patients with chemosensitive relapse as compared to chemoresistant (defined as duration of response &lt; 3 months) relapse (50% vs. 22%). ORR in patients previously treated with autologous bone marrow transplant (ABMT) was 78% versus 43% in patients with no ABMT. Neither age, sex, lymphoma grade, initial diagnosis, presence or absence of bulky disease, normal or high LDH nor presence of extranodal disease had a statistically significant effect (Fisher's exact test) on response to MabThera. A statistically significant correlation was noted between response rates and bone marrow involvement. 40% of patients with bone marrow involvement responded compared to 59% of patients with no bone marrow involvement (p=0.0186). This finding was not supported by a stepwise logistic regression analysis in which the following factors were identified as prognostic factors: histological type, bcl-2 positivity at baseline, resistance to last chemotherapy and bulky disease.
 
 <div style=\"page-break-after: always\"></div>
-
-patients with chemosensitive relapse as compared to chemoresistant (defined as duration of response &lt; 3 months) relapse (50% vs. 22%). ORR in patients previously treated with autologous bone marrow transplant (ABMT) was 78% versus 43% in patients with no ABMT. Neither age, sex, lymphoma grade, initial diagnosis, presence or absence of bulky disease, normal or high LDH nor presence of extranodal disease had a statistically significant effect (Fisher's exact test) on response to MabThera. A statistically significant correlation was noted between response rates and bone marrow involvement. 40% of patients with bone marrow involvement responded compared to 59% of patients with no bone marrow involvement (p=0.0186). This finding was not supported by a stepwise logistic regression analysis in which the following factors were identified as prognostic factors: histological type, bcl-2 positivity at baseline, resistance to last chemotherapy and bulky disease.
 
 ## Initial treatment, weekly for 8 doses
 
@@ -1041,28 +1011,20 @@ In a multi-centre, single-arm trial, 58 patients with relapsed or chemoresistant
 
 In an open-label randomised trial, a total of 322 previously untreated patients with follicular lymphoma were randomised to receive either CVP chemotherapy (cyclophosphamide 750 mg/m 2 , vincristine 1.4 mg/m 2 up to a maximum of 2 mg on Day 1, and prednisolone 40 mg/m 2 /day on days 1 -5) every 3 weeks for 8 cycles or MabThera 375 mg/m 2  in combination with CVP (R-CVP). MabThera was administered on the first day of each treatment cycle. A total of 321 patients (162 R-CVP, 159 CVP) received therapy and were analysed for efficacy. The median follow-up of patients was 53 months. R-CVP led to a significant benefit over CVP for the primary endpoint, time to treatment failure (27 months vs. 6.6 months, p &lt; 0.0001, log-rank test). The proportion of patients with a tumour response (CR, CRu, PR) was significantly higher (p&lt; 0.0001 Chi-Square test) in the R-CVP group (80.9%) than the CVP group (57.2%). Treatment with R-CVP significantly prolonged the time to disease progression or death compared to CVP, 33.6 months and 14.7 months, respectively (p &lt; 0.0001, log-rank test). The median duration of response was 37.7 months in the R-CVP group and  was 13.5 months in the CVP group (p &lt; 0.0001, log-rank test).
 
+<div style=\"page-break-after: always\"></div>
+
 The difference between the treatment groups with respect to overall survival showed a significant clinical difference (p=0.029, log-rank test stratified by centre): survival rates at 53 months were 80.9% for patients in the R-CVP group compared to 71.1% for patients in the CVP group.
 
 Results from three other randomised trials using MabThera in combination with chemotherapy regimen other than CVP (CHOP, MCP, CHVP/Interferonα) have also demonstrated significant improvements in response rates, time-dependent parameters as well as in overall survival. Key results from all four studies are summarised in Table 8.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 8 Summary of key results from four phase III randomised studies evaluating the benefit of MabThera with different chemotherapy regimens in follicular lymphoma
 
-| Study                         |   Treatment, N | Median FU, months   | ORR,%   | CR, %                                       | Median TTF/PFS/ EFS, months   | OS rates, %   |
-|-------------------------------|----------------|---------------------|---------|---------------------------------------------|-------------------------------|---------------|
-| CVP, 159 R-CVP, 162           |             53 | 57 81               | 10 41   | Median TTP: 14.7 33.6 P< 0.0001             | 53-months 71.1 80.9 p=0.029   | M39021        |
-| CHOP, 205 R-CHOP, 223         |             18 | 90 96               | 17 20   | Median TTF: 2.6 years Not reached p < 0.001 | 18-months 90 95 p = 0.016     | GLSG'00       |
-| MCP, 96 R-MCP, 105            |             47 | 75 92               | 25 50   | Median PFS: 28.8 Not reached p < 0.0001     | 48-months 74 87 p = 0.0096    | OSHO - 39     |
-| CHVP-IFN, 183 R-CHVP-IFN, 175 |             42 | 85 94               | 49 76   | Median EFS: 36 Not reached p < 0.0001       | 42-months 84 91 p = 0.029     | FL2000        |
-
-EFS - Event Free Survival
-
-TTP - Time to progression or death
-
-PFS - Progression-Free Survival
-
-TTF - Time to Treatment Failure
+| Study                         |   Treatment, N | Median FU, months   | ORR, %   | CR, %                                       | Median TTF/PFS/ EFS, months   | OS rates, %   |
+|-------------------------------|----------------|---------------------|----------|---------------------------------------------|-------------------------------|---------------|
+| CVP, 159 R-CVP, 162           |             53 | 57 81               | 10 41    | Median TTP: 14.7 33.6 P< 0.0001             | 53-months 71.1 80.9 p=0.029   | M39021        |
+| CHOP, 205 R-CHOP, 223         |             18 | 90 96               | 17 20    | Median TTF: 2.6 years Not reached p < 0.001 | 18-months 90 95 p = 0.016     | GLSG'00       |
+| MCP, 96 R-MCP, 105            |             47 | 75 92               | 25 50    | Median PFS: 28.8 Not reached p < 0.0001     | 48-months 74 87 p = 0.0096    | OSHO - 39     |
+| CHVP-IFN, 183 R-CHVP-IFN, 175 |             42 | 85 94               | 49 76    | Median EFS: 36 Not reached p < 0.0001       | 42-months 84 91 p = 0.029     | FL2000        |
 
 OS rates - survival rates at the time of the analyses
 
@@ -1074,34 +1036,28 @@ In a prospective, open label, international, multi-centre, phase III trial 1 193
 
 The pre-specified primary analysis was conducted at a median observation time of 25 months from randomisation, maintenance therapy with MabThera resulted in a clinically relevant and statistically significant improvement in the primary endpoint of investigator assessed progression-free survival (PFS) as compared to observation in patients with previously untreated follicular lymphoma (Table 9).
 
+<div style=\"page-break-after: always\"></div>
+
 Significant benefit from maintenance treatment with MabThera was also seen for the secondary endpoints event-free survival (EFS), time to next anti-lymphoma treatment (TNLT) time to next chemotherapy (TNCT) and overall response rate (ORR) in the primary analysis (Table 9).
 
 Data from extended follow-up of patients in the study (median follow-up 9 years) confirmed the long-  term benefit of MabThera maintenance therapy in terms of PFS, EFS, TNLT and TNCT (Table 9).
-
-<div style=\"page-break-after: always\"></div>
 
 Table 9 Overview of efficacy results for MabThera maintenance vs. observation at the protocol-defined primary analysis and after 9 years median follow-up (final analysis)
 
 |                                                                                                           | Primary analysis (median FU: 25 months)   | Primary analysis (median FU: 25 months)   | Final analysis (median FU: 9.0 years)   | Final analysis (median FU: 9.0 years)   |
 |-----------------------------------------------------------------------------------------------------------|-------------------------------------------|-------------------------------------------|-----------------------------------------|-----------------------------------------|
 |                                                                                                           | Observation N=513                         | MabThera N=505                            | Observation N=513                       | MabThera N=505                          |
-| Primary efficacy Progression-free survival (median) log-rank p value hazard ratio (95% CI) risk reduction | NR < 0.0001 0.50 (0.39, 50%               | NR 0.64)                                  | 4.06 years < 0.61 (0.52,                | 10.49 years 0.0001 0.73) 39%            |
+| Primary efficacy Progression-free survival (median) log-rank p value hazard ratio (95% CI) risk reduction | NR < 0.0001 0.50 (0.39, 0.64) 50%         | NR                                        | 4.06 years < 0.0001 0.61 (0.52, 39%     | 10.49 years 0.73)                       |
 | Secondary efficacy Overall survival (median) log-rank p value hazard ratio (95% CI) risk reduction        | NR 0.7246 0.89 (0.45, 11%                 | NR 1.74)                                  | NR 0.7948 1.04 (0.77, -6%               | NR 1.40)                                |
-| Event-free survival (median) log-rank p value hazard ratio (95% CI) risk reduction                        | 38 months < 0.0001 0.54 (0.43, 46%        | NR 0.69)                                  | 4.04 years < 0.0001 0.64 (0.54, 36%     | 9.25 years 0.76)                        |
+| Event-free survival (median) log-rank p value hazard ratio (95% CI) risk reduction                        | 38 months < 0.0001 0.54 (0.43, 0.69) 46%  | NR                                        | 4.04 years < 0.0001 0.64 (0.54, 36%     | 9.25 years 0.76)                        |
 | TNLT (median) log-rank p value <hazard ratio (95% CI) risk reduction                                      | NR 0.0003 0.61 (0.46, 39%                 | NR 0.80)                                  | 6.11 years < 0.0001 0.66 (0.55, 34%     | NR 0.78)                                |
-| TNCT (median) log-rank p value hazard ratio (95% CI) risk reduction                                       | NR 0.0011 0.60 (0.44, 40%                 | NR 0.82)                                  | 9.32 years 0.0004 0.71 (0.59, 39%       | NR 0.86)                                |
+| TNCT (median) log-rank p value hazard ratio (95% CI) risk reduction                                       | NR 0.0011 0.60 (0.44, 0.82) 40%           | NR                                        | 9.32 years 0.0004 0.71 (0.59, 39%       | NR 0.86)                                |
 | Overall response rate* chi-squared test p value odds ratio (95% CI)                                       | 55% < 0.0001 2.33 (1.73,                  | 74% 3.15)                                 | 61% < 0.0001 2.43 (1.84,                | 79% 3.22)                               |
-| Complete response (CR/CRu) rate* chi-squared test p value odds ratio (95% CI)                             | 48% < 0.0001 2.21 (1.65,                  | 67% 2.94)                                 | 53% < 0.0001 2.34 (1.80, 3.03)          | 72%                                     |
-
-* at end of maintenance/observation; final analysis results based on median follow-up of 73 months.
-
-FU: follow-up; NR: not reached at time of clinical cut off, TNCT: time to next chemotherapy treatment; TNLT: time to next anti lymphoma treatment.
+| Complete response (CR/CRu) rate* chi-squared test p value odds ratio (95% CI)                             | 48% < 0.0001 2.21 (1.65, 2.94)            | 67%                                       | 53% < 0.0001 2.34 (1.80, 3.03)          | 72%                                     |
 
 MabThera maintenance treatment provided consistent benefit in all predefined subgroups tested: gender (male, female), age ( &lt; 60 years, &gt;= 60 years), FLIPI score (&lt;=1, 2 or &gt;= 3), induction therapy (R-CHOP, R-CVP or R-FCM) and regardless of the quality of response to induction treatment (CR, CRu or PR). Exploratory analyses of the benefit of maintenance treatment showed a less pronounced effect in elderly patients (&gt; 70 years of age), however sample sizes were small.
 
-## Relapsed/Refractory follicular lymphoma
-
-In a prospective, open label, international, multi-centre, phase III trial, 465 patients with relapsed/refractory follicular lymphoma were randomised in a first step to induction therapy with either CHOP (cyclophosphamide, doxorubicin, vincristine, prednisolone; n=231) or MabThera plus CHOP (R-CHOP, n=234). The two treatment groups were well balanced with regard to baseline characteristics and disease status. A total of 334 patients achieving a complete or partial remission following induction therapy were randomised in a second step to MabThera maintenance therapy (n=167) or observation (n=167). MabThera maintenance treatment consisted of a single infusion of MabThera at 375 mg/m 2  body surface area given every 3 months until disease progression or for a maximum period of two years.
+Relapsed/Refractory follicular lymphoma In a prospective, open label, international, multi-centre, phase III trial, 465 patients with relapsed/refractory follicular lymphoma were randomised in a first step to induction therapy with either CHOP (cyclophosphamide, doxorubicin, vincristine, prednisolone; n=231) or MabThera plus CHOP (R-CHOP, n=234). The two treatment groups were well balanced with regard to baseline characteristics and disease status. A total of 334 patients achieving a complete or partial remission following induction therapy were randomised in a second step to MabThera maintenance therapy (n=167) or observation (n=167). MabThera maintenance treatment consisted of a single infusion of MabThera at 375 mg/m 2  body surface area given every 3 months until disease progression or for a maximum period of two years.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1109,16 +1065,16 @@ The final efficacy analysis included all patients randomised to both parts of th
 
 Table 10 Induction phase: overview of efficacy results for CHOP vs. R-CHOP (31 months median observation time)
 
-|                  | CHOP   | R - CHOP   | p - value   | Risk Reduction 1)   |
+|                  | CHOP   | R - CHOP   |   p - value | Risk Reduction 1)   |
 |------------------|--------|------------|-------------|---------------------|
 | Primary efficacy |        |            |             |                     |
-| ORR 2)           | 74%    | 87%        | 0.0003      | Na                  |
-| CR 2)            | 16%    | 29%        | 0.0005      | Na                  |
-| PR 2)            | 58%    | 58%        | 0.9449      | Na                  |
+| ORR 2)           | 74%    | 87%        |      0.0003 | Na                  |
+| CR 2)            | 16%    | 29%        |      0.0005 | Na                  |
+| PR 2)            | 58%    | 58%        |      0.9449 | Na                  |
 
 1) Estimates were calculated by hazard ratios
 
-2) Last tumour response as assessed by the investigator. The 'primary' statistical test for 'response' was the trend test of CR versus PR versus non-response (p &lt; 0.0001)
+2) Last tumour response as assessed by the investigator. The 'primary' statistical test for 'response' was the trend test of CR  versus PR versus non-response (p &lt; 0.0001)
 
 Abbreviations: NA, not available; ORR: overall response rate; CR: complete response; PR: partial response
 
@@ -1133,16 +1089,21 @@ Table 11 Maintenance phase: overview of efficacy results MabThera vs. observatio
 | Overall survival                  | NR                                                         | NR                                                         | 0.0039                                                     | 56%              |
 | Time to new lymphoma treatment    | 20.1                                                       | 38.8                                                       | < 0.0001                                                   | 50%              |
 | Disease - free survival a         | 16.5                                                       | 53.7                                                       | 0.0003                                                     | 67%              |
-| Subgroup analysis PFS CHOP OS     | 11.6 22.1 14.3 14.3                                        | 37.5 51.9 52.8 37.8                                        | < 0.0001 0.0071 0.0008 < 0.0001 0.0348                     | 71% 46% 64% 54%  |
-| R-CHOP                            |                                                            |                                                            |                                                            |                  |
-| CR                                |                                                            |                                                            |                                                            |                  |
-| PR                                |                                                            |                                                            |                                                            |                  |
-| CHOP                              | NR                                                         | NR NR                                                      | 0.0482                                                     | 55%              |
-| R-CHOP                            | NR                                                         |                                                            |                                                            | 56%              |
-
-NR: not reached;  a : only applicable to patients achieving a CR
+| Subgroup analysis PFS             |                                                            |                                                            |                                                            |                  |
+| CHOP                              | 11.6                                                       | 37.5                                                       | < 0.0001                                                   | 71%              |
+| R-CHOP                            | 22.1                                                       | 51.9                                                       | 0.0071                                                     | 46%              |
 
 <div style=\"page-break-after: always\"></div>
+
+| Efficacy Parameter   | Kaplan - Meier Estimate of Median Time to Event (Months)   | Kaplan - Meier Estimate of Median Time to Event (Months)   | Kaplan - Meier Estimate of Median Time to Event (Months)   | Risk Reduction   |
+|----------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------|
+|                      | Observation (N = 167)                                      | MabThera (N=167)                                           | Log-Rank p value                                           |                  |
+| CR PR                | 14.3 14.3                                                  | 52.8 37.8                                                  | 0.0008 < 0.0001                                            | 64%              |
+| OS                   |                                                            |                                                            |                                                            | 54%              |
+| CHOP                 | NR                                                         | NR                                                         | 0.0348                                                     | 55%              |
+| R-CHOP               | NR                                                         | NR                                                         | 0.0482                                                     | 56%              |
+
+NR: not reached;  a : only applicable to patients achieving a CR
 
 The benefit of MabThera maintenance treatment was confirmed in all subgroups analysed, regardless of induction regimen (CHOP or R-CHOP) or quality of response to induction treatment (CR or PR) (Table 11). MabThera maintenance treatment significantly prolonged median PFS in patients responding to CHOP induction therapy (median PFS 37.5 months vs. 11.6 months, p&lt; 0.0001) as well as in those responding to R-CHOP induction (median PFS 51.9 months vs. 22.1 months, p=0.0071). Although subgroups were small, MabThera maintenance treatment provided a significant benefit in terms of overall survival for both patients responding to CHOP and patients responding to R-CHOP, although longer follow-up is required to confirm this observation.
 
@@ -1158,29 +1119,27 @@ The analysis of all secondary parameters (response rates, progression-free survi
 
 Of 67 patients evaluated for human anti-mouse antibody (HAMA), no responses were noted. Of 356 patients evaluated for anti-drug antibody (ADA), 1.1% (4 patients) were positive.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Chronic lymphocytic leukaemia
 
 In two open-label randomised trials, a total of 817 previously untreated patients and 552 patients with relapsed/refractory CLL were randomised to receive either FC chemotherapy (fludarabine 25 mg/m 2 , cyclophosphamide 250 mg/m 2 , days 1-3) every 4 weeks for 6 cycles or MabThera in combination with FC (R-FC). MabThera was administered at a dosage of 375 mg/m 2 during the first cycle one day prior to chemotherapy and at a dosage of 500 mg/m 2 on Day 1 of each subsequent treatment cycle. Patients were excluded from the study in relapsed/refractory CLL if they had previously been treated with monoclonal antibodies or if they were refractory (defined as failure to achieve a partial remission for at least 6 months) to fludarabine or any nucleoside analogue. A total of 810 patients (403 R-FC, 407 FC) for the first-line study (Table 12a and Table 12b) and 552 patients (276 R-FC, 276 FC) for the relapsed/refractory study (Table 13) were analysed for efficacy.
 
-In the first-line study, after a median observation time of 48.1 months, the median PFS was 55 months in the R-FC group and 33 months in the FC group (p &lt; 0.0001, log-rank test). The analysis of overall
-
-<div style=\"page-break-after: always\"></div>
-
-survival showed a significant benefit of R-FC treatment over FC chemotherapy alone (p = 0.0319, log-rank test) (Table 12a). The benefit in terms of PFS was consistently observed in most patient subgroups analysed according to disease risk at baseline (i.e. Binet stages A-C) (Table 12b).
+In the first-line study, after a median observation time of 48.1 months, the median PFS was 55 months in the R-FC group and 33 months in the FC group (p &lt; 0.0001, log-rank test). The analysis of overall survival showed a significant benefit of R-FC treatment over FC chemotherapy alone (p = 0.0319, log-rank test) (Table 12a). The benefit in terms of PFS was consistently observed in most patient subgroups analysed according to disease risk at baseline (i.e. Binet stages A-C) (Table 12b).
 
 Table 12a First-line treatment of chronic lymphocytic leukaemia Overview of efficacy results for MabThera plus FC vs. FC alone - 48.1 months median observation time
 
-| Efficacy Parameter                | Kaplan-Meier Estimate of Median Time to Event (Months)   | Kaplan-Meier Estimate of Median Time to Event (Months)   | Kaplan-Meier Estimate of Median Time to Event (Months)   | Risk Reduction   |
-|-----------------------------------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|------------------|
-|                                   | FC (N = 409)                                             | R-FC (N=408)                                             | Log-Rank p value                                         |                  |
-| Progression - free survival (PFS) | 32.8                                                     | 55.3                                                     | < 0.0001                                                 | 45%              |
-| Overall survival                  | NR                                                       | NR                                                       | 0.0319                                                   | 27%              |
-| Event free survival               | 31.3                                                     | 51.8                                                     | < 0.0001                                                 | 44%              |
-| Response rate (CR, nPR, or PR)    | 72.6%                                                    | 85.8%                                                    | < 0.0001                                                 | n.a.             |
-| CR rates                          | 16.9%                                                    | 36.0%                                                    | < 0.0001                                                 | n.a.             |
-| Duration of response*             | 36.2                                                     | 57.3                                                     | < 0.0001                                                 | 44%              |
-| Disease free survival (DFS)**     | 48.9                                                     | 60.3                                                     | 0.0520                                                   | 31%              |
-| Time to new treatment             | 47.2                                                     | 69.7                                                     | < 0.0001                                                 | 42%              |
+| Efficacy Parameter                      | Kaplan-Meier Estimate of Median Time to Event (Months)   | Kaplan-Meier Estimate of Median Time to Event (Months)   | Kaplan-Meier Estimate of Median Time to Event (Months)   | Risk Reduction   |
+|-----------------------------------------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|------------------|
+|                                         | FC (N = 409)                                             | R-FC (N=408)                                             | Log-Rank p value                                         |                  |
+| Progression - free survival (PFS)       | 32.8                                                     | 55.3                                                     | < 0.0001                                                 | 45%              |
+| Overall survival                        | NR                                                       | NR                                                       | 0.0319                                                   | 27%              |
+| Event free survival                     | 31.3                                                     | 51.8                                                     | < 0.0001                                                 | 44%              |
+| Response rate (CR, nPR, or PR) CR rates | 72.6% 16.9%                                              | 85.8% 36.0%                                              | < 0.0001 < 0.0001                                        | n.a. n.a.        |
+|                                         | 36.2                                                     | 57.3                                                     |                                                          |                  |
+| Duration of response*                   |                                                          |                                                          | < 0.0001                                                 | 44%              |
+| Disease free survival (DFS)**           | 48.9                                                     | 60.3                                                     | 0.0520                                                   | 31%              |
+| Time to new treatment                   | 47.2                                                     | 69.7                                                     | < 0.0001                                                 | 42%              |
 
 Response rate and CR rates analysed using Chi-squared Test. NR: not reached; n.a.: not applicable
 
@@ -1188,7 +1147,7 @@ Response rate and CR rates analysed using Chi-squared Test. NR: not reached; n.a
 
 **: only applicable to patients achieving a CR
 
-Table 12b First-line treatment of chronic lymphocytic leukaemia Hazard ratios of progression-free survival according to Binet stage (ITT) 48.1   months median observation time
+Table 12b   First-line treatment of chronic lymphocytic leukaemia Hazard ratios of progression-free survival according to Binet stage (ITT) 48.1   months median observation time
 
 | Progression - free survival (PFS)   | Number of patients   | Number of patients   | Hazard Ratio (95% CI)   | p-value (Wald test, not adjusted)   |
 |-------------------------------------|----------------------|----------------------|-------------------------|-------------------------------------|
@@ -1229,13 +1188,11 @@ Results from other supportive studies using MabThera in combination with other c
 
 A multicentre, open-label, randomised study of Lymphome Malin B (LMB) chemotherapy (corticosteroids, vincristine, cyclophosphamide, high-dose methotrexate, cytarabine, doxorubicin, etoposide and triple drug [methotrexate/cytarabine/ corticosteroid] intrathecal therapy) alone or in combination with MabThera was conducted in paediatric patients with previously untreated advanced stage CD20 positive DLBCL/BL/BAL/BLL. Advanced stage is defined as Stage III with elevated LDH level ('B-high'), [LDH &gt; twice the institutional upper limit of the adult normal values (&gt; Nx2)] or any stage IV or BAL. Patients were randomised to receive either LMB chemotherapy or six IV infusions of MabThera at a dose of 375 mg/m 2  BSA in combination with LMB chemotherapy (two during each of the two induction courses and one during each of the two consolidation courses) as per   the LMB scheme. A total of 328 randomised patients were included in the efficacy analyses, of which   one patient under 3 years of age received MabThera in combination with LMB chemotherapy.
 
-The two treatment arms, LMB (LMB chemotherapy) and R-LMB (LMB chemotherapy with MabThera), were well balanced with regards to baseline characteristics.  Patients had a median age of 7 and 8 years in the LMB arm and R-LMB arm, respectively. Approximately half of patients were in Group B (50.6% in the LMB arm and 49.4% in the R-LMB arm), 39.6% in Group C1 in both arms, and 9.8% and 11.0% were in Group C3 in the LMB and R-LMB arms, respectively. Based on Murphy staging, most patients were either BL stage III (45.7% in the LMB arm and 43.3% in the R-LMB arm) or BAL, CNS negative (21.3% in the LMB arm and 24.4% in the R-LMB arm). Less than half of the patients (45.1% in both arms) had bone marrow involvement, and most patients (72.6% in the LMB arm and 73.2% in the R-LMB arm) had no CNS involvement. The primary efficacy endpoint was EFS, where an event was defined as occurrence of progressive disease, relapse, second malignancy, death from any cause, or
+The two treatment arms, LMB (LMB chemotherapy) and R-LMB (LMB chemotherapy with MabThera), were well balanced with regards to baseline characteristics.  Patients had a median age of 7 and 8 years in the LMB arm and R-LMB arm, respectively. Approximately half of patients were in Group B (50.6% in the LMB arm and 49.4% in the R-LMB arm), 39.6% in Group C1 in both arms, and 9.8% and 11.0% were in Group C3 in the LMB and R-LMB arms, respectively. Based on Murphy staging, most patients were either BL stage III (45.7% in the LMB arm and 43.3% in the R-LMB arm) or BAL, CNS negative (21.3% in the LMB arm and 24.4% in the R-LMB arm). Less than half of the patients (45.1% in both arms) had bone marrow involvement, and most patients (72.6% in the LMB arm and 73.2% in the R-LMB arm) had no CNS involvement. The primary efficacy endpoint was EFS, where an event was
 
-NR: not reached n.a. not applicable
+NR: not reached n.a. not applicable defined as occurrence of progressive disease, relapse, second malignancy, death from any cause, or non-response as evidenced by detection of viable cells in residue after the second CYVE course, whichever occurs first. The secondary efficacy endpoints were OS and CR (complete remission).
 
 <div style=\"page-break-after: always\"></div>
-
-non-response as evidenced by detection of viable cells in residue after the second CYVE course, whichever occurs first. The secondary efficacy endpoints were OS and CR (complete remission).
 
 At the pre-specified interim analysis with approximately 1 year of median follow-up, clinically relevant improvement in the primary endpoint of EFS was observed, with 1-year rate estimates of 94.2% (95% CI, 88.5% - 97.2%) in the R-LMB arm vs. 81.5% (95% CI, 73.0% - 87.8%) in the LMB arm, and adjusted Cox HR 0.33 (95% CI, 0.14 - 0.79). Upon IDMC (independent data monitoring committee) recommendation based on this result, the randomisation was halted and patients in the  LMB arm were allowed to cross over to receive MabThera.
 
@@ -1253,7 +1210,7 @@ Table 14: Overview of Primary Efficacy Results (ITT population)
 | OS               | One-sided log-rank test p-value 0.0061          | One-sided log-rank test p-value 0.0061          |
 | OS               | Adjusted Cox model HR 0.36 (95% CI: 0.16; 0.81) | Adjusted Cox model HR 0.36 (95% CI: 0.16; 0.81) |
 | 3-year OS rates  | 87.3% (95% CI: 81.2%, 91.6%)                    | 95.1% (95% CI: 90.5%, 97.5%)                    |
-| CRrate           | 93.6% (95% CI: 88.2%; 97.0%)                    | 94.0% (95% CI: 88.8%, 97.2%)                    |
+| CR rate          | 93.6% (95% CI: 88.2%; 97.0%)                    | 94.0% (95% CI: 88.8%, 97.2%)                    |
 
 The primary efficacy analysis showed an EFS benefit of MabThera addition to LMB chemotherapy over LMB chemotherapy alone, with an EFS HR 0.32 (90% CI 0.17 - 0.58) from a Cox regression analysis adjusting for national group, histology, and therapeutic group. While no major differences in numbers of patients achieving CR was observed between the two treatment groups, the benefit of MabThera addition to LMB chemotherapy was also shown in the secondary endpoint of OS, with the OS HR of 0.36 (95% CI, 0.16 - 0.81).
 
@@ -1263,11 +1220,9 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 The efficacy and safety of MabThera in alleviating the symptoms and signs of rheumatoid arthritis in patients with an inadequate response to TNF-inhibitors was demonstrated in a pivotal randomised, controlled, double-blind, multicentre trial (Trial 1).
 
-Trial 1 evaluated 517 patients that had experienced an inadequate response or intolerance to one or more TNF inhibitor therapies. Eligible patients had active rheumatoid arthritis, diagnosed according to the criteria of the American College of Rheumatology (ACR). MabThera was administered as two IV infusions separated by an interval of 15 days. Patients received 2 x 1000 mg intravenous infusions of
-
 <div style=\"page-break-after: always\"></div>
 
-MabThera or placebo in combination with MTX. All patients received concomitant 60 mg oral prednisone on days 2-7 and 30 mg on days 8-14 following the first infusion. The primary endpoint was the proportion of patients who achieved an ACR20 response at Week 24. Patients were followed beyond Week 24 for long term endpoints, including radiographic assessment at 56 weeks and at 104 weeks. During this time, 81% of patients, from the original placebo group received MabThera between weeks 24 and 56, under an open label extension study protocol.
+Trial 1 evaluated 517 patients that had experienced an inadequate response or intolerance to one or more TNF inhibitor therapies. Eligible patients had active rheumatoid arthritis, diagnosed according to the criteria of the American College of Rheumatology (ACR). MabThera was administered as two IV infusions separated by an interval of 15 days. Patients received 2 x 1000 mg intravenous infusions of MabThera or placebo in combination with MTX. All patients received concomitant 60 mg oral prednisone on days 2-7 and 30 mg on days 8-14 following the first infusion. The primary endpoint was  the proportion of patients who achieved an ACR20 response at Week 24. Patients were followed beyond Week 24 for long term endpoints, including radiographic assessment at 56 weeks and at 104 weeks. During this time, 81% of patients, from the original placebo group received MabThera between weeks 24 and 56, under an open label extension study protocol.
 
 Trials of MabThera in patients with early arthritis (patients without prior methotrexate treatment and patients with an inadequate response to methotrexate, but not yet treated with TNF-alpha inhibitors) have met their primary endpoints. MabThera is not indicated for these patients, since the safety data about long-term MabThera treatment are insufficient, in particular concerning the risk of development of malignancies and PML.
 
@@ -1279,14 +1234,14 @@ Clinically and statistically significant improvement was also noted on all indiv
 
 Table 15 Clinical response outcomes at primary endpoint in Trial 1 (ITT population)
 
-|         | Outcome†                       | Placebo+MTX             | MabThera+MTX (2 x 1000 mg)              |
-|---------|--------------------------------|-------------------------|-----------------------------------------|
-| Trial 1 |                                | N= 201                  | N= 298                                  |
-|         | ACR20 ACR50 ACR70              | 36 (18%) 11 (5%) 3 (1%) | 153 (51%) *** 80 (27%) *** 37 (12%) *** |
-|         | EULAR Response (Good/Moderate) | 44 (22%)                | 193 (65%) ***                           |
-|         | Mean change in DAS             | - 0.34                  | - 1.83 ***                              |
-
-† Outcome at 24 weeks
+|         | Outcome†           | Placebo+MTX             | MabThera+MTX (2 x 1000 mg)              |
+|---------|--------------------|-------------------------|-----------------------------------------|
+| Trial 1 |                    | N= 201                  | N= 298                                  |
+|         | ACR20 ACR50 ACR70  | 36 (18%) 11 (5%) 3 (1%) | 153 (51%) *** 80 (27%) *** 37 (12%) *** |
+|         | EULAR Response     | 44 (22%)                |                                         |
+|         |                    |                         | 193 (65%) ***                           |
+|         | (Good/Moderate)    |                         |                                         |
+|         | Mean change in DAS | - 0.34                  | - 1.83 ***                              |
 
 Significant difference from placebo + MTX at the primary timepoint: ***p ≤ 0.0001
 
@@ -1312,10 +1267,6 @@ Table 16 Radiographic outcomes at 1 year (mITT population)
 | Proportion of patients with no radiographic change | 46%           | 53%, NS                    |
 | Proportion of patients with no erosive change      | 52%           | 60%, NS                    |
 
-150 patients originally randomised to placebo + MTX in Trial 1 received at least one course of RTX + MTX by one year
-
-* p &lt; 0.05, ** p &lt; 0.001. Abbreviation: NS, non significant
-
 Inhibition of the rate of progressive joint damage was also observed long term. Radiographic analysis at 2 years in Trial 1 demonstrated significantly reduced progression of structural joint damage in patients receiving MabThera in combination with methotrexate compared to methotrexate alone as well as a significantly higher proportion of patients with no progression of joint damage over the 2-year period.
 
 ## Physical function and quality of life outcomes
@@ -1326,22 +1277,28 @@ Significant improvement in health-related quality of life was also demonstrated 
 
 Table 17 Physical function and quality of life outcomes at Week 24 in Trial 1
 
-| Outcome†                                                                                 | Placebo+MTX         | MabThera+MTX (2 x 1000 mg)    |
-|------------------------------------------------------------------------------------------|---------------------|-------------------------------|
-| Mean change inHAQ - DI %HAQ - DI MCID Mean change in FACIT - T                           | 0.1 20% - 0.5 n=197 | - 0.4 *** 51% - 9.1 *** n=294 |
-| Mean Change in SF - 36 PHS %SF - 36 PHS MCID Mean change in SF - 36 MHS %SF - 36 MHSMCID | 0.9 13% 1.3 20%     | 5.8 *** 48% *** 4.7 ** 38% *  |
+| Outcome†                                                                                    | Placebo+MTX         | MabThera+MTX (2 x 1000 mg)    |
+|---------------------------------------------------------------------------------------------|---------------------|-------------------------------|
+| Mean change in HAQ - DI % HAQ - DI MCID Mean change in FACIT - T                            | 0.1 20% - 0.5 n=197 | - 0.4 *** 51% - 9.1 *** n=294 |
+| Mean Change in SF - 36 PHS % SF - 36 PHS MCID Mean change in SF - 36 MHS % SF - 36 MHS MCID | 0.9 13% 1.3 20%     | 5.8 *** 48% *** 4.7 ** 38% *  |
 
-† Outcome at 24 weeks
+Significant difference from placebo at the primary time point: * p &lt; 0.05, **p &lt; 0.001 ***p
 
-Significant difference from placebo at the primary time point: * p &lt; 0.05, **p &lt; 0.001 ***p ≤ MCID HAQDI ≥ 0.22, MCID SF-36 PHS &gt; 5.42, MCID SF-36 MHS &gt; 6.33
+MCID HAQ-
 
-## Efficacy in autoantibody (RF and or anti-CCP) seropositive patients
+DI ≥
 
-Patients seropositive to Rheumatoid Factor (RF) and/or anti-Cyclic Citrullinated Peptide (anti-CCP) who were treated with MabThera in combination with methotrexate showed an enhanced response compared to patients negative to both.
+0.22, MCID SF-36 PHS &gt; 5.42, MCID SF-36 MHS &gt; 6.33
+
+≤
 
 0.0001
 
 <div style=\"page-break-after: always\"></div>
+
+Efficacy in autoantibody (RF and or anti-CCP) seropositive patients
+
+Patients seropositive to Rheumatoid Factor (RF) and/or anti-Cyclic Citrullinated Peptide (anti-CCP) who were treated with MabThera in combination with methotrexate showed an enhanced response compared to patients negative to both.
 
 Efficacy outcomes in MabThera treated patients were analysed based on autoantibody status prior to commencing treatment. At Week 24, patients who were seropositive to RF and/or anti-CCP at baseline had a significantly increased probability of achieving ACR20 and 50 responses compared to seronegative patients (p=0.0312 and p=0.0096) (Table 18). These findings were replicated at Week 48, where autoantibody seropositivity also significantly increased the probability of achieving ACR70. At Week 48 seropositive patients were 2-3 times more likely to achieve ACR responses compared to seronegative patients. Seropositive patients also had a significantly greater decrease in DAS28-ESR compared to seronegative patients (Figure 1).
 
@@ -1362,17 +1319,17 @@ Figure 1: Change from baseline of DAS28-ESR by baseline autoantibody status
 
 <!-- image -->
 
-—Anti-CCP +ve and/or RF +ve (N=562)
+Anti-CCP +ve and/or RF +ve (N=562) 4 4
+
+中中1中 Anti-CCP -ve and RF -ve (N=116)
 
 Long-term efficacy with multiple course therapy
 
 Treatment with MabThera in combination with methotrexate over multiple courses resulted in sustained improvements in the clinical signs and symptoms of RA, as indicated by ACR, DAS28- ESR and EULAR responses which was evident in all patient populations studied (Figure 2). Sustained improvement in physical function as indicated by the HAQ-DI score and the proportion of patients achieving MCID for HAQ-DI were observed.
 
-→- Anti-CCP-ve and RF -ve (N=116)
-
 <div style=\"page-break-after: always\"></div>
 
-Figure 2: ACR responses for 4 treatment courses (24 weeks after each course (within patient, within visit) in patients with an inadequate response to TNF-inhibitors (n=146)
+Figure 2: ACR responses for 4 treatment courses (24 weeks after each course (within patient,  within visit) in patients with an inadequate response to TNF-inhibitors (n=146)
 
 <!-- image -->
 
@@ -1384,11 +1341,11 @@ A total of 392/3 095 (12.7%) patients with rheumatoid arthritis tested positive 
 
 The European Medicines Agency has waived the obligation to submit the results of studies with MabThera in all subsets of the paediatric population with autoimmune arthritis. See Section 4.2 for information on paediatric use.
 
-Clinical efficacy and safety in granulomatosis with polyangiitis (GPA) and microscopic polyangiitis (MPA)
+## Clinical efficacy and safety in granulomatosis with polyangiitis (GPA) and microscopic polyangiitis (MPA)
 
 ## Adult induction of remission treatment
 
-In GPA/MPA Study 1, a total of 197 patients aged 15 years or older with severe active GPA (75%) and MPA (24%) were enrolled and treated in an active-comparator, randomised, double-blind, multicentre, non-inferiority trial.
+In GPA/MPA Study 1, a total of 197 patients aged 15 years or older with severe active GPA (75%)  and MPA (24%) were enrolled and treated in an active-comparator, randomised, double-blind, multicentre, non-inferiority trial.
 
 Patients were randomised in a 1:1 ratio to receive either oral cyclophosphamide daily (2 mg/kg/day) for 3-6 months or MabThera (375 mg/m 2 ) once weekly for 4 weeks. All patients in the cyclophosphamide arm received azathioprine maintenance therapy in during follow-up. Patients in both arms received 1000 mg of pulse intravenous (IV) methylprednisolone (or another equivalent-dose glucocorticoid) per day for 1 to 3 days, followed by oral prednisone (1 mg/kg/day, not exceeding 80 mg/day).  Prednisone tapering was to be completed by 6 months from the start of trial treatment.
 
@@ -1404,20 +1361,12 @@ Table 19 Percentage of adult patients who achieved complete remission at 6 month
 |------|---------------------|-----------------------------|-----------------------------------------------------|
 | Rate | 63.6%               | 53.1%                       | 10.6% 95.1% b CI ( - 3.2%, 24.3%) a                 |
 
--CI = confidence interval.
-
--* Worst case imputation
-
-a  Non-inferiority was demonstrated since the lower bound ( -3.2%) was higher than the pre-determined   noninferiority margin ( -20%).
-
-b The 95.1% confidence level reflects an additional 0.001 alpha to account for an interim efficacy analysis.
-
-Table 20 Complete remission at 6-months by disease status
+## Table 20 Complete remission at 6-months by disease status
 
 |                    | MabThera           | Cyclophosphamide   | Difference (CI 95%)   |
 |--------------------|--------------------|--------------------|-----------------------|
-| All patients       | n=99               | n=98 n=48          |                       |
-| Newly diagnosed    | n=48               |                    |                       |
+| All patients       | n=99 n=48          | n=98 n=48          |                       |
+| Newly diagnosed    |                    |                    |                       |
 | Relapsing          | n=51               | n=50               |                       |
 | Complete remission | Complete remission | Complete remission | Complete remission    |
 | All Patients       | 63.6%              | 53.1%              | 10.6% ( - 3.2, 24.3)  |
@@ -1438,11 +1387,11 @@ A total of 23/99 (23%) MabThera-treated patients from the induction of remission
 
 A total of 117 patients (88 with GPA, 24 with MPA, and 5 with renal-limited ANCA-associated vasculitis) in disease remission were randomised to receive azathioprine (59 patients) or MabThera (58 patients) in a prospective, multi-centre, controlled, open-label study. Included patients were 21 to 75 years of age and had newly diagnosed or relapsing disease in complete remission after combined treatment with glucocorticoids and pulse cyclophosphamide. The majority of patients were ANCA-positive at diagnosis or during the course of their disease; had histologically confirmed necrotizing small-vessel vasculitis with a clinical phenotype of GPA or MPA, or renal limited ANCA-associated vasculitis; or both.
 
-Remission-induction therapy included IV prednisone, administered as per the investigator's discretion, preceded in some patients by methylprednisolone pulses, and pulse cyclophosphamide until remission was attained after 4 to 6 months. At that time, and within a maximum of 1 month after the last cyclophosphamide pulse, patients were randomly assigned to receive either MabThera (two 500 mg IV infusions separated by two weeks (on Day 1 and Day 15) followed by 500 mg IV every 6 months for 18 months) or azathioprine (administered orally at a dose of 2 mg/kg/day for 12 months, then 1.5 mg/kg/day
+Remission-induction therapy included IV prednisone, administered as per the investigator's discretion, preceded in some patients by methylprednisolone pulses, and pulse cyclophosphamide until remission was attained after 4 to 6 months. At that time, and within a maximum of 1 month after the last cyclophosphamide pulse, patients were randomly assigned to receive either MabThera (two 500 mg IV
 
 <div style=\"page-break-after: always\"></div>
 
-for 6 months, and finally 1 mg/kg/day for 4 months (treatment discontinuation after these 22 months)). Prednisone treatment was tapered and then kept at a low dose (approximately 5 mg per day) for at least 18 months after randomisation. Prednisone dose tapering and the decision to stop prednisone treatment after Month 18 were left at the investigator's discretion.
+infusions separated by two weeks (on Day 1 and Day 15) followed by 500 mg IV every 6 months for 18 months) or azathioprine (administered orally at a dose of 2 mg/kg/day for 12 months, then 1.5 mg/kg/day for 6 months, and finally 1 mg/kg/day for 4 months (treatment discontinuation after these 22 months)). Prednisone treatment was tapered and then kept at a low dose (approximately 5 mg per day) for at least 18 months after randomisation. Prednisone dose tapering and the decision to stop prednisone treatment after Month 18 were left at the investigator's discretion.
 
 All patients were followed until Month 28 (10 or 6 months, respectively, after the last MabThera infusion or azathioprine dose). Pneumocystis jirovecii pneumonia prophylaxis was required for all patients with CD4+ T-lymphocyte counts less than 250 per cubic millimetre.
 
@@ -1474,13 +1423,11 @@ Note: Patients were censored at Month 28 if they had no event.
 
 A total of 6/34 (18%) of MabThera treated patients from the maintenance therapy clinical trial developed ADA. There was no apparent trend or negative impact of the presence of ADA on safety or efficacy in the maintenance therapy clinical trial.
 
-## Paediatric population
-
-Study WA25615 (PePRS) was a multicentre, open-label, single-arm, uncontrolled study in 25 paediatric patients (≥ 2 to &lt; 18 years old) with severe, active GPA or MPA. The median age of patients in the study
-
 <div style=\"page-break-after: always\"></div>
 
-was: 14 years (range: 6-17 years) and the majority of patients (20/25 [80%]) were female. A total of 19 patients (76%) had GPA and 6 patients (24%) had MPA at baseline. Eighteen patients (72%) had newly diagnosed disease upon study entry (13 patients with GPA and 5 patients with MPA) and 7 patients had relapsing disease (6 patients with GPA and 1 patient with MPA).
+## Paediatric population
+
+Study WA25615 (PePRS) was a multicentre, open-label, single-arm, uncontrolled study in 25 paediatric patients (≥ 2 to &lt; 18 years old) with severe, active GPA or MPA. The median age of patients in the study was: 14 years (range: 6-17 years) and the majority of patients (20/25 [80%]) were female. A total of 19 patients (76%) had GPA and 6 patients (24%) had MPA at baseline. Eighteen patients (72%) had newly diagnosed disease upon study entry (13 patients with GPA and 5 patients with MPA) and 7 patients had relapsing disease (6 patients with GPA and 1 patient with MPA).
 
 The study design consisted of an initial 6-month remission induction phase, with a minimum 18- month follow-up, up to a maximum of 54 months (4.5 years) overall. Patients were to receive a minimum of 3 doses of IV methylprednisolone (30 mg/kg/day, not exceeding 1 g/day) prior to the first MabThera IV infusion. If clinically indicated, additional daily doses (up to three), of IV methylprednisolone could be given. The remission induction regimen consisted of four once weekly IV infusions of MabThera at a dose of 375 mg/m 2 BSA, on study days 1, 8, 15 and 22 in combination with oral prednisolone or prednisone at 1 mg/kg/day (max 60 mg/day) tapered to 0.2 mg/kg/day minimum (max 10 mg/day) by Month 6. After the remission induction phase, patients could, at the discretion of the investigator, receive subsequent MabThera infusions on or after Month 6 to maintain PVAS remission and control disease activity (including progressive disease or flare) or to achieve first remission.
 
@@ -1511,10 +1458,6 @@ Table 21: Study WA25615 (PePRS) - PVAS Remission at Month 1, 2, 4, 6, 12 and 18
 | Month 12      | 18 (72.0%)                                                          | 50.6%, 87.9% |
 | Month 18      | 18 (72.0%)                                                          | 50.6%, 87.9% |
 
-*  PVAS of 0 and achieved glucocorticoid taper to 0.2 mg/kg/day (or 10 mg/day, whichever is lower) at the assessment time-point.
-
-α the efficacy results are exploratory and no formal statistical testing was performed for these endpoints MabThera, treatment (375 mg/m 2  x 4 infusions) up to Month 6 was identical for all patients. Follow-up treatment post Month 6 was at the discretion of the investigator.
-
 ## Laboratory evaluations
 
 A total of 4/25 patients (16%) developed ADA during the overall study period. Limited data shows there was no trend observed in the adverse reactions reported in ADA positive patients.
@@ -1529,7 +1472,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 The efficacy and safety of MabThera in combination with short-term, low-dose glucocorticoid (prednisone) therapy were evaluated in newly diagnosed patients with moderate to severe pemphigus (74 pemphigus vulgaris [PV] and 16 pemphigus foliaceus [PF]) in this randomised, open-label, controlled, multicentre study. Patients were between 19 and 79 years of age and had not received prior therapies for pemphigus. In the PV population, 5 (13%) patients in the MabThera group and 3 (8%) patients in the standard prednisone group had moderate disease and 33 (87%) patients in the MabThera group and 33 (92%) patients in the standard-dose prednisone group had severe disease according to disease severity defined by Harman's criteria.
 
-Patients were stratified by baseline disease severity (moderate or severe) and randomised 1:1 to receive either MabThera and low-dose prednisone or standard-dose prednisone. Patients randomised to the MabThera group received an initial intravenous infusion of 1000 mg MabThera on Study Day 1 in combination with 0.5 mg/kg/day oral prednisone tapered off over 3 months if they had moderate disease or 1 mg/kg/day oral prednisone tapered off over 6 months if they had severe disease, and a second intravenous infusion of 1000 mg on Study Day 15. Maintenance infusions of MabThera 500 mg were administered at months 12 and 18. Patients randomised to the standard-dose prednisone group received an initial 1 mg/kg/day oral prednisone tapered off over 12 months if they had moderate  disease or 1.5 mg/kg/day oral prednisone tapered off over 18 months if they had severe disease. Patients in the MabThera group who relapsed could receive an additional infusion of MabThera 1000 mg in combination with reintroduced or escalated prednisone dose. Maintenance and relapse infusions were administered no sooner than 16 weeks following the previous infusion.
+Patients were stratified by baseline disease severity (moderate or severe) and randomised 1:1 to receive either MabThera and low-dose prednisone or standard-dose prednisone. Patients randomised to the MabThera group received an initial intravenous infusion of 1000 mg MabThera on Study Day 1 in combination with 0.5 mg/kg/day oral prednisone tapered off over 3 months if they had moderate disease or 1 mg/kg/day oral prednisone tapered off over 6 months if they had severe disease, and a second intravenous infusion of 1000 mg on Study Day 15. Maintenance infusions of MabThera 500 mg were administered at months 12 and 18. Patients randomised to the standard-dose prednisone group received an initial 1 mg/kg/day oral prednisone tapered off over 12 months if they had moderate disease or 1.5 mg/kg/day oral prednisone tapered off over 18 months if they had severe disease. Patients in the MabThera group who relapsed could receive an additional infusion of MabThera 1000 mg in combination with reintroduced or escalated prednisone dose. Maintenance and relapse infusions were administered no sooner than 16 weeks following the previous infusion.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1541,10 +1484,10 @@ The study showed statistically significant results of MabThera and low-dose pred
 
 Table 22 Percentage of PV patients who achieved complete remission off corticosteroid therapy for two months or more at Month 24 (Intent-to-Treat Population - PV)
 
-|                                                                                                                     | Rituximab + Prednisone N=38                                                                                         | Prednisone N=36                                                                                                     | p-value a                                                                                                           | 95% CI b                                                                                                            |
-|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Number of responders (response rate [%])                                                                            | 34 (89.5%)                                                                                                          | 10 (27.8%)                                                                                                          | < 0.0001                                                                                                            | 61.7% (38.4, 76.5)                                                                                                  |
-| a p-value is from Fisher's exact test with mid-p correction b 95%confidence interval is corrected Newcombe interval | a p-value is from Fisher's exact test with mid-p correction b 95%confidence interval is corrected Newcombe interval | a p-value is from Fisher's exact test with mid-p correction b 95%confidence interval is corrected Newcombe interval | a p-value is from Fisher's exact test with mid-p correction b 95%confidence interval is corrected Newcombe interval | a p-value is from Fisher's exact test with mid-p correction b 95%confidence interval is corrected Newcombe interval |
+|                                                                                                                      | Rituximab + Prednisone N=38                                                                                          | Prednisone N=36                                                                                                      | p-value a   | 95% CI b           |
+|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|-------------|--------------------|
+| Number of responders (response rate [%])                                                                             | 34 (89.5%)                                                                                                           | 10 (27.8%)                                                                                                           | < 0.0001    | 61.7% (38.4, 76.5) |
+| a p-value is from Fisher's exact test with mid-p correction b 95% confidence interval is corrected Newcombe interval | a p-value is from Fisher's exact test with mid-p correction b 95% confidence interval is corrected Newcombe interval | a p-value is from Fisher's exact test with mid-p correction b 95% confidence interval is corrected Newcombe interval |             |                    |
 
 The number of rituximab plus low-dose prednisone patients off prednisone therapy or on minimal therapy (prednisone dose of 10 mg or less per day) compared to standard-dose prednisone patients over the 24-month treatment period shows a steroid-sparing effect of MabThera (Figure 4).
 
@@ -1572,10 +1515,12 @@ The study demonstrated the superiority of MabThera over MMF in combination with 
 
 Table 23 Percentage of PV Patients Who Achieved Sustained Complete Remission Off Corticosteroid Therapy for 16 Weeks or More at Week 52 (Modified Intent-to-Treat Population)
 
-|                                                                                                                                                                                                                                                                                                        | MabThera (N=62)                                                                                                                                                                                                                                                                                        | MMF (N=63)                                                                                                                                                                                                                                                                                             | Difference (95% CI)                                                                                                                                                                                                                                                                                    | p-value                                                                                                                                                                                                                                                                                                |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Number of responders (response rate [%]) Newly diagnosed Patients with established                                                                                                                                                                                                                     | 25 (40.3%) 19 (39.6%) 6 (42.9%)                                                                                                                                                                                                                                                                        | 6 (9.5%) 4 (9.1%) 2 (10.5%)                                                                                                                                                                                                                                                                            | 30.80% (14.70%, 45.15%)                                                                                                                                                                                                                                                                                | < 0.0001                                                                                                                                                                                                                                                                                               |
-| MMF=Mycophenolate mofetil. CI = Confidence Interval. Newly diagnosed patients = duration of illness < 6 months or no prior treatment for PV. Patients with established disease = duration of illness ≥ 6 months and received prior treatment for PV. Cochran-Mantel-Haenszel test is used for p-value. | MMF=Mycophenolate mofetil. CI = Confidence Interval. Newly diagnosed patients = duration of illness < 6 months or no prior treatment for PV. Patients with established disease = duration of illness ≥ 6 months and received prior treatment for PV. Cochran-Mantel-Haenszel test is used for p-value. | MMF=Mycophenolate mofetil. CI = Confidence Interval. Newly diagnosed patients = duration of illness < 6 months or no prior treatment for PV. Patients with established disease = duration of illness ≥ 6 months and received prior treatment for PV. Cochran-Mantel-Haenszel test is used for p-value. | MMF=Mycophenolate mofetil. CI = Confidence Interval. Newly diagnosed patients = duration of illness < 6 months or no prior treatment for PV. Patients with established disease = duration of illness ≥ 6 months and received prior treatment for PV. Cochran-Mantel-Haenszel test is used for p-value. | MMF=Mycophenolate mofetil. CI = Confidence Interval. Newly diagnosed patients = duration of illness < 6 months or no prior treatment for PV. Patients with established disease = duration of illness ≥ 6 months and received prior treatment for PV. Cochran-Mantel-Haenszel test is used for p-value. |
+|                                                                                                                                                                                                                                                        | MabThera (N=62)                                                                                                                                                                                                                                        | MMF (N=63)                                                                                                                                                                                                                                             | Difference (95% CI)                                                                                                                                                                                                                                    | p-value                                                                                                                                                                                                                                                |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Number of responders (response rate [%])                                                                                                                                                                                                               | 25 (40.3%)                                                                                                                                                                                                                                             | 6 (9.5%) 4 (9.1%)                                                                                                                                                                                                                                      | 30.80% (14.70%, 45.15%)                                                                                                                                                                                                                                | < 0.0001                                                                                                                                                                                                                                               |
+| Newly diagnosed patients                                                                                                                                                                                                                               | 19 (39.6%)                                                                                                                                                                                                                                             | 2                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                        |
+| Patients with established disease                                                                                                                                                                                                                      | 6 (42.9%)                                                                                                                                                                                                                                              | (10.5%)                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                        |
+| MMF = Mycophenolate mofetil. CI = Confidence Interval. Newly diagnosed patients = duration of illness < 6 months or no prior treatment for PV. Patients with established disease = duration of illness ≥ 6 months and received prior treatment for PV. | MMF = Mycophenolate mofetil. CI = Confidence Interval. Newly diagnosed patients = duration of illness < 6 months or no prior treatment for PV. Patients with established disease = duration of illness ≥ 6 months and received prior treatment for PV. | MMF = Mycophenolate mofetil. CI = Confidence Interval. Newly diagnosed patients = duration of illness < 6 months or no prior treatment for PV. Patients with established disease = duration of illness ≥ 6 months and received prior treatment for PV. | MMF = Mycophenolate mofetil. CI = Confidence Interval. Newly diagnosed patients = duration of illness < 6 months or no prior treatment for PV. Patients with established disease = duration of illness ≥ 6 months and received prior treatment for PV. | MMF = Mycophenolate mofetil. CI = Confidence Interval. Newly diagnosed patients = duration of illness < 6 months or no prior treatment for PV. Patients with established disease = duration of illness ≥ 6 months and received prior treatment for PV. |
 
 The analysis of all secondary parameters (including cumulative oral corticosteroid dose, the total number of disease flares, and change in health-related quality of life, as measured by the Dermatology Life Quality Index) verified the statistically significant results of MabThera compared to MMF. Testing of secondary endpoints were controlled for multiplicity.
 
@@ -1634,7 +1579,7 @@ MabThera was administered as an intravenous infusion at a first-cycle dose of 37
 
 Following two intravenous infusions of MabThera at a dose of 1000 mg, two weeks apart, the mean terminal half-life was 20.8 days (range, 8.58 to 35.9 days), mean systemic clearance was 0.23 L/day (range, 0.091 to 0.67 L/day), and mean steady-state distribution volume was 4.6 L(range, 1.7 to 7.51 L). Population pharmacokinetic analysis of the same data gave similar mean values for systemic clearance and half-life, 0.26 L/day and 20.4 days, respectively. Population pharmacokinetic analysis revealed that BSA and gender were the most significant covariates to explain inter-individual variability in pharmacokinetic parameters. After adjusting for BSA, male subjects had a larger volume of distribution and a faster clearance than female subjects. The gender-related pharmacokinetic differences are not considered to be clinically relevant and dose adjustment is not required. No pharmacokinetic data are available in patients with hepatic or renal impairment.
 
-The pharmacokinetics of rituximab were assessed following two intravenous (IV) doses of 500 mg and 1000 mg on Days 1 and 15 in four studies. In all these studies, rituximab pharmacokinetics were dose proportional over the limited dose range studied. Mean Cmax for serum rituximab following first infusion ranged from 157 to 171 µ g/mL for 2 x 500 mg dose and ranged from 298 to 341 µ g/mL for 2  x 1000 mg dose. Following second infusion, mean Cmax ranged from 183 to 198 µ g/mL for the 2 × 500 mg dose and ranged from 355 to 404 µ g/mL for the 2 × 1000 mg dose. Mean terminal elimination half-life ranged from 15 to 16 days for the 2 x 500 mg dose group and 17 to 21 days for the 2 × 1000 mg dose group. Mean Cmax was 16 to 19% higher following second infusion compared to the first infusion for both doses.
+The pharmacokinetics of rituximab were assessed following two intravenous (IV) doses of 500 mg and 1000 mg on Days 1 and 15 in four studies. In all these studies, rituximab pharmacokinetics were dose proportional over the limited dose range studied. Mean Cmax for serum rituximab following first infusion ranged from 157 to 171 µ g/mL for 2 x 500 mg dose and ranged from 298 to 341 µ g/mL for 2 x 1000 mg dose. Following second infusion, mean Cmax ranged from 183 to 198 µ g/mL for the 2 × 500 mg dose and ranged from 355 to 404 µ g/mL for the 2 × 1000 mg dose. Mean terminal elimination half-life ranged from 15 to 16 days for the 2 x 500 mg dose group and 17 to 21 days for the 2 × 1000 mg dose group. Mean Cmax was 16 to 19% higher following second infusion compared to the first infusion for both doses.
 
 The pharmacokinetics of rituximab were assessed following two IV doses of 500 mg and 1000 mg upon re-treatment in the second course. Mean Cmax for serum rituximab following first infusion was 170 to 175 µ g/mL for 2 x 500 mg dose and 317 to 370 µ g/mL for 2 x 1000 mg dose. Cmax following second infusion, was 207 µ g/mL for the 2 x 500 mg dose and ranged from 377 to 386 µ g/mL for the 2  x 1000 mg dose. Mean terminal elimination half-life after the second infusion, following the second course, was 19 days for 2 x 500 mg dose and ranged from 21 to 22 days for the 2 x 1000 mg dose. PK parameters for rituximab were comparable over the two treatment courses.
 
@@ -1673,7 +1618,7 @@ Following the first two rituximab administrations (at Day 1 and 15, correspondin
 
 Rituximab has shown to be highly specific to the CD20 antigen on B-cells. Toxicity studies in cynomolgus monkeys have shown no other effect than the expected pharmacological depletion of B-cells in peripheral blood and in lymphoid tissue.
 
-Developmental toxicity studies have been performed in cynomolgus monkeys at doses up to 100 mg/kg (treatment on gestation days 20-50) and have revealed no evidence of toxicity to the foetus due to rituximab. However, dose-dependent pharmacologic depletion of B-cells in the lymphoid organs of the foetuses was observed, which persisted postnatally and was accompanied by a decrease   in IgG level in the newborn animals affected. B-cell counts returned to normal in these animals within   6 months of birth and did not compromise the reaction to immunisation.
+Developmental toxicity studies have been performed in cynomolgus monkeys at doses up to 100 mg/kg (treatment on gestation days 20-50) and have revealed no evidence of toxicity to the foetus due to rituximab. However, dose-dependent pharmacologic depletion of B-cells in the lymphoid organs of the foetuses was observed, which persisted postnatally and was accompanied by a decrease in IgG level in the newborn animals affected. B-cell counts returned to normal in these animals within 6 months of birth and did not compromise the reaction to immunisation.
 
 Standard tests to investigate mutagenicity have not been carried out, since such tests are not relevant for this molecule. No long-term animal studies have been performed to establish the carcinogenic potential of rituximab.
 
@@ -1693,23 +1638,25 @@ The medicinal product must not be mixed with other medicinal products except tho
 
 ## 6.3 Shelf life
 
-Unopened vial 3 years
+## Unopened vial
+
+3 years
 
 ## Diluted medicinal product
 
+- ●
 - After aseptic dilution in sodium chloride solution
 
 The prepared infusion solution of MabThera in 0.9% sodium chloride solution is physically and chemically stable for 30 days at 2 °C - 8 °C plus an additional 24 hours at ≤ 30 °C.
 
-## · After aseptic dilution in D-glucose solution
+- ●
+- After aseptic dilution in D-glucose solution
 
 The prepared infusion solution of MabThera in 5% D-glucose solution is physically and chemically stable for 24 hours at 2 °C - 8 °C plus an additional 12 hours at room temperature.
 
-From a microbiological point of view, the prepared infusion solution should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and
+From a microbiological point of view, the prepared infusion solution should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 °C - 8 °C, unless dilution has taken place in controlled and validated aseptic conditions.
 
 <div style=\"page-break-after: always\"></div>
-
-would normally not be longer than 24 hours at 2 °C - 8 °C, unless dilution has taken place in controlled and validated aseptic conditions.
 
 ## 6.4 Special precautions for storage
 
@@ -1719,13 +1666,13 @@ For storage conditions after dilution of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
-Clear Type I glass vials with butyl rubber stopper containing 100 mg of rituximab in 10 mL.
+## MabThera 100 mg concentrate for solution for infusion
 
-MabThera 100 mg concentrate for solution for infusion Pack of 2 vials.
+Colourless Type I borosilicate glass vial with fluororesin laminate rubber stopper, and aluminium seal with red plastic flip-off cap containing 100 mg of rituximab in 10 mL. Pack of 2 vials.
 
 ## MabThera 500 mg concentrate for solution for infusion
 
-Clear Type I glass vials with butyl rubber stopper containing 500 mg of rituximab in 50 mL. Pack of 1 vial.
+Colourless Type I borosilicate glass vial with fluororesin laminate rubber stopper, and aluminium seal with grey plastic flip-off cap containing 500 mg of rituximab in 50 mL. Pack of 1 vial.
 
 Not all pack sizes may be marketed.
 
@@ -1757,7 +1704,9 @@ Date of latest renewal: 20 May 2008
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu/en.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+
+55
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1771,7 +1720,7 @@ Each mL contains 120 mg of rituximab.
 
 Each vial contains 1400 mg/11.7 mL rituximab.
 
-Rituximab is a genetically engineered chimeric mouse/human monoclonal antibody representing a glycosylated immunoglobulin with human IgG1 constant regions and murine light-chain and heavy-chain variable region sequences. The antibody is produced by mammalian (Chinese hamster ovary) cell suspension culture and purified by affinity chromatography and ion exchange, including  specific viral inactivation and removal procedures.
+Rituximab is a genetically engineered chimeric mouse/human monoclonal antibody representing a glycosylated immunoglobulin with human IgG1 constant regions and murine light-chain and heavy-chain variable region sequences. The antibody is produced by mammalian (Chinese hamster ovary) cell suspension culture and purified by affinity chromatography and ion exchange, including specific viral inactivation and removal procedures.
 
 For the full list of excipients, see section 6.1.
 
@@ -1799,7 +1748,7 @@ MabThera should be administered under the close supervision of an experienced he
 
 Premedication consisting of an anti-pyretic and an antihistaminic, e.g. paracetamol and diphenhydramine, should always be given before each administration of MabThera.
 
-Premedication with glucocorticoids should be considered if MabThera is not given in combination with glucocorticoid-containing chemotherapy.
+Premedication with glucocorticoids should be considered if MabThera is not given in combination  with glucocorticoid-containing chemotherapy.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1827,11 +1776,11 @@ MabThera should be administered on Day 1 of each chemotherapy cycle, after admin
 
 ## Maintenance therapy
 
-## · Previously untreated follicular lymphoma
+## ● Previously untreated follicular lymphoma
 
 The recommended dose of MabThera subcutaneous formulation used as a maintenance treatment for patients with previously untreated follicular lymphoma who have responded to induction treatment is: 1400 mg once every 2 months (starting 2 months after the last dose of induction therapy) until disease progression or for a maximum period of two years (12 administrations in total).
 
-## · Relapsed/refractory follicular lymphoma
+## ● Relapsed/refractory follicular lymphoma
 
 The recommended dose of MabThera subcutaneous formulation used as a maintenance treatment for patients with relapsed/refractory follicular lymphoma who have responded to induction treatment is: 1400 mg once every 3 months (starting 3 months after the last dose of induction therapy) until disease progression or for a maximum period of two years (8 administrations in total).
 
@@ -1841,7 +1790,7 @@ MabThera should be used in combination with CHOP chemotherapy. The recommended d
 
 MabThera is administered on Day 1 of each chemotherapy cycle after intravenous infusion of the glucocorticoid component of CHOP.
 
-Safety and efficacy of MabThera have not been established in combination with other chemotherapies   in diffuse large B-cell non-Hodgkin's lymphoma.
+Safety and efficacy of MabThera have not been established in combination with other chemotherapies in diffuse large B-cell non-Hodgkin's lymphoma.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1887,7 +1836,7 @@ Patients in a severely immunocompromised state.
 
 In order to improve the traceability of biological medicinal products, the tradename and batch number of the administered product should be clearly recorded.
 
-The information provided in the section 4.4 pertains to the use of MabThera subcutaneous formulation   in the approved indications Treatment of non-Hodgkin's lymphoma (strength 1400 mg) and Treatment of chronic lymphocytic leukaemia (strength 1600 mg). For information related to the other indications, please refer to the SmPC of MabThera intravenous formulation.
+The information provided in the section 4.4 pertains to the use of MabThera subcutaneous formulation in the approved indications Treatment of non-Hodgkin's lymphoma (strength 1400 mg) and Treatment of chronic lymphocytic leukaemia (strength 1600 mg). For information related to the other indications, please refer to the SmPC of MabThera intravenous formulation.
 
 The use of MabThera subcutaneous formulation as monotherapy in patients with stage III-IV follicular lymphoma who are chemoresistant or are in their second or subsequent relapse after chemotherapy cannot be recommended as the safety of the once weekly subcutaneous administration has not been established.
 
@@ -1907,19 +1856,19 @@ If a patient develops PML, the dosing of MabThera must be permanently discontinu
 
 MabThera is associated with infusion/administration-related reactions, which may be related to release of cytokines and/or other chemical mediators. Cytokine release syndrome may be clinically indistinguishable from acute hypersensitivity reactions.
 
-This set of reactions which includes syndrome of cytokine release, tumour lysis syndrome and anaphylactic and hypersensitivity reactions are described below. They are not specifically related to the route of administration of MabThera and can be observed with both formulations.
+This set of reactions which includes syndrome of cytokine release, tumour lysis syndrome and anaphylactic and hypersensitivity reactions are described below. They are not specifically related to  the route of administration of MabThera and can be observed with both formulations.
 
-Severe infusion-related reactions with fatal outcome have been reported during post-marketing use of the MabThera intravenous formulation, with an onset ranging within 30 minutes to 2 hours after starting the first MabThera intravenous infusion. They were characterised by pulmonary events and in  some cases included rapid tumour lysis and features of tumour lysis syndrome in addition to fever, chills, rigors, hypotension, urticaria, angioedema and other symptoms (see section 4.8).
+Severe infusion-related reactions with fatal outcome have been reported during post-marketing use of the MabThera intravenous formulation, with an onset ranging within 30 minutes to 2 hours after starting the first MabThera intravenous infusion. They were characterised by pulmonary events and in some cases included rapid tumour lysis and features of tumour lysis syndrome in addition to fever, chills, rigors, hypotension, urticaria, angioedema and other symptoms (see section 4.8).
 
 Severe cytokine release syndrome is characterised by severe dyspnea, often accompanied by bronchospasm and hypoxia, in addition to fever, chills, rigors, urticaria, and angioedema. This syndrome may be associated with some features of tumour lysis syndrome such as hyperuricaemia, hyperkalaemia, hypocalcaemia, hyperphosphaetemia, acute renal failure, elevated lactate dehydrogenase (LDH) and may be associated with acute respiratory failure and death. The acute respiratory failure may be accompanied by events such as pulmonary interstitial infiltration or oedema, visible on a chest X-ray. The syndrome frequently manifests itself within one or two hours of initiating the first infusion. Patients with a history of pulmonary insufficiency or those with pulmonary tumour infiltration may be at greater risk of poor outcome and should be treated with increased caution.
 
-Patients who develop severe cytokine release syndrome should have their infusion interrupted immediately (see section 4.2) and should receive aggressive symptomatic treatment. Since initial improvement of clinical symptoms may be followed by deterioration, these patients should be closely monitored until tumour lysis syndrome and pulmonary infiltration have been resolved or ruled out. Further treatment of patients after complete resolution of signs and symptoms has rarely resulted in repeated severe cytokine release syndrome.
-
-Patients with a high tumour burden or with a high number (≥ 25 x 10 9 /L) of circulating malignant cells, who may be at higher risk of especially severe cytokine release syndrome, should be treated with
+Patients who develop severe cytokine release syndrome should have their infusion interrupted immediately (see section 4.2) and should receive aggressive symptomatic treatment. Since initial improvement of clinical symptoms may be followed by deterioration, these patients should be closely monitored until tumour lysis syndrome and pulmonary infiltration have been resolved or ruled out.
 
 <div style=\"page-break-after: always\"></div>
 
-extreme caution. These patients should be very closely monitored throughout the first infusion. Consideration should be given to the use of a reduced infusion rate for the first infusion in these patients or a split dosing over two days during the first cycle and any subsequent cycles if the lymphocyte count is still &gt; 25 x 10 9 /L.
+Further treatment of patients after complete resolution of signs and symptoms has rarely resulted in repeated severe cytokine release syndrome.
+
+Patients with a high tumour burden or with a high number (≥ 25 x 10 9 /L) of circulating malignant cells,  who may be at higher risk of especially severe cytokine release syndrome, should be treated with extreme caution. These patients should be very closely monitored throughout the first infusion. Consideration should be given to the use of a reduced infusion rate for the first infusion in these patients or a split dosing over two days during the first cycle and any subsequent cycles if the lymphocyte count is still &gt; 25 x 10 9 /L.
 
 Anaphylactic and other hypersensitivity reactions have been reported following the intravenous administration of proteins to patients. In contrast to cytokine release syndrome, true hypersensitivity reactions typically occur within minutes after starting infusion. Medicinal products for the treatment of hypersensitivity reactions, e.g., epinephrine (adrenaline), antihistamines and glucocorticoids, should be available for immediate use in the event of an allergic reaction during administration of MabThera. Clinical manifestations of anaphylaxis may appear similar to clinical manifestations of the cytokine release syndrome (described above). Reactions attributed to hypersensitivity have been reported less frequently than those attributed to cytokine release.
 
@@ -1937,11 +1886,11 @@ Before starting MabThera subcutaneous injections, all patients must always recei
 
 If patients were not able to receive one full MabThera intravenous infusion dose prior to the switch, they should continue the subsequent cycles with MabThera intravenous formulation until a full intravenous dose is successfully administered. Therefore, the switch to MabThera subcutaneous formulation can only occur at the second or subsequent cycles of treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 As with the intravenous formulation, MabThera subcutaneous formulation should be administered in an environment where full resuscitation facilities are immediately available and under the close supervision of an experienced healthcare professional. Premedication consisting of an analgesic/antipyretic and an antihistamine should always be administered before each dose of MabThera subcutaneous formulation. Premedication with glucocorticoids should also be considered.
 
 Patients should be observed for at least 15 minutes following MabThera subcutaneous administration. A longer period may be appropriate in patients with an increased risk of hypersensitivity reactions.
-
-<div style=\"page-break-after: always\"></div>
 
 Patients should be instructed to contact their treating physician immediately if symptoms that are suggestive of severe hypersensitivity or cytokine release syndrome occur at any time after medicinal product administration.
 
@@ -1951,7 +1900,7 @@ Angina pectoris, cardiac arrhythmias such as atrial flutter and fibrillation, he
 
 ## Haematological toxicities
 
-Although MabThera is not myelosuppressive in monotherapy, caution should be exercised when considering treatment of patients with neutrophils &lt; 1.5 x 10 9 /L and/or platelet counts &lt; 75 x 10 9 /L as clinical experience in this population is limited . The MabThera intravenous formulation has been used in 21 patients who underwent autologous bone marrow transplantation and other risk groups with a presumable reduced bone marrow function without inducing myelotoxicity.
+Although MabThera is not myelosuppressive in monotherapy, caution should be exercised when considering treatment of patients with neutrophils &lt; 1.5 x 10 9 /L and/or platelet counts &lt; 75 x 10 9 /L as clinical experience in this population is limited . MabThera has been used in 21 patients who underwent autologous bone marrow transplantation and other risk groups with a presumable reduced bone marrow function without inducing myelotoxicity.
 
 Regular full blood counts, including neutrophil and platelet counts, should be performed during MabThera therapy.
 
@@ -1961,29 +1910,29 @@ Serious infections, including fatalities, can occur during therapy with MabThera
 
 Physicians should exercise caution when considering the use of MabThera in patients with a history of recurring or chronic infections or with underlying conditions which may further predispose patients to serious infection (see section 4.8).
 
-Cases of hepatitis B reactivation have been reported in patients receiving the MabThera intravenous formulation including fulminant hepatitis with fatal outcome. The majority of these patients were also exposed to cytotoxic chemotherapy. Hepatitis B virus (HBV) screening should be performed in all patients before initiation of treatment with MabThera. At minimum this should include HBsAg-status and HBcAb-status. These can be complemented with other appropriate markers as per local guidelines. Patients with active hepatitis B disease should not be treated with MabThera. Patients with positive hepatitis B serology (either HBsAg or HBcAb) should consult liver disease experts before start of treatment and should be monitored and managed following local medical standards to prevent hepatitis B reactivation.
+Cases of hepatitis B reactivation have been reported in patients receiving MabThera including fulminant hepatitis with fatal outcome. The majority of these patients were also  exposed to cytotoxic chemotherapy. Hepatitis B virus (HBV) screening should be performed in all patients before initiation of treatment with MabThera. At minimum this should include HBsAg-status and HBcAb-status. These can be complemented with other appropriate markers as per local guidelines. Patients with active hepatitis B disease should not be treated with MabThera. Patients with positive hepatitis B serology (either HBsAg or HBcAb) should consult liver disease experts before start of treatment and should be monitored and managed following local medical standards to prevent hepatitis B reactivation.
 
-Very rare cases of PML have been reported during post-marketing use of the MabThera intravenous formulation in NHL (see section 4.8). The majority of patients had received rituximab in combination with chemotherapy or as part of a haematopoietic stem cell transplant.
+Very rare cases of PML have been reported during post-marketing use of MabThera in NHL (see section 4.8). The majority of patients had received rituximab in combination  with chemotherapy or as part of a haematopoietic stem cell transplant.
 
 Cases of enteroviral meningoencephalitis including fatalities have been reported following use of rituximab.
 
-## False negative serologic testing of infections
-
-Due to the risk of false negative serologic testing of infections, alternative diagnostic tools should be considered in case of patients presenting with symptoms indicative of rare infectious disease e.g. West Nile virus and neuroborreliosis.
-
-## Immunisation
-
-The safety of immunisation with live viral vaccines, following MabThera therapy has not been studied for NHL patients and vaccination with live virus vaccines is not recommended. Patients treated with
+False negative serologic testing of infections Due to the risk of false negative serologic testing of infections, alternative diagnostic tools should be considered in case of patients presenting with symptoms indicative of rare infectious disease e.g. West Nile virus and neuroborreliosis.
 
 <div style=\"page-break-after: always\"></div>
 
-MabThera may receive non-live vaccinations; however, with non-live vaccines response rates may be reduced. In a non-randomised study, patients with relapsed low-grade NHL who received the MabThera intravenous formulation as monotherapy when compared to healthy untreated controls had a lower rate of response to vaccination with tetanus recall antigen (16% vs. 81%) and Keyhole Limpet   Haemocyanin (KLH) neoantigen (4% vs. 69% when assessed for &gt; 2-fold increase in antibody titre).
+## Immunisation
+
+The safety of immunisation with live viral vaccines, following MabThera therapy has not been studied for NHL patients and vaccination with live virus vaccines is not recommended. Patients treated with MabThera may receive non-live vaccinations; however, with non-live vaccines response rates may be reduced. In a non-randomised study, patients with relapsed low-grade NHL who received the MabThera intravenous formulation as monotherapy when compared to healthy untreated controls had a lower rate of response to vaccination with tetanus recall antigen (16% vs. 81%) and Keyhole Limpet Haemocyanin (KLH) neoantigen (4% vs. 69% when assessed for &gt; 2-fold increase in antibody titre).
 
 Mean pre-therapeutic antibody titres against a panel of antigens (Streptococcus pneumoniae, influenza A, mumps, rubella and varicella) were maintained for at least 6 months after treatment with MabThera.
 
 ## Skin reactions
 
 Severe skin reactions such as Toxic Epidermal Necrolysis (Lyell's Syndrome) and Stevens-Johnson syndrome, some with fatal outcome, have been reported (see section 4.8). In case of such an event, with suspected relationship to MabThera, treatment should be permanently discontinued.
+
+## Excipients
+
+This medicine contains 7.02 mg of polysorbate 80 in each 15 mL vial, which is equivalent to 0.6 mg/mL. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -2005,6 +1954,8 @@ IgG immunoglobulins are known to cross the placental barrier.
 
 B-cell levels in human neonates following maternal exposure to MabThera have not been studied in clinical trials. There are no adequate and well-controlled data from studies in pregnant women, however transient B-cell depletion and lymphocytopenia have been reported in some infants born to mothers exposed to MabThera during pregnancy. Similar effects have been observed in animal studies (see section 5.3). For these reasons MabThera should not be administered to pregnant women unless the possible benefit outweighs the potential risk.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Breast-feeding
 
 Limited data on rituximab excretion into breast milk suggest very low rituximab concentrations in milk (relative infant dose less than 0.4%). Few cases of follow-up of breastfed infants describe normal growth and development up to 2 years. However, as these data are limited and the long-term outcomes of breastfed infants remain unknown, breast-feeding is not recommended while being treated with rituximab and optimally for 6 months following rituximab treatment.
@@ -2012,8 +1963,6 @@ Limited data on rituximab excretion into breast milk suggest very low rituximab 
 ## Fertility
 
 Animal studies did not reveal deleterious effects of rituximab or recombinant human hyaluronidase (rHuPH20) on reproductive organs.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -2033,6 +1982,8 @@ The risk of acute administration-related reactions associated with the subcutane
 
 ## Adverse reactions reported in MabThera intravenous formulation usage
 
+<div style=\"page-break-after: always\"></div>
+
 ## Experience from non-Hodgkin's lymphoma and chronic lymphocytic leukaemia
 
 The overall safety profile of MabThera in non-Hodgkin's lymphoma and CLL is based on data from patients from clinical trials and from post-marketing surveillance. These patients were treated either with MabThera monotherapy (as induction treatment or maintenance treatment following induction treatment) or in combination with chemotherapy.
@@ -2047,51 +1998,48 @@ The most frequent reported or observed serious adverse reactions were:
 - Infections, see section 4.4.
 - Cardiovascular disorders, see section 4.4.
 
-<div style=\"page-break-after: always\"></div>
-
 Other serious adverse reactions reported include hepatitis B reactivation and PML (see section 4.4.).
 
 The frequencies of adverse reactions reported with MabThera alone or in combination with chemotherapy are summarised in Table 1. Frequencies are defined as very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 The adverse reactions identified only during post-marketing surveillance, and for which a frequency could not be estimated, are listed under 'not known', see footnotes.
 
-## Tabulated list of adverse reactions
+Tabulated list of adverse reactions For each term, the frequency count was based on reactions of all grades (from mild to severe), except for terms marked with \"+\" where the frequency count was based only on severe (≥ grade 3 NCI common toxicity criteria) reactions.  Only the highest frequency observed in the trials is reported
 
 Table 1 Adverse reactions reported in clinical trials or during post-marketing surveillance in patients with NHL and CLL disease treated with MabThera monotherapy/maintenance or in  combination with chemotherapy
 
-| MedDRA System Organ Class            | Very Common                                                         | Common                                                                                                                                                                                       | Uncommon                                                                     | Rare                      | Very Rare                                                           | Not known                                             |
-|--------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------|---------------------------------------------------------------------|-------------------------------------------------------|
-| Infections and infestations          | bacterial infections, viral infections, + bronchitis                | sepsis, + pneumonia, + febrile infection, + herpes zoster, + respiratory tract infection, fungal infections, infections of unknown aetiology, + acute bronchitis, + sinusitis, hepatitis B 1 |                                                                              | serious viral infection 2 |                                                                     | enteroviral meningoencephal itis 2,3                  |
-| Blood and lymphatic system disorders | neutropenia, leucopenia, + febrile neutropenia, + thrombocytopeni a | anaemia, + pancytopenia, + granulocytopeni a                                                                                                                                                 | coagulation disorders, aplastic anaemia, haemolytic anaemia, lymphadenopathy |                           | transient increase in serumIgM levels 4                             | late neutropenia 4                                    |
-| Immune system disorders              | Infusion-related reactions 5 , angioedema                           | hypersensitivity                                                                                                                                                                             |                                                                              | anaphylaxis               | tumour lysis syndrome, cytokine release syndrome 5 , serum sickness | infusion-related acute reversible thrombocytopeni a 5 |
-| Metabolism and nutrition disorders   |                                                                     | hyperglycaemia, weight decrease, oedema peripheral, face oedema, increased LDH, hypocalcaemia                                                                                                |                                                                              |                           |                                                                     |                                                       |
-| Psychiatric disorders                |                                                                     |                                                                                                                                                                                              | depression, nervousness,                                                     |                           |                                                                     |                                                       |
-| Nervous system disorders             |                                                                     | paraesthesia, hypoaesthesia, agitation, insomnia, vasodilatation, dizziness, anxiety                                                                                                         | dysgeusia                                                                    |                           | peripheral neuropathy, facial nerve palsy 6                         | cranial neuropathy, loss of other senses 6            |
+| MedDRA System Organ Class   | Very Common                                          | Common                                                                                                                                                                                       | Uncommon   | Rare                                                         | Very Rare                                   | Not known                            |
+|-----------------------------|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------------------------------------------------------|---------------------------------------------|--------------------------------------|
+| Infections and infestations | bacterial infections, viral infections, + bronchitis | sepsis, + pneumonia, + febrile infection, + herpes zoster, + respiratory tract infection, fungal infections, infections of unknown aetiology, + acute bronchitis, + sinusitis, hepatitis B 1 |            | serious viral infection 2 , pneumocystis jirovecii pneumonia | progressive multifocal leukoencephalopat hy | enteroviral meningoencephal itis 2,3 |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA System Organ Class                            | Very Common                       | Common                                                                                                           | Uncommon                                                                                                                             | Rare                          | Very Rare                                                                                     | Not known         |
-|------------------------------------------------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----------------------------------------------------------------------------------------------|-------------------|
-| Eye disorders                                        |                                   | lacrimation disorder, conjunctivitis                                                                             |                                                                                                                                      |                               | severe vision loss 6                                                                          |                   |
-| Ear and labyrinth disorders                          |                                   | tinnitus, ear pain                                                                                               |                                                                                                                                      |                               |                                                                                               | hearing loss 6    |
-| Cardiac disorders                                    |                                   | + myocardial infarction 5, 7 , arrhythmia, + atrial fibrillation, tachycardia, + cardiac disorder                | + left ventricular failure, + supraventricular tachycardia, + ventricular tachycardia, + angina, + myocardial ischaemia, bradycardia | severe cardiac disorders 5, 7 | heart failure 5, 7                                                                            |                   |
-| Vascular disorders                                   |                                   | hypertension, orthostatic hypotension, hypotension                                                               |                                                                                                                                      |                               | vasculitis (predominately cutaneous), leukocytoclastic vasculitis                             |                   |
-| Respiratory, thoracic and mediastinal disorders      |                                   | bronchospasm 5 , respiratory disease, chest pain, dyspnoea, increased cough, rhinitis                            | asthma, bronchiolitis obliterans, lung disorder, hypoxia                                                                             | interstitial lung disease 8   | respiratory failure 5                                                                         | lung infiltration |
-| Gastrointestinal disorders                           | nausea                            | vomiting, diarrhoea, abdominal pain, dysphagia, stomatitis, constipation, dyspepsia, anorexia, throat irritation | abdominal enlargement                                                                                                                |                               | gastro-intestinal perforation 8                                                               |                   |
-| Skin and subcutaneous tissue disorders               | pruritis, rash, + alopecia        | urticaria, sweating, night sweats, + skin disorder                                                               |                                                                                                                                      |                               | severe bullous skin reactions, Stevens-Johns on Syndrome, toxic epidermal necrolysis (Lyell's |                   |
-| Musculoskeletal and connective tissue disorders      |                                   | hypertonia, myalgia, arthralgia, back pain, neck pain, pain                                                      |                                                                                                                                      |                               |                                                                                               |                   |
-| Renal and urinary disorders                          |                                   |                                                                                                                  |                                                                                                                                      |                               | renal failure 5                                                                               |                   |
-| General disorders and administration site conditions | fever, chills, asthenia, headache | tumour pain, flushing, malaise, cold syndrome, + fatigue, + shivering, + multi-organ failure 5                   | infusion site pain                                                                                                                   |                               |                                                                                               |                   |
+| MedDRA System Organ Class                       | Very Common                                                         | Common                                                                                            | Uncommon                                                                                                                             | Rare                          | Very Rare                                                           | Not known                                             |
+|-------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|---------------------------------------------------------------------|-------------------------------------------------------|
+| Blood and lymphatic system disorders            | neutropenia, leucopenia, + febrile neutropenia, + thrombocytopeni a | anaemia, + pancytopenia, + granulocytopeni a                                                      | coagulation disorders, aplastic anaemia, haemolytic anaemia, lymphadenopathy                                                         |                               | transient increase in serum IgM levels 4                            | late neutropenia 4                                    |
+| Immune system disorders                         | Infusion-related reactions 5 , angioedema                           | hypersensitivity                                                                                  |                                                                                                                                      | anaphylaxis                   | tumour lysis syndrome, cytokine release syndrome 5 , serum sickness | infusion-related acute reversible thrombocytopeni a 5 |
+| Metabolism and nutrition disorders              |                                                                     | hyperglycaemia, weight decrease, oedema peripheral, face oedema, increased LDH, hypocalcaemia     |                                                                                                                                      |                               |                                                                     |                                                       |
+| Psychiatric disorders                           |                                                                     |                                                                                                   | depression, nervousness,                                                                                                             |                               |                                                                     |                                                       |
+| Nervous system disorders                        |                                                                     | paraesthesia, hypoaesthesia, agitation, insomnia, vasodilatation, dizziness, anxiety              | dysgeusia                                                                                                                            |                               | peripheral neuropathy, facial nerve palsy 6                         | cranial neuropathy, loss of other senses 6            |
+| Eye disorders                                   |                                                                     | lacrimation disorder, conjunctivitis                                                              |                                                                                                                                      |                               | severe vision loss 6                                                |                                                       |
+| Ear and labyrinth disorders                     |                                                                     | tinnitus, ear pain                                                                                |                                                                                                                                      |                               |                                                                     | hearing loss 6                                        |
+| Cardiac disorders                               |                                                                     | + myocardial infarction 5, 7 , arrhythmia, + atrial fibrillation, tachycardia, + cardiac disorder | + left ventricular failure, + supraventricular tachycardia, + ventricular tachycardia, + angina, + myocardial ischaemia, bradycardia | severe cardiac disorders 5, 7 | heart failure 5, 7                                                  |                                                       |
+| Vascular disorders                              |                                                                     | hypertension, orthostatic hypotension, hypotension                                                |                                                                                                                                      |                               | vasculitis (predominately cutaneous), leukocytoclastic vasculitis   |                                                       |
+| Respiratory, thoracic and mediastinal disorders |                                                                     | bronchospasm 5 , respiratory disease, chest pain, dyspnoea, increased cough, rhinitis             | asthma, bronchiolitis obliterans, lung disorder, hypoxia                                                                             | interstitial lung disease 8   | respiratory failure 5                                               | lung infiltration                                     |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA System Organ Class   | Very Common          | Common   | Uncommon   | Rare   | Very Rare   | Not known   |
-|-----------------------------|----------------------|----------|------------|--------|-------------|-------------|
-| Investigations              | decreased IgG levels |          |            |        |             |             |
+| MedDRA System Organ Class                            | Very Common                       | Common                                                                                                           | Uncommon              | Rare   | Very Rare                                                                                                 | Not known   |
+|------------------------------------------------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------|-----------------------|--------|-----------------------------------------------------------------------------------------------------------|-------------|
+| Gastrointestinal disorders                           | nausea                            | vomiting, diarrhoea, abdominal pain, dysphagia, stomatitis, constipation, dyspepsia, anorexia, throat irritation | abdominal enlargement |        | gastro-intestinal perforation 8                                                                           |             |
+| Skin and subcutaneous tissue disorders               | pruritis, rash, + alopecia        | urticaria, sweating, night sweats, + skin disorder                                                               |                       |        | severe bullous skin reactions, Stevens-Johns on Syndrome, toxic epidermal necrolysis (Lyell's Syndrome) 8 |             |
+| Musculoskeletal and connective tissue disorders      |                                   | hypertonia, myalgia, arthralgia, back pain, neck pain, pain                                                      |                       |        |                                                                                                           |             |
+| Renal and urinary disorders                          |                                   |                                                                                                                  |                       |        | renal failure 5                                                                                           |             |
+| General disorders and administration site conditions | fever, chills, asthenia, headache | tumour pain, flushing, malaise, cold syndrome, + fatigue, + shivering, + multi-organ failure 5                   | infusion site pain    |        |                                                                                                           |             |
+| Investigations                                       | decreased IgG levels              |                                                                                                                  |                       |        |                                                                                                           |             |
 
-For each term, the frequency count was based on reactions of all grades (from mild to severe), except for terms marked with \"+\" where the frequency count was based only on severe (≥ grade 3 NCI common toxicity criteria) reactions.  Only the highest frequency observed in the trials is reported
+1  includes reactivation and primary infections; frequency based on R-FC regimen in relapsed/refractory CLL
 
-- 1  includes reactivation and primary infections; frequency based on R-FC regimen in relapsed/refractory CLL
 - 2 see also section infection below
 - 3 observed during post-marketing surveillance
 - 4  see also section haematologic adverse reactions below
@@ -2104,15 +2052,15 @@ The following terms have been reported as adverse reactions during clinical tria
 
 Signs and symptoms suggestive of an infusion-related reaction were reported in more than 50% of patients in clinical trials involving MabThera intravenous formulation, and were predominantly seen during the first infusion, usually in the first one to two hours. These symptoms mainly comprised fever, chills and rigors. Other symptoms included flushing, angioedema, bronchospasm, vomiting, nausea, urticaria/rash, fatigue, headache, throat irritation, rhinitis, pruritus, pain, tachycardia, hypertension, hypotension, dyspnoea, dyspepsia, asthenia and features of tumour lysis syndrome. Severe infusion-related reactions (such as bronchospasm, hypotension) occurred in up to 12% of the cases. Additional reactions reported in some cases were myocardial infarction, atrial fibrillation, pulmonary oedema and acute reversible thrombocytopenia. Exacerbations of pre-existing cardiac conditions such as angina pectoris or congestive heart failure or severe cardiac disorders (heart failure, myocardial infarction, atrial fibrillation), pulmonary oedema, multi-organ failure, tumour lysis syndrome, cytokine release syndrome, renal failure, and respiratory failure were reported at lower or unknown frequencies. The incidence of infusion-related symptoms decreased substantially with subsequent intravenous infusions and is &lt; 1% of patients by the eighth cycle of MabThera (containing) treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Description of selected adverse reactions
 
 ## Infections
 
 MabThera induces B-cell depletion in about 70-80% of patients, but was associated with decreased serum immunoglobulins only in a minority of patients.
 
-Localised candida infections as well as Herpes zoster were reported at a higher incidence in the MabThera-containing arm of randomised studies. Severe infections were reported in about 4% of patients treated with MabThera monotherapy. Higher frequencies of infections overall, including grade 3 or 4 infections, were observed during MabThera maintenance treatment up to 2 years when compared to observation. There was no cumulative toxicity in terms of infections reported over a 2-year treatment period. In addition, other serious viral infections either new, reactivated or exacerbated, some of which were fatal, have been reported with MabThera treatment. The majority of patients had received MabThera in combination with chemotherapy or as part of a haematopoietic stem  cell transplant. Examples of these serious viral infections are infections caused by the herpes viruses (Cytomegalovirus, Varicella Zoster Virus and Herpes Simplex Virus), JC virus (PML), enterovirus (meningoencephalitis) and hepatitis C virus (see section 4.4.). Cases of fatal PML that occurred after disease progression and retreatment have also been reported in clinical trials. Cases of hepatitis B reactivation, have been reported, the majority of which were in patients receiving MabThera in combination with cytotoxic chemotherapy. Progression of Kaposi's sarcoma has been observed in MabThera-exposed patients with pre-existing Kaposi's sarcoma. These cases occurred in non-approved indications and the majority of patients were HIV positive.
-
-<div style=\"page-break-after: always\"></div>
+Localised candida infections as well as Herpes zoster were reported at a higher incidence in the MabThera-containing arm of randomised studies. Severe infections were reported in about 4% of patients treated with MabThera monotherapy. Higher frequencies of infections overall, including grade 3 or 4 infections, were observed during MabThera maintenance treatment up to 2 years when  compared to observation. There was no cumulative toxicity in terms of infections reported over a 2-year treatment period. In addition, other serious viral infections either new, reactivated or exacerbated, some of which were fatal, have been reported with MabThera treatment. The majority of patients had received MabThera in combination with chemotherapy or as part of a haematopoietic stem  cell transplant. Examples of these serious viral infections are infections caused by the herpes viruses (Cytomegalovirus, Varicella Zoster Virus and Herpes Simplex Virus), JC virus (PML), enterovirus (meningoencephalitis) and hepatitis C virus (see section 4.4.). Cases of fatal PML that occurred after disease progression and retreatment have also been reported in clinical trials. Cases of hepatitis B reactivation, have been reported, the majority of which were in patients receiving MabThera in combination with cytotoxic chemotherapy. Progression of Kaposi's sarcoma has been observed in MabThera-exposed patients with pre-existing Kaposi's sarcoma. These cases occurred in non-approved indications and the majority of patients were HIV positive.
 
 ## Haematologic adverse reactions
 
@@ -2124,6 +2072,8 @@ In studies of MabThera in patients with Waldenstrom's macroglobulinaemia, transi
 
 Cardiovascular reactions during clinical trials with MabThera monotherapy were reported in 18.8% of patients with the most frequently reported events being hypotension and hypertension. Cases of grade 3 or 4 arrhythmia (including ventricular and supraventricular tachycardia) and angina pectoris during infusion were reported. During maintenance treatment, the incidence of grade 3/4 cardiac disorders was comparable between patients treated with MabThera and observation. Cardiac events were reported as serious adverse reactions (including atrial fibrillation, myocardial infarction, left ventricular failure, myocardial ischemia) in 3% of patients treated with MabThera compared to &lt; 1% on observation. In studies evaluating MabThera in combination with chemotherapy, the incidence of grade 3 and 4 cardiac arrhythmias, predominantly supraventricular arrhythmias such as tachycardia and atrial flutter/fibrillation, was higher in the R-CHOP group (14 patients, 6.9%) as compared to the CHOP group (3 patients, 1.5%). All of these arrhythmias either occurred in the context of a MabThera infusion or were associated with predisposing conditions such as fever, infection, acute myocardial infarction or pre-existing respiratory and cardiovascular disease. No difference between the R-CHOP and CHOP group was observed in the incidence of other grade 3 and 4 cardiac events including heart failure, myocardial disease and manifestations of coronary artery disease.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Respiratory system
 
 Cases of interstitial lung disease, some with fatal outcome have been reported.
@@ -2133,8 +2083,6 @@ Cases of interstitial lung disease, some with fatal outcome have been reported.
 During the treatment period ( induction treatment phase comprising of R-CHOP for at most eight cycles), four patients (2%) treated with R-CHOP, all with cardiovascular risk factors, experienced thromboembolic cerebrovascular accidents during the first treatment cycle. There was no difference between the treatment groups in the incidence of other thromboembolic events. In contrast, three patients (1.5%) had cerebrovascular events in the CHOP group, all of which occurred during the follow-up period.
 
 Cases of posterior reversible encephalopathy syndrome (PRES) / reversible posterior leukoencephalopathy syndrome (RPLS) have been reported. Signs and symptoms included visual disturbance, headache, seizures and altered mental status, with or without associated hypertension. A diagnosis of PRES/RPLS requires confirmation by brain imaging. The reported cases had recognised risk factors for PRES/RPLS, including the patients' underlying disease, hypertension, immunosuppressive therapy and/or chemotherapy.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Gastrointestinal disorders
 
@@ -2158,6 +2106,8 @@ The incidence of adverse reactions of all grades and grade 3/4 adverse reactions
 
 There was a higher incidence of grade 3/4 adverse reactions in patients with bulky disease than in patients without bulky disease (25.6% vs. 15.4%). The incidence of adverse reactions of any grade was similar in these two groups.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Re-treatment:
 
 The percentage of patients reporting adverse reactions upon re-treatment with further courses of MabThera was similar to the percentage of patients reporting adverse reactions upon initial exposure (any grade and grade 3/4 adverse reactions).
@@ -2178,8 +2128,6 @@ Patients who experience overdose or medication error should be closely monitored
 
 In the post-marketing setting five cases of MabThera overdose have been reported. Three cases had no reported adverse event. The two adverse events that were reported were flu-like symptoms, with a dose of 1.8 g of rituximab and fatal respiratory failure, with a dose of 2 g of rituximab.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -2196,9 +2144,11 @@ CD20 is found on both normal and malignant B-cells, but not on haematopoietic st
 
 The Fab domain of rituximab binds to the CD20 antigen on B lymphocytes and the Fc domain can recruit immune effector functions to mediate B-cell lysis. Possible mechanisms of effector-mediated cell lysis include complement-dependent cytotoxicity (CDC) resulting from C1q binding, and antibody-dependent cellular cytotoxicity (ADCC) mediated by one or more of the Fc γ receptors on the surface of granulocytes, macrophages and NK cells. Rituximab binding to CD20 antigen on B lymphocytes has also been demonstrated to induce cell death via apoptosis.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pharmacodynamic effects
 
-Peripheral B-cell counts declined below normal following completion of the first dose of MabThera. In patients treated for haematological malignancies, B-cell recovery began within 6 months of treatment and generally returned to normal levels within 12 months after completion of therapy, although in some patients this may take longer (up to a median recovery time of 23 months post-induction therapy). In rheumatoid arthritis patients, immediate depletion of B-cells in the peripheral blood was observed following two infusions of 1000 mg MabThera separated by a 14-day interval. Peripheral blood B-cell counts begin to increase from Week 24 and evidence for repopulation is observed in the majority of patients by Week 40, whether MabThera was administered as monotherapy or in combination with methotrexate.
+Peripheral B-cell counts declined below normal following completion of the first dose of MabThera. In  patients treated for haematological malignancies, B-cell recovery began within 6 months of treatment and generally returned to normal levels within 12 months after completion of therapy, although in some patients this may take longer (up to a median recovery time of 23 months post-induction therapy). In rheumatoid arthritis patients, immediate depletion of B-cells in the peripheral blood was observed following two infusions of 1000 mg MabThera separated by a 14-day interval. Peripheral blood B-cell counts begin to increase from Week 24 and evidence for repopulation is observed in the majority of patients by Week 40, whether MabThera was administered as monotherapy or in combination with methotrexate.
 
 ## Clinical efficacy and safety
 
@@ -2210,19 +2160,17 @@ The clinical efficacy and safety of MabThera subcutaneous formulation in non-Hod
 
 A two-stage phase III, international, multi-centre, randomised, controlled, open-label trial was conducted in patients with previously untreated follicular lymphoma, to investigate the non-inferiority of the pharmacokinetic profile, together with efficacy and safety of MabThera subcutaneous formulation in combination with CHOP or CVP versus MabThera intravenous formulation in combination with CHOP or CVP.
 
-<div style=\"page-break-after: always\"></div>
-
 The objective of the first stage was to establish the rituximab subcutaneous dose that resulted in comparable MabThera subcutaneous formulation serum Ctrough levels compared with MabThera intravenous formulation, when given as part of induction treatment every 3 weeks (see section 5.2). Stage 1 enrolled previously untreated patients (n=127) CD20-positive, Follicular Lymphoma (FL) Grade 1, 2 or 3a.
 
-The objective of stage 2 was to provide additional efficacy and safety data for subcutaneous rituximab compared with rituximab intravenous using the 1400 mg subcutaneous dose established in stage 1. Previously untreated patients with CD20-positive, Follicular Lymphoma Grade 1, 2 or 3a (n=283) were enrolled in the stage 2.
+The objective of stage 2 was to provide additional efficacy and safety data for subcutaneous rituximab compared with rituximab intravenous using the 1400 mg subcutaneous dose established in stage 1. Previously untreated patients with CD20-positive, Follicular Lymphoma Grade 1, 2 or 3a (n=283)  were enrolled in the stage 2.
 
 The overall trial design was identical among both stages and patients were randomised into the following two treatment groups:
 
-- MabThera subcutaneous formulation (n= 205): first cycle MabThera intravenous formulation  plus 7 cycles of MabThera subcutaneous formulation in combination with up to 8 cycles of CHOP or CVP chemotherapy administered every 3 weeks.
+- MabThera subcutaneous formulation (n= 205): first cycle MabThera intravenous formulation plus 7 cycles of MabThera subcutaneous formulation in combination with up to 8 cycles of CHOP or CVP chemotherapy administered every 3 weeks.
 
-MabThera intravenous formulation was used at the standard dose of 375 mg/m 2 body surface area. MabThera subcutaneous formulation was given at a fixed dose of 1400 mg.
+MabThera intravenous formulation was used at the standard dose of 375 mg/m 2 body surface area. MabThera subcutaneous formulation was given at a fixed dose of 1400 mg. Patients achieving at least partial response (PR) were entered on the MabThera subcutaneous formulation maintenance therapy once every 8 weeks for 24 months.
 
-Patients achieving at least partial response (PR) were entered on the MabThera subcutaneous formulation maintenance therapy once every 8 weeks for 24 months.
+<div style=\"page-break-after: always\"></div>
 
 - MabThera intravenous formulation (n= 205): 8 cycles of MabThera intravenous formulation in combination with up to 8 cycles of CHOP or CVP chemotherapy administered every 3 weeks. MabThera intravenous formulation was used at the standard dose of 375 mg/m 2 .
 
@@ -2232,7 +2180,7 @@ Key efficacy results for the pooled analysis of 410 patients in SABRINA stages 1
 
 Table 2 Efficacy results for SABRINA (BO22334) (Intent to Treat Population)
 
-|       |                           | Pooled Stages1&2 N=410                      | Pooled Stages1&2 N=410                       |
+|       |                           | Pooled Stages 1 & 2 N = 410                 | Pooled Stages 1 & 2 N = 410                  |
 |-------|---------------------------|---------------------------------------------|----------------------------------------------|
 |       |                           | Rituximab intravenous formulation (n = 205) | Rituximab subcutaneous formulation (n = 205) |
 | ORR a | Point estimate            | 84.9% (n = 174)                             | 84.4% (n = 173)                              |
@@ -2242,17 +2190,7 @@ Table 2 Efficacy results for SABRINA (BO22334) (Intent to Treat Population)
 | PFS b | Proportion with PFS event | 34.6% (n = 71)                              | 31.7% (n = 65)                               |
 | PFS b | Hazard ratio (95% CI)     | 0.90 [0.64%, 1.26%]                         | 0.90 [0.64%, 1.26%]                          |
 
-ORR - Overall Response Rate
-
-CRR - Complete Response Rate
-
-PFS - Progression-Free Survival (proportion with event, disease progression/relapse or death from any cause)
-
-a - at end of Induction
-
-b - at time of final analysis (median follow-up 58 months)
-
-<div style=\"page-break-after: always\"></div>
+Exploratory analyses showed response rates among BSA, chemotherapy and gender subgroups were not notably different from the ITT population.
 
 ## Immunogenicity
 
@@ -2260,28 +2198,28 @@ Data from the development programme of MabThera subcutaneous formulation indicat
 
 The overall proportion of patients found to have anti-rHuPH20 antibodies remained generally constant over the follow-up period in both cohorts. The clinical relevance of the development of anti-rituximab antibodies or anti-rHuPH20 antibodies after treatment with MabThera subcutaneous formulation is not known. There was no apparent impact of the presence of anti-rituximab or anti-rHuPH20 antibodies on safety or efficacy.
 
-## Clinical efficacy and safety of MabThera concentrate for solution for infusion in non-Hodgkin's lymphoma
-
-## Follicular lymphoma
-
-## Initial treatment in combination with chemotherapy
-
-In an open-label randomised trial, a total of 322 previously untreated patients with follicular lymphoma were randomised to receive either CVP chemotherapy (cyclophosphamide 750 mg/m 2 , vincristine 1.4 mg/m 2 up to a maximum of 2 mg on Day 1, and prednisolone 40 mg/m 2 /day on Days 1 -5) every 3 weeks for 8 cycles or MabThera 375 mg/m 2  in combination with CVP (R-CVP). MabThera was administered on the first day of each treatment cycle. A total of 321 patients (162 R-CVP, 159 CVP) received therapy and were analysed for efficacy. The median follow-up of patients was 53 months. R-CVP led to a significant benefit over CVP for the primary endpoint, time to treatment failure (27 months vs. 6.6 months, p &lt; 0.0001, log-rank test). The proportion of patients with a tumour response (CR, CRu, PR) was significantly higher (p&lt; 0.0001 Chi-Square test) in the R-CVP group (80.9%) than the CVP group (57.2%). Treatment with R-CVP significantly prolonged the time to disease progression or death compared to CVP, 33.6 months and 14.7 months, respectively (p&lt; 0.0001, log-rank test). The median duration of response was 37.7 months in the R-CVP group and  was 13.5 months in the CVP group (p &lt; 0.0001, log-rank test).
-
-The difference between the treatment groups with respect to overall survival showed a significant clinical difference (p=0.029, log-rank test stratified by centre): survival rates at 53 months were 80.9% for patients in the R-CVP group compared to 71.1% for patients in the CVP group.
-
-Results from three other randomised trials using MabThera in combination with chemotherapy regimen other than CVP (CHOP, MCP, CHVP/Interferonα) have also demonstrated significant improvements in response rates, time-dependent parameters as well as in overall survival. Key results   from all four trials are summarised in Table 3.
+Clinical  efficacy  and  safety  of  MabThera  concentrate  for  solution  for  infusion  in  non-Hodgkin's lymphoma
 
 <div style=\"page-break-after: always\"></div>
 
+## Follicular lymphoma
+
+Initial treatment in combination with chemotherapy
+
+In an open-label randomised trial, a total of 322 previously untreated patients with follicular lymphoma were randomised to receive either CVP chemotherapy (cyclophosphamide 750 mg/m 2 , vincristine 1.4 mg/m 2 up to a maximum of 2 mg on Day 1, and prednisolone 40 mg/m 2 /day on Days 1 -5) every 3 weeks for 8 cycles or MabThera 375 mg/m 2  in combination with CVP (R-CVP). MabThera was administered on the first day of each treatment cycle. A total of 321 patients (162 R-CVP, 159 CVP) received therapy and were analysed for efficacy. The median follow-up of patients was 53 months. R-CVP led to a significant benefit over CVP for the primary endpoint, time to treatment failure (27 months vs. 6.6 months, p &lt; 0.0001, log-rank test). The proportion of patients with a tumour response (CR, CRu, PR) was significantly higher (p&lt; 0.0001 Chi-Square test) in the R-CVP group (80.9%) than the CVP group (57.2%). Treatment with R-CVP significantly prolonged the time to disease progression or death compared to CVP, 33.6 months and 14.7 months, respectively (p&lt; 0.0001, log-rank test). The median duration of response was 37.7 months in the R-CVP group and was 13.5 months in the CVP group (p &lt; 0.0001, log-rank test).
+
+The difference between the treatment groups with respect to overall survival showed a significant clinical difference (p=0.029, log-rank test stratified by centre): survival rates at 53 months were 80.9% for patients in the R-CVP group compared to 71.1% for patients in the CVP group.
+
+Results from three other randomised trials using MabThera in combination with chemotherapy regimen other than CVP (CHOP, MCP, CHVP/Interferonα) have also demonstrated significant improvements in response rates, time-dependent parameters as well as in overall survival. Key results from all four trials are summarised in Table 3.
+
 Table 3 Summary of key results from four phase III randomised trials evaluating the benefit of MabThera with different chemotherapy regimens in follicular lymphoma
 
-| Trial                         |   Treatment, N | Median FU, months   | ORR,%   | CR, %                                       | Median TTF/PFS/EFS mo       | OS rates, %   |
-|-------------------------------|----------------|---------------------|---------|---------------------------------------------|-----------------------------|---------------|
-| CVP, 159 R-CVP, 162           |             53 | 57 81               | 10 41   | Median TTP: 14.7 33.6 P < 0.0001            | 53-months 71.1 80.9 p=0.029 | M39021        |
-| CHOP, 205 R-CHOP, 223         |             18 | 90 96               | 17 20   | Median TTF: 2.6 years Not reached p < 0.001 | 18-months 90 95 p = 0.016   | GLSG'00       |
-| MCP, 96 R-MCP, 105            |             47 | 75 92               | 25 50   | Median PFS: 28.8 Not reached p < 0.0001     | 48-months 74 87 p = 0.0096  | OSHO - 39     |
-| CHVP-IFN, 183 R-CHVP-IFN, 175 |             42 | 85 94               | 49 76   | Median EFS: 36 Not reached p < 0.0001       | 42-months 84 91 p = 0.029   | FL2000        |
+| Trial                         |   Treatment, N | Median FU, months   | ORR, %   | CR, %                                       | Median TTF/PFS/ EFS mo      | OS rates, %   |
+|-------------------------------|----------------|---------------------|----------|---------------------------------------------|-----------------------------|---------------|
+| CVP, 159 R-CVP, 162           |             53 | 57 81               | 10 41    | Median TTP: 14.7 33.6 P < 0.0001            | 53-months 71.1 80.9 p=0.029 | M39021        |
+| CHOP, 205 R-CHOP, 223         |             18 | 90 96               | 17 20    | Median TTF: 2.6 years Not reached p < 0.001 | 18-months 90 95 p = 0.016   | GLSG'00       |
+| MCP, 96 R-MCP, 105            |             47 | 75 92               | 25 50    | Median PFS: 28.8 Not reached p < 0.0001     | 48-months 74 87 p = 0.0096  | OSHO - 39     |
+| CHVP-IFN, 183 R-CHVP-IFN, 175 |             42 | 85 94               | 49 76    | Median EFS: 36 Not reached p < 0.0001       | 42-months 84 91 p = 0.029   | FL2000        |
 
 EFS - Event Free Survival
 
@@ -2293,6 +2231,8 @@ TTF - Time to Treatment Failure
 
 OS rates - survival rates at the time of the analyses
 
+<div style=\"page-break-after: always\"></div>
+
 ## Maintenance therapy
 
 ## Previously untreated follicular lymphoma
@@ -2301,28 +2241,34 @@ In a prospective, open label, international, multi-centre, phase III trial 1 193
 
 The pre-specified primary analysis was conducted at a median observation time of 25 months from randomisation, maintenance therapy with MabThera resulted in a clinically relevant and statistically significant improvement in the primary endpoint of investigator assessed progression-free survival (PFS) as compared to observation in patients with previously untreated follicular lymphoma (Table 4).
 
-Significant benefit from maintenance treatment with MabThera was also seen for the secondary endpoints event-free  survival  (EFS),  time  to  next  anti-lymphoma  treatment  (TNLT)  time  to  next  chemotherapy (TNCT) and overall response rate (ORR) in the primary analysis (Table 4).
+Significant benefit from maintenance treatment with MabThera was also seen for the secondary endpoints event-free survival (EFS), time to next anti-lymphoma treatment (TNLT) time to next chemotherapy (TNCT) and overall response rate (ORR) in the primary analysis (Table 4).
 
 Data from extended follow-up of patients in the study (median follow-up 9 years) confirmed the long-  term benefit of MabThera maintenance therapy in terms of PFS, EFS, TNLT and TNCT (Table 4).
 
-<div style=\"page-break-after: always\"></div>
-
 Table 4 Overview of efficacy results for MabThera maintenance vs. observation at the protocol-defined primary analysis and after 9 years median follow-up (final analysis)
 
-|                                                                                                           | Primary analysis (median FU: 25 months)   | Primary analysis (median FU: 25 months)   | Final analysis (median FU: 9.0 years)   | Final analysis (median FU: 9.0 years)   |
-|-----------------------------------------------------------------------------------------------------------|-------------------------------------------|-------------------------------------------|-----------------------------------------|-----------------------------------------|
-|                                                                                                           | Observation N=513                         | MabThera N=505                            | Observation N=513                       | MabThera N=505                          |
-| Primary efficacy Progression-free survival (median) log-rank p value hazard ratio (95% CI) risk reduction | NR < 0.0001 0.50 (0.39, 50%               | NR 0.64)                                  | 4.06 years < 0.61 (0.52,                | 10.49 years 0.0001 0.73) 39%            |
-| Secondary efficacy Overall survival (median) log-rank p value hazard ratio (95% CI) risk reduction        | NR 0.7246 0.89 (0.45, 11%                 | NR 1.74)                                  | NR 0.7948 1.04 (0.77, -6%               | NR 1.40)                                |
-| Event-free survival (median) log-rank p value hazard ratio (95% CI) risk reduction                        | 38 months < 0.0001 0.54 (0.43, 46%        | NR 0.69)                                  | 4.04 years < 0.0001 0.64 (0.54, 36%     | 9.25 years 0.76)                        |
-| TNLT (median) log-rank p value hazard ratio (95% CI) risk reduction                                       | NR 0.0003 0.61 (0.46, 39%                 | NR 0.80)                                  | 6.11 years <0.0001 0.66 (0.55, 34%      | NR 0.78)                                |
-| TNCT (median) log-rank p value hazard ratio (95% CI) risk reduction                                       | NR 0.0011 0.60 (0.44, 40%                 | NR 0.82)                                  | 9.32 years 0.0004 0.71 (0.59, 39%       | NR 0.86)                                |
-| Overall response rate* chi-squared test p value odds ratio (95% CI)                                       | 55% < 0.0001 2.33 (1.73,                  | 74% 3.15)                                 | 61% < 0.0001 2.43 (1.84,                | 79% 3.22)                               |
-| Complete response (CR/CRu) rate* chi-squared test p value odds ratio (95% CI)                             | 48% < 0.0001 2.21 (1.65,                  | 67% 2.94)                                 | 53% < 0.0001 2.34 (1.80, 3.03)          | 72%                                     |
+|                                                                                                           | Primary analysis (median FU: 25 months)   | Primary analysis (median FU: 25 months)   | Final analysis (median FU: 9.0 years)    | Final analysis (median FU: 9.0 years)   |
+|-----------------------------------------------------------------------------------------------------------|-------------------------------------------|-------------------------------------------|------------------------------------------|-----------------------------------------|
+|                                                                                                           | Observation N=513                         | MabThera N=505                            | Observation N=513                        | MabThera N=505                          |
+| Primary efficacy Progression-free survival (median) log-rank p value hazard ratio (95% CI) risk reduction | NR < 0.0001 0.50 (0.39, 0.64) 50%         | NR                                        | 4.06 years < 0.0001 0.61 (0.52, 39%      | 10.49 years 0.73)                       |
+| Secondary efficacy Overall survival (median) log-rank p value hazard ratio (95% CI) risk reduction        | NR 0.7246 0.89 (0.45, 11%                 | NR 1.74)                                  | NR 0.7948 1.04 (0.77, -6%                | NR 1.40)                                |
+| Event-free survival (median) log-rank p value hazard ratio (95% CI) risk reduction                        | 38 months < 0.0001 0.54 (0.43, 46%        | NR 0.69)                                  | 4.04 years < 0.0001 0.64 (0.54, 36%      | 9.25 years 0.76)                        |
+| TNLT (median) log-rank p value hazard ratio (95% CI) risk reduction                                       | NR 0.0003 0.61 (0.46, 39%                 | NR 0.80)                                  | 6.11 years <0.0001 0.66 (0.55, 0.78) 34% | NR                                      |
+| TNCT (median) log-rank p value hazard ratio (95% CI) risk reduction                                       | NR 0.0011 0.60 (0.44, 40%                 | NR 0.82)                                  | 9.32 years 0.0004 0.71 (0.59, 39%        | NR 0.86)                                |
+| Overall response rate*                                                                                    | 55%                                       | 74%                                       | 61%                                      | 79%                                     |
+
+<div style=\"page-break-after: always\"></div>
+
+| chi-squared test p value odds ratio (95% CI)   | < 0.0001 2.33 (1.73, 3.15)   | < 0.0001 (1.84,   |
+|------------------------------------------------|------------------------------|-------------------|
+|                                                |                              | 2.43 3.22)        |
+| Complete response (CR/CRu) rate*               | 48% 67%                      | 53% 72%           |
+| chi-squared test p value                       | < 0.0001                     | < 0.0001          |
+| odds ratio (95% CI)                            | 2.21 (1.65, 2.94)            | 2.34 (1.80, 3.03) |
 
 * at end of maintenance/observation; final analysis results based on median follow-up of 73 months.
 
-FU: follow-up; NR: not reached at time of clinical cut off, TNCT: time to next chemotherapy treatment; TNLT: time to next anti lymphoma treatment.
+FU: follow-up; NR: not reached at time of clinical cut off, TNCT: time to next chemotherapy treatment; TNLT: time to next  anti lymphoma treatment.
 
 MabThera maintenance treatment provided consistent benefit in all predefined subgroups tested: gender (male, female), age (&lt; 60 years, &gt;= 60 years), FLIPI score (&lt;=1, 2 or &gt;= 3), induction therapy (R-CHOP, R-CVP or R-FCM) and regardless of the quality of response to induction treatment (CR/CRu or PR). Exploratory analyses of the benefit of maintenance treatment showed a less pronounced effect in elderly patients (&gt; 70 years of age), however sample sizes were small.
 
@@ -2330,22 +2276,20 @@ MabThera maintenance treatment provided consistent benefit in all predefined sub
 
 In a prospective, open label, international, multi-centre, phase III trial, 465 patients with relapsed/refractory follicular lymphoma were randomised in a first step to induction therapy with either CHOP (cyclophosphamide, doxorubicin, vincristine, prednisolone; n=231) or MabThera plus CHOP (R-CHOP, n=234). The two treatment groups were well balanced with regard to baseline characteristics and disease status. A total of 334 patients achieving a complete or partial remission following induction therapy were randomised in a second step to MabThera maintenance therapy (n=167) or observation (n=167). MabThera maintenance treatment consisted of a single infusion of MabThera at 375 mg/m 2  body surface area given every 3 months until disease progression or for a maximum period of two years.
 
-<div style=\"page-break-after: always\"></div>
-
 The final efficacy analysis included all patients randomised to both parts of the trial. After a median observation time of 31 months for patients randomised to the induction phase, R-CHOP significantly improved the outcome of patients with relapsed/refractory follicular lymphoma when compared to CHOP (see Table 5).
 
-Table 5 Induction phase: overview of efficacy results for CHOP vs. R-CHOP (31 months median observation time)
+## Table 5 Induction phase: overview of efficacy results for CHOP vs. R-CHOP (31 months median observation time)
 
-|                  | CHOP   | R - CHOP   | p - value   | Risk Reduction 1)   |
+|                  | CHOP   | R - CHOP   |   p - value | Risk Reduction 1)   |
 |------------------|--------|------------|-------------|---------------------|
 | Primary efficacy |        |            |             |                     |
-| ORR 2)           | 74%    | 87%        | 0.0003      | Na                  |
-| CR 2)            | 16%    | 29%        | 0.0005      | Na                  |
-| PR 2)            | 58%    | 58%        | 0.9449      | Na                  |
+| ORR 2)           | 74%    | 87%        |      0.0003 | Na                  |
+| CR 2)            | 16%    | 29%        |      0.0005 | Na                  |
+| PR 2)            | 58%    | 58%        |      0.9449 | Na                  |
 
 1) Estimates were calculated by hazard ratios
 
-2) Last tumour response as assessed by the investigator. The 'primary' statistical test for 'response' was the trend test of CR versus PR versus non-response (p &lt; 0.0001)
+2) Last tumour response as assessed by the investigator. The 'primary' statistical test for 'response' was the trend test of CR  versus PR versus non-response (p &lt; 0.0001)
 
 Abbreviations: NA, not available; ORR: overall response rate; CR: complete response; PR: partial response
 
@@ -2360,13 +2304,14 @@ Table 6 Maintenance phase: overview of efficacy results MabThera vs. observation
 |                                   | Observation (N = 167)                                    | MabThera (N=167)                                         | Log-Rank p value                                         |                  |
 | Progression - free survival (PFS) | 14.3                                                     | 42.2                                                     | < 0.0001                                                 | 61%              |
 | Overall survival                  | NR                                                       | NR                                                       | 0.0039                                                   | 56%              |
-| Time to new lymphoma treatment    | 20.1                                                     | 38.8                                                     | < 0.0001                                                 | 50%              |
-| Disease - free survival a         | 16.5                                                     | 53.7                                                     | 0.0003                                                   | 67%              |
-| Subgroup analysis PFS CHOP OS     | 11.6 22.1 14.3 14.3                                      | 37.5 51.9 52.8 37.8                                      | < 0.0001 0.0071 0.0008 < 0.0001                          | 71% 46% 64% 54%  |
+| Time to new lymphoma treatment a  | 20.1                                                     | 38.8                                                     | < 0.0001                                                 | 50%              |
+| Disease - free survival           | 16.5                                                     | 53.7                                                     | 0.0003                                                   | 67%              |
+| Subgroup analysis PFS CHOP OS     | 11.6 22.1 14.3 14.3                                      | 37.5 51.9 52.8 37.8                                      | < 0.0001 0.0071 0.0008 < 0.0001 0.0348                   | 71% 46% 64% 54%  |
 | R-CHOP                            |                                                          |                                                          |                                                          |                  |
 | CR                                |                                                          |                                                          |                                                          |                  |
 | PR                                |                                                          |                                                          |                                                          |                  |
-| CHOP R-CHOP                       | NR NR                                                    | NR NR                                                    | 0.0348 0.0482                                            | 55% 56%          |
+| CHOP                              | NR                                                       | NR                                                       |                                                          | 55%              |
+| R-CHOP                            | NR                                                       | NR                                                       | 0.0482                                                   | 56%              |
 
 NR: not reached;  a : only applicable to patients achieving a CR
 
@@ -2374,11 +2319,13 @@ The benefit of MabThera maintenance treatment was confirmed in all subgroups ana
 
 ## Diffuse large B-cell non-Hodgkin's lymphoma
 
-In a randomised, open-label trial, a total of 399 previously untreated elderly patients (age 60 to 80 years) with diffuse large B-cell lymphoma received standard CHOP chemotherapy (cyclophosphamide 750 mg/m 2 , doxorubicin 50 mg/m 2 , vincristine 1.4 mg/m 2 up to a maximum of 2 mg on Day 1, and prednisolone 40 mg/m 2 /day on Days 1-5) every 3 weeks for eight cycles, or MabThera 375 mg/m 2 plus CHOP (R-CHOP). MabThera was administered on the first day of the treatment cycle.
+In a randomised, open-label trial, a total of 399 previously untreated elderly patients (age 60 to 80 years) with diffuse large B-cell lymphoma received standard CHOP chemotherapy (cyclophosphamide 750 mg/m 2 , doxorubicin 50 mg/m 2 , vincristine 1.4 mg/m 2 up to a maximum of 2 mg on Day 1, and prednisolone 40 mg/m 2 /day on Days 1-5) every 3 weeks for eight cycles, or MabThera 375 mg/m 2  plus  CHOP (R-CHOP). MabThera was administered on the first day of the treatment cycle.
 
-The final efficacy analysis included all randomised patients (197 CHOP, 202 R-CHOP), and had a median follow-up duration of approximately 31 months. The two treatment groups were well balanced in baseline disease characteristics and disease status. The final analysis confirmed that R-CHOP treatment was associated with a clinically relevant and statistically significant improvement in the duration of event-free survival (the primary efficacy parameter; where events were death, relapse or progression of lymphoma, or institution of a new anti-lymphoma treatment) (p = 0.0001). Kaplan Meier estimates of the median duration of event-free survival were 35 months in the R-CHOP arm compared to 13 months in the CHOP arm, representing a risk reduction of 41%. At 24 months, estimates for overall survival were 68.2% in the R-CHOP arm compared to 57.4% in the CHOP arm. A subsequent analysis of the duration of overall survival, carried out with a median follow-up duration of 60 months, confirmed the benefit of R-CHOP over CHOP treatment (p=0.0071), representing a risk  reduction of 32%.
+The final efficacy analysis included all randomised patients (197 CHOP, 202 R-CHOP), and had a median follow-up duration of approximately 31 months. The two treatment groups were well balanced in baseline disease characteristics and disease status. The final analysis confirmed that R-CHOP treatment was associated with a clinically relevant and statistically significant improvement in the duration of event-free survival (the primary efficacy parameter; where events were death, relapse or progression of lymphoma, or institution of a new anti-lymphoma treatment) (p = 0.0001). Kaplan Meier estimates of the median duration of event-free survival were 35 months in the R-CHOP arm compared to 13 months in the CHOP arm, representing a risk reduction of 41%. At 24 months, estimates for overall survival were 68.2% in the R-CHOP arm compared to 57.4% in the CHOP arm.
 
 <div style=\"page-break-after: always\"></div>
+
+A subsequent analysis of the duration of overall survival, carried out with a median follow-up duration of 60 months, confirmed the benefit of R-CHOP over CHOP treatment (p=0.0071), representing a risk reduction of 32%.
 
 The analysis of all secondary parameters (response rates, progression-free survival, disease-free survival, duration of response) verified the treatment effect of R-CHOP compared to CHOP. The complete response rate after cycle 8 was 76.2% in the R-CHOP group and 62.4% in the CHOP group (p=0.0028). The risk of disease progression was reduced by 46% and the risk of relapse by 51%. In all patient subgroups (gender, age, age adjusted IPI, Ann Arbor stage, ECOG, β2 microglobulin, LDH, albumin, B symptoms, bulky disease, extranodal sites, bone marrow involvement), the risk ratios for event-free survival and overall survival (R-CHOP compared with CHOP) were less than 0.83 and 0.95 respectively. R-CHOP was associated with improvements in outcome for both high- and low-risk patients according to age adjusted IPI.
 
@@ -2394,7 +2341,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## Absorption
 
-Rituximab pharmacokinetics following single dose administration of MabThera subcutaneous 375 mg/m 2 , 625 mg/m 2  and 800 mg/m 2 were compared with MabThera intravenous 375 mg/m 2  in FL patients. Following subcutaneous administration, the absorption of rituximab is slow, reaching maximal concentrations about 3 days after administration. Based on popPK analysis an absolute bioavailability of 71% was estimated. Rituximab exposure increased dose proportional over the 375 mg/m 2 to 800 mg/m 2 subcutaneous dose range. Pharmacokinetic parameters such as clearance, distribution volume, and elimination half-life were comparable for both formulations.
+Rituximab pharmacokinetics following single dose administration of MabThera subcutaneous 375 mg/m 2 , 625 mg/m 2 and 800 mg/m 2 were compared with MabThera intravenous 375 mg/m 2  in FL patients. Following subcutaneous administration, the absorption of rituximab is slow, reaching maximal concentrations about 3 days after administration. Based on popPK analysis an absolute bioavailability of 64.6% was estimated. Rituximab exposure increased dose proportional over the 375 mg/m 2  to 800 mg/m 2 subcutaneous dose range. Pharmacokinetic parameters such as clearance, distribution volume, and elimination half-life were comparable for both formulations.
 
 ## Trial BP22333 (SparkThera)
 
@@ -2409,25 +2356,23 @@ The comparison of predicted median Cmax data for MabThera subcutaneous formulati
 | Predicted median C max (q2m) µg/mL |                     201 |                    209 |
 | Predicted median C max (q3m) µg/mL |                     189 |                    184 |
 
+<div style=\"page-break-after: always\"></div>
+
 The median Tmax in the MabThera subcutaneous formulation was approximately 3 days as compared to the Tmax occurring at or close to the end of the infusion for the intravenous formulation.
 
 ## Trial BO22334 (SABRINA)
 
-MabThera subcutaneous formulation at a fixed dose of 1400 mg was administered for 6 cycles subcutaneously during induction at 3-weekly intervals, following the first cycle of MabThera
-
-<div style=\"page-break-after: always\"></div>
-
-intravenous formulation, in previously untreated FL patients in combination with chemotherapy. The serum rituximab Cmax at cycle 7 was similar between the two treatment arms, with geometric mean (CV%) values of 250.63 (19.01) μg/mL and 236.82 (29.41) μg/mL for the intravenous and the subcutaneous formulations respectively, with the resulting geometric mean ratio (Cmax, SC/Cmax, IV) of 0.941 (90% CI: 0.872, 1.015).
+MabThera subcutaneous formulation at a fixed dose of 1400 mg was administered for 6 cycles subcutaneously during induction at 3-weekly intervals, following the first cycle of MabThera intravenous formulation, in previously untreated FL patients in combination with chemotherapy. The serum rituximab Cmax at cycle 7 was similar between the two treatment arms, with geometric mean (CV%) values of 250.63 (19.01) μg/mL and 236.82 (29.41) μg/mL for the intravenous and the subcutaneous formulations respectively, with the resulting geometric mean ratio (Cmax, SC/Cmax, IV) of 0.941 (90% CI: 0.872, 1.015).
 
 ## Distribution/Elimination
 
-Geometric mean Ctrough and geometric mean AUC τ from the BP22333 and BO22334 trials are summarised in Table 8.
+Geometric mean Ctrough and geometric mean AUC τ from the BP22333 and BO22334 trials are  summarised in Table 8.
 
 Table 8: Distribution/Elimination - Pharmacokinetic parameters of MabThera subcutaneous compared to MabThera intravenous
 
 | Trial BP22333 (SparkThera)        | Trial BP22333 (SparkThera)                                 | Trial BP22333 (SparkThera)                                 | Trial BP22333 (SparkThera)                     | Trial BP22333 (SparkThera)                     |
 |-----------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------|------------------------------------------------|
-|                                   | Geometric mean C trough (q2m) µg/mL                        | Geometric mean C trough (q3m) µg/mL                        | Geometric meanAUC τ cycle 2 (q2m) µg.day/mL    | Geometric meanAUC τ cycle 2 (q3m) µg.day/mL    |
+|                                   | Geometric mean C trough (q2m) µg/mL                        | Geometric mean C trough (q3m) µg/mL                        | Geometric mean AUC τ cycle 2 (q2m) µg.day/mL   | Geometric mean AUC τ cycle 2 (q3m) µg.day/mL   |
 | MabThera subcutaneous formulation | 32.2                                                       | 12.1                                                       | 5430                                           | 5320                                           |
 | MabThera intravenous formulation  | 25.9                                                       | 10.9                                                       | 4012                                           | 3947                                           |
 | Trial BO22334 (SABRINA)           | Trial BO22334 (SABRINA)                                    | Trial BO22334 (SABRINA)                                    | Trial BO22334 (SABRINA)                        | Trial BO22334 (SABRINA)                        |
@@ -2435,17 +2380,17 @@ Table 8: Distribution/Elimination - Pharmacokinetic parameters of MabThera subcu
 | MabThera subcutaneous formulation | 134.6                                                      | 134.6                                                      | 3778                                           | 3778                                           |
 | MabThera intravenous formulation  | 83.1                                                       | 83.1                                                       | 2734                                           | 2734                                           |
 
-In a population pharmacokinetic analysis in 403 follicular lymphoma patients who received subcutaneous and/or intravenous MabThera, single or multiple infusions of MabThera as a single agent or in combination with chemotherapy, the population estimates of nonspecific clearance (CL1), initial specific clearance (CL2) likely contributed by B-cells or tumour burden, and central compartment volume of distribution (V1) were 0.194 L/day, 0.535 L/day, and 4.37 L/day, respectively. The estimated median terminal elimination half-life of MabThera subcutaneous formulation was 29.7 days (range, 9.9 to 91.2 days). The analysis data set contained 6 003 quantifiable samples from 403 patients administered SC and/or IV rituximab in trials BP22333 (3 736 samples from 277 patients) and BO22334 (2 267 samples from 126 patients). Twenty-nine (0.48%) post-dose observations (all from trial BP22333) were below the quantification limit. There were no missing covariate values except baseline B-cell count. Baseline tumour load was available only in trial BO22334.
+In a population pharmacokinetic analysis in 399 follicular lymphoma patients who received subcutaneous and/or intravenous MabThera, single or multiple infusions of MabThera as a single agent or in combination with chemotherapy, the population estimates of nonspecific clearance (CL1), initial specific clearance (CL2) likely contributed by B-cells or tumour burden, and central compartment volume of distribution (V1) were 0.200 L/day, 0.398 L/day, and 4.54 L, respectively. The estimated median terminal elimination half-life of MabThera subcutaneous formulation was 34 days (range, 18.9 to 87.1 days). The analysis data set contained 8163 quantifiable samples from 399 patients administered SC and/or IV rituximab in trial BO22334
 
 ## Special populations
 
 In clinical trial BO22334, an effect was observed between body size and exposure ratios reported in cycle 7, between rituximab subcutaneous formulation 1400 mg q3w and rituximab intravenous formulation 375 mg/m 2 q3w with Ctrough ratios of 2.29, 1.31, and 1.41 in patients with low, medium and high BSA, respectively (low BSA ≤ 1.70 m 2 ; 1.70 m 2 &lt; medium BSA &lt; 1.90 m 2 ; high BSA ≥ 1.90 m 2 ). The corresponding AUCτ ratios were 1.66, 1.17 and 1.32.
 
-There was no evidence of clinically relevant dependencies of rituximab pharmacokinetics on age and sex.
-
 <div style=\"page-break-after: always\"></div>
 
-Anti-rituximab antibodies were detected in only 13 patients and did not result in any clinically relevant increase in steady-state clearance.
+There was no evidence of clinically relevant dependencies of rituximab pharmacokinetics on age and sex.
+
+Anti-rituximab antibodies were detected in only 22 patients and did not result in any clinically relevant increase in steady-state clearance.
 
 ## 5.3 Preclinical safety data
 
@@ -2463,7 +2408,7 @@ In embryofoetal developmental studies in mice, rHuPH20 caused reduced foetal wei
 
 ## 6.1 List of excipients
 
-Recombinant human hyaluronidase (rHuPH20) L-histidine L-histidine hydrochloride monohydrate α , α -trehalose dihydrate L-methionine Polysorbate 80 (E433) Water for injections
+Recombinant human hyaluronidase (rHuPH20) Histidine Histidine hydrochloride monohydrate α , α -trehalose dihydrate Methionine Polysorbate 80 (E433) Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -2471,13 +2416,15 @@ No incompatibilities between MabThera subcutaneous formulation and polypropylene
 
 ## 6.3 Shelf life
 
-Unopened vial 3 years
+## Unopened vial
+
+<div style=\"page-break-after: always\"></div>
+
+3 years
 
 ## After first opening
 
 Once transferred from the vial into the syringe, the solution of MabThera subcutaneous formulation is physically and chemically stable for 48 hours at 2 °C - 8 °C and subsequently for 8 hours at 30°C in diffuse daylight.
-
-<div style=\"page-break-after: always\"></div>
 
 From a microbiological point of view, the product should be used immediately. If not used immediately, preparation should take place in controlled and validated aseptic conditions. In-use storage times and conditions prior to use are the responsibility of the user.
 
@@ -2516,9 +2463,11 @@ Date of first authorisation: 2 June 1998
 
 Date of latest renewal: 20 May 2008
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu/en.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2562,9 +2511,9 @@ Premedication with glucocorticoids should be considered if MabThera is not given
 
 The recommended dose of MabThera subcutaneous formulation used for adult patients is a subcutaneous injection at a fixed dose of 1600 mg irrespective of the patient's body surface area.
 
-Before starting MabThera subcutaneous injections, all patients must always receive beforehand, a full dose of MabThera by intravenous infusion, using MabThera intravenous formulation (see section 4.4).
-
 <div style=\"page-break-after: always\"></div>
+
+Before starting MabThera subcutaneous injections, all patients must always receive beforehand, a full dose of MabThera by intravenous infusion, using MabThera intravenous formulation (see section 4.4).
 
 If patients were not able to receive one full MabThera intravenous infusion dose prior to the switch, they should continue the subsequent cycles with MabThera intravenous formulation until a full intravenous dose is successfully administered. Therefore, the switch to MabThera subcutaneous formulation can only occur at the second or  subsequent cycles of treatment.
 
@@ -2572,7 +2521,7 @@ It is important to check the medicinal product labels to ensure that the appropr
 
 MabThera subcutaneous formulation is not intended for intravenous administration and should be given via subcutaneous injection only. The 1600 mg strength is intended for subcutaneous use in CLL only.
 
-Prophylaxis with adequate hydration and administration of uricostatics starting 48 hours prior to start of therapy is recommended for CLL patients to reduce the risk of tumour lysis syndrome. For CLL patients whose lymphocyte counts are &gt; 25 x 10 9 /L it is recommended to administer prednisone/prednisolone 100 mg intravenous shortly before administration with MabThera to decrease   the rate and severity of acute infusion reactions and/or cytokine release syndrome.
+Prophylaxis with adequate hydration and administration of uricostatics starting 48 hours prior to start of therapy is recommended for CLL patients to reduce the risk of tumour lysis syndrome. For CLL patients whose lymphocyte counts are &gt; 25 x 10 9 /L it is recommended to administer prednisone/prednisolone 100 mg intravenous shortly before administration with MabThera to decrease the rate and severity of acute infusion reactions and/or cytokine release syndrome.
 
 The recommended dosage of MabThera in combination with chemotherapy for previously untreated and relapsed/refractory patients is: MabThera intravenous formulation 375 mg/m2 body surface area administered on Day 0 of the first cycle of treatment followed by MabThera subcutaneous formulation injected at a fixed dose of 1600 mg per cycle, on Day 1 of each subsequent cycle (in total: 6 cycles). The chemotherapy should be given after MabThera administration.
 
@@ -2602,9 +2551,9 @@ No data are available on performing the injection in other sites of the body, th
 
 During the treatment course with MabThera subcutaneous formulation, other medicinal products for subcutaneous administration should preferably be given at different sites.
 
-If an injection is interrupted it can be resumed at the same site or another location may be used, if appropriate.
-
 <div style=\"page-break-after: always\"></div>
+
+If an injection is interrupted it can be resumed at the same site or another location may be used, if appropriate.
 
 ## 4.3 Contraindications
 
@@ -2620,13 +2569,13 @@ Patients in a severely immunocompromised state.
 
 In order to improve the traceability of biological medicinal products, the tradename and batch number of the administered product should be clearly recorded.
 
-The information provided in the section 4.4 pertains to the use of MabThera subcutaneous formulation   in the approved indications Treatment of non-Hodgkin's lymphoma (strength 1400 mg) and Treatment   of CLL (strength 1600 mg). For information related to the other indications, please refer to the SmPC of MabThera intravenous formulation.
+The information provided in the section 4.4 pertains to the use of MabThera subcutaneous formulation in the approved indications Treatment of non-Hodgkin's lymphoma (strength 1400 mg) and Treatment of CLL (strength 1600 mg). For information related to the other indications, please refer to the SmPC of MabThera intravenous formulation.
 
 ## Progressive multifocal leukoencephalopathy
 
 Use of MabThera may be associated with an increased risk of progressive multifocal leukoencephalopathy (PML). Patients must be monitored at regular intervals for any new or worsening neurological symptoms or signs that may be suggestive of PML. If PML is suspected, further dosing must be suspended until PML has been excluded. The clinician should evaluate the patient to determine if the symptoms are indicative of neurological dysfunction, and if so, whether these symptoms are possibly suggestive of PML. Consultation with a neurologist should be considered as clinically indicated.
 
-If any doubt exists, further evaluation, including MRI scan preferably with contrast, cerebrospinal fluid (CSF) testing for JC Viral DNA and repeat neurological assessments, should be considered.
+If any doubt exists, further evaluation, including MRI scan preferably with contrast, cerebrospinal  fluid (CSF) testing for JC Viral DNA and repeat neurological assessments, should be considered.
 
 The physician should be particularly alert to symptoms suggestive of PML that the patient may not notice (e.g. cognitive, neurological or psychiatric symptoms). Patients should also be advised to inform their partner or caregivers about their treatment, since they may notice symptoms that the patient is not aware of.
 
@@ -2636,17 +2585,17 @@ If a patient develops PML, the dosing of MabThera must be permanently discontinu
 
 MabThera is associated with infusion/administration-related reactions, which may be related to release of cytokines and/or other chemical mediators. Cytokine release syndrome may be clinically indistinguishable from acute hypersensitivity reactions.
 
-This set of reactions which includes syndrome of cytokine release, tumour lysis syndrome and anaphylactic and hypersensitivity reactions are described below. They are not specifically related to the route of administration of MabThera and can be observed with both formulations.
-
-Severe infusion-related reactions with fatal outcome have been reported during post-marketing use of the MabThera intravenous formulation, with an onset ranging within 30 minutes to 2 hours after starting the first MabThera intravenous infusion. They were characterised by pulmonary events and in  some cases included rapid tumour lysis and features of tumour lysis syndrome in addition to fever, chills, rigors, hypotension, urticaria, angioedema and other symptoms (see section 4.8).
+This set of reactions which includes syndrome of cytokine release, tumour lysis syndrome and anaphylactic and hypersensitivity reactions are described below. They are not specifically related to  the route of administration of MabThera and can be observed with both formulations.
 
 <div style=\"page-break-after: always\"></div>
 
-Severe cytokine release syndrome is characterised by severe dyspnea, often accompanied by bronchospasm and hypoxia, in addition to fever, chills, rigors, urticaria, and angioedema. This syndrome may be associated with some features of tumour lysis syndrome such as hyperuricaemia, hyperkalaemia, hypocalcaemia, hyperphosphaetemia, acute renal failure, elevated lactate dehydrogenase (LDH) and may be associated with acute respiratory failure and death. The acute respiratory failure may be accompanied by events such as pulmonary interstitial infiltration or oedema,  visible on a chest X-ray. The syndrome frequently manifests itself within one or two hours of initiating the first infusion. Patients with a history of pulmonary insufficiency or those with pulmonary tumour infiltration may be at greater risk of poor outcome and should be treated with increased caution.
+Severe infusion-related reactions with fatal outcome have been reported during post-marketing use of the MabThera intravenous formulation, with an onset ranging within 30 minutes to 2 hours after starting the first MabThera intravenous infusion. They were characterised by pulmonary events and in some cases included rapid tumour lysis and features of tumour lysis syndrome in addition to fever, chills, rigors, hypotension, urticaria, angioedema and other symptoms (see section 4.8).
+
+Severe cytokine release syndrome is characterised by severe dyspnea, often accompanied by bronchospasm and hypoxia, in addition to fever, chills, rigors, urticaria, and angioedema. This syndrome may be associated with some features of tumour lysis syndrome such as hyperuricaemia, hyperkalaemia, hypocalcaemia, hyperphosphaetemia, acute renal failure, elevated lactate dehydrogenase (LDH) and may be associated with acute respiratory failure and death. The acute respiratory failure may be accompanied by events such as pulmonary interstitial infiltration or oedema, visible on a chest X-ray. The syndrome frequently manifests itself within one or two hours of initiating the first infusion. Patients with a history of pulmonary insufficiency or those with pulmonary tumour infiltration may be at greater risk of poor outcome and should be treated with increased caution.
 
 Patients who develop severe cytokine release syndrome should have their infusion interrupted immediately (see section 4.2) and should receive aggressive symptomatic treatment. Since initial improvement of clinical symptoms may be followed by deterioration, these patients should be closely monitored until tumour lysis syndrome and pulmonary infiltration have been resolved or ruled out. Further treatment of patients after complete resolution of signs and symptoms has rarely resulted in repeated severe cytokine release syndrome.
 
-Patients with a high tumour burden or with a high number (≥ 25 x 10 9 /L) of circulating malignant cells, such as patients with CLL who may be at higher risk of especially severe cytokine release syndrome, should be treated with extreme caution. These patients should be very closely monitored throughout the first infusion. Consideration should be given to the use of a reduced infusion rate for the first infusion in these patients or a split dosing over two days during the first cycle and any subsequent cycles if the lymphocyte count is still &gt; 25 x 10 9 /L.
+Patients with a high tumour burden or with a high number (≥ 25 x 10 9 /L) of circulating malignant cells,  such as patients with CLL who may be at higher risk of especially severe cytokine release syndrome, should be treated with extreme caution. These patients should be very closely monitored throughout the first infusion. Consideration should be given to the use of a reduced infusion rate for the first infusion in these patients or a split dosing over two days during the first cycle and any subsequent cycles if the lymphocyte count is still &gt; 25 x 10 9 /L.
 
 Anaphylactic and other hypersensitivity reactions have been reported following the intravenous administration of proteins to patients. In contrast to cytokine release syndrome, true hypersensitivity reactions typically occur within minutes after starting infusion. Medicinal products for the treatment of hypersensitivity reactions, e.g., epinephrine (adrenaline), antihistamines and glucocorticoids, should be available for immediate use in the event of an allergic reaction during administration of MabThera. Clinical manifestations of anaphylaxis may appear similar to clinical manifestations of the cytokine release syndrome (described above). Reactions attributed to hypersensitivity have been reported less frequently than those attributed to cytokine release.
 
@@ -2658,9 +2607,9 @@ Infusion-related adverse reactions of all kinds have been observed in 77% of pat
 
 Administration related reactions have been observed in up to 50% of patients treated with MabThera subcutaneous formulation in clinical trials. The reactions occurring within 24 hours of the subcutaneous injection consisted primarily of erythema pruritus, rash and injections site reactions such as pain, swelling and redness and were generally of mild or moderate (grade 1 or 2) and transient nature (see section 4.8).
 
-Local cutaneous reactions were very common in patients receiving MabThera subcutaneous in clinical trials. Symptoms included pain, swelling, induration, haemorrhage, erythema, pruritus and rash (see section 4.8). Some local cutaneous reactions occurred more than 24 hours after the MabThera subcutaneous administration. The majority of local cutaneous reactions seen following administration of MabThera subcutaneous formulation was mild or moderate and resolved without any specific treatment.
-
 <div style=\"page-break-after: always\"></div>
+
+Local cutaneous reactions were very common in patients receiving MabThera subcutaneous in clinical trials. Symptoms included pain, swelling, induration, haemorrhage, erythema, pruritus and rash (see section 4.8). Some local cutaneous reactions occurred more than 24 hours after the MabThera subcutaneous administration. The majority of local cutaneous reactions seen following administration of MabThera subcutaneous formulation was mild or moderate and resolved without any specific treatment.
 
 Before starting MabThera subcutaneous injections, all patients must always receive beforehand, a full dose of MabThera by intravenous infusion, using MabThera intravenous formulation. The highest risk of experiencing an administration related reaction is generally observed at cycle one. Beginning the therapy with MabThera intravenous infusion would allow a better handling of the administration reactions by slowing or stopping the intravenous infusion.
 
@@ -2678,7 +2627,7 @@ Angina pectoris, cardiac arrhythmias such as atrial flutter and fibrillation, he
 
 ## Haematological toxicities
 
-Although MabThera is not myelosuppressive in monotherapy, caution should be exercised when considering treatment of patients with neutrophils &lt; 1.5 x 10 9 /L and/or platelet counts &lt; 75 x 10 9 /L as clinical experience in this population is limited . The MabThera intravenous formulation has been used in 21 patients who underwent autologous bone marrow transplantation and other risk groups with a presumable reduced bone marrow function without inducing myelotoxicity.
+Although MabThera is not myelosuppressive in monotherapy, caution should be exercised when considering treatment of patients with neutrophils &lt; 1.5 x 10 9 /L and/or platelet counts &lt; 75 x 10 9 /L as clinical experience in this population is limited . MabThera has been used in 21 patients who underwent autologous bone marrow transplantation and other risk groups with a presumable reduced bone marrow function without inducing myelotoxicity.
 
 Regular full blood counts, including neutrophil and platelet counts, should be performed during MabThera therapy.
 
@@ -2688,13 +2637,11 @@ Serious infections, including fatalities, can occur during therapy with MabThera
 
 Physicians should exercise caution when considering the use of MabThera in patients with a history of recurring or chronic infections or with underlying conditions which may further predispose patients to serious infection (see section 4.8).
 
-Cases of hepatitis B reactivation have been reported in patients receiving the MabThera intravenous formulation including fulminant hepatitis with fatal outcome. The majority of these patients were also exposed to cytotoxic chemotherapy. Limited information from one study in relapsed/refractory CLL patients suggests that MabThera treatment may also worsen the outcome of primary hepatitis B infections. Hepatitis B virus (HBV) screening should be performed in all patients before initiation of treatment with MabThera. At minimum this should include HBsAg-status and HBcAb-status. These can
-
 <div style=\"page-break-after: always\"></div>
 
-be complemented with other appropriate markers as per local guidelines. Patients with active hepatitis B disease should not be treated with MabThera. Patients with positive hepatitis B serology (either HBsAg or HBcAb) should consult liver disease experts before start of treatment and should be monitored and managed following local medical standards to prevent hepatitis B reactivation.
+Cases of hepatitis B reactivation have been reported in patients receiving MabThera including fulminant hepatitis with fatal outcome. The majority of these patients were also  exposed to cytotoxic chemotherapy. Limited information from one study in relapsed/refractory CLL patients suggests that MabThera treatment may also worsen the outcome of primary hepatitis B infections. Hepatitis B virus (HBV) screening should be performed in all patients before initiation of treatment with MabThera. At minimum this should include HBsAg-status and HBcAb-status. These can be complemented with other appropriate markers as per local guidelines. Patients with active hepatitis B disease should not be treated with MabThera. Patients with positive hepatitis B serology (either HBsAg or HBcAb) should consult liver disease experts before start of treatment and should be monitored and managed following local medical standards to prevent hepatitis B reactivation.
 
-Very rare cases of PML have been reported during post-marketing use of the MabThera intravenous formulation in CLL (see section 4.8). The majority of patients had received rituximab in combination with chemotherapy or as part of a haematopoietic stem cell transplant.
+Very rare cases of PML have been reported during post-marketing use of MabThera in CLL (see section 4.8). The majority of patients had received rituximab in combination  with chemotherapy or as part of a haematopoietic stem cell transplant.
 
 Cases of enteroviral meningoencephalitis including fatalities have been reported following use of rituximab.
 
@@ -2712,11 +2659,17 @@ Mean pre-therapeutic antibody titres against a panel of antigens (Streptococcus 
 
 Severe skin reactions such as Toxic Epidermal Necrolysis (Lyell's Syndrome) and Stevens-Johnson syndrome, some with fatal outcome, have been reported (see section 4.8). In case of such an event, with suspected relationship to MabThera, treatment should be permanently discontinued.
 
+## Excipients
+
+This medicine contains 8.04 mg of polysorbate 80 in each 20 mL vial, which is equivalent to 0.6 mg/mL. Polysorbates may cause allergic reactions.
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Currently, there are limited data on possible drug interactions with MabThera.
 
 In CLL patients, co-administration with MabThera did not appear to have an effect on the pharmacokinetics of fludarabine or cyclophosphamide. In addition, there was no apparent effect of fludarabine and cyclophosphamide on the pharmacokinetics of MabThera.
+
+<div style=\"page-break-after: always\"></div>
 
 Patients with human anti-mouse antibody (HAMA) or anti-drug antibody (ADA) titres may have allergic or hypersensitivity reactions when treated with other diagnostic or therapeutic monoclonal antibodies.
 
@@ -2725,8 +2678,6 @@ Patients with human anti-mouse antibody (HAMA) or anti-drug antibody (ADA) titre
 ## Contraception in males and females
 
 Due to the long retention time of rituximab in B-cell depleted patients, women of childbearing potential must employ effective contraceptive methods during and for 12 months after treatment with MabThera.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -2764,7 +2715,7 @@ In trial SABRINA, severe administrationrelated reactions (grade≥ 3) were repor
 
 In trial SparkThera, no severe administration-related reactions were reported.
 
-In SAWYER (BO25341), severe administrationrelated reactions (Grade ≥ 3) were reported in four patients (5%) following MabThera subcutaneous administration. These events were Grade 4 thrombocytopenia and Grade 3 anxiety, injection-site erythema and urticaria.
+In SAWYER (BO25341), severe administration-related reactions (Grade ≥ 3) were reported in four patients (5%) following MabThera subcutaneous administration. These events were Grade 4 thrombocytopenia and Grade 3 anxiety, injection-site erythema and urticaria.
 
 ## Adverse reactions reported in MabThera intravenous formulation usage
 
@@ -2772,7 +2723,7 @@ In SAWYER (BO25341), severe administrationrelated reactions (Grade ≥ 3) were r
 
 The overall safety profile of MabThera in non-Hodgkin's lymphoma and CLL is based on data from patients from clinical trials and from post-marketing surveillance. These patients were treated either with MabThera monotherapy (as induction treatment or maintenance treatment following induction treatment) or in combination with chemotherapy.
 
-The most frequently observed adverse reactions in patients receiving MabThera were infusion-related reactions which occurred in the majority of patients during the first infusion. The incidence of infusion-related symptoms decreases substantially with subsequent infusions and is less  than 1% after eight doses of MabThera.
+The most frequently observed adverse reactions in patients receiving MabThera were infusion--related reactions which occurred in the majority of patients during the first infusion. The incidence of infusion--related symptoms decreases substantially with subsequent infusions and is less  than 1% after eight doses of MabThera.
 
 Infectious events (predominantly bacterial and viral) occurred in approximately 30-55% of patients during clinical trials in patients with NHL and in 30-50% of patients during clinical trial in patients with CLL.
 
@@ -2792,48 +2743,45 @@ The adverse reactions identified only during post-marketing surveillance, and fo
 
 ## Tabulated list of adverse reactions
 
-Table 1 Adverse reactions reported in clinical trials or during post-marketing surveillance in patients with NHL and CLL disease treated with MabThera monotherapy/maintenance or in combination with chemotherapy
+## Table 1 Adverse reactions reported in clinical trials or during post-marketing surveillance in patients with NHL and CLL disease treated with MabThera monotherapy/maintenance or in combination with chemotherapy
 
-| MedDRA System Organ Class            | Very Common                                                         | Common                                                                                                                                                                                       | Uncommon                                                                      | Rare                      | Very Rare                                                           | Not known                                             |
-|--------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|---------------------------|---------------------------------------------------------------------|-------------------------------------------------------|
-| Infections and infestations          | bacterial infections, viral infections, + bronchitis                | sepsis, + pneumonia, + febrile infection, + herpes zoster, + respiratory tract infection, fungal infections, infections of unknown aetiology, + acute bronchitis, + sinusitis, hepatitis B 1 |                                                                               | serious viral infection 2 |                                                                     | enteroviral meningoenceph alitis 2, 3                 |
-| Blood and lymphatic system disorders | neutropenia, leucopenia, + febrile neutropenia, + thrombocyto penia | anaemia, + pancytopenia, + granulocytopenia                                                                                                                                                  | coagulation disorders, aplastic anaemia, haemolytic anaemia, lymphadenopat hy |                           | transient increase in serum IgM levels 4                            | late neutropenia 4                                    |
-| Immune system disorders              | infusion- related reactions 5 , angioedema                          | hypersensitivity                                                                                                                                                                             |                                                                               | anaphylaxis               | tumour lysis syndrome, cytokine release syndrome 5 , serum sickness | infusion-related acute reversible thrombocytope nia 5 |
-| Metabolism and nutrition disorders   |                                                                     | hyperglycaemia, weight decrease, oedema peripheral, face oedema, increased LDH, hypocalcaemia                                                                                                |                                                                               |                           |                                                                     |                                                       |
-| Psychiatric disorders                |                                                                     |                                                                                                                                                                                              | depression, nervousness                                                       |                           |                                                                     |                                                       |
-| Nervous system disorders             |                                                                     | paraesthesia, hypoaesthesia, agitation, insomnia, vasodilatation, dizziness, anxiety                                                                                                         | dysgeusia                                                                     |                           | peripheral neuropathy, facial nerve palsy 6                         | cranial neuropathy, loss of other senses 6            |
-
-<div style=\"page-break-after: always\"></div>
-
-| MedDRA System Organ Class                            | Very Common                       | Common                                                                                                           | Uncommon                                                                                                                              | Rare                         | Very Rare                                                                                                | Not known         |
-|------------------------------------------------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------|----------------------------------------------------------------------------------------------------------|-------------------|
-| Eye disorders                                        |                                   | lacrimation disorder, conjunctivitis                                                                             |                                                                                                                                       |                              | severe vision loss 6                                                                                     |                   |
-| Ear and labyrinth disorders                          |                                   | tinnitus, ear pain                                                                                               |                                                                                                                                       |                              |                                                                                                          | hearing loss 6    |
-| Cardiac disorders                                    |                                   | + myocardial infarction 5,7 , arrhythmia, + atrial fibrillation, tachycardia, + cardiac disorder                 | + left ventricular failure, + supraventricul ar tachycardia, + ventricular tachycardia, + angina, + myocardial ischaemia, bradycardia | severe cardiac disorders 5,7 | heart failure 5, 7                                                                                       |                   |
-| Vascular disorders                                   |                                   | hypertension, orthostatic hypotension, hypotension                                                               |                                                                                                                                       |                              | vasculitis (predominately cutaneous), leukocytoclastic vasculitis                                        |                   |
-| Respiratory, thoracic and mediastinal disorders      |                                   | bronchospasm 5 , respiratory disease, chest pain, dyspnoea, increased cough, rhinitis                            | asthma, bronchiolitis obliterans, lung disorder, hypoxia                                                                              | interstitial lung disease 8  | respiratory failure 5                                                                                    | lung infiltration |
-| Gastrointestinal disorders                           | nausea                            | vomiting, diarrhoea, abdominal pain, dysphagia, stomatitis, constipation, dyspepsia, anorexia, throat irritation | abdominal enlargement                                                                                                                 |                              | gastro-intestinal perforation 8                                                                          |                   |
-| Skin and subcutaneous tissue disorders               | pruritis, rash, + alopecia        | urticaria, sweating, night sweats, + skin disorder                                                               |                                                                                                                                       |                              | severe bullous skin reactions, Stevens-Johnson Syndrome, toxic epidermal necrolysis (Lyell's Syndrome) 8 |                   |
-| Musculoskeletal and connective tissue disorders      |                                   | hypertonia, myalgia, arthralgia, back pain, neck pain, pain                                                      |                                                                                                                                       |                              |                                                                                                          |                   |
-| Renal and urinary disorders                          |                                   |                                                                                                                  |                                                                                                                                       |                              | renal failure 5                                                                                          |                   |
-| General disorders and administration site conditions | fever, chills, asthenia, headache | tumour pain, flushing, malaise, cold syndrome, + fatigue, + shivering, + multi-organ failure 5                   | infusion site pain                                                                                                                    |                              |                                                                                                          |                   |
+| MedDRA System Organ Class            | Very Common                                                         | Common                                                                                                                                                                                       | Uncommon                                                                      | Rare                                                         | Very Rare                                                           | Not known                                             |
+|--------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------|
+| Infections and infestations          | bacterial infections, viral infections, + bronchitis                | sepsis, + pneumonia, + febrile infection, + herpes zoster, + respiratory tract infection, fungal infections, infections of unknown aetiology, + acute bronchitis, + sinusitis, hepatitis B 1 |                                                                               | serious viral infection 2 , pneumocystis jirovecii pneumonia | progressive multifocal leukoencephalopathy                          | enteroviral meningoenceph alitis 2, 3                 |
+| Blood and lymphatic system disorders | neutropenia, leucopenia, + febrile neutropenia, + thrombocyto penia | anaemia, + pancytopenia, + granulocytopenia                                                                                                                                                  | coagulation disorders, aplastic anaemia, haemolytic anaemia, lymphadenopat hy |                                                              | transient increase in serum IgM levels 4                            | late neutropenia 4                                    |
+| Immune system disorders              | infusion- related reactions 5 , angioedema                          | hypersensitivity                                                                                                                                                                             |                                                                               | anaphylaxis                                                  | tumour lysis syndrome, cytokine release syndrome 5 , serum sickness | infusion-related acute reversible thrombocytope nia 5 |
+| Metabolism and nutrition disorders   |                                                                     | hyperglycaemia, weight decrease, oedema peripheral, face oedema, increased LDH, hypocalcaemia                                                                                                |                                                                               |                                                              |                                                                     |                                                       |
+| Psychiatric disorders                |                                                                     |                                                                                                                                                                                              | depression, nervousness                                                       |                                                              |                                                                     |                                                       |
+| Nervous system disorders             |                                                                     | paraesthesia, hypoaesthesia, agitation, insomnia, vasodilatation, dizziness, anxiety                                                                                                         | dysgeusia                                                                     |                                                              | peripheral neuropathy, facial nerve palsy 6                         | cranial neuropathy, loss of other senses 6            |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA System Organ Class   | Very Common          | Common   | Uncommon   | Rare   | Very Rare   | Not known   |
-|-----------------------------|----------------------|----------|------------|--------|-------------|-------------|
-| Investigations              | decreased IgG levels |          |            |        |             |             |
+| MedDRA System Organ Class                            | Very Common                       | Common                                                                                                           | Uncommon                                                                                                                              | Rare                          | Very Rare                                                                                                 | Not known         |
+|------------------------------------------------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----------------------------------------------------------------------------------------------------------|-------------------|
+| Eye disorders                                        |                                   | lacrimation disorder, conjunctivitis                                                                             |                                                                                                                                       |                               | severe vision loss 6                                                                                      |                   |
+| Ear and labyrinth disorders                          |                                   | tinnitus, ear pain                                                                                               |                                                                                                                                       |                               |                                                                                                           | hearing loss 6    |
+| Cardiac disorders                                    |                                   | + myocardial infarction 5, 7 , arrhythmia, + atrial fibrillation, tachycardia, + cardiac disorder                | + left ventricular failure, + supraventricul ar tachycardia, + ventricular tachycardia, + angina, + myocardial ischaemia, bradycardia | severe cardiac disorders 5, 7 | heart failure 5, 7                                                                                        |                   |
+| Vascular disorders                                   |                                   | hypertension, orthostatic hypotension, hypotension                                                               |                                                                                                                                       |                               | vasculitis (predominately cutaneous), leukocytoclastic vasculitis                                         |                   |
+| Respiratory, thoracic and mediastinal disorders      |                                   | bronchospasm 5 , respiratory disease, chest pain, dyspnoea, increased cough, rhinitis                            | asthma, bronchiolitis obliterans, lung disorder, hypoxia                                                                              | interstitial lung disease 8   | respiratory failure 5                                                                                     | lung infiltration |
+| Gastrointestinal disorders                           | nausea                            | vomiting, diarrhoea, abdominal pain, dysphagia, stomatitis, constipation, dyspepsia, anorexia, throat irritation | abdominal enlargement                                                                                                                 |                               | gastro-intestinal perforation 8                                                                           |                   |
+| Skin and subcutaneous tissue disorders               | pruritis, rash, + alopecia        | urticaria, sweating, night sweats, + skin disorder                                                               |                                                                                                                                       |                               | severe bullous skin reactions, Stevens-Johns on Syndrome, toxic epidermal necrolysis (Lyell's Syndrome) 8 |                   |
+| Musculoskeletal and connective tissue disorders      |                                   | hypertonia, myalgia, arthralgia, back pain, neck pain, pain                                                      |                                                                                                                                       |                               |                                                                                                           |                   |
+| Renal and urinary disorders                          |                                   |                                                                                                                  |                                                                                                                                       |                               | renal failure 5                                                                                           |                   |
+| General disorders and administration site conditions | fever, chills, asthenia, headache | tumour pain, flushing, malaise, cold syndrome, + fatigue, + shivering,                                           | infusion site pain                                                                                                                    |                               |                                                                                                           |                   |
+
+<div style=\"page-break-after: always\"></div>
+
+| MedDRA System Organ Class   | Very Common          | Common                  | Uncommon   | Rare   | Very Rare   | Not known   |
+|-----------------------------|----------------------|-------------------------|------------|--------|-------------|-------------|
+|                             |                      | + multi-organ failure 5 |            |        |             |             |
+| Investigations              | decreased IgG levels |                         |            |        |             |             |
 
 For each term, the frequency count was based on reactions of all grades (from mild to severe), except for terms marked with  \"+\" where the frequency count was based only on severe (≥ grade 3 NCI common toxicity criteria). Only the highest frequency observed in the trials is reported
 
-1  includes reactivation and primary infections; frequency based on R-FC regimen in relapsed/refractory CLL
-
-2 see also section infection below
-
-3 observed during post-marketing surveillance
-
-4  see also section haematologic adverse reactions below
-
+- 1  includes reactivation and primary infections; frequency based on R-FC regimen in relapsed/refractory CLL
+- 2 see also section infection below
+- 3 observed during post-marketing surveillance
+- 4  see also section haematologic adverse reactions below
 - 5 see also section infusion-related reactions below. Rarely fatal cases reported
 - 6  signs and symptoms of cranial neuropathy. Occurred at various times up to several months after completion of MabThera therapy
 - 7  observed mainly in patients with prior cardiac condition and/or cardiotoxic chemotherapy and were mostly associated with infusion-related reactions
@@ -2849,11 +2797,9 @@ Signs and symptoms suggestive of an infusion-related reaction were reported in m
 
 MabThera induces B-cell depletion in about 70-80% of patients, but was associated with decreased serum immunoglobulins only in a minority of patients.
 
-Localised candida infections as well as Herpes zoster were reported at a higher incidence in the MabThera-containing arm of randomised studies. Severe infections were reported in about 4% of patients treated with MabThera monotherapy. Higher frequencies of infections overall, including grade 3 or 4 infections, were observed during MabThera maintenance treatment up to 2 years when compared to observation. There was no cumulative toxicity in terms of infections reported over a 2-year treatment period. In addition, other serious viral infections either new, reactivated or exacerbated, some of which were fatal, have been reported with MabThera treatment. The majority of patients had received MabThera in combination with chemotherapy or as part of a haematopoietic stem  cell transplant. Examples of these serious viral infections are infections caused by the herpes viruses (Cytomegalovirus, Varicella Zoster Virus and Herpes Simplex Virus), JC virus (PML), enterovirus (meningoencephalitis) and hepatitis C virus (see section 4.4.). Cases of fatal PML that occurred after disease progression and retreatment have also been reported in clinical trials. Cases of hepatitis B reactivation, have been reported, the majority of which were in patients receiving MabThera in combination with cytotoxic chemotherapy. In patients with relapsed/refractory CLL, the incidence of grade 3/4 hepatitis B infection (reactivation and primary infection) was 2% in R-FC vs 0% in FC. Progression of Kaposi's sarcoma has been observed in MabThera-exposed patients with
+Localised candida infections as well as Herpes zoster were reported at a higher incidence in the MabThera-containing arm of randomised studies. Severe infections were reported in about 4% of patients treated with MabThera monotherapy. Higher frequencies of infections overall, including grade 3 or 4 infections, were observed during MabThera maintenance treatment up to 2 years when compared to observation. There was no cumulative toxicity in terms of infections reported over a 2-year treatment period. In addition, other serious viral infections either new, reactivated or exacerbated, some of which were fatal, have been reported with MabThera treatment. The majority of patients had received MabThera in combination with chemotherapy or as part of a haematopoietic stem  cell transplant. Examples of these serious viral infections are infections caused by the herpes viruses (Cytomegalovirus, Varicella Zoster Virus and Herpes Simplex Virus), JC virus (PML), enterovirus (meningoencephalitis) and hepatitis C virus (see section 4.4.). Cases of fatal PML that occurred after disease progression and retreatment have also been reported in clinical trials. Cases of hepatitis B reactivation, have been reported, the majority of which were in patients receiving MabThera in combination with cytotoxic chemotherapy. In patients with relapsed/refractory CLL, the incidence of grade 3/4 hepatitis B infection (reactivation and primary infection) was 2% in R-FC vs 0% in FC. Progression of Kaposi's sarcoma has been observed in MabThera-exposed patients with pre-existing Kaposi's sarcoma. These cases occurred in   non-approved indications and the majority of patients were HIV positive.
 
 <div style=\"page-break-after: always\"></div>
-
-pre-existing Kaposi's sarcoma. These cases occurred in   non-approved indications and the majority of patients were HIV positive.
 
 ## Haematologic adverse reactions
 
@@ -2863,13 +2809,15 @@ In studies of MabThera in patients with Waldenstrom's macroglobulinaemia, transi
 
 ## Cardiovascular adverse reactions
 
-Cardiovascular reactions during clinical trials with MabThera monotherapy were reported in 18.8% of patients with the most frequently reported events being hypotension and hypertension. Cases of grade 3 or 4 arrhythmia (including ventricular and supraventricular tachycardia) and angina pectoris during infusion were reported. During maintenance treatment, the incidence of grade 3/4 cardiac disorders was comparable between patients treated with MabThera and observation. Cardiac events were reported as serious adverse reactions (including atrial fibrillation, myocardial infarction, left ventricular failure, myocardial ischemia) in 3% of patients treated with MabThera compared to &lt; 1% on observation. In studies evaluating MabThera in combination with chemotherapy, the incidence of grade 3 and 4 cardiac arrhythmias, predominantly supraventricular arrhythmias such as tachycardia and atrial flutter/fibrillation, was higher in the R-CHOP group (14 patients, 6.9%) as compared to the CHOP group (3 patients, 1.5%). All of these arrhythmias either occurred in the context of a MabThera   infusion or were associated with predisposing conditions such as fever, infection, acute myocardial infarction or pre-existing respiratory and cardiovascular disease. No difference between the R-CHOP and CHOP group was observed in the incidence of other grade 3 and 4 cardiac events including heart failure, myocardial disease and manifestations of coronary artery disease. In CLL, the overall incidence of grade 3 or 4 cardiac disorders was low both in the first-line study (4% R-FC, 3% FC) and in the relapsed/refractory study (4% R-FC, 4% FC).
+Cardiovascular reactions during clinical trials with MabThera monotherapy were reported in 18.8% of patients with the most frequently reported events being hypotension and hypertension. Cases of grade 3 or 4 arrhythmia (including ventricular and supraventricular tachycardia) and angina pectoris during infusion were reported. During maintenance treatment, the incidence of grade 3/4 cardiac disorders was comparable between patients treated with MabThera and observation. Cardiac events were reported as serious adverse reactions (including atrial fibrillation, myocardial infarction, left ventricular failure, myocardial ischemia) in 3% of patients treated with MabThera compared to &lt; 1% on observation. In studies evaluating MabThera in combination with chemotherapy, the incidence of grade 3 and 4 cardiac arrhythmias, predominantly supraventricular arrhythmias such as tachycardia and atrial flutter/fibrillation, was higher in the R-CHOP group (14 patients, 6.9%) as compared to the CHOP group (3 patients, 1.5%). All of these arrhythmias either occurred in the context of a MabThera   infusion or were associated with predisposing conditions such as fever, infection, acute myocardial infarction or pre-existing respiratory and cardiovascular disease. No difference between the R-CHOP and CHOP group was observed in the incidence of other grade 3 and 4 cardiac events including heart failure, myocardial disease and manifestations of coronary artery disease. In CLL, the overall incidence of grade
+
+<div style=\"page-break-after: always\"></div>
+
+3 or 4 cardiac disorders was low both in the first-line study (4% R-FC, 3% FC) and in the relapsed/refractory study (4% R-FC, 4% FC).
 
 ## Respiratory system
 
 Cases of interstitial lung disease, some with fatal outcome have been reported.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Neurologic disorders
 
@@ -2903,13 +2851,11 @@ There was a higher incidence of grade 3/4 adverse reactions in patients with bul
 
 The percentage of patients reporting adverse reactions upon re-treatment with further courses of MabThera was similar to the percentage of patients reporting adverse reactions upon initial exposure (any grade and grade 3/4 adverse reactions).
 
-## Patient subpopulations - MabThera combination therapy
-
-## Elderly (65 years and above)
-
-The incidence of grade 3/4 blood and lymphatic adverse events was higher in elderly patients compared to younger patients (below 65 years), with previously untreated or relapsed/refractory CLL.
+Patient subpopulations - MabThera combination therapy Elderly (65 years and above)
 
 <div style=\"page-break-after: always\"></div>
+
+The incidence of grade 3/4 blood and lymphatic adverse events was higher in elderly patients compared to younger patients (below 65 years), with previously untreated or relapsed/refractory CLL.
 
 ## Reporting of suspected adverse reactions
 
@@ -2943,13 +2889,11 @@ CD20 is found on both normal and malignant B-cells, but not on haematopoietic st
 
 The Fab domain of rituximab binds to the CD20 antigen on B lymphocytes and the Fc domain can recruit immune effector functions to mediate B-cell lysis. Possible mechanisms of effector-mediated cell lysis include complement-dependent cytotoxicity (CDC) resulting from C1q binding, and antibody-dependent cellular cytotoxicity (ADCC) mediated by one or more of the Fc γ receptors on the surface of granulocytes, macrophages and NK cells. Rituximab binding to CD20 antigen on B lymphocytes has also been demonstrated to induce cell death via apoptosis.
 
-## Pharmacodynamic effects
-
-Peripheral B-cell counts declined below normal following completion of the first dose of MabThera. In patients treated for haematological malignancies, B-cell recovery began within 6 months of treatment and
-
 <div style=\"page-break-after: always\"></div>
 
-generally returned to normal levels within 12 months after completion of therapy, although in some patients this may take longer (up to a median recovery time of 23 months post-induction therapy). In rheumatoid arthritis patients, immediate depletion of B-cells in the peripheral blood was observed following two infusions of 1000 mg MabThera separated by a 14 day interval. Peripheral blood B-cell counts begin to increase from Week 24 and evidence for repopulation is observed in the majority of patients by Week 40, whether MabThera was administered as monotherapy or in combination with methotrexate.
+## Pharmacodynamic effects
+
+Peripheral B-cell counts declined below normal following completion of the first dose of MabThera. In patients treated for haematological malignancies, B-cell recovery began within 6 months of treatment and generally returned to normal levels within 12 months after completion of therapy, although in some patients this may take longer (up to a median recovery time of 23 months post-induction therapy). In rheumatoid arthritis patients, immediate depletion of B-cells in the peripheral blood was observed following two infusions of 1000 mg MabThera separated by a 14 day interval. Peripheral blood B-cell counts begin to increase from Week 24 and evidence for repopulation is observed in the majority of patients by Week 40, whether MabThera was administered as monotherapy or in combination with methotrexate.
 
 ## Clinical efficacy and safety
 
@@ -2968,25 +2912,23 @@ The response rates for the analysis of 176 patients in SAWYER Part 2 are shown i
 
 Table 2 Efficacy results for SAWYER (BO25341) (Intent to Treat Population)
 
-|       |                | Part 2 N=176                               | Part 2 N=176                                |
+|       |                | Part 2 N = 176                             | Part 2 N = 176                              |
 |-------|----------------|--------------------------------------------|---------------------------------------------|
 |       |                | Rituximab intravenous formulation (n = 88) | Rituximab subcutaneous formulation (n = 88) |
 | ORR a | Point estimate | 80.7% (n = 71)                             | 85.2% (n = 75)                              |
 | ORR a | 95% CI         | [70.9%, 88.3%]                             | [76.1%, 91.9%]                              |
-| CRR a | Point estimate | 31.8% (n = 28)                             | 27.3% (n = 24)                              |
-| CRR a | 95% CI         | [22.3%, 42.6%]                             | [18.3%, 37.8%]                              |
+|       | Point estimate | 31.8% (n = 28)                             | 27.3% (n = 24)                              |
 
 <div style=\"page-break-after: always\"></div>
 
-|       |                           | Part 2 N=176                               | Part 2 N=176                                |
+|       |                           | Part 2 N = 176                             | Part 2 N = 176                              |
 |-------|---------------------------|--------------------------------------------|---------------------------------------------|
 |       |                           | Rituximab intravenous formulation (n = 88) | Rituximab subcutaneous formulation (n = 88) |
+| CRR a | 95% CI                    | [22.3%, 42.6%]                             | [18.3%, 37.8%]                              |
 | PFS b | Proportion with PFS event | 42.0% (n = 37)                             | 34.1% (n = 30)                              |
 | PFS b | 95% CI                    | 0.76 [0.47%, 1.23%]                        | 0.76 [0.47%, 1.23%]                         |
 
-ORR - Overall Response Rate
-
-CRR - Complete Response Rate
+ORR - Overall Response Rate CRR - Complete Response Rate
 
 PFS - Progression-Free Survival (proportion with event, disease progression/relapse or death from any cause)
 
@@ -3010,7 +2952,9 @@ In the first-line study, after a median observation time of 48.1 months, the med
 
 <div style=\"page-break-after: always\"></div>
 
-Table 2a First-line treatment of chronic lymphocytic leukaemia Overview of efficacy results for MabThera plus FC vs. FC alone - 48.1 months median observation time
+Table 2a First-line treatment of chronic lymphocytic leukaemia
+
+## Overview of efficacy results for MabThera plus FC vs. FC alone - 48.1 months median observation time
 
 | Efficacy Parameter                  | Kaplan-Meier Estimate of Median Time to Event (Months)   | Kaplan-Meier Estimate of Median Time to Event (Months)   | Kaplan-Meier Estimate of Median Time to Event (Months)   | Risk Reduction   |
 |-------------------------------------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|------------------|
@@ -3018,8 +2962,8 @@ Table 2a First-line treatment of chronic lymphocytic leukaemia Overview of effic
 | Progression --- free survival (PFS) | 32.8                                                     | 55.3                                                     | < 0.0001                                                 | 45%              |
 | Overall survival                    | NR                                                       | NR                                                       | 0.0319                                                   | 27%              |
 | Event free survival                 | 31.3                                                     | 51.8                                                     | < 0.0001                                                 | 44%              |
-| Response rate (CR, nPR, or PR)      | 72.6%                                                    | 85.8%                                                    | < 0.0001                                                 | n.a. n.a.        |
-| CR rates                            | 16.9%                                                    | 36.0%                                                    | < 0.0001                                                 |                  |
+| Response rate (CR, nPR, or PR)      | 72.6%                                                    | 85.8%                                                    | < 0.0001                                                 | n.a.             |
+| CR rates                            | 16.9%                                                    | 36.0%                                                    | < 0.0001                                                 | n.a.             |
 | Duration of response*               | 36.2                                                     | 57.3                                                     | < 0.0001                                                 | 44%              |
 | Disease free survival (DFS)**       | 48.9                                                     | 60.3                                                     | 0.0520                                                   | 31%              |
 | Time to new treatment               | 47.2                                                     | 69.7                                                     | < 0.0001                                                 | 42%              |
@@ -3054,22 +2998,16 @@ Table 3 Treatment of relapsed/refractory chronic lymphocytic leukaemia -overview
 | Overall survival                   | 51.9                                                      | NR                                                        | 0.2874                                                    | 17%              |
 | Event free survival                | 19.3                                                      | 28.7                                                      | 0.0002                                                    | 36%              |
 | Response rate (CR, nPR, or PR)     | 58.0%                                                     | 69.9%                                                     | 0.0034                                                    | n.a.             |
-| CR rates                           | 13.0%                                                     | 24.3%                                                     | 0.0007                                                    | n.a.             |
-| Duration of response *             | 27.6                                                      | 39.6                                                      | 0.0252                                                    | 31%              |
 
 <div style=\"page-break-after: always\"></div>
 
 | Efficacy Parameter            | Kaplan--Meier Estimate of Median Time to Event (Months)   | Kaplan--Meier Estimate of Median Time to Event (Months)   | Kaplan--Meier Estimate of Median Time to Event (Months)   | Risk Reduction   |
 |-------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|------------------|
 |                               | FC (N = 276)                                              | R--FC (N=276)                                             | Log--Rank p value                                         |                  |
+| CR rates                      | 13.0%                                                     | 24.3%                                                     | 0.0007                                                    | n.a.             |
+| Duration of response *        | 27.6                                                      | 39.6                                                      | 0.0252                                                    | 31%              |
 | Disease free survival (DFS)** | 42.2                                                      | 39.6                                                      | 0.8842                                                    | -- 6%            |
 | Time to new CLL treatment     | 34.2                                                      | NR                                                        | 0.0024                                                    | 35%              |
-
-Response rate and CR rates analysed using Chi--squared Test.
-
-*: only applicable to patients achieving a CR, nPR, PR;
-
-**: only applicable to patients achieving a CR;
 
 Results from other supportive studies using MabThera in combination with other chemotherapy regimens (including CHOP, FCM, PC, PCM, bendamustine and cladribine) for the treatment of previously untreated and/or relapsed/refractory CLL patients have also demonstrated high overall response rates with benefit in terms of PFS rates, albeit with modestly higher toxicity (especially myelotoxicity). These studies support the use of MabThera with any chemotherapy. Data in approximately 180 patients pre-treated with MabThera have demonstrated clinical benefit (including CR) and are supportive for MabThera re-treatment.
 
@@ -3081,9 +3019,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## Absorption
 
-MabThera at a fixed dose of 1600 mg was administered for 5 cycles subcutaneously at 4-weekly intervals, following the first cycle of MabThera intravenous formulation, in previously untreated CLL  patients in combination with chemotherapy (fludarabine and cyclophosphamide (FC). The serum MabThera Cmax at Cycle 6 was lower in the subcutaneous arm than the intravenous, with geometric mean (CV%) values of 202 (36.1) μg/mL and 280 (24.6) μg/mL with the resulting geometric mean ratio (Cmax, SC/Cmax, IV) of 0.719 (90% CI: 0.653, 0.792). The geometric mean tmax in the MabThera subcutaneous group was approximately 3 days as compared to the tmax occurring at or close to the end of the infusion for the MabThera intravenous group. The geometric mean Ctrough (CV%) values at Cycle 5 (pre-dose Cycle 6) were higher among the MabThera subcutaneous group than the MabThera  intravenous group; 97.5 µ g/mL (42.6) versus 61.5 µ g/mL (63.9) respectively with a resulting adjusted  geometric mean ratio [90% CI] of 1.53 [1.27-1.85]. Similarly, the geometric mean AUC (CV%) values at Cycle 6 were higher among the subcutaneous group than the intravenous group; 4088 µg · day/mL (34.2) versus 3630 µg · day/mL (32.8) respectively) with a resulting adjusted geometric mean ratio [90% CI] of 1.10 [0.98-1.24].
-
-Based on popPK analysis of study BO25341 (SAWYER) an absolute bioavailability of 68.4% was estimated.
+MabThera at a fixed dose of 1600 mg was administered for 5 cycles subcutaneously at 4-weekly intervals, following the first cycle of MabThera intravenous formulation, in previously untreated CLL  patients in combination with chemotherapy (fludarabine and cyclophosphamide (FC). The serum MabThera Cmax at Cycle 6 was lower in the subcutaneous arm than the intravenous, with geometric mean (CV%) values of 202 (36.1) μg/mL and 280 (24.6) μg/mL with the resulting geometric mean ratio (Cmax, SC/Cmax, IV) of 0.719 (90% CI: 0.653, 0.792). The geometric mean tmax in the MabThera subcutaneous group was approximately 3 days as compared to the tmax occurring at or close to the end of the infusion for the MabThera intravenous group. The geometric mean Ctrough (CV%) values at Cycle 5 (pre-dose Cycle 6) were higher among the MabThera subcutaneous group than the MabThera  intravenous group; 97.5 µ g/mL (42.6) versus 61.5 µ g/mL (63.9) respectively with a resulting adjusted  geometric mean ratio [90% CI] of 1.53 [1.27-1.85]. Similarly, the geometric mean AUC (CV%) values at Cycle 6 were higher among the subcutaneous group than the intravenous group; 4088 µg · day/mL (34.2) versus 3630 µg · day/mL (32.8) respectively) with a resulting adjusted geometric mean ratio [90% CI] of 1.10 [0.98-1.24]. Based on popPK analysis of study BO25341 (SAWYER) an absolute bioavailability of 68.4% was estimated.
 
 ## Distribution/Elimination
 
@@ -3091,15 +3027,15 @@ The estimated half-life of MabThera subcutaneous formulation of 1600 mg is 30 da
 
 ## Special populations
 
-As typical for monoclonal antibodies, rituximab PK parameters depended on body size measures. All clearance and volume parameters increased with BSA. In addition, central volume was slightly (9%) lower in females compared to males. Absorption parameters of subcutaneous formulation, decreased with increasing BMI. Conditional simulations that summarised the impact of all body size dependencies on rituximab exposure demonstrated that, while fixed subcutaneous dosing leads to larger differences in exposure (Ctrough and AUC τ ) between subjects with low and high body sizes compared to
+NR: not reached
 
-NR: not reached n.a. not applicable
+n.a. not applicable
 
 <div style=\"page-break-after: always\"></div>
 
-body-weight-adjusted intravenous dosing, it allows to maintain Ctrough and AUC τ values for all body-size groups at the levels not lower than levels attained by intravenous dosing, thus achieving at least the same target saturation as for intravenous dosing. For subjects weighing &gt; 90 kg,  Ctrough values were the same for the intravenous and subcutaneous regimens. For subjects weighing 60-90 kg and &lt; 60 kg, average Ctrough values following intravenous dosing were approximately 16% and 34% lower compared to the subcutaneous regimen, respectively. Similarly, for subjects in the high BSA tritile, Ctrough values were the same for the intravenous and subcutaneous regimens. For subjects in the middle and low BSA tritiles, average Ctrough values following intravenous dosing were approximately 12% and 26% lower compared to the subcutaneous regimen.
+As typical for monoclonal antibodies, rituximab PK parameters depended on body size measures. All clearance and volume parameters increased with BSA. In addition, central volume was slightly (9%) lower in females compared to males. Absorption parameters of subcutaneous formulation, decreased with increasing BMI. Conditional simulations that summarised the impact of all body size dependencies on rituximab exposure demonstrated that, while fixed subcutaneous dosing leads to larger differences in exposure (Ctrough and AUC τ ) between subjects with low and high body sizes compared to body-weight-adjusted intravenous dosing, it allows to maintain Ctrough and AUC τ values for all body-size groups at the levels not lower than levels attained by intravenous dosing, thus achieving at least the same target saturation as for intravenous dosing. For subjects weighing &gt; 90 kg,  Ctrough values were the same for the intravenous and subcutaneous regimens. For subjects weighing 60-90 kg and &lt; 60 kg, average Ctrough values following intravenous dosing were approximately 16% and 34% lower compared to the subcutaneous regimen, respectively. Similarly, for subjects in the high BSA tritile, Ctrough values were the same for the intravenous and subcutaneous regimens. For subjects in the middle and low BSA tritiles, average Ctrough values following intravenous dosing were approximately 12% and 26% lower compared to the subcutaneous regimen.
 
-In addition to dependence on body size, time-dependent clearance was higher in subjects with higher baseline  tumour  size,  which  is  consistent  with  target-mediated  elimination.  Higher  time-dependent clearance in subjects with higher disease burden would lead to lower initial exposure and longer time needed to achieve the same exposure as in subjects with lower burden of the disease.
+In addition to dependence on body size, time-dependent clearance was higher in subjects with higher baseline tumour size, which is consistent with target-mediated elimination. Higher time-dependent clearance in subjects with higher disease burden would lead to lower initial exposure and longer time needed to achieve the same exposure as in subjects with lower burden of the disease.
 
 ## 5.3 Preclinical safety data
 
@@ -3117,13 +3053,13 @@ In embryofoetal developmental studies in mice, rHuPH20 caused reduced foetal wei
 
 ## 6.1 List of excipients
 
-Recombinant human hyaluronidase (rHuPH20) L-histidine L-histidine hydrochloride monohydrate α , α -trehalose dihydrate L-methionine Polysorbate 80 (E433) Water for injections
+Recombinant human hyaluronidase (rHuPH20) Histidine Histidine hydrochloride monohydrate α , α -trehalose dihydrate Methionine Polysorbate 80 (E433) Water for injections
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.2 Incompatibilities
 
 No incompatibilities between MabThera subcutaneous formulation and polypropylene or polycarbonate syringe material or stainless steel transfer and injection needles and polyethylene Luer cone stoppers have been observed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
@@ -3160,21 +3096,29 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+<div style=\"page-break-after: always\"></div>
+
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/98/067/004
 
-<div style=\"page-break-after: always\"></div>
+9.
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 2 June 1998
 
 Date of latest renewal: 20 May 2008
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu/en.
+DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+
+101
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3203,7 +3147,7 @@ Roche Pharma AG Emil-Barell-Str. 1 79639 Grenzach-Wyhlen Germany
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
-Medicinal product subject to restricted medical prescription (See Annex I: Summary of Product Characteristics, section 4.2).
+Medicinal product subject to restricted medical prescription (See Annex I: Summary of Product  Characteristics, section 4.2).
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
@@ -3234,7 +3178,7 @@ The MAH must ensure that all physicians who are expected to prescribe MabThera a
 
 Product information Patient Alert card
 
-The Patient Alert Card for MabThera in non-oncology indications should contain the following key elements:
+The Patient Alert Card for MabThera in non-oncology indications should contain the following key  elements:
 
 - The need to carry the card at all times and to show the card to all treating healthcare   professionals
 - Warning on the risk of infections and PML, including the symptoms
@@ -3244,9 +3188,7 @@ The Patient Alert Card must be agreed with the National Competent Authorities pr
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX III
-
-## LABELLING AND PACKAGE LEAFLET
+## ANNEX III LABELLING AND PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3268,7 +3210,7 @@ MabThera 100 mg concentrate for solution for infusion rituximab
 
 ## 3. LIST OF EXCIPIENTS
 
-Sodium citrate, polysorbate 80, sodium chloride, sodium hydroxide, hydrochloric acid, water for injections.
+Sodium citrate, polysorbate 80, sodium chloride, sodium hydroxide, hydrochloric acid, water for   injections.
 
 Read the leaflet for further information.
 
@@ -3302,54 +3244,58 @@ Store in a refrigerator. Do not freeze. Keep the vial in the outer carton, in or
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+## 10.  SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
 EU/1/98/067/001
-
-## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
-
 Justification for not including Braille accepted
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER -- HUMAN READABLE DATA
+PC
 
-PC SN
+SN
 
 NN
 
+## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+## 12.  MARKETING AUTHORISATION NUMBER(S)
+
+## 13.  BATCH NUMBER
+
+## 14.  GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+## 18.  UNIQUE IDENTIFIER -- HUMAN READABLE DATA
+
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
-|------------------------------------------------------------|
-| VIAL LABEL                                                 |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S)OFADMINISTRATION   |
-|------|--------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 MabThera 100 mg concentrate for solution for infusion rituximab IV
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 For intravenous use after dilution
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3. EXPIRY DATE   |
+|------------------|
 
 EXP
 
@@ -3358,8 +3304,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|-------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 Vial of 10 mL (10 mg/mL) 100 mg / 10 mL
 
@@ -3416,64 +3362,57 @@ Store in a refrigerator. Do not freeze. Keep the vial in the outer carton, in or
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-| 11.   | NAMEANDADDRESSOFTHEMARKETINGAUTHORISATIONHOLDER   |
-|-------|---------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
-| 12. MARKETINGAUTHORISATIONNUMBER(S)   |
-|---------------------------------------|
-
 EU/1/98/067/002
-
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
 
 Lot
 
-| 14.   | GENERALCLASSIFICATIONFORSUPPLY   |
-|-------|----------------------------------|
-
-| 15.   | INSTRUCTIONSONUSE   |
-|-------|---------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
-
 Justification for not including Braille accepted
 
-| 17. UNIQUE IDENTIFIER-2DBARCODE   |
-|-----------------------------------|
-
 2D barcode carrying the unique identifier included.
-
-| 18.   | UNIQUE IDENTIFIER--HUMANREADABLEDATA   |
-|-------|----------------------------------------|
 
 PC SN
 
 NN
 
+## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+## 12.  MARKETING AUTHORISATION NUMBER(S)
+
+## 13.  BATCH NUMBER
+
+## 14.  GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+## 18.  UNIQUE IDENTIFIER -- HUMAN READABLE DATA
+
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
-|------------------------------------------------------------|
-| VIAL LABEL                                                 |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S)OFADMINISTRATION   |
-|------|--------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 MabThera 500 mg concentrate for solution for infusion rituximab IV
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 For intravenous use after dilution
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -3482,8 +3421,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
-|------|-------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 Vial of 50 mL (10 mg/mL) 500 mg / 50 mL
 
@@ -3508,13 +3447,13 @@ MabThera 1400 mg solution for subcutaneous injection rituximab
 
 Recombinant human hyaluronidase (rHuPH20)
 
-L-histidine
+Histidine
 
-L-histidine hydrochloride monohydrate
+Histidine hydrochloride monohydrate
 
 α , α -trehalose dihydrate
 
-L-methionine
+Methionine
 
 Polysorbate 80
 
@@ -3544,45 +3483,45 @@ Keep out of the sight and reach of children
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
-## 9. SPECIAL STORAGE CONDITIONS
-
 Store in a refrigerator. Do not freeze.
 
 Keep the vial in the outer carton, in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
 Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/98/067/003
 
-## 13. BATCH NUMBER
-
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+Justification for not including Braille accepted.
+
+2D barcode carrying the unique identifier included.
+
+PC
+
+SN
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+## 10.  SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+## 12.  MARKETING AUTHORISATION NUMBER(S)
+
+## 13.  BATCH NUMBER
+
+## 14.  GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
-Justification for not including Braille accepted.
-
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included.
+## 18.  UNIQUE IDENTIFIER -- HUMAN READABLE DATA
 
-## 18. UNIQUE IDENTIFIER -- HUMAN READABLE DATA
-
-PC
-
-SN
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -3592,17 +3531,29 @@ NN
 
 VIAL LABEL
 
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
 MabThera 1400 mg solution for subcutaneous injection rituximab
 
 subcutaneous
 
+## 2. METHOD OF ADMINISTRATION
+
 Only for subcutaneous use
+
+## 3. EXPIRY DATE
 
 EXP
 
+## 4. BATCH NUMBER
+
 Lot
 
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
 1,400 mg/11.7 mL
+
+## 6. OTHER
 
 ## Information to appear on Peel-off sticker
 
@@ -3611,18 +3562,6 @@ Lot MabThera 1400 mg rituximab
 1,400 mg/11.7 mL
 
 SC for Non-Hodgkin's Lymphoma
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
-
-## 2. METHOD OF ADMINISTRATION
-
-## 3. EXPIRY DATE
-
-## 4. BATCH NUMBER
-
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
-
-## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3642,13 +3581,13 @@ MabThera 1600 mg solution for subcutaneous injection rituximab
 
 Recombinant human hyaluronidase (rHuPH20)
 
-L-histidine
+Histidine
 
-L-histidine hydrochloride monohydrate
+Histidine hydrochloride monohydrate
 
 α , α -trehalose dihydrate
 
-L-methionine
+Methionine
 
 Polysorbate 80
 
@@ -3696,45 +3635,57 @@ PC
 
 SN
 
+NN
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10.  SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+## 11.  NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+## 12.  MARKETING AUTHORISATION NUMBER(S)
 
-## 13. BATCH NUMBER
+## 13.  BATCH NUMBER
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14.  GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER -- HUMAN READABLE DATA
+## 18.  UNIQUE IDENTIFIER -- HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
-
-NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-## VIAL LABEL
+VIAL LABEL
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 MabThera 1600 mg solution for subcutaneous injection rituximab subcutaneous
 
+## 2. METHOD OF ADMINISTRATION
+
 Only for subcutaneous use
+
+## 3. EXPIRY DATE
 
 EXP
 
+## 4. BATCH NUMBER
+
 Lot
 
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
 1,600 mg/13.4 mL
+
+## 6. OTHER
 
 ## Information to appear on Peel-off sticker
 
@@ -3743,18 +3694,6 @@ Lot MabThera 1600 mg rituximab
 1,600 mg/13.4 mL
 
 SC for Chronic Lymphocytic Leukaemia
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
-
-## 2. METHOD OF ADMINISTRATION
-
-## 3. EXPIRY DATE
-
-## 4. BATCH NUMBER
-
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
-
-## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3836,7 +3775,7 @@ Please talk to your doctor or nurse if you have any questions about the informat
 
 - Keep this leaflet. You may need to read it again.
 - If you have any further questions, ask your doctor, pharmacist or nurse.
-- If you get any side effects talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- If you get any side effects talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4
 
 ## What is in this leaflet
 
@@ -3891,14 +3830,12 @@ Granulomatosis with polyangiitis and microscopic polyangiitis are two forms of i
 
 MabThera is used for the treatment of patients with moderate to severe pemphigus vulgaris. Pemphigus vulgaris is an autoimmune condition that causes painful blisters on the skin and lining of the mouth, nose, throat and genitals.
 
-## 2. What you need to know before you are given MabThera
-
-## Do not have MabThera if :
+## 2. What you need to know before you are given MabThera Do not have MabThera if:
 
 - you are allergic to rituximab, other proteins which are like rituximab, or any of the other ingredients of this medicine (listed in section 6)
 - you have a severe active infection at the moment
-- you have a weak immune system.
-- you have severe heart failure or severe uncontrolled heart disease and have rheumatoid arthritis, granulomatosis with polyangiitis, microscopic polyangiitis or pemphigus vulgaris.
+- you have a weak immune system
+- you have severe heart failure or severe uncontrolled heart disease and have rheumatoid arthritis, granulomatosis with polyangiitis, microscopic polyangiitis or pemphigus vulgaris
 
 Do not have MabThera if any of the above apply to you. If you are not sure, talk to your doctor, pharmacist or nurse before you are given MabThera.
 
@@ -3906,10 +3843,12 @@ Do not have MabThera if any of the above apply to you. If you are not sure, talk
 
 Talk to your doctor, pharmacist or nurse before you are given MabThera if:
 
-- you have ever had or might now have a hepatitis infection. This is because in a few cases, MabThera could cause hepatitis B to become active again, which can be fatal in very rare cases. Patients who have ever had hepatitis B infection will be carefully checked by their doctor for signs of this infection
+- you have ever had or might now have a hepatitis infection. This is because in a few cases, MabThera could cause hepatitis B to become active again, which can be fatal in very rare cases. Patients who have ever had hepatitis B infection will be carefully checked by their doctor for signs of this infection.
 - you have ever had heart problems (such as angina, palpitations or heart failure) or breathing problems.
 
 If any of the above apply to you (or you are not sure), talk to your doctor, pharmacist or nurse before you are given MabThera. Your doctor may need to take special care of you during your treatment with MabThera.
+
+This medicine contains 7.0 mg of polysorbate 80 in each 10 mL vial and 35 mg of polysorbate 80 in each 50 mL vial, which is equivalent to 0.7 mg/mL. polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 Also talk to your doctor if you think you may need any vaccinations in the near future, including vaccinations needed to travel to other countries. Some vaccines should not be given at the same time as MabThera or in the months after you receive MabThera. Your doctor will check if you should have any vaccines before you receive MabThera.
 
@@ -3978,7 +3917,11 @@ Before you are given MabThera, you will be given other medicines (pre-medication
 
 ## a) If you are being treated for non-Hodgkin's lymphoma
 
-- If you are having MabThera alone MabThera will be given to you once a week for 4 weeks. Repeated treatment courses with MabThera are possible.
+- ·
+- If you are having MabThera alone
+
+MabThera will be given to you once a week for 4 weeks. Repeated treatment courses with MabThera are possible.
+
 - If you are having MabThera with chemotherapy
 
 MabThera will be given to you on the same day as your chemotherapy. This is usually given every 3 weeks up to 8 times.
@@ -4000,9 +3943,9 @@ Treatment with MabThera uses four separate infusions given at weekly intervals. 
 
 If you are 18 years of age and older and respond well to treatment, you may be given MabThera as a maintenance treatment. This will be administered as 2 separate infusions which are given 2 weeks apart, followed by 1 infusion every 6 months for at least 2 years. Your doctor may decide to treat you longer with MabThera (up to 5 years), depending on how you respond to the medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## e) If you are being treated for pemphigus vulgaris
+
+<div style=\"page-break-after: always\"></div>
 
 Each course of treatment is made up of two separate infusions which are given 2 weeks apart. If you respond well to treatment, you may be given MabThera as a maintenance treatment. This will be administered 1 year and 18 months after the initial treatment and then every 6 months as needed or your doctor may change this, depending on how you respond to the medicine.
 
@@ -4022,9 +3965,9 @@ During or within the first 24 hours of the infusion you may develop fever, chill
 
 ## Tell your doctor immediately if you or your child gets signs of an infection including:
 
-- fever, cough, sore throat, burning pain when passing urine or feeling weak or generally unwell,
-- memory loss, trouble thinking, difficulty walking or sight loss - these may be due to a very rare, serious brain infection, which has been fatal (Progressive Multifocal Leukoencephalopathy or PML),
-- fever, headache and stiff neck, incoordination (ataxia), personality change, hallucinations, altered consciousness, seizures or coma - these may be due to a serious brain infection (enteroviral meningoencephalitis), which can be fatal.
+- fever, cough, sore throat, burning pain when passing urine, or feeling weak or generally unwell
+- memory loss, trouble thinking, difficulty walking or sight loss - these may be due to a very rare, serious brain infection, which has been fatal (Progressive Multifocal Leukoencephalopathy or PML)
+- fever, headache and stiff neck, incoordination (ataxia), personality change, hallucinations, altered consciousness, seizures or coma - these may be due to a serious brain infection (enteroviral meningoencephalitis), which can be fatal
 
 You might get infections more easily during your treatment with MabThera. These are often colds, but there have been cases of pneumonia, urinary infections and serious viral infections. These are listed below under 'Other side effects'.
 
@@ -4034,73 +3977,73 @@ If you are being treated for rheumatoid arthritis, granulomatosis with polyangii
 
 Very rarely, severe blistering skin conditions that can be life-threatening may occur. Redness, often associated with blisters, may appear on the skin or on mucous membranes, such as inside the mouth, the genital areas or the eyelids, and fever may be present. Tell your doctor immediately if you experience any of these symptoms.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Other side effects include:
 
-## a) If you or your child are being treated for non-Hodgkin's lymphoma or chronic lymphocytic leukaemia
+- a) If you or your child are being treated for non-Hodgkin's lymphoma or chronic lymphocytic leukaemia
+
+<div style=\"page-break-after: always\"></div>
 
 ## Very common side effects (may affect more than 1 in 10 people):
 
-- bacterial or viral infections, bronchitis,
-- low number of white blood cells, with or without fever or blood cells called 'platelets',
-- feeling sick (nausea),
-- bald spots on the scalp, chills, headache,
-- lower immunity - because of lower levels of anti-bodies called 'immunoglobulins' (IgG) in the blood which help protect against infection.
+- bacterial or viral infections, bronchitis
+- low number of white blood cells, with or without fever or blood cells called 'platelets'
+- feeling sick (nausea)
+- bald spots on the scalp, chills, headache
+- lower immunity - because of lower levels of anti-bodies called 'immunoglobulins' (IgG) in the blood which help protect against infection
 
 ## Common side effects (may affect up to 1 in 10 people):
 
-- infections of the blood (sepsis), pneumonia, shingles, cold, bronchial tube infections, fungal infections, infections of unknown origin, sinus inflammation, hepatitis B,
-- low number of red blood cells (anaemia), low number of all blood cells,
-- allergic reactions (hypersensitivity),
-- high blood sugar level, weight loss, swelling in the face and body, high levels of the enzyme 'LDH' in the blood, low calcium levels in the blood,
-- unusual feelings of the skin - such as numbness, tingling, pricking, burning, a creeping skin feeling, reduced sense of touch,
-- feeling restless, problems falling asleep,
-- becoming very red in the face and other areas of the skin as a consequence of dilation of the blood vessels,
-- feeling dizzy or anxious,
-- producing more tears, tear duct problems, inflamed eye (conjunctivitis),
-- ringing sound in the ears, ear pain,
-- heart problems - such as heart attack, uneven or fast heart rate,
-- high or low blood pressure (low blood pressure especially when standing upright),
-- tightening of the muscles in the airways which causes wheezing (bronchospasm), inflammation, irritation in the lungs, throat or sinuses, being short of breath, runny nose,
-- being sick (vomiting), diarrhoea, pain in the stomach, irritation or ulcers in the throat and mouth, problems swallowing, constipation, indigestion,
-- eating disorders, not eating enough, leading to weight loss,
-- hives, increased sweating, night sweats,
-- muscle problems - such as tight muscles, joint or muscle pain, back and neck pain,
-- tumour pain,
-- general discomfort or feeling uneasy or tired, shaking, signs of flu,
-- multiple-organ failure.
+- infections of the blood (sepsis), pneumonia, shingles, cold, bronchial tube infections, fungal infections, infections of unknown origin, sinus inflammation, hepatitis B
+- low number of red blood cells (anaemia), low number of all blood cells
+- allergic reactions (hypersensitivity)
+- high blood sugar level, weight loss, swelling in the face and body, high levels of the enzyme 'LDH' in the blood, low calcium levels in the blood
+- unusual feelings of the skin - such as numbness, tingling, pricking, burning, a creeping skin feeling, reduced sense of touch
+- feeling restless, problems falling asleep
+- becoming very red in the face and other areas of the skin as a consequence of dilation of the blood vessels
+- feeling dizzy or anxious
+- producing more tears, tear duct problems, inflamed eye (conjunctivitis)
+- ringing sound in the ears, ear pain
+- heart problems - such as heart attack, uneven or fast heart rate
+- high or low blood pressure (low blood pressure especially when standing upright)
+- tightening of the muscles in the airways which causes wheezing (bronchospasm), inflammationirritation in the lungs, throat or sinuses, being short of breath, runny nose
+- being sick (vomiting), diarrhoea, pain in the stomach, irritation or ulcers in the throat and mouth, problems swallowing, constipation, indigestion
+- eating disorders, not eating enough, leading to weight loss
+- hives, increased sweating, night sweats
+- muscle problems - such as tight muscles, joint or muscle pain, back and neck pain
+- tumour pain
+- general discomfort or feeling uneasy or tired, shaking, signs of flu
+- multiple-organ failure
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
-- blood clotting problems, decrease of red blood cell production and increase of red blood cell destruction (aplastic haemolytic anaemia), swollen or enlarged lymph nodes,
-- low mood and loss of interest or enjoyment in doing things, feeling nervous,
-- taste problems - such as changes in the way things taste,
-- heart problems - such as reduced heart rate or chest pain (angina),
-- asthma, too little oxygen reaching the body organs,
-- swelling of the stomach.
+- blood clotting problems, decrease of red blood cell production and increase of red blood cell destruction (aplastic haemolytic anaemia), swollen or enlarged lymph nodes
+- low mood and loss of interest or enjoyment in doing things, feeling nervous
+- taste problems - such as changes in the way things taste
+- heart problems - such as reduced heart rate or chest pain (angina)
+- asthma, too little oxygen reaching the body organs
+- swelling of the stomach
 
 ## Very rare side effects (may affect up to 1 in 10, 000 people):
 
-- short term increase in the amount of some types of anti-bodies in the blood (called immunoglobulins - IgM), chemical disturbances in the blood caused by break-down of dying cancer cells,
-- nerve damage in arms and legs, paralysed face,
-- heart failure,
+- short term increase in the amount of some types of anti-bodies in the blood (called immunoglobulins - IgM), chemical disturbances in the blood caused by break-down of dying cancer cells
+- nerve damage in arms and legs, paralysed face
+- heart failure
+- inflammation of blood vessels including those leading to skin symptoms
+- respiratory failure
+- damage to the intestinal wall (perforation)
 
 <div style=\"page-break-after: always\"></div>
 
-- inflammation of blood vessels including those leading to skin symptoms,
-- respiratory failure,
-- damage to the intestinal wall (perforation),
-- severe skin problems causing blisters that can be life-threatening. Redness, often associated with blisters, may appear on the skin or on mucous membranes, such as inside the mouth, the genital areas or the eyelids, and fever may be present,
-- kidney failure,
-- severe vision loss.
+- severe skin problems causing blisters that can be life-threatening. Redness, often associated with blisters, may appear on the skin or on mucous membranes, such as inside the mouth, the genital areas or the eyelids, and fever may be present
+- kidney failure
+- severe vision loss
 
 ## Not known (it is not known how often these side effects happen):
 
-- a reduction in white blood cells which does not happen straight away,
-- reduced platelets number just after the infusion - this can be reversed, but can be fatal in rare cases,
-- hearing loss, loss of other senses,
-- brain and meningeal infection/inflammation (enteroviral meningoencephalitis).
+- a reduction in white blood cells which does not happen straight away
+- reduced platelets number just after the infusion - this can be reversed, but can be fatal in rare cases
+- hearing loss, loss of other senses
+- brain and meningeal infection/inflammation (enteroviral meningoencephalitis)
 
 ## Children and adolescents with non-Hodgkin's lymphoma:
 
@@ -4110,89 +4053,90 @@ In general, side effects in children and adolescents with non-Hodgkin's lymphoma
 
 ## Very common side effects (may affect more than 1 in 10 people):
 
-- infections such as pneumonia (bacterial),
-- pain on passing water (urinary tract infection),
-- allergic reactions that are most likely to occur during an infusion, but can occur up-to 24-hours after infusion,
-- changes in blood pressure, nausea, rash, fever, feeling itchy, runny or blocked nose and sneezing, shaking, rapid heart beat, and tiredness,
-- headache,
-- changes in laboratory tests carried out by your doctor. These include a decrease in the amount of some specific proteins in the blood (immunoglobulins) which help protect against infection.
+- infections such as pneumonia (bacterial)
+- pain on passing water (urinary tract infection)
+- allergic reactions that are most likely to occur during an infusion, but can occur up-to 24-hours after infusion
+- changes in blood pressure, nausea, rash, fever, feeling itchy, runny or blocked nose and sneezing, shaking, rapid heart beat, and tiredness
+- headache
+- changes in laboratory tests carried out by your doctor. These include a decrease in the amount of some specific proteins in the blood (immunoglobulins) which help protect against infection
 
 ## Common side effects (may affect up to 1 in 10 people):
 
-- infections such as bronchial tube inflammation (bronchitis),
-- a feeling of fullness or a throbbing pain behind the nose, cheeks and eyes (sinusitis), pain in the abdomen, vomiting and diarrhoea, breathing problems,
-- fungal foot infection (athlete's foot),
-- high cholesterol levels in the blood,
-- abnormal sensations of the skin, such as numbness, tingling, pricking or burning, sciatica, migraine, dizziness,
-- loss of hair,
-- anxiety, depression,
-- indigestion, diarrhoea, acid reflux, irritation and /or ulceration of the throat and the mouth,
-- pain in the tummy, back, muscles and/or joints.
+- infections such as bronchial tube inflammation (bronchitis)
+- a feeling of fullness or a throbbing pain behind the nose, cheeks and eyes (sinusitis), pain in the abdomen, vomiting and diarrhoea, breathing problems
+- fungal foot infection (athlete's foot)
+- high cholesterol levels in the blood
+- abnormal sensations of the skin, such as numbness, tingling, pricking or burning, sciatica, migraine, dizziness
+- loss of hair
+- anxiety, depression
+- indigestion, diarrhoea, acid reflux, irritation and /or ulceration of the throat and the mouth
+- pain in the tummy, back, muscles and/or joints
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
-- excess fluid retention in the face and body,
-- inflammation, irritation and / or tightness of the lungs, and throat, coughing,
-- skin reactions including hives, itching and rash,
-- allergic reactions including wheezing or shortness of breath, swelling of the face and tongue, collapse.
-
-<div style=\"page-break-after: always\"></div>
+- excess fluid retention in the face and body
+- inflammation, irritation and / or tightness of the lungs, and throat, coughing
+- skin reactions including hives, itching and rash
+- allergic reactions including wheezing or shortness of breath, swelling of the face and tonguecollapse
 
 ## Very rare side effects (may affect up to 1 in 10, 000 people):
 
-- a complex of symptoms occurring within a few weeks of an infusion of MabThera including allergic like reactions such as rash, itching, joint pain, swollen lymph glands and fever,
-- severe blistering skin conditions that can be life-threatening. Redness, often associated with blisters, may appear on the skin or on mucous membranes, such as inside the mouth, the genital areas or the eyelids, and fever may be present.
+- a complex of symptoms occurring within a few weeks of an infusion of MabThera including allergic like reactions such as rash, itching, joint pain, swollen lymph glands and fever
+
+<div style=\"page-break-after: always\"></div>
+
+- severe blistering skin conditions that can be life-threatening. Redness, often associated with blisters, may appear on the skin or on mucous membranes, such as inside the mouth, the genital areas or the eyelids, and fever may be present
 
 ## Not known (frequency cannot be estimated from the available data):
 
-- serious viral infection,
-- brain and meningeal infection/inflammation (enteroviral meningoencephalitis).
+- serious viral infection
+- brain and meningeal infection/inflammation (enteroviral meningoencephalitis)
 
-Other rarely reported side effects due to MabThera include a decreased number of white cells in the blood (neutrophils) that help to fight against infection. Some infections may be severe (please see information on Infections within this section).
+Other rarely reported side effects due to MabThera include a decreased number of white cells in the  blood (neutrophils) that help to fight against infection. Some infections may be severe (please see information on Infections within this section).
 
 ## c) If you or your child are being treated for granulomatosis with polyangiitis or microscopic polyangiitis
 
 ## Very common side effects (may affect more than 1 in 10 people):
 
-- infections, such as chest infections, urinary tract infections (pain on passing water), colds and herpes infections,
-- allergic reactions that are most likely to occur during an infusion, but can occur up-to 24-hours after infusion,
-- diarrhoea,
-- coughing or shortness of breath,
-- nose bleeds,
-- raised blood pressure,
-- painful joints or back,
-- muscle twitches or shakiness,
-- feeling dizzy,
-- tremors (shakiness, often in the hands),
-- difficulty sleeping (insomnia),
-- swelling of the hands or ankles.
+- infections, such as chest infections, urinary tract infections (pain on passing water), colds and herpes infections
+- allergic reactions that are most likely to occur during an infusion, but can occur up-to 24-hours after infusion
+- diarrhoea
+- coughing or shortness of breath
+- nose bleeds
+- raised blood pressure
+- painful joints or back
+- muscle twitches or shakiness
+- feeling dizzy
+- tremors (shakiness, often in the hands)
+- difficulty sleeping (insomnia)
+- swelling of the hands or ankles
 
 ## Common side effects (may affect up to 1 in 10 people):
 
-- indigestion,
-- constipation,
-- skin rashes, including acne or spots,
-- flushing or redness of the skin,
-- fever,
-- blocked or runny nose,
-- tight or painful muscles,
-- pain in the muscles or in the hands or feet,
-- low number of red blood cells (anaemia),
-- low numbers of platelets in the blood,
-- an increase in the amount of potassium in the blood,
-- changes in the rhythm of the heart, or the heart beating faster than normal.
+- indigestion
+- constipation
+- skin rashes, including acne or spots
+- flushing or redness of the skin
+- fever
+- blocked or runny nose
+- tight or painful muscles
+- pain in the muscles or in the hands or feet
+- low number of red blood cells (anaemia)
+- low numbers of platelets in the blood
+- an increase in the amount of potassium in the blood
+- changes in the rhythm of the heart, or the heart beating faster than normal
 
 ## Very rare side effects (may affect up to 1 in 10, 000 people):
 
-- severe blistering skin conditions that can be life-threatening. Redness, often associated with blisters, may appear on the skin or on mucous membranes, such as inside the mouth, the genital areas or the eyelids, and fever may be present,
-- recurrence of a previous Hepatitis B infection.
-
-<div style=\"page-break-after: always\"></div>
+- severe blistering skin conditions that can be life-threatening. Redness, often associated with blisters, may appear on the skin or on mucous membranes, such as inside the mouth, the genital areas or the eyelids, and fever may be present
+- recurrence of a previous Hepatitis B infection
 
 ## Not known (frequency cannot be estimated from the available data):
 
-- serious viral infection,
-- brain and meningeal infection/inflammation (enteroviral meningoencephalitis).
+- serious viral infection
+- brain and meningeal infection/inflammation (enteroviral meningoencephalitis)
+
+<div style=\"page-break-after: always\"></div>
 
 ## Children and adolescents with granulomatosis with polyangiitis or microscopic polyangiitis
 
@@ -4202,28 +4146,28 @@ In general, side effects in children and adolescents with granulomatosis with po
 
 ## Very common side effects (may affect more than 1 in 10 people):
 
-- allergic reactions that are most likely to occur during an infusion, but can occur up to 24 hours after infusion,
-- headache,
-- infections such as chest infections,
-- long lasting depression,
-- loss of hair.
+- allergic reactions that are most likely to occur during an infusion, but can occur up to 24 hours after infusion
+- headache
+- infections such as chest infections
+- long lasting depression
+- loss of hair
 
 ## Common side effects (may affect up to 1 in 10 people):
 
-- infections such as common cold, herpes infections, eye infection, oral thrush and urinary tract infections (pain on passing urine),
-- mood disorders such as irritability and depression,
-- skin disorders such as itching, hives, and benign lumps,
-- feeling tired or dizzy,
-- fever,
-- painful joints or back,
-- pain in the tummy,
-- pain in the muscles,
-- heart beating faster than normal.
+- infections such as common cold, herpes infections, eye infection, oral thrush and urinary tract infections (pain on passing urine)
+- mood disorders such as irritability and depression
+- skin disorders such as itching, hives, and benign lumps
+- feeling tired or dizzy
+- fever
+- painful joints or back
+- pain in the tummy
+- pain in the muscles
+- heart beating faster than normal
 
 ## Not known (frequency cannot be estimated from the available data):
 
-- serious viral infection,
-- brain and meningeal infection/inflammation (enteroviral meningoencephalitis).
+- serious viral infection
+- brain and meningeal infection/inflammation (enteroviral meningoencephalitis)
 
 MabThera may also cause changes in laboratory tests carried out by your doctor.
 
@@ -4241,22 +4185,24 @@ Do not use this medicine after the expiry date which is stated on the carton aft
 
 Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
-
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
 ## What MabThera contains
 
 - The active substance is rituximab. The 10 mL vial contains 100 mg of rituximab (10 mg/mL). The 50 mL vial contains 500 mg of rituximab (10 mg/mL).
-- The other ingredients are sodium citrate, polysorbate 80, sodium chloride, sodium hydroxide, hydrochloric acid and water for injections. See section 2 'MabThera contains sodium'.
+- The other ingredients are sodium citrate (E 331), polysorbate 80 (E 433), sodium chloride, sodium hydroxide (E 524),  hydrochloric acid (E 507) and water for injections. See section 2 'MabThera contains sodium'.
 
 ## What MabThera looks like and contents of the pack
 
-MabThera is a clear, colourless solution, supplied as a concentrate for solution for infusion.
+MabThera 100 mg concentrate for solution for infusion is a clear to opalescent, colourless to pale yellow liquid, supplied in a colourless glass vial with a fluororesin laminate rubber stopper with aluminium over seal and a red plastic flip-off cap.
 
 10 mL vial - Pack of 2 vials
+
+MabThera 500 mg concentrate for solution for infusion is a clear to opalescent, colourless to pale yellow liquid, supplied in a colourless glass vial with a fluororesin laminate rubber stopper with aluminium over seal and a grey plastic flip-off cap.
 
 50 mL vial - Pack of 1 vial
 
@@ -4268,13 +4214,25 @@ Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 Roche Pharma AG Emil-Barell-Str. 1 79639 Grenzach-Wyhlen Germany
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+For any information about this medicine, please contact the local representative of the Marketing  Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-N.V. Roche S.A.
+Luxembourg/Luxemburg N.V. Roche S.A. België/Belgique/Belgien
 
 Tél/Tel: +32 (0) 2 525 82 11
+
+## Latvija
+
+Roche Latvija SIA Tel: +371 - 6 7039831
+
+## България
+
+Рош България ЕООД
+
+Тел:
+
++359 2 474 5444
 
 ## Lietuva
 
@@ -4283,18 +4241,6 @@ UAB 'Roche
 Lietuva'  Tel: +370 5
 
 2546799
-
-## България
-
-Рош България ЕООД
-
-Тел
-
-: +359 2 474 5444
-
-## Luxembourg/Luxemburg
-
-(Voir/siehe Belgique/Belgien)
 
 ## Česká republika
 
@@ -4308,15 +4254,13 @@ Roche (Magyarország)
 
 Kft.  Tel: +36 - 1 279 4500
 
+<div style=\"page-break-after: always\"></div>
+
 ## Danmark
 
 Roche Pharmaceuticals A/S
 
 Tlf: +45 - 36 39 99 99
-
-## Malta
-
-(See Ireland)
 
 ## Deutschland
 
@@ -4324,21 +4268,17 @@ Roche Pharma AG
 
 Tel: +49 (0) 7624 140
 
-## Nederland
-
-Roche Nederland B.V. Tel: +31 (0) 348 438050
-
-<div style=\"page-break-after: always\"></div>
-
 ## Eesti
 
 Roche Eesti OÜ
 
 Tel: + 372 - 6 177 380
 
-## Ελλάδα
+## Ελλάδα, Kύπρος
 
 Roche (Hellas) A.E.
+
+Ελλάδα
 
 Τηλ:
 
@@ -4362,11 +4302,13 @@ Roche d.o.o.
 
 Tel: + 385 1 47 22 333
 
-## Ireland
+## Ireland, Malta
 
-Roche Products (Ireland)
+Roche Products (Ireland) Ltd.
 
-Ltd.  Tel: +353 (0) 1 469 0700
+Ireland/L-Irlanda
+
+Tel: +353 (0) 1 469 0700
 
 ## Ísland
 
@@ -4384,25 +4326,21 @@ Roche S.p.A.
 
 Tel: +39 - 039 2471
 
-## K ύπρος
-
-Roche (Hellas) A.E.
-
-Τηλ: +30 210 61 66 100
-
-## Latvija
-
-Roche Latvija SIA
-
-Tel: +371 - 6
-
-7039831
-
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu/en.
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu/
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
+
+## Nederland
+
+Roche Nederland B.V.
+
+Tel: +31 (0) 348
+
+438000
 
 ## Norge
 
@@ -4412,7 +4350,11 @@ Tlf: +47 - 22 78 90 00
 
 ## Österreich
 
-Roche Austria GmbH  Tel: +43 (0) 1 27739
+Roche Austria
+
+GmbH  Tel: +43 (0) 1
+
+27739
 
 ## Polska
 
@@ -4432,17 +4374,21 @@ Lda  Tel: +351 - 21 425 70 00
 
 Roche România
 
-S.R.L.  Tel: +40 21 206
+S.R.L.  Tel: +40 21
 
-47 01
+206 47 01
 
 ## Slovenija
 
-Roche farmacevtska družba d.o.o.  Tel: +386 - 1 360 26 00
+Roche farmacevtska družba
+
+d.o.o.  Tel: +386 - 1 360 26 00
 
 ## Slovenská republika
 
-Roche Slovensko, s.r.o.  Tel: +421 - 2
+Roche Slovensko,
+
+s.r.o.  Tel: +421 - 2
 
 52638201
 
@@ -4458,23 +4404,19 @@ Roche AB
 
 Tel: +46 (0) 8 726 1200
 
-## United Kingdom (Northern Ireland)
-
-Roche Products (Ireland) Ltd.
-
-Tel: +44 (0) 1707 366000
-
 ## Package leaflet: Information for the patient
 
 <div style=\"page-break-after: always\"></div>
 
-## MabThera 1400 mg solution for subcutaneous injection rituximab
+## MabThera 1400 mg solution for subcutaneous injection
+
+## rituximab
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
 - Keep this leaflet. You may need to read it again.
 - If you have any further questions, ask your doctor, pharmacist or nurse.
-- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4
 
 ## What is in this leaflet
 
@@ -4507,18 +4449,18 @@ After this, you will be given MabThera as an injection under your skin. Your doc
 
 In patients where the treatment is working, MabThera may be used as a maintenance treatment for 2 years after completing the initial treatment.
 
-## 2. W hat you need to know before you are given MabThera
+## 2. What you need to know before you are given MabThera
 
 ## Do not have MabThera if:
 
 - you are allergic to rituximab, other proteins which are like rituximab, or any of the other ingredients of this medicine (listed in section 6)
 - you are allergic to hyaluronidase (an enzyme that helps to increase the absorption of injected active substance)
 - you have a severe active infection at the moment
-- you have a weak immune system.
+- you have a weak immune system
 
 <div style=\"page-break-after: always\"></div>
 
-Do not have MabThera if any of the above apply to you. If you are not sure, talk to your doctor, pharmacist or nurse before you are given MabThera.
+Do not have MabThera if any of the above apply to you. If you are not sure, talk to your doctor,  pharmacist or nurse before you are given MabThera.
 
 ## Warnings and precautions
 
@@ -4528,6 +4470,8 @@ Talk to your doctor, pharmacist or nurse before you are given MabThera if:
 - you have ever had heart problems (such as angina, palpitations or heart failure) or breathing problems.
 
 If any of the above apply to you (or you are not sure), talk to your doctor, pharmacist or nurse before you are given MabThera. Your doctor may need to take special care of you during your treatment with MabThera.
+
+This medicine contains 7.02 mg of polysorbate 80 in each 15 mL vial, which is equivalent to 0.6 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
 Also talk to your doctor if you think you may need any vaccinations in the near future, including vaccinations needed to travel to other countries. Some vaccines should not be given at the same time as MabThera or in the months after you receive MabThera. Your doctor will check if you should have any vaccines before you receive MabThera.
 
@@ -4542,7 +4486,7 @@ Tell your doctor, pharmacist or nurse if you are taking, have recently taken or 
 In particular, tell your doctor:
 
 - if you are taking medicines for high blood pressure. You may be asked not to take these other medicines 12 hours before you are given MabThera. This is because some people have a fall in their blood pressure while they are being given MabThera
-- if you have ever taken medicines which affect your immune system - such as chemotherapy or immune-suppressive medicines.
+- if you have ever taken medicines which affect your immune system - such as chemotherapy or immune-suppressive medicines
 
 If any of the above apply to you (or you are not sure), talk to your doctor, pharmacist or nurse before you are given MabThera.
 
@@ -4552,13 +4496,13 @@ You must tell your doctor or nurse if you are pregnant, think that you might be 
 
 If you can get pregnant, you and your partner must use an effective method of contraception while using MabThera. You must also do this for 12 months after your last treatment with MabThera.
 
+<div style=\"page-break-after: always\"></div>
+
 MabThera passes into breast milk in very small amounts. As the long-term effects on breastfed infants are not known, for precautionary reasons, breast-feeding is not recommended during treatment with MabThera and for 6 months after the treatment.
 
 ## Driving and using machines
 
 It is not known whether MabThera has an effect on you being able to drive or use any tools or machines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## MabThera contains sodium
 
@@ -4601,16 +4545,15 @@ Many patients get some local side effects where MabThera is injected. These incl
 
 Your doctor may decide to stop your MabThera treatment if these reactions are serious.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Infections
 
 ## Tell your doctor immediately if you get signs of an infection including:
 
-- fever, cough, sore throat, burning pain when passing urine or feeling weak or generally unwell,
-- memory loss, trouble thinking, difficulty walking or sight loss - these may be due to a very rare, serious brain infection, which has been fatal (Progressive Multifocal Leukoencephalopathy or PML),
-
-<div style=\"page-break-after: always\"></div>
-
-- fever, headache and stiff neck, incoordination (ataxia), personality change, hallucinations, altered consciousness, seizures or coma - these may be due to a serious brain infection (enteroviral meningoencephalitis), which can be fatal.
+- fever, cough, sore throat, burning pain when passing urine or feeling weak or generally unwell
+- memory loss, trouble thinking, difficulty walking or sight loss - these may be due to a very rare, serious brain infection, which has been fatal (Progressive Multifocal Leukoencephalopathy or PML)
+- fever, headache and stiff neck, incoordination (ataxia), personality change, hallucinations, altered consciousness, seizures or coma - these may be due to a serious brain infection (enteroviral meningoencephalitis), which can be fatal
 
 You might get infections more easily during your treatment with MabThera. These are often colds, but there have been cases of pneumonia or urinary infections. These are listed below under 'Other side effects'.
 
@@ -4618,64 +4561,66 @@ You might get infections more easily during your treatment with MabThera. These 
 
 ## Very common side effects (may affect more than 1 in 10 people):
 
-- bacterial or viral infections, bronchitis,
-- low number of white blood cells with or without fever or blood cells called 'platelets',
-- feeling sick (nausea),
-- bald spots on the scalp, chills, headache,
-- lower immunity - because of lower levels of anti-bodies called 'immunoglobulins' (IgG) in the blood which help protect against infection.
+- bacterial or viral infections, bronchitis
+- low number of white blood cells with or without fever or blood cells called 'platelets'
+- feeling sick (nausea)
+- bald spots on the scalp, chills, headache
+- lower immunity - because of lower levels of anti-bodies called 'immunoglobulins' (IgG) in the blood which help protect against infection
 
 ## Common side effects (may affect up to 1 in 10 people):
 
-- infections of the blood (sepsis), pneumonia, shingles, cold, bronchial tube infections, fungal infections, infections of unknown origin, sinus inflammation, hepatitis B,
-- low number of red blood cells (anaemia), low number of all blood cells,
-- allergic reactions (hypersensitivity),
-- high blood sugar level, weight loss, swelling in the face and body, high levels of the enzyme 'LDH' in the blood, low calcium levels in the blood,
-- unusual feelings of the skin - such as numbness, tingling, pricking, burning, a creeping skin feeling, reduced sense of touch,
-- feeling restless, problems falling asleep,
-- becoming very red in the face and other areas of the skin as a consequence of dilation of the blood vessels,
-- feeling dizzy or anxious,
-- producing more tears, tear duct problems, inflamed eye (conjunctivitis),
-- ringing sound in the ears, ear pain,
-- heart problems - such as heart attack, uneven or fast heart rate,
-- high or low blood pressure (low blood pressure especially when standing upright),
-- tightening of the muscles in the airways which causes wheezing (bronchospasm), inflammation, irritation in the lungs, throat or sinuses, being short of breath, runny nose,
-- being sick (vomiting), diarrhoea, pain in the stomach, irritation or ulcers in the throat and mouth, problems swallowing, constipation, indigestion,
-- eating disorders, not eating enough, leading to weight loss,
+- infections of the blood (sepsis), pneumonia, shingles, cold, bronchial tube infections, fungal infections, infections of unknown origin, sinus inflammation, hepatitis B
+- low number of red blood cells (anaemia), low number of all blood cells
+- allergic reactions (hypersensitivity)
+- high blood sugar level, weight loss, swelling in the face and body, high levels of the enzyme 'LDH' in the blood, low calcium levels in the blood
+- unusual feelings of the skin - such as numbness, tingling, pricking, burning, a creeping skin feeling, reduced sense of touch
+- feeling restless, problems falling asleep
+- becoming very red in the face and other areas of the skin as a consequence of dilation of the blood vessels
+- feeling dizzy or anxious
+- producing more tears, tear duct problems, inflamed eye (conjunctivitis)
+- ringing sound in the ears, ear pain
+- heart problems - such as heart attack, uneven or fast heart rate
+- high or low blood pressure (low blood pressure especially when standing upright)
+- tightening of the muscles in the airways which causes wheezing (bronchospasm), inflammation, irritation in the lungs, throat or sinuses, being short of breath, runny nose
+- being sick (vomiting), diarrhoea, pain in the stomach, irritation or ulcers in the throat and mouth, problems swallowing, constipation, indigestion
+- eating disorders, not eating enough, leading to weight loss
 - hives, increased sweating, night sweats,
-- muscle problems - such as tight muscles, joint or muscle pain, back and neck pain,
-- tumour pain,
-- general discomfort or feeling uneasy or tired, shaking, signs of flu,
-- multiple-organ failure.
+- muscle problems - such as tight muscles, joint or muscle pain, back and neck pain
+- tumour pain
+- general discomfort or feeling uneasy or tired, shaking, signs of flu
+- multiple-organ failure
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
-- blood clotting problems, decrease of red blood cell production and increase of red blood cell destruction (aplastic haemolytic anaemia), swollen or enlarged lymph nodes,
-- low mood and loss of interest or enjoyment in doing things, feeling nervous,
-- taste problems - such as changes in the way things taste,
-- heart problems - such as reduced heart rate or chest pain (angina),
-- asthma, too little oxygen reaching the body organs,
-- swelling of the stomach.
+- blood clotting problems, decrease of red blood cell production and increase of red blood cell destruction (aplastic haemolytic anaemia), swollen or enlarged lymph nodes
 
 <div style=\"page-break-after: always\"></div>
 
+- low mood and loss of interest or enjoyment in doing things, feeling nervous
+- taste problems - such as changes in the way things taste
+- heart problems - such as reduced heart rate or chest pain (angina)
+- asthma, too little oxygen reaching the body organs
+- swelling of the stomach
+
 ## Very rare side effects (may affect up to 1 in 10, 000 people):
 
-- short term increase in the amount of some types of anti-bodies in the blood (called immunoglobulins - IgM), chemical disturbances in the blood caused by break-down of dying cancer cells,
-- nerve damage in arms and legs, paralysed face,
-- heart failure,
-- inflammation of blood vessels including those leading to skin symptoms,
-- respiratory failure,
-- damage to the intestinal wall (perforation),
-- severe skin problems causing blisters that can be life-threatening,
-- kidney failure,
-- severe vision loss (sign of brain nerves damage).
+- short term increase in the amount of some types of anti-bodies in the blood (called immunoglobulins - IgM), chemical disturbances in the blood caused by break-down of dying cancer cells
+- nerve damage in arms and legs, paralysed face
+- heart failure
+- inflammation of blood vessels including those leading to skin symptoms
+- ·
+- respiratory failure
+- damage to the intestinal wall (perforation)
+- severe skin problems causing blisters that can be life-threatening
+- kidney failure
+- severe vision loss (sign of brain nerves damage)
 
 ## Not known (it is not known how often these side effects happen):
 
-- a reduction in white blood cells which does not happen straight away,
-- reduced platelets number just after the infusion - this can be reversed, but can be fatal in rare cases,
-- hearing loss, loss of other senses,
-- brain and meningeal infection/inflammation (enteroviral meningoencephalitis).
+- a reduction in white blood cells which does not happen straight away
+- reduced platelets number just after the infusion - this can be reversed, but can be fatal in rare cases
+- hearing loss, loss of other senses
+- brain and meningeal infection/inflammation (enteroviral meningoencephalitis)
 
 MabThera may also cause changes in laboratory tests carried out by your doctor.
 
@@ -4695,18 +4640,16 @@ Store in a refrigerator (2 °C to 8 °C). Do not freeze. Keep the vial in the ou
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. Contents of the pack and other information
 
 ## What MabThera 1400 mg solution for subcutaneous injection contains
 
 - The active substance is rituximab. Each vial contains 1400 mg/11.7 mL of rituximab. Each mL contains 120 mg of rituximab.
-- The other ingredients are recombinant human hyaluronidase (rHuPH20), L-histidine, L-histidine hydrochloride monohydrate, α , α -trehalose dihydrate, L-methionine, polysorbate 80 and water for injections. See section 2 'MabThera contains sodium'.
+- The other ingredients are recombinant human hyaluronidase (rHuPH20), histidine, histidine hydrochloride monohydrate, α , α -trehalose dihydrate, methionine, polysorbate 80 (E 433) and water for injections. See section 2 'MabThera contains sodium'.
 
-<div style=\"page-break-after: always\"></div>
-
-## What MabThera 1400 mg solution for subcutaneous injection looks like and contents of the pack
-
-MabThera is a ready to use, clear to opalescent, colourless to yellowish liquid, supplied as a solution for subcutaneous injection in a colourless glass vial with a butyl rubber stopper with aluminium over seal and a pink plastic flip-off disk.
+What MabThera 1400 mg solution for subcutaneous injection looks like and contents of the pack MabThera is a ready to use, clear to opalescent, colourless to yellowish liquid, supplied as a solution for subcutaneous injection in a colourless glass vial with a butyl rubber stopper with aluminium over seal and a pink plastic flip-off disk.
 
 Each vial contains 1400 mg/11.7 mL of rituximab. Each carton contains one vial.
 
@@ -4718,29 +4661,27 @@ Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 Roche Pharma AG Emil-Barell-Str. 1 79639 Grenzach-Wyhlen Germany
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+For any information about this medicine, please contact the local representative of the Marketing  Authorisation Holder:
 
-## België/Belgique/Belgien
+## België/Belgique/Belgien,
 
-N.V. Roche S.A.
+Luxembourg/Luxemburg N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
-Tél/Tel: +32 (0) 2 525 82 11
+## Latvija
 
-## Lietuva
-
-UAB 'Roche Lietuva'  Tel: +370 5 2546799
+Roche Latvija SIA Tel: +371 - 6 7039831
 
 ## България
 
 Рош България ЕООД
 
-Тел
+Тел:
 
-: +359 2 474 5444
++359 2 474 5444
 
-## Luxembourg/Luxemburg
+## Lietuva
 
-(Voir/siehe Belgique/Belgien)
+UAB 'Roche Lietuva'  Tel: +370 5 2546799
 
 ## Česká republika
 
@@ -4760,9 +4701,9 @@ Roche Pharmaceuticals A/S
 
 Tlf: +45 - 36 39 99 99
 
-## Malta
+## Nederland
 
-(See Ireland)
+Roche Nederland B.V. Tel: +31 (0) 348 438000
 
 ## Deutschland
 
@@ -4770,33 +4711,17 @@ Roche Pharma AG
 
 Tel: +49 (0) 7624 140
 
-## Nederland
-
-Roche Nederland B.V.
-
-Tel: +31 (0) 348
-
-438050
-
-## Eesti
-
-Roche Eesti OÜ
-
-Tel: + 372 - 6 177 380
-
 ## Norge
 
 Roche Norge AS
 
 Tlf: +47 - 22 78 90 00
 
-## Ελλάδα
+## Eesti
 
-Roche (Hellas) A.E.
+Roche Eesti OÜ
 
-Τηλ:
-
-+30 210 61 66 100
+Tel: + 372 - 6 177 380
 
 ## Österreich
 
@@ -4806,11 +4731,15 @@ GmbH  Tel: +43 (0) 1
 
 27739
 
-## España
+## Ελλάδα, Kύπρος
 
-Roche Farma S.A.
+Roche (Hellas) A.E.
 
-Tel: +34 - 91 324 81 00
+Ελλάδα
+
+Τηλ:
+
++30 210 61 66 100
 
 ## Polska
 
@@ -4820,11 +4749,11 @@ Tel: +48 - 22 345 18
 
 88
 
-## France
+## España
 
-## Roche
+Roche Farma S.A.
 
-Tél: +33  (0)1 47 61 40 00
+Tel: +34 - 91 324 81 00
 
 ## Portugal
 
@@ -4832,31 +4761,47 @@ Roche Farmacêutica Química,
 
 Lda  Tel: +351 - 21 425 70 00
 
+## France
+
+## Roche
+
+Tél: +33  (0)1 47 61 40 00
+
+## România
+
+Roche România
+
+S.R.L.  Tel: +40 21
+
+206 47 01
+
 ## Hrvatska
 
 Roche d.o.o.
 
 Tel: + 385 1 47 22 333
 
-## România
-
-Roche România
-
-S.R.L.  Tel: +40 21 206
-
-47 01
-
-## Ireland
-
-Roche Products (Ireland)
-
-Ltd.  Tel: +353 (0) 1 469 0700
-
 ## Slovenija
 
 Roche farmacevtska družba
 
 d.o.o.  Tel: +386 - 1 360 26 00
+
+## Ireland, Malta
+
+Roche Products (Ireland) Ltd.
+
+Ireland/L-Irlanda
+
+Tel: +353 (0) 1 469 0700
+
+## Slovenská republika
+
+Roche Slovensko,
+
+s.r.o.  Tel: +421 - 2
+
+52638201
 
 ## Ísland
 
@@ -4866,9 +4811,11 @@ Sími: +354 540
 
 8000
 
-## Slovenská republika
+## Suomi/Finland
 
-Roche Slovensko, s.r.o.  Tel: +421 - 2 52638201
+Roche Oy
+
+Puh/Tel: +358 (0) 10 554 500
 
 ## Italia
 
@@ -4876,43 +4823,19 @@ Roche S.p.A.
 
 Tel: +39 - 039 2471
 
-## Suomi/Finland
-
-Roche Oy
-
-Puh/Tel: +358 (0) 10 554 500
-
-## K ύπρος
-
-Roche (Hellas) A.E.
-
-Τηλ: +30 210 61 66 100
-
 ## Sverige
 
 Roche AB
 
 Tel: +46 (0) 8 726 1200
 
-## Latvija
-
-Roche Latvija SIA
-
-Tel: +371 - 6
-
-7039831
-
-## United Kingdom (Northern Ireland)
-
-Roche Products (Ireland) Ltd.
-
-Tel: +44 (0) 1707 366000
-
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu/en.
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu/
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
 
@@ -4920,17 +4843,13 @@ This leaflet is available in all EU/EEA languages on the European Medicines Agen
 
 <div style=\"page-break-after: always\"></div>
 
-## MabThera 1600 mg solution for subcutaneous
-
-## injection
-
-rituximab
+## MabThera 1600 mg solution for subcutaneous injection rituximab
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
 - Keep this leaflet. You may need to read it again.
 - If you have any further questions, ask your doctor, pharmacist or nurse.
-- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4
 
 ## What is in this leaflet
 
@@ -4954,9 +4873,7 @@ MabThera 1600 mg is used to treat chronic lymphocytic leukaemia in adults.
 - Chronic lymphocytic leukaemia (CLL) is the most common form of adult leukaemia. CLL affects a type of white blood cell called B-lymphocytes, which originates from the bone marrow and develops in the lymph nodes. Patients with CLL have too many abnormal lymphocytes, which accumulate mainly in the bone marrow and blood. The proliferation of these abnormal B-lymphocytes is the cause of symptoms you may have.
 - MabThera in combination with chemotherapy destroys these cells which are gradually removed from the body by biological processes.
 
-You will be given MabThera 1600 mg with other medicines called 'chemotherapy'.
-
-You will always be given MabThera as a drip (intra-venous infusion) at the start of your treatment.
+You will be given MabThera 1600 mg with other medicines called 'chemotherapy'. You will always be given MabThera as a drip (intra-venous infusion) at the start of your treatment.
 
 After this, you will be given MabThera as an injection under your skin. Your doctor will decide when to start MabThera injections.
 
@@ -4965,10 +4882,10 @@ After this, you will be given MabThera as an injection under your skin. Your doc
 ## Do not have MabThera if:
 
 - you are allergic to rituximab, other proteins which are like rituximab, or any of the other ingredients of this medicine (listed in section 6)
-- you are allergic to hyaluronidase (an enzyme that helps to increase the absorption of injected active substance)
 
 <div style=\"page-break-after: always\"></div>
 
+- you are allergic to hyaluronidase (an enzyme that helps to increase the absorption of injected active substance)
 - you have a severe active infection at the moment
 - you have a weak immune system.
 
@@ -4983,6 +4900,8 @@ Talk to your doctor, pharmacist or nurse before you are given MabThera if:
 
 If any of the above apply to you (or you are not sure), talk to your doctor, pharmacist or nurse before you are given MabThera. Your doctor may need to take special care of you during your treatment with MabThera.
 
+This medicine contains 8.04 mg of polysorbate 80 in each 20 mL vial, which is equivalent to 0.6 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
 Also talk to your doctor if you think you may need any vaccinations in the near future, including vaccinations needed to travel to other countries. Some vaccines should not be given at the same time as MabThera or in the months after you receive MabThera. Your doctor will check if you should have any vaccines before you receive MabThera.
 
 ## Children and adolescents
@@ -4996,7 +4915,7 @@ Tell your doctor, pharmacist or nurse if you are taking, have recently taken or 
 In particular, tell your doctor:
 
 - if you are taking medicines for high blood pressure. You may be asked not to take these other medicines 12 hours before you are given MabThera. This is because some people have a fall in their blood pressure while they are being given MabThera
-- if you have ever taken medicines which affect your immune system - such as chemotherapy or immune-suppressive medicines.
+- if you have ever taken medicines which affect your immune system - such as chemotherapy or immune-suppressive medicines
 
 If any of the above apply to you (or you are not sure), talk to your doctor, pharmacist or nurse before you are given MabThera.
 
@@ -5004,11 +4923,11 @@ If any of the above apply to you (or you are not sure), talk to your doctor, pha
 
 You must tell your doctor or nurse if you are pregnant, think that you might be pregnant or are planning to become pregnant. This is because MabThera can cross the placenta and may affect your baby.
 
+<div style=\"page-break-after: always\"></div>
+
 If you can get pregnant, you and your partner must use an effective method of contraception while using MabThera. You must also do this for 12 months after your last treatment with MabThera.
 
 MabThera passes into breast milk in very small amounts. As the long-term effects on breastfed infants are not known, for precautionary reasons, breast-feeding is not recommended during treatment with MabThera and for 6 months after the treatment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Driving and using machines
 
@@ -5050,21 +4969,21 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Most side effects are mild to moderate but some may be serious and need treatment. Rarely, some of these side effects have been fatal.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reactions where the medicine is injected
 
 Many patients get some local side effects where MabThera is injected. These include: pain, swelling, bruising, bleeding, skin redness, itching and rash.
 
 Your doctor may decide to stop your MabThera treatment if these reactions are serious.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Infections
 
 ## Tell your doctor immediately if you get signs of an infection including:
 
-- fever, cough, sore throat, burning pain when passing urine or feeling weak or generally unwell,
-- memory loss, trouble thinking, difficulty walking or sight loss - these may be due to a very rare, serious brain infection, which has been fatal (Progressive Multifocal Leukoencephalopathy or PML),
-- fever, headache and stiff neck, incoordination (ataxia), personality change, hallucinations, altered consciousness, seizures or coma - these may be due to a serious brain infection (enteroviral meningoencephalitis), which can be fatal.
+- fever, cough, sore throat, burning pain when passing urine or feeling weak or generally unwell
+- memory loss, trouble thinking, difficulty walking or sight loss - these may be due to a very rare, serious brain infection, which has been fatal (Progressive Multifocal Leukoencephalopathy or PML)
+- fever, headache and stiff neck, incoordination (ataxia), personality change, hallucinations, altered consciousness, seizures or coma - these may be due to a serious brain infection (enteroviral meningoencephalitis), which can be fatal
 
 You might get infections more easily during your treatment with MabThera. These are often colds, but there have been cases of pneumonia or urinary infections. These are listed below under 'Other side effects'.
 
@@ -5072,64 +4991,65 @@ You might get infections more easily during your treatment with MabThera. These 
 
 ## Very common side effects (may affect more than 1 in 10 people):
 
-- bacterial or viral infections, bronchitis,
+- bacterial or viral infections, bronchitis
 - low number of white blood cells with or without fever or blood cells called 'platelets',
-- feeling sick (nausea),
-- bald spots on the scalp, chills, headache,
-- lower immunity - because of lower levels of anti-bodies called 'immunoglobulins' (IgG) in the blood which help protect against infection.
+- feeling sick (nausea)
+- bald spots on the scalp, chills, headache
+- lower immunity - because of lower levels of anti-bodies called 'immunoglobulins' (IgG) in the blood which help protect against infection
 
 ## Common side effects (may affect up to 1 in 10 people):
 
-- infections of the blood (sepsis), pneumonia, shingles, cold, bronchial tube infections, fungal infections, infections of unknown origin, sinus inflammation, hepatitis B,
-- low number of red blood cells (anaemia), low number of all blood cells,
-- allergic reactions (hypersensitivity),
-- high blood sugar level, weight loss, swelling in the face and body, high levels of the enzyme 'LDH' in the blood, low calcium levels in the blood,
-- unusual feelings of the skin - such as numbness, tingling, pricking, burning, a creeping skin feeling, reduced sense of touch,
-- feeling restless, problems falling asleep,
-- becoming very red in the face and other areas of the skin as a consequence of dilation of the blood vessels,
-- feeling dizzy or anxious,
-- producing more tears, tear duct problems, inflamed eye (conjunctivitis),
-- ringing sound in the ears, ear pain,
-- heart problems - such as heart attack, uneven or fast heart rate,
-- high or low blood pressure (low blood pressure especially when standing upright),
-- tightening of the muscles in the airways which causes wheezing (bronchospasm), inflammation, irritation in the lungs, throat or sinuses, being short of breath, runny nose,
-- being sick (vomiting), diarrhoea, pain in the stomach, irritation or ulcers in the throat and mouth, problems swallowing, constipation, indigestion,
-- eating disorders, not eating enough, leading to weight loss,
-- hives, increased sweating, night sweats,
-- muscle problems - such as tight muscles, joint or muscle pain, back and neck pain,
-- tumour pain,
-- general discomfort or feeling uneasy or tired, shaking, signs of flu,
-- multiple-organ failure.
+- infections of the blood (sepsis), pneumonia, shingles, cold, bronchial tube infections, fungal infections, infections of unknown origin, sinus inflammation, hepatitis B
+- low number of red blood cells (anaemia), low number of all blood cells
+- allergic reactions (hypersensitivity)
+- high blood sugar level, weight loss, swelling in the face and body, high levels of the enzyme 'LDH' in the blood, low calcium levels in the blood
+- unusual feelings of the skin - such as numbness, tingling, pricking, burning, a creeping skin feeling, reduced sense of touch
+- feeling restless, problems falling asleep
+- becoming very red in the face and other areas of the skin as a consequence of dilation of the blood vessels
+- feeling dizzy or anxious
+- producing more tears, tear duct problems, inflamed eye (conjunctivitis)
+- ringing sound in the ears, ear pain
+- heart problems - such as heart attack, uneven or fast heart rate
+- high or low blood pressure (low blood pressure especially when standing upright)
+- tightening of the muscles in the airways which causes wheezing (bronchospasm), inflammation, irritation in the lungs, throat or sinuses, being short of breath, runny nose
+- being sick (vomiting), diarrhoea, pain in the stomach, irritation or ulcers in the throat and mouth, problems swallowing, constipation, indigestion
+- eating disorders, not eating enough, leading to weight loss
+- hives, increased sweating, night sweats
+- muscle problems - such as tight muscles, joint or muscle pain, back and neck pain
+- tumour pain
 
 <div style=\"page-break-after: always\"></div>
 
+- general discomfort or feeling uneasy or tired, shaking, signs of flu
+- multiple-organ failure
+
 ## Uncommon side effects (may affect up to 1 in 100 people):
 
-- blood clotting problems, decrease of red blood cell production and increase of red blood cell destruction (aplastic haemolytic anaemia), swollen or enlarged lymph nodes,
-- low mood and loss of interest or enjoyment in doing things, feeling nervous,
-- taste problems - such as changes in the way things taste,
-- heart problems - such as reduced heart rate or chest pain (angina),
-- asthma, too little oxygen reaching the body organs,
-- swelling of the stomach.
+- blood clotting problems, decrease of red blood cell production and increase of red blood cell destruction (aplastic haemolytic anaemia), swollen or enlarged lymph nodes
+- low mood and loss of interest or enjoyment in doing things, feeling nervous
+- taste problems - such as changes in the way things taste
+- heart problems - such as reduced heart rate or chest pain (angina)
+- asthma, too little oxygen reaching the body organs
+- swelling of the stomach
 
 ## Very rare side effects (may affect up to 1 in 10, 000 people):
 
-- short term increase in the amount of some types of anti-bodies in the blood (called immunoglobulins - IgM), chemical disturbances in the blood caused by break-down of dying cancer cells,
-- nerve damage in arms and legs, paralysed face,
-- heart failure,
-- inflammation of blood vessels including those leading to skin symptoms,
-- respiratory failure,
-- damage to the intestinal wall (perforation),
-- severe skin problems causing blisters that can be life-threatening,
-- kidney failure,
-- severe vision loss (sign of brain nerves damage).
+- short term increase in the amount of some types of anti-bodies in the blood (called immunoglobulins - IgM), chemical disturbances in the blood caused by break-down of dying cancer cells
+- nerve damage in arms and legs, paralysed face
+- heart failure
+- inflammation of blood vessels including those leading to skin symptoms
+- respiratory failure
+- damage to the intestinal wall (perforation)
+- severe skin problems causing blisters that can be life-threatening
+- kidney failure
+- severe vision loss (sign of brain nerves damage)
 
 ## Not known (it is not known how often these side effects happen):
 
-- a reduction in white blood cells which does not happen straight away,
-- reduced platelets number just after the infusion - this can be reversed, but can be fatal in rare cases,
-- hearing loss, loss of other senses,
-- brain and meningeal infection/inflammation (enteroviral meningoencephalitis).
+- a reduction in white blood cells which does not happen straight away
+- reduced platelets number just after the infusion - this can be reversed, but can be fatal in rare cases
+- hearing loss, loss of other senses
+- brain and meningeal infection/inflammation (enteroviral meningoencephalitis)
 
 MabThera may also cause changes in laboratory tests carried out by your doctor.
 
@@ -5156,11 +5076,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What MabThera 1600 mg solution for subcutaneous injection contains
 
 - The active substance is rituximab. Each vial contains 1600 mg/13.4 mL of rituximab. Each mL contains 120 mg of rituximab.
-- The other ingredients are recombinant human hyaluronidase (rHuPH20), L-histidine, L-histidine hydrochloride monohydrate, α , α -trehalose dihydrate, L-methionine, polysorbate 80 and water for injections. See section 2 'MabThera contains sodium'.
+- The other ingredients are recombinant human hyaluronidase (rHuPH20), histidine, histidine hydrochloride monohydrate, α , α -trehalose dihydrate, methionine, polysorbate 80 (E 433) and water for  injections. See section 2 'MabThera contains sodium'.
 
-## What MabThera 1600 mg solution for subcutaneous injection looks like and contents of the pack
-
-MabThera is a ready to use, clear to opalescent, colourless to yellowish liquid, supplied as a solution for subcutaneous injection in a colourless glass vial with a butyl rubber stopper with aluminium over  seal and a blue plastic flip-off disk.
+What MabThera 1600 mg solution for subcutaneous injection looks like and contents of the pack MabThera is a ready to use, clear to opalescent, colourless to yellowish liquid, supplied as a solution for subcutaneous injection in a colourless glass vial with a butyl rubber stopper with aluminium over  seal and a blue plastic flip-off disk.
 
 Each vial contains 1600 mg/13.4 mL of rituximab. Each carton contains one vial.
 
@@ -5174,27 +5092,21 @@ Roche Pharma AG Emil-Barell-Str. 1 79639 Grenzach-Wyhlen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+België/Belgique/Belgien, Luxembourg/Luxemburg N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
-N.V. Roche S.A.
+## Latvija
 
-Tél/Tel: +32 (0) 2 525 82 11
-
-## Lietuva
-
-UAB 'Roche Lietuva'  Tel: +370 5 2546799
+Roche Latvija SIA Tel: +371 - 6 7039831
 
 ## България
 
 Рош България ЕООД
 
-Тел
+Тел:
 
-: +359 2 474 5444
++359 2 474 5444
 
-## Luxembourg/Luxemburg
-
-(Voir/siehe Belgique/Belgien)
+Lietuva UAB 'Roche Lietuva'  Tel: +370 5 2546799
 
 ## Česká republika
 
@@ -5214,9 +5126,9 @@ Roche Pharmaceuticals A/S
 
 Tlf: +45 - 36 39 99 99
 
-## Malta
+## Nederland
 
-(See Ireland)
+Roche Nederland B.V. Tel: +31 (0) 348 438000
 
 ## Deutschland
 
@@ -5224,91 +5136,17 @@ Roche Pharma AG
 
 Tel: +49 (0) 7624 140
 
-## Nederland
-
-Roche Nederland B.V. Tel: +31 (0) 348 438050
-
-## Eesti
-
-Roche Eesti OÜ
-
-Tel: + 372 - 6 177 380
-
 ## Norge
 
 Roche Norge AS
 
 Tlf: +47 - 22 78 90 00
 
-<div style=\"page-break-after: always\"></div>
+## Eesti
 
-## Ελλάδα
+Roche Eesti OÜ
 
-Roche (Hellas) A.E.
-
-Τηλ:
-
-+30 210 61 66 100
-
-## España
-
-Roche Farma S.A.
-
-Tel: +34 - 91 324 81 00
-
-## France
-
-Roche
-
-Tél: +33  (0)1 47 61 40 00
-
-## Hrvatska
-
-Roche d.o.o.
-
-Tel: + 385 1 47 22 333
-
-## Ireland
-
-Roche Products (Ireland)
-
-Ltd.  Tel: +353 (0) 1 469 0700
-
-## Ísland
-
-Roche Pharmaceuticals A/S
-
-c/o Icepharma hf
-
-Sími: +354 540
-
-8000
-
-## Italia
-
-Roche S.p.A.
-
-Tel: +39 - 039 2471
-
-## K ύπρος
-
-Roche (Hellas) A.E.
-
-Τηλ: +30 210 61 66 100
-
-## Latvija
-
-Roche Latvija SIA
-
-Tel: +371 - 6
-
-7039831
-
-## This leaflet was last revised in
-
-Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu/en.
-
-This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
+Tel: + 372 - 6 177 380
 
 ## Österreich
 
@@ -5318,6 +5156,16 @@ GmbH  Tel: +43 (0) 1
 
 27739
 
+## Ελλάδα, Kύπρος
+
+Roche (Hellas) A.E.
+
+Ελλάδα
+
+Τηλ:
+
++30 210 61 66 100
+
 ## Polska
 
 Roche Polska Sp.z o.o.
@@ -5326,11 +5174,23 @@ Tel: +48 - 22 345 18
 
 88
 
+## España
+
+Roche Farma S.A.
+
+Tel: +34 - 91 324 81 00
+
 ## Portugal
 
 Roche Farmacêutica Química,
 
 Lda  Tel: +351 - 21 425 70 00
+
+## France
+
+## Roche
+
+Tél: +33  (0)1 47 61 40 00
 
 ## România
 
@@ -5340,15 +5200,41 @@ S.R.L.  Tel: +40 21 206
 
 47 01
 
+## Hrvatska
+
+Roche d.o.o.
+
+Tel: + 385 1 47 22 333
+
 ## Slovenija
 
-Roche farmacevtska družba d.o.o.  Tel: +386 - 1 360 26 00
+Roche farmacevtska družba
+
+d.o.o.  Tel: +386 - 1 360 26 00
+
+## Ireland, Malta
+
+Roche Products (Ireland) Ltd.
+
+Ireland/L-Irlanda
+
+Tel: +353 (0) 1 469 0700
 
 ## Slovenská republika
 
-Roche Slovensko, s.r.o.  Tel: +421 - 2
+Roche Slovensko,
+
+s.r.o.  Tel: +421 - 2
 
 52638201
+
+## Ísland
+
+Roche Pharmaceuticals A/S c/o Icepharma hf
+
+Sími: +354 540
+
+8000
 
 ## Suomi/Finland
 
@@ -5356,14 +5242,26 @@ Roche Oy
 
 Puh/Tel: +358 (0) 10 554 500
 
+## Italia
+
+Roche S.p.A.
+
+Tel: +39 - 039 2471
+
 ## Sverige
 
 Roche AB
 
 Tel: +46 (0) 8 726 1200
 
-## United Kingdom (Northern Ireland)
+<div style=\"page-break-after: always\"></div>
 
-Roche Products (Ireland) Ltd.
+## This leaflet was last revised in
 
-Tel: +44 (0) 1707 366000
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency website:
+
+[https://www.ema.europa.eu](https://www.ema.europa.eu/en.)
+
+This leaflet is available in all EU/EEA languages on the European Medicines Agency website.

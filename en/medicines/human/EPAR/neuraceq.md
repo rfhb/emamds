@@ -1,97 +1,21 @@
 ---
-document_datetime: 2026-04-28 17:28:00
+document_datetime: 2026-08-06 17:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/neuraceq.html
 document_name: neuraceq.html
 version: success
-processing_time: 0.1110389
-conversion_datetime: 2026-04-29 13:18:09.467376
+processing_time: 0.160279
+conversion_datetime: 2026-08-07 13:51:51.583508
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [Glossaries](/en/about-us/glossaries)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Neuraceq
-
 # Neuraceq
 
 [RSS](/en/individual-human-medicine.xml/67119)
@@ -116,7 +40,6 @@ Page contents
 - [News on Neuraceq](#news-on)
 - [Questions and answers on Neuraceq](#questions-and-answers-on-neuraceq-78275)
 - [More information on Neuraceq](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -132,45 +55,45 @@ Expand section
 
 Collapse section
 
-## What is Neuraceq and what is it used for?
+### What is Neuraceq and what is it used for?
 
 Neuraceq is a solution for injection that contains the active substance florbetaben ( 18 F); it is for diagnostic use only.
 
 Neuraceq is used during brain scans in patients with memory problems so that doctors can see whether or not they have significant amounts of ??amyloid plaques in the brain. ?-amyloid plaques are deposits sometimes present in the brain of people with memory problems caused by dementia (such as Alzheimer's disease, Lewy-body dementia and Parkinson's disease dementia) and also in the brain of some elderly people with no symptoms. The type of scan used with Neuraceq is called positron-emission tomography (PET).
 
-## How is Neuraceq used?
+### How is Neuraceq used?
 
 Neuraceq can only be obtained with a prescription, and PET scans with Neuraceq should only be requested by doctors experienced in the management of patients with diseases such as Alzheimer's and other dementias. The medicine is given by injection into a vein about 90 minutes before obtaining an image from a PET scan. After the image is obtained, it is read by physicians specially trained in interpreting PET scans with Neuraceq. Patients should discuss the results of their PET scan with their doctor.
 
-## How does Neuraceq work?
+### How does Neuraceq work?
 
 The active substance in Neuraceq, florbetaben ( 18 F), is a type of medicine known as a radiopharmaceutical that emits low amounts of radiation and works by targeting and attaching to ??amyloid plaques in the brain. After it attaches to the plaques, the radiation it emits can be detected by the PET scanner, enabling doctors to see whether or not significant amounts of plaques are present.
 
 If few or no ?-amyloid plaques are seen in the PET scan (a negative scan), the patient is unlikely to have Alzheimer's disease. However, a positive scan on its own is not sufficient to make a diagnosis in patients with memory problems, as plaques may be seen with several types of dementia and also in some elderly people with no symptoms. Doctors will therefore need to use the scans together with clinical evaluation.
 
-## What benefits of Neuraceq have been shown in studies?
+### What benefits of Neuraceq have been shown in studies?
 
 Neuraceq has been investigated in one main study involving 216 volunteers divided into two groups: a group of healthy young people and a group of patients nearing the end of their lives who had consented to autopsies when they died; 41 volunteers (10 healthy young people and 31 patients) completed the study and were included in the results. The study looked at sensitivity and specificity of the PET scans (how well they identified volunteers with plaques in the brain and how accurate they were in distinguishing them from those who did not).
 
 PET scans with Neuraceq were shown to have high specificity and sensitivity when used for identifying patients with significant amounts of ?-amyloid plaques in the brain. At the planned end of the study, 31 patients had died and had autopsies carried out on them to prove whether or not they had significant amounts of ?-amyloid plaques in their brains. When the results of the autopsies were compared with the PET scans, the scans were shown to have a sensitivity of 77.4% and a specificity of 94.2%. This means that the PET scans were able to correctly identify as positive 77.4% of the cases where patients had significant amounts of plaques, and that almost all patients without significant plaques were correctly rated as negative. These data were further supported by the results from additional patients analysed after completion of the study.
 
-## What are the risks associated with Neuraceq?
+### What are the risks associated with Neuraceq?
 
 The most common side effects with Neuraceq (which may affect up to 1 in 10 people) are pain, irritation and reddening of the skin at the site of injection. For the full list of all side effects and restrictions with Neuraceq, see the package leaflet. Neuraceq delivers a very low amount of radiation with minimal risk of cancer or any hereditary abnormalities.
 
-## Why is Neuraceq approved?
+### Why is Neuraceq approved?
 
 The Agency's Committee for Medicinal Products for Human Use (CHMP) decided that Neuraceq's benefits are greater than its risks and recommended that it be approved for use in the EU. Results from the main study demonstrated that PET scans with Neuraceq have high sensitivity and specificity for detecting ?-amyloid plaques in the brain, with results of the scans closely reflecting what was seen at autopsy. This is regarded as a significant improvement in the diagnosis of patients with memory problems who are being evaluated for Alzheimer's disease and other types of dementia. There is however a risk of false positive results, and therefore Neuraceq should not be used as the sole diagnostic method for dementia, but in conjunction with clinical evaluation. With regard to the safety profile of Neuraceq, this was considered reassuring, with the most common adverse events being related to injection site reactions.
 
 The CHMP did however note that, due to the limited effects of currently available treatments for Alzheimer's disease, there is no strong evidence that early diagnosis following PET scans with Neuraceq and early management of treatment will improve patient outcomes. In addition, the usefulness of Neuraceq in predicting the development of Alzheimer's disease in patients with memory problems or in monitoring patients' response to treatment has not been established.
 
-## What measures are being taken to ensure the safe and effective use of Neuraceq?
+### What measures are being taken to ensure the safe and effective use of Neuraceq?
 
 A risk management plan has been developed to ensure that Neuraceq is used as safely as possible. Based on this plan, safety information has been included in the summary of product characteristics and the package leaflet for Neuraceq, including the appropriate precautions to be followed by healthcare professionals and patients.
 
 Further information can be found in the summary of the .
 
-## Other information about Neuraceq
+### Other information about Neuraceq
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Neuraceq on 20 February 2014.
 
@@ -186,7 +109,7 @@ English (EN) (156.87 KB - PDF)
 
 [View](/en/documents/overview/neuraceq-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-247)
+[Other languages (22)](#file-language-dropdown-110)
 
 български (BG) (177.7 KB - PDF)
 
@@ -218,7 +141,7 @@ Deutsch (DE) (115.26 KB - PDF)
 
 [View](/de/documents/overview/neuraceq-epar-summary-public_de.pdf)
 
-eesti keel (ET) (76.78 KB - PDF)
+eesti (ET) (76.78 KB - PDF)
 
 **First published:** 11/03/2014 **Last updated:** 01/07/2016
 
@@ -248,13 +171,13 @@ italiano (IT) (108.3 KB - PDF)
 
 [View](/it/documents/overview/neuraceq-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (119.22 KB - PDF)
+latviešu (LV) (119.22 KB - PDF)
 
 **First published:** 11/03/2014 **Last updated:** 01/07/2016
 
 [View](/lv/documents/overview/neuraceq-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (128.18 KB - PDF)
+lietuvių (LT) (128.18 KB - PDF)
 
 **First published:** 11/03/2014 **Last updated:** 01/07/2016
 
@@ -308,7 +231,7 @@ slovenščina (SL) (123.26 KB - PDF)
 
 [View](/sl/documents/overview/neuraceq-epar-summary-public_sl.pdf)
 
-Suomi (FI) (78.02 KB - PDF)
+suomi (FI) (78.02 KB - PDF)
 
 **First published:** 11/03/2014 **Last updated:** 01/07/2016
 
@@ -332,167 +255,168 @@ English (EN) (2.57 MB - PDF)
 
 Neuraceq : EPAR - Product Information
 
-English (EN) (452.29 KB - PDF)
+English (EN) (432.54 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/en/documents/product-information/neuraceq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-333)
+[Other languages (24)](#file-language-dropdown-954)
 
-български (BG) (527.19 KB - PDF)
+български (BG) (526.82 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/bg/documents/product-information/neuraceq-epar-product-information_bg.pdf)
 
-español (ES) (436.78 KB - PDF)
+español (ES) (436.34 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/es/documents/product-information/neuraceq-epar-product-information_es.pdf)
 
-čeština (CS) (455.74 KB - PDF)
+čeština (CS) (456.03 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/cs/documents/product-information/neuraceq-epar-product-information_cs.pdf)
 
-dansk (DA) (431.26 KB - PDF)
+dansk (DA) (430.67 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/da/documents/product-information/neuraceq-epar-product-information_da.pdf)
 
-Deutsch (DE) (458.69 KB - PDF)
+Deutsch (DE) (457.29 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/de/documents/product-information/neuraceq-epar-product-information_de.pdf)
 
-eesti keel (ET) (415.98 KB - PDF)
+eesti (ET) (415.34 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/et/documents/product-information/neuraceq-epar-product-information_et.pdf)
 
-ελληνικά (EL) (482.84 KB - PDF)
+ελληνικά (EL) (482.57 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/el/documents/product-information/neuraceq-epar-product-information_el.pdf)
 
-français (FR) (416.51 KB - PDF)
+français (FR) (415.08 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/fr/documents/product-information/neuraceq-epar-product-information_fr.pdf)
 
-hrvatski (HR) (492.71 KB - PDF)
+hrvatski (HR) (491.69 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/hr/documents/product-information/neuraceq-epar-product-information_hr.pdf)
 
-íslenska (IS) (434.38 KB - PDF)
+italiano (IT) (412.61 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
-
-[View](/is/documents/product-information/neuraceq-epar-product-information_is.pdf)
-
-italiano (IT) (413.24 KB - PDF)
-
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/it/documents/product-information/neuraceq-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (497.7 KB - PDF)
+latviešu (LV) (497.45 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/lv/documents/product-information/neuraceq-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (527.97 KB - PDF)
+lietuvių (LT) (527.82 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/lt/documents/product-information/neuraceq-epar-product-information_lt.pdf)
 
-magyar (HU) (513.73 KB - PDF)
+magyar (HU) (513.75 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/hu/documents/product-information/neuraceq-epar-product-information_hu.pdf)
 
-Malti (MT) (536.23 KB - PDF)
+Malti (MT) (536.58 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/mt/documents/product-information/neuraceq-epar-product-information_mt.pdf)
 
-Nederlands (NL) (446.1 KB - PDF)
+Nederlands (NL) (444.94 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/nl/documents/product-information/neuraceq-epar-product-information_nl.pdf)
 
-norsk (NO) (402.04 KB - PDF)
+polski (PL) (493.17 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
-
-[View](/no/documents/product-information/neuraceq-epar-product-information_no.pdf)
-
-polski (PL) (493.38 KB - PDF)
-
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/pl/documents/product-information/neuraceq-epar-product-information_pl.pdf)
 
-português (PT) (412.75 KB - PDF)
+português (PT) (411.8 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/pt/documents/product-information/neuraceq-epar-product-information_pt.pdf)
 
-română (RO) (498.71 KB - PDF)
+română (RO) (498.58 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/ro/documents/product-information/neuraceq-epar-product-information_ro.pdf)
 
-slovenčina (SK) (504.45 KB - PDF)
+slovenčina (SK) (506.34 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/sk/documents/product-information/neuraceq-epar-product-information_sk.pdf)
 
-slovenščina (SL) (484.84 KB - PDF)
+slovenščina (SL) (485.05 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/sl/documents/product-information/neuraceq-epar-product-information_sl.pdf)
 
-Suomi (FI) (451.82 KB - PDF)
+suomi (FI) (451.98 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/fi/documents/product-information/neuraceq-epar-product-information_fi.pdf)
 
-svenska (SV) (491.57 KB - PDF)
+svenska (SV) (491.04 KB - PDF)
 
-**First published:** 11/03/2014 **Last updated:** 28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
 
 [View](/sv/documents/product-information/neuraceq-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000342795
+Íslenska (IS) (434.51 KB - PDF)
 
-28/04/2026
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
+
+[View](/is/documents/product-information/neuraceq-epar-product-information_is.pdf)
+
+norsk (NO) (401.64 KB - PDF)
+
+**First published:** 11/03/2014 **Last updated:** 06/08/2026
+
+[View](/no/documents/product-information/neuraceq-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000358700
+
+05/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -510,7 +434,7 @@ English (EN) (32.28 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/neuraceq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-992)
+[Other languages (24)](#file-language-dropdown-434)
 
 български (BG) (35.07 KB - PDF)
 
@@ -542,7 +466,7 @@ Deutsch (DE) (11.47 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/neuraceq-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (11.31 KB - PDF)
+eesti (ET) (11.31 KB - PDF)
 
 **First published:** 11/03/2014 **Last updated:** 11/03/2014
 
@@ -566,25 +490,19 @@ hrvatski (HR) (41.01 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/neuraceq-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (33.76 KB - PDF)
-
-**First published:** 11/03/2014 **Last updated:** 11/03/2014
-
-[View](/is/documents/all-authorised-presentations/neuraceq-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (11.4 KB - PDF)
 
 **First published:** 11/03/2014 **Last updated:** 11/03/2014
 
 [View](/it/documents/all-authorised-presentations/neuraceq-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (33.15 KB - PDF)
+latviešu (LV) (33.15 KB - PDF)
 
 **First published:** 11/03/2014 **Last updated:** 11/03/2014
 
 [View](/lv/documents/all-authorised-presentations/neuraceq-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (32.9 KB - PDF)
+lietuvių (LT) (32.9 KB - PDF)
 
 **First published:** 11/03/2014 **Last updated:** 11/03/2014
 
@@ -607,12 +525,6 @@ Nederlands (NL) (32.53 KB - PDF)
 **First published:** 11/03/2014 **Last updated:** 11/03/2014
 
 [View](/nl/documents/all-authorised-presentations/neuraceq-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (11.41 KB - PDF)
-
-**First published:** 11/03/2014 **Last updated:** 11/03/2014
-
-[View](/no/documents/all-authorised-presentations/neuraceq-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (34.39 KB - PDF)
 
@@ -644,7 +556,7 @@ slovenščina (SL) (24.81 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/neuraceq-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (30.96 KB - PDF)
+suomi (FI) (30.96 KB - PDF)
 
 **First published:** 11/03/2014 **Last updated:** 11/03/2014
 
@@ -656,28 +568,31 @@ svenska (SV) (32.21 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/neuraceq-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (33.76 KB - PDF)
+
+**First published:** 11/03/2014 **Last updated:** 11/03/2014
+
+[View](/is/documents/all-authorised-presentations/neuraceq-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (11.41 KB - PDF)
+
+**First published:** 11/03/2014 **Last updated:** 11/03/2014
+
+[View](/no/documents/all-authorised-presentations/neuraceq-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Neuraceq
-
-Active substance
-
-florbetaben (18F)
-
-International non-proprietary name (INN) or common name
-
-florbetaben (18F)
-
-Therapeutic area (MeSH)
-
-- Radionuclide Imaging
-- Alzheimer Disease
-
-Anatomical therapeutic chemical (ATC) code
-
-V09AX06
+- **Name of medicine**
+    - Neuraceq
+- **Active substance**
+    - florbetaben (18F)
+- **International non-proprietary name (INN) or common name**
+    - florbetaben (18F)
+- **Therapeutic area (MeSH)**
+        - Radionuclide Imaging
+        - Alzheimer Disease
+- **Anatomical therapeutic chemical (ATC) code**
+    - V09AX06
 
 ### Pharmacotherapeutic group
 
@@ -693,23 +608,14 @@ A negative scan indicates sparse or no plaques, which is not consistent with a d
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/002553
-
-Marketing authorisation holder
-
-Lantheus Germany GmbH
-
-Heidestrasse 37-38 10557 Berlin Germany
-
-Marketing authorisation issued
-
-20/02/2014
-
-Revision
-
-27
+- **EMA product number**
+    - EMEA/H/C/002553
+- **Marketing authorisation holder**
+    - Lantheus Germany GmbH Heidestrasse 37-38  10557 Berlin  Germany
+- **Marketing authorisation issued**
+    - 20/02/2014
+- **Revision**
+    - 28
 
 ## Assessment history
 
@@ -717,13 +623,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Neuraceq : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (145.21 KB - PDF)
+English (EN) (163.48 KB - PDF)
 
-**First published:** 17/12/2024 **Last updated:** 28/04/2026
+**First published:** 17/12/2024 **Last updated:** 06/08/2026
 
 [View](/en/documents/procedural-steps-after/neuraceq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -753,7 +659,7 @@ English (EN) (67.48 KB - PDF)
 
 **First published:** 17/11/2016 **Last updated:** 17/11/2016
 
-[View](/en/documents/scientific-conclusion/neuraceq-h-c-psusa-00010094-201602-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/neuraceq-h-c-psusa-00010094-201602-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Neuraceq-H-C-PSUSA/00010094/201508 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
 
@@ -763,9 +669,9 @@ English (EN) (106.07 KB - PDF)
 
 **First published:** 01/07/2016 **Last updated:** 01/07/2016
 
-[View](/en/documents/scientific-conclusion/neuraceq-h-c-psusa00010094201508-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
+[View](/en/documents/scientific-conclusion/neuraceq-h-c-psusa-00010094-201508-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Neuraceq : EPAR - Public assessment report
 
@@ -817,12 +723,8 @@ English (EN) (138.13 KB - PDF)
 
 - [EMEA-001090-PIP02-21 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001090-pip02-21)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-28/04/2026
+06/08/2026
 
 ## Share this page

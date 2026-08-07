@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-19 12:10:51
-document_pages: 54
+document_datetime: 2026-08-04 09:12:54
+document_pages: 55
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/leflunomide-medac-epar-product-information_en.pdf
 document_name: leflunomide-medac-epar-product-information_en.pdf
 version: success
-processing_time: 10.7841907
-conversion_datetime: 2026-01-03 12:54:50.455054
+processing_time: 8.2853483
+conversion_datetime: 2026-08-07 14:27:47.723859
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -182,15 +182,25 @@ In case of ulcerative stomatitis, leflunomide administration should be discontin
 
 Very rare cases of Stevens-Johnson syndrome or toxic epidermal necrolysis and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported in patients treated with leflunomide. As soon as skin and/or mucosal reactions are observed which raise the suspicion of such severe reactions, Leflunomide medac and any other possibly associated treatment must be discontinued, and a leflunomide washout procedure initiated immediately. A complete washout is essential in such cases. In such cases re-exposure to leflunomide is contraindicated (see section 4.3).
 
+## Haemophagocytic lymphohistiocytosis (HLH) / Macrophage activation syndrome (MAS):
+
+Haemophagocytic lymphohistiocytosis (HLH), including macrophage activation syndrome (MAS), has been reported in patients treated with leflunomide.
+
+Although rare, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) associated with leflunomide may be complicated by HLH or MAS. Cases of HLH/MAS have also been reported independently of DRESS.
+
+<div style=\"page-break-after: always\"></div>
+
+HLH/MAS is a serious and potentially life-threatening hyperinflammatory condition. Clinical features may include persistent fever, rash, neurological symptoms, hepatosplenomegaly, lymphadenopathy, cytopenias, markedly elevated serum ferritin, hypertriglyceridaemia, and abnormalities of liver function and coagulation.
+
+Patients should be informed about the signs and symptoms associated with HLH/MAS and advised to seek medical attention immediately if such symptoms occur during leflunomide treatment.
+
+If patients develop any of these conditions, stop leflunomide treatment and perform an accelerated drug elimination procedure (see section 4.4). Early recognition and prompt management are important to improve outcomes.
+
 Pustular psoriasis and worsening of psoriasis have been reported after the use of leflunomide. Treatment withdrawal may be considered taking into account patient's disease and past history.
 
 Skin ulcers can occur in patients during therapy with leflunomide. If leflunomide-associated skin ulcer is suspected or if skin ulcers persist despite appropriate therapy, leflunomide discontinuation and a complete washout procedure should be considered. The decision to resume leflunomide following skin ulcers should be based on clinical judgment of adequate wound healing.
 
-Impaired wound-healing after surgery can occur in patients during therapy with leflunomide. Based on an individual assessment, it may be considered to interrupt leflunomide treatment in the peri-surgical
-
-<div style=\"page-break-after: always\"></div>
-
-period and administer a washout procedure as described below. In case of interruption, the decision to resume leflunomide should be based on clinical judgment of adequate wound healing. Infections
+Impaired wound-healing after surgery can occur in patients during therapy with leflunomide. Based on an individual assessment, it may be considered to interrupt leflunomide treatment in the peri-surgical period and administer a washout procedure as described below. In case of interruption, the decision to resume leflunomide should be based on clinical judgment of adequate wound healing. Infections
 
 It is known that medicinal products with immunosuppressive properties - like leflunomide - may cause patients to be more susceptible to infections, including opportunistic infections. Infections may be more severe in nature and may, therefore, require early and vigorous treatment. In the event that severe, uncontrolled infections occur, it may be necessary to interrupt leflunomide treatment and administer a washout procedure as described below.
 
@@ -201,6 +211,8 @@ Before starting treatment, all patients should be evaluated for active and inact
 ## Respiratory reactions
 
 Interstitial lung disease, as well as rare cases of pulmonary hypertension and pulmonary nodules have been reported during treatment with leflunomide (see section 4.8). The risk of interstitial lung disease and pulmonary hypertension can be increased in patients with a history of interstitial lung disease. Interstitial lung disease is a potentially fatal disorder, which may occur acutely during therapy. Pulmonary symptoms, such as cough and dyspnoea, may be a reason for discontinuation of the therapy and for further investigation, as appropriate.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Peripheral neuropathy
 
@@ -220,11 +232,7 @@ Male patients should be aware of the possible male-mediated foetal toxicity. Rel
 
 There are no specific data on the risk of male-mediated foetal toxicity. However, animal studies to evaluate this specific risk have not been conducted. To minimise any possible risk, men wishing to father a child should consider discontinuing use of leflunomide and taking colestyramine 8 g 3 times daily for 11 days or 50 g of activated powdered charcoal 4 times daily for 11 days.
 
-In either case the A771726 plasma concentration is then measured for the first time. Thereafter, the A771726 plasma concentration must be determined again after an interval of at least 14 days. If both
-
-<div style=\"page-break-after: always\"></div>
-
-plasma concentrations are below 0.02 mg/l, and after a waiting period of at least 3 months, the risk of foetal toxicity is very low.
+In either case the A771726 plasma concentration is then measured for the first time. Thereafter, the A771726 plasma concentration must be determined again after an interval of at least 14 days. If both plasma concentrations are below 0.02 mg/l, and after a waiting period of at least 3 months, the risk of foetal toxicity is very low.
 
 ## Washout procedure
 
@@ -236,7 +244,7 @@ The measurement of ionised calcium levels might show falsely decreased values un
 
 ## Excipients
 
-## Lactose
+Lactose
 
 Leflunomide medac contains lactose. Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
@@ -247,6 +255,8 @@ Leflunomide medac contains soya lecithin. If a patient is hypersensitive to pean
 ## Sodium
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per film-coated tablet, that is to say essentially 'sodium-free'.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -263,8 +273,6 @@ In patients with rheumatoid arthritis, no pharmacokinetic interaction between th
 ## Vaccinations
 
 No clinical data are available on the efficacy and safety of vaccinations under leflunomide treatment. Vaccination with live attenuated vaccines is, however, not recommended. The long half-life of leflunomide should be considered when contemplating administration of a live attenuated vaccine after stopping Leflunomide medac.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Warfarin and other coumarin anticoagulants
 
@@ -284,6 +292,8 @@ It is recommended that patients receiving leflunomide are not treated with coles
 
 In vitro inhibition studies in human liver microsomes suggest that cytochrome P450 (CYP) 1A2, 2C19 and 3A4 are involved in leflunomide metabolism. An in vivo interaction study with leflunomide and cimetidine (non-specific weak cytochrome P450 (CYP) inhibitor) has demonstrated a lack of a significant impact on A771726 exposure. Following concomitant administration of a single dose of leflunomide to subjects receiving multiple doses of rifampicin (non-specific cytochrome P450 inducer) A771726 peak levels were increased by approximately 40 %, whereas the AUC was not significantly changed. The mechanism of this effect is unclear.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Effect of leflunomide on other medicinal products
 
 ## Oral contraceptives
@@ -299,8 +309,6 @@ There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respe
 ## Effect on caffeine (CYP1A2 substrate)
 
 Repeated doses of A771726 decreased mean Cmax and AUC of caffeine (CYP1A2 substrate) by 18 % and 55 %, respectively, suggesting that A771726 may be a weak inducer of CYP1A2 in vivo . Therefore, medicinal products metabolised by CYP1A2 (such as duloxetine, alosetron, theophylline and tizanidine) should be used with caution during treatment, as it could lead to the reduction of the efficacy of these products.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Effect on organic anion transporter 3 (OAT3) substrates
 
@@ -318,6 +326,8 @@ There was an increase in mean ethinylestradiol Cmax and AUC0-24 (1.58- and 1.54-
 
 Repeated doses of A771726 had no effect on the pharmacokinetics of S-warfarin, indicating that A771726 is not an inhibitor or an inducer of CYP2C9. However, a 25 % decrease in peak international normalised ratio (INR) was observed when A771726 was co-administered with warfarin as compared with warfarin alone. Therefore, when warfarin is co-administered, close INR follow-up and monitoring is recommended.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Pregnancy
@@ -330,11 +340,7 @@ The patient must be advised that if there is any delay in onset of menses or any
 
 In a small prospective study in women (n = 64) who became inadvertently pregnant while taking leflunomide for no more than three weeks after conception and followed by a drug elimination procedure, no significant differences (p = 0.13) were observed in the overall rate of major structural defects (5.4 %) compared to either of the comparison groups (4.2 % in the disease matched group [n = 108] and 4.2 % in healthy pregnant women [n = 78]).
 
-For women receiving leflunomide treatment and who wish to become pregnant, one of the following procedures is recommended in order to ascertain that the foetus is not exposed to toxic concentrations
-
-<div style=\"page-break-after: always\"></div>
-
-of A771726 (target concentration below 0.02 mg/l):
+For women receiving leflunomide treatment and who wish to become pregnant, one of the following procedures is recommended in order to ascertain that the foetus is not exposed to toxic concentrations of A771726 (target concentration below 0.02 mg/l):
 
 ## Waiting period
 
@@ -355,6 +361,8 @@ However, also following either of the washout procedures, verification by 2 sepa
 
 Women of childbearing potential should be told that a waiting period of 2 years after treatment discontinuation is required before they may become pregnant. If a waiting period of up to approximately 2 years under reliable contraception is considered unpractical, prophylactic institution of a washout procedure may be advisable.
 
+<div style=\"page-break-after: always\"></div>
+
 Both colestyramine and activated powdered charcoal may influence the absorption of oestrogens and progestogens such that reliable contraception with oral contraceptives may not be guaranteed during the washout procedure with colestyramine or activated powdered charcoal. Use of alternative contraceptive methods is recommended.
 
 ## Breast-feeding
@@ -373,11 +381,7 @@ In the case of side effects such as dizziness the patient's ability to concentra
 
 ## Summary of the safety profile
 
-The most frequently reported adverse effects with leflunomide are: mild increase in blood pressure, leucopenia, paraesthesia, headache, dizziness, diarrhoea, nausea, vomiting, oral mucosal disorders (e.g. aphthous stomatitis, mouth ulceration), abdominal pain, increased hair loss, eczema, rash (including maculo-papular rash), pruritus, dry skin, tenosynovitis, CPK increased, anorexia, weight
-
-<div style=\"page-break-after: always\"></div>
-
-loss (usually insignificant), asthenia, mild allergic reactions and elevation of liver parameters (transaminases [especially ALT], less often gamma-GT, alkaline phosphatise, bilirubin).
+The most frequently reported adverse effects with leflunomide are: mild increase in blood pressure, leucopenia, paraesthesia, headache, dizziness, diarrhoea, nausea, vomiting, oral mucosal disorders (e.g. aphthous stomatitis, mouth ulceration), abdominal pain, increased hair loss, eczema, rash (including maculo-papular rash), pruritus, dry skin, tenosynovitis, CPK increased, anorexia, weight loss (usually insignificant), asthenia, mild allergic reactions and elevation of liver parameters (transaminases [especially ALT], less often gamma-GT, alkaline phosphatise, bilirubin).
 
 ## Classification of expected frequencies:
 
@@ -385,7 +389,7 @@ Very common ( ≥ 1/10); common ( ≥ 1/100 to &lt; 1/10); uncommon ( ≥ 1/1,00
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Infections and infestations
+## Infections and infestations
 
 Rare:
 
@@ -417,15 +421,17 @@ Very rare:
 
 agranulocytosis
 
+<div style=\"page-break-after: always\"></div>
+
 Recent, concomitant or consecutive use of potentially myelotoxic agents may be associated with a higher risk of haematological effects.
 
 ## Immune system disorders
 
 Common:
 
-mild allergic reactions
-
 Very rare:
+
+mild allergic reactions
 
 severe anaphylactic/anaphylactoid reactions, vasculitis, including cutaneous necrotizing vasculitis
 
@@ -433,13 +439,13 @@ severe anaphylactic/anaphylactoid reactions, vasculitis, including cutaneous nec
 
 Common:
 
-CPK increased
-
 Uncommon:
 
-hypokalaemia, hyperlipidemia, hypophosphataemia
-
 Rare:
+
+CPK increased
+
+hypokalaemia, hyperlipidemia, hypophosphataemia
 
 LDH increased
 
@@ -447,7 +453,7 @@ Not known:
 
 hypouricemia
 
-Psychiatric disorders
+## Psychiatric disorders
 
 Uncommon:
 
@@ -473,11 +479,9 @@ Respiratory, thoracic and mediastinal disorders
 
 Rare:
 
-interstitial lung disease (including interstitial pneumonitis), which may be fatal pulmonary hypertension, pulmonary nodule
-
 Not known:
 
-<div style=\"page-break-after: always\"></div>
+interstitial lung disease (including interstitial pneumonitis), which may be fatal pulmonary hypertension, pulmonary nodule
 
 ## Gastrointestinal disorders
 
@@ -501,9 +505,9 @@ elevation of liver parameters (transaminases [especially ALT], less often gamma-
 
 Rare:
 
-hepatitis, jaundice/cholestasis
-
 Very rare:
+
+hepatitis, jaundice/cholestasis
 
 severe liver injury such as hepatic failure and acute hepatic necrosis that may be fatal
 
@@ -511,17 +515,17 @@ severe liver injury such as hepatic failure and acute hepatic necrosis that may 
 
 Common:
 
-increased hair loss, eczema, rash (including maculopapular rash), pruritus, dry skin urticaria
-
 Uncommon:
+
+increased hair loss, eczema, rash (including maculopapular rash), pruritus, dry skin urticaria
 
 Very rare:
 
-toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme cutaneous lupus erythematosus, pustular psoriasis or worsening psoriasis, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), skin ulcer
-
 Not known:
 
-Musculoskeletal and connective tissue disorders
+toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme cutaneous lupus erythematosus, pustular psoriasis or worsening psoriasis, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), skin ulcer
+
+## Musculoskeletal and connective tissue disorders
 
 Common:
 
@@ -531,23 +535,23 @@ Uncommon:
 
 tendon rupture
 
-## Renal and urinary disorders
+Renal and urinary disorders
 
 Not known:
 
 renal failure
 
-Reproductive system and breast disorders
+<div style=\"page-break-after: always\"></div>
 
-Not known:
+## Reproductive system and breast disorders
 
-marginal (reversible) decreases in sperm concentration, total sperm count and rapid progressive motility
+Not known: marginal (reversible) decreases in sperm concentration, total sperm count and rapid
 
-General disorders and administration site conditions
+progressive motility
 
-Common:
+## General disorders and administration site conditions
 
-anorexia, weight loss (usually insignificant), asthenia
+Common: anorexia, weight loss (usually insignificant), asthenia
 
 ## Reporting of suspected adverse reactions
 
@@ -562,8 +566,6 @@ There have been reports of chronic overdose in patients taking Leflunomide medac
 ## Management
 
 In the event of an overdose or toxicity, colestyramine or charcoal is recommended to accelerate elimination. Colestyramine given orally at a dose of 8 g three times a day for 24 hours to three healthy volunteers decreased plasma levels of A771726 by approximately 40 % in 24 hours and by 49 % to 65 % in 48 hours.
-
-<div style=\"page-break-after: always\"></div>
 
 Administration of activated charcoal (powder made into a suspension) orally or via nasogastric tube (50 g every 6 hours for 24 hours) has been shown to reduce plasma concentrations of the active metabolite A771726 by 37 % in 24 hours and by 48 % in 48 hours. These washout procedures may be repeated if clinically necessary.
 
@@ -583,6 +585,8 @@ Leflunomide is a disease-modifying anti-rheumatic agent with antiproliferative p
 
 Leflunomide is effective in animal models of arthritis and of other autoimmune diseases and transplantation, mainly if administered during the sensitisation phase. It has immunomodulating/immunosuppressive characteristics, acts as an antiproliferative agent, and displays anti-inflammatory properties. Leflunomide exhibits the best protective effects on animal models of autoimmune diseases when administered in the early phase of the disease progression. In vivo , it is rapidly and almost completely metabolised to A771726 which is active in vitro , and is presumed to be responsible for the therapeutic effect.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Mechanism of action
 
 A771726, the active metabolite of leflunomide, inhibits the human enzyme dihydroorotate dehydrogenase (DHODH) and exhibits antiproliferative activity.
@@ -599,11 +603,7 @@ Study MN302 randomised 999 subjects with active rheumatoid arthritis to leflunom
 
 Study US301 randomised 482 subjects with active rheumatoid arthritis to leflunomide 20 mg/day (n = 182), methotrexate 7.5 mg/week increasing to 15 mg/week (n = 182), or placebo (n = 118). All patients received folate 1 mg bid. Treatment duration was 12 months.
 
-Leflunomide at a daily dose of at least 10 mg (10 to 25 mg in study YU203, 20 mg in studies MN301 and US301) was statistically significantly superior to placebo in reducing the signs and symptoms of rheumatoid arthritis in all 3 placebo-controlled trials. The ACR (American College of Rheumatology) response rates in study YU203 were 27.7 % for placebo, 31.9 % for 5 mg, 50.5 % for 10 mg and 54.5 % for 25 mg/day. In the phase III trials, the ACR response rates for leflunomide 20 mg/day vs. placebo were 54.6 % vs. 28.6 % (study MN301), and 49.4 % vs. 26.3 % (study US301). After
-
-<div style=\"page-break-after: always\"></div>
-
-12 months with active treatment, the ACR response rates in leflunomide patients were 52.3 % (studies MN301/303), 50.5 % (study MN302) and 49.4 % (study US301), compared to 53.8 % (studies MN301/303) in sulphasalazine patients, 64.8 % (study MN302), and 43.9 % (study US301) in methotrexate patients. In study MN302 leflunomide was significantly less effective than methotrexate. However, in study US301 no significant differences were observed between leflunomide and methotrexate in the primary efficacy parameters. No difference was observed between leflunomide and sulphasalazine (study MN301). The leflunomide treatment effect was evident by 1 month, stabilised by 3 to 6 months and continued throughout the course of treatment.
+Leflunomide at a daily dose of at least 10 mg (10 to 25 mg in study YU203, 20 mg in studies MN301 and US301) was statistically significantly superior to placebo in reducing the signs and symptoms of rheumatoid arthritis in all 3 placebo-controlled trials. The ACR (American College of Rheumatology) response rates in study YU203 were 27.7 % for placebo, 31.9 % for 5 mg, 50.5 % for 10 mg and 54.5 % for 25 mg/day. In the phase III trials, the ACR response rates for leflunomide 20 mg/day vs. placebo were 54.6 % vs. 28.6 % (study MN301), and 49.4 % vs. 26.3 % (study US301). After 12 months with active treatment, the ACR response rates in leflunomide patients were 52.3 % (studies MN301/303), 50.5 % (study MN302) and 49.4 % (study US301), compared to 53.8 % (studies MN301/303) in sulphasalazine patients, 64.8 % (study MN302), and 43.9 % (study US301) in methotrexate patients. In study MN302 leflunomide was significantly less effective than methotrexate. However, in study US301 no significant differences were observed between leflunomide and methotrexate in the primary efficacy parameters. No difference was observed between leflunomide and sulphasalazine (study MN301). The leflunomide treatment effect was evident by 1 month, stabilised by 3 to 6 months and continued throughout the course of treatment.
 
 A randomised, double-blind, parallel-group non-inferiority study compared the relative efficacy of two different daily maintenance doses of leflunomide, 10 mg and 20 mg. From the results it can be concluded that efficacy results of the 20 mg maintenance dose were more favourable, on the other hand, the safety results favoured the 10 mg daily maintenance dose.
 
@@ -612,6 +612,8 @@ A randomised, double-blind, parallel-group non-inferiority study compared the re
 Leflunomide was studied in a single multicenter, randomized, double-blind, active-controlled trial in 94 patients (47 per arm) with polyarticular course juvenile rheumatoid arthritis. Patients were 3-17 years of age with active polyarticular course JRA regardless of onset type and naive to methotrexate or leflunomide. In this trial, the loading dose and maintenance dose of leflunomide was based on three weight categories: &lt; 20 kg, 20 - 40 kg, and &gt; 40 kg. After 16 weeks treatment, the difference in response rates was statistically significant in favour of methotrexate for the JRA Definition of Improvement (DOI) ≥ 30 % (p = 0.02). In responders, this response was maintained during 48 weeks (see section 4.2).
 
 The pattern of adverse events of leflunomide and methotrexate seems to be similar, but the dose used in lighter subjects resulted in a relatively low exposure (see section 5.2). These data do not allow an effective and safe dose recommendation.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Psoriatic arthritis
 
@@ -627,11 +629,11 @@ A randomised study assessed the clinical efficacy response rate in DMARD-naïve 
 
 Leflunomide is rapidly converted to the active metabolite, A771726, by first-pass metabolism (ring opening) in gut wall and liver. In a study with radiolabelled 14 C-leflunomide in three healthy volunteers, no unchanged leflunomide was detected in plasma, urine or faeces. In other studies, unchanged leflunomide levels in plasma have rarely been detected, however, at ng/ml plasma levels. The only plasma-radiolabelled metabolite detected was A771726. This metabolite is responsible for essentially all the in -vivo activity of Leflunomide medac.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Absorption
 
 Excretion data from the 14 C study indicated that at least about 82 to 95 % of the dose is absorbed. The time to peak plasma concentrations of A771726 is very variable; peak plasma levels can occur between 1 hour and 24 hours after single administration. Leflunomide can be administered with food, since the extent of absorption is comparable in the fed and fasting state. Due to the very long half-life of A771726 (approximately 2 weeks), a loading dose of 100 mg for 3 days was used in clinical studies to facilitate the rapid attainment of steady-state levels of A771726. Without a loading dose, it is estimated that attainment of steady-state plasma concentrations would require nearly two months of dosing. In multiple dose studies in patients with rheumatoid arthritis, the pharmacokinetic parameters of A771726 were linear over the dose range of 5 to 25 mg. In these studies, the clinical effect was closely related to the plasma concentration of A771726 and to the daily dose of leflunomide. At a dose level of 20 mg/day, average plasma concentration of A771726 at steady state is approximately 35 μg/ml. At steady state plasma levels accumulate about 33 - to 35-fold compared with single dose.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
@@ -651,8 +653,6 @@ It has been shown in man that administration of an oral suspension of activated 
 
 Leflunomide was administered as a single oral 100 mg dose to 3 haemodialysis patients and 3 patients on continuous peritoneal dialysis (CAPD). The pharmacokinetics of A771726 in CAPD subjects appeared to be similar to healthy volunteers. A more rapid elimination of A771726 was observed in haemodialysis subjects which was not due to extraction of medicinal product in the dialysate.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hepatic impairment
 
 No data are available regarding treatment of patients with hepatic impairment. The active metabolite A771726 is extensively protein bound and cleared via hepatic metabolism and biliary secretion. These processes may be affected by hepatic dysfunction.
@@ -660,6 +660,8 @@ No data are available regarding treatment of patients with hepatic impairment. T
 ## Paediatric population
 
 The pharmacokinetics of A771726 following oral administration of leflunomide have been investigated in 73 paediatric patients with polyarticular course Juvenile Rheumatoid Arthritis (JRA) who ranged in age from 3 to 17 years. The results of a population pharmacokinetic analysis of these trials have demonstrated that paediatric patients with body weights ≤ 40 kg have a reduced systemic exposure (measured by Css) of A771726 relative to adult rheumatoid arthritis patients (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Elderly
 
@@ -673,7 +675,7 @@ Leflunomide was not mutagenic. However, the minor metabolite TFMA (4-trifluorome
 
 In a carcinogenicity study in rats, leflunomide did not show carcinogenic potential. In a carcinogenicity study in mice an increased incidence of malignant lymphoma occurred in males of the highest dose group, considered to be due to the immunosuppressive activity of leflunomide. In female mice an increased incidence, dose-dependent, of bronchiolo-alveolar adenomas and carcinomas of the lung was noted. The relevance of the findings in mice relative to the clinical use of leflunomide is uncertain.
 
-## Leflunomide was not antigenic in animal models.
+Leflunomide was not antigenic in animal models.
 
 Leflunomide was embryotoxic and teratogenic in rats and rabbits at doses in the human therapeutic range and exerted adverse effects on male reproductive organs in repeated dose toxicity studies. Fertility was not reduced.
 
@@ -683,13 +685,13 @@ Leflunomide was embryotoxic and teratogenic in rats and rabbits at doses in the 
 
 Tablet core lactose monohydrate low-substituted hydroxypropyl cellulose tartaric acid sodium laurylsulfate magnesium stearate
 
-<div style=\"page-break-after: always\"></div>
-
 Film-coating lecithin (soybeans) poly(vinyl alcohol) talc titanium dioxide (E 171) xanthan gum
 
 ## 6.2 Incompatibilities
 
 Not applicable.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
@@ -721,17 +723,25 @@ No special requirements for disposal.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-medac Gesellschaft für klinische Spezialpräparate mbH Theaterstr. 6 22880 Wedel Germany
+medac
+
+Gesellschaft für klinische Spezialpräparate mbH
+
+Theaterstr. 6
+
+22880 Wedel
+
+Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 ## Leflunomide medac 10 mg film-coated tablets
 
-EU/1/10/637/001 (30 tablets) EU/1/10/637/002 (60 tablets)
+EU/1/10/637/001 (30 tablets)
+
+EU/1/10/637/002 (60 tablets)
 
 EU/1/10/637/004 (100 tablets)
-
-<div style=\"page-break-after: always\"></div>
 
 ## Leflunomide medac 15 mg film-coated tablets
 
@@ -752,6 +762,8 @@ EU/1/10/637/006 (30 tablets)
 EU/1/10/637/007 (60 tablets)
 
 EU/1/10/637/009 (100 tablets)
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -778,7 +790,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Haupt Pharma Münster GmbH Schleebrüggenkamp 15 48159 Münster Germany medac Gesellschaft für klinische Spezialpräparate mbH Theaterstr. 6 22880 Wedel Germany
+Haupt Pharma Münster GmbH Schleebrüggenkamp 15 48159 Münster Germany
+
+medac Gesellschaft für klinische Spezialpräparate mbH Theaterstr. 6 22880 Wedel Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -900,7 +914,8 @@ Oral use.
 
 Keep out of the sight and reach of children.
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
 8. EXPIRY DATE
 
 EXP
@@ -947,30 +962,27 @@ EU/1/10/637/013 (15 mg, 100 tablets)
 
 ## 13. BATCH NUMBER
 
-Batch
+Batch Leflunomide medac 10 mg Leflunomide medac 15 mg Leflunomide medac 20 mg PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
-Leflunomide medac 10 mg Leflunomide medac 15 mg Leflunomide medac 20 mg
-
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-&lt;2D barcode carrying the unique identifier included.&gt;
+| <2D   | barcode carrying the unique identifier included.>   |
+|-------|-----------------------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
-
-PC SN NN
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1041,8 +1053,7 @@ Oral use.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 8. EXPIRY DATE
 
 EXP
@@ -1096,8 +1107,8 @@ Batch
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -1167,6 +1178,12 @@ Leflunomide medac can occasionally cause some problems with your blood, liver, l
 
 DRESS appears initially as flu-like symptoms and a rash on the face then an extended rash with a high temperature, increased levels of liver enzymes seen in blood tests and an increase in a type of white blood cell (eosinophilia) and enlarged lymph nodes.
 
+## Haemophagocytic lymphohistiocytosis (HLH)
+
+There have been reports of a rare but very serious immune system reaction, in patients taking leflunomide.
+
+- -Contact your doctor or pharmacist immediately if you experience any of the following symptoms while taking Leflunomide medac: fever, rash, neurological symptoms (e.g. shaking or tremor, confusional state, disturbances of brain function).
+
 Your doctor will carry out blood tests at regular intervals, before and during treatment with Leflunomide medac, to monitor your blood cells and liver. Your doctor will also check your blood pressure regularly as Leflunomide medac can cause an increase in blood pressure.
 
 Tell your doctor if you have unexplained chronic diarrhoea. Your doctor may perform additional tests for differential diagnosis.
@@ -1181,6 +1198,8 @@ Leflunomide medac is not recommended for use in children and adolescents below 1
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This includes medicines obtained without a prescription.
 
+<div style=\"page-break-after: always\"></div>
+
 This is especially important if you are taking:
 
 - other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive drugs (e.g. methotrexate) as these combinations are not advisable,
@@ -1190,9 +1209,6 @@ This is especially important if you are taking:
 - daunorubicin, doxorubicin, paclitaxel, or topotecan for cancer
 - duloxetine for depression, urinary incontinence or in kidney disease in diabetics
 - alosetron for the management of severe diarrhoea
-
-<div style=\"page-break-after: always\"></div>
-
 - theophylline for asthma
 - tizanidine, a muscle relaxant
 - oral contraceptives (containing ethinylestradiol and levonorgestrel)
@@ -1226,13 +1242,13 @@ For further information on the laboratory testing please contact your doctor.
 
 If you suspect that you are pregnant while taking Leflunomide medac or in the two years after you have stopped treatment, you must contact your doctor immediately for a pregnancy test. If the test confirms that you are pregnant, your doctor may suggest treatment with certain medicines to remove Leflunomide medac rapidly and sufficiently from your body, as this may decrease the risk to your baby.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not take Leflunomide medac when you are breast -feeding , as leflunomide passes into the breast milk.
 
 ## Driving and using machines
 
 Leflunomide medac can make you feel dizzy which may impair your ability to concentrate and react. If you are affected, do not drive or use machines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Leflunomide medac contains lactose
 
@@ -1276,15 +1292,16 @@ Like all medicines, this medicine can cause side effects, although not everybody
 Tell your doctor immediately and stop taking Leflunomide medac:
 
 - if you experience weakness , feel light-headed or dizzy or have difficulty breathing, as these may be signs of a serious allergic reaction,
-- if you develop a skin rash or ulcers in your mouth , as these may indicate severe, sometimes life-threatening reactions (e.g. Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), see section 2.
-
-Tell your doctor immediately if you experience:
-
-- pale skin , tiredness, or bruising, as these may indicate blood disorders caused by an imbalance in the different types of blood cells which make up blood,
-- tiredness , abdominal pain , or jaundice (yellow discolouration of the eyes or skin), as these may indicate serious conditions such as liver failure, which may be fatal,
+- if you develop a skin rash or ulcers in your mouth , as these may indicate severe, sometimes
 
 <div style=\"page-break-after: always\"></div>
 
+life-threatening reactions (e.g. Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), see section 2.
+
+## Tell your doctor immediately if you experience:
+
+- pale skin , tiredness, or bruising, as these may indicate blood disorders caused by an imbalance in the different types of blood cells which make up blood,
+- tiredness , abdominal pain , or jaundice (yellow discolouration of the eyes or skin), as these may indicate serious conditions such as liver failure, which may be fatal,
 - any symptoms of an infection such as fever, sore throat or cough, as this medicine may increase the chance of a severe infection which may be life-threatening,
 - cough or breathing problems as these may indicate problems of the lung (interstitial lung disease, pulmonary hypertension or pulmonary nodule),
 - unusual tingling, weakness or pain in your hands or feet as these may indicate problems with your nerves (peripheral neuropathy).
@@ -1328,6 +1345,9 @@ Tell your doctor immediately if you experience:
 - inflammation of the lung (interstitial lung disease),
 - an increase in some liver results which may develop into serious conditions such as hepatitis and jaundice,
 - severe infections called sepsis which may be fatal,
+
+<div style=\"page-break-after: always\"></div>
+
 - an increase of certain enzymes in the blood (lactate dehydrogenase).
 
 ## Very rare side effects (may affect up to 1 in 10,000 people)
@@ -1337,9 +1357,6 @@ Tell your doctor immediately if you experience:
 - inflammation of blood vessels (vasculitis, including cutaneous necrotizing vasculitis),
 - inflammation of the pancreas (pancreatitis),
 - severe liver injury such as liver failure or necrosis which may be fatal,
-
-<div style=\"page-break-after: always\"></div>
-
 - severe sometimes life-threatening reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
 
 Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis (new or worsening), DRESS and skin ulcer (round, open sore in the skin through which the underlying tissues can be seen) may also occur with an unknown frequency.
@@ -1362,8 +1379,10 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Leflunomide medac contains
 
-- •
-- The active substance is leflunomide. One tablet of Leflunomide medac 10 mg film-coated tablets contains 10 mg of leflunomide.
+- The active substance is leflunomide.
+
+One tablet of Leflunomide medac 10 mg film-coated tablets contains 10 mg of leflunomide.
+
 - The other ingredients are lactose monohydrate, low-substituted hydroxypropyl cellulose, tartaric acid, sodium laurylsulfate and magnesium stearate in the tablet core as well as lecithin (soybeans), poly(vinyl alcohol), talc, titanium dioxide (E 171) and xanthan gum in the film-coating.
 
 ## What Leflunomide medac looks like and contents of the pack
@@ -1372,21 +1391,21 @@ Leflunomide medac 10 mg film-coated tablets are white to almost white and round 
 
 The tablets are packed in bottles. Leflunomide medac 10 mg film-coated tablets: Pack sizes of 30, 60 or 100 film-coated tablets per bottle are available.
 
-Not all pack sizes may be marketed.
-
 <div style=\"page-break-after: always\"></div>
+
+Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-medac Gesellschaft für klinische Spezialpräparate mbH Theaterstr. 6 22880 Wedel Germany
+Gesellschaft für klinische Spezialpräparate mbH
+
+medac Theaterstr. 6 22880 Wedel Germany
 
 ## Manufacturer
 
 Haupt Pharma Münster GmbH Schleebrüggenkamp 15 48159 Münster Germany
 
-medac Theaterstr. 6 22880 Wedel Germany
-
-Gesellschaft für klinische Spezialpräparate mbH
+medac Gesellschaft für klinische Spezialpräparate mbH Theaterstr. 6 22880 Wedel Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1394,49 +1413,41 @@ For any information about this medicine, please contact the local representative
 
 Pharmanovia Benelux B.V. Tél/Tel: +31 76 560 0030 Leflunomide@medac.eu
 
-## България
-
-medac GmbH Teл.: +49 4103 8006-0 Leflunomide@medac.eu
-
-## Česká republika / Slovenská republika
-
-medac GmbH organizacni slozka Tel: +420 774 486 166 Leflunomid@medac.eu
-
-## Danmark / Sverige
-
-medac
-
-Gesellschaft für klinische Spezialpräparate G.m.b.H, Tyskland, filial Tlf.: +46 44 7850 666 Leflunomide@medac.eu
-
-## Deutschland
-
-medac GmbH
-
-Tel: +49 4103 8006-0
-
-Leflunomid@medac.eu
-
 ## Κύπρος
 
 Gidamed Medical Supplies Ltd. Τηλ:+ 357 -257 510 30 Leflunomide@medac.eu
+
+## България
+
+medac GmbH Teл.: +49 4103 8006-0 Leflunomide@medac.eu
 
 ## Luxembourg/Luxemburg
 
 medac GmbH Tél/Tel: +49 4103 8006-0 Leflunomide@medac.eu
 
+## Česká republika / Slovenská republika
+
+medac GmbH organizacni slozka Tel: +420 774 486 166 Leflunomid@medac.eu
+
 ## Magyarország
-
-medac GmbH Tel: +49 4103 8006-0 Leflunomide@medac.eu
-
-## Malta
-
-medac GmbH Tel: +49 4103 8006-0 Leflunomide@medac.eu
-
-## Nederland
 
 medac GmbH Tel: +49 4103 8006-0
 
 Leflunomide@medac.eu
+
+## Danmark / Sverige
+
+medac Gesellschaft für klinische Spezialpräparate G.m.b.H, Tyskland, filial Tlf.: +46 44 7850 666 Leflunomide@medac.eu
+
+## Malta
+
+medac GmbH Tel: +49 4103 8006-0
+
+Leflunomide@medac.eu
+
+Deutschland medac GmbH Tel: +49 4103 8006-0 Leflunomid@medac.eu
+
+Nederland medac GmbH Tel: +49 4103 8006-0 Leflunomide@medac.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1462,9 +1473,11 @@ Laboratorios Gebro Pharma, S.A. Tel:  +34 93 205 86 86 Leflunomida@medac.eu
 
 ## France
 
-medac s.a.s. Tél: + 33 437 66 14 70
+medac s.a.s.
 
-Leflunomide@medac.eu
+Tél: + 33 437 66 14 70
+
+[Leflunomide@medac.eu](mailto:14%2070%0dLeflunomide@me)
 
 ## Hrvatska
 
@@ -1482,7 +1495,7 @@ Leflunomide@medac.eu
 
 Vistor ehf. Sími: + 354 535 7000
 
-Leflunomide@medac.eu
+[Leflunomide@medac.eu](mailto:%207000%0dLeflunomide@me)
 
 ## Italia
 
@@ -1510,7 +1523,7 @@ EVER Valinject GmbH Tel: +43 7665 20555 Leflunomide@medac.eu
 
 medac GmbH Sp. Z.o.o.
 
-Tel: + 48 22 430 00 30 Leflunomid@medac.eu
+[Tel: + 48 22 430 00 30 Leflunomid@medac.eu](mailto:Leflunomid@medac.eu)
 
 ## Portugal
 
@@ -1595,453 +1608,11 @@ Leflunomide medac can occasionally cause some problems with your blood, liver, l
 
 DRESS appears initially as flu-like symptoms and a rash on the face then an extended rash with a high temperature, increased levels of liver enzymes seen in blood tests and an increase in a type of white blood cell (eosinophilia) and enlarged lymph nodes.
 
-Your doctor will carry out blood tests at regular intervals, before and during treatment with Leflunomide medac, to monitor your blood cells and liver. Your doctor will also check your blood pressure regularly as Leflunomide medac can cause an increase in blood pressure.
+## Haemophagocytic lymphohistiocytosis (HLH)
 
-Tell your doctor if you have unexplained chronic diarrhoea. Your doctor may perform additional tests for differential diagnosis.
+There have been reports of a rare but very serious immune system reaction, in patients taking leflunomide.
 
-Tell your doctor if you develop skin ulcer during treatment with Leflunomide medac (see also section 4).
-
-## Children and adolescents
-
-Leflunomide medac is not recommended for use in children and adolescents below 18 years of age .
-
-## Other medicines and Leflunomide medac
-
-Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This includes medicines obtained without a prescription.
-
-This is especially important if you are taking:
-
-- other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive drugs (e.g. methotrexate) as these combinations are not advisable,
-- warfarin and other oral medicines used to thin the blood, as monitoring is necessary to reduce the risk of side effects of this medicine
-- teriflunomide for multiple sclerosis
-- repaglinide, pioglitazone, nateglinide, or rosiglitazone for diabetes
-- daunorubicin, doxorubicin, paclitaxel, or topotecan for cancer
-- duloxetine for depression, urinary incontinence or in kidney disease in diabetics
-- alosetron for the management of severe diarrhoea
-- theophylline for asthma
-
-<div style=\"page-break-after: always\"></div>
-
-- tizanidine, a muscle relaxant
-- oral contraceptives (containing ethinylestradiol and levonorgestrel)
-- cefaclor, benzylpenicillin (penicillin G), ciprofloxacin for infections
-- indomethacin, ketoprofen for pain or inflammation
-- furosemide for heart disease (diuretic, water pill)
-- zidovudine for HIV infection
-- rosuvastatin, simvastatin, atorvastatin, pravastatin for hypercholesterolemia (high cholesterol)
-- sulfasalazine for inflammatory bowel disease or rheumatoid arthritis
-- a medicine called colestyramine (used to reduce high cholesterol) or activated charcoal as these medicines can reduce the amount of Leflunomide medac which is absorbed by the body.
-
-If you are already taking a non-steroidal anti -inflammatory drug (NSAID) and/or corticosteroids , you may continue to take them after starting Leflunomide medac.
-
-## Vaccinations
-
-If you have to be vaccinated, ask your doctor for advice. Certain vaccinations should not be given while taking Leflunomide medac, and for a certain amount of time after stopping treatment.
-
-## Leflunomide medac with food, drink and alcohol
-
-Leflunomide medac may be taken with or without food.
-
-It is not recommended to drink alcohol during treatment with Leflunomide medac. Drinking alcohol while taking Leflunomide medac may increase the chance of liver damage.
-
-## Pregnancy and breast -feeding
-
-Do not take Leflunomide medac if you are, or think you may be pregnant . If you are pregnant or become pregnant while taking Leflunomide medac, the risk of having a baby with serious birth defects is increased. Women of childbearing potential must not take Leflunomide medac without using reliable contraceptive measures.
-
-Tell your doctor if you plan to become pregnant after stopping treatment with Leflunomide medac, as you need to ensure that all traces of Leflunomide medac have left your body before trying to become pregnant. This may take up to 2 years. This may be reduced to a few weeks by taking certain medicines which speed up removal of Leflunomide medac from your body. In either case it should be confirmed by a blood test that Leflunomide medac has been sufficiently removed from your body and you should then wait for at least another month before you become pregnant.
-
-For further information on the laboratory testing please contact your doctor.
-
-If you suspect that you are pregnant while taking Leflunomide medac or in the two years after you have stopped treatment, you must contact your doctor immediately for a pregnancy test. If the test confirms that you are pregnant, your doctor may suggest treatment with certain medicines to remove Leflunomide medac rapidly and sufficiently from your body, as this may decrease the risk to your baby.
-
-Do not take Leflunomide medac when you are breast -feeding , as leflunomide passes into the breast milk.
-
-## Driving and using machines
-
-Leflunomide medac can make you feel dizzy which may impair your ability to concentrate and react. If you are affected, do not drive or use machines.
-
-## Leflunomide medac contains lactose
-
-If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
-
-<div style=\"page-break-after: always\"></div>
-
-## Leflunomide medac contains soya lecithin
-
-If you are allergic to peanut or soya, do not use this medicine.
-
-## Leflunomide medac contains sodium
-
-This medicine contains less than 1 mmol sodium (23 mg) per film-coated tablet, that is to say essentially 'sodium-free'.
-
-## 3. How to take Leflunomide medac
-
-Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
-
-The usual starting dose of Leflunomide medac is 100 mg once daily for the first three days. After this, most patients need a dose of:
-
-- For rheumatoid arthritis: 10 to 20 mg Leflunomide medac once daily, depending on the severity of the disease.
-- For psoriatic arthritis: 20 mg Leflunomide medac once daily.
-
-Swallow the tablet whole and with plenty of water .
-
-It may take about 4 weeks or longer until you start to feel an improvement in your condition. Some patients may even still feel further improvements after 4 to 6 months of therapy. You will normally take Leflunomide medac over long periods of time.
-
-## If you take more Leflunomide medac than you should
-
-If you take more Leflunomide medac than you should, contact your doctor or get other medical advice. If possible, take your tablets or the box with you to show the doctor.
-
-## If you forget to take Leflunomide medac
-
-If you forget to take a dose, take it as soon as you remember, unless it is nearly time for your next dose. Do not take a double dose to make up for a forgotten dose.
-
-If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
-
-## 4. Possible side effects
-
-Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-Tell your doctor immediately and stop taking Leflunomide medac:
-
-- if you experience weakness , feel light-headed or dizzy or have difficulty breathing, as these may be signs of a serious allergic reaction,
-- if you develop a skin rash or ulcers in your mouth , as these may indicate severe, sometimes life-threatening reactions (e.g. Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), see section 2.
-
-Tell your doctor immediately if you experience:
-
-- pale skin , tiredness, or bruising, as these may indicate blood disorders caused by an imbalance in the different types of blood cells which make up blood,
-- tiredness , abdominal pain , or jaundice (yellow discolouration of the eyes or skin), as these may indicate serious conditions such as liver failure, which may be fatal,
-- any symptoms of an infection such as fever, sore throat or cough, as this medicine may increase the chance of a severe infection which may be life-threatening,
-- cough or breathing problems as these may indicate problems of the lung (interstitial lung disease, pulmonary hypertension or pulmonary nodule),
-
-<div style=\"page-break-after: always\"></div>
-
-- unusual tingling, weakness or pain in your hands or feet as these may indicate problems with your nerves (peripheral neuropathy).
-
-## Common side effects (may affect up to 1 in 10 people)
-
-- a slight decrease in the number of white blood cells (leucopenia),
-- mild allergic reactions,
-- loss of appetite, weight loss (usually insignificant),
-- tiredness (asthenia),
-- headache, dizziness,
-- abnormal skin sensations like tingling (paraesthesia),
-- mild increase in blood pressure,
-- colitis,
-- diarrhoea,
-- nausea, vomiting,
-- inflammation of the mouth or mouth ulcers,
-- abdominal pain,
-- an increase in some liver test results,
-- increased hair loss,
-- eczema, dry skin, rash, itching,
-- tendonitis (pain caused by inflammation in the membrane surrounding the tendons usually in the feet or hands),
-- an increase of certain enzymes in the blood (creatine phosphokinase),
-- problems in the nerves of the arms or legs (peripheral neuropathy).
-
-## Uncommon side effects (may affect up to 1 in 100 people)
-
-- a decrease in the number of red blood cells (anaemia) and a decrease in the number of blood platelets (thrombocytopenia),
-- a decrease in the levels of potassium in the blood,
-- anxiety,
-- taste disturbances,
-- urticaria (nettle rash),
-- tendon rupture,
-- an increase in the levels of fat in the blood (cholesterol and triglycerides),
-- a decrease in the levels of phosphate in the blood.
-
-## Rare side effects (may affect up to 1 in 1,000 people)
-
-- an increase in the numbers of blood cells called eosinophiles (eosinophilia); mild decrease in the number of white blood cells (leucopenia); decrease in the number of all blood cells (pancytopenia),
-- severe increase in blood pressure,
-- inflammation of the lung (interstitial lung disease),
-- an increase in some liver results which may develop into serious conditions such as hepatitis and jaundice,
-- severe infections called sepsis which may be fatal,
-- an increase of certain enzymes in the blood (lactate dehydrogenase).
-
-## Very rare side effects (may affect up to 1 in 10,000 people)
-
-- a marked decrease of some white blood cells (agranulocytosis),
-- severe and potentially severe allergic reactions,
-- inflammation of blood vessels (vasculitis, including cutaneous necrotizing vasculitis),
-- inflammation of the pancreas (pancreatitis),
-- severe liver injury such as liver failure or necrosis which may be fatal,
-- severe sometimes life-threatening reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
-
-Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary
-
-<div style=\"page-break-after: always\"></div>
-
-hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis (new or worsening), DRESS and skin ulcer (round, open sore in the skin through which the underlying tissues can be seen) may also occur with an unknown frequency.
-
-## Reporting of side effects
-
-If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-## 5. How to store Leflunomide medac
-
-Keep this medicine out of the sight and reach of children.
-
-Do not use this medicine after the expiry date which is stated on the outer carton and on the bottle after EXP. The expiry date refers to the last day of that month.
-
-Keep the bottle tightly closed in order to protect from moisture.
-
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-## 6. Contents of the pack and other information
-
-## What Leflunomide medac contains
-
-- •
-- The active substance is leflunomide.
-
-One tablet of Leflunomide medac 15 mg film-coated tablets contains 15 mg of leflunomide.
-
-- The other ingredients are lactose monohydrate, low-substituted hydroxypropyl cellulose, tartaric acid, sodium laurylsulfate and magnesium stearate in the tablet core as well as lecithin (soybeans), poly(vinyl alcohol), talc, titanium dioxide (E 171) and xanthan gum in the film-coating.
-
-## What Leflunomide medac looks like and contents of the pack
-
-Leflunomide medac 15 mg film-coated tablets are white to almost white and round with a diameter of about 7 mm. One side of the tablet is debossed with '15'.
-
-The tablets are packed in bottles.
-
-Leflunomide medac 15 mg film-coated tablets: Pack sizes of 30, 60, 90 or 100 film-coated tablets per bottle are available.
-
-Not all pack sizes may be marketed.
-
-## Marketing Authorisation Holder
-
-medac Gesellschaft für klinische Spezialpräparate mbH Theaterstr. 6 22880 Wedel Germany
-
-<div style=\"page-break-after: always\"></div>
-
-## Manufacturer
-
-Haupt Pharma Münster GmbH Schleebrüggenkamp 15 48159 Münster Germany
-
-medac
-
-Gesellschaft für klinische Spezialpräparate mbH Theaterstr. 6 22880 Wedel Germany
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-## België/Belgique/Belgien
-
-Pharmanovi a B.V. Tél/Tel: +31 76 560 0030 Leflunomide@medac.eu
-
-## България
-
-medac GmbH Teл .:+49 4103 8006-0 Leflunomide@medac.eu
-
-## Česká republika / Slovenská republika
-
-medac GmbH organizacni slozka Tel: +420 774 486 166 Leflunomid@medac.eu
-
-## Danmark / Sverige
-
-medac Gesellschaft für klinische Spezialpräparate G.m.b.H, Tyskland, filial Tlf.: +46 44 7850 666 Leflunomide@medac.eu
-
-## Deutschland
-
-medac GmbH Tel: +49 4103 8006-0
-
-Leflunomid@medac.eu
-
-## Eesti / Latvija / Lietuva
-
-ViaSana Tel: +370 5 2788 414 Leflunomide@medac.eu
-
-## Ελλάδα
-
-medac GmbH Τηλ: + 49 4103 8006 -0 Leflunomide@medac.eu
-
-## Κύπρος
-
-Gidamed Medical Supplies Ltd. Τηλ :+ 357-257 510 30 Leflunomide@medac.eu
-
-## Luxembourg/Luxemburg
-
-medac GmbH Tél/Tel: +49 4103 8006-0 Leflunomide@medac.eu
-
-## Magyarország
-
-medac GmbH Tel: +49 4103 8006-0
-
-Leflunomide@medac.eu
-
-## Malta
-
-medac GmbH Tel: +49 4103 8006-0
-
-Leflunomide@medac.eu
-
-## Nederland
-
-medac GmbH Tel: +49 4103 8006-0
-
-Leflunomide@medac.eu
-
-## Norge
-
-medac Gesellschaft für klinische Spezialpräparate G.m.b.H, Tyskland, filial Tlf: + 47 90 63 81 04 Leflunomide@medac.eu
-
-## Österreich
-
-EVER Valinject GmbH Tel: +43 7665 20555 Leflunomide@medac.eu
-
-<div style=\"page-break-after: always\"></div>
-
-## España
-
-Laboratorios Gebro Pharma, S.A.
-
-Tel:  +34 93 205 86 86
-
-Leflunomida@medac.eu
-
-## France
-
-medac s.a.s.
-
-Tél: + 33 437 66 14 70
-
-Leflunomide@medac.eu
-
-## Hrvatska
-
-Medis Adria d.o.o.
-
-Tel: + 385 (0) 1 230 34 46
-
-Leflunomid@medac.eu
-
-## Ireland
-
-medac GmbH
-
-Tel: +49 4103 8006-0
-
-Leflunomide@medac.eu
-
-## Ísland
-
-Vistor ehf.
-
-Sími: + 354 535 7000
-
-Leflunomide@medac.eu
-
-## Italia
-
-medac Pharma S.r.l. Tel: + 39 06 515912 1 Leflunomide@medac.eu
-
-## This leaflet was last revised in {MM/YYYY}
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.
-
-## Polska
-
-medac GmbH Sp. z.o.o.
-
-Tel: + 48 22 430 00 30
-
-Leflunomid@medac.eu
-
-## Portugal
-
-medac GmbH - Sucursal em Portugal
-
-Tel: + 351 21 410 75 83
-
-Leflunomida@medac.eu
-
-## România
-
-medac GmbH
-
-Tel:  +49 4103 8006-0
-
-Leflunomide@medac.eu
-
-## Slovenija
-
-medac GmbH
-
-Tel: +49 4103 8006-0
-
-Leflunomid@medac.eu
-
-## Suomi/Finland
-
-medac
-
-Gesellschaft für klinische Spezialpräparate G.m.b.H, Tyskland, filial
-
-Puh/Tel: +358 10 420 4000
-
-Leflunomide@medac.eu
-
-<div style=\"page-break-after: always\"></div>
-
-## Package leaflet: Information for the user
-
-## Leflunomide medac 20 mg film-coated tablets leflunomide
-
-## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
-
-- Keep this leaflet. You may need to read it again.
-- If you have any further questions, ask your doctor, pharmacist or nurse.
-- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
-
-## What is in this leaflet
-
-1. What Leflunomide medac is and what it is used for
-2. What you need to know before you take Leflunomide medac
-3. How to take Leflunomide medac
-4. Possible side effects
-5. How to store Leflunomide medac
-6. Contents of the pack and other information
-
-## 1. What Leflunomide medac is and what it is used for
-
-Leflunomide medac belongs to a group of medicines called anti-rheumatic medicines. It contains the active substance leflunomide.
-
-Leflunomide medac is used to treat adult patients with active rheumatoid arthritis or with active psoriatic arthritis.
-
-Symptoms of rheumatoid arthritis include inflammation of joints, swelling, difficulty moving and pain. Other symptoms that affect the entire body include loss of appetite, fever, loss of energy and anaemia (lack of red blood cells).
-
-Symptoms of active psoriatic arthritis include inflammation of joints, swelling, difficulty in moving, pain, and patches of red, scaly skin (skin lesions).
-
-## 2. What you need to know before you take Leflunomide medac
-
-## Do not take Leflunomide medac
-
-- if you have ever had an allergic reaction to leflunomide (especially a serious skin reaction, often accompanied by fever, joint pain, red skin stains, or blisters e.g. Stevens-Johnson syndrome), peanut or soya or to any of the other ingredients of this medicine (listed in section 6), or if you are allergic to teriflunomide (used to treat multiple sclerosis),
-- if you have any liver problems ,
-- if you have moderate to severe kidney problems ,
-- if you have severely low numbers of proteins in your blood (hypoproteinaemia),
-- if you suffer from any problem which affects your immune system (e.g. AIDS),
-- if you have any problem with your bone marrow, or if you have low numbers of red or white cells in your blood or a reduced number of blood platelets,
-- if you are suffering from a serious infection ,
-- if you are pregnant , think you may be pregnant, or are breast-feeding.
-
-<div style=\"page-break-after: always\"></div>
-
-## Warnings and precautions
-
-Talk to your doctor, pharmacist or nurse before taking Leflunomide medac
-
-- if you have ever suffered from inflammation of the lung (interstitial lung disease ) ,
-- if you have ever had tuberculosis or if you have been in close contact with someone who has or has had tuberculosis. Your doctor may perform tests to see if you have tuberculosis
-- if you are male and wish to father a child. As it cannot be excluded that Leflunomide medac passes into semen, reliable contraception should be used during treatment with Leflunomide medac. Men wishing to father a child should contact their doctor who may advise them to stop taking Leflunomide medac and take certain medicines to remove Leflunomide medac rapidly and sufficiently from their body. You will then need a blood test to make sure that Leflunomide medac has been sufficiently removed from your body, and you should then wait for at least another 3 months before attempting to father a child.
-- if you are due to have a specific blood test (calcium level). Falsely low levels of calcium can be detected.
-- if you will have or have had recent major surgery, or if you still have an unhealed wound following surgery. Leflunomide medac may impair wound healing.
-
-Leflunomide medac can occasionally cause some problems with your blood, liver, lungs or nerves in your arms or legs. It may also cause some serious allergic reactions (including Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), or increase the chance of a severe infection. For more information on these, please read section 4 (Possible side effects).
-
-DRESS appears initially as flu-like symptoms and a rash on the face then an extended rash with a high temperature, increased levels of liver enzymes seen in blood tests and an increase in a type of white blood cell (eosinophilia) and enlarged lymph nodes.
+- -Contact your doctor or pharmacist immediately if you experience any of the following symptoms while taking Leflunomide medac: fever, rash, neurological symptoms (e.g. shaking or tremor, confusional state, disturbances of brain function).
 
 Your doctor will carry out blood tests at regular intervals, before and during treatment with Leflunomide medac, to monitor your blood cells and liver. Your doctor will also check your blood pressure regularly as Leflunomide medac can cause an increase in blood pressure.
 
@@ -2060,15 +1631,15 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 This is especially important if you are taking:
 
 - other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive drugs (e.g. methotrexate) as these combinations are not advisable,
+
+<div style=\"page-break-after: always\"></div>
+
 - warfarin and other oral medicines used to thin the blood, as monitoring is necessary to reduce the risk of side effects of this medicine
 - teriflunomide for multiple sclerosis
 - repaglinide, pioglitazone, nateglinide, or rosiglitazone for diabetes
 - daunorubicin, doxorubicin, paclitaxel, or topotecan for cancer
 - duloxetine for depression, urinary incontinence or in kidney disease in diabetics
 - alosetron for the management of severe diarrhoea
-
-<div style=\"page-break-after: always\"></div>
-
 - theophylline for asthma
 - tizanidine, a muscle relaxant
 - oral contraceptives (containing ethinylestradiol and levonorgestrel)
@@ -2076,8 +1647,7 @@ This is especially important if you are taking:
 - indomethacin, ketoprofen for pain or inflammation
 - furosemide for heart disease (diuretic, water pill)
 - zidovudine for HIV infection
-- rosuvastatin, simvastatin, atorvastatin, pravastatin for hypercholesterolemia (high cholesterol)
-- sulfasalazine for inflammatory bowel disease or rheumatoid arthritis
+- rosuvastatin, simvastatin, atorvastatin, pravastatin for hypercholesterolemia (high cholesterol) sulfasalazine for inflammatory bowel disease or rheumatoid arthritis
 - a medicine called colestyramine (used to reduce high cholesterol) or activated charcoal as these medicines can reduce the amount of Leflunomide medac which is absorbed by the body.
 
 If you are already taking a non-steroidal anti -inflammatory drug (NSAID) and/or corticosteroids , you may continue to take them after starting Leflunomide medac.
@@ -2096,7 +1666,9 @@ It is not recommended to drink alcohol during treatment with Leflunomide medac. 
 
 Do not take Leflunomide medac if you are, or think you may be pregnant . If you are pregnant or become pregnant while taking Leflunomide medac, the risk of having a baby with serious birth defects is increased. Women of childbearing potential must not take Leflunomide medac without using reliable contraceptive measures.
 
-Tell your doctor if you plan to become pregnant after stopping treatment with Leflunomide medac, as you need to ensure that all traces of Leflunomide medac have left your body before trying to become pregnant. This may take up to 2 years. This may be reduced to a few weeks by taking certain medicines which speed up removal of Leflunomide medac from your body. In either case it should be confirmed by a blood test that Leflunomide medac has been sufficiently removed from your body and you should then wait for at least another month before you become pregnant.
+Tell your doctor if you plan to become pregnant after stopping treatment with Leflunomide medac, as
+
+you need to ensure that all traces of Leflunomide medac have left your body before trying to become pregnant. This may take up to 2 years. This may be reduced to a few weeks by taking certain medicines which speed up removal of Leflunomide medac from your body. In either case it should be confirmed by a blood test that Leflunomide medac has been sufficiently removed from your body and you should then wait for at least another month before you become pregnant.
 
 For further information on the laboratory testing please contact your doctor.
 
@@ -2104,11 +1676,11 @@ If you suspect that you are pregnant while taking Leflunomide medac or in the tw
 
 Do not take Leflunomide medac when you are breast -feeding , as leflunomide passes into the breast milk.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Driving and using machines
 
 Leflunomide medac can make you feel dizzy which may impair your ability to concentrate and react. If you are affected, do not drive or use machines.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Leflunomide medac contains lactose
 
@@ -2237,14 +1809,18 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Leflunomide medac contains
 
 - The active substance is leflunomide.
-- One tablet of Leflunomide medac 20 mg film-coated tablets contains 20 mg of leflunomide.
+
+One tablet of Leflunomide medac 15 mg film-coated tablets contains 15 mg of leflunomide.
+
 - The other ingredients are lactose monohydrate, low-substituted hydroxypropyl cellulose, tartaric acid, sodium laurylsulfate and magnesium stearate in the tablet core as well as lecithin (soybeans), poly(vinyl alcohol), talc, titanium dioxide (E 171) and xanthan gum in the film-coating.
 
 ## What Leflunomide medac looks like and contents of the pack
 
-Leflunomide medac 20 mg film-coated tablets are white to almost white and round with a diameter of about 8 mm and a break-mark on one side of the tablet. The tablet can be divided into equal halves.
+Leflunomide medac 15 mg film-coated tablets are white to almost white and round with a diameter of about 7 mm. One side of the tablet is debossed with '15'.
 
-The tablets are packed in bottles. Leflunomide medac 20 mg film-coated tablets: Pack sizes of 15, 30, 60 or 100 film-coated tablets per bottle are available.
+## The tablets are packed in bottles.
+
+Leflunomide medac 15 mg film-coated tablets: Pack sizes of 30, 60, 90 or 100 film-coated tablets per bottle are available.
 
 Not all pack sizes may be marketed.
 
@@ -2266,7 +1842,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Pharmanovia B.V.
+Pharmanovi a B.V.
 
 Tél/Tel: +31 76 560 0030
 
@@ -2274,11 +1850,15 @@ Leflunomide@medac.eu
 
 ## Κύπρος
 
-Gidamed Medical Supplies Ltd. Τηλ:+ 357 -257 510 30 Leflunomide@medac.eu
+Gidamed Medical Supplies Ltd. Τηλ :+ 357-257 510 30 Leflunomide@medac.eu
 
 ## България
 
-medac GmbH Teл.: +49 4103 8006-0
+medac GmbH
+
+Teл
+
+.:+49 4103 8006-0
 
 Leflunomide@medac.eu
 
@@ -2304,7 +1884,9 @@ Leflunomide@medac.eu
 
 ## Danmark / Sverige
 
-medac Gesellschaft für klinische Spezialpräparate G.m.b.H, Tyskland, filial Tlf.: +46 44 7850 666 Leflunomide@medac.eu
+medac Gesellschaft für klinische Spezialpräparate G.m.b.H, Tyskland, filial Tlf.: +46 44 7850 666
+
+Leflunomide@medac.eu
 
 ## Malta
 
@@ -2352,7 +1934,441 @@ Laboratorios Gebro Pharma, S.A. Tel:  +34 93 205 86 86 Leflunomida@medac.eu
 
 ## France
 
-medac s.a.s. Tél: + 33 437 66 14 70
+medac s.a.s. Tél: + 33 437 66 14 70 Leflunomide@medac.eu
+
+## Hrvatska
+
+Medis Adria d.o.o. Tel: + 385 (0) 1 230 34 46 Leflunomid@medac.eu
+
+## Ireland
+
+medac GmbH Tel: +49 4103 8006-0
+
+Leflunomide@medac.eu
+
+## Ísland
+
+Vistor ehf. Sími: + 354 535 7000
+
+Leflunomide@medac.eu
+
+## Italia
+
+medac Pharma S.r.l.
+
+Tel: + 39 06 515912 1
+
+Leflunomide@medac.eu
+
+## This leaflet was last revised in {MM/YYYY}
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency website: https://www.ema.europa.eu.
+
+## Norge
+
+medac Gesellschaft für klinische Spezialpräparate G.m.b.H, Tyskland, filial Tlf: + 47 90 63 81 04 Leflunomide@medac.eu
+
+## Österreich
+
+EVER Valinject GmbH Tel: +43 7665 20555 Leflunomide@medac.eu
+
+## Polska
+
+medac GmbH Sp. z.o.o. Tel: + 48 22 430 00 30 Leflunomid@medac.eu
+
+## Portugal
+
+medac GmbH - Sucursal em Portugal Tel: + 351 21 410 75 83 Leflunomida@medac.eu
+
+## România
+
+medac GmbH
+
+Tel:  +49 4103 8006-0
+
+Leflunomide@medac.eu
+
+## Slovenija
+
+medac GmbH Tel: +49 4103 8006-0
+
+Leflunomid@medac.eu
+
+## Suomi/Finland
+
+medac Gesellschaft für klinische Spezialpräparate G.m.b.H, Tyskland, filial Puh/Tel: +358 10 420 4000 Leflunomide@medac.eu
+
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
+
+## Leflunomide medac 20 mg film-coated tablets leflunomide
+
+## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
+
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor, pharmacist or nurse.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Leflunomide medac is and what it is used for
+2. What you need to know before you take Leflunomide medac
+3. How to take Leflunomide medac
+4. Possible side effects
+5. How to store Leflunomide medac
+6. Contents of the pack and other information
+
+## 1. What Leflunomide medac is and what it is used for
+
+Leflunomide medac belongs to a group of medicines called anti-rheumatic medicines. It contains the active substance leflunomide.
+
+Leflunomide medac is used to treat adult patients with active rheumatoid arthritis or with active psoriatic arthritis.
+
+Symptoms of rheumatoid arthritis include inflammation of joints, swelling, difficulty moving and pain. Other symptoms that affect the entire body include loss of appetite, fever, loss of energy and anaemia (lack of red blood cells).
+
+Symptoms of active psoriatic arthritis include inflammation of joints, swelling, difficulty in moving, pain, and patches of red, scaly skin (skin lesions).
+
+## 2. What you need to know before you take Leflunomide medac
+
+## Do not take Leflunomide medac
+
+- if you have ever had an allergic reaction to leflunomide (especially a serious skin reaction, often accompanied by fever, joint pain, red skin stains, or blisters e.g. Stevens-Johnson syndrome), peanut or soya or to any of the other ingredients of this medicine (listed in section 6), or if you are allergic to teriflunomide (used to treat multiple sclerosis),
+- if you have any liver problems ,
+- if you have moderate to severe kidney problems ,
+- if you have severely low numbers of proteins in your blood (hypoproteinaemia),
+- if you suffer from any problem which affects your immune system (e.g. AIDS),
+- if you have any problem with your bone marrow, or if you have low numbers of red or white cells in your blood or a reduced number of blood platelets,
+- if you are suffering from a serious infection ,
+- if you are pregnant , think you may be pregnant, or are breast-feeding.
+
+<div style=\"page-break-after: always\"></div>
+
+## Warnings and precautions
+
+Talk to your doctor, pharmacist or nurse before taking Leflunomide medac
+
+- if you have ever suffered from inflammation of the lung (interstitial lung disease ) ,
+- if you have ever had tuberculosis or if you have been in close contact with someone who has or has had tuberculosis. Your doctor may perform tests to see if you have tuberculosis
+- if you are male and wish to father a child. As it cannot be excluded that Leflunomide medac passes into semen, reliable contraception should be used during treatment with Leflunomide medac. Men wishing to father a child should contact their doctor who may advise them to stop taking Leflunomide medac and take certain medicines to remove Leflunomide medac rapidly and sufficiently from their body. You will then need a blood test to make sure that Leflunomide medac has been sufficiently removed from your body, and you should then wait for at least another 3 months before attempting to father a child.
+- if you are due to have a specific blood test (calcium level). Falsely low levels of calcium can be detected.
+- if you will have or have had recent major surgery, or if you still have an unhealed wound following surgery. Leflunomide medac may impair wound healing.
+
+Leflunomide medac can occasionally cause some problems with your blood, liver, lungs or nerves in your arms or legs. It may also cause some serious allergic reactions (including Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), or increase the chance of a severe infection. For more information on these, please read section 4 (Possible side effects).
+
+DRESS appears initially as flu-like symptoms and a rash on the face then an extended rash with a high temperature, increased levels of liver enzymes seen in blood tests and an increase in a type of white blood cell (eosinophilia) and enlarged lymph nodes.
+
+## Haemophagocytic lymphohistiocytosis (HLH)
+
+There have been reports of a rare but very serious immune system reaction, in patients taking leflunomide.
+
+- -Contact your doctor or pharmacist immediately if you experience any of the following symptoms while taking Leflunomide medac: fever, rash, neurological symptoms (e.g. shaking or tremor, confusional state, disturbances of brain function).
+
+Your doctor will carry out blood tests at regular intervals, before and during treatment with Leflunomide medac, to monitor your blood cells and liver. Your doctor will also check your blood pressure regularly as Leflunomide medac can cause an increase in blood pressure.
+
+Tell your doctor if you have unexplained chronic diarrhoea. Your doctor may perform additional tests for differential diagnosis.
+
+Tell your doctor if you develop skin ulcer during treatment with Leflunomide medac (see also section 4).
+
+## Children and adolescents
+
+Leflunomide medac is not recommended for use in children and adolescents below 18 years of age .
+
+## Other medicines and Leflunomide medac
+
+Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This includes medicines obtained without a prescription.
+
+<div style=\"page-break-after: always\"></div>
+
+This is especially important if you are taking:
+
+- other medicines for rheumatoid arthritis such as antimalarials (e.g. chloroquine and hydroxychloroquine), intramuscular or oral gold, D-penicillamine, azathioprine and other immunosuppressive drugs (e.g. methotrexate) as these combinations are not advisable,
+- warfarin and other oral medicines used to thin the blood, as monitoring is necessary to reduce the risk of side effects of this medicine
+- teriflunomide for multiple sclerosis
+- repaglinide, pioglitazone, nateglinide, or rosiglitazone for diabetes
+- daunorubicin, doxorubicin, paclitaxel, or topotecan for cancer
+- duloxetine for depression, urinary incontinence or in kidney disease in diabetics
+- alosetron for the management of severe diarrhoea
+- theophylline for asthma
+- tizanidine, a muscle relaxant
+- oral contraceptives (containing ethinylestradiol and levonorgestrel)
+- cefaclor, benzylpenicillin (penicillin G), ciprofloxacin for infections
+- indomethacin, ketoprofen for pain or inflammation
+- furosemide for heart disease (diuretic, water pill)
+- zidovudine for HIV infection
+- rosuvastatin, simvastatin, atorvastatin, pravastatin for hypercholesterolemia (high cholesterol)
+- sulfasalazine for inflammatory bowel disease or rheumatoid arthritis
+- a medicine called colestyramine (used to reduce high cholesterol) or activated charcoal as these medicines can reduce the amount of Leflunomide medac which is absorbed by the body.
+
+If you are already taking a non-steroidal anti -inflammatory drug (NSAID) and/or corticosteroids , you may continue to take them after starting Leflunomide medac.
+
+## Vaccinations
+
+If you have to be vaccinated, ask your doctor for advice. Certain vaccinations should not be given while taking Leflunomide medac, and for a certain amount of time after stopping treatment.
+
+## Leflunomide medac with food, drink and alcohol
+
+Leflunomide medac may be taken with or without food.
+
+It is not recommended to drink alcohol during treatment with Leflunomide medac. Drinking alcohol while taking Leflunomide medac may increase the chance of liver damage.
+
+## Pregnancy and breast -feeding
+
+Do not take Leflunomide medac if you are, or think you may be pregnant . If you are pregnant or become pregnant while taking Leflunomide medac, the risk of having a baby with serious birth defects is increased. Women of childbearing potential must not take Leflunomide medac without using reliable contraceptive measures.
+
+Tell your doctor if you plan to become pregnant after stopping treatment with Leflunomide medac, as you need to ensure that all traces of Leflunomide medac have left your body before trying to become pregnant. This may take up to 2 years. This may be reduced to a few weeks by taking certain medicines which speed up removal of Leflunomide medac from your body. In either case it should be confirmed by a blood test that Leflunomide medac has been sufficiently removed from your body and you should then wait for at least another month before you become pregnant.
+
+For further information on the laboratory testing please contact your doctor.
+
+If you suspect that you are pregnant while taking Leflunomide medac or in the two years after you have stopped treatment, you must contact your doctor immediately for a pregnancy test. If the test confirms that you are pregnant, your doctor may suggest treatment with certain medicines to remove Leflunomide medac rapidly and sufficiently from your body, as this may decrease the risk to your baby.
+
+<div style=\"page-break-after: always\"></div>
+
+Do not take Leflunomide medac when you are breast -feeding , as leflunomide passes into the breast milk.
+
+## Driving and using machines
+
+Leflunomide medac can make you feel dizzy which may impair your ability to concentrate and react. If you are affected, do not drive or use machines.
+
+## Leflunomide medac contains lactose
+
+If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
+
+## Leflunomide medac contains soya lecithin
+
+If you are allergic to peanut or soya, do not use this medicine.
+
+## Leflunomide medac contains sodium
+
+This medicine contains less than 1 mmol sodium (23 mg) per film-coated tablet, that is to say essentially 'sodium-free'.
+
+## 3. How to take Leflunomide medac
+
+Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
+
+The usual starting dose of Leflunomide medac is 100 mg once daily for the first three days. After this, most patients need a dose of:
+
+- For rheumatoid arthritis: 10 to 20 mg Leflunomide medac once daily, depending on the severity of the disease.
+- For psoriatic arthritis: 20 mg Leflunomide medac once daily.
+
+Swallow the tablet whole and with plenty of water .
+
+It may take about 4 weeks or longer until you start to feel an improvement in your condition. Some patients may even still feel further improvements after 4 to 6 months of therapy. You will normally take Leflunomide medac over long periods of time.
+
+## If you take more Leflunomide medac than you should
+
+If you take more Leflunomide medac than you should, contact your doctor or get other medical advice. If possible, take your tablets or the box with you to show the doctor.
+
+## If you forget to take Leflunomide medac
+
+If you forget to take a dose, take it as soon as you remember, unless it is nearly time for your next dose. Do not take a double dose to make up for a forgotten dose.
+
+If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+Tell your doctor immediately and stop taking Leflunomide medac:
+
+- if you experience weakness , feel light-headed or dizzy or have difficulty breathing, as these may be signs of a serious allergic reaction,
+- if you develop a skin rash or ulcers in your mouth , as these may indicate severe, sometimes
+
+<div style=\"page-break-after: always\"></div>
+
+life-threatening reactions (e.g. Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, Drug Reaction with Eosinophilia and Systemic Symptoms [DRESS]), see section 2.
+
+## Tell your doctor immediately if you experience:
+
+- pale skin , tiredness, or bruising, as these may indicate blood disorders caused by an imbalance in the different types of blood cells which make up blood,
+- tiredness , abdominal pain , or jaundice (yellow discolouration of the eyes or skin), as these may indicate serious conditions such as liver failure, which may be fatal,
+- any symptoms of an infection such as fever, sore throat or cough, as this medicine may increase the chance of a severe infection which may be life-threatening,
+- cough or breathing problems as these may indicate problems of the lung (interstitial lung disease, pulmonary hypertension or pulmonary nodule),
+- unusual tingling, weakness or pain in your hands or feet as these may indicate problems with your nerves (peripheral neuropathy).
+
+## Common side effects (may affect up to 1 in 10 people)
+
+- a slight decrease in the number of white blood cells (leucopenia),
+- mild allergic reactions,
+- loss of appetite, weight loss (usually insignificant),
+- tiredness (asthenia),
+- headache, dizziness,
+- abnormal skin sensations like tingling (paraesthesia),
+- mild increase in blood pressure,
+- colitis,
+- diarrhoea,
+- nausea, vomiting,
+- inflammation of the mouth or mouth ulcers,
+- abdominal pain,
+- an increase in some liver test results,
+- increased hair loss,
+- eczema, dry skin, rash, itching,
+- tendonitis (pain caused by inflammation in the membrane surrounding the tendons usually in the feet or hands),
+- an increase of certain enzymes in the blood (creatine phosphokinase),
+- problems in the nerves of the arms or legs (peripheral neuropathy).
+
+## Uncommon side effects (may affect up to 1 in 100 people)
+
+- a decrease in the number of red blood cells (anaemia) and a decrease in the number of blood platelets (thrombocytopenia),
+- a decrease in the levels of potassium in the blood,
+- anxiety,
+- taste disturbances,
+- urticaria (nettle rash),
+- tendon rupture,
+- an increase in the levels of fat in the blood (cholesterol and triglycerides),
+- a decrease in the levels of phosphate in the blood.
+
+## Rare side effects (may affect up to 1 in 1,000 people)
+
+- an increase in the numbers of blood cells called eosinophiles (eosinophilia); mild decrease in the number of white blood cells (leucopenia); decrease in the number of all blood cells (pancytopenia),
+- severe increase in blood pressure,
+- inflammation of the lung (interstitial lung disease),
+- an increase in some liver results which may develop into serious conditions such as hepatitis and jaundice,
+- severe infections called sepsis which may be fatal,
+
+<div style=\"page-break-after: always\"></div>
+
+- an increase of certain enzymes in the blood (lactate dehydrogenase).
+
+## Very rare side effects (may affect up to 1 in 10,000 people)
+
+- a marked decrease of some white blood cells (agranulocytosis),
+- severe and potentially severe allergic reactions,
+- inflammation of blood vessels (vasculitis, including cutaneous necrotizing vasculitis),
+- inflammation of the pancreas (pancreatitis),
+- severe liver injury such as liver failure or necrosis which may be fatal,
+- severe sometimes life-threatening reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme).
+
+Other side effects such as kidney failure, a decrease in the levels of uric acid in your blood, pulmonary hypertension, male infertility (which is reversible once treatment with this medicine is stopped), cutaneous lupus (characterized by rash/erythema on skin areas that are exposed to light), psoriasis (new or worsening), DRESS and skin ulcer (round, open sore in the skin through which the underlying tissues can be seen) may also occur with an unknown frequency.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Leflunomide medac
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the outer carton and on the bottle after EXP. The expiry date refers to the last day of that month.
+
+Keep the bottle tightly closed in order to protect from moisture.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Leflunomide medac contains
+
+- The active substance is leflunomide.
+
+One tablet of Leflunomide medac 20 mg film-coated tablets contains 20 mg of leflunomide.
+
+- The other ingredients are lactose monohydrate, low-substituted hydroxypropyl cellulose, tartaric acid, sodium laurylsulfate and magnesium stearate in the tablet core as well as lecithin (soybeans), poly(vinyl alcohol), talc, titanium dioxide (E 171) and xanthan gum in the film-coating.
+
+## What Leflunomide medac looks like and contents of the pack
+
+Leflunomide medac 20 mg film-coated tablets are white to almost white and round with a diameter of about 8 mm and a break-mark on one side of the tablet. The tablet can be divided into equal halves.
+
+The tablets are packed in bottles. Leflunomide medac 20 mg film-coated tablets: Pack sizes of 15, 30, 60 or 100 film-coated tablets per
+
+bottle are available.
+
+<div style=\"page-break-after: always\"></div>
+
+Not all pack sizes may be marketed.
+
+## Marketing Authorisation Holder
+
+medac Theaterstr. 6 22880 Wedel Germany
+
+Gesellschaft für klinische Spezialpräparate mbH
+
+## Manufacturer
+
+## Haupt Pharma Münster GmbH
+
+Schleebrüggenkamp 15
+
+48159 Münster
+
+Germany
+
+medac Gesellschaft für klinische Spezialpräparate mbH Theaterstr. 6 22880 Wedel Germany
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Pharmanovia B.V. Tél/Tel: +31 76 560 0030 Leflunomide@medac.eu
+
+## Κύπρος
+
+Gidamed Medical Supplies Ltd. Τηλ:+ 357 -257 510 30 Leflunomide@medac.eu
+
+## България
+
+medac GmbH Teл.: +49 4103 8006-0 Leflunomide@medac.eu
+
+## Luxembourg/Luxemburg
+
+medac GmbH Tél/Tel: +49 4103 8006-0 Leflunomide@medac.eu
+
+## Česká republika / Slovenská republika
+
+medac GmbH organizacni slozka Tel: +420 774 486 166 Leflunomid@medac.eu
+
+## Magyarország
+
+medac GmbH Tel: +49 4103 8006-0
+
+Leflunomide@medac.eu
+
+## Danmark / Sverige
+
+medac Gesellschaft für klinische Spezialpräparate G.m.b.H, Tyskland, filial Tlf.: +46 44 7850 666 Leflunomide@medac.eu
+
+## Malta
+
+medac GmbH
+
+Tel: +49 4103 8006-0
+
+Leflunomide@medac.eu
+
+Deutschland medac GmbH Tel: +49 4103 8006-0 Leflunomid@medac.eu
+
+Nederland medac GmbH Tel: +49 4103 8006-0 Leflunomide@medac.eu
+
+<div style=\"page-break-after: always\"></div>
+
+## Eesti / Latvija / Lietuva
+
+ViaSana
+
+Tel: +370 5 2788 414
+
+Leflunomide@medac.eu
+
+## Ελλάδα
+
+medac GmbH
+
+Τηλ: + 49 4103 8006 -0
+
+Leflunomide@medac.eu
+
+## España
+
+Laboratorios Gebro Pharma, S.A. Tel:  +34 93 205 86 86 Leflunomida@medac.eu
+
+## France
+
+medac s.a.s.
+
+Tél: + 33 437 66 14 70
 
 Leflunomide@medac.eu
 
@@ -2398,7 +2414,11 @@ EVER Valinject GmbH Tel: +43 7665 20555 Leflunomide@medac.eu
 
 ## Polska
 
-medac GmbH Sp. z.o.o. Tel: + 48 22 430 00 30 Leflunomid@medac.eu
+medac GmbH Sp. z.o.o.
+
+Tel: + 48 22 430 00 30
+
+Leflunomid@medac.eu
 
 ## Portugal
 

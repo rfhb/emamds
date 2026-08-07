@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-11-09 19:36:06
+document_datetime: 2026-08-06 16:54:30
 document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/thiotepa-riemser-epar-product-information_en.pdf
 document_name: thiotepa-riemser-epar-product-information_en.pdf
 version: success
-processing_time: 7.6049123
-conversion_datetime: 2025-12-28 18:16:59.865982
+processing_time: 5.7502045
+conversion_datetime: 2026-08-07 14:17:16.044561
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -167,7 +167,7 @@ The recommended dose ranges from 200 mg/m 2 /day (8 mg/kg/day) to 250 mg/m 2 /da
 
 The recommended dose is 125 mg/m 2 /day (5 mg/kg/day) as a single daily infusion, administered for 3 consecutive days before allogeneic HPCT, without exceeding the total maximum cumulative dose of 375 mg/m 2  (15 mg/kg), during the time of the entire conditioning treatment.
 
-## GENETIC DISEASES
+GENETIC DISEASES
 
 The recommended dose is 125 mg/m 2 /day (5 mg/kg/day) as a single daily infusion, administered for 2 consecutive days before allogeneic HPCT, without exceeding the total maximum cumulative dose of 250 mg/m 2  (10 mg/kg), during the time of the entire conditioning treatment.
 
@@ -287,7 +287,7 @@ Due to the increase of thrombotic risk in case of malignancy, the use of anticoa
 
 ## Women of childbearing potential/Contraception in males and females
 
-Women of childbearing potential have to use effective contraception during treatment and a pregnancy test should be performed before treatment is started. Male patients should not father a child while treated and during the year after cessation of treatment (see section 5.3).
+Women of childbearing potential have to use effective contraception during treatment and for at least 6 months after cessation of treatment. A pregnancy test should be performed before treatment is started. Male patients should not father a child while treated and for at least 3 months after cessation of treatment (see section 5.3).
 
 ## Pregnancy
 
@@ -325,7 +325,7 @@ Cases of leukoencephalopathy have been observed following treatment with thiotep
 
 ## Adults
 
-The adverse reactions considered at least possibly related to conditioning treatment including thiotepa, reported in adult patients as more than an isolated case, are listed below by system organ class and by frequency. Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. Frequencies are defined as: very common (≥1/10), common (≥1/100 to &lt;1/1 0), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000) very rare (&lt;1/10 000), not known (cannot be estimated from the available data).
+The adverse reactions considered at least possibly related to conditioning treatment including thiotepa, reported in adult patients as more than an isolated case, are listed below by system organ class and by frequency. Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. Frequencies are defined as: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000) very rare (&lt;1/10 000), not known (cannot be estimated from the available data).
 
 | System organ class                                                   | Very common                                                                           | Common                                                                                | Uncommon                                     | Not known               |
 |----------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|----------------------------------------------|-------------------------|
@@ -458,11 +458,7 @@ GvHD (graft versus host disease): all conditioning treatments evaluated assured 
 
 D isease free survival (DFS): Percentages reported with follow-up periods of more than 1 year and up to 5 years confirm that conditioning treatments containing thiotepa following allogeneic HPCT are effective choices for treating patients with haematological diseases.
 
-Relapse : In all conditioning treatments containing thiotepa, relapse rates at more than 1 year have been reported as being lower than 40% (which was considered by the physicians as the threshold to prove efficacy). In some cases, relapse rates lower than 40% have also been reported at 5 years and 10 years.
-
-Overall survival: OS ranged from 31% to 81% with a follow-up ranging from 7.3 up to 120 months.
-
-Regimen related mortality (RRM) and transplant related mortality ( TRM) : low values have been reported, confirming the safety of the conditioning treatments including thiotepa for allogeneic HPCT in adult patients with haematological diseases.
+Relapse : In all conditioning treatments containing thiotepa, relapse rates at more than 1 year have been reported as being lower than 40% (which was considered by the physicians as the threshold to prove efficacy). In some cases, relapse rates lower than 40% have also been reported at 5 years and 10 years. Overall survival: OS ranged from 31% to 81% with a follow-up ranging from 7.3 up to 120 months. Regimen related mortality (RRM) and transplant related mortality ( TRM) : low values have been reported, confirming the safety of the conditioning treatments including thiotepa for allogeneic HPCT in adult patients with haematological diseases.
 
 ## Paediatric population
 
@@ -472,7 +468,9 @@ Regimen related mortality (RRM) and transplant related mortality ( TRM) : low va
 
 Engraftment: It has been achieved with all reported conditioning regimens including thiotepa. Disease free survival (DFS): With a follow-up of 36 to 57 months, DFS ranged from 46% to 70% in the reported studies. Considering that all patients were treated for high risk solid tumours, DFS results confirm that conditioning treatments containing thiotepa following autologous HPCT are effective therapeutic strategies for treating paediatric patients with solid tumours.
 
-Relapse : In all the reported conditioning regimens containing thiotepa, relapse rates at 12 to 57 months ranged from 33% to 57%. Considering that all patients suffer of recurrence or poor prognosis solid tumours, these rates support the efficacy of conditioning regimens based on thiotepa. Overall survival (OS): OS ranged from 17% to 84% with a follow-up ranging from 12.3 up to 99.6 months.
+Relapse : In all the reported conditioning regimens containing thiotepa, relapse rates at 12 to 57 months ranged from 33% to 57%. Considering that all patients suffer of recurrence or poor prognosis solid
+
+tumours, these rates support the efficacy of conditioning regimens based on thiotepa. Overall survival (OS): OS ranged from 17% to 84% with a follow-up ranging from 12.3 up to 99.6 months.
 
 Regimen related mortality (RRM) and transplant related mortality ( TRM) : RRM values ranging from 0% to 26.7% have been reported. TRM values ranged from 0% to 18% confirming the safety of the conditioning treatments including thiotepa for autologous HPCT in paediatric patients with solid tumours.
 
@@ -486,11 +484,9 @@ Disease free survival (DFS): Percentages of 40% - 75% with follow-up of more tha
 
 Overall survival (OS): OS ranged from 50% to 100% with a follow-up ranging from 9.4 up to 121 months.
 
-Regimen related mortality (RRM) and transplant related mortality ( TRM) : RRM values ranging from 0% to 2.5% have been reported. TRM values ranged from 0% to 30% confirming the safety of the
+Regimen related mortality (RRM) and transplant related mortality ( TRM) : RRM values ranging from 0% to 2.5% have been reported. TRM values ranged from 0% to 30% confirming the safety of the conditioning treatment including thiotepa for allogeneic HPCT in paediatric patients with haematological diseases.
 
 <div style=\"page-break-after: always\"></div>
-
-conditioning treatment including thiotepa for allogeneic HPCT in paediatric patients with haematological diseases.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -604,11 +600,11 @@ Thiotepa Riemser 15 mg powder for concentrate for solution for infusion Thiotepa
 
 ## Thiotepa Riemser 100 mg powder for concentrate for solution for infusion
 
-Thiotepa Riemser must be reconstituted with 10 mL of sterile water for injections.
+Thiotepa Riemser must be reconstituted with 10 mL of sterile water for injections. Using a syringe fitted with a needle, aseptically withdraw 10 mL of sterile water for injections.
 
-Using a syringe fitted with a needle, aseptically withdraw 10 mL of sterile water for injections.
+Inject the content of the syringe into the vial through the rubber stopper. Remove the syringe and the needle and mix manually by repeated inversions. Only colourless solutions, without any particulate matter, must be used. Reconstituted solutions may
 
-Inject the content of the syringe into the vial through the rubber stopper. Remove the syringe and the needle and mix manually by repeated inversions. Only colourless solutions, without any particulate matter, must be used. Reconstituted solutions may occasionally show opalescence; such solutions can still be administered.
+occasionally show opalescence; such solutions can still be administered.
 
 ## Further dilution in the infusion bag
 
@@ -616,9 +612,9 @@ The reconstituted solution is hypotonic and must be further diluted prior to adm
 
 ## Administration
 
-Thiotepa Riemser infusion solution should be inspected visually for particulate matter prior to administration. Solutions containing a precipitate should be discarded. Prior to and following each infusion, the indwelling catheter line should be flushed with approximately 5 mL sodium chloride 9 mg/mL (0.9%) solution for injection.
+Thiotepa Riemser infusion solution should be inspected visually for particulate matter prior to administration. Solutions containing a precipitate should be discarded. Prior to and following each infusion, the indwelling catheter line should be flushed with approximately 5 mL sodium chloride 9 mg/mL (0.9%) solution for injection. The infusion solution must be administered to patients using an infusion set equipped with a 0.2 µm
 
-The infusion solution must be administered to patients using an infusion set equipped with a 0.2 µm in-line filter. Filtering does not alter solution potency.
+in-line filter. Filtering does not alter solution potency.
 
 ## Disposal
 
@@ -1158,7 +1154,7 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 ## What Thiotepa Riemser looks like and contents of the pack
 
-## Thiotepa Riemser 15 mg powder for concentrate for solution for infusion
+Thiotepa Riemser 15 mg powder for concentrate for solution for infusion
 
 Thiotepa Riemser is a white crystalline powder supplied in a glass vial containing 15 mg thiotepa.
 
@@ -1186,7 +1182,7 @@ Lietuva UAB ARMILA Lietuva Tel: +370 (0) 5 2777596 info@armila.com
 
 ## България
 
-Thrive Pharma Ltd. България Teл .: +359 2 878 05 43
+Thrive Pharma Ltd. България Teл.: +359 2 878 05 43
 
 office@thrivepharmabg.com
 
@@ -1248,7 +1244,9 @@ Abacus Medicine A/S Danmark Tlf: +44 (0) 203 630 1244 amps-medinfo@abacusmedicin
 
 AGEA Pharma GmbH Österreich Tel: +43 (0) 1 336 01 41 office@ageapharma.com
 
-Polska COPHARMA JOSEPH RAKOTO Polska Tel.: +48 691 702 426 joseph.rakoto@copharma.pl
+## Polska
+
+COPHARMA JOSEPH RAKOTO Polska Tel.: +48 691 702 426 joseph.rakoto@copharma.pl
 
 ## Portugal
 
@@ -1302,13 +1300,17 @@ MA Pharmaceuticals Trading Ltd.
 
 Κύπρος
 
-Τηλ : +357 25 587112
+Τηλ
+
+: +357 25 587112
 
 regulatory@mapharmagroup.com
 
 ## Sverige
 
-Abacus Medicine A/S Danmark
+Abacus Medicine A/S
+
+Danmark
 
 Tel: +44 (0) 203 630 1244
 
@@ -1486,15 +1488,15 @@ The recommended dose is 250 mg/m 2 /day (10 mg/kg/day) divided in two daily infu
 
 Thiotepa Riemser 15 mg powder for concentrate for solution for infusion Thiotepa Riemser must be reconstituted with 1.5 mL of sterile water for injections. Using a syringe fitted with a needle, aseptically withdraw 1.5 mL of sterile water for injections.
 
-Thiotepa Riemser 100 mg powder for concentrate for solution for infusion
-
-Thiotepa Riemser must be reconstituted with 10 mL of sterile water for injections.
+Thiotepa Riemser 100 mg powder for concentrate for solution for infusion Thiotepa Riemser must be reconstituted with 10 mL of sterile water for injections.
 
 <div style=\"page-break-after: always\"></div>
 
 Using a syringe fitted with a needle, aseptically withdraw 10 mL of sterile water for injections.
 
-Inject the content of the syringe into the vial through the rubber stopper. Remove the syringe and the needle and mix manually by repeated inversions. Only colourless solutions, without any particulate matter, must be used. Reconstituted solutions may occasionally show opalescence; such solutions can still be administered.
+Inject the content of the syringe into the vial through the rubber stopper. Remove the syringe and the needle and mix manually by repeated inversions. Only colourless solutions, without any particulate matter, must be used. Reconstituted solutions may
+
+occasionally show opalescence; such solutions can still be administered.
 
 ## Further dilution in the infusion bag
 

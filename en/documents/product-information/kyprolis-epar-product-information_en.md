@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-04-10 09:44:00
-document_pages: 59
+document_datetime: 2026-08-05 15:51:37
+document_pages: 62
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kyprolis-epar-product-information_en.pdf
 document_name: kyprolis-epar-product-information_en.pdf
 version: success
-processing_time: 21.5342548
-conversion_datetime: 2025-12-26 09:38:26.64282
+processing_time: 22.7045771
+conversion_datetime: 2026-08-07 14:28:26.431883
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -30,7 +30,9 @@ Kyprolis 10 mg powder for solution for infusion Kyprolis 30 mg powder for soluti
 
 Kyprolis 10 mg powder for solution for infusion Each vial contains 10 mg of carfilzomib.
 
-Excipient with known effect Each vial contains 37 mg sodium.
+## Excipient with known effect
+
+Each vial contains 37 mg sodium.
 
 Each vial contains 500 mg of cyclodextrin (betadex sulfobutyl ether sodium).
 
@@ -38,19 +40,13 @@ Each vial contains 500 mg of cyclodextrin (betadex sulfobutyl ether sodium).
 
 Each vial contains 30 mg of carfilzomib.
 
-## Excipient with known effect
+Excipient with known effect Each vial contains 109 mg sodium. Each vial contains 1 500 mg of cyclodextrin (betadex sulfobutyl ether sodium).
 
-Each vial contains 109 mg sodium.
+## Kyprolis 60 mg powder for solution for infusion
 
-Each vial contains 1,500 mg of cyclodextrin (betadex sulfobutyl ether sodium).
+Each vial contains 60 mg of carfilzomib.
 
-Kyprolis 60 mg powder for solution for infusion Each vial contains 60 mg of carfilzomib.
-
-## Excipient with known effect
-
-Each vial contains 216 mg sodium.
-
-Each vial contains 3,000 mg of cyclodextrin (betadex sulfobutyl ether sodium).
+Excipient with known effect Each vial contains 216 mg sodium. Each vial contains 3 000 mg of cyclodextrin (betadex sulfobutyl ether sodium).
 
 After reconstitution, 1 mL of solution contains 2 mg of carfilzomib.
 
@@ -142,7 +138,7 @@ Table 2. Kyprolis in combination with dexamethasone alone
 
 ## Kyprolis in combination with daratumumab and dexamethasone
 
-When combined with daratumumab and dexamethasone, Kyprolis is administered intravenously as a 30-minute infusion on two consecutive days, each week for three weeks (days 1, 2, 8, 9, 15, and 16) followed by a 12-day rest period (days 17 to 28) as shown in table 3. Each 28-day period is considered one treatment cycle.
+When combined with daratumumab and dexamethasone, Kyprolis is administered intravenously as a 30 minute infusion on two consecutive days, each week for three weeks (days 1, 2, 8, 9, 15, and 16) followed by a 12-day rest period (days 17 to 28) as shown in table 3. Each 28-day period is considered one treatment cycle.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -150,7 +146,7 @@ Kyprolis is administered at a starting dose of 20 mg/m 2  (maximum dose 44 mg) i
 
 Treatment may be continued until disease progression or until unacceptable toxicity occurs.
 
-Dexamethasone is administered as 20 mg orally or intravenously on days 1, 2, 8, 9, 15 and 16 and 40 mg orally or intravenously on day 22 of each 28 day cycle. For patients &gt; 75 years of age, administer 20 mg of dexamethasone orally or intravenously weekly after the first week. Dexamethasone should be administered 30 minutes to 4 hours before Kyprolis.
+Dexamethasone is administered as 20 mg orally or intravenously on days 1, 2, 8, 9, 15 and 16 and 40 mg orally or intravenously on day 22 of each 28-day cycle. For patients &gt; 75 years of age, administer 20 mg of dexamethasone orally or intravenously weekly after the first week. Dexamethasone should be administered 30 minutes to 4 hours before Kyprolis.
 
 Daratumumab can be administered intravenously or subcutaneously.
 
@@ -169,7 +165,7 @@ Table 3. Kyprolis in combination with dexamethasone and daratumumab
 |                                             | Cycle 1                                     | Cycle 1                                     | Cycle 1                                     | Cycle 1                                     | Cycle 1                                     | Cycle 1                                     | Cycle 1                                     | Cycle 1                                     | Cycle 1                                     | Cycle 1                                     | Cycle 1                                     | Cycle 1                                     |
 |---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
 |                                             | Week 1                                      | Week 1                                      | Week 1                                      | Week 2                                      | Week 2                                      | Week 2                                      | Week 3                                      | Week 3                                      | Week 3                                      | Week 4                                      | Week 4                                      | Week 4                                      |
-|                                             | Day 1                                       | Day 2                                       | Days 3-7                                    | Day 8                                       | Day 9                                       | Days 10-14                                  | Day 15                                      | Day 16                                      | Days 17-21                                  | Day 22                                      | Day 23                                      | Days 24-28                                  |
+|                                             | Day 1                                       | Day 2                                       | Days 3 - 7                                  | Day 8                                       | Day 9                                       | Days 10 - 14                                | Day 15                                      | Day 16                                      | Days 17 - 21                                | Day 22                                      | Day 23                                      | Days 24 - 28                                |
 | Kyprolis (mg/m 2 ) a                        | 20                                          | 20                                          | -                                           | 56                                          | 56                                          | -                                           | 56                                          | 56                                          | -                                           | -                                           | -                                           | -                                           |
 | Dexamethasone (mg) b                        | 20                                          | 20                                          | -                                           | 20                                          | 20                                          | -                                           | 20                                          | 20                                          | -                                           | 40                                          | -                                           | -                                           |
 | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) |
@@ -181,44 +177,44 @@ Table 3. Kyprolis in combination with dexamethasone and daratumumab
 |                                             | Cycle 2                                     | Cycle 2                                     | Cycle 2                                     | Cycle 2                                     | Cycle 2                                     | Cycle 2                                     | Cycle 2                                     | Cycle 2                                     | Cycle 2                                     | Cycle 2                                     | Cycle 2                                     | Cycle 2                                     |
 |---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
 |                                             | Week 1                                      | Week 1                                      | Week 1                                      | Week 2                                      | Week 2                                      | Week 2                                      | Week 3                                      | Week 3                                      | Week 3                                      | Week 4                                      | Week 4                                      | Week 4                                      |
-|                                             | Day 1                                       | Day 2                                       | Days 3-7                                    | Day 8                                       | Day 9                                       | Days 10-14                                  | Day 15                                      | Day 16                                      | Days 17-21                                  | Day 22                                      | Day 23                                      | Days 24-28                                  |
+|                                             | Day 1                                       | Day 2                                       | Days 3 - 7                                  | Day 8                                       | Day 9                                       | Days 10 - 14                                | Day 15                                      | Day 16                                      | Days 17 - 21                                | Day 22                                      | Day 23                                      | Days 24 - 28                                |
 | Kyprolis (mg/m 2 ) a                        | 56                                          | 56                                          | -                                           | 56                                          | 56                                          | -                                           | 56                                          | 56                                          | -                                           | -                                           | -                                           | -                                           |
 | Dexamethasone (mg) b                        | 20                                          | 20                                          | -                                           | 20                                          | 20                                          | -                                           | 20                                          | 20                                          | -                                           | 40                                          | -                                           | -                                           |
 | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) |
 | IV administration (mg/kg)                   | 16                                          | -                                           | -                                           | 16                                          | -                                           | -                                           | 16                                          | -                                           | -                                           | 16                                          | -                                           | -                                           |
 | SC administration (mg)                      | 1800                                        | -                                           | -                                           | 1800                                        | -                                           | -                                           | 1800                                        | -                                           | -                                           | 1800                                        | -                                           | -                                           |
-|                                             | Intravenous Intravenous                     | Intravenous Intravenous                     | Intravenous Intravenous                     | Cycles 3-6                                  | Cycles 3-6                                  | Cycles 3-6                                  | Cycles 3-6                                  | Cycles 3-6                                  | Cycles 3-6                                  | Cycles 3-6                                  | Cycles 3-6                                  | Cycles 3-6                                  |
-|                                             | Week 1                                      | Week 1                                      | Week 1                                      | Week 2                                      | Week 2                                      | Week 2                                      | Week 3                                      | Week 3                                      | Week 3                                      | Week 4                                      | Week 4                                      | Week 4                                      |
-|                                             | Day 1                                       | Day 2                                       | Days 3-7                                    | Day 8                                       | Day 9                                       | Days 10-14                                  | Day 15                                      | Day 16                                      | Days 17-21                                  | Day 22                                      | Day 23                                      | Days 24-28                                  |
+|                                             | Cycles 3-6                                  | Cycles 3-6                                  | Cycles 3-6                                  | Cycles 3-6                                  | Cycles 3-6                                  | Cycles 3-6                                  | Cycles 3-6                                  | Cycles 3-6                                  | Cycles 3-6                                  | Cycles 3-6                                  | Cycles 3-6                                  | Cycles 3-6                                  |
+|                                             | Week 1                                      | Week 1                                      | Week 1                                      | Week 2 Week 3                               | Week 2 Week 3                               | Week 2 Week 3                               | Week 2 Week 3                               | Week 2 Week 3                               | Week 2 Week 3                               | Week 4                                      | Week 4                                      | Week 4                                      |
+|                                             | Day 1                                       | Day 2                                       | Days 3 - 7                                  | Day 8                                       | Day 9                                       | Days 10 - 14                                | Day 15                                      | Day 16                                      | Days 17 - 21                                | Day 22                                      | Day 23                                      | Days 24 - 28                                |
 | Kyprolis (mg/m 2 ) a                        | 56                                          | 56                                          | -                                           | 56                                          | 56                                          | -                                           | 56                                          | 56                                          | -                                           | -                                           | -                                           | -                                           |
 | Dexamethasone (mg) b                        | 20                                          | 20                                          | -                                           | 20                                          | 20                                          | -                                           | 20                                          | 20                                          | -                                           | 40                                          | -                                           | -                                           |
-| Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             |
+| Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) |
 | IV administration (mg/kg)                   | 16                                          | -                                           | -                                           | -                                           | -                                           | -                                           | 16                                          | -                                           | -                                           | -                                           | -                                           | -                                           |
 | SC administration (mg)                      | 1800                                        | -                                           | -                                           | -                                           | -                                           | -                                           | 1800                                        | -                                           | -                                           | -                                           | -                                           | -                                           |
 |                                             | Cycles 7 and all subsequent cycles          | Cycles 7 and all subsequent cycles          | Cycles 7 and all subsequent cycles          | Cycles 7 and all subsequent cycles          | Cycles 7 and all subsequent cycles          | Cycles 7 and all subsequent cycles          | Cycles 7 and all subsequent cycles          | Cycles 7 and all subsequent cycles          | Cycles 7 and all subsequent cycles          | Cycles 7 and all subsequent cycles          | Cycles 7 and all subsequent cycles          | Cycles 7 and all subsequent cycles          |
 |                                             | Week 1                                      | Week 1                                      | Week 1                                      | Week 2                                      | Week 2                                      | Week 2                                      | Week 3                                      | Week 3                                      | Week 3                                      | Week 4                                      | Week 4                                      | Week 4                                      |
-|                                             | Day 1                                       | Day 2                                       | Days 3-7                                    | Day 8                                       | Day 9                                       | Days 10-14                                  | Day 15                                      | Day 16                                      | Days 17-21                                  | Day 22                                      | Day 23                                      | Days 24-28                                  |
+|                                             | Day 1                                       | Day 2                                       | Days 3 - 7                                  | Day 8                                       | Day 9                                       | Days 10 - 14                                | Day 15                                      | Day 16                                      | Days 17 - 21                                | Day 22                                      | Day 23                                      | Days 24 - 28                                |
 | Kyprolis (mg/m 2 ) a                        | 56                                          | 56                                          | -                                           | 56                                          | 56                                          | -                                           | 56                                          | 56                                          | -                                           | -                                           | -                                           | -                                           |
 | Dexamethasone (mg) b                        | 20                                          | 20                                          | -                                           | 20                                          | 20                                          | -                                           | 20                                          | 20                                          | -                                           | 40                                          | -                                           | -                                           |
-| Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             | Daratumumab ( OR Subcutaneous )             |
+| Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) | Daratumumab ( Intravenous OR Subcutaneous ) |
 | IV administration (mg/kg)                   | 16                                          | -                                           | -                                           | -                                           | -                                           | -                                           | -                                           | -                                           | -                                           | -                                           | -                                           | -                                           |
 | SC administration (mg)                      | 1800                                        | -                                           | -                                           | -                                           | -                                           | -                                           | -                                           | -                                           | -                                           | -                                           | -                                           | -                                           |
 
-a. Infusion time is 30 minutes and remains consistent throughout the regimen b. For patients &gt; 75 years of age, dexamethasone is administered as 20 mg orally or intravenously weekly after the first week.
+a. Infusion time is 30 minutes and remains consistent throughout the regimen
+
+b. For patients &gt; 75 years of age, dexamethasone is administered as 20 mg orally or intravenously weekly after the first week.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Concomitant medicinal products
 
 Antiviral prophylaxis should be considered in patients being treated with Kyprolis to decrease the risk of herpes zoster reactivation (see section 4.8).
 
-Thromboprophylaxis is recommended in patients being treated with Kyprolis in combination with daratumumab and dexamethasone, with lenalidomide and dexamethasone, or with dexamethasone alone and should be based on an assessment of the patient's underlying risks and clinical status. For
+Thromboprophylaxis is recommended in patients being treated with Kyprolis in combination with daratumumab and dexamethasone, with lenalidomide and dexamethasone, or with dexamethasone alone and should be based on an assessment of the patient's underlying risks and clinical status. For other concomitant medicinal products that may be required, such as the use of antacid prophylaxis, refer to the current lenalidomide and dexamethasone summary of product characteristics.
 
-<div style=\"page-break-after: always\"></div>
+In patients being treated with Kyprolis in combination with daratumumab and dexamethasone, pre-infusion medications should be administered to reduce the risk of infusion-related reactions with daratumumab.
 
-other concomitant medicinal products that may be required, such as the use of antacid prophylaxis, refer to the current lenalidomide and dexamethasone summary of product characteristics.
-
-In patients being treated with Kyprolis in combination with daratumumab and dexamethasone, preinfusion medications should be administered to reduce the risk of infusion-related reactions with daratumumab.
-
-Refer to the daratumumab summary of product characteristics for additional details on concomitant medications including pre and post-infusion medications.
+Refer to the daratumumab summary of product characteristics for additional details on concomitant medications including pre-and post-infusion medications.
 
 ## Hydration, fluid and electrolyte monitoring
 
@@ -234,25 +230,23 @@ Serum potassium levels should be monitored monthly, or more frequently during tr
 
 Dosing should be modified based on Kyprolis toxicity. Recommended actions and dose modifications are presented in table 4. Dose level reductions are presented in table 5.
 
-Table 4. Dose modifications during Kyprolis treatment
-
-| Haematologic toxicity                                                                                                                                  | Recommended action                                                                                                                                                                                                                                       |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| • Absolute neutrophil count < 0.5 × 10 9 /L (see section 4.4)                                                                                          | • Stop dose - If recovered to ≥ 0.5 × 10 9 /L, continue at same dose level • For subsequent drops to < 0.5 × 10 9 /L, follow the same recommendations as above and consider 1 dose level reduction when restarting Kyprolis a                            |
-| • Febrile neutropenia • Absolute neutrophil count < 0.5 × 10 9 /L and an oral temperature > 38.5°C or two consecutive readings of > 38.0°C for 2 hours | • Stop dose • If absolute neutrophil count returns to baseline grade and fever resolves, resume at the same dose level                                                                                                                                   |
-| • Platelet count < 10 × 10 9 /L or evidence of bleeding with thrombocytopenia (see section 4.4)                                                        | • Stop dose - If recovered to ≥ 10 × 10 9 /L and/or bleeding is controlled continue at same dose level • For subsequent drops to < 10 × 10 9 /L, follow the same recommendations as above and consider 1 dose level reduction when restarting Kyprolis a |
-
 <div style=\"page-break-after: always\"></div>
 
-| Non-haematologic toxicity (renal)                                                                                                                                                               | Recommended action                                                                                                                                                                                                                                                                                                                               |
+Table 4. Dose modifications during Kyprolis treatment
+
+| Haematologic toxicity                                                                                                                                                                           | Recommended action                                                                                                                                                                                                                                                                                                                               |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| • Absolute neutrophil count < 0.5 × 10 9 /L (see section 4.4)                                                                                                                                   | • Stop dose - If recovered to ≥ 0.5 × 10 9 /L, continue at same dose level • For subsequent drops to < 0.5 × 10 9 /L, follow the same recommendations as above and consider 1 dose level reduction when restarting Kyprolis a                                                                                                                    |
+| • Febrile neutropenia • Absolute neutrophil count < 0.5 × 10 9 /L and an oral temperature > 38.5°C or two consecutive readings of > 38.0°C for 2 hours                                          | • Stop dose • If absolute neutrophil count returns to baseline grade and fever resolves, resume at the same dose level                                                                                                                                                                                                                           |
+| • Platelet count < 10 × 10 9 /L or evidence of bleeding with thrombocytopenia (see section 4.4)                                                                                                 | • Stop dose - If recovered to ≥ 10 × 10 9 /L and/or bleeding is controlled continue at same dose level • For subsequent drops to < 10 × 10 9 /L, follow the same recommendations as above and consider 1 dose level reduction when restarting Kyprolis a                                                                                         |
+| Non-haematologic toxicity (renal)                                                                                                                                                               | Recommended action                                                                                                                                                                                                                                                                                                                               |
 | • Serum creatinine equal to or greater than 2 × baseline; or • Creatinine clearance < 15 mL/min (or creatinine clearance decreases to ≤ 50% of baseline) or need for dialysis (see section 4.4) | • Stop dose and continue monitoring renal function (serum creatinine or creatinine clearance) - Kyprolis should be resumed when renal function has recovered to within 25% of baseline; consider resuming at 1 dose level reduction a • For patients on dialysis receiving Kyprolis, the dose is to be administered after the dialysis procedure |
 | Other non-haematologic toxicity                                                                                                                                                                 | Recommended action                                                                                                                                                                                                                                                                                                                               |
 | • All other grade 3 or 4 non-haematologic toxicities (see section 4.4)                                                                                                                          | • Stop until resolved or returned to baseline • Consider restarting the next scheduled treatment at 1 dose level reduction a                                                                                                                                                                                                                     |
 
 Table 5. Dose level reductions for Kyprolis
 
-| Regimen                                   | Kyprolis Dose   | First Kyprolis dose reduction   | Second Kyprolis dose reduction   | Third Kyprolis dose reduction   |
+| Regimen                                   | Kyprolis dose   | First Kyprolis dose reduction   | Second Kyprolis dose reduction   | Third Kyprolis dose reduction   |
 |-------------------------------------------|-----------------|---------------------------------|----------------------------------|---------------------------------|
 | Kyprolis, lenalidomide, and dexamethasone | 27 mg/m 2       | 20 mg/m 2                       | 15 mg/m 2 a                      | -                               |
 | Kyprolis and dexamethasone                | 56 mg/m 2       | 45 mg/m 2                       | 36 mg/m 2                        | 27 mg/m 2 a                     |
@@ -268,6 +262,8 @@ a. If symptoms do not resolve, discontinue Kyprolis treatment
 
 Patients with moderate or severe renal impairment were enrolled in Kyprolis-dexamethasone combination studies, but were excluded from Kyprolis-lenalidomide combination studies. Thus, there are limited data for Kyprolis in combination with lenalidomide and dexamethasone in patients with creatinine clearance (CrCL &lt; 50 mL/min). Appropriate dose reduction for the starting dose of lenalidomide in patients with baseline renal impairment should be considered according to the recommendations in the lenalidomide summary of product characteristics.
 
+<div style=\"page-break-after: always\"></div>
+
 No starting dose adjustment for Kyprolis is recommended in patients with baseline mild, moderate, or severe renal impairment or patients on chronic dialysis based on available pharmacokinetic data (see section 5.2). However, in phase 3 clinical studies, the incidence of adverse events of acute renal failure was higher in patients with lower baseline creatinine clearance than that among patients with higher baseline creatinine clearance.
 
 Renal function should be assessed at treatment initiation and monitored at least monthly or in accordance with accepted clinical practice guidelines, particularly in patients with lower baseline creatinine clearance (CrCL &lt; 30 mL/min). Appropriate dose modifications based on toxicity should be made (see table 4). There are limited efficacy and safety data on patients with baseline creatinine clearance &lt; 30 mL/min.
@@ -278,8 +274,6 @@ Since dialysis clearance of Kyprolis concentrations has not been studied, the me
 
 Patients with moderate or severe hepatic impairment were excluded from Kyprolis studies in combination with either lenalidomide and dexamethasone or dexamethasone alone.
 
-<div style=\"page-break-after: always\"></div>
-
 The pharmacokinetics of Kyprolis has not been evaluated in patients with severe hepatic impairment. No starting dose adjustment is recommended in patients with mild or moderate hepatic impairment based on available pharmacokinetic data. However, higher subject incidence of hepatic function abnormalities, ≥ grade 3 adverse events and serious adverse events have been reported in patients with mild or moderate baseline hepatic impairment compared with patients with normal hepatic function (see sections 4.4 and 5.2). Liver enzymes and bilirubin should be assessed at treatment initiation and monitored monthly during treatment with carfilzomib, regardless of baseline values, and appropriate dose modifications based on toxicity should be made (see table 4). Special attention should be paid to patients with moderate and severe hepatic impairment in view of the very limited efficacy and safety data on this population.
 
 ## Elderly patients
@@ -288,7 +282,9 @@ Overall, the subject incidence of certain adverse events (including cardiac fail
 
 ## Paediatric population
 
-The safety and efficacy of Kyprolis in paediatric patients have not been established. No data are available.
+There is no relevant use of Kyprolis in children and adolescents aged below 18 years in multiple myeloma.
+
+Outside its authorised indications, Kyprolis has been studied in children and adolescents aged below 18 years with acute lymphoblastic leukaemia (ALL), however the primary endpoint did not meet the statistical significance for superiority for Kyprolis in combination with chemotherapy when compared to the external control arm. Currently available data are described in sections 5.1 and 5.2.
 
 ## Method of administration
 
@@ -297,6 +293,8 @@ Kyprolis is to be administered by intravenous infusion. The 20/27 mg/m 2 dose is
 Kyprolis must not be administered as an intravenous push or bolus.
 
 The intravenous administration line should be flushed with normal sodium chloride solution or 5% glucose solution for injection immediately before and after Kyprolis administration.
+
+<div style=\"page-break-after: always\"></div>
 
 Do not mix Kyprolis with or administer as an infusion with other medicinal products.
 
@@ -315,11 +313,7 @@ As Kyprolis is administered in combination with other medicinal products, the su
 
 ## Cardiac disorders
 
-New or worsening cardiac failure (e.g. congestive cardiac failure, pulmonary oedema, decreased ejection fraction), myocardial ischaemia and infarction have occurred following administration of Kyprolis. Death due to cardiac arrest has occurred within a day of Kyprolis administration and fatal
-
-<div style=\"page-break-after: always\"></div>
-
-outcomes have been reported with cardiac failure and myocardial infarction. For potential dose-related effects, see section 4.8.
+New or worsening cardiac failure (e.g. congestive cardiac failure, pulmonary oedema, decreased ejection fraction), myocardial ischaemia and infarction have occurred following administration of Kyprolis. Death due to cardiac arrest has occurred within a day of Kyprolis administration and fatal outcomes have been reported with cardiac failure and myocardial infarction. For potential dose-related effects, see section 4.8.
 
 While adequate hydration is required prior to dosing in cycle 1, all patients should be monitored for evidence of volume overload, especially patients at risk for cardiac failure. The total volume of fluids may be adjusted as clinically indicated in patients with baseline cardiac failure or who are at risk for cardiac failure (see section 4.2).
 
@@ -335,6 +329,8 @@ Patients with New York Heart Association (NYHA) Class III and IV heart failure, 
 
 There have been cases of QT interval prolongation reported in clinical studies and post-marketing. Cases of ventricular tachycardia have been reported in patients receiving Kyprolis.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pulmonary toxicity
 
 Acute respiratory distress syndrome (ARDS), acute respiratory failure, and acute diffuse infiltrative pulmonary disease such as pneumonitis and interstitial lung disease have occurred in patients receiving Kyprolis. Some of these events have been fatal. Evaluate and stop Kyprolis until resolved and consider whether to restart Kyprolis based on a benefit/risk assessment (see section 4.2).
@@ -349,11 +345,7 @@ Dyspnoea was commonly reported in patients treated with Kyprolis. Evaluate dyspn
 
 ## Hypertension
 
-Hypertension, including hypertensive crisis and hypertensive emergency, has been observed with Kyprolis. Some of these events have been fatal. Hypertension was reported more frequently in patients who received Kyprolis in combination with daratumumab in study 20160275. It is recommended to control hypertension prior to starting and during treatment. All patients should be routinely evaluated
-
-<div style=\"page-break-after: always\"></div>
-
-for hypertension while on Kyprolis and treated as needed. If the hypertension cannot be controlled, the Kyprolis dose should be reduced. In case of hypertensive crises, stop Kyprolis until resolved or returned to baseline and consider whether to restart Kyprolis based on a benefit/risk assessment (see section 4.2).
+Hypertension, including hypertensive crisis and hypertensive emergency, has been observed with Kyprolis. Some of these events have been fatal. Hypertension was reported more frequently in patients who received Kyprolis in combination with daratumumab in study 20160275. It is recommended to control hypertension prior to starting and during treatment. All patients should be routinely evaluated for hypertension while on Kyprolis and treated as needed. If the hypertension cannot be controlled, the Kyprolis dose should be reduced. In case of hypertensive crises, stop Kyprolis until resolved or returned to baseline and consider whether to restart Kyprolis based on a benefit/risk assessment (see section 4.2).
 
 ## Acute renal failure
 
@@ -362,6 +354,8 @@ Cases of acute renal failure have been reported in patients who received Kyproli
 ## Tumour lysis syndrome
 
 Cases of tumour lysis syndrome (TLS), including with fatal outcome, have been reported in patients who received Kyprolis. Patients with a high tumour burden should be considered to be at greater risk for TLS. Ensure that patients are well hydrated before administration of Kyprolis in cycle 1, and in subsequent cycles as needed (see section 4.2). Uric acid lowering medicinal products should be considered in patients at high risk for TLS. Evidence of TLS during treatment should be monitored for, including regular measurement of serum electrolytes, and managed promptly. Stop Kyprolis until TLS is resolved (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Infusion reactions
 
@@ -377,11 +371,7 @@ Kyprolis causes thrombocytopenia with platelet nadirs observed on day 8 or day 1
 
 Cases of venous thromboembolic events, including deep vein thrombosis and pulmonary embolism with fatal outcomes, have been reported in patients who received Kyprolis.
 
-Patients with known risk factors for thromboembolism - including prior thrombosis - should be closely monitored. Action should be taken to try to minimise all modifiable risk factors (e.g. smoking, hypertension and hyperlipidaemia). Caution should be used in the concomitant administration of other agents that may increase the risk of thrombosis (e.g. erythropoietic agents or hormone replacement therapy). Patients and physicians are advised to be observant for the signs and symptoms of
-
-<div style=\"page-break-after: always\"></div>
-
-thromboembolism. Patients should be instructed to seek medical care if they develop symptoms such as shortness of breath, chest pain, haemoptysis, arm or leg swelling or pain.
+Patients with known risk factors for thromboembolism -including prior thrombosis -should be closely monitored. Action should be taken to try to minimise all modifiable risk factors (e.g. smoking, hypertension and hyperlipidaemia). Caution should be used in the concomitant administration of other agents that may increase the risk of thrombosis (e.g. erythropoietic agents or hormone replacement therapy). Patients and physicians are advised to be observant for the signs and symptoms of thromboembolism. Patients should be instructed to seek medical care if they develop symptoms such as shortness of breath, chest pain, haemoptysis, arm or leg swelling or pain.
 
 Thromboprophylaxis should be considered based on an individual benefit/risk assessment.
 
@@ -397,21 +387,21 @@ Cases of thrombotic microangiopathy, including thrombotic thrombocytopenic purpu
 
 Cases of posterior reversible encephalopathy syndrome (PRES) have been reported in patients receiving Kyprolis. PRES, formerly termed reversible posterior leukoencephalopathy syndrome (RPLS), is a rare, neurological disorder, which can present with seizure, headache, lethargy, confusion, blindness, altered consciousness, and other visual and neurological disturbances, along with hypertension, and the diagnosis is confirmed by neuro-radiological imaging. Kyprolis should be discontinued if PRES is suspected. The safety of reinitiating Kyprolis therapy in patients previously experiencing PRES is not known.
 
-## Hepatitis B Virus (HBV) Reactivation
+<div style=\"page-break-after: always\"></div>
 
-Cases of Hepatitis B Virus (HBV) reactivation have been reported in patients receiving carfilzomib.
+## Hepatitis B virus (HBV) reactivation
+
+Cases of Hepatitis B virus (HBV) reactivation have been reported in patients receiving carfilzomib.
 
 All patients should be screened for HBV before initiation of treatment with carfilzomib. For patients with positive HBV serology, prophylaxis with antivirals should be considered. They should be monitored for clinical and laboratory signs of HBV reactivation during and after the end of treatment. Experts in the treatment of HBV infection should be consulted, as necessary. The safety of resuming carfilzomib, after HBV reactivation is adequately controlled, is not known. Therefore, resumption of therapy should be discussed with experts in managing HBV.
 
-## Progressive Multifocal Leukoencephalopathy
+## Progressive multifocal leukoencephalopathy
 
-Cases of Progressive Multifocal Leukoencephalopathy (PML) have been reported in patients receiving carfilzomib who have had prior or concurrent immunosuppressive therapy.
+Cases of progressive multifocal leukoencephalopathy (PML) have been reported in patients receiving carfilzomib who have had prior or concurrent immunosuppressive therapy.
 
 Patients receiving carfilzomib should be monitored for any new or worsening neurologic, cognitive or behavioural signs and symptoms that may be suggestive of PML as part of the differential diagnosis of CNS disorders.
 
 If PML is suspected, further administration must be suspended until PML has been excluded by a specialist with appropriate diagnostic testing. If PML is confirmed, carfilzomib must be discontinued.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Contraception
 
@@ -437,23 +427,23 @@ This medicinal product contains 216 mg sodium per 60 mg vial which is equivalent
 
 This medicinal product contains 500 mg cyclodextrin (betadex sulfobutyl ether sodium) per 10 mg vial which is equivalent to 88 mg/kg for a 70 kg adult.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Kyprolis 30 mg powder for solution for infusion
 
-This medicinal product contains 1,500 mg cyclodextrin (betadex sulfobutyl ether sodium) per 30 mg vial which is equivalent to 88 mg/kg for a 70 kg adult.
+This medicinal product contains 1 500 mg cyclodextrin (betadex sulfobutyl ether sodium) per 30 mg vial which is equivalent to 88 mg/kg for a 70 kg adult.
 
 ## Kyprolis 60 mg powder for solution for infusion
 
-This medicinal product contains 3,000 mg cyclodextrin (betadex sulfobutyl ether sodium) per 60 mg vial which is equivalent to 88 mg/kg for a 70 kg adult.
+This medicinal product contains 3 000 mg cyclodextrin (betadex sulfobutyl ether sodium) per 60 mg vial which is equivalent to 88 mg/kg for a 70 kg adult.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Carfilzomib is primarily metabolised via peptidase and epoxide hydrolase activities, and as a result, the pharmacokinetic profile of carfilzomib is unlikely to be affected by concomitant administration of cytochrome P450 inhibitors and inducers.
 
-In vitro studies indicated that carfilzomib did not induce human CYP3A4 in cultured human hepatocytes. A clinical study using oral midazolam as a CYP3A probe conducted with carfilzomib at a dose of 27 mg/m 2 (2-10 minute infusion) demonstrated that the pharmacokinetics of midazolam were unaffected by concomitant carfilzomib administration, indicating that carfilzomib is not expected to inhibit the metabolism of CYP3A4/5 substrates and is not a CYP3A4 inducer in human subjects. No clinical study was conducted with a dose of 56 mg/m 2 . However, it is unknown whether carfilzomib is an inducer of CYP1A2, 2C8, 2C9, 2C19 and 2B6 at therapeutic concentrations. Caution should be observed when carfilzomib is combined with medicinal products that are substrates of these enzymes, such as oral contraceptives. Effective measures to avoid pregnancy should be taken (see section 4.6, and refer also to the current lenalidomide summary of product characteristics), an alternative method of effective contraception should be used if the patient is using oral contraceptives.
+In vitro studies indicated that carfilzomib did not induce human CYP3A4 in cultured human hepatocytes. A clinical study using oral midazolam as a CYP3A probe conducted with carfilzomib at a dose of 27 mg/m 2 (2 to 10 minute infusion) demonstrated that the pharmacokinetics of midazolam were unaffected by concomitant carfilzomib administration, indicating that carfilzomib is not expected to inhibit the metabolism of CYP3A4/5 substrates and is not a CYP3A4 inducer in human subjects. No clinical study was conducted with a dose of 56 mg/m 2 . However, it is unknown whether carfilzomib is an inducer of CYP1A2, 2C8, 2C9, 2C19 and 2B6 at therapeutic concentrations. Caution should be observed when carfilzomib is combined with medicinal products that are substrates of these enzymes, such as oral contraceptives. Effective measures to avoid pregnancy should be taken (see section 4.6, and refer also to the current lenalidomide summary of product characteristics), an alternative method of effective contraception should be used if the patient is using oral contraceptives.
 
 Carfilzomib does not inhibit CYP1A2, 2B6, 2C8, 2C9, 2C19 and 2D6 in vitro and is therefore not expected to influence exposure of medicinal products that are substrates of these enzymes as a result of inhibition.
-
-<div style=\"page-break-after: always\"></div>
 
 Carfilzomib is a P-glycoprotein (P-gp) but not a BCRP substrate. However, given that Kyprolis is administrated intravenously and is extensively metabolised, the pharmacokinetic profile of carfilzomib is unlikely to be affected by P-gp or BCRP inhibitors or inducers. In vitro , at concentrations (3 µM) lower than those expected at therapeutic doses, carfilzomib inhibits the efflux transport of digoxin, a P-gp substrate, by 25%. Caution should be observed when carfilzomib is combined with substrates of P-gp (e.g. digoxin, colchicine).
 
@@ -461,11 +451,13 @@ In vitro , carfilzomib inhibits OATP1B1 with an IC50 = 2.01 µM whereas it is un
 
 ## 4.6 Fertility, pregnancy and lactation
 
-## Women of childbearing potential/Contraception in males and females
+## Women of child bearing potential/Contraception in males and females
 
 Female patients of child bearing potential treated with Kyprolis (and/or their partners) must use effective contraception measures during and for one month following treatment.
 
 It cannot be excluded that the efficacy of oral contraceptives may be reduced during carfilzomib treatment (see section 4.5). In addition, due to an increased risk of venous thromboembolic events associated with carfilzomib, females should avoid the use of hormonal contraceptives that are associated with a risk of thrombosis during treatment with carfilzomib (see sections 4.4 and 4.8). If a patient is currently using oral contraceptives or a hormonal method of contraception that is associated with a risk of thrombosis, the patient should switch to an alternative method of effective contraception.
+
+<div style=\"page-break-after: always\"></div>
 
 Male patients must use effective contraception measures during and for 3 months following treatment if their partner is pregnant or of child bearing potential not using effective contraception.
 
@@ -483,8 +475,6 @@ Lenalidomide is structurally related to thalidomide. Thalidomide is a known huma
 
 It is unknown whether carfilzomib or its metabolites are excreted in human milk. Based on its pharmacological properties, a risk to the suckling child cannot be excluded. Consequently, as a precautionary measure, breast-feeding is contra-indicated during and for at least 2 days after treatment with Kyprolis.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Fertility
 
 No fertility studies have been performed in animals (see section 5.3).
@@ -501,48 +491,49 @@ Fatigue, dizziness, fainting, blurred vision, somnolence and/or a drop in blood 
 
 Serious adverse reactions that may occur during Kyprolis treatment include: cardiac failure, myocardial infarction, cardiac arrest, myocardial ischaemia, interstitial lung disease, pneumonitis, acute respiratory distress syndrome, acute respiratory failure, pulmonary hypertension, dyspnoea, hypertension including hypertensive crises, acute kidney injury, tumour lysis syndrome, infusion related reaction, gastrointestinal haemorrhage, intracranial haemorrhage, pulmonary haemorrhage, thrombocytopenia, hepatic failure, hepatitis B virus reactivation, PRES, thrombotic microangiopathy and TTP/HUS. In clinical studies with Kyprolis, cardiac toxicity and dyspnoea typically occurred early in the course of Kyprolis therapy (see section 4.4). The most common adverse reactions (occurring in &gt; 20% of subjects) were: anaemia, fatigue, thrombocytopenia, nausea, diarrhoea, pyrexia, dyspnoea, respiratory tract infection, cough and neutropenia.
 
+<div style=\"page-break-after: always\"></div>
+
 Following initial doses of carfilzomib at 20 mg/m 2 , the dose was increased to 27 mg/m 2 in study PX-171-009 and to 56 mg/m 2  in study 2011-003 (see section 5.1). A cross-study comparison of the adverse reactions occurring in the Kyprolis and dexamethasone (Kd) arm of study 2011-003 versus the Kyprolis, lenalidomide and dexamethasone (KRd) arm of study PX-171-009 suggest that there may be a potential dose relationship for the following adverse reactions: cardiac failure (Kd 8.2%, KRd 6.4%), dyspnoea (Kd 30.9%, KRd 22.7%), hypertension (Kd 25.9%, KRd 15.8%), and pulmonary hypertension (Kd 1.3%, KRd 0.8%).
 
 In study 20160275 (see section 5.1), in which the administration of Kyprolis in combination with daratumumab and dexamethasone (KdD) was compared to Kyprolis in combination with dexamethasone (Kd), deaths due to adverse events within 30 days of the last dose of any study treatment occurred in 10% of patients in the KdD arm compared with 5% of patients in the Kd arm. The most common cause of death occurring in patients in the two arms (KdD versus Kd) was infections (5% versus 3%). The risk of fatal treatment-emergent adverse events was higher among subjects ≥ 65 years of age. Serious adverse events were reported in 56% of the patients in the KdD arm and 46% of the patients in the Kd arm. The most common serious adverse events reported in the KdD arm as compared with the Kd arm were anaemia (2% versus 1%), diarrhoea (2% versus 0%), pyrexia (4% versus 2%), pneumonia (12% versus 9%), influenza (4% versus 1%), sepsis (4% versus 1%) and bronchitis (2% versus 0%).
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions are presented below by system organ class and frequency category (see table 6). Frequency categories were determined from the crude incidence rate reported for each adverse reaction in a dataset of pooled clinical studies (n = 3,878). Within each system organ class and frequency category, adverse reactions are presented in order of decreasing seriousness.
-
-<div style=\"page-break-after: always\"></div>
+Adverse reactions are presented below by system organ class and frequency category (see table 6). Frequency categories were determined from the crude incidence rate reported for each adverse reaction in a dataset of pooled clinical studies (n = 3 878). Within each system organ class and frequency category, adverse reactions are presented in order of decreasing seriousness.
 
 Table 6. Tabulated list of adverse reactions
 
-| MedDRA system organ class            | Very common (≥ 1/10)                                        | Common (≥ 1/100 to < 1/10)                                                                                                                            | Uncommon (≥ 1/1,000 to < 1/100)                                                                              | Rare (≥ 1/10,000 to < 1/1,000)   |
-|--------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------------------|
-| Infections and infestations          | Pneumonia Respiratory tract infection                       | Sepsis Lung infection Influenza Herpes zoster* Urinary tract infection Bronchitis Gastroenteritis Viral infection Nasopharyngitis Rhinitis            | Clostridium difficile colitis Cytomegalovirus infection Hepatitis B virus reactivation                       |                                  |
-| Immune system disorders              |                                                             |                                                                                                                                                       | Drug hypersensitivity                                                                                        |                                  |
-| Blood and lymphatic system disorders | Thrombocytopenia Neutropenia Anaemia Lymphopenia Leukopenia | Febrile neutropenia                                                                                                                                   | HUS TTP                                                                                                      | Thrombotic microangiopathy       |
-| Metabolism and nutrition disorders   | Hypokalaemia Decreased appetite                             | Dehydration Hyperkalaemia Hypomagnesaemia Hyponatraemia Hypercalcaemia Hypocalcaemia Hypophosphataemia Hyperuricaemia Hypoalbuminaemia Hyperglycaemia | Tumour lysis syndrome                                                                                        |                                  |
-| Psychiatric disorders                | Insomnia                                                    | Anxiety Confusional state                                                                                                                             |                                                                                                              |                                  |
-| Nervous system disorders             | Dizziness Peripheral neuropathy Headache                    | Paraesthesia Hypoaesthesia                                                                                                                            | Intracranial haemorrhage Cerebrovascular accident PRES                                                       |                                  |
-| Eye disorders                        |                                                             | Cataract Blurred vision                                                                                                                               |                                                                                                              |                                  |
-| Ear and labyrinth disorders          |                                                             | Tinnitus                                                                                                                                              |                                                                                                              |                                  |
-| Cardiac disorders                    |                                                             | Cardiac failure Myocardial infarction Atrial fibrillation Tachycardia Ejection fraction decreased Palpitations                                        | Cardiac arrest Cardiomyopathy Myocardial ischaemia Pericarditis Pericardial effusion Ventricular tachycardia |                                  |
-| Vascular disorders                   | Hypertension                                                | Deep vein thrombosis Hypotension Flushing                                                                                                             | Hypertensive crisis Haemorrhage                                                                              | Hypertensive emergency           |
+| MedDRA system organ class            | Very common (≥ 1/10)                                        | Common (≥ 1/100 to < 1/10)                                                                                                                            | Uncommon (≥ 1/1 000 to < 1/100)                                                        | Rare (≥ 1/10 000 to < 1/1 000)   |
+|--------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------|
+| Infections and infestations          | Pneumonia Respiratory tract infection                       | Sepsis Lung infection Influenza Herpes zoster* Urinary tract infection Bronchitis Gastroenteritis Viral infection Nasopharyngitis Rhinitis            | Clostridium difficile colitis Cytomegalovirus infection Hepatitis B virus reactivation |                                  |
+| Immune system disorders              |                                                             |                                                                                                                                                       | Drug hypersensitivity                                                                  |                                  |
+| Blood and lymphatic system disorders | Thrombocytopenia Neutropenia Anaemia Lymphopenia Leukopenia | Febrile neutropenia                                                                                                                                   | HUS TTP                                                                                | Thrombotic microangiopathy       |
+| Metabolism and nutrition disorders   | Hypokalaemia Decreased appetite                             | Dehydration Hyperkalaemia Hypomagnesaemia Hyponatraemia Hypercalcaemia Hypocalcaemia Hypophosphataemia Hyperuricaemia Hypoalbuminaemia Hyperglycaemia | Tumour lysis syndrome                                                                  |                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA system organ class                            | Very common (≥ 1/10)                                  | Common (≥ 1/100 to < 1/10)                                                                                                       | Uncommon (≥ 1/1,000 to < 1/100)                                                            | Rare (≥ 1/10,000 to < 1/1,000)   |
-|------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------|
-| Respiratory, thoracic, and mediastinal disorders     | Dyspnoea Cough                                        | Pulmonary embolism Pulmonary oedema Epistaxis Oropharyngeal pain Dysphonia Wheezing Pulmonary hypertension                       | ARDS Acute respiratory failure Pulmonary haemorrhage Interstitial lung disease Pneumonitis |                                  |
-| Gastrointestinal disorders                           | Vomiting Diarrhoea Constipation Abdominal pain Nausea | Gastrointestinal haemorrhage Dyspepsia Toothache                                                                                 | Gastrointestinal perforation Pancreatitis acute                                            |                                  |
-| Hepatobiliary disorders                              |                                                       | Increased alanine aminotransferase Increased aspartate aminotransferase Gamma- glutamyltransferase increased Hyperbilirubinaemia | Hepatic failure Cholestasis                                                                |                                  |
-| Skin and subcutaneous tissue disorders               |                                                       | Rash Pruritus Erythema Hyperhidrosis                                                                                             |                                                                                            | Angioedema                       |
-| Musculoskeletal and connective tissue disorders      | Back pain Arthralgia Pain in extremity Muscle spasms  | Musculoskeletal pain Musculoskeletal chest pain Bone pain Myalgia Muscular weakness                                              |                                                                                            |                                  |
-| Renal and urinary disorders                          | Increased blood creatinine                            | Acute kidney injury Renal failure Renal impairment Decreased creatinine renal clearance                                          |                                                                                            |                                  |
-| General disorders and administration site conditions | Pyrexia Peripheral oedema Asthenia Fatigue Chills     | Chest pain Pain Infusion site reactions Influenza like illness Malaise                                                           | Multi-organ dysfunction syndrome                                                           |                                  |
-| Investigations                                       |                                                       | Increased c-reactive protein Increased blood uric acid                                                                           |                                                                                            |                                  |
-| Injury, poisoning and procedural complications       |                                                       | Infusion related reaction                                                                                                        |                                                                                            |                                  |
-
-* Frequency is calculated based on data from clinical studies in which most patients used prophylaxis
+| MedDRA system organ class                        | Very common (≥ 1/10)                                  | Common (≥ 1/100 to < 1/10)                                                                                                       | Uncommon (≥ 1/1 000 to < 1/100)                                                                              | Rare (≥ 1/10 000 to < 1/1 000)   |
+|--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------------------|
+| Psychiatric disorders                            | Insomnia                                              | Anxiety Confusional state                                                                                                        |                                                                                                              |                                  |
+| Nervous system disorders                         | Dizziness Peripheral neuropathy Headache              | Paraesthesia Hypoaesthesia                                                                                                       | Intracranial haemorrhage Cerebrovascular accident PRES                                                       |                                  |
+| Eye disorders                                    |                                                       | Cataract Blurred vision                                                                                                          |                                                                                                              |                                  |
+| Ear and labyrinth disorders                      |                                                       | Tinnitus                                                                                                                         |                                                                                                              |                                  |
+| Cardiac disorders                                |                                                       | Cardiac failure Myocardial infarction Atrial fibrillation Tachycardia Ejection fraction decreased Palpitations                   | Cardiac arrest Cardiomyopathy Myocardial ischaemia Pericarditis Pericardial effusion Ventricular tachycardia |                                  |
+| Vascular disorders                               | Hypertension                                          | Deep vein thrombosis Hypotension Flushing                                                                                        | Hypertensive crisis Haemorrhage                                                                              | Hypertensive emergency           |
+| Respiratory, thoracic, and mediastinal disorders | Dyspnoea Cough                                        | Pulmonary embolism Pulmonary oedema Epistaxis Oropharyngeal pain Dysphonia Wheezing Pulmonary hypertension                       | ARDS Acute respiratory failure Pulmonary haemorrhage Interstitial lung disease Pneumonitis                   |                                  |
+| Gastrointestinal disorders                       | Vomiting Diarrhoea Constipation Abdominal pain Nausea | Gastrointestinal haemorrhage Dyspepsia Toothache                                                                                 | Gastrointestinal perforation Pancreatitis acute                                                              |                                  |
+| Hepatobiliary disorders                          |                                                       | Increased alanine aminotransferase Increased aspartate aminotransferase Gamma- glutamyltransferase increased Hyperbilirubinaemia | Hepatic failure Cholestasis                                                                                  |                                  |
+| Skin and subcutaneous tissue disorders           |                                                       | Rash Pruritus Erythema Hyperhidrosis                                                                                             |                                                                                                              | Angioedema                       |
+| Musculoskeletal and connective tissue disorders  | Back pain Arthralgia Pain in extremity Muscle spasms  | Musculoskeletal pain Musculoskeletal chest pain Bone pain Myalgia Muscular weakness                                              |                                                                                                              |                                  |
+| Renal and urinary disorders                      | Increased blood creatinine                            | Acute kidney injury Renal failure Renal impairment Decreased creatinine renal clearance                                          |                                                                                                              |                                  |
 
 <div style=\"page-break-after: always\"></div>
+
+| MedDRA system organ class                            | Very common (≥ 1/10)                              | Common (≥ 1/100 to < 1/10)                                             | Uncommon (≥ 1/1 000 to < 1/100)   | Rare (≥ 1/10 000 to < 1/1 000)   |
+|------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------------------|-----------------------------------|----------------------------------|
+| General disorders and administration site conditions | Pyrexia Peripheral oedema Asthenia Fatigue Chills | Chest pain Pain Infusion site reactions Influenza like illness Malaise | Multi-organ dysfunction syndrome  |                                  |
+| Investigations                                       |                                                   | Increased c-reactive protein Increased blood uric acid                 |                                   |                                  |
+| Injury, poisoning and procedural complications       |                                                   | Infusion related reaction                                              |                                   |                                  |
 
 ## Description of selected adverse reactions
 
@@ -566,13 +557,11 @@ Hypertensive crises (hypertensive urgency or hypertensive emergency) have occurr
 
 Thrombocytopenia was reported in approximately 33% of subjects in clinical studies with Kyprolis and approximately 20% of subjects had grade ≥ 3 events. In study 20160275, the incidence of grade ≥ 3 thrombocytopenia was 24.4% in the KdD arm and 16.3% in the Kd arm. Kyprolis causes thrombocytopenia through inhibition of platelet budding from megakaryocytes resulting in a classic cyclical thrombocytopenia with platelet nadirs occurring on day 8 or 15 of each 28-day cycle and usually associated with recovery to baseline by the start of the next cycle. For clinical management of thrombocytopenia during Kyprolis treatment, see section 4.4.
 
-## Venous thromboembolic events
-
-Cases of venous thromboembolic events, including deep vein thrombosis and pulmonary embolism with fatal outcomes, have been reported in patients who received Kyprolis (see section 4.4). The overall incidence of venous thromboembolic events was higher in the Kyprolis arms of three phase 3 studies. In study PX-171-009 the incidence of venous thromboembolic events was 15.6% in the KRd arm and 9.0% in the Rd arm. Grade ≥ 3 venous thromboembolic events were reported in 5.6% of patients in the KRd arm and 3.9% of patients in the Rd arm. In study 2011-003 the incidence of venous thromboembolic events was 12.5% in the Kd arm and 3.3% in the bortezomib plus dexamethasone (Vd) arm. Grade ≥ 3 venous thromboembolic events were reported in 3.5% of patients in the Kd arm and 1.8% of patients in the Vd arm. In study 20160275 the incidence of venous thromboembolic events was 6.2% in the KdD arm and 11.1% in the Kd arm. Grade ≥ 3 venous
-
 <div style=\"page-break-after: always\"></div>
 
-thromboembolic events were reported in 1.9% of patients in the KdD arm and 6.5% of patients in the Kd arm.
+## Venous thromboembolic events
+
+Cases of venous thromboembolic events, including deep vein thrombosis and pulmonary embolism with fatal outcomes, have been reported in patients who received Kyprolis (see section 4.4). The overall incidence of venous thromboembolic events was higher in the Kyprolis arms of three phase 3 studies. In study PX-171-009 the incidence of venous thromboembolic events was 15.6% in the KRd arm and 9.0% in the Rd arm. Grade ≥ 3 venous thromboembolic events were reported in 5.6% of patients in the KRd arm and 3.9% of patients in the Rd arm. In study 2011-003 the incidence of venous thromboembolic events was 12.5% in the Kd arm and 3.3% in the bortezomib plus dexamethasone (Vd) arm. Grade ≥ 3 venous thromboembolic events were reported in 3.5% of patients in the Kd arm and 1.8% of patients in the Vd arm. In study 20160275 the incidence of venous thromboembolic events was 6.2% in the KdD arm and 11.1% in the Kd arm. Grade ≥ 3 venous thromboembolic events were reported in 1.9% of patients in the KdD arm and 6.5% of patients in the Kd arm.
 
 ## Hepatic failure
 
@@ -580,7 +569,7 @@ Cases of hepatic failure, including fatal cases, have been reported in &lt; 1% o
 
 ## Peripheral neuropathy
 
-In a randomised, open-label multicentre study in patients receiving Kyprolis 20/56 mg/m 2 infused over 30 minutes in combination with dexamethasone (Kd, n = 464) versus bortezomib plus dexamethasone (Vd, n = 465), cases of grade 2 and higher peripheral neuropathy were reported in 7% of patients with relapsed multiple myeloma in the Kd arm, compared with 35% in the Vd arm at the time of the pre-planned OS analysis. In study 20160275, cases of grade 2 and higher peripheral neuropathy were reported in 10.1% of patients with relapsed multiple myeloma in the KdD arm compared with 3.9% in the Kd arm.
+In a randomised, open-label, multicentre study in patients receiving Kyprolis 20/56 mg/m 2 infused over 30 minutes in combination with dexamethasone (Kd, n = 464) versus bortezomib plus dexamethasone (Vd, n = 465), cases of grade 2 and higher peripheral neuropathy were reported in 7% of patients with relapsed multiple myeloma in the Kd arm, compared with 35% in the Vd arm at the time of the pre-planned OS analysis. In study 20160275, cases of grade 2 and higher peripheral neuropathy were reported in 10.1% of patients with relapsed multiple myeloma in the KdD arm compared with 3.9% in the Kd arm.
 
 ## Infusion reaction
 
@@ -598,6 +587,8 @@ In study 20160275, secondary primary malignancies in each treatment group (1.9% 
 
 In study 20160275, opportunistic infections in each treatment group (9.4% in KdD arm and 3.9% in Kd arm) have been reported. Opportunistic infections occurring in ≥ 1% of subjects in the KdD arm included herpes zoster, oral candidiasis, oral herpes, and herpes simplex.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hepatitis B reactivation
 
 In study 20160275, the incidence of hepatitis B reactivation was 0.6% in the KdD arm versus 0% in the Kd arm.
@@ -608,11 +599,7 @@ In study 20160275, the incidence of hepatitis B reactivation was 0.6% in the KdD
 
 Overall, the subject incidence of certain adverse events (including cardiac arrhythmias, cardiac failure (see section 4.4), dyspnoea, leukopenia and thrombocytopenia) in clinical studies with Kyprolis was higher for patients who were ≥ 75 years of age compared to patients who were &lt; 75 years of age.
 
-In study 20160275, 47% of the 308 patients who received KdD 20/56 mg/m 2  twice weekly were ≥ 65 years of age. In the KdD arm of the study, fatal treatment-emergent adverse events occurred in
-
-<div style=\"page-break-after: always\"></div>
-
-6% of patients &lt; 65 years of age and 14% of patients ≥ 65 years of age. In the Kd arm, these events occurred in 8% of patients &lt; 65 years of age and 3% of patients ≥ 65 years of age.
+In study 20160275, 47% of the 308 patients who received KdD 20/56 mg/m 2  twice weekly were ≥ 65 years of age. In the KdD arm of the study, fatal treatment-emergent adverse events occurred in 6% of patients &lt; 65 years of age and 14% of patients ≥ 65 years of age. In the Kd arm, these events occurred in 8% of patients &lt; 65 years of age and 3% of patients ≥ 65 years of age.
 
 ## Reporting of suspected adverse reactions
 
@@ -638,13 +625,13 @@ Carfilzomib is a tetrapeptide epoxyketone proteasome inhibitor that selectively 
 
 Intravenous carfilzomib administration resulted in suppression of proteasome chymotrypsin-like (CT-L) activity when measured in blood 1 hour after the first dose. Doses of ≥ 15 mg/m 2 consistently induced an (≥ 80%) inhibition of the CT-L activity of the proteasome. In addition, carfilzomib administration resulted in inhibition of the latent membrane protein 2 (LMP2) and multicatalytic endopeptidase complex-like 1 (MECL1) subunits of the immunoproteasome ranging from 26% to 32% and 41% to 49%, respectively, at 20 mg/m 2 . Proteasome inhibition was maintained for ≥ 48 hours following the first dose of carfilzomib for each week of dosing. Combination dosing with lenalidomide and dexamethasone did not affect proteasome inhibition.
 
-At the higher dose of 56 mg/m 2 , there was not only a greater inhibition of CT-L subunits (≥ 90%) compared to those at 15 to 20 mg/m 2 , but also a greater inhibition of other proteasome subunits (LMP7, MECL1, and LMP2). There was an approximately 8%, 23% and 34% increase in the inhibition of LMP7, MECL1, and LMP2 subunits respectively at the dose of 56 mg/m 2  compared to those at 15 to 20 mg/m 2 . Similar proteasome inhibition by carfilzomib was achieved with 2 to 10 minute and 30 minute infusions at the 2 dose levels (20 and 36 mg/m 2 ) at which it was tested.
-
 <div style=\"page-break-after: always\"></div>
+
+At the higher dose of 56 mg/m 2 , there was not only a greater inhibition of CT-L subunits (≥ 90%) compared to those at 15 to 20 mg/m 2 , but also a greater inhibition of other proteasome subunits (LMP7, MECL1, and LMP2). There was an approximately 8%, 23% and 34% increase in the inhibition of LMP7, MECL1, and LMP2 subunits respectively at the dose of 56 mg/m 2  compared to those at 15 to 20 mg/m 2 . Similar proteasome inhibition by carfilzomib was achieved with 2 to 10 minute and 30 minute infusions at the 2 dose levels (20 and 36 mg/m 2 ) at which it was tested.
 
 ## Clinical efficacy and safety
 
-Kyprolis in combination with lenalidomide and dexamethasone for the treatment of patients with relapsed multiple myeloma - study PX-171-009 (ASPIRE)
+Kyprolis in combination with lenalidomide and dexamethasone for the treatment of patients with relapsed multiple myeloma -study PX-171-009 (ASPIRE)
 
 The safety and efficacy of Kyprolis were evaluated in a randomised, open-label, multicentre study of 792 patients with relapsed multiple myeloma, which evaluated the combination of Kyprolis with lenalidomide and dexamethasone versus lenalidomide and dexamethasone alone, randomised 1:1.
 
@@ -655,6 +642,8 @@ Patients who had the following were excluded from the study: creatinine clearanc
 The disease status and other baseline characteristics were well-balanced between the two arms, including age (64 years, range 31-91 years), gender (56% male), ECOG performance status (48% with performance status 1), high risk genetic mutations, consisting of the genetic subtypes t(4;14), t(14;16), or deletion 17p in ≥ 60% of plasma cells (13%), unknown-risk genetic mutations, which included subjects with results not collected or not analysed (47%), and baseline ISS stage III disease (20%). Subjects had received 1 to 3 prior lines of therapy (median of 2), including prior treatment with bortezomib (66%), thalidomide (44%) and lenalidomide (20%).
 
 The results of study PX-171-009 are summarised in table 7 and in figure 1 and figure 2.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 7. Summary of efficacy analysis in relapsed multiple myeloma study PX-171-009
 
@@ -673,23 +662,23 @@ Table 7. Summary of efficacy analysis in relapsed multiple myeloma study PX-171-
 | 95% CI of ORR                  | 83.4, 90.3                  | 61.8, 71.3                  |
 | 1-sided p-value                | < 0.0001                    | < 0.0001                    |
 
-KRd = Kyprolis, lenalidomide and dexamethasone; Rd = lenalidomide and dexamethasone; PFS = progression-free survival; HR = hazard ratio; CI = confidence interval; OS = overall survival; ORR = overall response rate; sCR = stringent complete response; CR = complete response; VGPR = very good partial response; PR = partial response; IMWG = international myeloma working group; EBMT = European society for blood and marrow transplantation
+KRd = Kyprolis, lenalidomide and dexamethasone; Rd = lenalidomide and dexamethasone;
 
-a.  As determined by an Independent Review Committee using standard objective IMWG/EBMT response criteria
+PFS = progression-free survival; HR = hazard ratio; CI = confidence interval; OS = overall survival; ORR = overall response rate; sCR = stringent complete response; CR = complete response; VGPR = very good partial response; PR = partial response; IMWG = International Myeloma Working Group; EBMT = European Society for Blood and Marrow Transplantation
 
-<div style=\"page-break-after: always\"></div>
-
-## b. Statistically significant
+a.  As determined by an Independent Review Committee using standard objective IMWG/EBMT response criteria b. Statistically significant
 
 Patients in the Kyprolis, lenalidomide, and dexamethasone (KRd) arm demonstrated improved progression-free survival (PFS) compared with those in the lenalidomide and dexamethasone (Rd) arm, (HR = 0.69, with 1-sided p-value &lt; 0.0001) which represents a 45% improvement in PFS or a 31% reduction in the risk of event as determined using standard objective International Myeloma Working Group (IMWG)/European Blood and Marrow Transplantation (EBMT) response criteria by an Independent Review Committee (IRC).
 
 The PFS benefit of KRd was consistently observed in all subgroups, including patients ≥ 75 years of age (n = 96), patients with high risk (n = 100) or unknown (n = 375) risk genetic mutations, and patients with baseline creatinine clearance of 30 - &lt; 50 mL/min (n = 56).
 
+<div style=\"page-break-after: always\"></div>
+
 Figure 1. Kaplan-Meier curve of progression-free survival in relapsed multiple myeloma a
 
 <!-- image -->
 
-KRd = Kyprolis, lenalidomide and dexamethasone; Rd = lenalidomide, dexamethasone; PFS = progression-free survival; HR = hazard ratio; CI = confidence interval; IMWG = International Myeloma Working Group; EBMT = European blood and marrow transplantation; mo = months
+KRd = Kyprolis, lenalidomide and dexamethasone; Rd = lenalidomide, dexamethasone; PFS = progression-free survival; HR = hazard ratio; CI = confidence interval; IMWG = International Myeloma Working Group; EBMT = European Blood and Marrow Transplantation; mo = months
 
 Note: The response and PD outcomes were determined using standard objective IMWG/EBMT response criteria. a.  Study PX-171-009
 
@@ -701,11 +690,9 @@ Figure 2. Kaplan-Meier curve of overall survival in relapsed multiple myeloma a
 
 <!-- image -->
 
-KRd = Kyprolis, lenalidomide and dexamethasone; Rd = lenalidomide and dexamethasone; OS = overall survival; HR = hazard ratio; CI = confidence interval; mo = months a.  Study PX-171-009
-
 Patients treated with KRd reported improved Global Health Status, with higher Global Health Status/Quality of Life (QoL) scores compared with Rd over 18 cycles of treatment (multiplicity unadjusted 1-sided p-value = 0.0001) measured with the EORTC QLQ-C30, an instrument validated in multiple myeloma.
 
-Kyprolis in combination with dexamethasone for the treatment of patients with relapsed multiple myeloma - study 2011-003 (ENDEAVOR)
+Kyprolis in combination with dexamethasone for the treatment of patients with relapsed multiple myeloma -study 2011-003 (ENDEAVOR)
 
 The safety and efficacy of Kyprolis were evaluated in a phase 3, randomised, open-label, multicentre study of Kyprolis plus dexamethasone (Kd) versus bortezomib plus dexamethasone (Vd). A total of 929 patients with relapsed or refractory multiple myeloma who had received 1 to 3 prior lines of therapy were enrolled and randomised (464 in the Kd arm; 465 in the Vd arm).
 
@@ -735,7 +722,7 @@ Table 8. Summary of efficacy analysis in relapsed multiple myeloma study 2011-00
 | 95% CI of ORR                           | 72.8, 80.7                   | 58.0, 67.0                   |
 | 1-sided p-value b                       | < 0.0001                     | < 0.0001                     |
 
-NE = not estimable; HR = Hazard Ratio; ORR = overall response rate; CR = complete response; VGPR = very good partial response
+NE = not estimable; HR = hazard ratio; ORR = overall response rate; CR = complete response; VGPR = very good partial response
 
 a.  These endpoints were determined by an Independent Review Committee
 
@@ -763,8 +750,6 @@ Figure 3. Kaplan-Meier plot of progression-free survival as determined by the IR
 
 <!-- image -->
 
-GRH0129 v2
-
 Kd = Kyprolis plus dexamethasone; Vd = bortezomib plus dexamethasone; PFS = progression-free survival; mo = months; HR = hazard ratio; CI = confidence interval
 
 A pre-planned second interim OS analysis was performed after 189 deaths in the Kd arm and 209 deaths in the Vd arm. At the time of the analysis, 80% of the targeted events were registered. The median follow-up was approximately 37 months. A statistically significant advantage in OS was observed in patients in the Kd arm compared to patients in the Vd arm (HR = 0.791; 95% CI: 0.65, 0.96; p-value = 0.010) (see figure 4).
@@ -773,27 +758,23 @@ Figure 4. Kaplan-Meier curve of overall survival in relapsed multiple myeloma st
 
 <!-- image -->
 
-GRH0131 v4
-
-Kd = Kyprolis plus dexamethasone; Vd = bortezomib plus dexamethasone; OS = overall survival; mo = months; HR = hazard ratio; CI = confidence interval
+Kd = Kyprolis plus dexamethasone; Vd = bortezomib plus dexamethasone; OS = overall survival; mo = months; HR = hazard ratio; CI = confidence interval Kyprolis in combination with daratumumab and dexamethasone for the treatment of patients with relapsed or refractory multiple myeloma -study 20160275 (CANDOR)
 
 <div style=\"page-break-after: always\"></div>
 
-Kyprolis in combination with daratumumab and dexamethasone for the treatment of patients with relapsed or refractory multiple myeloma - study 20160275 (CANDOR)
-
 The safety and efficacy of Kyprolis were evaluated in a phase 3, randomised, open-label, multicentre superiority trial of Kyprolis with daratumumab plus dexamethasone (KdD) versus Kyprolis plus dexamethasone (Kd). A total of 466 patients with relapsed or refractory multiple myeloma who had received 1 to 3 prior lines of therapy were enrolled and randomised in a 2:1 randomisation (312 in KdD arm and 154 in Kd arm).
 
-In the KdD and Kd arms, Kyprolis was evaluated at a starting dose of 20 mg/m 2 , which was increased to 56 mg/m 2 on cycle 1, day 8 administered twice weekly for 3 out of 4 weeks as a 30-minute infusion.
+In the KdD and Kd arms, Kyprolis was evaluated at a starting dose of 20 mg/m 2 , which was increased to 56 mg/m 2 on cycle 1, day 8 administered twice weekly for 3 out of 4 weeks as a 30 minute infusion.
 
 Patients who had the following were excluded from the trial: known moderate or severe persistent asthma within the past 2 years, known chronic obstructive pulmonary disease (COPD) with a FEV1 &lt; 50% of predicted normal, active congestive heart failure.
 
-Demographics and baseline characteristics were generally consistent between the two arms, including gender (57.5% male), race (78.5% white subjects), age (64 years, range 29-84 years), prior treatment with bortezomib (90%), bortezomib refractory (29%), high-risk genetic mutations, consisting of the genetic subtypes t(4; 14), t(14; 16), or deletion17p (16%) and unknown-risk genetic-mutations which included subjects with results not done, failed or quantity insufficient (51%). A smaller proportion of subjects were aged ≥ 75 years in the KdD group (9.0%) than in the Kd group (14.3%). Subjects had a median (range) of 2.0 (1 to 4) prior lines of therapy. A higher percent of subjects had a prior transplant in the KdD group (62.5%) compared with the Kd group (48.7%). Only 1 patient in KdD group received previous anti-CD38 monoclonal antibody therapy.
+Demographics and baseline characteristics were generally consistent between the two arms, including gender (57.5% male), race (78.5% white subjects), age (64 years, range 29-84 years), prior treatment with bortezomib (90%), bortezomib refractory (29%), high risk genetic mutations, consisting of the genetic subtypes t(4; 14), t(14; 16), or deletion17p (16%) and unknown-risk genetic-mutations which included subjects with results not done, failed or quantity insufficient (51%). A smaller proportion of subjects were aged ≥ 75 years in the KdD group (9.0%) than in the Kd group (14.3%). Subjects had a median (range) of 2.0 (1 to 4) prior lines of therapy. A higher percent of subjects had a prior transplant in the KdD group (62.5%) compared with the Kd group (48.7%). Only 1 patient in KdD group received previous anti-CD38 monoclonal antibody therapy.
 
 The results of the primary analysis of study 20160275 are summarised in table 9 and figure 5 and figure 6.
 
 Table 9. Summary of efficacy in study 20160275 at primary analysis
 
-|                                | KdD arm (N=312)              | Kd arm (N=154)               |
+|                                | KdD arm (N = 312)            | Kd arm (N = 154)             |
 |--------------------------------|------------------------------|------------------------------|
 | PFS months median (95% CI) a   | NE (NE, NE)                  | 15.8 (12.1, NE)              |
 | HR (95% CI); 1-sided p-value b | 0.630 (0.464, 0.854); 0.0014 | 0.630 (0.464, 0.854); 0.0014 |
@@ -801,7 +782,7 @@ Table 9. Summary of efficacy in study 20160275 at primary analysis
 | Response category, n(%)        |                              |                              |
 | N with response                | 263                          | 115                          |
 | CR                             | 89 (28.5)                    | 16 (10.4)                    |
-| MRD[-] CR                      | 43 (13.8)                    | 5 (3.2)                      |
+| MRD [-] CR                     | 43 (13.8)                    | 5 (3.2)                      |
 | VGPR                           | 127 (40.7)                   | 59 (38.3)                    |
 | PR                             | 47 (15.1)                    | 40 (26.0)                    |
 | Odds ratio                     | 1.925 (1.184, 3.129)         | 1.925 (1.184, 3.129)         |
@@ -810,27 +791,32 @@ Table 9. Summary of efficacy in study 20160275 at primary analysis
 | Odds ratio                     | 11.329 (2.703, 47.476)       | 11.329 (2.703, 47.476)       |
 | 1-sided p-value b              | < 0.0001                     | < 0.0001                     |
 
-KdD = Kyprolis plus dexamethasone and daratumumab; Kd = Kyprolis plus dexamethasone; CI = confidence interval; NE = not estimable; HR = Hazard Ratio; ORR = overall response rate; CR = complete response; VGPR = very good partial response; MRD[-]CR = complete response with negative (or no) minimal residual disease.
+KdD = Kyprolis plus dexamethasone and daratumumab; Kd = Kyprolis plus dexamethasone; CI = confidence interval; NE = not estimable; HR = hazard ratio; ORR = overall response rate; CR = complete response;
 
 <div style=\"page-break-after: always\"></div>
 
-a.  These endpoints were determined by an Independent Review Committee using IMWG response criteria.
+VGPR = very good partial response; MRD[-]CR = complete response with negative (or no) minimal residual disease.
 
-b. Statistically significant
+- a.  These endpoints were determined by an Independent Review Committee using IMWG response criteria.
+- b. Statistically significant
+- c. Overall response is defined as achieving a best overall response of PR, VGPR, CR, or better.
 
-c. Overall response is defined as achieving a best overall response of PR, VGPR, CR, or better.
+Data cut off for primary analysis: 14 July 2019
 
-- Data cut off for primary analysis: 14 July 2019
+At the time of the primary PFS analysis the trial demonstrated an improvement in PFS in the KdD arm as compared to the Kd arm (hazard ratio [HR] = 0.630; 95% CI: 0.464, 0.854; p = 0.0014) which represents a 37% reduction in the risk of disease progression or death in patients treated with KdD. The median PFS was not estimable for the KdD arm and was 15.8 months in the Kd arm.
 
-At the time of the primary PFS analysis the trial demonstrated an improvement in PFS in the KdD arm as compared to the Kd arm (hazard ratio [HR]=0.630; 95% CI: 0.464, 0.854; p=0.0014) which represents a 37% reduction in the risk of disease progression or death in patients treated with KdD. The median PFS was not estimable for the KdD arm and was 15.8 months in the Kd arm.
-
-In patients who received prior lenalidomide (42.3%), median PFS was NE in the KdD arm versus 12.1 months in the Kd arm (HR = 0.52, 95% CI: 0.34, 0.80), ORR was 78.9% versus 74.3% (OR=1.29, 95% CI: 0.65, 2.54), and MRD[-]CR at 12 months was 11.4% versus 0.0% (OR=NE, 95% CI: NE, NE). In patients refractory to lenalidomide (33%), median PFS was NE in the KdD arm versus 11.1 months in the Kd arm (HR = 0.45, 95% CI: 0.28, 0.74), ORR was 79.8% versus 72.7% (OR=1.48, 95%CI: 0.69, 3.20), and MRD[-]CR at 12 months 13.1% versus 0.0% (OR=NE, 95% CI: NE, NE).
+In patients who received prior lenalidomide (42.3%), median PFS was NE in the KdD arm versus 12.1 months in the Kd arm (HR = 0.52, 95% CI: 0.34, 0.80), ORR was 78.9% versus 74.3% (OR = 1.29, 95% CI: 0.65, 2.54), and MRD[-]CR at 12 months was 11.4% versus 0.0% (OR = NE, 95% CI: NE, NE). In patients refractory to lenalidomide (33%), median PFS was NE in the KdD arm versus 11.1 months in the Kd arm (HR = 0.45, 95% CI: 0.28, 0.74), ORR was 79.8% versus 72.7% (OR = 1.48, 95% CI: 0.69, 3.20), and MRD[-]CR at 12 months 13.1% versus 0.0% (OR = NE, 95% CI: NE, NE).
 
 Limited data are available in elderly patients (≥ 75 years). A total of 43 patients above 75 years of age were enrolled in study 20160275 (25 patients in the KdD group and 18 patients in the Kd group). A HR of 1.459 (95% CI: 0.504, 4.223) in PFS was observed. The risk of fatal treatment-emergent adverse events was higher among subjects ≥ 65 years of age (see section 4.8). KdD should be used with caution in patients ≥ 75 years after careful consideration of the potential benefit/risk on an individual basis.
 
 Figure 5. Kaplan-Meier plot of progression-free survival (intent-to-treat-population) as determined by IRC study 20160275
 
 <!-- image -->
+
+| Number of   |   Number of |   Number of |   Number of |   Number of |   Number of |   Number of |   Number of |    |    |
+|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|----|----|
+| Kd          |         154 |         122 |         100 |          85 |          70 |          55 |          13 |  2 |  0 |
+| KdD         |         312 |         279 |         236 |         211 |         189 |         165 |          57 | 14 |  0 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -840,29 +826,37 @@ At the time of final analysis, 148 subjects (47.4%) in the KdD group and 80 subj
 
 Figure 6. Kaplan-Meier plot of overall survival in study 20160275
 
-Kyprolis monotherapy in patients with relapsed and refractory multiple myeloma
-
 <!-- image -->
 
-Additional clinical experience has been generated with Kyprolis monotherapy in patients with relapsed and refractory multiple myeloma. Study PX-171-011 was an open-label randomised phase 3 study (N = 315; exposure to ≥ 3 prior therapies required). Patients enrolled to study PX-171-011 were more heavily pre-treated with lower organ and marrow function as compared to those enrolled in study PX-171-009. PX-171-011 evaluated Kyprolis monotherapy versus a control arm (corticosteroids and cyclophosphamide). The study did not meet its primary efficacy endpoint of demonstrating superiority of Kyprolis monotherapy over the active control arm in overall survival (HR = 0.975 [95% CI: 0.760, 1.249]). PX-171-003A1 was a single-arm phase 2 study (N = 266; exposure to ≥ 2 prior therapies required), which met its primary efficacy endpoint of IRC-assessed ORR (22.9%).
+GRH2388 v2
+
+Kyprolis monotherapy in patients with relapsed and refractory multiple myeloma
+
+Additional clinical experience has been generated with Kyprolis monotherapy in patients with relapsed and refractory multiple myeloma. Study PX-171-011 was an open-label, randomised phase 3 study (N = 315; exposure to ≥ 3 prior therapies required). Patients enrolled to study PX-171-011 were more heavily pre-treated with lower organ and marrow function as compared to those enrolled in study PX-171-009. PX-171-011 evaluated Kyprolis monotherapy versus a control arm (corticosteroids and cyclophosphamide). The study did not meet its primary efficacy endpoint of demonstrating superiority of Kyprolis monotherapy over the active control arm in overall survival (HR = 0.975 [95% CI: 0.760, 1.249]). PX-171-003A1 was a single-arm phase 2 study (N = 266; exposure to ≥ 2 prior therapies required), which met its primary efficacy endpoint of IRC-assessed ORR (22.9%).
 
 <div style=\"page-break-after: always\"></div>
 
 ## Cardiac electrophysiology
 
-An evaluation of possible effects of carfilzomib on cardiac function was performed by analysing, via central blind reading, triplicate ECG in 154 subjects with advanced malignancies, including multiple myeloma. The effect of carfilzomib on cardiac repolarisation using the QT interval with Fridericia's correction (QTcF interval) and the analysis of concentration-QTc relationships show no clear signal of any dose-related effect. The upper bound of one-sided 95% confidence interval (CI) for predicted effect on QTcF at Cmax was 4.8 msec. With Bazett's correction (QTcB interval), the upper bound of one-sided 95% confidence interval (CI) for predicted effect on QTcB at Cmax was 5.9 msec.
+An evaluation of possible effects of carfilzomib on cardiac function was performed by analysing, via central blind reading, triplicate ECG in 154 subjects with advanced malignancies, including multiple myeloma. The effect of carfilzomib on cardiac repolari sation using the QT interval with Fridericia's correction (QTcF interval) and the analysis of concentration-QTc relationships show no clear signal of any dose-related effect. The upper bound of one-sided 95% confidence interval (CI) for predicted effect on QTcF at Cmax was 4.8 msec. With Bazett's correction (QTcB interval), the upper bound of one-sided 95% confidence interval (CI) for predicted effect on QTcB at Cmax was 5.9 msec.
 
 ## Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Kyprolis in all subsets of the paediatric population in multiple myeloma (see section 4.2 for information on paediatric use).
 
+The safety and effectiveness of carfilzomib in combination with chemotherapy were evaluated, but not established in an open-label, multicentre, single-arm phase 2 study (study 20140106) in paediatric patients from ages 1 year to less than 18 years of age (and adults younger than 21 years) with relapsed or refractory B-cell acute lymphoblastic leukemia/leukaemia (ALL) who have received prior targeted B-cell immune therapy or relapsed or refractory T-cell ALL compared to an external control group (selected from study 20180065).
+
+A total of 105 patients received at least one dose of carfilzomib (61 B-cell subjects and 44 T-cell patients). Among the treated patients, 64 completed carfilzomib (37 B-cell patients, 27 T-cell patients), and 32 completed study (19 B-cell patients, 13 T-cell patients). The primary efficacy endpoint was complete remission measured by the proportion of subjects whose best response was CR at the end of induction therapy. The external control arm included 80 B-cell subjects and 60 T-cell subjects. After the propensity score weighting adjustment, the effective sample size was 59.3 B-cell subjects and 44.6 T-cell subjects in the external control arm. In B-cell subjects, the rate of complete remission (CR) was 14.8% in the carfilzomib in combination with vincristine, dexamethasone, PEGasparaginase, and doxorubicin (CFZ-VXLD) arm, and 7.8% in external control arm. The corresponding odds ratio (OR) (95% confidence interval (CI)) was 2.039 (0.543, 7.658) comparing CFZ-VXLD arm to the external control arm. In T-cell subjects, the CR rate was 13.6% in CFZ-VXLD arm, and 9.1% in external control arm. The corresponding OR (95% CI) was 1.580 (0.470, 5.308) comparing CFZ-VXLD arm to the external control arm. This primary endpoint did not meet the statistical significance for superiority for carfilzomib in combination with chemotherapy when compared to the external control arm for each phenotype.
+
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
-The Cmax and AUC following a 2 to 10 minute intravenous infusion of 27 mg/m 2  was 4,232 ng/mL and 379 ng·hr/mL, respectively. Following repeated doses of Kyprolis at 15 and 20 mg/m 2 , systemic exposure (AUC) and half-life were similar on days 1 and 15 or 16 of cycle 1, suggesting there was no systemic carfilzomib accumulation. At doses between 20 and 56 mg/m 2 , there was a dose-dependent increase in exposure.
+The Cmax and AUC following a 2 to 10 minute intravenous infusion of 27 mg/m 2  was 4 232 ng/mL and 379 ng·hr/mL, respectively. Following repeated doses of Kyprolis at 15 and 20 mg/m 2 , systemic exposure (AUC) and half-life were similar on days 1 and 15 or 16 of cycle 1, suggesting there was no systemic carfilzomib accumulation. At doses between 20 and 56 mg/m 2 , there was a dose-dependent increase in exposure.
 
-A 30 minute infusion resulted in a similar half-life and AUC, but 2- to 3-fold lower Cmax compared to that observed with a 2 to 10 minute infusion of the same dose. Following a 30 minute infusion of the 56 mg/m 2  dose, the AUC (948 ng·hr/mL) was approximately 2.5-fold that observed at the 27 mg/m 2 level, and Cmax (2,079 ng/mL) was lower compared to that of 27 mg/m 2 over the 2 to 10 minute infusion.
+A 30 minute infusion resulted in a similar half-life and AUC, but 2- to 3-fold lower Cmax compared to that observed with a 2 to 10 minute infusion of the same dose. Following a 30 minute infusion of the 56 mg/m 2  dose, the AUC (948 ng·hr/mL) was approximately 2.5 -fold that observed at the 27 mg/m 2 level, and Cmax (2 079 ng/mL) was lower compared to that of 27 mg/m 2 over the 2 to 10 minute infusion.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
@@ -874,17 +868,23 @@ Carfilzomib was rapidly and extensively metabolised. The predominant metabolites
 
 ## Elimination
 
-Following intravenous administration of doses ≥ 15 mg/m 2 , carfilzomib was rapidly cleared from the systemic circulation with a half-life of ≤ 1 hour on day 1 of cycle 1. The systemic clearance ranged from 151 to 263 L/hour, and exceeded hepatic blood flow, suggesting that carfilzomib was largely cleared extrahepatically. Carfilzomib is eliminated primarily via metabolism with subsequent excretion of its metabolites in urine.
-
-<div style=\"page-break-after: always\"></div>
+Following intravenous administration of doses ≥ 15 mg/m 2 , carfilzomib was rapidly cleared from the systemic circulation with a halflife of ≤ 1 hour on day 1 of cycle 1. The systemic clearance ranged from 151 to 263 L/hour, and exceeded hepatic blood flow, suggesting that carfilzomib was largely cleared extrahepatically. Carfilzomib is eliminated primarily via metabolism with subsequent excretion of its metabolites in urine.
 
 ## Special populations
 
 Population pharmacokinetic analyses indicate there are no effects of age, gender or race on the pharmacokinetics of carfilzomib.
 
+## Paediatric population
+
+The pharmacokinetics of carfilzomib was evaluated in study 20140106; however the pharmacokinetic data obtained were too limited to reliably characterise exposures in paediatrics, see sections 4.2 and 5.1.
+
+Therefore, no conclusions can be drawn regarding pharmacokinetics behaviour of carfilzomib in this population.
+
 ## Hepatic impairment
 
 A pharmacokinetic study evaluated 33 patients with relapsed or progressive advanced malignancies (solid tumours; n = 31 or haematologic malignancies; n = 2) who had normal hepatic function (bilirubin ≤ upper limit of normal [ULN]; aspartate aminotransferase [AST] ≤ ULN, n = 10), mild hepatic impairment (bilirubin &gt; 1-1.5 × ULN or AST &gt; ULN, but bilirubin ≤ ULN, n = 14), or moderate hepatic impairment (bilirubin &gt; 1.5-3 × ULN; any AST, n = 9). The pharmacokinetics of carfilzomib has not been studied in patients with severe hepatic impairment (bilirubin &gt; 3 × ULN and any AST). Kyprolis, as a single agent, was administered intravenously over 30 minutes at 20 mg/m 2 on days 1 and 2 and at 27 mg/m 2 on days 8, 9, 15 and 16 of cycle 1. If tolerated, patients received 56 mg/m 2  starting in cycle 2. Baseline hepatic function status had no marked effect on the total systemic exposure (AUClast) of carfilzomib following single or repeat-dose administration (geometric mean ratio in AUClast at the 27 mg/m 2 dose in cycle 1, day 16 for mild and moderate impairment versus normal hepatic function were 144.4% and 126.1%, respectively; and at the 56 mg/m 2 dose in cycle 2, day 1 were 144.7% and 121.1%). However, in patients with mild or moderate baseline hepatic impairment, all of whom had solid tumours, there was a higher subject incidence of hepatic function abnormalities, ≥ grade 3 adverse events and serious adverse events compared with subjects with normal hepatic function (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -898,11 +898,11 @@ Results from both studies show that renal function status had no marked effect o
 
 Carfilzomib was clastogenic in the in vitro chromosomal aberration test in peripheral blood lymphocytes. Carfilzomib was not mutagenic in the in vitro bacterial reverse mutation (Ames) test and was not clastogenic in the in vivo mouse bone marrow micronucleus assay.
 
-<div style=\"page-break-after: always\"></div>
-
 Monkeys administered a single bolus intravenous dose of carfilzomib at 3 mg/kg (which corresponds to 36 mg/m 2 and is similar to the recommended dose in humans of 27 mg/m 2  based on BSA) experienced hypotension, increased heart rate, and increased serum levels of troponin T. The repeated bolus intravenous administration of carfilzomib at ≥ 2 mg/kg/dose in rats and 2 mg/kg/dose in monkeys using dosing schedules similar to those used clinically resulted in mortalities that were due to toxicities occurring in the cardiovascular (cardiac failure, cardiac fibrosis, pericardial fluid accumulation, cardiac haemorrhage/degeneration), gastrointestinal (necrosis/haemorrhage), renal (glomerulonephropathy, tubular necrosis, dysfunction), and pulmonary (haemorrhage/inflammation) systems. The dose of 2 mg/kg/dose in rats is approximately half the recommended dose in humans of 27 mg/m 2  based on BSA. The highest non-severely toxic dose of 0.5 mg/kg in monkeys resulted in interstitial inflammation in the kidney along with slight glomerulopathy and slight heart inflammation. Those findings were reported at 6 mg/m 2  which are below the recommended dose in humans of 27 mg/m 2 .
 
 Fertility studies with carfilzomib have not been conducted. No effects on reproductive tissues were noted during 28-day repeat-dose rat and monkey toxicity studies or in 6-month rat and 9-month monkey chronic toxicity studies. Carfilzomib caused embryo-foetal toxicity in pregnant rabbits at doses that were lower than in patients receiving the recommended dose. Carfilzomib administered to pregnant rats during the period of organogenesis was not teratogenic at doses up to 2 mg/kg/day, which is approximately half the recommended dose in humans of 27 mg/m 2  based on BSA.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -926,13 +926,11 @@ Kyprolis powder for solution for infusion must not be mixed with sodium chloride
 
 Chemical and physical in-use stability of reconstituted solutions in the vial, syringe or intravenous bag has been demonstrated for 24 hours at 2°C - 8°C or for 4 hours at 25°C. The elapsed time from reconstitution to administration should not exceed 24 hours.
 
-From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user and should not be longer than 24 hours at 2°C - 8°C.
-
-<div style=\"page-break-after: always\"></div>
+From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user and should not be longer than 24 hours at 2°C -8°C.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C).
+Store in a refrigerator (2°C -8°C).
 
 Do not freeze.
 
@@ -956,13 +954,15 @@ For storage conditions after reconstitution of the medicinal product, see sectio
 
 Pack size of one vial.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.6 Special precautions for disposal and other handling
 
 ## General precautions
 
 Carfilzomib is a cytotoxic agent. Therefore, caution should be used during handling and preparation of Kyprolis. Use of gloves and other protective equipment is recommended.
 
-Reconstitution and preparation for intravenous administration
+## Reconstitution and preparation for intravenous administration
 
 Kyprolis vials contain no antimicrobial preservatives and are intended for single use only. Proper aseptic technique must be observed.
 
@@ -973,42 +973,21 @@ The reconstituted solution contains carfilzomib at a concentration of 2 mg/mL. R
 3. Use only a 21-gauge or larger gauge needle (0.8 mm or smaller external diameter needle) to aseptically reconstitute each vial by slowly injecting 5 mL (for 10 mg vial), 15 mL (for 30 mg vial) or 29 mL (for 60 mg vial) sterile water for injections through the stopper and directing the solution onto the INSIDE WALL OF THE VIAL to minimise foaming.
 4. Gently swirl and/or invert the vial slowly for approximately 1 minute, or until complete dissolution. DO NOT SHAKE. If foaming occurs, allow the solution to settle in the vial until foaming subsides (approximately 5 minutes) and the solution is clear.
 5. Visually inspect for particulate matter and discolouration prior to administration. The reconstituted product should be a clear, colourless to slightly yellow solution and should not be administered if any discolouration or particulate matter is observed.
-
-<div style=\"page-break-after: always\"></div>
-
-6.
-
-7.
-
-8.
-
-Discard any unused portion left in the vial.
-
-Kyprolis can be administered directly by intravenous infusion or optionally administered in an intravenous bag. Do not administer as an intravenous push or bolus.
-
-When administering in an intravenous bag, use only a 21-gauge or larger gauge needle (0.8 mm or smaller external diameter needle) to withdraw the calculated dose from the vial and dilute
-
-into a 50 or 100 mL intravenous bag containing 5% glucose solution for injection.
+6. Discard any unused portion left in the vial.
+7. Kyprolis can be administered directly by intravenous infusion or optionally administered in an intravenous bag. Do not administer as an intravenous push or bolus.
+8. When administering in an intravenous bag, use only a 21-gauge or larger gauge needle (0.8 mm or smaller external diameter needle) to withdraw the calculated dose from the vial and dilute into a 50 or 100 mL intravenous bag containing 5% glucose solution for injection.
 
 ## Disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-7.
+## 7. MARKETING AUTHORISATION HOLDER
 
-MARKETING AUTHORISATION HOLDER
+Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
 
-Amgen Europe B.V.
+<div style=\"page-break-after: always\"></div>
 
-Minervum 7061
-
-4817 ZK Breda
-
-The Netherlands
-
-8.
-
-MARKETING AUTHORISATION NUMBER(S)
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/15/1060/002
 
@@ -1022,24 +1001,15 @@ Date of first authorisation: 19 November 2015
 
 Date of latest renewal: 25 June 2020
 
-10.
+## 10. DATE OF REVISION OF THE TEXT
 
-DATE OF REVISION OF THE TEXT
-
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency http://www.ema.europa.eu.
-
-33
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-- A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -1134,8 +1104,6 @@ Cytotoxic
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -1161,7 +1129,9 @@ EU/1/15/1060/002
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
@@ -1172,23 +1142,23 @@ Justification for not including Braille accepted.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+<div style=\"page-break-after: always\"></div>
 
-VIAL LABEL
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Kyprolis 10 mg powder for solution for infusion carfilzomib IV
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1200,8 +1170,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 10 mg
 
@@ -1254,8 +1224,6 @@ Cytotoxic
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
@@ -1281,7 +1249,9 @@ EU/1/15/1060/003
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
@@ -1290,11 +1260,14 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
 
-PC SN
+<div style=\"page-break-after: always\"></div>
 
-NN
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
+
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1453,7 +1426,7 @@ Lot
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1513,7 +1486,7 @@ Do not freeze.
 
 Store in the original carton in order to protect from light.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 Discard unused portions in accordance with local requirements.
 
@@ -1547,7 +1520,9 @@ Justification for not including Braille accepted.
 
 ## Package leaflet: Information for the patient
 
-Kyprolis 10 mg powder for solution for infusion Kyprolis 30 mg powder for solution for infusion Kyprolis 60 mg powder for solution for infusion carfilzomib
+Kyprolis 10 mg powder for solution for infusion Kyprolis 30 mg powder for solution for infusion Kyprolis 60 mg powder for solution for infusion
+
+carfilzomib
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1605,13 +1580,17 @@ You must look out for certain symptoms while you are taking Kyprolis to reduce t
 
 Tell your doctor if you have ever had or might now have a hepatitis B infection. This is because this medicine could cause hepatitis B virus to become active again. Your doctor will check you for signs of this infection before, during and for some time after treatment with this medicine. Tell your doctor right away if you get worsening tiredness, or yellowing of your skin or white part of your eyes.
 
-At any time during or after your treatment, tell your doctor or nurse immediately if you: experience blurred, loss of or double vision, difficulty speaking, weakness in an arm or a leg, a change in the way you walk or problems with your balance, persistent numbness, decreased sensation or loss of sensation, memory loss or confusion. These may all be symptoms of a serious and potentially fatal brain condition known as Progressive Multifocal Leukoencephalopathy (PML). If you had these symptoms prior to treatment with carfilzomib, tell your doctor about any change in these symptoms.
+At any time during or after your treatment, tell your doctor or nurse immediately if you: experience blurred, loss of or double vision, difficulty speaking, weakness in an arm or a leg, a change in the way you walk or problems with your balance, persistent numbness, decreased sensation or loss of sensation, memory loss or confusion. These may all be symptoms of a serious and potentially fatal brain condition known as progressive multifocal leukoencephalopathy (PML). If you had these symptoms prior to treatment with carfilzomib, tell your doctor about any change in these symptoms.
 
 ## Other medicines and Kyprolis
 
 Tell your doctor if you are taking, have recently taken or might take any other medicines. This includes any medicines obtained without a prescription, such as vitamins or herbal remedies.
 
 Tell your doctor or nurse if you are taking medicines used to prevent pregnancy such as oral contraceptives or other hormonal contraceptives, as these may not be suitable for use with Kyprolis.
+
+## Children and adolescents
+
+Kyprolis is not recommended for use in children and adolescents under 18 years. This is because the effectiveness of Kyprolis has not been established in paediatric patients.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1649,9 +1628,9 @@ This medicine contains 216 mg sodium per 60 mg vial. This is equivalent to 11% o
 
 This medicine contains 500 mg cyclodextrin (betadex sulfobutyl ether sodium) per 10 mg vial. This is equivalent to 88 mg/kg for a 70 kg adult.
 
-This medicine contains 1,500 mg cyclodextrin (betadex sulfobutyl ether sodium) per 30 mg vial. This is equivalent to 88 mg/kg for a 70 kg adult.
+This medicine contains 1 500 mg cyclodextrin (betadex sulfobutyl ether sodium) per 30 mg vial. This is equivalent to 88 mg/kg for a 70 kg adult.
 
-This medicine contains 3,000 mg cyclodextrin (betadex sulfobutyl ether sodium) per 60 mg vial. This is equivalent to 88 mg/kg for a 70 kg adult.
+This medicine contains 3 000 mg cyclodextrin (betadex sulfobutyl ether sodium) per 60 mg vial. This is equivalent to 88 mg/kg for a 70 kg adult.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1858,7 +1837,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-s.a. Amgen n.v. Tel/Tél: +32 (0)2 7752711
+s.a. Amgen n.v.
+
+Tél/Tel: +32 (0)2 7752711
 
 ## Lietuva
 
@@ -1872,11 +1853,13 @@ Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
 
 ## Luxembourg/Luxemburg
 
-s.a. Amgen Belgique/Belgien Tel/Tél: +32 (0)2 7752711
+s.a. Amgen Belgique/Belgien Tél/Tel: +32 (0)2 7752711
 
 ## Česká republika
 
-Amgen s.r.o. Tel: +420 221 773 500
+Amgen s.r.o.
+
+Tel: +420 221 773 500
 
 ## Magyarország
 
@@ -1884,7 +1867,7 @@ Amgen Kft. Tel.: +36 1 35 44 700
 
 ## Danmark
 
-Amgen, filial af Amgen AB, Sverige Tlf: +45 39617500
+Amgen, filial af Amgen AB, Sverige Tlf.: +45 39617500
 
 ## Malta
 
@@ -1910,15 +1893,23 @@ Amgen Switzerland AG Vilniaus filialas Tel: +372 586 09553
 
 Amgen AB
 
-Tel: +47 23308000
+Tlf: +47 23308000
 
 <div style=\"page-break-after: always\"></div>
 
 ## Ελλάδα
 
+## Österreich
+
 Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε.
 
-Τηλ.: +30 210 3447000
+Τηλ
+
+.: +30 210 3447000
+
+Amgen GmbH
+
+Tel: +43 (0)1 50 217
 
 ## España
 
@@ -1926,11 +1917,23 @@ Amgen S.A.
 
 Tel: +34 93 600 18 60
 
+## Polska
+
+Amgen Biotechnologia Sp. z o.o.
+
+Tel.: +48 22 581 3000
+
 ## France
 
 Amgen S.A.S.
 
 Tél: +33 (0)9 69 363 363
+
+## Portugal
+
+Amgen Biofarmacêutica, Lda.
+
+Tel: +351 21 4220606
 
 ## Hrvatska
 
@@ -1938,17 +1941,35 @@ Amgen d.o.o.
 
 Tel: +385 (0)1 562 57 20
 
+## România
+
+Amgen România SRL
+
+Tel: +4021 527 3000
+
 ## Ireland
 
 Amgen Ireland Limited
 
 Tel: +353 1 8527400
 
+## Slovenija
+
+AMGEN zdravila d.o.o.
+
+Tel: +386 (0)1 585 1767
+
 ## Ísland
 
-Vistor hf.
+Vistor
 
 Sími: +354 535 7000
+
+## Slovenská republika
+
+Amgen Slovakia s.r.o.
+
+Tel: +421 2 321 114 49
 
 ## Italia
 
@@ -1956,11 +1977,23 @@ Amgen S.r.l.
 
 Tel: +39 02 6241121
 
+## Suomi/Finland
+
+Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland
+
+Puh/Tel: +358 (0)9 54900500
+
 ## Kύπρος
 
 C.A. Papaellinas Ltd
 
 Τηλ.: +357 22741 741
+
+## Sverige
+
+Amgen AB
+
+Tel: +46 (0)8 6951100
 
 ## Latvija
 
@@ -1972,63 +2005,9 @@ Tel: +371 257 25888
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
-
-## Österreich
-
-Amgen GmbH
-
-Tel: +43 (0)1 50 217
-
-## Polska
-
-Amgen Biotechnologia Sp. z o.o.
-
-Tel.: +48 22 581 3000
-
-## Portugal
-
-Amgen Biofarmacêutica, Lda.
-
-Tel: +351 21 4220606
-
-## România
-
-Amgen România SRL
-
-Tel: +4021 527 3000
-
-## Slovenija
-
-AMGEN zdravila d.o.o.
-
-Tel: +386 (0)1 585 1767
-
-## Slovenská republika
-
-Amgen Slovakia s.r.o.
-
-Tel: +421 2 321 114 49
-
-## Suomi/Finland
-
-Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland
-
-Puh/Tel: +358 (0)9 54900500
-
-## Sverige
-
-Amgen AB
-
-Tel: +46 (0)8 6951100
-
-## United Kingdom (Northern Ireland)
-
-Amgen Limited
-
-Tel: +44 (0)1223 420305
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2053,6 +2032,6 @@ The reconstituted solution contains carfilzomib at a concentration of 2 mg/mL. R
 7. Kyprolis can be administered directly by intravenous infusion or optionally administered in an intravenous bag. Do not administer as an intravenous push or bolus.
 8. When administering in an intravenous bag, use only a 21-gauge or larger gauge needle (0.8 mm or smaller external diameter needle) to withdraw the calculated dose from the vial and dilute into a 50 or 100 mL intravenous bag containing 5% glucose solution for injection.
 
-From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user and should not be longer than 24 hours at 2°C - 8°C.
+From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user and should not be longer than 24 hours at 2°C -8°C.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

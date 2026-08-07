@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-09-20 09:48:25
-document_pages: 49
+document_datetime: 2026-08-05 16:15:32
+document_pages: 48
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ninlaro-epar-product-information_en.pdf
 document_name: ninlaro-epar-product-information_en.pdf
 version: success
-processing_time: 17.1656947
-conversion_datetime: 2025-12-15 21:16:13.639066
+processing_time: 12.420381
+conversion_datetime: 2026-08-07 14:24:42.290764
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,17 +28,17 @@ NINLARO 2.3 mg hard capsules NINLARO 3 mg hard capsules NINLARO 4 mg hard capsul
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-NINLARO 2.3 mg hard capsules
+## NINLARO 2.3 mg hard capsules
 
-Each capsule contains 2.3 mg of ixazomib (as 3.3 mg of ixazomib citrate)
+Each capsule contains 2.3 mg of ixazomib (as 3.3 mg of ixazomib citrate).
 
 NINLARO 3 mg hard capsules
 
-Each capsule contains 3 mg of ixazomib (as 4.3 mg of ixazomib citrate)
+Each capsule contains 3 mg of ixazomib (as 4.3 mg of ixazomib citrate).
 
 NINLARO 4 mg hard capsules
 
-Each capsule contains 4 mg of ixazomib (as 5.7 mg of ixazomib citrate)
+Each capsule contains 4 mg of ixazomib (as 5.7 mg of ixazomib citrate).
 
 For the full list of excipients, see section 6.1.
 
@@ -88,8 +88,6 @@ The recommended starting dose of dexamethasone is 40 mg administered on Days 1, 
 | Lenalidomide                    |                                |  Daily                         |                                |  Daily                         |                                |  Daily                         |                                 |                                 |
 | Dexamethasone                   |                                |                                 |                                |                                 |                                |                                 |                                |                                 |
 
- = intake of medicinal product
-
 For additional information regarding lenalidomide and dexamethasone, refer to the Summary of Product Characteristics (SmPC) for these medicinal products.
 
 Prior to initiating a new cycle of therapy:
@@ -102,7 +100,7 @@ Treatment should be continued until disease progression or unacceptable toxicity
 
 ## Delayed or missed doses
 
-In the event that a ixazomib dose is delayed or missed, the dose should be taken only if the next scheduled dose is ≥ 72 hours away. A missed dose should not be taken within 72 hours of the next scheduled dose. A double dose should not be taken to make up for a missed dose.
+In the event that an ixazomib dose is delayed or missed, the dose should be taken only if the next scheduled dose is ≥ 72 hours away. A missed dose should not be taken within 72 hours of the next scheduled dose. A double dose should not be taken to make up for a missed dose.
 
 If a patient vomits after taking a dose, the patient should not repeat the dose but should resume dosing at the time of the next scheduled dose.
 
@@ -110,13 +108,11 @@ If a patient vomits after taking a dose, the patient should not repeat the dose 
 
 The ixazomib dose reduction steps are presented in Table 1 and the dose modification guidelines are provided in Table 2.
 
-## Table 1: Ixazomib dose reduction steps
+Table 1: Ixazomib dose reduction steps
 
 | Recommended starting dose*   | First reduction to   | Second reduction to   | Discontinue   |
 |------------------------------|----------------------|-----------------------|---------------|
 | 4 mg                         | 3 mg                 | 2.3 mg                | Discontinue   |
-
-*Recommended reduced dose of 3 mg in the presence of moderate or severe hepatic impairment, severe renal impairment or end-stage renal disease (ESRD) requiring dialysis.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -141,13 +137,11 @@ Table 2: Dose modifications guidelines for ixazomib in combination with lenalido
 
 <div style=\"page-break-after: always\"></div>
 
-Table 2: Dose modifications guidelines for ixazomib in combination with lenalidomide and dexamethasone
-
 | Other non-haematological toxicities              | Other non-haematological toxicities                                                                                                                                                                                                                               |
 |--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Other Grade 3 or 4 non-haematological toxicities | • Withhold ixazomib. Toxicities should, at the physician's discretion, generally recover to patient's baseline condition or at most Grade 1 prior to resuming ixazomib. • If attributable to ixazomib, resume ixazomib at the next lower dose following recovery. |
 
-- *For additional occurrences, alternate dose modification of lenalidomide and ixazomib
+*For additional occurrences, alternate dose modification of lenalidomide and ixazomib
 
 † Grading based on National Cancer Institute Common Terminology Criteria (CTCAE) Version 4.03
 
@@ -161,7 +155,7 @@ For other concomitant medicinal products that may be required, refer to the curr
 
 ## Special patient populations
 
-Elderly
+## Elderly
 
 No dose adjustment of ixazomib is required for patients over 65 years of age.
 
@@ -177,11 +171,11 @@ No dose adjustment of ixazomib is required for patients with mild or moderate re
 
 Refer to the lenalidomide SmPC for dosing recommendations in patients with renal impairment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Paediatric population
 
 The safety and efficacy of ixazomib in children below 18 years of age have not been established. No data are available.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Method of administration
 
@@ -217,11 +211,11 @@ Peripheral neuropathy has been reported with ixazomib (see section 4.8). The pat
 
 Peripheral oedema has been reported with ixazomib (see section 4.8). The patient should be evaluated for underlying causes and provide supportive care, as necessary. The dose of dexamethasone should be adjusted per its prescribing information or ixazomib for Grade 3 or 4 symptoms (see section 4.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Cutaneous reactions
 
-Rash has been reported with ixazomib (see section 4.8). Rash should be managed with supportive care or with dose modification if Grade 2 or higher (see section 4.2). Severe cutaneous adverse reactions (SCARs) including Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS), which can be life-threatening or fatal, have also been rarely reported in association with ixazomib treatment (see section 4.8).
+Rash has been reported with ixazomib (see section 4.8). Rash should be managed with supportive care or with dose modification if Grade 2 or higher (see section 4.2). Severe cutaneous adverse reactions (SCARs) including toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS), which can be life-threatening or fatal, have also been rarely reported in association with ixazomib treatment (see section 4.8).
+
+<div style=\"page-break-after: always\"></div>
 
 At the time of prescription patients should be advised of the signs and symptoms and monitored closely for skin reactions. If signs and symptoms suggestive of these reactions appear, ixazomib should be withdrawn immediately and an alternative treatment considered (as appropriate).
 
@@ -229,7 +223,7 @@ If the patient has developed a serious reaction such as SJS or TEN with the use 
 
 ## Thrombotic microangiopathy
 
-Cases of thrombotic microangiopathy (TMA), including thrombotic thrombocytopenic purpura (TTP), have been reported in patients who received ixazomib. Some of these events have been fatal. Signs and symptoms of TMA should be monitored for. If the diagnosis is suspected, stop ixazomib and evaluate patients for possible TMA. If the diagnosis of TMA is excluded, ixazomib can be restarted. The safety of reinitiating ixazomib therapy in patients previously experiencing TMA is not known.
+Cases of thrombotic microangiopathy (TMA), including thrombotic thrombocytopenic purpura/haemolytic uremic syndrome (TTP/HUS), have been reported in patients who received ixazomib. Some of these events have been fatal. Signs and symptoms of TMA should be monitored for. If the diagnosis is suspected, stop ixazomib and evaluate patients for possible TMA. If the diagnosis of TMA is excluded, ixazomib can be restarted. The safety of reinitiating ixazomib therapy in patients previously experiencing TMA is not known.
 
 ## Hepatotoxicity
 
@@ -249,15 +243,17 @@ Posterior reversible encephalopathy syndrome (PRES) has occurred in patients rec
 
 Strong inducers may reduce the efficacy of ixazomib, therefore the concomitant use of strong CYP3A inducers such as carbamazepine, phenytoin, rifampicin and St. John's Wort ( Hypericum perforatum ), should be avoided (see sections 4.5 and 5.2). Closely monitor patients for disease control if co-administration with a strong CYP3A inducer cannot be avoided.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 ## Pharmacokinetic interactions
 
 ## CYP inhibitors
 
-Co-administration of ixazomib with clarithromycin, a strong CYP3A inhibitor, did not result in a clinically meaningful change in the systemic exposure of ixazomib. Ixazomib Cmax was decreased by 4% and AUC was increased by 11%. Therefore, no dose modification is required for ixazomib with co-administration of strong CYP3A inhibitors.
+Co-administration of ixazomib with clarithromycin, a strong CYP3A inhibitor, did not result in a clinically meaningful change in the systemic exposure of ixazomib. Ixazomib Cmax was decreased by
+
+<div style=\"page-break-after: always\"></div>
+
+4% and AUC was increased by 11%. Therefore, no dose modification is required for ixazomib with co-administration of strong CYP3A inhibitors.
 
 Co-administration of ixazomib with strong CYP1A2 inhibitors did not result in a clinically meaningful change in the systemic exposure of ixazomib based on the results of a population pharmacokinetic (PK) analysis. Therefore, no dose modification is required for ixazomib with co-administration of strong CYP1A2 inhibitors.
 
@@ -285,15 +281,13 @@ As ixazomib is administered in combination with lenalidomide and dexamethasone, 
 
 Male and female patients who are able to have children must use effective contraceptive measures during and for 90 days following treatment. Ixazomib is not recommended in women of childbearing potential not using contraception.
 
-When ixazomib is administered together with dexamethasone, which is known to be a weak to moderate inducer of CYP3A4 as well as other enzymes and transporters, the risk for reduced efficacy
-
-<div style=\"page-break-after: always\"></div>
-
-of oral contraceptives needs to be considered. Therefore, women using oral hormonal contraceptives should additionally use a barrier method of contraception.
+When ixazomib is administered together with dexamethasone, which is known to be a weak to moderate inducer of CYP3A4 as well as other enzymes and transporters, the risk for reduced efficacy of oral contraceptives needs to be considered. Therefore, women using oral hormonal contraceptives should additionally use a barrier method of contraception.
 
 ## Pregnancy
 
 Ixazomib is not recommended during pregnancy as it can cause foetal harm when administered to a pregnant woman. Therefore, women should avoid becoming pregnant while being treated with ixazomib.
+
+<div style=\"page-break-after: always\"></div>
 
 There are no data for the use of ixazomib in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
 
@@ -321,63 +315,54 @@ As ixazomib is administered in combination with lenalidomide and dexamethasone, 
 
 The safety profile of NINLARO is based on available clinical trial data and post-marketing experience to date. Frequencies of adverse reactions described below and in Table 3 have been determined based on data generated from clinical studies.
 
-Unless otherwise noted, the data presented below is the pooled safety data from the pivotal, Phase 3, global C16010 study (n = 720) and the double-blind, placebo-controlled C16010 China Continuation Study (n = 115). The most frequently reported adverse reactions (≥ 20%) across 418 patients treated within the ixazomib regimen and 417 patients within the placebo regimen were diarrhoea (47% vs. 38%), thrombocytopenia (41% vs. 24%), neutropenia (37% vs. 36%), constipation (31% vs. 24%), upper respiratory tract infection (28% vs. 24%), peripheral neuropathy (28% vs. 22%), nausea (28% vs. 20%), back pain (25% vs. 21%), rash (25% vs. 15%), peripheral oedema (24% vs. 19%), vomiting
-
-<div style=\"page-break-after: always\"></div>
-
-(23% vs. 12%) and bronchitis (20% vs. 15%). Serious adverse reactions reported in ≥ 2% of patients included diarrhoea (3%), thrombocytopenia (2%) and bronchitis (2%).
+Unless otherwise noted, the data presented below is the pooled safety data from the pivotal, Phase 3, global C16010 study (n = 720) and the double-blind, placebo-controlled C16010 China Continuation Study (n = 115). The most frequently reported adverse reactions (≥ 20%) across 418 patients treated within the ixazomib regimen and 417 patients within the placebo regimen were diarrhoea (47% vs. 38%), thrombocytopenia (41% vs. 24%), neutropenia (37% vs. 36%), constipation (31% vs. 24%), upper respiratory tract infection (28% vs. 24%), peripheral neuropathy (28% vs. 22%), nausea (28% vs. 20%), back pain (25% vs. 21%), rash (25% vs. 15%), peripheral oedema (24% vs. 19%), vomiting (23% vs. 12%) and bronchitis (20% vs. 15%). Serious adverse reactions reported in ≥ 2% of patients included diarrhoea (3%), thrombocytopenia (2%) and bronchitis (2%).
 
 ## Tabulated list of adverse reactions
 
 The following convention is used for the classification of the frequency of an adverse drug reaction (ADR): very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data). Within each system organ class, the ADRs are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 3: Adverse reactions in patients treated with ixazomib in combination with lenalidomide and dexamethasone (all grades, grade 3 and grade 4)
-
-| System organ class / Adverse reaction            | Adverse reactions (all grades)                  | Grade 3 adverse reactions                       | Grade 4 adverse reactions                       |
-|--------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
-| Infections and infestations                      | Infections and infestations                     | Infections and infestations                     | Infections and infestations                     |
-| Upper respiratory tract infection                | Very common                                     | Common                                          |                                                 |
-| Bronchitis                                       | Very common                                     | Common                                          |                                                 |
-| Herpes zoster                                    | Common                                          | Common                                          |                                                 |
-| Blood and lymphatic system disorders             | Blood and lymphatic system disorders            | Blood and lymphatic system disorders            | Blood and lymphatic system disorders            |
-| Thrombocytopenia*                                | Very common                                     | Very common                                     | Common                                          |
-| Neutropenia*                                     | Very common                                     | Very common                                     | Common                                          |
-| Thrombotic microangiopathy                       | Rare                                            |                                                 | Rare                                            |
-| Thrombotic thrombocytopenic purpura †            | Rare                                            | Rare                                            | Rare                                            |
-| Immune system disorders                          | Immune system disorders                         | Immune system disorders                         | Immune system disorders                         |
-| Anaphylactic reaction †                          | Rare                                            | Very rare                                       | Very rare                                       |
-| Angioedema †                                     | Rare                                            | Rare                                            |                                                 |
-| Metabolism and nutrition disorders               | Metabolism and nutrition disorders              | Metabolism and nutrition disorders              | Metabolism and nutrition disorders              |
-| Tumour lysis syndrome †                          | Rare                                            | Rare                                            | Rare                                            |
-| Nervous system disorders                         | Nervous system disorders                        | Nervous system disorders                        | Nervous system disorders                        |
-| Peripheral neuropathies*                         | Very common                                     | Common                                          |                                                 |
-| Posterior reversible encephalopathy disorders* † | Rare                                            | Rare                                            | Rare                                            |
-| Transverse myelitis †                            | Rare                                            | Rare                                            |                                                 |
-| Gastrointestinal disorders                       | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      |
-| Diarrhoea                                        | Very common                                     | Common                                          |                                                 |
-| Constipation                                     | Very common                                     | Uncommon                                        |                                                 |
-| Nausea                                           | Very common                                     | Common                                          |                                                 |
-| Vomiting                                         | Very common                                     | Uncommon                                        |                                                 |
-| Skin and subcutaneous tissue disorders           | Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders          |
-| Rash*                                            | Very common                                     | Common                                          |                                                 |
-| Stevens-Johnson syndrome †                       | Rare                                            | Rare                                            |                                                 |
-| Acute febrile neutrophilic dermatosis            | Rare                                            | Rare                                            |                                                 |
-| Toxic epidermal necrolysis †                     | Rare                                            |                                                 | Rare                                            |
-| Musculoskeletal and connective tissue disorders  | Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders |
-| Back pain                                        | Very common                                     | Uncommon                                        |                                                 |
-| Arthralgia                                       | Very common                                     | Common                                          |                                                 |
-
 <div style=\"page-break-after: always\"></div>
 
-| System organ class / Adverse reaction                | Adverse reactions (all grades)                       | Grade 3 adverse reactions                            | Grade 4 adverse reactions   |
-|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-----------------------------|
-| General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |                             |
-| Oedema peripheral                                    | Very common                                          | Common                                               |                             |
-| Pyrexia                                              | Very common                                          | Uncommon                                             |                             |
+Table 3: Adverse reactions in patients treated with ixazomib in combination with lenalidomide and dexamethasone (all grades, grade 3 and grade 4)
 
-*Represents a pooling of preferred terms
+| System organ class / Adverse reaction                | Adverse reactions (all grades)                       | Grade 3 adverse reactions                            | Grade 4 adverse reactions                            |
+|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| Infections and infestations                          | Infections and infestations                          | Infections and infestations                          | Infections and infestations                          |
+| Upper respiratory tract infection                    | Very common                                          | Common                                               |                                                      |
+| Bronchitis                                           | Very common                                          | Common                                               |                                                      |
+| Herpes zoster                                        | Common                                               | Common                                               |                                                      |
+| Blood and lymphatic system disorders                 | Blood and lymphatic system disorders                 | Blood and lymphatic system disorders                 | Blood and lymphatic system disorders                 |
+| Thrombocytopenia*                                    | Very common                                          | Very common                                          | Common                                               |
+| Neutropenia*                                         | Very common                                          | Very common                                          | Common                                               |
+| Thrombotic microangiopathy                           | Rare                                                 |                                                      | Rare                                                 |
+| Thrombotic thrombocytopenic purpura †                | Rare                                                 | Rare                                                 | Rare                                                 |
+| Immune system disorders                              | Immune system disorders                              | Immune system disorders                              | Immune system disorders                              |
+| Anaphylactic reaction †                              | Rare                                                 | Very rare                                            | Very rare                                            |
+| Angioedema †                                         | Rare                                                 | Rare                                                 |                                                      |
+| Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                   | Metabolism and nutrition disorders                   |
+| Tumour lysis syndrome †                              | Rare                                                 | Rare                                                 | Rare                                                 |
+| Nervous system disorders                             | Nervous system disorders                             | Nervous system disorders                             | Nervous system disorders                             |
+| Peripheral neuropathies*                             | Very common                                          | Common                                               |                                                      |
+| Posterior reversible encephalopathy disorders* †     | Rare                                                 | Rare                                                 | Rare                                                 |
+| Transverse myelitis †                                | Rare                                                 | Rare                                                 |                                                      |
+| Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           |
+| Diarrhoea                                            | Very common                                          | Common                                               |                                                      |
+| Constipation                                         | Very common                                          | Uncommon                                             |                                                      |
+| Nausea                                               | Very common                                          | Common                                               |                                                      |
+| Vomiting                                             | Very common                                          | Uncommon                                             |                                                      |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |
+| Rash*                                                | Very common                                          | Common                                               |                                                      |
+| Stevens-Johnson syndrome †                           | Rare                                                 | Rare                                                 |                                                      |
+| Acute febrile neutrophilic dermatosis                | Rare                                                 | Rare                                                 |                                                      |
+| Toxic epidermal necrolysis †                         | Rare                                                 |                                                      | Rare                                                 |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      |
+| Back pain                                            | Very common                                          | Uncommon                                             |                                                      |
+| Arthralgia                                           | Very common                                          | Common                                               |                                                      |
+| General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |
+| Oedema peripheral                                    | Very common                                          | Common                                               |                                                      |
+| Pyrexia                                              | Very common                                          | Uncommon                                             |                                                      |
 
-† Reported outside of the Phase 3 studies
+<div style=\"page-break-after: always\"></div>
 
 ## Description of selected adverse reactions
 
@@ -387,7 +372,7 @@ For each adverse reaction, one or more of the three medicinal products was disco
 
 ## Thrombocytopenia
 
-Two percent of patients in both the ixazomib regimen and the placebo regimen had a platelet count ≤ 10 000/mm 3 during treatment. Less than 1% of patients in both regimens had a platelet count ≤ 5 000/mm 3  during treatment. Thrombocytopenia resulted in discontinuation of one or more of the three medicinal products in 2% of patients in the ixazomib regimen and 3% of patients in the placebo regimen. Thrombocytopenia did not result in an increase in haemorrhagic events or platelet transfusions.
+Two percent of patients in both the ixazomib regimen and the placebo regimen had a platelet count ≤ 10 000/mm 3 during treatment. Less than 1% of patients in both regimens had a platelet count ≤ 5 000/mm 3 during treatment. Thrombocytopenia resulted in discontinuation of one or more of the three medicinal products in 2% of patients in the ixazomib regimen and 3% of patients in the placebo regimen. Thrombocytopenia did not result in an increase in haemorrhagic events or platelet transfusions.
 
 ## Gastrointestinal toxicities
 
@@ -405,17 +390,17 @@ Peripheral neuropathy occurred in 28% of patients in the ixazomib regimen compar
 
 Eye disorders were reported with many different preferred terms but in aggregate, the frequency was 34% in patients in the ixazomib regimen and 28% of patients in the placebo regimen. The most common adverse reactions were blurred vision (6% in the ixazomib regimen and 5% in the placebo regimen), dry eye (6% in the ixazomib regimen and 1% in the placebo regimen), conjunctivitis (8% in the ixazomib regimen and 2% in the placebo regimen) and cataract (13% in the ixazomib regimen and 17% in the placebo regimen). Grade 3 adverse reactions were reported in 6% of patients in the ixazomib regimen and 8% of patients in the placebo regimen.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Other adverse reactions
 
 In the pooled dataset from the pivotal, Phase 3, global C16010 study (n = 720) and the double-blind, placebo-controlled, C16010 China Continuation Study (n = 115), the following adverse reactions occurred with a similar rate between the ixazomib and placebo regimens: fatigue (28% vs. 26%), decreased appetite (13% vs. 11%), hypotension (5% vs. 4%), heart failure † (5% each), arrhythmia † (17% vs. 16%), and liver impairment including enzyme changes † (11% vs. 9%).
+
+<div style=\"page-break-after: always\"></div>
 
 The frequency of severe (Grade 3-4) events of hypokalaemia was higher in the ixazomib regimen (7%) than the placebo regimen (2%).
 
 Fungal and viral pneumonia resulting in fatal outcome were rarely reported in patients given the ixazomib, lenalidomide and dexamethasone combination.
 
-†  Standardised MedDRA Queries (SMQs)
+† Standardised MedDRA Queries (SMQs)
 
 ## Reporting of suspected adverse reactions
 
@@ -441,11 +426,9 @@ Ixazomib citrate, a prodrug, is a substance that rapidly hydrolyses under physio
 
 Ixazomib is an oral, highly selective and reversible proteasome inhibitor. Ixazomib preferentially binds and inhibits the chymotrypsin-like activity of the beta 5 subunit of the 20S proteasome.
 
-Ixazomib induced apoptosis of several tumour cell types in vitro . Ixazomib demonstrated in vitro cytotoxicity against myeloma cells from patients who had relapsed after multiple prior therapies, including bortezomib, lenalidomide, and dexamethasone. The combination of ixazomib and
+Ixazomib induced apoptosis of several tumour cell types in vitro . Ixazomib demonstrated in vitro cytotoxicity against myeloma cells from patients who had relapsed after multiple prior therapies, including bortezomib, lenalidomide, and dexamethasone. The combination of ixazomib and lenalidomide demonstrated synergistic cytotoxic effects in multiple myeloma cell lines. In vivo , ixazomib demonstrated antitumour activity in various tumour xenograft models, including models of multiple myeloma. In vitro , ixazomib affected cell types found in the bone marrow microenvironment including vascular endothelial cells, osteoclasts and osteoblasts.
 
 <div style=\"page-break-after: always\"></div>
-
-lenalidomide demonstrated synergistic cytotoxic effects in multiple myeloma cell lines. In vivo , ixazomib demonstrated antitumour activity in various tumour xenograft models, including models of multiple myeloma. In vitro , ixazomib affected cell types found in the bone marrow microenvironment including vascular endothelial cells, osteoclasts and osteoblasts.
 
 ## Cardiac electrophysiology
 
@@ -453,21 +436,23 @@ Ixazomib did not prolong the QTc interval at clinically relevant exposures based
 
 ## Clinical efficacy and safety
 
-The efficacy and safety of ixazomib in combination with lenalidomide and dexamethasone was evaluated in an international randomised, double-blind, placebo-controlled, multicenter Phase 3 superiority study (C16010) in patients with relapsed and/or refractory multiple myeloma who had received at least one prior therapy. A total of 722 patients (intent-to-treat [ITT] population) were randomised in a 1:1 ratio to receive either the combination of ixazomib, lenalidomide, and dexamethasone (N = 360; ixazomib regimen) or placebo, lenalidomide and dexamethasone (N = 362; placebo regimen) until disease progression or unacceptable toxicity. Patients enrolled in the trial had multiple myeloma that was refractory, including primary refractory, had relapsed after prior therapy, or had relapsed and was refractory to any prior therapy. Patients that changed therapies prior to disease progression were eligible for enrolment, as well as those with controlled cardiovascular conditions. The Phase 3 study excluded patients who were refractory to lenalidomide or proteasome inhibitors and patients who received more than three prior therapies. For the purposes of this study, refractory disease was defined as disease progression on treatment or progression within 60 days after the last dose of lenalidomide or a proteasome inhibitor. As data are limited in these patients, a careful risk-benefit assessment is recommended before initiating the ixazomib regimen.
+The efficacy and safety of ixazomib in combination with lenalidomide and dexamethasone was evaluated in an international randomised, double-blind, placebo-controlled, multicentre Phase 3 superiority study (C16010) in patients with relapsed and/or refractory multiple myeloma who had received at least one prior therapy. A total of 722 patients (intent-to-treat [ITT] population) were randomised in a 1:1 ratio to receive either the combination of ixazomib, lenalidomide, and dexamethasone (n = 360; ixazomib regimen) or placebo, lenalidomide and dexamethasone (n = 362; placebo regimen) until disease progression or unacceptable toxicity. Patients enrolled in the trial had multiple myeloma that was refractory, including primary refractory, had relapsed after prior therapy, or had relapsed and was refractory to any prior therapy. Patients that changed therapies prior to disease progression were eligible for enrolment, as well as those with controlled cardiovascular conditions. The Phase 3 study excluded patients who were refractory to lenalidomide or proteasome inhibitors and patients who received more than three prior therapies. For the purposes of this study, refractory disease was defined as disease progression on treatment or progression within 60 days after the last dose of lenalidomide or a proteasome inhibitor. As data are limited in these patients, a careful risk-benefit assessment is recommended before initiating the ixazomib regimen.
 
 Thromboprophylaxis was recommended for all patients in both treatment groups according to the lenalidomide SmPC. Concomitant medicinal products, such as antiemetic, antiviral, and antihistamine medicinal products were given to patients at the physician's discretion as prophylaxis and/or management of symptoms.
 
 Patients received ixazomib 4 mg or placebo on Days 1, 8, and 15 plus lenalidomide (25 mg) on Days 1 through 21 and dexamethasone (40 mg) on Days 1, 8, 15, and 22 of a 28-day cycle. Patients with renal impairment received a starting dose of lenalidomide according to its SmPC. Treatment continued until disease progression or unacceptable toxicities.
 
-The baseline demographics and disease characteristics were balanced and comparable between the study regimens. The median age was 66 years, range 38-91 years; 58% of patients were older than 65 years. Fifty seven percent of patients were male. Eighty five percent of the population was White, 9% Asian and 2% Black. Ninety three percent of patients had an ECOG performance status of 0-1 and 12% had baseline ISS stage III disease (N = 90). Twenty five percent of patients had a creatinine clearance of &lt; 60 mL/min. Twenty three percent of patients had light chain disease and 12% of patients had measurable disease by free light chain assay only. Nineteen percent had high-risk cytogenetic abnormalities (del[17], t[4;14], t[14;16]) (N = 137), 10% had del(17) (N = 69) and 34% had 1q amplification (1q21) (N = 247). Patients received one to three prior therapies (median of 1) including prior treatment with bortezomib (69%), carfilzomib (&lt; 1%), thalidomide (45%), lenalidomide (12%), melphalan (81%). Fifty seven percent of patients had undergone prior stem cell transplantation. Seventy seven percent of patients relapsed after prior therapies and 11% were refractory to prior therapies. Primary refractory, defined as best response of stable disease or disease progression on all prior therapies, was documented in 6% of patients.
+The baseline demographics and disease characteristics were balanced and comparable between the study regimens. The median age was 66 years, range 38-91 years; 58% of patients were older than 65 years. Fifty seven percent of patients were male. Eighty five percent of the population was White, 9% Asian and 2% Black. Ninety three percent of patients had an ECOG performance status of 0-1 and 12% had baseline ISS stage III disease (n = 90). Twenty five percent of patients had a creatinine clearance of &lt; 60 mL/min. Twenty three percent of patients had light chain disease and 12% of patients had measurable disease by free light chain assay only. Nineteen percent had high-risk cytogenetic abnormalities (del[17], t[4;14], t[14;16]) (n = 137), 10% had del(17) (n = 69) and 34% had 1q amplification (1q21) (n = 247). Patients received one to three prior therapies (median of 1) including prior treatment with bortezomib (69%), carfilzomib (&lt; 1%), thalidomide (45%), lenalidomide (12%), melphalan (81%). Fifty seven percent of patients had undergone prior stem cell transplantation. Seventy seven percent of patients relapsed after prior therapies and 11% were refractory to prior therapies. Primary refractory, defined as best response of stable disease or disease progression on all prior therapies, was documented in 6% of patients.
+
+The primary endpoint was progression-free survival (PFS) according to the 2011 International Myeloma Working Group (IMWG) Consensus Uniform Response Criteria as assessed by a blinded independent review committee (IRC) based on central laboratory results. Response was assessed every 4 weeks until disease progression. At the primary analysis (median follow up of 14.7 months and a median of 13 cycles), PFS was statistically significantly different between the treatment arms. PFS
 
 <div style=\"page-break-after: always\"></div>
 
-The primary endpoint was progression-free survival (PFS) according to the 2011 International Myeloma Working Group (IMWG) Consensus Uniform Response Criteria as assessed by a blinded independent review committee (IRC) based on central laboratory results. Response was assessed every 4 weeks until disease progression. At the primary analysis (median follow up of 14.7 months and a median of 13 cycles), PFS was statistically significantly different between the treatment arms. PFS results are summarised in Table 4 and Figure 1. The improvement in PFS in the ixazomib regimen was supported by improvements in overall response rate.
+results are summarised in Table 4 and Figure 1. The improvement in PFS in the ixazomib regimen was supported by improvements in overall response rate.
 
 Table 4: Progression free survival and response Results in multiple myeloma patients treated with ixazomib or placebo in combination with lenalidomide and dexamethasone (intent-to-treat population, primary analysis)
 
-|                                 | Ixazomib + Lenalidomide and Dexamethasone (N = 360)   | Placebo + Lenalidomide and Dexamethasone (N = 362)   |
+|                                 | Ixazomib + Lenalidomide and Dexamethasone (n = 360)   | Placebo + Lenalidomide and Dexamethasone (n = 362)   |
 |---------------------------------|-------------------------------------------------------|------------------------------------------------------|
 | Progression-Free Survival       |                                                       |                                                      |
 | Events, n (%)                   | 129 (36)                                              | 157 (43)                                             |
@@ -481,18 +466,8 @@ Table 4: Progression free survival and response Results in multiple myeloma pati
 | Partial Response                | 109 (30.3)                                            | 118 (32.6)                                           |
 | Time to Response, months        |                                                       |                                                      |
 | Median                          | 1.1                                                   | 1.9                                                  |
-| Duration of Response § , months | Duration of Response § , months                       |                                                      |
+| Duration of Response § , months |                                                       |                                                      |
 | Median                          | 20.5                                                  | 15.0                                                 |
-
-*P-value is based on the stratified log-rank test.
-
-† Hazard ratio is based on a stratified Cox's proportional hazard regression model. A hazard ratio less than 1 indicates an advantage for the ixazomib regimen.
-
-‡ ORR = CR+VGPR+PR
-
-§ Based on responders in the response-evaluable population
-
-<div style=\"page-break-after: always\"></div>
 
 Figure 1: Kaplan-Meier plot of progression-free survival in the intent-to-treat population (primary analysis)
 
@@ -500,17 +475,19 @@ Figure 1: Kaplan-Meier plot of progression-free survival in the intent-to-treat 
 
 A second, non-inferential, PFS analysis was conducted with a median follow up of 23 months. At this analysis, estimated median PFS was 20 months in the ixazomib regimen and 15.9 months in the placebo regimen (HR = 0.82 [95% CI (0.67, 1.0)]) in the ITT population. For patients with one prior therapy, the median PFS was 18.7 months in the ixazomib regimen and 17.6 months in the placebo regimen (HR = 0.99). For patients with 2 or 3 prior therapies, PFS was 22.0 months in the ixazomib regimen and 13.0 months in the placebo regimen (HR = 0.62).
 
+<div style=\"page-break-after: always\"></div>
+
 At the final analysis for OS at a median duration of follow up of approximately 85 months, median OS in the ITT population was 53.6 months for patients in the ixazomib regimen and 51.6 months for patients in the placebo regimen (HR = 0.94 [95% CI: 0.78, 1.13; p = 0.495]). For patients with one prior therapy, the median OS was 54.3 months in the ixazomib regimen and 58.3 months in the placebo regimen (HR = 1.02 [95% CI: 0.80, 1.29]). For patients with 2 or 3 prior therapies, the median OS was 53.0 months in the ixazomib regimen and 43.0 months in the placebo regimen (HR = 0.85 [95% CI: 0.64, 1.11]).
 
-A randomised, double-blind, placebo-controlled Phase 3 study was conducted in China (N = 115) with a similar study design and eligibility criteria. Many of the patients enrolled in the study had advanced disease with Durie-Salmon Stage III (69%) at initial diagnosis and a treatment history of receiving at least 2 prior therapies (60%) and being thalidomide refractory (63%). At the primary analysis (median follow up of 8 months and a median of 6 cycles), the median PFS was 6.7 months in the ixazomib regimen compared to 4 months in the placebo regimen (p-value = 0.035, HR = 0.60). At the final analysis for OS at a median follow up of 19.8 months, OS was improved for patients treated in the ixazomib regimen compared with placebo [p-value = 0.0014, HR = 0.42, 95% CI: 0.242, 0.726 ]).
+A randomised, double-blind, placebo-controlled Phase 3 study was conducted in China (n = 115) with a similar study design and eligibility criteria. Many of the patients enrolled in the study had advanced disease with Durie-Salmon Stage III (69%) at initial diagnosis and a treatment history of receiving at least 2 prior therapies (60%) and being thalidomide refractory (63%). At the primary analysis (median follow up of 8 months and a median of 6 cycles), the median PFS was 6.7 months in the ixazomib regimen compared to 4 months in the placebo regimen (p-value = 0.035, HR = 0.60). At the final analysis for OS at a median follow up of 19.8 months, OS was improved for patients treated in the ixazomib regimen compared with placebo (p-value = 0.0014, HR = 0.42 [95% CI: 0.242, 0.726]).
 
 As multiple myeloma is a heterogeneous disease, benefit may vary across subgroups in the Phase 3 study (C16010) (see Figure 2).
-
-<div style=\"page-break-after: always\"></div>
 
 Figure 2: Forest plot of progression-free survival in subgroups
 
 <!-- image -->
+
+<div style=\"page-break-after: always\"></div>
 
 In the Phase 3 study (C16010), 10 patients (5 in each treatment regimen) had severe renal impairment at baseline. Of the 5 patients in the ixazomib regimen, one patient had a confirmed partial response and 3 confirmed stable disease (however 2 were unconfirmed partial response and 1 was an unconfirmed very good partial response). Of the 5 patients in the placebo regimen, 2 had a confirmed very good partial response.
 
@@ -526,8 +503,6 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 After oral administration, peak plasma concentrations of ixazomib were achieved at approximately one hour after dosing. The mean absolute oral bioavailability is 58%. Ixazomib AUC increases in a dose proportional manner over a dose range of 0.2-10.6 mg.
 
-<div style=\"page-break-after: always\"></div>
-
 Administration with a high-fat meal decreased ixazomib AUC by 28% compared with administration after an overnight fast (see section 4.2).
 
 ## Distribution
@@ -536,7 +511,7 @@ Ixazomib is 99% bound to plasma proteins and distributes into red blood cells wi
 
 ## Biotransformation
 
-After oral administration of a radiolabeled dose, 70% of total drug-related material in plasma was accounted for by ixazomib. Metabolism by multiple CYP enzymes and non-CYP proteins is expected to be the major clearance mechanism for ixazomib. At clinically relevant ixazomib concentrations, in vitro studies using human cDNA-expressed cytochrome P450 isozymes indicate that no specific CYP isozyme predominantly contributes to ixazomib metabolism and non-CYP proteins contribute to overall metabolism. At concentrations exceeding those observed clinically, ixazomib was metabolized by multiple CYP isoforms with estimated relative contributions of 3A4 (42.3%), 1A2 (26.1%), 2B6 (16.0%), 2C8 (6.0%), 2D6 (4.8%), 2C19 (4.8%) and 2C9 (&lt; 1%).
+After oral administration of a radiolabelled dose, 70% of total drug-related material in plasma was accounted for by ixazomib. Metabolism by multiple CYP enzymes and non-CYP proteins is expected to be the major clearance mechanism for ixazomib. At clinically relevant ixazomib concentrations, in vitro studies using human cDNA-expressed cytochrome P450 isozymes indicate that no specific CYP isozyme predominantly contributes to ixazomib metabolism and non-CYP proteins contribute to overall metabolism. At concentrations exceeding those observed clinically, ixazomib was metabolized by multiple CYP isoforms with estimated relative contributions of 3A4 (42.3%), 1A2 (26.1%), 2B6 (16.0%), 2C8 (6.0%), 2D6 (4.8%), 2C19 (4.8%) and 2C9 (&lt; 1%).
 
 ## Elimination
 
@@ -546,23 +521,21 @@ Ixazomib exhibits a multi-exponential disposition profile. Based on a population
 
 After administration of a single oral dose of 14 C-ixazomib to 5 patients with advanced cancer, 62% of the administered radioactivity was excreted in urine and 22% in the faeces. Unchanged ixazomib accounted for &lt; 3.5% of the administered dose recovered in urine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Special populations
 
 ## Hepatic impairment
 
 The PK of ixazomib is similar in patients with normal hepatic function and in patients with mild hepatic impairment (total bilirubin ≤ ULN and AST &gt; ULN or total bilirubin &gt; 1-1.5 x ULN and any AST) based on the results of a population PK analysis.
 
-The PK of ixazomib was characterized in patients with normal hepatic function at 4 mg (N = 12), moderate hepatic impairment at 2.3 mg (total bilirubin &gt; 1.5-3 x ULN, N = 13) or severe hepatic impairment at 1.5 mg (total bilirubin &gt; 3 x ULN, N = 18). Unbound dose-normalized AUC was 27% higher in patients with moderate or severe hepatic impairment as compared to patients with normal hepatic function (see section 4.2).
+The PK of ixazomib was characterized in patients with normal hepatic function at 4 mg (n = 12), moderate hepatic impairment at 2.3 mg (total bilirubin &gt; 1.5-3 x ULN, n = 13) or severe hepatic impairment at 1.5 mg (total bilirubin &gt; 3 x ULN, n = 18). Unbound dose-normalized AUC was 27% higher in patients with moderate or severe hepatic impairment as compared to patients with normal hepatic function (see section 4.2).
 
 ## Renal impairment
 
-The PK of ixazomib is similar in patients with normal renal function and in patients with mild or moderate renal impairment (creatinine clearance ≥ 30 mL/min) based on the results of a population PK analysis.
+The PK of ixazomib is similar in patients with normal renal function and in patients with mild or moder ate renal impairment (creatinine clearance ≥ 30 mL/min) based on the results of a population PK analysis.
 
-The PK of ixazomib was characterized at a dose of 3 mg in patients with normal renal function (creatinine clearance ≥ 90 mL/min, N = 18), severe renal impairment (creatinine clearance &lt; 30 mL/min, N = 14), or ESRD requiring dialysis (N = 6). Unbound AUC was 38% higher in patients with severe renal impairment or ESRD requiring dialysis as compared to patients with normal renal
-
-<div style=\"page-break-after: always\"></div>
-
-function. Pre- and post-dialyzer concentrations of ixazomib measured during the haemodialysis session were similar, suggesting that ixazomib is not dialyzable (see section 4.2).
+The PK of ixazomib was characterized at a dose of 3 mg in patients with normal renal function (creatinine clearance ≥ 90 mL/min, n = 18), severe renal impairment (creatinine clearance &lt; 30 mL/min, n = 14), or ESRD requiring dialysis (n = 6). Unbound AUC was 38% higher in patients with severe renal impairment or ESRD requiring dialysis as compared to patients with normal renal function. Pre- and post-dialyzer concentrations of ixazomib measured during the haemodialysis session were similar, suggesting that ixazomib is not dialyzable (see section 4.2).
 
 ## Age, gender, race
 
@@ -580,13 +553,15 @@ Ixazomib caused embryo-foetal toxicity in pregnant rats and rabbits only at mate
 
 ## Animal toxicology and/or pharmacology
 
-In multi-cycle repeated-dose toxicity studies conducted in rats and dogs, the principal target organs included the gastrointestinal tract, lymphoid tissues, and the nervous system. In the 9-month study (10 cycles) in dogs orally administered with a dosing schedule mimicking the clinical regimen (28-day cycle), microscopic neuronal effects were generally minimal in nature and only observed at 0.2 mg/kg (4 mg/m 2 ). The majority of target organ findings demonstrated partial to full recovery following discontinuation of treatment, with the exception of neuronal findings in the lumbar dorsal root ganglion and dorsal column.
+In multi-cycle repeated-dose toxicity studies conducted in rats and dogs, the principal target organs included the gastrointestinal tract, lymphoid tissues, and the nervous system. In the 9-month study
+
+<div style=\"page-break-after: always\"></div>
+
+(10 cycles) in dogs orally administered with a dosing schedule mimicking the clinical regimen (28-day cycle), microscopic neuronal effects were generally minimal in nature and only observed at 0.2 mg/kg (4 mg/m 2 ). The majority of target organ findings demonstrated partial to full recovery following discontinuation of treatment, with the exception of neuronal findings in the lumbar dorsal root ganglion and dorsal column.
 
 Following oral administration, a tissue distribution study in rats revealed that the brain and spinal cord were amongst the tissues with the lowest levels, suggesting that the penetration of ixazomib through the blood-brain barrier appears to be limited. However, the relevance to humans is unknown.
 
 Non-clinical safety pharmacology studies both in vitro (on hERG channels) and in vivo (in telemetered dogs following single oral administration) demonstrated no effects of ixazomib on cardiovascular or respiratory functions at AUC more than 8-fold higher than the clinical value.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -594,37 +569,47 @@ Non-clinical safety pharmacology studies both in vitro (on hERG channels) and in
 
 ## NINLARO 2.3 mg hard capsules
 
-Capsule contents Microcrystalline cellulose Magnesium stearate
+Capsule contents
 
-Talc
+Microcrystalline cellulose Magnesium stearate Talc
 
-Capsule shell Gelatin Titanium dioxide (E171) Red iron oxide (E172)
+Capsule shell
 
-Printing ink Shellac Propylene glycol Potassium hydroxide Black iron oxide (E172)
+Gelatin Titanium dioxide (E171) Red iron oxide (E172)
+
+Printing ink
+
+Shellac Propylene glycol Potassium hydroxide Black iron oxide (E172)
 
 ## NINLARO 3 mg hard capsules
 
-Capsule contents Microcrystalline cellulose Magnesium stearate Talc
+Capsule contents
 
-Capsule shell Gelatin Titanium dioxide (E171) Black iron oxide (E172)
+Microcrystalline cellulose Magnesium stearate Talc
 
-Printing ink Shellac Propylene glycol Potassium hydroxide Black iron oxide (E172)
+Capsule shell
 
-## NINLARO 4 mg hard capsules
+Gelatin Titanium dioxide (E171) Black iron oxide (E172)
 
-Capsule contents Microcrystalline cellulose
+Printing ink
 
-Magnesium stearate Talc
-
-## Capsule shell
-
-Gelatin Titanium dioxide (E171) Yellow iron oxide (E172) Red iron oxide (E172)
-
-Printing ink Shellac Propylene glycol Potassium hydroxide
+Shellac Propylene glycol Potassium hydroxide Black iron oxide (E172)
 
 <div style=\"page-break-after: always\"></div>
 
-Black iron oxide (E172)
+## NINLARO 4 mg hard capsules
+
+Capsule contents
+
+Microcrystalline cellulose Magnesium stearate Talc
+
+Capsule shell
+
+Gelatin Titanium dioxide (E171) Yellow iron oxide (E172) Red iron oxide (E172)
+
+Printing ink
+
+Shellac Propylene glycol Potassium hydroxide Black iron oxide (E172)
 
 ## 6.2 Incompatibilities
 
@@ -650,11 +635,15 @@ Ixazomib is cytotoxic. The capsule should not be removed until just prior to dos
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Takeda Pharma A/S Delta Park 45 2665 Vallensbaek Strand Denmark medinfoEMEA@takeda.com
+Takeda Pharma A/S Delta Park 45 2665 Vallensbaek Strand Denmark
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+medinfoEMEA@takeda.com
+
+## 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/16/1094/001 EU/1/16/1094/002
 
@@ -665,8 +654,6 @@ EU/1/16/1094/003
 Date of first authorisation: 21 November 2016
 
 Date of latest renewal: 01 September 2023
-
-<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -770,32 +757,25 @@ Do not store above 30 ºC. Do not freeze.
 
 Store in the original package in order to protect from moisture.
 
-<div style=\"page-break-after: always\"></div>
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Takeda Pharma A/S Delta Park 45 2665 Vallensbaek Strand Denmark
 
-| 12. MARKETING AUTHORISATION NUMBER   |
-|--------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/16/1094/001
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 NINLARO 2.3 mg
 
@@ -803,12 +783,11 @@ NINLARO 2.3 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC SN NN
 
-NN
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -818,7 +797,9 @@ WALLET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-NINLARO 2.3 mg hard capsules ixazomib
+NINLARO 2.3 mg hard capsules
+
+ixazomib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -840,7 +821,7 @@ The capsule should not be removed until just prior to dosing.
 
 Oral use
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 ## 7. OTHER SPECIAL WARNING, IF NECESSARY
 
@@ -878,17 +859,17 @@ To access capsule, gently press on blue tab.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER FOR WALLET                                   |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER FOR WALLET                                    |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 NINLARO 2.3 mg ixazomib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Takeda
 
@@ -904,6 +885,8 @@ Lot
 
 | 5.   | OTHER   |
 |------|---------|
+
+29
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -951,7 +934,7 @@ Do not store above 30 ºC. Do not freeze.
 
 Store in the original package in order to protect from moisture.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -979,9 +962,7 @@ NINLARO 3 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
-
-NN
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -993,7 +974,9 @@ WALLET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-NINLARO 3 mg hard capsules ixazomib
+NINLARO 3 mg hard capsules
+
+ixazomib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1015,7 +998,7 @@ The capsule should not be removed until just prior to dosing.
 
 Oral use
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 ## 7. OTHER SPECIAL WARNING, IF NECESSARY
 
@@ -1029,6 +1012,8 @@ EXP
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
+<div style=\"page-break-after: always\"></div>
+
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Takeda Pharma A/S
@@ -1041,29 +1026,29 @@ EU/1/16/1094/002
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 To access capsule, gently press on blue tab.
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER FOR WALLET                                    |
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER FOR WALLET                                   |
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 NINLARO 3 mg ixazomib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Takeda
 
@@ -1079,6 +1064,8 @@ Lot
 
 | 5.   | OTHER   |
 |------|---------|
+
+34
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1126,10 +1113,7 @@ Do not store above 30 ºC. Do not freeze.
 
 Store in the original package in order to protect from moisture.
 
-<div style=\"page-break-after: always\"></div>
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1143,13 +1127,11 @@ EU/1/16/1094/003
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-| 16. INFORMATION IN BRAILLE   |
-|------------------------------|
+16. INFORMATION IN BRAILLE
 
 NINLARO 4 mg
 
@@ -1157,12 +1139,11 @@ NINLARO 4 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC SN NN
 
-NN
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1172,7 +1153,9 @@ WALLET
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-NINLARO 4 mg hard capsules ixazomib
+NINLARO 4 mg hard capsules
+
+ixazomib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1194,7 +1177,7 @@ The capsule should not be removed until just prior to dosing.
 
 Oral use
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 ## 7. OTHER SPECIAL WARNING, IF NECESSARY
 
@@ -1207,6 +1190,8 @@ EXP
 ## 9. SPECIAL STORAGE CONDITIONS
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+<div style=\"page-break-after: always\"></div>
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1230,19 +1215,17 @@ To access capsule, gently press on blue tab.
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER FOR WALLET                                    |
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER FOR WALLET                                   |
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 NINLARO 4 mg ixazomib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Takeda
 
@@ -1267,7 +1250,9 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-NINLARO 2.3 mg hard capsules NINLARO 3 mg hard capsules NINLARO 4 mg hard capsules ixazomib
+NINLARO 2.3 mg hard capsules NINLARO 3 mg hard capsules NINLARO 4 mg hard capsules
+
+ixazomib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1321,7 +1306,8 @@ Talk to your doctor, pharmacist or nurse before taking or during treatment with 
 - you have a history of swelling
 - you have a persistent rash or a severe skin rash with skin peeling and mouth sores (Stevens Johnson syndrome or toxic epidermal necrolysis, see section 4)
 - you have or have had liver or kidney problems as your dose may have to be adjusted
-- you have or have had damage to the smallest blood vessels known as thrombotic microangiopathy or thrombotic thrombocytopenic purpura. Tell your doctor if you develop fatigue, fever, bruising, bleeding, decreased urination, swelling, confusion, vision loss, and seizures.
+- you have or have had damage to the smallest blood vessels known as thrombotic microangiopathy (TMA), thrombotic thrombocytopenic purpura (TTP), or haemolytic uremic syndrome (HUS). Tell your doctor if you develop fatigue, fever, bruising, bleeding, decreased urination, swelling, confusion, vision loss, and seizures.
+- you have or have had seizures, high blood pressure, headache, changes in mental status, or changes in vision; these are symptoms of a rare condition known as posterior reversible encephalopathy syndrome (PRES).
 
 Your doctor will examine you and you will be monitored closely during treatment. Before starting NINLARO and during treatment, you will have blood tests to check that you have enough blood cells.
 
@@ -1349,11 +1335,11 @@ See the package leaflets for lenalidomide and dexamethasone for additional infor
 
 NINLARO may affect your ability to drive or use machines. You may feel tired and dizzy while taking NINLARO. Do not drive or operate machines if you have these side effects.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 3. How to take NINLARO
 
 NINLARO must be prescribed to you by a doctor with experience of treating multiple myeloma. Always take this medicine exactly as your doctor or pharmacist has told you.
-
-<div style=\"page-break-after: always\"></div>
 
 NINLARO is used with lenalidomide (a medicine which affects how your immune system works) and dexamethasone (an anti-inflammatory medicine).
 
@@ -1396,11 +1382,11 @@ If you vomit after taking a dose, do not take an extra dose. Take the next dose,
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Stop using ixazomib and seek medical attention immediately if you notice any of the following symptoms:
 
@@ -1441,6 +1427,8 @@ Tell your doctor or pharmacist if any of the side effects below become severe.
 - irregular heart rate (arrhythmia)
 - vision conditions including blurred vision, dry eye and pink eye (conjunctivitis)
 
+<div style=\"page-break-after: always\"></div>
+
 ## Common: may affect up to 1 in 10 people
 
 - reactivation of the chicken pox virus (shingles) that can cause a skin rash and pain (herpes zoster)
@@ -1448,8 +1436,6 @@ Tell your doctor or pharmacist if any of the side effects below become severe.
 - shortness of breath or persistent coughing or wheezing (heart failure)
 - yellow discoloration of eyes and skin (jaundice which could be a symptom of liver   impairment)
 - low levels of potassium in the blood (hypokalaemia)
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -1491,15 +1477,14 @@ NINLARO 2.3 mg hard capsule:
 - The capsule shell contains: gelatin, titanium dioxide (E171) and black iron oxide (E172)
 - The printing ink contains: shellac, propylene glycol, potassium hydroxide, and black iron oxide (E172).
 
+<div style=\"page-break-after: always\"></div>
+
 ## NINLARO 4 mg hard capsule:
 
 - -The active substance is ixazomib. Each capsule contains 4 mg of ixazomib (as 5.7 mg of ixazomib citrate).
 - -The other ingredients are:
 - In the capsule: microcrystalline cellulose, magnesium stearate and talc.
 - The capsule shell contains: gelatin, titanium dioxide (E171), yellow iron oxide (E172) and red iron oxide (E172)
-
-<div style=\"page-break-after: always\"></div>
-
 - The printing ink contains: shellac, propylene glycol, potassium hydroxide, and black iron oxide (E172).
 
 ## What NINLARO looks like and contents of the pack
@@ -1510,7 +1495,7 @@ NINLARO 3 mg hard capsule: Light grey, size 4, marked 'Takeda' on the cap and '3
 
 NINLARO 4 mg hard capsule: Light orange, size 3, marked 'Takeda' on the cap and '4 mg' on the body with black ink.
 
-Each pack contains 3 hard capsules (Three blisters sealed within the blister strip inside a wallet. Each blister contains one capsule).
+Each pack contains 3 hard capsules (Three capsules sealed within the blister strip inside a wallet).
 
 ## Marketing Authorisation Holder
 
@@ -1524,17 +1509,17 @@ Takeda GmbH Takeda (Werk Singen) Robert Bosch Strasse 8 78224 Singen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien
+## België/Belgique/Belgien
 
 Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
 
 ## България
 
-Такеда България ЕООД Тел.: + 359 2 958 27 36 medinfoEMEA@takeda.com
+Такеда България ЕООД
 
-## Česká republika
+Тел.: + 359 2 958 27 36
 
-Takeda Pharmaceuticals Czech Republic s.r.o. Tel: +420 234 722 722 medinfoEMEA@takeda.com
+medinfoEMEA@takeda.com
 
 ## Lietuva
 
@@ -1542,11 +1527,15 @@ Takeda, UAB Tel: +370 521 09 070 medinfoEMEA@takeda.com
 
 ## Luxembourg/Luxemburg
 
-Takeda Belgium NV Tél/Tel: +32 2 464 06 11 medinfoEMEA@takeda.com
+Takeda Belgium NV Tél/Tel: +32 2 464 06 11
 
-Magyarország Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com
+medinfoEMEA@takeda.com
 
 <div style=\"page-break-after: always\"></div>
+
+## Česká republika
+
+Takeda Pharmaceuticals Czech Republic s.r.o. Tel: +420 234 722 722 medinfoEMEA@takeda.com
 
 ## Danmark
 
@@ -1562,7 +1551,7 @@ Takeda Pharma OÜ Tel: +372 6177 669 medinfoEMEA@takeda.com
 
 ## Ελλάδα
 
-Takeda ΕΛΛΑΣ Α.Ε. Tηλ: +30 210 6387800 medinfoEMEA@takeda.com
+Takeda ΕΛΛΑΣ Α . Ε . T ηλ : +30 210 6387800 medinfoEMEA@takeda.com
 
 ## España
 
@@ -1582,15 +1571,15 @@ Takeda Products Ireland Ltd Tel: 1800 937 970 medinfoEMEA@takeda.com
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000 medinfoEMEA@takeda.com
+Vistor ehf. Sími: +354 535 7000 medinfoEMEA@takeda.com
 
 ## Italia
 
 Takeda Italia S.p.A. Tel: +39 06 502601 medinfoEMEA@takeda.com
 
-## Κύπρος
+## Magyarország
 
-A.POTAMITIS MEDICARE LTD Tηλ: +357 22583333 a.potamitismedicare@cytanet.com.cy
+Takeda Pharma Kft. Tel.: +36 1 270 7030 medinfoEMEA@takeda.com
 
 ## Malta
 
@@ -1628,17 +1617,17 @@ Takeda Pharmaceuticals farmacevtska družba d.o.o. Tel: + 386 (0) 59 082 480 med
 
 Takeda Pharmaceuticals Slovakia s.r.o. Tel: +421 (2) 20 602 600 medinfoEMEA@takeda.com
 
-## Suomi/Finland
-
-Takeda Oy Puh/Tel: 0800 774 051 medinfoEMEA@takeda.com
-
-## Sverige
-
-Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com
+Suomi/Finland Takeda Oy Puh/Tel: 0800 774 051 medinfoEMEA@takeda.com
 
 <div style=\"page-break-after: always\"></div>
 
-Latvija Takeda Latvia SIA Tel: +371 67840082 medinfoEMEA@takeda.com
+## Κύπρος
+
+A.POTAMITIS MEDICARE LTD Tηλ: +357 22583333 a.potamitismedicare@cytanet.com.cy
+
+## Latvija
+
+Takeda Latvia SIA Tel: +371 67840082 medinfoEMEA@takeda.com
 
 ## This leaflet was last revised in
 
@@ -1646,6 +1635,4 @@ Latvija Takeda Latvia SIA Tel: +371 67840082 medinfoEMEA@takeda.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-## United Kingdom (Northern Ireland)
-
-Takeda UK Ltd Tel: +44 (0) 3333 000 181 medinfoEMEA@takeda.com
+Sverige Takeda Pharma AB Tel: 020 795 079 medinfoEMEA@takeda.com

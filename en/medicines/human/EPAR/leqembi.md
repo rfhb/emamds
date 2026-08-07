@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-19 10:30:00
+document_datetime: 2026-08-05 16:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/leqembi.html
 document_name: leqembi.html
 version: success
-processing_time: 0.3393681
-conversion_datetime: 2026-06-25 09:09:19.72667
+processing_time: 0.1602152
+conversion_datetime: 2026-08-07 13:52:38.62152
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Leqembi
 
@@ -119,7 +119,7 @@ English (EN) (114.42 KB - PDF)
 
 [View](/en/documents/overview/leqembi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-687)
+[Other languages (22)](#file-language-dropdown-533)
 
 български (BG) (140.95 KB - PDF)
 
@@ -255,9 +255,9 @@ svenska (SV) (113.03 KB - PDF)
 
 Leqembi : EPAR - Risk management plan
 
-English (EN) (2.13 MB - PDF)
+English (EN) (1.03 MB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 04/02/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/en/documents/rmp/leqembi-epar-risk-management-plan_en.pdf)
 
@@ -265,155 +265,155 @@ English (EN) (2.13 MB - PDF)
 
 Leqembi : EPAR - Product information
 
-English (EN) (465.36 KB - PDF)
+English (EN) (466.34 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/en/documents/product-information/leqembi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-163)
+[Other languages (24)](#file-language-dropdown-762)
 
-български (BG) (508.88 KB - PDF)
+български (BG) (484.89 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/bg/documents/product-information/leqembi-epar-product-information_bg.pdf)
 
-español (ES) (249.17 KB - PDF)
+español (ES) (368.21 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/es/documents/product-information/leqembi-epar-product-information_es.pdf)
 
-čeština (CS) (323.34 KB - PDF)
+čeština (CS) (436.25 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/cs/documents/product-information/leqembi-epar-product-information_cs.pdf)
 
-dansk (DA) (249.09 KB - PDF)
+dansk (DA) (464.27 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/da/documents/product-information/leqembi-epar-product-information_da.pdf)
 
-Deutsch (DE) (288.96 KB - PDF)
+Deutsch (DE) (288.65 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/de/documents/product-information/leqembi-epar-product-information_de.pdf)
 
-eesti (ET) (371.29 KB - PDF)
+eesti (ET) (422.36 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/et/documents/product-information/leqembi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (536.48 KB - PDF)
+ελληνικά (EL) (419.81 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/el/documents/product-information/leqembi-epar-product-information_el.pdf)
 
-français (FR) (491.54 KB - PDF)
+français (FR) (410.28 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/fr/documents/product-information/leqembi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (411.62 KB - PDF)
+hrvatski (HR) (347.18 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/hr/documents/product-information/leqembi-epar-product-information_hr.pdf)
 
-italiano (IT) (507.73 KB - PDF)
+italiano (IT) (427.03 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/it/documents/product-information/leqembi-epar-product-information_it.pdf)
 
-latviešu (LV) (457.64 KB - PDF)
+latviešu (LV) (436.91 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/lv/documents/product-information/leqembi-epar-product-information_lv.pdf)
 
-lietuvių (LT) (523.17 KB - PDF)
+lietuvių (LT) (393.65 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/lt/documents/product-information/leqembi-epar-product-information_lt.pdf)
 
-magyar (HU) (554.91 KB - PDF)
+magyar (HU) (471.71 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/hu/documents/product-information/leqembi-epar-product-information_hu.pdf)
 
-Malti (MT) (400.05 KB - PDF)
+Malti (MT) (461.03 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/mt/documents/product-information/leqembi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (325.97 KB - PDF)
+Nederlands (NL) (464.2 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/nl/documents/product-information/leqembi-epar-product-information_nl.pdf)
 
-polski (PL) (323.19 KB - PDF)
+polski (PL) (502.07 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/pl/documents/product-information/leqembi-epar-product-information_pl.pdf)
 
-português (PT) (249.59 KB - PDF)
+português (PT) (426.6 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/pt/documents/product-information/leqembi-epar-product-information_pt.pdf)
 
-română (RO) (314.67 KB - PDF)
+română (RO) (456.4 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/ro/documents/product-information/leqembi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (467.09 KB - PDF)
+slovenčina (SK) (502.86 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/sk/documents/product-information/leqembi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (310.54 KB - PDF)
+slovenščina (SL) (458.84 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/sl/documents/product-information/leqembi-epar-product-information_sl.pdf)
 
-suomi (FI) (249.42 KB - PDF)
+suomi (FI) (405.88 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/fi/documents/product-information/leqembi-epar-product-information_fi.pdf)
 
-svenska (SV) (252.22 KB - PDF)
+svenska (SV) (423.41 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/sv/documents/product-information/leqembi-epar-product-information_sv.pdf)
 
-Íslenska (IS) (314.41 KB - PDF)
+Íslenska (IS) (407.73 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/is/documents/product-information/leqembi-epar-product-information_is.pdf)
 
-norsk (NO) (314.85 KB - PDF)
+norsk (NO) (421.27 KB - PDF)
 
-**First published:** 05/05/2025 **Last updated:** 19/06/2026
+**First published:** 05/05/2025 **Last updated:** 05/08/2026
 
 [View](/no/documents/product-information/leqembi-epar-product-information_no.pdf)
 
@@ -444,7 +444,7 @@ English (EN) (54.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/leqembi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-248)
+[Other languages (24)](#file-language-dropdown-190)
 
 български (BG) (91.35 KB - PDF)
 
@@ -598,7 +598,7 @@ English (EN) (69.17 KB - PDF)
 
 [View](/en/documents/conditions-member-states/leqembi-epar-conditions-imposed-member-states-safe-effective-use-annex-127a_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-376)
+[Other languages (25)](#file-language-dropdown-854)
 
 български (BG) (76.66 KB - PDF)
 
@@ -785,7 +785,7 @@ Leqembi is indicated for the treatment of adult patients with a clinical diagnos
 - **Marketing authorisation issued**
     - 15/04/2025
 - **Revision**
-    - 4
+    - 5
 
 ## Assessment history
 
@@ -797,9 +797,9 @@ Collapse section
 
 Leqembi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (178.01 KB - PDF)
+English (EN) (165.91 KB - PDF)
 
-**First published:** 03/06/2025 **Last updated:** 19/06/2026
+**First published:** 03/06/2025 **Last updated:** 05/08/2026
 
 [View](/en/documents/procedural-steps-after/leqembi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -876,6 +876,6 @@ English (EN) (124.6 KB - PDF)
 
 **This page was last updated on**
 
-19/06/2026
+05/08/2026
 
 ## Share this page

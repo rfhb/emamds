@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-01-16 16:18:00
+document_datetime: 2026-08-04 13:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/irbesartan-hydrochlorothiazide-zentiva.html
 document_name: irbesartan-hydrochlorothiazide-zentiva.html
 version: success
-processing_time: 0.173396
-conversion_datetime: 2026-01-17 13:08:57.831439
+processing_time: 0.2125509
+conversion_datetime: 2026-08-07 13:53:41.132456
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Irbesartan Hydrochlorothiazide Zentiva (previously Irbesartan Hydrochlorothiazide Winthrop)
 
 [RSS](/en/individual-human-medicine.xml/67076)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-irbesartan / hydrochlorothiazide Medicine Human Authorised
+irbesartan / hydrochlorothiazide
+
+Medicine Human Authorised
 
 Page contents
 
@@ -38,7 +40,6 @@ Page contents
 - [News on Irbesartan Hydrochlorothiazide Zentiva (previously Irbesartan Hydrochlorothiazide Winthrop)](#news-on)
 - [More information on Irbesartan Hydrochlorothiazide Zentiva](#more-information-on-irbesartan-hydrochlorothiazide-zentiva-865)
 - [More information on Irbesartan Hydrochlorothiazide Zentiva (previously Irbesartan Hydrochlorothiazide Winthrop)](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -52,23 +53,23 @@ Expand section
 
 Collapse section
 
-## What is Irbesartan Hydrochlorothiazide Zentiva?
+### What is Irbesartan Hydrochlorothiazide Zentiva?
 
 Irbesartan Hydrochlorothiazide Zentiva is a medicine that contains two active substances, irbesartan and hydrochlorothiazide. It is available as tablets (150 mg or 300 mg irbesartan and 12.5 mg hydrochlorothiazide; 300 mg irbesartan and 25 mg hydrochlorothiazide).
 
 This medicine is the same as CoAprovel, which is already authorised in the European Union (EU). The company that makes CoAprovel has agreed that its scientific data can be used for Irbesartan Hydrochlorothiazide Zentiva.
 
-## What is Irbesartan Hydrochlorothiazide Zentiva used for?
+### What is Irbesartan Hydrochlorothiazide Zentiva used for?
 
 Irbesartan Hydrochlorothiazide Zentiva is used in adults who have essential hypertension (high blood pressure) that is not adequately controlled by irbesartan or hydrochlorothiazide alone. 'Essential' means that the hypertension has no obvious cause.
 
 The medicine can only be obtained with a prescription.
 
-## How is Irbesartan Hydrochlorothiazide Zentiva used?
+### How is Irbesartan Hydrochlorothiazide Zentiva used?
 
 The dose of Irbesartan Hydrochlorothiazide Zentiva to be used depends on the dose of irbesartan or hydrochlorothiazide that the patient was taking before. Doses higher than 300 mg irbesartan and 25 mg hydrochlorothiazide once a day are not recommended. Irbesartan Hydrochlorothiazide Zentiva may be added to some other treatments for hypertension.
 
-## How does Irbesartan Hydrochlorothiazide Zentiva work?
+### How does Irbesartan Hydrochlorothiazide Zentiva work?
 
 Irbesartan Hydrochlorothiazide Zentiva contains two active substances, irbesartan and hydrochlorothiazide.
 
@@ -78,15 +79,15 @@ Hydrochlorothiazide is a diuretic, which is another type of treatment for hypert
 
 The combination of the two active substances has an additive effect, reducing the blood pressure more than either medicine alone. By lowering the blood pressure, the risks associated with high blood pressure, such as having a stroke, are reduced.
 
-## How has Irbesartan Hydrochlorothiazide Zentiva been studied?
+### How has Irbesartan Hydrochlorothiazide Zentiva been studied?
 
 Irbesartan on its own has been approved in the EU since 1997 under the names Karvea and Aprovel. It can be used with hydrochlorothiazide to treat hypertension. The studies of Karvea / Aprovel used with hydrochlorothiazide as separate tablets were used to support the use of Irbesartan Hydrochlorothiazide Zentiva. Further studies were also carried out with doses of 300 mg irbesartan in combination with 25 mg hydrochlorothiazide. The main measure of effectiveness was the reduction in diastolic blood pressure (the blood pressure measured between two heartbeats).
 
-## What benefit has Irbesartan Hydrochlorothiazide Zentiva shown during the studies?
+### What benefit has Irbesartan Hydrochlorothiazide Zentiva shown during the studies?
 
 Irbesartan Hydrochlorothiazide Zentiva was more effective than placebo (a dummy treatment) and than hydrochlorothiazide alone in reducing diastolic blood pressure. Increasing the dose to 300 mg irbesartan and 25 mg hydrochlorothiazide may give a further decrease in blood pressure.
 
-## What is the risk associated with Irbesartan Hydrochlorothiazide Zentiva?
+### What is the risk associated with Irbesartan Hydrochlorothiazide Zentiva?
 
 The most common side effects with Irbesartan Hydrochlorothiazide Zentiva (seen in between 1 and 10 patients in 100) are dizziness, nausea (feeling sick) or vomiting, abnormal urination, fatigue (tiredness), and increases in blood urea nitrogen (BUN, a breakdown product of protein), creatinine (a breakdown product of muscle) and creatine kinase (an enzyme found in muscles). For the full list of all side effects reported with Irbesartan Hydrochlorothiazide Zentiva, see the package leaflet.
 
@@ -94,11 +95,11 @@ Irbesartan Hydrochlorothiazide Zentiva must not be used in people who are hypers
 
 Irbesartan Hydrochlorothiazide Zentiva in combination with aliskiren-containing medicines (used to treat essential hypertension) must not be used in patients with diabetes, or moderate or severe kidney impairment. Care must be taken when using Irbesartan Hydrochlorothiazide Zentiva with other medicines that have an effect on blood potassium levels. The full list of these medicines is given in the package leaflet.
 
-## Why has Irbesartan Hydrochlorothiazide Zentiva been approved?
+### Why has Irbesartan Hydrochlorothiazide Zentiva been approved?
 
 The CHMP decided that Irbesartan Hydrochlorothiazide Zentiva's benefits are greater than its risks and recommended that it be given marketing authorisation.
 
-## Other information about Irbesartan Hydrochlorothiazide Zentiva
+### Other information about Irbesartan Hydrochlorothiazide Zentiva
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Irbesartan Hydrochlorothiazide Winthrop on 19 January 2007. The name of the medicine was changed to Irbesartan Hydrochlorothiazide Zentiva on 6 February 2012.
 
@@ -108,275 +109,141 @@ Irbesartan Hydrochlorothiazide Zentiva : EPAR - Summary for the public
 
 English (EN) (108.1 KB - PDF)
 
-**First published:** 05/05/2009
-
-**Last updated:** 20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/en/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-86)
+[Other languages (22)](#file-language-dropdown-685)
 
 български (BG) (140.98 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/bg/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_bg.pdf)
 
 español (ES) (108.19 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/es/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_es.pdf)
 
 čeština (CS) (136.29 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/cs/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_cs.pdf)
 
 dansk (DA) (107.71 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/da/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_da.pdf)
 
 Deutsch (DE) (109.33 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/de/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_de.pdf)
 
-eesti keel (ET) (108.66 KB - PDF)
+eesti (ET) (108.66 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/et/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (142.62 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/el/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_el.pdf)
 
 français (FR) (111.44 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/fr/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (121.38 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/hr/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_hr.pdf)
 
 italiano (IT) (107.56 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/it/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (131.02 KB - PDF)
+latviešu (LV) (131.02 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/lv/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (134.58 KB - PDF)
+lietuvių (LT) (134.58 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/lt/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_lt.pdf)
 
 magyar (HU) (127.28 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/hu/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_hu.pdf)
 
 Malti (MT) (136.49 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/mt/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (108.25 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/nl/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_nl.pdf)
 
 polski (PL) (137.8 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/pl/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_pl.pdf)
 
 português (PT) (108.33 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/pt/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_pt.pdf)
 
 română (RO) (131.32 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/ro/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (135.78 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/sk/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (126.87 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/sl/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_sl.pdf)
 
-Suomi (FI) (109 KB - PDF)
+suomi (FI) (109 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/fi/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_fi.pdf)
 
 svenska (SV) (109.68 KB - PDF)
 
-**First published:**
-
-05/05/2009
-
-**Last updated:**
-
-20/09/2013
+**First published:** 05/05/2009 **Last updated:** 20/09/2013
 
 [View](/sv/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_sv.pdf)
 
@@ -384,311 +251,168 @@ svenska (SV) (109.68 KB - PDF)
 
 Irbesartan Hydrochlorothiazide Zentiva : EPAR - Product information
 
-English (EN) (1008.15 KB - PDF)
+English (EN) (627.86 KB - PDF)
 
-**First published:** 19/10/2009
-
-**Last updated:** 16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/en/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-374)
+[Other languages (24)](#file-language-dropdown-854)
 
-български (BG) (1.39 MB - PDF)
+български (BG) (937.14 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/bg/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_bg.pdf)
 
-español (ES) (1.09 MB - PDF)
+español (ES) (665.38 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/es/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_es.pdf)
 
-čeština (CS) (1.18 MB - PDF)
+čeština (CS) (771.72 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/cs/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_cs.pdf)
 
-dansk (DA) (1012.99 KB - PDF)
+dansk (DA) (626.85 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/da/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.19 MB - PDF)
+Deutsch (DE) (741.74 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/de/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.02 MB - PDF)
+eesti (ET) (634.38 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/et/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.4 MB - PDF)
+ελληνικά (EL) (920.12 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/el/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_el.pdf)
 
-français (FR) (1.11 MB - PDF)
+français (FR) (705.58 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/fr/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.24 MB - PDF)
+hrvatski (HR) (825.91 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/hr/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.02 MB - PDF)
+italiano (IT) (678.52 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
-
-[View](/is/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_is.pdf)
-
-italiano (IT) (1.08 MB - PDF)
-
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/it/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.27 MB - PDF)
+latviešu (LV) (798.46 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/lv/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.21 MB - PDF)
+lietuvių (LT) (794.68 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/lt/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_lt.pdf)
 
-magyar (HU) (1.24 MB - PDF)
+magyar (HU) (818.46 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/hu/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_hu.pdf)
 
-Malti (MT) (1.37 MB - PDF)
+Malti (MT) (897.4 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/mt/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.05 MB - PDF)
+Nederlands (NL) (660.18 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/nl/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_nl.pdf)
 
-norsk (NO) (990.92 KB - PDF)
+polski (PL) (882.6 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
-
-[View](/no/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_no.pdf)
-
-polski (PL) (1.33 MB - PDF)
-
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/pl/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_pl.pdf)
 
-português (PT) (1.03 MB - PDF)
+português (PT) (655.41 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/pt/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_pt.pdf)
 
-română (RO) (1.31 MB - PDF)
+română (RO) (857.85 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/ro/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.18 MB - PDF)
+slovenčina (SK) (776.89 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/sk/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.17 MB - PDF)
+slovenščina (SL) (765.86 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/sl/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.06 MB - PDF)
+suomi (FI) (661.13 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/fi/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_fi.pdf)
 
-svenska (SV) (1020.46 KB - PDF)
+svenska (SV) (629.09 KB - PDF)
 
-**First published:**
-
-19/10/2009
-
-**Last updated:**
-
-16/01/2026
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
 
 [View](/sv/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000314724 16/01/2026
+Íslenska (IS) (641.23 KB - PDF)
+
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
+
+[View](/is/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_is.pdf)
+
+norsk (NO) (620.09 KB - PDF)
+
+**First published:** 19/10/2009 **Last updated:** 04/08/2026
+
+[View](/no/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000362345
+
+31/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -700,305 +424,172 @@ Product information documents contain:
 
 Irbesartan Hydrochlorothiazide Zentiva : EPAR - All Authorised presentations
 
-English (EN) (31.92 KB - PDF)
+English (EN) (29.34 KB - PDF)
 
-**First published:** 05/02/2007
-
-**Last updated:** 01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/en/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-928)
+[Other languages (24)](#file-language-dropdown-672)
 
-български (BG) (66.28 KB - PDF)
+български (BG) (54.3 KB - PDF)
 
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/bg/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (31.39 KB - PDF)
+español (ES) (30.67 KB - PDF)
 
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/es/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (44.32 KB - PDF)
+čeština (CS) (35.25 KB - PDF)
 
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/cs/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (31.24 KB - PDF)
+dansk (DA) (40.85 KB - PDF)
 
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/da/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (31.45 KB - PDF)
+Deutsch (DE) (31.48 KB - PDF)
 
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/de/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (32.18 KB - PDF)
+eesti (ET) (31.82 KB - PDF)
 
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/et/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (65.68 KB - PDF)
+ελληνικά (EL) (58.56 KB - PDF)
 
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/el/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (31.46 KB - PDF)
+français (FR) (30.47 KB - PDF)
 
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/fr/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_fr.pdf)
 
-íslenska (IS) (31.65 KB - PDF)
+hrvatski (HR) (46.49 KB - PDF)
 
-**First published:**
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
-05/02/2007
+[View](/hr/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_hr.pdf)
 
-**Last updated:**
+italiano (IT) (68.76 KB - PDF)
 
-01/08/2012
-
-[View](/is/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_is.pdf)
-
-italiano (IT) (32.17 KB - PDF)
-
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/it/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (60.51 KB - PDF)
+latviešu (LV) (46.54 KB - PDF)
 
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/lv/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (60.04 KB - PDF)
+lietuvių (LT) (77.32 KB - PDF)
 
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/lt/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (43.88 KB - PDF)
+magyar (HU) (35.63 KB - PDF)
 
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/hu/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (58.13 KB - PDF)
+Malti (MT) (45.13 KB - PDF)
 
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/mt/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (31.43 KB - PDF)
+Nederlands (NL) (29.45 KB - PDF)
 
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/nl/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (30.96 KB - PDF)
+polski (PL) (66.12 KB - PDF)
 
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
-
-[View](/no/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_no.pdf)
-
-polski (PL) (45.31 KB - PDF)
-
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/pl/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (31.84 KB - PDF)
+português (PT) (30.72 KB - PDF)
 
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/pt/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (61.15 KB - PDF)
+română (RO) (44.34 KB - PDF)
 
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/ro/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (61.09 KB - PDF)
+slovenčina (SK) (87.3 KB - PDF)
 
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/sk/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (31.71 KB - PDF)
+slovenščina (SL) (35.65 KB - PDF)
 
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/sl/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (31.56 KB - PDF)
+suomi (FI) (30.56 KB - PDF)
 
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/fi/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (31.79 KB - PDF)
+svenska (SV) (30.59 KB - PDF)
 
-**First published:**
-
-05/02/2007
-
-**Last updated:**
-
-01/08/2012
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
 
 [View](/sv/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (31.49 KB - PDF)
+
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
+
+[View](/is/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (30.56 KB - PDF)
+
+**First published:** 05/02/2007 **Last updated:** 04/08/2026
+
+[View](/no/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Irbesartan Hydrochlorothiazide Zentiva (previously Irbesartan Hydrochlorothiazide Winthrop) Active substance
-
-- irbesartan
-- hydrochlorothiazide
-
-International non-proprietary name (INN) or common name
-
-- irbesartan
-- hydrochlorothiazide
-
-Therapeutic area (MeSH) Hypertension Anatomical therapeutic chemical (ATC) code C09DA04
+- **Name of medicine**
+    - Irbesartan Hydrochlorothiazide Zentiva (previously Irbesartan Hydrochlorothiazide Winthrop)
+- **Active substance**
+        - irbesartan
+        - hydrochlorothiazide
+- **International non-proprietary name (INN) or common name**
+        - irbesartan
+        - hydrochlorothiazide
+- **Therapeutic area (MeSH)**
+    - Hypertension
+- **Anatomical therapeutic chemical (ATC) code**
+    - C09DA04
 
 ### Pharmacotherapeutic group
 
@@ -1010,13 +601,14 @@ Treatment of essential hypertension. This fixed-dose combination is indicated in
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/000783 Marketing authorisation holder
-
-sanofi-aventis groupe
-
-sanofi-aventis groupe
-
-Marketing authorisation issued 18/01/2007 Revision 37
+- **EMA product number**
+    - EMEA/H/C/000783
+- **Marketing authorisation holder**
+    - sanofi-aventis groupe sanofi-aventis groupe  54 rue La Boétie,  75008 Paris  France
+- **Marketing authorisation issued**
+    - 18/01/2007
+- **Revision**
+    - 38
 
 ## Assessment history
 
@@ -1024,27 +616,15 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Irbesartan Hydrochlorothiazide Zentiva: EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (156.67 KB - PDF)
+English (EN) (165.12 KB - PDF)
 
-**First published:** 29/01/2025
-
-**Last updated:** 16/01/2026
+**First published:** 29/01/2025 **Last updated:** 04/08/2026
 
 [View](/en/documents/procedural-steps-after/irbesartan-hydrochlorothiazide-zentiva-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
-
-Irbesartan Hydrochlorothiazide Zentiva: EPAR - Procedural steps taken and scientific information after authorisation (archive)
-
-English (EN) (377.09 KB - PDF)
-
-**First published:** 26/10/2009
-
-**Last updated:** 29/01/2025
-
-[View](/en/documents/procedural-steps-after/irbesartan-hydrochlorothiazide-zentiva-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Angiotensin-II-receptor antagonists (sartans) : Scientific conclusions - Impact of the Article 5(3) scientific opinion on nitrosamines
 
@@ -1054,197 +634,169 @@ English (EN) (119.28 KB - PDF)
 
 **First published:** 05/07/2021
 
-[View](/en/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
+[View](/en/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-54)
+[Other languages (22)](#file-language-dropdown-748)
 
 български (BG) (145.18 KB - PDF)
 
-**First published:**
+**First published:** 05/07/2021
 
-05/07/2021
-
-[View](/bg/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_bg.pdf)
+[View](/bg/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_bg.pdf)
 
 español (ES) (125.85 KB - PDF)
 
-**First published:**
+**First published:** 05/07/2021
 
-05/07/2021
-
-[View](/es/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_es.pdf)
+[View](/es/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_es.pdf)
 
 čeština (CS) (139.02 KB - PDF)
 
-**First published:**
+**First published:** 05/07/2021
 
-05/07/2021
-
-[View](/cs/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_cs.pdf)
+[View](/cs/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_cs.pdf)
 
 dansk (DA) (126.81 KB - PDF)
 
-**First published:**
+**First published:** 05/07/2021
 
-05/07/2021
-
-[View](/da/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_da.pdf)
+[View](/da/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_da.pdf)
 
 Deutsch (DE) (131.05 KB - PDF)
 
-**First published:**
+**First published:** 05/07/2021
 
-05/07/2021
+[View](/de/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_de.pdf)
 
-[View](/de/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_de.pdf)
+eesti (ET) (123.85 KB - PDF)
 
-eesti keel (ET) (123.85 KB - PDF)
+**First published:** 05/07/2021
 
-**First published:**
-
-05/07/2021
-
-[View](/et/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_et.pdf)
+[View](/et/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_et.pdf)
 
 ελληνικά (EL) (139.5 KB - PDF)
 
-**First published:**
+**First published:** 05/07/2021
 
-05/07/2021
-
-[View](/el/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_el.pdf)
+[View](/el/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_el.pdf)
 
 français (FR) (127.12 KB - PDF)
 
-**First published:**
+**First published:** 05/07/2021
 
-05/07/2021
-
-[View](/fr/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_fr.pdf)
+[View](/fr/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_fr.pdf)
 
 hrvatski (HR) (142.87 KB - PDF)
 
-**First published:**
+**First published:** 05/07/2021
 
-05/07/2021
-
-[View](/hr/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_hr.pdf)
+[View](/hr/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_hr.pdf)
 
 italiano (IT) (126.56 KB - PDF)
 
-**First published:**
+**First published:** 05/07/2021
 
-05/07/2021
+[View](/it/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_it.pdf)
 
-[View](/it/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_it.pdf)
+latviešu (LV) (147.7 KB - PDF)
 
-latviešu valoda (LV) (147.7 KB - PDF)
+**First published:** 05/07/2021
 
-**First published:**
+[View](/lv/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_lv.pdf)
 
-05/07/2021
+lietuvių (LT) (148.34 KB - PDF)
 
-[View](/lv/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_lv.pdf)
+**First published:** 05/07/2021
 
-lietuvių kalba (LT) (148.34 KB - PDF)
-
-**First published:**
-
-05/07/2021
-
-[View](/lt/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_lt.pdf)
+[View](/lt/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_lt.pdf)
 
 magyar (HU) (137.17 KB - PDF)
 
-**First published:**
+**First published:** 05/07/2021
 
-05/07/2021
-
-[View](/hu/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_hu.pdf)
+[View](/hu/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_hu.pdf)
 
 Malti (MT) (151.21 KB - PDF)
 
-**First published:**
+**First published:** 05/07/2021
 
-05/07/2021
-
-[View](/mt/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_mt.pdf)
+[View](/mt/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_mt.pdf)
 
 Nederlands (NL) (127.53 KB - PDF)
 
-**First published:**
+**First published:** 05/07/2021
 
-05/07/2021
-
-[View](/nl/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_nl.pdf)
+[View](/nl/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_nl.pdf)
 
 polski (PL) (137.7 KB - PDF)
 
-**First published:**
+**First published:** 05/07/2021
 
-05/07/2021
-
-[View](/pl/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_pl.pdf)
+[View](/pl/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_pl.pdf)
 
 português (PT) (128.87 KB - PDF)
 
-**First published:**
+**First published:** 05/07/2021
 
-05/07/2021
-
-[View](/pt/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_pt.pdf)
+[View](/pt/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_pt.pdf)
 
 română (RO) (143.59 KB - PDF)
 
-**First published:**
+**First published:** 05/07/2021
 
-05/07/2021
-
-[View](/ro/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_ro.pdf)
+[View](/ro/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_ro.pdf)
 
 slovenčina (SK) (135.07 KB - PDF)
 
-**First published:**
+**First published:** 05/07/2021
 
-05/07/2021
-
-[View](/sk/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_sk.pdf)
+[View](/sk/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_sk.pdf)
 
 slovenščina (SL) (149.74 KB - PDF)
 
-**First published:**
+**First published:** 05/07/2021
 
-05/07/2021
+[View](/sl/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_sl.pdf)
 
-[View](/sl/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_sl.pdf)
+suomi (FI) (125.84 KB - PDF)
 
-Suomi (FI) (125.84 KB - PDF)
+**First published:** 05/07/2021
 
-**First published:**
-
-05/07/2021
-
-[View](/fi/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_fi.pdf)
+[View](/fi/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_fi.pdf)
 
 svenska (SV) (126.99 KB - PDF)
 
-**First published:**
+**First published:** 05/07/2021
 
-05/07/2021
-
-[View](/sv/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_sv.pdf)
+[View](/sv/documents/referral/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_sv.pdf)
 
 Angiotensin-II-receptor antagonists (sartans) Article 31 referral - CHMP assessment report - Impact of the Article 5(3) scientific opinion on nitrosamines
 
-Adopted
-
-Reference Number: EMA/47245/2021
+Adopted Reference Number: EMA/47245/2021
 
 English (EN) (362.31 KB - PDF)
 
 **First published:** 02/03/2021
 
-[View](/en/documents/variation-report/angiotensin-ii-receptor-antagonists-sartans-article-31-referral-chmp-assessment-report-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
+[View](/en/documents/referral/angiotensin-ii-receptor-antagonists-sartans-article-31-referral-chmp-assessment-report-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
+
+Angiotensin-II-receptor antagonists (sartans) Article 31 referral - CHMP assessment report
+
+Adopted Reference Number: EMA/217823/2019
+
+English (EN) (531.32 KB - PDF)
+
+**First published:** 02/05/2019
+
+[View](/en/documents/referral/angiotensin-ii-receptor-antagonists-sartans-article-31-referral-chmp-assessment-report_en.pdf)
+
+Irbesartan Hydrochlorothiazide Zentiva: EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (377.09 KB - PDF)
+
+**First published:** 26/10/2009 **Last updated:** 29/01/2025
+
+[View](/en/documents/procedural-steps-after/irbesartan-hydrochlorothiazide-zentiva-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Irbesartan Hydrochlorothiazide Zentiva : EPAR - Scientific conclusions
 
@@ -1254,195 +806,139 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-776)
+[Other languages (22)](#file-language-dropdown-714)
 
 български (BG) (136.15 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/bg/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_bg.pdf)
 
 español (ES) (98.31 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/es/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_es.pdf)
 
 čeština (CS) (131.08 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/cs/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_cs.pdf)
 
 dansk (DA) (96.12 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/da/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_da.pdf)
 
 Deutsch (DE) (100.2 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/de/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_de.pdf)
 
-eesti keel (ET) (94.4 KB - PDF)
+eesti (ET) (94.4 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/et/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_et.pdf)
 
 ελληνικά (EL) (142.79 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/el/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_el.pdf)
 
 français (FR) (97.56 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/fr/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_fr.pdf)
 
 hrvatski (HR) (125.02 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/hr/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_hr.pdf)
 
 italiano (IT) (95.54 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/it/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_it.pdf)
 
-latviešu valoda (LV) (130.68 KB - PDF)
+latviešu (LV) (130.68 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/lv/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_lv.pdf)
 
-lietuvių kalba (LT) (130.84 KB - PDF)
+lietuvių (LT) (130.84 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/lt/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_lt.pdf)
 
 magyar (HU) (119.82 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/hu/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_hu.pdf)
 
 Malti (MT) (133.78 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/mt/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_mt.pdf)
 
 Nederlands (NL) (99.3 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/nl/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_nl.pdf)
 
 polski (PL) (130.65 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/pl/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_pl.pdf)
 
 português (PT) (96.47 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/pt/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_pt.pdf)
 
 română (RO) (128.25 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/ro/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_ro.pdf)
 
 slovenčina (SK) (119.14 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/sk/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_sk.pdf)
 
 slovenščina (SL) (124.14 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/sl/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_sl.pdf)
 
-Suomi (FI) (97.12 KB - PDF)
+suomi (FI) (97.12 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/fi/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_fi.pdf)
 
 svenska (SV) (96.85 KB - PDF)
 
-**First published:**
-
-23/05/2019
+**First published:** 23/05/2019
 
 [View](/sv/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_sv.pdf)
-
-Angiotensin-II-receptor antagonists (sartans) Article 31 referral - CHMP assessment report
-
-Adopted
-
-Reference Number: EMA/217823/2019
-
-English (EN) (531.32 KB - PDF)
-
-**First published:** 02/05/2019
-
-[View](/en/documents/variation-report/angiotensin-ii-receptor-antagonists-sartans-article-31-referral-chmp-assessment-report_en.pdf)
 
 Irbesartan Hydrochlorothiazide Zentiva (previously Irbesartan Hydrochlorothiazide Winthrop)-H-C-PSUSA-00001653-201609 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisat...
 
@@ -1450,331 +946,183 @@ Reference Number: EMA/715525/2017
 
 English (EN) (75.5 KB - PDF)
 
-**First published:** 07/11/2017
+**First published:** 07/11/2017 **Last updated:** 07/11/2017
 
-**Last updated:** 07/11/2017
-
-[View](/en/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-psusa-00001653-201609-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisat_en.pdf)
+[View](/en/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-psusa-00001653-201609-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisat_en.pdf)
 
 Irbesartan Hydrochlorothiazide Zentiva (previously Irbesartan Hydrochlorothiazide Winthrop)-H-C-783-A31-75: EPAR - Scientific conclusions, grounds for variation to the terms of the marketing authorisations and detailed e...
 
 English (EN) (48.81 KB - PDF)
 
-**First published:** 30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
-**Last updated:** 30/09/2014
+[View](/en/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-detailed-e_en.pdf)
 
-[View](/en/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_en.pdf)
-
-[Other languages (22)](#file-language-dropdown-261)
+[Other languages (22)](#file-language-dropdown-526)
 
 български (BG) (87.49 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/bg/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_bg.pdf)
 
 español (ES) (50.51 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/es/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_es.pdf)
 
 čeština (CS) (82.81 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/cs/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_cs.pdf)
 
 dansk (DA) (49.01 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/da/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_da.pdf)
 
 Deutsch (DE) (53.54 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/de/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_de.pdf)
 
-eesti keel (ET) (50.6 KB - PDF)
+eesti (ET) (50.6 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/et/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_et.pdf)
 
 ελληνικά (EL) (89.54 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/el/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_el.pdf)
 
 français (FR) (51.91 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/fr/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_fr.pdf)
 
 hrvatski (HR) (80.12 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/hr/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_hr.pdf)
 
 italiano (IT) (51.13 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/it/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_it.pdf)
 
-latviešu valoda (LV) (81.63 KB - PDF)
+latviešu (LV) (81.63 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/lv/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_lv.pdf)
 
-lietuvių kalba (LT) (82.54 KB - PDF)
+lietuvių (LT) (82.54 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/lt/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_lt.pdf)
 
 magyar (HU) (68.7 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/hu/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_hu.pdf)
 
 Malti (MT) (84.23 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/mt/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_mt.pdf)
 
 Nederlands (NL) (49.82 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/nl/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_nl.pdf)
 
 polski (PL) (83.62 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/pl/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_pl.pdf)
 
 português (PT) (49.74 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/pt/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_pt.pdf)
 
 română (RO) (88.19 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/ro/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_ro.pdf)
 
 slovenčina (SK) (81.5 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/sk/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_sk.pdf)
 
 slovenščina (SL) (79.79 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/sl/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_sl.pdf)
 
-Suomi (FI) (49.15 KB - PDF)
+suomi (FI) (49.15 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/fi/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_fi.pdf)
 
 svenska (SV) (50.18 KB - PDF)
 
-**First published:**
-
-30/09/2014
-
-**Last updated:**
-
-30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/sv/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_sv.pdf)
 
 Irbesartan Hydrochlorothiazide Zentiva (previously Irbesartan Hydrochlorothiazide Winthrop)-H-C-A31-75 : EPAR - Assessment Report - Article 31
 
-Adopted
-
-Reference Number: EMA/PRAC/294920/2014
+Adopted Reference Number: EMA/PRAC/294920/2014
 
 English (EN) (301.42 KB - PDF)
 
-**First published:** 30/09/2014
-
-**Last updated:** 30/09/2014
+**First published:** 30/09/2014 **Last updated:** 30/09/2014
 
 [View](/en/documents/variation-report/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-a31-75-epar-assessment-report-article-31_en.pdf)
 
 Irbesartan Hydrochlorothiazide Zentiva-H-C-783-II-69 : EPAR - Assessment Report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/377924/2013
+Adopted Reference Number: EMA/CHMP/377924/2013
 
 English (EN) (123.98 KB - PDF)
 
-**First published:** 20/09/2013
-
-**Last updated:** 20/09/2013
+**First published:** 20/09/2013 **Last updated:** 20/09/2013
 
 [View](/en/documents/variation-report/irbesartan-hydrochlorothiazide-zentiva-h-c-783-ii-69-epar-assessment-report-variation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Irbesartan Hydrochlorothiazide Zentiva
 
-Adopted
-
-Reference Number: EMA/CHMP/388295/2013
+Adopted Reference Number: EMA/CHMP/388295/2013
 
 English (EN) (66.48 KB - PDF)
 
-**First published:** 28/06/2013
-
-**Last updated:** 28/06/2013
+**First published:** 28/06/2013 **Last updated:** 28/06/2013
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-irbesartan-hydrochlorothiazide-zentiva_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Irbesartan Hydrochlorothiazide Winthrop : EPAR - Procedural steps taken before authorisation
 
@@ -1788,25 +1136,33 @@ Irbesartan Hydrochlorothiazide Winthrop : EPAR - Scientific Discussion
 
 English (EN) (23.76 KB - PDF)
 
-**First published:** 05/02/2007
-
-**Last updated:** 05/02/2007
+**First published:** 05/02/2007 **Last updated:** 05/02/2007
 
 [View](/en/documents/scientific-discussion/irbesartan-hydrochlorothiazide-winthrop-epar-scientific-discussion_en.pdf)
 
-#### News on Irbesartan Hydrochlorothiazide Zentiva (previously Irbesartan Hydrochlorothiazide Winthrop)
+## News on Irbesartan Hydrochlorothiazide Zentiva (previously Irbesartan Hydrochlorothiazide Winthrop)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2013) 28/06/2013
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2013](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2013)
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 13-16 May 2013](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-13-16-may-2013) 17/05/2013
+28/06/2013
 
-[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 13-16 May 2013](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-13-16-may-2013) 17/05/2013
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 13-16 May 2013](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-13-16-may-2013)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 October 2011](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-october-2011) 21/10/2011
+17/05/2013
 
-[European Medicines Agency concludes that benefit-risk balance of angiotensin-II-receptor antagonists remains positive](/en/news/european-medicines-agency-concludes-benefit-risk-balance-angiotensin-ii-receptor-antagonists-remains-positive) 20/10/2011
+[Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 13-16 May 2013](/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-13-16-may-2013)
 
-#### More information on Irbesartan Hydrochlorothiazide Zentiva
+17/05/2013
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 17-20 October 2011](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-17-20-october-2011)
+
+21/10/2011
+
+[European Medicines Agency concludes that benefit-risk balance of angiotensin-II-receptor antagonists remains positive](/en/news/european-medicines-agency-concludes-benefit-risk-balance-angiotensin-ii-receptor-antagonists-remains-positive)
+
+20/10/2011
+
+## More information on Irbesartan Hydrochlorothiazide Zentiva
 
 - [Renin-angiotensin-system (RAS)-acting agents: Article-31 referral](/en/medicines/human/referrals/renin-angiotensin-system-ras-acting-agents)
 
@@ -1816,23 +1172,17 @@ Reference Number: EMA/CHMP/834168/2011
 
 English (EN) (511.41 KB - PDF)
 
-**First published:** 20/10/2011
-
-**Last updated:** 11/05/2017
+**First published:** 20/10/2011 **Last updated:** 11/05/2017
 
 [View](/en/documents/opinion-any-scientific-matter/questions-answers-review-angiotensin-ii-receptor-antagonists-risk-cancer_en.pdf)
 
-#### More information on Irbesartan Hydrochlorothiazide Zentiva (previously Irbesartan Hydrochlorothiazide Winthrop)
+## More information on Irbesartan Hydrochlorothiazide Zentiva (previously Irbesartan Hydrochlorothiazide Winthrop)
 
 - [Renin-angiotensin-system (RAS)-acting agents - referral](/en/medicines/human/referrals/renin-angiotensin-system-ras-acting-agents)
 - [Angiotensin-II-receptor antagonists (sartans) containing a tetrazole group - referral](/en/medicines/human/referrals/angiotensin-ii-receptor-antagonists-sartans-containing-tetrazole-group)
 
-#### Topics
+**This page was last updated on**
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
-**This page was last updated on** 16/01/2026
+04/08/2026
 
 ## Share this page
-
-[Back to top](#main-content)

@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-01-06 16:12:00
+document_datetime: 2026-08-04 17:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/obodence.html
 document_name: obodence.html
 version: success
-processing_time: 0.1393025
-conversion_datetime: 2026-01-10 11:31:29.882025
+processing_time: 0.1661096
+conversion_datetime: 2026-08-07 13:51:04.778819
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Obodence
 
 [RSS](/en/individual-human-medicine.xml/251855)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-denosumab Medicine Human Authorised
+denosumab
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -58,7 +58,7 @@ Expand section
 
 Collapse section
 
-## How is Obodence used?
+### How is Obodence used?
 
 The medicine can only be obtained with a prescription. Obodence is available as a solution for injection in prefilled syringes.
 
@@ -66,11 +66,11 @@ Obodence is given once every 6 months as an injection under the skin in the thig
 
 For more information about using Obodence, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Obodence work?
+### How does Obodence work?
 
 The active substance in Obodence, denosumab, is a monoclonal antibody (a type of protein) that has been designed to recognise and attach to a specific protein in the body called RANKL. RANKL is involved in activating osteoclasts, the cells in the body that are involved in breaking down bone tissue. By attaching to and blocking RANKL, denosumab reduces the formation and activity of osteoclasts. This reduces bone loss and maintains bone strength, making fractures less likely to happen.
 
-## What benefits of Obodence have been shown in studies?
+### What benefits of Obodence have been shown in studies?
 
 Laboratory studies comparing Obodence with Prolia have shown that the active substance in Obodence is highly similar to that in Prolia in terms of structure, purity and biological activity. Studies have also shown that giving Obodence produces similar levels of the active substance in the body to those seen with Prolia.
 
@@ -78,7 +78,7 @@ In addition, a study involving 457 women with osteoporosis who have been through
 
 Because Obodence is a biosimilar medicine, the studies on the effectiveness of denosumab carried out with Prolia do not all need to be repeated for Obodence.
 
-## What are the risks associated with Obodence?
+### What are the risks associated with Obodence?
 
 The safety of Obodence has been evaluated and, on the basis of all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine Prolia.
 
@@ -88,13 +88,13 @@ The most common side effects with Obodence (which may affect more than 1 in 10 p
 
 Obodence must not be used in people with hypocalcaemia (low blood calcium levels).
 
-## Why is Obodence authorised in the EU?
+### Why is Obodence authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Obodence has a highly similar structure, purity and biological activity to Prolia and is distributed in the body in the same way. In addition, studies in postmenopausal osteoporosis have shown that Obodence and Prolia are equivalent in terms of safety and effectiveness in this condition.
 
 All these data were considered sufficient to conclude that Obodence will have the same effects as Prolia in its authorised uses. Therefore, the Agency's view was that, as for Prolia, the benefits of Obodence outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Obodence?
+### What measures are being taken to ensure the safe and effective use of Obodence?
 
 The company that markets Obodence will provide a card to inform patients about the risk of osteonecrosis of the jaw and to instruct them to contact their doctor if they experience symptoms.
 
@@ -102,7 +102,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Obodence are continuously monitored. Suspected side effects reported with Obodence are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Obodence
+### Other information about Obodence
 
 Obodence received a marketing authorisation valid throughout the EU on 12 February 2025.
 
@@ -116,181 +116,137 @@ English (EN) (135.28 KB - PDF)
 
 [View](/en/documents/overview/obodence-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-410)
+[Other languages (22)](#file-language-dropdown-172)
 
 български (BG) (170.76 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/bg/documents/overview/obodence-epar-medicine-overview_bg.pdf)
 
 español (ES) (134.87 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/es/documents/overview/obodence-epar-medicine-overview_es.pdf)
 
 čeština (CS) (158.61 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/cs/documents/overview/obodence-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (134.8 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/da/documents/overview/obodence-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (138.15 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/de/documents/overview/obodence-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (131.67 KB - PDF)
+eesti (ET) (131.67 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/et/documents/overview/obodence-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (160.28 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/el/documents/overview/obodence-epar-medicine-overview_el.pdf)
 
 français (FR) (136.16 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/fr/documents/overview/obodence-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (155.35 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/hr/documents/overview/obodence-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (133.52 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/it/documents/overview/obodence-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (163.89 KB - PDF)
+latviešu (LV) (163.89 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/lv/documents/overview/obodence-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (156.21 KB - PDF)
+lietuvių (LT) (156.21 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/lt/documents/overview/obodence-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (157.76 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/hu/documents/overview/obodence-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (158.86 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/mt/documents/overview/obodence-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (135.56 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/nl/documents/overview/obodence-epar-medicine-overview_nl.pdf)
 
 polski (PL) (159.31 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/pl/documents/overview/obodence-epar-medicine-overview_pl.pdf)
 
 português (PT) (135.08 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/pt/documents/overview/obodence-epar-medicine-overview_pt.pdf)
 
 română (RO) (153.87 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/ro/documents/overview/obodence-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (157.54 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/sk/documents/overview/obodence-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (154.79 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/sl/documents/overview/obodence-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (131.96 KB - PDF)
+suomi (FI) (131.96 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/fi/documents/overview/obodence-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (133.03 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/sv/documents/overview/obodence-epar-medicine-overview_sv.pdf)
 
@@ -306,311 +262,168 @@ English (EN) (5.95 MB - PDF)
 
 Obodence : EPAR - Product information
 
-English (EN) (943.07 KB - PDF)
+English (EN) (944.68 KB - PDF)
 
-**First published:** 03/03/2025
-
-**Last updated:** 06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/en/documents/product-information/obodence-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-565)
+[Other languages (24)](#file-language-dropdown-691)
 
-български (BG) (808.42 KB - PDF)
+български (BG) (791.07 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/bg/documents/product-information/obodence-epar-product-information_bg.pdf)
 
-español (ES) (750.5 KB - PDF)
+español (ES) (736.97 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/es/documents/product-information/obodence-epar-product-information_es.pdf)
 
-čeština (CS) (776.38 KB - PDF)
+čeština (CS) (767.31 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/cs/documents/product-information/obodence-epar-product-information_cs.pdf)
 
-dansk (DA) (739.55 KB - PDF)
+dansk (DA) (741.93 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/da/documents/product-information/obodence-epar-product-information_da.pdf)
 
-Deutsch (DE) (727.69 KB - PDF)
+Deutsch (DE) (716.08 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/de/documents/product-information/obodence-epar-product-information_de.pdf)
 
-eesti keel (ET) (755.32 KB - PDF)
+eesti (ET) (759.17 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/et/documents/product-information/obodence-epar-product-information_et.pdf)
 
-ελληνικά (EL) (822.47 KB - PDF)
+ελληνικά (EL) (816.89 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/el/documents/product-information/obodence-epar-product-information_el.pdf)
 
-français (FR) (895.27 KB - PDF)
+français (FR) (894.53 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/fr/documents/product-information/obodence-epar-product-information_fr.pdf)
 
-hrvatski (HR) (843.47 KB - PDF)
+hrvatski (HR) (756.49 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/hr/documents/product-information/obodence-epar-product-information_hr.pdf)
 
-íslenska (IS) (762.77 KB - PDF)
+italiano (IT) (882.5 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
-
-[View](/is/documents/product-information/obodence-epar-product-information_is.pdf)
-
-italiano (IT) (810.21 KB - PDF)
-
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/it/documents/product-information/obodence-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (757.28 KB - PDF)
+latviešu (LV) (746.07 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/lv/documents/product-information/obodence-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (806.77 KB - PDF)
+lietuvių (LT) (815.46 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/lt/documents/product-information/obodence-epar-product-information_lt.pdf)
 
-magyar (HU) (926.24 KB - PDF)
+magyar (HU) (963.1 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/hu/documents/product-information/obodence-epar-product-information_hu.pdf)
 
-Malti (MT) (896.3 KB - PDF)
+Malti (MT) (832.41 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/mt/documents/product-information/obodence-epar-product-information_mt.pdf)
 
-Nederlands (NL) (727.65 KB - PDF)
+Nederlands (NL) (742.73 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/nl/documents/product-information/obodence-epar-product-information_nl.pdf)
 
-norsk (NO) (735.62 KB - PDF)
+polski (PL) (810.18 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
-
-[View](/no/documents/product-information/obodence-epar-product-information_no.pdf)
-
-polski (PL) (803.18 KB - PDF)
-
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/pl/documents/product-information/obodence-epar-product-information_pl.pdf)
 
-português (PT) (841.37 KB - PDF)
+português (PT) (744.37 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/pt/documents/product-information/obodence-epar-product-information_pt.pdf)
 
-română (RO) (800.84 KB - PDF)
+română (RO) (785.92 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/ro/documents/product-information/obodence-epar-product-information_ro.pdf)
 
-slovenčina (SK) (801.1 KB - PDF)
+slovenčina (SK) (803.88 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/sk/documents/product-information/obodence-epar-product-information_sk.pdf)
 
-slovenščina (SL) (747.7 KB - PDF)
+slovenščina (SL) (781.77 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/sl/documents/product-information/obodence-epar-product-information_sl.pdf)
 
-Suomi (FI) (777.94 KB - PDF)
+suomi (FI) (835.07 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/fi/documents/product-information/obodence-epar-product-information_fi.pdf)
 
-svenska (SV) (823.22 KB - PDF)
+svenska (SV) (766.18 KB - PDF)
 
-**First published:**
-
-03/03/2025
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
 
 [View](/sv/documents/product-information/obodence-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000319278 05/01/2026
+Íslenska (IS) (751.38 KB - PDF)
+
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
+
+[View](/is/documents/product-information/obodence-epar-product-information_is.pdf)
+
+norsk (NO) (735.53 KB - PDF)
+
+**First published:** 03/03/2025 **Last updated:** 04/08/2026
+
+[View](/no/documents/product-information/obodence-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** N/0000365631
+
+31/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -628,209 +441,166 @@ English (EN) (40.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-744)
+[Other languages (24)](#file-language-dropdown-772)
 
 български (BG) (56.68 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/bg/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (41.04 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/es/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (57.9 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/cs/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (43.3 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/da/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (42.3 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/de/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (38.71 KB - PDF)
+eesti (ET) (38.71 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/et/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (56.07 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/el/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (40.68 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/fr/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (105.48 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/hr/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (39.13 KB - PDF)
-
-**First published:**
-
-03/03/2025
-
-[View](/is/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (40.62 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/it/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (55.74 KB - PDF)
+latviešu (LV) (55.74 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/lv/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (58.01 KB - PDF)
+lietuvių (LT) (58.01 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/lt/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (58.19 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/hu/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (60.08 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/mt/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (40.1 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/nl/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (42.56 KB - PDF)
-
-**First published:**
-
-03/03/2025
-
-[View](/no/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (80 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/pl/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (41.89 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/pt/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (55.7 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/ro/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (58.77 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/sk/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (45.5 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/sl/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (37.38 KB - PDF)
+suomi (FI) (37.38 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/fi/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (40.91 KB - PDF)
 
-**First published:**
-
-03/03/2025
+**First published:** 03/03/2025
 
 [View](/sv/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (39.13 KB - PDF)
+
+**First published:** 03/03/2025
+
+[View](/is/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (42.56 KB - PDF)
+
+**First published:** 03/03/2025
+
+[View](/no/documents/all-authorised-presentations/obodence-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Obodence Active substance denosumab International non-proprietary name (INN) or common name denosumab Therapeutic area (MeSH)
-
-- Osteoporosis, Postmenopausal
-- Osteoporosis
-- Bone Resorption
-
-Anatomical therapeutic chemical (ATC) code M05BX04
+- **Name of medicine**
+    - Obodence
+- **Active substance**
+    - denosumab
+- **International non-proprietary name (INN) or common name**
+    - denosumab
+- **Therapeutic area (MeSH)**
+        - Osteoporosis, Postmenopausal
+        - Osteoporosis
+        - Bone Resorption
+- **Anatomical therapeutic chemical (ATC) code**
+    - M05BX04
 
 ### Pharmacotherapeutic group
 
@@ -846,19 +616,18 @@ Treatment of bone loss associated with long-term systemic glucocorticoid therapy
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/006424
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Samsung Bioepis NL B.V.
-
-Olof Palmestraat 10 2616 LR Delft The Netherlands
-
-Opinion adopted 14/11/2024 Marketing authorisation issued 12/02/2025 Revision 4
+- **EMA product number**
+    - EMEA/H/C/006424
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Samsung Bioepis NL B.V. Olof Palmestraat 10  2616 LR Delft  The Netherlands
+- **Opinion adopted**
+    - 14/11/2024
+- **Marketing authorisation issued**
+    - 12/02/2025
+- **Revision**
+    - 5
 
 ## Assessment history
 
@@ -866,15 +635,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Obodence : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (157.12 KB - PDF)
+English (EN) (165.79 KB - PDF)
 
-**First published:** 18/09/2025
-
-**Last updated:** 06/01/2026
+**First published:** 18/09/2025 **Last updated:** 04/08/2026
 
 [View](/en/documents/procedural-steps-after/obodence-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -882,19 +649,15 @@ Obodence : EPAR - Procedural steps taken and scientific information after author
 
 English (EN) (157.38 KB - PDF)
 
-**First published:** 06/05/2025
-
-**Last updated:** 18/09/2025
+**First published:** 06/05/2025 **Last updated:** 18/09/2025
 
 [View](/en/documents/procedural-steps-after/obodence-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Obodence : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/560515/2024
+Adopted Reference Number: EMA/560515/2024
 
 English (EN) (4.04 MB - PDF)
 
@@ -904,9 +667,7 @@ English (EN) (4.04 MB - PDF)
 
 CHMP summary of positive opinion for Obodence
 
-Adopted
-
-Reference Number: EMA/CHMP/515514/2024
+Adopted Reference Number: EMA/CHMP/515514/2024
 
 English (EN) (155.38 KB - PDF)
 
@@ -914,290 +675,158 @@ English (EN) (155.38 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-obodence_en.pdf)
 
-#### News on Obodence
+## News on Obodence
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 November 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-november-2024) 15/11/2024
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 11-14 November 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-11-14-november-2024)
 
-#### Related document
+15/11/2024
+
+## Related document
 
 Biosimilars in the EU - Information guide for healthcare professionals
 
 English (EN) (1.96 MB - PDF)
 
-**First published:** 05/05/2017
-
-**Last updated:** 13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/en/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-580)
+[Other languages (22)](#file-language-dropdown-731)
 
 български (BG) (1.9 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/bg/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_bg.pdf)
 
 español (ES) (1.94 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/es/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_es.pdf)
 
 čeština (CS) (1.89 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/cs/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_cs.pdf)
 
 dansk (DA) (1.87 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/da/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_da.pdf)
 
 Deutsch (DE) (1.9 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/de/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_de.pdf)
 
-eesti keel (ET) (755.5 KB - PDF)
+eesti (ET) (755.5 KB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/et/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_et.pdf)
 
 ελληνικά (EL) (1.94 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/el/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_el.pdf)
 
 français (FR) (1.89 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/fr/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_fr.pdf)
 
 hrvatski (HR) (1.95 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/hr/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_hr.pdf)
 
 italiano (IT) (1.95 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/it/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_it.pdf)
 
-latviešu valoda (LV) (1.9 MB - PDF)
+latviešu (LV) (1.9 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/lv/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_lv.pdf)
 
-lietuvių kalba (LT) (1.94 MB - PDF)
+lietuvių (LT) (1.94 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/lt/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_lt.pdf)
 
 magyar (HU) (1.96 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/hu/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_hu.pdf)
 
 Malti (MT) (825.65 KB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/mt/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_mt.pdf)
 
 Nederlands (NL) (1.97 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/nl/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_nl.pdf)
 
 polski (PL) (2 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/pl/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_pl.pdf)
 
 português (PT) (1.95 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/pt/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_pt.pdf)
 
 română (RO) (1.96 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/ro/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_ro.pdf)
 
 slovenčina (SK) (1.96 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/sk/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_sk.pdf)
 
 slovenščina (SL) (1.96 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/sl/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_sl.pdf)
 
-Suomi (FI) (1.79 MB - PDF)
+suomi (FI) (1.79 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/fi/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_fi.pdf)
 
 svenska (SV) (1.93 MB - PDF)
 
-**First published:**
-
-05/05/2017
-
-**Last updated:**
-
-13/11/2023
+**First published:** 05/05/2017 **Last updated:** 13/11/2023
 
 [View](/sv/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_sv.pdf)
 
-**This page was last updated on** 06/01/2026
+**This page was last updated on**
+
+04/08/2026
 
 ## Share this page
-
-[Back to top](#main-content)

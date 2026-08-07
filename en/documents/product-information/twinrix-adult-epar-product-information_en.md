@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-02-07 10:48:18
+document_datetime: 2026-08-04 10:37:13
 document_pages: 26
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/twinrix-adult-epar-product-information_en.pdf
 document_name: twinrix-adult-epar-product-information_en.pdf
 version: success
-processing_time: 6.0496241
-conversion_datetime: 2025-12-18 23:50:56.326483
+processing_time: 5.6881718
+conversion_datetime: 2026-08-07 14:16:55.831932
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -78,7 +78,7 @@ Long-term antibody persistence data following vaccination with Twinrix Adult are
 
 The need for a booster dose of hepatitis B vaccine in healthy individuals who have received a full primary vaccination course has not been established; however some official vaccination programmes currently include a recommendation for a booster dose of hepatitis B vaccine and these should be respected.
 
-For some categories of subjects or patients exposed to HBV (e.g; haemodialysis or immunocompromised patients) a precautionary attitude should be considered to ensure a protective antibody level ≥ 10IU/l.
+For some categories of subjects or patients exposed to HBV (e.g; haemodialysis or immunocompromised patients) a precautionary attitude should be considered to ensure a protective antibody level  10IU/l.
 
 ## Hepatitis A
 
@@ -124,7 +124,7 @@ Twinrix Adult should under no circumstances be administered intravascularly.
 
 As with any vaccine, a protective immune response may not be elicited in all vaccinees.
 
-This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## Traceability
 
@@ -174,19 +174,19 @@ Frequencies are reported as:
 
 Very common:
 
-≥ 1/10
+ 1/10
 
 Common:
 
-≥ 1/100 to &lt; 1/10
+ 1/100 to &lt; 1/10
 
 Uncommon:
 
-≥ 1/1,000 to &lt; 1/100
+ 1/1,000 to &lt; 1/100
 
 Rare:
 
-≥ 1/10,000 to &lt; 1/1,000
+ 1/10,000 to &lt; 1/1,000
 
 Very rare:
 
@@ -194,42 +194,40 @@ Very rare:
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                                                                                                                                                                            | Frequency                                                                                                                                                                                     | Adverse reactions                                                                                                                                                                             |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Clinical trials                                                                                                                                                                               |                                                                                                                                                                                               |                                                                                                                                                                                               |
-| Infections and infestations                                                                                                                                                                   | Uncommon                                                                                                                                                                                      | Upper respiratory tract infection                                                                                                                                                             |
-| Blood and lymphatic system disorders                                                                                                                                                          | Rare                                                                                                                                                                                          | Lymphadenopathy                                                                                                                                                                               |
-| Metabolism and nutrition disorders                                                                                                                                                            | Rare                                                                                                                                                                                          | Decreased appetite                                                                                                                                                                            |
-| Nervous system disorders                                                                                                                                                                      | Very common                                                                                                                                                                                   | Headache                                                                                                                                                                                      |
-| Nervous system disorders                                                                                                                                                                      | Uncommon                                                                                                                                                                                      | Dizziness                                                                                                                                                                                     |
-| Nervous system disorders                                                                                                                                                                      | Rare                                                                                                                                                                                          | Hypoaesthesia, paraesthesia                                                                                                                                                                   |
-| Vascular disorders                                                                                                                                                                            | Rare                                                                                                                                                                                          | Hypotension                                                                                                                                                                                   |
-| Gastrointestinal disorders                                                                                                                                                                    | Common                                                                                                                                                                                        | Gastrointestinal symptoms, diarrhoea, nausea                                                                                                                                                  |
-| Gastrointestinal disorders                                                                                                                                                                    | Uncommon                                                                                                                                                                                      | Vomiting, abdominal pain*                                                                                                                                                                     |
-| Skin and subcutaneous tissue disorders                                                                                                                                                        | Rare                                                                                                                                                                                          | Rash, pruritus                                                                                                                                                                                |
-| Skin and subcutaneous tissue disorders                                                                                                                                                        | Very rare                                                                                                                                                                                     | Urticaria                                                                                                                                                                                     |
-| Musculoskeletal and connective tissue disorders                                                                                                                                               | Uncommon                                                                                                                                                                                      | Myalgia                                                                                                                                                                                       |
-| Musculoskeletal and connective tissue disorders                                                                                                                                               | Rare                                                                                                                                                                                          | Arthralgia                                                                                                                                                                                    |
-| General disorders and administration site conditions                                                                                                                                          | Very common                                                                                                                                                                                   | Pain and redness at the injection site, fatigue                                                                                                                                               |
-| General disorders and administration site conditions                                                                                                                                          | Common                                                                                                                                                                                        | Swelling at the injection site, injection site reactions (such as haematoma, pruritus and bruising), malaise                                                                                  |
-| General disorders and administration site conditions                                                                                                                                          | Uncommon                                                                                                                                                                                      | Fever ( ≥ 37.5°C)                                                                                                                                                                             |
-| General disorders and administration site conditions                                                                                                                                          | Rare                                                                                                                                                                                          | Influenza like illness, chills                                                                                                                                                                |
-| Post-marketing surveillance                                                                                                                                                                   | Post-marketing surveillance                                                                                                                                                                   | Post-marketing surveillance                                                                                                                                                                   |
-| The following adverse reactions have been reported with either Twinrix or with GlaxoSmithKline monovalent hepatitis A or B vaccines:                                                          | The following adverse reactions have been reported with either Twinrix or with GlaxoSmithKline monovalent hepatitis A or B vaccines:                                                          | The following adverse reactions have been reported with either Twinrix or with GlaxoSmithKline monovalent hepatitis A or B vaccines:                                                          |
-| Infections and infestations                                                                                                                                                                   | Meningitis                                                                                                                                                                                    | Meningitis                                                                                                                                                                                    |
-| Blood and lymphatic system disorders                                                                                                                                                          | Thrombocytopenia, thrombocytopenic purpura                                                                                                                                                    | Thrombocytopenia, thrombocytopenic purpura                                                                                                                                                    |
-| Immune system disorders                                                                                                                                                                       | Anaphylaxis, allergic reactions including anaphylactoid reactions and mimicking serum sickness                                                                                                | Anaphylaxis, allergic reactions including anaphylactoid reactions and mimicking serum sickness                                                                                                |
-| Nervous system disorders                                                                                                                                                                      | Encephalitis, encephalopathy, neuritis, neuropathy,                                                                                                                                           | Encephalitis, encephalopathy, neuritis, neuropathy,                                                                                                                                           |
-| Vascular disorders                                                                                                                                                                            | Vasculitis                                                                                                                                                                                    | Vasculitis                                                                                                                                                                                    |
-| Skin and subcutaneous tissue disorders                                                                                                                                                        | Angioneurotic oedema, lichen planus, erythema                                                                                                                                                 | Angioneurotic oedema, lichen planus, erythema                                                                                                                                                 |
-| Musculoskeletal and connective tissue disorders                                                                                                                                               | Arthritis, muscular weakness                                                                                                                                                                  | Arthritis, muscular weakness                                                                                                                                                                  |
-| General disorders and administration site conditions                                                                                                                                          | Immediate injection site pain                                                                                                                                                                 | Immediate injection site pain                                                                                                                                                                 |
-| Following widespread use of the monovalent hepatitisA and/or hepatitis B vaccines, the following undesirable events have additionally been reported in temporal association with vaccination: | Following widespread use of the monovalent hepatitisA and/or hepatitis B vaccines, the following undesirable events have additionally been reported in temporal association with vaccination: | Following widespread use of the monovalent hepatitisA and/or hepatitis B vaccines, the following undesirable events have additionally been reported in temporal association with vaccination: |
-| Nervous system disorders                                                                                                                                                                      | Multiple sclerosis, myelitis, facial palsy, polyneuritis such as Guillain-Barré syndrome (with ascending paralysis), optic neuritis                                                           | Multiple sclerosis, myelitis, facial palsy, polyneuritis such as Guillain-Barré syndrome (with ascending paralysis), optic neuritis                                                           |
-| General disorders and administration site conditions                                                                                                                                          | Stinging and burning sensation                                                                                                                                                                | Stinging and burning sensation                                                                                                                                                                |
-| Investigations                                                                                                                                                                                | Abnormal liver function tests                                                                                                                                                                 | Abnormal liver function tests                                                                                                                                                                 |
-
-* refers to adverse reactions observed in clinical trials performed with the paediatric formulation
+| System Organ Class                                                                                                                                                                             | Frequency                                                                                                                                                                                      | Adverse reactions                                                                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Clinical trials                                                                                                                                                                                |                                                                                                                                                                                                |                                                                                                                                                                                                |
+| Infections and infestations                                                                                                                                                                    | Uncommon                                                                                                                                                                                       | Upper respiratory tract infection                                                                                                                                                              |
+| Blood and lymphatic system disorders                                                                                                                                                           | Rare                                                                                                                                                                                           | Lymphadenopathy                                                                                                                                                                                |
+| Metabolism and nutrition disorders                                                                                                                                                             | Rare                                                                                                                                                                                           | Decreased appetite                                                                                                                                                                             |
+| Nervous system disorders                                                                                                                                                                       | Very common                                                                                                                                                                                    | Headache                                                                                                                                                                                       |
+| Nervous system disorders                                                                                                                                                                       | Uncommon                                                                                                                                                                                       | Dizziness                                                                                                                                                                                      |
+| Nervous system disorders                                                                                                                                                                       | Rare                                                                                                                                                                                           | Hypoaesthesia, paraesthesia                                                                                                                                                                    |
+| Vascular disorders                                                                                                                                                                             | Rare                                                                                                                                                                                           | Hypotension                                                                                                                                                                                    |
+| Gastrointestinal disorders                                                                                                                                                                     | Common                                                                                                                                                                                         | Gastrointestinal symptoms, diarrhoea, nausea                                                                                                                                                   |
+| Gastrointestinal disorders                                                                                                                                                                     | Uncommon                                                                                                                                                                                       | Vomiting, abdominal pain*                                                                                                                                                                      |
+| Skin and subcutaneous tissue disorders                                                                                                                                                         | Rare                                                                                                                                                                                           | Rash, pruritus                                                                                                                                                                                 |
+| Skin and subcutaneous tissue disorders                                                                                                                                                         | Very rare                                                                                                                                                                                      | Urticaria                                                                                                                                                                                      |
+| Musculoskeletal and connective tissue disorders                                                                                                                                                | Uncommon                                                                                                                                                                                       | Myalgia                                                                                                                                                                                        |
+| Musculoskeletal and connective tissue disorders                                                                                                                                                | Rare                                                                                                                                                                                           | Arthralgia                                                                                                                                                                                     |
+| General disorders and administration site conditions                                                                                                                                           | Very common                                                                                                                                                                                    | Pain and redness at the injection site, fatigue                                                                                                                                                |
+| General disorders and administration site conditions                                                                                                                                           | Common                                                                                                                                                                                         | Swelling at the injection site, injection site reactions (such as haematoma, pruritus and bruising), malaise                                                                                   |
+| General disorders and administration site conditions                                                                                                                                           | Uncommon                                                                                                                                                                                       | Fever (  37.5°C)                                                                                                                                                                              |
+| General disorders and administration site conditions                                                                                                                                           | Rare                                                                                                                                                                                           | Influenza like illness, chills                                                                                                                                                                 |
+| Post-marketing surveillance                                                                                                                                                                    | Post-marketing surveillance                                                                                                                                                                    | Post-marketing surveillance                                                                                                                                                                    |
+| The following adverse reactions have been reported with either Twinrix or with GlaxoSmithKline monovalent hepatitis A or B vaccines:                                                           | The following adverse reactions have been reported with either Twinrix or with GlaxoSmithKline monovalent hepatitis A or B vaccines:                                                           | The following adverse reactions have been reported with either Twinrix or with GlaxoSmithKline monovalent hepatitis A or B vaccines:                                                           |
+| Infections and infestations                                                                                                                                                                    | Meningitis                                                                                                                                                                                     | Meningitis                                                                                                                                                                                     |
+| Blood and lymphatic system disorders                                                                                                                                                           | Thrombocytopenia, thrombocytopenic purpura                                                                                                                                                     | Thrombocytopenia, thrombocytopenic purpura                                                                                                                                                     |
+| Immune system disorders                                                                                                                                                                        | Anaphylaxis, allergic reactions including anaphylactoid reactions and mimicking serum sickness                                                                                                 | Anaphylaxis, allergic reactions including anaphylactoid reactions and mimicking serum sickness                                                                                                 |
+| Nervous system disorders                                                                                                                                                                       | Encephalitis, encephalopathy, neuritis, neuropathy,                                                                                                                                            | Encephalitis, encephalopathy, neuritis, neuropathy,                                                                                                                                            |
+| Vascular disorders                                                                                                                                                                             | Vasculitis                                                                                                                                                                                     | Vasculitis                                                                                                                                                                                     |
+| Skin and subcutaneous tissue disorders                                                                                                                                                         | Angioneurotic oedema, lichen planus, erythema multiforme                                                                                                                                       | Angioneurotic oedema, lichen planus, erythema multiforme                                                                                                                                       |
+| Musculoskeletal and connective tissue disorders                                                                                                                                                | Arthritis, muscular weakness                                                                                                                                                                   | Arthritis, muscular weakness                                                                                                                                                                   |
+| General disorders and administration site conditions                                                                                                                                           | Immediate injection site pain                                                                                                                                                                  | Immediate injection site pain                                                                                                                                                                  |
+| Following widespread use of the monovalent hepatitis A and/or hepatitis B vaccines, the following undesirable events have additionally been reported in temporal association with vaccination: | Following widespread use of the monovalent hepatitis A and/or hepatitis B vaccines, the following undesirable events have additionally been reported in temporal association with vaccination: | Following widespread use of the monovalent hepatitis A and/or hepatitis B vaccines, the following undesirable events have additionally been reported in temporal association with vaccination: |
+| Nervous system disorders                                                                                                                                                                       | Multiple sclerosis, myelitis, facial palsy, polyneuritis such as Guillain-Barré syndrome (with ascending paralysis), optic neuritis                                                            | Multiple sclerosis, myelitis, facial palsy, polyneuritis such as Guillain-Barré syndrome (with ascending paralysis), optic neuritis                                                            |
+| General disorders and administration site conditions                                                                                                                                           | Stinging and burning sensation                                                                                                                                                                 | Stinging and burning sensation                                                                                                                                                                 |
+| Investigations                                                                                                                                                                                 | Abnormal liver function tests                                                                                                                                                                  | Abnormal liver function tests                                                                                                                                                                  |
 
 ## Reporting of suspected adverse reactions
 
@@ -263,7 +261,7 @@ The seroprotection rate against hepatitis B after the administration of Twinrix 
 
 The seropositivity rate for anti-HAV antibodies after Twinrix Adult was 97% at both 7 and 48 months versus 99% and 93% after the GlaxoSmithKline Biologicals monovalent hepatitis A vaccine and 99% and 97% after another licensed monovalent hepatitis A vaccine.
 
-Subjects received an additional dose of the same vaccine(s) 48 months after the first dose of the primary vaccination course. One month after this dose, 95% of the subjects vaccinated with Twinrix Adult achieved seroprotective levels of antiHBV antibodies (≥ 10 mIU/ml ).
+Subjects received an additional dose of the same vaccine(s) 48 months after the first dose of the primary vaccination course. One month after this dose, 95% of the subjects vaccinated with Twinrix Adult achieved seroprotective levels of anti-HBV antibodies (≥ 10 mIU/ml ).
 
 In two long-term clinical studies conducted in adults aged 17 years to 43 years, respectively 18 and 25 subjects had evaluable tests 20 years after the primary vaccination with Twinrix Adult; the anti-HAV
 
@@ -327,7 +325,7 @@ The vaccine should be re-suspended following the steps below.
 2. Shake the syringe by tipping it upside down and back again.
 3. Repeat this action vigorously for at least 15 seconds.
 4. Inspect the vaccine again:
-- a. If the vaccine appears as a uniform hazy white suspension, it is ready to use - the appearance should not be clear.
+- a. If the vaccine appears as a uniform hazy white suspension, it is ready to use -the appearance should not be clear.
 - b. If the vaccine still does not appear as a uniform hazy white suspension - tip upside down and back again for at least another 15 seconds - then inspect again.
 
 The vaccine should be inspected visually for any foreign particulate matter and/or abnormal physical appearance prior to administration. In the event of either being observed, do not administer the vaccine.
@@ -381,8 +379,7 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCES AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE
-
-## D. AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- D. AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -444,7 +441,7 @@ Not applicable.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Twinrix Adult - Suspension for injection in pre-filled syringe
+Twinrix Adult -Suspension for injection in pre-filled syringe
 
 Hepatitis A (inactivated) and hepatitis B (rDNA) (HAB) vaccine (adsorbed)
 
@@ -565,8 +562,8 @@ Lot:
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
@@ -578,8 +575,8 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -605,8 +602,7 @@ EXP:
 
 Lot:
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 1 dose (1 ml)
 
@@ -657,9 +653,7 @@ Vaccination is the best way to protect against these diseases. None of the compo
 - you are allergic to:
 - -the active substances or any of the other ingredients of this medicine (listed in section 6).
 - -neomycin.
-
-Signs of an allergic reaction may include itchy skin rash, shortness of breath and swelling of the face or tongue.
-
+- Signs of an allergic reaction may include itchy skin rash, shortness of breath and swelling of the face or tongue.
 - you have previously had an allergic reaction to any vaccine against hepatitis A and hepatitis B diseases.
 - you have a severe infection with a high temperature (over 38°C).  A minor infection such as a cold should not be a problem, but talk to your doctor first.
 
@@ -687,7 +681,9 @@ If you are pregnant or breast-feeding, think that you may be pregnant or are pla
 
 ## Twinrix Adult contains neomycin and sodium
 
-Please tell your doctor if you have had an allergic reaction to neomycin (antibiotic). This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium- free'.
+Please tell your doctor if you have had an allergic reaction to neomycin (antibiotic).
+
+This vaccine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## 3. How Twinrix Adult is given
 
@@ -804,9 +800,9 @@ Twinrix Adult is available in 1-dose pre-filled syringe with or without separate
 
 Not all pack sizes may be marketed.
 
-## Marketing Authorisation Holder and Manufacturer
-
 <div style=\"page-break-after: always\"></div>
+
+## Marketing Authorisation Holder and Manufacturer
 
 GlaxoSmithKline Biologicals s.a. Rue de l'Institut 89 B-1330 Rixensart Belgium
 
@@ -814,7 +810,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-GlaxoSmithKline Pharmaceuticals SA/NV Tél/Tel: + 32 10 85 52 00
+GlaxoSmithKline Pharmaceuticals s.a./n.v. Tél/Tel: + 32 (0)10 85 52 00
 
 ## България
 
@@ -822,15 +818,15 @@ GlaxoSmithKline Biologicals SA Тел.: +359 80018205
 
 ## Česká republika
 
-GlaxoSmithKline s.r.o. Tel: + 420 2 22 00 11 11 cz.info@gsk.com
+GlaxoSmithKline s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
 
 ## Danmark
 
-GlaxoSmithKline Pharma A/S Tlf: + 45 36 35 91 00 dk-info@gsk.com
+GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
 
 ## Deutschland
 
-GlaxoSmithKline GmbH &amp; Co. KG Tel: + 49 (0)89 360448701 produkt.info@gsk.com
+GlaxoSmithKline GmbH &amp; Co. KG Tel: +49 (0)89 36044 8701 produkt.info@gsk.com
 
 ## Eesti
 
@@ -850,17 +846,15 @@ Laboratoire GlaxoSmithKline Tél: + 33 (0) 1 39 17 84 44 diam@gsk.com
 
 ## Hrvatska
 
-GlaxoSmithKline Biologicals SA Tel.: +385 800787089
-
-## Ireland
+GlaxoSmithKline Biologicals SA Tel: +385 800787089
 
 ## Lietuva
 
-GlaxoSmithKline Biologicals SA Tel. +370 80000334
+GlaxoSmithKline Biologicals SA Tel: +370 80000334
 
 ## Luxembourg/Luxemburg
 
-GlaxoSmithKline Pharmaceuticals SA/NV Tél/Tel: + 32 10 85 52 00
+GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien Tél/Tel: + 32 (0)10 85 52 00
 
 ## Magyarország
 
@@ -884,7 +878,9 @@ GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 970750 at.info@gsk.com
 
 ## Polska
 
-GSK Services Sp. z o.o. Tel.: + 48 (22) 576 9000
+GSK Services Sp. z o.o.
+
+Tel.: + 48 (22) 576 9000
 
 ## Portugal
 
@@ -896,21 +892,21 @@ GlaxoSmithKline Biologicals SA
 
 Tel: +40 800672524
 
-## Slovenija
-
-<div style=\"page-break-after: always\"></div>
+## Ireland
 
 GlaxoSmithKline (Ireland) Ltd
 
-GlaxoSmithKline Biologicals SA
-
 Tel: + 353 (0)1 495 5000
+
+## Slovenija
+
+GlaxoSmithKline Biologicals SA
 
 Tel: +386 80688869
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -918,7 +914,7 @@ Sími: +354 535 7000
 
 GlaxoSmithKline Biologicals SA
 
-Tel.: +421 800500589
+Tel: +421 800500589
 
 ## Italia
 
@@ -942,11 +938,9 @@ GlaxoSmithKline Biologicals SA
 
 ## Sverige
 
-GlaxoSmithKline AB
+GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
 
-Tel: + 46 (0)8 638 93 00
-
-info.produkt@gsk.com
+<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -954,19 +948,11 @@ GlaxoSmithKline Biologicals SA
 
 Tel: +371 80205045
 
-## United Kingdom (Northern Ireland)
-
-GlaxoSmithKline Biologicals SA
-
-Tel: +44(0)800 221441
-
-customercontactuk@gsk.com
-
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -984,7 +970,7 @@ The vaccine should be re-suspended following the steps below.
 2. Shake the syringe by tipping it upside down and back again.
 3. Repeat this action vigorously for at least 15 seconds.
 4. Inspect the vaccine again:
-- a. If the vaccine appears as a uniform hazy white suspension, it is ready to use - the appearance should not be clear.
+- a. If the vaccine appears as a uniform hazy white suspension, it is ready to use -the appearance should not be clear.
 - b. If the vaccine still does not appear as a uniform hazy white suspension - tip upside down and back again for at least another 15 seconds - then inspect again.
 
 The vaccine should be inspected visually for any foreign particulate matter and/or abnormal physical appearance prior to administration. In the event of either being observed, do not administer the vaccine.

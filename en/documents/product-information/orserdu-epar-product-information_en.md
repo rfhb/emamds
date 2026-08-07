@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-25 15:52:38
+document_datetime: 2026-08-04 15:43:51
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/orserdu-epar-product-information_en.pdf
 document_name: orserdu-epar-product-information_en.pdf
 version: success
-processing_time: 7.4599803
-conversion_datetime: 2026-03-29 12:31:51.788984
+processing_time: 6.6590096
+conversion_datetime: 2026-08-07 14:23:50.76242
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,17 +28,13 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ORSERDU 86 mg film-coated tablets
-
-ORSERDU 345 mg film-coated tablets
+ORSERDU 86 mg film-coated tablets ORSERDU 345 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 ## ORSERDU 86 mg film-coated tablets
 
-Each film-coated tablet contains elacestrant dihydrochloride equivalent to elacestrant 86.3 mg.
-
-## ORSERDU 345 mg film-coated tablets
+Each film-coated tablet contains elacestrant dihydrochloride equivalent to elacestrant 86.3 mg. ORSERDU 345 mg film-coated tablets
 
 Each film-coated tablet contains elacestrant dihydrochloride equivalent to elacestrant 345 mg. For the full list of excipients, see section 6.1.
 
@@ -136,7 +132,7 @@ No dose adjustment is required on the basis of patient age. Limited data are ava
 
 ## Hepatic impairment
 
-No dose adjustment is recommended for patients with mild hepatic impairment (Child-Pugh A) . In patients with moderate hepatic impairment (Child-Pugh B) , ORSERDU dose should be reduced to 258 mg. Elacestrant has not been studied in patients with severe hepatic impairment (Child-Pugh C) , therefore no dose recommendation can be made for patients with severe hepatic impairment (see section 4.4).
+No dose adjustment is recommended for patients with mild hepatic impairment (Child-Pugh A) . In patients with moderate hepatic impairment (Child-Pugh B) , ORSERDU dose should be reduced to 258 mg. In patients with severe hepatic impairment (Child-Pugh C) , ORSERDU dose should be reduced to 86 mg. (see section 4.4 and 5.2).
 
 ## Renal impairment
 
@@ -162,7 +158,7 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## Hepatic impairment
 
-ORSERDU is metabolised by the liver, and impaired hepatic function can increase the risk for adverse reactions. Therefore, ORSERDU should be used cautiously in patients with hepatic impairment and patients should be regularly and closely monitored for adverse reactions. Administration of elacestrant should be undertaken with caution at a dose of 258 mg once daily in patients with moderate hepatic impairment (see section 4.2). In the absence of clinical data, elacestrant is not recommended in patients with severe hepatic impairment (Child-Pugh C) (see section 4.2).
+ORSERDU is metabolised by the liver, and impaired hepatic function can increase the risk for adverse reactions. Therefore, ORSERDU should be used cautiously in patients with hepatic impairment and patients should be regularly and closely monitored for adverse reactions. Administration of elacestrant should be undertaken with caution at a dose of 258 mg once daily in patients with moderate hepatic impairment and at a dose of 86 mg once daily in patients with severe hepatic impairment  (see section 4.2).
 
 ## Concomitant use with CYP3A4 inhibitors
 
@@ -268,7 +264,7 @@ Adverse reactions described in the list below reflect exposure to elacestrant in
 
 The adverse reaction frequencies from clinical trials are based on all-cause adverse event frequencies, where a proportion of the events for an adverse reaction may have other causes than the drug, such as the disease, other medication or unrelated causes.
 
-The following convention is used for the classification of the frequency of an adverse drug reaction (ADR) and is based on the Council for International Organizations of Medical Sciences (CIOMS) guidelines: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data).
+The following convention is used for the classification of the frequency of an adverse drug reaction (ADR) and is based on the Council for International Organizations of Medical Sciences (CIOMS) guidelines: very common (≥ 1/10) ; common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data).
 
 Table 3. Adverse reactions in patients treated with elacestrant monotherapy 345 mg in metastatic breast cancer
 
@@ -299,7 +295,7 @@ Table 3. Adverse reactions in patients treated with elacestrant monotherapy 345 
 | Investigations | Very common          | Aspartate aminotransferase increased, Triglycerides increased, Cholesterol increased, |
 |                | Common               | Blood alkaline phosphatase increased                                                  |
 
-ADRs listed by system organ class and by decreasing frequency..
+ADRs listed by system organ class and by decreasing frequency.
 
 ## Description of selected adverse reactions
 
@@ -327,7 +323,7 @@ Pharmacotherapeutic group: Endocrine therapy, anti estrogen, ATC code: L02BA04
 
 ## Mechanism of action
 
-Elacestrant, a tetrahydronaphthalene compound, is a potent, selective and orally active estrogen receptorα (ER α ) antagonist and degrader.
+Elacestrant, a tetrahydronaphthalene compound, is a potent, selective and orally active estrogen receptorα ( ER α) antagonist and degrader.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -393,7 +389,7 @@ Elacestrant is a substrate of P-gp. The transport is saturated at the dosages of
 
 ## Distribution
 
-Plasma protein binding of elacestrant is &gt; 99% and independent of concentration and hepatic impairment status. Elacestrant penetrates the blood brain barrier in a dose-dependent manner. Following once daily administration of elacestrant for 7 consecutive days, median concentrations of elacestrant in the cerebrospinal fluid were 0.0966 ng/mL and 0.155 ng/mL at the doses of 200 and 500 mg, respectively.
+Plasma protein binding of elacestrant is &gt; 99% and independent of concentration. Elacestrant penetrates the blood brain barrier in a dose-dependent manner. Following once daily administration of elacestrant for 7 consecutive days, median concentrations of elacestrant in the cerebrospinal fluid were 0.0966 ng/mL and 0.155 ng/mL at the doses of 200 and 500 mg, respectively.
 
 Based on population pharmacokinetic analysis, elacestrant is extensively distributed in the tissues with an apparent peripheral volume of distribution of 5411 L. The apparent central volume of distribution of elacestrant at steady state is 422 L.
 
@@ -417,11 +413,13 @@ From analyses of population pharmacokinetic data in cancer patients, no dose adj
 
 ## Hepatic impairment
 
-The Cmax and AUC values were similar between subjects in the mild hepatic impairment group (ChildPugh A) and the normal hepatic function group upon single dose administration of elacestrant 176 mg. There were significant increases in AUC0-t (76%) and AUC0-∞ (83%) in the moderate hepatic impairment group (Child-Pugh B) compared to the normal hepatic function group. The Cmax values were similar between the normal and moderate impairment groups.
+In hepatic impairment clinical studies, the Cmax and AUC values were similar between subjects in the mild hepatic impairment group (Child-Pugh A) and the normal hepatic function group upon single dose administration of elacestrant 172 mg. There were significant increases in AUC0-t (76%) and AUC0-∞ (83%) in the moderate hepatic impairment group (Child-Pugh B) compared to the normal hepatic function group. The Cmax values were similar between the normal and moderate impairment groups.
 
-The geometric mean elimination half-life (t1/2) tended to increase with increasing severity of hepatic impairment. Elacestrant has not been studied in subjects with severe hepatic impairment (ChildPugh C).
+Protein binding is not affected by mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment.  In subjects with severe hepatic impairment (Child-Pugh C), a trend of decrease in protein binding was observed with a 64% higher mean fraction unbound compared to subjects with normal hepatic function.
 
-In PBPK modeling simulation of elacestrant at 345 mg, the steady state AUC and Cmax were predicted to increase by 2.14- and 1.92-fold, respectively, in subjects with moderate hepatic impairment compared to patients with normal hepatic function.
+In the severe hepatic impairment group (Child-Pugh C), a significant increase in unbound exposure was observed with higher AUC0-t (385%) and AUC0-∞ (485%) compared to the normal hepatic function group. No significant differences in unbound Cmax values were observed between subjects with severe hepatic impairment and subjects with normal hepatic function. See section 4.2 for dosing recommendation.
+
+The geometric mean elimination half-life (t1/2) tended to increase with increasing severity of hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
@@ -439,36 +437,59 @@ In embryo-foetal development studies in rats, oral administration of elacestrant
 
 ## Tablet core
 
-Microcrystalline cellulose [E460] Silicified microcrystalline cellulose Crospovidone [E1202] Magnesium stearate [E470b] Colloidal silicon dioxide [E551]
+Microcrystalline cellulose [E460]
 
 <div style=\"page-break-after: always\"></div>
 
-| Film-coating                                                                                                                                                        | Film-coating                                                                                                                                                        |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Opadry II 85F105080 Blue containing polyvinyl alcohol [E1203], titanium dioxide [E171], macrogol [E1521], talc [E553b] and brilliant blue FCF aluminium lake [E133] | Opadry II 85F105080 Blue containing polyvinyl alcohol [E1203], titanium dioxide [E171], macrogol [E1521], talc [E553b] and brilliant blue FCF aluminium lake [E133] |
-| 6.2                                                                                                                                                                 | Incompatibilities                                                                                                                                                   |
-| Not applicable.                                                                                                                                                     | Not applicable.                                                                                                                                                     |
-| 6.3                                                                                                                                                                 | Shelf life                                                                                                                                                          |
-| 3 years                                                                                                                                                             | 3 years                                                                                                                                                             |
-| 6.4                                                                                                                                                                 | Special precautions for storage                                                                                                                                     |
-| This medicinal product does not require any special storage conditions.                                                                                             | This medicinal product does not require any special storage conditions.                                                                                             |
-| 6.5                                                                                                                                                                 | Nature and contents of container                                                                                                                                    |
-| ORSERDU is packaged in aluminium-aluminium blisters packed into a cardboard box.                                                                                    | ORSERDU is packaged in aluminium-aluminium blisters packed into a cardboard box.                                                                                    |
-| ORSERDU 86 mg film-coated tablets                                                                                                                                   | ORSERDU 86 mg film-coated tablets                                                                                                                                   |
-| Packs containing 28 film-coated tablets: 4 blisters with 7 tablets each                                                                                             | Packs containing 28 film-coated tablets: 4 blisters with 7 tablets each                                                                                             |
-| ORSERDU 345 mg film-coated tablets                                                                                                                                  | ORSERDU 345 mg film-coated tablets                                                                                                                                  |
-| Packs containing 28 film-coated tablets: 4 blisters with 7 tablets each                                                                                             | Packs containing 28 film-coated tablets: 4 blisters with 7 tablets each                                                                                             |
-| 6.6                                                                                                                                                                 | Special precautions for disposal                                                                                                                                    |
-| Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                                                         | Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                                                         |
-| 7.                                                                                                                                                                  | MARKETINGAUTHORISATION HOLDER                                                                                                                                       |
-| Stemline Therapeutics B.V. Basisweg 10 1043 APAmsterdam The Netherlands                                                                                             | Stemline Therapeutics B.V. Basisweg 10 1043 APAmsterdam The Netherlands                                                                                             |
-| 8.                                                                                                                                                                  | MARKETINGAUTHORISATION NUMBER(S)                                                                                                                                    |
-| EU/1/23/1757/001 EU/1/23/1757/002                                                                                                                                   | EU/1/23/1757/001 EU/1/23/1757/002                                                                                                                                   |
-| 9.                                                                                                                                                                  | DATE OFFIRSTAUTHORISATION/RENEWALOFTHEAUTHORISATION                                                                                                                 |
+Silicified microcrystalline cellulose Crospovidone [E1202] Magnesium stearate [E470b] Colloidal silicon dioxide [E551]
 
-Date of first authorisation:15 September 2023
+Film-coating
+
+Opadry II 85F105080 Blue containing polyvinyl alcohol [E1203], titanium dioxide [E171], macrogol [E1521], talc [E553b] and brilliant blue FCF aluminium lake [E133]
+
+## 6.2 Incompatibilities
+
+Not applicable.
+
+## 6.3 Shelf life
+
+3 years
+
+## 6.4 Special precautions for storage
+
+This medicinal product does not require any special storage conditions.
+
+## 6.5 Nature and contents of container
+
+ORSERDU is packaged in aluminium-aluminium blisters packed into a cardboard box.
+
+ORSERDU 86 mg film-coated tablets
+
+Packs containing 28 film-coated tablets: 4 blisters with 7 tablets each
+
+ORSERDU 345 mg film-coated tablets
+
+Packs containing 28 film-coated tablets: 4 blisters with 7 tablets each
+
+## 6.6 Special precautions for disposal
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+Stemline Therapeutics B.V. Basisweg 10 1043 AP Amsterdam The Netherlands
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/23/1757/001
+
+EU/1/23/1757/002
 
 <div style=\"page-break-after: always\"></div>
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 15 September 2023
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -588,7 +609,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 ORSERDU 86 mg
 
@@ -606,18 +627,18 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARSTOAPPEAR ON BLISTERS OR STRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAME OFTHE MEDICINALPRODUCT   |
-|------|-------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-| 2.   | NAME OFTHE MARKETINGAUTHORISATION HOLDER   |
-|------|--------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
-| 3.   | EXPIRYDATE   |
-|------|--------------|
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
@@ -635,7 +656,7 @@ ORSERDU 86 mg film-coated tablets elacestrant
 
 Stemline Therapeutics B.V.
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -673,7 +694,7 @@ Oral use.
 
 Read the package leaflet before use.
 
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -743,9 +764,6 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| 5.   | OTHER   |
-|------|---------|
-
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
@@ -774,7 +792,8 @@ This medicine is subject to additional monitoring. This will allow quick identif
 3. How to take ORSERDU
 4. Possible side effects
 5. How to store ORSERDU
-6. Contents of the pack and other information
+6. 6.
+7. Contents of the pack and other information
 
 ## 1. What ORSERDU is and what it is used for
 
@@ -790,11 +809,9 @@ Your doctor will take a sample of your blood, which will be tested for these ESR
 
 ## How ORSERDU works
 
-Oestrogen receptors are a group of proteins found inside the cells. They are activated when the hormone oestrogen binds to them. By binding to these receptors, oestrogen can in some cases stimulate cancer cells to grow and multiply. ORSERDU contains the active substance elacestrant that binds to the oestrogen receptors in the cancer cells and stops them from working. By blocking and
+Oestrogen receptors are a group of proteins found inside the cells. They are activated when the hormone oestrogen binds to them. By binding to these receptors, oestrogen can in some cases stimulate cancer cells to grow and multiply. ORSERDU contains the active substance elacestrant that binds to the oestrogen receptors in the cancer cells and stops them from working. By blocking and destroying oestrogen receptors, ORSERDU can reduce the growth and spread of breast cancer and help to kill cancer cells.
 
 <div style=\"page-break-after: always\"></div>
-
-destroying oestrogen receptors, ORSERDU can reduce the growth and spread of breast cancer and help to kill cancer cells.
 
 If you have any questions about how ORSERDU works or why this medicine has been prescribed for you, ask your doctor, pharmacist, or nurse.
 
@@ -831,8 +848,7 @@ Tell your doctor if you take any of the following medicines:
 - -medicines for fungal infections (such as fluconazole, isavuconazole, itraconazole, ketoconazole, posaconazole, or voriconazole)
 - -medicines for HIV infection (such as efavirenz, etravirine, indinavir, lopinavir, ritonavir, nelfinavir, saquinavir, or telaprevir)
 - -medicines to treat irregular heartbeats (such as digoxin, dronedarone, or quinidine)
-- -
-- medicines used in organ transplantation to prevent rejection (such as cyclosporine)
+- -medicines used in organ transplantation to prevent rejection (such as cyclosporine)
 - -medicines to prevent cardiovascular events and to treat high levels of cholesterol (such as rosuvastatin)
 - -medicines used to prevent seizures (such as carbamazepine, cenobamate, phenobarbital, phenytoin, or primidone)
 - -medicines to treat vomiting (such as aprepitant)
@@ -1005,11 +1021,7 @@ Stemline Therapeutics B.V. Basisweg 10 1043 AP Amsterdam The Netherlands
 
 ## or
 
-Berlin Chemie AG Glienicker Weg 125 12489 Berlin Germany
-
-<div style=\"page-break-after: always\"></div>
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Berlin Chemie AG Glienicker Weg 125 12489 Berlin Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien; България;
 
@@ -1037,6 +1049,8 @@ Stemline Therapeutics B.V.
 
 Tel: +44 (0)800 047 8675
 
+<div style=\"page-break-after: always\"></div>
+
 medicalinformation@menarinistemline.com
 
 ## Česká republika
@@ -1045,11 +1059,7 @@ Berlin-Chemie/A.Menarini Ceska republika s.r.o. Tel: +420 267 199 333 office@ber
 
 ## Deutschland
 
-Menarini Stemline Deutschland GmbH
-
-Tel: +49 (0)800 0008974
-
-medicalinformation@menarinistemline.com
+Menarini Stemline Deutschland GmbH Tel: +49 (0)800 0008974 medicalinformation@menarinistemline.com
 
 ## España
 
@@ -1071,7 +1081,9 @@ Menarini Stemline Italia S.r.l. Tel: +39 800776814 medicalinformation@menarinist
 
 ## Österreich
 
-Stemline Therapeutics B.V. Tel: +43 (0)800 297 649 medicalinformation@menarinistemline.com
+Stemline Therapeutics B.V. Tel: +43 (0)800 297 649
+
+medicalinformation@menarinistemline.com
 
 ## Polska
 
@@ -1079,7 +1091,9 @@ Berlin-Chemie/Menarini Polska Sp. z o.o. Tel.: +48 22 566 21 00 biuro@berlin-che
 
 ## România
 
-Berlin-Chemie A. Menarini S.R.L. Tel: +40 21 232 34 32 romania@berlin-chemie.com
+Berlin-Chemie A. Menarini S.R.L. Tel: +40 21 232 34 32
+
+[romania@berlin-chemie.com](mailto:romania@berlin-chemie.com)
 
 ## Slovenská republika
 

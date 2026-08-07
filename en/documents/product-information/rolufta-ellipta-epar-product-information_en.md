@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-12-12 16:09:09
-document_pages: 39
+document_datetime: 2026-08-05 15:44:18
+document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rolufta-ellipta-epar-product-information_en.pdf
 document_name: rolufta-ellipta-epar-product-information_en.pdf
 version: success
-processing_time: 7.5362872
-conversion_datetime: 2025-12-22 22:03:40.437381
+processing_time: 6.8314079
+conversion_datetime: 2026-08-07 14:22:47.622987
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -62,15 +62,15 @@ Elderly
 
 No dose adjustment is required in patients 65 years of age or older (see section 5.2).
 
-Renal impairment
+## Renal impairment
 
 No dose adjustment is required in patients with renal impairment (see section 5.2).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Hepatic impairment
 
 No dose adjustment is required in patients with mild or moderate hepatic impairment. Umeclidinium has not been studied in patients with severe hepatic impairment and should be used with caution (see section 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -114,11 +114,11 @@ The medicinal product may not be tasted or felt, even when using the inhaler cor
 
 The mouthpiece of the inhaler may be cleaned using a dry tissue before closing the cover.
 
-<div style=\"page-break-after: always\"></div>
-
 ## c) Close the inhaler
 
 Slide the cover upwards as far as it will go, to cover the mouthpiece.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.3 Contraindications
 
@@ -154,17 +154,17 @@ This medicinal product contains lactose. Patients with rare hereditary problems 
 
 Clinically significant interactions mediated by umeclidinium at clinical doses are considered unlikely due to the low plasma concentrations achieved after inhaled dosing.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Other antimuscarinics
 
-Co-administration of umeclidinium with other long acting muscarinic antagonists or medicinal products containing this active substance has not been studied and is not recommended as it may potentiate known inhaled muscarinic antagonist adverse reactions.
+Co-administration of umeclidinium with other long-acting muscarinic antagonists or medicinal products containing this active substance has not been studied and is not recommended as it may potentiate known inhaled muscarinic antagonist adverse reactions.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Metabolic and transporter based interactions
 
 Umeclidinium is a substrate of cytochrome P450 2D6 (CYP2D6). The steady-state pharmacokinetics of umeclidinium were assessed in healthy volunteers lacking CYP2D6 (poor metabolisers). No effect on umeclidinium AUC or Cmax was observed at a dose 4-fold higher than the therapeutic dose. An approximately 1.3-fold increase in umeclidinium AUC was observed at an 8-fold higher dose with no effect on umeclidinium Cmax. Based on the magnitude of these changes, no clinically relevant interaction is expected when umeclidinium is co-administered with CYP2D6 inhibitors or when administered to subjects genetically deficient in CYP2D6 activity (poor metabolisers).
 
-Umeclidinium is a substrate of P-glycoprotein (P-gp) transporter. The effect of the moderate P-gp inhibitor verapamil (240 mg once daily) on the steady-state pharmacokinetics of umeclidinium was assessed in healthy volunteers. No effect of verapamil was observed on umeclidinium Cmax. An approximately 1.4-fold increase in umeclidinium AUC was observed. Based on the magnitude of these changes, no clinically relevant interaction is expected when umeclidinium is co-administered with Pgp inhibitors.
+Umeclidinium is a substrate of P-glycoprotein (P-gp) transporter. The effect of the moderate P-gp inhibitor verapamil (240 mg once daily) on the steady-state pharmacokinetics of umeclidinium was assessed in healthy volunteers. No effect of verapamil was observed on umeclidinium Cmax. An approximately 1.4-fold increase in umeclidinium AUC was observed. Based on the magnitude of these changes, no clinically relevant interaction is expected when umeclidinium is co-administered with P-gp inhibitors.
 
 ## Other medicinal products for COPD
 
@@ -188,17 +188,17 @@ A decision must be made whether to discontinue breast-feeding or to discontinue 
 
 There are no data on the effects of umeclidinium on human fertility. Animal studies indicate no effects of umeclidinium on fertility.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.7 Effects on ability to drive and use machines
 
 Umeclidinium has no or negligible influence on the ability to drive and use machines.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-The most frequently reported adverse reactions are nasopharyngitis (6%) and upper respiratory tract infection (5%).
+The most frequently reported adverse reactions are nasopharyngitis (6 %) and upper respiratory tract infection (5 %).
 
 ## Tabulated list of adverse reactions
 
@@ -206,7 +206,7 @@ The safety profile of umeclidinium was evaluated in patients with COPD who recei
 
 The frequencies assigned to the adverse reactions identified in the table below include crude incidence rates observed from efficacy studies, the long-term safety study (which involved patients who received umeclidinium), post-marketing studies and spontaneous reporting.
 
-The frequency of adverse reactions is defined using the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000) and not known (cannot be estimated from available data).
+The frequency of adverse reactions is defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000) and not known (frequency cannot be estimated from the available data).
 
 | System Organ Class                              | Adverse reactions                                                                                                  | Frequency                                  |
 |-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -219,11 +219,11 @@ The frequency of adverse reactions is defined using the following convention: ve
 | Gastrointestinal disorders                      | Constipation Dry mouth                                                                                             | Common Uncommon                            |
 | Renal and urinary disorders                     | Urinary retention Dysuria                                                                                          | Not known Not known                        |
 
-<div style=\"page-break-after: always\"></div>
-
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -239,87 +239,83 @@ Pharmacotherapeutic group: Drugs for obstructive airway diseases, anticholinergi
 
 ## Mechanism of action
 
-Umeclidinium is a long acting muscarinic receptor antagonist (also referred to as an anticholinergic). It is a quinuclidine derivative that is a muscarinic receptor antagonist with activity across multiple muscarinic cholinergic receptor subtypes. Umeclidinium exerts its bronchodilatory activity by competitively inhibiting the binding of acetylcholine with muscarinic cholinergic receptors on airway smooth muscle. It demonstrates slow reversibility at the human M3 muscarinic receptor subtype in vitro and a long duration of action in vivo when administered directly to the lungs in pre-clinical models.
+Umeclidinium is a long-acting muscarinic receptor antagonist (also referred to as an anticholinergic). It is a quinuclidine derivative that is a muscarinic receptor antagonist with activity across multiple muscarinic cholinergic receptor subtypes. Umeclidinium exerts its bronchodilatory activity by competitively inhibiting the binding of acetylcholine with muscarinic cholinergic receptors on airway smooth muscle. It demonstrates slow reversibility at the human M3 muscarinic receptor subtype in vitro and a long duration of action in vivo when administered directly to the lungs in pre-clinical models.
 
 ## Pharmacodynamic effects
 
-In a Phase III, 6-month study (DB2113373) umeclidinium provided a clinically meaningful improvement over placebo in lung function (as measured by forced expiratory volume in 1 second [FEV1]) over 24 hours following once daily administration, which was evident at 30 minutes following administration of the first dose (improvement over placebo by 102 mL, p&lt;0.001 * ). The mean peak improvements in FEV1 within the first 6 hours following dosing relative to placebo were 130 mL (p&lt;0.001 * ) at week 24. There was no evidence for tachyphylaxis in the effect of umeclidinium over time.
+In a Phase III, 6-month study (DB2113373) umeclidinium provided a clinically meaningful improvement over placebo in lung function (as measured by forced expiratory volume in 1 second [FEV1]) over 24 hours following once daily administration, which was evident at 30 minutes following administration of the first dose (improvement over placebo by 102 mL, p &lt; 0.001 * ). The mean peak improvements in FEV1 within the first 6 hours following dosing relative to placebo were 130 mL (p &lt; 0.001 * ) at week 24. There was no evidence for tachyphylaxis in the effect of umeclidinium over time.
 
 ## Cardiac electrophysiology
 
-The effect of umeclidinium 500 micrograms (pre-dispensed) on the QT interval was evaluated in a placebo- and moxifloxacin-controlled QT trial of 103 healthy volunteers. Following repeat doses of
-
-* A step-down statistical testing procedure was used in this study and this comparison was below a comparison that did not achieve statistical significance. Therefore, statistical significance on this comparison cannot be inferred.
-
-<div style=\"page-break-after: always\"></div>
-
-umeclidinium 500 micrograms once daily for 10 days, no clinically relevant effect on prolongation of QT interval (corrected using the Fridericia method) or effects on heart rate were observed.
+The effect of umeclidinium 500 micrograms (pre-dispensed) on the QT interval was evaluated in a placeboand moxifloxacin-controlled QT trial of 103 healthy volunteers. Following repeat doses of umeclidinium 500 micrograms once daily for 10 days, no clinically relevant effect on prolongation of QT interval (corrected using the Fridericia method) or effects on heart rate were observed.
 
 ## Clinical efficacy and safety
 
 The clinical efficacy of umeclidinium administered once daily was evaluated in 904 adult patients who received umeclidinium or placebo from two pivotal Phase III clinical studies with a clinical diagnosis of COPD; a 12-week study (AC4115408) and a 24-week study (DB2113373).
 
-## Pivotal efficacy studies:
+## Pivotal efficacy studies
 
 ## Effects on lung function
 
 In both of the pivotal 12-week and 24-week studies, umeclidinium demonstrated statistically significant and clinically meaningful improvements in lung function (as defined by change from baseline trough FEV1 at week 12 and week 24 respectively, which was the primary efficacy endpoint in each study) compared with placebo (see Table 1 ). The bronchodilatory effects with umeclidinium compared with placebo were evident after the first day of treatment in both studies and were maintained over the 12-week and 24-week treatment periods.
 
+* A step-down statistical testing procedure was used in this study and this comparison was below a comparison that did not achieve statistical significance. Therefore, statistical significance on this comparison cannot be inferred.
+
+<div style=\"page-break-after: always\"></div>
+
 There was no attenuation of the bronchodilator effect over time.
 
 Table 1: Trough FEV1 (mL) at week 12 and week 24 (primary endpoint)
 
-| Treatment with umeclidinium 55 mcg   | 12-week study Treatment difference 1 95% Confidence interval p-value   | 24-week study Treatment difference 1 95% Confidence interval p-value   |
-|--------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
-| Versus                               | 127                                                                    | 115                                                                    |
-| Placebo                              | (52, 202)                                                              | (76, 155)                                                              |
-|                                      | <0.001                                                                 | <0.001                                                                 |
+| Treatment with umeclidinium 55 mcg   | 12-week study Treatment difference 1 95 % Confidence interval p-value   | 24-week study Treatment difference 1 95 % Confidence interval p-value   |
+|--------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Versus                               | 127                                                                     | 115                                                                     |
+| Placebo                              | (52, 202)                                                               | (76, 155)                                                               |
+|                                      | < 0.001                                                                 | < 0.001                                                                 |
 
 mcg = micrograms
 
-1. least squares mean (95% confidence interval)
+1. least squares mean (95 % confidence interval)
 
-Umeclidinium demonstrated a statistically significant greater improvement from baseline in weighted mean FEV1 over 0-6 hours post-dose at week 12 compared with placebo (166 mL, p&lt;0.001) in the 12-Week pivotal study. Umeclidinium demonstrated a greater improvement from baseline in weighted mean FEV1 over 0-6 hours post-dose at week 24 compared with placebo (150 mL, p&lt;0.001 * ) in the 24-week pivotal study.
+Umeclidinium demonstrated a statistically significant greater improvement from baseline in weighted mean FEV1 over 0-6 hours post-dose at week 12 compared with placebo (166 mL, p &lt; 0.001) in the 12-week pivotal study. Umeclidinium demonstrated a greater improvement from baseline in weighted mean FEV1 over 0-6 hours post-dose at week 24 compared with placebo (150 mL, p &lt; 0.001 * ) in the 24-week pivotal study.
 
-## Symptomatic outcomes
+Symptomatic outcomes
 
-## Breathlessness:
+## Breathlessness
 
-In the 12-week study, a statistically significant improvement compared with placebo in the TDI focal score at week 12 was not demonstrated for umeclidinium (1.0 units, p=0.05). A statistically significant improvement compared with placebo in the TDI focal score at week 24 was demonstrated for umeclidinium (1.0 units, p&lt;0.001) in the 24-week study.
+In the 12-week study, a statistically significant improvement compared with placebo in the TDI focal score at week 12 was not demonstrated for umeclidinium (1.0 units, p = 0.05). A statistically significant improvement compared with placebo in the TDI focal score at week 24 was demonstrated for umeclidinium (1.0 units, p &lt; 0.001) in the 24-week study.
 
-The proportion of patients who responded with at least the minimum clinically important difference (MCID) of 1 unit TDI focal score at week 12 was greater for umeclidinium (38%) compared with placebo (15%) in the 12-week study. Similarly, a greater proportion of patients achieved  1 unit TDI focal score for umeclidinium (53%) compared with placebo (41%) at week 24 in the 24-week study.
+The proportion of patients who responded with at least the minimum clinically important difference (MCID) of 1 unit TDI focal score at week 12 was greater for umeclidinium (38 %) compared with placebo (15 %) in the 12-week study. Similarly, a greater proportion of patients achieved  1 unit TDI focal score for umeclidinium (53 %) compared with placebo (41 %) at week 24 in the 24-week study.
+
+## Health-related quality of life
+
+Umeclidinium also demonstrated a statistically significant improvement in health-related quality of life measured using the St. George's Respiratory Questionnaire (SGRQ) as indicated by a reduction in SGRQ total score at week 12 compared with placebo (-7.90 units, p &lt; 0.001) in the 12-week study. A greater improvement compared with placebo in the change from baseline in SGRQ total score at week 24 was demonstrated for umeclidinium (-4.69 units, p &lt; 0.001  ) in the 24-week study.
+
+The proportion of patients who responded with at least the MCID in SGRQ score (defined as a decrease of 4 units from baseline) at week 12 was greater for umeclidinium 55 micrograms (44 %) compared with placebo (26 %) in the 12-week study. Similarly, a greater proportion of patients achieved at least the MCID for umeclidinium at week 24 (44 %) compared with placebo (34 %) in the 24-week study.
+
+* A step-down statistical testing procedure was used in this study and this comparison was below a comparison that did not achieve statistical significance. Therefore, statistical significance on this comparison cannot be inferred.
 
 * A step-down statistical testing procedure was used in this study and this comparison was below a comparison that did not achieve statistical significance. Therefore, statistical significance on this comparison cannot be inferred.
 
 <div style=\"page-break-after: always\"></div>
-
-## Health-related quality of life :
-
-Umeclidinium also demonstrated a statistically significant improvement in health-related quality of life measured using the St. George's Respiratory Questionnaire (SGRQ) as indicated by a reduction in SGRQ total score at week 12 compared with placebo (-7.90 units, p&lt;0.001) in the 12-week study. A greater improvement compared with placebo in the change from baseline in SGRQ total score at week 24 was demonstrated for umeclidinium (-4.69 units, p&lt;0.001  ) in the 24-week study.
-
-The proportion of patients who responded with at least the MCID in SGRQ score (defined as a decrease of 4 units from baseline) at week 12 was greater for umeclidinium 55 micrograms (44%) compared with placebo (26%) in the 12-week study. Similarly, a greater proportion of patients achieved at least the MCID for umeclidinium at week 24 (44%) compared with placebo (34%) in the 24-week study.
 
 ## COPD exacerbations
 
-In the 24-week placebo-controlled study in patients with symptomatic COPD, umeclidinium reduced the risk of a moderate/severe COPD exacerbation by 40% compared with placebo (analysis of time to first exacerbation; Hazard Ratio 0.6; 95% CI: 0.4, 1.0, p=0.035 * ). The probability of having an exacerbation in patients receiving umeclidinium at Week 24 was 8.9% compared with 13.7% for placebo. These studies were not specifically designed to evaluate the effect of treatments on COPD exacerbations and patients were withdrawn from the study if an exacerbation occurred.
+In the 24-week placebo-controlled study in patients with symptomatic COPD, umeclidinium reduced the risk of a moderate/severe COPD exacerbation by 40 % compared with placebo (analysis of time to first exacerbation; Hazard Ratio 0.6; 95 % CI: 0.4, 1.0, p = 0.035 * ). The probability of having an exacerbation in patients receiving umeclidinium at week 24 was 8.9 % compared with 13.7 % for placebo. These studies were not specifically designed to evaluate the effect of treatments on COPD exacerbations and patients were withdrawn from the study if an exacerbation occurred.
 
 ## Use of rescue medicinal product
 
-In the 12-week study, umeclidinium statistically significantly reduced the use of rescue medication with salbutamol compared with placebo (on average a reduction of 0.7 puffs per day over weeks 1-12, p=0.025) and demonstrated a higher percentage of days when no rescue medication was needed (on average 46.3%) compared with placebo (on average 35.2%; no formal statistical analysis was performed on this endpoint). In the 24-week study treatment with umeclidinium, the mean (SD) change from baseline in the number of puffs of rescue salbutamol over the 24-week treatment period was -1.4 (0.20) for placebo and -1.7 (0.16) for umeclidinium (Difference = -0.3; 95% CI: -0.8, 0.2, p=0.276). Patients receiving umeclidinium had a higher percentage of days when no rescue medication was needed (on average 31.1%) compared with placebo (on average 21.7%). No formal statistical testing was performed on this endpoint.
+In the 12-week study, umeclidinium statistically significantly reduced the use of rescue medication with salbutamol compared with placebo (on average a reduction of 0.7 puffs per day over weeks 1-12, p = 0.025) and demonstrated a higher percentage of days when no rescue medication was needed (on average 46.3 %) compared with placebo (on average 35.2 %; no formal statistical analysis was performed on this endpoint). In the 24-week study treatment with umeclidinium, the mean (SD) change from baseline in the number of puffs of rescue salbutamol over the 24-week treatment period was -1.4 (0.20) for placebo and -1.7 (0.16) for umeclidinium (Difference = -0.3; 95 % CI: -0.8, 0.2, p = 0.276). Patients receiving umeclidinium had a higher percentage of days when no rescue medication was needed (on average 31.1 %) compared with placebo (on average 21.7 %). No formal statistical testing was performed on this endpoint.
 
 ## Supporting efficacy studies
 
-In a randomised, double-blind, 52-week study (CTT116855, IMPACT) of 10,355 adult patients with symptomatic COPD and a history of 1 or more moderate or severe exacerbations within the prior 12 months, treatment with fluticasone furoate/umeclidinium/vilanterol (FF/UMEC/VI 92/55/22 micrograms) once daily as a single inhaler was compared with fluticasone furoate/vilanterol (FF/VI 92/22 micrograms) once daily as a single inhaler. The primary endpoint was annual rate of ontreatment moderate and severe exacerbations in subjects treated with FF/UMC/VI compared with FF/VI. The mean annual rate of exacerbations was 0.91 and 1.07 for FF/UMEC/VI and FF/VI respectively (Rate Ratio: 0.85; 95% CI: 0.80, 0.90; p&lt;0.001).
+In a randomised, double-blind, 52-week study (CTT116855, IMPACT) of 10 355 adult patients with symptomatic COPD and a history of 1 or more moderate or severe exacerbations within the prior 12 months, treatment with fluticasone furoate/umeclidinium/vilanterol (FF/UMEC/VI 92/55/22 micrograms) once daily as a single inhaler was compared with fluticasone furoate/vilanterol (FF/VI 92/22 micrograms) once daily as a single inhaler. The primary endpoint was annual rate of ontreatment moderate and severe exacerbations in subjects treated with FF/UMC/VI compared with FF/VI. The mean annual rate of exacerbations was 0.91 and 1.07 for FF/UMEC/VI and FF/VI respectively (Rate Ratio: 0.85; 95 % CI: 0.80, 0.90; p &lt; 0.001).
 
-At week 52, a statistically significant improvement in the least-squares (LS) mean change from baseline in trough FEV1 was observed for FF/UMEC/VI compared with FF/VI (mean change: +94 mL vs. -3 mL; treatment difference: 97 mL; 95% CI: 85, 109; p&lt;0.001).
+At week 52, a statistically significant improvement in the least-squares (LS) mean change from baseline in trough FEV1 was observed for FF/UMEC/VI compared with FF/VI (mean change: +94 mL vs. -3 mL; treatment difference: 97 mL; 95 % CI: 85, 109; p &lt; 0.001).
 
-In two 12-week, placebo controlled studies (200109 and 200110), the addition of umeclidinium to fluticasone furoate/vilanterol (FF/VI) (92/22 micrograms) once daily in adult patients with a clinical diagnosis of COPD, resulted in statistically significant and clinically meaningful improvements in the primary endpoint of trough FEV1 at Day 85 compared to placebo plus FF/VI (124 mL 95% CI: 93, 154; p&lt;0.001 and 122 mL 95% CI: 91, 152; p&lt;0.001).
+In two 12-week, placebo controlled studies (200109 and 200110), the addition of umeclidinium to fluticasone furoate/vilanterol (FF/VI) (92/22 micrograms) once daily in adult patients with a clinical diagnosis of COPD, resulted in statistically significant and clinically meaningful improvements in the primary endpoint of trough FEV1 at Day 85 compared to placebo plus FF/VI (124 mL 95 % CI: 93, 154; p &lt; 0.001 and 122 mL 95 % CI: 91, 152; p &lt; 0.001).
 
-* A step-down statistical testing procedure was used in this study and this comparison was below a comparison that did not achieve statistical significance. Therefore, statistical significance on this comparison cannot be inferred.
-
-<div style=\"page-break-after: always\"></div>
-
-Improvements in lung function were supported with reductions in use of salbutamol over weeks 1-12 (-0.4 puffs per day (95% CI: -0.7, -0.2; p&lt;0.001) and -0.3 puffs per day (95% CI: -0.5, -0.1; p=0.003) compared to placebo plus FF/VI but improvements in SGRQ at week 12 were not statistically significant (200109) or clinically relevant (200109 and 200110). The short duration of these two studies and limited number of exacerbation events, preclude any conclusion regarding additional effect of umeclidinium on COPD exacerbation rate.
+Improvements in lung function were supported with reductions in use of salbutamol over weeks 1-12 (0.4 puffs per day (95 % CI: -0.7, -0.2; p &lt; 0.001) and -0.3 puffs per day (95 % CI: -0.5, -0.1; p = 0.003) compared to placebo plus FF/VI but improvements in SGRQ at week 12 were not statistically significant (200109) or clinically relevant (200109 and 200110). The short duration of these two studies and limited number of exacerbation events, preclude any conclusion regarding additional effect of umeclidinium on COPD exacerbation rate.
 
 No new adverse drug reactions were identified with the addition of umeclidinium to FF/VI in these studies.
 
@@ -329,13 +325,15 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## 5.2 Pharmacokinetic properties
 
+<div style=\"page-break-after: always\"></div>
+
 ## Absorption
 
-Following inhaled administration of umeclidinium in healthy volunteers, Cmax occurred at 5 to 15 minutes. The absolute bioavailability of inhaled umeclidinium was on average 13% of the dose, with negligible contribution from oral absorption. Following repeat dosing of inhaled umeclidinium, steady state was achieved within 7 to 10 days with 1.5 to 1.8-fold accumulation.
+Following inhaled administration of umeclidinium in healthy volunteers, Cmax occurred at 5 to 15 minutes. The absolute bioavailability of inhaled umeclidinium was on average 13 % of the dose, with negligible contribution from oral absorption. Following repeat dosing of inhaled umeclidinium, steady state was achieved within 7 to 10 days with 1.5 to 1.8-fold accumulation.
 
 ## Distribution
 
-Following intravenous administration to healthy subjects, the mean volume of distribution was 86 litres. In vitro plasma protein binding in human plasma was on average 89%.
+Following intravenous administration to healthy subjects, the mean volume of distribution was 86 litres. In vitro plasma protein binding in human plasma was on average 89 %.
 
 ## Biotransformation
 
@@ -343,19 +341,17 @@ In vitro studies showed that umeclidinium is principally metabolised by cytochro
 
 ## Elimination
 
-Plasma clearance following intravenous administration was 151 litres/hour. Following intravenous administration, approximately 58% of the administered radiolabelled dose (or 73% of the recovered radioactivity) was excreted in faeces by 192 hours post-dose. Urinary elimination accounted for 22% of the administered radiolabelled dose by 168 hours (27% of recovered radioactivity). The excretion of the material in the faeces following intravenous dosing indicated secretion into the bile. Following oral administration to healthy male subjects, total radioactivity was excreted primarily in faeces (92% of the administered radiolabelled dose or 99% of the recovered radioactivity) by 168 hours post-dose. Less than 1% of the orally administered dose (1% of recovered radioactivity) was excreted in urine, suggesting negligible absorption following oral administration. Umeclidinium plasma elimination half-life following inhaled dosing for 10 days averaged 19 hours, with 3% to 4% active substance excreted unchanged in urine at steady-state.
-
-<div style=\"page-break-after: always\"></div>
+Plasma clearance following intravenous administration was 151 litres/hour. Following intravenous administration, approximately 58 % of the administered radiolabelled dose (or 73 % of the recovered radioactivity) was excreted in faeces by 192 hours post-dose. Urinary elimination accounted for 22 % of the administered radiolabelled dose by 168 hours (27 % of recovered radioactivity). The excretion of the material in the faeces following intravenous dosing indicated secretion into the bile. Following oral administration to healthy male subjects, total radioactivity was excreted primarily in faeces (92 % of the administered radiolabelled dose or 99 % of the recovered radioactivity) by 168 hours post-dose. Less than 1 % of the orally administered dose (1 % of recovered radioactivity) was excreted in urine, suggesting negligible absorption following oral administration. Umeclidinium plasma elimination half-life following inhaled dosing for 10 days averaged 19 hours, with 3 % to 4 % active substance excreted unchanged in urine at steady-state.
 
 ## Special populations
 
 ## Elderly
 
-A population pharmacokinetic analysis showed that pharmacokinetics of umeclidinium are similar between COPD patients 65 years and older and those younger than 65 years of age.
+A population pharmacokinetic analysis showed that pharmacokinetics of umeclidinium are similar between COPD patients 65 years or older and those younger than 65 years of age.
 
 ## Renal impairment
 
-Subjects with severe renal impairment (creatinine clearance &lt;30 mL/min) showed no evidence of an increase in systemic exposure to umeclidinium (Cmax and AUC), and no evidence of altered protein binding between subjects with severe renal impairment and healthy volunteers.
+Subjects with severe renal impairment (creatinine clearance &lt; 30 mL/min) showed no evidence of an increase in systemic exposure to umeclidinium (Cmax and AUC), and no evidence of altered protein binding between subjects with severe renal impairment and healthy volunteers.
 
 ## Hepatic impairment
 
@@ -364,6 +360,8 @@ Subjects with moderate hepatic impairment (Child-Pugh Class B) showed no evidenc
 ## Other special populations
 
 A population pharmacokinetic analysis showed that no dose adjustment is required for umeclidinium based on the effect of age, race, gender, inhaled corticosteroid use or weight. A study in CYP2D6 poor metabolisers showed no evidence of a clinically significant effect of CYP2D6 genetic polymorphism on systemic exposure to umeclidinium.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -385,19 +383,19 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-2 years.
+2 years
 
-In-use shelf life after opening the tray: 6 weeks.
-
-<div style=\"page-break-after: always\"></div>
+In-use shelf-life after opening the tray: 6 weeks
 
 ## 6.4 Special precautions for storage
 
-Do not store above 30°C. If stored in the refrigerator, allow the inhaler to return to room temperature for at least an hour before use.
+Do not store above 30 °C. If stored in the refrigerator, allow the inhaler to return to room temperature for at least an hour before use.
 
 Keep the inhaler inside the sealed tray in order to protect from moisture and only remove immediately before first use.
 
 Write the date the inhaler should be discarded on the label in the space provided. The date should be added as soon as the inhaler has been removed from the tray.
+
+For storage conditions after first opening of the medicinal product tray, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
@@ -407,7 +405,11 @@ The inhaler is a multi-component device composed of polypropylene, high density 
 
 The inhaler contains one aluminium foil laminate blister of 7 or 30-doses (7 or 30 day supply).
 
-Pack sizes of 1 inhaler with 7 or 30-doses. Multipacks containing 90 (3 inhalers of 30) doses.
+Pack sizes of 1 inhaler with 7 or 30-doses.
+
+<div style=\"page-break-after: always\"></div>
+
+Multipacks containing 90 (3 inhalers of 30) doses.
 
 Not all pack sizes may be marketed.
 
@@ -417,31 +419,35 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services Limited
+
+12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/17/1174/001 EU/1/17/1174/002 EU/1/17/1174/003
+EU/1/17/1174/001
+
+EU/1/17/1174/002
+
+EU/1/17/1174/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 20 th  March 2017
+Date of first authorisation: 20 March 2017
 
-Date of latest renewal: 07
-
-th  January 2022
-
-<div style=\"page-break-after: always\"></div>
+Date of latest renewal: 07 January 2022
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+12
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -455,9 +461,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Glaxo Wellcome Production Zone Industrielle No.2 23 Rue Lavoisier 27000 Evreux
-
-France
+Glaxo Wellcome Production Zone Industrielle No.2 23 Rue Lavoisier 27000 Evreux France
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -488,7 +492,7 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-- A. LABELLING
+## A. LABELLING
 
 <div style=\"page-break-after: always\"></div>
 
@@ -512,19 +516,18 @@ See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Inhalation powder, pre-dispensed
+Inhalation powder, pre-dispensed.
 
-7 doses
+- 7 doses
 
 30 doses
 
-1 inhaler of 7 doses
-
-1 inhaler of 30 doses
+- 1 inhaler of 7 doses
+- 1 inhaler of 30 doses
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Once daily.
+Once daily
 
 Read the package leaflet before use.
 
@@ -544,13 +547,13 @@ Do not swallow the desiccant.
 
 EXP
 
-In-use shelf life: 6 weeks.
-
 <div style=\"page-break-after: always\"></div>
+
+In use shelf-life: 6 weeks.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 30°C.
+Do not store above 30 °C.
 
 Store in the original package in order to protect from moisture.
 
@@ -568,7 +571,9 @@ Dublin 24
 
 Ireland
 
-GlaxoSmithKline Trading Service Limited logo
+D24 YK11
+
+GlaxoSmithKline Trading Services Limited logo
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -588,14 +593,14 @@ Lot
 
 rolufta ellipta
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|----------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -603,7 +608,7 @@ PC SN NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON FOR MULTIPACK (WITH BLUE BOX)
+OUTER CARTON FOR MULTIPACK (WITH BLUE BOX)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -621,13 +626,13 @@ See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Inhalation powder, pre-dispensed
+Inhalation powder, pre-dispensed.
 
 Multipack: 90 (3 inhalers of 30) doses
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Once daily.
+Once daily
 
 Read the package leaflet before use.
 
@@ -647,11 +652,11 @@ Do not swallow the desiccant.
 
 EXP
 
-In-use shelf life: 6 weeks.
+In use shelf-life: 6 weeks.
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 30°C.
+Do not store above 30 °C.
 
 Store in the original package in order to protect from moisture.
 
@@ -669,7 +674,9 @@ Dublin 24
 
 Ireland
 
-GlaxoSmithKline Trading Service Limited logo
+D24 YK11
+
+GlaxoSmithKline Trading Services Limited logo
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -679,7 +686,7 @@ EU/1/17/1174/003
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -723,15 +730,15 @@ See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Inhalation powder, pre-dispensed
+Inhalation powder, pre-dispensed.
 
-1 inhaler of 30 doses
+1 inhaler of 30 doses.
 
-Component of a multipack can't be sold separately.
+Component of a multipack, can't be sold separately.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Once daily.
+Once daily
 
 Read the package leaflet before use.
 
@@ -751,13 +758,13 @@ Do not swallow the desiccant.
 
 EXP
 
-In-use shelf life: 6 weeks.
+In use shelf-life: 6 weeks.
 
 <div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 30°C.
+Do not store above 30 °C.
 
 Store in the original package in order to protect from moisture.
 
@@ -775,6 +782,8 @@ Dublin 24
 
 Ireland
 
+D24 YK11
+
 GlaxoSmithKline Trading Services Limited logo
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
@@ -787,15 +796,14 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 rolufta ellipta
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+17. UNIQUE IDENTIFIER -2D BARCODE
+18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -823,7 +831,7 @@ Lot
 
 Do not open until ready to inhale.
 
-In-use shelf life: 6 weeks.
+In use shelf-life: 6 weeks.
 
 7 doses
 
@@ -843,7 +851,7 @@ Rolufta Ellipta 55 mcg inhalation powder umeclidinium Inhalation use
 
 EXP
 
-In-use shelf life: 6 weeks. Discard by:
+In use shelf-life: 6 weeks. Discard by:
 
 ## 4. BATCH NUMBER
 
@@ -851,7 +859,9 @@ Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-7 doses 30 doses
+7 doses
+
+30 doses
 
 ## 6. OTHER
 
@@ -863,13 +873,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-## Rolufta Ellipta 55 micrograms inhalation powder, pre-dispensed
+## Rolufta Ellipta 55 micrograms inhalation powder, pre-dispensed umeclidinium
 
-## umeclidinium
-
-## Read all of this leaflet carefully before you start using this medicine because it contains important
-
-information for you.
+## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your doctor, pharmacist or nurse.
@@ -884,8 +890,7 @@ information for you.
 4. Possible side effects
 5. How to store Rolufta Ellipta
 6. Contents of the pack and other information
-
-Step-by-step instructions for use
+7. Step-by-step instructions for use
 
 ## 1. What Rolufta Ellipta is and what it is used for
 
@@ -895,21 +900,23 @@ Rolufta Ellipta contains the active substance umeclidinium (as bromide), which b
 
 ## What Rolufta Ellipta is used for
 
-This medicine is used to treat chronic obstructive pulmonary disease ( COPD ) in adults. COPD is a long-term condition in which the airways and air-sacs in the lungs gradually become blocked or damaged, leading to breathing difficulties that slowly get worse. Difficulties in breathing is added to by tightening of the muscles around the airways, which narrows the airways and so restricts the flow of air.
+This medicine is used to treat chronic obstructive pulmonary disease ( COPD ) in adults. COPD is a longterm condition in which the airways and air-sacs in the lungs gradually become blocked or damaged, leading to breathing difficulties that slowly get worse. Difficulties in breathing is added to by tightening of the muscles around the airways, which narrows the airways and so restricts the flow of air.
 
 This medicine blocks the tightening of these muscles, making it easier for air to get in and out of the lungs. When used regularly, it can help control your breathing difficulties and reduce the effects of COPD on your everyday life.
 
-Rolufta Ellipta should not be used to relieve a sudden attack of breathlessness or wheezing. If you get this sort of attack you must use a quick-acting reliever inhaler (such as salbutamol). If you do not have a quick-acting inhaler contact your doctor.
+## Rolufta Ellipta should not be used to relieve a sudden attack of breathlessness or wheezing.
 
-<div style=\"page-break-after: always\"></div>
+If you get this sort of attack you must use a quick-acting reliever inhaler (such as salbutamol). If you do not have a quick-acting inhaler contact your doctor.
 
 ## 2. What you need to know before you use Rolufta Ellipta
 
-## Do not use Rolufta Ellipta:
+## Do not use Rolufta Ellipta
 
 - -if you are allergic to umeclidinium or any of the other ingredients of this medicine (listed in section 6).
 
 If you think the above applies to you, do not use this medicine until you have checked with your doctor.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Warnings and precautions
 
@@ -927,7 +934,7 @@ Check with your doctor if you think any of these may apply to you.
 
 If you get tightness of the chest, coughing, wheezing or breathlessness immediately after using your Rolufta Ellipta inhaler:
 
-## stop using this medicine and seek medical help immediately, as you may have a serious condition called paradoxical bronchospasm .
+stop using this medicine and seek medical help immediately, as you may have a serious condition called paradoxical bronchospasm .
 
 ## Eye problems during treatment with Rolufta Ellipta
 
@@ -955,8 +962,6 @@ It is not known whether the ingredients of Rolufta Ellipta can pass into breast 
 
 It is unlikely that this medicine will affect your ability to drive or use machines.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Rolufta Ellipta contains lactose
 
 If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before using this medicine.
@@ -965,9 +970,11 @@ If you have been told by your doctor that you have an intolerance to some sugars
 
 Always use this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
 
+<div style=\"page-break-after: always\"></div>
+
 The recommended dose is one inhalation every day at the same time of day. You only need to inhale once a day because the effect of this medicine lasts for 24 hours.
 
-## Do not use more than your doctor tells you to use.
+Do not use more than your doctor tells you to use.
 
 ## Use Rolufta Ellipta regularly
 
@@ -977,7 +984,7 @@ Do not use this medicine to relieve a sudden attack of breathlessness or wheezin
 
 ## How to use the inhaler
 
-See 'Step-by-step instructions for use ' at the end of this leaflet for full information.
+See 'Step -by-step instructions for use ' at the end of this leaflet for full information.
 
 Rolufta Ellipta is for inhalation use. To use Rolufta Ellipta, you breathe it into your lungs through your mouth using the Ellipta inhaler.
 
@@ -1007,61 +1014,60 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Allergic reactions
 
-If you have any of the following symptoms after taking Rolufta Ellipta, stop using this medicine and tell your doctor immediately:
+If you have any of the following symptoms after taking Rolufta Ellipta, stop using this medicine and tell your doctor immediately .
 
 ## Uncommon (may affect up to 1 in 100 people):
 
-- itching
-- skin rash ( hives ) or redness.
+- -itching
+- -skin rash ( hives ) or redness.
 
 ## Rare (may affect up to 1 in 1 000 people):
 
-- wheezing, coughing or having difficulty in breathing
-- suddenly feeling weak or light headed (which may lead to collapse or loss of consciousness).
+- -wheezing, coughing or having difficulty in breathing
+
+<div style=\"page-break-after: always\"></div>
+
+- -suddenly feeling weak or light headed (which may lead to collapse or loss of consciousness).
 
 ## Other side effects
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
-- faster heart beat
-- painful and frequent urination (may be signs of a urinary tract infection)
-- common cold
-- infection of nose and throat
-- cough
-- feeling of pressure or pain in the cheeks and forehead (may be signs of inflammation of the sinuses called sinusitis)
-- headache
-- constipation
-- mouth and throat pain.
+- -faster heart beat
+- -painful and frequent urination (may be signs of a urinary tract infection)
+- -common cold
+- -infection of nose and throat
+- -cough
+- -feeling of pressure or pain in the cheeks and forehead (may be signs of inflammation of the sinuses called sinusitis)
+- -headache
+- -constipation
+- -mouth and throat pain.
 
-## Uncommon (may affect up to 1 in 100 people)
+Uncommon (may affect up to 1 in 100 people):
 
-- irregular heart beat
-- sore throat
-- dry mouth
-- taste disturbance
-- hoarseness.
+- -irregular heart beat
+- -sore throat
+- -dry mouth
+- -taste disturbance
+- -hoarseness.
 
-## Rare (may affect up to 1 in 1 000 people)
+Rare (may affect up to 1 in 1 000 people):
 
-- eye pain.
+- -eye pain.
 
-## Not known (frequency cannot be estimated from the available data)
+Not known (frequency cannot be estimated from the available data):
 
-- decrease in vision or pain in your eyes due to high pressure (possible signs of glaucoma)
-- blurred vision
-- increase of the measured eye pressure
-- difficulty and pain when passing urine - these may be signs of a bladder obstruction or urinary retention
-- dizziness.
+- -decrease in vision or pain in your eyes due to high pressure (possible signs of glaucoma)
+- -blurred vision
+- -increase of the measured eye pressure
+- -difficulty and pain when passing urine -these may be signs of a bladder obstruction or urinary retention
+- -dizziness.
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Rolufta Ellipta
 
@@ -1071,9 +1077,11 @@ Do not use this medicine after the expiry date which is stated on the carton, tr
 
 Keep the inhaler inside the sealed tray in order to protect from moisture and only remove immediately before first use. Once the tray is opened, the inhaler can be used for up to 6 weeks, starting from the date of opening the tray. Write the date the inhaler should be thrown away on the label in the space provided. The date should be added as soon as the inhaler has been removed from the tray.
 
-Do not store above 30°C.
+Do not store above 30 °C.
 
 If stored in a refrigerator, allow the inhaler to return to room temperature for at least an hour before use.
+
+<div style=\"page-break-after: always\"></div>
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1081,11 +1089,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Rolufta Ellipta contains
 
-The active substance is umeclidinium (as bromide).
-
-Each single inhalation provides a delivered dose (the dose leaving the mouthpiece) of 55 micrograms umeclidinium (equivalent to 65 micrograms of umeclidinium bromide).
-
-The other ingredients are lactose monohydrate (see section 2 under 'Rolufta Ellipta contains lactose') and magnesium stearate.
+- -The active substance is umeclidinium (as bromide).
+- -Each single inhalation provides a delivered dose (the dose leaving the mouthpiece) of 55 micrograms umeclidinium (equivalent to 65 micrograms of umeclidinium bromide).
+- -The other ingredients are lactose monohydrate (see section 2 under 'Rolufta Ellipta contains lactose') and magnesium stearate.
 
 ## What Rolufta Ellipta looks like and contents of the pack
 
@@ -1097,117 +1103,143 @@ The active substance is present as a white powder in a blister inside the inhale
 
 ## Marketing Authorisation Holder
 
-GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland D24 YK11
 
-Manufacturer Glaxo Wellcome Production Zone Industrielle No.2 23 Rue Lavoisier 27000 Evreux France
+## Manufacturer
 
-<div style=\"page-break-after: always\"></div>
+Glaxo Wellcome Production Zone Industrielle No.2 23 Rue Lavoisier 27000 Evreux
+
+France
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-GlaxoSmithKline Pharmaceuticals s.a./n.v. Tél/Tel: + 32 (0) 10 85 52 00
+## Lietuva
+
+GlaxoSmithKline Pharmaceuticals s.a./n.v. Tél/Tel: + 32 (0)10 85 52 00
+
+UAB 'BERLIN - CHEMIE MENARINI BALTIC' Tel: +370 52 691 947 lt@berlin-chemie.com
 
 ## България
 
-'Берлин-Хеми/А. Менарини България' EООД Teл.: +359 2 454 0950 bcsofia@berlin-chemie.com
+'Берлин - Хеми/А. Менарини България' EООД
 
-## Česká republika
+Te л
 
-GlaxoSmithKline, s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
+.: +359 2 454 0950
 
-## Danmark
-
-GlaxoSmithKline Pharma A/S Tlf: + 45 36 35 91 00 dk-info@gsk.com
-
-## Deutschland
-
-BERLIN-CHEMIE AG Tel: +49 (0) 30 67070
-
-## Eesti
-
-OÜ Berlin-Chemie Menarini Eesti Tel: +372 667 5001 ee@berlin-chemie.com
-
-## Ελλάδα
-
-GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Τηλ: + 30 210 68 82 100
-
-## España
-
-FAES FARMA, S.A. Tel: +34 900 460 153 aweber@faes.es
-
-## France
-
-Laboratoire GlaxoSmithKline Tél: + 33 (0)1 39 17 84 44 diam@gsk.com
-
-## Lietuva
-
-UAB 'BERLIN-CHEMIE MENARINI BALTIC' Tel: +370 52 691 947 lt@berlin-chemie.com
+bcsofia@berlin-chemie.com
 
 ## Luxembourg/Luxemburg
 
-GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien Tél/Tel: + 32 (0) 10 85 52 00
+GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien Tél/Tel: + 32 (0)10 85 52 00
+
+## Česká republika
+
+GlaxoSmithKline, s.r.o.
+
+Tel: + 420 222 001 111
+
+cz.info@gsk.com
 
 ## Magyarország
 
 Berlin-Chemie/A. Menarini Kft. Tel.:+36 23501301 bc-hu@berlin-chemie.com
 
+<div style=\"page-break-after: always\"></div>
+
+## Danmark
+
 ## Malta
 
+GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
+
 GlaxoSmithKline Trading Services Limited Tel: +356 80065004
+
+## Deutschland
+
+BERLIN-CHEMIE AG Tel: +49 (0) 30 67070
 
 ## Nederland
 
 GlaxoSmithKline BV Tel: + 31 (0)33 2081100
 
+## Eesti
+
+OÜ Berlin-Chemie Menarini Eesti Tel: +372 667 5001 ee@berlin-chemie.com
+
 ## Norge
 
 GlaxoSmithKline AS Tlf: + 47 22 70 20 00
+
+## Ελλάδα
+
+GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Τηλ: + 30 210 68 82 100
 
 ## Österreich
 
 GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
 
+## España
+
+FAES FARMA, S.A. Tel: +34 900 460 153 aweber@faes.es
+
 ## Polska
 
 GSK Services Sp. z o.o. Tel.: + 48 (0)22 576 9000
 
+## France
+
+Laboratoire GlaxoSmithKline Tél: + 33 (0)1 39 17 84 44 diam@gsk.com
+
 ## Portugal
 
-GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com
-
-<div style=\"page-break-after: always\"></div>
+GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: +351 21 412 95 00 FI.PT@gsk.com
 
 ## Hrvatska
 
-Berlin-Chemie Menarini Hrvatska d.o.o.
+Berlin-Chemie Menarini Hrvatska d.o.o. Tel: +385 1 4821 361 office-croatia@berlin-chemie.com
 
-Tel: +385 1 4821 361
+## România
 
-office-croatia@berlin-chemie.com
+GlaxoSmithKline Trading Services Limited Tel: +40 800672524
 
 ## Ireland
 
-GlaxoSmithKline (Ireland) Limited
+GlaxoSmithKline (Ireland) Limited Tel: + 353 (0)1 4955000
 
-Tel: + 353 (0)1 4955000
+## Slovenija
+
+Berlin-Chemie / A. Menarini Distribution Ljubljana d.o.o. Tel: +386 (0)1 300 2160 slovenia@berlin-chemie.com
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf. Sími: + 354 535 7000
 
-Sími: + 354 535 7000
+## Slovenská republika
+
+Berlin-Chemie / A. Menarini Distribution Slovakia s.r.o. Tel: +421 2 544 30 730 slovakia@berlin-chemie.com
 
 ## Italia
 
-A. Menarini Industrie Farmaceutiche Riunite s.r.l. Tel: +39-055 56801
+A. Menarini Industrie Farmaceutiche Riunite s.r.l. Tel: +39055 56801
+
+## Suomi/Finland
+
+GlaxoSmithKline Oy Puh/Tel: + 358 (0)10 30 30 30
 
 ## Κύπρος
 
-GlaxoSmithKline Trading ServicesLimited Τηλ: +357 80070017
+GlaxoSmithKline Trading Services Limited Τηλ: +357 80070017
 
-## Latvija
+## Sverige
+
+GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
+
+<div style=\"page-break-after: always\"></div>
+
+Latvija
 
 SIA Berlin-Chemie/Menarini Baltic Tel: +371 67103210 lv@berlin-chemie.com
 
@@ -1215,43 +1247,7 @@ SIA Berlin-Chemie/Menarini Baltic Tel: +371 67103210 lv@berlin-chemie.com
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-## România
-
-GlaxoSmithKline Trading Services Limited
-
-Tel: +40 800672524
-
-## Slovenija
-
-Berlin-Chemie / A. Menarini Distribution Ljubljana d.o.o.
-
-Tel: +386 (0)1 300 2160
-
-slovenia@berlin-chemie.com
-
-## Slovenská republika
-
-Berlin-Chemie / A. Menarini Distribution Slovakia s.r.o.
-
-Tel: +421 2 544 30 730
-
-slovakia@berlin-chemie.com
-
-## Suomi/Finland
-
-GlaxoSmithKline Oy
-
-Puh/Tel: + 358 (0)10 30 30 30
-
-## Sverige
-
-GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
-
-## United Kingdom (Northern Ireland)
-
-GlaxoSmithKline Trading Services Limited Tel: + 44 (0)800 221441 customercontactuk@gsk.com
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1265,15 +1261,15 @@ The first time you use Rolufta Ellipta you do not need to check that the inhaler
 
 <!-- image -->
 
-The inhaler is packaged in a tray. Do not open the tray until you are ready to start using your new inhaler. When you are ready to use your inhaler, peel back the lid to open the tray. The tray contains a desiccant sachet, to reduce moisture. Throw this desiccant sachet away do not open, eat or inhale it.
+The inhaler is packaged in a tray. Do not open the tray until you are ready to start using your new inhaler. When you are ready to use your inhaler, peel back the lid to open the tray. The tray contains a desiccant sachet, to reduce moisture. Throw this desiccant sachet away -do not open, eat or inhale it.
 
 <!-- image -->
 
 When you take the inhaler out of its tray, it will be in the 'closed' position. Do not open the inhaler until you are ready to inhale a dose of medicine . When the tray is opened, write the 'Discard by' date on the inhaler label in the space provided. The 'Discard by' date is 6 weeks from the date you opened the tray. After this date the inhaler should no longer be used. The tray can be discarded after first opening.
 
-<div style=\"page-break-after: always\"></div>
-
 If stored in a refrigerator, allow the inhaler to return to room temperature for at least one hour before use.
+
+<div style=\"page-break-after: always\"></div>
 
 The step-by-step instructions for use of the Ellipta inhaler provided below can be used for either the 30-dose inhaler (30-day supply) or the 7-dose inhaler (7-day supply).
 
@@ -1322,33 +1318,3 @@ If you want to clean the mouthpiece, use a dry tissue , before you close the cov
 <!-- image -->
 
 Slide the cover upwards as far as it will go, to cover the mouthpiece.
-
-<div style=\"page-break-after: always\"></div>
-
-## Annex IV
-
-Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report for the non-interventional imposed PASS final study report for the medicinal products mentioned above, the scientific conclusions of CHMP are as follows:
-
-Rolufta Ellipta, Incruse Ellipta, Anoro Ellipta and Laventair Ellipta (umeclidinium bromide, umeclidinium bromide/vilanterol) are removed from the additional monitoring list as the condition to the marketing authorisation has been fulfilled. This relates to the conduction of a Post-authorisation Safety Observational Cohort Study to quantify the incidence and comparative safety of selected cardiovascular and cerebrovascular events (MI, stroke, heart failure or sudden cardiac death) in COPD patients using inhaled UMEC/VI combination or inhaled UMEC versus Tiotropium (Study 201038) which was imposed as a condition to the Marketing Authorisation (category 1 PASS), due to concerns on cardiovascular and cerebrovascular safety. According to the protocol, the HR (95% CI) were calculated for each treatment comparison; the non-inferiority criterion was the upper bound of the 95% confidence interval (CI) around the hazard ratio not exceeding 2.0 and the lower bound of the 95% CI not exceeding 1.0. Other secondary safety endpoints were studied. Effectiveness outcomes were also evaluated, such as persistence with study medication, frequency of exacerbations.
-
-The adjusted HR (95% CI) for the composite outcome was 1.254 (0.830, 1.896) for UMEC vs. TIO cohorts, and 1.352 (0.952, 1.922) for UMEC/VI vs. TIO. The adjusted HR of UMEC/VI vs TIO is not statistically significant, but close to the established limits. An increased risk of MI was observed in UMEC/VI cohort with respect to tiotropium: adjusted HR of 2.195 (1.053, 4.575). The risk of MI was lower between the UMEC and TIO (adjusted HR (95% CI) of 1.754 (0.748, 4.115)). It is acknowledged that the study was powered to test for differences between cohorts for the primary composite endpoint only and not to test for non-inferiority in the secondary endpoints; however, such difference in the MI risk is to be noted.
-
-COPD, Pneumonia and Lower respiratory tract infection were the most frequently reported events in patients who had received UMEC/VI for longer than one year. The majority of the serious events were attributed to exacerbation complicating advanced stage COPD in most of the cases; excluding a potential relationship with the treatment UMEC/VI.
-
-In conclusion, the PRAC considered that the benefit-risk balance of the concerned medicinal products remained unchanged.
-
-This PASS study was a condition of the marketing authorisations of medicinal products containing the active substance umeclidinium bromide, umeclidinium bromide/vilanterol. This condition is now considered fulfilled and consequently an update of the Annex II conditions or restrictions with regard to the safe and effective use of the medicinal product is recommended to remove this condition, as well as deletion of additional monitoring statements in Annexes I and IIIB.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for umeclidinium bromide, umeclidinium bromide / vilanterol the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing umeclidinium bromide, umeclidinium bromide / vilanterol is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

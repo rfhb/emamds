@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-15 16:44:00
+document_datetime: 2026-08-03 16:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/palsonify.html
 document_name: palsonify.html
 version: success
-processing_time: 0.1063977
-conversion_datetime: 2026-06-21 09:33:49.225301
+processing_time: 0.1007452
+conversion_datetime: 2026-08-07 13:50:33.476823
 docling_version:
-  docling-serve: 1.24.0
-  docling-jobkit: 1.23.1
-  docling: 2.103.0
-  docling-core: 2.82.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
   docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Palsonify
 
@@ -110,7 +110,7 @@ English (EN) (123.23 KB - PDF)
 
 [View](/en/documents/overview/palsonify-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-46)
+[Other languages (22)](#file-language-dropdown-525)
 
 български (BG) (145.85 KB - PDF)
 
@@ -256,161 +256,161 @@ English (EN) (632.87 KB - PDF)
 
 Palsonify : EPAR - Product information
 
-English (EN) (283.75 KB - PDF)
+English (EN) (266.23 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/en/documents/product-information/palsonify-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-903)
+[Other languages (24)](#file-language-dropdown-115)
 
-български (BG) (507.48 KB - PDF)
+български (BG) (390.96 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/bg/documents/product-information/palsonify-epar-product-information_bg.pdf)
 
-español (ES) (332.13 KB - PDF)
+español (ES) (287.63 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/es/documents/product-information/palsonify-epar-product-information_es.pdf)
 
-čeština (CS) (482.95 KB - PDF)
+čeština (CS) (368.4 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/cs/documents/product-information/palsonify-epar-product-information_cs.pdf)
 
-dansk (DA) (373.02 KB - PDF)
+dansk (DA) (257.94 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/da/documents/product-information/palsonify-epar-product-information_da.pdf)
 
-Deutsch (DE) (363.34 KB - PDF)
+Deutsch (DE) (269.78 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/de/documents/product-information/palsonify-epar-product-information_de.pdf)
 
-eesti (ET) (310.79 KB - PDF)
+eesti (ET) (265.85 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/et/documents/product-information/palsonify-epar-product-information_et.pdf)
 
-ελληνικά (EL) (412.71 KB - PDF)
+ελληνικά (EL) (386.25 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/el/documents/product-information/palsonify-epar-product-information_el.pdf)
 
-français (FR) (298.84 KB - PDF)
+français (FR) (266.03 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/fr/documents/product-information/palsonify-epar-product-information_fr.pdf)
 
-hrvatski (HR) (397.98 KB - PDF)
+hrvatski (HR) (355.53 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/hr/documents/product-information/palsonify-epar-product-information_hr.pdf)
 
-italiano (IT) (298.45 KB - PDF)
+italiano (IT) (269.96 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/it/documents/product-information/palsonify-epar-product-information_it.pdf)
 
-latviešu (LV) (421.19 KB - PDF)
+latviešu (LV) (382.34 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/lv/documents/product-information/palsonify-epar-product-information_lv.pdf)
 
-lietuvių (LT) (385.56 KB - PDF)
+lietuvių (LT) (350.62 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/lt/documents/product-information/palsonify-epar-product-information_lt.pdf)
 
-magyar (HU) (401.55 KB - PDF)
+magyar (HU) (362.68 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/hu/documents/product-information/palsonify-epar-product-information_hu.pdf)
 
-Malti (MT) (396.55 KB - PDF)
+Malti (MT) (369.9 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/mt/documents/product-information/palsonify-epar-product-information_mt.pdf)
 
-Nederlands (NL) (290.77 KB - PDF)
+Nederlands (NL) (262.33 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/nl/documents/product-information/palsonify-epar-product-information_nl.pdf)
 
-polski (PL) (384.98 KB - PDF)
+polski (PL) (384.62 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/pl/documents/product-information/palsonify-epar-product-information_pl.pdf)
 
-português (PT) (297.82 KB - PDF)
+português (PT) (264.69 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/pt/documents/product-information/palsonify-epar-product-information_pt.pdf)
 
-română (RO) (379.12 KB - PDF)
+română (RO) (351.91 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/ro/documents/product-information/palsonify-epar-product-information_ro.pdf)
 
-slovenčina (SK) (409.13 KB - PDF)
+slovenčina (SK) (366.7 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/sk/documents/product-information/palsonify-epar-product-information_sk.pdf)
 
-slovenščina (SL) (381.78 KB - PDF)
+slovenščina (SL) (354.51 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/sl/documents/product-information/palsonify-epar-product-information_sl.pdf)
 
-suomi (FI) (300.35 KB - PDF)
+suomi (FI) (256.45 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/fi/documents/product-information/palsonify-epar-product-information_fi.pdf)
 
-svenska (SV) (297.01 KB - PDF)
+svenska (SV) (268.95 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/sv/documents/product-information/palsonify-epar-product-information_sv.pdf)
 
-Íslenska (IS) (300.3 KB - PDF)
+Íslenska (IS) (261.21 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/is/documents/product-information/palsonify-epar-product-information_is.pdf)
 
-norsk (NO) (298.92 KB - PDF)
+norsk (NO) (254.25 KB - PDF)
 
-**First published:** 05/05/2026 **Last updated:** 15/06/2026
+**First published:** 05/05/2026 **Last updated:** 03/08/2026
 
 [View](/no/documents/product-information/palsonify-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000350787
+**Latest procedure affecting product information:** N/0000363348
 
-15/06/2026
+29/07/2026
 
 icon globe
 
@@ -435,7 +435,7 @@ English (EN) (54.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/palsonify-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-122)
+[Other languages (24)](#file-language-dropdown-187)
 
 български (BG) (55.65 KB - PDF)
 
@@ -617,7 +617,7 @@ Palsonify is indicated for the medical treatment of adult patients with acromega
 - **Marketing authorisation issued**
     - 23/04/2026
 - **Revision**
-    - 1
+    - 2
 
 ## Assessment history
 
@@ -629,9 +629,9 @@ Collapse section
 
 Palsonify : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (141.31 KB - PDF)
+English (EN) (143.5 KB - PDF)
 
-**First published:** 15/06/2026
+**First published:** 15/06/2026 **Last updated:** 03/08/2026
 
 [View](/en/documents/procedural-steps-after/palsonify-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -679,6 +679,6 @@ English (EN) (157.84 KB - PDF)
 
 **This page was last updated on**
 
-15/06/2026
+03/08/2026
 
 ## Share this page

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-07 15:23:42
+document_datetime: 2026-08-04 16:13:38
 document_pages: 43
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/loqtorzi-epar-product-information_en.pdf
 document_name: loqtorzi-epar-product-information_en.pdf
 version: success
-processing_time: 16.3637803
-conversion_datetime: 2026-05-10 12:45:24.332625
+processing_time: 12.713939
+conversion_datetime: 2026-08-07 14:27:01.879116
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -37,6 +37,10 @@ One vial of concentrate for solution for infusion contains 240 mg of toripalimab
 Each mL of concentrate for solution for infusion contains 40 mg of toripalimab.
 
 Toripalimab is an immunoglobulin G4 (IgG4) humanised monoclonal antibody (mAb), produced in Chinese hamster ovary cells by recombinant DNA technology.
+
+## Excipients with known effect
+
+Each 6mL vial contains less than 1 mmol (23 mg) sodium and 1.2 mg of polysorbate 80.
 
 For the full list of excipients, see section 6.1.
 
@@ -64,11 +68,11 @@ The recommended dosing regimen of LOQTORZI is 240 mg every 3 weeks (Q3W) as an i
 
 Treatment should continue until disease progression, unacceptable toxicity or up to a maximum duration of 24 months.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Dose modifications
 
 Recommended modifications to manage adverse reaction are provided in Table 1.
-
-<div style=\"page-break-after: always\"></div>
 
 See the Summary of Product Characteristics (SmPC) of other products to be used in combination with LOQTORZI.
 
@@ -92,14 +96,15 @@ Table 1: Recommended treatment modifications for LOQTORZI
 | Exfoliative dermatologic conditions | Suspected Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), or drug rash with eosinophilia and systemic symptoms (DRESS)                                                                        | Withhold 2                                                               |
 | Exfoliative dermatologic conditions | Confirmed SJS, TEN, or DRESS                                                                                                                                                                                    | Permanently discontinue                                                  |
 | Myocarditis                         | Grades 2, 3, or 4                                                                                                                                                                                               | Permanently discontinue                                                  |
-| Myositis                            | Grade 2-3                                                                                                                                                                                                       | Withhold or permanently discontinue depending on severity 2              |
-| Myositis                            | Grade 4                                                                                                                                                                                                         | Permanently discontinue                                                  |
+| Myositis                            | Grade 2-3                                                                                                                                                                                                       |                                                                          |
 
 <div style=\"page-break-after: always\"></div>
 
 | Adverse reaction                                                                                                                                                                | Severity 1                         | Treatment modification                                               |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|----------------------------------------------------------------------|
 | Immune - related adverse reactions                                                                                                                                              | Immune - related adverse reactions | Immune - related adverse reactions                                   |
+|                                                                                                                                                                                 |                                    | Withhold or permanently discontinue depending on severity 2          |
+|                                                                                                                                                                                 | Grade 4                            | Permanently discontinue                                              |
 | Other adverse reactions (including but not limited to neurologic toxicities, pancreatitis, iritis, uveitis, immune-related cystitis, and immune-related inflammatory arthritis) | Grade 2-3                          | Withhold or permanently discontinue depending on type and severity 2 |
 | Other adverse reactions (including but not limited to neurologic toxicities, pancreatitis, iritis, uveitis, immune-related cystitis, and immune-related inflammatory arthritis) | Grade 4                            | Permanently discontinue                                              |
 | Infusion - related reactions                                                                                                                                                    | Infusion - related reactions       | Infusion - related reactions                                         |
@@ -132,11 +137,11 @@ The safety and efficacy of LOQTORZI in children and adolescents aged under 18 ye
 
 LOQTORZI is for intravenous use only and must be administered by infusion. The first infusion should be administered over 60 minutes via an infusion pump through an in-line filter (0.2 micron or 0.22 micron pore size). If no infusion-related reactions occurred during the first infusion, subsequent infusions may be administered over 30 minutes.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not co-administer other medicinal products through the same infusion line.
 
 When administered on the same day as chemotherapy, LOQTORZI should be administered prior to chemotherapy.
-
-<div style=\"page-break-after: always\"></div>
 
 For instructions on dilution of the medicinal product before administration, see section 6.6.
 
@@ -244,6 +249,8 @@ In the absence of data, toripalimab should be used with caution in these populat
 
 This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'.
 
+This medicine contains 1.2 mg of polysorbate 80 in each 6 ml vial which is equivalent to 0.2 mg/ml. Polysorbates may cause allergic reactions.
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No formal interaction studies have been performed. Since toripalimab is cleared from the circulation through catabolism, no metabolic drug-drug interactions are expected. Toripalimab is not a substrate for cytochrome P450 or active substance transporters. Toripalimab is not a cytokine and is unlikely to be a cytokine modulator. Additionally, pharmacokinetic (PK) interaction of toripalimab with small molecule active substances is not expected. There is no evidence of interaction mediated by non-specific clearance of lysosome degradation for antibodies.
@@ -256,11 +263,11 @@ The use of systemic corticosteroids or immunosuppressants before starting toripa
 
 Women of childbearing potential should use effective contraception during treatment with toripalimab and for at least 4 months after the last dose of toripalimab.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pregnancy
 
 There are no data on the use of toripalimab in pregnant women. Animal studies have not been conducted with toripalimab; however, animal studies have demonstrated that inhibition of the PD-1/PD-L1 pathway can lead to increased risk of immune-related rejection of the developing foetus and result in foetal death (see section 5.3). Human immunoglobulin G4 (IgG4) is known to cross the placental barrier; therefore, toripalimab can potentially be transmitted from the mother to the developing foetus. Toripalimab should not be used during pregnancy or in women of childbearing potential not using effective contraception unless the clinical benefit outweighs the potential risk.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Breast-feeding
 
@@ -282,7 +289,7 @@ Toripalimab has minor influence on the ability to drive and use machines. In som
 
 ## Toripalimab in combination with platinum containing chemotherapy (see section 4.2)
 
-The safety of toripalimab in combination with platinum containing chemotherapy has been evaluated in 403 patients with NPC or oesophageal squamous cell carcinoma (OSCC) receiving 240 mg toripalimab every 3 weeks in JUPITER-02 or JUPITER-06. The median duration of treatment in these patients was 6.5 months (range 1 day-2.1 years). The frequencies included below and in Table 2 are based on all reported adverse drug reactions, regardless of the investigator assessment of causality. In this patient population, the most frequent adverse reactions were anaemia (44.9%), leukopenia (41.7%), neutropenia (39.0%), thrombocytopenia (30.3%), nausea (29.8%), vomiting (27.3%), decreased appetite (23.8%), rash (23.8%), fatigue (23.6%), liver function test abnormal (22.3%), hypothyroidism (18.4%), constipation (16.6%), neuropathy (15.1%), colitis (14.1), pyrexia (13.6%), cough (11.4%), pruritus (11.4%), creatinine renal clearance decreased (11.2%), and hyponatraemia (10.2%). Incidences of grades 3-5 adverse reactions in patients with NPC were 81.5% for toripalimab combination therapy and 83.9% for chemotherapy alone and in patients with OSCC were 24.9% for toripalimab combination therapy and 13.6% for chemotherapy alone.
+The safety of toripalimab in combination with platinum containing chemotherapy has been evaluated in 403 patients with NPC or oesophageal squamous cell carcinoma (OSCC) receiving 240 mg toripalimab every 3 weeks in JUPITER-02 or JUPITER-06. The median duration of treatment in these patients was 6.5 months (range 1 day-2.1 years). The frequencies included below and in Table 2 are based on all reported adverse drug reactions, regardless of the investigator assessment of causality. In this patient population, the most frequent adverse reactions were anaemia (44.9%), leukopenia (41.7%), neutropenia (39.0%), thrombocytopenia (30.3%), nausea (29.8%), vomiting (27.3%), decreased appetite (23.8%), rash (23.8%), fatigue (23.6%), liver function test abnormal (22.3%), hypothyroidism (18.4%), constipation (16.6%), neuropathy (15.1%), colitis (14.1%), pyrexia (13.6%), cough (11.4%), pruritus (11.4%), creatinine renal clearance decreased (11.2%), and hyponatraemia (10.2%). Incidences of grades 3-5 adverse reactions in patients with NPC were 81.5% for toripalimab combination therapy and 83.9% for chemotherapy alone and in patients with OSCC were 24.9% for toripalimab combination therapy and 13.6% for chemotherapy alone.
 
 ## Tabulated list of adverse reactions
 
@@ -290,11 +297,9 @@ Adverse reactions observed in clinical studies of toripalimab as monotherapy or 
 
 Table 2 includes only treatment related adverse drug reactions. The adverse reaction frequencies from clinical studies are based on all-cause adverse event frequencies, where a proportion of the events for an adverse reaction may have other causes than the medicinal product such as the disease, other medicines or unrelated causes. Adverse reactions reported in clinical studies are listed by system organ class and by frequency.
 
-The safety data is based on 1 514 patients exposed to toripalimab (of which 1 100 patients were exposed to toripalimab monotherapy and 514 patients in combination with chemotherapy) with a mean
-
 <div style=\"page-break-after: always\"></div>
 
-(range 0.03 months to 35.9 months) duration of exposure to toripalimab of 7.0 months and a median duration of exposure of 3.7 months (interquartile range 8.7 months) in 15 Phase 1, 2 or 3 clinical studies. See Section 5.1 for information on the demographics and baseline characteristics of participants in the main clinical studies.
+The safety data is based on 1 514 patients exposed to toripalimab (of which 1 100 patients were exposed to toripalimab monotherapy and 514 patients in combination with chemotherapy) with a mean (range 0.03 months to 35.9 months) duration of exposure to toripalimab of 7.0 months and a median duration of exposure of 3.7 months (interquartile range 8.7 months) in 15 Phase 1, 2 or 3 clinical studies. See Section 5.1 for information on the demographics and baseline characteristics of participants in the main clinical studies.
 
 When toripalimab is administered in combination with chemotherapy, refer to the SmPCs for the respective combination therapy components prior to initiation of treatment.
 
@@ -332,60 +337,61 @@ Table 2: Adverse reactions in patients treated with toripalimab
 | Uncommon                                                            | depression/dysphoria, anxiety                                                                                                                                                                  |
 | Rare                                                                | mental disorder, tic                                                                                                                                                                           |
 | Nervous system disorders                                            | Nervous system disorders                                                                                                                                                                       |
-| Very common                                                         | neuropathy 5                                                                                                                                                                                   |
-| Common                                                              | dizziness, headache, neurotoxicity, dysgeusia                                                                                                                                                  |
-| Uncommon                                                            | somnolence, syncope, encephalopathy, epilepsy, tremor, memory impairment, dysarthria, nervous system disorder, speech disorder                                                                 |
-| Rare                                                                | disturbance in attention, haemorrhage intracranial, paraplegia                                                                                                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-| Eye disorders                                   | Eye disorders                                                                                                                                                                                                                                                                                      |
-|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Common                                          | vision blurred                                                                                                                                                                                                                                                                                     |
-| Uncommon                                        | eye inflammation 6 , eye movement disorder, papilloedema                                                                                                                                                                                                                                           |
-| Rare                                            | blepharochalasis, glaucomatocyclitic crises, hypermetropia, retinal haemorrhage                                                                                                                                                                                                                    |
-| Ear and labyrinth disorders                     | Ear and labyrinth disorders                                                                                                                                                                                                                                                                        |
-| Common                                          | ear disorder 7                                                                                                                                                                                                                                                                                     |
-| Uncommon                                        | vertigo, deafness                                                                                                                                                                                                                                                                                  |
-| Cardiac disorders                               | Cardiac disorders                                                                                                                                                                                                                                                                                  |
-| Very common arrhythmia 8                        | Very common arrhythmia 8                                                                                                                                                                                                                                                                           |
-| Uncommon                                        | pericardial effusion, cardiac failure/cardiac dysfunction, myocarditis/immune-mediated myocarditis, myocardial injury/myocardial ischaemia, cardiac discomfort                                                                                                                                     |
-| Rare                                            | aortic valve disease, cardiac disorder                                                                                                                                                                                                                                                             |
-| Vascular disorders                              | Vascular disorders                                                                                                                                                                                                                                                                                 |
-| Common                                          | hypertension, hypotension/orthostatic hypotension, embolism and thrombosis                                                                                                                                                                                                                         |
-| Uncommon                                        | phlebitis                                                                                                                                                                                                                                                                                          |
-| Rare                                            | aortic aneurysm, flushing                                                                                                                                                                                                                                                                          |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                                                    |
-| Very common                                     | cough                                                                                                                                                                                                                                                                                              |
-| Common                                          | dyspnoea, pneumonitis/immune-mediated lung disease/interstitial lung disease, upper respiratory tract disorders 9 , haemoptysis, epistaxis, pleural effusion, hiccups, dysphonia, rhinitis allergic                                                                                                |
-| Uncommon                                        | nasal congestion, respiratory failure, bronchospasm, sinus disorder, pneumonia aspiration, sputum increased, tracheo-esophageal fistula                                                                                                                                                            |
-| Rare                                            | hydrothorax, pleurisy, vocal cord thickening                                                                                                                                                                                                                                                       |
-| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                                                                                                                                                                                                                         |
-| Very common                                     | nausea/dyspepsia/eructation, vomiting, constipation/dyschezia, colitis/diarrhoea, abdominal pain                                                                                                                                                                                                   |
-| Common                                          | stomatitis, abdominal distension/flatulence, dry mouth, dysphagia, toothache, gastrointestinal haemorrhage, gastrooesophageal reflux disease/hyperchlorhydria                                                                                                                                      |
-| Uncommon                                        | intestinal obstruction/subileus, gastritis, gastroenteritis, oesophageal obstruction, pancreatitis, proctalgia, gastric disorder, gastric ulcer, gastrointestinal disorder, gastric dilatation, gastric fistula, hypoaesthesia oral                                                                |
-| Rare                                            | faecaloma, oesophageal ulcer, pancreatic disorder, pneumatosis intestinalis, swollen tongue, tongue discolouration                                                                                                                                                                                 |
-| Hepatobiliary disorders                         | Hepatobiliary disorders                                                                                                                                                                                                                                                                            |
-| Very common                                     | Hyperbilirubinaemia/jaundice                                                                                                                                                                                                                                                                       |
-| Common                                          | hepatitis 10 , total bile acids increased                                                                                                                                                                                                                                                          |
-| Uncommon                                        | hepatic pain, cholecystitis, hepatic steatosis                                                                                                                                                                                                                                                     |
-| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                                             |
-| Very common rash                                | 11 , pruritus                                                                                                                                                                                                                                                                                      |
-| Common                                          | alopecia, vitiligo, pigmentation disorder                                                                                                                                                                                                                                                          |
-| Uncommon night Rare                             | sweats, skin disorder, skin exfoliation, hyperhidrosis, dry skin, skin ulcer, hair colour changes, psoriasis, photosensitivity reaction, skin hyperpigmentation dermatomyositis, leukoderma, neurodermatitis, onychomadesis, pain of skin, panniculitis, pemphigus, purpura senile, telangiectasia |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                                                    |
-| Very common                                     | musculoskeletal pain                                                                                                                                                                                                                                                                               |
-| Common                                          | muscular weakness, arthritis/joint range of motion decreased/periarthritis                                                                                                                                                                                                                         |
-| Uncommon                                        | muscle spasms, intervertebral disc protrusion, myositis                                                                                                                                                                                                                                            |
-| Rare                                            | limb mass                                                                                                                                                                                                                                                                                          |
-| Renal and urinary disorders                     | Renal and urinary disorders                                                                                                                                                                                                                                                                        |
-| Very common                                     | proteinuria, haematuria                                                                                                                                                                                                                                                                            |
-| Common                                          | renal injury/nephropathy                                                                                                                                                                                                                                                                           |
+| Very common                                     | neuropathy 5                                                                                                                                                                                                                        |
+|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Common                                          | dizziness, headache, neurotoxicity, dysgeusia                                                                                                                                                                                       |
+| Uncommon                                        | somnolence, syncope, encephalopathy, epilepsy, tremor, memory impairment, dysarthria, nervous system disorder, speech disorder                                                                                                      |
+| Rare                                            | disturbance in attention, haemorrhage intracranial, paraplegia                                                                                                                                                                      |
+| Eye disorders                                   | Eye disorders                                                                                                                                                                                                                       |
+| Common                                          | vision blurred                                                                                                                                                                                                                      |
+| Uncommon                                        | eye inflammation 6 , eye movement disorder, papilloedema                                                                                                                                                                            |
+| Rare                                            | blepharochalasis, glaucomatocyclitic crises, hypermetropia, retinal haemorrhage                                                                                                                                                     |
+| Ear and labyrinth disorders                     | Ear and labyrinth disorders                                                                                                                                                                                                         |
+| Common                                          | ear disorder 7                                                                                                                                                                                                                      |
+| Uncommon                                        | vertigo, deafness                                                                                                                                                                                                                   |
+| Cardiac disorders                               | Cardiac disorders                                                                                                                                                                                                                   |
+| Very common                                     | arrhythmia 8                                                                                                                                                                                                                        |
+| Uncommon                                        | pericardial effusion, cardiac failure/cardiac dysfunction, myocarditis/immune-mediated myocarditis, myocardial injury/myocardial ischaemia, cardiac discomfort                                                                      |
+| Rare                                            | aortic valve disease, cardiac disorder                                                                                                                                                                                              |
+| Vascular disorders                              | Vascular disorders                                                                                                                                                                                                                  |
+| Common                                          | hypertension, hypotension/orthostatic hypotension, embolism and thrombosis                                                                                                                                                          |
+| Uncommon                                        | phlebitis                                                                                                                                                                                                                           |
+| Rare                                            | aortic aneurysm, flushing                                                                                                                                                                                                           |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                     |
+| Very common                                     | cough                                                                                                                                                                                                                               |
+| Common                                          | dyspnoea, pneumonitis/immune-mediated lung disease/interstitial lung disease, upper respiratory tract disorders 9 , haemoptysis, epistaxis, pleural effusion, hiccups, dysphonia, rhinitis allergic                                 |
+| Uncommon                                        | nasal congestion, respiratory failure, bronchospasm, sinus disorder, pneumonia aspiration, sputum increased, tracheo-esophageal fistula                                                                                             |
+| Rare                                            | hydrothorax, pleurisy, vocal cord thickening                                                                                                                                                                                        |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                                                                                                                                                          |
+| Very common                                     | nausea/dyspepsia/eructation, vomiting, constipation/dyschezia, colitis/diarrhoea, abdominal pain                                                                                                                                    |
+| Common                                          | stomatitis, abdominal distension/flatulence, dry mouth, dysphagia, toothache, gastrointestinal haemorrhage, gastrooesophageal reflux disease/hyperchlorhydria                                                                       |
+| Uncommon                                        | intestinal obstruction/subileus, gastritis, gastroenteritis, oesophageal obstruction, pancreatitis, proctalgia, gastric disorder, gastric ulcer, gastrointestinal disorder, gastric dilatation, gastric fistula, hypoaesthesia oral |
+| Rare                                            | faecaloma, oesophageal ulcer, pancreatic disorder, pneumatosis intestinalis, swollen tongue, tongue discolouration                                                                                                                  |
+| Hepatobiliary disorders                         | Hepatobiliary disorders                                                                                                                                                                                                             |
+| Very common                                     | Hyperbilirubinaemia/jaundice                                                                                                                                                                                                        |
+| Common                                          | hepatitis 10 , total bile acids increased                                                                                                                                                                                           |
+| Uncommon                                        | hepatic pain, cholecystitis, hepatic steatosis                                                                                                                                                                                      |
+| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                                                                                                                                                              |
+| Very common                                     | rash 11 , pruritus                                                                                                                                                                                                                  |
+| Common                                          | alopecia, vitiligo, pigmentation disorder                                                                                                                                                                                           |
+| Uncommon                                        | night sweats, skin disorder, skin exfoliation, hyperhidrosis, dry skin, skin ulcer, hair colour changes, psoriasis, photosensitivity reaction, skin hyperpigmentation                                                               |
+| Rare                                            | dermatomyositis, leukoderma, neurodermatitis, onychomadesis, pain of skin, panniculitis, pemphigus, purpura senile, telangiectasia                                                                                                  |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                                                                                                                                                                     |
+| Very common                                     | musculoskeletal pain                                                                                                                                                                                                                |
+| Common                                          | muscular weakness, arthritis/joint range of motion decreased/periarthritis                                                                                                                                                          |
 
 <div style=\"page-break-after: always\"></div>
 
-| Uncommon                                             | pollakiuria, hydronephrosis, pyelocaliectasis, ureteric dilatation                                                                                                                                                                                                                                                                                                                                                                                   |
+| Uncommon                                             | muscle spasms, intervertebral disc protrusion, myositis                                                                                                                                                                                                                                                                                                                                                                                              |
 |------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Rare                                                 | limb mass                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Very common                                          | proteinuria, haematuria                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Common                                               | renal injury/nephropathy                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Uncommon                                             | pollakiuria, hydronephrosis, pyelocaliectasis, ureteric dilatation                                                                                                                                                                                                                                                                                                                                                                                   |
 | Rare                                                 | cystitis noninfective, hydroureter, immune-mediated renal disorder                                                                                                                                                                                                                                                                                                                                                                                   |
 | Reproductive system and breast disorders             | Reproductive system and breast disorders                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Uncommon                                             | benign prostatic hyperplasia, breast pain, oedema genital, scrotal oedema                                                                                                                                                                                                                                                                                                                                                                            |
@@ -402,13 +408,11 @@ Table 2: Adverse reactions in patients treated with toripalimab
 | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Uncommon                                             | infusion related reaction, contusion/muscle injury, rib fracture                                                                                                                                                                                                                                                                                                                                                                                     |
 
-## Description of selected adverse reactions
-
-Data for the following immune-related adverse reactions are based on 403 patients who received toripalimab at a dose of 240 mg Q3W in combination with platinum and gemcitabine chemotherapy
-
 <div style=\"page-break-after: always\"></div>
 
-(n=146) or in combination with cisplatin and paclitaxel (n=257). The management guidelines for these adverse reactions are described in sections 4.2 and 4.4.
+## Description of selected adverse reactions
+
+Data for the following immune-related adverse reactions are based on 403 patients who received toripalimab at a dose of 240 mg Q3W in combination with platinum and gemcitabine chemotherapy (n=146) or in combination with cisplatin and paclitaxel (n=257). The management guidelines for these adverse reactions are described in sections 4.2 and 4.4.
 
 ## Immune -related adverse reactions (see section 4.4)
 
@@ -434,9 +438,9 @@ In patients receiving toripalimab in JUPITER-02 and JUPITER-06, hyperthyroidism 
 
 Hypothyroidism occurred in 17.1% (69/403) of patients receiving toripalimab in JUPITER-02 and JUPITER-06, with 46 Grade 2 (11.4%) and 23 Grade 1 (5.7%) adverse reactions. The median time to onset of hypothyroidism was 5.9 months (range 1.2 to 20.7 months). The median duration was 3.2 months (range 0.4 to 30.6 months). Thyroid hormone replacement therapy was required in 72.5% (50/69) of patients. Corticosteroids were administered to 1/69 (1.4%) patients. No patients permanently discontinued and 1.2% (5/403) of the patients interrupted toripalimab.
 
-In patients receiving toripalimab in JUPITER-02 and JUPITER-06, diabetes mellitus occurred in 0.2% (1/403) of patients, including 1 (0.2%) Grade 3, and no Grade 2 adverse reactions. The time to onset of diabetes mellitus was 0.7 month. The patient did not receive corticosteroids but was treated with insulin. The patient did not permanently discontinue or interrupt toripalimab.
-
 <div style=\"page-break-after: always\"></div>
+
+In patients receiving toripalimab in JUPITER-02 and JUPITER-06, diabetes mellitus occurred in 0.2% (1/403) of patients, including 1 (0.2%) Grade 3, and no Grade 2 adverse reactions. The time to onset of diabetes mellitus was 0.7 month. The patient did not receive corticosteroids but was treated with insulin. The patient did not permanently discontinue or interrupt toripalimab.
 
 In patients receiving toripalimab in JUPITER-02 and JUPITER-06, hypophysitis occurred in 0.2% (1/403) of patients with 1 (0.2%) Grade 2 adverse reaction. The time to onset of hypophysitis was 23.7 month. Corticosteroids were administered and the patient did not permanently discontinue toripalimab or interrupt dosing.
 
@@ -502,9 +506,9 @@ Toripalimab is a humanised IgG4 monoclonal antibody that binds to the PD-1 recep
 
 The efficacy of toripalimab in combination with cisplatin and gemcitabine was investigated in JUPITER-02, a randomised, multi-centre, double-blind, placebo-controlled study in 289 patients with metastatic or recurrent, locally advanced nasopharyngeal carcinoma (NPC) not amenable to curative therapy who had not received previous systemic chemotherapy for recurrent or metastatic disease. Patients with recurrent NPC after treatment with curative intent were required to have an interval of at least 6 months between the last dose of radiotherapy or chemotherapy and recurrence. Patients with autoimmune disease, other than stable hypothyroidism or Type I diabetes, and patients who required systemic immunosuppression were ineligible.
 
-Randomisation was stratified according to ECOG PS (0 versus 1) and disease stage (recurrent versus metastatic) at study entry. Patients were randomised (1:1) to receive one of the following treatments:
-
 <div style=\"page-break-after: always\"></div>
+
+Randomisation was stratified according to ECOG PS (0 versus 1) and disease stage (recurrent versus metastatic) at study entry. Patients were randomised (1:1) to receive one of the following treatments:
 
 - Toripalimab 240 mg intravenously on Day 1 in combination with cisplatin 80 mg/m 2 on Day 1 and gemcitabine 1 000 mg/m 2 on Days 1 and 8 every 3 weeks for up to 6 cycles, followed by toripalimab 240 mg once every 3 weeks, or
 - Placebo intravenously on Day 1 in combination with cisplatin 80 mg/m 2 on Day 1 and gemcitabine 1 000 mg/m 2 on Days 1 and 8 every 3 weeks for up to 6 cycles, followed by placebo once every 3 weeks.
@@ -531,14 +535,6 @@ Table 3: Efficacy results in JUPITER-02
 | Median OS, in months (95% CI)                 | NE (38.7, NE)                                 | 33.7 (27.0, 44.2)                         |
 | Hazard ratio (95% CI) 2                       | 0.63 (0.45, 0.89)                             | 0.63 (0.45, 0.89)                         |
 | p-value 3                                     | 0.0083                                        | 0.0083                                    |
-
-1  The final analysis of PFS was based on the data with cut-off date of 08 Jun 2021 and the final analysis of OS was based on the data with cut-off date of 18 Nov 2022.
-
-2 The hazard ratio and its confidence interval were computed using a stratified Cox proportional-hazards model.
-
-3 Two-sided p-value, based on stratified log-rank test.
-
-BIRC=blinded independent review committee; CI= confidence interval; NE=Not estimable
 
 <div style=\"page-break-after: always\"></div>
 
@@ -609,8 +605,6 @@ data cutoff date: 23 Feb 2023
 <div style=\"page-break-after: always\"></div>
 
 Figure 4: Kaplan-Meier curves for BIRC-assessed PFS in JUPITER-06
-
-24
 
 <!-- image -->
 
@@ -722,7 +716,7 @@ Each carton contains one vial.
 
 - Visually inspect the solution for particulate matter and discoloration. The solution is clear to slightly opalescent, colourless to slightly yellow. Discard the vial if visible particles are observed.
 - Dilute LOQTORZI prior to intravenous administration.
-- Withdraw the required volume of LOQTORZI and inject slowly into a 100 mL or 250 mL infusion bag containing sodium chloride 9 mg/mL (0.9%) solution for injection. Mix the diluted solution by gentle inversion. Do not shake. The final concentration of the diluted solution should be between 1 mg/mL to 3 mg/mL.
+- Withdraw the required volume of LOQTORZI and inject slowly into a 100 mL infusion bag containing sodium chloride 9 mg/mL (0.9%) solution for injection. Mix the diluted solution by gentle inversion. Do not shake. The final concentration of the diluted solution should be between 1 mg/mL to 3 mg/mL.
 
 ## Administration
 
@@ -1082,6 +1076,10 @@ LOQTORZI may have a minor effect on your ability to drive or use machines, as fe
 
 This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'. However, before LOQTORZI is given to you, it is mixed with a solution that contains sodium. Talk to your doctor if you are on a low salt diet.
 
+## LOQTORZI contains polysorbate 80
+
+This medicine contains 1.2 mg of polysorbate 80 in each 6 ml vial which is equivalent to 0.2 mg/ml. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
 ## 3. How LOQTORZI is given
 
 LOQTORZI will be given to you in a hospital or clinic under the supervision of a doctor experienced in cancer treatment.
@@ -1119,12 +1117,12 @@ Uncommon (may affect up to 1 in 100 people)
 - Inflammation of the liver (hepatitis)
 - Inflammation of the heart muscle (myocarditis)
 - Inflammation in the muscles (myositis)
-- Inflammation of the large bowel (colitis)
-- Inflammation of adrenal glands (adrenal insufficiency)
-- Inflammation of the kidneys (nephritis)
 
 <div style=\"page-break-after: always\"></div>
 
+- Inflammation of the large bowel (colitis)
+- Inflammation of adrenal glands (adrenal insufficiency)
+- Inflammation of the kidneys (nephritis)
 - Decreased in number of platelet (immune mediated thrombocytopenia)
 - Inflammation of thyroid (hyperthyroidism/thyroiditis)
 - Inflammation of thyroid gland (hypothyroidism)
@@ -1138,7 +1136,7 @@ Uncommon (may affect up to 1 in 100 people)
 - Inflammation of bladder (cystitis)
 - Inflammation of the joints (arthritis/arthralgia)
 
-## Problems in other parts of the body/Other immune-related side effects ( frequency cannot be estimated from the available toripalimab data but have been reported with this class of medicines)
+Problems in other parts of the body/Other immune-related side effects ( frequency cannot be estimated from the available toripalimab data but have been reported with this class of medicines)
 
 - Inflammation of the brain (encephalitis) which may include symptoms of confusion, fever, memory problems or seizure.
 - Myasthenic syndrome, a condition in which the muscles become weak and there is a rapid fatigue of the muscles
@@ -1172,18 +1170,17 @@ The following side effects have been reported in clinical studies with toripalim
 - upper respiratory tract infection (nose and throat infection)
 - hyponatraemia ( l ow blood sodium levels)
 - hypoproteinaemia (low blood protein levels)
-- hypokalaemia (low blood potassium levels which can cause weakness, muscle cramps, tingling and heart rhythm disturbance)
-- hyperglycaemia (high blood glucose levels)
-- hyperuricaemia (high blood levels of uric acid, a byproduct of metabolism)
 
 <div style=\"page-break-after: always\"></div>
 
+- hypokalaemia (low blood potassium levels which can cause weakness, muscle cramps, tingling and heart rhythm disturbance)
+- hyperglycaemia (high blood glucose levels)
+- hyperuricaemia (high blood levels of uric acid, a byproduct of metabolism)
 - hyperbilirubinaemia (high blood levels of bilirubin, a breakdown product of red blood cells, which can cause yellowing of the skin and eyes)
 - proteinuria (excess protein in the urine)
 - haematuria (blood in the urine)
 - rash including skin inflammation, itching, skin blistering, peeling or sores, acne-like skin problem
 - pruritis (itching)
-- pain
 - musculoskeletal (muscle and bone) pain
 - hypothyroidism (an underactive thyroid gland with tiredness, weight gain, and skin and hair changes)
 - arrhythmia (abnormal or irregular heartbeat)
@@ -1207,7 +1204,7 @@ The following side effects have been reported in clinical studies with toripalim
 - trouble sleeping; change in mood
 - night sweats; increased sweating
 - inflammation of the nerves causing numbness, weakness, tingling or burning pain; headache; dizziness
-- lung infection, urinary infection, infection, ear infections, fungal infection of the mouth, herpes virus infection
+- lung infection, urinary infection, infection (unknown type or location), ear infections, fungal infection of the mouth, herpes virus infection
 - skin colour change in patches (including loss of pigmentation, vitiligo), hair loss, dry skin, hair colour changes, increased sensitivity to sunlight, skin peeling or sores
 - muscle weakness
 - inflammation of the liver
@@ -1224,16 +1221,15 @@ The following side effects have been reported in clinical studies with toripalim
 - temperature intolerance, thirst
 - breathing difficulties, wheezing, hoarseness
 - sinus congestion, abnormal speaking sound
-- reactions related to the infusion of the medicine
-- change in your sense of taste; drowsiness; speech disorder
-- conjunctivitis, gingivitis, infections of skin and subcutaneous tissue
 
 <div style=\"page-break-after: always\"></div>
 
+- reactions related to the infusion of the medicine
+- change in your sense of taste; drowsiness; speech disorder
+- conjunctivitis, gingivitis, infections of skin and subcutaneous tissue
 - inflammation of the joints; bulging disc; muscle spasms
 - liver pain, gallbladder inflammation
-- decreased secretion of hormones produced by the adrenal glands; inflammation of the pituitary
-- gland situated at the base of the brain; inflammation of the thyroid
+- decreased secretion of hormones produced by the adrenal glands; inflammation of the pituitary gland situated at the base of the brain; inflammation of the thyroid
 - accumulation of fluid around the heart; inflammation of the heart muscle; heart muscle damage
 - tumour bleeding, tumour rupture
 - oedema genital, scrotal oedema
@@ -1256,7 +1252,7 @@ The following side effects have been reported in clinical studies with toripalim
 - vaginal discharge or itching or pain of the skin outside vagina
 - hearing loss; feeling off balance
 - swelling, itching eyelid; farsightedness
-- infection
+- infection (flare of hepatitis B)
 
 ## Contact your healthcare providers if you experience any of these side effects listed immediately above.
 
@@ -1273,13 +1269,13 @@ LOQTORZI alone or in combination may cause changes in the results of tests carri
 - abnormal thyroid function tests; anti-thyroid antibody positive; weight increased
 - abnormal lipids and protein in the blood
 - changes to the acid base balance in blood
-- decreased in more than one type of blood cells (white blood cells, red blood cells, platelets)
-- increased white blood cells, neutrophils; eosinophil count abnormal, platelet count increased;
-- increase or decrease blood levels of endocrine gland hormones
 
 <div style=\"page-break-after: always\"></div>
 
-## · heart test abnormal
+- decreased in more than one type of blood cells (white blood cells, red blood cells, platelets)
+- increased white blood cells, neutrophils; eosinophil count abnormal, platelet count increased;
+- increase or decrease blood levels of endocrine gland hormones
+- heart test abnormal
 
 ## Reporting of side effects
 
@@ -1294,7 +1290,7 @@ If you are given a carton of LOQTORZI, this is how it should be stored:
 - Keep this medicine out of the sight and reach of children.
 - Do not use this medicine after the expiry date which is stated on the carton and vial label. The expiry date refers to the last day of that month.
 - Store in a refrigerator (2 °C - 8 °C). Do not freeze. Store in the original carton in order to protect from light.
-- If the diluted solution is not used immediately, it may be stored at room temperature (up to 25 °C) for up to 8 hours or at 2 °C to 8 °C for up to 24 hours from the time of dilution to the end of administration.
+- After dilution, if the diluted solution is not used immediately, it may be stored at room temperature (20°C to 25°C) for up to 8 hours or at 2 °C to 8 °C for up to 24 hours from the time of dilution to the end of administration. These periods include the time from dilution until the end of administration.
 - Do not use if this medicine contains visible particles.
 - Do not store any unused medicine for reuse. Any unused medicine or waste material should be disposed of in accordance with local requirements. These measures will help protect the environment.
 
@@ -1318,11 +1314,9 @@ It is available in cartons containing one glass vial containing 6 mL of concentr
 
 ## Marketing Authorisation Holder
 
-Topalliance Biosciences Europe Limited Ground Floor Two Dockland Central Guild Street I.f.s.c. Dublin 1 Co. Dublin D01 K2C5
+Topalliance Biosciences Europe Limited Ground Floor Two Dockland Central Guild Street I.f.s.c. Dublin 1 Co. Dublin D01 K2C5 Ireland
 
 <div style=\"page-break-after: always\"></div>
-
-## Ireland
 
 ## Manufacturer
 
@@ -1352,7 +1346,9 @@ Topalliance Biosciences Europe Limited Tel: +353 89 942 9116
 
 ## Eesti
 
-Er-Kim Pharmaceuticals Inc Tel: +359 879 544 711
+Er-Kim Pharmaceuticals Inc
+
+Tel: +359 879 544 711
 
 ## Ελλάδα
 
@@ -1369,10 +1365,6 @@ Laboratoires LEO Tél: +33 1 30 14 40 00
 ## Hrvatska
 
 Er-Kim Pharmaceuticals Inc Tel: +359 879 544 711
-
-## Ireland
-
-Topalliance Biosciences Europe Limited Tel: +353 89 942 9116
 
 ## Lietuva
 
@@ -1414,11 +1406,15 @@ Tel: +351 21 711 0760
 
 ## România
 
-Er-Kim Pharmaceuticals Inc Tel: +359 879 544 711
+Er-Kim Pharmaceuticals Inc
 
-## Slovenija
+Tel: +359 879 544 711
 
-Er-Kim Pharmaceuticals Inc Tel: +359 879 544 711
+<div style=\"page-break-after: always\"></div>
+
+## Ireland
+
+Topalliance Biosciences Europe Limited Tel: +353 89 942 9116
 
 ## Ísland
 
@@ -1426,41 +1422,25 @@ Topalliance Biosciences Europe Limited
 
 Sími: +353 89 942 9116
 
-## Slovenská republika
-
-Er-Kim Pharmaceuticals Inc
-
-Tel: +359 879 544 711
-
 ## Italia
 
 LEO Pharma S.p.A
 
 Tel: +39 06 52625500
 
-## Suomi/Finland
-
-LEO Pharma OY
-
-Puh/Tel: +358 20 721 8440
-
 ## Κύπρος
 
-Topalliance Biosciences Europe Limited Τηλ: +353 89 942 9116
+Topalliance Biosciences Europe Limited
 
-Sverige
+Τηλ:
 
-LEO Pharma AB
-
-Tel: +46 40 35 22 00
++353 89 942 9116
 
 ## Latvija
 
 Er-Kim Pharmaceuticals Inc
 
 Tel: +359 879 544 711
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -1476,7 +1456,7 @@ The following information is intended for healthcare professionals only:
 
 - Visually inspect the solution for particulate matter and discoloration. The solution is clear to slightly opalescent, colourless to slightly yellow. Discard the vial if visible particles are observed.
 - Dilute LOQTORZI prior to intravenous administration.
-- Withdraw the required volume of LOQTORZI and inject slowly into a 100 mL or 250 mL infusion bag containing sodium chloride 9 mg/mL (0.9%) solution for injection. Mix diluted solution by gentle inversion. Do not shake. The final concentration of the diluted solution should be between 1 mg/mL to 3 mg/mL.
+- Withdraw the required volume of LOQTORZI and inject slowly into a 100 mL infusion bag containing sodium chloride 9 mg/mL (0.9%) solution for injection. Mix diluted solution by gentle inversion. Do not shake. The final concentration of the diluted solution should be between 1 mg/mL to 3 mg/mL.
 
 ## Administration
 
@@ -1487,3 +1467,25 @@ The following information is intended for healthcare professionals only:
 - When administered on the same day as chemotherapy, LOQTORZI should be administered prior to chemotherapy.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## Slovenija
+
+Er-Kim Pharmaceuticals Inc Tel: +359 879 544 711
+
+## Slovenská republika
+
+Er-Kim Pharmaceuticals Inc
+
+Tel: +359 879 544 711
+
+## Suomi/Finland
+
+LEO Pharma OY
+
+Puh/Tel: +358 20 721 8440
+
+## Sverige
+
+LEO Pharma AB
+
+Tel: +46 40 35 22 00

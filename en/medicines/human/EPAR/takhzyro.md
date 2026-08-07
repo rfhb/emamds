@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-21 15:46:00
+document_datetime: 2026-08-03 17:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/takhzyro.html
 document_name: takhzyro.html
 version: success
-processing_time: 0.1611291
-conversion_datetime: 2026-07-28 12:53:47.93667
+processing_time: 0.1738902
+conversion_datetime: 2026-08-07 13:47:40.970631
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Takhzyro
 
@@ -116,7 +116,7 @@ English (EN) (117.22 KB - PDF)
 
 [View](/en/documents/overview/takhzyro-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-831)
+[Other languages (22)](#file-language-dropdown-921)
 
 български (BG) (139.85 KB - PDF)
 
@@ -268,7 +268,7 @@ English (EN) (1.66 MB - PDF)
 
 [View](/en/documents/product-information/takhzyro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-884)
+[Other languages (24)](#file-language-dropdown-3)
 
 български (BG) (2.48 MB - PDF)
 
@@ -441,7 +441,7 @@ English (EN) (103.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/takhzyro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-455)
+[Other languages (24)](#file-language-dropdown-356)
 
 български (BG) (103.26 KB - PDF)
 
@@ -623,7 +623,7 @@ Takhzyro is indicated for routine prevention of recurrent attacks of hereditary 
 - **Marketing authorisation issued**
     - 22/11/2018
 - **Revision**
-    - 24
+    - 25
 
 ## Assessment history
 
@@ -648,6 +648,16 @@ English (EN) (249.51 KB - PDF)
 **First published:** 01/10/2019 **Last updated:** 21/07/2026
 
 [View](/en/documents/procedural-steps-after/takhzyro-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Takhzyro-PAM-0000326082 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3257288
+
+English (EN) (254.84 KB - PDF)
+
+**First published:** 03/08/2026
+
+[View](/en/documents/variation-report/takhzyro-pam-0000326082-epar-assessment-report_en.pdf)
 
 Takhzyro-PAM-0000285505 : EPAR - Assessment report
 
@@ -834,6 +844,6 @@ English (EN) (71.66 KB - PDF)
 
 **This page was last updated on**
 
-21/07/2026
+03/08/2026
 
 ## Share this page

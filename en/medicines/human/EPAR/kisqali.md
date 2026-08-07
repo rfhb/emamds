@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-21 14:25:00
+document_datetime: 2026-08-05 11:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kisqali.html
 document_name: kisqali.html
 version: success
-processing_time: 0.1326224
-conversion_datetime: 2026-05-22 22:36:17.60469
+processing_time: 0.1626755
+conversion_datetime: 2026-08-07 13:53:25.494547
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Kisqali
 
@@ -59,7 +59,7 @@ Expand section
 
 Collapse section
 
-## How is Kisqali used?
+### How is Kisqali used?
 
 Kisqali can only be obtained with a prescription and treatment should be started by a doctor experienced in the use of cancer treatments.
 
@@ -69,11 +69,11 @@ If the patient gets severe side effects, the doctor may reduce the dose of Kisqa
 
 For more information about using Kisqali, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Kisqali work?
+### How does Kisqali work?
 
 The active substance in Kisqali, ribociclib, blocks the activity of enzymes known as cyclin-dependent kinases (CDK) 4 and 6, which are important for regulating the way cells grow and divide. By blocking CDK4 and CDK6, Kisqali slows the growth of HR-positive breast cancer cells.
 
-## What benefits of Kisqali have been shown in studies?
+### What benefits of Kisqali have been shown in studies?
 
 **Early breast cancer**
 
@@ -91,7 +91,7 @@ Another main study involved 495 pre-menopausal women with advanced breast cancer
 
 A further study involved 726 post-menopausal women who had either not been treated previously or had received only hormonal treatment (to reduce the effects of oestrogen). Patients received fulvestrant either with Kisqali or with placebo. Patients taking Kisqali with fulvestrant lived on average for 20.6 months without their disease getting worse compared with 12.8 months for those receiving placebo with fulvestrant.
 
-## What are the risks associated with Kisqali?
+### What are the risks associated with Kisqali?
 
 For the full list of side effects and restrictions of Kisqali, see the package leaflet.
 
@@ -103,7 +103,7 @@ The most common severe side effects (which may affect more than 1 in 50 people) 
 
 Kisqali must not be used in patients who are hypersensitive (allergic) to any of the ingredients or to peanuts or soya.
 
-## Why is Kisqali authorised in the EU?
+### Why is Kisqali authorised in the EU?
 
 Kisqali used with an aromatase inhibitor was shown to be effective in the treatment of early HR-positive, HER2-negative breast cancer.
 
@@ -111,7 +111,7 @@ Kisqali used with an aromatase inhibitor or fulvestrant increased the time it to
 
 The Agency therefore decided that Kisqali's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Kisqali?
+### What measures are being taken to ensure the safe and effective use of Kisqali?
 
 To further evaluate the benefits of Kisqali in the treatment of patients with HR-positive, HER2-negative early breast cancer, the company that markets the medicine will continue to follow up patients included in the main study for 5 years and submit the results of this study to the Agency.
 
@@ -119,7 +119,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Kisqali are continuously monitored. Side effects reported with Kisqali are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Kisqali
+### Other information about Kisqali
 
 Kisqali received a marketing authorisation valid throughout the EU on 22 August 2017.
 
@@ -133,7 +133,7 @@ English (EN) (137.81 KB - PDF)
 
 [View](/en/documents/overview/kisqali-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-380)
+[Other languages (22)](#file-language-dropdown-126)
 
 български (BG) (151.56 KB - PDF)
 
@@ -165,7 +165,7 @@ Deutsch (DE) (131.11 KB - PDF)
 
 [View](/de/documents/overview/kisqali-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (124.12 KB - PDF)
+eesti (ET) (124.12 KB - PDF)
 
 **First published:** 31/08/2017 **Last updated:** 05/02/2025
 
@@ -195,13 +195,13 @@ italiano (IT) (126.04 KB - PDF)
 
 [View](/it/documents/overview/kisqali-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (158.83 KB - PDF)
+latviešu (LV) (158.83 KB - PDF)
 
 **First published:** 31/08/2017 **Last updated:** 05/02/2025
 
 [View](/lv/documents/overview/kisqali-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (150.96 KB - PDF)
+lietuvių (LT) (150.96 KB - PDF)
 
 **First published:** 31/08/2017 **Last updated:** 05/02/2025
 
@@ -255,7 +255,7 @@ slovenščina (SL) (149.16 KB - PDF)
 
 [View](/sl/documents/overview/kisqali-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (123.88 KB - PDF)
+suomi (FI) (123.88 KB - PDF)
 
 **First published:** 31/08/2017 **Last updated:** 05/02/2025
 
@@ -267,7 +267,7 @@ svenska (SV) (125.16 KB - PDF)
 
 [View](/sv/documents/overview/kisqali-epar-medicine-overview_sv.pdf)
 
-Kisqali :  EPAR - Risk management plan
+Kisqali : EPAR - Risk management plan
 
 English (EN) (1.56 MB - PDF)
 
@@ -279,167 +279,168 @@ English (EN) (1.56 MB - PDF)
 
 Kisqali : EPAR - Product Information
 
-English (EN) (880.55 KB - PDF)
+English (EN) (890.52 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/en/documents/product-information/kisqali-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-624)
+[Other languages (24)](#file-language-dropdown-15)
 
-български (BG) (1001.95 KB - PDF)
+български (BG) (1.03 MB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/bg/documents/product-information/kisqali-epar-product-information_bg.pdf)
 
-español (ES) (914.03 KB - PDF)
+español (ES) (963.9 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/es/documents/product-information/kisqali-epar-product-information_es.pdf)
 
-čeština (CS) (951.23 KB - PDF)
+čeština (CS) (1000.05 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/cs/documents/product-information/kisqali-epar-product-information_cs.pdf)
 
-dansk (DA) (913.54 KB - PDF)
+dansk (DA) (971.61 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/da/documents/product-information/kisqali-epar-product-information_da.pdf)
 
-Deutsch (DE) (979.22 KB - PDF)
+Deutsch (DE) (1.02 MB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/de/documents/product-information/kisqali-epar-product-information_de.pdf)
 
-eesti keel (ET) (923.61 KB - PDF)
+eesti (ET) (978.45 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/et/documents/product-information/kisqali-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1018.67 KB - PDF)
+ελληνικά (EL) (1.04 MB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/el/documents/product-information/kisqali-epar-product-information_el.pdf)
 
-français (FR) (965.33 KB - PDF)
+français (FR) (1.01 MB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/fr/documents/product-information/kisqali-epar-product-information_fr.pdf)
 
-hrvatski (HR) (992.48 KB - PDF)
+hrvatski (HR) (1.03 MB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/hr/documents/product-information/kisqali-epar-product-information_hr.pdf)
 
-íslenska (IS) (931.08 KB - PDF)
+italiano (IT) (969.8 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
-
-[View](/is/documents/product-information/kisqali-epar-product-information_is.pdf)
-
-italiano (IT) (926.25 KB - PDF)
-
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/it/documents/product-information/kisqali-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (952.77 KB - PDF)
+latviešu (LV) (993.36 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/lv/documents/product-information/kisqali-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (977.7 KB - PDF)
+lietuvių (LT) (1.02 MB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/lt/documents/product-information/kisqali-epar-product-information_lt.pdf)
 
-magyar (HU) (973.5 KB - PDF)
+magyar (HU) (1019.51 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/hu/documents/product-information/kisqali-epar-product-information_hu.pdf)
 
-Malti (MT) (1002.06 KB - PDF)
+Malti (MT) (1.05 MB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/mt/documents/product-information/kisqali-epar-product-information_mt.pdf)
 
-Nederlands (NL) (945.53 KB - PDF)
+Nederlands (NL) (1000.73 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/nl/documents/product-information/kisqali-epar-product-information_nl.pdf)
 
-norsk (NO) (903 KB - PDF)
+polski (PL) (1.02 MB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
-
-[View](/no/documents/product-information/kisqali-epar-product-information_no.pdf)
-
-polski (PL) (994.16 KB - PDF)
-
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/pl/documents/product-information/kisqali-epar-product-information_pl.pdf)
 
-português (PT) (927.38 KB - PDF)
+português (PT) (982.36 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/pt/documents/product-information/kisqali-epar-product-information_pt.pdf)
 
-română (RO) (981.9 KB - PDF)
+română (RO) (1.01 MB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/ro/documents/product-information/kisqali-epar-product-information_ro.pdf)
 
-slovenčina (SK) (988.84 KB - PDF)
+slovenčina (SK) (1.01 MB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/sk/documents/product-information/kisqali-epar-product-information_sk.pdf)
 
-slovenščina (SL) (995.68 KB - PDF)
+slovenščina (SL) (1.02 MB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/sl/documents/product-information/kisqali-epar-product-information_sl.pdf)
 
-Suomi (FI) (917.11 KB - PDF)
+suomi (FI) (960.88 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/fi/documents/product-information/kisqali-epar-product-information_fi.pdf)
 
-svenska (SV) (871.49 KB - PDF)
+svenska (SV) (930.38 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 21/05/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/sv/documents/product-information/kisqali-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000315309
+Íslenska (IS) (977.43 KB - PDF)
 
-26/03/2026
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
+
+[View](/is/documents/product-information/kisqali-epar-product-information_is.pdf)
+
+norsk (NO) (949.19 KB - PDF)
+
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
+
+[View](/no/documents/product-information/kisqali-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000362873
+
+03/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -451,179 +452,170 @@ Product information documents contain:
 
 Kisqali : EPAR - All Authorised presentations
 
-English (EN) (101.3 KB - PDF)
+English (EN) (77.96 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/en/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-828)
+[Other languages (24)](#file-language-dropdown-26)
 
-български (BG) (150.03 KB - PDF)
+български (BG) (83.72 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/bg/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (142.27 KB - PDF)
+español (ES) (74.73 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/es/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (144.06 KB - PDF)
+čeština (CS) (78.4 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/cs/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (142.52 KB - PDF)
+dansk (DA) (74.34 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/da/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (143.4 KB - PDF)
+Deutsch (DE) (76.22 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/de/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (142.05 KB - PDF)
+eesti (ET) (74.29 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/et/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (105.27 KB - PDF)
+ελληνικά (EL) (80.92 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/el/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (141.57 KB - PDF)
+français (FR) (74.48 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/fr/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (104.93 KB - PDF)
+hrvatski (HR) (76.61 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/hr/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (59.56 KB - PDF)
+italiano (IT) (72.4 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
-
-[View](/is/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_is.pdf)
-
-italiano (IT) (95.5 KB - PDF)
-
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/it/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (146.36 KB - PDF)
+latviešu (LV) (79.83 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/lv/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (145.74 KB - PDF)
+lietuvių (LT) (79.01 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/lt/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (146.56 KB - PDF)
+magyar (HU) (80.45 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/hu/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (146.36 KB - PDF)
+Malti (MT) (79.78 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/mt/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (102.62 KB - PDF)
+Nederlands (NL) (73.59 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/nl/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (101.56 KB - PDF)
+polski (PL) (76.62 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
-
-[View](/no/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_no.pdf)
-
-polski (PL) (101.46 KB - PDF)
-
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/pl/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (99.18 KB - PDF)
+português (PT) (74.92 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/pt/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (104.04 KB - PDF)
+română (RO) (77.77 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/ro/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (144.73 KB - PDF)
+slovenčina (SK) (78.94 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/sk/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (144.3 KB - PDF)
+slovenščina (SL) (78.42 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/sl/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (141.71 KB - PDF)
+suomi (FI) (74.39 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/fi/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (102.12 KB - PDF)
+svenska (SV) (75.06 KB - PDF)
 
-**First published:** 31/08/2017 **Last updated:** 31/08/2017
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
 
 [View](/sv/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (75.64 KB - PDF)
+
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
+
+[View](/is/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (74.71 KB - PDF)
+
+**First published:** 31/08/2017 **Last updated:** 05/08/2026
+
+[View](/no/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Kisqali
-
-Active substance
-
-ribociclib succinate
-
-International non-proprietary name (INN) or common name
-
-ribociclib
-
-Therapeutic area (MeSH)
-
-Breast Neoplasms
-
-Anatomical therapeutic chemical (ATC) code
-
-L01EF02
+- **Name of medicine**
+    - Kisqali
+- **Active substance**
+    - ribociclib succinate
+- **International non-proprietary name (INN) or common name**
+    - ribociclib
+- **Therapeutic area (MeSH)**
+    - Breast Neoplasms
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01EF02
 
 ### Pharmacotherapeutic group
 
@@ -631,31 +623,30 @@ Antineoplastic agents
 
 ### Therapeutic indication
 
-Early breast cancer Kisqali in combination with an aromatase inhibitor is indicated for the adjuvant treatment of patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative early breast cancer at high risk of recurrence (see section 5.1 for selection criteria). In pre- or perimenopausal women, or in men, the aromatase inhibitor should be combined with a luteinising hormone-releasing hormone (LHRH) agonist. Advanced or metastatic breast cancer Kisqali is indicated for the treatment of women with HR-positive, HER2-negative locally advanced or metastatic breast cancer in combination with an aromatase inhibitor or fulvestrant as initial endocrine-based therapy, or in women who have received prior endocrine therapy. In pre- or perimenopausal women, the endocrine therapy should be combined with a LHRH agonist.
+Early breast cancer
+
+Kisqali in combination with an aromatase inhibitor is indicated for the adjuvant treatment of patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative early breast cancer at high risk of recurrence (see section 5.1 for selection criteria).
+
+In pre- or perimenopausal women, or in men, the aromatase inhibitor should be combined with a luteinising hormone-releasing hormone (LHRH) agonist.
+
+Advanced or metastatic breast cancer
+
+Kisqali is indicated for the treatment of women with HR-positive, HER2-negative locally advanced or metastatic breast cancer in combination with an aromatase inhibitor or fulvestrant as initial endocrine-based therapy, or in women who have received prior endocrine therapy.
+
+In pre- or perimenopausal women, the endocrine therapy should be combined with a LHRH agonist.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004213
-
-Marketing authorisation holder
-
-Novartis Europharm Limited
-
-Vista Building
-
-Opinion adopted
-
-22/06/2017
-
-Marketing authorisation issued
-
-22/08/2017
-
-Revision
-
-26
+- **EMA product number**
+    - EMEA/H/C/004213
+- **Marketing authorisation holder**
+    - Novartis Europharm Limited Vista Building  Elm Park  Merrion Road  Dublin 4  D04 A9N6  Ireland
+- **Opinion adopted**
+    - 22/06/2017
+- **Marketing authorisation issued**
+    - 22/08/2017
+- **Revision**
+    - 27
 
 ## Assessment history
 
@@ -663,13 +654,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Kisqali : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (189.59 KB - PDF)
+English (EN) (158.87 KB - PDF)
 
-**First published:** 25/09/2025 **Last updated:** 21/05/2026
+**First published:** 25/09/2025 **Last updated:** 05/08/2026
 
 [View](/en/documents/procedural-steps-after/kisqali-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -739,7 +730,7 @@ English (EN) (123.76 KB - PDF)
 
 **First published:** 04/01/2023
 
-[View](/en/documents/scientific-conclusion/kisqali-h-c-psusa-00010633-202203-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/kisqali-h-c-psusa-00010633-202203-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Kisqali-H-C-4213-II-0004 : EPAR - Assessment report - Variation
 
@@ -751,7 +742,7 @@ English (EN) (8.23 MB - PDF)
 
 [View](/en/documents/variation-report/kisqali-h-c-4213-ii-0004-epar-assessment-report-variation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Kisqali : EPAR - Public assessment report
 
@@ -799,6 +790,6 @@ English (EN) (68.19 KB - PDF)
 
 **This page was last updated on**
 
-21/05/2026
+05/08/2026
 
 ## Share this page

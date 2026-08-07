@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-28 16:32:25
-document_pages: 32
+document_datetime: 2026-08-05 11:05:15
+document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/iqirvo-epar-product-information_en.pdf
 document_name: iqirvo-epar-product-information_en.pdf
 version: success
-processing_time: 10.4876458
-conversion_datetime: 2025-12-28 09:28:11.444501
+processing_time: 10.4675556
+conversion_datetime: 2026-08-07 14:30:04.175089
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -50,7 +50,7 @@ Iqirvo is indicated for the treatment of primary biliary cholangitis (PBC) in co
 
 ## 4.2 Posology and method of administration
 
-## Posology
+Posology
 
 The recommended dose is 80 mg once daily.
 
@@ -85,7 +85,7 @@ For oral use.
 ## 4.3 Contraindications
 
 - -Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-- -Known or suspected pregnancy and in women of childbearing age who do not use contraception (see section 4.6).
+- -Known  or  suspected  pregnancy  and  in  women  of  childbearing  age  who  do  not  use  effective contraception (see sections 4.4, 4.5 and 4.6).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -103,7 +103,7 @@ Increases in blood creatine phosphokinase (CPK) have been reported in participan
 
 ## Embryo-foetal toxicity
 
-Based on data from animal studies, elafibranor is suspected to cause congenital malformations and reduced foetal survival when administered to a pregnant woman (see section 4.6). Therefore, elafibranor is contra-indicated in women with a known or suspected pregnancy and in women of childbearing age who do not use contraception (see section 4.3). Women with childbearing potential should be informed about this.
+Based on data from animal studies, elafibranor is suspected to cause congenital malformations and reduced foetal survival when administered to a pregnant woman (see section 4.6). Therefore, elafibranor is contra-indicated in women with a known or suspected pregnancy and in women of childbearing age who do not use effective contraception (see sections 4.3, 4.5 and 4.6). Women with childbearing potential should be informed about this.
 
 ## Excipients
 
@@ -113,7 +113,29 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Based on in vitro and in vivo studies, no clinically relevant drug-drug interaction is expected by coadministering elafibranor with any other medicinal products (see section 5.2).
+## Effect of elafibranor on other medicinal products
+
+## CYP3A4 substrates
+
+Based on clinical studies conducted , elafibranor may be a mild CYP3A4 inducer.
+
+A clinical  interaction  study  demonstrated  that  co-administration  of  elafibranor  80  mg  once  daily  at steady state and a single dose of combined oral contraceptive (0.02 mg ethinylestradiol and 0.15 mg levonorgestrel) produced a decrease of ethinylestradiol exposure (Cmax decreased by 20% and AUCinf decreased by 35%) which may lead to contraceptive failure and/or an increase in breakthrough bleeding, while levonorgestrel exposure remained unaffected. As a result, women of childbearing potential should use effective non-hormonal contraceptives or add a barrier method when using hormonal contraceptives (see section 4.6).
+
+## CYP2C9 substrates (Warfarin):
+
+Concomitant administration of elafibranor with warfarin resulted in no increase in exposure (AUC, Cmax) of warfarin, and no difference in international normalized ratio (INR) compared to warfarin alone.
+
+## CYP3A, Breast Cancer Resistance Protein (BCRP), organic anion transporting polypeptides 1B1 (OATP1B1) and OATP1B3 substrates (Simvastatin) and CYP3A, organic anion transporting polypeptides 1B1 (OATP1B1) and OATP1B3 substrates (Atorvastatin):
+
+Concomitant administration of repeat doses of elafibranor with simvastatin, or atorvastatin, resulted in no clinically meaningful change in exposure of simvastatin or its β -Hydroxyacid metabolite, or atorvastatin.
+
+The Cmax and AUCinf of the active metabolite of simvastatin, simavastatin β -hydroxyacid, decreased by 26% and 32% respectively following concomitant use of a single dose of simvastatin 20 mg and elafibranor 80 mg once daily at steady state.
+
+The Cmax and AUCinf of atorvastatin decreased by 28% and 11% respectively following concomitant use of a single dose of atorvastatin 40 mg and elafibranor 180 mg once daily at steady state.
+
+## Dipeptidyl peptidase-IV (DPP-IV) inhibitors (Sitagliptin):
+
+No clinically significant effects on blood levels of GLP-1 were observed when coadministering 100 mg of elafibranor as a DDI perpetrator once daily for 15 days with a single oral 100 mg dose of sitagliptin during a meal test.
 
 ## 4.6 Fertility, pregnancy, and lactation
 
@@ -123,7 +145,11 @@ No human data on the effect of elafibranor on fertility are available. Animal st
 
 ## Women of childbearing potential/contraception
 
-Women of childbearing potential have to use effective contraception during and up to at least 3 weeks following the final dose of elafibranor. The pregnancy status of patients of childbearing potential should be checked prior to initiation of elafibranor treatment (see section 4.4).
+Women of childbearing potential have to use effective contraception during and up to at least 3 weeks following the final dose of elafibranor. Elafibranor may  decrease ethinylestradiol-containing contraceptives efficacy (see section 4.5), and therefore women of childbearing potential should  use effective non-hormonal contraceptives or add a barrier method when using hormonal contraceptives.
+
+<div style=\"page-break-after: always\"></div>
+
+The  pregnancy  status  of  patients  of  childbearing  potential  should  be  checked  prior  to  initiation  of elafibranor treatment (see section 4.4).
 
 ## Pregnancy
 
@@ -149,13 +175,13 @@ Elafibranor has no influence on the ability to drive and use machines.
 
 The most commonly reported adverse drug reactions associated with elafibranor treatment (n = 108) which occurred in more than 10% of participants and with a higher incidence than in the placebo group (n = 53; difference &gt;1%) were abdominal pain (11.1% versus 5.7%), diarrhoea (11.1% versus 9.4%), nausea (11.1% versus 5.7%), and vomiting (11.1% versus 1.9%). These were non-serious, mild to moderate, occurred early in treatment and tended to resolve within days to a few weeks without any dose modification or supportive measures.
 
-<div style=\"page-break-after: always\"></div>
-
 The most common adverse drug reaction leading to treatment discontinuation was blood CPK increased (3.7%).
 
 ## Tabulated list of adverse reactions
 
 Within the system organ class, the adverse reactions are listed by frequency using the following categories: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), not known (cannot be estimated from the available data).
+
+<div style=\"page-break-after: always\"></div>
 
 | System organ class                              | Very common                                | Common              | Uncommon                   |
 |-------------------------------------------------|--------------------------------------------|---------------------|----------------------------|
@@ -184,13 +210,13 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 In the event of suspected overdose, patients should be carefully observed, and appropriate symptomatic treatment and supportive care should be initiated.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Bile and liver therapy, Other drugs for bile therapy ATC code: A05AX06
+
+<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -198,7 +224,7 @@ Elafibranor and its main active metabolite GFT1007 are dual peroxisome prolifera
 
 PPAR α/δ are thought to be key regulators of bile acid (BA) homeostasis, inflammation and fibrosis. Activation of PPARα and PPARδ decreases bile toxicity and improve cholestasis by modulating BA synthesis, detoxification and transporters.
 
-Activation of PPARα and PPARδ also has anti-inflammatory effects by acting on different pathways.
+Activation of PPARα and PPARδ also has anti -inflammatory effects by acting on different pathways.
 
 ## Pharmacodynamic effects
 
@@ -218,13 +244,13 @@ Overall, the mean age was 57.1 years, and the mean weight was 70.8 kg. The study
 
 The median duration of exposure was 63.07 and 61.00 weeks in the elafibranor and placebo groups, respectively.
 
-The mean baseline TB concentration was 9.6 µmol/L and 96% of participants had a baseline TB concentration less than or equal to ULN. The mean baseline liver stiffness measurement  by transient
+The mean baseline TB concentration was 9.6 µmol/L and 96% of participants had a baseline TB concentration less than or equal to ULN. The mean baseline liver stiffness measurement  by transient elastography was 10.1 kPa. The baseline mean PBC WI-NRS score was 3.3 and 41% had moderate-tosevere pruritus at baseline (PBC WINRS score ≥4); for those with moderate -to-severe pruritus, the baseline mean PBC WI-NRS score was 6.2 for participants in the elafibranor 80 mg group and 6.3 for participants in the placebo group. The majority (95%) of participants received treatment in combination with UDCA or as monotherapy in 5% of participants who were unable to tolerate UDCA.
+
+The primary endpoint was cholestasis response at week 52 as defined as the composite endpoint: ALP &lt; 1.67 x ULN and TB ≤ ULN and ALP decrease ≥ 15%. The key secondary endpoints were ALP
 
 <div style=\"page-break-after: always\"></div>
 
-elastography was 10.1 kPa. The baseline mean PBC WI-NRS score was 3.3 and 41% had moderate-tosevere pruritus at baseline (PBC WI-NRS score ≥4); for those with moderate-to-severe pruritus, the baseline mean PBC WI-NRS score was 6.2 for participants in the elafibranor 80 mg group and 6.3 for participants in the placebo group. The majority (95%) of participants received treatment in combination with UDCA or as monotherapy in 5% of participants who were unable to tolerate UDCA.
-
-The primary endpoint was cholestasis response at week 52 as defined as the composite endpoint: ALP &lt; 1.67 x ULN and TB ≤ ULN and ALP decrease ≥ 15%. The key secondary endpoints were ALP normalization at week 52 and the change in pruritus from baseline through week 52 and through week 24 based on the PBC WI-NRS score in participants with moderate-to-severe pruritus at baseline.
+normalization at week 52 and the change in pruritus from baseline through week 52 and through week 24 based on the PBC WI-NRS score in participants with moderate-to-severe pruritus at baseline.
 
 Table 1 shows the primary composite endpoint of cholestasis response and the key secondary endpoint of ALP normalization.
 
@@ -239,11 +265,13 @@ Table 1. Percentage of Adult Participants with PBC Achieving the Primary Efficac
 
 ITT: Intention-to-treat
 
-[1]  Cholestasis response is defined as ALP &lt;1.67x ULN and TB ≤ULN and ALP decrease from baseline ≥ 15% at week 52. Participants who stopped prematurely the study treatment (intercurrent event 1) or used rescue therapy for PBC (intercurrent event 2) prior to week 52 assessment were considered as non-responders. In case of missing data at week 52 for participants without an intercurrent event, the closest non-missing assessment from the DB treatment period was taken into account.
+[1] Cholestasis response is defined as ALP &lt;1.67x ULN and TB ≤ULN and ALP decrease from baseline ≥ 15% at week 52. Participants who stopped prematurely the study treatment (intercurrent event 1) or used rescue therapy for PBC (intercurrent event 2) prior to week 52 assessment were considered as non-responders. In case of missing data at week 52 for participants without an intercurrent event, the closest non-missing assessment from the DB treatment period was taken into account.
 
-[2]  Normalization of ALP at week 52 defined as proportion of participants with ALP ≤1.0× ULN. The approach to handle intercurrent events or missing data is the same as for the primary endpoint.
+[2] Normalization of ALP at week 52 defined as proportion of participants with ALP ≤1.0× ULN. The approach to handle intercurrent events or missing data is the same as for the primary endpoint.
 
-[3]  The response rate differences between the treatment groups and 95% CI were calculated using the Newcombe method stratified by randomization strata for cholestasis response and unstratified for ALP normalization.
+[3]  The response rate differences between the treatment groups and 95% CI were calculated using the Newcombe
+
+method stratified by randomization strata for cholestasis response and unstratified for ALP normalization.
 
 [4]  Odds ratios of response and p-values to compare treatments were from the exact Cochran-Mantel-Haenszel (CMH) test stratified by the randomization strata.
 
@@ -252,6 +280,8 @@ A significant decrease in ALP from baseline was seen as early as week 4 and was 
 <div style=\"page-break-after: always\"></div>
 
 Figure 1. Mean (Least Squares (LS) mean with 95% CI) Change from Baseline in ALP Over Time - ITT analysis set
+
+20
 
 <!-- image -->
 
@@ -291,7 +321,7 @@ Table 3. Change in Pruritus from Baseline to Week 52 in PBC-40 Itch and 5-D Itch
 
 ## Lipid parameters
 
-Elafibranor demonstrated a favourable effect on lipid parameters. The mean reduction in very lowdensity lipoprotein-cholesterol (VLDL-C) and triglycerides (TG) was greater in participants treated with elafibranor compared to placebo at Week 52. The LS means difference from placebo in VLDL-C was -0.1 mmol/L [(95% CI: -0.2, -0.1); p&lt;0.001] and for TG was -0.3 mmol/L [(95% CI: -0.4, -0.1)]; p&lt;0.001]. High-density lipoprotein-cholesterol (HDL-C) remained stable on treatment with elafibranor.
+Elafibranor demonstrated a favourable effect on lipid parameters. The mean reduction in very lowdensity lipoprotein-cholesterol (VLDL-C) and triglycerides (TG) was greater in participants treated with elafibranor compared to placebo at Week 52. The LS means difference from placebo in VLDL-C was -0.1 mmol/L [(95% CI: -0.2, 0.1); p&lt;0.001] and for TG was -0.3 mmol/L [(95% CI: -0.4, -0.1)]; p&lt;0.001]. High -density lipoprotein-cholesterol (HDL-C) remained stable on treatment with elafibranor.
 
 ## Paediatric population
 
@@ -309,10 +339,12 @@ Elafibranor plasma exposure (AUC) increases proportionally from 50 to 360 mg (0.
 
 Table 4. Elafibranor and GFT1007 exposures in participants with PBC at steady state following 80 mg QD (once daily)
 
-|             |   C max,ss (ng/mL) |   AUC 0-24 (ng • h/mL) |   Accumulation ratio |
-|-------------|--------------------|------------------------|----------------------|
-| Elafibranor |                802 |                   3758 |                  2.9 |
-| GFT1007     |               2058 |                  11985 |                  1.3 |
+|             | C max,ss (ng/mL) Mean (SD)   | AUC 0-24 (ng • h/mL) Mean (SD)   | Accumulation ratio between Day 15/Day 1 Mean (min, max) a   |
+|-------------|------------------------------|----------------------------------|-------------------------------------------------------------|
+| Elafibranor | 802 (443)                    | 3758 (1749)                      | 2.9 (0.86 to 13)                                            |
+| GFT1007     | 2058 (459)                   | 11985 (7149)                     | 1.3 (0.6 to 3)                                              |
+
+a Day 15 following repeated elafibranor 80 mg once daily administration in patients with PBC
 
 ## Absorption
 
@@ -326,7 +358,7 @@ Plasma protein binding of both elafibranor and GFT1007 is approximately 99.7% (m
 
 ## Biotransformation
 
-In vitro, elafibranor is metabolised by 15-ketoprostaglandin 13-Δ reductase (PTGR1). In vitro neither elafibranor nor GFT1007 show major metabolism by the main cytochrome P450 (CYP) and uridine diphosphate (UDP)-glucuronosyltransferase (UGT) isoforms.
+In vitro, elafibranor is metabolised by 15-ketoprostaglandin 13Δ reductase (PTGR1). In vitro neither elafibranor nor GFT1007 show major metabolism by the main cytochrome P450 (CYP) and uridine diphosphate (UDP)-glucuronosyltransferase (UGT) isoforms.
 
 Following oral administration of 14C radiolabelled elafibranor, it was rapidly hydrolysed to the active metabolite GFT1007. Two major metabolites were identified in plasma, GFT1007 (active metabolite) and glucuronide conjugates (inactive metabolites).
 
@@ -342,31 +374,15 @@ Following a single 120 mg oral dose of 14C radiolabelled elafibranor in healthy 
 
 There was no evidence that age (from 18 to 80 years old), gender, race, Body Mass Index (BMI), and renal status, had any clinically meaningful impact on elafibranor and GFT1007 PK.
 
-## Hepatic impairment
-
-The total drug exposure of the parent and active metabolite was not significantly different between participants with normal hepatic function and hepatically impaired participants (Child Pugh A, B and C). No dose adjustment is required for patients with mild (Child Pugh A) or moderate (Child Pugh B) hepatic impairment. However, the unbound fraction of elafibranor and GFT1007 increased by
-
 <div style=\"page-break-after: always\"></div>
 
-approximately 3-fold in the severe (Child Pugh C) hepatically impaired participants. Elafibranor is not recommended for patients with severe hepatic impairment (Child-Pugh C).
+## Hepatic impairment
+
+The total drug exposure of the parent and active metabolite was not significantly different between participants with normal hepatic function and hepatically impaired participants (Child Pugh A, B and C). No dose adjustment is required for patients with mild (Child Pugh A) or moderate (Child Pugh B) hepatic impairment. However, the unbound fraction of elafibranor and GFT1007 increased by approximately 3-fold in the severe (Child Pugh C) hepatically impaired participants. Elafibranor is not recommended for patients with severe hepatic impairment (Child-Pugh C).
 
 ## Drug-drug interactions
 
 Based on in vitro studies, CYP and UGT enzymes were shown not to play a major role in elafibranor metabolism. Drug-drug interactions (DDI) are expected to be minimal with drugs that significantly alter CYP or UGT activity.
-
-## Clinical studies
-
-## Warfarin (CYP2C9 substrate):
-
-Concomitant administration of elafibranor with warfarin resulted in no increase in exposure (AUC, Cmax) of warfarin, and no difference in international normalized ratio (INR) compared to warfarin alone.
-
-Simvastatin (CYP3A, Breast Cancer Resistance Protein (BCRP), organic anion transporting polypeptides 1B1 (OATP1B1) and OATP1B3 substrates) and atorvastatin (CYP3A, organic anion transporting polypeptides 1B1 (OATP1B1) and OATP1B3 substrates):
-
-Concomitant administration of repeat doses of elafibranor with simvastatin, or atorvastatin, resulted in no increase in exposure (AUC, Cmax) of simvastatin or its β-Hydroxyacid metabolite, or atorvastatin.
-
-## Sitagliptin (dipeptidyl peptidase-IV (DPP-IV) inhibitor):
-
-No clinically significant effects on blood levels of GLP-1 were observed when coadministering 100 mg of elafibranor as a DDI perpetrator once daily for 15 days with a single oral 100 mg dose of sitagliptin during a meal test.
 
 ## In Vitro Studies
 
@@ -388,11 +404,11 @@ Elafibranor was an inhibitor of OATP1B3 and BCRP. Based on the in vivo studies w
 
 Nonclinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeat dose toxicity, genotoxicity and carcinogenic potential.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Reproduction and development toxicity
 
 Elafibranor has shown evidence of developmental toxicity in both rats and rabbits.In rat pre- and postnatal study, maternal exposures to elafibranor (at or above 2-fold the AUC exposure at the maximum human recommended dose (MHRD)) led to reduced pup survival, developmental delay, or thrombosis. In pregnant rabbits, maternal exposure (3-fold the AUC exposure at MHRD) to elafibranor caused marked maternal toxicity, increased embryo-lethality, reduced foetal weight and a low incidence of foetal malformations.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -430,21 +446,21 @@ Not all pack sizes may be marketed.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Ipsen Pharma 70 rue Balard 75015 Paris France
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/24/1855/001 (30 tablets)
-
-EU/1/24/1855/002 [90 (3 packs of 30) tablets]
+EU/1/24/1855/001 (30 tablets) EU/1/24/1855/002 [90 (3 packs of 30) tablets]
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 19 September 2024
+
+Date of latest renewal: 30 July 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -456,8 +472,11 @@ Detailed information on this medicinal product is available on the website of th
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
 - E. SPECIFIC OBLIGATION TO COMPLETE POSTAUTHORISATION MEASURES FOR THE CONDITIONAL MARKETING AUTHORISATION
 
 <div style=\"page-break-after: always\"></div>
@@ -495,9 +514,9 @@ An updated RMP should be submitted:
 
 This being a conditional marketing authorisation and pursuant to Article 14-a of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                  | Due date   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| In order to confirm the efficacy and safety of elafibranor in the treatment of primary biliary cholangitis (PBC) in combination with ursodeoxycholic acid (UDCA) in adults with an inadequate response to UDCA, or as monotherapy in patients unable to tolerate UDCA, the MAHshall conduct and submit the final results of the phase III randomised, parallel-group, double-blind, placebo- |            |
+| Description                                                                                                                                                                                                                                                                                                                                                                                   | Due date   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| In order to confirm the efficacy and safety of elafibranor in the treatment of primary biliary cholangitis (PBC) in combination with ursodeoxycholic acid (UDCA) in adults with an inadequate response to UDCA, or as monotherapy in patients unable to tolerate UDCA, the MAH shall conduct and submit the final results of the phase III randomised, parallel-group, double-blind, placebo- |            |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -559,13 +578,13 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Ipsen Pharma 70 rue Balard 75015 Paris France
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/24/1855/001 30 tablets
 
@@ -590,8 +609,8 @@ iqirvo
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -623,27 +642,29 @@ Oral use.
 
 Read the package leaflet before use.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
 8. EXPIRY DATE
 
 EXP
 
 9. SPECIAL STORAGE CONDITIONS
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Ipsen Pharma 70 rue Balard 75015 Paris France
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/24/1855/002 90 tablets (3 packs of 30)
 
@@ -668,8 +689,8 @@ iqirvo
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -719,13 +740,13 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Ipsen Pharma 70 rue Balard 75015 Paris France
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/24/1855/002 90 tablets (3 packs of 30)
 
@@ -748,12 +769,10 @@ iqirvo
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-2D barcode carrying the unique identifier included.
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
-
-PC SN NN
+25
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -799,13 +818,13 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Ipsen Pharma 70 rue Balard 75015 Paris France
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/24/1855/001 30 tablets EU/1/24/1855/002 90 (3 packs of 30) tablets
 
@@ -826,10 +845,10 @@ Lot
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-26
+27
 
 <div style=\"page-break-after: always\"></div>
 
@@ -874,7 +893,7 @@ The active substance in Iqirvo, elafibranor, works by activating the PPAR alpha 
 ## Do not take Iqirvo
 
 - -if you are allergic to elafibranor or any of the other ingredients of this medicine (listed in section 6).
-- -if you are pregnant, if you think you might be pregnant or if you do not use any method of contraception to prevent pregnancy
+- -if you are pregnant, if you think you might be pregnant or if you do not use effective method of contraception to prevent pregnancy. Please read the information under 'Pregnancy' and 'Other medicines and Iqirvo'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -890,7 +909,9 @@ This medicine should not be used in children and adolescents below 18 years of a
 
 ## Other medicines and Iqirvo
 
-Tell your doctor if you are taking, have recently taken or might take any other medicines.
+Tell your doctor if you are taking, have recently taken or might take any other medicines. It is especially important to tell your doctor if you are taking:
+
+- contraception (birth control) medicines containing hormones.
 
 ## Pregnancy
 
@@ -898,7 +919,7 @@ Do not take Iqirvo if you are pregnant, if you think you might be pregnant or if
 
 Your doctor may ask you to take a pregnancy test before starting treatment with Iqirvo to ensure you are not pregnant prior starting treatment.
 
-If you are a woman of childbearing potential, you should use effective contraception (birth control) whilst taking this medicine and for at least 3 weeks after stopping treatment to avoid any harm to the unborn child. Your doctor will advise you on the best contraception for you.
+If you are a woman of childbearing potential, you should use effective contraception (birth control) whilst taking this medicine and for at least 3 weeks after stopping treatment to avoid any harm to the unborn child. Because Iqirvo may reduce the effictiveness of hormonal birth control (such as pills, injections, patches, implants and certain intrauterine devices (IUDs) that release hormones), you should use a different method of birth control, such as a non-hormonal IUD (intrauterine device) or add a barrier method (e.g. condom) so you do not become pregnant while you are taking this medicine. Your doctor will advise you on the best contraception for you.
 
 ## Breast-feeding
 
@@ -914,6 +935,8 @@ Always take this medicine exactly as your doctor has told you. Check with your d
 
 The recommended dose is one 80 mg tablet, once a day. Swallow the tablets whole with water. Ask your doctor before taking Iqirvo if you have advanced cirrhosis (a type of chronic, progressive liver disease in which liver cells are replaced by scar tissue) with severely reduced liver function (Child-Pugh C).
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you take more Iqirvo than you should
 
 If you have taken more of this medicine than you have been instructed to, talk to a doctor or go to the hospital straight away. Take the tablets and this leaflet with you.
@@ -921,8 +944,6 @@ If you have taken more of this medicine than you have been instructed to, talk t
 ## If you forget to take Iqirvo
 
 If you forget to take Iqirvo, skip the dose and take your next dose when it is due.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not take a double dose to make up for a forgotten dose.
 
@@ -958,7 +979,7 @@ Possible side effects are:
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V.* By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V.* By reporting side effects, you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Iqirvo
 
@@ -968,9 +989,9 @@ Do not use this medicine after the expiry date which is stated on the bottle lab
 
 This medicinal product does not require any special storage conditions.
 
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
 <div style=\"page-break-after: always\"></div>
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
@@ -1006,9 +1027,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien, Luxembourg/Luxemburg
 
-Ipsen NV
+Ipsen NV België /Belgique/Belgien
 
-België /Belgique/Belgien Tél/Tel: + 32 - 9 - 243 96 00
+Tél/Tel: + 32 - 9 - 243 96 00
 
 ## Latvija
 
@@ -1030,29 +1051,23 @@ IPSEN Pharma Hungary Kft.
 
 Tel.: +36-1-555-5930
 
+<div style=\"page-break-after: always\"></div>
+
 ## Deutschland, Österreich
 
-Ipsen Pharma GmbH Deutschland
+Ipsen Pharma GmbH
+
+Deutschland
 
 Tel.: +49 89 2620 432 89
 
-## Nederland
+## Ελλάδα , Κύπρος , Malta
 
-Ipsen Farmaceutica B.V.
+Ipsen Μονοπρόσωπη E ΠΕ Ελλάδα
 
-Tel: + 31 (0) 23 554 1600
+Τηλ: + 30
 
-## Ελλάδα, Κύπρος, Malta
-
-Ipsen Μονοπρόσωπη EΠΕ Ελλάδα
-
-Τηλ: + 30 - 210 - 984 3324
-
-## Polska
-
-Ipsen Poland Sp. z o.o.
-
-Tel.: + 48 (0) 22 653 68 00
+- 210 - 984 3324
 
 ## España
 
@@ -1060,13 +1075,7 @@ Ipsen Pharma, S.A.U
 
 Tel: + 34 - 936 - 858 100
 
-## Portugal
-
-Ipsen Portugal - Produtos Farmacêuticos
-
-S.A. Tel: + 351 - 21 - 412 3550
-
-## France, България, Eesti, Hrvatska, Slovenija
+## France, България , Eesti, Hrvatska, Slovenija
 
 Ipsen Pharma
 
@@ -1074,31 +1083,17 @@ France
 
 Tél: + 33 1 58 33 50 00
 
-## România
-
-Ipsen Pharma România SRL
-
-Tel: + 40 21 231 27 20
-
 ## Ireland
 
 Ipsen Pharmaceuticals Ltd.
 
 Tel: +353-1-809-8256
 
-## Slovenská republika
-
-Ipsen Pharma, organizačná zložka
-
-Tel: + 420 242 481 821
-
 ## Italia
 
 Ipsen SpA
 
 Tel: + 39 - 02 - 39 22 41
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -1109,3 +1104,31 @@ The European Medicines Agency will review new information on this medicine at le
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+
+## Nederland
+
+Ipsen Farmaceutica B.V.
+
+Tel: + 31 (0) 23 554 1600
+
+## Polska
+
+Ipsen Poland Sp. z o.o.
+
+Tel.: + 48 (0) 22 653 68 00
+
+## Portugal
+
+Ipsen Portugal - Produtos Farmacêuticos S.A. Tel: + 351 - 21 - 412 3550
+
+## România
+
+Ipsen Pharma România SRL
+
+Tel: + 40 21 231 27 20
+
+## Slovenská republika
+
+Ipsen Pharma, organizačná zložka
+
+Tel: + 420 242 481 821

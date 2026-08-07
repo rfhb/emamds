@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-24 11:42:00
+document_datetime: 2026-08-06 15:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/spikevax.html
 document_name: spikevax.html
 version: success
-processing_time: 0.4595408
-conversion_datetime: 2026-07-28 12:54:03.788448
+processing_time: 0.4789603
+conversion_datetime: 2026-08-07 13:48:43.257267
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Spikevax (previously COVID-19 Vaccine Moderna)
 
@@ -232,7 +232,7 @@ English (EN) (179.32 KB - PDF)
 
 [View](/en/documents/overview/spikevax-previously-covid-19-vaccine-moderna-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-946)
+[Other languages (22)](#file-language-dropdown-993)
 
 български (BG) (235.49 KB - PDF)
 
@@ -378,161 +378,161 @@ English (EN) (1.55 MB - PDF)
 
 Spikevax : EPAR - Product information
 
-English (EN) (1.14 MB - PDF)
+English (EN) (1.35 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/en/documents/product-information/spikevax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-276)
+[Other languages (24)](#file-language-dropdown-907)
 
-български (BG) (1.45 MB - PDF)
+български (BG) (1.9 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/bg/documents/product-information/spikevax-epar-product-information_bg.pdf)
 
-español (ES) (1.18 MB - PDF)
+español (ES) (1.43 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/es/documents/product-information/spikevax-epar-product-information_es.pdf)
 
-čeština (CS) (1.12 MB - PDF)
+čeština (CS) (1.45 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/cs/documents/product-information/spikevax-epar-product-information_cs.pdf)
 
-dansk (DA) (1.15 MB - PDF)
+dansk (DA) (1.46 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/da/documents/product-information/spikevax-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.28 MB - PDF)
+Deutsch (DE) (1.54 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/de/documents/product-information/spikevax-epar-product-information_de.pdf)
 
-eesti (ET) (1.05 MB - PDF)
+eesti (ET) (1.36 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/et/documents/product-information/spikevax-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.37 MB - PDF)
+ελληνικά (EL) (1.76 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/el/documents/product-information/spikevax-epar-product-information_el.pdf)
 
-français (FR) (1.41 MB - PDF)
+français (FR) (1.68 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/fr/documents/product-information/spikevax-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.25 MB - PDF)
+hrvatski (HR) (1.59 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/hr/documents/product-information/spikevax-epar-product-information_hr.pdf)
 
-italiano (IT) (1.17 MB - PDF)
+italiano (IT) (1.53 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/it/documents/product-information/spikevax-epar-product-information_it.pdf)
 
-latviešu (LV) (1.19 MB - PDF)
+latviešu (LV) (1.55 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/lv/documents/product-information/spikevax-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.43 MB - PDF)
+lietuvių (LT) (1.77 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/lt/documents/product-information/spikevax-epar-product-information_lt.pdf)
 
-magyar (HU) (1.47 MB - PDF)
+magyar (HU) (1.75 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/hu/documents/product-information/spikevax-epar-product-information_hu.pdf)
 
-Malti (MT) (1.35 MB - PDF)
+Malti (MT) (1.74 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/mt/documents/product-information/spikevax-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.1 MB - PDF)
+Nederlands (NL) (1.32 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/nl/documents/product-information/spikevax-epar-product-information_nl.pdf)
 
-polski (PL) (1.52 MB - PDF)
+polski (PL) (1.9 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/pl/documents/product-information/spikevax-epar-product-information_pl.pdf)
 
-português (PT) (1.24 MB - PDF)
+português (PT) (1.56 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/pt/documents/product-information/spikevax-epar-product-information_pt.pdf)
 
-română (RO) (1.4 MB - PDF)
+română (RO) (1.76 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/ro/documents/product-information/spikevax-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.4 MB - PDF)
+slovenčina (SK) (1.75 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/sk/documents/product-information/spikevax-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.2 MB - PDF)
+slovenščina (SL) (1.49 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/sl/documents/product-information/spikevax-epar-product-information_sl.pdf)
 
-suomi (FI) (1.21 MB - PDF)
+suomi (FI) (1.44 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/fi/documents/product-information/spikevax-epar-product-information_fi.pdf)
 
-svenska (SV) (1.13 MB - PDF)
+svenska (SV) (1.35 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/sv/documents/product-information/spikevax-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.14 MB - PDF)
+Íslenska (IS) (1.37 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/is/documents/product-information/spikevax-epar-product-information_is.pdf)
 
-norsk (NO) (1.19 MB - PDF)
+norsk (NO) (1.41 MB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 24/02/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
 [View](/no/documents/product-information/spikevax-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000316350
+**Latest procedure affecting product information:** VR/0000356879
 
-20/01/2026
+28/07/2026
 
 icon globe
 
@@ -549,159 +549,159 @@ Product information documents contain:
 - labelling (annex IIIA);
 - package leaflet (annex IIIB).
 
-Spikevax (previously COVID-19 Vaccine Moderna): EPAR - All authorised presentations
+Spikevax : EPAR - All authorised presentations
 
-English (EN) (90.22 KB - PDF)
+English (EN) (108.43 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/en/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_en.pdf)
+[View](/en/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-859)
+[Other languages (24)](#file-language-dropdown-776)
 
-български (BG) (126.99 KB - PDF)
+български (BG) (154.86 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/bg/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_bg.pdf)
+[View](/bg/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (99.08 KB - PDF)
+español (ES) (116.67 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/es/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_es.pdf)
+[View](/es/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (117.7 KB - PDF)
+čeština (CS) (139.9 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/cs/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_cs.pdf)
+[View](/cs/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (93.32 KB - PDF)
+dansk (DA) (111.51 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/da/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_da.pdf)
+[View](/da/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (103.29 KB - PDF)
+Deutsch (DE) (120.29 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/de/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_de.pdf)
+[View](/de/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_de.pdf)
 
-eesti (ET) (100.49 KB - PDF)
+eesti (ET) (116.39 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/et/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_et.pdf)
+[View](/et/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (128.42 KB - PDF)
+ελληνικά (EL) (152.71 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/el/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_el.pdf)
+[View](/el/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (123.75 KB - PDF)
+français (FR) (143.62 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/fr/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_fr.pdf)
+[View](/fr/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (126.07 KB - PDF)
+hrvatski (HR) (145.69 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/hr/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_hr.pdf)
+[View](/hr/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_hr.pdf)
 
-italiano (IT) (91.71 KB - PDF)
+italiano (IT) (108.25 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/it/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_it.pdf)
+[View](/it/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_it.pdf)
 
-latviešu (LV) (129.34 KB - PDF)
+latviešu (LV) (143.78 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/lv/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_lv.pdf)
+[View](/lv/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių (LT) (137.04 KB - PDF)
+lietuvių (LT) (171.95 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/lt/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_lt.pdf)
+[View](/lt/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (123.43 KB - PDF)
+magyar (HU) (142.74 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/hu/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_hu.pdf)
+[View](/hu/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (133.37 KB - PDF)
+Malti (MT) (156.86 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/mt/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_mt.pdf)
+[View](/mt/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (92.53 KB - PDF)
+Nederlands (NL) (109.13 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/nl/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_nl.pdf)
+[View](/nl/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_nl.pdf)
 
-polski (PL) (123.85 KB - PDF)
+polski (PL) (144.4 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/pl/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_pl.pdf)
+[View](/pl/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (102.96 KB - PDF)
+português (PT) (120.06 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/pt/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_pt.pdf)
+[View](/pt/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (128.11 KB - PDF)
+română (RO) (150.03 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/ro/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_ro.pdf)
+[View](/ro/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (127.7 KB - PDF)
+slovenčina (SK) (149.07 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/sk/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_sk.pdf)
+[View](/sk/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (130.47 KB - PDF)
+slovenščina (SL) (153.08 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/sl/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_sl.pdf)
+[View](/sl/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_sl.pdf)
 
-suomi (FI) (89.88 KB - PDF)
+suomi (FI) (108.95 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/fi/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_fi.pdf)
+[View](/fi/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (91.94 KB - PDF)
+svenska (SV) (107.64 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/sv/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_sv.pdf)
+[View](/sv/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_sv.pdf)
 
-Íslenska (IS) (102.53 KB - PDF)
+Íslenska (IS) (122.99 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/is/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_is.pdf)
+[View](/is/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_is.pdf)
 
-norsk (NO) (102.94 KB - PDF)
+norsk (NO) (120.41 KB - PDF)
 
-**First published:** 20/01/2021 **Last updated:** 20/01/2026
+**First published:** 20/01/2021 **Last updated:** 06/08/2026
 
-[View](/no/documents/all-authorised-presentations/spikevax-previously-covid-19-vaccine-moderna-epar-all-authorised-presentations_no.pdf)
+[View](/no/documents/all-authorised-presentations/spikevax-epar-all-authorised-presentations_no.pdf)
 
 ## Product details
 
@@ -734,6 +734,8 @@ Spikevax JN.1 is indicated for active immunisation to prevent COVID-19 caused by
 
 Spikevax LP.8.1 is indicated for active immunisation to prevent COVID 19 caused by SARS-CoV-2 in individuals 6 months of age and older. The use of this vaccine should be in accordance with official recommendations.
 
+Spikevax XFG is indicated for active immunisation to prevent COVID 19 caused by SARS-CoV-2 in individuals 6 months of age and older. The use of this vaccine should be in accordance with official recommendations.
+
 ## Authorisation details
 
 - **EMA product number**
@@ -747,7 +749,7 @@ Spikevax LP.8.1 is indicated for active immunisation to prevent COVID 19 caused 
 - **Marketing authorisation issued**
     - 06/01/2021
 - **Revision**
-    - 61
+    - 63
 
 ## Assessment history
 
@@ -757,13 +759,13 @@ Collapse section
 
 ### Changes since initial authorisation of medicine
 
-Spikevax (previously COVID-19 Vaccine Moderna): EPAR - Procedural steps taken and scientific information after authorisation
+Spikevax : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (207.3 KB - PDF)
+English (EN) (216.19 KB - PDF)
 
-**First published:** 16/04/2025 **Last updated:** 24/02/2026
+**First published:** 16/04/2025 **Last updated:** 06/08/2026
 
-[View](/en/documents/procedural-steps-after/spikevax-previously-covid-19-vaccine-moderna-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/spikevax-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Spikevax (previously COVID-19 Vaccine Moderna): EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
@@ -1784,6 +1786,6 @@ English (EN) (2.01 MB - DOCX)
 
 **This page was last updated on**
 
-24/07/2026
+06/08/2026
 
 ## Share this page

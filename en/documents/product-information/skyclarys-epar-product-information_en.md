@@ -1,24 +1,24 @@
 ---
-document_datetime: 2026-03-13 11:07:22
+document_datetime: 2026-08-04 15:23:54
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/skyclarys-epar-product-information_en.pdf
 document_name: skyclarys-epar-product-information_en.pdf
 version: success
-processing_time: 7.4680249
-conversion_datetime: 2026-03-17 19:30:25.266421
+processing_time: 5.8048158
+conversion_datetime: 2026-08-07 14:21:51.854923
 docling_version:
-  docling-serve: 1.14.3
-  docling-jobkit: 1.13.0
-  docling: 2.80.0
-  docling-core: 2.70.1
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.5.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## 0B0B SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -131,11 +131,9 @@ Treatment with omaveloxolone has been associated with increases in low-density l
 
 Treatment with omaveloxolone has been associated with increases in BNP but without any concurrent increase in blood pressure or associated events of fluid overload or congestive heart failure. In Study 1, a total of 13.7% of patients treated with Skyclarys had an increase from baseline in BNP and a BNP above the ULN (100 pg/mL), compared to 3.8% of patients who received placebo. The incidence of elevation of BNP above 200 pg/mL was 3.9% in patients treated with Skyclarys. Whether the elevations in BNP in Study 1 are related to Skyclarys or cardiac disease associated with Friedreich's ataxia is unclear.
 
-In a study with a related compound in diabetic patients with chronic kidney disease (CKD), excess heart failure events due to fluid overload were observed among patients with stage IV CKD. Baseline
+In a study with a related compound in diabetic patients with chronic kidney disease (CKD), excess heart failure events due to fluid overload were observed among patients with stage IV CKD. Baseline BNP &gt; 200 pg/mL and prior hospitalization for congestive heart failure were identified as risk factors for heart failure among patients who had stage IV CKD but not in patients who had stage 3b CKD.
 
 <div style=\"page-break-after: always\"></div>
-
-BNP &gt; 200 pg/mL and prior hospitalization for congestive heart failure were identified as risk factors for heart failure among patients who had stage IV CKD but not in patients who had stage 3b CKD.
 
 Cardiomyopathy and diabetes mellitus are common in patients with Friedreich's ataxia. BNP should be monitored prior to and periodically during treatment. Patients should be advised of the signs and symptoms of congestive heart failure associated with fluid overload, such as sudden weight gain (≥ 1.4 kg in 1 day or ≥ 2.3 kg in 1 week), peripheral oedema, and shortness of breath. If signs and symptoms of fluid overload develop, BNP (or NT-proBNP) should be monitored and managed according to standard clinical guidance. Treatment with Skyclarys should be interrupted during fluid overload management. If fluid overload cannot be appropriately managed, treatment with Skyclarys should be discontinued. Per clinical judgment, more frequent monitoring of patients with a recent hospitalization for fluid overload due to underlying cardiomyopathy, diabetic stage IV CKD, or other aetiologies is strongly recommended.
 
@@ -151,7 +149,7 @@ In the randomized, double-blind, placebo-controlled trial of 51 patients treated
 
 ## Skyclarys contains sodium
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free.'
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free.'
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -169,7 +167,7 @@ As grapefruit and grapefruit juice are inhibitors of CYP3A4, patients should be 
 
 ## Strong or moderate CYP3A4 inducers
 
-In a clinical study, co-administration of omaveloxolone with efavirenz, a moderate CYP3A4 inducer, decreased the area under the curve (AUC0-inf) and maximal plasma concentration (Cmax) by approximately 49% and 38%, respectively. Due to potential loss of efficacy, patients treated with Skyclarys should be warned to avoid use of strong or moderate CYP3A4 inducers while taking Skyclarys and alternatives should be considered if possible. Some examples of strong or moderate CYP3A4 inducers are carbamazepine, phe nobarbital, phenytoin, primidone, rifampicin, St. John's wort, and efavirenz.
+In a clinical study, co-administration of omaveloxolone with efavirenz, a moderate CYP3A4 inducer, decreased the area under the curve (AUC0-inf) and maximal plasma concentration (Cmax) by approximately 49% and 38%, respectively. Due to potential loss of efficacy, patients treated with Skyclarys should be warned to avoid use of strong or moderate CYP3A4 inducers while taking Skyclarys and alternatives should be considered if possible. Some examples of strong or moderate CYP3A4 inducers are carbamazepine, phenobarbital, phenytoin, primidone, rifampicin, St. John's wort, and efavirenz.
 
 ## Effect of omaveloxolone on other medicinal products
 
@@ -221,7 +219,7 @@ The most frequently occurring adverse reactions observed with Skyclarys are ALT 
 
 The adverse reactions observed in the randomized, double-blind, placebo-controlled trial in 51 patients treated with Skyclarys 150 mg/day for 48 weeks (median exposure 0.92 patient years) are listed in Table 2 by system organ class and frequency. Frequenci es are defined as: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), and uncommon (≥ 1/1 000 to &lt; 1/100). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness. Selected adverse reactions are further decribed in following Table 2.
 
-Table 2 Adverse reactions
+## Table 2 Adverse reactions
 
 | System Organ Class                              | Preferred Term                                  | Frequency Category   |
 |-------------------------------------------------|-------------------------------------------------|----------------------|
@@ -305,7 +303,7 @@ The precise mechanism by which omaveloxolone exerts its therapeutic effect in pa
 
 ## Pharmacodynamic effects
 
-Omaveloxolone binds to Kelch-like ECH-associated protein 1 (Keap1), a protein that regulates the activity of Nrf2. Binding to Keap1 allows nuclear translocation of Nrf2 and transcription of its target genes. In fibroblasts isolated from patients with Fried reich's ataxia, omaveloxolone was shown to restore Nrf2 protein levels and increase Nrf2 activity. Omaveloxolone was also shown to rescue mitochondrial dysfunction and restore redox balance in these cells, as well as in neurons from mouse models of Friedre ich's ataxia. Evidence of pharmacodynamic activity was observed in omaveloxolone-treated patients, with dose-dependent changes in the products of Nrf2 target genes, serum ferritin and GGT, across the dose range of 20 mg to 300 mg. Patients who received omaveloxolone 160 mg generally showed the largest increase from baseline for these serum markers.
+Omaveloxolone binds to Kelch-like ECH-associated protein 1 (Keap1), a protein that regulates the activity of Nrf2. Binding to Keap1 allows nuclear translocation of Nrf2 and transcription of its target genes. In fibroblasts isolated from patients with Friedreich's ataxia, omaveloxolone was shown to restore Nrf2 protein levels and increase Nrf2 activity. Omaveloxolone was also shown to rescue mitochondrial dysfunction and restore redox balance in these cells, as well as in neurons from mouse models of Friedreich's ataxia. Evidence of pharmacodynamic activity was observed in omaveloxolone-treated patients, with dose-dependent changes in the products of Nrf2 target genes, serum ferritin and GGT, across the dose range of 20 mg to 300 mg. Patients who received omaveloxolone 160 mg generally showed the largest increase from baseline for these serum markers.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -319,7 +317,7 @@ The efficacy and safety of Skyclarys were evaluated as a treatment for Friedreic
 
 Study 1 Part 2
 
-Study 1 Part 2 was a randomized, double-blind, placebo-controlled, multicentre study to evaluate the safety and efficacy of Skyclarys in patients with Friedreich's ataxia for 48 weeks of treatment. A total of 103 patients including 24 adolescents were randomized (1:1) to Skyclarys 150 mg/day (N=51) or placebo (N=52). Patients were excluded from Study 1 if they had BNP levels &gt; 200 pg/mL prior to study entry, or a history of clinically significant left-sided heart disease and/or clinically significant cardia c disease, with the exception of mild to moderate cardiomyopathy associated with Friedreich's ataxia. Additionally, patients were excluded from Study 1 if they had a history of clinically significant liver disease (eg, fibrosis, cirrhosis, hepatitis) or clinically relevant deviations in laboratory tests at screening including ALT and/or AST &gt; 1.5-fold ULN, bilirubin &gt; 1.2-fold ULN, alkaline phosphatase &gt; 2-fold ULN, or albumin &lt; lower limit of normal (LLN). Randomization was stratified by pes cavus status. Pes cavus population was defined as having a loss of lateral support and was determined if light from a flashlight could be seen under the patient's arch when barefoot and weight bearing. The primary efficacy endpoint was change in the modified Friedreich' s Ataxia Rating Scale (mFARS) score compared to placebo at Week 48 for patients without pes cavus (ie, the full analysis set [FAS]; n=82). The mFARS is a clinical assessment tool to assess patient function, which consists of 4 domains to evaluate bulbar function, upper limb coordination, lower limb coordination, and upright stability. The mFARS has a maximum score of 99, with a lower score on the mFARS signifying lesser physical impairment. In the FAS, 53.7% were male. The mean age was 23.9 years at study entry, and the mean age of Friedreich's ataxia onset was 15.5 years. Baseline mFARS and Friedreich's ataxia -Activities of Daily Living (FA-ADL) scores were 39.83 and 10.29 points, respectively. Mean GAA1 repeat length was 714.8. At study entry, 92.7% of patients were ambulatory, 37.8% had a history of cardiomyopathy, and 2.4% had a history of diabetes mellitus.
+Study 1 Part 2 was a randomized, double-blind, placebo-controlled, multicentre study to evaluate the safety and efficacy of Skyclarys in patients with Friedreich's ataxia for 48 weeks of treatment. A total of 103 patients including 24 adolescents were randomized (1:1) to Skyclarys 150 mg/day (N=51) or placebo (N=52). Patients were excluded from Study 1 if they had BNP levels &gt; 200 pg/mL prior to study entry, or a history of clinically significant left-sided heart disease and/or clinically significant cardiac disease, with the exception of mild to moderate cardiomyopathy associated with Friedreich's ataxia. Additionally, patients were excluded from Study 1 if they had a history of clinically significant liver disease (eg, fibrosis, cirrhosis, hepatitis) or clinically relevant deviations in laboratory tests at screening including ALT and/or AST &gt; 1.5-fold ULN, bilirubin &gt; 1.2-fold ULN, alkaline phosphatase &gt; 2-fold ULN, or albumin &lt; lower limit of normal (LLN). Randomization was stratified by pes cavus status. Pes cavus population was defined as having a loss of lateral support and was determined if light from a flashlight could be seen under the patient's arch when barefoot and weight bearing. The primary efficacy endpoint was change in the modified Friedreich's Ataxia Rating Scale (mFARS) score compared to placebo at Week 48 for patients without pes cavus (ie, the full analysis set [FAS]; n=82). The mFARS is a clinical assessment tool to assess patient function, which consists of 4 domains to evaluate bulbar function, upper limb coordination, lower limb coordination, and upright stability. The mFARS has a maximum score of 99, with a lower score on the mFARS signifying lesser physical impairment. In the FAS, 53.7% were male. The mean age was 23.9 years at study entry, and the mean age of Friedreich's ataxia onset was 15.5 years. Baseline mFARS and Friedreich's ataxiaActivities of Daily Living (FA-ADL) scores were 39.83 and 10.29 points, respectively. Mean GAA1 repeat length was 714.8. At study entry, 92.7% of patients were ambulatory, 37.8% had a history of cardiomyopathy, and 2.4% had a history of diabetes mellitus.
 
 Treatment with Skyclarys significantly improved mFARS scores, with a least squares mean difference of -2.41 (standard error 0.955) relative to placebo (p=0.0138) (Table 3). All components of the mFARS assessment, including ability to swallow (bulbar), upper limb coordination, lower limb coordination, and upright stability, favoured Skyclarys over placebo.
 
@@ -340,7 +338,7 @@ Table 3 Study 1 Part 2: mFARS Results (FAS)
 |                              | Skyclarys (N=40)   | Placebo (N=42)   |
 |------------------------------|--------------------|------------------|
 | Week 48 Change from baseline |                    |                  |
-| LS Mean (SE)                 | -1.56 (0.689)      | 0.85 (0.640)     |
+| LS Mean (SE)                 | -1.5 6 (0.689)     | 0.85 (0.640)     |
 | LS Mean Difference (SE)      | -2.41 (0.955)      | -                |
 | p-value vs. placebo          | 0.0138             |                  |
 
@@ -366,7 +364,7 @@ Table 4 Study 1 Part 2: Change in mFARS at Week 48 in subgroups (FAS)
 
 Abbreviations: CI=confidence interval; FAS=Full Analysis Set; GAA1 repeat length=length of the trinucleotide repeats in the GAA1 allele composed of 1 guanine and 2 adenines; mFARS=modified Friedreich's ataxia rating scale.
 
-a  Least squares mean difference is Skyclarys ₋ placebo.
+a Least squares mean difference is Skyclarys ₋ placebo.
 
 Although Study 1 was not powered to detect a difference in the key secondary endpoints, Patient Global Impression of Change (PGIC) and Clinical Global Impression of Change (CGIC), PGIC and CGIC scores at Week 48 were numerically improved in patients treated with Skyclarys relative to placebo in the primary analysis population (least squares [LS] mean difference in PGIC= -0.43, LS mean difference in CGIC= -0.13). Additionally, treatment of patients with Skyclarys resulted in numerically improved FA-ADL scores relative to placebo, with an LS mean difference of -1.30 points (standard error=0.629).
 
@@ -418,7 +416,7 @@ Population pharmacokinetic analyses indicate that there is no clinically meaning
 
 ## Patients with renal impairment
 
-Population pharmacokinetic analysis confirmed that estimated glomerular filtration rate values ≥ 63 mL/min/1.73 m 2  did not have a significant effect on the pharmacokinetics of omaveloxolone. The effect of moderate or severe renal impairment on the pharmacokinetics of omaveloxolone is unknown.
+Population pharmacokinetic analysis confirmed that estimated glomerular filtration rate values ≥ 63 mL/min/1.73 m 2 did not have a significant effect on the pharmacokinetics of omaveloxolone. The effect of moderate or severe renal impairment on the pharmacokinetics of omaveloxolone is unknown.
 
 ## Patients with hepatic impairment
 
@@ -426,27 +424,33 @@ In subjects with moderate and severe hepatic impairment (Child-Pugh Class B and 
 
 ## 5.3 Preclinical safety data
 
-Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, genotoxicity, and carcinogenic potential.
+Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, and genotoxicity potential.
 
-Based on a panel of in vitro and in vivo mutagenicity tests, omaveloxolone is considered of low genotoxic potential. Omaveloxolone was not carcinogenic in a 6-month carcinogenicity study in rasH2 mice up to doses corresponding to approximately 14.6 and 54.5 times in males and females, respectively, the maximum human recommended dose (MHRD) and systemic exposure (AUC) in patients with Friedreich's ataxia.
+## Repeat-dose toxicity
 
-Preclinical data revealed toxicities related to omaveloxolone. In rats, findings of irreversible kidney injury (multifocal renal tubular degeneration/regeneration accompanied by proteinuria) were observed at clinically relevant dose levels in rats after 28 days of daily oral exposure up to 6 months. Furthermore, reversible observations of hyperplasia of the GI tract (forestomach, oesophagus, larynx) was observed in rats and monkeys already after 28 days of dosing, up to 6 or 9 months in rats and monkeys, respectively. In one male rat from the high dose group at 6 months dosing, the squamous epithelial hyperplasia was associated with a squamous cell carcinoma involving the non-glandular and glandular stomach.
+In rats, omaveloxolone administration was associated with irreversible kidney injury (multifocal renal tubular degeneration/regeneration accompanied by proteinuria) at clinically relevant dose levels in rats after 28 days of daily oral exposure up to 6 months. Furthermore, reversible hyperplasia of the GI tract (forestomach, oesophagus, larynx) was observed in rats and monkeys already after 28 days of dosing, up to 6 or 9 months in rats and monkeys, respectively. In one male rat from the high dose group at 6 months dosing, the squamous epithelial hyperplasia was associated with a squamous cell carcinoma involving the non-glandular and glandular stomach.
+
+## Genotoxicity
+
+Based on a panel of in vitro and in vivo mutagenicity tests, omaveloxolone is considered of low genotoxic potential.
+
+## Carcinogenicity
+
+Omaveloxolone was not carcinogenic in a 6-month study in male and female rasH2 transgenic mice at each 14.6- and 54.5-fold the AUC-based systemic exposure in humans receiving the maximum recommended human dose (MRHD). A long-term carcinogenicity study of omaveloxolone over 85 and 87 weeks in female and male rats revealed neoplastic findings in the liver (bile ducts: cholangioma and cholangiocarcinoma), mammary gland (adenocarcinoma and sarcoma), testis (Leydig cell adenoma), and rectum (squamous cell papillomas) at dose levels of ≥1 mg/kg corresponding to an exposure level of less than 1-fold the clinical plasma exposure at the MRHD. The human relevance is currently unknown.
 
 ## Fertility and early embryonic development
 
 Omaveloxolone, administered at oral doses of 1, 3, and 10 mg/kg/day to male rats for 28 days before mating and throughout the mating period and to female rats from 14 days before mating, throughout mating, and until gestation day 7 did not alter male or female fertility. However, pre- and post-implantation embryonic loss, resorptions, and a decrease in the number of viable embryos occurred at the dose corresponding to approximately 6 times the maximum human recommended dose (MHRD) based on systemic exposure. No effects on pre- and post-implantation loss occurred at approximately 2 times the MHRD based on systemic exposure.
 
-## Embryo-foetal development
-
-In an embryo-foetal toxicity study in rats, no maternal toxicity or embryo-foetal abnormalities were detected in rats at an oral dose corresponding to approximately 6 times the MHRD based on systemic exposure. However, at doses achieving exposure levels 19 times the MHRD, post-implantation loss, resorptions as well as decreases in number of viable fetuses, litter size, and foetal body weight were observed in rats. Embryo-foetal assessment in rabbits demonstrated maternal toxicity that was associated with early deliveries and interruptions of pregnancy as well as low foetal body weights at a dose level corresponding to exposures lower (0.7-fold) than those at the MHRD; however, in the same
-
 <div style=\"page-break-after: always\"></div>
 
-study, no foetal malformations were observed at approximately 1.4 times the MHRD based on systemic exposure.
+## Embryo-foetal development
+
+In an embryo-foetal toxicity study in rats, no maternal toxicity or embryo-foetal abnormalities were detected in rats at an oral dose corresponding to approximately 6 times the MHRD based on systemic exposure. However, at doses achieving exposure levels 19 times the MHRD, post-implantation loss, resorptions as well as decreases in number of viable fetuses, litter size, and foetal body weight were observed in rats. Embryo-foetal assessment in rabbits demonstrated maternal toxicity that was associated with early deliveries and interruptions of pregnancy as well as low foetal body weights at a dose level corresponding to exposures lower (0.7-fold) than those at the MHRD; however, in the same study, no foetal malformations were observed at approximately 1.4 times the MHRD based on systemic exposure.
 
 ## Pre- and post-natal development
 
-In a pre- and postnatal evaluation in rats, administration of omaveloxolone during the period of organogenesis through lactation at doses of 1, 3, and 10 mg/kg/day was associated with an increased percentage of litters with stillborn pups, reduced first g eneration pup survival, and decreased mean pup body weights. Decreased reproductive function (reduced mean numbers of corpora lutea and implantation sites) were observed in F1 females and delayed sexual maturation was observed in F1 males at a dose level o f approximately 6 times the MHRD based on systemic exposure.  No adverse reactions were observed at a dose of approximately 2 times the MHRD based on systemic exposure. Dose-dependent increases in omaveloxolone plasma concentrations were observed in pups, due to excretion of omaveloxolone in milk. Effects were directly linked to exposure to omaveloxolone.
+In a pre- and postnatal evaluation in rats, administration of omaveloxolone during the period of organogenesis through lactation at doses of 1, 3, and 10 mg/kg/day was associated with an increased percentage of litters with stillborn pups, reduced first g eneration pup survival, and decreased mean pup body weights. Decreased reproductive function (reduced mean numbers of corpora lutea and implantation sites) were observed in F1 females and delayed sexual maturation was observed in F1 males at a dose level of approximately 6 times the MHRD based on systemic exposure.  No adverse reactions were observed at a dose of approximately 2 times the MHRD based on systemic exposure. Dose-dependent increases in omaveloxolone plasma concentrations were observed in pups, due to excretion of omaveloxolone in milk. Effects were directly linked to exposure to omaveloxolone.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -470,6 +474,8 @@ Not applicable.
 
 5 years
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.4 Special precautions for storage
 
 This medicinal product does not require any special storage conditions.
@@ -478,9 +484,9 @@ This medicinal product does not require any special storage conditions.
 
 High density polyethylene bottles with child-resistant, foil induction-sealed polypropylene closure.
 
-Pack size of 90 capsules. Pack size of 270 (3 packs of 90) capsules.
+Pack size of 90 capsules.
 
-<div style=\"page-break-after: always\"></div>
+Pack size of 270 (3 packs of 90) capsules.
 
 Not all pack sizes may be marketed.
 
@@ -519,7 +525,7 @@ Detailed information on this medicinal product is available on the website of th
 
 <div style=\"page-break-after: always\"></div>
 
-## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+## 3B3B A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturers responsible for batch release
 
@@ -529,11 +535,11 @@ Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherland
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+## 4B4B B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
 
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## 5B5B C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## · Periodic safety update reports (PSURs)
 
@@ -541,7 +547,7 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
 
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## 6B6B D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk management plan (RMP)
 
@@ -560,7 +566,7 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-## A. LABELLING
+## 1B1B A. LABELLING
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -574,7 +580,7 @@ Skyclarys 50 mg hard capsules omaveloxolone
 
 Each capsule contains 50 mg omaveloxolone.
 
-3. LIST OF EXCIPIENTS
+## 3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -590,7 +596,7 @@ Read the package leaflet before use.
 
 Keep out of the sight and reach of children.
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
@@ -668,7 +674,7 @@ Keep out of the sight and reach of children.
 
 EXP
 
-9. SPECIAL STORAGE CONDITIONS
+## 9. SPECIAL STORAGE CONDITIONS
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -718,7 +724,7 @@ Skyclarys 50 mg hard capsules omaveloxolone
 
 Each capsule contains 50 mg omaveloxolone.
 
-3. LIST OF EXCIPIENTS
+## 3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -734,7 +740,7 @@ Read the package leaflet before use.
 
 Keep out of the sight and reach of children.
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
@@ -767,13 +773,13 @@ Lot
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-## B. PACKAGE LEAFLET
+## 2B2B B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
@@ -783,7 +789,7 @@ Lot
 
 ## Skyclarys 50 mg hard capsules
 
-## omaveloxolone
+omaveloxolone
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -979,7 +985,7 @@ Very common (may affect more than 1 in 10 people)
 - -decreased appetite
 - -hypersensitivity (an allergic or allergic-like reaction that may include itchy rash and skin rash)
 
-Common (may affect up to 1 in 10 people)
+## Common (may affect up to 1 in 10 people)
 
 - -urinary tract infection (infection of the structures that carry urine, UTI)
 - -period pains in women (menstrual cramps)
@@ -1032,13 +1038,13 @@ Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherland
 
 ## Manufacturer(s)
 
-BIOGEN DISTRIBUTION SERVICES LIMITED United Drug House Magna Drive Magna Business Park Citywest Road
+BIOGEN DISTRIBUTION SERVICES LIMITED United Drug House Magna Drive Magna Business Park Citywest Road Dublin 24 D24 XKE5 Ireland
 
 <div style=\"page-break-after: always\"></div>
 
-Dublin 24 D24 XKE5 Ireland
+## Biogen Netherlands B.V.
 
-Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1048,13 +1054,15 @@ Biogen Belgium N.V./S.A. Tél/Tel: +32 2 219 12 18
 
 ## България
 
-ТП ЕВОФАРМА Te л. : +359 2 962 12 00
+ТП ЕВОФАРМА
+
+Te л.
+
+: +359 2 962 12 00
 
 ## Česká republika
 
-Biogen (Czech Republic) s.r.o.
-
-Tel: +420 255 706 200
+Biogen (Czech Republic) s.r.o. Tel: +420 255 706 200
 
 ## Danmark
 
@@ -1062,7 +1070,9 @@ Biogen (Denmark) A/S Tlf.: +45 77 41 57 57
 
 ## Deutschland
 
-Biogen GmbH Tel: +49 (0) 89 99 6170
+Biogen GmbH
+
+Tel: +49 (0) 89 99 6170
 
 ## Eesti
 
@@ -1078,9 +1088,7 @@ Biogen Spain SL Tel: +34 91 310 7110
 
 ## France
 
-Biogen France SAS
-
-Tél: +33 (0)1 41 37 95 95
+Biogen France SAS Tél: +33 (0)1 41 37 95 95
 
 ## Hrvatska
 
@@ -1100,9 +1108,7 @@ Biogen Hungary Kft. Tel.: +36 1 899 9880
 
 ## Malta
 
-Pharma MT limited
-
-Tel: +356 213 37008/9
+Pharma MT limited Tel: +356 213 37008/9
 
 ## Nederland
 
@@ -1114,7 +1120,9 @@ Biogen Norway AS Tlf: +47 23 40 01 00
 
 ## Österreich
 
-Biogen Austria GmbH Tel: +43 1 484 46 13
+Biogen Austria GmbH
+
+Tel: +43 1 484 46 13
 
 ## Polska
 
@@ -1124,7 +1132,9 @@ Tel.: +48 22 351 51 00
 
 ## Portugal
 
-Biogen Portugal Tel.: +351 21 318 8450
+Biogen Portugal
+
+Tel.: +351 21 318 8450
 
 ## România
 

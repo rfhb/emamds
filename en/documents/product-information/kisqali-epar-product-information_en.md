@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-21 10:44:15
-document_pages: 67
+document_datetime: 2026-08-05 09:19:51
+document_pages: 63
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kisqali-epar-product-information_en.pdf
 document_name: kisqali-epar-product-information_en.pdf
 version: success
-processing_time: 43.7703155
-conversion_datetime: 2026-05-22 23:26:04.435271
+processing_time: 24.5754378
+conversion_datetime: 2026-08-07 14:29:06.799071
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -58,8 +58,6 @@ Kisqali is indicated for the treatment of women with HR-positive, HER2-negative 
 
 In pre- or perimenopausal women, the endocrine therapy should be combined with a LHRH agonist.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.2 Posology and method of administration
 
 Treatment with Kisqali should be initiated by a physician experienced in the use of anticancer therapies.
@@ -67,6 +65,8 @@ Treatment with Kisqali should be initiated by a physician experienced in the use
 ## HR-positive, HER2-negative testing
 
 Patient selection for treatment with Kisqali based on the tumour expression of HR and HER2 should be assessed by a CE-marked in vitro diagnostic (IVD) medical device with the corresponding intended purpose. If the CE-marked IVD is not available, an alternative validated test should be used.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Posology
 
@@ -92,21 +92,20 @@ Treatment of pre- and perimenopausal women with the approved Kisqali combination
 
 Management of severe or intolerable adverse reactions (ARs) may require temporary dose interruption, reduction or discontinuation of Kisqali. If dose reduction is required, the recommended dose reduction guidelines are listed in Table 1.
 
+## Table 1 Recommended dose modification guidelines
+
+|                                      | Kisqali                              |                          |
+|--------------------------------------|--------------------------------------|--------------------------|
+|                                      | Dose                                 | Number of 200 mg tablets |
+| Early breast cancer                  |                                      |                          |
+| Starting dose                        | 400 mg/day                           | 2                        |
+| Dose reduction                       | 200 mg*/day                          | 1                        |
+| Advanced or metastatic breast cancer | Advanced or metastatic breast cancer |                          |
+| Starting dose                        | 600 mg/day                           | 3                        |
+| First dose reduction                 | 400 mg/day                           | 2                        |
+| Second dose reduction                | 200 mg*/day                          | 1                        |
+
 <div style=\"page-break-after: always\"></div>
-
-Table 1 Recommended dose modification guidelines
-
-|                                                                                                             | Kisqali                                                                                                     |                                                                                                             |
-|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-|                                                                                                             | Dose                                                                                                        | Number of 200 mg tablets                                                                                    |
-| Early breast cancer                                                                                         | Early breast cancer                                                                                         | Early breast cancer                                                                                         |
-| Starting dose                                                                                               | 400 mg/day                                                                                                  | 2                                                                                                           |
-| Dose reduction                                                                                              | 200 mg*/day                                                                                                 | 1                                                                                                           |
-| Advanced or metastatic breast cancer                                                                        | Advanced or metastatic breast cancer                                                                        | Advanced or metastatic breast cancer                                                                        |
-| Starting dose                                                                                               | 600 mg/day                                                                                                  | 3                                                                                                           |
-| First dose reduction                                                                                        | 400 mg/day                                                                                                  | 2                                                                                                           |
-| Second dose reduction                                                                                       | 200 mg*/day                                                                                                 | 1                                                                                                           |
-| * If further dose reduction below 200 mg/day is required, the treatment should be permanently discontinued. | * If further dose reduction below 200 mg/day is required, the treatment should be permanently discontinued. | * If further dose reduction below 200 mg/day is required, the treatment should be permanently discontinued. |
 
 Tables 2, 3, 4, 5 and 6 summarise recommendations for dose interruption, reduction or discontinuation of Kisqali in the management of specific ARs. The clinical judgement of the treating physician should guide the management plan of each patient based on individual benefit/risk assessment (see section 4.4).
 
@@ -293,13 +292,13 @@ Women of childbearing potential should be advised to use an effective method of 
 
 Kisqali contains soya lecithin. Patients who are hypersensitive to peanut or soya should not take Kisqali (see section 4.3).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 ## Substances that may increase ribociclib plasma concentrations
 
 Ribociclib is primarily metabolised by CYP3A4. Therefore, medicinal products that can influence CYP3A4 enzyme activity may alter the pharmacokinetics of ribociclib. Co-administration of the strong CYP3A4 inhibitor ritonavir (100 mg twice daily for 14 days) with a single 400 mg dose of ribociclib increased ribociclib exposure (AUCinf) and the peak concentration (Cmax) in healthy subjects 3.2- and 1.7-fold, respectively, relative to a single 400 mg ribociclib dose given alone. Cmax and AUClast for LEQ803 (a prominent metabolite of ribociclib accounting for less than 10% of parent exposure) decreased by 96% and 98%, respectively. Physiologically-based pharmacokinetic (PBPK) simulations with co-administered ritonavir (100 mg twice daily) estimated that the steady-state Cmax and AUC0-24h of ribociclib (400 mg once daily) increased by 1.5- and 1.8-fold, respectively.
+
+<div style=\"page-break-after: always\"></div>
 
 The concomitant use of strong CYP3A4 inhibitors including, but not limited to, the following must be avoided: clarithromycin, indinavir, itraconazole, ketoconazole, lopinavir, ritonavir, nefazodone, nelfinavir, posaconazole, saquinavir, telaprevir, telithromycin, verapamil and voriconazole (see section 4.4). Alternative concomitant medicinal products with less potential to inhibit CYP3A4 should be considered and patients should be monitored for ribociclib-related ARs (see sections 4.2, 4.4 and 5.2).
 
@@ -308,8 +307,6 @@ If co-administration of Kisqali with a strong CYP3A4 inhibitor cannot be avoided
 PBPK simulations suggested that at a 600 mg dose of ribociclib, a moderate CYP3A4 inhibitor (erythromycin) may increase ribociclib steady-state Cmax and AUC 1.1- and 1.1-fold, respectively. PBPK simulations suggested that a moderate CYP3A4 inhibitor may increase Cmax and AUC of ribociclib 400 mg steady state by 1.1- and 1.2-fold, respectively. The effect at the 200 mg once-daily dose was predicted to be a 1.3- and 1.5-fold increase in steady-state Cmax and AUC, respectively. No dose adjustments of ribociclib are required at initiation of treatment with mild or moderate CYP3A4 inhibitors. However, monitoring of ribociclib-related ARs is recommended.
 
 Patients should be instructed to avoid grapefruit or grapefruit juice. These are known to inhibit cytochrome CYP3A4 enzymes and may increase the exposure to ribociclib.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Substances that may decrease ribociclib plasma concentrations
 
@@ -323,6 +320,8 @@ Ribociclib is a moderate to strong CYP3A4 inhibitor and may interact with medici
 
 Co-administration of midazolam (CYP3A4 substrate) with multiple doses of Kisqali (400 mg) increased the midazolam exposure by 280% (3.80-fold) in healthy subjects, compared with administration of midazolam alone. PBPK simulations suggested that Kisqali given at the dose of 600 mg is expected to increase the midazolam AUC by 5.2-fold. Therefore, in general, when ribociclib is co-administered with other medicinal products, the SmPC of the other medicinal product must be consulted for the recommendations regarding co-administration with CYP3A4 inhibitors. Caution is recommended in case of concomitant use with sensitive CYP3A4 substrates with a narrow therapeutic index (see section 4.4). The dose of a sensitive CYP3A4 substrate with a narrow therapeutic index, including but not limited to alfentanil, ciclosporin, everolimus, fentanyl, sirolimus and tacrolimus, may need to be reduced as ribociclib can increase their exposure.
 
+<div style=\"page-break-after: always\"></div>
+
 Concomitant administration of ribociclib with the following CYP3A4 substrates should be avoided: alfuzosin, amiodarone, cisapride, pimozide, quinidine, ergotamine, dihydroergotamine, quetiapine, lovastatin, simvastatin, sildenafil, midazolam, triazolam.
 
 Co-administration of caffeine (CYP1A2 substrate) with multiple doses of Kisqali (400 mg) increased the caffeine exposure by 20% (1.20-fold) in healthy subjects, compared with administration of caffeine alone. At the clinically relevant dose of 600 mg, simulations using PBPK models predicted only weak inhibitory effects of ribociclib on CYP1A2 substrates (&lt;2-fold increase in AUC).
@@ -334,8 +333,6 @@ In vitro evaluations indicated that ribociclib has a potential to inhibit the ac
 ## Drug-food interactions
 
 Kisqali can be administered with or without food (see sections 4.2 and 5.2).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Medicinal products that elevate gastric pH
 
@@ -357,6 +354,8 @@ Data from a clinical study in patients with breast cancer indicated no clinicall
 
 Data from a clinical study in patients with breast cancer indicated that tamoxifen exposure was increased approximately 2-fold following co-administration of ribociclib and tamoxifen.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Drug-drug interactions between ribociclib and oral contraceptives
 
 Drug-drug interaction studies between ribociclib and oral contraceptives have not been conducted (see section 4.6).
@@ -373,8 +372,6 @@ Pregnancy status should be verified prior to starting treatment with Kisqali.
 
 Women of childbearing potential who are receiving Kisqali should use effective contraception (e.g. double-barrier contraception) during therapy and for at least 21 days after stopping treatment with Kisqali.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pregnancy
 
 There are no adequate and well-controlled studies in pregnant women. Based on findings in animals, ribociclib can cause foetal harm when administered to a pregnant woman (see section 5.3). Kisqali is not recommended during pregnancy and in women of childbearing potential not using contraception.
@@ -390,6 +387,8 @@ There are no clinical data available regarding effects of ribociclib on fertilit
 ## 4.7 Effects on ability to drive and use machines
 
 Kisqali may have minor influence on the ability to drive and use machines. Patients should be advised to be cautious when driving or using machines in case they experience fatigue, dizziness or vertigo during treatment with Kisqali (see section 4.8).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -411,8 +410,6 @@ The most common grade 3/4 ADRs (reported at a frequency of &gt;2%) in the pooled
 
 Dose reduction due to adverse events, regardless of causality, occurred in 39.5% of patients receiving Kisqali in the phase III clinical studies regardless of the combination. Permanent discontinuation was reported in 8.7% of patients receiving Kisqali and any combination in the phase III clinical studies.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tabulated list of adverse reactions
 
 ## Early breast cancer
@@ -427,7 +424,7 @@ The overall safety evaluation of Kisqali is based on the pooled dataset from 1 0
 
 The median duration of exposure to study treatment across the pooled phase III studies dataset was 19.2 months, with 61.7% patients exposed ≥12 months.
 
-ADRs from the phase III clinical studies and post-marketing experience (Table 7) in patients with early breast cancer and advanced or metastatic breast cancer are listed by MedDRA system organ class. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following convention (CIOMS III): very com mon (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); and not known (cannot be estimated from the available data).
+ADRs from the phase III clinical studies and post-marketing experience (Table 7) in patients with early breast cancer and advanced or metastatic breast cancer are listed by MedDRA system organ class. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following convention (CIOMS III): very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); and not known (cannot be estimated from the available data).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -497,13 +494,13 @@ Among the patients with advanced or metastatic breast cancer who had grade 2, 3 
 
 All patients should be instructed to report any fever promptly.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hepatobiliary toxicity
 
 In the phase III clinical studies in patients with early breast cancer and advanced or metastatic breast cancer, increases in transaminases were observed.
 
 In the phase III study in patients with early breast cancer, hepatobiliary toxicity events occurred in a higher proportion of patients in the Kisqali plus AI arm versus the AI alone arm (26.4% versus 11.2%, respectively), with more grade 3/4 adverse events reported in patients treated with Kisqali plus AI (8.6% versus 1.7%, respectively). Concurrent elevations of ALT or AST greater than three times the upper limit of normal and total bilirubin greater than two times the upper limit of normal, with normal alkaline phosphatase levels, occurred in 8 patients treated with Kisqali plus AI (in 6 patients ALT or AST levels recovered to normal within 65 to 303 days after discontinuation of Kisqali).
+
+<div style=\"page-break-after: always\"></div>
 
 Dose interruptions due to hepatobiliary toxicity events were reported in 12.4% of patients with early breast cancer treated with Kisqali plus AI, primarily due to ALT increased (10.1%) and/or AST increased (6.8%). Dose adjustment due to hepatobiliary toxicity events was reported in 2.6% of patients treated with Kisqali plus AI, primarily due to ALT increased (1.9%) and/or AST increased (0.6%). Discontinuation of treatment with Kisqali due to abnormal liver function tests or hepatotoxicity occurred in 8.9% and 0.1% of patients, respectively (see sections 4.2 and 4.4).
 
@@ -515,8 +512,6 @@ Dose interruptions and/or adjustments due to hepatobiliary toxicity events were 
 
 In the phase III clinical studies in patients with advanced or metastatic breast cancer, 70.9% (90/127) of grade 3 or 4 ALT or AST elevation events occurred within the first 6 months of treatment. Among the patients who had grade 3 or 4 ALT/AST elevation, the median time to onset was 92 days for the Kisqali plus any combination arms. The median time to resolution (to normalisation or grade ≤2) was 21 days in the Kisqali plus any combination arms.
 
-<div style=\"page-break-after: always\"></div>
-
 ## QT prolongation
 
 In the phase III study in patients with early breast cancer, 5.3% of patients in the Kisqali plus AI arm and 1.4% of patients in the AI alone arm reported events of QT interval prolongation. In the Kisqali plus AI arm QT interval prolongation events were presented primarily by ECG QT prolonged (4.3%) which was the only confirmed adverse reaction with Kisqali. Dose interruptions due to ECG QT prolonged and syncope were reported in 1.1% of patients treated with Kisqali. Dose adjustments due to ECG QT prolonged were reported in 0.1% of patients treated with Kisqali.
@@ -524,6 +519,8 @@ In the phase III study in patients with early breast cancer, 5.3% of patients in
 A central analysis of ECG data showed 10 patients (0.4%) and 4 patients (0.2%) with at least one postbaseline QTcF interval &gt;480 msec for the Kisqali plus AI arm and the AI alone arm, respectively. Among the patients who had QTcF interval prolongation of &gt;480 msec in the Kisqali plus AI arm, the median time to onset was 15 days and these changes were reversible with dose interruption and/or dose adjustment. QTcF interval &gt;60 msec change from baseline was observed in 19 patients (0.8%) in the Kisqali plus AI arm and post-baseline QTcF interval &gt;500 msec was observed in 3 patients (0.1%) in the Kisqali plus AI arm.
 
 In study E2301 (MONALEESA-7) in patients with advanced or metastatic breast cancer, the observed mean QTcF increase from baseline was approximately 10 msec higher in the tamoxifen plus placebo subgroup compared with the NSAI plus placebo subgroup, suggesting that tamoxifen alone had a QTcF prolongation effect which can contribute to the QTcF values observed in the Kisqali plus tamoxifen group. In the placebo arm, a QTcF interval increase of &gt;60 msec from baseline occurred in 6/90 (6.7%) patients receiving tamoxifen and in no patients receiving a NSAI (see section 5.2). A QTcF interval increase of &gt;60 msec from baseline was observed in 14/87 (16.1%) patients receiving Kisqali plus tamoxifen and in 18/245 (7.3%) patients receiving Kisqali plus a NSAI. Kisqali is not recommended to be used in combination with tamoxifen (see section 5.1).
+
+<div style=\"page-break-after: always\"></div>
 
 In the phase III clinical studies 9.3% of patients with advanced or metastatic breast cancer in the Kisqali plus aromatase inhibitor or fulvestrant arms and 3.5% in the placebo plus aromatase inhibitor or fulvestrant arms had at least one event of QT interval prolongation (including ECG QT prolonged and syncope). Review of ECG data showed 15 patients (1.4%) had &gt;500 msec post-baseline QTcF value, and 61 patients (5.8%) had a &gt;60 msec increase from baseline in QTcF intervals. There were no reported cases of torsade de pointes. Dose interruptions/adjustments were reported in 2.9% of Kisqali plus aromatase inhibitor or fulvestrant treated patients due to electrocardiogram QT prolonged and syncope.
 
@@ -535,8 +532,6 @@ In the phase III clinical study in patients with early breast cancer, 983 patien
 
 In the three pivotal studies, 341 patients with advanced or metastatic breast cancer with mild renal impairment and 97 patients with moderate renal impairment were treated with ribociclib. No patient with severe renal impairment was enrolled (see section 5.1). There was a correlation between the degree of renal impairment at baseline and blood creatinine values during the treatment. Slightly increased rates of QT prolongation and thrombocytopenia were observed in patients with mild or moderate renal impairment. For monitoring and dose adjustment recommendations for these toxicities see sections 4.2. and 4.4.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
@@ -544,6 +539,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 ## 4.9 Overdose
 
 There is only limited experience with reported cases of overdose with Kisqali. In the event of an overdose, symptoms such as nausea and vomiting may occur. In addition, haematological (e.g. neutropenia, thrombocytopenia) toxicity and possible QTc prolongation may occur. General supportive care should be initiated in all cases of overdose as necessary.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -561,8 +558,6 @@ In vivo studies using patient-derived oestrogen receptor-positive breast cancer 
 
 When tested in a panel of breast cancer cell lines with known ER status, ribociclib demonstrated to be more efficacious in ER+ breast cancer cell lines than in the ER- ones. In the preclinical models tested so far, intact pRb was required for ribociclib activity.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Cardiac electrophysiology
 
 Serial, triplicate ECGs were collected following a single dose and at steady state to evaluate the effect of ribociclib on the QTc interval in patients with advanced cancer. A pharmacokineticpharmacodynamic analysis included a total of 997 patients treated with ribociclib at doses ranging from 50 to 1 200 mg. The analysis suggested that ribociclib causes concentration-dependent increases in the QTc interval.
@@ -570,6 +565,8 @@ Serial, triplicate ECGs were collected following a single dose and at steady sta
 In patients with advanced or metastatic breast cancer the estimated QTcF mean change from baseline for 600 mg Kisqali in combination with NSAI or fulvestrant was 22.0 msec (90% CI: 20.56, 23.44) and 23.7 msec (90% CI: 22.31, 25.08), respectively at the geometric mean Cmax at steady-state compared to 34.7 msec (90% CI: 31.64, 37.78) in combination with tamoxifen (see section 4.4).
 
 In patients with early breast cancer a similar concentration-dependent increase in the QTc interval exists. The estimated QTcF mean change from baseline is estimated to be lower in patients with early breast cancer treated with 400 mg Kisqali compared to patients with advanced or metastatic breast cancer treated with 600 mg Kisqali.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Clinical efficacy and safety
 
@@ -592,15 +589,15 @@ A total of 5 101 patients, including 20 male patients, were randomised in a 1:1 
 
 Patients enrolled in this study had a median age of 52 years (range 24 to 90). 15.2% patients were aged 65 years and older, including 123 patients (2.4%) aged 75 years and older. The patients included were Caucasian (73.4%), Asian (13.2%) and Black or African American (1.7%). All patients had an ECOG performance status of 0 or 1. A total of 88.2% of patients had received chemotherapy in the neoadjuvant or adjuvant setting and 71.6% had received endocrine therapy in the neoadjuvant or adjuvant setting within 12 months prior to study entry.
 
-<div style=\"page-break-after: always\"></div>
-
 The primary endpoint for the study was invasive disease-free survival (iDFS) defined as the time from randomisation to the first occurrence of: local invasive breast recurrence, regional invasive recurrence, distant recurrence, death (any cause), contralateral invasive breast cancer, or second primary nonbreast invasive cancer (excluding basal and squamous cell carcinomas of the skin).
 
 The primary endpoint of the study was met at the primary analysis (11 January 2023 cut-off). A statistically significant improvement in iDFS (HR: 0.748, 95% CI: 0.618, 0.906; one-sided stratified log-rank test p-value 0.0014) was demonstrated in patients receiving Kisqali plus AI over AI alone. Consistent results were observed across sub-groups of anatomic stage, menopausal status, region, nodal status, age, race, and prior adjuvant/neo-adjuvant chemotherapy or hormonal therapies.
 
 Data from a further analysis (21 July 2023 cut-off) is summarised in Table 8, the Kaplan-Meier curve for iDFS is provided in Figure 1. The median treatment duration at the time of the final iDFS analysis was approximately 30 months with the median follow-up time for iDFS 33.3 months across the two study arms. The overall survival (OS) remains immature. A total of 172 patients (3.5%) had died (83/2 525 in the ribociclib arm versus 89/2 442 in the AI alone arm, HR 0.892, 95% CI: 0.661, 1.203).
 
-## Table 8 NATALEE - Efficacy results (iDFS) based on investigator assessment (FAS) (21 July 2023 cut-off)
+<div style=\"page-break-after: always\"></div>
+
+Table 8 NATALEE - Efficacy results (iDFS) based on investigator assessment (FAS) (21 July 2023 cut-off)
 
 |                                          | Kisqali plus AI* N=2 549   | AI N=2 552           |
 |------------------------------------------|----------------------------|----------------------|
@@ -616,13 +613,15 @@ a iDFS defined as the time from randomisation to the first occurrence of: local 
 
 b nominal p-value is obtained from the one-sided stratified log-rank test.
 
-* Letrozole or anastrozole AI = aromatase inhibitor (letrozole or anastrozole) P-value from stratified log-rank test is one-sided.
-
-<div style=\"page-break-after: always\"></div>
+* Letrozole or anastrozole
 
 Figure 1 NATALEE - Kaplan-Meier plot of iDFS based on investigator assessment (21 July 2023 cut-off)
 
 <!-- image -->
+
+AI = aromatase inhibitor (letrozole or anastrozole)
+
+P-value from stratified log-rank test is one-sided.
 
 There were 204 (8.0%) distant disease-free survival (DDFS) events in the Kisqali plus AI arm compared to 256 (10%) events in the AI alone arm (HR: 0.749, 95% CI: 0.623, 0.900).
 
@@ -632,11 +631,11 @@ There were 204 (8.0%) distant disease-free survival (DDFS) events in the Kisqali
 
 Kisqali was evaluated in a randomised, double-blind, placebo-controlled, multicentre phase III clinical study in the treatment of postmenopausal women with hormone receptor-positive, HER2-negative, advanced breast cancer who received no prior therapy for advanced disease in combination with letrozole versus letrozole alone.
 
+<div style=\"page-break-after: always\"></div>
+
 A total of 668 patients were randomised in a 1:1 ratio to receive either Kisqali 600 mg and letrozole (n=334) or placebo and letrozole (n=334), stratified according to the presence of liver and/or lung metastases (Yes [n=292 (44%)]) versus No [n=376 (56%)]) . Demographics and baseline disease characteristics were balanced and comparable between study arms. Kisqali was given orally at a dose of 600 mg daily for 21 consecutive days followed by 7 days off treatment in combination with letrozole 2.5 mg once daily for 28 days. Patients were not allowed to cross over from placebo to Kisqali during the study or after progression of disease.
 
 Patients enrolled in this study had a median age of 62 years (range 23 to 91). 44.2% patients were aged 65 years and older, including 69 patients older than 75 years. The patients included were Caucasian (82.2%), Asian (7.6%), and Black (2.5%). All patients had an ECOG performance status of 0 or 1. In the Kisqali arm 46.6% of patients had received chemotherapy in the neoadjuvant or adjuvant setting and 51.3% had received antihormonal therapy in the neoadjuvant or adjuvant setting prior to study entry. 34.1% of patients were de novo . 22.0% of patients had bone-only disease and 58.8% of patients had visceral disease. Patients with prior (neo)adjuvant therapy with anastrozole or letrozole must have completed this therapy at least 12 months before study randomisation.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Primary analysis
 
@@ -765,21 +764,22 @@ Figure 5 MONALEESA-7 -Kaplan-Meier plot of PFS based on investigator assessment 
 
 Efficacy results for overall response rate (ORR) and clinical benefit rate (CBR) per investigator assessment based on RECIST v1.1 are provided in Table 13.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 13 MONALEESA-7 - Efficacy results (ORR, CBR) based on investigator assessment in patients who received NSAI
 
-| Analysis                                                                                                                                                                                                                        | Kisqali plus NSAI plus goserelin (%, 95% CI)                                                                                                                                                                                    | Placebo plus NSAI plus goserelin (%, 95% CI)                                                                                                                                                                                    |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Full analysis set                                                                                                                                                                                                               | N=248                                                                                                                                                                                                                           | N=247                                                                                                                                                                                                                           |
-| Overall response rate (ORR) a                                                                                                                                                                                                   | 39.1 (33.0, 45.2)                                                                                                                                                                                                               | 29.1 (23.5, 34.8)                                                                                                                                                                                                               |
-| Clinical benefit rate (CBR) b                                                                                                                                                                                                   | 80.2 (75.3, 85.2)                                                                                                                                                                                                               | 67.2 (61.4, 73.1)                                                                                                                                                                                                               |
-| Patients with measurable disease                                                                                                                                                                                                | n=192                                                                                                                                                                                                                           | n=199                                                                                                                                                                                                                           |
-| Overall response rate a                                                                                                                                                                                                         | 50.5 (43.4, 57.6)                                                                                                                                                                                                               | 36.2 (29.5, 42.9)                                                                                                                                                                                                               |
-| Clinical benefit rate b                                                                                                                                                                                                         | 81.8 (76.3, 87.2)                                                                                                                                                                                                               | 63.8 (57.1, 70.5)                                                                                                                                                                                                               |
-| a ORR: proportion of patients with complete response + partial response b CBR: proportion of patients with complete response + partial response + (stable disease or non- complete response/Non- progressive disease ≥24 weeks) | a ORR: proportion of patients with complete response + partial response b CBR: proportion of patients with complete response + partial response + (stable disease or non- complete response/Non- progressive disease ≥24 weeks) | a ORR: proportion of patients with complete response + partial response b CBR: proportion of patients with complete response + partial response + (stable disease or non- complete response/Non- progressive disease ≥24 weeks) |
+| Analysis                         | Kisqali plus NSAI plus goserelin (%, 95% CI)   | Placebo plus NSAI plus goserelin (%, 95% CI)   |
+|----------------------------------|------------------------------------------------|------------------------------------------------|
+| Full analysis set                | N=248                                          | N=247                                          |
+| Overall response rate (ORR) a    | 39.1 (33.0, 45.2)                              | 29.1 (23.5, 34.8)                              |
+| Clinical benefit rate (CBR) b    | 80.2 (75.3, 85.2)                              | 67.2 (61.4, 73.1)                              |
+| Patients with measurable disease | n=192                                          | n=199                                          |
+| Overall response rate a          | 50.5 (43.4, 57.6)                              | 36.2 (29.5, 42.9)                              |
+| Clinical benefit rate b          | 81.8 (76.3, 87.2)                              | 63.8 (57.1, 70.5)                              |
 
-Results in the Kisqali plus NSAI subgroup were consistent across subgroups of age, race, prior adjuvant/ neoadjuvant chemotherapy or hormonal therapies, liver and/or lung involvement and boneonly metastatic disease.
+a ORR: proportion of patients with complete response + partial response b Results in the Kisqali plus NSAI subgroup were consistent across subgroups of age, race, prior adjuvant/ neoadjuvant chemotherapy or hormonal therapies, liver and/or lung involvement and boneonly metastatic disease.
+
+CBR: proportion of patients with complete response + partial response + (stable disease or noncomplete response/Nonprogressive disease ≥24 weeks)
+
+<div style=\"page-break-after: always\"></div>
 
 A more mature update of overall survival data (30 November 2018 cut-off) is provided in Table 14 and Figures 6 and 7.
 
@@ -801,13 +801,13 @@ Table 14 MONALEESA-7 -Efficacy results (OS) (30 November 2018 cut-off)
 
 CI=confidence interval, NE=not estimable, N=number of patients; a p-value is obtained from the one-sided log-rank test stratified by lung and/or liver metastases, prior chemotherapy for advanced disease, and endocrine partner per IRT (interactive response technology).
 
-<div style=\"page-break-after: always\"></div>
-
 Figure 6 MONALEESA-7 -Kaplan-Meier plot of final OS analysis (30 November 2018 cutoff)
 
 <!-- image -->
 
 Log-rank test and Cox model are stratified by lung and/or liver metastasis, prior chemotherapy for advanced disease, and endocrine combination partner per IRT
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 7 MONALEESA-7 -Kaplan-Meier plot of final OS analysis in patients who received NSAI (30 November 2018 cut-off)
 
@@ -816,8 +816,6 @@ Figure 7 MONALEESA-7 -Kaplan-Meier plot of final OS analysis in patients who rec
 Hazard ratio is based on unstratified Cox model.
 
 Additionally, the probability of progression on next-line therapy or death (PFS2) in patients who received prior ribociclib in the study was lower compared to patients in the placebo arm with an HR of 0.692 (95% CI: 0.548, 0.875) in the overall study population. The median PFS2 was 32.3 months (95% CI: 27.6, 38.3) in the placebo arm and was not reached (95% CI: 39.4, NE) for the ribociclib arm. Similar results were observed for the NSAI subgroup, with an HR of 0.660 (95% CI: 0.503, 0.868) and a median PFS2 of 32.3 months (95% CI: 26.9, 38.3) in the placebo arm versus not reached (95% CI: 39.4, NE) in the ribociclib arm.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Study CLEE011F2301 (MONALEESA-3)
 
@@ -829,39 +827,44 @@ Patients enrolled in this study had a median age of 63 years (range 31 to 89). 4
 
 The study met the primary endpoint at the primary analysis conducted after 361 progression-free survival (PFS) events based on the investigator assessment and using RECIST v1.1 criteria in the full analysis set (all randomised patients, 03 November 2017 cut-off). The median follow-up time at the time of primary PFS analysis was 20.4 months.
 
+<div style=\"page-break-after: always\"></div>
+
 The primary efficacy results demonstrated a statistically significant improvement in PFS in patients receiving Kisqali plus fulvestrant compared to patients receiving placebo plus fulvestrant in the full analysis set (hazard ratio of 0.593, 95% CI: 0.480, 0.732, one-sided stratified log-rank test p-value 4.1x10 -7 ), with an estimated 41% reduction in relative risk of progression or death in favour of the Kisqali plus fulvestrant arm.
 
 The primary efficacy results were supported by a random central audit of 40% imaging subset by a blinded independent central radiological assessment (hazard ratio of 0.492; 95% CI: 0.345, 0.703).
 
 A descriptive update of PFS was performed at the time of the second OS interim analysis, and the updated PFS results on the overall population and the subgroups based on prior endocrine therapy are summarised in Table 15 and the Kaplan-Meier curve is provided in Figure 8.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 15 MONALEESA-3 (F2301) - Updated PFS results based on investigator assessment (03 June 2019 cut-off)
 
-|                                                                                                                                                                                                                                                                                                                                                                                                   | Kisqali plus fulvestrant N=484                                                                                                                                                                                                                                                                                                                                                                    | Placebo plus fulvestrant N=242                                                                                                                                                                                                                                                                                                                                                                    |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Progression free survival overall study population                                                                                                                                                                                                                                                                                                                                                | Progression free survival overall study population                                                                                                                                                                                                                                                                                                                                                | Progression free survival overall study population                                                                                                                                                                                                                                                                                                                                                |
-| Number of events- n [%]                                                                                                                                                                                                                                                                                                                                                                           | 283 (58.5)                                                                                                                                                                                                                                                                                                                                                                                        | 193 (79.8)                                                                                                                                                                                                                                                                                                                                                                                        |
-| Median PFS [months] (95% CI)                                                                                                                                                                                                                                                                                                                                                                      | 20.6 (18.6, 24.0)                                                                                                                                                                                                                                                                                                                                                                                 | 12.8 (10.9, 16.3)                                                                                                                                                                                                                                                                                                                                                                                 |
-| Hazard ratio (95% CI)                                                                                                                                                                                                                                                                                                                                                                             | 0.587 (0.488, 0.705)                                                                                                                                                                                                                                                                                                                                                                              | 0.587 (0.488, 0.705)                                                                                                                                                                                                                                                                                                                                                                              |
-| First-line setting subgroup a                                                                                                                                                                                                                                                                                                                                                                     | Kisqali plus fulvestrant n=237                                                                                                                                                                                                                                                                                                                                                                    | Placebo plus fulvestrant n=128                                                                                                                                                                                                                                                                                                                                                                    |
-| Number of events- n [%]                                                                                                                                                                                                                                                                                                                                                                           | 112 (47.3)                                                                                                                                                                                                                                                                                                                                                                                        | 95 (74.2)                                                                                                                                                                                                                                                                                                                                                                                         |
-| Median PFS [months] (95% CI)                                                                                                                                                                                                                                                                                                                                                                      | 33.6 (27.1, 41.3)                                                                                                                                                                                                                                                                                                                                                                                 | 19.2 (14.9, 23.6)                                                                                                                                                                                                                                                                                                                                                                                 |
-| Hazard ratio (95% CI)                                                                                                                                                                                                                                                                                                                                                                             | 0.546 (0.415, 0.718)                                                                                                                                                                                                                                                                                                                                                                              | 0.546 (0.415, 0.718)                                                                                                                                                                                                                                                                                                                                                                              |
-| Second-line setting or early relapse subgroup b                                                                                                                                                                                                                                                                                                                                                   | Kisqali plus fulvestrant n=237                                                                                                                                                                                                                                                                                                                                                                    | Placebo plus fulvestrant n=109                                                                                                                                                                                                                                                                                                                                                                    |
-| Number of events- n [%]                                                                                                                                                                                                                                                                                                                                                                           | 167 (70.5)                                                                                                                                                                                                                                                                                                                                                                                        | 95 (87.2)                                                                                                                                                                                                                                                                                                                                                                                         |
-| Median PFS [months] (95% CI)                                                                                                                                                                                                                                                                                                                                                                      | 14.6 (12.5, 18.6)                                                                                                                                                                                                                                                                                                                                                                                 | 9.1 (5.8, 11.0)                                                                                                                                                                                                                                                                                                                                                                                   |
-| Hazard ratio (95% CI)                                                                                                                                                                                                                                                                                                                                                                             | 0.571 (0.443, 0.737)                                                                                                                                                                                                                                                                                                                                                                              | 0.571 (0.443, 0.737)                                                                                                                                                                                                                                                                                                                                                                              |
-| CI=confidence interval a patients with de novo advanced breast cancer with no prior endocrine therapy, and patients who relapsed after 12 months of (neo)adjuvant endocrine therapy completion. b patients whose disease relapsed during adjuvant therapy or within 12 months of (neo)adjuvant endocrine therapy completion, and patients who had progression after one line of endocrine therapy | CI=confidence interval a patients with de novo advanced breast cancer with no prior endocrine therapy, and patients who relapsed after 12 months of (neo)adjuvant endocrine therapy completion. b patients whose disease relapsed during adjuvant therapy or within 12 months of (neo)adjuvant endocrine therapy completion, and patients who had progression after one line of endocrine therapy | CI=confidence interval a patients with de novo advanced breast cancer with no prior endocrine therapy, and patients who relapsed after 12 months of (neo)adjuvant endocrine therapy completion. b patients whose disease relapsed during adjuvant therapy or within 12 months of (neo)adjuvant endocrine therapy completion, and patients who had progression after one line of endocrine therapy |
+|                                                    | Kisqali plus fulvestrant N=484                     | Placebo plus fulvestrant N=242                     |
+|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
+| Progression free survival overall study population | Progression free survival overall study population | Progression free survival overall study population |
+| Number of events- n [%]                            | 283 (58.5)                                         | 193 (79.8)                                         |
+| Median PFS [months] (95% CI)                       | 20.6 (18.6, 24.0)                                  | 12.8 (10.9, 16.3)                                  |
+| Hazard ratio (95% CI)                              | 0.587 (0.488, 0.705)                               | 0.587 (0.488, 0.705)                               |
+| First-line setting subgroup a                      | Kisqali plus fulvestrant n=237                     | Placebo plus fulvestrant n=128                     |
+| Number of events- n [%]                            | 112 (47.3)                                         | 95 (74.2)                                          |
+| Median PFS [months] (95% CI)                       | 33.6 (27.1, 41.3)                                  | 19.2 (14.9, 23.6)                                  |
+| Hazard ratio (95% CI)                              | 0.546 (0.415, 0.718)                               | 0.546 (0.415, 0.718)                               |
+| Second-line setting or early relapse subgroup b    | Kisqali plus fulvestrant n=237                     | Placebo plus fulvestrant n=109                     |
+| Number of events- n [%]                            | 167 (70.5)                                         | 95 (87.2)                                          |
+| Median PFS [months] (95% CI)                       | 14.6 (12.5, 18.6)                                  | 9.1 (5.8, 11.0)                                    |
+| Hazard ratio (95% CI)                              | 0.571 (0.443, 0.737)                               | 0.571 (0.443, 0.737)                               |
+
+CI=confidence interval
+
+a patients with de novo advanced breast cancer with no prior endocrine therapy, and patients who relapsed after 12 months of (neo)adjuvant endocrine therapy completion.
+
+b patients whose disease relapsed during adjuvant therapy or within 12 months of (neo)adjuvant endocrine therapy completion, and patients who had progression after one line of endocrine therapy for advanced disease.
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 8 MONALEESA-3 (F2301) -Kaplan-Meier plot of PFS based on investigator assessment (FAS) (03 June 2019 cut-off)
 
 <!-- image -->
 
 Efficacy results for overall response rate (ORR) and clinical benefit rate (CBR) per investigator assessment based on RECIST v1.1 are provided in Table 16.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 16 MONALEESA-3 - Efficacy results (ORR, CBR) based on investigator assessment (03 November 2017 cut-off)
 
@@ -882,6 +885,8 @@ In the second OS analysis the study met its secondary endpoint, demonstrating a 
 
 The results from this final OS analysis on the overall study population and the subgroups analysis are provided in Table 17 and Figure 9.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 17 MONALEESA-3 (F2301) -Efficacy results (OS) (03 June 2019 cut-off)
 
 |                                               | Kisqali plus fulvestrant   | Placebo plus fulvestrant   |
@@ -898,15 +903,13 @@ Table 17 MONALEESA-3 (F2301) -Efficacy results (OS) (03 June 2019 cut-off)
 | Number of events - n [%]                      | 102 (43.0)                 | 60 (55.0)                  |
 | HR (95% CI) c                                 | 0.730 (0.530, 1.004)       | 0.730 (0.530, 1.004)       |
 
-## NE = Not estimable
+NE = Not estimable
 
 a Hazard ratio is obtained from the Cox PH model stratified by lung and/or liver metastasis, previous endocrine therapy.
 
 b One-sided P-value is obtained from log-rank test stratified by lung and/or liver metastasis, previous endocrine therapy per IRT. P-value is one-sided and is compared against a threshold of 0.01129 as determined by the LanDeMets (O'Brien -Fleming) alpha-spending function for an overall significance level of 0.025.
 
 c Hazard ratio is obtained from the unstratified Cox PH model.
-
-<div style=\"page-break-after: always\"></div>
 
 Figure 9 MONALEESA-3 (F2301) -Kaplan-Meier plot of OS (full analysis set [FAS]) (03 June 2019 cut-off)
 
@@ -916,6 +919,8 @@ Log-rank test and Cox model are stratified by lung and/or liver metastasis, prio
 
 Time to progression on next-line therapy or death (PFS2) in patients in the Kisqali arm was longer compared to patients in the placebo arm (HR: 0.670 [95% CI: 0.542, 0.830]) in the overall study population. The median PFS2 was 39.8 months (95% CI: 32.5, NE) for the Kisqali arm and 29.4 months (95% CI: 24.1, 33.1) in the placebo arm.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elderly patients
 
 Of all patients who received Kisqali in studies MONALEESA-2 and MONALEESA-3, representative proportions of patients were ≥65 years and ≥75 years of age (see section 5.1). No overall differences in safety or effectiveness of Kisqali were observed between these patients and younger patients (see section 4.2).
@@ -923,8 +928,6 @@ Of all patients who received Kisqali in studies MONALEESA-2 and MONALEESA-3, rep
 ## Patients with renal impairment
 
 In the three pivotal studies (MONALEESA-2, MONALEESA-3 and MONALEESA-7), 510 (53.8%) patients with normal renal function, 341 (36%) patients with mild renal impairment and 97 (10.2%) patients with moderate renal impairment were treated with ribociclib. No patient with severe renal impairment was enrolled. PFS results were consistent in patients with mild and moderate renal impairment who received ribociclib at the starting dose of 600 mg as compared to those with normal renal function. The safety profile was generally consistent across renal cohorts (see section 4.8).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -948,11 +951,11 @@ The time to reach Cmax (Tmax) following ribociclib oral administration was betwe
 
 Compared to the fasted state, oral administration of a single 600 mg dose of ribociclib film-coated tablets with a high-fat, high-calorie meal had no effect on the rate and extent of absorption of ribociclib.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Distribution
 
 Binding of ribociclib to human plasma proteins in vitro was approximately 70% and was independent of concentration (10 to 10 000 ng/ml). Ribociclib was equally distributed between red blood cells and plasma with a mean in vivo blood-to-plasma ratio of 1.04. The apparent volume of distribution at steady state (Vss/F) was 1 090 L based on population pharmacokinetic analysis.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Biotransformation
 
@@ -970,13 +973,13 @@ Ribociclib and its metabolites are eliminated mainly via faeces, with a small co
 
 Ribociclib exhibited slightly over-proportional increases in exposure (Cmax and AUC) across the dose range of 50 mg to 1 200 mg following both single dose and repeated doses. This analysis is limited by the small sample sizes for most of the dose cohorts with a majority of the data coming from the 600 mg dose cohort.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Special populations
 
 ## Renal impairment
 
 The effect of renal function on the pharmacokinetics of ribociclib was assessed in a renal impairment study that included 14 healthy subjects with normal renal function (absolute Glomerular Filtration Rate [aGFR] ≥90 ml/min), 8 subjects with mild renal impairment (aGFR 60 to &lt;90 ml/min), 6 subjects with moderate renal impairment (aGFR 30 to &lt;60 ml/min), 7 subjects with severe renal impairment (aGFR 15 to &lt;30 ml/min) and 3 subjects with end-stage renal disease (ESRD) (aGFR &lt;15 ml/min) at a single ribociclib dose of 400 mg.
+
+<div style=\"page-break-after: always\"></div>
 
 AUCinf increased 1.6-fold, 1.9-fold and 2.7-fold and Cmax increased 1.8-fold, 1.8-fold and 2.3-fold in subjects with mild, moderate and severe renal impairment relative to the exposure in subjects with normal renal function. Since the efficacy and safety studies of ribociclib included a large proportion of patients with mild renal impairment (see section 5.1), data from the subjects with moderate or severe renal impairment in the renal impairment study were also compared with pooled data for the subjects with normal renal function and mild renal impairment. Compared to the pooled data for the subjects with normal renal function and mild renal impairment, AUCinf increased 1.6-fold and 2.2-fold and Cmax increased 1.5-fold and 1.9-fold in subjects with moderate and severe renal impairment, respectively. A fold difference for subjects with ESRD was not calculated due to the small number of subjects, but results indicate a similar or somewhat larger increase in ribociclib exposure compared to subjects with severe renal impairment.
 
@@ -996,13 +999,13 @@ Population pharmacokinetic analysis showed that there are no clinically relevant
 
 The pharmacokinetics of ribociclib were evaluated in paediatric (n=10) and young adult (n=2) patients with relapsed or refractory neuroblastoma or other solid tumours in the dose-finding part of a phase I/II study of Kisqali in combination with TOTEM as concurrent or sequential dosing (see section 5.1). The exposure of ribociclib increased with the dose increasing from 100 to 200 mg/m 2 /day with Tmax between 1 and 4 hours across patients. At the ribociclib dose of 100 mg/m 2 /day with concurrent dosing of TOTEM, the geometric mean steady-state CL/F of ribociclib was 35.4 l/hr (69% CV) and the geometric mean accumulation ratio was 1.06 (53.9% CV) (n=5).
 
-<div style=\"page-break-after: always\"></div>
-
 ## In vitro interaction data
 
 ## Effect of ribociclib on cytochrome P450 enzymes
 
 In vitro , ribociclib is a reversible inhibitor of CYP1A2, CYP2E1 and CYP3A4/5 and a time-dependent inhibitor of CYP3A4/5, at clinically relevant concentrations. In vitro evaluations indicated that ribociclib has no potential to inhibit the activities of CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and CYP2D6 at clinically relevant concentrations. Ribociclib has no potential for timedependent inhibition of CYP1A2, CYP2C9, and CYP2D6.
+
+<div style=\"page-break-after: always\"></div>
 
 In vitro data indicate that ribociclib has no potential to induce UGT enzymes or the CYP enzymes CYP2C9, CYP2C19 and CYP3A4 via PXR. Therefore, Kisqali is unlikely to affect substrates of these enzymes. In vitro data are not sufficient to exclude a potential of ribociclib to induce CYP2B6 via CAR.
 
@@ -1024,8 +1027,6 @@ In vivo cardiac safety studies in dogs demonstrated dose and concentration relat
 
 Repeated-dose toxicity studies (treatment schedule of 3 weeks on/1 week off) of up to 27 weeks ' duration in rats and up to 39 weeks ' duration in dogs, revealed the hepatobiliary system (proliferative changes, cholestasis, sand-like gallbladder calculi, and inspissated bile) as the primary target organ of toxicity of ribociclib. Target organs associated with the pharmacological action of ribociclib in repeatdose studies include bone marrow (hypocellularity), lymphoid system (lymphoid depletion), intestinal mucosa (atrophy), skin (atrophy), bone (decreased bone formation), kidney (concurrent degeneration and regeneration of tubular epithelial cells) and testes (atrophy). Besides the atrophic changes seen in the testes, which showed a trend towards reversibility, all other changes were fully reversible after a 4week treatment-free period. Exposure to ribociclib in animals in the toxicity studies was generally less than or equal to that observed in patients receiving multiple doses of 600 mg/day (based on AUC).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Reproductive toxicity/Fertility
 
 Ribociclib showed foetotoxicity and teratogenicity at doses which did not show maternal toxicity in the rats or rabbits. Following prenatal exposure, increased incidences of post-implantation loss and reduced foetal weights were observed in rats and ribociclib was teratogenic in rabbits at exposures lower than or 1.5 times the exposure in humans, respectively, at the highest recommended dose of 600 mg/day in patients with advanced or metastatic breast cancer based on AUC.
@@ -1034,6 +1035,8 @@ In rats, reduced foetal weights accompanied by skeletal changes considered to be
 
 In a fertility study in female rats, ribociclib did not affect reproductive function, fertility or early embryonic development at any dose up to 300 mg/kg/day (which is likely at an exposure lower than or equal to patients ' clinical exposure at the highest recommended dose of 600 mg/day based on AUC).
 
+<div style=\"page-break-after: always\"></div>
+
 Ribociclib has not been evaluated in male fertility studies. However, atrophic changes in testes were reported in rat and dog toxicity studies at exposures that were less than or equal to human exposure at the highest recommended daily dose of 600 mg/day based on AUC. These effects can be linked to a direct anti-proliferative effects on the testicular germ cells resulting in atrophy of the seminiferous tubules.
 
 Ribociclib and its metabolites passed readily into rat milk. The exposure to ribociclib was higher in milk than in plasma.
@@ -1041,8 +1044,6 @@ Ribociclib and its metabolites passed readily into rat milk. The exposure to rib
 ## Genotoxicity
 
 Genotoxicity studies in bacterial in vitro systems and in mammalian in vitro and in vivo systems with and without metabolic activation did not reveal any evidence for a genotoxic potential of ribociclib.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Carcinogenesis
 
@@ -1086,15 +1087,13 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Store in the original package in order to protect from moisture.
-
-This medicinal product does not require any special temperature storage conditions.
+Store in the original package in order to protect from moisture. This medicinal product does not require any special temperature storage conditions.
 
 ## 6.5 Nature and contents of container
 
-PVC/PCTFE (polyvinylchloride/polychlorotrifluoroethylene) or PA/alu/PVC (polyamide/aluminium/polyvinylchloride) blisters containing 14 or 21 film-coated tablets.
+PVC/PCTFE (polyvinylchloride/polychlorotrifluoroethylene) or PA/Alu/PVC (polyamide/aluminium/polyvinylchloride) blisters containing 14 or 21 film-coated tablets.
 
-Unit packs containing 21, 42 or 63 film-coated tablets and multipacks containing 63 (3 packs of 21), 126 (3 packs of 42) or 189 (3 packs of 63) film-coated tablets.
+Unit packs containing 21, 42, 63, 126 or 189 film-coated tablets and multipacks containing 63 (3 packs of 21), 126 (3 packs of 42) or 189 (3 packs of 63) film-coated tablets.
 
 Not all pack sizes may be marketed.
 
@@ -1110,7 +1109,7 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/17/1221/001-012
+EU/1/17/1221/001-014
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1122,13 +1121,15 @@ Date of latest renewal: 04 April 2022
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
-42
-
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -1172,9 +1173,9 @@ An updated RMP should be submitted:
 
 The MAH shall complete, within the stated timeframe, the below measure:
 
-|   Description | Description                                                                                                                                                                                                                                                                                                                                                                                                      | Due date   |
-|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-|            1. | Post-authorisation efficacy study (PAES): In order to further characterise the efficacy of Kisqali in combination with an aromatase inhibitor for the adjuvant treatment of patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)- negative early breast cancer at high risk of recurrence, theMAH should submit a 5-year follow-up of iDFS and OS in the NATALEE study. | June 2027  |
+|   Description | Description                                                                                                                                                                                                                                                                                                                                                                                                       | Due date   |
+|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+|            1. | Post-authorisation efficacy study (PAES): In order to further characterise the efficacy of Kisqali in combination with an aromatase inhibitor for the adjuvant treatment of patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)- negative early breast cancer at high risk of recurrence, the MAH should submit a 5-year follow-up of iDFS and OS in the NATALEE study. | June 2027  |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1213,10 +1214,12 @@ Contains soya lecithin. See leaflet for further information.
 - 21 film-coated tablets
 - 42 film-coated tablets
 - 63 film-coated tablets
+- 126 film-coated tablets
+- 189 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-## Oral use
+Oral use
 
 Read the package leaflet before use.
 
@@ -1236,62 +1239,59 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
 
-<div style=\"page-break-after: always\"></div>
-
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
 Store in the original package in order to protect from moisture.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
-Ireland
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| EU/1/17/1221/001   | 21 film-coated tablets (in PCTFE/PVC blisters)   |
+|--------------------|--------------------------------------------------|
+| EU/1/17/1221/002   | 21 film-coated tablets (in PA/Alu/PVC blisters)  |
+| EU/1/17/1221/003   | 42 film-coated tablets (in PCTFE/PVC blisters)   |
+| EU/1/17/1221/004   | 42 film-coated tablets (in PA/Alu/PVC blisters)  |
+| EU/1/17/1221/005   | 63 film-coated tablets (in PCTFE/PVC blisters)   |
+| EU/1/17/1221/006   | 63 film-coated tablets (in PA/Alu/PVC blisters)  |
+| EU/1/17/1221/013   | 126 film-coated tablets (in PA/Alu/PVC blisters) |
+| EU/1/17/1221/014   | 189 film-coated tablets (in PA/Alu/PVC blisters) |
 
-EU/1/17/1221/001 21 film-coated tablets (in PCTFE/PVC blisters) EU/1/17/1221/002 21 film-coated tablets (in PA/alu/PVC blisters) EU/1/17/1221/003 42 film-coated tablets (in PCTFE/PVC blisters) EU/1/17/1221/004 42 film-coated tablets (in PA/alu/PVC blisters) EU/1/17/1221/005 63 film-coated tablets (in PCTFE/PVC blisters)
-
-EU/1/17/1221/006
-
-63 film-coated tablets (in PA/alu/PVC blisters)
-
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+## 15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Kisqali 200 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+<div style=\"page-break-after: always\"></div>
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-<div style=\"page-break-after: always\"></div>
-
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
+
+46
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1355,11 +1355,11 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 | EU/1/17/1221/007   | 63 (3 x 21) film-coated tablets (in PCTFE/PVC blisters)   |
 |--------------------|-----------------------------------------------------------|
-| EU/1/17/1221/008   | 63 (3 x 21) film-coated tablets (in PA/alu/PVC blisters)  |
+| EU/1/17/1221/008   | 63 (3 x 21) film-coated tablets (in PA/Alu/PVC blisters)  |
 | EU/1/17/1221/009   | 126 (3 x 42) film-coated tablets (in PCTFE/PVC blisters)  |
-| EU/1/17/1221/010   | 126 (3 x 42) film-coated tablets (in PA/alu/PVC blisters) |
+| EU/1/17/1221/010   | 126 (3 x 42) film-coated tablets (in PA/Alu/PVC blisters) |
 | EU/1/17/1221/011   | 189 (3 x 63) film-coated tablets (in PCTFE/PVC blisters)  |
-| EU/1/17/1221/012   | 189 (3 x 63) film-coated tablets (in PA/alu/PVC blisters) |
+| EU/1/17/1221/012   | 189 (3 x 63) film-coated tablets (in PA/Alu/PVC blisters) |
 
 ## 13. BATCH NUMBER
 
@@ -1446,11 +1446,16 @@ EXP
 
 Store in the original package in order to protect from moisture.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+10.
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+
+OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
+
+APPROPRIATE
+
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4
 
@@ -1459,7 +1464,7 @@ Ireland
 | 12.   | MARKETING AUTHORISATION NUMBER(S)   |
 |-------|-------------------------------------|
 
-EU/1/17/1221/007 63 (3 x 21) film-coated tablets (in PCTFE/PVC blisters) EU/1/17/1221/008 63 (3 x 21) film-coated tablets (in PA/alu/PVC blisters) EU/1/17/1221/009 126 (3 x 42) film-coated tablets (in PCTFE/PVC blisters) EU/1/17/1221/010 126 (3 x 42) film-coated tablets (in PA/alu/PVC blisters) EU/1/17/1221/011 189 (3 x 63) film-coated tablets (in PCTFE/PVC blisters) EU/1/17/1221/012 189 (3 x 63) film-coated tablets (in PA/alu/PVC blisters)
+EU/1/17/1221/007 63 (3 x 21) film-coated tablets (in PCTFE/PVC blisters) EU/1/17/1221/008 63 (3 x 21) film-coated tablets (in PA/Alu/PVC blisters) EU/1/17/1221/009 126 (3 x 42) film-coated tablets (in PCTFE/PVC blisters) EU/1/17/1221/010 126 (3 x 42) film-coated tablets (in PA/Alu/PVC blisters) EU/1/17/1221/011 189 (3 x 63) film-coated tablets (in PCTFE/PVC blisters) EU/1/17/1221/012 189 (3 x 63) film-coated tablets (in PA/Alu/PVC blisters)
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
@@ -1480,20 +1485,20 @@ Kisqali 200 mg Kisqali 200 mg tablets ribociclib Novartis Europharm Limited EXP
 | 17. UNIQUE IDENTIFIER - 2D BARCODE   |
 |--------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTERS                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1591,15 +1596,18 @@ You will have regular blood tests before and during treatment with Kisqali to ch
 
 Kisqali is not to be used in children and adolescents under 18 years of age.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Other medicines and Kisqali
 
-Before you take Kisqali, tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines, including prescription and non-prescription medicines, herbal medicines, or supplements, because these may influence the effect of Kisqali. Always tell your doctor if you are prescribed a new medicine after you have started treatment with Kisqali. This includes in particular:
+Before you take Kisqali, tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines, including prescription and non-prescription medicines, herbal medicines, or supplements, because these may influence the effect of Kisqali. Always tell your doctor if you are prescribed a new medicine after you have started treatment with Kisqali.
+
+## This includes in particular:
 
 - Tamoxifen, another medicine for the treatment of breast cancer.
 - Some medicines used to treat fungal infections, such as ketoconazole, itraconazole, voriconazole or posaconazole.
 - Some medicines used to treat HIV/AIDS such as ritonavir, saquinavir, indinavir, lopinavir, nelfinavir, telaprevir and efavirenz.
+
+<div style=\"page-break-after: always\"></div>
+
 - Some medicines used to treat seizures or fits (anti-epileptics) such as carbamazepine and phenytoin.
 - St. John's Wort (also known as Hypericum perforatum ) - a herbal product used to treat depression and other conditions.
 - Some medicines used to treat heart rhythm problems or high blood pressure such as amiodarone, disopyramide, procainamide, quinidine, sotalol and verapamil.
@@ -1631,8 +1639,6 @@ Kisqali may increase or decrease your blood levels of some other medicines. This
 
 Ask your doctor or pharmacist if you are not sure if your medicine is one of the medicines listed above.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Kisqali with food and drink
 
 Do not eat grapefruits or foods that contain grapefruit or drink juices that contain grapefruit during your treatment with Kisqali. It may change how Kisqali is processed in your body and may increase the amount of Kisqali in your bloodstream.
@@ -1642,6 +1648,8 @@ Do not eat grapefruits or foods that contain grapefruit or drink juices that con
 If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
 
 Your doctor will discuss with you the potential risks of taking Kisqali during pregnancy.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy and women of childbearing potential
 
@@ -1667,18 +1675,16 @@ Do not exceed the recommended dose prescribed by your doctor.
 
 ## How much Kisqali to take
 
-|                                                                                                                                                          | Recommended starting dose of Kisqali                                                                                                                     | Number of tablets                                                                                                                                        |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Early breast cancer                                                                                                                                      | 400 mg once daily                                                                                                                                        | 2 tablets of 200 mg                                                                                                                                      |
-| Advanced or metastatic breast cancer                                                                                                                     | 600 mg once daily                                                                                                                                        | 3 tablets of 200 mg                                                                                                                                      |
-| Note: Atreatment cycle lasts 28 days. Take Kisqali once a day only on days 1 to 21 of a 28-day cycle. Do not take Kisqali on days 22 to 28 of the cycle. | Note: Atreatment cycle lasts 28 days. Take Kisqali once a day only on days 1 to 21 of a 28-day cycle. Do not take Kisqali on days 22 to 28 of the cycle. | Note: Atreatment cycle lasts 28 days. Take Kisqali once a day only on days 1 to 21 of a 28-day cycle. Do not take Kisqali on days 22 to 28 of the cycle. |
+|                                                                                                                                                           | Recommended starting dose of Kisqali                                                                                                                      | Number of tablets                                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Early breast cancer                                                                                                                                       | 400 mg once daily                                                                                                                                         | 2 tablets of 200 mg                                                                                                                                       |
+| Advanced or metastatic breast cancer                                                                                                                      | 600 mg once daily                                                                                                                                         | 3 tablets of 200 mg                                                                                                                                       |
+| Note: A treatment cycle lasts 28 days. Take Kisqali once a day only on days 1 to 21 of a 28-day cycle. Do not take Kisqali on days 22 to 28 of the cycle. | Note: A treatment cycle lasts 28 days. Take Kisqali once a day only on days 1 to 21 of a 28-day cycle. Do not take Kisqali on days 22 to 28 of the cycle. | Note: A treatment cycle lasts 28 days. Take Kisqali once a day only on days 1 to 21 of a 28-day cycle. Do not take Kisqali on days 22 to 28 of the cycle. |
 
-- The outer carton of the Kisqali pack includes a 'calendar tool' which allows you to track your daily Kisqali dose by marking off a circle for every tablet you take over the 28-day cycle.
+- The outer carton of the Kisqali pack includes a 'calendar tool' which allows you to track your daily Kisqali dose by marking off a circle for every tablet you take over each 28-day cycle.
 - Your doctor will tell you exactly how many tablets of Kisqali to take. In certain situations (e.g. in case of liver or kidney problems) your doctor may instruct you to take a lower dose of Kisqali.
 
 It is very important to follow your doctor's instructions. If you get certain side effects your doctor may ask you to take a lower dose, interrupt your treatment with Kisqali, or stop it permanently.
-
-<div style=\"page-break-after: always\"></div>
 
 ## When to take Kisqali
 
@@ -1687,6 +1693,8 @@ Take Kisqali once daily at the same time each day, preferably in the morning. Th
 ## How to take Kisqali
 
 Kisqali tablets should be swallowed whole (tablets should not be chewed, crushed or split before swallowing). Do not take a tablet that is broken, cracked or otherwise damaged.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Kisqali with food and drink
 
@@ -1718,8 +1726,6 @@ If you have any further questions on the use of this medicine, ask your doctor, 
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Read this section carefully. Side effects that might be serious are presented first (' Some side effects could be serious '), followed by all other side effects (' Other possible side effects ') in descending order of frequency.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Early breast cancer
 
 ## Some side effects could be serious.
@@ -1731,6 +1737,9 @@ Your doctor may ask you to take a lower dose, interrupt your treatment with Kisq
 - Abnormal results of blood tests that give information about the health of the liver (abnormal liver function tests). Very common (may affect more than 1 in 10 people).
 - Spontaneous bleeding or bruising (signs of a low level of blood platelets). Common (may affect up to 1 in 10 people).
 - Reduced level of potassium in the blood, which could lead to disturbances in heart rhythm. Common (may affect up to 1 in 10 people) .
+
+<div style=\"page-break-after: always\"></div>
+
 - Chest pain or discomfort, changes in heart beat (fast or slow), palpitations, lightheadedness, fainting, dizziness, lips turning blue colour, shortness of breath, swelling (oedema) of your lower limbs or skin (these may be signs of heart problems). Common (may affect up to 1 in 10 people).
 - Tiredness, itchy yellow skin or yellowing of the whites of your eyes, nausea or vomiting, loss of appetite, pain in the upper right side of the belly (abdomen), dark or brown urine, bleeding or bruising more easily than normal (these may be signs of a liver problem). Common (may affect up to 1 in 10 people).
 - Inflammation of the lungs, which can cause dry cough, chest pain, fever, shortness of breath and breathing difficulty (these may be signs of interstitial lung disease/pneumonitis which, if severe, may be life threatening). Common (may affect up to 1 in 10 people).
@@ -1755,8 +1764,6 @@ Other side effects include the following listed below. If these side effects bec
 - Abdominal (belly) pain
 - Pyrexia (fever)
 
-<div style=\"page-break-after: always\"></div>
-
 ## Common (may affect up to 1 in 10 people)
 
 - Rash
@@ -1772,9 +1779,9 @@ Other side effects include the following listed below. If these side effects bec
 - Reduced appetite
 - Abnormal kidney blood test result (high level of creatinine in the blood)
 
-## Advanced or metastatic breast cancer
+<div style=\"page-break-after: always\"></div>
 
-## Some side effects could be serious.
+## Advanced or metastatic breast cancer Some side effects could be serious.
 
 Your doctor may ask you to take a lower dose, interrupt your treatment with Kisqali, or stop it permanently. Tell your doctor immediately if you get any of the following symptoms during treatment with Kisqali:
 
@@ -1789,8 +1796,6 @@ Your doctor may ask you to take a lower dose, interrupt your treatment with Kisq
 - Inflammation of the lungs, which can cause dry cough, chest pain, fever, shortness of breath and breathing difficulty (these may be signs of interstitial lung disease/pneumonitis which, if severe, may be life threatening). Common (may affect up to 1 in 10 people).
 - Serious infection with increased heart rate, shortness of breath or rapid breathing, fever and chills (these may be signs of sepsis which is an infection in the blood system which may be life threatening). Uncommon (may affect up to 1 in 100 people).
 - Severe skin reaction that might include a combination of any of the following symptoms: rash, red skin, blistering of the lips, eyes or mouth, skin peeling, high fever, flu-like symptoms, enlarged lymph nodes (toxic epidermal necrolysis [TEN]). Frequency not known (frequency cannot be estimated from the available data).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Other possible side effects
 
@@ -1809,6 +1814,9 @@ Other side effects include the following listed below. If these side effects bec
 - Nausea (feeling sick)
 - Diarrhoea
 - Vomiting
+
+<div style=\"page-break-after: always\"></div>
+
 - Constipation
 - Abdominal (belly) pain
 - Stomatitis (mouth sores with gum inflammation)
@@ -1847,8 +1855,6 @@ Other side effects include the following listed below. If these side effects bec
 
 If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. How to store Kisqali
 
 Keep this medicine out of the sight and reach of children.
@@ -1859,6 +1865,8 @@ Store in the original package in order to protect from moisture. This medicine d
 
 Do not take this medicine if you notice any damage to the packaging or if there are any signs of tampering.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
@@ -1866,8 +1874,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Kisqali contains
 
 - -The active substance is ribociclib. Each film-coated tablet contains ribociclib succinate equivalent to 200 mg ribociclib.
-- -
-- The other ingredients are:
+- -The other ingredients are:
 
 Tablet core: microcrystalline cellulose; crospovidone type A; low-substituted hydroxypropylcellulose; magnesium stearate; colloidal anhydrous silica. Coating material: iron oxide black (E172); iron oxide red (E172); soya lecithin (E322) (see 'Kisqali contains soya lecithin' in section 2); polyvinyl alcohol (partially hydrolysed); talc; titanium dioxide (E171); xanthan gum.
 
@@ -1877,11 +1884,11 @@ Kisqali is supplied as film-coated tablets in blisters.
 
 The film-coated tablets are light greyish violet in colour , unscored, round, debossed with 'RIC' on one side and 'NVR' on the other side.
 
-The following pack sizes are available: Packs containing 21, 42 or 63 film-coated tablets and multipacks containing 63 (3 packs of 21), 126 (3 packs of 42) or 189 (3 packs of 63) film-coated tablets.
+The following pack sizes are available: Packs containing 21, 42, 63, 126 or 189 film-coated tablets and multipacks containing 63 (3 packs of 21), 126 (3 packs of 42) or 189 (3 packs of 63) film-coated tablets.
 
-Kisqali packs containing 63 tablets are intended for use by patients taking the ribociclib daily dose of 600 mg (3 tablets once daily).
+Kisqali packs containing 63 or 189 tablets are intended for use by patients taking the ribociclib daily dose of 600 mg (3 tablets once daily).
 
-Kisqali packs containing 42 tablets are intended for use by patients taking the ribociclib daily dose of 400 mg (2 tablets once daily).
+Kisqali packs containing 42 or 126 tablets are intended for use by patients taking the ribociclib daily dose of 400 mg (2 tablets once daily).
 
 Kisqali packs containing 21 tablets are intended for use by patients taking the lowest ribociclib daily dose of 200 mg (1 tablet once daily).
 
@@ -1891,119 +1898,59 @@ Not all pack sizes may be marketed.
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
-<div style=\"page-break-after: always\"></div>
-
 ## Manufacturer
 
 Lek Pharmaceuticals d.d. Verovškova Ulica 57 1526 Ljubljana Slovenia
 
 Novartis Pharmaceutical Manufacturing LLC Verovškova Ulica 57 1000 Ljubljana Slovenia
 
-Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
+Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+<div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
-
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## България
 
 Novartis Bulgaria EOOD Тел : +359 2 489 98 28
 
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
-
 ## Česká republika
 
-Novartis s.r.o.
-
-Tel: +420 225 775 111
-
-## Magyarország
-
-Novartis Hungária Kft.
-
-Tel.: +36 1 457 65 00
+Novartis s.r.o. Tel: +420 225 775 111
 
 ## Danmark
 
-Novartis Healthcare A/S
-
-Tlf.: +45 39 16 84 00
-
-## Malta
-
-Novartis Pharma Services Inc. Tel: +356 2122 2872
+Novartis Healthcare A/S Tlf.: +45 39 16 84 00
 
 ## Deutschland
 
-Novartis Pharma GmbH
-
-Tel: +49 911 273 0
-
-## Nederland
-
-Novartis Pharma B.V. Tel: +31 88 04 52 111
+Novartis Pharma GmbH Tel: +49 911 273 0
 
 ## Eesti
 
 SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
 
-## Norge
-
-Novartis Norge AS
-
-Tlf: +47 23 05 20 00
-
 ## Ελλάδα
 
 Novartis (Hellas) A.E.B.E. Τηλ : +30 210 281 17 12
-
-## Österreich
-
-Novartis Pharma GmbH Tel: +43 1 86 6570
 
 ## España
 
 Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
 
-## Polska
-
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
-
 ## France
 
-Novartis Pharma S.A.S.
-
-Tél: +33 1 55 47 66 00
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
-
-<div style=\"page-break-after: always\"></div>
+Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
 
 ## Hrvatska
 
-Novartis Hrvatska d.o.o.
-
-Tel. +385 1 6274 220
+Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
 
 ## Ireland
 
-Novartis Ireland Limited
-
-Tel: +353 1 260 12 55
+Novartis Ireland Limited Tel: +353 1 260 12 55
 
 ## Ísland
 
@@ -2013,15 +1960,69 @@ Sími: +354 535 7000
 
 ## Italia
 
-Novartis Farma S.p.A.
+Novartis Farma S.p.A. Tel: +39 02 96 54 1
 
-Tel: +39 02 96 54 1
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+
+## Magyarország
+
+Novartis Hungária Kft. Tel.: +36 1 457 65 00
+
+## Malta
+
+Novartis Pharma Services Inc. Tel: +356 2122 2872
+
+## Nederland
+
+Novartis Pharma B.V. Tel: +31 88 04 52 111
+
+## Norge
+
+Novartis Norge AS Tlf: +47 23 05 20 00
+
+## Österreich
+
+Novartis Pharma GmbH Tel: +43 1 86 6570
+
+## Polska
+
+Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
+
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
+
+## România
+
+Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
+
+## Slovenija
+
+Novartis Pharma Services Inc. Tel: +386 1 300 75 50
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
+
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
 
 ## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
+
+<div style=\"page-break-after: always\"></div>
 
 ## Latvija
 
@@ -2033,31 +2034,7 @@ Tel: +371 67 887 070
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
-
-## România
-
-Novartis Pharma Services Romania SRL
-
-Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
-
-## Suomi/Finland
-
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Sverige
 

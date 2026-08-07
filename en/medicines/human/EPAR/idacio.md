@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-13 16:18:00
+document_datetime: 2026-08-06 17:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/idacio.html
 document_name: idacio.html
 version: success
-processing_time: 0.1365158
-conversion_datetime: 2026-07-16 13:18:13.163332
+processing_time: 0.1397816
+conversion_datetime: 2026-08-07 13:54:12.394433
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.113.0
-  docling-core: 2.87.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Idacio
 
@@ -137,161 +137,161 @@ English (EN) (914.95 KB - PDF)
 
 Idacio : EPAR - Product information
 
-English (EN) (2.5 MB - PDF)
+English (EN) (2.09 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/en/documents/product-information/idacio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-601)
+[Other languages (24)](#file-language-dropdown-190)
 
-български (BG) (2.9 MB - PDF)
+български (BG) (2.94 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/bg/documents/product-information/idacio-epar-product-information_bg.pdf)
 
-español (ES) (2.72 MB - PDF)
+español (ES) (2.89 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/es/documents/product-information/idacio-epar-product-information_es.pdf)
 
-čeština (CS) (2.78 MB - PDF)
+čeština (CS) (2.9 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/cs/documents/product-information/idacio-epar-product-information_cs.pdf)
 
-dansk (DA) (2.45 MB - PDF)
+dansk (DA) (2.6 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/da/documents/product-information/idacio-epar-product-information_da.pdf)
 
-Deutsch (DE) (3.45 MB - PDF)
+Deutsch (DE) (3.49 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/de/documents/product-information/idacio-epar-product-information_de.pdf)
 
-eesti (ET) (2.73 MB - PDF)
+eesti (ET) (2.88 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/et/documents/product-information/idacio-epar-product-information_et.pdf)
 
-ελληνικά (EL) (4.23 MB - PDF)
+ελληνικά (EL) (4.22 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/el/documents/product-information/idacio-epar-product-information_el.pdf)
 
-français (FR) (2.52 MB - PDF)
+français (FR) (3.18 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/fr/documents/product-information/idacio-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.22 MB - PDF)
+hrvatski (HR) (3.33 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/hr/documents/product-information/idacio-epar-product-information_hr.pdf)
 
-italiano (IT) (2.74 MB - PDF)
+italiano (IT) (2.91 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/it/documents/product-information/idacio-epar-product-information_it.pdf)
 
-latviešu (LV) (2.43 MB - PDF)
+latviešu (LV) (2.59 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/lv/documents/product-information/idacio-epar-product-information_lv.pdf)
 
-lietuvių (LT) (2.31 MB - PDF)
+lietuvių (LT) (2.43 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/lt/documents/product-information/idacio-epar-product-information_lt.pdf)
 
-magyar (HU) (2.79 MB - PDF)
+magyar (HU) (2.91 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/hu/documents/product-information/idacio-epar-product-information_hu.pdf)
 
-Malti (MT) (2.98 MB - PDF)
+Malti (MT) (3.18 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/mt/documents/product-information/idacio-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.82 MB - PDF)
+Nederlands (NL) (2.98 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/nl/documents/product-information/idacio-epar-product-information_nl.pdf)
 
-polski (PL) (2.7 MB - PDF)
+polski (PL) (2.76 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/pl/documents/product-information/idacio-epar-product-information_pl.pdf)
 
-português (PT) (2.69 MB - PDF)
+português (PT) (2.86 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/pt/documents/product-information/idacio-epar-product-information_pt.pdf)
 
-română (RO) (2.64 MB - PDF)
+română (RO) (2.8 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/ro/documents/product-information/idacio-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.98 MB - PDF)
+slovenčina (SK) (3.08 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/sk/documents/product-information/idacio-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.05 MB - PDF)
+slovenščina (SL) (2.09 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/sl/documents/product-information/idacio-epar-product-information_sl.pdf)
 
-suomi (FI) (2.73 MB - PDF)
+suomi (FI) (2.81 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/fi/documents/product-information/idacio-epar-product-information_fi.pdf)
 
-svenska (SV) (2.46 MB - PDF)
+svenska (SV) (2.78 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/sv/documents/product-information/idacio-epar-product-information_sv.pdf)
 
-Íslenska (IS) (2.29 MB - PDF)
+Íslenska (IS) (2.44 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/is/documents/product-information/idacio-epar-product-information_is.pdf)
 
-norsk (NO) (2.56 MB - PDF)
+norsk (NO) (2.72 MB - PDF)
 
-**First published:** 17/04/2019 **Last updated:** 13/07/2026
+**First published:** 17/04/2019 **Last updated:** 06/08/2026
 
 [View](/no/documents/product-information/idacio-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000335825
+**Latest procedure affecting product information:** VR/0000360787
 
-02/07/2026
+05/08/2026
 
 icon globe
 
@@ -316,7 +316,7 @@ English (EN) (77.25 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/idacio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-987)
+[Other languages (24)](#file-language-dropdown-583)
 
 български (BG) (145.96 KB - PDF)
 
@@ -571,7 +571,7 @@ Idacio is indicated for the treatment of paediatric chronic non-infectious anter
 - **Marketing authorisation issued**
     - 02/04/2019
 - **Revision**
-    - 15
+    - 16
 
 ## Assessment history
 
@@ -583,9 +583,9 @@ Collapse section
 
 Idacio : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (166.27 KB - PDF)
+English (EN) (157.02 KB - PDF)
 
-**First published:** 11/07/2025 **Last updated:** 13/07/2026
+**First published:** 11/07/2025 **Last updated:** 06/08/2026
 
 [View](/en/documents/procedural-steps-after/idacio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -627,6 +627,6 @@ English (EN) (110.45 KB - PDF)
 
 **This page was last updated on**
 
-13/07/2026
+06/08/2026
 
 ## Share this page

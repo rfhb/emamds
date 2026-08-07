@@ -1,41 +1,38 @@
 ---
-document_datetime: 2023-09-21 20:14:11
-document_pages: 77
+document_datetime: 2026-08-04 16:08:13
+document_pages: 79
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/silapo-epar-product-information_en.pdf
 document_name: silapo-epar-product-information_en.pdf
 version: success
-processing_time: 38.4698191
-conversion_datetime: 2025-12-28 10:35:35.761148
+processing_time: 19.5432385
+conversion_datetime: 2026-08-07 14:22:25.84764
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-| Silapo 1 000 IU/0.3 mL solution for injection in pre-filled syringe   |
-|-----------------------------------------------------------------------|
-| Silapo 2 000 IU/0.6 mL solution for injection in pre-filled syringe   |
-| Silapo 3 000 IU/0.9 mL solution for injection in pre-filled syringe   |
-| Silapo 4 000 IU/0.4 mL solution for injection in pre-filled syringe   |
-| Silapo 5 000 IU/0.5 mL solution for injection in pre-filled syringe   |
-| Silapo 6 000 IU/0.6 mL solution for injection in pre-filled syringe   |
-| Silapo 8 000 IU/0.8 mL solution for injection in pre-filled syringe   |
-| Silapo 10 000 IU/1 mL solution for injection in pre-filled syringe    |
-| Silapo 20 000 IU/0.5 mL solution for injection in pre-filled syringe  |
-| Silapo 30 000 IU/0.75 mL solution for injection in pre-filled syringe |
-| Silapo 40 000 IU/1 mL solution for injection in pre-filled syringe    |
+- Silapo 1 000 IU/0.3 mL solution for injection in pre-filled syringe
+- Silapo 2 000 IU/0.6 mL solution for injection in pre-filled syringe
+- Silapo 3 000 IU/0.9 mL solution for injection in pre-filled syringe
+- Silapo 4 000 IU/0.4 mL solution for injection in pre-filled syringe
+- Silapo 5 000 IU/0.5 mL solution for injection in pre-filled syringe
+- Silapo 6 000 IU/0.6 mL solution for injection in pre-filled syringe
+- Silapo 8 000 IU/0.8 mL solution for injection in pre-filled syringe
+- Silapo 10 000 IU/1 mL solution for injection in pre-filled syringe
+- Silapo 20 000 IU/0.5 mL solution for injection in pre-filled syringe
+- Silapo 30 000 IU/0.75 mL solution for injection in pre-filled syringe
+- Silapo 40 000 IU/1 mL solution for injection in pre-filled syringe
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -131,7 +128,7 @@ Each pre-filled syringe contains 0.50 mg phenylalanine.
 
 For the full list of excipients, see section 6.1.
 
-- *Produced by recombinant DNA technology in Chinese Hamster Ovary (CHO) cell line.
+*Produced by recombinant DNA technology in Chinese Hamster Ovary (CHO) cell line.
 
 ## 3. PHARMACEUTICAL FORM
 
@@ -145,11 +142,10 @@ Clear, colourless solution.
 
 Silapo is indicated for the treatment of symptomatic anaemia associated with chronic renal failure (CRF):
 
--  in adults and paediatrics aged 1 to 18 years on haemodialysis and adult patients on peritoneal dialysis (see section 4.4).
+- in adults and paediatrics aged 1 to 18 years on haemodialysis and adult patients on peritoneal dialysis (see section 4.4).
+- in adults with renal insufficiency not yet undergoing dialysis for the treatment of severe anaemia of renal origin accompanied by clinical symptoms in patients (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
--  in adults with renal insufficiency not yet undergoing dialysis for the treatment of severe anaemia of renal origin accompanied by clinical symptoms in patients (see section 4.4).
 
 Silapo is indicated in adults receiving chemotherapy for solid tumours, malignant lymphoma or multiple myeloma, and at risk of transfusion as assessed by the patient's general status (e.g. cardiovascular status, pre-existing anaemia at the start of chemotherapy) for the treatment of anaemia and reduction of transfusion requirements.
 
@@ -165,7 +161,7 @@ Treatment with Silapo has to be initiated under the supervision of physicians ex
 
 ## Posology
 
-All other causes of anaemia (iron, folate or Vitamin B 12 deficiency, aluminium intoxication, infection or inflammation, blood loss, haemolysis and bone marrow fibrosis of any origin) should be evaluated and treated prior to initiating therapy with Silapo, and when deciding to increase the dose. In order to ensure optimum response to Silapo, adequate iron stores should be assured and iron supplementation should be administered if necessary (see section 4.4).
+All other causes of anaemia (iron, folate or Vitamin B12 deficiency, aluminium intoxication, infection or inflammation, blood loss, haemolysis and bone marrow fibrosis of any origin) should be evaluated and treated prior to initiating therapy with Silapo, and when deciding to increase the dose. In order to ensure optimum response to Silapo, adequate iron stores should be assured and iron supplementation should be administered if necessary (see section 4.4).
 
 ## Treatment of symptomatic anaemia in adult chronic renal failure patients
 
@@ -249,9 +245,9 @@ Appropriate adjustment of the dose should be made in order to maintain haemoglob
 
 Due to intra-patient variability, occasional individual haemoglobin concentrations for a patient above and below the desired haemoglobin concentration range may be observed. Haemoglobin variability should be addressed through dose management, with consideration for the desired haemoglobin concentration range between 10 g/dL (6.2 mmol/L) and 12 g/dL (7.5 mmol/L). A sustained haemoglobin concentration of greater than 12 g/dL (7.5 mmol/L) should be avoided; guidance for appropriate dose adjustment for when haemoglobin concentrations exceed 12 g/dL (7.5 mmol/L) are described below.
 
--  If the haemoglobin concentration has increased by at least 1 g/dL (0.62 mmol/L) or the reticulocyte count has increased ≥40 000 cells/µL above baseline after 4 weeks of treatment, the dose should remain at 150 IU/kg 3 times per week or 450 IU/kg once weekly.
--  If the haemoglobin concentration increase is &lt;1 g/dL (&lt;0.62 mmol/L) and the reticulocyte count has increased &lt;40 000 cells/µl above baseline, increase the dose to 300 IU/kg 3 times per week. If after an additional 4 weeks of therapy at 300 IU/kg 3 times per week, the haemoglobin concentration has increased ≥ 1 g/dL (≥0.62 mmol/L) or the reticulocyte count has increased ≥40 000 cells/µL the dose should remain at 300 IU/kg 3 times per week.
--  If the haemoglobin concentration has increased &lt;1 g/dL (&lt;0.62 mmol/L) and the reticulocyte count has increased &lt;40 000 cells/µL above baseline, response is unlikely and treatment should be discontinued.
+- If the haemoglobin concentration has increased by at least 1 g/dL (0.62 mmol/L) or the reticulocyte count has increased ≥40 000 cells/µL above baseline after 4 weeks of treatment, the dose should remain at 150 IU/kg 3 times per week or 450 IU/kg once weekly.
+- If the haemoglobin concentration increase is &lt;1 g/dL (&lt;0.62 mmol/L) and the reticulocyte count has increased &lt;40 000 cells/µl above baseline, increase the dose to 300 IU/kg 3 times per week. If after an additional 4 weeks of therapy at 300 IU/kg 3 times per week, the haemoglobin concentration has increased ≥ 1 g/dL (≥0.62 mmol/L) or the reticulocyte count has increased ≥40 000 cells/µL the dose should remain at 300 IU/kg 3 times per week.
+- If the haemoglobin concentration has increased &lt;1 g/dL (&lt;0.62 mmol/L) and the reticulocyte count has increased &lt;40 000 cells/µL above baseline, response is unlikely and treatment should be discontinued.
 
 ## Dose adjustment to maintain haemoglobin concentrations between 10 g/dL and 12 g/dL (6.2 and 7.5 mmol/L)
 
@@ -287,11 +283,9 @@ Silapo should be administered to patients with symptomatic anaemia (e.g. haemogl
 
 The recommended starting dose is Silapo 450 IU/kg (maximum total dose is 40 000 IU) administered subcutaneously once every week, with not less than 5 days between doses.
 
-Appropriate dose adjustments should be made to maintain haemoglobin concentrations within the target range of 10 g/dL to 12 g/dL (6.2 to 7.5 mmol/L). It is recommended that initial erythroid response be assessed 8 to 12 weeks following initiation of treatment. Dose increases and decreases
+Appropriate dose adjustments should be made to maintain haemoglobin concentrations within the target range of 10 g/dL to 12 g/dL (6.2 to 7.5 mmol/L). It is recommended that initial erythroid response be assessed 8 to 12 weeks following initiation of treatment. Dose increases and decreases should be done one dosing step at a time (see diagram below). A haemoglobin concentration of greater than 12 g/dL (7.5 mmol/L) should be avoided.
 
 <div style=\"page-break-after: always\"></div>
-
-should be done one dosing step at a time (see diagram below). A haemoglobin concentration of greater than 12 g/dL (7.5 mmol/L) should be avoided.
 
 ## Dose increase
 
@@ -372,13 +366,9 @@ Where intravenous access is not readily available (patients not yet undergoing d
 
 Silapo should be administered as a subcutaneous injection.
 
-## Treatment of adult surgery patients in an autologous predonation programme
+Treatment of adult surgery patients in an autologous predonation programme Silapo should be administered by the intravenous route.
 
-Silapo should be administered by the intravenous route.
-
-## Treatment of adult patients scheduled for major elective orthopaedic surgery
-
-Silapo should be administered as a subcutaneous injection.
+Treatment of adult patients scheduled for major elective orthopaedic surgery Silapo should be administered as a subcutaneous injection.
 
 ## Treatment of adult patients with low- or intermediate-1-risk MDS
 
@@ -426,11 +416,9 @@ Surgery patients who for any reason cannot receive adequate antithrombotic proph
 
 ## General
 
-In all patients receiving Silapo, blood pressure should be closely monitored and controlled as necessary. Silapo should be used with caution in the presence of untreated, inadequately treated or
+In all patients receiving Silapo, blood pressure should be closely monitored and controlled as necessary. Silapo should be used with caution in the presence of untreated, inadequately treated or poorly controllable hypertension. It may be necessary to add or increase anti-hypertensive treatment. If blood pressure cannot be controlled, Silapo treatment should be discontinued.
 
 <div style=\"page-break-after: always\"></div>
-
-poorly controllable hypertension. It may be necessary to add or increase anti-hypertensive treatment. If blood pressure cannot be controlled, Silapo treatment should be discontinued.
 
 Hypertensive crisis with encephalopathy and seizures, requiring the immediate attention of a physician and intensive medical care, have occurred also during epoetin alfa treatment in patients with previously normal or low blood pressure. Particular attention should be paid to sudden stabbing migraine-like headaches as a possible warning signal (see section 4.8).
 
@@ -446,12 +434,12 @@ In all patients, haemoglobin levels should be closely monitored due to a potenti
 
 There may be a moderate dose-dependent rise in the platelet count within the normal range during treatment with Silapo. This regresses during the course of continued therapy. In addition, thrombocythaemia above the normal range has been reported. It is recommended that the platelet count is regularly monitored during the first 8 weeks of therapy.
 
-All other causes of anaemia (iron, folate or Vitamin B 12 deficiency, aluminium intoxication, infection or inflammation, blood loss, haemolysis and bone marrow fibrosis of any origin) should be evaluated and treated prior to initiating therapy with Silapo, and when deciding to increase the dose. In most cases, the ferritin values in the serum fall simultaneously with the rise in packed cell volume. In order to ensure optimum response to Silapo, adequate iron stores should be assured and iron supplementation should be administered if necessary (see section 4.2):
+All other causes of anaemia (iron, folate or Vitamin B12 deficiency, aluminium intoxication, infection or inflammation, blood loss, haemolysis and bone marrow fibrosis of any origin) should be evaluated and treated prior to initiating therapy with Silapo, and when deciding to increase the dose. In most cases, the ferritin values in the serum fall simultaneously with the rise in packed cell volume. In order to ensure optimum response to Silapo, adequate iron stores should be assured and iron supplementation should be administered if necessary (see section 4.2):
 
--  For chronic renal failure patients, iron supplementation, (elemental iron 200 to 300 mg/day orally for adults and 100 to 200 mg/day orally for paediatrics) is recommended if serum ferritin levels are below 100 ng/mL.
--  For cancer patients, iron supplementation (elemental iron 200 to 300 mg/day orally) is recommended if transferrin saturation is below 20%.
--  For patients in an autologous predonation programme, iron supplementation (elemental iron 200 mg/day orally) should be administered several weeks prior to initiating the autologous predeposit in order to achieve high iron stores prior to starting Silapo therapy, and throughout the course of Silapo therapy.
--  For patients scheduled for major elective orthopaedic surgery, iron supplementation (elemental iron 200 mg/day orally) should be administered throughout the course of Silapo therapy. If possible, iron supplementation should be initiated prior to starting Silapo therapy to achieve adequate iron stores.
+- For chronic renal failure patients, iron supplementation, (elemental iron 200 to 300 mg/day orally for adults and 100 to 200 mg/day orally for paediatrics) is recommended if serum ferritin levels are below 100 ng/mL.
+- For cancer patients, iron supplementation (elemental iron 200 to 300 mg/day orally) is recommended if transferrin saturation is below 20%.
+- For patients in an autologous predonation programme, iron supplementation (elemental iron 200 mg/day orally) should be administered several weeks prior to initiating the autologous predeposit in order to achieve high iron stores prior to starting Silapo therapy, and throughout the course of Silapo therapy.
+- For patients scheduled for major elective orthopaedic surgery, iron supplementation (elemental iron 200 mg/day orally) should be administered throughout the course of Silapo therapy. If possible, iron supplementation should be initiated prior to starting Silapo therapy to achieve adequate iron stores.
 
 Very rarely, development of or exacerbation of porphyria has been observed in epoetin alfa-treated patients. Silapo should be used with caution in patients with porphyria.
 
@@ -471,7 +459,7 @@ Patients should only be switched from one ESA to another under appropriate super
 
 Antibody-mediated pure red cell aplasia (PRCA) has been reported after months to years of treatment with epoetins. Cases have also been reported in patients with hepatitis C treated with interferon and ribavirin, when ESAs are used concomitantly. Silapo is not approved in the management of anaemia associated with hepatitis C.
 
-In patients developing sudden lack of efficacy defined by a decrease in haemoglobin (1 to 2 g/dL per month) with increased need for transfusions, a reticulocyte count should be obtained and typical causes of non-response (e.g. iron, folate or Vitamin B 12 deficiency, aluminium intoxication, infection or inflammation, blood loss, haemolysis and bone marrow fibrosis of any origin) should be investigated.
+In patients developing sudden lack of efficacy defined by a decrease in haemoglobin (1 to 2 g/dL per month) with increased need for transfusions, a reticulocyte count should be obtained and typical causes of non-response (e.g. iron, folate or Vitamin B12 deficiency, aluminium intoxication, infection or inflammation, blood loss, haemolysis and bone marrow fibrosis of any origin) should be investigated.
 
 A paradoxical decrease in haemoglobin and development of severe anaemia associated with low reticulocyte counts should prompt to discontinue treatment with Silapo and perform anti-erythropoietin antibody testing. A bone marrow examination should also be considered for diagnosis of PRCA.
 
@@ -509,16 +497,14 @@ Epoetins are growth factors that primarily stimulate red blood cell (RBC) produc
 
 The role of ESAs on tumour progression or reduced progression-free survival cannot be excluded. In controlled clinical studies, use of epoetin alfa and other ESAs have been associated with decreased locoregional tumour control or decreased overall survival:
 
--  decreased locoregional control in patients with advanced head and neck cancer receiving radiation therapy when administered to achieve a haemoglobin concentration level of greater than 14 g/dL (8.7 mmol/L),
--  shortened overall survival and increased deaths attributed to disease progression at 4 months in patients with metastatic breast cancer receiving chemotherapy when administered to achieve a haemoglobin concentration range of 12 to 14 g/dL (7.5 to 8.7 mmol/L),
--  increased risk of death when administered to achieve a haemoglobin concentration level of 12 g/dL (7.5 mmol/L) in patients with active malignant disease receiving neither chemotherapy nor radiation therapy. ESAs are not indicated for use in this patient population,
--  an observed 9% increase in risk for PD or death in the epoetin alfa plus SOC group from a primary analysis and a 15% increased risk that cannot be statistically ruled out in patients with metastatic breast cancer receiving chemotherapy when administered to achieve a haemoglobin concentration range of 10 to 12 g/dL (6.2 to 7.5 mmol/L).
+- decreased locoregional control in patients with advanced head and neck cancer receiving radiation therapy when administered to achieve a haemoglobin concentration level of greater than 14 g/dL (8.7 mmol/L),
+- shortened overall survival and increased deaths attributed to disease progression at 4 months in patients with metastatic breast cancer receiving chemotherapy when administered to achieve a haemoglobin concentration range of 12 to 14 g/dL (7.5 to 8.7 mmol/L),
+- increased risk of death when administered to achieve a haemoglobin concentration level of 12 g/dL (7.5 mmol/L) in patients with active malignant disease receiving neither chemotherapy nor radiation therapy. ESAs are not indicated for use in this patient population,
+- an observed 9% increase in risk for PD or death in the epoetin alfa plus SOC group from a primary analysis and a 15% increased risk that cannot be statistically ruled out in patients with metastatic breast cancer receiving chemotherapy when administered to achieve a haemoglobin concentration range of 10 to 12 g/dL (6.2 to 7.5 mmol/L).
 
-In view of the above, in some clinical situations blood transfusion should be the preferred treatment for the management of anaemia in patients with cancer. The decision to administer recombinant erythropoietin treatment should be based on a benefit-risk assessment with the participation of the individual patient, which should take into account the specific clinical context. Factors that should be
+In view of the above, in some clinical situations blood transfusion should be the preferred treatment for the management of anaemia in patients with cancer. The decision to administer recombinant erythropoietin treatment should be based on a benefit-risk assessment with the participation of the individual patient, which should take into account the specific clinical context. Factors that should be considered in this assessment should include the type of tumour and its stage; the degree of anaemia; life-expectancy; the environment in which the patient is being treated; and patient preference (see section 5.1).
 
 <div style=\"page-break-after: always\"></div>
-
-considered in this assessment should include the type of tumour and its stage; the degree of anaemia; life-expectancy; the environment in which the patient is being treated; and patient preference (see section 5.1).
 
 In cancer patients receiving chemotherapy, the 2 to 3 week delay between ESA administration and the appearance of erythropoietin-induced red cells should be taken into account when assessing if Silapo therapy is appropriate (patient at risk of being transfused).
 
@@ -616,7 +602,6 @@ Frequency estimate: Very common (≥1/10); common (≥1/100 to &lt;1/10); uncomm
 | General disorders and administration site conditions | Drug ineffective 3                                                         | Not known   |
 | Investigations                                       | Anti-erythropoeitin antibody positive                                      | Rare        |
 
-- 1 Common in dialysis
 - 2 Includes arterial and venous, fatal and non fatal events, such as deep venous thrombosis, pulmonary emboli, retinal thrombosis, arterial thrombosis (including myocardial infarction), cerebrovascular accidents (including cerebral infarction and cerebral haemorrhage) transient ischaemic attacks, and shunt thrombosis (including dialysis equipment) and thrombosis within arteriovenous shunt aneurisms
 - 3 Addressed in the subsection below and/or in section 4.4
 
@@ -668,11 +653,9 @@ Erythropoietin is a growth factor that primarily stimulates red cell production.
 
 After single doses (20 000 to 160 000 IU subcutaneously) of epoetin alfa, a dose-dependent response was observed for the pharmacodynamic markers investigated including: reticulocytes, RBCs, and haemoglobin. A defined concentration-time profile with peak and return to baseline was observed for changes in percent reticulocytes. A less defined profile was observed for RBCs and haemoglobin. In general, all pharmacodynamic markers increased in a linear manner with dose reaching a maximum response at the highest dose levels.
 
-Further pharmacodynamic studies explored 40 000 IU once weekly versus 150 IU/kg 3 times per week. Despite differences in concentration-time profiles the pharmacodynamic response (as measured by changes in percent reticulocytes, haemoglobin, and total RBCs) was similar between these regimens. Additional studies compared the 40 000 IU once-weekly regimen of epoetin alfa with biweekly doses ranging from 80 000 to 120 000 IU subcutaneously. Overall, based on the results of
+Further pharmacodynamic studies explored 40 000 IU once weekly versus 150 IU/kg 3 times per week. Despite differences in concentration-time profiles the pharmacodynamic response (as measured by changes in percent reticulocytes, haemoglobin, and total RBCs) was similar between these regimens. Additional studies compared the 40 000 IU once-weekly regimen of epoetin alfa with biweekly doses ranging from 80 000 to 120 000 IU subcutaneously. Overall, based on the results of these pharmacodynamic studies in healthy subjects, the 40 000 IU once-weekly dosing regimen seems to be more efficient in producing RBCs than the biweekly regimens despite an observed similarity in reticulocyte production in the once-weekly and biweekly regimens.
 
 <div style=\"page-break-after: always\"></div>
-
-these pharmacodynamic studies in healthy subjects, the 40 000 IU once-weekly dosing regimen seems to be more efficient in producing RBCs than the biweekly regimens despite an observed similarity in reticulocyte production in the once-weekly and biweekly regimens.
 
 ## Chronic renal failure
 
@@ -724,11 +707,9 @@ Available evidence suggests patients with haematological malignancies and solid 
 
 In a prospective, randomised, double-blind, placebo-controlled trial conducted in 375 anaemic patients with various non-myeloid malignancies receiving non-platinum chemotherapy, there was a significant reduction of anaemia-related sequelae (e.g. fatigue, decreased energy, and activity reduction), as measured by the following instruments and scales: Functional Assessment of Cancer TherapyAnaemia (FACT-An) general scale, FACT-An fatigue scale, and Cancer Linear Analogue Scale (CLAS). Two other smaller, randomised, placebo-controlled trials failed to show a significant improvement in quality of life parameters on the EORTC-QLQ-C30 scale or CLAS, respectively.
 
-Survival and tumour progression have been examined in five large controlled studies involving a total of 2 833 patients, of which four were double-blind placebo-controlled studies and one was an open-label study. The studies either recruited patients who were being treated with chemotherapy (two studies) or used patient populations in which ESAs are not indicated: anaemia in patients with cancer
+Survival and tumour progression have been examined in five large controlled studies involving a total of 2 833 patients, of which four were double-blind placebo-controlled studies and one was an open-label study. The studies either recruited patients who were being treated with chemotherapy (two studies) or used patient populations in which ESAs are not indicated: anaemia in patients with cancer not receiving chemotherapy, and head and neck cancer patients receiving radiotherapy. The desired haemoglobin concentration level in two studies was &gt;13 g/dL (8.1 mmol/L); in the remaining three studies it was 12 to 14 g/dL (7.5 to 8.7 mmol/L). In the open-label study there was no difference in overall survival between patients treated with recombinant human erythropoietin and controls. In the four placebo-controlled studies the hazard ratios for overall survival ranged between 1.25 and 2.47 in favour of controls. These studies have shown a consistent unexplained statistically significant excess mortality in patients who have anaemia associated with various common cancers who received recombinant human erythropoietin compared to controls. Overall survival outcome in the trials could not be satisfactorily explained by differences in the incidence of thrombosis and related complications between those given recombinant human erythropoietin and those in the control group.
 
 <div style=\"page-break-after: always\"></div>
-
-not receiving chemotherapy, and head and neck cancer patients receiving radiotherapy. The desired haemoglobin concentration level in two studies was &gt;13 g/dL (8.1 mmol/L); in the remaining three studies it was 12 to 14 g/dL (7.5 to 8.7 mmol/L). In the open-label study there was no difference in overall survival between patients treated with recombinant human erythropoietin and controls. In the four placebo-controlled studies the hazard ratios for overall survival ranged between 1.25 and 2.47 in favour of controls. These studies have shown a consistent unexplained statistically significant excess mortality in patients who have anaemia associated with various common cancers who received recombinant human erythropoietin compared to controls. Overall survival outcome in the trials could not be satisfactorily explained by differences in the incidence of thrombosis and related complications between those given recombinant human erythropoietin and those in the control group.
 
 A patient-level data analysis has also been performed on more than 13 900 cancer patients (chemo-, radio-, chemoradio-, or no therapy) participating in 53 controlled clinical trials involving several epoetins. Meta-analysis of overall survival data produced a hazard ratio point estimate of 1.06 in favour of controls (95% CI: 1.00, 1.12; 53 trials and 13 933 patients) and for the cancer patients receiving chemotherapy, the overall survival hazard ratio was 1.04 (95% CI: 0.97, 1.11; 38 trials and 10 441 patients). Meta-analyses also indicate consistently a significantly increased relative risk of thromboembolic events in cancer patients receiving recombinant human erythropoietin (see section 4.4).
 
@@ -764,31 +745,29 @@ A randomised, double-blind, placebo-controlled, multicentre study evaluated the 
 
 Subjects were stratified by serum erythropoetin (sEPO) level and prior transfusion status at screening. Key baseline characteristics for the &lt;200 mU/mL stratum are shown in the table below.
 
-|                                                                                                                                                       | Randomised                                                                                                                                            | Randomised                                                                                                                                            |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                       | Epoetin alfa                                                                                                                                          | Placebo                                                                                                                                               |
-| Total (N) b                                                                                                                                           | 85 a                                                                                                                                                  | 45                                                                                                                                                    |
-| Screening sEPO <200 mU/mL (N)                                                                                                                         | 71                                                                                                                                                    | 39                                                                                                                                                    |
-| Haemoglobin (g/L)                                                                                                                                     | Haemoglobin (g/L)                                                                                                                                     | Haemoglobin (g/L)                                                                                                                                     |
-| N                                                                                                                                                     | 71                                                                                                                                                    | 39                                                                                                                                                    |
-| Mean                                                                                                                                                  | 92.1 (8.57)                                                                                                                                           | 92.1 (8.51)                                                                                                                                           |
-| Median                                                                                                                                                | 94.0                                                                                                                                                  | 96.0                                                                                                                                                  |
-| Range                                                                                                                                                 | (71, 109)                                                                                                                                             | (69, 105)                                                                                                                                             |
-| 95% CI for Mean                                                                                                                                       | (90.1, 94.1)                                                                                                                                          | (89.3, 94.9)                                                                                                                                          |
-| Prior Transfusions                                                                                                                                    | Prior Transfusions                                                                                                                                    | Prior Transfusions                                                                                                                                    |
-| N                                                                                                                                                     | 71                                                                                                                                                    | 39                                                                                                                                                    |
-| Yes                                                                                                                                                   | 31 (43.7%)                                                                                                                                            | 17 (43.6%)                                                                                                                                            |
-| ≤2 RBC Units                                                                                                                                          | 16 (51.6%)                                                                                                                                            | 9 (52.9%)                                                                                                                                             |
-| ˃2 and ≤4 RBC Units                                                                                                                                   | 14 (45.2%)                                                                                                                                            | 8 (47.1%)                                                                                                                                             |
-| ˃4 RBC Units                                                                                                                                          | 1 (3.2%)                                                                                                                                              | 0                                                                                                                                                     |
-| No                                                                                                                                                    | 40 (56.3%)                                                                                                                                            | 22 (56.4%)                                                                                                                                            |
-| a one subject did not have sEPO data b in the ≥200 mU/mL stratum there were 13 subjects in the epoetin alfa group and 6 subjects in the placebo group | a one subject did not have sEPO data b in the ≥200 mU/mL stratum there were 13 subjects in the epoetin alfa group and 6 subjects in the placebo group | a one subject did not have sEPO data b in the ≥200 mU/mL stratum there were 13 subjects in the epoetin alfa group and 6 subjects in the placebo group |
+| Baseline Characteristics for Subjects with sEPO<200 mU/mL at Screening   | Baseline Characteristics for Subjects with sEPO<200 mU/mL at Screening   | Baseline Characteristics for Subjects with sEPO<200 mU/mL at Screening   |
+|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
+|                                                                          | Randomised                                                               | Randomised                                                               |
+|                                                                          | Epoetin alfa                                                             | Placebo                                                                  |
+| Total (N) b                                                              | 85 a                                                                     | 45                                                                       |
+| Screening sEPO <200 mU/mL (N)                                            | 71                                                                       | 39                                                                       |
+| Haemoglobin (g/L)                                                        |                                                                          |                                                                          |
+| N                                                                        | 71                                                                       | 39                                                                       |
+| Mean                                                                     | 92.1 (8.57)                                                              | 92.1 (8.51)                                                              |
+| Median                                                                   | 94.0                                                                     | 96.0                                                                     |
+| Range                                                                    | (71, 109)                                                                | (69, 105)                                                                |
+| 95% CI for Mean                                                          | (90.1, 94.1)                                                             | (89.3, 94.9)                                                             |
+| Prior Transfusions                                                       |                                                                          |                                                                          |
+| N                                                                        | 71                                                                       | 39                                                                       |
+| Yes                                                                      | 31 (43.7%)                                                               | 17 (43.6%)                                                               |
+| ≤2 RBC Units                                                             | 16 (51.6%)                                                               | 9 (52.9%)                                                                |
+| ˃2 and ≤4 RBC Units                                                      | 14 (45.2%)                                                               | 8 (47.1%)                                                                |
+| ˃4 RBC Units                                                             | 1 (3.2%)                                                                 | 0                                                                        |
+| No                                                                       | 40 (56.3%)                                                               | 22 (56.4%)                                                               |
 
-Erythroid response was defined according to International Working Group (IWG) 2006 criteria as a haemoglobin increase ≥1.5 g/dL from baseline or a reduction of RBC units transfused by an absolute
+Erythroid response was defined according to International Working Group (IWG) 2006 criteria as a haemoglobin increase ≥1.5 g/dL from baseline or a reduction of RBC units transfused by an absolute number of at least 4 units every 8 weeks compared to the 8 weeks prior to baseline, and a response duration of at least 8 weeks.
 
 <div style=\"page-break-after: always\"></div>
-
-number of at least 4 units every 8 weeks compared to the 8 weeks prior to baseline, and a response duration of at least 8 weeks.
 
 Erythroid response during the first 24 weeks of the study was demonstrated by 27/85 (31.8%) of the subjects in the epoetin alfa group compared to 2/45 (4.4%) of the subjects in the placebo group (p&lt;0.001). All of the responding subjects were in the stratum with sEPO &lt;200 mU/mL during screening. In that stratum, 20/40 (50%) subjects without prior transfusions demonstrated erythroid response during the first 24 weeks, compared with 7/31 (22.6%) subjects with prior transfusions (two subjects with prior transfusion reached primary endpoint based on reduction of RBC units transfused by an absolute number of at least 4 units every 8 weeks compared to the 8 weeks prior to baseline).
 
@@ -836,7 +815,7 @@ The mean CL/F for the 150 IU/kg 3 times-per-week and 40 000 IU once-weekly regim
 
 ## Linearity/non-linearity
 
-In healthy subjects, a dose-proportional increase in serum erythropoietin concentrations was observed after intravenous administration of 150 and 300 IU/kg, 3 times per week. Administration of single doses of 300 to 2 400 IU/kg subcutaneous erythropoietin resulted in a linear relationship between mean C max and dose and between mean AUC and dose. An inverse relationship between apparent clearance and dose was noted in healthy subjects.
+In healthy subjects, a dose-proportional increase in serum erythropoietin concentrations was observed after intravenous administration of 150 and 300 IU/kg, 3 times per week. Administration of single doses of 300 to 2 400 IU/kg subcutaneous erythropoietin resulted in a linear relationship between mean Cmax and dose and between mean AUC and dose. An inverse relationship between apparent clearance and dose was noted in healthy subjects.
 
 In studies to explore extending the dosing interval (40 000 IU once weekly and 80 000, 100 000, and 120 000 IU biweekly), a linear but non-dose-proportional relationship was observed between mean Cmax and dose, and between mean AUC and dose at steady state.
 
@@ -930,11 +909,15 @@ Do not freeze or shake.
 
 ## Silapo 10 000 IU/1 mL solution for injection in pre-filled syringe
 
-1 mL solution for injection in pre-filled syringe Type I glass with a fixed steel injection needle and a plunger stopper with PTFE coating with or without a needle guard device. Each pack contains 1 or 6 pre-filled syringes.
+1 mL solution for injection in pre-filled syringe Type I glass with a fixed steel injection needle and a plunger stopper with PTFE coating with or without a needle guard device.
+
+Each pack contains 1 or 6 pre-filled syringes.
 
 ## Silapo 20 000 IU/0.5 mL solution for injection in pre-filled syringe
 
-0.5 mL solution for injection in pre-filled syringe Type I glass with a fixed steel injection needle and a plunger stopper with PTFE coating with or without a needle guard device. Each pack contains 1, 4 or 6 pre-filled syringes.
+0.5 mL solution for injection in pre-filled syringe Type I glass with a fixed steel injection needle and a plunger stopper with PTFE coating with or without a needle guard device.
+
+Each pack contains 1, 4 or 6 pre-filled syringes.
 
 ## Silapo 30 000 IU/0.75 mL solution for injection in pre-filled syringe
 
@@ -950,13 +933,13 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal and other handling
 
-Silapo should not be used and discarded
+## Silapo should not be used and discarded
 
--  if the seal is broken,
--  if the liquid is coloured or you can see particles floating in it,
--  if any liquid has leaked out of the pre-filled syringe or condensation is visible within the sealed blister,
--  if you know, or think that it may have been accidentally frozen, or
--  if there has been a refrigerator failure.
+- if the seal is broken,
+- if the liquid is coloured or you can see particles floating in it,
+- if any liquid has leaked out of the pre-filled syringe or condensation is visible within the sealed blister,
+- if you know, or think that it may have been accidentally frozen, or
+- if there has been a refrigerator failure.
 
 This medicinal product is for single use only. Only take one dose of Silapo from each syringe.
 
@@ -970,7 +953,7 @@ STADA Arzneimittel AG Stadastrasse 2-18 D-61118 Bad Vilbel Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-## Silapo 1 000 IU/0.3 mL solution for injection in pre-filled syringe
+Silapo 1 000 IU/0.3 mL solution for injection in pre-filled syringe
 
 EU/1/07/432/001 [1 pre-filled syringe]
 
@@ -982,30 +965,17 @@ EU/1/07/432/024 [6 pre-filled syringes with needle guard]
 
 <div style=\"page-break-after: always\"></div>
 
-| Silapo 2 000 IU/0.6 mL solution for injection in pre-filled syringe EU/1/07/432/003 [1 pre-filled syringe] EU/1/07/432/004 [6 pre-filled syringes] EU/1/07/432/025 [1 pre-filled syringe with needle guard] EU/1/07/432/026 [6 pre-filled syringes with needle guard]                                                     |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Silapo 3 000 IU/0.9 mL solution for injection in pre-filled syringe EU/1/07/432/005 [1 pre-filled syringe] EU/1/07/432/006 [6 pre-filled syringes] EU/1/07/432/027 [1 pre-filled syringe with needle guard]                                                                                                               |
-| Silapo 4 000 IU/0.4 mL solution for injection in pre-filled syringe EU/1/07/432/007 [1 pre-filled syringe] EU/1/07/432/008 [6 pre-filled syringes] EU/1/07/432/029 [1 pre-filled syringe with needle guard]                                                                                                               |
-| Silapo 5 000 IU/0.5 mL solution for injection in pre-filled syringe EU/1/07/432/009 [1 pre-filled syringe] EU/1/07/432/010 [6 pre-filled syringes] EU/1/07/432/031 [1 pre-filled syringe with needle guard]                                                                                                               |
-| Silapo 6 000 IU/0.6 mL solution for injection in pre-filled syringe EU/1/07/432/011 [1 pre-filled syringe] EU/1/07/432/012 [6 pre-filled syringes] EU/1/07/432/033 [1 pre-filled syringe with needle guard]                                                                                                               |
-| Silapo 8 000 IU/0.8 mL solution for injection in pre-filled syringe EU/1/07/432/013 [1 pre-filled syringe] EU/1/07/432/014 [6 pre-filled syringes] EU/1/07/432/035 [1 pre-filled syringe with needle guard]                                                                                                               |
-| Silapo 10 000 IU/1 mL solution for injection in pre-filled syringe EU/1/07/432/015 [1 pre-filled syringe] EU/1/07/432/016 [6 pre-filled syringes]                                                                                                                                                                         |
-| [1 pre-filled syringe with needle guard] [6 pre-filled syringes with needle guard] 20 000 IU/0.5 mL solution for injection in pre-filled syringe                                                                                                                                                                          |
-| EU/1/07/432/020 [4 pre-filled syringes] EU/1/07/432/039 [1 pre-filled syringe with needle guard] EU/1/07/432/040 [4 pre-filled syringes with needle guard] EU/1/07/432/045 [6 pre-filled syringes with needle guard] Silapo 30 000 IU/0.75 mL solution for injection in pre-filled EU/1/07/432/018 [1 pre-filled syringe] |
-| syringe [4 pre-filled syringes] [1 pre-filled syringe with needle guard] [4 pre-filled syringes with needle guard]                                                                                                                                                                                                        |
-| EU/1/07/432/021 EU/1/07/432/041 EU/1/07/432/042                                                                                                                                                                                                                                                                           |
-| EU/1/07/432/037 EU/1/07/432/038                                                                                                                                                                                                                                                                                           |
-| EU/1/07/432/036 [6 pre-filled syringes with needle guard]                                                                                                                                                                                                                                                                 |
-| Silapo EU/1/07/432/017 [1 pre-filled syringe]                                                                                                                                                                                                                                                                             |
-| EU/1/07/432/046 [6 pre-filled syringes with needle guard]                                                                                                                                                                                                                                                                 |
+Silapo 2 000 IU/0.6 mL solution for injection in pre-filled syringe EU/1/07/432/003 [1 pre-filled syringe] EU/1/07/432/004 [6 pre-filled syringes] EU/1/07/432/025 [1 pre-filled syringe with needle guard] EU/1/07/432/026 [6 pre-filled syringes with needle guard] Silapo 3 000 IU/0.9 mL solution for injection in pre-filled syringe EU/1/07/432/005 [1 pre-filled syringe] EU/1/07/432/006 [6 pre-filled syringes] EU/1/07/432/027 [1 pre-filled syringe with needle guard] EU/1/07/432/028 [6 pre-filled syringes with needle guard] Silapo 4 000 IU/0.4 mL solution for injection in pre-filled syringe EU/1/07/432/007 [1 pre-filled syringe] EU/1/07/432/008 [6 pre-filled syringes] EU/1/07/432/029 [1 pre-filled syringe with needle guard] EU/1/07/432/030 [6 pre-filled syringes with needle guard] Silapo 5 000 IU/0.5 mL solution for injection in pre-filled syringe EU/1/07/432/009 [1 pre-filled syringe] EU/1/07/432/010 [6 pre-filled syringes] EU/1/07/432/031 [1 pre-filled syringe with needle guard] EU/1/07/432/032 [6 pre-filled syringes with needle guard] Silapo 6 000 IU/0.6 mL solution for injection in pre-filled syringe EU/1/07/432/011 [1 pre-filled syringe] EU/1/07/432/012 [6 pre-filled syringes] EU/1/07/432/033 [1 pre-filled syringe with needle guard] EU/1/07/432/034 [6 pre-filled syringes with needle guard] Silapo 8 000 IU/0.8 mL solution for injection in pre-filled syringe EU/1/07/432/013 [1 pre-filled syringe] EU/1/07/432/014 [6 pre-filled syringes] EU/1/07/432/035 [1 pre-filled syringe with needle guard] EU/1/07/432/036 [6 pre-filled syringes with needle guard] Silapo 10 000 IU/1 mL solution for injection in pre-filled syringe EU/1/07/432/015 [1 pre-filled syringe] EU/1/07/432/016 [6 pre-filled syringes] EU/1/07/432/037 [1 pre-filled syringe with needle guard] EU/1/07/432/038 [6 pre-filled syringes with needle guard] Silapo 20 000 IU/0.5 mL solution for injection in pre-filled syringe EU/1/07/432/017 [1 pre-filled syringe] EU/1/07/432/020 [4 pre-filled syringes] EU/1/07/432/039 [1 pre-filled syringe with needle guard] EU/1/07/432/040 [4 pre-filled syringes with needle guard] EU/1/07/432/045 [6 pre-filled syringes with needle guard] Silapo 30 000 IU/0.75 mL solution for injection in pre-filled syringe EU/1/07/432/018 [1 pre-filled syringe] EU/1/07/432/021 [4 pre-filled syringes] EU/1/07/432/041 [1 pre-filled syringe with needle guard] EU/1/07/432/042 [4 pre-filled syringes with needle guard] EU/1/07/432/046 [6 pre-filled syringes with needle guard]
 
 <div style=\"page-break-after: always\"></div>
 
-Silapo 40 000 IU/1 mL solution for injection in pre-filled syringe
+## Silapo 40 000 IU/1 mL solution for injection in pre-filled syringe
 
 EU/1/07/432/019 [1 pre-filled syringe]
 
 EU/1/07/432/022 [4 pre-filled syringes]
+
+EU/1/07/432/048 [6 pre-filled syringes]
 
 EU/1/07/432/043 [1 pre-filled syringe with needle guard]
 
@@ -1050,36 +1020,34 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
--  Periodic safety update reports (PSURs)
+- Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+- Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX III
-
-## LABELLING AND PACKAGE LEAFLET
+## ANNEX III LABELLING AND PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
-## A. LABELLING
+- A. LABELLING
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON
+OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1122,23 +1090,21 @@ Keep out of the sight and reach of children.
 
 EXP
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+11.
 
-STADA Arzneimittel AG
+NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Stadastrasse 2-18
-
-61118 Bad Vilbel
-
-Germany
+STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1154,43 +1120,43 @@ EU/1/07/432/024 [6 pre-filled syringes with needle guard]
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 Medicinal product subject to medical prescription.
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Silapo 1 000 IU
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
-| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Silapo 1 000 IU Injection epoetin zeta iv/sc use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1202,21 +1168,19 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 000 IU/0.3 mL
 
 | 6.   | OTHER   |
 |------|---------|
 
-35
-
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON
+OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1237,15 +1201,20 @@ Contains phenylalanine, see leaflet for further information.
 Solution for injection in pre-filled syringe.
 
 - 1 pre-filled syringe without needle guard containing 0.6 mL solution for injection
-- 6 pre-filled syringes without needle guard containing 0.6 mL solution for injection
+
+6 pre-filled syringes without needle guard containing 0.6 mL solution for injection
+
 - 1 pre-filled syringe with needle guard containing 0.6 mL solution for injection
-- 6 pre-filled syringes with needle guard containing 0.6 mL solution for injection
+
+6 pre-filled syringes with needle guard containing 0.6 mL solution for injection
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
 For intravenous or subcutaneous use.
 
-Read the package leaflet before use. Do not shake.
+Read the package leaflet before use.
+
+Do not shake.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1265,17 +1234,13 @@ Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+11.
 
-STADA Arzneimittel AG
+NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Stadastrasse 2-18
-
-61118 Bad Vilbel
-
-Germany
+STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1315,17 +1280,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Silapo 2 000 IU Injection epoetin zeta iv/sc use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1337,21 +1302,19 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 2 000 IU/0.6 mL
 
 | 6.   | OTHER   |
 |------|---------|
 
-38
-
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON
+OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1402,17 +1365,13 @@ Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+11.
 
-STADA Arzneimittel AG
+NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Stadastrasse 2-18
-
-61118 Bad Vilbel
-
-Germany
+STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1452,17 +1411,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Silapo 3 000 IU Injection epoetin zeta iv/sc use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1474,21 +1433,19 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 3 000 IU/0.9 mL
 
 | 6.   | OTHER   |
 |------|---------|
 
-41
-
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON
+OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1539,17 +1496,13 @@ Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+11.
 
-STADA Arzneimittel AG
+NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Stadastrasse 2-18
-
-61118 Bad Vilbel
-
-Germany
+STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1589,17 +1542,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Silapo 4 000 IU Injection epoetin zeta iv/sc use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1611,21 +1564,19 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 4 000 IU/0.4 mL
 
 | 6.   | OTHER   |
 |------|---------|
 
-44
-
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON
+OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1676,17 +1627,13 @@ Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+11.
 
-STADA Arzneimittel AG
+NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Stadastrasse 2-18
-
-61118 Bad Vilbel
-
-Germany
+STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1726,17 +1673,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Silapo 5 000 IU Injection epoetin zeta iv/sc use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1748,21 +1695,19 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 5 000 IU/0.5 mL
 
 | 6.   | OTHER   |
 |------|---------|
 
-47
-
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON
+OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1813,17 +1758,13 @@ Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+11.
 
-STADA Arzneimittel AG
+NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Stadastrasse 2-18
-
-61118 Bad Vilbel
-
-Germany
+STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1863,17 +1804,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Silapo 6 000 IU Injection epoetin zeta iv/sc use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1885,21 +1826,19 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 6 000 IU/0.6 mL
 
 | 6.   | OTHER   |
 |------|---------|
 
-50
-
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON
+OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1950,17 +1889,13 @@ Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+11.
 
-STADA Arzneimittel AG
+NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Stadastrasse 2-18
-
-61118 Bad Vilbel
-
-Germany
+STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2000,17 +1935,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Silapo 8 000 IU Injection epoetin zeta iv/sc use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2022,21 +1957,19 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 8 000 IU/0.8 mL
 
 | 6.   | OTHER   |
 |------|---------|
 
-53
-
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON
+OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2087,17 +2020,13 @@ Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+11.
 
-STADA Arzneimittel AG
+NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Stadastrasse 2-18
-
-61118 Bad Vilbel
-
-Germany
+STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2137,17 +2066,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Silapo 10 000 IU Injection epoetin zeta iv/sc use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2159,15 +2088,13 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 10 000 IU/1 mL
 
 | 6.   | OTHER   |
 |------|---------|
-
-56
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2215,8 +2142,6 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-EXP
-
 <div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
@@ -2225,7 +2150,7 @@ Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2277,17 +2202,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Silapo 20 000 IU Injection epoetin zeta iv/sc use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2299,15 +2224,13 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 20 000 IU/0.5 mL
 
 | 6.   | OTHER   |
 |------|---------|
-
-59
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2355,8 +2278,6 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-EXP
-
 <div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
@@ -2365,7 +2286,7 @@ Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2417,17 +2338,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Silapo 30 000 IU Injection epoetin zeta iv/sc use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2439,15 +2360,13 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 30 000 IU/0.75 mL
 
 | 6.   | OTHER   |
 |------|---------|
-
-62
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2475,6 +2394,7 @@ Solution for injection in pre-filled syringe.
 
 - 1 pre-filled syringe without needle guard containing 1 mL solution for injection
 - 4 pre-filled syringes without needle guard containing 1 mL solution for injection
+- 6 pre-filled syringes without needle guard containing 1 mL solution for injection
 - 1 pre-filled syringe with needle guard containing 1 mL solution for injection
 - 4 pre-filled syringes with needle guard containing 1 mL solution for injection
 - 6 pre-filled syringes with needle guard containing 1 mL solution for injection
@@ -2495,8 +2415,6 @@ Keep out of the sight and reach of children.
 
 ## 8. EXPIRY DATE
 
-EXP
-
 <div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
@@ -2505,7 +2423,7 @@ Store in a refrigerator (2°C - 8°C). Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2522,6 +2440,8 @@ Germany
 EU/1/07/432/019 [1 pre-filled syringe]
 
 EU/1/07/432/022 [4 pre-filled syringes]
+
+EU/1/07/432/048 [6 pre-filled syringes]
 
 EU/1/07/432/043 [1 pre-filled syringe with needle guard]
 
@@ -2549,25 +2469,23 @@ Silapo 40 000 IU
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
+<div style=\"page-break-after: always\"></div>
 
-SN
-
-NN
+SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| SYRINGE LABELS                                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| SYRINGE LABELS                                                     |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Silapo 40 000 IU Injection epoetin zeta iv/sc use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2579,23 +2497,21 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 40 000 IU/1 mL
 
 | 6.   | OTHER   |
 |------|---------|
 
-65
-
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ```
 Silapo 1 000 IU/0.3 mL solution for injection in pre-filled syringe Silapo 2 000 IU/0.6 mL solution for injection in pre-filled syringe Silapo 3 000 IU/0.9 mL solution for injection in pre-filled syringe Silapo 4 000 IU/0.4 mL solution for injection in pre-filled syringe Silapo 5 000 IU/0.5 mL solution for injection in pre-filled syringe Silapo 6 000 IU/0.6 mL solution for injection in pre-filled syringe Silapo 8 000 IU/0.8 mL solution for injection in pre-filled syringe Silapo 10 000 IU/1 mL solution for injection in pre-filled syringe Silapo 20 000 IU/0.5 mL solution for injection in pre-filled syringe Silapo 30 000 IU/0.75 mL solution for injection in pre-filled syringe Silapo 40 000 IU/1 mL solution for injection in pre-filled syringe
@@ -2605,10 +2521,10 @@ epoetin zeta
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor, pharmacist or nurse.
--  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
--  If you get any side effects, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor, pharmacist or nurse.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- -If you get any side effects, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2623,39 +2539,34 @@ epoetin zeta
 
 Silapo contains the active substance epoetin zeta - a protein, that stimulates the bone marrow to produce more red blood cells, which carry haemoglobin (a substance that transports oxygen). Epoetin zeta is a copy of the human protein erythropoietin (ee-rith-roe-po-eh-tin) and acts in the same way.
 
-##  Silapo is used to treat symptomatic anaemia caused by kidney disease
+## · Silapo is used to treat symptomatic anaemia caused by kidney disease
 
--  in children on haemodialysis
--  in adults on haemodialysis or peritoneal dialysis
--  in severely anaemic adults not yet undergoing dialysis
+- -in children on haemodialysis
+- -in adults on haemodialysis or peritoneal dialysis
+- -in severely anaemic adults not yet undergoing dialysis
 
 If you have kidney disease, you may be short of red blood cells if your kidney does not produce enough erythropoietin (necessary for red cell production). Silapo is prescribed to stimulate your bone marrow to produce more red blood cells.
 
-##  Silapo is used to treat anaemia in adults receiving chemotherapy for solid tumours,
-
-- malignant lymphoma or multiple myeloma (bone marrow cancer) who may have a need for a
-
-blood transfusion. Silapo can reduce the need for a blood transfusion in these patients.
+- Silapo is used to treat anaemia in adults receiving chemotherapy for solid tumours, malignant lymphoma or multiple myeloma (bone marrow cancer) who may have a need for a blood transfusion. Silapo can reduce the need for a blood transfusion in these patients.
+- Silapo is used in moderately anaemic adults who donate some of their blood before surgery, so that it can be given back to them during or after the operation. Because Silapo stimulates the production of red blood cells, doctors can take more blood from these people.
+- Silapo is used in moderately anaemic adults about to have major orthopaedic surgery ( for example hip or knee replacement operations ), to reduce the potential need for blood transfusions.
+- Silapo is used to treat anaemia in adults with a bone marrow disorder that causes a severe disruption in the creation of blood cells (myelodysplastic syndromes). Silapo can reduce the need for a blood transfusion.
 
 <div style=\"page-break-after: always\"></div>
-
--  Silapo is used in moderately anaemic adults who donate some of their blood before surgery, so that it can be given back to them during or after the operation. Because Silapo stimulates the production of red blood cells, doctors can take more blood from these people.
--  Silapo is used in moderately anaemic adults about to have major orthopaedic surgery ( for example hip or knee replacement operations ), to reduce the potential need for blood transfusions.
--  Silapo is used to treat anaemia in adults with a bone marrow disorder that causes a severe disruption in the creation of blood cells (myelodysplastic syndromes). Silapo can reduce the need for a blood transfusion.
 
 ## 2. What you need to know before you use Silapo
 
 ## Do not use Silapo
 
--  If you are allergic to epoetin zeta or any of the other ingredients of this medicine (listed in section 6).
--  If you have been diagnosed with Pure Red Cell Aplasia (the bone marrow cannot produce enough red blood cells) after previous treatment with any product that stimulates red blood cell production (including Silapo). See section 4.
--  If you have high blood pressure not properly controlled with medicines
--  To stimulate the production of your red blood cells (so that doctors can take more blood from you) if you cannot have transfusions with your own blood during or after surgery.
--  If you are due to have major elective orthopaedic surgery (such as hip or knee surgery), and you:
--  have severe heart disease
--  have severe disorders of the veins and arteries
--  have recently had a heart attack or stroke
--  can't take medicines to thin the blood
+- If you are allergic to epoetin zeta or any of the other ingredients of this medicine (listed in section 6).
+- If you have been diagnosed with Pure Red Cell Aplasia (the bone marrow cannot produce enough red blood cells) after previous treatment with any product that stimulates red blood cell production (including Silapo). See section 4.
+- If you have high blood pressure not properly controlled with medicines
+- To stimulate the production of your red blood cells (so that doctors can take more blood from you) if you cannot have transfusions with your own blood during or after surgery.
+- If you are due to have major elective orthopaedic surgery (such as hip or knee surgery), and you:
+- -have severe heart disease
+- -have severe disorders of the veins and arteries
+- -have recently had a heart attack or stroke
+- -can't take medicines to thin the blood
 
 Silapo may not be suitable for you. Please discuss with your doctor. While on Silapo, some people need medicines to reduce the risk of blood clots. If you can't take medicines that prevent blood clotting, you must not have Silapo .
 
@@ -2667,21 +2578,21 @@ Silapo and other products that stimulate red cell production may increase the ri
 
 Talk to your doctor if any of the following apply to you. You may still be able to use Silapo, but discuss it with your doctor first.
 
--  If you know you suffer , or have suffered, from:
--  high blood pressure
--  epileptic seizures or fits
--  liver disease
--  anaemia from other causes
--  porphyria (a rare blood disorder)
--  If you are a patient with chronic renal failure , and particularly if you do not respond properly to Silapo, your doctor will check your dose of Silapo because repeatedly increasing your dose of
+- If you know you suffer , or have suffered, from:
+- -high blood pressure
+- -epileptic seizures or fits
+- -liver disease
+- -anaemia from other causes
+- -porphyria (a rare blood disorder)
+- If you are a patient with chronic renal failure , and particularly if you do not respond properly to Silapo, your doctor will check your dose of Silapo because repeatedly increasing your dose of
 
 <div style=\"page-break-after: always\"></div>
 
 Silapo if you are not responding to treatment may increase the risk of having a problem of the heart or the blood vessels and could increase risk of myocardial infarction, stroke and death.
 
--  If you are a cancer patient be aware that products that stimulate red blood cell production (like Silapo) may act as a growth factor and therefore in theory may affect the progression of your cancer. Depending on your individual situation a blood transfusion may be preferable. Please discuss this with your doctor.
--  If you are a cancer patient , be aware that use of Silapo may be associated with shorter survival and a higher death rate in head and neck, and metastatic breast cancer patients who are receiving chemotherapy.
--  Serious skin reactions including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported in association with epoetin treatment.
+- If you are a cancer patient be aware that products that stimulate red blood cell production (like Silapo) may act as a growth factor and therefore in theory may affect the progression of your cancer. Depending on your individual situation a blood transfusion may be preferable. Please discuss this with your doctor.
+- If you are a cancer patient , be aware that use of Silapo may be associated with shorter survival and a higher death rate in head and neck, and metastatic breast cancer patients who are receiving chemotherapy.
+- Serious skin reactions including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported in association with epoetin treatment.
 
 SJS/TEN can appear initially as reddish target-like spots or circular patches often with central blisters on the trunk. Also, ulcers of mouth, throat, nose, genitals and eyes (red and swollen eyes) can occur. These serious skin rashes are often preceded by fever and/or flu-like symptoms. The rashes may progress to widespread peeling of the skin and life-threatening complications.
 
@@ -2707,7 +2618,7 @@ If you visit a hospital, clinic or family doctor , tell them you are having Sila
 
 It is important to tell your doctor if any of the following apply to you. You may still be able to use Silapo, but discuss it with your doctor first.
 
--  If you are pregnant or breast-feeding , think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
+- If you are pregnant or breast-feeding , think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
 
 No data on the effects of Silapo on fertility are available.
 
@@ -2733,16 +2644,16 @@ Your doctor has carried out blood tests and decided you need Silapo.
 
 Silapo may be given by injection:
 
--  Either into a vein or a tube that goes into a vein (intravenously)
--  Or under the skin (subcutaneously).
+- Either into a vein or a tube that goes into a vein (intravenously)
+- Or under the skin (subcutaneously).
 
 Your doctor will decide how Silapo will be injected. Usually the injections will be given to you by a doctor, nurse or other health care professional. Some people, depending on why they need Silapo treatment, may later learn how to inject themselves under the skin: see Instructions on how to inject Silapo yourself .
 
-Silapo should not be used:
+## Silapo should not be used:
 
--  after the expiry date on the label and outer carton
--  if you know, or think that it may have been accidentally frozen, or
--  if there has been a refrigerator failure.
+- after the expiry date on the label and outer carton
+- if you know, or think that it may have been accidentally frozen, or
+- if there has been a refrigerator failure.
 
 The dose of Silapo you receive is based on your bodyweight in kilograms. The cause of your anaemia is also a factor in your doctor deciding the correct dose.
 
@@ -2750,62 +2661,60 @@ Your doctor will monitor your blood pressure regularly while you are using Silap
 
 ## People with kidney disease
 
--  Your doctor will maintain your haemoglobin level between 10 and 12 g/dL as a high haemoglobin level may increase the risk of blood clots and death. In children the haemoglobin level should be maintained between 9.5 and 11 g/dL.
--  The recommended starting dose of Silapo for adults and children is 50 International Units (IU) per kilogram (/kg) of body weight given three times a week.
--  For patients on peritoneal dialysis Silapo may be given twice a week.
--  For adults and children Silapo is given as an injection either into a vein (intravenously) or a tube that goes into a vein. When this access (via a vein or tube) is not readily available, your doctor may decide that Silapo should be injected under the skin (subcutaneously). This includes patients on dialysis and patients not yet on dialysis.
--  Your doctor will order regular blood tests to see how your anaemia is responding and may adjust the dose, usually no more frequently than every four weeks. A rise in haemoglobin of greater than 2 g/dL over a four week period should be avoided.
--  Once your anaemia has been corrected, your doctor will continue to check your blood regularly. Your Silapo dose and frequency of administration may be further adjusted to maintain your response to treatment. Your doctor will use the lowest effective dose to control the symptoms of your anemia.
--  If you do not respond adequately to Silapo, your doctor will check your dose and will inform you if you need to change doses of Silapo.
+- Your doctor will maintain your haemoglobin level between 10 and 12 g/dL as a high haemoglobin level may increase the risk of blood clots and death. In children the haemoglobin level should be maintained between 9.5 and 11 g/dL.
+- The recommended starting dose of Silapo for adults and children is 50 International Units (IU) per kilogram (/kg) of body weight given three times a week.
+- For patients on peritoneal dialysis Silapo may be given twice a week.
+- For adults and children Silapo is given as an injection either into a vein (intravenously) or a tube that goes into a vein. When this access (via a vein or tube) is not readily available, your doctor may decide that Silapo should be injected under the skin (subcutaneously). This includes patients on dialysis and patients not yet on dialysis.
+- Your doctor will order regular blood tests to see how your anaemia is responding and may adjust the dose, usually no more frequently than every four weeks. A rise in haemoglobin of greater than 2 g/dL over a four week period should be avoided.
+- Once your anaemia has been corrected, your doctor will continue to check your blood regularly. Your Silapo dose and frequency of administration may be further adjusted to maintain your response to treatment. Your doctor will use the lowest effective dose to control the symptoms of your anemia.
+- If you do not respond adequately to Silapo, your doctor will check your dose and will inform you if you need to change doses of Silapo.
+- If you are on a more extended dosing interval (greater than once weekly) of Silapo, you may not maintain adequate haemoglobin levels and you may require an increase in Silapo dose or frequency of administration.
+- You may be given iron supplements before and during Silapo treatment to make it more effective.
+- If you are having dialysis treatment when you begin treatment with Silapo, your dialysis regime may need to be adjusted. Your doctor will decide this.
 
 <div style=\"page-break-after: always\"></div>
 
--  If you are on a more extended dosing interval (greater than once weekly) of Silapo, you may not maintain adequate haemoglobin levels and you may require an increase in Silapo dose or frequency of administration.
--  You may be given iron supplements before and during Silapo treatment to make it more effective.
--  If you are having dialysis treatment when you begin treatment with Silapo, your dialysis regime may need to be adjusted. Your doctor will decide this.
-
 ## Adults on chemotherapy
 
--  Your doctor may initiate treatment with Silapo if your haemoglobin is 10 g/dL or less.
--  Your doctor will maintain your haemoglobin level between 10 and 12 g/dL as a high haemoglobin level may increase the risk of blood clots and death.
--  The recommended starting dose is either 150 IU per kilogram bodyweight three times a week or 450 IU per kilogram bodyweight once a week.
--  Silapo is given by injection under the skin.
--  Your doctor will order blood tests, and may adjust the dose, depending on how your anaemia responds to Silapo treatment.
--  You may be given iron supplements before and during Silapo treatment to make it more effective.
--  You will usually continue Silapo treatment for one month after the end of chemotherapy.
+- Your doctor may initiate treatment with Silapo if your haemoglobin is 10 g/dL or less.
+- Your doctor will maintain your haemoglobin level between 10 and 12 g/dL as a high haemoglobin level may increase the risk of blood clots and death.
+- The recommended starting dose is either 150 IU per kilogram bodyweight three times a week or 450 IU per kilogram bodyweight once a week.
+- Silapo is given by injection under the skin.
+- Your doctor will order blood tests, and may adjust the dose, depending on how your anaemia responds to Silapo treatment.
+- You may be given iron supplements before and during Silapo treatment to make it more effective.
+- You will usually continue Silapo treatment for one month after the end of chemotherapy.
 
 ## Adults donating their own blood
 
--  The recommended dose is 600 IU per kilogram bodyweight twice a week.
--  Silapo is given by injection into a vein immediately after you have donated blood for 3 weeks before your surgery.
--  You may be given iron supplements before and during Silapo treatment to make it more effective.
+- The recommended dose is 600 IU per kilogram bodyweight twice a week.
+- Silapo is given by injection into a vein immediately after you have donated blood for 3 weeks before your surgery.
+- You may be given iron supplements before and during Silapo treatment to make it more effective.
 
 ## Adults scheduled for major orthopaedic surgery
 
--  The recommended dose is 600 IU per kilogram bodyweight once a week.
--  Silapo is given by injection under the skin each week for three weeks before surgery and on the day of surgery.
--  If there is a medical need to reduce the time before your operation, you will be given a daily dose of 300 IU/kg for up to ten days before surgery, on the day of surgery and for four days immediately afterwards.
--  If blood tests show your haemoglobin is too high before the operation, the treatment will be stopped.
--  You may be given iron supplements before and during Silapo treatment to make it more effective.
+- The recommended dose is 600 IU per kilogram bodyweight once a week.
+- Silapo is given by injection under the skin each week for three weeks before surgery and on the day of surgery.
+- If there is a medical need to reduce the time before your operation, you will be given a daily dose of 300 IU/kg for up to ten days before surgery, on the day of surgery and for four days immediately afterwards.
+- If blood tests show your haemoglobin is too high before the operation, the treatment will be stopped.
+- You may be given iron supplements before and during Silapo treatment to make it more effective.
 
 ## Adults with myelodysplastic syndrome
 
--  Your doctor may initiate treatment with Silapo if your haemoglobin is 10 g/dL or less. The aim of treatment is to maintain your haemoglobin level between 10 and 12 g/dL as a higher haemoglobin level may increase the risk of blood clots and death.
--  Silapo is given by injection under the skin.
--  The starting dose is 450 IU per kilogram bodyweight once a week.
--  Your doctor will order blood tests, and may adjust the dose, depending on how your anaemia responds to Silapo treatment.
+- Your doctor may initiate treatment with Silapo if your haemoglobin is 10 g/dL or less. The aim of treatment is to maintain your haemoglobin level between 10 and 12 g/dL as a higher haemoglobin level may increase the risk of blood clots and death.
+- Silapo is given by injection under the skin.
+- The starting dose is 450 IU per kilogram bodyweight once a week.
+- Your doctor will order blood tests, and may adjust the dose, depending on how your anaemia responds to Silapo treatment.
 
 ## Instructions on how to inject Silapo yourself
 
 When treatment starts, Silapo is usually injected by medical or nursing staff. Later, your doctor may suggest that you or your caregiver learn how to inject Silapo under the skin ( subcutaneously ) yourself.
 
--  Do not attempt to inject yourself unless you have been trained to do so by your doctor or nurse.
--  Always use Silapo exactly as instructed by your doctor or nurse.
+- Do not attempt to inject yourself unless you have been trained to do so by your doctor or nurse.
+- Always use Silapo exactly as instructed by your doctor or nurse.
+- Only use Silapo if it has been stored correctly - see section 5, How to Store Silapo .
+- Before use, leave the Silapo syringe to stand until it reaches room temperature. This usually takes between 15 and 30 minutes.
 
 <div style=\"page-break-after: always\"></div>
-
--  Only use Silapo if it has been stored correctly - see section 5, How to Store Silapo .
--  Before use, leave the Silapo syringe to stand until it reaches room temperature. This usually takes between 15 and 30 minutes.
 
 ## Only take one dose of Silapo from each syringe.
 
@@ -2817,47 +2726,46 @@ Do not shake Silapo syringes. Prolonged vigorous shaking may damage the product.
 
 ## How to inject yourself using a pre-filled syringe:
 
--  Take a syringe out of the refrigerator. The liquid needs to come to room temperature. Do not remove the syringe's needle cover while allowing it to reach room temperature.
--  Check the syringe, to make sure it is the right dose, has not passed its expiry date, is not damaged, and the liquid is clear and not frozen.
--  Choose an injection site. Good sites are the top of the thigh and around the tummy (abdomen) but away from the navel. Vary the site from day to day.
--  Wash your hands. Use an antiseptic swab on the injection site, to disinfect it.
--  Hold the pre-filled syringe by the body of the syringe with the covered needle pointing upward.
--  Do not hold by the plunger head, plunger or needle cover.
--  Do not pull back on the plunger at any time.
--  Do not remove the needle cover from the pre-filled syringe until you are ready to inject Silapo.
--  Take the needle cover off the syringe by holding the barrel and pulling the needle cover off carefully without twisting it. Don't push the plunger, touch the needle or shake the syringe.
--  Pinch a fold of skin between your thumb and index finger. Don't squeeze it.
--  Push the needle in fully. Your doctor or nurse may have shown you how to do this.
--  Push the plunger with your thumb as far as it will go to inject the entire amount of liquid. Push it slowly and evenly, keeping the skin fold pinched.
--  When the plunger is pushed as far as it will go, take out the needle and let go of the skin.
--  When the needle is pulled out of your skin, there may be a little bleeding at the injection site. This is normal. You can press an antiseptic swab over the injection site for a few seconds after the injection.
--  Dispose of your used syringe in a sharps container. Do not try to replace the needle cover.
--  Never put used syringes into your normal household waste bin.
+- Take a syringe out of the refrigerator. The liquid needs to come to room temperature. Do not remove the syringe's needle cover while allowing it to reach room temperature.
+- Check the syringe, to make sure it is the right dose, has not passed its expiry date, is not damaged, and the liquid is clear and not frozen.
+- Choose an injection site. Good sites are the top of the thigh and around the tummy (abdomen) but away from the navel. Vary the site from day to day.
+- Wash your hands. Use an antiseptic swab on the injection site, to disinfect it.
+- Hold the pre-filled syringe by the body of the syringe with the covered needle pointing upward.
+- Do not hold by the plunger head, plunger or needle cover.
+- Do not pull back on the plunger at any time.
+- Do not remove the needle cover from the pre-filled syringe until you are ready to inject Silapo.
+- Take the needle cover off the syringe by holding the barrel and pulling the needle cover off carefully without twisting it. Don't push the plunger, touch the needle or shake the syringe.
+- Pinch a fold of skin between your thumb and index finger. Don't squeeze it.
+- Push the needle in fully. Your doctor or nurse may have shown you how to do this.
+- Push the plunger with your thumb as far as it will go to inject the entire amount of liquid. Push it slowly and evenly, keeping the skin fold pinched.
+- When the plunger is pushed as far as it will go, take out the needle and let go of the skin.
+- When the needle is pulled out of your skin, there may be a little bleeding at the injection site. This is normal. You can press an antiseptic swab over the injection site for a few seconds after the injection.
+- Dispose of your used syringe in a sharps container. Do not try to replace the needle cover.
+- Never put used syringes into your normal household waste bin.
 
 ## How to inject yourself using a pre-filled syringe:
 
 Your pre-filled syringe has a passive needle guard device attached to it in order to protect you from needle stick injury.
 
--  Take a syringe out of the refrigerator. The liquid needs to come to room temperature. Do not remove the syringe's needle cover while allowing it to reach room temperature.
--  Check the syringe, to make sure it is the right dose, has not passed its expiry date, is not damaged, and the liquid is clear and not frozen.
--  Choose an injection site. Good sites are the top of the thigh and around the tummy (abdomen) but away from the navel. Vary the site from day to day.
--  Wash your hands. Use an antiseptic swab on the injection site, to disinfect it.
--  Hold the pre-filled syringe by the body of the syringe with the covered needle pointing upward.
--  Do not hold by the plunger head, plunger or needle cover.
--  Do not pull back on the plunger at any time.
--  Do not remove the needle cover from the pre-filled syringe until you are ready to inject Silapo.
--  Take the needle cover off the syringe by holding the barrel and pulling the needle cover off carefully without twisting it. Don't push the plunger, touch the needle or shake the syringe.
+- Take a syringe out of the refrigerator. The liquid needs to come to room temperature. Do not remove the syringe's needle cover while allowing it to reach room temperature.
+- Check the syringe, to make sure it is the right dose, has not passed its expiry date, is not damaged, and the liquid is clear and not frozen.
+- Choose an injection site. Good sites are the top of the thigh and around the tummy (abdomen) but away from the navel. Vary the site from day to day.
+- Wash your hands. Use an antiseptic swab on the injection site, to disinfect it.
+- Hold the pre-filled syringe by the body of the syringe with the covered needle pointing upward.
+- Do not hold by the plunger head, plunger or needle cover.
+- Do not pull back on the plunger at any time.
+- Do not remove the needle cover from the pre-filled syringe until you are ready to inject Silapo.
+- Take the needle cover off the syringe by holding the barrel and pulling the needle cover off carefully without twisting it. Don't push the plunger, touch the needle or shake the syringe.
+- Pinch a fold of skin between your thumb and index finger. Don't squeeze it.
+- Push the needle in fully. Your doctor or nurse may have shown you how to do this.
+- Depress the plunger while grasping the finger flange until the entire dose has been given. The needle guard will NOT activate unless the ENTIRE dose has been given.
+- When the plunger is pushed as far as it will go, take out the needle and let go of the skin.
+- Let go of the plunger and allow the syringe to move up until the entire needle is guarded and locks into place.
+- When the needle is pulled out of your skin, there may be a little bleeding at the injection site. This is normal. You can press an antiseptic swab over the injection site for a few seconds after the injection.
+- Dispose of your used syringe in a sharps container. Do not try to replace the needle cover.
+- Never put used syringes into your normal household waste bin.
 
 <div style=\"page-break-after: always\"></div>
-
--  Pinch a fold of skin between your thumb and index finger. Don't squeeze it.
--  Push the needle in fully. Your doctor or nurse may have shown you how to do this.
--  Depress the plunger while grasping the finger flange until the entire dose has been given. The needle guard will NOT activate unless the ENTIRE dose has been given.
--  When the plunger is pushed as far as it will go, take out the needle and let go of the skin.
--  Let go of the plunger and allow the syringe to move up until the entire needle is guarded and locks into place.
--  When the needle is pulled out of your skin, there may be a little bleeding at the injection site. This is normal. You can press an antiseptic swab over the injection site for a few seconds after the injection.
--  Dispose of your used syringe in a sharps container. Do not try to replace the needle cover.
--  Never put used syringes into your normal household waste bin.
 
 <!-- image -->
 
@@ -2889,57 +2797,57 @@ Serious skin rashes including Stevens-Johnson syndrome and toxic epidermal necro
 
 ## Very common: may affect more than 1 in 10 people
 
--  Diarrhoea
--  Feeling sick in your stomach
--  Vomiting
--  Fever
--  Respiratory tract congestion , such as stuffy nose and sore throat, has been reported in patients with kidney disease not yet on dialysis.
+- Diarrhoea
+- Feeling sick in your stomach
+- Vomiting
+- Fever
+- Respiratory tract congestion , such as stuffy nose and sore throat, has been reported in patients with kidney disease not yet on dialysis.
 
 ## Common: may affect up to 1 in 10 people
 
--  Increased blood pressure. Headaches , particularly sudden, stabbing migraine-like headaches, feeling confused or having fits may be signs of a sudden increase in blood pressure. This requires urgent treatment. Raised blood pressure may require treatment with medicines (or adjustment to any medicines you already take for high blood pressure).
--  Blood clots (including deep vein thrombosis and embolism) that may require urgent treatment. You may have c hest pain, breathlessness, and painful swelling and redness, usually in the leg as symptoms.
--  Cough
--  Skin rashes, which may result from an allergic reaction
--  Bone or muscle pain
--  Flu-like symptoms , such as headache, aches and pains in the joints, feeling of weakness, chills, tiredness and dizziness. These may be more common at the start of treatment. If you have these symptoms during injection into the vein, a slower delivery of the injection may help to avoid them in the future.
--  Redness, burning and pain at the site of injection
--  Swelling of the ankles, feet or fingers
--  Arm or leg pain
+- Increased blood pressure. Headaches , particularly sudden, stabbing migraine-like headaches, feeling confused or having fits may be signs of a sudden increase in blood pressure. This requires urgent treatment. Raised blood pressure may require treatment with medicines (or adjustment to any medicines you already take for high blood pressure).
+- Blood clots (including deep vein thrombosis and embolism) that may require urgent treatment. You may have c hest pain, breathlessness, and painful swelling and redness, usually in the leg as symptoms.
+- Cough
+- Skin rashes, which may result from an allergic reaction
+- Bone or muscle pain
+- Flu-like symptoms , such as headache, aches and pains in the joints, feeling of weakness, chills, tiredness and dizziness. These may be more common at the start of treatment. If you have these symptoms during injection into the vein, a slower delivery of the injection may help to avoid them in the future.
+- Redness, burning and pain at the site of injection
+- Swelling of the ankles, feet or fingers
+- Arm or leg pain
 
 ## Uncommon: may affect up to 1 in 100 people
 
--  High levels of blood potassium which can cause abnormal heart rhythm (this is a very common side effect in patients on dialysis).
--  Fits
--  Nose or airway congestion
--  Allergic reaction
--  Hives
+- High levels of blood potassium which can cause abnormal heart rhythm (this is a very common side effect in patients on dialysis).
+- Fits
+- Nose or airway congestion
+- Allergic reaction
+- Hives
 
 ## Rare: may affect up to 1 in 1 000 people
 
--  Symptoms of pure red cell aplasia (PRCA)
+- Symptoms of pure red cell aplasia (PRCA)
 
 PRCA means the bone marrow does not make enough red blood cells. PRCA causes sudden and severe anaemia. The symptoms are:
 
--  unusual tiredness,
--  feeling dizzy,
--  breathlessness.
+- -unusual tiredness,
+- -feeling dizzy,
+- -breathlessness.
 
 PRCA has been very rarely reported mostly in patients with kidney disease after months to years of treatment with Silapo and other products that stimulate red blood cell production.
 
 <div style=\"page-break-after: always\"></div>
 
--  An increase in levels of small blood cells (called platelets), which are normally involved in the formation of a blood clot may occur, particularly when starting treatment. Your doctor will check on this.
--  Severe allergic reaction that may include:
--  a swollen face, lips, mouth, tongue or throat
--  difficulty swallowing or breathing
--  itchy rash (hives).
--  Problem with the blood that may cause pain, dark coloured urine or increased sensitivity of the skin to sunlight (porphyria).
+- An increase in levels of small blood cells (called platelets), which are normally involved in the formation of a blood clot may occur, particularly when starting treatment. Your doctor will check on this.
+- Severe allergic reaction that may include:
+- -a swollen face, lips, mouth, tongue or throat
+- -difficulty swallowing or breathing
+- -itchy rash (hives).
+- Problem with the blood that may cause pain, dark coloured urine or increased sensitivity of the skin to sunlight (porphyria).
 
-If you are receiving haemodialysis:
+## If you are receiving haemodialysis:
 
--  Blood clots (thrombosis) may form in your dialysis shunt. This is more likely if you have low blood pressure or if your fistula has complications.
--  Blood clots may also form in your haemodialysis system. Your doctor may decide to increase your heparin dose during dialysis.
+- Blood clots (thrombosis) may form in your dialysis shunt. This is more likely if you have low blood pressure or if your fistula has complications.
+- Blood clots may also form in your haemodialysis system. Your doctor may decide to increase your heparin dose during dialysis.
 
 Tell your doctor or nurse immediately if you are aware of any of these effects, or if you notice any other effects while you are receiving treatment with Silapo.
 
@@ -3037,8 +2945,128 @@ STADA Arzneimittel AG Stadastrasse 2-18 D-61118 Bad Vilbel Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-STADAPHARM GmbH Stadastraße 2-18 D-61118 Bad Vilbel Tel: +49 (0) 6101 603-0 Fax: +49 (0) 6101 603-3888
+## België/Belgique/Belgien
+
+STADA Arzneimittel GmbH Tél/Tel: +49 61016030
+
+## България
+
+STADA Bulgaria EOOD Teл.: +359 29209065
+
+## Česká republika
+
+STADA Arzneimittel GmbH Tel: +49 61016030
+
+## Danmark
+
+STADA Arzneimittel GmbH Tlf: +49 61016030
+
+## Deutschland
+
+STADAPHARM GmbH Tel: +49 61016030
+
+## Eesti
+
+STADA Arzneimittel GmbH Tel: +49 61016030
+
+## Lietuva
+
+STADA Arzneimittel GmbH Tel: +49 61016030
+
+## Luxembourg/Luxemburg
+
+STADA Arzneimittel GmbH Tél/Tel: +49 61016030
+
+## Magyarország
+
+STADA Arzneimittel GmbH Tel.: +49 61016030
+
+## Malta
+
+STADA Arzneimittel GmbH Tel: +49 61016030
+
+## Nederland
+
+Centrafarm B.V.
+
+Tel.: +31 765081000
+
+## Norge
+
+STADA Arzneimittel GmbH Tlf: +49 61016030
+
+<div style=\"page-break-after: always\"></div>
+
+## Ελλάδα
+
+STADA Arzneimittel GmbH Τηλ: +49 61016030
+
+## España
+
+STADA Arzneimittel GmbH Tel: +49 61016030
+
+## France
+
+STADA Arzneimittel GmbH Tél: +49 61016030
+
+## Hrvatska
+
+STADA d.o.o. Tel: +385 13764111
+
+## Ireland
+
+STADA Arzneimittel GmbH Tel: +49 61016030
+
+## Ísland
+
+STADA Arzneimittel GmbH Sími: +49 61016030
+
+## Italia
+
+STADA Arzneimittel GmbH Tel: +49 61016030
+
+## Κύπρος
+
+STADA Arzneimittel AG Τηλ: +30 2106664667
+
+## Latvija
+
+STADA Arzneimittel GmbH Tel: +49 61016030
 
 ## This leaflet was last revised in {MM/YYYY}.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: .
+
+## Österreich
+
+STADA Arzneimittel GmbH Tel: +43 136785850
+
+## Polska
+
+STADA Arzneimittel GmbH Tel: +49 61016030
+
+## Portugal
+
+STADA Arzneimittel GmbH Tel: +49 61016030
+
+## România
+
+STADA M&amp;D SRL
+
+Tel: +40 213160640
+
+## Slovenija
+
+STADA Arzneimittel GmbH Tel: +49 61016030
+
+## Slovenská republika
+
+STADA PHARMA Slovakia, s.r.o. Tel: +421 252621933
+
+## Suomi/Finland
+
+STADA Arzneimittel GmbH Puh/Tel: +49 61016030
+
+## Sverige
+
+STADA Arzneimittel GmbH Tel: +49 61016030

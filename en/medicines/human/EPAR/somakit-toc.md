@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-25 16:42:00
+document_datetime: 2026-08-04 15:48:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/somakit-toc.html
 document_name: somakit-toc.html
 version: success
-processing_time: 0.0938779
-conversion_datetime: 2026-03-29 12:32:23.307194
+processing_time: 0.1568307
+conversion_datetime: 2026-08-07 13:48:58.783432
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # SomaKit TOC
 
@@ -55,7 +55,7 @@ Expand section
 
 Collapse section
 
-## What is SomaKit TOC and what is it used for?
+### What is SomaKit TOC and what is it used for?
 
 SomaKit TOC is a diagnostic medicine used in adult patients who are thought to have so-called well-differentiated gastroenteropancreatic neuroendocrine tumours (GEP-NETs). GEP-NETs are cancers which start in types of cells in the gut or pancreas that normally release hormones. The tumours can then spread elsewhere in the body (metastasis).
 
@@ -63,7 +63,7 @@ SomaKit TOC is used with a technique called positron emission tomography (PET sc
 
 Because the number of patients with GEP-NETs is low, the disease is considered 'rare', and SomaKit TOC was designated an 'orphan medicine' (a medicine used in rare diseases) on 19 March 2015.
 
-## How is SomaKit TOC used?
+### How is SomaKit TOC used?
 
 SomaKit TOC is available as a kit for preparing a solution for injection. It is given as a single injection into a vein immediately after being radiolabelled. The PET scan images are then taken 40 to 90 minutes later.
 
@@ -71,11 +71,11 @@ SomaKit TOC can only be obtained with a prescription and the injection must only
 
 For further information, see the package leaflet.
 
-## How does SomaKit TOC work?
+### How does SomaKit TOC work?
 
 The active substance in SomaKit TOC, edotreotide, attaches specifically to receptors called somatostatin receptors on the surface of cells. Not all cells have these receptors but most well-differentiated GEP-NET cells have high amounts on their surface. The prepared medicine, radiolabelled with gallium (68Ga) chloride, attaches to these receptors on the GEP-NET cells. The resulting build-up of radiation can be detected by the special camera of the PET scan. This makes it possible to see where the tumours are and whether they have spread.
 
-## What benefits of SomaKit TOC have been shown in studies?
+### What benefits of SomaKit TOC have been shown in studies?
 
 The active substance in SomaKit TOC, edotreotide radiolabelled with gallium (68Ga) chloride, has a well established use in detecting GEP-NETs. The company therefore provided information from many, mostly small, studies in the published literature to show the effectiveness of SomaKit TOC at detection. The studies included data from 970 patients. Some studies looked at the sensitivity of the PET scans (how well the scans identified patients who had GEP-NETs or their metastases), some analysed specificity (how reliable scans were at identifying subjects who had no GEP-NETs) and some looked at lesion detection rate (how good scans were at identifying the tumours). A comparison using data from several of these studies (a meta-analysis) was also presented.
 
@@ -83,21 +83,21 @@ Taken together, the studies were sufficient to show the effectiveness of SomaKit
 
 In four other comparative studies it was seen that the active substance in SomaKit TOC detected more tumours than did indium (111In) pentetreotide in the same patients.
 
-## What are the risks associated with SomaKit TOC?
+### What are the risks associated with SomaKit TOC?
 
 After SomaKit TOC is radiolabelled it emits a small amount of radiation which poses a low risk of cancer or hereditary abnormalities.
 
 For the full list of side effects or restrictions with SomaKit TOC, see the package leaflet.
 
-## Why is SomaKit TOC approved?
+### Why is SomaKit TOC approved?
 
 The Agency's Committee for Medicinal Products for Human Use (CHMP) considered that the technical and diagnostic performance of the medicine had been demonstrated. The risks of side effects seemed to be low and the CHMP therefore decided that SomaKit TOC's benefits are greater than its risks and recommended that it be approved for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of SomaKit TOC?
+### What measures are being taken to ensure the safe and effective use of SomaKit TOC?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of SomaKit TOC have been included in the summary of product characteristics and the package leaflet.
 
-## Other information about SomaKit TOC
+### Other information about SomaKit TOC
 
 The European Commission granted a marketing authorisation valid throughout the European Union for SomaKit TOC on 08 December 2016.
 
@@ -111,7 +111,7 @@ English (EN) (77.63 KB - PDF)
 
 [View](/en/documents/overview/somakit-toc-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-967)
+[Other languages (22)](#file-language-dropdown-173)
 
 български (BG) (105.74 KB - PDF)
 
@@ -143,7 +143,7 @@ Deutsch (DE) (77.52 KB - PDF)
 
 [View](/de/documents/overview/somakit-toc-epar-summary-public_de.pdf)
 
-eesti keel (ET) (75.78 KB - PDF)
+eesti (ET) (75.78 KB - PDF)
 
 **First published:** 20/02/2017 **Last updated:** 20/02/2017
 
@@ -173,13 +173,13 @@ italiano (IT) (77.01 KB - PDF)
 
 [View](/it/documents/overview/somakit-toc-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (98.41 KB - PDF)
+latviešu (LV) (98.41 KB - PDF)
 
 **First published:** 20/02/2017 **Last updated:** 20/02/2017
 
 [View](/lv/documents/overview/somakit-toc-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (101.58 KB - PDF)
+lietuvių (LT) (101.58 KB - PDF)
 
 **First published:** 20/02/2017 **Last updated:** 20/02/2017
 
@@ -233,7 +233,7 @@ slovenščina (SL) (98.29 KB - PDF)
 
 [View](/sl/documents/overview/somakit-toc-epar-summary-public_sl.pdf)
 
-Suomi (FI) (77.82 KB - PDF)
+suomi (FI) (77.82 KB - PDF)
 
 **First published:** 20/02/2017 **Last updated:** 20/02/2017
 
@@ -257,167 +257,168 @@ English (EN) (54.47 KB - PDF)
 
 SomaKit TOC : EPAR - Product Information
 
-English (EN) (811.31 KB - PDF)
+English (EN) (463.08 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/en/documents/product-information/somakit-toc-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-491)
+[Other languages (24)](#file-language-dropdown-852)
 
-български (BG) (926.53 KB - PDF)
+български (BG) (577 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/bg/documents/product-information/somakit-toc-epar-product-information_bg.pdf)
 
-español (ES) (828.56 KB - PDF)
+español (ES) (495.28 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/es/documents/product-information/somakit-toc-epar-product-information_es.pdf)
 
-čeština (CS) (886.16 KB - PDF)
+čeština (CS) (523.1 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/cs/documents/product-information/somakit-toc-epar-product-information_cs.pdf)
 
-dansk (DA) (832.13 KB - PDF)
+dansk (DA) (507.74 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/da/documents/product-information/somakit-toc-epar-product-information_da.pdf)
 
-Deutsch (DE) (871.31 KB - PDF)
+Deutsch (DE) (575.69 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/de/documents/product-information/somakit-toc-epar-product-information_de.pdf)
 
-eesti keel (ET) (813.12 KB - PDF)
+eesti (ET) (480.01 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/et/documents/product-information/somakit-toc-epar-product-information_et.pdf)
 
-ελληνικά (EL) (920.75 KB - PDF)
+ελληνικά (EL) (554.86 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/el/documents/product-information/somakit-toc-epar-product-information_el.pdf)
 
-français (FR) (829.97 KB - PDF)
+français (FR) (519.76 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/fr/documents/product-information/somakit-toc-epar-product-information_fr.pdf)
 
-hrvatski (HR) (877.54 KB - PDF)
+hrvatski (HR) (519.84 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/hr/documents/product-information/somakit-toc-epar-product-information_hr.pdf)
 
-íslenska (IS) (806.47 KB - PDF)
+italiano (IT) (496.74 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
-
-[View](/is/documents/product-information/somakit-toc-epar-product-information_is.pdf)
-
-italiano (IT) (823.07 KB - PDF)
-
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/it/documents/product-information/somakit-toc-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (870.26 KB - PDF)
+latviešu (LV) (522.29 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/lv/documents/product-information/somakit-toc-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (900.32 KB - PDF)
+lietuvių (LT) (499.95 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/lt/documents/product-information/somakit-toc-epar-product-information_lt.pdf)
 
-magyar (HU) (911.43 KB - PDF)
+magyar (HU) (544.51 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/hu/documents/product-information/somakit-toc-epar-product-information_hu.pdf)
 
-Malti (MT) (954.79 KB - PDF)
+Malti (MT) (666.12 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/mt/documents/product-information/somakit-toc-epar-product-information_mt.pdf)
 
-Nederlands (NL) (810.57 KB - PDF)
+Nederlands (NL) (482.23 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/nl/documents/product-information/somakit-toc-epar-product-information_nl.pdf)
 
-norsk (NO) (822.66 KB - PDF)
+polski (PL) (514.26 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
-
-[View](/no/documents/product-information/somakit-toc-epar-product-information_no.pdf)
-
-polski (PL) (886.21 KB - PDF)
-
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/pl/documents/product-information/somakit-toc-epar-product-information_pl.pdf)
 
-português (PT) (852.27 KB - PDF)
+português (PT) (518.98 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/pt/documents/product-information/somakit-toc-epar-product-information_pt.pdf)
 
-română (RO) (887.77 KB - PDF)
+română (RO) (529.31 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/ro/documents/product-information/somakit-toc-epar-product-information_ro.pdf)
 
-slovenčina (SK) (909.66 KB - PDF)
+slovenčina (SK) (544.56 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/sk/documents/product-information/somakit-toc-epar-product-information_sk.pdf)
 
-slovenščina (SL) (862.26 KB - PDF)
+slovenščina (SL) (499.08 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/sl/documents/product-information/somakit-toc-epar-product-information_sl.pdf)
 
-Suomi (FI) (832.99 KB - PDF)
+suomi (FI) (505.17 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/fi/documents/product-information/somakit-toc-epar-product-information_fi.pdf)
 
-svenska (SV) (811.06 KB - PDF)
+svenska (SV) (478.63 KB - PDF)
 
-**First published:** 20/02/2017 **Last updated:** 25/03/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
 
 [View](/sv/documents/product-information/somakit-toc-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000281217
+Íslenska (IS) (481.68 KB - PDF)
 
-19/02/2026
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
+
+[View](/is/documents/product-information/somakit-toc-epar-product-information_is.pdf)
+
+norsk (NO) (508.21 KB - PDF)
+
+**First published:** 20/02/2017 **Last updated:** 04/08/2026
+
+[View](/no/documents/product-information/somakit-toc-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** T/0000355342
+
+09/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -435,7 +436,7 @@ English (EN) (13.26 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/somakit-toc-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-327)
+[Other languages (24)](#file-language-dropdown-174)
 
 български (BG) (35 KB - PDF)
 
@@ -467,7 +468,7 @@ Deutsch (DE) (11.29 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/somakit-toc-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (11.17 KB - PDF)
+eesti (ET) (11.17 KB - PDF)
 
 **First published:** 20/02/2017 **Last updated:** 20/02/2017
 
@@ -491,25 +492,19 @@ hrvatski (HR) (25.89 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/somakit-toc-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (11.19 KB - PDF)
-
-**First published:** 20/02/2017 **Last updated:** 20/02/2017
-
-[View](/is/documents/all-authorised-presentations/somakit-toc-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (11.23 KB - PDF)
 
 **First published:** 20/02/2017 **Last updated:** 20/02/2017
 
 [View](/it/documents/all-authorised-presentations/somakit-toc-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (27.83 KB - PDF)
+latviešu (LV) (27.83 KB - PDF)
 
 **First published:** 20/02/2017 **Last updated:** 20/02/2017
 
 [View](/lv/documents/all-authorised-presentations/somakit-toc-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (27.77 KB - PDF)
+lietuvių (LT) (27.77 KB - PDF)
 
 **First published:** 20/02/2017 **Last updated:** 20/02/2017
 
@@ -532,12 +527,6 @@ Nederlands (NL) (10.84 KB - PDF)
 **First published:** 20/02/2017 **Last updated:** 20/02/2017
 
 [View](/nl/documents/all-authorised-presentations/somakit-toc-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (10.95 KB - PDF)
-
-**First published:** 20/02/2017 **Last updated:** 20/02/2017
-
-[View](/no/documents/all-authorised-presentations/somakit-toc-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (30.5 KB - PDF)
 
@@ -569,7 +558,7 @@ slovenščina (SL) (17.58 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/somakit-toc-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (10.81 KB - PDF)
+suomi (FI) (10.81 KB - PDF)
 
 **First published:** 20/02/2017 **Last updated:** 20/02/2017
 
@@ -581,28 +570,31 @@ svenska (SV) (10.87 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/somakit-toc-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (11.19 KB - PDF)
+
+**First published:** 20/02/2017 **Last updated:** 20/02/2017
+
+[View](/is/documents/all-authorised-presentations/somakit-toc-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (10.95 KB - PDF)
+
+**First published:** 20/02/2017 **Last updated:** 20/02/2017
+
+[View](/no/documents/all-authorised-presentations/somakit-toc-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-SomaKit TOC
-
-Active substance
-
-edotreotide
-
-International non-proprietary name (INN) or common name
-
-edotreotide
-
-Therapeutic area (MeSH)
-
-- Neuroendocrine Tumors
-- Radionuclide Imaging
-
-Anatomical therapeutic chemical (ATC) code
-
-V09IX
+- **Name of medicine**
+    - SomaKit TOC
+- **Active substance**
+    - edotreotide
+- **International non-proprietary name (INN) or common name**
+    - edotreotide
+- **Therapeutic area (MeSH)**
+        - Neuroendocrine Tumors
+        - Radionuclide Imaging
+- **Anatomical therapeutic chemical (ATC) code**
+    - V09IX
 
 ### Pharmacotherapeutic group
 
@@ -616,31 +608,18 @@ After radiolabelling with gallium (68Ga) chloride solution, the solution of gall
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004140
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Advanced Accelerator Applications
-
-Advanced Accelerator Applications
-
-Opinion adopted
-
-15/09/2016
-
-Marketing authorisation issued
-
-08/12/2016
-
-Revision
-
-22
+- **EMA product number**
+    - EMEA/H/C/004140
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - Novartis Europharm Limited Vista Building  Elm Park  Merrion Road  Dublin 4  D04 A9N6  Ireland
+- **Opinion adopted**
+    - 15/09/2016
+- **Marketing authorisation issued**
+    - 08/12/2016
+- **Revision**
+    - 23
 
 ## Assessment history
 
@@ -648,13 +627,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 SomaKit TOC : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (136.25 KB - PDF)
+English (EN) (131.81 KB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 25/03/2026
+**First published:** 04/03/2025 **Last updated:** 04/08/2026
 
 [View](/en/documents/procedural-steps-after/somakit-toc-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -674,7 +653,7 @@ English (EN) (127.59 KB - PDF)
 
 **First published:** 25/10/2022
 
-[View](/en/documents/scientific-conclusion/somakit-toc-h-c-psusa-00010552-202112-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/somakit-toc-h-c-psusa-00010552-202112-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 SomaKit TOC-H-C-PSUSA-00010552-202012 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -684,7 +663,7 @@ English (EN) (122.36 KB - PDF)
 
 **First published:** 06/10/2021
 
-[View](/en/documents/scientific-conclusion/somakit-toc-h-c-psusa-00010552-202012-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/somakit-toc-h-c-psusa-00010552-202012-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 SomaKit TOC-H-C-PSUSA-00010552-201906 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -694,9 +673,9 @@ English (EN) (142.19 KB - PDF)
 
 **First published:** 08/04/2020
 
-[View](/en/documents/scientific-conclusion/somakit-toc-h-c-psusa-00010552-201906-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/somakit-toc-h-c-psusa-00010552-201906-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 SomaKit TOC : EPAR - Public assessment report
 
@@ -734,6 +713,6 @@ English (EN) (76.77 KB - PDF)
 
 **This page was last updated on**
 
-25/03/2026
+04/08/2026
 
 ## Share this page

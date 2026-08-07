@@ -1,106 +1,32 @@
 ---
-document_datetime: 2026-02-11 14:00:00
+document_datetime: 2026-08-04 16:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/qinlock.html
 document_name: qinlock.html
 version: success
-processing_time: 0.1684354
-conversion_datetime: 2026-02-13 18:21:51.328117
+processing_time: 0.1394509
+conversion_datetime: 2026-08-07 13:50:17.722959
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.2
-  docling: 2.73.1
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
-# Search
-
-- [Medicines](/en/medicines)
-    - [Find medicine](/en/medicines)
-    - [Therapeutic areas: latest updates](/en/medicines/therapeutic-areas-latest-updates)
-    - [Download medicine data](/en/medicines/download-medicine-data)
-    - [What we publish on medicines and when](/en/medicines/what-we-publish-medicines-when)
-    - [Medicines under evaluation](/en/medicines/medicines-human-use-under-evaluation)
-    - [National registers](/en/medicines/national-registers-authorised-medicines)
-- [Human regulatory](/en/human-regulatory-overview)
-    - [Overview](/en/human-regulatory-overview)
-    - [Research and development](/en/human-regulatory-overview/research-development)
-    - [Marketing authorisation](/en/human-regulatory-overview/marketing-authorisation)
-    - [Post-authorisation](/en/human-regulatory-overview/post-authorisation)
-    - [Medical devices](/en/human-regulatory-overview/medical-devices)
-    - [Herbal products](/en/human-regulatory-overview/herbal-medicinal-products)
-- [Veterinary regulatory](/en/veterinary-regulatory-overview)
-    - [Overview](/en/veterinary-regulatory-overview)
-    - [Research and development](/en/veterinary-regulatory-overview/research-development-veterinary-medicines)
-    - [Marketing authorisation](/en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines)
-    - [Post-authorisation](/en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines)
-- [Committees](/en/committees)
-    - [Overview](/en/committees)
-    - [How the committees work](/en/committees/how-committees-work)
-    - [CHMP](/en/committees/committee-medicinal-products-human-use-chmp)
-    - [CVMP](/en/committees/committee-veterinary-medicinal-products-cvmp)
-    - [PRAC](/en/committees/pharmacovigilance-risk-assessment-committee-prac)
-    - [COMP](/en/committees/committee-orphan-medicinal-products-comp)
-    - [HMPC](/en/committees/committee-herbal-medicinal-products-hmpc)
-    - [CAT](/en/committees/committee-advanced-therapies-cat)
-    - [PDCO](/en/committees/paediatric-committee-pdco)
-    - [Working parties and other groups](/en/committees/working-parties-other-groups)
-- [News &amp; events](/en/news-events)
-    - [Overview](/en/news-events)
-    - [News](/en/news)
-    - [Events](/en/events/upcoming-events)
-    - [What's new](/en/news-events/whats-new)
-    - [Committee highlights](/en/news-events/committee-highlights)
-    - [Publications](/en/news-and-events/publications)
-    - [Press and social media](/en/news-events/press-social-media)
-    - [Podcast: Inside EMA](/en/news-events/podcast-inside-ema)
-    - [Open consultations](/en/news-events/open-consultations)
-    - [RSS feeds](/en/news-events/rss-feeds)
-- [Partners &amp; networks](/en/partners-networks)
-    - [Overview](/en/partners-networks)
-    - [EU partners](/en/partners-networks/eu-partners)
-    - [International activities](/en/partners-networks/international-activities)
-    - [Patients and consumers](/en/partners-networks/patients-consumers)
-    - [Healthcare professionals](/en/partners-networks/healthcare-professionals)
-    - [Academia](/en/partners-networks/academia)
-    - [Pharmaceutical industry](/en/partners-networks/pharmaceutical-industry)
-    - [Networks](/en/partners-networks/networks)
-    - [Health technology assessment bodies](/en/partners-networks/health-technology-assessment-bodies)
-    - [One Health approach](/en/partners-networks/one-health-approach)
-    - [Animal health practitioners](/en/partners-networks/animal-health-practitioners)
-    - [One substance - one assessment](/en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data)
-- [About us](/en/about-us)
-    - [Overview](/en/about-us)
-    - [What we do](/en/about-us/what-we-do)
-    - [Who we are](/en/about-us/who-we-are)
-    - [How we work](/en/about-us/how-we-work)
-    - [Fees](/en/about-us/fees-payable-european-medicines-agency)
-    - [Support to SMEs](/en/about-us/support-smes)
-    - [Annual reports and work programmes](/en/about-us/annual-reports-work-programmes)
-    - [History of EMA](/en/about-us/history-ema)
-    - [Careers](/en/about-us/careers)
-    - [Procurement](/en/about-us/procurement-grants)
-    - [Glossaries](/en/about-us/glossaries)
-    - [About this website](/en/about-us/about-website)
-    - [Data protection and privacy](/en/about-us/data-protection-privacy-ema)
-    - [Contacts](/en/about-us/contacts-european-medicines-agency)
-
-1. [Home](/en/homepage)
-2. [Medicines](https://www.ema.europa.eu/en/medicines)
-3. Qinlock
-
 # Qinlock
 
 [RSS](/en/individual-human-medicine.xml/67487)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-ripretinib Medicine Human Authorised
+ripretinib
+
+Medicine Human Authorised
 
 Page contents
 
@@ -130,7 +56,7 @@ Expand section
 
 Collapse section
 
-## How is Qinlock used?
+### How is Qinlock used?
 
 Qinlock is available as tablets to be taken by mouth and can only be obtained with a prescription. Treatment should be started by a doctor experienced in the treatment of cancer.
 
@@ -138,33 +64,33 @@ The recommended dose is 150 mg per day, taken at the same time each day. Treatme
 
 For more information about using Qinlock, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Qinlock work?
+### How does Qinlock work?
 
 The active substance in Qinlock, ripretinib, is one of a group of cancer medicines called receptor tyrosine kinase inhibitors. It works by blocking the activity of receptors (targets) called KIT and PDGFRA on the surface of cancer cells. These receptors help to control cell growth but can be abnormal (mutated) in GIST cancer cells, causing the cells to multiply uncontrollably. By blocking the action of the abnormal receptors, the medicine is expected to help to slow down the tumour growth.
 
-## What benefits of Qinlock have been shown in studies?
+### What benefits of Qinlock have been shown in studies?
 
 Qinlock was shown to be effective at treating GIST in a study involving 129 patients who had been previously treated with, or could not tolerate, at least three other cancer medicines. The study showed that patients treated with Qinlock lived on average for 27.6 weeks without their disease getting worse, compared with 4.1 weeks for patients given placebo (a dummy treatment).
 
-## What are the risks associated with Qinlock?
+### What are the risks associated with Qinlock?
 
 The most common side effects with Qinlock (which may affect more than 1 in 4 people) are tiredness, hair loss, nausea (feeling sick), muscle pain, constipation, diarrhoea, palmar-plantar erythrodysaesthesia syndrome (PPES, rash and numbness on the palms and soles), weight loss and vomiting.
 
 For the full list of side effects and restriction of Qinlock, see the package leaflet.
 
-## Why is Qinlock authorised in the EU?
+### Why is Qinlock authorised in the EU?
 
 Qinlock was shown to be effective at slowing down the progress of the disease in patients with GIST who had been treated with at least three other medicines. Qinlock was shown to have a favourable safety profile with manageable side effects.
 
 The European Medicines Agency therefore decided that Qinlock's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Qinlock?
+### What measures are being taken to ensure the safe and effective use of Qinlock?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Qinlock have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Qinlock are continuously monitored. Suspected side effects reported with Qinlock are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Qinlock
+### Other information about Qinlock
 
 Qinlock received a marketing authorisation valid throughout the EU on 18 November 2021.
 
@@ -178,181 +104,137 @@ English (EN) (108.28 KB - PDF)
 
 [View](/en/documents/overview/qinlock-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-478)
+[Other languages (22)](#file-language-dropdown-720)
 
 български (BG) (142.38 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/bg/documents/overview/qinlock-epar-medicine-overview_bg.pdf)
 
 español (ES) (116.38 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/es/documents/overview/qinlock-epar-medicine-overview_es.pdf)
 
 čeština (CS) (139.16 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/cs/documents/overview/qinlock-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (115.99 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/da/documents/overview/qinlock-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (119.14 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/de/documents/overview/qinlock-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (105.24 KB - PDF)
+eesti (ET) (105.24 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/et/documents/overview/qinlock-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (140.8 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/el/documents/overview/qinlock-epar-medicine-overview_el.pdf)
 
 français (FR) (107.67 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/fr/documents/overview/qinlock-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (137.4 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/hr/documents/overview/qinlock-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (115.2 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/it/documents/overview/qinlock-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (147.94 KB - PDF)
+latviešu (LV) (147.94 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/lv/documents/overview/qinlock-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (138.91 KB - PDF)
+lietuvių (LT) (138.91 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/lt/documents/overview/qinlock-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (137.38 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/hu/documents/overview/qinlock-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (139.4 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/mt/documents/overview/qinlock-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (107.85 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/nl/documents/overview/qinlock-epar-medicine-overview_nl.pdf)
 
 polski (PL) (140.95 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/pl/documents/overview/qinlock-epar-medicine-overview_pl.pdf)
 
 português (PT) (116.72 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/pt/documents/overview/qinlock-epar-medicine-overview_pt.pdf)
 
 română (RO) (137.15 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/ro/documents/overview/qinlock-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (138.06 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/sk/documents/overview/qinlock-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (136.43 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/sl/documents/overview/qinlock-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (104.21 KB - PDF)
+suomi (FI) (104.21 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/fi/documents/overview/qinlock-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (115.23 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/sv/documents/overview/qinlock-epar-medicine-overview_sv.pdf)
 
@@ -360,9 +242,7 @@ Qinlock : EPAR - Risk-management-plan summary
 
 English (EN) (248.59 KB - PDF)
 
-**First published:** 23/11/2021
-
-**Last updated:** 30/08/2023
+**First published:** 23/11/2021 **Last updated:** 30/08/2023
 
 [View](/en/documents/rmp-summary/qinlock-epar-risk-management-plan-summary_en.pdf)
 
@@ -370,311 +250,168 @@ English (EN) (248.59 KB - PDF)
 
 Qinlock : EPAR - Product information
 
-English (EN) (295.46 KB - PDF)
+English (EN) (299.33 KB - PDF)
 
-**First published:** 23/11/2021
-
-**Last updated:** 11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/en/documents/product-information/qinlock-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-273)
+[Other languages (24)](#file-language-dropdown-492)
 
-български (BG) (420.62 KB - PDF)
+български (BG) (419.38 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/bg/documents/product-information/qinlock-epar-product-information_bg.pdf)
 
-español (ES) (288.71 KB - PDF)
+español (ES) (295.66 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/es/documents/product-information/qinlock-epar-product-information_es.pdf)
 
-čeština (CS) (379.68 KB - PDF)
+čeština (CS) (377.15 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/cs/documents/product-information/qinlock-epar-product-information_cs.pdf)
 
-dansk (DA) (284.21 KB - PDF)
+dansk (DA) (288.77 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/da/documents/product-information/qinlock-epar-product-information_da.pdf)
 
-Deutsch (DE) (304.88 KB - PDF)
+Deutsch (DE) (307.7 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/de/documents/product-information/qinlock-epar-product-information_de.pdf)
 
-eesti keel (ET) (285.04 KB - PDF)
+eesti (ET) (287.78 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/et/documents/product-information/qinlock-epar-product-information_et.pdf)
 
-ελληνικά (EL) (525.64 KB - PDF)
+ελληνικά (EL) (521.34 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/el/documents/product-information/qinlock-epar-product-information_el.pdf)
 
-français (FR) (301.01 KB - PDF)
+français (FR) (309.44 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/fr/documents/product-information/qinlock-epar-product-information_fr.pdf)
 
-hrvatski (HR) (364.08 KB - PDF)
+hrvatski (HR) (364.29 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/hr/documents/product-information/qinlock-epar-product-information_hr.pdf)
 
-íslenska (IS) (314.95 KB - PDF)
+italiano (IT) (302.08 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
-
-[View](/is/documents/product-information/qinlock-epar-product-information_is.pdf)
-
-italiano (IT) (292.97 KB - PDF)
-
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/it/documents/product-information/qinlock-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (360.72 KB - PDF)
+latviešu (LV) (365.82 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/lv/documents/product-information/qinlock-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (375.19 KB - PDF)
+lietuvių (LT) (373.08 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/lt/documents/product-information/qinlock-epar-product-information_lt.pdf)
 
-magyar (HU) (408.2 KB - PDF)
+magyar (HU) (412.39 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/hu/documents/product-information/qinlock-epar-product-information_hu.pdf)
 
-Malti (MT) (373.01 KB - PDF)
+Malti (MT) (389.98 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/mt/documents/product-information/qinlock-epar-product-information_mt.pdf)
 
-Nederlands (NL) (304.25 KB - PDF)
+Nederlands (NL) (308.65 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/nl/documents/product-information/qinlock-epar-product-information_nl.pdf)
 
-norsk (NO) (320.31 KB - PDF)
+polski (PL) (384.98 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
-
-[View](/no/documents/product-information/qinlock-epar-product-information_no.pdf)
-
-polski (PL) (390.47 KB - PDF)
-
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/pl/documents/product-information/qinlock-epar-product-information_pl.pdf)
 
-português (PT) (321.47 KB - PDF)
+português (PT) (328.64 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/pt/documents/product-information/qinlock-epar-product-information_pt.pdf)
 
-română (RO) (371.36 KB - PDF)
+română (RO) (380.5 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/ro/documents/product-information/qinlock-epar-product-information_ro.pdf)
 
-slovenčina (SK) (382.17 KB - PDF)
+slovenčina (SK) (373.53 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/sk/documents/product-information/qinlock-epar-product-information_sk.pdf)
 
-slovenščina (SL) (368.74 KB - PDF)
+slovenščina (SL) (360.27 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/sl/documents/product-information/qinlock-epar-product-information_sl.pdf)
 
-Suomi (FI) (289.45 KB - PDF)
+suomi (FI) (297.89 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/fi/documents/product-information/qinlock-epar-product-information_fi.pdf)
 
-svenska (SV) (306.7 KB - PDF)
+svenska (SV) (313.82 KB - PDF)
 
-**First published:**
-
-23/11/2021
-
-**Last updated:**
-
-11/02/2026
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
 
 [View](/sv/documents/product-information/qinlock-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000326560 11/02/2026
+Íslenska (IS) (315.79 KB - PDF)
+
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
+
+[View](/is/documents/product-information/qinlock-epar-product-information_is.pdf)
+
+norsk (NO) (321.05 KB - PDF)
+
+**First published:** 04/08/2026 **Last updated:** 11/02/2026
+
+[View](/no/documents/product-information/qinlock-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** R/0000326982
+
+29/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -692,203 +429,164 @@ English (EN) (39.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-987)
+[Other languages (24)](#file-language-dropdown-917)
 
 български (BG) (53 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/bg/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (39.86 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/es/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (52.82 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/cs/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (46.87 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/da/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (47 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/de/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (46.13 KB - PDF)
+eesti (ET) (46.13 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/et/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (61.6 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/el/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (46.37 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/fr/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (60.95 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/hr/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (64.38 KB - PDF)
-
-**First published:**
-
-23/11/2021
-
-[View](/is/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (45.75 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/it/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (61.17 KB - PDF)
+latviešu (LV) (61.17 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/lv/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (63.88 KB - PDF)
+lietuvių (LT) (63.88 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/lt/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (63.44 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/hu/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (56.64 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/mt/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (45.75 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/nl/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (42.78 KB - PDF)
-
-**First published:**
-
-23/11/2021
-
-[View](/no/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (55.88 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/pl/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (46.22 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/pt/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (53.83 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/ro/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (62.36 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/sk/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (54.14 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/sl/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (45.67 KB - PDF)
+suomi (FI) (45.67 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/fi/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (46.1 KB - PDF)
 
-**First published:**
-
-23/11/2021
+**First published:** 23/11/2021
 
 [View](/sv/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (64.38 KB - PDF)
+
+**First published:** 23/11/2021
+
+[View](/is/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (42.78 KB - PDF)
+
+**First published:** 23/11/2021
+
+[View](/no/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Qinlock Active substance ripretinib International non-proprietary name (INN) or common name ripretinib Therapeutic area (MeSH) Gastrointestinal Stromal Tumors Anatomical therapeutic chemical (ATC) code L01
+- **Name of medicine**
+    - Qinlock
+- **Active substance**
+    - ripretinib
+- **International non-proprietary name (INN) or common name**
+    - ripretinib
+- **Therapeutic area (MeSH)**
+    - Gastrointestinal Stromal Tumors
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01
 
 ### Pharmacotherapeutic group
 
@@ -900,23 +598,18 @@ Qinlock is indicated for the treatment of adult patients with advanced gastroint
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005614
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Deciphera Pharmaceuticals (Netherlands) B.V.
-
-Strawinskylaan 3051 1077 ZX Amsterdam The Netherlands
-
-Opinion adopted 16/09/2021 Marketing authorisation issued 18/11/2021 Revision 8
+- **EMA product number**
+    - EMEA/H/C/005614
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - Deciphera Pharmaceuticals (Netherlands) B.V. Strawinskylaan 3051  1077 ZX Amsterdam  The Netherlands
+- **Opinion adopted**
+    - 16/09/2021
+- **Marketing authorisation issued**
+    - 18/11/2021
+- **Revision**
+    - 9
 
 ## Assessment history
 
@@ -924,15 +617,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Qinlock : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (543.5 KB - PDF)
+English (EN) (161.49 KB - PDF)
 
-**First published:** 15/10/2025
-
-**Last updated:** 11/02/2026
+**First published:** 15/10/2025 **Last updated:** 04/08/2026
 
 [View](/en/documents/procedural-steps-after/qinlock-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -940,9 +631,7 @@ Qinlock : EPAR - Procedural steps taken and scientific information after authori
 
 English (EN) (167.05 KB - PDF)
 
-**First published:** 13/12/2021
-
-**Last updated:** 15/10/2025
+**First published:** 13/12/2021 **Last updated:** 15/10/2025
 
 [View](/en/documents/procedural-steps-after/qinlock-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -954,29 +643,23 @@ English (EN) (124.68 KB - PDF)
 
 **First published:** 30/05/2023
 
-[View](/en/documents/scientific-conclusion/qinlock-h-c-psusa-00010962-202205-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/qinlock-h-c-psusa-00010962-202205-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Qinlock : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/555164/2021
+Adopted Reference Number: EMA/CHMP/555164/2021
 
 English (EN) (4.31 MB - PDF)
 
-**First published:** 23/11/2021
-
-**Last updated:** 23/11/2021
+**First published:** 23/11/2021 **Last updated:** 23/11/2021
 
 [View](/en/documents/assessment-report/qinlock-epar-public-assessment-report_en.pdf)
 
 Qinlock : Orphan maintenance assessment report (initial authorisation)
 
-Adopted
-
-Reference Number: EMA/OD/0000057360
+Adopted Reference Number: EMA/OD/0000057360
 
 English (EN) (293.6 KB - PDF)
 
@@ -986,9 +669,7 @@ English (EN) (293.6 KB - PDF)
 
 CHMP summary of positive opinion for Qinlock
 
-Adopted
-
-Reference Number: EMA/CHMP/338054/2021
+Adopted Reference Number: EMA/CHMP/338054/2021
 
 English (EN) (128.12 KB - PDF)
 
@@ -996,16 +677,18 @@ English (EN) (128.12 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-qinlock_en.pdf)
 
-#### News on Qinlock
+## News on Qinlock
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 September 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-september-2021) 17/09/2021
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 13-16 September 2021](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-13-16-september-2021)
 
-#### More information on Qinlock
+17/09/2021
+
+## More information on Qinlock
 
 - [EU/3/17/1936 - orphan designation for treatment of gastrointestinal stromal tumours](/en/medicines/human/orphan-designations/eu-3-17-1936)
 
-**This page was last updated on** 11/02/2026
+**This page was last updated on**
+
+04/08/2026
 
 ## Share this page
-
-[Back to top](#main-content)

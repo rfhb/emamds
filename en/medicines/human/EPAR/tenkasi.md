@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 13:59:46
+document_datetime: 2026-08-06 17:44:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tenkasi.html
 document_name: tenkasi.html
 version: success
-processing_time: 0.1602204
-conversion_datetime: 2025-12-30 12:52:01.805987
+processing_time: 0.1204015
+conversion_datetime: 2026-08-07 13:47:25.366011
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Tenkasi (previously Orbactiv)
 
 [RSS](/en/individual-human-medicine.xml/66758)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-oritavancin Medicine Human Authorised
+oritavancin
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -39,7 +39,6 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Tenkasi (previously Orbactiv)](#news-on)
 - [More information on Tenkasi (previously Orbactiv)](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -53,17 +52,17 @@ Expand section
 
 Collapse section
 
-## How is Tenkasi used?
+### How is Tenkasi used?
 
 Tenkasi is given as a single infusion (drip) into a vein. The medicine can only be obtained with a prescription. Before using Tenkasi, doctors should consider official guidance on the appropriate use of antibiotics.
 
 For more information about using Tenkasi, see the package leaflet or contact your healthcare provider.
 
-## How does Tenkasi work?
+### How does Tenkasi work?
 
 The active substance in Tenkasi, oritavancin, is a type of antibiotic called a glycopeptide. It works by preventing certain bacteria from making their own cell walls, thereby killing the bacteria. Tenkasi has been shown to work against bacteria (such as methicillin resistant Staphylococcus aureus (MRSA)) for which standard antibiotics do not work.
 
-## What benefits of Tenkasi have been shown in studies?
+### What benefits of Tenkasi have been shown in studies?
 
 Tenkasi, given as a single infusion, was compared with a 7- to 10-day treatment with vancomycin (another glycopeptide) in two main studies involving a total of around 1,959 patients with acute bacterial infections of the skin and of skin structures, such as cellulitis, skin abscesses and wound infections. These also included infections caused by MRSA.
 
@@ -73,7 +72,7 @@ Tenkasi was at least as effective as vancomycin at treating the infection: 80.1%
 
 An additional study involving 38 children from 3 months to less than 18 years of age showed that when given at the recommended dose in children of this age range, Tenkasi led to blood levels of the active substance, oritavancin, similar to those seen in adults.
 
-## What are the risks associated with Tenkasi?
+### What are the risks associated with Tenkasi?
 
 For the full list of side effects and restrictions with Tenkasi, see the package leaflet.
 
@@ -81,7 +80,7 @@ The most common side effects with Tenkasi (which may affect 5 people or more in 
 
 Patients who have received Tenkasi must not be given an infusion of unfractionated heparin (a medicine used to prevent blood clots) for 120 hours after the infusion of Tenkasi. For the full list of side effects and restrictions with Tenkasi, see the package leaflet.
 
-## Why is Tenkasi approved?
+### Why is Tenkasi approved?
 
 The European Medicines Agency noted that Tenkasi, which can be given as a single dose, could be a valuable alternative treatment option for acute bacterial infections of the skin and of skin structures.
 
@@ -89,13 +88,13 @@ Tenkasi's safety profile overall is similar to that of other glycopeptides, alth
 
 The European Medicines Agency concluded that Tenkasi's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Tenkasi?
+### What measures are being taken to ensure the safe and effective use of Tenkasi?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Tenkasi have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Tenkasi are continuously monitored. Suspected side effects reported with Tenkasi are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Tenkasi
+### Other information about Tenkasi
 
 Orbactiv received a marketing authorisation valid throughout the EU on 19 March 2015. The name of the medicine was changed to Tenkasi on 09 August 2021.
 
@@ -105,275 +104,141 @@ Reference Number: EMA/167280/2023
 
 English (EN) (148.5 KB - PDF)
 
-**First published:** 04/05/2015
-
-**Last updated:** 24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/en/documents/overview/tenkasi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-226)
+[Other languages (22)](#file-language-dropdown-58)
 
 български (BG) (221.33 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/bg/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_bg.pdf)
 
 español (ES) (175.04 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/es/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_es.pdf)
 
 čeština (CS) (200.19 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/cs/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (175.78 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/da/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (177.4 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/de/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (170.62 KB - PDF)
+eesti (ET) (170.62 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/et/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (217.83 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/el/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_el.pdf)
 
 français (FR) (150.25 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/fr/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (153.21 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/hr/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (175.99 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/it/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (215.25 KB - PDF)
+latviešu (LV) (215.25 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/lv/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (198.34 KB - PDF)
+lietuvių (LT) (198.34 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/lt/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (196.21 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/hu/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (226.63 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/mt/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (176.13 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/nl/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_nl.pdf)
 
 polski (PL) (200.59 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/pl/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_pl.pdf)
 
 português (PT) (176.89 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/pt/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_pt.pdf)
 
 română (RO) (205.06 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/ro/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (199.16 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/sk/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (196.78 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/sl/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (171.63 KB - PDF)
+suomi (FI) (171.63 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/fi/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (173.35 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-24/05/2023
+**First published:** 04/05/2015 **Last updated:** 24/05/2023
 
 [View](/sv/documents/overview/tenkasi-previously-orbactiv-epar-medicine-overview_sv.pdf)
 
@@ -381,9 +246,7 @@ Tenkasi : EPAR - Risk-management-plan summary
 
 English (EN) (48.59 KB - PDF)
 
-**First published:** 04/05/2015
-
-**Last updated:** 22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/en/documents/rmp-summary/tenkasi-epar-risk-management-plan-summary_en.pdf)
 
@@ -393,309 +256,166 @@ Tenkasi : EPAR - Product Information
 
 English (EN) (461.54 KB - PDF)
 
-**First published:** 04/05/2015
-
-**Last updated:** 20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/en/documents/product-information/tenkasi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-52)
+[Other languages (24)](#file-language-dropdown-798)
 
 български (BG) (671.06 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/bg/documents/product-information/tenkasi-epar-product-information_bg.pdf)
 
 español (ES) (544.58 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/es/documents/product-information/tenkasi-epar-product-information_es.pdf)
 
 čeština (CS) (536.88 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/cs/documents/product-information/tenkasi-epar-product-information_cs.pdf)
 
 dansk (DA) (311.45 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/da/documents/product-information/tenkasi-epar-product-information_da.pdf)
 
 Deutsch (DE) (415.56 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/de/documents/product-information/tenkasi-epar-product-information_de.pdf)
 
-eesti keel (ET) (589.89 KB - PDF)
+eesti (ET) (589.89 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/et/documents/product-information/tenkasi-epar-product-information_et.pdf)
 
 ελληνικά (EL) (745.41 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/el/documents/product-information/tenkasi-epar-product-information_el.pdf)
 
 français (FR) (610.19 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/fr/documents/product-information/tenkasi-epar-product-information_fr.pdf)
 
 hrvatski (HR) (504.9 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/hr/documents/product-information/tenkasi-epar-product-information_hr.pdf)
 
-íslenska (IS) (298.03 KB - PDF)
-
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
-
-[View](/is/documents/product-information/tenkasi-epar-product-information_is.pdf)
-
 italiano (IT) (403.87 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/it/documents/product-information/tenkasi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (421.08 KB - PDF)
+latviešu (LV) (421.08 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/lv/documents/product-information/tenkasi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (385.37 KB - PDF)
+lietuvių (LT) (385.37 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/lt/documents/product-information/tenkasi-epar-product-information_lt.pdf)
 
 magyar (HU) (513.18 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/hu/documents/product-information/tenkasi-epar-product-information_hu.pdf)
 
 Malti (MT) (493.19 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/mt/documents/product-information/tenkasi-epar-product-information_mt.pdf)
 
 Nederlands (NL) (462.17 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/nl/documents/product-information/tenkasi-epar-product-information_nl.pdf)
 
-norsk (NO) (229.08 KB - PDF)
-
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
-
-[View](/no/documents/product-information/tenkasi-epar-product-information_no.pdf)
-
 polski (PL) (584.29 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/pl/documents/product-information/tenkasi-epar-product-information_pl.pdf)
 
 português (PT) (352.25 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/pt/documents/product-information/tenkasi-epar-product-information_pt.pdf)
 
 română (RO) (545.05 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/ro/documents/product-information/tenkasi-epar-product-information_ro.pdf)
 
 slovenčina (SK) (591.74 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/sk/documents/product-information/tenkasi-epar-product-information_sk.pdf)
 
 slovenščina (SL) (588.07 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/sl/documents/product-information/tenkasi-epar-product-information_sl.pdf)
 
-Suomi (FI) (337.07 KB - PDF)
+suomi (FI) (337.07 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/fi/documents/product-information/tenkasi-epar-product-information_fi.pdf)
 
 svenska (SV) (340.07 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-20/11/2024
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
 
 [View](/sv/documents/product-information/tenkasi-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IA/0046 19/11/2024
+Íslenska (IS) (298.03 KB - PDF)
+
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
+
+[View](/is/documents/product-information/tenkasi-epar-product-information_is.pdf)
+
+norsk (NO) (229.08 KB - PDF)
+
+**First published:** 04/05/2015 **Last updated:** 20/11/2024
+
+[View](/no/documents/product-information/tenkasi-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** IA/0046
+
+19/11/2024
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -709,310 +429,169 @@ Tenkasi : EPAR - All Authorised presentations
 
 English (EN) (16.2 KB - PDF)
 
-**First published:** 04/05/2015
-
-**Last updated:** 22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/en/documents/all-authorised-presentations/tenkasi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-728)
+[Other languages (24)](#file-language-dropdown-676)
 
 български (BG) (62.86 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/bg/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (44.36 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/es/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (62.25 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/cs/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (30.52 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/da/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (23.16 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/de/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (7.45 KB - PDF)
+eesti (ET) (7.45 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/et/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (42.72 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/el/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (19.28 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/fr/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (78.36 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/hr/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (30.39 KB - PDF)
-
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
-
-[View](/is/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (13.07 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/it/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (30.01 KB - PDF)
+latviešu (LV) (30.01 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/lv/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (20.67 KB - PDF)
+lietuvių (LT) (20.67 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/lt/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (26.26 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/hu/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (37.1 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/mt/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (10.67 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/nl/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (7.35 KB - PDF)
-
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
-
-[View](/no/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (46.42 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/pl/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (7.45 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/pt/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (60.93 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/ro/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (46.77 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/sk/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (46.54 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/sl/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (8.25 KB - PDF)
+suomi (FI) (8.25 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/fi/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (7.48 KB - PDF)
 
-**First published:**
-
-04/05/2015
-
-**Last updated:**
-
-22/09/2023
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
 
 [View](/sv/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (30.39 KB - PDF)
+
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
+
+[View](/is/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (7.35 KB - PDF)
+
+**First published:** 04/05/2015 **Last updated:** 22/09/2023
+
+[View](/no/documents/all-authorised-presentations/tenkasi-previously-orbactiv-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Tenkasi (previously Orbactiv) Active substance oritavancin (diphosphate) International non-proprietary name (INN) or common name oritavancin Therapeutic area (MeSH)
-
-- Soft Tissue Infections
-- Skin Diseases, Bacterial
-
-Anatomical therapeutic chemical (ATC) code J01XA05
+- **Name of medicine**
+    - Tenkasi (previously Orbactiv)
+- **Active substance**
+    - oritavancin (diphosphate)
+- **International non-proprietary name (INN) or common name**
+    - oritavancin
+- **Therapeutic area (MeSH)**
+        - Soft Tissue Infections
+        - Skin Diseases, Bacterial
+- **Anatomical therapeutic chemical (ATC) code**
+    - J01XA05
 
 ### Pharmacotherapeutic group
 
@@ -1026,13 +605,14 @@ Consideration should be given to official guidance on the appropriate use of ant
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/003785 Marketing authorisation holder
-
-Menarini International Operations Luxembourg S.A.
-
-1, Avenue de la Gare
-
-Marketing authorisation issued 19/03/2015 Revision 16
+- **EMA product number**
+    - EMEA/H/C/003785
+- **Marketing authorisation holder**
+    - Menarini International Operations Luxembourg S.A. 1, Avenue de la Gare  L-1611 Luxembourg  Luxembourg
+- **Marketing authorisation issued**
+    - 19/03/2015
+- **Revision**
+    - 17
 
 ## Assessment history
 
@@ -1040,23 +620,29 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Tenkasi: EPAR - Procedural steps taken and scientific information after authorisation
 
 English (EN) (150.58 KB - PDF)
 
-**First published:** 31/03/2016
-
-**Last updated:** 20/11/2024
+**First published:** 31/03/2016 **Last updated:** 20/11/2024
 
 [View](/en/documents/procedural-steps-after/tenkasi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
+Tenkasi-PAM-0000344073 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3386389
+
+English (EN) (835.31 KB - PDF)
+
+**First published:** 06/08/2026
+
+[View](/en/documents/variation-report/tenkasi-pam-0000344073-epar-assessment-report_en.pdf)
+
 Tenkasi-H-C-003785-X-0036 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/323178/2023
+Adopted Reference Number: EMA/323178/2023
 
 English (EN) (1010.87 KB - PDF)
 
@@ -1066,9 +652,7 @@ English (EN) (1010.87 KB - PDF)
 
 Tenkasi-H-C-003785-II-0037 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/CHMP/783414/2023
+Adopted Reference Number: EMA/CHMP/783414/2023
 
 English (EN) (1.57 MB - PDF)
 
@@ -1078,9 +662,7 @@ English (EN) (1.57 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Tenkasi (II-37)
 
-Adopted
-
-Reference Number: EMA/CHMP/150406/2023
+Adopted Reference Number: EMA/CHMP/150406/2023
 
 English (EN) (127.23 KB - PDF)
 
@@ -1090,9 +672,7 @@ English (EN) (127.23 KB - PDF)
 
 Tenkasi-H-C-PSUSA-00010368-202003 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
-Adopted
-
-Reference Number: EMA/691672/2020
+Adopted Reference Number: EMA/691672/2020
 
 English (EN) (191.23 KB - PDF)
 
@@ -1116,58 +696,48 @@ Reference Number: EMA/443903/2018
 
 English (EN) (68.75 KB - PDF)
 
-**First published:** 04/07/2018
-
-**Last updated:** 04/07/2018
+**First published:** 04/07/2018 **Last updated:** 04/07/2018
 
 [View](/en/documents/scientific-conclusion/tenkasi-h-c-psusa-00010368-201709-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Tenkasi: EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/803704/2015
+Adopted Reference Number: EMA/CHMP/803704/2015
 
 English (EN) (3.95 MB - PDF)
 
-**First published:** 04/05/2015
-
-**Last updated:** 04/05/2015
+**First published:** 04/05/2015 **Last updated:** 04/05/2015
 
 [View](/en/documents/assessment-report/tenkasi-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Orbactiv
 
-Adopted
-
-Reference Number: EMA/CHMP/803701/2014
+Adopted Reference Number: EMA/CHMP/803701/2014
 
 English (EN) (88.07 KB - PDF)
 
-**First published:** 23/01/2015
-
-**Last updated:** 29/01/2015
+**First published:** 23/01/2015 **Last updated:** 29/01/2015
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-orbactiv_en.pdf)
 
-#### News on Tenkasi (previously Orbactiv)
+## News on Tenkasi (previously Orbactiv)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27 - 30 March 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-march-2023) 31/03/2023
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 27 - 30 March 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-27-30-march-2023)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 January 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-january-2015) 23/01/2015
+31/03/2023
 
-#### More information on Tenkasi (previously Orbactiv)
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 January 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-january-2015)
+
+23/01/2015
+
+## More information on Tenkasi (previously Orbactiv)
 
 - [EMEA-001270-PIP01-12-M07 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001270-pip01-12-m07)
 
-#### Topics
+**This page was last updated on**
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
-**This page was last updated on** 20/11/2024
+06/08/2026
 
 ## Share this page
-
-[Back to top](#main-content)

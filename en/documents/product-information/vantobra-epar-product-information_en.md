@@ -1,22 +1,24 @@
 ---
-document_datetime: 2023-12-13 14:27:49
-document_pages: 30
+document_datetime: 2026-08-05 09:35:06
+document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vantobra-epar-product-information_en.pdf
 document_name: vantobra-epar-product-information_en.pdf
 version: success
-processing_time: 6.286009
-conversion_datetime: 2025-12-18 09:43:58.724008
+processing_time: 6.3074339
+conversion_datetime: 2026-08-07 14:16:36.248761
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -76,7 +78,7 @@ No studies have been performed on patients with hepatic impairment. As tobramyci
 
 ## Patients after organ transplantation
 
-Adequate  data do  not  exist  for  the  use  of  inhaled  tobramycin  in  patients  after  organ  transplantation.  No recommendation for or against dose adjustment can be made for patients after organ transplantation.
+Adequate  data  do  not  exist  for  the  use  of  inhaled  tobramycin  in  patients  after  organ  transplantation.  No recommendation for or against dose adjustment can be made for patients after organ transplantation.
 
 ## Paediatric population
 
@@ -84,7 +86,7 @@ There is no relevant use of Vantobra in children below 6 years of age.
 
 ## Method of administration
 
-Inhalation use.
+## Inhalation use.
 
 Vantobra is administered by inhalation using the Tolero nebuliser handset provided in the pack. For detailed instructions on use see section 6.6.
 
@@ -112,7 +114,7 @@ There  is  an  increased  risk  of  ototoxicity  in  patients  with  mitochondri
 
 ## Nephrotoxicity
 
-Nephrotoxicity  has  been  associated  with  parenteral  aminoglycoside  therapy . There  was  no  evidence  of nephrotoxicity during clinical trials with inhaled tobramycin and Vantobra. Caution should be exercised when prescribing  Vantobra  to  patients  with known  or  suspected  renal dysfunction.  According to current  clinical practice baseline renal function should be assessed. Urea and creatinine levels should be reassessed after every 6 complete cycles of Vantobra therapy (180 days of nebulised aminoglycoside therapy).
+Nephrotoxicity  has  been  associated  with  parenteral  aminoglycoside  therapy . There  was  no  evidence  of nephrotoxicity during clinical trials with inhaled tobramycin and Vantobra, however acute kidney injury (AKI) has been reported post-marketing with the use of inhaled tobramycin (see section 4.8). Caution should be exercised when prescribing Vantobra to patients with known or suspected renal dysfunction. According to current  clinical  practice  baseline  renal  function  should  be  assessed.  Urea  and  creatinine  levels  should  be reassessed after every 6 complete cycles of Vantobra therapy (180 days of nebulised aminoglycoside therapy).
 
 ## Monitoring of serum tobramycin concentrations
 
@@ -128,7 +130,7 @@ Bronchospasm can occur with inhalation of medicinal products and has been report
 
 The first dose of Vantobra should be used under supervision of a physician, after taking a bronchodilator if this is part of the current regimen for the patient. FEV1 should be measured before and after nebulisation.
 
-If  there is evidence of therapy-induced bronchospasm, the physician should carefully evaluate whether the benefits of continued use of Vantobra outweighs the risks to the patient. If an allergic response is suspected, Vantobra should be discontinued.
+If  there  is  evidence of therapy-induced bronchospasm, the physician should carefully evaluate whether the benefits of continued use of Vantobra outweighs the risks to the patient. If an allergic response is suspected, Vantobra should be discontinued.
 
 ## Neuromuscular disorders
 
@@ -146,7 +148,7 @@ The  development  of  antibiotic-resistant  P.  aeruginosa  and  superinfection 
 
 ## Other precautions
 
-Patients receiving concomitant parenteral aminoglycoside therapy (or any medicine affecting renal excretion, such as diuretics)  should  be  monitored  as  clinically appropriate  taking  into  account the  risk  of  cumulative toxicity. This includes monitoring of serum concentrations of tobramycin.
+Patients receiving concomitant parenteral aminoglycoside therapy (or any medicine affecting renal excretion, such as diuretics) should be monitored as clinically appropriate taking into account the risk of cumulative toxicity. This includes monitoring of serum concentrations of tobramycin.
 
 Safety and efficacy have not been studied in patients colonised with Burkholderia cepacia .
 
@@ -157,7 +159,7 @@ No  interaction  studies  have  been  performed.  Based  on  the  interaction  p
 - -amphotericin B, cefalotin, ciclosporin, tacrolimus, polymyxins (risk of increased nephrotoxicity);
 - -platinum compounds (risk of increased nephrotoxicity and ototoxicity);
 
-Concurrent use of Vantobra with diuretic compounds (such as ethacrynic acid, furosemide, urea or mannitol) is not recommended.  Such  compounds  can  enhance  aminoglycoside toxicity by altering antibiotic concentrations in serum and tissue (see section 4.4).
+Concurrent use of Vantobra with diuretic compounds (such as ethacrynic acid, furosemide, urea or mannitol) is not recommended.  Such  compounds  can  enhance  aminoglycoside  toxicity  by  altering antibiotic concentrations in serum and tissue (see section 4.4).
 
 Other medicinal products that have been reported to increase the potential toxicity of parenterally administered aminoglycosides include:
 
@@ -169,7 +171,7 @@ In clinical studies patients using inhaled tobramycin continued to take dornase 
 
 ## Pregnancy
 
-There are limited data from the parenteral use of tobramycin in pregnant women. There are no adequate data from the use of tobramycin administered by inhalation in pregnant women. Animal studies do not indicate a teratogenic  effect  of tobramycin  (see  section 5.3).  However, aminoglycosides can  cause  foetal harm  (e.g., congenital deafness and nephrotoxicity) when high systemic concentrations are achieved in a pregnant woman. Systemic exposure following inhalation of Vantobra is very low (see section 5.2). If Vantobra is used during pregnancy, or if the patient becomes pregnant while taking Vantobra, she should be informed of the potential hazard to the foetus.
+There are limited data from the parenteral use of tobramycin in pregnant women. There are no adequate data from the use of tobramycin administered by inhalation in pregnant women. Animal studies do not indicate a teratogenic  effect  of  tobramycin (see  section 5.3).  However,  aminoglycosides  can  cause foetal  harm  (e.g., congenital deafness and nephrotoxicity) when high systemic concentrations are achieved in a pregnant woman. Systemic exposure following inhalation of Vantobra is very low (see section 5.2). If Vantobra is used during pregnancy, or if the patient becomes pregnant while taking Vantobra, she should be informed of the potential hazard to the foetus.
 
 Vantobra should not be used during pregnancy unless the benefits to the mother outweigh the risks to the foetus or baby.
 
@@ -201,7 +203,7 @@ Long-term safety data are not available for Vantobra (see also sections 4.2 and 
 
 Adverse drug reactions reported for tobramycin nebuliser solution are listed in Table 1.
 
-Adverse drug reactions are listed according to system organ classes in MedDRA. Within each system organ class, the adverse drug reactions are ranked by frequency, with the most frequent reactions first. Within each frequency  grouping,  adverse  reactions  are  presented  in  order  of  decreasing  seriousness.  In  addition,  the corresponding  frequency  category  is  provided  using  the  following  convention:  Very  common  ( ≥ 1/10); Common ( ≥ 1/100 to &lt; 1/10); Uncommon ( ≥ 1/1,000 to &lt; 1/100); Rare ( ≥ 1/10,000 to &lt; 1/1,000); Very rare (&lt; 1/10,000).
+Adverse drug reactions are listed according to system organ classes in MedDRA. Within each system organ class, the adverse drug reactions are ranked by frequency, with the most frequent reactions first. Within each frequency  grouping,  adverse  reactions  are  presented  in  order  of  decreasing  seriousness.  In  addition,  the corresponding  frequency  category  is  provided  using  the  following  convention:  Very  common  ( ≥ 1/10); Common ( ≥ 1/100 to &lt; 1/10); Uncommon ( ≥ 1/1,000 to &lt; 1/100); Rare ( ≥ 1/10,000 to &lt; 1/1,000); Very rare (&lt; 1/10,000); Not known (frequency cannot be estimated from the available data).
 
 Table 1 Adverse reactions
 
@@ -241,6 +243,8 @@ Table 1 Adverse reactions
 |                                                      | Very rare | Urticaria Pruritus                                                           |
 | Musculoskeletal and connective tissue disorders      |           |                                                                              |
 |                                                      | Very rare | Back pain                                                                    |
+| Renal and urinary disorders                          |           |                                                                              |
+|                                                      | Not known | Acute kidney injury (AKI)                                                    |
 | General disorders and administration site conditions |           |                                                                              |
 |                                                      | Rare      | Asthenia Pyrexia Pain Chest pain                                             |
 |                                                      | Very rare | Malaise                                                                      |
@@ -249,17 +253,17 @@ Table 1 Adverse reactions
 
 ## Paediatric population
 
+<div style=\"page-break-after: always\"></div>
+
 There  was  no  difference  in  the  safety  profile  between  pediatric  and  adult  patient  population  treated  with Vantobra.
 
 ## Reporting of suspected adverse reactions
-
-<div style=\"page-break-after: always\"></div>
 
 Reporting  suspected  adverse  reactions  after  authorisation  of  the  medicinal  product  is  important.  It  allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
-Administration by  inhalation  results  in  low  systemic  bioavailability  of  tobramycin.  Symptoms  of  aerosol overdose may include severe hoarseness.
+Administration  by  inhalation  results  in  low  systemic  bioavailability  of  tobramycin.  Symptoms  of  aerosol overdose may include severe hoarseness.
 
 In the event of accidental ingestion of Vantobra, toxicity is unlikely as tobramycin is poorly absorbed from an intact gastrointestinal tract.
 
@@ -279,17 +283,15 @@ Tobramycin  is  an  aminoglycoside  antibiotic  produced  by Streptomyces tenebr
 
 ## Breakpoints
 
-Established  susceptibility  breakpoints  for  parenteral  administration  of  tobramycin  are  inappropriate  in  the aerosolised administration of the medicinal product. Sputum of cystic fibrosis patients exhibits an inhibitory action on the local biological activity of nebulised aminoglycosides. This necessitates sputum concentrations following treatment with aerosolised tobramycin to be ten to twentyfive-fold above the Minimum Inhibitory Concentration  (MIC)  for  both P.  aeruginosa growth  suppression  and  control  of  bactericidal  activity.  In controlled clinical trials,  97%  of  patients receiving  tobramycin nebuliser solution  achieved  sputum concentrations  10-fold  of  the  highest P.  aeruginosa MIC  cultured  from  the  patient  and  95%  of  patients receiving tobramycin nebuliser solution achieved 25-fold of the highest MIC.
+Established  susceptibility  breakpoints  for  parenteral  administration  of  tobramycin  are  inappropriate  in  the aerosolised administration of the medicinal product. Sputum of cystic fibrosis patients exhibits an inhibitory action on the local biological activity of nebulised aminoglycosides. This necessitates sputum concentrations following treatment with aerosolised tobramycin to be ten to twentyfive-fold above the Minimum Inhibitory Concentration  (MIC)  for  both P.  aeruginosa growth  suppression  and  control  of  bactericidal  activity.  In controlled clinical  trials,  97%  of  patients  receiving  tobramycin  nebuliser  solution  achieved  sputum concentrations  10-fold  of  the  highest P.  aeruginosa MIC  cultured  from  the  patient  and  95%  of  patients receiving tobramycin nebuliser solution achieved 25-fold of the highest MIC.
 
 ## Susceptibility
 
 In the absence of conventional susceptibility breakpoints for the nebulised route of administration, caution must be exercised in defining organisms as susceptible or insusceptible to nebulised tobramycin.
 
-In clinical studies with TOBI, most patients with P. aeruginosa isolates with tobramycin MICs &lt; 128 µg/ml at baseline showed improved lung function following treatment with TOBI. Patients with a P. aeruginosa isolate with MIC 128 µg/ml at baseline are less likely to show a clinical response. However, seven of 13 patients
-
 <div style=\"page-break-after: always\"></div>
 
-(54%) in the placebo-controlled trials who acquired isolates with MICs of 128 µg/ml while using TOBI had improvement in pulmonary function.
+In clinical studies with TOBI, most patients with P. aeruginosa isolates with tobramycin MICs &lt; 128 µg/ml at baseline showed improved lung function following treatment with TOBI. Patients with a P. aeruginosa isolate with MIC 128 µg/ml at baseline are less likely to show a clinical response. However, seven of 13 patients (54%) in the placebo-controlled trials who acquired isolates with MICs of 128 µg/ml while using TOBI had improvement in pulmonary function.
 
 Based upon in-vitro data and/or clinical trial experience, the organisms associated with pulmonary infections in CF may be expected to respond to Vantobra therapy as follows:
 
@@ -297,17 +299,15 @@ Based upon in-vitro data and/or clinical trial experience, the organisms associa
 |---------------|----------------------------------------------------------------------------|
 | Insusceptible | Burkholderia cepacia Stenotrophomonas maltophilia Alcaligenes xylosoxidans |
 
-Treatment with the 28-days on and 28-days off dose regimen in clinical studies showed a small but clear increase in tobramycin, amikacin and gentamicin MICs for P. aeruginosa isolates tested. Each additional 6 months of treatment resulted in incremental increases similar in magnitude to that observed in the 6 months of controlled studies. The most prevalent aminoglycoside resistance mechanism seen in P. aeruginosa isolated from chronically infected CF patients is  impermeability,  defined by  a  general lack  of  susceptibility  to  all aminoglycosides. P.  aeruginosa isolated  from  CF  patients  has  also  been  shown  to  exhibit  adaptive aminoglycoside resistance that is characterised by a reversion to susceptibility when the antibiotic is removed.
+Treatment with the 28-days on and 28-days off dose regimen in clinical studies showed a small but clear increase in tobramycin, amikacin and gentamicin MICs for P. aeruginosa isolates tested. Each additional 6 months of treatment resulted in incremental increases similar in magnitude to that observed in the 6 months of controlled studies. The most prevalent aminoglycoside resistance mechanism seen in P. aeruginosa isolated from chronically infected CF  patients  is  impermeability,  defined  by  a  general  lack  of  susceptibility  to  all aminoglycosides. P.  aeruginosa isolated  from  CF  patients  has  also  been  shown  to  exhibit  adaptive aminoglycoside resistance that is characterised by a reversion to susceptibility when the antibiotic is removed.
 
 ## Other information
 
-There is no evidence that patients treated with up to 18 months with tobramycin nebuliser solution were at a greater risk for acquiring B. cepacia, S. maltophilia or A. xylosoxidans , than would be expected in untreated patients. Aspergillus species were more frequently recovered from the sputum of treated patients; however, clinical  sequelae  such  as  Allergic  Bronchopulmonary  Aspergillosis  (ABPA)  were  reported  rarely  and  with similar frequency as in the control group.
+There is no evidence that patients treated with up to 18 months with tobramycin nebuliser solution were at a greater risk for acquiring B. cepacia, S. maltophilia or A. xylosoxidans , than would be expected in untreated patients. Aspergillus species were more frequently recovered from the sputum of treated patients; however, clinical sequelae such as Allergic Bronchopulmonary Aspergillosis (ABPA) were reported rarely and with similar frequency as in the control group.
 
 ## Aerosol characteristics
 
-Table 2: Comparative performance data for the clinical test and reference batches:
-
-Vantobra /Tolero nebuliser handset 1 , and TOBI/PARI LC PLUS 2 .
+Table 2: Comparative performance data for the clinical test and reference batches: Vantobra /Tolero nebuliser handset 1 , and TOBI/PARI LC PLUS 2 .
 
 | Performance parameter/ Drug/Device combination *   | Vantobra/Tolero   | TOBI/PARI LC PLUS   |
 |----------------------------------------------------|-------------------|---------------------|
@@ -318,23 +318,15 @@ Vantobra /Tolero nebuliser handset 1 , and TOBI/PARI LC PLUS 2 .
 | Geometric Standard Deviation ±SD                   | 1.5 ± 0.0         | 2.3 ± 0.2           |
 | Nebulisation Time [min]                            | 3.9 ± 0.6         | 15.3 ± 0.6          |
 
-*Results from breath simulation and cascade impactor measurements.
-
-1 connected with an eBase controller or eFlow rapid controller
-
-2 connected with a PARI Boy SX compressor
-
 The drug delivery rate of Vantobra with the Tolero nebuliser is independent of the breathing pattern applied i.e. adult or child in contrast to the PARI LC PLUS nebuliser.
 
 ## Clinical efficacy and safety
 
-Limited data from one controlled clinical study over one treatment cycle indicate that the improvement in lung function was maintained above baseline during the 28-day off-treatment period.
-
-As a result of study 12012.101, lung function improvement FEV1% predicted relative to baseline increased by 8.2 ± 9.4% under Vantobra and by 4.8 ± 9.6% under the reference therapy in the first treatment cycle showing
-
 <div style=\"page-break-after: always\"></div>
 
-non-inferior  (p=0.0005)  efficacy.  CFU  reduction  as  an  indicator  for  suppression  of  P.  aeruginosa  was comparable for Vantobra and the reference product.
+Limited data from one controlled clinical study over one treatment cycle indicate that the improvement in lung function was maintained above baseline during the 28-day off-treatment period.
+
+As a result of study 12012.101, lung function improvement FEV1% predicted relative to baseline increased by 8.2 ± 9.4% under Vantobra and by 4.8 ± 9.6% under the reference therapy in the first treatment cycle showing non-inferior  (p=0.0005)  efficacy.  CFU  reduction  as  an  indicator  for  suppression  of  P.  aeruginosa  was comparable for Vantobra and the reference product.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -342,9 +334,9 @@ non-inferior  (p=0.0005)  efficacy.  CFU  reduction  as  an  indicator  for  sup
 
 The systemic exposure to tobramycin after inhalation of Vantobra is expected to emerge primarily from the inhaled  portion  of  the  medicinal  product  as  tobramycin  is  not  absorbed  to  any  appreciable  extent  when administered via the oral route. Inhalation of nebulised tobramycin produces high sputum concentrations and low plasma levels.
 
-## For comparative aerosol data please refer to Table 2 in section 5.1
+For comparative aerosol data please refer to Table 2 in section 5.1
 
-At the  end of  a 4-weeks  dosing cycle of  Vantobra  (170  mg/1.7  ml  twice daily)  in cystic  fibrosis patients, maximum tobramycin plasma concentrations (Cmax) of 1.27 ± 0.81 µg/ml were reached at approximately one hour after inhalation. Sputum concentrations were higher and more variable with Cmax of 1,951 + 2,187 µg/g. After administering a single dose of Vantobra 170 mg to healthy volunteers Cmax of 1.1 + 0.4 µg/ml were reached after a tmax of approximately 4 hours.
+At the end of a 4-weeks dosing cycle of Vantobra (170 mg/1.7 ml twice daily) in cystic fibrosis patients, maximum tobramycin plasma concentrations (Cmax) of 1.27 ± 0.81 µg/ml were reached at approximately one hour after inhalation. Sputum concentrations were higher and more variable with Cmax of 1,951 + 2,187 µg/g. After administering a single dose of Vantobra 170 mg to healthy volunteers Cmax of 1.1 + 0.4 µg/ml were reached after a tmax of approximately 4 hours.
 
 ## Distribution
 
@@ -360,7 +352,7 @@ The elimination of tobramycin administered by the inhalation route has not been 
 
 Following intravenous administration, systemically absorbed tobramycin is eliminated by glomerular filtration. The elimination half-life of tobramycin from serum is approximately 2 hours.
 
-Unabsorbed  tobramycin following administration by inhalation is probably eliminated primarily in expectorated sputum.
+Unabsorbed  tobramycin  following  administration  by inhalation is probably eliminated primarily in expectorated sputum.
 
 ## 5.3 Preclinical safety data
 
@@ -410,19 +402,34 @@ The contents of one ampoule should be emptied into the medication reservoir of t
 - Nebulisation should take place in a well ventilated room.
 - The nebuliser handset must be kept horizontally during operation.
 - The patient should sit in an upright position during inhalation. Inhalation should be performed by applying a normal breathing pattern without interruption.
-- The Tolero nebuliser handset must be cleaned and disinfected as described in the instructions for use of the device.
-
-Vantobra is a clear to slightly yellow solution, but some variability in colour may be observed, which does not indicate loss of activity if the product is stored as recommended.
 
 <div style=\"page-break-after: always\"></div>
 
-Vantobra solution is a sterile, aqueous preparation for single use only. As it is preservative-free, the contents of the whole ampoule should be used immediately after opening and any unused solution should be discarded. Opened ampoule should never be stored for re-use.
+·
 
-Use a new Tolero nebuliser handset for each treatment cycle (28 days on-treatment) as provided with the medicine.
+The Tolero nebuliser handset must be cleaned and disinfected as described in the instructions for use of the
+
+device.
+
+Vantobra is a clear to slightly yellow solution, but some variability in colour may be observed, which does not
+
+indicate loss of activity if the product is stored as recommended.
+
+Vantobra solution is a sterile, aqueous preparation for single use only. As it is preservative-free, the contents
+
+of the whole ampoule should be used immediately after opening and any unused solution should be discarded.
+
+Opened ampoule should never be stored for re-use.
+
+Use a new Tolero nebuliser handset for each treatment cycle (28 days on-treatment) as provided with the
+
+medicine.
 
 Any unused medicinal product or waste material should be disposed off in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
+
+MARKETING AUTHORISATION HOLDER
 
 PARI Pharma GmbH Moosstrasse 3 82319 Starnberg Germany
 
@@ -446,19 +453,21 @@ Date of first authorisation: 18 February 2019
 
 Date of latest renewal: 15 September 2023
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+[Agency http://www.ema.europa.eu.](http://www.ema.europa.eu/)
+
+12
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -574,7 +583,9 @@ Vantobra 170 mg
 
 ## 18. UNIQUE IDENTIFIER \\_ HUMAN READABLE DATA
 
-PC: SN:
+PC:
+
+SN:
 
 NN:
 
@@ -622,8 +633,6 @@ EXP
 
 Store in a refrigerator.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -648,7 +657,9 @@ Vantobra 170 mg
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER \\_ HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER \\_ HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -694,10 +705,6 @@ EXP
 
 Store in a refrigerator.
 
-| 10.                                                                | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTSOR    |
-|--------------------------------------------------------------------|--------------------------------------------------------------------|
-| WASTE MATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE | WASTE MATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE |
-
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -724,9 +731,9 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| AMPOULE                                                          |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| AMPOULE                                                            |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -785,9 +792,9 @@ Vantobra contains an antibiotic medicine called tobramycin. It belongs to a clas
 
 ## What Vantobra is used for
 
-Vantobra is used in patients  with  cystic  fibrosis  aged  6  years  and  older  to  treat  lung  infections  caused  by bacteria named Pseudomonas aeruginosa .
+Vantobra is used in patients with cystic fibrosis aged 6 years and older to treat lung infections caused by bacteria named Pseudomonas aeruginosa .
 
-Pseudomonas aeruginosa is  a bacterium that frequently infects the lungs of cystic fibrosis patients at some time during their lives. If the infection is not properly treated, it continues to damage the lungs, causing further problems with breathing.
+Pseudomonas aeruginosa is a bacterium that frequently infects the lungs of cystic fibrosis patients at some time during their lives. If the infection is not properly treated, it continues to damage the lungs, causing further problems with breathing.
 
 ## How Vantobra works
 
@@ -863,9 +870,9 @@ Please check this order with your doctor as well.
 
 ## Pregnancy and breast-feeding
 
-If  you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before using this medicine.
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before using this medicine.
 
-It is not known whether inhaling this medicine while you are pregnant causes side effects. When they are given by injection, tobramycin  and other  aminoglycoside  antibiotics  can cause  harm to an  unborn  child,  such  as deafness and kidney problems.
+It is not known whether inhaling this medicine while you are pregnant causes side effects. When they are given by injection, tobramycin and other aminoglycoside antibiotics can cause harm to an unborn child, such as deafness and kidney problems.
 
 If you are breast feeding, you should talk to your doctor before using this medicine.
 
@@ -884,6 +891,8 @@ The recommended dose is two ampoules each day (one in the morning and one in the
 - It is best to have an interval as close as possible to 12 hours between doses, but this interval must be at least 6 hours.
 - After you have used your medicine for 28 days, you then have a 28-day break, during which you do not inhale any Vantobra. You then start another course after the break (as illustrated).
 - It is important that you keep using the medicine twice each day during your 28 days on treatment, and that you keep to the 28-day on / 28-day off cycle.
+
+Repeat cycle
 
 <!-- image -->
 
@@ -905,7 +914,7 @@ Continue using Vantobra on this cyclical basis for as long as your doctor tells 
 - Lay out all the pieces of your Tolero nebuliser handset on a clean, dry paper or cloth towel. Make sure the nebuliser handset is on a flat, stable surface.
 - Assemble the Tolero nebuliser handset as illustrated in the Instructions for Use of the handset device.
 - Hold the ampoule upright and tap lightly before twisting off the head part to avoid spilling. Empty the contents of one ampoule into the medication reservoir of the nebuliser handset.
-- Begin your  treatment  sitting  in  an  upright  position,  in  a  well  ventilated  room.  Hold  the  nebuliser handset horizontally and breath normally through your mouth. Avoid breathing through your nose. Continue to inhale and exhale comfortably until the treatment is finished. When all of the medicine has been delivered, you will hear the 'treatment complete' tone.
+- Begin your treatment sitting  in  an  upright  position,  in  a  well  ventilated  room.  Hold  the  nebuliser handset horizontally and breath normally through your mouth. Avoid breathing through your nose. Continue to inhale and exhale comfortably until the treatment is finished. When all of the medicine has been delivered, you will hear the 'treatment complete' tone.
 - If you need to interrupt your treatment for any reason, press and hold the On/Off button for one full second. To re-start the treatment, press and hold the On/Off button again for one full second to resume treatment.
 - The Tolero nebuliser handset must be cleaned and disinfected as described in the instructions for use of the device.
 - Use a new Tolero nebuliser handset for each treatment cycle (28 days on-treatment) as provided with the medicine.
@@ -935,7 +944,8 @@ Like all medicines, this medicine can cause side effects, although not everybody
 ## Some side effects can be serious
 
 - chest tightness with difficulty in breathing (rare, affecting up to 1 in 1,000 people)
-- allergic reactions including hives and itching (very rare, affecting up to 1 in 10,000 people).
+- allergic reactions including hives and itching (very rare, affecting up to 1 in 10,000 people)
+- low urine volume, vomiting, confusion and swelling in the legs, ankles or feet, as these may be signs of sudden decrease in kidney function (not known).
 
 If you experience any of these, stop using Vantobra and tell your doctor straight away.
 
@@ -984,9 +994,9 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 
 ## 5. How to store Vantobra
 
-Keep this medicine out of the sight and reach of children.
-
 <div style=\"page-break-after: always\"></div>
+
+Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the ampoule or the sachet or box after EXP. The expiry date refers to the last day of that month.
 
@@ -1031,6 +1041,28 @@ E-Mail:  info@paripharma.com
 
 ## This leaflet was last revised in
 
-## Other sources of information
+Other sources of information Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
+<div style=\"page-break-after: always\"></div>
+
+## Annex IV
+
+## Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for tobramycin (nebuliser solution) (centrally authorised product only), the scientific conclusions of PRAC are as follows:
+
+In view of available data on nephrotoxicity from the literature, including in some cases a close temporal relationship and a positive de-challenge, the PRAC considers that a causal relationship between tobramycin (nebuliser solution) (centrally authorised product only) and acute kidney injury (AKI) is at least a reasonable possibility.
+
+The PRAC concluded that the product information of products containing tobramycin (nebuliser solution) (centrally authorised product only) should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for tobramycin (nebuliser solution) (centrally authorised product only) the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing tobramycin (nebuliser solution) (centrally authorised product only) is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 21:11:35
+document_datetime: 2026-08-04 13:09:11
 document_pages: 27
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/elmiron-epar-product-information_en.pdf
 document_name: elmiron-epar-product-information_en.pdf
 version: success
-processing_time: 8.0577117
-conversion_datetime: 2025-12-20 16:23:58.150097
+processing_time: 7.1360254
+conversion_datetime: 2026-08-07 14:31:22.049834
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -134,7 +134,7 @@ The adverse events reported under treatment with pentosan polysulfate sodium wer
 
 ## Tabulated summary of adverse events
 
-Adverse  events  are listed below by MedDRA  body  system  organ  class and by frequency. common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from available data).
+Adverse  events  are  listed  below  by  MedDRA  body  system  organ  class  and  by  frequency.  Very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from available data) .
 
 | Infections and infestations                     | Common    | Infections, influenza                                          |
 |-------------------------------------------------|-----------|----------------------------------------------------------------|
@@ -150,8 +150,6 @@ Adverse  events  are listed below by MedDRA  body  system  organ  class and by f
 | Ear disorders                                   | Uncommon  | Tinnitus                                                       |
 | Respiratory, thoracic and mediastinal disorders | Uncommon  | Dyspnoea                                                       |
 | Gastrointestinal disorders                      | Common    | Nausea, diarrhoea, dyspepsia, abdominal                        |
-
-Very
 
 <div style=\"page-break-after: always\"></div>
 
@@ -186,25 +184,23 @@ The hypothetic mechanism of action of pentosan polysulfate sodium includes a loc
 
 ## Clinical efficacy and safety
 
-A total of four randomised placebo-controlled, double-blind clinical studies prospectively enrolling patients with bladder pain syndrome diagnosed via cystoscopic examination with or without bladder hydrodistension evaluating the efficacy of oral treatment with pentosan polysulfate sodium were published in scientific literature. In all of these studies, patients reported a better subjective improvement of bladder pain syndrome under treatment with pentosan polysulfate sodium compared to placebo. In three studies, the observed difference was clearly statistically significant. The first study was a double-blind, randomized, placebo-controlled study with a planned cross-over design evaluating pentosan polysulfate sodium versus placebo. Depending on which institution the patients attended they were treated with either 3x100 mg or 2x200 mg PPS per day. 75 patients were randomised into the study and 62 of those completed the study. Efficacy of treatment was evaluated
+A total of four randomised placebo-controlled, double-blind clinical studies prospectively enrolling patients with bladder pain syndrome diagnosed via cystoscopic examination with or without bladder hydrodistension evaluating the efficacy of oral treatment with pentosan polysulfate sodium were published in scientific literature. In all of these studies, patients reported a better subjective improvement of bladder pain syndrome under treatment with pentosan polysulfate sodium compared to placebo. In three studies, the observed difference was clearly statistically significant. The first study was a double-blind, randomized, placebo-controlled study with a planned cross-over design evaluating pentosan polysulfate sodium versus placebo. Depending on which institution the patients attended they were treated with either 3x100 mg or 2x200 mg PPS per day. 75 patients were randomised into the study and 62 of those completed the study. Efficacy of treatment was evaluated based on the patient reported improvement on four typical symptoms of bladder pain syndrome: pain, urgency, frequency, and nocturia, no primary endpoint was defined. A patient was counted as a responder to treatment in case a 50 % improvement compared to baseline was reported for a specific symptom after 3 months of treatment. An evaluation of all data generated in the study showed that for all four symptoms statistically significant more patients responded to pentosan polysulfate sodium treatment compared to placebo:
 
 <div style=\"page-break-after: always\"></div>
 
-based on the patient reported improvement on four typical symptoms of bladder pain syndrome: pain, urgency, frequency, and nocturia, no primary endpoint was defined. A patient was counted as a responder to treatment in case a 50 % improvement compared to baseline was reported for a specific symptom after 3 months of treatment. An evaluation of all data generated in the study showed that for all four symptoms statistically significant more patients responded to pentosan polysulfate sodium treatment compared to placebo:
-
-|                            | PPS        | Placebo    | P-value   |
+|                            | PPS        | Placebo    |   P-value |
 |----------------------------|------------|------------|-----------|
 | Pain                       |            |            |           |
-| No. responders / total (%) | 19/42 (45) | 7/38 (18)  | 0.02      |
-| Av. %improvement*          | 33.0 ± 35  | 15.8 ± 26  | 0.01      |
+| No. responders / total (%) | 19/42 (45) | 7/38 (18)  |      0.02 |
+| Av. % improvement*         | 33.0 ± 35  | 15.8 ± 26  |      0.01 |
 | Urgency                    |            |            |           |
-| No. responders / total (%) | 21/42 (50) | 9/48 (19)  | 0.03      |
-| Av. %improvement*          | 27.6 ± 31  | 14.0 ± 24  | 0.01      |
+| No. responders / total (%) | 21/42 (50) | 9/48 (19)  |      0.03 |
+| Av. % improvement*         | 27.6 ± 31  | 14.0 ± 24  |      0.01 |
 | Frequency                  |            |            |           |
-| No. responders / total (%) | 33/52 (63) | 16/41 (39) | 0.005     |
-| Av. improvement            | -5.1       | -0.4       | 0.002     |
+| No. responders / total (%) | 33/52 (63) | 16/41 (39) |     0.005 |
+| Av. improvement            | -5.1       | -0.4       |     0.002 |
 | Nocturia                   |            |            |           |
-| Av. improvement*           | -1.5 ± 2.9 | -0.5 ± 0.5 | 0.04      |
+| Av. improvement*           | -1.5 ± 2.9 | -0.5 ± 0.5 |      0.04 |
 
 (*Mean ± SD)
 
@@ -214,13 +210,13 @@ The following two studies were conducted following very comparable double-blind,
 
 |                                                                      | PPS   | Placebo   | P-value   |
 |----------------------------------------------------------------------|-------|-----------|-----------|
-| Responders based on patients' self-evaluation of overall improvement | 28%   | 13%       | 0.04      |
-| Responders based on investigators' evaluation of overall improvement | 26%   | 11%       | 0.03      |
+| Responders based on patients' self-evaluation of overall improvement | 28 %  | 13 %      | 0.04      |
+| Responders based on investigators' evaluation of overall improvement | 26 %  | 11 %      | 0.03      |
 | Responders regarding pain and urgency                                |       |           |           |
-| Pain (moderate/50 %improvement)                                      | 27%   | 14%       | 0.08      |
-| Pain scale (1-point improvement)                                     | 46%   | 29%       | 0.07      |
-| Pressure to urinate (moderate/50 %improvement)                       | 22%   | 11%       | 0.08      |
-| Urgency scale (1-point improvement)                                  | 39%   | 46%       | ns        |
+| Pain (moderate/50 % improvement)                                     | 27 %  | 14 %      | 0.08      |
+| Pain scale (1-point improvement)                                     | 46 %  | 29 %      | 0.07      |
+| Pressure to urinate (moderate/50 % improvement)                      | 22 %  | 11 %      | 0.08      |
+| Urgency scale (1-point improvement)                                  | 39 %  | 46 %      | ns        |
 | Mean reduction in pain score from baseline                           | 0.5   | 0.2       | ns        |
 | Changes from baseline voiding characteristics                        |       |           |           |
 | Mean volume per void (cc)                                            | 9.8   | 7.6       | ns        |
@@ -230,22 +226,22 @@ The following two studies were conducted following very comparable double-blind,
 
 | Total daily urine volume (cc)   |   +60 |   -20 | ns   |
 |---------------------------------|-------|-------|------|
-| Voids per day                   |  -1   |  -1   | ns   |
-| 3 voids less per day (% pts)    |  32   |  24   | ns   |
+| Voids per day                   |    -1 |    -1 | ns   |
+| 3 voids less per day (% pts)    |    32 |    24 | ns   |
 | Nocturia                        |  -0.8 |  -0.5 | ns   |
 
 The second of the two very comparable studies enrolled 148 patients and demonstrated a statistically significant benefit pentosan polysulfate sodium over placebo was demonstrated on the patient reported overall improvement evaluated as primary endpoint and the investigator-assessed overall improvement, all evaluations on pain and urgency. A trend for better efficacy under pentosan polysulfate sodium was observed for improved sexual intercourse:
 
 |                                                                      | PPS   | Placebo   | P-value   |
 |----------------------------------------------------------------------|-------|-----------|-----------|
-| Responders based on patients' self-evaluation of overall improvement | 32%   | 16%       | 0.01      |
-| Responders based on investigators' evaluation of overall improvement | 36%   | 15%       | 0.002     |
+| Responders based on patients' self-evaluation of overall improvement | 32 %  | 16 %      | 0.01      |
+| Responders based on investigators' evaluation of overall improvement | 36 %  | 15 %      | 0.002     |
 | Responders regarding pain and urgency                                |       |           |           |
-| Pain (moderate/50 %improvement)                                      | 38%   | 18%       | 0.005     |
-| Pain scale (1-point improvement)                                     | 66%   | 51%       | 0.04      |
-| Pressure to urinate (moderate/50 %improvement)                       | 30%   | 18%       | 0.04      |
-| Responders regarding pain and urgency                                | 61%   | 43%       | 0.01      |
-| Improved sexual intercourse                                          | 31%   | 18%       | 0.06      |
+| Pain (moderate/50 % improvement)                                     | 38 %  | 18 %      | 0.005     |
+| Pain scale (1-point improvement)                                     | 66 %  | 51 %      | 0.04      |
+| Pressure to urinate (moderate/50 % improvement)                      | 30 %  | 18 %      | 0.04      |
+| Responders regarding pain and urgency                                | 61 %  | 43 %      | 0.01      |
+| Improved sexual intercourse                                          | 31 %  | 18 %      | 0.06      |
 | Changes from baseline voided volume                                  |       |           |           |
 | Mean volume per void (cc)                                            | +20.4 | -2.1      | ns        |
 | Increase of ≥ 20 cc (% pts)                                          | 40    | 24        | 0.02      |
@@ -265,19 +261,17 @@ The fourth study was following a double-blind, double-dummy, multifactorial desi
 | Mean IC problem index ± SD (0-16)         | -2.6 ± 3.5 | -1.9 ± 2.8 |
 | Mean Wisconsin IC score ± SD (0-42)       | -6.2 ± 8.9 | -6.7 ± 8.2 |
 
-A pooled analysis of the data described above from placebo-controlled clinical studies was conducted to evaluate, whether patients taking oral pentosan polysulfate sodium have clear benefit from the
+A pooled analysis of the data described above from placebo-controlled clinical studies was conducted to evaluate, whether patients taking oral pentosan polysulfate sodium have clear benefit from the treatment. This pooled analysis showed that the percentage of patients responding to treatment with pentosan polysulfate sodium with a clinically relevant improvement in their overall assessment, pain and urgency was approximately 2-fold higher than the respective responder rates under placebo:
 
 <div style=\"page-break-after: always\"></div>
 
-treatment. This pooled analysis showed that the percentage of patients responding to treatment with pentosan polysulfate sodium with a clinically relevant improvement in their overall assessment, pain and urgency was approximately 2-fold higher than the respective responder rates under placebo:
-
-|               | PPS                   | Placebo               |
-|---------------|-----------------------|-----------------------|
-| GRA (95 %CI)  | 33.0% (27.1 %-39.4 %) | 15.8% (11.6 %-21.2 %) |
-| Pain (95 %CI) | 32.7% (26.0 %-40.3 %) | 14.2% (9.6 %-20.6 %)  |
-| Urgency (95   | 27.4% (21.1 %-34.8    | 14.2% (9.6 %-20.6 %)  |
-| %CI)          |                       |                       |
-|               | %)                    |                       |
+|                | PPS                      | Placebo                  |
+|----------------|--------------------------|--------------------------|
+| GRA (95 % CI)  | 33.0 % (27.1 % - 39.4 %) | 15.8 % (11.6 % - 21.2 %) |
+| Pain (95 % CI) | 32.7 % (26.0 % - 40.3 %) | 14.2 % (9.6 % - 20.6 %)  |
+| Urgency        | 27.4 % (21.1 % - 34.8    | 14.2 % (9.6 % - 20.6 %)  |
+| (95 % CI)      |                          |                          |
+|                | %)                       |                          |
 
 ## 5.2 Pharmacokinetic properties
 
@@ -295,11 +289,11 @@ Pentosan polysulfate sodium is metabolised extensively by desulfation in liver a
 
 ## Elimination
 
-The apparent plasma half-life of pentosan polysulfate sodium depends on the route of administration. While pentosan polysulfate sodium is rapidly cleared from circulation of i.v. administration, the apparent plasma half-life after oral administration is in the range of 24 -34 hours. Accordingly, oral administration of pentosan polysulfate sodium 3-times daily is expected to lead to accumulation of pentosan polysulfate sodium over the first 7 days of administration (accumulation factor 5-6.7). After oral administration unabsorbed pentosan polysulfate sodium is excreted predominantly unchanged in the faeces. About 6 % of the administered dose of pentosan polysulfate sodium were excreted via urine after desulfation and depolymerisation.
+The apparent plasma half-life of pentosan polysulfate sodium depends on the route of administration. While pentosan polysulfate sodium is rapidly cleared from circulation of i.v. administration, the apparent plasma half-life after oral administration is in the range of 24-34 hours. Accordingly, oral administration of pentosan polysulfate sodium 3-times daily is expected to lead to accumulation of pentosan polysulfate sodium over the first 7 days of administration (accumulation factor 5-6.7). After oral administration unabsorbed pentosan polysulfate sodium is excreted predominantly unchanged in the faeces. About 6 % of the administered dose of pentosan polysulfate sodium were excreted via urine after desulfation and depolymerisation.
 
 ## 5.3 Preclinical safety data
 
-Non-clinical data reveal no special hazard for humans based on conventional repeated dose  toxicity, genotoxicity and long-term carcinogenicity studies.
+Non-clinical data reveal no special hazard for humans based on conventional repeated dose toxicity, genotoxicity and long-term carcinogenicity studies.
 
 The effect of pentosan polysulfate sodium on reproductive and developmental toxicity has not been investigated.
 
@@ -325,7 +319,7 @@ Not applicable.
 
 Bottle:
 
-3 years.
+5 years.
 
 After first opening: use within 45 days.
 
@@ -371,15 +365,11 @@ No special requirements.
 
 bene-Arzneimittel GmbH Herterichstrasse 1-3 D-81479 Munich
 
-tel: ++49 (0) 89 / 7 49 87-0
-
-fax: ++49 (0) 89 / 7 49 87-142
-
-e-mail: contact@bene-arzneimittel.de
-
 <div style=\"page-break-after: always\"></div>
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/17/1189/001 EU/1/17/1189/002
 
@@ -408,7 +398,9 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) responsible for batch release bene-Arzneimittel GmbH Herterichstr. 1 - 3 81479 Munich GERMANY
+Name and address of the manufacturer(s) responsible for batch release
+
+bene-Arzneimittel GmbH Herterichstr. 1 - 3 81479 Munich GERMANY
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -487,7 +479,7 @@ After first opening: use within 45 days.
 
 Keep the bottle tightly closed in order to protect from moisture.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -495,9 +487,7 @@ bene-Arzneimittel GmbH, PO Box 710269, 81452 Munich, Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/17/1189/001 90 capsules
-
-EU/1/17/1189/003 300 (3 bottles x 100) capsules
+EU/1/17/1189/001 90 capsules EU/1/17/1189/003 300 (3 bottles x 100) capsules
 
 ## 13. BATCH NUMBER
 
@@ -535,7 +525,7 @@ elmiron 100 mg capsules, hard pentosan polysulfate sodium
 
 Each capsule contains 100 mg of pentosan polysulfate sodium.
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -551,9 +541,9 @@ Read the package leaflet before use. Oral use
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -567,8 +557,8 @@ Do not store above 30 °C.
 
 <div style=\"page-break-after: always\"></div>
 
-| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATION HOLDER   |
-|-------|-------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -586,7 +576,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 elmiron
 
@@ -650,8 +640,8 @@ Keep the bottle tightly closed in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -659,9 +649,7 @@ bene-Arzneimittel GmbH, PO Box 710269, 81452 Munich, Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/17/1189/001 90 capsules
-
-EU/1/17/1189/003 300 (3 bottles x 100) capsules
+EU/1/17/1189/001 90 capsules EU/1/17/1189/003 300 (3 bottles x 100) capsules
 
 ## 13. BATCH NUMBER&lt;, DONATION AND PRODUCT CODES&gt;
 
@@ -670,22 +658,21 @@ Lot
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
-|------|--------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 elmiron 100 mg capsules, hard pentosan polysulfate sodium
 
-| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
-|------|---------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 bene-Arzneimittel GmbH
 
@@ -878,8 +865,11 @@ Do not throw away any medicines via wastewater. Ask your pharmacist how to throw
 
 <div style=\"page-break-after: always\"></div>
 
-- The active substance is pentosan polysulfate sodium. One capsule contains 100 mg pentosan polysulfate sodium.
-- •
+- The active substance is pentosan polysulfate sodium.
+
+One capsule contains 100 mg pentosan polysulfate sodium.
+
+- ·
 - The other ingredients are: Capsule content: microcrystalline cellulose, magnesium stearate Capsule shell: gelatin, titanium dioxide (E171)
 
 ## What elmiron looks like and contents of the pack
@@ -912,13 +902,17 @@ For any information about this medicine, please contact the local representative
 
 bene-Arzneimittel GmbH, D-81479 Munich,
 
-Германия / Německo / Saksamaa / Γερμανία / Germany / Þýskaland / Germania / Vācija / Il- Ġermanja / Alemanha / Nemecko,
+Германия / Německo / Saksamaa / Γερμανία / Germany / Þýskaland / Germania / Vācija / Il -
 
-Tel / Teл. / Τηλ / Sími / Tel.: +49 (0)89 749870, contact@bene-arzneimittel.de
+Ġermanja / Alemanha / Nemecko,
+
+Tel / Te л . / Τηλ / Sími / Tel.: +49 (0)89 749870, contact@bene-arzneimittel.de
 
 ## AT
 
-SIGMAPHARM Arzneimittel GmbH, Leystraße 129, A-1200 Wien, Österreich,
+SIGMAPHARM Arzneimittel GmbH, Leystraße 129, A-1200 Wien,
+
+Österreich,
 
 Tel.: +43 (0) 1 330 06 71-0, mail@sigmapharm.at
 
@@ -988,7 +982,7 @@ Tel: +353 (0) 1 2057760, irishoffice@consilienthealth.com
 
 ## LT
 
-UAB Norameda, Meistrų g. 8A, LT-02189 Vilnius,
+UAB Norameda, Meistrų g. 8A, LT -02189 Vilnius,
 
 Lietuva,
 

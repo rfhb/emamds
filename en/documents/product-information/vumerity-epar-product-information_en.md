@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-02-05 09:56:42
-document_pages: 38
+document_datetime: 2026-08-06 17:49:11
+document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vumerity-epar-product-information_en.pdf
 document_name: vumerity-epar-product-information_en.pdf
 version: success
-processing_time: 12.6761175
-conversion_datetime: 2025-12-29 22:01:18.640526
+processing_time: 6.8611697
+conversion_datetime: 2026-08-07 14:16:14.722416
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -42,11 +42,11 @@ White capsule, size 0 (approximately 22 mm in length), printed with 'DRF 231 mg'
 
 ## 4.1 Therapeutic indications
 
-Vumerity is indicated for the treatment of adult patients with relapsing remitting multiple sclerosis (see section 5.1 for important information on the populations for which efficacy has been established).
+Vumerity is indicated for the treatment of adult patients with relapsing remitting multiple sclerosis (RRMS) (see section 5.1 for important information on the populations for which efficacy has been established).
 
 ## 4.2 Posology and method of administration
 
-Treatment should be initiated under supervision of a physician experienced in the treatment of multiple sclerosis.
+Treatment should be initiated under supervision of a physician experienced in the treatment of multiple sclerosis (MS).
 
 ## Posology
 
@@ -60,7 +60,7 @@ If a patient misses a dose, a double dose should not be taken. The patient may t
 
 ## Elderly
 
-Based on uncontrolled study data, the safety profile of diroximel fumarate in patients ≥ 55 years of age seems to be comparable to patients &lt;55 years of age. Clinical studies with diroximel fumarate had limited exposure to patients aged 65 years and above and did not include sufficient numbers of patients aged 65 years and above to determine whether they respond differently than younger patients (see section 5.2). Based on the mechanism of action of the active substance there are no theoretical reasons for any requirement for dose adjustments in the elderly.
+Based on uncontrolled study data, the safety profile of diroximel fumarate in patients ≥55 years of age seems to be comparable to patients &lt;55 years of age. Clinical studies with diroximel fumarate had limited exposure to patients aged 65 years and above and did not include sufficient numbers of patients aged 65 years and above to determine whether they respond differently than younger patients (see section 5.2). Based on the mechanism of action of the active substance there are no theoretical reasons for any requirement for dose adjustments in the elderly.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -100,11 +100,9 @@ Diroximel fumarate and dimethyl fumarate are metabolised to monomethyl fumarate 
 
 Changes in renal laboratory tests have been seen in clinical trials in patients treated with dimethyl fumarate (see section 4.8). The clinical implications of these changes are unknown. Assessment of renal function (e.g. creatinine, blood urea nitrogen and urinalysis) is recommended prior to treatment initiation with Vumerity, after 3 and 6 months of treatment, every 6 to 12 months thereafter and as clinically indicated.
 
-Drug-induced liver injury, including liver enzyme increase ( ≥ 3 x upper limit of normal (ULN)) and elevation of total bilirubin levels ( ≥ 2 x ULN) can result from treatment with dimethyl fumarate. The time to onset can be directly, several weeks or longer. Resolution of the adverse reactions has been observed after treatment was discontinued. Assessment of serum aminotransferases (e.g. alanine
+Druginduced liver injury, including liver enzyme increase (≥ 3 x upper limit of normal (ULN)) and elevation of total bilirubin levels (≥ 2 x ULN) can result from treatment with dimethyl fumarate. The time to onset can be directly, several weeks or longer. Resolution of the adverse reactions has been observed after treatment was discontinued. Assessment of serum aminotransferases (e.g. alanine aminotransferase (ALT), aspartate aminotransferase (AST)) and total bilirubin levels are recommended prior to treatment initiation and during treatment as clinically indicated.
 
 <div style=\"page-break-after: always\"></div>
-
-aminotransferase (ALT), aspartate aminotransferase (AST)) and total bilirubin levels are recommended prior to treatment initiation and during treatment as clinically indicated.
 
 Patients treated with diroximel fumarate may develop lymphopenia (see section 4.8). Prior to initiating treatment, a current complete blood count, including lymphocytes, must be performed. If the lymphocyte count is found to be below the normal range, a thorough assessment of possible causes should be completed prior to initiation of treatment. Vumerity has not been studied in patients with pre-existing low lymphocyte counts and caution should be exercised when treating these patients. Treatment should not be initiated in patients with severe lymphopenia (lymphocyte counts &lt;0.5 x 10 9 /L).
 
@@ -112,9 +110,9 @@ After starting therapy, complete blood counts, including lymphocytes, must be pe
 
 Enhanced vigilance due to an increased risk for Progressive Multifocal Leukoencephalopathy (PML) is recommended in patients with lymphopenia as follows:
 
--  Treatment should be discontinued in patients with prolonged severe lymphopenia (lymphocyte counts &lt; 0.5 x 10 9 /L) persisting for more than 6 months.
--  In patients with sustained moderate reductions of absolute lymphocyte counts ≥ 0.5 x 10 9 /L to &lt; 0.8 x 10 9 /L for more than 6 months, the benefit/risk of treatment should be re-assessed.
--  In patients with lymphocyte counts below LLN, as defined by local laboratory reference range, regular monitoring of absolute lymphocyte counts is recommended. Additional factors that might further augment the individual PML risk should be considered (see subsection on PML).
+- Treatment should be discontinued in patients with prolonged severe lymphopenia (lymphocyte counts &lt; 0.5 x 10 9 /L) persisting for more than 6 months.
+- In patients with sustained moderate reductions of absolute lymphocyte counts ≥ 0.5 x 10 9 /L to &lt; 0.8 x 10 9 /L for more than 6 months, the benefit/risk of treatment should be re-assessed.
+- In patients with lymphocyte counts below lower limit of normal (LLN), as defined by local laboratory reference range, regular monitoring of absolute lymphocyte counts is recommended. Additional factors that might further augment the individual PML risk should be considered (see subsection on PML).
 
 Lymphocyte counts should be followed until recovery (see section 5.1). Upon recovery and in the absence of alternative treatment options, decisions about whether or not to restart Vumerity after treatment discontinuation should be based on clinical judgement.
 
@@ -130,9 +128,9 @@ PML cases have occurred with dimethyl fumarate and other medicinal products cont
 
 Additional factors that might contribute to an increased risk for PML in the setting of lymphopenia are:
 
--  duration of Vumerity therapy. Cases of PML have occurred after approximately 1 to 5 years of dimethyl fumarate treatment, although the exact relationship with duration of treatment is unknown.
--  profound decreases in CD4+ and especially in CD8+ T cell counts, which are important for immunological defense (see section 4.8), and
--  prior immunosuppressive or immunomodulatory therapy (see below).
+- duration of Vumerity therapy. Cases of PML have occurred after approximately 1 to 5 years of dimethyl fumarate treatment, although the exact relationship with duration of treatment is unknown.
+- profound decreases in CD4+ and especially in CD8+ T cell counts, which are important for immunological defense (see section 4.8), and
+- prior immunosuppressive or immunomodulatory therapy (see below).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -206,25 +204,31 @@ Cases of Fanconi syndrome have been reported for a medicinal product containing 
 
 During treatment, simultaneous use of other fumaric acid esters (topical or systemic) should be avoided.
 
-Vumerity should not be administered concomitantly with dimethyl fumarate.
+Diroximel fumarate should not be administered concomitantly with dimethyl fumarate.
 
 Potential interaction risks were not identified from in vitro and/or in vivo inhibition studies of transporters, from in vitro CYP-inhibition and induction studies, or studies of the protein binding of diroximel fumarate and its major metabolites, active metabolite monomethyl fumarate (MMF) and inactive metabolite 2-hydroxyethyl succinimide (HES).
 
+## Effects of dimethyl fumarate on other substances
+
 Although not studied with diroximel fumarate, in vitro CYP induction studies did not demonstrate an interaction between dimethyl fumarate and oral contraceptives. In an in vivo study, co-administration of dimethyl fumarate with a combined oral contraceptive (norgestimate and ethinyl estradiol) did not elicit any relevant change in oral contraceptive exposure. No interaction studies have been performed with oral contraceptives containing other progestogens, however an effect of diroximel fumarate on their exposure is not expected.
+
+## Anti-neoplastic, immunosuppressive or corticosteroid therapies
 
 Diroximel fumarate has not been studied in combination with anti-neoplastic or immunosuppressive therapies and caution should, therefore, be used during concomitant administration. In MS clinical studies, the concomitant treatment of relapses with a short course of intravenous corticosteroids was not associated with a clinically relevant increase of infection.
 
+## Vaccines
+
 Concomitant administration of non-live vaccines according to national vaccination schedules may be considered during Vumerity therapy. In a clinical study involving a total of 71 patients with relapsing remitting multiple sclerosis (RRMS), patients on dimethyl fumarate 240 mg twice daily for at least 6 months (n=38) or non-pegylated interferon for at least 3 months (n=33), mounted a comparable immune response (defined as ≥ 2-fold increase from pre- to post-vaccination titre) to tetanus toxoid (recall antigen) and a conjugated meningococcal C polysaccharide vaccine (neoantigen), while the immune response to different serotypes of an unconjugated 23-valent pneumococcal polysaccharide vaccine (T-cell independent antigen) varied in both treatment groups. A positive immune response defined as a ≥ 4-fold increase in antibody titre to the three vaccines, was achieved by fewer patients in both treatment groups. Small numerical differences in the response to tetanus toxoid and pneumococcal serotype 3 polysaccharide were noted in favour of non-pegylated interferon.
-
-No clinical data are available on the efficacy and safety of live attenuated vaccines in patients taking Vumerity. Live vaccines might carry an increased risk of clinical infection and should not be given to patients unless, in exceptional cases, this potential risk is considered to be outweighed by the risk to the individual of not vaccinating.
-
-Evidence from healthy volunteer studies suggests that dimethyl fumarate-associated flushing is likely to be prostaglandin mediated. In two healthy volunteer studies with dimethyl fumarate, the
 
 <div style=\"page-break-after: always\"></div>
 
-administration of 325 mg (or equivalent) non enteric coated acetylsalicylic acid, 30 minutes prior to dimethyl fumarate, dosing over 4 days and over 4 weeks, respectively, did not alter the pharmacokinetic profile of dimethyl fumarate. Potential risks associated with acetylsalicylic acid therapy should be considered prior to co-administration with Vumerity in patients with relapsing remitting MS. Long term (&gt; 4 weeks) continuous use of acetylsalicylic acid has not been studied (see sections 4.4 and 4.8).
+No clinical data are available on the efficacy and safety of live attenuated vaccines in patients taking diroximel fumarate. Live vaccines might carry an increased risk of clinical infection and should not be given to patients unless, in exceptional cases, this potential risk is considered to be outweighed by the risk to the individual of not vaccinating.
 
-Concurrent therapy with nephrotoxic medicinal products (such as aminoglycosides, diuretics, non-steroidal anti-inflammatory drugs or lithium) may increase the potential of renal adverse reactions (e.g. proteinuria see section 4.8) in patients taking Vumerity (see section 4.4).
+## Effects of other substances on dimethyl fumarate
+
+Evidence from healthy volunteer studies suggests that dimethyl fumarate-associated flushing is likely to be prostaglandin mediated. In two healthy volunteer studies with dimethyl fumarate, the administration of 325 mg (or equivalent) non enteric coated acetylsalicylic acid, 30 minutes prior to dimethyl fumarate, dosing over 4 days and over 4 weeks, respectively, did not alter the pharmacokinetic profile of dimethyl fumarate. Potential risks associated with acetylsalicylic acid therapy should be considered prior to co-administration with diroximel fumarate in patients with relapsing remitting MS. Long term (&gt; 4 weeks) continuous use of acetylsalicylic acid has not been studied (see sections 4.4 and 4.8).
+
+Concurrent therapy with nephrotoxic medicinal products (such as aminoglycosides, diuretics, non-steroidal anti-inflammatory drugs or lithium) may increase the potential of renal adverse reactions (e.g. proteinuria see section 4.8) in patients taking diroximel fumarate (see section 4.4).
 
 ## Paediatric population
 
@@ -234,7 +238,7 @@ Interaction studies have only been performed in adults.
 
 ## Pregnancy
 
-There are no or limited amount of data from the use of diroximel fumarate in pregnant women. Animal studies have shown reproductive toxicity (see section 5.3). Vumerity is not recommended during pregnancy and in women of childbearing potential not using appropriate contraception (see section 4.5). Vumerity should be used during pregnancy only if clearly needed and if the potential benefit justifies the potential risk to the foetus.
+There are no or limited amount of data from the use of diroximel fumarate in pregnant women. Animal studies have shown reproductive toxicity (see section 5.3). Diroximel fumarate is not recommended during pregnancy and in women of childbearing potential not using appropriate contraception (see section 4.5). Diroximel fumarate should be used during pregnancy only if clearly needed and if the potential benefit justifies the potential risk to the foetus.
 
 ## Breast-feeding
 
@@ -242,11 +246,13 @@ It is unknown whether diroximel fumarate or its metabolites are excreted in huma
 
 ## Fertility
 
-There are no data on the effects of Vumerity on human fertility. Data from animal studies with diroximel fumarate showed no impairment of male or female fertility (see section 5.3).
+There are no data on the effects of diroximel fumarate on human fertility. Data from animal studies with diroximel fumarate showed no impairment of male or female fertility (see section 5.3).
 
 ## 4.7 Effects on ability to drive and use machines
 
 Vumerity has no or negligible influence on the ability to drive and use machines.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
@@ -254,61 +260,59 @@ Vumerity has no or negligible influence on the ability to drive and use machines
 
 Upon oral administration, diroximel fumarate and dimethyl fumarate are rapidly metabolised to monomethyl fumarate before they reach the systemic circulation, adverse reactions are similar once metabolised.
 
-The most common adverse reactions for dimethyl fumarate were flushing (35%) and gastrointestinal events (i.e. diarrhoea 14%, nausea 12%, abdominal pain 10% and abdominal pain upper 10%). The most commonly reported adverse reactions leading to discontinuation in patients treated with dimethyl fumarate were flushing (3%) and gastrointestinal events (4%).
-
-<div style=\"page-break-after: always\"></div>
+The most common adverse reactions for dimethyl fumarate were flushing (35%) and gastrointestinal events (i.e. diarrhoea 14%, nausea 12%, abdominal pain 10% and abdominal pain upper 10%). The most commonly reported adverse reactions leading to discontinuation in patients treated with dimethyl fumarate were flushing (3%) and gastrointestinal reactions(4%).
 
 ## Tabulated list of adverse reactions
 
 The adverse reactions which were more frequently reported in dimethyl fumarate-treated patients as compared to placebo-treated patients from two pivotal phase 3 placebo controlled clinical trials and post marketing experience are presented in Table 1.
 
-The adverse reactions are presented as MedDRA preferred terms under the MedDRA system organ class (SOC). The incidence of the adverse reactions below is expressed according to the following categories: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1,000 to &lt; 1/100), rare ( ≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), and not known (frequency cannot be estimated from the available data).
+The adverse reactions are presented as MedDRA preferred terms under the MedDRA system organ class (SOC). The incidence of the adverse reactions below is expressed according to the following categories: v ery common (≥ 1/10), c ommon (≥ 1/100 to &lt; 1/10), u ncommon (≥ 1/1 000 to &lt; 1/100), r are (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), and not known (frequency cannot be estimated from the available data).
 
 Table 1: Adverse reactions
 
-| MedDRA System Organ Class                            | Adverse reaction                                   | Frequency category   |
-|------------------------------------------------------|----------------------------------------------------|----------------------|
-| Infections and infestations                          | Gastroenteritis                                    | Common               |
-| Infections and infestations                          | Progressive multifocal leukoencephalopathy (PML) 1 | Not known            |
-| Infections and infestations                          | Herpes zoster 1                                    | Not known            |
-| Blood and lymphatic system disorders                 | Lymphopenia 1, 2                                   | Common               |
-| Blood and lymphatic system disorders                 | Leukopenia                                         | Common               |
-| Blood and lymphatic system disorders                 | Thrombocytopenia                                   | Uncommon             |
-| Immune system disorders                              | Hypersensitivity                                   | Uncommon             |
-| Immune system disorders                              | Anaphylaxis                                        | Not known            |
-| Immune system disorders                              | Dyspnoea                                           | Not known            |
-| Immune system disorders                              | Hypoxia                                            | Not known            |
-| Immune system disorders                              | Hypotension                                        | Not known            |
-| Immune system disorders                              | Angioedema                                         | Not known            |
-| Nervous system disorders                             | Burning sensation                                  | Common               |
-| Vascular disorders                                   | Flushing 1                                         | Very common          |
-| Vascular disorders                                   | Hot flush                                          | Common               |
-| Respiratory, thoracic and mediastinal disorders      | Rhinorrhoea                                        | Not known            |
-| Gastrointestinal disorders                           | Diarrhoea                                          | Very common          |
-| Gastrointestinal disorders                           | Nausea                                             | Very common          |
-| Gastrointestinal disorders                           | Abdominal pain upper                               | Very common          |
-| Gastrointestinal disorders                           | Abdominal pain                                     | Very common          |
-| Gastrointestinal disorders                           | Vomiting                                           | Common               |
-| Gastrointestinal disorders                           | Dyspepsia                                          | Common               |
-| Gastrointestinal disorders                           | Gastritis                                          | Common               |
-| Gastrointestinal disorders                           | Gastrointestinal disorder                          | Common               |
-| Hepatobiliary disorders                              | Aspartate aminotransferase increased 1             | Common               |
-| Hepatobiliary disorders                              | Alanine aminotransferase increased 1               | Common               |
-| Hepatobiliary disorders                              | Drug-induced liver injury                          | Rare                 |
-| Skin and subcutaneous tissue disorders               | Pruritus                                           | Common               |
-| Skin and subcutaneous tissue disorders               | Rash                                               | Common               |
-| Skin and subcutaneous tissue disorders               | Erythema                                           | Common               |
-| Skin and subcutaneous tissue disorders               | Alopecia                                           | Common               |
-| Renal and urinary disorders                          | Proteinuria                                        | Common               |
-| General disorders and administration site conditions | Feeling hot                                        | Common               |
+| MedDRA System Organ Class                       | Adverse reaction                                   | Frequency category   |
+|-------------------------------------------------|----------------------------------------------------|----------------------|
+| Infections and infestations                     | Gastroenteritis                                    | Common               |
+| Infections and infestations                     | Progressive multifocal leukoencephalopathy (PML) 1 | Not known            |
+| Infections and infestations                     | Herpes zoster 1                                    | Not known            |
+| Blood and lymphatic system disorders            | Lymphopenia 1, 2                                   | Common               |
+| Blood and lymphatic system disorders            | Leukopenia                                         | Common               |
+| Blood and lymphatic system disorders            | Thrombocytopenia                                   | Uncommon             |
+| Immune system disorders                         | Hypersensitivity                                   | Uncommon             |
+| Immune system disorders                         | Anaphylaxis                                        | Not known            |
+| Immune system disorders                         | Dyspnoea                                           | Not known            |
+| Immune system disorders                         | Hypoxia                                            | Not known            |
+| Immune system disorders                         | Hypotension                                        | Not known            |
+| Immune system disorders                         | Angioedema                                         | Not known            |
+| Nervous system disorders                        | Burning sensation                                  | Common               |
+| Vascular disorders                              | Flushing 1                                         | Very common          |
+| Vascular disorders                              | Hot flush                                          | Common               |
+| Respiratory, thoracic and mediastinal disorders | Rhinorrhoea                                        | Not known            |
+| Gastrointestinal disorders                      | Diarrhoea                                          | Very common          |
+| Gastrointestinal disorders                      | Nausea                                             | Very common          |
+| Gastrointestinal disorders                      | Abdominal pain upper                               | Very common          |
+| Gastrointestinal disorders                      | Abdominal pain                                     | Very common          |
+| Gastrointestinal disorders                      | Vomiting                                           | Common               |
+| Gastrointestinal disorders                      | Dyspepsia                                          | Common               |
+| Gastrointestinal disorders                      | Gastritis                                          | Common               |
+| Gastrointestinal disorders                      | Gastrointestinal disorder                          | Common               |
+| Hepatobiliary disorders                         | Aspartate aminotransferase increased 1             | Common               |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA System Organ Class   | Adverse reaction                 | Frequency category   |
-|-----------------------------|----------------------------------|----------------------|
-| Investigations              | Ketones measured in urine        | Very common          |
-| Investigations              | Albumin urine present            | Common               |
-| Investigations              | White blood cell count decreased | Common               |
+| MedDRA System Organ Class                            | Adverse reaction                     | Frequency category   |
+|------------------------------------------------------|--------------------------------------|----------------------|
+|                                                      | Alanine aminotransferase increased 1 | Common               |
+|                                                      | Drug-induced liver injury            | Rare                 |
+| Skin and subcutaneous tissue disorders               | Pruritus                             | Common               |
+| Skin and subcutaneous tissue disorders               | Rash                                 | Common               |
+| Skin and subcutaneous tissue disorders               | Erythema                             | Common               |
+| Skin and subcutaneous tissue disorders               | Alopecia                             | Common               |
+| Renal and urinary disorders                          | Proteinuria                          | Common               |
+| General disorders and administration site conditions | Feeling hot                          | Common               |
+| Investigations                                       | Ketones measured in urine            | Very common          |
+| Investigations                                       | Albumin urine present                | Common               |
+| Investigations                                       | White blood cell count decreased     | Common               |
 
 - 1 See 'Description of selected adverse reactions' for further information
 - 2 Lymphopenia was reported with the frequency 'very common' in a phase 3, open-label, uncontrolled study with diroximel fumarate
@@ -353,11 +357,9 @@ In several PML cases with determination of T cell subsets at the time of diagnos
 
 Prolonged moderate to severe lymphopenia appears to increase the risk of PML with dimethyl fumarate and likewise diroximel fumarate, however, PML also occurred in patients treated with dimethyl fumarate with mild lymphopenia. Additionally, the majority of PML cases in the postmarketing setting have occurred in patients &gt; 50 years.
 
-Herpes zoster infections have been reported with dimethyl fumarate use. In the long-term extension study, in which 1,736 MS patients were treated with dimethyl fumarate, 5% experienced one or more events of herpes zoster, the majority of which were mild to moderate in severity. Most patients, including those who experienced a serious herpes zoster infection, had lymphocyte counts above the lower limit of normal. In a majority of patients with concurrent lymphocyte counts below the LLN,
-
 <div style=\"page-break-after: always\"></div>
 
-lymphopenia was rated moderate or severe. In the post-marketing setting most cases of herpes zoster infection were non-serious and resolved with treatment. Limited data is available on absolute lymphocyte count (ALC) in patients with herpes zoster infection in the post-marketing setting. However, when reported, most patients experienced moderate ( ≥ 0.5 x 10 9 /L to &lt; 0.8 x 10 9 /L) or severe (&lt; 0.5 x 10 9 /L to 0.2 x 10 9 /L) lymphopenia (see section 4.4).
+Herpes zoster infections have been reported with dimethyl fumarate use. In the long-term extension study, in which 1,736 MS patients were treated with dimethyl fumarate, 5% experienced one or more events of herpes zoster, the majority of which were mild to moderate in severity. Most patients, including those who experienced a serious herpes zoster infection, had lymphocyte counts above the lower limit of normal. In a majority of patients with concurrent lymphocyte counts below the LLN, lymphopenia was rated moderate or severe. In the post-marketing setting most cases of herpes zoster infection were non-serious and resolved with treatment. Limited data is available on absolute lymphocyte count (ALC) in patients with herpes zoster infection in the post-marketing setting. However, when reported, most patients experienced moderate ( ≥ 0.5 x 10 9 /L to &lt; 0.8 x 10 9 /L) or severe (&lt; 0.5 x 10 9 /L to 0.2 x 10 9 /L) lymphopenia (see section 4.4).
 
 ## Laboratory abnormalities
 
@@ -369,7 +371,7 @@ A transient increase in mean eosinophil counts was seen during the first 2 month
 
 ## Paediatric population
 
-The safety of Vumerity in paediatric patients has not yet been established.
+The safety of diroximel fumarate in paediatric patients has not yet been established.
 
 ## Reporting of suspected adverse reactions
 
@@ -385,11 +387,11 @@ In reported cases of overdose, the symptoms described were consistent with the k
 
 Pharmacotherapeutic group: Immunosuppressants, other immunosuppressants. ATC code: L04AX09
 
+<div style=\"page-break-after: always\"></div>
+
 ## Mechanism of action
 
 The mechanism by which diroximel fumarate exerts therapeutic effects in MS is not fully understood. Diroximel fumarate acts via the major active metabolite, monomethyl fumarate. Preclinical studies indicate that the pharmacodynamic responses of monomethyl fumarate appears to be mediated, at least in part, through activation of the Nuclear factor (erythroid-derived 2)-like 2 (Nrf2) transcriptional pathway. Dimethyl fumarate has been shown to up regulate Nrf2-dependent antioxidant genes in patients.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pharmacodynamic effects
 
@@ -401,16 +403,16 @@ Figure 1 shows the proportion of patients estimated to reach the LLN based on th
 
 Figure 1: Kaplan-Meier Method; Proportion of Patients with Recovery to ≥ 910 cells/mm 3  LLN from the Recovery Baseline (RBL)
 
+Table 2: Kaplan-Meier Method; Proportion of patients estimated to reach LLN, mild lymphopenia at the recovery baseline (RBL), excluding patients with prolonged severe lymphopenia
+
 <!-- image -->
 
-Table 2: Kaplan-Meier Method; Proportion of patients estimated to reach LLN, mild lymphopenia at the recovery baseline (RBL), excluding patients with prolonged severe lymphopenia
+<div style=\"page-break-after: always\"></div>
 
 | Number of patients with mild lymphopenia a at risk   | Baseline N=86   | Week 12 N=12   | Week 24 N=4   |
 |------------------------------------------------------|-----------------|----------------|---------------|
 | Proportion reaching                                  |                 | 0.81           | 0.90          |
 | LLN (95% CI)                                         |                 | (0.71, 0.89)   | (0.81, 0.96)  |
-
-<div style=\"page-break-after: always\"></div>
 
 Table 3: Kaplan-Meier Method; Proportion of patients estimated to reach LLN, moderate lymphopenia at the recovery baseline (RBL), excluding patients with prolonged severe lymphopenia
 
@@ -419,16 +421,12 @@ Table 3: Kaplan-Meier Method; Proportion of patients estimated to reach LLN, mod
 | Proportion reaching                                      |                  | 0.57           | 0.70           |
 | LLN (95% CI)                                             |                  | (0.46, 0.67)   | (0.60, 0.80)   |
 
-a Patients with ALC &lt; 800 and ≥ 500 cells/mm 3 at RBL, excluding patients with prolonged severe lymphopenia.
-
 Table 4: Kaplan-Meier Method; Proportion of patients estimated to reach LLN, severe lymphopenia at the recovery baseline (RBL), excluding patients with prolonged severe lymphopenia
 
 | Number of patients with severe lymphopenia a at risk   | Baseline N=18   | Week 12 N=6   | Week 24 N=4   |
 |--------------------------------------------------------|-----------------|---------------|---------------|
 | Proportion reaching                                    |                 | 0.43          | 0.62          |
 | LLN (95% CI)                                           |                 | (0.20, 0.75)  | (0.35, 0.88)  |
-
-a Patients with ALC &lt; 500 cells/mm 3 at RBL, excluding patients with prolonged severe lymphopenia.
 
 ## Clinical efficacy and safety
 
@@ -440,15 +438,15 @@ Two, 2-year, randomised, double-blind, placebo-controlled studies (DEFINE with 1
 
 Efficacy (see table below) and safety were demonstrated in patients with Expanded Disability Status Scale (EDSS) scores ranging from 0 to 5 inclusive, who had experienced at least 1 relapse during the year prior to randomisation, or, in the 6 weeks before randomisation had a brain Magnetic Resonance Imaging (MRI) demonstrating at least one gadolinium-enhancing (Gd+) lesion. Study CONFIRM contained a rater-blinded (i.e. study physician/ investigator assessing the response to study treatment was blinded) reference comparator of glatiramer acetate.
 
-In DEFINE, patients had the following median baseline characteristics: age 39 years, disease duration 7.0 years, EDSS score 2.0. In addition, 16% of patients had an EDSS score &gt; 3.5, 28% had ≥ 2 relapses in the prior year and 42% had previously received other approved MS treatments. In the MRI cohort 36% of patients entering the study had Gd+ lesions at baseline (mean number of Gd+ lesions 1.4).
+In DEFINE, patients had the following median baseline characteristics: age 39 years, disease duration 7 years, EDSS score 2. In addition, 16% of patients had an EDSS score &gt; 3.5, 28% had ≥ 2 relapses in the prior year and 42% had previously received other approved MS treatments. In the MRI cohort 36% of patients entering the study had Gd+ lesions at baseline (mean number of Gd+ lesions 1.4).
 
-In CONFIRM, patients had the following median baseline characteristics: age 37 years, disease duration 6.0 years, EDSS score 2.5. In addition, 17% of patients had an EDSS score &gt; 3.5, 32% had ≥ 2 relapses in the prior year and 30% had previously received other approved MS treatments. In the MRI cohort 45% of patients entering the study had Gd+ lesions at baseline (mean number of Gd+ lesions 2.4).
-
-Compared to placebo, patients treated with dimethyl fumarate had a clinically meaningful and statistically significant reduction on the primary endpoint in study DEFINE, proportion of patients
+In CONFIRM, patients had the following median baseline characteristics: age 37 years, disease duration 6 years, EDSS score 2.5. In addition, 17% of patients had an EDSS score &gt; 3.5, 32% had
 
 <div style=\"page-break-after: always\"></div>
 
-relapsed at 2 years; and the primary endpoint in study CONFIRM, annualised relapse rate (ARR) at 2 years.
+≥ 2 relapses in the prior year and 30% had previously received other approved MS treatments. In the MRI cohort 45% of patients entering the study had Gd+ lesions at baseline (mean number of Gd+ lesions 2.4).
+
+Compared to placebo, patients treated with dimethyl fumarate had a clinically meaningful and statistically significant reduction on the primary endpoint in study DEFINE, proportion of patients relapsed at 2 years; and the primary endpoint in study CONFIRM, annualised relapse rate (ARR) at 2 years.
 
 The ARR for glatiramer acetate and placebo was 0.286 and 0.401 respectively in study CONFIRM, corresponding to a reduction of 29% (p=0.013).
 
@@ -491,17 +489,17 @@ In Studies DEFINE and CONFIRM, consistent treatment effect on relapses in a subg
 
 ## Clinical studies with Vumerity
 
-The gastrointestinal tolerability of diroximel fumarate was evaluated in a randomised, multi-centre, phase 3 study (EVOLVE-MS-2) in 504 adult patients with RRMS. The study included a 5-week, double-blind treatment period with two treatment arms. Patients had a 1-week titration period and were randomised (1:1) to receive diroximel fumarate 462 mg twice daily (n=253) or dimethyl fumarate 240 mg twice daily (n=251). Patients had the following median baseline characteristics: age 44 years, disease duration 6.0 years and EDSS score 2.5. In this study, GI tolerability was investigated using the Individual GI Symptom and Impact Scale (IGISIS), which evaluated the incidence, intensity, onset, duration, and functional impact of five individual GI symptoms: nausea, vomiting, upper abdominal pain, lower abdominal pain, and diarrhoea.
+The gastrointestinal tolerability of diroximel fumarate was evaluated in a randomised, multi-centre, phase 3 study (EVOLVE-MS-2) in 504 adult patients with RRMS. The study included a 5-week, double-blind treatment period with two treatment arms. Patients had a 1-week titration period and were randomised (1:1) to receive diroximel fumarate 462 mg twice daily (n=253) or dimethyl fumarate 240 mg twice daily (n=251). Patients had the following median baseline characteristics: age 44 years, disease duration 6 years and EDSS score 2.5. In this study, GI tolerability was investigated using the Individual GI Symptom and Impact Scale (IGISIS), which evaluated the incidence, intensity, onset, duration, and functional impact of five individual GI symptoms: nausea, vomiting, upper abdominal pain, lower abdominal pain, and diarrhoea.
 
 Overall gastrointestinal adverse reactions were observed in 34.8% of diroximel fumarate-treated patients and in 49.0% of dimethyl fumarate-treated patients. Treatment discontinuations were in total 1.6% and 6.0%, for diroximel fumarate and dimethyl fumarate, respectively. The discontinuations for gastrointestinal tolerability reasons were 0.8% and 4.8%, for diroximel fumarate and dimethyl fumarate, respectively. Treatment-emergent gastrointestinal adverse reactions of ≥ 5% for diroximel fumarate and dimethyl fumarate, respectively, were diarrhoea (15.4% and 22.3%), nausea (14.6% and 20.7%), upper abdominal pain (6.7% and 15.5%), abdominal pain (6.3% and 9.6%), lower abdominal pain (5.9% and 6.8%), and vomiting (3.6% and 8.8%).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
 The efficacy of Vumerity in paediatric patients has not been established.
 
-<div style=\"page-break-after: always\"></div>
-
-The European Medicines Agency has deferred the obligation to submit the results of studies with Vumerity in one or more subsets of the paediatric population in the treatment of MS (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Vumerity in all subsets of the paediatric population in the treatment of MS (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -525,13 +523,11 @@ In humans, diroximel fumarate is extensively metabolised by esterases, which are
 
 Further metabolism of monomethyl fumarate occurs through esterases followed by the tricarboxylic acid (TCA) cycle, with no involvement of the cytochrome P450 (CYP) system. Fumaric and citric acid, and glucose are the resulting metabolites of monomethyl fumarate in plasma.
 
-## Elimination
-
-Monomethyl fumarate is mainly eliminated as carbon dioxide in the expired air with only trace amounts recovered in urine. The terminal half-life (t1/2) of monomethyl fumarate is approximately 1 hour, and no accumulation in monomethyl fumarate plasma exposures occurred with multiple doses of diroximel fumarate. In a study with dimethyl fumarate, exhalation of CO2 was determined to be the primary route of elimination accounting for approximately 60% of the dose. Renal and faecal
-
 <div style=\"page-break-after: always\"></div>
 
-elimination are secondary routes of elimination, accounting for 15.5% and 0.9% of the dose, respectively.
+## Elimination
+
+Monomethyl fumarate is mainly eliminated as carbon dioxide in the expired air with only trace amounts recovered in urine. The terminal half-life (t1/2) of monomethyl fumarate is approximately 1 hour, and no accumulation in monomethyl fumarate plasma exposures occurred with multiple doses of diroximel fumarate. In a study with dimethyl fumarate, exhalation of CO2 was determined to be the primary route of elimination accounting for approximately 60% of the dose. Renal and faecal elimination are secondary routes of elimination, accounting for 15.5% and 0.9% of the dose, respectively.
 
 HES is eliminated from plasma with a t1/2 of 10.7 hours to 14.8 hours. HES is mainly eliminated in urine.
 
@@ -557,11 +553,11 @@ Race and ethnicity have no effect on the pharmacokinetic profile of monomethyl f
 
 In a study investigating the effect of renal impairment on the pharmacokinetic profile of diroximel fumarate, participants with mild (eGFR 60-89 mL/min/1.73 m 2 ), moderate renal impairment (eGFR 30-59 mL/min/1.73 m 2 ) or severe renal impairment (eGFR &lt; 30 mL/min/1.73 m 2 ) had no clinically relevant changes in MMF exposure. However, HES exposure increased by 1.3-, 1.8-, and 2.7-fold with mild, moderate, and severe renal impairment, respectively (see section 4.8). There are no data available on long-term use of diroximel fumarate in patients with moderate or severe renal impairment (see sections 4.2 and 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hepatic impairment
 
 As diroximel fumarate and monomethyl fumarate are metabolised by esterases, without the involvement of the CYP450 system, evaluation of pharmacokinetics in individuals with hepatic impairment was not conducted (see section 4.2 and 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -569,13 +565,13 @@ As diroximel fumarate and monomethyl fumarate are metabolised by esterases, with
 
 Kidney toxicity in rats and monkeys included tubular degeneration/necrosis with regeneration, tubular hypertrophy and/or interstitial fibrosis, increased kidney weights, and changes in clinical pathology parameters (urine volume, specific gravity, and biomarkers of kidney injury). In chronic toxicology studies, adverse renal findings occurred at monomethyl fumarate exposure that equalled the AUC at the maximum recommended human dose (MRHD) of diroximel fumarate.
 
-Gastrointestinal toxicity in mice and rats consisted of mucosal hyperplasia and hyperkeratosis in the non-glandular stomach (forestomach) and duodenum. In monkeys, the poor gastrointestinal tolerability was characterised by dose-dependent emesis/vomitus, stomach irritation, haemorrhage and inflammation as well as diarrhoea. These findings developed at monomethyl fumarate exposure at least 2  the AUC at the MRHD of diroximel fumarate.
+Gastrointestinal toxicity in mice and rats consisted of mucosal hyperplasia and hyperkeratosis in the non-glandular stomach (forestomach) and duodenum. In monkeys, the poor gastrointestinal tolerability was characterised by dose-dependent emesis/vomitus, stomach irritation, haemorrhage and inflammation as well as diarrhoea. These findings developed at monomethyl fumarate exposure at least 2 × the AUC at the MRHD of diroximel fumarate.
 
-Cardiac inflammation and necrosis was seen in three male rats in the 91-day toxicity study at monomethyl fumarate exposure that was 4  the AUC at the MRHD of diroximel fumarate. These cardiac findings were also detected in other toxicity studies in rats including untreated controls, but not in monkeys. These cardiac inflammations therefore likely represent the exacerbation of common background lesions in rats without human relevance.
+Cardiac inflammation and necrosis was seen in three male rats in the 91-day toxicity study at monomethyl fumarate exposure that was 4 × the AUC at the MRHD of diroximel fumarate. These cardiac findings were also detected in other toxicity studies in rats including untreated controls, but not in monkeys. These cardiac inflammations therefore likely represent the exacerbation of common background lesions in rats without human relevance.
 
-Partially-reversible physeal dysplasia of proximal and distal femur and proximal tibia was seen in monkeys in the 91-day toxicity study at monomethyl fumarate exposure that was 15  the AUC at the MRHD of diroximel fumarate. Bone toxicity might be related to the pre-pupertal age of the monkeys, because bone development was also impaired in juvenile rats (see below), but not affected at lower doses in the chronic monkey study or in mature adult rats. The bone findings are of limited relevance for adult patients at the therapeutic dose.
+Partially-reversible physeal dysplasia of proximal and distal femur and proximal tibia was seen in monkeys in the 91-day toxicity study at monomethyl fumarate exposure that was 15 × the AUC at the MRHD of diroximel fumarate. Bone toxicity might be related to the pre-pupertal age of the monkeys, because bone development was also impaired in juvenile rats (see below), but not affected at lower doses in the chronic monkey study or in mature adult rats. The bone findings are of limited relevance for adult patients at the therapeutic dose.
 
-Testicular toxicity consisting of minimal germinal epithelial degeneration, increased incidence of giant spermatids, slight decrease in spermatids in the tubular epithelium, and decrease in testes weight was observed in wild type littermates of ras H2 mice. These findings occurred at monomethyl fumarate exposure that was 15  the AUC at the MRHD of diroximel fumarate, indicating limited human relevance at the therapeutic dose.
+Testicular toxicity consisting of minimal germinal epithelial degeneration, increased incidence of giant spermatids, slight decrease in spermatids in the tubular epithelium, and decrease in testes weight was observed in wild type littermates of ras H2 mice. These findings occurred at monomethyl fumarate exposure that was 15 × the AUC at the MRHD of diroximel fumarate, indicating limited human relevance at the therapeutic dose.
 
 ## Genotoxicity
 
@@ -583,25 +579,23 @@ In vitro and in vivo studies with diroximel fumarate did not provide evidence fo
 
 ## Carcinogenesis
 
-Diroximel fumarate was tested in a transgenic bioassay in transgenic ras H2 mice and a 2 year bioassay in rats. Diroximel fumarate was not carcinogenic in transgenic mice and in female rats, but increased the incidence of testicular Leydig cell adenomas at 150 mg/kg/day in male rats (monomethyl fumarate exposure was approximately 2  higher than the AUC at the MRHD). The relevance of these findings to human risk is unknown.
-
-## Reproduction and developmental toxicity
-
-Diroximel fumarate did not impair male or female fertility in rats at monomethyl fumarate exposure that was approximately 7  the AUC at the MRHD of diroximel fumarate.
-
-In rats administered diroximel fumarate orally during the period of organogenesis at doses of 40, 100 and 400 mg/kg/day lower fetal body weights and fetal skeletal ossification variations were observed at
+Diroximel fumarate was tested in a transgenic bioassay in transgenic ras H2 mice and a 2 year bioassay in rats. Diroximel fumarate was not carcinogenic in transgenic mice and in female rats, but increased the incidence of testicular Leydig cell adenomas at 150 mg/kg/day in male rats (monomethyl fumarate exposure was approximately 2 × higher than the AUC at the MRHD). The relevance of these findings to human risk is unknown.
 
 <div style=\"page-break-after: always\"></div>
 
-a maternally toxic diroximel fumarate dose of 400 mg/kg/day. The exposure at the NOAEL was approximately 2  the AUC of monomethyl fumarate at the MRHD of diroximel fumarate.
+## Reproduction and developmental toxicity
 
-In rabbits administered diroximel fumarate orally throughout organogenesis at doses of 50, 150 and 350 mg/kg/day, increases in skeletal malformations (vertebral centra anomaly, severely malaligned sternebra[e] and vertebral anomaly with associated rib anomaly) were observed at ≥ 150 mg/kg/day. At 350 mg/kg/day, increases in skeletal variations, abortions, higher post-implantation loss and corresponding decreases in fetal viability also occurred, possibly associated with maternal toxicity . The exposure at the NOAEL was approximately 2  the AUC of monomethyl fumarate at the MRHD of diroximel fumarate. The relevance of the skeletal malformations for humans is currently unknown.
+Diroximel fumarate did not impair male or female fertility in rats at monomethyl fumarate exposure that was approximately 7 × the AUC at the MRHD of diroximel fumarate.
 
-In a pre- and post-natal development study in pregnant rats administered diroximel fumarate at oral doses of 40, 100, or 400 mg/kg/day during gestation through delivery and lactation reduced maternal body weight/weight gains and food consumption associated with reduced pup birth weights and body weight/weight gains were observed. The exposure at the NOAEL was approximately 3  the AUC of monomethyl fumarate at the MRHD of diroximel fumarate.
+In rats administered diroximel fumarate orally during the period of organogenesis at doses of 40, 100 and 400 mg/kg/day lower fetal body weights and fetal skeletal ossification variations were observed at a maternally toxic diroximel fumarate dose of 400 mg/kg/day. The exposure at the NOAEL was approximately 2 × the AUC of monomethyl fumarate at the MRHD of diroximel fumarate.
+
+In rabbits administered diroximel fumarate orally throughout organogenesis at doses of 50, 150 and 350 mg/kg/day, increases in skeletal malformations (vertebral centra anomaly, severely malaligned sternebra[e] and vertebral anomaly with associated rib anomaly) were observed at ≥ 150 mg/kg/day. At 350 mg/kg/day, increases in skeletal variations, abortions, higher post-implantation loss and corresponding decreases in fetal viability also occurred, possibly associated with maternal toxicity . The exposure at the NOAEL was approximately 2 × the AUC of monomethyl fumarate at the MRHD of diroximel fumarate. The relevance of the skeletal malformations for humans is currently unknown.
+
+In a pre- and post-natal development study in pregnant rats administered diroximel fumarate at oral doses of 40, 100, or 400 mg/kg/day during gestation through delivery and lactation reduced maternal body weight/weight gains and food consumption associated with reduced pup birth weights and body weight/weight gains were observed. The exposure at the NOAEL was approximately 3 × the AUC of monomethyl fumarate at the MRHD of diroximel fumarate.
 
 ## Toxicity in juvenile animals
 
-In a juvenile rat toxicity study, diroximel fumarate was administered orally from postnatal day (PND) 25 through PND 63, equivalent to approximately 2-3 years old through to puberty in humans. In addition to the target organ toxicities in the kidney and non-glandular stomach, adverse effects in the bone were observed including decreased femur size, mass and density and changes in bone geometry. A relation of the bone effects to lower body weight is possible, but the involvement of a direct effect cannot be excluded. The exposure at the NOAEL was approximately 1.4  the AUC of monomethyl fumarate at the MRHD for adult patients of diroximel fumarate. The bone findings are of limited relevance for adult patients. The relevance for paediatric patients is not known.
+In a juvenile rat toxicity study, diroximel fumarate was administered orally from postnatal day (PND) 25 through PND 63, equivalent to approximately 2-3 years old through to puberty in humans. In addition to the target organ toxicities in the kidney and non-glandular stomach, adverse effects in the bone were observed including decreased femur size, mass and density and changes in bone geometry. A relation of the bone effects to lower body weight is possible, but the involvement of a direct effect cannot be excluded. The exposure at the NOAEL was approximately 1.4 × the AUC of monomethyl fumarate at the MRHD for adult patients of diroximel fumarate. The bone findings are of limited relevance for adult patients. The relevance for paediatric patients is not known.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -615,11 +609,11 @@ Methacrylic acid-ethyl acrylate copolymer (1: 1) type A Crospovidone type A Cell
 
 Hypromellose Titanium dioxide (E171) Potassium chloride Carrageenan
 
+<div style=\"page-break-after: always\"></div>
+
 ## Capsule print (black ink)
 
 Shellac Potassium hydroxide Black iron oxide (E172)
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.2 Incompatibilities
 
@@ -651,11 +645,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Biogen Netherlands B.V. Prins Mauritslaan 13
+Biogen Netherlands B.V.
 
-1171 LP Badhoevedorp
-
-The Netherlands
+Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -664,6 +656,10 @@ EU/1/21/1585/001 EU/1/21/1585/002
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 15 November 2021
+
+Date of latest renewal:
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -696,20 +692,20 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -783,9 +779,7 @@ The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1585/001 120 gastro-resistant hard capsules
-
-EU/1/21/1585/002 360 gastro-resistant hard capsules
+EU/1/21/1585/001 120 gastro-resistant hard capsules EU/1/21/1585/002 360 gastro-resistant hard capsules
 
 ## 13. BATCH NUMBER
 
@@ -859,11 +853,7 @@ Store in the original bottle in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Biogen Netherlands B.V.
-
-Prins Mauritslaan 13 1171 LP Badhoevedorp
-
-The Netherlands
+Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -962,8 +952,8 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 In particular:
 
 - -medicines that contain fumaric acid esters (fumarates)
-- -medicines that affect the body's immune system including chemotherapy immunosuppressants or other medicines used to treat MS
-- ,
+- -medicines that affect the body's immune system including chemotherapy ,
+- immunosuppressants or other medicines used to treat MS
 - -medicines that affect the kidneys including some antibiotics (such as aminoglycosides used to treat infections), ' water tablets ' ( diuretics ), certain types of painkillers (such as ibuprofen and other similar anti-inflammatories and medicines purchased without a doctor's prescription) and medicines that contain lithium
 
 <div style=\"page-break-after: always\"></div>
@@ -1052,17 +1042,14 @@ then this may represent a severe allergic reaction (anaphylaxis)
 
 ## Other side effects
 
-## Very common (may affect more than 1 in 10 people)
+Very common (may affect more than 1 in 10 people)
 
 - -reddening of the face or body feeling warm, hot, burning or itchy (flushing)
 - -loose stools (diarrhoea)
 - -feeling sick (nausea)
 - -stomach pain or stomach cramps
 
-## Side effects which may show up in your blood or urine tests
-
-- -substances called ketones, which are naturally produced in the body, very commonly show up in urine tests while taking Vumerity.
-- -low levels of white blood cells ( lymphopenia, leukopenia ) in the blood. Reduced white blood cells could mean your body is less able to fight an infection. If you have a serious infection (such as pneumonia), talk to your doctor immediately
+Substances called ketones, which are naturally produced in the body, very commonly show up in urine tests while taking Vumerity.
 
 Talk to your doctor about how to manage these side effects. Your doctor may reduce your dose. Do not reduce your dose unless your doctor tells you to.
 
@@ -1084,15 +1071,16 @@ Talk to your doctor about how to manage these side effects. Your doctor may redu
 
 - -proteins ( albumin ) in urine ( proteinuria )
 - -increase in levels of liver enzymes ( ALT, AST ) in the blood
+- -low levels of white blood cells ( lymphopenia, leukopenia ) in the blood. Reduced white blood cells could mean your body is less able to fight an infection. If you have a serious infection (such as pneumonia), talk to your doctor immediately
 
 ## Uncommon (may affect up to 1 in 100 people)
 
-- -Allergic reactions ( hypersensitivity )
+- -allergic reactions ( hypersensitivity )
 - -reduction in blood platelets
 
 ## Rare (may affect up to 1 in 1,000 people)
 
-- -liver injury due to medication and increase in levels of liver enzymes measured in blood tests ( ALT or AST in combination with bilirubin )
+- -liver injury due to medicine and increase in levels of liver enzymes measured in blood tests ( ALT or AST in combination with bilirubin )
 
 ## Not known (frequency cannot be estimated from the available data)
 
@@ -1153,9 +1141,9 @@ Biogen Belgium NV/SA Tél/Tel: +32 2 2191218
 
 ## България
 
-ЕВОФАРМА ЕООД Te л : +359 2 962 12 00
+ЕВОФАРМА ЕООД Teл: +359 2 962 12 00
 
-## Č eská republika
+## Česká republika
 
 Biogen (Czech Republic) s.r.o. Tel: +420 255 706 200
 
@@ -1173,7 +1161,7 @@ Biogen Estonia OÜ Tel: +372 618 9551
 
 ## Ελλάδα
 
-Genesis Pharma SA T ηλ : +30 210 8771500
+Genesis Pharma SA Tηλ: +30 210 8771500
 
 ## España
 
@@ -1213,7 +1201,7 @@ Biogen Belgium NV/SA Tél/Tel: +32 2 2191218
 
 ## Magyarország
 
-Biogen Hungary Kft. Tel: + 36 1 899 9883
+Biogen Hungary Kft. Tel: + 36 1 899 9880
 
 ## Malta
 
@@ -1243,7 +1231,9 @@ Biogen Portugal Sociedade Farmacêutica, Unipessoal, Lda. Tel: +351 21 318 8450
 
 Johnson &amp; Johnson Romania S.R.L. Tel: +40 21 207 18 00
 
-Slovenija Biogen Pharma d.o.o. Tel: +386 1 511 02 90
+## Slovenija
+
+Biogen Pharma d.o.o. Tel: +386 1 511 02 90
 
 ## Slovenská republika
 
@@ -1255,7 +1245,9 @@ Biogen Finland Oy Puh/Tel: +358 207 401 200
 
 ## Sverige
 
-Biogen Sweden AB Tel: +46 8 594 113 60
+Biogen Sweden AB
+
+Tel: +46 8 594 113 60
 
 <div style=\"page-break-after: always\"></div>
 

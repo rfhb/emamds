@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-18 09:18:44
+document_datetime: 2026-08-06 13:38:40
 document_pages: 72
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/breyanzi-epar-product-information_en.pdf
 document_name: breyanzi-epar-product-information_en.pdf
 version: success
-processing_time: 21.8133305
-conversion_datetime: 2026-01-03 12:33:36.783327
+processing_time: 22.8607734
+conversion_datetime: 2026-08-07 14:35:54.732361
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -264,7 +264,7 @@ If concurrent CRS is suspected during the neurologic toxicity administer:
 - Tocilizumab according to the CRS grade in Table 1
 - Antiseizure medication according to the neurologic toxicity grade in Table 2.
 
-Table 2: Neurologic toxicity (NT) / including ICANS grading and management guidance
+## Table 2: Neurologic toxicity (NT) / including ICANS grading and management guidance
 
 | Neurologic toxicity grade including presenting symptoms a   | Corticosteroids and anti-seizure medication   |
 |-------------------------------------------------------------|-----------------------------------------------|
@@ -421,11 +421,9 @@ The adverse reactions described in this section were characterised in 177 patien
 
 The most common adverse reactions of any grade were neutropenia (71%), anaemia (45%), CRS (45%) and thrombocytopenia (43%).
 
-The most common serious adverse reactions were CRS (12%), neutropenia (3%), bacterial infectious disorders (3%), infection with an unspecified pathogen (3%), thrombocytopenia (2%),
+The most common serious adverse reactions were CRS (12%), neutropenia (3%), bacterial infectious disorders (3%), infection with an unspecified pathogen (3%), thrombocytopenia (2%), febrile neutropenia (2%), pyrexia (2%), aphasia (2%), headache (2%), confusional state (2%), pulmonary embolism (2%), anaemia (1%), upper gastrointestinal haemorrhage (1%) and tremor (1%).
 
 <div style=\"page-break-after: always\"></div>
-
-febrile neutropenia (2%), pyrexia (2%), aphasia (2%), headache (2%), confusional state (2%), pulmonary embolism (2%), anaemia (1%), upper gastrointestinal haemorrhage (1%) and tremor (1%).
 
 The most common Grade 3 or higher adverse reactions included neutropenia (68%), thrombocytopenia (33%), anaemia (31%), lymphopenia (17%), leukopenia (17%), febrile neutropenia (5%) and bacterial infections (5%).
 
@@ -515,9 +513,7 @@ k Taste disorder includes dysgeusia, taste disorder
 
 l  Cerebellar syndrome includes balance disorder, dysdiadochokinesis, dyskinesia, dysmetria, hand-eye coordination impaired
 
-Cerebrovascular disorder includes cerebral infarction, cerebral venous sinus thrombosis, embolic cerebral infarction,
-
-m haemorrhage intracranial, transient ischaemic attack
+m Cerebrovascular disorder includes cerebral infarction, cerebral venous sinus thrombosis, embolic cerebral infarction, haemorrhage intracranial, transient ischaemic attack
 
 n Seizure includes seizure, status epilepticus
 
@@ -720,6 +716,12 @@ Table 4: Baseline demographic and disease-related characteristics for TRANSFORM 
 | Confirmed CNS involvement, n (%)              | 1 (1.1)             | 3 (3.3)        |
 | Never achieved CR from prior therapies, n (%) | 62 (67.4)           | 64 (69.6)      |
 
+a  Chemorefractory is defined as experiencing stable disease (SD) or progressive disease (PD) to last chemo-containing regimen
+
+b  The status was refractory if a patient achieved SD, PD, PR or CR with relapse before 3 months.
+
+c The status was relapsed if a patient achieved CR with relapse on or after lasting at least 3 months but no more than 12 months.
+
 This study demonstrated statistically significant improvements in the primary endpoint of event free survival (EFS), and key secondary endpoints of complete response (CR) rate, and progression-free survival (PFS) for patients randomised to Breyanzi compared to SOC. Efficacy was based on EFS as determined by an independent review committee (IRC) using 2014 Lugano criteria. EFS was defined as the time from randomization to death from any cause, progressive disease, failure to achieve CR or PR by 9 weeks post-randomization (after 3 cycles of salvage immunochemotherapy and 5 weeks after Breyanzi infusion) or start of new antineoplastic therapy due to efficacy concerns, whichever occurs first. At a pre-specified interim analysis at 80% of the information fraction with a median on-study follow up time of 6.2 months (range 0.9 to 20 months), Breyanzi demonstrated a statistically significant improvement in EFS compared to the SOC arm (HR = 0.349 [95% CI: 0.229, 0.530], onesided p-value &lt; 0.0001). The p-value was compared with 0.012 of the allocated alpha for the prespecified interim analysis.
 
 Breyanzi demonstrated an improvement compared to SOC in DLBCL (n = 60, HR: 0.357 [95% CI: 0.204, 0.625]) and HGBCL (n = 22, HR: 0.413 [95% CI: 0.189, 0.904]).
@@ -826,9 +828,9 @@ Table 7: TRANSCEND study: Response rate, duration of response (IRC assessment)
 
 |                                          | All leukapheresed (N = 298)   | Efficacy set (N = 216)   |
 |------------------------------------------|-------------------------------|--------------------------|
-| Overall response rate a , n (%) [95% CI] | 179 (60.1) [54.3, 65.7]       | 157 (72.7) [66.2,        |
-|                                          |                               | 78.5]                    |
-| Complete response, n (%) [95% CI]        | 128 (43.0) [37.3, 48.8]       | 115 (53.2) [46.4, 60.0]  |
+| Overall response rate a , n (%) [95% CI] | 179 (60.1) [54.3, 65.7]       | 157 (72.7) [66.2, 78.5]  |
+|                                          | 128 (43.0)                    |                          |
+| Complete response, n (%) [95% CI]        | [37.3, 48.8]                  | 115 (53.2) [46.4, 60.0]  |
 | Partial response, n (%)                  | 51 (17.1)                     | 42 (19.4)                |
 | [95% CI]                                 | [13.0, 21.9]                  | [14.4, 25.4]             |
 | Duration of response (DOR) a,b (months)  | n = 179                       | n = 157                  |
@@ -856,11 +858,9 @@ Six patients with secondary CNS lymphoma were treated and evaluable for efficacy
 
 In the Efficacy set, the ORR results within PMBCL and FL3B were 79% (11/14 patients) and 100% (4/4 patients) respectively. CR rates were 50% for PMBCL and 100% for FL3B. The safety profile was consistent across these subtypes.
 
-In the Efficacy set, the ORR results within patients with DLBCL transformed (t) from prior indolent lymphoma of FL, marginal cell lymphoma (MZL), chronic lymphocytic leukaemia/small lymphocytic
+In the Efficacy set, the ORR results within patients with DLBCL transformed (t) from prior indolent lymphoma of FL, marginal cell lymphoma (MZL), chronic lymphocytic leukaemia/small lymphocytic lymphoma; (CLL/SLL), and Waldenstrom macroglobulinaemia (WM) were 86% (38/44 patients), 43% (3/7 patients), 50% (2/4 patients) and 50% (1/2 patients), respectively. CR rates were 61.4% for tFL, 29% for tMZL, 25% for tCLL/SLL (Richter's syndrome), and 0% for WM, respectively. The safety profile was consistent across these subtypes. Durable remissions
 
 <div style=\"page-break-after: always\"></div>
-
-lymphoma; (CLL/SLL), and Waldenstrom macroglobulinaemia (WM) were 86% (38/44 patients), 43% (3/7 patients), 50% (2/4 patients) and 50% (1/2 patients), respectively. CR rates were 61.4% for tFL, 29% for tMZL, 25% for tCLL/SLL (Richter's syndrome), and 0% for WM, respectively. The safety profile was consistent across these subtypes. Durable remissions
 
 (i.e.  DOR ≥ 12 months) were observed in patients with tFL and tMZL, however, there is very limited experience for patients with tCLL/SLL (4 patients) and tWM (2 patients) in whom maximal DORs of 2 and 5.3 months, respectively were observed. The safety profile was consistent across these subtypes.
 
@@ -892,38 +892,37 @@ TRANSCEND WORLD is an ongoing single-arm, multicentre, phase 2 study. Its Cohort
 
 Table 8: Baseline demographic and disease-related characteristics for TRANSCEND WORLD (Cohort 1)
 
-| Characteristic                                                | All leukapheresed (N = 45)     | Breyanzi-treated (N = 36)       |
-|---------------------------------------------------------------|--------------------------------|---------------------------------|
-| Median age, years (range) ≥ 65 years, n (%) ≥ 75 years, n (%) | 64.0 (26, 73) 19 (42.2)        | 61.5 (26.0, 72.0) 14 (38.9)     |
-| Male Female Prior HSCT, n (%)                                 | 15(33.3) 14 14 0 26 18 1 (2.2) | 11 (30.6) 12 (33.3) 12 (33.3) 0 |
-|                                                               | 0                              | 0                               |
-| Sex, n (%)                                                    |                                |                                 |
-|                                                               | 30 (66.7)                      | 25 (69.4)                       |
-|                                                               | (31.1)                         |                                 |
-| Autologous HSCT                                               | (31.1)                         |                                 |
-| Allogeneic HSCT                                               |                                |                                 |
-| ECOG performance status (at screening)                        |                                |                                 |
-| ECOG 0, n (%)                                                 | (57.8)                         | 19 (52.8)                       |
-| ECOG 1, n (%)                                                 | (40.0)                         | 16 (44.4)                       |
-| ECOG 2, n (%)                                                 |                                | 1 (2.8)                         |
-| Disease histology subtype, n (%)                              |                                |                                 |
-| DLBCL, NOS                                                    | 36 (80.0)                      | 31 (86.1)                       |
-| High-grade B-cell lymphoma a                                  | 7 (15.6)                       | 4 (11.1)                        |
-| PMBCL                                                         | 0                              | 0                               |
-| FL3B                                                          | 2 (4.4)                        | 1 (2.8)                         |
-| Chemorefractory b , n (%)                                     | 37 (82.2)                      | 29 (80.6)                       |
-| Refractory c , n (%)                                          | 36 (80.0)                      | 28 (77.8)                       |
-| Relapsed d , n (%)                                            | 9 (20.0)                       | 8 (22.2)                        |
+| Characteristic                                                | All leukapheresed (N = 45)   | Breyanzi-treated (N = 36)   |
+|---------------------------------------------------------------|------------------------------|-----------------------------|
+| Median age, years (range) ≥ 65 years, n (%) ≥ 75 years, n (%) | 64.0 (26, 73) 19 (42.2)      | 61.5 (26.0, 72.0) 14 (38.9) |
+| Male Female Prior HSCT, n (%)                                 | 14 14 0 26 18 1 (2.2) 36     | 19 (52.8) 16 (44.4)         |
+|                                                               | 0                            | 0                           |
+| Sex, n (%)                                                    |                              |                             |
+|                                                               | 30 (66.7)                    | 25 (69.4)                   |
+|                                                               | 15(33.3)                     | 11 (30.6)                   |
+|                                                               | (31.1)                       | 12 (33.3)                   |
+| Autologous HSCT                                               | (31.1)                       | 12 (33.3)                   |
+| Allogeneic HSCT                                               |                              | 0                           |
+| ECOG performance status (at screening)                        |                              |                             |
+| ECOG 0, n (%)                                                 | (57.8)                       |                             |
+| ECOG 1, n (%)                                                 | (40.0)                       |                             |
+| ECOG 2, n (%)                                                 |                              | 1 (2.8)                     |
+| Disease histology subtype, n (%)                              |                              |                             |
+| DLBCL, NOS                                                    | (80.0)                       | 31 (86.1)                   |
+| High-grade B-cell lymphoma a                                  | 7 (15.6)                     | 4 (11.1)                    |
+| PMBCL                                                         | 0                            | 0                           |
+| FL3B                                                          | 2 (4.4)                      | 1 (2.8)                     |
+| Chemorefractory b , n (%)                                     | 37 (82.2)                    | 29 (80.6)                   |
+| Refractory c , n (%)                                          | 36 (80.0)                    | 28 (77.8)                   |
+| Relapsed d , n (%)                                            | 9 (20.0)                     | 8 (22.2)                    |
 
 At the time of the final analysis, 45 patients in Cohort 1 had been leukapheresed and 36 patients treated with Breyanzi, with a median follow-up time of 15.8 months. The median time from leukapheresis to product availability was 29 days (range: 24 to 38 days). In the Breyanzi-treated group, the ORR was 61.1% (95% CI: 43.5-76.9), and the CR rate was 33.3% (95% CI: 18.6-51.0). The disease burden and baseline demographics were indicative of advanced, aggressive disease characteristics. The safety profile of Breyanzi was consistent with the overall pooled safety population. See section 4.8 for adverse drug reactions associated with lisocabtagene maraleucel.
 
 ## TRANSCEND-FL
 
-The efficacy and safety of Breyanzi was evaluated in a Phase 2, open-label, multicentre, single-arm study (TRANSCEND-FL) in adult patients with relapsed or refractory FL grades 1, 2 and 3A after two or more lines of systemic therapy. The study enrolled patients with ECOG performance status of ≤ 1. The study excluded patients with a creatinine clearance of less than 30 mL/min, alanine aminotransferase &gt; 5 times the upper limit of normal or, left ventricular ejection fraction (LVEF) ≤ 40%. There was no prespecified threshold for blood counts; patients were eligible to enroll if they
+The efficacy and safety of Breyanzi was evaluated in a Phase 2, open-label, multicentre, single-arm study (TRANSCEND-FL) in adult patients with relapsed or refractory FL grades 1, 2 and 3A after two or more lines of systemic therapy. The study enrolled patients with ECOG performance status of ≤ 1. The study excluded patients with a creatinine clearance of less than 30 mL/min, alanine aminotransferase &gt; 5 times the upper limit of normal or, left ventricular ejection fraction (LVEF) ≤ 40%. There was no prespecified threshold for blood counts; patients were eligible to enroll if they were assessed by the investigator to have adequate bone marrow function to receive lymphodepleting chemotherapy.
 
 <div style=\"page-break-after: always\"></div>
-
-were assessed by the investigator to have adequate bone marrow function to receive lymphodepleting chemotherapy.
 
 Treatment consisted of lymphodepleting (LD) chemotherapy, fludarabine 30 mg/m 2 /day and cyclophosphamide 300 mg/m 2 /day for 3 days, followed by Breyanzi 2 to 7 days later. The median dose of Breyanzi was 100 x 10 6 CAR-positive viable T-cells (range: 93.4 - 109.2 x 10 6 CAR-positive viable T-cells).
 
@@ -972,11 +971,9 @@ Table 10: TRANSCEND-FL study: Response rate, duration of response (IRC assessmen
 | Duration of response (DOR) (months)        |                               |                          |
 | Median [95% CI] c                          | NR [30.85, N.R]               | NR [30.85, NR]           |
 | Range                                      | 1.9, 35.0+                    | 1.9, 35.0+               |
-| Rate of continued remission d ,% [95% CI]  |                               |                          |
+| Rate of continued remission d , % [95% CI] |                               |                          |
 | At 18 months                               | 76.1 (66.7, 83.2)             | 75.7 (66.0, 83.0)        |
 
-- a  Per the Lugano 2014 criteria, as assessed by an IRC
-- b  Two-sided 95% confidence interval based on exact Clopper-Pearson method.
 - c  Median, Q1, Q3 are estimated from KM product-limit estimates
 
 d  Based on KM estimates of duration of response
@@ -995,7 +992,7 @@ Number of subjects at risk (censored)
 
 ## TRANSCEND-MCL Cohort
 
-The efficacy and safety of Breyanzi were evaluated in an open-label, multicenter, single-arm trial (TRANSCEND-MCL Cohort) in adult patients with relapsed or refractory MCL who had received at least 2 prior lines of therapy including a Bruton's tyrosine kinase (BTK) inhibitor, an alkylating agent, and an antiCD20 agent. The study included patients with ECOG performance status of ≤ 2, prior autologous and/or allogeneic HSCT, and secondary CNS lymphoma involvement. The study excluded patients with a creatinin e clearance ≤ 30 mL/min, alanine aminotransferase &gt; 5 times the upper limit of normal or left ventricular ejection fraction (LVEF) &lt; 40%. There was no prespecified threshold for
+The efficacy and safety of Breyanzi were evaluated in an open-label, multicenter, single-arm trial (TRANSCEND-MCL Cohort) in adult patients with relapsed or refractory MCL who had received at least 2 prior lines of therapy including a Bruton's tyrosine kinase (BTK) inhibitor, an alkylating agent, and an antiCD20 agent. The study included patients with ECOG performance status of ≤ 2, prior autologous and/or allogeneic HSCT, and secondary CNS lymphoma involvement. The study excluded patients with a creatinine clearance ≤ 30 mL/min, alanine aminotransferase &gt; 5 times the upper limit of normal or left ventricular ejection fraction (LVEF) &lt; 40%. There was no prespecified threshold for
 
 83 (2)
 
@@ -1068,17 +1065,18 @@ Among the 81 patients included in the efficacy set, the median time to first res
 
 Table 12: TRANSCEND-MCL Cohort: Response rate, duration of response (IRC assessment)
 
-|                                                             | All Leukapheresed (N = 104)   | Efficacy set (N = 81)   |
-|-------------------------------------------------------------|-------------------------------|-------------------------|
-| Overall response rate a , n (%) [95% CI]                    | 73 (70.2) [60.4, 78.8]        | 67 (82.7) [72.7, 90.2]  |
-| Complete response, n (%) [95% CI] b                         | 64 (61.5) [51.5, 70.9]        | 58 (71.6) [60.5, 81.1]  |
-| Partial response, n (%) [95% CI] b                          | 9 (8.7) [4.0, 15.8]           | 9 (11.1) [5.2, 20.0]    |
-| Number of responders                                        |                               |                         |
-| Duration of response (DOR) (months) Median [95% CI] c Range | 15.2 [7.0, 24.0]              | 11.5 [6.2, 24.0]        |
-| Rate of continued remission d ,% [95% CI]                   | 44.8 (32.9; 55.9)             | 41.2 (29.2, 52.9)       |
-| At 24 months follow-up for                                  | 0.0+, 24.0                    | 0.0+, 24.0              |
-| Median DOR                                                  | 23.0 [22,8, 23.1]             | 22.9 [22,8, 23.0]       |
-| (months) Median [95% CI]                                    |                               |                         |
+|                                                         | All Leukapheresed (N = 104)   | Efficacy set (N = 81)   |
+|---------------------------------------------------------|-------------------------------|-------------------------|
+| Overall response rate a , n (%) [95% CI]                | 73 (70.2) [60.4, 78.8]        | 67 (82.7) [72.7, 90.2]  |
+| Complete response, n (%) [95% CI] b                     | 64 (61.5) [51.5, 70.9]        | 58 (71.6) [60.5, 81.1]  |
+| Partial response, n (%) [95% CI] b                      | 9 (8.7) [4.0, 15.8]           | 9 (11.1) [5.2, 20.0]    |
+| Number of responders Duration of response (DOR)         |                               |                         |
+| (months) Median [95% CI] c Range                        | 15.2 [7.0, 24.0]              | 11.5 [6.2, 24.0]        |
+| Rate of continued remission d , % [95% CI] At 24 months | 0.0+, 24.0                    | 0.0+, 24.0              |
+|                                                         | 44.8 (32.9; 55.9)             | 41.2 (29.2, 52.9)       |
+| Median follow-up for (months)                           | 23.0 [22,8,                   |                         |
+| DOR Median [95% CI]                                     | 23.1]                         | 22.9 [22,8, 23.0]       |
+| Range                                                   | 0.0+, 24.0                    | 0.0+, 24.0              |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1088,7 +1086,8 @@ Figure 4 Duration of response by IRC assessment, TRANSCEND-MCL Cohort efficacy s
 
 ## Duration of Response (Months)
 
-<!-- image -->
+| Response Group:   | CR/PR   |
+|-------------------|---------|
 
 CR = complete response; PR = partial response.
 
@@ -1112,7 +1111,7 @@ In TRANSCEND, responders (N = 150) had a 2.85-fold higher median Cmax than non-r
 
 <div style=\"page-break-after: always\"></div>
 
-In TRANSCEND, patients &lt; 65 years old (N = 145) had a 2.93-fold and 2.35-fold higher median Cmax and AUC0-28d , respectively, compared to patients ≥ 65 years old (N = 102, including 77 patients with age 65 - 74 years, 24 with age 75 - 84 years, and 1 with age ≥ 85 years). Sex and body weight did not show clear relationships to Cmax and AUC0-28d.
+In TRANSCEND, patients &lt; 65 years old (N = 145) had a 2.93-fold and 2.35-fold higher median Cmax and AUC0-28d, respectively, compared to patients ≥ 65 years old (N = 102, including 77 patients with age 65 - 74 years, 24 with age 75 - 84 years, and 1 with age ≥ 85 years). Sex and body weight did not show clear relationships to Cmax and AUC0-28d.
 
 ## FL
 
@@ -1393,10 +1392,9 @@ All patients who receive Breyanzi shall be provided with a patient card, which w
 
 The MAH shall complete, within the stated timeframe, the below measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Due date                                                                                     |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| In order to further assess the consistency of product quality and clinical outcomes, the MAHshall submit batch analysis and corresponding clinical safety and effectiveness data from a minimum of thirty (30) lots of Breyanzi finished product used to treat patients included in a non-interventional study based on secondary use of data from existing registries, according to an agreed protocol. Based on this data the MAHshould also provide an evaluation on the need for a revision of the finished product specifications. Interim reports should be provided after approximately 15 lots and any significant out of trend results should be reported immediately. | Interim reports to be submitted in accordance with the RMP. Final report by 31 December 2026 |
-| Non-interventional post-authorisation safety study (PASS): In order to further characterise the long-term safety and efficacy of Breyanzi in its approved indications the MAHshall conduct and submit the results of a prospective study based on data from a registry, according to an agreed protocol.                                                                                                                                                                                                                                                                                                                                                                        | Interim reports to be submitted in accordance with the RMP. Final report: Q4-2043            |
+| Description                                                                                                                                                                                                                                                                                               | Due date                                                                          |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| Non-interventional post-authorisation safety study (PASS): In order to further characterise the long-term safety and efficacy of Breyanzi in its approved indications the MAH shall conduct and submit the results of a prospective study based on data from a registry, according to an agreed protocol. | Interim reports to be submitted in accordance with the RMP. Final report: Q4-2043 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1530,8 +1528,8 @@ Justification for not including Braille accepted.
 
 Not applicable.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 Not applicable.
 
@@ -1650,8 +1648,8 @@ Justification for not including Braille accepted.
 
 Not applicable.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 Not applicable.
 
@@ -1770,8 +1768,8 @@ Justification for not including Braille accepted.
 
 Not applicable.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 Not applicable.
 
@@ -1779,7 +1777,7 @@ Not applicable.
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-## VIAL LABEL (CD8+ CELL COMPONENT)
+VIAL LABEL (CD8+ CELL COMPONENT)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
@@ -1823,7 +1821,7 @@ For autologous use only
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-## VIAL LABEL (CD4+ CELL COMPONENT)
+VIAL LABEL (CD4+ CELL COMPONENT)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
@@ -1855,7 +1853,9 @@ Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-CD4+ cell component 5.1-322 x 10 6 cells/4.6 mL.
+5.1-322 x 10 6 cells/4.6 mL.
+
+CD4+ cell component
 
 ## 6. OTHER
 
@@ -1918,7 +1918,7 @@ Note: Use one syringe per vial. Ensure that only the listed \"volume to be dosed
 
 ## 4. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-## Read the product information before use.
+Read the product information before use.
 
 Intravenous use.
 
@@ -1944,7 +1944,7 @@ Store and transport frozen in the vapour phase of liquid nitrogen (≤ -130 °C)
 
 ## 7. EXPIRY DATE AND OTHER BATCH SPECIFIC INFORMATION
 
-Product Information
+## Product Information
 
 | Manufactured by:   |
 |--------------------|
@@ -2374,7 +2374,11 @@ Bristol-Myers Squibb Pharmaceuticals uc Tel: 1 800 749 749 (+ 353 (0)1 483 3625)
 
 ## Slovenija
 
-Swixx Biopharma d.o.o. Tel: + 386 1 2355 100 medinfo.slovenia@swixxbiopharma.com
+Swixx Biopharma d.o.o.
+
+Tel: + 386 1 2355 100
+
+medinfo.slovenia@swixxbiopharma.com
 
 ## Ísland
 
@@ -2394,7 +2398,11 @@ medinfo.slovakia@swixxbiopharma.com
 
 ## Italia
 
-Bristol-Myers Squibb S.r.l. Tel: + 39 06 50 39 61 medicalinformation.italia@bms.com
+Bristol-Myers Squibb S.r.l.
+
+Tel: + 39 06 50 39 61
+
+medicalinformation.italia@bms.com
 
 ## Suomi/Finland
 

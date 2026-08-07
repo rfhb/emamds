@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-11-15 10:11:55
-document_pages: 44
+document_datetime: 2026-08-05 16:20:14
+document_pages: 43
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/degarelix-accord-epar-product-information_en.pdf
 document_name: degarelix-accord-epar-product-information_en.pdf
 version: success
-processing_time: 9.0815466
-conversion_datetime: 2025-12-23 02:35:13.549933
+processing_time: 8.49145
+conversion_datetime: 2026-08-07 14:32:08.863848
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -62,9 +62,9 @@ Degarelix Accord is a gonadotrophin releasing hormone (GnRH) antagonist indicate
 
 Table 1. Starting and maintenance dose of Degarelix Accord
 
-| Starting dose                                                               | Maintenance dose - monthly administration       |
-|-----------------------------------------------------------------------------|-------------------------------------------------|
-| 240 mgadministered as two consecutive subcutaneous injections of 120 mgeach | 80 mgadministered as one subcutaneous injection |
+| Starting dose                                                                 | Maintenance dose - monthly administration        |
+|-------------------------------------------------------------------------------|--------------------------------------------------|
+| 240 mg administered as two consecutive subcutaneous injections of 120 mg each | 80 mg administered as one subcutaneous injection |
 
 The first maintenance dose should be given one month after the starting dose.
 
@@ -172,14 +172,14 @@ The frequency of undesirable effects listed below is defined using the following
 
 ## Table 2: Frequency of adverse drug reactions reported in 1,259 patients treated for a total of 1,781 patient years (phase II and III studies) and from post-marketing reports
 
-| MedDRA SystemOrgan Class (SOC)       | Very common   | Common   | Uncommon         | Rare                   |
+| MedDRA System Organ Class (SOC)      | Very common   | Common   | Uncommon         | Rare                   |
 |--------------------------------------|---------------|----------|------------------|------------------------|
 | Blood and lymphatic system disorders |               | Anaemia* |                  | Neutropenic fever      |
-| Immunesystem disorders               |               |          | Hypersensitivity | Anaphylactic reactions |
+| Immune system disorders              |               |          | Hypersensitivity | Anaphylactic reactions |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA SystemOrgan Class (SOC)                         | Very common                      | Common                                                     | Uncommon                                                                                                               | Rare                                   |
+| MedDRA System Organ Class (SOC)                        | Very common                      | Common                                                     | Uncommon                                                                                                               | Rare                                   |
 |--------------------------------------------------------|----------------------------------|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
 | Metabolism and nutrition disorders                     |                                  | Weight increase*                                           | Hyperglycemia/Diabetes mellitus, cholesterol increased, weight decreased, appetite decreased, changes in blood calcium |                                        |
 | Psychiatric disorders                                  |                                  | Insomnia                                                   | Depression, libido decreased*                                                                                          |                                        |
@@ -202,11 +202,9 @@ The frequency of undesirable effects listed below is defined using the following
 
 ## Changes in laboratory parameters
 
-Changes in laboratory values seen during one year of treatment in the confirmatory phase III study (N=409) were in the same range for degarelix and a GnRH-agonist (leuprorelin) used as comparator. Markedly abnormal (&gt; 3*ULN) liver transaminase values (ALT, AST and GGT) were seen in 2-6% of patients with normal values prior to treatment, following treatment with both
+Changes in laboratory values seen during one year of treatment in the confirmatory phase III study (N=409) were in the same range for degarelix and a GnRH-agonist (leuprorelin) used as comparator. Markedly abnormal (&gt; 3*ULN) liver transaminase values (ALT, AST and GGT) were seen in 2-6% of patients with normal values prior to treatment, following treatment with both medicinal products. Marked decrease in haematological values, hematocrit (≤ 0.37) and hemoglobin (≤ 115 g/l) were seen in 40% and 13-15%, respectively, of patients with normal values prior to treatment, following treatment with both medicinal products. It is unknown to what extent this decrease in haematological values was caused by the underlying prostate cancer and to what extent it was a consequence of androgen deprivation therapy. Markedly abnormal values of potassium (≥ 5.8 mmol/l), creatinine (≥ 177 μmol/l) and BUN (≥ 10.7 mmol/l) in patients with normal values prior to treatment, were seen in 6%, 2% and 15% of degarelix treated patients and 3%, 2% and 14% of leuprorelin treated patients, respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-medicinal products. Marked decrease in haematological values, hematocrit (≤ 0.37) and hemoglobin (≤ 115 g/l) were seen in 40% and 13-15%, respectively, of patients with normal values prior to treatment, following treatment with both medicinal products. It is unknown to what extent this decrease in haematological values was caused by the underlying prostate cancer and to what extent it was a consequence of androgen deprivation therapy. Markedly abnormal values of potassium (≥ 5.8 mmol/l), creatinine (≥ 177 μmol/l) and BUN (≥ 10.7 mmol/l) in patients with normal values prior to treatment, were seen in 6%, 2% and 15% of degarelix treated patients and 3%, 2% and 14% of leuprorelin treated patients, respectively.
 
 ## Changes in ECG measurements
 
@@ -232,11 +230,9 @@ Degarelix is a selective gonadotrophin releasing-hormone (GnRH) antagonist that 
 
 A single dose of 240 mg degarelix, followed by a monthly maintenance dose of 80 mg, rapidly causes a decrease in the concentrations of LH, FSH and subsequently testosterone. The serum concentration of dihydrotestosterone (DHT) decreases in a similar manner to testosterone.
 
-Degarelix is effective in achieving and maintaining testosterone suppression well below medical castration level of 0.5 ng/ml. Maintenance monthly dosing of 80 mg resulted in sustained
+Degarelix is effective in achieving and maintaining testosterone suppression well below medical castration level of 0.5 ng/ml. Maintenance monthly dosing of 80 mg resulted in sustained testosterone suppression in 97% of patients for at least one year. No testosterone microsurges were observed after re-injection during degarelix treatment. Median testosterone levels after one year of treatment were 0.087 ng/ml (interquartile range 0.06-0.15) N=167.
 
 <div style=\"page-break-after: always\"></div>
-
-testosterone suppression in 97% of patients for at least one year. No testosterone microsurges were observed after re-injection during degarelix treatment. Median testosterone levels after one year of treatment were 0.087 ng/ml (interquartile range 0.06-0.15) N=167.
 
 ## Results of the confirmatory Phase III study
 
@@ -260,13 +256,13 @@ Degarelix is effective in achieving fast testosterone suppression, see table 3.
 
 Table 3: Percentage of patients attaining T ≤ 0.5 ng/ml after start of treatment.
 
-| Time   | Degarelix 240/80mg   | Leuprorelin 7.5 mg   |
-|--------|----------------------|----------------------|
-| Day 1  | 52%                  | 0%                   |
-| Day 3  | 96%                  | 0%                   |
-| Day 7  | 99%                  | 1%                   |
-| Day 14 | 100%                 | 18%                  |
-| Day 28 | 100%                 | 100%                 |
+| Time   | Degarelix 240/80 mg   | Leuprorelin 7.5 mg   |
+|--------|-----------------------|----------------------|
+| Day 1  | 52%                   | 0%                   |
+| Day 3  | 96%                   | 0%                   |
+| Day 7  | 99%                   | 1%                   |
+| Day 14 | 100%                  | 18%                  |
+| Day 28 | 100%                  | 100%                 |
 
 ## Avoidance of testosterone surge
 
@@ -292,13 +288,11 @@ Successful response in the study was defined as attainment of medical castration
 
 Table 4: Cumulative probability of testosterone ≤ 0.5 ng/ml from Day 28 to Day 364.
 
-|                           | Degarelix 240/80mg N=207   | Leuprorelin 7.5mg N=201   |
-|---------------------------|----------------------------|---------------------------|
-| No. of responders         | 202                        | 194                       |
-| Response Rate (confidence | 97.2%                      | 96.4%                     |
-| intervals)*               | (93.5; 98.8%)              | (92.5; 98.2%)             |
-
-* Kaplan Meier estimates within group
+|                           | Degarelix 240/80 mg N=207   | Leuprorelin 7.5 mg N=201   |
+|---------------------------|-----------------------------|----------------------------|
+| No. of responders         | 202                         | 194                        |
+| Response Rate (confidence | 97.2%                       | 96.4%                      |
+| intervals)*               | (93.5; 98.8%)               | (92.5; 98.2%)              |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -306,7 +300,7 @@ Table 4: Cumulative probability of testosterone ≤ 0.5 ng/ml from Day 28 to Day
 
 Tumour size was not measured directly during the clinical trial programme, but there was an indirect beneficial tumour response as shown by a 95% reduction after 12 months in median PSA for degarelix.
 
-The median PSA in the study at baseline was:
+## The median PSA in the study at baseline was:
 
 - for the degarelix 240/80 mg treatment group 19.8 ng/ml (interquartile range: P25 9.4 ng/ml, P75 46.4 ng/ml)
 - for the leuprorelin 7.5 mg treatment group 17.4 ng/ml (interquartile range: P25 8.4 ng/ml, P75 56.5 ng/ml)
@@ -345,7 +339,7 @@ Overall total mortality at 5 years in the short-term hormonal treatment and long
 
 The recommended duration of androgen deprivation therapy in medical guidelines for T3-T4 patients receiving radiotherapy is 2-3 years.
 
-Evidence for the indication of high-risk localized prostate cancer is based on a number of published studies of radiotherapy combined with GnRH analogues. Clinical data from five published studies were analyzed (EORTC 22863, RTOG 85-31, RTOG 92-02, RTOG 86-10 and D'Amico et al., JAMA 2004), which all demonstrate a benefit for the combination of GnRH analogue with radiotherapy.
+Evidence for the indication of high-risk localized prostate cancer is based on a number of published studies of radiotherapy combined with GnRH analogues. Clinical data from five published studies were analyzed (EORTC 22863, RTOG 85-31, RTOG 92-02, RTOG 8610 and D'Amico et al., JAMA 2004), which all demonstrate a benefit for the combination of GnRH analogue with radiotherapy.
 
 Clear difference of the respective study populations for the indications locally advanced prostate cancer and high-risk localized prostate cancer was not possible in the published studies.
 
@@ -389,11 +383,9 @@ No pharmacokinetic studies in renally impaired patients have been conducted. Onl
 
 ## Patients with hepatic impairment
 
-Degarelix has been investigated in a pharmacokinetic study in patients with mild to moderate hepatic impairment. No signs of increased exposure in the hepatically impaired subjects were observed compared to healthy subjects. Dose adjustment is not necessary in patients with mild or
+Degarelix has been investigated in a pharmacokinetic study in patients with mild to moderate hepatic impairment. No signs of increased exposure in the hepatically impaired subjects were observed compared to healthy subjects. Dose adjustment is not necessary in patients with mild or moderate hepatic impairment. Patients with severe hepatic dysfunction have not been studied and caution is therefore warranted in this group.
 
 <div style=\"page-break-after: always\"></div>
-
-moderate hepatic impairment. Patients with severe hepatic dysfunction have not been studied and caution is therefore warranted in this group.
 
 ## 5.3 Preclinical safety data
 
@@ -547,13 +539,13 @@ EU/1/23/1753/001-002 (80 mg) EU/1/23/1753/003 (120 mg)
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation:  02 October 2023.
 
 <div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu/.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu/.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -569,17 +561,15 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturers responsible for batch release
 
-Accord Healthcare Polska Sp.z o.o. ul. Lutomierska 50, 95-200 Pabianice, Poland
+Accord Healthcare Polska Sp.z o.o. ul. Lutomierska 50,
+
+95-200 Pabianice, Poland
 
 Or Laboratori Fundació Dau C/ C, 12-14 Pol. Ind. Zona Franca, Barcelona, 08040, Spain
 
-Or
+Or Pharmadox Healthcare Limited
 
-Accord Healthcare B.V. Winthontlaan 200, 3526KV Utrecht The Netherlands
-
-Or
-
-Pharmadox Healthcare Limited KW20A Kordin Industrial Park, Paola, PLA 3000, Malta
+KW20A Kordin Industrial Park, Paola, PLA 3000, Malta
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -601,12 +591,8 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or
-
-<div style=\"page-break-after: always\"></div>
-
-as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -644,7 +630,8 @@ Powder and solvent for solution for injection
 
 1 vial with 80 mg degarelix (powder)
 
-- 1 pre-filled syringe with 4.2 ml solvent
+1 pre-filled syringe with 4.2 ml solvent
+
 - 1 plunger rod
 - 1 vial adapter
 - 1 injection needle
@@ -710,16 +697,14 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-VIAL FOR Degarelix Accord 80 mg powder for solution for injection
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL FOR Degarelix Accord 80 mg powder for solution for injection
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
 
@@ -740,6 +725,9 @@ Lot
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 ## 6. OTHER
+
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -819,13 +807,7 @@ EXP
 
 Store below 25°C.
 
-10.
-
-SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
-
-OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
-
-APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -946,7 +928,7 @@ Degarelix is a synthetic hormone blocker used in the treatment of prostate cance
 
 ## Do not use Degarelix Accord
 
--  if you are allergic to degarelix or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to degarelix or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -1094,15 +1076,25 @@ Laboratori Fundació Dau C/ C, 12-14 Pol. Ind. Zona Franca, Barcelona, 08040, Sp
 
 Or
 
-Accord Healthcare B.V. Winthontlaan 200, 3526KV Utrecht The Netherlands
-
-Or
-
 Pharmadox Healthcare Limited KW20A Kordin Industrial Park, Paola PLA 3000, Malta
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+AT / BE / BG / CY / CZ / DE / DK / EE / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PT / PL / RO / SE / SI / SK /  ES
+
+Accord Healthcare S.L.U.
+
+Tel: +34 93 301 00 64
+
+EL
+
+Win Medica A.E.
+
+Tel: +30 210 7488 821
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1120,19 +1112,16 @@ The pack contains one vial of powder and one pre-filled syringe with solvent tha
 
 <!-- image -->
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
 1. Remove the cover from the vial adapter pack. Attach the adapter to the powder vial by pressing the adapter down until the spike pushes through the rubber stopper and the adapter snaps in place.
-
 2. Prepare the pre-filled syringe by attaching the plunger rod.
-
 3. Remove the cap of the pre-filled syringe. Attach the syringe to the powder vial by screwing it on to the adapter. Transfer all solvent to the powder vial.
-
 4. With the syringe still attached to the adapter, swirl gently until the liquid looks clear and without undissolved powder or particles. If the powder adheres to the side of the vial above the liquid surface, the vial can be tilted slightly. Avoid shaking to prevent foam formation.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 A ring of small air bubbles on the surface of the liquid is acceptable. The reconstitution procedure usually takes a few minutes, but may take up to 15 minutes in some cases.
 
@@ -1141,16 +1130,6 @@ A ring of small air bubbles on the surface of the liquid is acceptable. The reco
 Always make sure to withdraw the precise volume and adjust for any air bubbles.
 
 6. Detach the syringe from the vial adapter and attach the needle for deep subcutaneous injection to the syringe.
-
-I→
-
-1.
-
-3.
-
-4ml
-
-5
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1197,7 +1176,7 @@ Degarelix is a synthetic hormone blocker used in the treatment of prostate cance
 
 ## Do not use Degarelix Accord
 
--  if you are allergic to degarelix or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to degarelix or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -1299,7 +1278,7 @@ Store below 25°C.
 
 ## After reconstitution:
 
-## This medicine is stable for 4 hours at 25°C.
+This medicine is stable for 4 hours at 25°C.
 
 Due to the risk of microbial contamination, this medicine should be used immediately. If not used immediately, the use of this medicine are the responsibility of the user.
 
@@ -1341,15 +1320,25 @@ Laboratori Fundació Dau C/ C, 12-14 Pol. Ind. Zona Franca, Barcelona, 08040, Sp
 
 Or
 
-Accord Healthcare B.V. Winthontlaan 200, 3526KV Utrecht The Netherlands
-
-Or
-
 Pharmadox Healthcare Limited KW20A Kordin Industrial Park, Paola PLA 3000, Malta
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+AT / BE / BG / CY / CZ / DE / DK / EE / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PT / PL / RO / SE / SI / SK /  ES
+
+Accord Healthcare S.L.U.
+
+Tel: +34 93 301 00 64
+
+EL
+
+Win Medica A.E.
+
+Tel: +30 210 7488 821
 
 ## This leaflet was last revised in
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/.
 
 <div style=\"page-break-after: always\"></div>
 

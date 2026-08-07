@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-29 14:49:56
+document_datetime: 2026-08-05 10:50:24
 document_pages: 41
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/caprelsa-epar-product-information_en.pdf
 document_name: caprelsa-epar-product-information_en.pdf
 version: success
-processing_time: 17.4133496
-conversion_datetime: 2026-06-01 17:16:25.677005
+processing_time: 8.5071493
+conversion_datetime: 2026-08-07 14:35:16.312419
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.1
-  docling: 2.96.1
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 © ESTEVE (2026) INTERNAL USE
 
@@ -880,17 +880,17 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Caprelsa 100 mg tablets vandetanib
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Esteve Pharmaceuticals S.A.
 
@@ -995,17 +995,17 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Caprelsa 300 mg tablets vandetanib
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Esteve Pharmaceuticals S.A.
 
@@ -1398,23 +1398,21 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-[Esteve Pharmaceuticals BV/SRL adgadegroote@external.esteve.com](mailto:adgadegroote@external.esteve.com)
+Esteve Pharmaceuticals BV/SRL adgadegroote@external.esteve.com
 
 ## България
 
-Esteve Pharmaceuticals S.A.
-
-Τeл
-
-: +34 93 446 60 00
+Медис Фарма България ЕООД Te л.: +359 2 427 49 58
 
 ## Česká republika
 
-Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
+Akacia Group, s.r.o. Tel. +420 220 610 491
 
 ## Danmark
 
-Esteve Pharmaceuticals S.A. Τlf: +34 93 446 60 00
+Abacus Medicine A/S
+
+amp-medinfo@abacusmedicine.com
 
 ## Deutschland
 
@@ -1422,11 +1420,11 @@ Esteve Pharmaceuticals GmbH Tel.: +49 30 338427-0
 
 ## Eesti
 
-Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
+Medis Pharma Lithuania UAB Tel: + 370 687 35006
 
 ## Ελλάδα
 
-Esteve Pharmaceuticals S.A. Τηλ.: +34 93 446 60 00
+SPECIALTY THERAPEUTICS IKE Τηλ.: +30 2130233913
 
 ## España
 
@@ -1438,7 +1436,7 @@ Esteve Pharmaceuticals S.A.S Tél: +33 1 42 31 07 10
 
 ## Hrvatska
 
-Esteve Pharmaceuticals S.A. Τlf: +34 93 446 60 00
+Makpharm d.o.o. Tel: +385 1 4678 688
 
 ## Ireland
 
@@ -1450,19 +1448,19 @@ Esteve Pharmaceuticals S.A. Sími: +34 93 446 60 00
 
 ## Italia
 
-Esteve Pharmaceuticals SRL Tel: +39 345 9214959
+Esteve Pharmaceuticals SRL Tel: +39 02 89626888
 
 © ESTEVE (2026) INTERNAL USE
 
 ## Lietuva
 
-Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
+Medis Pharma Lithuania UAB Tel: + 370 687 35006
 
 Luxembourg/Luxemburg Esteve Pharmaceuticals BV/SRL adgadegroote@external.esteve.com
 
 ## Magyarország
 
-Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
+Medis Hungary Kft Tel: +36(0)23801028
 
 ## Malta
 
@@ -1474,7 +1472,9 @@ Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
 
 ## Norge
 
-Esteve Pharmaceuticals S.A. Τlf: +34 93 446 60 00
+Abacus Medicine A/S
+
+amp-medinfo@abacusmedicine.com
 
 ## Österreich
 
@@ -1482,43 +1482,47 @@ Esteve Pharmaceuticals GmbH Tel.: 0800560044
 
 ## Polska
 
-Esteve Pharmaceuticals S.A. Τlf: +34 93 446 60 00
+IMED Poland Sp. z o. o.
+
+Tel: (+48) 22 663 43 10
 
 ## Portugal
 
-Esteve Pharmaceuticals - Laboratório Farmacêutico Lda.
-
-Tel: +351 91 422 4766
+Esteve Pharmaceuticals - Laboratório Farmacêutico Lda. Tel: +351 91 422 4766
 
 ## România
 
-Esteve Pharmaceuticals S.A. Tel: +34 93 446 60 00
+Medis RO S.R.L.
+
+medis.ro@medis.com
 
 ## Slovenija
 
-Esteve Pharmaceuticals S.A. Tel: +34 93 446 60 00
+Medis d.o.o.
+
+Tel: +386(0)15896900
 
 ## Slovenská republika
 
-Esteve Pharmaceuticals S.A. Τlf: +34 93 446 60 00
+Medis Pharma Slovakia s.r.o. Tel: +421 2 32 39 3403
 
 ## Suomi/Finland
 
-Esteve Pharmaceuticals S.A. Puh/Tel: +34 93 446 60 00
+Abacus Medicine A/S
+
+amp-medinfo@abacusmedicine.com
 
 <div style=\"page-break-after: always\"></div>
 
 ## Κύπρος
 
-Esteve Pharmaceuticals S.A.
+SPECIALTY THERAPEUTICS IKE
 
-Τel: +34 93 446 60 00
+Τηλ.: +30 2130233913
 
 ## Latvija
 
-Esteve Pharmaceuticals S.A.
-
-Τel: +34 93 446 60 00
+Medis Pharma Lithuania UAB Tel: + 370 687 35006
 
 ## This leaflet was last revised in
 
@@ -1528,4 +1532,6 @@ Detailed information on this medicine is available on the European Medicines Age
 
 © ESTEVE (2026) INTERNAL USE
 
-Sverige Esteve Pharmaceuticals S.A. Τel: +34 93 446 60 00
+Sverige Abacus Medicine A/S
+
+amp-medinfo@abacusmedicine.com

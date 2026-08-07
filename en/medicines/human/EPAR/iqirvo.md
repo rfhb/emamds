@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-30 13:09:00
+document_datetime: 2026-08-05 15:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/iqirvo.html
 document_name: iqirvo.html
 version: success
-processing_time: 0.1353919
-conversion_datetime: 2026-07-04 13:07:48.188493
+processing_time: 0.1086486
+conversion_datetime: 2026-08-07 13:53:56.760219
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Iqirvo
 
@@ -114,7 +114,7 @@ English (EN) (122.35 KB - PDF)
 
 [View](/en/documents/overview/iqirvo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-989)
+[Other languages (22)](#file-language-dropdown-205)
 
 български (BG) (147.99 KB - PDF)
 
@@ -260,161 +260,161 @@ English (EN) (2.75 MB - PDF)
 
 Iqirvo : EPAR - Product information
 
-English (EN) (365.92 KB - PDF)
+English (EN) (488.94 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/en/documents/product-information/iqirvo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-451)
+[Other languages (24)](#file-language-dropdown-399)
 
-български (BG) (397.72 KB - PDF)
+български (BG) (594.13 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/bg/documents/product-information/iqirvo-epar-product-information_bg.pdf)
 
-español (ES) (333.92 KB - PDF)
+español (ES) (530.16 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/es/documents/product-information/iqirvo-epar-product-information_es.pdf)
 
-čeština (CS) (368.85 KB - PDF)
+čeština (CS) (513.71 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/cs/documents/product-information/iqirvo-epar-product-information_cs.pdf)
 
-dansk (DA) (7.75 MB - PDF)
+dansk (DA) (571.09 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/da/documents/product-information/iqirvo-epar-product-information_da.pdf)
 
-Deutsch (DE) (419.71 KB - PDF)
+Deutsch (DE) (578.56 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/de/documents/product-information/iqirvo-epar-product-information_de.pdf)
 
-eesti (ET) (335.82 KB - PDF)
+eesti (ET) (553.64 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/et/documents/product-information/iqirvo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (459.73 KB - PDF)
+ελληνικά (EL) (592.09 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/el/documents/product-information/iqirvo-epar-product-information_el.pdf)
 
-français (FR) (411.41 KB - PDF)
+français (FR) (730.76 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/fr/documents/product-information/iqirvo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (363.01 KB - PDF)
+hrvatski (HR) (518.32 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/hr/documents/product-information/iqirvo-epar-product-information_hr.pdf)
 
-italiano (IT) (383.41 KB - PDF)
+italiano (IT) (546.82 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/it/documents/product-information/iqirvo-epar-product-information_it.pdf)
 
-latviešu (LV) (368.13 KB - PDF)
+latviešu (LV) (547.92 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/lv/documents/product-information/iqirvo-epar-product-information_lv.pdf)
 
-lietuvių (LT) (381.31 KB - PDF)
+lietuvių (LT) (530.72 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/lt/documents/product-information/iqirvo-epar-product-information_lt.pdf)
 
-magyar (HU) (414.69 KB - PDF)
+magyar (HU) (540.91 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/hu/documents/product-information/iqirvo-epar-product-information_hu.pdf)
 
-Malti (MT) (423.24 KB - PDF)
+Malti (MT) (549.56 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/mt/documents/product-information/iqirvo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (400.13 KB - PDF)
+Nederlands (NL) (680.62 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/nl/documents/product-information/iqirvo-epar-product-information_nl.pdf)
 
-polski (PL) (373.55 KB - PDF)
+polski (PL) (550.24 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/pl/documents/product-information/iqirvo-epar-product-information_pl.pdf)
 
-português (PT) (319.54 KB - PDF)
+português (PT) (509.17 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/pt/documents/product-information/iqirvo-epar-product-information_pt.pdf)
 
-română (RO) (381.37 KB - PDF)
+română (RO) (557.38 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/ro/documents/product-information/iqirvo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (371.49 KB - PDF)
+slovenčina (SK) (545.4 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/sk/documents/product-information/iqirvo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (361.71 KB - PDF)
+slovenščina (SL) (535.74 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/sl/documents/product-information/iqirvo-epar-product-information_sl.pdf)
 
-suomi (FI) (367.71 KB - PDF)
+suomi (FI) (527.88 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/fi/documents/product-information/iqirvo-epar-product-information_fi.pdf)
 
-svenska (SV) (408.47 KB - PDF)
+svenska (SV) (590.56 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/sv/documents/product-information/iqirvo-epar-product-information_sv.pdf)
 
-Íslenska (IS) (349.82 KB - PDF)
+Íslenska (IS) (459.51 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/is/documents/product-information/iqirvo-epar-product-information_is.pdf)
 
-norsk (NO) (420.72 KB - PDF)
+norsk (NO) (582.33 KB - PDF)
 
-**First published:** 20/09/2024 **Last updated:** 28/07/2025
+**First published:** 20/09/2024 **Last updated:** 05/08/2026
 
 [View](/no/documents/product-information/iqirvo-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000349501
+**Latest procedure affecting product information:** VR/0000339224
 
-24/06/2026
+11/06/2026
 
 icon globe
 
@@ -439,7 +439,7 @@ English (EN) (59.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/iqirvo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-114)
+[Other languages (24)](#file-language-dropdown-608)
 
 български (BG) (67.86 KB - PDF)
 
@@ -623,7 +623,7 @@ Iqirvo is indicated for the treatment of primary biliary cholangitis (PBC) in co
 - **Marketing authorisation issued**
     - 19/09/2024
 - **Revision**
-    - 4
+    - 5
 
 ## Assessment history
 
@@ -635,9 +635,9 @@ Collapse section
 
 Iqirvo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (184.75 KB - PDF)
+English (EN) (187.9 KB - PDF)
 
-**First published:** 06/05/2025 **Last updated:** 30/06/2026
+**First published:** 06/05/2025 **Last updated:** 05/08/2026
 
 [View](/en/documents/procedural-steps-after/iqirvo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -685,6 +685,6 @@ English (EN) (161.65 KB - PDF)
 
 **This page was last updated on**
 
-30/06/2026
+05/08/2026
 
 ## Share this page

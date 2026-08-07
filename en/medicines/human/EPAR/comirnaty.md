@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-24 11:37:00
+document_datetime: 2026-08-06 16:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/comirnaty.html
 document_name: comirnaty.html
 version: success
-processing_time: 0.3140277
-conversion_datetime: 2026-07-28 13:01:50.381927
+processing_time: 0.2686408
+conversion_datetime: 2026-08-07 13:56:34.105986
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 # Comirnaty
 
@@ -227,7 +227,7 @@ English (EN) (165.99 KB - PDF)
 
 [View](/en/documents/overview/comirnaty-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-955)
+[Other languages (22)](#file-language-dropdown-163)
 
 български (BG) (204.05 KB - PDF)
 
@@ -373,161 +373,161 @@ English (EN) (2.69 MB - PDF)
 
 Comirnaty : EPAR - Product information
 
-English (EN) (1.93 MB - PDF)
+English (EN) (2.34 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/en/documents/product-information/comirnaty-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-712)
+[Other languages (24)](#file-language-dropdown-513)
 
-български (BG) (4.08 MB - PDF)
+български (BG) (5.09 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/bg/documents/product-information/comirnaty-epar-product-information_bg.pdf)
 
-español (ES) (3.6 MB - PDF)
+español (ES) (4.49 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/es/documents/product-information/comirnaty-epar-product-information_es.pdf)
 
-čeština (CS) (4.05 MB - PDF)
+čeština (CS) (5.07 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/cs/documents/product-information/comirnaty-epar-product-information_cs.pdf)
 
-dansk (DA) (3.57 MB - PDF)
+dansk (DA) (4.47 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/da/documents/product-information/comirnaty-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.98 MB - PDF)
+Deutsch (DE) (3.65 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/de/documents/product-information/comirnaty-epar-product-information_de.pdf)
 
-eesti (ET) (3.51 MB - PDF)
+eesti (ET) (4.36 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/et/documents/product-information/comirnaty-epar-product-information_et.pdf)
 
-ελληνικά (EL) (3.94 MB - PDF)
+ελληνικά (EL) (4.98 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/el/documents/product-information/comirnaty-epar-product-information_el.pdf)
 
-français (FR) (3.9 MB - PDF)
+français (FR) (4.87 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/fr/documents/product-information/comirnaty-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.66 MB - PDF)
+hrvatski (HR) (4.14 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/hr/documents/product-information/comirnaty-epar-product-information_hr.pdf)
 
-italiano (IT) (3.89 MB - PDF)
+italiano (IT) (4.85 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/it/documents/product-information/comirnaty-epar-product-information_it.pdf)
 
-latviešu (LV) (3.68 MB - PDF)
+latviešu (LV) (4.58 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/lv/documents/product-information/comirnaty-epar-product-information_lv.pdf)
 
-lietuvių (LT) (3.85 MB - PDF)
+lietuvių (LT) (4.81 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/lt/documents/product-information/comirnaty-epar-product-information_lt.pdf)
 
-magyar (HU) (3.86 MB - PDF)
+magyar (HU) (4.83 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/hu/documents/product-information/comirnaty-epar-product-information_hu.pdf)
 
-Malti (MT) (4.31 MB - PDF)
+Malti (MT) (5.4 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/mt/documents/product-information/comirnaty-epar-product-information_mt.pdf)
 
-Nederlands (NL) (3.65 MB - PDF)
+Nederlands (NL) (4.55 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/nl/documents/product-information/comirnaty-epar-product-information_nl.pdf)
 
-polski (PL) (4.14 MB - PDF)
+polski (PL) (5.15 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/pl/documents/product-information/comirnaty-epar-product-information_pl.pdf)
 
-português (PT) (3.67 MB - PDF)
+português (PT) (4.57 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/pt/documents/product-information/comirnaty-epar-product-information_pt.pdf)
 
-română (RO) (3.89 MB - PDF)
+română (RO) (4.85 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/ro/documents/product-information/comirnaty-epar-product-information_ro.pdf)
 
-slovenčina (SK) (4 MB - PDF)
+slovenčina (SK) (4.99 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/sk/documents/product-information/comirnaty-epar-product-information_sk.pdf)
 
-slovenščina (SL) (3.79 MB - PDF)
+slovenščina (SL) (4.74 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/sl/documents/product-information/comirnaty-epar-product-information_sl.pdf)
 
-suomi (FI) (3.7 MB - PDF)
+suomi (FI) (4.6 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/fi/documents/product-information/comirnaty-epar-product-information_fi.pdf)
 
-svenska (SV) (3.52 MB - PDF)
+svenska (SV) (4.4 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/sv/documents/product-information/comirnaty-epar-product-information_sv.pdf)
 
-Íslenska (IS) (3.54 MB - PDF)
+Íslenska (IS) (4.4 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/is/documents/product-information/comirnaty-epar-product-information_is.pdf)
 
-norsk (NO) (3.6 MB - PDF)
+norsk (NO) (4.49 MB - PDF)
 
-**First published:** 12/01/2021 **Last updated:** 29/05/2026
+**First published:** 12/01/2021 **Last updated:** 06/08/2026
 
 [View](/no/documents/product-information/comirnaty-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000320534
+**Latest procedure affecting product information:** VR/0000355113
 
-26/05/2026
+28/07/2026
 
 icon globe
 
@@ -552,7 +552,7 @@ English (EN) (41.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-185)
+[Other languages (24)](#file-language-dropdown-895)
 
 български (BG) (134.77 KB - PDF)
 
@@ -725,6 +725,8 @@ Comirnaty KP.2 dispersion for injection is indicated for active immunisation to 
 
 Comirnaty LP.8.1 dispersion for injection is indicated for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals 6 months of age and older. The use of this vaccine should be in accordance with official recommendations.
 
+Comirnaty XFG dispersion for injection is indicated for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals 6 months of age and older. The use of this vaccine should be in accordance with official recommendations.
+
 ## Authorisation details
 
 - **EMA product number**
@@ -738,7 +740,7 @@ Comirnaty LP.8.1 dispersion for injection is indicated for active immunisation t
 - **Marketing authorisation issued**
     - 21/12/2020
 - **Revision**
-    - 62
+    - 63
 
 ## Assessment history
 
@@ -750,9 +752,9 @@ Collapse section
 
 Comirnaty : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (301.32 KB - PDF)
+English (EN) (291.19 KB - PDF)
 
-**First published:** 08/10/2024 **Last updated:** 29/05/2026
+**First published:** 08/10/2024 **Last updated:** 06/08/2026
 
 [View](/en/documents/procedural-steps-after/comirnaty-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1902,6 +1904,6 @@ English (EN) (813.79 KB - PDF)
 
 **This page was last updated on**
 
-24/07/2026
+06/08/2026
 
 ## Share this page

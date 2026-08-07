@@ -1,28 +1,26 @@
 ---
-document_datetime: 2026-02-11 12:03:30
+document_datetime: 2026-08-04 10:59:42
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/qinlock-epar-product-information_en.pdf
 document_name: qinlock-epar-product-information_en.pdf
 version: success
-processing_time: 7.9235151
-conversion_datetime: 2026-02-13 18:25:58.21364
+processing_time: 5.6979902
+conversion_datetime: 2026-08-07 14:23:07.248051
 docling_version:
-  docling-serve: 1.12.0
-  docling-jobkit: 1.10.2
-  docling: 2.73.1
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 4.7.3
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.118.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.10.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -64,11 +62,11 @@ In case of vomiting after QINLOCK administration, the patient should not take a 
 
 Treatment with QINLOCK should continue as long as benefit is observed or until unacceptable toxicity (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Posology adjustments
 
 Dose interruptions or dose reductions may be required based on individual safety and tolerability. The recommended dose reduction for adverse reactions is 100 mg orally, once daily.
+
+<div style=\"page-break-after: always\"></div>
 
 QINLOCK should be permanently discontinued in patients who are unable to tolerate 100 mg orally once daily. The recommended dose modifications for QINLOCK for adverse reactions are provided in Table 1.
 
@@ -85,15 +83,11 @@ Table 1: Recommended dose modifications for adverse reactions
 | Arthralgia or myalgia (see section 4.8)                                       | Grade 3      | • Withhold for at least 7 days or until Grade ≤1 or baseline (maximum of 28 days). Resume at a reduced dose. • Consider re- escalating if maintained at Grade ≤1 or baseline for at least 28 days.                                                                                                                                                          |
 | Other adverse reactions (see section 4.8)                                     | Grade 3 or 4 | • Withhold until Grade ≤1 or baseline (maximum 28 days), and then resume at a reduced dose; otherwise permanently discontinue. • Consider re-escalating if no recurrence of the adverse reaction for at least 28 days. • If Grade 3 or 4 recurs, permanently discontinue.                                                                                   |
 
-a Graded per National Cancer Institute Common Terminology Criteria for Adverse Events version 4.03 (NCI CTCAE v4.03).
-
 ## Concomitant medicinal products
 
-Concomitant medicinal products that are strong or moderate inducers of CYP3A should be avoided (see sections 4.4 and 4.5). If a strong or moderate CYP3A inducer must be co-administered, the QINLOCK dosing frequency may be increased during the co-administration period. For strong inducers, the dose may be increased from 150 mg once daily to 150 mg twice daily. For patients taking QINLOCK twice daily, if the patient misses a dose within 4 hours of the time it is usually taken, the
+Concomitant medicinal products that are strong or moderate inducers of CYP3A should be avoided (see sections 4.4 and 4.5). If a strong or moderate CYP3A inducer must be co-administered, the QINLOCK dosing frequency may be increased during the co-administration period. For strong inducers, the dose may be increased from 150 mg once daily to 150 mg twice daily. For patients taking QINLOCK twice daily, if the patient misses a dose within 4 hours of the time it is usually taken, the patient should be instructed to take the missed dose as soon as possible and then take the next dose at the regularly scheduled time. If a patient misses a dose by more than 4 hours of the time it is usually taken, the patient should be instructed not to take the missed dose and simply resume the usual dosing schedule. Close monitoring of overall efficacy and safety is recommended in these patients.
 
 <div style=\"page-break-after: always\"></div>
-
-patient should be instructed to take the missed dose as soon as possible and then take the next dose at the regularly scheduled time. If a patient misses a dose by more than 4 hours of the time it is usually taken, the patient should be instructed not to take the missed dose and simply resume the usual dosing schedule. Close monitoring of overall efficacy and safety is recommended in these patients.
 
 ## Special populations
 
@@ -127,7 +121,7 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## 4.4 Special warnings and precautions for use
 
-## Palmar-Plantar Erythrodysaesthesia Syndrome (PPES)
+## Palmar-plantar erythrodysaesthesia syndrome (PPES)
 
 PPES occurred in patients treated with ripretinib (see section 4.8) . Based on severity, ripretinib should be withheld and then resumed at the same or reduced dose (see section 4.2).
 
@@ -137,11 +131,9 @@ Hypertension was observed with ripretinib (see section 4.8). Ripretinib must not
 
 ## Cardiac failure
 
-Cardiac failure (including cardiac failure, cardiac failure acute, acute left ventricular failure, and diastolic dysfunction) was observed with ripretinib (see section 4.8). Ejection fraction should be assessed by echocardiogram or multiple-gated acquisition (MUGA) scan prior to initiating ripretinib and during treatment, as clinically indicated. Ripretinib should be permanently discontinued for Grade
+Cardiac failure (including cardiac failure, cardiac failure acute, acute left ventricular failure, and diastolic dysfunction) was observed with ripretinib (see section 4.8). Ejection fraction should be assessed by echocardiogram or multiple-gated acquisition (MUGA) scan prior to initiating ripretinib and during treatment, as clinically indicated. Ripretinib should be permanently discontinued for Grade 3 or 4 left ventricular systolic dysfunction (see section 4.2). The safety of ripretinib has not been assessed in patients with a baseline left ventricular ejection fraction below 50%.
 
 <div style=\"page-break-after: always\"></div>
-
-3 or 4 left ventricular systolic dysfunction (see section 4.2). The safety of ripretinib has not been assessed in patients with a baseline left ventricular ejection fraction below 50%.
 
 ## Cutaneous malignancies
 
@@ -169,15 +161,13 @@ Concurrent administration of ripretinib with the strong CYP3A inducer rifampicin
 
 ## Important information about some excipients
 
-QINLOCK contains lactose.
+QINLOCK contains lactose. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
-Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Both ripretinib and its active metabolite DP-5439 are mainly cleared by CYP3A4/5 and are substrates of P-gp and Breast Cancer Resistance Protein (BCRP).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Effect of other medicinal products on ripretinib
 
@@ -207,13 +197,13 @@ Ripretinib is a weak inhibitor of CYP2C8. Co-administration of QINLOCK with repa
 
 The in vivo net effect of inhibition of CYP3A4 in the intestine and systemic CYP3A4 induction is unknown. Caution is recommended when co-administering ripretinib with sensitive CYP3A4 substrates with a narrow therapeutic window (e.g. cyclosporine, tacrolimus) or that are mostly metabolised in the intestine (e.g. midazolam).
 
-Ripretinib and DP-5439 induced CYP2B6 in vitro. Co-administration of ripretinib with CYP2B6 substrates with narrow therapeutic index (e.g. efavirenz) may lead to loss of their efficacy. Ripretinib and DP-5439 down-regulated CYP1A2 in vitro. Co-administration of ripretinib with CYP1A2 substrates with narrow therapeutic index (e.g. tizanidine) may lead to increased concentrations and monitoring is recommended.
+Ripretinib and DP-5439 induced CYP2B6 in vitro . Co-administration of ripretinib with CYP2B6 substrates with narrow therapeutic index (e.g. efavirenz) may lead to loss of their efficacy. Ripretinib and DP-5439 down-regulated CYP1A2 in vitro . Co-administration of ripretinib with CYP1A2 substrates with narrow therapeutic index (e.g. tizanidine) may lead to increased concentrations and monitoring is recommended.
+
+<div style=\"page-break-after: always\"></div>
 
 It is unknown whether ripretinib may reduce the effectiveness of systemically acting hormonal contraceptives, and therefore women using systemically acting hormonal contraceptives should add a barrier method.
 
 ## UGT1A substrates
-
-<div style=\"page-break-after: always\"></div>
 
 In vitro studies suggested that ripretinib is an inhibitor of UGT1A1, UGT1A3, UGT1A4, UGT1A7, and UGT1A8. QINLOCK is to be used with caution in combination with clinical substrates of UGT1A enzymes (e.g. bictegravir, cabotegravir, dolutegravir, raltegravir, lamotrigine), as co-administration may lead to increased exposure of these substrates. Clinical studies with UGT1A substrates have not been conducted.
 
@@ -227,17 +217,17 @@ QINLOCK is to be used with caution in combination with BCRP substrates (e.g. ros
 
 ## 4.6 Fertility, pregnancy and lactation
 
-## Women of childbearing potential/Contraception in males and females
+## Women of childbearing potential/contraception in males and females
 
 Women of childbearing potential and men with female partners of reproductive potential must be informed that QINLOCK may cause foetal harm and must ensure effective contraception during treatment and for at least 1 week after the final dose of QINLOCK (see section 4.4)
 
 The pregnancy status of females of reproductive potential is to be verified prior to initiating QINLOCK and during treatment.
 
-Effects of QINLOCK on contraceptive steroids have not been studied. Add a barrier method if systemic steroids are used for contraception.
+Effects of QINLOCK on contraceptive steroids have not been studied. A barrier method should be added if systemic steroids are used for contraception.
 
 ## Pregnancy
 
-There are no data on the use of ripretinib in pregnant women.
+## There are no data on the use of ripretinib in pregnant women.
 
 Based on its mechanism of action, ripretinib is suspected to cause foetal harm when administered during pregnancy and animal studies have shown reproductive toxicity (see sections 4.4 and 5.3). QINLOCK should not be used during pregnancy unless the clinical condition of the woman requires treatment with ripretinib.
 
@@ -249,15 +239,15 @@ It is unknown whether ripretinib/metabolites are excreted in human milk. A risk 
 
 There are no data on the effect of ripretinib on human fertility. Based on findings from animal studies, male and female fertility may be compromised by treatment with QINLOCK (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
-QINLOCK has no influence on the ability to drive and use machines. In some patients, fatigue has been reported following administration of QINLOCK. If a patient experiences fatigue, this may influence their ability to drive or use machines.
+QINLOCK has minor influence on the ability to drive and use machines. In some patients, fatigue has been reported following administration of QINLOCK. If a patient experiences fatigue, this may influence their ability to drive or use machines.
 
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
-
-<div style=\"page-break-after: always\"></div>
 
 In the Phase 3 double-blind, randomised (2:1), placebo-controlled study (INVICTUS), 129 participants with a diagnosis of advanced GIST who had failed at least 3 approved prior lines of treatment were randomised to QINLOCK (n=85) or placebo (n=44) (see section 5.1). In the Phase 1 Study DCC-2618-01-001, a total of 277 patients with advanced malignancies were enrolled, and 218 patients were treated at the recommended Phase 2 dose of 150 mg QINLOCK once daily.
 
@@ -275,11 +265,11 @@ The overall safety profile of QINLOCK is based on pooled data from 392 patients 
 
 The double-blind period of the INVICTUS study formed the primary basis of the determination of adverse reactions. The treatment emergent adverse events that were at least 5% higher in QINLOCK arm as compared to the placebo arm and those that were at least 1.5 times greater in the QINLOCK arm than those compared to placebo arm in INVICTUS were considered adverse drug reactions. Treatment emergent adverse events identified within the INVICTUS study were also evaluated across the pooled safety population (n=392). These events were considered adverse drug reactions per the Sponsor assessment. They are classified according to System Organ Class and the most appropriate MedDRA term is used to describe a certain reaction and its synonyms and related conditions.
 
+<div style=\"page-break-after: always\"></div>
+
 The severity of adverse drug reactions was assessed based on the Common Terminology Criteria for Adverse Events (CTCAE), defining Grade 1 = mild, Grade 2 = moderate, Grade 3 = severe, Grade 4=life threatening, and Grade 5=death.
 
-Frequencies are defined as: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from the available data) and are shown in Table 2. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
-<div style=\"page-break-after: always\"></div>
+Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), not known (cannot be estimated from the available data) and are shown in Table 2. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 2: Adverse drug reactions reported in INVICTUS and study DCC-2618-01-001
 
@@ -320,15 +310,15 @@ Table 2: Adverse drug reactions reported in INVICTUS and study DCC-2618-01-001
 
 ## Description of selected adverse drug reactions
 
-## Palmar-plantar erythrodysaesthesia syndrome (PPES)
+Palmar-plantar erythrodysaesthesia syndrome (PPES) In the double-blind period of the INVICTUS study, PPES was reported in 19 of 85 (22.4%) patients in
 
-In the double-blind period of the INVICTUS study, PPES was reported in 19 of 85 (22.4%) patients in the QINLOCK arm and no patients in the placebo arm. PPES led to dose discontinuation in 1.2% of patients, dose interruption in 3.5% of patients, and dose reduction in 2.4% of patients. All events were mild or moderate in severity (58% Grade 1 and 42% Grade 2).
+the QINLOCK arm and no patients in the placebo arm. PPES led to dose discontinuation in 1.2% of patients, dose interruption in 3.5% of patients, and dose reduction in 2.4% of patients. All events were mild or moderate in severity (58% Grade 1 and 42% Grade 2).
+
+<div style=\"page-break-after: always\"></div>
 
 In the pooled safety population, PPES occurred in 29.8% of 392 patients, including Grade 3 adverse reactions in 0.5%. The median time to onset and duration of the first event was 8.1 weeks (range: 0.3 week to 112.1 weeks) and 24.3 weeks (range: 0.9 week to 191.7 weeks), respectively. See sections 4.2 and 4.4 for additional information.
 
 ## Hypertension
-
-<div style=\"page-break-after: always\"></div>
 
 In the double-blind period of the INVICTUS study, there was a higher incidence of hypertension (all events regardless of causality) in patients treated with QINLOCK (15.3%) vs. 4.7% of patients who received placebo.
 
@@ -360,6 +350,8 @@ There is no known specific antidote for overdose with QINLOCK.
 
 In the event of suspected overdose, QINLOCK must be discontinued immediately, best supportive care should be initiated by a medical professional, and the patient must be observed until clinical stabilisation.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -371,8 +363,6 @@ Pharmacotherapeutic group: Antineoplastic agents, other protein kinase inhibitor
 Ripretinib is a novel tyrosine kinase inhibitor that inhibits KIT proto-oncogene receptor tyrosine kinase and PDGFRA kinase, including wild type, primary, and secondary mutations. Ripretinib also inhibits other kinases in vitro , such as PDGFRB, TIE2, VEGFR2, and BRAF.
 
 ## Clinical efficacy and safety
-
-<div style=\"page-break-after: always\"></div>
 
 ## INVICTUS (DCC-2618-03-001 study)
 
@@ -432,7 +422,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## Absorption
 
-Ripretinib reaches peak plasma concentrations at a median of 4 hours after oral administration of single dose ripretinib 150 mg (given as three tablets each containing 50 mg). The mean (CV%) AUC0-∞ after a single dose of 150 mg of ripretinib was 9,856 (39%) and 8,146 (56%) ng·h/mL for ripretinib and DP-5439, respectively.
+Ripretinib reaches peak plasma concentrations at a median of 4 hours after oral administration of single dose ripretinib 150 mg (given as three tablets each containing 50 mg). The mean (CV%) AUC0-∞ after a single dose of 150 mg of ripretinib was 9 856 (39%) and 8 146 (56%) ng·h/mL for ripretinib and DP-5439, respectively.
 
 Administration with a high-fat meal increased ripretinib AUC0-24 and Cmax by 30% and 22%, respectively. DP-5439 AUC0-24 and Cmax were higher by 47% and 66%, respectively.
 
@@ -444,13 +434,13 @@ Both ripretinib and its active metabolite DP5439 bind to plasma proteins at ≥ 
 
 CYP3A4/5 is the major metaboliser of ripretinib and its active metabolite DP-5439, while CYP2C8 and CYP2D6 are minor metabolisers.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elimination
 
 Following oral administration of single dose ripretinib 150 mg in humans, mean (CV%) apparent oral clearance (CL/F) was 15.2 (39%) and 17.9 (56%) L/hr for ripretinib and DP-5439, respectively. Mean (CV%) half-life (t½) was 12.6 (17%) and 15.6 (23%) hours for ripretinib and DP-5439, respectively.
 
 Systemic elimination of ripretinib was not primarily attributed to the kidney with 0.02% and 0.1% of the ripretinib dose excreted as ripretinib and DP-5439, respectively, in urine and 34% and 6% of the ripretinib dose excreted as ripretinib and DP-5439, respectively, in faeces.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Dose proportionality
 
@@ -464,19 +454,21 @@ Steady-state conditions are achieved within 14 days.
 
 No clinically significant differences in the pharmacokinetics of QINLOCK were observed based on age (19 to 87 years), sex, race (White, Black, and Asian), body weight (39 to 138 kg), and tumour (GIST or other solid tumours).
 
-## Patients with renal impairment
+## Renal impairment
 
 In clinical studies, no relevant differences in exposure were observed between patients with mild and moderate renal impairment (CLcr 30 to 89 mL/min estimated by Cockcroft-Gault) and patients with normal renal function. Based on a population pharmacokinetic analysis, no dose adjustment is recommended in patients with mild and moderate renal impairment. The pharmacokinetics and safety of QINLOCK in patients with severe renal impairment (CLcr 15 to 29 mL/min estimated by Cockcroft-Gault) is limited. No dosing recommendation can be made in patients with severe renal impairment (see section 4.2).
 
-## Patients with hepatic impairment
+## Hepatic impairment
 
-The effect of varying degrees of hepatic impairment as defined by Child-Pugh classification on the pharmacokinetics of ripretinib and DP-5439 was studied in a clinical trial (Study DCC-2618-01-004). In participants with mild hepatic impairment, there was no impact on the pharmacokinetics of ripretinib or DP-5439. In participants with moderate hepatic impairment, ripretinib AUC0-tlast was approximately 99% higher while Cmax was unchanged compared to matched healthy participants. The combined AUC0-tlast of ripretinib and DP-5439 was higher by approximately 51%. In participants with severe hepatic impairment, ripretinib AUC0-tlast was approximately 163% higher, Cmax was approximately 24% lower, and the combined AUC0-tlast of ripretinib and DP-5439 was approximately 37% higher, compared to matched healthy participants. The observed magnitude of increase in ripretinib exposure is unlikely to be clinically relevant based on the known safety profile of ripretinib. Fraction of unbound ripretinib and DP-5439 was highly variable and no trend was apparent between protein binding and degree of hepatic impairment.
+The effect of varying degrees of hepatic impairment as defined by Child-Pugh classification on the pharmacokinetics of ripretinib and DP-5439 was studied in a clinical study (Study DCC-2618-01004). In participants with mild hepatic impairment, there was no impact on the pharmacokinetics of ripretinib or DP-5439. In participants with moderate hepatic impairment, ripretinib AUC0-tlast was approximately 99% higher while Cmax was unchanged compared to matched healthy participants. The combined AUC0-tlast of ripretinib and DP-5439 was higher by approximately 51%. In participants with severe hepatic impairment, ripretinib AUC0-tlast was approximately 163% higher, Cmax was approximately 24% lower, and the combined AUC0-tlast of ripretinib and DP-5439 was approximately 37% higher, compared to matched healthy participants. The observed magnitude of increase in ripretinib exposure is unlikely to be clinically relevant based on the known safety profile of ripretinib. Fraction of unbound ripretinib and DP-5439 was highly variable and no trend was apparent between protein binding and degree of hepatic impairment.
 
 No dose adjustment is recommended in patients with mild (Child-Pugh A), moderate (Child-Pugh B), or severe hepatic impairment (Child-Pugh C).
 
 ## 5.3 Preclinical safety data
 
 The preclinical safety profile of ripretinib was assessed in rats and dogs for up to 13 weeks duration. Inflammation responses correlated with skin changes (discoloured, lesions) were recorded in rats (approximately 1.12 times the human exposure at 150 mg once daily). Elevated hepatic enzyme activity was reported in both species (approximately 1.12 and 1.3 times the human exposure at 150 mg once daily for rats and dogs, respectively). Dogs presented gastrointestinal effects (emesis and/or abnormal faeces) (approximately 1.3 times the human exposure at 150 mg once daily), and inflammatory responses illustrated by adverse skin lesions (approximately 0.14 times the human exposure at 150 mg once daily).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Carcinogenicity
 
@@ -485,8 +477,6 @@ Carcinogenicity studies have not been conducted with ripretinib.
 ## Genotoxicity
 
 Ripretinib was found to be positive in an in vitro micronucleus assay. Ripretinib was not mutagenic in in vitro bacterial reverse mutation (Ames) assay nor in an in vivo rat bone marrow micronucleus assay, demonstrating the absence of significant genotoxic risk.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reproductive and developmental toxicity
 
@@ -510,6 +500,8 @@ Crospovidone (E1202) Hypromellose acetate succinate Lactose monohydrate Magnesiu
 
 Not applicable.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.3 Shelf life
 
 4 years.
@@ -526,8 +518,6 @@ Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal
 
-<div style=\"page-break-after: always\"></div>
-
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
@@ -542,7 +532,7 @@ EU/1/21/1569/001 EU/1/21/1569/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 18 November 2021
+Date of first authorisation: 18 November 2021 Date of latest renewal:
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -616,7 +606,9 @@ Contains lactose, see leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-30 tablets 90 tablets
+30 tablets
+
+90 tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -670,7 +662,7 @@ Lot
 
 QINLOCK 50 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -730,37 +722,30 @@ Store in the original package and keep bottle tightly closed in order to protect
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|--------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Deciphera Pharmaceuticals (Netherlands) B.V.
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1569/001 30 tablets EU/1/21/1569/002 90 tablets
+EU/1/21/1569/001 30 tablets
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+EU/1/21/1569/002 90 tablets
+
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
-
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
-
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -768,15 +753,11 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## Package leaflet: Information for the user
 
 ## QINLOCK 50
 
 ## mg tablets ripretinib
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -815,12 +796,11 @@ Do not take QINLOCK if you are allergic to ripretinib or any of the other ingred
 
 - -high blood pressure. Your doctor will monitor your blood pressure prior to and during treatment with QINLOCK and may give you a medicine to treat high blood pressure, if needed.
 - -heart conditions. Your doctor may perform additional tests to assess how your heart functions prior to and during your treatment with QINLOCK.
-
-<div style=\"page-break-after: always\"></div>
-
 - -liver or kidney problems.
 
 ## When taking QINLOCK, talk to your doctor or pharmacist if:
+
+<div style=\"page-break-after: always\"></div>
 
 - -you notice redness, pain, swelling, or blisters on the palms of your hands or soles of your feet. This is a skin problem called palmar-plantar erythrodysaesthesia syndrome (PPES). Your doctor may continue your treatment, change your dose or stop your treatment until your condition improves (see section 4).
 - -you notice unexpected skin changes such as a new wart, open sore or reddish bump that bleeds or does not heal, or a change in size or colour of a mole. QINLOCK may increase the risk of some types of skin cancers (see section 4). Your doctor will check your skin when starting treatment with QINLOCK and routinely during treatment. It is important that you check your skin regularly.
@@ -850,12 +830,12 @@ In particular, tell your doctor if you are taking any of the following medicines
 - -medicines used for epilepsy or fits (such as phenytoin, carbamazepine, phenobarbital, lamotrigine)
 - -medicines used to treat irregular heartbeats (such as digoxin)
 - -medicines used to prevent stroke or harmful blood clots (such as dabigatran etexilate)
-
-<div style=\"page-break-after: always\"></div>
-
 - -medicines used to lower elevated cholesterol (such as rosuvastatin)
 - -medicines used to reduce blood glucose or to treat diabetes (such as repaglinide or metformin)
 - -medicines used to treat severe bowel and rheumatic joint inflammation (such as sulfasalazine)
+
+<div style=\"page-break-after: always\"></div>
+
 - -medicines used to treat cancer (such as paclitaxel or irinotecan)
 - -medicines used to prevent organ rejection (such as cyclosporine, tacrolimus)
 - -medicines used to treat low platelet counts in the blood (such as eltrombopag)
@@ -866,8 +846,6 @@ In particular, tell your doctor if you are taking any of the following medicines
 ## QINLOCK with food and drink
 
 Grapefruit juice may change the amount of QINLOCK in your body. Drinking grapefruit juice or eating grapefruit is not recommended during treatment with this medicine.
-
-## Contraception, pregnancy, breast-feeding and fertility
 
 ## Contraception
 
@@ -893,7 +871,7 @@ QINLOCK may affect fertility in men and women. Ask your doctor for advice before
 
 ## Driving and using machines
 
-QINLOCK does not directly affect your ability to drive or use machines. If you feel unwell or very tired while being treated with QINLOCK you should not drive or operate machinery until you feel safe to do so.
+QINLOCK has minor influence on your ability to drive or use machines. If you feel unwell or very tired while being treated with QINLOCK you should not drive or operate machinery until you feel safe to do so.
 
 ## QINLOCK contains lactose
 
@@ -901,11 +879,11 @@ If you have been told by your doctor that you have an intolerance to some sugars
 
 ## 3. How to take QINLOCK
 
-<div style=\"page-break-after: always\"></div>
-
 QINLOCK will be prescribed for you by a doctor experienced in using anticancer therapies.
 
 Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
+
+<div style=\"page-break-after: always\"></div>
 
 The recommended daily dose is three 50 mg tablets (150 mg) once daily. Take the tablets at the same time each day with or without food. Swallow the tablets whole with a glass of water and do not chew, split, or crush the tablets. Do not take any tablets that are broken, cracked, or otherwise damaged due to unknown effects of taking tablet that are not whole.
 
@@ -954,8 +932,6 @@ PPES is a very common side effect when taking this medicine. If you develop:
 
 High blood pressure is a very common side effect when taking this medicine. If you develop:
 
-<div style=\"page-break-after: always\"></div>
-
 - headache, feeling of lightheadedness, or dizziness, these may be symptoms of high blood pressure,
 
 your doctor may change your dose or stop your treatment until your condition improves.
@@ -964,9 +940,13 @@ your doctor may change your dose or stop your treatment until your condition imp
 
 Heart failure is a common side effect when taking this medicine. If you feel:
 
+<div style=\"page-break-after: always\"></div>
+
 - very tired, are short of breath, have swollen feet and/or ankles, these may be symptoms of heart problems.
 
-## Talk to your doctor or pharmacist if you experience:
+## Other side effects
+
+Talk to your doctor or pharmacist if you experience any of these other side effects:
 
 ## -Skin cancer
 
@@ -1010,11 +990,11 @@ Treatment with QINLOCK may result in certain types of skin cancer such as 'cutan
 - -chest pain
 - -rapid heart rate
 
-<div style=\"page-break-after: always\"></div>
-
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store QINLOCK
 
@@ -1045,15 +1025,13 @@ Each bottle is child-resistant and contains 30 or 90 tablets and a desiccant. Th
 
 Not all pack sizes may be marketed.
 
-## Marketing Authorisation Holder
+## Marketing Authorisation Holder and Manufacturer
 
-Deciphera Pharmaceuticals (Netherlands) B.V. Strawinskylaan 3051 1077ZX, Amsterdam Netherlands
+Deciphera Pharmaceuticals (Netherlands) B.V.
 
-## Manufacturer
+Strawinskylaan 3051 1077ZX, Amsterdam
 
-Deciphera Pharmaceuticals (Netherlands) B.V. Strawinskylaan 3051 1077ZX, Amsterdam Netherlands
-
-<div style=\"page-break-after: always\"></div>
+Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1066,6 +1044,16 @@ Deciphera Pharmaceuticals (Netherlands) B.V. Tél/Tel: +31 8006333435 medicalinf
 Genesis Pharma Bulgaria EOOD Te л .: +359 2 969 3227
 
 medinfo@genesispharmagroup.com
+
+## Lietuva
+
+Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com
+
+## Luxembourg/Luxemburg
+
+Deciphera Pharmaceuticals (Netherlands) B.V. Tél/Tel: +31 8006333435 medicalinformation@deciphera.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## Česká republika
 
@@ -1081,9 +1069,7 @@ Deciphera Pharmaceuticals (Netherlands) B.V. Tel: +31 8006333435 medicalinformat
 
 ## Eesti
 
-Genesis Pharma (Cyprus) Ltd Tel: +357 22765715
-
-medinfo@genesispharmagroup.com
+Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com
 
 ## Ελλάδα
 
@@ -1105,13 +1091,17 @@ Genesis Pharma Adriatic d.o.o Tel: +385 1 5530 011 medinfo@genesispharmagroup.co
 
 Deciphera Pharmaceuticals (Netherlands) B.V. Tel: +31 8006333435 medicalinformation@deciphera.com
 
-## Lietuva
+## Ísland
 
-Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com
+Deciphera Pharmaceuticals (Netherlands) B.V. Sími: +31 8006333435 medicalinformation@deciphera.com
 
-## Luxembourg/Luxemburg
+## Italia
 
-Deciphera Pharmaceuticals (Netherlands) B.V. Tél/Tel: +31 8006333435 medicalinformation@deciphera.com
+Deciphera Pharmaceuticals (Netherlands) B.V. Tel: +31 8006333435 medicalinformation@deciphera.com
+
+## Κύπρος
+
+Genesis Pharma (Cyprus) Ltd
 
 ## Magyarország
 
@@ -1143,61 +1133,15 @@ Deciphera Pharmaceuticals (Netherlands) B.V. Tel: +31 8006333435 medicalinformat
 
 ## România
 
-Genesis Biopharma Romania SRL Tel: +40 21 403 4074
-
-medinfo@genesispharmagroup.com
+Genesis Biopharma Romania SRL Tel: +40 21 403 4074 medinfo@genesispharmagroup.com
 
 ## Slovenija
 
 Genesis Biopharma SL d.o.o. Tel: +386 1 292 70 90 medinfo@genesispharmagroup.com
 
-<div style=\"page-break-after: always\"></div>
-
-## Ísland
-
-Deciphera Pharmaceuticals (Netherlands) B.V.
-
-Sími: +31 8006333435
-
-medicalinformation@deciphera.com
-
-## Italia
-
-Deciphera Pharmaceuticals (Netherlands) B.V.
-
-Tel: +31 8006333435
-
-medicalinformation@deciphera.com
-
-## Κύπρος
-
-Genesis Pharma (Cyprus) Ltd
-
-Τηλ
-
-: +357 22765715
-
-medinfo@genesispharmagroup.com
-
-## Latvija
-
-Genesis Pharma (Cyprus) Ltd
-
-Tel: +357 22765715
-
-medinfo@genesispharmagroup.com
-
-## This leaflet was last revised in
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
 ## Slovenská republika
 
-Genesis Biopharma Slovakia S.R.O.
-
-Tel: +357 22765715
-
-medinfo@genesispharmagroup.com
+Genesis Biopharma Slovakia S.R.O. Tel: +357 22765715 medinfo@genesispharmagroup.com
 
 ## Suomi/Finland
 
@@ -1205,4 +1149,20 @@ Deciphera Pharmaceuticals (Netherlands) B.V. Puh/Tel: +31 8006333435 medicalinfo
 
 ## Sverige
 
-Deciphera Pharmaceuticals (Netherlands) B.V. Tel: +31 8006333435 medicalinformation@deciphera.com
+Deciphera Pharmaceuticals (Netherlands) B.V.
+
+Τηλ : +357 22765715
+
+medinfo@genesispharmagroup.com
+
+<div style=\"page-break-after: always\"></div>
+
+Latvija Genesis Pharma (Cyprus) Ltd Tel: +357 22765715 medinfo@genesispharmagroup.com
+
+## This leaflet was last revised in
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+Tel: +31 8006333435
+
+medicalinformation@deciphera.com

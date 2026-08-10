@@ -1,32 +1,32 @@
 ---
-document_datetime: 2026-01-06 12:00:00
+document_datetime: 2026-08-07 14:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/spedra.html
 document_name: spedra.html
 version: success
-processing_time: 0.1248013
-conversion_datetime: 2026-01-10 11:09:19.50212
+processing_time: 0.1339002
+conversion_datetime: 2026-08-10 20:47:53.70434
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.1
-  docling: 2.67.0
-  docling-core: 2.58.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.119.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 # Spedra
 
 [RSS](/en/individual-human-medicine.xml/65824)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-avanafil Medicine Human Authorised
+avanafil
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -53,23 +53,23 @@ Expand section
 
 Collapse section
 
-## What is Spedra and what is it used for?
+### What is Spedra and what is it used for?
 
 Spedra is a medicine used to treat adult men with erectile dysfunction (sometimes called impotence), when they cannot get or keep a hard penis (erection) sufficient for satisfactory sexual activity. For Spedra to be effective, sexual stimulation is required.
 
 Spedra contains the active substance avanafil.
 
-## How is Spedra used?
+### How is Spedra used?
 
 Spedra is available as tablets (50, 100, and 200 mg) and can only be obtained with a prescription. The recommended dose is 100 mg, taken approximately 15 to 30 minutes before sexual activity; patients should not take more than one dose a day. Spedra may be taken with or without food. If it is taken with food, it may take longer to work. The dose may be adjusted if necessary; lower doses may be needed in patients with liver problems or who are taking certain other medicines.
 
 For further information, see the package leaflet.
 
-## How does Spedra work?
+### How does Spedra work?
 
 The active ingredient in Spedra, avanafil, belongs to a group of medicines called phosphodiesterase-type-5 (PDE5) inhibitors. It works by blocking the phosphodiesterase enzyme, which normally breaks down a substance known as cyclic guanosine monophosphate (cGMP). During normal sexual stimulation, cGMP is produced in the penis, where it causes the muscle in the spongy tissue of the penis (the corpora cavernosa) to relax. This allows blood to flow into the corpora, producing the erection. By blocking the breakdown of cGMP, Spedra enhances its effect on erectile function. Sexual stimulation is still needed to produce an erection.
 
-## What benefits of Spedra have been shown in studies?
+### What benefits of Spedra have been shown in studies?
 
 Spedra has been studied in three main studies involving over 3,400 men with erectile dysfunction. The first study involved men from the general population, but because certain conditions associated with erectile dysfunction might affect response to treatment the second study looked mainly at men who had erectile dysfunction and diabetes, and the third was in men who had erectile dysfunction after surgery on the prostate gland. In these studies, which lasted for 12 weeks, different doses of Spedra taken approximately 30 minutes before sexual activity were compared with placebo (a dummy tablet). The main measures of effectiveness in all three studies were the percentage of erections that lasted long enough for successful intercourse, the percentage of successful vaginal penetrations, and the change in an assessment score for erectile function.
 
@@ -77,7 +77,7 @@ Spedra was more effective than placebo in all studies. The results of the first 
 
 An additional study involving 440 adults with erectile dysfunction was also carried out, where Spedra was taken approximately 15 minutes before sexual activity. The percentage of successful attempts was about 28% with Spedra at a dose of 200 mg and about 25% with a dose of 100 mg, compared with 14% with placebo.
 
-## What are the risks associated with Spedra?
+### What are the risks associated with Spedra?
 
 The most common side effects with Spedra (which may affect up to 1 in 10 people) are headache, flushing (reddening of the skin) and nasal congestion; back pain has also been reported and may affect up to 1 in 100 people. For the full list of all side effects reported with Spedra, see the package leaflet.
 
@@ -85,15 +85,15 @@ Doctors should consider the potential risks of sexual activity for the heart in 
 
 Spedra must not be taken with certain other medicines including nitrates (a type of medicine used for angina) or medicines that strongly reduce the breakdown of Spedra in the body. For the full list of restrictions, see the package leaflet.
 
-## Why is Spedra approved?
+### Why is Spedra approved?
 
 The Agency's Committee for Medicinal Products for Human Use (CHMP) noted that Spedra was more effective than placebo in allowing successful intercourse. However, the fact that it was not compared directly with other medicines in its class made it hard to evaluate its potential place in treating erectile dysfunction. Regarding its safety, side effects were similar to other medicines of its class. The Committee therefore considered that Spedra's benefits are greater than its risks and recommended that it be approved for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Spedra?
+### What measures are being taken to ensure the safe and effective use of Spedra?
 
 A risk-management plan has been developed to ensure that Spedra is used as safely as possible. Based on this plan, safety information has been included in the summary of product characteristics and the package leaflet for Spedra, including the appropriate precautions to be followed by healthcare professionals and patients.
 
-## Other information about Spedra
+### Other information about Spedra
 
 The European Commission granted a marketing authorisation valid throughout the European Union for Spedra on 21 June 2013.
 
@@ -103,275 +103,141 @@ Spedra : EPAR - Summary for the public
 
 English (EN) (77.42 KB - PDF)
 
-**First published:** 03/07/2013
-
-**Last updated:** 10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/en/documents/overview/spedra-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-66)
+[Other languages (22)](#file-language-dropdown-851)
 
 български (BG) (105.18 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/bg/documents/overview/spedra-epar-summary-public_bg.pdf)
 
 español (ES) (76.91 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/es/documents/overview/spedra-epar-summary-public_es.pdf)
 
 čeština (CS) (102.29 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/cs/documents/overview/spedra-epar-summary-public_cs.pdf)
 
 dansk (DA) (75.87 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/da/documents/overview/spedra-epar-summary-public_da.pdf)
 
 Deutsch (DE) (77.29 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/de/documents/overview/spedra-epar-summary-public_de.pdf)
 
-eesti keel (ET) (75.41 KB - PDF)
+eesti (ET) (75.41 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/et/documents/overview/spedra-epar-summary-public_et.pdf)
 
 ελληνικά (EL) (128.48 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/el/documents/overview/spedra-epar-summary-public_el.pdf)
 
 français (FR) (78.19 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/fr/documents/overview/spedra-epar-summary-public_fr.pdf)
 
 hrvatski (HR) (98.46 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/hr/documents/overview/spedra-epar-summary-public_hr.pdf)
 
 italiano (IT) (76.44 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/it/documents/overview/spedra-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (99.99 KB - PDF)
+latviešu (LV) (99.99 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/lv/documents/overview/spedra-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (123.26 KB - PDF)
+lietuvių (LT) (123.26 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/lt/documents/overview/spedra-epar-summary-public_lt.pdf)
 
 magyar (HU) (97.45 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/hu/documents/overview/spedra-epar-summary-public_hu.pdf)
 
 Malti (MT) (104.77 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/mt/documents/overview/spedra-epar-summary-public_mt.pdf)
 
 Nederlands (NL) (98.4 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/nl/documents/overview/spedra-epar-summary-public_nl.pdf)
 
 polski (PL) (125.07 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/pl/documents/overview/spedra-epar-summary-public_pl.pdf)
 
 português (PT) (77.09 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/pt/documents/overview/spedra-epar-summary-public_pt.pdf)
 
 română (RO) (122.75 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/ro/documents/overview/spedra-epar-summary-public_ro.pdf)
 
 slovenčina (SK) (103 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/sk/documents/overview/spedra-epar-summary-public_sk.pdf)
 
 slovenščina (SL) (96.21 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/sl/documents/overview/spedra-epar-summary-public_sl.pdf)
 
-Suomi (FI) (97.97 KB - PDF)
+suomi (FI) (97.97 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/fi/documents/overview/spedra-epar-summary-public_fi.pdf)
 
 svenska (SV) (76.1 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-10/03/2015
+**First published:** 03/07/2013 **Last updated:** 10/03/2015
 
 [View](/sv/documents/overview/spedra-epar-summary-public_sv.pdf)
 
@@ -387,311 +253,168 @@ English (EN) (303.69 KB - PDF)
 
 Spedra : EPAR - Product Information
 
-English (EN) (939.03 KB - PDF)
+English (EN) (657.74 KB - PDF)
 
-**First published:** 03/07/2013
-
-**Last updated:** 06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/en/documents/product-information/spedra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-580)
+[Other languages (24)](#file-language-dropdown-570)
 
-български (BG) (1.4 MB - PDF)
+български (BG) (954.38 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/bg/documents/product-information/spedra-epar-product-information_bg.pdf)
 
-español (ES) (1.03 MB - PDF)
+español (ES) (648.07 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/es/documents/product-information/spedra-epar-product-information_es.pdf)
 
-čeština (CS) (790.26 KB - PDF)
+čeština (CS) (765.26 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/cs/documents/product-information/spedra-epar-product-information_cs.pdf)
 
-dansk (DA) (791.32 KB - PDF)
+dansk (DA) (687.46 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/da/documents/product-information/spedra-epar-product-information_da.pdf)
 
-Deutsch (DE) (916.03 KB - PDF)
+Deutsch (DE) (687.87 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/de/documents/product-information/spedra-epar-product-information_de.pdf)
 
-eesti keel (ET) (1007.32 KB - PDF)
+eesti (ET) (611.47 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/et/documents/product-information/spedra-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.48 MB - PDF)
+ελληνικά (EL) (917.14 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/el/documents/product-information/spedra-epar-product-information_el.pdf)
 
-français (FR) (990.95 KB - PDF)
+français (FR) (664.97 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/fr/documents/product-information/spedra-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.19 MB - PDF)
+hrvatski (HR) (753.16 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/hr/documents/product-information/spedra-epar-product-information_hr.pdf)
 
-íslenska (IS) (763.84 KB - PDF)
+italiano (IT) (669.54 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
-
-[View](/is/documents/product-information/spedra-epar-product-information_is.pdf)
-
-italiano (IT) (874.66 KB - PDF)
-
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/it/documents/product-information/spedra-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.31 MB - PDF)
+latviešu (LV) (785.29 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/lv/documents/product-information/spedra-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (702.55 KB - PDF)
+lietuvių (LT) (761.61 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/lt/documents/product-information/spedra-epar-product-information_lt.pdf)
 
-magyar (HU) (919.55 KB - PDF)
+magyar (HU) (795.69 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/hu/documents/product-information/spedra-epar-product-information_hu.pdf)
 
-Malti (MT) (851.61 KB - PDF)
+Malti (MT) (817.93 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/mt/documents/product-information/spedra-epar-product-information_mt.pdf)
 
-Nederlands (NL) (684.47 KB - PDF)
+Nederlands (NL) (671.83 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/nl/documents/product-information/spedra-epar-product-information_nl.pdf)
 
-norsk (NO) (491.59 KB - PDF)
+polski (PL) (783.82 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
-
-[View](/no/documents/product-information/spedra-epar-product-information_no.pdf)
-
-polski (PL) (1.21 MB - PDF)
-
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/pl/documents/product-information/spedra-epar-product-information_pl.pdf)
 
-português (PT) (654.22 KB - PDF)
+português (PT) (670.23 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/pt/documents/product-information/spedra-epar-product-information_pt.pdf)
 
-română (RO) (718.86 KB - PDF)
+română (RO) (716.8 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/ro/documents/product-information/spedra-epar-product-information_ro.pdf)
 
-slovenčina (SK) (999.93 KB - PDF)
+slovenčina (SK) (757.47 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/sk/documents/product-information/spedra-epar-product-information_sk.pdf)
 
-slovenščina (SL) (945.11 KB - PDF)
+slovenščina (SL) (737.59 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/sl/documents/product-information/spedra-epar-product-information_sl.pdf)
 
-Suomi (FI) (776.72 KB - PDF)
+suomi (FI) (695.07 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/fi/documents/product-information/spedra-epar-product-information_fi.pdf)
 
-svenska (SV) (762.39 KB - PDF)
+svenska (SV) (772.32 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-06/01/2026
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
 
 [View](/sv/documents/product-information/spedra-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000319544 05/01/2026
+Íslenska (IS) (576.18 KB - PDF)
+
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
+
+[View](/is/documents/product-information/spedra-epar-product-information_is.pdf)
+
+norsk (NO) (631.3 KB - PDF)
+
+**First published:** 03/07/2013 **Last updated:** 07/08/2026
+
+[View](/no/documents/product-information/spedra-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** T/0000350510
+
+05/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -705,305 +428,168 @@ Spedra : EPAR - All Authorised presentations
 
 English (EN) (13.19 KB - PDF)
 
-**First published:** 03/07/2013
-
-**Last updated:** 19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/en/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-997)
+[Other languages (24)](#file-language-dropdown-432)
 
 български (BG) (89.68 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/bg/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (23.57 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/es/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (28.67 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/cs/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (36.21 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/da/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (55.73 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/de/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (46.89 KB - PDF)
+eesti (ET) (46.89 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/et/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (66.33 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/el/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (167.39 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/fr/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (35.37 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/hr/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (44.36 KB - PDF)
-
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
-
-[View](/is/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (25.28 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/it/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (35.9 KB - PDF)
+latviešu (LV) (35.9 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/lv/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (92.11 KB - PDF)
+lietuvių (LT) (92.11 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/lt/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (141.11 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/hu/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (41.88 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/mt/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (20.73 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/nl/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (234.95 KB - PDF)
-
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
-
-[View](/no/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (33.02 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/pl/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (43.54 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/pt/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (105.39 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/ro/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (61.12 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/sk/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (285.84 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/sl/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (17.35 KB - PDF)
+suomi (FI) (17.35 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/fi/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (34.96 KB - PDF)
 
-**First published:**
-
-03/07/2013
-
-**Last updated:**
-
-19/11/2020
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
 
 [View](/sv/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (44.36 KB - PDF)
+
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
+
+[View](/is/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (234.95 KB - PDF)
+
+**First published:** 03/07/2013 **Last updated:** 19/11/2020
+
+[View](/no/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Spedra Active substance avanafil International non-proprietary name (INN) or common name avanafil Therapeutic area (MeSH) Erectile Dysfunction Anatomical therapeutic chemical (ATC) code G04BE10
+- **Name of medicine**
+    - Spedra
+- **Active substance**
+    - avanafil
+- **International non-proprietary name (INN) or common name**
+    - avanafil
+- **Therapeutic area (MeSH)**
+    - Erectile Dysfunction
+- **Anatomical therapeutic chemical (ATC) code**
+    - G04BE10
 
 ### Pharmacotherapeutic group
 
@@ -1017,13 +603,14 @@ In order for Spedra to be effective, sexual stimulation is required.
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/002581 Marketing authorisation holder
-
-Menarini International Operations Luxembourg S.A.
-
-1, Avenue de la Gare
-
-Marketing authorisation issued 21/06/2013 Revision 16
+- **EMA product number**
+    - EMEA/H/C/002581
+- **Marketing authorisation holder**
+    - Phoenix Labs Unlimited Company Suite 12, Bunkilla Plaza,  Bracetown Business Park,  Clonee, County Meath,  Ireland
+- **Marketing authorisation issued**
+    - 21/06/2013
+- **Revision**
+    - 17
 
 ## Assessment history
 
@@ -1031,15 +618,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Spedra : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (145.97 KB - PDF)
+English (EN) (149.24 KB - PDF)
 
-**First published:** 28/04/2025
-
-**Last updated:** 06/01/2026
+**First published:** 28/04/2025 **Last updated:** 07/08/2026
 
 [View](/en/documents/procedural-steps-after/spedra-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1047,9 +632,7 @@ Spedra : EPAR - Procedural steps taken and scientific information after authoris
 
 English (EN) (120.38 KB - PDF)
 
-**First published:** 14/10/2013
-
-**Last updated:** 28/04/2025
+**First published:** 14/10/2013 **Last updated:** 28/04/2025
 
 [View](/en/documents/procedural-steps-after/spedra-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1067,13 +650,11 @@ Reference Number: EMA/602363/2015
 
 English (EN) (71.55 KB - PDF)
 
-**First published:** 26/10/2015
+**First published:** 26/10/2015 **Last updated:** 26/10/2015
 
-**Last updated:** 26/10/2015
+[View](/en/documents/scientific-conclusion/spedra-h-c-psusa-00010066-201412-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
-[View](/en/documents/scientific-conclusion/spedra-h-c-psusa-00010066-201412-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
-
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Spedra : EPAR - Public assessment report
 
@@ -1081,32 +662,26 @@ Reference Number: EMA/321885/2013
 
 English (EN) (2.21 MB - PDF)
 
-**First published:** 03/07/2013
-
-**Last updated:** 03/07/2013
+**First published:** 03/07/2013 **Last updated:** 03/07/2013
 
 [View](/en/documents/assessment-report/spedra-epar-public-assessment-report_en.pdf)
 
 CHMP summary of positive opinion for Spedra
 
-Adopted
-
-Reference Number: EMA/CHMP/61591/2013
+Adopted Reference Number: EMA/CHMP/61591/2013
 
 English (EN) (76.1 KB - PDF)
 
-**First published:** 26/04/2013
-
-**Last updated:** 26/04/2013
+**First published:** 26/04/2013 **Last updated:** 26/04/2013
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-spedra_en.pdf)
 
-#### Topics
+## Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 06/01/2026
+**This page was last updated on**
+
+07/08/2026
 
 ## Share this page
-
-[Back to top](#main-content)

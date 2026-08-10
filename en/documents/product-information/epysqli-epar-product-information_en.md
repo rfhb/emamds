@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-02-18 10:35:03
-document_pages: 45
+document_datetime: 2026-08-07 13:12:36
+document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/epysqli-epar-product-information_en.pdf
 document_name: epysqli-epar-product-information_en.pdf
 version: success
-processing_time: 25.3065769
-conversion_datetime: 2026-02-21 13:16:11.952986
+processing_time: 30.1434096
+conversion_datetime: 2026-08-10 21:04:33.658176
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.119.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -304,8 +304,6 @@ Table 1: Adverse reactions reported in eculizumab clinical trials, including pat
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 | MedDRA system organ class                       | Very common ( ≥ 1/10)   | Common ( ≥ 1/100 to <1/10)                  | Uncommon ( ≥ 1/1 000 to <1/100)                                                                                | Rare ( ≥ 1/10000 to <1/1000)                                                      | Not known (cannot be estimated from the available data)   |
 |-------------------------------------------------|-------------------------|---------------------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------|
 | and polyps)                                     |                         |                                             |                                                                                                                |                                                                                   |                                                           |
@@ -314,7 +312,7 @@ Table 1: Adverse reactions reported in eculizumab clinical trials, including pat
 | Endocrine disorders                             |                         |                                             |                                                                                                                | Grave's disease                                                                   |                                                           |
 | Metabolism and nutrition disorders              |                         |                                             | Decreased appetite                                                                                             |                                                                                   |                                                           |
 | Psychiatric disorders                           |                         | Insomnia                                    | Depression, Anxiety, Mood swings, Sleep disorder                                                               | Abnormal dreams                                                                   |                                                           |
-| Nervous system disorders                        |                         | HeadacheDizziness                           | Paraesthesia, Tremor, Dysgeusia, Syncope                                                                       |                                                                                   |                                                           |
+| Nervous system disorders                        | Headache                | Dizziness                                   | Paraesthesia, Tremor, Dysgeusia, Syncope                                                                       |                                                                                   |                                                           |
 | Eye disorders                                   |                         |                                             | Vision blurred                                                                                                 | Conjunctival irritation                                                           |                                                           |
 | Ear and labyrinth disorders                     |                         |                                             | Tinnitus, Vertigo                                                                                              |                                                                                   |                                                           |
 | Cardiac disorders                               |                         |                                             | Palpitation                                                                                                    |                                                                                   |                                                           |
@@ -344,7 +342,9 @@ a Abscess includes the following group of PTs: Abscess limb, Colonic abscess, Re
 
 b  Meningococcal infection includes the following group of PTs: Meningococcal infection, Meningococcal sepsis, Meningitis meningococcal.
 
-c ADRs identified in post marketing reports d Frequency cannot be estimated from the available postmarketing data.
+c ADRs identified in post marketing reports
+
+d Frequency cannot be estimated from the available postmarketing data.
 
 ## Description of selected adverse reactions
 
@@ -398,11 +398,9 @@ Epysqli is a biosimilar medicinal product. Detailed information is available on 
 
 ## Mechanism of action
 
-Eculizumab, the active substance in Epysqli, is a terminal complement inhibitor that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a and C5b and preventing the generation of the terminal complement complex C5b-9. Eculizumab preserves the early
+Eculizumab, the active substance in Epysqli, is a terminal complement inhibitor that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a and C5b and preventing the generation of the terminal complement complex C5b-9. Eculizumab preserves the early components of complement activation that are essential for opsonisation of microorganisms and clearance of immune complexes.
 
 <div style=\"page-break-after: always\"></div>
-
-components of complement activation that are essential for opsonisation of microorganisms and clearance of immune complexes.
 
 In PNH patients, uncontrolled terminal complement activation and the resulting complement-mediated intravascular haemolysis are blocked with eculizumab treatment.
 
@@ -437,7 +435,7 @@ Table 2: Patient demographics and characteristics in C04-001 and C04-002
 | Parameter                                             | Placebo N = 44    | Eculizumab N = 43 | Eculizumab N = 97 |
 | Mean age (SD)                                         | 38.4 (13.4)       | 42.1 (15.5)       | 41.1 (14.4)       |
 | Gender - Female (%)                                   | 29 (65.9)         | 23 (53.5)         | 49 (50.5)         |
-| History of aplastic anaemia or MDS(%)                 | 12 (27.3)         | 8 (18.7)          | 29 (29.9)         |
+| History of aplastic anaemia or MDS (%)                | 12 (27.3)         | 8 (18.7)          | 29 (29.9)         |
 | Concomitant anticoagulants (%)                        | 20 (45.5)         | 24 (55.8)         | 59 (61)           |
 | Concomitant steroids/immunosuppressant treatments (%) | 16 (36.4)         | 14 (32.6)         | 46 (47.4)         |
 | Discontinued treatment                                | 10                | 2                 | 1                 |
@@ -489,7 +487,7 @@ Atypical Haemolytic Uremic Syndrome
 
 Data from 100 patients in four prospective controlled studies, three in adult and adolescent patients (C08-002A/B C08-003A/B, C10-004) one in paediatric and adolescent patients (C10-003) and 30 patients in one retrospective study (C09-001r) were used to evaluate the efficacy of eculizumab in the treatment of aHUS.
 
-Study C08-002A/B was a prospective, controlled, open-label study which accrued patients in the early phase of aHUS with evidence of clinical thrombotic microangiopathy manifestations with platelet count ≤ 150 x 10 9 /L despite PE/PI, and LDH and serum creatinine above upper limits of normal. Study C08-003A/B was a prospective, controlled, open-label study which accrued patients with longer term aHUS without apparent evidence of clinical thrombotic microangiopathy manifestations and receiving chronic PE/PI (≥1 PE/PI treatment every two weeks and no more than 3 PE/PI treatments/week for at least 8 weeks before the first dose). Patients in both prospective studies were treated with eculizumab for 26 weeks and most patients enrolled into a long-term, open-label extension study. All patients enrolled in both prospective studies had an ADAMTS-13 level above 5%.
+Study C08-002A/B was a prospective, controlled, open-label study which accrued patients in the early phase of aHUS with evidence of clinical thrombotic microangiopathy manifestations with platelet count ≤ 150 x 10 9 /L despite PE/PI, and LDH and serum creatinine above upper limits of normal. Study C08-003A/B was a prospective, controlled, open-label study which accrued patients with longer term aHUS without apparent evidence of clinical thrombotic microangiopathy manifestations and receiving chronic PE/PI (≥1 PE/PI treatment every two weeks an d no more than 3 PE/PI treatments/week for at least 8 weeks before the first dose). Patients in both prospective studies were treated with eculizumab for 26 weeks and most patients enrolled into a long-term, open-label extension study. All patients enrolled in both prospective studies had an ADAMTS-13 level above 5%.
 
 Patients received meningococcal vaccination prior to receipt of eculizumab or received prophylactic treatment with appropriate antibiotics until 2 weeks after vaccination. In all studies, the dose of eculizumab in adult and adolescent aHUS patients was 900 mg every 7 ± 2 days for 4 weeks, followed by 1,200 mg 7 ± 2 days later, then 1,200 mg every 14 ± 2 days for the study duration. Eculizumab was administered as an intravenous infusion over 35 minutes. The dosing regimen in paediatric patients and adolescents weighing less than 40 kg was defined based on a pharmacokinetic (PK) simulation that identified the recommended dose and schedule based on body weight (see section 4.2).
 
@@ -499,15 +497,15 @@ Primary endpoints included platelet count change from baseline in study C08-002A
 
 Table 5: Patient Demographics and Characteristics in C08-002A/B and C08-003A/B
 
-| Parameter                                                                                | C08-002A/B Eculizumab N = 17   | C08-003A/B Eculizumab N = 20   |
-|------------------------------------------------------------------------------------------|--------------------------------|--------------------------------|
-| Time from first diagnosis until screening in months, median (min, max)                   | 10 (0.26, 236)                 | 48 (0.66, 286)                 |
-| Time from current clinicalTMA manifestation until screening in months, median (min, max) | < 1 (<1, 4)                    | 9 (1, 45)                      |
-| Number of PE/PI sessions for current clinicalTMA manifestation, median (min, max)        | 17 (2, 37)                     | 62 (20, 230)                   |
-| Number of PE/PI sessions in 7 days prior to first dose of eculizumab, median (min, max)  | 6 (0, 7)                       | 2 (1, 3)                       |
-| Baseline platelet count (× 10 9 /L), mean (SD)                                           | 109 (32)                       | 228 (78)                       |
-| Baseline LDH (U/L), mean (SD)                                                            | 323 (138)                      | 223 (70)                       |
-| Patients without identified mutation, n (%)                                              | 4 (24)                         | 6 (30)                         |
+| Parameter                                                                                 | C08-002A/B Eculizumab N = 17   | C08-003A/B Eculizumab N = 20   |
+|-------------------------------------------------------------------------------------------|--------------------------------|--------------------------------|
+| Time from first diagnosis until screening in months, median (min, max)                    | 10 (0.26, 236)                 | 48 (0.66, 286)                 |
+| Time from current clinical TMA manifestation until screening in months, median (min, max) | < 1 (<1, 4)                    | 9 (1, 45)                      |
+| Number of PE/PI sessions for current clinical TMA manifestation, median (min, max)        | 17 (2, 37)                     | 62 (20, 230)                   |
+| Number of PE/PI sessions in 7 days prior to first dose of eculizumab, median (min, max)   | 6 (0, 7)                       | 2 (1, 3)                       |
+| Baseline platelet count (× 10 9 /L), mean (SD)                                            | 109 (32)                       | 228 (78)                       |
+| Baseline LDH (U/L), mean (SD)                                                             | 323 (138)                      | 223 (70)                       |
+| Patients without identified mutation, n (%)                                               | 4 (24)                         | 6 (30)                         |
 
 Patients in aHUS Study C08-002 A/B received eculizumab for a minimum of 26 weeks. After completion of the initial 26-week treatment period, most patients continued to receive eculizumab by enrolling into an extension study. In aHUS Study C08-002A/B, the median duration of eculizumab therapy was approximately100 weeks (range: 2 weeks to 145 weeks).
 
@@ -517,11 +515,9 @@ In aHUS Study C08-002A/B, responses to eculizumab were similar in patients with 
 
 Patients in aHUS study C08-003A/B received eculizumab for a minimum of 26 weeks. After completion of the initial 26-week treatment period, most patients continued to receive eculizumab by enrolling into an extension study. In aHUS Study C08-003A/B, the median duration of eculizumab therapy was approximately 114 weeks (range: 26 to 129 weeks). Table 6 summarizes the efficacy results for aHUS Study C08-003A/B.
 
-In aHUS Study C08-003A/B, responses to eculizumab were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins. Reduction in terminal complement activity was observed in all patients after commencement of eculizumab. All rates of
+In aHUS Study C08-003A/B, responses to eculizumab were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins. Reduction in terminal complement activity was observed in all patients after commencement of eculizumab. All rates of efficacy endpoints improved or were maintained through 2 years of treatment. Complete TMA response was maintained by all responders. When treatment was continued for more than 26 weeks, six additional patients achieved and maintained Complete TMA response due to a decrease in serum creatinine. No patient required new dialysis with eculizumab. Renal function, as measured by median eGFR, increased during eculizumab therapy.
 
 <div style=\"page-break-after: always\"></div>
-
-efficacy endpoints improved or were maintained through 2 years of treatment. Complete TMA response was maintained by all responders. When treatment was continued for more than 26 weeks, six additional patients achieved and maintained Complete TMA response due to a decrease in serum creatinine. No patient required new dialysis with eculizumab. Renal function, as measured by median eGFR, increased during eculizumab therapy.
 
 Table 6: Efficacy Outcomes in Prospective aHUS Studies C08-002A/B and C08-003A/B
 
@@ -532,8 +528,8 @@ Table 6: Efficacy Outcomes in Prospective aHUS Studies C08-002A/B and C08-003A/B
 | TMA event-free status, n (%) (95% CI)                                                                                        | 15 (88) (64-99)                        | 15 (88) (64-99)                        | 16 (80) (56-94)               | 19 (95) (75-99)              |
 | TMA intervention rate Daily pre- eculizumab rate, median (min, max) Daily during- eculizumab rate, median (min, max) P-value | 0.88 (0.04, 1.59) 0 (0, 0.31) P<0.0001 | 0.88 (0.04, 1.59) 0 (0, 0.31) P<0.0001 | 0.23 (0.05, 1.09) 0 P <0.0001 | 0.23 (0.05, 1.09) 0 P<0.0001 |
 | CKD improvement by ≥1 stage, n (%) (95% CI)                                                                                  | 10 (59) (33-82)                        | 12 (71) (44-90)                        | 7 (35) (15-59)                | 12 (60) (36-81)              |
-| eGFR change mL/min/1.73m 2 : median (range)                                                                                  | 20 (-1, 98)                            | 28 (3, 82)                             | 5 (-1, 20)                    | 11 (-42, 30)                 |
-| eGFR improvement ≥15 mL/min/1.73m 2 , n (%) (95% CI)                                                                         | 8 (47) (23-72)                         | 10 (59) (33-82)                        | 1 (5) (0-25)                  | 8 (40) (19-64)               |
+| eGFR change mL/min/1.73 m 2 : median (range)                                                                                 | 20 (-1, 98)                            | 28 (3, 82)                             | 5 (-1, 20)                    | 11 (-42, 30)                 |
+| eGFR improvement ≥15 mL/min/1.73 m 2 , n (%) (95% CI)                                                                        | 8 (47) (23-72)                         | 10 (59) (33-82)                        | 1 (5) (0-25)                  | 8 (40) (19-64)               |
 | Change in Hgb > 20g/L, n (%) (95% CI)                                                                                        | 11 (65) (38-86) 2                      | 13 (76) (50-93)                        | 9 (45) (23-68) 3              | 13 (65) (41-85)              |
 | Haematologic normalization, n (%) (95% CI)                                                                                   | 13 (76) (50-93)                        | 15 (88) (64-99)                        | 18 (90) (68-99)               | 18 (90) (68-99)              |
 | Complete TMA response, n (%) (95% CI)                                                                                        | 11(65) (38-86)                         | 13(76) (50-93)                         | 5 (25) (9-49)                 | 11(55) (32-77)               |
@@ -550,25 +546,25 @@ aHUS Study C10-004 enrolled 41 patients who displayed signs of thrombotic microa
 
 Table 7: Baseline Characteristics of Patients Enrolled in aHUS Study C10-004
 
-| Parameter                                                                                      | aHUS Study C10-004 N = 41   |
-|------------------------------------------------------------------------------------------------|-----------------------------|
-| Time from aHUS diagnosis to first study dose (months), median (min, max)                       | 0.79 (0.03, 311)            |
-| Time from current clinical TMAmanifestation until first study dose (months), median (min, max) | 0.52 (0.03, 19)             |
-| Baseline platelet count (× 10 9 /L), median (min, max )                                        | 125 (16, 332)               |
-| Baseline LDH(U/L), median (min, max)                                                           | 375 (131, 3318)             |
-| Baseline eGFR (mL/min/1.73m 2 ), median (min, max)                                             | 10 (6, 53)                  |
+| Parameter                                                                                       | aHUS Study C10-004 N = 41   |
+|-------------------------------------------------------------------------------------------------|-----------------------------|
+| Time from aHUS diagnosis to first study dose (months), median (min, max)                        | 0.79 (0.03, 311)            |
+| Time from current clinical TMA manifestation until first study dose (months), median (min, max) | 0.52 (0.03, 19)             |
+| Baseline platelet count (× 10 9 /L), median (min, max )                                         | 125 (16, 332)               |
+| Baseline LDH (U/L), median (min, max)                                                           | 375 (131, 3318)             |
+| Baseline eGFR (mL/min/1.73 m 2 ), median (min, max)                                             | 10 (6, 53)                  |
 
 Patients in aHUS Study C10-004 received eculizumab for a minimum of 26 weeks. After completion of the initial 26-week treatment period, most patients elected to continue on chronic dosing. Reduction in terminal complement activity and an increase in platelet count relative to baseline were observed after commencement of eculizumab. Eculizumab reduced signs of complement-mediated TMA activity, as shown by an increase in mean platelet counts from baseline to 26 weeks. In aHUS C10-004, mean (±SD) platelet count increased from 119 ± 66 x10 9 /L at baseline to 200 ± 84 x10 9 /L by one week; this effect was maintained through 26 weeks (mean platelet count (±SD) at week 26: 252 ± 70 x10 9 /L). Renal function, as measured by eGFR, was improved during eculizumab therapy. Twenty of the 24 patients who required dialysis at baseline were able to discontinue dialysis during eculizumab treatment. Table 8 summarizes the efficacy results for aHUS study C10-004.
 
 Table 8: Efficacy Outcomes in Prospective aHUS Study C10-004
 
-| Efficacy Parameter                                                                             | aHUSStudyC10-004 (N = 41) At 26-weeks   |
-|------------------------------------------------------------------------------------------------|-----------------------------------------|
-| Change in platelet count through week 26 (10 9 /L)                                             | 111 (-122, 362)                         |
-| Hematologic Normalization, n (%) Median duration of hematologic normalization, weeks (range) 1 | 36 (88) 46 (10, 74)                     |
-| Complete TMA response, n (%) Median duration of complete TMAresponse, weeks (range) 1          | 23 (56) 42 (6, 74)                      |
-| TMA Event-free Status, n (%) 95% CI                                                            | 37 (90) 77; 97                          |
-| Daily TMA Intervention Rate, median (range) Before eculizumab On eculizumab treatment          | 0.63 (0, 1.38) 0 (0, 0.58)              |
+| Efficacy Parameter                                                                             | aHUS Study C10-004 (N = 41) At 26-weeks   |
+|------------------------------------------------------------------------------------------------|-------------------------------------------|
+| Change in platelet count through week 26 (10 9 /L)                                             | 111 (-122, 362)                           |
+| Hematologic Normalization, n (%) Median duration of hematologic normalization, weeks (range) 1 | 36 (88) 46 (10, 74)                       |
+| Complete TMA response, n (%) Median duration of complete TMA response, weeks (range) 1         | 23 (56) 42 (6, 74)                        |
+| TMA Event-free Status, n (%) 95% CI                                                            | 37 (90) 77; 97                            |
+| Daily TMA Intervention Rate, median (range) Before eculizumab On eculizumab treatment          | 0.63 (0, 1.38) 0 (0, 0.58)                |
 
 1 Through data cut-off (September 4, 2012), with median duration of eculizumab therapy of 50 weeks (range: 13 weeks to 86 weeks).
 
@@ -623,31 +619,31 @@ In paediatric patients with longer duration of current severe clinical TMA manif
 
 Table 11: Efficacy Outcomes in Paediatric Patients in Study C09-001r according to duration of current severe clinical thrombotic microangiopathy ( TMA) manifestation
 
-|                                      | Duration of current severe clinical TMAmanifestation   | Duration of current severe clinical TMAmanifestation   |
-|--------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
-|                                      | < 2 months N=10 (%)                                    | >2 months N=5 (%)                                      |
-| Platelet count normalization         | 9 (90)                                                 | 5 (100)                                                |
-| TMA event-free status                | 8 (80)                                                 | 3 (60)                                                 |
-| Complete TMA response                | 7 (70)                                                 | 0                                                      |
-| eGFR improvement ≥ 15 mL/min/1.73m 2 | 7 (70)                                                 | 0 *                                                    |
+|                                      | Duration of current severe clinical TMA manifestation   | Duration of current severe clinical TMA manifestation   |
+|--------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
+|                                      | < 2 months N=10 (%)                                     | >2 months N=5 (%)                                       |
+| Platelet count normalization         | 9 (90)                                                  | 5 (100)                                                 |
+| TMA event-free status                | 8 (80)                                                  | 3 (60)                                                  |
+| Complete TMA response                | 7 (70)                                                  | 0                                                       |
+| eGFR improvement ≥ 15 mL/min/1.73m 2 | 7 (70)                                                  | 0 *                                                     |
 
 A total of 22 paediatric and adolescents patients (aged 5 months to 17 years) received eculizumab in aHUS Study C10-003.
 
-In Study C10-003, patients who enrolled in the study were required to have a platelet count &lt; lower limit of normal range (LLN), evidence of haemolysis such as an elevation in serum LDH above the upper limits of normal and serum creatinine level ≥97 percentile for age without the need for chronic dialysis. The median patient age was 6.5 years (range: 5 months to 17 years). Patients enrolled in aHUS C10-003 had an ADAMTS-13 level above 5%. Fifty percent of patients had an identified complement regulatory factor mutation or auto-antibody. A total of 10 patients received PE/PI prior to eculizumab. Table 12 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in aHUS Study C10-003.
+In Study C10-003, patients who enrolled in the study were required to have a platelet count &lt; lower limit of normal range (LLN), evidence of haemolysis such as an elevation in serum LDH above the upper limits of normal and serum creatinine level ≥97 percen tile for age without the need for chronic dialysis. The median patient age was 6.5 years (range: 5 months to 17 years). Patients enrolled in aHUS C10-003 had an ADAMTS-13 level above 5%. Fifty percent of patients had an identified complement regulatory factor mutation or auto-antibody. A total of 10 patients received PE/PI prior to eculizumab. Table 12 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in aHUS Study C10-003.
 
 Table 12: Baseline Characteristics of Paediatric and Adolescents Patients Enrolled in aHUS Study C10-003
 
-| Parameter                                                                                       | 1 month to <12 years (N = 18)   | All Patients (N = 22)   |
-|-------------------------------------------------------------------------------------------------|---------------------------------|-------------------------|
-| Time from aHUS diagnosis until first study dose (months) median (min, max )                     | 0.51 (0.03, 58)                 | 0.56 (0.03,191)         |
-| Time from current clinicalTMA manifestation until first study dose (months), median ( min, max) | 0.23 (0.03, 4)                  | 0.20 (0.03, 4)          |
+| Parameter                                                                                        | 1 month to <12 years (N = 18)   | All Patients (N = 22)   |
+|--------------------------------------------------------------------------------------------------|---------------------------------|-------------------------|
+| Time from aHUS diagnosis until first study dose (months) median (min, max )                      | 0.51 (0.03, 58)                 | 0.56 (0.03,191)         |
+| Time from current clinical TMA manifestation until first study dose (months), median ( min, max) | 0.23 (0.03, 4)                  | 0.20 (0.03, 4)          |
 
 <div style=\"page-break-after: always\"></div>
 
 | Baseline platelet count (x 10 9 /L), median ( min, max)   | 110 (19, 146)    | 91 (19,146)      |
 |-----------------------------------------------------------|------------------|------------------|
 | Baseline LDH (U/L) median (min, max )                     | 1510 (282, 7164) | 1244 (282, 7164) |
-| Baseline eGFR (mL/min/1.73m 2 ), median (min, max)        | 22 (10, 105)     | 22 (10, 105)     |
+| Baseline eGFR (mL/min/1.73 m 2 ), median (min, max)       | 22 (10, 105)     | 22 (10, 105)     |
 
 Patients in aHUS C10-003 received eculizumab for a minimum of 26 weeks. After completion of the initial 26-week treatment period, most patients elected to continue on chronic dosing. Reduction in terminal complement activity was observed in all patients after commencement of eculizumab. Eculizumab reduced signs of complement-mediated TMA activity, as shown by an increase in mean platelet counts from baseline to 26 weeks. The mean (±SD) platelet count increased from 88 ± 42 x10 9 /L at baseline to 281 ± 123 x10 9 /L by one week; this effect was maintained through 26 weeks (mean platelet count (±SD) at week 26: 293 ± 106 x10 9 /L). Renal function, as measured by eGFR, was improved during eculizumab therapy. Nine of the 11 patients who required dialysis at baseline no longer required dialysis after Study Day 15 of eculizumab treatment. Responses were similar across all ages from 5 months to 17 years of age. In aHUS C10-003, responses to eculizumab were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins or auto-antibodies to factor H.
 
@@ -658,7 +654,7 @@ Table 13: Efficacy Outcomes in Prospective aHUS Study C10-003
 | Efficacy Parameter                                                                                               | 1 month to <12 years (N = 18) At 26-weeks   | All Patients (N = 22) At 26-weeks   |
 |------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------------------------------|
 | Complete Hematologic Normalization, n (%) Median Duration of complete hematologic normalization, weeks (range) 1 | 14 (78) 35 (13, 78)                         | 18 (82) 35 (13, 78)                 |
-| Complete TMA response, n (%) Median Duration of complete TMAresponse, weeks (range) 1                            | 11 (61) 40 (13, 78)                         | 14 (64) 37 (13, 78)                 |
+| Complete TMA response, n (%) Median Duration of complete TMA response, weeks (range) 1                           | 11 (61) 40 (13, 78)                         | 14 (64) 37 (13, 78)                 |
 | TMA Event-Free Status, n (%) 95% CI                                                                              | 17 (94) NA                                  | 21 (96) 77; 99                      |
 | Daily TMA Intervention rate, median (range) Before eculizumab treatment, median On eculizumab treatment, median  | NA NA                                       | 0.4 (0, 1.7) 0 (0, 1.01)            |
 | eGFR improvement ≥15 mL/min/ 1.73•m 2 , n (%)                                                                    | 16 (89)                                     | 19 (86)                             |
@@ -668,11 +664,9 @@ Table 13: Efficacy Outcomes in Prospective aHUS Study C10-003
 
 1 Through data cut-off (October 12, 2012), with median duration of eculizumab therapy of 44 weeks (range: 1 dose to 88 weeks).
 
-Longer term treatment with eculizumab (median 55 weeks ranging from 1day to 107 weeks) was associated with an increased rate of clinically meaningful improvements in paediatric and adolescent
+Longer term treatment with eculizumab (median 55 weeks ranging from 1day to 107 weeks) was associated with an increased rate of clinically meaningful improvements in paediatric and adolescent patients with aHUS. When eculizumab treatment was continued for more than 26 weeks, one additional patient (68% of patients in total) achieved Complete TMA Response and two additional patients (91% of patients in total) achieved hematologic normalization. At the last evaluation, 19 of 22 patients (86%) achieved eGFR improvement of ≥ 15 mL/min/1.73 m 2  from baseline. No patient required new dialysis with eculizumab.
 
 <div style=\"page-break-after: always\"></div>
-
-patients with aHUS. When eculizumab treatment was continued for more than 26 weeks, one additional patient (68% of patients in total) achieved Complete TMA Response and two additional patients (91% of patients in total) achieved hematologic normalization. At the last evaluation, 19 of 22 patients (86%) achieved eGFR improvement of ≥ 15 mL/min/1.73 m 2  from baseline. No patient required new dialysis with eculizumab.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -948,7 +942,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Epysqli 300 mg concentrate for solution for infusion eculizumab
+Epysqli 300 mg concentrate for solution for infusion
+
+eculizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -1200,11 +1196,9 @@ Your doctor will administer a vaccine to your child aged less than 18 years agai
 
 ## Instructions for proper use
 
-The treatment will be given by your doctor or other health care provider by infusing a dilution of the Epysqli vial from a drip bag through a tube directly into one of your veins. It is recommended that the
+The treatment will be given by your doctor or other health care provider by infusing a dilution of the Epysqli vial from a drip bag through a tube directly into one of your veins. It is recommended that the beginning of your treatments, called the initial phase, will extend over 4 weeks, followed by a maintenance phase.
 
 <div style=\"page-break-after: always\"></div>
-
-beginning of your treatments, called the initial phase, will extend over 4 weeks, followed by a maintenance phase.
 
 ## If you use this medicine to treat PNH
 
@@ -1409,11 +1403,141 @@ Epysqli is presented as a concentrate for solution for infusion (30 ml in a vial
 
 Samsung Bioepis NL B.V. Olof Palmestraat 10 2616 LR Delft The Netherlands
 
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Samsung Bioepis NL B.V.
+
+Tél/Tel: +31 152 196 122 css.sbeu@samsung.com
+
+## България
+
+Samsung Bioepis NL B.V.
+
+Te л .: +31 152 196 122 css.sbeu@samsung.com
+
+## Česká republika
+
+Samsung Bioepis NL B.V. Tel: +31 152 196 122 css.sbeu@samsung.com
+
+## Danmark
+
+Samsung Bioepis NL B.V. Tlf.: +31 152 196 122 css.sbeu@samsung.com
+
+## Deutschland
+
+Samsung Bioepis NL B.V. Tel: +31 152 196 122 css.sbeu@samsung.com
+
+## Eesti
+
+Samsung Bioepis NL B.V.
+
+Tel: +31 152 196 122 css.sbeu@samsung.com
+
+## Lietuva
+
+Samsung Bioepis NL B.V.
+
+Tel: +31 152 196 122 css.sbeu@samsung.com
+
+## Luxembourg/Luxemburg
+
+Samsung Bioepis NL B.V. Tél/Tel: +31 152 196 122 css.sbeu@samsung.com
+
+## Magyarország
+
+Samsung Bioepis NL B.V.
+
+Tel.: +31 152 196 122 css.sbeu@samsung.com
+
+## Malta
+
+Samsung Bioepis NL B.V. Tel: +31 152 196 122 css.sbeu@samsung.com
+
+## Nederland
+
+Samsung Bioepis NL B.V. Tel: +31 152 196 122 css.sbeu@samsung.com
+
+## Norge
+
+Samsung Bioepis NL B.V. Tlf: +31 152 196 122 css.sbeu@samsung.com
+
+<div style=\"page-break-after: always\"></div>
+
+## Ελλάδα
+
+Pharmachim S.A. Τηλ: + 30 210 330 3985
+
+## España
+
+Samsung Bioepis NL B.V. Tel: +31 152 196 122 css.sbeu@samsung.com
+
+## France
+
+Samsung Bioepis NL B.V. Tél: +31 152 196 122 css.sbeu@samsung.com
+
+## Hrvatska
+
+Samsung Bioepis NL B.V. Tel: +31 152 196 122 css.sbeu@samsung.com
+
+## Ireland
+
+Samsung Bioepis NL B.V. Tel: +31 152 196 122 css.sbeu@samsung.com
+
+## Ísland
+
+Samsung Bioepis NL B.V. Sími: +31 152 196 122 css.sbeu@samsung.com
+
+## Italia
+
+Samsung Bioepis NL B.V. Tel: +31 152 196 122 css.sbeu@samsung.com
+
+## Κύπρος
+
+Samsung Bioepis NL B.V. Τηλ: + 31 152 196 122 css.sbeu@samsung.com
+
+## Latvija
+
+Samsung Bioepis NL B.V. Tel: +31 152 196 122 css.sbeu@samsung.com
+
 ## This leaflet was last revised in .
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.There are also links to other websites about rare diseases and treatments.
+
+## Österreich
+
+Samsung Bioepis NL B.V. Tel: +31 152 196 122 css.sbeu@samsung.com
+
+## Polska
+
+Samsung Bioepis NL B.V. Tel.: +31 152 196 122 css.sbeu@samsung.com
+
+## Portugal
+
+Samsung Bioepis NL B.V. Tel: +31 152 196 122 css.sbeu@samsung.com
+
+## România
+
+Samsung Bioepis NL B.V. Tel: +31 152 196 122 css.sbeu@samsung.com
+
+## Slovenija
+
+Samsung Bioepis NL B.V. Tel: +31 152 196 122 css.sbeu@samsung.com
+
+## Slovenská republika
+
+Samsung Bioepis NL B.V. Tel: +31 152 196 122 css.sbeu@samsung.com
+
+## Suomi/Finland
+
+Samsung Bioepis NL B.V. Puh/Tel: +31 152 196 122 css.sbeu@samsung.com
+
+## Sverige
+
+Samsung Bioepis NL B.V. Tel: +31 152 196 122 css.sbeu@samsung.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1454,10 +1578,8 @@ The patient should be monitored for one hour following infusion. If an adverse e
 
 ## 4- Special Handling and Storage
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Store in the original package in order to protect from light. Epysqli vials in the original package may be removed from refrigerated storage for only
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Store in the original package in order to protect from light. Epysqli vials in the original package may be removed from refrigerated storage for only one single period of up to 2 months at room temperature (up to 30 °C), but not exceeding the original expiry date. At the end of this period the product can be put back in the refrigerator.
 
 <div style=\"page-break-after: always\"></div>
-
-one single period of up to 2 months at room temperature (up to 30 °C), but not exceeding the original expiry date. At the end of this period the product can be put back in the refrigerator.
 
 Do not use this medicine after the expiry date which is stated on the carton and vial label after 'EXP'. The expiry date refers to the last day of that month.

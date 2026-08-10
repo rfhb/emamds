@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-24 16:50:00
+document_datetime: 2026-08-07 14:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tecvayli.html
 document_name: tecvayli.html
 version: success
-processing_time: 0.1132159
-conversion_datetime: 2026-06-25 16:44:08.288514
+processing_time: 0.1459993
+conversion_datetime: 2026-08-10 20:47:28.730143
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.119.0
+  docling-core: 2.91.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-parse: 7.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 # Tecvayli
 
@@ -111,7 +111,7 @@ English (EN) (115.49 KB - PDF)
 
 [View](/en/documents/overview/tecvayli-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-758)
+[Other languages (22)](#file-language-dropdown-863)
 
 български (BG) (142.78 KB - PDF)
 
@@ -257,161 +257,161 @@ English (EN) (370.59 KB - PDF)
 
 Tecvayli : EPAR - Product Information
 
-English (EN) (295.69 KB - PDF)
+English (EN) (294.6 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/en/documents/product-information/tecvayli-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-608)
+[Other languages (24)](#file-language-dropdown-112)
 
-български (BG) (327.55 KB - PDF)
+български (BG) (326.64 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/bg/documents/product-information/tecvayli-epar-product-information_bg.pdf)
 
-español (ES) (323.15 KB - PDF)
+español (ES) (321.8 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/es/documents/product-information/tecvayli-epar-product-information_es.pdf)
 
-čeština (CS) (345.17 KB - PDF)
+čeština (CS) (343.72 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/cs/documents/product-information/tecvayli-epar-product-information_cs.pdf)
 
-dansk (DA) (318.06 KB - PDF)
+dansk (DA) (316 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/da/documents/product-information/tecvayli-epar-product-information_da.pdf)
 
-Deutsch (DE) (343.54 KB - PDF)
+Deutsch (DE) (341.56 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/de/documents/product-information/tecvayli-epar-product-information_de.pdf)
 
-eesti (ET) (337.57 KB - PDF)
+eesti (ET) (336.62 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/et/documents/product-information/tecvayli-epar-product-information_et.pdf)
 
-ελληνικά (EL) (331.56 KB - PDF)
+ελληνικά (EL) (330.51 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/el/documents/product-information/tecvayli-epar-product-information_el.pdf)
 
-français (FR) (315.22 KB - PDF)
+français (FR) (314.04 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/fr/documents/product-information/tecvayli-epar-product-information_fr.pdf)
 
-hrvatski (HR) (326.8 KB - PDF)
+hrvatski (HR) (324.98 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/hr/documents/product-information/tecvayli-epar-product-information_hr.pdf)
 
-italiano (IT) (308.7 KB - PDF)
+italiano (IT) (722.08 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/it/documents/product-information/tecvayli-epar-product-information_it.pdf)
 
-latviešu (LV) (327.11 KB - PDF)
+latviešu (LV) (325.26 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/lv/documents/product-information/tecvayli-epar-product-information_lv.pdf)
 
-lietuvių (LT) (337.28 KB - PDF)
+lietuvių (LT) (335.53 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/lt/documents/product-information/tecvayli-epar-product-information_lt.pdf)
 
-magyar (HU) (340.5 KB - PDF)
+magyar (HU) (339.62 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/hu/documents/product-information/tecvayli-epar-product-information_hu.pdf)
 
-Malti (MT) (376.34 KB - PDF)
+Malti (MT) (374 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/mt/documents/product-information/tecvayli-epar-product-information_mt.pdf)
 
-Nederlands (NL) (331.49 KB - PDF)
+Nederlands (NL) (330.44 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/nl/documents/product-information/tecvayli-epar-product-information_nl.pdf)
 
-polski (PL) (335.23 KB - PDF)
+polski (PL) (334.68 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/pl/documents/product-information/tecvayli-epar-product-information_pl.pdf)
 
-português (PT) (319.51 KB - PDF)
+português (PT) (318.61 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/pt/documents/product-information/tecvayli-epar-product-information_pt.pdf)
 
-română (RO) (328.93 KB - PDF)
+română (RO) (328.51 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/ro/documents/product-information/tecvayli-epar-product-information_ro.pdf)
 
-slovenčina (SK) (318.23 KB - PDF)
+slovenčina (SK) (316.43 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/sk/documents/product-information/tecvayli-epar-product-information_sk.pdf)
 
-slovenščina (SL) (333.76 KB - PDF)
+slovenščina (SL) (332.28 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/sl/documents/product-information/tecvayli-epar-product-information_sl.pdf)
 
-suomi (FI) (327.84 KB - PDF)
+suomi (FI) (326.02 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/fi/documents/product-information/tecvayli-epar-product-information_fi.pdf)
 
-svenska (SV) (317.1 KB - PDF)
+svenska (SV) (315.33 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/sv/documents/product-information/tecvayli-epar-product-information_sv.pdf)
 
-Íslenska (IS) (340.66 KB - PDF)
+Íslenska (IS) (339.94 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/is/documents/product-information/tecvayli-epar-product-information_is.pdf)
 
-norsk (NO) (330.98 KB - PDF)
+norsk (NO) (329.17 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 24/06/2026
+**First published:** 13/10/2022 **Last updated:** 07/08/2026
 
 [View](/no/documents/product-information/tecvayli-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000311141
+**Latest procedure affecting product information:** VR/0000362254
 
-26/05/2026
+07/08/2026
 
 icon globe
 
@@ -436,7 +436,7 @@ English (EN) (29.34 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tecvayli-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-519)
+[Other languages (24)](#file-language-dropdown-498)
 
 български (BG) (31.69 KB - PDF)
 
@@ -611,14 +611,12 @@ TECVAYLI is indicated as monotherapy for the treatment of adult patients with re
     - This medicine received a conditional marketing authorisation. This was granted in the interest of public health because the medicine addresses an unmet medical need and the benefit of immediate availability outweighs the risk from less comprehensive data than normally required. For more information, see [Conditional marketing authorisation](/node/68774) .
 - **PRIME: priority medicine**
     - This medicine was granted entry to the EMA Priority Medicines (PRIME) scheme during its development. PRIME is a scheme launched by EMA to enhance support for the development of medicines that target an unmet medical need. This voluntary scheme is based on enhanced interaction and early dialogue with developers of promising medicines, to optimise development plans and speed up evaluation so these medicines can reach patients earlier. For more information, see [PRIME: priority medicines](/node/69853) .
-- **Marketing authorisation holder**
-    - Janssen-Cilag International N.V. Turnhoutseweg 30  Beerse  2340 Antwerp  Belgium
 - **Opinion adopted**
     - 21/07/2022
 - **Marketing authorisation issued**
     - 23/08/2022
 - **Revision**
-    - 8
+    - 9
 
 ## Assessment history
 
@@ -630,9 +628,9 @@ Collapse section
 
 Tecvayli : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (170.95 KB - PDF)
+English (EN) (164.63 KB - PDF)
 
-**First published:** 04/06/2025 **Last updated:** 24/06/2026
+**First published:** 04/06/2025 **Last updated:** 07/08/2026
 
 [View](/en/documents/procedural-steps-after/tecvayli-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -698,6 +696,10 @@ English (EN) (150.78 KB - PDF)
 
 ## News on Tecvayli
 
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 June 2026](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-june-2026)
+
+26/06/2026
+
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 18-21 July 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-18-21-july-2022)
 
 22/07/2022
@@ -712,10 +714,11 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 ## More information on Tecvayli
 
+- [Tecvayli - opinion on variation to marketing authorisation](/en/medicines/human/variation/tecvayli)
 - [Characterize infections and outcomes developed in relapsed/refractory multiple myeloma (RRMM) patients treated with Teclistamab (SPOT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000414)
 
 **This page was last updated on**
 
-24/06/2026
+07/08/2026
 
 ## Share this page

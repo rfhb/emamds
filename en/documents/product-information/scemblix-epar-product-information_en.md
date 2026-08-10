@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-20 14:31:46
+document_datetime: 2026-08-07 12:56:43
 document_pages: 51
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/scemblix-epar-product-information_en.pdf
 document_name: scemblix-epar-product-information_en.pdf
 version: success
-processing_time: 21.0435747
-conversion_datetime: 2026-07-28 13:42:48.778261
+processing_time: 25.051486
+conversion_datetime: 2026-08-10 20:58:15.823727
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.119.0
+  docling-core: 2.91.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-parse: 7.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -342,11 +342,11 @@ The most common adverse reactions of ≥grade 3 (incidence ≥5%) in patients re
 
 Serious adverse reactions occurred in 12.5% of patients receiving asciminib. The most frequent serious adverse reactions (incidence ≥1%) were abdominal pain (4.2%), vomiting (4.2%), lower respiratory tract infections (4.2%), constipation (2.1%), headache (2.1%), non-cardiac chest pain (2.1%) and pleural effusion (2.1%).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tabulated list of adverse reactions
 
 The overall safety profile of asciminib has been evaluated in 556 patients with Ph+ CML in chronic (CP) and accelerated (AP) phases in the pivotal phase III study A2301 (ASCEMBL) and the phase I study X2101, and with newly diagnosed Ph+ CML-CP in the pivotal phase III study J12301 (ASC4FIRST). In ASCEMBL (N=156), patients received asciminib as monotherapy at a dose of 40 mg twice daily. In X2101 (N=200), patients received asciminib as monotherapy at doses ranging from 10 to 200 mg twice daily and 80 to 200 mg once daily. Of these patients, 48 with the T315I mutation received asciminib 200 mg twice daily. In ASC4FIRST (N=200), patients received asciminib as monotherapy at a dose of 80 mg once daily. In the pooled dataset, the median duration of exposure to asciminib was 123.29 weeks (range: 0.1 to 439 weeks).
+
+<div style=\"page-break-after: always\"></div>
 
 Adverse reactions from clinical studies (Table 2) are listed by MedDRA system organ class. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the following convention: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000).
 
@@ -521,7 +521,7 @@ Table 3 Efficacy results in newly diagnosed Ph+ CML-CP patients (ASC4FIRST)
 | Imatinib stratum (N=101)         | 76.24 (66.74, 84.14)             |                                            | 47.06 (37.10, 57.20)                       |                                            | 29.68 (17.57, 41.79)             | <0.001 4                         |
 | 2G TKIs stratum (N=100)          | 72 (62.13, 80.52)                |                                            |                                            | 56.86 (46.68, 66.63)                       | 15.14 (2.32, 27.95)              | Not formally tested              |
 
-Abbreviations: MMR, major molecular response (BCR:: ABL1IS ≤0.1%); IS TKIs, investigator-selected tyrosine kinase inhibitors; 2G TKIs, second-generation tyrosine kinase inhibitors; PRS TKI, pre-randomisation selection of TKI.
+Abbreviations: MMR, major molecular response (BCR::ABL1IS ≤0.1%); IS TKIs, investigator-selected tyrosine kinase inhibitors; 2G TKIs, second-generation tyrosine kinase inhibitors; PRS TKI, pre-randomisation selection of TKI.
 
 1 IS TKIs include imatinib (400 mg once daily) and 2G TKIs, i.e. nilotinib (300 mg twice daily), dasatinib (100 mg once daily) or bosutinib (400 mg once daily).
 
@@ -658,11 +658,11 @@ Asciminib is metabolised by several pathways, including the CYP3A4, UGT2B7 and U
 
 In vitro , asciminib reversibly inhibits CYP3A4/5, CYP2C9 and UGT1A1 at plasma concentrations reached at a 40 mg twice-daily dose. Asciminib may increase the exposure of medicinal products which are substrates of CYP3A4/5 and CYP2C9 (see section 4.5). In addition, asciminib reversibly inhibits CYP2C8 and CYP2C19 at plasma concentrations reached at a 200 mg twice-daily dose.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Transporters
 
 Asciminib is a substrate of BCRP and P-gp.
+
+<div style=\"page-break-after: always\"></div>
 
 Asciminib inhibits BCRP, P-gp, OATP1B and OCT1 with Ki values of 24, 22, 2 and 3 micromolar, respectively. The clinical relevance of the interaction with OCT1 is currently unknown at an asciminib 200 mg twice-daily dose.
 
@@ -692,9 +692,9 @@ Pancreatic effects (serum amylase and lipase increases, acinar cell lesions) occ
 
 Elevations in liver enzymes and/or bilirubin were observed in rats, dogs and monkeys. Histopathological hepatic changes (centrilobular hepatocyte hypertrophy, slight bile duct hyperplasia, increased individual hepatocyte necrosis and diffuse hepatocellular hypertrophy) were seen in rats and monkeys. These changes occurred at AUC exposures either equivalent to (rats) or 8- to 18-fold (dogs and monkeys) higher than those achieved in patients at the RD of 40 mg twice daily or 80 mg once daily. AUC exposures were below (rats), equivalent to (dogs) or approximately 2-fold higher than (monkeys) those achieved in patients at the RD of 200 mg twice daily. These changes were fully reversible.
 
-<div style=\"page-break-after: always\"></div>
-
 Effects on the haematopoietic system (reduction in red blood cell mass, increased splenic or bone marrow pigment and increased reticulocytes) were consistent with a mild and regenerative, extravascular, haemolytic anaemia in all species. These changes occurred at AUC exposures either equivalent to (rats) or 8- to 14-fold (dogs and monkeys) higher than those achieved in patients at the RD of 40 mg twice daily or 80 mg once daily. AUC exposures were below (rats), equivalent to (dogs) or approximately 2-fold higher than (monkeys) those achieved in patients at the RD of 200 mg twice daily. These changes were fully reversible.
+
+<div style=\"page-break-after: always\"></div>
 
 Minimal mucosal hypertrophy/hyperplasia (increase in thickness of the mucosa with frequent elongation of villi) was present in the duodenum of rats at AUC exposures 30- or 22-fold higher than those achieved in patients at the RD of 40 mg twice daily or 80 mg once daily, respectively. AUC exposures were 4-fold higher than those achieved in patients at the RD of 200 mg twice daily. This change was fully reversible.
 
@@ -718,11 +718,11 @@ In the rat fertility study, asciminib did not affect reproductive function in ma
 
 A pre- and postnatal developmental toxicity study was not performed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Phototoxicity
 
 In mice, asciminib showed dose-dependent phototoxic effects starting at 200 mg/kg/day. At the NOAEL of 60 mg/kg/day, exposure based on Cmax in plasma was 15-, 6- or 2-fold higher than the exposure in patients at the RD of 40 mg twice daily, 80 mg once daily or 200 mg twice daily, respectively.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -746,21 +746,13 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-Scemblix 20 mg and 40 mg film-coated tablets
-
 3 years.
-
-Scemblix 100 mg film-coated tablets
-
-2 years.
 
 ## 6.4 Special precautions for storage
 
 Do not store above 25°C.
 
 Store in the original package in order to protect from moisture.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.5 Nature and contents of container
 
@@ -772,7 +764,9 @@ Scemblix 20 mg film-coated tablets
 
 Packs containing 20 or 60 film-coated tablets.
 
-Scemblix 40 mg film-coated tablets
+<div style=\"page-break-after: always\"></div>
+
+## Scemblix 40 mg film-coated tablets
 
 Packs containing 20 or 60 film-coated tablets. Multipacks containing 180 (3 packs of 60) film-coated tablets.
 
@@ -817,11 +811,11 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
+Novartis Pharmaceutical Manufacturing LLC Verov š kova Ulica 57 1000 Ljubljana Slovenia
+
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
-
-Novartis Pharmaceutical Manufacturing LLC Verov š kova Ulica 57 1000 Ljubljana Slovenia
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -1746,7 +1740,7 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 ## Manufacturer
 
-Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany Novartis Pharmaceutical Manufacturing LLC Verovškova Ulica 57 1000 Ljubljana Slovenia For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Novartis Pharmaceutical Manufacturing LLC Verovškova Ulica 57 1000 Ljubljana Slovenia Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1808,9 +1802,7 @@ Tel: +353 1 260 12 55
 
 ## Lietuva
 
-SIA Novartis Baltics Lietuvos filialas
-
-Tel: +370 5 269 16 50
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## Luxembourg/Luxemburg
 
@@ -1824,9 +1816,7 @@ Novartis Hungária Kft. Tel.: +36 1 457 65 00
 
 ## Malta
 
-Novartis Pharma Services Inc.
-
-Tel: +356 2122 2872
+Novartis Pharma Services Inc. Tel: +356 2122 2872
 
 ## Nederland
 

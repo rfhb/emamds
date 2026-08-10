@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-18 10:07:31
-document_pages: 30
+document_datetime: 2026-08-07 13:01:23
+document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/imvanex-epar-product-information_en.pdf
 document_name: imvanex-epar-product-information_en.pdf
 version: success
-processing_time: 15.4784052
-conversion_datetime: 2026-05-22 23:27:01.789756
+processing_time: 22.3519058
+conversion_datetime: 2026-08-10 21:01:56.752264
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.119.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -52,7 +52,7 @@ Light yellow to pale white colored, clear to milky suspension.
 
 ## 4.1 Therapeutic indications
 
-Active immunisation against smallpox, monkeypox and disease caused by vaccinia virus in individuals 12 years of age and older (see sections 4.4 and 5.1).
+Active immunisation against smallpox, monkeypox and disease caused by vaccinia virus in individuals 2 years of age and older (see sections 4.4 and 5.1).
 
 The use of this vaccine should be in accordance with official recommendations.
 
@@ -78,7 +78,7 @@ Immunocompromised patients (e.g. HIV infected, patients under immunosuppressive 
 
 ## Paediatric population
 
-The safety and efficacy of IMVANEX in children below 12 years have not been established. No data are available.
+The safety and efficacy of IMVANEX in children below 2 years of age have not been established. No data are available.
 
 ## Method of administration
 
@@ -110,7 +110,7 @@ IMVANEX should not be administered by intravascular injection.
 
 ## Limitations of vaccine effectiveness
 
-The protective efficacy of IMVANEX against smallpox, monkeypox and disease caused by vaccinia virus has not been studied in humans, see section 5.1.
+The protective efficacy of IMVANEX against smallpox, monkeypox, and disease caused by vaccinia virus has not been studied in humans, see section 5.1.
 
 A protective immune response may not be elicited in all vaccinees.
 
@@ -122,7 +122,7 @@ Prior vaccination with IMVANEX may modify the cutaneous response ('take') to sub
 
 ## Individuals with atopic dermatitis
 
-Individuals with atopic dermatitis developed more local and general symptoms after vaccination (see section 4.8)
+Individuals with atopic dermatitis developed more local and systemic symptoms after vaccination (see section 4.8)
 
 ## Immunocompromised individuals
 
@@ -132,7 +132,7 @@ Two doses of IMVANEX given at a 7-day interval showed lower immune responses and
 
 ## Anxiety-related reactions
 
-Anxietyrelated reactions, including vasovagal reactions (syncope), hyperventilation or stress-related reactions may occur in association with vaccination as a psychogenic response to the needle injection. It is important that precautions are in place to avoid injury from fainting.
+Anxiety-related reactions, including vasovagal reactions (syncope), hyperventilation or stress-related reactions may occur in association with vaccination as a psychogenic response to the needle injection. It is important that precautions are in place to avoid injury from fainting.
 
 ## Sodium content
 
@@ -140,19 +140,17 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that i
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-No interaction studies with other vaccines or medicinal products have been performed. Therefore, concomitant administration of IMVANEX with other vaccines should be avoided. The concomitant administration of the vaccine with any immunoglobulin including vaccinia immune
-
-globulin (VIG) has not been studied and should be avoided.
+No interaction studies with other vaccines or medicinal products have been performed. Therefore, concomitant administration of IMVANEX with other vaccines should be avoided. The concomitant administration of the vaccine with any immunoglobulin including vaccinia immune globulin (VIG) has not been studied and should be avoided.
 
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Pregnancy
 
-There are limited data (less than 300 pregnancy outcomes) from the use of IMVANEX in pregnant women. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of IMVANEX during pregnancy. Administration of Imvanex in pregnancy should only be considered when the potential benefits outweigh any potential risk to the mother and foetus.
+There are limited data (less than 300 pregnancy outcomes) from the use of IMVANEX in pregnant women. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity (see section 5.3). As a precautionary measure, it is preferable to avoid the use of IMVANEX during pregnancy. Administration of IMVANEX in pregnancy should only be considered when the potential benefits outweigh any potential risk to the mother and foetus.
 
 ## Breast-feeding
 
-It is not known whether IMVANEX is excreted in human milk. As a precautionary measure, it is preferable to avoid the use of IMVANEX during breast-feeding. Administration of Imvanex during breast-feeding should only be considered when the potential benefits outweigh any potential risks to the mother and baby.
+It is not known whether IMVANEX is excreted in human milk. As a precautionary measure, it is preferable to avoid the use of IMVANEX during breast-feeding. Administration of IMVANEX during breast-feeding should only be considered when the potential benefits outweigh any potential risks to the mother and baby.
 
 ## Fertility
 
@@ -168,7 +166,7 @@ There is no information on the effect of IMVANEX on the ability to drive or use 
 
 ## Summary of the safety profile
 
-The safety of IMVANEX has been assessed in 21 clinical trials in which 5 711 vaccinia-naïve individuals received two doses of no less than 5 x 10 7 Inf.U four weeks apart while 534 vaccinia- and IMVANEX-experienced individuals received a single booster dose.
+The safety of IMVANEX has been assessed in 22 clinical trials (21 completed and 1 ongoing clinical trial [POX-MVA-045]) in which more than 6 000 vaccinia-naïve individuals received two doses of no less than 5 x 10 7  Inf.U four weeks apart while 534 vaccinia- and IMVANEX-experienced individuals received a single booster dose.
 
 The most common adverse reactions observed in clinical trials were injection site reactions and common systemic reactions typical for vaccines which were mild to moderate in intensity and resolved without intervention within seven days following vaccination.
 
@@ -180,41 +178,41 @@ Adverse reactions from all clinical trials are listed according to the following
 
 Very common (≥1/10) Common (≥1/100 to &lt;1/10) Uncommon (≥1/1 000 to &lt;1/100) Rare (≥1/10 000 to &lt;1/1 000) Unknown (cannot be estimated from the available data)
 
-Table 1 Adverse reactions reported in completed clinical trials (N = 7 532 subjects) and postauthorisation experience with IMVANEX
+Table 1 Adverse reactions reported in clinical trials (N =  7 992 subjects) and post-authorisation experience with IMVANEX
 
-| MedDRA System Organ Class            | Very common (≥1/10)   | Common (≥1/100 to <1/10)   | Uncommon (≥1/1 000 to <1/100)                     | Rare ( ≥1/10 000 to <1/1 000)                  | Unknown (cannot be estimated from the available data)   |
+| MedDRA System Organ Class            | Very common (≥1/10)   | Common (≥1/100 to <1/10)   | Uncommon (≥1/1 000 to <1/100)                     | Rare (≥1/10 000 to <1/1 000)                   | Unknown (cannot be estimated from the available data)   |
 |--------------------------------------|-----------------------|----------------------------|---------------------------------------------------|------------------------------------------------|---------------------------------------------------------|
 | Infections and infestations          | -                     | -                          | Nasopharyngitis Upper respiratory tract infection | Sinusitis Influenza Conjunctivitis Pharyngitis | -                                                       |
 | Blood and lymphatic system disorders | -                     | -                          | Lymphadenopathy                                   | -                                              | -                                                       |
-| Metabolism and nutrition disorders   | -                     | Appetite disorder          | -                                                 | -                                              | -                                                       |
+| Metabolism and nutrition disorders   | -                     | Appetite disorder          | -                                                 | Decreased appetite                             | -                                                       |
 | Psychiatric disorders                | -                     | -                          | Sleep disorder                                    | -                                              | -                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA System Organ Class                            | Very common (≥1/10)                         | Common (≥1/100 to <1/10)                                                 | Uncommon (≥1/1 000 to <1/100)                                                  | Rare ( ≥1/10 000 to <1/1 000)                                                                      | Unknown (cannot be estimated from the available data)   |
-|------------------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------|
-| Nervous system disorders                             | Headache                                    | -                                                                        | Dizziness Paresthesia                                                          | Migraine Peripheral sensory neuropathy Somnolence                                                  | Acute peripheral facial paralysis (Bell's palsy)        |
-| Ear and labyrinth disorders                          | -                                           | -                                                                        | -                                                                              | Vertigo                                                                                            | -                                                       |
-| Cardiac disorders                                    | -                                           | -                                                                        | -                                                                              | Tachycardia                                                                                        | -                                                       |
-| Respiratory, thoracic and mediastinal disorders      | -                                           | -                                                                        | Pharyngolaryngeal pain Rhinitis Cough                                          | Oropharyngeal pain                                                                                 | -                                                       |
-| Gastrointestinal disorders                           | Nausea                                      | -                                                                        | Diarrhoea Vomiting                                                             | Dry mouth Abdominal Pain                                                                           | -                                                       |
-| Skin and subcutaneous tissue disorders               | -                                           | -                                                                        | Rash Pruritus Dermatitis                                                       | Urticaria Skin discolouration Ecchymosis Hyperhidrosis Night sweats Subcutaneous nodule Angioedema | -                                                       |
-| Musculoskeletal and connective tissue disorders      | Myalgia                                     | Arthralgia Pain in extremity                                             | Musculoskeletal stiffness                                                      | Back pain Muscle spasms Neck pain Musculoskeletal pain Muscular weakness                           | -                                                       |
-| General disorders and administration site conditions | Injection site pain Injection site erythema | Rigor/Chills Injection site nodule Injection site discolouration Pyrexia | Underarm swelling Malaise Injection site haemorrhage Injection site irritation | Axillary pain Injection site exfoliation Injection site inflammation Injection site paraesthesia   | -                                                       |
+| MedDRA System Organ Class                            | Very common (≥1/10)                         | Common (≥1/100 to <1/10)                                                 | Uncommon (≥1/1 000 to <1/100)                                              | Rare (≥1/10 000 to <1/1 000)                                                                       | Unknown (cannot be estimated from the available data)   |
+|------------------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+| Nervous system disorders                             | Headache                                    | -                                                                        | Dizziness Paresthesia                                                      | Migraine Peripheral sensory neuropathy Somnolence Presyncope                                       | Acute peripheral facial paralysis (Bell's palsy)        |
+| Ear and labyrinth disorders                          | -                                           | -                                                                        | -                                                                          | Vertigo                                                                                            | -                                                       |
+| Cardiac disorders                                    | -                                           | -                                                                        | -                                                                          | Tachycardia                                                                                        | -                                                       |
+| Respiratory, thoracic and mediastinal disorders      | -                                           | -                                                                        | Pharyngolaryngeal pain Rhinitis Cough                                      | Oropharyngeal pain                                                                                 | -                                                       |
+| Gastrointestinal disorders                           | Nausea                                      | -                                                                        | Diarrhoea Vomiting                                                         | Dry mouth Abdominal Pain                                                                           | -                                                       |
+| Skin and subcutaneous tissue disorders               | -                                           | -                                                                        | Rash Pruritus Dermatitis                                                   | Urticaria Skin discolouration Ecchymosis Hyperhidrosis Night sweats Subcutaneous nodule Angioedema | -                                                       |
+| Musculoskeletal and connective tissue disorders      | Myalgia                                     | Arthralgia Pain in extremity                                             | Musculoskeletal stiffness                                                  | Back pain Muscle spasms Neck pain Musculoskeletal pain Muscular weakness                           | -                                                       |
+| General disorders and administration site conditions | Injection site pain Injection site erythema | Rigor/Chills Injection site nodule Injection site discolouration Pyrexia | Injection site warmth Underarm swelling Malaise Injection site haemorrhage | Axillary pain Injection site exfoliation Injection site inflammation Injection site paraesthesia   | -                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA System Organ Class                      | Very common (≥1/10)                                                               | Common (≥1/100 to <1/10)                       | Uncommon (≥1/1 000 to <1/100)                                                                                 | Rare ( ≥1/10 000 to <1/1 000)                                                                                                                                                                     | Unknown (cannot be estimated from the available data)   |
-|------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
-|                                                | Injection site swelling Injection site induration Injection site pruritus Fatigue | Injection site haematoma Injection site warmth | Flushing Chest pain                                                                                           | Injection site rash Injection site reaction Oedema peripheral Influenza like illness Asthenia Injection site anaesthesia Injection site dryness Injection site movement impairment Injection site |                                                         |
-| Investigations                                 | -                                                                                 | Body temperature increased                     | Troponin I increased Hepatic enzyme increased White blood cell count decreased Mean platelet volume decreased | White blood cell count increased                                                                                                                                                                  | -                                                       |
-| Injury, poisoning and procedural complications | -                                                                                 | -                                              | -                                                                                                             | Contusion                                                                                                                                                                                         | -                                                       |
+| MedDRA System Organ Class                      | Very common (≥1/10)                                                               | Common (≥1/100 to <1/10)   | Uncommon (≥1/1 000 to <1/100)                                                                                 | Rare (≥1/10 000 to <1/1 000)                                                                                                                                                                      | Unknown (cannot be estimated from the available data)   |
+|------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+|                                                | Injection site swelling Injection site induration Injection site pruritus Fatigue | Injection site haematoma   | Injection site irritation Flushing Chest pain                                                                 | Injection site rash Injection site reaction Oedema peripheral Influenza like illness Asthenia Injection site anaesthesia Injection site dryness Injection site movement impairment Injection site |                                                         |
+| Investigations                                 | -                                                                                 | Body temperature increased | Troponin I increased Hepatic enzyme increased White blood cell count decreased Mean platelet volume decreased | White blood cell count increased                                                                                                                                                                  | -                                                       |
+| Injury, poisoning and procedural complications | -                                                                                 | -                          | -                                                                                                             | Contusion                                                                                                                                                                                         | -                                                       |
 
 ## Description of selected adverse reactions
 
 ## Individuals with atopic dermatitis (AD)
 
-In a non-placebo controlled clinical trial that compared the safety of IMVANEX in individuals with AD to healthy individuals, individuals with AD reported erythema (61.2%) and swelling (52.2%) at the injection site with a higher frequency than healthy individuals (49.3% and 40.8%, respectively). The following general symptoms were reported more frequently in individuals with AD compared to healthy individuals: headache (33.1% vs. 24.8%), myalgia (31.8% vs. 22.3%), chills (10.7% vs. 3.8 %), nausea (11.9% vs. 6.8%), and fatigue (21.4% vs. 14.4%).
+In a non-placebo controlled clinical trial that compared the safety of IMVANEX in individuals with AD to healthy individuals, individuals with AD reported erythema (61.2%) and swelling (52.2%) at the injection site with a higher frequency than healthy individuals (49.3% and 40.8%, respectively). The following systemic symptoms were reported more frequently in individuals with AD compared to healthy individuals: headache (33.1% vs. 24.8%), myalgia (31.8% vs. 22.3%), chills (10.7% vs. 3.8 %), nausea (11.9% vs. 6.8%), and fatigue (21.4% vs. 14.4%).
 
 7% of the individuals with AD in clinical trials with IMVANEX experienced a flare-up or worsening of their skin condition during the course of the trial.
 
@@ -222,13 +220,17 @@ In a non-placebo controlled clinical trial that compared the safety of IMVANEX i
 
 ## Rash
 
-IMVANEX may trigger local rashes or  more  widespread  eruptions.  Events  of  rash  after  vaccination (related cases observed in 0.4% of subjects) with IMVANEX tend to occur within the first days after vaccination, are mild to moderate in intensity and usually resolve without sequelae.
+IMVANEX may trigger local rashes or more widespread eruptions.  Events  of rash after  vaccination (related cases observed in 0.4% of subjects) with IMVANEX tend to occur within the first days after vaccination, are mild to moderate in intensity and usually resolve without sequelae.
 
 ## Paediatric population
 
 ## Adolescents 12-17 years
 
 Data from Stage 2 of study DMID 22-0020 show a similar safety profile in adolescents as in adults. Stage 2 of the study enrolled 315 adolescents aged 12 to 17 years and 135 adults aged 18 to 50 years. The most frequent local adverse reaction was injection site pain (&gt; 70%), and the most frequent systemic adverse reactions were fatigue (&gt; 50%) and headache (50%). The reactogenicity was similar between younger (12 to 14 years of age) and older (15 to 17 years of age) adolescents.
+
+## Children 2 to less than 12 years of age
+
+The safety of IMVANEX is being studied in the currently ongoing phase 2 study, POX-MVA-045, in 230 children from 2 to 11 years of age. In this study (topline report with data up to 4 weeks after the second vaccination), the type and the frequency of adverse events reported were generally similar to those seen in adults. According to the current database, the most frequent injection site reaction was injection site pain (&gt; 60%), and the most frequent systemic adverse reaction was headache (&gt; 30%).
 
 ## Reporting of suspected adverse reactions
 
@@ -252,9 +254,7 @@ Mouse studies have demonstrated that vaccination with IMVANEX protected mice fro
 
 ## Immunogenicity
 
-## Seroconversion to vaccinia in vaccinia-naïve healthy and special populations
-
-The vaccinia-naïve study population included healthy individuals as well as individuals with HIV infection and AD who received 2 doses of IMVANEX 4 weeks apart. Seroconversion rates in vaccinianaïve individuals were defined as appearance of vaccinia antibody titres equal or greater than the assay cut-off value following receipt of two doses of IMVANEX. Seroconversion by ELISA and PRNT were as follows:
+Seroconversion to vaccinia in vaccinia-naïve healthy and special populations in adults The vaccinia-naïve study population included healthy individuals as well as individuals with HIV infection and AD who received 2 doses of IMVANEX 4 weeks apart. Seroconversion rates in vaccinianaïve individuals were defined as appearance of vaccinia antibody titres equal or greater than the assay cut-off value following receipt of two doses of IMVANEX. Seroconversion by ELISA and PRNT were as follows:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -262,7 +262,7 @@ Table 2 Seroconversion rates by ELISA in vaccinia-naïve healthy and special pop
 
 | SCR - ELISA   | SCR - ELISA       |         | Day 7/14 1        | Day 28 1          | Day 42 1          |
 |---------------|-------------------|---------|-------------------|-------------------|-------------------|
-| Study         | Health status     | N       | SCR% (95% CI)     | SCR% (95% CI)     | SCR% (95% CI)     |
+| Study         | Health status     | N       | SCR % (95% CI)    | SCR % (95% CI)    | SCR % (95% CI)    |
 | POX-MVA-005 2 | Healthy           | 183     | 70.9 (63.7, 77.4) | 88.9 (83.4, 93.1) | 98.9 (96.0, 99.9) |
 | POX-MVA-008 3 | Healthy           | 194     | 12.5 (8.1, 18.2)  | 85.4 (79.6, 90.1) | 98.5 (95.5, 99.7) |
 | POX-MVA-008 3 | Atopic Dermatitis | 257     | 22.9 (17.8, 28.6) | 85.4 (80.5, 89.5) | 97.3 (94.5, 98.9) |
@@ -271,11 +271,11 @@ Table 2 Seroconversion rates by ELISA in vaccinia-naïve healthy and special pop
 | POX-MVA-011 2 | HIV               | 351     | 29.2 (24.3, 34.5) | 67.5 (62.1, 72.5) | 96.2 (93.4, 98.0) |
 | POX-MVA-013 2 | Healthy           | 2,119 6 | N/A 5             | N/A 5             | 99.7 (99.4; 99.9) |
 
-## Table 3 Seroconversion rates by PRNT in vaccinia-naïve healthy and special populations
+Table 3 Seroconversion rates by PRNT in vaccinia-naïve healthy and special populations
 
 | SCR - PRNT    | SCR - PRNT        |        | Day 7/14 1        | Day 28 1          | Day 42 1          |
 |---------------|-------------------|--------|-------------------|-------------------|-------------------|
-| Study         | Health Status     | N      | SCR% (95% CI)     | SCR% (95% CI)     | SCR% (95% CI)     |
+| Study         | Health Status     | N      | SCR % (95% CI)    | SCR % (95% CI)    | SCR % (95% CI)    |
 | POX-MVA-005 2 | Healthy           | 183    | 45.1 (37.7, 52.6) | 56.7 (49.1, 64.0) | 89.2 (83.7, 93.4) |
 | POX-MVA-008 3 | Healthy           | 194    | 5.4 (2.6, 9.8)    | 24.5 (18.6, 31.2) | 86.6 (81.0, 91.1) |
 | POX-MVA-008 3 | Atopic Dermatitis | 257    | 5.6 (3.1, 9.3)    | 26.8 (21.4, 32.7) | 90.3 (86.0, 93.6) |
@@ -286,29 +286,27 @@ Table 2 Seroconversion rates by ELISA in vaccinia-naïve healthy and special pop
 
 1 Day 7/14 corresponding to 1 or 2 weeks after the first IMVANEX dose (analysis time point at day 7 only in studies POX-MVA-008 and POX-MVA-011; POX-MVA-005 had the first post vaccination analysis at day 14); day 28 corresponding to 4 weeks after the first IMVANEX dose; day 42 corresponding to 2 weeks following the second dose of IMVANEX; SCR = Seroconversion rate; PRNT = plaque reduction neutralisation test; ELISA = enzyme-linked immunosorbent assay using MVA as an antigen  2  Full Analysis Set (FAS) (for POX-MVA-013: Immunogenicity Analysis Set; IAS);  3  Per Protocol Analysis Set (PPS),  4 seropositivity rates,  5  no immunogenicity sample taken,  6  combined Groups 1-3.
 
-## Seroconversion to vaccinia in vaccinia-experienced healthy and special populations
+Seroconversion to vaccinia in vaccinia-experienced healthy and special populations in adults
 
 Seroconversion in vaccinia-experienced individuals was defined as at least a two-fold increase in base titres following a single vaccination with IMVANEX.
 
-Table 4 Seroconversion rates by ELISA in vaccinia-experienced healthy and special populations
-
-| SCR - ELISA    | SCR - ELISA   |     | Day 0 1   | Day 7/14 1        | Day 28 1          | Day 42 1      |
-|----------------|---------------|-----|-----------|-------------------|-------------------|---------------|
-| Study          | Health status | N   | SCR%      | SCR% (95% CI)     | SCR% (95% CI)     | SCR% (95% CI) |
-| POX-MVA- 005 2 | Healthy       | 200 | -         | 95.5 (91.6, 97.9) | 93.0 (88.5, 96.1) | NA            |
-
 <div style=\"page-break-after: always\"></div>
 
-| POX-MVA- 024 2   | Healthy   |   61 | -   | 83.6 (71.9, 91.8)   | 79.7 (67.2, 89.0)   | NA                |
-|------------------|-----------|------|-----|---------------------|---------------------|-------------------|
-| POX-MVA- 011 2   | Healthy   |    9 | -   | 62.5 (24.5, 91.5)   | 100 (63.1, 100)     | 100 (59.0, 100.0) |
-| POX-MVA- 011 2   | HIV       |  131 | -   | 57.3 (48.1, 66.1)   | 76.6 (68.2, 83.7)   | 92.7 (86.6, 96.6) |
+Table 4 Seroconversion rates by ELISA in vaccinia-experienced healthy and special populations
+
+| SCR - ELISA    | SCR - ELISA   |     | Day 0 1   | Day 7/14 1        | Day 28 1          | Day 42 1          |
+|----------------|---------------|-----|-----------|-------------------|-------------------|-------------------|
+| Study          | Health status | N   | SCR %     | SCR % (95% CI)    | SCR % (95% CI)    | SCR % (95% CI)    |
+| POX-MVA- 005 2 | Healthy       | 200 | -         | 95.5 (91.6, 97.9) | 93.0 (88.5, 96.1) | NA                |
+| POX-MVA- 024 2 | Healthy       | 61  | -         | 83.6 (71.9, 91.8) | 79.7 (67.2, 89.0) | NA                |
+| POX-MVA- 011 2 | Healthy       | 9   | -         | 62.5 (24.5, 91.5) | 100 (63.1, 100)   | 100 (59.0, 100.0) |
+| POX-MVA- 011 2 | HIV           | 131 | -         | 57.3 (48.1, 66.1) | 76.6 (68.2, 83.7) | 92.7 (86.6, 96.6) |
 
 Table 5 Seroconversion rates by PRNT in vaccinia-experienced healthy and special populations
 
 | SCR - PRNT     | SCR - PRNT    |     | Day 0 1   | Day 7/14 1        | Day 28 1          | Day 42 1          |
 |----------------|---------------|-----|-----------|-------------------|-------------------|-------------------|
-| Study          | Health status | N   | SCR%      | SCR% (95% CI)     | SCR% (95% CI)     | SCR% (95% CI)     |
+| Study          | Health status | N   | SCR %     | SCR % (95% CI)    | SCR % (95% CI)    | SCR % (95% CI)    |
 | POX-MVA- 005 2 | Healthy       | 200 | -         | 78.5 (72.2, 84.0) | 69.8 (63.0, 76.1) | NA                |
 | POX-MVA- 024 2 | Healthy       | 61  | -         | 73.8 (60.9, 84.2) | 71.2 (57.9, 82.2) | NA                |
 | POX-MVA- 011 2 | Healthy       | 9   | -         | 75.0 (34.9, 96.8) | 62.5 (24.5, 91.5) | 85.7 (42.1, 99.6) |
@@ -316,7 +314,7 @@ Table 5 Seroconversion rates by PRNT in vaccinia-experienced healthy and special
 
 1 Day 0 corresponding to day of vaccination with IMVANEX; day 7/14 corresponding to 1 or 2 weeks after vaccination with IMVANEX (first post vaccination analysis at day 7 in study POX-MVA-011, and at day 14 in studies POX-MVA-005 and POX-MVA-024); day 28 corresponding to 4 weeks after vaccination with IMVANEX; SCR = Seroconversion rate;  2  Full Analysis Set (FAS); PRNT = plaque reduction neutralisation test; ELISA = enzyme-linked immunosorbent assay using MVA as an antigen.
 
-## Long-term immunogenicity to vaccinia in humans
+## Long-term immunogenicity to vaccinia in adults
 
 Limited data on long-term immunogenicity covering a period of 24 months following primary vaccination of vaccinia-naïve individuals with IMVANEX are currently available as shown below:
 
@@ -324,67 +322,63 @@ Table 6 Seroconversion rates by ELISA and PRNT in vaccinia-naïve healthy popula
 
 |       |     | ELISA             | ELISA                | PRNT              | PRNT              |
 |-------|-----|-------------------|----------------------|-------------------|-------------------|
-| Month | N   | SCR% (95% CI)     | GMT (95% CI)         | SCR% (95% CI)     | GMT (95% CI)      |
+| Month | N   | SCR % (95% CI)    | GMT (95% CI)         | SCR % (95% CI)    | GMT (95% CI)      |
 | 2     | 178 | 98.9 (96.0, 99.9) | 328.7 (288.5, 374.4) | 86.0 (80.0, 90.7) | 34.0 (26.4, 43.9) |
 | 6     | 178 | 73.0 (65.9, 79.4) | 27.9 (20.7, 37.6)    | 65.2 (57.7, 72.1) | 7.2 (5.6, 9.4)    |
 | 24*   | 92  | 71.7 (61.4, 80.6) | 23.3 (15.2, 35.9)    | 5.4 (1.8, 12.2)   | 1.3 (1.0, 1.5)    |
 
-ELISA = enzyme-linked immunosorbent assay using MVA as an antigen; GMT= geometric mean titre; N = number of subjects in the specific study group; PRNT = plaque reduction neutralisation test; SCR = seroconversion rate;
+ELISA = enzyme-linked immunosorbent assay using MVA as an antigen; GMT= geometric mean titre; N = number of subjects in the specific study group; PRNT = plaque reduction neutralisation test; SCR = seroconversion rate; *represents seropositivity rates
 
-*represents seropositivity rates
-
-## Booster dose
+## Booster dose in adults
 
 Two clinical studies have demonstrated that IMVANEX is able to boost a pre-existing immunological memory response to vaccinia, induced by either licensed smallpox vaccines a long time ago or two years after IMVANEX.
 
-Table 7 Seroconversion rates by ELISA and PRNT after a booster dose
-
-| Primary immunisation   |       |   N | Day 0 1   | Day 0 1   |   N | Day 7 1   | Day 7 1   | Day 14 1   | Day 14 1   |
-|------------------------|-------|-----|-----------|-----------|-----|-----------|-----------|------------|------------|
-|                        | ELISA |     | S+%       | GMT       |     | S+%       | GMT       | S+%        | GMT        |
-| 2 doses of IMVANEX     |       |  92 | 72        | 23        |  75 | 100       | 738       | 100        | 1,688      |
-
 <div style=\"page-break-after: always\"></div>
 
-| Licensed smallpox vaccine   |      |   200 | 79   | 39   |   195 | -   | -   | 98   | 621   |
-|-----------------------------|------|-------|------|------|-------|-----|-----|------|-------|
-|                             | PRNT |       | S+%  | GMT  |       | S+% | GMT | S+%  | GMT   |
-| 2 doses of IMVANEX          |      |    92 | 5.4  | 1    |    75 | 92  | 54  | 99   | 125   |
-| Licensed smallpox vaccine   |      |   200 | 77   | 22   |   195 | -   | -   | 98   | 190   |
+Table 7 Seroconversion rates by ELISA and PRNT after a booster dose
+
+| Primary immunisation      |       |   N | Day 0 1   | Day 0 1   |   N | Day 7 1   | Day 7 1   | Day 14 1   | Day 14 1   |
+|---------------------------|-------|-----|-----------|-----------|-----|-----------|-----------|------------|------------|
+|                           | ELISA |     | S+ %      | GMT       |     | S+ %      | GMT       | S+ %       | GMT        |
+| 2 doses of IMVANEX        |       |  92 | 72        | 23        |  75 | 100       | 738       | 100        | 1,688      |
+| Licensed smallpox vaccine |       | 200 | 79        | 39        | 195 | -         | -         | 98         | 621        |
+|                           | PRNT  |     | S+ %      | GMT       |     | S+ %      | GMT       | S+ %       | GMT        |
+| 2 doses of IMVANEX        |       |  92 | 5.4       | 1         |  75 | 92        | 54        | 99         | 125        |
+| Licensed smallpox vaccine |       | 200 | 77        | 22        | 195 | -         | -         | 98         | 190        |
 
 1 Day 0 corresponding to day of booster vaccination with IMVANEX (pre-booster); day 7 and 14 corresponding to 1 or 2 weeks after booster vaccination with IMVANEX; N = number of subjects in the specific study group; ELISA = enzyme-linked immunosorbent assay using MVA as an antigen; PRNT = plaque reduction neutralization test; S+ = Seropositivity rate; GMT = geometric mean titre.
 
-## Immunogenicity and attenuation of take of ACAM2000 in healthy subjects
+## Immunogenicity and attenuation of take of ACAM2000 in healthy adults
 
-Imvanex was compared to ACAM2000 (a 'second generation' live attenuated smallpox vaccine produced in cell culture and licenced in the United States of America) in a randomized, open-label noninferiority clinical trial in healthy adults (US military personnel) aged 18 to 42 years and who were naïve to smallpox vaccine (Study POX-MVA-006).
+IMVANEX was compared to ACAM2000 (a 'second generation' live attenuated smallpox vaccine produced in cell culture and licenced in the United States of America) in a randomized, open-label noninferiority clinical trial in healthy adults (US military personnel) aged 18 to 42 years and who were naïve to smallpox vaccine (Study POX-MVA-006).
 
-A total of 433 subjects were randomised in a 1 : 1 ratio to receive either two doses of Imvanex followed by a single dose of ACAM2000 at four weeks intervals or to receive a single dose of ACAM2000. ACAM2000 was administered via scarification.
+A total of 433 subjects were randomised in a 1 : 1 ratio to receive either two doses of IMVANEX followed by a single dose of ACAM2000 at four weeks intervals or to receive a single dose of ACAM2000. ACAM2000 was administered via scarification.
 
-The first co-primary endpoint compared vaccinia-specific neutralizing antibody responses at the peak visits (day 42 after first vaccination for Imvanex where the subjects received two doses according to the standard vaccination schedule and day 28 for ACAM2000). Imvanex induced a peak neutralizing antibody geometric mean titre (GMT) of 153.5 (n = 185; 95% CI 134.3, 175.6), which was non-inferior to the GMT of 79.3 (n = 186; 95% CI 67.1, 93.8) obtained after scarification with ACAM2000.
+The first co-primary endpoint compared vaccinia-specific neutralizing antibody responses at the peak visits (day 42 after first vaccination for IMVANEX where the subjects received two doses according to the standard vaccination schedule and day 28 for ACAM2000). IMVANEX induced a peak neutralizing antibody geometric mean titre (GMT) of 153.5 (n = 185; 95% CI 134.3, 175.6), which was non-inferior to the GMT of 79.3 (n = 186; 95% CI 67.1, 93.8) obtained after scarification with ACAM2000.
 
-The second co-primary endpoint evaluated if vaccination with Imvanex (n = 165) prior to administration of ACAM2000 results in an attenuation of the cutaneous reaction to ACAM2000 (n = 161) as measured by maximum lesion area in mm 2 . At day 13-15, the median maximum lesion area for subjects who were administered ACAM2000 was 75mm 2 (95% CI 69.0, 85.0) and for those who received Imvanex it was 0.0 (95% CI 0.0, 2.0).
+The second co-primary endpoint evaluated if vaccination with IMVANEX (n = 165) prior to administration of ACAM2000 results in an attenuation of the cutaneous reaction to ACAM2000 (n = 161) as measured by maximum lesion area in mm 2 . At day 13-15, the median maximum lesion area for subjects who were administered ACAM2000 was 75mm 2  (95% CI 69.0, 85.0) and for those who received IMVANEX it was 0.0 (95% CI 0.0, 2.0).
 
-## Vaccine effectiveness
+## Vaccine effectiveness in adults
 
 In real-world observational studies conducted in vaccine-eligible individuals (according to local recommendations), vaccine effectiveness against mpox disease was demonstrated at least 14 days after vaccination a , with adjusted vaccine effectiveness estimates ranging from 35% to 89% after one IMVANEX dose and from 66% to 90% after two IMVANEX doses.
 
 Table 8 Vaccine effectiveness at least 14 days after vaccination a
 
-| Country   | Study Design, Period                   | Vaccination strategy   | 1-dose effectiveness% [95% CI]   | 2-dose effectiveness% [95% CI]   |
-|-----------|----------------------------------------|------------------------|----------------------------------|----------------------------------|
-| US        | Case-control Aug 2022-Mar 2023         | PrEP/PEP               | 77% (60-87)                      | 89% (56-97)                      |
-| US        | Case-control Aug 2022-Nov 2022         | PrEP                   | 36% (22-47)*                     | 66% (47-78)*                     |
-| US        | Retrospective cohort May 2022-Dec 2022 | PrEP/PEP               | 81% (64-90)*                     | 83% (28-96)*                     |
-| US        | Case-coverage Jul 2022-Oct 2022        | PrEP/PEP               | 86% (83-89)*                     | 90% (86-92)*                     |
-| US        | Case-control Jun 2022-Dec 2022         | PrEP/PEP               | 68% (25-87)*                     | 89% (44-98)*                     |
-| Spain     | Retrospective cohort Jul 2022-Dec 2022 | PrEP                   | 79% (33-100)* , **               | -                                |
-| Spain     | Prospective cohort May 2022-Aug 2022   | PEP                    | 89% (76-95) a                    | -                                |
+| Country   | Study Design, Period                   | Vaccination strategy   | 1-dose effectiveness % [95% CI]   | 2-dose effectiveness % [95% CI]   |
+|-----------|----------------------------------------|------------------------|-----------------------------------|-----------------------------------|
+| US        | Case-control Aug 2022-Mar 2023         | PrEP/PEP               | 77% (60-87)                       | 89% (56-97)                       |
+|           | Case-control Aug 2022-Nov 2022         | PrEP                   | 36% (22-47)*                      | 66% (47-78)*                      |
+|           | Retrospective cohort May 2022-Dec 2022 | PrEP/PEP               | 81% (64-90)*                      | 83% (28-96)*                      |
+|           | Case-coverage Jul 2022-Oct 2022        | PrEP/PEP               | 86% (83-89)*                      | 90% (86-92)*                      |
 
 <div style=\"page-break-after: always\"></div>
 
-| Canada   | Case-control Jun 2022-Sep 2022   | PrEP   | 35% (-2-59) 65% (1-87)***   | -   |
-|----------|----------------------------------|--------|-----------------------------|-----|
-| UK       | Case-coverage Jul 2022-Dec 2022  | PrEP   | 78% (54-89)**               | -   |
+|        | Case-control Jun 2022-Dec 2022         | PrEP/PEP   | 68% (25-87)*              | 89% (44-98)*   |
+|--------|----------------------------------------|------------|---------------------------|----------------|
+| Spain  | Retrospective cohort Jul 2022-Dec 2022 | PrEP       | 79% (33-100)* , **        | -              |
+| Spain  | Prospective cohort May 2022-Aug 2022   | PEP        | 89% (76-95) a             | -              |
+| Canada | Case-control Jun 2022-Sep 2022         | PrEP       | 35% (-2-59) 65% (1-87)*** | -              |
+| UK     | Case-coverage Jul 2022-Dec 2022        | PrEP       | 78% (54-89)**             | -              |
 
 Note: all data are adjusted vaccine effectiveness, based on subcutaneous administration, unless indicated otherwise.
 
@@ -394,7 +388,7 @@ Note: all data are adjusted vaccine effectiveness, based on subcutaneous adminis
 
 ***Based on individual-level data supplemented with questionnaire responses on risk behaviour.
 
-a PEP administered ≤ 14 days after exposure.
+a  PEP administered ≤ 14 days after exposure.
 
 ## Impact on hospitalisation
 
@@ -404,40 +398,64 @@ In a surveillance study conducted from May 2022 to May 2023 in the US, IMVANEX w
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with IMVANEX in one or more subsets of the paediatric population for prevention of smallpox, monkeypox and disease caused by vaccinia virus by active immunisation against smallpox, monkeypox and disease caused by vaccinia virus infection and disease (see section 4.2 for information on paediatric use).
 
-## Study in adolescents 12-17 years
+## Study in adolescents 12-17 years of age (DMID 22-0020 stage 2)
 
 DMID 22-0020 was a phase 2, open-label, multisite trial in the US with a 2-fold purpose:
 
 - To evaluate intradermal dose-sparing strategies in adults to extend the limited supply during the global public health crisis (DMID 22-0020 stage 1 - randomized)
 - To evaluate the vaccine safety and immunogenicity among adolescents of 12 to 17 years of age to extend vaccination eligibility to the adolescent population (DMID 22-0020 stage 2)
 
-The primary objective of stage 2 of DMID 22-0020 was to determine if peak humoral immune response in adolescents 12 to 17 years of age following SC administration of 2 0.5 mL doses of MVA-BN 28 days apart is non-inferior to the response in adults 18 to 50 years of age who received 2 0.5 mL doses of MVA-BN 28 days apart administered SC.
+Participants, adolescents of 12 to 17 years of age and adults 18 to 50 years of age, received 2 SC injections of standard dose of IMVANEX 0.5 mL on study days 1 and 29 (28 days apart) and were followed for a total of 365 days after the second dose.
 
-For the primary analysis, samples from adult participants from stage 1 (arm 3) and stage 2 were analysed together (211 participants) and compared to samples from adolescents from stage 2 (315 participants) as shown below:
+The primary endpoint was vaccinia-specific neutralising antibody titre by PRNT at 2 weeks after administration of the second dose of IMVANEX vaccine. For the primary analysis, results from adult participants from stage 1 who received the standard regimen were pooled with those of the adults from stage 2 (211 participants) and compared to results from adolescents from stage 2 (315 participants). Noninferiority was to be concluded if the lower bound of the GMT ratio 95% CI was equal to or greater than 0.67. The primary analysis indeed showed that the immune response of the adolescents was noninferior to that of the pooled adult participants as shown below:
 
-Table 9 Vaccinia virus specific PRNT primary hypothesis testing at day 43, mITT population
-
-| Time Point                | Statistic                | Adolescents (Stage 2) (N=313)   | Pooled Adults (Stage 2 + Stage 1 Arm 3) c (N=211)   |
-|---------------------------|--------------------------|---------------------------------|-----------------------------------------------------|
-| Study Day 43, Post Dose 2 | n                        | 304                             | 208                                                 |
-|                           | GMT (95% CI)             | 470.3 (422.3, 523.8)            | 293.2 (249.8, 344.2)                                |
-|                           | GMTR (95% CI)            | N/A                             | 1.60 (1.32, 1.95)                                   |
-|                           | p-value a                | N/A                             | <0.001                                              |
-|                           | Non-inferiority result b | N/A                             | Yes                                                 |
-
-CI = Confidence Interval, calculated using Student's t-distribution for GMT and Welch-Satterthwaite t-test for GMTR; GMT = Geometric mean titre; GMTR = Geometric mean titre ratio of adolescents to adults; mITT = Modified Intention-to-Treat Population; N = Number of participants in the mITT Population; n = Number of participants with data at time point; N/A = not applicable; PRNT = plaque reduction neutralization test.
+## Table 9 Vaccinia virus specific PRNT primary hypothesis testing at 2 weeks after second vaccination, mITT population
 
 <div style=\"page-break-after: always\"></div>
 
-a Two-sample t-test with unequal variance, non-inferiority (NI) margin of 0.67 and 2-sided type I error rate of 0.05 to test the null hypothesis that humoral immune response in adolescents will be non-inferior to adults at the given time point as assessed by vaccinia virus specific PRNT GMT.
+| Statistic     | Adolescents (Stage 2) (N=313)   | Pooled Adults (Stage 2 + Stage 1 Arm 3) b (N=211)   |
+|---------------|---------------------------------|-----------------------------------------------------|
+| n             | 304                             | 208                                                 |
+| GMT (95% CI)  | 470.3 (422.3, 523.8)            | 293.2 (249.8, 344.2)                                |
+| GMTR (95% CI) | N/A                             | 1.60 (1.32, 1.95)                                   |
+| p-value a     | N/A                             | <0.001                                              |
 
-b  If the lower bound of the GMTR 95% CI is greater than or equal to 0.67 (NI=-0.174 log10 scale) prior to rounding, the result is 'Yes'.
+CI = Confidence Interval, calculated using Student's t-distribution for GMT and Welch-Satterthwaite t-test for GMTR; GMT = Geometric mean titre; GMTR = Geometric mean titre ratio of adolescents to adults; mITT = Modified Intention-to-Treat Population; N = Number of participants in the mITT Population; n = Number of participants with data at time point; N/A = not applicable; PRNT = plaque reduction neutralization test.
 
-c  Stage 1 arm 3 adults, who received MVA-BN SC, were combined with stage 2 adults as a comparator group for the primary analysis.
+a  Two-sample t-test with unequal variance, non-inferiority (NI) margin of 0.67 and 2-sided type I error rate of 0.05 to test the null hypothesis that humoral immune response in adolescents will be non-inferior to adults at the given time point as assessed by vaccinia virus specific PRNT GMT.
+
+b  Stage 1 arm 3 adults, who received MVA-BN SC, were combined with stage 2 adults as a comparator group for the primary analysis.
 
 The majority of participants in the mITT population were seroconverted at day 43 (99.0% in adolescents and 97.7% in adults). The long-term seroconversion rates at day 210 were 82.9% in adolescents and 54.6% in adults and at day 394 were 81.5% in adolescents and 46% in adults.
 
-## Exceptional circumstances
+## Study in children 2 to less than 12 years of age (POX-MVA-045)
+
+This is a currently ongoing phase 2, open-label study to assess the immunogenicity and safety of IMVANEX in 230 healthy children 2 to 11 years of age in comparison to 230 healthy adults 18 to 50 years of age.
+
+Participants received 2 SC injections of standard dose of IMVANEX 0.5 mL on study days 1 and 29 (28 days apart) and will be followed for a total of 365 days after the second dose.
+
+The primary endpoint was vaccinia-specific neutralising antibody titre by PRNT at 2 weeks after administration of the second dose of IMVANEX vaccine. The primary analysis showed that the immune response of the enrolled children was noninferior to that of the adult participants, as the lower bound of the 2-sided 95% CI around the GMT ratio exceeded the predefined noninferiority margin of 0.667.
+
+Table 10 Vaccinia-specific neutralizing antibody titre by PRNT at 2 weeks after second vaccination (immunogenicity evaluable population)
+
+| Statistic                                | Children (2-11 years of age)   | Children (2-11 years of age)   | Children (2-11 years of age)   | Adults               |
+|------------------------------------------|--------------------------------|--------------------------------|--------------------------------|----------------------|
+|                                          | 2-5 yrs (N=70)                 | 6-11 yrs (N=157)               | Overall (N=227)                | Overall (N=224)      |
+| n                                        | 70                             | 157                            | 227                            | 224                  |
+| GMT a (95% CI)                           | 618.1 (511.5, 746.8)           | 488.7 (440.8, 541.8)           | 525.4 (479.0, 576.3)           | 205.9 (180.4, 235.0) |
+| GMT Ratio (Children / Adults) b (95% CI) | 3.002 (2.386, 3.777)           | 2.374 (2.008, 2.806)           | 2.552 (2.173, 2.998)           |                      |
+
+CI = confidence interval; GMT = geometric mean titre; LCL = lower confidence limit; LLOQ = lower limit of quantification; NAb = neutralizing antibody; N = number of participants in each group; n = number of participants with available results; PRNT = plaque reduction neutralization test; UCL = upper confidence limit; yrs = years.
+
+a  Assay results below the LLOQ are included in the calculation with a value of ½ × LLOQ (ie, 10). Baseline results for all participants in this population are below LLOQ by definition.
+
+b Comparison of GMT is performed between each children's group (aged 2 to 5 yrs, 6 to 11 yrs, and overall) and adult cohort. The mean difference is assessed on logarithmic scale using a Student's t-test, with Satterthwaite's adjustment, applied to the log10-transformed neutralizing antibody titre results. This mean difference is subsequently back-transformed to the original scale by exponentiation, yielding the ratio for hypothesis testing conclusion.
+
+<div style=\"page-break-after: always\"></div>
+
+In the secondary analysis for seroconversion in vaccinia-specific neutralizing antibodies, 100% of each of the 2 groups of children vs 97.3% of the adult participants had seroconverted at 2 weeks after the second vaccination.
+
+Exceptional circumstances
 
 This medicinal product has been authorised under 'exceptional circumstances'.
 
@@ -465,9 +483,11 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-```
-3 years at -20°C +/-5°C 5 years at -50°C +/-10°C 9 years at -80°C +/-10°C
-```
+3 years at -20°C +/-5°C
+
+5 years at -50°C +/-10°C
+
+9 years at -80°C +/-10°C
 
 After thawing, the vaccine can be stored at 2°C-8°C in the dark for up to 2 months within the approved shelf-life prior to use.
 
@@ -477,13 +497,13 @@ Do not re-freeze a vial once it has been thawed.
 
 Store in a freezer (at -20°C +/-5°C or -50°C +/-10°C or -80°C +/-10°C). Expiry date depends on storage temperature.
 
-<div style=\"page-break-after: always\"></div>
-
 The vaccine can be stored short-term in a refrigerator at 2°C-8°C for up to 2 months within the approved shelf-life prior to use.
 
 Store in the original package in order to protect from light.
 
 ## 6.5 Nature and contents of container
+
+<div style=\"page-break-after: always\"></div>
 
 0.5 ml suspension in a vial (Type I glass) with stopper (bromobutyl rubber).
 
@@ -509,7 +529,11 @@ Bavarian Nordic A/S Philip Heymans Alle 3 DK-2900 Hellerup Denmark
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/13/855/001 EU/1/13/855/002 EU/1/13/855/003
+EU/1/13/855/001
+
+EU/1/13/855/002
+
+EU/1/13/855/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -539,9 +563,7 @@ Name and address of the manufacturer(s) of the biological active substance(s)
 
 Bavarian Nordic A/S Hejreskovvej 10 A, Kvistgård, 3490, Denmark
 
-Name and address of the manufacturer(s) responsible for batch release
-
-Bavarian Nordic A/S Hejreskovvej 10 A, Kvistgård, 3490, Denmark
+Name and address of the manufacturer(s) responsible for batch release Bavarian Nordic A/S Hejreskovvej 10 A, Kvistgård, 3490, Denmark
 
 ## B.  CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -557,7 +579,7 @@ In accordance with Article 114 of Directive 2001/83/EC, the official batch relea
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+## D.  CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk management plan (RMP)
 
@@ -574,10 +596,11 @@ An updated RMP should be submitted:
 
 This being an approval under exceptional circumstances and pursuant to Article 14(8) of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measure:
 
-| Number   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Due date                                                       |
-|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
-| SOB-002  | To ensure adequate monitoring of safety and effectiveness, the MAHshall perform the following study to collect data where IMVANEX is used as a prophylactic vaccine and/or use in case of re-emergence of circulating smallpox. • Non-interventional post-authorisation efficacy study (PAES) POX-MVA-039: An observational, non-interventional post-authorisation safety and efficacy study for the prophylactic vaccination with IMVANEX following re-emergence of circulating smallpox infections. | Status to be reported annually within each annual reassessment |
-| SOB-005  | In order to ensure adequate monitoring of safety and efficacy of IMVANEX in the active immunisation against smallpox and disease caused by vaccinia virus, the MAHshall provide yearly updates on any new information concerning the safety and efficacy of IMVANEX.                                                                                                                                                                                                                                  | Status to be reported annually within each annual reassessment |
+| Number   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Due date                                                       |
+|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| SOB-002  | To ensure adequate monitoring of safety and effectiveness, the MAH shall perform the following study to collect data where IMVANEX is used as a prophylactic vaccine and/or use in case of re-emergence of circulating smallpox. • Non-interventional post-authorisation efficacy study (PAES) POX-MVA-039: An observational, non-interventional post-authorisation safety and efficacy study for the prophylactic vaccination with IMVANEX following re-emergence of circulating smallpox infections. | Status to be reported annually within each annual reassessment |
+| SOB-005  | In order to ensure adequate monitoring of safety and efficacy of IMVANEX in the active immunisation against smallpox and disease caused by vaccinia virus, the MAH shall provide yearly updates on any new information concerning the safety and efficacy of IMVANEX.                                                                                                                                                                                                                                  | Status to be reported annually within each annual reassessment |
+| SOB-006  | In order to further characterise the safety information of IMVANEX in children 2 to 11 years of age, the MAH shall submit the final clinical study report of study POX-MVA-045: • Open-label, Multicenter Immunogenicity and Safety Trial of MVA-BN ® Vaccine in Children From 2 Years to Less Than 12 Years of Age Compared to Adults for the Prevention of Smallpox, Mpox, and Related Orthopoxvirus Infections.                                                                                     | 31-July-2027                                                   |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -633,9 +656,7 @@ See leaflet for further information.
 
 Subcutaneous use.
 
-Thaw at room temperature (15°C - 25°C). Gently swirl for at least 30 seconds.
-
-Read the package leaflet before use.
+Thaw at room temperature (15°C - 25°C). Gently swirl for at least 30 seconds. Read the package leaflet before use.
 
 For more information, scan here or visit https://imvanex.qrdoc.bavarian-nordic.com QR code to be included
 
@@ -701,8 +722,8 @@ Justification for not including Braille accepted
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -742,13 +763,15 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## IMVANEX suspension for injection
 
 Smallpox and monkeypox vaccine (Live Modified Vaccinia Virus Ankara)
+
+<!-- image -->
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -767,9 +790,9 @@ This medicine is subject to additional monitoring. This will allow quick identif
 5. How to store IMVANEX
 6. Contents of the pack and other information
 
-## 1. W hat IMVANEX is and what it is used for
+## 1. What IMVANEX is and what it is used for
 
-IMVANEX is a vaccine used to prevent smallpox, monkeypox and disease caused by vaccinia virus in adults and adolescents aged 12 years and older.
+IMVANEX is a vaccine used to prevent smallpox, monkeypox and disease caused by vaccinia virus in individuals aged 2 years and older.
 
 When a person is given the vaccine, the immune system (the body's natural defence system) will produce its own protection in the form of antibodies against the smallpox, monkeypox and vaccinia viruses.
 
@@ -830,7 +853,7 @@ The vaccine will be injected under the skin, preferably into the upper arm, by y
 ## If you have previously been vaccinated against smallpox, monkeypox or vaccinia viruses:
 
 - You will receive one injection.
-- If your immune system is weakened you will receive two injections with the second injection no less than 28 days after the first.
+- If your immune system is weakened, you will receive two injections with the second injection no less than 28 days after the first.
 
 ## If you miss an appointment for your injection of IMVANEX
 
@@ -856,7 +879,7 @@ These symptoms may be a sign of a serious allergic reaction.
 
 ## Other side effects
 
-If you already have atopic dermatitis, you may experience more intense local skin reactions (such as redness, swelling and itching) and other general symptoms (such as headache, muscle pain, feeling sick or tired), as well as a flare-up or worsening of your skin condition.
+If you already have atopic dermatitis, you may experience more intense local skin reactions (such as redness, swelling and itching) and other systemic symptoms (such as headache, muscle pain, feeling sick or tired), as well as a flare-up or worsening of your skin condition.
 
 The most common side effects reported were at the site of injection. Most of them were mild to moderate in nature and resolved without any treatment within seven days.
 
@@ -876,7 +899,7 @@ Common (may affect up to 1 in 10 people):
 - fever,
 - joint pain, pain in extremities,
 - loss of appetite,
-- lump, discolouration, bruising or warmth at the injection site.
+- lump, discolouration, bruising at the injection site.
 
 Uncommon (may affect up to 1 in 100 people):
 
@@ -886,10 +909,10 @@ Uncommon (may affect up to 1 in 100 people):
 - dizziness, abnormal skin sensations,
 - muscle stiffness,
 - throat pain, runny nose, cough,
-- diarrhea, vomiting,
+- diarrhoea, vomiting,
 - rash, itch, skin inflammation,
-- bleeding, irritation at the injection site,
-- underarm swelling, feeling unwell, flushing, chest pain, ,
+- warmth, bleeding, irritation at the injection site,
+- underarm swelling, feeling unwell, flushing, chest pain,
 - increase of cardiac laboratory values (like Troponin I), liver enzyme increased, white blood cell count decreased, mean platelet volume decreased.
 
 <div style=\"page-break-after: always\"></div>
@@ -900,6 +923,7 @@ Rare (may affect up to 1 in 1 000 people):
 - influenza,
 - redness and discomfort in the eye,
 - sore throat,
+- decreased appetite,
 - hives (nettle rash),
 - skin discolouration,
 - skin bruising,
@@ -943,9 +967,9 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this vaccine after the expiry date which is stated on the label after Exp. The expiry date refers to the last day of that month.
 
-Store in a freezer (at -20°C +/-5°C or -50°C +/-10°C or -80°C +/-10°C). Expiry date depends on storage temperature. Do not refreeze the vaccine once thawed. After thawing, the vaccine can be stored at 2°C8°C in the dark for up to 2 months within the approved shelf-life prior to use.
-
 <div style=\"page-break-after: always\"></div>
+
+Store in a freezer (at -20°C +/-5°C or -50°C +/-10°C or -80°C +/-10°C). Expiry date depends on storage temperature. Do not refreeze the vaccine once thawed. After thawing, the vaccine can be stored at 2°C8°C in the dark for up to 2 months within the approved shelf-life prior to use.
 
 Store in the original package to protect from light.
 
@@ -957,9 +981,7 @@ One dose (0.5 ml) contains:
 
 - -The active substance is Modified Vaccinia Ankara - Bavarian Nordic Live virus 1 , no less than 5 x 10 7 Inf.U*
 - *infectious units
-
-1 Produced in chick-embryo cells
-
+- 1 Produced in chick-embryo cells
 - -The other ingredients are: trometamol, sodium chloride, and water for injections.
 
 This vaccine contains trace residues of chicken protein, benzonase, gentamicin and ciprofloxacin.
@@ -976,7 +998,9 @@ IMVANEX is available in packs containing 1 single dose vial, 10 single dose vial
 
 ## Marketing Authorisation Holder
 
-Bavarian Nordic A/S Philip Heymans Alle 3 DK-2900 Hellerup Denmark
+Bavarian Nordic A/S Philip Heymans Alle 3 DK-2900 Hellerup
+
+Denmark
 
 ## Manufacturer
 
@@ -994,9 +1018,9 @@ Detailed information on this medicine is available on the European Medicines Age
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
 
----------------------------------------------------------------------------------------------------------------------------
-
 <div style=\"page-break-after: always\"></div>
+
+---------------------------------------------------------------------------------------------------------------------------
 
 ## The following information is intended for healthcare professionals only:
 

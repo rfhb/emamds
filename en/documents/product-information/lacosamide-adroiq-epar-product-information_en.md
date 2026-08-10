@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-21 15:59:17
+document_datetime: 2026-08-07 13:26:23
 document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lacosamide-adroiq-epar-product-information_en.pdf
 document_name: lacosamide-adroiq-epar-product-information_en.pdf
 version: success
-processing_time: 10.4470883
-conversion_datetime: 2026-01-22 21:28:30.954407
+processing_time: 22.3974245
+conversion_datetime: 2026-08-10 21:01:17.784141
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.69.0
-  docling-core: 2.60.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.3
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.119.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -61,11 +61,9 @@ Lacosamide therapy can be initiated with either oral administration (either tabl
 
 Lacosamide must be taken twice a day (approximately 12 hours apart).
 
-The recommended posology for adults, adolescents and children from 2 years of age is summarised in
+The recommended posology for adults, adolescents and children from 2 years of age is summarised in the following table.
 
 <div style=\"page-break-after: always\"></div>
-
-the following table.
 
 Table 1 Recommended posology for adolescents and children weighing 50 kg or more, and adults
 
@@ -92,11 +90,9 @@ Lacosamide can also be initiated at the dose of 100 mg twice a day (200 mg/day) 
 
 Depending on response and tolerability, the maintenance dose can be further increased at weekly intervals by 50 mg twice a day (100 mg/day), up to a maximum recommended daily dose of 300 mg twice a day (600 mg/day).
 
-In patients having reached a dose greater than 200 mg twice a day (400 mg/day) and who need an
+In patients having reached a dose greater than 200 mg twice a day (400 mg/day) and who need an additional antiepileptic medicinal product, the posology that is recommended for adjunctive therapy below should be followed.
 
 <div style=\"page-break-after: always\"></div>
-
-additional antiepileptic medicinal product, the posology that is recommended for adjunctive therapy below should be followed.
 
 Adjunctive therapy (in the treatment of partial-onset seizures or in the treatment of primary generalised tonic-clonic seizures)
 
@@ -200,11 +196,9 @@ No dose reduction is necessary in elderly patients. Age associated decreased ren
 
 ## Renal impairment
 
-No dose adjustment is necessary in mildly and moderately renally impaired adult and paediatric patients (creatinine clearance (CLCR) &gt; 30 ml/min). In paediatric patients weighing 50 kg or more and in adult patients with mild or moderate renal impairment a loading dose of 200 mg may be considered, but further dose titration (&gt; 200 mg daily) should be performed with caution. In paediatric patients weighing 50 kg or more and in adult patients with severe renal impairment (CLCR ≤ 30 ml/min) or with end-stage renal disease, a maximum dose of 250 mg/day is recommended and the dose titration should be performed with caution. If a loading dose is indicated, an initial dose of 100 mg followed by a 50 mg twice daily regimen for the first week should be used. In paediatric patients weighing less than 50 kg with severe renal impairment (CLCR ≤ 30 ml/min) and in those with end-stage renal disease, a reduction of 25% of the maximum dose is recommended. For all patients requiring haemodialysis a supplement of up to 50% of the divided daily dose directly after the end of haemodialysis is recommended. Treatment of patients with end-stage renal disease should be made with caution as there is little clinical experience and accumulation of a metabolite (with no known pharmacological
+No dose adjustment is necessary in mildly and moderately renally impaired adult and paediatric patients (creatinine clearance (CLCR) &gt; 30 ml/min). In paediatric patients weighing 50 kg or more and in adult patients with mild or moderate renal impairment a loading dose of 200 mg may be considered, but further dose titration (&gt; 200 mg daily) should be performed with caution. In paediatric patients weighing 50 kg or more and in adult patients with severe renal impairment (CLCR ≤ 30 ml/min) or with end-stage renal disease, a maximum dose of 250 mg/day is recommended and the dose titration should be performed with caution. If a loading dose is indicated, an initial dose of 100 mg followed by a 50 mg twice daily regimen for the first week should be used. In paediatric patients weighing less than 50 kg with severe renal impairment (CLCR ≤ 30 ml/min) and in those with end-stage renal disease, a reduction of 25% of the maximum dose is recommended. For all patients requiring haemodialysis a supplement of up to 50% of the divided daily dose directly after the end of haemodialysis is recommended. Treatment of patients with end-stage renal disease should be made with caution as there is little clinical experience and accumulation of a metabolite (with no known pharmacological activity).
 
 <div style=\"page-break-after: always\"></div>
-
-activity).
 
 ## Hepatic impairment
 
@@ -242,11 +236,9 @@ Therefore, patients should be monitored for signs of suicidal ideation and behav
 
 ## Cardiac rhythm and conduction
 
-Dose-related prolongations in PR interval with lacosamide have been observed in clinical studies. Lacosamide should be used with caution in patients with underlying proarrhythmic conditions such as
+Dose-related prolongations in PR interval with lacosamide have been observed in clinical studies. Lacosamide should be used with caution in patients with underlying proarrhythmic conditions such as patients with known cardiac conduction problems or severe cardiac disease (e.g. myocardial ischaemia/infarction, heart failure, structural heart disease or cardiac sodium channelopathies) or patients treated with medicinal products affecting cardiac conduction, including antiarrhythmics and sodium channel blocking antiepileptic medicinal products (see section 4.5), as well as in elderly patients.
 
 <div style=\"page-break-after: always\"></div>
-
-patients with known cardiac conduction problems or severe cardiac disease (e.g. myocardial ischaemia/infarction, heart failure, structural heart disease or cardiac sodium channelopathies) or patients treated with medicinal products affecting cardiac conduction, including antiarrhythmics and sodium channel blocking antiepileptic medicinal products (see section 4.5), as well as in elderly patients.
 
 In these patients it should be considered to perform an ECG before a lacosamide dose increase above 400 mg/day and after lacosamide is titrated to steady-state.
 
@@ -278,11 +270,9 @@ Lacosamide should be used with caution in patients treated with medicinal produc
 
 ## In vitro data
 
-Data generally suggests that lacosamide has a low interaction potential. In vitro studies indicate that the  enzymes CYP1A2, CYP2B6, and CYP2C9 are not induced and that CYP1A1, CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2D6, and CYP2E1 are not inhibited by lacosamide at plasma
+Data generally suggests that lacosamide has a low interaction potential. In vitro studies indicate that the  enzymes CYP1A2, CYP2B6, and CYP2C9 are not induced and that CYP1A1, CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2D6, and CYP2E1 are not inhibited by lacosamide at plasma concentrations observed in clinical studies. An in vitro study indicated that lacosamide is not transported by P-glycoprotein in the intestine. In vitro data show that CYP2C9, CYP2C19 and CYP3A4 are capable of catalysing the formation of the O-desmethyl metabolite.
 
 <div style=\"page-break-after: always\"></div>
-
-concentrations observed in clinical studies. An in vitro study indicated that lacosamide is not transported by P-glycoprotein in the intestine. In vitro data show that CYP2C9, CYP2C19 and CYP3A4 are capable of catalysing the formation of the O-desmethyl metabolite.
 
 ## In vivo data
 
@@ -332,7 +322,9 @@ Moreover, effective antiepileptic therapy must not be interrupted, since the agg
 
 ## Risk related to lacosamide
 
-There are no adequate data from the use of lacosamide in pregnant women. Studies in animals did not indicate any teratogenic effects in rats or rabbits, but embryotoxicity was observed in rats and rabbits at maternal toxic doses (see section 5.3). The potential risk for humans is unknown.
+There are no adequate data from the use of lacosamide in pregnant women. Studies in animals did not
+
+indicate any teratogenic effects in rats or rabbits, but embryotoxicity was observed in rats and rabbits at maternal toxic doses (see section 5.3). The potential risk for humans is unknown.
 
 Lacosamide should not be used during pregnancy unless clearly necessary (if the benefit to the mother clearly outweighs the potential risk to the foetus). If women decide to become pregnant, the use of this product should be carefully re-evaluated.
 
@@ -583,11 +575,9 @@ Lacosamide is effectively removed from plasma by haemodialysis. Following a 4-ho
 
 ## Hepatic impairment
 
-Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma concentrations of lacosamide (approximately 50% higher AUCnorm). The higher exposure was partly due to a reduced renal function in the studied subjects. The decrease in non-renal clearance in the patients of the study
+Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma concentrations of lacosamide (approximately 50% higher AUCnorm). The higher exposure was partly due to a reduced renal function in the studied subjects. The decrease in non-renal clearance in the patients of the study was estimated to give a 20% increase in the AUC of lacosamide. The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impairment (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
-
-was estimated to give a 20% increase in the AUC of lacosamide. The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impairment (see section 4.2).
 
 ## Elderly (over 65 years of age)
 
@@ -769,8 +759,6 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-This medicine does not require any special storage condition.
-
 <div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
@@ -855,8 +843,6 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-This medicine does not require any special storage condition.
-
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -879,7 +865,7 @@ Lot
 
 ## 16. INFORMATION IN BRAILLE
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -1078,8 +1064,8 @@ When you use Lacosamide Adroiq on its own
 
 ## To be used twice daily for children from 2 years of age weighing 10 kg to less than 20 kg
 
-| Weight   | Week 1 Startingdose: 0.1 ml/kg Week 2 0.2 ml/kg Week 3 0.3 ml/kg Week 4 0.4 ml/kg Week 5 0.5 ml/kg   | Week 6 Maximum recommend ed dose: 0.6 ml/kg   |
-|----------|------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| Weight   | Week 1 Starting dose: 0.1 ml/kg Week 2 0.2 ml/kg Week 3 0.3 ml/kg Week 4 0.4 ml/kg Week 5 0.5 ml/kg   | Week 6 Maximum recommend ed dose: 0.6 ml/kg   |
+|----------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1211,7 +1197,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Lacosamide Adroiq looks like and contents of the pack
 
-- •
+- ·
 - Lacosamide Adroiq solution for infusion is a clear, colourless solution.
 
 Lacosamide Adroiq solution for infusion is available in packages of 1 or 5 vials. Each vial contains 20 ml.

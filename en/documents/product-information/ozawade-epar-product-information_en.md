@@ -1,24 +1,22 @@
 ---
-document_datetime: 2025-11-18 09:58:44
-document_pages: 35
+document_datetime: 2026-08-06 11:46:20
+document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ozawade-epar-product-information_en.pdf
 document_name: ozawade-epar-product-information_en.pdf
 version: success
-processing_time: 7.7229872
-conversion_datetime: 2025-12-28 18:39:23.063605
+processing_time: 16.6833101
+conversion_datetime: 2026-08-10 20:58:47.976504
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.119.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.13.3
+  docling-parse: 7.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -72,7 +70,7 @@ Pitolisant should be used at the lowest effective dose, depending on individual 
 
 <div style=\"page-break-after: always\"></div>
 
-At any time the dose can be decreased (down to 4.5 mg per day) or increased (up to 18 or 36 mg per day) according to the physician assessment and the patient's response.
+At any time the dose can be decreased (down to 4.5 mg per day) or increased (up to 18 or 36 mg per day) according to the physician assessme nt and the patient's response.
 
 The total daily dose should be administered as a single dose in the morning during breakfast.
 
@@ -188,7 +186,7 @@ In subjects that are CYP2D6 intermediate, extensive (normal) or ultra-rapid meta
 
 CYP2D6 inhibitors will most likely have an effect on the pharmacokinetics of pitolisant in subjects that are CYP2D6 intermediate, extensive metabolizers or ultra-rapid metabolizers and taking no CYP3A inducers, but not in subjects that are CYP2D6 poor metabolizers or intermediate, extensive metabolizers or CYP2D6 ultra-rapid metabolizers and taking CYP3A inducers. A dosage adjustment during the combination could eventually be considered depending on individual response and tolerance.
 
-Co-administration of pitolisant with paroxetine alone or combined with CY3A4 inhibitors significantly increases to the same extent pitolisant mean Cmax and AUC0-72h ratio about 1.5-fold and 2-fold, respectively. Given the 2-fold increase of pitolisant exposure, its coadministration with CYP2D6 inhibitors (e.g. paroxetine, fluoxetine, venlafaxine, duloxetine, bupropion, quinidine, terbinafine, cinacalcet) alone or combined with a CYP3A4 inhibitors (itraconazole, ketonazole) should be done with caution.
+Co-administration of pitolisant with paroxetine alone or combined with CY3A4 inhibitors significantly increases to the same extent pitolisant mean Cmax and AUC0 -72h ratio about 1.5-fold and 2-fold, respectively. Given the 2-fold increase of pitolisant exposure, its coadministration with CYP2D6 inhibitors (e.g. paroxetine, fluoxetine, venlafaxine, duloxetine, bupropion, quinidine, terbinafine, cinacalcet) alone or combined with a CYP3A4 inhibitors (itraconazole, ketonazole) should be done with caution.
 
 ## -Enzyme inducers
 
@@ -266,7 +264,7 @@ The most frequent adverse reactions are headache 9.5%, insomnia (all types) 8.0%
 
 ## Tabulated list of adverse reactions
 
-The following adverse reactions have been reported with pitolisant during clinical studies are listed below as MedDRA preferred term by system organ class and frequency; frequencies are defined as: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥ 1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000); within each frequ ency group, adverse reactions are presented in order of decreasing seriousness:
+The following adverse reactions have been reported with pitolisant during clinical studies are listed below as MedDRA preferred term by system organ class and frequency; frequencies are defined as: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥ 1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000); within each frequency group, adverse reactions are presented in order of decreasing seriousness:
 
 |                                      | Uncommon                                                                                                                                                              |
 |--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -377,7 +375,7 @@ Table 2: overview of Efficacy results after 12 weeks in HAROSA II
 
 Figure 2 Changes in Epworth Sleepiness Scale (ESS) score in P09-09 study Double-Blind Phase - ITT Population (N=268)
 
-Mean (±SE)ESS at EachVisitin the Double Blind Phase
+Mean (±SE) ESS at Each Visit in the Double Blind Phase
 
 13
 
@@ -385,7 +383,7 @@ Mean (±SE)ESS at EachVisitin the Double Blind Phase
 
 In an extended analysis the two HAROSA studies were compared and combined, showing significant improvements by pitolisant compared with placebo on the main parameters (ESS, OSleR test, Pichot Fatigue Scale and CGI).
 
-Table 3: Main efficacy results in pooled analysis HAROSA I - HAROSA II
+Table 3: Main efficacy results in pooled analysis HAROSA I -HAROSA II
 
 |                          |   Mean | 95% CI       | p       |
 |--------------------------|--------|--------------|---------|
@@ -477,11 +475,9 @@ All studies have been performed mainly in Caucasians (Caucasians = 270; Black = 
 
 ## CYP2D6 phenotypes and CYP3A polymorphism
 
-The exposure to pitolisant was higher in the CYP2D6 poor metabolizers after a single dose and at steady state; Cmax and AUC(0-tau) was approximately 2.7-fold and 3.2-fold greater on Day 1 and 2.1-
+The exposure to pitolisant was higher in the CYP2D6 poor metabolizers after a single dose and at steady state; Cmax and AUC(0-tau) was approximately 2.7-fold and 3.2-fold greater on Day 1 and 2.1fold and 2.4-fold on Day 7. The serum pitolisant half-life was longer in CYP2D6 poor metabolizers compared to the extensive metabolizers.
 
 <div style=\"page-break-after: always\"></div>
-
-fold and 2.4-fold on Day 7. The serum pitolisant half-life was longer in CYP2D6 poor metabolizers compared to the extensive metabolizers.
 
 In subjects that are CYP2D6 intermediate, extensive (normal) or ultra-rapid metabolizers, CYP2D6 is the main enzyme involved in the biotransformation of pitolisant, CYP3A is involved to a lesser extent. CYP3A4 and CYP3A5 genetic polymorphisms are unlikely to have significant effect on the pharmacokinetic of pitolisant.
 
@@ -533,13 +529,17 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-4 years.
+Bottle: 4 years.
+
+Blister: 3 years
 
 ## 6.4 Special precautions for storage
 
 This medicinal product does not require any special storage conditions.
 
 ## 6.5 Nature and contents of container
+
+## Bottle:
 
 High density polyethylene (HDPE) bottle with a tamper evident, child-resistant, polypropylene screw cap fitted with desiccant (silica gel).
 
@@ -551,7 +551,21 @@ Ozawade 18 mg
 
 Available in packs containing 1 bottle of 30 tablets or 1 bottle of 90 tablets.
 
+## Blister:
+
+OPA/Al/PVC//Al blisters contain 28, 30 or 90 film-coated tablets.
+
+Ozawade 4.5 mg
+
+Available in packs containing 2 blisters of 14 tablets or in packs containing 2 blisters of 15 tablets.
+
+Ozawade 18 mg
+
+Available in packs containing 2 blisters of 14 tablets or in packs containing 2 blisters of 15 tablets or packs containing 6 blisters of 15 tablets.
+
 Not all pack sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.6 Special precautions for disposal
 
@@ -559,9 +573,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Bioprojet Pharma 9, rue Rameau 75002 Paris
-
-France
+Bioprojet Pharma 115, rue d'Aboukir 75002 Paris France
 
 Tel: +33 (0)1 47 03 66 33
 
@@ -569,17 +581,15 @@ Fax: +33 (0)1 47 03 66 30
 
 e-mail: contact@bioprojet.com
 
-<div style=\"page-break-after: always\"></div>
-
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1546/001 EU/1/21/1546/002 EU/1/21/1546/003
-
-EU/1/21/1546/004
+EU/1/21/1546/001-009
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 22/07/2021
+
+Date of latest renewal: 26/03/2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -600,9 +610,15 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturers responsible for batch release
 
-Ozawade 18 mg Inpharmasci ZI N°2 de Prouvy-Rouvignies 1 rue Nungesser 59121 Prouvy France
+## Bottle:
 
-Ozawade 4.5 mg Patheon 40 Boulevard de Champaret 38300 Bourgoin-Jallieu France
+Ozawade 18 mg Athena IPS ZI N°2 de Prouvy-Rouvignies 1 rue Nungesser 59121 Prouvy France
+
+Ozawade 4.5 mg Patheon France 40 Boulevard de Champaret 38300 Bourgoin-Jallieu France
+
+## Blister:
+
+Patheon France 40 Boulevard de Champaret 38300 Bourgoin-Jallieu France
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -612,17 +628,19 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- Periodic Safety Update Reports
+## · Periodic Safety Update Reports
 
 The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines webportal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk Management Plan (RMP)
+- Risk Management Plan (RMP)
 
 The MAH shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreed subsequent updates of the RMP.
 
-An updated RMP should be submitted:
+<div style=\"page-break-after: always\"></div>
+
+## An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
@@ -635,11 +653,11 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-- A. LABELLING
+## A. LABELLING
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CARTON
+CARTON (HDPE BOTTLE)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -681,7 +699,7 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bioprojet Pharma 9, rue Rameau 75002 Paris France
+Bioprojet Pharma 115, rue d'Aboukir 75002 Paris France
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -707,17 +725,95 @@ Ozawade 4.5 mg
 
 PC SN
 
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON (OPA/Al/PVC//Al BLISTER)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Ozawade 4.5 mg film-coated tablets pitolisant
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each film-coated tablet contains pitolisant hydrochloride equivalent to 4.45 mg of pitolisant.
+
+3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+- 28 film-coated tablets
+
+- 30 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use.
+
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+8. EXPIRY DATE
+
+EXP
+
+9. SPECIAL STORAGE CONDITIONS
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+<div style=\"page-break-after: always\"></div>
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Bioprojet Pharma 115, rue d'Aboukir 75002 Paris France
+
+## 12. MARKETING AUTHORISATION NUMBER
+
+EU/1/21/1546/005  28 film-coated tablets EU/1/21/1546/006  30 film-coated tablets
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+Ozawade 4.5 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN
+
 <div style=\"page-break-after: always\"></div>
 
 NN
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS LABEL
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+LABEL (HDPE BOTTLE)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Ozawade 4.5 mg film-coated tablets pitolisant oral use
 
-2. METHOD OF ADMINISTRATION
+## 2. METHOD OF ADMINISTRATION
 
 3. EXPIRY DATE
 
@@ -731,13 +827,35 @@ BN
 
 30 tablets 90 tablets
 
-6. OTHER
+## 6. OTHER
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+(OPA/Al/PVC//Al BLISTER)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Ozawade 4.5 mg film-coated tablets pitolisant
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Bioprojet Pharma
+
+3. EXPIRY DATE
+
+EXP
+
+4. BATCH NUMBER
+
+Lot
+
+## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+OUTER CARTON  (HDPE BOTTLE)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -779,13 +897,11 @@ EXP
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Bioprojet Pharma 9, rue Rameau 75002 Paris France
+Bioprojet Pharma 115, rue d'Aboukir 75002 Paris France
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
-EU/1/21/1546/002
-
-EU/1/21/1546/003
+EU/1/21/1546/002 EU/1/21/1546/003
 
 ## 13. BATCH NUMBER
 
@@ -811,18 +927,98 @@ PC SN
 
 NN
 
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## OUTER CARTON  (OPA/Al/PVC//Al BLISTER)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Ozawade 18 mg film-coated tablets pitolisant
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each film-coated tablet contains pitolisant hydrochloride equivalent to 17.8 mg of pitolisant.
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+- 28 film-coated tablets
+
+- 30 film-coated tablets
+
+- 90 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| LABEL                                                            |
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+Bioprojet Pharma 115, rue d'Aboukir 75002 Paris France
 
-1.
+## 12. MARKETING AUTHORISATION NUMBER
 
-NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+EU/1/21/1546/007  28 film-coated tablets
+
+EU/1/21/1546/008  30 film-coated tablets
+
+EU/1/21/1546/009  90 film-coated tablets
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Ozawade 18 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+<div style=\"page-break-after: always\"></div>
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| LABEL (HDPE BOTTLE)                                                |
+
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Ozawade 18 mg film-coated tablets pitolisant oral use
 
@@ -841,6 +1037,30 @@ BN
 30 tablets 90 tablets
 
 ## 6. OTHER
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+(OPA/Al/PVC//Al BLISTER)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Ozawade 18 mg film-coated tablets pitolisant
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Bioprojet Pharma
+
+3. EXPIRY DATE
+
+EXP
+
+4. BATCH NUMBER
+
+Lot
+
+## 5. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -942,11 +1162,9 @@ If you are pregnant or breast-feeding, think you may be pregnant or you are plan
 
 ## Pregnancy
 
-You should not take Ozawade during pregnancy unless you and your doctor decide that you need to take it. There is not enough information on the risk of taking Ozawade during pregnancy. If you are a
+You should not take Ozawade during pregnancy unless you and your doctor decide that you need to take it. There is not enough information on the risk of taking Ozawade during pregnancy. If you are a woman, you have to use effective birth control during your treatment with Ozawade and for at least 21 days after stopping treatment. As Ozawade may reduce the effectiveness of a hormonal contraceptive (birth control medicine), an alternative method of effective contraception has to be used.
 
 <div style=\"page-break-after: always\"></div>
-
-woman, you have to use effective birth control during your treatment with Ozawade and for at least 21 days after stopping treatment. As Ozawade may reduce the effectiveness of a hormonal contraceptive (birth control medicine), an alternative method of effective contraception has to be used.
 
 ## Breast-feeding
 
@@ -974,9 +1192,7 @@ For a dose of 18 mg, take one 18-mg tablet.
 
 For a dose of 36 mg, take two 18-mg tablets.
 
-Take Ozawade once a day by mouth, in the morning with your breakfast.
-
-Do not take a dose of Ozawade in the afternoon since you may have difficulty sleeping.
+Take Ozawade once a day by mouth, in the morning with your breakfast. Do not take a dose of Ozawade in the afternoon since you may have difficulty sleeping.
 
 ## If you take more Ozawade than you should
 
@@ -1002,7 +1218,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 - -Headache
 - -Difficulty sleeping, sleeping problems, feeling anxious
-- -Feeling of 'spinning' (vertigo)
+- -F eeling of 'spinning' (vertigo)
 - -Feeling sick, abdominal (belly) discomfort
 
 ## Uncommon side effects (may affect up to 1 in 100 people):
@@ -1057,49 +1273,78 @@ The other ingredients are microcrystalline cellulose, crospovidone, talc, magnes
 
 ## What Ozawade looks like and contents of the pack
 
-Ozawade 4.5 mg comes in a white, round, film-coated tablet of 3.7 mm, biconvex marked with '5' on one side.
+Ozawade 4.5 mg comes in a white, round, film-coated tablet of 3.7 mm, biconv ex marked with '5' on one side.
 
 Ozawade 18 mg comes in a white, round, film-coated tablet of 7.5 mm, biconvex marked with '20' on one side.
 
-Ozawade is available in a bottle of 30 tablets or 90 tablets.
+Ozawade is available in a bottle (30 tablets or 90 tablets) or in blisters (28 tablets, 30 or 90 tablets). Ozawade 4.5 mg -Available in:
 
-Ozawade 4.5 mg: Available in packs containing 1 bottle of 30 tablets or packs containing 1 bottle of 90 tablets.
+- packs containing 1 bottle of 30 tablets
+- packs containing 1 bottle of 90 tablets
+- packs containing blisters of 28 tablets (2 blisters of 14 tablets)
+- packs containing blisters of 30 tablets (2 blisters of 15 tablets).
 
-Ozawade 18 mg: Available in packs containing 1 bottle of 30 tablets or packs containing 1 bottle of 90 tablets.
+Ozawade 18 mg -Available in:
+
+- packs containing 1 bottle of 30 tablets
+- packs containing 1 bottle of 90 tablets
+- packs containing blisters of 28 tablets (2 blisters of 14 tablets)
+- packs containing blisters of 30 tablets (2 blisters of 15 tablets)
+- packs containing blisters of 90 tablets (6 blisters of 15 tablets).
 
 Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Bioprojet Pharma 9, rue Rameau 75002 Paris
-
-France
+Bioprojet Pharma 115, rue d'Aboukir 75002 Paris France
 
 ## Manufacturer
 
-Ozawade 18 mg Inpharmasci ZI N°2 de Prouvy-Rouvignies 1 rue Nungesser 59121 Prouvy
+## Bottle:
+
+Ozawade 18 mg Athena IPS ZI N°2 de Prouvy-Rouvignies 1 rue Nungesser 59121 Prouvy
 
 France
 
-## Ozawade 4.5 mg
+Ozawade 4.5 mg
 
-Patheon 40 Boulevard de Champaret 38300 Bourgoin-Jallieu France
-
-For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-België/Belgique/Belgien Bioprojet Benelux 0032(0)78050202
-
-Lietuva Bioprojet Pharma 0033 (0)1 47 03 66 33
+Patheon France
 
 <div style=\"page-break-after: always\"></div>
 
-## info@bioprojet.be
+40 Boulevard de Champaret 38300 Bourgoin-Jallieu France
 
-## България
+## Blisters:
+
+Patheon France 40 Boulevard de Champaret 38300 Bourgoin-Jallieu France
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Bioprojet Benelux 0032(0)78050202
+
+info@bioprojet.be
+
+## Lietuva
 
 Bioprojet Pharma 0033 (0)1 47 03 66 33
 
 contact@bioprojet.com
+
+## България
+
+Bioprojet Pharma
+
+0033 (0)1 47 03 66 33
+
+contact@bioprojet.com
+
+## Luxembourg/Luxemburg
+
+Bioprojet Benelux 0032(0)78050202
+
+info@bioprojet.be
 
 ## Česká republika
 
@@ -1107,13 +1352,21 @@ Bioprojet Pharma 0033 (0)1 47 03 66 33
 
 contact@bioprojet.com
 
+Magyarország Bioprojet Pharma 0033 (0)1 47 03 66 33 contact@bioprojet.com
+
 ## Danmark
 
-Zambon Sweden, filial of Zambon Nederland B.V.
-
-+46 (0)10 33 50 800
+Zambon Sweden, filial of Zambon Nederland B.V. +46 (0)10 33 50 800
 
 contact@zambongroup.com
+
+## Malta
+
+Bioprojet Pharma
+
+0033 (0)1 47 03 66 33
+
+contact@bioprojet.com
 
 ## Deutschland
 
@@ -1121,49 +1374,17 @@ Bioprojet Deutschland GmbH 030/3465 5460-0
 
 info@bioprojet.de
 
-Eesti Bioprojet Pharma 0033 (0)1 47 03 66 33
+## Nederland
 
-contact@bioprojet.com
+Bioprojet Benelux N.V. 088 34 34 100
 
-Ελλάδα Bioprojet Pharma 0033 (0)1 47 03 66 33
+info@bioprojet.nl
 
-contact@bioprojet.com
-
-## España
+## Eesti
 
 Bioprojet Pharma 0033 (0)1 47 03 66 33
 
 contact@bioprojet.com
-
-## France
-
-Bioprojet Pharma 0033 (0)1 47 03 66 33
-
-contact@bioprojet.com
-
-Hrvatska Bioprojet Pharma 0033 (0)1 47 03 66 33
-
-contact@bioprojet.com
-
-## Ireland
-
-Bioprojet Pharma 0033 (0)1 47 03 66 33
-
-contact@bioprojet.com
-
-## Ísland
-
-## contact@bioprojet.com
-
-Luxembourg/Luxemburg Bioprojet Benelux 0032(0)78050202 info@bioprojet.be
-
-Magyarország Bioprojet Pharma 0033 (0)1 47 03 66 33
-
-contact@bioprojet.com
-
-Malta Bioprojet Pharma 0033 (0)1 47 03 66 33 contact@bioprojet.com
-
-Nederland Bioprojet Benelux N.V. 088 34 34 100 info@bioprojet.nl
 
 ## Norge
 
@@ -1173,15 +1394,13 @@ Zambon Sweden, filial of Zambon Nederland B.V.
 
 contact@zambongroup.com
 
-Österreich Bioprojet Pharma 0033 (0)1 47 03 66 33
+## Ελλάδα
 
-contact@bioprojet.com
+Bioprojet Pharma
 
-Polska Bioprojet Pharma 0033 (0)1 47 03 66 33
+0033 (0)1 47 03 66 33 contact@bioprojet.com
 
-contact@bioprojet.com
-
-## Portugal
+## Österreich
 
 Bioprojet Pharma
 
@@ -1189,25 +1408,47 @@ Bioprojet Pharma
 
 contact@bioprojet.com
 
-România Bioprojet Pharma 0033 (0)1 47 03 66 33
-
-contact@bioprojet.com
-
-Slovenija Bioprojet Pharma
-
-0033 (0)1 47 03 66 33 contact@bioprojet.com
-
-Slovenská republika
-
-<div style=\"page-break-after: always\"></div>
+## España
 
 Bioprojet Pharma 0033 (0)1 47 03 66 33
 
 contact@bioprojet.com
 
-Italia Bioprojet Italia srl +39 02 84254830
+Polska Bioprojet Pharma 0033 (0)1 47 03 66 33 contact@bioprojet.com
 
-info@bioprojet.it
+<div style=\"page-break-after: always\"></div>
+
+## France
+
+Bioprojet Pharma 0033 (0)1 47 03 66 33
+
+contact@bioprojet.com
+
+## Hrvatska
+
+Bioprojet Pharma
+
+0033 (0)1 47 03 66 33
+
+contact@bioprojet.com
+
+## Ireland
+
+Bioprojet Pharma 0033 (0)1 47 03 66 33 contact@bioprojet.com
+
+## Ísland
+
+Bioprojet Pharma
+
+0033 (0)1 47 03 66 33
+
+contact@bioprojet.com
+
+## Italia
+
+Bioprojet Italia srl
+
++39 02 84254830 info@bioprojet.it
 
 ## Κύπρος
 
@@ -1215,7 +1456,9 @@ Bioprojet Pharma 0033 (0)1 47 03 66 33
 
 contact@bioprojet.com
 
-Latvija Bioprojet Pharma 0033 (0)1 47 03 66 33
+## Latvija
+
+Bioprojet Pharma 0033 (0)1 47 03 66 33
 
 contact@bioprojet.com
 
@@ -1227,12 +1470,30 @@ Detailed information on this medicine is available on the European Medicines Age
 
 This leaflet is available in all EU/EAA languages on the European Medicines Agency website.
 
+## Portugal
+
 Bioprojet Pharma 0033 (0)1 47 03 66 33 contact@bioprojet.com
 
-Suomi/Finland Bioprojet Pharma 0033 (0)1 47 03 66 33 contact@bioprojet.com
+## România
+
+Bioprojet Pharma 0033 (0)1 47 03 66 33
+
+contact@bioprojet.com
+
+Slovenija Bioprojet Pharma 0033 (0)1 47 03 66 33 contact@bioprojet.com
+
+## Slovenská republika
+
+Bioprojet Pharma 0033 (0)1 47 03 66 33 contact@bioprojet.com
+
+## Suomi/Finland
+
+Bioprojet Pharma 0033 (0)1 47 03 66 33
+
+contact@bioprojet.com
 
 ## Sverige
 
-Zambon Sweden, filial of Zambon Nederland B.V.
+Zambon Sweden, filial of Zambon Nederland B.V. +46 (0)10 33 50 800
 
-+46 (0)10 33 50 800 contact@zambongroup.com
+contact@zambongroup.com

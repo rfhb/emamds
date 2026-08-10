@@ -1,30 +1,30 @@
 ---
-document_datetime: 2026-07-20 14:32:18
-document_pages: 10
+document_datetime: 2026-08-07 12:57:08
+document_pages: 13
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/scemblix-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: scemblix-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 4.2056077
-conversion_datetime: 2026-07-28 14:08:31.460969
+processing_time: 9.8358031
+conversion_datetime: 2026-08-10 21:06:20.247287
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.119.0
+  docling-core: 2.91.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-parse: 7.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 ## Scemblix
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+*Due 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Application number                    | Scope                                                                                  | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                                                                                                                                           |
-|---------------------------------------|----------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| Variation type II / EMA/VR/0000340759 | Outcome: C. Safety, efficacy, pharmacovigilance changes - C.4 Change(s) in the summary | 25/06/2026                          |                                             | SmPC                             | The following text was added to section 4.5 (Interaction with other medicinal products and other forms of interaction) of the SmPC: Substrates of |
+| Application number   | Scope    | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|----------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type IB /  | Outcome: | 31/07/2026                          |                                             | SmPC, Annex                      |           |
 
 <!-- image -->
 
@@ -32,8 +32,24 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| characteristics, labelling or package leaflet due to new quality, preclinical, clinical or pharmacovigilance data. - Accepted Update of sections 4.5 and 5.2 of the SmPC in order to add drug-drug interaction information with BCRP and P-gp substrates, based on final results from study CABL001A2112; this is a Phase 1, open- label, 2-period, single-sequence, drug - drug interaction study to assess the effect of asciminib on the pharmacokinetics of digoxin and rosuvastatin in healthy participants.   | product   |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| EMA/VR/0000356235   | II and PL   |
+|---------------------|-------------|
+
+<div style=\"page-break-after: always\"></div>
+
+| Q.II.b.1.a) Addition or replacement of a site responsible for secondary packaging - Accepted Q.II.b.2 Change to batch release arrangements and batch control testing of the finished product - Q.II.b.2.a) Addition or replacement of a batch control/testing site applying physicochemical and/or microbiological analytical procedures for the finished product - Accepted Q.II.b.2.c) Addition or replacement of a site responsible for batch release (QP certification) - Q.II.b.2.c.2 Including batch control/testing applying physicochemical and/or microbiological analytical procedures for the finished product - Accepted Q.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - Q.II.b.3.a) Minor change in the manufacturing process - Accepted Q.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - Q.II.b.3.a) Minor change in the manufacturing process - Accepted Q.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - Q.II.b.3.a) Minor change in the manufacturing process - Accepted Q.II.b.3 Change in the manufacturing   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | process of the finished product, including an intermediate used in the manufacture of the finished product - Q.II.b.3.a) Minor change in the manufacturing process - Accepted Q.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - Q.II.b.3.a) Minor change in the manufacturing process - Accepted Q.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - Q.II.b.3.a) Minor change in the manufacturing process - Accepted Q.II.b.4 Change in the batch size (including batch size ranges) of the finished product - Q.II.b.4.b) Downscaling down to 10-fold - Accepted Q.II.c.1 Change in the specification attribute and/or acceptance criteria of an excipient - Q.II.c.1.z Other variation - Accepted Q.II.f.1.b) Extension of the shelf life of the finished product - Q.II.f.1.b.5 Extension of the shelf life of the finished product based on extrapolation of stability data in accordance   |            |      |                                                                                                                                                                                                 |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Variation type II / EMA/VR/0000340759 | Outcome: C. Safety, efficacy, pharmacovigilance changes - C.4 Change(s) in the summary of product characteristics, labelling or package                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 25/06/2026 | SmPC | The following text was added to section 4.5 (Interaction with other medicinal products and other forms of interaction) of the SmPC: Substrates of BCRP or OATP1B Co-administration of asciminib |
+
+<div style=\"page-break-after: always\"></div>
+
+| to new quality, preclinical, clinical or pharmacovigilance data. - Accepted Update of sections 4.5 and 5.2 of the SmPC in order to add drug-drug interaction information with BCRP and P-gp substrates, based on final results from study CABL001A2112; this is a Phase 1, open- label, 2-period, single-sequence, drug - drug interaction study to assess the effect of asciminib on the pharmacokinetics of digoxin and rosuvastatin in healthy participants.   | leaflet due   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
 
 <div style=\"page-break-after: always\"></div>
 

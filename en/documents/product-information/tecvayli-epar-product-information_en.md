@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-24 15:51:48
-document_pages: 51
+document_datetime: 2026-08-07 12:52:46
+document_pages: 49
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tecvayli-epar-product-information_en.pdf
 document_name: tecvayli-epar-product-information_en.pdf
 version: success
-processing_time: 20.5294009
-conversion_datetime: 2026-06-25 17:00:23.184998
+processing_time: 52.2326578
+conversion_datetime: 2026-08-10 20:56:48.453535
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.119.0
+  docling-core: 2.91.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-parse: 7.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,9 +28,7 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-TECVAYLI 10 mg/mL solution for injection
-
-TECVAYLI 90 mg/mL solution for injection
+TECVAYLI 10 mg/mL solution for injection TECVAYLI 90 mg/mL solution for injection
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -38,7 +36,7 @@ TECVAYLI 10 mg/mL solution for injection
 
 One 3 mL vial contains 30 mg of teclistamab (10 mg/mL).
 
-TECVAYLI 90 mg/mL solution for injection
+## TECVAYLI 90 mg/mL solution for injection
 
 One 1.7 mL vial contains 153 mg of teclistamab (90 mg/mL).
 
@@ -421,12 +419,12 @@ Table 6: Adverse reactions in patients with multiple myeloma treated with TECVAY
 |-----------------------------|-----------------------------------------------|------------------|---------------|---------------|
 | System Organ Class          | Adverse Reaction                              | grades)          | Any Grade     | Grade 3 or 4  |
 | Infections and infestations | Pneumonia 1                                   | Very common      | 46 (28%)      | 32 (19%)      |
-| Infections and infestations | Sepsis 2                                      | Common           | 13 (7.9%)     | 11 (6.7%)     |
-| Infections and infestations | COVID-19 3                                    | Very common      | 30 (18%)      | 20 (12%)      |
-| Infections and infestations | Upper respiratory tract infection 4           | Very common      | 61 (37%)      | 4 (2.4%)      |
-| Infections and infestations | Cellulitis                                    | Common           | 7 (4.2%)      | 5 (3.0%)      |
-| Infections and infestations | Urinary tract infection 5, 21                 | Very common      | 23 (14%)      | 10 (6.1%)     |
-| Infections and infestations | Progressive multifocal leukoencephalopathy 21 | Uncommon         | 1 (0.6%)      | 1 (0.6%)      |
+|                             | Sepsis 2                                      | Common           | 13 (7.9%)     | 11 (6.7%)     |
+|                             | COVID-19 3                                    | Very common      | 30 (18%)      | 20 (12%)      |
+|                             | Upper respiratory tract infection 4           | Very common      | 61 (37%)      | 4 (2.4%)      |
+|                             | Cellulitis                                    | Common           | 7 (4.2%)      | 5 (3.0%)      |
+|                             | Urinary tract infection 5, 21                 | Very common      | 23 (14%)      | 10 (6.1%)     |
+|                             | Progressive multifocal leukoencephalopathy 21 | Uncommon         | 1 (0.6%)      | 1 (0.6%)      |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -594,15 +592,15 @@ Table 7: Efficacy results for MajesTEC-1
 
 <div style=\"page-break-after: always\"></div>
 
-| Duration of Response (DOR) (months)                                  | Duration of Response (DOR) (months)   |
-|----------------------------------------------------------------------|---------------------------------------|
-| Number of Responders DOR (Months): Median (95% CI)                   | 104 18.4 (14.9, NE) 1                 |
-| Time to First Response (months)                                      |                                       |
-| Number of responders Median Range                                    | 104 1.2 (0.2; 5.5)                    |
-| MRDnegativity rate 2 in all treated patients, n (%) [N=165]          | 44 (26.7%)                            |
-| 95% CI (%)                                                           | (20.1%, 34.1%)                        |
-| MRDnegativity rate 2,3 in patients achieving CR or sCR, n (%) [N=65] | 30 (46.2%)                            |
-| 95% CI (%)                                                           | (33.7%, 59.0%)                        |
+| Duration of Response (DOR) (months)                                   | Duration of Response (DOR) (months)   |
+|-----------------------------------------------------------------------|---------------------------------------|
+| Number of Responders DOR (Months): Median (95% CI)                    | 104 18.4 (14.9, NE) 1                 |
+| Time to First Response (months)                                       |                                       |
+| Number of responders Median Range                                     | 104 1.2 (0.2; 5.5)                    |
+| MRD negativity rate 2 in all treated patients, n (%) [N=165]          | 44 (26.7%)                            |
+| 95% CI (%)                                                            | (20.1%, 34.1%)                        |
+| MRD negativity rate 2,3 in patients achieving CR or sCR, n (%) [N=65] | 30 (46.2%)                            |
+| 95% CI (%)                                                            | (33.7%, 59.0%)                        |
 
 Results of an updated efficacy analysis after a median follow-up of 30.6 months among responders (n=104) showed a higher proportion of patients with CR (7.3%) and sCR (38.8%) compared with the primary analysis. MRD negativity rates also increased in all treated patients (29.1%) and in patients achieving CR or sCR (51.3%). The median DOR was 24.0 (17.0, NE) months.
 
@@ -694,9 +692,11 @@ Unopened vial
 
 2 years
 
-Prepared syringe
+After opening
 
-The prepared syringes should be administered immediately. If immediate administration is not possible, in-use storage times of the prepared syringe should be no longer than 20 hours at 2 °C - 8 °C or ambient temperature (15 °C - 30 °C). Discard after 20 hours if not used.
+Chemical and physical in-use stability after opening the vial, including storage in prepared syringes, has been demonstrated for 8 days at 2 °C to 8 °C and 24 hours at ambient temperature (15 °C to 30 °C).
+
+From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 °C to 8 °C, unless preparation has taken place in controlled and validated aseptic conditions.
 
 ## 6.4 Special precautions for storage
 
@@ -730,7 +730,7 @@ Aseptic technique should be used to prepare and administer TECVAYLI.
 
 Any unused medicinal product or waste material should be disposed in accordance with local requirements.
 
-Preparation of TECVAYLI
+## Preparation of TECVAYLI
 
 -  Verify the prescribed dose for each TECVAYLI injection. To minimise errors, use the following tables to prepare TECVAYLI injection.
 - o Use Table 9 to determine the total dose, injection volume and number of vials required, based on patient's actual body weight for Step-up dose 1 using TECVAYLI 10 mg/mL vial.
@@ -824,7 +824,7 @@ EU/1/22/1675/001 (10 mg/ml) EU/1/22/1675/002 (90 mg/ml)
 
 Date of first authorisation: 23 August 2022
 
-Date of latest renewal: 13 June 2024
+Date of latest renewal: 12 June 2026
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -897,9 +897,9 @@ The Patient Card will contain the following key messages:
 
 This being a conditional marketing authorisation and pursuant to Article 14-a of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Due date   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| In order to confirm the efficacy and safety of Teclistamab indicated as monotherapy for the treatment of adult patients with relapsed and refractory multiple myeloma, who have received at least three prior therapies, including an immunomodulatory agent, a proteasome inhibitor, and an anti-CD38 antibody, and have demonstrated disease progression on the last therapy, the MAHshall submit the results of study 64007957MMY3001, a Phase 3 Randomised Study Comparing Teclistamab in Combination with Daratumumab SC versus Daratumumab SC, Pomalidomide, and Dexamethasone (DPd) or Daratumumab SC, Bortezomib, and Dexamethasone (DVd) in Participants with Relapsed or Refractory Multiple Myeloma | March 2028 |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Due date   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| In order to confirm the efficacy and safety of Teclistamab indicated as monotherapy for the treatment of adult patients with relapsed and refractory multiple myeloma, who have received at least three prior therapies, including an immunomodulatory agent, a proteasome inhibitor, and an anti-CD38 antibody, and have demonstrated disease progression on the last therapy, the MAH shall submit the results of study 64007957MMY3001, a Phase 3 Randomised Study Comparing Teclistamab in Combination with Daratumumab SC versus Daratumumab SC, Pomalidomide, and Dexamethasone (DPd) or Daratumumab SC, Bortezomib, and Dexamethasone (DVd) in Participants with Relapsed or Refractory Multiple Myeloma | March 2028 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -973,7 +973,9 @@ Store in the original carton in order to protect from light.
 
 Janssen-Cilag International NV
 
-Turnhoutseweg 30 B-2340 Beerse
+Turnhoutseweg 30
+
+B-2340 Beerse
 
 Belgium
 
@@ -1007,17 +1009,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL                                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 TECVAYLI 10 mg/mL injection teclistamab teclistamab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1029,8 +1031,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 30 mg/3 mL
 
@@ -1099,7 +1101,9 @@ Store in the original carton in order to protect from light.
 
 Janssen-Cilag International NV
 
-Turnhoutseweg 30 B-2340 Beerse
+Turnhoutseweg 30
+
+B-2340 Beerse
 
 Belgium
 
@@ -1133,17 +1137,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL                                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 TECVAYLI 90 mg/mL injection teclistamab teclistamab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1155,8 +1159,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 153 mg/1.7 mL
 
@@ -1235,7 +1239,9 @@ Before you are given TECVAYLI, your doctor will check your blood counts for sign
 
 During treatment with TECVAYLI, your doctor will monitor you for side effects. Your doctor will regularly check your blood counts, as the number of blood cells and other blood components may decrease.
 
-## Look out for serious side effects. Tell your doctor or nurse right away if you experience any of the following:
+## Look out for serious side effects.
+
+## Tell your doctor or nurse right away if you experience any of the following:
 
 -  Signs of a condition known as 'cytokine release syndrome' (CRS). Cytokine release syndrome is a serious immune reaction with symptoms such as fever, chills, nausea, headache, fast heartbeat, feeling dizzy, and difficulty breathing.
 -  Effects on your nervous system. Symptoms include feeling confused, feeling less alert, sleepy, or having difficulty writing and/or speaking. Some of these may be signs of a serious immune reaction called 'immune effector cell-associated neurotoxicity syndrome' (ICANS).
@@ -1459,6 +1465,10 @@ Store in a refrigerator (2 °C - 8 °C). Do not freeze.
 
 Store in the original carton in order to protect from light.
 
+Chemical and physical in-use stability after opening the vial, including storage in prepared syringes, has been demonstrated for 8 days at 2 °C to 8 °C and 24 hours at ambient temperature (15 °C to 30 °C).
+
+From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 °C to 8 °C, unless preparation has taken place in controlled and validated aseptic conditions.
+
 Medicines should not be disposed of via wastewater or household waste. Your healthcare professional will throw away any medicines that are no longer being used. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
@@ -1476,19 +1486,27 @@ TECVAYLI is a solution for injection (injection) and is a colourless to light ye
 
 ## Marketing Authorisation Holder
 
-Janssen-Cilag International NV Turnhoutseweg 30 B-2340 Beerse Belgium
+Janssen-Cilag International NV Turnhoutseweg 30
+
+B-2340 Beerse
+
+Belgium
+
+<div style=\"page-break-after: always\"></div>
 
 ## Manufacturer
 
-Janssen Biologics B.V. Einsteinweg 101 2333 CB Leiden The Netherlands Janssen Pharmaceutica NV Turnhoutseweg 30 B-2340 Beerse Belgium For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+Janssen Biologics B.V. Einsteinweg 101 2333 CB Leiden The Netherlands
+
+## Janssen Pharmaceutica NV
+
+Turnhoutseweg 30 B-2340 Beerse Belgium
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Janssen-Cilag NV
-
-Tel/Tél: +32 14 64 94 11
-
-janssen@jacbe.jnj.com
+Janssen-Cilag NV Tel/Tél: +32 14 64 94 11 janssen@jacbe.jnj.com
 
 ## България
 
@@ -1500,9 +1518,7 @@ Janssen-Cilag s.r.o. Tel: +420 227 012 227
 
 ## Danmark
 
-Janssen-Cilag A/S Tlf.: +45 4594 8282
-
-jacdk@its.jnj.com
+Janssen-Cilag A/S Tlf.: +45 4594 8282 jacdk@its.jnj.com
 
 ## Deutschland
 
@@ -1510,11 +1526,7 @@ Janssen-Cilag GmbH Tel: 0800 086 9247 / +49 2137 955 6955 jancil@its.jnj.com
 
 ## Eesti
 
-UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal
-
-Tel: +372 617 7410
-
-ee@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" Eesti filiaal Tel: +372 617 7410 ee@its.jnj.com
 
 ## Ελλάδα
 
@@ -1528,33 +1540,17 @@ Tel: +34 91 722 81 00
 
 contacto@its.jnj.com
 
-## France
-
-Janssen-Cilag
-
-Tél: 0 800 25 50 75 / +33 1 55 00 40 03
-
-medisource@its.jnj.com
-
-<div style=\"page-break-after: always\"></div>
-
 ## Lietuva
 
-UAB \"JOHNSON &amp; JOHNSON\"
-
-Tel: +370 5 278 68 88 lt@its.jnj.com
+UAB \"JOHNSON &amp; JOHNSON\" Tel: +370 5 278 68 88 lt@its.jnj.com
 
 ## Luxembourg/Luxemburg
 
-Janssen-Cilag NV
-
-Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
+Janssen-Cilag NV Tél/Tel: +32 14 64 94 11 janssen@jacbe.jnj.com
 
 ## Magyarország
 
-Janssen-Cilag Kft. Tel.: +36 1 884 2858
-
-janssenhu@its.jnj.com
+Janssen-Cilag Kft. Tel.: +36 1 884 2858 janssenhu@its.jnj.com
 
 ## Malta
 
@@ -1564,39 +1560,47 @@ Tel: +356 2397 6000
 
 ## Nederland
 
-Janssen-Cilag B.V.
-
-Tel: +31 76 711 1111
+Janssen-Cilag B.V. Tel: +31 76 711 1111
 
 janssen@jacnl.jnj.com
 
 ## Norge
 
-Janssen-Cilag AS Tlf: +47 24 12 65 00 jacno@its.jnj.com
+Janssen-Cilag AS
+
+Tlf: +47 24 12 65 00 jacno@its.jnj.com
 
 ## Österreich
 
-Janssen-Cilag Pharma GmbH
-
-Tel: +43 1 610 300
+Janssen-Cilag Pharma GmbH Tel: +43 1 610 300
 
 ## Polska
 
 Janssen-Cilag Polska Sp. z o.o. Tel.: +48 22 237 60 00
 
+<div style=\"page-break-after: always\"></div>
+
+## France
+
 ## Portugal
+
+Janssen-Cilag
+
+Tél: 0 800 25 50 75 / +33 1 55 00 40 03
+
+medisource@its.jnj.com
 
 Janssen-Cilag Farmacêutica, Lda.
 
 Tel: +351 214 368 600
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hrvatska
 
-Johnson &amp; Johnson S.E. d.o.o. Tel: +385 1 6610 700 jjsafety@JNJCR.JNJ.com
+Johnson &amp; Johnson S.E. d.o.o.
 
-## Ireland
+Tel: +385 1 6610 700
+
+jjsafety@JNJCR.JNJ.com
 
 ## România
 
@@ -1604,13 +1608,15 @@ Johnson &amp; Johnson România SRL
 
 Tel: +40 21 207 1800
 
-## Slovenija
+## Ireland
 
 Janssen Sciences Ireland UC
 
 Tel: 1 800 709 122
 
 medinfo@its.jnj.com
+
+## Slovenija
 
 Johnson &amp; Johnson d.o.o.
 
@@ -1640,13 +1646,31 @@ Tel: 800.688.777 / +39 02 2510 1
 
 janssenita@its.jnj.com
 
+## Suomi/Finland
+
+Janssen-Cilag Oy
+
+Puh/Tel: +358 207 531 300 jacfi@its.jnj.com
+
 ## Κύπρος
 
 Βαρνάβας Χατζηπαναγής Λτδ
 
 Τηλ: +357 22 207 700
 
+## Sverige
+
+Janssen-Cilag AB
+
+Tfn: +46 8 626 50 00
+
+jacse@its.jnj.com
+
 ## Latvija
+
+UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
+
+Tel: +371 678 93561
 
 UAB \"JOHNSON &amp; JOHNSON\" filiāle Latvijā
 
@@ -1672,25 +1696,11 @@ The following information is intended for healthcare professionals only:
 
 It is very important to that the instructions for preparation and administration provided in this section are strictly followed to minimise potential dosing errors with TECVAYLI 10 mg/mL and TECVAYLI 90 mg/mL vials.
 
+<div style=\"page-break-after: always\"></div>
+
 TECVAYLI should be administered via subcutaneous injection only. Do not administer TECVAYLI intravenously.
 
-## Suomi/Finland
-
-Janssen-Cilag Oy
-
-Puh/Tel: +358 207 531 300
-
-jacfi@its.jnj.com
-
-## Sverige
-
-Janssen-Cilag AB
-
-Tfn: +46 8 626 50 00
-
-jacse@its.jnj.com TECVAYLI should be administered by a healthcare professional with adequately trained medical personnel and appropriate medical equipment to manage severe reactions, including cytokine release syndrome.
-
-<div style=\"page-break-after: always\"></div>
+TECVAYLI should be administered by a healthcare professional with adequately trained medical personnel and appropriate medical equipment to manage severe reactions, including cytokine release syndrome.
 
 TECVAYLI 10 mg/mL and TECVAYLI 90 mg/mL vials are for single use only.
 
@@ -1786,25 +1796,3 @@ Table 3: Injection volumes of TECVAYLI (90 mg/mL) for maintenance dose (1.5 mg/k
 ## Traceability
 
 In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for teclistamab, the scientific conclusions of PRAC are as follows:
-
-In view of available data on tumour flare from clinical trials and the literature including in some cases a close temporal relationship and in view of a plausible mechanism of action, the PRAC Rapporteur considers a causal relationship between teclistamab, and Tumour Flare is at least a reasonable possible. The PRAC Rapporteur concluded that the product information of products containing teclistamab should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for teclistamab the CHMP is of the opinion that the benefitrisk balance of the medicinal product(s) containing teclistamab is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

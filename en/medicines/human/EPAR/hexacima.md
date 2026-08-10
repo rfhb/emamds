@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-22 17:25:00
+document_datetime: 2026-08-07 14:23:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hexacima.html
 document_name: hexacima.html
 version: success
-processing_time: 0.1808648
-conversion_datetime: 2026-06-25 16:48:23.617908
+processing_time: 0.1953585
+conversion_datetime: 2026-08-10 20:50:04.095033
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.119.0
+  docling-core: 2.91.0
   docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-parse: 7.11.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 # Hexacima
 
@@ -123,7 +123,7 @@ English (EN) (87.62 KB - PDF)
 
 [View](/en/documents/overview/hexacima-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-63)
+[Other languages (22)](#file-language-dropdown-991)
 
 български (BG) (114.88 KB - PDF)
 
@@ -261,161 +261,161 @@ svenska (SV) (85.04 KB - PDF)
 
 Hexacima : EPAR - Product Information
 
-English (EN) (559.94 KB - PDF)
+English (EN) (628.3 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/en/documents/product-information/hexacima-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-898)
+[Other languages (24)](#file-language-dropdown-957)
 
-български (BG) (893.54 KB - PDF)
+български (BG) (709.65 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/bg/documents/product-information/hexacima-epar-product-information_bg.pdf)
 
-español (ES) (827.93 KB - PDF)
+español (ES) (648.81 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/es/documents/product-information/hexacima-epar-product-information_es.pdf)
 
-čeština (CS) (874.33 KB - PDF)
+čeština (CS) (815.5 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/cs/documents/product-information/hexacima-epar-product-information_cs.pdf)
 
-dansk (DA) (694.93 KB - PDF)
+dansk (DA) (674.58 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/da/documents/product-information/hexacima-epar-product-information_da.pdf)
 
-Deutsch (DE) (874.55 KB - PDF)
+Deutsch (DE) (659.85 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/de/documents/product-information/hexacima-epar-product-information_de.pdf)
 
-eesti (ET) (596.7 KB - PDF)
+eesti (ET) (438.81 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/et/documents/product-information/hexacima-epar-product-information_et.pdf)
 
-ελληνικά (EL) (848.12 KB - PDF)
+ελληνικά (EL) (721.53 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/el/documents/product-information/hexacima-epar-product-information_el.pdf)
 
-français (FR) (1.07 MB - PDF)
+français (FR) (776.69 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/fr/documents/product-information/hexacima-epar-product-information_fr.pdf)
 
-hrvatski (HR) (542.73 KB - PDF)
+hrvatski (HR) (466.54 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/hr/documents/product-information/hexacima-epar-product-information_hr.pdf)
 
-italiano (IT) (936.98 KB - PDF)
+italiano (IT) (679.74 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/it/documents/product-information/hexacima-epar-product-information_it.pdf)
 
-latviešu (LV) (763.8 KB - PDF)
+latviešu (LV) (536.63 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/lv/documents/product-information/hexacima-epar-product-information_lv.pdf)
 
-lietuvių (LT) (675.86 KB - PDF)
+lietuvių (LT) (485.42 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/lt/documents/product-information/hexacima-epar-product-information_lt.pdf)
 
-magyar (HU) (827.17 KB - PDF)
+magyar (HU) (653.08 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/hu/documents/product-information/hexacima-epar-product-information_hu.pdf)
 
-Malti (MT) (1.05 MB - PDF)
+Malti (MT) (772.11 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/mt/documents/product-information/hexacima-epar-product-information_mt.pdf)
 
-Nederlands (NL) (835.22 KB - PDF)
+Nederlands (NL) (757.89 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/nl/documents/product-information/hexacima-epar-product-information_nl.pdf)
 
-polski (PL) (874.93 KB - PDF)
+polski (PL) (669.31 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/pl/documents/product-information/hexacima-epar-product-information_pl.pdf)
 
-português (PT) (716.21 KB - PDF)
+português (PT) (597.32 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/pt/documents/product-information/hexacima-epar-product-information_pt.pdf)
 
-română (RO) (800.78 KB - PDF)
+română (RO) (764.56 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/ro/documents/product-information/hexacima-epar-product-information_ro.pdf)
 
-slovenčina (SK) (819 KB - PDF)
+slovenčina (SK) (648.33 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/sk/documents/product-information/hexacima-epar-product-information_sk.pdf)
 
-slovenščina (SL) (794.76 KB - PDF)
+slovenščina (SL) (601.76 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/sl/documents/product-information/hexacima-epar-product-information_sl.pdf)
 
-suomi (FI) (884.98 KB - PDF)
+suomi (FI) (614.83 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/fi/documents/product-information/hexacima-epar-product-information_fi.pdf)
 
-svenska (SV) (907.34 KB - PDF)
+svenska (SV) (664.35 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/sv/documents/product-information/hexacima-epar-product-information_sv.pdf)
 
-Íslenska (IS) (925.29 KB - PDF)
+Íslenska (IS) (632.25 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/is/documents/product-information/hexacima-epar-product-information_is.pdf)
 
-norsk (NO) (644.23 KB - PDF)
+norsk (NO) (603.46 KB - PDF)
 
-**First published:** 12/07/2013 **Last updated:** 22/06/2026
+**First published:** 12/07/2013 **Last updated:** 07/08/2026
 
 [View](/no/documents/product-information/hexacima-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000294642
+**Latest procedure affecting product information:** VR/0000295915
 
-21/05/2026
+25/06/2026
 
 icon globe
 
@@ -440,7 +440,7 @@ English (EN) (77.24 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hexacima-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-16)
+[Other languages (24)](#file-language-dropdown-377)
 
 български (BG) (95.06 KB - PDF)
 
@@ -632,7 +632,7 @@ The use of this vaccine should be in accordance with official recommendations.
 - **Marketing authorisation issued**
     - 17/04/2013
 - **Revision**
-    - 35
+    - 36
 
 ## Assessment history
 
@@ -644,9 +644,9 @@ Collapse section
 
 Hexacima : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (189.53 KB - PDF)
+English (EN) (226.03 KB - PDF)
 
-**First published:** 05/03/2025 **Last updated:** 22/06/2026
+**First published:** 05/03/2025 **Last updated:** 07/08/2026
 
 [View](/en/documents/procedural-steps-after/hexacima-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -657,6 +657,16 @@ English (EN) (556.65 KB - PDF)
 **First published:** 16/01/2014 **Last updated:** 07/01/2025
 
 [View](/en/documents/procedural-steps-after/hexacima-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Hexacima-VR-0000295915 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-2678750
+
+English (EN) (1.16 MB - PDF)
+
+**First published:** 07/08/2026
+
+[View](/en/documents/variation-report/hexacima-vr-0000295915-epar-assessment-report-variation_en.pdf)
 
 Hexacima-PAM-0000273897 : EPAR - Assessment report
 
@@ -812,7 +822,7 @@ English (EN) (378.1 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/hexacima-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-521)
+[Other languages (24)](#file-language-dropdown-787)
 
 български (BG) (438.55 KB - DOCX)
 
@@ -965,6 +975,6 @@ norsk (NO) (377.13 KB - DOCX)
 
 **This page was last updated on**
 
-22/06/2026
+07/08/2026
 
 ## Share this page

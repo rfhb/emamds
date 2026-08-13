@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-06 16:50:00
+document_datetime: 2026-08-12 16:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/comirnaty.html
 document_name: comirnaty.html
 version: success
-processing_time: 0.2686408
-conversion_datetime: 2026-08-07 13:56:34.105986
+processing_time: 0.3085945
+conversion_datetime: 2026-08-13 19:54:04.550144
 docling_version:
   docling-serve: 1.30.0
   docling-jobkit: 3.3.1
-  docling: 2.118.0
+  docling: 2.119.0
   docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.12.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 # Comirnaty
 
@@ -227,7 +227,7 @@ English (EN) (165.99 KB - PDF)
 
 [View](/en/documents/overview/comirnaty-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-163)
+[Other languages (22)](#file-language-dropdown-766)
 
 български (BG) (204.05 KB - PDF)
 
@@ -379,7 +379,7 @@ English (EN) (2.34 MB - PDF)
 
 [View](/en/documents/product-information/comirnaty-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-513)
+[Other languages (24)](#file-language-dropdown-349)
 
 български (BG) (5.09 MB - PDF)
 
@@ -546,155 +546,155 @@ Product information documents contain:
 
 Comirnaty : EPAR - All authorised presentations
 
-English (EN) (41.85 KB - PDF)
+English (EN) (138.46 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/en/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-895)
+[Other languages (24)](#file-language-dropdown-31)
 
-български (BG) (134.77 KB - PDF)
+български (BG) (145.79 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/bg/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (123.45 KB - PDF)
+español (ES) (130.71 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/es/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (124.13 KB - PDF)
+čeština (CS) (133.32 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/cs/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (128.89 KB - PDF)
+dansk (DA) (136.1 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/da/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (111.5 KB - PDF)
+Deutsch (DE) (113.92 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/de/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_de.pdf)
 
-eesti (ET) (121.7 KB - PDF)
+eesti (ET) (128.46 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/et/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (119.54 KB - PDF)
+ελληνικά (EL) (129.29 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/el/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (147.87 KB - PDF)
+français (FR) (157.52 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/fr/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (109.56 KB - PDF)
+hrvatski (HR) (113.59 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/hr/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_hr.pdf)
 
-italiano (IT) (134.67 KB - PDF)
+italiano (IT) (138.13 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/it/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_it.pdf)
 
-latviešu (LV) (118.43 KB - PDF)
+latviešu (LV) (126.48 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/lv/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių (LT) (132.91 KB - PDF)
+lietuvių (LT) (141.02 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/lt/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (131.35 KB - PDF)
+magyar (HU) (141.42 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/hu/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (131.05 KB - PDF)
+Malti (MT) (141.5 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/mt/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (125.89 KB - PDF)
+Nederlands (NL) (137 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/nl/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_nl.pdf)
 
-polski (PL) (128.99 KB - PDF)
+polski (PL) (137.94 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/pl/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (120.2 KB - PDF)
+português (PT) (128.15 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/pt/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (125.01 KB - PDF)
+română (RO) (136.19 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/ro/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (132.09 KB - PDF)
+slovenčina (SK) (140.77 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/sk/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (123.29 KB - PDF)
+slovenščina (SL) (133.89 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/sl/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_sl.pdf)
 
-suomi (FI) (117.17 KB - PDF)
+suomi (FI) (127.22 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/fi/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (123.19 KB - PDF)
+svenska (SV) (131.5 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/sv/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_sv.pdf)
 
-Íslenska (IS) (124.87 KB - PDF)
+Íslenska (IS) (132.85 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/is/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_is.pdf)
 
-norsk (NO) (120.97 KB - PDF)
+norsk (NO) (129.9 KB - PDF)
 
-**First published:** 23/12/2020 **Last updated:** 29/05/2026
+**First published:** 23/12/2020 **Last updated:** 12/08/2026
 
 [View](/no/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_no.pdf)
 
@@ -1904,6 +1904,6 @@ English (EN) (813.79 KB - PDF)
 
 **This page was last updated on**
 
-06/08/2026
+12/08/2026
 
 ## Share this page

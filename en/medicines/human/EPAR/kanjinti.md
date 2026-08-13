@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-08 09:50:00
+document_datetime: 2026-08-11 10:19:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kanjinti.html
 document_name: kanjinti.html
 version: success
-processing_time: 0.111232
-conversion_datetime: 2026-05-10 13:24:52.074996
+processing_time: 0.1673878
+conversion_datetime: 2026-08-13 19:53:47.551269
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.119.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.12.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 # Kanjinti
 
@@ -39,9 +39,7 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Kanjinti](#news-on)
 - [Product information - with tracked changes](#product-information-with-tracked-changes-76451)
-- [Related content](#related-content-744)
 - [More information on Kanjinti](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -65,7 +63,7 @@ Expand section
 
 Collapse section
 
-## How is Kanjinti used?
+### How is Kanjinti used?
 
 Kanjinti can only be obtained with a prescription and treatment should be started by a doctor who has experience in the use of cancer medicines.
 
@@ -75,11 +73,11 @@ The infusion may cause allergic reactions, so the patient should be monitored du
 
 For more information about using Kanjinti, see the package leaflet or contact a doctor or pharmacist.
 
-## How does Kanjinti work?
+### How does Kanjinti work?
 
 The active substance in Kanjinti, trastuzumab, is a monoclonal antibody (a type of protein) designed to recognise and attach to the HER2 protein. By attaching to HER2, trastuzumab activates cells of the immune system, which then kill the tumour cells. Trastuzumab also stops HER2 from producing signals that cause the tumour cells to grow.
 
-## What benefits of Kanjinti have been shown in studies?
+### What benefits of Kanjinti have been shown in studies?
 
 Laboratory studies comparing Kanjinti with Herceptin have shown that the active substance in Kanjinti is highly similar to that in Herceptin in terms of structure, purity and biological activity. Studies have also shown that giving Kanjinti produces similar levels of the active substance in the body to giving Herceptin.
 
@@ -87,7 +85,7 @@ In addition, one study involving 696 patients with early breast cancer that over
 
 Because Kanjinti is a biosimilar medicine, the studies on effectiveness and safety of trastuzumab carried out with Herceptin do not all need to be repeated for Kanjinti.
 
-## What are the risks associated with Kanjinti?
+### What are the risks associated with Kanjinti?
 
 The most common or serious side effects with Kanjinti are heart problems, reactions related to the Kanjinti infusion, reduced levels of blood cells (especially white blood cells), infections and lung problems.
 
@@ -97,17 +95,17 @@ Kanjinti must not be used in people who are hypersensitive (allergic) to trastuz
 
 For the full list of side effects and restrictions, see the package leaflet.
 
-## Why is Kanjinti authorised in the EU?
+### Why is Kanjinti authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Kanjinti has been shown overall to have a comparable quality, safety and effectiveness to Herceptin. Therefore, the Agency's view was that, as for Herceptin, the benefit of Kanjinti outweighs the identified risk and it can be authorised.
 
-## What measures are being taken to ensure the safe and effective use of Kanjinti?
+### What measures are being taken to ensure the safe and effective use of Kanjinti?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Kanjinti have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Kanjinti are continuously monitored. Side effects reported with Kanjinti are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Kanjinti
+### Other information about Kanjinti
 
 Kanjinti received a marketing authorisation valid throughout the EU on 16 May 2018.
 
@@ -121,7 +119,7 @@ English (EN) (82.82 KB - PDF)
 
 [View](/en/documents/overview/kanjinti-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-849)
+[Other languages (22)](#file-language-dropdown-634)
 
 български (BG) (110.86 KB - PDF)
 
@@ -153,7 +151,7 @@ Deutsch (DE) (83.37 KB - PDF)
 
 [View](/de/documents/overview/kanjinti-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (80.79 KB - PDF)
+eesti (ET) (80.79 KB - PDF)
 
 **First published:** 30/05/2018 **Last updated:** 30/05/2018
 
@@ -183,13 +181,13 @@ italiano (IT) (81.37 KB - PDF)
 
 [View](/it/documents/overview/kanjinti-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (104.95 KB - PDF)
+latviešu (LV) (104.95 KB - PDF)
 
 **First published:** 30/05/2018 **Last updated:** 30/05/2018
 
 [View](/lv/documents/overview/kanjinti-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (104.89 KB - PDF)
+lietuvių (LT) (104.89 KB - PDF)
 
 **First published:** 30/05/2018 **Last updated:** 30/05/2018
 
@@ -243,7 +241,7 @@ slovenščina (SL) (101.42 KB - PDF)
 
 [View](/sl/documents/overview/kanjinti-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (81.11 KB - PDF)
+suomi (FI) (81.11 KB - PDF)
 
 **First published:** 30/05/2018 **Last updated:** 30/05/2018
 
@@ -255,6 +253,14 @@ svenska (SV) (81.38 KB - PDF)
 
 [View](/sv/documents/overview/kanjinti-epar-medicine-overview_sv.pdf)
 
+Kanjinti : EPAR - Risk management plan
+
+English (EN) (903.86 KB - PDF)
+
+**First published:** 11/08/2026
+
+[View](/en/documents/rmp/kanjinti-epar-risk-management-plan_en.pdf)
+
 ## Product information
 
 Kanjinti : EPAR - Product Information
@@ -265,7 +271,7 @@ English (EN) (551.08 KB - PDF)
 
 [View](/en/documents/product-information/kanjinti-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-796)
+[Other languages (24)](#file-language-dropdown-435)
 
 български (BG) (698.99 KB - PDF)
 
@@ -297,7 +303,7 @@ Deutsch (DE) (688.47 KB - PDF)
 
 [View](/de/documents/product-information/kanjinti-epar-product-information_de.pdf)
 
-eesti keel (ET) (707.05 KB - PDF)
+eesti (ET) (707.05 KB - PDF)
 
 **First published:** 30/05/2018 **Last updated:** 08/05/2026
 
@@ -321,25 +327,19 @@ hrvatski (HR) (672.83 KB - PDF)
 
 [View](/hr/documents/product-information/kanjinti-epar-product-information_hr.pdf)
 
-íslenska (IS) (632.16 KB - PDF)
-
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
-
-[View](/is/documents/product-information/kanjinti-epar-product-information_is.pdf)
-
 italiano (IT) (685.32 KB - PDF)
 
 **First published:** 30/05/2018 **Last updated:** 08/05/2026
 
 [View](/it/documents/product-information/kanjinti-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (689.82 KB - PDF)
+latviešu (LV) (689.82 KB - PDF)
 
 **First published:** 30/05/2018 **Last updated:** 08/05/2026
 
 [View](/lv/documents/product-information/kanjinti-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (703.12 KB - PDF)
+lietuvių (LT) (703.12 KB - PDF)
 
 **First published:** 30/05/2018 **Last updated:** 08/05/2026
 
@@ -362,12 +362,6 @@ Nederlands (NL) (662.73 KB - PDF)
 **First published:** 30/05/2018 **Last updated:** 08/05/2026
 
 [View](/nl/documents/product-information/kanjinti-epar-product-information_nl.pdf)
-
-norsk (NO) (630.98 KB - PDF)
-
-**First published:** 30/05/2018 **Last updated:** 08/05/2026
-
-[View](/no/documents/product-information/kanjinti-epar-product-information_no.pdf)
 
 polski (PL) (678.19 KB - PDF)
 
@@ -399,7 +393,7 @@ slovenščina (SL) (685.35 KB - PDF)
 
 [View](/sl/documents/product-information/kanjinti-epar-product-information_sl.pdf)
 
-Suomi (FI) (655.73 KB - PDF)
+suomi (FI) (655.73 KB - PDF)
 
 **First published:** 30/05/2018 **Last updated:** 08/05/2026
 
@@ -411,15 +405,28 @@ svenska (SV) (650.34 KB - PDF)
 
 [View](/sv/documents/product-information/kanjinti-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000268786
+Íslenska (IS) (632.16 KB - PDF)
 
-13/05/2025
+**First published:** 30/05/2018 **Last updated:** 08/05/2026
+
+[View](/is/documents/product-information/kanjinti-epar-product-information_is.pdf)
+
+norsk (NO) (630.98 KB - PDF)
+
+**First published:** 30/05/2018 **Last updated:** 08/05/2026
+
+[View](/no/documents/product-information/kanjinti-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000361234
+
+10/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -437,7 +444,7 @@ English (EN) (16.58 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kanjinti-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-758)
+[Other languages (24)](#file-language-dropdown-67)
 
 български (BG) (54.19 KB - PDF)
 
@@ -469,7 +476,7 @@ Deutsch (DE) (48.93 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/kanjinti-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (46.67 KB - PDF)
+eesti (ET) (46.67 KB - PDF)
 
 **First published:** 30/05/2018 **Last updated:** 30/05/2018
 
@@ -493,25 +500,19 @@ hrvatski (HR) (53.22 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/kanjinti-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (44.56 KB - PDF)
-
-**First published:** 30/05/2018 **Last updated:** 30/05/2018
-
-[View](/is/documents/all-authorised-presentations/kanjinti-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (16.87 KB - PDF)
 
 **First published:** 30/05/2018 **Last updated:** 30/05/2018
 
 [View](/it/documents/all-authorised-presentations/kanjinti-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (45.84 KB - PDF)
+latviešu (LV) (45.84 KB - PDF)
 
 **First published:** 30/05/2018 **Last updated:** 30/05/2018
 
 [View](/lv/documents/all-authorised-presentations/kanjinti-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (49.1 KB - PDF)
+lietuvių (LT) (49.1 KB - PDF)
 
 **First published:** 30/05/2018 **Last updated:** 30/05/2018
 
@@ -534,12 +535,6 @@ Nederlands (NL) (16.77 KB - PDF)
 **First published:** 30/05/2018 **Last updated:** 30/05/2018
 
 [View](/nl/documents/all-authorised-presentations/kanjinti-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (44.34 KB - PDF)
-
-**First published:** 30/05/2018 **Last updated:** 30/05/2018
-
-[View](/no/documents/all-authorised-presentations/kanjinti-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (95.78 KB - PDF)
 
@@ -571,7 +566,7 @@ slovenščina (SL) (33 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/kanjinti-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (16.48 KB - PDF)
+suomi (FI) (16.48 KB - PDF)
 
 **First published:** 30/05/2018 **Last updated:** 30/05/2018
 
@@ -583,28 +578,31 @@ svenska (SV) (43.17 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/kanjinti-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (44.56 KB - PDF)
+
+**First published:** 30/05/2018 **Last updated:** 30/05/2018
+
+[View](/is/documents/all-authorised-presentations/kanjinti-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (44.34 KB - PDF)
+
+**First published:** 30/05/2018 **Last updated:** 30/05/2018
+
+[View](/no/documents/all-authorised-presentations/kanjinti-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Kanjinti
-
-Active substance
-
-trastuzumab
-
-International non-proprietary name (INN) or common name
-
-trastuzumab
-
-Therapeutic area (MeSH)
-
-- Stomach Neoplasms
-- Breast Neoplasms
-
-Anatomical therapeutic chemical (ATC) code
-
-L01XC03
+- **Name of medicine**
+    - Kanjinti
+- **Active substance**
+    - trastuzumab
+- **International non-proprietary name (INN) or common name**
+    - trastuzumab
+- **Therapeutic area (MeSH)**
+        - Stomach Neoplasms
+        - Breast Neoplasms
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01XC03
 
 ### Pharmacotherapeutic group
 
@@ -640,31 +638,18 @@ Kanjinti should only be used in patients with metastatic gastric cancer (MGC) wh
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/004361
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Amgen Europe B.V.
-
-Minervum 7061
-
-Opinion adopted
-
-22/03/2018
-
-Marketing authorisation issued
-
-16/05/2018
-
-Revision
-
-11
+- **EMA product number**
+    - EMEA/H/C/004361
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Amgen Europe B.V. Minervum 7061  NL-4817 ZK Breda  The Netherlands
+- **Opinion adopted**
+    - 22/03/2018
+- **Marketing authorisation issued**
+    - 16/05/2018
+- **Revision**
+    - 12
 
 ## Assessment history
 
@@ -672,13 +657,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Kanjinti : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (268.98 KB - PDF)
+English (EN) (148.42 KB - PDF)
 
-**First published:** 13/05/2025
+**First published:** 13/05/2025 **Last updated:** 11/08/2026
 
 [View](/en/documents/procedural-steps-after/kanjinti-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -690,7 +675,7 @@ English (EN) (125.02 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/kanjinti-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Kanjinti : EPAR - Public assessment report
 
@@ -730,7 +715,7 @@ English (EN) (179.08 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/kanjinti-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-298)
+[Other languages (24)](#file-language-dropdown-872)
 
 български (BG) (246.9 KB - DOCX)
 
@@ -762,7 +747,7 @@ Deutsch (DE) (194.39 KB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/kanjinti-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (172.65 KB - DOCX)
+eesti (ET) (172.65 KB - DOCX)
 
 **First published:** 13/05/2025
 
@@ -786,25 +771,19 @@ hrvatski (HR) (181.75 KB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/kanjinti-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (181.17 KB - DOCX)
-
-**First published:** 13/05/2025
-
-[View](/is/documents/product-information-tracked-changes/kanjinti-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (209.29 KB - DOCX)
 
 **First published:** 13/05/2025
 
 [View](/it/documents/product-information-tracked-changes/kanjinti-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (186.44 KB - DOCX)
+latviešu (LV) (186.44 KB - DOCX)
 
 **First published:** 13/05/2025
 
 [View](/lv/documents/product-information-tracked-changes/kanjinti-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (183.32 KB - DOCX)
+lietuvių (LT) (183.32 KB - DOCX)
 
 **First published:** 13/05/2025
 
@@ -827,12 +806,6 @@ Nederlands (NL) (181.51 KB - DOCX)
 **First published:** 13/05/2025
 
 [View](/nl/documents/product-information-tracked-changes/kanjinti-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (181.94 KB - DOCX)
-
-**First published:** 13/05/2025
-
-[View](/no/documents/product-information-tracked-changes/kanjinti-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (196.73 KB - DOCX)
 
@@ -864,7 +837,7 @@ slovenščina (SL) (187.02 KB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/kanjinti-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (190.36 KB - DOCX)
+suomi (FI) (190.36 KB - DOCX)
 
 **First published:** 13/05/2025
 
@@ -876,22 +849,24 @@ svenska (SV) (190.16 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/kanjinti-epar-product-information-tracked-changes_sv.docx)
 
-## Related content
+Íslenska (IS) (181.17 KB - DOCX)
 
-- [Biosimilar medicines](/en/human-regulatory/overview/biosimilar-medicines)
+**First published:** 13/05/2025
+
+[View](/is/documents/product-information-tracked-changes/kanjinti-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (181.94 KB - DOCX)
+
+**First published:** 13/05/2025
+
+[View](/no/documents/product-information-tracked-changes/kanjinti-epar-product-information-tracked-changes_no.docx)
 
 ## More information on Kanjinti
 
 - [GARDENIA: A Multi-country Observational Serial Chart Review Study of KANJINTI use in Europe - post-authorisation study](https://catalogues.ema.europa.eu/study/49134)
 
-## Topics
-
-- [Biologicals](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A44)
-- [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-08/05/2026
+11/08/2026
 
 ## Share this page

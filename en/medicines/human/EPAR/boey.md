@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-30 12:30:00
+document_datetime: 2026-08-10 18:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/boey.html
 document_name: boey.html
 version: success
-processing_time: 0.1234756
-conversion_datetime: 2026-08-01 11:37:40.693526
+processing_time: 0.1280098
+conversion_datetime: 2026-08-13 19:54:21.718934
 docling_version:
-  docling-serve: 1.29.0
-  docling-jobkit: 3.2.0
-  docling: 2.117.0
-  docling-core: 2.89.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.119.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.12.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 # Boey
 
@@ -113,7 +113,7 @@ English (EN) (150.7 KB - PDF)
 
 [View](/en/documents/overview/boey-epar-medicine-overview_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-875)
+[Other languages (22)](#file-language-dropdown-479)
 
 български (BG) (166.37 KB - PDF)
 
@@ -229,11 +229,23 @@ slovenčina (SK) (161.73 KB - PDF)
 
 [View](/sk/documents/overview/boey-epar-medicine-overview_sk.pdf)
 
+slovenščina (SL) (148.49 KB - PDF)
+
+**First published:** 10/08/2026
+
+[View](/sl/documents/overview/boey-epar-medicine-overview_sl.pdf)
+
 suomi (FI) (146.26 KB - PDF)
 
 **First published:** 30/07/2026
 
 [View](/fi/documents/overview/boey-epar-medicine-overview_fi.pdf)
+
+svenska (SV) (145.36 KB - PDF)
+
+**First published:** 10/08/2026
+
+[View](/sv/documents/overview/boey-epar-medicine-overview_sv.pdf)
 
 Boey : EPAR - Risk management plan
 
@@ -253,7 +265,7 @@ English (EN) (330.95 KB - PDF)
 
 [View](/en/documents/product-information/boey-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-177)
+[Other languages (24)](#file-language-dropdown-998)
 
 български (BG) (412.21 KB - PDF)
 
@@ -424,7 +436,7 @@ English (EN) (33.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/boey-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-294)
+[Other languages (24)](#file-language-dropdown-320)
 
 български (BG) (38.61 KB - PDF)
 
@@ -638,6 +650,6 @@ English (EN) (140.75 KB - PDF)
 
 **This page was last updated on**
 
-30/07/2026
+10/08/2026
 
 ## Share this page

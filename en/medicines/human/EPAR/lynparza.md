@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-03 15:23:00
+document_datetime: 2026-08-12 18:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lynparza.html
 document_name: lynparza.html
 version: success
-processing_time: 0.1679572
-conversion_datetime: 2026-06-04 22:17:38.283314
+processing_time: 0.2213919
+conversion_datetime: 2026-08-13 19:53:30.190122
 docling_version:
-  docling-serve: 1.21.0
-  docling-jobkit: 1.20.1
-  docling: 2.97.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.119.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.12.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 # Lynparza
 
@@ -42,7 +42,6 @@ Page contents
 - [More information on Lynparza](#more-information-on-lynparza-857)
 - [Recommendations on medication errors](#recommendations-on-medication-errors-1518)
 - [More information on Lynparza](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -161,7 +160,7 @@ English (EN) (159.3 KB - PDF)
 
 [View](/en/documents/overview/lynparza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-247)
+[Other languages (22)](#file-language-dropdown-221)
 
 български (BG) (186.45 KB - PDF)
 
@@ -295,6 +294,14 @@ svenska (SV) (157.03 KB - PDF)
 
 [View](/sv/documents/overview/lynparza-epar-medicine-overview_sv.pdf)
 
+Lynparza : EPAR - Risk management plan
+
+English (EN) (1.02 MB - PDF)
+
+**First published:** 12/08/2026
+
+[View](/en/documents/rmp/lynparza-epar-risk-management-plan_en.pdf)
+
 ## Product information
 
 Lynparza : EPAR - Product Information
@@ -305,7 +312,7 @@ English (EN) (1.72 MB - PDF)
 
 [View](/en/documents/product-information/lynparza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-325)
+[Other languages (24)](#file-language-dropdown-958)
 
 български (BG) (1.72 MB - PDF)
 
@@ -459,7 +466,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -477,7 +485,7 @@ English (EN) (35.27 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-71)
+[Other languages (24)](#file-language-dropdown-859)
 
 български (BG) (35.76 KB - PDF)
 
@@ -625,28 +633,19 @@ norsk (NO) (35.3 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Lynparza
-
-Active substance
-
-olaparib
-
-International non-proprietary name (INN) or common name
-
-olaparib
-
-Therapeutic area (MeSH)
-
-- Ovarian Neoplasms
-- Breast Neoplasms
-- Pancreatic Neoplasms
-- Prostatic Neoplasms, Castration-Resistant
-
-Anatomical therapeutic chemical (ATC) code
-
-L01XK01
+- **Name of medicine**
+    - Lynparza
+- **Active substance**
+    - olaparib
+- **International non-proprietary name (INN) or common name**
+    - olaparib
+- **Therapeutic area (MeSH)**
+        - Ovarian Neoplasms
+        - Breast Neoplasms
+        - Pancreatic Neoplasms
+        - Prostatic Neoplasms, Castration-Resistant
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01XK01
 
 ### Pharmacotherapeutic group
 
@@ -691,23 +690,14 @@ Lynparza in combination with durvalumab is indicated for the maintenance treatme
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/003726
-
-Marketing authorisation holder
-
-AstraZeneca AB
-
-SE-151 85 Södertälje
-
-Marketing authorisation issued
-
-16/12/2014
-
-Revision
-
-32
+- **EMA product number**
+    - EMEA/H/C/003726
+- **Marketing authorisation holder**
+    - AstraZeneca AB SE-151 85 Södertälje  Sweden
+- **Marketing authorisation issued**
+    - 16/12/2014
+- **Revision**
+    - 32
 
 ## Assessment history
 
@@ -841,7 +831,7 @@ English (EN) (104.01 KB - PDF)
 
 **First published:** 06/10/2020
 
-[View](/en/documents/scientific-conclusion/lynparza-h-c-psusa-00010322-201912-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/lynparza-h-c-psusa-00010322-201912-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Lynparza (II-35; II-36))
 
@@ -1009,7 +999,7 @@ English (EN) (2.15 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-670)
+[Other languages (24)](#file-language-dropdown-606)
 
 български (BG) (2.1 MB - DOCX)
 
@@ -1178,12 +1168,8 @@ English (EN) (79.43 KB - PDF)
 - [EMEA-002269-PIP01-17-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002269-pip01-17-m03)
 - [Post-Marketing Observational Prospective Study to Assess Real World Outcomes and the Risk of Myelodysplastic syndromes (MDS)/acute myeloid leukaemia (AML) in Platinum Sensitive Relapsed breast cancer susceptibility gene (BRCA) Mutated Ovarian Cancer Patients Treated with Lynparza (olaparib); the LOCALISE Study - post-authorisation study](https://catalogues.ema.europa.eu/study/18336)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-03/06/2026
+12/08/2026
 
 ## Share this page

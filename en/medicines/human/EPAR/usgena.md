@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-07 10:01:00
+document_datetime: 2026-08-11 10:54:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/usgena.html
 document_name: usgena.html
 version: success
-processing_time: 0.1088221
-conversion_datetime: 2026-05-10 12:39:03.696215
+processing_time: 0.1389766
+conversion_datetime: 2026-08-13 19:52:54.882562
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.119.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.12.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 # Usgena
 
@@ -58,7 +58,7 @@ Expand section
 
 Collapse section
 
-## How is Usgena used?
+### How is Usgena used?
 
 Usgena can only be obtained with a prescription and should be given under the supervision of a doctor who has experience in diagnosing and treating the diseases that Usgena is used for.
 
@@ -70,11 +70,11 @@ Patients or their caregivers may inject Usgena under the skin once they have bee
 
 For more information about using Usgena, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Usgena work?
+### How does Usgena work?
 
 The active substance in Usgena, ustekinumab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific target in the body. Ustekinumab attaches to two messenger molecules in the immune system called interleukin 12 and interleukin 23. Both are involved in inflammation and other processes that are important in psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis. By blocking their activity, ustekinumab reduces the activity of the immune system and the symptoms of the disease.
 
-## What benefits of Usgena have been shown in studies?
+### What benefits of Usgena have been shown in studies?
 
 Laboratory studies comparing Usgena with Stelara have shown that the active substance in Usgena is highly similar to that in Stelara in terms of structure, purity and biological activity. Studies have also shown that giving Usgena produces similar levels of the active substance in the body to those seen with Stelara.
 
@@ -82,7 +82,7 @@ In addition, a study involving 581 adults with moderate to severe plaque psorias
 
 Because Usgena is a biosimilar medicine, the studies on the effectiveness of ustekinumab carried out with Stelara do not all need to be repeated for Usgena.
 
-## What are the risks associated with Usgena?
+### What are the risks associated with Usgena?
 
 The safety of Usgena has been evaluated and, on the basis of all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine Stelara.
 
@@ -92,19 +92,19 @@ The most common side effects with ustekinumab (seen in more than 1 in 20 people 
 
 Usgena must not be used in patients who have an active infection that the doctor considers important.
 
-## Why is Usgena authorised in the EU?
+### Why is Usgena authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Usgena has a highly similar structure, purity and biological activity to Stelara and is distributed in the body in the same way. In addition, studies in adults with plaque psoriasis have shown that Usgena and Stelara are equivalent in terms of safety and effectiveness in this condition.
 
 All these data were considered sufficient to conclude that Usgena will have the same effects as Stelara in its authorised uses. Therefore, the Agency's view was that, as for Stelara, the benefits of Usgena outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Usgena?
+### What measures are being taken to ensure the safe and effective use of Usgena?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Usgena have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Usgena are continuously monitored. Suspected side effects reported with Usgena are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Usgena
+### Other information about Usgena
 
 Usgena received a marketing authorisation valid throughout the EU on 17 November 2025.
 
@@ -118,7 +118,7 @@ English (EN) (146.18 KB - PDF)
 
 [View](/en/documents/overview/usgena-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-681)
+[Other languages (22)](#file-language-dropdown-242)
 
 български (BG) (163.41 KB - PDF)
 
@@ -150,7 +150,7 @@ Deutsch (DE) (140.34 KB - PDF)
 
 [View](/de/documents/overview/usgena-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (133.34 KB - PDF)
+eesti (ET) (133.34 KB - PDF)
 
 **First published:** 21/11/2025
 
@@ -180,13 +180,13 @@ italiano (IT) (135.1 KB - PDF)
 
 [View](/it/documents/overview/usgena-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (165.7 KB - PDF)
+latviešu (LV) (165.7 KB - PDF)
 
 **First published:** 21/11/2025
 
 [View](/lv/documents/overview/usgena-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (157.59 KB - PDF)
+lietuvių (LT) (157.59 KB - PDF)
 
 **First published:** 21/11/2025
 
@@ -240,7 +240,7 @@ slovenščina (SL) (156.06 KB - PDF)
 
 [View](/sl/documents/overview/usgena-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (132.84 KB - PDF)
+suomi (FI) (132.84 KB - PDF)
 
 **First published:** 21/11/2025
 
@@ -266,165 +266,166 @@ Usgena : EPAR - Product information
 
 English (EN) (2.08 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/en/documents/product-information/usgena-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-746)
+[Other languages (24)](#file-language-dropdown-543)
 
 български (BG) (2.07 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/bg/documents/product-information/usgena-epar-product-information_bg.pdf)
 
 español (ES) (2.24 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/es/documents/product-information/usgena-epar-product-information_es.pdf)
 
 čeština (CS) (2.07 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/cs/documents/product-information/usgena-epar-product-information_cs.pdf)
 
 dansk (DA) (2.1 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/da/documents/product-information/usgena-epar-product-information_da.pdf)
 
 Deutsch (DE) (1.97 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/de/documents/product-information/usgena-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.33 MB - PDF)
+eesti (ET) (2.33 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/et/documents/product-information/usgena-epar-product-information_et.pdf)
 
 ελληνικά (EL) (2.16 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/el/documents/product-information/usgena-epar-product-information_el.pdf)
 
 français (FR) (2.08 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/fr/documents/product-information/usgena-epar-product-information_fr.pdf)
 
 hrvatski (HR) (2.11 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/hr/documents/product-information/usgena-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.96 MB - PDF)
-
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
-
-[View](/is/documents/product-information/usgena-epar-product-information_is.pdf)
-
 italiano (IT) (1.98 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/it/documents/product-information/usgena-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.09 MB - PDF)
+latviešu (LV) (2.09 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/lv/documents/product-information/usgena-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.23 MB - PDF)
+lietuvių (LT) (2.23 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/lt/documents/product-information/usgena-epar-product-information_lt.pdf)
 
 magyar (HU) (2.13 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/hu/documents/product-information/usgena-epar-product-information_hu.pdf)
 
 Malti (MT) (2.17 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/mt/documents/product-information/usgena-epar-product-information_mt.pdf)
 
 Nederlands (NL) (2.13 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/nl/documents/product-information/usgena-epar-product-information_nl.pdf)
 
-norsk (NO) (2.03 MB - PDF)
+polski (PL) (2.12 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
-
-[View](/no/documents/product-information/usgena-epar-product-information_no.pdf)
-
-polski (PL) (2.13 MB - PDF)
-
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/pl/documents/product-information/usgena-epar-product-information_pl.pdf)
 
 português (PT) (1.98 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/pt/documents/product-information/usgena-epar-product-information_pt.pdf)
 
 română (RO) (2.11 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/ro/documents/product-information/usgena-epar-product-information_ro.pdf)
 
 slovenčina (SK) (2.1 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/sk/documents/product-information/usgena-epar-product-information_sk.pdf)
 
 slovenščina (SL) (2.01 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/sl/documents/product-information/usgena-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.99 MB - PDF)
+suomi (FI) (1.99 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/fi/documents/product-information/usgena-epar-product-information_fi.pdf)
 
 svenska (SV) (2 MB - PDF)
 
-**First published:** 21/11/2025 **Last updated:** 07/05/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
 
 [View](/sv/documents/product-information/usgena-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000338332
+Íslenska (IS) (1.96 MB - PDF)
 
-31/03/2026
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
+
+[View](/is/documents/product-information/usgena-epar-product-information_is.pdf)
+
+norsk (NO) (2.03 MB - PDF)
+
+**First published:** 21/11/2025 **Last updated:** 11/08/2026
+
+[View](/no/documents/product-information/usgena-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000361872
+
+10/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -442,7 +443,7 @@ English (EN) (75.2 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/usgena-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-471)
+[Other languages (24)](#file-language-dropdown-917)
 
 български (BG) (64.07 KB - PDF)
 
@@ -474,7 +475,7 @@ Deutsch (DE) (59.15 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/usgena-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (54.11 KB - PDF)
+eesti (ET) (54.11 KB - PDF)
 
 **First published:** 21/11/2025
 
@@ -498,25 +499,19 @@ hrvatski (HR) (58.7 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/usgena-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (58 KB - PDF)
-
-**First published:** 21/11/2025
-
-[View](/is/documents/all-authorised-presentations/usgena-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (55.5 KB - PDF)
 
 **First published:** 21/11/2025
 
 [View](/it/documents/all-authorised-presentations/usgena-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (60.58 KB - PDF)
+latviešu (LV) (60.58 KB - PDF)
 
 **First published:** 21/11/2025
 
 [View](/lv/documents/all-authorised-presentations/usgena-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (60.16 KB - PDF)
+lietuvių (LT) (60.16 KB - PDF)
 
 **First published:** 21/11/2025
 
@@ -539,12 +534,6 @@ Nederlands (NL) (54.84 KB - PDF)
 **First published:** 21/11/2025
 
 [View](/nl/documents/all-authorised-presentations/usgena-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (57.75 KB - PDF)
-
-**First published:** 21/11/2025
-
-[View](/no/documents/all-authorised-presentations/usgena-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (61.49 KB - PDF)
 
@@ -576,7 +565,7 @@ slovenščina (SL) (56.67 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/usgena-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (53.77 KB - PDF)
+suomi (FI) (53.77 KB - PDF)
 
 **First published:** 21/11/2025
 
@@ -588,30 +577,33 @@ svenska (SV) (56.23 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/usgena-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (58 KB - PDF)
+
+**First published:** 21/11/2025
+
+[View](/is/documents/all-authorised-presentations/usgena-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (57.75 KB - PDF)
+
+**First published:** 21/11/2025
+
+[View](/no/documents/all-authorised-presentations/usgena-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Usgena
-
-Active substance
-
-ustekinumab
-
-International non-proprietary name (INN) or common name
-
-ustekinumab
-
-Therapeutic area (MeSH)
-
-- Crohn Disease
-- Psoriasis
-- Arthritis, Psoriatic
-- Colitis, Ulcerative
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AC05
+- **Name of medicine**
+    - Usgena
+- **Active substance**
+    - ustekinumab
+- **International non-proprietary name (INN) or common name**
+    - ustekinumab
+- **Therapeutic area (MeSH)**
+        - Crohn Disease
+        - Psoriasis
+        - Arthritis, Psoriatic
+        - Colitis, Ulcerative
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AC05
 
 ### Pharmacotherapeutic group
 
@@ -641,35 +633,20 @@ Psoriatic arthritis (PsA)
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006667
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Stada Arzneimittel AG
-
-Stada R&amp;D AG
-
-Opinion adopted
-
-18/09/2025
-
-Marketing authorisation issued
-
-17/11/2025
-
-Revision
-
-1
+- **EMA product number**
+    - EMEA/H/C/006667
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Stada Arzneimittel AG Stada R&amp;D AG  Stadastrasse 2-18  D-61118 Bad Vilbel  Germany
+- **Opinion adopted**
+    - 18/09/2025
+- **Marketing authorisation issued**
+    - 17/11/2025
+- **Revision**
+    - 2
 
 ## Assessment history
 
@@ -677,17 +654,17 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Usgena : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (149.26 KB - PDF)
+English (EN) (161.22 KB - PDF)
 
-**First published:** 07/05/2026
+**First published:** 07/05/2026 **Last updated:** 11/08/2026
 
 [View](/en/documents/procedural-steps-after/usgena-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Usgena : EPAR - Public assessment report
 
@@ -717,6 +694,6 @@ English (EN) (162.21 KB - PDF)
 
 **This page was last updated on**
 
-07/05/2026
+11/08/2026
 
 ## Share this page

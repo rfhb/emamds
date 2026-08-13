@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-27 15:02:00
+document_datetime: 2026-08-11 08:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/yesintek.html
 document_name: yesintek.html
 version: success
-processing_time: 0.1044934
-conversion_datetime: 2026-05-29 20:13:30.450577
+processing_time: 0.1390263
+conversion_datetime: 2026-08-13 19:52:36.914451
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.96.0
-  docling-core: 2.78.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 6.2.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.119.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.12.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 # Yesintek
 
@@ -50,41 +50,43 @@ Yesintek is a medicine used to treat:
 
 - moderate to severe plaque psoriasis (a disease causing red, scaly patches on the skin). It is used in adults and children from 6 years of age whose condition has not improved with, or who cannot use, other systemic (whole-body) psoriasis treatments such as ciclosporin, methotrexate or PUVA (psoralen ultraviolet A). PUVA is a type of treatment where the patient receives a medicine called psoralen, before being exposed to ultraviolet light;
 - active psoriatic arthritis (inflammation of the joints associated with psoriasis) in adults, when the condition has not improved enough with other treatments called disease-modifying anti-rheumatic drugs (DMARDs). Yesintek may be used alone or combined with methotrexate (a DMARD);
-- moderately to severely active Crohn's disease (inflammation of the gut that causes disease) in adults whose condition has not improved enough with other treatments for Crohn's disease or who cannot receive such treatments.
+- moderately to severely active Crohn's disease (a disease causing inflammation of the gut) in adults and children weighing at least 40 kg whose condition has not improved enough with other treatments or who cannot receive such treatments.
 
-Yesintek contains the active substance ustekinumab and is a biological medicine. It is a 'biosimilar medicine'; this means that Yesintek is highly similar to another biological medicine (the 'reference medicine') that is already authorised in the EU. The reference medicine for Yesintek is Stelara. For more information on biosimilar medicines, see [here](https://www.ema.europa.eu/en/human-regulatory/overview/biosimilar-medicines) .
+Yesintek contains the active substance ustekinumab and is a biological medicine. It is a biosimilar medicine; this means that Yesintek is highly similar to another biological medicine (the reference medicine) that is already authorised in the EU. The reference medicine for Yesintek is Stelara.
 
 Expand section
 
 Collapse section
 
-## How is Yesintek used?
+### How is Yesintek used?
 
 Yesintek can only be obtained with a prescription and should be given under the supervision of a doctor experienced in diagnosing and treating the diseases that Yesintek is used for.
 
-In plaque psoriasis and psoriatic arthritis, Yesintek is injected under the skin. The first injection is followed by a further injection 4 weeks later, and then an injection every 12 weeks.
+In plaque psoriasis and psoriatic arthritis, Yesintek is injected under the skin. The first injection is followed by another injection 4 weeks later. After that, one injection is given every 12 weeks.
 
-In Crohn's disease, Yesintek treatment is started with an infusion (drip) into a vein over at least 1 hour. Eight weeks after the infusion, treatment with Yesintek is continued as an injection under the skin. Patients then continue with Yesintek injections every 8 or 12 weeks, depending on how well the treatment is working.
+In Crohn's disease, Yesintek treatment is started as an infusion (drip) into a vein lasting at least 1 hour. Eight weeks after the infusion, Yesintek is given as an injection under the skin. Patients then continue with Yesintek injections every 8 or 12 weeks, depending on how well the treatment is working.
 
-If the doctor thinks it is appropriate, patients or their caregivers may inject Yesintek themselves once they have been trained.
+Patients or their caregivers may inject Yesintek once they have been trained, if their doctor thinks that this is appropriate.
 
 For more information about using Yesintek, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Yesintek work?
+### How does Yesintek work?
 
-The active substance in Yesintek, ustekinumab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific target in the body. Ustekinumab attaches to 2 messenger molecules in the immune system called interleukin 12 and interleukin 23. Both are involved in inflammation and other processes that are important in psoriasis, psoriatic arthritis and Crohn's disease. By blocking their activity, ustekinumab reduces the activity of the immune system and the symptoms of the disease.
+The active substance in Yesintek, ustekinumab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific target in the body. Ustekinumab attaches to 2 messenger molecules in the immune system called interleukin 12 and interleukin 23. Both are involved in inflammation and other processes that are important in psoriasis, psoriatic arthritis and Crohn's disease. By attaching to them and blocking their activity, ustekinumab reduces the activity of the immune system and the symptoms of the disease.
 
-## What benefits of Yesintek have been shown in studies?
+### What benefits of Yesintek have been shown in studies?
 
-Laboratory studies comparing Yesintek with the reference medicine Stelara have shown that the active substance in Yesintek is highly similar to that in Stelara in terms of structure, purity and biological activity. Studies have also shown that giving Yesintek produces similar levels of the active substance in the body to those seen with Stelara.
+Laboratory studies comparing Yesintek with Stelara have shown that the active substance in Yesintek is highly similar to that in Stelara in terms of structure, purity and biological activity. Studies have also shown that giving Yesintek produces similar levels of the active substance in the body to those seen with Stelara.
 
-In addition, a study of 384 adults with moderate to severe plaque psoriasis showed that Yesintek was as effective as Stelara at improving symptoms of the disease. The improvement in symptoms scores after 12 weeks was similar with both medicines.
+In addition, a study involving 384 adults with moderate to severe plaque psoriasis showed that Yesintek was as effective as Stelara at improving symptoms of the disease. The improvement in symptoms scores after 12 weeks was similar with both medicines.
 
 Because Yesintek is a biosimilar medicine, the studies on effectiveness of ustekinumab carried out with Stelara do not all need to be repeated for Yesintek.
 
-## What are the risks associated with Yesintek?
+Studies carried out with Yesintek are described in more detail in the medicine's assessment reports.
 
-The safety of Yesintek has been evaluated and, on the basis of all the studies carried out, the side effects of the medicine are considered to be comparable to those of the reference medicine Stelara.
+### What are the side effects and restrictions with Yesintek?
+
+The safety of Yesintek has been evaluated and, based on all the studies carried out, the side effects of the medicine are considered to be comparable to those of Stelara.
 
 For the complete list of side effects and restrictions of Yesintek, see the package leaflet.
 
@@ -92,163 +94,165 @@ The most common side effects with ustekinumab (seen in more than 1 in 20) includ
 
 Yesintek must not be used in patients who have an active infection that the doctor considers important.
 
-## Why is Yesintek authorised in the EU?
+### Why is Yesintek authorised in the EU?
 
 The European Medicines Agency decided that, in accordance with EU requirements for biosimilar medicines, Yesintek has a highly similar structure, purity and biological activity to Stelara and is distributed in the body in the same way. In addition, a study in patients with plaque psoriasis has shown that Yesintek and Stelara are equivalent in terms of safety and effectiveness in this condition.
 
 All these data were considered sufficient to conclude that Yesintek will have the same effects as Stelara in its authorised uses. Therefore, the Agency's view was that, as for Stelara, the benefits of Yesintek outweigh the identified risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Yesintek?
+### What measures are being taken to ensure the safe and effective use of Yesintek?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Yesintek have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Yesintek are continuously monitored. Suspected side effects reported with Yesintek are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Yesintek
+### Other information about Yesintek
 
 Yesintek received a marketing authorisation valid throughout the EU on 14 February 2025.
+
+For information about the availability of this medicine in your country, contact your national competent authority.
 
 Yesintek : EPAR - Medicine overview
 
 Reference Number: EMEA/H/C/006444
 
-English (EN) (148.82 KB - PDF)
+English (EN) (162.4 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/en/documents/overview/yesintek-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-267)
+[Other languages (22)](#file-language-dropdown-513)
 
-български (BG) (176.25 KB - PDF)
+български (BG) (178.92 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/bg/documents/overview/yesintek-epar-medicine-overview_bg.pdf)
 
-español (ES) (149.52 KB - PDF)
+español (ES) (153.39 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/es/documents/overview/yesintek-epar-medicine-overview_es.pdf)
 
-čeština (CS) (173.4 KB - PDF)
+čeština (CS) (176.62 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/cs/documents/overview/yesintek-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (149.83 KB - PDF)
+dansk (DA) (152.4 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/da/documents/overview/yesintek-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (153.19 KB - PDF)
+Deutsch (DE) (156.67 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/de/documents/overview/yesintek-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (146.5 KB - PDF)
+eesti (ET) (150.39 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/et/documents/overview/yesintek-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (176.37 KB - PDF)
+ελληνικά (EL) (178.94 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/el/documents/overview/yesintek-epar-medicine-overview_el.pdf)
 
-français (FR) (150.6 KB - PDF)
+français (FR) (154.61 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/fr/documents/overview/yesintek-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (172.15 KB - PDF)
+hrvatski (HR) (176.01 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/hr/documents/overview/yesintek-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (148.96 KB - PDF)
+italiano (IT) (152.05 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/it/documents/overview/yesintek-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (179.03 KB - PDF)
+latviešu (LV) (183.97 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/lv/documents/overview/yesintek-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (170.93 KB - PDF)
+lietuvių (LT) (176.9 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/lt/documents/overview/yesintek-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (172.98 KB - PDF)
+magyar (HU) (177.87 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/hu/documents/overview/yesintek-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (173.57 KB - PDF)
+Malti (MT) (179.34 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/mt/documents/overview/yesintek-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (151.97 KB - PDF)
+Nederlands (NL) (153.2 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/nl/documents/overview/yesintek-epar-medicine-overview_nl.pdf)
 
-polski (PL) (176.77 KB - PDF)
+polski (PL) (180.09 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/pl/documents/overview/yesintek-epar-medicine-overview_pl.pdf)
 
-português (PT) (149.92 KB - PDF)
+português (PT) (153.96 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/pt/documents/overview/yesintek-epar-medicine-overview_pt.pdf)
 
-română (RO) (168.3 KB - PDF)
+română (RO) (173.87 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/ro/documents/overview/yesintek-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (172.81 KB - PDF)
+slovenčina (SK) (176.96 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/sk/documents/overview/yesintek-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (170.3 KB - PDF)
+slovenščina (SL) (174.39 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/sl/documents/overview/yesintek-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (146.79 KB - PDF)
+suomi (FI) (150.41 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/fi/documents/overview/yesintek-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (147.93 KB - PDF)
+svenska (SV) (151.57 KB - PDF)
 
-**First published:** 20/02/2025
+**First published:** 20/02/2025 **Last updated:** 11/08/2026
 
 [View](/sv/documents/overview/yesintek-epar-medicine-overview_sv.pdf)
 
@@ -270,7 +274,7 @@ English (EN) (2.52 MB - PDF)
 
 [View](/en/documents/product-information/yesintek-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-567)
+[Other languages (24)](#file-language-dropdown-322)
 
 български (BG) (3.15 MB - PDF)
 
@@ -302,7 +306,7 @@ Deutsch (DE) (3.47 MB - PDF)
 
 [View](/de/documents/product-information/yesintek-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.97 MB - PDF)
+eesti (ET) (2.97 MB - PDF)
 
 **First published:** 20/02/2025 **Last updated:** 27/05/2026
 
@@ -326,25 +330,19 @@ hrvatski (HR) (2.94 MB - PDF)
 
 [View](/hr/documents/product-information/yesintek-epar-product-information_hr.pdf)
 
-íslenska (IS) (3 MB - PDF)
-
-**First published:** 20/02/2025 **Last updated:** 27/05/2026
-
-[View](/is/documents/product-information/yesintek-epar-product-information_is.pdf)
-
 italiano (IT) (2.94 MB - PDF)
 
 **First published:** 20/02/2025 **Last updated:** 27/05/2026
 
 [View](/it/documents/product-information/yesintek-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.86 MB - PDF)
+latviešu (LV) (2.86 MB - PDF)
 
 **First published:** 20/02/2025 **Last updated:** 27/05/2026
 
 [View](/lv/documents/product-information/yesintek-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (3.02 MB - PDF)
+lietuvių (LT) (3.02 MB - PDF)
 
 **First published:** 20/02/2025 **Last updated:** 27/05/2026
 
@@ -367,12 +365,6 @@ Nederlands (NL) (3.1 MB - PDF)
 **First published:** 20/02/2025 **Last updated:** 27/05/2026
 
 [View](/nl/documents/product-information/yesintek-epar-product-information_nl.pdf)
-
-norsk (NO) (2.81 MB - PDF)
-
-**First published:** 20/02/2025 **Last updated:** 27/05/2026
-
-[View](/no/documents/product-information/yesintek-epar-product-information_no.pdf)
 
 polski (PL) (3.14 MB - PDF)
 
@@ -404,7 +396,7 @@ slovenščina (SL) (3.1 MB - PDF)
 
 [View](/sl/documents/product-information/yesintek-epar-product-information_sl.pdf)
 
-Suomi (FI) (3.06 MB - PDF)
+suomi (FI) (3.06 MB - PDF)
 
 **First published:** 20/02/2025 **Last updated:** 27/05/2026
 
@@ -416,6 +408,18 @@ svenska (SV) (2.86 MB - PDF)
 
 [View](/sv/documents/product-information/yesintek-epar-product-information_sv.pdf)
 
+Íslenska (IS) (3 MB - PDF)
+
+**First published:** 20/02/2025 **Last updated:** 27/05/2026
+
+[View](/is/documents/product-information/yesintek-epar-product-information_is.pdf)
+
+norsk (NO) (2.81 MB - PDF)
+
+**First published:** 20/02/2025 **Last updated:** 27/05/2026
+
+[View](/no/documents/product-information/yesintek-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000321399
 
 21/05/2026
@@ -424,7 +428,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -442,7 +447,7 @@ English (EN) (79.32 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/yesintek-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-126)
+[Other languages (24)](#file-language-dropdown-845)
 
 български (BG) (99.99 KB - PDF)
 
@@ -474,7 +479,7 @@ Deutsch (DE) (84.34 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/yesintek-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (80.88 KB - PDF)
+eesti (ET) (80.88 KB - PDF)
 
 **First published:** 20/02/2025 **Last updated:** 13/01/2026
 
@@ -498,25 +503,19 @@ hrvatski (HR) (97.59 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/yesintek-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (83.11 KB - PDF)
-
-**First published:** 20/02/2025 **Last updated:** 13/01/2026
-
-[View](/is/documents/all-authorised-presentations/yesintek-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (81.5 KB - PDF)
 
 **First published:** 20/02/2025 **Last updated:** 13/01/2026
 
 [View](/it/documents/all-authorised-presentations/yesintek-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (102.71 KB - PDF)
+latviešu (LV) (102.71 KB - PDF)
 
 **First published:** 20/02/2025 **Last updated:** 13/01/2026
 
 [View](/lv/documents/all-authorised-presentations/yesintek-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (101.88 KB - PDF)
+lietuvių (LT) (101.88 KB - PDF)
 
 **First published:** 20/02/2025 **Last updated:** 13/01/2026
 
@@ -539,12 +538,6 @@ Nederlands (NL) (81.99 KB - PDF)
 **First published:** 20/02/2025 **Last updated:** 13/01/2026
 
 [View](/nl/documents/all-authorised-presentations/yesintek-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (83.06 KB - PDF)
-
-**First published:** 20/02/2025 **Last updated:** 13/01/2026
-
-[View](/no/documents/all-authorised-presentations/yesintek-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (104.62 KB - PDF)
 
@@ -576,7 +569,7 @@ slovenščina (SL) (89.47 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/yesintek-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (80.18 KB - PDF)
+suomi (FI) (80.18 KB - PDF)
 
 **First published:** 20/02/2025 **Last updated:** 13/01/2026
 
@@ -588,29 +581,32 @@ svenska (SV) (82.34 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/yesintek-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (83.11 KB - PDF)
+
+**First published:** 20/02/2025 **Last updated:** 13/01/2026
+
+[View](/is/documents/all-authorised-presentations/yesintek-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (83.06 KB - PDF)
+
+**First published:** 20/02/2025 **Last updated:** 13/01/2026
+
+[View](/no/documents/all-authorised-presentations/yesintek-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Yesintek
-
-Active substance
-
-ustekinumab
-
-International non-proprietary name (INN) or common name
-
-ustekinumab
-
-Therapeutic area (MeSH)
-
-- Psoriasis
-- Arthritis, Psoriatic
-- Crohn Disease
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AC05
+- **Name of medicine**
+    - Yesintek
+- **Active substance**
+    - ustekinumab
+- **International non-proprietary name (INN) or common name**
+    - ustekinumab
+- **Therapeutic area (MeSH)**
+        - Psoriasis
+        - Arthritis, Psoriatic
+        - Crohn Disease
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AC05
 
 ### Pharmacotherapeutic group
 
@@ -618,47 +614,42 @@ Immunosuppressants
 
 ### Therapeutic indication
 
-Plaque psoriasis Yesintek is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A).
+Plaque psoriasis
 
-Paediatric plaque psoriasis Yesintek is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies.
+- Yesintek is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A).
 
-Psoriatic arthritis (PsA) Yesintek, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying anti-rheumatic drug (DMARD) therapy has been inadequate.
+Paediatric plaque psoriasis
 
-Adult Crohn's Disease Yesintek is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with lost response to, or were intolerant to either conventional therapy or a TNFα (tumor necrosis factor alpha) antagonist or have medical contraindications to such therapies
+- Yesintek is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies.
 
-Paediatric Crohn's Disease (applicable only for vial and PFS presentations) Yesintek is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients weighing at least 40 kg, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
+Psoriatic arthritis (PsA)
+
+- Yesintek, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying anti-rheumatic drug (DMARD) therapy has been inadequate.
+
+Adult Crohn's Disease
+
+- Yesintek is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with lost response to, or were intolerant to either conventional therapy or a TNFα (tumor necrosis factor alpha) antagonist or have medical contraindications to such therapies
+
+Paediatric Crohn's Disease (applicable only for vial and PFS presentations)
+
+- Yesintek is indicated for the treatment of moderately to severely active Crohn's disease in paediatric patients weighing at least 40 kg, who have had an inadequate response to, or were intolerant to either conventional or biologic therapy.
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006444
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Biosimilar
-
-This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
-
-Marketing authorisation holder
-
-Biosimilar Collaborations Ireland Limited
-
-Unit 35/36 Grange Parade Baldoyle Industrial Estate Dublin 13, D13 R20R Ireland
-
-Opinion adopted
-
-12/12/2024
-
-Marketing authorisation issued
-
-14/02/2025
-
-Revision
-
-4
+- **EMA product number**
+    - EMEA/H/C/006444
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Biosimilar**
+    - This is a biosimilar medicine, which is a biological medicine highly similar to another already approved biological medicine called the 'reference medicine'. For more information, see [Biosimilar medicines](/node/68323) .
+- **Marketing authorisation holder**
+    - Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade  Baldoyle Industrial Estate  Dublin 13, D13 R20R  Ireland
+- **Opinion adopted**
+    - 12/12/2024
+- **Marketing authorisation issued**
+    - 14/02/2025
+- **Revision**
+    - 4
 
 ## Assessment history
 
@@ -666,7 +657,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Yesintek : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -676,7 +667,7 @@ English (EN) (187.97 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/yesintek-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Yesintek : EPAR - Public assessment report
 
@@ -716,7 +707,7 @@ English (EN) (1.86 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-479)
+[Other languages (24)](#file-language-dropdown-741)
 
 български (BG) (2.92 MB - DOCX)
 
@@ -748,7 +739,7 @@ Deutsch (DE) (3.1 MB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (3.21 MB - DOCX)
+eesti (ET) (3.21 MB - DOCX)
 
 **First published:** 16/02/2026
 
@@ -772,25 +763,19 @@ hrvatski (HR) (2.49 MB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (2.67 MB - DOCX)
-
-**First published:** 16/02/2026
-
-[View](/is/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (2.55 MB - DOCX)
 
 **First published:** 16/02/2026
 
 [View](/it/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (2.86 MB - DOCX)
+latviešu (LV) (2.86 MB - DOCX)
 
 **First published:** 16/02/2026
 
 [View](/lv/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (3.14 MB - DOCX)
+lietuvių (LT) (3.14 MB - DOCX)
 
 **First published:** 16/02/2026
 
@@ -813,12 +798,6 @@ Nederlands (NL) (2.85 MB - DOCX)
 **First published:** 16/02/2026
 
 [View](/nl/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (2.68 MB - DOCX)
-
-**First published:** 16/02/2026
-
-[View](/no/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (2.72 MB - DOCX)
 
@@ -850,7 +829,7 @@ slovenščina (SL) (3.05 MB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (2.75 MB - DOCX)
+suomi (FI) (2.75 MB - DOCX)
 
 **First published:** 16/02/2026
 
@@ -862,8 +841,20 @@ svenska (SV) (2.32 MB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_sv.docx)
 
+Íslenska (IS) (2.67 MB - DOCX)
+
+**First published:** 16/02/2026
+
+[View](/is/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (2.68 MB - DOCX)
+
+**First published:** 16/02/2026
+
+[View](/no/documents/product-information-tracked-changes/yesintek-epar-product-information-tracked-changes_no.docx)
+
 **This page was last updated on**
 
-27/05/2026
+11/08/2026
 
 ## Share this page

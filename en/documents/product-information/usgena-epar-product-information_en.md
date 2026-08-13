@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-07 09:55:26
+document_datetime: 2026-08-11 10:34:39
 document_pages: 119
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/usgena-epar-product-information_en.pdf
 document_name: usgena-epar-product-information_en.pdf
 version: success
-processing_time: 40.292861
-conversion_datetime: 2026-05-10 12:33:19.570591
+processing_time: 45.7497083
+conversion_datetime: 2026-08-13 19:56:47.390087
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.119.0
+  docling-core: 2.91.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.12.1
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -480,28 +480,27 @@ Significantly greater proportions of patients were in clinical remission in both
 
 Table 6:  Summary of Key Efficacy Measures in UNIFI-M (week 44; 52 weeks from initiation of the induction dose)
 
-|                                                                | Placebo*    | 90 mgustekinumab 90 mg   | 90 mgustekinumab 90 mg     |
-|----------------------------------------------------------------|-------------|--------------------------|----------------------------|
-|                                                                | 175         | every 8 weeks            | ustekinumab every 12 weeks |
-|                                                                | N =         | =                        | N = 172                    |
-|                                                                |             | N                        |                            |
-|                                                                |             | 176                      |                            |
-| Clinical                                                       | 24%         | 44% a                    | 38% b                      |
-| Remission** In patients who failed conventionaltherapy,        | 31% (27/87) | 48% (41/85) d            | 49% (50/102)               |
-| but not a biologic In patients who failed biological therapy ¥ | 17% (15/88) | 40% (36/91) c            | d 23% (16/70) d            |
-| In patients who failed conventionaltherapy, but not a biologic | 51% (44/87) | 78% (66/85) c            | 77% (78/102) c             |
-| In patients who failed biological therapy ¥                    | 39% (34/88) | 65% (59/91) c            | 56% (39/70) d              |
-| In patients who failed both a TNF and vedolizumab              | 41% (11/27) | 67% (14/21) e            | 50% (11/22) e              |
-| Mucosal Healing †                                              | 29%         | 51% a                    | 44% b                      |
-| Maintenance of Clinical Remission through week 44 £            | 38% (17/45) | 58% (22/38)              | 65% (26/40) c              |
-| Corticosteroid Free Clinical Remission €                       | 23%         | 42% a                    | 38% b                      |
-| Durable Remission ǁ                                            | 35%         | 57% c                    | 48% d                      |
-| Symptomatic Remission ‡                                        | 45%         | 68% c                    | 62% d                      |
-| Combined Symptomatic Remission and Mucosal Healing ⸸           | 28%         | 48% c                    | 41% d                      |
+|                                                                 | Placebo*    | 90 mg ustekinumab 90 mg   | 90 mg ustekinumab 90 mg    |
+|-----------------------------------------------------------------|-------------|---------------------------|----------------------------|
+|                                                                 | 175         | every 8 weeks             | ustekinumab every 12 weeks |
+|                                                                 | N =         | N =                       | N = 172                    |
+|                                                                 |             | 176                       |                            |
+| Clinical                                                        | 24%         | 44% a                     | 38% b                      |
+| Remission** In patients who failed conventional therapy,        | 31% (27/87) | 48% (41/85) d             | 49% (50/102)               |
+| but not a biologic In patients who failed biological therapy ¥  | 17% (15/88) | 40% (36/91) c             | d 23% (16/70) d            |
+| In patients who failed conventional therapy, but not a biologic | 51% (44/87) | 78% (66/85) c             | 77% (78/102) c             |
+| In patients who failed biological therapy ¥                     | 39% (34/88) | 65% (59/91) c             | 56% (39/70) d              |
+| In patients who failed both a TNF and vedolizumab               | 41% (11/27) | 67% (14/21) e             | 50% (11/22) e              |
+| Mucosal Healing †                                               | 29%         | 51% a                     | 44% b                      |
+| Maintenance of Clinical Remission through week 44 £             | 38% (17/45) | 58% (22/38)               | 65% (26/40) c              |
+| Corticosteroid Free Clinical Remission €                        | 23%         | 42% a                     | 38% b                      |
+| Durable Remission ǁ                                             | 35%         | 57% c                     | 48% d                      |
+| Symptomatic Remission ‡                                         | 45%         | 68% c                     | 62% d                      |
+| Combined Symptomatic Remission and Mucosal Healing ⸸            | 28%         | 48% c                     | 41% d                      |
 
 * Following response to IV ustekinumab.
 
-**  Clinical remission is defined as Mayo score ≤ 2 points, with no individual subscore &gt; 1.
+- **  Clinical remission is defined as Mayo score ≤ 2 points, with no individual subscore &gt; 1.
 
 § Clinical response is defined as a decrease from baseline in the Mayo score by ≥ 30% and ≥ 3 points, with either a decrease from baseline in the rectal bleeding subscore ≥ 1 or a rectal bleeding subscore of 0 or 1.
 
@@ -1184,19 +1183,19 @@ b PGA = Physician Global Assessment
 
 Table 5 Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
 
-|                                | Psoriasis Study 3                        | Psoriasis Study 3                       | Psoriasis Study 3                       |
-|--------------------------------|------------------------------------------|-----------------------------------------|-----------------------------------------|
-|                                | Etanercept 24 doses (50 mg twice a week) | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
-|                                |                                          | 45 mg                                   | 90 mg                                   |
-| Number of patients randomised  | 347                                      | 209                                     | 347                                     |
-| PASI 50 response N (%)         | 286 (82%)                                | 181 (87%)                               | 320 (92%) a                             |
-| PASI 75 response N (%)         | 197 (57%)                                | 141 (67%) b                             | 256 (74%) a                             |
-| PASI 90 response N (%)         | 80 (23%)                                 | 76 (36%) a                              | 155 (45%) a                             |
-| PGAof cleared or minimal N (%) | 170 (49%)                                | 136 (65%) a                             | 245 (71%) a                             |
-| Number of patients ≤ 100 kg    | 251                                      | 151                                     | 244                                     |
-| PASI 75 response N (%)         | 154 (61%)                                | 109 (72%)                               | 189 (77%)                               |
-| Number of patients > 100 kg    | 96                                       | 58                                      | 103                                     |
-| PASI 75 response N (%)         | 43 (45%)                                 | 32 (55%)                                | 67 (65%)                                |
+|                                 | Psoriasis Study 3                        | Psoriasis Study 3                       | Psoriasis Study 3                       |
+|---------------------------------|------------------------------------------|-----------------------------------------|-----------------------------------------|
+|                                 | Etanercept 24 doses (50 mg twice a week) | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
+|                                 |                                          | 45 mg                                   | 90 mg                                   |
+| Number of patients randomised   | 347                                      | 209                                     | 347                                     |
+| PASI 50 response N (%)          | 286 (82%)                                | 181 (87%)                               | 320 (92%) a                             |
+| PASI 75 response N (%)          | 197 (57%)                                | 141 (67%) b                             | 256 (74%) a                             |
+| PASI 90 response N (%)          | 80 (23%)                                 | 76 (36%) a                              | 155 (45%) a                             |
+| PGA of cleared or minimal N (%) | 170 (49%)                                | 136 (65%) a                             | 245 (71%) a                             |
+| Number of patients ≤ 100 kg     | 251                                      | 151                                     | 244                                     |
+| PASI 75 response N (%)          | 154 (61%)                                | 109 (72%)                               | 189 (77%)                               |
+| Number of patients > 100 kg     | 96                                       | 58                                      | 103                                     |
+| PASI 75 response N (%)          | 43 (45%)                                 | 32 (55%)                                | 67 (65%)                                |
 
 a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with etanercept.
 
@@ -1502,7 +1501,13 @@ Table 11: Summary of Key Efficacy Outcomes in UNIFI-I (week 8)
 
 - £ Infusion dose of ustekinumab using the weight-based dosage regimen specified in Table 1.
 * Clinical remission is defined as Mayo score ≤ 2 points, with no individual subscore &gt; 1.
-- § Clinical response is defined as a decrease from baseline in the Mayo score by ≥ 30% and ≥ 3 points, with either a decrease from baseline in the rectal bleeding subscore ≥ 1 or a rectal bleeding subscore of 0 or 1.
+
+§
+
+Clinical response is defined as a decrease from baseline in the Mayo score by ≥ 30% and ≥ 3 points, with either a
+
+decrease from baseline in the rectal bleeding subscore ≥ 1 or a rectal bleeding subscore of 0 or 1.
+
 - ¥ A TNFα antagonist and/or vedolizumab.
 - † Mucosal healing is defined as a Mayo endoscopic subscore of 0 or 1.
 - ‡ Symptomatic remission is defined as a Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0.
@@ -1517,27 +1522,27 @@ Significantly greater proportions of patients were in clinical remission in both
 
 Table 12: Summary of Key Efficacy Measures in UNIFI-M (week 44; 52 weeks from initiation of the induction dose)
 
-|                                                                | Placebo*    | 90 mgustekinumab every 8 weeks 90 mg   | 90 mgustekinumab every 8 weeks 90 mg   |
-|----------------------------------------------------------------|-------------|----------------------------------------|----------------------------------------|
-|                                                                | N = 175     | N = 176                                | ustekinumab every 12 weeks N = 172     |
-| Clinical Remission**                                           | 24%         | 44% a                                  | 38% b                                  |
-| In patients who failed conventionaltherapy, but not a biologic | 31% (27/87) | 48% (41/85) d                          | 49% (50/102) d                         |
-| In patients who failed biological therapy ¥                    | 17% (15/88) | 40% (36/91) c                          | 23% (16/70) d                          |
-| In patients who failed both a TNF and vedolizumab              | 15% (4/27)  | 33% (7/21) e                           | 23% (5/22) e                           |
+|                                                                 | Placebo*    | 90 mg ustekinumab every 8 weeks 90 mg   | 90 mg ustekinumab every 8 weeks 90 mg   |
+|-----------------------------------------------------------------|-------------|-----------------------------------------|-----------------------------------------|
+|                                                                 | N = 175     | N = 176                                 | ustekinumab every 12 weeks N = 172      |
+| Clinical Remission**                                            | 24%         | 44% a                                   | 38% b                                   |
+| In patients who failed conventional therapy, but not a biologic | 31% (27/87) | 48% (41/85) d                           | 49% (50/102) d                          |
+| In patients who failed biological therapy ¥                     | 17% (15/88) | 40% (36/91) c                           | 23% (16/70) d                           |
+| In patients who failed both a TNF and vedolizumab               | 15% (4/27)  | 33% (7/21) e                            | 23% (5/22) e                            |
 
 <div style=\"page-break-after: always\"></div>
 
-| Maintenance of Clinical Response through week 44 §             | 45%         | 71% a         | 68% a          |
-|----------------------------------------------------------------|-------------|---------------|----------------|
-| In patients who failed conventionaltherapy, but not a biologic | 51% (44/87) | 78% (66/85) c | 77% (78/102) c |
-| In patients who failed biological therapy ¥                    | 39% (34/88) | 65% (59/91) c | 56% (39/70) d  |
-| In patients who failed both a TNF and vedolizumab              | 41% (11/27) | 67% (14/21) e | 50% (11/22) e  |
-| Mucosal Healing †                                              | 29%         | 51% a         | 44% b          |
-| Maintenance of Clinical Remission through week 44 £            | 38% (17/45) | 58% (22/38)   | 65% (26/40) c  |
-| Corticosteroid Free Clinical Remission €                       | 23%         | 42% a         | 38% b          |
-| Durable Remission ǁ                                            | 35%         | 57% c         | 48% d          |
-| Symptomatic Remission ‡                                        | 45%         | 68% c         | 62% d          |
-| Combined Symptomatic Remission and Mucosal Healing ⸸           | 28%         | 48% c         | 41% d          |
+| Maintenance of Clinical Response through week 44 §              | 45%         | 71% a         | 68% a          |
+|-----------------------------------------------------------------|-------------|---------------|----------------|
+| In patients who failed conventional therapy, but not a biologic | 51% (44/87) | 78% (66/85) c | 77% (78/102) c |
+| In patients who failed biological therapy ¥                     | 39% (34/88) | 65% (59/91) c | 56% (39/70) d  |
+| In patients who failed both a TNF and vedolizumab               | 41% (11/27) | 67% (14/21) e | 50% (11/22) e  |
+| Mucosal Healing †                                               | 29%         | 51% a         | 44% b          |
+| Maintenance of Clinical Remission through week 44 £             | 38% (17/45) | 58% (22/38)   | 65% (26/40) c  |
+| Corticosteroid Free Clinical Remission €                        | 23%         | 42% a         | 38% b          |
+| Durable Remission ǁ                                             | 35%         | 57% c         | 48% d          |
+| Symptomatic Remission ‡                                         | 45%         | 68% c         | 62% d          |
+| Combined Symptomatic Remission and Mucosal Healing ⸸            | 28%         | 48% c         | 41% d          |
 
 * Following response to IV ustekinumab.
 - **  Clinical remission is defined as Mayo score ≤ 2 points, with no individual subscore &gt; 1.
@@ -1697,11 +1702,11 @@ Usgena 45 mg solution for injection
 
 Usgena 45 mg solution for injection in pre-filled syringe
 
-3 years
+4 years
 
 Usgena 90 mg solution for injection in pre-filled syringe
 
-3 years
+4 years
 
 Individual pre-filled syringes may be stored at room temperature up to 30 °C for a maximum single period of up to 30 days in the original carton in order to protect from light. Once removed from the refrigerator, record the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a syringe has been stored at room temperature (up to 30 °C), it should not be returned to the refrigerator. Discard the syringe if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
 
@@ -1723,7 +1728,7 @@ Pack size: 1 vial
 
 Usgena 45 mg solution for injection in pre-filled syringe
 
-0.5 mL solution for injection in a pre-filled type I glass 1 mL syringe with a fixed 29-gauge, extended finger flanges and passive safety needle device, and a plunger stopper (bromobutyl rubber), plunger rod and rigid needle shield (RNS).
+0.5 mL solution for injection in a pre-filled type I glass 1 mL syringe with a fixed 29-gauge needle, extended finger flanges and passive safety needle device, and a plunger stopper (bromobutyl rubber), plunger rod and rigid needle shield (RNS).
 
 Pack size: 1 pre-filled syringe
 
@@ -1731,7 +1736,7 @@ Pack size: 1 pre-filled syringe
 
 Usgena 90 mg solution for injection in pre-filled syringe
 
-1 mL solution for injection in a pre-filled syringe type I glass 1 mL syringe with a fixed 29-gauge needle, extended finger flanges and passive needle, safety device and a plunger stopper (bromobutyl rubber), plunger rod and rigid needle shield (RNS).
+1 mL solution for injection in a pre-filled type I glass 1 mL syringe with a fixed 29-gauge needle, extended finger flanges and passive safety needle device and a plunger stopper (bromobutyl rubber), plunger rod and rigid needle shield (RNS).
 
 Pack sizes: 1 or 2 pre-filled syringe(s).
 
@@ -1907,7 +1912,7 @@ Lot
 
 Justification for not including in Braille accepted.
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2010,8 +2015,8 @@ Keep the vial in the outer carton in order to protect from light.
 | 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATION HOLDER   |
-|-------|-------------------------------------------------------|
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
@@ -2041,8 +2046,8 @@ USGENA 45 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
@@ -2050,17 +2055,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| VIAL LABEL (45 mg)                                              |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL (45 mg)                                                 |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Usgena 45 mg injection ustekinumab SC
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2072,8 +2077,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 45 mg/0.5 mL
 
@@ -2180,7 +2185,8 @@ NN
 
 Usgena 45 mg solution for injection in pre-filled syringe ustekinumab
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 STADA Arzneimittel AG
 
@@ -2193,7 +2199,8 @@ EXP
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 For storage information, see leaflet.
 
@@ -2201,17 +2208,17 @@ For storage information, see leaflet.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING   |
-|-----------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL (45 mg)                          |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL (45 mg)                                   |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Usgena 45 mg injection ustekinumab SC
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2223,8 +2230,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 45 mg/0.5 mL
 
@@ -2345,8 +2352,7 @@ STADA Arzneimittel AG
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -2358,17 +2364,17 @@ For storage information, see leaflet.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL (90 mg)                                |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL (90 mg)                                   |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Usgena 90 mg injection ustekinumab SC
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2380,8 +2386,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 90 mg/1 mL
 
@@ -2718,9 +2724,7 @@ Tel: +420 257888111
 
 ## Magyarország
 
-STADA Hungary Kft
-
-Tel.: +36 18009747
+STADA Hungary Kft Tel.: +36 18009747
 
 ## Danmark
 
@@ -2758,9 +2762,9 @@ Tlf: +45 44859999
 
 ## Ελλάδα
 
-DEMO S.A. Pharmaceutical Industry
+RAFARM A.E.B.E.
 
-Τηλ: +30 2108161802
+Τηλ: +30 2106776550
 
 ## España
 
@@ -2800,9 +2804,9 @@ Tel: +39 028310371
 
 ## Κύπρος
 
-DEMO S.A. Pharmaceutical Industry
+STADA Arzneimittel AG
 
-Τηλ: +30 2108161802
+Τηλ: +30 2106664667
 
 ## Latvija
 
@@ -3225,9 +3229,7 @@ STADA Bulgaria EOOD Teл.: +359 29624626
 
 ## Česká republika
 
-STADA PHARMA CZ s.r.o.
-
-Tel: +420 257888111
+STADA PHARMA CZ s.r.o. Tel: +420 257888111
 
 ## Danmark
 
@@ -3235,15 +3237,19 @@ STADA Nordic ApS Tlf: +45 44859999
 
 ## Deutschland
 
-STADAPHARM GmbH Tel: +49 61016030
+STADAPHARM GmbH
+
+Tel: +49 61016030
 
 ## Eesti
 
-UAB 'STADA Baltics' Tel: +372 53072153
+UAB 'STADA Baltics'
+
+Tel: +372 53072153
 
 ## Ελλάδα
 
-DEMO S.A. Pharmaceutical Industry Τηλ: +30 2108161802
+RAFARM A.E.B.E. Τηλ: +30 2106776550
 
 ## España
 
@@ -3273,13 +3279,15 @@ Sími: +49 61016030
 
 ## Italia
 
-EG SpA Tel: +39 028310371
+EG SpA
+
+Tel: +39 028310371
 
 ## Κύπρος
 
-DEMO S.A. Pharmaceutical Industry
+STADA Arzneimittel AG
 
-Τηλ: +30 2108161802
+Τηλ: +30 2106664667
 
 ## Latvija
 
@@ -3349,7 +3357,9 @@ Tel: +386 15896710
 
 ## Slovenská republika
 
-STADA PHARMA Slovakia, s.r.o. Tel: +421 252621933
+STADA PHARMA Slovakia, s.r.o.
+
+Tel: +421 252621933
 
 ## Suomi/Finland
 
@@ -3822,7 +3832,7 @@ UAB 'STADA Baltics' Tel: +372 53072153
 
 ## Ελλάδα
 
-DEMO S.A. Pharmaceutical Industry Τηλ: +30 2108161802
+RAFARM A.E.B.E. Τηλ: +30 2106776550
 
 ## España
 
@@ -3842,9 +3852,19 @@ Tel: +385 13764111
 
 Clonmel Healthcare Ltd. Tel: +353 526177777
 
-Ísland STADA Arzneimittel AG Sími: +49 61016030 Italia EG SpA Tel: +39 028310371
+## Ísland
 
-Κύπρος DEMO S.A. Pharmaceutical Industry Τηλ: +30 2108161802
+STADA Arzneimittel AG
+
+Sími: +49 61016030
+
+## Italia
+
+EG SpA Tel: +39 028310371
+
+Κύπρος STADA Arzneimittel AG
+
+Τηλ: +30 2106664667
 
 ## Lietuva
 
@@ -3858,7 +3878,9 @@ Magyarország STADA Hungary Kft Tel.: +36 18009747
 
 ## Malta
 
-Pharma.MT Ltd Tel: +356 21337008
+Pharma.MT Ltd
+
+Tel: +356 21337008
 
 ## Nederland
 
@@ -3886,13 +3908,21 @@ Tel: +351 211209870
 
 ## România
 
-STADA M&amp;D SRL Tel: +40 213160640
+STADA M&amp;D SRL
 
-Slovenija Stada d.o.o. Tel: +386 15896710
+Tel: +40 213160640
 
-Slovenská republika
+## Slovenija
 
-STADA PHARMA Slovakia, s.r.o. Tel: +421 252621933
+Stada d.o.o.
+
+Tel: +386 15896710
+
+## Slovenská republika
+
+STADA PHARMA Slovakia, s.r.o.
+
+Tel: +421 252621933
 
 ## Suomi/Finland
 
@@ -3940,7 +3970,7 @@ At the start of treatment, your healthcare provider will assist you with your fi
 - Do not mix Usgena with other liquids for injection
 - Do not shake Usgena pre-filled syringes. This is because shaking may damage the medicine. Do not use the medicine if it has been shaken vigorously. Get a new pre-filled syringe.
 
-Check the pre-filled syringe(s) to make sure:
+## Check the pre-filled syringe(s) to make sure:
 
 - the number of pre-filled syringes and strength is correct
 - o If your dose is 45 mg, you will get one 45 mg pre-filled syringe of Usgena
@@ -4083,7 +4113,9 @@ Figure 10
 
 ## Package leaflet: Information for the user
 
-## Usgena 90 mg solution for injection in pre-filled syringe ustekinumab
+## Usgena 90 mg solution for injection in pre-filled syringe
+
+## ustekinumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -4409,7 +4441,9 @@ STADA Arzneimittel AG Stadastrasse 2-18 61118 Bad Vilbel Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien EG (Eurogenerics) NV Tél/Tel: +32 24797878
+## België/Belgique/Belgien
+
+EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
 ## България
 
@@ -4417,7 +4451,11 @@ STADA Bulgaria EOOD
 
 Teл.: +359 29624626
 
-Česká republika STADA PHARMA CZ s.r.o. Tel: +420 257888111
+## Česká republika
+
+STADA PHARMA CZ s.r.o.
+
+Tel: +420 257888111
 
 ## Danmark
 
@@ -4433,7 +4471,7 @@ UAB 'STADA Baltics' Tel: +372 53072153
 
 ## Ελλάδα
 
-DEMO S.A. Pharmaceutical Industry Τηλ: +30 2108161802
+RAFARM A.E.B.E. Τηλ: +30 2106776550
 
 ## España
 
@@ -4443,13 +4481,25 @@ Laboratorio STADA, S.L. Tel: +34 934738889
 
 EG LABO - Laboratoires EuroGenerics Tél: +33 146948686
 
-Hrvatska STADA d.o.o. Tel: +385 13764111
+## Hrvatska
+
+STADA d.o.o.
+
+Tel: +385 13764111
 
 ## Ireland
 
 Clonmel Healthcare Ltd. Tel: +353 526177777
 
-Ísland STADA Arzneimittel AG Sími: +49 61016030 Italia EG SpA Tel: +39 028310371
+## Ísland
+
+STADA Arzneimittel AG
+
+Sími: +49 61016030
+
+## Italia
+
+EG SpA Tel: +39 028310371
 
 ## Lietuva
 
@@ -4459,9 +4509,9 @@ UAB 'STADA Baltics' Tel: +370 52603926
 
 EG (Eurogenerics) NV Tél/Tel: +32 24797878
 
-Magyarország STADA Hungary Kft
+## Magyarország
 
-Tel.: +36 18009747
+STADA Hungary Kft Tel.: +36 18009747
 
 ## Malta
 
@@ -4499,7 +4549,11 @@ Stada d.o.o.
 
 Tel: +386 15896710
 
-Slovenská republika STADA PHARMA Slovakia, s.r.o. Tel: +421 252621933
+## Slovenská republika
+
+STADA PHARMA Slovakia, s.r.o.
+
+Tel: +421 252621933
 
 ## Suomi/Finland
 
@@ -4507,15 +4561,9 @@ STADA Nordic ApS, Suomen sivuliike Puh/Tel: +358 207416888
 
 <div style=\"page-break-after: always\"></div>
 
-DEMO S.A. Pharmaceutical Industry
+Κύπρος STADA Arzneimittel AG Τηλ: +30 2106664667
 
-Κύπρος Τηλ: +30 2108161802
-
-Latvija
-
-UAB 'STADA Baltics'
-
-Tel: +371 28016404
+Latvija UAB 'STADA Baltics' Tel: +371 28016404
 
 ## This leaflet was last revised in
 
@@ -4523,9 +4571,9 @@ Tel: +371 28016404
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-Sverige STADA Nordic ApS
+Sverige
 
-Tel: +45 44859999
+STADA Nordic ApS Tel: +45 44859999
 
 <div style=\"page-break-after: always\"></div>
 

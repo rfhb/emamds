@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-24 14:23:33
-document_pages: 34
+document_datetime: 2026-08-13 08:58:36
+document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lupkynis-epar-product-information_en.pdf
 document_name: lupkynis-epar-product-information_en.pdf
 version: success
-processing_time: 8.0606997
-conversion_datetime: 2025-12-25 11:11:45.557816
+processing_time: 7.6044096
+conversion_datetime: 2026-08-17 13:34:32.047869
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.120.2
+  docling-core: 2.91.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.13.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -68,21 +68,23 @@ Physicians should evaluate the efficacy of treatment at a time point of at least
 
 ## Dose adjustment based on eGFR
 
-It is recommended to establish a baseline estimated glomerular filtration rate (eGFR) before starting treatment with voclosporin, and assess every two weeks for the first month, and every four weeks
+It is recommended to establish a baseline estimated glomerular filtration rate (eGFR) before starting treatment with voclosporin, and assess every two weeks for the first month, and every four weeks thereafter.
 
 <div style=\"page-break-after: always\"></div>
 
-thereafter.
-
-Dose adjustments are required for those individuals whose eGFR is confirmed to be reduced (i.e., two consecutive assessments within 48 hours) and below 60 mL/min/1.73 m 2 . If eGFR remains ≥ 60 mL/min/1.73 m 2  no dose modification is required (see table 1).
+Dose adjustments are required for those individuals whose eGFR is confirmed to be reduced (i.e., two consecutive assessments within 48 hours) and below 60 mL/min/1.73 m 2 . If eGFR remains ≥ 60 mL/min/1.73 m 2 no dose modification is required (see table 1).
 
 Table 1: Recommended dose adjustments based on eGFR
 
 | Confirmed eGFR decrease from baseline 1   | Recommendation                                                                                                                                                                      |
 |-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ≥ 30 %reduction                           | Stop administration of voclosporin. Restart treatment upon eGFR recovery at 7.9 mg (1 capsule) twice daily and increase as tolerated based on renal function.                       |
-| > 20 %and < 30% reduction                 | Reduce dose of voclosporin by 7.9 mg (1 capsule) twice daily. Retest within two weeks; if eGFR decrease has not recovered, reduce dose by further 7.9 mg (one capsule) twice daily. |
-| ≤ 20 %reduction                           | Maintain current dose and monitor.                                                                                                                                                  |
+| ≥ 30 % reduction                          | Stop administration of voclosporin. Restart treatment upon eGFR recovery at 7.9 mg (1 capsule) twice daily and increase as tolerated based on renal function.                       |
+| > 20 % and < 30 % reduction               | Reduce dose of voclosporin by 7.9 mg (1 capsule) twice daily. Retest within two weeks; if eGFR decrease has not recovered, reduce dose by further 7.9 mg (one capsule) twice daily. |
+| ≤ 20 % reduction                          | Maintain current dose and monitor.                                                                                                                                                  |
+
+1
+
+If eGFR remains ≥ 60 mL/min/1.73 m 2 no action is required
 
 It is recommended that patients requiring a reduction in dose are reassessed for eGFR recovery within two weeks. For patients that had a decrease in dose due to eGFR reduction, increasing the dose by 7.9 mg twice a day for each eGFR measurement that is ≥ 80 % of baseline should be considered; the starting dose should not be exceeded.
 
@@ -302,12 +304,14 @@ Table 3: Adverse reactions
 | General disorders and administration site conditions |                                          | Fatigue                                                                   |                  |
 
 - 1 Includes the following Preferred Terms (PTs): viral upper respiratory tract infection and upper respiratory tract infection bacterial
-- 2 Includes the following PTs: blood pressure increased, blood pressure diastolic increased, diastolic hypertension
+- 2 Includes the following PTs: blood pressure increased, blood pressure diastolic increased, diastolic
+- hypertension
 - 3 Includes the following PTs: abdominal pain upper, abdominal discomfort
 - 4 Includes the following PTs: gingivitis, gingival bleeding, gingival hypertrophy, gingival swelling
 - 5 Includes the following PTs: hypertrichosis, hirsutism
 - 6 Includes the PT renal impairment
-- 7 Includes the PT blood creatinine increased
+
+7 Includes the PT blood creatinine increased
 
 <div style=\"page-break-after: always\"></div>
 
@@ -335,11 +339,9 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-Cases of accidental overdose have been reported with voclosporin; symptoms included tremor and
+Cases of accidental overdose have been reported with voclosporin; symptoms included tremor and tachycardia. In an interaction study in healthy volunteers, co-administration of ketoconazole and voclosporin resulted in an 18.6-fold increase in voclosporin exposure and increases in serum creatinine, decreases in serum magnesium and increases in blood pressure were observed. Symptoms of overdose with other calcineurin inhibitors (but not observed with voclosporin) include headache, nausea and vomiting, infections, urticaria, lethargy, changes in electrolyte levels and increases in blood urea nitrogen, and alanine aminotransferase.
 
 <div style=\"page-break-after: always\"></div>
-
-tachycardia. In an interaction study in healthy volunteers, co-administration of ketoconazole and voclosporin resulted in an 18.6-fold increase in voclosporin exposure and increases in serum creatinine, decreases in serum magnesium and increases in blood pressure were observed. Symptoms of overdose with other calcineurin inhibitors (but not observed with voclosporin) include headache, nausea and vomiting, infections, urticaria, lethargy, changes in electrolyte levels and increases in blood urea nitrogen, and alanine aminotransferase.
 
 No specific antidote to voclosporin therapy is available. If overdose occurs, general supportive measures and symptomatic treatment should be conducted, including temporarily stopping treatment with voclosporin and assessing blood urea nitrogen, serum creatinine, eGFR and alanine aminotransferase levels.
 
@@ -383,22 +385,22 @@ More patients in the voclosporin arm than the placebo arm achieved the primary e
 
 Table 4: AURORA 1 - Summary of key efficacy endpoints
 
-|                                    | Voclosporin (n = 179) n (%)   | Placebo (n = 178) n (%)   | Odds ratio vs. placebo (95 %CI)   | p-value   |
-|------------------------------------|-------------------------------|---------------------------|-----------------------------------|-----------|
-| Renal response at week 52          | 73 (40.8)                     | 40 (22.5)                 | 2.65 (1.64, 4.27)                 | < 0.001   |
-| Renal response at week 24          | 58 (32.4)                     | 35 (19.7)                 | 2.23 (1.34, 3.72)                 | = 0.002   |
-| Partial renal response* at week 24 | 126 (70.4)                    | 89 (50.0)                 | 2.43 (1.56, 3.79)                 | < 0.001   |
-| Partial renal response* at week 52 | 125 (69.8)                    | 92 (51.7)                 | 2.26 (1.45, 3.51)                 | < 0.001   |
+|                                    | Voclosporin (n = 179) n (%)   | Placebo (n = 178) n (%)   | Odds ratio vs. placebo (95 % CI)   | p-value   |
+|------------------------------------|-------------------------------|---------------------------|------------------------------------|-----------|
+| Renal response at week 52          | 73 (40.8)                     | 40 (22.5)                 | 2.65 (1.64, 4.27)                  | < 0.001   |
+| Renal response at week 24          | 58 (32.4)                     | 35 (19.7)                 | 2.23 (1.34, 3.72)                  | = 0.002   |
+| Partial renal response* at week 24 | 126 (70.4)                    | 89 (50.0)                 | 2.43 (1.56, 3.79)                  | < 0.001   |
+| Partial renal response* at week 52 | 125 (69.8)                    | 92 (51.7)                 | 2.26 (1.45, 3.51)                  | < 0.001   |
 
 Notes: CI = Confidence interval; UPCR = Urine protein to creatinine ratio
 
 The overall proportion of patients that achieved each of the components assessed for the primary endpoint at 52 weeks in the voclosporin vs placebo arm were:
 
-| - urine protein to creatinine ratio (UPCR) ≤ 0.5 mg/mg:                                                                                           | 45.3 %vs 23.0%   |
-|---------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
-| - with normal, stable renal function (defined as eGFR ≥ 60 mL/min/1.73 m 2 or no confirmed decrease from baseline in eGFR of > 20 %):             | 82.1 %vs. 75.8%  |
-| - in the presence of sustained, low- dose steroids (not more than 10 mg for ≥ 3 consecutive days or for ≥ 7 days in total during weeks 44 to 52): | 87.2 %vs. 85.4%  |
-| - and received no rescue medication for LN:                                                                                                       | 91.1 %vs. 86.5%  |
+| - urine protein to creatinine ratio (UPCR) ≤ 0.5 mg/mg:                                                                                           | 45.3 % vs 23.0 %   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| - with normal, stable renal function (defined as eGFR ≥ 60 mL/min/1.73 m 2 or no confirmed decrease from baseline in eGFR of > 20 %):             | 82.1 % vs. 75.8 %  |
+| - in the presence of sustained, low- dose steroids (not more than 10 mg for ≥ 3 consecutive days or for ≥ 7 days in total during weeks 44 to 52): | 87.2 % vs. 85.4 %  |
+| - and received no rescue medication for LN:                                                                                                       | 91.1 % vs. 86.5 %  |
 
 More patients in the voclosporin arm than the placebo arm achieved UPCR ≤ 0.5 mg/mg (64.8 % vs. 43.8 %) and the time to UPCR ≤ 0.5 mg/mg was significantly shorter for voclosporin treatment (median time: 169 days vs. 372 days for placebo treatment; hazard ratio (HR) 2.02; 95 % CI: 1.51, 2.70; p &lt; 0.001).
 
@@ -486,11 +488,9 @@ In a 39-week oral toxicology study with cynomolgus monkeys, malignant lymphomas 
 
 No mutagenic or genotoxic effects of voclosporin were observed in conventional genotoxicity studies.
 
-In a 2-year mouse carcinogenicity study with oral voclosporin, an increased incidence of malignant lymphoma was observed at the highest dose tested (30 mg/kg/day; approximately 7.5-times the MRHD on a medicinal product exposure (AUC) basis). This result is considered secondary to
+In a 2-year mouse carcinogenicity study with oral voclosporin, an increased incidence of malignant lymphoma was observed at the highest dose tested (30 mg/kg/day; approximately 7.5-times the MRHD on a medicinal product exposure (AUC) basis). This result is considered secondary to voclosporin-related immune suppression. The NOAEL was 10 mg/kg/day (approximately 1-times the MRHD on medicinal product exposure (AUC) basis).
 
 <div style=\"page-break-after: always\"></div>
-
-voclosporin-related immune suppression. The NOAEL was 10 mg/kg/day (approximately 1-times the MRHD on medicinal product exposure (AUC) basis).
 
 In a rat fertility study with a 50:50 mixture of voclosporin and its cis-isomer, decreases in male reproductive organ weights, including the cauda epididymis, epididymis, seminal vesicles, prostate, and testes were noted at a dose of 25 mg/kg/day. The NOAEL for these findings was 10 mg/kg/day (approximately 5-times the MRHD on medicinal product exposure (AUC) basis). Mating and fertility parameters, sperm motility, count and density, number of estrous stages per 14 days, and caesarean sectioning parameters were not affected. Decreases in prostate and testes weights were also observed in the 13-week and 26-week repeat-dose toxicity studies with oral 50:50 mixture of voclosporin and its cis-isomer at doses of 25 mg/kg/day and 10 mg/kg/day, or 18-times and 7-times the MRHD, on medicinal product exposure (AUC) basis. The NOAEL for these effects in the 26-week repeat-dose study was 2.5 mg/kg/day (approximately 1-times the MRHD on medicinal product exposure (AUC) basis).
 
@@ -510,11 +510,9 @@ Ethanol Vitamin E (E307) polyethylene glycol succinate (tocofersolan) Polysorbat
 
 Capsule shell
 
-Gelatin Sorbitol
+Gelatin Sorbitol Glycerin Purified water Titanium dioxide (E171) Iron oxide, red (E172) Iron oxide, yellow (E172)
 
 <div style=\"page-break-after: always\"></div>
-
-Glycerin Purified water Titanium dioxide (E171) Iron oxide, red (E172) Iron oxide, yellow (E172)
 
 Processing aids
 
@@ -529,6 +527,8 @@ Not applicable
 4 years
 
 ## 6.4 Special precautions for storage
+
+Store below 25 °C.
 
 Store in the original blister in order to protect from moisture.
 
@@ -618,7 +618,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lupkynis 7.9 mg soft capsules voclosporin
+Lupkynis 7.9 mg soft capsules
+
+voclosporin
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
@@ -656,6 +658,8 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+Store below 25 °C.
+
 Store in the original blister in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
@@ -668,9 +672,7 @@ Otsuka Pharmaceutical Netherlands B.V. Herikerbergweg 292 1101 CT Amsterdam Neth
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/22/1678/001 (180 soft capsules)
-
-EU/1/22/1678/002 (576 soft capsules)
+EU/1/22/1678/001 (180 soft capsules) EU/1/22/1678/002 (576 soft capsules)
 
 ## 13. BATCH NUMBER
 
@@ -690,23 +692,25 @@ lupkynis 7.9 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Lupkynis 7.9 mg capsule voclosporin
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Otsuka
 
@@ -722,6 +726,8 @@ Lot
 
 | 5.   | OTHER   |
 |------|---------|
+
+24
 
 <div style=\"page-break-after: always\"></div>
 
@@ -945,6 +951,8 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and blister after 'EXP'. The expiry date refers to the last day of that month.
 
+Store below 25 °C.
+
 Store in the original blister in order to protect from moisture.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
@@ -970,23 +978,23 @@ Lupkynis 7.9 mg pink/orange, soft capsules measuring approximately 13 mm × 6 mm
 
 ## Marketing Authorisation Holder
 
-Otsuka Pharmaceutical Netherlands B.V. Herikerbergweg 292 1101 CT Amsterdam
-
-Netherlands
+Otsuka Pharmaceutical Netherlands B.V. Herikerbergweg 292 1101 CT Amsterdam Netherlands
 
 ## Manufacturer
 
-Millmount Healthcare Limited Block-7, City North Business Campus, Stamullen, Co. Meath, K32 YD60, Ireland
+Block-7, City North Business Campus, Stamullen, Co. Meath, K32 YD60,
+
+Millmount Healthcare Limited Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Otsuka Pharma Scandinavia AB Tél/Tel: +46 (0) 8 545 286 60
+België/Belgique/Belgien Otsuka Pharma Scandinavia AB
 
-## Lietuva
+Lietuva
 
 Otsuka Pharmaceutical Netherlands B.V.
 
-Tel: +31 (0) 20 85 46 555
+Tél/Tel: +46 (0) 8 545 286 60
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1045,6 +1053,8 @@ Otsuka Pharmaceutical Netherlands B.V. Thλ: +31 (0) 20 85 46 555
 ## Latvija
 
 Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+
+Tel: +31 (0) 20 85 46 555
 
 ## Luxembourg/Luxemburg
 
@@ -1105,25 +1115,3 @@ Otsuka Pharma Scandinavia AB Tel: +46 (0) 8 545 286 60
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/. There are also links to other websites about rare diseases and treatments.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for voclosporin, the scientific conclusions of PRAC are as follows:
-
-In view of available data on fatigue from clinical trials, spontaneous reports including in 237 cases with a close temporal relationship, 10 cases with positive de-challenge, the PRAC considers a causal relationship between voclosporin and fatigue is at least a reasonable possibility. The PRAC concluded that the product information of products containing voclosporin should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the Marketing Authorisation(s)
-
-On the basis of the scientific conclusions for voclosporin the CHMP is of the opinion that the benefitrisk balance of the medicinal product(s) containing voclosporin is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the Marketing Authorisation(s) should be varied.

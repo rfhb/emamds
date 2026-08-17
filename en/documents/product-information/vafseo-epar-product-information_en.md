@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-24 11:54:45
+document_datetime: 2026-08-14 11:11:26
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vafseo-epar-product-information_en.pdf
 document_name: vafseo-epar-product-information_en.pdf
 version: success
-processing_time: 9.017468
-conversion_datetime: 2026-03-29 12:36:39.276399
+processing_time: 12.7088326
+conversion_datetime: 2026-08-17 13:32:49.015585
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.120.2
+  docling-core: 2.91.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.13.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -108,10 +108,10 @@ Treatment should not be continued beyond 24 weeks of therapy if a clinically mea
 
 <div style=\"page-break-after: always\"></div>
 
-| Change in Hb Value                                                                | Less than 10 g/dL                                   | 10 to 12 g/dL                      | Greater than 12 g/dL but less than 13 g/dL   | 13 g/dL or greater                                                                                                                                                                  |
-|-----------------------------------------------------------------------------------|-----------------------------------------------------|------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| No rise in Hb greater than 1 g/dL in 2-week period or more than 2 g/dL in 4 weeks | 150 mg increase if no dose increase in past 4 weeks | Maintain dose                      | 150 mg reduction                             | Interrupt the dose of Vafseo until Hb is less than or equal to 12 g/dL then resume with dose that is 150 mg less than dose prior to interruption. If patient was on 150 mg prior to |
-| Hb rise more than 1 g/dL in any 2-week period or more than 2 g/dL in 4 weeks      | 150 mg reduction or maintain* dose                  | 150 mg reduction or maintain* dose | 150 mg reduction                             | interruption, then resume with 150 mg.                                                                                                                                              |
+| Change in Hb Value                                                                | Less than 10 g/dL                                   | 10 to 12 g/dL                      | Greater than 12 g/dL but less than 13 g/dL   | 13 g/dL or greater                                                                                                                                |
+|-----------------------------------------------------------------------------------|-----------------------------------------------------|------------------------------------|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| No rise in Hb greater than 1 g/dL in 2-week period or more than 2 g/dL in 4 weeks | 150 mg increase if no dose increase in past 4 weeks | Maintain dose                      | 150 mg reduction                             | Interrupt the dose of Vafseo until Hb is less than or equal to 12 g/dL then resume with dose that is 150 mg less than dose prior to interruption. |
+| Hb rise more than 1 g/dL in any 2-week period or more than 2 g/dL in 4 weeks      | 150 mg reduction or maintain* dose                  | 150 mg reduction or maintain* dose | 150 mg reduction                             | If patient was on 150 mg prior to interruption, then resume with 150 mg.                                                                          |
 
 ## Monitoring
 
@@ -402,6 +402,8 @@ The two studies INNO2VATE 1 and INNO2VATE 2 were conducted in adult DD-CKD patie
 
 Figure 1: Mean (+/-SD) of change from baseline in Hb (g/dL) for INNO2VATE 1 correction
 
+4
+
 <!-- image -->
 
 Figure 2: Mean (+/-SD) of change from baseline in Hb (g/dL) for INNO2VATE 2 conversion
@@ -453,7 +455,7 @@ The half-life of vadadustat in DD-CKD patients was 9.2 hours. After a single ora
 
 ## Pharmacokinetics in special populations
 
-Renal impairment
+## Renal impairment
 
 <div style=\"page-break-after: always\"></div>
 
@@ -499,7 +501,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-4 years
+5 years
 
 ## 6.4 Special precautions for storage
 
@@ -531,9 +533,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Medice Arzneimittel Pütter GmbH &amp; Co. KG
+Medice Arzneimittel Pütter GmbH &amp; Co. KG Kuhloweg 37 D-58638 Iserlohn Germany
 
-Kuhloweg 37 D-58638 Iserlohn Germany tel +49 2371 937-0
+tel +49 2371 937-0
 
 fax +49 2371 937-106
 
@@ -613,7 +615,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vafseo 150 mg film-coated tablets vadadustat
+Vafseo 150 mg film-coated tablets
+
+vadadustat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -631,9 +635,7 @@ Each film-coated tablet contains 150 mg vadadustat
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use
+Read the package leaflet before use. Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -651,7 +653,8 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -663,23 +666,28 @@ EU/1/23/1725/001 EU/1/23/1725/002 EU/1/23/1725/003 EU/1/23/1725/004 EU/1/23/1725
 
 EU/1/23/1725/006
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Vafseo 150 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN
 
@@ -687,17 +695,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Vafseo 150 mg film-coated tablets vadadustat
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Medice
 
@@ -720,7 +728,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vafseo 300 mg film-coated tablets vadadustat
+Vafseo 300 mg film-coated tablets
+
+vadadustat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -796,17 +806,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Vafseo 300 mg film-coated tablets vadadustat
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Medice
 
@@ -829,7 +839,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vafseo 450 mg film-coated tablets vadadustat
+Vafseo 450 mg film-coated tablets
+
+vadadustat
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -905,17 +917,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Vafseo 450 mg film-coated tablets vadadustat
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Medice
 
@@ -936,13 +948,13 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
-Vafseo 150 mg film-coated tablets Vafseo 300 mg film-coated tablets Vafseo 450 mg film-coated tablets vadadustat
+<div style=\"page-break-after: always\"></div>
+
+Vafseo 150 mg film-coated tablets Vafseo 300 mg film-coated tablets Vafseo 450 mg film-coated tablets
+
+vadadustat
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -1077,11 +1089,9 @@ It is important that your doctor regularly checks the amount of haemoglobin in y
 
 ## Phosphate binders and Vafseo
 
-If you are treated with phosphate binders which do not include iron (such as sevelamer carbonate or calcium acetate) or medicines containing calcium, magnesium or aluminium you should take Vafseo at least 1 hour before or 2 hours after taking those medicines, because otherwise vadadustat will not be
+If you are treated with phosphate binders which do not include iron (such as sevelamer carbonate or calcium acetate) or medicines containing calcium, magnesium or aluminium you should take Vafseo at least 1 hour before or 2 hours after taking those medicines, because otherwise vadadustat will not be properly absorbed by your body. If the phosphate binder you are taking contains iron, see the information below.
 
 <div style=\"page-break-after: always\"></div>
-
-properly absorbed by your body. If the phosphate binder you are taking contains iron, see the information below.
 
 ## Iron containing products and Vafseo
 
@@ -1259,8 +1269,6 @@ Tlf.: + 45 5786 2525
 
 MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel: + 49 2371 937 0
 
-<div style=\"page-break-after: always\"></div>
-
 ## Deutschland
 
 MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel.: + 49 2371 937 0
@@ -1285,7 +1293,9 @@ MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tél: + 49 2371 937 0
 
 ## Hrvatska
 
-Er-Kim Pharmaceuticals Inc. Tel: + 359 879 544 711
+Er-Kim Pharmaceuticals Inc.
+
+Tel: + 359 879 544 711
 
 ## Ireland
 
@@ -1301,7 +1311,11 @@ MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel: + 49 2371 937 0
 
 ## Κύπρος
 
-Specialty Therapeutics IKE Τηλ: + 30 213 0233913
+Specialty Therapeutics IKE
+
+Τηλ:
+
++ 30 213 0233913
 
 ## Latvija
 
@@ -1311,13 +1325,17 @@ MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel: + 49 2371 937 0
 
 ## Other sources of information
 
+<div style=\"page-break-after: always\"></div>
+
 ## Nederland
 
 MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel: + 31 20 2622948
 
 ## Norge
 
-Medice Nordic Norway AS Tlf: + 47 69 31 11 11
+Medice Nordic Norway AS
+
+Tlf: + 47 69 31 11 11
 
 ## Österreich
 
@@ -1325,7 +1343,9 @@ MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Tel: + 49 2371 937 0
 
 ## Polska
 
-Er-Kim Pharmaceuticals Inc. Tel.: + 359 879 544 711
+Er-Kim Pharmaceuticals Inc.
+
+Tel.: + 359 879 544 711
 
 ## Portugal
 
@@ -1349,7 +1369,9 @@ MEDICE Arzneimittel Pütter GmbH &amp; Co. KG Puh/Tel: + 49 2371 937 0
 
 ## Sverige
 
-MEDICE Nordic Sweden AB Tel: + 46 200898305
+MEDICE Nordic Sweden AB
+
+Tel: + 46 200898305
 
 <div style=\"page-break-after: always\"></div>
 

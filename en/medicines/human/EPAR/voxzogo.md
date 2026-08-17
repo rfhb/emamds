@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-11 15:35:00
+document_datetime: 2026-08-13 10:46:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/voxzogo.html
 document_name: voxzogo.html
 version: success
-processing_time: 0.1490368
-conversion_datetime: 2026-06-13 19:38:59.021174
+processing_time: 0.1377018
+conversion_datetime: 2026-08-17 13:26:30.290785
 docling_version:
-  docling-serve: 1.23.0
-  docling-jobkit: 1.23.0
-  docling: 2.102.1
-  docling-core: 2.82.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.120.2
+  docling-core: 2.91.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.13.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 # Voxzogo
 
@@ -50,7 +50,7 @@ Voxzogo is a medicine for treating achondroplasia in patients aged 4 months and 
 
 Achondroplasia is an inherited disease caused by a mutation (change) in a gene called fibroblast growth-factor receptor 3 ( *FGFR3* ). The mutation affects growth of almost all bones in the body including the skull, spine, arms and legs, resulting in very short stature with a characteristic appearance.
 
-Achondroplasia is rare, and Voxzogo was designated an 'orphan medicine' (a medicine used in rare diseases) on 24 January 2013. Further information on the orphan designation can be found here: [ema.europa.eu/medicines/human/orphan-designations/EU3121094](https://beta.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-12-1094) .
+Achondroplasia is rare, and Voxzogo was designated an 'orphan medicine' (a medicine used in rare diseases) on 24 January 2013.
 
 Voxzogo contains the active substance vosoritide.
 
@@ -110,7 +110,7 @@ English (EN) (111.52 KB - PDF)
 
 [View](/en/documents/overview/voxzogo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-316)
 
 български (BG) (137.65 KB - PDF)
 
@@ -256,167 +256,168 @@ English (EN) (102.96 KB - PDF)
 
 Voxzogo : EPAR - Product information
 
-English (EN) (730.68 KB - PDF)
+English (EN) (1.14 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/en/documents/product-information/voxzogo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-928)
+[Other languages (24)](#file-language-dropdown-868)
 
-български (BG) (938.04 KB - PDF)
+български (BG) (1.41 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/bg/documents/product-information/voxzogo-epar-product-information_bg.pdf)
 
-español (ES) (827.07 KB - PDF)
+español (ES) (1.29 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/es/documents/product-information/voxzogo-epar-product-information_es.pdf)
 
-čeština (CS) (863.54 KB - PDF)
+čeština (CS) (1.4 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/cs/documents/product-information/voxzogo-epar-product-information_cs.pdf)
 
-dansk (DA) (802.98 KB - PDF)
+dansk (DA) (1.32 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/da/documents/product-information/voxzogo-epar-product-information_da.pdf)
 
-Deutsch (DE) (762.24 KB - PDF)
+Deutsch (DE) (1.32 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/de/documents/product-information/voxzogo-epar-product-information_de.pdf)
 
-eesti (ET) (764.09 KB - PDF)
+eesti (ET) (1.19 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/et/documents/product-information/voxzogo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (995.88 KB - PDF)
+ελληνικά (EL) (1.5 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/el/documents/product-information/voxzogo-epar-product-information_el.pdf)
 
-français (FR) (818.28 KB - PDF)
+français (FR) (1.35 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/fr/documents/product-information/voxzogo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (861.29 KB - PDF)
+hrvatski (HR) (1.37 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/hr/documents/product-information/voxzogo-epar-product-information_hr.pdf)
 
-italiano (IT) (745.56 KB - PDF)
+italiano (IT) (1.27 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/it/documents/product-information/voxzogo-epar-product-information_it.pdf)
 
-latviešu (LV) (976.83 KB - PDF)
+latviešu (LV) (1.37 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/lv/documents/product-information/voxzogo-epar-product-information_lv.pdf)
 
-lietuvių (LT) (890.3 KB - PDF)
+lietuvių (LT) (1.41 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/lt/documents/product-information/voxzogo-epar-product-information_lt.pdf)
 
-magyar (HU) (916.17 KB - PDF)
+magyar (HU) (1.4 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/hu/documents/product-information/voxzogo-epar-product-information_hu.pdf)
 
-Malti (MT) (899.85 KB - PDF)
+Malti (MT) (1.44 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/mt/documents/product-information/voxzogo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (790.15 KB - PDF)
+Nederlands (NL) (1.29 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/nl/documents/product-information/voxzogo-epar-product-information_nl.pdf)
 
-polski (PL) (914.56 KB - PDF)
+polski (PL) (1.4 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/pl/documents/product-information/voxzogo-epar-product-information_pl.pdf)
 
-português (PT) (839.28 KB - PDF)
+português (PT) (1.37 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/pt/documents/product-information/voxzogo-epar-product-information_pt.pdf)
 
-română (RO) (923.8 KB - PDF)
+română (RO) (1.43 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/ro/documents/product-information/voxzogo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (887.8 KB - PDF)
+slovenčina (SK) (1.43 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/sk/documents/product-information/voxzogo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (897.91 KB - PDF)
+slovenščina (SL) (1.39 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/sl/documents/product-information/voxzogo-epar-product-information_sl.pdf)
 
-suomi (FI) (809.43 KB - PDF)
+suomi (FI) (1.33 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/fi/documents/product-information/voxzogo-epar-product-information_fi.pdf)
 
-svenska (SV) (809.97 KB - PDF)
+svenska (SV) (1.32 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/sv/documents/product-information/voxzogo-epar-product-information_sv.pdf)
 
-Íslenska (IS) (734.64 KB - PDF)
+Íslenska (IS) (1.31 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/is/documents/product-information/voxzogo-epar-product-information_is.pdf)
 
-norsk (NO) (795.51 KB - PDF)
+norsk (NO) (1.32 MB - PDF)
 
-**First published:** 09/09/2021 **Last updated:** 11/06/2026
+**First published:** 09/09/2021 **Last updated:** 13/08/2026
 
 [View](/no/documents/product-information/voxzogo-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000293727
+**Latest procedure affecting product information:** R/0000314604
 
-07/04/2026
+11/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -434,7 +435,7 @@ English (EN) (44.58 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/voxzogo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-244)
+[Other languages (24)](#file-language-dropdown-838)
 
 български (BG) (56.74 KB - PDF)
 
@@ -582,25 +583,16 @@ norsk (NO) (49.27 KB - PDF)
 
 ## Product details
 
-Name of medicine
-
-Voxzogo
-
-Active substance
-
-vosoritide
-
-International non-proprietary name (INN) or common name
-
-vosoritide
-
-Therapeutic area (MeSH)
-
-Achondroplasia
-
-Anatomical therapeutic chemical (ATC) code
-
-M05BX
+- **Name of medicine**
+    - Voxzogo
+- **Active substance**
+    - vosoritide
+- **International non-proprietary name (INN) or common name**
+    - vosoritide
+- **Therapeutic area (MeSH)**
+    - Achondroplasia
+- **Anatomical therapeutic chemical (ATC) code**
+    - M05BX
 
 ### Pharmacotherapeutic group
 
@@ -612,35 +604,18 @@ Voxzogo is indicated for the treatment of achondroplasia in patients 4 months of
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005475
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-BioMarin International Limited
-
-Shanbally Ringaskiddy County Cork P43 R298 Ireland
-
-Opinion adopted
-
-24/06/2021
-
-Marketing authorisation issued
-
-26/08/2021
-
-Revision
-
-8
+- **EMA product number**
+    - EMEA/H/C/005475
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - BioMarin International Limited Shanbally  Ringaskiddy  County Cork  P43 R298  Ireland
+- **Opinion adopted**
+    - 24/06/2021
+- **Marketing authorisation issued**
+    - 26/08/2021
+- **Revision**
+    - 9
 
 ## Assessment history
 
@@ -652,9 +627,9 @@ Collapse section
 
 Voxzogo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (168.61 KB - PDF)
+English (EN) (172.42 KB - PDF)
 
-**First published:** 27/05/2025 **Last updated:** 11/06/2026
+**First published:** 27/05/2025 **Last updated:** 13/08/2026
 
 [View](/en/documents/procedural-steps-after/voxzogo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -665,6 +640,16 @@ English (EN) (148.99 KB - PDF)
 **First published:** 20/06/2023 **Last updated:** 17/07/2024
 
 [View](/en/documents/procedural-steps-after/voxzogo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Voxzogo-PSUSA-00010952-202508: EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Adopted Reference Number: EMADOC-1700519818-3395612
+
+English (EN) (150.08 KB - PDF)
+
+**First published:** 13/08/2026
+
+[View](/en/documents/scientific-conclusion/voxzogo-psusa-00010952-202508-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Voxzogo : EPAR - Statement indicating compliance with the agreed completed paediatric investigation plan
 
@@ -765,13 +750,13 @@ English (EN) (141.94 KB - PDF)
 ## More information on Voxzogo
 
 - [EU/3/12/1094 - orphan designation for treatment of achondroplasia](/en/medicines/human/orphan-designations/eu-3-12-1094)
-- [EMEA-002033-PIP01-16-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002033-pip01-16-m03)
+- [EMA/PE/0000224087 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000224087)
 - [Voxzogo - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/voxzogo)
 - [EMA/PE/0000224768 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000224768)
 - [A multicentre, non-interventional study to evaluate long-term safety in patients with achondroplasia treated with Voxzogo® (vosoritide) (BMN 111-603) - post-authorisation study](https://catalogues.ema.europa.eu/study/50251)
 
 **This page was last updated on**
 
-11/06/2026
+13/08/2026
 
 ## Share this page

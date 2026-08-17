@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-19 12:16:32
+document_datetime: 2026-08-14 10:14:47
 document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tuzulby-epar-product-information_en.pdf
 document_name: tuzulby-epar-product-information_en.pdf
 version: success
-processing_time: 7.6051712
-conversion_datetime: 2026-01-03 13:02:26.237271
+processing_time: 6.5698827
+conversion_datetime: 2026-08-17 13:33:12.788028
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.120.2
+  docling-core: 2.91.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.13.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -137,7 +137,7 @@ Methylphenidate should not be used in children under the age of 6 years. The saf
 
 ## Method of administration
 
-## Tuzulby is for oral use.
+Tuzulby is for oral use.
 
 Tuzulby should be administered orally once daily in the morning with or without food (see section 5.2).
 
@@ -176,11 +176,9 @@ The physician who elects to use methylphenidate for extended periods (over 12 mo
 
 Patients who are being considered for treatment with stimulant medicinal products should have a careful history (including assessment for a family history of sudden cardiac or unexplained death or malignant arrhythmia) and physical examination to assess for the presence of cardiac disease, and should receive further specialist cardiac evaluation if initial findings suggest such history or disease. Patients who develop symptoms, such as palpitations, exertional chest pain, unexplained syncope, dyspnoea or other symptoms suggestive of cardiac disease during methylphenidate treatment should undergo a prompt specialist cardiac evaluation.
 
-Analyses of data from clinical trials of methylphenidate in children and adolescents with ADHD showed that patients using methylphenidate may commonly experience changes in diastolic and
+Analyses of data from clinical trials of methylphenidate in children and adolescents with ADHD showed that patients using methylphenidate may commonly experience changes in diastolic and systolic blood pressure of over 10 mmHg relative to controls. The short- and long- term clinical consequences of these cardiovascular effects in children and adolescents are not known, but the possibility of clinical complications cannot be excluded as a result of the effects observed in the clinical trial data. Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate. See section 4.3 for conditions in which methylphenidate treatment is contraindicated.
 
 <div style=\"page-break-after: always\"></div>
-
-systolic blood pressure of over 10 mmHg relative to controls. The short- and long- term clinical consequences of these cardiovascular effects in children and adolescents are not known, but the possibility of clinical complications cannot be excluded as a result of the effects observed in the clinical trial data. Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate. See section 4.3 for conditions in which methylphenidate treatment is contraindicated.
 
 Cardiovascular status should be carefully monitored. Blood pressure and pulse should be recorded on centile chart at each adjustment of dose and then at least every 6 months.
 
@@ -206,11 +204,9 @@ Development of de novo or worsening of pre-existing psychiatric disorders should
 
 In psychotic patients, administration of methylphenidate may exacerbate symptoms of behavioural disturbance and thought disorder.
 
-Emergence of new psychotic or manic symptoms
+Emergence of new psychotic or manic symptoms Treatment-emergent psychotic symptoms (visual/tactile/auditory hallucinations and delusions) or mania in children and adolescents without prior history of psychotic illness or mania can be caused by methylphenidate at usual doses (see section 4.8). If manic or psychotic symptoms occur, consideration should be given to a possible causal role for methylphenidate and discontinuation of treatment may be appropriate.
 
 <div style=\"page-break-after: always\"></div>
-
-Treatment-emergent psychotic symptoms (visual/tactile/auditory hallucinations and delusions) or mania in children and adolescents without prior history of psychotic illness or mania can be caused by methylphenidate at usual doses (see section 4.8). If manic or psychotic symptoms occur, consideration should be given to a possible causal role for methylphenidate and discontinuation of treatment may be appropriate.
 
 ## Aggressive or hostile behaviour
 
@@ -318,11 +314,9 @@ However, there are reports indicating that methylphenidate may inhibit the metab
 
 ## Pharmacodynamic interactions
 
-Anti-hypertensive medicinal products
+Anti-hypertensive medicinal products Methylphenidate may decrease the effectiveness of medicinal products used to treat hypertension.
 
 <div style=\"page-break-after: always\"></div>
-
-Methylphenidate may decrease the effectiveness of medicinal products used to treat hypertension.
 
 ## Use with medicinal products that elevate blood pressure
 
@@ -427,6 +421,7 @@ Table 1. Adverse reactions
 |------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-------------|
 | Vascular disorders                                   | Hypertension, peripheral coldness **                                                                                  | Common      |
 | Vascular disorders                                   | Cerebral arteritis and/or occlusion, Raynaud's phenomenon                                                             | Very rare   |
+| Respiratory, thoracic and mediastinal disorders      | Epistaxis                                                                                                             | Not known   |
 | Gastrointestinal disorders                           | Nausea ** , dry mouth **                                                                                              | Very common |
 | Gastrointestinal disorders                           | Abdominal pain , diarrhoea , stomach discomfort , vomiting , dyspepsia * , toothache *                                | Common      |
 | Gastrointestinal disorders                           | Constipation                                                                                                          | Uncommon    |
@@ -439,11 +434,11 @@ Table 1. Adverse reactions
 | Musculoskeletal and connective tissue disorders      | Arthralgia                                                                                                            | Common      |
 | Musculoskeletal and connective tissue disorders      | Myalgia, muscle twitching, muscle tightness                                                                           | Uncommon    |
 | Musculoskeletal and connective tissue disorders      | Muscle spasms                                                                                                         | Very rare   |
-| Musculoskeletal and connective tissue disorders      | Trismus                                                                                                               | Not known   |
+|                                                      | Trismus                                                                                                               | Not known   |
 | Renal and urinary disorders                          | Haematuria                                                                                                            | Uncommon    |
-| Renal and urinary disorders                          | Incontinence                                                                                                          | Not known   |
-| Reproductive system and breast disorders             | Gynaecomastia                                                                                                         | Rare        |
-| Reproductive system and breast disorders             | Erectile dysfunction, priapism, erection increased and prolonged erection                                             | Not known   |
+|                                                      | Incontinence                                                                                                          | Not known   |
+| Reproductive system and breast                       | Gynaecomastia                                                                                                         | Rare        |
+| disorders                                            | Erectile dysfunction, priapism, erection increased and prolonged erection                                             | Not known   |
 | General disorders and administration site conditions | Pyrexia, growth retardation during prolonged use in children and adolescents * , feeling jittery, fatigue ** , thirst | Common      |
 | General disorders and administration site conditions | Chest pain                                                                                                            | Uncommon    |
 | General disorders and administration site conditions | Sudden cardiac death *                                                                                                | Very rare   |
@@ -452,20 +447,19 @@ Table 1. Adverse reactions
 | Investigations                                       | Cardiac murmur * , hepatic enzyme increased                                                                           | Uncommon    |
 | Investigations                                       | Blood alkaline phosphatase increased, blood bilirubin increased, platelet count decreased, white blood count abnormal | Very rare   |
 
-See section 4.4 'Special warnings and precautions for use'
-
-*
+* See section 4.4 'Special warnings and precautions for use'
 
 ** Adverse reactions from clinical trials in adult patients that were reported with a higher frequency than in children and adolescents.
 
 *** Reports were poorly documented and in most cases, patients were also receiving other medicinal products, so the role of methylphenidate is unclear
 
-**** These usually occur at the beginning of treatment and may be alleviated by concomitant food intake
+- [ ] **** These usually occur at the beginning of treatment and may be alleviated by concomitant food intake
+
+- [ ] ***** Cases  of  abuse  and  dependence  have  been  described,  more  often  with  immediate  release formulations.
+
+- [ ] ****** Frequency derived from adult clinical trials and not on data from trials in children and adolescents; may also be relevant for children and adolescents
 
 <div style=\"page-break-after: always\"></div>
-
-- ***** Cases  of  abuse  and  dependence  have  been  described,  more  often  with  immediate  release formulations.
-- ****** Frequency derived from adult clinical trials and not on data from trials in children and adolescents; may also be relevant for children and adolescents
 
 ## Description of selected adverse reactions
 
@@ -497,9 +491,9 @@ Efficacy of peritoneal dialysis or extracorporeal haemodialysis for overdose of 
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: psychoanaleptics, psychostimulants, agents use for ADHD and nootropics, ATC code: N06BA04
-
 <div style=\"page-break-after: always\"></div>
+
+Pharmacotherapeutic group: psychoanaleptics, psychostimulants, agents use for ADHD and nootropics, ATC code: N06BA04
 
 ## Mechanism of action
 
@@ -515,21 +509,19 @@ Population PK models were developed for methylphenidate for extended- and the im
 
 ## Clinical efficacy and safety studies
 
-The efficacy of Methylphenidate hydrochloride was evaluated in a multicenter, dose-optimised, double-blind, randomised, placebo-controlled study conducted in 90 paediatric subjects in a laboratory classroom. Eligible subjects were males or females, aged 6 through 12 years, with a diagnosis of combined or inattentive ADHD and need for pharmacological treatment for their condition. Diagnosis was performed using the Schedule for Affective Disorders and Schizophrenia (K-SADS), Clinical Global Impression of Severity (CGIS; score ≥ 3), and Attention Deficit Hyperactivity Disorder Rating Scale (ADHDRS; ≥ 90 th percentile in hyperactive-impulsive subscale, inattentive subscale, or total score). The study began with a 6-week open-label dose optimization period with an initial Methylphenidate hydrochloride dose of 20 mg. Patients were instructed to chew each tablet once daily in the morning. The dose could be titrated weekly in increments of 10 to 20 mg until an optimal dose or the maximum dose of 60 mg/day was reached. Eighty-six (86) of the 90 enrolled subjects then entered a 1-week randomized, double-blind, parallel group treatment period with the individually optimized dose of Methylphenidate hydrochloride or placebo. At the end of the double-blind treatment period, the laboratory classroom raters and teachers evaluated the attention and behavior of the subjects, throughout the day using the Swanson, Kotkin, Agler, M-Flynn, and Pelham (SKAMP) rating scale. The SKAMP-Combined score, measured at 0.75, 2, 4, 8, 10, 12, and 13 hours post-dose during the laboratory classroom day at the end of the double-blind treatment period, was used to assess the primary and the key secondary efficacy parameters. The primary efficacy endpoint was the average
+The efficacy of Methylphenidate hydrochloride was evaluated in a multicenter, dose-optimised, double-blind, randomised, placebo-controlled study conducted in 90 paediatric subjects in a laboratory classroom. Eligible subjects were males or females, aged 6 through 12 years, with a diagnosis of combined or inattentive ADHD and need for pharmacological treatment for their condition. Diagnosis was performed using the Schedule for Affective Disorders and Schizophrenia (K-SADS), Clinical Global Impression of Severity (CGIS; score ≥ 3), and Attention Deficit Hyperactivity Disorder Rating Scale (ADHDRS; ≥ 90 th percentile in hyperactive-impulsive subscale, inattentive subscale, or total score). The study began with a 6-week open-label dose optimization period with an initial Methylphenidate hydrochloride dose of 20 mg. Patients were instructed to chew each tablet once daily in the morning. The dose could be titrated weekly in increments of 10 to 20 mg until an optimal dose or the maximum dose of 60 mg/day was reached. Eighty-six (86) of the 90 enrolled subjects then entered a 1-week randomized, double-blind, parallel group treatment period with the individually optimized dose of Methylphenidate hydrochloride or placebo. At the end of the double-blind treatment period, the laboratory classroom raters and teachers evaluated the attention and behavior of the subjects, throughout the day using the Swanson, Kotkin, Agler, M-Flynn, and Pelham (SKAMP) rating scale. The SKAMP-Combined score, measured at 0.75, 2, 4, 8, 10, 12, and 13 hours post-dose during the laboratory classroom day at the end of the double-blind treatment period, was used to assess the primary and the key secondary efficacy parameters. The primary efficacy endpoint was the average of treatment effects across all the time points as specified above during the classroom day. The key secondary efficacy parameters were onset and duration of clinical effect.
 
 <div style=\"page-break-after: always\"></div>
-
-of treatment effects across all the time points as specified above during the classroom day. The key secondary efficacy parameters were onset and duration of clinical effect.
 
 In total 85 subjects were evaluated, with a mean (standard deviation, SD) age of 9.6 (1.69) years, both male and female subjects, of either Hispanic/Latino or non-Hispanic/Latino ethnicity, 27.1% having inattentive ADHD type and 72.9 % with combine ADHD type, all of whom having an ADHD-RS at ≥ 90 th percentile at baseline. Overall, 39 (43.3%) subjects had taken prior medications. The most common prior medications were centrally acting sympathomimetics (37.8%). Methylphenidate hydrochloride was statistically significantly superior to placebo with respect to the primary endpoint. Methylphenidate hydrochloride also showed improvement over placebo at 0.75, 2, 4, and 8 hours postdosing. The onset of efficacy for Methylphenidate hydrochloride was determined to be 2 hours postdose, and efficacy was maintained through the 8-hour time point. SKAMP subscale scores paralleled the SKAMP-Combined score. The main results of the primary and key secondary efficacy variables obtained from the study are presented in the below table (Table 2).
 
 Table 2. Results of the primary and key secondary efficacy variables
 
-| Efficacy endpoints                                                                                                                                                                                                                                                                            | Placebo                                                                             | Methylphenidate hydrochloride                                                     | Treatment difference                                                                                                                                               |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Primary endpoint: Post-dose SKAMP-Combined scores at visit 9 Average overall post-dose time-points n LS mean                                                                                                                                                                                  | 43 19.1 (1.39)                                                                      | 42 12.1 (1.41)                                                                    | -7.0 (1.99), p < 0.001                                                                                                                                             |
-| (SE) Key secondary endpoints: Post-dose SKAMP-Combined scores at visit 9 0.75 hour post-dose 2 hour post-dose 4 hour post-dose 8 hour post-dose 10 hour post-dose 12 hour post-dose 13 hour post-dose Post-dose PERMP scores at visit 9 Average over all post-dose time points n LS mean (SE) | 18.3 (1.60) 20.3 (1.60) 19.9 (1.60) 19.4 (1.60) 17.7 (1.60) 19.4 (1.60) 18.5 (1.60) | 10.2 (1.62) 7.5 (1.62) 7.6 (1.62) 11.6 (1.62) 14.3 (1.62) 16.5 (1.62) 16.9 (1.62) | -8.2 (2.28), p < 0.001 -12.8 (2.28), p < 0.001 -12.3 (2.28), p < 0.001 -7.8 (2.28), p < 0.001 -3.4 (2.28), p = 0.133 -2.9 (2.28), p = 0.206 -1.6 (2.28), p = 0.496 |
-|                                                                                                                                                                                                                                                                                               | 43 103.5 (7.20)                                                                     | 42 128.0 (7.30)                                                                   | 24.5 (10.25), p = 0.017                                                                                                                                            |
+| Efficacy endpoints                                                                                                                                                                                                                                                                       | Placebo                                                                             | Methylphenidate hydrochloride                                                     | Treatment difference                                                                                                                                               |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Primary endpoint: Post-dose SKAMP-Combined scores at visit 9 Average overall post-dose time-points n LS mean (SE)                                                                                                                                                                        | 43 19.1 (1.39)                                                                      | 42 12.1 (1.41)                                                                    | -7.0 (1.99), p < 0.001                                                                                                                                             |
+| Key secondary endpoints: Post-dose SKAMP-Combined scores at visit 9 0.75 hour post-dose 2 hour post-dose 4 hour post-dose 8 hour post-dose 10 hour post-dose 12 hour post-dose 13 hour post-dose Post-dose PERMP scores at visit 9 Average over all post-dose time points n LS mean (SE) | 18.3 (1.60) 20.3 (1.60) 19.9 (1.60) 19.4 (1.60) 17.7 (1.60) 19.4 (1.60) 18.5 (1.60) | 10.2 (1.62) 7.5 (1.62) 7.6 (1.62) 11.6 (1.62) 14.3 (1.62) 16.5 (1.62) 16.9 (1.62) | -8.2 (2.28), p < 0.001 -12.8 (2.28), p < 0.001 -12.3 (2.28), p < 0.001 -7.8 (2.28), p < 0.001 -3.4 (2.28), p = 0.133 -2.9 (2.28), p = 0.206 -1.6 (2.28), p = 0.496 |
+|                                                                                                                                                                                                                                                                                          | 43 103.5 (7.20)                                                                     | 42 128.0 (7.30)                                                                   | 24.5 (10.25), p = 0.017                                                                                                                                            |
 
 LS: least squares; PERMP: Permanent Product Measure of Performance; SE: standard error; SKAMP: Swanson, Kotin, Agler, M-Flynn, and Pelham Rating Scale.
 
@@ -537,13 +529,9 @@ Both Clinical Global Impressions-Severity (CGI-S) and Clinical Global Impression
 
 ## 5.2 Pharmacokinetic properties
 
-## Absorption
-
-The active substance methylphenidate hydrochloride is rapidly and almost completely absorbed from the immediate-release tablets. Owing to extensive first-pass metabolism the absolute bioavailability was 22±8% for the d-enantiomer and 5±3% for the l-enantiomer. Peak plasma concentrations (Cmax) of
+Absorption The active substance methylphenidate hydrochloride is rapidly and almost completely absorbed from the immediate-release tablets. Owing to extensive first-pass metabolism the absolute bioavailability was 22±8% for the d-enantiomer and 5±3% for the l-enantiomer. Peak plasma concentrations (Cmax) of approximately 11 ng/ml are attained, on average, 1-2 hours after administration of 0.30 mg/kg. The area under the concentration-time curve (AUC) and the Cmax, are proportional to the dose.
 
 <div style=\"page-break-after: always\"></div>
-
-approximately 11 ng/ml are attained, on average, 1-2 hours after administration of 0.30 mg/kg. The area under the concentration-time curve (AUC) and the Cmax, are proportional to the dose.
 
 Following a single oral dose of 40 mg Methylphenidate hydrochloride  under fasting conditions, plasma methylphenidate reached maximal concentration (Cmax) at a median time of 5 hours after dosing. Methylphenidate Cmax and exposure (area under the curve, AUC) were approximately 12 ng/ml and 112 ng×h/ml, respectively.
 
@@ -573,9 +561,9 @@ There appear to be no differences in the pharmacokinetics of methylphenidate bet
 
 ## 5.3 Preclinical safety data
 
-## Carcinogenicity
-
 <div style=\"page-break-after: always\"></div>
+
+## Carcinogenicity
 
 In lifetime rat and mouse carcinogenicity studies, increased numbers of malignant liver tumours were noted in male mice only. The significance of this finding to humans is unknown.
 
@@ -609,9 +597,9 @@ Pack sizes: 28 or 30 prolonged-release chewable tablets in a 60 mL HDPE bottle i
 
 Not all pack sizes may be marketed.
 
-## 6.6 Special precautions for disposal
-
 <div style=\"page-break-after: always\"></div>
+
+## 6.6 Special precautions for disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -751,8 +739,7 @@ EU/1/24/1907/004 (20 mg x 28 prolonged-release chewable tablets)
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1221,11 +1208,8 @@ If you have any of the side effects above, see a doctor straight away.
 - -changes in blood pressure (usually high blood pressure, fast heart beat (tachycardia), cold hands and feet.
 - -shaking or trembling,feeling dizzy, movements which you cannot control, being unusually active
 - -feeling aggressive, agitated, anxious, depressed, irritable and abnormal behaviour, sleep problems, fatigue.
-- -
-
-These usually occur at the beginning of treatment and may be reduced by taking the medicine with
-
-- stomach pain, diarrhoea, feeling sick, stomach discomfort and being sick. food.
+- -stomach pain, diarrhoea, feeling sick, stomach discomfort and being sick.
+- These usually occur at the beginning of treatment and may be reduced by taking the medicine with food.
 
 ## Uncommon (may affect up to 1 in 100 people)
 
@@ -1279,6 +1263,7 @@ These usually occur at the beginning of treatment and may be reduced by taking t
 - -Blood cells disorders (increased and drecreased).
 - -excessive uncontrolled talking.
 - -Pancytopenia.
+- -Nosebleed.
 - -increased pressure in the eye.
 - -eye diseases which may cause decreased vision due to damage to the eye nerve (glaucoma).
 
@@ -1293,8 +1278,6 @@ When used for more than a year, methylphenidate may cause reduced growth in some
 ## Reporting of side effects
 
 <div style=\"page-break-after: always\"></div>
-
--
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
@@ -1312,7 +1295,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Tuzulby contains
 
-- The active substance is methylphenidate hydrochloride.
+- -The active substance is methylphenidate hydrochloride.
 
 Each 20 mg chewable tablet contains 20 mg methylphenidate hydrochloride. Each 30 mg chewable tablet contains 30 mg methylphenidate hydrochloride. Each 40 mg chewable tablet contains 40 mg methylphenidate hydrochloride.
 
@@ -1450,7 +1433,11 @@ Tel: +34 93 602 24 21
 
 ## Ísland
 
-Neuraxpharm Sweden AB Sími: +46 (0)8 30 91 41 (Svíþjóð)
+Neuraxpharm Sweden AB
+
+Sími: +46 (0)8 30 91 41
+
+(Svíþjóð)
 
 ## Slovenská republika
 

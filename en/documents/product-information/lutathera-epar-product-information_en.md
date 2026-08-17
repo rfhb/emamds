@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-21 10:25:06
+document_datetime: 2026-08-14 14:19:02
 document_pages: 57
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lutathera-epar-product-information_en.pdf
 document_name: lutathera-epar-product-information_en.pdf
 version: success
-processing_time: 35.8277019
-conversion_datetime: 2026-07-28 13:50:42.832008
+processing_time: 34.3095605
+conversion_datetime: 2026-08-17 13:34:06.00913
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.120.2
+  docling-core: 2.91.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.13.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -34,7 +34,7 @@ The total amount of radioactivity per single-dose vial is 7 400 MBq at the date 
 
 ## Physical characteristics
 
-Lutetium-177 has a half-life of 6.647 days. Lutetium-177 decays by β -emission to stable hafnium-177 with the most abundant β -  (79.3%) having a maximum energy of 0.498 MeV. The average beta energy is approximately 0.13 MeV. Low gamma energy is also emitted, for instance at 113 keV (6.2%) and 208 keV (11%).
+Lutetium-177 has a half-life of 6.647 days. Lutetium-177 decays by β -emission to stable hafnium-177 with the most abundant β -(79.3%) having a maximum energy of 0.498 MeV. The average beta energy is approximately 0.13 MeV. Low gamma energy is also emitted, for instance at 113 keV (6.2%) and 208 keV (11%).
 
 ## Excipient with known effect
 
@@ -95,19 +95,19 @@ Alternatively, commercially available amino acid solutions can be used if compli
 
 Table 2 Specification of commercially available amino acid solutions
 
-| Characteristic   | Specification                                                         |
-|------------------|-----------------------------------------------------------------------|
-| L-lysine HCl     | Between 18 and 25 g*                                                  |
-| L-arginine HCl   | Between 18 and 25 g**                                                 |
-| Volume           | 1 to 2 L                                                              |
-| Osmolality       | <1 200 mOsmol/kg                                                      |
-| * **             | equivalent to 14.4-20 g L-lysine equivalent to 14.9-20.7 g L-arginine |
-
-<div style=\"page-break-after: always\"></div>
+| Characteristic                                                             | Specification                                                              |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| L-lysine HCl                                                               | Between 18 and 25 g*                                                       |
+| L-arginine HCl                                                             | Between 18 and 25 g**                                                      |
+| Volume                                                                     | 1 to 2 L                                                                   |
+| Osmolality                                                                 | <1 200 mOsmol/kg                                                           |
+| * equivalent to 14.4-20 g L-lysine ** equivalent to 14.9-20.7 g L-arginine | * equivalent to 14.4-20 g L-lysine ** equivalent to 14.9-20.7 g L-arginine |
 
 ## Treatment monitoring
 
 Before each administration and during the treatment with Lutathera, laboratory tests are required to assess the patient's condition and adapt the therapeutic protocol as necessary (dose, infusion interval, number of infusions) (see Table 3).
+
+<div style=\"page-break-after: always\"></div>
 
 The minimum laboratory tests needed before each infusion are:
 
@@ -121,7 +121,7 @@ These laboratory tests should be performed at least once in the 2 to 4 weeks pri
 
 Management of severe or intolerable adverse drug reactions may require temporary dose interruption (extension of the dosing interval from 8 weeks up to 16 weeks), dose reduction, or permanent discontinuation of treatment with Lutathera (see Table 3 and Figure 1).
 
-## Table 3 Recommended dose modifications of Lutathera for adverse drug reactions
+Table 3 Recommended dose modifications of Lutathera for adverse drug reactions
 
 | Adverse drug reaction   | Severity of adverse drug reaction                                                                                                                                                                                                                                    | Dose modification                                                                                                                                                                                                                                                                                                                                                                                                             |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -132,6 +132,8 @@ Management of severe or intolerable adverse drug reactions may require temporary
 
 <div style=\"page-break-after: always\"></div>
 
+Figure 1 Overview of instructions for dose modifications
+
 | Renal toxicity                                              | First occurrence of: • Creatinine clearance less than 40 mL/min; calculated using Cockcroft - Gault formula with actual body weight, or • 40% increase from baseline serum creatinine, or • 40% decrease from baseline creatinine clearance; calculated using Cockcroft - Gault formula with actual body weight.   | Withhold dose until resolution or return to baseline. Resume Lutathera at 3 700 MBq (100 mCi) in patients with resolution or return to baseline. If reduced dose does not result in renal toxicity, administer Lutathera at 7 400 MBq (200 mCi) as next dose. Permanently discontinue Lutathera for renal toxicity requiring a dosing interval beyond 16 weeks.                                                                               |
 |-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                                                             | Recurrent renal toxicity                                                                                                                                                                                                                                                                                           | Permanently discontinue Lutathera.                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -140,11 +142,11 @@ Management of severe or intolerable adverse drug reactions may require temporary
 | Any other CTCAE* Grade 3 or Grade 4 adverse drug reaction 1 | First occurrence of Grade 3 or 4 Recurrent Grade 3 or 4                                                                                                                                                                                                                                                            | Withhold dose until complete or partial resolution (Grade 0 to 2). Resume Lutathera at 3 700 MBq (100 mCi) in patients with complete or partial resolution. If reduced dose does not result in Grade 3 or 4 toxicity, administer Lutathera at 7 400 MBq (200 mCi) as next dose. Permanently discontinue Lutathera for Grade 3 or higher adverse drug reaction requiring a dosing interval beyond 16 weeks. Permanently discontinue Lutathera. |
 | 1 No lymphopenia.                                           | dose modification required for haematological toxicities Grade 3 or Grade 4 solely due to                                                                                                                                                                                                                          | dose modification required for haematological toxicities Grade 3 or Grade 4 solely due to                                                                                                                                                                                                                                                                                                                                                     |
 
-Figure 1 Overview of instructions for dose modifications
+DMT: Dose-modifying toxicity
 
 <!-- image -->
 
-DMT: Dose-modifying toxicity Other reasons to consider temporary dose interruption of Lutathera include occurrence of an intercurrent disease (e.g. urinary tract infection) which the physician considers could increase the risks associated with Lutathera administration and which should be resolved or stabilised for treatment to resume, or major surgery, in the event of which treatment should be withheld for 12 weeks after the date of surgery.
+Other reasons to consider temporary dose interruption of Lutathera include occurrence of an intercurrent disease (e.g. urinary tract infection) which the physician considers could increase the risks associated with Lutathera administration and which should be resolved or stabilised for treatment to resume, or major surgery, in the event of which treatment should be withheld for 12 weeks after the date of surgery.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -174,9 +176,9 @@ Lutathera is for intravenous use. It is a ready-to-use radiopharmaceutical medic
 
 The gravity method, the peristaltic pump method or the syringe pump method may be used for administration of the recommended dose. Treating healthcare professionals may use other methods deemed appropriate and safe, particularly when dose reduction is required.
 
-<div style=\"page-break-after: always\"></div>
-
 When using the gravity method or the peristaltic pump method, Lutathera should be infused directly from its original container. The peristaltic pump method or the syringe pump method should be used when administering a reduced dose of Lutathera following dose modification for an adverse reaction (see Table 3 in section 4.2). Using the gravity method to administer a reduced dose of Lutathera may result in the delivery of the incorrect volume of Lutathera if the dose is not adjusted prior to administration. Radiation safety precautions must be considered regardless of the administration method used (see section 6.6).
+
+<div style=\"page-break-after: always\"></div>
 
 The following table summarises the whole administration procedure for Lutathera:
 
@@ -236,11 +238,11 @@ Since many patients referred for Lutathera therapy have hepatic metastasis, it m
 
 Cases of hypersensitivity reactions (including isolated angioedema events) have been reported in the post-marketing setting in patients treated with Lutathera (see section 4.8). In the event of serious hypersensitivity reactions, the ongoing Lutathera infusion should be discontinued immediately. Appropriate medicinal products and equipment to manage such reactions should be available for immediate use.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Nausea and vomiting
 
 To prevent treatment-related nausea and vomiting, an intravenous bolus of an antiemetic medicinal product should be injected at least 30 minutes prior to the start of amino acid solution infusion to reach the full antiemetic efficacy (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Concomitant use of somatostatin analogues
 
@@ -264,14 +266,14 @@ Provided the patient's skin is not contaminated, such as from the leakage of the
 
 Before being discharged, the patient should be instructed in the necessary radioprotection rules for interacting with other members of the same household and the general public, and the general precautions the patient must follow during daily activities after treatment (as given in the next paragraph and the package leaflet) to minimise radiation exposure to others.
 
-<div style=\"page-break-after: always\"></div>
-
 After each administration, the following general recommendations can be considered along with national, local and institutional procedures and regulations:
 
 - Close contact (less than 1 metre) with other people should be limited for 7 days.
 - For children and/or pregnant women, close contact (less than 1 metre) should be limited to less than 15 minutes per day for 7 days.
 - Patients should sleep in a separate bedroom from other people for 7 days.
 - Patients should sleep in a separate bedroom from children and/or pregnant women for 15 days.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Recommended measures in case of extravasation
 
@@ -299,8 +301,6 @@ There are no efficacy data in patients with known brain metastases, therefore in
 
 Exposure to ionising radiation is linked with cancer induction and a potential for development of hereditary defects. The radiation dose resulting from therapeutic exposure may result in higher incidence of cancer and mutations. In all cases it is necessary to ensure that the risks of the radiation exposure are less than from the disease itself.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Other patients with risk factors
 
 Patients presenting with any of the conditions below are more prone to develop adverse reactions. Therefore, it is recommended to monitor such patients more frequently during the treatment. Please see Table 3 in case of dose modifying toxicity.
@@ -309,13 +309,15 @@ Patients presenting with any of the conditions below are more prone to develop a
 - Previous oncological radiometabolic therapies with 131 I compounds or any other therapy using unshielded radioactive sources;
 - History of other malignant tumours unless the patient is considered to have been in remission for at least 5 years.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Contraception in males and females
 
 Female patients of reproductive potential should be advised to use effective contraception during treatment and for 7 months after the last dose of Lutathera (see section 4.6).
 
 Male patients with female partners of reproductive potential should be advised to use effective contraception during treatment and for 4 months after the last dose of Lutathera (see section 4.6).
 
-Specific warnings and precautions regarding the co-administered renal protective amino acid solution
+## Specific warnings and precautions regarding the co-administered renal protective amino acid solution
 
 ## Hyperkalaemia
 
@@ -333,8 +335,6 @@ In case hyperkalaemia symptoms develop during amino acid solution infusion, appr
 
 Due to potential for clinical complications related to volume overload, care should be taken with use of arginine and lysine in patients with severe heart failure defined as class III or class IV in the NYHA (New York Heart Association) classification. Patients with severe heart failure defined as class III or class IV in the NYHA classification should only be treated after a careful benefit-risk assessment, taking into consideration the volume and osmolality of the amino acid solution.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Metabolic acidosis
 
 Metabolic acidosis has been observed with complex amino acid solutions administered as part of total parenteral nutrition (TPN) protocols. Shifts in acid-base balance alter the balance of extracellularintracellular potassium and the development of acidosis may be associated with rapid increases in plasma potassium.
@@ -346,6 +346,8 @@ Metabolic acidosis has been observed with complex amino acid solutions administe
 This medicinal product contains up to 3.5 mmol (81.1 mg) sodium per vial, equivalent to 4% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
 Precautions with respect to environmental hazard see section 6.6.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -371,8 +373,6 @@ Female patients of reproductive potential should be advised to use effective con
 
 Male patients with female partners of reproductive potential should be advised to use effective contraception during treatment and for 4 months after the last dose of Lutathera.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pregnancy
 
 No studies on animal reproductive function have been conducted with lutetium ( 177 Lu) oxodotreotide.
@@ -382,6 +382,8 @@ Radionuclide procedures carried out on pregnant women also involve a radiation d
 ## Breast-feeding
 
 It is unknown whether lutetium ( 177 Lu) oxodotreotide is excreted in breast milk. A risk to the breastfed child associated with ionising radiation cannot be excluded. Breast-feeding should be avoided during treatment with this medicinal product. If treatment with Lutathera during breast-feeding is necessary, the child must be weaned.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -405,13 +407,13 @@ Other very common adverse reactions reported include fatigue (27.7%) and decreas
 
 At the time of the NETTER-1 final analysis, after a median follow-up duration of 76 months in each study arm, the safety profile remained consistent with that previously reported.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tabulated list of adverse reactions
 
 The adverse reactions are listed in Table 5 according to frequency and MedDRA System Organ Class (SOC). The frequencies are categoris ed as follows: very common (≥1/10) , common (≥1/100 to &lt;1/10) , uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000) and not known (cannot be estimated from the available data).
 
-Table 5 Frequency of adverse reactions reported from clinical studies and post-marketing surveillance
+<div style=\"page-break-after: always\"></div>
+
+## Table 5 Frequency of adverse reactions reported from clinical studies and post-marketing surveillance
 
 | MedDRA System Organ Class (SOC)                                          | Very common                                             | Common                                                                      | Uncommon                                                                                                                                                           | Not known   |
 |--------------------------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
@@ -426,51 +428,40 @@ Table 5 Frequency of adverse reactions reported from clinical studies and post-m
 | Eye disorders                                                            |                                                         |                                                                             | Eye disorders                                                                                                                                                      |             |
 | Ear and labyrinth disorders                                              |                                                         |                                                                             | Vertigo                                                                                                                                                            |             |
 | Cardiac disorders                                                        |                                                         | Electrocardiogram QT prolonged                                              | Atrial fibrillation Palpitations Myocardial infarction Angina pectoris Cardiogenic shock                                                                           |             |
+| Vascular disorders                                                       |                                                         | Hypertension 7 Flushing Hot flush Hypotension                               | Vasodilatation Peripheral coldness Pallor Orthostatic hypotension Phlebitis                                                                                        |             |
+| Respiratory, thoracic and mediastinal disorders                          |                                                         | Dyspnoea                                                                    | Oropharyngeal pain Pleural effusion Sputum increased Choking sensation                                                                                             |             |
 
 <div style=\"page-break-after: always\"></div>
 
-| Vascular disorders                                   |                 | Hypertension 7 Flushing Hot flush Hypotension                                                       | Vasodilatation Peripheral coldness Pallor Orthostatic hypotension Phlebitis                                                                                                                                                                                           |
-|------------------------------------------------------|-----------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Respiratory, thoracic and mediastinal disorders      |                 | Dyspnoea                                                                                            | Oropharyngeal pain Pleural effusion Sputum increased Choking sensation                                                                                                                                                                                                |
-| Gastrointestinal disorders                           | Nausea Vomiting | Abdominal distension Diarrhoea Abdominal pain Constipation Abdominal pain upper Dyspepsia Gastritis | Dry mouth Flatulence Ascites Gastrointestinal pain Stomatitis Haematochezia Abdominal discomfort Intestinal obstruction Colitis Pancreatitis acute Rectal haemorrhage Melaena Abdominal pain lower Haematemesis Haemorrhagic ascites Ileus                            |
-| Hepatobiliary disorders                              |                 | Hyperbilirubinaemia 9                                                                               | Pancreatic enzymes decreased Hepatocellular injury Cholestasis Hepatic congestion Hepatic failure                                                                                                                                                                     |
-| Skin and subcutaneous tissue disorders               |                 | Alopecia                                                                                            | Rash Dry skin Swelling face Hyperhidrosis Pruritus generalised                                                                                                                                                                                                        |
-| Musculoskeletal and connective tissue disorders      |                 | Musculoskeletal pain 8 Muscle spasms                                                                |                                                                                                                                                                                                                                                                       |
-| Renal and urinary disorders                          |                 | Acute kidney injury Haematuria Renal failure Proteinuria                                            | Leukocyturia Urinary incontinence Glomerular filtration rate decreased Renal disorder Acute pre-renal failure Renal impairment                                                                                                                                        |
-| General disorders and administration site conditions | Fatigue 1       | Injection site reaction 11 Oedema peripheral Administration site pain Chills Influenza-like illness | Injection site mass Chest discomfort Chest pain Pyrexia Malaise Pain Death Feeling abnormal                                                                                                                                                                           |
-| Investigations                                       |                 | Blood creatinine increased GGT* increased ALT** increased AST*** increased Blood ALP**** increased  | Blood potassium decreased Blood urea increased Glycosylated haemoglobin increased Haematocrit decreased Protein urine Weight decreased Blood creatine phosphokinase increased Blood lactate dehydrogenase increased Blood catecholamines C-reactive protein increased |
+| Gastrointestinal disorders                           | Nausea Vomiting   | Abdominal distension Diarrhoea Abdominal pain Constipation Abdominal pain upper Dyspepsia Gastritis   | Dry mouth Flatulence Ascites Gastrointestinal pain Stomatitis Haematochezia Abdominal discomfort Intestinal obstruction Colitis Pancreatitis acute Rectal haemorrhage Melaena Abdominal pain lower Haematemesis Haemorrhagic ascites                                  |
+|------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hepatobiliary disorders                              |                   | Hyperbilirubinaemia 9                                                                                 | Pancreatic enzymes decreased Hepatocellular injury Cholestasis Hepatic congestion Hepatic failure                                                                                                                                                                     |
+| Skin and subcutaneous tissue disorders               |                   | Alopecia                                                                                              | Rash Dry skin Swelling face Hyperhidrosis Pruritus generalised                                                                                                                                                                                                        |
+| Musculoskeletal and connective tissue disorders      |                   | Musculoskeletal pain 8 Muscle spasms                                                                  |                                                                                                                                                                                                                                                                       |
+| Renal and urinary disorders                          |                   | Acute kidney injury Haematuria Renal failure Proteinuria                                              | Leukocyturia Urinary incontinence Glomerular filtration rate decreased Renal disorder Acute pre-renal failure Renal impairment                                                                                                                                        |
+| General disorders and administration site conditions | Fatigue 1         | Injection site reaction 11 Oedema peripheral Administration site pain Chills Influenza-like illness   | Injection site mass Chest discomfort Chest pain Pyrexia Malaise Pain Death Feeling abnormal                                                                                                                                                                           |
+| Investigations                                       |                   | Blood creatinine increased GGT* increased ALT** increased AST*** increased Blood ALP**** increased    | Blood potassium decreased Blood urea increased Glycosylated haemoglobin increased Haematocrit decreased Protein urine Weight decreased Blood creatine phosphokinase increased Blood lactate dehydrogenase increased Blood catecholamines C-reactive protein increased |
+| Injury, poisoning and procedural complications       |                   |                                                                                                       | Clavicle fracture                                                                                                                                                                                                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 
-| Injury, poisoning and procedural complications   |             | Clavicle fracture                                                                                                                   |
-|--------------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Surgical and medical procedures                  | Transfusion | Abdominal cavity drainage Dialysis Gastrointestinal tube insertion Stent placement Abscess drainage Bone marrow harvest Polypectomy |
-| Social circumstances                             |             | Physical disability                                                                                                                 |
+| Surgical and medical procedures   | Transfusion   | Abdominal cavity drainage Dialysis Gastrointestinal tube insertion Stent placement Abscess drainage Bone marrow harvest Polypectomy   |
+|-----------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| Social circumstances              |               | Physical disability                                                                                                                   |
 
+- 1 Includes asthenia and fatigue
 - 2  Includes thrombocytopenia and platelet count decreased
-
-3  Includes lymphopenia and lymphocyte count decreased
-
+- 3  Includes lymphopenia and lymphocyte count decreased
 - 4  Includes anaemia and haemoglobin decreased
-
-5  Includes leukopenia and white blood cell count decreased
-
-- 6  Includes neutropenia and neutrophil count decreased
-
-7 Includes hypertension and hypertensive crisis
-
-8 Includes arthralgia, pain in extremity, back pain, bone pain, flank pain, musculoskeletal chest pain and neck pain
-
-9 Includes blood bilirubin increased and hyperbilirubinaemia
-
-10  Includes headache and migraine
-
-11 Includes injection site reaction, injection site hypersensibility, injection site induration, injection site swelling
-
-*Gamma-glutamyltransferase
-
-**Alanine aminotransferase
-
+- 5 Includes leukopenia and white blood cell count decreased
+- 6 Includes neutropenia and neutrophil count decreased
+- 7 Includes hypertension and hypertensive crisis
+- 8 Includes arthralgia, pain in extremity, back pain, bone pain, flank pain, musculoskeletal chest pain and neck pain
+- 9 Includes blood bilirubin increased and hyperbilirubinaemia
+- 10  Includes headache and migraine
+- 11 Includes injection site reaction, injection site hypersensibility, injection site induration, injection site swelling
+- *Gamma-glutamyltransferase
+- **Alanine aminotransferase
 - ***Aspartate aminotransferase
 - ****Alkaline phosphatase
 
@@ -543,15 +534,14 @@ At the time of the primary PFS analysis (cut-off date 24 July 2015), the number 
 
 Table 6 PFS observed in the NETTER-1 phase III study in patients with progressive midgut carcinoid tumours -cut-off date 24 July 2015 (full analysis set [FAS], N=229)
 
-|                                                    | Treatment                    | Treatment                |
-|----------------------------------------------------|------------------------------|--------------------------|
-|                                                    | Lutathera and octreotide LAR | High-dose octreotide LAR |
-| N                                                  | 116                          | 113                      |
-| Patients with events                               | 21                           | 70                       |
-| Censored patients                                  | 95                           | 43                       |
-| Median in months (95% CI) p-value of Log-rank test | Not reached                  | 8.5 (5.8; 9.1)           |
-| Hazard ratio (95% CI)                              | <0.0001 (0.108; 0.289)       | <0.0001 (0.108; 0.289)   |
-|                                                    | 0.177                        | 0.177                    |
+|                                                    | Treatment                    | Treatment                    |
+|----------------------------------------------------|------------------------------|------------------------------|
+|                                                    | Lutathera and octreotide LAR | High-dose octreotide LAR     |
+| N                                                  | 116                          | 113                          |
+| Patients with events                               | 21                           | 70                           |
+| Censored patients                                  | 95                           | 43                           |
+| Median in months (95% CI) p-value of Log-rank test | Not reached                  | 8.5 (5.8; 9.1)               |
+| Hazard ratio (95% CI)                              | <0.0001 0.177 (0.108; 0.289) | <0.0001 0.177 (0.108; 0.289) |
 
 N: number of patients, CI: confidence interval.
 
@@ -579,9 +569,9 @@ Table 7 PFS observed in the NETTER -1 phase III study in patients with progressi
 
 N: number of patients, CI: confidence interval.
 
-<div style=\"page-break-after: always\"></div>
-
 The PFS Kaplan-Meier graph for the FAS at the cut-off date 30 June 2016 is depicted in Figure 3.
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 3 PFS Kaplan -Meier curves for patients with progressive midgut carcinoid tumours -cut-off date 30 June 2016 (NETTER -1 phase III study; FAS, N=231)
 
@@ -593,9 +583,9 @@ At the time of the interim OS analysis (cut-off date 24 July 2015), there were 1
 
 At the time of the final OS analysis, which occurred 5 years after the last patient was randomised (N=231, cut-off date 18 January 2021), the median follow-up duration was 76 months in each study arm. There were 73 deaths in the Lutathera arm (62.4%) and 69 deaths in the high-dose octreotide LAR arm (60.5%), yielding a HR of 0.84 (95% CI: 0.60; 1.17; unstratified Log-rank test p=0.3039, two-sided) in favour of the Lutathera arm. The median OS was prolonged by a clinically relevant extent of 11.7 months in patients randomised to the Lutathera arm compared to patients randomised to high-dose octreotide LAR, with a median OS of 48.0 months (95% CI: 37.4; 55.2) and 36.3 months (95% CI: 25.9; 51.7), respectively. The final OS results did not reach statistical significance. In the high-dose octreotide LAR arm, 22.8% of patients received subsequent radioligand therapy (including lutetium ( 177 Lu) oxodotreotide) within 24 months of randomisation, and 36% of patients received subsequent radioligand therapy by the final OS cut-off date, which along with other factors may have influenced the OS in this subset of patients.
 
-<div style=\"page-break-after: always\"></div>
-
 The OS Kaplan-Meier graph for the FAS at the cut-off date 18 January 2021 is depicted in Figure 4.
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 4 OS Kaplan -Meier curves for patients with progressive midgut carcinoid tumours -cut-off date 18 January 2021 (NETTER-1 phase III study; FAS, N=231)
 
@@ -622,9 +612,9 @@ Table 8 OS by restricted mean survival time (RMST) observed in the NETTER -1 pha
 
 Health-Related Quality of Life (HRQoL) was assessed using the European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-C30) (generic instrument) and its neuroendocrine tumour module (EORTC QLQ-GI.NET-21).
 
-<div style=\"page-break-after: always\"></div>
-
 The results indicate an improvement in the overall global health-related quality of life up to week 84, for patients in the Lutathera treatment arm as compared to patients in the high-dose octreotide LAR arm.
+
+<div style=\"page-break-after: always\"></div>
 
 ## ERASMUS
 
@@ -642,9 +632,7 @@ Table 9 Best response, ORR and DoR observed in the Erasmus phase I/II study in D
 | Midgut      | 183 | 3    | 2%   |   58 | 32%  | 115  | 63% | 61  | 33%   | 27%   | 41%   | 15.3           | 10.5           | 17.7           |
 | Hindgut     |  13 | 0    | 0%   |    6 | 46%  | 6    | 46% | 6   | 46%   | 19%   | 75%   | 17.8           | 6.2            | 29.9           |
 
-CR = Complete response; PR = Partial response; SD = Stable disease; ORR = Objective response rate (CR+PR);
-
-DoR = Duration of response
+CR = Complete response; PR = Partial response; SD = Stable disease; ORR = Objective response rate (CR+PR); DoR = Duration of response
 
 * Includes foregut, midgut and hindgut; **Foregut NETs other than bronchial and pancreatic
 
@@ -728,13 +716,13 @@ The pharmacokinetic profile in elderly patients (≥ 75 years) has not been esta
 
 Pharmacokinetic data were collected from 11 adolescents aged 12 years and older with somatostatin receptor-positive GEP-NET or PPGL enrolled in the NETTER-P study using the adult dosage. These data were within the range of values in adults, with a mean AUCinf of 35.8 ng.h/mL (CV 12.5%), a mean CL of 6.0 L/h (CV 11.5%) and a mean Cmax of 10.3 ng/mL (CV 5.2%), which occurred at the end of the Lutathera infusion.
 
-<div style=\"page-break-after: always\"></div>
-
 ## In vitro evaluation of interaction potential
 
 ## Metabolic and transporter based interaction
 
 The absence of inhibition or significant induction of the human CYP450 enzymes, and the absence of specific interaction with P-glycoprotein (efflux transporter) or OAT1, OAT3, OCT1, OCT2, OATP1B1, OATP1B3 and BCRP transporters in preclinical studies, suggest that Lutathera has a low probability of causing significant metabolism- or transporter-mediated interactions.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.3 Preclinical safety data
 
@@ -764,8 +752,6 @@ Do not freeze.
 
 Store in the original package to protect from ionising radiation (lead shielding).
 
-<div style=\"page-break-after: always\"></div>
-
 Storage of radiopharmaceuticals should be in accordance with national regulations on radioactive materials.
 
 ## 6.5 Nature and contents of container
@@ -773,6 +759,8 @@ Storage of radiopharmaceuticals should be in accordance with national regulation
 Clear, colourless Type I glass vial, closed with a bromobutyl rubber stopper and aluminium seal.
 
 Each vial contains a volume that ranges from 20.5 to 25.0 mL of solution, corresponding to an activity of 7 400 MBq at date and time of infusion.
+
+<div style=\"page-break-after: always\"></div>
 
 The vial is enclosed within a lead container for protective shielding.
 
@@ -804,15 +792,15 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Lutetium-177 for Lutathera may be prepared using two different sources of stable nuclides (either lutetium-176 or ytterbium-176) resulting in different waste management. The user must consult the documentation provided before using Lutathera to ensure appropriate waste management.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/17/1226/001
+## EU/1/17/1226/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -870,9 +858,9 @@ Radiation dose to specific organs, which may not be the target organ of therapy,
 
 Dosimetry of lutetium ( 177 Lu) oxodotreotide in adolescents has been studied in 4 GEP-NET and 6 PPGL patients (age range: 12 to &lt;18 years) enrolled in the phase II NETTER-P study. Dosimetry was collected to define the biodistribution profile of lutetium ( 177 Lu) oxodotreotide and to calculate whole body and organ radiation dosimetry, with particular focus on the radiation absorbed dose to critical organs (e.g. kidney and bone marrow).
 
-<div style=\"page-break-after: always\"></div>
-
 The mean and SD of the estimated radiation absorbed doses for adolescents in the NETTER-P study are shown in Table 12.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 12 Absorbed dose estimates for lutetium ( 177 Lu) oxodotreotide in paediatric patients 12 years and older (n=10) in NETTER-P phase II study
 
@@ -910,6 +898,14 @@ Table 12 Absorbed dose estimates for lutetium ( 177 Lu) oxodotreotide in paediat
 | Uterus b             | 0.030                                             | 0.008                                             | 0.9                                                                       | 0.2                                                                       | 0.59-1.2                                    |
 | Total body           | 0.040                                             | 0.010                                             | 1.2                                                                       | 0.3                                                                       | 0.66-1.6                                    |
 
+b n=6 (female patients only).
+
+c n=9 (3 GEP-NET, 6 PPGL). Pituitary dosimetry estimates were only performed when pituitary uptake was clearly observed on the planar images. Due to the small size of the pituitary gland, availability for quantification only from planar images and interference from activity in the nasal mucosa, estimates can be associated with a large uncertainty.
+
+d n=4 (male patients only).
+
+e Red marrow dosimetry estimates were determined either using blood radioactivity or by imaging and scaling of a representative region of the lumbar spine.
+
 <div style=\"page-break-after: always\"></div>
 
 ## 12. INSTRUCTIONS FOR PREPARATION OF RADIOPHARMACEUTICALS
@@ -933,7 +929,7 @@ The user must consult the documentation provided before using Lutathera to ensur
 
 1. Insert a 2.5 cm, 20-gauge needle (short needle) into the Lutathera vial and connect via a catheter to 500 mL 0.9% sterile sodium chloride solution (used to transport the Lutathera solution during the infusion). Ensure that the short needle does not touch the Lutathera solution in the vial and do not connect this short needle directly to the patient. Do not allow the sodium chloride solution to flow into the Lutathera vial prior to the initiation of the Lutathera infusion and do not inject the Lutathera solution directly into the sodium chloride solution.
 2. Insert a second needle that is 9 cm, 18-gauge (long needle) into the Lutathera vial, ensuring that this long needle touches and is secured to the bottom of the Lutathera vial during the entire infusion. Connect the long needle to the patient by an intravenous catheter that is pre-filled with 0.9% sterile sodium chloride solution and that is used for the Lutathera infusion into the patient.
-3. Use a clamp or an infusion pump to regulate the flow of the sodium chloride solution via the short needle into the Lutathera vial. The sodium chloride solution entering the vial through the short needle will carry the Lutathera solution from the vial to the patient via the intravenous catheter connected to the long needle over a total duration of 30±10 minutes, at an infusion rate of up to 400 mL/h. The infusion should start at a lower rate of &lt;100 mL/h for the first 5 to 10 minutes and should then be in creased depending on the patient's venous status. Constant intra-vial pressure should be maintained during the entire infusion.
+3. Use a clamp or an infusion pump to regulate the flow of the sodium chloride solution via the short needle into the Lutathera vial. The sodium chloride solution entering the vial through the short needle will carry the Lutathera solution from the vial to the patient via the intravenous catheter connected to the long needle over a total duration of 30±10 minutes, at an infusion rate of up to 400 mL/h. The infusion should start at a lower rate of &lt;100 mL/h for the first 5 to 10 minutes and should then be increased depending on the patient's venous status. Constant intra-vial pressure should be maintained during the entire infusion.
 4. During the infusion, ensure that the level of solution in the Lutathera vial remains constant by repeated direct visual control when transparent shielded container is used, or using a pair of tongs to handle the vial when the lead shipping container is used.
 5. Monitor the flow of Lutathera from the vial to the patient during the entire infusion.
 6. Disconnect the vial from the long needle line and clamp the sodium chloride solution line once the level of radioactivity is stable for at least five minutes.
@@ -1015,11 +1011,11 @@ An updated RMP should be submitted:
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-<div style=\"page-break-after: always\"></div>
-
 ## · Additional risk minimisation measures
 
 Prior to launch of Lutathera in each Member State the marketing authorisation holder (MAH) must agree about the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
+
+<div style=\"page-break-after: always\"></div>
 
 The educational programme is aimed at increasing patients' awareness on the risk of radiotoxicity by occupational exposure and inadvertent exposure to peptide receptor radionuclide therapy, and at providing information concerning the necessary precautions to take to limit unnecessary exposure to themselves and the people around them.
 
@@ -1090,6 +1086,8 @@ Keep out of the sight and reach of children.
 
 <!-- image -->
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP: {DD/MM/YYYY hh:mm UTC}
@@ -1119,16 +1117,13 @@ Batch:
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 Not applicable.
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1139,9 +1134,7 @@ Not applicable.
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-VIAL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1193,9 +1186,7 @@ Polígono Industrial la Cuesta -Sector 3 Parcelas 1 y 2 La Almunia de Doña Godi
 
 <div style=\"page-break-after: always\"></div>
 
-## Lutathera 370 MBq/mL solution for infusion
-
-lutetium ( 177 Lu) oxodotreotide
+Lutathera 370 MBq/mL solution for infusion lutetium ( 177 Lu) oxodotreotide
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
@@ -1236,13 +1227,13 @@ The use of Lutathera involves exposure to amounts of radioactivity. Your doctor 
 - -if you are pregnant, think you may be pregnant or if it has not been confirmed that you are not pregnant.
 - -if your kidneys are seriously impaired.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Warnings and precautions
 
 Talk to your doctor before you are given Lutathera as it may cause:
 
 - -secondary blood cancer (myelodysplastic syndrome or acute leukaemia), which can occur in rare cases several years after completion of Lutathera treatment.
+
+<div style=\"page-break-after: always\"></div>
 
 If any of these apply to you before or during treatment with Lutathera, tell your doctor or other healthcare professional:
 
@@ -1278,11 +1269,11 @@ Unless your doctor considers that the clinical benefit of the treatment outweigh
 
 The safety and efficacy of this medicine have not been established in children and adolescents under 18 years of age. Talk to your doctor or nuclear medicine doctor if you are under 18 years old.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Other medicines and Lutathera
 
 Tell your doctor or nuclear medicine doctor if you are taking, have recently taken or might take any other medicines, including medicines obtained without a prescription, since they may interfere with your treatment. This includes in particular somatostatin analogues or glucocorticoids (also called corticosteroids). If you are taking somatostatin analogues you might be asked to stop and/or adapt your treatment for a short period of time.
+
+<div style=\"page-break-after: always\"></div>
 
 Ask your doctor or pharmacist if you are not sure whether your medicine is one of the medicines mentioned above.
 
@@ -1314,8 +1305,6 @@ It is considered unlikely that Lutathera will affect your ability to drive or to
 
 This medicine contains up to 81.1 mg sodium (main component of cooking/table salt) in each vial. This is equivalent to 4% of the recommended maximum daily dietary intake of sodium for an adult.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 3. How Lutathera is used
 
 There are strict laws on the use, handling and disposal of radiopharmaceutical products. Lutathera will only be used in special controlled areas. This medicine will only be handled and given to you by people who are trained and qualified to use it safely. These persons will take special care for the safe use of this medicine and will keep you informed of their actions.
@@ -1323,6 +1312,8 @@ There are strict laws on the use, handling and disposal of radiopharmaceutical p
 ## How much Lutathera is given
 
 The recommended dose is 7 400 MBq (megabecquerel, the unit used to express radioactivity), which is given as a single infusion once approximately every 8 weeks for a total of 4 times.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Administration of Lutathera and conduct of the procedure
 
@@ -1358,8 +1349,6 @@ You should limit close contact (less than 1 metre) with people who live with you
 
 After you receive Lutathera, it is strongly recommended that you limit close contact (less than 1 metre) with children and/or pregnant women to less than 15 minutes per day for 7 days. You should sleep in a separate bedroom from children and/or pregnant women for 15 days after you receive Lutathera.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Use of toilets
 
 It is strongly recommended to empty your bowels every day and use a laxative if necessary. Furthermore, drink frequently and try to urinate as often as possible on the day you receive treatment and on the day after. Follow the advice of your doctor or other healthcare professional on how much fluid to drink.
@@ -1370,6 +1359,9 @@ Take special precautions to avoid contamination during the 7 days after treatmen
 - -It is essential that you use toilet paper every time you use the toilet.
 - -Always wash your hands well after using the toilet.
 - -Flush all wipes and/or toilet paper down the toilet immediately after use.
+
+<div style=\"page-break-after: always\"></div>
+
 - -Flush any tissues or any other items that contain bodily waste, such as blood, urine and faeces down the toilet. Items that cannot be flushed down the toilet, such as sanitary pads and bandages, must be placed in separate plastic waste disposal bags (according to 'Waste disposal recommendations' below).
 
 ## Showering and laundry
@@ -1401,13 +1393,13 @@ Keep your discharge letter with you whenever you are travelling for at least 3 m
 
 The doctor or other healthcare professional will inform you if you need to take any other special precautions after receiving this medicine. Contact your doctor or nuclear medicine doctor if you have any questions.
 
-<div style=\"page-break-after: always\"></div>
-
 ## If you have been given more Lutathera than you should
 
 An overdose is unlikely because you will only receive a single dose of Lutathera precisely controlled by the nuclear medicine doctor or other healthcare professional supervising the procedure. However, in the event of an overdose, you will receive the appropriate treatment.
 
 Should you have any further questions on the use of Lutathera, please ask the nuclear medicine doctor or other healthcare professional who supervises the procedure.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
@@ -1421,7 +1413,7 @@ As a consequence, a decrease in the various blood cell types may put you at risk
 
 If you experience any serious side effects, tell your doctor right away .
 
-Very common: may affect more than 1 in 10 people
+## Very common: may affect more than 1 in 10 people
 
 - Bleeding or bruising more easily than normal or difficulty to stop bleeding (possible signs of low level of blood platelets) (thrombocytopenia)
 - Infections with signs such as fever, sore throat or mouth ulcers (possible signs of low level of white blood cells) (lymphopenia)
@@ -1439,8 +1431,6 @@ Very common: may affect more than 1 in 10 people
 - Dizziness, light-headedness (possible signs of low blood pressure) (hypotension)
 - Passing urine less often than usual or passing much smaller amounts of urine than usual (possible signs of kidney problems) (renal failure and acute kidney injury)
 
-<div style=\"page-break-after: always\"></div>
-
 ## Uncommon: may affect up to 1 in every 100 people
 
 - Sore throat, runny nose, difficult or painful breathing and fever (possible signs of a respiratory tract infection)
@@ -1449,6 +1439,9 @@ Very common: may affect more than 1 in 10 people
 - Viral infection of the eyes (ophthalmic herpes zoster)
 - Staphylococcal infections
 - Presence of bacteria in the blood (streptococcal bacteraemia)
+
+<div style=\"page-break-after: always\"></div>
+
 - Persistent tiredness, frequent or severe infections, easy bleeding, weight loss (possible symptoms of bone marrow cancer) (acute myeloid leukaemia, acute leukaemia and chronic myelomonocytic leukaemia)
 - Bone marrow cancer resulting in poorly formed blood cells or ones that do not work properly, with signs and symptoms of anaemia (refractory cytopenia with unilineage dysplasia)
 - Anaemia caused by kidney problems (nephrogenic anaemia)
@@ -1472,9 +1465,6 @@ Very common: may affect more than 1 in 10 people
 - Swelling of the abdomen due to accumulation of fluid (ascites)
 - Constipation, swollen abdomen, abdominal pain (intestinal obstruction)
 - Diarrhoea, abdominal pain, fever (possible signs of inflammation of the colon) (colitis)
-
-<div style=\"page-break-after: always\"></div>
-
 - Vomiting, belching, abdominal pain upper and lower, with or without nausea and vomiting (possible signs of inflammation of the pancreas) (acute pancreatitis)
 - Blood vomiting (haematemesis)
 - Acute pain and swelling of the abdomen due to accumulation of fluid (haemorrhagic ascites)
@@ -1484,11 +1474,14 @@ Very common: may affect more than 1 in 10 people
 - Yellow eyes or skin (signs of liver problems) (cholestasis)
 - Liver congestion (hepatic congestion)
 - Liver failure (hepatic failure)
+
+<div style=\"page-break-after: always\"></div>
+
 - Acute pre-renal failure
 - Death
 - Clavicle fracture
 
-Not known: frequency cannot be estimated from available data
+## Not known: frequency cannot be estimated from available data
 
 - Facial/throat swelling and/or difficulty breathing (signs and symptoms of angioedema)
 
@@ -1527,9 +1520,6 @@ Other side effects include the following listed below. If these side effects bec
 - Muscle spasm
 - Blood in urine
 - Abnormal results of urine test (presence of serum proteins)
-
-<div style=\"page-break-after: always\"></div>
-
 - Skin reaction such as redness or swelling and pain at the site of injection
 - Swollen hands, ankles or feet (oedema peripheral)
 - Pain in the site of injection
@@ -1541,6 +1531,9 @@ Other side effects include the following listed below. If these side effects bec
 - Discharge from the eye with itching, redness and swelling (signs of conjunctivitis)
 - Painful and frequent urination (possible symptoms of bladder inflammation) (cystitis)
 - Flu symptoms such as tiredness, chills, sore throat, joint or muscles aching (influenza)
+
+<div style=\"page-break-after: always\"></div>
+
 - Weight gain, tiredness, hair loss, muscle weakness, feeling cold (signs of underactive thyroid gland) (hypothyroidism)
 - Bone and joint pain, excessive urination, abdominal pain, weakness, tiredness (signs of overactive parathyroid gland) (hyperparathyroidism)
 - Nausea, shortness of breath, irregular heartbeat, clouding of urine, tiredness and/or joint discomfort associated with abnormal blood test results -high levels of potassium, uric acid and phosphorous, and low levels of calcium (signs of dying tumour cells) (tumour lysis syndrome)
@@ -1579,9 +1572,6 @@ Other side effects include the following listed below. If these side effects bec
 - Kidney problem
 - Renal impairment
 - Abnormal hardening, swelling or lump in the skin at the site of the injection (injection site mass)
-
-<div style=\"page-break-after: always\"></div>
-
 - Tiredness, chest discomfort, pain, palpitations (possible signs of heart problems) (chest discomfort)
 - Chest pain
 - Fever (pyrexia)
@@ -1591,7 +1581,9 @@ Other side effects include the following listed below. If these side effects bec
 - Loss of weight
 - Physical disability
 
-During Lutathera treatment, you may also have side effects of abnormal blood test results, which can give your doctor information on the functioning of some parts of your body
+<div style=\"page-break-after: always\"></div>
+
+## During Lutathera treatment, you may also have side effects of abnormal blood test results, which can give your doctor information on the functioning of some parts of your body
 
 Common: may affect up to 1 in every 10 people
 
@@ -1599,6 +1591,9 @@ Common: may affect up to 1 in every 10 people
 - o Gamma-glutamyltransferase, alanine aminotransferase, aspartate aminotransferase, blood alkaline phosphatase
 - High level of blood creatinine
 - Low levels of magnesium and sodium in the blood
+
+## Uncommon : may affect up to 1 in every 100 people
+
 - High level of the following enzymes:
 - o Creatine phosphokinase in the blood that may indicate muscle damage, such as of the heart
 - o Lactate dehydrogenase in the blood that gives information about the health of certain organs
@@ -1606,8 +1601,6 @@ Common: may affect up to 1 in every 10 people
 - High levels of sodium, calcium, urea, glycosylated haemoglobin, catecholamines and c-reactive protein in the blood
 - Low level of red blood cells (haematocrit decreased)
 - Presence of protein in urine
-
-Uncommon : may affect up to 1 in every 100 people
 
 ## During Lutathera treatment, you may also have surgical/medical procedures
 
@@ -1629,8 +1622,6 @@ Uncommon : may affect up to 1 in every 100 people
 
 If you get any side effects, talk to your doctor or nuclear medicine doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 5. How Lutathera is stored
 
 You will not have to store this medicine. This medicine is stored under the responsibility of the specialist in appropriate premises. Storage of radiopharmaceuticals will be in accordance with national regulations on radioactive materials.
@@ -1641,6 +1632,8 @@ The following information is intended for the specialist only:
 - Lutathera must not be used after the expiry date and time which are stated on the label after EXP.
 - Store below 25 ºC. Do not freeze.
 - Store in the original package to protect from ionising radiation (lead shielding).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
@@ -1663,9 +1656,11 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Advanced Accelerator Applications Ibérica, S.L.U. Polígono Industrial la Cuesta -Sector 3 Parcelas 1 y 2 La Almunia de Doña Godina 50100 Zaragoza Spain
 
-Advanced Accelerator Applications (Italy) S.r.l Via Ribes 5 10010 Colleretto Giacosa (TO) Italy For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+## Advanced Accelerator Applications (Italy) S.r.l
 
-<div style=\"page-break-after: always\"></div>
+Via Ribes 5 10010 Colleretto Giacosa (TO) Italy
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
@@ -1673,13 +1668,19 @@ Novartis Pharma N.V.
 
 Tél/Tel: +32 2 246 16 11
 
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+
 ## България
 
 Novartis Bulgaria EOOD
 
-Тел
+Тел: +359 2 489 98 28
 
-: +359 2 489 98 28
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
@@ -1687,11 +1688,25 @@ Novartis s.r.o.
 
 Tel: +420 225 775 111
 
+## Magyarország
+
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
+
 ## Danmark
 
-Novartis Sverige AB
+Novartis Healthcare A/S
 
-Tlf.: +46 8 732 32 00
+Tlf.: +45 39 16 84 00
+
+## Malta
+
+Novartis Pharma Services Inc.
+
+Tel: +356 2122 2872
+
+<div style=\"page-break-after: always\"></div>
 
 ## Deutschland
 
@@ -1709,9 +1724,7 @@ Tel: +372 66 30 810
 
 ΒΙΟΚΟΣΜΟΣ ΑΕΒΕ
 
-Τηλ
-
-: +30 22920 63900
+Τηλ: +30 22920 63900
 
 ή
 
@@ -1733,7 +1746,9 @@ Tél: +33 1 55 47 66 00
 
 ## Hrvatska
 
-Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
+Novartis Hrvatska d.o.o.
+
+Tel. +385 1 6274 220
 
 ## Ireland
 
@@ -1743,33 +1758,33 @@ Tel: +353 1 260 12 55
 
 ## Ísland
 
-Novartis Sverige AB
+Vistor ehf.
 
-Sími: +46 8 732 32 00
+Sími: +354 535 7000
 
-## Lietuva
+## Italia
 
-SIA Novartis Baltics Lietuvos filialas
+Novartis Farma S.p.A.
 
-Tel: +370 5 269 16 50
+Tel: +39 02 96 54 1
 
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V.
-
-Tél/Tel: +32 2 246 16 11
-
-## Magyarország
-
-Novartis Hungária Kft.
-
-Tel.: +36 1 457 65 00
-
-## Malta
+## Κύπρος
 
 Novartis Pharma Services Inc.
 
-Tel: +356 2122 2872
+Τηλ: +357 22 690 690
+
+## Latvija
+
+SIA Novartis Baltics
+
+Tel: +371 67 887 070
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Nederland
 
@@ -1779,9 +1794,9 @@ Tel: +31 88 04 52 111
 
 ## Norge
 
-Novartis Sverige AB
+Novartis Norge AS
 
-Tlf: +46 8 732 32 00
+Tlf: +47 23 05 20 00
 
 ## Österreich
 
@@ -1819,37 +1834,19 @@ Novartis Slovakia s.r.o.
 
 Tel: +421 2 5542 5439
 
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
+
 <div style=\"page-break-after: always\"></div>
-
-## Italia
-
-Novartis Farma S.p.A.
-
-Tel: +39 02 96 54 1
-
-## Κύπρος
-
-ΒΙΟΚΟΣΜΟΣ ΑΕΒΕ
-
-Τηλ: +30 22920 63900
-
-ή
-
-Novartis Pharma Services Inc.
-
-Τηλ: +357 22 690 69 0
-
-## Latvija
-
-SIA Novartis Baltics
-
-Tel: +371 67 887 070
-
-## This leaflet was last revised in
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -1858,15 +1855,3 @@ The following information is intended for healthcare professionals only:
 The complete SmPC of Lutathera is provided as a separate document in the product package, with the objective to provide healthcare professionals with other additional scientific and practical information about the administration and use of this radiopharmaceutical.
 
 Please refer to the SmPC.
-
-## Suomi/Finland
-
-Novartis Sverige AB
-
-Puh/Tel: +46 8 732 32 00
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00

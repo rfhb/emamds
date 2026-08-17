@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-11 09:26:22
-document_pages: 58
+document_datetime: 2026-08-13 10:42:01
+document_pages: 57
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/voxzogo-epar-product-information_en.pdf
 document_name: voxzogo-epar-product-information_en.pdf
 version: success
-processing_time: 40.3660336
-conversion_datetime: 2026-06-13 20:01:12.990496
+processing_time: 21.8357138
+conversion_datetime: 2026-08-17 13:32:18.719585
 docling_version:
-  docling-serve: 1.23.0
-  docling-jobkit: 1.23.0
-  docling: 2.102.1
-  docling-core: 2.82.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 6.2.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.120.2
+  docling-core: 2.91.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.13.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -22,17 +22,13 @@ docling_version:
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
-
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 Voxzogo 0.4 mg powder and solvent for solution for injection Voxzogo 0.56 mg powder and solvent for solution for injection Voxzogo 1.2 mg powder and solvent for solution for injection
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Voxzogo 0.4 mg powder and solvent for solution for injection
+## Voxzogo 0.4 mg powder and solvent for solution for injection
 
 Each vial of powder contains 0.4 mg of vosoritide*.
 
@@ -40,13 +36,13 @@ After reconstitution, each vial contains 0.4 mg vosoritide in 0.5 mL of solution
 
 ## Voxzogo 0.56 mg powder and solvent for solution for injection
 
-Each vial of powder contains 0.56 mg of vosoritide*.
+## Each vial of powder contains 0.56 mg of vosoritide*.
 
 After reconstitution, each vial contains 0.56 mg vosoritide in 0.7 mL of solution, corresponding to a concentration of 0.8 mg/mL.
 
 ## Voxzogo 1.2 mg powder and solvent for solution for injection
 
-Each vial of powder contains 1.2 mg of vosoritide*.
+## Each vial of powder contains 1.2 mg of vosoritide*.
 
 After reconstitution, each vial contains 1.2 mg vosoritide in 0.6 mL of solution, corresponding to a concentration of 2 mg/mL.
 
@@ -70,11 +66,11 @@ Voxzogo is indicated for the treatment of achondroplasia in patients 4 months of
 
 Treatment with vosoritide should be initiated and directed by a physician appropriately qualified in the management of growth disorders or skeletal dysplasias.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Posology
 
 Voxzogo is given as a daily subcutaneous injection. The recommended dose is based on the patient's weight and is approximately between 15-30 µg/kg, where the higher dose is given to smallest children, see Table 1.
+
+<div style=\"page-break-after: always\"></div>
 
 The dose can be administered using either mL graduated syringes or Unit (U) graduated syringes (see Table 1). The measurements for the Unit graduated syringes are equivalent to mL as follows: 0.1 mL = 10 Units. For practicality reasons and to account for weight-related PK changes (see section 5.2), the following dosing is recommended.
 
@@ -92,7 +88,7 @@ Table 1: Single dose volumes by body weight in mL and Units (U) volumes
 | 17-21              | 0.32 mg     |                                                                                     |                                                                                     | 0.40 mL                                                                              | 40 U                                                                                 |                                                                                   |                                                                                   |
 | 22-32              | 0.40 mg     |                                                                                     |                                                                                     | 0.50 mL                                                                              | 50 U                                                                                 |                                                                                   |                                                                                   |
 | 33-43              | 0.50 mg     |                                                                                     |                                                                                     |                                                                                      |                                                                                      | 0.25 mL                                                                           | 25 U                                                                              |
-| 44-59              | 0.60 mg     |                                                                                     |                                                                                     |                                                                                      |                                                                                      | 0.30 mL                                                                           | 30 U                                                                              |
+| 44-59 0.60 mg      |             |                                                                                     |                                                                                     |                                                                                      |                                                                                      | 0.30 mL                                                                           | 30 U                                                                              |
 | 60-89              | 0.70 mg     |                                                                                     |                                                                                     |                                                                                      |                                                                                      | 0.35 mL                                                                           | 35 U                                                                              |
 | ≥ 90               | 0.80 mg     |                                                                                     |                                                                                     |                                                                                      |                                                                                      | 0.40 mL                                                                           | 40 U                                                                              |
 
@@ -114,8 +110,6 @@ Patients should be monitored and assessed regularly every 3-6 months to check bo
 
 The safety and efficacy of vosoritide in patients with renal or hepatic impairment has not been evaluated.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Paediatric population
 
 The safety and efficacy of Voxzogo in children aged less than 4 months of age is limited. Currently available data are described in sections 4.8, 5.1 and 5.2, but no recommendation on a posology can be made.
@@ -123,6 +117,8 @@ The safety and efficacy of Voxzogo in children aged less than 4 months of age is
 ## Method of administration
 
 Voxzogo is for subcutaneous single use only. This medicinal product must be administered within 3 hours of reconstitution.
+
+<div style=\"page-break-after: always\"></div>
 
 Prior to injecting, a healthcare professional should:
 
@@ -158,13 +154,13 @@ To reduce the risk of a potential decrease in blood pressure and associated symp
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per unit volume, that is to say essentially 'sodium-free'.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 In vitro cytochrome P450 (CYP) inhibition and induction studies and in vitro transporter inhibition studies have been performed. Results suggested that vosoritide is unlikely to cause CYP- or transporter-mediated drug-drug interactions in humans when the medicinal product is administered concomitantly with other medicinal products.
 
 No other interaction studies have been performed. Because it is a recombinant human protein, vosoritide is an unlikely candidate for drug-drug interactions.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -196,20 +192,22 @@ Adverse reactions in patients treated with vosoritide are tabulated below.
 
 Adverse reactions are listed below by MedDRA system organ class and by frequency. Frequencies are defined as very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 2: Adverse reactions in patients treated with Voxzogo
 
-| System organ class                                   | Very common                    | Common      | Uncommon       |
-|------------------------------------------------------|--------------------------------|-------------|----------------|
-| Nervous system disorders                             |                                | Syncope     |                |
-| Nervous system disorders                             |                                | Pre-syncope |                |
-| Nervous system disorders                             |                                | Dizziness   |                |
-| Vascular disorders                                   | Hypotension a                  |             |                |
-| Gastrointestinal disorders                           | Vomiting                       | Nausea      |                |
-| Skin and subcutaneous tissue disorders               |                                |             | Hypertrichosis |
-| General disorders and administration site conditions | Injection site reaction b      | Fatigue     |                |
-| Investigations                                       | Increased alkaline phosphatase |             |                |
+| System organ class                                   | Very common               | Common         |
+|------------------------------------------------------|---------------------------|----------------|
+| Nervous system disorders                             |                           | Syncope        |
+| Nervous system disorders                             |                           | Pre-syncope    |
+| Nervous system disorders                             |                           | Dizziness      |
+| Vascular disorders                                   | Hypotension a             |                |
+| Gastrointestinal disorders                           | Vomiting                  | Nausea         |
+| Skin and subcutaneous tissue disorders               |                           | Hypertrichosis |
+| General disorders and administration site conditions | Injection site reaction b | Fatigue        |
+
+<div style=\"page-break-after: always\"></div>
+
+| Investigations   | Increased alkaline phosphatase   |
+|------------------|----------------------------------|
 
 a. Hypotension includes both asymptomatic and symptomatic adverse reactions.
 
@@ -219,7 +217,7 @@ b. Injection site reactions include the preferred terms; injection site erythema
 
 ## Hypotension
 
-In ACH study 111301, patients aged ≥ 5 years, 13% of patients treated with vosoritide compared to 5% of patients treated with placebo, experienced events of decreases in blood pressure which were transient and resolved without intervention. The median time to onset from injection was 31 (18 to 120) minutes with resolution within 31 (5 to 90) minutes. The reported events were identified predominantly during periods of frequent vital signs monitoring at clinical visits after dosing over a 52-week treatment period. 2% of patients had a symptomatic episode with dizziness and vomiting.
+In ACH study 111-301, patients aged ≥ 5 years, 13% of patients treated with vosoritide compared to 5% of patients treated with placebo, experienced events of decreases in blood pressure which were transient and resolved without intervention. The median time to onset from injection was 31 (18 to 120) minutes with resolution within 31 (5 to 90) minutes. The reported events were identified predominantly during periods of frequent vital signs monitoring at clinical visits after dosing over a 52-week treatment period. 2% of patients had a symptomatic episode with dizziness and vomiting.
 
 In study 111-206, events of decrease in blood pressure occurred in 2 patients (5%) aged &lt; 5 years treated with vosoritide compared to 2 patients (6%) on placebo. In patients &gt; 2 years to &lt; 5 years of age, events of decrease in blood pressure were reported in 1 patient (5%) treated with vosoritide compared to 1 patient (6 %) on placebo. In patients 6 months to &lt; 2 years of age, events of decrease in blood pressure were reported in 0 patients treated with vosoritide compared to 1 patient (13%) on placebo. In patients &lt; 6 months of age, events of decrease in blood pressure were reported in 1 patient (8%) treated with vosoritide compared to 0 patients on placebo. All events were transient, resolved without intervention and were not treatment limiting.
 
@@ -227,13 +225,13 @@ In study 111-206, events of decrease in blood pressure occurred in 2 patients (5
 
 In ACH study 111-301, in patients aged ≥ 5 years, injection site reactions were reported in 85% patients treated with vosoritide compared to 82% patients on placebo. Patients receiving this medicinal product who experienced injection site reactions reported a median of 76 events, compared to patients receiving placebo who reported a median of 7.5 events over a 52-week period. The most common injection site reactions (occurring in at least 10% of patients treated with vosoritide) were injection site reaction (73%), injection site erythema (68%), injection site swelling (38%), and injection site urticaria (13%). All injection site reactions were Grade 1 (mild) in severity, with the exception of 5 events in two patients that were Grade 2 (moderate). Reported Grade 2 events included; two patients who reported two events of injection site urticaria, and one event of injection site vesicles. In study 111-206, patients aged &lt; 5 years, injections site reactions were reported in 86% of patients treated with vosoritide compared to 53% patients on placebo. Patients receiving vosoritide who experienced injection site reactions reported a median of 224 events, compared to patients receiving placebo who reported a median of 114 events over a 52-week period, all of which were Grade 1 (mild) in severity. In patients &gt; 2 years to &lt; 5 years of age, injection site reactions were reported in 84% patients treated with vosoritide compared to 44% patients on placebo. In patients 6 months to &lt; 2 years of age, events of injection site reactions were reported in 83% patients treated with vosoritide compared to 50% patients on placebo. In patients &lt; 6 months of age, injection site reactions were reported in 92% patients treated with vosoritide compared to 75% patients on placebo.
 
-<div style=\"page-break-after: always\"></div>
-
 Across all age groups, injection site reactions were transient, and not treatment limiting.
 
 ## Immunogenicity
 
 Of 131 patients aged 5 years of age and older with achondroplasia who were treated with vosoritide 15 µg/kg/day and evaluable for the presence of anti-drug antibodies (ADA) for up to 240 weeks, ADA were detected in 35% of patients. The earliest time to ADA development was day 85. All ADApositive patients tested negative for anti-vosoritide neutralising antibodies. There was no correlation between the number, duration, or severity of hypersensitivity adverse reactions or injection site reactions and ADA positivity or mean ADA titre. There was no association between ADA positivity or mean ADA titre and change from baseline in annual growth velocity (AGV) or height Z-score at Month 12. There was no impact of serum ADA detected on the plasma PK measurements of vosoritide.
+
+<div style=\"page-break-after: always\"></div>
 
 In patients under 5 years of age, 19% (8/43) of vosoritide-treated patients tested positive for ADA and all placebo-treated patients tested negative for ADA. The earliest time to ADA development was week 26. All of the ADA-positive patients tested negative for neutralising anti-drug antibodies (NAb) at all time points. There was no impact of ADA development on safety, efficacy or PK of vosoritide.
 
@@ -243,7 +241,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 ## 4.9 Overdose
 
-In clinical trials, doses of vosoritide were explored up to 30 μg/kg/day. Two patients received up to 3 times the recommended daily dose of 15 μg/kg/day for up to 5 -weeks. No signs, symptoms or adverse reactions associated with the higher than intended dose were observed.
+In clinical trials, doses of vosoritide were explored up to 30 μg/kg/day. Two patients received up to 3 times the recommended daily dose of 15 μg/kg/day for up to 5-weeks. No signs, symptoms or adverse reactions associated with the higher than intended dose were observed.
 
 In the event a patient takes more than they should, the patient should contact their healthcare professional.
 
@@ -257,17 +255,17 @@ Pharmacotherapeutic group: Drugs for treatment of bone diseases, other drugs aff
 
 Vosoritide is a modified type C natriuretic peptide (CNP). In patients with achondroplasia, endochondral bone growth is negatively regulated due to a gain of function mutation in fibroblast growth factor receptor 3 (FGFR3) . Binding of vosoritide to natriuretic peptide receptor-B (NPR-B) antagonises FGFR3 downstream signalling by inhibiting the extracellular signal-regulated kinases 1 and 2 (ERK1/2) in the mitogen-activated protein kinase (MAPK) pathway at the level of rapidly accelerating fibrosarcoma serine/threonine protein kinase (RAF-1). As a result, vosoritide, like CNP, acts as a positive regulator of endochondral bone growth as it promotes chondrocyte proliferation and differentiation.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Pharmacodynamic effects
 
 Exposure-dependent (AUC and Cmax) increases from baseline in urinary cyclic guanosine monophosphate (cGMP, a biomarker for NPR-B activity) concentrations and serum collagen type X marker (CXM, a biomarker for endochondral ossification) were observed on treatment with vosoritide. Increase in the urinary cGMP concentrations from pre-dose baseline took place within the first four hours post-dose. Median serum CXM concentration increased over baseline by day 29 of daily administration of this medicinal product. This effect was maintained beyond 24 months of treatment. Vosoritide activity as measured by urine cGMP was near saturation while maximal increase in growth plate activity indicated by CXM was achieved at the dose of 15 μg/kg administered subcutaneously once daily.
 
 ## Clinical efficacy and safety
 
-The efficacy and safety of vosoritide in patients with achondroplasia with confirmed FGFR3 mutation were assessed in a randomised, double-blind, placebo-controlled 52-week study (ACH study 111-301). In ACH study 111-301, patients were randomised to either vosoritide (n=60) or placebo (n=61) and the dose of vosoritide was 15 μg/kg administered subcutan eously once daily. Prior to randomisation, all patients enrolled in an observational study (ACH study 111-901) for paediatric patients with achondroplasia for at least a 6-month period during which baseline standing height and other pre-treatment growth assessments were collected. Patients with limb-lengthening surgery in the prior 18 months or who planned to have limb-lengthening surgery during the study period were excluded. The study comprised a 52-week placebo-controlled treatment phase followed by an open-label treatment extension study in which all patients received vosoritide (ACH study 111-302). The primary efficacy endpoint was the change from baseline in AGV at Week 52 compared with placebo.
+<div style=\"page-break-after: always\"></div>
 
-Patients with achondroplasia were also treated with vosoritide 15 μg/kg/day in an open label, dose -escalation study and in its long-term extension study (ACH study 111-205). Data was collected from observational studies in patients to characterise the natural history of achondroplasia. Height data from untreated patients with achondroplasia in the same age range as the clinical studies was used as an historical control to assess the effect on height after up to 5 years of vosoritide treatment.
+The efficacy and safety of vosoritide in patients with achondroplasia with confirmed FGFR3 mutation were assessed in a randomised, double-blind, placebo-controlled 52-week study (ACH study 111-301). In ACH study 111-301, patients were randomised to either vosoritide (n=60) or placebo (n=61) and the dose of vosoritide was 15 μg/kg administered subcutaneously once daily. Prior to randomisation, all patients enrolled in an observational study (ACH study 111-901) for paediatric patients with achondroplasia for at least a 6-month period during which baseline standing height and other pre-treatment growth assessments were collected. Patients with limb-lengthening surgery in the prior 18 months or who planned to have limb-lengthening surgery during the study period were excluded. The study comprised a 52-week placebo-controlled treatment phase followed by an open-label treatment extension study in which all patients received vosoritide (ACH study 111-302). The primary efficacy endpoint was the change from baseline in AGV at Week 52 compared with placebo.
+
+Patients with achondroplasia were also treated with vosoritide 15 μg/kg/day in an open label, doseescalation study and in its long-term extension study (ACH study 111-205). Data was collected from observational studies in patients to characterise the natural history of achondroplasia. Height data from untreated patients with achondroplasia in the same age range as the clinical studies was used as an historical control to assess the effect on height after up to 5 years of vosoritide treatment.
 
 Patient demographics and baseline characteristics are shown in Table 3.
 
@@ -294,12 +292,13 @@ Table 3: Patient demographics and characteristics in ACH study 111-301 and ACH s
 
 max, maximum; min, minimum; SD, standard deviation.
 
-<div style=\"page-break-after: always\"></div>
+a Percentages were calculated using the total number of patients in the full analysis set (N for each treatment group) as the denominator
 
-- a Percentages were calculated using the total number of patients in the full analysis set (N for each treatment group) as the denominator
-- b Analysis from 10 out of 35 patients who only received 15 µg/kg/day in an open label, dose-escalation study and continued into the long-term extension ACH study 111-205
+b Analysis from 10 out of 35 patients who only received 15 µg/kg/day in an open label, dose-escalation study and continued into the long-term extension ACH study 111-205
 
 In ACH study 111-301, improvements in AGV and height Z-score from baseline were observed in patients treated with Voxzogo 15 µg/kg/day compared with placebo. Efficacy results are shown in Table 4.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 4: Results from placebo-controlled clinical trial
 
@@ -313,12 +312,13 @@ Table 4: Results from placebo-controlled clinical trial
 
 AGV, annualised growth velocity; 95% CI, 95% confidence interval; LS, least-square; SD, standard deviation.
 
-- a Difference is 15 µg/kg Voxzogo minus placebo.
+a Difference is 15 µg/kg Voxzogo minus placebo.
 
 b Two-sided p-value.
 
-- c Two patients in the Voxzogo group discontinued from the study before Week 52. The values for these 2 patients were imputed for this analysis.
-- LS mean estimated from the ANCOVA (analysis of covariance) model adjusted for baseline differences between the two arms, analysis of covariance.
+c Two patients in the Voxzogo group discontinued from the study before Week 52. The values for these 2 patients were imputed for this analysis.
+
+LS mean estimated from the ANCOVA (analysis of covariance) model adjusted for baseline differences between the two arms, analysis of covariance.
 
 The benefit of improvement in AGV in favour of Voxzogo was consistent across all predefined subgroups analysed including sex, age group, Tanner stage, baseline height Z-score, and baseline AGV. In the subgroup of males Tanner stage &gt; I, the point estimate of treatment effect was in favour of vosoritide however there were only 8 subjects in this subgroup (3 and 5 subjects in vosoritide and placebo arms, respectively).
 
@@ -326,13 +326,11 @@ The observed increase in growth occurred proportionally in both the spine and th
 
 Figure 1 shows the effect of Voxzogo over the two-year period in the Voxzogo treatment group, as well as the effect in the placebo control group after receiving daily subcutaneous injections of Voxzogo for 52 weeks in the open label extension study. Improvements in AGV were maintained during continued Voxzogo therapy, with no evidence of tachyphylaxis.
 
-Figure 1: Mean (±SD) 12-Month Interval AGV Over Time
+Figure 1: Mean (±SD) 12-Month Interval AGV Over Time The figure includes all subjects enrolled in the pivotal trial who had a height assessment at week 52 in the extension study. Solid lines represent treatment with vosoritide 15 ug/kg; dashed lines represent placebo. Baseline is defined as the last assessment before the first dose of active study drug (i.e. vosoritide) or Placebo in 111-301.
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
-
-The figure includes all subjects enrolled in the pivotal trial who had a height assessment at week 52 in the extension study. Solid lines represent treatment with vosoritide 15 ug/kg; dashed lines represent placebo. Baseline is defined as the last assessment before the first dose of active study drug (i.e. vosoritide) or Placebo in 111-301.
 
 12-Month AGV at post-baseline visits is derived over the previous 12 months. For example, 12-Month Interval AGV at Week 52 111-302 = [(Height at Week 52 111-302 Visit- Height at Week 52 111-301 Visit)/(Date of Week 52 111-302 Visit - Date of Week 52 111-301 Visit)] x 365.25.
 
@@ -414,9 +412,9 @@ In vitro cytochrome P450 (CYP) inhibition and induction studies indicated that v
 
 Adverse reactions not observed in clinical studies but seen in animals at exposure levels similar to clinical exposure levels, and with possible relevance to clinical use.
 
-Transient decreases in blood pressure and increases in heart rate were observed in healthy monkeys across multiple studies in doses of 28 to 300 μg/kg in a dose -related manner. Peak effects were typically observed within the first hour post dose and were generally asymptomatic. In some monkeys receiving higher doses of vosoritide, brief bouts of sternal/lateral recumbency or hypoactivity, were observed. These effects could be related to decreased blood pressure.
+Transient decreases in blood pressure and increases in heart rate were observed in healthy monkeys across multiple studies in doses of 28 to 300 μg/kg in a dose-related manner. Peak effects were typically observed within the first hour post dose and were generally asymptomatic. In some monkeys receiving higher doses of vosoritide, brief bouts of sternal/lateral recumbency or hypoactivity, were observed. These effects could be related to decreased blood pressure.
 
-Adverse effects on body posture, bone shape, mobility, and bone strength were observed in normal animals in repeat-dose toxicity studies in rats and monkeys. In monkeys, the NOAEL for vosoritide is 25 μg/kg (mean C max value of 1 170 pg/mL; approximately equivalent to the recommended human dose in a 20 kg human) when administered daily via subcutaneous injection for 44 weeks.
+Adverse effects on body posture, bone shape, mobility, and bone strength were observed in normal animals in repeat-dose toxicity studies in rats and monkeys. In monkeys, the NOAEL for vosoritide is 25 μg/kg (mean Cmax value of 1 170 pg/mL; approximately equivalent to the recommended human dose in a 20 kg human) when administered daily via subcutaneous injection for 44 weeks.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -482,7 +480,7 @@ For storage conditions after reconstitution of the medicinal product, see sectio
 
 ## Powder
 
-2 mL vial (glass) with rubber stopper (bromobutyl) and white flip cap.
+2 mL vial (glass) with rubber stopper (butyl or bromobutyl) and white flip cap.
 
 ## Solvent
 
@@ -492,7 +490,7 @@ Pre-filled syringe (glass) with plunger (bromobutyl) and tip cap with a luer loc
 
 ## Powder
 
-2 mL vial (glass) with rubber stopper (bromobutyl) and magenta flip cap.
+2 mL vial (glass) with rubber stopper (butyl or bromobutyl) and magenta flip cap.
 
 ## Solvent
 
@@ -502,7 +500,7 @@ Pre-filled syringe (glass) with plungers (bromobutyl) and tip cap with a luer lo
 
 ## Powder
 
-2 mL vial (glass) with rubber stopper (bromobutyl) and grey flip cap.
+2 mL vial (glass) with rubber stopper (butyl or bromobutyl) and grey flip cap.
 
 ## Solvent
 
@@ -677,9 +675,7 @@ If not used immediately, vosoritide must be administered within 3 hours of recon
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-BioMarin International Limited Shanbally, Ringaskiddy County Cork Ireland
-
-P43 R298
+BioMarin International Limited Shanbally, Ringaskiddy County Cork Ireland P43 R298
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -705,23 +701,25 @@ Voxzogo 0.4 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| 0.4 MGVIAL LABEL                                                 |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| 0.4 MG VIAL LABEL                                                  |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Voxzogo 0.4 mg powder for injection vosoritide SC use
+Voxzogo 0.4 mg powder for injection vosoritide
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+SC use
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -733,8 +731,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.4 mg
 
@@ -765,8 +763,7 @@ Lot
 
 0.5 mL
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 For reconstitution of the powder in the vial
 
@@ -822,7 +819,8 @@ Powder and solvent for solution for injection.
 
 This carton contains:
 
-- 10 powder vials (0.56 mg)
+10 powder vials (0.56 mg)
+
 - 10 syringes with solvent (0.7 mL)
 - 10 single use needles
 - 10 single use syringes
@@ -887,25 +885,23 @@ Voxzogo 0.56 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| 0.56 MGVIAL LABEL                                                |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| 0.56 MG VIAL LABEL                                                 |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Voxzogo 0.56 mg powder for injection vosoritide
+Voxzogo 0.56 mg powder for injection vosoritide SC use
 
-SC use
-
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -917,8 +913,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.56 mg Solvent for Voxzogo SC use after reconstitution EXP
 
@@ -927,15 +923,15 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| 0.7 MLPRE-FILLED SYRINGE LABEL                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| 0.7 ML PRE-FILLED SYRINGE LABEL                                    |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -945,8 +941,8 @@ Lot
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.7 mL
 
@@ -954,6 +950,8 @@ Lot
 |------|---------|
 
 For reconstitution of the powder in the vial
+
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -976,8 +974,6 @@ EXP
 Lot
 
 ## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
@@ -1007,7 +1003,8 @@ Powder and solvent for solution for injection.
 
 This carton contains:
 
-- 10 powder vials (1.2 mg)
+10 powder vials (1.2 mg)
+
 - 10 syringes with solvent (0.6 mL)
 - 10 single use needles
 - 10 single use syringes
@@ -1072,23 +1069,23 @@ Voxzogo 1.2 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| 1.2 MGVIAL LABEL                                                 |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| 1.2 MG VIAL LABEL                                                  |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Voxzogo 1.2 mg powder for injection vosoritide SC use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1100,8 +1097,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1.2 mg Solvent for Voxzogo SC use after reconstitution EXP
 
@@ -1110,15 +1107,15 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| 0.6 MLPRE-FILLED SYRINGE LABEL                                   |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| 0.6 ML PRE-FILLED SYRINGE LABEL                                    |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1128,8 +1125,8 @@ Lot
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.6 mL
 
@@ -1168,17 +1165,13 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 Voxzogo 0.4 mg powder and solvent for solution for injection Voxzogo 0.56 mg powder and solvent for solution for injection Voxzogo 1.2 mg powder and solvent for solution for injection
 
 vosoritide
-
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you or your child may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1218,11 +1211,11 @@ The active substance in Voxzogo works directly on the growth points of your bone
 
 - -if you or your child are allergic to vosoritide or any of the other ingredients of this medicine (listed in section 6).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Warnings and precautions
 
 Talk to your doctor before using Voxzogo:
+
+<div style=\"page-break-after: always\"></div>
 
 - -If you or your child have significant heart disease or blood pressure problems.
 - -If you or your child are taking or have recently taken medicines that lower blood pressure.
@@ -1334,11 +1327,6 @@ These may affect up to 1 in 10 people:
 - Dizziness
 - Nausea
 - Tiredness
-
-## Uncommon side effects
-
-These may affect up to 1 in 100 people:
-
 - Abnormal hair growth anywhere on the body in either males or females (hypertrichosis)
 
 ## Reporting of side effects
@@ -1359,13 +1347,14 @@ Use Voxzogo as soon as it has been made up as a solution. In any case it must be
 
 Do not throw away any medicines via household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. Contents of the pack and other information
 
 ## What Voxzogo contains
 
 - -The active substance is vosoritide.
+
+<div style=\"page-break-after: always\"></div>
+
 - Each vial of 0.4 mg powder reconstituted in a solution of 0.5 mL solvent, corresponds to a concentration of 0.8 mg/mL.
 - Each vial 0.56 mg powder reconstituted in a solution of 0.7 mL solvent, corresponds to a concentration of 0.8 mg/mL.
 - Each vial of 1.2 mg powder reconstituted in a solution of 0.6 mL solvent, corresponds to a concentration of 2 mg/mL.
@@ -1398,7 +1387,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 <div style=\"page-break-after: always\"></div>
 
-## Instructions for use of the syringe graduated in millilitres (mL)
+Instructions for use of the syringe graduated in millilitres (mL)
 
 Please read these Instructions for use before using Voxzogo and each time you get a refill. There may be new information.
 
@@ -1414,23 +1403,15 @@ If you don't have these items, ask your pharmacist.
 
 Figure B
 
-<!-- image -->
-
 Alcohol pads
 
 Sharps container
 
 Gauze or bandage
 
-L
+灵
 
-L
-
-曼
-
-口：
-
-8
+<!-- image -->
 
 <!-- image -->
 
@@ -1494,9 +1475,7 @@ ATTENTION: Do not place the cap back on the needle.
 
 Step 12: Make sure you have the prescribed dose in the syringe, then remove the vial and prepare to give the dose.
 
-Confirm amount matches the
-
-ATTENTION: prescribed dose before removing vial.
+ATTENTION: Confirm amount matches the prescribed dose before removing vial.
 
 <!-- image -->
 
@@ -1526,13 +1505,17 @@ Do not touch the area again before injecting.
 
 ## GIVING VOXZOGO INJECTION
 
-<!-- image -->
-
 | Step 15: After wiping the site with an alcohol pad, pinch the skin up around the selected injection site.   |
 |-------------------------------------------------------------------------------------------------------------|
 | Step 16: Quickly insert the needle all the way into the skin at a 45-degree angle.                          |
 | Step 17: Release the pinch and slowly push the plunger rod all the way. Inject full dose.                   |
 | Step 18: Continue pressing the plunger rod until the needle retracts into the syringe.                      |
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1600,21 +1583,27 @@ Gauze or bandage
 
 Before you start, make sure you have a clean work surface and that you have washed your hands.
 
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
 Step 1: On a clean flat surface, flip off the vial cap and wipe the top with an alcohol pad.
 
 Do not touch the vial stopper with your fingers after wiping it with an alcohol pad.
 
 - Step 2: Gently bend to snap off the cap from the solvent syringe.
+
 - Step 3: Twist the solvent needle onto the solvent syringe until you can no longer twist it.
+
 - Step 4: Pull off the needle cap and insert the needle into the vial through the middle of the vial stopper. Slowly push the plunger rod down to inject all of the liquid.
 
-<!-- image -->
+1)
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
+1)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1650,14 +1639,11 @@ The following sites are recommended for injection:
 - Thighs or
 - Abdomen (5 centimetres from belly button)
 - Buttocks
-
-<!-- image -->
-
-\"
-
 - Do not inject through clothes.
 - Do not inject in the same site two times in a row.
 - Do not inject into skin that is sore, bruised, red, hard, or scarred.
+
+<!-- image -->
 
 Step 14: Wipe the injection site with an alcohol pad and let the skin air dry.
 
@@ -1666,8 +1652,6 @@ Do not touch the area again before injecting.
 <div style=\"page-break-after: always\"></div>
 
 ## GIVING VOXZOGO INJECTION
-
-<!-- image -->
 
 | Step 15: After wiping the site with an alcohol pad, pinch the skin up around the selected injection site.                                         |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1680,6 +1664,12 @@ Do not touch the area again before injecting.
 - Check the injection site. If there is a small amount of blood at the injection site, gently press a gauze pad on it for a few seconds or apply a bandage.
 - Do not rub the injection site.
 - Look out for signs of low blood pressure, such as dizziness, tiredness, or feeling sick. If you have these symptoms call your doctor or healthcare provider, then lie down on your back and place cushions under your legs to raise them.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 

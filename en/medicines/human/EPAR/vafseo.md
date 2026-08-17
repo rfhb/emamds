@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-24 15:25:00
+document_datetime: 2026-08-14 11:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vafseo.html
 document_name: vafseo.html
 version: success
-processing_time: 0.2447172
-conversion_datetime: 2026-03-25 12:43:31.617497
+processing_time: 0.1050172
+conversion_datetime: 2026-08-17 13:27:06.532038
 docling_version:
-  docling-serve: 1.15.0
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.12.0
-  docling-parse: 5.6.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.120.2
+  docling-core: 2.91.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.13.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 # Vafseo
 
@@ -54,37 +54,37 @@ Expand section
 
 Collapse section
 
-## How is Vafseo used?
+### How is Vafseo used?
 
 Vafseo can only be obtained with a prescription, and treatment should be started by a doctor experienced in the management of anaemia. It is available as tablets to be taken once a day.
 
 For more information about using Vafseo, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Vafseo work?
+### How does Vafseo work?
 
 Patients with chronic kidney disease may not produce enough erythropoietin, a hormone needed to stimulate the production of red blood cells. The active substance in Vafseo, vadadustat, acts on an enzyme called hypoxia-inducible factor prolyl hydroxylase (HIF-PH). This stimulates the natural response that normally occurs when oxygen levels are low, including the production of erythropoietin and red blood cells.
 
-## What benefits of Vafseo have been shown in studies?
+### What benefits of Vafseo have been shown in studies?
 
 Two main studies involving nearly 4,000 patients with anaemia caused by chronic kidney disease who were on dialysis showed that Vafseo was as effective as darbepoetin alfa (another medicine for treating anaemia) at increasing blood levels of haemoglobin.
 
-## What are the risks associated with Vafseo?
+### What are the risks associated with Vafseo?
 
 For the full list of side effects and restrictions with Vafseo, see the package leaflet.
 
 The most common side effects with Vafseo (which may affect more than 1 in 10 people) include thromboembolic events (problems due to the formation of blood clots in the blood vessels), diarrhoea and hypertension (high blood pressure).
 
-## Why is Vafseo authorised in the EU?
+### Why is Vafseo authorised in the EU?
 
 Vafseo was shown to be as effective as the comparator medicine darbepoetin alfa at treating anaemia in patients with chronic kidney disease who were on dialysis. With regard to safety, the risk of thromboembolic events in patients treated with Vafseo is addressed with warnings in the prescribing information. The European Medicines Agency therefore decided that Vafseo's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Vafseo?
+### What measures are being taken to ensure the safe and effective use of Vafseo?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Vafseo have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Vafseo are continuously monitored. Suspected side effects reported with Vafseo are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Vafseo
+### Other information about Vafseo
 
 Vafseo received a marketing authorisation valid throughout the EU on 24 April 2023.
 
@@ -102,7 +102,7 @@ English (EN) (116.32 KB - PDF)
 
 [View](/en/documents/overview/vafseo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-436)
+[Other languages (22)](#file-language-dropdown-913)
 
 български (BG) (136.5 KB - PDF)
 
@@ -134,7 +134,7 @@ Deutsch (DE) (117.7 KB - PDF)
 
 [View](/de/documents/overview/vafseo-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (105.32 KB - PDF)
+eesti (ET) (105.32 KB - PDF)
 
 **First published:** 31/05/2023
 
@@ -164,13 +164,13 @@ italiano (IT) (115.14 KB - PDF)
 
 [View](/it/documents/overview/vafseo-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (143.36 KB - PDF)
+latviešu (LV) (143.36 KB - PDF)
 
 **First published:** 31/05/2023
 
 [View](/lv/documents/overview/vafseo-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (136.29 KB - PDF)
+lietuvių (LT) (136.29 KB - PDF)
 
 **First published:** 31/05/2023
 
@@ -224,7 +224,7 @@ slovenščina (SL) (133.63 KB - PDF)
 
 [View](/sl/documents/overview/vafseo-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (114.59 KB - PDF)
+suomi (FI) (114.59 KB - PDF)
 
 **First published:** 31/05/2023
 
@@ -248,167 +248,168 @@ English (EN) (756.02 KB - PDF)
 
 Vafseo: EPAR - Product Information
 
-English (EN) (390.54 KB - PDF)
+English (EN) (534.29 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/en/documents/product-information/vafseo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-408)
+[Other languages (24)](#file-language-dropdown-841)
 
-български (BG) (542.2 KB - PDF)
+български (BG) (825.89 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/bg/documents/product-information/vafseo-epar-product-information_bg.pdf)
 
-español (ES) (389.97 KB - PDF)
+español (ES) (527.49 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/es/documents/product-information/vafseo-epar-product-information_es.pdf)
 
-čeština (CS) (487.76 KB - PDF)
+čeština (CS) (881.91 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/cs/documents/product-information/vafseo-epar-product-information_cs.pdf)
 
-dansk (DA) (387.51 KB - PDF)
+dansk (DA) (733.43 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/da/documents/product-information/vafseo-epar-product-information_da.pdf)
 
-Deutsch (DE) (410.17 KB - PDF)
+Deutsch (DE) (774.77 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/de/documents/product-information/vafseo-epar-product-information_de.pdf)
 
-eesti keel (ET) (386.77 KB - PDF)
+eesti (ET) (546.46 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/et/documents/product-information/vafseo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (504.35 KB - PDF)
+ελληνικά (EL) (613.33 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/el/documents/product-information/vafseo-epar-product-information_el.pdf)
 
-français (FR) (385.25 KB - PDF)
+français (FR) (750.89 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/fr/documents/product-information/vafseo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (443.22 KB - PDF)
+hrvatski (HR) (751.42 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/hr/documents/product-information/vafseo-epar-product-information_hr.pdf)
 
-íslenska (IS) (456 KB - PDF)
+italiano (IT) (562.7 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
-
-[View](/is/documents/product-information/vafseo-epar-product-information_is.pdf)
-
-italiano (IT) (421.59 KB - PDF)
-
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/it/documents/product-information/vafseo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (479.77 KB - PDF)
+latviešu (LV) (765.74 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/lv/documents/product-information/vafseo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (475.16 KB - PDF)
+lietuvių (LT) (579.76 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/lt/documents/product-information/vafseo-epar-product-information_lt.pdf)
 
-magyar (HU) (501.14 KB - PDF)
+magyar (HU) (620.39 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/hu/documents/product-information/vafseo-epar-product-information_hu.pdf)
 
-Malti (MT) (493.28 KB - PDF)
+Malti (MT) (606.16 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/mt/documents/product-information/vafseo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (398.49 KB - PDF)
+Nederlands (NL) (542 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/nl/documents/product-information/vafseo-epar-product-information_nl.pdf)
 
-norsk (NO) (409.96 KB - PDF)
+polski (PL) (636.79 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
-
-[View](/no/documents/product-information/vafseo-epar-product-information_no.pdf)
-
-polski (PL) (511.4 KB - PDF)
-
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/pl/documents/product-information/vafseo-epar-product-information_pl.pdf)
 
-português (PT) (407.85 KB - PDF)
+português (PT) (749.79 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/pt/documents/product-information/vafseo-epar-product-information_pt.pdf)
 
-română (RO) (559.18 KB - PDF)
+română (RO) (664.91 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/ro/documents/product-information/vafseo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (472.95 KB - PDF)
+slovenčina (SK) (798.81 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/sk/documents/product-information/vafseo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (428.69 KB - PDF)
+slovenščina (SL) (760.13 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/sl/documents/product-information/vafseo-epar-product-information_sl.pdf)
 
-Suomi (FI) (398.6 KB - PDF)
+suomi (FI) (732.49 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/fi/documents/product-information/vafseo-epar-product-information_fi.pdf)
 
-svenska (SV) (411.69 KB - PDF)
+svenska (SV) (745.77 KB - PDF)
 
-**First published:** 31/05/2023 **Last updated:** 24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
 
 [View](/sv/documents/product-information/vafseo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0000337598
+Íslenska (IS) (609.66 KB - PDF)
 
-24/03/2026
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
+
+[View](/is/documents/product-information/vafseo-epar-product-information_is.pdf)
+
+norsk (NO) (762 KB - PDF)
+
+**First published:** 31/05/2023 **Last updated:** 14/08/2026
+
+[View](/no/documents/product-information/vafseo-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000363045
+
+12/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -426,7 +427,7 @@ English (EN) (61.62 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vafseo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-692)
+[Other languages (24)](#file-language-dropdown-710)
 
 български (BG) (71.23 KB - PDF)
 
@@ -458,7 +459,7 @@ Deutsch (DE) (44.46 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/vafseo-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (44.21 KB - PDF)
+eesti (ET) (44.21 KB - PDF)
 
 **First published:** 31/05/2023
 
@@ -482,25 +483,19 @@ hrvatski (HR) (59.83 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/vafseo-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (43.92 KB - PDF)
-
-**First published:** 31/05/2023
-
-[View](/is/documents/all-authorised-presentations/vafseo-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (47.73 KB - PDF)
 
 **First published:** 31/05/2023
 
 [View](/it/documents/all-authorised-presentations/vafseo-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (62.63 KB - PDF)
+latviešu (LV) (62.63 KB - PDF)
 
 **First published:** 31/05/2023
 
 [View](/lv/documents/all-authorised-presentations/vafseo-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (64.53 KB - PDF)
+lietuvių (LT) (64.53 KB - PDF)
 
 **First published:** 31/05/2023
 
@@ -523,12 +518,6 @@ Nederlands (NL) (47.41 KB - PDF)
 **First published:** 31/05/2023
 
 [View](/nl/documents/all-authorised-presentations/vafseo-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (48.43 KB - PDF)
-
-**First published:** 31/05/2023
-
-[View](/no/documents/all-authorised-presentations/vafseo-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (57.17 KB - PDF)
 
@@ -560,7 +549,7 @@ slovenščina (SL) (63.41 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/vafseo-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (43.6 KB - PDF)
+suomi (FI) (43.6 KB - PDF)
 
 **First published:** 31/05/2023
 
@@ -572,24 +561,29 @@ svenska (SV) (46.19 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/vafseo-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (43.92 KB - PDF)
+
+**First published:** 31/05/2023
+
+[View](/is/documents/all-authorised-presentations/vafseo-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (48.43 KB - PDF)
+
+**First published:** 31/05/2023
+
+[View](/no/documents/all-authorised-presentations/vafseo-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Vafseo
-
-Active substance
-
-vadadustat
-
-International non-proprietary name (INN) or common name
-
-vadadustat
-
-Therapeutic area (MeSH)
-
-- Renal Insufficiency, Chronic
-- Anemia
+- **Name of medicine**
+    - Vafseo
+- **Active substance**
+    - vadadustat
+- **International non-proprietary name (INN) or common name**
+    - vadadustat
+- **Therapeutic area (MeSH)**
+        - Renal Insufficiency, Chronic
+        - Anemia
 
 ### Pharmacotherapeutic group
 
@@ -601,31 +595,18 @@ Vafseo is indicated for the treatment of symptomatic anaemia associated with chr
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005131
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
-
-Medice Arzneimittel Pütter GmbH &amp; Co. KG
-
-Medice Arzneimittel Pütter GmbH &amp; Co. KG
-
-Opinion adopted
-
-23/02/2023
-
-Marketing authorisation issued
-
-24/04/2023
-
-Revision
-
-5
+- **EMA product number**
+    - EMEA/H/C/005131
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Marketing authorisation holder**
+    - Medice Arzneimittel Pütter GmbH &amp; Co. KG Medice Arzneimittel Pütter GmbH &amp; Co. KG  Kuhloweg 37-39  D-58638 Iserlohn  Germany
+- **Opinion adopted**
+    - 23/02/2023
+- **Marketing authorisation issued**
+    - 24/04/2023
+- **Revision**
+    - 6
 
 ## Assessment history
 
@@ -633,13 +614,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Vafseo: EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (154.51 KB - PDF)
+English (EN) (133.15 KB - PDF)
 
-**First published:** 27/03/2025 **Last updated:** 24/03/2026
+**First published:** 27/03/2025 **Last updated:** 14/08/2026
 
 [View](/en/documents/procedural-steps-after/vafseo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -651,7 +632,7 @@ English (EN) (104.87 KB - PDF)
 
 [View](/en/documents/procedural-steps-after/vafseo-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Vafseo: EPAR - Public assessment report
 
@@ -685,6 +666,6 @@ English (EN) (128.01 KB - PDF)
 
 **This page was last updated on**
 
-24/03/2026
+14/08/2026
 
 ## Share this page

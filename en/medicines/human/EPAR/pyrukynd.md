@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-09 13:52:00
+document_datetime: 2026-08-13 14:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pyrukynd.html
 document_name: pyrukynd.html
 version: success
-processing_time: 0.2959285
-conversion_datetime: 2026-07-10 22:37:15.562181
+processing_time: 0.3283472
+conversion_datetime: 2026-08-17 13:27:58.550727
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.111.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.120.2
+  docling-core: 2.91.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.13.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 # Pyrukynd
 
@@ -48,7 +48,9 @@ Page contents
 
 Pyrukynd is a medicine used to treat adults with pyruvate kinase deficiency (PKD), an inherited disease that causes red blood cells to break down faster than normal.
 
-PKD is rare, and Pyrukynd was designated an 'orphan medicine' (a medicine used in rare diseases) on 22 April 2020. Further information on the orphan designation can be found here: [https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu-3-20-2270](/en/medicines/human/orphan-designations/eu-3-20-2270) .
+Pyrukynd is also used to treat anaemia (low levels of red blood cells) in adults with alpha or beta thalassaemia (inherited blood disorders in which patients do not have enough normal haemoglobin, the protein in red blood cells that carries oxygen around the body). It can be used in patients who require regular blood transfusions (transfusion-dependent thalassemia) and those who do not require regular transfusions (non-transfusion-dependent thalassemia).
+
+These conditions are rare, and Pyrukynd was designated an 'orphan medicine' (a medicine used in rare diseases).
 
 Pyrukynd contains the active substance mitapivat.
 
@@ -58,9 +60,11 @@ Collapse section
 
 ### How is Pyrukynd used?
 
-Pyrukynd can only be obtained with a prescription. It is available as tablets to be taken by mouth. The recommended starting dose is one 5 mg tablet taken twice a day. The dose can be increased every four weeks, based on the patient's haemoglobin (the protein in red blood cells that carries oxygen around the body) levels and their need for a transfusion in the previous 8 weeks. The maximum recommended dose of Pyrukynd is 50 mg twice a day.
+Pyrukynd can only be obtained with a prescription; treatment should be started by a doctor experienced in the treatment of blood diseases. It is available as tablets to be taken by mouth. Pyrukynd is intended for long-term treatment.
 
-If treatment needs to be interrupted or stopped completely, the dose of Pyrukynd should be gradually reduced over a period of 1 to 2 weeks.
+For the treatment of PKD, the recommended starting dose is one 5 mg tablet taken twice a day. The dose can be increased every four weeks, based on the patient's haemoglobin levels and their need for a transfusion in the previous 8 weeks. The maximum recommended dose of Pyrukynd is 50 mg twice a day. If treatment needs to be interrupted or stopped completely, the dose of Pyrukynd should be gradually reduced over a period of 1 to 2 weeks.
+
+For the treatment of anaemia in patients with alpha or beta thalassaemia, the recommended dose is 100 mg twice a day. Treatment should be stopped if a patient does not improve after 6 months (for patients with non-transfusion-dependent thalassaemia) or after 1 year (for patients with transfusion-dependent thalassaemia).
 
 For more information about using Pyrukynd, see the package leaflet or contact your doctor or pharmacist.
 
@@ -68,25 +72,41 @@ For more information about using Pyrukynd, see the package leaflet or contact yo
 
 Patients with PKD have a defective form of pyruvate kinase, a protein in red blood cells which converts glucose into energy. As a result, their red blood cells cannot make enough energy to hold their shape, causing them to break down before the body has time to replace them. This excessive breakdown of red blood cells is known as haemolytic anaemia.
 
-The active substance in Pyrukynd, mitapivat, attaches to and activates pyruvate kinase, causing it to work more effectively and thereby preventing the red blood cells of these patients from being broken down too fast.
+The active substance in Pyrukynd, mitapivat, attaches to and activates pyruvate kinase, causing it to work more effectively and thereby preventing the red blood cells of these patients from being broken down too fast; it also increases energy in red blood cells, improving their health. These actions help improve anaemia also in patients with thalassaemia.
 
 ### What benefits of Pyrukynd have been shown in studies?
 
-The benefits of Pyrukynd were evaluated in two main studies. In the first study, involving 80 patients with PKD who were not regularly receiving blood transfusions, Pyrukynd was compared with placebo (dummy treatment). In this study, 40% of patients treated with Pyrukynd had an increase of their haemoglobin levels of 1.5 g/dL, which was maintained at 2 or more check-ups carried out after 16, 20 and 24 weeks of treatment, compared with none of the patients treated with placebo.
+**Pyruvate kinase deficiency**
+
+The benefits of Pyrukynd in the treatment of PKD were evaluated in two main studies. In the first study, involving 80 patients who were not regularly receiving blood transfusions, Pyrukynd was compared with placebo (dummy treatment). In this study, 40% of patients treated with Pyrukynd had an increase of their haemoglobin levels of 1.5 g/dL, which was maintained at two or more check-ups carried out after 16, 20 and 24 weeks of treatment, compared with none of the patients treated with placebo.
 
 In the second study, involving 27 patients who were regularly receiving blood transfusions, Pyrukynd was not compared with placebo or any other medicines. In this study, the volume of red blood cells received in transfusions was reduced by more than a third in 37% of patients.
 
-### What are the risks associated with Pyrukynd?
+**Anaemia associated with alpha or beta thalassaemia**
 
-The most common side effects with Pyrukynd (which may affect more than 1 in 10 people) are insomnia (difficulty sleeping), nausea (feeling sick) and decreased levels of the hormone oestrone seen in blood tests in male patients.
+The effect of Pyrukynd on anaemia associated with thalassemia was investigated in two main studies involving a total of 452 people.
 
-For the full list of side effects and restrictions of Pyrukynd, see the package leaflet.
+One main study involved 258 people with alpha or beta thalassemia requiring regular blood transfusions; patients took Pyrukynd or placebo for at least 48 weeks. Blood transfusions were reduced by at least half (50%) with a reduction of at least two red blood cell units in around 30% (52 out of 171) of people taking Pyrukynd, compared with around 13% (11 out of 87) of people taking placebo.
+
+A second main study involved 194 patients with alpha or beta thalassaemia not requiring regular blood transfusions; patients took Pyrukynd or placebo for at least 24 weeks. By the end of study, around 42% (55 out of 130) of patients taking Pyrukynd had a rise of at least 1 g/dL in their haemoglobin level (based on the average of the levels observed in check-ups carried out after 12, 16, 20, and 24 weeks of treatment) without needing transfusions, compared with around 2% (1 out of 64) of those taking placebo.
+
+Studies carried out with Pyrukynd are described in more detail in the medicine's assessment reports.
+
+### What are the side effects and restrictions with Pyrukynd?
+
+For the full list of side effects and restrictions with Pyrukynd, see the package leaflet.
+
+The most common side effects with Pyrukynd (which may affect more than 1 in 10 people) in people with PKD include insomnia (difficulty sleeping), nausea (feeling sick) and decreased levels of the hormone oestrone seen in blood tests in male patients. In patients with thalassaemia, the most common side effects (which may affect more than 1 in 10 people) include headache and insomnia; decreased levels of the hormones oestrone and oestradiol and increased levels of testosterone were seen in male patients.
 
 ### Why is Pyrukynd authorised in the EU?
 
 There are limited treatment options for patients with PKD as management of the disease is restricted to supportive treatments to improve the symptoms and complications associated with haemolytic anaemia. Although there were some limitations associated with the main studies, Pyrukynd has been shown to provide clinically meaningful benefits to some patients with PKD, by increasing haemoglobin levels and reducing the need for transfusions. It was therefore considered that Pyrukynd addressed an unmet medical need in these patients.
 
-Furthermore, the side effects of Pyrukynd are considered manageable. The European Medicines Agency therefore decided that Pyrukynd's benefits are greater than its risks and it can be authorised for use in the EU.
+Pyrukynd was also shown to reduce the need for transfusions and to lead to a durable increase in haemoglobin levels, leading to an improvement in anaemia in patients with thalassemia.
+
+Furthermore, the side effects of Pyrukynd are considered manageable.
+
+The European Medicines Agency therefore decided that Pyrukynd's benefits are greater than its risks and it can be authorised for use in the EU.
 
 ### What measures are being taken to ensure the safe and effective use of Pyrukynd?
 
@@ -98,153 +118,21 @@ As for all medicines, data on the use of Pyrukynd are continuously monitored. Su
 
 Pyrukynd received a marketing authorisation valid throughout the EU on 9 November 2022.
 
+For information about the availability of this medicine in your country, contact your national competent authority.
+
 Pyrukynd - EPAR - Medicine Overview
 
-Reference Number: EMA/792190/2022
+Reference Number: EMADOC-1829012207-57579
 
-English (EN) (119.47 KB - PDF)
+English (EN) (134.54 KB - PDF)
 
-**First published:** 05/12/2022
+**First published:** 05/12/2022 **Last updated:** 13/08/2026
 
 [View](/en/documents/overview/pyrukynd-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-870)
-
-български (BG) (146.51 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/bg/documents/overview/pyrukynd-epar-medicine-overview_bg.pdf)
-
-español (ES) (121.95 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/es/documents/overview/pyrukynd-epar-medicine-overview_es.pdf)
-
-čeština (CS) (141.93 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/cs/documents/overview/pyrukynd-epar-medicine-overview_cs.pdf)
-
-dansk (DA) (108.06 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/da/documents/overview/pyrukynd-epar-medicine-overview_da.pdf)
-
-Deutsch (DE) (124.28 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/de/documents/overview/pyrukynd-epar-medicine-overview_de.pdf)
-
-eesti (ET) (109.94 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/et/documents/overview/pyrukynd-epar-medicine-overview_et.pdf)
-
-ελληνικά (EL) (146.36 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/el/documents/overview/pyrukynd-epar-medicine-overview_el.pdf)
-
-français (FR) (123.44 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/fr/documents/overview/pyrukynd-epar-medicine-overview_fr.pdf)
-
-hrvatski (HR) (144.17 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/hr/documents/overview/pyrukynd-epar-medicine-overview_hr.pdf)
-
-italiano (IT) (120.32 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/it/documents/overview/pyrukynd-epar-medicine-overview_it.pdf)
-
-latviešu (LV) (159.4 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/lv/documents/overview/pyrukynd-epar-medicine-overview_lv.pdf)
-
-lietuvių (LT) (143.42 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/lt/documents/overview/pyrukynd-epar-medicine-overview_lt.pdf)
-
-magyar (HU) (144.5 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/hu/documents/overview/pyrukynd-epar-medicine-overview_hu.pdf)
-
-Malti (MT) (144.87 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/mt/documents/overview/pyrukynd-epar-medicine-overview_mt.pdf)
-
-Nederlands (NL) (121.63 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/nl/documents/overview/pyrukynd-epar-medicine-overview_nl.pdf)
-
-polski (PL) (134.39 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/pl/documents/overview/pyrukynd-epar-medicine-overview_pl.pdf)
-
-português (PT) (123.13 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/pt/documents/overview/pyrukynd-epar-medicine-overview_pt.pdf)
-
-română (RO) (141.88 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/ro/documents/overview/pyrukynd-epar-medicine-overview_ro.pdf)
-
-slovenčina (SK) (141.81 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/sk/documents/overview/pyrukynd-epar-medicine-overview_sk.pdf)
-
-slovenščina (SL) (141.22 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/sl/documents/overview/pyrukynd-epar-medicine-overview_sl.pdf)
-
-suomi (FI) (118.72 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/fi/documents/overview/pyrukynd-epar-medicine-overview_fi.pdf)
-
-svenska (SV) (120.35 KB - PDF)
-
-**First published:** 05/12/2022
-
-[View](/sv/documents/overview/pyrukynd-epar-medicine-overview_sv.pdf)
-
 Pyrukynd : EPAR - Risk Management Plan
 
-English (EN) (8.63 MB - PDF)
+English (EN) (1.54 MB - PDF)
 
 **First published:** 05/12/2022 **Last updated:** 09/07/2026
 
@@ -260,7 +148,7 @@ English (EN) (1.16 MB - PDF)
 
 [View](/en/documents/product-information/pyrukynd-epar-product-information_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-264)
+[Other languages (25)](#file-language-dropdown-533)
 
 български (BG) (1.42 MB - PDF)
 
@@ -439,7 +327,7 @@ English (EN) (15.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-701)
+[Other languages (25)](#file-language-dropdown-250)
 
 български (BG) (45.66 KB - PDF)
 
@@ -721,10 +609,12 @@ English (EN) (127.72 KB - PDF)
 - [EU/3/20/2270 - orphan designation for treatment of pyruvate kinase deficiency](/en/medicines/human/orphan-designations/eu-3-20-2270)
 - [EMEA-002684-PIP01-19-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002684-pip01-19-m01)
 - [EMA/PE/0000238074 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000238074)
+- [EU/3/23/2827 - orphan designation for treatment of thalassaemia intermedia and major](/en/medicines/human/orphan-designations/eu-3-23-2827)
+- [EU/3/23/2889 - orphan designation for treatment of thalassaemia intermedia and major](/en/medicines/human/orphan-designations/eu-3-23-2889)
 - [Pyrukynd - opinion on variation to marketing authorisation](/en/medicines/human/variation/pyrukynd)
 
 **This page was last updated on**
 
-09/07/2026
+13/08/2026
 
 ## Share this page

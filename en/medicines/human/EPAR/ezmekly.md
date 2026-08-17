@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-12 16:20:00
+document_datetime: 2026-08-13 14:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ezmekly.html
 document_name: ezmekly.html
 version: success
-processing_time: 0.1127945
-conversion_datetime: 2026-05-13 12:59:16.958982
+processing_time: 0.1398773
+conversion_datetime: 2026-08-17 13:29:44.953919
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.120.2
+  docling-core: 2.91.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.13.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 # Ezmekly
 
@@ -56,7 +56,7 @@ Expand section
 
 Collapse section
 
-## How is Ezmekly used?
+### How is Ezmekly used?
 
 Ezmekly can only be obtained with a prescription and treatment should be started by a doctor who has experience in the diagnosis and treatment of patients with tumours caused by NF1.
 
@@ -64,11 +64,11 @@ Ezmekly is available as capsules to be swallowed, or dispersible tablets which c
 
 For more information about using Ezmekly, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Ezmekly work?
+### How does Ezmekly work?
 
 The active substance in Ezmekly, mirdametinib, is a small molecule which works by blocking a protein called MEK, which helps control how cells grow and survive. In people with NF1, MEK is overactive, leading to the growth of plexiform neurofibromas on nerve cells. By blocking MEK, mirdametinib helps to prevent the growth of these tumours.
 
-## What benefits of Ezmekly have been shown in studies?
+### What benefits of Ezmekly have been shown in studies?
 
 A main study involved 114 patients aged 2 years and older with plexiform neurofibromas caused by NF1 whose tumours could not be removed by surgery and caused symptoms. In this study, Ezmekly was not compared to any other treatment or a placebo.
 
@@ -80,7 +80,7 @@ In children, 52% (29 out of 56) had a partial response. Of those, 90% maintained
 
 In adults, 41% (24 out of 58) had a partial response. Of those, 88% maintained their response for at least 12 months, and 50% for at least 24 months.
 
-## What are the risks associated with Ezmekly?
+### What are the risks associated with Ezmekly?
 
 For the full list of side effects and restrictions with Ezmekly, see the package leaflet.
 
@@ -90,7 +90,7 @@ In children, the most common side effects with Ezmekly (which may affect more th
 
 Patients who are pregnant or may become pregnant must not take Ezmekly.
 
-## Why is Ezmekly authorised in the EU?
+### Why is Ezmekly authorised in the EU?
 
 At the time of approval, only one medicine was authorised in the EU for plexiform neurofibromas in patients aged three years and older with NF1. Ezmekly provides an additional treatment option and has been shown to be effective in patients from a slightly younger age, starting at two years. However, the extent of its benefits remains uncertain, as the medicine has not been compared with any other treatment or a placebo.
 
@@ -102,13 +102,13 @@ Ezmekly has been given conditional authorisation. This means that it has been au
 
 The company must provide further data on Ezmekly. It must submit results from a study evaluating the long-term safety and effectiveness of the medicine, as well as results from a study assessing its safety when used in clinical practice. Every year, the Agency will review any new information that becomes available.
 
-## What measures are being taken to ensure the safe and effective use of Ezmekly?
+### What measures are being taken to ensure the safe and effective use of Ezmekly?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Ezmekly have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Ezmekly are continuously monitored. Suspected side effects reported with Ezmekly are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Ezmekly
+### Other information about Ezmekly
 
 Ezmekly received a conditional marketing authorisation valid throughout the EU on 17 July 2025.
 
@@ -122,7 +122,7 @@ English (EN) (130.39 KB - PDF)
 
 [View](/en/documents/overview/ezmekly-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-402)
+[Other languages (22)](#file-language-dropdown-405)
 
 български (BG) (148.96 KB - PDF)
 
@@ -154,7 +154,7 @@ Deutsch (DE) (127.15 KB - PDF)
 
 [View](/de/documents/overview/ezmekly-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (120.25 KB - PDF)
+eesti (ET) (120.25 KB - PDF)
 
 **First published:** 20/08/2025
 
@@ -184,13 +184,13 @@ italiano (IT) (122.68 KB - PDF)
 
 [View](/it/documents/overview/ezmekly-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (153.65 KB - PDF)
+latviešu (LV) (153.65 KB - PDF)
 
 **First published:** 20/08/2025
 
 [View](/lv/documents/overview/ezmekly-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (144.15 KB - PDF)
+lietuvių (LT) (144.15 KB - PDF)
 
 **First published:** 20/08/2025
 
@@ -244,7 +244,7 @@ slovenščina (SL) (144.33 KB - PDF)
 
 [View](/sl/documents/overview/ezmekly-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (120 KB - PDF)
+suomi (FI) (120 KB - PDF)
 
 **First published:** 20/08/2025
 
@@ -268,161 +268,168 @@ English (EN) (5.67 MB - PDF)
 
 Ezmekly: EPAR - Product information
 
-English (EN) (722.37 KB - PDF)
+English (EN) (493.32 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/en/documents/product-information/ezmekly-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-476)
+[Other languages (24)](#file-language-dropdown-135)
 
-български (BG) (790.29 KB - PDF)
+български (BG) (796.14 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/bg/documents/product-information/ezmekly-epar-product-information_bg.pdf)
 
-español (ES) (769.35 KB - PDF)
+español (ES) (652.67 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/es/documents/product-information/ezmekly-epar-product-information_es.pdf)
 
-čeština (CS) (694.38 KB - PDF)
+čeština (CS) (786.47 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/cs/documents/product-information/ezmekly-epar-product-information_cs.pdf)
 
-dansk (DA) (707.94 KB - PDF)
+dansk (DA) (684.57 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/da/documents/product-information/ezmekly-epar-product-information_da.pdf)
 
-Deutsch (DE) (746.03 KB - PDF)
+Deutsch (DE) (726.35 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/de/documents/product-information/ezmekly-epar-product-information_de.pdf)
 
-eesti keel (ET) (684.9 KB - PDF)
+eesti (ET) (705.66 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/et/documents/product-information/ezmekly-epar-product-information_et.pdf)
 
-ελληνικά (EL) (855.72 KB - PDF)
+ελληνικά (EL) (752.45 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/el/documents/product-information/ezmekly-epar-product-information_el.pdf)
 
-français (FR) (692.59 KB - PDF)
+français (FR) (803.1 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/fr/documents/product-information/ezmekly-epar-product-information_fr.pdf)
 
-hrvatski (HR) (735.78 KB - PDF)
+hrvatski (HR) (796.06 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/hr/documents/product-information/ezmekly-epar-product-information_hr.pdf)
 
-íslenska (IS) (672.28 KB - PDF)
+italiano (IT) (1.52 MB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
-
-[View](/is/documents/product-information/ezmekly-epar-product-information_is.pdf)
-
-italiano (IT) (863.8 KB - PDF)
-
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/it/documents/product-information/ezmekly-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (785.66 KB - PDF)
+latviešu (LV) (780.04 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/lv/documents/product-information/ezmekly-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (731.42 KB - PDF)
+lietuvių (LT) (749.03 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/lt/documents/product-information/ezmekly-epar-product-information_lt.pdf)
 
-magyar (HU) (852.81 KB - PDF)
+magyar (HU) (778.47 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/hu/documents/product-information/ezmekly-epar-product-information_hu.pdf)
 
-Malti (MT) (871 KB - PDF)
+Malti (MT) (951.38 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/mt/documents/product-information/ezmekly-epar-product-information_mt.pdf)
 
-Nederlands (NL) (748.13 KB - PDF)
+Nederlands (NL) (689.71 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/nl/documents/product-information/ezmekly-epar-product-information_nl.pdf)
 
-norsk (NO) (637.64 KB - PDF)
+polski (PL) (836.53 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
-
-[View](/no/documents/product-information/ezmekly-epar-product-information_no.pdf)
-
-polski (PL) (889.91 KB - PDF)
-
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/pl/documents/product-information/ezmekly-epar-product-information_pl.pdf)
 
-português (PT) (685.33 KB - PDF)
+português (PT) (735.12 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/pt/documents/product-information/ezmekly-epar-product-information_pt.pdf)
 
-română (RO) (784.9 KB - PDF)
+română (RO) (752 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/ro/documents/product-information/ezmekly-epar-product-information_ro.pdf)
 
-slovenčina (SK) (788.19 KB - PDF)
+slovenčina (SK) (869.27 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/sk/documents/product-information/ezmekly-epar-product-information_sk.pdf)
 
-Suomi (FI) (720.74 KB - PDF)
+slovenščina (SL) (765 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
+
+[View](/sl/documents/product-information/ezmekly-epar-product-information_sl.pdf)
+
+suomi (FI) (713.54 KB - PDF)
+
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/fi/documents/product-information/ezmekly-epar-product-information_fi.pdf)
 
-svenska (SV) (696.2 KB - PDF)
+svenska (SV) (676.55 KB - PDF)
 
-**First published:** 20/08/2025 **Last updated:** 12/05/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
 
 [View](/sv/documents/product-information/ezmekly-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** T/0000334329
+Íslenska (IS) (687.76 KB - PDF)
 
-23/04/2026
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
+
+[View](/is/documents/product-information/ezmekly-epar-product-information_is.pdf)
+
+norsk (NO) (681.42 KB - PDF)
+
+**First published:** 20/08/2025 **Last updated:** 13/08/2026
+
+[View](/no/documents/product-information/ezmekly-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000363069
+
+12/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -440,7 +447,7 @@ English (EN) (50.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-3)
+[Other languages (22)](#file-language-dropdown-686)
 
 български (BG) (68.86 KB - PDF)
 
@@ -472,7 +479,7 @@ Deutsch (DE) (52.01 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (50.99 KB - PDF)
+eesti (ET) (50.99 KB - PDF)
 
 **First published:** 20/08/2025
 
@@ -496,25 +503,19 @@ hrvatski (HR) (126.4 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (50.79 KB - PDF)
-
-**First published:** 20/08/2025
-
-[View](/is/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (51.18 KB - PDF)
 
 **First published:** 20/08/2025
 
 [View](/it/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (69.16 KB - PDF)
+latviešu (LV) (69.16 KB - PDF)
 
 **First published:** 20/08/2025
 
 [View](/lv/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (69.73 KB - PDF)
+lietuvių (LT) (69.73 KB - PDF)
 
 **First published:** 20/08/2025
 
@@ -537,12 +538,6 @@ Nederlands (NL) (51.13 KB - PDF)
 **First published:** 20/08/2025
 
 [View](/nl/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (50.71 KB - PDF)
-
-**First published:** 20/08/2025
-
-[View](/no/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (70.45 KB - PDF)
 
@@ -568,34 +563,37 @@ slovenčina (SK) (68.21 KB - PDF)
 
 [View](/sk/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_sk.pdf)
 
-Suomi (FI) (50.49 KB - PDF)
+suomi (FI) (50.49 KB - PDF)
 
 **First published:** 20/08/2025
 
 [View](/fi/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_fi.pdf)
 
+Íslenska (IS) (50.79 KB - PDF)
+
+**First published:** 20/08/2025
+
+[View](/is/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (50.71 KB - PDF)
+
+**First published:** 20/08/2025
+
+[View](/no/documents/all-authorised-presentations/ezmekly-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Ezmekly
-
-Active substance
-
-mirdametinib
-
-International non-proprietary name (INN) or common name
-
-mirdametinib
-
-Therapeutic area (MeSH)
-
-- Neurofibromatosis 1
-- Neurofibroma, Plexiform
-
-Anatomical therapeutic chemical (ATC) code
-
-L01EE
+- **Name of medicine**
+    - Ezmekly
+- **Active substance**
+    - mirdametinib
+- **International non-proprietary name (INN) or common name**
+    - mirdametinib
+- **Therapeutic area (MeSH)**
+        - Neurofibromatosis 1
+        - Neurofibroma, Plexiform
+- **Anatomical therapeutic chemical (ATC) code**
+    - L01EE
 
 ### Pharmacotherapeutic group
 
@@ -607,39 +605,22 @@ Ezmekly as monotherapy is indicated for the treatment of symptomatic, inoperable
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/006460
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Conditional approval
-
-This medicine received a conditional marketing authorisation. This was granted in the interest of public health because the medicine addresses an unmet medical need and the benefit of immediate availability outweighs the risk from less comprehensive data than normally required. For more information, see [Conditional marketing authorisation](/node/68774) .
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Merck Europe B.V.
-
-Gustav Mahlerplein 102
-
-Opinion adopted
-
-22/05/2025
-
-Marketing authorisation issued
-
-17/07/2025
-
-Revision
-
-2
+- **EMA product number**
+    - EMEA/H/C/006460
+- **Additional monitoring**
+    - This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
+- **Conditional approval**
+    - This medicine received a conditional marketing authorisation. This was granted in the interest of public health because the medicine addresses an unmet medical need and the benefit of immediate availability outweighs the risk from less comprehensive data than normally required. For more information, see [Conditional marketing authorisation](/node/68774) .
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - Merck Europe B.V. Gustav Mahlerplein 102  Ito Toren  1082 MA Amsterdam  The Netherlands
+- **Opinion adopted**
+    - 22/05/2025
+- **Marketing authorisation issued**
+    - 17/07/2025
+- **Revision**
+    - 3
 
 ## Assessment history
 
@@ -647,17 +628,17 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Ezmekly : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (149.6 KB - PDF)
+English (EN) (137.61 KB - PDF)
 
-**First published:** 21/04/2026 **Last updated:** 12/05/2026
+**First published:** 21/04/2026 **Last updated:** 13/08/2026
 
 [View](/en/documents/procedural-steps-after/ezmekly-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Ezmekly : Orphan maintenance assessment report (initial authorisation)
 
@@ -701,6 +682,6 @@ English (EN) (185.45 KB - PDF)
 
 **This page was last updated on**
 
-12/05/2026
+13/08/2026
 
 ## Share this page

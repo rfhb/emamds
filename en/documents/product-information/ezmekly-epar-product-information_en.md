@@ -1,24 +1,28 @@
 ---
-document_datetime: 2026-05-12 11:04:57
-document_pages: 68
+document_datetime: 2026-08-13 14:11:38
+document_pages: 67
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ezmekly-epar-product-information_en.pdf
 document_name: ezmekly-epar-product-information_en.pdf
 version: success
-processing_time: 16.5654765
-conversion_datetime: 2026-05-13 12:53:39.842642
+processing_time: 18.5504228
+conversion_datetime: 2026-08-17 13:35:36.09635
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.120.2
+  docling-core: 2.91.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.13.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
 
 This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
@@ -46,9 +50,9 @@ Ezmekly 1 mg hard capsules
 
 Size 3 (approximately 16 mm × 6 mm) capsule comprised of a light green opaque body and cap with 'MIR 1 mg' printed in white ink on the cap.
 
-Ezmekly 2 mg hard capsules
+## Ezmekly 2 mg hard capsules
 
-Size 1 (approximately 19 mm × 7 mm) capsule comprised of a white opaque body and a blue -green opaque cap with 'MIR 2 mg' printed in white ink on the cap.
+Size 1 (approximately 19 mm × 7 mm) capsule comprised of a white opaque body and a blue-green opaque cap with 'MIR 2 mg' printed in white ink on the cap.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -64,7 +68,7 @@ Treatment with Ezmekly should be initiated by a physician experienced in the dia
 
 ## Posology
 
-The recommended dose of Ezmekly is 2 mg/m 2  of body surface area (BSA), twice daily (approximately every 12 hours) for the first 21 days of each 28 -day cycle. The maximum dose is 4 mg twice daily (see Table 1).
+The recommended dose of Ezmekly is 2 mg/m 2  of body surface area (BSA), twice daily (approximately every 12 hours) for the first 21 days of each 28-day cycle. The maximum dose is 4 mg twice daily (see Table 1).
 
 For paediatric patients 2 to &lt;6 years of age and for patients who are unable to swallow capsules whole, Ezmekly is also available as a 1 mg dispersible tablet formulation that can be dispersed in water. The recommended dose for patients with a BSA less than 0.40 m 2 has not been established.
 
@@ -72,10 +76,10 @@ Table 1: Recommended dose based on body surface area
 
 | Body surface area (BSA)   | Recommended dose   |
 |---------------------------|--------------------|
-| 0.40 to 0.69m 2           | 1 mg twice daily   |
-| 0.70 to 1.04m 2           | 2 mg twice daily   |
-| 1.05 to 1.49m 2           | 3 mg twice daily   |
-| ≥ 1.50m 2                 | 4 mg twice daily   |
+| 0.40 to 0.69 m 2          | 1 mg twice daily   |
+| 0.70 to 1.04 m 2          | 2 mg twice daily   |
+| 1.05 to 1.49 m 2          | 3 mg twice daily   |
+| ≥ 1.50 m 2                | 4 mg twice daily   |
 
 ## Duration of treatment
 
@@ -87,7 +91,7 @@ If a dose of Ezmekly is missed, an additional dose is not to be taken. The patie
 
 ## Vomiting
 
-If vomiting occurs after Ezmekly is administered, an additional dose is not to be taken. The patient should continue with the next scheduled dose. Manage events of vomiting as clinically indicated, including use of anti -emetics.
+If vomiting occurs after Ezmekly is administered, an additional dose is not to be taken. The patient should continue with the next scheduled dose. Manage events of vomiting as clinically indicated, including use of anti-emetics.
 
 ## Dose adjustments
 
@@ -98,10 +102,10 @@ Table 2: Recommended dose reductions
 | Body surface area (BSA)   | Reduced dose    | Reduced dose    |
 |---------------------------|-----------------|-----------------|
 |                           | Morning         | Evening         |
-| 0.40 to 0.69m 2           | 1 mg once daily | 1 mg once daily |
-| 0.70 to 1.04m 2           | 2 mg            | 1 mg            |
-| 1.05 to 1.49m 2           | 2 mg            | 2 mg            |
-| ≥ 1.50m 2                 | 3 mg            | 3 mg            |
+| 0.40 to 0.69 m 2          | 1 mg once daily | 1 mg once daily |
+| 0.70 to 1.04 m 2          | 2 mg            | 1 mg            |
+| 1.05 to 1.49 m 2          | 2 mg            | 2 mg            |
+| ≥ 1.50 m 2                | 3 mg            | 3 mg            |
 
 Management of patients according to the adverse reactions associated with this medicinal product are presented in Table 3.
 
@@ -109,25 +113,25 @@ Management of patients according to the adverse reactions associated with this m
 
 Table 3: Recommended dose modifications for adverse reactions
 
-| Severity of adverse reaction a                                                                                      | Recommended dose modification for Ezmekly                                                                                                                           |
-|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ocular toxicity (see sections 4.4 and section 4.8)                                                                  | Ocular toxicity (see sections 4.4 and section 4.8)                                                                                                                  |
-| Grade ≤ 2                                                                                                           | Continue treatment. Consider ophthalmologic examinations every 2 to 4 weeks until improvement.                                                                      |
-| Grade ≥ 3                                                                                                           | Interrupt treatment until improvement. If recovery occurs ≤14 days, resume at reduced dose (see Table 2). If recovery occurs in >14 days, consider discontinuation. |
-| Asymptomatic retinal pigment epithelium detachment (RPED)                                                           | Continue treatment. Ophthalmic assessment should be conducted every 3 weeks until resolution.                                                                       |
-| Symptomatic RPED                                                                                                    | Interrupt treatment until resolution. Resume at reduced dose (see Table 2).                                                                                         |
-| Retinal vein occlusion (RVO)                                                                                        | Discontinue treatment permanently.                                                                                                                                  |
-| Decreased left ventricular ejection fraction (LVEF) (see sections 4.4 and section 4.8)                              | Decreased left ventricular ejection fraction (LVEF) (see sections 4.4 and section 4.8)                                                                              |
-| Asymptomatic, absolute decrease in LVEF less than 20% from baseline and is greater than the lower limit of normal   | Continue treatment.                                                                                                                                                 |
-| Asymptomatic, absolute decrease in LVEF of 10 %or greater from baseline and is less than the lower limit of normal. | Interrupt treatment until improvement. Resume at reduced dose (see Table 2).                                                                                        |
-| For any absolute decrease in LVEF 20 %or greater from baseline.                                                     | Discontinue treatment permanently.                                                                                                                                  |
-| Skin toxicity (see sections 4.4 and section 4.8)                                                                    | Skin toxicity (see sections 4.4 and section 4.8)                                                                                                                    |
-| Grade 1 or 2 dermatitis acneiform or non - acneiform rash                                                           | Continue treatment.                                                                                                                                                 |
-| Intolerable Grade 2 or Grade 3 dermatitis acneiform or non - acneiform rash                                         | Interrupt treatment until improvement. Resume at reduced dose (see Table 2).                                                                                        |
-| Grade 3 or Grade 4 dermatitis acneiform or non - acneiform rash                                                     | Interrupt treatment until improvement. Resume at reduced dose (see Table 2).                                                                                        |
-| Other adverse reactions (see section 4.8)                                                                           | Other adverse reactions (see section 4.8)                                                                                                                           |
-| Intolerable Grade 2 or Grade 3                                                                                      | Interrupt treatment until improvement. Resume at reduced dose (see Table 2).                                                                                        |
-| Grade 4                                                                                                             | Interrupt treatment until improvement. Resume at reduced dose (see Table 2). Consider discontinuation.                                                              |
+| Severity of adverse reaction a                                                                                       | Recommended dose modification for Ezmekly                                                                                                                           |
+|----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Ocular toxicity (see sections 4.4 and section 4.8)                                                                   | Ocular toxicity (see sections 4.4 and section 4.8)                                                                                                                  |
+| Grade ≤ 2                                                                                                            | Continue treatment. Consider ophthalmologic examinations every 2 to 4 weeks until improvement.                                                                      |
+| Grade ≥ 3                                                                                                            | Interrupt treatment until improvement. If recovery occurs ≤14 days, resume at reduced dose (see Table 2). If recovery occurs in >14 days, consider discontinuation. |
+| Asymptomatic retinal pigment epithelium detachment (RPED)                                                            | Continue treatment. Ophthalmic assessment should be conducted every 3 weeks until resolution.                                                                       |
+| Symptomatic RPED                                                                                                     | Interrupt treatment until resolution. Resume at reduced dose (see Table 2).                                                                                         |
+| Retinal vein occlusion (RVO)                                                                                         | Discontinue treatment permanently.                                                                                                                                  |
+| Decreased left ventricular ejection fraction (LVEF) (see sections 4.4 and section 4.8)                               | Decreased left ventricular ejection fraction (LVEF) (see sections 4.4 and section 4.8)                                                                              |
+| Asymptomatic, absolute decrease in LVEF less than 20% from baseline and is greater than the lower limit of normal    | Continue treatment.                                                                                                                                                 |
+| Asymptomatic, absolute decrease in LVEF of 10 % or greater from baseline and is less than the lower limit of normal. | Interrupt treatment until improvement. Resume at reduced dose (see Table 2).                                                                                        |
+| For any absolute decrease in LVEF 20 % or greater from baseline.                                                     | Discontinue treatment permanently.                                                                                                                                  |
+| Skin toxicity (see sections 4.4 and section 4.8)                                                                     | Skin toxicity (see sections 4.4 and section 4.8)                                                                                                                    |
+| Grade 1 or 2 dermatitis acneiform or non-acneiform rash                                                              | Continue treatment.                                                                                                                                                 |
+| Intolerable Grade 2 or Grade 3 dermatitis acneiform or non-acneiform rash                                            | Interrupt treatment until improvement. Resume at reduced dose (see Table 2).                                                                                        |
+| Grade 3 or Grade 4 dermatitis acneiform or non-acneiform rash                                                        | Interrupt treatment until improvement. Resume at reduced dose (see Table 2).                                                                                        |
+| Other adverse reactions (see section 4.8)                                                                            | Other adverse reactions (see section 4.8)                                                                                                                           |
+| Intolerable Grade 2 or Grade 3                                                                                       | Interrupt treatment until improvement. Resume at reduced dose (see Table 2).                                                                                        |
+| Grade 4                                                                                                              | Interrupt treatment until improvement. Resume at reduced dose (see Table 2). Consider discontinuation.                                                              |
 
 ## Special populations
 
@@ -183,7 +187,7 @@ Decreased LVEF can be managed using treatment interruption, dose reduction or tr
 
 ## Skin toxicity
 
-Skin adverse reactions, including rash (dermatitis acneiform and non -acneiform rashes), dry skin, pruritus, eczema, and hair changes have been reported in the ReNeu study (see section 4.8).
+Skin adverse reactions, including rash (dermatitis acneiform and non-acneiform rashes), dry skin, pruritus, eczema, and hair changes have been reported in the ReNeu study (see section 4.8).
 
 Patients should contact their doctor or nurse if they experience any skin reactions. Supportive care, e.g. the use of emollient creams, should be initiated at first signs of skin toxicity. Mirdametinib therapy should be interrupted, the dose reduced or permanently discontinued based on severity of the adverse reaction (see section 4.2).
 
@@ -197,7 +201,7 @@ Mirdametinib is not recommended in women of childbearing potential who are not u
 
 ## Excipients with known effect
 
-Each capsule contains less than 1 mmol sodium (23 mg) per dose, which means it is essentially 'sodium -free'.
+Each capsule contains less than 1 mmol sodium (23 mg) per dose, which means it is essentially 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -205,19 +209,19 @@ No clinical interaction studies have been performed (see section 5.2).
 
 ## Effects of other medicinal products on mirdametinib pharmacokinetics
 
-In vitro studies showed that mirdametinib is metabolised by multiple uridine diphosphate glucuronosyltransferase (UGT) and carboxyl esterase (CES) enzymes. No clinical studies assessing the effect of a strong inducer and inhibitor of these enzymes have been performed. Therefore, caution should be made when mirdametinib is concomitantly used with medicinal products known to either induce or inhibit  these  enzymes:  probenecid,  diclofenac  (UGTs  inhibitors),  rifampicin  (UGT  inducer)  (see section 5.2).
+In vitro studies showed that mirdametinib is metabolised by multiple uridine diphosphate glucuronosyltransferase (UGT) and carboxyl esterase (CES) enzymes. No clinical studies assessing the effect of a strong inducer and inhibitor of these enzymes have been performed. Therefore, caution should be made when mirdametinib is concomitantly used with medicinal products known to either induce or inhibit these enzymes: probenecid, diclofenac (UGTs inhibitors), rifampicin (UGT inducer) (see section 5.2).
 
 ## Effects of mirdametinib on the pharmacokinetics of other medicinal products
 
 ## Hormonal contraceptives
 
-The effect of mirdametinib on the exposure of systemically acting hormonal contraceptives has not been evaluated.  Therefore,  use  of  an  additional  barrier  method  should  be  recommended  to  women  using systemically acting hormonal contraceptives (see section 4.6).
-
-<div style=\"page-break-after: always\"></div>
+The effect of mirdametinib on the exposure of systemically acting hormonal contraceptives has not been evaluated. Therefore, use of an additional barrier method should be recommended to women using systemically acting hormonal contraceptives (see section 4.6).
 
 ## Effects of gastric acid reducing agents on mirdametinib
 
-The combination of mirdametinib with proton -pump inhibitors, antacids, or H2 -receptor antagonists is not expected to be clinically meaningful as mirdametinib does not exhibit pH dependent dissolution. Ezmekly can be used concomitantly with gastric pH modifying agents (i.e., H2 -receptor antagonists and proton pump inhibitors) without restrictions.
+The combination of mirdametinib with proton-pump inhibitors, antacids, or H2-receptor antagonists is not expected to be clinically meaningful as mirdametinib does not exhibit pH dependent dissolution. Ezmekly can be used concomitantly with gastric pH modifying agents (i.e., H2-receptor antagonists and proton pump inhibitors) without restrictions.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -229,9 +233,9 @@ Women of childbearing potential should be advised that Ezmekly may cause foetal 
 
 There are limited data on the use of mirdametinib in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3). Ezmekly should not be used during pregnancy and in women of childbearing potential not using contraception. If a female patient or a female partner of a male patient receiving Ezmekly becomes pregnant, she should be apprised of the potential risk to the foetus.
 
-## Breast -feeding
+## Breast-feeding
 
-It is not known whether mirdametinib or its metabolites are excreted in human milk. A risk to the breast -fed child cannot be excluded, therefore breast -feeding should be discontinued during treatment with Ezmekly and should not be resumed for 1 week after the last dose.
+It is not known whether mirdametinib or its metabolites are excreted in human milk. A risk to the breast-fed child cannot be excluded, therefore breast-feeding should be discontinued during treatment with Ezmekly and should not be resumed for 1 week after the last dose.
 
 ## Fertility
 
@@ -247,13 +251,13 @@ Ezmekly may have a moderate influence on the ability to drive and use machines. 
 
 In the adult pool of NF1 patients, the most common adverse reactions of any grade were dermatitis acneiform (83%), diarrhoea (55%), nausea (55%), blood creatine phosphokinase increased (47%), musculoskeletal pain (41%), vomiting (37%), and fatigue (36%). Adverse reactions leading to discontinuation in &gt;1 adult patient were dermatitis acneiform, diarrhoea, nausea, rash, and vomiting. The following serious adverse reactions were reported: abdominal pain (3%), musculoskeletal pain (1.3%) and retinal vein occlusion (1.3%).
 
-<div style=\"page-break-after: always\"></div>
-
 In the paediatric pool of NF1 patients, the most common adverse reaction of any grade were blood creatine phosphokinase increased (59%), diarrhoea (53%), dermatitis acneiform (43%), musculoskeletal pain (41%), abdominal pain (40%), vomiting (40%), and headache (36%). The following serious adverse reaction was reported: musculoskeletal pain (1.7%).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Tabulated list of adverse reactions
 
-The safety profile of mirdametinib has been determined following evaluation of a combined safety population of 75 adult and 58 paediatric patients dosed at 2 mg/m 2 twice daily for the first 21 days of each 28 -day cycle. This pool of patients comprised 114 patients (58 adult, 56 paediatric) in ReNeu (the pivotal dataset), and 19 patients (17 adult, 2 paediatric) in NF -106.
+The safety profile of mirdametinib has been determined following evaluation of a combined safety population of 75 adult and 58 paediatric patients dosed at 2 mg/m 2 twice daily for the first 21 days of each 28-day cycle. This pool of patients comprised 114 patients (58 adult, 56 paediatric) in ReNeu (the pivotal dataset), and 19 patients (17 adult, 2 paediatric) in NF-106.
 
 In the adult pool (N = 75), the median total duration of mirdametinib treatment was 18.7 months (range: 0.4 to 45.6 months).
 
@@ -269,65 +273,63 @@ Table 4. Adverse reactions reported in the safety population
 |-----------------------------|----------------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
 |                             |                                              | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above |
 | Infections and Infestations | Paronychia                                   | Common (3%)                          | -                                    | Very Common (33%)                    | -                                    |
-| Nervous system disorders    | Headache                                     | Very common (16 %)                   | Common ( 1%)                         | Very common (36 %)                   | Common (2 %)                         |
-| Eye disorders               | Blurred vision                               | Common (9 %)                         | -                                    | Common (7 %)                         | -                                    |
-| Eye disorders               | Retinal vein occlusion                       | Common (3 %)                         | Common ( 1%)                         | -                                    | -                                    |
-| Eye disorders               | RPED (retinal pigment epithelial detachment) | Common (1 %)                         | -                                    | -                                    | -                                    |
-| Gastrointestinal disorders  | Diarrhoea                                    | Very common (55 %)                   | -                                    | Very common (53 %)                   | Common (5 %)                         |
-| Gastrointestinal disorders  | Nausea                                       | Very common (55 %)                   | -                                    | Very common (29 %)                   | -                                    |
+| Nervous system disorders    | Headache                                     | Very common (16%)                    | Common (1%)                          | Very common (36%)                    | Common (2%)                          |
+| Eye disorders               | Blurred vision                               | Common (9%)                          | -                                    | Common (7%)                          | -                                    |
+| Eye disorders               | Retinal vein occlusion                       | Common (3%)                          | Common (1%)                          | -                                    | -                                    |
+| Eye disorders               | RPED (retinal pigment epithelial detachment) | Common (1%)                          | -                                    | -                                    | -                                    |
+| Gastrointestinal disorders  | Diarrhoea                                    | Very common (55%)                    | -                                    | Very common (53%)                    | Common (5%)                          |
+| Gastrointestinal disorders  | Nausea                                       | Very common (55%)                    | -                                    | Very common (29%)                    | -                                    |
+| Gastrointestinal disorders  | Vomiting                                     | Very common (37%)                    | -                                    | Very common (40%)                    | -                                    |
+| Gastrointestinal disorders  | Abdominal pain a                             | Very common (20%)                    | Common (4%)                          | Very common (40%)                    | Common (3%)                          |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA SOC                                      | MedDRA term            | Adult pool (N=75)                    | Adult pool (N=75)                    | Paediatric pool (N=58)               | Paediatric pool (N=58)               |
-|-------------------------------------------------|------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
-|                                                 |                        | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above |
-| Skin and subcutaneous                           | Vomiting               | Very common (37 %)                   | -                                    | Very common (40 %)                   | -                                    |
-| Skin and subcutaneous                           | Abdominal pain a       | Very common (20 %)                   | Common ( 4%)                         | Very common (40 %)                   | Common (3 %)                         |
-| Skin and subcutaneous                           | Constipation           | Very common (19 %)                   | -                                    | Very common (10 %)                   | -                                    |
-| Skin and subcutaneous                           | Dry mouth              | Common (7 %)                         | -                                    | -                                    | -                                    |
-| Skin and subcutaneous                           | Stomatitis b           | Common (5 %)                         | -                                    | Very Common (1 9%)                   | -                                    |
-| tissue disorders                                | Dermatitis acneiform   | Very common (83 %)                   | Common ( 7%)                         | Very common (43 %)                   | Common (2 %)                         |
-| tissue disorders                                | Rash c                 | Very common (17 %)                   | Common ( 1%)                         | Very common (33 %)                   | Common (2 %)                         |
-| tissue disorders                                | Dry skin               | Very common (13 %)                   | -                                    | Very common (17 %)                   | -                                    |
-| tissue disorders                                | Alopecia               | Very common (12 %)                   | -                                    | Very common (14 %)                   | -                                    |
-| tissue disorders                                | Pruritus               | Very common (13 %)                   | -                                    | Very common (12 %)                   | -                                    |
-| tissue disorders                                | Eczema                 | Common (3 %)                         | -                                    | Very common (14 %)                   | -                                    |
-| tissue disorders                                | Hair colour changes    | Common (1 %)                         | -                                    | Very common (12 %)                   | -                                    |
-| tissue disorders                                | Hair texture abnormal  | Common (1 %)                         | -                                    | Common (5 %)                         | -                                    |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal pain d | Very common (41 %)                   | Common ( 7%)                         | Very common (41 %)                   | Common (2 %)                         |
+| MedDRA SOC                                           | MedDRA term                            | Adult pool (N=75)                    | Adult pool (N=75)                    | Paediatric pool (N=58)               | Paediatric pool (N=58)               |
+|------------------------------------------------------|----------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
+|                                                      |                                        | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above |
+|                                                      | Constipation                           | Very common (19%)                    | -                                    | Very common (10%)                    | -                                    |
+|                                                      | Dry mouth                              | Common (7%)                          | -                                    | -                                    | -                                    |
+|                                                      | Stomatitis b                           | Common (5%)                          | -                                    | Very Common (19%)                    | -                                    |
+| Skin and subcutaneous tissue disorders               | Dermatitis acneiform                   | Very common (83%)                    | Common (7%)                          | Very common (43%)                    | Common (2%)                          |
+| Skin and subcutaneous tissue disorders               | Rash c                                 | Very common (17%)                    | Common (1%)                          | Very common (33%)                    | Common (2%)                          |
+| Skin and subcutaneous tissue disorders               | Dry skin                               | Very common (13%)                    | -                                    | Very common (17%)                    | -                                    |
+| Skin and subcutaneous tissue disorders               | Alopecia                               | Very common (12%)                    | -                                    | Very common (14%)                    | -                                    |
+| Skin and subcutaneous tissue disorders               | Pruritus                               | Very common (13%)                    | -                                    | Very common (12%)                    | -                                    |
+| Skin and subcutaneous tissue disorders               | Eczema                                 | Common (3%)                          | -                                    | Very common (14%)                    | -                                    |
+| Skin and subcutaneous tissue disorders               | Hair colour changes                    | Common (1%)                          | -                                    | Very common (12%)                    | -                                    |
+| Skin and subcutaneous tissue disorders               | Hair texture abnormal                  | Common (1%)                          | -                                    | Common (5%)                          | -                                    |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal pain d                 | Very common (41%)                    | Common ( 7%)                         | Very common (41%)                    | Common (2 %)                         |
+| General disorders and administration site conditions | Fatigue                                | Very common (36%)                    | Common ( 1%)                         | Very common (12%)                    | -                                    |
+| General disorders and administration site conditions | Oedema peripheral e                    | Very common (12%)                    | -                                    | Common (5%)                          | -                                    |
+| Investigations                                       | Blood creatine phosphokinase increased | Very common (47%)                    | Common (3%)                          | Very common (59%)                    | Common (5 %)                         |
+| Investigations                                       | AST increased                          | Very common (16%)                    | -                                    | Common (9%)                          | -                                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA SOC                                          | MedDRA term                            | Adult pool (N=75)                    | Adult pool (N=75)                    | Paediatric pool (N=58)               | Paediatric pool (N=58)               |
-|-----------------------------------------------------|----------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
-|                                                     |                                        | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above |
-| General disorders and administation site conditions | Fatigue                                | Very common (36 %)                   | Common ( 1%)                         | Very common (12 %)                   | -                                    |
-| General disorders and administation site conditions | Oedema peripheral e                    | Very common (12 %)                   | -                                    | Common (5 %)                         | -                                    |
-| Investigations                                      | Blood creatine phosphokinase increased | Very common (47 %)                   | Common ( 3%)                         | Very common (59 %)                   | Common (5 %)                         |
-| Investigations                                      | AST increased                          | Very common (16 %)                   | -                                    | Common (9 %)                         | -                                    |
-| Investigations                                      | Blood alkaline phosphatase increased   | Very common (14 %)                   | -                                    | Very common (24 %)                   | -                                    |
-| Investigations                                      | Ejection fraction decreased            | Very common (12 %)                   | -                                    | Very common (26 %)                   | Common (2 %)                         |
-| Investigations                                      | Neutrophil count decreased             | Common (8 %)                         | Common ( 1%)                         | Very common (30 %)                   | Very common (11 %)                   |
-| Investigations                                      | Leukocyte count decreased              | Common (7 %)                         | -                                    | Very common (39 %)                   | -                                    |
-| Investigations                                      | ALT increased                          | Common (7 %)                         | -                                    | Very common (21 %)                   | -                                    |
+| MedDRA SOC   | MedDRA term                          | Adult pool (N=75)                    | Adult pool (N=75)                    | Paediatric pool (N=58)               | Paediatric pool (N=58)               |
+|--------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
+|              |                                      | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above |
+|              | Blood alkaline phosphatase increased | Very common (14%)                    | -                                    | Very common (24%)                    | -                                    |
+|              | Ejection fraction decreased          | Very common (12%)                    | -                                    | Very common (26%)                    | Common (2%)                          |
+|              | Neutrophil count decreased           | Common (8%)                          | Common ( 1%)                         | Very common (30%)                    | Very common (11%)                    |
+|              | Leukocyte count decreased            | Common (7%)                          | -                                    | Very common (39%)                    | -                                    |
+|              | ALT increased                        | Common (7%)                          | -                                    | Very common (21%)                    | -                                    |
 
 a  Abdominal pain includes abdominal pain and abdominal pain upper.
 
 b Stomatitis includes stomatitis, mouth ulceration, aphthous ulcer.
 
-c Rash includes rash, rash maculo -papular, rash pustular, rash erythematous, rash papular, exfoliative rash, papule, rash macular, rash pruritic.
+c Rash includes rash, rash maculo-papular, rash pustular, rash erythematous, rash papular, exfoliative rash, papule, rash macular, rash pruritic.
 
-d Musculoskeletal pain includes musculoskeletal pain, myalgia, pain in extremity, back pain, musculoskeletal chest pain, neck pain, non -cardiac chest pain, arthralgia, bone pain.
+d Musculoskeletal pain includes musculoskeletal pain, myalgia, pain in extremity, back pain, musculoskeletal chest pain, neck pain, non-cardiac chest pain, arthralgia, bone pain.
 
-e Oedema peripheral includes oedema peripheral, peripheral swelling.
+e  Oedema peripheral includes oedema peripheral, peripheral swelling.
 
 ## Description of selected adverse reactions
 
 ## Ocular toxicity
 
-In the ReNeu study, retinal vein occlustion (RVO) was observed in 3% of adult patients, including Grade 3 RVO in 1.7% of patients which resulted in permanent discontinuation. Asymptomatic Grade 1 retinal pigment epithelium detachment (RPED) occurred in 1.7% of patients and was managed without dose modification. Vision blurred was reported by 12% of adult patients. The median time to first onset of ocular toxicity in adults was 147 days. The median time to resolution was 267 days. In these adults, 38% of patients reported resolution of their ocular toxicity, while 25% reported resolution of events with sequelae.
-
-<div style=\"page-break-after: always\"></div>
+In the ReNeu study, retinal vein occlusion (RVO) was observed in 3% of adult patients, including Grade 3 RVO in 1.7% of patients which resulted in permanent discontinuation. Asymptomatic Grade 1 retinal pigment epithelium detachment (RPED) occurred in 1.7% of patients and was managed without dose modification. Vision blurred was reported by 12% of adult patients. The median time to first onset of ocular toxicity in adults was 147 days. The median time to resolution was 267 days. In these adults, 38% of patients reported resolution of their ocular toxicity, while 25% reported resolution of events with sequelae.
 
 Vision blurred was reported by 7% of paediatric patients. The median time to first onset of vision blurred was 161 days in paediatric patients. The median time to resolution was 29 days. All paediatric patients reported resolution of events of vision blurred (see sections 4.2 and 4.4).
 
@@ -335,23 +337,23 @@ Vision blurred was reported by 7% of paediatric patients. The median time to fir
 
 In the ReNeu study, asymptomatic decreased LVEF was reported in 16% of adults. Of these patients, only one reported an LVEF to &lt; 50%, which led to discontinuation followed by return to normal values. Of the remaining adult patients with decreased LVEF, five had a dose interruption, and one patient had a dose reduction. The median time to first onset of decreased LVEF in adults was 70 days. Decreased LVEF resolved in 89% of adult patients.
 
+<div style=\"page-break-after: always\"></div>
+
 In the ReNeu study, asymptomatic decreased LVEF was reported in 27% of paediatric patients. Of these patients, one reported an LVEF to &lt; 50%, which returned to normal values without dose modification. One patient had a Grade 3 decreased LVEF that resolved without dose modification and another patient with Grade 2 decreased LVEF had a dose interruption. The remaining 12 patients' events of decreased LVEF were Grade 2 and no action was taken with study treatment in response to any of these events. The median time to first onset of decreased LVEF in paediatric patients was 132 days. Decreased LVEF resolved in 67% of paediatric patients (see sections 4.2 and 4.4).
 
 ## Skin toxicity
 
-In the ReNeu study, dermatitis acneiform and non -acneiform rashes occurred in 90% of adult patients. Grade 3 dermatitis acneiform and other rashes occurred in 9% and 1.7% of adult patients, respectively. Rashes resulted in discontinuations in 10% of adults and dose reductions in 10% of adults. The median time to first onset of rashes was 9 days in adult patients. The median time to resolution was 115 days. In these adult patients, 33 (64%) reported resolution of their rashes, 3 (6%) reported resolution with sequelae, and 8 (15%) reported that their rashes were resolving.
+In the ReNeu study, dermatitis acneiform and non-acneiform rashes occurred in 90% of adult patients. Grade 3 dermatitis acneiform and other rashes occurred in 9% and 1.7% of adult patients, respectively. Rashes resulted in discontinuations in 10% of adults and dose reductions in 10% of adults. The median time to first onset of rashes was 9 days in adult patients. The median time to resolution was 115 days. In these adult patients, 33 (64%) reported resolution of their rashes, 3 (6%) reported resolution with sequelae, and 8 (15%) reported that their rashes were resolving.
 
-In the ReNeu study, dermatitis acneiform and non -acneiform rashes occurred in 70% of paediatric patients. Grade 3 dermatitis acneiform and non -acneiform rashes occurred in 1.8% and 1.8%, respectively. Rashes resulted in discontinuations in 4% of paediatric patients, and dose reductions in 4% of paediatric patients. Dermatitis acneiform occurred with a higher frequency in patients aged 12 to 17 years, while other rashes occurred with a higher frequency in patients aged 2 to 11 years. The median time to first onset of rashes in paediatric patients was 15 days. The median time to resolution was 155 days. In these paediatric patients, 27 (69%) reported resolution of their rashes and 3 (8%) reported that their rashes were resolving (see sections 4.2 and 4.4).
+In the ReNeu study, dermatitis acneiform and non-acneiform rashes occurred in 70% of paediatric patients. Grade 3 dermatitis acneiform and non-acneiform rashes occurred in 1.8% and 1.8%, respectively. Rashes resulted in discontinuations in 4% of paediatric patients, and dose reductions in 4% of paediatric patients. Dermatitis acneiform occurred with a higher frequency in patients aged 12 to 17 years, while other rashes occurred with a higher frequency in patients aged 2 to 11 years. The median time to first onset of rashes in paediatric patients was 15 days. The median time to resolution was 155 days. In these paediatric patients, 27 (69%) reported resolution of their rashes and 3 (8%) reported that their rashes were resolving (see sections 4.2 and 4.4).
 
 ## Musculoskeletal pain
 
-In the ReNeu study, musculoskeletal pain (including musculoskeletal pain, myalgia, pain in extremity, back pain, musculoskeletal chest pain, neck pain, non -cardiac chest pain, arthralgia, and bone pain) were reported by 41% of adult and 41% of paediatric patients. Concomitant medications used to treat musculoskeletal pain included non -steroidal anti -inflammatory medicinal products, non -opioid analgesics and glucocorticoids. Treat musculoskeletal pain as clinically indicated.
+In the ReNeu study, musculoskeletal pain (including musculoskeletal pain, myalgia, pain in extremity, back pain, musculoskeletal chest pain, neck pain, non-cardiac chest pain, arthralgia, and bone pain) were reported by 41% of adult and 41% of paediatric patients. Concomitant medications used to treat musculoskeletal pain included non-steroidal anti-inflammatory medicinal products, non-opioid analgesics and glucocorticoids. Treat musculoskeletal pain as clinically indicated.
 
 ## AST and ALT increased
 
 In the ReNeu study, laboratory shifts of ALT increased were observed in 9% of adult and 21% of paediatric patients. Laboratory shifts of AST increased were observed in 18% of adult and 9% of paediatric patients. All events were mild to moderate severity with no Grade 3 events reported. ALT and AST increased did not result in any discontinuations, dose reductions or interruptions. Monitor and manage increases in ALT and AST as clinically indicated.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -361,31 +363,33 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 There is no specific treatment for overdose. If overdose occurs, patients should be closely monitored for signs and symptoms of adverse reactions and treated supportively with appropriate monitoring as necessary. Dialysis is ineffective in the treatment of overdose.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic agents; Mitogen -activated protein kinase (MEK) inhibitors, ATC Code: L01EE05
+Pharmacotherapeutic group: Antineoplastic agents; Mitogen-activated protein kinase (MEK) inhibitors, ATC Code: L01EE05
 
 ## Mechanism of action
 
-Mirdametinib is a selective, non -competitive inhibitor of mitogen -activated protein kinase kinases 1 and 2 (MEK1/2). Mirdametinib blocks MEK activity and the rat sarcoma (RAS) -rapidly accelerated fibrosarcoma (RAF) -MEK pathway. Therefore, MEK inhibition blocks proliferation and survival of tumour cells in which the RAF -MEK -extracellular related kinase (ERK) pathway is activated.
+Mirdametinib is a selective, non-competitive inhibitor of mitogen-activated protein kinase kinases 1 and 2 (MEK1/2). Mirdametinib blocks MEK activity and the rat sarcoma (RAS)-rapidly accelerated fibrosarcoma (RAF)-MEK pathway. Therefore, MEK inhibition blocks proliferation and survival of tumour cells in which the RAF-MEK-extracellular related kinase (ERK) pathway is activated.
 
 ## Clinical efficacy
 
-The efficacy of mirdametinib was evaluated in 114 patients in ReNeu, a multi -centre, open -label, single -arm, Phase 2 study in patient s ≥ 2 years of age with symptomatic inoperable NF1 -PN causing significant morbidity. An inoperable PN was defined as a PN that cannot be completely surgically removed without risk for substantial morbidity due to: encasement of or close proximity to vital structures, invasiveness, or high vascularity of the PN. Patients received Ezmekly 2 mg/m 2 orally twice daily for the first 21 days of each 28 -day cycle until disease progression or unacceptable toxicity.
+The efficacy of mirdametinib was evaluated in 114 patients in ReNeu, a multi-centre, open-label, single-arm, Phase 2 study in patients ≥ 2 years of age with symptomatic inoperable NF1-PN causing significant morbidity. An inoperable PN was defined as a PN that cannot be completely surgically removed without risk for substantial morbidity due to: encasement of or close proximity to vital structures, invasiveness, or high vascularity of the PN. Patients received Ezmekly 2 mg/m 2 orally twice daily for the first 21 days of each 28-day cycle until disease progression or unacceptable toxicity.
 
 A total of 58 adult patients received Ezmekly. The median age was 34.5 years (range 18 to 69 years); 85% were Caucasian, 64% were female and 3.4% were greater than 65 years of age. Approximately half of the patients (53%) had a progressing PN at study entry, 48% had their tumour in the head and neck, and 69% had prior surgery. All patients had significant morbidities. The most commonly reported morbidities were pain (90%) disfigurement or major deformity (52%), and motor dysfunction (40%).
 
 A total of 56 paediatric patients received Ezmekly; 57% were aged 2 to 11 years and 43% were aged 12 to 17 years. The median age was 10.0 years (range 2 to 17 years); 66% were Caucasian and 54% were female. Half of participants (50%) had their tumour in head and neck, most participants had a progressing PN at study entry (63%) and 36% had prior surgery. The majority of patients (96%) had significant morbidities. The most commonly reported morbidities were pain (70%), disfigurement or major deformity (50%) and motor dysfunction (27%).
 
-The primary efficacy endpoint measure was confirmed objective response rate (ORR), defined as the percentage of patients with complete response (disappearance of the target PN) or confirmed partial response (≥ 20% reduction in PN volume confirmed at consecutive tumour assessments approximately every four cycles within 2 -6 months during the 24 -cycle treatment phase). Tumour response status was assessed by blinded independent central review (BICR) approximately every four cycles using volumetric magnetic resonance imaging (MRI) analysis. Objective response rate was evaluated per Response Evaluation in Neurofibromatosis and Schwannomatosis (REiNS) criteria with two consecutive assessments of partial response or complete response by a BICR within 2 -6 months during the 24 -cycle treatment phase.
-
-<div style=\"page-break-after: always\"></div>
+The primary efficacy endpoint measure was confirmed objective response rate (ORR), defined as the percentage of patients with complete response (disappearance of the target PN) or confirmed partial response (≥ 20% reduction in PN volume confirmed at consecutive tumour assessments approximately every four cycles within 2-6 months during the 24-cycle treatment phase). Tumour response status was assessed by blinded independent central review (BICR) approximately every four cycles using volumetric magnetic resonance imaging (MRI) analysis. Objective response rate was evaluated per Response Evaluation in Neurofibromatosis and Schwannomatosis (REiNS) criteria with two consecutive assessments of partial response or complete response by a BICR within 2-6 months during the 24-cycle treatment phase.
 
 A secondary efficacy objective was to determine the duration of response for patients who achieved a confirmed objective response.
 
 Efficacy results are provided in Table 5. The median time to onset of response was 7.8 months (range: 4.0 months to 19.0 months) for the adult cohort and 7.9 months (range: 4.1 months to 18.8 months) for the paediatric cohort. The median duration of response was not reached for either cohort.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 5. Efficacy results in ReNeu
 
@@ -396,8 +400,18 @@ Table 5. Efficacy results in ReNeu
 | Confirmed complete response, n (%)                             | 0              | 0                   |
 | Confirmed partial response, n (%)                              | 24 (41%)       | 29 (52%)            |
 | Duration of response                                           |                |                     |
-| DoR ≥12 months d                                               | 21 (88%)       | 26 (90%)            |
+| DoR≥12 months d                                                | 21 (88%)       | 26 (90%)            |
 | DoR≥24 months d                                                | 12 (50%)       | 14 (48%)            |
+
+Abbreviations: CI = confidence interval; BICR = blinded independent central review; REiNS = Response Evaluation in Neurofibromatosis and Schwannomatosis; DoR = duration of response
+
+a  Confirmed objective response was defined as two consecutive assessments of partial response or complete response assessed by a BICR within 2-6 months during the 24-cycle treatment phase.
+
+b  Patients who had no post-baseline MRI assessment or no confirmed objective response were treated as non-responders.
+
+c  Obtained using the Clopper-Pearson approach.
+
+d  Duration of response (data cut-off, June 2024) was assessed using the Kaplan-Meier approach.
 
 ## Paediatric population
 
@@ -405,29 +419,29 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## Conditional approval
 
-This medicinal product has been authorised under a so -called 'conditional approval' scheme. This means that further evidence on this medicinal product is awaited. The European Medicines Agency (EMEA) will review new information on this medicinal product at least every year and this SmPC will be updated as necessary.
+This medicinal product has been authorised under a so-called 'conditional approval' scheme. This means that further evidence on this medicinal product is awaited. The European Medicines Agency (EMEA) will review new information on this medicinal product at least every year and this SmPC will be updated as necessary.
 
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of mirdametinib was studied in healthy subjects, NF1 -PN patients and advanced cancer patients.
-
-<div style=\"page-break-after: always\"></div>
+The pharmacokinetics of mirdametinib was studied in healthy subjects, NF1-PN patients and advanced cancer patients.
 
 ## Absorption
 
-Following multiple oral doses at 2 mg/m 2 twice daily, the geomean [geometric % coefficient of variation (CV)] Cmax and AUClast in adult participants with NF1 -PN were 188 (52%) ng/mL and 431 (43%) ng × h/mL, respectively. Following oral dosing, mirdametinib produced peak steady state plasma concentrations (Tmax) approximately one hour post -dose.
+Following multiple oral doses at 2 mg/m 2 twice daily, the geomean [geometric % coefficient of variation (CV)] Cmax and AUClast in adult participants with NF1-PN were 188 (52%) ng/mL and 431 (43%) ng × h/mL, respectively. Following oral dosing, mirdametinib produced peak steady state plasma concentrations (Tmax) approximately one hour post-dose.
 
 ## Effect of food
 
-In healthy adult subjects at a single dose of 20 mg, co -administration of mirdametinib with a high -fat, high -calorie meal resulted in 43% lower Cmax, while the area under the concentration -time curve (AUC) was not significantly changed (AUCinf decreased by 7%). The time to reach maximum concentration (Tmax) was delayed by approximately 3 hours. The effect on Cmax is not considered clinically relevant due to the absence of effect on overall exposure.
+In healthy adult subjects at a single dose of 20 mg, co-administration of mirdametinib with a high-fat, high-calorie meal resulted in 43% lower Cmax, while the area under the concentration-time curve (AUC) was not significantly changed (AUCinf decreased by 7%). The time to reach maximum concentration (Tmax) was delayed by approximately 3 hours. The effect on Cmax is not considered clinically relevant due to the absence of effect on overall exposure.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
-Following a single oral dose of 4 mg [ 14 C]mirdametinib in healthy subjects, the mean apparent volume of distribution of mirdametinib was 255 L. Human plasma protein binding is &gt;99%. Mirdametinib is mainly bound to human serum albumin (&gt;99%). Binding to α1acid glycoprotein (AAG) ranged from 17.2% to 54.3%. The blood/plasma ratio for mirdametinib is 0.61.
+Following a single oral dose of 4 mg [ 14 C]mirdametinib in healthy subjects, the mean apparent volume of distribution of mirdametinib was 255 L. Human plasma protein binding is &gt;99%. Mirdametinib is mainly bound to human serum albumin (&gt;99%). Binding to α1-acid glycoprotein (AAG) ranged from 17.2% to 54.3%. The blood/plasma ratio for mirdametinib is 0.61.
 
 ## Biotransformation
 
-Mirdametinib is highly metabolised via glucuronidation, hydrolysis, and oxidation via uridine diphosphate glucuronosyltransferase (UGT) and carboxyl esterase (CES) enzymes, resulting in M22 (a secondary O -glucuronide metabolite) and M15 (a carboxylic acid metabolite), respectively. Less than 10% is excreted unchanged.
+Mirdametinib is highly metabolised via glucuronidation, hydrolysis, and oxidation via uridine diphosphate glucuronosyltransferase (UGT) and carboxyl esterase (CES) enzymes, resulting in M22 (a secondary O-glucuronide metabolite) and M15 (a carboxylic acid metabolite), respectively. Less than 10% is excreted unchanged.
 
 ## Interactions
 
@@ -439,11 +453,9 @@ In vitro , mirdametinib, M15, and M22 are not inhibitors of CYP1A2, CYP2B6, CYP2
 
 In vitro , mirdametinib is not an inhibitor of the isoforms UGT1A1, UGT1A3, UGT1A4, UGT1A6, UGT1A9, UGT2B7, or UGT2B15 at clinically relevant concentrations. In vitro , M15 was not an inhibitor of the isoforms UGT1A3, UGT1A4, UGT1A6, UGT2B15, or UGT2B17. M15 is an inhibitor of UGT1A1, UGT1A9, UGT2B7 in vitro , however there is a low potential for inhibition at clinically relevant concentrations.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Effect of mirdametinib on drug transporters
 
-In vitro, mirdametinib and M15 do not inhibit the breast cancer resistance protein (BCRP), P -glycoprotein (P -gp), OATP1B1, OATP1B3, OCT2, OAT1, OAT3, MATE1 or MATE2K transporters.
+In vitro, mirdametinib and M15 do not inhibit the breast cancer resistance protein (BCRP), P-glycoprotein (P-gp), OATP1B1, OATP1B3, OCT2, OAT1, OAT3, MATE1 or MATE2K transporters.
 
 In vitro , M22 does not inhibit P-gp, OATP1B3, OCT1, OCT2, OAT1, OAT3, MATE1 or MATE2K transporters. Based on in vitro studies, M22 inhibits BCRP, OATP1B1, and OATP2B1, however the clinical relevance of these effects cannot be established due to uncertainties regarding M22 maximal plasma concentrations and its protein binding.
 
@@ -453,11 +465,13 @@ Based on in vitro studies, mirdametinib is a substrate for BCRP and P-gp transpo
 
 In healthy adult subjects, following a single dose of 4 mg of radiolabelled mirdametinib, 68% of the dose was recovered in urine (0.7% unchanged) while 27% was recovered in faeces (8.7% unchanged in urine and faeces). The mean terminal half life is 28 hours. The apparent systemic clearance (CL/F) is 6.34 L/h.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Linearity
 
 Mirdametinib exposures, as measured by Cmax and AUCtau, generally increased dose proportionally from 1 mg QD/BID to 30 mg BID. A linear relationship between dose and exposure was verified by population pharmacokinetic analyses over the dose range of 1 mg to 20 mg mirdametinib BID . The mean accumulation ratio ranged from 1.1 to 1.9 across dose levels from 1 to 30 mg.
 
-Steady -state concentrations in patients with NF1 -PN are achieved on average approximately 6 days following repeat administration.
+Steady-state concentrations in patients with NF1-PN are achieved on average approximately 6 days following repeat administration.
 
 ## Special populations
 
@@ -479,35 +493,35 @@ The pharmacokinetic profile in children is similar to that of adults.
 
 ## 5.3 Preclinical safety data
 
-Non -clinical data revealed no special hazard for humans based on conventional studies of safety pharmacology.
-
-<div style=\"page-break-after: always\"></div>
+Non-clinical data revealed no special hazard for humans based on conventional studies of safety pharmacology.
 
 ## Genotoxicity/Carcinogenicity
 
 Mirdametinib was not genotoxic in a bacterial reverse mutation (Ames) assay or in an in vitro human lymphocyte chromosomal aberration assay but was equivocal in the in vivo micronucleus study and in vivo chromosomal aberrations study in rats. A genotoxicity risk in human could not be excluded at the clinical exposure range.
 
-Mirdametinib was not carcinogenic in transgenic mice at a dose of 5 mg/kg/day (3 times the human exposure). Since a genotoxicity risk in humans could not be excluded at clinical exposure and the 2 -year rat carcinogenicity study is performed at exposures below the clinical exposure, a carcinogenicity risk could not be excluded.
+Mirdametinib was not carcinogenic in transgenic mice at a dose of 5 mg/kg/day (3 times the human exposure). Since a genotoxicity risk in humans could not be excluded at clinical exposure and the 2-year rat carcinogenicity study is performed at exposures below the clinical exposure, a carcinogenicity risk could not be excluded.
 
-## Repeat -dose toxicity
+## Repeat-dose toxicity
 
-In oral, repeat dose toxicity studies conducted for up to 3 months in rats and dogs, the primary toxicities due to MEK inhibition were in the skin and GI tract at doses below human exposure. In the 3 -month rat study with mirdametinib, at doses approximately equivalent to the human exposure, rats showed dysplasia in femoral epiphyseal growth plate, metaphyseal hypocellularity of the bone marrow of long bones, and metaphyseal thickening of bone trabeculae of long bones. Male rats were more sensitive to these effects. These bone effects were not seen in other species (dogs, monkeys or mice). Reversibility of dysplasia in epiphyseal growth plate was not evaluated. In rats, systemic mineralization and ocular findings (corneal opacities and atrophy or thinning of the corneal epithelium) were observed in repeat dose toxicity studies at doses below human exposure. Increases in liver enzymes (rats) and hepatocellular necrosis (rats, mice, and dogs) were observed at exposures similar to clinical exposure. In a 2 -week study in cynomolgus monkeys, gallbladder toxicity was observed at exposures &gt;2.5 -fold the human exposure.
+In oral, repeat dose toxicity studies conducted for up to 3 months in rats and dogs, the primary toxicities due to MEK inhibition were in the skin and GI tract at doses below human exposure. In the 3-month rat study with mirdametinib, at doses approximately equivalent to the human exposure, rats showed dysplasia in femoral epiphyseal growth plate, metaphyseal hypocellularity of the bone marrow of long bones, and metaphyseal thickening of bone trabeculae of long bones. Male rats were more sensitive to these effects. These bone effects were not seen in other species (dogs, monkeys or mice).
 
-CNS effects were observed in dogs in the 3 -month study at exposures approximately 1.5 times the human exposure; these effects in dogs, including impaired balance and tremors, were reversible and there was no microscopic correlate.
+<div style=\"page-break-after: always\"></div>
+
+Reversibility of dysplasia in epiphyseal growth plate was not evaluated. In rats, systemic mineralization and ocular findings (corneal opacities and atrophy or thinning of the corneal epithelium) were observed in repeat dose toxicity studies at doses below human exposure. Increases in liver enzymes (rats) and hepatocellular necrosis (rats, mice, and dogs) were observed at exposures similar to clinical exposure. In a 2-week study in cynomolgus monkeys, gallbladder toxicity was observed at exposures &gt;2.5-fold the human exposure.
+
+CNS effects were observed in dogs in the 3-month study at exposures approximately 1.5 times the human exposure; these effects in dogs, including impaired balance and tremors, were reversible and there was no microscopic correlate.
 
 ## Reproductive and developmental toxicity
 
-In a male and female rat fertility study, mirdametinib at a dose up to 1.0 mg/kg/day (approximately equivalent to the human exposure at the recommended dose based on AUC) did not affect mating performance or fertility in both sexes. In a 3 -month repeat -dose toxicology study in rats, mirdametinib caused decreased ovarian organ weight and increased follicular cysts associated with decreases in the number of corpora lutea at doses ≥ 0.3 mg/kg/day (0.5 times the human exposure), as well as testicular hypocellularity and decreased weight of epididymides at 1 mg/kg/day (2.1 times the human exposure).
+In a male and female rat fertility study, mirdametinib at a dose up to 1.0 mg/kg/day (approximately equivalent to the human exposure at the recommended dose based on AUC) did not affect mating performance or fertility in both sexes. In a 3-month repeat-dose toxicology study in rats, mirdametinib caused decreased ovarian organ weight and increased follicular cysts associated with decreases in the number of corpora lutea at doses ≥ 0.3 mg/kg/day (0.5 times the human exposure), as well as testicular hypocellularity and decreased weight of epididymides at 1 mg/kg/day (2.1 times the human exposure).
 
-In preliminary embryo -foetal developmental toxicity studies in pregnant rats and rabbits, oral dosing of mirdametinib induced postimplantation loss (early and late resorptions) and decreased foetal body weights at exposures below the human exposures at the recommended dose. In the preliminary rat study, a single foetus had extremity malformations at doses 3.6 -fold higher than the recommended human dose. Definitive embryo -foetal development and pre -and post -natal development studies were not conducted with mirdametinib.
+In preliminary embryo-foetal developmental toxicity studies in pregnant rats and rabbits, oral dosing of mirdametinib induced postimplantation loss (early and late resorptions) and decreased foetal body weights at exposures below the human exposures at the recommended dose. In the preliminary rat study, a single foetus had extremity malformations at doses 3.6-fold higher than the recommended human dose. Definitive embryo-foetal development and pre- and post-natal development studies were not conducted with mirdametinib.
 
 ## Phototoxicity
 
 Mirdametinib was equivocal in an in vitro mouse fibroblast phototoxicity assay at significantly higher concentrations than clinical exposures and was not retained in the skin or eyes of rats, indicating that there is low risk for phototoxicity in patients taking mirdametinib.
 
 ## 6. PHARMACEUTICAL PARTICULARS
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.1 List of excipients
 
@@ -518,6 +532,8 @@ Microcrystalline cellulose (E460) Croscarmellose sodium (E468) Magnesium stearat
 ## Capsule shell
 
 Gelatin (E441) Titanium dioxide (E171) Yellow iron oxide (E172) Brilliant blue (E133)
+
+<div style=\"page-break-after: always\"></div>
 
 ## Printing ink
 
@@ -539,7 +555,7 @@ Store in the original package to protect from light.
 
 ## 6.5 Nature and contents of container
 
-High -density polyethylene (HDPE) bottle, secured with child -resistant closure and aluminium foil induction seal.
+High-density polyethylene (HDPE) bottle, secured with child-resistant closure and aluminium foil induction seal.
 
 1 mg hard capsules are provided in a carton containing one bottle of 42 capsules.
 
@@ -553,15 +569,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Merck Europe B.V.
-
-Gustav Mahlerplein 102
-
-<div style=\"page-break-after: always\"></div>
-
-1082 MA Amsterdam
-
-The Netherlands
+Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -573,15 +581,11 @@ EU/1/25/1950/005
 
 Date of first authorisation: 17 July 2025
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -603,7 +607,7 @@ For the full list of excipients, see section 6.1.
 
 Dispersible tablet.
 
-Oval, white to off -white dispersible tablets (approximately 6 mm × 9 mm) debossed with 'S' on one side.
+Oval, white to off-white dispersible tablets (approximately 6 mm × 9 mm) debossed with 'S' on one side.
 
 ## 4. CLINICAL PARTICULARS
 
@@ -613,11 +617,11 @@ Ezmekly as monotherapy is indicated for the treatment of symptomatic, inoperable
 
 ## 4.2 Posology and method of administration
 
-Treatment with Ezmekly should be initiated by a physician experienced in the diagnosis and the treatment of patients with NF1 -related tumours.
+Treatment with Ezmekly should be initiated by a physician experienced in the diagnosis and the treatment of patients with NF1-related tumours.
 
 ## Posology
 
-The recommended dose of Ezmekly is 2 mg/m 2  of body surface area (BSA), twice daily (approximately every 12 hours) for the first 21 days of each 28 -day cycle. The maximum dose is 4 mg twice daily (see Table 1).
+The recommended dose of Ezmekly is 2 mg/m 2  of body surface area (BSA), twice daily (approximately every 12 hours) for the first 21 days of each 28-day cycle. The maximum dose is 4 mg twice daily (see Table 1).
 
 Ezmekly is also available in a hard capsule formulation. It is recommended that the dispersible tablets be used in patients aged 2 to &lt;6 years of age and in adults who are unable to swallow capsules whole. The recommended dose for patients with a BSA less than 0.40 m 2 has not been established.
 
@@ -625,10 +629,10 @@ Table 1: Recommended dose based on body surface area
 
 | Body surface area (BSA)   | Recommended dose   |
 |---------------------------|--------------------|
-| 0.40 to 0.69m 2           | 1 mg twice daily   |
-| 0.70 to 1.04m 2           | 2 mg twice daily   |
-| 1.05 to 1.49m 2           | 3 mg twice daily   |
-| ≥ 1.50m 2                 | 4 mg twice daily   |
+| 0.40 to 0.69 m 2          | 1 mg twice daily   |
+| 0.70 to 1.04 m 2          | 2 mg twice daily   |
+| 1.05 to 1.49 m 2          | 3 mg twice daily   |
+| ≥ 1.50 m 2                | 4 mg twice daily   |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -642,7 +646,7 @@ If a dose of Ezmekly is missed, an additional dose is not to be taken. The patie
 
 ## Vomiting
 
-If vomiting occurs after Ezmekly is administered, an additional dose is not to be taken. The patient should continue with the next scheduled dose. Manage events of vomiting as clinically indicated, including use of anti -emetics.
+If vomiting occurs after Ezmekly is administered, an additional dose is not to be taken. The patient should continue with the next scheduled dose. Manage events of vomiting as clinically indicated, including use of anti-emetics.
 
 ## Dose adjustments
 
@@ -653,10 +657,10 @@ Table 2: Recommended dose reductions
 | Body surface area (BSA)   | Reduced dose    | Reduced dose    |
 |---------------------------|-----------------|-----------------|
 |                           | Morning         | Evening         |
-| 0.40 to 0.69m 2           | 1 mg once daily | 1 mg once daily |
-| 0.70 to 1.04m 2           | 2 mg            | 1 mg            |
-| 1.05 to 1.49m 2           | 2 mg            | 2 mg            |
-| ≥ 1.50m 2                 | 3 mg            | 3 mg            |
+| 0.40 to 0.69 m 2          | 1 mg once daily | 1 mg once daily |
+| 0.70 to 1.04 m 2          | 2 mg            | 1 mg            |
+| 1.05 to 1.49 m 2          | 2 mg            | 2 mg            |
+| ≥ 1.50 m 2                | 3 mg            | 3 mg            |
 
 Management of patients according to the adverse reactions associated with this medicinal product are presented in Table 3.
 
@@ -677,9 +681,9 @@ Table 3: Recommended dose modifications for adverse reactions
 | Asymptomatic, absolute decrease in LVEF of 10% or greater from baseline and is less than the lower limit of normal. | Interrupt treatment until improvement. Resume at reduced dose (see Table 2).                                                                                        |
 | For any absolute decrease in LVEF 20% or greater from baseline.                                                     | Discontinue treatment permanently.                                                                                                                                  |
 | Skin toxicity (see sections 4.4 and section 4.8)                                                                    | Skin toxicity (see sections 4.4 and section 4.8)                                                                                                                    |
-| Grade 1 or 2 dermatitis acneiform or non - acneiform rash                                                           | Continue treatment.                                                                                                                                                 |
-| Intolerable Grade 2 or Grade 3 dermatitis acneiform or non - acneiform rash                                         | Interrupt treatment until improvement. Resume at reduced dose (see Table 2).                                                                                        |
-| Grade 3 or Grade 4 dermatitis acneiform or non - acneiform rash                                                     | Interrupt treatment until improvement. Resume at reduced dose (see Table 2).                                                                                        |
+| Grade 1 or 2 dermatitis acneiform or non-acneiform rash                                                             | Continue treatment.                                                                                                                                                 |
+| Intolerable Grade 2 or Grade 3 dermatitis acneiform or non-acneiform rash                                           | Interrupt treatment until improvement. Resume at reduced dose (see Table 2).                                                                                        |
+| Grade 3 or Grade 4 dermatitis acneiform or non-acneiform rash                                                       | Interrupt treatment until improvement. Resume at reduced dose (see Table 2).                                                                                        |
 | Other adverse reactions (see section 4.8)                                                                           | Other adverse reactions (see section 4.8)                                                                                                                           |
 | Intolerable Grade 2 or Grade 3                                                                                      | Interrupt treatment until improvement. Resume at reduced dose (see Table 2).                                                                                        |
 | Grade 4                                                                                                             | Interrupt treatment until improvement. Resume at reduced dose (see Table 2). Consider discontinuation.                                                              |
@@ -694,11 +698,11 @@ No dose adjustment is recommended for patients who are aged 65 or over. Clinical
 
 No dose adjustment is recommended in patients with mild or moderate renal impairment based on a population pharmacokinetic analysis. Ezmekly has not been studied in patients with severe renal impairment (CrCL ≥ 15 to &lt; 30 mL/min) or patients with end stage renal disease (ESRD), and therefore, no dose recommendations can be made (see section 5.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hepatic impairment
 
 No dose adjustment is recommended in patients with mild hepatic impairment (total bilirubin &gt; ULN to 1.5x ULN or total bilirubin ≤ ULN and AST &gt; ULN), based on a population pharmacokinetic analysis. Ezmekly has not been studied in patients with moderate or severe hepatic impairment, and therefore, no dose recommendation can be made (see section 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -732,13 +736,13 @@ Asymptomatic decrease in LVEF ≥ 10% from baseline occurred in 16% of adult pat
 
 Patients with a history of impaired LVEF or a baseline ejection fraction that is below the institutional lower limit of normal (LLN) have not been studied. LVEF should be evaluated by echocardiogram before initiation of treatment to establish baseline values, every 3 months during the first year, then as clinically indicated thereafter. Prior to starting treatment, patients should have an ejection fraction above the institutional LLN.
 
-<div style=\"page-break-after: always\"></div>
-
 Decreased LVEF can be managed using treatment interruption, dose reduction or treatment discontinuation (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Skin toxicity
 
-Skin adverse reactions, including rash (dermatitis acneiform and non -acneiform rashes), dry skin, pruritus, eczema, and hair changes have been reported in the ReNeu study (see section 4.8).
+Skin adverse reactions, including rash (dermatitis acneiform and non-acneiform rashes), dry skin, pruritus, eczema, and hair changes have been reported in the ReNeu study (see section 4.8).
 
 Patients should contact their doctor or nurse if they experience any skin reactions. Supportive care, e.g. the use of emollient creams, should be initiated at first signs of skin toxicity. Mirdametinib therapy should be interrupted, the dose reduced or permanently discontinued based on severity of the adverse reaction (see section 4.2).
 
@@ -752,7 +756,7 @@ Mirdametinib is not recommended in women of childbearing potential who are not u
 
 ## Excipients with known effect
 
-Each dispersible tablet contains less than 1 mmol sodium (23 mg) per dose which means it is essentially 'sodium -free'.
+Each dispersible tablet contains less than 1 mmol sodium (23 mg) per dose which means it is essentially 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -770,7 +774,7 @@ The effect of mirdametinib on the exposure of systemically acting hormonal contr
 
 ## Effects of gastric acid reducing agents on mirdametinib
 
-The combination of mirdametinib with proton -pump inhibitors, antacids, or H2 -receptor antagonists is not expected to be clinically meaningful as mirdametinib does not exhibit pH dependent dissolution. Ezmekly can be used concomitantly with gastric pH modifying agents (i.e., H2 -receptor antagonists and proton pump inhibitors) without restrictions.
+The combination of mirdametinib with proton-pump inhibitors, antacids, or H2-receptor antagonists is not expected to be clinically meaningful as mirdametinib does not exhibit pH dependent dissolution. Ezmekly can be used concomitantly with gastric pH modifying agents (i.e., H2-receptor antagonists and proton pump inhibitors) without restrictions.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -784,9 +788,9 @@ Women of childbearing potential should be advised that Ezmekly may cause foetal 
 
 There are limited data on the use of mirdametinib in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3). Ezmekly should not be used during pregnancy and in women of childbearing potential not using contraception. If a female patient or a female partner of a male patient receiving Ezmekly becomes pregnant, she should be apprised of the potential risk to the foetus.
 
-## Breast -feeding
+## Breast-feeding
 
-It is not known whether mirdametinib or its metabolites are excreted in human milk. A risk to the breast -fed child cannot be excluded, therefore breast -feeding should be discontinued during treatment with Ezmekly and should not be resumed for 1 week after the last dose.
+It is not known whether mirdametinib or its metabolites are excreted in human milk. A risk to the breast-fed child cannot be excluded, therefore breast-feeding should be discontinued during treatment with Ezmekly and should not be resumed for 1 week after the last dose.
 
 ## Fertility
 
@@ -808,7 +812,7 @@ In the paediatric pool of NF1 patients, the most common adverse reaction of any 
 
 ## Tabulated list of adverse reactions
 
-The safety profile of mirdametinib has been determined following evaluation of a combined safety population of 75 adult and 58 paediatric patients dosed at 2 mg/m 2 twice daily for the first 21 days of each 28 -day cycle. This pool of patients comprised 114 patients (58 adult, 56 paediatric) in ReNeu (the pivotal dataset), and 19 patients (17 adult, 2 paediatric) in NF -106.
+The safety profile of mirdametinib has been determined following evaluation of a combined safety population of 75 adult and 58 paediatric patients dosed at 2 mg/m 2 twice daily for the first 21 days of each 28-day cycle. This pool of patients comprised 114 patients (58 adult, 56 paediatric) in ReNeu (the pivotal dataset), and 19 patients (17 adult, 2 paediatric) in NF-106.
 
 In the adult pool (N = 75), the median total duration of mirdametinib treatment was 18.7 months (range: 0.4 to 45.6 months).
 
@@ -823,84 +827,84 @@ Table 4. Adverse reactions reported in the safety population
 | MedDRA SOC                  | MedDRA term                                  | Adult pool (N=75)                    | Adult pool (N=75)                    | Paediatric pool (N=58)               | Paediatric pool (N=58)               |
 |-----------------------------|----------------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
 |                             |                                              | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above |
-| Infections and Infestations | Paronychia                                   | Common (3 %)                         | -                                    | Very Common ( 33%)                   | -                                    |
-| Nervous system disorders    | Headache                                     | Very common (16 %)                   | Common ( 1%)                         | Very common (3 6%)                   | Common (2 %)                         |
-| Eye disorders               | Blurred vision                               | Common (9 %)                         | -                                    | Common ( 7%)                         | -                                    |
-| Eye disorders               | Retinal vein occlusion                       | Common (3 %)                         | Common ( 1%)                         | -                                    | -                                    |
-| Eye disorders               | RPED (retinal pigment epithelial detachment) | Common (1 %)                         | -                                    | -                                    | -                                    |
-| Gastrointestinal disorders  | Diarrhoea                                    | Very common (55 %)                   | -                                    | Very common (5 3%)                   | Common (5 %)                         |
-| Gastrointestinal disorders  | Nausea                                       | Very common (55 %)                   | -                                    | Very common (2 9%)                   | -                                    |
-| Gastrointestinal disorders  | Vomiting                                     | Very common (37 %)                   | -                                    | Very common (4 0%)                   | -                                    |
+| Infections and Infestations | Paronychia                                   | Common (3%)                          | -                                    | Very Common (33%)                    | -                                    |
+| Nervous system disorders    | Headache                                     | Very common (16%)                    | Common (1%)                          | Very common (36%)                    | Common (2%)                          |
+| Eye disorders               | Blurred vision                               | Common (9%)                          | -                                    | Common (7%)                          | -                                    |
+| Eye disorders               | Retinal vein occlusion                       | Common (3%)                          | Common (1%)                          | -                                    | -                                    |
+| Eye disorders               | RPED (retinal pigment epithelial detachment) | Common (1%)                          | -                                    | -                                    | -                                    |
+| Gastrointestinal disorders  | Diarrhoea                                    | Very common (55%)                    | -                                    | Very common (53%)                    | Common (5%)                          |
+| Gastrointestinal disorders  | Nausea                                       | Very common (55%)                    | -                                    | Very common (29%)                    | -                                    |
+| Gastrointestinal disorders  | Vomiting                                     | Very common (37%)                    | -                                    | Very common (40%)                    | -                                    |
+| Gastrointestinal disorders  | Abdominal pain a                             | Very common (20%)                    | Common (4%)                          | Very common (40%)                    | Common (3%)                          |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA SOC                                          | MedDRA term            | Adult pool (N=75)                    | Adult pool (N=75)                    | Paediatric pool (N=58)               | Paediatric pool (N=58)               |
-|-----------------------------------------------------|------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
-|                                                     |                        | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above |
-|                                                     | Abdominal pain a       | Very common (20 %)                   | Common ( 4%)                         | Very common (4 0%)                   | Common (3 %)                         |
-|                                                     | Constipation           | Very common (19 %)                   | -                                    | Very common (1 0%)                   | -                                    |
-|                                                     | Dry mouth              | Common (7 %)                         | -                                    | -                                    | -                                    |
-|                                                     | Stomatitis b           | Common (5 %)                         | -                                    | Very Common ( 19%)                   | -                                    |
-| Skin and subcutaneous tissue disorders              | Dermatitis acneiform   | Very common (83 %)                   | Common (7%)                          | Very common (4 3%)                   | Common (2 %)                         |
-| Skin and subcutaneous tissue disorders              | Rash c                 | Very common (17 %)                   | Common ( 1%)                         | Very common (3 3%)                   | Common (2 %)                         |
-| Skin and subcutaneous tissue disorders              | Dry skin               | Very common (13 %)                   | -                                    | Very common (1 7%)                   | -                                    |
-| Skin and subcutaneous tissue disorders              | Alopecia               | Very common (12 %)                   | -                                    | Very common (1 4%)                   | -                                    |
-| Skin and subcutaneous tissue disorders              | Pruritus               | Very common (13 %)                   | -                                    | Very common (1 2%)                   | -                                    |
-| Skin and subcutaneous tissue disorders              | Eczema                 | Common (3 %)                         | -                                    | Very common (1 4%)                   | -                                    |
-| Skin and subcutaneous tissue disorders              | Hair colour changes    | Common (1 %)                         | -                                    | Very common (1 2%)                   | -                                    |
-| Skin and subcutaneous tissue disorders              | Hair texture abnormal  | Common (1 %)                         | -                                    | Common ( 5%)                         | -                                    |
-| Musculoskeletal and connective tissue disorders     | Musculoskeletal pain d | Very common (41 %)                   | Common ( 7%)                         | Very common (4 1%)                   | Common (2 %)                         |
-| General disorders and administation site conditions | Fatigue                | Very common (36 %)                   | Common ( 1%)                         | Very common (1 2%)                   | -                                    |
-| General disorders and administation site conditions | Oedema peripheral e    | Very common (12 %)                   | -                                    | Common ( 5%)                         | -                                    |
+| MedDRA SOC                                          | MedDRA term                            | Adult pool (N=75)                    | Adult pool (N=75)                    | Paediatric pool (N=58)               | Paediatric pool (N=58)               |
+|-----------------------------------------------------|----------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
+|                                                     |                                        | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above |
+|                                                     | Constipation                           | Very common (19%)                    | -                                    | Very common (10%)                    | -                                    |
+|                                                     | Dry mouth                              | Common (7%)                          | -                                    | -                                    | -                                    |
+|                                                     | Stomatitis b                           | Common (5%)                          | -                                    | Very Common (19%)                    | -                                    |
+| Skin and subcutaneous tissue disorders              | Dermatitis acneiform                   | Very common (83%)                    | Common (7%)                          | Very common (43%)                    | Common (2%)                          |
+| Skin and subcutaneous tissue disorders              | Rash c                                 | Very common (17%)                    | Common (1%)                          | Very common (33%)                    | Common (2%)                          |
+| Skin and subcutaneous tissue disorders              | Dry skin                               | Very common (13%)                    | -                                    | Very common (17%)                    | -                                    |
+| Skin and subcutaneous tissue disorders              | Alopecia                               | Very common (12%)                    | -                                    | Very common (14%)                    | -                                    |
+| Skin and subcutaneous tissue disorders              | Pruritus                               | Very common (13%)                    | -                                    | Very common (12%)                    | -                                    |
+| Skin and subcutaneous tissue disorders              | Eczema                                 | Common (3%)                          | -                                    | Very common (14%)                    | -                                    |
+| Skin and subcutaneous tissue disorders              | Hair colour changes                    | Common (1%)                          | -                                    | Very common (12%)                    | -                                    |
+| Skin and subcutaneous tissue disorders              | Hair texture abnormal                  | Common (1%)                          | -                                    | Common (5%)                          | -                                    |
+| Musculoskeletal and connective tissue disorders     | Musculoskeletal pain d                 | Very common (41%)                    | Common (7%)                          | Very common (41%)                    | Common (2%)                          |
+| General disorders and administation site conditions | Fatigue                                | Very common (36%)                    | Common (1%)                          | Very common (12%)                    | -                                    |
+| General disorders and administation site conditions | Oedema peripheral e                    | Very common (12%)                    | -                                    | Common (5%)                          | -                                    |
+| Investigations                                      | Blood creatine phosphokinase increased | Very common (47%)                    | Common (3%)                          | Very common (59%)                    | Common (5%)                          |
+| Investigations                                      | AST increased                          | Very common (16%)                    | -                                    | Common (9%)                          | -                                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA SOC     | MedDRA term                            | Adult pool (N=75)                    | Adult pool (N=75)                    | Paediatric pool (N=58)               | Paediatric pool (N=58)               |
-|----------------|----------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
-|                |                                        | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above |
-| Investigations | Blood creatine phosphokinase increased | Very common (47 %)                   | Common ( 3%)                         | Very common (5 9%)                   | Common (5 %)                         |
-| Investigations | AST increased                          | Very common (16 %)                   | -                                    | Common ( 9%)                         | -                                    |
-| Investigations | Blood alkaline phosphatase increased   | Very common (14 %)                   | -                                    | Very common (2 4%)                   | -                                    |
-| Investigations | Ejection Fraction decreased            | Very common (12 %)                   | -                                    | Very common (2 6%)                   | Common (2 %)                         |
-| Investigations | Neutrophil count decreased             | Common (8 %)                         | Common ( 1%)                         | Very common (3 0%)                   | Very common (11 %)                   |
-| Investigations | Leukocyte count decreased              | Common (7 %)                         | -                                    | Very common (3 9%)                   | -                                    |
-| Investigations | ALT increased                          | Common (7 %)                         | -                                    | Very common (2 1%)                   | -                                    |
+| MedDRA SOC   | MedDRA term                          | Adult pool (N=75)                    | Adult pool (N=75)                    | Paediatric pool (N=58)               | Paediatric pool (N=58)               |
+|--------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
+|              |                                      | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above | Overall frequency (All CTCAE grades) | Frequency of CTCAE grade 3 and above |
+|              | Blood alkaline phosphatase increased | Very common (14%)                    | -                                    | Very common (24%)                    | -                                    |
+|              | Ejection Fraction decreased          | Very common (12%)                    | -                                    | Very common (26%)                    | Common (2%)                          |
+|              | Neutrophil count decreased           | Common (8%)                          | Common ( 1%)                         | Very common (30%)                    | Very common (11%)                    |
+|              | Leukocyte count decreased            | Common (7%)                          | -                                    | Very common (39%)                    | -                                    |
+|              | ALT increased                        | Common (7%)                          | -                                    | Very common (21%)                    | -                                    |
 
 a  Abdominal pain includes abdominal pain and abdominal pain upper.
 
 b Stomatitis includes stomatitis, mouth ulceration, aphthous ulcer.
 
-c Rash includes rash, rash maculo -papular, rash pustular, rash erythematous, rash papular, exfoliative rash, papule, rash macular, rash pruritic.
+c Rash includes rash, rash maculo-papular, rash pustular, rash erythematous, rash papular, exfoliative rash, papule, rash macular, rash pruritic.
 
-d Musculoskeletal pain includes musculoskeletal pain, myalgia, pain in extremity, back pain, musculoskeletal chest pain, neck pain, non -cardiac chest pain, arthralgia, bone pain.
+d Musculoskeletal pain includes musculoskeletal pain, myalgia, pain in extremity, back pain, musculoskeletal chest pain, neck pain, non-cardiac chest pain, arthralgia, bone pain.
 
-e Oedema peripheral includes oedema peripheral, peripheral swelling.
+e  Oedema peripheral includes oedema peripheral, peripheral swelling.
 
 ## Description of selected adverse reactions
 
 ## Ocular toxicity
 
-In the ReNeu study, retinal vein occlustion (RVO) was observed in 3% of adult patients, including Grade 3 RVO in 1.7% of patients which resulted in permanent discontinuation. Asymptomatic Grade 1 retinal pigment epithelium detachment (RPED) occurred in 1.7% of patients and was managed without dose modification. Vision blurred was reported by 12% of adult patients. The median time to first onset of ocular toxicity in adults was 147 days. The median time to resolution was 267 days. In these adults, 38% of patients reported resolution of their ocular toxicity, while 25% reported resolution of events with sequelae.
+In the ReNeu study, retinal vein occlusion (RVO) was observed in 3% of adult patients, including Grade 3 RVO in 1.7% of patients which resulted in permanent discontinuation. Asymptomatic Grade 1 retinal pigment epithelium detachment (RPED) occurred in 1.7% of patients and was managed without dose modification. Vision blurred was reported by 12% of adult patients. The median time to first onset of ocular toxicity in adults was 147 days. The median time to resolution was 267 days. In these adults, 38% of patients reported resolution of their ocular toxicity, while 25% reported resolution of events with sequelae.
 
 Vision blurred was reported by 7% of paediatric patients. The median time to first onset of vision blurred was 161 days in paediatric patients. The median time to resolution was 29 days. All paediatric patients reported resolution of events of vision blurred (see sections 4.2 and 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Decreased left ventricular ejection fraction (LVEF)
 
 In the ReNeu study, asymptomatic decreased LVEF was reported in 16% of adults. Of these patients, only one reported an LVEF to &lt; 50%, which led to discontinuation followed by return to normal values. Of the remaining adult patients with decreased LVEF, five had a dose interruption, and one patient had a dose reduction. The median time to first onset of decreased LVEF in adults was 70 days. Decreased LVEF resolved in 89% of adult patients.
 
+<div style=\"page-break-after: always\"></div>
+
 In the ReNeu study, asymptomatic decreased LVEF was reported in 27% of paediatric patients. Of these patients, one reported an LVEF to &lt; 50%, which returned to normal values without dose modification. One patient had a Grade 3 decreased LVEF that resolved without dose modification and another patient with Grade 2 decreased LVEF had a dose interruption. The remaining 12 patients' events of decreased LVEF were Grade 2 and no action was taken with study treatment in response to any of these events. The median time to first onset of decreased LVEF in paediatric patients was 132 days. Decreased LVEF resolved in 67% of paediatric patients (see sections 4.2 and 4.4).
 
 ## Skin toxicity
 
-In the ReNeu study, dermatitis acneiform and non -acneiform rashes occurred in 90% of adult patients. Grade 3 dermatitis acneiform and other rashes occurred in 9% and 1.7% of adult patients, respectively. Rashes resulted in discontinuations in 10% of adults and dose reductions in 10% of adults. The median time to first onset of rashes was 9 days in adult patients. The median time to resolution was 115 days. In these adult patients, 33 (64%) reported resolution of their rashes, 3 (6%) reported resolution with sequelae, and 8 (15%) reported that their rashes were resolving.
+In the ReNeu study, dermatitis acneiform and non-acneiform rashes occurred in 90% of adult patients. Grade 3 dermatitis acneiform and other rashes occurred in 9% and 1.7% of adult patients, respectively. Rashes resulted in discontinuations in 10% of adults and dose reductions in 10% of adults. The median time to first onset of rashes was 9 days in adult patients. The median time to resolution was 115 days. In these adult patients, 33 (64%) reported resolution of their rashes, 3 (6%) reported resolution with sequelae, and 8 (15%) reported that their rashes were resolving.
 
-In the ReNeu study, dermatitis acneiform and non -acneiform rashes occurred in 70% of paediatric patients. Grade 3 dermatitis acneiform and non -acneiform rashes occurred in 1.8% and 1.8%, respectively. Rashes resulted in discontinuations in 4% of paediatric patients and dose reductions in 4% of paediatric patients. Dermatitis acneiform occurred with a higher frequency in patients aged 12 to 17 years, while other rashes occurred with a higher frequency in patients aged 2 to 11 years. The median time to first onset of rashes in paediatric patients was 15 days. The median time to resolution was 155 days. In these paediatric patients, 27 (69%) reported resolution of their rashes and 3 (8%) reported that their rashes were resolving (see sections 4.2 and 4.4).
+In the ReNeu study, dermatitis acneiform and non-acneiform rashes occurred in 70% of paediatric patients. Grade 3 dermatitis acneiform and non-acneiform rashes occurred in 1.8% and 1.8%, respectively. Rashes resulted in discontinuations in 4% of paediatric patients and dose reductions in 4% of paediatric patients. Dermatitis acneiform occurred with a higher frequency in patients aged 12 to 17 years, while other rashes occurred with a higher frequency in patients aged 2 to 11 years. The median time to first onset of rashes in paediatric patients was 15 days. The median time to resolution was 155 days. In these paediatric patients, 27 (69%) reported resolution of their rashes and 3 (8%) reported that their rashes were resolving (see sections 4.2 and 4.4).
 
 ## Musculoskeletal pain
 
-In the ReNeu study, musculoskeletal pain (including musculoskeletal pain, myalgia, pain in extremity, back pain, musculoskeletal chest pain, neck pain, non -cardiac chest pain, arthralgia, and bone pain) were reported by 41% of adult and 41% of paediatric patients. Concomitant medications used to treat musculoskeletal pain included non -steroidal anti -inflammatory medicinal products, non -opioid analgesics and glucocorticoids. Treat musculoskeletal pain as clinically indicated.
+In the ReNeu study, musculoskeletal pain (including musculoskeletal pain, myalgia, pain in extremity, back pain, musculoskeletal chest pain, neck pain, non-cardiac chest pain, arthralgia, and bone pain) were reported by 41% of adult and 41% of paediatric patients. Concomitant medications used to treat musculoskeletal pain included non-steroidal anti-inflammatory medicinal products, non-opioid analgesics and glucocorticoids. Treat musculoskeletal pain as clinically indicated.
 
 ## AST and ALT increased
 
@@ -910,37 +914,37 @@ In the ReNeu study, laboratory shifts of ALT increased were observed in 9% of ad
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.9 Overdose
 
 There is no specific treatment for overdose. If overdose occurs, patients should be closely monitored for signs and symptoms of adverse reactions and treated supportively with appropriate monitoring as necessary. Dialysis is ineffective in the treatment of overdose.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic agents; Mitogen -activated protein kinase (MEK) inhibitors, ATC Code: L01EE05
+Pharmacotherapeutic group: Antineoplastic agents; Mitogen-activated protein kinase (MEK) inhibitors, ATC Code: L01EE05
 
 ## Mechanism of action
 
-Mirdametinib is a selective, non -competitive inhibitor of mitogen -activated protein kinase kinases 1 and 2 (MEK1/2). Mirdametinib blocks MEK activity and the rat sarcoma (RAS) -rapidly accelerated fibrosarcoma (RAF) -MEK pathway. Therefore, MEK inhibition blocks proliferation and survival of tumour cells in which the RAF -MEK -extracellular related kinase (ERK) pathway is activated.
+Mirdametinib is a selective, non-competitive inhibitor of mitogen-activated protein kinase kinases 1 and 2 (MEK1/2). Mirdametinib blocks MEK activity and the rat sarcoma (RAS)-rapidly accelerated fibrosarcoma (RAF)-MEK pathway. Therefore, MEK inhibition blocks proliferation and survival of tumour cells in which the RAF-MEK-extracellular related kinase (ERK) pathway is activated.
 
 ## Clinical efficacy
 
-The efficacy of mirdametinib was evaluated in 114 patients in ReNeu, a multi -centre, open -label, single -arm, Phase 2 study in patients ≥ 2 years of age with symptomatic inoperable NF1 -PN causing significant morbidity. An inoperable PN was defined as a PN that cannot be completely surgically removed without risk for substantial morbidity due: to encasement of or close proximity to vital structures, invasiveness, or high vascularity of the PN. Patients received Ezmekly 2 mg/m 2 orally twice daily for the first 21 days of each 28 -day cycle until disease progression or unacceptable toxicity.
+The efficacy of mirdametinib was evaluated in 114 patients in ReNeu, a multi-centre, open-label, single-arm, Phase 2 study in patients ≥ 2 years of age with symptomatic inoperable NF1-PN causing significant morbidity. An inoperable PN was defined as a PN that cannot be completely surgically removed without risk for substantial morbidity due: to encasement of or close proximity to vital structures, invasiveness, or high vascularity of the PN. Patients received Ezmekly 2 mg/m 2 orally twice daily for the first 21 days of each 28-day cycle until disease progression or unacceptable toxicity.
 
 A total of 58 adult patients received Ezmekly. The median age was 34.5 years (range 18 to 69 years); 85% were Caucasian, 64% were female and 3.4% were greater than 65 years of age. Approximately half of the patients (53%) had a progressing PN at study entry, 48% had their tumour in the head and neck, and 69% had prior surgery. All patients had significant morbidities. The most commonly reported morbidities were pain (90%), disfigurement or major deformity (52%), and motor dysfunction (40%).
 
 A total of 56 paediatric patients received Ezmekly: 57% were aged 2 to 11 years and 43% were aged 12 to 17 years. The median age was 10.0 years (range 2 to 17 years); 66% were Caucasian and 54% were female. Half of participants (50%) had their tumour in head and neck, most participants had a progressing PN at study entry (63%) and 36% had prior surgery. The majority of patients (96%) had significant morbidities. The most commonly reported morbidities were pain (70%), disfigurement or major deformity (50%) and motor dysfunction (27%).
 
-The primary efficacy endpoint measure was confirmed objective response rate (ORR), defined as the percentage of patients with complete response (disappearance of the target PN) or confirmed partial response (≥ 20% reduction in PN volume confirmed at consecutive tumour assessments approximately every four cycles within 2 -6 months during the 24 -cycle treatment phase). Tumour response status was assessed by blinded independent central review (BICR) approximately every four cycles using volumetric magnetic resonance imaging (MRI) analysis. Objective response rate was evaluated per Response Evaluation in Neurofibromatosis and Schwannomatosis (REiNS) criteria with two consecutive assessments of partial response or complete response by a BICR within 2-6 months during the 24 -cycle treatment phase.
+The primary efficacy endpoint measure was confirmed objective response rate (ORR), defined as the percentage of patients with complete response (disappearance of the target PN) or confirmed partial response (≥ 20% reduction in PN volume confirmed at consecutive tumour assessments approximately every four cycles within 2-6 months during the 24-cycle treatment phase). Tumour response status was assessed by blinded independent central review (BICR) approximately every four cycles using volumetric magnetic resonance imaging (MRI) analysis. Objective response rate was evaluated per Response Evaluation in Neurofibromatosis and Schwannomatosis (REiNS) criteria with two consecutive assessments of partial response or complete response by a BICR within 2-6 months during the 24-cycle treatment phase.
 
 A secondary efficacy objective was to determine the duration of response for patients who achieved a confirmed objective response.
 
-<div style=\"page-break-after: always\"></div>
-
 Efficacy results are provided in Table 5. The median time to onset of response was 7.8 months (range: 4.0 months to 19.0 months) for the adult cohort and 7.9 months (range: 4.1 months to 18.8 months) for the paediatric cohort. The median duration of response was not reached for either cohort.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 5. Efficacy results in ReNeu
 
@@ -956,13 +960,13 @@ Table 5. Efficacy results in ReNeu
 
 Abbreviations: CI= confidence interval; BICR = blinded independent central review; REiNS = Response Evaluation in Neurofibromatosis and Schwannomatosis; DoR = duration of response
 
-a Confirmed objective response was defined as two consecutive assessments of partial response or complete response assessed by a BICR within 2 -6 months during the 24 -cycle treatment phase.
+a  Confirmed objective response was defined as two consecutive assessments of partial response or complete response assessed by a BICR within 2-6 months during the 24-cycle treatment phase.
 
-b  Patients who had no post -baseline MRI assessment or no confirmed objective response were treated as non -responders.
+b  Patients who had no post-baseline MRI assessment or no confirmed objective response were treated as non-responders.
 
-c  Obtained using the Clopper -Pearson approach.
+c  Obtained using the Clopper-Pearson approach.
 
-d Duration of response (data cut -off, June 2024) was assessed using the Kaplan -Meier approach.
+d  Duration of response (data cut-off, June 2024) was assessed using the Kaplan-Meier approach.
 
 ## Paediatric population
 
@@ -970,29 +974,29 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## Conditional approval
 
-This medicinal product has been authorised under a so -called 'conditional approval' scheme. This means that further evidence on this medicinal product is awaited. The European Medicines Agency (EMEA) will review new information on this medicinal product at least every year and this SmPC will be updated as necessary.
+This medicinal product has been authorised under a so-called 'conditional approval' scheme. This means that further evidence on this medicinal product is awaited. The European Medicines Agency (EMEA) will review new information on this medicinal product at least every year and this SmPC will be updated as necessary.
 
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of mirdametinib was studied in healthy subjects, NF1 -PN patients and advanced cancer patients.
+The pharmacokinetics of mirdametinib was studied in healthy subjects, NF1-PN patients and advanced cancer patients.
 
 ## Absorption
 
-Following multiple oral doses at 2 mg/m 2 twice daily, the geomean [geometric % coefficient of variation (CV)] Cmax and AUClast in adult participants with NF1 -PN were 188 (52%) ng/mL and 431 (43%) ng × h/mL, respectively. Following oral dosing, mirdametinib produced peak steady state plasma concentrations (Tmax) approximately one hour post -dose.
-
-<div style=\"page-break-after: always\"></div>
+Following multiple oral doses at 2 mg/m 2 twice daily, the geomean [geometric % coefficient of variation (CV)] Cmax and AUClast in adult participants with NF1-PN were 188 (52%) ng/mL and 431 (43%) ng × h/mL, respectively. Following oral dosing, mirdametinib produced peak steady state plasma concentrations (Tmax) approximately one hour post-dose.
 
 ## Effect of food
 
-In healthy adult subjects at a single dose of 20 mg, co -administration of mirdametinib with a high -fat, high -calorie meal resulted in 43% lower Cmax, while the area under the concentration -time curve (AUC) was not significantly changed (AUCinf decreased by 7%). The time to reach maximum concentration (Tmax) was delayed by approximately 3 hours. The effect on Cmax is not considered clinically relevant due to the absence of effect on overall exposure.
+In healthy adult subjects at a single dose of 20 mg, co-administration of mirdametinib with a high-fat, high-calorie meal resulted in 43% lower Cmax, while the area under the concentration-time curve (AUC) was not significantly changed (AUCinf decreased by 7%). The time to reach maximum concentration (Tmax) was delayed by approximately 3 hours. The effect on Cmax is not considered clinically relevant due to the absence of effect on overall exposure.
 
 ## Distribution
 
 Following a single oral dose of 4 mg [ 14 C]mirdametinib in healthy subjects, the mean apparent volume of distribution of mirdametinib was 255 L. Human plasma protein binding is &gt;99%. Mirdametinib is mainly bound to human serum albumin (&gt;99%). Binding to α1 acid glycoprotein (AAG) ranged from 17.2% to 54.3%. The blood/plasma ratio for mirdametinib is 0.61.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Biotransformation
 
-Mirdametinib is highly metabolised via glucuronidation, hydrolysis, and oxidation via uridine diphosphate glucuronosyltransferase (UGT) and carboxyl esterase (CES) enzymes, resulting in M22 (a secondary O -glucuronide metabolite) and M15 (a carboxylic acid metabolite), respectively. Less than 10% is excreted unchanged.
+Mirdametinib is highly metabolised via glucuronidation, hydrolysis, and oxidation via uridine diphosphate glucuronosyltransferase (UGT) and carboxyl esterase (CES) enzymes, resulting in M22 (a secondary O-glucuronide metabolite) and M15 (a carboxylic acid metabolite), respectively. Less than 10% is excreted unchanged.
 
 ## Interactions
 
@@ -1006,23 +1010,23 @@ In vitro , mirdametinib is not an inhibitor of the isoforms UGT1A1, UGT1A3, UGT1
 
 ## Effect of mirdametinib on drug transporters
 
-In vitro, mirdametinib and M15 do not inhibit the breast cancer resistance protein (BCRP), P -glycoprotein (P -gp), OATP1B1, OATP1B3, OCT2, OAT1, OAT3, MATE1 or MATE2K transporters.
+In vitro, mirdametinib and M15 do not inhibit the breast cancer resistance protein (BCRP), P-glycoprotein (P-gp), OATP1B1, OATP1B3, OCT2, OAT1, OAT3, MATE1 or MATE2K transporters.
 
 In vitro , M22 does not inhibit P-gp, OATP1B3, OCT1, OCT2, OAT1, OAT3, MATE1 or MATE2K transporters. Based on in vitro studies, M22 inhibits BCRP, OATP1B1, and OATP2B1, however the clinical relevance of these effects cannot be established due to uncertainties regarding M22 maximal plasma concentrations and its protein binding.
 
-Based on in vitro studies, mirdametinib is a substrate for BCRP and P -gp transporters and M15 is a substrate for BCRP, but they are unlikely to be clinically relevant .
+Based on in vitro studies, mirdametinib is a substrate for BCRP and P-gp transporters and M15 is a substrate for BCRP, but they are unlikely to be clinically relevant .
 
 ## Elimination
 
 In healthy adult subjects, following a single dose of 4 mg of radiolabelled mirdametinib, 68% of the dose was recovered in urine (0.7% unchanged) while 27% was recovered in faeces (8.7% unchanged in urine and faeces). The mean terminal half life is 28 hours. The apparent systemic clearance (CL/F) is 6.34 L/h.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Linearity
 
 Mirdametinib exposures, as measured by Cmax and AUCtau, generally increased dose proportionally from 1 mg QD/BID to 30 mg BID. A linear relationship between dose and exposure was verified by population pharmacokinetic analyses over the dose range of 1 mg to 20 mg mirdametinib BID. The mean accumulation ratio ranged from 1.1 to 1.9 across dose levels from 1 to 30 mg.
 
-Steady -state concentrations in patients with NF1 -PN are achieved on average approximately 6 days following repeat administration.
+Steady-state concentrations in patients with NF1-PN are achieved on average approximately 6 days following repeat administration.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Special populations
 
@@ -1044,29 +1048,29 @@ The pharmacokinetic profile in children is similar to that of adults.
 
 ## 5.3 Preclinical safety data
 
-Non -clinical data revealed no special hazard for humans based on conventional studies of safety pharmacology.
+Non-clinical data revealed no special hazard for humans based on conventional studies of safety pharmacology.
 
 ## Genotoxicity/Carcinogenicity
 
 Mirdametinib was not genotoxic in a bacterial reverse mutation (Ames) assay or in an in vitro human lymphocyte chromosomal aberration assay but was equivocal in the in vivo micronucleus study and in vivo chromosomal aberrations study in rats. A genotoxicity risk in human could not be excluded at the clinical exposure range.
 
-Mirdametinib was not carcinogenic in transgenic mice at a dose of 5 mg/kg/day (3 times the human exposure). Since a genotoxicity risk in humans could not be excluded at clinical exposure and the 2 -year rat carcinogenicity study is performed at exposures below the clinical exposure, a carcinogenicity risk could not be excluded.
+Mirdametinib was not carcinogenic in transgenic mice at a dose of 5 mg/kg/day (3 times the human exposure). Since a genotoxicity risk in humans could not be excluded at clinical exposure and the 2-year rat carcinogenicity study is performed at exposures below the clinical exposure, a carcinogenicity risk could not be excluded.
 
-## Repeat -dose toxicity
+## Repeat-dose toxicity
 
-In oral, repeat dose toxicity studies conducted for up to 3 months in rats and dogs, the primary toxicities due to MEK inhibition were in the skin and GI tract at doses below human exposure. In the 3 -month rat study with mirdametinib, at doses approximately equivalent to the human exposure, rats showed dysplasia in femoral epiphyseal growth plate, metaphyseal hypocellularity of the bone marrow of long bones, and metaphyseal thickening of bone trabeculae of long bones. Male rats were more sensitive to these effects. These bone effects were not seen in other species (dogs, monkeys or mice). Reversibility of dysplasia in epiphyseal growth plate was not evaluated. In rats, systemic mineralization and ocular findings (corneal opacities and atrophy or thinning of the corneal epithelium) were observed in repeat dose toxicity studies at doses below human exposure.
+In oral, repeat dose toxicity studies conducted for up to 3 months in rats and dogs, the primary toxicities due to MEK inhibition were in the skin and GI tract at doses below human exposure. In the 3-month rat study with mirdametinib, at doses approximately equivalent to the human exposure, rats showed dysplasia in femoral epiphyseal growth plate, metaphyseal hypocellularity of the bone marrow of long bones, and metaphyseal thickening of bone trabeculae of long bones. Male rats were more sensitive to these effects. These bone effects were not seen in other species (dogs, monkeys or mice). Reversibility of dysplasia in epiphyseal growth plate was not evaluated. In rats, systemic mineralization and ocular findings (corneal opacities and atrophy or thinning of the corneal epithelium) were observed in repeat dose toxicity studies at doses below human exposure.
+
+Increases in liver enzymes (rats) and hepatocellular necrosis (rats, mice, and dogs) were observed at exposures similar to clinical exposure. In a 2-week study in cynomolgus monkeys, gallbladder toxicity was observed at exposures &gt; 2.5-fold the human exposure.
 
 <div style=\"page-break-after: always\"></div>
 
-Increases in liver enzymes (rats) and hepatocellular necrosis (rats, mice, and dogs) were observed at exposures similar to clinical exposure. In a 2 -week study in cynomolgus monkeys, gallbladder toxicity was observed at exposures &gt; 2.5 -fold the human exposure.
-
-CNS effects were observed in dogs in the 3 -month study at exposures approximately 1.5 times the human exposure; these effects in dogs, including impaired balance and tremors, were reversible and there was no microscopic correlate.
+CNS effects were observed in dogs in the 3-month study at exposures approximately 1.5 times the human exposure; these effects in dogs, including impaired balance and tremors, were reversible and there was no microscopic correlate.
 
 ## Reproductive and developmental toxicity
 
-In a male and female rat fertility study, mirdametinib at a dose up to 1.0 mg/kg/day (approximately equivalent to the human exposure at the recommended dose based on AUC) did not affect mating performance or fertility in both sexes. In a 3 -month repeat -dose toxicology study in rats, mirdametinib caused decreased ovarian organ weight and increased follicular cysts associated with decreases in the number of corpora lutea at doses ≥ 0.3 mg/kg/day (0.5 times the human exposure) as well as testicular hypocellularity and decreased weight of epididymides at 1 mg/kg/day (2.1 times the human exposure).
+In a male and female rat fertility study, mirdametinib at a dose up to 1.0 mg/kg/day (approximately equivalent to the human exposure at the recommended dose based on AUC) did not affect mating performance or fertility in both sexes. In a 3-month repeat-dose toxicology study in rats, mirdametinib caused decreased ovarian organ weight and increased follicular cysts associated with decreases in the number of corpora lutea at doses ≥ 0.3 mg/kg/day (0.5 times the human exposure) as well as testicular hypocellularity and decreased weight of epididymides at 1 mg/kg/day (2.1 times the human exposure).
 
-In preliminary embryo -foetal developmental toxicity studies in pregnant rats and rabbits, oral dosing of mirdametinib induced postimplantation loss (early and late resorptions) and decreased foetal body weights at exposures below the human exposures at the recommended dose. In the preliminary rat study, a single foetus had extremity malformations at doses 3.6 -fold higher than the recommended human dose. Definitive embryo -foetal development and pre -and post -natal development studies were not conducted with mirdametinib.
+In preliminary embryo-foetal developmental toxicity studies in pregnant rats and rabbits, oral dosing of mirdametinib induced postimplantation loss (early and late resorptions) and decreased foetal body weights at exposures below the human exposures at the recommended dose. In the preliminary rat study, a single foetus had extremity malformations at doses 3.6-fold higher than the recommended human dose. Definitive embryo-foetal development and pre- and post-natal development studies were not conducted with mirdametinib.
 
 ## Phototoxicity
 
@@ -1082,25 +1086,21 @@ Grape flavour Dried glucose liquid Natural flavour Modified corn starch (E1422) 
 
 ## 6.2 Incompatibilities
 
-<div style=\"page-break-after: always\"></div>
-
 Not applicable.
 
 ## 6.3 Shelf life
 
-## 3 years
-
-Six hours after dispersing tablet(s) in water.
+3 years Six hours after dispersing tablet(s) in water.
 
 ## 6.4 Special precautions for storage
 
-Store below 30°C.
+Store below 30°C. Store in the original package to protect from light.
 
-Store in the original package to protect from light.
+<div style=\"page-break-after: always\"></div>
 
 ## 6.5 Nature and contents of container
 
-High -density polyethylene (HDPE) bottle, secured with child -resistant closure and aluminium foil induction seal. The bottles contain cotton coil.
+High-density polyethylene (HDPE) bottle, secured with child-resistant closure and aluminium foil induction seal. The bottles contain cotton coil.
 
 One carton contains one bottle of 42 or 84 dispersible tablets.
 
@@ -1118,15 +1118,13 @@ After the suspension from the dosing cup or oral syringe is swallowed, the dosin
 
 ## Administration of oral suspension via enteral feeding tube
 
-In case of administration using an enteral feeding tube, an appropriate commercially available gastric or nasogastric tube (8 French tube or larger) should be selected by the healthcare professional. Enteral feeding tubes made of polyvinylchloride (PVC) and polyurethane (PUR) have been shown to be compatible with the oral suspension. The oral suspension should be drawn into the syringe after dispersing in 5 -10 mL of water as described above and injected into an enteral feeding tube with the syringe positioned horizontally. Following administration of the oral suspension, draw another 5 -10 mL of water into the syringe and push that through the feeding tube to ensure any residual medication is administered to the patient.
+In case of administration using an enteral feeding tube, an appropriate commercially available gastric or nasogastric tube (8 French tube or larger) should be selected by the healthcare professional. Enteral feeding tubes made of polyvinylchloride (PVC) and polyurethane (PUR) have been shown to be compatible with the oral suspension. The oral suspension should be drawn into the syringe after dispersing in 5-10 mL of water as described above and injected into an enteral feeding tube with the syringe positioned horizontally. Following administration of the oral suspension, draw another 5-10 mL of water into the syringe and push that through the feeding tube to ensure any residual medication is administered to the patient.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
-
-<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1135,6 +1133,8 @@ EU/1/25/1950/001 EU/1/25/1950/002
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 17 July 2025
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1148,7 +1148,7 @@ Detailed information on this medicinal product is available on the website of th
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
-- E. SPECIFIC OBLIGATION TO COMPLETE POST -AUTHORISATION MEASURES FOR THE CONDITIONAL MARKETING AUTHORISATION
+- E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE CONDITIONAL MARKETING AUTHORISATION
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1157,6 +1157,10 @@ Detailed information on this medicinal product is available on the website of th
 Name and address of the manufacturer responsible for batch release
 
 Mias Pharma Limited Suite 1 First Floor, Stafford House Strand Road, Portmarnock, D13 WC83 Ireland
+
+Merck Healthcare KGaA Frankfurter Strasse 250 64293 Darmstadt Germany
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1168,7 +1172,7 @@ Medicinal product subject to restricted medical prescription (see Annex 1: Summa
 
 The requirements for submission of PSURs for this medicinal product are set out in Article 9 of Regulation (EC) No 507/2006 and, accordingly, the marketing authorisation holder (MAH) shall submit PSURs every 6 months.
 
-The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web -portal.
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorization.
 
@@ -1185,14 +1189,14 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-## E. SPECIFIC OBLIGATION TO COMPLETE POST -AUTHORISATION MEASURES FOR THE CONDITIONAL MARKETING AUTHORISATION
+## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE CONDITIONAL MARKETING AUTHORISATION
 
-This being a conditional marketing authorisation and pursuant to Article 14 -a of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measures:
+This being a conditional marketing authorisation and pursuant to Article 14-a of Regulation (EC) No 726/2004, the MAH shall complete, within the stated timeframe, the following measures:
 
-| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Due date    |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| In order to confirm the efficacy and safety of mirdametinib in the treatment of symptomatic, inoperable plexiform neurofibromas (PN) in paediatric and adult patients with neurofibromatosis type 1 (NF1) aged 2 years and above, the MAHshould submit an updated analysis of the study MEK - NF - 201 with a data cut - off of 22 December 2028 that will provide an additional 5 years of follow - up.                                                                                                      | June 2029   |
-| Non - interventional post - authorisation safety study (PASS): In order to confirm the long - term safety of mirdametinib, in the treatment of symptomatic, inoperable plexiform neurofibromas (PN) in paediatric and adult patients with neurofibromatosis type 1 (NF1) aged 2 years and above, the MAHshould conduct and submit the results of a study conducted in patients with NF1 who have been prescribed at least one dose of mirdametinib and who are aged 2 and above at the start of mirdametinib. | August 2033 |
+| Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Due date    |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| In order to confirm the efficacy and safety of mirdametinib in the treatment of symptomatic, inoperable plexiform neurofibromas (PN) in paediatric and adult patients with neurofibromatosis type 1 (NF1) aged 2 years and above, the MAH should submit an updated analysis of the study MEK-NF-201 with a data cut-off of 22 December 2028 that will provide an additional 5 years of follow-up.                                                                                                        | June 2029   |
+| Non-interventional post-authorisation safety study (PASS): In order to confirm the long-term safety of mirdametinib, in the treatment of symptomatic, inoperable plexiform neurofibromas (PN) in paediatric and adult patients with neurofibromatosis type 1 (NF1) aged 2 years and above, the MAH should conduct and submit the results of a study conducted in patients with NF1 who have been prescribed at least one dose of mirdametinib and who are aged 2 and above at the start of mirdametinib. | August 2033 |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1270,7 +1274,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Ezmekly 1 mg capsule
 
@@ -1280,29 +1284,25 @@ Ezmekly 1 mg capsule
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
-
-<div style=\"page-break-after: always\"></div>
+PC SN
 
 NN
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
-CAPSULES 1MG BOTTLE LABEL
+## CAPSULES 1MG BOTTLE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ezmekly 1 mg capsules
-
-mirdametinib
+Ezmekly 1 mg capsules mirdametinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE
 
 Each capsule contains 1 mg mirdametinib.
 
-## 3. LIST OF EXCIPIENTS
+## 3. LIST OF EXCIPI EN TS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1338,14 +1338,16 @@ Store in the original package to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Merck Europe B.V.
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/25/1950/003
 
@@ -1357,16 +1359,19 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
+
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1432,7 +1437,7 @@ EU/1/25/1950/004 42 hard capsules EU/1/25/1950/005 84 hard capsules
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1500,7 +1505,7 @@ Store in the original package to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1520,7 +1525,7 @@ Lot
 
 16. INFORMATION IN BRAILLE
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1536,9 +1541,7 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ezmekly 1 mg dispersible tablets
-
-mirdametinib
+Ezmekly 1 mg dispersible tablets mirdametinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1578,13 +1581,13 @@ Store below 30°C.
 
 Store in the original package to protect from light.
 
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam
-
-The Netherlands
+Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1602,15 +1605,13 @@ Lot
 
 Ezmekly 1 mg dispersible tablets
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1664,7 +1665,8 @@ Store in the original package to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1686,7 +1688,8 @@ Lot
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1722,7 +1725,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## 1. What Ezmekly is and what it is used for
 
-Ezmekly contains the active substance mirdametinib, and is a mitogen -activated protein kinase (MEK) inhibitor.
+Ezmekly contains the active substance mirdametinib, and is a mitogen-activated protein kinase (MEK) inhibitor.
 
 Ezmekly is used to treat plexiform neurofibromas in adults, adolescents, and children 2 years of age and older with a genetic condition called neurofibromatosis type 1 (NF1).
 
@@ -1736,11 +1739,11 @@ If you have any questions about how Ezmekly works or why this medicine has been 
 
 - If you (or your child) are allergic to mirdametinib or any of the other ingredients of this medicine (listed in section 6).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before taking Ezmekly, or if the following happen to you (or your child) while taking Ezmekly. Your doctor may decide to lower your dose, stop treatment temporarily or permanently:
+
+<div style=\"page-break-after: always\"></div>
 
 ## · Eye problems
 
@@ -1748,15 +1751,15 @@ Ezmekly can cause eye problems that can lead to blindness (see section 4 'Possib
 
 ## · Heart problems
 
-Ezmekly can lower the amount of blood pumped by your heart (see section 4 'Possible side -effects'). In clinical studies of Ezmekly at the recommended dose, this did not cause any symptoms, however it can make you feel tired. Tell your doctor if you feel tired. Your doctor will check how well your heart works before and during your treatment with Ezmekly.
+Ezmekly can lower the amount of blood pumped by your heart (see section 4 'Possible side-effects'). In clinical studies of Ezmekly at the recommended dose, this did not cause any symptoms, however it can make you feel tired. Tell your doctor if you feel tired. Your doctor will check how well your heart works before and during your treatment with Ezmekly.
 
 ## · Skin rash
 
-Skin rashes are very common with Ezmekly and can also become severe. Tell your doctor if you get a skin rash which may be bumpy or acne -like (see section 4 'Possible side effects'). Your doctor may provide guidance for managing your skin rash, including treatment (e.g., cream).
+Skin rashes are very common with Ezmekly and can also become severe. Tell your doctor if you get a skin rash which may be bumpy or acne-like (see section 4 'Possible side effects'). Your doctor may provide guidance for managing your skin rash, including treatment (e.g., cream).
 
 ## · Pregnancy
 
-Ezmekly is not recommended during pregnancy. Tell your doctor straight away if you or your partner becomes pregnant while taking this medicine. See 'Pregnancy, breast -feeding and fertility' section below.
+Ezmekly is not recommended during pregnancy. Tell your doctor straight away if you or your partner becomes pregnant while taking this medicine. See 'Pregnancy, breast-feeding and fertility' section below.
 
 ## Children younger than 2 years of age
 
@@ -1766,13 +1769,13 @@ Do not give Ezmekly to children younger than 2 years old. It has not been studie
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines, including herbal medicines while receiving Ezmekly.
 
-## Pregnancy, breast -feeding and fertility
+## Pregnancy, breast-feeding and fertility
 
 Ezmekly is not recommended during pregnancy. It may cause harm to your unborn baby.
 
 If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine. Your doctor may ask you to take a pregnancy test before starting treatment.
 
-You or your partner should not become pregnant while taking this medicine. If you are able to become pregnant, you must use effective contraception (birth control). See 'Contraception -information for women and men' below.
+You or your partner should not become pregnant while taking this medicine. If you are able to become pregnant, you must use effective contraception (birth control). See 'Contraception - information for women and men' below.
 
 If you or your partner become pregnant during treatment, tell your doctor straight away.
 
@@ -1780,23 +1783,23 @@ If you or your partner become pregnant during treatment, tell your doctor straig
 
 If you are a woman who could become pregnant, you should use effective contraception while you are taking this medicine and for 6 months after the last dose. If you are a man whose partner could become pregnant, you should use effective contraception while you are taking this medicine and for 3 months after the last dose. It is not known if Ezmekly reduces how well hormonal contraceptives work. Please tell your doctor if you or your partner are taking a hormonal contraceptive, as your doctor may recommend using a second form of birth control (e.g. condoms).
 
-<div style=\"page-break-after: always\"></div>
+## Breast-feeding
 
-## Breast -feeding
-
-It is not known if Ezmekly passes into breast milk. A risk to the breast -fed child cannot be excluded. Do not breast -feed if you are taking Ezmekly and for one week after the last dose of Ezmekly.
+It is not known if Ezmekly passes into breast milk. A risk to the breast-fed child cannot be excluded. Do not breast-feed if you are taking Ezmekly and for one week after the last dose of Ezmekly.
 
 ## Fertility (ability to have children)
 
 Ezmekly may reduce fertility in men and women. You should discuss this with your doctor before starting treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Driving and using machines
 
-Ezmekly can cause side effects, including fatigue (feeling tired or weak) and blurred vision (see section 4 'Possible side -effects'), that may affect your ability to drive or use machines. Do not drive or use machines if you feel tired or if you have problems with your vision (such as blurred vision).
+Ezmekly can cause side effects, including fatigue (feeling tired or weak) and blurred vision (see section 4 'Possible side-effects'), that may affect your ability to drive or use machines. Do not drive or use machines if you feel tired or if you have problems with your vision (such as blurred vision).
 
 ## Ezmekly contains sodium
 
-Each capsule contains less than 23 mg sodium (main component of cooking/table salt), that is to say it is essentially 'sodium -free'.
+Each capsule contains less than 23 mg sodium (main component of cooking/table salt), that is to say it is essentially 'sodium-free'.
 
 ## 3. How to take Ezmekly
 
@@ -1808,7 +1811,7 @@ Your doctor will work out the correct dose for you (or your child) based on your
 
 ## How to take
 
-- Take Ezmekly by mouth twice a day, about 12 hours apart. You should take this medicine every day for 21 days, and then stop taking it for 7 days. Each 28 -day period is called a treatment cycle.
+- Take Ezmekly by mouth twice a day, about 12 hours apart. You should take this medicine every day for 21 days, and then stop taking it for 7 days. Each 28-day period is called a treatment cycle.
 - Take Ezmekly with or without food.
 - Swallow the capsules whole with water.
 - Do not chew, break or open the capsules
@@ -1833,11 +1836,11 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Do not stop taking Ezmekly unless your doctor tells you as it may worsen your condition.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Contact your doctor if you experience any side effects. Your doctor may pause treatment with Ezmekly until your symptoms improve and/or they may reduce the dose you receive (see Section 3 'How to take').
+
+<div style=\"page-break-after: always\"></div>
 
 ## Serious side effects
 
@@ -1858,7 +1861,7 @@ Talk to your doctor if you get any of the following side effects.
 
 Very common (may affect more than 1 in 10 people):
 
-- skin rash with a flat discoloured area or raised acne -like bumps (dermatitis acneiform)
+- skin rash with a flat discoloured area or raised acne-like bumps (dermatitis acneiform)
 - diarrhoea
 - increased blood levels of creatine phosphokinase, an enzyme found mainly in heart, brain and skeletal muscle
 - feeling sick (nausea)
@@ -1884,9 +1887,6 @@ Common (may affect up to 1 in 10 people):
 - infection around the nails (paronychia)
 - dry or itchy skin rash (eczema)
 - changes in hair color
-
-<div style=\"page-break-after: always\"></div>
-
 - changes in hair texture
 
 ## Paediatrics
@@ -1895,7 +1895,10 @@ Very common (may affect more than 1 in 10 people):
 
 - increased blood levels of creatine phosphokinase, an enzyme found mainly in heart, brain, and skeletal muscle
 - diarrhoea
-- skin rash with a flat discoloured area or raised acne -like bumps (dermatitis acneiform)
+
+<div style=\"page-break-after: always\"></div>
+
+- skin rash with a flat discoloured area or raised acne-like bumps (dermatitis acneiform)
 - pain in muscles or bone
 - stomach (abdominal) pain
 - feeling sick (nausea)
@@ -1946,9 +1949,7 @@ Ezmekly 1 mg hard capsules Each hard capsule contains 1 mg of mirdametinib.
 
 Ezmekly 2 mg hard capsules Each hard capsule contains 2 mg mirdametinib.
 
-The other ingredients are:
-
-Capsule content Microcrystalline cellulose (E460) Croscarmellose sodium (E468) (see section 2 'Ezmekly contains sodium') Magnesium stearate (E572)
+The other ingredients are: Capsule content Microcrystalline cellulose (E460) Croscarmellose sodium (E468) (see section 2 'Ezmekly contains sodium') Magnesium stearate (E572)
 
 Capsule shell Gelatin (E441) Titanium dioxide (E171) Yellow iron oxide (E172) Brilliant blue (E133)
 
@@ -1962,9 +1963,9 @@ Capsule comprised of a light green opaque body and cap with 'MIR 1 mg' printed i
 
 Ezmekly 2 mg hard capsules (capsules)
 
-Capsule comprised of a white opaque body and a blue -green opaque cap with 'MIR 2 mg' printed in white ink on the cap.
+Capsule comprised of a white opaque body and a blue-green opaque cap with 'MIR 2 mg' printed in white ink on the cap.
 
-Ezmekly is packaged in plastic bottles, secured with child -resistant closures and aluminium foil induction seals.
+Ezmekly is packaged in plastic bottles, secured with child-resistant closures and aluminium foil induction seals.
 
 Ezmekly 1 mg hard capsules are provided in a carton box containing one bottle of 42 capsules. Ezmekly 2 mg hard capsules are provided in a carton box containing one bottle of 42 or 84 capsules.
 
@@ -1980,7 +1981,9 @@ Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
 
 Mias Pharma Limited Suite 1 First Floor, Stafford House Strand Road, Portmarnock, D13 WC83 Ireland
 
-## This leaftlet was last revised in
+Merck Healthcare KGaA Frankfurter Strasse 250 64293 Darmstadt Germany
+
+## This leaflet was last revised in
 
 This medicine has been given 'conditional approval'. This means that there is more evidence to come about this medicine. The European Medicines Agency will review new information on this medicine at least every year and this leaflet will be updated as necessary.
 
@@ -1988,11 +1991,7 @@ This medicine has been given 'conditional approval'. This means that there is mo
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
-&lt;
-
-------------------------------------------------------------------------------------------------------------------------
-
-&gt;
+&lt;------------------------------------------------------------------------------------------------------------------------&gt;
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2006,7 +2005,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
-## Read all of this leaflet carefully before you  (or your child) start taking this medicine because it contains important information for you.
+## Read all of this leaflet carefully before you (or your child) start taking this medicine because it contains important information for you.
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your doctor, pharmacist or nurse.
@@ -2024,7 +2023,7 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## 1. What Ezmekly is and what it is used for
 
-Ezmekly contains the active substance mirdametinib, and is a mitogen -activated protein kinase (MEK) inhibitor.
+Ezmekly contains the active substance mirdametinib, and is a mitogen-activated protein kinase (MEK) inhibitor.
 
 Ezmekly is used to treat plexiform neurofibromas in adults, adolescents, and children 2 years of age and older with a genetic condition called neurofibromatosis type 1 (NF1).
 
@@ -2050,15 +2049,15 @@ Ezmekly can cause eye problems that can lead to blindness (see section 4 'Possib
 
 ## Heart problems
 
-Ezmekly can lower the amount of blood pumped by your heart (see section 4 'Possible side -effects'). In clinical studies of Ezmekly at the recommended dose, this did not cause any symptoms, however it can make you feel tired. Tell your doctor if you feel tired. Your doctor will check how well your heart works before and during your treatment with Ezmekly.
+Ezmekly can lower the amount of blood pumped by your heart (see section 4 'Possible side-effects'). In clinical studies of Ezmekly at the recommended dose, this did not cause any symptoms, however it can make you feel tired. Tell your doctor if you feel tired. Your doctor will check how well your heart works before and during your treatment with Ezmekly.
 
 ## Skin rash
 
-Skin rashes are very common with Ezmekly and can also become severe. Tell your doctor if you get a skin rash which may be bumpy or acne -like (see section 4 'Possible side effects'). Your doctor may provide guidance for managing your skin rash, including treatment (e.g. cream).
+Skin rashes are very common with Ezmekly and can also become severe. Tell your doctor if you get a skin rash which may be bumpy or acne-like (see section 4 'Possible side effects'). Your doctor may provide guidance for managing your skin rash, including treatment (e.g. cream).
 
 ## Pregnancy
 
-Ezmekly is not recommended during pregnancy. Tell your doctor straight away if you or your partner becomes pregnant while taking this medicine. See 'Pregnancy, breast -feeding and fertility' section below.
+Ezmekly is not recommended during pregnancy. Tell your doctor straight away if you or your partner becomes pregnant while taking this medicine. See 'Pregnancy, breast-feeding and fertility' section below.
 
 ## Children younger than 2 years of age
 
@@ -2068,13 +2067,13 @@ Do not give Ezmekly to children younger than 2 years old. It has not been studie
 
 Tell your doctor or pharmacist if you (or your child) are taking, have recently taken or might take any other medicines, including herbal medicines while receiving Ezmekly.
 
-## Pregnancy, breast -feeding and fertility
+## Pregnancy, breast-feeding and fertility
 
 Ezmekly is not recommended during pregnancy. It may cause harm to your unborn baby.
 
 If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine. Your doctor may ask you to take a pregnancy test before starting treatment.
 
-You or your partner should not become pregnant while taking this medicine. If you are able to become pregnant, you must use effective contraception (birth control). See 'Contraception -information for women and men' below.
+You or your partner should not become pregnant while taking this medicine. If you are able to become pregnant, you must use effective contraception (birth control). See 'Contraception - information for women and men' below.
 
 If you or your partner become pregnant during treatment, tell your doctor straight away.
 
@@ -2082,9 +2081,9 @@ If you or your partner become pregnant during treatment, tell your doctor straig
 
 If you are a woman who could become pregnant, you should use effective contraception while you are taking this medicine and for 6 months after the last dose. If you are a man whose partner could become pregnant, you should use effective contraception while you are taking this medicine and for 3 months after the last dose. It is not known if Ezmekly reduces how well hormonal contraceptives work. Please tell your doctor if you or your partner are taking a hormonal contraceptive, as your doctor may recommend using a second form of birth control (e.g. condoms).
 
-## Breast -feeding
+## Breast-feeding
 
-It is not known if Ezmekly passes into breast milk. A risk to the breast -fed child cannot be excluded. Do not breast -feed if you are taking Ezmekly and for one week after the last dose of Ezmekly.
+It is not known if Ezmekly passes into breast milk. A risk to the breast-fed child cannot be excluded. Do not breast-feed if you are taking Ezmekly and for one week after the last dose of Ezmekly.
 
 ## Fertility (ability to have children)
 
@@ -2094,11 +2093,11 @@ Ezmekly may reduce fertility in men and women. You should discuss this with your
 
 ## Driving and using machines
 
-Ezmekly can cause side effects, including fatigue (feeling tired or weak) and blurred vision (see section 4 'Possible side -effects'),  that may affect your ability to drive or use machines. Do not drive or use machines if you feel tired or if you have problems with your vision (such as blurred vision).
+Ezmekly can cause side effects, including fatigue (feeling tired or weak) and blurred vision (see section 4 'Possible side-effects'), that may affect your ability to drive or use machines. Do not drive or use machines if you feel tired or if you have problems with your vision (such as blurred vision).
 
 ## Ezmekly contains sodium
 
-Each dispersible tablet contains less than 23 mg sodium (main component of cooking/table salt), that is to say it is essentially 'sodium -free'.
+Each dispersible tablet contains less than 23 mg sodium (main component of cooking/table salt), that is to say it is essentially 'sodium-free'.
 
 ## 3. How to take Ezmekly
 
@@ -2110,7 +2109,7 @@ Your doctor will work out the correct dose for you (or your child) based on your
 
 ## How to take
 
-- Take Ezmekly by mouth twice a day, about 12 hours apart. You should take this medicine every day for 21 days, and then stop taking it for 7 days. Each 28 -day period is called a treatment cycle.
+- Take Ezmekly by mouth twice a day, about 12 hours apart. You should take this medicine every day for 21 days, and then stop taking it for 7 days. Each 28-day period is called a treatment cycle.
 - Take Ezmekly with or without food.
 - You can continue taking this medicine in treatment cycles until your disease gets worse or side effects become unacceptable. If you get side effects, your doctor may decide to lower your dose, stop treatment temporarily or permanently (see section 2 'Warnings and precautions').
 
@@ -2122,27 +2121,28 @@ The dispersible tablets can be either:
 
 - 2) Dispersed in drinking water. Follow these instructions for dispersing the tablet:
 - a) A dosing cup (and a 10 mL syringe if necessary), provided by your doctor or pharmacist can be used to prepare and administer the medicine.
-- b) Disperse the prescribed number of dispersible tablets in a small amount (about 5 -10 mL) of drinking water in the dosing cup.
+- b) Disperse the prescribed number of dispersible tablets in a small amount (about 5-10 mL) of drinking water in the dosing cup.
 - c) Swirl gently so that no lumps remain. Take care not to spill any medicine. The medicine will be white and cloudy.
 - d) Administer the prepared medicine by mouth. Alternatively, the medicine can be drawn up from the dosing cup into a syringe and administered.
 - e) After swallowing the suspension, there may be some medicine (residue) still inside the dosing cup or syringe that is difficult to see.
-- f) Rinse the container with an additional small amount (about 5 -10 mL) of drinking water and administer.
+- f) Rinse the container with an additional small amount (about 5-10 mL) of drinking water and administer.
 - g) Only water should be used to disperse the dispersible tablet.
 
 ## OR
 
-- 3) Administered via feeding tube
+## 3) Administered via feeding tube
+
 - a) Always talk to your doctor or pharmacist before administering Ezmkely suspension via a feeding tube. Your doctor, nurse or pharmacist should show you how to administer Ezmekly suspension via a feeding tube.
 - b) Ezmekly suspension can be administered via a nasogastric (NG) or gastric (G) feeding tube of size French 8 or greater.
 - c) Only use feeding tubes made of polyvinylchloride (PVC) or polyurethane (PUR).
 - d) You may need an ENFIT adapter to connect the syringe to the feeding tube.
+- e) Follow steps above to disperse the tablet appropriately.
 
 <div style=\"page-break-after: always\"></div>
 
-- e) Follow steps above to disperse the tablet appropriately.
-- f) After dispersing the tablet in 5 -10 mL of water, the oral suspension should be drawn up from the dosing cup into a syringe.
+- f) After dispersing the tablet in 5-10 mL of water, the oral suspension should be drawn up from the dosing cup into a syringe.
 - g) Slowly push the suspension into the feeding tube while holding the syringe in a horizontal position.
-- h) Use another 5 -10 mL water to rinse the cup and draw the rinsate into the syringe and slowly push that through the feeding tube.
+- h) Use another 5-10 mL water to rinse the cup and draw the rinsate into the syringe and slowly push that through the feeding tube.
 - i) Flush the feeding tube according to the manufacturer's instructions immediately before and after administering Ezmekly suspension.
 
 ## If you (or your child) are sick after taking Ezmekly
@@ -2186,15 +2186,15 @@ Talk to your doctor if you get any of the following side effects.
 
 Very common (may affect more than 1 in 10 people):
 
-- skin rash with a flat discoloured area or raised acne -like bumps (dermatitis acneiform)
+- skin rash with a flat discoloured area or raised acne-like bumps (dermatitis acneiform)
 - diarrhoea
 - increased blood levels of creatine phosphokinase, an enzyme found mainly in heart, brain, and skeletal muscle
-
-<div style=\"page-break-after: always\"></div>
-
 - feeling sick (nausea)
 - being sick (vomiting)
 - pain in the muscles or bone
+
+<div style=\"page-break-after: always\"></div>
+
 - feeling tired, weak or lacking energy (fatigue)
 - stomach (abdominal) pain
 - constipation
@@ -2214,16 +2214,16 @@ Very common (may affect more than 1 in 10 people):
 - dry mouth
 - infection around the nails (paronychia)
 - dry or itchy skin rash (eczema)
-- changes in hair color
+- changes in hair colour
 - changes in hair texture
 
 ## Paediatrics
 
-Very common (may affect more than 1 in 10 people):
+## Very common (may affect more than 1 in 10 people):
 
 - increased blood levels of creatine phosphokinase, an enzyme found mainly in heart, brain, and skeletal muscle
 - diarrhoea
-- skin rash with a flat discoloured area or raised acne -like bumps (dermatitis acneiform)
+- skin rash with a flat discoloured area or raised acne-like bumps (dermatitis acneiform)
 - pain in muscles or bone
 - stomach (abdominal) pain
 - feeling sick (nausea)
@@ -2239,16 +2239,16 @@ Very common (may affect more than 1 in 10 people):
 - hair loss or thinning (alopecia)
 - dry or itchy skin rash (eczema)
 - itching
-- changes in hair color
+- changes in hair colour
 - feeling tired, weak or lacking energy (fatigue)
 - constipation
 
-<div style=\"page-break-after: always\"></div>
-
-Common (may affect up to 1 in 10 people):
+## Common (may affect up to 1 in 10 people):
 
 - changes in hair texture
 - swelling of the hands or feet (oedema peripheral)
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -2262,29 +2262,25 @@ Do not use this medicine after the expiry date which is stated on the packaging.
 
 Store below 30°C. Store in the original package to protect from light. After dispersing the tablet (s) in water, suspension is stable up to 6 hours.
 
-Do not throw away your medicine via wasterwater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+Do not throw away your medicine via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
 ## What Ezmekly contains
 
-The active substance is mirdametinib.
+The active substance is mirdametinib. Each dispersible tablet contains 1 mg mirdametinib.
 
-Each dispersible tablet contains 1 mg mirdametinib.
-
-The other ingredients are:
-
-Microcrystalline cellulose (E460) Croscarmellose sodium (E468) (see section 2 'Ezmekly contains sodium') Sucralose (E955) Magnesium stearate (E572)
+The other ingredients are: Microcrystalline cellulose (E460) Croscarmellose sodium (E468) (see section 2 'Ezmekly contains sodium') Sucralose (E955) Magnesium stearate (E572)
 
 Grape flavour: Dried glucose liquid Natural flavour Modified corn starch (E1422) Triacetin (E1518)
 
 ## What Ezmekly looks like and contents of the pack
 
-Ezmekly 1 mg dispersible tablets Oval, white to off -white dispersible tablets 6 × 9 mm, debossed with 'S' on one side.
+Ezmekly 1 mg dispersible tablets
 
-<div style=\"page-break-after: always\"></div>
+Oval, white to off-white dispersible tablets 6 × 9 mm, debossed with 'S' on one side.
 
-Ezmekly is packaged in plastic bottles, secured with child -resistant closures and aluminium foil induction seals. The bottles include cotton coil.
+Ezmekly is packaged in plastic bottles, secured with child-resistant closures and aluminium foil induction seals. The bottles include cotton coil.
 
 Ezmekly 1 mg dispersible tablets are provided in a carton box containing one bottle of 42 or 84 dispersible tablets.
 
@@ -2294,9 +2290,13 @@ Not all pack sizes may be marketed.
 
 Merck Europe B.V. Gustav Mahlerplein 102 1082 MA Amsterdam The Netherlands
 
+<div style=\"page-break-after: always\"></div>
+
 ## Manufacturer
 
 Mias Pharma Limited Suite 1 First Floor, Stafford House Strand Road, Portmarnock, D13 WC83 Ireland.
+
+Merck Healthcare KGaA Frankfurter Strasse 250 64293 Darmstadt Germany
 
 ## This leaflet was last revised in
 
@@ -2306,8 +2306,4 @@ This medicine has been given 'conditional approval'. This means that there is mo
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
-&lt;
-
-------------------------------------------------------------------------------------------------------------------------
-
-&gt;
+&lt;------------------------------------------------------------------------------------------------------------------------&gt;

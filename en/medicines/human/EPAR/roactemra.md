@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-04-01 17:04:00
+document_datetime: 2026-08-13 09:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/roactemra.html
 document_name: roactemra.html
 version: success
-processing_time: 0.1783453
-conversion_datetime: 2026-04-05 12:21:55.211139
+processing_time: 0.2469952
+conversion_datetime: 2026-08-17 13:27:42.132609
 docling_version:
-  docling-serve: 1.15.1
-  docling-jobkit: 1.14.0
-  docling: 2.82.0
-  docling-core: 2.70.2
-  docling-ibm-models: 3.13.0
-  docling-parse: 5.6.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.120.2
+  docling-core: 2.91.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.13.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 # RoActemra
 
@@ -72,7 +72,7 @@ Expand section
 
 Collapse section
 
-## How is RoActemra used?
+### How is RoActemra used?
 
 RoActemra can only be obtained with a prescription and treatment should be started by a doctor who has experience in the diagnosis and treatment of the relevant condition.
 
@@ -80,11 +80,11 @@ RoActemra is available as a solution to be injected under the skin and as a conc
 
 For more information about using RoActemra, see the package leaflet or contact your doctor or pharmacist.
 
-## How does RoActemra work?
+### How does RoActemra work?
 
 The active substance in RoActemra, tocilizumab, is a monoclonal antibody, a type of protein that has been designed to recognise and attach to a specific target (called an antigen) in the body. Tocilizumab attaches to the receptor for a messenger molecule or 'cytokine' called interleukin?6. This messenger is involved with inflammation and is found at high levels in patients with rheumatoid arthritis, systemic juvenile idiopathic arthritis, juvenile idiopathic polyarthritis, giant cell arteritis, CRS and COVID-19. By preventing interleukin?6 from attaching to its receptors, tocilizumab reduces the inflammation and other symptoms of these diseases.
 
-## What benefits of RoActemra have been shown in studies?
+### What benefits of RoActemra have been shown in studies?
 
 **Rheumatoid arthritis**
 
@@ -116,7 +116,7 @@ RoActemra given by infusion was considered to be effective at treating severe CR
 
 In severe COVID-19, one main study showed that treatment with RoActemra given by infusion in addition to standard treatment reduces the risk of death when compared with standard treatment alone. Overall, 31% of patients treated with RoActemra plus standard treatment (621 out of 2,022) died within 28 days of treatment compared with 35% of patients receiving standard treatment alone (729 out of 2,094). In addition, 57% of patients (1,150 out of 2,022) who received RoActemra were able to leave the hospital within 28 days compared with 50% of patients (1,044 out of 2,094) who received standard treatment alone.
 
-## What are the risks associated with RoActemra?
+### What are the risks associated with RoActemra?
 
 In patients with rheumatoid arthritis, systemic juvenile idiopathic arthritis, juvenile idiopathic polyarthritis, giant cell arteritis or cytokine release syndrome, the most common side effects (which may affect up to 1 patient in 10) with RoActemra are upper respiratory tract infections (nose and throat infection), nasopharyngitis (inflammation of the nose and throat), headache, hypertension (high blood pressure) and abnormal liver function tests. The most serious side effects are serious infections, complications of diverticulitis (a disease affecting the gut) and hypersensitivity (allergic) reactions.
 
@@ -126,11 +126,11 @@ RoActemra must not be used in patients who have an active, severe infection (exc
 
 For the full list of side effects and restrictions, see the package leaflet.
 
-## Why is RoActemra authorised in the EU?
+### Why is RoActemra authorised in the EU?
 
 Studies show RoActemra is effective at reducing symptoms of several inflammatory conditions. When added to standard treatment, it is also effective at reducing the risk of dying from COVID-19 and the amount of time COVID-19 patients stay in hospital. The European Medicines Agency decided that RoActemra's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of RoActemra?
+### What measures are being taken to ensure the safe and effective use of RoActemra?
 
 The company that markets RoActemra must supply all doctors expected to prescribe the medicine for rheumatoid arthritis, systemic juvenile idiopathic arthritis, juvenile idiopathic polyarthritis and giant cell arteritis with an educational pack containing important information on the safety and correct use of RoActemra. The pack will also include a patient alert card with key safety information for patients.
 
@@ -138,7 +138,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of RoActemra are continuously monitored. Side effects reported with RoActemra are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about RoActemra
+### Other information about RoActemra
 
 RoActemra received a marketing authorisation valid throughout the EU on 16 January 2009.
 
@@ -152,7 +152,7 @@ English (EN) (160.53 KB - PDF)
 
 [View](/en/documents/overview/roactemra-epar-medicines-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-55)
+[Other languages (22)](#file-language-dropdown-383)
 
 български (BG) (140.06 KB - PDF)
 
@@ -184,7 +184,7 @@ Deutsch (DE) (113.79 KB - PDF)
 
 [View](/de/documents/overview/roactemra-epar-medicines-overview_de.pdf)
 
-eesti keel (ET) (109.77 KB - PDF)
+eesti (ET) (109.77 KB - PDF)
 
 **First published:** 18/02/2009 **Last updated:** 10/12/2021
 
@@ -214,13 +214,13 @@ italiano (IT) (113.3 KB - PDF)
 
 [View](/it/documents/overview/roactemra-epar-medicines-overview_it.pdf)
 
-latviešu valoda (LV) (137.62 KB - PDF)
+latviešu (LV) (137.62 KB - PDF)
 
 **First published:** 18/02/2009 **Last updated:** 10/12/2021
 
 [View](/lv/documents/overview/roactemra-epar-medicines-overview_lv.pdf)
 
-lietuvių kalba (LT) (133.24 KB - PDF)
+lietuvių (LT) (133.24 KB - PDF)
 
 **First published:** 18/02/2009 **Last updated:** 10/12/2021
 
@@ -274,7 +274,7 @@ slovenščina (SL) (128.43 KB - PDF)
 
 [View](/sl/documents/overview/roactemra-epar-medicines-overview_sl.pdf)
 
-Suomi (FI) (112.72 KB - PDF)
+suomi (FI) (112.72 KB - PDF)
 
 **First published:** 18/02/2009 **Last updated:** 10/12/2021
 
@@ -304,7 +304,7 @@ English (EN) (832.35 KB - PDF)
 
 [View](/en/documents/product-information/roactemra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-475)
+[Other languages (24)](#file-language-dropdown-9)
 
 български (BG) (2.78 MB - PDF)
 
@@ -336,7 +336,7 @@ Deutsch (DE) (2.88 MB - PDF)
 
 [View](/de/documents/product-information/roactemra-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.58 MB - PDF)
+eesti (ET) (2.58 MB - PDF)
 
 **First published:** 08/01/2010 **Last updated:** 01/04/2026
 
@@ -360,25 +360,19 @@ hrvatski (HR) (2.67 MB - PDF)
 
 [View](/hr/documents/product-information/roactemra-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.74 MB - PDF)
-
-**First published:** 08/01/2010 **Last updated:** 01/04/2026
-
-[View](/is/documents/product-information/roactemra-epar-product-information_is.pdf)
-
 italiano (IT) (2.35 MB - PDF)
 
 **First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/it/documents/product-information/roactemra-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (3.04 MB - PDF)
+latviešu (LV) (3.04 MB - PDF)
 
 **First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/lv/documents/product-information/roactemra-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.79 MB - PDF)
+lietuvių (LT) (2.79 MB - PDF)
 
 **First published:** 08/01/2010 **Last updated:** 01/04/2026
 
@@ -401,12 +395,6 @@ Nederlands (NL) (2.49 MB - PDF)
 **First published:** 08/01/2010 **Last updated:** 01/04/2026
 
 [View](/nl/documents/product-information/roactemra-epar-product-information_nl.pdf)
-
-norsk (NO) (2.25 MB - PDF)
-
-**First published:** 08/01/2010 **Last updated:** 01/04/2026
-
-[View](/no/documents/product-information/roactemra-epar-product-information_no.pdf)
 
 polski (PL) (3.22 MB - PDF)
 
@@ -438,7 +426,7 @@ slovenščina (SL) (2.85 MB - PDF)
 
 [View](/sl/documents/product-information/roactemra-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.67 MB - PDF)
+suomi (FI) (2.67 MB - PDF)
 
 **First published:** 08/01/2010 **Last updated:** 01/04/2026
 
@@ -450,6 +438,18 @@ svenska (SV) (2.54 MB - PDF)
 
 [View](/sv/documents/product-information/roactemra-epar-product-information_sv.pdf)
 
+Íslenska (IS) (2.74 MB - PDF)
+
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
+
+[View](/is/documents/product-information/roactemra-epar-product-information_is.pdf)
+
+norsk (NO) (2.25 MB - PDF)
+
+**First published:** 08/01/2010 **Last updated:** 01/04/2026
+
+[View](/no/documents/product-information/roactemra-epar-product-information_no.pdf)
+
 **Latest procedure affecting product information:** VR/0000261482
 
 12/02/2026
@@ -458,7 +458,8 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -476,7 +477,7 @@ English (EN) (19.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-9)
+[Other languages (24)](#file-language-dropdown-828)
 
 български (BG) (49.48 KB - PDF)
 
@@ -508,7 +509,7 @@ Deutsch (DE) (18.28 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (21.03 KB - PDF)
+eesti (ET) (21.03 KB - PDF)
 
 **First published:** 18/02/2009 **Last updated:** 16/10/2023
 
@@ -532,25 +533,19 @@ hrvatski (HR) (38.63 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (19.99 KB - PDF)
-
-**First published:** 18/02/2009 **Last updated:** 16/10/2023
-
-[View](/is/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (54.22 KB - PDF)
 
 **First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/it/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (43.36 KB - PDF)
+latviešu (LV) (43.36 KB - PDF)
 
 **First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/lv/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (41.49 KB - PDF)
+lietuvių (LT) (41.49 KB - PDF)
 
 **First published:** 18/02/2009 **Last updated:** 16/10/2023
 
@@ -573,12 +568,6 @@ Nederlands (NL) (18.8 KB - PDF)
 **First published:** 18/02/2009 **Last updated:** 16/10/2023
 
 [View](/nl/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (19.45 KB - PDF)
-
-**First published:** 18/02/2009 **Last updated:** 16/10/2023
-
-[View](/no/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (43.44 KB - PDF)
 
@@ -610,7 +599,7 @@ slovenščina (SL) (31.73 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (47.22 KB - PDF)
+suomi (FI) (47.22 KB - PDF)
 
 **First published:** 18/02/2009 **Last updated:** 16/10/2023
 
@@ -622,15 +611,27 @@ svenska (SV) (20.71 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (19.99 KB - PDF)
+
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
+
+[View](/is/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (19.45 KB - PDF)
+
+**First published:** 18/02/2009 **Last updated:** 16/10/2023
+
+[View](/no/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_no.pdf)
+
 RoActemra : EPAR - Conditions imposed on member states for safe and effective use - Annex IV
 
 English (EN) (26.83 KB - PDF)
 
 **First published:** 18/02/2009 **Last updated:** 30/08/2011
 
-[View](/en/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
+[View](/en/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-563)
+[Other languages (23)](#file-language-dropdown-771)
 
 български (BG) (76.81 KB - PDF)
 
@@ -662,7 +663,7 @@ Deutsch (DE) (23.64 KB - PDF)
 
 [View](/de/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_de.pdf)
 
-eesti keel (ET) (24.01 KB - PDF)
+eesti (ET) (24.01 KB - PDF)
 
 **First published:** 18/02/2009 **Last updated:** 30/08/2011
 
@@ -680,25 +681,19 @@ français (FR) (24.06 KB - PDF)
 
 [View](/fr/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_fr.pdf)
 
-íslenska (IS) (24.14 KB - PDF)
-
-**First published:** 18/02/2009 **Last updated:** 30/08/2011
-
-[View](/is/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_is.pdf)
-
 italiano (IT) (27.34 KB - PDF)
 
 **First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/it/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_it.pdf)
 
-latviešu valoda (LV) (62.73 KB - PDF)
+latviešu (LV) (62.73 KB - PDF)
 
 **First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/lv/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_lv.pdf)
 
-lietuvių kalba (LT) (57.81 KB - PDF)
+lietuvių (LT) (57.81 KB - PDF)
 
 **First published:** 18/02/2009 **Last updated:** 30/08/2011
 
@@ -721,12 +716,6 @@ Nederlands (NL) (16.14 KB - PDF)
 **First published:** 18/02/2009 **Last updated:** 30/08/2011
 
 [View](/nl/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_nl.pdf)
-
-norsk (NO) (25.66 KB - PDF)
-
-**First published:** 18/02/2009 **Last updated:** 30/08/2011
-
-[View](/no/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_no.pdf)
 
 polski (PL) (61.32 KB - PDF)
 
@@ -758,7 +747,7 @@ slovenščina (SL) (53.69 KB - PDF)
 
 [View](/sl/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sl.pdf)
 
-Suomi (FI) (24.1 KB - PDF)
+suomi (FI) (24.1 KB - PDF)
 
 **First published:** 18/02/2009 **Last updated:** 30/08/2011
 
@@ -770,31 +759,34 @@ svenska (SV) (23.87 KB - PDF)
 
 [View](/sv/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_sv.pdf)
 
+Íslenska (IS) (24.14 KB - PDF)
+
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
+
+[View](/is/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_is.pdf)
+
+norsk (NO) (25.66 KB - PDF)
+
+**First published:** 18/02/2009 **Last updated:** 30/08/2011
+
+[View](/no/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-RoActemra
-
-Active substance
-
-tocilizumab
-
-International non-proprietary name (INN) or common name
-
-tocilizumab
-
-Therapeutic area (MeSH)
-
-- Arthritis, Rheumatoid
-- Arthritis, Juvenile Rheumatoid
-- Cytokine Release Syndrome
-- Giant Cell Arteritis
-- COVID-19 virus infection
-
-Anatomical therapeutic chemical (ATC) code
-
-L04AC07
+- **Name of medicine**
+    - RoActemra
+- **Active substance**
+    - tocilizumab
+- **International non-proprietary name (INN) or common name**
+    - tocilizumab
+- **Therapeutic area (MeSH)**
+        - Arthritis, Rheumatoid
+        - Arthritis, Juvenile Rheumatoid
+        - Cytokine Release Syndrome
+        - Giant Cell Arteritis
+        - COVID-19 virus infection
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AC07
 
 ### Pharmacotherapeutic group
 
@@ -805,18 +797,18 @@ Immunosuppressants
 RoActemra, in combination with methotrexate (MTX), is indicated for
 
 - the treatment of severe, active and progressive rheumatoid arthritis (RA) in adults not previously treated with MTX.
-- the treatment of moderate to severe active RA in adult patients who have either responded inadequately to, or who were intolerant to, previous therapy with one or more disease-modifying anti-rheumatic drugs (DMARDs) or tumour necrosis factor (TNF) antagonists.
+- the treatment of moderate to severe active RA in adult patients who have either responded inadequately to, or who were intolerant to, previous therapy with one or more disease-modifying anti-rheumatic drugs (DMARDs) or tumour necrosis factor (TNF) antagonists.  In these patients, RoActemra can be given as monotherapy in case of intolerance to MTX or where continued treatment with MTX is inappropriate.  RoActemra has been shown to reduce the rate of progression of joint damage as measured by X-ray and to improve physical function when given in combination with methotrexate.
 
 RoActemra is indicated for the treatment of active systemic juvenile idiopathic arthritis (sJIA) in patients 1 year of age and older, who have responded inadequately to previous therapy with NSAIDs and systemic corticosteroids. RoActemra can be given as monotherapy (in case of intolerance to MTX or where treatment with MTX is inappropriate) or in combination with MTX.
 
-RoActemra in combination with methotrexate (MTX) is indicated for the treatment of juvenile idiopathic polyarthritis (pJIA; rheumatoid factor positive or negative and extended oligoarthritis) in patients 2 years of age and older, who have responded inadequately to previous therapy with MTX.  RoActemra can be given as monotherapy in case of intolerance to MTX or where continued treatment with MTX is inappropriate.
+RoActemra in combination with methotrexate (MTX) is indicated for the treatment of juvenile idiopathic polyarthritis (pJIA; rheumatoid factor positive or negative and extended oligoarthritis) in patients 2 years of age and older, who have responded inadequately to previous therapy with MTX. RoActemra can be given as monotherapy in case of intolerance to MTX or where continued treatment with MTX is inappropriate.
 
 RoActemra is indicated for the treatment of Giant Cell Arteritis (GCA) in adult patients.
 
 RoActemra, in combination with methotrexate (MTX), is indicated for:
 
 - the treatment of severe, active and progressive rheumatoid arthritis (RA) in adults not previously treated with MTX.
-- the treatment of moderate to severe active RA in adult patients who have either responded inadequately to, or who were intolerant to, previous therapy with one or more disease-modifying anti-rheumatic drugs (DMARDs) or tumour necrosis factor (TNF) antagonists. In these patients, RoActemra can be given as monotherapy in case of intolerance to MTX or where continued treatment with MTX is inappropriate. RoActemra has been shown to reduce the rate of progression of joint damage as measured by X-ray and to improve physical function when given in combination with methotrexate.
+- the treatment of moderate to severe active RA in adult patients who have either responded inadequately to, or who were intolerant to, previous therapy with one or more disease-modifying anti-rheumatic drugs (DMARDs) or tumour necrosis factor (TNF) antagonists.  In these patients, RoActemra can be given as monotherapy in case of intolerance to MTX or where continued treatment with MTX is inappropriate.  RoActemra has been shown to reduce the rate of progression of joint damage as measured by X-ray and to improve physical function when given in combination with methotrexate.
 
 RoActemra is indicated for the treatment of coronavirus disease 2019 (COVID-19) in adults who are receiving systemic corticosteroids and require supplemental oxygen or mechanical ventilation.
 
@@ -829,7 +821,7 @@ RoActemra is indicated for the treatment of chimeric antigen receptor (CAR) T ce
 RoActemra, in combination with methotrexate (MTX), is indicated for:
 
 - the treatment of severe, active and progressive rheumatoid arthritis (RA) in adults not previously treated with MTX.
-- the treatment of moderate to severe active RA in adult patients who have either responded inadequately to, or who were intolerant to, previous therapy with one or more disease-modifying anti-rheumatic drugs (DMARDs) or tumour necrosis factor (TNF) antagonists. In these patients, RoActemra can be given as monotherapy in case of intolerance to MTX or where continued treatment with MTX is inappropriate. RoActemra has been shown to reduce the rate of progression of joint damage as measured by X-ray and to improve physical function when given in combination with methotrexate.
+- the treatment of moderate to severe active RA in adult patients who have either responded inadequately to, or who were intolerant to, previous therapy with one or more disease-modifying anti-rheumatic drugs (DMARDs) or tumour necrosis factor (TNF) antagonists.  In these patients, RoActemra can be given as monotherapy in case of intolerance to MTX or where continued treatment with MTX is inappropriate.  RoActemra has been shown to reduce the rate of progression of joint damage as measured by X-ray and to improve physical function when given in combination with methotrexate.
 
 RoActemra is indicated for the treatment of coronavirus disease 2019 (COVID-19) in adults who are receiving systemic corticosteroids and require supplemental oxygen or mechanical ventilation.
 
@@ -841,23 +833,14 @@ RoActemra is indicated for the treatment of chimeric antigen receptor (CAR) T ce
 
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/000955
-
-Marketing authorisation holder
-
-Roche Registration GmbH
-
-Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
-
-Marketing authorisation issued
-
-16/01/2009
-
-Revision
-
-49
+- **EMA product number**
+    - EMEA/H/C/000955
+- **Marketing authorisation holder**
+    - Roche Registration GmbH Emil-Barell-Strasse 1  79639 Grenzach-Wyhlen  Germany
+- **Marketing authorisation issued**
+    - 16/01/2009
+- **Revision**
+    - 50
 
 ## Assessment history
 
@@ -865,7 +848,7 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 RoActemra : EPAR - Procedural steps taken and scientific information after authorisation
 
@@ -882,6 +865,16 @@ English (EN) (301.81 KB - PDF)
 **First published:** 08/01/2010 **Last updated:** 03/04/2025
 
 [View](/en/documents/procedural-steps-after/roactemra-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+RoActemra-PAM-0000348681 : EPAR - Assessment report
+
+Adopted Reference Number: EMADOC-1700519818-3174543
+
+English (EN) (635.51 KB - PDF)
+
+**First published:** 13/08/2026
+
+[View](/en/documents/variation-report/roactemra-pam-0000348681-epar-assessment-report_en.pdf)
 
 RoActemra-H-C-000955-P46-064 : EPAR - Assessment Report
 
@@ -941,7 +934,7 @@ English (EN) (61.66 KB - PDF)
 
 **First published:** 29/04/2019
 
-[View](/en/documents/scientific-conclusion/roactemra-psusa-00002980-201804-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisations_en.pdf)
+[View](/en/documents/scientific-conclusion/roactemra-psusa-00002980-201804-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations_en.pdf)
 
 RoActemra : EPAR - Paediatric investigation plan compliance statement
 
@@ -1123,7 +1116,7 @@ English (EN) (50.69 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-roactemra_en.pdf-2)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 RoActemra : EPAR - Public assessment report
 
@@ -1133,7 +1126,7 @@ English (EN) (847.02 KB - PDF)
 
 [View](/en/documents/assessment-report/roactemra-epar-public-assessment-report_en.pdf)
 
-Committee for medicinal products for human use, summary of positive opinion for  RoActemra
+Committee for medicinal products for human use, summary of positive opinion for RoActemra
 
 Reference Number: EMEA/CHMP/580914/2008
 
@@ -1201,7 +1194,7 @@ English (EN) (1.64 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-635)
+[Other languages (24)](#file-language-dropdown-833)
 
 български (BG) (1.81 MB - DOCX)
 
@@ -1233,7 +1226,7 @@ Deutsch (DE) (3.34 MB - DOCX)
 
 [View](/de/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (1.72 MB - DOCX)
+eesti (ET) (1.72 MB - DOCX)
 
 **First published:** 01/04/2026
 
@@ -1257,25 +1250,19 @@ hrvatski (HR) (1.74 MB - DOCX)
 
 [View](/hr/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (2.33 MB - DOCX)
-
-**First published:** 01/04/2026
-
-[View](/is/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_is.docx)
-
 italiano (IT) (1.54 MB - DOCX)
 
 **First published:** 01/04/2026
 
 [View](/it/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (1.95 MB - DOCX)
+latviešu (LV) (1.95 MB - DOCX)
 
 **First published:** 01/04/2026
 
 [View](/lv/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (2.08 MB - DOCX)
+lietuvių (LT) (2.08 MB - DOCX)
 
 **First published:** 01/04/2026
 
@@ -1298,12 +1285,6 @@ Nederlands (NL) (2.84 MB - DOCX)
 **First published:** 01/04/2026
 
 [View](/nl/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_nl.docx)
-
-norsk (NO) (1.38 MB - DOCX)
-
-**First published:** 01/04/2026
-
-[View](/no/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_no.docx)
 
 polski (PL) (2.04 MB - DOCX)
 
@@ -1335,7 +1316,7 @@ slovenščina (SL) (2.41 MB - DOCX)
 
 [View](/sl/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (1.81 MB - DOCX)
+suomi (FI) (1.81 MB - DOCX)
 
 **First published:** 01/04/2026
 
@@ -1346,6 +1327,18 @@ svenska (SV) (2.06 MB - DOCX)
 **First published:** 01/04/2026
 
 [View](/sv/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (2.33 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/is/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (1.38 MB - DOCX)
+
+**First published:** 01/04/2026
+
+[View](/no/documents/product-information-tracked-changes/roactemra-epar-product-information-tracked-changes_no.docx)
 
 ## External links
 
@@ -1372,6 +1365,6 @@ svenska (SV) (2.06 MB - DOCX)
 
 **This page was last updated on**
 
-01/04/2026
+13/08/2026
 
 ## Share this page

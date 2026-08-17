@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-21 14:52:00
+document_datetime: 2026-08-14 14:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lutathera.html
 document_name: lutathera.html
 version: success
-processing_time: 0.1710576
-conversion_datetime: 2026-07-28 12:58:12.082891
+processing_time: 0.1755165
+conversion_datetime: 2026-08-17 13:28:34.235017
 docling_version:
-  docling-serve: 1.28.0
-  docling-jobkit: 3.1.0
-  docling: 2.115.0
-  docling-core: 2.88.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.120.2
+  docling-core: 2.91.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.13.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 # Lutathera
 
@@ -116,7 +116,7 @@ English (EN) (83.55 KB - PDF)
 
 [View](/en/documents/overview/lutathera-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-397)
+[Other languages (22)](#file-language-dropdown-485)
 
 български (BG) (108.98 KB - PDF)
 
@@ -254,161 +254,161 @@ svenska (SV) (81.75 KB - PDF)
 
 Lutathera : EPAR - Product Information
 
-English (EN) (830.14 KB - PDF)
+English (EN) (783.17 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/en/documents/product-information/lutathera-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-558)
+[Other languages (24)](#file-language-dropdown-876)
 
-български (BG) (1.05 MB - PDF)
+български (BG) (998.33 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/bg/documents/product-information/lutathera-epar-product-information_bg.pdf)
 
-español (ES) (903.07 KB - PDF)
+español (ES) (824.03 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/es/documents/product-information/lutathera-epar-product-information_es.pdf)
 
-čeština (CS) (926.14 KB - PDF)
+čeština (CS) (854.93 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/cs/documents/product-information/lutathera-epar-product-information_cs.pdf)
 
-dansk (DA) (1.04 MB - PDF)
+dansk (DA) (983.99 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/da/documents/product-information/lutathera-epar-product-information_da.pdf)
 
-Deutsch (DE) (946.6 KB - PDF)
+Deutsch (DE) (862.96 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/de/documents/product-information/lutathera-epar-product-information_de.pdf)
 
-eesti (ET) (913.2 KB - PDF)
+eesti (ET) (838.56 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/et/documents/product-information/lutathera-epar-product-information_et.pdf)
 
-ελληνικά (EL) (953.9 KB - PDF)
+ελληνικά (EL) (877.99 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/el/documents/product-information/lutathera-epar-product-information_el.pdf)
 
-français (FR) (931.4 KB - PDF)
+français (FR) (857.07 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/fr/documents/product-information/lutathera-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1017.55 KB - PDF)
+hrvatski (HR) (928.45 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/hr/documents/product-information/lutathera-epar-product-information_hr.pdf)
 
-italiano (IT) (957.58 KB - PDF)
+italiano (IT) (876.63 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/it/documents/product-information/lutathera-epar-product-information_it.pdf)
 
-latviešu (LV) (929.59 KB - PDF)
+latviešu (LV) (856.2 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/lv/documents/product-information/lutathera-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1018.39 KB - PDF)
+lietuvių (LT) (948.03 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/lt/documents/product-information/lutathera-epar-product-information_lt.pdf)
 
-magyar (HU) (873.43 KB - PDF)
+magyar (HU) (793.56 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/hu/documents/product-information/lutathera-epar-product-information_hu.pdf)
 
-Malti (MT) (1 MB - PDF)
+Malti (MT) (929.07 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/mt/documents/product-information/lutathera-epar-product-information_mt.pdf)
 
-Nederlands (NL) (981.95 KB - PDF)
+Nederlands (NL) (905.39 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/nl/documents/product-information/lutathera-epar-product-information_nl.pdf)
 
-polski (PL) (975.22 KB - PDF)
+polski (PL) (900.85 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/pl/documents/product-information/lutathera-epar-product-information_pl.pdf)
 
-português (PT) (1.04 MB - PDF)
+português (PT) (977.04 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/pt/documents/product-information/lutathera-epar-product-information_pt.pdf)
 
-română (RO) (970.61 KB - PDF)
+română (RO) (885.74 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/ro/documents/product-information/lutathera-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.05 MB - PDF)
+slovenčina (SK) (976.47 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/sk/documents/product-information/lutathera-epar-product-information_sk.pdf)
 
-slovenščina (SL) (971.19 KB - PDF)
+slovenščina (SL) (893.99 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/sl/documents/product-information/lutathera-epar-product-information_sl.pdf)
 
-suomi (FI) (869.3 KB - PDF)
+suomi (FI) (789.56 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/fi/documents/product-information/lutathera-epar-product-information_fi.pdf)
 
-svenska (SV) (962.16 KB - PDF)
+svenska (SV) (888.49 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/sv/documents/product-information/lutathera-epar-product-information_sv.pdf)
 
-Íslenska (IS) (952.87 KB - PDF)
+Íslenska (IS) (880.09 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/is/documents/product-information/lutathera-epar-product-information_is.pdf)
 
-norsk (NO) (894.8 KB - PDF)
+norsk (NO) (841.03 KB - PDF)
 
-**First published:** 17/01/2018 **Last updated:** 21/07/2026
+**First published:** 17/01/2018 **Last updated:** 14/08/2026
 
 [View](/no/documents/product-information/lutathera-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** T/0000349423
+**Latest procedure affecting product information:** EMA/N/0000367921
 
-15/07/2026
+13/08/2026
 
 icon globe
 
@@ -433,7 +433,7 @@ English (EN) (46.16 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lutathera-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-477)
+[Other languages (24)](#file-language-dropdown-87)
 
 български (BG) (50.72 KB - PDF)
 
@@ -607,13 +607,13 @@ Lutathera is indicated for the treatment of unresectable or metastatic, progress
 - **Orphan**
     - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
 - **Marketing authorisation holder**
-    - Novartis Europharm Limited Vista Building  Elm Park  Merrion Road  Dublin 4  Ireland
+    - Novartis Europharm Limited Vista Building  Elm Park  Merrion Road  Dublin 4  D04 A9N6  Ireland
 - **Opinion adopted**
     - 20/07/2017
 - **Marketing authorisation issued**
     - 26/09/2017
 - **Revision**
-    - 17
+    - 18
 
 ## Assessment history
 
@@ -625,9 +625,9 @@ Collapse section
 
 Lutathera : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (152.75 KB - PDF)
+English (EN) (153.88 KB - PDF)
 
-**First published:** 04/03/2025 **Last updated:** 21/07/2026
+**First published:** 04/03/2025 **Last updated:** 14/08/2026
 
 [View](/en/documents/procedural-steps-after/lutathera-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -717,7 +717,7 @@ English (EN) (142.62 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-answer-outcome-assessment-use-lutathera-treatment-gastro-entero-pancreatic-neuroendocrine-tumours-adolescents_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-290)
+[Other languages (22)](#file-language-dropdown-599)
 
 български (BG) (167.01 KB - PDF)
 
@@ -864,6 +864,6 @@ svenska (SV) (141.26 KB - PDF)
 
 **This page was last updated on**
 
-21/07/2026
+14/08/2026
 
 ## Share this page

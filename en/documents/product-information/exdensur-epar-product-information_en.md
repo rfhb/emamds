@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-11 09:55:11
+document_datetime: 2026-08-13 13:48:28
 document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/exdensur-epar-product-information_en.pdf
 document_name: exdensur-epar-product-information_en.pdf
 version: success
-processing_time: 17.3539061
-conversion_datetime: 2026-05-13 13:22:49.079738
+processing_time: 20.8229177
+conversion_datetime: 2026-08-17 13:36:13.531294
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.30.0
+  docling-jobkit: 3.3.1
+  docling: 2.120.2
+  docling-core: 2.91.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.13.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.1-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -220,7 +220,7 @@ Systemic reactions (non-allergic) reported with depemokimab were non-serious and
 
 ## Local injection site reactions
 
-Local injection site reactions (e.g., pain, erythema, swelling, itching) were reported in 2% of patients receiving depemokimab in the entire clinical development programme. The reactions reported with depemokimab were non-serious, mild in intensity and wer e transient (79% resolved in ≤ 7 days, with most events (56%) resolving in ≤ 2 days from their onset).
+Local injection site reactions (e.g., pain, erythema, swelling, itching) were reported in 2% of patients receiving depemokimab in the entire clinical development programme. The reactions reported with depemokimab were nonserious, mild in intensity and were transient (79% resolved in ≤ 7 days, with most events (56%) resolving in ≤ 2 days from their onset).
 
 In the placebo-controlled studies in asthma and CRSwNP, local injection site reactions were reported in 1% of patients receiving depemokimab compared to &lt; 1% of patients who received placebo.
 
@@ -287,8 +287,8 @@ Table 2. Demographics and baseline characteristics (FAS population)
 | Female, n (%)                                      | 223 (58)            | 241 (63)            |
 | White, n (%)                                       | 316 (83)            | 272 (72)            |
 | Duration of asthma, years, mean (SD)               | 22 (16.2)           | 25 (18.5)           |
-| Mean pre-bronchodilator %predicted FEV 1 (SD)      | 62 (15.2)           | 62 (15.9)           |
-| Mean %reversibility (SD)                           | 17 (15.3)           | 18 (17.4)           |
+| Mean pre-bronchodilator % predicted FEV 1 (SD)     | 62 (15.2)           | 62 (15.9)           |
+| Mean % reversibility (SD)                          | 17 (15.3)           | 18 (17.4)           |
 | Mean number of exacerbations in previous year (SD) | 2.2 (0.69)          | 2.7 (1.92)          |
 | Eosinophil count, cells/mcL, median (min, max)     | 310 (20, 2 360)     | 340 (10, 4 440)     |
 | Total IgE, U/mcL, median (min, max)                | 185 (1.9, 12 142)   | 180 (2.2, 16 198)   |
@@ -543,14 +543,14 @@ There are limited pharmacokinetic data available in the paediatric population (1
 
 Table 7. Derived secondary pharmacokinetics parameters in patients who received depemokimab 100 mg subcutaneously every 26 weeks in the pooled SWIFT-1 and SWIFT-2 studies
 
-| Parameter - geometric mean (%CV)   | Adolescents N=15   | Adults N=479   | Overall N=494   |
-|------------------------------------|--------------------|----------------|-----------------|
-| AUC tau, ss (mcg*day/mL)           | 1051 (31)          | 1082 (28)      | 1081 (28)       |
-| C av, ss (mcg /mL)                 | 5.8 (31)           | 5.9 (28)       | 5.9 (28)        |
-| C max, 26-52 (mcg/mL)              | 14.6 (30)          | 13.6 (28)      | 13.6 (28)       |
-| T max, 26-52 (day)                 | 10.8 (9)           | 13.7 (18)      | 13.6 (18)       |
-| C trough, week52 (mcg/mL)          | 1.1 (39)           | 1.3 (38)       | 1.3 (38)        |
-| t 1/2 (days)                       | 44.7 (9)           | 48.7 (10)      | 48.6 (10)       |
+| Parameter - geometric mean (%CV)   | Adolescents N = 15   | Adults N = 479   | Overall N = 494   |
+|------------------------------------|----------------------|------------------|-------------------|
+| AUC tau, ss (mcg*day/mL)           | 1051 (31)            | 1082 (28)        | 1081 (28)         |
+| C av, ss (mcg /mL)                 | 5.8 (31)             | 5.9 (28)         | 5.9 (28)          |
+| C max, 26-52 (mcg/mL)              | 14.6 (30)            | 13.6 (28)        | 13.6 (28)         |
+| T max, 26-52 (day)                 | 10.8 (9)             | 13.7 (18)        | 13.6 (18)         |
+| C trough, week52 (mcg/mL)          | 1.1 (39)             | 1.3 (38)         | 1.3 (38)          |
+| t 1/2 (days)                       | 44.7 (9)             | 48.7 (10)        | 48.6 (10)         |
 
 AUCtau,ss ; area under the concentration-time curve during a dosing interval at steady state, Cav,ss ; average concentration during a dosing interval, Cmax, 26-52 ; maximum concentration during the second dosing interval, Tmax, 26-52 ; time to maximum concentration during the second dosing interval, Ctrough, week 52 ; trough concentration at the end of the second administration, t1/2 ; half-life
 
@@ -675,7 +675,7 @@ GlaxoSmithKline LLC 893 River Road Building 40 Conshohocken Pennsylvania (PA) 19
 
 Name and address of the manufacturer responsible for batch release
 
-GlaxoSmithKline Manufacturing S.p.A., Strada Provinciale Asolana N. 90, 43056 Torrile, Italy
+GlaxoSmithKline Manufacturing S.p.A., Strada Provinciale Asolana N. 90, 43056 San Polo di Torrile, Parma Italy
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -818,17 +818,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                             |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                               |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 EXDENSUR 100 mg injection depemokimab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -840,8 +840,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mL
 
@@ -956,17 +956,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                         |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
-|------|----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 EXDENSUR 100 mg injection depemokimab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -978,8 +978,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mL
 
@@ -1143,8 +1143,6 @@ Do not stop injections of EXDENSUR unless your doctor advises you to. Interrupti
 
 If your symptoms get worse while receiving injections of EXDENSUR:
 
-<!-- image -->
-
 - ➔ call your doctor.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
@@ -1215,7 +1213,7 @@ GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus D
 
 ## Manufacturer
 
-GlaxoSmithKline Manufacturing S.p.A., Strada Provinciale Asolana N. 90, 43056 Torrile, Italy
+GlaxoSmithKline Manufacturing S.p.A., Strada Provinciale Asolana N. 90, 43056 San Polo di Torrile, Parma Italy
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1287,11 +1285,7 @@ GSK Services Sp. z o.o. Tel.: + 48 (0)22 576 9000
 
 ## France
 
-Laboratoire GlaxoSmithKline
-
-Tél: + 33 (0)1 39 17 84 44
-
-diam@gsk.com
+Laboratoire GlaxoSmithKline Tél: + 33 (0)1 39 17 84 44 diam@gsk.com
 
 ## Hrvatska
 
@@ -1337,9 +1331,7 @@ GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gs
 
 ## România
 
-GlaxoSmithKline Trading Services Limited
-
-Tel: + 40 800672524
+GlaxoSmithKline Trading Services Limited Tel: + 40 800672524
 
 ## Slovenija
 
@@ -1628,8 +1620,6 @@ If you may have had a similar reaction to any injection or medicine:
 
 EXDENSUR may weaken your resistance to infections caused by parasites. If you have a parasitic infection; it should be treated before you start treatment with EXDENSUR. If you live in a region where these infections are common or if you are travelling to such a region:
 
-<!-- image -->
-
 - ➔ check with your doctor if you think any of these may apply to you.
 
 ## Children and adolescents
@@ -1779,7 +1769,7 @@ GlaxoSmithKline Trading Services Limited
 
 ## Manufacturer
 
-GlaxoSmithKline Manufacturing S.p.A., Strada Provinciale Asolana N. 90, 43056 Torrile, Italy
+GlaxoSmithKline Manufacturing S.p.A., Strada Provinciale Asolana N. 90, 43056 San Polo di Torrile, Parma Italy
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 

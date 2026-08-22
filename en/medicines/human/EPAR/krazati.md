@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/krazati.html
 document_name: krazati.html
 version: success
-processing_time: 0.1436706
-conversion_datetime: 2026-08-22 22:51:46.341537
+processing_time: 0.142522
+conversion_datetime: 2026-08-22 23:26:07.53343
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

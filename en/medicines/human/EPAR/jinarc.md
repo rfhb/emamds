@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jinarc.html
 document_name: jinarc.html
 version: success
-processing_time: 0.1589774
-conversion_datetime: 2026-08-22 22:52:53.503428
+processing_time: 0.1609189
+conversion_datetime: 2026-08-22 23:27:11.990025
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

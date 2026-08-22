@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nucala.html
 document_name: nucala.html
 version: success
-processing_time: 0.2122526
-conversion_datetime: 2026-08-22 22:49:49.763734
+processing_time: 0.1854318
+conversion_datetime: 2026-08-22 23:24:11.969511
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

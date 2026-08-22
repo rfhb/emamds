@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/junod.html
 document_name: junod.html
 version: success
-processing_time: 0.1376245
-conversion_datetime: 2026-08-22 22:52:36.455295
+processing_time: 0.1375693
+conversion_datetime: 2026-08-22 23:26:56.05078
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/arixtra.html
 document_name: arixtra.html
 version: success
-processing_time: 0.1835489
-conversion_datetime: 2026-08-22 22:56:29.040277
+processing_time: 0.1898427
+conversion_datetime: 2026-08-22 23:30:45.123034
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

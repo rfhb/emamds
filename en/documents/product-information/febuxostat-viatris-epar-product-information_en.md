@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-07 16:48:59
-document_pages: 73
+document_datetime: 2026-08-19 11:16:25
+document_pages: 75
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/febuxostat-viatris-epar-product-information_en.pdf
 document_name: febuxostat-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 21.2741469
-conversion_datetime: 2026-05-10 12:02:29.918535
+processing_time: 19.5709675
+conversion_datetime: 2026-08-23 00:32:08.141603
 docling_version:
-  docling-serve: 1.17.0
-  docling-jobkit: 1.18.0
-  docling: 2.92.0
-  docling-core: 2.74.1
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.10.1
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.4.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -318,12 +318,12 @@ Table 2 summarises the primary efficacy endpoint results:
 
 Table 2 Proportion of Patients with Serum Uric Acid Levels &lt;6.0 mg/dL (357 µmol/L) Last Three Monthly Visits
 
-| Study                                                                                                                                                      | Febuxostat 80 mg QD                                                                                                                                        | Febuxostat 120 mg QD                                                                                                                                       | Allopurinol 300 / 100 mg QD 1                                                                                                                              |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| APEX (28 weeks)                                                                                                                                            | 48%* (n=262)                                                                                                                                               | 65%* , # (n=269)                                                                                                                                           | 22% (n=268)                                                                                                                                                |
-| FACT (52 weeks)                                                                                                                                            | 53%* (n=255)                                                                                                                                               | 62%* (n=250)                                                                                                                                               | 21% (n=251)                                                                                                                                                |
-| Combined Results                                                                                                                                           | 51%* (n=517)                                                                                                                                               | 63%* , # (n=519)                                                                                                                                           | 22% (n=519)                                                                                                                                                |
-| 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300mgQD (n=509) were pooled for analyses. | 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300mgQD (n=509) were pooled for analyses. | 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300mgQD (n=509) were pooled for analyses. | 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300mgQD (n=509) were pooled for analyses. |
+| Study                                                                                                                                                        | Febuxostat 80 mg QD                                                                                                                                          | Febuxostat 120 mg QD                                                                                                                                         | Allopurinol 300 / 100 mg QD 1                                                                                                                                |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| APEX (28 weeks)                                                                                                                                              | 48%* (n=262)                                                                                                                                                 | 65%* , # (n=269)                                                                                                                                             | 22% (n=268)                                                                                                                                                  |
+| FACT (52 weeks)                                                                                                                                              | 53%* (n=255)                                                                                                                                                 | 62%* (n=250)                                                                                                                                                 | 21% (n=251)                                                                                                                                                  |
+| Combined Results                                                                                                                                             | 51%* (n=517)                                                                                                                                                 | 63%* , # (n=519)                                                                                                                                             | 22% (n=519)                                                                                                                                                  |
+| 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300 mg QD (n=509) were pooled for analyses. | 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300 mg QD (n=509) were pooled for analyses. | 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300 mg QD (n=509) were pooled for analyses. | 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300 mg QD (n=509) were pooled for analyses. |
 
 The ability of febuxostat to lower serum uric acid levels was prompt and persistent. Reduction in serum uric acid level to &lt;6.0 mg/dL (357 µmol/L) was noted by the Week 2 visit and was maintained throughout treatment. The mean serum uric acid levels over time for each treatment group from the two pivotal Phase 3 studies are shown in Figure 1.
 
@@ -777,16 +777,16 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 Table 1: Adverse reactions in combined phase 3, long-term extension studies, postauthorisation safety studies and post-marketing experience in gout patients.
 
-| Blood and lymphatic system disorders   | Rare Pancytopenia, thrombocytopenia, agranulocytosis*, anaemia #                                                                                                                                                    |
-|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Immune system disorders                | Rare Anaphylactic reaction*, drug hypersensitivity*                                                                                                                                                                 |
-| Endocrine disorders                    | Uncommon Blood thyroid stimulating hormone increased, hypothyroidism #                                                                                                                                              |
-| Eye disorders                          | Uncommon Blurred vision Rare Retinal artery occlusion #                                                                                                                                                             |
-| Metabolism and nutrition disorders     | Common*** Gout flares Uncommon Diabetes mellitus, hyperlipidemia, decrease appetite, weight increase Rare Weight decrease, increase appetite, anorexia                                                              |
-| Psychiatric disorders                  | Uncommon Libido decreased, insomnia Rare Nervousness, depressed mood # , sleep disorder #                                                                                                                           |
-| Nervous system disorders               | Common Headache, dizziness Uncommon Paraesthesia, hemiparesis, somnolence, lethargy # , altered taste, hypoaesthesia, hyposmia Rare Ageusia # , burning sensation #                                                 |
-| Ear and labyrinth disorders            | Uncommon Tinnitus Rare Vertigo #                                                                                                                                                                                    |
-| Cardiac disorders                      | Uncommon Atrial fibrillation, palpitations, ECGabnormal, left bundle branch block (see section Tumor Lysis Syndrome), sinus tachycardia (see section Tumor Lysis Syndrome), arrhythmia # Rare Sudden cardiac death* |
+| Blood and lymphatic system disorders   | Rare Pancytopenia, thrombocytopenia, agranulocytosis*, anaemia #                                                                                                                                                     |
+|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Immune system disorders                | Rare Anaphylactic reaction*, drug hypersensitivity*                                                                                                                                                                  |
+| Endocrine disorders                    | Uncommon Blood thyroid stimulating hormone increased, hypothyroidism #                                                                                                                                               |
+| Eye disorders                          | Uncommon Blurred vision Rare Retinal artery occlusion #                                                                                                                                                              |
+| Metabolism and nutrition disorders     | Common*** Gout flares Uncommon Diabetes mellitus, hyperlipidemia, decrease appetite, weight increase Rare Weight decrease, increase appetite, anorexia                                                               |
+| Psychiatric disorders                  | Uncommon Libido decreased, insomnia Rare Nervousness, depressed mood # , sleep disorder #                                                                                                                            |
+| Nervous system disorders               | Common Headache, dizziness Uncommon Paraesthesia, hemiparesis, somnolence, lethargy # , altered taste, hypoaesthesia, hyposmia Rare Ageusia # , burning sensation #                                                  |
+| Ear and labyrinth disorders            | Uncommon Tinnitus Rare Vertigo #                                                                                                                                                                                     |
+| Cardiac disorders                      | Uncommon Atrial fibrillation, palpitations, ECG abnormal, left bundle branch block (see section Tumor Lysis Syndrome), sinus tachycardia (see section Tumor Lysis Syndrome), arrhythmia # Rare Sudden cardiac death* |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -874,12 +874,12 @@ Table 2 summarises the primary efficacy endpoint results:
 
 Table 2 Proportion of Patients with Serum Uric Acid Levels &lt;6.0 mg/dL (357 µmol/L) Last Three Monthly Visits
 
-| Study                                                                                                                                                       | Febuxostat 80 mg QD                                                                                                                                         | Febuxostat 120 mg QD                                                                                                                                        | Allopurinol 300 / 100 mg QD 1                                                                                                                               |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| APEX (28 weeks)                                                                                                                                             | 48%* (n=262)                                                                                                                                                | 65%* , # (n=269)                                                                                                                                            | 22% (n=268)                                                                                                                                                 |
-| FACT (52 weeks)                                                                                                                                             | 53%* (n=255)                                                                                                                                                | 62%* (n=250)                                                                                                                                                | 21% (n=251)                                                                                                                                                 |
-| Combined Results                                                                                                                                            | 51%* (n=517)                                                                                                                                                | 63%* , # (n=519)                                                                                                                                            | 22% (n=519)                                                                                                                                                 |
-| 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300 mg QD(n=509) were pooled for analyses. | 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300 mg QD(n=509) were pooled for analyses. | 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300 mg QD(n=509) were pooled for analyses. | 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300 mg QD(n=509) were pooled for analyses. |
+| Study                                                                                                                                                        | Febuxostat 80 mg QD                                                                                                                                          | Febuxostat 120 mg QD                                                                                                                                         | Allopurinol 300 / 100 mg QD 1                                                                                                                                |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| APEX (28 weeks)                                                                                                                                              | 48%* (n=262)                                                                                                                                                 | 65%* , # (n=269)                                                                                                                                             | 22% (n=268)                                                                                                                                                  |
+| FACT (52 weeks)                                                                                                                                              | 53%* (n=255)                                                                                                                                                 | 62%* (n=250)                                                                                                                                                 | 21% (n=251)                                                                                                                                                  |
+| Combined Results                                                                                                                                             | 51%* (n=517)                                                                                                                                                 | 63%* , # (n=519)                                                                                                                                             | 22% (n=519)                                                                                                                                                  |
+| 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300 mg QD (n=509) were pooled for analyses. | 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300 mg QD (n=509) were pooled for analyses. | 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300 mg QD (n=509) were pooled for analyses. | 1 results from subjects receiving either 100 mg QD (n=10: patients with serum creatinine >1.5 and ≤2.0 mg/dL) or 300 mg QD (n=509) were pooled for analyses. |
 
 The ability of febuxostat to lower serum uric acid levels was prompt and persistent. Reduction in serum uric acid level to &lt;6.0 mg/dL (357 µmol/L) was noted by the Week 2 visit and was maintained throughout treatment. The mean serum uric acid levels over time for each treatment group from the two pivotal Phase 3 studies are shown in Figure 1.
 
@@ -1217,8 +1217,8 @@ Open date: \\_\\_\\_\\_
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL   |
-|-------|----------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL   |
+|-------|--------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1408,8 +1408,8 @@ EU/1/17/1194/022
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
 | 15.   | INSTRUCTIONS ON USE   |
 |-------|-----------------------|
@@ -1561,6 +1561,30 @@ SUN
 
 <div style=\"page-break-after: always\"></div>
 
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS UNIT DOSE BLISTERS
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Febuxostat Viatris 80 mg film-coated tablets febuxostat
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Viatris Limited
+
+## 3. EXPIRY DATE
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON (BLISTERS AND BOTTLES)
@@ -1627,8 +1651,7 @@ After first opening use within 180 days.
 
 Open date: \\_\\_\\_\\_
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1798,25 +1821,28 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|---------------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN
 
 Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/17/1194/028
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
 
 | 15.   | INSTRUCTIONS ON USE   |
 |-------|-----------------------|
@@ -1834,9 +1860,7 @@ Febuxostat Viatris 120 mg
 | 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
 |-------|-------------------------------------------|
 
-PC {number}
-
-SN {number}
+PC {number} SN {number}
 
 NN {number}
 
@@ -1907,7 +1931,7 @@ EU/1/17/1194/015 EU/1/17/1194/016
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
 
-Lot Febuxostat Viatris 120 mg film-coated tablets febuxostat Viatris Limited EXP
+Lot Febuxostat Viatris 120 mg film-coated tablets febuxostat Viatris Limited
 
 | 14. GENERAL CLASSIFICATION FOR SUPPLY   |
 |-----------------------------------------|
@@ -1936,8 +1960,9 @@ Lot Febuxostat Viatris 120 mg film-coated tablets febuxostat Viatris Limited EXP
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
+
+EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
@@ -1961,6 +1986,31 @@ FRI
 SAT
 
 SUN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+## UNIT DOSE BLISTERS
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Febuxostat Viatris 120 mg film-coated tablets febuxostat
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Viatris Limited
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 

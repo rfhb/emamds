@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-06 17:32:00
+document_datetime: 2026-08-20 16:32:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mabthera.html
 document_name: mabthera.html
 version: success
-processing_time: 0.422279
-conversion_datetime: 2026-08-07 13:52:07.416256
+processing_time: 0.2167268
+conversion_datetime: 2026-08-22 22:51:12.655802
 docling_version:
-  docling-serve: 1.30.0
-  docling-jobkit: 3.3.1
-  docling: 2.118.0
-  docling-core: 2.91.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.10.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # MabThera
 
@@ -39,8 +39,8 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on MabThera](#news-on)
 - [More information on MabThera](#more-information-on-mabthera-1129)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-88594)
 - [More information on MabThera](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -127,7 +127,7 @@ English (EN) (151.7 KB - PDF)
 
 [View](/en/documents/overview/mabthera-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-228)
+[Other languages (22)](#file-language-dropdown-219)
 
 български (BG) (163.74 KB - PDF)
 
@@ -279,7 +279,7 @@ English (EN) (1.39 MB - PDF)
 
 [View](/en/documents/product-information/mabthera-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-391)
+[Other languages (24)](#file-language-dropdown-482)
 
 български (BG) (1.69 MB - PDF)
 
@@ -433,7 +433,7 @@ icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -452,7 +452,7 @@ English (EN) (19.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mabthera-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-63)
+[Other languages (24)](#file-language-dropdown-497)
 
 български (BG) (77.52 KB - PDF)
 
@@ -1020,18 +1020,172 @@ English (EN) (154.68 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-review-mabthera-rituximab_en.pdf)
 
+## Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+MabThera : EPAR - Product Information - tracked changes
+
+English (EN) (706.64 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/en/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-846)
+
+български (BG) (805.21 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/bg/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (782.46 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/es/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (694.77 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/cs/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (487.36 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/da/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (1.04 MB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/de/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_de.docx)
+
+eesti (ET) (647.55 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/et/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (760.26 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/el/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (704.28 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/fr/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (485.88 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/hr/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_hr.docx)
+
+italiano (IT) (642.26 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/it/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_it.docx)
+
+latviešu (LV) (764.55 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/lv/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių (LT) (683.09 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/lt/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (703.81 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/hu/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (754.1 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/mt/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (682.35 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/nl/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_nl.docx)
+
+polski (PL) (593.87 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/pl/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (631.41 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/pt/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (741.88 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/ro/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (662.2 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/sk/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (508.78 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/sl/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_sl.docx)
+
+suomi (FI) (611.35 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/fi/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (538.18 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/sv/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_sv.docx)
+
+Íslenska (IS) (604.07 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/is/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_is.docx)
+
+norsk (NO) (563.66 KB - DOCX)
+
+**First published:** 20/08/2026
+
+[View](/no/documents/product-information-tracked-changes/mabthera-epar-product-information-tracked-changes_no.docx)
+
 ## More information on MabThera
 
 - [EMEA-000308-PIP01-08-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000308-pip01-08-m04)
 - [EMEA-000308-PIP02-11-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000308-pip02-11-m01)
 - [RoActemra / Hemlibra / Herceptin / Kadcyla / MabThera / Phesgo / Tecentriq - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/roactemra-hemlibra-herceptin-kadcyla-mabthera-phesgo-tecentriq)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-06/08/2026
+20/08/2026
 
 ## Share this page

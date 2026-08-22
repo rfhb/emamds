@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-03 17:18:00
+document_datetime: 2026-08-21 11:31:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vabysmo.html
 document_name: vabysmo.html
 version: success
-processing_time: 0.1403116
-conversion_datetime: 2026-08-04 13:52:58.90807
+processing_time: 0.1473659
+conversion_datetime: 2026-08-22 22:43:45.385355
 docling_version:
-  docling-serve: 1.29.0
-  docling-jobkit: 3.2.0
-  docling: 2.118.0
-  docling-core: 2.90.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Vabysmo
 
@@ -128,7 +128,7 @@ English (EN) (144.88 KB - PDF)
 
 [View](/en/documents/overview/vabysmo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-126)
+[Other languages (22)](#file-language-dropdown-855)
 
 български (BG) (165.37 KB - PDF)
 
@@ -264,9 +264,9 @@ svenska (SV) (135.23 KB - PDF)
 
 Vabysmo : EPAR - Risk management plan
 
-English (EN) (1.42 MB - PDF)
+English (EN) (3.25 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 14/07/2025
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/en/documents/rmp/vabysmo-epar-risk-management-plan_en.pdf)
 
@@ -274,167 +274,167 @@ English (EN) (1.42 MB - PDF)
 
 Vabysmo : EPAR - Product Information
 
-English (EN) (648.1 KB - PDF)
+English (EN) (649.01 KB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/en/documents/product-information/vabysmo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-431)
+[Other languages (24)](#file-language-dropdown-432)
 
-български (BG) (1.77 MB - PDF)
+български (BG) (1.84 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/bg/documents/product-information/vabysmo-epar-product-information_bg.pdf)
 
-español (ES) (1.35 MB - PDF)
+español (ES) (1.31 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/es/documents/product-information/vabysmo-epar-product-information_es.pdf)
 
-čeština (CS) (1.58 MB - PDF)
+čeština (CS) (1.57 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/cs/documents/product-information/vabysmo-epar-product-information_cs.pdf)
 
-dansk (DA) (1.25 MB - PDF)
+dansk (DA) (1.28 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/da/documents/product-information/vabysmo-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.9 MB - PDF)
+Deutsch (DE) (1.98 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/de/documents/product-information/vabysmo-epar-product-information_de.pdf)
 
-eesti (ET) (1.34 MB - PDF)
+eesti (ET) (1.36 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/et/documents/product-information/vabysmo-epar-product-information_et.pdf)
 
 ελληνικά (EL) (1.44 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/el/documents/product-information/vabysmo-epar-product-information_el.pdf)
 
 français (FR) (1.26 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/fr/documents/product-information/vabysmo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.47 MB - PDF)
+hrvatski (HR) (1.5 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/hr/documents/product-information/vabysmo-epar-product-information_hr.pdf)
 
-italiano (IT) (638.56 KB - PDF)
+italiano (IT) (1.36 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/it/documents/product-information/vabysmo-epar-product-information_it.pdf)
 
-latviešu (LV) (1.38 MB - PDF)
+latviešu (LV) (1.34 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/lv/documents/product-information/vabysmo-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.47 MB - PDF)
+lietuvių (LT) (1.48 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/lt/documents/product-information/vabysmo-epar-product-information_lt.pdf)
 
-magyar (HU) (690.04 KB - PDF)
+magyar (HU) (1.3 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/hu/documents/product-information/vabysmo-epar-product-information_hu.pdf)
 
-Malti (MT) (1.87 MB - PDF)
+Malti (MT) (1.85 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/mt/documents/product-information/vabysmo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.25 MB - PDF)
+Nederlands (NL) (1.26 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/nl/documents/product-information/vabysmo-epar-product-information_nl.pdf)
 
-polski (PL) (1.64 MB - PDF)
+polski (PL) (1.7 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/pl/documents/product-information/vabysmo-epar-product-information_pl.pdf)
 
-português (PT) (1.5 MB - PDF)
+português (PT) (1.51 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/pt/documents/product-information/vabysmo-epar-product-information_pt.pdf)
 
-română (RO) (1.44 MB - PDF)
+română (RO) (1.45 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/ro/documents/product-information/vabysmo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.62 MB - PDF)
+slovenčina (SK) (1.63 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/sk/documents/product-information/vabysmo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (547.14 KB - PDF)
+slovenščina (SL) (1.46 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/sl/documents/product-information/vabysmo-epar-product-information_sl.pdf)
 
-suomi (FI) (1.31 MB - PDF)
+suomi (FI) (1.32 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/fi/documents/product-information/vabysmo-epar-product-information_fi.pdf)
 
-svenska (SV) (1.27 MB - PDF)
+svenska (SV) (1.31 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/sv/documents/product-information/vabysmo-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.51 MB - PDF)
+Íslenska (IS) (1.52 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/is/documents/product-information/vabysmo-epar-product-information_is.pdf)
 
 norsk (NO) (1.33 MB - PDF)
 
-**First published:** 13/10/2022 **Last updated:** 03/08/2026
+**First published:** 13/10/2022 **Last updated:** 21/08/2026
 
 [View](/no/documents/product-information/vabysmo-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000312950
+**Latest procedure affecting product information:** VR/0000308736
 
-25/06/2026
+09/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -453,7 +453,7 @@ English (EN) (12.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-31)
+[Other languages (24)](#file-language-dropdown-965)
 
 български (BG) (37.55 KB - PDF)
 
@@ -639,7 +639,7 @@ Vabysmo is indicated for the treatment of adult patients with:
 - **Marketing authorisation issued**
     - 15/09/2022
 - **Revision**
-    - 9
+    - 10
 
 ## Assessment history
 
@@ -649,21 +649,21 @@ Collapse section
 
 ### Changes since initial authorisation of medicine
 
+Vabysmo : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (131.08 KB - PDF)
+
+**First published:** 19/07/2023 **Last updated:** 21/08/2026
+
+[View](/en/documents/procedural-steps-after/vabysmo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
 Vabysmo : EPAR - Procedural steps taken and scientific information after authorisation (archived)
 
 English (EN) (157.55 KB - PDF)
 
-**First published:** 13/03/2026
+**First published:** 19/07/2023 **Last updated:** 13/03/2026
 
 [View](/en/documents/procedural-steps-after/vabysmo-epar-procedural-steps-taken-scientific-information-after-authorisation-archived_en.pdf)
-
-Vabysmo : EPAR - Procedural steps taken and scientific information after authorisation
-
-English (EN) (157.07 KB - PDF)
-
-**First published:** 19/07/2023 **Last updated:** 03/08/2026
-
-[View](/en/documents/procedural-steps-after/vabysmo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Vabysmo-H-C-5642-II-0005 : EPAR - Assessment Report - Variation
 
@@ -726,6 +726,6 @@ English (EN) (127.77 KB - PDF)
 
 **This page was last updated on**
 
-03/08/2026
+21/08/2026
 
 ## Share this page

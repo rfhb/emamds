@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-03-26 11:54:09
-document_pages: 34
+document_datetime: 2026-08-20 10:27:28
+document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/samsca-epar-product-information_en.pdf
 document_name: samsca-epar-product-information_en.pdf
 version: success
-processing_time: 7.2905423
-conversion_datetime: 2025-12-18 22:32:47.773623
+processing_time: 7.0332134
+conversion_datetime: 2026-08-23 00:49:21.218374
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -46,7 +46,7 @@ Blue, rectangular, shallow-convex tablets with dimensions of 7.7 × 4.35 × 2.5 
 
 Samsca 7.5 mg tablets 'OTSUKA' and '7.5' on one side.
 
-Samsca 15 mg tablets
+## Samsca 15 mg tablets
 
 Blue, triangular, shallow-convex tablets with dimensions of 6.58 × 6.2 × 2.7 mm, debossed with 'OTSUKA' and '15' on one side.
 
@@ -276,8 +276,6 @@ The frequency of adverse reactions reported during post-marketing use cannot be 
 | Investigations                  |                                                                              | Blood urine present 1 , Alanine aminotransferase increased (see section 4.4) 1 , Aspartate aminotransferase increased (see section 4.4) 1 , Blood creatinine increased | Bilirubin increased (see section 4.4) 1 | Elevated transaminases 2 |
 | Surgical and medical procedures | Rapid correction of hyponatremia, sometimes leading to neurological symptoms |                                                                                                                                                                        |                                         |                          |
 
-1 observed in clinical trials investigating other indications
-
 - 2 from post-authorisation safety study in hyponatremia secondary to SIADH
 
 3 observed in post-marketing with tolvaptan in ADPKD. Liver transplantation was necessary.
@@ -500,6 +498,10 @@ Detailed information on this medicinal product is available on the website of th
 Name and address of the manufacturer(s) responsible for batch release
 
 Millmount Healthcare Limited Block-7, City North Business Campus, Stamullen, Co. Meath, K32 YD60 Ireland
+
+Tjoapack Netherlands B.V. Nieuwe Donk 9 Etten-Leur, 4879 AC Netherlands
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -897,7 +899,9 @@ Lot
 
 ## Package leaflet: Information for the user
 
-Samsca 7.5 mg tablets Samsca 15 mg tablets Samsca 30 mg tablets tolvaptan
+Samsca 7.5 mg tablets Samsca 15 mg tablets Samsca 30 mg tablets
+
+tolvaptan
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1070,6 +1074,7 @@ Consult your doctor if symptoms of fatigue, loss of appetite, right upper abdomi
 - tiredness, general weakness
 - fever
 - general feeling of being unwell
+- ·
 - blood in urine
 - raised levels of liver enzymes in the blood
 - raised levels of creatinine in the blood.
@@ -1106,7 +1111,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Samsca contains
 
-- •
+·
 
 The active substance is tolvaptan
 
@@ -1128,13 +1133,7 @@ Samsca 30 mg: Blue, round, shallow-convex tablets with dimensions of Ø8 × 3.0 
 
 ## Samsca 7.5 mg tablets are available as
 
-10 tablets in PP/Alu blisters
-
-30 tablets in PP/Alu blisters
-
-10 × 1 tablet in PVC/Alu perforated unit dose blisters
-
-30 × 1 tablet in PVC/Alu perforated unit dose blisters
+10 tablets in PP/Alu blisters 30 tablets in PP/Alu blisters 10 × 1 tablet in PVC/Alu perforated unit dose blisters 30 × 1 tablet in PVC/Alu perforated unit dose blisters
 
 Samsca 15 mg and Samsca 30 mg tablets are available as 10 × 1 tablet in PVC/Alu perforated unit dose blisters 30 × 1 tablet in PVC/Alu perforated unit dose blisters
 
@@ -1146,29 +1145,15 @@ Otsuka Pharmaceutical Netherlands B.V. Herikerbergweg 292 1101 CT, Amsterdam Net
 
 ## Manufacturer
 
-Millmount Healthcare Limited Block-7, City North Business Campus, Stamullen, Co. Meath, K32 YD60
+Block-7, City North Business Campus, Stamullen, Co. Meath, K32 YD60
 
-Ireland
+Millmount Healthcare Limited Ireland
+
+Tjoapack Netherlands B.V. Nieuwe Donk 9 Etten-Leur, 4879 AC Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
-
-Otsuka Pharmaceutical Netherlands B.V. Tél/Tel: +31 (0) 20 85 46 555
-
-## България
-
-Otsuka Pharmaceutical Netherlands B.V.
-
-Teл:
-
-+31 (0) 20 85 46 555
-
-## Česká republika
-
-Otsuka Pharmaceutical Netherlands B.V.
-
-Tel: +31 (0) 20 85 46 555
+België/Belgique/Belgien Otsuka Pharma Scandinavia AB Tél/Tel: +46 (0) 8 545 286 60
 
 ## Lietuva
 
@@ -1176,19 +1161,15 @@ Otsuka Pharmaceutical Netherlands B.V.
 
 Tel: +31 (0) 20 85 46 555
 
-## Luxembourg/Luxemburg
-
-Otsuka Pharmaceutical Netherlands B.V.
-
-Tel/ Tél: +31 (0) 20 85 46 555
-
-## Magyarország
-
-Otsuka Pharmaceutical Netherlands B.V.
-
-Tel: +31 (0) 20 85 46 555
-
 <div style=\"page-break-after: always\"></div>
+
+## България
+
+Otsuka Pharmaceutical Netherlands B.V. Teл: +31 (0) 20 85 46 555
+
+## Česká republika
+
+Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Danmark
 
@@ -1212,7 +1193,9 @@ Otsuka Pharmaceutical S.A Tel: +3493 2081 020
 
 ## France
 
-Otsuka Pharmaceutical France SAS Tél: +33147 080 000
+Otsuka Pharmaceutical France SAS
+
+Tél: +33147 080 000
 
 ## Hrvatska
 
@@ -1238,11 +1221,13 @@ Otsuka Pharmaceutical Netherlands B.V. Thλ: +31 (0) 20 85 46 555
 
 Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
-## This leaflet was last revised in {MM/YYYY}
+## Luxembourg/Luxemburg
 
-## Other sources of information
+Otsuka Pharma Scandinavia AB Tél/Tel: +46 (0) 8 545 286 60
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+## Magyarország
+
+Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Malta
 
@@ -1287,3 +1272,9 @@ Otsuka Pharma Scandinavia AB Tel/ Puh: +46854 528 660
 ## Sverige
 
 Otsuka Pharma Scandinavia AB Tel: +46854 528 660
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in {MM/YYYY} Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.

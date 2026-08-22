@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-05-08 11:48:11
-document_pages: 172
+document_datetime: 2026-08-20 16:47:20
+document_pages: 174
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vimpat-epar-product-information_en.pdf
 document_name: vimpat-epar-product-information_en.pdf
 version: success
-processing_time: 47.0865807
-conversion_datetime: 2025-12-19 07:19:57.883894
+processing_time: 48.880557
+conversion_datetime: 2026-08-23 00:55:34.09485
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -178,7 +178,9 @@ The dose titration in these patients should be performed with caution considerin
 
 ## Paediatric population
 
-Lacosamide is not recommended for use in children below the age of 4 years in the treatment of primary generalized tonic-clonic seizures and below the age of 2 years in the treatment of partial-onset seizures as there is limited data on safety and efficacy in these age groups, respectively.
+Lacosamide is not recommended for use in children below the age of 4 years in the treatment of primary generalized tonic-clonic seizures and below the age of 2 years in the treatment of partial-onset seizures as there is limited data on safety and efficacy in these age groups.
+
+Outside its authorised indications, lacosamide has been studied in newborns aged 0-28 days with repeated electroencephalographic neonatal seizures; however, the results from the small number of participants in the study did not allow to conclude that the benefits of such use outweigh the risks. Currently available data are described in sections 5.1 and 5.2.
 
 ## Loading dose
 
@@ -188,11 +190,11 @@ Administration of a loading dose has not been studied in children. Use of a load
 
 Lacosamide film-coated tablets are for oral use. Lacosamide may be taken with or without food.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.3 Contraindications
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-
-<div style=\"page-break-after: always\"></div>
 
 Known second- or third-degree atrioventricular (AV) block.
 
@@ -250,11 +252,9 @@ Strong enzyme inducers such as rifampicin or St John's wort (Hypericum perforatu
 
 ## Antiepileptic medicinal products
 
-In interaction studies lacosamide did not significantly affect the plasma concentrations of carbamazepine and valproic acid. Lacosamide plasma concentrations were not affected by carbamazepine and by valproic acid. Population pharmacokinetic analyses in different age groups estimated that concomitant treatment with other antiepileptic medicinal products known to be enzyme inducers (carbamazepine, phenytoin, phenobarbital, in various doses) decreased the overall systemic
+In interaction studies lacosamide did not significantly affect the plasma concentrations of carbamazepine and valproic acid. Lacosamide plasma concentrations were not affected by carbamazepine and by valproic acid. Population pharmacokinetic analyses in different age groups estimated that concomitant treatment with other antiepileptic medicinal products known to be enzyme inducers (carbamazepine, phenytoin, phenobarbital, in various doses) decreased the overall systemic exposure of lacosamide by 25 % in adults and 17 % in paediatric patients.
 
 <div style=\"page-break-after: always\"></div>
-
-exposure of lacosamide by 25 % in adults and 17 % in paediatric patients.
 
 ## Oral contraceptives
 
@@ -326,16 +326,16 @@ The table below shows the frequencies of adverse reactions which have been repor
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class              | Very common        | Common                                                                                                                                                           | Uncommon                                                                                                                  | Not known                                                           |
-|---------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
-| Blood and lymphatic disorders   |                    |                                                                                                                                                                  |                                                                                                                           | Agranulocytosis (1)                                                 |
-| Immune system disorders         |                    |                                                                                                                                                                  | Drug hypersensitivity (1)                                                                                                 | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1,2) |
-| Psychiatric disorders           |                    | Depression Confusional state Insomnia (1)                                                                                                                        | Aggression Agitation (1) Euphoric mood (1) Psychotic disorder (1) Suicide attempt (1) Suicidal ideation Hallucination (1) |                                                                     |
-| Nervous system disorders        | Dizziness Headache | Myoclonic seizures (3) Ataxia Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention | Syncope (2) Coordination abnormal Dyskinesia                                                                              | Convulsion                                                          |
-| Eye disorders Ear and labyrinth | Diplopia           | Vision blurred                                                                                                                                                   |                                                                                                                           |                                                                     |
-| Cardiac disorders               |                    | Vertigo Tinnitus                                                                                                                                                 | Atrioventricular block (1,2) Bradycardia (1,2) Atrial Fibrillation (1,2) Atrial Flutter (1,2)                             | Ventricular tachyarrhythmia (1)                                     |
-| Gastrointestinal disorders      | Nausea             | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea                                                                                                   |                                                                                                                           |                                                                     |
-| Hepatobiliary disorders         |                    |                                                                                                                                                                  | Liver function test abnormal (2) Hepatic enzyme increased (> 2x ULN) (1)                                                  |                                                                     |
+| System organ class              | Very common        | Common                                                                                                                                                                        | Uncommon                                                                                                                  | Not known                                                           |
+|---------------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| Blood and lymphatic disorders   |                    |                                                                                                                                                                               |                                                                                                                           | Agranulocytosis (1)                                                 |
+| Immune system disorders         |                    |                                                                                                                                                                               | Drug hypersensitivity (1)                                                                                                 | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1,2) |
+| Psychiatric disorders           |                    | Depression Confusional state Insomnia (1)                                                                                                                                     | Aggression Agitation (1) Euphoric mood (1) Psychotic disorder (1) Suicide attempt (1) Suicidal ideation Hallucination (1) |                                                                     |
+| Nervous system disorders        | Dizziness Headache | Myoclonic seizures (3) Ataxia Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope (2) Coordination abnormal Dyskinesia                                                                              | Convulsion                                                          |
+| Eye disorders Ear and labyrinth | Diplopia           | Vision blurred                                                                                                                                                                |                                                                                                                           |                                                                     |
+| Cardiac disorders               |                    | Vertigo Tinnitus                                                                                                                                                              | Atrioventricular block (1,2) Bradycardia (1,2) Atrial Fibrillation (1,2) Atrial Flutter (1,2)                             | Ventricular tachyarrhythmia (1)                                     |
+| Gastrointestinal disorders      | Nausea             | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea                                                                                                                |                                                                                                                           |                                                                     |
+| Hepatobiliary disorders         |                    |                                                                                                                                                                               | Liver function test abnormal (2) Hepatic enzyme increased (> 2x ULN) (1)                                                  |                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -388,8 +388,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Symptoms observed after an accidental or intentional overdose of lacosamide are primarily associated with CNS and gastrointestinal system.
 
--  The types of adverse reactions experienced by patients exposed to doses above 400 mg up to 800 mg were not clinically different from those of patients administered recommended doses of lacosamide.
--  Reactions reported after an intake of more than 800 mg are dizziness, nausea, vomiting, seizures (generalised tonic-clonic seizures, status epilepticus). Cardiac conduction disorders, shock and coma have also been observed. Fatalities have been reported in patients following an intake of acute single overdose of several grams of lacosamide.
+- The types of adverse reactions experienced by patients exposed to doses above 400 mg up to 800 mg were not clinically different from those of patients administered recommended doses of lacosamide.
+- Reactions reported after an intake of more than 800 mg are dizziness, nausea, vomiting, seizures (generalised tonic-clonic seizures, status epilepticus). Cardiac conduction disorders, shock and coma have also been observed. Fatalities have been reported in patients following an intake of acute single overdose of several grams of lacosamide.
 
 ## Management
 
@@ -405,7 +405,7 @@ Pharmacotherapeutic group: antiepileptics, other antiepileptics, ATC code: N03AX
 
 ## Mechanism of action
 
-The active substance, lacosamide (R-2-acetamido-N-benzyl-3-methoxypropionamide) is a functionalised amino acid.
+## The active substance, lacosamide (R-2-acetamido-N-benzyl-3-methoxypropionamide) is a functionalised amino acid.
 
 The precise mechanism by which lacosamide exerts its antiepileptic effect in humans remains to be fully elucidated. In vitro electrophysiological studies have shown that lacosamide selectively enhances slow inactivation of voltage-gated sodium channels, resulting in stabilization of hyperexcitable neuronal membranes.
 
@@ -465,21 +465,33 @@ Patients were titrated up to the target maintenance period dose of 12 mg/kg/day 
 |--------------------------------------|-----------------|--------------------|
 | Time to second PGTCS                 |                 |                    |
 | Median (days)                        | 77.0            | -                  |
-| 95 %CI                               | 49.0, 128.0     | -                  |
+| 95 % CI                              | 49.0, 128.0     | -                  |
 | Lacosamide - Placebo                 |                 |                    |
 | Hazard Ratio                         | 0.540           | 0.540              |
-| 95 %CI                               | 0.377, 0.774    | 0.377, 0.774       |
+| 95 % CI                              | 0.377, 0.774    | 0.377, 0.774       |
 | p-value                              | < 0.001         | < 0.001            |
 | Seizure freedom                      |                 |                    |
 | Stratified Kaplan-Meier estimate (%) | 17.2            | 31.3               |
-| 95 %CI                               | 10.4, 24.0      | 22.8, 39.9         |
+| 95 % CI                              | 10.4, 24.0      | 22.8, 39.9         |
 | Lacosamide - Placebo                 | 14.1            | 14.1               |
-| 95 %CI                               | 3.2, 25.1       | 3.2, 25.1          |
+| 95 % CI                              | 3.2, 25.1       | 3.2, 25.1          |
 | p-value                              | 0.011           | 0.011              |
 
 Note: For the lacosamide group, the median time to second PGTCS could not be estimated by KaplanMeier methods because ˃ 50% of patients did not experience a second PGTCS by Day 166.
 
 The findings in the paediatric subgroup were consistent with the results of the overall population for the primary, secondary and other efficacy endpoints.
+
+## Acute treatment of newborns with repeated electroencephalographic neonatal seizures
+
+The efficacy of lacosamide as adjunctive therapy in the acute treatment of newborns (0-28 days) with repeated electroencephalographic neonatal seizures was evaluated in an open-label active comparator study. The primary endpoint was the reduction in seizure burden measured in the evaluation videoEEG compared with the baseline video-EEG.
+
+Twenty-nine patients were randomized 1:1 to receive either lacosamide or an active comparator selected and dosed based on local standard of care; 26 patients were treated with at least one dose of study drug, 14 participants in the lacosamide group and 12 participants in the active comparator group. Neonates in the lacosamide group received a dose of 15 mg/kg/day, administered in three divided doses (5mg/kg tid without titration) via 30-minute IV infusions.
+
+The mean (SD) duration of IV lacosamide exposure was 5.9 (2.6) days. During the evaluation period (1 - 3 hours after first dose), study participants randomized to lacosamide and active comparator displayed responder rates of 9 out of 15 and 6 out of 9, respectively. The mean (SD) absolute reduction in seizure burden was 6.64 (6.55) mins/h in the lacosamide group (N=15) and 2.45 (14.83) mins/h in the active comparator group (N=9).
+
+<div style=\"page-break-after: always\"></div>
+
+The relevance of the efficacy results was limited by the small number of enrolled study participants. Overall, 14 study participants (53.8%) reported 42 TEAEs: 9 participants (64.3%) in the lacosamide group (21 TEAEs) and 5 participants (41.7%) in the active comparator group (21 TEAEs). No major differences in the frequencies of most TEAEs were observed between the two groups. No new safety concerns were identified, although the interpretation of the safety data is limited by the small sample size.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -493,11 +505,7 @@ The volume of distribution is approximately 0.6 L/kg. Lacosamide is less than 15
 
 ## Biotransformation
 
-95 % of the dose is excreted in the urine as lacosamide and metabolites. The metabolism of
-
-<div style=\"page-break-after: always\"></div>
-
-lacosamide has not been completely characterised.
+95 % of the dose is excreted in the urine as lacosamide and metabolites. The metabolism of lacosamide has not been completely characterised.
 
 The major compounds excreted in urine are unchanged lacosamide (approximately 40 % of the dose) and its O-desmethyl metabolite less than 30 %.
 
@@ -513,6 +521,8 @@ A single loading dose of 200 mg approximates steady-state concentrations compara
 
 ## Pharmacokinetics in special patient groups
 
+<div style=\"page-break-after: always\"></div>
+
 ## Gender
 
 Clinical studies indicate that gender does not have a clinically significant influence on the plasma concentrations of lacosamide.
@@ -527,8 +537,6 @@ Lacosamide is effectively removed from plasma by haemodialysis. Following a 4-ho
 
 Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma concentrations of lacosamide (approximately 50 % higher AUCnorm). The higher exposure was partly due to a reduced renal function in the studied subjects. The decrease in non-renal clearance in the patients of the study was estimated to give a 20 % increase in the AUC of lacosamide. The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impairment (see section 4.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Elderly (over 65 years of age)
 
 In a study in elderly men and women including 4 patients &gt; 75 years of age, AUC was about 30 and 50 % increased compared to young men, respectively. This is partly related to lower body weight. The body weight normalized difference is 26 and 23 %, respectively. An increased variability in exposure was also observed. The renal clearance of lacosamide was only slightly reduced in elderly subjects in this study.
@@ -541,11 +549,13 @@ The paediatric pharmacokinetic profile of lacosamide was determined in a populat
 
 The typical plasma clearance was estimated to be 0.46 L/h, 0.81 L/h, 1.03 L/h and 1.34 L/h for paediatric patients weighing 10 kg, 20 kg, 30 kg and 50 kg respectively. In comparison, plasma clearance was estimated at 1.74 L/h in adults (70 kg body weight).
 
-Population pharmacokinetic analysis using sparse pharmacokinetic samples from PGTCS study showed a similar exposure in patients with PGTCS and in patients with partial-onset seizures.
+Population pharmacokinetic analysis using sparse pharmacokinetic samples from PGTCS study showed a similar exposure in patients with PGTCS and in patients with partial-onset seizures. In a study in newborns treated with lacosamide administered intravenously as 5 mg/kg three times a day, the average steady state exposure appeared to be higher but the range partly overlapped with the exposure in adults receiving lacosamide administered orally as 200 mg twice a day.
 
 ## 5.3 Preclinical safety data
 
 In the toxicity studies, the plasma concentrations of lacosamide obtained were similar or only marginally higher than those observed in patients, which leaves low or non-existing margins to human exposure.
+
+<div style=\"page-break-after: always\"></div>
 
 A safety pharmacology study with intravenous administration of lacosamide in anesthetised dogs showed transient increases in PR interval and QRS complex duration and decreases in blood pressure most likely due to a cardiodepressant action. These transient changes started in the same concentration range as after maximum recommended clinical dosing. In anesthetised dogs and Cynomolgus monkeys, at intravenous doses of 15-60 mg/kg, slowing of atrial and ventricular conductivity, atrioventricular block and atrioventricular dissociation were seen.
 
@@ -554,8 +564,6 @@ In the repeated dose toxicity studies, mild reversible liver changes were observ
 In reproductive and developmental toxicity studies in rodents and rabbits, no teratogenic effects but an increase in numbers of stillborn pups and pup deaths in the peripartum period, and slightly reduced live litter sizes and pup body weights were observed at maternal toxic doses in rats corresponding to systemic exposure levels similar to the expected clinical exposure. Since higher exposure levels could not be tested in animals due to maternal toxicity, data are insufficient to fully characterise the embryofetotoxic and teratogenic potential of lacosamide.
 
 Studies in rats revealed that lacosamide and/or its metabolites readily crossed the placental barrier. In juvenile rats and dogs, the types of toxicity do not differ qualitatively from those observed in adult animals. In juvenile rats, a reduced body weight was observed at systemic exposure levels similar to the expected clinical exposure. In juvenile dogs, transient and dose-related CNS clinical signs started to be observed at systemic exposure levels below the expected clinical exposure.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -569,13 +577,15 @@ microcrystalline cellulose hydroxypropylcellulose hydroxypropylcellulose (low su
 
 ## Vimpat 50 mg film-coated tablets
 
-polyvinyl alcohol polyethylene glycol 3350 talc titanium dioxide (E171) red iron oxide (E172) black iron oxide (E172)
-
-indigo carmine aluminium lake (E132)
+polyvinyl alcohol polyethylene glycol 3350 talc titanium dioxide (E171) red iron oxide (E172) black iron oxide (E172) indigo carmine aluminium lake (E132)
 
 ## Vimpat 100 mg film-coated tablets
 
-polyvinyl alcohol polyethylene glycol 3350 talc titanium dioxide (E171) yellow iron oxide (E172)
+polyvinyl alcohol polyethylene glycol 3350 talc titanium dioxide (E171)
+
+<div style=\"page-break-after: always\"></div>
+
+yellow iron oxide (E172)
 
 ## Vimpat 150 mg film-coated tablets
 
@@ -589,9 +599,7 @@ indigo carmine aluminium lake (E132)
 
 ## 6.2 Incompatibilities
 
-## Not applicable.
-
-<div style=\"page-break-after: always\"></div>
+Not applicable.
 
 ## 6.3 Shelf life
 
@@ -623,6 +631,8 @@ Packs of 14 x 1 and 56 x 1 film-coated tablets in PVC/PVDC perforated unit dose 
 
 Packs of 60 film-coated tablets in HDPE bottle with a child-resistant closure.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Vimpat 200 mg film-coated tablets
 
 Packs of 14, 28 and 56 film-coated tablets in PVC/PVDC blister sealed with an aluminium foil. Multipacks containing 168 (3 packs of 56 tablets) film-coated tablets in PVC/PVDC blister sealed with an aluminium foil.
@@ -637,8 +647,6 @@ Not all pack sizes may be marketed.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 7. MARKETING AUTHORISATION HOLDER
 
 UCB Pharma S.A. Allée de la Recherche 60 B-1070 Bruxelles Belgium
@@ -648,6 +656,8 @@ UCB Pharma S.A. Allée de la Recherche 60 B-1070 Bruxelles Belgium
 ```
 EU/1/08/470/001 EU/1/08/470/002 EU/1/08/470/003 EU/1/08/470/004 EU/1/08/470/005 EU/1/08/470/006 EU/1/08/470/007 EU/1/08/470/008 EU/1/08/470/009 EU/1/08/470/010 EU/1/08/470/011 EU/1/08/470/012 EU/1/08/470/020 EU/1/08/470/021 EU/1/08/470/022 EU/1/08/470/023 EU/1/08/470/024 EU/1/08/470/025 EU/1/08/470/026 EU/1/08/470/027 EU/1/08/470/028 EU/1/08/470/029 EU/1/08/470/030 EU/1/08/470/031 EU/1/08/470/032 EU/1/08/470/033 EU/1/08/470/034 EU/1/08/470/035
 ```
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -659,13 +669,13 @@ Date of latest renewal: 31 July 2013
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
+22
+
 <div style=\"page-break-after: always\"></div>
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Treatment initiation pack (in adolescents and children weighing 50 kg or more and adults only)
-
-Vimpat 50 mg film-coated tablets
+Treatment initiation pack (in adolescents and children weighing 50 kg or more and adults only) Vimpat 50 mg film-coated tablets
 
 Vimpat 100 mg film-coated tablets
 
@@ -697,7 +707,7 @@ For the full list of excipients, see section 6.1.
 
 Film-coated tablet
 
-## Vimpat 50 mg film-coated tablets
+Vimpat 50 mg film-coated tablets
 
 Pinkish, oval film-coated tablets with approximate dimensions of 10.4 mm x 4.9 mm, and debossed with 'SP' on one side and '50' on the other side.
 
@@ -705,11 +715,11 @@ Pinkish, oval film-coated tablets with approximate dimensions of 10.4 mm x 4.9 m
 
 Dark yellow, oval film-coated tablets with approximate dimensions of 13.2 mm x 6.1 mm, and debossed with 'SP' on one side and '100' on the other side.
 
-## Vimpat 150 mg film-coated tablets
+Vimpat 150 mg film-coated tablets
 
 Salmon, oval film-coated tablets with approximate dimensions of 15.1 mm x 7.0 mm, and debossed with 'SP' on one side and '150' on the other side.
 
-## Vimpat 200 mg film-coated tablets
+Vimpat 200 mg film-coated tablets
 
 Blue, oval film-coated tablets with approximate dimensions of 16.6 mm x 7.8 mm, and debossed with 'SP' on one side and '200' on the other side.
 
@@ -738,7 +748,7 @@ If a dose is missed, the patient should be instructed to take the missed dose im
 
 ## Adolescents and children weighing 50 kg or more, and adults
 
-Monotherapy (in the treatment of partial-onset seizures)
+## Monotherapy (in the treatment of partial-onset seizures)
 
 The recommended starting dose is 50 mg twice a day (100 mg/day) which should be increased to an initial therapeutic dose of 100 mg twice a day (200 mg/day) after one week.
 
@@ -756,7 +766,9 @@ Depending on response and tolerability, the maintenance dose can be further incr
 
 Vimpat treatment initiation pack contains 4 different packages (one for each tablet strength) with 14 tablets each, for the first 2 to 4 weeks of therapy depending on the patient's response and tolerability. The packages are marked with 'week 1 (2, 3 or 4)'.
 
-On the first day of treatment the patient starts with Vimpat 50 mg tablets twice a day (100 mg/day). During the second week, the patient takes Vimpat 100 mg tablets twice a day (200 mg/day).
+On the first day of treatment the patient starts with Vimpat 50 mg tablets twice a day (100 mg/day).
+
+During the second week, the patient takes Vimpat 100 mg tablets twice a day (200 mg/day).
 
 Depending on response and tolerability, Vimpat 150 mg tablets may be taken twice a day (300 mg/day) during the third week and Vimpat 200 mg tablets twice a day (400 mg/day) during the fourth week.
 
@@ -796,9 +808,11 @@ This presentation is not suitable for this category of patients.
 
 ## Children less than 2 years of age
 
-The safety and efficacy of lacosamide in children aged below 2 years have not yet been established. No data are available.
+Lacosamide is not recommended for use in children below the age of 4 years in the treatment of primary generalized tonic-clonic seizures and below the age of 2 years in the treatment of partial-onset seizures as there is limited data on safety and efficacy in these age groups.
 
 <div style=\"page-break-after: always\"></div>
+
+Outside its authorised indications, lacosamide has been studied in newborns aged 0-28 days with repeated electroencephalographic neonatal seizures; however, the results from the small number of participants in the study did not allow to conclude that the benefits of such use outweigh the risks. Currently available data are described in sections 5.1 and 5.2.
 
 ## Method of administration
 
@@ -832,9 +846,9 @@ Patients should be made aware of the symptoms of cardiac arrhythmia (e.g. slow, 
 
 ## Dizziness
 
-Treatment with lacosamide has been associated with dizziness which could increase the occurrence of accidental injury or falls. Therefore, patients should be advised to exercise caution until they are familiar with the potential effects of the medicine (see section 4.8).
-
 <div style=\"page-break-after: always\"></div>
+
+Treatment with lacosamide has been associated with dizziness which could increase the occurrence of accidental injury or falls. Therefore, patients should be advised to exercise caution until they are familiar with the potential effects of the medicine (see section 4.8).
 
 ## Potential for new onset or worsening of myoclonic seizures
 
@@ -864,11 +878,9 @@ Strong enzyme inducers such as rifampicin or St. John's wort (Hypericum perforat
 
 ## Antiepileptic medicinal products
 
-In interaction studies lacosamide did not significantly affect the plasma concentrations of carbamazepine and valproic acid. Lacosamide plasma concentrations were not affected by carbamazepine and by valproic acid. Population pharmacokinetic analyses in different age groups estimated that concomitant treatment with other antiepileptic medicinal products known to be enzyme inducers (carbamazepine, phenytoin, phenobarbital, in various doses) decreased the overall systemic
+In interaction studies lacosamide did not significantly affect the plasma concentrations of carbamazepine and valproic acid. Lacosamide plasma concentrations were not affected by carbamazepine and by valproic acid. Population pharmacokinetic analyses in different age groups estimated that concomitant treatment with other antiepileptic medicinal products known to be enzyme inducers (carbamazepine, phenytoin, phenobarbital, in various doses) decreased the overall systemic exposure of lacosamide by 25 % in adults and 17 % in paediatric patients.
 
 <div style=\"page-break-after: always\"></div>
-
-exposure of lacosamide by 25 % in adults and 17 % in paediatric patients.
 
 ## Oral contraceptives
 
@@ -940,16 +952,16 @@ The table below shows the frequencies of adverse reactions which have been repor
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class              | Very common        | Common                                                                                                                                                           | Uncommon                                                                                                                  | Not known                                                           |
-|---------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
-| Blood and lymphatic disorders   |                    |                                                                                                                                                                  |                                                                                                                           | Agranulocytosis (1)                                                 |
-| Immune system disorders         |                    |                                                                                                                                                                  | Drug hypersensitivity (1)                                                                                                 | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1,2) |
-| Psychiatric disorders           |                    | Depression Confusional state Insomnia (1)                                                                                                                        | Aggression Agitation (1) Euphoric mood (1) Psychotic disorder (1) Suicide attempt (1) Suicidal ideation Hallucination (1) |                                                                     |
-| Nervous system disorders        | Dizziness Headache | Myoclonic seizures (3) Ataxia Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention | Syncope (2) Coordination abnormal Dyskinesia                                                                              | Convulsion                                                          |
-| Eye disorders Ear and labyrinth | Diplopia           | Vision blurred                                                                                                                                                   |                                                                                                                           |                                                                     |
-| Cardiac disorders               |                    | Vertigo Tinnitus                                                                                                                                                 | Atrioventricular block (1,2) Bradycardia (1,2) Atrial Fibrillation (1,2) Atrial Flutter (1,2)                             | Ventricular tachyarrhythmia (1)                                     |
-| Gastrointestinal disorders      | Nausea             | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea                                                                                                   |                                                                                                                           |                                                                     |
-| Hepatobiliary disorders         |                    |                                                                                                                                                                  | Liver function test abnormal (2) Hepatic enzyme increased (> 2x ULN) (1)                                                  |                                                                     |
+| System organ class              | Very common        | Common                                                                                                                                                                        | Uncommon                                                                                                                  | Not known                                                           |
+|---------------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| Blood and lymphatic disorders   |                    |                                                                                                                                                                               |                                                                                                                           | Agranulocytosis (1)                                                 |
+| Immune system disorders         |                    |                                                                                                                                                                               | Drug hypersensitivity (1)                                                                                                 | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1,2) |
+| Psychiatric disorders           |                    | Depression Confusional state Insomnia (1)                                                                                                                                     | Aggression Agitation (1) Euphoric mood (1) Psychotic disorder (1) Suicide attempt (1) Suicidal ideation Hallucination (1) |                                                                     |
+| Nervous system disorders        | Dizziness Headache | Myoclonic seizures (3) Ataxia Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope (2) Coordination abnormal Dyskinesia                                                                              | Convulsion                                                          |
+| Eye disorders Ear and labyrinth | Diplopia           | Vision blurred                                                                                                                                                                |                                                                                                                           |                                                                     |
+| Cardiac disorders               |                    | Vertigo Tinnitus                                                                                                                                                              | Atrioventricular block (1,2) Bradycardia (1,2) Atrial Fibrillation (1,2) Atrial Flutter (1,2)                             | Ventricular tachyarrhythmia (1)                                     |
+| Gastrointestinal disorders      | Nausea             | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea                                                                                                                |                                                                                                                           |                                                                     |
+| Hepatobiliary disorders         |                    |                                                                                                                                                                               | Liver function test abnormal (2) Hepatic enzyme increased (> 2x ULN) (1)                                                  |                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1002,8 +1014,8 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Symptoms observed after an accidental or intentional overdose of lacosamide are primarily associated with CNS and gastrointestinal system.
 
--  The types of adverse reactions experienced by patients exposed to doses above 400 mg up to 800 mg were not clinically different from those of patients administered recommended doses of lacosamide.
--  Reactions reported after an intake of more than 800 mg are dizziness, nausea, vomiting, seizures (generalised tonic-clonic seizures, status epilepticus). Cardiac conduction disorders, shock and coma have also been observed. Fatalities have been reported in patients following an intake of acute single overdose of several grams of lacosamide.
+- The types of adverse reactions experienced by patients exposed to doses above 400 mg up to 800 mg were not clinically different from those of patients administered recommended doses of lacosamide.
+- Reactions reported after an intake of more than 800 mg are dizziness, nausea, vomiting, seizures (generalised tonic-clonic seizures, status epilepticus). Cardiac conduction disorders, shock and coma have also been observed. Fatalities have been reported in patients following an intake of acute single overdose of several grams of lacosamide.
 
 ## Management
 
@@ -1031,7 +1043,9 @@ Lacosamide protected against seizures in a broad range of animal models of parti
 
 In non-clinical experiments lacosamide in combination with levetiracetam, carbamazepine, phenytoin, valproate, lamotrigine, topiramate or gabapentin showed synergistic or additive anticonvulsant effects.
 
-## Clinical efficacy and safety (partial-onset seizures) Adult population
+## Clinical efficacy and safety (partial-onset seizures)
+
+## Adult population
 
 ## Monotherapy
 
@@ -1069,11 +1083,9 @@ The quality of life assessed by the Pediatric Quality of Life Inventory indicate
 
 ## Clinical efficacy and safety (primary generalized tonic-clonic seizures)
 
-The efficacy of lacosamide as adjunctive therapy in patients 4 years of age and older with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic seizures (PGTCS) was established in a 24-week double-blind, randomized, placebo-controlled, parallel-group, multi-center clinical study. The study consisted of a 12-week historical baseline period, a 4-week prospective baseline period and
+The efficacy of lacosamide as adjunctive therapy in patients 4 years of age and older with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic seizures (PGTCS) was established in a 24-week double-blind, randomized, placebo-controlled, parallel-group, multi-center clinical study. The study consisted of a 12-week historical baseline period, a 4-week prospective baseline period and a 24-week treatment period (which included a 6-week titration period and an 18-week maintenance period). Eligible patients on a stable dose of 1 to 3 antiepileptic drugs experiencing at least 3 documented PGTCS during the 16-week combined baseline period were randomized 1 to 1 to receive lacosamide or placebo (patients in the full analysis set: lacosamide n=118, placebo n=121; of them 8 patients in the ≥ 4 to &lt; 12 years age group and 16 patients in the ≥ 12 to &lt; 18 years range were treated with lacosamide and 9 and 16 patients, respectively with placebo).
 
 <div style=\"page-break-after: always\"></div>
-
-a 24-week treatment period (which included a 6-week titration period and an 18-week maintenance period). Eligible patients on a stable dose of 1 to 3 antiepileptic drugs experiencing at least 3 documented PGTCS during the 16-week combined baseline period were randomized 1 to 1 to receive lacosamide or placebo (patients in the full analysis set: lacosamide n=118, placebo n=121; of them 8 patients in the ≥ 4 to &lt; 12 years age group and 16 patients in the ≥ 12 to &lt; 18 years range were treated with lacosamide and 9 and 16 patients, respectively with placebo).
 
 Patients were titrated up to the target maintenance period dose of 12 mg/kg/day in patients weighing less than 30 kg, 8 mg/kg/day in patients weighing from 30 to less than 50 kg or 400 mg/day in patients weighing 50 kg or more.
 
@@ -1081,21 +1093,33 @@ Patients were titrated up to the target maintenance period dose of 12 mg/kg/day 
 |--------------------------------------|-----------------|--------------------|
 | Time to second PGTCS                 |                 |                    |
 | Median (days)                        | 77.0            | -                  |
-| 95 %CI                               | 49.0, 128.0     | -                  |
+| 95 % CI                              | 49.0, 128.0     | -                  |
 | Lacosamide - Placebo                 |                 |                    |
 | Hazard Ratio                         | 0.540           | 0.540              |
-| 95 %CI                               | 0.377, 0.774    | 0.377, 0.774       |
+| 95 % CI                              | 0.377, 0.774    | 0.377, 0.774       |
 | p-value                              | < 0.001         | < 0.001            |
 | Seizure freedom                      |                 |                    |
 | Stratified Kaplan-Meier estimate (%) | 17.2            | 31.3               |
-| 95 %CI                               | 10.4, 24.0      | 22.8, 39.9         |
+| 95 % CI                              | 10.4, 24.0      | 22.8, 39.9         |
 | Lacosamide - Placebo                 | 14.1            | 14.1               |
-| 95 %CI                               | 3.2, 25.1       | 3.2, 25.1          |
+| 95 % CI                              | 3.2, 25.1       | 3.2, 25.1          |
 | p-value                              | 0.011           | 0.011              |
 
 Note: For the lacosamide group, the median time to second PGTCS could not be estimated by KaplanMeier methods because ˃ 50% of patients did not experience a second PGTCS by Day 166.
 
 The findings in the paediatric subgroup were consistent with the results of the overall population for the primary, secondary and other efficacy endpoints.
+
+## Acute treatment of newborns with repeated electroencephalographic neonatal seizures
+
+The efficacy of lacosamide as adjunctive therapy in the acute treatment of newborns (0-28 days) with repeated electroencephalographic neonatal seizures was evaluated in an open-label active comparator study. The primary endpoint was the reduction in seizure burden measured in the evaluation videoEEG compared with the baseline video-EEG.
+
+Twenty-nine patients were randomized 1:1 to receive either lacosamide or an active comparator selected and dosed based on local standard of care; 26 patients were treated with at least one dose of study drug, 14 participants in the lacosamide group and 12 participants in the active comparator group. Neonates in the lacosamide group received a dose of 15 mg/kg/day, administered in three divided doses (5mg/kg tid without titration) via 30-minute IV infusions.
+
+The mean (SD) duration of IV lacosamide exposure was 5.9 (2.6) days. During the evaluation period (1 - 3 hours after first dose), study participants randomized to lacosamide and active comparator displayed responder rates of 9 out of 15 and 6 out of 9, respectively. The mean (SD) absolute reduction in seizure burden was 6.64 (6.55) mins/h in the lacosamide group (N=15) and 2.45 (14.83) mins/h in the active comparator group (N=9).
+
+The relevance of the efficacy results was limited by the small number of enrolled study participants. Overall, 14 study participants (53.8%) reported 42 TEAEs: 9 participants (64.3%) in the lacosamide group (21 TEAEs) and 5 participants (41.7%) in the active comparator group (21 TEAEs). No major differences in the frequencies of most TEAEs were observed between the two groups. No new safety concerns were identified, although the interpretation of the safety data is limited by the small sample size.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -1115,8 +1139,6 @@ The major compounds excreted in urine are unchanged lacosamide (approximately 40
 
 A polar fraction proposed to be serine derivatives accounted for approximately 20 % in urine, but was detected only in small amounts (0-2 %) in human plasma of some subjects. Small amounts (0.5-2 %) of additional metabolites were found in the urine.
 
-<div style=\"page-break-after: always\"></div>
-
 In vitro data show that CYP2C9, CYP2C19 and CYP3A4 are capable of catalysing the formation of the O-desmethyl metabolite but the main contributing isoenzyme has not been confirmed in vivo . No clinically relevant difference in lacosamide exposure was observed comparing its pharmacokinetics in extensive metabolisers (EMs, with a functional CYP2C19) and poor metabolisers (PMs, lacking a functional CYP2C19). Furthermore an interaction study with omeprazole (CYP2C19-inhibitor) demonstrated no clinically relevant changes in lacosamide plasma concentrations indicating that the importance of this pathway is minor. The plasma concentration of O-desmethyl-lacosamide is approximately 15 % of the concentration of lacosamide in plasma. This major metabolite has no known pharmacological activity.
 
 ## Elimination
@@ -1135,6 +1157,8 @@ The AUC of lacosamide was increased by approximately 30 % in mildly and moderate
 
 Lacosamide is effectively removed from plasma by haemodialysis. Following a 4-hour haemodialysis treatment, AUC of lacosamide is reduced by approximately 50 %. Therefore, dosage supplementation following haemodialysis is recommended (see section 4.2). The exposure of the O-desmethyl metabolite was several-fold increased in patients with moderate and severe renal impairment. In absence of haemodialysis in patients with end-stage renal disease, the levels were increased and continuously rising during the 24-hour sampling. It is unknown whether the increased metabolite exposure in end-stage renal disease subjects could give rise to adverse effects but no pharmacological activity of the metabolite has been identified.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hepatic impairment
 
 Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma concentrations of lacosamide (approximately 50 % higher AUCnorm). The higher exposure was partly due to a reduced renal function in the studied subjects. The decrease in non-renal clearance in the patients of the study was estimated to give a 20 % increase in the AUC of lacosamide. The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impairment (see section 4.2).
@@ -1145,15 +1169,13 @@ In a study in elderly men and women including 4 patients &gt; 75 years of age, A
 
 A general dose reduction is not considered to be necessary unless indicated due to reduced renal function (see section 4.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Paediatric population
 
 The paediatric pharmacokinetic profile of lacosamide was determined in a population pharmacokinetic analysis using sparse plasma concentration data obtained in six placebo-controlled randomised clinical studies and five open-label studies in 1655 adult and paediatric patients with epilepsy aged 1 month to 17 years. Three of these studies were performed in adults, 7 in pediatric patients, and 1 in a mixed population. The administered lacosamide doses ranged from 2 to 17.8 mg/kg/day in twice daily intake, not to exceed 600 mg/day.
 
 The typical plasma clearance was estimated to be 0.46 L/h, 0.81 L/h, 1.03 L/h and 1.34 L/h for paediatric patients weighing 10 kg, 20 kg, 30 kg and 50 kg respectively. In comparison, plasma clearance was estimated at 1.74 L/h in adults (70 kg body weight).
 
-Population pharmacokinetic analysis using sparse pharmacokinetic samples from PGTCS study showed a similar exposure in patients with PGTCS and in patients with partial-onset seizures.
+Population pharmacokinetic analysis using sparse pharmacokinetic samples from PGTCS study showed a similar exposure in patients with PGTCS and in patients with partial-onset seizures. In a study in newborns treated with lacosamide administered intravenously as 5 mg/kg three times a day, the average steady state exposure appeared to be higher but the range partly overlapped with the exposure in adults receiving lacosamide administered orally as 200 mg twice a day.
 
 ## 5.3 Preclinical safety data
 
@@ -1162,6 +1184,8 @@ In the toxicity studies, the plasma concentrations of lacosamide obtained were s
 A safety pharmacology study with intravenous administration of lacosamide in anesthetised dogs showed transient increases in PR interval and QRS complex duration and decreases in blood pressure most likely due to a cardiodepressant action. These transient changes started in the same concentration range as after maximum recommended clinical dosing. In anesthetised dogs and Cynomolgus monkeys, at intravenous doses of 15-60 mg/kg, slowing of atrial and ventricular conductivity, atrioventricular block and atrioventricular dissociation were seen.
 
 In the repeated dose toxicity studies, mild reversible liver changes were observed in rats starting at about 3 times the clinical exposure. These changes included an increased organ weight, hypertrophy of hepatocytes, increases in serum concentrations of liver enzymes and increases in total cholesterol and triglycerides. Apart from the hypertrophy of hepatocytes, no other histopathologic changes were observed.
+
+<div style=\"page-break-after: always\"></div>
 
 In reproductive and developmental toxicity studies in rodents and rabbits, no teratogenic effects but an increase in numbers of stillborn pups and pup deaths in the peripartum period, and slightly reduced live litter sizes and pup body weights were observed at maternal toxic doses in rats corresponding to systemic exposure levels similar to the expected clinical exposure. Since higher exposure levels could not be tested in animals due to maternal toxicity, data are insufficient to fully characterise the embryofetotoxic and teratogenic potential of lacosamide.
 
@@ -1175,29 +1199,17 @@ Studies in rats revealed that lacosamide and/or its metabolites readily crossed 
 
 microcrystalline cellulose hydroxypropylcellulose hydroxypropylcellulose (low substituted) silica, colloidal, anhydrous crospovidone (polyplasdone XL-10 Pharmaceutical Grade) magnesium stearate
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tablet coat
 
 polyvinyl alcohol polyethylene glycol 3350 talc titanium dioxide (E171)
 
 Vimpat 50 mg film-coated tablets : red iron oxide (E172), black iron oxide (E172), indigo carmine aluminium lake (E132)
 
-Vimpat 100 mg film-coated tablets
+Vimpat 100 mg film-coated tablets : yellow iron oxide (E172)
 
-: yellow iron oxide (E172)
+Vimpat 150 mg film-coated tablets : yellow iron oxide (E172), red iron oxide (E172), black iron oxide (E172)
 
-Vimpat 150 mg film-coated tablets
-
-: yellow iron oxide (E172), red iron oxide (E172), black iron oxide
-
-(E172)
-
-Vimpat 200 mg film-coated tablets
-
-:
-
-indigo carmine aluminium lake (E132)
+Vimpat 200 mg film-coated tablets : indigo carmine aluminium lake (E132)
 
 ## 6.2 Incompatibilities
 
@@ -1210,6 +1222,8 @@ Not applicable.
 ## 6.4 Special precautions for storage
 
 This medicinal product does not require any special storage conditions.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.5 Nature and contents of container
 
@@ -1229,8 +1243,6 @@ UCB Pharma S.A. Allée de la Recherche 60 B-1070 Bruxelles Belgium
 
 EU/1/08/470/013
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 29 August 2008
@@ -1241,7 +1253,7 @@ Date of latest renewal: 31 July 2013
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-38
+39
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1306,7 +1318,7 @@ If a dose is missed, the patient should be instructed to take the missed dose im
 |-------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Starting dose                                                           | Titration (incremental steps)                                           | Maximum recommended dose                                                                                                                                                                                                                         |
 | Monotherapy and Adjunctive therapy: 1 mg/kg twice a day (2 mg/kg/day)   | 1 mg/kg twice a day (2 mg/kg/day) at weekly intervals                   | Monotherapy: - up to 6 mg/kg twice a day (12 mg/kg/day) in patients ≥ 10 kg to < 40 kg - up to 5 mg/kg twice a day (10 mg/kg/day) in patients ≥ 40 kg to < 50 kg                                                                                 |
-| Monotherapy and Adjunctive therapy: 1 mg/kg twice a day (2 mg/kg/day)   |                                                                         | Adjunctive therapy: - up to 6 mg/kg twice a day (12 mg/kg/day) in patients ≥ 10 kg to < 20 kg - up to 5 mg/kg twice a day (10 mg/kg/day) in patients ≥ 20 kg to < 30 kg - up to 4 mg/kg twice a day (8 mg/kg/day) in patients ≥ 30 kg to < 50 kg |
+| Monotherapy and Adjunctive therapy: 1 mg/kg twice a day (2 mg/kg/day)   | 1 mg/kg twice a day (2 mg/kg/day) at weekly intervals                   | Adjunctive therapy: - up to 6 mg/kg twice a day (12 mg/kg/day) in patients ≥ 10 kg to < 20 kg - up to 5 mg/kg twice a day (10 mg/kg/day) in patients ≥ 20 kg to < 30 kg - up to 4 mg/kg twice a day (8 mg/kg/day) in patients ≥ 30 kg to < 50 kg |
 
 ## Adolescents and children weighing 50 kg or more, and adults
 
@@ -1380,7 +1392,7 @@ Depending on response and tolerability, the maintenance dose can be further incr
 
 The tables below provide examples of volumes of syrup per intake depending on prescribed dose and body weight. The precise volume of syrup is to be calculated according to the exact body weight of the child. The calculated volume should be rounded to the nearest measuring device graduated increment. If the calculated volume is equidistant between two graduated increments, the larger graduated increment should be used.
 
-Adjunctive therapy doses to be taken twice a day for children from 2 years weighing from 10 kg to less than 20 kg
+## Adjunctive therapy doses to be taken twice a day for children from 2 years weighing from 10 kg to less than 20 kg
 
 | Week                | Week 1                            | Week 2                                          | Week 3                                          | Week 4                                          | Week 5                                          | Week 6                                          |
 |---------------------|-----------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
@@ -1424,11 +1436,9 @@ Adjunctive therapy doses to be taken twice a day for children and adolescents we
 
 Initiation of lacosamide treatment with a loading dose (initial monotherapy or conversion to monotherapy in the treatment of partial-onset seizures or adjunctive therapy in the treatment of partial-onset seizures or adjunctive therapy in the treatment of primary generalised tonic-clonic seizures)
 
-In adolescents and children weighing 50 kg or more, and adults, lacosamide treatment may also be initiated with a single loading dose of 200 mg, followed approximately 12 hours later by a 100 mg twice a day (200 mg/day) maintenance dose regimen. Subsequent dose adjustments should be performed according to individual response and tolerability as described above. A loading dose may be initiated in patients in situations when the physician determines that rapid attainment of lacosamide steady state plasma concentration and therapeutic effect is warranted. It should be administered under medical supervision with consideration of the potential for increased incidence of serious cardiac
+In adolescents and children weighing 50 kg or more, and adults, lacosamide treatment may also be initiated with a single loading dose of 200 mg, followed approximately 12 hours later by a 100 mg twice a day (200 mg/day) maintenance dose regimen. Subsequent dose adjustments should be performed according to individual response and tolerability as described above. A loading dose may be initiated in patients in situations when the physician determines that rapid attainment of lacosamide steady state plasma concentration and therapeutic effect is warranted. It should be administered under medical supervision with consideration of the potential for increased incidence of serious cardiac arrhythmia and central nervous system adverse reactions (see section 4.8). Administration of a loading dose has not been studied in acute conditions such as status epilepticus.
 
 <div style=\"page-break-after: always\"></div>
-
-arrhythmia and central nervous system adverse reactions (see section 4.8). Administration of a loading dose has not been studied in acute conditions such as status epilepticus.
 
 ## Discontinuation
 
@@ -1455,6 +1465,8 @@ The dose titration in these patients should be performed with caution considerin
 ## Paediatric population
 
 Lacosamide is not recommended for use in children below the age of 4 years in the treatment of primary generalized tonic-clonic seizures and below the age of 2 years in the treatment of partial-onset seizures as there is limited data on safety and efficacy in these age groups.
+
+Outside its authorised indications, lacosamide has been studied in newborns aged 0-28 days with repeated electroencephalographic neonatal seizures; however, the results from the small number of participants in the study did not allow to conclude that the benefits of such use outweigh the risks. Currently available data are described in sections 5.1 and 5.2.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1501,11 +1513,11 @@ Therefore, patients should be monitored for signs of suicidal ideation and behav
 
 ## Cardiac rhythm and conduction
 
-Dose-related prolongations in PR interval with lacosamide have been observed in clinical studies. Lacosamide should be used with caution in patients with underlying proarrhythmic conditions such as patients with known cardiac conduction problems or severe cardiac disease (e.g. myocardial ischaemia/infarction, heart failure, structural heart disease or cardiac sodium channelopathies) or
+Dose-related prolongations in PR interval with lacosamide have been observed in clinical studies.
 
 <div style=\"page-break-after: always\"></div>
 
-patients treated with medicinal products affecting cardiac conduction, including antiarrhythmics and sodium channel blocking antiepileptic medicinal products (see section 4.5), as well as in elderly patients.
+Lacosamide should be used with caution in patients with underlying proarrhythmic conditions such as patients with known cardiac conduction problems or severe cardiac disease (e.g. myocardial ischaemia/infarction, heart failure, structural heart disease or cardiac sodium channelopathies) or patients treated with medicinal products affecting cardiac conduction, including antiarrhythmics and sodium channel blocking antiepileptic medicinal products (see section 4.5), as well as in elderly patients.
 
 In these patients it should be considered to perform an ECG before a lacosamide dose increase above 400 mg/day and after lacosamide is titrated to steady-state.
 
@@ -1619,11 +1631,9 @@ No adverse reactions on male or female fertility or reproduction were observed i
 
 Lacosamide has minor to moderate influence on the ability to drive and use machines. Lacosamide treatment has been associated with dizziness or blurred vision.
 
-Accordingly, patients should be advised not to drive or to operate other potentially hazardous machinery until they are familiar with the effects of lacosamide on their ability to perform such
+Accordingly, patients should be advised not to drive or to operate other potentially hazardous machinery until they are familiar with the effects of lacosamide on their ability to perform such activities.
 
 <div style=\"page-break-after: always\"></div>
-
-activities.
 
 ## 4.8 Undesirable effects
 
@@ -1721,11 +1731,11 @@ There is no specific antidote for overdose with lacosamide. Treatment of lacosam
 
 Pharmacotherapeutic group: antiepileptics, other antiepileptics, ATC code: N03AX18
 
+<div style=\"page-break-after: always\"></div>
+
 ## Mechanism of action
 
 The active substance, lacosamide (R-2-acetamido-N-benzyl-3-methoxypropionamide) is a functionalised amino acid.
-
-<div style=\"page-break-after: always\"></div>
 
 The precise mechanism by which lacosamide exerts its antiepileptic effect in humans remains to be fully elucidated. In vitro electrophysiological studies have shown that lacosamide selectively enhances slow inactivation of voltage-gated sodium channels, resulting in stabilization of hyperexcitable neuronal membranes.
 
@@ -1751,11 +1761,9 @@ The efficacy and safety of lacosamide in conversion to monotherapy has been asse
 
 ## Adjunctive therapy
 
-The efficacy of lacosamide as adjunctive therapy at recommended doses (200 mg/day, 400 mg/day) was established in 3 multicenter, randomised, placebo-controlled clinical studies with a 12-week maintenance period. Lacosamide 600 mg/day was also shown to be effective in controlled adjunctive therapy studies, although the efficacy was similar to 400 mg/day and patients were less likely to tolerate this dose because of CNS- and gastrointestinal-related adverse reactions. Thus, the 600 mg/day dose is not recommended. The maximum recommended dose is 400 mg/day. These studies, involving 1,308 patients with a history of an average of 23 years of partial-onset seizures, were designed to evaluate the efficacy and safety of lacosamide when administered concomitantly with 1-3 antiepileptic medicinal products in patients with uncontrolled partial-onset seizures with or without secondary generalisation. Overall the proportion of subjects with a 50 % reduction in seizure
+The efficacy of lacosamide as adjunctive therapy at recommended doses (200 mg/day, 400 mg/day) was established in 3 multicenter, randomised, placebo-controlled clinical studies with a 12-week maintenance period. Lacosamide 600 mg/day was also shown to be effective in controlled adjunctive therapy studies, although the efficacy was similar to 400 mg/day and patients were less likely to tolerate this dose because of CNS- and gastrointestinal-related adverse reactions. Thus, the 600 mg/day dose is not recommended. The maximum recommended dose is 400 mg/day. These studies, involving 1,308 patients with a history of an average of 23 years of partial-onset seizures, were designed to evaluate the efficacy and safety of lacosamide when administered concomitantly with 1-3 antiepileptic medicinal products in patients with uncontrolled partial-onset seizures with or without secondary generalisation. Overall the proportion of subjects with a 50 % reduction in seizure frequency was 23 %, 34 %, and 40 % for placebo, lacosamide 200 mg/day and lacosamide 400 mg/day.
 
 <div style=\"page-break-after: always\"></div>
-
-frequency was 23 %, 34 %, and 40 % for placebo, lacosamide 200 mg/day and lacosamide 400 mg/day.
 
 The pharmacokinetics and safety of a single loading dose of intravenous lacosamide were determined in a multicenter, open-label study designed to assess the safety and tolerability of rapid initiation of lacosamide using a single intravenous loading dose (including 200 mg) followed by twice daily oral dosing (equivalent to the intravenous dose) as adjunctive therapy in adult subjects 16 to 60 years of age with partial-onset seizures.
 
@@ -1777,9 +1785,11 @@ The quality of life assessed by the Pediatric Quality of Life Inventory indicate
 
 ## Clinical efficacy and safety (primary generalized tonic-clonic seizures)
 
-The efficacy of lacosamide as adjunctive therapy in patients 4 years of age and older with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic seizures (PGTCS) was established in a 24-week double-blind, randomized, placebo-controlled, parallel-group, multi-center clinical study. The study consisted of a 12-week historical baseline period, a 4-week prospective baseline period and a 24-week treatment period (which included a 6-week titration period and an 18-week maintenance period). Eligible patients on a stable dose of 1 to 3 antiepileptic drugs experiencing at least 3 documented PGTCS during the 16-week combined baseline period were randomized 1 to 1 to receive lacosamide or placebo (patients in the full analysis set: lacosamide n=118, placebo n=121; of them 8 patients in the ≥ 4 to &lt; 12 years age group and 16 patients in the ≥ 12 to &lt; 18 years range were treated with lacosamide and 9 and 16 patients, respectively with placebo).
+The efficacy of lacosamide as adjunctive therapy in patients 4 years of age and older with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic seizures (PGTCS) was established in a 24-week double-blind, randomized, placebo-controlled, parallel-group, multi-center clinical study. The study consisted of a 12-week historical baseline period, a 4-week prospective baseline period and a 24-week treatment period (which included a 6-week titration period and an 18-week maintenance period). Eligible patients on a stable dose of 1 to 3 antiepileptic drugs experiencing at least 3
 
 <div style=\"page-break-after: always\"></div>
+
+documented PGTCS during the 16-week combined baseline period were randomized 1 to 1 to receive lacosamide or placebo (patients in the full analysis set: lacosamide n=118, placebo n=121; of them 8 patients in the ≥ 4 to &lt; 12 years age group and 16 patients in the ≥ 12 to &lt; 18 years range were treated with lacosamide and 9 and 16 patients, respectively with placebo).
 
 Patients were titrated up to the target maintenance period dose of 12 mg/kg/day in patients weighing less than 30 kg, 8 mg/kg/day in patients weighing from 30 to less than 50 kg or 400 mg/day in patients weighing 50 kg or more.
 
@@ -1787,23 +1797,35 @@ Patients were titrated up to the target maintenance period dose of 12 mg/kg/day 
 |--------------------------------------|-----------------|--------------------|
 | Time to second PGTCS                 |                 |                    |
 | Median (days)                        | 77.0            | -                  |
-| 95 %CI                               | 49.0, 128.0     | -                  |
+| 95 % CI                              | 49.0, 128.0     | -                  |
 | Lacosamide - Placebo                 |                 |                    |
 | Hazard Ratio                         | 0.540           | 0.540              |
-| 95 %CI                               | 0.377, 0.774    | 0.377, 0.774       |
+| 95 % CI                              | 0.377, 0.774    | 0.377, 0.774       |
 | p-value                              | < 0.001         | < 0.001            |
 | Seizure freedom                      |                 |                    |
 | Stratified Kaplan-Meier estimate (%) | 17.2            | 31.3               |
-| 95 %CI                               | 10.4, 24.0      | 22.8, 39.9         |
+| 95 % CI                              | 10.4, 24.0      | 22.8, 39.9         |
 | Lacosamide - Placebo                 | 14.1            | 14.1               |
-| 95 %CI                               | 3.2, 25.1       | 3.2, 25.1          |
+| 95 % CI                              | 3.2, 25.1       | 3.2, 25.1          |
 | p-value                              | 0.011           | 0.011              |
 
 Note: For the lacosamide group, the median time to second PGTCS could not be estimated by KaplanMeier methods because ˃ 50% of patients did not experience a second PGTCS by Day 166.
 
 The findings in the paediatric subgroup were consistent with the results of the overall population for the primary, secondary and other efficacy endpoints.
 
+## Acute treatment of newborns with repeated electroencephalographic neonatal seizures
+
+The efficacy of lacosamide as adjunctive therapy in the acute treatment of newborns (0-28 days) with repeated electroencephalographic neonatal seizures was evaluated in an open-label active comparator study. The primary endpoint was the reduction in seizure burden measured in the evaluation videoEEG compared with the baseline video-EEG.
+
+Twenty-nine patients were randomized 1:1 to receive either lacosamide or an active comparator selected and dosed based on local standard of care; 26 patients were treated with at least one dose of study drug, 14 participants in the lacosamide group and 12 participants in the active comparator group. Neonates in the lacosamide group received a dose of 15 mg/kg/day, administered in three divided doses (5mg/kg tid without titration) via 30-minute IV infusions.
+
+The mean (SD) duration of IV lacosamide exposure was 5.9 (2.6) days. During the evaluation period (1 - 3 hours after first dose), study participants randomized to lacosamide and active comparator displayed responder rates of 9 out of 15 and 6 out of 9, respectively. The mean (SD) absolute reduction in seizure burden was 6.64 (6.55) mins/h in the lacosamide group (N=15) and 2.45 (14.83) mins/h in the active comparator group (N=9).
+
+The relevance of the efficacy results was limited by the small number of enrolled study participants. Overall, 14 study participants (53.8%) reported 42 TEAEs: 9 participants (64.3%) in the lacosamide group (21 TEAEs) and 5 participants (41.7%) in the active comparator group (21 TEAEs). No major differences in the frequencies of most TEAEs were observed between the two groups. No new safety concerns were identified, although the interpretation of the safety data is limited by the small sample size.
+
 ## 5.2 Pharmacokinetic properties
+
+<div style=\"page-break-after: always\"></div>
 
 ## Absorption
 
@@ -1821,11 +1843,7 @@ The major compounds excreted in urine are unchanged lacosamide (approximately 40
 
 A polar fraction proposed to be serine derivatives accounted for approximately 20 % in urine, but was detected only in small amounts (0-2 %) in human plasma of some subjects. Small amounts (0.5-2 %) of additional metabolites were found in the urine.
 
-In vitro data show that CYP2C9, CYP2C19 and CYP3A4 are capable of catalysing the formation of the O-desmethyl metabolite but the main contributing isoenzyme has not been confirmed in vivo . No clinically relevant difference in lacosamide exposure was observed comparing its pharmacokinetics in extensive metabolisers (EMs, with a functional CYP2C19) and poor metabolisers (PMs, lacking a functional CYP2C19). Furthermore an interaction study with omeprazole (CYP2C19-inhibitor) demonstrated no clinically relevant changes in lacosamide plasma concentrations indicating that the
-
-<div style=\"page-break-after: always\"></div>
-
-importance of this pathway is minor. The plasma concentration of O-desmethyl-lacosamide is approximately 15 % of the concentration of lacosamide in plasma. This major metabolite has no known pharmacological activity.
+In vitro data show that CYP2C9, CYP2C19 and CYP3A4 are capable of catalysing the formation of the O-desmethyl metabolite but the main contributing isoenzyme has not been confirmed in vivo . No clinically relevant difference in lacosamide exposure was observed comparing its pharmacokinetics in extensive metabolisers (EMs, with a functional CYP2C19) and poor metabolisers (PMs, lacking a functional CYP2C19). Furthermore an interaction study with omeprazole (CYP2C19-inhibitor) demonstrated no clinically relevant changes in lacosamide plasma concentrations indicating that the importance of this pathway is minor. The plasma concentration of O-desmethyl-lacosamide is approximately 15 % of the concentration of lacosamide in plasma. This major metabolite has no known pharmacological activity.
 
 ## Elimination
 
@@ -1845,6 +1863,8 @@ The AUC of lacosamide was increased by approximately 30 % in mildly and moderate
 
 Lacosamide is effectively removed from plasma by haemodialysis. Following a 4-hour haemodialysis treatment, AUC of lacosamide is reduced by approximately 50 %. Therefore, dosage supplementation following haemodialysis is recommended (see section 4.2). The exposure of the O-desmethyl metabolite was several-fold increased in patients with moderate and severe renal impairment. In absence of haemodialysis in patients with end-stage renal disease, the levels were increased and continuously rising during the 24-hour sampling. It is unknown whether the increased metabolite exposure in end-stage renal disease subjects could give rise to adverse effects but no pharmacological activity of the metabolite has been identified.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hepatic impairment
 
 Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma concentrations of lacosamide (approximately 50 % higher AUCnorm). The higher exposure was partly due to a reduced renal function in the studied subjects. The decrease in non-renal clearance in the patients of the study was estimated to give a 20 % increase in the AUC of lacosamide. The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impairment (see section 4.2).
@@ -1857,15 +1877,11 @@ A general dose reduction is not considered to be necessary unless indicated due 
 
 ## Paediatric population
 
-The paediatric pharmacokinetic profile of lacosamide was determined in a population pharmacokinetic
-
-<div style=\"page-break-after: always\"></div>
-
-analysis using sparse plasma concentration data obtained in six placebo-controlled randomised clinical studies and five open-label studies in 1655 adult and paediatric patients with epilepsy aged 1 month to 17 years. Three of these studies were performed in adults, 7 in pediatric patients, and 1 in a mixed population. The administered lacosamide doses ranged from 2 to 17.8 mg/kg/day in twice daily intake, not to exceed 600 mg/day.
+The paediatric pharmacokinetic profile of lacosamide was determined in a population pharmacokinetic analysis using sparse plasma concentration data obtained in six placebo-controlled randomised clinical studies and five open-label studies in 1655 adult and paediatric patients with epilepsy aged 1 month to 17 years. Three of these studies were performed in adults, 7 in pediatric patients, and 1 in a mixed population. The administered lacosamide doses ranged from 2 to 17.8 mg/kg/day in twice daily intake, not to exceed 600 mg/day.
 
 The typical plasma clearance was estimated to be 0.46 L/h, 0.81 L/h, 1.03 L/h and 1.34 L/h for paediatric patients weighing 10 kg, 20 kg, 30 kg and 50 kg respectively. In comparison, plasma clearance was estimated at 1.74 L/h in adults (70 kg body weight).
 
-Population pharmacokinetic analysis using sparse pharmacokinetic samples from PGTCS study showed a similar exposure in patients with PGTCS and in patients with partial-onset seizures.
+Population pharmacokinetic analysis using sparse pharmacokinetic samples from PGTCS study showed a similar exposure in patients with PGTCS and in patients with partial-onset seizures. In a study in newborns treated with lacosamide administered intravenously as 5 mg/kg three times a day, the average steady state exposure appeared to be higher but the range partly overlapped with the exposure in adults receiving lacosamide administered orally as 200 mg twice a day.
 
 ## 5.3 Preclinical safety data
 
@@ -1875,6 +1891,8 @@ A safety pharmacology study with intravenous administration of lacosamide in ane
 
 In the repeated dose toxicity studies, mild reversible liver changes were observed in rats starting at about 3 times the clinical exposure. These changes included an increased organ weight, hypertrophy of hepatocytes, increases in serum concentrations of liver enzymes and increases in total cholesterol and triglycerides. Apart from the hypertrophy of hepatocytes, no other histopathologic changes were observed.
 
+<div style=\"page-break-after: always\"></div>
+
 In reproductive and developmental toxicity studies in rodents and rabbits, no teratogenic effects but an increase in numbers of stillborn pups and pup deaths in the peripartum period, and slightly reduced live litter sizes and pup body weights were observed at maternal toxic doses in rats corresponding to systemic exposure levels similar to the expected clinical exposure. Since higher exposure levels could not be tested in animals due to maternal toxicity, data are insufficient to fully characterise the embryofetotoxic and teratogenic potential of lacosamide.
 
 Studies in rats revealed that lacosamide and/or its metabolites readily crossed the placental barrier. In juvenile rats and dogs, the types of toxicity do not differ qualitatively from those observed in adult animals. In juvenile rats, a reduced body weight was observed at systemic exposure levels similar to the expected clinical exposure. In juvenile dogs, transient and dose-related CNS clinical signs started to be observed at systemic exposure levels below the expected clinical exposure.
@@ -1883,13 +1901,9 @@ Studies in rats revealed that lacosamide and/or its metabolites readily crossed 
 
 ## 6.1 List of excipients
 
-Glycerol (E422) Carmellose sodium Sorbitol liquid (crystallizing) (E420) Polyethylene glycol 4000 Sodium chloride Citric acid, anhydrous Acesulfame potassium (E950) Sodium methyl parahydroxybenzoate (E219) Strawberry flavour (contains propylene glycol (E1520), maltol)
-
 Masking flavour (contains propylene glycol (E1520), aspartame (E951), acesulfame potassium (E950), maltol, deionised water)
 
-<div style=\"page-break-after: always\"></div>
-
-purified water
+Glycerol (E422) Carmellose sodium Sorbitol liquid (crystallizing) (E420) Polyethylene glycol 4000 Sodium chloride Citric acid, anhydrous Acesulfame potassium (E950) Sodium methyl parahydroxybenzoate (E219) Strawberry flavour (contains propylene glycol (E1520), maltol) purified water
 
 ## 6.2 Incompatibilities
 
@@ -1897,9 +1911,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-3 years
-
-After first opening: 6 months.
+3 years After first opening: 6 months.
 
 ## 6.4 Special precautions for storage
 
@@ -1910,6 +1922,8 @@ Do not refrigerate.
 A 200 ml amber glass bottle with white polypropylene screw cap, a 30 ml polypropylene measuring cup and a 10 ml oral polyethylene / polypropylene syringe (black graduation marks) with a polyethylene adaptor.
 
 One full 30 ml measuring cup corresponds to 300 mg of lacosamide. The minimum volume is 5 ml which corresponds to 50 mg of lacosamide. As from the 5 ml graduation mark, each graduation mark corresponds to 5 ml which is 50 mg of lacosamide (for example 2 graduation marks correspond to 100 mg).
+
+<div style=\"page-break-after: always\"></div>
 
 One full 10 ml oral syringe corresponds to 100 mg of lacosamide. The minimum extractable volume is 1 ml which corresponds to10 mg of lacosamide. As from the 1 ml graduation mark, each graduation mark corresponds to 0.25 ml which is 2.5 mg of lacosamide.
 
@@ -1931,11 +1945,11 @@ Date of first authorisation: 29 August 2008
 
 Date of latest renewal: 31 July 2013
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+61
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1970,7 +1984,7 @@ Vimpat is indicated as adjunctive therapy
 
 ## 4.2 Posology and method of administration
 
-## Posology
+Posology
 
 The physician should prescribe the most appropriate formulation and strength according to weight and dose.
 
@@ -2000,7 +2014,7 @@ The recommended posology for adults, adolescents and children from 2 years of ag
 
 ## Adolescents and children weighing 50 kg or more, and adults
 
-Monotherapy (in the treatment of partial-onset seizures)
+## Monotherapy (in the treatment of partial-onset seizures)
 
 The recommended starting dose is 50 mg twice a day (100 mg/day) which should be increased to an initial therapeutic dose of 100 mg twice a day (200 mg/day) after one week.
 
@@ -2054,8 +2068,6 @@ Monotherapy doses in the treatment of partial-onset seizures to be taken twice a
 | 40 kg           | 4 ml (40 mg)                      | 8 ml (80 mg)        | 12 ml (120 mg)      | 16 ml (160 mg)      | 20 ml (200 mg)                               |
 | 45 kg           | 4.5 ml (45 mg)                    | 9 ml (90 mg)        | 13.5 ml (135 mg)    | 18 ml (180 mg)      | 22.5 ml (225 mg)                             |
 
-(1) Dosage in adolescents 50 kg or more is the same as in adults.
-
 Adjunctive therapy (in the treatment of primary generalised tonic-clonic seizures from 4 years of age or in the treatment of partial-onset seizures from 2 years of age)
 
 The recommended starting dose is 1 mg/kg twice a day (2 mg/kg/day) which should be increased to an initial therapeutic dose of 2 mg/kg twice a day (4 mg/kg/day) after one week.
@@ -2097,11 +2109,9 @@ Adjunctive therapy doses to be taken twice a day for children from 2 years of ag
 
 Initiation of lacosamide treatment with a loading dose ( initial monotherapy or conversion to monotherapy in the treatment of partial-onset seizures or adjunctive therapy in the treatment of partial-onset seizures or adjunctive therapy in the treatment of primary generalised tonic-clonic seizures)
 
-In adolescents and children weighing 50 kg or more, and adults, lacosamide treatment may also be initiated with a single loading dose of 200 mg, followed approximately 12 hours later by a 100 mg twice a day (200 mg/day) maintenance dose regimen. Subsequent dose adjustments should be
+In adolescents and children weighing 50 kg or more, and adults, lacosamide treatment may also be initiated with a single loading dose of 200 mg, followed approximately 12 hours later by a 100 mg twice a day (200 mg/day) maintenance dose regimen. Subsequent dose adjustments should be performed according to individual response and tolerability as described above. A loading dose may be initiated in patients in situations when the physician determines that rapid attainment of lacosamide steady state plasma concentration and therapeutic effect is warranted. It should be administered under medical supervision with consideration of the potential for increased incidence of serious cardiac arrhythmia and central nervous system adverse reactions (see section 4.8). Administration of a loading dose has not been studied in acute conditions such as status epilepticus.
 
 <div style=\"page-break-after: always\"></div>
-
-performed according to individual response and tolerability as described above. A loading dose may be initiated in patients in situations when the physician determines that rapid attainment of lacosamide steady state plasma concentration and therapeutic effect is warranted. It should be administered under medical supervision with consideration of the potential for increased incidence of serious cardiac arrhythmia and central nervous system adverse reactions (see section 4.8). Administration of a loading dose has not been studied in acute conditions such as status epilepticus.
 
 ## Discontinuation
 
@@ -2130,6 +2140,8 @@ The dose titration in these patients should be performed with caution considerin
 ## Paediatric population
 
 Lacosamide is not recommended for use in children below the age of 4 years in the treatment of primary generalized tonic-clonic seizures and below the age of 2 years in the treatment of partial-onset seizures as there is limited data on safety and efficacy in these age groups.
+
+Outside its authorised indications, lacosamide has been studied in newborns aged 0-28 days with repeated electroencephalographic neonatal seizures; however, the results from the small number of participants in the study did not allow to conclude that the benefits of such use outweigh the risks. Currently available data are described in sections 5.1 and 5.2.
 
 ## Loading dose
 
@@ -2161,9 +2173,9 @@ Dose-related prolongations in PR interval with lacosamide have been observed in 
 
 In these patients it should be considered to perform an ECG before a lacosamide dose increase above 400 mg/day and after lacosamide is titrated to steady-state.
 
-In the placebo-controlled clinical studies of lacosamide in epilepsy patients, atrial fibrillation or flutter were not reported; however, both have been reported in open-label epilepsy studies and in postmarketing experience.
-
 <div style=\"page-break-after: always\"></div>
+
+In the placebo-controlled clinical studies of lacosamide in epilepsy patients, atrial fibrillation or flutter were not reported; however, both have been reported in open-label epilepsy studies and in postmarketing experience.
 
 In post-marketing experience, AV block (including second degree or higher AV block) has been reported. In patients with proarrhythmic conditions, ventricular tachyarrhythmia has been reported. In rare cases, these events have led to asystole, cardiac arrest and death in patients with underlying proarrhythmic conditions.
 
@@ -2193,13 +2205,11 @@ Lacosamide should be used with caution in patients treated with medicinal produc
 
 Data generally suggest that lacosamide has a low interaction potential. In vitro studies indicate that the enzymes CYP1A2, CYP2B6, and CYP2C9 are not induced and that CYP1A1, CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2D6, and CYP2E1 are not inhibited by lacosamide at plasma concentrations observed in clinical studies. An in vitro study indicated that lacosamide is not transported by P-glycoprotein in the intestine. In vitro data show that CYP2C9, CYP2C19 and CYP3A4 are capable of catalysing the formation of the O-desmethyl metabolite.
 
-## In vivo data
-
-Lacosamide does not inhibit or induce CYP2C19 and CYP3A4 to a clinically relevant extent. Lacosamide did not affect the AUC of midazolam (metabolised by CYP3A4, lacosamide given 200 mg twice a day) but Cmax of midazolam was slightly increased (30 %). Lacosamide did not affect the pharmacokinetics of omeprazole (metabolised by CYP2C19 and CYP3A4, lacosamide given
-
 <div style=\"page-break-after: always\"></div>
 
-300 mg twice a day).
+## In vivo data
+
+Lacosamide does not inhibit or induce CYP2C19 and CYP3A4 to a clinically relevant extent. Lacosamide did not affect the AUC of midazolam (metabolised by CYP3A4, lacosamide given 200 mg twice a day) but Cmax of midazolam was slightly increased (30 %). Lacosamide did not affect the pharmacokinetics of omeprazole (metabolised by CYP2C19 and CYP3A4, lacosamide given 300 mg twice a day).
 
 The CYP2C19 inhibitor omeprazole (40 mg once daily) did not give rise to a clinically significant change in lacosamide exposure. Thus, moderate inhibitors of CYP2C19 are unlikely to affect systemic lacosamide exposure to a clinically relevant extent.
 
@@ -2233,13 +2243,13 @@ Physicians should discuss family planning and contraception with women of childb
 
 If a woman decides to become pregnant, the use of lacosamide should be carefully re-evaluated.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pregnancy
 
 ## Risk related to epilepsy and antiepileptic medicinal products in general
 
 For all antiepileptic medicinal products, it has been shown that in the offspring of treated women with epilepsy, the prevalence of malformations is two to three times greater than the rate of approximately 3 % in the general population. In the treated population, an increase in malformations has been noted with polytherapy, however, the extent to which the treatment and/or the illness is responsible has not been elucidated.
-
-<div style=\"page-break-after: always\"></div>
 
 Moreover, effective antiepileptic therapy must not be interrupted, since the aggravation of the illness is detrimental to both the mother and the foetus.
 
@@ -2271,54 +2281,45 @@ Based on the analysis of pooled placebo-controlled clinical studies in adjunctiv
 
 In all of these controlled clinical studies, the discontinuation rate due to adverse reactions was 12.2 % for patients randomised to lacosamide and 1.6 % for patients randomised to placebo. The most common adverse reaction resulting in discontinuation of lacosamide therapy was dizziness. Incidence of CNS adverse reactions such as dizziness may be higher after a loading dose.
 
-Based on the analysis of data from a non-inferiority monotherapy clinical study comparing lacosamide to carbamazepine controlled release (CR), the most frequently reported adverse reactions (≥ 10 %) for lacosamide were headache and dizziness. The discontinuation rate due to adverse reactions was 10.6 % for patients treated with lacosamide and 15.6 % for patients treated with carbamazepine CR.
-
-The safety profile of lacosamide reported in a study conducted in patients aged 4 years and older with idiopathic generalised epilepsy with primary generalised tonic-clonic seizures (PGTCS) was consistent with the safety profile reported from the pooled placebo-controlled clinical studies in partial-onset seizures. Additional adverse reactions reported in PGTCS patients were myoclonic epilepsy (2.5 % in
-
 <div style=\"page-break-after: always\"></div>
 
-the lacosamide-group and 0 % in the placebo-group) and ataxia (3.3 % in the lacosamide-group and 0 % in the placebo-group). The most frequently reported adverse reactions were dizziness and somnolence. The most common adverse reactions resulting in discontinuation of lacosamide therapy were dizziness and suicidal ideation. The discontinuation rate due to adverse reactions was 9.1 % in the lacosamide group and 4.1 % in the placebo group.
+Based on the analysis of data from a non-inferiority monotherapy clinical study comparing lacosamide to carbamazepine controlled release (CR), the most frequently reported adverse reactions (≥ 10 %) for lacosamide were headache and dizziness. The discontinuation rate due to adverse reactions was 10.6 % for patients treated with lacosamide and 15.6 % for patients treated with carbamazepine CR.
+
+The safety profile of lacosamide reported in a study conducted in patients aged 4 years and older with idiopathic generalised epilepsy with primary generalised tonic-clonic seizures (PGTCS) was consistent with the safety profile reported from the pooled placebo-controlled clinical studies in partial-onset seizures. Additional adverse reactions reported in PGTCS patients were myoclonic epilepsy (2.5 % in the lacosamide-group and 0 % in the placebo-group) and ataxia (3.3 % in the lacosamide-group and 0 % in the placebo-group). The most frequently reported adverse reactions were dizziness and somnolence. The most common adverse reactions resulting in discontinuation of lacosamide therapy were dizziness and suicidal ideation. The discontinuation rate due to adverse reactions was 9.1 % in the lacosamide group and 4.1 % in the placebo group.
 
 ## Tabulated list of adverse reactions
 
 The table below shows the frequencies of adverse reactions which have been reported in clinical studies and post-marketing experience . The frequencies are defined as follows: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100) and not known (frequency cannot be estimated from available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-| System organ class            | Very common        | Common                                                                                                                                                                        | Uncommon                                                                                                                  | Not known                                                           |
-|-------------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
-| Blood and lymphatic disorders |                    |                                                                                                                                                                               |                                                                                                                           | Agranulocytosis (1)                                                 |
-| Immune system disorders       |                    |                                                                                                                                                                               | Drug hypersensitivity (1)                                                                                                 | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1,2) |
-| Psychiatric disorders         |                    | Depression Confusional state Insomnia (1)                                                                                                                                     | Aggression Agitation (1) Euphoric mood (1) Psychotic disorder (1) Suicide attempt (1) Suicidal ideation Hallucination (1) |                                                                     |
-| Nervous system disorders      | Dizziness Headache | Myoclonic seizures (3) Ataxia Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope (2) Coordination abnormal Dyskinesia                                                                              | Convulsion                                                          |
-| Eye disorders                 | Diplopia           | Vision blurred                                                                                                                                                                |                                                                                                                           |                                                                     |
-| Ear and labyrinth disorders   |                    | Vertigo Tinnitus                                                                                                                                                              |                                                                                                                           |                                                                     |
+| System organ class            | Very common   | Common                                    | Uncommon                                                                                                                  | Not known                                                           |
+|-------------------------------|---------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| Blood and lymphatic disorders |               |                                           |                                                                                                                           | Agranulocytosis (1)                                                 |
+| Immune system disorders       |               |                                           | Drug hypersensitivity (1)                                                                                                 | Drug reaction with eosinophilia and systemic symptoms (DRESS) (1,2) |
+| Psychiatric disorders         |               | Depression Confusional state Insomnia (1) | Aggression Agitation (1) Euphoric mood (1) Psychotic disorder (1) Suicide attempt (1) Suicidal ideation Hallucination (1) |                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                                   | Very common   | Common                                                                                                            | Uncommon                                                                                      | Not known                                                   |
-|------------------------------------------------------|---------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-| Cardiac disorders                                    |               |                                                                                                                   | Atrioventricular block (1,2) Bradycardia (1,2) Atrial Fibrillation (1,2) Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1)                             |
-| Gastrointestinal disorders                           | Nausea        | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea                                                    |                                                                                               |                                                             |
-| Hepatobiliary disorders                              |               |                                                                                                                   | Liver function test abnormal (2) Hepatic enzyme increased (> 2x ULN) (1)                      |                                                             |
-| Skin and subcutaneous tissue disorders               |               | Pruritus Rash (1)                                                                                                 | Angioedema (1) Urticaria (1)                                                                  | Stevens-Johnson syndrome (1) Toxic epidermal necrolysis (1) |
-| Musculoskeletal and connective tissue disorders      |               | Muscle spasms                                                                                                     |                                                                                               |                                                             |
-| General disorders and administration site conditions |               | Gait disturbance Asthenia Fatigue Irritability Feeling drunk Injection site pain or discomfort (4) Irritation (4) | Erythema (4)                                                                                  |                                                             |
-| Injury, poisoning and procedural complications       |               | Fall Skin laceration Contusion                                                                                    |                                                                                               |                                                             |
+| System organ class                                   | Very common        | Common                                                                                                                                                                        | Uncommon                                                                                      | Not known                                                   |
+|------------------------------------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| Nervous system disorders                             | Dizziness Headache | Myoclonic seizures (3) Ataxia Balance disorder Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia Dysarthria Disturbance in attention Paraesthesia | Syncope (2) Coordination abnormal Dyskinesia                                                  | Convulsion                                                  |
+| Eye disorders                                        | Diplopia           | Vision blurred                                                                                                                                                                |                                                                                               |                                                             |
+| Ear and labyrinth disorders                          |                    | Vertigo Tinnitus                                                                                                                                                              |                                                                                               |                                                             |
+| Cardiac disorders                                    |                    |                                                                                                                                                                               | Atrioventricular block (1,2) Bradycardia (1,2) Atrial Fibrillation (1,2) Atrial Flutter (1,2) | Ventricular tachyarrhythmia (1)                             |
+| Gastrointestinal disorders                           | Nausea             | Vomiting Constipation Flatulence Dyspepsia Dry mouth Diarrhoea                                                                                                                |                                                                                               |                                                             |
+| Hepatobiliary disorders                              |                    |                                                                                                                                                                               | Liver function test abnormal (2) Hepatic enzyme increased (> 2x ULN) (1)                      |                                                             |
+| Skin and subcutaneous tissue disorders               |                    | Pruritus Rash (1)                                                                                                                                                             | Angioedema (1) Urticaria (1)                                                                  | Stevens-Johnson syndrome (1) Toxic epidermal necrolysis (1) |
+| Musculoskeletal and connective tissue disorders      |                    | Muscle spasms                                                                                                                                                                 |                                                                                               |                                                             |
+| General disorders and administration site conditions |                    | Gait disturbance Asthenia Fatigue Irritability Feeling drunk Injection site pain or discomfort (4) Irritation (4)                                                             | Erythema (4)                                                                                  |                                                             |
 
-(1) Adverse reactions reported in post marketing experience.
+<div style=\"page-break-after: always\"></div>
 
-(2) See Description of selected adverse reactions.
-
-(3) Reported in PGTCS studies.
-
-(4) Local adverse reactions associated with intravenous administration.
+| System organ class                             | Very common   | Common                         | Uncommon   | Not known   |
+|------------------------------------------------|---------------|--------------------------------|------------|-------------|
+| Injury, poisoning and procedural complications |               | Fall Skin laceration Contusion |            |             |
 
 ## Description of selected adverse reactions
 
-The use of lacosamide is associated with dose-related increase in the PR interval. Adverse reactions associated with PR interval prolongation (e.g. atrioventricular block, syncope, bradycardia) may occur. In adjunctive clinical studies in epilepsy patients the incidence rate of reported first-degree AV Block is uncommon, 0.7 %, 0 %, 0.5 % and 0 % for lacosamide 200 mg, 400 mg, 600 mg or placebo, respectively. No second- or higher degree AV Block was seen in these studies. However, cases with second- and third-degree AV Block associated with lacosamide treatment have been reported in postmarketing experience. In the monotherapy clinical study comparing lacosamide to carbamazepine CR the extent of increase in PR interval was comparable between lacosamide and carbamazepine. The incidence rate for syncope reported in pooled adjunctive therapy clinical studies is uncommon and did not differ between lacosamide (n=944) treated epilepsy patients (0.1 %) and placebo (n=364)
-
-<div style=\"page-break-after: always\"></div>
-
-treated epilepsy patients (0.3 %). In the monotherapy clinical study comparing lacosamide to carbamazepine CR, syncope was reported in 7/444 (1.6 %) lacosamide patients and in 1/442 (0.2 %) carbamazepine CR patients.
+The use of lacosamide is associated with dose-related increase in the PR interval. Adverse reactions associated with PR interval prolongation (e.g. atrioventricular block, syncope, bradycardia) may occur. In adjunctive clinical studies in epilepsy patients the incidence rate of reported first-degree AV Block is uncommon, 0.7 %, 0 %, 0.5 % and 0 % for lacosamide 200 mg, 400 mg, 600 mg or placebo, respectively. No second- or higher degree AV Block was seen in these studies. However, cases with second- and third-degree AV Block associated with lacosamide treatment have been reported in postmarketing experience. In the monotherapy clinical study comparing lacosamide to carbamazepine CR the extent of increase in PR interval was comparable between lacosamide and carbamazepine. The incidence rate for syncope reported in pooled adjunctive therapy clinical studies is uncommon and did not differ between lacosamide (n=944) treated epilepsy patients (0.1 %) and placebo (n=364) treated epilepsy patients (0.3 %). In the monotherapy clinical study comparing lacosamide to carbamazepine CR, syncope was reported in 7/444 (1.6 %) lacosamide patients and in 1/442 (0.2 %) carbamazepine CR patients.
 
 Atrial fibrillation or flutter were not reported in short term clinical studies; however, both have been reported in open-label epilepsy studies and in post-marketing experience.
 
@@ -2336,6 +2337,8 @@ The safety profile of lacosamide in placebo-controlled (255 patients from 1 mont
 
 The additional adverse reactions observed in the paediatric population were pyrexia, nasopharyngitis, pharyngitis, decreased appetite, abnormal behaviour and lethargy. Somnolence was reported more frequently in the paediatric population (≥ 1/10) compared to the adult population (≥ 1/100 to &lt; 1/10).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elderly population
 
 In the monotherapy study comparing lacosamide to carbamazepine CR, the types of adverse reactions related to lacosamide in elderly patients (≥ 65 years of age) appear to be similar to that observed in patients less than 65 years of age. However, a higher incidence (≥ 5 % difference) of fall, diarrhoea and tremor has been reported in elderly patients compared to younger adult patients. The most frequent cardiac-related adverse reaction reported in elderly compared to the younger adult population was first-degree AV block. This was reported with lacosamide in 4.8 % (3/62) in elderly patients versus 1.6 % (6/382) in younger adult patients. The discontinuation rate due to adverse events observed with lacosamide was 21.0 % (13/62) in elderly patients versus 9.2 % (35/382) in younger adult patients. These differences between elderly and younger adult patients were similar to those observed in the active comparator group.
@@ -2343,8 +2346,6 @@ In the monotherapy study comparing lacosamide to carbamazepine CR, the types of 
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -2371,11 +2372,11 @@ The active substance, lacosamide (R-2-acetamido-N-benzyl-3-methoxypropionamide) 
 
 The precise mechanism by which lacosamide exerts its antiepileptic effect in humans remains to be fully elucidated. In vitro electrophysiological studies have shown that lacosamide selectively enhances slow inactivation of voltage-gated sodium channels, resulting in stabilization of hyperexcitable neuronal membranes.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pharmacodynamic effects
 
-Lacosamide protected against seizures in a broad range of animal models of partial and primary generalised seizures and delayed kindling development.
-
-In non-clinical experiments lacosamide in combination with levetiracetam, carbamazepine, phenytoin, valproate, lamotrigine, topiramate or gabapentin showed synergistic or additive anticonvulsant effects.
+Lacosamide protected against seizures in a broad range of animal models of partial and primary generalised seizures and delayed kindling development. In non-clinical experiments lacosamide in combination with levetiracetam, carbamazepine, phenytoin, valproate, lamotrigine, topiramate or gabapentin showed synergistic or additive anticonvulsant effects.
 
 ## Clinical efficacy and safety (partial-onset seizures) Adult population
 
@@ -2383,11 +2384,7 @@ In non-clinical experiments lacosamide in combination with levetiracetam, carbam
 
 Efficacy of lacosamide as monotherapy was established in a double-blind, parallel group, noninferiority comparison to carbamazepine CR in 886 patients 16 years of age or older with newly or recently diagnosed epilepsy. The patients had to present with unprovoked partial-onset seizures with or without secondary generalisation. The patients were randomised to carbamazepine CR or lacosamide, provided as tablets, in a 1:1 ratio. The dose was based on dose-response and ranged from 400 to 1,200 mg/day for carbamazepine CR and from 200 to 600 mg/day for lacosamide. The duration of the treatment was up to 121 weeks depending on the response.
 
-The estimated 6-month seizure freedom rates were 89.8 % for lacosamide-treated patients and 91.1 % for carbamazepine CR treated patients using the Kaplan-Meier survival analysis method. The adjusted
-
-<div style=\"page-break-after: always\"></div>
-
-absolute difference between treatments was -1.3 % (95 % CI: -5.5, 2.8). The Kaplan-Meier estimates of 12-month seizure freedom rates were 77.8 % for lacosamide-treated patients and 82.7 % for carbamazepine CR treated patients.
+The estimated 6-month seizure freedom rates were 89.8 % for lacosamide-treated patients and 91.1 % for carbamazepine CR treated patients using the Kaplan-Meier survival analysis method. The adjusted absolute difference between treatments was -1.3 % (95 % CI: -5.5, 2.8). The Kaplan-Meier estimates of 12-month seizure freedom rates were 77.8 % for lacosamide-treated patients and 82.7 % for carbamazepine CR treated patients.
 
 The 6-month seizure freedom rates in elderly patients of 65 and above (62 patients in lacosamide, 57 patients in carbamazepine CR) were similar between both treatment groups. The rates were also similar to those observed in the overall population. In the elderly population, the maintenance lacosamide dose was 200 mg/day in 55 patients (88.7 %), 400 mg/day in 6 patients (9.7 %) and the dose was escalated to over 400 mg/day in 1 patient (1.6 %).
 
@@ -2401,13 +2398,13 @@ The efficacy of lacosamide as adjunctive therapy at recommended doses (200 mg/da
 
 The pharmacokinetics and safety of a single loading dose of intravenous lacosamide were determined in a multicenter, open-label study designed to assess the safety and tolerability of rapid initiation of lacosamide using a single intravenous loading dose (including 200 mg) followed by twice daily oral dosing (equivalent to the intravenous dose) as adjunctive therapy in adult subjects 16 to 60 years of age with partial-onset seizures.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
 Partial-onset seizures have a similar pathophysiology and clinical expression in children from 2 years of age and in adults. The efficacy of lacosamide in children aged 2 years and older has been extrapolated from data of adolescents and adults with partial-onset seizures, for whom a similar response was expected provided the paediatric dose adaptations are established (see section 4.2) and safety has been demonstrated (see section 4.8).
 
 The efficacy supported by the extrapolation principle stated above was confirmed by a double-blind, randomised, placebo-controlled clinical study. The study consisted of an 8-week baseline period followed by a 6-week titration period. Eligible patients on a stable dose regimen of 1 to ≤ 3 antiepileptic medicinal products, who still experienced at least 2 partial-onset seizures during the 4 weeks prior to screening with seizure-free phase no longer than 21 days in the 8-week period prior to entry into the baseline period, were randomised to receive either placebo (n=172) or lacosamide (n=171).
-
-<div style=\"page-break-after: always\"></div>
 
 Dosing was initiated at a dose of 2 mg/kg/day in subjects weighing less than 50 kg or 100 mg/day in subjects weighing 50 kg or more in 2 divided doses. During the titration period, lacosamide doses were adjusted in 1or 2 mg/kg/day increments in subjects weighing less than 50 kg or 50 or 100 mg/day in subjects weighing 50 kg or more at weekly intervals to achieve the target maintenance period dose range.
 
@@ -2425,27 +2422,37 @@ The efficacy of lacosamide as adjunctive therapy in patients 4 years of age and 
 
 Patients were titrated up to the target maintenance period dose of 12 mg/kg/day in patients weighing less than 30 kg, 8 mg/kg/day in patients weighing from 30 to less than 50 kg or 400 mg/day in patients weighing 50 kg or more.
 
+<div style=\"page-break-after: always\"></div>
+
 | Efficacy variable Parameter          | Placebo N=121   | Lacosamide N=118   |
 |--------------------------------------|-----------------|--------------------|
 | Time to second PGTCS                 |                 |                    |
 | Median (days)                        | 77.0            | -                  |
-| 95 %CI                               | 49.0, 128.0     | -                  |
+| 95 % CI                              | 49.0, 128.0     | -                  |
 | Lacosamide - Placebo                 |                 |                    |
 | Hazard Ratio                         | 0.540           | 0.540              |
-| 95 %CI                               | 0.377, 0.774    | 0.377, 0.774       |
+| 95 % CI                              | 0.377, 0.774    | 0.377, 0.774       |
 | p-value                              | < 0.001         | < 0.001            |
 | Seizure freedom                      |                 |                    |
 | Stratified Kaplan-Meier estimate (%) | 17.2            | 31.3               |
-| 95 %CI                               | 10.4, 24.0      | 22.8, 39.9         |
+| 95 % CI                              | 10.4, 24.0      | 22.8, 39.9         |
 | Lacosamide - Placebo                 | 14.1            | 14.1               |
-| 95 %CI                               | 3.2, 25.1       | 3.2, 25.1          |
+| 95 % CI                              | 3.2, 25.1       | 3.2, 25.1          |
 | p-value                              | 0.011           | 0.011              |
 
 Note: For the lacosamide group, the median time to second PGTCS could not be estimated by KaplanMeier methods because ˃ 50% of patients did not experience a second PGTCS by Day 166.
 
-<div style=\"page-break-after: always\"></div>
-
 The findings in the paediatric subgroup were consistent with the results of the overall population for the primary, secondary and other efficacy endpoints.
+
+## Acute treatment of newborns with repeated electroencephalographic neonatal seizures
+
+The efficacy of lacosamide as adjunctive therapy in the acute treatment of newborns (0-28 days) with repeated electroencephalographic neonatal seizures was evaluated in an open-label active comparator study. The primary endpoint was the reduction in seizure burden measured in the evaluation videoEEG compared with the baseline video-EEG.
+
+Twenty-nine patients were randomized 1:1 to receive either lacosamide or an active comparator selected and dosed based on local standard of care; 26 patients were treated with at least one dose of study drug, 14 participants in the lacosamide group and 12 participants in the active comparator group. Neonates in the lacosamide group received a dose of 15 mg/kg/day, administered in three divided doses (5mg/kg tid without titration) via 30-minute IV infusions.
+
+The mean (SD) duration of IV lacosamide exposure was 5.9 (2.6) days. During the evaluation period (1 - 3 hours after first dose), study participants randomized to lacosamide and active comparator displayed responder rates of 9 out of 15 and 6 out of 9, respectively. The mean (SD) absolute reduction in seizure burden was 6.64 (6.55) mins/h in the lacosamide group (N=15) and 2.45 (14.83) mins/h in the active comparator group (N=9).
+
+The relevance of the efficacy results was limited by the small number of enrolled study participants. Overall, 14 study participants (53.8%) reported 42 TEAEs: 9 participants (64.3%) in the lacosamide group (21 TEAEs) and 5 participants (41.7%) in the active comparator group (21 TEAEs). No major differences in the frequencies of most TEAEs were observed between the two groups. No new safety concerns were identified, although the interpretation of the safety data is limited by the small sample size.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -2454,6 +2461,8 @@ The findings in the paediatric subgroup were consistent with the results of the 
 After intravenous administration, Cmax is reached at the end of infusion. The plasma concentration increases proportionally with dose after oral (100-800 mg) and intravenous (50-300 mg) administration.
 
 ## Distribution
+
+<div style=\"page-break-after: always\"></div>
 
 The volume of distribution is approximately 0.6 L/kg. Lacosamide is less than 15 % bound to plasma proteins.
 
@@ -2479,13 +2488,13 @@ A single loading dose of 200 mg approximates steady-state concentrations compara
 
 Clinical studies indicate that gender does not have a clinically significant influence on the plasma concentrations of lacosamide.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Renal impairment
 
 The AUC of lacosamide was increased by approximately 30 % in mildly and moderately and 60 % in severely renal impaired patients and patients with end-stage renal disease requiring haemodialysis compared to healthy subjects, whereas Cmax was unaffected.
 
 Lacosamide is effectively removed from plasma by haemodialysis. Following a 4-hour haemodialysis treatment, AUC of lacosamide is reduced by approximately 50 %. Therefore, dosage supplementation following haemodialysis is recommended (see section 4.2). The exposure of the O-desmethyl metabolite was several-fold increased in patients with moderate and severe renal impairment. In absence of haemodialysis in patients with end-stage renal disease, the levels were increased and continuously rising during the 24-hour sampling. It is unknown whether the increased metabolite exposure in end-stage renal disease subjects could give rise to adverse effects but no pharmacological activity of the metabolite has been identified.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hepatic impairment
 
@@ -2503,7 +2512,7 @@ The paediatric pharmacokinetic profile of lacosamide was determined in a populat
 
 The typical plasma clearance was estimated to be 0.46 L/h, 0.81 L/h, 1.03 L/h and 1.34 L/h for paediatric patients weighing 10 kg, 20 kg, 30 kg and 50 kg respectively. In comparison, plasma clearance was estimated at 1.74 L/h in adults (70 kg body weight).
 
-Population pharmacokinetic analysis using sparse pharmacokinetic samples from PGTCS study showed a similar exposure in patients with PGTCS and in patients with partial-onset seizures.
+Population pharmacokinetic analysis using sparse pharmacokinetic samples from PGTCS study showed a similar exposure in patients with PGTCS and in patients with partial-onset seizures. In a study in newborns treated with lacosamide administered intravenously as 5 mg/kg three times a day, the average steady state exposure appeared to be higher but the range partly overlapped with the exposure in adults receiving lacosamide administered orally as 200 mg twice a day.
 
 ## 5.3 Preclinical safety data
 
@@ -2511,13 +2520,11 @@ In the toxicity studies, the plasma concentrations of lacosamide obtained were s
 
 A safety pharmacology study with intravenous administration of lacosamide in anesthetised dogs showed transient increases in PR interval and QRS complex duration and decreases in blood pressure most likely due to a cardiodepressant action. These transient changes started in the same concentration range as after maximum recommended clinical dosing. In anesthetised dogs and Cynomolgus monkeys, at intravenous doses of 15-60 mg/kg, slowing of atrial and ventricular conductivity, atrioventricular block and atrioventricular dissociation were seen.
 
-In the repeated dose toxicity studies, mild reversible liver changes were observed in rats starting at
-
-<div style=\"page-break-after: always\"></div>
-
-about 3 times the clinical exposure. These changes included an increased organ weight, hypertrophy of hepatocytes, increases in serum concentrations of liver enzymes and increases in total cholesterol and triglycerides. Apart from the hypertrophy of hepatocytes, no other histopathologic changes were observed.
+In the repeated dose toxicity studies, mild reversible liver changes were observed in rats starting at about 3 times the clinical exposure. These changes included an increased organ weight, hypertrophy of hepatocytes, increases in serum concentrations of liver enzymes and increases in total cholesterol and triglycerides. Apart from the hypertrophy of hepatocytes, no other histopathologic changes were observed.
 
 In reproductive and developmental toxicity studies in rodents and rabbits, no teratogenic effects but an increase in numbers of stillborn pups and pup deaths in the peripartum period, and slightly reduced live litter sizes and pup body weights were observed at maternal toxic doses in rats corresponding to systemic exposure levels similar to the expected clinical exposure. Since higher exposure levels could not be tested in animals due to maternal toxicity, data are insufficient to fully characterise the embryofetotoxic and teratogenic potential of lacosamide.
+
+<div style=\"page-break-after: always\"></div>
 
 Studies in rats revealed that lacosamide and/or its metabolites readily crossed the placental barrier. In juvenile rats and dogs, the types of toxicity do not differ qualitatively from those observed in adult animals. In juvenile rats, a reduced body weight was observed at systemic exposure levels similar to the expected clinical exposure. In juvenile dogs, transient and dose-related CNS clinical signs started to be observed at systemic exposure levels below the expected clinical exposure.
 
@@ -2549,17 +2556,17 @@ Colourless type I glass vial with a chlorobutyl rubber closure coated with a flu
 
 Not all pack sizes may be marketed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.6 Special precautions for disposal and other handling
 
 Product with particulate matter or discolouration should not be used.
 
 This medicinal product is for single use only, any unused solution should be discarded. Any unused medicinal product or waste material should be disposed of in accordance with local requirements. Vimpat solution for infusion was found to be physically compatible and chemically stable when mixed with the following diluents for at least 24 hours and stored in glass or PVC bags at temperatures up to 25°C.
 
-Diluents:
+Diluents: sodium chloride 9 mg/ml (0.9 %) solution for injection
 
-sodium chloride 9 mg/ml (0.9 %) solution for injection glucose 50 mg/ml (5 %) solution for injection lactated Ringer's solution for injection.
+glucose 50 mg/ml (5 %) solution for injection lactated Ringer's solution for injection.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -2605,13 +2612,13 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-- Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2. of the marketing authorisation and any agreed subsequent updates of the RMP.
 
@@ -2628,7 +2635,7 @@ An updated RMP should be submitted
 
 <div style=\"page-break-after: always\"></div>
 
-## A. LABELLING
+- A. LABELLING
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2726,23 +2733,26 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-Blister label
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| Blister label                                         |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 Vimpat 50 mg film-coated tablets &lt;For 56 x 1 and 14 x 1 film-coated tablets&gt; Vimpat 50 mg tablets lacosamide
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 UCB Pharma S.A.
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -2788,25 +2798,35 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 UCB Pharma S.A. Allée de la Recherche 60 B-1070 Bruxelles Belgium
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/08/470/032
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2836,7 +2856,9 @@ Vimpat 100 mg film-coated tablets lacosamide
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use
+Read the package leaflet before use.
+
+Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -2952,7 +2974,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -2964,25 +2986,35 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 UCB Pharma S.A. Allée de la Recherche 60 B-1070 Bruxelles Belgium
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/08/470/033
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3118,8 +3150,6 @@ EXP
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-<div style=\"page-break-after: always\"></div>
-
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 UCB Pharma S.A. Allée de la Recherche 60 B-1070 Bruxelles Belgium
@@ -3134,7 +3164,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -3146,9 +3176,15 @@ Vimpat 150 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -3194,8 +3230,6 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -3210,17 +3244,15 @@ EU/1/08/470/009
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Vimpat 150 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3230,7 +3262,11 @@ Blister label
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vimpat 150 mg film-coated tablets &lt;For 56 x 1 and 14 x 1 film-coated tablets&gt; Vimpat 150 mg tablets lacosamide
+Vimpat 150 mg film-coated tablets
+
+&lt;For 56 x 1 and 14 x 1 film-coated tablets&gt; Vimpat 150 mg tablets
+
+lacosamide
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3364,8 +3400,7 @@ Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/08/470/010 14 film-coated tablets
-
+- EU/1/08/470/010 14 film-coated tablets
 - EU/1/08/470/011 56 film-coated tablets
 - EU/1/08/470/023 56 x 1 film-coated tablets
 - EU/1/08/470/030 14 x 1 film-coated tablets
@@ -3440,7 +3475,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3450,15 +3485,15 @@ UCB Pharma S.A. Allée de la Recherche 60 B-1070 Bruxelles Belgium
 
 EU/1/08/470/012
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Vimpat 200 mg
 
@@ -3468,9 +3503,13 @@ Vimpat 200 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -3482,9 +3521,7 @@ Carton of 56 film-coated tablets 200 mg (without Blue Box)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vimpat 200 mg film-coated tablets
-
-lacosamide
+Vimpat 200 mg film-coated tablets lacosamide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3516,8 +3553,6 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -3532,8 +3567,7 @@ EU/1/08/470/012
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 
@@ -3551,9 +3585,7 @@ Blister label
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vimpat 200 mg film-coated tablets
-
-&lt;For 56 x 1 and 14 x 1 film-coated tablets&gt; Vimpat 200 mg tablets lacosamide
+Vimpat 200 mg film-coated tablets &lt;For 56 x 1 and 14 x 1 film-coated tablets&gt; Vimpat 200 mg tablets lacosamide
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3609,11 +3641,13 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 UCB Pharma S.A. Allée de la Recherche 60 B-1070 Bruxelles Belgium
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/08/470/035
 
@@ -3621,12 +3655,20 @@ EU/1/08/470/035
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3642,7 +3684,9 @@ Vimpat 100 mg
 
 Vimpat 150 mg
 
-Vimpat 200 mg film-coated tablets
+Vimpat 200 mg
+
+film-coated tablets
 
 lacosamide
 
@@ -3689,24 +3733,15 @@ Keep out of the sight and reach of children.
 
 <div style=\"page-break-after: always\"></div>
 
-| 7.   | OTHER SPECIAL WARNING(S), IF NECESSARY   |
-|------|------------------------------------------|
-
-| 8.   | EXPIRY DATE   |
-|------|---------------|
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
+8. EXPIRY DATE
 
 EXP
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
-10.
-
-SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
-
-OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
-
-APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3722,16 +3757,19 @@ EU/1/08/470/013
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
-Vimpat 50 mg Vimpat 100 mg Vimpat 150 mg Vimpat 200 mg
+Vimpat 50 mg
+
+Vimpat 100 mg
+
+Vimpat 150 mg
+
+Vimpat 200 mg
 
 | 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
 |-------|----------------------------------|
@@ -3740,8 +3778,8 @@ Vimpat 50 mg Vimpat 100 mg Vimpat 150 mg Vimpat 200 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -3815,31 +3853,35 @@ Vimpat 50 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+<div style=\"page-break-after: always\"></div>
 
-TREATMENT INITIATION PACK ONLY
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| TREATMENT INITIATION PACK ONLY                        |
+| Blister label - week 1                                |
 
-Blister label - week 1
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Vimpat 50 mg film-coated tablets lacosamide
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 UCB Pharma S.A.
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
+| 5.   | OTHER   |
+|------|---------|
 
 Week 1
 
@@ -3905,8 +3947,7 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Vimpat 100 mg
 
@@ -3914,31 +3955,35 @@ Vimpat 100 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+<div style=\"page-break-after: always\"></div>
 
-TREATMENT INITIATION PACK ONLY
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| TREATMENT INITIATION PACK ONLY                        |
+| Blister label - week 2                                |
 
-Blister label - week 2
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Vimpat 100 mg film-coated tablets lacosamide
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 UCB Pharma S.A.
 
-3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-5. OTHER
-
-<div style=\"page-break-after: always\"></div>
+| 5.   | OTHER   |
+|------|---------|
 
 Week 2
 
@@ -3954,7 +3999,9 @@ Carton  14 tablets - week 3
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vimpat 150 mg film-coated tablets lacosamide
+Vimpat 150 mg film-coated tablets
+
+lacosamide
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -4010,7 +4057,9 @@ Vimpat 150 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -4018,27 +4067,32 @@ TREATMENT INITIATION PACK ONLY
 
 Blister label - week 3
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-Vimpat 150 mg film-coated tablets lacosamide
+Vimpat 150 mg film-coated tablets
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+lacosamide
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 UCB Pharma S.A.
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 Week 3
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4102,14 +4156,13 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Vimpat 200 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -4125,15 +4178,15 @@ Vimpat 200 mg film-coated tablets lacosamide
 
 UCB Pharma S.A.
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
-4. BATCH NUMBER
+## 4. BATCH NUMBER
 
 Lot
 
-5. OTHER
+## 5. OTHER
 
 Week 4
 
@@ -4213,11 +4266,11 @@ EU/1/08/470/018
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Vimpat 10 mg/ml (only for the outer carton)
 
@@ -4227,11 +4280,11 @@ Vimpat 10 mg/ml (only for the outer carton)
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+```
+PC SN NN (only for the outer carton)
+```
 
 <div style=\"page-break-after: always\"></div>
-
-(only for the outer carton)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4295,7 +4348,9 @@ UCB Pharma S.A. Allée de la Recherche 60 B-1070 Bruxelles Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/08/470/016 EU/1/08/470/017
+EU/1/08/470/016
+
+EU/1/08/470/017
 
 ## 13. BATCH NUMBER
 
@@ -4365,8 +4420,7 @@ Do not store above 25°C.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -4384,16 +4438,13 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4403,7 +4454,9 @@ Justification for not including Braille accepted.
 
 <div style=\"page-break-after: always\"></div>
 
-Vimpat 50 mg film-coated tablets Vimpat 100 mg film-coated tablets Vimpat 150 mg film-coated tablets Vimpat 200 mg film-coated tablets lacosamide
+Vimpat 50 mg film-coated tablets Vimpat 100 mg film-coated tablets Vimpat 150 mg film-coated tablets Vimpat 200 mg film-coated tablets
+
+lacosamide
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -4432,8 +4485,8 @@ Vimpat contains lacosamide. This belongs to a group of medicines called 'antiepi
 ## What Vimpat is used for
 
 - Vimpat is used:
--  on its own and in association with other antiepileptic medicines in adults, adolescents and children aged 2 years and older to treat a certain type of epilepsy characterised by the occurrence of partial-onset seizure with or without secondary generalisation. In this type of epilepsy, fits first affect only one side of your brain. However, these may then spread to larger areas on both sides of your brain;
--  in association with other antiepileptic medicines in adults, adolescents and children aged 4 years and older to treat primary generalised tonic-clonic seizures (major fits, including loss of consciousness) in patients with idiopathic generalised epilepsy (the type of epilepsy that is thought to have a genetic cause).
+- on its own and in association with other antiepileptic medicines in adults, adolescents and children aged 2 years and older to treat a certain type of epilepsy characterised by the occurrence of partial-onset seizure with or without secondary generalisation. In this type of epilepsy, fits first affect only one side of your brain. However, these may then spread to larger areas on both sides of your brain;
+- in association with other antiepileptic medicines in adults, adolescents and children aged 4 years and older to treat primary generalised tonic-clonic seizures (major fits, including loss of consciousness) in patients with idiopathic generalised epilepsy (the type of epilepsy that is thought to have a genetic cause).
 
 ## 2. What you need to know before you take Vimpat
 
@@ -4442,11 +4495,9 @@ Vimpat contains lacosamide. This belongs to a group of medicines called 'antiepi
 - if you are allergic to lacosamide, or any of the other ingredients of this medicine (listed in section 6). If you are not sure whether you are allergic, please discuss with your doctor.
 - if you have a certain type of heart beat problem called second- or third-degree AV block.
 
-Do not take Vimpat if any of the above applies to you. If you are not sure, talk to your doctor or
+Do not take Vimpat if any of the above applies to you. If you are not sure, talk to your doctor or pharmacist before taking this medicine.
 
 <div style=\"page-break-after: always\"></div>
-
-pharmacist before taking this medicine.
 
 ## Warnings and precautions
 
@@ -4581,18 +4632,17 @@ Nervous system side effects such as dizziness may be higher after a single 'load
 
 ## Talk to your doctor or pharmacist if you get any of the following:
 
-Very common
-
-: may affect more than 1 in 10 people
+Very common : may affect more than 1 in 10 people
 
 - Headache;
 - Feeling dizzy or sick (nausea);
 - Double vision (diplopia).
+
+## Common : may affect up to 1 in 10 people
+
 - Short jerks of a muscle or group of muscles (myoclonic seizures);
 - Difficulties in coordinating your movements or walking;
 - Problems in keeping your balance, shaking (tremor), tingling (paresthesia) or muscle spasms,
-
-## Common : may affect up to 1 in 10 people
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4675,7 +4725,9 @@ Film-coat : polyvinyl alcohol, polyethylene glycol, talc, titanium dioxide (E171
 
 yellow iron oxide (E172).
 
-150 mg tablet: yellow iron oxide (E172), red iron oxide (E172), black iron oxide (E172).
+150 mg tablet: yellow iron oxide (E172),
+
+red iron oxide (E172), black iron oxide (E172).
 
 200 mg tablet:
 
@@ -4688,7 +4740,9 @@ indigo carmine aluminium lake (E132).
 - Vimpat 150 mg are salmon, oval film-coated tablets of approximately 15.1 mm x 7.0 mm with a debossed 'SP' on one side and '150' on the other side.
 - Vimpat 200 mg are blue, oval film-coated tablets of approximately 16.6 mm x 7.8 mm with a debossed 'SP' on one side and '200' on the other side.
 
-Vimpat is available in packs of 14, 28, 56, 60, 14 x 1 and 56 x 1 film-coated tablets. Vimpat 50 mg and Vimpat 100 mg are available in packs of 168 film-coated tablets and Vimpat 150 mg and Vimpat 200 mg are available in multipacks comprising 3 cartons, each containing 56 tablets. The 14 x 1 and 56 x 1 film-coated tablets packs are available as perforated unit dose PVC/PVDC blisters sealed with an aluminium foil, the 14, 28, 56 and 168 packs are available with standard PVC/PVDC blisters sealed with an aluminium foil, the 60 packs are available in HDPE bottles with a child-resistant closure. Not all pack sizes may be marketed.
+Vimpat is available in packs of 14, 28, 56, 60, 14 x 1 and 56 x 1 film-coated tablets.
+
+Vimpat 50 mg and Vimpat 100 mg are available in packs of 168 film-coated tablets and Vimpat 150 mg and Vimpat 200 mg are available in multipacks comprising 3 cartons, each containing 56 tablets. The 14 x 1 and 56 x 1 film-coated tablets packs are available as perforated unit dose PVC/PVDC blisters sealed with an aluminium foil, the 14, 28, 56 and 168 packs are available with standard PVC/PVDC blisters sealed with an aluminium foil, the 60 packs are available in HDPE bottles with a child-resistant closure. Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
@@ -4712,23 +4766,11 @@ UCB Pharma SA/NV
 
 Tél/Tel: + 32 / (0)2 559 92 00
 
-## Lietuva
-
-UCB Pharma Oy Finland
-
-Tel: + 358 9 2514 4221 (Suomija)
-
 ## България
 
 Ю СИ БИ България ЕООД
 
 Te л. : + 359 (0) 2 962 30 49
-
-## Luxembourg/Luxemburg
-
-UCB Pharma SA/NV
-
-Tél/Tel: + 32 / (0)2 559 92 00 (Belgique/Belgien)
 
 ## Česká republika
 
@@ -4736,23 +4778,11 @@ UCB s.r.o.
 
 Tel: + 420 221 773 411
 
-## Magyarország
-
-UCB Magyarország Kft.
-
-Tel.: + 36-(1) 391 0060
-
 ## Danmark
 
 UCB Nordic A/S
 
 Tlf.: + 45 / 32 46 24 00
-
-## Malta
-
-Pharmasud Ltd.
-
-Tel: + 356 / 21 37 64 36
 
 ## Deutschland
 
@@ -4760,23 +4790,11 @@ UCB Pharma GmbH
 
 Tel: + 49 /(0) 2173 48 4848
 
-## Nederland
-
-UCB Pharma B.V.
-
-Tel.: + 31 / (0)76-573 11 40
-
 ## Eesti
 
 UCB Pharma Oy Finland
 
 Tel: + 358 9 2514 4221 (Soome)
-
-## Norge
-
-UCB Nordic A/S
-
-Tlf: + 47 / 67 16 5880
 
 ## Ελλάδα
 
@@ -4786,35 +4804,17 @@ UCB Α . Ε
 
 Τηλ: + 30 / 2109974000
 
-## Österreich
-
-UCB Pharma GmbH
-
-Tel: + 43 (0)1 291 80 00
-
 ## España
 
 UCB Pharma, S.A.
 
 Tel: + 34 / 91 570 34 44
 
-## Polska
-
-UCB Pharma Sp. z o.o. / VEDIM Sp. z o.o.
-
-Tel.: + 48 22 696 99 20
-
 ## France
 
-UCB Pharma S.A.
+UCB Pharma
 
 Tél: + 33 / (0)1 47 29 44 35
-
-## Portugal
-
-UCB Pharma (Produtos Farmacêuticos), Lda
-
-Tel: + 351 21 302 5300
 
 ## Hrvatska
 
@@ -4822,17 +4822,69 @@ Medis Adria d.o.o.
 
 Tel: +385 (0) 1 230 34 46
 
-## România
-
-UCB Pharma Romania S.R.L.
-
-Tel: + 40 21 300 29 04
-
 ## Ireland
 
 UCB (Pharma) Ireland Ltd.
 
 Tel: + 353 / (0)1-46 37 395
+
+## Lietuva
+
+UCB Pharma Oy Finland
+
+Tel: + 358 9 2514 4221 (Suomija)
+
+## Luxembourg/Luxemburg
+
+UCB Pharma SA/NV
+
+Tél/Tel: + 32 / (0)2 559 92 00 (Belgique/Belgien)
+
+## Magyarország
+
+UCB Magyarország Kft.
+
+Tel.: + 36-(1) 391 0060
+
+## Malta
+
+Pharmasud Ltd.
+
+Tel: + 356 / 21 37 64 36
+
+## Nederland
+
+UCB Pharma B.V.
+
+Tel.: + 31 / (0)76-573 11 40
+
+## Norge
+
+UCB Nordic A/S
+
+Tlf: + 47 / 67 16 5880
+
+## Österreich
+
+UCB Pharma GmbH
+
+Tel: + 43 (0)1 291 80 00
+
+## Polska
+
+UCB Pharma Sp. z o.o. / VEDIM Sp. z o.o.
+
+Tel.: + 48 22 696 99 20
+
+## Portugal
+
+UCB Pharma (Produtos Farmacêuticos), Lda Tel: + 351 21 302 5300
+
+## România
+
+UCB Pharma Romania S.R.L.
+
+Tel: + 40 21 300 29 04
 
 ## Slovenija
 
@@ -4874,9 +4926,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Slovenská republika
 
-UCB s.r.o. , organizačná zložka
-
-Tel: + 421 (0) 2 5920 2020
+UCB s.r.o. , organizačná zložka Tel: + 421 (0) 2 5920 2020
 
 ## Suomi/Finland
 
@@ -4894,7 +4944,9 @@ Tel: + 46 / (0) 40 29 49 00
 
 <div style=\"page-break-after: always\"></div>
 
-Vimpat 50 mg film-coated tablets Vimpat 100 mg film-coated tablets Vimpat 150 mg film-coated tablets Vimpat 200 mg film-coated tablets lacosamide
+Vimpat 50 mg film-coated tablets Vimpat 100 mg film-coated tablets Vimpat 150 mg film-coated tablets Vimpat 200 mg film-coated tablets
+
+lacosamide
 
 The treatment initiation pack is only suitable in adolescents and children weighing 50 kg or more and in adults.
 
@@ -4925,7 +4977,7 @@ Vimpat contains lacosamide. This belongs to a group of medicines called 'antiepi
 ## What Vimpat is used for
 
 - Vimpat is used:
--  on its own and in association with other antiepileptic medicines in adults, adolescents and children aged 2 years and older to treat a certain type of epilepsy characterised by the occurrence of partial-onset seizure with or without secondary generalisation. In this type of epilepsy, fits first affect only one side of your brain. However, these may then spread to larger areas on both sides of your brain;
+- on its own and in association with other antiepileptic medicines in adults, adolescents and children aged 2 years and older to treat a certain type of epilepsy characterised by the occurrence of partial-onset seizure with or without secondary generalisation. In this type of epilepsy, fits first affect only one side of your brain. However, these may then spread to larger areas on both sides of your brain;
 -  in association with other antiepileptic medicines in adults, adolescents and children aged 4 years and older to treat primary generalised tonic-clonic seizures (major fits, including loss of consciousness) in patients with idiopathic generalised epilepsy (the type of epilepsy that is thought to have a genetic cause).
 
 ## 2. What you need to know before you take Vimpat
@@ -5199,7 +5251,7 @@ a debossed 'SP' on one side and '150' on the other side.
 
 - Vimpat 200 mg are blue, oval film-coated tablets of approximately 16.6 mm x 7.8 mm with a debossed 'SP' on one side and '200' on the other side.
 
-## The treatment initiation pack contains 56 film-coated tablets in 4 packages:
+The treatment initiation pack contains 56 film-coated tablets in 4 packages:
 
 - the package marked 'Week 1'contains 14 tablets of 50 mg,
 - the package marked 'Week 2' contains 14 tablets of 100 mg,
@@ -5300,9 +5352,7 @@ UCB Α . Ε
 
 .
 
-Τηλ: +
-
-30 / 2109974000
+Τηλ: + 30 / 2109974000
 
 ## Österreich
 
@@ -5324,15 +5374,13 @@ Tel.: + 48 22 696 99 20
 
 ## France
 
-UCB Pharma S.A.
+UCB Pharma
 
 Tél: + 33 / (0)1 47 29 44 35
 
 ## Portugal
 
-UCB Pharma (Produtos Farmacêuticos), Lda
-
-Tel: + 351 21 302 5300
+UCB Pharma (Produtos Farmacêuticos), Lda Tel: + 351 21 302 5300
 
 ## Hrvatska
 
@@ -5400,7 +5448,7 @@ UCB Pharma Oy Finland
 
 Tel: + 358 9 2514 4221 (Somija)
 
-## This leaflet was last revised in {month/YYYY}.
+This leaflet was last revised in {month/YYYY}.
 
 ## Other sources of information
 
@@ -5443,8 +5491,8 @@ Vimpat contains lacosamide. This belongs to a group of medicines called 'antiepi
 ## What Vimpat is used for
 
 - Vimpat is used:
--  on its own and in association with other antiepileptic medicines in adults, adolescents and children aged 2 years and older to treat a certain type of epilepsy characterised by the occurrence of partial-onset seizure with or without secondary generalisation. In this type of epilepsy, fits first affect only one side of your brain. However, these may then spread to larger areas on both sides of your brain;
--  in association with other antiepileptic medicines in adults, adolescents and children aged 4 years and older to treat primary generalised tonic-clonic seizures (major fits, including loss of consciousness) in patients with idiopathic generalised epilepsy (the type of epilepsy that is thought to have a genetic cause).
+- on its own and in association with other antiepileptic medicines in adults, adolescents and children aged 2 years and older to treat a certain type of epilepsy characterised by the occurrence of partial-onset seizure with or without secondary generalisation. In this type of epilepsy, fits first affect only one side of your brain. However, these may then spread to larger areas on both sides of your brain;
+- in association with other antiepileptic medicines in adults, adolescents and children aged 4 years and older to treat primary generalised tonic-clonic seizures (major fits, including loss of consciousness) in patients with idiopathic generalised epilepsy (the type of epilepsy that is thought to have a genetic cause).
 
 ## 2. What you need to know before you take Vimpat
 
@@ -5619,7 +5667,7 @@ Use the 10 ml oral syringe (black graduation marks) or the 30 ml measuring cup p
 
 <div style=\"page-break-after: always\"></div>
 
-To be taken twice daily for children and adolescents weighing from 20 kg to less than 30 kg
+## To be taken twice daily for children and adolescents weighing from 20 kg to less than 30 kg
 
 | Weight                                                                           | Week 1 Starting dose: 0.1 ml/kg                                                  | Week 2 0.2 ml/kg                                                                 | Week 3 0.3 ml/kg                                                                 | Week 4 0.4 ml/kg                                                                 | Week 5 Maximum recommended dose: 0.5 ml/kg                                       |
 |----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
@@ -5662,7 +5710,7 @@ It is important that you use the correct device to measure your dose. Your docto
 
 Your doctor will show you how to use the oral syringe, before you use it for the first time. If you have any questions, please go back to your doctor or pharmacist.
 
-Shake the bottle well before use.
+## Shake the bottle well before use.
 
 Open the bottle by pressing the cap while turning it anti-clockwise (figure 1).
 
@@ -5714,7 +5762,6 @@ There are two ways in which you can choose to drink the medicine:
 
 If you have taken more Vimpat than you should, contact your doctor immediately. Do not try to drive. You may experience:
 
-- •
 - dizziness;
 - feeling sick (nausea) or being sick (vomiting);
 - fits (seizures), heart beat problems such as a slow, fast or irregular heart beat, coma or a fall in blood pressure with rapid heartbeat and sweating.
@@ -5740,7 +5787,7 @@ Nervous system side effects such as dizziness may be higher after a single 'load
 
 ## Talk to your doctor or pharmacist if you get any of the following:
 
-## Very common : may affect more than 1 in 10 people
+Very common : may affect more than 1 in 10 people
 
 - Headache;
 - Feeling dizzy or sick (nausea);
@@ -5790,11 +5837,9 @@ The additional side effects in children were fever (pyrexia), runny nose (nasoph
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 <div style=\"page-break-after: always\"></div>
-
-listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Vimpat
 
@@ -5845,9 +5890,7 @@ Tél/Tel: + 32 / (0)2 559 92 00
 
 ## България
 
-Ю СИ БИ България ЕООД
-
-Te л. : + 359 (0) 2 962 30 49
+Ю СИ БИ България ЕООД Te л. : + 359 (0) 2 962 30 49
 
 ## Česká republika
 
@@ -5857,7 +5900,9 @@ Tel: + 420 221 773 411
 
 ## Danmark
 
-UCB Nordic A/S Tlf.: + 45 / 32 46 24 00
+UCB Nordic A/S
+
+Tlf.: + 45 / 32 46 24 00
 
 ## Deutschland
 
@@ -5869,11 +5914,7 @@ UCB Pharma Oy Finland Tel: + 358 9 2514 4221 (Soome)
 
 ## Ελλάδα
 
-UCB Α . Ε
-
-.
-
-Τηλ: + 30 / 2109974000
+UCB Α . Ε . Τηλ: + 30 / 2109974000
 
 ## España
 
@@ -5881,7 +5922,7 @@ UCB Pharma, S.A. Tel: + 34 / 91 570 34 44
 
 ## France
 
-UCB Pharma S.A.
+UCB Pharma
 
 Tél: + 33 / (0)1 47 29 44 35
 
@@ -5903,13 +5944,13 @@ UCB Pharma S.p.A. Tel: + 39 / 02 300 791
 
 ## Lietuva
 
-UCB Pharma Oy Finland Tel: + 358 9 2514 4221 (Suomija)
+UCB Pharma Oy Finland
+
+Tel: + 358 9 2514 4221 (Suomija)
 
 ## Luxembourg/Luxemburg
 
-UCB Pharma SA/NV
-
-Tél/Tel: + 32 / (0)2 559 92 00 (Belgique/Belgien)
+UCB Pharma SA/NV Tél/Tel: + 32 / (0)2 559 92 00 (Belgique/Belgien)
 
 ## Magyarország
 
@@ -5961,17 +6002,15 @@ UCB s.r.o. , organizačná zložka Tel: + 421 (0) 2 5920 2020
 
 UCB Pharma Oy Finland Puh/Tel: + 358 9 2514 4221
 
+<div style=\"page-break-after: always\"></div>
+
 ## Κύπρος
 
 Lifepharma (Z.A.M.) Ltd Τηλ: + 357 22 05 63 00
 
-<div style=\"page-break-after: always\"></div>
+## Latvija
 
-Latvija
-
-UCB Pharma Oy Finland
-
-Tel: + 358 9 2514 4221 (Somija)
+UCB Pharma Oy Finland Tel: + 358 9 2514 4221 (Somija)
 
 ## This leaflet was last revised in {month/YYYY}.
 
@@ -6015,7 +6054,7 @@ Vimpat contains lacosamide. This belongs to a group of medicines called 'antiepi
 ## What Vimpat is used for
 
 - Vimpat is used:
--  on its own and in association with other antiepileptic medicines in adults, adolescents and children aged 2 years and older to treat a certain type of epilepsy characterised by the occurrence of partial-onset seizure with or without secondary generalisation. In this type of epilepsy, fits first affect only one side of your brain. However, these may then spread to larger areas on both sides of your brain;
+- on its own and in association with other antiepileptic medicines in adults, adolescents and children aged 2 years and older to treat a certain type of epilepsy characterised by the occurrence of partial-onset seizure with or without secondary generalisation. In this type of epilepsy, fits first affect only one side of your brain. However, these may then spread to larger areas on both sides of your brain;
 -  in association with other antiepileptic medicines in adults, adolescents and children aged 4 years and older to treat primary generalised tonic-clonic seizures (major fits, including loss of consciousness) in patients with idiopathic generalised epilepsy (the type of epilepsy that is thought to have a genetic cause).
 
 ## 2. What you need to know before you use Vimpat
@@ -6260,19 +6299,17 @@ Nervous system side effects such as dizziness may be higher after a single 'load
 
 There may be local side effects.
 
-Common
+Common : may affect up to 1 in 10 people
 
-: may affect up to 1 in 10 people
+<div style=\"page-break-after: always\"></div>
 
 - Injection site pain or discomfort or irritation.
 
 Uncommon : may affect up to 1 in 100 people
 
-- •
+- ·
 
 Injection site redness.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Additional side effects in children
 
@@ -6300,11 +6337,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Vimpat contains
 
-- •
-- The active substance is lacosamide.
-
-1 ml Vimpat solution for infusion contains 10 mg lacosamide.
-
+- ·
+- The active substance is lacosamide. 1 ml Vimpat solution for infusion contains 10 mg lacosamide.
 - 1 vial contains 20 ml Vimpat solution for infusion equivalent to 200 mg lacosamide.
 - The other ingredients are: sodium chloride, hydrochloric acid, water for injections.
 
@@ -6336,23 +6370,11 @@ UCB Pharma SA/NV
 
 Tél/Tel: + 32 / (0)2 559 92 00
 
-## Lietuva
-
-UCB Pharma Oy Finland
-
-Tel: + 358 9 2514 4221 (Suomija)
-
 ## България
 
 Ю СИ БИ България ЕООД
 
 Te л. : + 359 (0) 2 962 30 49
-
-## Luxembourg/Luxemburg
-
-UCB Pharma SA/NV
-
-Tél/Tel: + 32 / (0)2 559 92 00 (Belgique/Belgien)
 
 ## Česká republika
 
@@ -6360,23 +6382,11 @@ UCB s.r.o.
 
 Tel: + 420 221 773 411
 
-## Magyarország
-
-UCB Magyarország Kft.
-
-Tel.: + 36-(1) 391 0060
-
 ## Danmark
 
 UCB Nordic A/S
 
 Tlf.: + 45 / 32 46 24 00
-
-## Malta
-
-Pharmasud Ltd.
-
-Tel: + 356 / 21 37 64 36
 
 ## Deutschland
 
@@ -6384,23 +6394,11 @@ UCB Pharma GmbH
 
 Tel: + 49 /(0) 2173 48 4848
 
-## Nederland
-
-UCB Pharma B.V.
-
-Tel.: + 31 / (0)76-573 11 40
-
 ## Eesti
 
 UCB Pharma Oy Finland
 
 Tel: + 358 9 2514 4221 (Soome)
-
-## Norge
-
-UCB Nordic A/S
-
-Tlf: + 47 / 67 16 5880
 
 ## Ελλάδα
 
@@ -6410,33 +6408,17 @@ UCB Α . Ε
 
 Τηλ: + 30 / 2109974000
 
-## Österreich
-
-UCB Pharma GmbH
-
-Tel: + 43 (0)1 291 80 00
-
 ## España
 
 UCB Pharma, S.A.
 
 Tel: + 34 / 91 570 34 44
 
-## Polska
-
-UCB Pharma Sp. z o.o. / VEDIM Sp. z o.o.
-
-Tel.: + 48 22 696 99 20
-
 ## France
 
-UCB Pharma S.A.
+UCB Pharma
 
 Tél: + 33 / (0)1 47 29 44 35
-
-## Portugal
-
-UCB Pharma (Produtos Farmacêuticos), Lda Tel: + 351 21 302 5300
 
 ## Hrvatska
 
@@ -6444,29 +6426,75 @@ Medis Adria d.o.o.
 
 Tel: +385 (0) 1 230 34 46
 
-## România
-
-UCB Pharma Romania S.R.L.
-
-Tel: + 40 21 300 29 04
-
 ## Ireland
 
 UCB (Pharma) Ireland Ltd.
 
 Tel: + 353 / (0)1-46 37 395
 
-## Slovenija
-
-Medis, d.o.o.
-
-Tel: + 386 1 589 69 00
-
 ## Ísland
 
 UCB Nordic A/S
 
 Sími: + 45 / 32 46 24 00
+
+## Lietuva
+
+UCB Pharma Oy Finland Tel: + 358 9 2514 4221 (Suomija)
+
+## Luxembourg/Luxemburg
+
+UCB Pharma SA/NV
+
+Tél/Tel: + 32 / (0)2 559 92 00 (Belgique/Belgien)
+
+## Magyarország
+
+UCB Magyarország Kft.
+
+Tel.: + 36-(1) 391 0060
+
+## Malta
+
+Pharmasud Ltd.
+
+Tel: + 356 / 21 37 64 36
+
+## Nederland
+
+UCB Pharma B.V. Tel.: + 31 / (0)76-573 11 40
+
+## Norge
+
+UCB Nordic A/S
+
+Tlf: + 47 / 67 16 5880
+
+## Österreich
+
+UCB Pharma GmbH
+
+Tel: + 43 (0)1 291 80 00
+
+## Polska
+
+UCB Pharma Sp. z o.o. / VEDIM Sp. z o.o. Tel.: + 48 22 696 99 20
+
+## Portugal
+
+UCB Pharma (Produtos Farmacêuticos), Lda Tel: + 351 21 302 5300
+
+## România
+
+UCB Pharma Romania S.R.L.
+
+Tel: + 40 21 300 29 04
+
+## Slovenija
+
+Medis, d.o.o.
+
+Tel: + 386 1 589 69 00
 
 ## Slovenská republika
 

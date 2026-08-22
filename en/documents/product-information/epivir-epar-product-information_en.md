@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 21:16:13
-document_pages: 77
+document_datetime: 2026-08-20 15:39:23
+document_pages: 78
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/epivir-epar-product-information_en.pdf
 document_name: epivir-epar-product-information_en.pdf
 version: success
-processing_time: 15.1300924
-conversion_datetime: 2025-12-15 00:14:03.425772
+processing_time: 16.6116303
+conversion_datetime: 2026-08-23 00:31:33.532383
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -36,13 +36,7 @@ Each film-coated tablet contains 150 mg lamivudine.
 
 Epivir 300 mg film-coated tablets
 
-Each film-coated tablet contains 300 mg lamivudine
-
-## Excipient(s) with known effect:
-
-Each 150 mg tablet contains 0.378 mg sodium.
-
-Each 300 mg tablet contains 0.756 mg sodium.
+Each film-coated tablet contains 300 mg lamivudine.
 
 For the full list of excipients, see section 6.1.
 
@@ -74,13 +68,13 @@ Epivir may be administered with or without food.
 
 To ensure administration of the entire dose, the tablet(s) should ideally be swallowed without crushing.
 
-Epivir is also available as an oral solution for children over three months of age and who weigh less than 14 kg or for patients who are unable to swallow tablets (see section 4.4).
+Epivir is also available as an oral solution for children over three months of age and who weigh less than 14 kg or for patients who are unable to swallow tablets (see section 4.4). Patients changing between lamivudine oral solution and lamivudine tablets should follow the dosing
 
-Patients changing between lamivudine oral solution and lamivudine tablets should follow the dosing recommendations that are specific for the formulation (see section 5.2)
-
-<div style=\"page-break-after: always\"></div>
+recommendations that are specific for the formulation (see section 5.2)
 
 Alternatively, for patients who are unable to swallow tablets, the tablet(s) may be crushed and added to a small amount of semi-solid food or liquid, all of which should be consumed immediately (see section 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Adults, adolescents and children (weighing at least 25 kg):
 
@@ -92,7 +86,7 @@ The 300 mg tablet is only suitable for the once a day regimen.
 
 Dosing according to weight bands is recommended for Epivir tablets.
 
-Children weighing ≥ 20 kg to &lt;25 kg : The recommended dose is 225 mg daily. This may be administered as either 75 mg (one-half of a 150 mg tablet) taken in the morning and 150 mg (one whole 150 mg tablet) taken in the evening, or 225 mg (one and a half 150 mg tablets) taken once daily .
+Children weighing ≥ 20 kg to &lt; 25 kg : The recommended dose is 225 mg daily. This may be administered as either 75 mg (one-half of a 150 mg tablet) taken in the morning and 150 mg (one whole 150 mg tablet) taken in the evening, or 225 mg (one and a half 150 mg tablets) taken once daily .
 
 Children weighing 14 to &lt; 20 kg : The recommended dose is 150 mg daily. This may be administered as 75 mg (one-half of a 150 mg tablet) taken twice daily, or 150 mg (one whole 150 mg tablet) taken once daily.
 
@@ -106,34 +100,34 @@ Patients changing from the twice daily dosing regimen to the once daily dosing r
 
 Older people: No specific data are available; however, special care is advised in this age group due to age-associated changes such as the decrease in renal function and alteration of haematological parameters.
 
-Renal impairment: Lamivudine concentrations are increased in patients with moderate - severe renal impairment due to decreased clearance.  The dose should therefore be adjusted, using oral solution presentation of Epivir for patients whose creatinine clearance falls below 30 ml/min (see tables).
+Renal impairment: Lamivudine concentrations are increased in patients with moderate - severe renal impairment due to decreased clearance. The dose should therefore be adjusted, using oral solution presentation of Epivir for patients whose creatinine clearance falls below 30 mL/min (see tables).
 
-Dosing recommendations - Adults, adolescents and children (weighing at least 25 kg):
+Dosing recommendations -Adults, adolescents and children (weighing at least 25 kg):
 
-| Creatinine clearance (ml/min)   | First dose    | Maintenance dose                        |
-|---------------------------------|---------------|-----------------------------------------|
-| ≥ 50                            | 300 mg 150 mg | 300 mg once daily or 150 mg twice daily |
-| 30-<50                          | 150 mg        | 150 mg once daily                       |
+| Creatinine clearance (mL/min)                                                    | First dose                                                                       | Maintenance dose                                                                 |
+|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+|  50                                                                             | 300 mg 150 mg                                                                    | 300 mg once daily or 150 mg twice daily                                          |
+| 30 - < 50                                                                        | 150 mg                                                                           | 150 mg once daily                                                                |
+| <30 As doses below 150 mg are needed the use of the oral solution is recommended | <30 As doses below 150 mg are needed the use of the oral solution is recommended | <30 As doses below 150 mg are needed the use of the oral solution is recommended |
+| 15 to < 30                                                                       | 150 mg                                                                           | 100 mg once daily                                                                |
+| 5 to < 15                                                                        | 150 mg                                                                           | 50 mg once daily                                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-| <30 As doses below 150 mg are needed the use of the oral solution is recommended   | <30 As doses below 150 mg are needed the use of the oral solution is recommended   | <30 As doses below 150 mg are needed the use of the oral solution is recommended   |
-|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| 15 to <30                                                                          | 150 mg                                                                             | 100 mg once daily                                                                  |
-| 5 to <15                                                                           | 150 mg                                                                             | 50 mg once daily                                                                   |
-| <5                                                                                 | 50 mg                                                                              | 25 mg once daily                                                                   |
+| < 5   | 50 mg   | 25 mg once daily   |
+|-------|---------|--------------------|
 
-There are no data available on the use of lamivudine in children with renal impairment.  Based on the assumption that creatinine clearance and lamivudine clearance are correlated similarly in children as in adults; it is recommended that the dosage in children with renal impairment be reduced according to their creatinine clearance by the same proportion as in adults. The Epivir 10 mg/mL oral solution may be the most appropriate formulation to achieve the recommended dose in children with renal impairment aged at least 3 months and weighing less than 25kg.
+There are no data available on the use of lamivudine in children with renal impairment. Based on the assumption that creatinine clearance and lamivudine clearance are correlated similarly in children as in adults, it is recommended that the dosage in children with renal impairment be reduced according to their creatinine clearance by the same proportion as in adults. The Epivir 10 mg/mL oral solution may be the most appropriate formulation to achieve the recommended dose in children with renal impairment aged at least 3 months and weighing less than 25 kg.
 
-Dosing recommendations - Children aged at least 3 months and weighing less than 25 kg:
+Dosing recommendations -Children aged at least 3 months and weighing less than 25 kg:
 
-| Creatinine clearance (ml/min)   | First dose       | Maintenance dose                           |
+| Creatinine clearance (mL/min)   | First dose       | Maintenance dose                           |
 |---------------------------------|------------------|--------------------------------------------|
-| ≥ 50                            | 10 mg/kg 5 mg/kg | 10 mg/kg once daily or 5 mg/kg twice daily |
-| 30 to<50                        | 5 mg/kg          | 5 mg/kg once daily                         |
-| 15 to <30                       | 5 mg/kg          | 3.3 mg/kg once daily                       |
-| 5 to <15                        | 5 mg/kg          | 1.6 mg/kg once daily                       |
-| <5                              | 1.6 mg/kg        | 0.9 mg/kg once daily                       |
+|  50                            | 10 mg/kg 5 mg/kg | 10 mg/kg once daily or 5 mg/kg twice daily |
+| 30 to< 50                       | 5 mg/kg          | 5 mg/kg once daily                         |
+| 15 to < 30                      | 5 mg/kg          | 3.3 mg/kg once daily                       |
+| 5 to < 15                       | 5 mg/kg          | 1.6 mg/kg once daily                       |
+| < 5                             | 1.6 mg/kg        | 0.9 mg/kg once daily                       |
 
 Hepatic impairment: Data obtained in patients with moderate to severe hepatic impairment shows that lamivudine pharmacokinetics are not significantly affected by hepatic dysfunction. Based on these data, no dose adjustment is necessary in patients with moderate or severe hepatic impairment unless accompanied by renal impairment.
 
@@ -145,43 +139,65 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 Epivir is not recommended for use as monotherapy.
 
-Renal impairment: In patients with moderate to severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (see section 4.2).
+## Renal impairment
 
-Triple nucleoside therapy: There have been reports of a high rate of virological failure and of emergence of resistance at an early stage when lamivudine was combined with tenofovir disoproxil fumarate and abacavir as well as with tenofovir disoproxil fumarate and didanosine as a once daily regimen.
+In patients with moderate to severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (see section 4.2).
 
-Opportunistic infections: Patients receiving Epivir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with associated HIV diseases.
+## Triple nucleoside therapy
 
-Pancreatitis : Cases of pancreatitis have occurred rarely.  However, it is not clear whether these cases were due to the antiretroviral treatment or to the underlying HIV disease.  Treatment with Epivir should be stopped immediately if clinical signs, symptoms or laboratory abnormalities suggestive of pancreatitis occur.
+There have been reports of a high rate of virological failure and of emergence of resistance at an early stage when lamivudine was combined with tenofovir disoproxil fumarate and abacavir as well as with tenofovir disoproxil fumarate and didanosine as a once daily regimen.
+
+## Opportunistic infections
+
+Patients receiving Epivir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with associated HIV diseases.
+
+## Pancreatitis
+
+Cases of pancreatitis have occurred rarely. However, it is not clear whether these cases were due to the antiretroviral treatment or to the underlying HIV disease. Treatment with Epivir should be stopped immediately if clinical signs, symptoms or laboratory abnormalities suggestive of pancreatitis occur.
 
 <div style=\"page-break-after: always\"></div>
 
-Mitochondrial dysfunction following exposure in utero: Nucleoside and nucleotide analogues may impact mitochondrial function to a variable degree, which is most pronounced with stavudine, didanosine and zidovudine. There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues; these have predominantly concerned treatment with regimens containing zidovudine. The main adverse reactions reported are haematological disorders (anaemia, neutropenia) and metabolic disorders (hyperlactatemia, hyperlipasemia). These events have often been transitory. Late-onset neurological disorders have been reported rarely (hypertonia, convulsion, abnormal behaviour). Whether such neurological disorders are transient or permanent is currently unknown. These findings should be considered for any child exposed in utero to nucleoside and nucleotide analogues, who presents with severe clinical findings of unknown etiology, particularly neurologic findings. These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
+## Mitochondrial dysfunction following exposure in utero
 
-Weight and metabolic parameters: An increase in weight and in levels of blood lipids and glucose may occur during antiretroviral therapy. Such changes may in part be linked to disease control and life style. For lipids, there is in some cases evidence for a treatment effect, while for weight gain there is no strong evidence relating this to any particular treatment. For monitoring of blood lipids and glucose reference is made to established HIV treatment guidelines. Lipid disorders should be managed as clinically appropriate.
+Nucleoside and nucleotide analogues may impact mitochondrial function to a variable degree, which is most pronounced with stavudine, didanosine and zidovudine. There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues; these have predominantly concerned treatment with regimens containing zidovudine. The main adverse reactions reported are haematological disorders (anaemia, neutropenia) and metabolic disorders (hyperlactatemia, hyperlipasemia). These events have often been transitory. Late-onset neurological disorders have been reported rarely (hypertonia, convulsion, abnormal behaviour). Whether such neurological disorders are transient or permanent is currently unknown. These findings should be considered for any child exposed in utero to nucleoside and nucleotide analogues, who presents with severe clinical findings of unknown etiology, particularly neurologic findings. These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
 
-Immune Reactivation Syndrome: In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms. Typically, such reactions have been observed within the first few weeks or months of initiation of CART. Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis jirovecii pneumonia (often referred to as PCP). Any inflammatory symptoms should be evaluated and treatment instituted when necessary. Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
+## Weight and metabolic parameters
 
-Liver disease: If lamivudine is being used concomitantly for the treatment of HIV and HBV, additional information relating to the use of lamivudine in the treatment of hepatitis B infection is available in the Zeffix SPC.
+An increase in weight and in levels of blood lipids and glucose may occur during antiretroviral therapy. Such changes may in part be linked to disease control and life style. For lipids, there is in some cases evidence for a treatment effect, while for weight gain there is no strong evidence relating this to any particular treatment. For monitoring of blood lipids and glucose reference is made to established HIV treatment guidelines. Lipid disorders should be managed as clinically appropriate.
+
+## Immune Reactivation Syndrome
+
+In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms. Typically, such reactions have been observed within the first few weeks or months of initiation of CART. Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis jirovecii pneumonia (often referred to as PCP). Any inflammatory symptoms should be evaluated and treatment instituted when necessary. Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
+
+## Liver disease
+
+If lamivudine is being used concomitantly for the treatment of HIV and HBV, additional information relating to the use of lamivudine in the treatment of hepatitis B infection is available in the Zeffix SPC.
 
 Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk of severe and potentially fatal hepatic adverse events. In case of concomitant antiviral therapy for hepatitis B or C, please refer also to the relevant product information for these medicinal products.
 
 If Epivir is discontinued in patients co-infected with hepatitis B virus, periodic monitoring of liver function tests and markers of HBV replication is recommended, as withdrawal of lamivudine may result in an acute exacerbation of hepatitis (see Zeffix SPC).
 
-Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy, and should be monitored according to standard practice.  If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered (see section 4.8).
-
-Paediatric population: In a study performed in paediatric patients (see section 5.1 ARROW study), lower rates of virologic suppression and more frequent viral resistance were reported in children receiving the oral solution of Epivir as compared to those receiving the tablet formulation. Whenever possible in children, Epivir as tablet formulation should preferably be used.
+Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy, and should be monitored according to standard practice. If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered (see section 4.8).
 
 <div style=\"page-break-after: always\"></div>
 
-Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART). Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
+## Paediatric population
 
-Drug Interactions: Epivir should not be taken with any other medicinal products containing lamivudine or medicinal products containing emtricitabine (see section 4.5).
+In a study performed in paediatric patients (see section 5.1 ARROW study), lower rates of virologic suppression and more frequent viral resistance were reported in children receiving the oral solution of Epivir as compared to those receiving the tablet formulation. Whenever possible in children, Epivir as tablet formulation should preferably be used.
 
-The combination of lamivudine with cladribine is not-recommended (see section 4.5).
+## Osteonecrosis
 
-## Excipients:
+Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART). Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
 
-Sodium: This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'.
+## Drug Interactions
+
+Epivir should not be taken with any other medicinal products containing lamivudine or medicinal products containing emtricitabine (see section 4.5).
+
+The combination of lamivudine with cladribine is not recommended (see section 4.5).
+
+## Excipients
+
+Sodium: This medicinal product contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -189,23 +205,21 @@ Interaction studies have only been performed in adults.
 
 The likelihood of metabolic interactions is low due to limited metabolism and plasma protein binding and almost complete renal clearance.
 
-Administration of trimethoprim/sulfamethoxazole 160 mg/800 mg results in a 40 % increase in lamivudine exposure, because of the trimethoprim component; the sulfamethoxazole component did not interact. However, unless the patient has renal impairment, no dosage adjustment of lamivudine is necessary (see section 4.2).  Lamivudine has no effect on the pharmacokinetics of trimethoprim or sulfamethoxazole.  When concomitant administration is warranted, patients should be monitored clinically. Co-administration of lamivudine with high doses of co-trimoxazole for the treatment of Pneumocystis jirovecii pneumonia (PCP) and toxoplasmosis should be avoided.
+Administration of trimethoprim/sulfamethoxazole 160 mg/800 mg results in a 40 % increase in lamivudine exposure, because of the trimethoprim component; the sulfamethoxazole component did not interact. However, unless the patient has renal impairment, no dosage adjustment of lamivudine is necessary (see section 4.2). Lamivudine has no effect on the pharmacokinetics of trimethoprim or sulfamethoxazole. When concomitant administration is warranted, patients should be monitored clinically. Co-administration of lamivudine with high doses of co-trimoxazole for the treatment of Pneumocystis jirovecii pneumonia (PCP) and toxoplasmosis should be avoided.
 
-The possibility of interactions with other medicinal products administered concurrently should be considered, particularly when the main route of elimination is active renal secretion via the organic cationic transport system e.g. trimethoprim. Other medicinal products (e.g. ranitidine, cimetidine) are eliminated only in part by this mechanism and were shown not to interact with lamivudine.  The nucleoside analogues (e.g. didanosine) like zidovudine, are not eliminated by this mechanism and are unlikely to interact with lamivudine.
+The possibility of interactions with other medicinal products administered concurrently should be considered, particularly when the main route of elimination is active renal secretion via the organic cationic transport system e.g. trimethoprim. Other medicinal products (e.g. ranitidine, cimetidine) are eliminated only in part by this mechanism and were shown not to interact with lamivudine. The nucleoside analogues (e.g. didanosine) like zidovudine, are not eliminated by this mechanism and are unlikely to interact with lamivudine.
 
 A modest increase in Cmax (28 %) was observed for zidovudine when administered with lamivudine, however overall exposure (AUC) is not significantly altered. Zidovudine has no effect on the pharmacokinetics of lamivudine (see section 5.2).
 
 Due to similarities, Epivir should not be administered concomitantly with other cytidine analogues, such as emtricitabine. Moreover, Epivir should not be taken with any other medicinal products containing lamivudine (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 In vitro lamivudine inhibits the intracellular phosphorylation of cladribine leading to a potential risk of cladribine loss of efficacy in case of combination in the clinical setting. Some clinical findings also support a possible interaction between lamivudine and cladribine. Therefore, the concomitant use of lamivudine with cladribine is not recommended (see section 4.4).
 
 Lamivudine metabolism does not involve CYP3A, making interactions with medicinal products metabolised by this system (e.g. PIs) unlikely.
 
-Coadministration of sorbitol solution (3.2 g, 10.2 g, 13.4 g) with a single 300 mg dose of lamivudine oral solution resulted in dose-dependent decreases of 14%, 32%, and 36% in lamivudine exposure (AUC ∞ ) and 28%, 52%, and 55% in the Cmax of lamivudine in adults. When possible, avoid chronic coadministration of Epivir with medicinal products containing sorbitol or other osmotic acting poly-
-
-<div style=\"page-break-after: always\"></div>
-
-alcohols or monosaccharide alcohols (e.g. xylitol, mannitol, lactitol, maltitol). Consider more frequent monitoring of HIV-1 viral load when chronic coadministration cannot be avoided.
+Coadministration of sorbitol solution (3.2 g, 10.2 g, 13.4 g) with a single 300 mg dose of lamivudine oral solution resulted in dose-dependent decreases of 14%, 32%, and 36% in lamivudine exposure (AUC  ) and 28%, 52%, and 55% in the Cmax of lamivudine in adults. When possible, avoid chronic coadministration of Epivir with medicinal products containing sorbitol or other osmotic acting polyalcohols or monosaccharide alcohols (e.g. xylitol, mannitol, lactitol, maltitol). Consider more frequent monitoring of HIV-1 viral load when chronic coadministration cannot be avoided.
 
 ## 4.6 Fertility, Pregnancy and lactation
 
@@ -213,15 +227,15 @@ alcohols or monosaccharide alcohols (e.g. xylitol, mannitol, lactitol, maltitol)
 
 As a general rule, when deciding to use antiretroviral agents for the treatment of HIV infection in pregnant women and consequently for reducing the risk of HIV vertical transmission to the newborn, the animal data as well as the clinical experience in pregnant women should be taken into account. Animal studies with lamivudine showed an increase in early embryonic deaths in rabbits but not in rats (see section 5.3). Placental transfer of lamivudine has been shown to occur in humans.
 
-More than 1000 outcomes from first trimester and more than 1000 outcomes from second and third trimester exposure in pregnant women indicate no malformative and foeto/neonatal effect. Epivir can be used during pregnancy if clinically needed. The malformative risk is unlikely in humans based on those data.
+More than 1000 outcomes from first trimester and more than 1000 outcomes from second and third trimester exposure in pregnant women indicate no evidence of malformative or foeto/neonatal toxicity of Epivir. Epivir can be used during pregnancy if clinically needed. The malformative risk is unlikely in humans based on those data.
 
 For patients co-infected with hepatitis who are being treated with lamivudine and subsequently become pregnant, consideration should be given to the possibility of a recurrence of hepatitis on discontinuation of lamivudine.
 
-Mitochondrial dysfunction: Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage. There have been reports of mitochondrial dysfunction in infants exposed in utero and/or post-natally to nucleoside analogues (see section 4.4).
+Mitochondrial dysfunction: Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage. There have been reports of mitochondrial dysfunction in infants exposed in utero and/or postnatally to nucleoside analogues (see section 4.4).
 
 ## Breast-feeding
 
-Following oral administration lamivudine was excreted in breast milk at similar concentrations to those found in serum. Based on more than 200 mother/child pairs treated for HIV, serum concentrations of lamivudine in breastfed infants of mothers treated for HIV are very low (&lt; 4% of maternal serum concentrations) and progressively decrease to undetectable levels when breastfed infants reach 24 weeks of age. There are no data available on the safety of lamivudine when administered to babies less than three months old.  It is recommended that women living with HIV do not breast-feed their infants in order to avoid transmission of HIV.
+Following oral administration lamivudine was excreted in breast milk at similar concentrations to those found in serum. Based on more than 200 mother/child pairs treated for HIV, serum concentrations of lamivudine in breastfed infants of mothers treated for HIV are very low (&lt; 4% of maternal serum concentrations) and progressively decrease to undetectable levels when breastfed infants reach 24 weeks of age. There are no data available on the safety of lamivudine when administered to babies less than three months old. It is recommended that women living with HIV do not breast-feed their infants in order to avoid transmission of HIV.
 
 ## Fertility
 
@@ -229,109 +243,81 @@ Studies in animals showed that lamivudine had no effect on fertility (see sectio
 
 ## 4.7 Effects on ability to drive and use machines
 
-No studies on the effects on the ability to drive and use machines have been performed.
+Epivir has no or negligible influence on the ability to drive and use machines. However, patients should be informed that malaise and fatigue have been reported during treatment with lamivudine (see section 4.8). The clinical status of the patient and the adverse reaction profile of lamivudine should be borne in mind when considering the patient's ability to drive or operate machinery.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.8 Undesirable effects
 
 The following adverse reactions have been reported during therapy for HIV disease with Epivir.
 
-The adverse reactions considered at least possibly related to the treatment are listed below by body system, organ class and absolute frequency. Frequencies are defined as very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1,000 to &lt;1/100), rare ( ≥ 1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+The adverse reactions considered at least possibly related to the treatment are listed below by body system, organ class and absolute frequency. Frequencies are defined as very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1 000 to &lt;1/100), rare ( ≥ 1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Blood and lymphatic systems disorders Uncommon : Neutropenia and anaemia (both occasionally severe), thrombocytopenia
+## Blood and lymphatic systems disorders
 
-## Very rare : Pure red cell aplasia
+Uncommon : neutropenia and anaemia (both occasionally severe), thrombocytopenia Very rare : pure red cell aplasia
 
-Metabolism and nutrition disorders
-
-Very rare
-
-: Lactic acidosis
+Metabolism and nutrition disorders Very rare : lactic acidosis
 
 Nervous system disorders
 
 Common:
 
-Headache, insomnia
+headache, insomnia
 
 Very rare:
 
-Peripheral neuropathy (or paraesthesia)
+peripheral neuropathy (or paraesthesia)
 
-Respiratory, Thoracic and mediastinal disorders
-
-Common:
-
-Cough, nasal symptoms
-
-Gastrointestinal disorders
+Respiratory, thoracic and mediastinal disorders
 
 Common:
 
-Nausea, vomiting, abdominal pain or cramps, diarrhoea
+cough, nasal symptoms
 
-Rare:
-
-Pancreatitis, elevations in serum amylase
+Gastrointestinal disorders Common: nausea, vomiting, abdominal pain or cramps, diarrhoea Rare: pancreatitis, elevations in serum amylase
 
 Hepatobiliary disorders
 
-Uncommon:
-
-Transient elevations in liver enzymes (AST, ALT)
-
-Rare:
-
-Hepatitis
+Uncommon: transient elevations in liver enzymes (AST, ALT) Rare: hepatitis
 
 Skin and subcutaneous tissue disorders
 
 Common:
 
-Rash, alopecia
+rash, alopecia
 
 Rare:
 
-Angioedema
+angioedema
 
-## Musculoskeletal and connective tissue disorders
-
-Common:
-
-Arthralgia, muscle disorders
-
-Rare:
-
-Rhabdomyolysis
+Musculoskeletal and connective tissue disorders Common: arthralgia, muscle disorders Rare: rhabdomyolysis
 
 ## General disorders and administration site conditions
 
-Common:
+Common: fatigue, malaise, fever
 
-Fatigue, malaise, fever
+Weight and levels of blood lipids and glucose may increase during antiretroviral therapy (see section 4.4)
+
+In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise. Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
 
 <div style=\"page-break-after: always\"></div>
-
-## Weight and levels of blood lipids and glucose may increase during antiretroviral therapy (see section 4.4)
-
-In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.  Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
 
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term combined antiretroviral exposure (CART). The frequency of which is unknown (see section 4.4).
 
 ## Paediatric population
 
-1206 HIV-infected paediatric patients aged 3 months to 17 years were enrolled in the ARROW Trial (COL105677), 669 of whom received abacavir and lamivudine either once or twice daily (see section 5.1). No additional safety issues have been identified in paediatric subjects receiving either once or twice daily dosing compared to adults.
+1206 HIV-infected paediatric patients aged 3 months to 17 years were enrolled in the ARROW study (COL105677), 669 of whom received abacavir and lamivudine either once or twice daily (see section 5.1). No additional safety issues have been identified in paediatric subjects receiving either once or twice daily dosing compared to adults.
 
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.9 Overdose
 
 Administration of lamivudine at very high dose levels in acute animal studies did not result in any organ toxicity. No specific signs or symptoms have been identified following acute overdose with lamivudine, apart from those listed as undesirable effects.
 
-If overdosage occurs the patient should be monitored, and standard supportive treatment applied as required.  Since lamivudine is dialysable, continuous haemodialysis could be used in the treatment of overdosage, although this has not been studied.
+If overdosage occurs the patient should be monitored, and standard supportive treatment applied as required. Since lamivudine is dialysable, continuous haemodialysis could be used in the treatment of overdosage, although this has not been studied.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -341,23 +327,23 @@ Pharmacotherapeutic group: nucleoside analogue, ATC Code: J05AF05.
 
 ## Mechanism of action
 
-Lamivudine is a nucleoside analogue which has activity against human immunodeficiency virus (HIV) and hepatitis B virus (HBV).  It is metabolised intracellularly to the active moiety, lamivudine 5'triphosphate. Its main mode of action is as a chain terminator of viral reverse transcription. The triphosphate has selective inhibitory activity against HIV-1 and HIV-2 replication in vitro , it is also active against zidovudine-resistant clinical isolates of HIV. No antagonistic effects in vitro were seen with lamivudine and other anti-retrovirals (tested agents: abacavir, didanosine, nevirapine and zidovudine).
+Lamivudine is a nucleoside analogue which has activity against human immunodeficiency virus (HIV) and hepatitis B virus (HBV). It is metabolised intracellularly to the active moiety, lamivudine 5' -triphosphate. Its main mode of action is as a chain terminator of viral reverse transcription. The triphosphate has selective inhibitory activity against HIV-1 and HIV-2 replication in vitro , it is also active against zidovudine-resistant clinical isolates of HIV. No antagonistic effects in vitro were seen with lamivudine and other anti-retrovirals (tested agents: abacavir, didanosine, nevirapine and zidovudine).
 
 ## Resistance
 
-HIV-1 resistance to lamivudine involves the development of a M184V amino acid change close to the active site of the viral reverse transcriptase (RT). This variant arises both in vitro and in HIV-1 infected patients treated with lamivudine-containing antiretroviral therapy.  M184V mutants display greatly reduced susceptibility to lamivudine and show diminished viral replicative capacity in vitro . In vitro studies indicate that zidovudine-resistant virus isolates can become zidovudine sensitive when they simultaneously acquire resistance to lamivudine.  The clinical relevance of such findings remains, however, not well defined.
+HIV-1 resistance to lamivudine involves the development of a M184V amino acid change close to the active site of the viral reverse transcriptase (RT). This variant arises both in vitro and in HIV-1 infected patients treated with lamivudine-containing antiretroviral therapy. M184V mutants display greatly reduced susceptibility to lamivudine and show diminished viral replicative capacity in vitro . In vitro studies indicate that zidovudine-resistant virus isolates can become zidovudine sensitive when they simultaneously acquire resistance to lamivudine. The clinical relevance of such findings remains, however, not well defined.
 
-In vitro data tend to suggest that the continuation of lamivudine in anti-retroviral regimen despite the development of M184V might provide residual anti-retroviral activity (likely through impaired viral fitness).  The clinical relevance of these findings is not established.  Indeed, the available clinical data are very limited and preclude any reliable conclusion in the field.  In any case, initiation of susceptible NRTI's should always be preferred to maintenance of lamivudine therapy.  Therefore, maintaining lamivudine therapy despite emergence of M184V mutation should only be considered in cases where no other active NRTI's are available.
-
-Cross-resistance conferred by the M184V RT is limited within the nucleoside inhibitor class of antiretroviral agents. Zidovudine and stavudine maintain their antiretroviral activities against lamivudine-resistant HIV-1. Abacavir maintains its antiretroviral activities against lamivudineresistant HIV-1 harbouring only the M184V mutation.  The M184V RT mutant shows a &lt;4-fold decrease in susceptibility to didanosine; the clinical significance of these findings is unknown. In vitro susceptibility testing has not been standardised and results may vary according to methodological factors.
-
-Lamivudine demonstrates low cytotoxicity to peripheral blood lymphocytes, to established lymphocyte and monocyte-macrophage cell lines, and to a variety of bone marrow progenitor cells in vitro .
+In vitro data tend to suggest that the continuation of lamivudine in anti-retroviral regimen despite the development of M184V might provide residual anti-retroviral activity (likely through impaired viral fitness). The clinical relevance of these findings is not established. Indeed, the available clinical data are very limited and preclude any reliable conclusion in the field. In any case, initiation of susceptible NRTI's should always be preferred to maint enance of lamivudine therapy. Therefore, maintaining lamivudine therapy despite emergence of M184V mutation should only be considered in cases where no other active NRTI's are available.
 
 <div style=\"page-break-after: always\"></div>
 
+Cross-resistance conferred by the M184V RT is limited within the nucleoside inhibitor class of antiretroviral agents. Zidovudine and stavudine maintain their antiretroviral activities against lamivudine-resistant HIV-1. Abacavir maintains its antiretroviral activities against lamivudineresistant HIV-1 harbouring only the M184V mutation. The M184V RT mutant shows a &lt;4-fold decrease in susceptibility to didanosine; the clinical significance of these findings is unknown. In vitro susceptibility testing has not been standardised and results may vary according to methodological factors.
+
+Lamivudine demonstrates low cytotoxicity to peripheral blood lymphocytes, to established lymphocyte and monocyte-macrophage cell lines, and to a variety of bone marrow progenitor cells in vitro .
+
 ## Clinical efficacy and safety
 
-In clinical trials, lamivudine in combination with zidovudine has been shown to reduce HIV-1 viral load and increase CD4 cell count.  Clinical end-point data indicate that lamivudine in combination with zidovudine, results in a significant reduction in the risk of disease progression and mortality.
+In clinical trials, lamivudine in combination with zidovudine has been shown to reduce HIV-1 viral load and increase CD4 cell count. Clinical end-point data indicate that lamivudine in combination with zidovudine, results in a significant reduction in the risk of disease progression and mortality.
 
 Evidence from clinical studies shows that lamivudine plus zidovudine delays the emergence of zidovudine resistant isolates in individuals with no prior antiretroviral therapy.
 
@@ -371,42 +357,41 @@ Multiple drug antiretroviral therapy containing lamivudine has been shown to be 
 
 The relationship between in vitro susceptibility of HIV to lamivudine and clinical response to lamivudine-containing therapy remains under investigation.
 
-Lamivudine at a dose of 100 mg once daily has also been shown to be effective for the treatment of adult patients with chronic HBV infection (for details of clinical studies, see the prescribing information for Zeffix).  However, for the treatment of HIV infection only a 300 mg daily dose of lamivudine (in combination with other antiretroviral agents) has been shown to be efficacious.
+Lamivudine at a dose of 100 mg once daily has also been shown to be effective for the treatment of adult patients with chronic HBV infection (for details of clinical studies, see the prescribing information for Zeffix). However, for the treatment of HIV infection only a 300 mg daily dose of lamivudine (in combination with other antiretroviral agents) has been shown to be efficacious.
 
 Lamivudine has not been specifically investigated in HIV patients co-infected with HBV.
 
 Once daily dosing (300 mg once a day): a clinical study has demonstrated the non-inferiority between Epivir once a day and Epivir twice a day containing regimens. These results were obtained in an antiretroviral naïve-population, primarily consisting of asymptomatic HIV infected patients (CDC stage A).
 
-Paediatric population: a randomised comparison of a regimen including once daily vs twice daily dosing of abacavir and lamivudine was undertaken within a randomised, multicentre, controlled study of HIV-infected, paediatric patients. 1206 paediatric patients aged 3 months to 17 years enrolled in the ARROW Trial (COL105677) and were dosed according to the weight - band dosing recommendations in the World Health Organisation treatment guidelines (Antiretroviral therapy of HIV infection in infants and children, 2006). After 36 weeks on a regimen including twice daily abacavir and lamivudine, 669 eligible subjects were randomised to either continue twice daily dosing or switch to once daily abacavir and lamivudine for at least 96 weeks. Of note, from this study clinical data were not available for children under one year old. The results are summarised in the table below:
-
-Virological Response Based on Plasma HIV-1 RNA less than 80 copies/ml at Week 48 and Week 96 in the Once Daily versus Twice Daily abacavir + lamivudine randomisation of ARROW (Observed Analysis)
-
-| Twice Daily   | Once Daily   |
-|---------------|--------------|
-| N (%)         | N (%)        |
-
 <div style=\"page-break-after: always\"></div>
 
-| W eek 0 (After ≥36 Weeks on Treatment)   | W eek 0 (After ≥36 Weeks on Treatment)   | W eek 0 (After ≥36 Weeks on Treatment)   |
-|------------------------------------------|------------------------------------------|------------------------------------------|
-| Plasma HIV-1 RNA <80 c/ml                | 250/331 (76)                             | 237/335 (71)                             |
-| Risk difference (once daily-twice daily) | -4.8% (95% CI -11.5% to +1.9%), p=0.16   | -4.8% (95% CI -11.5% to +1.9%), p=0.16   |
-| Week 48                                  | Week 48                                  | Week 48                                  |
-| Plasma HIV-1 RNA <80 c/ml                | 242/331 (73)                             | 236/330 (72)                             |
-| Risk difference (once daily-twice daily) | -1.6% (95% CI -8.4% to +5.2%), p=0.65    | -1.6% (95% CI -8.4% to +5.2%), p=0.65    |
-| Week 96                                  | Week 96                                  | Week 96                                  |
-| Plasma HIV-1 RNA <80 c/ml                | 234/326 (72)                             | 230/331 (69)                             |
-| Risk difference (once daily-twice daily) | -2.3% (95% CI -9.3% to +4.7%), p=0.52    | -2.3% (95% CI -9.3% to +4.7%), p=0.52    |
+Paediatric population: a randomised comparison of a regimen including once daily vs twice daily dosing of abacavir and lamivudine was undertaken within a randomised, multicentre, controlled study of HIV-infected, paediatric patients. 1206 paediatric patients aged 3 months to 17 years enrolled in the ARROW Trial (COL105677) and were dosed according to the weight - band dosing recommendations in the World Health Organisation treatment guidelines (Antiretroviral therapy of HIV infection in infants and children, 2006). After 36 weeks on a regimen including twice daily abacavir and lamivudine, 669 eligible subjects were randomised to either continue twice daily dosing or switch to once daily abacavir and lamivudine for at least 96 weeks. Of note, from this study clinical data were not available for children under one year old. The results are summarised in the table below:
 
-In a pharmacokinetic study (PENTA 15), four virologically controlled subjects less than 12 months of age switched from abacavir plus lamivudine oral solution twice daily to a once daily regimen. Three subjects had undetectable viral load and one had plasmatic HIV-RNA of 900 copies/ml at Week 48. No safety concerns were observed in these subjects.
+## Virological Response Based on Plasma HIV-1 RNA less than 80 copies/mL at Week 48 and Week 96 in the Once Daily versus Twice Daily abacavir + lamivudine randomisation of ARROW (Observed Analysis)
 
-The abacavir + lamivudine once daily dosing group was demonstrated to be non-inferior to the twice daily group according to the pre-specified non-inferiority margin of -12%, for the primary endpoint of &lt;80 c/ml at Week 48 as well as at Week 96 (secondary endpoint) and all other thresholds tested (&lt;200c/ml, &lt;400c/ml, &lt;1000c/ml), which all fell well within this non-inferiority margin. Subgroup analyses testing for heterogeneity of once vs twice daily demonstrated no significant effect of sex, age, or viral load at randomisation. Conclusions supported non-inferiority regardless of analysis method.
+|                                          | Twice Daily N (%)                      | Once Daily N (%)                       |
+|------------------------------------------|----------------------------------------|----------------------------------------|
+| W eek 0 (After ≥36 Weeks on Treatment)   | W eek 0 (After ≥36 Weeks on Treatment) | W eek 0 (After ≥36 Weeks on Treatment) |
+| Plasma HIV-1 RNA <80 c/mL                | 250/331 (76)                           | 237/335 (71)                           |
+| Risk difference (once daily-twice daily) | -4.8% (95% CI -11.5% to +1.9%), p=0.16 | -4.8% (95% CI -11.5% to +1.9%), p=0.16 |
+| Week 48                                  | Week 48                                | Week 48                                |
+| Plasma HIV-1 RNA <80 c/mL                | 242/331 (73)                           | 236/330 (72)                           |
+| Risk difference (once daily-twice daily) | -1.6% (95% CI -8.4% to +5.2%), p=0.65  | -1.6% (95% CI -8.4% to +5.2%), p=0.65  |
+| Week 96                                  | Week 96                                | Week 96                                |
+| Plasma HIV-1 RNA <80 c/mL                | 234/326 (72)                           | 230/331 (69)                           |
+| Risk difference (once daily-twice daily) | -2.3% (95% CI -9.3% to +4.7%), p=0.52  | -2.3% (95% CI -9.3% to +4.7%), p=0.52  |
+
+In a pharmacokinetic study (PENTA 15), four virologically controlled subjects less than 12 months of age switched from abacavir plus lamivudine oral solution twice daily to a once daily regimen. Three subjects had undetectable viral load and one had plasmatic HIV-RNA of 900 copies/mL at Week 48. No safety concerns were observed in these subjects.
+
+The abacavir + lamivudine once daily dosing group was demonstrated to be non-inferior to the twice daily group according to the pre-specified non-inferiority margin of -12%, for the primary endpoint of &lt;80 c/mL at Week 48 as well as at Week 96 (secondary endpoint) and all other thresholds tested (&lt;200c/mL, &lt;400c/mL, &lt;1000c/mL), which all fell well within this non-inferiority margin. Subgroup analyses testing for heterogeneity of once vs twice daily demonstrated no significant effect of sex, age, or viral load at randomisation. Conclusions supported non-inferiority regardless of analysis method.
 
 At the time of randomization to once daily vs twice daily dosing (Week 0), those patients who had received tablet formulations had a higher rate of viral load suppression than those who had received any solution formulations at any time. These differences were observed in each different age group studied. This difference in suppression rates between tablets and solutions remained through Week 96 with once daily dosing.
 
-## Proportions of Subjects in the Once Daily versus Twice Daily Abacavir+Lamivudine Randomisation of ARROW with Plasma HIV-1 RNA &lt;80 copies/ml: Subgroup Analysis by Formulation
+<div style=\"page-break-after: always\"></div>
 
-|                                      | Twice Daily Plasma HIV-1 RNA <80 c/ml: n/N (%)   | Once Daily Plasma HIV-1 RNA <80 c/ml: n/N (%)   |
+## Proportions of Subjects in the Once Daily versus Twice Daily Abacavir+Lamivudine Randomisation of ARROW with Plasma HIV-1 RNA &lt;80 copies/mL: Subgroup Analysis by Formulation
+
+|                                      | Twice Daily Plasma HIV-1 RNA <80 c/mL: n/N (%)   | Once Daily Plasma HIV-1 RNA <80 c/mL: n/N (%)   |
 |--------------------------------------|--------------------------------------------------|-------------------------------------------------|
 | Week 0 (after 36 weeks on Treatment) |                                                  |                                                 |
 | Any solution regimen at any time     | 14/26 (54)                                       | 15/30 (50)                                      |
@@ -415,57 +400,57 @@ At the time of randomization to once daily vs twice daily dosing (Week 0), those
 | Any solution regimen at any time     | 13/26 (50)                                       | 17/30 (57)                                      |
 | All tablet based regimen throughout  | 221/300 (74)                                     | 213/301 (71)                                    |
 
-Genotypic resistance analyses were conducted on samples with plasma HIV-1 RNA &gt;1000 copies/ml. More cases of resistance were detected among patients who had received lamivudine solution, in combination with other antiretroviral solutions, compared with those who received similar doses of tablet formulation. This is consistent with the lower rates of antiviral suppression observed in these patients.
-
-<div style=\"page-break-after: always\"></div>
+Genotypic resistance analyses were conducted on samples with plasma HIV-1 RNA &gt;1000 copies/mL. More cases of resistance were detected among patients who had received lamivudine solution, in combination with other antiretroviral solutions, compared with those who received similar doses of tablet formulation. This is consistent with the lower rates of antiviral suppression observed in these patients.
 
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
-Lamivudine is well absorbed from the gastrointestinal tract, and the bioavailability of oral lamivudine in adults is normally between 80 and 85%.  Following oral administration, the mean time (tmax) to maximal serum concentrations (Cmax) is about an hour. Based on data derived from a study in healthy volunteers, at a therapeutic dose of 150 mg twice daily, mean (CV) steady-state Cmax and Cmin of lamivudine in plasma are 1.2 µg/ml (24%) and 0.09 µg/ml (27%), respectively.  The mean (CV) AUC over a dosing interval of 12 hours is 4.7 µg.h/ml (18%).  At a therapeutic dose of 300 mg once daily, the mean (CV) steady-state Cmax, Cmin and 24h AUC are 2.0 µg/ml (26%), 0.04 µg/ml (34%) and 8.9 µg.h/ml (21%), respectively.
+Lamivudine is well absorbed from the gastrointestinal tract, and the bioavailability of oral lamivudine in adults is normally between 80 and 85%. Following oral administration, the mean time (tmax) to maximal serum concentrations (Cmax) is about an hour. Based on data derived from a study in healthy volunteers, at a therapeutic dose of 150 mg twice daily, mean (CV) steady-state Cmax and Cmin of lamivudine in plasma are 1.2 µg/mL (24%) and 0.09 µg/mL (27%), respectively.  The mean (CV) AUC over a dosing interval of 12 hours is 4.7 µg.h/mL (18%). At a therapeutic dose of 300 mg once daily, the mean (CV) steady-state Cmax, Cmin and 24h AUC are 2.0 µg/mL (26%), 0.04 µg/mL (34%) and 8.9 µg.h/mL (21%), respectively.
 
-The 150 mg tablet is bioequivalent and dose proportional to the 300 mg tablet with respect to AUC ∞ , Cmax, and tmax . Administration of Epivir tablets is bioequivalent to Epivir oral solution with respect to AUC ∞ and Cmax in adults. Absorption differences have been observed between adult and paediatric populations (see Special populations).
+The 150 mg tablet is bioequivalent and dose proportional to the 300 mg tablet with respect to AUC  , Cmax, and tmax . Administration of Epivir tablets is bioequivalent to Epivir oral solution with respect to AUC ∞ and Cmax in adults. Absorption differences have been observed between adult and paediatric populations (see Special populations).
 
 Co-administration of lamivudine with food results in a delay of tmax and a lower C   max (decreased by 47%). However, the extent (based on the AUC) of lamivudine absorbed is not influenced.
 
-Administration of crushed tablets with a small amount of semi-solid food or liquid would not be expected to have an impact on the pharmaceutical quality, and would therefore not be expected to alter the clinical effect.  This conclusion is based on the physiochemical and pharmacokinetic data assuming that the patient crushes and transfers 100% of the tablet and ingests immediately.
+Administration of crushed tablets with a small amount of semi-solid food or liquid would not be expected to have an impact on the pharmaceutical quality, and would therefore not be expected to alter the clinical effect. This conclusion is based on the physiochemical and pharmacokinetic data assuming that the patient crushes and transfers 100% of the tablet and ingests immediately.
 
-Co-administration of zidovudine results in a 13% increase in zidovudine exposure and a 28 % increase in peak plasma levels.  This is not considered to be of significance to patient safety and therefore no dosage adjustments are necessary.
+Co-administration of zidovudine results in a 13% increase in zidovudine exposure and a 28 % increase in peak plasma levels. This is not considered to be of significance to patient safety and therefore no dosage adjustments are necessary.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
-From intravenous studies, the mean volume of distribution is 1.3 l/kg.    The mean systemic clearance of lamivudine is approximately
+From intravenous studies, the mean volume of distribution is 1.3 l/kg. The mean systemic clearance of lamivudine is approximately
 
 0.32 l/h/kg, with predominantly renal clearance (&gt; 70%) via the organic cationic transport system.
 
 Lamivudine exhibits linear pharmacokinetics over the therapeutic dose range and displays limited binding to the major plasma protein albumin (&lt; 16% - 36% to serum albumin in in vitro studies).
 
-Limited data show that lamivudine penetrates the central nervous system and reaches the cerebrospinal fluid (CSF).  The mean ratio CSF/serum lamivudine concentration 2-4 hours after oral administration was approximately 0.12.  The true extent of penetration or relationship with any clinical efficacy is unknown.
+Limited data show that lamivudine penetrates the central nervous system and reaches the cerebrospinal fluid (CSF). The mean ratio CSF/serum lamivudine concentration 2-4 hours after oral administration was approximately 0.12. The true extent of penetration or relationship with any clinical efficacy is unknown.
 
 ## Biotransformation
 
-The plasma lamivudine half-life after oral dosing is 18 to 19 hours and the active moiety, intracellular lamivudine triphosphate, has a prolonged terminal half-life in the cell (16 to 19 hours).  In 60 healthy adult volunteers, Epivir 300 mg once daily has been demonstrated to be pharmacokinetically equivalent at steady-state to Epivir 150 mg twice daily with respect to intracellular triphosphate AUC24 and Cmax.
+The plasma lamivudine half-life after oral dosing is 18 to 19 hours and the active moiety, intracellular lamivudine triphosphate, has a prolonged terminal half-life in the cell (16 to 19 hours). In 60 healthy adult volunteers, Epivir 300 mg once daily has been demonstrated to be pharmacokinetically equivalent at steady-state to Epivir 150 mg twice daily with respect to intracellular triphosphate AUC24 and Cmax.
 
 Lamivudine is predominately cleared unchanged by renal excretion. The likelihood of metabolic interactions of lamivudine with other medicinal products is low due to the small extent of hepatic metabolism (5-10%) and low plasma protein binding.
 
 ## Elimination
 
-<div style=\"page-break-after: always\"></div>
+Studies in patients with renal impairment show lamivudine elimination is affected by renal dysfunction. A recommended dosage regimen for patients with creatinine clearance below 50 mL/min is shown in the dosage section (see section 4.2).
 
-Studies in patients with renal impairment show lamivudine elimination is affected by renal dysfunction. A recommended dosage regimen for patients with creatinine clearance below 50 ml/min is shown in the dosage section (see section 4.2).
-
-An interaction with trimethoprim, a constituent of co-trimoxazole, causes a 40% increase in lamivudine exposure at therapeutic doses.  This does not require dose adjustment unless the patient also has renal impairment (see sections 4.5 and 4.2).  Administration of co-trimoxazole with lamivudine in patients with renal impairment should be carefully assessed.
+An interaction with trimethoprim, a constituent of co-trimoxazole, causes a 40% increase in lamivudine exposure at therapeutic doses. This does not require dose adjustment unless the patient also has renal impairment (see sections 4.5 and 4.2). Administration of co-trimoxazole with lamivudine in patients with renal impairment should be carefully assessed.
 
 ## Special populations
 
-Children: The absolute bioavailability of lamivudine (approximately 58-66%) was reduced in paediatric patients below 12 years of age.  In children, administration of tablets given concomitantly with other antiretroviral tablets delivered higher plasma lamivudine AUC ∞ and Cmax than oral solution given concomitantly with other antiretroviral oral solutions. Children receiving lamivudine oral solution according to the recommended dosage regimen achieve plasma lamivudine exposure within the range of values observed in adults.  Children receiving lamivudine oral tablets according to the recommended dosage regimen achieve higher plasma lamivudine exposure than children receiving oral solution because higher mg/kg doses are administered with the tablet formulation and the tablet formulation has higher bioavailability (see section 4.2). Paediatric pharmacokinetic studies with both oral solution and tablet formulations have demonstrated that once daily dosing provides equivalent AUC0-24 to twice daily dosing of the same total daily dose.
+Paediatric population: The absolute bioavailability of lamivudine (approximately 58-66%) was reduced in paediatric patients below 12 years of age. In children, administration of tablets given concomitantly with other antiretroviral tablets delivered higher plasma lamivudine AUC ∞ and Cmax than oral solution given concomitantly with other antiretroviral oral solutions. Children receiving lamivudine oral solution according to the recommended dosage regimen achieve plasma lamivudine exposure within the range of values observed in adults. Children receiving lamivudine oral tablets according to the recommended dosage regimen achieve higher plasma lamivudine exposure than children receiving oral solution because higher mg/kg doses are administered with the tablet formulation and the tablet formulation has higher bioavailability (see section 4.2). Paediatric pharmacokinetic studies with both oral solution and tablet formulations have demonstrated that once daily dosing provides equivalent AUC0-24 to twice daily dosing of the same total daily dose.
 
-There are limited pharmacokinetic data for patients less than three months of age. In neonates one week of age, lamivudine oral clearance was reduced when compared to paediatric patients and is likely to be due to immature renal function and variable absorption.  Therefore, to achieve similar adult and paediatric exposure, an appropriate dose for neonates is 4 mg/kg/day. Glomerular filtration estimates suggests that to achieve similar adult and paediatric exposure, an appropriate dose for children aged six weeks and older could be 8 mg/kg/day.
+There are limited pharmacokinetic data for patients less than three months of age. In neonates one week of age, lamivudine oral clearance was reduced when compared to paediatric patients and is likely to be due to immature renal function and variable absorption. Therefore, to achieve similar adult and paediatric exposure, an appropriate dose for neonates is 4 mg/kg/day. Glomerular filtration estimates suggests that to achieve similar adult and paediatric exposure, an appropriate dose for children aged six weeks and older could be 8 mg/kg/day.
+
+<div style=\"page-break-after: always\"></div>
 
 Pharmacokinetic data were derived from 3 pharmacokinetic studies (PENTA 13, PENTA 15 and ARROW PK substudy) enrolling children under 12 years of age. The data are displayed in the table below:
 
-## Summary of Stead-State Plasma Lamivudine AUC (0-24) (µg.h/ml) and Statistical Comparisons for Once and Twice-Daily Oral Administration Across Studies
+Summary of Stead-State Plasma Lamivudine AUC (0-24) (µg.h/mL) and Statistical Comparisons for Once and Twice-Daily Oral Administration Across Studies
 
 | Study                    | Age Group             | Lamivudine 8mg/kg Once- Daily Dosing Geometric Mean (95% Cl)   | Lamivudine 4 mg/kg Twice- Daily Dosing Geometric Mean (95% Cl)   | Once-Versus Twice-Daily Comparison GLS Mean Ratio (90% Cl)   |
 |--------------------------|-----------------------|----------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------|
@@ -473,51 +458,45 @@ Pharmacokinetic data were derived from 3 pharmacokinetic studies (PENTA 13, PENT
 | PENTA 13                 | 2 to 12 years (N=19)  | 9.80 (8.64, 11.1)                                              | 8.88 (7.67, 10.3)                                                | 1.12 (1.03, 1.21)                                            |
 | PENTA 15                 | 3 to 36 months (N=17) | 8.66 (7.46, 10.1)                                              | 9.48 (7.89, 11.40)                                               | 0.91 (0.79, 1.06)                                            |
 
-In PENTA 15 study, the geometric mean plasma lamivudine AUC(0-24) (95% CI) of the four subjects under 12 months of age who switch from a twice daily to a once daily regimen (see section 5.1) are 10.31 (6.26, 17.0) µg.h/ml in the once-daily dosing and 9.24 (4.66, 18.3) µg.h/ml in the twice-daily dosing.
-
-<div style=\"page-break-after: always\"></div>
+In PENTA 15 study, the geometric mean plasma lamivudine AUC(0-24) (95% CI) of the four subjects under 12 months of age who switch from a twice daily to a once daily regimen (see section 5.1) are 10.31 (6.26, 17.0) µg.h/mL in the once-daily dosing and 9.24 (4.66, 18.3) µg.h/mL in the twice-daily dosing.
 
 Pregnancy: Following oral administration, lamivudine pharmacokinetics in late-pregnancy were similar to non-pregnant women.
 
 ## 5.3 Preclinical safety data
 
-Administration of lamivudine in animal toxicity studies at high doses was not associated with any major organ toxicity.  At the highest dosage levels, minor effects on indicators of liver and kidney function were seen together with occasional reductions in liver weight.  The clinically relevant effects noted were a reduction in red blood cell count and neutropenia.
+Administration of lamivudine in animal toxicity studies at high doses was not associated with any major organ toxicity. At the highest dosage levels, minor effects on indicators of liver and kidney function were seen together with occasional reductions in liver weight. The clinically relevant effects noted were a reduction in red blood cell count and neutropenia.
 
-Lamivudine was not mutagenic in bacterial tests but, like many nucleoside analogues, showed activity in an in vitro cytogenetic assay and the mouse lymphoma assay.  Lamivudine was not genotoxic in vivo at doses that gave plasma concentrations around 40-50 times higher than the anticipated clinical plasma levels. As the in vitro mutagenic activity of lamivudine could not be confirmed in in vivo tests, it is concluded that lamivudine should not represent a genotoxic hazard to patients undergoing treatment.
+Lamivudine was not mutagenic in bacterial tests but, like many nucleoside analogues, showed activity in an in vitro cytogenetic assay and the mouse lymphoma assay. Lamivudine was not genotoxic in vivo at doses that gave plasma concentrations around 40-50 times higher than the anticipated clinical plasma levels. As the in vitro mutagenic activity of lamivudine could not be confirmed in in vivo tests, it is concluded that lamivudine should not represent a genotoxic hazard to patients undergoing treatment.
 
-A transplacental genotoxicity study conducted in monkeys compared zidovudine alone with the combination of zidovudine and lamivudine at human-equivalent exposures.  The study demonstrated that foetuses exposed in utero to the combination sustained a higher level of nucleoside analogueDNA incorporation into multiple foetal organs, and showed evidence of more telomere shortening than in those exposed to zidovudine alone. The clinical significance of these findings is unknown.
+A transplacental genotoxicity study conducted in monkeys compared zidovudine alone with the combination of zidovudine and lamivudine at human-equivalent exposures. The study demonstrated that foetuses exposed in utero to the combination sustained a higher level of nucleoside analogueDNA incorporation into multiple foetal organs, and showed evidence of more telomere shortening than in those exposed to zidovudine alone. The clinical significance of these findings is unknown.
 
 The results of long-term carcinogenicity studies in rats and mice did not show any carcinogenic potential relevant for humans.
 
 A fertility study in rats has shown that lamivudine had no effect on male or female fertility.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Epivir 150 mg Film-coated tablets
+## Epivir 150 mg film-coated tablets
 
-## Tablet core:
-
-Microcrystalline cellulose (E460), Sodium starch glycollate Magnesium stearate
+Tablet core: Microcrystalline cellulose (E 460) Sodium starch glycollate Magnesium stearate
 
 ## Tablet film-coat:
 
-Hypromellose (E464) Titanium dioxide (E171), Macrogol, Polysorbate 80
+Hypromellose (E 464) Titanium dioxide (E 171) Macrogol, Polysorbate 80
 
-Epivir 300 mg Film-coated tablets
+## Epivir 300 mg film-coated tablets
 
-Microcrystalline cellulose (E460),
+## Tablet core:
 
-Tablet core: Sodium starch glycollate Magnesium stearate
+Microcrystalline cellulose (E 460) Sodium starch glycollate Magnesium stearate
 
-Tablet film-coat: Hypromellose (E464), Titanium dioxide (E171),
+## Tablet film-coat:
 
-<div style=\"page-break-after: always\"></div>
-
-Black iron oxide (E172),
-
-Macrogol, Polysorbate 80
+Hypromellose (E 464) Titanium dioxide (E 171) Black iron oxide (E 172) Macrogol Polysorbate 80
 
 ## 6.2 Incompatibilities
 
@@ -525,7 +504,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-Epivir 150 mg Film-coated tablets
+## Epivir 150 mg film-coated tablets
 
 HDPE bottles:
 
@@ -535,9 +514,9 @@ PVC/aluminium foil blister packs:
 
 2 years
 
-Epivir 300 mg Film-coated tablets
+Epivir 300 mg film-coated tablets
 
-HDPE bottles :
+HDPE bottles:
 
 3 years
 
@@ -549,11 +528,15 @@ PVC/aluminium foil blister packs:
 
 Do not store above 30°C
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.5 Nature and contents of container
 
-Epivir 150 mg Film-coated tablets
+Epivir 150 mg film-coated tablets
 
-Child resistant HDPE bottles or PVC/aluminium foil blister packs each containing 60 tablets. Epivir 300 mg Film-coated tablets
+Child resistant HDPE bottles or PVC/aluminium foil blister packs each containing 60 tablets.
+
+Epivir 300 mg film-coated tablets
 
 Child resistant HDPE bottles or PVC/aluminium foil blister packs each containing 30 tablets
 
@@ -567,29 +550,23 @@ ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
-Epivir 150 mg Film-coated tablets
+## Epivir 150 mg film-coated tablets
 
-EU/1/96/015/001 (Bottle)
+EU/1/96/015/001 (Bottle) EU/1/96/015/004 (Blister pack)
 
-EU/1/96/015/004 (Blister pack)
+Epivir 300 mg film-coated tablets
 
-<div style=\"page-break-after: always\"></div>
-
-## Epivir 300 mg Film-coated tablets
-
-EU/1/96/015/003 (Bottle)
-
-EU/1/96/015/005 (Blister pack)
+EU/1/96/015/003 (Bottle) EU/1/96/015/005 (Blister pack)
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-## Epivir 150 mg Film-coated tablets
+## Epivir 150 mg film-coated tablets
 
 Date of first authorisation: 8 August 1996
 
 Date of last renewal: 28 July 2006
 
-Epivir 300 mg Film-coated tablets
+Epivir 300 mg film-coated tablets
 
 Date of first authorisation: 15 November 2001
 
@@ -597,21 +574,21 @@ Date of last renewal: 28 July 2006
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Epivir 10 mg/ml oral solution
+Epivir 10 mg/mL oral solution
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each ml of oral solution contains 10 mg of lamivudine.
+Each mL of oral solution contains 10 mg of lamivudine.
 
-## Excipient(s) with known effect:
+Excipient(s) with known effect:
 
-Each 15 ml dose contains 3 g sucrose (20% w/v). Methyl parahydroxybenzoate Propyl parahydroxybenzoate Each 15 ml dose contains 300 mg propylene glycol. Each 15 ml dose contains 39 mg sodium.
+Each 15 mL dose contains: 3 g sucrose Methyl parahydroxybenzoate (E 218) Propyl parahydroxybenzoate (E 216) 300 mg propylene glycol (E 1520) 39 mg sodium.
 
 For the full list of excipients, see section 6.1.
 
@@ -637,11 +614,11 @@ Epivir is also available as a tablet formulation for patients who weigh at least
 
 Patients changing between lamivudine tablets and lamivudine oral solution should follow the dosing recommendations that are specific for the formulation (see section 5.2).
 
-For patients who are unable to swallow  tablets, the tablet(s) may be crushed and added to a small amount of semi-solid food or liquid, all of which should be consumed immediately (see section 5.2).
+For patients who are unable to swallow tablets, the tablet(s) may be crushed and added to a small amount of semi-solid food or liquid, all of which should be consumed immediately (see section 5.2).
 
 ## Adults, adolescents and children (weighing at least 25 kg):
 
-The recommended dose of Epivir is 300 mg daily. This may be administered as either 150 mg (15 ml) twice daily or 300 mg (30 ml) once daily (see section 4.4).
+The recommended dose of Epivir is 300 mg daily. This may be administered as either 150 mg (15 mL) twice daily or 300 mg (30 mL) once daily (see section 4.4).
 
 ## Children (weighing less than 25 kg):
 
@@ -659,25 +636,25 @@ Patients changing from the twice daily dosing regimen to the once daily dosing r
 
 Older people: No specific data are available; however, special care is advised in this age group due to age-associated changes such as the decrease in renal function and alteration of haematological parameters.
 
-Renal impairment: Lamivudine concentrations are increased in patients with moderate - severe renal impairment due to decreased clearance.  The dose should therefore be adjusted (see tables).
+Renal impairment: Lamivudine concentrations are increased in patients with moderate - severe renal impairment due to decreased clearance. The dose should therefore be adjusted (see tables).
 
-Dosing recommendations - Adults, adolescents and children (weighing at least 25 kg):
+Dosing recommendations -Adults, adolescents and children (weighing at least 25 kg):
 
-| Creatinine clearance (ml/min)   | First dose                       | Maintenance dose                                        |
+| Creatinine clearance (mL/min)   | First dose                       | Maintenance dose                                        |
 |---------------------------------|----------------------------------|---------------------------------------------------------|
-| ≥ 50                            | 300 mg (30 ml) or 150 mg (15 ml) | 300 mg (30 ml) once daily or 150 mg (15 ml) twice daily |
-| 30 to<50                        | 150 mg (15 ml)                   | 150 mg (15 ml) once daily                               |
-| 15 to <30                       | 150 mg (15 ml)                   | 100 mg (10 ml) once daily                               |
-| 5 to <15                        | 150 mg (15 ml)                   | 50 mg (5 ml) once daily                                 |
-| <5                              | 50 mg (5 ml)                     | 25 mg (2.5 ml) once daily                               |
+|  50                            | 300 mg (30 mL) or 150 mg (15 mL) | 300 mg (30 mL) once daily or 150 mg (15 mL) twice daily |
+| 30 to<50                        | 150 mg (15 mL)                   | 150 mg (15 mL) once daily                               |
+| 15 to <30                       | 150 mg (15 mL)                   | 100 mg (10 mL) once daily                               |
+| 5 to <15                        | 150 mg (15 mL)                   | 50 mg (5 mL) once daily                                 |
+| <5                              | 50 mg (5 mL)                     | 25 mg (2.5 mL) once daily                               |
 
-There are no data available on the use of lamivudine in children with renal impairment.  Based on the assumption that creatinine clearance and lamivudine clearance are correlated similarly in children as in adults; it is recommended that the dosage in children with renal impairment be reduced according to their creatinine clearance by the same proportion as in adults. The Epivir 10 mg/mL oral solution may be the most appropriate formulation to achieve the recommended dose in children with renal impairment aged at least 3 months and weighing less than 25kg.
+There are no data available on the use of lamivudine in children with renal impairment. Based on the assumption that creatinine clearance and lamivudine clearance are correlated similarly in children as in adults; it is recommended that the dosage in children with renal impairment be reduced according to their creatinine clearance by the same proportion as in adults. The Epivir 10 mg/mL oral solution may be the most appropriate formulation to achieve the recommended dose in children with renal impairment aged at least 3 months and weighing less than 25kg.
 
-Dosing recommendations - Children aged at least 3 months and weighing less than 25 kg:
+Dosing recommendations -Children aged at least 3 months and weighing less than 25 kg:
 
-| Creatinine clearance (ml/min)   | First dose       | Maintenance dose                           |
+| Creatinine clearance (mL/min)   | First dose       | Maintenance dose                           |
 |---------------------------------|------------------|--------------------------------------------|
-| ≥ 50                            | 10 mg/kg 5 mg/kg | 10 mg/kg once daily or 5 mg/kg twice daily |
+|  50                            | 10 mg/kg 5 mg/kg | 10 mg/kg once daily or 5 mg/kg twice daily |
 | 30 to<50                        | 5 mg/kg          | 5 mg/kg once daily                         |
 | 15 to <30                       | 5 mg/kg          | 3.3 mg/kg once daily                       |
 | 5 to <15                        | 5 mg/kg          | 1.6 mg/kg once daily                       |
@@ -695,51 +672,75 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 Epivir is not recommended for use as monotherapy.
 
-Renal impairment: In patients with moderate -to- severe renal impairment, the terminal plasma halflife of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (see section 4.2).
+## Renal impairment
 
-Triple nucleoside therapy: There have been reports of a high rate of virological failure and of emergence of resistance at an early stage when lamivudine was combined with tenofovir disoproxil fumarate and abacavir as well as with tenofovir disoproxil fumarate and didanosine as a once daily regimen.
+In patients with moderate -to- severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (see section 4.2).
 
-Opportunistic infections: Patients receiving Epivir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with associated HIV diseases.
+## Triple nucleoside therapy
 
-Pancreatitis : Cases of pancreatitis have occurred rarely.  However, it is not clear whether these cases were due to the antiretroviral treatment or to the underlying HIV disease.  Treatment with Epivir should be stopped immediately if clinical signs, symptoms or laboratory abnormalities suggestive of pancreatitis occur.
+There have been reports of a high rate of virological failure and of emergence of resistance at an early stage when lamivudine was combined with tenofovir disoproxil fumarate and abacavir as well as with tenofovir disoproxil fumarate and didanosine as a once daily regimen.
 
-Mitochondrial dysfunction following exposure in utero: Nucleoside and nucleotide analogues may impact mitochondrial function to a variable degree, which is most pronounced with stavudine, didanosine and zidovudine. There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues, these have predominantly concerned treatment with regimens containing zidovudine. The main adverse reactions reported are haematological disorders (anaemia, neutropenia) and metabolic disorders (hyperlactatemia, hyperlipasemia). These events have often been transitory. Late-onset neurological disorders have been reported rarely (hypertonia, convulsion, abnormal behaviour). Whether such neurological disorders are transient or permanent is currently unknown. These findings should be considered for any child exposed in utero to nucleoside and nucleotide analogues, who presents with severe clinical findings of unknown etiology, particularly neurologic findings. These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
+## Opportunistic infections
 
-Weight and metabolic parameters: An increase in weight and in levels of blood lipids and glucose may occur during antiretroviral therapy. Such changes may in part be linked to disease control and life style. For lipids, there is in some cases evidence for a treatment effect, while for weight gain there is no strong evidence relating this to any particular treatment. For monitoring of blood lipids and glucose reference is made to established HIV treatment guidelines. Lipid disorders should be managed as clinically appropriate.
+Patients receiving Epivir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with associated HIV diseases.
 
-Immune Reactivation Syndrome: In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms. Typically, such reactions have been observed within the first few weeks or
+## Pancreatitis
+
+Cases of pancreatitis have occurred rarely. However, it is not clear whether these cases were due to the antiretroviral treatment or to the underlying HIV disease. Treatment with Epivir should be stopped immediately if clinical signs, symptoms or laboratory abnormalities suggestive of pancreatitis occur.
+
+## Mitochondrial dysfunction following exposure in utero
+
+Nucleoside and nucleotide analogues may impact mitochondrial function to a variable degree, which is most pronounced with stavudine, didanosine and zidovudine. There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or postnatally to nucleoside analogues, these have predominantly concerned treatment with regimens containing zidovudine. The main adverse reactions reported are haematological disorders (anaemia, neutropenia) and metabolic disorders (hyperlactatemia, hyperlipasemia). These events have often been transitory. Late-onset neurological disorders have been reported rarely (hypertonia, convulsion, abnormal behaviour). Whether such neurological disorders are transient or permanent is currently unknown. These findings should be considered for any child exposed in utero to nucleoside and nucleotide analogues, who presents with severe clinical findings of unknown etiology, particularly neurologic findings. These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
+
+## Weight and metabolic parameters
+
+An increase in weight and in levels of blood lipids and glucose may occur during antiretroviral therapy. Such changes may in part be linked to disease control and life style. For lipids, there is in some cases evidence for a treatment effect, while for weight gain there is no strong evidence relating this to any particular treatment. For monitoring of blood lipids and glucose reference is made to established HIV treatment guidelines. Lipid disorders should be managed as clinically appropriate.
 
 <div style=\"page-break-after: always\"></div>
 
-months of initiation of CART. Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis jirovecii pneumonia (often referred to as PCP). Any inflammatory symptoms should be evaluated and treatment instituted when necessary. Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
+## Immune Reactivation Syndrome
 
-Liver disease: If lamivudine is being used concomitantly for the treatment of HIV and HBV, additional information relating to the use of lamivudine in the treatment of hepatitis B infection is available in the Zeffix SPC.
+In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms. Typically, such reactions have been observed within the first few weeks or months of initiation of CART. Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis jirovecii pneumonia (often referred to as PCP). Any inflammatory symptoms should be evaluated and treatment instituted when necessary. Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment.
+
+## Liver disease
+
+If lamivudine is being used concomitantly for the treatment of HIV and HBV, additional information relating to the use of lamivudine in the treatment of hepatitis B infection is available in the Zeffix SPC.
 
 Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk of severe and potentially fatal hepatic adverse events. In case of concomitant antiviral therapy for hepatitis B or C, please refer also to the relevant product information for these medicinal products.
 
 If Epivir is discontinued in patients co-infected with hepatitis B virus, periodic monitoring of liver function tests and markers of HBV replication is recommended, as withdrawal of lamivudine may result in an acute exacerbation of hepatitis (see Zeffix SPC).
 
-Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy, and should be monitored according to standard practice.  If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered (see section 4.8).
+Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy, and should be monitored according to standard practice. If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered (see section 4.8).
 
-Excipients: Diabetic patients should be advised that each dose (150 mg = 15 ml) contains 3 g of sucrose.
+## Excipients
 
-Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
+Contains 3 g of sucrose in each dose (150 mg = 15 mL). This should be taken into account in patients with diabetes mellitus.
 
-Epivir contains methyl parahydroxybenzoate and propyl parahydroxybenzoate. These may cause allergic reactions (possibly delayed).
+Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicinal product. Sucrose may be harmful to the teeth.
 
-This medicinal product contains 39 mg sodium per 15 ml, equivalent to 1.95% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+This medicinal product contains methyl parahydroxybenzoate and propyl parahydroxybenzoate. These may cause allergic reactions (possibly delayed).
 
-Paediatric Population: In a study performed in paediatric patients (see section 5.1 ARROW study), lower rates of virologic suppression and more frequent viral resistance were reported in children receiving the oral solution of Epivir as compared to those receiving the tablet formulation.
+This medicinal product contains 300 mg propylene glycol in each 15 mL.
 
-Whenever possible in children, an all-tablet regimen should preferably be used. Epivir oral solution given concomitantly with sorbitol-containing medicines should be used only when an all-tablet regimen cannot be used and the benefits of treatment outweigh possible risks including lower virological suppression. Consider more frequent monitoring of HIV-1 viral load when Epivir is used with chronically-administered, sorbitol-containing medicines [e.g. Ziagen oral solution]. Although not studied, the same effect would be expected with other osmotic acting poly-alcohols or monosaccharide alcohols (e.g. xylitol, mannitol, lactitol, maltitol (see section 4.5)).
-
-Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART). Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
-
-Drug Interactions: Epivir should not be taken with any other medicinal products containing lamivudine or medicinal products containing emtricitabine (see section 4.5).
+This medicinal product contains 39 mg sodium per 15 mL, equivalent to 1.95% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
 <div style=\"page-break-after: always\"></div>
 
-The combination of lamivudine with cladribine is not-recommended (see section 4.5).
+## Paediatric Population
+
+In a study performed in paediatric patients (see section 5.1 ARROW study), lower rates of virologic suppression and more frequent viral resistance were reported in children receiving the oral solution of Epivir as compared to those receiving the tablet formulation.
+
+Whenever possible in children, an all-tablet regimen should preferably be used. Epivir oral solution given concomitantly with sorbitol-containing medicines should be used only when an all-tablet regimen cannot be used and the benefits of treatment outweigh possible risks including lower virological suppression. Consider more frequent monitoring of HIV-1 viral load when Epivir is used with chronically-administered, sorbitol-containing medicines [e.g. Ziagen oral solution]. Although not studied, the same effect would be expected with other osmotic acting poly-alcohols or monosaccharide alcohols (e.g. xylitol, mannitol, lactitol, maltitol (see section 4.5)).
+
+## Osteonecrosis
+
+Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART). Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
+
+## Drug Interactions
+
+Epivir should not be taken with any other medicinal products containing lamivudine or medicinal products containing emtricitabine (see section 4.5).
+
+The combination of lamivudine with cladribine is not recommended (see section 4.5).
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -747,11 +748,13 @@ Interaction studies have only been performed in adults.
 
 The likelihood of metabolic interactions is low due to limited metabolism and plasma protein binding and almost complete renal clearance.
 
-Administration of trimethoprim/sulfamethoxazole 160 mg/800 mg results in a 40 % increase in lamivudine exposure, because of the trimethoprim component; the sulfamethoxazole component did not interact. However, unless the patient has renal impairment, no dosage adjustment of lamivudine is necessary (see section 4.2).  Lamivudine has no effect on the pharmacokinetics of trimethoprim or sulfamethoxazole.  When concomitant administration is warranted, patients should be monitored clinically. Co-administration of lamivudine with high doses of co-trimoxazole for the treatment of Pneumocystis jirovecii pneumonia (PCP) and toxoplasmosis should be avoided.
+Administration of trimethoprim/sulfamethoxazole 160 mg/800 mg results in a 40 % increase in lamivudine exposure, because of the trimethoprim component; the sulfamethoxazole component did not interact. However, unless the patient has renal impairment, no dosage adjustment of lamivudine is necessary (see section 4.2). Lamivudine has no effect on the pharmacokinetics of trimethoprim or sulfamethoxazole. When concomitant administration is warranted, patients should be monitored clinically. Co-administration of lamivudine with high doses of co-trimoxazole for the treatment of Pneumocystis jirovecii pneumonia (PCP) and toxoplasmosis should be avoided.
 
-The possibility of interactions with other medicinal products administered concurrently should be considered, particularly when the main route of elimination is active renal secretion via the organic cationic transport system e.g. trimethoprim. Other medicinal products (e.g. ranitidine, cimetidine) are eliminated only in part by this mechanism and were shown not to interact with lamivudine.  The nucleoside analogues (e.g. didanosine) like zidovudine, are not eliminated by this mechanism and are unlikely to interact with lamivudine.
+The possibility of interactions with other medicinal products administered concurrently should be considered, particularly when the main route of elimination is active renal secretion via the organic cationic transport system e.g. trimethoprim. Other medicinal products (e.g. ranitidine, cimetidine) are eliminated only in part by this mechanism and were shown not to interact with lamivudine. The nucleoside analogues (e.g. didanosine) like zidovudine, are not eliminated by this mechanism and are unlikely to interact with lamivudine.
 
 A modest increase in Cmax (28 %) was observed for zidovudine when administered with lamivudine, however overall exposure (AUC) is not significantly altered. Zidovudine has no effect on the pharmacokinetics of lamivudine (see section 5.2).
+
+<div style=\"page-break-after: always\"></div>
 
 Due to similarities, Epivir should not be administered concomitantly with other cytidine analogues, such as emtricitabine. Moreover, Epivir should not be taken with any other medicinal products containing lamivudine (see section 4.4).
 
@@ -759,103 +762,115 @@ In vitro lamivudine inhibits the intracellular phosphorylation of cladribine lea
 
 Lamivudine metabolism does not involve CYP3A, making interactions with medicinal products metabolised by this system (e.g. PIs) unlikely.
 
-Coadministration of sorbitol solution (3.2 g, 10.2 g, 13.4 g) with a single 300 mg dose of lamivudine oral solution resulted in dose-dependent decreases of 14%, 32%, and 36% in lamivudine exposure (AUC ∞ ) and 28%, 52%, and 55% in the Cmax of lamivudine in adults. When possible, avoid chronic coadministration of Epivir with medicinal products containing sorbitol or other osmotic acting polyalcohols or monosaccharide alcohols (e.g. xylitol, mannitol, lactitol, maltitol). Consider more frequent monitoring of HIV-1 viral load when chronic coadministration cannot be avoided (see section 4.4).
+Coadministration of sorbitol solution (3.2 g, 10.2 g, 13.4 g) with a single 300 mg dose of lamivudine oral solution resulted in dose-dependent decreases of 14%, 32%, and 36% in lamivudine exposure (AUC  ) and 28%, 52%, and 55% in the Cmax of lamivudine in adults. When possible, avoid chronic coadministration of Epivir with medicinal products containing sorbitol or other osmotic acting polyalcohols or monosaccharide alcohols (e.g. xylitol, mannitol, lactitol, maltitol). Consider more frequent monitoring of HIV-1 viral load when chronic coadministration cannot be avoided (see section 4.4).
 
 ## 4.6 Fertility Pregnancy and lactation
 
 ## Pregnancy
 
-As a general rule, when deciding to use antiretroviral agents for the treatment of HIV infection in pregnant women and consequently for reducing the risk of HIV vertical transmission to the newborn, the animal data as well as the clinical experience in pregnant women should be taken into account.
+As a general rule, when deciding to use antiretroviral agents for the treatment of HIV infection in pregnant women and consequently for reducing the risk of HIV vertical transmission to the newborn, the animal data as well as the clinical experience in pregnant women should be taken into account. Animal studies with lamivudine showed an increase in early embryonic deaths in rabbits but not in rats (see section 5.3). Placental transfer of lamivudine has been shown to occur in humans.
 
-<div style=\"page-break-after: always\"></div>
-
-Animal studies with lamivudine showed an increase in early embryonic deaths in rabbits but not in rats (see section 5.3). Placental transfer of lamivudine has been shown to occur in humans.
-
-More than 1000 outcomes from first trimester and more than 1000 outcomes from second and third trimester exposure in pregnant women indicate no malformative and foeto/neonatal effect. Epivir can be used during pregnancy if clinically needed. The malformative risk is unlikely in humans based on those data.
+More than 1000 outcomes from first trimester and more than 1000 outcomes from second and third trimester exposure in pregnant women indicate no evidence of malformative or foeto/neonatal toxicity of Epivir. Epivir can be used during pregnancy if clinically needed. The malformative risk is unlikely in humans based on those data.
 
 For patients co-infected with hepatitis who are being treated with lamivudine and subsequently become pregnant, consideration should be given to the possibility of a recurrence of hepatitis on discontinuation of lamivudine.
 
-Mitochondrial dysfunction: Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage. There have been reports of mitochondrial dysfunction in infants exposed in utero and/or post-natally to nucleoside analogues (see section 4.4).
+Mitochondrial dysfunction: Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage. There have been reports of mitochondrial dysfunction in infants exposed in utero and/or postnatally to nucleoside analogues (see section 4.4).
 
 ## Breast-feeding
 
-Following oral administration lamivudine was excreted in breast milk at similar concentrations to those found in serum. Based on more than 200 mother/child pairs treated for HIV, serum concentrations of lamivudine in breastfed infants of mothers treated for HIV are very low (&lt; 4% of maternal serum concentrations) and progressively decrease to undetectable levels when breastfed infants reach 24 weeks of age. There are no data available on the safety of lamivudine when administered to babies less than three months old.  It is recommended that women living with HIV do not breast-feed their infants in order to avoid transmission of HIV.
+Following oral administration lamivudine was excreted in breast milk at similar concentrations to those found in serum. Based on more than 200 mother/child pairs treated for HIV, serum concentrations of lamivudine in breastfed infants of mothers treated for HIV are very low (&lt; 4% of maternal serum concentrations) and progressively decrease to undetectable levels when breastfed infants reach 24 weeks of age. There are no data available on the safety of lamivudine when administered to babies less than three months old. It is recommended that women living with HIV do not breast-feed their infants in order to avoid transmission of HIV.
 
 ## Fertility
 
 Studies in animals showed that lamivudine had no effect on fertility (see section 5.3).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.7 Effects on ability to drive and use machines
 
-No studies on the effects on the ability to drive and use machines have been performed.
+Epivir has no or negligible influence on the ability to drive and use machines. However, patients should be informed that malaise and fatigue have been reported during treatment with lamivudine (see section 4.8). The clinical status of the patient and the adverse reaction profile of lamivudine should be borne in mind when considering the patient's ability to drive or operate machinery.
 
 ## 4.8 Undesirable effects
 
 The following adverse reactions have been reported during therapy for HIV disease with Epivir.
 
-The adverse reactions considered at least possibly related to the treatment are listed below by body system, organ class and absolute frequency. Frequencies are defined as very common ( ≥ 1/10), common ( ≥ 1/100 to &lt;1/10), uncommon ( ≥ 1/1,000 to &lt;1/100), rare ( ≥ 1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+The adverse reactions considered at least possibly related to the treatment are listed below by body system, organ class and absolute frequency. Frequencies are defined as very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1,000 to &lt; 1/100), rare ( ≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-## Blood and lymphatic systems disorders
+Blood and lymphatic systems disorders Uncommon : neutropenia and anaemia (both occasionally severe), thrombocytopenia Very rare : pure red cell aplasia
 
-Uncommon : Neutropenia and anaemia (both occasionally severe), thrombocytopenia Very rare : Pure red cell aplasia
+Metabolism and nutrition disorders
 
-Metabolism and nutrition disorders Very rare: Lactic acidosis
+Very rare:
 
-Nervous system disorders Common: Headache, insomnia Very rare: Peripheral neuropathy (or paraesthesia)
+lactic acidosis
 
-Respiratory, Thoracic and mediastinal disorders Common: Cough, nasal symptoms
+Nervous system disorders
+
+Common:
+
+headache, insomnia
+
+Very rare:
+
+peripheral neuropathy (or paraesthesia)
+
+Respiratory, thoracic and mediastinal disorders
+
+Common:
+
+cough, nasal symptoms
 
 Gastrointestinal disorders
 
 Common:
 
-Nausea, vomiting, abdominal pain or cramps, diarrhoea
+nausea, vomiting, abdominal pain or cramps, diarrhoea
 
 Rare:
 
-Pancreatitis, elevations in serum amylase
+pancreatitis, elevations in serum amylase
 
 Hepatobiliary disorders
 
 Uncommon:
 
-Transient elevations in liver enzymes (AST, ALT)
+transient elevations in liver enzymes (AST, ALT)
 
 Rare:
 
-Hepatitis
+hepatitis
 
 Skin and subcutaneous tissue disorders
 
 Common:
 
-Rash, alopecia
+rash, alopecia
 
 Rare:
 
-Angioedema
+angioedema
 
 Musculoskeletal and connective tissue disorders
 
 Common:
 
-Arthralgia, muscle disorders
+arthralgia, muscle disorders
 
 Rare:
 
-Rhabdomyolysis
+rhabdomyolysis
 
 General disorders and administration site conditions
 
 Common:
 
-Fatigue, malaise, fever
+fatigue, malaise, fever
 
 Weight and levels of blood lipids and glucose may increase during antiretroviral therapy (see section 4.4)
 
-<div style=\"page-break-after: always\"></div>
+In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise. Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
 
-In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.  Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported to occur in the setting of immune reactivation; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
+<div style=\"page-break-after: always\"></div>
 
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term combined antiretroviral exposure (CART). The frequency of which is unknown (see section 4.4).
 
@@ -871,9 +886,7 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 Administration of lamivudine at very high dose levels in acute animal studies did not result in any organ toxicity. No specific signs or symptoms have been identified following acute overdose with lamivudine, apart from those listed as undesirable effects.
 
-If overdosage occurs the patient should be monitored, and standard supportive treatment applied as required.  Since lamivudine is dialysable, continuous haemodialysis could be used in the treatment of overdosage, although this has not been studied.
-
-<div style=\"page-break-after: always\"></div>
+If overdosage occurs the patient should be monitored, and standard supportive treatment applied as required. Since lamivudine is dialysable, continuous haemodialysis could be used in the treatment of overdosage, although this has not been studied.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -883,25 +896,25 @@ Pharmacotherapeutic group: nucleoside analogue, ATC Code: J05AF05.
 
 ## Mechanism of action
 
-Lamivudine is a nucleoside analogue which has activity against human immunodeficiency virus (HIV) and hepatitis B virus (HBV).  It is metabolised intracellularly to the active moiety, lamivudine 5'- triphosphate. Its main mode of action is as a chain terminator of viral reverse transcription. The triphosphate has selective inhibitory activity against HIV-1 and HIV-2 replication in vitro ; it is also active against zidovudine-resistant clinical isolates of HIV. No antagonistic effects in vitro were seen with lamivudine and other anti-retrovirals (tested agents: abacavir, didanosine, nevirapine and zidovudine).
+Lamivudine is a nucleoside analogue which has activity against human immunodeficiency virus (HIV) and hepatitis B virus (HBV). It is metabolised intracellularly to the active moiety, lamivudine 5' - triphosphate. Its main mode of action is as a chain terminator of viral reverse transcription. The triphosphate has selective inhibitory activity against HIV-1 and HIV-2 replication in vitro ; it is also active against zidovudine-resistant clinical isolates of HIV. No antagonistic effects in vitro were seen with lamivudine and other anti-retrovirals (tested agents: abacavir, didanosine, nevirapine and zidovudine).
 
 ## Resistance
 
-HIV-1 resistance to lamivudine involves the development of a M184V amino acid change close to the active site of the viral reverse transcriptase (RT). This variant arises both in vitro and in HIV-1 infected patients treated with lamivudine-containing antiretroviral therapy.  M184V mutants display greatly reduced susceptibility to lamivudine and show diminished viral replicative capacity in vitro . In vitro studies indicate that zidovudine-resistant virus isolates can become zidovudine sensitive when they simultaneously acquire resistance to lamivudine.  The clinical relevance of such findings remains, however, not well defined.
+HIV-1 resistance to lamivudine involves the development of a M184V amino acid change close to the active site of the viral reverse transcriptase (RT). This variant arises both in vitro and in HIV-1 infected patients treated with lamivudine-containing antiretroviral therapy. M184V mutants display greatly reduced susceptibility to lamivudine and show diminished viral replicative capacity in vitro . In vitro studies indicate that zidovudine-resistant virus isolates can become zidovudine sensitive when they simultaneously acquire resistance to lamivudine. The clinical relevance of such findings remains, however, not well defined.
 
-In vitro data tend to suggest that the continuation of lamivudine in anti-retroviral regimen despite the development of M184V might provide residual anti-retroviral activity (likely through impaired viral fitness).  The clinical relevance of these findings is not established.  Indeed, the available clinical data are very limited and preclude any reliable conclusion in the field.  In any case, initiation of susceptible NRTI's should always be preferred to maintenance of lamivudine therapy.  Therefore, maintaining lamivudine therapy despite emergence of M184V mutation should only be considered in cases where no other active NRTI's are available.
+<div style=\"page-break-after: always\"></div>
 
-Cross-resistance conferred by the M184V RT is limited within the nucleoside inhibitor class of antiretroviral agents. Zidovudine and stavudine maintain their antiretroviral activities against lamivudine-resistant HIV-1. Abacavir maintains its antiretroviral activities against lamivudineresistant HIV-1 harbouring only the M184V mutation.  The M184V RT mutant shows a &lt;4-fold decrease in susceptibility to didanosine; the clinical significance of these findings is unknown. In vitro susceptibility testing has not been standardised and results may vary according to methodological factors.
+In vitro data tend to suggest that the continuation of lamivudine in anti-retroviral regimen despite the development of M184V might provide residual anti-retroviral activity (likely through impaired viral fitness). The clinical relevance of these findings is not established. Indeed, the available clinical data are very limited and preclude any reliable conclusion in the field. In any case, initiation of susceptible NRTI's should always be preferred to maintenance of lamivudine therapy. Therefore, maintaining lamivudine therapy despite emergence of M184V mutation should only be considered in cases where no other active NRTI's are available.
+
+Cross-resistance conferred by the M184V RT is limited within the nucleoside inhibitor class of antiretroviral agents. Zidovudine and stavudine maintain their antiretroviral activities against lamivudine-resistant HIV-1. Abacavir maintains its antiretroviral activities against lamivudineresistant HIV-1 harbouring only the M184V mutation. The M184V RT mutant shows a &lt;4-fold decrease in susceptibility to didanosine; the clinical significance of these findings is unknown. In vitro susceptibility testing has not been standardised and results may vary according to methodological factors.
 
 Lamivudine demonstrates low cytotoxicity to peripheral blood lymphocytes, to established lymphocyte and monocyte-macrophage cell lines, and to a variety of bone marrow progenitor cells in vitro .
 
 ## Clinical efficacy and safety
 
-In clinical trials, lamivudine in combination with zidovudine has been shown to reduce HIV-1 viral load and increase CD4 cell count.  Clinical end-point data indicate that lamivudine in combination with zidovudine, results in a significant reduction in the risk of disease progression and mortality.
+In clinical trials, lamivudine in combination with zidovudine has been shown to reduce HIV-1 viral load and increase CD4 cell count. Clinical end-point data indicate that lamivudine in combination with zidovudine, results in a significant reduction in the risk of disease progression and mortality.
 
 Evidence from clinical studies shows that lamivudine plus zidovudine delays the emergence of zidovudine resistant isolates in individuals with no prior antiretroviral therapy.
-
-<div style=\"page-break-after: always\"></div>
 
 Lamivudine has been widely used as a component of antiretroviral combination therapy with other antiretroviral agents of the same class (NRTIs) or different classes (PIs, non-nucleoside reverse transcriptase inhibitors).
 
@@ -913,39 +926,41 @@ Multiple drug antiretroviral therapy containing lamivudine has been shown to be 
 
 The relationship between in vitro susceptibility of HIV to lamivudine and clinical response to lamivudine-containing therapy remains under investigation.
 
-Lamivudine at a dose of 100 mg once daily has also been shown to be effective for the treatment of adult patients with chronic HBV infection (for details of clinical studies, see the prescribing information for Zeffix).  However, for the treatment of HIV infection, only a 300 mg daily dose of lamivudine (in combination with other antiretroviral agents) has been shown to be efficacious.
+Lamivudine at a dose of 100 mg once daily has also been shown to be effective for the treatment of adult patients with chronic HBV infection (for details of clinical studies, see the prescribing information for Zeffix). However, for the treatment of HIV infection, only a 300 mg daily dose of lamivudine (in combination with other antiretroviral agents) has been shown to be efficacious.
 
 Lamivudine has not been specifically investigated in HIV patients co-infected with HBV.
 
-Once daily dosing (300 mg once a day): a clinical study has demonstrated the non-inferiority between Epivir once a day and Epivir twice a day containing regimens. These results were obtained in an antiretroviral naïve-population, primarily consisting of asymptomatic HIV infected patients (CDC stage A).
-
-Paediatric population: a randomised comparison of a regimen including once daily vs twice daily dosing of abacavir and lamivudine was undertaken within a randomised, multicentre, controlled study of HIV-infected, paediatric patients. 1206 paediatric patients aged 3 months to 17 years enrolled in the ARROW Trial (COL105677) and were dosed according to the weight - band dosing recommendations in the World Health Organisation treatment guidelines (Antiretroviral therapy of HIV infection in infants and children, 2006). After 36 weeks on a regimen including twice daily abacavir and lamivudine, 669 eligible subjects were randomised to either continue twice daily dosing or switch to once daily abacavir and lamivudine for at least 96 weeks. Of note, from this study clinical data were not available for children under one year old.  The results are summarised in the table below:
-
 <div style=\"page-break-after: always\"></div>
 
-## Virological Response Based on Plasma HIV-1 RNA less than 80 copies/ml at Week 48 and Week 96 in the Once Daily versus Twice Daily abacavir + lamivudine randomisation of ARROW (Observed Analysis)
+Once daily dosing (300 mg once a day): a clinical study has demonstrated the non-inferiority between Epivir once a day and Epivir twice a day containing regimens. These results were obtained in an antiretroviral naïve-population, primarily consisting of asymptomatic HIV infected patients (CDC stage A).
+
+Paediatric population: a randomised comparison of a regimen including once daily vs twice daily dosing of abacavir and lamivudine was undertaken within a randomised, multicentre, controlled study of HIV-infected, paediatric patients. 1206 paediatric patients aged 3 months to 17 years enrolled in the ARROW Trial (COL105677) and were dosed according to the weight - band dosing recommendations in the World Health Organisation treatment guidelines (Antiretroviral therapy of HIV infection in infants and children, 2006). After 36 weeks on a regimen including twice daily abacavir and lamivudine, 669 eligible subjects were randomised to either continue twice daily dosing or switch to once daily abacavir and lamivudine for at least 96 weeks. Of note, from this study clinical data were not available for children under one year old. The results are summarised in the table below:
+
+## Virological Response Based on Plasma HIV-1 RNA less than 80 copies/mL at Week 48 and Week 96 in the Once Daily versus Twice Daily abacavir + lamivudine randomisation of ARROW (Observed Analysis)
 
 |                                          | Twice Daily N (%)                      | Once Daily N (%)                       |
 |------------------------------------------|----------------------------------------|----------------------------------------|
 | W eek 0 (After ≥36 Weeks on Treatment)   | W eek 0 (After ≥36 Weeks on Treatment) | W eek 0 (After ≥36 Weeks on Treatment) |
-| Plasma HIV-1 RNA <80 c/ml                | 250/331 (76)                           | 237/335 (71)                           |
+| Plasma HIV-1 RNA <80 c/mL                | 250/331 (76)                           | 237/335 (71)                           |
 | Risk difference (once daily-twice daily) | -4.8% (95% CI -11.5% to +1.9%), p=0.16 | -4.8% (95% CI -11.5% to +1.9%), p=0.16 |
 | Week 48                                  | Week 48                                | Week 48                                |
-| Plasma HIV-1 RNA <80 c/ml                | 242/331 (73)                           | 236/330 (72)                           |
+| Plasma HIV-1 RNA <80 c/mL                | 242/331 (73)                           | 236/330 (72)                           |
 | Risk difference (once daily-twice daily) | -1.6% (95% CI -8.4% to +5.2%), p=0.65  | -1.6% (95% CI -8.4% to +5.2%), p=0.65  |
 | Week 96                                  | Week 96                                | Week 96                                |
-| Plasma HIV-1 RNA <80 c/ml                | 234/326 (72)                           | 230/331 (69)                           |
+| Plasma HIV-1 RNA <80 c/mL                | 234/326 (72)                           | 230/331 (69)                           |
 | Risk difference (once daily-twice daily) | -2.3% (95% CI -9.3% to +4.7%), p=0.52  | -2.3% (95% CI -9.3% to +4.7%), p=0.52  |
 
-In a pharmacokinetic study (PENTA 15), four virologically controlled subjects less than 12 months of age switched from abacavir plus lamivudine oral solution twice daily to a once daily regimen. Three subjects had undetectable viral load and one had plasmatic HIV-RNA of 900 copies/ml at Week 48. No safety concerns were observed in these subjects.
+In a pharmacokinetic study (PENTA 15), four virologically controlled subjects less than 12 months of age switched from abacavir plus lamivudine oral solution twice daily to a once daily regimen. Three subjects had undetectable viral load and one had plasmatic HIV-RNA of 900 copies/mL at Week 48. No safety concerns were observed in these subjects.
 
-The abacavir + lamivudine once daily dosing group was demonstrated to be non-inferior to the twice daily group according to the pre-specified non-inferiority margin of -12%, for the primary endpoint of &lt;80 c/ml at Week 48 as well as at Week 96 (secondary endpoint) and all other thresholds tested (&lt;200c/ml, &lt;400c/ml, &lt;1000c/ml), which all fell well within this non-inferiority margin. Subgroup analyses testing for heterogeneity of once vs twice daily demonstrated no significant effect of sex, age, or viral load at randomisation. Conclusions supported non-inferiority regardless of analysis method.
+The abacavir + lamivudine once daily dosing group was demonstrated to be non-inferior to the twice daily group according to the pre-specified non-inferiority margin of -12%, for the primary endpoint of &lt;80 c/mL at Week 48 as well as at Week 96 (secondary endpoint) and all other thresholds tested (&lt;200c/mL, &lt;400c/mL, &lt;1000c/mL), which all fell well within this non-inferiority margin. Subgroup analyses testing for heterogeneity of once vs twice daily demonstrated no significant effect of sex, age, or viral load at randomisation. Conclusions supported non-inferiority regardless of analysis method.
 
 At the time of randomization to once daily vs twice daily dosing (Week 0), those patients who had received tablet formulations had a higher rate of viral load suppression than those who had received any solution formulations at any time. These differences were observed in each different age group studied. This difference in suppression rates between tablets and solutions remained through Week 96 with once daily dosing.
 
-## Proportions of Subjects in the Once Daily versus Twice Daily Abacavir+Lamivudine Randomisation of ARROW with Plasma HIV-1 RNA &lt;80 copies/ml: Subgroup Analysis by Formulation
+<div style=\"page-break-after: always\"></div>
 
-|                                      | Twice Daily Plasma HIV-1 RNA <80 c/ml: n/N (%)   | Once Daily Plasma HIV-1 RNA <80 c/ml: n/N (%)   |
+## Proportions of Subjects in the Once Daily versus Twice Daily Abacavir+Lamivudine Randomisation of ARROW with Plasma HIV-1 RNA &lt;80 copies/mL: Subgroup Analysis by Formulation
+
+|                                      | Twice Daily Plasma HIV-1 RNA <80 c/mL: n/N (%)   | Once Daily Plasma HIV-1 RNA <80 c/mL: n/N (%)   |
 |--------------------------------------|--------------------------------------------------|-------------------------------------------------|
 | Week 0 (after 36 weeks on Treatment) |                                                  |                                                 |
 | Any solution regimen at any time     | 14/26 (54)                                       | 15/30 (50)                                      |
@@ -954,55 +969,53 @@ At the time of randomization to once daily vs twice daily dosing (Week 0), those
 | Any solution regimen at any time     | 13/26 (50)                                       | 17/30 (57)                                      |
 | All tablet based regimen throughout  | 221/300 (74)                                     | 213/301 (71)                                    |
 
-<div style=\"page-break-after: always\"></div>
-
-Genotypic resistance analyses were conducted on samples with plasma HIV-1 RNA &gt;1000 copies/ml. More cases of resistance were detected among patients who had received lamivudine solution, in combination with other antiretroviral solutions, compared with those who received similar doses of tablet formulation. This is consistent with the lower rates of antiviral suppression observed in these patients.
+Genotypic resistance analyses were conducted on samples with plasma HIV-1 RNA &gt;1000 copies/mL. More cases of resistance were detected among patients who had received lamivudine solution, in combination with other antiretroviral solutions, compared with those who received similar doses of tablet formulation. This is consistent with the lower rates of antiviral suppression observed in these patients.
 
 ## 5.2 Pharmacokinetic properties
 
 ## Absorption
 
-Lamivudine is well absorbed from the gastrointestinal tract, and the bioavailability of oral lamivudine in adults is normally between 80 and 85%.  Following oral administration, the mean time (tmax) to maximal serum concentrations (Cmax) is about an hour. Based on data derived from a study in healthy volunteers, at a therapeutic dose of 150 mg twice daily, mean (CV) steady-state Cmax and Cmin of lamivudine in plasma are 1.2 µg/ml (24%) and 0.09 µg/ml (27%), respectively.  The mean (CV) AUC over a dosing interval of 12 hours is 4.7 µg.h/ml (18%).  At a therapeutic dose of 300 mg once daily, the mean (CV) steady-state Cmax, Cmin and 24h AUC are 2.0 µg/ml (26%), 0.04 µg/ml (34%) and 8.9 µg.h/ml (21%), respectively.
+Lamivudine is well absorbed from the gastrointestinal tract, and the bioavailability of oral lamivudine in adults is normally between 80 and 85%. Following oral administration, the mean time (tmax) to maximal serum concentrations (Cmax) is about an hour. Based on data derived from a study in healthy volunteers, at a therapeutic dose of 150 mg twice daily, mean (CV) steady-state Cmax and Cmin of lamivudine in plasma are 1.2 µg/mL (24%) and 0.09 µg/mL (27%), respectively. The mean (CV) AUC over a dosing interval of 12 hours is 4.7 µg.h/mL (18%). At a therapeutic dose of 300 mg once daily, the mean (CV) steady-state Cmax, Cmin and 24h AUC are 2.0 µg/mL (26%), 0.04 µg/mL (34%) and 8.9 µg.h/mL (21%), respectively.
 
 Co-administration of lamivudine with food results in a delay of tmax and a lower C   max (decreased by 47 %). However, the extent (based on the AUC) of lamivudine absorbed is not influenced.
 
-Administration of crushed tablets with a small amount of semi-solid food or liquid would not be expected to have an impact on the pharmaceutical quality, and would therefore not be expected to alter the clinical effect.  This conclusion is based on the physiochemical and pharmacokinetic data assuming that the patient crushes and transfers 100% of the tablet and ingests immediately.
+Administration of crushed tablets with a small amount of semi-solid food or liquid would not be expected to have an impact on the pharmaceutical quality, and would therefore not be expected to alter the clinical effect. This conclusion is based on the physiochemical and pharmacokinetic data assuming that the patient crushes and transfers 100% of the tablet and ingests immediately.
 
-Co-administration of zidovudine results in a 13% increase in zidovudine exposure and a 28% increase in peak plasma levels.  This is not considered to be of significance to patient safety and therefore no dosage adjustments are necessary.
+Co-administration of zidovudine results in a 13% increase in zidovudine exposure and a 28% increase in peak plasma levels. This is not considered to be of significance to patient safety and therefore no dosage adjustments are necessary.
 
 ## Distribution
 
-From intravenous studies, the mean volume of distribution is 1.3 l/kg.  The mean systemic clearance of lamivudine is approximately
-
-0.32 l/h/kg, with predominantly renal clearance (&gt;70 %) via the organic cationic transport system.
+From intravenous studies, the mean volume of distribution is 1.3 l/kg. The mean systemic clearance of lamivudine is approximately 0.32 l/h/kg, with predominantly renal clearance (&gt;70 %) via the organic cationic transport system.
 
 Lamivudine exhibits linear pharmacokinetics over the therapeutic dose range and displays limited binding to the major plasma protein albumin (&lt; 16% - 36% to serum albumin in in vitro studies).
 
-Limited data show that lamivudine penetrates the central nervous system and reaches the cerebrospinal fluid (CSF).  The mean ratio CSF/serum lamivudine concentration 2-4 hours after oral administration was approximately 0.12.  The true extent of penetration or relationship with any clinical efficacy is unknown.
+<div style=\"page-break-after: always\"></div>
+
+Limited data show that lamivudine penetrates the central nervous system and reaches the cerebrospinal fluid (CSF). The mean ratio CSF/serum lamivudine concentration 2-4 hours after oral administration was approximately 0.12. The true extent of penetration or relationship with any clinical efficacy is unknown.
 
 ## Biotransformation
 
-The plasma lamivudine half-life after oral dosing is 18 to 19 hours and the active moiety, intracellular lamivudine triphosphate, has a prolonged terminal half-life in the cell (16 to 19 hours) .  In 60 healthy adult volunteers, Epivir 300 mg once daily has been demonstrated to be pharmacokinetically equivalent at steady-state to Epivir 150 mg twice daily with respect to intracellular triphosphate AUC24 and Cmax.
+The plasma lamivudine half-life after oral dosing is 18 to 19 hours and the active moiety, intracellular lamivudine triphosphate, has a prolonged terminal half-life in the cell (16 to 19 hours). In 60 healthy adult volunteers, Epivir 300 mg once daily has been demonstrated to be pharmacokinetically equivalent at steady-state to Epivir 150 mg twice daily with respect to intracellular triphosphate AUC24 and Cmax.
 
 Lamivudine is predominately cleared unchanged by renal excretion. The likelihood of metabolic interactions of lamivudine with other medicinal products is low due to the small extent of hepatic metabolism (5-10%) and low plasma protein binding.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Elimination
 
-Studies in patients with renal impairment show lamivudine elimination is affected by renal dysfunction. A recommended dosage regimen for patients with creatinine clearance below 50 ml/min is shown in the dosage section (see section 4.2).
+Studies in patients with renal impairment show lamivudine elimination is affected by renal dysfunction. A recommended dosage regimen for patients with creatinine clearance below 50 mL/min is shown in the dosage section (see section 4.2).
 
-An interaction with trimethoprim, a constituent of co-trimoxazole, causes a 40 % increase in lamivudine exposure at therapeutic doses.  This does not require dose adjustment unless the patient also has renal impairment (see sections 4.5 and 4.2).  Administration of co-trimoxazole with lamivudine in patients with renal impairment should be carefully assessed.
+An interaction with trimethoprim, a constituent of co-trimoxazole, causes a 40 % increase in lamivudine exposure at therapeutic doses. This does not require dose adjustment unless the patient also has renal impairment (see sections 4.5 and 4.2). Administration of co-trimoxazole with lamivudine in patients with renal impairment should be carefully assessed.
 
 ## Special populations
 
-Children: The absolute bioavailability of lamivudine (approximately 58-66%) was reduced in paediatric patients below 12 years of age.  In children, administration of tablets given concomitantly with other antiretroviral tablets delivered higher plasma lamivudine AUC ∞ and Cmax than oral solution given concomitantly with other antiretroviral oral solutions. Children receiving lamivudine oral solution according to the recommended dosage regimen achieve plasma lamivudine exposure within the range of values observed in adults.  Children receiving lamivudine oral tablets according to the recommended dosage regimen achieve higher plasma lamivudine exposure than children receiving oral solution because higher mg/kg doses are administered with the tablet formulation and the tablet formulation has higher bioavailability (see section 4.2). Paediatric pharmacokinetic studies with both oral solution and tablet formulations have demonstrated that once daily dosing provides equivalent AUC0-24 to twice daily dosing of the same total daily dose.
+Paediatric population : The absolute bioavailability of lamivudine (approximately 58-66%) was reduced in paediatric patients below 12 years of age. In children, administration of tablets given concomitantly with other antiretroviral tablets delivered higher plasma lamivudine AUC ∞ and Cmax than oral solution given concomitantly with other antiretroviral oral solutions. Children receiving lamivudine oral solution according to the recommended dosage regimen achieve plasma lamivudine exposure within the range of values observed in adults. Children receiving lamivudine oral tablets according to the recommended dosage regimen achieve higher plasma lamivudine exposure than children receiving oral solution because higher mg/kg doses are administered with the tablet formulation and the tablet formulation has higher bioavailability (see section 4.2). Paediatric pharmacokinetic studies with both oral solution and tablet formulations have demonstrated that once daily dosing provides equivalent AUC0-24 to twice daily dosing of the same total daily dose.
 
-There are limited pharmacokinetic data for patients less than three months of age. In neonates one week of age, lamivudine oral clearance was reduced when compared to paediatric patients and is likely to be due to immature renal function and variable absorption.  Therefore, to achieve similar adult and paediatric exposure, an appropriate dose for neonates is 4 mg/kg/day. Glomerular filtration estimates suggests that to achieve similar adult and paediatric exposure, an appropriate dose for children aged six weeks and older could be 8 mg/kg/day.
+There are limited pharmacokinetic data for patients less than three months of age. In neonates one week of age, lamivudine oral clearance was reduced when compared to paediatric patients and is likely to be due to immature renal function and variable absorption. Therefore, to achieve similar adult and paediatric exposure, an appropriate dose for neonates is 4 mg/kg/day. Glomerular filtration estimates suggests that to achieve similar adult and paediatric exposure, an appropriate dose for children aged six weeks and older could be 8 mg/kg/day.
 
 Pharmacokinetic data were derived from 3 pharmacokinetic studies (PENTA 13, PENTA 15 and ARROW PK substudy) enrolling children under 12 years of age. The data are displayed in the table below:
 
-## Summary of Stead-State Plasma Lamivudine AUC (0-24) (µg.h/ml) and Statistical Comparisons for Once and Twice-Daily Oral Administration Across Studies
+<div style=\"page-break-after: always\"></div>
+
+Summary of Stead-State Plasma Lamivudine AUC (0-24) (µg.h/mL) and Statistical Comparisons for Once and Twice-Daily Oral Administration Across Studies
 
 | Study                    | Age Group             | Lamivudine 8mg/kg Once- Daily Dosing Geometric Mean (95% Cl)   | Lamivudine 4 mg/kg Twice- Daily Dosing Geometric Mean (95% Cl)   | Once-Versus Twice-Daily Comparison GLS Mean Ratio (90% Cl)   |
 |--------------------------|-----------------------|----------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------|
@@ -1010,21 +1023,17 @@ Pharmacokinetic data were derived from 3 pharmacokinetic studies (PENTA 13, PENT
 | PENTA 13                 | 2 to 12 years (N=19)  | 9.80 (8.64, 11.1)                                              | 8.88 (7.67, 10.3)                                                | 1.12 (1.03, 1.21)                                            |
 | PENTA 15                 | 3 to 36 months (N=17) | 8.66 (7.46, 10.1)                                              | 9.48 (7.89, 11.40)                                               | 0.91 (0.79, 1.06)                                            |
 
-In PENTA 15 study, the geometric mean plasma lamivudine AUC(0-24) (95% CI) of the four subjects under 12 months of age who switch from a twice daily to a once daily regimen (see section 5.1) are
-
-<div style=\"page-break-after: always\"></div>
-
-10.31 (6.26, 17.0) µg.h/ml in the once-daily dosing and 9.24 (4.66, 18.3) µg.h/mL in the twice-daily dosing.
+In PENTA 15 study, the geometric mean plasma lamivudine AUC(0-24) (95% CI) of the four subjects under 12 months of age who switch from a twice daily to a once daily regimen (see section 5.1) are 10.31 (6.26, 17.0) µg.h/mL in the once-daily dosing and 9.24 (4.66, 18.3) µg.h/mL in the twice-daily dosing.
 
 Pregnancy: Following oral administration, lamivudine pharmacokinetics in late-pregnancy were similar to non-pregnant women.
 
 ## 5.3 Preclinical safety data
 
-Administration of lamivudine in animal toxicity studies at high doses was not associated with any major organ toxicity.  At the highest dosage levels, minor effects on indicators of liver and kidney function were seen together with occasional reductions in liver weight.  The clinically relevant effects noted were a reduction in red blood cell count and neutropenia.
+Administration of lamivudine in animal toxicity studies at high doses was not associated with any major organ toxicity. At the highest dosage levels, minor effects on indicators of liver and kidney function were seen together with occasional reductions in liver weight. The clinically relevant effects noted were a reduction in red blood cell count and neutropenia.
 
-Lamivudine was not mutagenic in bacterial tests but, like many nucleoside analogues, showed activity in an in vitro cytogenetic assay and the mouse lymphoma assay.  Lamivudine was not genotoxic in vivo at doses that gave plasma concentrations around 40-50 times higher than the anticipated clinical plasma levels.  As the in vitro mutagenic activity of lamivudine could not be confirmed in in vivo tests, it is concluded that lamivudine should not represent a genotoxic hazard to patients undergoing treatment.
+Lamivudine was not mutagenic in bacterial tests but, like many nucleoside analogues, showed activity in an in vitro cytogenetic assay and the mouse lymphoma assay. Lamivudine was not genotoxic in vivo at doses that gave plasma concentrations around 40-50 times higher than the anticipated clinical plasma levels. As the in vitro mutagenic activity of lamivudine could not be confirmed in in vivo tests, it is concluded that lamivudine should not represent a genotoxic hazard to patients undergoing treatment.
 
-A transplacental genotoxicity study conducted in monkeys compared zidovudine alone with the combination of zidovudine and lamivudine at human-equivalent exposures.  The study demonstrated that foetuses exposed in utero to the combination sustained a higher level of nucleoside analogueDNA incorporation into multiple foetal organs, and showed evidence of more telomere shortening than in those exposed to zidovudine alone. The clinical significance of these findings is unknown.
+A transplacental genotoxicity study conducted in monkeys compared zidovudine alone with the combination of zidovudine and lamivudine at human-equivalent exposures. The study demonstrated that foetuses exposed in utero to the combination sustained a higher level of nucleoside analogueDNA incorporation into multiple foetal organs, and showed evidence of more telomere shortening than in those exposed to zidovudine alone. The clinical significance of these findings is unknown.
 
 The results of long-term carcinogenicity studies in rats and mice did not show any carcinogenic potential relevant for humans.
 
@@ -1034,7 +1043,9 @@ A fertility study in rats has shown that lamivudine had no effect on male or fem
 
 ## 6.1 List of excipients
 
-Sucrose 20 % w/v (3 g/15 ml) Methyl parahydroxybenzoate Propyl parahydroxybenzoate Citric acid Anhydrous Propylene glycol Sodium citrate Artificial strawberry flavour Artificial banana flavour Purified water
+Sucrose Methyl parahydroxybenzoate (E 218) Propyl parahydroxybenzoate (E 216) Citric acid Anhydrous Propylene glycol (E 1520) Sodium citrate Artificial strawberry flavour Artificial banana flavour Purified water Sodium hydroxide and/or hydrochloric acid (for pH adjustment).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.2 Incompatibilities
 
@@ -1046,15 +1057,13 @@ Not applicable
 
 Discard the oral solution one month after first opening.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.4 Special precautions for storage
 
 Do not store above 25°C.
 
 ## 6.5 Nature and contents of container
 
-Cartons containing 240 ml oral solution in a white high density polyethylene (HDPE) bottle, with a child resistant closure.  The pack also includes a polyethylene syringe-adapter, and a 10 ml oral dosing syringe comprised of a polypropylene barrel (with ml graduations) and a polyethylene plunger.
+Cartons containing 240 mL oral solution in a white high density polyethylene (HDPE) bottle, with a child resistant closure. The pack also includes a polyethylene syringe-adapter, and a 10 mL oral dosing syringe comprised of a polypropylene barrel (with mL graduations) and a polyethylene plunger.
 
 The oral dosing syringe is provided for accurate measurement of the prescribed dose of the oral solution. Instructions for use are included in the pack.
 
@@ -1064,9 +1073,7 @@ No special requirements for disposal.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort
-
-Netherlands
+ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
@@ -1078,9 +1085,11 @@ Date of first authorisation: 8 August 1996
 
 Date of last renewal: 28 July 2006
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1138,7 +1147,7 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING AND THE IMMEDIATE PACKAGING
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 BOTTLE CARTON X 60 FILM-COATED TABLETS (150 mg)
 
@@ -1182,21 +1191,11 @@ EXP {MM/YYYY}
 
 Do not store above 30°C
 
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-ViiV Healthcare BV
-
-Van Asch van Wijckstraat 55H
-
-3811 LP Amersfoort
-
-Netherlands
+ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1206,9 +1205,7 @@ EU/1/96/015/001
 
 LOT
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-Medicinal product subject to medical prescription.
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1222,9 +1219,11 @@ epivir 150 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC: SN: NN:
+PC SN NN
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING AND THE IMMEDIATE PACKAGING
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
 BOTTLE LABEL X 60 FILM-COATED TABLETS (150 mg)
 
@@ -1242,7 +1241,9 @@ Each film-coated tablet contains lamivudine 150 mg
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-60 film-coated tablets Scored tablets
+60 film-coated tablets
+
+Scored tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1268,39 +1269,40 @@ Do not store above 30°C
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
-ViiV Healthcare BV
+ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands
 
-Van Asch van Wijckstraat 55H
-
-3811 LP Amersfoort
-
-Netherlands
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/96/015/001
 
-13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 LOT
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-Medicinal product subject to medical prescription.
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-15. INSTRUCTIONS ON USE
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
 
-16. INFORMATION IN BRAILLE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 BLISTER CARTON X 60 FILM-COATED TABLETS (150 mg)
 
@@ -1313,8 +1315,6 @@ Lamivudine
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
 Each film-coated tablet contains lamivudine 150 mg
-
-<div style=\"page-break-after: always\"></div>
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1340,19 +1340,15 @@ EXP {MM/YYYY}
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+<div style=\"page-break-after: always\"></div>
+
 Do not store above 30°C
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-ViiV Healthcare BV
-
-Van Asch van Wijckstraat 55H
-
-3811 LP Amersfoort
-
-Netherlands
+ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1362,9 +1358,7 @@ EU/1/96/015/004
 
 LOT
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-Medicinal product subject to medical prescription.
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1378,17 +1372,31 @@ epivir 150 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC: SN: NN:
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+| 5.   | OTHER   |
+|------|---------|
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTER OR STRIPS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Epivir 150 mg tablets lamivudine
+Epivir 150 mg tablets
+
+lamivudine
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1398,39 +1406,37 @@ ViiV Healthcare BV
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 LOT
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING AND THE IMMEDIATE PACKAGING
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-BOTTLE CARTON FOR ORAL SOLUTION
+## BOTTLE CARTON FOR ORAL SOLUTION
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Epivir 10 mg/ml oral solution
+Epivir 10 mg/mL oral solution
 
 Lamivudine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each ml of oral solution contains 10 mg lamivudine
+Each mL of oral solution contains 10 mg lamivudine
 
 ## 3. LIST OF EXCIPIENTS
 
-This product also contains sugar, preservatives: methyl parahydroxybenzoate and propyl parahydroxybenzoate, propylene glycol and sodium.
+Contains sucrose, preservatives: methyl parahydroxybenzoate (E 218) and propyl parahydroxybenzoate (E 216), propylene glycol (E 1520) and sodium.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 Bottle contents:
 
-240 ml oral solution
+240 mL oral solution
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1456,7 +1462,7 @@ Discard one month after first opening
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1470,25 +1476,19 @@ EU/1/96/015/002
 
 LOT
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
 
-Medicinal product subject to medical prescription.
+epivir 10 mg/mL
 
-## 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-epivir 10 mg/ml
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
-<!-- image -->
-
-NN:
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1498,23 +1498,23 @@ BOTTLE LABEL FOR ORAL SOLUTION
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Epivir 10 mg/ml oral solution
+Epivir 10 mg/mL oral solution
 
 Lamivudine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each ml of oral solution contains 10 mg lamivudine
+Each mL of oral solution contains 10 mg lamivudine
 
 ## 3. LIST OF EXCIPIENTS
 
-This product also contains sugar, preservatives: methyl parahydroxybenzoate and propyl parahydroxybenzoate, propylene glycol and sodium.
+Contains sucrose, preservatives: methyl parahydroxybenzoate (E218) and propyl parahydroxybenzoate (E216), propylene glycol (E1520) and sodium.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 Bottle contents:
 
-240 ml oral solution
+240 mL oral solution
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1540,7 +1540,7 @@ Discard one month after first opening
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1554,18 +1554,15 @@ EU/1/96/015/002
 
 LOT
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-Medicinal product subject to medical prescription.
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
-17. UNIQUE IDENTIFIER - 2D BARCODE
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+17. UNIQUE IDENTIFIER -2D BARCODE
+18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING AND THE IMMEDIATE PACKAGING
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-BOTTLE CARTON X 30 FILM-COATED TABLETS (300 mg )
+BOTTLE CARTON X 30 FILM-COATED TABLETS (300 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1575,7 +1572,9 @@ Lamivudine
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each film-coated tablet contains Lamivudine 300 mg
+Each film-coated tablet contains
+
+Lamivudine 300 mg
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1604,10 +1603,6 @@ EXP {MM/YYYY}
 <div style=\"page-break-after: always\"></div>
 
 Do not store above 30°C
-
-<div style=\"page-break-after: always\"></div>
-
-<!-- image -->
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1623,9 +1618,7 @@ EU/1/96/015/003
 
 LOT
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-Medicinal product subject to medical prescription.
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1639,13 +1632,13 @@ epivir 300 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC: SN: NN:
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING AND THE IMMEDIATE PACKAGING
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
-BOTTLE LABEL X 30 FILM-COATED TABLETS (300 mg )
+BOTTLE LABEL X 30 FILM-COATED TABLETS (300 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1657,7 +1650,7 @@ Lamivudine
 
 Each film-coated tablet contains Lamivudine 300 mg
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1681,33 +1674,44 @@ EXP {MM/YYYY}
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+<div style=\"page-break-after: always\"></div>
+
 Do not store above 30°C
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/96/015/003
 
-13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 LOT
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-Medicinal product subject to medical prescription.
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
-17. UNIQUE IDENTIFIER - 2D BARCODE
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 16. INFORMATION IN BRAILLE   |
+|------------------------------|
+
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
+
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1755,49 +1759,52 @@ Do not store above 30°C
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|----------------------------------------------------------|
 
 ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/96/015/005
 
-## 13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 LOT
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-Medicinal product subject to medical prescription.
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-15. INSTRUCTIONS ON USE
-
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 epivir 300 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
+|-------|----------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC:
-
-SN:
-
-NN:
+PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1844,7 +1851,7 @@ LOT
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet.  You may need to read it again.
+- -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your doctor or pharmacist.
 - -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
 - -If you get any of the side effects talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
@@ -1928,11 +1935,13 @@ If you are breast-feeding, or thinking about breast-feeding, you should discuss 
 
 ## Driving and using machines
 
-Epivir is unlikely to affect your ability to drive or use machines.
+Epivir may make you feel tired and have other side effects that could affect your ability to drive or use machines.
+
+Don't drive or use machines unless you are sure you're not affected.
 
 ## Epivir contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium -free'.
 
 ## 3. How to take Epivir
 
@@ -1964,19 +1973,21 @@ The usual dose of Epivir is 150 mg a day. This can be given as 75 mg (half a 150
 
 An oral solution is also available for the treatment of children over 3 months of age, or for people who need a lower dose than usual, or who cannot take tablets.
 
-## If you or your child has a kidney problem , your dose may be altered.
+If you or your child has a kidney problem
 
-Talk to your doctor if this applies to you or your child.
+Talk to your doctor
+
+, your dose may be altered. if this applies to you or your child.
 
 ## If you take more Epivir than you should
 
 If you take too much Epivir, tell your doctor or your pharmacist, or contact your nearest hospital emergency department for further advice. If possible, show them the Epivir pack.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you forget to take Epivir
 
 If you forget to take a dose, take it as soon as you remember. Then continue your treatment as before. Do not take a double dose to make up for a forgotten dose.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
@@ -2024,23 +2035,23 @@ Uncommon side effects that may show up in blood tests are:
 
 These may affect up to 1 in 1000 people:
 
-- serious allergic reaction causing swelling of the face, tongue or throat which may cause difficulty in swallowing or breathing
+- serious allergic reaction causing swelling of the face, tongue or throat which may cause difficulty in swallowing or breathing ( angioedema )
 - inflammation of the pancreas ( pancreatitis )
-- breakdown of muscle tissue
-- inflammation ( hepatitis ).
+- breakdown of muscle tissue ( rhabdomyolysis )
+- inflammation of the liver ( hepatitis ).
+
+<div style=\"page-break-after: always\"></div>
 
 A rare side effect that may show up in blood tests is:
 
 - an increase in an enzyme called amylase.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Very rare side effects
 
 These may affect up to 1 in 10,000 people:
 
-- Lactic acidosis (excess lactic acid in the blood)
-- tingling or numbness of the arms, legs, hands or feet.
+- excess lactic acid in the blood ( lactic acidosis )
+- tingling or numbness of the arms, legs, hands or feet ( peripheral neuropathy [or paraesthesia] ).
 
 A very rare side effect that may show up in blood tests is:
 
@@ -2084,13 +2095,11 @@ If you notice any of these symptoms:
 
 ## Tell your doctor .
 
-## Reporting of side effects
-
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system
-
 <div style=\"page-break-after: always\"></div>
 
-listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Epivir
 
@@ -2110,23 +2119,17 @@ The active substance is lamivudine.
 
 The tablets also contain the following other ingredients:
 
-Tablet core : microcrystalline cellulose, sodium starch glycollate (gluten free), magnesium stearate Film-coat : hypromellose, titanium dioxide, macrogol, polysorbate 80
+Tablet core : microcrystalline cellulose (E 460), sodium starch glycollate, magnesium stearate Film-coat : hypromellose (E 464), titanium dioxide (E 171), macrogol, polysorbate 80
 
 ## What Epivir looks like and the contents of the pack
 
-Epivir 150 mg film-coated tablets are supplied in white polyethylene bottles or blister packs containing 60 tablets. They are white, diamond shaped, scored, film-coated tablets, marked with the code 'GXCJ7' on both sides.
+Epivir 150 mg film-coated tablets are supplied in white polyethylene bottles or blister packs containing 60 tablets. They are white, diamond shaped, scored, film-coated tablets, marked with the code ' GX CJ7 ' on both sides.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-## Manufacturer
-
-## Marketing Authorisation Holder
-
-Delpharm Poznań Spółka
-
-Akcyjna ul. Grunwaldzka 189 60-322 Poznan Poland
-
-ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands
+| Marketing Authorisation Holder                                                 | Manufacturer                                                            |
+|--------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands | Delpharm Poznań Spółka Akcyjna ul. Grunwaldzka 189 60-322 Poznan Poland |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2156,13 +2159,11 @@ GlaxoSmithKline s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
 
 ## Magyarország
 
-ViiV Healthcare BV
-
-Tel.: + 36 80088309
+ViiV Healthcare BV Tel.: +36 80088309
 
 ## Danmark
 
-GlaxoSmithKline Pharma A/S Tlf: + 45 36 35 91 00 dk-info@gsk.com
+GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
 
 ## Malta
 
@@ -2172,15 +2173,11 @@ Tel: + 356 80065004
 
 ## Deutschland
 
-ViiV Healthcare GmbH Tel.: + 49 (0)89 203 0038-10
-
-iiv.med.info@viivhealthcare.com
+ViiV Healthcare GmbH Tel.: + 49 (0)89 203 0038-10 viiv.med.info@viivhealthcare.com
 
 ## Nederland
 
-ViiV Healthcare BV
-
-Tel: + 31 (0)33 2081199
+ViiV Healthcare BV Tel: + 31 (0)33 2081199
 
 ## Eesti
 
@@ -2188,9 +2185,7 @@ ViiV Healthcare BV Tel: + 372 8002640
 
 ## Norge
 
-GlaxoSmithKline AS
-
-Tlf: + 47 22 70 20 00
+GlaxoSmithKline AS Tlf: + 47 22 70 20 00
 
 ## Ελλάδα
 
@@ -2202,7 +2197,7 @@ GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
 
 ## España
 
-Laboratorios ViiV Healthcare, S.L. Tel: + 34 900 923 501 ci@viivhealthcare.com
+Laboratorios ViiV Healthcare, S.L. Tel: + 34 900 923 501 es-ci@viivhealthcare.com
 
 ## Polska
 
@@ -2210,7 +2205,7 @@ GSK Services Sp. z o.o. Tel.: + 48 (0)22 576 9000
 
 ## France
 
-ViiV Healthcare SAS Tél.: + 33 (0)1 39 17 6969 Infomed@viivhealthcare.com
+ViiV Healthcare SAS Tél.: + 33 (0)1 39 17 69 69 Infomed@viivhealthcare.com
 
 ## Portugal
 
@@ -2218,7 +2213,9 @@ VIIVHIV HEALTHCARE, UNIPESSOAL, LDA. Tel: + 351 21 094 08 01 viiv.fi.pt@viivheal
 
 ## Hrvatska
 
-ViiV Healthcare BV Tel: +385 800787089
+ViiV Healthcare BV
+
+Tel: +385 800787089
 
 ## România
 
@@ -2230,17 +2227,15 @@ GlaxoSmithKline (Ireland) Limited Tel: + 353 (0)1 4955000
 
 ## Slovenija
 
-ViiV Healthcare BV
-
-Tel: + 386 80688869
+ViiV Healthcare BV Tel: + 386 80688869
 
 ## Ísland
 
-## Slovenská republika
-
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
+
+## Slovenská republika
 
 ViiV Healthcare BV
 
@@ -2276,28 +2271,26 @@ ViiV Healthcare BV
 
 Tel: + 371 80205045
 
-## United Kingdom (Northern Ireland)
-
-ViiV Healthcare BV Tel: + 44 (0)800 221441 customercontactuk@gsk.com
-
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in {MM/YYYY}
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Package leaflet: Information for the user
 
-## Epivir 10 mg/ml oral solution lamivudine
+## Epivir 10 mg/mL oral solution
+
+## lamivudine
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet.  You may need to read it again.
+- -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your doctor or pharmacist.
 - -This medicine has been prescribed for you or for your child. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any of the side effects talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- -If you get any of the side effects talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet:
 
@@ -2322,7 +2315,7 @@ Not everyone responds to treatment with Epivir in the same way. Your doctor will
 
 ## Do not take Epivir:
 
-- if you are allergic to lamivudine or any of the other ingredients  of this medicine ( listed in Section 6 ).
+- if you are allergic to lamivudine or any of the other ingredients of this medicine (listed in Section 6).
 
 Check with your doctor if you think this applies to you.
 
@@ -2376,21 +2369,25 @@ If you are breast-feeding, or thinking about breast-feeding, you should discuss 
 
 ## Driving and using machines
 
-Epivir is unlikely to affect your ability to drive or use machines.
+Epivir may make you feel tired and have other side effects that could affect your ability to drive or use machines.
+
+Don't drive or use machines unless you are sure you're not affected.
 
 ## Important information about some of the ingredients of Epivir
 
-## If you are a diabetic, please note that each dose (150 mg = 15 ml) contains 3 g sugar.
-
-Epivir contains sucrose. If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking Epivir. Sucrose may be harmful to the teeth.
+If you are a diabetic, please note that each dose (150 mg = 15 mL) contains 3 g sugar.
 
 <div style=\"page-break-after: always\"></div>
 
+Epivir contains sucrose. If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking Epivir. Sucrose may be harmful to the teeth.
+
 Epivir also contains preservatives ( parahydroxybenzoates ) which may cause allergic reactions (possibly delayed).
 
-## Epivir contains sodium
+This medicine contains 300 mg propylene glycol in each 15 mL.
 
-This medicine contains 39 mg sodium in each 15 ml. This is equivalent to 1.95% of the recommended maximum daily dietary intake of sodium for an adult.
+## Epivir contains sodium.
+
+This medicine contains 39 mg sodium in each 15 mL. This is equivalent to 1.95% of the recommended maximum daily dietary intake of sodium for an adult.
 
 ## 3. How to take Epivir
 
@@ -2406,9 +2403,9 @@ Keep in touch with your doctor, and do not stop taking Epivir without your docto
 
 ## How much to take
 
-Adults, adolescents and children weighing at least 25 kg
+## Adults, adolescents and children weighing at least 25 kg
 
-The usual dose of Epivir is 30 ml (300 mg) a day. This can be taken either as 15 ml (150 mg) twice a day (leaving approximately 12 hours between each dose), or as 30 ml (300 mg) once a day.
+The usual dose of Epivir is 30 mL (300 mg) a day. This can be taken either as 15 mL (150 mg) twice a day (leaving approximately 12 hours between each dose), or as 30 mL (300 mg) once a day.
 
 ## Children from 3 months of age weighing less than 25 kg
 
@@ -2425,9 +2422,12 @@ Use the oral dosing syringe supplied with the pack to measure your dose accurate
 7. Pull out syringe plunger until the syringe contains the first part of your full dose.
 8. Turn the bottle the correct way up. Remove the syringe from the adapter.
 9. Put the syringe into your mouth, placing the tip of the syringe against the inside of your cheek. Slowly push the plunger in, allowing time to swallow. Do not push too hard and squirt the liquid into the back of your throat or you may choke.
-10. Repeat steps 5 to 9 in the same way until you have taken your whole dose. For example, if your dose is 15 ml, you need to take one and a half syringe-fulls of medicine.
-11. Take the syringe out of the bottle and wash it thoroughly in clean water. Let it dry completely before you use it again.
-12. Close the bottle tightly with the cap, leaving the adapter in place.
+10. Thoroughly clean the syringe each time it has been emptied.
+11. Repeat steps 5 to 10 in the same way until you have taken your whole dose. For example, if your dose is 15 mL, you need to take one and a half syringe-fulls of medicine.
+12. After you have taken your complete dose wash the syringe thoroughly in clean water. Let it dry completely before you use it again.
+13. Close the bottle tightly with the cap, leaving the adapter in place.
+
+<div style=\"page-break-after: always\"></div>
 
 Discard oral solution one month after first opening.
 
@@ -2438,8 +2438,6 @@ Talk to your doctor
 , the dose may be altered. if this applies to you or your child.
 
 ## If you take more Epivir than you should
-
-<div style=\"page-break-after: always\"></div>
 
 If you take too much Epivir, tell your doctor or your pharmacist, or contact your nearest hospital emergency department for further advice. If possible, show them the Epivir pack.
 
@@ -2485,21 +2483,20 @@ These may affect up to 1 in 100 people:
 
 Uncommon side effects that may show up in blood tests are:
 
+<div style=\"page-break-after: always\"></div>
+
 - a decrease in the number of cells involved in blood clotting ( thrombocytopenia )
 - a low red blood cell count ( anaemia ) or low white blood cell count ( neutropenia )
-- an increase in the level of liver enzymes.
+- an increase in the level of liver enzymes
 
 ## Rare side effects
 
 These may affect up to 1 in 1000 people:
 
-- serious allergic reaction causing swelling of the face, tongue or throat which may cause difficulty in swallowing or breathing
+- serious allergic reaction causing swelling of the face, tongue or throat which may cause difficulty in swallowing or breathing ( angioedema )
 - inflammation of the pancreas ( pancreatitis )
-
-<div style=\"page-break-after: always\"></div>
-
-- breakdown of muscle tissue
-- inflammation ( hepatitis ).
+- breakdown of muscle tissue ( rhabdomyolysis )
+- inflammation of the liver ( hepatitis ).
 
 A rare side effect that may show up in blood tests is:
 
@@ -2509,8 +2506,8 @@ A rare side effect that may show up in blood tests is:
 
 These may affect up to 1 in 10,000 people:
 
-- Lactic acidosis (excess lactic acid in the blood)
-- tingling or numbness of the arms, legs, hands or feet.
+- excess lactic acid in the blood ( lactic acidosis )
+- tingling or numbness of the arms, legs, hands or feet ( peripheral neuropathy [or paraesthesia] ).
 
 A very rare side effect that may show up in blood tests is:
 
@@ -2526,7 +2523,7 @@ Combination therapy such as Epivir may cause other conditions to develop during 
 
 ## Old infections may flare up
 
-People with advanced HIV infection (AIDS) have weak immune systems and are more likely to develop serious infections (opportunistic infections). When these people start treatment, they may find that old, hidden infections flare up, causing signs and symptoms of inflammation. These symptoms are probably caused by the body's immune system becoming stronger, so that the body starts to fight these infections.
+People with advanced HIV infection (AIDS) have weak immune systems and are more likely to develop serious infections (opportunistic infections). When these people start treatment, they may find that old, hidden infections flare up, causing signs and symptoms of inflammation. These symptoms are probably caused by the body's i mmune system becoming stronger, so that the body starts to fight these infections.
 
 In addition to the opportunistic infections, autoimmune disorders (a condition that occurs when the immune system attacks healthy body tissue) may also occur after you start taking medicines for the treatment of your HIV infection. Autoimmune disorders may occur many months after the start of treatment. If you notice any symptoms of infection or other symptoms such as muscle weakness, weakness beginning in the hands and feet and moving up towards the trunk of the body, palpitations, tremor or hyperactivity, please inform your doctor immediately to seek necessary treatment.
 
@@ -2541,6 +2538,9 @@ Some people taking combination therapy for HIV develop a condition called osteon
 - if they have been taking combination therapy for a long time
 - if they are also taking anti-inflammatory medicines called corticosteroids
 - if they drink alcohol
+
+<div style=\"page-break-after: always\"></div>
+
 - if their immune systems are very weak
 - if they are overweight.
 
@@ -2553,8 +2553,6 @@ Some people taking combination therapy for HIV develop a condition called osteon
 If you notice any of these symptoms:
 
 ## Tell your doctor .
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of side effects
 
@@ -2578,163 +2576,143 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 The active substance is lamivudine.
 
-The oral solution also contains the following other ingredients: sugar (sucrose 3 g/15 ml), methyl parahydroxybenzoate, propyl parahydroxybenzoate, anhydrous citric acid, sodium citrate, propylene glycol, water, artificial strawberry and banana flavourings.
-
-This medicine contains 300 mg propylene glycol in each 15ml.
+The oral solution also contains the following other ingredients: sucrose, methyl parahydroxybenzoate (E218), propyl parahydroxybenzoate (E216), anhydrous citric acid, sodium citrate, propylene glycol (E1520), purified water, artificial strawberry and banana flavourings, sodium hydroxide and/or hydrochloric acid for pH adjustment.
 
 ## What Epivir looks like and the contents of the pack
 
-Epivir oral solution is supplied in a white polyethylene bottle containing 240 ml of solution. An oral dosing syringe and a plastic adapter for the bottle is included in the pack.
+Epivir oral solution is supplied in a white polyethylene bottle containing 240 mL of solution. An oral dosing syringe and a plastic adapter for the bottle is included in the pack.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-## Manufacturer
+Marketing Authorisation Holder
 
-## Marketing Authorisation Holder
+Manufacturer
 
-ViiV Healthcare Trading Services UK
+ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands
 
-Limited
+ViiV Healthcare Trading Services UK Limited 12 Riverwalk, Citywest Business Campus Dublin 24, Ireland
 
-12 Riverwalk,
-
-Citywest Business Campus
-
-Dublin 24,
-
-Ireland
-
-ViiV Healthcare BV
-
-Van Asch van Wijckstraat 55H
-
-3811 LP Amersfoort
-
-Netherlands
+<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien ViiV Healthcare srl/bv Tél/Tel: + 32 (0)10 85 65 00
+## België/Belgique/Belgien
 
-Lietuva
+ViiV Healthcare srl/bv Tél/Tel: + 32 (0)10 85 65 00
+
+## Lietuva
 
 ViiV Healthcare BV
 
 Tel: + 370 80000334
 
-<div style=\"page-break-after: always\"></div>
-
 ## България
 
 ViiV Healthcare BV Te л. : + 359 80018205
-
-## Česká republika
-
-GlaxoSmithKline s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
-
-## Danmark
-
-GlaxoSmithKline Pharma A/S Tlf: + 45 36 35 91 00 dk-info@gsk.com
-
-## Deutschland
-
-ViiV Healthcare GmbH Tel.: + 49 (0)89 203 0038-10 viiv.med.info@viivhealthcare.com
-
-## Eesti
-
-ViiV Healthcare BV Tel: + 372 8002640
-
-## Ελλάδα
-
-GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Τηλ : + 30 210 68 82 100
-
-## España
-
-Laboratorios ViiV Healthcare, S.L. Tel: + 34 900 923 501 es-ci@viivhealthcare.com
-
-## France
-
-ViiV Healthcare SAS Tél.: + 33 (0)1 39 17 6969
-
-Infomed@viivhealthcare.com
-
-## Hrvatska
-
-ViiV Healthcare BV Tel: +385 800787089
-
-## Ireland
-
-GlaxoSmithKline (Ireland) Limited Tel: + 353 (0)1 4955000
-
-## Ísland
-
-Vistor hf. Sími: +354 535 7000
-
-## Italia
-
-ViiV Healthcare S.r.l. Tel: + 39 (0)45 7741600
-
-## Κύπρος
 
 ## Luxembourg/Luxemburg
 
 ViiV Healthcare srl/bv Belgique/Belgien Tél/Tel: + 32 (0)10 85 65 00
 
+## Česká republika
+
+GlaxoSmithKline s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
+
 ## Magyarország
 
-ViiV Healthcare BV Tel.: + 36 80088309
+ViiV Healthcare BV Tel.: +36 80088309
+
+## Danmark
+
+GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
 
 ## Malta
 
-ViiV Healthcare BV Tel: + 356 80065004
+ViiV Healthcare BV
+
+Tel: + 356 80065004
+
+## Deutschland
+
+ViiV Healthcare GmbH Tel.: + 49 (0)89 203 0038-10 viiv.med.info@viivhealthcare.com
 
 ## Nederland
 
 ViiV Healthcare BV Tel: + 31 (0)33 2081199
 
+## Eesti
+
+ViiV Healthcare BV Tel: + 372 8002640
+
 ## Norge
 
-GlaxoSmithKline AS Tlf: + 47 22 70 20 00
+GlaxoSmithKline AS
+
+Tlf: + 47 22 70 20 00
+
+## Ελλάδα
+
+GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Τηλ : + 30 210 68 82 100
 
 ## Österreich
 
 GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com
 
+## España
+
+Laboratorios ViiV Healthcare, S.L. Tel: + 34 900 923 501 es-ci@viivhealthcare.com
+
 ## Polska
 
-GSK Services Sp. z o.o.
+GSK Services Sp. z o.o. Tel.: + 48 (0)22 576 9000
 
-Tel.: + 48 (0)22 576 9000
+## France
+
+ViiV Healthcare SAS Tél.: + 33 (0)1 39 17 69 69 Infomed@viivhealthcare.com
 
 ## Portugal
 
 VIIVHIV HEALTHCARE, UNIPESSOAL, LDA. Tel: + 351 21 094 08 01 viiv.fi.pt@viivhealthcare.com
 
+## Hrvatska
+
+ViiV Healthcare BV Tel: +385 800787089
+
 ## România
 
 ViiV Healthcare BV Tel: + 40800672524
 
+## Ireland
+
+GlaxoSmithKline (Ireland) Limited Tel: + 353 (0)1 4955000
+
 ## Slovenija
 
-ViiV Healthcare BV
-
-Tel: + 386 80688869
-
-## Slovenská republika
-
-ViiV Healthcare BV Tel: + 421 800500589
-
-## Suomi/Finland
-
-GlaxoSmithKline Oy Puh/Tel: + 358 (0)10 30 30 30
-
-## Sverige
-
-ViiV Healthcare BV Τηλ : + 357 80070017
+ViiV Healthcare BV Tel: + 386 80688869
 
 <div style=\"page-break-after: always\"></div>
 
-Latvija
+## Ísland
+
+Vistor ehf.
+
+Sími: +354 535 7000
+
+## Italia
+
+ViiV Healthcare S.r.l.
+
+Tel: + 39 (0)45 7741600
+
+## Κύπρος
+
+ViiV Healthcare BV
+
+Τηλ
+
+: + 357 80070017
+
+## Latvija
 
 ViiV Healthcare BV
 
@@ -2742,15 +2720,23 @@ Tel: + 371 80205045
 
 ## This leaflet was last revised in {MM/YYYY}
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Slovenská republika
+
+ViiV Healthcare BV
+
+Tel: + 421 800500589
+
+## Suomi/Finland
+
+GlaxoSmithKline Oy
+
+Puh/Tel: + 358 (0)10 30 30 30
+
+## Sverige
 
 GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
-
-## United Kingdom (Northern Ireland)
-
-ViiV Healthcare BV Tel: + 44 (0)800 221441
-
-customercontactuk@gsk.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2762,10 +2748,10 @@ customercontactuk@gsk.com
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet.  You may need to read it again.
+- -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your doctor or pharmacist.
 - -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any of the side effects talk to your doctor. This includes any side effects not listed in this leaflet. See section 4.
+- -If you get any of the side effects talk to your doctor or pharmacist. This includes any side effects not listed in this leaflet. See section 4.
 
 ## In this leaflet:
 
@@ -2775,8 +2761,7 @@ customercontactuk@gsk.com
 4. Possible side effects
 5. How to store Epivir
 6. Contents of the pack and other information
-
-## 1. What Epivir is and what it is used for
+1. What Epivir is and what it is used for
 
 ## Epivir is used to treat HIV (human immunodeficiency virus) infection in adults and children .
 
@@ -2845,15 +2830,17 @@ If you are breast-feeding, or thinking about breast-feeding, you should discuss 
 
 ## Driving and using machines
 
-Epivir is unlikely to affect your ability to drive or use machines.
+Epivir may make you feel tired and have other side effects that could affect your ability to drive or use machines.
+
+Don't drive or use machines unless you are sure you're not affected.
 
 ## Epivir contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium-free'.
-
-## 3. How to take Epivir
+This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially 'sodium -free' .
 
 <div style=\"page-break-after: always\"></div>
+
+## 3. How to take Epivir
 
 Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
 
@@ -2869,7 +2856,7 @@ Keep in touch with your doctor, and do not stop taking Epivir without your docto
 
 ## How much to take
 
-Adults, adolescents and children who weigh at least 25 kg:
+## Adults, adolescents and children who weigh at least 25 kg:
 
 The usual dose is one 300 mg tablet once a day.
 
@@ -2877,11 +2864,9 @@ A 150 mg strength Epivir tablet is also available for the treatment of children 
 
 An oral solution is also available for the treatment of children over 3 months of age, or for people who need a lower dose than usual, or who cannot take tablets.
 
-If you have a kidney problem
+## If you have a kidney problem
 
-Talk to your doctor
-
-, your dose may be altered. if this applies to you.
+, your dose may be altered. Talk to your doctor if this applies to you.
 
 ## If you take more Epivir than you should
 
@@ -2899,6 +2884,8 @@ Like all medicines, this medicine can cause side effects, but not everyone gets 
 
 When you are being treated for HIV, it can be hard to tell whether a symptom is a side effect of Epivir or other medicines you are taking, or an effect of the HIV disease itself. So it is very important to talk to your doctor about any changes in your health .
 
+<div style=\"page-break-after: always\"></div>
+
 As well as the side effects listed below for Epivir , other conditions can develop during combination therapy for HIV.
 
 It is important to read the information later in this section under 'Other possible side effects of combination therapy for HIV'.
@@ -2906,8 +2893,6 @@ It is important to read the information later in this section under 'Other possi
 ## Common side effects
 
 These may affect up to 1 in 10 people:
-
-<div style=\"page-break-after: always\"></div>
 
 - headache
 - feeling sick ( nausea )
@@ -2939,10 +2924,10 @@ Uncommon side effects that may show up in blood tests are:
 
 These may affect up to 1 in 1000 people:
 
-- serious allergic reaction causing swelling of the face, tongue or throat which may cause difficulty in swallowing or breathing
+- serious allergic reaction causing swelling of the face, tongue or throat which may cause difficulty in swallowing or breathing ( angioedema )
 - inflammation of the pancreas (pancreatitis)
-- breakdown of muscle tissue
-- inflammation ( hepatitis ).
+- breakdown of muscle tissue ( rhabdomyolysis )
+- inflammation of the liver ( hepatitis ).
 
 A rare side effect that may show up in blood tests is:
 
@@ -2952,8 +2937,8 @@ A rare side effect that may show up in blood tests is:
 
 These may affect up to 1 in 10,000 people:
 
-- Lactic acidosis (excess lactic acid in the blood)
-- tingling or numbness of the arms, legs, hands or feet.
+- excess lactic acid in the blood ( lactic acidosis )
+- tingling or numbness of the arms, legs, hands or feet ( peripheral neuropathy [or paraesthesia] ).
 
 A very rare side effect that may show up in blood tests is:
 
@@ -2963,17 +2948,15 @@ A very rare side effect that may show up in blood tests is:
 
 Tell your doctor or pharmacist if any of the side effects gets severe or troublesome, or if you notice any side effects not listed in this leaflet.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other possible side effects of combination therapy for HIV
 
 Combination therapy including Epivir may cause other conditions to develop during HIV treatment.
 
 ## Old infections may flare up
 
-People with advanced HIV infection (AIDS) have weak immune systems, and are more likely to develop serious infections (opportunistic infections). When these people start treatment, they may find that old, hidden infections flare up, causing signs and symptoms of inflammation. These symptoms are
-
-<div style=\"page-break-after: always\"></div>
-
-probably caused by the body's immune system becoming stronger, so that the body starts to fight these infections.
+People with advanced HIV infection (AIDS) have weak immune systems, and are more likely to develop serious infections (opportunistic infections). When these people start treatment, they may find that old, hidden infections flare up, causing signs and symptoms of inflammation. These symptoms are probably caused by the body's immune system becoming stronger, so that the body starts to fight these infections.
 
 In addition to the opportunistic infections, autoimmune disorders (a condition that occurs when the immune system attacks healthy body tissue) may also occur after you start taking medicines for the treatment of your HIV infection. Autoimmune disorders may occur many months after the start of treatment. If you notice any symptoms of infection or other symptoms such as muscle weakness, weakness beginning in the hands and feet and moving up towards the trunk of the body, palpitations, tremor or hyperactivity, please inform your doctor immediately to seek necessary treatment.
 
@@ -3009,11 +2992,11 @@ Tell your doctor .
 
 Keep this medicine out of the sight and reach of children.
 
-Do not use this medicine after the expiry date which is stated on the carton.
-
-Do not store Epivir above 30 o C.
+Do not use this medicine after the expiry date which is stated on the carton. Do not store Epivir above 30 o C.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away the medicines you no longer use. These measures will help to protect the environment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6 Contents of the pack and other information
 
@@ -3023,19 +3006,17 @@ The active substance is lamivudine.
 
 The tablets also contain the following other ingredients:
 
-Tablet core : microcrystalline cellulose, sodium starch glycollate (gluten free), magnesium stearate Film-coat : hypromellose, titanium dioxide, black iron oxide (E172), macrogol, polysorbate 80
-
-<div style=\"page-break-after: always\"></div>
+Tablet core : microcrystalline cellulose (E 460), sodium starch glycollate, magnesium stearate Film-coat : hypromellose (E 464), titanium dioxide (E 171), black iron oxide (E 172), macrogol, polysorbate 80
 
 ## What Epivir looks like and the contents of the pack
 
-Epivir 300 mg film-coated tablets are supplied in white polyethylene bottles or blister packs containing 30 tablets. They are grey, diamond shaped film-coated tablets, marked with the code 'GXEJ7' on one side.
+Epivir 300 mg film-coated tablets are supplied in white polyethylene bottles or blister packs containing 30 tablets. They are grey, diamond shaped film-coated tablets, marked with the code \"GX EJ7 ' on one side.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-| Manufacturer                                                            | Marketing Authorisation Holder                                                 |
-|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| Delpharm Poznań Spółka Akcyjna ul. Grunwaldzka 189 60-322 Poznan Poland | ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands |
+| Marketing Authorisation Holder                                                 | Manufacturer                                                            |
+|--------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands | Delpharm Poznań Spółka Akcyjna ul. Grunwaldzka 189 60-322 Poznan Poland |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3067,11 +3048,11 @@ GlaxoSmithKline s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
 
 ## Magyarország
 
-ViiV Healthcare BV Tel.: + 36 80088309
+ViiV Healthcare BV Tel.: +36 80088309
 
 ## Danmark
 
-GlaxoSmithKline Pharma A/S Tlf: + 45 36 35 91 00 dk-info@gsk.com
+GlaxoSmithKline Pharma A/S Tlf.: + 45 36 35 91 00 dk-info@gsk.com
 
 ## Malta
 
@@ -3107,11 +3088,13 @@ Laboratorios ViiV Healthcare, S.L. Tel: + 34 900 923 501 es-ci@viivhealthcare.co
 
 ## Polska
 
-GSK Services Sp. z o.o. Tel.: + 48 (0)22 576 9000
+GSK Services Sp. z o.o.
+
+Tel.: + 48 (0)22 576 9000
 
 ## France
 
-ViiV Healthcare SAS Tél.: + 33 (0)1 39 17 6969 Infomed@viivhealthcare.com
+ViiV Healthcare SAS Tél.: + 33 (0)1 39 17 69 69 Infomed@viivhealthcare.com
 
 ## Portugal
 
@@ -3119,9 +3102,7 @@ VIIVHIV HEALTHCARE, UNIPESSOAL, LDA Tel: + 351 21 094 08 01 viiv.fi.pt@viivhealt
 
 ## Hrvatska
 
-ViiV Healthcare BV
-
-Tel: +385 800787089
+ViiV Healthcare BV Tel: +385 800787089
 
 ## România
 
@@ -3135,33 +3116,21 @@ GlaxoSmithKline (Ireland) Limited Tel: + 353 (0)1 4955000
 
 ## Slovenija
 
-ViiV Healthcare BV
+ViiV Healthcare BV Tel: + 386 80688869
 
-Tel: + 386 80688869
+<div style=\"page-break-after: always\"></div>
 
 ## Ísland
 
-Vistor hf.
-
-## Slovenská republika
-
-ViiV Healthcare BV
+Vistor ehf.
 
 Sími: +354 535 7000
-
-Tel: + 421 800500589
 
 ## Italia
 
 ViiV Healthcare S.r.l
 
 Tel: + 39 (0)45 7741600
-
-## Suomi/Finland
-
-GlaxoSmithKline Oy
-
-Puh/Tel: + 358 (0)10 30 30 30
 
 ## Κύπρος
 
@@ -3171,30 +3140,28 @@ ViiV Healthcare BV
 
 : + 357 80070017
 
-## Sverige
-
-GlaxoSmithKline AB
-
-Tel: + 46 (0)8 638 93 00
-
-info.produkt@gsk.com
-
 ## Latvija
 
 ViiV Healthcare BV
 
 Tel: + 371 80205045
 
-## United Kingdom (Northern Ireland)
+## This leaflet was last revised in {MM/YYYY}
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Slovenská republika
 
 ViiV Healthcare BV
 
-Tel: + 44 (0)800 221441
+Tel: + 421 800500589
 
-customercontactuk@gsk.com
+## Suomi/Finland
 
-<div style=\"page-break-after: always\"></div>
+GlaxoSmithKline Oy
 
-## This leaflet was last revised in {MM/YYYY}
+Puh/Tel: + 358 (0)10 30 30 30
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+## Sverige
+
+GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com

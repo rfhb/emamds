@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/andembry.html
 document_name: andembry.html
 version: success
-processing_time: 0.3263765
-conversion_datetime: 2026-08-22 22:57:17.993079
+processing_time: 0.1419342
+conversion_datetime: 2026-08-22 23:31:34.736059
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

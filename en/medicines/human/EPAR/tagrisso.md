@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tagrisso.html
 document_name: tagrisso.html
 version: success
-processing_time: 0.1696401
-conversion_datetime: 2026-08-22 22:45:11.897897
+processing_time: 0.1747124
+conversion_datetime: 2026-08-22 23:19:27.770678
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

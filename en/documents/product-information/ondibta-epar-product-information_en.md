@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-01 16:24:39
+document_datetime: 2026-08-21 15:49:37
 document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ondibta-epar-product-information_en.pdf
 document_name: ondibta-epar-product-information_en.pdf
 version: success
-processing_time: 16.7330273
-conversion_datetime: 2026-07-04 14:51:46.13061
+processing_time: 10.5828478
+conversion_datetime: 2026-08-23 00:40:24.798867
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -254,7 +254,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 | MedDRA system organ classes                     | Very common   | Common          | Uncommon    | Rare                          | Very rare   | Not known             |
 |-------------------------------------------------|---------------|-----------------|-------------|-------------------------------|-------------|-----------------------|
-| Immunesystem disorders                          |               |                 |             | Allergic reactions            |             |                       |
+| Immune system disorders                         |               |                 |             | Allergic reactions            |             |                       |
 | Metabolism and nutrition disorders              | Hypoglycaemia |                 |             |                               |             |                       |
 | Nervous system disorders                        |               |                 |             |                               | Dysgeusia   |                       |
 | Eye disorders                                   |               |                 |             | Visual impairment Retinopathy |             |                       |
@@ -472,15 +472,17 @@ Ondibta must not be mixed with any other insulin or diluted. Mixing or diluting 
 
 Insulin label must always be checked before each injection to avoid medication errors between insulin glargine and other insulins (see section 4.4).
 
-Ondibta 100 units/ml in pre-filled pen is only suitable for subcutaneous injections. Before first use, the pre-filled pen must be stored at room temperature for 1 to 2 hours. Empty pre-filled pens must never be reused and must be properly discarded.
+Ondibta 100 units/ml in pre-filled pen is only suitable for subcutaneous injections. pre-filled pens must never be reused and must be properly discarded.
 
-To prevent the possible transmission of disease, each pen must be used by one patient only. Before using the pre-filled pen, the instructions for use included in the package leaflet must be read carefully.
+To prevent the possible transmission of disease, each pen must be used by one patient only. carefully.
+
+Before first use, the pre-filled pen must be stored at room temperature for 1 to 2 hours. Empty Before using the pre-filled pen, the instructions for use included in the package leaflet must be read
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
 <div style=\"page-break-after: always\"></div>
 
-Gan &amp; Lee Pharmaceuticals Europe GmbH, Prinzenallee 11a, 40549 Düsseldorf, Germany
+Sandoz GmbH Biochemiestrasse 10 6250 Kundl Austria
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -618,7 +620,13 @@ Do not refrigerate. Keep the pen protected from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Gan &amp; Lee Pharmaceuticals Europe GmbH 40549 Düsseldorf Germany
+Sandoz GmbH
+
+Biochemiestrasse 10
+
+6250 Kundl
+
+Austria
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -714,7 +722,13 @@ Do not refrigerate. Keep the pen protected from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Gan &amp; Lee Pharmaceuticals Europe GmbH 40549 Düsseldorf Germany
+Sandoz GmbH
+
+Biochemiestrasse 10
+
+6250 Kundl
+
+Austria
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -734,7 +748,7 @@ Ondibta
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2D barcode carrying the unique identifier included.
+- 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
@@ -812,7 +826,13 @@ Do not refrigerate. Keep the pen protected from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Gan &amp; Lee Pharmaceuticals Europe GmbH 40549 Düsseldorf Germany
+Sandoz GmbH
+
+Biochemiestrasse 10
+
+6250 Kundl
+
+Austria
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -824,7 +844,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -836,17 +856,17 @@ Ondibta
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PEN LABEL                                                        |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PEN LABEL                                                          |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT ANDROUTEOFADMINISTRATION   |
-|------|-------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Ondibta 100 units/ml solution for injection insulin glargine Subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -858,8 +878,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 3 ml
 
@@ -1194,19 +1214,175 @@ Pack sizes of 1, 5 or a multipack containing 10 (2 packs of 5) pre-filled pens.
 
 Not all pack sizes may be marketed.
 
-## Marketing Authorisation Holder
+## Marketing Authorisation Holder and Manufacturer
 
-Gan &amp; Lee Pharmaceuticals Europe GmbH, Prinzenallee 11a, 40549 Düsseldorf, Germany.
+Sandoz GmbH Biochemiestrasse 10 6250 Kundl Austria
 
-Manufacturer Sandoz GmbH Biochemiestrasse 10 6250 Kundl Austria
-
-## This leaflet was last revised in
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 <div style=\"page-break-after: always\"></div>
 
+## België/Belgique/Belgien
+
+Sandoz nv/sa
+
+Tél/Tel: +32 2 722 97 97
+
+## България
+
+Сандоз България КЧТ
+
+Тел.: +359 2 970 47 47
+
+## Česká republika
+
+Sandoz s.r.o.
+
+Tel: +420 234 142 222
+
+## Danmark/Norge/Ísland/Sverige
+
+Sandoz A/S
+
+Tlf./Tlf/Sími/Tel: +45 63 95 10 00
+
+## Deutschland
+
+Hexal AG
+
+Tel: +49 8024 908 0
+
+## Eesti
+
+Sandoz d.d. Eesti filiaal
+
+Tel: +372 665 2400
+
+## Ελλάδα
+
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε .
+
+Τηλ: +30 216 600 5000
+
+## España
+
+Sandoz Farmacéutica, S.A.
+
+Tel: +34 900 456 856
+
+## France
+
+Sandoz SAS
+
+Tél: +33 1 49 64 48 00
+
+## Hrvatska
+
+Sandoz d.o.o.
+
+Tel: +385 1 23 53 111
+
+## Ireland
+
+Rowex Ltd.
+
+Tel: 1800 83 20 83
+
+## Italia
+
+Sandoz S.p.A.
+
+Tel: +39 02 81280696
+
+## Κύπρος
+
+SANDOZ HELLAS ΜΟΝΟΠΡΟΣΩΠΗ Α . Ε . ( Ελλάδα ) Τηλ: +30 216 600 5000
+
+## This leaflet was last revised in
+
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/
+Detailed information on this medicine is available on the European Medicines Agency web site:
+
+## Latvija
+
+Sandoz d.d . Latvia filiāle
+
+Tel: +371 67 892 006
+
+## Lietuva
+
+Sandoz Pharmaceuticals d.d filialas
+
+Tel: +370 5 2636 037
+
+## Luxembourg/Luxemburg
+
+Sandoz nv/sa (Belgique/Belgien)
+
+Tél/Tel.: +32 2 722 97 97
+
+## Magyarország
+
+Sandoz Hungária Kft. Tel.: +36 1 430 2890
+
+## Malta
+
+Sandoz Pharmaceuticals d.d.
+
+Tel: +35699644126
+
+## Nederland
+
+Sandoz B.V.
+
+Tel: +31 36 52 41 600
+
+## Österreich
+
+Sandoz GmbH
+
+Tel: +43 5338 2000
+
+## Polska
+
+Sandoz Polska Sp. z o.o.
+
+Tel.: +48 22 209 70 00
+
+## Portugal
+
+Sandoz Farmacêutica Lda.
+
+Tel: +351 21 000 86 00
+
+## România
+
+Sandoz Pharmaceuticals SRL
+
+Tel: +40 21 407 51 60
+
+## Slovenija
+
+Sandoz farmacevtska družba d.d . Tel: +386 1 580 21 11
+
+## Slovenská republika
+
+Sandoz d.d. -
+
+organizačná zložka
+
+Tel: +421 2 48 200 600
+
+## Suomi/Finland
+
+Sandoz A/S
+
+Puh/Tel: +358 10 6133 400
+
+<div style=\"page-break-after: always\"></div>
+
+[https://www.ema.europa.eu/](https://www.ema.europa.eu/)
 
 <div style=\"page-break-after: always\"></div>
 

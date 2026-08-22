@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ryeqo.html
 document_name: ryeqo.html
 version: success
-processing_time: 0.1521708
-conversion_datetime: 2026-08-22 22:46:35.472456
+processing_time: 0.1552455
+conversion_datetime: 2026-08-22 23:20:54.409473
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

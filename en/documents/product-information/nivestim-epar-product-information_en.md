@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-03-02 16:39:05
+document_datetime: 2026-08-19 15:50:47
 document_pages: 51
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/nivestim-epar-product-information_en.pdf
 document_name: nivestim-epar-product-information_en.pdf
 version: success
-processing_time: 12.6414508
-conversion_datetime: 2026-03-05 11:39:06.037623
+processing_time: 11.3831381
+conversion_datetime: 2026-08-23 00:39:57.307612
 docling_version:
-  docling-serve: 1.14.1
-  docling-jobkit: 1.13.0
-  docling: 2.76.0
-  docling-core: 2.66.0
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.4.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -46,7 +46,7 @@ Each ml of solution for injection or infusion contains 96 million units [MU] (96
 
 Each pre-filled syringe contains 48 million units (MU) (480 micrograms [mcg]) of filgrastim in 0.5 ml (0.96 mg/ml).
 
-*recombinant methionyl granulocyte colony-stimulating factor [ G-CSF ] produced in Escherichia coli (BL21) by recombinant DNA technology.
+*recombinant methionyl granulocyte colony-stimulating factor  G-CSF  produced in Escherichia coli (BL21) by recombinant DNA technology.
 
 ## Excipient with known effect
 
@@ -72,7 +72,7 @@ The safety and efficacy of filgrastim are similar in adults and children receivi
 
 Filgrastim is indicated for the mobilisation of peripheral blood progenitor cells (PBPCs).
 
-In patients, children or adults, with severe congenital, cyclic, or idiopathic neutropenia with an absolute neutrophil count (ANC) of ≤ 0.5 × 10 9 /L, and a history of severe or recurrent infections, long term administration of filgrastim is indicated to increase neutrophil counts and to reduce the incidence and duration of infection-related events.
+In patients, children or adults, with severe congenital, cyclic, or idiopathic neutropenia with an absolute neutrophil count (ANC) of ≤ 0.5 × 10 9 /L, and a history of severe or recurrent infections, long-term administration of filgrastim is indicated to increase neutrophil counts and to reduce the incidence and duration of infection-related events.
 
 Filgrastim is indicated for the treatment of persistent neutropenia (ANC less than or equal to 1.0 × 10 9 /L) in patients with advanced HIV infection, in order to reduce the risk of bacterial infections when other options to manage neutropenia are inappropriate.
 
@@ -92,7 +92,7 @@ In patients receiving cytotoxic chemotherapy, a transient increase in neutrophil
 
 ## Method of administration
 
-Filgrastim may be given as a daily subcutaneous injection or as a daily intravenous infusion diluted in 5% glucose solution given over 30 minutes (see section 6.6) . The subcutaneous route is preferred in most cases. There is some evidence from a study of single dose administration that intravenous dosing may shorten the duration of effect. The clinical relevance of this finding to multiple dose administration is not clear. The choice of route should depend on the individual clinical circumstance.
+Filgrastim may be given as a daily subcutaneous injection or as a daily intravenous infusion diluted in 5% glucose solution given over 30 minutes (see section 6.6) . The subcutaneous route is preferred in most cases. There is some evidence from a study of single-dose administration that intravenous dosing may shorten the duration of effect. The clinical relevance of this finding to multiple dose administration is not clear. The choice of route should depend on the individual clinical circumstance.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -106,7 +106,7 @@ Once the neutrophil nadir has been passed, the daily dose of filgrastim should b
 
 | Neutrophil count                                                                                                                               | Filgrastim dose adjustment                                                                                                                     |
 |------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| > 1.0 × 10 9 /L for 3 consecutive days                                                                                                         | Reduce to 0.5 MU(5 mcg)/kg/day                                                                                                                 |
+| > 1.0 × 10 9 /L for 3 consecutive days                                                                                                         | Reduce to 0.5 MU (5 mcg)/kg/day                                                                                                                |
 | Then, if ANC remains > 1.0 × 10 9 /L for 3 more consecutive days                                                                               | Discontinue filgrastim                                                                                                                         |
 | If the ANC decreases to < 1.0 × 10 9 /L during the treatment period the dose of filgrastim should be re-escalated according to the above steps | If the ANC decreases to < 1.0 × 10 9 /L during the treatment period the dose of filgrastim should be re-escalated according to the above steps |
 
@@ -114,7 +114,7 @@ ANC = absolute neutrophil count
 
 ## Method of administration
 
-Filgrastim may be given as a 30 minute or 24 hour intravenous infusion or given by continuous 24 hour subcutaneous infusion. Filgrastim should be diluted in 20 ml of 5% glucose solution (see section 6.6).
+Filgrastim may be given as a 30-minute or 24-hour intravenous infusion or given by continuous 24 hour subcutaneous infusion. Filgrastim should be diluted in 20 ml of 5% glucose solution (see section 6.6).
 
 For the mobilisation of PBPCs in patients undergoing myelosuppressive or myeloablative therapy followed by autologous PBPC transplantation
 
@@ -154,7 +154,7 @@ Congenital neutropenia: The recommended starting dose is 1.2 MU (12 mcg)/kg/day 
 
 Idiopathic or cyclic neutropenia: The recommended starting dose is 0.5 MU (5 mcg)/kg/day as a single dose or in divided doses.
 
-Dose adjustment: Filgrastim should be administered daily by subcutaneous injection until the neutrophil count has reached and can be maintained at more than 1.5 × 10 9 /L. When the response has been obtained the minimal effective dose to maintain this level should be established. Long term daily administration is required to maintain an adequate neutrophil count. After one to two weeks of therapy, the initial dose may be doubled or halved depending upon the patient's response. Subsequently the dose may be individually adjusted every 1 to 2 weeks to maintain the average neutrophil count between 1.5 × 10 9 /L and 10 × 10 9 /L. A faster schedule of dose escalation may be considered in patients presenting with severe infections. In clinical trials, 97% of patients who responded had a complete response at doses ≤ 24 mcg/kg/day. The long-term safety of filgrastim administration above 24 mcg/kg/day in patients with SCN has not been established.
+Dose adjustment: Filgrastim should be administered daily by subcutaneous injection until the neutrophil count has reached and can be maintained at more than 1.5 × 10 9 /L. When the response has been obtained the minimal effective dose to maintain this level should be established. Long-term daily administration is required to maintain an adequate neutrophil count. After 1 to 2 weeks of therapy, the initial dose may be doubled or halved depending upon the patient's response. Subsequently the dose may be individually adjusted every 1 to 2 weeks to maintain the average neutrophil count between 1.5 × 10 9 /L and 10 × 10 9 /L. A faster schedule of dose escalation may be considered in patients presenting with severe infections. In clinical trials, 97% of patients who responded had a complete response at doses ≤ 24 mcg/kg/day. The long-term safety of filgrastim administration above 24 mcg/kg/day in patients with SCN has not been established.
 
 ## Method of administration
 
@@ -176,7 +176,7 @@ When reversal of neutropenia has been achieved, the minimal effective dose to ma
 
 <div style=\"page-break-after: always\"></div>
 
-30 MU (300 mcg)/day on 1 to 7 days per week was required to maintain the ANC &gt; 2.0 × 10 9 /L, with the median dose frequency being 3 days per week. Long term administration may be required to maintain the ANC &gt; 2.0 × 10 9 /L.
+30 MU (300 mcg)/day on 1 to 7 days per week was required to maintain the ANC &gt; 2.0 × 10 9 /L, with the median dose frequency being 3 days per week. Long-term administration may be required to maintain the ANC &gt; 2.0 × 10 9 /L.
 
 ## Method of administration
 
@@ -184,9 +184,7 @@ Reversal of neutropenia or maintaining normal neutrophil counts: filgrastim shou
 
 ## Elderly
 
-Clinical trials with filgrastim have included a small number of elderly patients but special studies have not been performed in this group and therefore specific dosage recommendations cannot be made.
-
-## Renal or hepatic impairment
+Clinical trials with filgrastim have included a small number of elderly patients but special studies have not been performed in this group and therefore specific dosage recommendations cannot be made. Renal or hepatic impairment
 
 Studies of filgrastim in patients with severe impairment of renal or hepatic function demonstrate that it exhibits a similar pharmacokinetic and pharmacodynamic profile to that seen in normal individuals. Dose adjustment is not required in these circumstances.
 
@@ -216,11 +214,9 @@ Hypersensitivity, including anaphylactic reactions, occurring on initial or subs
 
 ## Pulmonary adverse effects
 
-Pulmonary adverse effects, in particular interstitial lung disease, have been reported after G-CSF administration. Patients with a recent history of lung infiltrates or pneumonia may be at higher risk. The onset of pulmonary signs, such as cough, fever and dyspnoea in association with radiological
+Pulmonary adverse effects, in particular interstitial lung disease, have been reported after G-CSF administration. Patients with a recent history of lung infiltrates or pneumonia may be at higher risk. The onset of pulmonary signs, such as cough, fever and dyspnoea in association with radiological signs of pulmonary infiltrates and deterioration in pulmonary function may be preliminary signs of acute respiratory distress syndrome (ARDS). Filgrastim should be discontinued and appropriate treatment given.
 
 <div style=\"page-break-after: always\"></div>
-
-signs of pulmonary infiltrates and deterioration in pulmonary function may be preliminary signs of acute respiratory distress syndrome (ARDS). Filgrastim should be discontinued and appropriate treatment given.
 
 ## Glomerulonephritis
 
@@ -228,7 +224,7 @@ Glomerulonephritis has been reported in patients receiving filgrastim and pegfil
 
 ## Capillary leak syndrome
 
-Capillary leak syndrome, which can be life-threatening if treatment is delayed, has been reported after granulocyte-colony stimulating factor administration, and is characterised by hypotension, hypoalbuminaemia, oedema and haemoconcentration. Patients who develop symptoms of capillary leak syndrome should be closely monitored and receive standard symptomatic treatment, which may include a need for intensive care (see section 4.8).
+Capillary leak syndrome, which can be life-threatening if treatment is delayed, has been reported after granulocyte colony-stimulating factor administration, and is characterised by hypotension, hypoalbuminaemia, oedema and haemoconcentration. Patients who develop symptoms of capillary leak syndrome should be closely monitored and receive standard symptomatic treatment, which may include a need for intensive care (see section 4.8).
 
 ## Splenomegaly and splenic rupture
 
@@ -252,11 +248,9 @@ Thrombocytopenia has been reported in patients receiving filgrastim. Platelet co
 
 ## Leucocytosis
 
-White blood cell counts of 100 × 10 9 /L or greater have been observed in less than 5% of cancer
+White blood cell counts of 100 × 10 9 /L or greater have been observed in less than 5% of cancer patients receiving filgrastim at doses above 0.3 MU/kg/day (3 mcg/kg/day). No undesirable effects directly attributable to this degree of leucocytosis have been reported. However, in view of the potential risks associated with severe leucocytosis, a white blood cell count should be performed at regular intervals during filgrastim therapy. If leucocyte counts exceed 50 × 10 9 /L after the expected nadir, filgrastim should be discontinued immediately. When administered for PBPC mobilisation, filgrastim should be discontinued or its dosage should be reduced if the leucocyte counts rise to &gt; 70 × 10 9 /L.
 
 <div style=\"page-break-after: always\"></div>
-
-patients receiving filgrastim at doses above 0.3 MU/kg/day (3 mcg/kg/day). No undesirable effects directly attributable to this degree of leucocytosis have been reported. However, in view of the potential risks associated with severe leucocytosis, a white blood cell count should be performed at regular intervals during filgrastim therapy. If leucocyte counts exceed 50 × 10 9 /L after the expected nadir, filgrastim should be discontinued immediately. When administered for PBPC mobilisation, filgrastim should be discontinued or its dosage should be reduced if the leucocyte counts rise to &gt; 70 × 10 9 /L.
 
 ## Immunogenicity
 
@@ -282,7 +276,7 @@ Filgrastim should not be used to increase the dose of cytotoxic chemotherapy bey
 
 ## Risks associated with increased doses of chemotherapy
 
-Special caution should be used when treating patients with high dose chemotherapy, because improved tumour outcome has not been demonstrated and intensified doses of chemotherapeutic agents may lead to increased toxicities including cardiac, pulmonary, neurologic, and dermatologic effects (please refer to the prescribing information of the specific chemotherapy agents used).
+Special caution should be used when treating patients with high-dose chemotherapy, because improved tumour outcome has not been demonstrated and intensified doses of chemotherapeutic agents may lead to increased toxicities including cardiac, pulmonary, neurologic, and dermatologic effects (please refer to the prescribing information of the specific chemotherapy agents used).
 
 ## Effect of chemotherapy on erythrocytes and thrombocytes
 
@@ -300,7 +294,7 @@ In the post-marketing observational study setting, myelodysplastic syndrome (MDS
 
 The effects of filgrastim in patients with substantially reduced myeloid progenitors have not been studied. Filgrastim acts primarily on neutrophil precursors to exert its effect in elevating neutrophil counts. Therefore, in patients with reduced precursors neutrophil response may be diminished (such as those treated with extensive radiotherapy or chemotherapy, or those with bone marrow infiltration by tumour).
 
-Vascular disorders, including veno-occlusive disease and fluid volume disturbances, have been reported occasionally in patients undergoing high dose chemotherapy followed by transplantation.
+Vascular disorders, including veno-occlusive disease and fluid volume disturbances, have been reported occasionally in patients undergoing high-dose chemotherapy followed by transplantation.
 
 There have been reports of graft versus host disease (GvHD) and fatalities in patients receiving G-CSF after allogeneic bone marrow transplantation (see sections 4.8 and 5.1).
 
@@ -396,7 +390,7 @@ Babies and young children (below 2 years of age) may not yet be diagnosed with h
 
 A detailed history with regard to HFI symptoms has to be taken of each patient prior to being given this medicinal product.
 
-This medicine contains less than 1 mmol sodium (23 mg) per 0.6 mg/ml or 0.96 mg/ml dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per 0.6 mg/ml or 0.96 mg/ml dose, that is to say essentially ' sodium-free ' .
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -440,9 +434,9 @@ The most commonly reported adverse reactions are pyrexia, musculoskeletal pain (
 
 The data in the table below describe adverse reactions reported from clinical trials and spontaneous reporting. Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-| MedDRA system organ                  | Adverse reactions          | Adverse reactions                                                           | Adverse reactions                                                    | Adverse reactions                                                               |
+| MedDRA system organ class            | Adverse reactions          | Adverse reactions                                                           | Adverse reactions                                                    | Adverse reactions                                                               |
 |--------------------------------------|----------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| class                                | Very common (≥ 1/10)       | Common (≥ 1/100 to < 1/10)                                                  | Uncommon (≥ 1/1,000 to < 1/100)                                      | Rare (≥ 1/10,000 to < 1/1,000)                                                  |
+| MedDRA system organ class            | Very common (≥ 1/10)       | Common (≥ 1/100 to < 1/10)                                                  | Uncommon (≥ 1/1 000 to < 1/100)                                      | Rare (≥ 1/10 000 to < 1/1 000)                                                  |
 | Infections and infestations          |                            | Sepsis Bronchitis Upper respiratory tract infection Urinary tract infection |                                                                      |                                                                                 |
 | Blood and lymphatic system disorders | Thrombocytopenia Anaemia e | Splenomegaly a Haemoglobin decreased e                                      | Leucocytosis a                                                       | Splenic rupture a Sickle cell anaemia with crisis Extramedullary haematopoiesis |
 | Immune system disorders              |                            |                                                                             | Hypersensitivity Drug hypersensitivity a Graft versus host disease b | Anaphylactic reaction                                                           |
@@ -451,7 +445,7 @@ The data in the table below describe adverse reactions reported from clinical tr
 
 | MedDRA system organ class                       | Adverse reactions                   | Adverse reactions                                             | Adverse reactions                                                                                                                                            | Adverse reactions                                                                                |
 |-------------------------------------------------|-------------------------------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| MedDRA system organ class                       | Very common (≥ 1/10)                | Common (≥ 1/100 to < 1/10)                                    | Uncommon (≥ 1/1,000 to < 1/100)                                                                                                                              | Rare (≥ 1/10,000 to < 1/1,000)                                                                   |
+| MedDRA system organ class                       | Very common (≥ 1/10)                | Common (≥ 1/100 to < 1/10)                                    | Uncommon (≥ 1/1 000 to < 1/100)                                                                                                                              | Rare (≥ 1/10 000 to < 1/1 000)                                                                   |
 | Metabolism and nutrition disorders              |                                     | Decreased appetite e Blood lactate dehydrogenase increased    | Hyperuricaemia Blood uric acid increased                                                                                                                     | Blood glucose decreased Pseudogout a (Chondrocalcinosis Pyrophosphate) Fluid volume disturbances |
 | Psychiatric disorders                           |                                     | Insomnia                                                      |                                                                                                                                                              |                                                                                                  |
 | Nervous system disorders                        | Headache a                          | Dizziness Hypoaesthesia Paraesthesia                          |                                                                                                                                                              |                                                                                                  |
@@ -464,18 +458,18 @@ The data in the table below describe adverse reactions reported from clinical tr
 
 | MedDRA system organ class                            | Adverse reactions                        | Adverse reactions                                            | Adverse reactions               | Adverse reactions                                                              |
 |------------------------------------------------------|------------------------------------------|--------------------------------------------------------------|---------------------------------|--------------------------------------------------------------------------------|
-| MedDRA system organ class                            | Very common (≥ 1/10)                     | Common (≥ 1/100 to < 1/10)                                   | Uncommon (≥ 1/1,000 to < 1/100) | Rare (≥ 1/10,000 to < 1/1,000)                                                 |
+| MedDRA system organ class                            | Very common (≥ 1/10)                     | Common (≥ 1/100 to < 1/10)                                   | Uncommon (≥ 1/1 000 to < 1/100) | Rare (≥ 1/10 000 to < 1/1 000)                                                 |
 | Skin and subcutaneous tissue disorders               | Alopecia a                               | Rash a Erythema                                              | Rash maculo- papular            | Cutaneous vasculitis a Sweets syndrome (acute febrile neutrophilic dermatosis) |
 | Musculoskeletal and connective tissue disorders      | Musculoskeletal pain c                   | Muscle spasms                                                | Osteoporosis                    | Bone density decreased Exacerbation of rheumatoid arthritis                    |
 | Renal and urinary disorders                          |                                          | Dysuria Haematuria                                           | Proteinuria                     | Glomerulonephritis Urine abnormality                                           |
 | General disorders and administration site conditions | Fatigue a Mucosal inflammation a Pyrexia | Chest pain a Pain a Asthenia a Malaise e Oedema peripheral e | Injection site reaction         |                                                                                |
 | Injury, poisoning and procedural complications       |                                          | Transfusion reaction e                                       |                                 |                                                                                |
 
-- a See section c (Description of selected adverse reactions).
-- b There have been reports of GvHD and fatalities in patients after allogeneic bone marrow transplantation (see section c).
-- c Includes bone pain, back pain, arthralgia, myalgia, pain in extremity, musculoskeletal pain, musculoskeletal chest pain, neck pain.
-- d Cases were observed in the post-marketing setting in patients undergoing bone marrow transplant or PBPC mobilisation.
-- e Adverse events with higher incidence in filgrastim patients compared to placebo and associated with the sequelae of the underlying malignancy or cytotoxic chemotherapy.
+- a. See section c (Description of selected adverse reactions).
+- b. There have been reports of GvHD and fatalities in patients after allogeneic bone marrow transplantation (see section c).
+- c. Includes bone pain, back pain, arthralgia, myalgia, pain in extremity, musculoskeletal pain, musculoskeletal chest pain, neck pain.
+- d. Cases were observed in the post-marketing setting in patients undergoing bone marrow transplant or PBPC mobilisation.
+- e. Adverse events with higher incidence in filgrastim patients compared to placebo and associated with the sequelae of the underlying malignancy or cytotoxic chemotherapy.
 - c. Description of selected adverse reactions
 
 ## Hypersensitivity
@@ -494,7 +488,7 @@ Cases of splenomegaly and splenic rupture have been reported following administr
 
 ## Capillary leak syndrome
 
-Cases of capillary leak syndrome have been reported with granulocyte-colony stimulating factor use. These have generally occurred in patients with advanced malignant diseases, sepsis, taking multiple chemotherapy medications or undergoing apheresis (see section 4.4).
+Cases of capillary leak syndrome have been reported with granulocyte colony-stimulating factor use. These have generally occurred in patients with advanced malignant diseases, sepsis, taking multiple chemotherapy medications or undergoing apheresis (see section 4.4).
 
 ## Cutaneous vasculitis
 
@@ -518,7 +512,7 @@ There have been reports of GvHD and fatalities in patients receiving G-CSF after
 
 ## d. Paediatric population
 
-Data from clinical studies in paediatric patients indicate that the safety and efficacy of filgrastim are similar in both adults and children receiving cytotoxic chemotherapy suggesting no age-related differences in the pharmacokinetics of filgrastim. The only consistently reported adverse event was musculoskeletal pain, which is no different from the experience in the adult population.
+Data from clinical studies in paediatric patients indicate that the safety and efficacy of filgrastim are similar in both adults and children receiving cytotoxic chemotherapy suggesting no age-related differences in the pharmacokinetics of filgrastim. The only consistently reported adverse event was musculoskeletal pain, which is no different from the exp erience in the adult population.
 
 There is insufficient data to further evaluate filgrastim use in paediatric subjects.
 
@@ -552,32 +546,30 @@ Pharmacotherapeutic group: Immunostimulants colony stimulating factors, ATC code
 
 Nivestim is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
-Human G-CSF is a glycoprotein which regulates the production and release of functional neutrophils from the bone marrow. Nivestim containing r-metHuG-CSF (filgrastim) causes marked increases in peripheral blood neutrophil counts within twenty four hours, with minor increases in monocytes. In some SCN patients filgrastim can also induce a minor increase in the number of circulating eosinophils and basophils relative to baseline; some of these patients may present with eosinophilia or basophilia already prior to treatment. Elevations of neutrophil counts are dose dependent at recommended doses. Neutrophils produced in response to filgrastim show normal or enhanced function as demonstrated by tests of chemotactic and phagocytic function. Following termination of filgrastim therapy, circulating neutrophil counts decrease by 50% within 1 to 2 days, and to normal levels within 1 to 7 days.
+Human G-CSF is a glycoprotein which regulates the production and release of functional neutrophils from the bone marrow. Nivestim containing r-metHuG-CSF (filgrastim) causes marked increases in peripheral blood neutrophil counts within 24 hours, with minor increases in monocytes. In some SCN patients filgrastim can also induce a minor increase in the number of circulating eosinophils and basophils relative to baseline; some of these patients may present with eosinophilia or basophilia already prior to treatment. Elevations of neutrophil counts are dose dependent at recommended doses. Neutrophils produced in response to filgrastim show normal or enhanced function as demonstrated by tests of chemotactic and phagocytic function. Following termination of filgrastim therapy, circulating neutrophil counts decrease by 50% within 1 to 2 days, and to normal levels within 1 to 7 days.
 
 Use of filgrastim in patients undergoing cytotoxic chemotherapy leads to significant reductions in the incidence, severity and duration of neutropenia and febrile neutropenia. Treatment with filgrastim significantly reduces the durations of febrile neutropenia, antibiotic use and hospitalisation after induction chemotherapy for acute myelogenous leukaemia or myeloablative therapy followed by bone marrow transplantation. The incidence of fever and documented infections were not reduced in either setting. The duration of fever was not reduced in patients undergoing myeloablative therapy followed by bone marrow transplantation.
 
-Use of filgrastim, either alone, or after chemotherapy, mobilises haematopoietic progenitor cells into the peripheral blood. These autologous PBPCs may be harvested and infused after high dose cytotoxic therapy, either in place of, or in addition to bone marrow transplantation. Infusion of PBPC accelerates haematopoietic recovery reducing the duration of risk for haemorrhagic complications and the need for platelet transfusions.
+Use of filgrastim, either alone, or after chemotherapy, mobilises haematopoietic progenitor cells into the peripheral blood. These autologous PBPCs may be harvested and infused after high-dose cytotoxic therapy, either in place of, or in addition to bone marrow transplantation. Infusion of PBPC accelerates haematopoietic recovery reducing the duration of risk for haemorrhagic complications and the need for platelet transfusions.
 
 Recipients of allogeneic PBPCs mobilised with filgrastim experienced significantly more rapid haematological recovery, leading to a significant decrease in time to unsupported platelet recovery when compared with allogeneic bone marrow transplantation.
 
 <div style=\"page-break-after: always\"></div>
 
-One retrospective European study evaluating the use of G-CSF after allogeneic bone marrow transplantation in patients with acute leukaemias suggested an increase in the risk of GvHD, treatment related mortality (TRM) and mortality when G-CSF was administered. In a separate retrospective International study in patients with acute and chronic myelogenous leukaemias, no effect on the risk of GvHD, TRM and mortality was seen. A meta-analysis of allogeneic transplant studies, including the results of nine prospective randomised trials, 8 retrospective studies and 1 case-controlled study, did not detect an effect on the risks of acute GvHD, chronic GvHD or early treatment-related mortality.
+One retrospective European study evaluating the use of G-CSF after allogeneic bone marrow transplantation in patients with acute leukaemias suggested an increase in the risk of GvHD, treatment-related mortality (TRM) and mortality when G-CSF was administered. In a separate retrospective International study in patients with acute and chronic myelogenous leukaemias, no effect on the risk of GvHD, TRM and mortality was seen. A meta-analysis of allogeneic transplant studies, including the results of 9 prospective randomised trials, 8 retrospective studies and 1 case-controlled study, did not detect an effect on the risks of acute GvHD, chronic GvHD or early treatment-related mortality.
 
-| Relative Risk (95% CI) of GvHD andTRM Following Treatment with G-CSF after Bone Marrow Transplantation   | Relative Risk (95% CI) of GvHD andTRM Following Treatment with G-CSF after Bone Marrow Transplantation   | Relative Risk (95% CI) of GvHD andTRM Following Treatment with G-CSF after Bone Marrow Transplantation   | Relative Risk (95% CI) of GvHD andTRM Following Treatment with G-CSF after Bone Marrow Transplantation   | Relative Risk (95% CI) of GvHD andTRM Following Treatment with G-CSF after Bone Marrow Transplantation   | Relative Risk (95% CI) of GvHD andTRM Following Treatment with G-CSF after Bone Marrow Transplantation   |
-|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Publication                                                                                              | Period of Study                                                                                          | N                                                                                                        | Acute Grade II - IV GvHD                                                                                 | Chronic GvHD                                                                                             | TRM                                                                                                      |
-| Meta-Analysis (2003)                                                                                     | 1986 - 2001 a                                                                                            | 1198                                                                                                     | 1.08 (0.87, 1.33)                                                                                        | 1.02 (0.82, 1.26)                                                                                        | 0.70 (0.38, 1.31)                                                                                        |
-| European Retrospective Study (2004)                                                                      | 1992 - 2002 b                                                                                            | 1789                                                                                                     | 1.33 (1.08, 1.64)                                                                                        | 1.29 (1.02, 1.61)                                                                                        | 1.73 (1.30, 2.32)                                                                                        |
-| International Retrospective Study (2006)                                                                 | 1995 - 2000 b                                                                                            | 2110                                                                                                     | 1.11 (0.86, 1.42)                                                                                        | 1.10 (0.86, 1.39)                                                                                        | 1.26 (0.95, 1.67)                                                                                        |
+| Relative Risk (95% CI) of GvHD and TRM Following Treatment with G-CSF after Bone Marrow (BM) Transplantation   | Relative Risk (95% CI) of GvHD and TRM Following Treatment with G-CSF after Bone Marrow (BM) Transplantation   | Relative Risk (95% CI) of GvHD and TRM Following Treatment with G-CSF after Bone Marrow (BM) Transplantation   | Relative Risk (95% CI) of GvHD and TRM Following Treatment with G-CSF after Bone Marrow (BM) Transplantation   | Relative Risk (95% CI) of GvHD and TRM Following Treatment with G-CSF after Bone Marrow (BM) Transplantation   | Relative Risk (95% CI) of GvHD and TRM Following Treatment with G-CSF after Bone Marrow (BM) Transplantation   |
+|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| Publication                                                                                                    | Period of Study                                                                                                | N                                                                                                              | Acute Grade II - IV GvHD                                                                                       | Chronic GvHD                                                                                                   | TRM                                                                                                            |
+| Meta-Analysis (2003)                                                                                           | 1986 - 2001 a                                                                                                  | 1198                                                                                                           | 1.08 (0.87, 1.33)                                                                                              | 1.02 (0.82, 1.26)                                                                                              | 0.70 (0.38, 1.31)                                                                                              |
+| European Retrospective Study (2004)                                                                            | 1992 - 2002 b                                                                                                  | 1789                                                                                                           | 1.33 (1.08, 1.64)                                                                                              | 1.29 (1.02, 1.61)                                                                                              | 1.73 (1.30, 2.32)                                                                                              |
+| International Retrospective Study (2006)                                                                       | 1995 - 2000 b                                                                                                  | 2110                                                                                                           | 1.11 (0.86, 1.42)                                                                                              | 1.10 (0.86, 1.39)                                                                                              | 1.26 (0.95, 1.67)                                                                                              |
 
-a
+a. Analysis includes studies involving BM transplant during this period; some studies used GM-CSF.
 
-Analysis includes studies involving BM transplant during this period; some studies used GM-CSF.
+b. Analysis includes patients receiving BM transplant during this period.
 
-b Analysis includes patients receiving BM transplant during this period.
-
-Use of filgrastim for the mobilisation of PBPCs in normal donors prior to allogeneic PBPC transplantation
+## Use of filgrastim for the mobilisation of PBPCs in normal donors prior to allogeneic PBPC transplantation
 
 In normal donors, a 10 mcg/kg/day dose administered subcutaneously for 4 to 5 consecutive days allows a collection of ≥ 4 × 10 6 CD34 +  cells/kg recipient body weight in the majority of the donors after two leukapheresis.
 
@@ -591,11 +583,9 @@ As with other haematopoietic growth factors, G-CSF has shown in vitro stimulatin
 
 A randomised, open-label, single-dose, comparator-controlled, two-way crossover study in 46 healthy volunteers showed that the pharmacokinetic profile of Nivestim was comparable to that of the reference product after subcutaneous and intravenous administration. Another randomised, double-blind, multiple-dose, comparator-controlled, two-way crossover study in 50 healthy volunteers showed that the pharmacokinetic profile of Nivestim was comparable to that of the reference product after subcutaneous administration.
 
-Clearance of filgrastim has been shown to follow first-order pharmacokinetics after both subcutaneous and intravenous administration. The serum elimination half-life of filgrastim is approximately 3.5 hours, with a clearance rate of approximately 0.6 ml/min/kg. Continuous infusion with filgrastim over a period of up to 28 days, in patients recovering from autologous bone-marrow transplantation, resulted in no evidence of drug accumulation and comparable elimination half-lives. There is a positive linear correlation between the dose and the serum concentration of filgrastim, whether administered intravenously or subcutaneously. Following subcutaneous administration of
+Clearance of filgrastim has been shown to follow first-order pharmacokinetics after both subcutaneous and intravenous administration. The serum elimination half-life of filgrastim is approximately 3.5 hours, with a clearance rate of approximately 0.6 ml/min/kg. Continuous infusion with filgrastim over a period of up to 28 days, in patients recovering from autologous bone marrow transplantation, resulted in no evidence of drug accumulation and comparable elimination half-lives. There is a positive linear correlation between the dose and the serum concentration of filgrastim, whether administered intravenously or subcutaneously. Following subcutaneous administration of recommended doses, serum concentrations were maintained above 10 ng/ml for 8 to 16 hours. The volume of distribution in blood is approximately 150 ml/kg.
 
 <div style=\"page-break-after: always\"></div>
-
-recommended doses, serum concentrations were maintained above 10 ng/ml for 8 to 16 hours. The volume of distribution in blood is approximately 150 ml/kg.
 
 ## 5.3 Preclinical safety data
 
@@ -651,13 +641,13 @@ For storage conditions after dilution of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
-## Nivestim 12 MU/0.2 ml solution for injection/infusion
+Nivestim 12 MU/0.2 ml solution for injection/infusion
 
-Pre-filled syringe (type I glass), with injection needle (stainless steel) with a needle guard, containing 0.2 ml solution for injection/infusion.
+Pre-filled syringe (type I glass), with injection needle (stainless steel) with a needle trap, containing 0.2 ml solution for injection/infusion.
 
 ## Nivestim 30 MU/0.5 ml solution for injection/infusion, Nivestim 48 MU/0.5 ml solution for injection/infusion
 
-Pre-filled syringe (type I glass), with injection needle (stainless steel) with a needle guard, containing 0.5 ml solution for injection/infusion.
+Pre-filled syringe (type I glass), with injection needle (stainless steel) with a needle trap, containing 0.5 ml solution for injection/infusion.
 
 Each pre-filled syringe is affixed with a needle closed by a needle cover that contains epoxyprene, a derivative of natural rubber latex which may come into contact with the needle.
 
@@ -679,7 +669,7 @@ For patients treated with filgrastim diluted to concentrations below 1.5 MU (15 
 
 Example: In a final injection volume of 20 ml, total doses of filgrastim less than 30 MU (300 mcg) should be given with 0.2 ml of 20% human albumin solution Ph. Eur. added.
 
-Nivestim contains no preservative. In view of the possible risk of microbial contamination, Nivestim syringes are for single use only.
+Nivestim contains no preservative. In view of the possible risk of microbial contamination, Nivestim pre-filled syringes are for single use only.
 
 When diluted in 5% glucose solution, filgrastim is compatible with glass and a variety of plastics including PVC, polyolefin (a co-polymer of polypropylene and polyethylene) and polypropylene.
 
@@ -709,13 +699,10 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-## A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -731,11 +718,11 @@ Hospira Zagreb d.o.o. Prudnička cesta 60 10291 Prigorje Brdovečko Croatia
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
-Medicinal product subject to restricted medical prescription (See Annex I: Summary of Product Characteristics, section 4.2)
+Medicinal product subject to restricted medical prescription (See Annex I: Summary of Product Characteristics, section 4.2).
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+- Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -764,7 +751,7 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON
+OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -772,7 +759,7 @@ Nivestim 12 MU/0.2 ml solution for injection/infusion filgrastim
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each pre-filled syringe contains 12 million units (MU) (120 mcg) of filgrastim in 0.2 ml (0.6 mg/ml)
+Each pre-filled syringe contains 12 million units (MU) (120 mcg) of filgrastim in 0.2 ml (0.6 mg/ml).
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -782,13 +769,13 @@ Excipients: acetic acid glacial, sodium hydroxide, polysorbate 80, sorbitol (E42
 
 ## Solution for injection/infusion.
 
-1 pre-filled syringe with 0.2 ml.
+- 1 pre-filled syringe with needle trap containing 0.2 ml solution for injection/infusion.
 
-5 pre-filled syringes with 0.2 ml
+5 pre-filled syringes with needle trap containing 0.2 ml solution for injection/infusion.
 
-8 pre-filled syringes with 0.2 ml
+- 8 pre-filled syringes with needle trap containing 0.2 ml solution for injection/infusion.
 
-10 pre-filled syringes with 0.2 ml.
+10 pre-filled syringes with needle trap containing 0.2 ml solution for injection/infusion.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -804,7 +791,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-Needle guard is attached to the pre-filled syringe in order to protect from needle stick injury. See package leaflet for direction for use of the needle safe device.
+Needle trap is attached to the pre-filled syringe in order to protect from needle stick injury. See package leaflet for direction for use of the needle safe device.
 
 ## 8. EXPIRY DATE
 
@@ -850,30 +837,30 @@ Medicinal product subject to medical prescription.
 
 Nivestim 12 MU/0.2 ml
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
-|------------------------------------------------------------|
-| SYRINGE LABEL                                              |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
+|--------------------------------------------------------------|
+| SYRINGE LABEL                                                |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Nivestim 12 MU/0.2 ml injection/infusion filgrastim SC/IV
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -885,8 +872,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.2 ml
 
@@ -897,7 +884,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON
+OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -905,7 +892,7 @@ Nivestim 30 MU/0.5 ml solution for injection/infusion filgrastim
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each pre-filled syringe contains 30 million units (MU) (300 mcg) of filgrastim in 0.5 ml (0.6 mg/ml)
+Each pre-filled syringe contains 30 million units (MU) (300 mcg) of filgrastim in 0.5 ml (0.6 mg/ml).
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -915,13 +902,13 @@ Excipients: acetic acid glacial, sodium hydroxide, polysorbate 80, sorbitol (E42
 
 ## Solution for injection/infusion.
 
-1 pre-filled syringe with 0.5 ml
+- 1 pre-filled syringe with needle trap containing 0.5 ml solution for injection/infusion.
 
-5 pre-filled syringes with 0.5 ml
+5 pre-filled syringes with needle trap containing 0.5 ml solution for injection/infusion.
 
-8 pre-filled syringes with 0.5 ml
+8 pre-filled syringes with needle trap containing 0.5 ml solution for injection/infusion.
 
-10 pre-filled syringes with 0.5 ml
+10 pre-filled syringes with needle trap containing 0.5 ml solution for injection/infusion.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -937,7 +924,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-Needle guard is attached to the pre-filled syringe in order to protect from needle stick injury. See package leaflet for direction for use of the needle safe device.
+Needle trap is attached to the pre-filled syringe in order to protect from needle stick injury. See package leaflet for direction for use of the needle safe device.
 
 ## 8. EXPIRY DATE
 
@@ -983,30 +970,32 @@ Medicinal product subject to medical prescription.
 
 Nivestim 30 MU/0.5 ml
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
-|------------------------------------------------------------|
-| SYRINGE LABEL                                              |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
+|--------------------------------------------------------------|
+| SYRINGE LABEL                                                |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Nivestim 30 MU/0.5 ml injection/infusion filgrastim SC/IV
+Nivestim 30 MU/0.5 ml injection/infusion filgrastim
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+SC/IV
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1018,8 +1007,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.5 ml
 
@@ -1038,7 +1027,7 @@ Nivestim 48 MU/0.5 ml solution for injection/infusion filgrastim
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each pre-filled syringe contains 48 million units (MU) (480 mcg) of filgrastim in 0.5 ml (0.96 mg/ml)
+Each pre-filled syringe contains 48 million units (MU) (480 mcg) of filgrastim in 0.5 ml (0.96 mg/ml).
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1048,13 +1037,13 @@ Excipients: acetic acid glacial, sodium hydroxide, polysorbate 80, sorbitol (E42
 
 ## Solution for injection/infusion.
 
-1 pre-filled syringe with 0.5 ml
+- 1 pre-filled syringe with needle trap containing 0.5 ml solution for injection/infusion.
 
-5 pre-filled syringes with 0.5 ml
+5 pre-filled syringes with needle trap containing 0.5 ml solution for injection/infusion.
 
-8 pre-filled syringes with 0.5 ml
+8 pre-filled syringes with needle trap containing 0.5 ml solution for injection/infusion.
 
-10 pre-filled syringes with 0.5 ml
+10 pre-filled syringes with needle trap containing 0.5 ml solution for injection/infusion.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1070,11 +1059,11 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-Needle guard is attached to the pre-filled syringe in order to protect from needle stick injury. See package leaflet for direction for use of the needle safe device.
+Needle trap is attached to the pre-filled syringe in order to protect from needle stick injury. See package leaflet for direction for use of the needle safe device.
 
 ## 8. EXPIRY DATE
 
-## EXP
+EXP
 
 After dilution use within 24 hours.
 
@@ -1090,13 +1079,7 @@ Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Pfizer Europe MA EEIG
-
-Boulevard de la Plaine 17
-
-1050 Bruxelles
-
-Belgium
+Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1122,30 +1105,32 @@ Medicinal product subject to medical prescription.
 
 Nivestim 48 MU/0.5 ml
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
-|------------------------------------------------------------|
-| SYRINGE LABEL                                              |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
+|--------------------------------------------------------------|
+| SYRINGE LABEL                                                |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Nivestim 48 MU/0.5 ml injection/infusion filgrastim SC/IV
+Nivestim 48 MU/0.5 ml injection/infusion filgrastim
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+SC/IV
+
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1157,8 +1142,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 0.5 ml
 
@@ -1193,7 +1178,7 @@ Nivestim 12 MU/0.2 ml solution for injection/infusion Nivestim 30 MU/0.5 ml solu
 
 ## 1. What Nivestim is and what it is used for
 
-Nivestim is a white blood cell growth factor (granulocyte-colony stimulating factor) and belongs to a group of medicines called cytokines. Growth factors are proteins that are produced naturally in the body but they can also be made using biotechnology for use as a medicine. Nivestim works by encouraging the bone marrow to produce more white blood cells.
+Nivestim is a white blood cell growth factor (granulocyte colony-stimulating factor) and belongs to a group of medicines called cytokines. Growth factors are proteins that are produced naturally in the body but they can also be made using biotechnology for use as a medicine. Nivestim works by encouraging the bone marrow to produce more white blood cells.
 
 A reduction in the number of white blood cells (neutropenia) can occur for several reasons and makes your body less able to fight infection. Nivestim stimulates the bone marrow to produce new white cells quickly.
 
@@ -1224,10 +1209,10 @@ Please tell your doctor before starting treatment if you have :
 
 Please tell your doctor immediately during treatment with Nivestim, if you:
 
-- have sudden signs of allergy such as rash, itching or hives on the skin, swelling of the face, lips, tongue or other parts of the body, shortness of breath, wheezing or trouble breathing as these could be signs of a severe allergic reaction (hypersensitivity).
-- experience puffiness in your face or ankles, blood in your urine or brown-coloured urine or you notice you urinate less than usual (glomerulonephritis).
-- get left upper belly (abdominal) pain, pain below the left rib cage or at the tip of your left shoulder (these may be symptoms of an enlarged spleen (splenomegaly), or possibly rupture of the spleen).
-- notice unusual bleeding or bruising (these may be symptoms of a decrease in blood platelets (thrombocytopenia), with a reduced ability of your blood to clot).
+- -have sudden signs of allergy such as rash, itching or hives on the skin, swelling of the face, lips, tongue or other parts of the body, shortness of breath, wheezing or trouble breathing as these could be signs of a severe allergic reaction (hypersensitivity).
+- -experience puffiness in your face or ankles, blood in your urine or brown-coloured urine or you notice you urinate less than usual (glomerulonephritis).
+- -get left upper belly (abdominal) pain, pain below the left rib cage or at the tip of your left shoulder (these may be symptoms of an enlarged spleen (splenomegaly), or possibly rupture of the spleen).
+- -notice unusual bleeding or bruising (these may be symptoms of a decrease in blood platelets (thrombocytopenia), with a reduced ability of your blood to clot).
 
 Inflammation of the aorta (the large blood vessel which transports blood from the heart to the body) has been reported rarely in cancer patients and healthy donors. The symptoms can include fever, abdominal pain, malaise, back pain and increased inflammatory markers. Tell your doctor if you experience these symptoms.
 
@@ -1273,7 +1258,7 @@ Nivestim may have a minor influence on your ability to drive and use machines. T
 
 ## Nivestim contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per 0.6 mg/ml or 0.96 mg/ml dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per 0.6 mg/ml or 0.96 mg/ml dose, that is to say essentially ' sodium-free ' .
 
 ## Nivestim contains sorbitol
 
@@ -1295,7 +1280,7 @@ Nivestim is usually given as a daily injection into the tissue just under the sk
 
 You will normally receive your first dose of Nivestim at least 24 hours after your chemotherapy and at least 24 hours after receiving your bone marrow transplant.
 
-You, or people caring for you, can be taught how to give subcutaneous injections so that you can continue your treatment at home. However, you should not attempt this unless you have been properly trained first by your healthcare provider.
+You, or people caring for you, can be taught how to give subcutaneous injections so that you can continue your treatment at home. However, you should not attempt this unless you have been properly trained first by your healthcare provider. Follow the instructions at the end of this leaflet which shows you how to give the injection.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1335,7 +1320,7 @@ These could be symptoms of a condition called 'Capillary Leak Syndrome' which ca
 
 - o fever, or shivering, or feeling very cold, high heart rate, confusion or disorientation, shortness of breath, extreme pain or discomfort and clammy or sweaty skin.
 
-These could be symptoms of a condition called 'sepsis' (also called 'blood poisoning'), a severe infection with whole-body inflammatory response which can be life threatening and needs urgent medical attention.
+These could be symptoms of a condition called 'sepsis' (also called ' blood poisoning ' ), a severe infection with whole-body inflammatory response which can be life-threatening and needs urgent medical attention.
 
 - -if you get left upper belly (abdominal) pain, pain below the left rib cage or pain at the tip of your shoulder, as there may be a problem with your spleen (enlargement of the spleen (splenomegaly) or rupture of the spleen).
 - -if you are being treated for severe chronic neutropenia and you have blood in your urine (haematuria). Your doctor may regularly test your urine if you experience this side effect or if protein is found in your urine (proteinuria).
@@ -1410,7 +1395,7 @@ In normal stem cell donors, an increase in white blood cells (leucocytosis) and 
 - disease which causes bones to become less dense, making them weaker, more brittle and likely to break (osteoporosis)
 - injection site reaction
 
-## Rare side effects (may affect up to 1 in 1,000 people):
+## Rare side effects (may affect up to 1 in 1 000 people):
 
 - severe pain in the bones, chest, gut or joints (sickle cell anaemia with crisis)
 - sudden life-threatening allergic reaction (anaphylactic reaction)
@@ -1434,7 +1419,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the outer carton and on the pre-filled syringe after EXP. The expiry date refers to the last day of that month.
 
-Store and transport refrigerated (2°C - 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store and transport refrigerated (2°C -8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 The syringe can be removed from the refrigerator and left at room temperature for a single period of maximum 15 days (but not above 25°C).
 
@@ -1448,15 +1433,15 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Nivestim contains
 
-- The active substance is filgrastim. Each ml contains 60 million units [MU] (600 mcg) or 96 million units [MU] (960 mcg) of filgrastim.
-- Nivestim 12 MU/0.2 ml solution for injection/infusion: each pre-filled syringe contains 12 million units (MU), 120 mcg of filgrastim in 0.2 ml (corresponding to 0.6 mg/ml).
-- Nivestim 30 MU/0.5 ml solution for injection/infusion: each pre-filled syringe contains 30 million units (MU), 300 mcg of filgrastim in 0.5 ml (corresponding to 0.6 mg/ml).
-- Nivestim 48 MU/0.5 ml solution for injection/infusion: each pre-filled syringe contains 48 million units (MU), 480 mcg of filgrastim in 0.5 ml (corresponding to 0.96 mg/ml).
-- The other ingredients are acetic acid (glacial), sodium hydroxide, sorbitol E420, polysorbate 80, and water for injections.
+- -The active substance is filgrastim. Each ml contains 60 million units [MU] (600 mcg) or 96 million units [MU] (960 mcg) of filgrastim.
+- -Nivestim 12 MU/0.2 ml solution for injection/infusion: each pre-filled syringe contains 12 million units (MU), 120 mcg of filgrastim in 0.2 ml (corresponding to 0.6 mg/ml).
+- -Nivestim 30 MU/0.5 ml solution for injection/infusion: each pre-filled syringe contains 30 million units (MU), 300 mcg of filgrastim in 0.5 ml (corresponding to 0.6 mg/ml).
+- -Nivestim 48 MU/0.5 ml solution for injection/infusion: each pre-filled syringe contains 48 million units (MU), 480 mcg of filgrastim in 0.5 ml (corresponding to 0.96 mg/ml).
+- -The other ingredients are acetic acid (glacial), sodium hydroxide, sorbitol E420, polysorbate 80, and water for injections.
 
 ## What Nivestim looks like and contents of the pack
 
-Nivestim is a clear colourless solution for injection/infusion in a glass pre-filled syringe with an injection needle (stainless steel) with a needle guard. The needle cover contains epoxyprene, a derivative of natural rubber latex which may come into contact with the needle.
+Nivestim is a clear colourless solution for injection/infusion in a glass pre-filled syringe with an injection needle (stainless steel) with a needle trap. The needle cover contains epoxyprene, a derivative of natural rubber latex which may come into contact with the needle.
 
 There are 1, 5, 8 or 10 syringes in each pack. Not all pack sizes may be marketed.
 
@@ -1472,7 +1457,9 @@ For any information about this medicine, please contact the local representative
 
 België/Belgique/Belgien Luxembourg/Luxemburg
 
-Pfizer NV/SA Tél/Tel: +32 (0)2 554 62 11
+Pfizer NV/SA
+
+Tél/Tel: +32 (0)2 554 62 11
 
 ## Lietuva
 
@@ -1482,9 +1469,7 @@ Tel: +370 52 51 4000
 
 ## България
 
-Пфайзер Люксембург САРЛ, Клон България
-
-Тел.: +359 2 970 4333
+Пфайзер Люксембург САРЛ, Клон България Тел.: +359 2 970 4333
 
 Magyarország
 
@@ -1618,7 +1603,7 @@ Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtsk
 
 ## Slovenská republika
 
-Pfizer Luxembourg SARL, organizačná zložka Tel: +421-2-3355 5500
+Pfizer Luxembourg SARL, organizačná zložka Tel: +421 - 2 - 3355 5500
 
 ## Suomi/Finland
 
@@ -1636,7 +1621,9 @@ Tel: +46 (0)8 550 520 00
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-## Information on self administration by the patient
+----------------------------------------------------------------------------------------------------------------------------
+
+## Information on self-administration by the patient
 
 This section contains information on how to give yourself an injection of Nivestim. It is important that you do not try to give yourself the injection unless you have received special training from your doctor or nurse. It is also important that you dispose of the syringe in a sharps disposal (puncture-proof) container. If you are not sure about giving yourself the injection or you have any questions, please ask your doctor or nurse for help.
 
@@ -1648,10 +1635,8 @@ Learning to give your own injections will mean that you will not have to wait at
 
 You will need to have your injections at about the same time every day. The most suitable places for injection are:
 
-- the front of the thighs,
-- the abdomen, except for the area around the navel.
-
-<!-- image -->
+- The front of the thighs.
+- The abdomen (tummy), except for the area around the navel.
 
 It is better to change the injection site every day to avoid the risk of soreness at any one site.
 
@@ -1660,110 +1645,97 @@ It is better to change the injection site every day to avoid the risk of sorenes
 To give yourself a subcutaneous injection you will need the following items:
 
 - A new pre-filled syringe of Nivestim.
-- A sharps disposal (puncture proof) container for disposing of used syringes safely.
+- A sharps disposal (puncture-proof) container for disposing of used syringes safely.
 - Antiseptic wipes (if recommended by your doctor or nurse).
 
-## How do I give my subcutaneous Nivestim injection?
+How do I give my subcutaneous Nivestim injection?
+
+<!-- image -->
+
+- 1 Barrel containing medicine
+
+- 2 Needle cover
+
+- 3 Plunger rod
+
+- 4 Needle trap
+
+Your pre-filled syringe has a needle trap attached to it which is designed to specifically help prevent accidental needle stick injuries following the proper administration of injectable medicines. It consists of a plastic needle 'catcher' which is firmly attached to the pre-filled syringe label.
+
+<div style=\"page-break-after: always\"></div>
+
+The needle trap requires specific actions by the user to 'activate' it, which will render the needle harmless after the injection is given.
 
 1. Try to self-inject at approximately the same time every day.
 2. Remove the carton containing the Nivestim pre-filled syringe from the refrigerator.
 3. Remove the blister tray containing the pre-filled syringe from the carton. When the carton contains blister trays with more than one pre-filled syringe, tear off the blister tray containing one pre-filled syringe along the perforated part, and return the rest of the blister trays containing pre-filled syringes to the carton and return the carton to the refrigerator.
-
-<div style=\"page-break-after: always\"></div>
-
-4. Open the blister tray containing the pre-filled syringe by peeling away the lid from the blister tray. Remove the pre-filled syringe from the blister tray by grasping from the syringe body.
-2. o Do not grasp the grey needle cover or the plunger rod.
-
-<!-- image -->
-
-Check the syringe to make sure that the needle guard is covering the barrel of the pre-filled syringe. Do not push the needle guard over the needle cover before the injection. This may activate or lock the needle guard. If the needle guard is covering the needle that means it has been activated.
-
-Check that the solution is clear, colourless and practically free from visible particles. Do not inspect the product through the plastic of the safety device.
-
-Check the date on the label to make sure that the medicine has not passed the expiry date. Make sure you have your sharps disposal (puncture-proof) container nearby.
-
-Allow the pre-filled syringe to reach room temperature (approximately 25°C). This will take 15-30 minutes.
-
-- o Do not remove the syringe's needle cover while allowing the pre-filled syringe to reach room temperature.
-- o Do not shake the syringe.
-- 1 Needle Guard
-- 2 Needle Cover
-- 3 Medicine
-- 4 Plunger Rod
-- Do not use the Nivestim syringe if:
-- o The carton is open or damaged.
-- o The needle guard is missing, detached or has been activated.
-- o The medicine is cloudy or discoloured or the liquid has particles floating in it.
-- o Any part of the pre-filled syringe appears cracked or broken or any of the liquid has leaked out of the syringe.
-- o The pre-filled syringe has been dropped. The pre-filled syringe may be broken even if you cannot see the break.
-- o The needle cover is missing or not securely attached.
-- o The expiration date printed on the label has passed.
+4. Open the blister tray containing the pre-filled syringe with needle trap by peeling away the cover after taking it out of the refrigerator.
+5. Grab the barrel of the syringe to remove the pre-filled syringe from the blister tray.
+6. Do not remove the needle cover from the pre-filled syringe until you are ready to inject your medicine.
+7. The liquid needs to come to room temperature. Do not remove the needle cover from the pre-filled syringe while allowing the pre-filled syringe to reach room temperature.
+8. Check the pre-filled syringe, to make sure it is the right dose, has not passed its expiry date, is not damaged, and the liquid is clear and not frozen.
+9. Do not use the pre-filled syringe if:
+- The carton is open or damaged.
+- The medicine is cloudy or discoloured or the liquid has particles in it.
+- Any part of the pre-filled syringe appears cracked or broken or any of the liquid has leaked out of the syringe.
+- The pre-filled syringe has been dropped. The pre-filled syringe may be broken even if you cannot see the break.
+- The needle cover is missing or not securely attached.
+- The expiry date stated on the label has passed.
 
 <!-- image -->
 
 In all cases above discard the pre-filled syringe and use a new pre-filled syringe.
 
-5. Find a comfortable well-lit working place to give your injection and check the dose that you have been prescribed.
-6. Wash your hands thoroughly with soap and water.
+10. Choose an injection site (see the injection site picture below). The most suitable places for injection are the front of the thigh and around the abdomen (tummy) but away from the navel. Change the injection site every day.
+11. Wash your hands. Use an antiseptic wipe on the injection site, to disinfect it.
+
+<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-7. Hold the pre-filled syringe by the body of the needle guard with the needle cover pointing upwards.
-- Do not hold by the plunger head, plunger or needle cover.
+12. Hold the pre-filled syringe by the barrel of the syringe with the covered needle pointing upward.
+- Do not hold by the plunger head, plunger rod or needle cover.
 - Do not pull back on the plunger at any time.
+- Grasp the tip of the plastic needle catcher and bend it away from the needle cover.
 - Do not remove the needle cover from the pre-filled syringe until you are ready to inject your medicine.
-8. Take the needle cover off the syringe by holding the barrel and pulling the needle cover straight off and away from your body carefully without twisting it. Throw away the needle cover. Do not recap the needle. Do not push the plunger, touch the needle or shake the syringe.
-9. The syringe is now ready for use. You may notice a small air bubble in the syringe. You do not have to remove the air bubble before injecting. Injecting the solution with an air bubble present is harmless.
-10. Decide where to inject Nivestim - find a place on the front of your abdomen or the front of your thigh. Choose a different injection site each time. Do not choose an area which is tender, red, bruised or scarred. Clean the area of skin with an antiseptic wipe.
-11. Pinch a large area of skin, taking care not to touch the area you have cleaned.
-12. With your other hand, hold the pre-filled syringe like you would hold a pencil. Use a quick 'dart-like' motion to insert the needle at an approximate 45˚ angle into the skin as shown.
-13. Pull the plunger back slightly to check if any blood appears in the syringe. If you do see blood inside the syringe, remove the needle and re-insert it in a different site. Slowly push down the plunger until all the contents of the syringe have been emptied.
-14. After injecting the solution remove the needle from the skin.
-15. Ensure the needle guard covers the needle according to the instructions for active needle guard or passive needle guard below.
-16. Do not try to replace the needle cover. Place the syringe in a sharps disposal (puncture-proof) container.
-- Keep used syringes out of the reach and sight of children
-- Never put used syringes into your normal household waste bin.
+13. Take the needle cover off the pre-filled syringe by holding the barrel and pulling the needle cover straight off and away from your body carefully without twisting it. Throw away the needle cover. Do not recap the needle. Do not push the plunger, touch the needle or shake the syringe.
+14. You may notice a small air bubble in the pre-filled syringe. You do not have to remove the air bubble before injecting. Injecting the solution with an air bubble present is harmless.
+15. Pinch a fold of skin between your thumb and index finger, taking care not to touch the area you have cleaned. Do not squeeze it.
+16. With your other hand, hold the pre-filled syringe like you would hold a pencil. Use a quick 'dart -like' motion to insert the needle at an approximate 45 -degree angle into the skin.
 
 <!-- image -->
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+17. Push the needle in fully. Your doctor or nurse may have shown you how to do this.
+18. Push the plunger with your thumb as far as it will go to inject the entire amount of liquid. Push it slowly and evenly, keeping the skin fold pinched.
+19. When the plunger is pushed as far as it will go, take out the needle and let go of the skin.
+- Place the plastic needle catcher of the needle trap against a hard, stable surface and with one hand pivot the syringe barrel upward against the needle forcing the needle into the catcher where it locks in place (an audible 'click' is heard when the needle is locked in the catcher). Continue bending the needle until the syringe exceeds a 45-degree angle with the flat surface to render it permanently unusable.
+- When the needle is pulled out of your skin, there may be a little bleeding at the injection site. This is normal. You can press an antiseptic wipe on the injection site for a few seconds after the injection.
+- Do not try to replace the needle cover. Dispose of your used syringe safely in a sharps disposal (puncture-proof) container.
+- Never throw away used syringes into your normal household waste.
+
+<!-- image -->
+
+Keep used syringes out of the reach and sight of children.
 
 ## Remember
 
 Most people can learn to give themselves a subcutaneous injection, but if you are experiencing a lot of difficulty, please do not be afraid to ask for help and advice from your doctor or nurse.
 
-## Use of Active UltraSafe Needle Guard for Nivestim 12 MU/0.2 ml solution for injection/infusion
-
-The pre-filled syringe has an UltraSafe Active Needle Guard attached in order to protect from needle stick injury. When handling the pre-filled syringe, keep hands behind the needle.
-
-1. Perform the injection using the technique described above.
-2. When you have completed the injection, slide the needle guard forward until the needle is completely covered (device 'clicks' into place).
-
-<!-- image -->
-
-Use of UltraSafe Passive Needle Guard for Nivestim 30 MU/0.5 ml solution for injection/infusion and Nivestim 48 MU/0.5 ml solution for injection/infusion
-
-The pre-filled syringe has an UltraSafe Passive Needle Guard attached in order to protect from needle stick injury. When handling the pre-filled syringe, keep hands behind the needle.
-
-1. Perform the injection using the technique described above.
-2. Depress the plunger while grasping the finger flange until the entire dose has been given. The passive needle guard will NOT activate unless the ENTIRE dose has been given.
-3. Remove the needle from your skin, then let go of the plunger and allow the syringe to move up until the entire needle is guarded and locks into place.
-
-<!-- image -->
-
-<!-- image -->
-
 ----------------------------------------------------------------------------------------------------------------------------
-
-<div style=\"page-break-after: always\"></div>
 
 ## THE FOLLOWING INFORMATION IS INTENDED FOR MEDICAL OR HEALTHCARE PROFESSIONALS ONLY:
 
 Nivestim does not contain any preservative. In view of the possible risk of microbial contamination, Nivestim syringes are for single use only.
 
 Accidental exposure to freezing temperatures for up to 24 hours does not affect the stability of Nivestim. The frozen pre-filled syringes can be thawed and then refrigerated for future use. If exposure has been greater than 24 hours or frozen more than once, then Nivestim should NOT be used.
+
+<div style=\"page-break-after: always\"></div>
 
 Nivestim must not be diluted with sodium chloride solution. This medicinal product must not be mixed with other medicinal products except those mentioned below. Diluted filgrastim may be adsorbed to glass and plastic materials except diluted, as mentioned below.
 

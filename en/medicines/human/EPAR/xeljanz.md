@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-16 15:08:00
+document_datetime: 2026-08-19 10:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xeljanz.html
 document_name: xeljanz.html
 version: success
-processing_time: 0.4557942
-conversion_datetime: 2026-07-19 12:01:39.207601
+processing_time: 0.259913
+conversion_datetime: 2026-08-22 22:42:23.66757
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.1.0
-  docling: 2.113.0
-  docling-core: 2.87.1
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Xeljanz
 
@@ -40,7 +40,6 @@ Page contents
 - [News on Xeljanz](#news-on)
 - [Product information - with tracked changes](#product-information-with-tracked-changes-80349)
 - [More information on Xeljanz](#related-medicines)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -154,7 +153,7 @@ English (EN) (143.59 KB - PDF)
 
 [View](/en/documents/overview/xeljanz-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-188)
+[Other languages (22)](#file-language-dropdown-242)
 
 български (BG) (175.17 KB - PDF)
 
@@ -300,167 +299,167 @@ English (EN) (2.89 MB - PDF)
 
 Xeljanz : EPAR - Product Information
 
-English (EN) (2.03 MB - PDF)
+English (EN) (2.08 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/en/documents/product-information/xeljanz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-75)
+[Other languages (24)](#file-language-dropdown-892)
 
-български (BG) (1.4 MB - PDF)
+български (BG) (1.69 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/bg/documents/product-information/xeljanz-epar-product-information_bg.pdf)
 
-español (ES) (1.37 MB - PDF)
+español (ES) (1.46 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/es/documents/product-information/xeljanz-epar-product-information_es.pdf)
 
-čeština (CS) (3.23 MB - PDF)
+čeština (CS) (1.72 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/cs/documents/product-information/xeljanz-epar-product-information_cs.pdf)
 
-dansk (DA) (1.33 MB - PDF)
+dansk (DA) (1.47 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/da/documents/product-information/xeljanz-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.69 MB - PDF)
+Deutsch (DE) (1.53 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/de/documents/product-information/xeljanz-epar-product-information_de.pdf)
 
-eesti (ET) (1.44 MB - PDF)
+eesti (ET) (1.49 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/et/documents/product-information/xeljanz-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.38 MB - PDF)
+ελληνικά (EL) (1.71 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/el/documents/product-information/xeljanz-epar-product-information_el.pdf)
 
-français (FR) (3.05 MB - PDF)
+français (FR) (1.71 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/fr/documents/product-information/xeljanz-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.05 MB - PDF)
+hrvatski (HR) (1.7 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/hr/documents/product-information/xeljanz-epar-product-information_hr.pdf)
 
-italiano (IT) (1.98 MB - PDF)
+italiano (IT) (1.54 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/it/documents/product-information/xeljanz-epar-product-information_it.pdf)
 
-latviešu (LV) (1.72 MB - PDF)
+latviešu (LV) (1.61 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/lv/documents/product-information/xeljanz-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1.54 MB - PDF)
+lietuvių (LT) (1.73 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/lt/documents/product-information/xeljanz-epar-product-information_lt.pdf)
 
-magyar (HU) (1.45 MB - PDF)
+magyar (HU) (1.74 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/hu/documents/product-information/xeljanz-epar-product-information_hu.pdf)
 
-Malti (MT) (1.55 MB - PDF)
+Malti (MT) (1.73 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/mt/documents/product-information/xeljanz-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.88 MB - PDF)
+Nederlands (NL) (1.5 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/nl/documents/product-information/xeljanz-epar-product-information_nl.pdf)
 
-polski (PL) (1.41 MB - PDF)
+polski (PL) (1.68 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/pl/documents/product-information/xeljanz-epar-product-information_pl.pdf)
 
-português (PT) (1.39 MB - PDF)
+português (PT) (1.4 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/pt/documents/product-information/xeljanz-epar-product-information_pt.pdf)
 
-română (RO) (1.37 MB - PDF)
+română (RO) (1.74 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/ro/documents/product-information/xeljanz-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.62 MB - PDF)
+slovenčina (SK) (1.83 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/sk/documents/product-information/xeljanz-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.55 MB - PDF)
+slovenščina (SL) (1.63 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/sl/documents/product-information/xeljanz-epar-product-information_sl.pdf)
 
-suomi (FI) (1.4 MB - PDF)
+suomi (FI) (1.58 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/fi/documents/product-information/xeljanz-epar-product-information_fi.pdf)
 
-svenska (SV) (1.33 MB - PDF)
+svenska (SV) (1.44 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/sv/documents/product-information/xeljanz-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1.38 MB - PDF)
+Íslenska (IS) (1.44 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/is/documents/product-information/xeljanz-epar-product-information_is.pdf)
 
-norsk (NO) (1.37 MB - PDF)
+norsk (NO) (1.48 MB - PDF)
 
-**First published:** 31/03/2017 **Last updated:** 12/01/2026
+**First published:** 31/03/2017 **Last updated:** 19/08/2026
 
 [View](/no/documents/product-information/xeljanz-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000296118
+**Latest procedure affecting product information:** VR/0000337490
 
-27/11/2025
+23/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -479,7 +478,7 @@ English (EN) (48.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xeljanz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-755)
+[Other languages (24)](#file-language-dropdown-124)
 
 български (BG) (36.9 KB - PDF)
 
@@ -667,7 +666,7 @@ Tofacitinib can be given in combination with methotrexate (MTX) or as monotherap
 - **Marketing authorisation issued**
     - 22/03/2017
 - **Revision**
-    - 37
+    - 38
 
 ## Assessment history
 
@@ -679,9 +678,9 @@ Collapse section
 
 Xeljanz : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (146.86 KB - PDF)
+English (EN) (166.45 KB - PDF)
 
-**First published:** 20/10/2025 **Last updated:** 12/01/2026
+**First published:** 20/10/2025 **Last updated:** 19/08/2026
 
 [View](/en/documents/procedural-steps-after/xeljanz-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -692,6 +691,16 @@ English (EN) (260.23 KB - PDF)
 **First published:** 19/07/2017 **Last updated:** 20/10/2025
 
 [View](/en/documents/procedural-steps-after/xeljanz-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Xeljanz-VR-0000339481 : EPAR - Assessment Report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-3052509
+
+English (EN) (763.07 KB - PDF)
+
+**First published:** 19/08/2026
+
+[View](/en/documents/variation-report/xeljanz-vr-0000339481-epar-assessment-report-variation_en.pdf)
 
 Xeljanz-PAM-0000291064 : EPAR - Assessment report
 
@@ -739,7 +748,7 @@ English (EN) (139.86 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/xeljanz-epar-scientific-conclusions-article-20-referral-annex-iv_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-525)
+[Other languages (24)](#file-language-dropdown-553)
 
 български (BG) (203.66 KB - PDF)
 
@@ -975,7 +984,7 @@ English (EN) (51.82 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/xeljanz-h-20-1485-epar-scientific-conclusions-pass-article-20_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-868)
+[Other languages (22)](#file-language-dropdown-427)
 
 български (BG) (114.73 KB - PDF)
 
@@ -1119,7 +1128,7 @@ English (EN) (29.44 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/xeljanz-h-20-1485-epar-scientific-conclusions-article-20_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-307)
+[Other languages (22)](#file-language-dropdown-462)
 
 български (BG) (82.52 KB - PDF)
 
@@ -1373,7 +1382,7 @@ English (EN) (890.95 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/xeljanz-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-620)
+[Other languages (24)](#file-language-dropdown-738)
 
 български (BG) (967.08 KB - DOCX)
 
@@ -1529,13 +1538,13 @@ norsk (NO) (967.56 KB - DOCX)
 - [Janus kinase inhibitors (JAKi) - referral](/en/medicines/human/referrals/janus-kinase-inhibitors-jaki)
 - [Cibinqo / Jyseleca / Olumiant / Rinvoq / Xeljanz - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/cibinqo-jyseleca-olumiant-rinvoq-xeljanz)
 - [Evaluation of the Effectiveness of Implementation of Additional Risk Minimization Measures (aRMM) Materials for Xeljanz® (Tofacitinib) / Rheumatoid Arthritis (RA) indication in Nigeria via a Survey among Prescribers: A Non-Interventional Post Authorization Safety Study (PASS). - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000900)
+- [Dissemination of additional risk minimisation measures for patients and healthcare professionals in EU/EEA countries - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000524)
 - [Real-world comparative effectiveness of tofacitinib, tumour necrosis factor inhibitors, and interleukin 17 inhibitors among patients with axial spondylarthritis and psoriatic arthritis - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000226)
 - [An Active Surveillance, Post Authorization Safety Study (PASS) of Serious Infection, Malignancy, Cardiovascular (CV) and Other Safety Events of Interest among Patients Treated with Tofacitinib for Moderately to Severely Active Rheumatoid Arthritis (RA) within the German Registry Rheumatoide Arthritis: Beobachtung der Biologika Therapie (RABBIT) (Safety of tofacitinib in RABBIT) - post-authorisation study](https://catalogues.ema.europa.eu/study/49399)
 - [An Active Surveillance, Post-Authorization Study to Assess Tofacitinib Utilization Patterns and to Characterize the Safety of Tofacitinib Use in Patients with Moderately to Severely Active Ulcerative Colitis in the Real-World Setting Using Data from a US Administrative Healthcare Claims Database - post-authorisation study](https://catalogues.ema.europa.eu/study/46136)
 - [An Active Surveillance, Post-Authorization Study to Characterize the Safety of Tofacitinib in Patients With Moderately to Severely Active Ulcerative Colitis in the Real-World Setting Using Data From the United Registries for Clinical Assessment and Research (UR-CARE) in the European Union (EU) - post-authorisation study](https://catalogues.ema.europa.eu/study/103633)
 - [A multicenter evaluation of the treatment persistence of advanced therapies (Biological disease-modifying agents and Targeted synthetic Disease Modifying Anti-Rheumatic Drugs) in the treatment of rheumatoid arthritis (RA): A Real World Evidence (RWE) study from India - post-authorisation study](https://catalogues.ema.europa.eu/study/107874)
 - [Risk of Safety Events Among Patients with UC and PsA Treated with Tofacitinib and Other Advanced Treatments in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/105306)
-- [Dissemination of additional risk minimisation measures for patients and healthcare professionals in EU/EEA countries - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000524)
 - [A Longitudinal, Retrospective, Multi-centre Observational Study to Evaluate Effectiveness, Persistence, Treatment Patterns and Safety of Australian Patients Receiving Early Access to Tofacitinib - post-authorisation study](https://catalogues.ema.europa.eu/study/47773)
 - [Uveitis in chronic inflammatory conditions and ulcerative colitis-related pyoderma gangrenosum and axial spondylarthritis: an observational study of patients receiving advanced therapies in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/199002)
 - [A Post-Authorisation Safety Study of the Utilisation and Prescribing Patterns of Xeljanz® (tofacitinib) Using an Administrative Healthcare Database in France - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000247)
@@ -1565,12 +1574,8 @@ norsk (NO) (967.56 KB - DOCX)
 - [An evaluation of early use patterns to assess the effectiveness of Xeljanz® (tofacitinib citrate) in rheumatoid arthritis: A retrospective non-interventional database study of observational data embedded within Optimising Patient outcome in Australian RheumatoLogy - Quality Use of Medicines Initiative (OPAL-QUMI) (OPal study of xeljanz Effectiveness in RA - OPERA) - post-authorisation study](https://catalogues.ema.europa.eu/study/27619)
 - [A Prospective Observational Study within the Corrona International Registry to Evaluate Safety and Effectiveness of Tofacitinib and Biologic Disease Modifying Antirheumatic Drugs in Japan among Patients Treated for Moderately to Severely Active Rheumatoid Arthritis - post-authorisation study](https://catalogues.ema.europa.eu/study/44699)
 
-## Topics
-
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
-
 **This page was last updated on**
 
-16/07/2026
+19/08/2026
 
 ## Share this page

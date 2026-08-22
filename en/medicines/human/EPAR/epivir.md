@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/epivir.html
 document_name: epivir.html
 version: success
-processing_time: 0.1634919
-conversion_datetime: 2026-08-22 22:54:34.544636
+processing_time: 0.1738098
+conversion_datetime: 2026-08-22 23:28:49.876414
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

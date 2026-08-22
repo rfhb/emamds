@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-01-12 12:03:53
-document_pages: 178
+document_datetime: 2026-08-19 10:38:52
+document_pages: 179
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/xeljanz-epar-product-information_en.pdf
 document_name: xeljanz-epar-product-information_en.pdf
 version: success
-processing_time: 74.2177616
-conversion_datetime: 2026-01-14 07:26:24.826472
+processing_time: 80.3859385
+conversion_datetime: 2026-08-23 00:58:05.533787
 docling_version:
-  docling-serve: 1.10.0
-  docling-jobkit: 1.8.1
-  docling: 2.68.0
-  docling-core: 2.59.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -34,7 +34,7 @@ Each film-coated tablet contains tofacitinib citrate, equivalent to 5 mg tofacit
 
 ## Excipient with known effect
 
-Each filmcoated tablet contains 59.44 mg of lactose.
+Each film-coated tablet contains 59.44 mg of lactose.
 
 ## XELJANZ 10 mg film-coated tablets
 
@@ -115,9 +115,9 @@ The recommended dose of tofacitinib is 5 mg administered twice daily.
 
 The recommended dose is 10 mg given orally twice daily for induction for 8 weeks.
 
-<div style=\"page-break-after: always\"></div>
-
 For patients who do not achieve adequate therapeutic benefit by week 8, the induction dose of 10 mg twice daily can be extended for an additional 8 weeks (16 weeks total), followed by 5 mg twice daily for maintenance. Tofacitinib induction therapy should be discontinued in any patient who shows no evidence of therapeutic benefit by week 16.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Maintenance treatment
 
@@ -155,9 +155,9 @@ Tofacitinib treatment should be interrupted if a patient develops a serious infe
 
 Interruption of dosing may be needed for management of dose-related laboratory abnormalities including lymphopenia, neutropenia, and anaemia. As described in Tables 3, 4 and 5 below, recommendations for temporary dose interruption or permanent discontinuation of treatment are made according to the severity of laboratory abnormalities (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 It is recommended not to initiate dosing in patients with an absolute lymphocyte count (ALC) less than 750 cells/mm 3 .
+
+<div style=\"page-break-after: always\"></div>
 
 Table 3: Low absolute lymphocyte count
 
@@ -212,7 +212,7 @@ No dose adjustment is required in patients 65 years of age and older. There are 
 
 ## Hepatic impairment
 
-Table 6: Dose adjustment for hepatic impairment
+Table 6:   Dose adjustment for hepatic impairment
 
 | Hepatic impairment category   | Classification   | Dose adjustment in hepatic impairment for different strength tablets                                                                                                                                                                                                                    |
 |-------------------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -253,11 +253,15 @@ For patients who have difficulties swallowing, tofacitinib tablets may be crushe
 - Severe hepatic impairment (see section 4.2).
 - Pregnancy and lactation (see section 4.6).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.4 Special warnings and precautions for use
 
-Tofacitinib should only be used if no suitable treatment alternatives are available in patients: -65 years of age and older; -patients with history of atherosclerotic cardiovascular disease or other cardiovascular risk factors (such as current or past long-time smokers); -patients with malignancy risk factors (e.g. current malignancy or history of malignancy)
+Tofacitinib should only be used if no suitable treatment alternatives are available in patients:
+
+- -65 years of age and older;
+- -patients with history of atherosclerotic cardiovascular disease or other cardiovascular risk factors (such as current or past long-time smokers);
+- -patients with malignancy risk factors (e.g. current malignancy or history of malignancy)
+
+<div style=\"page-break-after: always\"></div>
 
 ## Use in patients 65 years of age and older
 
@@ -281,11 +285,11 @@ Tofacitinib 10 mg twice daily for maintenance treatment is not recommended in pa
 
 In patients with cardiovascular or malignancy risk factors (see also section 4.4 'Major adverse cardiovascular events (including myocardial infarction) ' and 'Malignanc ies and lymphoproliferative disorders ') tofacitinib should only be used if no suitable treatment alternatives are available.
 
-<div style=\"page-break-after: always\"></div>
-
 In patients with VTE risk factors other than MACE or malignancy risk factors, tofacitinib should be used with caution. VTE risk factors other than MACE or malignancy risk factors include previous VTE, patients undergoing major surgery, immobilisation, use of combined hormonal contraceptives or hormone replacement therapy, inherited coagulation disorder. Patients should be re-evaluated periodically during tofacitinib treatment to assess for changes in VTE risk.
 
 For patients with RA with known risk factors for VTE, consider testing D-dimer levels after approximately 12 months of treatment. If Ddimer test result is ≥ 2× ULN, confirm that clinical benefits outweigh risks prior to a decision on treatment continuation with tofacitinib.
+
+<div style=\"page-break-after: always\"></div>
 
 Promptly evaluate patients with signs and symptoms of VTE and discontinue tofacitinib in patients with suspected VTE, regardless of dose or indication.
 
@@ -319,13 +323,13 @@ The risks and benefits of treatment should be considered prior to initiating tof
 - who have been exposed to TB,
 - who have resided or travelled in areas of endemic TB.
 
-<div style=\"page-break-after: always\"></div>
-
 Patients should be evaluated and tested for latent or active infection prior to and per applicable guidelines during administration of tofacitinib.
 
 Patients with latent TB, who test positive, should be treated with standard antimycobacterial therapy before administering tofacitinib.
 
 Antituberculosis therapy should also be considered prior to administration of tofacitinib in patients who test negative for TB but who have a past history of latent or active TB and where an adequate course of treatment cannot be confirmed; or those who test negative but who have risk factors for TB infection. Consultation with a healthcare professional with expertise in the treatment of TB is recommended to aid in the decision about whether initiating antituberculosis therapy is appropriate for an individual patient. Patients should be closely monitored for the development of signs and symptoms of TB, including patients who tested negative for latent TB infection prior to initiating therapy.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Viral reactivation
 
@@ -340,7 +344,7 @@ In patients treated with tofacitinib, the incidence of herpes zoster appears to 
 
 The impact of tofacitinib on chronic viral hepatitis reactivation is unknown. Patients screened positive for hepatitis B or C were excluded from clinical studies. Screening for viral hepatitis should be performed in accordance with clinical guidelines before starting therapy with tofacitinib.
 
-At least one confirmed case of progressive multifocal leukoencephalopathy (PML) has been reported in RA patients receiving tofacitinib in the post marketing setting. PML can be fatal and should be considered in the differential diagnosis in immunosuppressed patients with new onset or worsening neurological symptoms.
+Progressive multifocal leukoencephalopathy (PML) has been reported during post marketing use of tofacitinib for the treatment of autoimmune diseases (including off-label use). PML can be fatal and should be considered in the differential diagnosis in immunosuppressed patients with new onset or worsening neurological symptoms. If PML is suspected, withhold dosing with tofacitinib during appropriate diagnostic evaluation. If PML is confirmed, treatment with tofacitinib should be discontinued.
 
 ## Major adverse cardiovascular events (including myocardial infarction)
 
@@ -356,11 +360,11 @@ In a randomised post authorisation safety study in patients with RA who were 50 
 
 NMSC lung cancers and lymphoma in patients treated with tofacitinib have also been observed in other clinical studies and in the post-marketing setting.
 
-<div style=\"page-break-after: always\"></div>
-
 Other malignancies in patients treated with tofacitinib were observed in clinical studies and the post-marketing setting, including, but not limited to, breast cancer, melanoma, prostate cancer, and pancreatic cancer.
 
 In patients 65 years of age and older, patients who are current or past long-time smokers, and patients with other malignancy risk factors (e.g. current malignancy or history of malignancy other than a successfully treated non-melanoma skin cancer) tofacitinib should only be used if no suitable treatment alternatives are available (see section 5.1). Periodic skin examination is recommended for all patients, particularly those who are at increased risk for skin cancer (see Table 8 in section 4.8).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Interstitial lung disease
 
@@ -384,13 +388,13 @@ Treatment with tofacitinib was associated with an increased incidence of liver e
 
 In post-marketing experience, cases of hypersensitivity associated with tofacitinib administration have been reported. Allergic reactions included angioedema and urticaria; serious reactions have occurred. If any serious allergic or anaphylactic reaction occurs, tofacitinib should be discontinued immediately.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Laboratory parameters
 
 ## Lymphocytes
 
 Treatment with tofacitinib was associated with an increased incidence of lymphopenia compared to placebo. Lymphocyte counts less than 750 cells/mm 3 were associated with an increased incidence of serious infections. It is not recommended to initiate or continue tofacitinib treatment in patients with a confirmed lymphocyte count less than 750 cells/mm 3 . Lymphocytes should be monitored at baseline and every 3 months thereafter. For recommended modifications based on lymphocyte counts, see section 4.2.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Neutrophils
 
@@ -426,7 +430,7 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-## Potential for other medicinal products to influence the pharmacokinetics (PK) of tofacitinib
+Potential for other medicinal products to influence the pharmacokinetics (PK) of tofacitinib
 
 Since tofacitinib is metabolised by CYP3A4, interaction with medicinal products that inhibit or induce CYP3A4 is likely. Tofacitinib exposure is increased when coadministered with potent inhibitors of CYP3A4 (e.g., ketoconazole) or when administration of one or more concomitant medicinal products results in both moderate inhibition of CYP3A4 and potent inhibition of CYP2C19 (e.g., fluconazole) (see section 4.2) .
 
@@ -439,8 +443,6 @@ Coadministration with ketoconazole (strong CYP3A4 inhibitor), fluconazole (moder
 Figure 1. Impact of other medicinal products on PK of tofacitinib
 
 <!-- image -->
-
-Ratio relative to reference
 
 Note: Reference group is administration of tofacitinib alone.
 
@@ -623,11 +625,9 @@ Compared with TNF inhibitors, the hazard ratio (HR) for serious infections in pa
 
 ## Serious infections from non-interventional post approval safety study
 
-Data from a non-interventional post approval safety study that evaluated tofacitinib in RA patients from a registry (US Corrona) showed that a numerically higher incidence rate of serious infection was observed for the 11 mg prolonged-release tablet administered once daily than the 5 mg film-coated tablet administered twice daily. Crude incidence rates (95% CI) (i.e., not adjusted for age or sex) from availability of each formulation at 12 months following initiation of treatment were 3.45 (1.93, 5.69) and 2.78 (1.74, 4.21) and at 36 months were 4.71 (3.08, 6.91) and 2.79 (2.01, 3.77) patients with events per 100 patient-years in the 11 mg prolonged-release tablet once daily and 5 mg film-coated tablet twice daily groups, respectively. The unadjusted hazard ratio was 1.30 (95% CI: 0.67, 2.50) at 12 months and 1.93 (95% CI: 1.15, 3.24) at 36 months for the 11 mg prolonged-release once daily
+Data from a non-interventional post approval safety study that evaluated tofacitinib in RA patients from a registry (US Corrona) showed that a numerically higher incidence rate of serious infection was observed for the 11 mg prolonged-release tablet administered once daily than the 5 mg film-coated tablet administered twice daily. Crude incidence rates (95% CI) (i.e., not adjusted for age or sex) from availability of each formulation at 12 months following initiation of treatment were 3.45 (1.93, 5.69) and 2.78 (1.74, 4.21) and at 36 months were 4.71 (3.08, 6.91) and 2.79 (2.01, 3.77) patients with events per 100 patient-years in the 11 mg prolonged-release tablet once daily and 5 mg film-coated tablet twice daily groups, respectively. The unadjusted hazard ratio was 1.30 (95% CI: 0.67, 2.50) at 12 months and 1.93 (95% CI: 1.15, 3.24) at 36 months for the 11 mg prolonged-release once daily dose compared to the 5 mg film-coated twice daily dose. Data is based on a small number of patients with events observed with relatively large confidence intervals and limited follow up time.
 
 <div style=\"page-break-after: always\"></div>
-
-dose compared to the 5 mg film-coated twice daily dose. Data is based on a small number of patients with events observed with relatively large confidence intervals and limited follow up time.
 
 ## Viral reactivation
 
@@ -661,11 +661,9 @@ Patients in the Phase 3 controlled clinical studies (RA, PsA, AS, UC) were requi
 
 ## Liver enzyme tests
 
-Confirmed increases in liver enzymes greater than 3 times the upper limit of normal (3x ULN) were uncommonly observed in RA patients. In those patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD,
+Confirmed increases in liver enzymes greater than 3 times the upper limit of normal (3x ULN) were uncommonly observed in RA patients. In those patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of tofacitinib, or reduction in tofacitinib dose, resulted in decrease or normalisation of liver enzymes.
 
 <div style=\"page-break-after: always\"></div>
-
-interruption of tofacitinib, or reduction in tofacitinib dose, resulted in decrease or normalisation of liver enzymes.
 
 In the controlled portion of the RA phase 3 monotherapy study (0-3 months) (study I, see section 5.1), ALT elevations greater than 3x ULN were observed in 1.65%, 0.41%, and 0% of patients receiving placebo, tofacitinib 5 mg and 10 mg twice daily, respectively. In this study, AST elevations greater than 3x ULN were observed in 1.65%, 0.41% and 0% of patients receiving placebo, tofacitinib 5 mg and 10 mg twice daily, respectively.
 
@@ -725,23 +723,23 @@ The incidence rates (95% CI) for lymphoma for tofacitinib 5 mg twice daily, tofa
 
 ## Polyarticular juvenile idiopathic arthritis and juvenile PsA
 
-The adverse reactions in JIA patients in the clinical development program were consistent in type and frequency with those seen in adult RA patients, with the exception of some infections (influenza, pharyngitis, sinusitis, viral infection) and gastrointestinal or general disorders (abdominal pain,
+The adverse reactions in JIA patients in the Phase 3 pivotal trial (Study JIA-I) and long-term extension study, which included paediatric patients with pJIA, jPsA, ERA, and sJIA, were generally consistent in type and frequency with those seen in adult RA patients, with the exception of some infections
 
 <div style=\"page-break-after: always\"></div>
 
-nausea, vomiting, pyrexia, headache, cough), which were more common in JIA paediatric population. MTX was the most frequent concomitant csDMARD used (on Day 1, 156 of 157 patients on csDMARDs took MTX). There are insufficient data regarding the safety profile of tofacitinib used concomitantly with any other csDMARDs.
+(upper respiratory tract infection and viral infection) and gastrointestinal or general disorders (abdominal pain and pyrexia), which were more common in the JIA paediatric population. MTX was the most frequent concomitant csDMARD used (on Day 1, 156 of 157 patients on csDMARDs took MTX). There are insufficient data regarding the safety profile of tofacitinib used concomitantly with any other csDMARDs.
 
 ## Infections
 
-In the double-blind portion of the pivotal Phase 3 trial (Study JIA-I), infection was the most commonly reported adverse reaction (44.3%). The infections were generally mild to moderate in severity.
+In the double-blind portion of Study JIA-I, infection was the most commonly reported adverse reaction (44.3%). The infections were generally mild to moderate in severity.
 
-In the integrated safety population, 7 patients had serious infections during treatment with tofacitinib within the reporting period (up to 28 days after the last dose of study medication), representing an incidence rate of 1.92 patients with events per 100 patient-years: pneumonia, epidural empyema (with sinusitis and subperiosteal abscess), pilonidal cyst, appendicitis, escherichia pyelonephritis, abscess limb, and UTI.
+In Study JIA-I, serious infections were reported in 3 patients (1.3%) who received tofacitinib, corresponding to an incidence rate of 2.43 patients with events per 100 patient-years. Herpes zoster was reported in 2 patients (0.9%), with an incidence rate of 1.63 patients with events per 100 patient-years. Both events involved a single dermatome and were non-serious.
 
-In the integrated safety population, 3 patients had non-serious events of herpes zoster within the reporting window representing an incidence rate of 0.82 patients with events per 100 patient-years. One (1) additional patient had an event of serious HZ outside the reporting window.
+In the long-term extension study, serious infections occurred in 14 patients (4.6%) receiving tofacitinib, corresponding to an incidence rate of 1.50 patients with events per 100 patient-years. The most frequent serious infections were herpes zoster and pneumonia. Herpes zoster events were reported in 6 patients (2.0%) corresponding to an incidence rate of 0.64 patients with events per 100 patient-years. Of these, 2 patients (0.7%) experienced serious events of multidermatomal herpes zoster with an incidence rate of 0.21 events per 100 patient-years. In addition, there were 3 herpes zoster events (2 serious and 1 non-serious) confined to a single dermatome. The remaining herpes zoster event was non-serious, involved 2 adjacent dermatomes, and occurred in a patient with a prior non-serious varicella event reported 5.8 years earlier in the study.
 
 ## Hepatic events
 
-Patients in the JIA pivotal study were required to have AST and ALT levels less than 1.5 times the upper limit of normal to be eligible for enrolment. In the integrated safety population, there were 2 patients with ALT elevations ≥ 3 times the ULN at 2 consecutive visits. Neither event met Hy's Law criteria. Both patients were on background MTX therapy and each event resolved after discontinuation of MTX and permanent discontinuation of tofacitinib.
+Patients in the JIA pivotal study were required to have AST and ALT levels less than 1.5 times the upper limit of normal to be eligible for enrolment. In Study JIA-I, ALT elevations &gt; 5 × ULN at 2 consecutive visits were reported in 1 patient (0.4%) receiving tofacitinib who was receiving background methotrexate; the event was adjudicated as related to tofacitinib and resolved following discontinuation of methotrexate and tofacitinib. In the long-term extension study, AST or ALT elevations &gt; 5 × ULN at 2 consecutive visits were reported in 2 patients (0.66%); both events were adjudicated as unrelated to tofacitinib. None of the events in either study met Hy's Law criteria.
 
 ## Laboratory tests
 
@@ -795,7 +793,7 @@ A controlled study was conducted in patients with RA on background MTX immunised
 
 The efficacy and safety of tofacitinib film-coated tablets were assessed in 6 randomised, double-blind, controlled multicentre studies in patients greater than 18 years of age with active RA diagnosed according to American College of Rheumatology (ACR) criteria. Table 9 provides information regarding the pertinent study design and population characteristics.
 
-Table 9:  Phase 3 clinical studies of tofacitinib 5 mg and 10 mg twice daily doses in patients with RA
+Table 9: Phase 3 clinical studies of tofacitinib 5 mg and 10 mg twice daily doses in patients with RA
 
 | Studies                                                                | Study I (ORAL Solo)                     | Study II (ORAL Sync)                                                                                                    | Study III (ORAL Standard)                                                                                               | Study IV (ORAL Scan)                                                                                                    | Study V (ORAL Step)                     | Study VI (ORAL Start)                       | Study VII (ORAL Strategy)                                              |
 |------------------------------------------------------------------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------------------------------------------------|
@@ -820,119 +818,126 @@ Over the course of ORAL Strategy, responses with tofacitinib 5 mg twice daily + 
 
 The treatment effect was similar in patients independent of rheumatoid factor status, age, gender, race, or disease status. Time to onset was rapid (as early as week 2 in studies ORAL Solo, ORAL Sync, and ORAL Step) and the magnitude of response continued to improve with duration of treatment. As with the overall ACR response in patients treated with 5 mg or 10 mg twice daily tofacitinib, each of the components of the ACR response was consistently improved from baseline including: tender and swollen joint counts; patient and physician global assessment; disability index scores; pain assessment and CRP compared to patients receiving placebo plus MTX or other DMARDs in all studies.
 
-Table 10: Proportion (%) of patients with an ACR response
+Table 10:  Proportion (%) of patients with an ACR response
 
-| ORAL Solo: DMARDinadequate responders   | ORAL Solo: DMARDinadequate responders   | ORAL Solo: DMARDinadequate responders   | ORAL Solo: DMARDinadequate responders          | ORAL Solo: DMARDinadequate responders          | ORAL Solo: DMARDinadequate responders           |
-|-----------------------------------------|-----------------------------------------|-----------------------------------------|------------------------------------------------|------------------------------------------------|-------------------------------------------------|
-| Endpoint                                | Time                                    | Placebo N=122                           | Tofacitinib 5 mg twice daily monotherapy N=241 | Tofacitinib 5 mg twice daily monotherapy N=241 | Tofacitinib 10 mg twice daily monotherapy N=243 |
-| ACR20                                   | Month 3                                 | 26                                      | 60***                                          | 60***                                          | 65***                                           |
-| ACR20                                   | Month 6                                 | NA                                      | 69                                             | 69                                             | 71                                              |
-| ACR50                                   | Month 3                                 | 12                                      | 31***                                          | 31***                                          | 37***                                           |
-| ACR50                                   | Month 6                                 | NA                                      | 42                                             | 42                                             | 47                                              |
-| ACR70                                   | Month 3                                 | 6                                       | 15*                                            | 15*                                            | 20***                                           |
-| ACR70                                   | Month 6                                 | NA                                      | 22                                             | 22                                             | 29                                              |
-| ORAL Sync: DMARDinadequate responders   | ORAL Sync: DMARDinadequate responders   | ORAL Sync: DMARDinadequate responders   | ORAL Sync: DMARDinadequate responders          | ORAL Sync: DMARDinadequate responders          | ORAL Sync: DMARDinadequate responders           |
-| Endpoint                                | Time                                    | Placebo + DMARD(s) N=158                | Tofacitinib 5 mg twice daily + DMARD(s) N=312  | Tofacitinib 5 mg twice daily + DMARD(s) N=312  | Tofacitinib 10 mg twice daily + DMARD(s) N=315  |
-| ACR20                                   | Month 3                                 | 27                                      | 56***                                          | 56***                                          | 63***                                           |
-| ACR20                                   | Month 6                                 | 31                                      | 53***                                          | 53***                                          | 57***                                           |
-| ACR20                                   | Month 12                                | NA                                      | 51                                             | 51                                             | 56                                              |
-| ACR50                                   | Month 3                                 | 9                                       | 27***                                          | 27***                                          | 33***                                           |
-| ACR50                                   | Month 6                                 | 13                                      | 34***                                          | 34***                                          | 36***                                           |
-| ACR50                                   | Month 12                                | NA                                      | 33                                             | 33                                             | 42                                              |
-| ACR70                                   | Month 3                                 | 2                                       | 8**                                            | 8**                                            | 14***                                           |
-| ACR70                                   | Month 6                                 | 3                                       | 13***                                          | 13***                                          | 16***                                           |
-| ACR70                                   | Month 12                                | NA                                      | 19                                             | 19                                             | 25                                              |
-| ORAL Standard: MTXinadequate responders | ORAL Standard: MTXinadequate responders | ORAL Standard: MTXinadequate responders | ORAL Standard: MTXinadequate responders        | ORAL Standard: MTXinadequate responders        | ORAL Standard: MTXinadequate responders         |
-| Endpoint                                | Time                                    | Placebo                                 | Tofacitinib twice daily+MTX                    | Tofacitinib twice daily+MTX                    | Adalimumab 40 mg QOW +MTX                       |
-| ACR20                                   |                                         | N=105                                   | 5 mg N=198                                     | 10 mg N=197                                    | N=199                                           |
-| ACR20                                   | Month 3                                 | 26                                      | 59***                                          | 57***                                          | 56***                                           |
-| ACR20                                   | Month 6                                 | 28                                      | 51***                                          | 51***                                          | 46**                                            |
-| ACR20                                   | Month 12                                | NA                                      | 48                                             | 49                                             | 48                                              |
+| ORAL Solo: DMARD inadequate responders   | ORAL Solo: DMARD inadequate responders   | ORAL Solo: DMARD inadequate responders   | ORAL Solo: DMARD inadequate responders         | ORAL Solo: DMARD inadequate responders          |
+|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------------|-------------------------------------------------|
+| Endpoint                                 | Time                                     | Placebo N=122                            | Tofacitinib 5 mg twice daily monotherapy N=241 | Tofacitinib 10 mg twice daily monotherapy N=243 |
+| ACR20                                    | Month 3                                  | 26                                       | 60***                                          | 65***                                           |
+| ACR20                                    | Month 6                                  | NA                                       | 69                                             | 71                                              |
+| ACR50                                    | Month 3                                  | 12                                       | 31***                                          | 37***                                           |
+| ACR50                                    | Month 6                                  | NA                                       | 42                                             | 47                                              |
+| ACR70                                    | Month 3                                  | 6                                        | 15*                                            | 20***                                           |
+| ACR70                                    | Month 6                                  | NA                                       | 22                                             | 29                                              |
+| ORAL Sync: DMARD inadequate responders   | ORAL Sync: DMARD inadequate responders   | ORAL Sync: DMARD inadequate responders   | ORAL Sync: DMARD inadequate responders         | ORAL Sync: DMARD inadequate responders          |
+| Endpoint                                 | Time                                     | Placebo + DMARD(s) N=158                 | Tofacitinib 5 mg twice daily + DMARD(s) N=312  | Tofacitinib 10 mg twice daily + DMARD(s) N=315  |
+| ACR20                                    | Month 3                                  | 27                                       | 56***                                          | 63***                                           |
+| ACR20                                    | Month 6                                  | 31                                       | 53***                                          | 57***                                           |
+| ACR20                                    | Month 12                                 | NA                                       | 51                                             | 56                                              |
+| ACR50                                    | Month 3                                  | 9                                        | 27***                                          | 33***                                           |
+| ACR50                                    | Month 6                                  | 13                                       | 34***                                          | 36***                                           |
+| ACR50                                    | Month 12                                 | NA                                       | 33                                             | 42                                              |
+| ACR70                                    | Month 3                                  | 2                                        | 8**                                            | 14***                                           |
+| ACR70                                    | Month 6                                  | 3                                        | 13***                                          | 16***                                           |
+| ACR70                                    | Month 12                                 | NA                                       | 19                                             | 25                                              |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                | Month 3                                        | 7                                              | 33***                                          | 27***                                          | 24***                                           |
-|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|-------------------------------------------------|
-| ACR50                                          | Month 6                                        | 12                                             | 36***                                          | 34***                                          | 27**                                            |
-| ACR50                                          | Month 12                                       | NA                                             | 36                                             | 36                                             | 33                                              |
-|                                                | Month 3                                        | 2                                              | 12**                                           | 15***                                          | 9*                                              |
-|                                                | Month 6                                        | 2                                              | 19***                                          | 21***                                          | 9*                                              |
-|                                                | Month 12                                       | NA                                             | 22                                             | 23                                             | 17                                              |
-| ORAL Scan: MTXinadequate responders            | ORAL Scan: MTXinadequate responders            | ORAL Scan: MTXinadequate responders            | ORAL Scan: MTXinadequate responders            | ORAL Scan: MTXinadequate responders            | ORAL Scan: MTXinadequate responders             |
-|                                                | Time                                           | Placebo+MTX N=156                              | Tofacitinib 5 mg twice daily +MTX N=316        | Tofacitinib 5 mg twice daily +MTX N=316        | Tofacitinib 10 mg twice daily +MTX N=309        |
-|                                                | Month 3                                        | 27                                             | 55***                                          | 55***                                          | 66***                                           |
-|                                                | Month 6                                        | 25                                             | 50***                                          | 50***                                          | 62***                                           |
-|                                                | Month 12                                       | NA                                             | 47                                             | 47                                             | 55                                              |
-|                                                | Month 24                                       | NA                                             | 40                                             | 40                                             | 50                                              |
-|                                                | Month 3                                        | 8                                              | 28***                                          | 28***                                          | 36***                                           |
-|                                                | Month 6                                        | 8                                              | 32***                                          | 32***                                          | 44***                                           |
-|                                                | Month 12                                       | NA                                             | 32                                             | 32                                             | 39                                              |
-|                                                | Month 24                                       | NA                                             | 28                                             | 28                                             | 40                                              |
-|                                                | Month 3                                        | 3                                              |                                                |                                                | 17***                                           |
-|                                                | Month 6                                        | 1                                              | 10** 14***                                     | 10** 14***                                     | 22***                                           |
-|                                                | Month 12                                       | NA                                             | 18                                             | 18                                             | 27                                              |
-|                                                | Month 24                                       | NA                                             | 17                                             | 17                                             | 26                                              |
-| ORAL Step: TNF Inhibitor inadequate responders | ORAL Step: TNF Inhibitor inadequate responders | ORAL Step: TNF Inhibitor inadequate responders | ORAL Step: TNF Inhibitor inadequate responders | ORAL Step: TNF Inhibitor inadequate responders | ORAL Step: TNF Inhibitor inadequate responders  |
-|                                                | Time                                           | Placebo+MTX N=132                              | Tofacitinib 5 mg twice daily +MTX N=133        | Tofacitinib 5 mg twice daily +MTX N=133        | Tofacitinib 10 mg twice daily +MTX N=134        |
-|                                                | Month 3                                        | 24                                             | 41*                                            | 41*                                            | 48***                                           |
-|                                                | Month 6                                        | NA                                             | 51                                             | 51                                             | 54                                              |
-|                                                | Month 3                                        | 8                                              | 26***                                          | 26***                                          | 28***                                           |
-|                                                | Month 6                                        | NA                                             | 37                                             | 37                                             | 30                                              |
-|                                                | Month 3                                        | 2                                              | 14***                                          | 14***                                          | 10*                                             |
-|                                                | Month 6                                        | NA                                             | 16                                             | 16                                             | 16                                              |
-| ORAL Start: MTX-naïve                          | ORAL Start: MTX-naïve                          | ORAL Start: MTX-naïve                          | ORAL Start: MTX-naïve                          | ORAL Start: MTX-naïve                          | ORAL Start: MTX-naïve                           |
-|                                                | Time                                           | MTX N=184                                      | Tofacitinib 5 mg twice daily monotherapy       | Tofacitinib 5 mg twice daily monotherapy       | Tofacitinib 10 mg twice daily monotherapy N=394 |
-|                                                | Month 3                                        | 52                                             | N=370 69***                                    | N=370 69***                                    | 77***                                           |
-|                                                | Month 6                                        | 51                                             | 71***                                          | 71***                                          | 75***                                           |
-|                                                | Month 12                                       | 51                                             | 67**                                           | 67**                                           | 71***                                           |
-|                                                | Month 24                                       | 42                                             | 63***                                          | 63***                                          | 64***                                           |
-|                                                | Month 3                                        | 20                                             | 40***                                          | 40***                                          | 49***                                           |
-|                                                | Month 6                                        | 27                                             | 46***                                          | 46***                                          | 56***                                           |
-|                                                | Month 12                                       | 33                                             | 49**                                           | 49**                                           | 55***                                           |
-|                                                | Month 24                                       | 28                                             | 48***                                          | 48***                                          | 49***                                           |
-|                                                | Month 3                                        | 5                                              | 20***                                          | 20***                                          | 26***                                           |
-|                                                | Month 6                                        |                                                |                                                |                                                |                                                 |
-|                                                |                                                | 12                                             | 25***                                          | 25***                                          | 37***                                           |
-|                                                | Month 24                                       | 15                                             | 34***                                          | 34***                                          | 37***                                           |
+| ORAL Standard: MTX inadequate responders   | ORAL Standard: MTX inadequate responders   | ORAL Standard: MTX inadequate responders   | ORAL Standard: MTX inadequate responders   | ORAL Standard: MTX inadequate responders   | ORAL Standard: MTX inadequate responders   |
+|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|
+| Endpoint                                   | Time                                       | Placebo                                    | Tofacitinib twice daily + MTX              | Tofacitinib twice daily + MTX              | Adalimumab 40 mg QOW + MTX                 |
+| ACR20                                      |                                            | N=105                                      | 5 mg N=198                                 | 10 mg N=197                                | N=199                                      |
+| ACR20                                      | Month 3                                    | 26                                         | 59***                                      | 57***                                      | 56***                                      |
+| ACR20                                      | Month 6                                    | 28                                         | 51***                                      | 51***                                      | 46**                                       |
+| ACR20                                      | Month 12                                   | NA                                         | 48                                         | 49                                         | 48                                         |
+| ACR50                                      | Month 3                                    | 7                                          | 33***                                      | 27***                                      | 24***                                      |
+| ACR50                                      | Month 6                                    | 12                                         | 36***                                      | 34***                                      | 27**                                       |
+| ACR50                                      | Month 12                                   | NA                                         | 36                                         | 36                                         | 33                                         |
+| ACR70                                      | Month 3                                    | 2                                          | 12**                                       | 15***                                      | 9*                                         |
+|                                            | Month 6                                    | 2                                          | 19***                                      | 21***                                      | 9*                                         |
+|                                            | Month 12                                   | NA                                         | 22                                         | 23                                         | 17                                         |
+| ORAL Scan: MTX inadequate responders       | ORAL Scan: MTX inadequate responders       | ORAL Scan: MTX inadequate responders       | ORAL Scan: MTX inadequate responders       | ORAL Scan: MTX inadequate responders       | ORAL Scan: MTX inadequate responders       |
+| Tofacitinib 5 mg Tofacitinib 10 mg         | Tofacitinib 5 mg Tofacitinib 10 mg         | Tofacitinib 5 mg Tofacitinib 10 mg         | Tofacitinib 5 mg Tofacitinib 10 mg         | Tofacitinib 5 mg Tofacitinib 10 mg         | Tofacitinib 5 mg Tofacitinib 10 mg         |
+| Endpoint                                   | Time                                       | Placebo + MTX N=156                        | twice daily + MTX                          | twice daily + MTX                          | twice daily + MTX N=309                    |
+| ACR20                                      | Month 3                                    | 27                                         | N=316 55***                                | N=316 55***                                | 66***                                      |
+|                                            | Month 6                                    | 25                                         | 50***                                      | 50***                                      | 62***                                      |
+|                                            | Month 12                                   | NA                                         | 47                                         | 47                                         | 55                                         |
+|                                            | Month 24                                   | NA                                         | 40                                         | 40                                         | 50                                         |
+|                                            | Month 3                                    | 8                                          | 28***                                      | 28***                                      | 36***                                      |
+|                                            | Month 6                                    | 8                                          | 32***                                      | 32***                                      | 44***                                      |
+| ACR50                                      | Month 12                                   | NA                                         | 32                                         | 32                                         | 39                                         |
+|                                            | Month 24                                   | NA                                         | 28                                         | 28                                         | 40                                         |
+|                                            | Month 3                                    | 3                                          | 10**                                       | 10**                                       | 17***                                      |
+|                                            | Month 6                                    | 1                                          | 14***                                      | 14***                                      | 22***                                      |
+| ACR70                                      | Month 12                                   | NA                                         | 18                                         | 18                                         | 27                                         |
+|                                            | Month 24                                   | NA                                         | 17                                         | 17                                         | 26                                         |
 
 <div style=\"page-break-after: always\"></div>
 
-| ORAL Strategy: MTXinadequate responders   | ORAL Strategy: MTXinadequate responders   | ORAL Strategy: MTXinadequate responders   | ORAL Strategy: MTXinadequate responders   | ORAL Strategy: MTXinadequate responders   |
-|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
-| Endpoint                                  | Time                                      | Tofacitinib 5 mg twice daily N=384        | Tofacitinib 5 mg twice daily +MTX N=376   | Adalimumab +MTX N=386                     |
-| ACR20                                     | Month 3                                   | 62.50                                     | 70.48ǂ                                    | 69.17                                     |
-| ACR20                                     | Month 6                                   | 62.84                                     | 73.14ǂ                                    | 70.98                                     |
-| ACR20                                     | Month 12                                  | 61.72                                     | 70.21ǂ                                    | 67.62                                     |
-| ACR50                                     | Month 3                                   | 31.51                                     | 40.96ǂ                                    | 37.31                                     |
-| ACR50                                     | Month 6                                   | 38.28                                     | 46.01ǂ                                    | 43.78                                     |
-| ACR50                                     | Month 12                                  | 39.31                                     | 47.61ǂ                                    | 45.85                                     |
-| ACR70                                     | Month 3                                   | 13.54                                     | 19.41ǂ                                    | 14.51                                     |
-| ACR70                                     | Month 6                                   | 18.23                                     | 25.00ǂ                                    | 20.73                                     |
-| ACR70                                     | Month 12                                  | 21.09                                     | 28.99ǂ                                    | 25.91                                     |
+| ORAL Step: TNF Inhibitor inadequate responders   | ORAL Step: TNF Inhibitor inadequate responders   | ORAL Step: TNF Inhibitor inadequate responders   | ORAL Step: TNF Inhibitor inadequate responders   | ORAL Step: TNF Inhibitor inadequate responders   |
+|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+| Endpoint                                         | Time                                             | Placebo + MTX N=132                              | Tofacitinib 5 mg twice daily + MTX N=133         | Tofacitinib 10 mg twice daily + MTX N=134        |
+| ACR20                                            | Month 3                                          | 24                                               | 41*                                              | 48***                                            |
+| ACR20                                            | Month 6                                          | NA                                               | 51                                               | 54                                               |
+| ACR50                                            | Month 3                                          | 8                                                | 26***                                            | 28***                                            |
+| ACR50                                            | Month 6                                          | NA                                               | 37                                               | 30                                               |
+| ACR70                                            | Month 3                                          | 2                                                | 14***                                            | 10*                                              |
+| ACR70                                            | Month 6                                          | NA                                               | 16                                               | 16                                               |
 
-QOW=every other week, N=number of subjects analysed, ACR20/50/70=American College of Rheumatology ≥20, 50, 70% improvement, NA=not applicable, MTX=methotrexate.
+## ORAL Start: MTX-naïve
+
+| Endpoint   | Time     |   MTX N=184 | Tofacitinib 5 mg twice daily monotherapy N=370   | Tofacitinib 10 mg twice daily monotherapy N=394   |
+|------------|----------|-------------|--------------------------------------------------|---------------------------------------------------|
+| ACR20      | Month 3  |          52 | 69***                                            | 77***                                             |
+| ACR20      | Month 6  |          51 | 71***                                            | 75***                                             |
+| ACR20      | Month 12 |          51 | 67**                                             | 71***                                             |
+| ACR20      | Month 24 |          42 | 63***                                            | 64***                                             |
+| ACR50      | Month 3  |          20 | 40***                                            | 49***                                             |
+| ACR50      | Month 6  |          27 | 46***                                            | 56***                                             |
+| ACR50      | Month 12 |          33 | 49**                                             | 55***                                             |
+| ACR50      | Month 24 |          28 | 48***                                            | 49***                                             |
+| ACR70      | Month 3  |           5 | 20***                                            | 26***                                             |
+| ACR70      | Month 6  |          12 | 25***                                            | 37***                                             |
+| ACR70      | Month 12 |          15 | 28**                                             | 38***                                             |
+| ACR70      | Month 24 |          15 | 34***                                            | 37***                                             |
+
+## ORAL Strategy: MTX inadequate responders
+
+| Endpoint   | Time     |   Tofacitinib 5 mg twice daily N=384 | Tofacitinib 5 mg twice daily + MTX N=376   |   Adalimumab + MTX N=386 |
+|------------|----------|--------------------------------------|--------------------------------------------|--------------------------|
+| ACR20      | Month 3  |                                62.50 | 70.48ǂ                                     |                    69.17 |
+| ACR20      | Month 6  |                                62.84 | 73.14ǂ                                     |                    70.98 |
+| ACR20      | Month 12 |                                61.72 | 70.21ǂ                                     |                    67.62 |
+| ACR50      | Month 3  |                                31.51 | 40.96ǂ                                     |                    37.31 |
+| ACR50      | Month 6  |                                38.28 | 46.01ǂ                                     |                    43.78 |
+| ACR50      | Month 12 |                                39.31 | 47.61ǂ                                     |                    45.85 |
+| ACR70      | Month 3  |                                13.54 | 19.41ǂ                                     |                    14.51 |
+| ACR70      | Month 6  |                                18.23 | 25.00ǂ                                     |                    20.73 |
+| ACR70      | Month 12 |                                21.09 | 28.99ǂ                                     |                    25.91 |
 
 ## DAS28-4(ESR) response
 
 Patients in the phase 3 studies had a mean Disease Activity Score (DAS28-4[ESR]) of 6.1-6.7 at baseline. Significant reductions in DAS28-4(ESR) from baseline (mean improvement) of 1.8-2.0 and 1.9-2.2 were observed in patients treated with 5 mg and 10 mg twice daily doses, respectively, compared to placebo-treated patients (0.7-1.1) at month 3. The proportion of patients achieving a DAS28 clinical remission (DAS28-4(ESR) &lt; 2.6) in ORAL Step, ORAL Sync, and ORAL Standard is shown in Table 11.
 
-Table 11: Number (%) of subjects achieving DAS28-4(ESR) &lt; 2.6 remission at months 3 and 6
+<div style=\"page-break-after: always\"></div>
+
+Table 11:  Number (%) of subjects achieving DAS28-4(ESR) &lt; 2.6 remission at months 3 and 6
 
 |                                                | Time Point                                     | N                                              | %                                              |
 |------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
 | ORAL Step: TNF Inhibitor inadequate responders | ORAL Step: TNF Inhibitor inadequate responders | ORAL Step: TNF Inhibitor inadequate responders | ORAL Step: TNF Inhibitor inadequate responders |
 | Tofacitinib 5 mg twice daily + MTX             | Month 3                                        | 133                                            | 6                                              |
-| Tofacitinib 10 mg twice daily +MTX             | Month 3                                        | 134                                            | 8*                                             |
-| Placebo +MTX                                   | Month 3                                        | 132                                            | 2                                              |
-| ORAL Sync: DMARDinadequate responders          | ORAL Sync: DMARDinadequate responders          | ORAL Sync: DMARDinadequate responders          | ORAL Sync: DMARDinadequate responders          |
+| Tofacitinib 10 mg twice daily + MTX            | Month 3                                        | 134                                            | 8*                                             |
+| Placebo + MTX                                  | Month 3                                        | 132                                            | 2                                              |
+| ORAL Sync: DMARD inadequate responders         | ORAL Sync: DMARD inadequate responders         | ORAL Sync: DMARD inadequate responders         | ORAL Sync: DMARD inadequate responders         |
 | Tofacitinib 5 mg twice daily                   | Month 6                                        | 312                                            | 8*                                             |
 | Tofacitinib 10 mg twice daily                  | Month 6                                        | 315                                            | 11***                                          |
 | Placebo                                        | Month 6                                        | 158                                            | 3                                              |
-| ORAL Standard: MTXinadequate responders        | ORAL Standard: MTXinadequate responders        | ORAL Standard: MTXinadequate responders        | ORAL Standard: MTXinadequate responders        |
+| ORAL Standard: MTX inadequate responders       | ORAL Standard: MTX inadequate responders       | ORAL Standard: MTX inadequate responders       | ORAL Standard: MTX inadequate responders       |
 | Tofacitinib 5 mg twice daily + MTX             | Month 6                                        | 198                                            | 6*                                             |
-| Tofacitinib 10 mg twice daily +MTX             | Month 6                                        | 197                                            | 11***                                          |
-| Adalimumab40mgSCQOW+MTX                        | Month 6                                        | 199                                            | 6*                                             |
-| Placebo +MTX                                   | Month 6                                        | 105                                            | 1                                              |
+| Tofacitinib 10 mg twice daily + MTX            | Month 6                                        | 197                                            | 11***                                          |
+| Adalimumab 40 mg SC QOW + MTX                  | Month 6                                        | 199                                            | 6*                                             |
+| Placebo + MTX                                  | Month 6                                        | 105                                            | 1                                              |
 
 *p &lt;0.05, ***p&lt;0.0001 versus placebo, SC=subcutaneous, QOW=every other week, N=number of subjects analysed, DAS28=Disease Activity Scale 28 joints, ESR=Erythrocyte Sedimentation Rate.
 
@@ -940,11 +945,7 @@ Table 11: Number (%) of subjects achieving DAS28-4(ESR) &lt; 2.6 remission at mo
 
 In ORAL Scan and ORAL Start, inhibition of progression of structural joint damage was assessed radiographically and expressed as mean change from baseline in mTSS and its components, the erosion score and joint space narrowing (JSN) score, at months 6 and 12.
 
-In ORAL Scan, tofacitinib 10 mg twice daily plus background MTX resulted in significantly greater inhibition of the progression of structural damage compared to placebo plus MTX at months 6 and 12. When given at a dose of 5 mg twice daily, tofacitinib plus MTX exhibited similar effects on mean
-
-<div style=\"page-break-after: always\"></div>
-
-progression of structural damage (not statistically significant). Analysis of erosion and JSN scores were consistent with overall results.
+In ORAL Scan, tofacitinib 10 mg twice daily plus background MTX resulted in significantly greater inhibition of the progression of structural damage compared to placebo plus MTX at months 6 and 12. When given at a dose of 5 mg twice daily, tofacitinib plus MTX exhibited similar effects on mean progression of structural damage (not statistically significant). Analysis of erosion and JSN scores were consistent with overall results.
 
 In the placebo plus MTX group, 78% of patients experienced no radiographic progression (mTSS change less than or equal to 0.5) at month 6 compared to 89% and 87% of patients treated with tofacitinib 5 or 10 mg (plus MTX) twice daily respectively, (both significant versus placebo plus MTX).
 
@@ -952,15 +953,18 @@ In ORAL Start, tofacitinib monotherapy resulted in significantly greater inhibit
 
 In the MTX group, 70% of patients experienced no radiographic progression at month 6 compared to 83% and 90% of patients treated with tofacitinib 5 or 10 mg twice daily respectively, both significant versus MTX.
 
-Table 12: Radiographic changes at months 6 and 12
+<div style=\"page-break-after: always\"></div>
 
-|                                  | ORAL Scan: MTXinadequate responders   | ORAL Scan: MTXinadequate responders                  | ORAL Scan: MTXinadequate responders                                  | ORAL Scan: MTXinadequate responders                   | ORAL Scan: MTXinadequate responders                                     |
-|----------------------------------|---------------------------------------|------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------------------------|
-|                                  | Placebo + MTX N=139 Mean (SD) a       | Tofacitinib 5 mg twice daily + MTX N=277 Mean (SD) a | Tofacitinib 5 mg twice daily+MTX Mean difference from placebo b (CI) | Tofacitinib 10 mg twice daily + MTX N=290 Mean (SD) a | Tofacitinib 10 mg twice daily + MTX Mean difference from placebo b (CI) |
-| mTSS c Baseline Month 6 Month 12 | 33 (42) 0.5 (2.0) 1.0 (3.9)           | 31 (48) 0.1 (1.7) 0.3 (3.0)                          | - -0.3 (-0.7, 0.0) -0.6 (-1.3, 0.0)                                  | 37 (54) 0.1 (2.0) 0.1 (2.9)                           | - -0.4 (-0.8, 0.0) -0.9 (-1.5, -0.2)                                    |
-|                                  | ORAL Start: MTX-naïve                 | ORAL Start: MTX-naïve                                | ORAL Start: MTX-naïve                                                | ORAL Start: MTX-naïve                                 | ORAL Start: MTX-naïve                                                   |
-|                                  | MTX N=168 Mean (SD) a                 | Tofacitinib 5 mg twice daily N=344 Mean (SD) a       | Tofacitinib 5 mg twice daily Mean difference from MTX d (CI)         | Tofacitinib 10 mg twice daily N=368 Mean (SD) a       | Tofacitinib 10 mg twice daily Mean difference from MTX d (CI)           |
-| mTSS c Baseline Month 6 Month 12 | 16 (29) 0.9 (2.7) 1.3 (3.7)           | 20 (41) 0.2 (2.3) 0.4 (3.0)                          | - -0.7 (-1.0, -0.3) -0.9 (-1.4, -0.4)                                | 19 (39) 0.0 (1.2) 0.0 (1.5)                           | - -0.8 (-1.2, -0.4) -1.3 (-1.8, -0.8)                                   |
+Table 12:  Radiographic changes at months 6 and 12
+
+|                                  | ORAL Scan: MTX inadequate responders   | ORAL Scan: MTX inadequate responders                 | ORAL Scan: MTX inadequate responders                                   | ORAL Scan: MTX inadequate responders                  | ORAL Scan: MTX inadequate responders                                    |
+|----------------------------------|----------------------------------------|------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------------------------|
+|                                  | Placebo + MTX N=139 Mean (SD) a        | Tofacitinib 5 mg twice daily + MTX N=277 Mean (SD) a | Tofacitinib 5 mg twice daily + MTX Mean difference from placebo b (CI) | Tofacitinib 10 mg twice daily + MTX N=290 Mean (SD) a | Tofacitinib 10 mg twice daily + MTX Mean difference from placebo b (CI) |
+| mTSS c Baseline Month 6 Month 12 | 33 (42) 0.5 (2.0) 1.0 (3.9)            | 31 (48) 0.1 (1.7) 0.3 (3.0)                          | - -0.3 (-0.7, 0.0) -0.6 (-1.3, 0.0)                                    | 37 (54) 0.1 (2.0) 0.1 (2.9)                           | - -0.4 (-0.8, 0.0) -0.9 (-1.5, -0.2)                                    |
+|                                  | ORAL Start: MTX-naïve                  | ORAL Start: MTX-naïve                                | ORAL Start: MTX-naïve                                                  | ORAL Start: MTX-naïve                                 | ORAL Start: MTX-naïve                                                   |
+|                                  | MTX N=168 Mean (SD) a                  | Tofacitinib 5 mg twice daily N=344 Mean (SD) a       | Tofacitinib 5 mg twice daily Mean difference from MTX d (CI)           | Tofacitinib 10 mg twice daily N=368 Mean (SD) a       | Tofacitinib 10 mg twice daily Mean difference from MTX d (CI)           |
+| mTSS c Baseline Month 6          | 16 (29) 0.9 (2.7)                      | 20 (41) 0.2 (2.3)                                    | - -0.7 (-1.0, -0.3)                                                    | 19 (39) 0.0 (1.2)                                     | - -0.8 (-1.2, -0.4)                                                     |
+| Month 12                         | 1.3 (3.7)                              | 0.4 (3.0)                                            | -0.9 (-1.4, -0.4)                                                      | 0.0 (1.5)                                             | -1.3 (-1.8, -0.8)                                                       |
 
 a  SD = Standard Deviation
 
@@ -976,20 +980,20 @@ Tofacitinib, alone or in combination with MTX, has shown improvements in physica
 
 <div style=\"page-break-after: always\"></div>
 
-Table 13: LS mean change from baseline in HAQ-DI at month 3
+Table 13:  LS mean change from baseline in HAQ-DI at month 3
 
-|                                                | Placebo + MTX                                  | Tofacitinib 5 mg twice daily +MTX              | Tofacitinib 10 mg twice daily +MTX             | Adalimumab 40mgQOW +MTX                        |
-|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
-| ORAL Standard: MTXinadequate responders        | ORAL Standard: MTXinadequate responders        | ORAL Standard: MTXinadequate responders        | ORAL Standard: MTXinadequate responders        | ORAL Standard: MTXinadequate responders        |
-| N=96                                           | N=96                                           | N=185                                          | N=183                                          | N=188                                          |
-| -0.24                                          | -0.24                                          | -0.54***                                       | -0.61***                                       | -0.50***                                       |
-| ORAL Step: TNF inhibitor inadequate responders | ORAL Step: TNF inhibitor inadequate responders | ORAL Step: TNF inhibitor inadequate responders | ORAL Step: TNF inhibitor inadequate responders | ORAL Step: TNF inhibitor inadequate responders |
-| N=118                                          | N=118                                          | N=117                                          | N=125                                          | NA                                             |
-| -0.18                                          | -0.18                                          | -0.43***                                       | -0.46***                                       | NA                                             |
-| Placebo + DMARD(s)                             | Placebo + DMARD(s)                             | Tofacitinib 5 mg twice daily + DMARD(s)        | Tofacitinib 10 mg twice daily + DMARD(s)       |                                                |
-| ORAL Sync: DMARDinadequate responders          | ORAL Sync: DMARDinadequate responders          | ORAL Sync: DMARDinadequate responders          | ORAL Sync: DMARDinadequate responders          | ORAL Sync: DMARDinadequate responders          |
-|                                                |                                                | N=292                                          | N=292                                          | NA                                             |
-|                                                |                                                | -0.46***                                       | -0.56***                                       | NA                                             |
+| Placebo + MTX                                  |                                                | Tofacitinib 5 mg twice daily + MTX Tofacitinib 10 mg twice daily   | Adalimumab 40 mg QOW + MTX                     |
+|------------------------------------------------|------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------|
+| ORAL Standard: MTX inadequate responders       | ORAL Standard: MTX inadequate responders       | ORAL Standard: MTX inadequate responders                           | ORAL Standard: MTX inadequate responders       |
+| N=96                                           | N=185                                          | N=183                                                              | N=188                                          |
+| -0.24                                          | -0.54***                                       | -0.61***                                                           | -0.50***                                       |
+| ORAL Step: TNF inhibitor inadequate responders | ORAL Step: TNF inhibitor inadequate responders | ORAL Step: TNF inhibitor inadequate responders                     | ORAL Step: TNF inhibitor inadequate responders |
+| N=118                                          | N=117                                          | N=125                                                              | NA                                             |
+| -0.18                                          | -0.43***                                       | -0.46***                                                           | NA                                             |
+| Placebo + DMARD(s)                             | Tofacitinib 5 mg twice daily + DMARD(s)        | Tofacitinib 10 mg twice daily + DMARD(s)                           |                                                |
+| ORAL Sync: DMARD inadequate responders         | ORAL Sync: DMARD inadequate responders         | ORAL Sync: DMARD inadequate responders                             | ORAL Sync: DMARD inadequate responders         |
+| N=147                                          | N=292                                          | N=292                                                              | NA                                             |
+| -0.21                                          | -0.46***                                       | -0.56***                                                           | NA                                             |
 
 Health-related quality of life was assessed by the Short Form Health Survey (SF-36). Patients receiving either 5 or 10 mg tofacitinib twice daily experienced significantly greater improvement from baseline compared to placebo in all 8 domains as well as the Physical Component Summary and Mental Component Summary scores at month 3 in ORAL Solo, ORAL Scan and ORAL Step. In ORAL Scan, mean SF-36 improvements were maintained to 12 months in tofacitinib-treated patients.
 
@@ -1005,11 +1009,9 @@ Evidence of persistence of efficacy with tofacitinib treatment for up to 5 years
 
 ## Long-term controlled safety data
 
-Study ORAL Surveillance (A3921133) was a large (N=4362), randomised active-controlled post-authorisation safety surveillance study of rheumatoid arthritis patients who were 50 years of age and older and had at least one additional cardiovascular risk factor (CV risk factors defined as: current cigarette smoker, diagnosis of hypertension, diabetes mellitus, family history of premature coronary
+Study ORAL Surveillance (A3921133) was a large (N=4362), randomised active-controlled post-authorisation safety surveillance study of rheumatoid arthritis patients who were 50 years of age and older and had at least one additional cardiovascular risk factor (CV risk factors defined as: current cigarette smoker, diagnosis of hypertension, diabetes mellitus, family history of premature coronary heart disease, history of coronary artery disease including a history of revascularization procedure, coronary artery bypass grafting, myocardial infarction, cardiac arrest, unstable angina, acute coronary syndrome, and presence of extraarticular disease associated with RA, e.g. nodules, Sjögren's syndrome, anaemia of chronic disease, pulmonary manifestations). The majority (more than 90%) of tofacitinib patients who were current or past smokers had a smoking duration of more than 10 years and a median of 35.0 and 39.0 smoking years, respectively. Patients were required to be on a stable dose of methotrexate at study entry; dose adjustment was permitted during the study.
 
 <div style=\"page-break-after: always\"></div>
-
-heart disease, history of coronary artery disease including a history of revascularization procedure, coronary artery bypass grafting, myocardial infarction, cardiac arrest, unstable angina, acute coronary syndrome, and presence of extraarticular disease associated with RA, e.g. nodules, Sjögren's syndrome, anaemia of chronic disease, pulmonary manifestations). The majority (more than 90%) of tofacitinib patients who were current or past smokers had a smoking duration of more than 10 years and a median of 35.0 and 39.0 smoking years, respectively. Patients were required to be on a stable dose of methotrexate at study entry; dose adjustment was permitted during the study.
 
 Patients were randomised to open-label tofacitinib 10 mg twice daily, tofacitinib 5 mg twice daily, or a TNF inhibitor (TNF inhibitor was either etanercept 50 mg once weekly or adalimumab 40 mg every other week) in a 1:1:1 ratio. The co-primary endpoints were adjudicated malignancies excluding NMSC and adjudicated major adverse cardiovascular events (MACE); cumulative incidence and statistical assessment of endpoints were blinded. The study was an event-powered study that also required at least 1500 patients to be followed for 3 years. The study treatment of tofacitinib 10 mg twice daily was stopped and patients were switched to 5 mg twice daily because of a dose-dependent signal of venous thromboembolic events (VTE). For patients in the tofacitinib 10 mg twice daily treatment arm, the data collected before and after the dose switch were analysed in their originally randomised treatment group.
 
@@ -1021,7 +1023,7 @@ The results for adjudicated MACE, adjudicated malignancies excluding NMSC, and s
 
 An increase in non-fatal myocardial infarction was observed in patients treated with tofacitinib compared to TNF inhibitor. A dose-dependent increase in VTE events was observed in patients treated with tofacitinib compared to TNF inhibitor (see sections 4.4 and 4.8).
 
-Table 14: Incidence rate and hazard ratio for MACE, myocardial infarction and venous thromboembolism
+Table 14:  Incidence rate and hazard ratio for MACE, myocardial infarction and venous thromboembolism
 
 |                        | Tofacitinib 5 mg twice daily   | Tofacitinib 10 mg twice daily a   | All Tofacitinib b   | TNF inhibitor (TNFi)   |
 |------------------------|--------------------------------|-----------------------------------|---------------------|------------------------|
@@ -1054,7 +1056,7 @@ The following predictive factors for development of MI (fatal and non-fatal) wer
 
 An increase in malignancies excluding NMSC, particularly lung cancer, lymphoma and an increase in NMSC was observed in patients treated with tofacitinib compared to TNF inhibitor.
 
-Table 15: Incidence rate and hazard ratio for malignancies a
+Table 15:  Incidence rate and hazard ratio for malignancies a
 
 |                             | Tofacitinib 5 mg twice daily   | Tofacitinib 10 mg twice daily b   | All Tofacitinib c           | TNF inhibitor (TNFi)        |
 |-----------------------------|--------------------------------|-----------------------------------|-----------------------------|-----------------------------|
@@ -1079,7 +1081,7 @@ Increased mortality was observed in patients treated with tofacitinib compared t
 
 <div style=\"page-break-after: always\"></div>
 
-Table 16: Incidence rate and hazard ratio for mortality a
+Table 16:  Incidence rate and hazard ratio for mortality a
 
 |                        | Tofacitinib 5 mg twice daily   | Tofacitinib 10 mg twice daily b   | All Tofacitinib c   | TNF inhibitor (TNFi)   |
 |------------------------|--------------------------------|-----------------------------------|---------------------|------------------------|
@@ -1102,7 +1104,7 @@ b  The tofacitinib 10 mg twice daily treatment group includes data from patients
 
 c  Combined tofacitinib 5 mg twice daily and tofacitinib 10 mg twice daily.
 
-Abbreviations: TNF = tumor necrosis factor, IR = incidence rate, HR = hazard ratio, CI = confidence interval, PY = patient years, CV = cardiovascular, Inf = infinity
+Abbreviations: TNF = tumor necrosis factor, IR = incidence rate, HR = hazard ratio, CI = confidence interval, PY = patient years, CV = cardiovascular, Inf = infinity.
 
 ## Psoriatic arthritis
 
@@ -1118,36 +1120,36 @@ Treatment with tofacitinib resulted in significant improvements in some signs an
 
 <div style=\"page-break-after: always\"></div>
 
-Table 17: Proportion (%) of PsA patients who achieved clinical response and mean change from baseline in OPAL BROADEN and OPAL BEYOND studies
+Table 17:  Proportion (%) of PsA patients who achieved clinical response and mean change from baseline in OPAL BROADEN and OPAL BEYOND studies
 
-|                 | Conventional syntheticDMARD inadequate responders a (TNFi-Naïve) OPAL BROADEN   | Conventional syntheticDMARD inadequate responders a (TNFi-Naïve) OPAL BROADEN   | Conventional syntheticDMARD inadequate responders a (TNFi-Naïve) OPAL BROADEN   | TNFi inadequate responders b OPAL BEYOND c   | TNFi inadequate responders b OPAL BEYOND c   |
-|-----------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------|----------------------------------------------|
-| Treatment group | Placebo                                                                         | Tofacitinib 5 mg twice daily                                                    | Adalimumab 40 mg SC q2W                                                         | Placebo                                      | Tofacitinib 5 mg twice daily                 |
-| N               | 105                                                                             | 107                                                                             | 106                                                                             | 131                                          | 131                                          |
-| ACR20           |                                                                                 |                                                                                 |                                                                                 |                                              |                                              |
-| Month 3         | 33%                                                                             | 50% d,*                                                                         | 52% *                                                                           | 24%                                          | 50% d,***                                    |
-| Month 6         | NA                                                                              | 59%                                                                             | 64%                                                                             | NA                                           | 60%                                          |
-| Month 12        | NA                                                                              | 68%                                                                             | 60%                                                                             | -                                            | -                                            |
-| ACR50           |                                                                                 |                                                                                 |                                                                                 |                                              |                                              |
-| Month 3         | 10%                                                                             | 28% e,**                                                                        | 33% ***                                                                         | 15%                                          | 30% e,*                                      |
-| Month 6         | NA                                                                              | 38%                                                                             | 42%                                                                             | NA                                           | 38%                                          |
-| Month 12        | NA                                                                              | 45%                                                                             | 41%                                                                             | -                                            | -                                            |
-| ACR70           |                                                                                 |                                                                                 |                                                                                 |                                              |                                              |
-| Month 3         | 5%                                                                              | 17% e,*                                                                         | 19% *                                                                           | 10%                                          | 17%                                          |
-| Month 6         | NA                                                                              | 18%                                                                             | 30%                                                                             | NA                                           | 21%                                          |
-| Month 12        | NA                                                                              | 23%                                                                             | 29%                                                                             | -                                            | -                                            |
-| ∆ LEI f         |                                                                                 |                                                                                 |                                                                                 |                                              |                                              |
-| Month 3         | -0.4                                                                            | -0.8                                                                            | -1.1 *                                                                          | -0.5                                         | -1.3 *                                       |
-| Month 6         | NA                                                                              | -1.3                                                                            | -1.3                                                                            | NA                                           | -1.5                                         |
-| Month 12        | NA                                                                              | -1.7                                                                            | -1.6                                                                            | -                                            | -                                            |
-| ∆ DSS f         |                                                                                 |                                                                                 |                                                                                 |                                              |                                              |
-| Month 3         | -2.0                                                                            | -3.5                                                                            | -4.0                                                                            | -1.9                                         | -5.2 *                                       |
-| Month 6         | NA                                                                              | -5.2                                                                            | -5.4                                                                            | NA                                           | -6.0                                         |
-| Month 12        | NA                                                                              | -7.4                                                                            | -6.1                                                                            | -                                            | -                                            |
-| PASI75 g        |                                                                                 |                                                                                 |                                                                                 |                                              |                                              |
-| Month 3         | 15%                                                                             | 43% d,***                                                                       | 39% **                                                                          | 14%                                          | 21%                                          |
-| Month 6         | NA                                                                              | 46%                                                                             | 55%                                                                             | NA                                           | 34%                                          |
-| Month 12        | NA                                                                              | 56%                                                                             | 56%                                                                             | -                                            | -                                            |
+|                 | Conventional synthetic DMARD inadequate responders a (TNFi-Naïve) OPAL BROADEN   | Conventional synthetic DMARD inadequate responders a (TNFi-Naïve) OPAL BROADEN   | Conventional synthetic DMARD inadequate responders a (TNFi-Naïve) OPAL BROADEN   | TNFi inadequate responders b OPAL BEYOND c   | TNFi inadequate responders b OPAL BEYOND c   |
+|-----------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------|----------------------------------------------|
+| Treatment group | Placebo                                                                          | Tofacitinib 5 mg twice daily                                                     | Adalimumab 40 mg SC q2W                                                          | Placebo                                      | Tofacitinib 5 mg twice daily                 |
+| N               | 105                                                                              | 107                                                                              | 106                                                                              | 131                                          | 131                                          |
+| ACR20           |                                                                                  |                                                                                  |                                                                                  |                                              |                                              |
+| Month 3         | 33%                                                                              | 50% d,*                                                                          | 52% *                                                                            | 24%                                          | 50% d,***                                    |
+| Month 6         | NA                                                                               | 59%                                                                              | 64%                                                                              | NA                                           | 60%                                          |
+| Month 12        | NA                                                                               | 68%                                                                              | 60%                                                                              | -                                            | -                                            |
+| ACR50           |                                                                                  |                                                                                  |                                                                                  |                                              |                                              |
+| Month 3         | 10%                                                                              | 28% e,**                                                                         | 33% ***                                                                          | 15%                                          | 30% e,*                                      |
+| Month 6         | NA                                                                               | 38%                                                                              | 42%                                                                              | NA                                           | 38%                                          |
+| Month 12        | NA                                                                               | 45%                                                                              | 41%                                                                              | -                                            | -                                            |
+| ACR70           |                                                                                  |                                                                                  |                                                                                  |                                              |                                              |
+| Month 3         | 5%                                                                               | 17% e,*                                                                          | 19% *                                                                            | 10%                                          | 17%                                          |
+| Month 6         | NA                                                                               | 18%                                                                              | 30%                                                                              | NA                                           | 21%                                          |
+| Month 12        | NA                                                                               | 23%                                                                              | 29%                                                                              | -                                            | -                                            |
+| ∆ LEI f         |                                                                                  |                                                                                  |                                                                                  |                                              |                                              |
+| Month 3         | -0.4                                                                             | -0.8                                                                             | -1.1 *                                                                           | -0.5                                         | -1.3 *                                       |
+| Month 6         | NA                                                                               | -1.3                                                                             | -1.3                                                                             | NA                                           | -1.5                                         |
+| Month 12        | NA                                                                               | -1.7                                                                             | -1.6                                                                             | -                                            | -                                            |
+| ∆ DSS f         |                                                                                  |                                                                                  |                                                                                  |                                              |                                              |
+| Month 3         | -2.0                                                                             | -3.5                                                                             | -4.0                                                                             | -1.9                                         | -5.2 *                                       |
+| Month 6         | NA                                                                               | -5.2                                                                             | -5.4                                                                             | NA                                           | -6.0                                         |
+| Month 12        | NA                                                                               | -7.4                                                                             | -6.1                                                                             | -                                            | -                                            |
+| PASI75 g        |                                                                                  |                                                                                  |                                                                                  |                                              |                                              |
+| Month 3         | 15%                                                                              | 43% d,***                                                                        | 39% **                                                                           | 14%                                          | 21%                                          |
+| Month 6         | NA                                                                               | 46%                                                                              | 55%                                                                              | NA                                           | 34%                                          |
+| Month 12        | NA                                                                               | 56%                                                                              | 56%                                                                              | -                                            | -                                            |
 
 * Nominal p≤0.05; ** Nominal p&lt;0.001;  ***  Nominal p&lt;0.0001 for active treatment versus placebo at month 3.
 
@@ -1175,23 +1177,25 @@ In study OPAL BROADEN, the progression of structural joint damage was assessed r
 
 Improvement in physical functioning was measured by the HAQ-DI. Patients receiving tofacitinib 5 mg twice daily demonstrated greater improvement (p≤ 0.05) from baseline in physical functioning compared to placebo at month 3 (see Table 18).
 
-Table 18: Change from baseline in HAQ-DI in PsA studies OPAL BROADEN and OPAL BEYOND
+Table 18:  Change from baseline in HAQ-DI in PsA studies OPAL BROADEN and OPAL BEYOND
 
-|                 | Least squares mean change from baseline in HAQ-DI                             | Least squares mean change from baseline in HAQ-DI                             | Least squares mean change from baseline in HAQ-DI                             | Least squares mean change from baseline in HAQ-DI   | Least squares mean change from baseline in HAQ-DI   |
-|-----------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-|                 | Conventional syntheticDMARD inadequate responders a (TNFi-naïve) OPAL BROADEN | Conventional syntheticDMARD inadequate responders a (TNFi-naïve) OPAL BROADEN | Conventional syntheticDMARD inadequate responders a (TNFi-naïve) OPAL BROADEN | TNFi inadequate responders b OPAL BEYOND            | TNFi inadequate responders b OPAL BEYOND            |
-| Treatment group | Placebo                                                                       | Tofacitinib 5 mg twice daily                                                  | Adalimumab 40 mg SC q2W                                                       | Placebo                                             | Tofacitinib 5 mg twice daily                        |
-| N               | 104                                                                           | 107                                                                           | 106                                                                           | 131                                                 | 129                                                 |
-| Month 3         | -0.18                                                                         | -0.35 c,*                                                                     | -0.38 *                                                                       | -0.14                                               | -0.39 c,***                                         |
-| Month 6         | NA                                                                            | -0.45                                                                         | -0.43                                                                         | NA                                                  | -0.44                                               |
-| Month 12        | NA                                                                            | -0.54                                                                         | -0.45                                                                         | NA                                                  | NA                                                  |
+|                 | Least squares mean change from baseline in HAQ-DI                              | Least squares mean change from baseline in HAQ-DI                              | Least squares mean change from baseline in HAQ-DI                              | Least squares mean change from baseline in HAQ-DI   | Least squares mean change from baseline in HAQ-DI   |
+|-----------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
+|                 | Conventional synthetic DMARD inadequate responders a (TNFi-naïve) OPAL BROADEN | Conventional synthetic DMARD inadequate responders a (TNFi-naïve) OPAL BROADEN | Conventional synthetic DMARD inadequate responders a (TNFi-naïve) OPAL BROADEN | TNFi inadequate responders b OPAL BEYOND            | TNFi inadequate responders b OPAL BEYOND            |
+| Treatment group | Placebo                                                                        | Tofacitinib 5 mg twice daily                                                   | Adalimumab 40 mg SC q2W                                                        | Placebo                                             | Tofacitinib 5 mg twice daily                        |
+| N               | 104                                                                            | 107                                                                            | 106                                                                            | 131                                                 | 129                                                 |
+| Month 3         | -0.18                                                                          | -0.35 c,*                                                                      | -0.38 *                                                                        | -0.14                                               | -0.39 c,***                                         |
+| Month 6         | NA                                                                             | -0.45                                                                          | -0.43                                                                          | NA                                                  | -0.44                                               |
+| Month 12        | NA                                                                             | -0.54                                                                          | -0.45                                                                          | NA                                                  | NA                                                  |
 
 * Nominal p≤0.05; *** Nominal p&lt;0.0001 for active treatment versus placebo at month 3. Abbreviations: DMARD=disease-modifying antirheumatic drug; HAQ-DI=Health Assessment Questionnaire Disability Index; N=total number of patients in the statistical analysis; SC q2w=subcutaneously once every
 
 2 weeks; TNFi=tumour necrosis factor inhibitor.
 
 - a Inadequate response to at least one conventional synthetic DMARD (csDMARD) due to lack of efficacy and/or intolerability.
-- b Inadequate response to a least one TNF inhibitor (TNFi) due to lack of efficacy and/or intolerability.
+
+b Inadequate response to a least one TNF inhibitor (TNFi) due to lack of efficacy and/or intolerability.
+
 - c Achieved statistical significance globally at p≤ 0.05 per the pre-specified step-down testing procedure.
 
 The HAQDI responder rate (response defined as having decrease from baseline of ≥ 0.35) at month 3 in studies OPAL BROADEN and OPAL BEYOND was 53% and 50%, respectively in patients receiving tofacitinib 5 mg twice daily, 31% and 28%, respectively in patients receiving placebo, and 53% in patients receiving adalimumab 40 mg subcutaneously once every 2 weeks (OPAL BROADEN only).
@@ -1216,14 +1220,14 @@ Patients treated with tofacitinib 5 mg twice daily achieved greater improvements
 
 Table 19:  ASAS20 and ASAS40 Responses at Week 16, Study AS-I
 
-|                    |   Placebo (N=136) |   Tofacitinib 5 mg Twice Daily (N=133) | Difference from Placebo (95% CI)   |
-|--------------------|-------------------|----------------------------------------|------------------------------------|
-| ASAS20 response*,% |                29 |                                     56 | 27 (16, 38)**                      |
-| ASAS40 response*,% |                13 |                                     41 | 28 (18, 38)**                      |
+|                     |   Placebo (N=136) |   Tofacitinib 5 mg Twice Daily (N=133) | Difference from Placebo (95% CI)   |
+|---------------------|-------------------|----------------------------------------|------------------------------------|
+| ASAS20 response*, % |                29 |                                     56 | 27 (16, 38)**                      |
+| ASAS40 response*, % |                13 |                                     41 | 28 (18, 38)**                      |
 
 The efficacy of tofacitinib was demonstrated in bDMARD naïve and TNF-inadequate responders (IR)/bDMARD experienced (non-IR) patients (Table 20).
 
-Table 20. ASAS20 and ASAS40 Responses (%) by Treatment History at Week 16, Study AS-I
+Table 20.  ASAS20 and ASAS40 Responses (%) by Treatment History at Week 16, Study AS-I
 
 | Prior Treatment History        | Efficacy Endpoint   | Efficacy Endpoint              | Efficacy Endpoint                | Efficacy Endpoint   | Efficacy Endpoint               | Efficacy Endpoint                |
 |--------------------------------|---------------------|--------------------------------|----------------------------------|---------------------|---------------------------------|----------------------------------|
@@ -1261,11 +1265,9 @@ Patients treated with tofacitinib 5 mg twice daily achieved greater improvements
 
 ## Ulcerative colitis
 
-The efficacy and safety of tofacitinib film-coated tablets for the treatment of adult patients with moderately to severely active UC (Mayo score 6 to 12 with endoscopy subscore ≥ 2 and rectal bleeding subscore ≥ 1) were assessed in 3 multicentre, double-blind, randomised, placebo-controlled studies: 2 identical induction studies (OCTAVE Induction 1 and OCTAVE Induction 2) followed by 1 maintenance study (OCTAVE Sustain). Enrolled patients had failed at least 1 conventional therapy, including corticosteroids, immunomodulators, and/or a TNF inhibitor. Concomitant stable doses of oral aminosalicylates and corticosteroids (prednisone or equivalent daily dose up to 25 mg) were permitted with taper of corticosteroids to discontinuation mandated within 15 weeks of entering the
+The efficacy and safety of tofacitinib film-coated tablets for the treatment of adult patients with moderately to severely active UC (Mayo score 6 to 12 with endoscopy subscore ≥ 2 and rectal bleeding subscore ≥ 1) were assessed in 3 multicentre, double-blind, randomised, placebo-controlled studies: 2 identical induction studies (OCTAVE Induction 1 and OCTAVE Induction 2) followed by 1 maintenance study (OCTAVE Sustain). Enrolled patients had failed at least 1 conventional therapy, including corticosteroids, immunomodulators, and/or a TNF inhibitor. Concomitant stable doses of oral aminosalicylates and corticosteroids (prednisone or equivalent daily dose up to 25 mg) were permitted with taper of corticosteroids to discontinuation mandated within 15 weeks of entering the maintenance study. Tofacitinib was administered as monotherapy (i.e., without concomitant use of biologics and immunosuppressants) for UC.
 
 <div style=\"page-break-after: always\"></div>
-
-maintenance study. Tofacitinib was administered as monotherapy (i.e., without concomitant use of biologics and immunosuppressants) for UC.
 
 Table 22 provides additional information regarding pertinent study design and population characteristics.
 
@@ -1293,9 +1295,9 @@ The primary endpoint of OCTAVE Induction 1 and OCTAVE Induction 2 was the propor
 
 A significantly greater proportion of patients treated with tofacitinib 10 mg twice daily achieved remission, improvement of endoscopic appearance of the mucosa, and clinical response at week 8 compared to placebo in both studies, as shown in Table 23.
 
-<div style=\"page-break-after: always\"></div>
-
 The efficacy results based on the endoscopic readings at the study sites were consistent with the results based on the central endoscopy readings.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 23:  Proportion of patients meeting efficacy endpoints at week 8 (OCTAVE induction study 1 and OCTAVE induction study 2)
 
@@ -1317,43 +1319,42 @@ Table 23:  Proportion of patients meeting efficacy endpoints at week 8 (OCTAVE i
 | Normalisation of endoscopic appearance of the mucosa c | 1.8%                       | 7.0% ‡                        | 0.0%                       | 9.1% ‡                        |
 | Clinical response d                                    | 28.6%                      | 55.0%*                        | 29.5%                      | 58.0%*                        |
 
-* p&lt;0.0001; † p&lt;0.001; ‡ p&lt;0.05.
-
 N=number of patients in the analysis set.
 
 - a. Primary endpoint: Remission was defined as clinical remission (a Mayo score ≤ 2 with no individual subscore &gt; 1) and rectal bleeding subscore of 0.
 - b. Key secondary endpoint: Improvement of endoscopic appearance of the mucosa was defined as Mayo endoscopy subscore of 0 (normal or inactive disease) or 1 (erythema, decreased vascular pattern).
 - c. Normalisation of endoscopic appearance of the mucosa was defined as a Mayo endoscopic subscore of 0.
-
-d. Clinical response was defined as a decrease from baseline in Mayo score of ≥ 3 points and ≥ 30%, with an accompanying decrease in the subscore for rectal bleeding of ≥ 1 point or absolute subscore for rectal bleeding of 0 or 1.
+- d. Clinical response was defined as a decrease from baseline in Mayo score of ≥ 3 points and ≥ 30%, with an accompanying decrease in the subscore for rectal bleeding of ≥ 1 point or absolute subscore for rectal bleeding of 0 or 1.
 
 In both subgroups of patients with or without prior TNF inhibitor failure, a greater proportion of patients treated with tofacitinib 10 mg twice daily achieved remission and improvement of endoscopic appearance of the mucosa at week 8 as compared to placebo. This treatment difference was consistent between the 2 subgroups (Table 24).
 
-<div style=\"page-break-after: always\"></div>
-
 Table 24.  Proportion of patients meeting primary and key secondary efficacy endpoints at week 8 by TNF inhibitor therapy subgroups (OCTAVE induction study 1 and OCTAVE induction study 2, central endoscopy read)
 
-| OCTAVE induction study 1                             | OCTAVE induction study 1                             | OCTAVE induction study 1                             |
-|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| Endpoint                                             | Placebo N=122                                        | Tofacitinib 10 mg twice daily N=476                  |
-| Remission a                                          |                                                      |                                                      |
-| With prior TNF inhibitor failure                     | 1.6% (1/64)                                          | 11.1% (27/243)                                       |
-| Without prior TNF inhibitor failure b                | 15.5% (9/58)                                         | 26.2% (61/233)                                       |
-| Improvement of endoscopic appearance of the mucosa c | Improvement of endoscopic appearance of the mucosa c |                                                      |
-| With prior TNF inhibitor failure                     | 6.3% (4/64)                                          | 22.6% (55/243)                                       |
-| Without prior TNF inhibitor failure b                | 25.9% (15/58)                                        | 40.3% (94/233)                                       |
-| OCTAVE induction study 2                             | OCTAVE induction study 2                             | OCTAVE induction study 2                             |
-| Endpoint                                             | Placebo N=112                                        | Tofacitinib 10 mg twice daily N=429                  |
-| Remission a                                          |                                                      |                                                      |
-| With prior TNF inhibitor failure                     | 0.0% (0/60)                                          | 11.7% (26/222)                                       |
-| Without prior TNF inhibitor failure b                | 7.7% (4/52)                                          | 21.7% (45/207)                                       |
-| Improvement of endoscopic appearance of the mucosa c | Improvement of endoscopic appearance of the mucosa c | Improvement of endoscopic appearance of the mucosa c |
-| With prior TNF inhibitor failure                     | 6.7% (4/60)                                          | 21.6% (48/222)                                       |
-| Without prior TNF inhibitor failure b                | 17.3% (9/52)                                         | 35.7% (74/207)                                       |
+| OCTAVE induction study 1                             | OCTAVE induction study 1                             | OCTAVE induction study 1            |
+|------------------------------------------------------|------------------------------------------------------|-------------------------------------|
+| Endpoint                                             | Placebo N=122                                        | Tofacitinib 10 mg twice daily N=476 |
+| Remission a                                          |                                                      |                                     |
+| With prior TNF inhibitor failure                     | 1.6% (1/64)                                          | 11.1% (27/243)                      |
+| Without prior TNF inhibitor failure b                | 15.5% (9/58)                                         | 26.2% (61/233)                      |
+| Improvement of endoscopic appearance of the mucosa c | Improvement of endoscopic appearance of the mucosa c |                                     |
+| With prior TNF inhibitor failure                     | 6.3% (4/64)                                          | 22.6% (55/243)                      |
+| Without prior TNF inhibitor failure b                | 25.9% (15/58)                                        | 40.3% (94/233)                      |
+
+<div style=\"page-break-after: always\"></div>
+
+| OCTAVE induction study 2                             | OCTAVE induction study 2                             | OCTAVE induction study 2            |
+|------------------------------------------------------|------------------------------------------------------|-------------------------------------|
+| Endpoint                                             | Placebo N=112                                        | Tofacitinib 10 mg twice daily N=429 |
+| Remission a                                          |                                                      |                                     |
+| With prior TNF inhibitor failure                     | 0.0% (0/60)                                          | 11.7% (26/222)                      |
+| Without prior TNF inhibitor failure b                | 7.7% (4/52)                                          | 21.7% (45/207)                      |
+| Improvement of endoscopic appearance of the mucosa c | Improvement of endoscopic appearance of the mucosa c |                                     |
+| With prior TNF inhibitor failure                     | 6.7% (4/60)                                          | 21.6% (48/222)                      |
+| Without prior TNF inhibitor failure b                | 17.3% (9/52)                                         | 35.7% (74/207)                      |
 
 TNF=tumour necrosis factor; N=number of patients in the analysis set.
 
-a. Remission was defined as clinical remission (a Mayo score ≤ 2 with no individual subscore &gt; 1) and rectal bleeding subscore of 0.
+- a. Remission was defined as clinical remission (a Mayo score ≤ 2 with no individual subscore &gt; 1) and rectal bleeding subscore of 0.
 
 b. Included TNF Inhibitor naïve patients
 
@@ -1369,62 +1370,70 @@ The primary endpoint in OCTAVE Sustain was the proportion of patients in remissi
 
 A significantly greater proportion of patients in both the tofacitinib 5 mg twice daily and tofacitinib 10 mg twice daily treatment groups achieved the following endpoints at week 52 as compared to placebo: remission, improvement of endoscopic appearance of the mucosa, normalisation of endoscopic appearance of the mucosa, maintenance of clinical response, remission among patients in remission at baseline, and sustained corticosteroid-free remission at both week 24 and week 52 among patients in remission at baseline, as shown in Table 25.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 25:  Proportion of patients meeting efficacy endpoints at week 52 (OCTAVE sustain)
 
-|                                                                                                                 | Central endoscopy read   | Central endoscopy read             | Central endoscopy read              | Local endoscopy read   | Local endoscopy read               | Local endoscopy read                |
-|-----------------------------------------------------------------------------------------------------------------|--------------------------|------------------------------------|-------------------------------------|------------------------|------------------------------------|-------------------------------------|
-| Endpoint                                                                                                        | Placebo N=198            | Tofacitinib 5 mg twice daily N=198 | Tofacitinib 10 mg twice daily N=197 | Placebo N=198          | Tofacitinib 5 mg twice daily N=198 | Tofacitinib 10 mg twice daily N=197 |
-| Remission a                                                                                                     | 11.1%                    | 34.3%*                             | 40.6%*                              | 13.1%                  | 39.4%*                             | 47.7%*                              |
-| Improvement of endoscopic appearance of the mucosa b                                                            | 13.1%                    | 37.4%*                             | 45.7%*                              | 15.7%                  | 44.9%*                             | 53.8%*                              |
-| Normalisation of endoscopic appearance of the mucosa c                                                          | 4.0%                     | 14.6%**                            | 16.8%*                              | 5.6%                   | 22.2%*                             | 29.4%*                              |
-| Maintenance of clinical response d                                                                              | 20.2%                    | 51.5%*                             | 61.9%*                              | 20.7%                  | 51.0%*                             | 61.4%*                              |
-| Remission among patients in remission at baseline a,f                                                           | 10.2%                    | 46.2%*                             | 56.4%*                              | 11.9%                  | 50.8%*                             | 65.5%*                              |
-| Sustained corticosteroid-free remission at both week 24 and week 52 among patients in remission at baseline e,f | 5.1%                     | 35.4%*                             | 47.3%*                              | 11.9%                  | 47.7%*                             | 58.2%*                              |
-| Corticosteroid-free remission among patients taking corticosteroids at baseline a,g                             | 10.9%                    | 27.7% †                            | 27.6% †                             | 13.9%                  | 32.7% †                            | 31.0% †                             |
+|                                                        | Central endoscopy read   | Central endoscopy read             | Central endoscopy read              | Local endoscopy read   | Local endoscopy read               | Local endoscopy read                |
+|--------------------------------------------------------|--------------------------|------------------------------------|-------------------------------------|------------------------|------------------------------------|-------------------------------------|
+| Endpoint                                               | Placebo N=198            | Tofacitinib 5 mg twice daily N=198 | Tofacitinib 10 mg twice daily N=197 | Placebo N=198          | Tofacitinib 5 mg twice daily N=198 | Tofacitinib 10 mg twice daily N=197 |
+| Remission a                                            | 11.1%                    | 34.3%*                             | 40.6%*                              | 13.1%                  | 39.4%*                             | 47.7%*                              |
+| Improvement of endoscopic appearance of the mucosa b   | 13.1%                    | 37.4%*                             | 45.7%*                              | 15.7%                  | 44.9%*                             | 53.8%*                              |
+| Normalisation of endoscopic appearance of the mucosa c | 4.0%                     | 14.6%**                            | 16.8%*                              | 5.6%                   | 22.2%*                             | 29.4%*                              |
+
+<div style=\"page-break-after: always\"></div>
+
+| Maintenance of clinical response d                                                                              | 20.2%   | 51.5%*   | 61.9%*   | 20.7%   | 51.0%*   | 61.4%*   |
+|-----------------------------------------------------------------------------------------------------------------|---------|----------|----------|---------|----------|----------|
+| Remission among patients in remission at baseline a,f                                                           | 10.2%   | 46.2%*   | 56.4%*   | 11.9%   | 50.8%*   | 65.5%*   |
+| Sustained corticosteroid-free remission at both week 24 and week 52 among patients in remission at baseline e,f | 5.1%    | 35.4%*   | 47.3%*   | 11.9%   | 47.7%*   | 58.2%*   |
+| Corticosteroid-free remission among patients taking corticosteroids at baseline a,g                             | 10.9%   | 27.7% †  | 27.6% †  | 13.9%   | 32.7% †  | 31.0% †  |
 
 * p&lt;0.0001; **p&lt;0.001; †p&lt;0.05 for tofacitinib versus placebo.
 
 N=number of patients in the analysis set.
 
-- a. Remission was defined as clinical remission (a Mayo score ≤ 2 with no individual subscore &gt; 1) and rectal bleeding subscore of 0.
-- b. Improvement of endoscopic appearance of the mucosa was defined as Mayo endoscopy subscore of 0 (normal or inactive disease) or 1 (erythema, decreased vascular pattern).
-- c. Normalisation of endoscopic appearance of the mucosa was defined as a Mayo endoscopic subscore of 0.
-- d. Maintenance of clinical response was defined by a decrease from the induction study (OCTAVE Induction 1, OCTAVE Induction 2) baseline Mayo score of ≥ 3 points and ≥ 30%, with an accompanying decrease in the rectal bleeding subscore of ≥ 1 point or rectal bleeding subscore of 0 or 1. Patients were to be in clinical response at baseline of the maintenance study OCTAVE Sustain.
+a. Remission was defined as clinical remission (a Mayo score ≤ 2 with no individual subscore &gt; 1) and rectal bleeding subscore of 0.
+
+b. Improvement of endoscopic appearance of the mucosa was defined as Mayo endoscopy subscore of 0 (normal or inactive disease) or 1 (erythema, decreased vascular pattern).
+
+c. Normalisation of endoscopic appearance of the mucosa was defined as a Mayo endoscopic subscore of 0.
+
+d. Maintenance of clinical response was defined by a decrease from the induction study (OCTAVE Induction 1, OCTAVE Induction 2) baseline Mayo score of ≥ 3 points and ≥ 30%, with an accompanying decrease in the rectal bleeding subscore of ≥ 1 point or rectal bleeding subscore of 0 or 1. Patients were to be in clinical response at baseline of the maintenance study OCTAVE Sustain.
+
 - e. Sustained corticosteroid-free remission was defined as being in remission and not taking corticosteroids for at least 4 weeks prior to the visit at both week 24 and week 52.
 - f. N=59 for placebo, N=65 for tofacitinib 5 mg twice daily, N=55 for tofacitinib 10 mg twice daily.
-- g. N=101 for placebo, N=101 for tofacitinib 5 mg twice daily, N=87 for tofacitinib 10 mg twice daily.
+
+g. N=101 for placebo, N=101 for tofacitinib 5 mg twice daily, N=87 for tofacitinib 10 mg twice daily.
 
 In both subgroups of patients with or without prior TNF inhibitor failure, a greater proportion of patients treated with either tofacitinib 5 mg twice daily or tofacitinib 10 mg twice daily achieved the following endpoints at week 52 of OCTAVE Sustain as compared to placebo: remission, improvement of endoscopic appearance of the mucosa, or sustained corticosteroid-free remission at both week 24 and week 52 among patients in remission at baseline (Table 26). This treatment difference from placebo was similar between tofacitinib 5 mg twice daily and tofacitinib 10 mg twice daily in the subgroup of patients without prior TNF inhibitor failure. In the subgroup of patients with prior TNF inhibitor failure, the observed treatment difference from placebo was numerically greater for tofacitinib 10 mg twice daily than tofacitinib 5 mg twice daily by 9.7 to 16.7 percentage points across the primary and key secondary endpoints.
 
-<div style=\"page-break-after: always\"></div>
-
 Table 26:  Proportion of patients meeting primary and key secondary efficacy endpoints at week 52 by TNF inhibitor therapy subgroup (OCTAVE sustain, central endoscopy read)
 
-| Endpoint                                                                                                      | Placebo N=198                                                                                                 | Tofacitinib 5 mg twice daily N=198                                                                            | Tofacitinib 10 mg twice daily N=197                                                                           |
-|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Remission a                                                                                                   |                                                                                                               |                                                                                                               |                                                                                                               |
-| With prior TNF inhibitor failure                                                                              | 10/89 (11.2%)                                                                                                 | 20/83 (24.1%)                                                                                                 | 34/93 (36.6%)                                                                                                 |
-| Without prior TNF inhibitor failure b                                                                         | 12/109 (11.0%)                                                                                                | 48/115 (41.7%)                                                                                                | 46/104 (44.2%)                                                                                                |
+| Endpoint                              | Placebo N=198   | Tofacitinib 5 mg twice daily N=198   | Tofacitinib 10 mg twice daily N=197   |
+|---------------------------------------|-----------------|--------------------------------------|---------------------------------------|
+| Remission a                           |                 |                                      |                                       |
+| With prior TNF inhibitor failure      | 10/89 (11.2%)   | 20/83 (24.1%)                        | 34/93 (36.6%)                         |
+| Without prior TNF inhibitor failure b | 12/109 (11.0%)  | 48/115 (41.7%)                       | 46/104 (44.2%)                        |
+
+<div style=\"page-break-after: always\"></div>
+
 | Improvement of endoscopic appearance of the mucosa c                                                          | Improvement of endoscopic appearance of the mucosa c                                                          | Improvement of endoscopic appearance of the mucosa c                                                          | Improvement of endoscopic appearance of the mucosa c                                                          |
+|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | With prior TNF inhibitor failure                                                                              | 11/89 (12.4%)                                                                                                 | 25/83 (30.1%)                                                                                                 | 37/93 (39.8%)                                                                                                 |
 | Without prior TNF inhibitor failure b                                                                         | 15/109 (13.8%)                                                                                                | 49/115 (42.6%)                                                                                                | 53/104 (51.0%)                                                                                                |
 | Sustained corticosteroid-free remission at both week 24 and week 52 among patients in remission at baseline d | Sustained corticosteroid-free remission at both week 24 and week 52 among patients in remission at baseline d | Sustained corticosteroid-free remission at both week 24 and week 52 among patients in remission at baseline d | Sustained corticosteroid-free remission at both week 24 and week 52 among patients in remission at baseline d |
 | With prior TNF inhibitor failure                                                                              | 1/21 (4.8%)                                                                                                   | 4/18 (22.2%)                                                                                                  | 7/18 (38.9%)                                                                                                  |
 | Without prior TNF inhibitor failure b                                                                         | 2/38 (5.3%)                                                                                                   | 19/47 (40.4%)                                                                                                 | 19/37 (51.4%)                                                                                                 |
 
-The proportion of patients in both tofacitinib groups who had treatment failure was lower compared to placebo at each time point as early as week 8, the first time point where treatment failure was assessed, as shown in Figure 2.
+- a. Remission was defined as clinical remission (a Mayo score ≤ 2 with no individual subscore &gt; 1) and rectal bleeding subscore of 0.
+- b. Included TNF Inhibitor naïve patients.
+- c. Improvement of endoscopic appearance of the mucosa was defined as Mayo endoscopy subscore of 0 (normal or inactive disease) or 1 (erythema, decreased vascular pattern).
+- d. Sustained corticosteroid-free remission was defined as being in remission and not taking corticosteroids for at least 4 weeks prior to the visit at both week 24 and week 52.
 
-<div style=\"page-break-after: always\"></div>
+The proportion of patients in both tofacitinib groups who had treatment failure was lower compared to placebo at each time point as early as week 8, the first time point where treatment failure was assessed, as shown in Figure 2.
 
 Figure 2.  Time to treatment failure in maintenance study OCTAVE sustain (Kaplan-Meier Curves)
 
 <!-- image -->
-
-p&lt;0.0001 for tofacitinib 5 mg twice daily versus placebo.
-
-p&lt;0.0001 for tofacitinib 10 mg twice daily versus placebo.
 
 BID=twice daily.
 
@@ -1434,6 +1443,8 @@ Treatment failure was defined as an increase in Mayo score of ≥ 3 points from 
 
 Tofacitinib 10 mg twice daily demonstrated greater improvement from baseline compared to placebo in physical component summary (PCS) and mental component summary (MCS) scores, and in all 8 domains of the SF-36 in the induction studies (OCTAVE Induction 1, OCTAVE Induction 2). In the maintenance study (OCTAVE Sustain), tofacitinib 5 mg twice daily or tofacitinib 10 mg twice daily demonstrated greater maintenance of improvement compared to placebo in PCS and MCS scores, and in all 8 domains of the SF-36 at week 24 and week 52.
 
+<div style=\"page-break-after: always\"></div>
+
 Tofacitinib 10 mg twice daily demonstrated greater improvement from baseline compared to placebo at week 8 in the total and all 4 domain scores of the Inflammatory Bowel Disease Questionnaire (IBDQ) (bowel symptoms, systemic function, emotional function, and social function) in the induction studies (OCTAVE Induction 1, OCTAVE Induction 2). In the maintenance study (OCTAVE Sustain), tofacitinib 5 mg twice daily or tofacitinib 10 mg twice daily demonstrated greater maintenance of improvement compared to placebo in the total and all 4 domain scores of the IBDQ at week 24 and week 52.
 
 Improvements were also observed in the EuroQoL 5-Dimension (EQ-5D) and various domains of the Work Productivity and Activity Impairment (WPAI-UC) questionnaire in both induction and maintenance studies compared to placebo.
@@ -1441,8 +1452,6 @@ Improvements were also observed in the EuroQoL 5-Dimension (EQ-5D) and various d
 ## Open-label extension study (OCTAVE Open)
 
 Patients who did not achieve clinical response in one of the induction studies (OCTAVE Induction 1 or OCTAVE Induction 2) after 8 weeks of tofacitinib 10 mg twice daily were allowed to enter an open-label extension study (OCTAVE Open). After an additional 8 weeks of tofacitinib 10 mg twice daily in OCTAVE Open, 53% (154/293) patients achieved clinical response and 14% (42/293) patients achieved remission.
-
-<div style=\"page-break-after: always\"></div>
 
 Patients who achieved clinical response in 1 of the induction studies (OCTAVE Induction 1 or OCTAVE Induction 2) with tofacitinib 10 mg twice daily but experienced treatment failure after their dose was reduced to tofacitinib 5 mg twice daily or following treatment interruption in OCTAVE Sustain (i.e., were randomised to placebo), had their dose increased to tofacitinib 10 mg twice daily in OCTAVE Open. After 8 weeks on tofacitinib 10 mg twice daily in OCTAVE Open, remission was achieved in 35% (20/58) patients who received tofacitinib 5 mg twice daily in OCTAVE Sustain and 40% (40/99) patients with dose interruption in OCTAVE Sustain. At month 12 in OCTAVE Open, 52% (25/48) and 45% (37/83) of these patients achieved remission, respectively.
 
@@ -1456,7 +1465,11 @@ The European Medicines Agency has deferred the obligation to submit results of s
 
 The tofacitinib Phase 3 program for JIA consisted of one completed Phase 3 trial (Study JIA-I [A3921104]) and one ongoing long-term extension (LTE) (A3921145) trial. In these studies the following JIA subgroups were included: patients with either RF+ or RF- polyarthritis, extended oligoarthritis, systemic JIA with active arthritis and no current systemic symptoms (referred as pJIA dataset) and two separate subgroups of patients with juvenile PsA and enthesitis-related arthritis (ERA). However, the pJIA efficacy population only includes the subgroups with either RF+ or RFpolyarthritis or extended oligoarthritis; inconclusive results have been seen in the subgroup of patients with systemic JIA with active arthritis and no current systemic symptoms. Patients with juvenile PsA are included as separate efficacy subgroup. ERA patients are not included in the efficacy analysis.
 
-All eligible patients in Study JIA-I received open-label tofacitinib 5 mg film-coated tablets twice daily or tofacitinib oral solution weight-based equivalent twice daily for 18 weeks (run-in phase); patients who achieved at least a JIA ACR30 response at the end of the open-label phase were randomised (1:1) to either active tofacitinib 5 mg film-coated tablets or tofacitinib oral solution, or placebo in the 26-week double-blind, placebo-controlled phase. Patients who did not achieve a JIA ACR30 response at the end of the open-label run-in phase or experienced a single episode of disease flare at any time were discontinued from the study. A total of 225 patients were enrolled in the open-label run-in phase. Of these, 173 (76.9%) patients were eligible to be randomised into the double-blind phase to either active tofacitinib 5 mg film-coated tablets or tofacitinib oral solution weight-based equivalent twice daily (n=88) or placebo (n=85). There were 58 (65.9%) patients in the tofacitinib group and 58 (68.2%) patients in the placebo group taking MTX during the double-blind phase, which was permitted but not required per the protocol.
+All eligible patients in Study JIA-I received open-label tofacitinib 5 mg film-coated tablets twice daily or tofacitinib oral solution weight-based equivalent twice daily for 18 weeks (run-in phase); patients who achieved at least a JIA ACR30 response at the end of the open-label phase were randomised (1:1) to either active tofacitinib 5 mg film-coated tablets or tofacitinib oral solution, or placebo in the
+
+<div style=\"page-break-after: always\"></div>
+
+26-week double-blind, placebo-controlled phase. Patients who did not achieve a JIA ACR30 response at the end of the open-label run-in phase or experienced a single episode of disease flare at any time were discontinued from the study. A total of 225 patients were enrolled in the open-label run-in phase. Of these, 173 (76.9%) patients were eligible to be randomised into the double-blind phase to either active tofacitinib 5 mg film-coated tablets or tofacitinib oral solution weight-based equivalent twice daily (n=88) or placebo (n=85). There were 58 (65.9%) patients in the tofacitinib group and 58 (68.2%) patients in the placebo group taking MTX during the double-blind phase, which was permitted but not required per the protocol.
 
 There were 133 patients with pJIA [RF+ or RF- polyarthritis and extended oligoarthritis] and 15 with juvenile PsA randomised into the double-blind phase of the study and included in the efficacy analyses presented below.
 
@@ -1464,42 +1477,59 @@ There were 133 patients with pJIA [RF+ or RF- polyarthritis and extended oligoar
 
 A significantly smaller proportion of patients with pJIA in Study JIA-I treated with tofacitinib 5 mg film-coated tablets twice daily or tofacitinib oral solution weight-based equivalent twice daily flared at Week 44 compared with patients treated with placebo. A significantly greater proportion of patients with pJIA treated with tofacitinib 5 mg film-coated tablets or tofacitinib oral solution achieved JIA ACR30, 50, and 70 responses compared to patients treated with placebo at Week 44 (Table 27).
 
-<div style=\"page-break-after: always\"></div>
-
 The occurrence of disease flare and JIA ACR30/50/70 results were favourable to tofacitinib 5 mg twice daily in comparison to placebo across the RF+ polyarthritis, RF- polyarthritis, extended oligoarthritis, and jPsA JIA subtypes and were consistent with those for the overall study population. The occurrence of disease flare and JIA ACR30/50/70 results were favourable to tofacitinib 5 mg twice daily in comparison to placebo for pJIA patients who received tofacitinib 5 mg twice daily with concomitant MTX use on Day 1 [n=101 (76%)] and those who were on tofacitinib monotherapy [n=32 (24%)]. In addition, the occurrence of disease flare and JIA ACR30/50/70 results were also favourable to tofacitinib 5 mg twice daily compared to placebo for pJIA patients who had prior bDMARD experience [n=39 (29%)] and those who were bDMARD naïve [n=94 (71%)].
 
 In Study JIA-I at Week 2 of the open-label run-in phase, the JIA ACR30 response in patients with pJIA was 45.03%.
 
 Table 27:  Primary and secondary efficacy endpoints in patients with pJIA at Week 44* in Study JIA-I (all p-values&lt;0.05)
 
-| Primary endpoint (Type I error controlled)                 | Treatment group                           | Occurrence rate   | Difference (%) from placebo (95% CI)   |
-|------------------------------------------------------------|-------------------------------------------|-------------------|----------------------------------------|
-| Occurrence of disease flare                                | Tofacitinib 5 mg Twice Daily (N=67)       | 28%               | -24.7 (-40.8, -8.5)                    |
-| Occurrence of disease flare                                | Placebo (N=66)                            | 53%               | -24.7 (-40.8, -8.5)                    |
-| Secondary endpoints (Type I error controlled)              | Treatment group                           | Response rate     | Difference (%) from placebo (95% CI)   |
-| JIA ACR30                                                  | Tofacitinib 5 mg Twice Daily (N=67)       | 72%               | 24.7 (8.50, 40.8)                      |
-| JIA ACR30                                                  | Placebo (N=66)                            | 47%               | 24.7 (8.50, 40.8)                      |
-| JIA ACR50                                                  | Tofacitinib 5 mg Twice Daily (N=67)       | 67%               | 20.2 (3.72, 36.7)                      |
-| JIA ACR50                                                  | Placebo (N=66)                            | 47%               | 20.2 (3.72, 36.7)                      |
-| JIA ACR70                                                  | Tofacitinib 5 mg Twice Daily (N=67)       | 55%               | 17.4 (0.65, 34.0)                      |
-| JIA ACR70                                                  | Placebo (N=66)                            | 38%               | 17.4 (0.65, 34.0)                      |
-| Secondary endpoint (Type I error controlled)               | Treatment group                           | LS mean (SEM)     | Difference from placebo (95% CI)       |
-| Change from Double-Blind Baseline in CHAQ Disability Index | Tofacitinib 5 mg Twice Daily (N=67; n=46) | -0.11 (0.04)      | -0.11 (-0.22, -0.01)                   |
-| Change from Double-Blind Baseline in CHAQ Disability Index | Placebo (N=66; n=31)                      | 0.00 (0.04)       | -0.11 (-0.22, -0.01)                   |
-
-ACR = American College of Rheumatology; CHAQ = childhood health assessment questionnaire; CI = confidence interval; LS = least squares; n = number of patients with observations at the visit; N = total number of patients; JIA = juvenile idiopathic arthritis; SEM = standard error of the mean
-
-* The 26-week double-blind phase is from Week 18 through Week 44 on and after randomisation day.
-
-The Type-I error-controlled endpoints are tested in this order: Disease Flare, JIA ACR50, JIA ACR30, JIA ACR70, CHAQ Disability Index.
-
-In the double-blind phase, each of the components of the JIA ACR response showed greater improvement from the open-label baseline (Day 1) at Week 24, and Week 44 for patients with pJIA treated with tofacitinib oral solution dosed as 5 mg twice daily or weight-based equivalent twice daily compared with those receiving placebo in Study JIA-I.
+| Primary endpoint (Type I error controlled)   | Treatment group                     | Occurrence rate   | Difference (%) from placebo (95% CI)   |
+|----------------------------------------------|-------------------------------------|-------------------|----------------------------------------|
+| Occurrence of disease flare                  | Tofacitinib 5 mg Twice Daily (N=67) | 28%               | -24.7 (-40.8, -8.5)                    |
+| Occurrence of disease flare                  | Placebo (N=66)                      | 53%               | -24.7 (-40.8, -8.5)                    |
 
 <div style=\"page-break-after: always\"></div>
+
+| Secondary endpoints (Type I error controlled)              | Treatment group                           | Response rate   | Difference (%) from placebo (95% CI)   |
+|------------------------------------------------------------|-------------------------------------------|-----------------|----------------------------------------|
+| JIA ACR30                                                  | Tofacitinib 5 mg Twice Daily (N=67)       | 72%             | 24.7 (8.50, 40.8)                      |
+| JIA ACR30                                                  | Placebo (N=66)                            | 47%             | 24.7 (8.50, 40.8)                      |
+| JIA ACR50                                                  | Tofacitinib 5 mg Twice Daily (N=67)       | 67%             | 20.2 (3.72, 36.7)                      |
+| JIA ACR50                                                  | Placebo (N=66)                            | 47%             | 20.2 (3.72, 36.7)                      |
+| JIA ACR70                                                  | Tofacitinib 5 mg Twice Daily (N=67)       | 55%             | 17.4 (0.65, 34.0)                      |
+| JIA ACR70                                                  | Placebo (N=66)                            | 38%             | 17.4 (0.65, 34.0)                      |
+| Secondary endpoint (Type I error controlled)               | Treatment group                           | LS mean (SEM)   | Difference from placebo (95% CI)       |
+| Change from Double-Blind Baseline in CHAQ Disability Index | Tofacitinib 5 mg Twice Daily (N=67; n=46) | -0.11 (0.04)    | -0.11 (-0.22, -0.01)                   |
+| Change from Double-Blind Baseline in CHAQ Disability Index | Placebo (N=66; n=31)                      | 0.00 (0.04)     | -0.11 (-0.22, -0.01)                   |
+
+ACR = American College of Rheumatology; CHAQ = childhood health assessment questionnaire; CI = confidence interval; LS = least squares; n = number of patients with observations at the visit; N = total number of patients; JIA = juvenile idiopathic arthritis; SEM = standard error of the mean.
+
+* The 26-week double-blind phase is from Week 18 through Week 44 on and after randomisation day. The Type-I error-controlled endpoints are tested in this order: Disease Flare, JIA ACR50, JIA ACR30, JIA ACR70, CHAQ Disability Index.
+
+In the double-blind phase, each of the components of the JIA ACR response showed greater improvement from the open-label baseline (Day 1) at Week 24, and Week 44 for patients with pJIA treated with tofacitinib oral solution dosed as 5 mg twice daily or weight-based equivalent twice daily compared with those receiving placebo in Study JIA-I.
 
 ## Physical function and health-related quality of life
 
 Changes in physical function in Study JIA-I were measured by the CHAQ Disability Index. The mean change from the double-blind baseline in CHAQ-Disability Index in patients with pJIA was significantly lower in the tofacitinib 5 mg film-coated tablets twice daily or tofacitinib oral solution weight-based equivalent twice daily compared to placebo at Week 44 (Table 27). The mean change from the double-blind baseline in CHAQ Disability Index results were favourable to tofacitinib 5 mg twice daily in comparison to placebo across the RF+ polyarthritis, RF- polyarthritis, extended oligoarthritis, and jPsA JIA subtypes and were consistent with those for the overall study population.
+
+## Long-term extension study
+
+In the LTE study, 152 patients with pJIA from Study JIA-I received open-label tofacitinib 5 mg twice daily for up to 7.5 years. Patients who discontinued during the open-label (OL) phase of Study JIA-I (tofacitinib OL) and those who entered the double-blind (DB) phase and received tofacitinib 5 mg twice daily (tofacitinib-tofacitinib DB) or placebo (tofacitinib-placebo DB) were eligible to enrol in the LTE study if they met entry criteria. Most patients who entered the DB phase of Study JIA-I entered the LTE study (64/67 from tofacitinib-tofacitinib DB and 64/66 from tofacitinib-placebo DB). Median tofacitinib exposure was 46.3 months (range: 1.0, 88.4) for tofacitinib-tofacitinib DB and 43.8 months (range: 1.5, 89.0) for tofacitinib-placebo DB groups, respectively. JIA ACR response rates at Month 45, using observed and a modified non-responder imputation (where patients who discontinued due to insufficient clinical response or adverse event were considered non-responders), are presented in Table 28 for the tofacitinib-tofacitinib DB and tofacitinib-placebo DB groups.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 28:  Efficacy endpoints at Month 45 of the LTE study in patients with pJIA (observed and modified non-responder imputation analyses)
+
+|                                     | Tofacitinib - Tofacitinib DB (N=64)   | Tofacitinib - Tofacitinib DB (N=64)   | Tofacitinib - Placebo DB (N=64)   | Tofacitinib - Placebo DB (N=64)   |
+|-------------------------------------|---------------------------------------|---------------------------------------|-----------------------------------|-----------------------------------|
+|                                     | Observed                              | mNRI                                  | Observed                          | mNRI                              |
+| JIA ACR30, n / N (%)                | 33 / 34 (97.1)                        | 33 / 43 (76.7)                        | 34 / 37 (91.9)                    | 34 / 49 (69.4)                    |
+| JIA ACR50, n / N (%)                | 32 / 34 (94.1)                        | 32 / 43 (74.4)                        | 34 / 37 (91.9)                    | 34 / 49 (69.4)                    |
+| JIA ACR70, n / N (%)                | 29 / 34 (85.3)                        | 29 / 43 (67.4)                        | 32 / 37 (86.5)                    | 32 / 49 (65.3)                    |
+| JIA ACR90, n / N (%)                | 19 / 34 (55.9)                        | 19 / 43 (44.2)                        | 26 / 37 (70.3)                    | 26 / 49 (53.1)                    |
+| JIA ACR inactive disease, n / N (%) | 13 / 36 (36.1)                        | 13 / 45 (28.9)                        | 17 / 39 (43.6)                    | 17 / 51 (33.3)                    |
+
+ACR = American College of Rheumatology; DB = double-blind; JIA = juvenile idiopathic arthritis; mNRI = modified non-responder imputation; n = number of patients with observations at the visit; N = total number of patients.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -1519,9 +1549,11 @@ Clearance mechanisms for tofacitinib are approximately 70% hepatic metabolism an
 
 The enzymatic activity of CYP enzymes is reduced in RA patients due to chronic inflammation. In RA patients, the oral clearance of tofacitinib does not vary with time, indicating that treatment with tofacitinib does not normalise CYP enzyme activity.
 
-Population PK analysis in RA patients indicated that systemic exposure (AUC) of tofacitinib in the extremes of body weight (40 kg, 140 kg) were similar (within 5%) to that of a 70 kg patient. Elderly patients 80 years of age were estimated to have less than 5% higher AUC relative to the mean age of 55 years. Women were estimated to have 7% lower AUC compared to men. The available data have also shown that there are no major differences in tofacitinib AUC between White, Black and Asian patients. An approximate linear relationship between body weight and volume of distribution was observed, resulting in higher peak (Cmax) and lower trough (Cmin) concentrations in lighter patients. However, this difference is not considered to be clinically relevant. The between-subject variability (percentage coefficient of variation) in AUC of tofacitinib is estimated to be approximately 27%.
+Population PK analysis in RA patients indicated that systemic exposure (AUC) of tofacitinib in the extremes of body weight (40 kg, 140 kg) were similar (within 5%) to that of a 70 kg patient. Elderly patients 80 years of age were estimated to have less than 5% higher AUC relative to the mean age of 55 years. Women were estimated to have 7% lower AUC compared to men. The available data have also shown that there are no major differences in tofacitinib AUC between White, Black and Asian patients. An approximate linear relationship between body weight and volume of distribution was observed, resulting in higher peak (Cmax) and lower trough (Cmin) concentrations in lighter patients.
 
 <div style=\"page-break-after: always\"></div>
+
+However, this difference is not considered to be clinically relevant. The between-subject variability (percentage coefficient of variation) in AUC of tofacitinib is estimated to be approximately 27%.
 
 Results from population PK analysis in patients with active PsA, moderate to severe UC or AS were consistent with those in patients with RA.
 
@@ -1549,9 +1581,11 @@ Population PK analysis based on results from both tofacitinib 5 mg film-coated t
 
 ## 5.3 Preclinical safety data
 
-In non-clinical studies, effects were observed on the immune and haematopoietic systems that were attributed to the pharmacological properties (JAK inhibition) of tofacitinib. Secondary effects from immunosuppression, such as bacterial and viral infections and lymphoma were observed at clinically relevant doses. Lymphoma was observed in 3 of 8 adult monkeys at 6 or 3 times the clinical tofacitinib exposure level (unbound AUC in humans at a dose of 5 mg or 10 mg twice daily), and 0 of 14 juvenile monkeys at 5 or 2.5 times the clinical exposure level of 5 mg or 10 mg twice daily. Exposure in monkeys at the no observed adverse effect level (NOAEL) for the lymphomas was approximately 1 or 0.5 times the clinical exposure level of 5 mg or 10 mg twice daily. Other findings at doses exceeding human exposures included effects on the hepatic and gastrointestinal systems.
+In non-clinical studies, effects were observed on the immune and haematopoietic systems that were attributed to the pharmacological properties (JAK inhibition) of tofacitinib. Secondary effects from immunosuppression, such as bacterial and viral infections and lymphoma were observed at clinically relevant doses. Lymphoma was observed in 3 of 8 adult monkeys at 6 or 3 times the clinical tofacitinib exposure level (unbound AUC in humans at a dose of 5 mg or 10 mg twice daily), and 0 of 14 juvenile monkeys at 5 or 2.5 times the clinical exposure level of 5 mg or 10 mg twice daily. Exposure in monkeys at the no observed adverse effect level (NOAEL) for the lymphomas was approximately 1 or
 
 <div style=\"page-break-after: always\"></div>
+
+0.5 times the clinical exposure level of 5 mg or 10 mg twice daily. Other findings at doses exceeding human exposures included effects on the hepatic and gastrointestinal systems.
 
 Tofacitinib is not mutagenic or genotoxic based on the results of a series of in vitro and in vivo tests for gene mutations and chromosomal aberrations.
 
@@ -1573,11 +1607,11 @@ microcrystalline cellulose lactose monohydrate croscarmellose sodium magnesium s
 
 hypromellose 6cP (E464) titanium dioxide (E171) lactose monohydrate macrogol 3350 triacetin FD&amp;C Blue #2/Indigo Carmine Aluminum Lake (E132) (10 mg strength only) FD&amp;C Blue #1/Brilliant Blue FCF Aluminum Lake (E133) (10 mg strength only)
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.2 Incompatibilities
 
 Not applicable.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
@@ -1677,7 +1711,7 @@ Treatment should be initiated and supervised by specialist physicians experience
 
 ## Posology
 
-Rheumatoid arthritis, psoriatic arthritis, and ankylosing spondylitis
+## Rheumatoid arthritis, psoriatic arthritis, and ankylosing spondylitis
 
 The recommended dose is one 11 mg prolonged-release tablet administered once daily, which should not be exceeded.
 
@@ -1872,7 +1906,7 @@ In patients treated with tofacitinib, the incidence of herpes zoster appears to 
 
 The impact of tofacitinib on chronic viral hepatitis reactivation is unknown. Patients screened positive for hepatitis B or C were excluded from clinical studies. Screening for viral hepatitis should be performed in accordance with clinical guidelines before starting therapy with tofacitinib.
 
-At least one confirmed case of progressive multifocal leukoencephalopathy (PML) has been reported in RA patients receiving tofacitinib in the post marketing setting. PML can be fatal and should be considered in the differential diagnosis in immunosuppressed patients with new onset or worsening neurological symptoms.
+Progressive multifocal leukoencephalopathy (PML) has been reported during post marketing use of tofacitinib for the treatment of autoimmune diseases (including off-label use). PML can be fatal and should be considered in the differential diagnosis in immunosuppressed patients with new onset or worsening neurological symptoms. If PML is suspected, withhold dosing with tofacitinib during appropriate diagnostic evaluation. If PML is confirmed, treatment with tofacitinib should be discontinued.
 
 ## Major adverse cardiovascular events (including myocardial infarction)
 
@@ -1886,9 +1920,9 @@ Tofacitinib may affect host defences against malignancies.
 
 In a randomised post authorisation safety study in patients with RA who were 50 years of age or older with at least one additional cardiovascular risk factor, an increased incidence of malignancies particularly NMSC, lung cancer and lymphoma, was observed with tofacitinib compared to TNF inhibitors (see sections 4.8 and 5.1).
 
-NMSC lung cancers and lymphoma in patients treated with tofacitinib have also been observed in other clinical studies and in the post-marketing setting.
-
 <div style=\"page-break-after: always\"></div>
+
+NMSC lung cancers and lymphoma in patients treated with tofacitinib have also been observed in other clinical studies and in the post-marketing setting.
 
 Other malignancies in patients treated with tofacitinib were observed in clinical studies and the post-marketing setting, including, but not limited to, breast cancer, melanoma, prostate cancer, and pancreatic cancer.
 
@@ -1972,13 +2006,13 @@ Coadministration with ketoconazole (strong CYP3A4 inhibitor), fluconazole (moder
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1. Impact of other medicinal products on PK of tofacitinib
+Figure 1.  Impact of other medicinal products on PK of tofacitinib
 
 <!-- image -->
 
 Note: Reference group is administration of tofacitinib alone.
 
-- a Tofacitinib dose should be reduced to 5 mg (as film-coated tablet) once daily in patients receiving 11 mg (as prolonged-release tablet) once daily (see section 4.2).
+a Tofacitinib dose should be reduced to 5 mg (as film-coated tablet) once daily in patients receiving 11 mg (as prolonged-release tablet) once daily (see section 4.2).
 
 ## Potential for tofacitinib to influence the PK of other medicinal products
 
@@ -1998,11 +2032,11 @@ As a precautionary measure, the use of tofacitinib during pregnancy is contraind
 
 Women of childbearing potential should be advised to use effective contraception during treatment with tofacitinib and for at least 4 weeks after the last dose.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Breast-feeding
 
 Based on published data, tofacitinib is excreted in human milk. The effects of tofacitinib on the breast-fed infant from published literature and post-marketing data is unknown and is limited to a small number of cases with no causally related adverse events. A risk to the breast-fed child cannot be excluded. As a precautionary measure, the use of tofacitinib during breast-feeding is contraindicated (see section 4.3).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Fertility
 
@@ -2034,34 +2068,32 @@ Overall, the safety profile observed in patients with active AS treated with tof
 
 ## Tabulated list of adverse reactions
 
-The adverse reactions listed in the table below are from clinical studies in patients with RA, PsA, AS, and UC and are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), or not known (cannot be estimated
+The adverse reactions listed in the table below are from clinical studies in patients with RA, PsA, AS, and UC and are presented by System Organ Class (SOC) and frequency categories, defined using the following convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000), or not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 <div style=\"page-break-after: always\"></div>
 
-from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+## Table 7: Adverse reactions
 
-Table 7: Adverse reactions
-
-| System organ class                                                  | Common ≥1/100 to <1/10                                                                                     | Uncommon ≥1/1,000 to <1/100                                                                                | Rare ≥1/10,000 to <1/1,000                                                                                                                                              | Very rare <1/10,000                                                                                                                                                                                   | Not known (cannot be estimated from the available data)   |
-|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| Infections and infestations                                         | Pneumonia Influenza Herpes zoster Urinary tract infection Sinusitis Bronchitis Nasopharyngitis Pharyngitis | Tuberculosis Diverticulitis Pyelonephritis Cellulitis Herpes simplex Gastroenteritis viral Viral infection | Sepsis Urosepsis Disseminated TB Bacteraemia Pneumocystis jirovecii pneumonia Pneumonia pneumococcal Pneumonia bacterial Cytomegalovir us infection Arthritis bacterial | Tuberculosis of central nervous system Meningitis cryptococcal Necrotizing fasciitis Encephalitis Staphylococca l bacteraemia Mycobacteriu m avium complex infection Atypical mycobacterial infection |                                                           |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) |                                                                                                            | Lung cancer Non-melanoma skin cancers                                                                      | Lymphoma                                                                                                                                                                |                                                                                                                                                                                                       |                                                           |
-| Blood and lymphatic system disorders                                | Lymphopenia Anaemia                                                                                        | Leukopenia Neutropenia                                                                                     |                                                                                                                                                                         |                                                                                                                                                                                                       |                                                           |
-| Immune system disorders                                             |                                                                                                            |                                                                                                            |                                                                                                                                                                         |                                                                                                                                                                                                       | Hypersensitivity * Angioedema* Urticaria*                 |
-| Metabolism and nutrition disorders                                  |                                                                                                            | Dyslipidaemia Hyperlipidaemia Dehydration                                                                  |                                                                                                                                                                         |                                                                                                                                                                                                       |                                                           |
-| Psychiatric disorders                                               |                                                                                                            | Insomnia                                                                                                   |                                                                                                                                                                         |                                                                                                                                                                                                       |                                                           |
-| Nervous system disorders                                            | Headache                                                                                                   | Paraesthesia                                                                                               |                                                                                                                                                                         |                                                                                                                                                                                                       |                                                           |
-| Cardiac disorders                                                   |                                                                                                            | Myocardial infarction                                                                                      |                                                                                                                                                                         |                                                                                                                                                                                                       |                                                           |
-| Vascular disorders                                                  | Hypertension                                                                                               | Venous thromboembolism**                                                                                   |                                                                                                                                                                         |                                                                                                                                                                                                       |                                                           |
-| Respiratory, thoracic and mediastinal disorders                     | Cough                                                                                                      | Dyspnoea Sinus congestion                                                                                  |                                                                                                                                                                         |                                                                                                                                                                                                       |                                                           |
-| Gastrointestinal disorders                                          | Abdominal pain Vomiting Diarrhoea Nausea Gastritis Dyspepsia                                               |                                                                                                            |                                                                                                                                                                         |                                                                                                                                                                                                       |                                                           |
+| System organ class                                     | Common ≥1/100 to <1/10                                                                                     | Uncommon ≥1/1,000 to <1/100                                                                                | Rare ≥1/10,000 to <1/1,000                                                                                                                                              | Very rare <1/10,000                                                                                                                                                                                   | Not known (cannot be estimated from the available data)   |
+|--------------------------------------------------------|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| Infections and infestations                            | Pneumonia Influenza Herpes zoster Urinary tract infection Sinusitis Bronchitis Nasopharyngitis Pharyngitis | Tuberculosis Diverticulitis Pyelonephritis Cellulitis Herpes simplex Gastroenteritis viral Viral infection | Sepsis Urosepsis Disseminated TB Bacteraemia Pneumocystis jirovecii pneumonia Pneumonia pneumococcal Pneumonia bacterial Cytomegalovir us infection Arthritis bacterial | Tuberculosis of central nervous system Meningitis cryptococcal Necrotizing fasciitis Encephalitis Staphylococca l bacteraemia Mycobacteriu m avium complex infection Atypical mycobacterial infection |                                                           |
+| Neoplasms benign, malignant and unspecified (incl      |                                                                                                            | Lung cancer Non-melanoma skin cancers                                                                      | Lymphoma                                                                                                                                                                |                                                                                                                                                                                                       |                                                           |
+| cysts and polyps) Blood and lymphatic system disorders | Lymphopenia Anaemia                                                                                        | Leukopenia Neutropenia                                                                                     |                                                                                                                                                                         |                                                                                                                                                                                                       |                                                           |
+| Immune system disorders                                |                                                                                                            |                                                                                                            |                                                                                                                                                                         |                                                                                                                                                                                                       | Hypersensitivity * Angioedema* Urticaria*                 |
+| Metabolism and nutrition disorders                     |                                                                                                            | Dyslipidaemia Hyperlipidaemia Dehydration                                                                  |                                                                                                                                                                         |                                                                                                                                                                                                       |                                                           |
+| Psychiatric disorders                                  |                                                                                                            | Insomnia                                                                                                   |                                                                                                                                                                         |                                                                                                                                                                                                       |                                                           |
+| Nervous system disorders                               | Headache                                                                                                   | Paraesthesia                                                                                               |                                                                                                                                                                         |                                                                                                                                                                                                       |                                                           |
+| Cardiac disorders                                      |                                                                                                            | Myocardial infarction                                                                                      |                                                                                                                                                                         |                                                                                                                                                                                                       |                                                           |
+| Vascular disorders                                     | Hypertension                                                                                               | Venous thromboembolism**                                                                                   |                                                                                                                                                                         |                                                                                                                                                                                                       |                                                           |
+| Respiratory, thoracic and mediastinal disorders        | Cough                                                                                                      | Dyspnoea Sinus congestion                                                                                  |                                                                                                                                                                         |                                                                                                                                                                                                       |                                                           |
+| Gastrointestinal disorders                             | Abdominal pain Vomiting Diarrhoea Nausea Gastritis Dyspepsia                                               |                                                                                                            |                                                                                                                                                                         |                                                                                                                                                                                                       |                                                           |
+| Hepatobiliary disorders                                |                                                                                                            | Hepatic steatosis Hepatic enzyme increased Transaminases increased Gamma glutamyl- transferase increased   | Liver function test abnormal                                                                                                                                            |                                                                                                                                                                                                       |                                                           |
+| Skin and subcutaneous tissue disorders                 | Rash Acne                                                                                                  | Erythema Pruritus                                                                                          |                                                                                                                                                                         |                                                                                                                                                                                                       |                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class                                   | Common ≥1/100 to <1/10                 | Uncommon ≥1/1,000 to <1/100                                                                               | Rare ≥1/10,000 to <1/1,000   | Very rare <1/10,000   | Not known (cannot be estimated from the available data)   |
 |------------------------------------------------------|----------------------------------------|-----------------------------------------------------------------------------------------------------------|------------------------------|-----------------------|-----------------------------------------------------------|
-| Hepatobiliary disorders                              |                                        | Hepatic steatosis Hepatic enzyme increased Transaminases increased Gamma glutamyl- transferase increased  | Liver function test abnormal |                       |                                                           |
-| Skin and subcutaneous tissue disorders               | Rash Acne                              | Erythema Pruritus                                                                                         |                              |                       |                                                           |
 | Musculoskeletal and connective tissue disorders      | Arthralgia                             | Joint swelling Tendonitis                                                                                 | Musculoskelet al pain        |                       |                                                           |
 | General disorders and administration site conditions | Oedema peripheral                      | Pyrexia Fatigue                                                                                           |                              |                       |                                                           |
 | Investigations                                       | Blood creatine phosphokinase increased | Blood creatinine increased Blood cholesterol increased Low density lipoprotein increased Weight increased |                              |                       |                                                           |
@@ -2087,13 +2119,11 @@ In the combined Phase 2 and Phase 3 randomised controlled clinical trials, there
 
 ## Rheumatoid arthritis
 
-In controlled phase 3 clinical studies, the rates of infections over 0-3 months in the 5 mg film-coated tablets twice daily (total 616 patients) and 10 mg twice daily (total 642 patients) tofacitinib monotherapy groups were 16.2% (100 patients) and 17.9% (115 patients), respectively, compared to 18.9% (23 patients) in the placebo group (total 122 patients). In controlled phase 3 clinical studies
-
-<div style=\"page-break-after: always\"></div>
-
-with background DMARDs, the rates of infections over 0-3 months in the 5 mg twice daily (total 973 patients) and 10 mg twice daily (total 969 patients) tofacitinib plus DMARD group were 21.3% (207 patients) and 21.8% (211 patients), respectively, compared to 18.4% (103 patients) in the placebo plus DMARD group (total 559 patients).
+In controlled phase 3 clinical studies, the rates of infections over 0-3 months in the 5 mg film-coated tablets twice daily (total 616 patients) and 10 mg twice daily (total 642 patients) tofacitinib monotherapy groups were 16.2% (100 patients) and 17.9% (115 patients), respectively, compared to 18.9% (23 patients) in the placebo group (total 122 patients). In controlled phase 3 clinical studies with background DMARDs, the rates of infections over 0-3 months in the 5 mg twice daily (total 973 patients) and 10 mg twice daily (total 969 patients) tofacitinib plus DMARD group were 21.3% (207 patients) and 21.8% (211 patients), respectively, compared to 18.4% (103 patients) in the placebo plus DMARD group (total 559 patients).
 
 The most commonly reported infections were upper respiratory tract infections and nasopharyngitis (3.7% and 3.2%, respectively).
+
+<div style=\"page-break-after: always\"></div>
 
 The overall incidence rate of infections with tofacitinib in the long-term safety all exposure population (total 4,867 patients) was 46.1 patients with events per 100 patient-years (43.8 and 47.2 patients with events for 5 mg and 10 mg twice daily, respectively). For patients (total 1,750) on monotherapy, the rates were 48.9 and 41.9 patients with events per 100 patient-years for 5 mg and 10 mg twice daily, respectively. For patients (total 3,117) on background DMARDs, the rates were 41.0 and 50.3 patients with events per 100 patient-years for 5 mg and 10 mg twice daily, respectively.
 
@@ -2119,13 +2149,13 @@ The incidence rates (95% CI) for serious infections for tofacitinib 5 mg twice d
 
 In the combined Phase 2 and Phase 3 clinical trials, among the 316 patients treated with tofacitinib 5 mg twice daily for up to 48 weeks, there was one serious infection (aseptic meningitis) yielding a rate of 0.43 patients with events per 100 patient-years.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Serious infections in the elderly
 
 Of the 4,271 patients who enrolled in RA studies I-VI (see section 5.1), a total of 608 RA patients were 65 years of age and older, including 85 patients 75 years and older. The frequency of serious infection among tofacitinib-treated patients 65 years of age and older was higher than those under the age of 65 (4.8 per 100 patient-years versus 2.4 per 100 patient-years, respectively).
 
 In a large (N=4,362) randomised post-authorisation safety study in patients with RA who were 50 years or older with at least one additional cardiovascular risk factor, an increase in serious infections was observed in patients 65 years of age and older for tofacitinib 10 mg twice daily compared to TNF inhibitors and to tofacitinib 5 mg twice daily (see section 4.4). The incidence rates (95% CI) for serious infections in patients ≥ 65 years were 4.03 (3.02, 5.27), 5.85 (4.64, 7.30), and 3.73 (2.81, 4.85) patients with events per 100 patient-years for tofacitinib 5 mg twice daily, tofacitinib 10 mg twice daily, and TNF inhibitors, respectively.
+
+<div style=\"page-break-after: always\"></div>
 
 Compared with TNF inhibitors, the hazard ratio (HR) for serious infections in patients ≥65 years of age was 1.08 (0.74, 1.58) and 1.55 (1.10, 2.19) for tofacitinib 5 mg twice daily and tofacitinib 10 mg twice daily, respectively.
 
@@ -2147,13 +2177,13 @@ In the controlled RA clinical studies, confirmed decreases in ALC below 500 cell
 
 In the RA long-term safety population, confirmed decreases in ALC below 500 cells/mm 3 occurred in 1.3% of patients and for ALC between 500 and 750 cells/mm 3 in 8.4% of patients for the 5 mg twice daily and 10 mg twice daily doses combined.
 
-<div style=\"page-break-after: always\"></div>
-
 Confirmed ALC less than 750 cells/mm 3  were associated with an increased incidence of serious infections (see section 4.4).
 
 ## Neutrophils
 
 In the controlled RA clinical studies, confirmed decreases in ANC below 1,000 cells/mm 3 occurred in 0.08% of patients for the 5 mg twice daily and 10 mg twice daily doses combined. There were no confirmed decreases in ANC below 500 cells/mm 3  observed in any treatment group. There was no clear relationship between neutropenia and the occurrence of serious infections.
+
+<div style=\"page-break-after: always\"></div>
 
 In the RA long-term safety population, the pattern and incidence of confirmed decreases in ANC remained consistent with what was seen in the controlled clinical studies (see section 4.4).
 
@@ -2175,15 +2205,13 @@ In the RA long-term extension studies, on monotherapy, ALT elevations greater th
 
 In the RA long-term extension studies, on background DMARDs, ALT elevations greater than 3x ULN were observed in 1.8% and 1.6% of patients receiving tofacitinib 5 mg and 10 mg twice daily, respectively. AST elevations greater than 3x ULN were observed in &lt; 1.0% in both the tofacitinib 5 mg and 10 mg twice daily groups.
 
-In a large (N=4,362) randomised post-authorisation safety study in patients with RA who were 50 years or older with at least one additional cardiovascular risk factor, ALT elevations greater than or equal to 3x ULN were observed in 6.01%, 6.54% and 3.77% of patients receiving tofacitinib 5 mg twice daily, tofacitinib 10 mg twice daily, and TNF inhibitors respectively. AST elevations greater
-
-<div style=\"page-break-after: always\"></div>
-
-than or equal to 3x ULN were observed in 3.21%, 4.57% and 2.38% of patients receiving tofacitinib 5 mg twice daily, tofacitinib 10 mg twice daily, and TNF inhibitors respectively.
+In a large (N=4,362) randomised post-authorisation safety study in patients with RA who were 50 years or older with at least one additional cardiovascular risk factor, ALT elevations greater than or equal to 3x ULN were observed in 6.01%, 6.54% and 3.77% of patients receiving tofacitinib 5 mg twice daily, tofacitinib 10 mg twice daily, and TNF inhibitors respectively. AST elevations greater than or equal to 3x ULN were observed in 3.21%, 4.57% and 2.38% of patients receiving tofacitinib 5 mg twice daily, tofacitinib 10 mg twice daily, and TNF inhibitors respectively.
 
 ## Lipids
 
 Elevations in lipid parameters (total cholesterol, LDL cholesterol, HDL cholesterol, triglycerides) were first assessed at 1 month following initiation of tofacitinib in the controlled double-blind clinical studies of RA. Increases were observed at this time point and remained stable thereafter.
+
+<div style=\"page-break-after: always\"></div>
 
 Changes in lipid parameters from baseline through the end of the study (6-24 months) in the controlled clinical studies in RA are summarised below:
 
@@ -2213,13 +2241,11 @@ In a large (N=4,362) randomised post-authorisation safety study in patients with
 
 ## Rheumatoid arthritis
 
-In a large (N=4,362) randomised post-authorisation safety study in patients with RA who were 50 years of age or older with at least one additional cardiovascular risk factor, the incidence rates (95% CI) for lung cancer for tofacitinib 5 mg twice daily, tofacitinib 10 mg twice daily, and TNF
-
-<div style=\"page-break-after: always\"></div>
-
-inhibitors were 0.23 (0.12, 0.40), 0.32 (0.18, 0.51), and 0.13 (0.05, 0.26) patients with events per 100 patient-years, respectively (see sections 4.4 and 5.1). The study required at least 1500 patients to be followed for 3 years.
+In a large (N=4,362) randomised post-authorisation safety study in patients with RA who were 50 years of age or older with at least one additional cardiovascular risk factor, the incidence rates (95% CI) for lung cancer for tofacitinib 5 mg twice daily, tofacitinib 10 mg twice daily, and TNF inhibitors were 0.23 (0.12, 0.40), 0.32 (0.18, 0.51), and 0.13 (0.05, 0.26) patients with events per 100 patient-years, respectively (see sections 4.4 and 5.1). The study required at least 1500 patients to be followed for 3 years.
 
 The incidence rates (95% CI) for lymphoma for tofacitinib 5 mg twice daily, tofacitinib 10 mg twice daily, and TNF inhibitors were 0.07 (0.02, 0.18), 0.11 (0.04, 0.24), and 0.02 (0.00, 0.10) patients with events per 100 patient-years, respectively (see sections 4.4 and 5.1).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -2245,15 +2271,13 @@ Tofacitinib is a potent, selective inhibitor of the JAK family. In enzymatic ass
 
 In patients with RA, treatment up to 6 months with tofacitinib was associated with dose-dependent reductions of circulating CD16/56+ natural killer (NK) cells, with estimated maximum reductions occurring at approximately 8-10 weeks after initiation of therapy. These changes generally resolved within 2-6 weeks after discontinuation of treatment. Treatment with tofacitinib was associated with dose-dependent increases in B cell counts. Changes in circulating T-lymphocyte counts and T-lymphocyte subsets (CD3+, CD4+ and CD8+) were small and inconsistent.
 
-Following long-term treatment (median duration of tofacitinib treatment of approximately 5 years), CD4+ and CD8+ counts showed median reductions of 28% and 27%, respectively, from baseline. In contrast to the observed decrease after short-term dosing, CD16/56+ natural killer cell counts showed a median increase of 73% from baseline. CD19+ B cell counts showed no further increases after long-term tofacitinib treatment. All these lymphocyte subset changes returned toward baseline after
-
-<div style=\"page-break-after: always\"></div>
-
-temporary discontinuation of treatment. There was no evidence of a relationship between serious or opportunistic infections or herpes zoster and lymphocyte subset counts (see section 4.2 for absolute lymphocyte count monitoring).
+Following long-term treatment (median duration of tofacitinib treatment of approximately 5 years), CD4+ and CD8+ counts showed median reductions of 28% and 27%, respectively, from baseline. In contrast to the observed decrease after short-term dosing, CD16/56+ natural killer cell counts showed a median increase of 73% from baseline. CD19+ B cell counts showed no further increases after long-term tofacitinib treatment. All these lymphocyte subset changes returned toward baseline after temporary discontinuation of treatment. There was no evidence of a relationship between serious or opportunistic infections or herpes zoster and lymphocyte subset counts (see section 4.2 for absolute lymphocyte count monitoring).
 
 Changes in total serum IgG, IgM, and IgA levels over 6-month tofacitinib dosing in patients with RA were small, not dose-dependent and similar to those seen on placebo, indicating a lack of systemic humoral suppression.
 
 After treatment with tofacitinib in RA patients, rapid decreases in serum C-reactive protein (CRP) were observed and maintained throughout dosing. Changes in CRP observed with tofacitinib treatment do not reverse fully within 2 weeks after discontinuation, indicating a longer duration of pharmacodynamic activity compared to the half-life.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Vaccine studies
 
@@ -2267,23 +2291,23 @@ A controlled study was conducted in patients with RA on background MTX immunised
 
 The efficacy and safety of tofacitinib film-coated tablets were assessed in 6 randomised, double-blind, controlled multicentre studies in patients greater than 18 years of age with active RA diagnosed according to American College of Rheumatology (ACR) criteria. Table 8 provides information regarding the pertinent study design and population characteristics.
 
-Table 8:  Phase 3 clinical studies of tofacitinib 5 mg and 10 mg twice daily doses in patients with RA
+Table 8: Phase 3 clinical studies of tofacitinib 5 mg and 10 mg twice daily doses in patients with RA
 
-| Studies              | Study I (ORAL Solo)   | Study II (ORAL Sync)   | Study III (ORAL Standard)   | Study IV (ORAL Scan)   | Study V (ORAL Step)   | Study VI (ORAL Start)                       | Study VII (ORAL Strategy)                                              |
-|----------------------|-----------------------|------------------------|-----------------------------|------------------------|-----------------------|---------------------------------------------|------------------------------------------------------------------------|
-| Population           | DMARD-IR              | DMARD- IR              | MTX-IR                      | MTX-IR                 | TNFi-IR               | MTX-naïve a                                 | MTX-IR                                                                 |
-| Control              | Placebo               | Placebo                | Placebo                     | Placebo                | Placebo               | MTX                                         | MTX, ADA                                                               |
-| Background treatment | None b                | csDMARDs               | MTX                         | MTX                    | MTX                   | None b                                      | 3 Parallel arms: • Tofacitinib monotherapy • Tofacitinib+MTX • ADA+MTX |
-| Key features         | Monotherapy           | Various csDMARDs       | Active control (ADA)        | X-Ray                  | TNFi-IR               | Monotherapy, Active comparator (MTX), X-Ray | Tofacitinib with and without MTX in comparison to ADA with MTX         |
+| Studies                         | Study I (ORAL Solo)                     | Study II (ORAL Sync)                             | Study III (ORAL Standard)                        | Study IV (ORAL Scan)                                  | Study V (ORAL Step)                     | Study VI (ORAL Start)                       | Study VII (ORAL Strategy)                                              |
+|---------------------------------|-----------------------------------------|--------------------------------------------------|--------------------------------------------------|-------------------------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------------------------------------------------|
+| Population                      | DMARD-IR                                | DMARD- IR                                        | MTX-IR                                           | MTX-IR                                                | TNFi-IR                                 | MTX-naïve a                                 | MTX-IR                                                                 |
+| Control                         | Placebo                                 | Placebo                                          | Placebo                                          | Placebo                                               | Placebo                                 | MTX                                         | MTX, ADA                                                               |
+| Background treatment            | None b                                  | csDMARDs                                         | MTX                                              | MTX                                                   | MTX                                     | None b                                      | 3 Parallel arms: • Tofacitinib monotherapy • Tofacitinib+MTX • ADA+MTX |
+| Key features                    | Monotherapy                             | Various csDMARDs                                 | Active control (ADA)                             | X-Ray                                                 | TNFi-IR                                 | Monotherapy, Active comparator (MTX), X-Ray | Tofacitinib with and without MTX in comparison to ADA with MTX         |
+| Number of patients treated      | 610                                     | 792                                              | 717                                              | 797                                                   | 399                                     | 956                                         | 1,146                                                                  |
+| Total study duration            | 6 months                                | 1 year                                           | 1 year                                           | 2 years                                               | 6 months                                | 2 years                                     | 1 year                                                                 |
+| Co-primary efficacy endpoints c | Month 3: ACR20 HAQ-DI DAS28- 4(ESR)<2.6 | Month 6: ACR20 DAS28- 4(ESR)<2.6 Month 3: HAQ-DI | Month 6: ACR20 DAS28- 4(ESR)<2.6 Month 3: HAQ-DI | Month 6: ACR20 mTSS DAS28- 4(ESR)<2.6 Month 3: HAQ-DI | Month 3: ACR20 HAQ-DI DAS28- 4(ESR)<2.6 | Month 6: mTSS ACR70                         | Month 6: ACR50                                                         |
 
 <div style=\"page-break-after: always\"></div>
 
-| Studies                                                                   | Study I (ORAL Solo)                     | Study II (ORAL Sync)                                                                                                    | Study III (ORAL Standard)                                                                                               | Study IV (ORAL Scan)                                                                                                    | Study V (ORAL Step)                     | Study VI (ORAL Start)   | Study VII (ORAL Strategy)   |
-|---------------------------------------------------------------------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------------------|-----------------------------|
-| Number of patients treated                                                | 610                                     | 792                                                                                                                     | 717                                                                                                                     | 797                                                                                                                     | 399                                     | 956                     | 1,146                       |
-| Total study duration                                                      | 6 months                                | 1 year                                                                                                                  | 1 year                                                                                                                  | 2 years                                                                                                                 | 6 months                                | 2 years                 | 1 year                      |
-| Co-primary efficacy endpoints c                                           | Month 3: ACR20 HAQ-DI DAS28- 4(ESR)<2.6 | Month 6: ACR20 DAS28- 4(ESR)<2.6 Month 3: HAQ-DI                                                                        | Month 6: ACR20 DAS28- 4(ESR)<2.6 Month 3: HAQ-DI                                                                        | Month 6: ACR20 mTSS DAS28- 4(ESR)<2.6 Month 3: HAQ-DI                                                                   | Month 3: ACR20 HAQ-DI DAS28- 4(ESR)<2.6 | Month 6: mTSS ACR70     | Month 6: ACR50              |
-| Time of mandatory placebo rescue to tofacitinib 5 mg or 10 mg twice daily | Month 3                                 | Month 6 (placebo subjects with < 20% improvement in swollen and tender joint counts advanced to tofacitinib at month 3) | Month 6 (placebo subjects with < 20% improvement in swollen and tender joint counts advanced to tofacitinib at month 3) | Month 6 (placebo subjects with < 20% improvement in swollen and tender joint counts advanced to tofacitinib at month 3) | Month 3                                 | NA                      | NA                          |
+| Studies                                                                   | Study I (ORAL Solo)   | Study II (ORAL Sync)                                                                                                    | Study III (ORAL Standard)                                                                                               | Study IV (ORAL Scan)                                                                                                    | Study V (ORAL Step)   | Study VI (ORAL Start)   | Study VII (ORAL Strategy)   |
+|---------------------------------------------------------------------------|-----------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------------------|-----------------------------|
+| Time of mandatory placebo rescue to tofacitinib 5 mg or 10 mg twice daily | Month 3               | Month 6 (placebo subjects with < 20% improvement in swollen and tender joint counts advanced to tofacitinib at month 3) | Month 6 (placebo subjects with < 20% improvement in swollen and tender joint counts advanced to tofacitinib at month 3) | Month 6 (placebo subjects with < 20% improvement in swollen and tender joint counts advanced to tofacitinib at month 3) | Month 3               | NA                      | NA                          |
 
 a. ≤3 weekly doses (MTX -naïve).
 
@@ -2301,74 +2325,74 @@ Over the course of ORAL Strategy, responses with tofacitinib 5 mg twice daily + 
 
 The treatment effect was similar in patients independent of rheumatoid factor status, age, gender, race, or disease status. Time to onset was rapid (as early as week 2 in studies ORAL Solo, ORAL Sync, and ORAL Step) and the magnitude of response continued to improve with duration of treatment. As with the overall ACR response in patients treated with 5 mg or 10 mg twice daily tofacitinib, each of the components of the ACR response was consistently improved from baseline including: tender and swollen joint counts; patient and physician global assessment; disability index scores; pain assessment and CRP compared to patients receiving placebo plus MTX or other DMARDs in all studies.
 
-<div style=\"page-break-after: always\"></div>
+Table 9:
 
-Table 9:  Proportion (%) of patients with an ACR response
+Proportion (%) of patients with an ACR response ORAL Solo:
 
-| ORAL Solo: DMARDinadequate responders   | ORAL Solo: DMARDinadequate responders   | ORAL Solo: DMARDinadequate responders   | ORAL Solo: DMARDinadequate responders          | ORAL Solo: DMARDinadequate responders          | ORAL Solo: DMARDinadequate responders           |
-|-----------------------------------------|-----------------------------------------|-----------------------------------------|------------------------------------------------|------------------------------------------------|-------------------------------------------------|
-| Endpoint                                | Time                                    | Placebo N=122                           | Tofacitinib 5 mg twice daily monotherapy N=241 | Tofacitinib 5 mg twice daily monotherapy N=241 | Tofacitinib 10 mg twice daily monotherapy N=243 |
-| ACR20                                   | Month 3                                 | 26                                      | 60***                                          | 60***                                          | 65***                                           |
-| ACR20                                   | Month 6                                 | NA                                      | 69                                             | 69                                             | 71                                              |
-| ACR50                                   | Month 3                                 | 12                                      | 31***                                          | 31***                                          | 37***                                           |
-| ACR50                                   | Month 6                                 | NA                                      | 42                                             | 42                                             | 47                                              |
-| ACR70                                   | Month 3                                 | 6                                       | 15*                                            | 15*                                            | 20***                                           |
-| ACR70                                   | Month 6                                 | NA                                      | 22                                             | 22                                             | 29                                              |
-| ORAL Sync: DMARDinadequate responders   | ORAL Sync: DMARDinadequate responders   | ORAL Sync: DMARDinadequate responders   | ORAL Sync: DMARDinadequate responders          | ORAL Sync: DMARDinadequate responders          | ORAL Sync: DMARDinadequate responders           |
-| Endpoint                                | Time                                    | Placebo + DMARD(s)                      | Tofacitinib 5 mg twice daily + DMARD(s)        | Tofacitinib 5 mg twice daily + DMARD(s)        | Tofacitinib 10 mg twice daily + DMARD(s)        |
-| Endpoint                                | Time                                    | N=158                                   | N=312                                          | N=312                                          | N=315                                           |
-| ACR20                                   | Month 3                                 | 27                                      | 56***                                          | 56***                                          | 63***                                           |
-| ACR20                                   | Month 6                                 | 31                                      | 53***                                          | 53***                                          | 57***                                           |
-| ACR20                                   | Month 12                                | NA                                      | 51                                             | 51                                             | 56                                              |
-| ACR50                                   | Month 3                                 | 9                                       | 27***                                          | 27***                                          | 33***                                           |
-| ACR50                                   | Month 6                                 | 13                                      | 34***                                          | 34***                                          | 36***                                           |
-| ACR50                                   | Month 12                                | NA                                      | 33                                             | 33                                             | 42                                              |
-| ACR70                                   | Month 3                                 | 2                                       | 8**                                            | 8**                                            | 14***                                           |
-| ACR70                                   | Month 6                                 | 3                                       | 13***                                          | 13***                                          | 16***                                           |
-| ACR70                                   | Month 12                                | NA                                      | 19                                             | 19                                             | 25                                              |
-| ORAL Standard: MTXinadequate responders | ORAL Standard: MTXinadequate responders | ORAL Standard: MTXinadequate responders | ORAL Standard: MTXinadequate responders        | ORAL Standard: MTXinadequate responders        | ORAL Standard: MTXinadequate responders         |
-| Endpoint                                | Time                                    | Placebo                                 | Tofacitinib twice daily+MTX                    | Tofacitinib twice daily+MTX                    | Adalimumab 40 mg QOW +MTX                       |
-| ACR20                                   |                                         | N=105                                   | 5 mg N=198                                     | 10 mg N=197                                    | N=199                                           |
-| ACR20                                   | Month 3                                 | 26                                      | 59***                                          | 57***                                          | 56***                                           |
-| ACR20                                   | Month 6                                 | 28                                      | 51***                                          | 51***                                          | 46**                                            |
-| ACR20                                   | Month 12                                | NA                                      | 48                                             | 49                                             | 48                                              |
-| ACR50                                   | Month 3                                 | 7                                       | 33***                                          | 27***                                          | 24***                                           |
-| ACR50                                   | Month 6                                 | 12                                      | 36***                                          | 34***                                          | 27**                                            |
-| ACR50                                   | Month 12                                | NA                                      | 36                                             | 36                                             | 33                                              |
-| ACR70                                   | Month 3                                 | 2                                       | 12**                                           | 15***                                          | 9*                                              |
-| ACR70                                   | Month 6                                 | 2                                       | 19***                                          | 21***                                          | 9*                                              |
-| ACR70                                   | Month 12                                | NA                                      | 22                                             | 23                                             | 17                                              |
-| ORAL Scan: MTXinadequate responders     | ORAL Scan: MTXinadequate responders     | ORAL Scan: MTXinadequate responders     | ORAL Scan: MTXinadequate responders            | ORAL Scan: MTXinadequate responders            | ORAL Scan: MTXinadequate responders             |
-| Endpoint                                | Time                                    | Placebo+MTX N=156                       | Tofacitinib 5 mg twice daily +MTX              | Tofacitinib 5 mg twice daily +MTX              | Tofacitinib 10 mg twice daily +MTX N=309        |
-| ACR20                                   | Month 3                                 | 27                                      | N=316 55***                                    | N=316 55***                                    | 66***                                           |
-| ACR20                                   | Month 6                                 | 25                                      | 50***                                          | 50***                                          | 62***                                           |
-| ACR20                                   | Month 12                                | NA                                      | 47                                             | 47                                             | 55                                              |
-| ACR20                                   | Month 24                                | NA                                      | 40                                             | 40                                             | 50                                              |
-| ACR50                                   | Month 3                                 | 8                                       | 28***                                          | 28***                                          | 36***                                           |
-| ACR50                                   | Month 6                                 | 8                                       | 32***                                          | 32***                                          | 44***                                           |
-| ACR50                                   | Month 12                                | NA                                      | 32                                             | 32                                             | 39                                              |
-| ACR50                                   | Month 24                                | NA                                      | 28                                             | 28                                             | 40                                              |
-| ACR70                                   | Month 3                                 | 3                                       | 10**                                           | 10**                                           | 17***                                           |
+| ORAL Solo: DMARD inadequate responders   | ORAL Solo: DMARD inadequate responders   | ORAL Solo: DMARD inadequate responders   | ORAL Solo: DMARD inadequate responders         | ORAL Solo: DMARD inadequate responders          |
+|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------------|-------------------------------------------------|
+| Endpoint                                 | Time                                     | Placebo N=122                            | Tofacitinib 5 mg twice daily monotherapy N=241 | Tofacitinib 10 mg twice daily monotherapy N=243 |
+| ACR20                                    | Month 3                                  | 26                                       | 60***                                          | 65***                                           |
+| ACR20                                    | Month 6                                  | NA                                       | 69                                             | 71                                              |
+| ACR50                                    | Month 3                                  | 12                                       | 31***                                          | 37***                                           |
+| ACR50                                    | Month 6                                  | NA                                       | 42                                             | 47                                              |
+| ACR70                                    | Month 3                                  | 6                                        | 15*                                            | 20***                                           |
+| ACR70                                    | Month 6                                  | NA                                       | 22                                             | 29                                              |
 
 <div style=\"page-break-after: always\"></div>
 
-| Month 6   | 1   |   14*** |   22*** |
-|-----------|-----|---------|---------|
-| Month 12  | NA  |      18 |      27 |
-| Month 24  | NA  |      17 |      26 |
+| ORAL Sync: DMARD inadequate responders   | ORAL Sync: DMARD inadequate responders   | ORAL Sync: DMARD inadequate responders   | ORAL Sync: DMARD inadequate responders        | ORAL Sync: DMARD inadequate responders        | ORAL Sync: DMARD inadequate responders         |
+|------------------------------------------|------------------------------------------|------------------------------------------|-----------------------------------------------|-----------------------------------------------|------------------------------------------------|
+| Endpoint                                 | Time                                     | Placebo + DMARD(s) N=158                 | Tofacitinib 5 mg twice daily + DMARD(s) N=312 | Tofacitinib 5 mg twice daily + DMARD(s) N=312 | Tofacitinib 10 mg twice daily + DMARD(s) N=315 |
+| ACR20                                    | Month 3                                  | 27                                       | 56***                                         | 56***                                         | 63***                                          |
+|                                          | Month 6                                  | 31                                       | 53***                                         | 53***                                         | 57***                                          |
+|                                          | Month 12                                 | NA                                       | 51                                            | 51                                            | 56                                             |
+|                                          | Month 3                                  | 9                                        | 27***                                         | 27***                                         | 33***                                          |
+| ACR50                                    | Month 6                                  | 13                                       | 34***                                         | 34***                                         | 36***                                          |
+|                                          | Month 12                                 | NA                                       | 33                                            | 33                                            | 42                                             |
+| ACR70                                    | Month 3                                  | 2                                        | 8**                                           | 8**                                           | 14***                                          |
+|                                          | Month 6                                  | 3                                        | 13***                                         | 13***                                         | 16***                                          |
+|                                          | Month 12                                 | NA                                       | 19                                            | 19                                            | 25                                             |
+| ORAL Standard: MTX inadequate responders | ORAL Standard: MTX inadequate responders | ORAL Standard: MTX inadequate responders | ORAL Standard: MTX inadequate responders      | ORAL Standard: MTX inadequate responders      | ORAL Standard: MTX inadequate responders       |
+| Endpoint                                 | Time                                     | Placebo                                  | Tofacitinib twice daily + MTX                 | Tofacitinib twice daily + MTX                 | Adalimumab 40 mg QOW + MTX                     |
+| ACR20                                    |                                          | N=105                                    | 5 mg N=198                                    | 10 mg N=197                                   | N=199                                          |
+|                                          | Month 3                                  | 26                                       | 59***                                         | 57***                                         | 56***                                          |
+|                                          | Month 6                                  | 28                                       | 51***                                         | 51***                                         | 46**                                           |
+|                                          | Month 12                                 | NA                                       | 48                                            | 49                                            | 48                                             |
+|                                          | Month 3                                  | 7                                        | 33***                                         | 27***                                         | 24***                                          |
+| ACR50                                    | Month 6                                  | 12                                       | 36***                                         | 34***                                         | 27**                                           |
+|                                          | Month 12                                 | NA                                       | 36                                            | 36                                            | 33                                             |
+|                                          | Month 3                                  | 2                                        | 12**                                          | 15***                                         | 9*                                             |
+| ACR70                                    | Month 6                                  | 2                                        | 19***                                         | 21***                                         | 9*                                             |
+|                                          | Month 12                                 | NA                                       | 22                                            | 23                                            | 17                                             |
+| ORAL Scan: MTX inadequate responders     | ORAL Scan: MTX inadequate responders     | ORAL Scan: MTX inadequate responders     | ORAL Scan: MTX inadequate responders          | ORAL Scan: MTX inadequate responders          | ORAL Scan: MTX inadequate responders           |
+| Endpoint                                 | Time                                     | Placebo + MTX N=156                      | Tofacitinib 5 mg twice daily + MTX            | Tofacitinib 5 mg twice daily + MTX            | Tofacitinib 10 mg twice daily + MTX N=309      |
+|                                          | Month 3                                  | 27                                       | N=316 55***                                   | N=316 55***                                   | 66***                                          |
+|                                          | Month 6                                  | 25                                       | 50***                                         | 50***                                         | 62***                                          |
+| ACR20                                    | Month 12                                 | NA                                       | 47                                            | 47                                            | 55                                             |
+|                                          | Month 24                                 | NA                                       | 40                                            | 40                                            | 50                                             |
+| ACR50                                    | Month 3                                  | 8                                        | 28***                                         | 28***                                         | 36***                                          |
+|                                          | Month 6                                  | 8                                        | 32***                                         | 32***                                         | 44***                                          |
+|                                          | Month 12                                 | NA                                       | 32                                            | 32                                            | 39                                             |
+|                                          | Month 24                                 | NA                                       | 28                                            | 28                                            | 40                                             |
+|                                          | Month 3                                  | 3                                        | 10**                                          | 10**                                          | 17***                                          |
+|                                          | Month 6                                  | 1                                        | 14***                                         | 14***                                         | 22***                                          |
+| ACR70                                    | Month 12                                 | NA                                       | 18 17                                         | 18 17                                         | 27 26                                          |
+|                                          | Month 24                                 | NA                                       |                                               |                                               |                                                |
 
-## ORAL Step: TNF inhibitor inadequate responders
+<div style=\"page-break-after: always\"></div>
+
+| ORAL Step: TNF inhibitor inadequate responders   | ORAL Step: TNF inhibitor inadequate responders   | ORAL Step: TNF inhibitor inadequate responders   | ORAL Step: TNF inhibitor inadequate responders   | ORAL Step: TNF inhibitor inadequate responders   |
+|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+| Endpoint                                         | Time                                             | Placebo + MTX N=132                              | Tofacitinib 5 mg twice daily + MTX N=133         | Tofacitinib 10 mg twice daily + MTX N=134        |
+| ACR20                                            | Month 3                                          | 24                                               | 41*                                              | 48***                                            |
+| ACR20                                            | Month 6                                          | NA                                               | 51                                               | 54                                               |
+| ACR50                                            | Month 3                                          | 8                                                | 26***                                            | 28***                                            |
+| ACR50                                            | Month 6                                          | NA                                               | 37                                               | 30                                               |
+| ACR70                                            | Month 3                                          | 2                                                | 14***                                            | 10*                                              |
+| ACR70                                            | Month 6                                          | NA                                               | 16                                               | 16                                               |
 
 ## ORAL Start: MTX-naïve
-
-| Endpoint   | Time    | Placebo+MTX N=132   | Tofacitinib 5 mg twice daily +MTX N=133   | Tofacitinib 10 mg twice daily +MTX N=134   |
-|------------|---------|---------------------|-------------------------------------------|--------------------------------------------|
-| ACR20      | Month 3 | 24                  | 41*                                       | 48***                                      |
-| ACR20      | Month 6 | NA                  | 51                                        | 54                                         |
-| ACR50      | Month 3 | 8                   | 26***                                     | 28***                                      |
-| ACR50      | Month 6 | NA                  | 37                                        | 30                                         |
-| ACR70      | Month 3 | 2                   | 14***                                     | 10*                                        |
-| ACR70      | Month 6 | NA                  | 16                                        | 16                                         |
 
 | Endpoint   | Time     |   MTX N=184 | Tofacitinib 5 mg twice daily monotherapy N=370   | Tofacitinib 10 mg twice daily monotherapy N=394   |
 |------------|----------|-------------|--------------------------------------------------|---------------------------------------------------|
@@ -2387,25 +2411,23 @@ Table 9:  Proportion (%) of patients with an ACR response
 
 ## ORAL Strategy: MTX inadequate responders
 
-| Endpoint   | Time     |   Tofacitinib 5 mg twice daily N=384 | Tofacitinib 5 mg twice daily +MTX N=376   |   Adalimumab +MTX N=386 |
-|------------|----------|--------------------------------------|-------------------------------------------|-------------------------|
-| ACR20      | Month 3  |                                62.5  | 70.48ǂ                                    |                   69.17 |
-| ACR20      | Month 6  |                                62.84 | 73.14ǂ                                    |                   70.98 |
-| ACR20      | Month 12 |                                61.72 | 70.21ǂ                                    |                   67.62 |
-| ACR50      | Month 3  |                                31.51 | 40.96ǂ                                    |                   37.31 |
-| ACR50      | Month 6  |                                38.28 | 46.01ǂ                                    |                   43.78 |
-| ACR50      | Month 12 |                                39.31 | 47.61ǂ                                    |                   45.85 |
-| ACR70      | Month 3  |                                13.54 | 19.41ǂ                                    |                   14.51 |
-| ACR70      | Month 6  |                                18.23 | 25.00ǂ                                    |                   20.73 |
-| ACR70      | Month 12 |                                21.09 | 28.99ǂ                                    |                   25.91 |
+| Endpoint   | Time     |   Tofacitinib 5 mg twice daily N=384 | Tofacitinib 5 mg twice daily + MTX N=376   |   Adalimumab + MTX N=386 |
+|------------|----------|--------------------------------------|--------------------------------------------|--------------------------|
+| ACR20      | Month 3  |                                62.50 | 70.48ǂ                                     |                    69.17 |
+| ACR20      | Month 6  |                                62.84 | 73.14ǂ                                     |                    70.98 |
+| ACR20      | Month 12 |                                61.72 | 70.21ǂ                                     |                    67.62 |
+| ACR50      | Month 3  |                                31.51 | 40.96ǂ                                     |                    37.31 |
+| ACR50      | Month 6  |                                38.28 | 46.01ǂ                                     |                    43.78 |
+| ACR50      | Month 12 |                                39.31 | 47.61ǂ                                     |                    45.85 |
+| ACR70      | Month 3  |                                13.54 | 19.41ǂ                                     |                    14.51 |
+| ACR70      | Month 6  |                                18.23 | 25.00ǂ                                     |                    20.73 |
+| ACR70      | Month 12 |                                21.09 | 28.99ǂ                                     |                    25.91 |
 
 ## DAS28-4(ESR) response
 
-Patients in the phase 3 studies had a mean Disease Activity Score (DAS28-4[ESR]) of 6.1-6.7 at baseline. Significant reductions in DAS28-4(ESR) from baseline (mean improvement) of 1.8-2.0 and 1.9-2.2 were observed in patients treated with 5 mg and 10 mg twice daily doses, respectively,
+Patients in the phase 3 studies had a mean Disease Activity Score (DAS28-4[ESR]) of 6.1-6.7 at baseline. Significant reductions in DAS28-4(ESR) from baseline (mean improvement) of 1.8-2.0 and 1.9-2.2 were observed in patients treated with 5 mg and 10 mg twice daily doses, respectively, compared to placebo-treated patients (0.7-1.1) at month 3. The proportion of patients achieving a DAS28 clinical remission (DAS28-4(ESR) &lt; 2.6) in ORAL Step, ORAL Sync, and ORAL Standard is shown in Table 10.
 
 <div style=\"page-break-after: always\"></div>
-
-compared to placebo-treated patients (0.7-1.1) at month 3. The proportion of patients achieving a DAS28 clinical remission (DAS28-4(ESR) &lt; 2.6) in ORAL Step, ORAL Sync, and ORAL Standard is shown in Table 10.
 
 Table 10:  Number (%) of subjects achieving DAS28-4(ESR) &lt; 2.6 remission at months 3 and 6
 
@@ -2413,17 +2435,17 @@ Table 10:  Number (%) of subjects achieving DAS28-4(ESR) &lt; 2.6 remission at m
 |------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
 | ORAL Step: TNF inhibitor inadequate responders | ORAL Step: TNF inhibitor inadequate responders | ORAL Step: TNF inhibitor inadequate responders | ORAL Step: TNF inhibitor inadequate responders |
 | Tofacitinib 5 mg twice daily + MTX             | Month 3                                        | 133                                            | 6                                              |
-| Tofacitinib 10 mg twice daily +MTX             | Month 3                                        | 134                                            | 8*                                             |
-| Placebo +MTX                                   | Month 3                                        | 132                                            | 2                                              |
-| ORAL Sync: DMARDinadequate responders          | ORAL Sync: DMARDinadequate responders          | ORAL Sync: DMARDinadequate responders          | ORAL Sync: DMARDinadequate responders          |
+| Tofacitinib 10 mg twice daily + MTX            | Month 3                                        | 134                                            | 8*                                             |
+| Placebo + MTX                                  | Month 3                                        | 132                                            | 2                                              |
+| ORAL Sync: DMARD inadequate responders         | ORAL Sync: DMARD inadequate responders         | ORAL Sync: DMARD inadequate responders         | ORAL Sync: DMARD inadequate responders         |
 | Tofacitinib 5 mg twice daily                   | Month 6                                        | 312                                            | 8*                                             |
 | Tofacitinib 10 mg twice daily                  | Month 6                                        | 315                                            | 11***                                          |
 | Placebo                                        | Month 6                                        | 158                                            | 3                                              |
-| ORAL Standard: MTXinadequate responders        | ORAL Standard: MTXinadequate responders        | ORAL Standard: MTXinadequate responders        | ORAL Standard: MTXinadequate responders        |
+| ORAL Standard: MTX inadequate responders       | ORAL Standard: MTX inadequate responders       | ORAL Standard: MTX inadequate responders       | ORAL Standard: MTX inadequate responders       |
 | Tofacitinib 5 mg twice daily + MTX             | Month 6                                        | 198                                            | 6*                                             |
-| Tofacitinib 10 mg twice daily +MTX             | Month 6                                        | 197                                            | 11***                                          |
-| Adalimumab40mgSCQOW+MTX                        | Month 6                                        | 199                                            | 6*                                             |
-| Placebo +MTX                                   | Month 6                                        | 105                                            | 1                                              |
+| Tofacitinib 10 mg twice daily + MTX            | Month 6                                        | 197                                            | 11***                                          |
+| Adalimumab 40 mg SC QOW + MTX                  | Month 6                                        | 199                                            | 6*                                             |
+| Placebo + MTX                                  | Month 6                                        | 105                                            | 1                                              |
 
 *p &lt;0.05, ***p&lt;0.0001 versus placebo, SC=subcutaneous, QOW=every other week, N=number of subjects analysed, DAS28=Disease Activity Scale 28 joints, ESR=Erythrocyte Sedimentation Rate.
 
@@ -2441,20 +2463,23 @@ In the MTX group, 70% of patients experienced no radiographic progression at mon
 
 <div style=\"page-break-after: always\"></div>
 
-Table 11: Radiographic changes at months 6 and 12
+Table 11:    Radiographic changes at months 6 and 12
 
-|                                  | ORAL Scan: MTXinadequate responders   | ORAL Scan: MTXinadequate responders                  | ORAL Scan: MTXinadequate responders                                  | ORAL Scan: MTXinadequate responders                   | ORAL Scan: MTXinadequate responders                                     |
-|----------------------------------|---------------------------------------|------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------------------------|
-|                                  | Placebo + MTX N=139 Mean (SD) a       | Tofacitinib 5 mg twice daily + MTX N=277 Mean (SD) a | Tofacitinib 5 mg twice daily+MTX Mean difference from placebo b (CI) | Tofacitinib 10 mg twice daily + MTX N=290 Mean (SD) a | Tofacitinib 10 mg twice daily + MTX Mean difference from placebo b (CI) |
-| mTSS c Baseline Month 6 Month 12 | 33 (42) 0.5 (2.0) 1.0 (3.9)           | 31 (48) 0.1 (1.7) 0.3 (3.0)                          | - -0.3 (-0.7, 0.0) -0.6 (-1.3, 0.0)                                  | 37 (54) 0.1 (2.0) 0.1 (2.9)                           | - -0.4 (-0.8, 0.0) -0.9 (-1.5, -0.2)                                    |
-|                                  | ORAL Start: MTX-naïve                 | ORAL Start: MTX-naïve                                | ORAL Start: MTX-naïve                                                | ORAL Start: MTX-naïve                                 | ORAL Start: MTX-naïve                                                   |
-|                                  | MTX N=168 Mean (SD) a                 | Tofacitinib 5 mg twice daily N=344 Mean (SD) a       | Tofacitinib 5 mg twice daily Mean difference from MTX d (CI)         | Tofacitinib 10 mg twice daily N=368 Mean (SD) a       | Tofacitinib 10 mg twice daily Mean difference from MTX d (CI)           |
-| mTSS c Baseline Month 6          | 16 (29) 0.9 (2.7)                     | 20 (41) 0.2 (2.3)                                    | - -0.7 (-1.0, -0.3)                                                  | 19 (39) 0.0 (1.2)                                     | - -0.8 (-1.2, -0.4)                                                     |
-| Month 12                         | 1.3 (3.7)                             | 0.4 (3.0)                                            | -0.9 (-1.4, -0.4)                                                    | 0.0 (1.5)                                             | -1.3 (-1.8, -0.8)                                                       |
+|                                  | ORAL Scan: MTX inadequate responders   | ORAL Scan: MTX inadequate responders                 | ORAL Scan: MTX inadequate responders                                   | ORAL Scan: MTX inadequate responders                  | ORAL Scan: MTX inadequate responders                                    |
+|----------------------------------|----------------------------------------|------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------------------------|
+|                                  | Placebo + MTX N=139 Mean (SD) a        | Tofacitinib 5 mg twice daily + MTX N=277 Mean (SD) a | Tofacitinib 5 mg twice daily + MTX Mean difference from placebo b (CI) | Tofacitinib 10 mg twice daily + MTX N=290 Mean (SD) a | Tofacitinib 10 mg twice daily + MTX Mean difference from placebo b (CI) |
+| mTSS c Baseline Month 6 Month 12 | 33 (42) 0.5 (2.0) 1.0 (3.9)            | 31 (48) 0.1 (1.7) 0.3 (3.0)                          | - -0.3 (-0.7, 0.0) -0.6 (-1.3, 0.0)                                    | 37 (54) 0.1 (2.0) 0.1 (2.9)                           | - -0.4 (-0.8, 0.0) -0.9 (-1.5, -0.2)                                    |
+|                                  | ORAL Start: MTX-naïve                  | ORAL Start: MTX-naïve                                | ORAL Start: MTX-naïve                                                  | ORAL Start: MTX-naïve                                 | ORAL Start: MTX-naïve                                                   |
+|                                  | MTX N=168 Mean (SD) a                  | Tofacitinib 5 mg twice daily N=344 Mean (SD) a       | Tofacitinib 5 mg twice daily Mean difference from MTX d (CI)           | Tofacitinib 10 mg twice daily N=368 Mean (SD) a       | Tofacitinib 10 mg twice daily Mean difference from MTX d (CI)           |
+| mTSS c Baseline Month 6 Month 12 | 16 (29) 0.9 (2.7) 1.3 (3.7)            | 20 (41) 0.2 (2.3) 0.4 (3.0)                          | - -0.7 (-1.0, -0.3) -0.9 (-1.4, -0.4)                                  | 19 (39) 0.0 (1.2) 0.0 (1.5)                           | - -0.8 (-1.2, -0.4) -1.3 (-1.8, -0.8)                                   |
 
-a  SD = Standard Deviation b  Difference between least squares means tofacitinib minus placebo (95% CI = 95% confidence interval)
+a  SD = Standard Deviation
 
-c Month 6 and month 12 data are mean change from baseline d  Difference between least squares means tofacitinib minus MTX (95% CI = 95% confidence interval)
+b  Difference between least squares means tofacitinib minus placebo (95% CI = 95% confidence interval)
+
+c Month 6 and month 12 data are mean change from baseline
+
+d  Difference between least squares means tofacitinib minus MTX (95% CI = 95% confidence interval)
 
 Physical function response and health-related outcomes
 
@@ -2462,20 +2487,20 @@ Tofacitinib, alone or in combination with MTX, has shown improvements in physica
 
 <div style=\"page-break-after: always\"></div>
 
-Table 12: LS Mean change from baseline in HAQ-DI at month 3
+Table 12:  LS Mean change from baseline in HAQ-DI at month 3
 
-| Placebo + MTX                                  |                                                | Tofacitinib 5 mg twice daily +MTX Tofacitinib 10 mg twice daily   | Adalimumab 40mgQOW +MTX                        |
-|------------------------------------------------|------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------|
-| ORAL Standard: MTXinadequate responders        | ORAL Standard: MTXinadequate responders        | ORAL Standard: MTXinadequate responders                           | ORAL Standard: MTXinadequate responders        |
-| N=96                                           | N=185                                          | N=183                                                             | N=188                                          |
-| -0.24                                          | -0.54***                                       | -0.61***                                                          | -0.50***                                       |
-| ORAL Step: TNF inhibitor inadequate responders | ORAL Step: TNF inhibitor inadequate responders | ORAL Step: TNF inhibitor inadequate responders                    | ORAL Step: TNF inhibitor inadequate responders |
-| N=118                                          | N=117                                          | N=125                                                             | NA                                             |
-| -0.18                                          | -0.43***                                       | -0.46***                                                          | NA                                             |
-| Placebo + DMARD(s)                             | Tofacitinib 5 mg twice daily + DMARD(s)        | Tofacitinib 10 mg twice daily + DMARD(s)                          |                                                |
-| ORAL Sync: DMARDinadequate responders          | ORAL Sync: DMARDinadequate responders          | ORAL Sync: DMARDinadequate responders                             | ORAL Sync: DMARDinadequate responders          |
-| N=147                                          | N=292                                          | N=292                                                             | NA                                             |
-| -0.21                                          | -0.46***                                       | -0.56***                                                          | NA                                             |
+| Placebo + MTX                                  |                                                | Tofacitinib 5 mg twice daily + MTX Tofacitinib 10 mg twice daily   | Adalimumab 40 mg QOW + MTX                     |
+|------------------------------------------------|------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------|
+| ORAL Standard: MTX inadequate responders       | ORAL Standard: MTX inadequate responders       | ORAL Standard: MTX inadequate responders                           | ORAL Standard: MTX inadequate responders       |
+| N=96                                           | N=185                                          | N=183                                                              | N=188                                          |
+| -0.24                                          | -0.54***                                       | -0.61***                                                           | -0.50***                                       |
+| ORAL Step: TNF inhibitor inadequate responders | ORAL Step: TNF inhibitor inadequate responders | ORAL Step: TNF inhibitor inadequate responders                     | ORAL Step: TNF inhibitor inadequate responders |
+| N=118                                          | N=117                                          | N=125                                                              | NA                                             |
+| -0.18                                          | -0.43***                                       | -0.46***                                                           | NA                                             |
+| Placebo + DMARD(s)                             | Tofacitinib 5 mg twice daily + DMARD(s)        | Tofacitinib 10 mg twice daily + DMARD(s)                           |                                                |
+| ORAL Sync: DMARD inadequate responders         | ORAL Sync: DMARD inadequate responders         | ORAL Sync: DMARD inadequate responders                             | ORAL Sync: DMARD inadequate responders         |
+| N=147                                          | N=292                                          | N=292                                                              | NA                                             |
+| -0.21                                          | -0.46***                                       | -0.56***                                                           | NA                                             |
 
 Health-related quality of life was assessed by the Short Form Health Survey (SF-36). Patients receiving either 5 mg or 10 mg tofacitinib twice daily experienced significantly greater improvement from baseline compared to placebo in all 8 domains as well as the Physical Component Summary and Mental Component Summary scores at month 3 in ORAL Solo, ORAL Scan and ORAL Step. In ORAL Scan, mean SF-36 improvements were maintained to 12 months in tofacitinib-treated patients.
 
@@ -2491,11 +2516,9 @@ Evidence of persistence of efficacy with tofacitinib treatment for up to 5 years
 
 ## Long-term controlled safety data
 
-Study ORAL Surveillance (A3921133) was a large (N=4362), randomised active-controlled post-authorisation safety surveillance study of rheumatoid arthritis patients who were 50 years of age and older and had at least one additional cardiovascular risk factor (CV risk factors defined as: current cigarette smoker, diagnosis of hypertension, diabetes mellitus, family history of premature coronary
+Study ORAL Surveillance (A3921133) was a large (N=4362), randomised active-controlled post-authorisation safety surveillance study of rheumatoid arthritis patients who were 50 years of age and older and had at least one additional cardiovascular risk factor (CV risk factors defined as: current cigarette smoker, diagnosis of hypertension, diabetes mellitus, family history of premature coronary heart disease, history of coronary artery disease including a history of revascularization procedure, coronary artery bypass grafting, myocardial infarction, cardiac arrest, unstable angina, acute coronary syndrome, and presence of extra-articular disease associated with RA, e.g. nodules, Sjögren's syndrome, anaemia of chronic disease, pulmonary manifestations). The majority (more than 90%) of tofacitinib patients who were current or past smokers had a smoking duration of more than 10 years and a median of 35.0 and 39.0 smoking years, respectively. Patients were required to be on a stable dose of methotrexate at study entry; dose adjustment was permitted during the study.
 
 <div style=\"page-break-after: always\"></div>
-
-heart disease, history of coronary artery disease including a history of revascularization procedure, coronary artery bypass grafting, myocardial infarction, cardiac arrest, unstable angina, acute coronary syndrome, and presence of extra-articular disease associated with RA, e.g. nodules, Sjögren's syndrome, anaemia of chronic disease, pulmonary manifestations). The majority (more than 90%) of tofacitinib patients who were current or past smokers had a smoking duration of more than 10 years and a median of 35.0 and 39.0 smoking years, respectively. Patients were required to be on a stable dose of methotrexate at study entry; dose adjustment was permitted during the study.
 
 Patients were randomised to open-label tofacitinib 10 mg twice daily, tofacitinib 5 mg twice daily, or a TNF inhibitor (TNF inhibitor was either etanercept 50 mg once weekly or adalimumab 40 mg every other week) in a 1:1:1 ratio. The co-primary endpoints were adjudicated malignancies excluding NMSC and adjudicated major adverse cardiovascular events (MACE); cumulative incidence and statistical assessment of endpoints were blinded. The study was an event-powered study that also required at least 1500 patients to be followed for 3 years. The study treatment of tofacitinib 10 mg twice daily was stopped and patients were switched to 5 mg twice daily because of a dose-dependent signal of venous thromboembolic events (VTE). For patients in the tofacitinib 10 mg twice daily treatment arm, the data collected before and after the dose switch were analysed in their originally randomised treatment group.
 
@@ -2507,7 +2530,7 @@ The results for adjudicated MACE, adjudicated malignancies excluding NMSC, and s
 
 An increase in non-fatal myocardial infarction was observed in patients treated with tofacitinib compared to TNF inhibitor. A dose-dependent increase in VTE events was observed in patients treated with tofacitinib compared to TNF inhibitor (see sections 4.4 and 4.8).
 
-Table 13: Incidence rate and hazard ratio for MACE, myocardial infarction and venous thromboembolism
+Table 13:  Incidence rate and hazard ratio for MACE, myocardial infarction and venous thromboembolism
 
 |                        | Tofacitinib 5 mg twice daily   | Tofacitinib 10 mg twice daily a   | All Tofacitinib b   | TNF inhibitor (TNFi)   |
 |------------------------|--------------------------------|-----------------------------------|---------------------|------------------------|
@@ -2540,7 +2563,7 @@ The following predictive factors for development of MI (fatal and non-fatal) wer
 
 An increase in malignancies excluding NMSC, particularly lung cancer, lymphoma and an increase in NMSC was observed in patients treated with tofacitinib compared to TNF inhibitor.
 
-Table 14: Incidence rate and hazard ratio for malignancies a
+Table 14:  Incidence rate and hazard ratio for malignancies a
 
 |                             | Tofacitinib 5 mg twice daily   | Tofacitinib 10 mg twice daily b   | All Tofacitinib c           | TNF inhibitor (TNFi)        |
 |-----------------------------|--------------------------------|-----------------------------------|-----------------------------|-----------------------------|
@@ -2565,7 +2588,7 @@ Increased mortality was observed in patients treated with tofacitinib compared t
 
 <div style=\"page-break-after: always\"></div>
 
-Table 15: Incidence rate and hazard ratio for mortality a
+Table 15:  Incidence rate and hazard ratio for mortality a
 
 |                        | Tofacitinib 5 mg twice daily   | Tofacitinib 10 mg twice daily b   | All Tofacitinib c   | TNF inhibitor (TNFi)   |
 |------------------------|--------------------------------|-----------------------------------|---------------------|------------------------|
@@ -2588,7 +2611,7 @@ b  The tofacitinib 10 mg twice daily treatment group includes data from patients
 
 c  Combined tofacitinib 5 mg twice daily and tofacitinib 10 mg twice daily.
 
-Abbreviations: TNF = tumor necrosis factor, IR = incidence rate, HR = hazard ratio, CI = confidence interval, PY = patient years, CV = cardiovascular, Inf = infinity
+Abbreviations: TNF = tumor necrosis factor, IR = incidence rate, HR = hazard ratio, CI = confidence interval, PY = patient years, CV = cardiovascular, Inf = infinity.
 
 ## Psoriatic arthritis
 
@@ -2604,36 +2627,36 @@ Treatment with tofacitinib resulted in significant improvements in some signs an
 
 <div style=\"page-break-after: always\"></div>
 
-Table 16: Proportion (%) of PsA patients who achieved clinical response and mean change from baseline in OPAL BROADEN and OPAL BEYOND studies
+Table 16:  Proportion (%) of PsA patients who achieved clinical response and mean change from baseline in OPAL BROADEN and OPAL BEYOND studies
 
-|                 | Conventional syntheticDMARD inadequate responders a (TNFi-Naïve) OPAL BROADEN   | Conventional syntheticDMARD inadequate responders a (TNFi-Naïve) OPAL BROADEN   | Conventional syntheticDMARD inadequate responders a (TNFi-Naïve) OPAL BROADEN   | TNFi inadequate responders b OPAL BEYOND c   | TNFi inadequate responders b OPAL BEYOND c   |
-|-----------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------|----------------------------------------------|
-| Treatment group | Placebo                                                                         | Tofacitinib 5 mg twice daily                                                    | Adalimumab 40 mg SC q2W                                                         | Placebo                                      | Tofacitinib 5 mg twice daily                 |
-| N               | 105                                                                             | 107                                                                             | 106                                                                             | 131                                          | 131                                          |
-| ACR20           |                                                                                 |                                                                                 |                                                                                 |                                              |                                              |
-| Month 3         | 33%                                                                             | 50% d,*                                                                         | 52% *                                                                           | 24%                                          | 50% d,***                                    |
-| Month 6         | NA                                                                              | 59%                                                                             | 64%                                                                             | NA                                           | 60%                                          |
-| Month 12        | NA                                                                              | 68%                                                                             | 60%                                                                             | -                                            | -                                            |
-| ACR50           |                                                                                 |                                                                                 |                                                                                 |                                              |                                              |
-| Month 3         | 10%                                                                             | 28% e,**                                                                        | 33% ***                                                                         | 15%                                          | 30% e,*                                      |
-| Month 6         | NA                                                                              | 38%                                                                             | 42%                                                                             | NA                                           | 38%                                          |
-| Month 12        | NA                                                                              | 45%                                                                             | 41%                                                                             | -                                            | -                                            |
-| ACR70           |                                                                                 |                                                                                 |                                                                                 |                                              |                                              |
-| Month 3         | 5%                                                                              | 17% e,*                                                                         | 19% *                                                                           | 10%                                          | 17%                                          |
-| Month 6         | NA                                                                              | 18%                                                                             | 30%                                                                             | NA                                           | 21%                                          |
-| Month 12        | NA                                                                              | 23%                                                                             | 29%                                                                             | -                                            | -                                            |
-| ∆ LEI f         |                                                                                 |                                                                                 |                                                                                 |                                              |                                              |
-| Month 3         | -0.4                                                                            | -0.8                                                                            | -1.1 *                                                                          | -0.5                                         | -1.3 *                                       |
-| Month 6         | NA                                                                              | -1.3                                                                            | -1.3                                                                            | NA                                           | -1.5                                         |
-| Month 12        | NA                                                                              | -1.7                                                                            | -1.6                                                                            | -                                            | -                                            |
-| ∆ DSS f         |                                                                                 |                                                                                 |                                                                                 |                                              |                                              |
-| Month 3         | -2.0                                                                            | -3.5                                                                            | -4.0                                                                            | -1.9                                         | -5.2 *                                       |
-| Month 6         | NA                                                                              | -5.2                                                                            | -5.4                                                                            | NA                                           | -6.0                                         |
-| Month 12        | NA                                                                              | -7.4                                                                            | -6.1                                                                            | -                                            | -                                            |
-| PASI75 g        |                                                                                 |                                                                                 |                                                                                 |                                              |                                              |
-| Month 3         | 15%                                                                             | 43% d,***                                                                       | 39% **                                                                          | 14%                                          | 21%                                          |
-| Month 6         | NA                                                                              | 46%                                                                             | 55%                                                                             | NA                                           | 34%                                          |
-| Month 12        | NA                                                                              | 56%                                                                             | 56%                                                                             | -                                            | -                                            |
+|                 | Conventional synthetic DMARD inadequate responders a (TNFi-Naïve) OPAL BROADEN   | Conventional synthetic DMARD inadequate responders a (TNFi-Naïve) OPAL BROADEN   | Conventional synthetic DMARD inadequate responders a (TNFi-Naïve) OPAL BROADEN   | TNFi inadequate responders b OPAL BEYOND c   | TNFi inadequate responders b OPAL BEYOND c   |
+|-----------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------|----------------------------------------------|
+| Treatment group | Placebo                                                                          | Tofacitinib 5 mg twice daily                                                     | Adalimumab 40 mg SC q2W                                                          | Placebo                                      | Tofacitinib 5 mg twice daily                 |
+| N               | 105                                                                              | 107                                                                              | 106                                                                              | 131                                          | 131                                          |
+| ACR20           |                                                                                  |                                                                                  |                                                                                  |                                              |                                              |
+| Month 3         | 33%                                                                              | 50% d,*                                                                          | 52% *                                                                            | 24%                                          | 50% d,***                                    |
+| Month 6         | NA                                                                               | 59%                                                                              | 64%                                                                              | NA                                           | 60%                                          |
+| Month 12        | NA                                                                               | 68%                                                                              | 60%                                                                              | -                                            | -                                            |
+| ACR50           |                                                                                  |                                                                                  |                                                                                  |                                              |                                              |
+| Month 3         | 10%                                                                              | 28% e,**                                                                         | 33% ***                                                                          | 15%                                          | 30% e,*                                      |
+| Month 6         | NA                                                                               | 38%                                                                              | 42%                                                                              | NA                                           | 38%                                          |
+| Month 12        | NA                                                                               | 45%                                                                              | 41%                                                                              | -                                            | -                                            |
+| ACR70           |                                                                                  |                                                                                  |                                                                                  |                                              |                                              |
+| Month 3         | 5%                                                                               | 17% e,*                                                                          | 19% *                                                                            | 10%                                          | 17%                                          |
+| Month 6         | NA                                                                               | 18%                                                                              | 30%                                                                              | NA                                           | 21%                                          |
+| Month 12        | NA                                                                               | 23%                                                                              | 29%                                                                              | -                                            | -                                            |
+| ∆ LEI f         |                                                                                  |                                                                                  |                                                                                  |                                              |                                              |
+| Month 3         | -0.4                                                                             | -0.8                                                                             | -1.1 *                                                                           | -0.5                                         | -1.3 *                                       |
+| Month 6         | NA                                                                               | -1.3                                                                             | -1.3                                                                             | NA                                           | -1.5                                         |
+| Month 12        | NA                                                                               | -1.7                                                                             | -1.6                                                                             | -                                            | -                                            |
+| ∆ DSS f         |                                                                                  |                                                                                  |                                                                                  |                                              |                                              |
+| Month 3         | -2.0                                                                             | -3.5                                                                             | -4.0                                                                             | -1.9                                         | -5.2 *                                       |
+| Month 6         | NA                                                                               | -5.2                                                                             | -5.4                                                                             | NA                                           | -6.0                                         |
+| Month 12        | NA                                                                               | -7.4                                                                             | -6.1                                                                             | -                                            | -                                            |
+| PASI75 g        |                                                                                  |                                                                                  |                                                                                  |                                              |                                              |
+| Month 3         | 15%                                                                              | 43% d,***                                                                        | 39% **                                                                           | 14%                                          | 21%                                          |
+| Month 6         | NA                                                                               | 46%                                                                              | 55%                                                                              | NA                                           | 34%                                          |
+| Month 12        | NA                                                                               | 56%                                                                              | 56%                                                                              | -                                            | -                                            |
 
 * Nominal p≤0.05; **  Nominal p&lt;0.001;  ***  Nominal p&lt;0.0001 for active treatment versus placebo at month 3. Abbreviations: BSA=body surface area; ∆LEI=change from baseline in Leeds Enthesitis Index; ∆DSS=change from baseline in Dactylitis Severity Score; ACR20/50/70=American College of Rheumatology ≥ 20%, 50%, 70% improvement; csDMARD=conventional synthetic disease-modifying antirheumatic drug; N=number of randomised and treated patients; NA=Not applicable, as data for placebo treatment is not available beyond month 3 due to placebo advanced to tofacitinib 5 mg twice daily or tofacitinib 10 mg twice daily; SC q2w=subcutaneously once every 2 weeks; TNFi=tumour necrosis factor inhibitor; PASI=Psoriasis Area and Severity index; PASI75=≥ 75% improvement in PASI.
 
@@ -2661,16 +2684,16 @@ In study OPAL BROADEN, the progression of structural joint damage was assessed r
 
 Improvement in physical functioning was measured by the HAQ-DI. Patients receiving tofacitinib 5 mg twice daily demonstrated greater improvement (p≤ 0.05) from baseline in physical functioning compared to placebo at month 3 (see Table 17).
 
-Table 17: Change from baseline in HAQ-DI in PsA studies OPAL BROADEN and OPAL BEYOND
+Table 17:  Change from baseline in HAQ-DI in PsA studies OPAL BROADEN and OPAL BEYOND
 
-|                 | Least squares mean change from baseline in HAQ-DI                             | Least squares mean change from baseline in HAQ-DI                             | Least squares mean change from baseline in HAQ-DI                             | Least squares mean change from baseline in HAQ-DI   | Least squares mean change from baseline in HAQ-DI   |
-|-----------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-|                 | Conventional syntheticDMARD inadequate responders a (TNFi-naïve) OPAL BROADEN | Conventional syntheticDMARD inadequate responders a (TNFi-naïve) OPAL BROADEN | Conventional syntheticDMARD inadequate responders a (TNFi-naïve) OPAL BROADEN | TNFi inadequate responders b OPAL BEYOND            | TNFi inadequate responders b OPAL BEYOND            |
-| Treatment group | Placebo                                                                       | Tofacitinib 5 mg twice daily                                                  | Adalimumab 40 mg SC q2W                                                       | Placebo                                             | Tofacitinib 5 mg twice daily                        |
-| N               | 104                                                                           | 107                                                                           | 106                                                                           | 131                                                 | 129                                                 |
-| Month 3         | -0.18                                                                         | -0.35 c,*                                                                     | -0.38 *                                                                       | -0.14                                               | -0.39 c,***                                         |
-| Month 6         | NA                                                                            | -0.45                                                                         | -0.43                                                                         | NA                                                  | -0.44                                               |
-| Month 12        | NA                                                                            | -0.54                                                                         | -0.45                                                                         | NA                                                  | NA                                                  |
+|                 | Least squares mean change from baseline in HAQ-DI                              | Least squares mean change from baseline in HAQ-DI                              | Least squares mean change from baseline in HAQ-DI                              | Least squares mean change from baseline in HAQ-DI   | Least squares mean change from baseline in HAQ-DI   |
+|-----------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
+|                 | Conventional synthetic DMARD inadequate responders a (TNFi-naïve) OPAL BROADEN | Conventional synthetic DMARD inadequate responders a (TNFi-naïve) OPAL BROADEN | Conventional synthetic DMARD inadequate responders a (TNFi-naïve) OPAL BROADEN | TNFi inadequate responders b OPAL BEYOND            | TNFi inadequate responders b OPAL BEYOND            |
+| Treatment group | Placebo                                                                        | Tofacitinib 5 mg twice daily                                                   | Adalimumab 40 mg SC q2W                                                        | Placebo                                             | Tofacitinib 5 mg twice daily                        |
+| N               | 104                                                                            | 107                                                                            | 106                                                                            | 131                                                 | 129                                                 |
+| Month 3         | -0.18                                                                          | -0.35 c,*                                                                      | -0.38 *                                                                        | -0.14                                               | -0.39 c,***                                         |
+| Month 6         | NA                                                                             | -0.45                                                                          | -0.43                                                                          | NA                                                  | -0.44                                               |
+| Month 12        | NA                                                                             | -0.54                                                                          | -0.45                                                                          | NA                                                  | NA                                                  |
 
 * Nominal p≤0.05; ***  Nominal p&lt;0.0001 for active treatment versus placebo at month 3.
 
@@ -2702,10 +2725,10 @@ Patients treated with tofacitinib 5 mg twice daily achieved greater improvements
 
 Table 18:  ASAS20 and ASAS40 Responses at Week 16, Study AS-I
 
-|                    |   Placebo (N=136) |   Tofacitinib 5 mg Twice Daily (N=133) | Difference from Placebo (95% CI)   |
-|--------------------|-------------------|----------------------------------------|------------------------------------|
-| ASAS20 response*,% |                29 |                                     56 | 27 (16, 38)**                      |
-| ASAS40 response*,% |                13 |                                     41 | 28 (18, 38)**                      |
+|                     |   Placebo (N=136) |   Tofacitinib 5 mg Twice Daily (N=133) | Difference from Placebo (95% CI)   |
+|---------------------|-------------------|----------------------------------------|------------------------------------|
+| ASAS20 response*, % |                29 |                                     56 | 27 (16, 38)**                      |
+| ASAS40 response*, % |                13 |                                     41 | 28 (18, 38)**                      |
 
 * type I error-controlled.
 
@@ -2713,7 +2736,7 @@ Table 18:  ASAS20 and ASAS40 Responses at Week 16, Study AS-I
 
 The efficacy of tofacitinib was demonstrated in bDMARD naïve and TNF-inadequate responders (IR)/bDMARD experienced (non-IR) patients (Table 19).
 
-Table 19: ASAS20 and ASAS40 Responses (%) by Treatment History at Week 16, Study AS-I
+Table 19:  ASAS20 and ASAS40 Responses (%) by Treatment History at Week 16, Study AS-I
 
 | Prior Treatment History        | Efficacy Endpoint   | Efficacy Endpoint              | Efficacy Endpoint                | Efficacy Endpoint   | Efficacy Endpoint              | Efficacy Endpoint                |
 |--------------------------------|---------------------|--------------------------------|----------------------------------|---------------------|--------------------------------|----------------------------------|
@@ -2742,14 +2765,6 @@ Table 20:  ASAS Components and Other Measures of Disease Activity at Week 16, St
 | BASMI e, *                                                  | 4.4               | -0.1                               | 4.5                                    | -0.6                                   | -0.5 (-0.67, -0.37)**            |
 | hsCRP f, * (mg/dL)                                          | 1.8               | -0.1                               | 1.6                                    | -1.1                                   | -1.0 (-1.20, -0.72)**            |
 | ASDAScrp g, *                                               | 3.9               | -0.4                               | 3.8                                    | -1.4                                   | -1.0 (-1.16, -0.79)**            |
-
-e  Bath Ankylosing Spondylitis Metrology Index.
-
-f High sensitivity C-reactive protein.
-
-g  Ankylosing Spondylitis Disease Activity Score with C-reactive protein.
-
-LSM = least squares mean.
 
 ## Other health-related outcomes
 
@@ -2811,11 +2826,9 @@ The carcinogenic potential of tofacitinib was assessed in 6-month rasH2 transgen
 
 Tofacitinib was shown to be teratogenic in rats and rabbits, and have effects in rats on female fertility (decreased pregnancy rate; decreases in the numbers of corpora lutea, implantation sites, and viable foetuses; and an increase in early resorptions), parturition, and peri/postnatal development. Tofacitinib had no effects on male fertility, sperm motility or sperm concentration. Tofacitinib was secreted in milk of lactating rats at concentrations approximately 2-fold those in serum from 1 to 8 hours postdose. In studies conducted in juvenile rats and monkeys, there were no tofacitinib-related effects on bone development in males or females, at exposures similar to those achieved at approved doses in humans.
 
-No tofacitinib-related findings were observed in juvenile animal studies that indicate a higher sensitivity of paediatric populations compared with adults. In the juvenile rat fertility study, there was no evidence of developmental toxicity, no effects on sexual maturation, and no evidence of reproductive toxicity (mating and fertility) was noted after sexual maturity. In 1-month juvenile rat and 39-week juvenile monkey studies tofacitinib-related effects on immune and haematology
+No tofacitinib-related findings were observed in juvenile animal studies that indicate a higher sensitivity of paediatric populations compared with adults. In the juvenile rat fertility study, there was no evidence of developmental toxicity, no effects on sexual maturation, and no evidence of reproductive toxicity (mating and fertility) was noted after sexual maturity. In 1-month juvenile rat and 39-week juvenile monkey studies tofacitinib-related effects on immune and haematology parameters consistent with JAK1/3 and JAK2 inhibition were observed. These effects were reversible and consistent with those also observed in adult animals at similar exposures.
 
 <div style=\"page-break-after: always\"></div>
-
-parameters consistent with JAK1/3 and JAK2 inhibition were observed. These effects were reversible and consistent with those also observed in adult animals at similar exposures.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -3038,7 +3051,11 @@ Tofacitinib is given orally with or without food.
 
 ## 4.4 Special warnings and precautions for use
 
-Tofacitinib should only be used if no suitable treatment alternatives are available in patients: -65 years of age and older; -patients with history of atherosclerotic cardiovascular disease or other cardiovascular risk factors (such as current or past long-time smokers); -patients with malignancy risk factors (e.g. current malignancy or history of malignancy)
+Tofacitinib should only be used if no suitable treatment alternatives are available in patients: -65 years of age and older;
+
+-patients with history of atherosclerotic cardiovascular disease or other cardiovascular risk factors (such as current or past long-time smokers);
+
+-patients with malignancy risk factors (e.g. current malignancy or history of malignancy)
 
 ## Combination with other therapies
 
@@ -3114,7 +3131,7 @@ In patients treated with tofacitinib, the incidence of herpes zoster appears to 
 
 The impact of tofacitinib on chronic viral hepatitis reactivation is unknown. Patients screened positive for hepatitis B or C were excluded from clinical studies. Screening for viral hepatitis should be performed in accordance with clinical guidelines before starting therapy with tofacitinib.
 
-At least one confirmed case of progressive multifocal leukoencephalopathy (PML) has been reported in RA patients receiving tofacitinib in the post marketing setting. PML can be fatal and should be considered in the differential diagnosis in immunosuppressed patients with new onset or worsening neurological symptoms.
+Progressive multifocal leukoencephalopathy (PML) has been reported during post marketing use of tofacitinib for the treatment of autoimmune diseases (including off-label use). PML can be fatal and should be considered in the differential diagnosis in immunosuppressed patients with new onset or worsening neurological symptoms. If PML is suspected, withhold dosing with tofacitinib during appropriate diagnostic evaluation. If PML is confirmed, treatment with tofacitinib should be discontinued.
 
 ## Major adverse cardiovascular events (including myocardial infarction)
 
@@ -3226,7 +3243,7 @@ Coadministration with ketoconazole (strong CYP3A4 inhibitor), fluconazole (moder
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 1. Impact of other medicinal products on PK of tofacitinib
+Figure 1.  Impact of other medicinal products on PK of tofacitinib
 
 <!-- image -->
 
@@ -3288,7 +3305,7 @@ The adverse reactions listed in the table below are from clinical studies in adu
 
 <div style=\"page-break-after: always\"></div>
 
-## Table 7: Adverse reactions
+Table 7: Adverse reactions
 
 | System organ class                                     | Common ≥1/100 to <1/10                                                                                     | Uncommon ≥1/1,000 to <1/100                                                                                | Rare ≥1/10,000 to <1/1,000                                                                                                                                              | Very rare <1/10,000                                                                                                                                                                                   | Not known (cannot be estimated from the available data)   |
 |--------------------------------------------------------|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
@@ -3335,11 +3352,9 @@ In controlled phase 3 clinical studies, the rates of infections over 0-3 months 
 
 The most commonly reported infections were upper respiratory tract infections and nasopharyngitis (3.7% and 3.2%, respectively).
 
-The overall incidence rate of infections with tofacitinib in the long-term safety all exposure population (total 4,867 patients) was 46.1 patients with events per 100 patient-years (43.8 and 47.2 patients with events for 5 mg and 10 mg twice daily, respectively). For patients (total 1,750) on monotherapy, the rates were 48.9 and 41.9 patients with events per 100 patient-years for 5 mg and 10 mg twice daily,
+The overall incidence rate of infections with tofacitinib in the long-term safety all exposure population (total 4,867 patients) was 46.1 patients with events per 100 patient-years (43.8 and 47.2 patients with events for 5 mg and 10 mg twice daily, respectively). For patients (total 1,750) on monotherapy, the rates were 48.9 and 41.9 patients with events per 100 patient-years for 5 mg and 10 mg twice daily, respectively. For patients (total 3,117) on background DMARDs, the rates were 41.0 and 50.3 patients with events per 100 patient-years for 5 mg and 10 mg twice daily, respectively.
 
 <div style=\"page-break-after: always\"></div>
-
-respectively. For patients (total 3,117) on background DMARDs, the rates were 41.0 and 50.3 patients with events per 100 patient-years for 5 mg and 10 mg twice daily, respectively.
 
 ## Serious infections
 
@@ -3441,19 +3456,19 @@ The incidence rates (95% CI) for lymphoma for tofacitinib 5 mg twice daily, tofa
 
 ## Polyarticular juvenile idiopathic arthritis and juvenile PsA
 
-The adverse reactions in JIA patients in the clinical development program were consistent in type and frequency with those seen in adult RA patients, with the exception of some infections (influenza, pharyngitis, sinusitis, viral infection) and gastrointestinal or general disorders (abdominal pain, nausea, vomiting, pyrexia, headache, cough), which were more common in JIA paediatric population. MTX was the most frequent concomitant csDMARD used (on Day 1, 156 of 157 patients on csDMARDs took MTX). There are insufficient data regarding the safety profile of tofacitinib used concomitantly with any other csDMARDs.
+The adverse reactions in JIA patients in the Phase 3 pivotal trial (Study JIA-I) and long-term extension study, which included paediatric patients with pJIA, jPsA, ERA, and sJIA, were generally consistent in type and frequency with those seen in adult RA patients, with the exception of some infections (upper respiratory tract infection and viral infection) and gastrointestinal or general disorders (abdominal pain and pyrexia), which were more common in the JIA paediatric population. MTX was the most frequent concomitant csDMARD used (on Day 1, 156 of 157 patients on csDMARDs took MTX). There are insufficient data regarding the safety profile of tofacitinib used concomitantly with any other csDMARDs.
 
 ## Infections
 
-In the double-blind portion of the pivotal Phase 3 trial (Study JIA-I), infection was the most commonly reported adverse reaction (44.3%). The infections were generally mild to moderate in severity.
+In the double-blind portion of Study JIA-I, infection was the most commonly reported adverse reaction (44.3%). The infections were generally mild to moderate in severity.
 
-In the integrated safety population, 7 patients had serious infections during treatment with tofacitinib within the reporting period (up to 28 days after the last dose of study medication), representing an incidence rate of 1.92 patients with events per 100 patient-years: pneumonia, epidural empyema (with sinusitis and subperiosteal abscess), pilonidal cyst, appendicitis, escherichia pyelonephritis, abscess limb, and UTI.
+In Study JIA-I, serious infections were reported in 3 patients (1.3%) who received tofacitinib, corresponding to an incidence rate of 2.43 patients with events per 100 patient-years. Herpes zoster was reported in 2 patients (0.9%), with an incidence rate of 1.63 patients with events per 100 patient-years. Both events involved a single dermatome and were non-serious.
 
-In the integrated safety population, 3 patients had non-serious events of herpes zoster within the reporting window representing an incidence rate of 0.82 patients with events per 100 patient-years. One (1) additional patient had an event of serious HZ outside the reporting window.
+In the long-term extension study, serious infections occurred in 14 patients (4.6%) receiving tofacitinib, corresponding to an incidence rate of 1.50 patients with events per 100 patient-years. The most frequent serious infections were herpes zoster and pneumonia. Herpes zoster events were reported in 6 patients (2.0%) corresponding to an incidence rate of 0.64 patients with events per 100 patient-years. Of these, 2 patients (0.7%) experienced serious events of multidermatomal herpes zoster with an incidence rate of 0.21 events per 100 patient-years. In addition, there were 3 herpes zoster events (2 serious and 1 non-serious) confined to a single dermatome. The remaining herpes zoster event was non-serious, involved 2 adjacent dermatomes, and occurred in a patient with a prior non-serious varicella event reported 5.8 years earlier in the study.
 
 ## Hepatic events
 
-Patients in the JIA pivotal study were required to have AST and ALT levels less than 1.5 times the upper limit of normal to be eligible for enrolment. In the integrated safety population, there were 2 patients with ALT elevations ≥3 times the ULN at 2 consecutive visits. Neither event met Hy's Law criteria. Both patients were on background MTX therapy and each event resolved after discontinuation of MTX and permanent discontinuation of tofacitinib.
+Patients in the JIA pivotal study were required to have AST and ALT levels less than 1.5 times the upper limit of normal to be eligible for enrolment. In Study JIA-I, ALT elevations &gt; 5 × ULN at 2 consecutive visits were reported in 1 patient (0.4%) receiving tofacitinib who was receiving background methotrexate; the event was adjudicated as related to tofacitinib and resolved following discontinuation of methotrexate and tofacitinib. In the long-term extension study, AST or ALT elevations &gt; 5 × ULN at 2 consecutive visits were reported in 2 patients (0.66%); both events were adjudicated as unrelated to tofacitinib. None of the events in either study met Hy's Law criteria.
 
 ## Laboratory tests
 
@@ -3521,7 +3536,7 @@ The occurrence of disease flare and JIA ACR30/50/70 results were favourable to t
 
 In Study JIA-I, at Week 2 of the open-label run-in phase, the JIA ACR30 response in patients with pJIA was 45.03%.
 
-Table 8:  Primary and secondary efficacy endpoints in patients with pJIA at Week 44* in Study JIA-I (all p-values&lt;0.05)
+Table 8: Primary and secondary efficacy endpoints in patients with pJIA at Week 44* in Study JIA-I (all p-values&lt;0.05)
 
 | Primary endpoint (Type I error controlled)                  | Treatment group                           | Occurrence rate   | Difference (%) from placebo (95% CI)   |
 |-------------------------------------------------------------|-------------------------------------------|-------------------|----------------------------------------|
@@ -3538,23 +3553,40 @@ Table 8:  Primary and secondary efficacy endpoints in patients with pJIA at Week
 | Change from Double- Blind Baseline in CHAQ Disability Index | Tofacitinib 5 mg Twice Daily (N=67; n=46) | -0.11 (0.04)      | -0.11 (-0.22, -0.01)                   |
 | Change from Double- Blind Baseline in CHAQ Disability Index | Placebo (N=66; n=31)                      | 0.00 (0.04)       | -0.11 (-0.22, -0.01)                   |
 
-ACR = American College of Rheumatology; CHAQ = childhood health assessment questionnaire; CI = confidence interval; JIA = juvenile idiopathic arthritis; LS = least squares; n = number of patients with observations at the visit; N = total number of patients; SEM = standard error of the mean
+ACR = American College of Rheumatology; CHAQ = childhood health assessment questionnaire; CI = confidence interval; JIA = juvenile idiopathic arthritis; LS = least squares; n = number of patients with observations at the visit; N = total number of patients; SEM = standard error of the mean In the double-blind phase, each of the components of the JIA ACR response showed greater improvement from the open-label baseline (Day 1) at Week 24 and Week 44 for patients with pJIA treated with tofacitinib oral solution dosed as 5 mg twice daily or weight-based equivalent twice daily compared with those receiving placebo in Study JIA-I.
 
 * The 26-week double-blind phase is from Week 18 through Week 44 on and after randomisation day. The Type-I error-controlled endpoints are tested in this order: Disease Flare, JIA ACR50, JIA ACR30, JIA ACR70, CHAQ Disability Index.
 
 <div style=\"page-break-after: always\"></div>
 
-In the double-blind phase, each of the components of the JIA ACR response showed greater improvement from the open-label baseline (Day 1) at Week 24 and Week 44 for patients with pJIA treated with tofacitinib oral solution dosed as 5 mg twice daily or weight-based equivalent twice daily compared with those receiving placebo in Study JIA-I.
-
 ## Physical function and health-related quality of life
 
 Changes in physical function in Study JIA-I were measured by the CHAQ Disability Index. The mean change from the double-blind baseline in CHAQ-Disability Index in patients with pJIA was significantly lower in the tofacitinib 5 mg film-coated tablets twice daily or tofacitinib oral solution weight-based equivalent twice daily compared to placebo at Week 44 (Table 8). The mean change from the double-blind baseline in CHAQ Disability Index results were favourable to tofacitinib 5 mg twice daily in comparison to placebo across the RF+ polyarthritis, RF- polyarthritis, extended oligoarthritis, and jPsA JIA subtypes and were consistent with those for the overall study population.
+
+## Long-term extension study
+
+In the LTE study, 152 patients with pJIA from Study JIA-I received open-label tofacitinib 5 mg twice daily for up to 7.5 years. Patients who discontinued during the open-label (OL) phase of Study JIA-I (tofacitinib OL) and those who entered the double-blind (DB) phase and received tofacitinib 5 mg twice daily (tofacitinib-tofacitinib DB) or placebo (tofacitinib-placebo DB) were eligible to enrol in the LTE study if they met entry criteria. Most patients who entered the DB phase of Study JIA-I entered the LTE study (64/67 from tofacitinib-tofacitinib DB and 64/66 from tofacitinib-placebo DB). Median tofacitinib exposure was 46.3 months (range: 1.0, 88.4) for tofacitinib-tofacitinib DB and 43.8 months (range: 1.5, 89.0) for tofacitinib-placebo DB groups, respectively. JIA ACR response rates at Month 45, using observed and a modified non-responder imputation (where patients who discontinued due to insufficient clinical response or adverse event were considered non-responders), are presented in Table 9 for the tofacitinib-tofacitinib DB and tofacitinib-placebo DB groups.
+
+Table 9: Efficacy endpoints at Month 45 of the LTE study in patients with pJIA (observed and modified non-responder imputation analyses)
+
+|                                     | Tofacitinib - Tofacitinib DB (N=64)   | Tofacitinib - Tofacitinib DB (N=64)   | Tofacitinib - Placebo DB (N=64)   | Tofacitinib - Placebo DB (N=64)   |
+|-------------------------------------|---------------------------------------|---------------------------------------|-----------------------------------|-----------------------------------|
+|                                     | Observed                              | mNRI                                  | Observed                          | mNRI                              |
+| JIA ACR30, n / N (%)                | 33 / 34 (97.1)                        | 33 / 43 (76.7)                        | 34 / 37 (91.9)                    | 34 / 49 (69.4)                    |
+| JIA ACR50, n / N (%)                | 32 / 34 (94.1)                        | 32 / 43 (74.4)                        | 34 / 37 (91.9)                    | 34 / 49 (69.4)                    |
+| JIA ACR70, n / N (%)                | 29 / 34 (85.3)                        | 29 / 43 (67.4)                        | 32 / 37 (86.5)                    | 32 / 49 (65.3)                    |
+| JIA ACR90, n / N (%)                | 19 / 34 (55.9)                        | 19 / 43 (44.2)                        | 26 / 37 (70.3)                    | 26 / 49 (53.1)                    |
+| JIA ACR inactive disease, n / N (%) | 13 / 36 (36.1)                        | 13 / 45 (28.9)                        | 17 / 39 (43.6)                    | 17 / 51 (33.3)                    |
+
+ACR = American College of Rheumatology; DB = double-blind; JIA = juvenile idiopathic arthritis; mNRI = modified non-responder imputation; n = number of patients with observations at the visit; N = total number of patients.
 
 ## Long-term controlled safety data in RA
 
 Study ORAL Surveillance (A3921133) was a large (N=4362), randomised active-controlled post-authorisation safety surveillance study of rheumatoid arthritis patients who were 50 years of age and older and had at least one additional cardiovascular risk factor (CV risk factors defined as: current cigarette smoker, diagnosis of hypertension, diabetes mellitus, family history of premature coronary heart disease, history of coronary artery disease including a history of revascularization procedure, coronary artery bypass grafting, myocardial infarction, cardiac arrest, unstable angina, acute coronary syndrome, and presence of extraarticular disease associated with RA, e.g. nodules, Sjögren's syndrome, anaemia of chronic disease, pulmonary manifestations). The majority (more than 90%) of tofacitinib patients who were current or past smokers had a smoking duration of more than 10 years and a median of 35.0 and 39.0 smoking years, respectively. Patients were required to be on a stable dose of methotrexate at study entry; dose adjustment was permitted during the study.
 
 Patients were randomised to open-label tofacitinib 10 mg twice daily, tofacitinib 5 mg twice daily, or a TNF inhibitor (TNF inhibitor was either etanercept 50 mg once weekly or adalimumab 40 mg every other week) in a 1:1:1 ratio. The co-primary endpoints were adjudicated malignancies excluding NMSC and adjudicated major adverse cardiovascular events (MACE); cumulative incidence and statistical assessment of endpoints were blinded. The study was an event-powered study that also required at least 1500 patients to be followed for 3 years. The study treatment of tofacitinib 10 mg twice daily was stopped and patients were switched to 5 mg twice daily because of a dose-dependent signal of venous thromboembolic events (VTE). For patients in the tofacitinib 10 mg twice daily treatment arm, the data collected before and after the dose switch were analysed in their originally randomised treatment group.
+
+<div style=\"page-break-after: always\"></div>
 
 The study did not meet the non-inferiority criterion for the primary comparison of the combined tofacitinib doses to TNF inhibitor since the upper limit of the 95% CI for HR exceeded the pre-specified non-inferiority criterion of 1.8 for adjudicated MACE and adjudicated malignancies excluding NMSC.
 
@@ -3564,9 +3596,7 @@ The results for adjudicated MACE, adjudicated malignancies excluding NMSC, and s
 
 An increase in non-fatal myocardial infarction was observed in patients treated with tofacitinib compared to TNF inhibitor. A dose-dependent increase in VTE events was observed in patients treated with tofacitinib compared to TNF inhibitor (see sections 4.4 and 4.8).
 
-<div style=\"page-break-after: always\"></div>
-
-Table 9: Incidence rate and hazard ratio for MACE, myocardial infarction and venous thromboembolism
+Table 10:  Incidence rate and hazard ratio for MACE, myocardial infarction and venous thromboembolism
 
 |                        | Tofacitinib 5 mg twice daily   | Tofacitinib 10 mg twice daily a   | All Tofacitinib b   | TNF inhibitor (TNFi)   |
 |------------------------|--------------------------------|-----------------------------------|---------------------|------------------------|
@@ -3589,13 +3619,15 @@ Table 9: Incidence rate and hazard ratio for MACE, myocardial infarction and ven
 | IR (95% CI) per 100 PY | 0.21 (0.11, 0.38)              | 0.31 (0.17, 0.51)                 | 0.26 (0.17, 0.38)   | 0.14 (0.06, 0.29)      |
 | HR (95% CI) vs TNFi    | 1.54 (0.60, 3.97)              | 2.21 (0.90, 5.43)                 | 1.87 (0.81, 4.30)   |                        |
 
+<div style=\"page-break-after: always\"></div>
+
 The following predictive factors for development of MI (fatal and non-fatal) were identified using a multivariate Cox model with backward selection: age ≥65 years, male, current or past smoking, history of diabetes, and history of coronary artery disease (which includes myocardial infarction, coronary heart disease, stable angina pectoris, or coronary artery procedures) (see sections 4.4 and 4.8).
 
 ## Malignancies
 
 An increase in malignancies excluding NMSC, particularly lung cancer, lymphoma and an increase in NMSC was observed in patients treated with tofacitinib compared to TNF inhibitor.
 
-Table 10: Incidence rate and hazard ratio for malignancies a
+Table 11:  Incidence rate and hazard ratio for malignancies a
 
 |                             | Tofacitinib 5 mg twice daily   | Tofacitinib 10 mg twice daily b   | All Tofacitinib c           | TNF inhibitor (TNFi)        |
 |-----------------------------|--------------------------------|-----------------------------------|-----------------------------|-----------------------------|
@@ -3604,17 +3636,13 @@ Table 10: Incidence rate and hazard ratio for malignancies a
 | HR (95% CI) vs TNFi         | 1.47 (1.00, 2.18)              | 1.48 (1.00, 2.19)                 | 1.48 (1.04, 2.09)           |                             |
 | Lung cancer                 | Lung cancer                    | Lung cancer                       | Lung cancer                 | Lung cancer                 |
 | IR (95% CI) per 100 PY      | 0.23 (0.12, 0.40)              | 0.32 (0.18, 0.51)                 | 0.28 (0.19, 0.39)           | 0.13 (0.05, 0.26)           |
-
-<div style=\"page-break-after: always\"></div>
-
-| HR (95% CI) vs TNFi    | 1.84 (0.74, 4.62)   | 2.50 (1.04, 6.02)   | 2.17 (0.95, 4.93)   |                   |
-|------------------------|---------------------|---------------------|---------------------|-------------------|
-| Lymphoma               | Lymphoma            | Lymphoma            | Lymphoma            | Lymphoma          |
-| IR (95% CI) per 100 PY | 0.07 (0.02, 0.18)   | 0.11 (0.04, 0.24)   | 0.09 (0.04, 0.17)   | 0.02 (0.00, 0.10) |
-| HR (95% CI) vs TNFi    | 3.99 (0.45, 35.70)  | 6.24 (0.75, 51.86)  | 5.09 (0.65, 39.78)  |                   |
-| NMSC                   | NMSC                | NMSC                | NMSC                | NMSC              |
-| IR (95% CI) per 100 PY | 0.61 (0.41, 0.86)   | 0.69 (0.47, 0.96)   | 0.64 (0.50, 0.82)   | 0.32 (0.18, 0.52) |
-| HR (95% CI) vs TNFi    | 1.90 (1.04, 3.47)   | 2.16 (1.19, 3.92)   | 2.02 (1.17, 3.50)   |                   |
+| HR (95% CI) vs TNFi         | 1.84 (0.74, 4.62)              | 2.50 (1.04, 6.02)                 | 2.17 (0.95, 4.93)           |                             |
+| Lymphoma                    | Lymphoma                       | Lymphoma                          | Lymphoma                    | Lymphoma                    |
+| IR (95% CI) per 100 PY      | 0.07 (0.02, 0.18)              | 0.11 (0.04, 0.24)                 | 0.09 (0.04, 0.17)           | 0.02 (0.00, 0.10)           |
+| HR (95% CI) vs TNFi         | 3.99 (0.45, 35.70)             | 6.24 (0.75, 51.86)                | 5.09 (0.65, 39.78)          |                             |
+| NMSC                        | NMSC                           | NMSC                              | NMSC                        | NMSC                        |
+| IR (95% CI) per 100 PY      | 0.61 (0.41, 0.86)              | 0.69 (0.47, 0.96)                 | 0.64 (0.50, 0.82)           | 0.32 (0.18, 0.52)           |
+| HR (95% CI) vs TNFi         | 1.90 (1.04, 3.47)              | 2.16 (1.19, 3.92)                 | 2.02 (1.17, 3.50)           |                             |
 
 The following predictive factors for development of malignancies excluding NMSC were identified using a Multivariate Cox model with backward selection: age ≥65 years and current or past smoking (see section 4.4 and 4.8).
 
@@ -3622,7 +3650,7 @@ The following predictive factors for development of malignancies excluding NMSC 
 
 Increased mortality was observed in patients treated with tofacitinib compared to TNF inhibitors. Mortality was mainly due to cardiovascular events, infections and malignancies.
 
-Table 11: Incidence rate and hazard ratio for mortality a
+Table 12:  Incidence rate and hazard ratio for mortality a
 
 |                        | Tofacitinib 5 mg twice daily   | Tofacitinib 10 mg twice daily b   | All Tofacitinib c   | TNF inhibitor (TNFi)   |
 |------------------------|--------------------------------|-----------------------------------|---------------------|------------------------|
@@ -3632,6 +3660,11 @@ Table 11: Incidence rate and hazard ratio for mortality a
 | Fatal infections       |                                |                                   |                     |                        |
 | IR (95% CI) per 100 PY | 0.08 (0.02, 0.20)              | 0.18 (0.08, 0.35)                 | 0.13 (0.07, 0.22)   | 0.06 (0.01, 0.17)      |
 | HR (95% CI) vs TNFi    | 1.30 (0.29, 5.79)              | 3.10 (0.84, 11.45)                | 2.17 (0.62, 7.62)   |                        |
+
+<div style=\"page-break-after: always\"></div>
+
+|                        | Tofacitinib 5 mg twice daily   | Tofacitinib 10 mg twice daily b   | All Tofacitinib c   | TNF inhibitor (TNFi)   |
+|------------------------|--------------------------------|-----------------------------------|---------------------|------------------------|
 | Fatal CV events        |                                |                                   |                     |                        |
 | IR (95% CI) per 100 PY | 0.25 (0.13, 0.43)              | 0.41 (0.25, 0.63)                 | 0.33 (0.23, 0.46)   | 0.20 (0.10, 0.36)      |
 | HR (95% CI) vs TNFi    | 1.26 (0.55, 2.88)              | 2.05 (0.96, 4.39)                 | 1.65 (0.81, 3.34)   |                        |
@@ -3639,11 +3672,17 @@ Table 11: Incidence rate and hazard ratio for mortality a
 | IR (95% CI) per 100 PY | 0.10 (0.03, 0.23)              | 0.00 (0.00, 0.08)                 | 0.05 (0.02, 0.12)   | 0.02 (0.00, 0.11)      |
 | HR (95% CI) vs TNFi    | 4.88 (0.57, 41.74)             | 0 (0.00, Inf)                     | 2.53 (0.30, 21.64)  |                        |
 
+a Based on events occurring on treatment or within 28 days of treatment discontinuation.
+
+b The tofacitinib 10 mg twice daily treatment group includes data from patients that were switched from tofacitinib 10 mg twice daily to tofacitinib 5 mg twice daily as a result of a study modification.
+
+c Combined tofacitinib 5 mg twice daily and tofacitinib 10 mg twice daily.
+
+Abbreviations: TNF = tumor necrosis factor, IR = incidence rate, HR = hazard ratio, CI = confidence interval, PY = patient years, CV = cardiovascular, Inf = infinity.
+
 ## 5.2 Pharmacokinetic properties
 
 The PK profile of tofacitinib is characterised by rapid absorption (peak plasma concentrations are reached within 0.5-1 hour), rapid elimination (half-life of ~3 hours) and dose-proportional increases in systemic exposure. Steady state concentrations are achieved in 24-48 hours with negligible accumulation after twice daily administration.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Absorption and distribution
 
@@ -3659,6 +3698,8 @@ Clearance mechanisms for tofacitinib are approximately 70% hepatic metabolism an
 
 Subjects with mild (creatinine clearance 50-80 mL/min), moderate (creatinine clearance 30-49 mL/min), and severe (creatinine clearance &lt; 30 mL/min) renal impairment had 37%, 43% and 123% higher AUC, respectively, compared to subjects with normal renal function (see section 4.2) . In subjects with end-stage renal disease (ESRD), contribution of dialysis to the total clearance of tofacitinib was relatively small. Following a single dose of 10 mg, mean AUC in subjects with ESRD based on concentrations measured on a non-dialysis day was approximately 40% (90% confidence intervals: 1.5-95%) higher compared to subjects with normal renal function. In clinical studies, tofacitinib was not evaluated in patients with baseline creatinine clearance values (estimated by Cockcroft-Gault equation) less than 40 mL/min (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Hepatic impairment
 
 Subjects with mild (Child Pugh A) and moderate (Child Pugh B) hepatic impairment had 3%, and 65% higher AUC, respectively, compared to subjects with normal hepatic function. In clinical studies, tofacitinib was not evaluated in subjects with severe (Child Pugh C) hepatic impairment (see sections 4.2 and 4.4), or in patients screened positive for hepatitis B or C.
@@ -3666,8 +3707,6 @@ Subjects with mild (Child Pugh A) and moderate (Child Pugh B) hepatic impairment
 ## Interactions
 
 Tofacitinib is not an inhibitor or inducer of CYPs (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4) and is not an inhibitor of UGTs (UGT1A1, UGT1A4, UGT1A6, UGT1A9, and UGT2B7). Tofacitinib is not an inhibitor of MDR1, OATP1B1/1B3, OCT2, OAT1/3, or MRP at clinically meaningful concentrations.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pharmacokinetics in paediatric patients with juvenile idiopathic arthritis
 
@@ -3685,37 +3724,55 @@ Tofacitinib was shown to be teratogenic in rats and rabbits, and have effects in
 
 No tofacitinib-related findings were observed in juvenile animal studies that indicate a higher sensitivity of paediatric populations compared with adults. In the juvenile rat fertility study, there was no evidence of developmental toxicity, no effects on sexual maturation, and no evidence of reproductive toxicity (mating and fertility) was noted after sexual maturity. In 1-month juvenile rat and 39-week juvenile monkey studies tofacitinib-related effects on immune and haematology parameters consistent with JAK1/3 and JAK2 inhibition were observed. These effects were reversible and consistent with those also observed in adult animals at similar exposures.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Grape flavour [containing propylene glycol (E1520), glycerin (E422), and natural flavours] Hydrochloric acid Lactic acid (E270)
+Grape flavour [containing propylene glycol (E1520), glycerin (E422), and natural flavours] Hydrochloric acid Lactic acid (E270) Purified water Sodium benzoate (E211) Sucralose (E955) Xylitol (E967)
+
+## 6.2 Incompatibilities
+
+Not applicable.
+
+## 6.3 Shelf life
+
+2 years.
+
+Shelf life after first opening
+
+Should be discarded after 60 days of first opening.
+
+## 6.4 Special precautions for storage
+
+This medicinal product does not require any special temperature storage conditions.
+
+Store in the original bottle and package in order to protect from light.
+
+For storage conditions after first opening of the medicinal product, see section 6.3.
+
+## 6.5 Nature and contents of container
+
+White coloured HDPE 250 mL bottles containing 240 mL of oral solution with a child resistant, polypropylene cap with PP liner sealed by aluminium-foil heat-induction seal and a 5 mL oral dosing syringe with 3.2 mL, 4 mL, and 5 mL graduations.
+
+The container closure system also includes a low-density polyethylene (LDPE) press-in bottle adapter (PIBA).
+
+Pack size: each pack contains one bottle, one press-in bottle adapter, and one oral dosing syringe.
+
+## 6.6 Special precautions for disposal
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 <div style=\"page-break-after: always\"></div>
 
-| Purified water Sodium benzoate (E211) Sucralose (E955) Xylitol (E967)                                                                                                                                                                              | Purified water Sodium benzoate (E211) Sucralose (E955) Xylitol (E967)                                                                                                                                                                              |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 6.2                                                                                                                                                                                                                                                | Incompatibilities                                                                                                                                                                                                                                  |
-| Not applicable.                                                                                                                                                                                                                                    | Not applicable.                                                                                                                                                                                                                                    |
-| 6.3                                                                                                                                                                                                                                                | Shelf life                                                                                                                                                                                                                                         |
-| 2 years.                                                                                                                                                                                                                                           | 2 years.                                                                                                                                                                                                                                           |
-| Shelf life after first opening                                                                                                                                                                                                                     | Shelf life after first opening                                                                                                                                                                                                                     |
-| Should be discarded after 60 days of first opening.                                                                                                                                                                                                | Should be discarded after 60 days of first opening.                                                                                                                                                                                                |
-| 6.4                                                                                                                                                                                                                                                | Special precautions for storage                                                                                                                                                                                                                    |
-| This medicinal product does not require any special temperature storage conditions.                                                                                                                                                                | This medicinal product does not require any special temperature storage conditions.                                                                                                                                                                |
-| Store in the original bottle and package in order to protect from light.                                                                                                                                                                           | Store in the original bottle and package in order to protect from light.                                                                                                                                                                           |
-| For storage conditions after first opening of the medicinal product, see section 6.3.                                                                                                                                                              | For storage conditions after first opening of the medicinal product, see section 6.3.                                                                                                                                                              |
-| 6.5                                                                                                                                                                                                                                                | Nature and contents of container                                                                                                                                                                                                                   |
-| White coloured HDPE 250 mL bottles containing 240 mL of oral solution with a child resistant, polypropylene cap with PP liner sealed by aluminium-foil heat-induction seal and a 5 mL oral dosing syringe with 3.2 mL, 4 mL, and 5 mL graduations. | White coloured HDPE 250 mL bottles containing 240 mL of oral solution with a child resistant, polypropylene cap with PP liner sealed by aluminium-foil heat-induction seal and a 5 mL oral dosing syringe with 3.2 mL, 4 mL, and 5 mL graduations. |
-| The container closure system also includes a low-density polyethylene (LDPE) press-in bottle adapter (PIBA).                                                                                                                                       | The container closure system also includes a low-density polyethylene (LDPE) press-in bottle adapter (PIBA).                                                                                                                                       |
-| Pack size: each pack contains one bottle, one press-in bottle adapter, and one oral dosing syringe.                                                                                                                                                | Pack size: each pack contains one bottle, one press-in bottle adapter, and one oral dosing syringe.                                                                                                                                                |
-| 6.6                                                                                                                                                                                                                                                | Special precautions for disposal                                                                                                                                                                                                                   |
-| Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                                                                                                                                        | Any unused medicinal product or waste material should be disposed of in accordance with local requirements.                                                                                                                                        |
-| 7.                                                                                                                                                                                                                                                 | MARKETING AUTHORISATIONHOLDER                                                                                                                                                                                                                      |
-| Pfizer Europe MAEEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium                                                                                                                                                                              | Pfizer Europe MAEEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium                                                                                                                                                                              |
-| 8.                                                                                                                                                                                                                                                 | MARKETING AUTHORISATION NUMBER(S)                                                                                                                                                                                                                  |
+## 7. MARKETING AUTHORISATION HOLDER
 
-<div style=\"page-break-after: always\"></div>
+Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/17/1178/015
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -3920,12 +3977,11 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 XELJANZ 5 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -3939,22 +3995,19 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTER ORSTRIPS   |
-|----------------------------------------------------|
-| BLISTER FOR 5 MGTABLETS                            |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTER OR STRIPS BLISTER FOR 5 MG TABLETS
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 XELJANZ 5 mg tablets tofacitinib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Pfizer Europe MA EEIG (as MA holder logo)
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
@@ -4146,16 +4199,18 @@ NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTER OR STRIPS BLISTER FOR 10 MG TABLETS
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 XELJANZ 10 mg tablets tofacitinib
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Pfizer Europe MA EEIG (as MA holder logo)
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -4225,7 +4280,7 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 EU/1/17/1178/005 60 film-coated tablets EU/1/17/1178/006 180 film-coated tablets
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
@@ -4325,7 +4380,7 @@ Lot
 
 XELJANZ 11 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -4341,16 +4396,16 @@ NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTER OR STRIPS
 
-| BLISTER FOR 11 MGTABLETS   |
-|----------------------------|
+| BLISTER FOR 11 MG TABLETS   |
+|-----------------------------|
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 XELJANZ 11 mg prolonged-release tablets tofacitinib
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Pfizer Europe MA EEIG (as MA holder logo)
 
@@ -4390,9 +4445,7 @@ Other ingredients include sorbitol (E420). See leaflet for further information.
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
 - 30 prolonged-release tablets
-
-90 prolonged-release tablets
-
+- 90 prolonged-release tablets
 - 2 silica gel desiccants
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -4457,8 +4510,8 @@ XELJANZ 11 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
@@ -5011,9 +5064,11 @@ Tél/Tel: +32 (0)2 554 62 11
 
 ## Magyarország
 
-Пфайзер Люксембург САРЛ, Клон България Тел.: +359 2 970 4333
+Пфайзер Люксембург САРЛ, Клон България
 
 Pfizer Kft.
+
+Тел.: +359 2 970 4333
 
 Tel.: +36 1 488 37 00
 
@@ -5095,7 +5150,7 @@ Tel: +39 06 33 18 21
 
 ## Κύπρος
 
-PFIZER ΕΛΛΑΣ Α.Ε. (CYPRUS BRANCH)
+PFIZER ΕΛΛΑΣ Α . Ε . (CYPRUS BRANCH)
 
 Τηλ: +357 22 817690
 
@@ -5169,9 +5224,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 <div style=\"page-break-after: always\"></div>
 
-## Package leaflet: Information for the patient
-
-## XELJANZ 11 mg prolonged-release tablets
+## Package leaflet: Information for the patient XELJANZ 11 mg prolonged-release tablets
 
 tofacitinib
 
@@ -5425,11 +5478,9 @@ Holes in stomach or intestines happen most often in people who also take nonster
 
 Other side effects which have been observed with XELJANZ are listed below.
 
-Common (may affect up to 1 in 10 people): lung infection (pneumonia and bronchitis), shingles (herpes zoster), infections of nose, throat or the windpipe (nasopharyngitis), influenza, sinusitis, urinary bladder infection (cystitis), sore throat (pharyngitis), increased muscle enzymes in the blood (sign of muscle problems), stomach (belly) pain (which may be from inflammation of the stomach lining), vomiting, diarrhoea, feeling sick (nausea), indigestion, low white blood cell counts, low red
+Common (may affect up to 1 in 10 people): lung infection (pneumonia and bronchitis), shingles (herpes zoster), infections of nose, throat or the windpipe (nasopharyngitis), influenza, sinusitis, urinary bladder infection (cystitis), sore throat (pharyngitis), increased muscle enzymes in the blood (sign of muscle problems), stomach (belly) pain (which may be from inflammation of the stomach lining), vomiting, diarrhoea, feeling sick (nausea), indigestion, low white blood cell counts, low red blood cell count (anaemia), swelling of the feet and hands, headache, high blood pressure (hypertension), cough, rash, acne.
 
 <div style=\"page-break-after: always\"></div>
-
-blood cell count (anaemia), swelling of the feet and hands, headache, high blood pressure (hypertension), cough, rash, acne.
 
 Uncommon (may affect up to 1 in 100 people): lung cancer, tuberculosis, kidney infection, skin infection, herpes simplex or cold sores (oral herpes), blood creatinine increased (a possible sign of kidney problems), increased cholesterol (including increased LDL), fever, fatigue (tiredness), weight gain, dehydration, muscle strain, tendonitis, joint swelling, joint sprain, abnormal sensations, poor sleep, sinus congestion, shortness of breath or difficulty breathing, skin redness, itching, fatty liver, painful inflammation of small pockets in the lining of your intestine (diverticulitis), viral infections, viral infections affecting the gut, some types of skin cancers (non-melanoma-types).
 
@@ -5605,7 +5656,9 @@ Tel: +39 06 33 18 21
 
 ## Κύπρος
 
-PFIZER ΕΛΛΑΣ Α.Ε.
+PFIZER
+
+ΕΛΛΑΣ Α . Ε . (CYPRUS BRANCH)
 
 Τηλ: +357 22 817690
 
@@ -5620,8 +5673,6 @@ Tel.: +371 670 35 775
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
-
-(CYPRUS BRANCH)
 
 ## Polska
 
@@ -5645,7 +5696,9 @@ Tel: +40 21 207 28 00
 
 Pfizer Luxembourg SARL
 
-Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana
+Pfizer, podružnica za svetovanje s področja
+
+farmacevtske dejavnosti, Ljubljana
 
 Tel.: +386 (0) 1 52 11 400
 
@@ -5669,9 +5722,7 @@ Tel: +46 (0)8 550 520 00
 
 <div style=\"page-break-after: always\"></div>
 
-## Package leaflet: Information for the patient
-
-## XELJANZ 1 mg/mL oral solution
+## Package leaflet: Information for the patient XELJANZ 1 mg/mL oral solution
 
 tofacitinib
 
@@ -6034,9 +6085,11 @@ Tlf: +47 67 52 61 00
 
 ## Österreich
 
-Pfizer Luxembourg SARL Eesti filiaal Tel: +372 666 7500
+Pfizer Luxembourg SARL Eesti filiaal
 
 Pfizer Corporation Austria Ges.m.b.H. Tel: +43 (0)1 521 15-0
+
+Tel: +372 666 7500
 
 ## Ελλάδα
 
@@ -6108,17 +6161,17 @@ Sími: +354 540 8000
 
 Puh/Tel: +358 (0)9 430 040
 
+<div style=\"page-break-after: always\"></div>
+
 ## Italia
 
 Pfizer S.r.l.
 
 Tel: +39 06 33 18 21
 
-<div style=\"page-break-after: always\"></div>
-
 ## Κύπρος
 
-PFIZER ΕΛΛΑΣ Α.Ε. (CYPRUS BRANCH)
+PFIZER ΕΛΛΑΣ Α . Ε . (CYPRUS BRANCH)
 
 Τηλ: +357 22 817690
 
@@ -6190,7 +6243,9 @@ Open the bottle. Remove the seal off the top of the bottle (first time only).
 
 ## Do not throw away the child-resistant cap.
 
-Note: Bottle does not need to be shaken before use.
+Note:
+
+Bottle does not need to be shaken before use.
 
 Step 3. Insert press-in bottle adapter
 

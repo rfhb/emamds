@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-22 17:36:32
-document_pages: 46
+document_datetime: 2026-08-19 09:05:57
+document_pages: 45
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/prolia-epar-product-information_en.pdf
 document_name: prolia-epar-product-information_en.pdf
 version: success
-processing_time: 10.362687
-conversion_datetime: 2025-12-23 23:24:41.890584
+processing_time: 14.3991342
+conversion_datetime: 2026-08-23 00:45:54.76587
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -153,11 +153,9 @@ Osteonecrosis of the external auditory canal has been reported with denosumab. P
 
 ## Atypical fractures of the femur
 
-Atypical femoral fractures have been reported in patients receiving denosumab (see section 4.8). Atypical femoral fractures may occur with little or no trauma in the subtrochanteric and diaphyseal
+Atypical femoral fractures have been reported in patients receiving denosumab (see section 4.8). Atypical femoral fractures may occur with little or no trauma in the subtrochanteric and diaphyseal regions of the femur. Specific radiographic findings characterise these events. Atypical femoral fractures have also been reported in patients with certain co-morbid conditions (e.g. vitamin D deficiency, rheumatoid arthritis, hypophosphatasia) and with use of certain medicinal products (e.g. bisphosphonates, glucocorticoids, proton pump inhibitors). These events have also occurred without antiresorptive therapy. Similar fractures reported in association with bisphosphonates are often bilateral; therefore, the contralateral femur should be examined in denosumab-treated patients who have sustained a femoral shaft fracture. Discontinuation of denosumab therapy in patients suspected to have an atypical femur fracture should be considered pending evaluation of the patient based on an individual benefit-risk assessment. During denosumab treatment, patients should be advised to report new or unusual thigh, hip, or groin pain. Patients presenting with such symptoms should be evaluated for an incomplete femoral fracture.
 
 <div style=\"page-break-after: always\"></div>
-
-regions of the femur. Specific radiographic findings characterise these events. Atypical femoral fractures have also been reported in patients with certain co-morbid conditions (e.g. vitamin D deficiency, rheumatoid arthritis, hypophosphatasia) and with use of certain medicinal products (e.g. bisphosphonates, glucocorticoids, proton pump inhibitors). These events have also occurred without antiresorptive therapy. Similar fractures reported in association with bisphosphonates are often bilateral; therefore, the contralateral femur should be examined in denosumab-treated patients who have sustained a femoral shaft fracture. Discontinuation of denosumab therapy in patients suspected to have an atypical femur fracture should be considered pending evaluation of the patient based on an individual benefit-risk assessment. During denosumab treatment, patients should be advised to report new or unusual thigh, hip, or groin pain. Patients presenting with such symptoms should be evaluated for an incomplete femoral fracture.
 
 ## Long-term antiresorptive treatment
 
@@ -237,10 +235,6 @@ Table 1. Adverse reactions reported in patients with osteoporosis and breast or 
 | Skin and subcutaneous tissue disorders          | Common Common Common Uncommon Very rare     | Rash Eczema Alopecia Lichenoid drug eruptions 1 Hypersensitivity vasculitis                                                                     |
 | Musculoskeletal and connective tissue disorders | Very common Very common Rare Rare Not Known | Pain in extremity Musculoskeletal pain 1 Osteonecrosis of the jaw 1 Atypical femoral fractures 1 Osteonecrosis of the external auditory canal 2 |
 
-1 See section Description of selected adverse reactions.
-
-2 See section 4.4.
-
 In a pooled analysis of data from all phase II and phase III placebo-controlled studies, influenza-like illness was reported with a crude incidence rate of 1.2% for denosumab and 0.7% for placebo. Although this imbalance was identified via a pooled analysis, it was not identified via a stratified analysis.
 
 ## Description of selected adverse reactions
@@ -251,17 +245,15 @@ In two phase III placebo-controlled clinical trials in postmenopausal women with
 
 In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia resulting in hospitalisation, life-threatening events, and fatal cases have been reported, predominantly in patients at increased risk of hypocalcaemia receiving denosumab, with most cases occurring in the first weeks of initiating therapy. Examples of the clinical manifestations of severe symptomatic hypocalcaemia have included QT interval prolongation, tetany, seizures and altered mental status (see section 4.4). Symptoms of hypocalcaemia in denosumab clinical studies included paraesthesias or muscle stiffness, twitching, spasms and muscle cramps.
 
-## Skin infections
-
-In phase III placebo-controlled clinical trials, the overall incidence of skin infections was similar in the placebo and the denosumab groups: in postmenopausal women with osteoporosis (placebo [1.2%, 50 out of 4 041] versus Prolia [1.5%, 59 out of 4 050]); in men with osteoporosis (placebo [0.8%,
-
 <div style=\"page-break-after: always\"></div>
 
-1 out of 120] versus Prolia [0%, 0 out of 120]); in breast or prostate cancer patients receiving hormone ablation (placebo [1.7%, 14 out of 845] versus Prolia [1.4%, 12 out of 860]). Skin infections leading to hospitalisation were reported in 0.1% (3 out of 4 041) of postmenopausal women with osteoporosis receiving placebo versus 0.4% (16 out of 4 050) of women receiving Prolia. These cases were predominantly cellulitis. Skin infections reported as serious adverse reactions were similar in the placebo (0.6%, 5 out of 845) and the Prolia (0.6%, 5 out of 860) groups in the breast and prostate cancer studies.
+## Skin infections
+
+In phase III placebo-controlled clinical trials, the overall incidence of skin infections was similar in the placebo and the denosumab groups: in postmenopausal women with osteoporosis (placebo [1.2%, 50 out of 4 041] versus Prolia [1.5%, 59 out of 4 050]); in men with osteoporosis (placebo [0.8%, 1 out of 120] versus Prolia [0%, 0 out of 120]); in breast or prostate cancer patients receiving hormone ablation (placebo [1.7%, 14 out of 845] versus Prolia [1.4%, 12 out of 860]). Skin infections leading to hospitalisation were reported in 0.1% (3 out of 4 041) of postmenopausal women with osteoporosis receiving placebo versus 0.4% (16 out of 4 050) of women receiving Prolia. These cases were predominantly cellulitis. Skin infections reported as serious adverse reactions were similar in the placebo (0.6%, 5 out of 845) and the Prolia (0.6%, 5 out of 860) groups in the breast and prostate cancer studies.
 
 ## Osteonecrosis of the jaw
 
-ONJ has been reported rarely, in 16 patients, in clinical trials in osteoporosis and in breast or prostate cancer patients receiving hormone ablation including a total of 23 148 patients (see section 4.4). Thirteen of these ONJ cases occurred in postmenopausal women with osteoporosis during the phase III clinical trial extension following treatment with denosumab for up to 10 years. Incidence of ONJ was 0.04% at 3 years, 0.06% at 5 years and 0.44% at 10 years of denosumab treatment. The risk of ONJ increased with duration of exposure to denosumab.
+ONJ has been reported rarely, in 18 patients, in clinical trials in osteoporosis and in breast or prostate cancer patients receiving hormone ablation including a total of 23 552 patients (see section 4.4). Thirteen of these ONJ cases occurred in postmenopausal women with osteoporosis during the phase III clinical trial extension following treatment with denosumab for up to 10 years. Incidence of ONJ was 0.04% at 3 years, 0.06% at 5 years and 0.44% at 10 years of denosumab treatment. The risk of ONJ increased with duration of exposure to denosumab.
 
 The risk of ONJ has also been assessed in a retrospective cohort study among 76 192 postmenopausal women newly initiating treatment with Prolia. The incidence of ONJ was 0.32% (95% confidence interval [CI]: 0.26, 0.39) among patients using denosumab up to 3 years and 0.51% (95% CI: 0.39, 0.65) among patients using denosumab up to 5 years of follow-up.
 
@@ -291,11 +283,11 @@ Lichenoid drug eruptions (e.g. lichen planus-like reactions) have been reported 
 
 Prolia should not be used in paediatric patients (age &lt; 18). Serious hypercalcaemia has been reported (see section 5.1). Some clinical trial cases were complicated by acute renal injury.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Renal impairment
 
 In clinical studies, patients with severe renal impairment (creatinine clearance &lt; 30 mL/min) or receiving dialysis were at greater risk of developing hypocalcaemia in the absence of calcium supplementation. Adequate intake of calcium and vitamin D is important in patients with severe renal impairment or receiving dialysis (see section 4.4).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -325,9 +317,11 @@ In clinical studies, neutralising antibodies have not been observed for denosuma
 
 ## Clinical efficacy and safety in postmenopausal women with osteoporosis
 
-Efficacy and safety of denosumab administered once every 6 months for 3 years were investigated in postmenopausal women (7 808 women aged 60-91 years, of which 23.6% had prevalent vertebral fractures) with baseline bone mineral density (BMD) T-scores at the lumbar spine or total hip between -2.5 and -4.0 and a mean absolute 10-year fracture probability of 18.60% (deciles: 7.9-32.4%) for major osteoporotic fracture and 7.22% (deciles: 1.4-14.9%) for hip fracture. Women with other diseases or on therapies that may affect bone were excluded from this study. Women received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
+Efficacy and safety of denosumab administered once every 6 months for 3 years were investigated in postmenopausal women (7 808 women aged 60-91 years, of which 23.6% had prevalent vertebral fractures) with baseline bone mineral density (BMD) T-scores at the lumbar spine or total hip between
 
 <div style=\"page-break-after: always\"></div>
+
+-2.5 and -4.0 and a mean absolute 10-year fracture probability of 18.60% (deciles: 7.9-32.4%) for major osteoporotic fracture and 7.22% (deciles: 1.4-14.9%) for hip fracture. Women with other diseases or on therapies that may affect bone were excluded from this study. Women received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
 
 ## Effect on vertebral fractures
 
@@ -381,15 +375,13 @@ In women with baseline femoral neck BMD ≤ -2.5, Prolia reduced the risk of non
 
 The reduction in the incidence of new vertebral fractures, hip fractures and non-vertebral fractures by Prolia over 3 years were consistent regardless of the 10-year baseline fracture risk.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Effect on bone mineral density
 
 Prolia significantly increased BMD at all clinical sites measured, versus placebo at 1, 2 and 3 years. Prolia increased BMD by 9.2% at the lumbar spine, 6.0% at the total hip, 4.8% at the femoral neck, 7.9% at the hip trochanter, 3.5% at the distal 1/3 radius and 4.1% at the total body over 3 years (all p &lt; 0.0001).
 
-In clinical studies examining the effects of discontinuation of Prolia, BMD returned to approximately pre-treatment levels and remained above placebo within 18 months of the last dose. These data
-
-<div style=\"page-break-after: always\"></div>
-
-indicate that continued treatment with Prolia is required to maintain the effect of the medicinal product. Re-initiation of Prolia resulted in gains in BMD similar to those when Prolia was first administered.
+In clinical studies examining the effects of discontinuation of Prolia, BMD returned to approximately pre-treatment levels and remained above placebo within 18 months of the last dose. These data indicate that continued treatment with Prolia is required to maintain the effect of the medicinal product. Re-initiation of Prolia resulted in gains in BMD similar to those when Prolia was first administered.
 
 ## Open-label extension study in the treatment of postmenopausal osteoporosis
 
@@ -411,13 +403,11 @@ The primary efficacy variable was percent change in lumbar spine BMD, fracture e
 
 Bone histology was evaluated in 62 postmenopausal women with osteoporosis or with low bone mass who were either naïve to osteoporosis therapies or had transitioned from previous alendronate therapy following 1-3 years treatment with Prolia. Fifty nine women participated in the bone biopsy sub-study at month 24 (n = 41) and/or month 84 (n = 22) of the extension study in postmenopausal women with osteoporosis. Bone histology was also evaluated in 17 men with osteoporosis following 1 year treatment with Prolia. Bone biopsy results showed bone of normal architecture and quality with no evidence of mineralisation defects, woven bone or marrow fibrosis. Histomorphometry findings in the extension study in postmenopausal women with osteoporosis showed that the antiresorptive effects of Prolia, as measured by activation frequency and bone formation rates, were maintained over time.
 
-## Clinical efficacy and safety in patients with bone loss associated with androgen deprivation
-
-Efficacy and safety of Prolia once every 6 months for 3 years were investigated in men with histologically confirmed non-metastatic prostate cancer receiving ADT (1 468 men aged 48-97 years) who were at increased risk of fracture (defined as &gt; 70 years, or &lt; 70 years with a BMD T-score at the
-
 <div style=\"page-break-after: always\"></div>
 
-lumbar spine, total hip, or femoral neck &lt; -1.0 or a history of an osteoporotic fracture). All men received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
+## Clinical efficacy and safety in patients with bone loss associated with androgen deprivation
+
+Efficacy and safety of Prolia once every 6 months for 3 years were investigated in men with histologically confirmed non-metastatic prostate cancer receiving ADT (1 468 men aged 48-97 years) who were at increased risk of fracture (defined as &gt; 70 years, or &lt; 70 years with a BMD T-score at the lumbar spine, total hip, or femoral neck &lt; -1.0 or a history of an osteoporotic fracture). All men received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
 
 Prolia significantly increased BMD at all clinical sites measured, relative to treatment with placebo at 3 years: 7.9% at the lumbar spine, 5.7% at the total hip, 4.9% at the femoral neck, 6.9% at the hip trochanter, 6.9% at the distal 1/3 radius and 4.7% at the total body (all p &lt; 0.0001). In a prospectively planned exploratory analysis, significant increases in BMD were observed at the lumbar spine, total hip, femoral neck and the hip trochanter 1 month after the initial dose.
 
@@ -441,9 +431,9 @@ In the glucocorticoid-continuing subpopulation, Prolia demonstrated a greater in
 
 In addition, Prolia demonstrated a significantly greater mean percent increase in BMD from baseline compared to risedronate at the total hip, femoral neck, and hip trochanter.
 
-The study was not powered to show a difference in fractures. At 1 year, the subject incidence of new radiological vertebral fracture was 2.7% (denosumab) versus 3.2% (risedronate). The subject incidence of non-vertebral fracture was 4.3% (denosumab) versus 2.5% (risedronate). At 2 years, the corresponding numbers were 4.1% versus 5.8% for new radiological vertebral fractures and 5.3% versus 3.8% for non-vertebral fractures. Most of the fractures occurred in the GC-C subpopulation.
-
 <div style=\"page-break-after: always\"></div>
+
+The study was not powered to show a difference in fractures. At 1 year, the subject incidence of new radiological vertebral fracture was 2.7% (denosumab) versus 3.2% (risedronate). The subject incidence of non-vertebral fracture was 4.3% (denosumab) versus 2.5% (risedronate). At 2 years, the corresponding numbers were 4.1% versus 5.8% for new radiological vertebral fractures and 5.3% versus 3.8% for non-vertebral fractures. Most of the fractures occurred in the GC-C subpopulation.
 
 ## Paediatric population
 
@@ -471,15 +461,13 @@ Following subcutaneous administration of a 1.0 mg/kg dose, which approximates th
 
 Denosumab is composed solely of amino acids and carbohydrates as native immunoglobulin and is unlikely to be eliminated via hepatic metabolic mechanisms. Its metabolism and elimination are expected to follow the immunoglobulin clearance pathways, resulting in degradation to small peptides and individual amino acids.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elimination
 
 After Cmax, serum levels declined with a half-life of 26 days (range 6-52 days) over a period of 3 months (range 1.5-4.5 months). Fifty-three percent (53%) of patients had no measurable amounts of denosumab detected at 6 months post-dose.
 
-No accumulation or change in denosumab pharmacokinetics with time was observed upon subcutaneous multiple-dosing of 60 mg once every 6 months. Denosumab pharmacokinetics were not affected by the formation of binding antibodies to denosumab and were similar in men and women.
-
-<div style=\"page-break-after: always\"></div>
-
-Age (28-87 years), race and disease state (low bone mass or osteoporosis; prostate or breast cancer) do not appear to significantly affect the pharmacokinetics of denosumab.
+No accumulation or change in denosumab pharmacokinetics with time was observed upon subcutaneous multiple-dosing of 60 mg once every 6 months. Denosumab pharmacokinetics were not affected by the formation of binding antibodies to denosumab and were similar in men and women. Age (28-87 years), race and disease state (low bone mass or osteoporosis; prostate or breast cancer) do not appear to significantly affect the pharmacokinetics of denosumab.
 
 A trend was observed between higher body weight and lower exposure based on AUC and Cmax. However, the trend is not considered clinically important, since pharmacodynamic effects based on bone turnover markers and BMD increases were consistent across a wide range of body weight.
 
@@ -511,13 +499,11 @@ The carcinogenic potential of denosumab has not been evaluated in long-term anim
 
 In preclinical studies conducted in knockout mice lacking RANK or RANKL, impairment of lymph node formation was observed in the foetus. An absence of lactation due to inhibition of mammary gland maturation (lobulo-alveolar gland development during pregnancy) was also observed in knockout mice lacking RANK or RANKL.
 
-In a study of cynomolgus monkeys dosed with denosumab during the period equivalent to the first trimester at AUC exposures up to 99-fold higher than the human dose (60 mg every 6 months), there was no evidence of maternal or foetal harm. In this study, foetal lymph nodes were not examined.
-
-In another study of cynomolgus monkeys dosed with denosumab throughout pregnancy at AUC exposures 119-fold higher than the human dose (60 mg every 6 months), there were increased
-
 <div style=\"page-break-after: always\"></div>
 
-stillbirths and postnatal mortality; abnormal bone growth resulting in reduced bone strength, reduced haematopoiesis, and tooth malalignment; absence of peripheral lymph nodes; and decreased neonatal growth. A no observed adverse effect level for reproductive effects was not established. Following a 6 month period after birth, bone related changes showed recovery and there was no effect on tooth eruption. However, the effects on lymph nodes and tooth malalignment persisted, and minimal to moderate mineralisation in multiple tissues was seen in one animal (relation to treatment uncertain). There was no evidence of maternal harm prior to labour; adverse maternal effects occurred infrequently during labour. Maternal mammary gland development was normal.
+In a study of cynomolgus monkeys dosed with denosumab during the period equivalent to the first trimester at AUC exposures up to 99-fold higher than the human dose (60 mg every 6 months), there was no evidence of maternal or foetal harm. In this study, foetal lymph nodes were not examined.
+
+In another study of cynomolgus monkeys dosed with denosumab throughout pregnancy at AUC exposures 119-fold higher than the human dose (60 mg every 6 months), there were increased stillbirths and postnatal mortality; abnormal bone growth resulting in reduced bone strength, reduced haematopoiesis, and tooth malalignment; absence of peripheral lymph nodes; and decreased neonatal growth. A no observed adverse effect level for reproductive effects was not established. Following a 6 month period after birth, bone related changes showed recovery and there was no effect on tooth eruption. However, the effects on lymph nodes and tooth malalignment persisted, and minimal to moderate mineralisation in multiple tissues was seen in one animal (relation to treatment uncertain). There was no evidence of maternal harm prior to labour; adverse maternal effects occurred infrequently during labour. Maternal mammary gland development was normal.
 
 In preclinical bone quality studies in monkeys on long-term denosumab treatment, decreases in bone turnover were associated with improvement in bone strength and normal bone histology. Calcium levels were transiently decreased and parathyroid hormone levels transiently increased in ovariectomised monkeys treated with denosumab.
 
@@ -541,13 +527,17 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 4 years.
 
+<div style=\"page-break-after: always\"></div>
+
 Once removed from the refrigerator, Prolia may be stored at room temperature (up to 25°C) for up to 30 days in the original carton. It must be used within this 30 days period.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C -8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store in a refrigerator (2°C -8°C).
 
-<div style=\"page-break-after: always\"></div>
+Do not freeze.
+
+Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
@@ -572,9 +562,7 @@ Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/10/618/001 EU/1/10/618/002
-
-EU/1/10/618/003
+EU/1/10/618/001 EU/1/10/618/002 EU/1/10/618/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -582,11 +570,11 @@ Date of first authorisation: 26 May 2010
 
 Date of latest renewal: 16 January 2020
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
-
-16
 
 <div style=\"page-break-after: always\"></div>
 
@@ -642,7 +630,16 @@ An updated RMP should be submitted:
 
 ## · Additional risk minimisation measures
 
-The MAH shall ensure that a patient reminder card regarding osteonecrosis of the jaw is implemented.
+Patient reminder cards for osteonecrosis of the jaw (ONJ) will be distributed to prescribers of Prolia with background information on the purpose of the patient reminder card and instructions to provide it to patients.
+
+The patient reminder card will remind patients about important safety information that they need to be aware of before and during treatment with denosumab (Prolia) injections for osteoporosis and bone loss, including:
+
+- the risk of osteonecrosis of the jaw during treatment with Prolia;
+- the need to highlight any problems with their mouth or teeth to their doctors/nurses before starting treatment;
+- the need to ensure good oral hygiene during treatment;
+- the need to inform their dentist of treatment with Prolia and to contact their doctor and dentist if problems with the mouth or teeth occur during treatment.
+
+The patient reminder card will be distributed by mail and prescribers will be provided with contact details to request additional copies of the card. Some national plans will include making the patient reminder card available on a website and this approach may be extended in the future.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -662,7 +659,9 @@ The MAH shall ensure that a patient reminder card regarding osteonecrosis of the
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Prolia 60 mg solution for injection in pre-filled syringe denosumab
+Prolia 60 mg solution for injection in pre-filled syringe
+
+denosumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -735,9 +734,11 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Prolia
 
@@ -746,24 +747,24 @@ Prolia
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTERED PRE-FILLED SYRINGE                         |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERED PRE-FILLED SYRINGE                          |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Prolia 60 mg injection denosumab
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Amgen Europe B.V.
 
@@ -784,20 +785,20 @@ SC
 
 <!-- image -->
 
-24
+25
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL (UNBLISTERED)                           |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL (UNBLISTERED)                             |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Prolia 60 mg injection denosumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -809,8 +810,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 ml
 
@@ -819,12 +820,12 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WITH ORWITHOUTNEEDLE GUARD (BLISTERED)  |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL WITH OR WITHOUT NEEDLE GUARD (BLISTERED)  |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 1.
 
@@ -993,11 +994,9 @@ This medicine contains less than 1 mmol sodium (23 mg) per 60 mg, that is to say
 
 ## 3. How to use Prolia
 
-The recommended dose is one pre-filled syringe of 60 mg administered once every 6 months, as a single injection under the skin (subcutaneous). The best places to inject are the top of your thighs and
+The recommended dose is one pre-filled syringe of 60 mg administered once every 6 months, as a single injection under the skin (subcutaneous). The best places to inject are the top of your thighs and the abdomen. Your carer can also use the outer area of your upper arm. Please consult your doctor on the date for a potential next injection. Each pack of Prolia contains a reminder card, that can be removed from the carton and used to keep a record of the next injection date.
 
 <div style=\"page-break-after: always\"></div>
-
-the abdomen. Your carer can also use the outer area of your upper arm. Please consult your doctor on the date for a potential next injection. Each pack of Prolia contains a reminder card, that can be removed from the carton and used to keep a record of the next injection date.
 
 You should also take calcium and vitamin D supplements while being on treatment with Prolia. Your doctor will discuss this with you.
 
@@ -1252,7 +1251,7 @@ Tel: +371 257 25888
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -1344,10 +1343,6 @@ Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid 
 
 <!-- image -->
 
-After releasing the plunger, the pre-filled syringe safety guard will safely cover the injection needle.
-
-Do not put the grey needle cap back on used pre-filled syringes.
-
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
@@ -1421,7 +1416,7 @@ Your carer can also use the outer area of your upper arms.
 2. To avoid bending the needle, gently pull the cover from the needle straight off without twisting, as shown in pictures 1 and 2. DO NOT touch the needle or push the plunger.
 3. You may notice a small air bubble in the pre-filled syringe. You do not have to remove the air bubble before injecting. Injecting the solution with the air bubble is harmless.
 4. Pinch (without squeezing) the skin between your thumb and forefinger. Put the needle fully into the skin as shown by your doctor or healthcare provider.
-5. Push the plunger with a slow constant pressure, always keeping the skin pinched. Push the plunger all the way down as far as it will go to inject all the solution.
+5. Push the plunger with a slow constant pressure, always keeping the skin pinched. Push the plunger all the way down as far as it will go to inject all the solution .
 6. Remove the needle and let go of the skin.
 7. If you notice a spot of blood you may gently dab it away with a cotton ball or tissue. Do not rub the injection site. If needed, you may cover the injection site with a plaster.
 8. Only use each pre-filled syringe for one injection. DO NOT use any Prolia that is left in the syringe.
@@ -1441,25 +1436,3 @@ Remember: if you have any problems, please ask your doctor or healthcare provide
 - DO NOT put the cover back on used needles.
 - Keep used syringes out of the reach and sight of children.
 - The used syringe should be disposed of in accordance with local requirements. Ask your pharmacist how to dispose of medicines no longer required. These measures will help to protect the environment.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for denosumab (indicated for osteoporosis and for bone loss associated with hormone ablation in prostate cancer), the scientific conclusions of PRAC are as follows:
-
-In view of available data on a reduction in bone mineral density following denosumab discontinuation from clinical trial(s) and also described in recent published literature, the PRAC Rapporteur concluded that the product information of products containing denosumab (indicated for osteoporosis and for bone loss associated with hormone ablation in prostate cancer) should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the Marketing Authorisation(s)
-
-On the basis of the scientific conclusions for denosumab (indicated for osteoporosis and for bone loss associated with hormone ablation in prostate cancer) the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing denosumab (indicated for osteoporosis and for bone loss associated with hormone ablation in prostate cancer) is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

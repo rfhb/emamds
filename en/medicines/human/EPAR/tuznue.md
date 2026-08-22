@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-14 15:10:00
+document_datetime: 2026-08-18 14:47:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tuznue.html
 document_name: tuznue.html
 version: success
-processing_time: 0.158878
-conversion_datetime: 2026-07-16 13:14:49.990053
+processing_time: 0.1527142
+conversion_datetime: 2026-08-22 22:44:17.93902
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.113.0
-  docling-core: 2.87.1
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Tuznue
 
@@ -119,7 +119,7 @@ English (EN) (145.34 KB - PDF)
 
 [View](/en/documents/overview/tuznue-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-116)
+[Other languages (22)](#file-language-dropdown-603)
 
 български (BG) (170.82 KB - PDF)
 
@@ -255,9 +255,9 @@ svenska (SV) (144.81 KB - PDF)
 
 Tuznue : EPAR - Risk management plan
 
-English (EN) (26.78 MB - PDF)
+English (EN) (2.11 MB - PDF)
 
-**First published:** 25/09/2024
+**First published:** 25/09/2024 **Last updated:** 18/08/2026
 
 [View](/en/documents/rmp/tuznue-epar-risk-management-plan_en.pdf)
 
@@ -271,7 +271,7 @@ English (EN) (630.83 KB - PDF)
 
 [View](/en/documents/product-information/tuznue-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-102)
+[Other languages (24)](#file-language-dropdown-775)
 
 български (BG) (819.46 KB - PDF)
 
@@ -417,15 +417,15 @@ norsk (NO) (749.5 KB - PDF)
 
 [View](/no/documents/product-information/tuznue-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000355520
+**Latest procedure affecting product information:** VR/0000362250
 
-14/07/2026
+14/08/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -444,7 +444,7 @@ English (EN) (43.91 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-6)
+[Other languages (24)](#file-language-dropdown-392)
 
 български (BG) (64.91 KB - PDF)
 
@@ -648,7 +648,7 @@ HD201 should only be used in patients with MGC whose tumours have HER2 overexpre
 - **Marketing authorisation issued**
     - 19/09/2024
 - **Revision**
-    - 4
+    - 5
 
 ## Assessment history
 
@@ -668,9 +668,9 @@ English (EN) (143.15 KB - PDF)
 
 Tuznue : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (158.21 KB - PDF)
+English (EN) (160.58 KB - PDF)
 
-**First published:** 20/02/2025 **Last updated:** 14/07/2026
+**First published:** 20/02/2025 **Last updated:** 18/08/2026
 
 [View](/en/documents/procedural-steps-after/tuznue-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -708,7 +708,7 @@ English (EN) (163.96 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-557)
+[Other languages (24)](#file-language-dropdown-992)
 
 български (BG) (183.74 KB - DOCX)
 
@@ -856,6 +856,6 @@ norsk (NO) (164.19 KB - DOCX)
 
 **This page was last updated on**
 
-14/07/2026
+18/08/2026
 
 ## Share this page

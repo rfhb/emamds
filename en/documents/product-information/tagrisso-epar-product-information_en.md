@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-29 16:16:59
-document_pages: 59
+document_datetime: 2026-08-18 17:46:37
+document_pages: 60
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tagrisso-epar-product-information_en.pdf
 document_name: tagrisso-epar-product-information_en.pdf
 version: success
-processing_time: 39.2826588
-conversion_datetime: 2026-07-04 14:38:18.943237
+processing_time: 25.8093039
+conversion_datetime: 2026-08-23 00:51:34.768115
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.109.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.5.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -214,11 +214,15 @@ Keratitis was reported in 0.6% (n=11) of the 1956 patients treated with TAGRISSO
 
 Rare cases of aplastic anaemia, including fatal events, have been reported in association with TAGRISSO treatment. Before initiating treatment, patients should be advised of signs and symptoms of aplastic anaemia including but not limited to persistent fever, bruising, bleeding, pallor, infection and fatigue. If signs and symptoms suggestive of aplastic anaemia develop, close patient monitoring and drug interruption or discontinuation of TAGRISSO should be considered. TAGRISSO should be discontinued in patients with confirmed aplastic anaemia (see section 4.2).
 
+## Skeletal muscle toxicity
+
+Cases of myositis have been reported in association with TAGRISSO treatment (see section 4.8). In addition, cases of rhabdomyolysis have been reported post-marketing. Before initiating treatment, patients should be advised to report any unexplained muscle pain, tenderness, weakness, trouble moving arms or legs, dark tea-coloured urine, or decreased urination. Signs and symptoms of increased CPK, myositis, or rhabdomyolysis should warrant an appropriate clinical evaluation and treatment as indicated (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
+
 ## Age and body weight
 
 Elderly patients (&gt;65 years) or patients with low body weight (&lt;50 kg) may be at increased risk of developing adverse events of Grade 3 or higher. Close monitoring is recommended in these patients (see section 4.8).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Hepatitis B Virus (HBV) reactivation
 
@@ -250,9 +254,9 @@ In a clinical pharmacokinetic study, co-administration of omeprazole did not res
 
 Based on in vitro studies, osimertinib is a competitive inhibitor of BCRP transporters.
 
-In a clinical PK study, co-administration of TAGRISSO with rosuvastatin (sensitive BCRP substrate) increased the AUC and Cmax of rosuvastatin by 35% and 72%, respectively. Patients taking concomitant medicinal products with disposition dependent upon BCRP and with narrow therapeutic index should be closely monitored for signs of changed tolerability of the concomitant medication as a result of increased exposure whilst receiving TAGRISSO (see section 5.2).
-
 <div style=\"page-break-after: always\"></div>
+
+In a clinical PK study, co-administration of TAGRISSO with rosuvastatin (sensitive BCRP substrate) increased the AUC and Cmax of rosuvastatin by 35% and 72%, respectively. Patients taking concomitant medicinal products with disposition dependent upon BCRP and with narrow therapeutic index should be closely monitored for signs of changed tolerability of the concomitant medication as a result of increased exposure whilst receiving TAGRISSO (see section 5.2).
 
 In a clinical PK study, co-administration of TAGRISSO with simvastatin (sensitive CYP3A4 substrate) decreased the AUC and Cmax of simvastatin by 9% and 23% respectively. These changes are small and not likely to be of clinical significance. Clinical PK interactions with CYP3A4 substrates are unlikely. A risk for decreased exposure of hormonal contraceptives cannot be excluded.
 
@@ -280,17 +284,15 @@ There are no data on the effect of TAGRISSO on human fertility. Results from ani
 
 TAGRISSO has no or negligible influence on the ability to drive and use machines.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
 ## Studies in EGFR mutation-positive NSCLC patients
 
-The safety of TAGRISSO as a monotherapy is based on pooled data from 1956 patients with EGFR mutation-positive non-small cell lung cancer. These patients received TAGRISSO at a dose of 80 mg daily in five randomised Phase 3 studies (ADAURA, adjuvant; FLAURA, and FLAURA2
-
-<div style=\"page-break-after: always\"></div>
-
-(monotherapy arm) first line; LAURA (post platinum-based chemoradiation therapy) and AURA3, second line only), two Phase 2 single-arm studies (AURAex and AURA2, second line or later) and one Phase 1 study (AURA1, first-line or later) (see section 5.1). Most adverse reactions were Grade 1 or 2 in severity. The most commonly reported adverse drug reactions (ADRs) were diarrhoea (46%), rash (45%), paronychia (33%), dry skin (31%), and stomatitis (23%). Grade 3 and Grade 4 adverse reactions across the studies were 11% and 0.2%, respectively. In patients treated with TAGRISSO 80 mg once daily, dose reductions due to adverse reactions occurred in 3.4% of the patients. Discontinuation due to adverse reactions was 5.5%.
+The safety of TAGRISSO as a monotherapy is based on pooled data from 1956 patients with EGFR mutation-positive non-small cell lung cancer. These patients received TAGRISSO at a dose of 80 mg daily in five randomised Phase 3 studies (ADAURA, adjuvant; FLAURA, and FLAURA2 (monotherapy arm) first line; LAURA (post platinum-based chemoradiation therapy) and AURA3, second line only), two Phase 2 single-arm studies (AURAex and AURA2, second line or later) and one Phase 1 study (AURA1, first-line or later) (see section 5.1). Most adverse reactions were Grade 1 or 2 in severity. The most commonly reported adverse drug reactions (ADRs) were diarrhoea (46%), rash (45%), paronychia (33%), dry skin (31%), and stomatitis (23%). Grade 3 and Grade 4 adverse reactions across the studies were 11% and 0.2%, respectively. In patients treated with TAGRISSO 80 mg once daily, dose reductions due to adverse reactions occurred in 3.4% of the patients. Discontinuation due to adverse reactions was 5.5%.
 
 The safety of TAGRISSO given in combination with pemetrexed and platinum-based chemotherapy is based on data in 276 patients with EGFR mutation-positive NSCLC and was consistent with TAGRISSO monotherapy and known safety profiles of pemetrexed and platinum-based chemotherapy. The most commonly reported ADRs when TAGRISSO was given in combination with pemetrexed and platinum-based chemotherapy were rash (49%), diarrhoea (43%), decreased appetite (31%), stomatitis (31%), paronychia (27%) and dry skin (24%). When TAGRISSO is administered as combination therapy, refer to the Summary of Product Characteristics for the respective combination therapy components prior to initiation of treatment.
 
@@ -302,62 +304,58 @@ Adverse reactions have been assigned to the frequency categories in Table 2 wher
 
 Adverse reactions are listed according to system organ class (SOC) in MedDRA. Within each system organ class, the adverse drug reactions are ranked by frequency, with the most frequent reactions first. Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each adverse reaction is based on the CIOMS III convention and is defined as: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from available data).
 
-## Table 2. Adverse reactions reported in ADAURA, LAURA, FLAURA, FLAURA2 and AURA studies
-
-| MedDRA SOC and MedDRA                | TAGRISSO a                                               | TAGRISSO a                             | TAGRISSO with pemetrexed and platinum-based chemotherapy b   | TAGRISSO with pemetrexed and platinum-based chemotherapy b   |
-|--------------------------------------|----------------------------------------------------------|----------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
-| term                                 | CIOMS descriptor/ overall frequency (all CTCAE grades) c | Frequency of CTCAE grade 3 or higher c | CIOMS descriptor/ overall frequency (all CTCAE grades) c     | Frequency of CTCAE grade 3 or higher c                       |
-| Infections and infestations          | Infections and infestations                              | Infections and infestations            | Infections and infestations                                  | Infections and infestations                                  |
-| Hepatitis B reactivation d           | Not known                                                |                                        | 0%                                                           | 0%                                                           |
-| Blood and lymphatic system disorders | Blood and lymphatic system disorders                     | Blood and lymphatic system disorders   | Blood and lymphatic system disorders                         | Blood and lymphatic system disorders                         |
-| Aplastic anaemia                     | Rare (0.05%)                                             | 0.05%                                  | 0%                                                           | 0%                                                           |
-
 <div style=\"page-break-after: always\"></div>
 
-| MedDRA SOC and MedDRA term                      | TAGRISSO a                                               | TAGRISSO a                                      | TAGRISSO with pemetrexed and platinum-based chemotherapy b   | TAGRISSO with pemetrexed and platinum-based chemotherapy b   |
-|-------------------------------------------------|----------------------------------------------------------|-------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
-| MedDRA SOC and MedDRA term                      | CIOMS descriptor/ overall frequency (all CTCAE grades) c | Frequency of CTCAE grade 3 or higher c          | CIOMS descriptor/ overall frequency (all CTCAE grades) c     | Frequency of CTCAE grade 3 or higher c                       |
-| Thrombocytopenia                                | Common (7%)                                              | 0.6%                                            | Very common (18.5%)                                          | 6.9%                                                         |
-| Neutropenia                                     | Common (6%)                                              | 0.9%                                            | Very common (24.6%)                                          | 13.4%                                                        |
-| Leukopenia                                      | Common (5%)                                              | 0.4%                                            | Very common (12.7%)                                          | 2.9%                                                         |
-| Lymphopenia                                     | Common (1.6%)                                            | 0.3%                                            | Common (2.5%)                                                | 1.1%                                                         |
-| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                       | Metabolism and nutrition disorders              | Metabolism and nutrition disorders                           | Metabolism and nutrition disorders                           |
-| Decreased appetite                              | Very common (19%)                                        | 1.1%                                            | Very common (31%)                                            | 2.9%                                                         |
-| Eye disorders                                   | Eye disorders                                            | Eye disorders                                   | Eye disorders                                                | Eye disorders                                                |
-| Keratitis e                                     | Uncommon (0.6%)                                          | 0.05%                                           | Uncommon (0.7%)                                              | 0%                                                           |
-| Cardiac disorders                               | Cardiac disorders                                        | Cardiac disorders                               | Cardiac disorders                                            | Cardiac disorders                                            |
-| Cardiac failure                                 | Uncommon (0.5%)                                          | 0.2%                                            | Common (1.8%)                                                | 1.1% f                                                       |
-| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders          | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders              | Respiratory, thoracic and mediastinal disorders              |
-| Epistaxis                                       | Common (6%)                                              | 0%                                              | Common (7%)                                                  | 0.4%                                                         |
-| Interstitial lung disease                       | Common (4.3%) g                                          | 1.4% h                                          | Common (3.3%) i                                              | 0.7% j                                                       |
-| Radiation Pneumonitis k                         | Common (4%)                                              | 0.2%                                            | 0%                                                           | 0%                                                           |
-| Eosinophilic Pneumonia d                        | Not known                                                |                                                 | 0%                                                           | 0%                                                           |
-| Gastrointestinal disorders                      | Gastrointestinal disorders                               | Gastrointestinal disorders                      | Gastrointestinal disorders                                   | Gastrointestinal disorders                                   |
-| Diarrhoea                                       | Very common (46%)                                        | 1.5%                                            | Very common (43%)                                            | 2.9%                                                         |
-| Stomatitis l                                    | Very common (23%)                                        | 0.4%                                            | Very common (31%)                                            | 0.4%                                                         |
-| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                   | Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                       | Skin and subcutaneous tissue disorders                       |
-| Rash m                                          | Very common (45%)                                        | 0.8%                                            | Very common (49%)                                            | 2.5%                                                         |
-| Paronychia n                                    | Very common (33%)                                        | 0.4%                                            | Very common (27%)                                            | 0.7%                                                         |
-| Dry skin o                                      | Very common (31%)                                        | 0.2%                                            | Very common (24%)                                            | 0%                                                           |
-| Pruritus p                                      | Very common (17%)                                        | 0.05%                                           | Common (8%)                                                  | 0%                                                           |
-| Alopecia                                        | Common (5%)                                              | 0%                                              | Common (9%)                                                  | 0%                                                           |
-| Palmar-plantar erythrodysaesthesia syndrome     | Common (1.9%)                                            | 0%                                              | Common (5%)                                                  | 0%                                                           |
-| Urticaria                                       | Common (1.9%)                                            | 0.1%                                            | Common (1.4%)                                                | 0.4%                                                         |
-| Skin hyperpigmentation q                        | Uncommon (0.9%)                                          | 0%                                              | Common (2.5%)                                                | 0%                                                           |
-| Erythema multiforme r                           | Uncommon (0.3%)                                          | 0%                                              | Common (1.4%)                                                | 0.7%                                                         |
-| Cutaneous vasculitis s                          | Uncommon (0.2%)                                          | Uncommon (0.2%)                                 | 0%                                                           | 0%                                                           |
-| Stevens-Johnson syndrome t                      | Rare (0.02%)                                             | Rare (0.02%)                                    | 0%                                                           | 0%                                                           |
+Table 2. Adverse reactions reported in ADAURA, LAURA, FLAURA, FLAURA2 and AURA studies
+
+| MedDRA SOC and MedDRA term                      | TAGRISSO a                                               | TAGRISSO a                                      | TAGRISSO with pemetrexed and chemotherapy b                             | TAGRISSO with pemetrexed and chemotherapy b     |
+|-------------------------------------------------|----------------------------------------------------------|-------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------|
+| MedDRA SOC and MedDRA term                      | CIOMS descriptor/ overall frequency (all CTCAE grades) c | Frequency of CTCAE grade 3 or higher c          | platinum-based CIOMS descriptor/ overall frequency (all CTCAE grades) c | Frequency of CTCAE grade 3 or higher c          |
+| Infections and infestations                     | Infections and infestations                              | Infections and infestations                     | Infections and infestations                                             | Infections and infestations                     |
+| Hepatitis B reactivation d                      | Not known                                                | Not known                                       | 0%                                                                      | 0%                                              |
+| Blood and lymphatic system disorders            | Blood and lymphatic system disorders                     | Blood and lymphatic system disorders            | Blood and lymphatic system disorders                                    | Blood and lymphatic system disorders            |
+| Aplastic anaemia                                | Rare (0.05%)                                             | 0.05%                                           | 0%                                                                      | 0%                                              |
+| Thrombocytopenia                                | Common (7%)                                              | 0.6%                                            | Very common (18.5%)                                                     | 6.9%                                            |
+| Neutropenia                                     | Common (6%)                                              | 0.9%                                            | Very common (24.6%)                                                     | 13.4%                                           |
+| Leukopenia                                      | Common (5%)                                              | 0.4%                                            | Very common (12.7%)                                                     | 2.9%                                            |
+| Lymphopenia                                     | Common (1.6%)                                            | 0.3%                                            | Common (2.5%)                                                           | 1.1%                                            |
+| Metabolism and nutrition disorders              | Metabolism and nutrition disorders                       | Metabolism and nutrition disorders              | Metabolism and nutrition disorders                                      | Metabolism and nutrition disorders              |
+| Decreased appetite                              | Very common (19%)                                        | 1.1%                                            | Very common (31%)                                                       | 2.9%                                            |
+| Eye disorders                                   | Eye disorders                                            | Eye disorders                                   | Eye disorders                                                           | Eye disorders                                   |
+| Keratitis e                                     | Uncommon (0.6%)                                          | 0.05%                                           | Uncommon (0.7%)                                                         | 0%                                              |
+| Cardiac disorders                               | Cardiac disorders                                        | Cardiac disorders                               | Cardiac disorders                                                       | Cardiac disorders                               |
+| Cardiac failure                                 | Uncommon (0.5%)                                          | 0.2%                                            | Common (1.8%)                                                           | 1.1% f                                          |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders          | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                         | Respiratory, thoracic and mediastinal disorders |
+| Epistaxis                                       | Common (6%)                                              | 0%                                              | Common (7%)                                                             | 0.4%                                            |
+| Interstitial lung disease                       | Common (4.3%) g                                          | 1.4% h                                          | Common (3.3%) i                                                         | 0.7% j                                          |
+| Radiation Pneumonitis k                         | Common (4%)                                              | 0.2%                                            | 0%                                                                      | 0%                                              |
+| Eosinophilic Pneumonia d                        | Not known                                                |                                                 | 0%                                                                      | 0%                                              |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                               | Gastrointestinal disorders                      | Gastrointestinal disorders                                              | Gastrointestinal disorders                      |
+| Diarrhoea                                       | Very common (46%)                                        | 1.5%                                            | Very common (43%)                                                       | 2.9%                                            |
+| Stomatitis l                                    | Very common (23%)                                        | 0.4%                                            | Very common (31%)                                                       | 0.4%                                            |
+| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                   | Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                  | Skin and subcutaneous tissue disorders          |
+| Rash m                                          | Very common (45%)                                        | 0.8%                                            | Very common (49%)                                                       | 2.5%                                            |
+| Paronychia n                                    | Very common (33%)                                        | 0.4%                                            | Very common (27%)                                                       | 0.7%                                            |
+| Dry skin o                                      | Very common (31%)                                        | 0.2%                                            | Very common (24%)                                                       | 0%                                              |
+| Pruritus p                                      | Very common (17%)                                        | 0.05%                                           | Common (8%)                                                             | 0%                                              |
+| Alopecia                                        | Common (5%)                                              | 0%                                              | Common (9%)                                                             | 0%                                              |
+| Palmar-plantar erythrodysaesthesia syndrome     | Common (1.9%)                                            | 0%                                              | Common (5%)                                                             | 0%                                              |
 
 <div style=\"page-break-after: always\"></div>
 
 | MedDRA SOC and MedDRA term                                                      | TAGRISSO a                                                                      | TAGRISSO a                                                                      | TAGRISSO with pemetrexed and platinum-based chemotherapy b                      | TAGRISSO with pemetrexed and platinum-based chemotherapy b                      |
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | MedDRA SOC and MedDRA term                                                      | CIOMS descriptor/ overall frequency (all CTCAE grades) c                        | Frequency of CTCAE grade 3 or higher c                                          | CIOMS descriptor/ overall frequency (all CTCAE grades) c                        | Frequency of CTCAE grade 3 or higher c                                          |
-| Toxic Epidermal Necrolysis d                                                    | Not known                                                                       | Not known                                                                       | 0%                                                                              | 0%                                                                              |
+| Urticaria                                                                       | Common (1.9%)                                                                   | 0.1%                                                                            | Common (1.4%)                                                                   | 0.4%                                                                            |
+| Skin hyperpigmentation q                                                        | Uncommon (0.9%)                                                                 | 0%                                                                              | Common (2.5%)                                                                   | 0%                                                                              |
+| Erythema multiforme r                                                           | Uncommon (0.3%)                                                                 | 0%                                                                              | Common (1.4%)                                                                   | 0.7%                                                                            |
+| Cutaneous vasculitis s                                                          | Uncommon (0.2%)                                                                 |                                                                                 | 0%                                                                              | 0%                                                                              |
+| Stevens-Johnson syndrome t                                                      | Rare (0.02%)                                                                    |                                                                                 | 0%                                                                              | 0%                                                                              |
+| Toxic Epidermal Necrolysis d                                                    | Not known                                                                       |                                                                                 | 0%                                                                              | 0%                                                                              |
 | Investigations                                                                  | Investigations                                                                  | Investigations                                                                  | Investigations                                                                  | Investigations                                                                  |
-| Left ventricular ejection fraction decreased u,v                                | Common (4.1%)                                                                   | Common (4.1%)                                                                   | Common (8.0%)                                                                   | Common (8.0%)                                                                   |
+| Left ventricular ejection fraction decreased u,v                                | Common (4.1%)                                                                   |                                                                                 | Common (8.0%)                                                                   |                                                                                 |
 | Blood creatine phosphokinase increased                                          | Common (2%)                                                                     | 0.4%                                                                            | Common (3.3%)                                                                   | 1.1%                                                                            |
-| QTc interval prolongation w                                                     | Common (1.1%)                                                                   | Common (1.1%)                                                                   | Common (1.8%)                                                                   | Common (1.8%)                                                                   |
+| QTc interval prolongation w                                                     | Common (1.1%)                                                                   |                                                                                 | Common (1.8%)                                                                   |                                                                                 |
 | Investigations (Findings based on test results presented as CTCAE grade shifts) | Investigations (Findings based on test results presented as CTCAE grade shifts) | Investigations (Findings based on test results presented as CTCAE grade shifts) | Investigations (Findings based on test results presented as CTCAE grade shifts) | Investigations (Findings based on test results presented as CTCAE grade shifts) |
 | Leukocytes decreased u                                                          | Very common (65%)                                                               | 1.9%                                                                            | Very common (88%)                                                               | 20%                                                                             |
 | Lymphocytes decreased u                                                         | Very common (64%)                                                               | 8%                                                                              | Very common (78%)                                                               | 16%                                                                             |
@@ -377,14 +375,14 @@ Adverse reactions are listed according to system organ class (SOC) in MedDRA. Wi
 - j One CTCAE Grade 5 event (fatal) was reported.
 - k Includes: radiation fibrosis-lung (0.05%).
 - l Includes: mouth ulceration, stomatitis.
+
+<div style=\"page-break-after: always\"></div>
+
 - m Includes: acne, dermatitis, dermatitis acneiform, drug eruption, erythema, folliculitis, pustule, rash, rash erythematous, rash follicular, rash macular, rash maculo-papular, rash papular, rash pustular, rash pruritic, rash vesicular, skin erosion.
 - n Includes: nail bed disorder, nail bed infection, nail bed inflammation, nail discolouration, nail disorder, nail dystrophy, nail infection, nail pigmentation, nail ridging, nail toxicity, onychalgia, onychoclasis, onycholysis, onychomadesis, onychomalacia, paronychia.
 - o Includes: dry skin, eczema, skin fissures, xeroderma, xerosis.
 - p Includes: eyelid pruritus, pruritus.
 - q Cases of erythema dyschromicum perstans have been reported in the post-marketing setting.
-
-<div style=\"page-break-after: always\"></div>
-
 - r Six of the 1956 patients in the ADAURA, AURA, FLAURA, FLAURA2 (monotherapy arm), LAURA and AURA studies reported erythema multiforme. Post-marketing reports of erythema multiforme have also been received, including 7 reports from a post-marketing surveillance study (N=3578).
 - s Estimated frequency. The upper limit of the 95% CI for the point estimate is 3/1956 (0.4%).
 - t One event was reported in a post-marketing study, and the frequency has been derived from the ADAURA, FLAURA, FLAURA2 (monotherapy arm), LAURA and AURA studies and the post-marketing study (N=5534).
@@ -408,9 +406,11 @@ In the LAURA study, following definitive platinum-based chemoradiation therapy, 
 
 ## QTc interval prolongation
 
-Of the 1956 patients in ADAURA, FLAURA, FLAURA2, LAURA and AURA studies treated with TAGRISSO monotherapy 80 mg, 1.1% of patients (n=21) were found to have a QTc greater than 500 msec, and 4% of patients (n=79) had an increase from baseline QTc greater than 60 msec. A pharmacokinetic/ pharmacodynamic analysis with TAGRISSO predicted a concentration-dependent increase in QTc interval prolongation. No QTc-related arrhythmias were reported in the ADAURA, LAURA, FLAURA, FLAURA2 or AURA studies (see sections 4.4 and 5.1). In patients who received TAGRISSO in combination with pemetrexed and platinum-based chemotherapy, the proportion of patients who experienced a QTc interval prolongation of greater than 500 msec with a greater than 60 msec increase from baseline was low and was similar with monotherapy (1.8% versus 1.5%).
+Of the 1956 patients in ADAURA, FLAURA, FLAURA2, LAURA and AURA studies treated with TAGRISSO monotherapy 80 mg, 1.1% of patients (n=21) were found to have a QTc greater than 500
 
 <div style=\"page-break-after: always\"></div>
+
+msec, and 4% of patients (n=79) had an increase from baseline QTc greater than 60 msec. A pharmacokinetic/ pharmacodynamic analysis with TAGRISSO predicted a concentration-dependent increase in QTc interval prolongation. No QTc-related arrhythmias were reported in the ADAURA, LAURA, FLAURA, FLAURA2 or AURA studies (see sections 4.4 and 5.1). In patients who received TAGRISSO in combination with pemetrexed and platinum-based chemotherapy, the proportion of patients who experienced a QTc interval prolongation of greater than 500 msec with a greater than 60 msec increase from baseline was low and was similar with monotherapy (1.8% versus 1.5%).
 
 ## Gastrointestinal effects
 
@@ -428,11 +428,11 @@ In ADAURA, FLAURA, FLAURA2, LAURA and AURA3 (TAGRISSO monotherapy; N=1956), 43% 
 
 Patients receiving TAGRISSO monotherapy (80 mg; N=1956) with low body weight (&lt;50 kg) reported higher frequencies of Grade ≥3 adverse reactions (20% versus 10%) and QTc prolongation (12% versus 6%) than patients with higher body weight (≥50 kg). Patients who received TAGRISSO in combination with pemetrexed and platinum-based chemotherapy with low body weight (&lt;50 kg) reported similar frequencies of Grade ≥3 adverse reactions (32% versus 37%) when compared to patients with higher body weight (≥50 kg). In contrast, dry skin (34% versus 22%) and stomatitis (40% versus 30%) were reported at higher frequencies in patients with low body weight (&lt;50 kg) versus higher body weight (≥50 kg).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -464,9 +464,9 @@ The QTc interval prolongation potential of TAGRISSO was assessed in 210 patients
 
 The efficacy and safety of TAGRISSO for the adjuvant treatment of patients with EGFR mutationpositive (Ex19del or L858R) NSCLC who have had complete tumour resection with or without prior adjuvant chemotherapy was demonstrated in a randomised, double-blind, placebo-controlled study (ADAURA).
 
-Eligible patients with resectable tumors stage IB-IIIA (according to American Joint Commission on Cancer [AJCC] 7 th edition) were required to have EGFR mutations (Ex19del or L858R), identified by the cobas EGFR Mutation Test performed prospectively using biopsy or surgical specimen in a central laboratory.
-
 <div style=\"page-break-after: always\"></div>
+
+Eligible patients with resectable tumors stage IB-IIIA (according to American Joint Commission on Cancer [AJCC] 7 th edition) were required to have EGFR mutations (Ex19del or L858R), identified by the cobas EGFR Mutation Test performed prospectively using biopsy or surgical specimen in a central laboratory.
 
 Patients were randomised 1:1 to receive TAGRISSO (n=339, 80 mg orally once daily) or placebo (n=343) following recovery from surgery and standard adjuvant chemotherapy where given. Patients not receiving adjuvant chemotherapy were randomised within 10 weeks and patients receiving adjuvant chemotherapy within 26 weeks following surgery. Randomisation was stratified by EGFR mutation type (Ex19del or L858R), ethnicity (Asian or non-Asian) and staging based on pathological tumor-node-metastasis (pTNM) (IB or II or IIIA) according to AJCC 7 th edition. Treatment was given until disease recurrence, unacceptable toxicity, or for 3 years.
 
@@ -482,22 +482,22 @@ Efficacy results from ADAURA by investigator assessment are summarised in Table 
 
 Table 3. Efficacy results from ADAURA by investigator assessment
 
-|                                    | Stage II-IIIA population     | Stage II-IIIA population     | Stage IB-IIIA population     | Stage IB-IIIA population     |
-|------------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-| Efficacy parameter                 | TAGRISSO (N=233)             | Placebo (N=237)              | TAGRISSO (N=339)             | Placebo (N=343)              |
-| Disease-free survival              | Disease-free survival        | Disease-free survival        | Disease-free survival        | Disease-free survival        |
-| Number of events (%)               | 26 (11)                      | 130 (55)                     | 37 (11)                      | 159 (46)                     |
-| Recurrent disease (%)              | 26 (11)                      | 129 (54)                     | 37 (11)                      | 157 (46)                     |
-| Deaths (%)                         | 0                            | 1 (0.4)                      | 0                            | 2 (0.6)                      |
-| Median DFS, months (95% CI)        | NC (38.8, NC)                | 19.6 (16.6, 24.5)            | NC (NC, NC)                  | 27.5 (22.0, 35.0)            |
-| HR (99.06% CI); P-value            | 0.17 (0.11, 0.26); <0.0001 a | 0.17 (0.11, 0.26); <0.0001 a | 0.20 (0.14, 0.30); <0.0001 b | 0.20 (0.14, 0.30); <0.0001 b |
-| DFS rate at 12 months (%) (95% CI) | 97 (94, 99)                  | 61 (54, 67)                  | 97 (95, 99)                  | 69 (63, 73)                  |
+|                       | Stage II-IIIA population   | Stage II-IIIA population   | Stage IB-IIIA population   | Stage IB-IIIA population   |
+|-----------------------|----------------------------|----------------------------|----------------------------|----------------------------|
+| Efficacy parameter    | TAGRISSO (N=233)           | Placebo (N=237)            | TAGRISSO (N=339)           | Placebo (N=343)            |
+| Disease-free survival |                            |                            |                            |                            |
+| Number of events (%)  | 26 (11)                    | 130 (55)                   | 37 (11)                    | 159 (46)                   |
+| Recurrent disease (%) | 26 (11)                    | 129 (54)                   | 37 (11)                    | 157 (46)                   |
 
 <div style=\"page-break-after: always\"></div>
 
-| DFS rate at 24 months (%) (95% CI)     | 90 (84, 93)   | 44 (37, 51)   | 89 (85, 92)   | 52 (46, 58)   |
-|----------------------------------------|---------------|---------------|---------------|---------------|
-| DFS rate at 36 months (%) (95% CI) c,d | 78 (65, 87)   | 28 (19, 38)   | 79 (69, 86)   | 40 (32, 48)   |
+| Deaths (%)                             | 0                            | 1 (0.4)                      | 0                            | 2 (0.6)                      |
+|----------------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
+| Median DFS, months (95% CI)            | NC (38.8, NC)                | 19.6 (16.6, 24.5)            | NC (NC, NC)                  | 27.5 (22.0, 35.0)            |
+| HR (99.06% CI); P-value                | 0.17 (0.11, 0.26); <0.0001 a | 0.17 (0.11, 0.26); <0.0001 a | 0.20 (0.14, 0.30); <0.0001 b | 0.20 (0.14, 0.30); <0.0001 b |
+| DFS rate at 12 months (%) (95% CI)     | 97 (94, 99)                  | 61 (54, 67)                  | 97 (95, 99)                  | 69 (63, 73)                  |
+| DFS rate at 24 months (%) (95% CI)     | 90 (84, 93)                  | 44 (37, 51)                  | 89 (85, 92)                  | 52 (46, 58)                  |
+| DFS rate at 36 months (%) (95% CI) c,d | 78 (65, 87)                  | 28 (19, 38)                  | 79 (69, 86)                  | 40 (32, 48)                  |
 
 HR=Hazard Ratio; CI=Confidence Interval; NC=Not Calculable
 
@@ -505,9 +505,7 @@ DFS results based on investigator assessment.
 
 A HR &lt;1 favours TAGRISSO.
 
-Median follow-up time for DFS was 22.1 months for patients receiving TAGRISSO, 14.9 months for patients receiving placebo (stage II-IIIA population) and 16.6 months for patients receiving placebo (stage IB-IIIA population).
-
-DFS results are from the primary analysis (17 January 2020).
+Median follow-up time for DFS was 22.1 months for patients receiving TAGRISSO, 14.9 months for patients receiving placebo (stage II-IIIA population) and 16.6 months for patients receiving placebo (stage IB-IIIA population). DFS results are from the primary analysis (17 January 2020).
 
 a  Adjusted for an interim analysis (33% maturity) a p-value &lt;0.0094 was required to achieve statistical significance.
 
@@ -519,13 +517,17 @@ d  The number of patients at risk at 36 months was 27 patients in the TAGRISSO a
 
 The final analysis of OS (data cut-off [DCO]: 27 January 2023) demonstrated a statistically significant improvement in OS for patients treated with TAGRISSO compared to placebo for both the stage IIIIIA population (100 OS events [21% maturity]; HR=0.49; 95.03% CI: 0.33, 0.73; p-value=0.0004) and the overall population (IB-IIIA; 124 OS events [18% maturity]; HR=0.49; 95.03% CI: 0.34, 0.70; p-value &lt;0.0001). For both populations, the median OS was not reached in either treatment arm and the 95% CIs were not calculable. The median follow-up time for OS in all patients was 59.9 months (stage II-IIIA population) and 60.4 months (stage IB-IIIA population) in the TAGRISSO arm and 56.2 months (stage II-IIIA population) and 59.4 months (stage IB-IIIA population) in the placebo arm.
 
+<div style=\"page-break-after: always\"></div>
+
 Figure 1. Kaplan-Meier curve of disease-free survival in stage II-IIIA patients by investigator assessment
+
+1.0
 
 <!-- image -->
 
-The values at the base of the figure indicate number of subjects at risk. NC = Not Calculable.
+The values at the base of the figure indicate number of subjects at risk.
 
-<div style=\"page-break-after: always\"></div>
+NC = Not Calculable.
 
 Figure 2. Kaplan-Meier curve of disease-free survival in stage IB-IIIA (overall population) patients by investigator assessment
 
@@ -537,11 +539,15 @@ The values at the base of the figure indicate number of subjects at risk.
 
 NC = Not Calculable.
 
+<div style=\"page-break-after: always\"></div>
+
 The DFS benefit of TAGRISSO compared to placebo was consistent across all predefined subgroups analysed, including ethnicity, age, gender, and EGFR mutation type (Ex19Del or L858R).
 
 Figure 3. Kaplan-Meier curve of overall survival in stage II-IIIA patients
 
 <!-- image -->
+
++ Censored patients.
 
 The values at the base of the figure indicate number of subjects at risk.
 
@@ -549,11 +555,7 @@ The values at the base of the figure indicate number of subjects at risk.
 
 Figure 4. Kaplan-Meier curve of overall survival in stage IB-IIIA (overall population) patients
 
-06
-
 <!-- image -->
-
-+ Censored patients.
 
 The values at the base of the figure indicate number of subjects at risk.
 
@@ -567,9 +569,9 @@ Health-related quality of life (HRQL) in ADAURA was assessed using the Short For
 
 The efficacy and safety of TAGRISSO for the treatment of patients with EGFR mutation-positive, locally advanced, unresectable NSCLC, who had not progressed during or following definitive platinum-based chemoradiation therapy, were evaluated in a randomised, double-blind, placebo-controlled study (LAURA). Patients were to receive concurrent chemoradiation therapy (CCRT) or sequential chemoradiation therapy (SCRT) regimens, where at least 2 cycles or 5 weekly doses of platinum-based chemotherapy and a total dose of radiation of 60 Gy ±10% (54 Gy to 66 Gy), were to be completed ≤6 weeks prior to randomisation. Patient tumour tissue samples were required to have an EGFR exon 19 deletion or exon 21 L858R mutation, as identified by central or local testing using a certified/approved test.
 
-<div style=\"page-break-after: always\"></div>
-
 Patients were randomised (2:1) to receive either TAGRISSO 80 mg orally once daily (n=143) or placebo (n=73). Randomisation was stratified by prior chemoradiation strategy (CCRT vs SCRT), tumour staging prior to chemoradiation (IIIA vs IIIB/IIIC), and by the China cohort. Patients continued to receive study treatment until intolerance to therapy or confirmed disease progression. Cross-over from placebo to TAGRISSO was permitted upon progressive disease.
+
+<div style=\"page-break-after: always\"></div>
 
 The primary efficacy endpoint was progression-free survival (PFS) as assessed by blinded independent central review (BICR). Additional efficacy endpoints included OS and CNS PFS as assessed by neuroradiologist BICR.
 
@@ -596,11 +598,9 @@ Table 4. Efficacy results from LAURA
 | Median OS, months (95% CI)  | 54.0 (46.5, NC)              | NC (42.1, NC)                |
 | HR (95% CI); P-value        | 0.81 (0.42, 1.56); P=0.530 a | 0.81 (0.42, 1.56); P=0.530 a |
 
-HR=Hazard Ratio; CI=Confidence Interval, NC=Not Calculable PFS results as assessed by BICR.
+Median follow-up time for PFS in all patients was 22.0 months in the TAGRISSO arm and 5.6 months in the placebo arm.
 
 <div style=\"page-break-after: always\"></div>
-
-Median follow-up time for PFS in all patients was 22.0 months in the TAGRISSO arm and 5.6 months in the placebo arm.
 
 - a Adjusted for an interim analysis (20% maturity) a p-value &lt;0.000036 was required to achieve statistical significance.
 
@@ -645,12 +645,12 @@ Table 5. Efficacy results from FLAURA by investigator assessment
 | HR (95% CI); P-value                                                  | 0.58 (0.44, 0.78); P=0.0004      | 0.58 (0.44, 0.78); P=0.0004                            |
 | Time from randomisation to first subsequent treatment or death (TFST) |                                  |                                                        |
 | Number of patients who had first subsequent treatment or died (%)     | 115 (41)                         | 175 (63)                                               |
+| Median TFST, months (95% CI)                                          | 23.5 (22.0, NC)                  | 13.8 (12.3, 15.7)                                      |
 
 <div style=\"page-break-after: always\"></div>
 
-| Median TFST, months (95% CI)                                           | 23.5 (22.0, NC)                                                        | 13.8 (12.3, 15.7)                                                      |
-|------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
 | HR (95% CI); P-value                                                   | 0.51 (0.40, 0.64); P<0.0001                                            | 0.51 (0.40, 0.64); P<0.0001                                            |
+|------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
 | Time from randomisation to second subsequent treatment or death (TSST) | Time from randomisation to second subsequent treatment or death (TSST) | Time from randomisation to second subsequent treatment or death (TSST) |
 | Number of patients who had second subsequent treatment or died (%)     | 75 (27)                                                                | 110 (40)                                                               |
 | Median TSST, months (95% CI)                                           | NC (NC, NC)                                                            | 25.9 (20.0, NC)                                                        |
@@ -756,25 +756,37 @@ Efficacy results from FLAURA2 by investigator assessment are summarised in Table
 
 Table 7. Efficacy results from FLAURA2 by investigator assessment
 
-| Efficacy parameter            | TAGRISSO with pemetrexed and platinum-based chemotherapy (N=279)   | TAGRISSO (N=278)   |
-|-------------------------------|--------------------------------------------------------------------|--------------------|
-| Progression-Free Survival     |                                                                    |                    |
-| Number (%) of events          | 120 (43)                                                           | 166 (60)           |
-| Median PFS, months (95% CI) a | 25.5 (24.7, NC)                                                    | 16.7 (14.1, 21.3)  |
+| Efficacy parameter            | TAGRISSO with pemetrexed and platinum-based chemotherapy (N=279)   | TAGRISSO (N=278)            |
+|-------------------------------|--------------------------------------------------------------------|-----------------------------|
+| Progression-Free Survival     |                                                                    |                             |
+| Number (%) of events          | 120 (43)                                                           | 166 (60)                    |
+| Median PFS, months (95% CI) a | 25.5 (24.7, NC)                                                    | 16.7 (14.1, 21.3)           |
+| HR (95% CI); P-value          | 0.62 (0.49, 0.79); P<0.0001                                        | 0.62 (0.49, 0.79); P<0.0001 |
 
 <div style=\"page-break-after: always\"></div>
 
 | Efficacy parameter         | TAGRISSO with pemetrexed and platinum-based chemotherapy (N=279)   | TAGRISSO (N=278)              |
 |----------------------------|--------------------------------------------------------------------|-------------------------------|
-| HR (95% CI); P-value       | 0.62 (0.49, 0.79); P<0.0001                                        | 0.62 (0.49, 0.79); P<0.0001   |
 | Overall Survival           |                                                                    |                               |
 | Number (%) of deaths       | 144 (52)                                                           | 171 (62)                      |
 | Median OS, months (95% CI) | 47.5 (41.0, NC)                                                    | 37.6 (33.2, 43.2)             |
 | HR (95% CI); P-value       | 0.77 (0.61, 0.96); P=0.0202 b                                      | 0.77 (0.61, 0.96); P=0.0202 b |
 
+PFS based on RECIST investigator assessment.
+
+Median follow-up time for PFS in all patients was 19.5 months in the TAGRISSO with pemetrexed and platinum-based chemotherapy arm and 16.5 months in the TAGRISSO monotherapy arm.
+
+PFS results are from DCO 03 April 2023 (51% maturity). OS results are from DCO 12 June 2025 (57% maturity).
+
+a  PFS results by BICR were consistent with those reported via investigator assessment.
+
+b  Adjusting for the interim analyses, a p-value &lt;0.04953 was required to achieve statistical significance at the final OS analysis.
+
 Figure 9. Kaplan-Meier curves of progression-free survival as assessed by investigator in FLAURA2
 
 <!-- image -->
+
++ Censored patients.
 
 Chemo = Pemetrexed and platinum-based chemotherapy.
 
@@ -851,20 +863,20 @@ Patients with asymptomatic, stable brain metastases not requiring steroids for a
 
 Table 9. CNS efficacy by BICR in patients with CNS metastases on a baseline brain scan in AURA3
 
-| Efficacy parameter                       | TAGRISSO                   | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin)   |
-|------------------------------------------|----------------------------|-----------------------------------------------------------------|
-| CNS objective response rate a            |                            |                                                                 |
-| CNS response rate %(n/N) (95% CI)        | 70% (21/30) (51, 85)       | 31% (5/16) (11%, 59%)                                           |
-| Odds ratio (95% CI); P-value             | 5.1 (1.4, 21); P=0.015     | 5.1 (1.4, 21); P=0.015                                          |
-| CNS duration of response b               |                            |                                                                 |
-| Median CNS DoR, months (95% CI)          | 8.9 (4.3, NC)              | 5.7 (NC, NC)                                                    |
-| CNS disease control rate                 |                            |                                                                 |
-| CNS disease control rate %(n/N) (95% CI) | 87% (65/75) (77, 93)       | 68% (28/41) (52, 82)                                            |
-| Odds ratio (95% CI); P-value             | 3 (1.2, 7.9); P=0.021      | 3 (1.2, 7.9); P=0.021                                           |
-| CNS progression-free survival c          | N=75                       | N=41                                                            |
-| Number of events (% maturity)            | 19 (25)                    | 16 (39)                                                         |
-| Median CNS PFS, months (95% CI)          | 11.7 (10, NC)              | 5.6 (4.2, 9.7)                                                  |
-| HR (95% CI); P-value                     | 0.32 (0.15, 0.69); P=0.004 | 0.32 (0.15, 0.69); P=0.004                                      |
+| Efficacy parameter                        | TAGRISSO                   | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin)   |
+|-------------------------------------------|----------------------------|-----------------------------------------------------------------|
+| CNS objective response rate a             |                            |                                                                 |
+| CNS response rate % (n/N) (95% CI)        | 70% (21/30) (51, 85)       | 31% (5/16) (11%, 59%)                                           |
+| Odds ratio (95% CI); P-value              | 5.1 (1.4, 21); P=0.015     | 5.1 (1.4, 21); P=0.015                                          |
+| CNS duration of response b                |                            |                                                                 |
+| Median CNS DoR, months (95% CI)           | 8.9 (4.3, NC)              | 5.7 (NC, NC)                                                    |
+| CNS disease control rate                  |                            |                                                                 |
+| CNS disease control rate % (n/N) (95% CI) | 87% (65/75) (77, 93)       | 68% (28/41) (52, 82)                                            |
+| Odds ratio (95% CI); P-value              | 3 (1.2, 7.9); P=0.021      | 3 (1.2, 7.9); P=0.021                                           |
+| CNS progression-free survival c           | N=75                       | N=41                                                            |
+| Number of events (% maturity)             | 19 (25)                    | 16 (39)                                                         |
+| Median CNS PFS, months (95% CI)           | 11.7 (10, NC)              | 5.6 (4.2, 9.7)                                                  |
+| HR (95% CI); P-value                      | 0.32 (0.15, 0.69); P=0.004 | 0.32 (0.15, 0.69); P=0.004                                      |
 
 A HR &lt;1 favours TAGRISSO.
 
@@ -1070,13 +1082,15 @@ Date of first authorisation: 2 February 2016
 
 Date of latest renewal: 24 March 2022
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
+
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines
 
 Agency https://www.ema.europa.eu.
 
-39
+40
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1156,7 +1170,7 @@ Read the package leaflet before use. Oral use
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
@@ -1174,9 +1188,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-AstraZeneca AB Sweden
-
 SE-151 85 Södertälje
+
+AstraZeneca AB Sweden
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1202,7 +1216,9 @@ tagrisso 40 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
@@ -1232,11 +1248,11 @@ Film-coated tablets
 
 Read the package leaflet before use. Oral use
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
@@ -1286,15 +1302,15 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEARON BLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER (PERFORATED)                                 |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER (PERFORATED)                                  |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1313,7 +1329,7 @@ BLISTER (PERFORATED)
 
 TAGRISSO 40 mg tablets osimertinib
 
-2. NAME OF THE MARKETING AUTHORISATION HOLDER
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 AstraZeneca AB
 
@@ -1329,12 +1345,18 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTER (PERFORATED)                                 |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER (PERFORATED)                                  |
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
+
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
@@ -1348,11 +1370,11 @@ Lot
 
 TAGRISSO 80 mg tablets osimertinib
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 AstraZeneca AB
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -1407,9 +1429,9 @@ TAGRISSO can be prescribed for you, in combination with other anti-cancer medici
 
 When TAGRISSO is given in combination with other anti-cancer medicines, it is important that you also read the package leaflet for these other medicines. If you have any questions about these medicines, ask your doctor.
 
-## How TAGRISSO works
-
 <div style=\"page-break-after: always\"></div>
+
+## How TAGRISSO works
 
 TAGRISSO works by blocking EGFR and may help to slow or stop your lung cancer from growing. It may also help to reduce the size of the tumour and prevent the tumour from coming back after removal by surgery.
 
@@ -1436,6 +1458,7 @@ Talk to your doctor, pharmacist or nurse before taking TAGRISSO if:
 - you have suffered from inflammation of your lungs (a condition called 'interstitial lung disease').
 - you have ever had heart problems - your doctor may want to keep a close eye on you.
 - you have a history of eye problems.
+- you have muscle pain or weakness.
 - you have ever had or might now have a hepatitis B infection. This is because TAGRISSO could cause hepatitis B virus to become active again. Tell your doctor or nurse if you get worsening tiredness or yellowing of your skin or white part of your eyes.
 
 If any of the above apply to you (or you are not sure), talk to your doctor, pharmacist or nurse before taking this medicine.
@@ -1446,9 +1469,11 @@ If any of the above apply to you (or you are not sure), talk to your doctor, pha
 - you have severe peeling of your skin.
 - you have rapid or irregular heartbeats, dizziness, light-headedness, chest discomfort, shortness of breath and fainting.
 - you have watery eyes, sensitivity to light, eye pain, eye redness or vision changes. See 'Serious side effects' in section 4 for more information.
-- you develop persistent fever, bruising or bleeding more easily, increasing tiredness, pale skin and infection. See 'Serious side effects' in section 4 for more information.
 
 <div style=\"page-break-after: always\"></div>
+
+- you develop persistent fever, bruising or bleeding more easily, increasing tiredness, pale skin and infection. See 'Serious side effects' in section 4 for more information.
+- you develop unexplained muscle pain, tenderness, weakness, trouble moving arms or legs, dark tea-coloured urine, or decreased urination. See 'Serious side effects' in section 4 for more information.
 
 ## Children and adolescents
 
@@ -1477,7 +1502,9 @@ TAGRISSO may affect how well the following medicines work and/or increase side e
 - Digoxin - used for irregular heart beat or other heart problems.
 - Aliskiren - used for high blood pressure.
 
-If you are taking any of the medicines listed above, tell your doctor before taking TAGRISSO. Your doctor will discuss appropriate treatment options with you.
+## If you are taking any of the medicines listed above, tell your doctor before taking TAGRISSO.
+
+Your doctor will discuss appropriate treatment options with you.
 
 ## Pregnancy -information for women
 
@@ -1493,10 +1520,10 @@ If you are taking any of the medicines listed above, tell your doctor before tak
 
 You must use effective contraception during treatment.
 
+<div style=\"page-break-after: always\"></div>
+
 - TAGRISSO may interfere with how well oral hormonal contraceptives work. Discuss with your doctor the most appropriate methods of contraception.
 - TAGRISSO may pass into semen. Therefore, it is important that men also use effective contraception.
-
-<div style=\"page-break-after: always\"></div>
 
 You must also do this after completing treatment with TAGRISSO:
 
@@ -1547,13 +1574,13 @@ If you take more than your normal dose, contact your doctor or nearest hospital 
 
 If you forget a dose, take it as soon as you remember it. However, if it is less than 12 hours until your next dose is due, skip the missed dose. Take your next normal dose at its scheduled time.
 
+<div style=\"page-break-after: always\"></div>
+
 ## If you stop taking TAGRISSO
 
 Do not stop taking this medicine - talk to your doctor first. It is important to take this medicine every day, for as long as your doctor prescribes it for you.
 
 If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
@@ -1579,6 +1606,9 @@ Very common (may affect more than 1 in 10 people)
 - Diarrhoea - this may come and go during treatment. Tell your doctor if your diarrhoea does not go away or becomes severe.
 - Itchy skin (pruritus) - Using moisturisers regularly on your skin can help with this.
 - Skin and nail problems - signs may include pain, itching, dry skin, rash, redness around the fingernails. This is more likely in areas exposed to the sun. Using moisturisers regularly on your skin and nails can help with this. Tell your doctor if your skin or nail problems get worse.
+
+<div style=\"page-break-after: always\"></div>
+
 - Stomatitis - inflammation of the inner lining of the mouth or ulcers forming in the mouth.
 - Loss of appetite.
 
@@ -1592,9 +1622,6 @@ Very common (may affect more than 1 in 10 people)
 - Increase of a substance in the blood called creatinine (produced by your body and removed by the kidney).
 - Increase of a substance in the blood called creatine phosphokinase (an enzyme released into the blood when muscle is damaged).
 - Reduction in the number of white blood cells (leukocytes, lymphocytes or neutrophils).
-
-<div style=\"page-break-after: always\"></div>
-
 - Reduction in the number of platelets in the blood.
 
 ## Uncommon (may affect up to 1 in 100 people)
@@ -1614,7 +1641,6 @@ The following side effects have been reported in a clinical trial with patients 
 
 - Diarrhoea - this may come and go during treatment. Tell your doctor if your diarrhoea does not go away or becomes severe.
 - Skin and nail problems - signs may include pain, itching, dry skin, rash, redness around the fingernails. This is more likely in areas exposed to the sun. Using moisturisers regularly on your skin and nails can help with this. Tell your doctor if your skin or nail problems get worse.
-- ·
 - Stomatitis - inflammation of the inner lining of the mouth or ulcers forming in the mouth.
 - Loss of appetite.
 - Reduction in the number of white blood cells (leukocytes, lymphocytes or neutrophils).
@@ -1629,6 +1655,9 @@ The following side effects have been reported in a clinical trial with patients 
 - Target lesions, which are skin reactions that look like rings (suggestive of Erythema multiforme).
 - Hives (urticaria) - itchy, raised patches anywhere on the skin, which may be pink or red and round in shape. Tell your doctor if you notice this side effect.
 - Skin greying or darkening (hyperpigmentation).
+
+<div style=\"page-break-after: always\"></div>
+
 - Hand-foot syndrome - this may include redness, swelling, tingling or burning sensation with cracking of the skin on the palms of hands and/or soles of feet.
 - Increase of a substance in the blood called creatine phosphokinase (an enzyme released into the blood when muscle is damaged).
 
@@ -1639,8 +1668,6 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 ## 5. How to store TAGRISSO
 
 Keep this medicine out of the sight and reach of children.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not use this medicine after the expiry date which is stated on the blister foil and carton after EXP. The expiry date refers to the last day of that month.
 
@@ -1667,35 +1694,27 @@ TAGRISSO is supplied in blisters containing 30 x 1 film-coated tablets, packed i
 
 TAGRISSO is supplied in blisters containing 28 x 1 film-coated tablets, packed in cartons containing 4 blisters of 7 tablets each.
 
-## Marketing Authorisation Holder
+Marketing Authorisation Holder SE-151 85 Södertälje
 
-AstraZeneca AB SE-151 85 Södertälje Sweden
+AstraZeneca AB Sweden
 
-## Manufacturer
+Manufacturer AstraZeneca AB
 
-AstraZeneca AB Gärtunavägen SE-152 57 Södertälje Sweden
+<div style=\"page-break-after: always\"></div>
+
+SE-152 57 Södertälje
+
+Gärtunavägen Sweden
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder.
 
 ## België/Belgique/Belgien
 
-AstraZeneca S.A./N.V.
-
-Tel: +32 2 370 48 11
-
-Lietuva UAB AstraZeneca Lietuva Tel: +370 5 2660550
+AstraZeneca S.A./N.V. Tel: +32 2 370 48 11
 
 ## България
 
 АстраЗенека България ЕООД Тел.: +359 24455000
-
-## Luxembourg/Luxemburg
-
-AstraZeneca S.A./N.V.
-
-Tél/Tel: +32 2 370 48 11
-
-<div style=\"page-break-after: always\"></div>
 
 ## Česká republika
 
@@ -1735,21 +1754,17 @@ AstraZeneca Pharmaceuticals (Ireland) DAC Tel: +353 1609 7100
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor Sími: +354 535 7000
 
 ## Italia
 
-AstraZeneca S.p.A. Tel: +39 02 00704500
+## Lietuva
 
-## Κύπρος
+UAB AstraZeneca Lietuva Tel: +370 5 2660550
 
-Αλέκτωρ Φαρµακευτική Λτδ Τηλ: +357 22490305
+## Luxembourg/Luxemburg
 
-## Latvija
-
-SIA AstraZeneca Latvija Tel: +371 67377100
-
-## This leaflet was last revised in
+AstraZeneca S.A./N.V. Tél/Tel: +32 2 370 48 11
 
 ## Magyarország
 
@@ -1761,7 +1776,9 @@ Associated Drug Co. Ltd Tel: +356 2277 8000
 
 ## Nederland
 
-AstraZeneca BV Tel: +31 85 808 9900
+AstraZeneca BV
+
+Tel: +31 85 808 9900
 
 ## Norge
 
@@ -1773,9 +1790,7 @@ AstraZeneca Österreich GmbH Tel: +43 1 711 31 0
 
 ## Polska
 
-AstraZeneca Pharma Poland Sp. z o.o.
-
-Tel.: +48 22 245 73 00
+AstraZeneca Pharma Poland Sp. z o.o. Tel.: +48 22 245 73 00
 
 ## Portugal
 
@@ -1795,14 +1810,32 @@ AstraZeneca AB, o.z. Tel: +421 2 5737 7777
 
 ## Suomi/Finland
 
-AstraZeneca Oy Puh/Tel: +358 10 23 010
+AstraZeneca S.p.A.
 
-## Sverige
-
-AstraZeneca AB Tel: +46 8 553 26 000
+Tel: +39 02 00704500
 
 <div style=\"page-break-after: always\"></div>
+
+## Κύπρος
+
+Αλέκτωρ Φαρµακευτική Λτδ Τηλ: +357 22490305
+
+## Latvija
+
+SIA AstraZeneca Latvija
+
+Tel: +371 67377100
+
+## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+AstraZeneca Oy
+
+Puh/Tel: +358 10 23 010
+
+## Sverige
+
+AstraZeneca AB Tel: +46 8 553 26 000

@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vanflyta.html
 document_name: vanflyta.html
 version: success
-processing_time: 0.1327816
-conversion_datetime: 2026-08-22 22:43:28.664033
+processing_time: 0.3417486
+conversion_datetime: 2026-08-22 23:17:43.96681
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

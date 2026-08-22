@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rubraca.html
 document_name: rubraca.html
 version: success
-processing_time: 0.1827636
-conversion_datetime: 2026-08-22 22:46:51.804964
+processing_time: 0.189446
+conversion_datetime: 2026-08-22 23:21:10.996366
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

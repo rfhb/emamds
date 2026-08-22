@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-06-23 12:44:32
+document_datetime: 2026-08-20 16:43:43
 document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/epidyolex-epar-product-information_en.pdf
 document_name: epidyolex-epar-product-information_en.pdf
 version: success
-processing_time: 10.4082811
-conversion_datetime: 2026-06-25 17:17:15.72545
+processing_time: 10.0114763
+conversion_datetime: 2026-08-23 00:31:00.472847
 docling_version:
-  docling-serve: 1.25.0
-  docling-jobkit: 1.24.0
-  docling: 2.107.0
-  docling-core: 2.84.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.0.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -96,11 +96,7 @@ If the calculated dose is 100 mg (1 ml) or less, the smaller 1 ml oral syringe s
 
 The calculated dose should be rounded to the nearest graduated increment.
 
-## Dose adjustments of other medicinal products used in combination with cannabidiol
-
-A physician experienced in treating patients who are on concomitant antiepileptic drugs (AEDs)
-
-should evaluate the need for dose adjustments of cannabidiol or of the concomitant medicinal product(s) to manage potential drug interactions (see sections 4.4 and 4.5).
+Dose adjustments of other medicinal products used in combination with cannabidiol A physician experienced in treating patients who are on concomitant antiepileptic drugs (AEDs) should evaluate the need for dose adjustments of cannabidiol or of the concomitant medicinal product(s) to manage potential drug interactions (see sections 4.4 and 4.5).
 
 ## Discontinuation
 
@@ -132,10 +128,10 @@ Caution should be used in patients with moderate (Child-Pugh B) or severe hepati
 
 Table 2: Dose adjustments in patients with moderate or severe hepatic impairment
 
-| Starting dose For LGS, DS and TSC      | Maintenance dose For LGS and DS   | Second week For TSC               | Maximal recommended dose For LGS and DS   | Maximal recommended dose For TSC        |
-|----------------------------------------|-----------------------------------|-----------------------------------|-------------------------------------------|-----------------------------------------|
-| 1.25 mg/kg twice daily (2.5 mg/kg/day) | 2.5 mg/kg twice daily (5          | mg/kg/day)                        | 5 mg/kg twice daily (10 mg/kg/day)        | 6.25 mg/kg twice daily (12.5 mg/kg/day) |
-| 0.5 mg/kg twice daily (1 mg/kg/day)    | 1 mg/kg twice daily (2 mg/kg/day) | 1 mg/kg twice daily (2 mg/kg/day) | 2 mg/kg twice daily (4 mg/kg/day)*        | 2.5 mg/kg twice daily (5 mg/kg/day)*    |
+| Hepatic impairment                              | Starting dose For LGS, DS and TSC   | Maintenance dose For LGS and DS   | Second week For TSC   | Maximal recommended dose For LGS and DS   | Maximal recommended dose For TSC        |
+|-------------------------------------------------|-------------------------------------|-----------------------------------|-----------------------|-------------------------------------------|-----------------------------------------|
+| Moderate 1.25 mg/kg twice daily (2.5 mg/kg/day) | 2.5 mg/kg twice daily (5 mg/kg/day) |                                   |                       | 5 mg/kg twice daily (10 mg/kg/day)        | 6.25 mg/kg twice daily (12.5 mg/kg/day) |
+| Severe 0.5 mg/kg twice daily (1 mg/kg/day)      | 1 mg/kg twice daily (2 mg/kg/day)   |                                   |                       | 2 mg/kg twice daily (4 mg/kg/day)*        | 2.5 mg/kg twice daily (5 mg/kg/day)*    |
 
 *Higher doses of cannabidiol may be considered in patients with severe hepatic impairment where the potential benefits outweigh the risks.
 
@@ -245,11 +241,11 @@ Patients with clinically significant cardiovascular impairment were not included
 
 ## CYP3A4 or CYP2C19 inducers
 
-The strong CYP3A4/2C19 inducing agent rifampicin (600 mg administered once daily) decreased plasma concentrations of cannabidiol and of 7-hydroxy-cannabidiol (7-OH-CBD; an active metabolite of cannabidiol) by approximately 30% and 60%, respectively. Other strong inducers of CYP3A4 and/or CYP2C19, such as carbamazepine, enzalutamide, mitotane, St. John's wort, when administered concomitantly with cannabidiol, may also cause a decrease in the plasma concentrations of cannabidiol and of 7-OH-CBD by a similar amount. These changes may result in a decrease in the effectiveness of cannabidiol. Dose adjustment may be necessary.
+The strong CYP3A4/2C19 inducing agent rifampicin (600 mg administered once daily) decreased plasma concentrations of cannabidiol and of 7-hydroxy-cannabidiol (7-OH-CBD; an active metabolite of cannabidiol) by approximately 30% and 60%, respectively. Other strong inducers of CYP3A4 and/or CYP2C19, such as carbamazepine, enzalutamide, mitotane, and St. John's wort, when administered concomitantly with cannabidiol, may also cause a decrease in the plasma concentrations of cannabidiol and of 7-OH-CBD by a similar amount. These changes may result in a decrease in the effectiveness of cannabidiol. Dose adjustment may be necessary.
 
 ## UGT inhibitors
 
-Cannabidiol is a substrate for UGT1A7, UGT1A9 and UGT2B7. No formal drug-drug interaction studies have been conducted with cannabidiol in combination with UGT inhibitors, therefore caution should be taken when co-administering medicinal products that are known inhibitors of these UGTs. Dose reduction of cannabidiol and/or the inhibitor may be necessary when given in combination.
+Cannabidiol is a substrate for UGT1A7, UGT1A9 and UGT2B7. No formal drug-drug interaction studies have been conducted with cannabidiol in combination with UGT inhibitors, therefore, caution should be taken when co-administering medicinal products that are known inhibitors of these UGTs. Dose reduction of cannabidiol and/or the inhibitor may be necessary when given in combination.
 
 ## Concomitant AED treatments
 
@@ -291,6 +287,10 @@ Coadministration of cannabidiol (7.5 mg/kg twice daily) with a single dose of bu
 
 (compared to bupropion administered alone), which is within the observed variability and therefore not clinically meaningful. Changes in exposures of CYP2B6 substrates are unknown when concomitantly used with cannabidiol at doses above 7.5 mg/kg twice daily.
 
+## Sensitive CYP2C8 substrates
+
+Because of potential inhibition of enzyme activity, dose reduction of substrates of CYP2C8 should be considered, as clinically appropriate, if adverse reactions are experienced when administered concomitantly with cannabidiol.
+
 ## Sensitive CYP2C9 substrates
 
 Coadministration of cannabidiol (7.5 mg/kg twice daily) with a single dose of tolbutamide (500 mg), (a moderately sensitive CYP2C9 substrate), did not result in changes in plasma concentration of tolbutamide compared to tolbutamide administered alone. Similar Cmax and AUC of tolbutamide is predicted with steady-state dosing of cannabidiol (12.5 mg/kg twice daily) when coadministered with a single dose of tolbutamide (500 mg), compared to when tolbutamide was administered alone. No dose adjustment is needed for drugs that are substrates of CYP2C9 (e.g. phenytoin) when given concomitantly with cannabidiol.
@@ -298,10 +298,6 @@ Coadministration of cannabidiol (7.5 mg/kg twice daily) with a single dose of to
 ## Sensitive CYP2C19 substrates
 
 In vitro data have demonstrated that cannabidiol inhibits CYP2C19, which may cause increased plasma concentrations of medicines that are metabolised by this isoenzyme such as clobazam and omeprazole. Dose reduction should be considered for concomitant medicinal products that are sensitive CYP2C19 substrates or that have a narrow therapeutic index.
-
-## Sensitive CYP2C8 substrates
-
-Because of potential inhibition of enzyme activity, dose reduction of substrates of CYP2C8 should be considered, as clinically appropriate, if adverse reactions are experienced when administered concomitantly with cannabidiol.
 
 ## Sensitive UGT1A9 substrates
 
@@ -317,7 +313,7 @@ The metabolite 7-carboxy-cannabidiol (7-COOH-CBD) is an inhibitor of UGT1A1, UGT
 
 ## Sensitive P-gp substrates given orally
 
-Coadministration of cannabidiol with orally administered everolimus, a P-gp and CYP3A4 substrate, has increased everolimus bioavailability likely due to inhibition of intestinal P-gp efflux of everolimus. Increases in exposure of other orally administered sensitive P-gp substrates (e.g., sirolimus, tacrolimus, digoxin) may occur on coadministration with cannabidiol. Therapeutic drug monitoring and dose reduction of other P-gp substrates should be considered when given orally and concurrently with cannabidiol.
+Coadministration of cannabidiol with orally administered everolimus, a P-gp and CYP3A4 substrate, has increased everolimus bioavailability likely due to inhibition of intestinal P-gp efflux of everolimus. Increases in exposure of other orally administered sensitive P-gp substrates (e.g., sirolimus, tacrolimus, or digoxin) may occur on coadministration with cannabidiol. Therapeutic drug monitoring and dose reduction of other P-gp substrates should be considered when given orally and concurrently with cannabidiol.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -402,9 +398,7 @@ In controlled studies for LGS, DS (receiving 10 or 20 mg/kg/day) and for TSC (re
 
 Less than 1% of cannabidiol-treated patients had ALT or AST levels greater than 20 times the ULN. There have been cases of transaminase elevations associated with hospitalisation in patients taking cannabidiol.
 
-## Risk factors for hepatocellular injury
-
-Concomitant valproate and clobazam, dose of cannabidiol and baseline transaminase elevations
+Risk factors for hepatocellular injury Concomitant valproate and clobazam, dose of cannabidiol and baseline transaminase elevations
 
 ## Concomitant valproate and clobazam
 
@@ -593,7 +587,7 @@ The DS population in studies GWPCARE2 and GWPCARE1 was predominantly paediatric 
 
 ## Dose response
 
-Given that there was no consistent dose response between 10 mg/kg/day and 20 mg/kg/day in the LGS and DS studies, cannabidiol should be titrated initially to the recommended maintenance dose of 10 mg/kg/day (see section 4.2). In individual patients titration up to a maximum dose of 20 mg/kg/day may be considered, based on the benefit-risk (see section 4.2).
+Given that there was no consistent dose response between 10 mg/kg/day and 20 mg/kg/day in the LGS and DS studies, cannabidiol should be titrated initially to the recommended maintenance dose of 10 mg/kg/day (see section 4.2). In individual patients, titration up to a maximum dose of 20 mg/kg/day may be considered, based on the benefit-risk (see section 4.2).
 
 ## Open-label data
 
@@ -615,15 +609,15 @@ Cannabidiol 50 mg/kg/day was shown to have a similar level of seizure reduction 
 
 Table 6 summarises the primary endpoint of percent reduction from baseline in TSC-associated seizures, and the key secondary measure of proportion of patients with at least a 50% reduction in TSC-associated seizure frequency for the maximum recommended dose of 25 mg/kg/day.
 
-Table 6: Primary and ≥ 50% responder key secondary outcome measures in the TSC study (overall patient population)
+Table 6 : Primary and ≥ 50% responder key secondary outcome measures in the TSC study (overall patient population)
 
-|                                                                                                  | Study GWPCARE6                                                                | Study GWPCARE6                                                                |
-|--------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-|                                                                                                  | Cannabidiol 25 mg/kg/day (n = 75)                                             | Placebo (n = 76)                                                              |
-| Primary endpoint - percentage reduction in TSC-associated seizure frequency a                    | Primary endpoint - percentage reduction in TSC-associated seizure frequency a | Primary endpoint - percentage reduction in TSC-associated seizure frequency a |
-| TSC-associated seizures %reduction from baseline Percent reduction compared placebo              | 48.6%                                                                         | 26.5%                                                                         |
-| with 95% CI P-value                                                                              | 30.1% 13.9%, 43.3% 0.0009                                                     |                                                                               |
-| Key secondary endpoint - ≥ 50% ANALYSIS) Percentage of patients with a ≥ 50% reduction P-value b | REDUCTION IN TSC-associated 36% 0.0692                                        | (RESPONDER 22.4%                                                              |
+|                                                                                                          | Study GWPCARE6                                                                | Study GWPCARE6                                                                |
+|----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+|                                                                                                          | Cannabidiol 25 mg/kg/day (n = 75)                                             | Placebo (n = 76)                                                              |
+| Primary endpoint - percentage reduction in TSC-associated seizure frequency a                            | Primary endpoint - percentage reduction in TSC-associated seizure frequency a | Primary endpoint - percentage reduction in TSC-associated seizure frequency a |
+| TSC-associated seizures % reduction from baseline Percent reduction compared with placebo 95% CI P-value | 48.6% 30.1% 13.9%, 43.3%                                                      | 26.5%                                                                         |
+|                                                                                                          | 0.0009 REDUCTION IN TSC - associated seizures (RESPONDER                      |                                                                               |
+| ANALYSIS) Percentage of patients with a ≥ 50% reduction P-value b                                        | 36% 0.0692                                                                    | 22.4%                                                                         |
 
 ## Subgroup analyses with and without clobazam treatment
 
@@ -641,7 +635,7 @@ Cannabidiol was associated with an increase in the percentage of subjects (16.0%
 
 Patients receiving cannabidiol experienced a greater percentage reduction in total seizures (48.1%) compared with placebo (26.9%).
 
-Global Impression of Change scores at the last visit, were reported by caregivers and patients. 68.6% of patients in the cannabidiol group vs. 39.5% in the placebo group experienced an improvement.
+Global Impression of Change scores at the last visit were reported by caregivers and patients. 68.6% of patients in the cannabidiol group vs. 39.5% in the placebo group experienced an improvement.
 
 Compared with placebo, cannabidiol was associated with an increase in the number of TSC-associated seizure free days during the treatment period, equivalent to 2.82 days per 28 days.
 
@@ -659,7 +653,7 @@ In a human abuse potential study, acute administration of cannabidiol to non-dep
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with cannabidiol in one or more subsets of the paediatric population in treatment of seizures associated with LGS, DS and TSC (see section 4.2 for information on paediatric use).
 
-The GWPCARE6 study, conducted in patients with TSC, included 8 children between 1 and 2 years of age across all treatment groups. Although data are limited, the observed treatment effect and tolerability were similar to that seen in patients of 2 years of age and older, however, efficacy, safety and pharmacokinetics in children &lt; 2 years of age have not been established (see section 4.2).
+The GWPCARE6 study, conducted in patients with TSC, included 8 children between 1 and 2 years of age across all treatment groups. Although data are limited, the observed treatment effect and tolerability were similar to that seen in patients 2 years of age and older, however, efficacy, safety and pharmacokinetics in children &lt; 2 years of age have not been established (see section 4.2).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -723,7 +717,7 @@ Pharmacokinetics of cannabidiol have not been studied in subjects &gt; 74 years 
 
 Pharmacokinetics of cannabidiol have not been studied in paediatric patients &lt; 2 years of age.
 
-A small number of patients &lt; 2 years with treatment-resistant epilepsy (including TSC, LGS and DS) have been exposed to cannabidiol in clinical trials and in an expanded access programme.
+A small number of patients &lt; 2 years with treatment-resistant epilepsy (including LGS, DS and TSC) have been exposed to cannabidiol in clinical trials and in an expanded access programme.
 
 ## Renal impairment
 
@@ -739,7 +733,7 @@ Subjects with moderate and severe hepatic impairment showed higher plasma concen
 
 ## In LGS
 
-In patients with LGS, population pharmacokinetic pharmacodynamic (PK/PD) modelling indicated the presence of an exposure efficacy relationship for the likelihood of achieving a ≥ 50% reduction in drop seizure frequency across the cannabidiol dose range tested (0 [placebo], 10 and 20 mg/kg/day). There was a significant positive correlation between the derived AUC of cannabidiol and the probability of a ≥ 50% response. The responder rate analysis also showed a correlation in the exposure-response relationship for the active metabolite of cannabidiol (7-OH-CBD). PK/PD analysis also demonstrated that systemic exposures to cannabidiol were correlated with some adverse events namely elevated ALT, AST, diarrhoea, fatigue, GGT, loss of appetite, rash, and somnolence (see section 4.8). Clobazam (separate analysis) was a significant covariate which caused the probability of GGT to increase, loss of appetite to decrease, and somnolence to increase.
+In patients with LGS, population pharmacokinetic pharmacodynamic (PK/PD) modelling indicated the presence of an exposure efficacy relationship for the likelihood of achieving a ≥ 50% reduction in drop seizure frequency across the cannabidiol dose range tested (0 [placebo], 10 and 20 mg/kg/day). There was a significant positive correlation between the derived AUC of cannabidiol and the probability of a ≥ 50% response. The responder rate analysis also showed a correlation in the exposure-response relationship for the active metabolite of cannabidiol (7-OH-CBD). PK/PD analysis also demonstrated that systemic exposures to cannabidiol were correlated with some adverse events, namely elevated ALT, AST, diarrhoea, fatigue, GGT, loss of appetite, rash, and somnolence (see section 4.8). Clobazam (separate analysis) was a significant covariate which caused the probability of GGT to increase, loss of appetite to decrease, and somnolence to increase.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -771,7 +765,7 @@ The in vivo interactions for clobazam, everolimus and other concomitant AEDs are
 
 Table 7: Drug interactions between cannabidiol and concomitant antiepileptic drugs
 
-| Concomitant AED   | Influence ofAED on cannabidiol                                                                                                                                                                     | Influence of cannabidiol on AED                                                                                                                                                             |
+| Concomitant AED   | Influence of AED on cannabidiol                                                                                                                                                                    | Influence of cannabidiol on AED                                                                                                                                                             |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Clobazam          | No effect on cannabidiol levels. Interaction resulting in an increase in exposure of the active metabolite 7-OH-CBD in HV* studies. a                                                              | No effect on clobazam levels. Interaction resulting in approximately 3-fold increase in N-desmethylclobazam metabolite exposure. b                                                          |
 | Valproate         | No effect on CBD or its metabolites.                                                                                                                                                               | No effect on valproic acid exposure or exposure to the putative hepatotoxic metabolite 2-propyl-4-pentenoic acid (4-ene-VPA).                                                               |
@@ -784,7 +778,7 @@ Table 7: Drug interactions between cannabidiol and concomitant antiepileptic dru
 
 In a carcinogenicity study in mice, oral administration of cannabidiol (0 [water], 0 [vehicle], 30, 100, or 300 mg/kg/day) for 2 years increased the incidence of benign hepatocellular adenomas in male mice at all doses tested and in female mice at the highest dose tested. At the highest dose evaluated, plasma cannabidiol exposures (AUC) in mice were approximately 3 times greater than the anticipated exposure in humans at the maximum recommended human dose (MRHD) of 25 mg/kg/day.
 
-A study of the carcinogenic potential of cannabidiol in rats has not been conducted.
+In a 104-week carcinogenicity study in rats, oral administration of cannabidiol (0 [water], 0 [vehicle], 15, 50, and 150 mg/kg/day) increased the incidences of focal Leydig cell hyperplasia and Leydig cell adenoma across all male dose levels. At the lowest dose evaluated, plasma cannabidiol exposures (AUC) were less than 1-fold the clinical plasma exposure at the MRHD. One Leydig cell carcinoma occurred in a male at the highest dose evaluated, corresponding to an exposure level 10-fold the clinical plasma exposure at the MRHD. Leydig cell tumours in rats are generally considered of limited relevance to humans.
 
 Genotoxicity studies have not detected any mutagenic or clastogenic activity of cannabidiol or major human metabolites.
 
@@ -792,29 +786,31 @@ Genotoxicity studies have not detected any mutagenic or clastogenic activity of 
 
 Cannabidiol: No adverse reactions were observed on male or female fertility or reproduction performance in rats at doses up to 250 mg/kg/day (approximately 14-fold greater than the MRHD of 25 mg/kg/day).
 
-Cannabidiol: The embryofoetal development (EFD) study performed in rabbits evaluated doses of 50, 80, or 125 mg/kg/day. The dose level of 125 mg/kg/day induced decreased foetal body weights and increased foetal structural variations associated with maternal toxicity. Maternal plasma cannabidiol exposures at the no observed-adverse-effect-level (NOAEL) for embryofoetal developmental toxicity in rabbits were less than that in humans at the MRHD of 25 mg/kg/day.
-
-Cannabidiol: In rats, the EFD study evaluated doses of 75, 150, or 250 mg/kg/day. Embryofoetal mortality was observed at the high dose, with no treatment-related effects on implantation loss at the low or mid doses. The NOAEL was associated with maternal plasma cannabidiol exposures (AUC)
+Cannabidiol: The embryofoetal development (EFD) study performed in rabbits evaluated doses of 50, 80, or 125 mg/kg/day. The dose level of 125 mg/kg/day induced decreased foetal body weights and increased foetal structural variations associated with maternal toxicity. Maternal plasma cannabidiol exposures at the no-observed-adverse-effect-level (NOAEL) for embryofoetal developmental toxicity in rabbits were less than that in humans at the MRHD of 25 mg/kg/day.
 
 <div style=\"page-break-after: always\"></div>
 
-approximately 13 times greater than the anticipated exposure in humans at the MRHD of 25 mg/kg/day.
+Cannabidiol: In rats, the EFD study evaluated doses of 75, 150, or 250 mg/kg/day. Embryofoetal mortality was observed at the high dose, with no treatment-related effects on implantation loss at the low or mid doses. The NOAEL was associated with maternal plasma cannabidiol exposures (AUC) approximately 13 times greater than the anticipated exposure in humans at the MRHD of 25 mg/kg/day.
 
 7-COOH-CBD: In rats, an EFD study evaluated doses of 25, 50 and 100 mg/kg/day 7-COOH-CBD. Embryofoetal malformations and variations were observed at the highest dose tested. There were no other drug-related maternal or developmental effects. The highest no-effect dose for embryofoetal toxicity in rats was associated with maternal plasma 7-COOH-CBD exposures (AUC) approximately 4 times greater than the anticipated exposure in humans at the MRHD of 25 mg/kg/day.
 
-Cannabidiol: A pre- and post-natal development study was performed in rats at doses of 75, 150, or 250 mg/kg/day. Decreased growth, delayed sexual maturation, behavioural changes (decreased activity), and adverse effects on male reproductive organ development (small testes in adult offspring) and fertility were observed in the offspring at doses ≥ 150 mg/kg/day. The NOAEL was associated with maternal plasma cannabidiol exposures approximately 7times that in humans at the MRHD  of 25 mg/kg/day.
+Cannabidiol: A pre- and post-natal development study was performed in rats at doses of 75, 150, or 250 mg/kg/day. Decreased growth, delayed sexual maturation, behavioural changes (decreased activity), and adverse effects on male reproductive organ development (small testes in adult offspring) and fertility were observed in the offspring at doses ≥ 150 mg/kg/day. The NOAEL was associated with maternal plasma cannabidiol exposures approximately 7 times that in humans at the MRHD of 25 mg/kg/day.
 
 7-COOH-CBD: A pre- and post-natal development study was performed in rats at doses of 20, 40 or 75 mg/kg/day 7-COOH-CBD. Administration of these doses was well tolerated, and no adverse effects were observed on maternal animals or subsequent offspring until adulthood. The no-effect dose for pre- and post-natal developmental toxicity in rats was associated with maternal plasma 7-COOH-CBD exposures approximately 7 times that in humans at the MRHD of 25 mg/kg/day.
 
 ## Juvenile toxicity
 
-In juvenile rats, administration of cannabidiol for 10 weeks (subcutaneous doses of 0 or 15 mg/kg on postnatal days [PNDs] 4-6 followed by oral administration of 0, 100, 150, or 250 mg/kg on PNDs 7-77) resulted in increased body weight, delayed male sexual maturation, neurobehavioural effects, increased bone mineral density, and liver hepatocyte vacuolation. A no-effect dose was not established. The lowest dose causing developmental toxicity in juvenile rats (15 mg/kg subcutaneous/100 mg/kg oral) was associated with cannabidiol exposures (AUC) approximately 4 times that in humans at the MRHD of 25 mg/kg/day.
+Cannabidiol: In juvenile rats, administration of cannabidiol for 10 weeks (subcutaneous doses of 0 or 15 mg/kg on post-natal days [PNDs] 4-6 followed by oral administration of 0, 100, 150, or 250 mg/kg on PNDs 7-77) resulted in increased body weight, delayed male sexual maturation, neurobehavioural effects, increased bone mineral density, and liver hepatocyte vacuolation. A no-effect dose was not established. The lowest dose causing developmental toxicity in juvenile rats (15 mg/kg subcutaneous/100 mg/kg oral) was associated with cannabidiol exposures (AUC) approximately 4 times that in humans at the MRHD of 25 mg/kg/day.
 
-In another study, cannabidiol was dosed to juvenile rats from PND 4-21 (as a subcutaneous injection) and from PND 22-50 (as an intravenous injection). A NOAEL of 15 mg/kg/day was established.
+In another study, cannabidiol was dosed to juvenile rats from PNDs 4-21 (as a subcutaneous injection) and from PNDs 22-50 (as an intravenous injection). A NOAEL of 15 mg/kg/day was established.
+
+7-COOH-CBD: In juvenile rats, subcutaneous administration of the metabolite 7-COOH-CBD (0, 20, 40, or 80 mg/kg/day) on PNDs 4-6 followed by oral gavage on PNDs 7-77, for a total of 10 weeks, resulted in mortality, ophthalmic abnormalities, and accelerated female sexual maturation at ≥40 mg/kg/day, and long-term neurobehavioural (increased locomotor activity, decreased auditory startle response habituation and prepulse inhibition, delayed maze learning) and reproductive functional impairment (disrupted estrous cyclicity, decreased sperm concentration and increased abnormal sperm; decreased mating, fertility, and fecundity indices; increased preimplantation loss), decreased brain weight, and decreased bone density at 80 mg/kg/day. The no-effect dose was established at 20 mg/kg/day, associated with 7-COOH-CBD exposures (AUC) approximately equivalent to those in humans at the MRHD of 25 mg/kg/day cannabidiol.
 
 ## Abuse
 
 Animal abuse-related studies show that cannabidiol does not produce cannabinoid-like behavioural responses, including generalisation to delta-9-tetrahydrocannabinol (THC) in a drug discrimination study. Cannabidiol also does not produce animal self-administration, suggesting it does not produce rewarding effects.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -825,8 +821,6 @@ Refined sesame oil Anhydrous ethanol Sucralose (E955) Strawberry flavour (includ
 ## 6.2 Incompatibilities
 
 Not applicable.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
@@ -856,25 +850,35 @@ Not all pack sizes may be marketed.
 
 Nasogastric tubes made of silicone, with a length of more than 50 cm and maximum of 125 cm and a diameter of more than 5 FR and maximum of 12 FR, can be used. Nasogastric tubes made of silicone, being 50 cm or shorter and 5 FR or less in diameter should be avoided. Gastric tubes made of silicone, with a length of 0.8 to 4 cm and a diameter of 12 FR to 24 FR, can be used. Tubes made of polyvinyl chloride and polyurethane should not be used.
 
-After administration, the enteral feeding tube should be flushed at least once with room temperature water. If more than one medicinal product is being administered, the tube should be flushed between each medicinal product. It is recommended that the flushing volume is approximately 5 times the priming volume of the tube (with a minimum of 3 ml for the shortest/narrowest tubes to a maximum of 20 ml for the longest/largest tubes). The flushing volume may need to be modified in patients with fluid restrictions.
-
-Enteral tubes with ENFit ® connections require the use of ENFit compatible syringes and bottle adaptors. To maximise dose accuracy, 1 ml syringes should be used for doses ≤ 1 ml.
-
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-## 7. MARKETING AUTHORISATION HOLDER
-
-Jazz Pharmaceuticals Ireland Ltd 5th Floor Waterloo Exchange Waterloo Road Dublin 4 D04 E5W7
+After administration, the enteral feeding tube should be flushed at least once with room temperature water. If more than one medicinal product is being administered, the tube should be flushed between each medicinal product. It is recommended that the flushing volume is approximately 5 times the priming volume of the tube (with a minimum of 3 ml for the shortest/narrowest tubes to a maximum of
 
 <div style=\"page-break-after: always\"></div>
+
+20 ml for the longest/largest tubes). The flushing volume may need to be modified in patients with
+
+fluid restrictions.
+
+Enteral tubes with ENFit
+
+®  connections require the use of ENFit compatible syringes and bottle
+
+adaptors. To maximise dose accuracy, 1 ml syringes should be used for doses ≤ 1 ml.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local
+
+requirements.
+
+7.
+
+MARKETING AUTHORISATION HOLDER
+
+Jazz Pharmaceuticals Ireland Ltd 5th Floor Waterloo Exchange Waterloo Road Dublin 4 D04 E5W7
 
 Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/19/1389/001
-
-EU/1/19/1389/002
+EU/1/19/1389/001 EU/1/19/1389/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -885,6 +889,8 @@ Date of latest renewal: 26 July 2024
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency, https://www.ema.europa.eu
+
+26
 
 <div style=\"page-break-after: always\"></div>
 
@@ -940,7 +946,9 @@ Oral solution - Carton containing 100 ml (1 x 100 ml bottle) oral solution
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Epidyolex 100 mg/ml oral solution cannabidiol
+Epidyolex 100 mg/ml oral solution
+
+cannabidiol
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -982,17 +990,9 @@ Discard unused portion 12 weeks after first opening. Date of first opening:
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10.
-
-SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
-
-OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF
-
-APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1007,7 +1007,9 @@ EU/1/19/1389/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 epidyolex
@@ -1016,10 +1018,13 @@ epidyolex
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1029,7 +1034,9 @@ Oral solution - Carton containing 300 ml (3 x 100 ml bottles) oral solution
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Epidyolex 100 mg/ml oral solution cannabidiol
+Epidyolex 100 mg/ml oral solution
+
+cannabidiol
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1041,7 +1048,7 @@ Contains refined sesame oil, ethanol and strawberry flavour components (includin
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Oral solution
+Oral solution
 
 3 × 100 ml bottles
 
@@ -1073,41 +1080,42 @@ Discard unused portion 12 weeks after first opening. Date of first opening:
 
 <div style=\"page-break-after: always\"></div>
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Jazz Pharmaceuticals Ireland Ltd 5th Floor Waterloo Exchange Waterloo Road Dublin 4 D04 E5W7 Ireland
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/19/1389/002
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 epidyolex
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN
-
-NN
+PC SN NN
 
 ## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
 
@@ -1159,7 +1167,19 @@ Discard unused portion 12 weeks after first opening Date of first opening:
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Jazz Pharmaceuticals Ireland Ltd 5th Floor Waterloo Exchange Waterloo Road Dublin 4 D04 E5W7 Ireland
+Jazz Pharmaceuticals Ireland Ltd
+
+5th Floor
+
+Waterloo Exchange
+
+Waterloo Road
+
+Dublin 4
+
+D04 E5W7
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1363,6 +1383,16 @@ If there is an air bubble in the syringe, push the liquid back into the bottle w
 If the dose is more than 5 ml, repeat Steps 4 to 7 to give the remaining dose using the 5 ml oral syringe.
 
 8. Screw the child-resistant cap back on the bottle tightly, by turning the cap clockwise - you do not need to remove the bottle adaptor, as the cap will fit over it.
+
+<!-- image -->
+
+1 ml Syringe
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
 
 <!-- image -->
 

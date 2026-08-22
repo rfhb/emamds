@@ -1,30 +1,32 @@
 ---
-document_datetime: 2026-02-16 09:34:00
+document_datetime: 2026-08-21 15:24:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/enspryng.html
 document_name: enspryng.html
 version: success
-processing_time: 0.1029166
-conversion_datetime: 2026-02-18 17:54:46.304296
+processing_time: 0.3632599
+conversion_datetime: 2026-08-22 22:55:06.740422
 docling_version:
-  docling-serve: 1.13.0
-  docling-jobkit: 1.11.0
-  docling: 2.74.0
-  docling-core: 2.65.1
-  docling-ibm-models: 3.11.0
-  docling-parse: 5.3.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.3-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Enspryng
 
 [RSS](/en/individual-human-medicine.xml/67448)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-satralizumab Medicine Human Authorised
+satralizumab
+
+Medicine Human Authorised
 
 Page contents
 
@@ -56,7 +58,7 @@ Expand section
 
 Collapse section
 
-## How is Enspryng used?
+### How is Enspryng used?
 
 Treatment with Enspryng should be started under the supervision of a doctor experienced in treating NMOSD. The medicine can only be obtained with a prescription.
 
@@ -64,13 +66,13 @@ Enspryng is available as a solution in a prefilled syringe to be injected under 
 
 For more information about using Enspryng, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Enspryng work?
+### How does Enspryng work?
 
 In most patients with NMOSD, the disease is caused by the production of antibodies against AQP4. AQP4 is important for the normal function of nerve cells.
 
 The active substance in Enspryng, satralizumab, is a monoclonal antibody, a type of protein that has been designed to block the action of interleukin-6 (IL-6), a protein in the body involved in the production of antibodies against AQP4. By blocking IL-6, the medicine decreases the production of antibodies against AQP4 and therefore assures the activity of AQP4. This should prevent damage to nerve cells and reduce the symptoms of NMOSD.
 
-## What benefits of Enspryng have been shown in studies?
+### What benefits of Enspryng have been shown in studies?
 
 Enspryng was shown to be effective in increasing the length of time between relapses in patients with NMOSD in two main studies.
 
@@ -78,17 +80,17 @@ The first study, involving 55 patients aged 12 and above with AQP4 antibodies wh
 
 A second study involving 64 adults with AQP4 antibodies showed that 83% of patients taking Enspryng were relapse-free after 48 weeks compared with 55% in those taking a placebo.
 
-## What are the risks associated with Enspryng?
+### What are the risks associated with Enspryng?
 
 The most common side effects with Enspryng (which may affect more than 1 in 10 people) are headache, arthralgia (joint pain), hyperlipidaemia (high levels of fats in the blood), decreased levels of white blood cells and injection-related reactions.
 
 For the full list of side effects and restrictions of Enspryng, see the package leaflet.
 
-## Why is Enspryng authorised in the EU?
+### Why is Enspryng authorised in the EU?
 
 Enspryng is effective in preventing relapses in people with NMOSD over 12 years of age. Since the disability associated with NMOSD is severe and worsens with relapses, Enspryng was considered beneficial for these patients. NMOSD is a rare disease and the medicine was therefore tested in a small number of participants; however, the safety of the medicine was considered manageable. The European Medicines Agency therefore decided that Enspryng's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Enspryng?
+### What measures are being taken to ensure the safe and effective use of Enspryng?
 
 The company that markets Enspryng should provide a patient alert card to inform patients about the risk of infection with Enspryng, how to recognise symptoms of infections and to seek medical attention if these arise.
 
@@ -96,7 +98,7 @@ Recommendations and precautions to be followed by healthcare professionals and p
 
 As for all medicines, data on the use of Enspryng are continuously monitored. Side effects reported with Enspryng are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Enspryng
+### Other information about Enspryng
 
 Enspryng received a marketing authorisation valid throughout the EU on 24 June 2021.
 
@@ -110,181 +112,137 @@ English (EN) (107.66 KB - PDF)
 
 [View](/en/documents/overview/enspryng-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-32)
+[Other languages (22)](#file-language-dropdown-431)
 
 български (BG) (138.61 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/bg/documents/overview/enspryng-epar-medicine-overview_bg.pdf)
 
 español (ES) (111.35 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/es/documents/overview/enspryng-epar-medicine-overview_es.pdf)
 
 čeština (CS) (134.69 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/cs/documents/overview/enspryng-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (111.74 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/da/documents/overview/enspryng-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (115.1 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/de/documents/overview/enspryng-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (98.44 KB - PDF)
+eesti (ET) (98.44 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/et/documents/overview/enspryng-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (135.67 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/el/documents/overview/enspryng-epar-medicine-overview_el.pdf)
 
 français (FR) (113.07 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/fr/documents/overview/enspryng-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (134.04 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/hr/documents/overview/enspryng-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (110.49 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/it/documents/overview/enspryng-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (141.64 KB - PDF)
+latviešu (LV) (141.64 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/lv/documents/overview/enspryng-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (133.75 KB - PDF)
+lietuvių (LT) (133.75 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/lt/documents/overview/enspryng-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (135.55 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/hu/documents/overview/enspryng-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (150.58 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/mt/documents/overview/enspryng-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (112.54 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/nl/documents/overview/enspryng-epar-medicine-overview_nl.pdf)
 
 polski (PL) (136.63 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/pl/documents/overview/enspryng-epar-medicine-overview_pl.pdf)
 
 português (PT) (111.82 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/pt/documents/overview/enspryng-epar-medicine-overview_pt.pdf)
 
 română (RO) (132.02 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/ro/documents/overview/enspryng-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (134.64 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/sk/documents/overview/enspryng-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (133 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/sl/documents/overview/enspryng-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (108.52 KB - PDF)
+suomi (FI) (108.52 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/fi/documents/overview/enspryng-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (109.85 KB - PDF)
 
-**First published:**
-
-30/06/2021
+**First published:** 30/06/2021
 
 [View](/sv/documents/overview/enspryng-epar-medicine-overview_sv.pdf)
 
@@ -300,311 +258,168 @@ English (EN) (219.69 KB - PDF)
 
 Enspryng : EPAR - Product information
 
-English (EN) (359.73 KB - PDF)
+English (EN) (1.09 MB - PDF)
 
-**First published:** 30/06/2021
-
-**Last updated:** 16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/en/documents/product-information/enspryng-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-331)
+[Other languages (24)](#file-language-dropdown-443)
 
-български (BG) (1012.45 KB - PDF)
+български (BG) (1.32 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/bg/documents/product-information/enspryng-epar-product-information_bg.pdf)
 
-español (ES) (812.66 KB - PDF)
+español (ES) (1.14 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/es/documents/product-information/enspryng-epar-product-information_es.pdf)
 
-čeština (CS) (784.38 KB - PDF)
+čeština (CS) (1.14 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/cs/documents/product-information/enspryng-epar-product-information_cs.pdf)
 
-dansk (DA) (699.29 KB - PDF)
+dansk (DA) (1.03 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/da/documents/product-information/enspryng-epar-product-information_da.pdf)
 
-Deutsch (DE) (912.88 KB - PDF)
+Deutsch (DE) (1.5 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/de/documents/product-information/enspryng-epar-product-information_de.pdf)
 
-eesti keel (ET) (685.05 KB - PDF)
+eesti (ET) (1.05 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/et/documents/product-information/enspryng-epar-product-information_et.pdf)
 
-ελληνικά (EL) (807.04 KB - PDF)
+ελληνικά (EL) (1.23 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/el/documents/product-information/enspryng-epar-product-information_el.pdf)
 
-français (FR) (766.95 KB - PDF)
+français (FR) (1.09 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/fr/documents/product-information/enspryng-epar-product-information_fr.pdf)
 
-hrvatski (HR) (784.61 KB - PDF)
+hrvatski (HR) (1.14 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/hr/documents/product-information/enspryng-epar-product-information_hr.pdf)
 
-íslenska (IS) (906.58 KB - PDF)
+italiano (IT) (1.08 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
-
-[View](/is/documents/product-information/enspryng-epar-product-information_is.pdf)
-
-italiano (IT) (729.82 KB - PDF)
-
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/it/documents/product-information/enspryng-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (852.81 KB - PDF)
+latviešu (LV) (1.17 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/lv/documents/product-information/enspryng-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (950.9 KB - PDF)
+lietuvių (LT) (1.31 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/lt/documents/product-information/enspryng-epar-product-information_lt.pdf)
 
-magyar (HU) (856.18 KB - PDF)
+magyar (HU) (688.02 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/hu/documents/product-information/enspryng-epar-product-information_hu.pdf)
 
-Malti (MT) (766.57 KB - PDF)
+Malti (MT) (1.16 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/mt/documents/product-information/enspryng-epar-product-information_mt.pdf)
 
-Nederlands (NL) (754.03 KB - PDF)
+Nederlands (NL) (1.13 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/nl/documents/product-information/enspryng-epar-product-information_nl.pdf)
 
-norsk (NO) (735.16 KB - PDF)
+polski (PL) (1.15 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
-
-[View](/no/documents/product-information/enspryng-epar-product-information_no.pdf)
-
-polski (PL) (727.79 KB - PDF)
-
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/pl/documents/product-information/enspryng-epar-product-information_pl.pdf)
 
-português (PT) (735.94 KB - PDF)
+português (PT) (1.07 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/pt/documents/product-information/enspryng-epar-product-information_pt.pdf)
 
-română (RO) (825.02 KB - PDF)
+română (RO) (1.22 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/ro/documents/product-information/enspryng-epar-product-information_ro.pdf)
 
-slovenčina (SK) (749.77 KB - PDF)
+slovenčina (SK) (1.12 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/sk/documents/product-information/enspryng-epar-product-information_sk.pdf)
 
-slovenščina (SL) (683.52 KB - PDF)
+slovenščina (SL) (1.03 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/sl/documents/product-information/enspryng-epar-product-information_sl.pdf)
 
-Suomi (FI) (668.72 KB - PDF)
+suomi (FI) (1.02 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/fi/documents/product-information/enspryng-epar-product-information_fi.pdf)
 
-svenska (SV) (745.42 KB - PDF)
+svenska (SV) (1.07 MB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-16/02/2026
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/sv/documents/product-information/enspryng-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** EMA/R/0000293585 10/02/2026
+Íslenska (IS) (1.26 MB - PDF)
+
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
+
+[View](/is/documents/product-information/enspryng-epar-product-information_is.pdf)
+
+norsk (NO) (1.08 MB - PDF)
+
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
+
+[View](/no/documents/product-information/enspryng-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000326556
+
+23/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -616,307 +431,170 @@ Product information documents contain:
 
 Enspryng : EPAR - All authorised presentations
 
-English (EN) (12.36 KB - PDF)
+English (EN) (162.44 KB - PDF)
 
-**First published:** 30/06/2021
-
-**Last updated:** 15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/en/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-875)
+[Other languages (24)](#file-language-dropdown-799)
 
-български (BG) (33.86 KB - PDF)
+български (BG) (110.8 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/bg/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (11.31 KB - PDF)
+español (ES) (100.73 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/es/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (29.87 KB - PDF)
+čeština (CS) (99.52 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/cs/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (9.85 KB - PDF)
+dansk (DA) (105.13 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/da/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (8.97 KB - PDF)
+Deutsch (DE) (106.29 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/de/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (9.63 KB - PDF)
+eesti (ET) (99.8 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/et/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (53.2 KB - PDF)
+ελληνικά (EL) (105.4 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/el/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (8.8 KB - PDF)
+français (FR) (107 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/fr/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (20.37 KB - PDF)
+hrvatski (HR) (163.19 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/hr/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (8.88 KB - PDF)
+italiano (IT) (101.5 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
-
-[View](/is/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_is.pdf)
-
-italiano (IT) (10.57 KB - PDF)
-
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/it/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (34.51 KB - PDF)
+latviešu (LV) (105.7 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/lv/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (29.35 KB - PDF)
+lietuvių (LT) (102.34 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/lt/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (29.16 KB - PDF)
+magyar (HU) (106.05 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/hu/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (31.73 KB - PDF)
+Malti (MT) (106.5 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/mt/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (10.83 KB - PDF)
+Nederlands (NL) (103.12 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/nl/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (10.13 KB - PDF)
+polski (PL) (104.88 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
-
-[View](/no/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_no.pdf)
-
-polski (PL) (32.81 KB - PDF)
-
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/pl/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (10.25 KB - PDF)
+português (PT) (104.06 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/pt/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (31.21 KB - PDF)
+română (RO) (69.44 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/ro/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (30.06 KB - PDF)
+slovenčina (SK) (104.59 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/sk/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (18.18 KB - PDF)
+slovenščina (SL) (163.37 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/sl/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (8.68 KB - PDF)
+suomi (FI) (99.13 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/fi/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (11.97 KB - PDF)
+svenska (SV) (102.32 KB - PDF)
 
-**First published:**
-
-30/06/2021
-
-**Last updated:**
-
-15/09/2021
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
 
 [View](/sv/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (49.59 KB - PDF)
+
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
+
+[View](/is/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (103.83 KB - PDF)
+
+**First published:** 30/06/2021 **Last updated:** 21/08/2026
+
+[View](/no/documents/all-authorised-presentations/enspryng-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Enspryng Active substance satralizumab International non-proprietary name (INN) or common name satralizumab Therapeutic area (MeSH) Neuromyelitis Optica Anatomical therapeutic chemical (ATC) code L04AC
+- **Name of medicine**
+    - Enspryng
+- **Active substance**
+    - satralizumab
+- **International non-proprietary name (INN) or common name**
+    - satralizumab
+- **Therapeutic area (MeSH)**
+    - Neuromyelitis Optica
+- **Anatomical therapeutic chemical (ATC) code**
+    - L04AC
 
 ### Pharmacotherapeutic group
 
@@ -928,19 +606,18 @@ Satralizumab (Enspryng) is indicated as a monotherapy or in combination with imm
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/004788
-
-Orphan
-
-This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
-
-Marketing authorisation holder
-
-Roche Registration GmbH
-
-Emil-Barell-Strasse 1
-
-Opinion adopted 22/04/2021 Marketing authorisation issued 24/06/2021 Revision 8
+- **EMA product number**
+    - EMEA/H/C/004788
+- **Orphan**
+    - This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
+- **Marketing authorisation holder**
+    - Roche Registration GmbH Emil-Barell-Strasse 1  79639 Grenzach-Wyhlen  Germany
+- **Opinion adopted**
+    - 22/04/2021
+- **Marketing authorisation issued**
+    - 24/06/2021
+- **Revision**
+    - 9
 
 ## Assessment history
 
@@ -948,15 +625,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Enspryng : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (150.36 KB - PDF)
+English (EN) (159.26 KB - PDF)
 
-**First published:** 16/05/2025
-
-**Last updated:** 16/02/2026
+**First published:** 16/05/2025 **Last updated:** 21/08/2026
 
 [View](/en/documents/procedural-steps-after/enspryng-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -964,17 +639,13 @@ Enspryng : EPAR - Procedural steps taken and scientific information after the au
 
 English (EN) (153.36 KB - PDF)
 
-**First published:** 15/09/2021
-
-**Last updated:** 16/05/2025
+**First published:** 15/09/2021 **Last updated:** 16/05/2025
 
 [View](/en/documents/procedural-steps-after/enspryng-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Enspryng-PAM-0000257150 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMADOC-1700519818-1961531
+Adopted Reference Number: EMADOC-1700519818-1961531
 
 English (EN) (1.04 MB - PDF)
 
@@ -984,9 +655,7 @@ English (EN) (1.04 MB - PDF)
 
 Enspryng-H-C-004788-P46-001 : EPAR - Assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/117341/2025
+Adopted Reference Number: EMA/CHMP/117341/2025
 
 English (EN) (795.3 KB - PDF)
 
@@ -994,13 +663,11 @@ English (EN) (795.3 KB - PDF)
 
 [View](/en/documents/variation-report/enspryng-h-c-004788-p46-001-epar-assessment-report_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Enspryng : Orphan maintenance assessment report (initial authorisation)
 
-Adopted
-
-Reference Number: EMADOC-1700519818-673949
+Adopted Reference Number: EMADOC-1700519818-673949
 
 English (EN) (243.38 KB - PDF)
 
@@ -1010,9 +677,7 @@ English (EN) (243.38 KB - PDF)
 
 Enspryng : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/265568/2021
+Adopted Reference Number: EMA/CHMP/265568/2021
 
 English (EN) (3.66 MB - PDF)
 
@@ -1022,9 +687,7 @@ English (EN) (3.66 MB - PDF)
 
 CHMP summary of positive opinion for Enspryng
 
-Adopted
-
-Reference Number: EMA/CHMP/215160/2021
+Adopted Reference Number: EMA/CHMP/215160/2021
 
 English (EN) (99.54 KB - PDF)
 
@@ -1032,21 +695,23 @@ English (EN) (99.54 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-enspryng_en.pdf)
 
-#### News on Enspryng
+## News on Enspryng
 
-[New treatment for rare autoimmune disease of nerve cells](/en/news/new-treatment-rare-autoimmune-disease-nerve-cells) 23/04/2021
+[New treatment for rare autoimmune disease of nerve cells](/en/news/new-treatment-rare-autoimmune-disease-nerve-cells)
 
-#### More information on Enspryng
+23/04/2021
+
+## More information on Enspryng
 
 - [EU/3/16/1680 - orphan designation for treatment of neuromyelitis optica spectrum disorders](/en/medicines/human/orphan-designations/eu-3-16-1680)
 - [EMEA-001625-PIP02-21-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001625-pip02-21-m03)
 - [EMEA-001625-PIP03-21 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001625-pip03-21)
-- [EMEA-001625-PIP04-22 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001625-pip04-22)
+- [EMA/PE/0000228512 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000228512)
 - [EMEA-001625-PIP05-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001625-pip05-23)
 - [Satralizumab Single-Arm Pregnancy Safety Study: A Global, Observational, Single-Arm, 10-Year Study of Pregnancy and Infant Outcomes in Satralizumab-Exposed Women With Neuromyelitis Optica Spectrum Disorder - post-authorisation study](https://catalogues.ema.europa.eu/study/47981)
 
-**This page was last updated on** 16/02/2026
+**This page was last updated on**
+
+21/08/2026
 
 ## Share this page
-
-[Back to top](#main-content)

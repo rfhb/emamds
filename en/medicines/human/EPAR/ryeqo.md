@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-05-20 17:32:00
+document_datetime: 2026-08-20 11:34:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ryeqo.html
 document_name: ryeqo.html
 version: success
-processing_time: 0.1294795
-conversion_datetime: 2026-05-22 22:33:57.214485
+processing_time: 0.1521708
+conversion_datetime: 2026-08-22 22:46:35.472456
 docling_version:
-  docling-serve: 1.20.0
-  docling-jobkit: 1.20.0
-  docling: 2.95.0
-  docling-core: 2.77.0
-  docling-ibm-models: 3.13.2
-  docling-parse: 5.11.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Ryeqo
 
@@ -58,7 +58,7 @@ Expand section
 
 Collapse section
 
-## How is Ryeqo used?
+### How is Ryeqo used?
 
 The medicine can only be obtained with a prescription and treatment should be started by a doctor experienced in diagnosing and treating uterine fibroids or endometriosis.
 
@@ -68,13 +68,13 @@ The use of hormonal contraceptive methods must be stopped before starting Ryeqo.
 
 For more information about using Ryeqo, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Ryeqo work?
+### How does Ryeqo work?
 
 One of the active substances in Ryeqo, relugolix, blocks the pituitary gland (a gland that controls many other hormone-producing glands in the body) from releasing luteinizing hormone and follicle-stimulating hormone, which in turn prevents the production of progesterone and decreases the production of oestrogen. Both progesterone and oestrogen are hormones that are involved in fibroid growth, and oestrogen promotes growth of tissue similar to that lining the womb.
 
 Another active substance of Ryeqo, estradiol, a form of the natural sex hormone oestrogen that helps to reduce symptoms related to the lowered levels of oestrogen, such as hot flushes and bone density loss. However, estradiol used alone can cause hyperplasia (growth) of the endometrium (the lining of the womb), which could lead to endometrial cancer. Ryeqo, therefore, also contains the active substance norethisterone acetate, a synthetic progesterone replacement that blocks the effects of estradiol on the womb, reducing the risk of endometrial growth.
 
-## What benefits of Ryeqo have been shown in studies?
+### What benefits of Ryeqo have been shown in studies?
 
 **Uterine fibroids**
 
@@ -90,7 +90,7 @@ In the first study, 75% (158 out of 212) of women using Ryeqo reported a reducti
 
 In the second study, 75% (155 out of 206) achieved a reduction in menstrual pain while using Ryeqo, compared with 31% (62 out of 204) of those given the placebo. In addition, the proportion of women with a reduction in non-menstrual pain was higher among those who had Ryeqo (66%) than those who had placebo (43%).
 
-## What are the risks associated with Ryeqo?
+### What are the risks associated with Ryeqo?
 
 The most common side effects with Ryeqo (which may affect up to 1 in 10 people) include headaches, hot flushes and bleeding from the womb.
 
@@ -98,19 +98,19 @@ Ryeqo must not be used in women who have, or have had, venous thromboembolism (b
 
 Ryeqo must not be used together with hormonal contraception. For the full list of side effects and restrictions of Ryeqo, see the package leaflet.
 
-## Why is Ryeqo authorised in the EU?
+### Why is Ryeqo authorised in the EU?
 
 Symptoms linked to uterine fibroids and endometriosis can be serious and debilitating. Ryeqo was shown to be effective at reducing moderate to severe symptoms of uterine fibroids, such as heavy menstrual periods. It also reduces menstrual and non-menstrual pain linked to endometriosis.
 
 The side effects are considered manageable. Therefore, the European Medicines Agency decided that Ryeqo's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Ryeqo?
+### What measures are being taken to ensure the safe and effective use of Ryeqo?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Ryeqo have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Ryeqo are continuously monitored. Suspected side effects reported with Ryeqo are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Ryeqo
+### Other information about Ryeqo
 
 This overview was last updated in June 2021.
 
@@ -124,7 +124,7 @@ English (EN) (148.21 KB - PDF)
 
 [View](/en/documents/overview/ryeqo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-753)
+[Other languages (22)](#file-language-dropdown-877)
 
 български (BG) (172.85 KB - PDF)
 
@@ -156,7 +156,7 @@ Deutsch (DE) (151.13 KB - PDF)
 
 [View](/de/documents/overview/ryeqo-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (145.1 KB - PDF)
+eesti (ET) (145.1 KB - PDF)
 
 **First published:** 29/07/2021 **Last updated:** 04/12/2023
 
@@ -186,13 +186,13 @@ italiano (IT) (146.32 KB - PDF)
 
 [View](/it/documents/overview/ryeqo-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (178.08 KB - PDF)
+latviešu (LV) (178.08 KB - PDF)
 
 **First published:** 29/07/2021 **Last updated:** 04/12/2023
 
 [View](/lv/documents/overview/ryeqo-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (172.23 KB - PDF)
+lietuvių (LT) (172.23 KB - PDF)
 
 **First published:** 29/07/2021 **Last updated:** 04/12/2023
 
@@ -246,7 +246,7 @@ slovenščina (SL) (170.13 KB - PDF)
 
 [View](/sl/documents/overview/ryeqo-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (145.25 KB - PDF)
+suomi (FI) (145.25 KB - PDF)
 
 **First published:** 29/07/2021 **Last updated:** 04/12/2023
 
@@ -270,167 +270,168 @@ English (EN) (134.25 KB - PDF)
 
 Ryeqo : EPAR - Product information
 
-English (EN) (565.88 KB - PDF)
+English (EN) (544.36 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/en/documents/product-information/ryeqo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-409)
+[Other languages (24)](#file-language-dropdown-767)
 
-български (BG) (646.41 KB - PDF)
+български (BG) (651.02 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/bg/documents/product-information/ryeqo-epar-product-information_bg.pdf)
 
-español (ES) (578 KB - PDF)
+español (ES) (563.89 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/es/documents/product-information/ryeqo-epar-product-information_es.pdf)
 
-čeština (CS) (699.44 KB - PDF)
+čeština (CS) (698.34 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/cs/documents/product-information/ryeqo-epar-product-information_cs.pdf)
 
-dansk (DA) (550.31 KB - PDF)
+dansk (DA) (526.97 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/da/documents/product-information/ryeqo-epar-product-information_da.pdf)
 
-Deutsch (DE) (558.74 KB - PDF)
+Deutsch (DE) (562.23 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/de/documents/product-information/ryeqo-epar-product-information_de.pdf)
 
-eesti keel (ET) (533.46 KB - PDF)
+eesti (ET) (539.44 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/et/documents/product-information/ryeqo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (693.87 KB - PDF)
+ελληνικά (EL) (669.61 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/el/documents/product-information/ryeqo-epar-product-information_el.pdf)
 
-français (FR) (592.07 KB - PDF)
+français (FR) (594.63 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/fr/documents/product-information/ryeqo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (616.22 KB - PDF)
+hrvatski (HR) (619.8 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/hr/documents/product-information/ryeqo-epar-product-information_hr.pdf)
 
-íslenska (IS) (526.94 KB - PDF)
+italiano (IT) (576.86 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
-
-[View](/is/documents/product-information/ryeqo-epar-product-information_is.pdf)
-
-italiano (IT) (572.59 KB - PDF)
-
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/it/documents/product-information/ryeqo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (622.39 KB - PDF)
+latviešu (LV) (625.7 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/lv/documents/product-information/ryeqo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (614.57 KB - PDF)
+lietuvių (LT) (620.7 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/lt/documents/product-information/ryeqo-epar-product-information_lt.pdf)
 
-magyar (HU) (657.18 KB - PDF)
+magyar (HU) (654.03 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/hu/documents/product-information/ryeqo-epar-product-information_hu.pdf)
 
-Malti (MT) (745.87 KB - PDF)
+Malti (MT) (724.7 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/mt/documents/product-information/ryeqo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (567.09 KB - PDF)
+Nederlands (NL) (543.18 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/nl/documents/product-information/ryeqo-epar-product-information_nl.pdf)
 
-norsk (NO) (533.93 KB - PDF)
+polski (PL) (659.56 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
-
-[View](/no/documents/product-information/ryeqo-epar-product-information_no.pdf)
-
-polski (PL) (655.62 KB - PDF)
-
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/pl/documents/product-information/ryeqo-epar-product-information_pl.pdf)
 
-português (PT) (562.73 KB - PDF)
+português (PT) (586.12 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/pt/documents/product-information/ryeqo-epar-product-information_pt.pdf)
 
-română (RO) (671.43 KB - PDF)
+română (RO) (651.64 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/ro/documents/product-information/ryeqo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (709.82 KB - PDF)
+slovenčina (SK) (670.13 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/sk/documents/product-information/ryeqo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (617.46 KB - PDF)
+slovenščina (SL) (622.49 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/sl/documents/product-information/ryeqo-epar-product-information_sl.pdf)
 
-Suomi (FI) (616.75 KB - PDF)
+suomi (FI) (536.58 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/fi/documents/product-information/ryeqo-epar-product-information_fi.pdf)
 
-svenska (SV) (621.33 KB - PDF)
+svenska (SV) (541.52 KB - PDF)
 
-**First published:** 29/07/2021 **Last updated:** 20/05/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
 
 [View](/sv/documents/product-information/ryeqo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** R/0000304469
+Íslenska (IS) (530.85 KB - PDF)
 
-26/03/2026
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
+
+[View](/is/documents/product-information/ryeqo-epar-product-information_is.pdf)
+
+norsk (NO) (539.9 KB - PDF)
+
+**First published:** 29/07/2021 **Last updated:** 20/08/2026
+
+[View](/no/documents/product-information/ryeqo-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000285040
+
+26/06/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -448,7 +449,7 @@ English (EN) (101.33 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ryeqo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-671)
+[Other languages (24)](#file-language-dropdown-745)
 
 български (BG) (51.25 KB - PDF)
 
@@ -480,7 +481,7 @@ Deutsch (DE) (47.71 KB - PDF)
 
 [View](/de/documents/all-authorised-presentations/ryeqo-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (46.26 KB - PDF)
+eesti (ET) (46.26 KB - PDF)
 
 **First published:** 29/07/2021 **Last updated:** 23/02/2024
 
@@ -504,25 +505,19 @@ hrvatski (HR) (45.84 KB - PDF)
 
 [View](/hr/documents/all-authorised-presentations/ryeqo-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (49.38 KB - PDF)
-
-**First published:** 29/07/2021 **Last updated:** 23/02/2024
-
-[View](/is/documents/all-authorised-presentations/ryeqo-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (47.13 KB - PDF)
 
 **First published:** 29/07/2021 **Last updated:** 23/02/2024
 
 [View](/it/documents/all-authorised-presentations/ryeqo-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (48.04 KB - PDF)
+latviešu (LV) (48.04 KB - PDF)
 
 **First published:** 29/07/2021 **Last updated:** 23/02/2024
 
 [View](/lv/documents/all-authorised-presentations/ryeqo-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (48.4 KB - PDF)
+lietuvių (LT) (48.4 KB - PDF)
 
 **First published:** 29/07/2021 **Last updated:** 23/02/2024
 
@@ -545,12 +540,6 @@ Nederlands (NL) (52.08 KB - PDF)
 **First published:** 29/07/2021 **Last updated:** 23/02/2024
 
 [View](/nl/documents/all-authorised-presentations/ryeqo-epar-all-authorised-presentations_nl.pdf)
-
-norsk (NO) (47.3 KB - PDF)
-
-**First published:** 29/07/2021 **Last updated:** 23/02/2024
-
-[View](/no/documents/all-authorised-presentations/ryeqo-epar-all-authorised-presentations_no.pdf)
 
 polski (PL) (47.89 KB - PDF)
 
@@ -582,7 +571,7 @@ slovenščina (SL) (46.17 KB - PDF)
 
 [View](/sl/documents/all-authorised-presentations/ryeqo-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (45.8 KB - PDF)
+suomi (FI) (45.8 KB - PDF)
 
 **First published:** 29/07/2021 **Last updated:** 23/02/2024
 
@@ -594,31 +583,34 @@ svenska (SV) (46.18 KB - PDF)
 
 [View](/sv/documents/all-authorised-presentations/ryeqo-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (49.38 KB - PDF)
+
+**First published:** 29/07/2021 **Last updated:** 23/02/2024
+
+[View](/is/documents/all-authorised-presentations/ryeqo-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (47.3 KB - PDF)
+
+**First published:** 29/07/2021 **Last updated:** 23/02/2024
+
+[View](/no/documents/all-authorised-presentations/ryeqo-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine
-
-Ryeqo
-
-Active substance
-
-- relugolix
-- norethisterone acetate
-- estradiol hemihydrate
-
-International non-proprietary name (INN) or common name
-
-- relugolix
-- estradiol
-- norethisterone acetate
-
-Therapeutic area (MeSH)
-
-Leiomyoma
-
-Anatomical therapeutic chemical (ATC) code
-
-H01CC54
+- **Name of medicine**
+    - Ryeqo
+- **Active substance**
+        - relugolix
+        - norethisterone acetate
+        - estradiol hemihydrate
+- **International non-proprietary name (INN) or common name**
+        - relugolix
+        - estradiol
+        - norethisterone acetate
+- **Therapeutic area (MeSH)**
+    - Leiomyoma
+- **Anatomical therapeutic chemical (ATC) code**
+    - H01CC54
 
 ### Pharmacotherapeutic group
 
@@ -628,29 +620,21 @@ Pituitary and hypothalamic hormones and analogues
 
 Ryeqo is indicated in adult women of reproductive age for:
 
+- treatment of moderate to severe symptoms of uterine fibroids,
+- symptomatic treatment of endometriosis in women with a history of previous medical or surgical treatment for their endometriosis.
+
 ## Authorisation details
 
-EMA product number
-
-EMEA/H/C/005267
-
-Marketing authorisation holder
-
-Gedeon Richter Plc.
-
-Gyomroi ut 19-21 1103 Budapest Hungary
-
-Opinion adopted
-
-16/07/2021
-
-Marketing authorisation issued
-
-16/07/2021
-
-Revision
-
-8
+- **EMA product number**
+    - EMEA/H/C/005267
+- **Marketing authorisation holder**
+    - Gedeon Richter Plc. Gyomroi ut 19-21  1103 Budapest  Hungary
+- **Opinion adopted**
+    - 16/07/2021
+- **Marketing authorisation issued**
+    - 16/07/2021
+- **Revision**
+    - 9
 
 ## Assessment history
 
@@ -658,13 +642,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Ryeqo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (150.43 KB - PDF)
+English (EN) (157.51 KB - PDF)
 
-**First published:** 20/05/2026
+**First published:** 20/05/2026 **Last updated:** 20/08/2026
 
 [View](/en/documents/procedural-steps-after/ryeqo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -702,7 +686,7 @@ English (EN) (48.41 KB - PDF)
 
 **First published:** 08/06/2023
 
-[View](/en/documents/scientific-conclusion/ryeqo-h-c-psusa-00010942-202205-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
+[View](/en/documents/scientific-conclusion/ryeqo-h-c-psusa-00010942-202205-epar-scientific-conclusions-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
 Ryeqo-H-C-005267-II-0009 : EPAR - Assessment report
 
@@ -714,7 +698,7 @@ English (EN) (413.41 KB - PDF)
 
 [View](/en/documents/variation-report/ryeqo-h-c-005267-ii-0009-epar-assessment-report_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Ryeqo : EPAR - Public assessment report
 
@@ -752,6 +736,6 @@ English (EN) (119.22 KB - PDF)
 
 **This page was last updated on**
 
-20/05/2026
+20/08/2026
 
 ## Share this page

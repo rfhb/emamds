@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-12-16 15:07:28
+document_datetime: 2026-08-21 11:02:53
 document_pages: 70
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ngenla-epar-product-information_en.pdf
 document_name: ngenla-epar-product-information_en.pdf
 version: success
-processing_time: 17.1160125
-conversion_datetime: 2026-01-03 12:23:09.078087
+processing_time: 19.6850102
+conversion_datetime: 2026-08-23 00:39:30.806657
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -66,7 +66,9 @@ The recommended dose is 0.66 mg/kg body weight administered once weekly by subcu
 
 Each pre-filled pen is capable of setting and delivering the dose prescribed by the physician. Dose may be rounded up or down based on the physician's expert knowledge of the individual patient needs. When doses higher than 30 mg are needed (i.e. bodyweight &gt; 45 kg), two injections have to be administered.
 
-Starting dose for patients switching from daily growth hormone medicinal products For patients switching from daily growth hormone medicinal products, the weekly therapy with somatrogon may be initiated at a dose of 0.66 mg/kg/week on the day following their last daily injection.
+## Starting dose for patients switching from daily growth hormone medicinal products
+
+For patients switching from daily growth hormone medicinal products, the weekly therapy with somatrogon may be initiated at a dose of 0.66 mg/kg/week on the day following their last daily injection.
 
 ## Dose titration
 
@@ -172,11 +174,9 @@ Treatment with growth hormone medicinal products may reduce insulin sensitivity 
 
 ## Neoplasm
 
-In patients with previous malignant disease, special attention should be given to signs and symptoms of relapse. Patients with pre-existing tumours or growth hormone deficiency secondary to an intracranial lesion should be examined routinely for progression or recurrence of the underlying
+In patients with previous malignant disease, special attention should be given to signs and symptoms of relapse. Patients with pre-existing tumours or growth hormone deficiency secondary to an intracranial lesion should be examined routinely for progression or recurrence of the underlying disease process. In childhood cancer survivors, an increased risk of a second neoplasm has been reported in patients treated with somatropin after their first neoplasm. Intracranial tumours, in particular meningiomas, in patients treated with radiation to the head for their first neoplasm, were the most common of these second neoplasms.
 
 <div style=\"page-break-after: always\"></div>
-
-disease process. In childhood cancer survivors, an increased risk of a second neoplasm has been reported in patients treated with somatropin after their first neoplasm. Intracranial tumours, in particular meningiomas, in patients treated with radiation to the head for their first neoplasm, were the most common of these second neoplasms.
 
 ## Benign intracranial hypertension
 
@@ -184,7 +184,7 @@ Intracranial hypertension (IH) with papilledema, ataxia, visual changes, headach
 
 ## Acute critical illness
 
-In critically ill adult patients suffering complications following open heart surgery, abdominal surgery, multiple accidental trauma or acute respiratory failure mortality was higher in patients treated with 5.3 mg or 8 mg somatropin daily (i.e. 37.1 -56 mg/week) compared to patients receiving placebo, 42% vs. 19%. Based on this information, these types of patients should not be treated with somatrogon. As there is no information available on the safety of growth hormone substitution therapy in acutely critically ill patients, the benefits of continued somatrogon treatment in this situation should be weighed against the potential risks involved. In all patients developing other or similar acute critical illness, the possible benefit of treatment with somatrogon must be weighed against the potential risk involved.
+In critically ill adult patients suffering complications following open heart surgery, abdominal surgery, multiple accidental trauma or acute respiratory failure mortality was higher in patients treated with 5.3 mg or 8 mg somatropin daily (i.e. 37.1 - 56 mg/week) compared to patients receiving placebo, 42% vs. 19%. Based on this information, these types of patients should not be treated with somatrogon. As there is no information available on the safety of growth hormone substitution therapy in acutely critically ill patients, the benefits of continued somatrogon treatment in this situation should be weighed against the potential risks involved. In all patients developing other or similar acute critical illness, the possible benefit of treatment with somatrogon must be weighed against the potential risk involved.
 
 ## Pancreatitis
 
@@ -196,7 +196,7 @@ Because somatrogon increases growth rate, signs of development or progression of
 
 ## Epiphyseal disorders
 
-Epiphyseal disorders, including slipped capital femoral epiphysis may occur more frequently in patients with endocrine disorders or in patients undergoing rapid growth. Any paediatric patient with the onset of a limp or complaints of hip or knee pain during treatment should be carefully evaluated.
+Epiphyseal disorders, including slipped capital femoral epiphysis may occur more frequently in patients with endocrine disorders or in patients undergoing rapid growth. Post-marketing cases of epiphysiolysis associated with somatrogon use have been reported (see section 4.8). Any paediatric patient with the onset of a limp or complaints of hip or knee pain during treatment should be carefully evaluated.
 
 ## Oral oestrogen therapy
 
@@ -208,7 +208,7 @@ Oral oestrogen influences the IGF-1 response to growth hormone. If a female pati
 
 ## Sodium content
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium free . '
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium free.'
 
 ## Metacresol
 
@@ -270,26 +270,28 @@ The commonly reported adverse reactions after treatment with somatrogon are inje
 
 Safety data are derived from the phase 2, multi-centre safety and dose-finding study, and the pivotal phase 3, multi-centre non-inferiority study in paediatric patients with GHD (see section 5.1). The data reflect exposure of 265 patients to somatrogon administered once weekly (0.66 mg/kg/week).
 
-Table 1 presents the adverse reactions for somatrogon within the system organ class (SOC). The adverse reactions listed in the table below are presented by SOC and frequency categories, defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) or frequency not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
+Table 1 presents the adverse reactions reported in clinical studies and post-marketing data for somatrogon within the system organ class (SOC). The adverse reactions listed in the table below are presented by SOC and frequency categories, defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) or frequency not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
-## Table 1. Adverse reactions
+Table 1. Adverse reactions
 
-| System organ class                   | Very common   | Common                  | Uncommon              | Rare   | Very rare   | Frequency not known   |
-|--------------------------------------|---------------|-------------------------|-----------------------|--------|-------------|-----------------------|
-| Blood and lymphatic system disorders |               | Anaemia Eosinophilia    |                       |        |             |                       |
-| Endocrine disorders                  |               | Hypothyroidism          | Adrenal insufficiency |        |             |                       |
-| Nervous system disorders             | Headache      |                         |                       |        |             |                       |
-| Eye disorders                        |               | Conjunctivitis allergic |                       |        |             |                       |
+| System organ class                   | Very common   | Common               | Uncommon              | Rare   | Very rare   | Frequency not known   |
+|--------------------------------------|---------------|----------------------|-----------------------|--------|-------------|-----------------------|
+| Blood and lymphatic system disorders |               | Anaemia Eosinophilia |                       |        |             |                       |
+| Endocrine disorders                  |               | Hypothyroidism       | Adrenal insufficiency |        |             |                       |
+| Nervous system disorders             | Headache      |                      |                       |        |             |                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                                   | Very common                        | Common                       | Uncommon         | Rare   | Very rare   | Frequency not known   |
-|------------------------------------------------------|------------------------------------|------------------------------|------------------|--------|-------------|-----------------------|
-| Skin and subcutaneous tissue disorders               |                                    |                              | Rash generalised |        |             | Lipoatrophy*          |
-| Musculoskeletal and connective tissue disorders      |                                    | Arthralgia Pain in extremity |                  |        |             |                       |
-| General disorders and administration site conditions | Injection site reactions a Pyrexia |                              |                  |        |             |                       |
+| System organ class                                   | Very common                        | Common                       | Uncommon         | Rare   | Very rare   | Frequency not known                                           |
+|------------------------------------------------------|------------------------------------|------------------------------|------------------|--------|-------------|---------------------------------------------------------------|
+| Eye disorders                                        |                                    | Conjunctivitis allergic      |                  |        |             |                                                               |
+| Skin and subcutaneous tissue disorders               |                                    |                              | Rash generalised |        |             | Lipoatrophy* ,†                                               |
+| Musculoskeletal and connective tissue disorders      |                                    | Arthralgia Pain in extremity |                  |        |             | Epiphysiolysis (including slipped capital femoral epiphysis)* |
+| General disorders and administration site conditions | Injection site reactions a Pyrexia |                              |                  |        |             |                                                               |
 
-* See section 4.2
+* Adverse Drug Reaction identified post-marketing.
+
+† See section 4.2.
 
 a Injection site reactions include the following: injection site pain, erythema, pruritus, swelling, induration, bruising, haemorrhage, warmth, hypertrophy, inflammation, deformation, urticaria.
 
@@ -320,11 +322,11 @@ Other adverse drug reactions for somatropin may be considered class effects, suc
 
 This medicinal product contains metacresol which may contribute to painful injections (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -356,9 +358,11 @@ Somatrogon induces the retention of phosphorus.
 
 ## Clinical efficacy and safety
 
-The safety and efficacy of somatrogon for the treatment of children and adolescents from 3 years of age with GHD were evaluated in two multi-centre randomised, open-label controlled clinical studies. Both studies included a 12-month main study period that compared once weekly somatrogon to somatropin administered once daily followed by a single arm OLE period during which all patients were administered somatrogon once weekly. The primary efficacy endpoint for both studies was annualised height velocity (HV) following 12 months of treatment. Other endpoints reflective of catch-up growth such as change in height SDS from baseline and height SDS were also evaluated in both studies.
+The safety and efficacy of somatrogon for the treatment of children and adolescents from 3 years of age with GHD were evaluated in two multi-centre randomised, open-label controlled clinical studies.
 
 <div style=\"page-break-after: always\"></div>
+
+Both studies included a 12-month main study period that compared once weekly somatrogon to somatropin administered once daily followed by a single arm OLE period during which all patients were administered somatrogon once weekly. The primary efficacy endpoint for both studies was annualised height velocity (HV) following 12 months of treatment. Other endpoints reflective of catch-up growth such as change in height SDS from baseline and height SDS were also evaluated in both studies.
 
 The pivotal phase 3 multi-centre non-inferiority study evaluated the safety and efficacy of 0.66 mg/kg/week dose of somatrogon compared to 0.034 mg/kg/day of somatropin in 224 pre-pubertal paediatric patients with GHD. The mean age across the treatment groups was 7.7 years (min 3.01, max 11.96), 40.2% of patients were &gt; 3 years to ≤ 7 years, 59.8% were &gt; 7 years. 71.9% of patients were male and 28.1% were female. In this study, 74.6% of patients were White, 20.1% were Asian; 0.9% were Black. Baseline disease characteristics were balanced across both treatment groups. Approximately 68% of patients had peak plasma GH levels of ≤ 7 ng/mL, and the mean height was below -2 SDS.
 
@@ -384,11 +388,11 @@ In the phase 2, multi-centre safety and dose-finding study, 31 patients received
 
 In a phase 3 randomised, open-label, crossover study in 87 paediatric patients with GHD, the impact of somatrogon administered once weekly (0.66 mg/kg/week) on treatment burden was compared to daily somatropin. Somatrogon administered once weekly demonstrated significant improvement (reduction) in treatment burden for the patient, improved (reduced) treatment burden for the caregiver, greater patient convenience, greater intent to comply and greater patient preference.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Ngenla in all subsets of the paediatric population for the long-term treatment of paediatric patients with growth disturbance due to insufficient secretion of growth hormone (see section 4.2 for information on paediatric use).
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -422,11 +426,11 @@ Based on population PK analyses, age, sex, race and ethnicity do not have a clin
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology and repeat-dose toxicity.
 
+<div style=\"page-break-after: always\"></div>
+
 Reproductive and developmental toxicity studies were conducted in rats with somatrogon administered subcutaneously at doses up to 30 mg/kg (associated with exposures levels approximately 14 times the maximum recommended human dose based on AUC).
 
 Somatrogon induced an increase in oestrous cycle length, copulatory interval, and number of corpora lutea in female rats but no effects on mating indices, fertility or early embryonic development.
-
-<div style=\"page-break-after: always\"></div>
 
 No effects of somatrogon were observed on embryo-foetal development.
 
@@ -444,7 +448,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-## Before first use
+Before first use
 
 3 years at 2 °C to 8 °C.
 
@@ -454,9 +458,7 @@ Prior to the first use store Ngenla in a refrigerator. The unopened pre-filled p
 
 28 days.
 
-Store in a refrigerator (2 °C -8 °C).
-
-Do not freeze.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze.
 
 Keep Ngenla with the pen cap attached in order to protect from light.
 
@@ -464,13 +466,13 @@ Ngenla may be held at room temperature (up to 32 °C) for up to 4 hours with eac
 
 Chemical and physical in-use stability has been demonstrated for 28 days from the date of first use of the pre-filled pen, when the pre-filled pen has been stored at 2 °C to 8 °C in between each use.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.4 Special precautions for storage
 
 Store in a refrigerator (2 °C to 8 °C). Do not freeze. Keep Ngenla in the outer carton in order to protect from light.
 
 For storage conditions after first use of the medicinal product, see section 6.3.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.5 Nature and contents of container
 
@@ -500,11 +502,11 @@ Do not freeze the medicinal product. Do not expose to heat (above 32 °C). Do no
 
 The pen may be used straight from the refrigerator. For a more comfortable injection, the pre-filled pen containing the sterile solution of somatrogon may be allowed to reach room temperature up to 32 °C for up to 30 minutes. The solution in the pen should be inspected for flakes, particles and colouration. The pen should not be shaken. If flakes, particles or discolouration are observed, the pen should not be used.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Administration
 
 The designated injection site should be prepared as instructed in the Instructions for Use. It is recommended to rotate the injection site at each administration. When in use, always replace the pen cap on the pre-filled pen after each injection. Return Ngenla to the refrigerator again after each use. A new needle must always be attached before use. Needles must not be re-used. The injection needle should be removed after each injection and the pen should be stored without a needle attached. This may prevent blocked needles, contamination, infection, leakage of solution and inaccurate dosing.
-
-<div style=\"page-break-after: always\"></div>
 
 In the event of blocked needles (i.e. liquid does not appear at the needle tip), patients must follow the instructions described in the Instructions for Use accompanying the package leaflet.
 
@@ -551,9 +553,7 @@ Pfizer Ireland Pharmaceuticals Unlimited Company Grange Castle Business Park Nan
 
 Name and address of the manufacturer responsible for batch release
 
-Pfizer Manufacturing Belgium NV
-
-Rijksweg 12 2870 Puurs-Sint-Amands Belgium
+Pfizer Manufacturing Belgium NV Rijksweg 12 2870 Puurs-Sint-Amands Belgium
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -561,20 +561,20 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-- Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -594,7 +594,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ngenla 24 mg solution for injection in pre-filled pen somatrogon
+Ngenla 24 mg solution for injection in pre-filled pen
+
+somatrogon
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -602,13 +604,17 @@ One mL of solution contains 20 mg of somatrogon. Each pre-filled pen contains 24
 
 ## 3. LIST OF EXCIPIENTS
 
-Trisodium citrate dihydrate Citric acid monohydrate L-Histidine Sodium chloride Poloxamer 188 m-Cresol Water for injections
+Trisodium citrate dihydrate Citric acid monohydrate L-Histidine Sodium chloride Poloxamer 188
+
+m-Cresol
+
+Water for injections
 
 See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 1 pre-filled pen
 
@@ -676,41 +682,38 @@ Ngenla 24 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED PEN LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|-------------------------------------------------------------|
+## PRE-FILLED PEN LABEL
 
-Ngenla 24 mg solution for injection in pre-filled pen somatrogon
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
-Subcutaneous use
+Ngenla 24 mg solution for injection in pre-filled pen somatrogon Subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Once weekly
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
-EXP Date of first use
-
-Discard 28 days after first use
+EXP Date of first use Discard 28 days after first use
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1.2 mL
 
@@ -727,7 +730,9 @@ CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Ngenla 60 mg solution for injection in pre-filled pen somatrogon
+Ngenla 60 mg solution for injection in pre-filled pen
+
+somatrogon
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -735,13 +740,17 @@ One mL of solution contains 50 mg of somatrogon. Each pre-filled pen contains 60
 
 ## 3. LIST OF EXCIPIENTS
 
-Trisodium citrate dihydrate Citric acid monohydrate L-Histidine Sodium chloride Poloxamer 188 m-Cresol Water for injections
+Trisodium citrate dihydrate Citric acid monohydrate L-Histidine Sodium chloride Poloxamer 188
+
+m-Cresol
+
+Water for injections
 
 See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 1 pre-filled pen
 
@@ -783,7 +792,9 @@ Keep Ngenla in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
+Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles
+
+Belgium
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -809,8 +820,8 @@ Ngenla 60 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -822,21 +833,22 @@ PC SN NN
 
 Ngenla 60 mg solution for injection in pre-filled pen somatrogon Subcutaneous use
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 Once weekly
 
 ## 3. EXPIRY DATE
 
-EXP Date of first use Discard 28 days after first use
+EXP Date of first use
+
+Discard 28 days after first use
 
 ## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 1.2 mL
 
@@ -948,7 +960,7 @@ Ngenla does not affect the ability to drive and use machines.
 
 ## Ngenla contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
 
 ## Ngenla contains metacresol
 
@@ -964,11 +976,9 @@ The dose of Ngenla to be injected will be decided by your doctor.
 
 ## How much to use
 
-Your doctor will work out your dose of Ngenla from your body weight in kilograms. The recommended dose is 0.66 mg per kg body weight and is given once weekly. If you or the child in
+Your doctor will work out your dose of Ngenla from your body weight in kilograms. The recommended dose is 0.66 mg per kg body weight and is given once weekly. If you or the child in your care have been previously treated with daily growth hormone injections, your doctor will tell you to wait before taking the first dose of Ngenla until the day after your last daily injection and then continue with Ngenla once each week.
 
 <div style=\"page-break-after: always\"></div>
-
-your care have been previously treated with daily growth hormone injections, your doctor will tell you to wait before taking the first dose of Ngenla until the day after your last daily injection and then continue with Ngenla once each week.
 
 Do not change your dose unless your doctor has told you to.
 
@@ -1038,6 +1048,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 ## Not known: frequency cannot be estimated from the available data
 
 - -Localised loss of fat below the skin (lipoatrophy)
+- -Problems with hip joint which may cause hip or knee pain or limp (epiphysiolysis, including slipped capital femoral epiphysis)
 
 ## Other possible side effects not seen with Ngenla but which have been reported in other growth hormone medicines treatment may include the following:
 
@@ -1058,13 +1069,13 @@ In very rare cases the presence of metacresol can cause inflammation (swelling) 
 
 If you or the child in your care get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. How to store Ngenla
 
 Keep this medicine out of the sight and reach of children.
 
-<div style=\"page-break-after: always\"></div>
-
-Do not use this medicine after the expiry date which is stated on the pen label and on the carton after 'EXP' . The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the pen label and on the carton after 'EXP'. The expiry date refers to the last day of that month.
 
 The pre-filled pen should not be used more than 28 days after first use.
 
@@ -1101,7 +1112,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## Ngenla 24 mg solution for injection in pre-filled pen
 
-## One mL of solution contains 20 mg of somatrogon.
+One mL of solution contains 20 mg of somatrogon.
 
 Each pre-filled pen contains 24 mg somatrogon in 1.2 mL of solution. Each pre-filled pen delivers doses from 0.2 mg to 12 mg in a single injection in 0.2 mg increments.
 
@@ -1113,7 +1124,7 @@ Each pre-filled pen contains 60 mg somatrogon in 1.2 mL solution. Each pre-fille
 
 <div style=\"page-break-after: always\"></div>
 
-- -The other ingredients are: trisodium citrate dihydrate, citric acid monohydrate, L-Histidine, sodium chloride (see section 2 ' Ngenla contains sodium'), poloxamer 188, m -Cresol, water for injections.
+- -The other ingredients are: trisodium citrate dihydrate, citric acid monohydrate, L-Histidine, sodium chloride (see section 2 'Ngenla contains sodium'), poloxamer 188, m-Cresol, water for injections.
 
 ## What Ngenla looks like and contents of the pack
 
@@ -1139,19 +1150,9 @@ Pfizer NV/SA
 
 Tél/Tel: +32 (0)2 554 62 11
 
-## Lietuva
-
-Pfizer Luxembourg SARL filialas Lietuvoje Tel: +370 5 251 4000
-
 ## България
 
 Пфайзер Люксембург САРЛ, Клон България Тел.: +359 2 970 4333
-
-## Magyarország
-
-Pfizer Kft.
-
-Tel.: + 36 1 488 37 00
 
 ## Česká republika
 
@@ -1159,21 +1160,11 @@ Pfizer, spol. s r.o.
 
 Tel: +420 283 004 111
 
-## Malta
-
-Vivian Corporation Ltd. Tel: +356 21344610
-
 ## Danmark
 
 Pfizer ApS
 
 Tlf.: +45 44 20 11 00
-
-## Nederland
-
-Pfizer bv
-
-Tel: +31 (0)800 63 34 636
 
 ## Deutschland
 
@@ -1181,17 +1172,39 @@ PFIZER PHARMA GmbH
 
 Tel: +49 (0)30 550055-51000
 
-## Norge
-
-Pfizer AS
-
-Tlf: +47 67 52 61 00
-
 ## Eesti
 
 Pfizer Luxembourg SARL Eesti filiaal
 
 Tel: +372 666 7500
+
+## Lietuva
+
+Pfizer Luxembourg SARL filialas Lietuvoje Tel: +370 5 251 4000
+
+## Magyarország
+
+Pfizer Kft.
+
+Tel.: + 36 1 488 37 00
+
+## Malta
+
+Vivian Corporation Ltd.
+
+Tel: +356 21344610
+
+## Nederland
+
+Pfizer bv
+
+Tel: +31 (0)800 63 34 636
+
+## Norge
+
+Pfizer AS
+
+Tlf: +47 67 52 61 00
 
 ## Österreich
 
@@ -1247,7 +1260,7 @@ Tel: +39 06 33 18 21
 
 ## Κύπρος
 
-Pfizer Ελλάς Α . Ε . (Cyprus Branch)
+Pfizer Ελλάς Α.Ε. (Cyprus Branch)
 
 Τηλ: +357 22817690
 
@@ -1283,7 +1296,9 @@ Tel: +40 (0) 21 207 28 00
 
 ## Slovenija
 
-Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: + 386 (0)1 52 11 400
+Pfizer Luxembourg SARL
+
+Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: + 386 (0)1 52 11 400
 
 ## Slovenská republika
 
@@ -1311,48 +1326,46 @@ Keep this leaflet. These instructions show step-by-step directions on how to pre
 
 ## Important information about your Ngenla pen
 
-- Ngenla for injection is a multi-dose pre-filled pen containing 24 mg of medicine.
-- Ngenla for injection can be given by a patient, caregiver, doctor, nurse or pharmacist. Do not try to inject Ngenla yourself until you are shown the right way to give the injections and read and understand the Instructions for Use. If your doctor, nurse or pharmacist decides that you or a caregiver may be able to give your injections of Ngenla at home, you should receive training on the right way to prepare and inject Ngenla. It is important that you read, understand, and follow these instructions so that you inject Ngenla the right way. It is important to talk to your doctor, nurse or pharmacist to be sure you understand your Ngenla dosing instructions.
-- To help you remember when to inject Ngenla, you can mark your calendar ahead of time. Call your doctor, nurse or pharmacist if you or your caregiver have any questions about the right way to inject Ngenla.
-- Each turn (click) of the dose knob increases the dose by 0.2 mg of medicine. You can give from 0.2 mg to 12 mg in a single injection. If your dose is more than 12 mg, you will need to give more than 1 injection. Each injection should be given at a different injection site.
-- A small amount of the medicine may remain in the pen after all doses have been correctly given. This is normal. Patients should not try to use the remaining solution but get rid of the pen in the correct way.
-- Do not share your pen with other people, even if the needle has been changed. You may give other people a serious infection, or get a serious infection from them.
-- Always use a new sterile needle for each injection. This will reduce the risk of contamination, infection, leakage of medicine, and blocked needles leading to the wrong dose.
-- Do not shake your pen. Shaking can damage the medicine.
-- The pen is not recommended for use by the blind or visually impaired without the assistance of a person trained in the proper use of the product.
+-  Ngenla for injection is a multi-dose pre-filled pen containing 24 mg of medicine.
+-  Ngenla for injection can be given by a patient, caregiver, doctor, nurse or pharmacist. Do not try to inject Ngenla yourself until you are shown the right way to give the injections and read and understand the Instructions for Use. If your doctor, nurse or pharmacist decides that you or a caregiver may be able to give your injections of Ngenla at home, you should receive training on the right way to prepare and inject Ngenla. It is important that you read, understand, and follow these instructions so that you inject Ngenla the right way. It is important to talk to your doctor, nurse or pharmacist to be sure you understand your Ngenla dosing instructions.
+-  To help you remember when to inject Ngenla, you can mark your calendar ahead of time. Call your doctor, nurse or pharmacist if you or your caregiver have any questions about the right way to inject Ngenla.
+-  Each turn (click) of the dose knob increases the dose by 0.2 mg of medicine. You can give from 0.2 mg to 12 mg in a single injection. If your dose is more than 12 mg, you will need to give more than 1 injection. Each injection should be given at a different injection site.
+-  A small amount of the medicine may remain in the pen after all doses have been correctly given. This is normal. Patients should not try to use the remaining solution but get rid of the pen in the correct way.
+-  Do not share your pen with other people, even if the needle has been changed. You may give other people a serious infection, or get a serious infection from them.
+-  Always use a new sterile needle for each injection. This will reduce the risk of contamination, infection, leakage of medicine, and blocked needles leading to the wrong dose.
+-  Do not shake your pen. Shaking can damage the medicine.
+-  The pen is not recommended for use by the blind or visually impaired without the assistance of a person trained in the proper use of the product.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Supplies you will need each time you inject Included in the carton:
 
-- 1 Ngenla 24 mg pen.
+-  1 Ngenla 24 mg pen.
 
 ## Not included in the carton:
 
-- 1 new sterile needle for each injection.
-- Alcohol swabs.
-- Cotton balls or gauze pads.
-- Adhesive bandage.
-- A suitable sharps disposal container for disposal of pen needles and pens.
+-  1 new sterile needle for each injection.
+-  Alcohol swabs.
+-  Cotton balls or gauze pads.
+-  Adhesive bandage.
+-  A suitable sharps disposal container for disposal of pen needles and pens.
 
 ## Ngenla 24 mg pen:
 
 <!-- image -->
 
-Needle attachment
-
 ## Needles to use
 
 Pen needles are not included with your Ngenla pen. You can use pen needles from 4 mm to 8 mm and between 30G and 32G.
 
-- The following needles have been shown to be compatible with your Ngenla pen:
+-  The following needles have been shown to be compatible with your Ngenla pen:
 - o 32G (Novo Nordisk®, NovoFine® Plus)
 - o 31G (Novo Nordisk®, NovoFine®)
-- o 31G (Becton, Dickinson and Company, BD Ultra-Fine ™ or BD Micro-Fine ™ )
-- The following needles with safety shield have been shown to be compatible with your Ngenla pen:
-- o 30G (Becton, Dickinson and Company, AutoShield Duo ™ )
+- o 31G (Becton, Dickinson and Company, BD Ultra-Fine™ or BD Micro-Fine™)
+-  The following needles with safety shield have been shown to be compatible with your Ngenla pen:
+- o 30G (Becton, Dickinson and Company, AutoShield Duo™)
 - o 30G (Novo Nordisk®, NovoFine® AutoCover®)
-- Talk with your doctor, nurse or pharmacist about the right needle for you.
+-  Talk with your doctor, nurse or pharmacist about the right needle for you.
 
 ## Sterile needle (example) not supplied:
 
@@ -1370,22 +1383,22 @@ Caution: Never use a bent or damaged needle. Always handle pen needles with care
 
 ## Step 1 Getting ready
 
-- Wash and dry your hands.
-- You can use your pen straight from the refrigerator. For a more comfortable injection, leave your pen at room temperature for up to 30 minutes. (See s ection 5 'How to store Ngenla' of the Ngenla 24 mg pre-filled pen Package Leaflet).
-- Check the name, strength, and label of your pen to make sure it is the medicine your doctor has prescribed for you.
-- Check the expiry date on the pen label. Do not use if the expiry date has passed.
-- Do not use your pen if:
-- o it has been frozen or exposed to heat (above 32 °C) or it has been more than 28 days after first use of the pen. (See s ection 5 'How to store Ngenla' of the Ngenla 24 mg pre-filled pen Package Leaflet).
+-  Wash and dry your hands.
+-  You can use your pen straight from the refrigerator. For a more comfortable injection, leave your pen at room temperature for up to 30 minutes. (See section 5 'How to store Ngenla' of the Ngenla 24 mg pre-filled pen Package Leaflet).
+-  Check the name, strength, and label of your pen to make sure it is the medicine your doctor has prescribed for you.
+-  Check the expiry date on the pen label. Do not use if the expiry date has passed.
+-  Do not use your pen if:
+- o it has been frozen or exposed to heat (above 32 °C) or it has been more than 28 days after first use of the pen. (See section 5 'How to store Ngenla' of the Ngenla 24 mg pre-filled pen Package Leaflet).
 - o it has been dropped
 - o it looks broken or damaged
-- Do not remove the pen cap from your pen - until you are ready to inject.
-- Ngenla can be given in the abdomen (belly), thighs, buttocks, or upper arms.
-- Choose the best place to inject, as recommended by your doctor, nurse or pharmacist. Choose a different injection site for each injection.
-- If more than 1 injection is needed to complete your full dose, each injection should be given in a different injection site.
-- Do not inject into bony areas, areas that are bruised, red, sore or hard, and areas that have scars or skin conditions.
-- Clean the injection site with an alcohol swab.
-- Allow the injection site to dry.
-- Do not touch injection site after cleaning.
+-  Do not remove the pen cap from your pen - until you are ready to inject.
+-  Ngenla can be given in the abdomen (belly), thighs, buttocks, or upper arms.
+-  Choose the best place to inject, as recommended by your doctor, nurse or pharmacist. Choose a different injection site for each injection.
+-  If more than 1 injection is needed to complete your full dose, each injection should be given in a different injection site.
+-  Do not inject into bony areas, areas that are bruised, red, sore or hard, and areas that have scars or skin conditions.
+-  Clean the injection site with an alcohol swab.
+-  Allow the injection site to dry.
+-  Do not touch injection site after cleaning.
 
 Step 2 Choose and clean your injection site
 
@@ -1397,10 +1410,10 @@ Step 3 Check medicine
 
 <!-- image -->
 
-- Pull off the pen cap and keep it for after your injection.
-- Check the medicine inside the cartridge holder.
-- Make sure the medicine is clear and colourless to slightly light yellow. Do not inject the medicine if it is cloudy or dark yellow.
-- Make sure the medicine is free of flakes or particles. Do not inject the medicine if it has flakes or particles.
+-  Pull off the pen cap and keep it for after your injection.
+-  Check the medicine inside the cartridge holder.
+-  Make sure the medicine is clear and colourless to slightly light yellow. Do not inject the medicine if it is cloudy or dark yellow.
+-  Make sure the medicine is free of flakes or particles. Do not inject the medicine if it has flakes or particles.
 
 Note: It is normal to see one or more bubbles in the medicine.
 
@@ -1408,9 +1421,9 @@ Note: It is normal to see one or more bubbles in the medicine.
 
 <!-- image -->
 
-- Take a new needle and pull off the protective paper.
-- Line the needle up with your pen keeping them both straight.
-- Gently push and then screw the needle onto your pen.
+-  Take a new needle and pull off the protective paper.
+-  Line the needle up with your pen keeping them both straight.
+-  Gently push and then screw the needle onto your pen.
 
 Do not over tighten.
 
@@ -1424,9 +1437,8 @@ Step 5 Pull off outer needle cover
 
 <!-- image -->
 
-- Pull off the outer needle cover.
-- •
-- Make sure you keep the outer needle cover. You will need it later to remove the needle.
+-  Pull off the outer needle cover.
+-  Make sure you keep the outer needle cover. You will need it later to remove the needle.
 
 Note: You should see an inner needle cap after you have removed the outer cover. If you do not see this, try to attach the needle again.
 
@@ -1436,22 +1448,23 @@ Step 6 Pull off inner needle cap
 
 <!-- image -->
 
-- Pull off the inner needle cap carefully to show the needle.
-- Throw away the inner needle cap in a sharps container. It is not needed again.
-- Note: I f using needle with safety shield, refer to the manufacturer's instructions for use.
+-  Pull off the inner needle cap carefully to show the needle.
+-  Throw away the inner needle cap in a sharps container. It is not needed again.
+
+Note: If using needle with safety shield, refer to the manufacturer's instructions for use.
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-( 'Yes: Go to new pen set up' has an arrow directing to 'New pen set up (priming)' and 'No' has an arrow directing to 'Setting your prescribed dose' )
+('Yes: Go to new pen set up' has an arrow directing to 'New pen set up (priming)' and 'No' has an arrow directing to 'Setting your prescribed dose')
 
-## New pen set up (priming) -for the first use of a new pen only
+## New pen set up (priming) - for the first use of a new pen only
 
 ## You must set up each new pen (priming) before using it for the first time
 
-- New pen set up is done before each new pen is used for the first time.
-- The purpose of setting up a new pen is to remove air bubbles and make sure you get the correct dose.
+-  New pen set up is done before each new pen is used for the first time.
+-  The purpose of setting up a new pen is to remove air bubbles and make sure you get the correct dose.
 
 Important: Skip Step-A through to Step-C if you have already set up your pen.
 
@@ -1459,7 +1472,7 @@ Important: Skip Step-A through to Step-C if you have already set up your pen.
 
 <!-- image -->
 
-- Turn the dose knob to 0.4 .
+-  Turn the dose knob to 0.4 .
 
 Note: If you turn the dose knob too far, you can turn it back.
 
@@ -1469,16 +1482,13 @@ Step-B: Tap cartridge holder
 
 <!-- image -->
 
-- Hold the pen with the needle pointing up so that the air bubbles can rise.
-- Tap the cartridge holder gently to float any air bubbles to the top.
-- Press the injection button until it cannot go any further and '0' is shown in the dose window.
-- Check for liquid at the needle tip. If liquid appears, your pen is set up.
-- Always make sure that a drop of liquid appears before you inject. If liquid has not appeared, repeat Step-A through to Step-C.
+-  Hold the pen with the needle pointing up so that the air bubbles can rise.
+-  Tap
+- the cartridge holder gently to float any air bubbles to the top. Important: Follow Step-B even if you do not see air bubbles.
+-  Press the injection button until it cannot go any further and '0' is shown in the dose window.
+-  Check for liquid at the needle tip. If liquid appears, your pen is set up.
+-  Always make sure that a drop of liquid appears before you inject. If liquid has not appeared, repeat Step-A through to Step-C.
 - o If liquid does not appear after you have repeated Step-A through Step-C five (5) times, attach a new needle and try one (1) more time.
-
-Important:
-
-Follow Step-B even if you do not see air bubbles.
 
 Step-C: Press button and check for liquid
 
@@ -1506,25 +1516,25 @@ Do not use the pen if a drop of liquid still does not appear. Contact your docto
 
 <!-- image -->
 
-- Turn the dose knob to set your dose.
+-  Turn the dose knob to set your dose.
 - o The dose can be increased or decreased by turning the dose knob in either direction.
 - o The dose knob turns 0.2 mg at a time.
 - o Your pen contains 24 mg of medicine but you can only set a dose of up to 12 mg for a single injection.
 - o The dose window shows the dose in mg. See Examples A and B .
-- Always check the dose window to make sure you have set the correct dose. Important: Do not press the injection button while setting your dose.
+-  Always check the dose window to make sure you have set the correct dose. Important: Do not press the injection button while setting your dose.
 
 ## What should I do if I cannot set the dose I need?
 
-- If your dose is more than 12 mg you will need more than 1 injection.
-- You can give from 0.2 mg to 12 mg in a single injection.
+-  If your dose is more than 12 mg you will need more than 1 injection.
+-  You can give from 0.2 mg to 12 mg in a single injection.
 - o If you need help dividing up your dose the right way, ask your doctor, nurse or pharmacist.
 - o Use a new needle for each injection (See Step 4: Attach needle) .
 - o If you normally need to give 2 injections for your full dose, be sure to give your second dose.
 
 ## What should I do if I do not have enough medicine left in my pen?
 
-- If your pen contains less than 12 mg of medicine, the dose knob will stop with the remaining amount of medicine shown in the dose window.
-- If there is not enough medicine left in your pen for your full dose, you may either:
+-  If your pen contains less than 12 mg of medicine, the dose knob will stop with the remaining amount of medicine shown in the dose window.
+-  If there is not enough medicine left in your pen for your full dose, you may either:
 - o inject the amount left in your pen, then prepare a new pen to complete your dose in full.
 
 Remember to subtract the dose you have already received. For example, if the dose is 3.8 mg and you can only set the dose knob to 1.8 mg, you should inject another 2.0 mg with a new pen.
@@ -1539,15 +1549,15 @@ Remember to subtract the dose you have already received. For example, if the dos
 
 <!-- image -->
 
-- Hold your pen so you can see the numbers in the dose window.
-- Insert the needle straight into your skin.
+-  Hold your pen so you can see the numbers in the dose window.
+-  Insert the needle straight into your skin.
 
 ## Step 9 Inject your medicine
 
 <!-- image -->
 
-- Keep holding the needle in the same position in your skin.
-- Press the injection button until it cannot go any further and '0' is shown in the dose window.
+-  Keep holding the needle in the same position in your skin.
+-  Press the injection button until it cannot go any further and '0' is shown in the dose window.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1555,8 +1565,8 @@ Step 10 Count to 10
 
 <!-- image -->
 
-- Continue to press the injection button while counting to 10 . Counting to 10 will allow the full dose of medicine to be given.
-- After counting to 10, let go of the injection button and slowly remove the pen from the injection site by pulling the needle straight out.
+-  Continue to press the injection button while counting to 10 . Counting to 10 will allow the full dose of medicine to be given.
+-  After counting to 10, let go of the injection button and slowly remove the pen from the injection site by pulling the needle straight out.
 
 Note: You may see a drop of medicine at the needle tip. This is normal and does not affect the dose you just received.
 
@@ -1564,8 +1574,8 @@ Step 11 Attach outer needle cover
 
 <!-- image -->
 
-- Carefully place the outer needle cover back on the needle.
-- Press on the outer needle cover until it is secure.
+-  Carefully place the outer needle cover back on the needle.
+-  Press on the outer needle cover until it is secure.
 
 Caution: Never try to put the inner needle cap back on the needle. You may prick yourself with the needle.
 
@@ -1577,9 +1587,9 @@ Step 12 Remove the needle
 
 <!-- image -->
 
-- Unscrew the needle from the pen.
-- •
-- Gently pull until the needle comes off. If the needle is still on, replace the outer needle cover and try again. Be sure to apply
+-  Unscrew the needle from the pen.
+-  Gently pull until the needle comes off.
+- If the needle is still on, replace the outer needle cover and try again. Be sure to apply
 
 Note: pressure when unscrewing the needle.
 
@@ -1589,19 +1599,19 @@ Step 13 Replace the pen cap
 
 <!-- image -->
 
-- Replace the pen cap back onto your pen.
-- Do not recap the pen with a needle attached.
-- If there is any medicine left in your pen, store in the refrigerator between uses. (See section 5 'How to store Ngenla' of the Ngenla 24 mg pre-filled pen Package Leaflet) .
+-  Replace the pen cap back onto your pen.
+-  Do not recap the pen with a needle attached.
+-  If there is any medicine left in your pen, store in the refrigerator between uses. (See section 5 'How to store Ngenla' of the Ngenla 24 mg pre-filled pen Package Leaflet) .
 
 <div style=\"page-break-after: always\"></div>
 
 ## Step 14 After your injection
 
-- Press lightly on the injection site with a clean cotton ball or gauze pad, and hold for a few seconds.
-- Do not rub the injection site. You may have slight bleeding. This is normal.
-- You may cover the injection site with a small adhesive bandage, if needed.
-- If your pen is empty or it has been more than 28 days after first use, throw it away even if it contains unused medicine. Throw away your pen in the sharps container.
-- To help you remember when to dispose of your pen you can write the date of first use on the pen label and below:
+-  Press lightly on the injection site with a clean cotton ball or gauze pad, and hold for a few seconds.
+-  Do not rub the injection site. You may have slight bleeding. This is normal.
+-  You may cover the injection site with a small adhesive bandage, if needed.
+-  If your pen is empty or it has been more than 28 days after first use, throw it away even if it contains unused medicine. Throw away your pen in the sharps container.
+-  To help you remember when to dispose of your pen you can write the date of first use on the pen label and below:
 
 Date of first use \\_\\_\\_\\_\\_\\_ / \\_\\_\\_\\_\\_\\_ / \\_\\_\\_\\_\\_\\_
 
@@ -1704,7 +1714,7 @@ Ngenla does not affect the ability to drive and use machines.
 
 ## Ngenla contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
 
 ## Ngenla contains metacresol
 
@@ -1720,11 +1730,9 @@ The dose of Ngenla to be injected will be decided by your doctor.
 
 ## How much to use
 
-Your doctor will work out your dose of Ngenla from your body weight in kilograms. The recommended dose is 0.66 mg per kg body weight and is given once weekly. If you or the child in
+Your doctor will work out your dose of Ngenla from your body weight in kilograms. The recommended dose is 0.66 mg per kg body weight and is given once weekly. If you or the child in your care have been previously treated with daily growth hormone injections, your doctor will tell you to wait before taking the first dose of Ngenla until the day after your last daily injection and then continue with Ngenla once each week.
 
 <div style=\"page-break-after: always\"></div>
-
-your care have been previously treated with daily growth hormone injections, your doctor will tell you to wait before taking the first dose of Ngenla until the day after your last daily injection and then continue with Ngenla once each week.
 
 Do not change your dose unless your doctor has told you to.
 
@@ -1794,6 +1802,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 ## Not known: frequency cannot be estimated from the available data
 
 - -Localised loss of fat below the skin (lipoatrophy)
+- -Problems with hip joint which may cause hip or knee pain or limp (epiphysiolysis, including slipped capital femoral epiphysis)
 
 ## Other possible side effects not seen with Ngenla but which have been reported in other growth hormone medicines treatment may include the following:
 
@@ -1814,13 +1823,13 @@ In very rare cases the presence of metacresol can cause inflammation (swelling) 
 
 If you or the child in your care get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. How to store Ngenla
 
 Keep this medicine out of the sight and reach of children.
 
-<div style=\"page-break-after: always\"></div>
-
-Do not use this medicine after the expiry date which is stated on the pen label and on the carton after 'EXP' . The expiry date refers to the last day of that month.
+Do not use this medicine after the expiry date which is stated on the pen label and on the carton after 'EXP'. The expiry date refers to the last day of that month.
 
 The pre-filled pen should not be used more than 28 days after first use.
 
@@ -1857,7 +1866,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## Ngenla 24 mg solution for injection in pre-filled pen
 
-## One mL of solution contains 20 mg of somatrogon.
+One mL of solution contains 20 mg of somatrogon.
 
 Each pre-filled pen contains 24 mg somatrogon in 1.2 mL of solution. Each pre-filled pen delivers doses from 0.2 mg to 12 mg in a single injection in 0.2 mg increments.
 
@@ -1869,7 +1878,7 @@ Each pre-filled pen contains 60 mg somatrogon in 1.2 mL solution. Each pre-fille
 
 <div style=\"page-break-after: always\"></div>
 
-- -The other ingredients are: trisodium citrate dihydrate, citric acid monohydrate, L-Histidine, sodium chloride (see section 2 'Ngenla contains sodium'), poloxamer 188, m -Cresol, water for injections.
+- -The other ingredients are: trisodium citrate dihydrate, citric acid monohydrate, L-Histidine, sodium chloride (see section 2 'Ngenla contains sodium'), poloxamer 188, m-Cresol, water for injections.
 
 ## What Ngenla looks like and contents of the pack
 
@@ -1895,19 +1904,9 @@ Pfizer NV/SA
 
 Tél/Tel: +32 (0)2 554 62 11
 
-## Lietuva
-
-Pfizer Luxembourg SARL filialas Lietuvoje Tel: +370 5 251 4000
-
 ## България
 
 Пфайзер Люксембург САРЛ, Клон България Тел.: +359 2 970 4333
-
-## Magyarország
-
-Pfizer Kft.
-
-Tel.: + 36 1 488 37 00
 
 ## Česká republika
 
@@ -1915,21 +1914,11 @@ Pfizer, spol. s r.o.
 
 Tel: +420 283 004 111
 
-## Malta
-
-Vivian Corporation Ltd. Tel: +356 21344610
-
 ## Danmark
 
 Pfizer ApS
 
 Tlf.: +45 44 20 11 00
-
-## Nederland
-
-Pfizer bv
-
-Tel: +31 (0)800 63 34 636
 
 ## Deutschland
 
@@ -1937,17 +1926,37 @@ PFIZER PHARMA GmbH
 
 Tel: +49 (0)30 550055-51000
 
-## Norge
-
-Pfizer AS
-
-Tlf: +47 67 52 61 00
-
 ## Eesti
 
 Pfizer Luxembourg SARL Eesti filiaal
 
 Tel: +372 666 7500
+
+## Lietuva
+
+Pfizer Luxembourg SARL filialas Lietuvoje Tel: +370 5 251 4000
+
+## Magyarország
+
+Pfizer Kft.
+
+Tel.: + 36 1 488 37 00
+
+## Malta
+
+Vivian Corporation Ltd. Tel: +356 21344610
+
+## Nederland
+
+Pfizer bv
+
+Tel: +31 (0)800 63 34 636
+
+## Norge
+
+Pfizer AS
+
+Tlf: +47 67 52 61 00
 
 ## Österreich
 
@@ -2003,7 +2012,7 @@ Tel: +39 06 33 18 21
 
 ## Κύπρος
 
-Pfizer Ελλάς Α . Ε . (Cyprus Branch)
+Pfizer Ελλάς Α.Ε. (Cyprus Branch)
 
 Τηλ: +357 22817690
 
@@ -2039,7 +2048,9 @@ Tel: +40 (0) 21 207 28 00
 
 ## Slovenija
 
-Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: + 386 (0)1 52 11 400
+Pfizer Luxembourg SARL
+
+Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel: + 386 (0)1 52 11 400
 
 ## Slovenská republika
 
@@ -2065,29 +2076,29 @@ Injection for subcutaneous (under the skin) use only Keep this leaflet. These in
 
 ## Important information about your Ngenla pen
 
-- Ngenla for injection is a multi-dose pre-filled pen containing 60 mg of medicine.
-- Ngenla for injection can be given by a patient, caregiver, doctor, nurse or pharmacist. Do not try to inject Ngenla yourself until you are shown the right way to give the injections and read and understand the Instructions for Use. If your doctor, nurse or pharmacist decides that you or a caregiver may be able to give your injections of Ngenla at home, you should receive training on the right way to prepare and inject Ngenla. It is important that you read, understand, and follow these instructions so that you inject Ngenla the right way. It is important to talk to your doctor, nurse or pharmacist to be sure you understand your Ngenla dosing instructions.
-- To help you remember when to inject Ngenla, you can mark your calendar ahead of time. Call your doctor, nurse or pharmacist if you or your caregiver have any questions about the right way to inject Ngenla.
-- Each turn (click) of the dose knob increases the dose by 0.5 mg of medicine. You can give from 0.5 mg to 30 mg in a single injection. If your dose is more than 30 mg, you will need to give more than 1 injection. Each injection should be given at a different injection site.
-- A small amount of the medicine may remain in the pen after all doses have been correctly given. This is normal. Patients should not try to use the remaining solution but get rid of the pen in the correct way.
-- Do not share your pen with other people, even if the needle has been changed. You may give other people a serious infection, or get a serious infection from them.
-- Always use a new sterile needle for each injection. This will reduce the risk of contamination, infection, leakage of medicine, and blocked needles leading to the wrong dose.
-- Do not shake your pen. Shaking can damage the medicine.
-- The pen is not recommended for use by the blind or visually impaired without the assistance of a person trained in the proper use of the product.
+-  Ngenla for injection is a multi-dose pre-filled pen containing 60 mg of medicine.
+-  Ngenla for injection can be given by a patient, caregiver, doctor, nurse or pharmacist. Do not try to inject Ngenla yourself until you are shown the right way to give the injections and read and understand the Instructions for Use. If your doctor, nurse or pharmacist decides that you or a caregiver may be able to give your injections of Ngenla at home, you should receive training on the right way to prepare and inject Ngenla. It is important that you read, understand, and follow these instructions so that you inject Ngenla the right way. It is important to talk to your doctor, nurse or pharmacist to be sure you understand your Ngenla dosing instructions.
+-  To help you remember when to inject Ngenla, you can mark your calendar ahead of time. Call your doctor, nurse or pharmacist if you or your caregiver have any questions about the right way to inject Ngenla.
+-  Each turn (click) of the dose knob increases the dose by 0.5 mg of medicine. You can give from 0.5 mg to 30 mg in a single injection. If your dose is more than 30 mg, you will need to give more than 1 injection. Each injection should be given at a different injection site.
+-  A small amount of the medicine may remain in the pen after all doses have been correctly given. This is normal. Patients should not try to use the remaining solution but get rid of the pen in the correct way.
+-  Do not share your pen with other people, even if the needle has been changed. You may give other people a serious infection, or get a serious infection from them.
+-  Always use a new sterile needle for each injection. This will reduce the risk of contamination, infection, leakage of medicine, and blocked needles leading to the wrong dose.
+-  Do not shake your pen. Shaking can damage the medicine.
+-  The pen is not recommended for use by the blind or visually impaired without the assistance of a person trained in the proper use of the product.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Supplies you will need each time you inject Included in the carton:
 
-- 1 Ngenla 60 mg pen.
+-  1 Ngenla 60 mg pen.
 
 ## Not included in the carton:
 
-- 1 new sterile needle for each injection.
-- Alcohol swabs.
-- Cotton balls or gauze pads.
-- Adhesive bandage.
-- A suitable sharps disposal container for disposal of pen needles and pens.
+-  1 new sterile needle for each injection.
+-  Alcohol swabs.
+-  Cotton balls or gauze pads.
+-  Adhesive bandage.
+-  A suitable sharps disposal container for disposal of pen needles and pens.
 
 ## Ngenla 60 mg pen:
 
@@ -2099,14 +2110,14 @@ Needle attachment
 
 Pen needles are not included with your Ngenla pen. You can use pen needles from 4 mm to 8 mm and between 30G and 32G.
 
-- The following needles have been shown to be compatible with your Ngenla pen:
+-  The following needles have been shown to be compatible with your Ngenla pen:
 - o 32G (Novo Nordisk®, NovoFine® Plus)
 - o 31G (Novo Nordisk®, NovoFine®)
-- o 31G (Becton, Dickinson and Company, BD Ultra-Fine ™ or BD Micro-Fine ™ )
-- The following needles with safety shield have been shown to be compatible with your Ngenla pen:
-- o 30G (Becton, Dickinson and Company, AutoShield Duo ™ )
+- o 31G (Becton, Dickinson and Company, BD Ultra-Fine™ or BD Micro-Fine™)
+-  The following needles with safety shield have been shown to be compatible with your Ngenla pen:
+- o 30G (Becton, Dickinson and Company, AutoShield Duo™)
 - o 30G (Novo Nordisk®, NovoFine® AutoCover®)
-- Talk with your doctor, nurse or pharmacist about the right needle for you.
+-  Talk with your doctor, nurse or pharmacist about the right needle for you.
 
 ## Sterile needle (example) not supplied:
 
@@ -2124,22 +2135,22 @@ Caution: Never use a bent or damaged needle. Always handle pen needles with care
 
 ## Step 1 Getting ready
 
-- Wash and dry your hands.
-- You can use your pen straight from the refrigerator. For a more comfortable injection, leave your pen at room temperature for up to 30 minutes. ( See section 5 'How to store Ngenla' of the Ngenla 60 mg pre-filled pen Package Leaflet) .
-- Check the name, strength, and label of your pen to make sure it is the medicine your doctor has prescribed for you.
-- Check the expiry date on the pen label. Do not use if the expiry date has passed.
-- Do not use your pen if:
+-  Wash and dry your hands.
+-  You can use your pen straight from the refrigerator. For a more comfortable injection, leave your pen at room temperature for up to 30 minutes. (See section 5 'How to store Ngenla' of the Ngenla 60 mg pre-filled pen Package Leaflet) .
+-  Check the name, strength, and label of your pen to make sure it is the medicine your doctor has prescribed for you.
+-  Check the expiry date on the pen label. Do not use if the expiry date has passed.
+-  Do not use your pen if:
 - o it has been frozen or exposed to heat (above 32 °C) or it has been more than 28 days after first use of the pen. (See section 5 'How to store Ngenla' of the Ngenla 60 mg pre-filled pen Package Leaflet) .
 - o it has been dropped
 - o it looks broken or damaged
-- Do not remove the pen cap from your pen - until you are ready to inject.
-- Ngenla can be given in the abdomen (belly), thighs, buttocks, or upper arms.
-- Choose the best place to inject, as recommended by your doctor, nurse or pharmacist. Choose a different injection site for each injection.
-- If more than 1 injection is needed to complete your full dose, each injection should be given in a different injection site.
-- Do not inject into bony areas, areas that are bruised, red, sore or hard, and areas that have scars or skin conditions.
-- Clean the injection site with an alcohol swab.
-- Allow the injection site to dry.
-- Do not touch injection site after cleaning.
+-  Do not remove the pen cap from your pen - until you are ready to inject.
+-  Ngenla can be given in the abdomen (belly), thighs, buttocks, or upper arms.
+-  Choose the best place to inject, as recommended by your doctor, nurse or pharmacist. Choose a different injection site for each injection.
+-  If more than 1 injection is needed to complete your full dose, each injection should be given in a different injection site.
+-  Do not inject into bony areas, areas that are bruised, red, sore or hard, and areas that have scars or skin conditions.
+-  Clean the injection site with an alcohol swab.
+-  Allow the injection site to dry.
+-  Do not touch injection site after cleaning.
 
 Step 2 Choose and clean your injection site
 
@@ -2151,10 +2162,10 @@ Step 3 Check medicine
 
 <!-- image -->
 
-- Pull off the pen cap and keep it for after your injection.
-- Check the medicine inside the cartridge holder.
-- Make sure the medicine is clear and colourless to slightly light yellow. Do not inject the medicine if it is cloudy or dark yellow.
-- Make sure the medicine is free of flakes or particles. Do not inject the medicine if it has flakes or particles.
+-  Pull off the pen cap and keep it for after your injection.
+-  Check the medicine inside the cartridge holder.
+-  Make sure the medicine is clear and colourless to slightly light yellow. Do not inject the medicine if it is cloudy or dark yellow.
+-  Make sure the medicine is free of flakes or particles. Do not inject the medicine if it has flakes or particles.
 
 Note: It is normal to see one or more bubbles in the medicine.
 
@@ -2162,9 +2173,9 @@ Note: It is normal to see one or more bubbles in the medicine.
 
 <!-- image -->
 
-- Take a new needle and pull off the protective paper.
-- Line the needle up with your pen keeping them both straight.
-- Gently push and then screw the needle onto your pen.
+-  Take a new needle and pull off the protective paper.
+-  Line the needle up with your pen keeping them both straight.
+-  Gently push and then screw the needle onto your pen.
 
 Do not over tighten.
 
@@ -2178,9 +2189,8 @@ Step 5 Pull off outer needle cover
 
 <!-- image -->
 
-- Pull off the outer needle cover.
-- •
-- Make sure you keep the outer needle cover. You will need it later to remove the needle.
+-  Pull off the outer needle cover.
+-  Make sure you keep the outer needle cover. You will need it later to remove the needle.
 
 Note: You should see an inner needle cap after you have removed the outer cover. If you do not see this, try to attach the needle again.
 
@@ -2190,21 +2200,23 @@ Step 6 Pull off inner needle cap
 
 <!-- image -->
 
-- Pull off the inner needle cap carefully to show the needle.
-- Throw away the inner needle cap in a sharps container. It is not needed again. Note: If using needle with safety shield, refer to the manufacturer's instructions for use.
+-  Pull off the inner needle cap carefully to show the needle.
+-  Throw away the inner needle cap in a sharps container. It is not needed again.
+
+Note: If using needle with safety shield, refer to the manufacturer's instructions for use.
 
 <div style=\"page-break-after: always\"></div>
 
 <!-- image -->
 
-( 'Yes: Go to new pen set up' has an arrow directing to 'New pen set up (priming)' and 'No' has an arrow directing to 'Setting your prescribed dose' )
+('Yes: Go to new pen set up' has an arrow directing to 'New pen set up (priming)' and 'No' has an arrow directing to 'Setting your prescribed dose')
 
-## New pen set up (priming) -for the first use of a new pen only
+## New pen set up (priming) - for the first use of a new pen only
 
 ## You must set up each new pen (priming) before using it for the first time
 
-- New pen set up is done before each new pen is used for the first time.
-- The purpose of setting up a new pen is to remove air bubbles and make sure you get the correct dose.
+-  New pen set up is done before each new pen is used for the first time.
+-  The purpose of setting up a new pen is to remove air bubbles and make sure you get the correct dose.
 
 Important: Skip Step-A through to Step-C if you have already set up your pen.
 
@@ -2212,7 +2224,7 @@ Important: Skip Step-A through to Step-C if you have already set up your pen.
 
 <!-- image -->
 
-- Turn the dose knob to 1.0 .
+-  Turn the dose knob to 1.0 .
 
 Note: If you turn the dose knob too far, you can turn it back.
 
@@ -2222,16 +2234,14 @@ Step-B: Tap cartridge holder
 
 <!-- image -->
 
-- Hold the pen with the needle pointing up so that the air bubbles can rise.
-- Tap the cartridge holder gently to float any air bubbles to the top.
-- Press the injection button until it cannot go any further and '0' is shown in the dose window.
-- Check for liquid at the needle tip. If liquid appears, your pen is set up.
-- Always make sure that a drop of liquid appears before you inject. If liquid has not appeared, repeat Step-A through to Step-C.
+-  Hold the pen with the needle pointing up so that the air bubbles can rise.
+-  Tap the cartridge holder gently to float any air bubbles to the top.
+-  Press the injection button until it cannot go any further and '0' is shown in the dose window.
+-  Check for liquid at the needle tip. If liquid appears, your pen is set up.
+-  Always make sure that a drop of liquid appears before you inject. If liquid has not appeared, repeat Step-A through to Step-C.
 - o If liquid does not appear after you have repeated Step-A through Step-C five (5) times, attach a new needle and try one (1) more time. Do not use the pen if a drop of liquid still does not appear. Contact your doctor, nurse or pharmacist, and use a new pen.
 
-Important:
-
-Follow Step-B even if you do not see air bubbles.
+- Important: Follow Step-B even if you do not see air bubbles.
 
 Step-C: Press button and check for liquid
 
@@ -2253,33 +2263,30 @@ Step-C: Press button and check for liquid
 
 ## Example B:
 
-30.0mgshown inthedosewindow
+30.0 mg shown in the dose window
 
 <!-- image -->
 
-- Turn the dose knob to set your dose.
+-  Turn the dose knob to set your dose.
 - o The dose can be increased or decreased by turning the dose knob in either direction.
 - o The dose knob turns 0.5 mg at a time.
 - o Your pen contains 60 mg of medicine but you can only set a dose of up to 30 mg for a single injection.
 - o The dose window shows the dose in mg. See Examples A and B .
-- Always check the dose window to make sure you have set the correct dose.
-
-Important: Do not
-
-- press the injection button while setting your dose.
+-  Always check the dose window to make sure you have set the correct dose.
+- Important: Do not press the injection button while setting your dose.
 
 ## What should I do if I cannot set the dose I need?
 
-- If your dose is more than 30 mg you will need more than 1 injection.
-- You can give from 0.5 mg to 30 mg in a single injection.
+-  If your dose is more than 30 mg you will need more than 1 injection.
+-  You can give from 0.5 mg to 30 mg in a single injection.
 - o If you need help dividing up your dose the right way, ask your doctor, nurse or pharmacist.
 - o Use a new needle for each injection (See Step 4: Attach needle) .
 - o If you normally need to give 2 injections for your full dose, be sure to give your second dose.
 
 ## What should I do if I do not have enough medicine left in my pen?
 
-- If your pen contains less than 30 mg of medicine, the dose knob will stop with the remaining amount of medicine shown in the dose window.
-- If there is not enough medicine left in your pen for your full dose, you may either:
+-  If your pen contains less than 30 mg of medicine, the dose knob will stop with the remaining amount of medicine shown in the dose window.
+-  If there is not enough medicine left in your pen for your full dose, you may either:
 - o inject the amount left in your pen, then prepare a new pen to complete your dose in full.
 
 Remember to subtract the dose you have already received. For example, if the dose is 21.5 mg and you can only set the dose knob to 17 mg, you should inject another 4.5 mg with a new pen.
@@ -2294,15 +2301,15 @@ Remember to subtract the dose you have already received. For example, if the dos
 
 <!-- image -->
 
-- Hold your pen so you can see the numbers in the dose window.
-- Insert the needle straight into your skin.
+-  Hold your pen so you can see the numbers in the dose window.
+-  Insert the needle straight into your skin.
 
 ## Step 9 Inject your medicine
 
 <!-- image -->
 
-- Keep holding the needle in the same position in your skin.
-- Press the injection button until it cannot go any further and '0' is shown in the dose window.
+-  Keep holding the needle in the same position in your skin.
+-  Press the injection button until it cannot go any further and '0' is shown in the dose window.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2310,17 +2317,17 @@ Step 10 Count to 10
 
 <!-- image -->
 
-- Continue to press the injection button while counting to 10 . Counting to 10 will allow the full dose of medicine to be given.
-- After counting to 10, let go of the injection button and slowly remove the pen from the injection site by pulling the needle straight out. You may see a drop of medicine at the needle tip. This is normal and does not affect the
+-  Continue to press the injection button while counting to 10 . Counting to 10 will allow the full dose of medicine to be given.
+-  After counting to 10, let go of the injection button and slowly remove the pen from the injection site by pulling the needle straight out.
 
-Note: dose you just received.
+Note: You may see a drop of medicine at the needle tip. This is normal and does not affect the dose you just received.
 
 Step 11 Attach outer needle cover
 
 <!-- image -->
 
-- Carefully place the outer needle cover back on the needle.
-- Press on the outer needle cover until it is secure.
+-  Carefully place the outer needle cover back on the needle.
+-  Press on the outer needle cover until it is secure.
 
 Caution: Never try to put the inner needle cap back on the needle. You may prick yourself with the needle.
 
@@ -2332,12 +2339,12 @@ Step 12 Remove the needle
 
 <!-- image -->
 
-- Unscrew the needle from the pen.
-- Gently pull until the needle comes off. Note: If the needle is still on, replace the outer needle cover and try again. Be sure to apply pressure when unscrewing the needle.
-- Dispose of your used pen needles in a sharps container as instructed by your doctor, nurse or pharmacist and in accordance with local health and safety laws. Keep the sharps container out of the reach of children. Do not reuse needles.
-- Replace the pen cap back onto your pen.
-- Do not recap the pen with a needle attached.
-- If there is any medicine left in your pen, store in the refrigerator between uses. (See section 5 'How to store Ngenla' of the Ngenla 60 mg pre-filled pen Package Leaflet) .
+-  Unscrew the needle from the pen.
+-  Gently pull until the needle comes off. Note: If the needle is still on, replace the outer needle cover and try again. Be sure to apply pressure when unscrewing the needle.
+-  Dispose of your used pen needles in a sharps container as instructed by your doctor, nurse or pharmacist and in accordance with local health and safety laws. Keep the sharps container out of the reach of children. Do not reuse needles.
+-  Replace the pen cap back onto your pen.
+-  Do not recap the pen with a needle attached.
+-  If there is any medicine left in your pen, store in the refrigerator between uses. (See section 5 'How to store Ngenla' of the Ngenla 60 mg pre-filled pen Package Leaflet) .
 
 Step 13 Replace the pen cap
 
@@ -2347,10 +2354,10 @@ Step 13 Replace the pen cap
 
 ## Step 14 After your injection
 
-- Press lightly on the injection site with a clean cotton ball or gauze pad, and hold for a few seconds.
-- Do not rub the injection site. You may have slight bleeding. This is normal.
-- You may cover the injection site with a small adhesive bandage, if needed.
-- If your pen is empty or it has been more than 28 days after first use, throw it away even if it contains unused medicine. Throw away your pen in the sharps container.
-- To help you remember when to dispose of your pen you can write the date of first use on the pen label and below:
+-  Press lightly on the injection site with a clean cotton ball or gauze pad, and hold for a few seconds.
+-  Do not rub the injection site. You may have slight bleeding. This is normal.
+-  You may cover the injection site with a small adhesive bandage, if needed.
+-  If your pen is empty or it has been more than 28 days after first use, throw it away even if it contains unused medicine. Throw away your pen in the sharps container.
+-  To help you remember when to dispose of your pen you can write the date of first use on the pen label and below:
 
 Date of first use \\_\\_\\_\\_\\_\\_ / \\_\\_\\_\\_\\_\\_ / \\_\\_\\_\\_\\_\\_

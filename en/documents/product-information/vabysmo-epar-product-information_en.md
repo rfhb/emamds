@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-08-03 16:52:43
+document_datetime: 2026-08-21 11:28:31
 document_pages: 70
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vabysmo-epar-product-information_en.pdf
 document_name: vabysmo-epar-product-information_en.pdf
 version: success
-processing_time: 25.2013216
-conversion_datetime: 2026-08-04 13:58:44.714041
+processing_time: 23.1166442
+conversion_datetime: 2026-08-23 00:54:02.326859
 docling_version:
-  docling-serve: 1.29.0
-  docling-jobkit: 3.2.0
-  docling: 2.118.0
-  docling-core: 2.90.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -98,9 +98,9 @@ In patients with suboptimal visual and/or anatomic outcomes, treatment with Vaby
 
 If visual and/or anatomic outcomes deteriorate, the treatment interval should be shortened accordingly based on the physician's discretion. The interval between 2 injections should not be shorter than 1 month.
 
-## Duration of treatment
-
 <div style=\"page-break-after: always\"></div>
+
+## Duration of treatment
 
 This medicinal product is intended for long-term treatment. If visual and/or anatomic outcomes indicate that the patient is not benefitting from continued treatment, treatment should be discontinued.
 
@@ -142,11 +142,11 @@ To expel the air bubbles along with excess medicinal product, slowly push the pl
 
 The injection filter needle (included in the package) should be inserted 3.5 to 4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. The injection volume of 0.05 mL is then delivered slowly; a different scleral site should be used for subsequent injections.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Vial
 
 The injection needle (30-gauge x ½ inch, not included in the package) should be inserted 3.5 to 4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe. The injection volume of 0.05 mL is then delivered slowly; a different scleral site should be used for subsequent injections.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Post-injection monitoring
 
@@ -180,11 +180,11 @@ Intravitreal injections, including those with faricimab, have been associated wi
 
 Transient increases in intraocular pressure (IOP) have been seen within 60 minutes of intravitreal injection, including those with faricimab (see section 4.8). Special precaution is needed in patients with poorly controlled glaucoma (do not inject Vabysmo while the IOP is ≥ 30 mmHg). In all cases, both the IOP and perfusion of the optic nerve head must be monitored and managed appropriately.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Systemic effects
 
-Systemic adverse events including arterial thromboembolic events have been reported following intravitreal injection of vascular endothelial growth factor (VEGF) inhibitors and there is a theoretical risk that these may be related to VEGF inhibition. A low incidence rate of arterial thromboembolic events was observed in the faricimab clinical trials in patients with nAMD, DME, and RVO. This is similar to that reported in the other clinical trials with anti-VEGF inhibitors in patients. There are limited data on the safety of faricimab treatment in DME patients with high blood pressure ( ≥ 140/90 mmHg) and vascular disease, and in nAMD and RVO patients ≥ 85 years of age.
-
-<div style=\"page-break-after: always\"></div>
+Systemic adverse events including arterial thromboembolic events have been reported following intravitreal injection of vascular endothelial growth factor (VEGF) inhibitors and there is a theoretical risk that these may be related to VEGF inhibition. A low incidence rate of arterial thromboembolic events was observed in the faricimab clinical trials in patients with nAMD, DME, and RVO. This is similar to that reported in the other clinical trials with anti-VEGF therapies in patients. There are limited data on the safety of faricimab treatment in DME patients with high blood pressure ( ≥ 140/90 mmHg) and vascular disease, and in nAMD and RVO patients ≥ 85 years of age.
 
 ## Immunogenicity
 
@@ -192,7 +192,7 @@ As this is a therapeutic protein, there is a potential for immunogenicity with f
 
 ## Bilateral treatment
 
-The safety and efficacy of faricimab administered in both eyes concurrently have not been studied. Bilateral treatment could cause bilateral ocular adverse reactions and/or potentially lead to an increase in systemic exposure, which could increase the risk of systemic adverse reactions. Until data for bilateral use become available, this is a theoretical risk for faricimab.
+Limited data are available on the safety and efficacy of faricimab therapy administered to both eyes concurrently (see section 5.1). Bilateral treatment could cause bilateral ocular adverse reactions and/or potentially lead to an increase in systemic exposure, which could increase the risk of systemic adverse reactions. Until further data for bilateral use become available, this is a theoretical risk for faricimab.
 
 ## Concomitant use of other anti-VEGF
 
@@ -216,11 +216,13 @@ Treatment should be withheld in patients with:
 
 Retinal pigment epithelial (RPE) tear is a complication of pigment epithelial detachment (PED) in patients with nAMD. Risk factors associated with the development of a retinal pigment epithelial tear after anti-VEGF therapy for nAMD, include a large and/or high pigment epithelial detachment. When initiating faricimab therapy, caution should be used in patients with these risk factors for retinal pigment epithelial tears. RPE tears are common in nAMD patients with PED, treated with intravitreal anti-VEGF agents including faricimab. There was a higher rate of RPE tear in the faricimab group (2.9%) compared to aflibercept group (1.5%). The majority of events occurred during the loading phase, and were mild to moderate, without impact on vision.
 
-## Populations with limited data
-
 <div style=\"page-break-after: always\"></div>
 
-There is only limited experience in the treatment of nAMD and RVO patients ≥ 85 years, and DME patients with type I diabetes, patients with HbA1c over 10%, patients with high-risk proliferative diabetic retinopathy (DR), high blood pressure ( ≥ 140/90 mmHg) and vascular disease, sustained dosing intervals shorter than every 8 weeks (Q8W), or nAMD, DME, and RVO patients with active systemic infections. There is limited safety information on sustained dosing intervals of 8 weeks or less and these may be associated with a higher risk of ocular and systemic adverse reactions, including serious adverse reactions. There is also no experience of treatment with faricimab in diabetic or RVO patients with uncontrolled hypertension and patients with RVO who have failed previous therapy. This lack of information should be considered by the physician when treating such patients. Sodium content
+## Populations with limited data
+
+There is only limited experience in the treatment of nAMD and RVO patients ≥ 85 years, and DME patients with type I diabetes, patients with HbA1c over 10%, patients with high-risk proliferative diabetic retinopathy (DR), high blood pressure ( ≥ 140/90 mmHg) and vascular disease, sustained dosing intervals shorter than every 8 weeks (Q8W), or nAMD, DME, and RVO patients with active systemic infections. There is limited safety information on sustained dosing intervals of 8 weeks or less and these may be associated with a higher risk of ocular and systemic adverse reactions, including serious adverse reactions. There is also no experience of treatment with faricimab in diabetic or RVO patients with uncontrolled hypertension and patients with RVO who have failed previous therapy. This lack of information should be considered by the physician when treating such patients.
+
+## Sodium content
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
 
@@ -248,13 +250,13 @@ There are no or limited amount of data from the use of faricimab in pregnant wom
 
 Faricimab should not be used during pregnancy unless the potential benefit outweighs the potential risk to the foetus.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Breast-feeding
 
 It is unknown whether faricimab is excreted in human milk. A risk to the breast-fed newborn/infant cannot be excluded. Vabysmo should not be used during breast-feeding. A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from faricimab therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
 
 ## Fertility
-
-<div style=\"page-break-after: always\"></div>
 
 No effects on reproductive organs or fertility were observed in a 6-month cynomolgus monkey study with faricimab (see section 5.3).
 
@@ -461,6 +463,10 @@ The incidence of ocular adverse events in the study eye was 53.9% and 52.1% and 
 
 <div style=\"page-break-after: always\"></div>
 
+1 029 patients who had previously completed either TENAYA or LUCERNE were included in AVONELLE-X, a 2-year, multi-centre, long-term extension study designed to evaluate the long-term safety and tolerability of intravitreal faricimab 6 mg, administered at an adjustable dosing regimen.
+
+The long-term safety profile of faricimab observed in AVONELLE-X was consistent with the TENAYA and LUCERNE studies.
+
 ## DME
 
 The safety and efficacy of faricimab were assessed in two randomised, multi-centre, double-masked, active comparator-controlled 2-year non-inferiority studies (YOSEMITE and RHINE) in patients with DME. A total of 1 891 patients were enrolled in the two studies with 1 622 (86%) patients completing the studies through week 100. A total of 1 887 patients were treated with at least one dose through week 56 (1 262 with faricimab). Patient ages ranged from 24 to 91 with a mean [SD] of 62.2 [9.9] years. The overall population included both anti-VEGF naive patients (78%) and patients who had been previously treated with a VEGF inhibitor prior to study participation (22%). In both studies, patients were randomised in a 1:1:1 ratio to one of the three treatment regimens:
@@ -500,7 +506,7 @@ BCVA: Best Corrected Visual Acuity
 
 ETDRS: Early Treatment Diabetic Retinopathy Study
 
-LS: Least Square
+LS: Least Squares
 
 CI: Confidence Interval
 
@@ -529,7 +535,7 @@ BCVA: Best Corrected Visual Acuity
 
 ETDRS: Early Treatment Diabetic Retinopathy Study
 
-LS: Least Square
+LS: Least Squares
 
 CI: Confidence Interval
 
@@ -609,6 +615,14 @@ The long-term safety profile of faricimab observed in RHONE-X was consistent wit
 
 <div style=\"page-break-after: always\"></div>
 
+## Bilateral treatment
+
+Limited data are available on the safety and efficacy of faricimab therapy administered to both eyes concurrently (see section 4.4).
+
+Of the 1 029 patients included in AVONELLE-X, 199 patients received bilateral faricimab injections. In this bilateral use population, the median duration of exposure was 95.1 weeks in the study eye and 36.7 weeks in the fellow eye. The safety profile observed in the bilateral use population was comparable to the overall nAMD study population.
+
+Of the 1 474 patients included in RHONE-X, 416 patients received bilateral faricimab injections. In this bilateral use population, the median duration of exposure was 100 weeks in the study eye and 16.9 weeks in the fellow eye. The safety profile observed in the bilateral use population was comparable to the overall DME study population.
+
 ## RVO
 
 The safety and efficacy of faricimab were assessed in two randomised, multi-centre, double-masked, 72-week long studies in patients with macular oedema secondary to BRVO (BALATON) or CRVO/HRVO (COMINO). Active comparator-controlled data are available through month 6.
@@ -632,9 +646,9 @@ Both studies showed efficacy in the primary endpoint, defined as the change from
 
 Between week 24 and week 68, 81.5% and 74.0% of the patients receiving faricimab up to Q16W adjustable dosing regimen achieved a ≥ Q12W (Q16W or Q12W) dosing interval in BALATON and COMINO, respectively. Of these patients, 72.1% and 61.6% completed at least one cycle of Q12W and maintained ≥ Q12W dosing without an interval reduction below Q12W through week 68 in BALATON and COMINO, respectively; 1.2% and 2.5% of the patients received only Q4W dosing through week 68 in BALATON and COMINO, respectively.
 
-Across studies, at week 24 patients in the faricimab Q4W arm showed improvement in the prespecified efficacy endpoint of change from baseline to week 24 in the NEI VFQ-25 composite score that was comparable to aflibercept Q4W. Faricimab Q4W also demonstrated improvement in the prespecified efficacy endpoint of change from baseline to week 24 in the NEI VFQ-25 near activities and distance activities, that were comparable to aflibercept Q4W. These results were maintained through week 72 when all patients were on faricimab up to Q16W adjustable dosing regimen.
-
 <div style=\"page-break-after: always\"></div>
+
+Across studies, at week 24 patients in the faricimab Q4W arm showed improvement in the prespecified efficacy endpoint of change from baseline to week 24 in the NEI VFQ-25 composite score that was comparable to aflibercept Q4W. Faricimab Q4W also demonstrated improvement in the prespecified efficacy endpoint of change from baseline to week 24 in the NEI VFQ-25 near activities and distance activities, that were comparable to aflibercept Q4W. These results were maintained through week 72 when all patients were on faricimab up to Q16W adjustable dosing regimen.
 
 Table 8: Efficacy outcomes at the week 24 primary endpoint visit and at the end of the study a  in BALATON
 
@@ -736,7 +750,7 @@ Systemic exposure after ocular administration of faricimab is very low.
 
 ## 6.1 List of excipients
 
-L-histidine Acetic acid 30% (for pH adjustment) (E 260) L-methionine Polysorbate 20 (E 432) Sodium chloride D-sucrose Water for injections
+Histidine Acetic acid 30% (for pH adjustment) (E 260) Methionine Polysorbate 20 (E 432) Sodium chloride Sucrose Water for injections
 
 ## 6.2 Incompatibilities
 
@@ -768,7 +782,7 @@ Ensure that the injection is given immediately after preparation of the dose.
 
 ## Pre-filled syringe
 
-Solution for injection in a pre-filled syringe consisting of a glass barrel (type I) with a dose mark, a butyl rubber stopper, and a tamper-evident closure cap (including a rigid tip cap, a butyl rubber tip cap and a luer lock adapter). The pre-filled syringe is assembled with a plunger rod and an extended finger grip. Each pre-filled syringe contains 21 mg faricimab in 0.175 mL solution.
+Solution for injection in a pre-filled syringe consisting of a glass barrel (type I) with a dose mark, a butyl rubber stopper, and a tamper-evident closure cap (including a rigid tip cap, a butyl rubber tip cap and a luer lock adapter). The pre-filled syringe is assembled with a plunger rod and an extended finger grip. Each pre-filled syringe contains 21 mg faricimab in 0.175 mL sterile solution.
 
 Pack size of one sterile Extra Thin Wall injection filter needle (30-gauge × ½ inch, 0.30 mm x 12.7 mm, 5 µm), co-packed with one pre-filled syringe.
 
@@ -831,11 +845,11 @@ Figure D
 
 <!-- image -->
 
-## Dislodge air bubbles
-
 Only use the provided injection filter needle for the administration
 
 <div style=\"page-break-after: always\"></div>
+
+## Dislodge air bubbles
 
 - 6 Hold the syringe with the injection filter needle pointing up. Check the syringe for air bubbles.
 - 7 If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top ( see Figure E ).
@@ -857,7 +871,8 @@ Figure F
 ## Injection procedure
 
 - 9 The injection procedure should be carried out under aseptic conditions.
-- Inject slowly until the rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL.
+
+Inject slowly until the rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL.
 
 Do not recap or detach the injection filter needle from the syringe.
 
@@ -912,9 +927,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## · Periodic safety update reports (PSURs)
 
-The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-The marketing authorisation holder (MAH) shall submit the first PSUR for this medicinal product within 6 months following authorisation.
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European Medicines Agency web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -977,7 +990,7 @@ Each pre-filled syringe contains 21 mg faricimab in 0.175 mL solution.
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: L-histidine, acetic acid, L-methionine, polysorbate 20, sodium chloride, sucrose, water for injections.
+Also contains: histidine, acetic acid, methionine, polysorbate 20, sodium chloride, sucrose, water for injections.
 
 See leaflet for further information
 
@@ -1169,17 +1182,17 @@ VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vabysmo 120 mg/mL solution for injection
-
-faricimab
+Vabysmo 120 mg/mL solution for injection faricimab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-One mL of solution contains 120 mg of faricimab. Each vial contains 28.8 mg faricimab (120 mg/mL).
+One mL of solution contains 120 mg of faricimab.
+
+Each vial contains 28.8 mg faricimab (120 mg/mL).
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains: L-histidine, acetic acid, L-methionine, polysorbate 20, sodium chloride, sucrose, water for injections.
+Also contains: histidine, acetic acid, methionine, polysorbate 20, sodium chloride, sucrose, water for injections.
 
 See leaflet for further information
 
@@ -1187,8 +1200,7 @@ See leaflet for further information
 
 ## Solution for injection
 
-1 x 0.24 mL vial
-
+- 1 x 0.24 mL vial
 - 1 filter needle
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -1365,7 +1377,7 @@ Tell your doctor immediately if you:
 
 Furthermore it is important for you to know that:
 
-- the safety and efficacy of Vabysmo when administered to both eyes at the same time has not been studied and use in this way may lead to an increased risk of side effects.
+- limited data are available on the safety and efficacy of Vabysmo therapy when administered to both eyes at the same time. Until further data are available, it is possible that use in this way may lead to an increased risk of side effects.
 - injections with Vabysmo may cause a temporary increase in eye pressure (intraocular pressure) in some patients within 60minutes of the injection. Your doctor will monitor this after each injection.
 - your doctor will check whether you have other risk factors that may increase the chance of a tear or detachment of one of the layers at the back of the eye (retinal detachment or tear, and retinal pigment epithelial detachment or tear), in which case Vabysmo must be given with caution.
 
@@ -1379,9 +1391,10 @@ There is only limited experience in the treatment of:
 - diabetics with high average blood sugar values (Hb1Ac over 10%).
 - diabetics with an eye disease caused by diabetes called proliferative diabetic retinopathy.
 - diabetics with high blood pressure greater than 140/90 mmHg and disease of the blood vessels.
-- patients with DME receiving injections less than every 8 weeks over a long period of time.
 
 <div style=\"page-break-after: always\"></div>
+
+- patients with DME receiving injections less than every 8 weeks over a long period of time.
 
 There is only limited experience in the treatment of patients receiving injections less than every 8 weeks over a long period of time, and these patients may be at greater risk of side effects.
 
@@ -1427,9 +1440,9 @@ This medicine contains 0.02 mg of polysorbate in each 0.05 mL dose. Polysorbates
 
 The recommended dose is 6 mg of faricimab.
 
-Neovascular (wet) age-related macular degeneration (nAMD)
-
 <div style=\"page-break-after: always\"></div>
+
+Neovascular (wet) age-related macular degeneration (nAMD)
 
 - You will be treated with one injection every month for the first 3 months.
 - After that, you may receive injections up to every 4 months. Your doctor will decide on the frequency of the injections based on the condition of your eye.
@@ -1488,7 +1501,7 @@ Very common (may affect more than 1 in 10 people):
 
 - None
 
-## Common (may affect up to 1 in 10 people ):
+Common (may affect up to 1 in 10 people ):
 
 - Cloudy lens in the eye (cataract)
 - Tear of one of the layers in the back of the eye (retinal pigment epithelial tear -- nAMD only)
@@ -1522,7 +1535,7 @@ Very common (may affect more than 1 in 10 people):
 - Temporary decreased sharpness of vision (visual acuity reduced transiently)
 - Clouding of the lens due to injury (traumatic cataract)
 
-## Not known
+Not known (frequency cannot be estimated from the available data):
 
 - Retinal vasculitis (inflammation of blood vessels in the back of the eye)
 - Retinal occlusive vasculitis (blockage of blood vessels in the back of the eye, typically in presence of inflammation)
@@ -1531,9 +1544,9 @@ When some medicines that work in a similar way to Vabysmo are given, there is kn
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix  V. By reporting side effects you can help provide more information on the safety of this medicine.
-
 <div style=\"page-break-after: always\"></div>
+
+If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix  V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store Vabysmo
 
@@ -1556,7 +1569,7 @@ The pre-filled syringe may be kept at room temperature, 20  C to 25  C, in
 ## What Vabysmo contains
 
 - The active substance is faricimab. One mL solution for injection contains 120 mg faricimab. Each pre-filled syringe contains 21 mg faricimab in 0.175 mL solution. This provides a usable amount to deliver a single dose of 0.05 mL solution containing 6 mg of faricimab.
-- The other ingredients are: L-histidine, acetic acid 30% (E 260), L-methionine, sodium chloride, sucrose, polysorbate 20 (E 432), water for injections (see Section 2 'Vabysmo contains sodium and polysorbate').
+- The other ingredients are: histidine, acetic acid 30% (E 260), methionine, sodium chloride, sucrose, polysorbate 20 (E 432), water for injections (see Section 2 'Vabysmo contains sodium and polysorbate').
 
 ## What Vabysmo looks like and contents of the pack
 
@@ -1576,7 +1589,9 @@ Roche Pharma AG Emil-Barell-Str 1 79639 Grenzach-Wyhlen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien, Luxembourg/Luxemburg N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
+## België/Belgique/Belgien, Luxembourg/Luxemburg
+
+N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
 ## България
 
@@ -1636,7 +1651,7 @@ Roche d.o.o.
 
 Tel: + 385 1 47 22 333
 
-## Ireland/Malta
+## Ireland, Malta
 
 Roche Products (Ireland) Ltd. Ireland/L-Irlanda
 
@@ -1662,7 +1677,7 @@ Roche (Magyarország) Kft. Tel: +36 - 1 279 4500
 
 Roche Nederland B.V.
 
-Tel: +31 (0) 348 438050
+Tel: +31 (0) 348 438000
 
 ## Norge
 
@@ -1951,7 +1966,7 @@ Tell your doctor immediately if you:
 
 Furthermore it is important for you to know that:
 
-- the safety and efficacy of Vabysmo when administered to both eyes at the same time has not been studied and use in this way may lead to an increased risk of side effects.
+- limited data are available on the safety and efficacy of Vabysmo therapy when administered to both eyes at the same time. Until further data are available, it is possible that use in this way may lead to an increased risk of side effects.
 - injections with Vabysmo may cause a temporary increase in eye pressure (intraocular pressure) in some patients within 60 minutes of the injection. Your doctor will monitor this after each injection.
 - your doctor will check whether you have other risk factors that may increase the chance of a tear or detachment of one of the layers at the back of the eye (retinal detachment or tear, and retinal pigment epithelial detachment or tear), in which case Vabysmo must be given with caution.
 
@@ -2015,10 +2030,9 @@ The recommended dose is 6 mg of faricimab.
 
 Neovascular (wet) age-related macular degeneration (nAMD)
 
-- You will be treated with one injection every month for the first 3 months.
-
 <div style=\"page-break-after: always\"></div>
 
+- You will be treated with one injection every month for the first 3 months.
 - After that, you may receive injections up to every 4 months. Your doctor will decide on the frequency of the injections based on the condition of your eye.
 - If your treatment is changed to Vabysmo, your doctor will decide on the frequency after the first injection.
 
@@ -2061,9 +2075,9 @@ Contact your doctor immediately if you have any of the following, which are sign
 - eye pain, increased discomfort, increased eye redness, blurred or decreased vision, a higher number of small particles in your vision, or increased sensitivity to light - these are signs of a possible eye infection, inflammation, or allergic reaction.
 - a sudden decrease or change in vision.
 
-## Other possible side effects
-
 <div style=\"page-break-after: always\"></div>
+
+## Other possible side effects
 
 Other side effects which may occur after Vabysmo treatment include those listed below.
 
@@ -2071,7 +2085,7 @@ Most of the side effects are mild to moderate and will generally disappear withi
 
 Contact your doctor if any of the following side effects become severe.
 
-## Very common (may affect more than 1 in 10 people):
+Very common (may affect more than 1 in 10 people):
 
 - None
 
@@ -2085,7 +2099,7 @@ Common (may affect up to 1 in 10 people ) :
 - Moving spots or dark shapes in your vision (vitreous floaters)
 - Eye pain
 
-## Uncommon (may affect up to 1 in 100 people):
+Uncommon (may affect up to 1 in 100 people):
 
 - Serious inflammation or infection inside the eye (endophthalmitis)
 - Inflammation of the gel-like substance inside the eye/red eye (vitritis)
@@ -2104,12 +2118,12 @@ Common (may affect up to 1 in 10 people ) :
 - Scratched cornea, damage to the clear layer of the eyeball that covers the iris (corneal abrasion)
 - Eye irritation
 
-## Rare (may affect up to 1 in 1 000 people):
+Rare (may affect up to 1 in 1 000 people):
 
 - Temporary decreased sharpness of vision (visual acuity reduced transiently)
 - Clouding of the lens due to injury (traumatic cataract)
 
-## Not known
+Not known (frequency cannot be estimated from the available data):
 
 - Retinal vasculitis (inflammation of blood vessels in the back of the eye)
 - Retinal occlusive vasculitis (blockage of blood vessels in the back of the eye, typically in presence of inflammation)
@@ -2143,7 +2157,7 @@ Prior to use, the unopened vial may be kept at room temperature, 20  C to 25 
 ## What Vabysmo contains
 
 - The active substance is faricimab. One mL solution for injection contains 120 mg faricimab. Each vial contains 28.8 mg faricimab in 0.24 mL solution. This provides a usable amount to deliver a single dose of 0.05 mL solution containing 6 mg of faricimab.
-- The other ingredients are: L-histidine, acetic acid 30% (E 260), L-methionine, sodium chloride, sucrose, polysorbate 20 (E 432), water for injections (see Section 2 'Vabysmo contains sodium and polysorbate').
+- The other ingredients are: histidine, acetic acid 30% (E 260), methionine, sodium chloride, sucrose, polysorbate 20 (E 432), water for injections (see Section 2 'Vabysmo contains sodium and polysorbate').
 
 ## What Vabysmo looks like and contents of the pack
 
@@ -2183,9 +2197,7 @@ Roche Pharmaceuticals A/S Tlf: +45 - 36 39 99 99
 
 ## Deutschland
 
-Roche Pharma AG
-
-Tel: +49 (0) 7624 140
+Roche Pharma AG Tel: +49 (0) 7624 140
 
 ## Eesti
 
@@ -2203,7 +2215,9 @@ Roche (Hellas) A.E.
 
 ## España
 
-Roche Farma S.A. Tel: +34 - 91 324 81 00
+Roche Farma S.A.
+
+Tel: +34 - 91 324 81 00
 
 ## France
 
@@ -2217,25 +2231,23 @@ Roche d.o.o.
 
 Tel: + 385 1 47 22 333
 
-## Ireland/Malta
+## Ireland, Malta
 
 Roche Products (Ireland) Ltd. Ireland/L-Irlanda Tel: +353 (0) 1 469 0700
 
 ## Ísland
 
-Roche Pharmaceuticals A/S c/o Icepharma hf
-
-Sími: +354 540 8000
+Roche Pharmaceuticals A/S c/o Icepharma hf Sími: +354 540 8000
 
 ## Italia
 
 Roche S.p.A.
 
-Tel: +39 - 039 2471
-
 ## Latvija
 
-Roche Latvija SIA Tel: +371 - 6 7039831
+Roche Latvija SIA
+
+Tel: +371 - 6 7039831
 
 ## Lietuva
 
@@ -2243,15 +2255,13 @@ UAB 'Roche Lietuva' Tel: +370 5 2546799
 
 ## Magyarország
 
-Roche (Magyarország) Kft.
-
-Tel: +36 - 1 279 4500
+Roche (Magyarország) Kft. Tel: +36 - 1 279 4500
 
 ## Nederland
 
 Roche Nederland B.V.
 
-Tel: +31 (0) 348 438050
+Tel: +31 (0) 348 438000
 
 ## Norge
 
@@ -2259,7 +2269,9 @@ Roche Norge AS Tlf: +47 - 22 78 90 00
 
 ## Österreich
 
-Roche Austria GmbH Tel: +43 (0) 1 27739
+Roche Austria GmbH
+
+Tel: +43 (0) 1 27739
 
 ## Polska
 
@@ -2273,7 +2285,9 @@ Roche Farmacêutica Química, Lda Tel: +351 - 21 425 70 00
 
 ## România
 
-Roche România S.R.L. Tel: +40 21 206 47 01
+Roche România S.R.L.
+
+Tel: +40 21 206 47 01
 
 ## Slovenija
 
@@ -2295,8 +2309,6 @@ Puh/Tel: +358 (0) 10 554 500
 
 Roche AB
 
-Tel: +46 (0) 8 726 1200
-
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
@@ -2305,13 +2317,13 @@ Tel: +46 (0) 8 726 1200
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/en.
 
-- &lt;--------------------------------------------------------------------------------------------------------------&gt;
+&lt;--------------------------------------------------------------------------------------------------------------&gt;
 
 <div style=\"page-break-after: always\"></div>
 
 The following information is intended for healthcare professionals only:
 
-## Instructions for use of vial:
+Instructions for use of vial:
 
 ## Before you start:
 

@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/febuxostat-viatris.html
 document_name: febuxostat-viatris.html
 version: success
-processing_time: 0.14758
-conversion_datetime: 2026-08-22 22:54:02.207805
+processing_time: 0.150563
+conversion_datetime: 2026-08-22 23:28:16.127076
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

@@ -1,36 +1,30 @@
 ---
-document_datetime: 2025-11-27 11:38:24
-document_pages: 2
+document_datetime: 2026-08-19 17:28:45
+document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/rubraca-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: rubraca-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 3.395035
-conversion_datetime: 2025-12-19 00:21:14.285032
+processing_time: 1.619807
+conversion_datetime: 2026-08-23 00:17:09.281288
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## Rubraca
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency' s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessmenthistory'section.Forthe completeproduct lifecycleprocedures,you mayneedtoalsorefertoEPAR-Proceduralsteps taken andscientific informationafterauthorisation(archive).
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Applicationnumber    | Scope                                  | Opinion/ Notification 1 issued on   | Commission Decision Issued²/ amendedon   | Product Information affected3   | Summary   |
-|----------------------|----------------------------------------|-------------------------------------|------------------------------------------|---------------------------------|-----------|
-| Variation typeIA_IN/ | This was an application for a group of | 27/11/2025                          |                                          | SmPC,Annex                      |           |
-
-1 Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions areissuedforallotherprocedures.
-
-3SmPC(Summary ofProductCharacteristics),AnnexII,Labelling,PL(PackageLeaflet).
-
-2 A Commission decision(CD) is issued for procedures that affect the terms of the marketing authorisation(e.g.summary of product characteristics, annexII, labelling,package leaflet).The CDisissuedwithintwomonths of the opinionforvariationsfallingunderthescope ofArticle23.1a(a)ofRegulation(EU)No.712/2012,orwithinoneyearforotherprocedures.
+| Application number   | Scope    | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|----------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type II /  | Outcome: | 11/06/2026                          |                                             |                                  |           |
 
 <!-- image -->
 
@@ -38,5 +32,11 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/VR/0000313308   | variations. B.II.e.5.a Change in the number of units (e.g. tablets, ampoules, etc.) in a pack - B.1I.e.5.a.1 Change within the range of the currently approvedpacksizes-Accepted B.II.b.1Replacementor addition of a manufacturing site for part or all of the manufacturing process of the finished product - B.1I1.b.1.a Secondary packaging site -Accepted B.II.b.2.cReplacementoradditionofa manufacturerresponsibleforimportation and/or batch release - B.1I.b.2.c.1 Not includingbatch control/testing-Accepted B.II.e.5.a Change in the number of units (e.g. tablets, ampoules, etc.) in a pack - B.II.e.5.a.1 Change within therange of the currently approved pack sizes-Accepted B.II.e.5.a Change in the number of units (e.g. tablets, ampoules, etc.) in a pack - B.1I.e.5.a.1 Change within the range of the currentlyapprovedpacksizes-Accepted   | II, Labelling and PL   |
-|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
+| EMA/VR/0000332297                        | C.9 Introduction of, or change(s) to, the obligations and conditions of a marketing authorisation, including the risk management plan - C.9.c) Implementation of change(s) which require to be further substantiated by new additional data to be submitted by the holder where significant assessment by the competent authority is required - Accepted Submission of the updated RMP version 9.0 in order to revise the originally anticipated overall survival (OS) maturity threshold for the ATHENA MONO study.                                                                    |            |                                  |
+|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------------------------------|
+| Variation type IA_IN / EMA/VR/0000313308 | Outcome: This was an application for a group of variations. B.II.e.5.a Change in the number of units (e.g. tablets, ampoules, etc.) in a pack - B.II.e.5.a.1 Change within the range of the currently approved pack sizes - Accepted B.II.b.1 Replacement or addition of a manufacturing site for part or all of the manufacturing process of the finished product - B.II.b.1.a Secondary packaging site - Accepted B.II.b.2.c Replacement or addition of a manufacturer responsible for importation and/or batch release - B.II.b.2.c.1 Not including batch control/testing - Accepted | 27/11/2025 | SmPC, Annex II, Labelling and PL |
+
+<div style=\"page-break-after: always\"></div>
+
+| B.II.e.5.a Change in the number of units (e.g. tablets, ampoules, etc.) in a pack - B.II.e.5.a.1 Change within the range of the currently approved pack sizes - Accepted B.II.e.5.a Change in the number of units (e.g. tablets, ampoules, etc.) in a pack - B.II.e.5.a.1 Change within the range of the currently approved pack sizes - Accepted   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

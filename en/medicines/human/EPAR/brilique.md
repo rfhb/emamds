@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/brilique.html
 document_name: brilique.html
 version: success
-processing_time: 0.1803376
-conversion_datetime: 2026-08-22 22:56:12.69407
+processing_time: 0.181863
+conversion_datetime: 2026-08-22 23:30:28.913668
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

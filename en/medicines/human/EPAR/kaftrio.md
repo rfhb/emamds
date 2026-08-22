@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-31 11:31:00
+document_datetime: 2026-08-19 12:41:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kaftrio.html
 document_name: kaftrio.html
 version: success
-processing_time: 0.1449233
-conversion_datetime: 2026-08-01 11:35:54.47534
+processing_time: 0.1849105
+conversion_datetime: 2026-08-22 22:52:20.597363
 docling_version:
-  docling-serve: 1.29.0
-  docling-jobkit: 3.2.0
-  docling: 2.117.0
-  docling-core: 2.89.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.1
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.6-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Kaftrio
 
@@ -52,7 +52,7 @@ Cystic fibrosis can be caused by various mutations (changes) in the gene for a p
 
 Kaftrio is used in combination with ivacaftor in patients whose cystic fibrosis is due to at least one *F508del* mutation in the *CFTR* gene.
 
-Cystic fibrosis is rare, and Kaftrio was designated an 'orphan medicine' (a medicine used in rare diseases) on 14 December 2018. Further information on the orphan designation can be found here: [https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu3182117](https://www.ema.europa.eu/en/medicines/human/orphan-designations/eu3182117)
+Cystic fibrosis is rare, and Kaftrio was designated an 'orphan medicine' (a medicine used in rare diseases) on 14 December 2018.
 
 Kaftrio contains the active substances ivacaftor, tezacaftor and elexacaftor.
 
@@ -122,7 +122,7 @@ English (EN) (120.49 KB - PDF)
 
 [View](/en/documents/overview/kaftrio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-810)
+[Other languages (22)](#file-language-dropdown-379)
 
 български (BG) (155.38 KB - PDF)
 
@@ -268,167 +268,167 @@ English (EN) (2.62 MB - PDF)
 
 Kaftrio : EPAR - Product information
 
-English (EN) (1.11 MB - PDF)
+English (EN) (1.26 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/en/documents/product-information/kaftrio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-273)
+[Other languages (24)](#file-language-dropdown-862)
 
-български (BG) (1.49 MB - PDF)
+български (BG) (1.69 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/bg/documents/product-information/kaftrio-epar-product-information_bg.pdf)
 
-español (ES) (945.96 KB - PDF)
+español (ES) (1.44 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/es/documents/product-information/kaftrio-epar-product-information_es.pdf)
 
-čeština (CS) (1.33 MB - PDF)
+čeština (CS) (1.64 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/cs/documents/product-information/kaftrio-epar-product-information_cs.pdf)
 
-dansk (DA) (1.23 MB - PDF)
+dansk (DA) (1.48 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/da/documents/product-information/kaftrio-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.21 MB - PDF)
+Deutsch (DE) (1.48 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/de/documents/product-information/kaftrio-epar-product-information_de.pdf)
 
-eesti (ET) (1.35 MB - PDF)
+eesti (ET) (1.5 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/et/documents/product-information/kaftrio-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.39 MB - PDF)
+ελληνικά (EL) (1.64 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/el/documents/product-information/kaftrio-epar-product-information_el.pdf)
 
-français (FR) (1.01 MB - PDF)
+français (FR) (1.67 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/fr/documents/product-information/kaftrio-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.32 MB - PDF)
+hrvatski (HR) (1.63 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/hr/documents/product-information/kaftrio-epar-product-information_hr.pdf)
 
-italiano (IT) (987.86 KB - PDF)
+italiano (IT) (1.44 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/it/documents/product-information/kaftrio-epar-product-information_it.pdf)
 
-latviešu (LV) (1009.99 KB - PDF)
+latviešu (LV) (1.55 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/lv/documents/product-information/kaftrio-epar-product-information_lv.pdf)
 
-lietuvių (LT) (1012.11 KB - PDF)
+lietuvių (LT) (1.59 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/lt/documents/product-information/kaftrio-epar-product-information_lt.pdf)
 
-magyar (HU) (1.2 MB - PDF)
+magyar (HU) (1.49 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/hu/documents/product-information/kaftrio-epar-product-information_hu.pdf)
 
-Malti (MT) (1.12 MB - PDF)
+Malti (MT) (1.71 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/mt/documents/product-information/kaftrio-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.07 MB - PDF)
+Nederlands (NL) (1.39 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/nl/documents/product-information/kaftrio-epar-product-information_nl.pdf)
 
-polski (PL) (1.1 MB - PDF)
+polski (PL) (1.62 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/pl/documents/product-information/kaftrio-epar-product-information_pl.pdf)
 
-português (PT) (957.22 KB - PDF)
+português (PT) (1.39 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/pt/documents/product-information/kaftrio-epar-product-information_pt.pdf)
 
-română (RO) (1.05 MB - PDF)
+română (RO) (1.61 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/ro/documents/product-information/kaftrio-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.08 MB - PDF)
+slovenčina (SK) (1.67 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/sk/documents/product-information/kaftrio-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.01 MB - PDF)
+slovenščina (SL) (1.42 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/sl/documents/product-information/kaftrio-epar-product-information_sl.pdf)
 
-suomi (FI) (1.12 MB - PDF)
+suomi (FI) (1.48 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/fi/documents/product-information/kaftrio-epar-product-information_fi.pdf)
 
-svenska (SV) (978.91 KB - PDF)
+svenska (SV) (1.38 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/sv/documents/product-information/kaftrio-epar-product-information_sv.pdf)
 
-Íslenska (IS) (1010 KB - PDF)
+Íslenska (IS) (1.51 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/is/documents/product-information/kaftrio-epar-product-information_is.pdf)
 
-norsk (NO) (912.26 KB - PDF)
+norsk (NO) (1.36 MB - PDF)
 
-**First published:** 21/08/2020 **Last updated:** 19/03/2026
+**First published:** 21/08/2020 **Last updated:** 19/08/2026
 
 [View](/no/documents/product-information/kaftrio-epar-product-information_no.pdf)
 
-**Latest procedure affecting product information:** VR/0000333715
+**Latest procedure affecting product information:** VR/0000332463
 
-18/03/2026
+23/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** .
+This medicine's product information is available in all **official EU languages** .  
 Select 'available languages' to access the language you need.
 
 Product information documents contain:
@@ -447,7 +447,7 @@ English (EN) (65.15 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kaftrio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-779)
+[Other languages (24)](#file-language-dropdown-689)
 
 български (BG) (84.99 KB - PDF)
 
@@ -633,7 +633,7 @@ Kaftrio granules are indicated in a combination regimen with ivacaftor for the t
 - **Marketing authorisation issued**
     - 21/08/2020
 - **Revision**
-    - 33
+    - 34
 
 ## Assessment history
 
@@ -645,9 +645,9 @@ Collapse section
 
 Kaftrio : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (196.48 KB - PDF)
+English (EN) (189.25 KB - PDF)
 
-**First published:** 10/04/2025 **Last updated:** 29/06/2026
+**First published:** 10/04/2025 **Last updated:** 19/08/2026
 
 [View](/en/documents/procedural-steps-after/kaftrio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -925,6 +925,6 @@ English (EN) (157.36 KB - PDF)
 
 **This page was last updated on**
 
-31/07/2026
+19/08/2026
 
 ## Share this page

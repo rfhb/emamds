@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 20:40:01
+document_datetime: 2026-08-18 17:09:53
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/parsabiv-epar-product-information_en.pdf
 document_name: parsabiv-epar-product-information_en.pdf
 version: success
-processing_time: 14.1550675
-conversion_datetime: 2025-12-29 22:24:55.111904
+processing_time: 9.8270493
+conversion_datetime: 2026-08-23 00:44:57.781347
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -84,8 +84,8 @@ In the event that clinically meaningful decreases in corrected serum calcium lev
 
 | Corrected serum calcium value or clinical symptoms of hypocalcaemia*:   | Recommendations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |-------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| < 8.3 mg/dL (2.08 mmol/L) and ≥ 7.5 mg/dL (1.88 mmol/L)                 |  If clinically indicated: - start or increase calcium supplements, calcium- containing phosphate binders, and/or vitamin D sterols. - increase dialysate calcium concentration. - consider reducing Parsabiv dose.                                                                                                                                                                                                                                                                                                                                                                                                |
-| < 7.5 mg/dL (1.88 mmol/L) or symptoms of hypocalcaemia                  |  Stop Parsabiv until corrected serum calcium levels are ≥ 8.3 mg/dL (2.08 mmol/L) and symptoms of hypocalcaemia (if present) have resolved.  If clinically indicated: - start or increase calcium supplements, calcium- containing phosphate binders, and/or vitamin D sterols. - increase dialysate calcium concentration.  Reinitiate Parsabiv at a dose 5 mg lower than the last administered dose. If patient's last administered dose was 2.5 mg or 5 mg, reinitiate at 2.5 mg once corrected serum calcium levels are ≥ 8.3 mg/dL (2.08 mmol/L) and symptoms of hypocalcaemia (if present) have resolved. |
+| < 8.3 mg/dL (2.08 mmol/L) and ≥ 7.5 mg/dL (1.88 mmol/L)                 | • If clinically indicated: - start or increase calcium supplements, calcium- containing phosphate binders, and/or vitamin D sterols. - increase dialysate calcium concentration. - consider reducing Parsabiv dose.                                                                                                                                                                                                                                                                                                                                                                                                |
+| < 7.5 mg/dL (1.88 mmol/L) or symptoms of hypocalcaemia                  | • Stop Parsabiv until corrected serum calcium levels are ≥ 8.3 mg/dL (2.08 mmol/L) and symptoms of hypocalcaemia (if present) have resolved. • If clinically indicated: - start or increase calcium supplements, calcium- containing phosphate binders, and/or vitamin D sterols. - increase dialysate calcium concentration. • Reinitiate Parsabiv at a dose 5 mg lower than the last administered dose. If patient's last administered dose was 2.5 mg or 5 mg, reinitiate at 2.5 mg once corrected serum calcium levels are ≥ 8.3 mg/dL (2.08 mmol/L) and symptoms of hypocalcaemia (if present) have resolved. |
 
 * Total calcium was measured using Roche modular analyser. For albumin levels &lt; 4 g/dL cCa (mg/dL) = Total Ca (mg/dL) + (4 - albumin[g/dL])*0.8.
 
@@ -113,7 +113,7 @@ The safety and efficacy of etelcalcetide in children and adolescents less than 1
 
 Parsabiv is administered into the venous line of the dialysis circuit at the end of the haemodialysis treatment during rinse-back or intravenously after rinse-back. When given during rinse-back at least 150 mL of rinse-back volume should be administered after injection. If rinse-back is completed and Parsabiv was not administered, then it may be administered intravenously followed by at least 10 mL sodium chloride 9 mg/mL (0.9%) solution for injection flush volume.
 
-Parsabiv should not be diluted.
+## Parsabiv should not be diluted.
 
 Parenteral medicinal products should be inspected visually for particulate matter and change in colour prior to administration.
 
@@ -163,7 +163,7 @@ In clinical studies, 7.1% of patients with SHPT treated with etelcalcetide for u
 
 ## Excipient with known effect
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially ' sodium-free ' .
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -203,7 +203,7 @@ Very common adverse reactions with Parsabiv are blood calcium decreased (64%), v
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions are listed below using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data).
+Adverse reactions are listed below using the following convention: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt; 1/10); uncommon ( ≥ 1/1,000 to &lt; 1/100); rare ( ≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -238,11 +238,9 @@ In the combined placebo-controlled studies, the subject incidence of adjudicated
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 <div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -270,11 +268,9 @@ Two 6-month, double-blind, placebo-controlled clinical studies were conducted in
 
 The primary endpoint in each study was the proportion of patients with &gt; 30% reduction from baseline in PTH during the EAP (EAP, defined as weeks 20 to 27 inclusive). The secondary endpoints were the proportion of patients with a mean PTH ≤ 300 pg/mL during the EAP, and percent change from baseline during the EAP for PTH, serum cCa, phosphate and calcium phosphate product (Ca × P).
 
-Demographic and baseline characteristics between the two groups in each study were similar. The mean age of patients across the 2 studies was 58.2 (range 21 to 93) years. Mean (SE) baseline PTH concentrations across the 2 studies were 846.9 (21.8) pg/mL, and 835.9 (21.0) pg/mL for the Parsabiv and placebo groups, respectively with approximately 21% of subjects enrolling across both studies
+Demographic and baseline characteristics between the two groups in each study were similar. The mean age of patients across the 2 studies was 58.2 (range 21 to 93) years. Mean (SE) baseline PTH concentrations across the 2 studies were 846.9 (21.8) pg/mL, and 835.9 (21.0) pg/mL for the Parsabiv and placebo groups, respectively with approximately 21% of subjects enrolling across both studies having baseline PTH &gt; 1,000 pg/mL. The average duration of haemodialysis prior to study entry was 5.4 years and 68% of patients were receiving vitamin D sterols at study entry, with 83% receiving phosphate binders.
 
 <div style=\"page-break-after: always\"></div>
-
-having baseline PTH &gt; 1,000 pg/mL. The average duration of haemodialysis prior to study entry was 5.4 years and 68% of patients were receiving vitamin D sterols at study entry, with 83% receiving phosphate binders.
 
 Both studies demonstrated that Parsabiv reduced PTH, while lowering calcium, phosphate and Ca × P. Results of all primary and secondary endpoints were statistically significant and the results were consistent across both studies as shown in table 2.
 
@@ -286,13 +282,13 @@ Table 2. Effects of Parsabiv on PTH, corrected serum calcium, phosphate and Ca �
 | PTH                                                        |                    |                   |                    |                   |
 | Patients with > 30% reduction in PTH during the EAP, n (%) | 188 (74.0) a       | 21 (8.3)          | 192 (75.3) a       | 25 (9.6)          |
 | Patients with ≤ 300 pg/mL in PTH during the EAP, n (%)     | 126 (49.6) a       | 13 (5.1)          | 136 (53.3) a       | 12 (4.6)          |
-| Mean percent change during the EAP, %(SE)                  | -55.11 (1.94) a    | 13.00 (2.81)      | -57.39 (1.91) a    | 13.72 (2.50)      |
+| Mean percent change during the EAP, % (SE)                 | -55.11 (1.94) a    | 13.00 (2.81)      | -57.39 (1.91) a    | 13.72 (2.50)      |
 | Corrected serum calcium                                    |                    |                   |                    |                   |
-| Mean percent change during the EAP, %(SE)                  | -7.29 (0.53) a     | 1.18 (0.29)       | -6.69 (0.55) a     | 0.58 (0.29)       |
+| Mean percent change during the EAP, % (SE)                 | -7.29 (0.53) a     | 1.18 (0.29)       | -6.69 (0.55) a     | 0.58 (0.29)       |
 | Phosphate                                                  |                    |                   |                    |                   |
-| Mean percent change during the EAP, %(SE)                  | -7.71 (2.16) b     | -1.31 (1.42)      | -9.63 (1.61) a     | -1.60 (1.42)      |
+| Mean percent change during the EAP, % (SE)                 | -7.71 (2.16) b     | -1.31 (1.42)      | -9.63 (1.61) a     | -1.60 (1.42)      |
 | Ca × P                                                     |                    |                   |                    |                   |
-| Mean percent change during the EAP, %(SE)                  | -14.34 (2.06) a    | -0.19 (1.44)      | -15.84 (1.57) a    | -1.06 (1.42)      |
+| Mean percent change during the EAP, % (SE)                 | -14.34 (2.06) a    | -0.19 (1.44)      | -15.84 (1.57) a    | -1.06 (1.42)      |
 
 Parsabiv decreased PTH regardless of baseline PTH, duration of dialysis, and whether or not patients were receiving vitamin D sterols. Patients with lower screening PTH levels were more likely to reach PTH ≤ 300 pg/mL during EAP.
 
@@ -312,9 +308,9 @@ Results from a study which evaluated changes in corrected serum calcium levels w
 
 ## Open-label extension study
 
-A 52-week, single arm extension study to the placebo-controlled and 'switch' studies described above was conducted to characterise the long term safety and efficacy of Parsabiv in 891 SHPT patients with CKD on haemodialysis. All subjects received Parsabiv at a starting dose of 5 mg 3 times a week. The dose of Parsabiv could be titrated at weeks 5, 9, 17, 25, 33, 41, and 49 to a maximum dose of 15 mg to achieve target PTH levels ≤ 300 pg/mL while maintaining serum cCa concentrations.
+A 52-week, single arm extension study to the placebocontrolled and 'switch' studies described above was conducted to characterise the long term safety and efficacy of Parsabiv in 891 SHPT patients with CKD on haemodialysis. All subjects received Parsabiv at a starting dose of 5 mg 3 times a week. The dose of Parsabiv could be titrated at weeks 5, 9, 17, 25, 33, 41, and 49 to a maximum dose of 15 mg to achieve target PTH levels ≤ 300 pg/mL while maintaining serum cCa concentrations.
 
-At the end of 52 weeks, Parsabiv was not associated with any new safety findings and demonstrated maintenance of treatment effect as evidenced by a decrease in pre-dialysis PTH by &gt; 30% from baseline in 2/3 rd of patients. In addition, Parsabiv decreased pre-dialysis PTH to ≤ 300 pg/mL in more than 50% of patients and decreased mean PTH, cCa, cCa × P, and phosphate from baseline.
+At the end of 52 weeks, Parsabiv was not associated with any new safety findings and demonstrated maintenance of treatment effect as evidenced by a decrease in pre-dialysis PTH by &gt; 30% from baseline in 2/3 rd of patients. In addition, Parsabiv decreased predialysis PTH to ≤ 300 pg/mL in more than 50% of patients and decreased mean PTH, cCa, cCa × P, and phosphate from baseline.
 
 ## Paediatric population
 
@@ -332,11 +328,9 @@ Etelcalcetide is not metabolised by CYP450 enzymes. Etelcalcetide is biotransfor
 
 ## Elimination
 
-Intravenous administration 3 times per week at the end of a haemodialysis session resulted in an effective half-life of 3 to 5 days. Etelcalcetide is rapidly cleared in subjects with normal renal function, whilst in CKD patients requiring haemodialysis, etelcalcetide was predominantly eliminated by haemodialysis. Etelcalcetide was efficiently removed with a haemodialysis clearance value of 7.66 L/hour. Following a single radiolabelled dose of etelcalcetide in CKD patients with secondary
+Intravenous administration 3 times per week at the end of a haemodialysis session resulted in an effective half-life of 3 to 5 days. Etelcalcetide is rapidly cleared in subjects with normal renal function, whilst in CKD patients requiring haemodialysis, etelcalcetide was predominantly eliminated by haemodialysis. Etelcalcetide was efficiently removed with a haemodialysis clearance value of 7.66 L/hour. Following a single radiolabelled dose of etelcalcetide in CKD patients with secondary HPT receiving haemodialysis, approximately 60% of dosed [ 14 C]-etelcalcetide was recovered in dialysate and approximately 7% recovered in urine and faeces combined over 175 days of collection period. The inter-subject variability of the system clearance in the patient population is approximately 70%.
 
 <div style=\"page-break-after: always\"></div>
-
-HPT receiving haemodialysis, approximately 60% of dosed [ 14 C]-etelcalcetide was recovered in dialysate and approximately 7% recovered in urine and faeces combined over 175 days of collection period. The inter-subject variability of the system clearance in the patient population is approximately 70%.
 
 ## Linearity/non-linearity
 
@@ -384,12 +378,12 @@ This medicinal product must not be mixed with other medicinal products.
 
 Once removed from the refrigerator:
 
--  Parsabiv is stable for a maximum of 7 cumulative days if stored in the original carton. No special temperature storage requirements are needed.
--  If removed from the original carton Parsabiv is stable for a maximum of 4 hours if protected from direct sunlight.
+- Parsabiv is stable for a maximum of 7 cumulative days if stored in the original carton. No special temperature storage requirements are needed.
+- If removed from the original carton Parsabiv is stable for a maximum of 4 hours if protected from direct sunlight.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C).
+Store in a refrigerator (2°C -8°C).
 
 Keep the vial in the outer carton in order to protect from light.
 
@@ -459,7 +453,7 @@ EU/1/16/1142/012 - 42 vials
 
 Date of first authorisation: 11 November 2016
 
-Date of latest renewal:
+Date of latest renewal: 16 September 2021
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -470,7 +464,8 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
@@ -492,7 +487,7 @@ Medicinal product subject to medical prescription
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -500,14 +495,14 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -535,11 +530,13 @@ Each vial contains 2.5 mg of etelcalcetide (as hydrochloride).
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: Sodium chloride, succinic acid, water for injections, hydrochloric acid, sodium hydroxide. See leaflet for further information.
+Excipients: Sodium chloride, succinic acid, water for injections, hydrochloric acid, sodium hydroxide.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection.
+Solution for injection.
 
 1 vial (0.5 mL)
 
@@ -569,23 +566,26 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
 
 Keep in the original carton in order to protect from light.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Amgen Europe B.V. Minervum 7061, 4817 ZK Breda, The Netherlands
+Amgen Europe B.V.
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+Minervum 7061,
+
+4817 ZK Breda,
+
+The Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/16/1142/001
 
@@ -600,28 +600,20 @@ EU/1/16/1142/004
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
-
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -675,7 +667,9 @@ Each vial contains 5 mg of etelcalcetide (as hydrochloride).
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients: Sodium chloride, succinic acid, water for injections, hydrochloric acid, sodium hydroxide. See leaflet for further information.
+Excipients: Sodium chloride, succinic acid, water for injections, hydrochloric acid, sodium hydroxide.
+
+See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -716,18 +710,25 @@ Store in a refrigerator.
 
 Keep in the original carton in order to protect from light.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 | 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|----------------------------------------------------------|
 
-Amgen Europe B.V. Minervum 7061, 4817 ZK Breda, The Netherlands
+Amgen Europe B.V. Minervum 7061, 4817 ZK Breda,
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+The Netherlands
 
-EU/1/16/1142/005 EU/1/16/1142/006 EU/1/16/1142/007 EU/1/16/1142/008
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
+
+EU/1/16/1142/005
+
+EU/1/16/1142/006
+
+EU/1/16/1142/007
+
+EU/1/16/1142/008
 
 | 13.   | BATCH NUMBER   |
 |-------|----------------|
@@ -745,21 +746,23 @@ Lot
 
 Justification for not including Braille accepted.
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
-|------------------------------------------------------------------|
-| VIAL LABEL                                                       |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| VIAL LABEL                                                         |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
@@ -841,23 +844,26 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-| 9.   | SPECIAL STORAGE CONDITIONS   |
-|------|------------------------------|
+## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
 
 Keep in the original carton in order to protect from light.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
 
-| 11.   | NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
-|-------|----------------------------------------------------------|
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Amgen Europe B.V. Minervum 7061, 4817 ZK Breda, The Netherlands
+Amgen Europe B.V.
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+Minervum 7061,
+
+4817 ZK Breda,
+
+The Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/16/1142/009
 
@@ -867,37 +873,32 @@ EU/1/16/1142/011
 
 EU/1/16/1142/012
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
-
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMAN READABLE DATA   |
+|-------|-------------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| VIAL LABEL                                                         |
+MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+VIAL LABEL
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
 |------|----------------------------------------------------------------|
@@ -931,11 +932,11 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the patient
-
 <div style=\"page-break-after: always\"></div>
 
-Parsabiv 2.5 mg solution for injection Parsabiv 5 mg solution for injection Parsabiv 10 mg solution for injection etelcalcetide
+## Package leaflet: Information for the patient
+
+## Parsabiv 2.5 mg solution for injection Parsabiv 5 mg solution for injection Parsabiv 10 mg solution for injection etelcalcetide
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -971,8 +972,8 @@ In secondary hyperparathyroidism too much PTH is produced by the parathyroid gla
 
 Before you are given Parsabiv, tell your doctor if you have or have ever had:
 
--  heart problems, such as heart failure or arrhythmias (abnormal heart rhythm);
--  seizures (fits or convulsions).
+- heart problems, such as heart failure or arrhythmias (abnormal heart rhythm);
+- seizures (fits or convulsions).
 
 Parsabiv reduces calcium levels. Please tell your doctor if you have spasms, twitches, or cramps in your muscles, or numbness or tingling in your fingers, toes or around your mouth or seizures, confusion or loss of consciousness while being treated with Parsabiv. For additional information see section 4.
 
@@ -1006,7 +1007,7 @@ Parsabiv has no or negligible influence on the ability to drive and use machines
 
 ## Parsabiv contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium -free'.
 
 ## 3. How to use Parsabiv
 
@@ -1026,30 +1027,30 @@ Low calcium levels in blood (hypocalcaemia) have been reported commonly (may aff
 
 ## Very common: may affect more than 1 in 10 people
 
--  Nausea
--  Vomiting
--  Diarrhoea
--  Muscle spasms
--  Low calcium levels in blood with no symptoms
+- Nausea
+- Vomiting
+- Diarrhoea
+- Muscle spasms
+- Low calcium levels in blood with no symptoms
 
 ## Common: may affect up to 1 in 10 people
 
--  High potassium levels in blood
--  Low phosphate levels in blood
--  Headache
--  Numbness or tingling sensation
--  Worsening heart failure
--  Disturbances in the heart's electrical activity seen as QT prolongation on electrocardiogram
--  Low blood pressure
--  Muscle pain
+- High potassium levels in blood
+- Low phosphate levels in blood
+- Headache
+- Numbness or tingling sensation
+- Worsening heart failure
+- D isturbances in the heart's electrical activity seen as QT prolongation on electrocardiogram
+- Low blood pressure
+- Muscle pain
 
 ## Uncommon: may affect up to 1 in 100 people
 
--  Seizures (fits or convulsions); for additional information see section 2
+- Seizures (fits or convulsions); for additional information see section 2
 
 ## Not known: frequency cannot be estimated from the available data
 
--  Allergic reactions (including anaphylactic reactions)
+- Allergic reactions (including anaphylactic reactions)
 
 ## Reporting of side effects
 
@@ -1061,14 +1062,14 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton after EXP. The expiry date refers to the last day of that month.
 
-## Store in a refrigerator (2°C - 8°C).
+## Store in a refrigerator (2°C -8°C).
 
 Keep the vial in the outer carton in order to protect from light.
 
 Once removed from the refrigerator:
 
--  Parsabiv is stable for a maximum of 7 cumulative days if stored in the original carton. No special temperature storage requirements are needed.
--  If removed from the original carton Parsabiv is stable for a maximum of 4 hours if protected from direct sunlight.
+- Parsabiv is stable for a maximum of 7 cumulative days if stored in the original carton. No special temperature storage requirements are needed.
+- If removed from the original carton Parsabiv is stable for a maximum of 4 hours if protected from direct sunlight.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1114,9 +1115,13 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-s.a. Amgen n.v. Tel/Tél: +32 (0)2 7752711
+s.a. Amgen n.v.
 
-Lietuva Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
+Tel/Tél: +32 (0)2 7752711
+
+## Lietuva
+
+Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1134,7 +1139,7 @@ Amgen, filial af Amgen AB, Sverige Tlf: +45 39617500
 
 ## Deutschland
 
-AMGEN GmbH Tel.: +49 89 1490960
+Amgen GmbH Tel.: +49 89 1490960
 
 ## Eesti
 
@@ -1142,7 +1147,7 @@ Amgen Switzerland AG Vilniaus filialas Tel: +372 586 09553
 
 ## Ελλάδα
 
-Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε. Τηλ.: +30 210 3447000
+Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε. Τηλ .: +30 210 3447000
 
 ## España
 
@@ -1162,11 +1167,15 @@ Amgen Ireland Limited Tel: +353 1 8527400
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor Sími: +354 535 7000
 
 ## Italia
 
 Amgen S.r.l. Tel: +39 02 6241121
+
+## Kύπρος
+
+C.A. Papaellinas Ltd Τηλ.: +357 22741 741
 
 ## Luxembourg/Luxemburg
 
@@ -1174,11 +1183,13 @@ s.a. Amgen Belgique/Belgien Tel/Tél: +32 (0)2 7752711
 
 ## Magyarország
 
-Amgen Kft. Tel.: +36 1 35 44 700
+Amgen Kft.
+
+Tel.: +36 1 35 44 700
 
 ## Malta
 
-Amgen B.V. The Netherlands Tel: +31 (0)76 5732500
+Amgen S.r.l. Italy Tel: +39 02 6241121
 
 ## Nederland
 
@@ -1186,13 +1197,11 @@ Amgen B.V. Tel: +31 (0)76 5732500
 
 ## Norge
 
-Amgen AB Tel: +47 23308000
+Amgen AB Tlf: +47 23308000
 
 ## Österreich
 
-Amgen GmbH
-
-Tel: +43 (0)1 50 217
+Amgen GmbH Tel: +43 (0)1 50 217
 
 ## Polska
 
@@ -1212,40 +1221,28 @@ AMGEN zdravila d.o.o. Tel: +386 (0)1 585 1767
 
 ## Slovenská republika
 
-Amgen Slovakia s.r.o. Tel: +421 2 321 114 49
+Amgen Slovakia s.r.o.
+
+Tel: +421 2 321 114 49
 
 ## Suomi/Finland
 
-Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland Puh/Tel: +358 (0)9 54900500
+Amgen AB, sivuliike Suomessa/Amgen AB, filial
+
+i Finland Puh/Tel: +358 (0)9 54900500
+
+## Sverige
+
+Amgen AB Tel: +46 (0)8 6951100
 
 <div style=\"page-break-after: always\"></div>
 
-## Kύπρος
-
-C.A. Papaellinas Ltd
-
-Τηλ.: +357 22741 741
-
 ## Latvija
 
-Amgen Switzerland AG Rīgas filiāle
-
-Tel: +371 257 25888
+Amgen Switzerland AG Rīgas filiāle Tel: +371 257 25888
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
-
-## Sverige
-
-Amgen AB
-
-Tel: +46 (0)8 6951100
-
-## United Kingdom (Northern Ireland)
-
-Amgen Limited
-
-Tel: +44 (0)1223 420305

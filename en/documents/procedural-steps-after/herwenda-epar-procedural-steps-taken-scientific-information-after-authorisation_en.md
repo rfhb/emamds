@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-20 17:32:25
-document_pages: 2
+document_datetime: 2026-08-18 17:54:28
+document_pages: 5
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/herwenda-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: herwenda-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.1599595
-conversion_datetime: 2025-12-24 04:28:45.78078
+processing_time: 2.4365214
+conversion_datetime: 2026-08-23 00:09:09.222086
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## Herwenda
 
@@ -22,15 +22,9 @@ Procedural steps taken and scientific information after the authorisation*
 
 *Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Application number   | Scope                                  | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                                          |
-|----------------------|----------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|--------------------------------------------------|
-| Variation type II /  | This was an application for a group of | 04/09/2025                          |                                             | SmPC, Annex                      | The SmPC Section 9 and Annex II has been updated |
-
-1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
-
-2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
-
-3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+| Application number   | Scope    | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                                |
+|----------------------|----------|-------------------------------------|---------------------------------------------|----------------------------------|----------------------------------------|
+| Variation type II /  | Outcome: | 09/07/2026                          |                                             | SmPC, Annex                      | Amendments are made to include the new |
 
 <!-- image -->
 
@@ -38,5 +32,22 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/VR/0000269636   | variations. B.II.b.1 Replacement or addition of a   | II, Labelling and PL   | as follows: To amend date of first authorisation and to add the approved batch release site. The Labelling and PL have been updated accordingly.   |
-|---------------------|-----------------------------------------------------|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| EMA/VR/0000343075   | This was an application for a group of variations. Q.II.e.6 Change in pack size of the finished product - Q.II.e.6.c) Change in the fill weight/fill volume of sterile multidose (or singledose, partial use) parenteral finished products - Accepted Q.II.b.2 Change to batch release arrangements and batch control testing of the finished product - Q.II.b.2.a) Addition or replacement of a batch control/testing site applying physicochemical and/or microbiological analytical procedures for the finished product - Accepted E. Administrative Changes - E.5 Deletion of manufacturing sites for an active substance, intermediate or finished product, storage of master and/or working cell bank, primary and/or secondary packaging site, manufacturer responsible for batch release, site where quality control takes place, and/or supplier of a packaging component, medical device (part), starting material, reagent and/or excipient (when mentioned in the dossier) - Accepted Q.II.f.1.b) Extension of the shelf life of the finished product - Q.II.f.1.b.3 After dilution or reconstitution (supported by real time   | II, Labelling and PL   | presentation (EU/1/23/1762/002), to include information on polysorbates and other editorial changes to the SmPC Sections 1, 2, 4.4, 6.3, 6.5, 6.6, Annex IIA, IIIA and IIIB and Annex A.   |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | intermediate used in the manufacture of the finished product - Q.II.b.3.a) Minor change in the manufacturing process - Accepted Q.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - Q.II.b.3.a) Minor change in the manufacturing process - Accepted Q.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - Q.II.b.3.a) Minor change in the manufacturing process - Accepted E. Administrative Changes - E.5 Deletion of manufacturing sites for an active substance, intermediate or finished product, storage of master and/or working cell bank, primary and/or secondary packaging site, manufacturer responsible for batch release, site where quality control takes place, and/or supplier of a packaging component, medical device (part), starting material, reagent and/or excipient (when mentioned in the   |            |
+|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Variation type IB / EMA/VR/0000339287 | Outcome: Q.I.d.1.a) Re-test period/storage period - Q.I.d.1.a.4 Extension of re-test period/storage period supported by real time data not in accordance with an approved stability protocol or an extension based on                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 23/04/2026 |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | extrapolation of stability data in accordance with relevant stability guidelines - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |            |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Variation type IB / EMA/VR/0000313861 | Outcome: This was an application for a group of variations. B.I.b.2 Change in test procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - B.I.b.2.c Other changes to a test procedure (including replacement or addition) for a reagent, which does not have a significant effect on the overall quality of the active substance - Accepted B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate / reagent used in the manufacturing process of the active substance - B.I.b.1.b Tightening of specification limits - Accepted B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate / reagent used in the manufacturing process of the active substance - B.I.b.1.c Addition of a new specification parameter to the specification with its corresponding test method - Accepted | 19/12/2025 |
+
+<div style=\"page-break-after: always\"></div>
+
+| Variation type II / EMA/VR/0000269636   | Outcome: This was an application for a group of variations. B.II.b.1 Replacement or addition of a manufacturing site for part or all of the manufacturing process of the finished product - B.II.b.1.c Site where any manufacturing operation(s) take place, except batch release, batch control, and secondary packaging, for biological/ immunological medicinal products, or for pharmaceutical forms manufactured by complex manufacturing processes - Accepted B.II.b.2.c Replacement or addition of a manufacturer responsible for importation   | 04/09/2025   | SmPC, Annex II, Labelling and PL   | The SmPC Section 9 and Annex II has been updated as follows: To amend date of first authorisation and to add the approved batch release site. The Labelling and PL have been updated accordingly.   |
+|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

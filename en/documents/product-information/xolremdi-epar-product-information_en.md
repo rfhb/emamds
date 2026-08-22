@@ -1,20 +1,20 @@
 ---
-document_datetime: 2026-07-07 08:52:24
+document_datetime: 2026-08-20 15:10:59
 document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/xolremdi-epar-product-information_en.pdf
 document_name: xolremdi-epar-product-information_en.pdf
 version: success
-processing_time: 8.6730006
-conversion_datetime: 2026-07-10 22:51:40.840132
+processing_time: 10.3944477
+conversion_datetime: 2026-08-23 00:58:32.392617
 docling_version:
-  docling-serve: 1.26.0
-  docling-jobkit: 2.0.0
-  docling: 2.111.0
-  docling-core: 2.86.0
-  docling-ibm-models: 3.13.3
-  docling-parse: 7.8.0
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.5.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -591,6 +591,10 @@ Name and address of the manufacturer responsible for batch release
 
 Catalent Germany Schorndorf GmbH Steinbeisstrasse 1 - 2 73614 Schorndorf Germany
 
+Norgine B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam The Netherlands
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
+
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
@@ -618,13 +622,13 @@ An updated RMP should be submitted:
 
 Prior to the launch of Xolremdi in each Member State, the MAH must agree about the content and format of the educational programme, including communication media, distribution modalities and any other aspects of the programme, with the National Competent Authority.
 
+<div style=\"page-break-after: always\"></div>
+
 The educational programme is aimed at reducing the potential risk of embryo-foetal toxicity associated with Xolremdi.
 
 The MAH shall ensure that in each member state where Xolremdi is marketed, all healthcare professionals who are expected to prescribe Xolremdi have access to/are provided with the following educational package:
 
 -  Physician educational materials
-
-<div style=\"page-break-after: always\"></div>
 
 The MAH shall ensure that in each Member State where Xolremdi is marketed, all patients/carers who are expected to use Xolremdi are provided with the following educational package:
 
@@ -634,7 +638,9 @@ The MAH shall ensure that in each Member State where Xolremdi is marketed, all p
 
 -  Summary of Product Characteristics
 -  Guide for healthcare professionals
--  Guide for Healthcare Professionals
+
+##  Guide for Healthcare Professionals
+
 - o Xolremdi may cause embryo-foetal harm when administered to a pregnant woman.
 - o Xolremdi is contraindicated in pregnant women.
 - o The pregnancy status of female patients of childbearing potential who are engaging in activities of reproductive potential should be verified prior to starting Xolremdi.
@@ -648,18 +654,20 @@ The MAH shall ensure that in each Member State where Xolremdi is marketed, all p
 
 -  Package leaflet
 -  Patient card
--  Patient card :
+
+##  Patient card :
+
 - o Warning not to take Xolremdi if pregnant. Xolremdi poses a potential risk to your unborn child.
 - o Instruction to use highly effective contraception methods (e.g. double-barrier contraception) for women of childbearing potential during treatment with Xolremdi and for three weeks after the last dose.
 - o Instruction for male patients to use effective contraception when having sexual intercourse with a female partner of childbearing potential during treatment with Xolremdi and for three weeks after the last dose.
 - o Instruction to contact relevant healthcare professional immediately if pregnancy is suspected.
 - o Instruction to read the package leaflet for further information and guidance.
 
+<div style=\"page-break-after: always\"></div>
+
 ## E. SPECIFIC OBLIGATION TO COMPLETE POST-AUTHORISATION MEASURES FOR THE MARKETING AUTHORISATION UNDER EXCEPTIONAL CIRCUMSTANCES
 
 This being an approval under exceptional circumstances and pursuant to Article 14(8) of Regulation (EC) No 726/2004, the MAH shall conduct, within the stated timeframe, the following measures:
-
-<div style=\"page-break-after: always\"></div>
 
 | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Due date                              |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
@@ -1143,6 +1151,10 @@ Norgine B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam The Netherlands
 ## Manufacturer
 
 Catalent Germany Schorndorf GmbH Steinbeisstrasse 1 - 2 73614 Schorndorf Germany
+
+Or
+
+Norgine B.V. Antonio Vivaldistraat 150 1083 HP Amsterdam The Netherlands
 
 ## This leaflet was last revised in
 

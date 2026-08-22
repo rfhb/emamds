@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xeljanz.html
 document_name: xeljanz.html
 version: success
-processing_time: 0.259913
-conversion_datetime: 2026-08-22 22:42:23.66757
+processing_time: 0.2818485
+conversion_datetime: 2026-08-22 23:16:34.955997
 docling_version:
   docling-serve: 1.31.0
   docling-jobkit: 3.4.0

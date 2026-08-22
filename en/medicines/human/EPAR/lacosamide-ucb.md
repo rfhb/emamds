@@ -1,32 +1,32 @@
 ---
-document_datetime: 2025-12-29 09:33:46
+document_datetime: 2026-08-20 18:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lacosamide-ucb.html
 document_name: lacosamide-ucb.html
 version: success
-processing_time: 0.1153316
-conversion_datetime: 2025-12-30 00:43:43.825005
+processing_time: 0.1509844
+conversion_datetime: 2026-08-22 22:51:30.475279
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
-  docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-serve: 1.31.0
+  docling-jobkit: 3.4.0
+  docling: 2.121.0
+  docling-core: 2.92.0
+  docling-ibm-models: 3.14.0
+  docling-parse: 7.15.0
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.6.2-arm64-arm-64bit-Mach-O
 ---
 # Lacosamide UCB
 
 [RSS](/en/individual-human-medicine.xml/67233)
 
-##### Authorised
+Authorised
 
 This medicine is authorised for use in the European Union
 
-lacosamide Medicine Human Authorised
+lacosamide
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+Medicine Human Authorised
 
 Page contents
 
@@ -38,7 +38,6 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Lacosamide UCB](#news-on)
-- [Topics](#topics)
 
 - Application under evaluation
 - CHMP opinion
@@ -56,7 +55,7 @@ Expand section
 
 Collapse section
 
-## How is Lacosamide UCB used?
+### How is Lacosamide UCB used?
 
 The medicine can only be obtained with a prescription and is available as tablets, as a syrup and as a solution for infusion (drip) into a vein. Lacosamide UCB should be taken twice a day; the dosage depends on the patient's weight and age, as well as whether Lacosamide UCB is used alone or with other epilepsy medicines.
 
@@ -64,11 +63,11 @@ Lacosamide UCB infusion can be used to begin treatment. It can also be used in p
 
 For more information about using Lacosamide UCB, see the package leaflet or contact your doctor or pharmacist.
 
-## How does Lacosamide UCB work?
+### How does Lacosamide UCB work?
 
 The active substance in Lacosamide UCB, lacosamide, is an epilepsy medicine. Epilepsy is caused by excessive electrical activity in the brain. The exact way in which lacosamide works is still unclear but it seems to reduce the activity of sodium channels (pores on the surface of nerve cells) that allow electrical impulses to be transmitted between nerve cells. This action may prevent abnormal electrical activity in the brain, reducing the chance of an epileptic fit.
 
-## What benefits of Lacosamide UCB have been shown in studies?
+### What benefits of Lacosamide UCB have been shown in studies?
 
 **Partial-onset seizures**
 
@@ -82,23 +81,23 @@ Two additional studies looked at the appropriate duration of the infusion for La
 
 A further study involving 242 patients from 4 years with idiopathic generalised epilepsy compared Lacosamide UCB with placebo, both used with other epilepsy medicines. The study showed that Vimpat lowered the risk of having a tonic-clonic seizure: after 24 weeks of treatment, around 31% of patients taking Vimpat were free from seizures compared with around 17% of patients receiving placebo.
 
-## What are the risks associated with Lacosamide UCB?
+### What are the risks associated with Lacosamide UCB?
 
 The most common side effects with Lacosamide UCB (which may affect more than 1 in 10 people) are dizziness, headache, diplopia (double vision) and nausea (feeling sick). The risk of side effects affecting the nervous system such as dizziness may be higher after a high first dose and dizziness was the most common reason for stopping treatment.
 
 Lacosamide UCB must not be used in people who have second- or third-degree AV block (a type of heart rhythm disorder). For the full list of side effects and restrictions of Lacosamide UCB, see the package leaflet.
 
-## Why is Lacosamide UCB authorised in the EU?
+### Why is Lacosamide UCB authorised in the EU?
 
 The European Medicines Agency decided that Lacosamide UCB, used alone or added to other epilepsy medicines, had been shown to be effective in the treatment of partial-onset and tonic clonic seizures. Taking its side effects into account, the Agency decided that Lacosamide UCB's benefits are greater than its risks and it can be authorised for use in the EU.
 
-## What measures are being taken to ensure the safe and effective use of Lacosamide UCB?
+### What measures are being taken to ensure the safe and effective use of Lacosamide UCB?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Lacosamide UCB have been included in the summary of product characteristics and the package leaflet.
 
 As for all medicines, data on the use of Lacosamide UCB are continuously monitored. Side effects reported with Lacosamide UCB are carefully evaluated and any necessary action taken to protect patients.
 
-## Other information about Lacosamide UCB
+### Other information about Lacosamide UCB
 
 Lacosamide UCB received a marketing authorisation valid throughout the EU on 26 August 2019
 
@@ -108,597 +107,318 @@ Reference Number: EMA/649409/2020
 
 English (EN) (124.68 KB - PDF)
 
-**First published:** 12/09/2019
-
-**Last updated:** 25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/en/documents/overview/lacosamide-ucb-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-166)
+[Other languages (22)](#file-language-dropdown-193)
 
 български (BG) (153.44 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/bg/documents/overview/lacosamide-ucb-epar-medicine-overview_bg.pdf)
 
 español (ES) (128.76 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/es/documents/overview/lacosamide-ucb-epar-medicine-overview_es.pdf)
 
 čeština (CS) (152.82 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/cs/documents/overview/lacosamide-ucb-epar-medicine-overview_cs.pdf)
 
 dansk (DA) (126.52 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/da/documents/overview/lacosamide-ucb-epar-medicine-overview_da.pdf)
 
 Deutsch (DE) (130.71 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/de/documents/overview/lacosamide-ucb-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (115.99 KB - PDF)
+eesti (ET) (115.99 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/et/documents/overview/lacosamide-ucb-epar-medicine-overview_et.pdf)
 
 ελληνικά (EL) (155.7 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/el/documents/overview/lacosamide-ucb-epar-medicine-overview_el.pdf)
 
 français (FR) (129.91 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/fr/documents/overview/lacosamide-ucb-epar-medicine-overview_fr.pdf)
 
 hrvatski (HR) (148.33 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/hr/documents/overview/lacosamide-ucb-epar-medicine-overview_hr.pdf)
 
 italiano (IT) (125.94 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/it/documents/overview/lacosamide-ucb-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (168.35 KB - PDF)
+latviešu (LV) (168.35 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/lv/documents/overview/lacosamide-ucb-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (151.17 KB - PDF)
+lietuvių (LT) (151.17 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/lt/documents/overview/lacosamide-ucb-epar-medicine-overview_lt.pdf)
 
 magyar (HU) (151.49 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/hu/documents/overview/lacosamide-ucb-epar-medicine-overview_hu.pdf)
 
 Malti (MT) (154.38 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/mt/documents/overview/lacosamide-ucb-epar-medicine-overview_mt.pdf)
 
 Nederlands (NL) (127.79 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/nl/documents/overview/lacosamide-ucb-epar-medicine-overview_nl.pdf)
 
 polski (PL) (155.13 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/pl/documents/overview/lacosamide-ucb-epar-medicine-overview_pl.pdf)
 
 português (PT) (128.86 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/pt/documents/overview/lacosamide-ucb-epar-medicine-overview_pt.pdf)
 
 română (RO) (149.79 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/ro/documents/overview/lacosamide-ucb-epar-medicine-overview_ro.pdf)
 
 slovenčina (SK) (151.72 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/sk/documents/overview/lacosamide-ucb-epar-medicine-overview_sk.pdf)
 
 slovenščina (SL) (150.93 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/sl/documents/overview/lacosamide-ucb-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (127.05 KB - PDF)
+suomi (FI) (127.05 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/fi/documents/overview/lacosamide-ucb-epar-medicine-overview_fi.pdf)
 
 svenska (SV) (126.62 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-25/03/2024
+**First published:** 12/09/2019 **Last updated:** 25/03/2024
 
 [View](/sv/documents/overview/lacosamide-ucb-epar-medicine-overview_sv.pdf)
 
 Lacosamide UCB : EPAR - Risk-management-plan
 
-English (EN) (2.74 MB - PDF)
+English (EN) (1.19 MB - PDF)
 
-**First published:** 12/09/2019
-
-**Last updated:** 07/11/2023
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/en/documents/rmp/lacosamide-ucb-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
-Lacosamide UCB : EPAR - Product Information
+Lacosamide UCB : EPAR - Product information
 
-English (EN) (1.19 MB - PDF)
+English (EN) (1.31 MB - PDF)
 
-**First published:** 12/09/2019
-
-**Last updated:** 23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/en/documents/product-information/lacosamide-ucb-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-318)
+[Other languages (24)](#file-language-dropdown-92)
 
-български (BG) (1.32 MB - PDF)
+български (BG) (1.11 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/bg/documents/product-information/lacosamide-ucb-epar-product-information_bg.pdf)
 
-español (ES) (1.24 MB - PDF)
+español (ES) (1.01 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/es/documents/product-information/lacosamide-ucb-epar-product-information_es.pdf)
 
 čeština (CS) (1.17 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/cs/documents/product-information/lacosamide-ucb-epar-product-information_cs.pdf)
 
-dansk (DA) (1005.2 KB - PDF)
+dansk (DA) (1.25 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/da/documents/product-information/lacosamide-ucb-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.05 MB - PDF)
+Deutsch (DE) (1.09 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/de/documents/product-information/lacosamide-ucb-epar-product-information_de.pdf)
 
-eesti keel (ET) (984.73 KB - PDF)
+eesti (ET) (1002.61 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/et/documents/product-information/lacosamide-ucb-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.34 MB - PDF)
+ελληνικά (EL) (1.21 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/el/documents/product-information/lacosamide-ucb-epar-product-information_el.pdf)
 
-français (FR) (1.11 MB - PDF)
+français (FR) (1.18 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/fr/documents/product-information/lacosamide-ucb-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.08 MB - PDF)
+hrvatski (HR) (1.07 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/hr/documents/product-information/lacosamide-ucb-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.37 MB - PDF)
+italiano (IT) (1.14 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
-
-[View](/is/documents/product-information/lacosamide-ucb-epar-product-information_is.pdf)
-
-italiano (IT) (1.8 MB - PDF)
-
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/it/documents/product-information/lacosamide-ucb-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.35 MB - PDF)
+latviešu (LV) (1.19 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/lv/documents/product-information/lacosamide-ucb-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.35 MB - PDF)
+lietuvių (LT) (1.21 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/lt/documents/product-information/lacosamide-ucb-epar-product-information_lt.pdf)
 
-magyar (HU) (1.4 MB - PDF)
+magyar (HU) (1.18 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/hu/documents/product-information/lacosamide-ucb-epar-product-information_hu.pdf)
 
-Malti (MT) (1.42 MB - PDF)
+Malti (MT) (1.27 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/mt/documents/product-information/lacosamide-ucb-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.37 MB - PDF)
+Nederlands (NL) (1.12 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/nl/documents/product-information/lacosamide-ucb-epar-product-information_nl.pdf)
 
-norsk (NO) (1009.63 KB - PDF)
+polski (PL) (1.33 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
-
-[View](/no/documents/product-information/lacosamide-ucb-epar-product-information_no.pdf)
-
-polski (PL) (1.35 MB - PDF)
-
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/pl/documents/product-information/lacosamide-ucb-epar-product-information_pl.pdf)
 
-português (PT) (1.05 MB - PDF)
+português (PT) (1.02 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/pt/documents/product-information/lacosamide-ucb-epar-product-information_pt.pdf)
 
-română (RO) (1.24 MB - PDF)
+română (RO) (1.15 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/ro/documents/product-information/lacosamide-ucb-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.3 MB - PDF)
+slovenčina (SK) (1.27 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/sk/documents/product-information/lacosamide-ucb-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.28 MB - PDF)
+slovenščina (SL) (1.13 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/sl/documents/product-information/lacosamide-ucb-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.15 MB - PDF)
+suomi (FI) (1.1 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/fi/documents/product-information/lacosamide-ucb-epar-product-information_fi.pdf)
 
 svenska (SV) (1.01 MB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-23/05/2025
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
 
 [View](/sv/documents/product-information/lacosamide-ucb-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000266348 12/05/2025
+Íslenska (IS) (1.11 MB - PDF)
+
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
+
+[View](/is/documents/product-information/lacosamide-ucb-epar-product-information_is.pdf)
+
+norsk (NO) (1.03 MB - PDF)
+
+**First published:** 12/09/2019 **Last updated:** 20/08/2026
+
+[View](/no/documents/product-information/lacosamide-ucb-epar-product-information_no.pdf)
+
+**Latest procedure affecting product information:** VR/0000321459
+
+23/07/2026
 
 icon globe
 
 <!-- image -->
 
-This medicine's product information is available in all **official EU languages** . Select 'available languages' to access the language you need.
+This medicine's product information is available in all **official EU languages** .  
+Select 'available languages' to access the language you need.
 
 Product information documents contain:
 
@@ -708,309 +428,172 @@ Product information documents contain:
 - labelling (annex IIIA);
 - package leaflet (annex IIIB).
 
-Lacosamide UCB : EPAR - All Authorised presentations
+Lacosamide UCB : EPAR - All authorised presentations
 
 English (EN) (43.03 KB - PDF)
 
-**First published:** 12/09/2019
-
-**Last updated:** 30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/en/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-584)
+[Other languages (24)](#file-language-dropdown-594)
 
 български (BG) (165 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/bg/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_bg.pdf)
 
 español (ES) (42.14 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/es/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_es.pdf)
 
 čeština (CS) (115.3 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/cs/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_cs.pdf)
 
 dansk (DA) (40.85 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/da/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_da.pdf)
 
 Deutsch (DE) (50.42 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/de/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (41.75 KB - PDF)
+eesti (ET) (41.75 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/et/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_et.pdf)
 
 ελληνικά (EL) (155.46 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/el/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_el.pdf)
 
 français (FR) (147.03 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/fr/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_fr.pdf)
 
 hrvatski (HR) (149.44 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/hr/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (49.66 KB - PDF)
-
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
-
-[View](/is/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_is.pdf)
-
 italiano (IT) (38.31 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/it/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (157.78 KB - PDF)
+latviešu (LV) (157.78 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/lv/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (152.91 KB - PDF)
+lietuvių (LT) (152.91 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/lt/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_lt.pdf)
 
 magyar (HU) (153.35 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/hu/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_hu.pdf)
 
 Malti (MT) (158.51 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/mt/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_mt.pdf)
 
 Nederlands (NL) (39.41 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/nl/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (97.54 KB - PDF)
-
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
-
-[View](/no/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_no.pdf)
-
 polski (PL) (148.05 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/pl/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_pl.pdf)
 
 português (PT) (41.85 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/pt/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_pt.pdf)
 
 română (RO) (165.82 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/ro/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_ro.pdf)
 
 slovenčina (SK) (153.7 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/sk/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_sk.pdf)
 
 slovenščina (SL) (141.92 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/sl/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (48.88 KB - PDF)
+suomi (FI) (48.88 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/fi/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_fi.pdf)
 
 svenska (SV) (39.13 KB - PDF)
 
-**First published:**
-
-12/09/2019
-
-**Last updated:**
-
-30/03/2022
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
 
 [View](/sv/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_sv.pdf)
 
+Íslenska (IS) (49.66 KB - PDF)
+
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
+
+[View](/is/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_is.pdf)
+
+norsk (NO) (97.54 KB - PDF)
+
+**First published:** 12/09/2019 **Last updated:** 30/03/2022
+
+[View](/no/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_no.pdf)
+
 ## Product details
 
-Name of medicine Lacosamide UCB Active substance lacosamide International non-proprietary name (INN) or common name lacosamide Therapeutic area (MeSH) Epilepsies, Partial Anatomical therapeutic chemical (ATC) code N03AX18
+- **Name of medicine**
+    - Lacosamide UCB
+- **Active substance**
+    - lacosamide
+- **International non-proprietary name (INN) or common name**
+    - lacosamide
+- **Therapeutic area (MeSH)**
+    - Epilepsies, Partial
+- **Anatomical therapeutic chemical (ATC) code**
+    - N03AX18
 
 ### Pharmacotherapeutic group
 
@@ -1022,13 +605,16 @@ Lacosamide UCB is indicated as monotherapy and adjunctive therapy in the treatme
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005243 Marketing authorisation holder
-
-UCB Pharma S.A.
-
-Allée de la Recherche 60
-
-Opinion adopted 27/06/2019 Marketing authorisation issued 26/08/2019 Revision 8
+- **EMA product number**
+    - EMEA/H/C/005243
+- **Marketing authorisation holder**
+    - UCB Pharma S.A. Allée de la Recherche 60  B-1070 Bruxelles  Belgium
+- **Opinion adopted**
+    - 27/06/2019
+- **Marketing authorisation issued**
+    - 26/08/2019
+- **Revision**
+    - 9
 
 ## Assessment history
 
@@ -1036,13 +622,13 @@ Expand section
 
 Collapse section
 
-## Changes since initial authorisation of medicine
+### Changes since initial authorisation of medicine
 
 Lacosamide UCB : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (151.22 KB - PDF)
+English (EN) (158.8 KB - PDF)
 
-**First published:** 23/05/2025
+**First published:** 23/05/2025 **Last updated:** 20/08/2026
 
 [View](/en/documents/procedural-steps-after/lacosamide-ucb-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1050,17 +636,23 @@ Lacosamide UCB : EPAR - Procedural steps taken and scientific information after 
 
 English (EN) (171.81 KB - PDF)
 
-**First published:** 29/01/2021
-
-**Last updated:** 23/05/2025
+**First published:** 29/01/2021 **Last updated:** 23/05/2025
 
 [View](/en/documents/procedural-steps-after/lacosamide-ucb-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
+Lacosamide UCB-VR-0000321459 : EPAR - Assessment report - Variation
+
+Adopted Reference Number: EMADOC-1700519818-3015851
+
+English (EN) (1.64 MB - PDF)
+
+**First published:** 20/08/2026
+
+[View](/en/documents/variation-report/lacosamide-ucb-vr-0000321459-epar-assessment-report-variation_en.pdf)
+
 Lacosamide UCB-H-C-WS2049-G : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/99116/2022
+Adopted Reference Number: EMA/99116/2022
 
 English (EN) (6.48 MB - PDF)
 
@@ -1070,9 +662,7 @@ English (EN) (6.48 MB - PDF)
 
 CHMP post-authorisation summary of opinion for Lacosamide UCB (WS-2049-G)
 
-Adopted
-
-Reference Number: EMA/CHMP/37452/2022
+Adopted Reference Number: EMA/CHMP/37452/2022
 
 English (EN) (105.87 KB - PDF)
 
@@ -1082,9 +672,7 @@ English (EN) (105.87 KB - PDF)
 
 Lacosamide UCB-H-C-5243-WS-1782 : EPAR - Assessment report - Variation
 
-Adopted
-
-Reference Number: EMA/23665/2021
+Adopted Reference Number: EMA/23665/2021
 
 English (EN) (3.85 MB - PDF)
 
@@ -1094,9 +682,7 @@ English (EN) (3.85 MB - PDF)
 
 CHMP post-authorisation summary of positive opinion for Lacosamide UCB (WS/1782)
 
-Adopted
-
-Reference Number: EMA/CHMP/544469/2020
+Adopted Reference Number: EMA/CHMP/544469/2020
 
 English (EN) (132.95 KB - PDF)
 
@@ -1104,13 +690,11 @@ English (EN) (132.95 KB - PDF)
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-lacosamide-ucb-ws1782_en.pdf)
 
-## Initial marketing authorisation documents
+### Initial marketing authorisation documents
 
 Lacosamide UCB : EPAR - Public assessment report
 
-Adopted
-
-Reference Number: EMA/CHMP/441053/2019
+Adopted Reference Number: EMA/CHMP/441053/2019
 
 English (EN) (275.08 KB - PDF)
 
@@ -1120,9 +704,7 @@ English (EN) (275.08 KB - PDF)
 
 CHMP summary of positive opinion for Lacosamide UCB
 
-Adopted
-
-Reference Number: EMA/CHMP/343641/2019
+Adopted Reference Number: EMA/CHMP/343641/2019
 
 English (EN) (62.95 KB - PDF)
 
@@ -1130,20 +712,22 @@ English (EN) (62.95 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-lacosamide-ucb_en.pdf)
 
-#### News on Lacosamide UCB
+## News on Lacosamide UCB
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 January 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-january-2022) 28/01/2022
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 January 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-january-2022)
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2020) 16/10/2020
+28/01/2022
 
-[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2019) 28/06/2019
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2020)
 
-#### Topics
+16/10/2020
 
-- [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2019)
 
-**This page was last updated on** 23/05/2025
+28/06/2019
+
+**This page was last updated on**
+
+20/08/2026
 
 ## Share this page
-
-[Back to top](#main-content)
